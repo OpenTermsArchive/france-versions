@@ -179,13 +179,13 @@ Articles connexes
 
 [Critères d’éligibilité commerciale](https://help.instagram.com/1627591223954487/?helpref=related_articles)
 
+[Comment supprimer mon compte Instagram ?](https://help.instagram.com/139886812848894/?helpref=related_articles)
+
+[Comment supprimer une image de mon enfant sur Instagram ?](https://help.instagram.com/150792105063683/?helpref=related_articles)
+
 [Quelles sont les conditions pour faire une demande de badge Vérifié sur Instagram ?](https://help.instagram.com/312685272613322/?helpref=related_articles)
 
-[Pourquoi ma collecte de fonds a-t-elle été refusée ou supprimée d’Instagram ?](https://help.instagram.com/628570301335995/?helpref=related_articles)
-
-[Qu’est-ce que Stripe ?](https://help.instagram.com/891571044671817/?helpref=related_articles)
-
-[Que se passe-t-il lorsque le compte Instagram d’une personne décédée est transformé en compte de commémoration ?](https://help.instagram.com/231764660354188/?helpref=related_articles)
+[Utilisation de la plate-forme de stickers Instagram](https://help.instagram.com/1038985542908243/?helpref=related_articles)
 
 Articles connexes
 
@@ -203,24 +203,24 @@ Critères d’éligibilité commerciale
 
 [
 
+Comment supprimer mon compte Instagram ?
+
+](https://help.instagram.com/139886812848894/?helpref=related_articles)
+
+[
+
+Comment supprimer une image de mon enfant sur Instagram ?
+
+](https://help.instagram.com/150792105063683/?helpref=related_articles)
+
+[
+
 Quelles sont les conditions pour faire une demande de badge Vérifié sur Instagram ?
 
 ](https://help.instagram.com/312685272613322/?helpref=related_articles)
 
 [
 
-Pourquoi ma collecte de fonds a-t-elle été refusée ou supprimée d’Instagram ?
+Utilisation de la plate-forme de stickers Instagram
 
-](https://help.instagram.com/628570301335995/?helpref=related_articles)
-
-[
-
-Qu’est-ce que Stripe ?
-
-](https://help.instagram.com/891571044671817/?helpref=related_articles)
-
-[
-
-Que se passe-t-il lorsque le compte Instagram d’une personne décédée est transformé en compte de commémoration ?
-
-](https://help.instagram.com/231764660354188/?helpref=related_articles)
+](https://help.instagram.com/1038985542908243/?helpref=related_articles)
