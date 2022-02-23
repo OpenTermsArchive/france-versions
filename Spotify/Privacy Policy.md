@@ -1,6 +1,4 @@
-Votre vie privée est importante. À compter d'aujourd'hui (30 septembre 2021), nous avons mis à jour le texte de notre Politique de confidentialité pour en améliorer la lisibilité et en faciliter la compréhension.
-
-[](#politique-de-confidentialité-spotify)Politique de confidentialité Spotify
+[Politique de confidentialité Spotify](#politique-de-confidentialité-spotify)
 =============================================================================
 
 En vigueur à compter du 30 septembre 2021
