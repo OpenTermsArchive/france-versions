@@ -179,7 +179,7 @@ BIZZBEE
 Service Clients  
 152 avenue Alfred Motte  
 BP 565  
-59100 Roubaix Cedex Le client peut également utiliser le [modèle de formulaire de rétractation](https://www.bizzbee.com/on/demandware.static/-/Sites-Bizzbee-SFRA-Library/fr_FR/v1645596393170/cgv/FormulairedeRetractation.docx) mais ce n’est pas obligatoire.  
+59100 Roubaix Cedex Le client peut également utiliser le [modèle de formulaire de rétractation](https://www.bizzbee.com/on/demandware.static/-/Sites-Bizzbee-SFRA-Library/fr_FR/v1645613574409/cgv/FormulairedeRetractation.docx) mais ce n’est pas obligatoire.  
 Le client bénéficie alors d’un délai de 14 jours à compter de l’envoi de ce courrier pour retourner sa commande (cf article 10 Retours)  
 Bizzbee remboursera le client dans un délai de 14 jours à compter de la réception de la commande ou de la preuve de retour de celle-ci (cf article 11 Remboursement)
 
