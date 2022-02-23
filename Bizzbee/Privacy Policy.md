@@ -1,5 +1,5 @@
-POLITIQUE DE CONFIDENTIALITÉ BIZZBEE
-====================================
+POLITIQUE DE CONFIDENTIALITÉ BZB
+================================
 
   
 BZB SAS (ci-après « BZB » ou « Nous ») appartenant au Groupe Happychic, dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, accorde la plus grande importance à la protection de vos données personnelles.  
@@ -12,11 +12,11 @@ Vous trouverez ci-dessous l’ensemble des informations concernant la manière d
   
 BZB collecte, traite et conserve vos données personnelles pour les différents objectifs (« finalités ») et sur la base des fondements juridiques suivants :
 
-*   Pour assurer l’exécution d’un contrat (ex. CGV du site, règlements des jeux concours, CGU BIZZBEEXME), dans le cadre :  
+*   Pour assurer l’exécution d’un contrat (ex. CGV du site, règlements des jeux concours, CGU BZBXME), dans le cadre :  
     \- De la création et la gestion d’un compte client ainsi que la gestion de notre programme de fidélité ;  
     \- De l’exécution des commandes en ligne ou encore des réservations magasin : livraison, retour, remboursement ;  
     \- De l’organisation de jeux concours ;  
-    \- De la publication de vos posts instagram sur la galerie BIZZBEEXME.
+    \- De la publication de vos posts instagram sur la galerie BZBXME.
 *   A des fins d’intérêts légitimes d’amélioration constante de la pertinence des messages qui vous sont adressés et de la qualité de ses produits et services, dans le cadre :  
     \- De la gestion de nos communications relatives aux produits, offres et événements BZB afin de vous proposer des communications adaptées à vos centres d’intérêts ;  
     \- De la réalisation d’études statistiques et l’analyse de vos habitudes d’achats afin de mieux cerner vos centres d’intérêts ;  
@@ -37,7 +37,7 @@ Une donnée personnelle correspond à toute information se rapportant à une per
 *   **Données relatives à votre moyen de paiement** : numéro de carte bancaire, date de fin de validité de la carte bancaire, cryptogramme visuel (lequel est immédiatement effacé).
 *   **Données nécessaires à la réalisation des actions de fidélisation et de prospection** : historique des achats, solde des points fidélité, leurs préférences et centres d’intérêts, l’historique de navigation sur le site et l’adresse IP.
 *   **Données relatives à vos échanges avec le service client ou tout autre département et votre niveau de satisfaction** : avis sur la qualité des produits et de l’accueil en magasin, messages échangés avec notre service relation client ou tout autre département (ex. Data Protection Office).
-*   **Données relatives aux publications dans la galerie BIZZBEEXME** : photo, nom d’utilisateur/pseudonyme.
+*   **Données relatives aux publications dans la galerie BZBXME** : photo, nom d’utilisateur/pseudonyme.
 
 Il est précisé que l’ensemble des données personnelles collectées est nécessaire à la gestion des activités de BZB, excepté pour les champs de collecte de données qui ne sont pas signalés par un astérisque. Si vous ne fournissez pas ces données ou si vous refusez leur collecte, la gestion des activités de BZB s’avérera difficile, voire impossible et vous ne pourrez pas bénéficier pleinement de nos services. En tout état de cause, BZB s’assure que les données personnelles traitées sont adéquates, pertinentes et non excessives au regard des finalités pour lesquelles elles sont collectées et/ou traitées.  
   
@@ -59,7 +59,7 @@ Les sous-traitants de BZB agissent pour le compte de BZB et conformément à nos
   
 Enfin, BZB est membre de l’alliance Valiuz qui réunit un ensemble d’enseignes autour de la connaissance client. Via Valiuz, les enseignes auprès desquelles vous êtes déjà connu mettent en commun des informations vous concernant. Valiuz nous permet de mieux comprendre vos attentes afin de vous adresser des communications plus pertinentes et de vous proposer une offre de services et de produits personnalisés. Pour plus d’informations, nous vous encourageons à consulter la [rubrique Valiuz sur notre site ou à visiter le site Valiuz.com](https://valiuz.com/mes-droits/)  
   
-A aucun moment BZB ne cède ou ne partage vos données personnelles avec des entreprises dont la finalité est l’acquisition de prospects et l’envoi de sollicitation commerciale par SMS ou par e-mail sans accord de votre part. Les photos que vous avez accepté de partager sur la galerie BIZZBEEXME sont accessibles au public.  
+A aucun moment BZB ne cède ou ne partage vos données personnelles avec des entreprises dont la finalité est l’acquisition de prospects et l’envoi de sollicitation commerciale par SMS ou par e-mail sans accord de votre part. Les photos que vous avez accepté de partager sur la galerie BZBXME sont accessibles au public.  
   
 **4\. Combien de temps vos données personnelles sont-elles conservées ?**  
   
@@ -69,7 +69,7 @@ Vos données personnelles sont conservées sous une forme permettant votre ident
 *   Les données personnelles traitées dans le cadre de la gestion d’une commande et de sa livraison sont conservées le temps de la relation contractuelle, puis durant le délai de la prescription légale qui est de 5 ans.
 *   Les données personnelles traitées dans le cadre de la gestion de vos demandes en matière de protection des données personnelles sont conservées 1 an à compter du dernier échange ou six ans en cas d’opposition.
 *   Les données relatives à la prospection sont conservées 3 ans à compter du dernier contact avec vous.
-*   Les photos publiées sur la galerie BIZZBEEXME sont supprimées au plus tard deux ans après leur publication.
+*   Les photos publiées sur la galerie BZBXME sont supprimées au plus tard deux ans après leur publication.
 
 **5\. Est-ce que BZB utilise des cookies ?**  
   
