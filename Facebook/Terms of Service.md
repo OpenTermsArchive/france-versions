@@ -135,7 +135,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
       
     
 *   Limites quant à l’utilisation de notre propriété intellectuelle  
-    Si vous utilisez du contenu protégé par des droits de propriété intellectuelle que nous possédons et rendons disponibles dans nos produits (par exemple, des images, des dessins, des vidéos ou des sons que nous fournissons et que vous ajoutez à du contenu que vous créez ou partagez sur Facebook), nous conservons tous les droits relatifs à ce contenu (mais pas au vôtre). Vous ne pouvez utiliser nos droits d’auteur ou nos [marques de commerce (ou toute autre marque similaire)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT08QC1Jv51R1XxfOV9ppjzr67fc_sR--nXnwXg_YgjwL3HYX5ikpYr_xKDd_AmdgC3EysPSvJREMhHBEiDSuArV6XSKwDjOCFYEFRel8myGCS5DXPcV9-h--9XsF3JhI-7LkkLbYmrLhw) que dans les cas expressément autorisés par nos [Règles d’utilisation des marques](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT08QC1Jv51R1XxfOV9ppjzr67fc_sR--nXnwXg_YgjwL3HYX5ikpYr_xKDd_AmdgC3EysPSvJREMhHBEiDSuArV6XSKwDjOCFYEFRel8myGCS5DXPcV9-h--9XsF3JhI-7LkkLbYmrLhw) ou après avoir reçu une autorisation écrite de notre part. Vous devez obtenir notre autorisation écrite (ou une autorisation dans le cadre d’une licence open source) pour modifier, créer des œuvres dérivées, décompiler ou tenter autrement d’extraire notre code source.
+    Si vous utilisez du contenu protégé par des droits de propriété intellectuelle que nous possédons et rendons disponibles dans nos produits (par exemple, des images, des dessins, des vidéos ou des sons que nous fournissons et que vous ajoutez à du contenu que vous créez ou partagez sur Facebook), nous conservons tous les droits relatifs à ce contenu (mais pas au vôtre). Vous ne pouvez utiliser nos droits d’auteur ou nos [marques de commerce (ou toute autre marque similaire)](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Ftrademarks%2F&h=AT0n55s5LQHfauof9oKCT_AuYlHxD-iyZGtkEkC-yFNyKzffJidwIzVSfW_guKIOa2NIJrly9tdC8A3bnSLyZb_yjxDzNFHvzXbkgUqy2YQzUXTQ5KpgGmV2j6URufmi4OEUR1dqPY5K7iyQyeek1uvSlzc) que dans les cas expressément autorisés par nos [Règles d’utilisation des marques](https://l.facebook.com/l.php?u=https%3A%2F%2Fen.facebookbrand.com%2Fguidelines%2Fbrand&h=AT0n55s5LQHfauof9oKCT_AuYlHxD-iyZGtkEkC-yFNyKzffJidwIzVSfW_guKIOa2NIJrly9tdC8A3bnSLyZb_yjxDzNFHvzXbkgUqy2YQzUXTQ5KpgGmV2j6URufmi4OEUR1dqPY5K7iyQyeek1uvSlzc) ou après avoir reçu une autorisation écrite de notre part. Vous devez obtenir notre autorisation écrite (ou une autorisation dans le cadre d’une licence open source) pour modifier, créer des œuvres dérivées, décompiler ou tenter autrement d’extraire notre code source.
 
   
 
@@ -221,7 +221,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
     
 *   [Règles commerciales](https://www.facebook.com/policies/commerce) : ces directives soulignent les règles qui s’appliquent lorsque vous proposez des produits et des services à la vente sur Facebook.
     
-*   [Éléments de marque Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT08QC1Jv51R1XxfOV9ppjzr67fc_sR--nXnwXg_YgjwL3HYX5ikpYr_xKDd_AmdgC3EysPSvJREMhHBEiDSuArV6XSKwDjOCFYEFRel8myGCS5DXPcV9-h--9XsF3JhI-7LkkLbYmrLhw) : ces directives soulignent les politiques applicables à l’utilisation des marques, des logos et des captures d’écran Meta.
+*   [Éléments de marque Meta](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=AT0n55s5LQHfauof9oKCT_AuYlHxD-iyZGtkEkC-yFNyKzffJidwIzVSfW_guKIOa2NIJrly9tdC8A3bnSLyZb_yjxDzNFHvzXbkgUqy2YQzUXTQ5KpgGmV2j6URufmi4OEUR1dqPY5K7iyQyeek1uvSlzc) : ces directives soulignent les politiques applicables à l’utilisation des marques, des logos et des captures d’écran Meta.
     
 *   [Règles applicables à la musique](https://www.facebook.com/legal/music_guidelines) : ces directives précisent les règles applicables si vous publiez ou partagez du contenu contenant de la musique sur les Produits Meta.
     
@@ -231,14 +231,3 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
 
   
 Date de la dernière mise à jour : 4 janvier 2022
-
-*   [Confidentialité](https://fr-fr.facebook.com/privacy/explanation/) ·
-*   [Conditions générales](https://fr-fr.facebook.com/policies?ref=pf) ·
-*   [Publicités](https://fr-fr.facebook.com/business/) ·
-*   [Choix publicitaires](https://fr-fr.facebook.com/help/568137493302217)   ·
-*   [Cookies](https://fr-fr.facebook.com/policies/cookies/) ·
-*   Plus
-    
-     ·
-
-Meta © 2022
