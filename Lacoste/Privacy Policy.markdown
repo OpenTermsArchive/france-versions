@@ -1,0 +1,486 @@
+Politique de protection de la vie privée
+========================================
+
+INTRODUCTION
+
+Lacoste (« Nous ») prend très au sérieux la vie privée des personnes qui visitent sa boutique en ligne www.Lacoste.com (le « Site Web »), les boutiques physiques Lacoste (les « Boutiques »), et plus largement, la vie privée des personnes qui lui transmettent leurs Données Personnelles (terme défini ci-après) à l’occasion d’un contact avec sa marque (« Vous »).
+
+  
+
+La présente politique de confidentialité fait partie intégrante des Conditions Générales de Vente. Elle s’applique à chaque fois que vous transmettez vos Données Personnelles à Lacoste et à tous les traitements que Lacoste peut réaliser sur ces Données.
+
+  
+
+Ainsi, vous acceptez explicitement l'utilisation de vos Données Personnelles en accord avec la présente politique de confidentialité, lorsque vous passez une commande sur le Site Web, achetez en Boutique, créez votre compte client ou participez à un jeu concours ; ou lorsque vous contactez notre service clients ou acceptez de recevoir des communications commerciales de notre part, et plus généralement lorsque vous naviguez et/ou vous connectez sur notre Site Web, ou que vous interagissez avec Lacoste de quelque manière que ce soit.
+
+  
+
+Nous nous réservons le droit de modifier notre politique de confidentialité, à tout moment, dans le respect des lois en vigueur en matière de protection des données personnelles. En cas de modification, vous en serez informés par tous moyens appropriés.
+
+Qui est le responsable de traitement et quels sont nos engagements ?
+
+Le groupe Lacoste, incluant notamment les sociétés Lacoste Operations S.A., Lacoste S.A.S, Lacoste France S.A.S. et Lacoste E-commerce S.A.S., situées 31-37 boulevard de Montmorency, 75016 Paris, France, est responsable du traitement de vos Données Personnelles («Lacoste » ou « Nous »).
+
+  
+
+Nous nous engageons à traiter vos Données Personnelles en toute sécurité et dans le respect de la réglementation applicable en France et dans l’Union européenne dans le domaine de la protection des données à caractère personnel (« Réglementation Applicable »), incluant notamment :
+
+  
+
+\- la loi relative à l’informatique, aux fichiers et aux libertés n°78-17 du 6 janvier 1978 modifiée et ses éventuelles mises à jour ;
+
+\- le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l’égard du traitement des Données Personnelles (le « RGPD ») et tout autre texte subséquent y compris ses textes d’application ;
+
+\- les textes adoptés au sein de l’Union européenne et les lois locales applicables aux Données Personnelles, le cas échéant ;
+
+\- les textes et décisions émanant d’autorités de contrôle, notamment de la Commission nationale de l’informatique et des libertés (CNIL).
+
+  
+
+Afin de garantir le respect de la Règlementation Applicable et des dispositions de la présente politique de confidentialité, nous avons désigné un référent en matière de protection des Données Personnelles.
+
+  
+
+Ce référent peut être contacté pour toute question relative à vos Données Personnelles, en utilisant le Formulaire de contact et en sélectionnant la raison de contact « Données Personnelles ».
+
+Quelles données personnelles collectons-nous ?
+
+Le terme « Données Personnelles » désigne toute information vous concernant qui vous rend directement ou indirectement personnellement identifiable.
+
+  
+
+Ainsi, nous sommes amenés à collecter :
+
+\- votre civilité, nom et prénom,
+
+\- adresse postale et numéro de téléphone,
+
+\- adresse email,
+
+\- numéros de carte bancaire collectés lors de votre commande et traités par nos prestataires bancaires en charge de la gestion des paiements,
+
+\- identifiant et mot de passe,
+
+\- date de naissance,
+
+\- correspondances par emails, par chat ou via les réseaux sociaux, et/ou échanges téléphoniques avec le service clients, ainsi que toutes autres données permettant le suivi de la relation commerciale,
+
+\- votre image prise par des caméras de vidéosurveillance présentes dans les Boutiques le cas échéant,
+
+\- cookies et autres traceurs comprenant les données mentionnées à la rubrique QUELLE EST NOTRE POLITIQUE DE GESTION DES COOKIES (TRACEURS) ?, adresse IP et autres informations qui permettent votre identification et que vous mettez à notre disposition à tout moment ;
+
+\- toutes autres informations qui permettent votre identification et que vous mettez à notre disposition à tout moment (via les réseaux sociaux, notre chat…)
+
+  
+
+Si vous vous connectez à notre Site Web grâce à l’authentification Facebook ou Google, Facebook ou Google nous transmettrons les informations personnelles vous concernant, suivant les choix que vous avez opérés via Facebook ou Google, à l’adresse électronique que vous avez renseignée sur Facebook ou Google.
+
+Quand collectons-nous vos données personnelles ?
+
+Nous pouvons collecter vos Données Personnelles lorsque vous :
+
+\- visitez le Site Web ;
+
+\- vous connectez ou vous créez un compte client sur le Site Web ou dans une Boutique ;
+
+\- passez une commande sur le Site Web, dans une Boutique ou par téléphone ;
+
+\- retournez votre commande ;
+
+\- vous inscrivez à la Newsletter ;
+
+\- participez à un jeu concours organisés par nous ou par un de nos partenaires ;
+
+\- envoyez une réclamation, posez une question ou nous faites parvenir vos remarques ;
+
+\- nous communiquez vos Données Personnelles sur le Site Web ou par tout autre façon que ce soit ;
+
+\- interagissez avec nous via nos réseaux sociaux officiels.
+
+  
+
+Par ailleurs, nous utilisons des cookies et autres traceurs, pour obtenir plus d’information nous vous invitons à vous rendre à la rubrique QUELLE EST NOTRE POLITIQUE DE GESTION DES COOKIES (TRACEURS)?.
+
+Pourquoi collectons-nous vos données personnelles ?
+
+Sur la base du contrat qui nous lie, d’une obligation légale, de notre intérêt légitime, ou après avoir obtenu votre consentement, nous sommes amenés à traiter vos Données Personnelles pour satisfaire aux finalités suivantes :
+
+  
+
+\- Finalités des traitements : Exécution des commandes passées sur le Site Web, par téléphone ou en Boutiques
+
+Gestion de la relations clients (téléphone, emails, chat), de la création de compte, du suivi des commandes, des retours produits et des remboursements
+
+Gestion des réclamations clients ou questions relatives aux produits (garantie)
+
+\- Fondements des traitements :
+
+Exécution du contrat passé entre un Client et Lacoste
+
+  
+
+\- Finalités des traitements : Gestion des opérations de paiement et émission d’une facture
+
+\- Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
+
+  
+
+\- Finalités des traitements : Lutte contre la fraude
+
+\- Fondements des traitements : Intérêt légitime de Lacoste
+
+  
+
+\- Finalités des traitements : Gestion des opérations de livraisons
+
+\- Fondements des traitements : Exécution du contrat passé entre un Client et Lacoste
+
+  
+
+\- Finalités des traitements : Gestion des réclamations ou questions relatives aux produits ou à notre marque
+
+\- Fondements des traitements : Intérêt légitime de Lacoste
+
+  
+
+\- Finalités des traitements : Gestion et amélioration du compte client, notamment en proposant de nouvelles fonctionnalités ou de nouveaux services
+
+\- Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
+
+  
+
+\- Finalités des traitements : Gestion de la satisfaction client par l’intermédiaire d’évaluations clients sur les produits et sur la performance du service clients
+
+\- Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer les produits et le service
+
+  
+
+\- Finalités des traitements : Enregistrement des échanges entre le service clients et le client par téléphone ou tchat, à des fins d’amélioration du service
+
+\- Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer la qualité du service
+
+  
+
+\- Finalités des traitements : Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients
+
+\- Fondements des traitements : Intérêt légitime de Lacoste de mieux connaître ses clients, afin notamment d’adapter ses offres aux clients
+
+  
+
+\- Finalités des traitements : Développement et amélioration du Site Web
+
+\- Fondements des traitements : Intérêt légitime de Lacoste afin d’améliorer le service
+
+  
+
+\- Finalités des traitements : Gestion des demandes liées à l’exercice de vos droits
+
+\- Fondements des traitements : Obligation légale
+
+  
+
+\- Finalités des traitements : Envoi d’offres commerciales ciblées concernant les produits et services existants ou nouveaux par voie électronique (par email, par notifications mobiles ou sur le Site Web, sur les réseaux sociaux, sur d’autres sites internet), par téléphone (appel & SMS) ou en Boutique
+
+\- Fondements des traitements : Consentement du Client
+
+  
+
+\- Finalités des traitements : Envoi d’offres commerciales concernant les produits et services via courrier postal
+
+\- Fondements des traitements : Consentement du Client
+
+  
+
+\- Finalités des traitements : Mesure de fréquentation du Sites Web (mobile et desktop)
+
+\- Fondements des traitements : Consentement du client
+
+  
+
+\- Finalités des traitements : Mise à disposition d’outils de partage sur les réseaux sociaux
+
+\- Fondements des traitements : Consentement du client
+
+  
+
+\- Finalités des traitements : Analyse du comportement du client sur le Site Web ou dans les Boutiques, et ses réactions aux campagnes marketing afin d’améliorer et personnaliser les produits et les services, et de les proposer sous forme de communication commerciale et/ou de publicité
+
+\- Fondements des traitements : Consentement du client
+
+Newsletters
+
+Directement sur le Site Web, lors de votre commande ou en Boutiques, vous pouvez vous inscrire à la Newsletter et ainsi choisir d’être informé, à intervalle régulier des offres proposées sur le Site Web et/ou par les Boutiques.
+
+  
+
+Vous avez à tout moment la possibilité de vous désabonner en cliquant sur le lien prévu à cet effet situé en bas de chacune des newsletters ou en utilisant le Formulaire de contact.
+
+A qui transmettons-nous vos données personnelles ?
+
+Nous pouvons être amenés à transmettre tout ou partie de vos Données Personnelles aux entités suivantes :
+
+  
+
+1\. aux différentes sociétés du Groupe Lacoste ainsi qu’à nos franchisés, à nos licenciés et à nos distributeurs, qui pourront utiliser vos Données Personnelles uniquement pour vous envoyer des informations et des offres commerciales, concernant les produits Lacoste existants ou nouveaux, sous réserve d’avoir obtenu votre consentement ;
+
+  
+
+2\. à certains de nos prestataires qui, pour notre compte et selon nos instructions traitent vos données personnelles afin de nous aider à réaliser les prestations suivantes :
+
+\- Exécution de votre commande, y compris la préparation et la livraison de vos produits,
+
+\- Exécution en toute sécurité de votre paiement,
+
+\- Lutte contre la fraude et recouvrement, le cas échéant, des impayés,
+
+\- Envoi des emails de prospection commerciale et des notifications mobiles,
+
+\- Stockage de l’ensemble de vos Données Personnelles,
+
+\- Personnalisation de notre Site Web selon vos affinités,
+
+\- Gestion du tchat, des appels téléphoniques et, de leurs enregistrements éventuels
+
+\- Gestion de l’envoi des courriers postaux,
+
+\- Réalisation d’opérations de maintenance et de développement techniques du Site Web, et des systèmes d’information Lacoste,
+
+\- Recueil des avis clients,
+
+\- Analyse de votre utilisation du Site Web, en vue d'améliorer la qualité et l'efficacité du Site Web.
+
+  
+
+Il est rappelé que les entités auxquelles nous transmettons vos Données Personnelles sont tenues par un contrat à la confidentialité ainsi qu’au respect de la Règlementation Applicable concernant la protection de vos Données Personnelles.
+
+Où transférons-nous vos données personnelles ?
+
+Vos Données Personnelles sont conservées dans l'Espace Economique Européen (« EEE », à savoir les 28 Etats-membres de l’Union Européenne, ainsi que la Norvège, l’Islande et le Liechtenstein), où sont hébergés les serveurs du Site Web.
+
+Certains des prestataires ou sous-traitants à qui nous transférons vos Données Personnelles, tel qu’indiqué à la rubrique A QUI TRANSMETTONS-NOUS VOS DONNEES PERSONNELLES ?, sont établis en dehors de l’EEE, et parfois dans des pays non reconnus par la Commission européenne comme bénéficiant d’un niveau de protection adéquate. Dans ce cas, conformément à la Règlementation Applicable, nous nous engageons à :
+
+\- conclure avec ces sociétés une convention de flux transfrontières, conforme aux clauses contractuelles types de la Commission européenne, ou
+
+\- collaborer avec des entreprises ayant des Règles Internes d’Entreprise (BCR) permettant des transferts transfrontaliers.
+
+Vous pouvez obtenir plus de précision à ce sujet et, le cas échéant obtenir une copie des conventions de flux transfrontière conclues avec nos partenaires, en adressant votre demande via le Formulaire de contact.
+
+Comment assurons-nous la sécurité de vos données ?
+
+Nous avons mis en place des procédures internes afin de garantir la sécurité de vos Données Personnelles lors de leur utilisation, de leur transfert ou encore lors de leur conservation. Nous assurons également la maintenance des procédures mises en place afin de garantir leur conformité avec la Règlementation Applicable.
+
+  
+
+Ces procédures de sécurité comprennent notamment :
+
+\- l’engagement de la part de nos prestataires et sous-traitants, lorsque nous avons recourt à leur service, notamment pour rendre le Site Web et son contenu disponibles pour vous, ou pour exécuter vos commandes (y compris les commandes passées par téléphone), du respect de leurs obligations contractuelles afin d’assurer une protection adéquate des Données Personnelles auxquelles ils ont accès ;
+
+\- la limitation de l'accès à vos Données Personnelles à des employés soumis à une obligation de confidentialité, et dont l’accès à vos Données Personnelles est nécessaire pour vous fournir des produits et services et/ou justifié dans le cadre de leurs attributions ;
+
+\- la mise en place de mesures de précaution pour protéger vos Données Personnelles contre leur destruction, leur perte ou leur altération, et empêcher tout accès non autorisé à vos Données Personnelles ;
+
+\- le stockage de vos Données Personnelles sur des serveurs offrant toutes les garanties de sécurité. Les données sont conservées, conformément à la Règlementation Applicable dans les délais mentionnés à la rubrique COMBIEN DE TEMPS SONT CONSERVEES VOS DONNEES PERSONNELLES?. Les Délais ainsi mentionnés n’excèdent pas la durée nécessaire à la réalisation des finalités figurant à la rubrique POURQUOI COLLECTONS-NOUS VOS DONNEES PERSONNELLES?.
+
+Quels sont vos droits et comment les exercer ?
+
+A. Conformément à la Règlementation Applicable, vous disposez de la faculté d’exercer les droits suivants:
+
+\- Le droit d’accès à vos données,
+
+\- Le droit de rectification et le droit à l’effacement de vos données (droit à l’oubli),
+
+\- Le droit à la limitation du traitement de vos données,
+
+\- Le droit à la portabilité de vos données,
+
+\- Le droit d’opposition au traitement de vos données,
+
+\- Le droit de définir des directives relatives au sort de vos données après votre décès.
+
+  
+
+Afin d’exercer ces droits, vous pouvez nous contacter en utilisant l’un des moyens de communication suivants :
+
+\- via le Formulaire, en sélectionnant la raison de contact « données personnelles »,
+
+\- par courrier postal, accompagné d’une copie d’un titre d’identité, à l’attention du Service Client, à l’adresse suivante : Lacoste S.A.S, 31-37 boulevard de Montmorency, 75 016 Paris, France.
+
+  
+
+Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle compétente (CNIL).
+
+B. Conformément aux articles L.223-1 et suivants du code de la consommation, vous pouvez à tout moment vous inscrire sur la liste d’opposition au démarchage téléphonique :
+
+\- par Internet sur le site www.bloctel.gouv.fr ou
+
+\- par courrier en écrivant à : Société Opposetel, Service Bloctel, 6 rue Nicolas Siret 10000 Troyes.
+
+Cette inscription est gratuite et valable trois ans.
+
+Quelle est notre politique de gestion des cookies (traceurs) ?
+
+Lorsque vous visitez le Site Web, nous pouvons placer de petites informations sur votre ordinateur connues sous le nom de « cookies », qui seront stockées par votre navigateur sur votre disque dur. Ces cookies nous permettent notamment de :
+
+  
+
+\- Assurer le bon fonctionnement de notre Site Web et améliorer votre expérience d'achat,
+
+\- Analyser notre trafic et optimiser la performance de notre site Web,
+
+\- Proposer des contenus personnalisé et adaptés à vos centres d'intérêts,
+
+\- Proposer des publicités ciblées sur notre Site Web et en dehors, notamment sur les réseaux sociaux, ainsi que des publicités en fonction de votre localisation, et
+
+\- Assurer la connexion à notre Site Web par le biais des réseaux sociaux ou d'autres sites tiers.
+
+Quelles sont les cookies que nous utilisons ?
+
+Nous utilisons les cookies suivants :
+
+  
+
+\- Des cookies techniques relatifs aux fonctionnalités du Site Web (obligatoire)
+
+Ces cookies sont essentiels au bon fonctionnement de notre Site Web et ne peuvent pas être paramétrés. Ces cookies vous permettent de parcourir le Site Web, d'utiliser ses fonctionnalités et d’enregistrer vos préférences tels que la langue utilisée, l’accès à votre compte, les produits ajoutés dans le panier d’achat… et de sécuriser notre Site Web contre les fraudes éventuelles par le biais d’analyses prédictives. En cas de suspicion de fraude par nos systèmes, vous privant de la possibilité de passer une commande sur le Site web, vous serez immédiatement informés et vous aurez alors la possibilité de contacter le service clients afin d’obtenir le réexamen de votre paiement.
+
+  
+
+\- Des cookies d'analyse du Site Web
+
+Ces cookies, dits de performance, nous permettent de mesurer la fréquentation du Site Web (nombre de visites, pages vues, sources du trafic…), d’analyser votre navigation sur le Site Web, et vos réactions face aux produits que nous proposons, afin d’en optimiser la performance. Ils recueillent des informations sur la navigation opérée par le visiteur sur le Site Web, afin de nous aider à améliorer l’ergonomie et les fonctionnalités du site. En acceptant ces cookies, vous contribuez à l’amélioration de notre Site Web.
+
+  
+
+\- Des cookies relatifs à vos préférences (Expérience et relation)
+
+Lorsque vous naviguez ou effectuez des achats en ligne, le Site Web mémorise vos préférences. Cela simplifie, facilite et personnalise votre expérience de navigation afin de répondre au mieux à vos préférences et à vos attentes. Ces cookies nous permettent de vous proposer des recommandations de produits, de services pertinents, ou de contenus sur le site, dans les emails qui vous sont envoyés ou en magasin en adéquation avec vos attentes et préférences. Ils peuvent également permettre de tester et d’améliorer l’ergonomie du site. Sans ces cookies, votre utilisation du site peut être ralentie et la pertinence des recommandations limitée.
+
+  
+
+\- Des cookies de géolocalisation :
+
+Ces cookies vous permettent de bénéficier de certaines fonctionnalités de nos services proposés sur le site Web (Ex : jours et horaires d’ouverture d’une boutique…).
+
+  
+
+\- Des cookies de ciblage ou des cookies publicitaires (Marketing & Réseaux sociaux) :
+
+Ces cookies sont utilisés pour diffuser des annonces qui vous intéressent sur notre site et en dehors, y compris sur les réseaux sociaux. Pour ce faire, nous pourrons être amenés à transmettre, sous format crypté, votre adresse emails aux réseaux sociaux partenaires. En outre, ces cookies limitent le nombre de fois où vous voyez une annonce et nous aident à mesurer l'efficacité de nos campagnes publicitaires. Ils récupèrent certaines informations afin de mieux cibler les publicités en fonction de vos centres d'intérêt. Si vous désactivez ces cookies, des publicités (y compris les nôtres) continueront de s’afficher lors de votre navigation mais elles ne tiendront pas compte de vos centres d’intérêts et seront donc moins pertinentes.
+
+  
+
+\- Des cookies Réseaux sociaux :
+
+Ces cookies sont utilisés pour vous permettre de vous connecter sur notre Site Web par le biais des réseaux sociaux tels que Facebook, Google, et d'autres sites tiers.
+
+Comment accepter ou refuser le dépôt de cookies ?
+
+L’enregistrement des cookies sur votre terminal dépend de vos choix, sauf s’agissant des cookies de fonctionnement et de sécurité qui sont nécessaires au bon fonctionnement de notre Site Web. Les cookies sont enregistrés, selon vos préférences, pendant une durée de 13 mois.
+
+  
+
+Vous pouvez exprimer et modifier librement vos préférences en cliquant sur « Paramètres de Confidentialité » accessible en pied de page du Site Web.
+
+  
+
+Vous pouvez également désactiver les cookies de manière autonome en adaptant les réglages de votre navigateur, mais sachez qu'en désactivant les cookies, vous risquez de ne pas pouvoir utiliser toutes les fonctionnalités du Site Web. Voici quelques informations concernant la façon de désactiver les cookies pour certains navigateurs web :
+
+  
+
+**Firefox:**
+
+1\. Cliquez sur le bouton Menu ≡ et sélectionnez Options
+
+2\. Sélectionnez le panneau Vie privée et sécurité.
+
+3\. Dans la zone Historique, pour l'option Règles de conservation, sélectionnez Ne jamais conserver l'historique. Cliquez sur Redémarrer Firefox maintenant.
+
+4\. Revenez sur le Menu ≡ et sélectionnez Options. Enfin sélectionnez le panneau Vie Privée et sécurité.
+
+5\. Dans la section Protection contre le pistage sélectionnez Toujours ou Uniquement dans les fenêtres privées. Puis cliquez modifiez les listes de blocage. Choisissez une des deux options « Protection basique » ou « Protection Stricte ». Attention, « protection stricte » peut empêcher certains sites de fonctionner
+
+Note : Si après exploration de ce paramètre, vous constatez que vous ne pouvez plus voir correctement certains sites web, une solution immédiate est de le positionner sur depuis les sites visités pour autoriser les cookies provenant de sites déjà visités.
+
+6\. Cliquez sur OK pour fermer la fenêtre « Options ».
+
+[https://support.mozilla.org/fr/kb/desactiver-cookies-tiers](https://support.mozilla.org/fr/kb/desactiver-cookies-tiers)
+
+  
+
+**Internet Explorer:**
+
+1\. Cliquez sur le bouton Outils, puis sur Options Internet.
+
+2\. Cliquez sur l’onglet Confidentialité, puis sous Paramètres, déplacez le curseur vers le haut pour bloquer tous les cookies ou vers le bas pour autoriser tous les cookies, puis cliquez sur OK.
+
+[http://windows.microsoft.com/fr-fr/windows7/block-enable-or-allow-cookies](https://windows.microsoft.com/fr-fr/windows7/block-enable-or-allow-cookies)
+
+  
+
+**Google Chrome:**
+
+1\. Dans l'angle supérieur droit, cliquez sur Plus puis Paramètres.
+
+2\. En bas, cliquez sur Paramètres avancés.
+
+3\. Dans la section "Confidentialité", cliquez sur le bouton Paramètres de contenu.
+
+4\. Cliquez sur Cookies.
+
+5\. Désactivez Autoriser les sites à enregistrer/lire les données des cookies.
+
+6\. Cliquez sur OK.
+
+[https://support.google.com/chrome/answer/95647?hl=fr](https://support.google.com/chrome/answer/95647?hl=fr)
+
+  
+
+**Safari:**
+
+1\. Dans la barre de menu en haut, cliquez sur « Safari », puis « Préférences »
+
+2\. Sélectionnez l’icône « Confidentialité »
+
+3\. À côté de « Bloquer les cookies », cochez « Toujours »
+
+[http://support.apple.com/kb/ht1677?viewlocale=frFR&locale=frFR](https://support.apple.com/kb/ht1677?viewlocale=frFR&locale=frFR)
+
+  
+
+Veuillez noter que nous ne contrôlons pas l’utilisation de cookies par des tiers.
+
+Combien de temps sont conservées vos données personnelles ?
+
+Pour les traitements de données personnelles relatifs à la gestion des clients e-commerce, des clients Boutiques et des prospects, incluant notamment la gestion de la relation clients, la gestion des campagnes marketing, le suivi des e-réservations en boutique, la gestion des produits défectueux et le suivi des colis, nous appliquerons les durées de conservation suivantes :
+
+  
+
+\- Les Données Personnelles relatives aux clients : durée de la relation contractuelle augmentée des durées de prescription légales soit 5 ans
+
+\- Les données relatives aux prospects non-clients : 3 ans à compter du dernier contact actif avec notre marque
+
+\- Cookies historiques d'achat et de navigation : 13 mois
+
+\- Numéro et date de validité d'une carte bancaire : 13 mois, suivant la date de débit ou 15 mois en cas de cartes de paiement à débit différé ;
+
+\- Le cryptogramme visuel de carte bancaire : le temps de la transaction ;
+
+\- Les vidéos prises par les caméras de vidéosurveillance : 30 jours.
+
+  
+
+La suppression de vos données personnelles de notre base active sera suivie d’une période d’archivage intermédiaire de certaines données personnelles afin de satisfaire à nos obligations légales, comptables et fiscales, et également pour pouvoir gérer vos réclamations et demandes de garanties éventuelles, dans la limite des délais de prescription applicable.
+
+cas où vos données personnelles seraient amenées à être archivées ultérieurement, elles seront automatiquement anonymisées de façon irréversible.
+
+Liens avec d'autres sites web
+
+Nous pouvons vous proposer depuis notre Site Web des liens d’accès vers d’autres sites internet. Néanmoins, nous ne serons pas responsables du contenu ou des politiques de collecte d'information sur ces sites internet. Si vous visitez des sites internet tiers, nous vous recommandons de vérifier leurs politiques de confidentialité avant de leur communiquer vos données personnelles. Nous ne pourrons pas être tenus responsables à cet égard.
+
+Comment nous contacter ?
+
+Si vous avez des questions concernant notre politique de confidentialité ou la façon dont nous traitons vos Données Personnelles, veuillez nous contacter :
+
+\- via le [Formulaire](https://www.lacoste.com/fr/contactus) en sélectionnant la raison de contact « Données Personnelles »
+
+\- par courrier postal, accompagné d’une copie d’un titre d’identité, à l’attention du Service Clients, à l’adresse suivante Lacoste S.A.S, 31-37 boulevard de Montmorency, 75 016 Paris, France.
