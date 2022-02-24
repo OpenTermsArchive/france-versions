@@ -73,7 +73,7 @@ Vos données personnelles sont conservées sous une forme permettant votre ident
 
 **5\. Est-ce que BZB utilise des cookies ?**  
   
-BZB collecte des informations relatives à votre navigation au moyen de cookies lorsque vous visitez le site BZB. BZB ne dépose pas de cookies sans votre consentement, excepté pour les cookies strictement nécessaires au fonctionnement du site. Pour plus d’informations sur l’utilisation des cookies nous vous invitons à consulter la [Politique Cookies](https://www.bizzbee.com/politique-de-cookies.html) de BZB.  
+BZB collecte des informations relatives à votre navigation au moyen de cookies lorsque vous visitez le site BZB. BZB ne dépose pas de cookies sans votre consentement, excepté pour les cookies strictement nécessaires au fonctionnement du site. Pour plus d’informations sur l’utilisation des cookies nous vous invitons à consulter la [Politique Cookies](https://www.b-z-b.com/politique-de-cookies.html) de BZB.  
   
 **6\. Vos données personnelles sont-elles protégées ?**  
   
@@ -85,7 +85,7 @@ Vous disposez à tout moment des droits d’accès, de rectification, d’efface
 
 Vous pouvez également à tout moment nous fournir des instructions sur le sort que vous souhaitez réserver à vos données après votre décès.
 
-Vous pouvez exercer vos droits en nous écrivant à l’adresse suivante : BZB - Service Clients -152 Avenue Alfred Motte, 59100 Roubaix ou via notre formulaire de contact en ligne disponible en cliquant [ici](https://www.bizzbee.com/nous-contacter/) (rubrique « Protection des données personnelles »).
+Vous pouvez exercer vos droits en nous écrivant à l’adresse suivante : BZB - Service Clients -152 Avenue Alfred Motte, 59100 Roubaix ou via notre formulaire de contact en ligne disponible en cliquant [ici](https://www.b-z-b.com/nous-contacter/) (rubrique « Protection des données personnelles »).
 
 Vous pouvez également nous adresser toute question relative à la protection de vos données personnelles en nous écrivant à l’adresse suivant : [dpo@happychicgroup.com](mailto:dpo@happychicgroup.com).
 
