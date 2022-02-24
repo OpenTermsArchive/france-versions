@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 -----------------------------
 
-Date : 31/01/2022
+Date : 24/02/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -39,13 +39,13 @@ Notre Site est édité et exploité par la société Showroomprive.com, SARL au 
 
 Pour toute demande d'information, vous pouvez vous adresser directement à notre Service Client :
 
-\- Par le formulaire de contact disponible [ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4)
+\- Par le formulaire de contact disponible [ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) ;
 
-\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h
+\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
 
-\-
+\- Par email à l'adresse suivante : [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) .
 
-\- **Article 2 - Comment devenir membre ?**
+**Article 2 - Comment devenir membre ?**
 
 Pour devenir membre et accéder à nos ventes évènementielles, vous devez créer votre compte personnel.
 
@@ -101,7 +101,7 @@ Pour une livraison à destination d'un Etat membre de l'Union Européenne, la Ta
 
 5.1 Modes de paiement
 
-Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney ou Klarna. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard et American Express.
+Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney ou Klarna. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
 
@@ -349,7 +349,7 @@ Si vous avez opté pour l'étiquette prépayée, le montant de votre rembourseme
 
 Le remboursement sera effectué par transaction inversée (virement bancaire et/ou bon d'achat). Toutefois, nous ne serons pas tenus de rembourser les frais supplémentaires si vous avez expressément choisi un mode de livraison plus coûteux que le mode de livraison standard proposé sur notre Site.
 
-Si vous avez réglé votre commande avec la solution de financement ONE, les modalités de remboursement sont les suivantes :
+Si vous avez réglé votre commande avec la solution de financement ONEY, les modalités de remboursement sont les suivantes :
 
 \- En cas d'annulation totale de votre commande, vous serez remboursé de l'intégralité des sommes prélevées.
 
@@ -433,9 +433,11 @@ Lors de votre visite sur le Site, vos données sont susceptibles de faire l'obje
 
 Nos conditions générales de vente sont soumises au droit français, Chaque commande est soumise aux CGV en vigueur au jour de sa passation. En cas de litige, nous vous invitons à nous contacter afin de trouver ensemble une solution amiable :
 
-\- [Par](mailto:par) le formulaire de contact disponible ici
+\- Par le formulaire de contact disponible [ici](https://www.showroomprive.com/nouscontacter/faqp.aspx?res=6) ;
 
-\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h.
+\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
+
+\- Par email à l'adresse suivante : [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) .
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Showroomprive.com adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie - 75008 Paris - http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de Showroomprive.com, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/) .
 
@@ -451,6 +453,6 @@ La responsabilité civile professionnelle de Showroomprive.com est couverte par 
 
 Showroomprive.com est inscrit en qualité de mandataire d'assurance auprès de l'ORIAS (www.orias.fr) sous le numéro d'immatriculation 16003180.
 
-Le directeur de la publication est Thierry Petit.
+Le directeur de la publication est David Dayan.
 
 Hébergement : ASPSERVEUR (SARL au capital de 500 000.00 euros) situé 785 voie Antiope - ZA Athelia III - 13600 La Ciotat.
