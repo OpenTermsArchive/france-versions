@@ -3,7 +3,7 @@ conditions générales de vente
 
 **1\. PREAMBULE**
 
-La société STOCK J BOUTIQUE JENNYFER (SAS, au capital de 265. 045. 800  euros, inscrite au sous le numéro 338 880 180 RCS Nanterre, et dont le siège social est sis 7, rue Pierre Dreyfus (92110) CLICHY cedex, France) (« **JENNYFER** ») propose aux consommateurs la vente de produits d’habillement (« **Article(s)** ») sur le site internet [http://www.jennyfer.com/](http://www.jennyfer.com/) (le « **Site** »).
+La société STOCK J BOUTIQUE JENNYFER (SAS, au capital de 265. 045. 800  euros, inscrite au sous le numéro 338 880 180 RCS Nanterre, et dont le siège social est sis 3 Rue Etienne Dolet (93406) SAINT OUEN cedex, France (« **JENNYFER** ») propose aux consommateurs la vente de produits d’habillement (« **Article(s)** ») sur le site internet [http://www.jennyfer.com/](http://www.jennyfer.com/) (le « **Site** »).
 
 Les présentes conditions générales de ventes (les « **CGV** ») déterminent l’ensemble des conditions régissant le contrat d’achat d’Articles (le **« Contrat »**) conclu entre JENNYFER et le consommateur (le « **Client** »).
 
@@ -118,7 +118,7 @@ Le Client dispose d’un droit de rétractation pour lui permettre de retourner 
 
 Pour retourner ses Articles, le Client doit demander un bon retour au plus tard quatorze (14) jours à compter de la date de livraison. Pour cela il peut :
 
-\- soit compléter le formulaire de rétractation joint en annexe aux présentes CGV et l’envoyer à l’adresse suivante : **_STOCK J BOUTIQUE JENNYFER - Droit de rétractation 7, rue Pierre Dreyfus (92110) CLICHY cedex, France_**. Un bon retour lui sera adressé par courrier ;
+\- soit compléter le formulaire de rétractation joint en annexe aux présentes CGV et l’envoyer à l’adresse suivante : **_STOCK J BOUTIQUE JENNYFER - Droit de rétractation 3, Rue Etienne Dolet (93406) SAINT OUEN cedex, France_**. Un bon retour lui sera adressé par courrier ;
 
 \- soit se connecter à son Compte Client. Dans la rubrique « mes commandes », le Client doit sélectionner les Articles à retourner puis valider le retour. Un email contenant le bon de retour lui sera alors adressé.
 
@@ -262,7 +262,7 @@ Date de mise à jour des CGV : 23 novembre 2017
   
 (Formulaire à compléter et à renvoyer à JENNYFER uniquement si le Client souhaite exercer son droit de rétractation)
 
-Adresse : STOCK J BOUTIQUE JENNYFER –  DROIT DE RETRACTATION  -7, rue Pierre Dreyfus (92110) CLICHY 
+Adresse : STOCK J BOUTIQUE JENNYFER –  DROIT DE RETRACTATION  -3, rue Etienne Dolet (93406) SAINT OUEN cedex
 
 Nom et adresse du Client : 
 
