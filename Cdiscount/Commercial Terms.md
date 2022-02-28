@@ -1174,7 +1174,7 @@ Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Servi
 
 *   sur la Cagnotte dont bénéficie l’Abonné dans les conditions définies à l’article 9, si le solde de la Cagnotte à la date d’anniversaire de l’Abonnement est suffisant.
 
-Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l’Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
+Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l'Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
 
 _L215-1 du Code de la consommation_
 
