@@ -1,9 +1,7 @@
 Cette traduction n'est proposée qu'à titre informatif. Dans le cas de divergences entre le texte en anglais et cette traduction, la version en anglais prévaudra.
 
-Politique de protection des données de Discord[
-
-](#[object-object])
-====================================================================
+Politique de protection des données de Discord
+==============================================
 
 Entrée en vigueur : 28 mars 2022Dernière mise à jour : 25 février 2022La version précédente de cette politique se trouve ici.Table des matières[Bienvenue !](#bienvenue-)[Discord est votre espace pour discuter](#discord-est-votre-espace-pour-discuter)[Les informations que nous collectons](#les-informations-que-nous-collectons)[Informations que vous nous fournissez](#informations-que-vous-nous-fournissez)[Informations que nous collectons automatiquement](#informations-que-nous-collectons-automatiquement)[Informations que nous recevons d’autres sources](#informations-que-nous-recevons-dautres-sources)[Comment nous utilisons vos informations](#comment-nous-utilisons-vos-informations)[Comment nous partageons vos informations](#comment-nous-partageons-vos-informations)[Conservation des données](#conservation-des-données)[Comment nous protégeons vos informations](#comment-nous-protégeons-vos-informations)[Comment contrôler la protection de vos données](#comment-contrôler-la-protection-de-vos-données)[Transferts internationaux de données](#transferts-internationaux-de-données)[Services offerts par des tiers](#services-offerts-par-des-tiers)[Délégué à la protection des données](#délégué-à-la-protection-des-données)[Informations pour les utilisateurs de l’EEE, du Royaume-Uni et du Brésil](#informations-pour-les-utilisateurs-de-leee-du-royaume-uni-et-du-brésil)[Informations pour les utilisateurs de Californie](#informations-pour-les-utilisateurs-de-californie)[Modifications apportées à la présente Politique de protection des données](#modifications-apportées-à-la-présente-politique-de-protection-des-données)[Nous contacter](#nous-contacter)
 
