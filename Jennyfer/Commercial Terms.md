@@ -3,7 +3,7 @@ conditions générales de vente
 
 **1\. PREAMBULE**
 
-La société STOCK J BOUTIQUE JENNYFER (SAS, au capital de 265. 045. 800  euros, inscrite au sous le numéro 338 880 180 RCS Nanterre, et dont le siège social est sis 3 Rue Etienne Dolet (93406) SAINT OUEN cedex, France (« **JENNYFER** ») propose aux consommateurs la vente de produits d’habillement (« **Article(s)** ») sur le site internet [http://www.jennyfer.com/](http://www.jennyfer.com/) (le « **Site** »).
+La société STOCK J BOUTIQUE JENNYFER (SAS, au capital de  47 188 991  euros, inscrite au sous le numéro 338 880 180 RCS Bobigny, et dont le siège social est sis 3, rue Etienne Dolet (93 400) Saint ouen , France) 
 
 Les présentes conditions générales de ventes (les « **CGV** ») déterminent l’ensemble des conditions régissant le contrat d’achat d’Articles (le **« Contrat »**) conclu entre JENNYFER et le consommateur (le « **Client** »).
 
@@ -255,7 +255,7 @@ La confirmation de commande fait l’objet d’un archivage. Elle est enregistr�
 
 Les CGV et le Contrat sont exclusivement soumis au droit français 
 
-Date de mise à jour des CGV : 23 novembre 2017
+Date de mise à jour des CGV : 28 février 2022.
 
 **FORMULAIRE DE RETRACTATION**
 
