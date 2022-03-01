@@ -1,27 +1,13 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 28 février 2022
+Mise à jour du 01 janvier 2022
 =======================================================================================================================================
 
-Le site Internet [www.laredoute.fr](http://www.laredoute.fr/), le site mobile [m.laredoute.fr](http://m.laredoute.fr/) ainsi que l’application mobile La Redoute (ensemble et indifféremment le "**Site**") sont édités par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille- Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").
-
-Directeur de la publication : New R SAS, Présidente, représentée par Monsieur Eric COURTEILLE, responsable de la rédaction.
-
-Pour nous contacter :  
-\- Téléphone : [0969 323 515](tel:+33969323515) 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
-\- Email : [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
-
-Le Site est hébergé par la société Google Ireland Limited - TVA: IE6388047V - Gordon House, Barrow Street Dublin Ireland Dublin 4 - Tel: 00353 1436 1000
-
-Conformément aux articles R. 541-167 et suivants du Code de l’Environnement, LA REDOUTE dispose des identifiants uniques, ci-après :
-
-|     |     |     |
-| --- | --- | --- |
-| **Eco-organisme** | **Filière** | **Identifiant unique** |
-| REFASHION (Eco TLC) | Textile - linge de maison - chaussures | FR218618\_11UNYX |
-| Eco-emballages | Emballages (de livraison) | FR218618\_01GYJM |
-| Eco-folio | Catalogues papier | FR218618\_03BTAT |
-| Eco-mobilier | Meubles | FR001914\_1028QB |
+Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
+  
+Pour passer commande, demander conseil ou toute question sur un produit ou une commande, vous pouvez nous contacter :  
+Par téléphone : 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
+Par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
 
 01 - Préambule
 --------------
