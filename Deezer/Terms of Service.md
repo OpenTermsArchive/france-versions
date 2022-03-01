@@ -14,7 +14,7 @@ Conditions générales d’utilisation du Service Deezer Gratuit
 
 Bienvenue sur les Conditions générales d’utilisation du Service Deezer Gratuit constitué du site Internet « http://www.deezer.com » (ci-après le « Site ») et de ses applications pour ordinateur, tablette et mobiles (ci-après « l’Application »).
 
-Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 284 709,88 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
+Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 289 942,45 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
 
 Deezer SA est ci-après dénommée « DEEZER » pour les présentes Conditions Générales d’Utilisation (ci-après les « CGU »).
 
@@ -199,7 +199,7 @@ Conditions générales d’utilisation et de vente du Service Deezer Web
 
 Bienvenue sur les Conditions générales d’utilisation du Service Deezer Web constitué du site Internet « http://www.deezer.com » (ci-après le « Site ») et de ses applications pour ordinateur, tablette et mobiles (ci-après dénommées ensemble « l’Application »).
 
-Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 284 709,88 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
+Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 289 942,45 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
 
 Deezer SA est ci-après dénommée « DEEZER » pour les présentes Conditions Générales d’Utilisation (ci-après les « CGU-CGV »). Les présentes CGU-CGV régissent exclusivement le Service Deezer Web fourni par DEEZER. Ces CGU-CGV s’appliquent à l’exclusion de toutes autres, notamment celles en vigueur pour les autres services – gratuits et payants – proposés sur le Site.
 
@@ -489,7 +489,7 @@ Conditions générales d’utilisation et de vente du Service Deezer Premium, du
 
 Bienvenue sur les Conditions générales d’utilisation du Service Deezer Premium constitué du site Internet DEEZER « http://www.deezer.com » (ci-après dénommé « le Site ») et de ses applications pour ordinateur, tablette et mobile (ci-après dénommées ensemble « l’Application »).
 
-Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 284 709,88 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
+Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 289 942,45 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est 24 rue de Calais 75009 Paris.
 
 Deezer SA est ci-après dénommée « DEEZER » pour les présentes Conditions Générales d’Utilisation et de vente (ci-après les « CGU-CGV »).
 
@@ -831,7 +831,7 @@ Conditions générales d’utilisation des Services Deezer pour les clients Oran
 
 ### Article 1 – Généralités
 
-Le site Internet DEEZER dont l’adresse est http://www.deezer.com (ci-après dénommé « le Site ») et les applications pour ordinateur et mobiles (ci-après dénommées ensemble « l’Application »), sont créés, développés et exploités par la société DEEZER SA (ci-après dénommée « DEEZER ») immatriculée au RCS de Paris sous le numéro B 511 716 573, dont le capital social est de 284 709,88 € et dont le siège social est au 24 rue de Calais 75009 Paris.
+Le site Internet DEEZER dont l’adresse est http://www.deezer.com (ci-après dénommé « le Site ») et les applications pour ordinateur et mobiles (ci-après dénommées ensemble « l’Application »), sont créés, développés et exploités par la société DEEZER SA (ci-après dénommée « DEEZER ») immatriculée au RCS de Paris sous le numéro B 511 716 573, dont le capital social est de 289 942,45 € et dont le siège social est au 24 rue de Calais 75009 Paris.
 
 Les présentes Conditions Générales d’Utilisation (« CGU ») régissent l’utilisation du Service Deezer Premium fourni par DEEZER sur le Site et l’Application et s’appliquent également dans leur ensemble au Service Deezer Famille, sauf disposition spécifiques telles que prévues à l’Article 17. Ces conditions s’appliquent à l’exclusion de toutes autres, notamment celles en vigueur pour les autres services – gratuits et payants – proposés sur le Site et l’Application.
 
@@ -1115,7 +1115,7 @@ Conditions générales d’utilisation et de vente du Service Deezer HiFi
 
 Bienvenue sur les Conditions générales d’utilisation du Service Deezer HiFi constitué du site Internet « http://www.deezer.com » (ci-après le « Site ») et de ses applications pour ordinateur, tablette et mobiles (ci-après dénommées ensemble « l’Application »).
 
-Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 284 709,88 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est au 24 rue de Calais 75009 Paris.
+Le Site et l’Application sont créés, développés et exploités par la société Deezer SA, Société Anonyme au capital de 289 942,45 euros, inscrite au RCS de PARIS sous le n° 511 716 573, et dont le siège social est au 24 rue de Calais 75009 Paris.
 
 Deezer SA est ci-après dénommée « DEEZER » pour les présentes Conditions Générales d’Utilisation et de vente (ci-après les « CGU-CGV »).
 
@@ -1532,7 +1532,7 @@ Terms of use of Deezer for Developers
 
 The web site http://www.deezer.com (hereinafter the “Site”) is an interactive and social musical website, edited by Deezer.
 
-Deezer SA is a French corporation with a share capital of 284,709.88 euros, registered under number 511 716 573, with its principal offices located at 24 rue de Calais 75009 Paris, FRANCE.
+Deezer SA is a French corporation with a share capital of 289,942.45 euros, registered under number 511 716 573, with its principal offices located at 24 rue de Calais 75009 Paris, FRANCE.
 
 Deezer is hereinafter referred to as “DEEZER” for these terms (hereinafter the “Terms”).
 
