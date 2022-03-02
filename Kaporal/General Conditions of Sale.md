@@ -349,8 +349,7 @@ Si une stipulation particulière des Conditions Générales de Vente est tenue p
 
 **ARTICLE 20 : LOI APPLICABLE ET COMPÉTENCE**
 
-Les présentes Conditions Générales de Ventes sont soumises à la loi française. Dans l’hypothèse où un litige naîtrait de la présente relation contractuelle, les parties s’engagent avant toute action judiciaire à rechercher une solution amiable. 
-
+Les présentes Conditions Générales de Ventes sont soumises à la loi française. Dans l’hypothèse où un litige naîtrait de la présente relation contractuelle, les parties s’engagent avant toute action judiciaire à rechercher une solution amiable via le lien suivant [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage "Mediation")  
 En cas d’action judiciaire, le tribunal compétent sera celui du lieu de domicile du défendeur ou, au choix du demandeur, celui du lieu de livraison effective du colis.
 
 **Historique des CGV**
