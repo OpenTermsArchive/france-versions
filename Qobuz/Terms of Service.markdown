@@ -1097,7 +1097,7 @@ Ces offres d'essai ou de découverte seront également soumises à l'approbation
 
   
 
-La souscription à l’offre FAMILLE sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.5.6 des présentes CGUV.
+La souscription à l’offre DUO sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.8.6 des présentes CGUV.
 
   
 
