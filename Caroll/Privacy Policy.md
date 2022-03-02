@@ -144,7 +144,7 @@ Vous pouvez exercer vos droits en écrivant à l’adresse suivante Caroll Inter
 
 VII. Le DPD ou DPO
 
-La Société dispose d’un Délégué à la protection des données dont la mission est de faire respecter la réglementation en vigueur sur la protection des données personnelles. Vous pouvez contacter le DPO de la Société à l’adresse suivante : dpo@groupe-beaumanoir.fr Vous pouvez aussi vous rendre sur le site de la CNIL [www.cnil.fr](https://www.caroll.com/fr_fr/general/www.cnil.fr).
+La Société dispose d’un Délégué à la protection des données dont la mission est de faire respecter la réglementation en vigueur sur la protection des données personnelles. Vous pouvez contacter le DPO de la Société à l’adresse suivante : dpo@caroll.com Vous pouvez aussi vous rendre sur le site de la CNIL [www.cnil.fr](https://www.caroll.com/fr_fr/general/www.cnil.fr).
 
 VII. Et les cookies ?
 
