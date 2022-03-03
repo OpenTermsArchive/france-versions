@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 -----------------------------
 
-Date : 24/02/2022
+Date : 03/03/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -71,9 +71,6 @@ Pour commander sur notre Site :
 
 1.  Connectez-vous à votre compte personnel ;
 2.  Profitez de nos ventes en sélectionnant les articles de votre choix ;
-
-.
-
 3.  Une fois votre shopping terminé et votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
 
 4\. Choisissez ensuite votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande. Votre commande est terminée ! Vous recevrez alors un email de confirmation de votre commande.
@@ -115,7 +112,7 @@ En cas de paiement via Paypal ou Paylib, le montant des achats sera automatiquem
 
 Paiement avec ONEY
 
-Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats de 40€ à 6 000€ en 3 ou 4 fois avec votre carte bancaire.
+Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats de 40€ à 4 000€ en 3 ou 4 fois avec votre carte bancaire.
 
 **Conditions** _:_ Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d'une carte bancaire Visa et MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
 
@@ -143,9 +140,9 @@ Vous disposez d'un délai de rétractation de 14 jours pour renoncer à votre cr
 
 \- deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois.
 
-• Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 6 000€ : Exemple : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d'une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 10€ maximum.
+• Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 4 000€ : Exemple : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d'une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 10€ maximum.
 
-• Le paiement en 4 fois à partir de 100€ d'achat et jusqu'à 6 000€ : Exemple : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 19,61%. Coût du financement : 8,80€ dans la limite de 20€ maximum.
+• Le paiement en 4 fois à partir de 100€ d'achat et jusqu'à 4 000€ : Exemple : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 19,61%. Coût du financement : 8,80€ dans la limite de 20€ maximum.
 
 **Conditions particulières dans le cadre d'offres promotionnelles ponctuelles qui seront signalées** : Showroomprive.com pourra proposer, pour certaines de ses ventes privées, le paiement ONEY sans frais :
 
