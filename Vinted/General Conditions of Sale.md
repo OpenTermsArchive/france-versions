@@ -4,7 +4,7 @@ Termes et Conditions d'utilisation
 
 La plateforme VINTED (ci-après le “**Site**”) est gérée et hébergée par la société **VINTED, UAB** (ci-après “**VINTED**”), située à Svitrigailos st. 13, 03228 Vilnius en Lituanie, inscrite au Registre des Sociétés de la République de Lituanie sous le numéro 302767152.
 
-**Avant de naviguer ou de s’inscrire sur le Site, chaque Utilisateur doit lire les présentes Conditions Générales d’Utilisation** (ci-après les “**Conditions Générales**”), **la** [**Politique de Confidentialité**](https://www.vinted.fr/privacy-policy) (telle définie dans l’Article Définitions ci-dessous), **ainsi que les autres dispositions obligatoires du Site, rappelées ou non dans les présentes Conditions Générales (y compris les** [**Règles du Catalogue**](https://www.vinted.fr/catalog-rules)**, les** [**Règles du Forum**](https://www.vinted.fr/forum/regles-du-forum) **et la** [**Liste des Tarifs**](https://www.vinted.fr/%7B%7B%20domain_name%20%7D%7D/pricelist)**), les accepter et s’engager à les respecter.**
+**Avant de naviguer ou de s’inscrire sur le Site, chaque Utilisateur doit lire les présentes Conditions Générales d’Utilisation** (ci-après les “**Conditions Générales**”), **la** [**Politique de Confidentialité**](https://www.vinted.fr/privacy-policy) (telle définie dans l’Article Définitions ci-dessous), **ainsi que les autres dispositions obligatoires du Site, rappelées ou non dans les présentes Conditions Générales (y compris les** [**Règles du Catalogue**](https://www.vinted.fr/catalog-rules)**, les** [**Règles du Forum**](https://www.vinted.fr/forum/regles-du-forum) **et la** [**Liste des Tarifs**](https://vinted.fr/pricelist)**), les accepter et s’engager à les respecter.**
 
 1.  **DÉFINITIONS**
 
