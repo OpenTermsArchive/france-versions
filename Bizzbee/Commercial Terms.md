@@ -1,7 +1,3 @@
-[](https://www.bizzbee.com/cgv.html)
-
-[](https://www.bizzbee.com/cgv.html)
-
 Editeur du site
 ---------------
 
@@ -16,9 +12,7 @@ Toute personne physique visitant ou effectuant un achat sur le site Internet www
   
 Ci-après dénommée « le client »
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 1\. Objet
 ---------
@@ -33,9 +27,7 @@ BZB se réserve la possibilité de modifier ses conditions générales de vente 
 Dans ce cas, les modifications seront applicables à compter de leur mise en ligne.  
 Chaque commande effectuée sur le Site est régie par les conditions générales applicables à la date de la commande.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 2\. Capacité et destination
 ---------------------------
@@ -46,9 +38,7 @@ La passation de commande par des personnes mineures implique qu’elles aient pr
 Le client s’interdit de procéder à l’achat de produits sur le site dans le but de les revendre.  
 BZB se réserve le droit de refuser une commande dont les quantités seraient manifestement inhabituelles pour un usage personnel.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 3\. Caractéristiques des biens proposés
 ---------------------------------------
@@ -65,9 +55,7 @@ Le client pourra confirmer sa commande ou demander le remboursement du produit s
 Les frais de préparation et de livraison seront remboursés au client si ce dernier confirme l’annulation de la totalité de sa commande  
 Les frais de préparation et de livraison resteront à la charge du client si ce dernier confirme la livraison d’un ou plusieurs produits disponibles faisant partie de la même commande.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 4\. Prix
 --------
@@ -79,9 +67,7 @@ BZB se réserve le droit de modifier le prix de ses produits à tout moment et s
 d’erreur manifeste (typographie ou impression) ou de modification du taux de TVA.  
 Les produits commandés sont facturés au client sur la base du tarif en vigueur sur le site au moment de la validation de la commande par le client.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 5\. Commande
 ------------
@@ -101,9 +87,7 @@ Dès sa commande enregistrée, le client reçoit un courrier électronique de co
 L’ensemble des données fournies par le client lors du processus de commande et la confirmation enregistrée de cette commande valent preuve de la transaction.  
 BZB se réserve le droit de refuser toute commande d’un client avec lequel il existerait un litige relatif au paiement d’une commande antérieure tant que ce litige n’est pas résolu.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 6\. Paiement
 ------------
@@ -132,9 +116,7 @@ Dans ce cas, le client est invité à renseigner l’adresse e-mail de la person
   
 Quel que soit le moyen de paiement choisi, le paiement a lieu dès validation de la commande par le client et acceptation de la transaction par l’organisme bancaire.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 7\. Sécurité du paiement
 ------------------------
@@ -157,9 +139,7 @@ Il s’agit d’un système élaboré par les deux réseaux de cartes bancaires 
 En plus du numéro, de la date de validité et du cryptogramme, avec le système 3D secure, le porteur de la carte doit s’authentifier sur une interface de sa banque vers laquelle il est automatiquement redirigé, en y renseignant un code ou une information personnelle que sa banque lui aura transmis au préalable.  
 Une fois authentifié, le porteur verra sa transaction autorisée ou refusée par sa banque.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 8\. Livraison
 -------------
@@ -188,9 +168,7 @@ Le client est informé par courrier électronique de l’arrivée de son colis e
 A l’expiration du délai, le colis sera considéré comme abandonné et ne pourra plus faire l’objet d’aucune réclamation par le client. BZB remboursera le client du montant des produits commandés sur la base du prix facturé, hors frais de livraison.  
   
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 9\. Droit de rétractation légal
 -------------------------------
@@ -201,13 +179,11 @@ BZB
 Service Clients  
 152 avenue Alfred Motte  
 BP 565  
-59100 Roubaix Cedex Le client peut également utiliser le [modèle de formulaire de rétractation](https://www.b-z-b.com/on/demandware.static/-/Sites-Bizzbee-SFRA-Library/fr_FR/vremoved/cgv/FormulairedeRetractation.docx) mais ce n’est pas obligatoire.  
+59100 Roubaix Cedex Le client peut également utiliser le [modèle de formulaire de rétractation](https://www.b-z-b.com/on/demandware.static/-/Sites-Bizzbee-SFRA-Library/fr_FR/v1646302027156/cgv/FormulairedeRetractation.docx) mais ce n’est pas obligatoire.  
 Le client bénéficie alors d’un délai de 14 jours à compter de l’envoi de ce courrier pour retourner sa commande (cf article 10 Retours)  
 BZB remboursera le client dans un délai de 14 jours à compter de la réception de la commande ou de la preuve de retour de celle-ci (cf article 11 Remboursement)
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 10\. Retours
 ------------
@@ -236,9 +212,7 @@ L’échange est gratuit dès lors qu’il porte sur un article proposé au mêm
 En revanche, si le prix du nouveau produit choisi par le client est inférieur au prix du produit retourné, la différence sera remboursée au client au choix de ce dernier sur sa carte bancaire ou en espèces.  
 Si le prix du nouveau produit est supérieur au prix du produit retourné, le client règlera la différence par le mode de paiement de son choix accepté en magasin.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 11\. Remboursement
 ------------------
@@ -250,9 +224,7 @@ Les commandes cadeau seront remboursées dans les mêmes conditions sur le compt
 Les commandes qui ont fait l’objet d’un paiement par carte cadeau BZB ou illicado seront remboursées par l’envoi d’un nouvelle carte cadeau BZB d’un montant équivalent. Si le client a complété son achat par un paiement en carte bancaire, celle-ci sera re créditée à hauteur du montant payé par carte bancaire.  
 Les frais de préparation et de livraison, et le cas échéant, les frais d’option cadeau resteront à la charge du client si le retour ne porte que sur une partie de la commande.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 12\. BZB move
 -------------
@@ -263,9 +235,7 @@ Pour les autres, il leur suffit de remplir le formulaire ou de s’identifier gr
 Dans tous les cas, le simple fait de passer commande sur le site BZB permet à chaque client de rejoindre le move et de cumuler des bizz.  
 Les conditions d’utilisation du move sont disponibles en ([suivant ce lien](https://www.bizzbee.com/on/demandware.store/Sites-BZB-FR-Site/fr_FR/Folder-First?fdid=BZB-move)).
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 13\. Transfert de propriété/transfert des risques
 -------------------------------------------------
@@ -273,9 +243,7 @@ Les conditions d’utilisation du move sont disponibles en ([suivant ce lien](ht
 Le transfert de propriété des produits au profit du client ne sera réalisé qu’après complet paiement du prix par ce dernier, et ce quelque soit la date de livraison desdits produits.  
 En revanche, le transfert des risques de perte et de détérioration des produits sera réalisé dès livraison et réception des produits par le client.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 14\. Garantie
 -------------
@@ -307,9 +275,7 @@ Article 1648 du Code civil
   
 BZB s’engage à rembourser le client ou échanger (uniquement en magasin) tout produit apparemment défectueux, abimé ou endommagé dans un délai de 6 mois suivant la date de réception ou de retrait de la commande par le client.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 15\. Réclamations / Informations
 --------------------------------
@@ -322,9 +288,7 @@ BZB - Service Clients
 59100 Roubaix Cedex - Par téléphone : 03 59 55 39 36  
 \- Par courrier électronique : [service-clients@BZB.fr](mailto:service-clients@bzb.fr)
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 16\. Responsabilité
 -------------------
@@ -334,9 +298,7 @@ Pour l’inexécution du contrat en cas de rupture de stock ou indisponibilité 
 De tous dommages résultant de l’utilisation du réseau internet tel que perte de données, intrusion, virus, rupture de service, ou autres problèmes involontaires ;  
 Du contenu des sites sur lesquels des liens hypertextes peuvent renvoyer à partir de son propre site.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 17\. Propriété intellectuelle
 -----------------------------
@@ -358,9 +320,7 @@ l’autorisation expresse de BZB est constitutif de contrefaçon sanctionnée pa
 Liens hypertextes  
 Tout lien simple ou par hypertexte est strictement interdit sauf accord exprès et écrit de BZB.
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
-
-[](https://www.bizzbee.com/cgv.html)
+([haut de page](#haut))
 
 18\. Litiges
 ------------
@@ -369,4 +329,4 @@ Les présentes conditions générales de vente en ligne sont soumises à la loi 
 Tous litiges qui ne pourraient être réglés à l’amiable seront portés devant les tribunaux compétents du domicile du défendeur ou du lieu de livraison ou du ressort du siège social de BZB.  
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, BZB adhère au Service du Médiateur du e-commerce de la [FEVAD](http://www.fevad.com/) (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie – 75008 Paris. Après démarche préalable écrite des consommateurs vis-à-vis de BZB, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Les modalités de saisine du Médiateur sont disponibles à l’adresse suivante : http://www.mediateurfevad.fr
 
-([haut de page](https://www.bizzbee.com/cgv.html#haut))
+([haut de page](#haut))
