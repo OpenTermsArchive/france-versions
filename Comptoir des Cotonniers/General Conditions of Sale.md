@@ -140,7 +140,9 @@ Le retour des produits dans le cadre de l’exercice du droit de rétractation d
   
 Le remboursement des produits lié au droit de rétractation sera effectué dans les quatorze (14) jours calendaires à compter de la date de notification de la rétractation ou différé au jour de réception des Produits par Comptoir des Cotonniers.
 
-ARTICLE 8. REMBOURSEMENT DES PRODUITS **À noter : les demandes de retours sont à effectuer sur notre site et non sur l'application mobile.**  
+ARTICLE 8. REMBOURSEMENT DES PRODUITS **RETOURS SOUS 30 JOURS.  
+Les frais de livraison facturés lors de l'expédition de votre commande vous sont remboursés seulement dans le cadre de l’exercice de votre droit de rétractation dans un délai de 14 jours à compter de la date de réception de votre colis et uniquement si vous retournez l’intégralité de votre commande.  
+À noter : les demandes de retours sont à effectuer sur notre site et non sur l'application mobile.**  
 **8.1 Garantie satisfait ou remboursé**
 
 Sans préjudice des dispositions sur le droit de rétractation figurant à l’article 7, Comptoir des Cotonniers offre aux Client un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour retourner tout ou partie de sa commande ne lui donnant pas satisfaction, afin d’obtenir un avoir ou de se faire rembourser.  
@@ -154,8 +156,8 @@ En cas de retours anormaux ou abusifs, Comptoir des Cotonniers se réserve le dr
 Pour les commandes avec une livraison en Colissimo ou en Chronopost :  
 Tous les produits retournés par le Client, que ce soit dans le cadre du droit de rétractation ou de la garantie satisfait ou remboursé, ne doivent pas avoir été utilisés, endommagés, salis ou lavés par le Client. Ils doivent être retournés dans un emballage approprié et accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes »). En outre, les chaussures doivent être retournées dans leur boîte, mais nous vous remercions de ne pas utiliser cette boîte comme boîte de transport.  
   
-Les frais de retours sont offerts en France métropolitaine.  
-  
+Retours sous 30 jours en France métropolitaine.  
+Les frais de livraison facturés lors de l'expédition de votre commande vous sont remboursés seulement dans le cadre de l’exercice de votre droit de rétractation dans un délai de 14 jours à compter de la date de réception de votre colis et uniquement si vous retournez l’intégralité de votre commande.  
 Les Produits devront être retournés à notre entrepôt, à l’adresse suivante :  
   
 **Comptoir des Cotonniers  
@@ -169,7 +171,7 @@ Comptoir des Cotonniers ne saurait être tenu responsable de toute perte ou domm
 Si les articles ne sont pas reçus à l’entrepôt, Comptoir des Cotonniers ne pourra pas traiter le retour.  
   
 Pour les commandes avec une livraison en click & collect :   
-Dans le cadre d'une livraison en click & collect, vous disposez d'un délai de 30 jours après retrait de la commande en boutique pour faire un échange ou obtenir un avoir qui ne sera utilisable qu'en boutique pendant 6 mois. Aucun remboursement ne pourra être effectué en boutique. Les frais de retours vous sont offerts. Les articles OUTLET ne peuvent pas être échangés en boutique ni faire l’objet d’un avoir.
+Dans le cadre d'une livraison en click & collect, vous disposez d'un délai de 30 jours après retrait de la commande en boutique pour faire un échange ou obtenir un avoir qui ne sera utilisable qu'en boutique pendant 6 mois. Aucun remboursement ne pourra être effectué en boutique. Les articles OUTLET ne peuvent pas être échangés en boutique ni faire l’objet d’un avoir.
 
 **8.3 Remboursement / Avoir** Une fois les produits retournés vérifiés par Comptoir des Cotonniers, le Client sera remboursé conformément au mode choisi sur son bon de retour. Le remboursement sera effectué dans les trente (30) jours calendaires à compter de la date de réception des Produits par Comptoir des Cotonniers. Un avoir pourra également être émis si le Client le souhaite. Cet avoir sécable ne sera utilisable que sur notre site pendant 6 mois.  
   
