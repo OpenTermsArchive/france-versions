@@ -124,7 +124,9 @@ Le serveur ADYEN est lui-même directement connecté aux serveurs des banques de
 
 Etam, sous réserve de recevoir l'accord exprès du client, pourra sauvegarder/mémoriser les informations relatives à sa carte bancaire afin que ce dernier n'ait pas à les ressaisir à chaque commande.  
 Le cryptogramme inscrit au dos de la carte bancaire ne sera pas conservé.  
-La conservation de ces données se fera jusqu'au retrait exprès du consentement du client ou jusqu'à l'expiration de sa carte bancaire.
+La conservation de ces données se fera jusqu'au retrait exprès du consentement du client ou jusqu'à l'expiration de sa carte bancaire.  
+  
+Pour consulter les modalités de paiement en 3x sans frais, veuillez vous référer aux [conditions générales d'utilisation de notre partenaire Alma.](https://getalma.eu/legal/terms/customer/merchant_11m0rQZ3lJOiU3lBYag6GoccosuWK1RJdP)
 
 4.5 Accusé de réception de la commande
 --------------------------------------
