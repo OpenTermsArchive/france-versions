@@ -124,6 +124,11 @@ Nous déployons également des technologies de suivi provenant des tiers suivant
 *   Objectif : Suivre les conversions publicitaires des publicités LinkedIn, optimiser nos publicités, développer des publics ciblés pour des publicités futures, et rediriger le marketing vers des personnes qui ont déjà effectué un certain type d’action sur nos Sites Web. 
 *   Durée : 24 mois
 
+*   Balise Bing ([https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement))
+
+*   Objectif : Suivre les conversions publicitaires des publicités Bing, optimiser nos publicités, développer des publics ciblés pour des publicités futures, et rediriger le marketing vers des personnes qui ont déjà effectué un certain type d’action sur nos Sites Web. 
+*   Durée : 24 mois
+
 **3\. Comment accepter ou refuser les cookies**
 -----------------------------------------------
 
@@ -149,7 +154,8 @@ Pour plus d’informations sur la gestion des navigateurs les plus populaires, v
 *   Safari : [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)  
 *   Internet Explorer : [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies) 
 *   Edge : [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies) 
-*   Firefox : [https ://support.mozilla.org/en-US/kb/cookies-information-website-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
+*   Firefox : [https ://support.mozilla.org/en-US/kb/cookies-information-website-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)  
+    
 
 **4\. Modifications apportées à la présente politique**
 -------------------------------------------------------
