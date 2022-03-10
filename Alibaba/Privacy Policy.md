@@ -1,42 +1,55 @@
-#### Politique en matière de confidentialité et de cookies
+Politique en matière de confidentialité et de cookies
+=====================================================
+
+2016-08-23 07:52
 
 (en vigueur à compter du 15. 07. 2019)
 
 Table des matières
 
-[A. COLLECTE DE DONNÉES.](http://rule.alibaba.com/rule/detail/4672.htm#A)
+ [A. COLLECTE DE DONNÉES.](http://rule.alibaba.com/rule/detail/4672.htm#A) 
 
-*   Données que vous nous fournissez
-    
-*   Données que nous recueillons automatiquement
-    
-*   Données que nous recevons de tiers
-    
+●
 
-[B. UTILISATION DES DONNÉES PERSONNELLES.](http://rule.alibaba.com/rule/detail/4672.htm#B)
+Données que vous nous fournissez
 
-[C. DIVULGATION OU ÉCHANGE DE DONNÉES PERSONNELLES.](http://rule.alibaba.com/rule/detail/4672.htm#C)
+●
 
-[D. RÉTENTION](http://rule.alibaba.com/rule/detail/4672.htm#D)
+Données que nous recueillons automatiquement
 
-[E. COOKIES.](http://rule.alibaba.com/rule/detail/4672.htm#E)
+●
 
-[F. MODIFICATIONS DE LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ.](http://rule.alibaba.com/rule/detail/4672.htm#F)
+Données que nous recevons de tiers
 
-[G. VISITEURS DE L’UNION EUROPÉENNE.](http://rule.alibaba.com/rule/detail/4672.htm#G)
+ [B. UTILISATION DES DONNÉES PERSONNELLES.](http://rule.alibaba.com/rule/detail/4672.htm#B) 
 
-*   Base juridique pour le traitement des données.
-    
-*   Transferts internationaux de données personnelles.
-    
-*   Vos droits.
-    
+ [C. DIVULGATION OU ÉCHANGE DE DONNÉES PERSONNELLES.](http://rule.alibaba.com/rule/detail/4672.htm#C) 
 
-[H. COMMENT NOUS CONTACTER.](http://rule.alibaba.com/rule/detail/4672.htm#H)
+ [D. RÉTENTION](http://rule.alibaba.com/rule/detail/4672.htm#D) 
 
-[I. LANGUE.](http://rule.alibaba.com/rule/detail/4672.htm#I)
+ [E. COOKIES.](http://rule.alibaba.com/rule/detail/4672.htm#E) 
 
-Remarque : la présente Politique de confidentialité d’Alibaba.com s’applique à la collecte, l’utilisation et la divulgation de données en rapport avec les produits et les services proposés par Alibaba.com. Veuillez vous référer à [la Politique de confidentialit](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru)[é](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru)[d'AliExpress.com](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru)pour connaître la politique qui régit la collecte, l’utilisation et la divulgation de données en rapport avec les produits et services proposés par AliExpress.com. 
+ [F. MODIFICATIONS DE LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ.](http://rule.alibaba.com/rule/detail/4672.htm#F) 
+
+ [G. VISITEURS DE L’UNION EUROPÉENNE.](http://rule.alibaba.com/rule/detail/4672.htm#G) 
+
+●
+
+Base juridique pour le traitement des données.
+
+●
+
+Transferts internationaux de données personnelles.
+
+●
+
+Vos droits.
+
+ [H. COMMENT NOUS CONTACTER.](http://rule.alibaba.com/rule/detail/4672.htm#H) 
+
+ [I. LANGUE.](http://rule.alibaba.com/rule/detail/4672.htm#I) 
+
+Remarque : la présente Politique de confidentialité d’Alibaba.com s’applique à la collecte, l’utilisation et la divulgation de données en rapport avec les produits et les services proposés par Alibaba.com. Veuillez vous référer à [la Politique de confidentialit](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru) [é](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru) [d'AliExpress.com](https://helppage.aliexpress.com/buyercenter/questionAnswer.htm?spm=a2g19.helppage_7aypo.0.0.4725150bh7ob3A%20&%20isRouter%20=%200%20&%20viewKey%20=%201%20&%20id%20=%201000099018%20&%20categoryIds%20=%209205401%20&%20lang%20=%20ru)pour connaître la politique qui régit la collecte, l’utilisation et la divulgation de données en rapport avec les produits et services proposés par AliExpress.com. 
 
 Chez Alibaba.com, nous (« nous », « notre, nos ») reconnaissons l’importance de la vie privée et la confidentialité des données personnelles. 
 
@@ -54,100 +67,143 @@ Données que vous nous fournissez
 
 Si vous êtes un représentant ou un employé de n’importe quel Acheteur ou Vendeur ou un simple commerçant Acheteur ou Vendeur :
 
-*   il vous sera demandé de fournir certaines informations de contact nécessaires pour la création d'un compte sur la Plate-forme au nom d’un Acheteur ou d'un Vendeur, y compris nom, adresse, numéro de téléphone, adresse email, intitulé du poste et service ; 
-    
+●
 
-*   il vous sera demandé de fournir certaines informations d’identité, le numéro d’immatriculation fiscale et/ou des informations associées, telles que le nom de votre société, le type d’entreprise et le secteur d'activité, les modalités d’inscription de la société au registre du commerce et des informations sur votre licence commerciale ;
-    
+il vous sera demandé de fournir certaines informations de contact nécessaires pour la création d'un compte sur la Plate-forme au nom d’un Acheteur ou d'un Vendeur, y compris nom, adresse, numéro de téléphone, adresse email, intitulé du poste et service ; 
 
-*   si vous êtes un Vendeur, nous vous demanderons également de fournir des détails sur les marchandises et les produits que vous envisagez de vendre par l’intermédiaire de la Plate-forme, ainsi que sur vos ventes/transactions sur Alibaba.com ; 
-    
-*   si vous êtes un Acheteur, nous vous demanderons également de nous communiquer des détails ou des préférences sur les biens et les produits que vous êtes susceptible de vouloir acheter sur la Plate-forme ainsi que des détails ou des préférences concernant vos achats ;
-    
+●
 
-*   si vous êtes certifié par Alibaba.com en tant que blogueur ou influenceur, en plus des informations mentionnées ci-dessus, nous pouvons également recueillir vos vidéos en direct, le nom de votre compte et vos photos sur les réseaux sociaux, ainsi que les publications ou commentaires formulés par d’autres utilisateurs de la Plate-forme ; 
-    
+il vous sera demandé de fournir certaines informations d’identité, le numéro d’immatriculation fiscale et/ou des informations associées, telles que le nom de votre société, le type d’entreprise et le secteur d'activité, les modalités d’inscription de la société au registre du commerce et des informations sur votre licence commerciale ;
 
-*   afin de faciliter les transactions, les achats et les paiements sur la Plate-forme, il vous sera demandé de fournir certaines informations de paiement. Il peut s'agir de numéros de comptes bancaires, d'informations de facturation et de livraison, de numéros, date d’expiration et cryptogramme de carte de crédit/débit, ainsi que d'informations de suivi de chèques ou mandats-poste dans le but de faciliter la vente et l’achat, ainsi que le règlement des prix d’achat des produits ou des services achetés sur ou négociés par l’intermédiaire de la Plate-forme ;
-    
-*   nous traiterons toutes les données qui nous seront fournies dans le cadre de litiges ou de réclamations en rapport avec la Plateforme ou avec des biens et/ou services achetés sur la Plateforme. Veuillez noter que les Acheteurs ou Vendeurs peuvent soumettre des réclamations concernant les produits et services sur la Plate-forme et/ou des litiges entre les Acheteurs et les Vendeurs de la Plate-forme. Dans de telles circonstances, nous traiterons les données fournies par les Acheteurs et/ou Vendeurs réputées pertinentes dans le cadre de tels litiges ou réclamations. Il peut s'agir de données sur la santé des utilisateurs finaux (y compris des mineurs, le cas échéant) des produits achetés sur la Plate-forme dans la mesure où elles sont pertinentes pour les litiges ou les réclamations qui sont examinés par la Plate-forme et dans la mesure où les personnes ont donné leur consentement explicite pour que leurs données nous soient communiquées dans le cadre du traitement de réclamations et/ou du règlement de litiges. 
-    
-*   Les informations que vous soumettez à la Plate-forme pour publication peuvent être mises à la disposition du public sur la Plateforme et donc accessibles par tout internaute. Nous vous recommandons de faire preuve de prudence avant de nous soumettre des informations en vue de leur publication.
-    
+●
+
+si vous êtes un Vendeur, nous vous demanderons également de fournir des détails sur les marchandises et les produits que vous envisagez de vendre par l’intermédiaire de la Plate-forme, ainsi que sur vos ventes/transactions sur Alibaba.com ; 
+
+●
+
+si vous êtes un Acheteur, nous vous demanderons également de nous communiquer des détails ou des préférences sur les biens et les produits que vous êtes susceptible de vouloir acheter sur la Plate-forme ainsi que des détails ou des préférences concernant vos achats ;
+
+●
+
+si vous êtes certifié par Alibaba.com en tant que blogueur ou influenceur, en plus des informations mentionnées ci-dessus, nous pouvons également recueillir vos vidéos en direct, le nom de votre compte et vos photos sur les réseaux sociaux, ainsi que les publications ou commentaires formulés par d’autres utilisateurs de la Plate-forme ; 
+
+●
+
+afin de faciliter les transactions, les achats et les paiements sur la Plate-forme, il vous sera demandé de fournir certaines informations de paiement. Il peut s'agir de numéros de comptes bancaires, d'informations de facturation et de livraison, de numéros, date d’expiration et cryptogramme de carte de crédit/débit, ainsi que d'informations de suivi de chèques ou mandats-poste dans le but de faciliter la vente et l’achat, ainsi que le règlement des prix d’achat des produits ou des services achetés sur ou négociés par l’intermédiaire de la Plate-forme ;
+
+●
+
+nous traiterons toutes les données qui nous seront fournies dans le cadre de litiges ou de réclamations en rapport avec la Plateforme ou avec des biens et/ou services achetés sur la Plateforme. Veuillez noter que les Acheteurs ou Vendeurs peuvent soumettre des réclamations concernant les produits et services sur la Plate-forme et/ou des litiges entre les Acheteurs et les Vendeurs de la Plate-forme. Dans de telles circonstances, nous traiterons les données fournies par les Acheteurs et/ou Vendeurs réputées pertinentes dans le cadre de tels litiges ou réclamations. Il peut s'agir de données sur la santé des utilisateurs finaux (y compris des mineurs, le cas échéant) des produits achetés sur la Plate-forme dans la mesure où elles sont pertinentes pour les litiges ou les réclamations qui sont examinés par la Plate-forme et dans la mesure où les personnes ont donné leur consentement explicite pour que leurs données nous soient communiquées dans le cadre du traitement de réclamations et/ou du règlement de litiges. 
+
+●
+
+Les informations que vous soumettez à la Plate-forme pour publication peuvent être mises à la disposition du public sur la Plateforme et donc accessibles par tout internaute. Nous vous recommandons de faire preuve de prudence avant de nous soumettre des informations en vue de leur publication.
 
 Données que nous recueillons automatiquement
 
-*   Si vous nous contactez (par exemple, par l’intermédiaire de notre service clientèle par tchat, téléphone ou email), nous pouvons enregistrer une copie de votre correspondance et vous demander des informations supplémentaires afin de vérifier votre identité.
-    
+●
 
-*   Nous recueillerons les coordonnées et autres informations des utilisateurs auprès de sources accessibles au public dans le but de vérifier l'identité des utilisateurs et de procéder à leur contrôle préalable.
-    
+Si vous nous contactez (par exemple, par l’intermédiaire de notre service clientèle par tchat, téléphone ou email), nous pouvons enregistrer une copie de votre correspondance et vous demander des informations supplémentaires afin de vérifier votre identité.
 
-*   Nous recueillerons des détails sur les activités, les transactions et les interactions des utilisateurs sur la Plate-forme, y compris des informations relatives aux types et aux spécifications des produits et services achetés, des informations sur les prix et la livraison, des dossiers de litiges et de réclamations, des communications entre les utilisateurs et toute information divulguée sur tout forum de discussion.
-    
+●
 
-*   De temps à autre, nous pouvons également recueillir des informations sur les utilisateurs existants et potentiels, pendant ou à l’occasion de salons professionnels, d'événements du secteur et/ou autres. Ceci comprend les noms, adresses, numéros de téléphone, numéros fax et adresses email des représentants.
-    
+Nous recueillerons les coordonnées et autres informations des utilisateurs auprès de sources accessibles au public dans le but de vérifier l'identité des utilisateurs et de procéder à leur contrôle préalable.
 
-*   Si vous visitez notre Plate-forme, nous recueillons automatiquement certaines données de votre appareil. Dans certains pays, y compris les pays de l’Espace économique européen, ces données peuvent être considérées comme données personnelles en vertu des lois applicables sur la protection des données. Plus précisément, ces données peuvent être les adresses IP, le type d'appareil, les numéros d’identification unique des appareils, le type de navigateur, la localisation géographique élargie (par exemple, la ville ou le pays), les habitudes de navigation et les détails sur la façon dont vous avez interagi avec notre Plate-forme et les biens et services qui y sont disponibles. En outre, nous recueillons des informations statistiques sur la Plate-forme et ses visiteurs, y compris le navigateur, le système d’exploitation, les propriétés logicielles et matérielles, les pages consultées, le nombre de sessions et le nombre de visiteurs uniques. Ces données nous permettent de mieux comprendre les visiteurs de notre Plate-forme, d'où ils viennent et quel contenu les intéresse.  Nous utilisons ces données à des fin d'analyse en interne et pour améliorer la qualité et la pertinence de notre Plate-forme. Certaines de ces informations peuvent être recueillies à l’aide de cookies et de technologies de suivi similaires, comme expliqué plus loin dans la partie E « [COOKIES](https://rule.alibaba.com/rule/detail/4672.htm#E)».
-    
+●
+
+Nous recueillerons des détails sur les activités, les transactions et les interactions des utilisateurs sur la Plate-forme, y compris des informations relatives aux types et aux spécifications des produits et services achetés, des informations sur les prix et la livraison, des dossiers de litiges et de réclamations, des communications entre les utilisateurs et toute information divulguée sur tout forum de discussion.
+
+●
+
+De temps à autre, nous pouvons également recueillir des informations sur les utilisateurs existants et potentiels, pendant ou à l’occasion de salons professionnels, d'événements du secteur et/ou autres. Ceci comprend les noms, adresses, numéros de téléphone, numéros fax et adresses email des représentants.
+
+●
+
+Si vous visitez notre Plate-forme, nous recueillons automatiquement certaines données de votre appareil. Dans certains pays, y compris les pays de l’Espace économique européen, ces données peuvent être considérées comme données personnelles en vertu des lois applicables sur la protection des données. Plus précisément, ces données peuvent être les adresses IP, le type d'appareil, les numéros d’identification unique des appareils, le type de navigateur, la localisation géographique élargie (par exemple, la ville ou le pays), les habitudes de navigation et les détails sur la façon dont vous avez interagi avec notre Plate-forme et les biens et services qui y sont disponibles. En outre, nous recueillons des informations statistiques sur la Plate-forme et ses visiteurs, y compris le navigateur, le système d’exploitation, les propriétés logicielles et matérielles, les pages consultées, le nombre de sessions et le nombre de visiteurs uniques. Ces données nous permettent de mieux comprendre les visiteurs de notre Plate-forme, d'où ils viennent et quel contenu les intéresse.  Nous utilisons ces données à des fin d'analyse en interne et pour améliorer la qualité et la pertinence de notre Plate-forme. Certaines de ces informations peuvent être recueillies à l’aide de cookies et de technologies de suivi similaires, comme expliqué plus loin dans la partie E « [COOKIES](https://rule.alibaba.com/rule/detail/4672.htm#E)».
 
 Données que nous recevons de tiers
 
-*   Nous pouvons recevoir vos données personnelles par l'intermédiaire de réseaux sociaux si vous choisissez de vous inscrire sur la Plate-forme à l'aide d'un compte de réseau social. Précisément, les données que nous recevons dépendront de vos paramètres de confidentialité avec la Plate-forme en question mais englobent généralement les informations de base de votre profil public telles que : 
-    
-    *   Votre nom d’utilisateur ou pseudo
-        
-    *   Votre photo de profil
-        
-    *   Pays 
-        
-    *   Nom de société
-        
-    *   Coordonnées
-        
+●
+
+Nous pouvons recevoir vos données personnelles par l'intermédiaire de réseaux sociaux si vous choisissez de vous inscrire sur la Plate-forme à l'aide d'un compte de réseau social. Précisément, les données que nous recevons dépendront de vos paramètres de confidentialité avec la Plate-forme en question mais englobent généralement les informations de base de votre profil public telles que : 
+
+○
+
+Votre nom d’utilisateur ou pseudo
+
+○
+
+Votre photo de profil
+
+○
+
+Pays 
+
+○
+
+Nom de société
+
+○
+
+Coordonnées
 
 Nous pouvons recevoir vos données personnelles par l'intermédiaire de tiers que nous engageons pour nous aider à fournir des services de vérification et à effectuer des vérifications appropriées en matière de blanchiment d'argent et des vérifications KYC (Know-your-customer) sur les utilisateurs. Il s'agit notamment de vos nom, adresse email, coordonnées de votre entreprise et coordonnées personnelles. 
 
-*   Si vous choisissez de participer à l’évaluation ou à la notation de produits et/ou services sur Alibaba.com, nous pouvons recevoir vos données personnelles par des tiers qui travaillent avec nous pour effectuer des évaluations sur nos services et/ou nous noter. 
-    
+●
+
+Si vous choisissez de participer à l’évaluation ou à la notation de produits et/ou services sur Alibaba.com, nous pouvons recevoir vos données personnelles par des tiers qui travaillent avec nous pour effectuer des évaluations sur nos services et/ou nous noter. 
 
  B. UTILISATION DES DONNÉES PERSONNELLES 
 
 Nous recueillons et utilisons vos données personnelles pour :
 
-*   vérifier votre identité et effectuer des vérifications de sécurité, KYC (know your customer), ainsi que vos antécédents en matière de blanchiment d'argent afin de créer des comptes utilisateurs ; 
-    
-*   vérifier votre éligibilité à vous inscrire en tant qu'utilisateur de la Plate-forme conformément à nos conditions d'utilisation accessibles [ici](http://rule.alibaba.com/rule/detail/4671.htm);
-    
+●
 
-*   configurer et gérer les comptes utilisateurs, y compris pour fournir des identifiants de connexion et créer un profil sur la Plate-forme ; 
-    
+vérifier votre identité et effectuer des vérifications de sécurité, KYC (know your customer), ainsi que vos antécédents en matière de blanchiment d'argent afin de créer des comptes utilisateurs ; 
 
-*   fournir aux utilisateurs un service clientèle, répondre aux questions et commentaires, et gérer les réclamations ou litiges ;
-    
+●
 
-*   faciliter la communication entre les Acheteurs et les Vendeurs par le biais de la Plate-forme, traiter les transactions et les paiements entre les Acheteurs et les Vendeurs sur la Plate-forme, évaluer les demandes de retrait de fonds des Vendeurs ; 
-    
+vérifier votre éligibilité à vous inscrire en tant qu'utilisateur de la Plate-forme conformément à nos conditions d'utilisation accessibles [ici](http://rule.alibaba.com/rule/detail/4671.htm);
 
-*   fournir des services logistiques et de stockage (y compris, sans que ce soit limitatif, les déclarations de dédouanement sur la Plate-forme) ;
-    
+●
 
-*   faciliter les déclarations et les demandes de dédouanement sur la Plate-forme ;
-    
+configurer et gérer les comptes utilisateurs, y compris pour fournir des identifiants de connexion et créer un profil sur la Plate-forme ; 
 
-*   évaluer et assurer le suivi des risques de sécurité des comptes et des transactions des utilisateurs d'Alibaba.com, détecter et prévenir les fraudes, le blanchiment d’argent et d'autres incidents de sécurité ; 
-    
-*   personnaliser notre marketing et nos communications en fonction de vos historiques de navigation et de commande ;
-    
+●
 
-*   effectuer des recherches ou des analyses statistiques afin d’améliorer le contenu et la présentation de la Plate-forme, ainsi que les offres de produits et services sur Alibaba.com, notamment en utilisant par exemple les données rendues anonymes aux fins de l’apprentissage machine ;
-    
+fournir aux utilisateurs un service clientèle, répondre aux questions et commentaires, et gérer les réclamations ou litiges ;
 
-*   identifier, développer, commercialiser et faire la publicité de produits et services que nous pensons que vous apprécierez, notamment sur les navigateurs et appareils, conformément aux lois en vigueur. Les cookies ou autres technologies similaires peuvent servir à vous proposer des publicités en fonction de vos activités de navigation et de vos centres intérêt (voir partie E, « COOKIES » ci-dessous). Si la loi en vigueur l'exige, nous vous demanderons votre consentement avant de vous adresser des communications à des fins de marketing ; 
-    
-*   si vous êtes un Acheteur, nous partagerons les détails des derniers produits consultés sur la Plate-forme pour permettre aux Vendeurs de vous contacter pour vous présenter des produits et/ou services qui pourraient vous intéresser. Vous pouvez choisir de ne pas partager ces informations avec les Vendeurs à l'aide des paramètres de confidentialité de l'Acheteur ( [https://profile.alibaba.com/privacy/privacySettingShow.htm](https://profile.alibaba.com/privacy/privacySettingShow.htm)).
-    
+●
+
+faciliter la communication entre les Acheteurs et les Vendeurs par le biais de la Plate-forme, traiter les transactions et les paiements entre les Acheteurs et les Vendeurs sur la Plate-forme, évaluer les demandes de retrait de fonds des Vendeurs ; 
+
+●
+
+fournir des services logistiques et de stockage (y compris, sans que ce soit limitatif, les déclarations de dédouanement sur la Plate-forme) ;
+
+●
+
+faciliter les déclarations et les demandes de dédouanement sur la Plate-forme ;
+
+●
+
+évaluer et assurer le suivi des risques de sécurité des comptes et des transactions des utilisateurs d'Alibaba.com, détecter et prévenir les fraudes, le blanchiment d’argent et d'autres incidents de sécurité ; 
+
+●
+
+personnaliser notre marketing et nos communications en fonction de vos historiques de navigation et de commande ;
+
+●
+
+effectuer des recherches ou des analyses statistiques afin d’améliorer le contenu et la présentation de la Plate-forme, ainsi que les offres de produits et services sur Alibaba.com, notamment en utilisant par exemple les données rendues anonymes aux fins de l’apprentissage machine ;
+
+●
+
+identifier, développer, commercialiser et faire la publicité de produits et services que nous pensons que vous apprécierez, notamment sur les navigateurs et appareils, conformément aux lois en vigueur. Les cookies ou autres technologies similaires peuvent servir à vous proposer des publicités en fonction de vos activités de navigation et de vos centres intérêt (voir partie E, « COOKIES » ci-dessous). Si la loi en vigueur l'exige, nous vous demanderons votre consentement avant de vous adresser des communications à des fins de marketing ; 
+
+●
+
+si vous êtes un Acheteur, nous partagerons les détails des derniers produits consultés sur la Plate-forme pour permettre aux Vendeurs de vous contacter pour vous présenter des produits et/ou services qui pourraient vous intéresser. Vous pouvez choisir de ne pas partager ces informations avec les Vendeurs à l'aide des paramètres de confidentialité de l'Acheteur ( [https://profile.alibaba.com/privacy/privacySettingShow.htm](https://profile.alibaba.com/privacy/privacySettingShow.htm)).
 
 Nous pouvons également utiliser vos données personnelles à d'autres fins qui ne sont pas incompatibles avec celles que nous vous avons communiquées (par exemple à des fins d'archivage dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques) si et où les lois applicables sur la protection des données l'autorisent.
 
@@ -155,48 +211,69 @@ C. DIVULGATION OU PARTAGE DE DONNÉES PERSONNELLES
 
 Nous pouvons divulguer (ou fournir l’accès à) des données personnelles aux catégories suivantes de destinataires :
 
-*   D'autres utilisateurs de la Plate-forme si cela est nécessaire pour faciliter les achats et les communications entre vous et les autres utilisateurs. 
-    
+●
 
-*   Des partenaires commerciaux tiers, des prestataires de services et/ou des filiales d'Alibaba.com que nous avons engagés ou qui travaillent avec nous afin de nous aider à vous fournir des services ou qui traitent les données personnelles aux fins décrites dans la présente Politique de confidentialité ou qui vous sont notifiées lorsque nous recueillons vos données personnelles. Les catégories de ces partenaires ou fournisseurs de services comprennent :
-    
+D'autres utilisateurs de la Plate-forme si cela est nécessaire pour faciliter les achats et les communications entre vous et les autres utilisateurs. 
 
-*   les membres du groupe Alibaba et leurs filiales respectives et/ou leurs fournisseurs dédiés qui travaillent avec nous pour fournir des services de traitement tels que des logiciels, outils, systèmes et services de messagerie aux fins décrites dans la présente Politique de confidentialité ; 
-    
-*   nos partenaires commerciaux (afin qu'ils puissent, par exemple, vous offrir des rabais ou des offres susceptibles de vous intéresser) ;
-    
+●
 
-*   des plates-formes de marketing et de publicité, telles que Google, Twitter, Facebook et Instagram, et des fournisseurs de services d'analyse du comportement des utilisateurs, afin d'adapter le contenu que vous voyez lorsque vous visitez notre Plate-forme .Ces plates-formes peuvent combiner les données collectées sur notre Plate-forme avec des données de leurs plates-formes et les données qu’ils recueillent sur d'autres sites Web ou d’autres sources afin de produire une publicité ciblée. Les activités de traitement de ces plates-formes marketing tierces sont régies par leurs propres politiques de confidentialité, et non par la présente Politique de confidentialité ; 
-    
-*   les fournisseurs de services de paiement qui collectent et traitent des données personnelles afin de faciliter le règlement des paiements pour les transactions ou de traiter les demandes de retrait pour les Vendeurs. Les activités de ces fournisseurs peuvent être régies par leurs propres politiques de confidentialité, et non par la présente Politique de confidentialité ; 
-    
+Des partenaires commerciaux tiers, des prestataires de services et/ou des filiales d'Alibaba.com que nous avons engagés ou qui travaillent avec nous afin de nous aider à vous fournir des services ou qui traitent les données personnelles aux fins décrites dans la présente Politique de confidentialité ou qui vous sont notifiées lorsque nous recueillons vos données personnelles. Les catégories de ces partenaires ou fournisseurs de services comprennent :
 
-*   des fournisseurs de services d'évaluation du risque pour évaluer les risques sur les Vendeurs afin de déterminer si un Vendeur peut être autorisé à effectuer un retrait de fonds ;
-    
+●
 
-*   des partenaires logistiques fournissant des services de livraison aux Acheteurs, y compris le retour et l'échange de produits, ainsi que des services d'entreposage pour les Vendeurs ; 
-    
-*   des agents douaniers à des fins de dédouanement ;
-    
+les membres du groupe Alibaba et leurs filiales respectives et/ou leurs fournisseurs dédiés qui travaillent avec nous pour fournir des services de traitement tels que des logiciels, outils, systèmes et services de messagerie aux fins décrites dans la présente Politique de confidentialité ; 
 
-*   des fournisseurs de services informatiques dématérialisés pour la fourniture de services de stockage sur le cloud ;
-    
+●
 
-*   des fournisseurs de service client pour fournir un service après-vente ; 
-    
+nos partenaires commerciaux (afin qu'ils puissent, par exemple, vous offrir des rabais ou des offres susceptibles de vous intéresser) ;
 
-*   des fournisseurs de services de contrôle des risques pour évaluer la sécurité des comptes utilisateurs et les risques liés aux transactions ; et
-    
+●
 
-*   des fournisseurs de services de notation/évaluation tiers pour procéder à des évaluations de nos services auprès des clients, si vous choisissez de participer à l’évaluation ou la notation des produits et/ou services d'Alibaba ; 
-    
+des plates-formes de marketing et de publicité, telles que Google, Twitter, Facebook et Instagram, et des fournisseurs de services d'analyse du comportement des utilisateurs, afin d'adapter le contenu que vous voyez lorsque vous visitez notre Plate-forme .Ces plates-formes peuvent combiner les données collectées sur notre Plate-forme avec des données de leurs plates-formes et les données qu’ils recueillent sur d'autres sites Web ou d’autres sources afin de produire une publicité ciblée. Les activités de traitement de ces plates-formes marketing tierces sont régies par leurs propres politiques de confidentialité, et non par la présente Politique de confidentialité ; 
 
-*   Nous pouvons également divulguer et transférer vos données personnelles à nos conseillers professionnels, aux organismes d'application de la loi, aux assureurs, au gouvernement et aux organismes de réglementation et autres organismes s'il nous semble nécessaire de nous conformer aux lois applicables, d'exercer, établir ou défendre nos droits légaux ou de protéger vos intérêts vitaux ou ceux de toute autre personne, ou bien si les lois applicables l'exigent ou l'autorisent. 
-    
-*   Nous pouvons les divulguer à un Acheteur actuel ou potentiel (et ses agents et conseillers) dans le cadre de tout achat, fusion ou acquisition actuel ou envisagé d’une partie de notre société, à condition que nous informions l’Acheteur de son devoir d'utiliser vos données uniquement aux fins indiquées dans la présente Politique de confidentialité.
-    
-*   Enfin, nous pouvons les divulguer à toute autre personne avec votre consentement.
-    
+●
+
+les fournisseurs de services de paiement qui collectent et traitent des données personnelles afin de faciliter le règlement des paiements pour les transactions ou de traiter les demandes de retrait pour les Vendeurs. Les activités de ces fournisseurs peuvent être régies par leurs propres politiques de confidentialité, et non par la présente Politique de confidentialité ; 
+
+●
+
+des fournisseurs de services d'évaluation du risque pour évaluer les risques sur les Vendeurs afin de déterminer si un Vendeur peut être autorisé à effectuer un retrait de fonds ;
+
+●
+
+des partenaires logistiques fournissant des services de livraison aux Acheteurs, y compris le retour et l'échange de produits, ainsi que des services d'entreposage pour les Vendeurs ; 
+
+●
+
+des agents douaniers à des fins de dédouanement ;
+
+●
+
+des fournisseurs de services informatiques dématérialisés pour la fourniture de services de stockage sur le cloud ;
+
+●
+
+des fournisseurs de service client pour fournir un service après-vente ; 
+
+●
+
+des fournisseurs de services de contrôle des risques pour évaluer la sécurité des comptes utilisateurs et les risques liés aux transactions ; et
+
+●
+
+des fournisseurs de services de notation/évaluation tiers pour procéder à des évaluations de nos services auprès des clients, si vous choisissez de participer à l’évaluation ou la notation des produits et/ou services d'Alibaba ; 
+
+●
+
+Nous pouvons également divulguer et transférer vos données personnelles à nos conseillers professionnels, aux organismes d'application de la loi, aux assureurs, au gouvernement et aux organismes de réglementation et autres organismes s'il nous semble nécessaire de nous conformer aux lois applicables, d'exercer, établir ou défendre nos droits légaux ou de protéger vos intérêts vitaux ou ceux de toute autre personne, ou bien si les lois applicables l'exigent ou l'autorisent. 
+
+●
+
+Nous pouvons les divulguer à un Acheteur actuel ou potentiel (et ses agents et conseillers) dans le cadre de tout achat, fusion ou acquisition actuel ou envisagé d’une partie de notre société, à condition que nous informions l’Acheteur de son devoir d'utiliser vos données uniquement aux fins indiquées dans la présente Politique de confidentialité.
+
+●
+
+Enfin, nous pouvons les divulguer à toute autre personne avec votre consentement.
 
 Nous pouvons fournir des données agrégées ou anonymisées à des tiers, mais si tel est le cas, ces données sont partagées dans un format dépersonnalisé qui ne permet pas de vous identifier personnellement.
 
@@ -235,10 +312,10 @@ Les différentes catégories de cookies internes et tiers utilisés par
 |     |     |
 | --- | --- |
 | Types de cookie | Qui utilise ces cookies |
-| Cookies essentiels Ces cookies sont strictement nécessaires pour permettre la consultation et l’utilisation de notre Plate-forme. Ils fournissent les fonctionnalités nécessaires pour garantir le bon fonctionnement, la sécurité et la fonctionnalité de notre Plate-forme. Ces cookies ne peuvent pas être désactivés. | Alibaba.com<br><br>https://www.Alibaba.com/ |
-| Cookies statistiques : les cookies statistiques, y compris les cookies analytiques, recueillent des informations sous une forme agrégée pour nous aider à déterminer et comprendre la façon dont les utilisateurs utilisent et interagissent avec notre Plate-forme. Nous utilisons ces informations pour nous aider à améliorer et optimiser notre Plate-forme et sa sécurité. | Alibaba.com<br><br>https://www.Alibaba.com/ <br><br>Google Analytics (voir ci-dessous pour plus d’informations)<br><br>*   https://policies.google.com/privacy<br>    <br>*   https://developers.Google.com/Analytics/devguides/collection/analyticsjs/cookie-usage |
-| Cookies de personnalisation et service : ces cookies sont utilisés pour se souvenir de votre ordinateur ou de votre appareil mobile lorsque vous visitez un site Web. Ils se souviennent de vos informations d'inscription et de connexion, ainsi que de vos paramètres et préférences comme la langue et la région. Ils sont également utilisés pour que vous n’ayez pas à vous connecter chaque fois que vous utilisez votre navigateur pour commenter des articles et pour s’assurer que les services interactifs fonctionnent efficacement. Les cookies de personnalisation servent aussi à recommander du contenu qui, selon nous, vous intéressera en vous proposant de la publicité en fonction de ce que vous avez consulté avant.<br><br>Les cookies de personnalisation peuvent également inclure des cookies sociaux, utilisés pour vous permettre de vous connecter à notre Plate-forme à l’aide de vos comptes de réseaux sociaux et pour partager des pages et du contenu qui vous intéressent sur notre Plate-forme par le biais des réseaux sociaux et d'autres sites Web tiers.  Ces cookies peuvent également être utilisés à des fins publicitaires. | Alibaba.com https://www.Alibaba.com/<br><br>Google http://www.google.com |
-| Cookies marketing. Les cookies marketing nous aident à nous assurer que vous disposez d'un marketing plus ciblé et plus pertinent. Nous utiliserons également des cookies marketing afin d’évaluer l’efficacité de nos communications marketing en surveillant les taux d’ouverture et conversions. | Facebook http://www.facebook.com<br><br>Twitter http://www.twitter.com<br><br>Google http://www.google.com <br><br>Criteo https://www.criteo.com<br><br>Bing https://www.bing.com<br><br>Yahoohttps://www.yahoo.com/<br><br>Mailru https://mail.ru/<br><br>Yandex https://yandex.com/ |
+| Cookies essentiels Ces cookies sont strictement nécessaires pour permettre la consultation et l’utilisation de notre Plate-forme. Ils fournissent les fonctionnalités nécessaires pour garantir le bon fonctionnement, la sécurité et la fonctionnalité de notre Plate-forme. Ces cookies ne peuvent pas être désactivés. | Alibaba.com<br><br>[https://www.Alibaba.com/](https://www.alibaba.com/) |
+| Cookies statistiques : les cookies statistiques, y compris les cookies analytiques, recueillent des informations sous une forme agrégée pour nous aider à déterminer et comprendre la façon dont les utilisateurs utilisent et interagissent avec notre Plate-forme. Nous utilisons ces informations pour nous aider à améliorer et optimiser notre Plate-forme et sa sécurité. | Alibaba.com<br><br>[https://www.Alibaba.com/](https://www.alibaba.com/) <br><br>Google Analytics (voir ci-dessous pour plus d’informations)<br><br>●<br><br> [https://policies.google.com/privacy](https://policies.google.com/privacy) <br><br>●<br><br> [https://developers.Google.com/Analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) |
+| Cookies de personnalisation et service : ces cookies sont utilisés pour se souvenir de votre ordinateur ou de votre appareil mobile lorsque vous visitez un site Web. Ils se souviennent de vos informations d'inscription et de connexion, ainsi que de vos paramètres et préférences comme la langue et la région. Ils sont également utilisés pour que vous n’ayez pas à vous connecter chaque fois que vous utilisez votre navigateur pour commenter des articles et pour s’assurer que les services interactifs fonctionnent efficacement. Les cookies de personnalisation servent aussi à recommander du contenu qui, selon nous, vous intéressera en vous proposant de la publicité en fonction de ce que vous avez consulté avant.<br><br>Les cookies de personnalisation peuvent également inclure des cookies sociaux, utilisés pour vous permettre de vous connecter à notre Plate-forme à l’aide de vos comptes de réseaux sociaux et pour partager des pages et du contenu qui vous intéressent sur notre Plate-forme par le biais des réseaux sociaux et d'autres sites Web tiers.  Ces cookies peuvent également être utilisés à des fins publicitaires. | Alibaba.com [https://www.Alibaba.com/](https://www.alibaba.com/)<br><br>Google [http://www.google.com](http://www.google.com/) |
+| Cookies marketing. Les cookies marketing nous aident à nous assurer que vous disposez d'un marketing plus ciblé et plus pertinent. Nous utiliserons également des cookies marketing afin d’évaluer l’efficacité de nos communications marketing en surveillant les taux d’ouverture et conversions. | Facebook http://[www.facebook.com](http://www.facebook.com/) <br><br>Twitter http://[www.twitter.com](http://www.twitter.com/) <br><br>Google [http://www.google.com](http://www.google.com/) <br><br>Criteo [https://www.criteo.com](https://www.criteo.com/) <br><br>Bing [https://www.bing.com](https://www.bing.com/) <br><br>Yahoo[https://www.yahoo.com/](http://https//www.yahoo.com/) <br><br>Mailru [https://mail.ru/](https://mail.ru/) <br><br>Yandex [https://yandex.com/](https://yandex.com/) |
 
 Qu’en est-il des autres technologies de pistage, comme les balises web ?
 
@@ -250,9 +327,9 @@ Vous pouvez déterminer si et comment un cookie sera accepté en conf
 
 Vous avez le droit d’accepter ou de refuser les cookies. Si vous choisissez de configurer votre navigateur web de telle sorte à refuser les cookies, vous pouvez encore utiliser notre site Web même si votre accès à certaines fonctionnalités et zones de notre site Web peut être restreint.
 
-Vous pouvez également contrôler vos préférences en matière de cookies à l'aide de l'outil Cookie Preferences Tool https://buyercentral.alibaba.com/privacy/cookie\_setting.htm.
+Vous pouvez également contrôler vos préférences en matière de cookies à l'aide de l'outil Cookie Preferences Tool [https://buyercentral.alibaba.com/privacy/cookie\_setting.htm](https://buyercentral.alibaba.com/privacy/cookie_setting.htm).
 
-De plus, la plupart des réseaux publicitaires vous offrent la possibilité de refuser la publicité ciblée. Pour de plus amples informations, veuillez consulter les sites http://www.aboutads.info/choices/ ou http://www.youronlinechoices.com. Vous pouvez également suivre les liens applicables du cookie de personnalisation des tiers figurant dans le tableau ci-dessus pour savoir comment refuser l'utilisation de cookies publicitaires ou de personnalisation spécifiques.
+De plus, la plupart des réseaux publicitaires vous offrent la possibilité de refuser la publicité ciblée. Pour de plus amples informations, veuillez consulter les sites [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/) ou [http://www.youronlinechoices.com](http://www.youronlinechoices.com/). Vous pouvez également suivre les liens applicables du cookie de personnalisation des tiers figurant dans le tableau ci-dessus pour savoir comment refuser l'utilisation de cookies publicitaires ou de personnalisation spécifiques.
 
 Certaines fonctionnalités de la Plate-forme dépendent des cookies. Sachez que si vous choisissez de bloquer les cookies, vous ne pourrez pas vous connecter ou utiliser ces fonctionnalités et les préférences qui en dépendent peuvent être perdues.
 
@@ -262,12 +339,15 @@ La Plate-forme utilise un outil d’anonymisation des adresses IP afin�
 
 Google utilise les données au nom d'Alibaba.com pour évaluer votre utilisation de la Plate-forme, pour compiler des rapports sur les activités du site à destination des opérateurs de sites Web et pour d'autres activités du site et services d'utilisation d'Internet. Google peut divulguer ces informations à des tiers conformément à la loi ou pour un traitement ultérieur par des tiers pour le compte de Google. Pour plus d’informations sur les cookies de Google Analytics, veuillez consulter :
 
-*   les pages d’aide et la politique de confidentialité de Google : Politique de confidentialité de Google : https://policies.google.com/privacy; et 
-    
-*   le Centre d’aide de Google Analytics : https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
-    
+●
 
-L’adresse IP que votre navigateur transmettra à Google Analytics ne sera associée à aucune autre donnée stockée par Google. Vous pouvez bloquer les cookies dans les paramètres de votre navigateur. Toutefois, cela peut entraîner des problèmes avec l’utilisation de certaines fonctionnalités du site. Grâce au plugin « Google Analytique Opt-out », vous pouvez désormais refuser l’utilisation de Google Analytics sur le navigateur que vous utilisez : http://tools.google.com/dlpage/gaoptout?hl=en. Vous trouverez plus d’informations à l'adresse suivante : https://support.google.com/analytics/answer/6004245
+les pages d’aide et la politique de confidentialité de Google : Politique de confidentialité de Google : [https://policies.google.com/privacy](https://policies.google.com/privacy); et 
+
+●
+
+le Centre d’aide de Google Analytics : [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) 
+
+L’adresse IP que votre navigateur transmettra à Google Analytics ne sera associée à aucune autre donnée stockée par Google. Vous pouvez bloquer les cookies dans les paramètres de votre navigateur. Toutefois, cela peut entraîner des problèmes avec l’utilisation de certaines fonctionnalités du site. Grâce au plugin « Google Analytique Opt-out », vous pouvez désormais refuser l’utilisation de Google Analytics sur le navigateur que vous utilisez : [http://tools.google.com/dlpage/gaoptout?hl=en](http://tools.google.com/dlpage/gaoptout?hl=en). Vous trouverez plus d’informations à l'adresse suivante : [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) 
 
  F. MODIFICATION DE LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ
 
@@ -285,14 +365,21 @@ Base juridique pour le traitement des données
 
 Nous traitons les données personnelles aux fins énoncées dans la présente Politique de confidentialité, telles que décrites ci-dessus. Notre base juridique pour le traitement des données personnelles dépendra des données personnelles en question et du contexte particulier dans lequel nous les recueillons. Cependant, nous collecterons et traiterons normalement vos données personnelles seulement si cela est : 
 
-*   nécessaire pour fournir des services conformément à l’accord qui vous lie à Alibaba.com Singapour E-commerce Private Limited et/ou ses filiales (par exemple, pour vous fournir les services demandés et pour vous identifier et vous authentifier afin que vous puissiez utiliser la Plate-forme) ; 
-    
-*   nécessaire pour nous conformer à des exigences légales (par exemple, nous conformer aux règles comptables applicables et effectuer des déclarations obligatoires aux organismes d'application de la loi) ; 
-    
-*   nécessaire pour nos intérêts légitimes et qui ne sont pas annulés par vos droits ; et/ou 
-    
-*   si nous avons votre consentement.
-    
+●
+
+nécessaire pour fournir des services conformément à l’accord qui vous lie à Alibaba.com Singapour E-commerce Private Limited et/ou ses filiales (par exemple, pour vous fournir les services demandés et pour vous identifier et vous authentifier afin que vous puissiez utiliser la Plate-forme) ; 
+
+●
+
+nécessaire pour nous conformer à des exigences légales (par exemple, nous conformer aux règles comptables applicables et effectuer des déclarations obligatoires aux organismes d'application de la loi) ; 
+
+●
+
+nécessaire pour nos intérêts légitimes et qui ne sont pas annulés par vos droits ; et/ou 
+
+●
+
+si nous avons votre consentement.
 
 Si nous recueillons et utilisons vos données personnelles en fonction de nos intérêts légitimes (ou de ceux d'un tiers), cet intérêt sera normalement celui d'exploiter notre Plate-forme et nos services, de gérer notre relation avec vous et de communiquer avec vous au besoin pour vous fournir nos services ainsi que pour notre intérêt commercial légitime, par exemple pour répondre à vos questions, améliorer notre Plate-forme et nos services, faire du marketing ou pour assurer la sécurité de notre Plate-forme et de nos services, détecter ou prévenir des activités illégales comme la fraude. Dans le cas où nous aurions d’autres intérêts légitimes, nous vous les communiquerons clairement en temps opportun.
 
@@ -302,24 +389,35 @@ Si vous avez des questions ou si vous avez besoin d’informations su
 
 Transferts internationaux de données personnelles
 
-Dans le cadre de notre fourniture de la Plate-forme et des services associés, nous pouvons être amenés à transférer vos données personnelles vers des pays en dehors de l'EEE, y compris vers des pays qui ne peuvent pas fournir le même niveau de protection des données que celui de votre pays d’origine, tels que les États-Unis États et la Chine. Nous prenons les mesures appropriées pour nous assurer que les destinataires de vos données personnelles sont tenus à des obligations de confidentialité et nous mettons en œuvre les mesures appropriées pour garantir leur protection conformément à la présente politique de confidentialité, tels que des clauses contractuelles types.Une copie de ces clauses peut être demandée à l'adresse DataProtection@service.alibaba.com.
+Dans le cadre de notre fourniture de la Plate-forme et des services associés, nous pouvons être amenés à transférer vos données personnelles vers des pays en dehors de l'EEE, y compris vers des pays qui ne peuvent pas fournir le même niveau de protection des données que celui de votre pays d’origine, tels que les États-Unis États et la Chine. Nous prenons les mesures appropriées pour nous assurer que les destinataires de vos données personnelles sont tenus à des obligations de confidentialité et nous mettons en œuvre les mesures appropriées pour garantir leur protection conformément à la présente politique de confidentialité, tels que des clauses contractuelles types.Une copie de ces clauses peut être demandée à l'adresse [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?).
 
 Vos droits
 
 Si vous êtes un résident de l’Espace économique européen, vous pouvez exercer à tout moment les droits suivants en matière de protection des données, en nous contactant à l'aide des coordonnées indiquées à la partie H. « COMMENT NOUS CONTACTER »ci-dessous :
 
-*   Le droit d’accéder, de corriger, de mettre à jour ou de demander la suppression de vos données personnelles.
-    
-*   Le droit de vous opposer au traitement de vos données personnelles lorsque celles-ci sont fondées sur nos intérêts légitimes, et séparément le droit de vous opposer au marketing direct.
-    
-*   Le droit de nous demander, dans certains cas, de restreindre le traitement de vos données personnelles ou dedemander le transfert de vos données personnelles
-    
-*   Le droit de refuser à tout moment les communications marketing que nous vous envoyons. Vous pouvez exercer ce droit en cliquant sur le lien « se désinscrire » ou « se désabonner » dans les emails marketing que nous vous envoyons. Pour refuser les autres formes de marketing (par exemple, par courrier ou téléphone), veuillez nous contacter à l'aide des coordonnées indiquées à la partie H. « COMMENT NOUS CONTACTER »ci-dessous.
-    
-*   Si nous avons recueilli et traité vos données personnelles avec votre consentement, vous avez alors le droit de vous rétracter à tout moment. Cela n’affectera pas la légalité de tout traitement que nous avons effectué avant votre rétractation, ni le traitement de vos données personnelles effectué en fonction de motifs de traitement légaux autres que le consentement.
-    
-*   Le droit de porter plainte auprès d'une autorité de protection des données au sujet de la collecte et de l'utilisation de vos données personnelles. Pour plus d’informations, veuillez contacter l'autorité en charge de la protection des données dans votre pays.
-    
+●
+
+Le droit d’accéder, de corriger, de mettre à jour ou de demander la suppression de vos données personnelles.
+
+●
+
+Le droit de vous opposer au traitement de vos données personnelles lorsque celles-ci sont fondées sur nos intérêts légitimes, et séparément le droit de vous opposer au marketing direct.
+
+●
+
+Le droit de nous demander, dans certains cas, de restreindre le traitement de vos données personnelles ou dedemander le transfert de vos données personnelles
+
+●
+
+Le droit de refuser à tout moment les communications marketing que nous vous envoyons. Vous pouvez exercer ce droit en cliquant sur le lien « se désinscrire » ou « se désabonner » dans les emails marketing que nous vous envoyons. Pour refuser les autres formes de marketing (par exemple, par courrier ou téléphone), veuillez nous contacter à l'aide des coordonnées indiquées à la partie H. « COMMENT NOUS CONTACTER »ci-dessous.
+
+●
+
+Si nous avons recueilli et traité vos données personnelles avec votre consentement, vous avez alors le droit de vous rétracter à tout moment. Cela n’affectera pas la légalité de tout traitement que nous avons effectué avant votre rétractation, ni le traitement de vos données personnelles effectué en fonction de motifs de traitement légaux autres que le consentement.
+
+●
+
+Le droit de porter plainte auprès d'une autorité de protection des données au sujet de la collecte et de l'utilisation de vos données personnelles. Pour plus d’informations, veuillez contacter l'autorité en charge de la protection des données dans votre pays.
 
 Nous répondons à toutes les demandes reçues de personnes qui souhaitent exercer leurs droits de protection des données conformément aux lois applicables sur la protection des données.
 
@@ -327,7 +425,7 @@ Si vous constatez des changements ou des inexactitudes dans vos donné
 
 H. COMMENT NOUS CONTACTER
 
-Si vous avez des demandes, des questions ou des interrogations au sujet de l'utilisation de vos données personnelles et concernant la présente Politique de confidentialité, veuillez nous contacter à DataProtection@service.alibaba.com.
+Si vous avez des demandes, des questions ou des interrogations au sujet de l'utilisation de vos données personnelles et concernant la présente Politique de confidentialité, veuillez nous contacter à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?).
 
 I. Langue 
 
@@ -376,31 +474,39 @@ A. COLLECTE D’INFORMATIONS
 
 Nous accordons une grande importance à votre vie privée et nous avons pris des mesures pour garantir que nous ne recueillons pas plus d'informations de votre part que ce qui est nécessaire pour vous fournir nos services et protéger votre compte :
 
-*   Les informations, y compris le nom d'utilisateur, l'adresse, le numéro de téléphone et l'adresse email, seront recueillies au moment de l'enregistrement de l'utilisateur sur les Sites. Si vous créez un compte AliExpress sur des plateformes de réseaux sociaux telles que Facebook ou Twitter, nous pouvons recueillir votre nom de compte et votre photo de profil sur ces plateformes. 
-    
+●
+
+Les informations, y compris le nom d'utilisateur, l'adresse, le numéro de téléphone et l'adresse email, seront recueillies au moment de l'enregistrement de l'utilisateur sur les Sites. Si vous créez un compte AliExpress sur des plateformes de réseaux sociaux telles que Facebook ou Twitter, nous pouvons recueillir votre nom de compte et votre photo de profil sur ces plateformes. 
 
 Si vous choisissez de répondre à nos questionnaires supplémentaires pour les membres enregistrés, nous pouvons également recueillir l'état civil, la nationalité, le sexe, la date et/ou l'année de naissance, le revenu annuel, les dépenses mensuelles et les préférences d'utilisateur.  Si vous préférez ne pas fournir de telles informations, l'utilisation de nos services et produits n'en sera pas affectée.
 
-*   Si vous êtes enregistré comme vendeur ou prestataire de services, nous pouvons également recueillir, outre les informations susmentionnées, votre identité, votre numéro d'enregistrement fiscal et des informations sur votre activité, telles que les informations relatives à votre licence d'exploitation.
-    
+●
 
-*   Si vous êtes certifié par AliExpress comme blogueur ou influenceur, nous pouvons recueillir, outre les informations susmentionnées, vos vidéos en direct (« live stream »), les noms de votre compte de médias sociaux et vos photos de profil, ainsi que les publications ou commentaires des membres du Site.
-    
+Si vous êtes enregistré comme vendeur ou prestataire de services, nous pouvons également recueillir, outre les informations susmentionnées, votre identité, votre numéro d'enregistrement fiscal et des informations sur votre activité, telles que les informations relatives à votre licence d'exploitation.
 
-*   Si vous contactez notre service client, nous pouvons enregistrer la conversation et recueillir des informations supplémentaires pour vérifier votre identité.
-    
+●
 
-*   Pour tout service de transaction et de paiement, ou tout service soumis à nos programmes de protection de l'acheteur, les informations, y compris, sans s'y limiter, les numéros de compte bancaire, les informations de facturation et de livraison, les numéros, les dates d'expiration et le code de sécurité des cartes de crédit/débit, ainsi que les informations de suivi des chèques ou mandats, peuvent être recueillies pour faciliter la vente et l'achat ainsi que le règlement du prix d'achat des produits ou services négociés ou obtenus sur les Sites.
-    
+Si vous êtes certifié par AliExpress comme blogueur ou influenceur, nous pouvons recueillir, outre les informations susmentionnées, vos vidéos en direct (« live stream »), les noms de votre compte de médias sociaux et vos photos de profil, ainsi que les publications ou commentaires des membres du Site.
 
-*   Nous enregistrons les détails relatifs aux activités des utilisateurs sur les Sites. Les informations relatives à ces transactions (y compris, sans s'y limiter, les types et caractéristiques des marchandises, les informations sur les prix et les livraisons, toute archive de dossier de litige et toute information divulguée sur tout forum de discussion) peuvent être recueillies lorsque les transactions sont effectuées ou rendues possibles sur les Sites.
-    
+●
 
-*   Nous recueillons de temps à autre des informations sur nos utilisateurs actuels et futurs, lors de salons professionnels, d'événements sectoriels et d'autres activités. Les informations que nous pouvons recueillir lors de ces événements comprennent, sans s'y limiter, le nom d'utilisateur, l'adresse, le numéro de téléphone, le numéro de fax et l'adresse e-mail.
-    
+Si vous contactez notre service client, nous pouvons enregistrer la conversation et recueillir des informations supplémentaires pour vérifier votre identité.
 
-*   Nous enregistrons les activités d'achat et de navigation des utilisateurs sur notre plateforme, y compris, sans s'y limiter, les adresses IP, les habitudes de navigation, les modes de comportement de l'acheteur et les informations sur l'équipement. Nous recueillons en outre des informations statistiques sur les Sites et les visiteurs des Sites, notamment les adresses IP, le logiciel de navigation, le système d'exploitation, les caractéristiques des logiciels et du matériel, les pages consultées, le nombre de sessions et de visiteurs uniques.
-    
+●
+
+Pour tout service de transaction et de paiement, ou tout service soumis à nos programmes de protection de l'acheteur, les informations, y compris, sans s'y limiter, les numéros de compte bancaire, les informations de facturation et de livraison, les numéros, les dates d'expiration et le code de sécurité des cartes de crédit/débit, ainsi que les informations de suivi des chèques ou mandats, peuvent être recueillies pour faciliter la vente et l'achat ainsi que le règlement du prix d'achat des produits ou services négociés ou obtenus sur les Sites.
+
+●
+
+Nous enregistrons les détails relatifs aux activités des utilisateurs sur les Sites. Les informations relatives à ces transactions (y compris, sans s'y limiter, les types et caractéristiques des marchandises, les informations sur les prix et les livraisons, toute archive de dossier de litige et toute information divulguée sur tout forum de discussion) peuvent être recueillies lorsque les transactions sont effectuées ou rendues possibles sur les Sites.
+
+●
+
+Nous recueillons de temps à autre des informations sur nos utilisateurs actuels et futurs, lors de salons professionnels, d'événements sectoriels et d'autres activités. Les informations que nous pouvons recueillir lors de ces événements comprennent, sans s'y limiter, le nom d'utilisateur, l'adresse, le numéro de téléphone, le numéro de fax et l'adresse e-mail.
+
+●
+
+Nous enregistrons les activités d'achat et de navigation des utilisateurs sur notre plateforme, y compris, sans s'y limiter, les adresses IP, les habitudes de navigation, les modes de comportement de l'acheteur et les informations sur l'équipement. Nous recueillons en outre des informations statistiques sur les Sites et les visiteurs des Sites, notamment les adresses IP, le logiciel de navigation, le système d'exploitation, les caractéristiques des logiciels et du matériel, les pages consultées, le nombre de sessions et de visiteurs uniques.
 
 Certaines données que nous recueillons peuvent être définies comme des données personnelles en vertu de la loi sur la protection des données applicable (« Données personnelles »).
 
@@ -411,29 +517,37 @@ B. UTILISATION DES DONNÉES PERSONNELLES
 
 Nous recueillons et utilisons vos Données personnelles aux fins suivantes :
 
-*   vérifier votre identité ;
-    
+●
 
-*   vérifier votre éligibilité en tant qu’utilisateur des Sites ou devenir un blogueur ou un influenceur des Sites ;
-    
+vérifier votre identité ;
 
-*   traiter votre inscription comme utilisateur, vous fournir un identifiant de connexion aux Sites, et maintenir et gérer votre inscription ;
-    
+●
 
-*   vous fournir un service client et répondre à vos questions, commentaires, réclamations ou contestations ;
-    
+vérifier votre éligibilité en tant qu’utilisateur des Sites ou devenir un blogueur ou un influenceur des Sites ;
 
-*   faciliter la communication entre les acheteurs et les vendeurs sur les Sites, traiter les transactions et les paiements, évaluer les demandes de retrait anticipé des vendeurs et fournir des services de livraison ;
-    
+●
 
-*   évaluer la sécurité du compte et les risques de transaction des membres, détecter et prévenir les fraudes et d'autres problèmes de sécurité ;
-    
+traiter votre inscription comme utilisateur, vous fournir un identifiant de connexion aux Sites, et maintenir et gérer votre inscription ;
 
-*   personnaliser notre communication avec vous en fonction de vos habitudes de navigation, des informations sur les équipements que nous avons recueillies et de votre historique de commande, et mener des recherches ou des analyses statistiques afin d'améliorer le contenu et la présentation des Sites, y compris, par exemple, en utilisant des données anonymisées à des fins d'apprentissage automatique ;
-    
+●
 
-*   identifier, développer et commercialiser les produits et services que nous pensons que vous appréciez, y compris via les navigateurs et les appareils, conformément aux lois applicables. Des cookies ou d'autres technologies similaires peuvent être utilisés pour vous fournir de la publicité en fonction de vos activités de navigation et de vos centres d'intérêt (se reporter à la section E. COOKIES, ci-dessous).  Lorsque nous y sommes tenus par la loi applicable, nous demanderons votre consentement avant de vous envoyer des communications à des fins de marketing ; et
-    
+vous fournir un service client et répondre à vos questions, commentaires, réclamations ou contestations ;
+
+●
+
+faciliter la communication entre les acheteurs et les vendeurs sur les Sites, traiter les transactions et les paiements, évaluer les demandes de retrait anticipé des vendeurs et fournir des services de livraison ;
+
+●
+
+évaluer la sécurité du compte et les risques de transaction des membres, détecter et prévenir les fraudes et d'autres problèmes de sécurité ;
+
+●
+
+personnaliser notre communication avec vous en fonction de vos habitudes de navigation, des informations sur les équipements que nous avons recueillies et de votre historique de commande, et mener des recherches ou des analyses statistiques afin d'améliorer le contenu et la présentation des Sites, y compris, par exemple, en utilisant des données anonymisées à des fins d'apprentissage automatique ;
+
+●
+
+identifier, développer et commercialiser les produits et services que nous pensons que vous appréciez, y compris via les navigateurs et les appareils, conformément aux lois applicables. Des cookies ou d'autres technologies similaires peuvent être utilisés pour vous fournir de la publicité en fonction de vos activités de navigation et de vos centres d'intérêt (se reporter à la section E. COOKIES, ci-dessous).  Lorsque nous y sommes tenus par la loi applicable, nous demanderons votre consentement avant de vous envoyer des communications à des fins de marketing ; et
 
 Nous pouvons par ailleurs utiliser vos Données personnelles à d’autres fins n’étant pas incompatibles avec les fins que nous avons portées à votre connaissance (à des fins d’archivage dans un intérêt public, ou de recherche scientifique ou historique, par ex.) si et quand cela est autorisé par les lois en vigueur sur la protection de données.
 
@@ -442,32 +556,41 @@ C. COMMUNICATION DE DONNÉES PERSONNELLES
 
 Nous pouvons communiquer et transférer (que ce soit au sein ou en dehors du pays où se trouve l'entité Alibaba qui est le responsable du traitement) vos Données personnelles à nos partenaires et aux prestataires de services auxquels nous recourrons pour nous aider à vous fournir des services ou qui d’une manière ou une autre traitent les Données personnelles aux fins décrites dans la présente Politique de confidentialité ou que nous avons portés à votre connaissance quand nous avons recueilli vos Données personnelles.  Parmi ces partenaires ou prestataires de services, figurent notamment :
 
-*   nos partenaires commerciaux (par exemple, pour qu'ils vous proposent des rabais ou des offres susceptibles de vous intéresser) ;
-    
+●
 
-*   des plateformes de marketing, telles que Google, Twitter, Facebook, Instagram et VKontakte, et des prestataires de services d'analyse relatifs au comportement des utilisateurs, afin de personnaliser le contenu que vous voyez lorsque vous visitez nos Sites.  Ces plateformes de marketing peuvent combiner des informations recueillies sur nos Sites avec des données figurant sur leurs plateformes et des données qu’elles recueillent auprès d’autres sites Internet ou par le biais d’autres sources pour faire de la publicité ciblée.  Les activités de ces plateformes de marketing tierces sont régies par leurs propres politiques de confidentialité et non par la présente Politique de confidentialité ;
-    
+nos partenaires commerciaux (par exemple, pour qu'ils vous proposent des rabais ou des offres susceptibles de vous intéresser) ;
 
-*   les prestataires de services de paiement pour faciliter le paiement des transactions ou fournir un service de retrait pour les vendeurs.  Les activités des prestataires de services de paiement peuvent Régis par leurs propres politiques de confidentialité, pas cette politique de confidentialité;;
-    
+●
 
-*   les prestataires d'évaluation de risque de crédit pour évaluer les risques des vendeurs afin de déterminer si un vendeur peut être autorisé à effectuer un retrait anticipé ;
-    
+des plateformes de marketing, telles que Google, Twitter, Facebook, Instagram et VKontakte, et des prestataires de services d'analyse relatifs au comportement des utilisateurs, afin de personnaliser le contenu que vous voyez lorsque vous visitez nos Sites.  Ces plateformes de marketing peuvent combiner des informations recueillies sur nos Sites avec des données figurant sur leurs plateformes et des données qu’elles recueillent auprès d’autres sites Internet ou par le biais d’autres sources pour faire de la publicité ciblée.  Les activités de ces plateformes de marketing tierces sont régies par leurs propres politiques de confidentialité et non par la présente Politique de confidentialité ;
 
-*   les partenaires logistiques pour fournir des services de livraison aux acheteurs et des services d'entreposage aux vendeurs ;
-    
+●
 
-*   les prestataires de services informatique dématérialisé (« Cloud computing ») pour fournir des services de stockage dématérialisé ;
-    
+les prestataires de services de paiement pour faciliter le paiement des transactions ou fournir un service de retrait pour les vendeurs.  Les activités des prestataires de services de paiement peuvent Régis par leurs propres politiques de confidentialité, pas cette politique de confidentialité;;
 
-*   les prestataires de services de garantie pour fournir des services de garantie ;
-    
+●
 
-*   les prestataires de services client pour fournir des services après-vente ; et
-    
+les prestataires d'évaluation de risque de crédit pour évaluer les risques des vendeurs afin de déterminer si un vendeur peut être autorisé à effectuer un retrait anticipé ;
 
-*   les prestataires de services de contrôle des risques pour évaluer la sécurité des comptes des membres et les risques de transaction.
-    
+●
+
+les partenaires logistiques pour fournir des services de livraison aux acheteurs et des services d'entreposage aux vendeurs ;
+
+●
+
+les prestataires de services informatique dématérialisé (« Cloud computing ») pour fournir des services de stockage dématérialisé ;
+
+●
+
+les prestataires de services de garantie pour fournir des services de garantie ;
+
+●
+
+les prestataires de services client pour fournir des services après-vente ; et
+
+●
+
+les prestataires de services de contrôle des risques pour évaluer la sécurité des comptes des membres et les risques de transaction.
 
 Ces prestataires de services doivent se conformer à nos exigences en matière de respect de la confidentialité et de la sécurité des données. Ils ne sont autorisés à utiliser vos Données personnelles qu'aux fins susmentionnées, et non à des fins personnelles.
 
@@ -492,7 +615,7 @@ D. DROITS CONCERNANT LES DONNÉES PERSONNELLES
 
 Conformément à la législation en vigueur, vous disposez d’un droit d'accès aux Données personnelles que nous détenons, ainsi que d’autres droits.  Si vous êtes un Visiteur de l'Union européenne, veuillez vous référer à la section I. VISITEURS DE L'UNION EUROPÉENNE, ci-dessous, pour de plus amples informations.
 
-Si vous avez des questions concernant la Politique de confidentialité ou si vous souhaitez accéder à vos Données personnelles, ou les rectifier, vous pouvez envoyer votre demande à DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
+Si vous avez des questions concernant la Politique de confidentialité ou si vous souhaitez accéder à vos Données personnelles, ou les rectifier, vous pouvez envoyer votre demande à [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
 
 Si, et dans la mesure où cela est autorisé par la législation en vigueur, nous pouvons vous facturer des frais pour le traitement de toute demande que vous faites concernant vos Données personnelles.
 
@@ -511,7 +634,7 @@ Pour les finalités additionnelles, identifiées ci-dessus, vous pouvez 
 
 Vous avez le droit de choisir si vous acceptez ou refusez les cookies. Si vous choisissez de paramétrer votre navigateur web de façon à refuser les cookies, vous serez toujours en mesure d’utiliser notre site Internet bien que certaines zones et fonctionnalités de ce dernier soient susceptibles d’être limitées.
 
-En outre, la plupart des réseaux publicitaires vous offrent la possibilité de refuser les publicités ciblées. Pour plus d’informations, veuillez vous rendre sur http://www.aboutads.info/choices/ou sur http://www.youronlinechoices.com
+En outre, la plupart des réseaux publicitaires vous offrent la possibilité de refuser les publicités ciblées. Pour plus d’informations, veuillez vous rendre sur [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)ou sur [http://www.youronlinechoices.com](http://www.youronlinechoices.com/) 
 
 Certaines fonctionnalités du Site dépendent des cookies. Sachez que si vous choisissez de bloquer les cookies, vous ne pourrez peut-être pas vous connecter ou utiliser ces fonctionnalités, et les préférences dépendant des cookies pourraient être perdues. 
 
@@ -526,7 +649,7 @@ Nous identifions brièvement ci-dessous les cookies que nous utilisons 
 |     |     |     |     |
 | --- | --- | --- | --- |
 | Fournisseur | Cookie | Type de cookie | Finalité |
-| Google Inc. | \_ga, \_gat, \_utma, \_utmb, \_utmc, \_utmt, \_utmz | Cookie d'analyse | Cela nous permet d’évaluer la façon dont les utilisateurs interagissent avec le contenu des pages web afin que nous puissions améliorer notre site Internet. Les cookies sont installés par un outil appelé «  Google Analytics ». Pour de plus amples détails, veuillez consulter : https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage |
+| Google Inc. | \_ga, \_gat, \_utma, \_utmb, \_utmc, \_utmt, \_utmz | Cookie d'analyse | Cela nous permet d’évaluer la façon dont les utilisateurs interagissent avec le contenu des pages web afin que nous puissions améliorer notre site Internet. Les cookies sont installés par un outil appelé «  Google Analytics ». Pour de plus amples détails, veuillez consulter : [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) |
 | Aliexpress (.aliexpress.com) | ali\_beacon\_id, ali\_apache\_id, ali\_apache\_track | Cookie persistant | Génère et attribue un ID que nous vous assignons afin de vérifier le comportement sur les Sites |
 | Aliexpress (.aliexpress.com) | ali\_apache\_tracktmp | Cookie de session | Génère et attribue un ID que nous vous assignons afin de vérifier le comportement sur les Sites |
 | Aliexpress (.aliexpress.com) | cna, isg, l | Cookie persistant | Génère et attribue un ID que nous vous assignons afin de vérifier le comportement sur les Sites |
@@ -548,22 +671,22 @@ Google utilise les données pour le compte de l'opérateur du site po
 
 Pour de plus amples informations sur les cookies de Google Analytics, consultez les pages Aide Google et les Règles de confidentialité de Google :
 
- Politique de confidentialité de Google : https://policies.google.com/privacy
+ Politique de confidentialité de Google : [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
- Centre d'aide Google Analytics : https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage
+ Centre d'aide Google Analytics : [https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage)
 
 L'adresse IP que votre navigateur transmettra à Google Analytics ne sera associée à aucune autre donnée stockée par Google. Grâce aux paramètres de votre navigateur, vous pouvez bloquer les cookies. Cela peut toutefois entraîner des problèmes d'utilisation de certaines fonctionnalités du site. Grâce au module complémentaire de navigateur pour la désactivation de Google Analytics (« Google Analytics Opt-out »), vous pouvez désormais désactiver l'utilisation de Google Analytics sur votre navigateur actuel en allant sur :
 
-http://tools.google.com/dlpage/gaoptout?hl=fr.
+[http://tools.google.com/dlpage/gaoptout?hl=fr](http://tools.google.com/dlpage/gaoptout?hl=fr).
 
 Vous trouverez de plus amples informations à ce sujet à l'adresse suivante :
 
- https://support.google.com/analytics/answer/6004245.
+ [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
 
 F. PERSONNES MINEURES
 =====================
 
-Les Sites et leurs contenus ne sont pas destinés aux mineurs (les personnes ayant moins de 18 ans) et nous n'avons pas vocation à vendre nos produits ou services à des mineurs. Si un mineur nous a fourni des Données personnelles sans l’autorisation de ses parents ou de son tuteur, les parents ou le tuteur doivent contacter DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com) pour que lesdites informations soient supprimées.
+Les Sites et leurs contenus ne sont pas destinés aux mineurs (les personnes ayant moins de 18 ans) et nous n'avons pas vocation à vendre nos produits ou services à des mineurs. Si un mineur nous a fourni des Données personnelles sans l’autorisation de ses parents ou de son tuteur, les parents ou le tuteur doivent contacter [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com) pour que lesdites informations soient supprimées.
 
 G. MESURES DE SÉCURITÉ
 ======================
@@ -604,7 +727,7 @@ Si vous avez des questions sur la base juridique du recueil et de l
 Transferts internationaux de Données personnelles
 =================================================
 
-Notre activité peut nous obliger à transférer vos Données personnelles vers des pays hors de l'Espace économique européen (« EEE »), y compris vers des pays qui n'offrent pas le même niveau de protection des données que votre pays d'origine, comme les États-Unis et la Chine. Nous prenons les mesures appropriées pour garantir que les destinataires de vos Données personnelles soient tenus par des obligations en matière de confidentialité et mettons en œuvre des mesures appropriées pour garantir que vos Données personnelles resteront protégées conformément à la présente Politique de confidentialité, telles que les clauses contractuelles types. Une copie de ces clauses peut être obtenue en contactant DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
+Notre activité peut nous obliger à transférer vos Données personnelles vers des pays hors de l'Espace économique européen (« EEE »), y compris vers des pays qui n'offrent pas le même niveau de protection des données que votre pays d'origine, comme les États-Unis et la Chine. Nous prenons les mesures appropriées pour garantir que les destinataires de vos Données personnelles soient tenus par des obligations en matière de confidentialité et mettons en œuvre des mesures appropriées pour garantir que vos Données personnelles resteront protégées conformément à la présente Politique de confidentialité, telles que les clauses contractuelles types. Une copie de ces clauses peut être obtenue en contactant [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
 
 Vos droits
 ==========
@@ -630,4 +753,30 @@ Si vous êtes informé de changements ou d'inexactitudes dans vos info
 J. COMMENT NOUS CONTACTER
 =========================
 
-Si vous avez des demandes, questions ou inquiétudes concernant notre utilisation de vos Données personnelles ou la présente Politique de confidentialité, veuillez nous contacter à DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
+Si vous avez des demandes, questions ou inquiétudes concernant notre utilisation de vos Données personnelles ou la présente Politique de confidentialité, veuillez nous contacter à [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
+
+A. COLLECTE D’INFORMATIONS
+
+B. UTILISATION DES DONNÉES PERSONNELLES
+
+C. COMMUNICATION DE DONNÉES PERSONNELLES
+
+D. DROITS CONCERNANT LES DONNÉES PERSONNELLES
+
+E. COOKIES
+
+F. PERSONNES MINEURES
+
+G. MESURES DE SÉCURITÉ
+
+H. MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ
+
+I. VISITEURS DE L'UNION EUROPÉENNE
+
+Base juridique du traitement des données
+
+Transferts internationaux de Données personnelles
+
+Vos droits
+
+J. COMMENT NOUS CONTACTER
