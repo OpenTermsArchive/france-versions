@@ -1,0 +1,30 @@
+Politique de confidentialité
+============================
+
+1\. Le passager communique à Air Algérie ou à son agent accrédité, des données personnelles le concernant dans le but d’effectuer une réservation, d’obtenir des services complémentaires, de faciliter les formalités d’immigration et d’entrée sur le territoire d’un Etat. Ces informations personnelles telles que le nom du passager, son genre, son adresse, sa nationalité, sa date de naissance, les détails de son passeport et des visas obtenus sont communiqués au transporteur dans le cadre de la souscription et de l’exécution du contrat de transport et sont susceptibles de faire l’objet d’un traitement informatique
+
+2\. Les données communiquées par le passager sont principalement utilisées aux fins (i) de réservation et d’achat de billets, (ii) de fournir de prestations ou services spécifiques en lien avec la prestation de transport (réservation d’hôtel, de voitures, obtention de visas, paiements), (iii) de prospection, fidélisation, animation et informations commerciales et (iv) de réalisation d’études statistiques. Elles sont également susceptibles d’être utilisées aux fins de faciliter l’accomplissement des formalités administratives relatives à l’immigration et à l’entrée sur le territoire, de prévention des impayés et de lutte contre la fraude, ainsi que d’assurer la sécurité et la sûreté des vols.
+
+3\. Le passager est informé que tout incident survenu lors de l’exécution du contrat de transport susceptible de porter atteinte à la sécurité ou à la sûreté peut faire l’objet d’un enregistrement informatique.
+
+Le passager est informé et accepte que la fourniture d’un service annexe spécifique (repas spéciaux, assistance médicale) puisse conduire le transporteur à enregistrer dans ces traitements des données sensibles concernant le passager. Ces informations sont exclusivement utilisées dans le cadre des services annexes spécifiques sollicités par le passager.
+
+4\. Les données collectées sont susceptibles d’être communiquées au personnel habilité du transporteur, à ses partenaires (tels qu’agents accrédités, agences de voyage, sociétés de cartes de crédit, tierces parties aux fins de protection de la sécurité et de la sûreté des passagers et des employés d’Air Algérie) dans le cadre de l’accomplissement de tout ou partie des finalités visées ci-dessus.
+
+5\. Conformément aux lois et règlements applicables en Algérie et au niveau international, le transporteur est par ailleurs parfois tenu de mettre des informations personnelles du passager à la disposition d’autorités publiques algériennes ou étrangères habilitées (douane, immigration, etc.) en particulier à des fins de prévention et de lutte contre le terrorisme ou d’autres délits graves.
+
+Il est précisé que certains des destinataires mentionnés ci-dessus sont susceptibles d’être établis hors d’Algérie, de l’Union Européenne ou de pays tiers ayant un niveau de protection adéquat. Ils devront toutefois avoir accès à toute ou partie des informations personnelles collectées par le transporteur (nom, prénom, numéro de passeport, détails du voyage, etc.) et ce à bonne fin d’exécution du contrat de transport du passager. En cas de transfert hors d’Algérie, de l’Union Européenne ou de pays ayant un niveau de protection des données adéquat, Air Algérie s’assurera que ce transfert de données est nécessaire pour l’exécution du contrat de transport et qu’il sera couvert par les contrats de transfert de données conformes au droit applicable.
+
+6\. Les données personnelles du passager seront conservées aussi longtemps que requis pour les finalités visées ci-dessus ainsi que dans la mesure nécessaire pour se conformer aux obligations légales auxquelles est soumise Air Algérie.
+
+7\. Le passager dispose du droit d’accès, de rectification, et de suppression ou d’opposition sur les données le concernant ses droits s’exercent auprès du Délégué à la Protection des Données, par courrier postal à l’adresse suivante :  DPO Air Algérie, 1 place Maurice Audin, Alger, Algerie ; ou par email à l'adresse **[dpo@airalgerie.dz](mailto:dpo@airalgerie.dz)** 
+
+     Pour l’Italie, le Délégué à la Protection des Données peut être contacté à l’adresse Quattro Fontane no. 177/178, Rome ou  via  PEC  **[dpo.italie@airalgerie.dz](mailto:dpo.italie@airalgerie.dz)** 
+
+8\. Sous réserve de la réglementation en vigueur, le transporteur se réserve la possibilité d’utiliser les données du passager dans les conditions et pour les finalités définies ci-dessus.
+
+9\. Sauf opposition exprimée lors de la collecte de ses données ou adressée par courrier aux adresses susvisées, le transporteur se réserve la possibilité d’utiliser les données du passager ou de les communiquer à ses partenaires afin de pouvoir lui adresser des offres commerciales adaptées.
+
+10\. Lorsque la loi l’exige (prospection commerciale par voie électronique) les données du passager ne seront utilisées à des fin de prospection, notamment commerciale, par le transporteur ou ses partenaires que si le passager a donné son accord pour un tel usage au moment de la communication de ces données personnelles. Le passager pourra, ultérieurement, s’opposer à ce que les données le concernant soient utilisées à de telles fins, en adressant un courrier à l’adresse suivante visée.
+
+11\. Il est précisé que la collecte de certaines données est indispensable pour permettre la réservation et établir le contrat de transport peut naturellement exercer son droit d’opposition à la collecte et au traitement de ses données mais est informé que cette démarche peut entraîner l’annulation du voyage ou l’impossibilité d’accéder à certains services annexes spécifiques demandés (repas spéciaux, etc.). Il est également rappeler que, conformément aux lois et règlements applicables en Algérie et au niveau international, l’absence de communication de certaines données ou l’inexactitude de certaines données peut conduire à une décision de refus d’embarquement ou d’entrée sur un territoire étranger, et ce, sans que la responsabilité du transporteur puisse être engagée.
