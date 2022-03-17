@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 =============================
 
-(version au 04 Janvier 2022)
+(version au 16 Mars 2022)
 
 Les présentes Conditions Générales de Vente régissent les relations entre DAMART et tout consommateur à l'occasion de la vente des produits présentés sur le site "www.damart.fr".  
   
@@ -17,7 +17,7 @@ Toute personne qui souhaite se faire livrer dans un autre pays que la France, do
   
 L'acheteur sera désigné dans ce document par le terme "vous".
 
-[TÉLÉCHARGER LES CONDITIONS GÉNÉRALES DE VENTE](https://www.damart.fr/documents/10581/32962684/20220104_CGV_DAMARTFR.pdf/79e6c466-938f-4e32-aa4f-45efd6d95adc)
+[TÉLÉCHARGER LES CONDITIONS GÉNÉRALES DE VENTE](https://www.damart.fr/documents/10581/33422687/20220316-cgv-damart.pdf/7827f3a1-50dc-4ddd-906d-49372e8b2fec)
 
 *   [1\. PRIX](#prix)
 *   [2\. COMMANDE](#commande)
