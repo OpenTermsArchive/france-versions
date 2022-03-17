@@ -1,2215 +1,7581 @@
-CONDITIONS GENERALES DE TRANSP 
+CONDITIONS GENERALES DE TRANSP
 
- 
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
 
 CONDITIONS G
 
- 
 
- 
 
- 
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
- 
 
- 
 
- 
+NS GENERALES DE TRAN
 
- 
+D’AIR ALGERIE
 
- 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-NS GENERALES DE TRAND’AIR ALGERIE 
+Page 1
 
- 
 
- 
 
-Page 1 
+RANSPORT
 
-RANSPORT 
+CONDITIONS GENERALES DE TRANSP
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
 
- 
+CONDITION
 
- 
 
- 
 
- 
+ARTICLE 1 DEFINITIONS
 
- 
+ARTICLE 2 DOMAINE D’A
 
- 
+ARTICLE 3 BILLETSARTICLE 4 TARIFS, TAXES
 
- 
+ARTICLE 5 RESERVATIONS
 
- 
+ARTICLE 6 ENREGISTREM
 
- 
+ARTICLE 7 REFUS ET LIMIT
 
- 
+ARTICLE 8 BAGAGESARTICLE 9 HORAIRES, RET
 
- 
+D’EMBARQUEM
 
- 
+ARTICLE 10 REMBOURSEM
 
- 
+ARTICLE 11 COMPORTEME
 
- 
+ARTICLE 12 DISPOSITIONS
 
-CONDITION  
+SUPPLEMENTA
 
- 
+ARTICLE 13 FORMALITES A
 
-ARTICLE 1   DEFINITIONS ARTICLE 2 DOMAINE D’AARTICLE 3   BILLETS ARTICLE 4 TARIFS, TAXESARTICLE 5 RESERVATIONSARTICLE 6 ENREGISTREMARTICLE 7 REFUS ET LIMITARTICLE 8   BAGAGES ARTICLE 9 HORAIRES, RETD’EMBARQUEM   ARTICLE 10 REMBOURSEMARTICLE 11 COMPORTEMEARTICLE 12 DISPOSITIONS SUPPLEMENTA    ARTICLE 13 FORMALITES AARTICLE 14 COMPAGNIES ARTICLE 15 RESPONSABILIARTICLE 16 ARTICLE 17  DELAI DE RECLMODIFICATION
+ARTICLE 14 COMPAGNIES
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+ARTICLE 15 RESPONSABILI
 
-TIONS GENERALES DE TRANSPORT 
+ARTICLE 16ARTICLE 17
 
- 
+DELAI DE RECL
 
- D’APPLICATION 
+MODIFICATION
 
-XES, REDEVANCES, FRAIS ET SURCHARGE IONS EMENT ET EMBARQUEMENT IMITATION AU TRANSPORT 
 
-, RETARDS, ANNULATIONS DE VOL, REFUS UEMENT SEMENTS  EMENT A BORD NS POUR LES PRESTATIONS DE SERVICES NTAIRES ES ADMINISTRATIVES IES AERIENNES SUCCESSIVES BILITES POUR DOMMAGES ECLAMATION ET D’ACTION EN RESPONSATIONS ET SUPPRESSIONS 
 
- 
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
- 
 
-Page 2 
 
- 
+TIONS GENERALES DE TRANSPORT
 
-RGES 
 
-EFUS 
 
-ICES 
+D’APPLICATION
 
-NSABILITE 
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
+XES, REDEVANCES, FRAIS ET SURCHARGE
 
- ARTICLE1 : DEFINITIONS  
+IONS
 
-Au  sens  des  présentes  condittermes suivants sont employés 
+EMENT ET EMBARQUEMENT
 
-Nous, notre, nos, nous-mêmes Désigne AIR ALGERIE  
+IMITATION AU TRANSPORT
 
-Passager, Vous, votre Désigne toute personne (qu’ell permettant son transport par a 
 
-Affrètement Désigne l ́opération par laquellautre  Transporteur  («  Transpototalité ou sur une partie du vo 
 
-Agent Accrédité Désigne une personne physiqudans la vente de titres de transsi cet agent y est autorisé.  
+, RETARDS, ANNULATIONS DE VOL, REFUS
 
-Air Algérie Désigne  la  «  Société  Air Actions(EPE/SPA), dont le siègeau Registre de commerce  00B0 
+UEMENT
 
-Animaux de Compagnie Désigne l ́animal de compagniesoit  le  propriétaire,  soit  une  pcompte du propriétaire.  
+SEMENTS
 
-Arrêt volontaire (ou « Stop-ove   Désigne un arrêt de plus 24 heu   escale  située  entre  le  point  d 
+EMENT A BORD
 
-Bagages Désigne  les  effets et  autres  obvoyage. Sauf disposition contraBagages Non Enregistrés.  
+NS POUR LES PRESTATIONS DE SERVICES
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+NTAIRES
 
- 
+ES ADMINISTRATIVES
 
-nditions  et  sauf exception  qui  sera précisée  d   yés avec le sens indiqué ci-après :  
+IES AERIENNES SUCCESSIVES
 
-mes, Transporteur 
+BILITES POUR DOMMAGES
 
-u’elle soit adulte, enfant ou nouveau-né) en posar avion, à l’exception des membres d’équipage 
+ECLAMATION ET D’ACTION EN RESPONSA
 
-uelle le Transporteur (« Transporteur Contractu   nsporteur  de  Fait  »)  la  charge de  transporter  lvoyage couvert par le contrat de Transport. 
+TIONS ET SUPPRESSIONS
 
-sique ou morale que le Transporteur a agréé poransport aérien sur ses services ou ceux d ́un au
 
-ir  Algérie  », Entreprise  Publique  Econom    iège social est situé 01, place Maurice Audin, Al00B009110016/00. 
 
-gnie accompagnant, en cabine ou en soute, le pne  personne  physique  qui  en  assume  la  respo
+Page 2
 
-over »)  heuresprogrammé par le Passager au cours de int  de  départ  et  le  point  de  destination  figur
 
-s  objets  personnels  accompagnant  le  Passagerntraire, ce terme désigne à la fois les Bagages 
 
- 
+RGES
 
- 
 
-Page 3 
 
-ée  dans  le  texte,  les 
+EFUS
 
- possession d’un billet age. 
 
-actuel ») délègue à un ter  le  passager  sur  la 
 
-pour le représenter n autre Transporteur, 
+ICES
 
-omique/Société  Par n, Alger, immatriculée 
 
- le passager qui en est esponsabilité  pour  le 
 
- de son voyage, à une figurant  sur  le  Billet.  
+NSABILITE
 
-ager  au  cours de  son ges Enregistrés et les 
+CONDITIONS GENERALES DE TRANSP
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
 
-Bagages Enregistrés Désigne les Bagages dont le Trune Fiche d ́Identification.  
+ ARTICLE1 : DEFINITIONS
 
-Bagages Non Enregistrés ou « BDésigne tout Bagage, autre qudu Passager.  
 
-Billet  Désigne le billet électronique dpassagers et les coupons de vol 
 
-Billet Complémentaire. Désigne  un  billet  dont  l ́émisscoupons  d ́un  Billet  principal Transport.   
+Au sens des présentes condit
 
-Billet Electronique (E-TKT ou EDésigne « l’Itinéraire/le Reçu »,même valeur émis par le Transp 
+termes suivants sont employés
 
-Code de Désignation du TranspDésigne  le  code  attribué  paorganisme   en   deux   ou alphanumériqueset accolé au n 
 
-Conditions Générales de Trans   Désigne les présentes condition 
 
-Contrat de Transport  Désigne  les  déclarations  et  stincluant les avis aux Passagers. 
+Nous, notre, nos, nous-mêmes
 
-Convention Désigne, selon les cas :  (a)  La Convention  pour  l ́uniinternational, signée à Varsovie(b) Le Protocole de La Haye d(c)  La  Convention  pour  l ́uniinternational, signée à Montréa 
+Désigne AIR ALGERIE
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+
+
+Passager, Vous, votre
+
+Désigne toute personne (qu’ell
+
+permettant son transport par a
+
+
+
+Affrètement
+
+Désigne l ́opération par laquell
+
+autre Transporteur (« Transpo
+
+totalité ou sur une partie du vo
+
+
+
+Agent Accrédité
+
+Désigne une personne physiqu
+
+dans la vente de titres de trans
+
+si cet agent y est autorisé.
+
+
+
+Air Algérie
+
+Désigne la « Société Air
+
+Actions(EPE/SPA), dont le siège
+
+au Registre de commerce 00B0
+
+
+
+Animaux de Compagnie
+
+Désigne l ́animal de compagnie
+
+soit le propriétaire, soit une p
+
+compte du propriétaire.
+
+
+
+Arrêt volontaire (ou « Stop-ove
+
+Désigne un arrêt de plus 24 heu
+
+escale située entre le point d
+
+
+
+Bagages
+
+Désigne les effets et autres ob
+
+voyage. Sauf disposition contra
+
+Bagages Non Enregistrés.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+nditions et sauf exception qui sera précisée d
+
+yés avec le sens indiqué ci-après :
+
+
+
+mes, Transporteur
+
+
+
+u’elle soit adulte, enfant ou nouveau-né) en pos
+
+ar avion, à l’exception des membres d’équipage
+
+
+
+uelle le Transporteur (« Transporteur Contractu
+
+nsporteur de Fait ») la charge de transporter l
+
+voyage couvert par le contrat de Transport.
+
+
+
+sique ou morale que le Transporteur a agréé po
+
+ransport aérien sur ses services ou ceux d ́un au
+
+
+
+ir Algérie », Entreprise Publique Econom
+
+iège social est situé 01, place Maurice Audin, Al
+
+00B009110016/00.
+
+
+
+gnie accompagnant, en cabine ou en soute, le p
+
+ne personne physique qui en assume la respo
+
+
+
+over »)
+
+heuresprogrammé par le Passager au cours de
+
+int de départ et le point de destination figur
+
+
+
+s objets personnels accompagnant le Passager
+
+ntraire, ce terme désigne à la fois les Bagages
+
+
+
+Page 3
+
+
+
+ée dans le texte, les
+
+
+
+possession d’un billet
+
+age.
+
+
+
+actuel ») délègue à un
+
+ter le passager sur la
+
+
+
+pour le représenter
+
+n autre Transporteur,
+
+
+
+omique/Société Par
+
+n, Alger, immatriculée
+
+
+
+le passager qui en est
+
+esponsabilité pour le
+
+
+
+de son voyage, à une
+
+figurant sur le Billet.
+
+
+
+ager au cours de son
+
+ges Enregistrés et les
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+Bagages Enregistrés
+
+Désigne les Bagages dont le Tr
+
+une Fiche d ́Identification.
+
+
+
+Bagages Non Enregistrés ou « B
+
+Désigne tout Bagage, autre qu
+
+du Passager.
+
+
+
+Billet
+
+Désigne le billet électronique d
+
+passagers et les coupons de vol
+
+
+
+Billet Complémentaire.
+
+Désigne un billet dont l ́émiss
+
+coupons d ́un Billet principal
+
+Transport.
+
+
+
+Billet Electronique (E-TKT ou E
+
+Désigne « l’Itinéraire/le Reçu »,
+
+même valeur émis par le Transp
+
+
+
+Code de Désignation du Transp
+
+Désigne le code attribué pa
+
+organisme en deux ou
+
+alphanumériqueset accolé au n
+
+
+
+Conditions Générales de Trans
+
+Désigne les présentes condition
+
+
+
+Contrat de Transport
+
+Désigne les déclarations et st
+
+incluant les avis aux Passagers.
+
+
+
+Convention
+
+Désigne, selon les cas :(a) La Convention pour l ́uni
+
+international, signée à Varsovie
+
+(b) Le Protocole de La Haye d
+
+(c) La Convention pour l ́uni
+
+international, signée à Montréa
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
 
 le Transporteur a accepté la garde et pour lesq
 
-u « Bagage Cabine » e que les Bagages Enregistrés. Ce Bagage deme
 
-ue délivré par Air Algérie  ou en son nom et conte vol. 
 
-mission  est  rendue  nécessaire  du  fait  du  nomipal  dont  l ́ensemble  constitue  un  seul  et  m
+u « Bagage Cabine »
 
-u E-TICKET) », les Coupons de Vol électroniques ou tout auansporteur ou par un Agent Accrédité. 
+e que les Bagages Enregistrés. Ce Bagage deme
 
-ansporteur   par  IATA,  identifiant  chaque  transporteur ou   plusieurs   caractères   alphabétiques, au numéro de vol figurant sur le Billet. 
 
-ransport itions générales de transport. 
 
-t  stipulations  figurant  sur  le  Billet,  identifiéesers. 
+ue délivré par Air Algérie ou en son nom et cont
 
-l ́unification  de  certaines  règles  relatives  au ovie, le 12 octobre 1929. e du 28 septembre 1955, modifiant la Convenl ́unification  de  certaines  règles  relatives  au tréal le 28 mai 1999. 
+e vol.
 
- 
 
- 
 
-Page 4 
+mission est rendue nécessaire du fait du nom
 
-lesquels a été délivré 
+ipal dont l ́ensemble constitue un seul et m
 
-emeure sous la garde 
 
-contenant les avis aux 
 
-ombre  important  de t  même  Contrat  de 
+u E-TICKET)
 
-ut autre document de 
+», les Coupons de Vol électroniques ou tout au
 
-eur  membre  de  cet s,   numériques   ou 
+ansporteur ou par un Agent Accrédité.
 
-iées  comme  telles  et 
 
-au  transport  aérien 
 
-vention de Varsovie.  au  transport  aérien 
+ansporteur
 
-CONDITIONS GENERALES DE TRANSP 
+par IATA, identifiant chaque transporteur
 
-Coupon  Désigne  soit  un  Coupon  de  Vocomportant le nom du Passage 
+ou plusieurs caractères alphabétiques,
 
-Coupon Passager ou « Reçu-PaDésigne  la  partie  du  Billet,  éconservée par le Passager.  
+au numéro de vol figurant sur le Billet.
 
-Coupon de Vol Désigne la partie du Billet idenBillet  Electronique,  le  CouponPassager doit être transporté. 
 
-Coupon Electronique Désigne  un  Coupon  de  Vol sauvegardé  sur  support  numTransporteur.  
 
-Décret Exécutif n°16-175 Règlement national   fixant   lepassagers de transport aérien p 
+ransport
 
-Dommage  Couvre lescas de décès, blessucausés par un accident à bord ddébarquement. Ce terme désigperte totale ou partielle ou de Il signifie également les dommbagages durant  le transport aé     
+itions générales de transport.
 
-Droit de Tirage Spécial (DTS) Désigne une unité de compte ddéterminée périodiquement paréférence.  
 
-ElectronicMiscellaneous DocumDocument électronique émis pdivers. Il existe deux types d’EM  
 
- EMD Associated  Document électroniquedes animaux, .....). Le staconsommé au transport 
+t stipulations figurant sur le Billet, identifiées
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+ers.
 
-e  Vol  papier,  soit  un  Coupon  Electronique,  chager devant effectuer le vol identifié sur ce Coup   
 
-Passager » t,  émis  par  le  Transporteur  ou  en  son  nom    
 
-identifiée comme “valable pour le transport” oupon  Electronique  indiquant  les  points  précis té. 
+l ́unification de certaines règles relatives au
 
-Vol  électronique  ou  tout  autre  document  dnumérique  dans  le  système  informatique  de
+ovie, le 12 octobre 1929.
 
-t   les conditions    et modalités    d’applicatioien public. 
+e du 28 septembre 1955, modifiant la Conven
 
-essures ou tout autre préjudice corporel subi pord de l’appareil ou durant les opérations d’embésigne également les dommages résultant de la  de l’altération des bagages intervenant lors dummages résultant du retard occasionné aux  part aérien. 
+l ́unification de certaines règles relatives au
 
- 
+tréal le 28 mai 1999.
 
-te du Fonds Monétaire International (FMI) dont t par ce dernier, à partir du cours de plusieurs m
 
-ocument « EMD » is par une compagnie aérienne ou agent accréd’EMD : 
 
-ique utilisé pour divers services (Excédent de be statut de l’EMD-A est lié à celui du billet électrport. 
+Page 4
 
- 
 
- 
 
-Page 5 
+lesquels a été délivré
 
-,  chacun  d ́entre  eux Coupon. 
 
-om  et qui  doit  être 
 
-” ou, dans le cas d ́un cis  entre  lesquels  le 
+emeure sous la garde
 
-nt  de  même  valeur,   de  Réservation  du 
 
-ation   des droits des 
 
-bi par un passager et embarquement ou de la destruction, de la s du transport aérien. passagers et/ou aux  
+contenant les avis aux
 
-ont la valeur est rs monnaies de 
 
-ccrédité pour services 
 
-de bagage,  transport lectronique, et qui est 
+ombre important de
 
-CONDITIONS GENERALES DE TRANSP 
+t même Contrat de
 
- 
 
- EMD Stand-Alone  Document  électroniqurevalidation, de rembouCet EMD est émis indépde ce type EMD ne suit p 
 
-Escales intermédiaires Désigne les points, à l ́exceptioou  mentionnés  sur  les  Horair 
+ut autre document de
 
-Etiquette de Bagages  Désigne  un  document émis  pBagages  Enregistrés  et  comprBagages » ou « Tag ») et une aReçu de Bagages »).  
 
-Famille proche Désigne  l’époux  (se),  les enfa    parents et les  petits-enfants.  
 
-Force Majeure Désigne des circonstances inhales  conséquences  ne  pouvaienprécaution.  
+eur membre de cet
 
-Frais d ́émission (ou «TicketingDésigne des frais facturés,  le  cAccrédité en contrepartie de laFrais d’émission applicables avl ́émetteur du Billet (le Transpo 
+s, numériques ou
 
-Frais de Services Désigne  des  frais  facturés,  le Agent Accrédité notamment enla réémission (« Frais de réémid ́un Billet. Le Passager est infosa  Réservation.  Le  montant  deAgent Accrédité. Les frais de services ne sont pas 
 
- 
 
- 
+iées comme telles et
 
- 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-nique  utilisé  pour  services  divers  tels  queboursement, No-show, ....).  ndépendamment du billet électronique. Le statsuit pas celui du billet. 
+au transport aérien
 
-ption des points d ́origine et de destination, indraires  en  tant  qu ́escales prévues  sur  l ́itinéra
 
-is  par  le  Transporteur  aux  seules  fins  de  l ́mprenant  une  partie  apposée  sur  le  Bagagee autre remise au Passager pour l ́identificatio
 
-enfants, les  ascendants  directs,  les  frères  et  s 
+vention de Varsovie.
 
- inhabituelles, imprévisibles, irrésistibles, insurmaient  être  évitées  même  en  recourant  à  toute
+au transport aérien
 
-tingFees ») ,  le  cas  échéant,  au  Passager,  par  le  Transportede la prestation d ́émission du Billet.Le Passages avant la finalisation de sa Réservation.Leur mosporteur ou l ́Agent Accrédité, selon le cas).  
+CONDITIONS GENERALES DE TRANSP
 
-,  le  cas  échéant,  au  Passager  par  le  Transportet en contrepartie dela modification (« Frais de mémission ») ou de remboursement (« Frais de re informé des Frais de Services applicables avantt  de  ces  Frais  est  disponible  auprès  du  Transp
 
-t pas remboursables.  
 
- 
+Coupon
 
- 
+Désigne soit un Coupon de Vo
 
-Page 6 
+comportant le nom du Passage
 
-que   (pénalités  de 
 
- statut de réservation 
 
-, indiqués sur le Billet inéraire  du  Passager. 
+Coupon Passager ou « Reçu-Pa
 
-e  l ́identification  des gage  («  Etiquette  de ation dudit Bagage (« 
+Désigne la partie du Billet, é
 
-et  sœurs, les  grands 
+conservée par le Passager.
 
-surmontables et dont outes  les  mesures  de 
 
-orteur  ou  son  Agent sager est informé des r montant est fixé par 
 
-orteur  et/ou  par  son de modification »), de de remboursement ») vant la finalisation de nsporteur  ou  de  son 
+Coupon de Vol
 
-CONDITIONS GENERALES DE TRANSP 
+Désigne la partie du Billet iden
 
- 
+Billet Electronique, le Coupon
 
-Heure Limite d ́EnregistrementDésigne  la  limite  horaire  avanotamment  d ́enregistrementpossession de sa carte d ́embar 
+Passager doit être transporté.
 
-Horaires ou « Indicateurs HoraDésigne les heures de départ ehoraires  publiés  par  le  Transconnaissance du public par voie 
 
-IATA « International Air TranspDésigne  l ́Association  du  Trandont la mission consiste à encoet économiques, favoriser le co 
 
-Jours  Désigne les jours du calendrierdans le cas d ́une notificationdurée de validité d ́un Billet, lecompté.   
+Coupon Electronique
 
-Itinéraire/Reçu  Désigne un ou plusieurs documattestent  de  l ́émission  d ́uninformations sur le vol et les av 
+Désigne un Coupon de Vol
 
-Loi N°98-06 du 27 Juin 1998mo    Désigne les règles générales rel 
+sauvegardé sur support num
 
-No show Passager ayant une réservation Qui  ne  s’est  pas  prd’enregistrement),   Qui n’a pas procédé, su(revalidation,  réémissiol’heure prévue du vol).  
+Transporteur.
 
- 
 
- 
 
- 
+Décret Exécutif n°16-175
 
- 
+Règlement national fixant le
 
- 
+passagers de transport aérien p
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-ent ou « HLE » ou « Fin d ́Enregistrement » avant  laquelle  le  Passager  doit  avoir  effectu  ent,  y  compris  le  cas  échéant,  de  ses  Bagbarquement ou d ́accès à bord. 
 
-oraires » rt et d ́arrivée des avions, telles que mentionnéransporteur,  ou  sous  son  autorité,  ou  telles voie électronique. 
+Dommage
 
-ansport Association » ransport  Aérien  International,  créée  en  avril  1ncourager le développement de transports aérile commerce aérien et étudier les problèmes q   
+Couvre lescas de décès, blessu
 
-rier comprenant les sept jours de la semaine, éion,le jour d ́envoi n ́est pas compté et que, pot, le jour d ́émission du Billet ou le jour du dépar
+causés par un accident à bord d
 
-cuments que le Transporteur émet à l ́attentiod ́un  Billet  Electronique  et  qui  comportents avis aux Passagers. 
+débarquement. Ce terme désig
 
-modifiée et complétée s relatives à l’aviation civile algérienne. 
+perte totale ou partielle ou de
 
-tion confirmée mais :    présenté  à  l’enregistrement  avant  la  HL
+Il signifie également les domm
 
-, sur le billet, à l’annulation ou à la modificationission)  dans  les  délais  fixés  par  la  compagnie ol).  
+bagages durant le transport aé
 
- 
 
- 
 
-Page 7 
+Droit de Tirage Spécial (DTS)
 
-ectué ses  formalités, Bagages  et  être  en 
+Désigne une unité de compte d
 
-nnées dans les guides les  que  portées  à  la 
+déterminée périodiquement pa
 
-vril  1945  à  Montréal, aériens sûrs, réguliers es qui s ́y rapportent.  
+référence.
 
-e, étant entendu que e, pour déterminer la épart du vol n ́est pas 
 
-ntion du Passager qui tent  son  nom,  des 
 
-  HLE  (Heure  limite 
+ElectronicMiscellaneous Docum
 
-tion de sa réservation nie  (03  heures  avant 
+Document électronique émis p
 
-CONDITIONS GENERALES DE TRANSP 
+divers. Il existe deux types d’EM
 
- 
 
-Passager à Mobilité Réduite Désigne  toute  personne  dontransport,  en  raison  d ́un  hatemporaire),  d ́une  déficience situation  exige  une  attention disposition de tous les Passager  
 
-Personne ayant droit à indemnDésigne  le  Passager  ou  toutePassager conformément au dro 
+ EMD Associated
 
-Reçu de Bagages Désigne  la  partie  de  la  Ficheafférent au transport de chaque 
+Document électronique
 
-Réservation  Désigne  toute  demande  de réservation du Transporteur Aé 
+des animaux, .....). Le sta
 
-Site Internet d ́Air Algérie Désigne le site Internet  www.a 
+consommé au transport
 
-Tarif Désigne  le  tarif  d ́un transpor identifiés, dans une classe de ré 
 
-Tarif HT ou « Tarif Hors Taxe »Désigne le Tarif facturé au Pass 
 
-Tarif TTC ou « Tarif Toutes TaxDésigne le Tarif HT majoré des  
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
-Tarif Comportemental Tarif dédié à toutes les catégor 
 
-Tarif Normal Tarif annuel disposant de toute 
 
-Tarif Promotionnel Tarif limité dans le temps (date 
+e Vol papier, soit un Coupon Electronique, ch
 
- 
+ager devant effectuer le vol identifié sur ce Coup
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
- 
 
-dont  la  mobilité  est  réduite  lorsqu ́elle  utilis  handicap  physique  (sensoriel  ou  locomoteunce  intellectuelle, oude  tout  autre  cause  d’hanion  spéciale  et  l ́adaptation  à  ses  besoins  des agers. 
+Passager »
 
-emnisation oute  personne  pouvant  prétendre  à réparatio droit applicable. 
+t, émis par le Transporteur ou en son nom
 
-iche  d ́Identification  délivrée  au  Passager  paraque Bagage Enregistré. 
 
-de  transport d’un  Passager  enregistrée sur r Aérien ou de son Agent Accrédité. 
 
-w.airalgerie.dz 
+identifiée comme “valable pour le transport” ou
 
-sport,  réservé  par  le  Passager, sur  un  parcoursde réservation choisie, et, le cas échéant, des dat
+pon Electronique indiquant les points précis
 
-xe » Passager, hors Taxes et hors surcharges. 
+té.
 
- Taxes Comprises » des Taxes et surcharges. 
 
-gories de clientèle. 
+
+Vol électronique ou tout autre document d
+
+numérique dans le système informatique de
+
+
+
+t les conditions et modalités d’applicatio
+
+ien public.
+
+
+
+essures ou tout autre préjudice corporel subi p
+
+ord de l’appareil ou durant les opérations d’emb
+
+ésigne également les dommages résultant de la
+
+de l’altération des bagages intervenant lors du
+
+mmages résultant du retard occasionné aux pa
+
+rt aérien.
+
+
+
+te du Fonds Monétaire International (FMI) dont
+
+t par ce dernier, à partir du cours de plusieurs m
+
+
+
+ocument « EMD »
+
+is par une compagnie aérienne ou agent accré
+
+d’EMD :
+
+
+
+ique utilisé pour divers services (Excédent de b
+
+e statut de l’EMD-A est lié à celui du billet électr
+
+port.
+
+
+
+Page 5
+
+
+
+, chacun d ́entre eux
+
+Coupon.
+
+
+
+om et qui doit être
+
+
+
+” ou, dans le cas d ́un
+
+cis entre lesquels le
+
+
+
+nt de même valeur,
+
+de Réservation du
+
+
+
+ation des droits des
+
+
+
+bi par un passager et
+
+embarquement ou de
+
+la destruction, de la
+
+s du transport aérien.
+
+passagers et/ou aux
+
+
+
+ont la valeur est
+
+rs monnaies de
+
+
+
+ccrédité pour services
+
+
+
+de bagage, transport
+
+lectronique, et qui est
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+ EMD Stand-Alone
+
+Document électroniqu
+
+revalidation, de rembou
+
+Cet EMD est émis indép
+
+de ce type EMD ne suit p
+
+
+
+Escales intermédiaires
+
+Désigne les points, à l ́exceptio
+
+ou mentionnés sur les Horair
+
+
+
+Etiquette de Bagages
+
+Désigne un document émis p
+
+Bagages Enregistrés et compr
+
+Bagages » ou « Tag ») et une a
+
+Reçu de Bagages »).
+
+
+
+Famille proche
+
+Désigne l’époux (se), les enfa
+
+parents et les petits-enfants.
+
+
+
+Force Majeure
+
+Désigne des circonstances inha
+
+les conséquences ne pouvaien
+
+précaution.
+
+
+
+Frais d ́émission (ou «Ticketing
+
+Désigne des frais facturés, le c
+
+Accrédité en contrepartie de la
+
+Frais d’émission applicables av
+
+l ́émetteur du Billet (le Transpo
+
+
+
+Frais de Services
+
+Désigne des frais facturés, le
+
+Agent Accrédité notamment en
+
+la réémission (« Frais de réémi
+
+d ́un Billet. Le Passager est info
+
+sa Réservation. Le montant de
+
+Agent Accrédité.
+
+Les frais de services ne sont pas
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+nique utilisé pour services divers tels que
+
+boursement, No-show, ....).
+
+ndépendamment du billet électronique. Le stat
+
+suit pas celui du billet.
+
+
+
+ption des points d ́origine et de destination, ind
+
+raires en tant qu ́escales prévues sur l ́itinéra
+
+
+
+is par le Transporteur aux seules fins de l ́
+
+mprenant une partie apposée sur le Bagage
+
+e autre remise au Passager pour l ́identificatio
+
+
+
+enfants, les ascendants directs, les frères et s
+
+
+
+inhabituelles, imprévisibles, irrésistibles, insurm
+
+aient être évitées même en recourant à toute
+
+
+
+tingFees »)
+
+, le cas échéant, au Passager, par le Transporte
+
+de la prestation d ́émission du Billet.Le Passage
+
+s avant la finalisation de sa Réservation.Leur mo
+
+sporteur ou l ́Agent Accrédité, selon le cas).
+
+
+
+, le cas échéant, au Passager par le Transporte
+
+t en contrepartie dela modification (« Frais de m
+
+émission ») ou de remboursement (« Frais de re
+
+informé des Frais de Services applicables avant
+
+t de ces Frais est disponible auprès du Transp
+
+
+
+t pas remboursables.
+
+
+
+Page 6
+
+
+
+que (pénalités de
+
+
+
+statut de réservation
+
+
+
+, indiqués sur le Billet
+
+inéraire du Passager.
+
+
+
+e l ́identification des
+
+gage (« Etiquette de
+
+ation dudit Bagage («
+
+
+
+et sœurs, les grands
+
+
+
+surmontables et dont
+
+outes les mesures de
+
+
+
+orteur ou son Agent
+
+sager est informé des
+
+r montant est fixé par
+
+
+
+orteur et/ou par son
+
+de modification »), de
+
+de remboursement »)
+
+vant la finalisation de
+
+nsporteur ou de son
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+Heure Limite d ́Enregistrement
+
+Désigne la limite horaire ava
+
+notamment d ́enregistrement
+
+possession de sa carte d ́embar
+
+
+
+Horaires ou « Indicateurs Hora
+
+Désigne les heures de départ e
+
+horaires publiés par le Trans
+
+connaissance du public par voie
+
+
+
+IATA « International Air Transp
+
+Désigne l ́Association du Tran
+
+dont la mission consiste à enco
+
+et économiques, favoriser le co
+
+
+
+Jours
+
+Désigne les jours du calendrier
+
+dans le cas d ́une notification
+
+durée de validité d ́un Billet, le
+
+compté.
+
+
+
+Itinéraire/Reçu
+
+Désigne un ou plusieurs docum
+
+attestent de l ́émission d ́un
+
+informations sur le vol et les av
+
+
+
+Loi N°98-06 du 27 Juin 1998mo
+
+Désigne les règles générales rel
+
+
+
+No show
+
+Passager ayant une réservation
+
+ Qui ne s’est pas pr
+
+d’enregistrement),
+
+ Qui n’a pas procédé, su
+
+(revalidation, réémissio
+
+l’heure prévue du vol).
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ent ou « HLE » ou « Fin d ́Enregistrement »
+
+avant laquelle le Passager doit avoir effectu
+
+ent, y compris le cas échéant, de ses Bag
+
+barquement ou d ́accès à bord.
+
+
+
+oraires »
+
+rt et d ́arrivée des avions, telles que mentionné
+
+ransporteur, ou sous son autorité, ou telles
+
+voie électronique.
+
+
+
+ansport Association »
+
+ransport Aérien International, créée en avril 1
+
+ncourager le développement de transports aéri
+
+le commerce aérien et étudier les problèmes q
+
+
+
+rier comprenant les sept jours de la semaine, é
+
+ion,le jour d ́envoi n ́est pas compté et que, po
+
+t, le jour d ́émission du Billet ou le jour du dépar
+
+
+
+cuments que le Transporteur émet à l ́attentio
+
+d ́un Billet Electronique et qui comportent
+
+s avis aux Passagers.
+
+
+
+modifiée et complétée
+
+s relatives à l’aviation civile algérienne.
+
+
+
+tion confirmée mais :
+
+présenté à l’enregistrement avant la HL
+
+
+
+, sur le billet, à l’annulation ou à la modification
+
+ission) dans les délais fixés par la compagnie
+
+ol).
+
+
+
+Page 7
+
+
+
+ectué ses formalités,
+
+Bagages et être en
+
+
+
+nnées dans les guides
+
+les que portées à la
+
+
+
+vril 1945 à Montréal,
+
+aériens sûrs, réguliers
+
+es qui s ́y rapportent.
+
+
+
+e, étant entendu que
+
+e, pour déterminer la
+
+épart du vol n ́est pas
+
+
+
+ntion du Passager qui
+
+tent son nom, des
+
+
+
+HLE (Heure limite
+
+
+
+tion de sa réservation
+
+nie (03 heures avant
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+Passager à Mobilité Réduite
+
+Désigne toute personne don
+
+transport, en raison d ́un ha
+
+temporaire), d ́une déficience
+
+situation exige une attention
+
+disposition de tous les Passager
+
+
+
+Personne ayant droit à indemn
+
+Désigne le Passager ou toute
+
+Passager conformément au dro
+
+
+
+Reçu de Bagages
+
+Désigne la partie de la Fiche
+
+afférent au transport de chaque
+
+
+
+Réservation
+
+Désigne toute demande de
+
+réservation du Transporteur Aé
+
+
+
+Site Internet d ́Air Algérie
+
+Désigne le site Internet www.a
+
+
+
+Tarif
+
+Désigne le tarif d ́un transpor
+
+identifiés, dans une classe de ré
+
+
+
+Tarif HT ou « Tarif Hors Taxe »
+
+Désigne le Tarif facturé au Pass
+
+
+
+Tarif TTC ou « Tarif Toutes Tax
+
+Désigne le Tarif HT majoré des
+
+
+
+Tarif Comportemental
+
+Tarif dédié à toutes les catégor
+
+
+
+Tarif Normal
+
+Tarif annuel disposant de toute
+
+
+
+Tarif Promotionnel
+
+Tarif limité dans le temps (date
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+dont la mobilité est réduite lorsqu ́elle utilis
+
+handicap physique (sensoriel ou locomoteu
+
+nce intellectuelle, oude tout autre cause d’han
+
+ion spéciale et l ́adaptation à ses besoins des
+
+agers.
+
+
+
+emnisation
+
+oute personne pouvant prétendre à réparatio
+
+droit applicable.
+
+
+
+iche d ́Identification délivrée au Passager par
+
+aque Bagage Enregistré.
+
+
+
+de transport d’un Passager enregistrée sur
+
+r Aérien ou de son Agent Accrédité.
+
+
+
+w.airalgerie.dz
+
+
+
+sport, réservé par le Passager, sur un parcours
+
+de réservation choisie, et, le cas échéant, des dat
+
+
+
+xe »
+
+Passager, hors Taxes et hors surcharges.
+
+
+
+Taxes Comprises »
+
+des Taxes et surcharges.
+
+
+
+gories de clientèle.
+
+
 
 outes les libertés comportementales (sans aucun
 
-date limite d’émission et/ou date limite de voyag   
 
- 
 
- 
+date limite d’émission et/ou date limite de voyag
 
-Page 8 
 
-utilise  un  moyen  de teur,  permanent  ou handicap  et  dont  la des  services  mis  à  la 
 
-ration  au  titre  dudit 
+Page 8
 
-par  le  Transporteur, 
 
-sur le  système  de 
 
-ours  donné,  des  vols s dates données. 
+utilise un moyen de
 
-ucune restriction). 
+teur, permanent ou
 
-oyages). 
+handicap et dont la
 
-CONDITIONS GENERALES DE TRANSP 
+des services mis à la
 
- 
 
-Tarif Typologique Tarif dédié à une catégorie de c 
 
-Taxes Désigne  les  frais,  taxes  et  redd ́un aéroport, ou par toute aut   
+ration au titre dudit
 
-Transit  Désigne un arrêt de moins 24 hune escale située entre le poin 
 
-Transport Aérien Désigne le transport par aéronapplicable.  
 
-Transporteur de Fait ou « TranDésigne le transporteur réalisan 
+par le Transporteur,
 
-Transporteur Contractuel ou «Désigne le transporteur avec leCode de Désignation apparaît s 
 
-Vol en partage de codes ou « CDésigne un vol réalisé par un Tduquel  le  Passager  a  conclu  uTransporteur  Contractuel  »),  s«Transporteur  de  Fait »)  auq   Désignation.  
 
-Vol par voie ferrée/ maritime/Désigne  un  «  transport  combmodes  de  transport  sont  venrégimes de responsabilité.  
+sur le système de
 
-Vol intérieur ou « vol national  Désigne tout vol dont la ville d ́un même Etat, en continuité  
 
- 
 
- 
+ours donné, des vols
 
- 
+s dates données.
 
- 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
- de clientèle spécifique (Jeune, couple, famille, 3
+ucune restriction).
 
-  redevances  imposés  par  un  gouvernement,  pa autre autorité, tels que définis à l ́article 4 ci-de
 
- 24 heures programmé par le Passager au cours  point de départ et le point de destination et figu
 
-éronef du Passager et de ses Bagages au sens 
+oyages).
 
-Transporteur Effectif » « operating carrier » lisant effectivement le vol. 
+CONDITIONS GENERALES DE TRANSP
 
-u « Transporteur Contractant » ec lequel le Passager a conclu un Contrat de Traaît sur le Billet. 
 
- « Code Share » un Transporteur aérien pouvant être soit le Tralu  un  Contrat  de  Transport  («  Transporteur  Co»),  soit  un  autre  Transporteur  (Transporteur  aauquel le  Transporteur  Contractant  a  assoc
 
-me/ routière mbiné  »  aux  termes  duquel  le  Transport  Aérvendus  conjointement  et  peuvent  être réalisé
+Tarif Typologique
 
-nal » ille de départ et la ville de destination sont situité territoriale. 
+Tarif dédié à une catégorie de c
 
- 
 
- 
 
-Page 9 
+Taxes
 
-le, 3ème âge,...) 
+Désigne les frais, taxes et red
 
-t,  par  le  gestionnaire dessous. 
+d ́un aéroport, ou par toute aut
 
-ours de son voyage, à t figurant sur le Billet. 
 
-ens de la Convention 
 
-e Transport et dont le 
+Transit
 
- Transporteur auprès r  Contractant  »  ou  « ur  assurant  le  vol  ou ssocié  son  Code  de 
+Désigne un arrêt de moins 24 h
 
-  Aérien  et  les  autres alisés  sous  différents 
+une escale située entre le poin
 
-t situées à l ́intérieur 
 
-CONDITIONS GENERALES DE TRANSP 
 
-Vol international Désigne,  au  sens  de  la Convendestination et, éventuellementEtats  parties  à  la  Conventio d ́appareils,  ou  dans  un  seul Etatqu ́il soit ou non partie à la  
+Transport Aérien
 
- ARTICLE 2 : DOMAINE D’AP 
+Désigne le transport par aéron
 
-2.1 Généralités  Sauf dispositions contraires énTransport font parties intégrans’appliquent uniquement aux vavec notre nom et notre Code le Billet correspondant.   
+applicable.
 
-AIR ALGERIE se réserve le droitpréavis. Les modifications entrrétroactif sur les dispositions exEn  effectuant  une  réservationaccepté,  tant  pour  vous-mêmprésentes Conditions Générales 
 
-2.2 Affrètement  A titre exceptionnel, il pourra êflotte par un avion d’une autredevait se produire pour le vol qdu transporteur de l’appareil ovous informer. Nous nous efforde service à bord, de divertisse 
 
-2.3 Partage de codes  Si sur certaines lignes aérienneaccords en partage de codes. Cfaite auprès de nous et si vous apparaît pour un ou plusieurs v 
+Transporteur de Fait ou « Tran
 
-Si de tels accords sont en vigue 
+Désigne le transporteur réalisan
 
- 
 
- 
 
- 
+Transporteur Contractuel ou «
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+Désigne le transporteur avec le
 
-nvention,  tout  vol pour  lequel  le  point de dépent, le point d ́escale sont situés sur le territoirention nonobstant  les  escales  intermédiaires eul  Etat  si  une  escale  intermédiaire  est  prévu à la Convention. 
+Code de Désignation apparaît s
 
-D’APPLICATION  
 
-s énoncées à l’article 2.4, les présentes Conditigrantes de votre contrat de transport avec notreux vols ou aux segments de vol, pour lesquelsode de désignation (AH) dans la case du transpo
 
-roit de modifier ces Conditions Générales à tountreront en vigueur dès leur publication, et n'ans existantes. tion  et  un  enregistrement sur  nos  vols,  vous ême  que  pour  toutes  les  personnes  vous  acrales de Transport.  
+Vol en partage de codes ou « C
 
-ra être temporairement nécessaire pour nous deutre compagnie aérienne. Dans l’hypothèse où uvol que vous devez effectuer, nous vous informereil ou essaierons de nous assurer que notre agfforcerons de nous assurer que vous recevez unissement et de franchise bagage similaire à celui
+Désigne un vol réalisé par un T
 
-nnes, nous avons conclu, avec d’autres compagnes. Cela signifie que même si vous êtes titulaire ous possédez un billet sur lequel notre code de drs vols, un autre transporteur peut exploiter le v   
+duquel le Passager a conclu u
+
+Transporteur Contractuel »), s
+
+«Transporteur de Fait ») auq
+
+Désignation.
+
+
+
+Vol par voie ferrée/ maritime/
+
+Désigne un « transport comb
+
+modes de transport sont ven
+
+régimes de responsabilité.
+
+
+
+Vol intérieur ou « vol national
+
+Désigne tout vol dont la ville
+
+d ́un même Etat, en continuité
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+de clientèle spécifique (Jeune, couple, famille, 3
+
+
+
+redevances imposés par un gouvernement, pa
+
+autre autorité, tels que définis à l ́article 4 ci-de
+
+
+
+24 heures programmé par le Passager au cours
+
+point de départ et le point de destination et figu
+
+
+
+éronef du Passager et de ses Bagages au sens
+
+
+
+Transporteur Effectif » « operating carrier »
+
+lisant effectivement le vol.
+
+
+
+u « Transporteur Contractant »
+
+ec lequel le Passager a conclu un Contrat de Tra
+
+aît sur le Billet.
+
+
+
+« Code Share »
+
+un Transporteur aérien pouvant être soit le Tra
+
+lu un Contrat de Transport (« Transporteur Co
+
+»), soit un autre Transporteur (Transporteur a
+
+auquel le Transporteur Contractant a assoc
+
+
+
+me/ routière
+
+mbiné » aux termes duquel le Transport Aér
+
+vendus conjointement et peuvent être réalisé
+
+
+
+nal »
+
+ille de départ et la ville de destination sont sit
+
+uité territoriale.
+
+
+
+Page 9
+
+
+
+le, 3ème âge,...)
+
+
+
+t, par le gestionnaire
+
+dessous.
+
+
+
+ours de son voyage, à
+
+t figurant sur le Billet.
+
+
+
+ens de la Convention
+
+
+
+e Transport et dont le
+
+
+
+Transporteur auprès
+
+r Contractant » ou «
+
+ur assurant le vol ou
+
+ssocié son Code de
+
+
+
+Aérien et les autres
+
+alisés sous différents
+
+
+
+t situées à l ́intérieur
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+Vol international
+
+Désigne, au sens de la Conven
+
+destination et, éventuellement
+
+Etats parties à la Conventio
+
+d ́appareils, ou dans un seul
+
+Etatqu ́il soit ou non partie à la
+
+
+
+ ARTICLE 2 : DOMAINE D’AP
+
+
+
+2.1 Généralités
+
+Sauf dispositions contraires én
+
+Transport font parties intégran
+
+s’appliquent uniquement aux v
+
+avec notre nom et notre Code
+
+le Billet correspondant.
+
+
+
+AIR ALGERIE se réserve le droit
+
+préavis. Les modifications entr
+
+rétroactif sur les dispositions ex
+
+En effectuant une réservation
+
+accepté, tant pour vous-mêm
+
+présentes Conditions Générales
+
+
+
+2.2 Affrètement
+
+A titre exceptionnel, il pourra ê
+
+flotte par un avion d’une autre
+
+devait se produire pour le vol q
+
+du transporteur de l’appareil o
+
+vous informer. Nous nous effor
+
+de service à bord, de divertisse
+
+
+
+2.3 Partage de codes
+
+Si sur certaines lignes aérienne
+
+accords en partage de codes. C
+
+faite auprès de nous et si vous
+
+apparaît pour un ou plusieurs v
+
+
+
+Si de tels accords sont en vigue
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+nvention, tout vol pour lequel le point de dép
+
+ent, le point d ́escale sont situés sur le territoire
+
+ntion nonobstant les escales intermédiaires
+
+eul Etat si une escale intermédiaire est prévu
+
+à la Convention.
+
+
+
+D’APPLICATION
+
+
+
+s énoncées à l’article 2.4, les présentes Conditi
+
+grantes de votre contrat de transport avec notre
+
+ux vols ou aux segments de vol, pour lesquels
+
+ode de désignation (AH) dans la case du transpo
+
+
+
+roit de modifier ces Conditions Générales à tou
+
+ntreront en vigueur dès leur publication, et n'a
+
+ns existantes.
+
+tion et un enregistrement sur nos vols, vous
+
+ême que pour toutes les personnes vous ac
+
+rales de Transport.
+
+
+
+ra être temporairement nécessaire pour nous de
+
+utre compagnie aérienne. Dans l’hypothèse où u
+
+vol que vous devez effectuer, nous vous informe
+
+reil ou essaierons de nous assurer que notre ag
+
+fforcerons de nous assurer que vous recevez un
+
+issement et de franchise bagage similaire à celui
+
+
+
+nnes, nous avons conclu, avec d’autres compagn
+
+es. Cela signifie que même si vous êtes titulaire
+
+ous possédez un billet sur lequel notre code de d
+
+rs vols, un autre transporteur peut exploiter le v
+
+
 
 igueur pour votre vol, les conditions suivantes se
 
- 
 
- 
 
-Page 10 
+Page 10
 
-départ  et  le point  de toire d ́au moins deux res  ou  changements révue  dans  un  autre 
 
-nditions Générales de otre compagnie; elles els nous apparaissons nsporteur figurant sur 
 
- tout moment et sans t n'auront pas d'effet 
+départ et le point de
 
- 
+toire d ́au moins deux
 
-êtes  réputés  avoir s  accompagnant,  les 
+res ou changements
 
-us de compléter notre  où une telle situation merons de l’identité re agent agréé puisse z un niveau de qualité celui annoncé. 
+révue dans un autre
 
-pagnies aériennes des aire d'une réservation  de désignation « AH» r le vol.  
 
-s seront applicables: 
 
-CONDITIONS GENERALES DE TRANSP 
+nditions Générales de
 
- 
+otre compagnie; elles
 
-2.3.1 Nous vous informerons dvotre  réservation auprès  d’unprocédez  à  votre  réservation communiquer, à défaut, vous sde l’aéroport.  
+els nous apparaissons
 
-2.3.2Ces Conditions Générales pas contraires à celles appliqué    dispositions spécifiques, auque 
+nsporteur figurant sur
 
-Vous  trouverez  les  conditionsrespectif ou auprès de votre agVous devez prendre connaissantransporteur dans le cadre d’unles spécificités comme les horamatière de transport de mineule transport, les appareils à oxde refus de transport, les franch 
 
-2.4 Primauté de la loi contractu   Si l’une ou l’autre des dispositios’avérer non  conformes  aux  dvotre contrat, ce sont ces règlede plusieurs de ces dispositionprésentes Conditions Générales 
 
- ARTICLE 3 : BILLETS   
+tout moment et sans
 
-3.1. Dispositions générales (a)Le Billet atteste, jusqu ́à pretant dans sa conclusion que daen tant que passager dont le no
+t n'auront pas d'effet
 
- (b) La prestation de Transport nnous  réservons  le  droit  de  prPassagers. Le Passager devra aidentité ainsi que de celles des 
 
- (c) Un Billet n ́est pas cessible. avec  un  Billet  à  des  fins  de  trresponsabilité,  si  en  toute  bopersonne qui présente le Billet.
 
- 
+êtes réputés avoir
 
- 
+s accompagnant, les
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-ns de l'identité de ce transporteur au moment d’une  agence  Air  Algérie  ou  sur  notre  site tion  auprès  d’un  agent agréé,  ce  dernier  est us serez informé au plus tard lors de l'enregist
 
-ales de Transport sont applicables dans la mesurliquées par les partenaires en partage de code squel cas, leurs conditions ou règles prévaudraien 
+us de compléter notre
 
-ions  des  partenaires  en  partage  de  code  sur e agence de voyages.  issance des dispositions applicables aux vols opun accord de partage de code, notamment enhoraires d’enregistrement, les critères et directivineurs voyageant seuls, le transport d’animaux, là oxygène, les irrégularités de vols, les dédommanchises bagages, l’enregistrement des bagages    
+où une telle situation
 
-ractuelle  sitions des présentes Conditions Générales de Tx  dispositions  réglementaires et/ou  à  la  législaègles et lois qui prévaudraient. L'invalidation évitions serait néanmoins sans effet sur les autrerales de Transport. 
+merons de l’identité
 
- preuve du contraire, de l ́existence d ́un Conte dans son contenu, entre nous en tant que trale nom figure sur le Billet.  ort n ́est fournie qu ́au(x) Passager(s) désigné(s) e  procéder  à  la  vérification  documentaire  de ra ainsi pouvoir justifier, à tout moment de sodes personnes dont il a la responsabilité. ble. Si une autre personne que celle qui doit voe  transport  ou  de  remboursement,  nous  n ́asse  bonne  foi,  nous  exécutons  le  transport    ouillet. 
+re agent agréé puisse
 
- 
+z un niveau de qualité
 
- 
+celui annoncé.
 
-Page 11 
 
-ent où vous effectuez ite  Internet.  Si  vous est  tenu  de  vous  la gistrement au niveau 
 
-esure où elles ne sont de surtout dans leurs raient. 
+pagnies aériennes des
 
-sur  leur  site  Internet 
+aire d'une réservation
 
-s opérés par un autre nt en ce qui concerne ectives applicables en ux, le droit de refuser ommagements en cas ges, etc... 
+de désignation « AH»
 
-de Transport devaient gislation  applicable  à n éventuelle d'une ou utres dispositions des 
+r le vol.
 
-Contrat de Transport,  transporteur et vous 
 
-é(s) sur le Billet. Nous   de  l ́identité  de  nos e son voyage, de son 
 
-t voyager se présente n ́assumerons  aucune     ou  remboursons  la 
+s seront applicables:
 
-CONDITIONS GENERALES DE TRANSP 
+CONDITIONS GENERALES DE TRANSP
 
-(d) Certains  Billets,  vendus  à dmodifiables  et/ou  non  rembouconditions applicables à l ́utilisaccepté  lors de la Réservation(e) Le  Billet  demeure  en  perconstitue un commencement dnous-mêmes. Les conditions gédes    dispositions    des (f)Le Passager ne sera transpora  été  émis  en  son  nom l’enregistrement.  
 
-3.2.Durée de validité (a) Sauf  dispositions  contrairConditions  Générales  de  Tranvalidité d ́un Billet, tel qu ́indiqlui-même, un Billet est valable a Un an, à compter de la d Un  an  à  compter  de intervient dans l ́année Un billet est valable au rembou 13 mois, à compter de l 13 mois à compter de la 
 
-(b)Lorsque le Passager en possvoyager pendant la durée de vRéservation  sur  un  vol,  noussouhaitée par le Passager, la compagnie, dans la limite des c
+2.3.1 Nous vous informerons d
 
- (c)Lorsque,  après  avoir  commeraisons  de  santé,  de  le  poursproroger  la  validité  du  Billet  junouveau ou jusqu ́à la date du un certificat médical prouvant et que ces raisons de santé n ́aiLa prorogation visée, ci-dessusvaudra pour un transport dansVol non encore utilisés compopourra  être  prorogée  de  troismédical remis. De même, Air Amembres  de  la  famille  prochconditions de preuve définies c 
+votre réservation auprès d’un
 
- 
+procédez à votre réservation
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+communiquer, à défaut, vous s
 
-s  à des tarifs  spécifiques,  sont partiellement ouboursables.  Il  appartient  au Passager,  de  veille utilisation de son Billetcompte tenu du tarif  ion.   permanence  la  propriété  duTransporteur ém  nt de preuve de contrat de transport conclu ens générales du contrat mentionnées sur le Billes    présentes    Conditions    Générales sporté sur un vol que si un Billet Electronique en et  devra  fournir  nécessairement  une  pi
+de l’aéroport.
 
-traires  contenues  soit  dans  le  Billet,  soit  daTransport,  ou sauf  dans  le cas  de  Tarifs  affecndiqué au Passager au moment de l ́achat du Bilble au transport :  e la date d ́émission si aucun coupon de vol n’estde  la  date  d’utilisation  du  premier  Coupon  dnée de la date d ́émission du Billet. boursement :  de la date d ́émission si aucun coupon de vol n’ede la date d’utilisation du premier Coupon de vol 
 
-possession d ́un Billet en cours de validité se trode validité de son Billet parce qu ́au moment oous  ne  sommes  pas  en  mesure  de  confirme la validité de ce Billet pourra être prorogée, à les conditions d’utilisation du billet. mmencé  son  voyage,  le  Passager  se  trouve  emursuivre  durant  la  période  de  validité  du  Billelet  jusqu ́à  la  date  où  le  Passager  sera  en  mes du premier vol disponible, sous réserve que le ant les raisons de santé l ́ayant empêché de con n ́aient pas été connues lors de la Réservation.ssus, ne débutera qu ́au point où le voyage a édans la classe du Tarif initialement payé. Lorsqumportent un ou plusieurs arrêts volontaires, larois  mois  au  plus,  à  compter  de  la  date  portéir Algérie pourra proroger, sur demande, la validroche  accompagnant  le  Passager,  sous  réserveies ci-dessus. 
 
- 
+2.3.2Ces Conditions Générales
 
- 
+pas contraires à celles appliqué
 
-Page 12 
+dispositions spécifiques, auque
 
-t ou  totalement non veiller au  respect  des  if  qu’il aura choisi et 
 
-émetteur.  Le  Billet u entre le passager et Billet sont un résumé     de    Transport.   e en cours de validité   pièce  d ́identité  à 
 
-t  dans  les  présentes ffectant  la  durée  de u Billet ou sur le Billet 
+Vous trouverez les conditions
 
-’est utilisé ou,  on  de  vol, si  celle-ci 
+respectif ou auprès de votre ag
 
-l n’est utilisé ou,  e vol.  
+Vous devez prendre connaissan
 
-e trouve empêché de nt où il demande une irmer  la  Réservation , à la discrétion de la 
+transporteur dans le cadre d’un
 
-e  empêché,  pour  des   Billet,  nous  pouvons mesure  de  voyager  à e le Passager remette  continuer son voyage on.  a été interrompu et rsque les Coupons de s, la validité du Billet ortée  sur  le  certificat validité des Billets des erve  du  respect  des 
+les spécificités comme les hora
 
-CONDITIONS GENERALES DE TRANSP 
+matière de transport de mineu
 
- 
+le transport, les appareils à ox
 
-(d)En  cas  de  décès  d ́un  Pasaccompagnant  le défunt  pourrminimum, soit en prorogeant la En cas de décès survenu dans lla  validité de  ses  Billets  et de pourra être modifiée de la mêm 
+de refus de transport, les franch
 
-Toute modification mentionné   certificat de décès en bonne etqu ́au point où le voyage a étTarif TTC payé. Toute prorogatla date du décès.  
 
-3.3. Force Majeure invoquée pSi avant de débuter son voyagevoyager  pour  une  raison  daccorderons,au passager ou à Tarif de son Billet non rembouvoyage  ultérieur  et  sous  résePassager  nous  prévienne,  le  ppreuve incontestable de l’événe 
 
-3.4. Ordre d ́utilisation des CouVotre billet est valable uniquempoint de destination via toute eSi votre premier coupon n’est pl’ordre séquentiel, votre billet  
+2.4 Primauté de la loi contractu
 
- 
+Si l’une ou l’autre des dispositio
 
-3.5. Modification à la demandeSi vous souhaitez changer le vocontacter  notre  agent  agrée. parcours et vous laisserons le transport figurant sur votre billde service pourrontvous être fa 
+s’avérer non conformes aux d
 
-3.5.1 Avant l’entame du voyageLe calcul du montant dû pour lavalables le jour de la réémission  
+votre contrat, ce sont ces règle
 
-3.5.2 Après l’entame du voyage Le calcul du montant dû pour lavalables le jour de l’émission in
+de plusieurs de ces disposition
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+présentes Conditions Générales
 
-  Passager  au  cours  de  son  voyage,  les  Billetourront  être  modifiés,  soit  en  renonçant  à    lant la durée de validité de ces Billets. ans la famille proche d ́un Passager dont le voyag de  ceux  des  membres  de  sa famille proche vmême façon.  
 
-nnée ci-dessus ne pourra être effectuée qu ́apre et due forme. La prorogation mentionnée ci-dea été interrompu et vaudra pour un transport ogation ne pourra excéder quarante-cinq (45) jo   
 
-ée par le Passager yage et d’utiliser son billet, le Passager est dansn  de  Force  Majeure,  telle  que  définie  à u à une autre personne de son choix, un avoir boursable et/ou non modifiable, valable un an, réserve  des  Frais  de  Services  applicables,  à le  plus  tôt  possible (avant  la  date  du  vol),  et vénement constituant le cas de Force Majeure.
+ ARTICLE 3 : BILLETS
 
- Coupons de Vols uement pour le transport qui y est indiqué, du pte escale.  est pas utilisé ou que vos coupons de vol ne sonllet ne sera pas valable au transport. 
 
-ande du passager le voyage figurant sur votre billet, vous devez n.  Nous  calculerons  le  tarif  révisé  applicable s le choix d’accepter de payer le tarif révisé ou billet. Si vous décidez d’accepter de payer le tarre facturés. 
 
-yage (avant le départ du 1er vol prévu): ur la modification du billet doit prendre en consission.  
+3.1. Dispositions générales(a)Le Billet atteste, jusqu ́à pre
 
-yage (après le départ du 1er vol prévu) : ur la modification dubillet doit prendre en consiinitiale. 
+tant dans sa conclusion que da
 
- 
+en tant que passager dont le no
 
- 
+(b) La prestation de Transport n
 
-Page 13 
+nous réservons le droit de pr
 
-illets  des  personnes     la  notion de  séjour 
+Passagers. Le Passager devra a
 
-oyage est commencé, e voyageant  avec  lui 
+identité ainsi que de celles des
 
- ́après réception d ́un dessus ne débutera ort dans la classe du 5) jours à compter de 
+(c) Un Billet n ́est pas cessible.
 
-ans l ́impossibilité de à  l ́article 1,  nous oir correspondant au  an, utilisable pour un ,  à  condition  que  le ,  et  qu ́il  fournisse  la re. 
+avec un Billet à des fins de tr
 
-du point de départ au 
+responsabilité, si en toute bo
 
- sont pas utilisés dans 
+personne qui présente le Billet.
 
-ez nous contacter ou ble  à  votre  nouveau é ou de conserver le e tarif révisé, des frais 
 
-onsidération les tarifs 
 
-onsidération les tarifs 
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
 
- 
+ns de l'identité de ce transporteur au moment
 
-3.6. Identification du Transpor   L ́identification du Transporteude  Désignation  (tel  que  définicomme étant celle du siège soc 
+d’une agence Air Algérie ou sur notre site
 
- 
+tion auprès d’un agent agréé, ce dernier est
 
- ARTICLE 4 : TARIFS, TAXES,  
+us serez informé au plus tard lors de l'enregist
 
-4.1 Tarifs Le tarif payé pour votre billet cheures  prévues  indiquées  sur point de destination, via les escne  comprend  pas  le  transportaéroport et centre-ville. Le tarvigueur à la date de paiement dLors  de  la  Réservation,  le  Pasd ́Emissions’il ya lieu. 
 
-A chaque tarif sont associées dacceptées lors de l’achat du bill   
 
-4.1.1 Tarifs Typologiques Nous proposons des réductionpassagers  (bébé,  enfant,  jeunjustificatifs. Les conditions partvous  seront  indiquées,  le  cainformation  complémentaire Dans tous les cas, les tarifs prbillet  émis.  Les  tarifs  proposédéterminées.  
+ales de Transport sont applicables dans la mesur
 
-4.1.2 Tarifs promotionnels Les tarifs promotionnels sont srestrictions d'utilisations, un suet peuvent interdire ou limiternon présentation du passager. 
+liquées par les partenaires en partage de code s
 
-Un tarif promotionnel est limispécifique. Les tarifs promotion    adulte (senior, jeune, étudiantdu billet est restreinte et ce tar   
+quel cas, leurs conditions ou règles prévaudraien
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-porteur rteur peut figurer en abrégé sur le Billet, par le éfini  dans  l ́Article  1).  L ́adresse  du  Transporte social ou lieu principal de son exploitation.  
 
-XES, REDEVANCES, FRAIS ET SURCHARGE 
+ions des partenaires en partage de code sur
 
-let comprend votre transport et celui de vos bagsur  le  billet entre  l’aéroport du point  d’origines escales spécifiées, pour une classe de transporport  de  surface d’un  aéroport à  un  autre,  ni  l tarif de votre billet a été calculé conformément de votre billet.   Passager  est  informé  du  Tarif  TTC  du  Billet 
+e agence de voyages.
 
-es des particularités qui correspondent aux co billet.  
+issance des dispositions applicables aux vols op
 
-tions (dites "réductions typologiques") à certaijeune,  senior,  étudiants,  etc.)  applicables  surparticulières applicables aux tarifs et aux réduct  cas  échéant,  au  moment  de  votre  réservaire  sur  les  tarifs,  vous  pouvez  également s proposés ne sont garantis qu'une fois le paieposés  sont  par  ailleurs  disponibles  pour  un  n
+un accord de partage de code, notamment en
 
-nt sujets à des conditions particulières qui peun supplément tarifaire ou interdire un changemeiter le montant d'un remboursement en cas d ger.  
+horaires d’enregistrement, les critères et directiv
 
-limité à une période de vente et une période otionnels  s'adressent à tous, mais aucune réduiant) ne peut s'appliquer sur les tarifs promotio tarif est toujours affiché sous réserve de dispon
+ineurs voyageant seuls, le transport d’animaux, l
 
- 
+à oxygène, les irrégularités de vols, les dédomm
 
- 
+anchises bagages, l’enregistrement des bagages
 
-Page 14 
 
-r le biais de son Code orteur  est  considérée 
 
-RGES 
+ractuelle
 
- bagages aux dates et igine  et  l’aéroport du sport donnée. Le tarif   ni  le  transport  entre ément à nos tarifs en 
+sitions des présentes Conditions Générales de T
 
-llet incluant  les  Frais 
+x dispositions réglementaires et/ou à la législa
 
-x conditions tarifaires 
+ègles et lois qui prévaudraient. L'invalidation év
 
-rtaines catégories de   sur  présentation  de ductions typologiques ervation.  Pour  toute ent nous-contacter. paiement validé et le n  nombre  de  places 
+itions serait néanmoins sans effet sur les autre
 
- peuvent imposer des ement de réservation as d'annulation ou de 
+rales de Transport.
 
-de de transport bien réduction typologique otionnels. La validité sponibilité. 
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
+preuve du contraire, de l ́existence d ́un Cont
 
- 
+e dans son contenu, entre nous en tant que tra
 
-4.2 Taxes, redevances, frais   
+le nom figure sur le Billet.
 
-4.2.1Avant  le  transport,  vous imposés par un gouvernementque nous sommes obligés de re 
+ort n ́est fournie qu ́au(x) Passager(s) désigné(s)
 
-4.2.2 Lors de l’achat de votre bqui s’ajoutent aux tarifs et qui aLes taxes, redevances et frais contrôle, sont en constante évo 
+e procéder à la vérification documentaire de
 
-4.2.3 Si vous n’utilisez pas vottaxes  et  redevances  dont  l’econformément à la réglementaPour toute demande de rembowww.airalgerie.dz  via https://airalgerie.dz/contacts/félectronique  helpdesk@airalgePour  toute  demande  de  remb  moyen (autre qu’en ligne) des du montant des taxes rembour 
+ra ainsi pouvoir justifier, à tout moment de so
 
-Le  remboursement  des  taxesla  demande  
+des personnes dont il a la responsabilité.
 
-4.3 Surcharges En cas de circonstances exceptmontant du tarif à payer (tels qune surcharge carburant).   
+ble. Si une autre personne que celle qui doit vo
 
-4.4 Monnaie de paiement  Les tarifs, taxes, redevances, fr   transport  débute,  convertis  daapplication du taux de changenotre agent agréé ou nous-mê   (par  exemple,  en  cas  de  nondiscrétion,  accepter  le  paiemapplicable.  
+e transport ou de remboursement, nous n ́ass
 
- 
+e bonne foi, nous exécutons le transport ou
 
- 
+illet.
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
- 
 
-ous  devez  nous  payer  l’ensemble  des  taxes,  reent, toute autre autorité ou par le gestionnairee recouvrer ou d’honorer pour votre transport. 
+Page 11
 
-tre billet, vous serez avisé de toutes les taxes, frqui apparaissent pour la plupart séparément surrais imposés sur les transports aériens ne relèv    évolution. 
 
- votre billet, vous êtes en droit d’obtenir le remt  l’exigibilité  est  liée  à  l’embarquement  effeentation applicable.  boursement des taxes non utilisées effectuée eia notre formulaire de cts/formulaire-de-contact/      ou     via  ralgerie.dz , aucun frais de remboursement ne seemboursement  des  taxes  non  utilisées  effectudes frais peuvent être appliqués. Ces frais n’excoursables. 
 
-axes  interviendra  dans  les  30  jours  suivants   
+ent où vous effectuez
 
-ceptionnelles, des frais supplémentaires peuven els que par exemple des primes d’assurances com
+ite Internet. Si vous
 
-s, frais, surcharges sont payables dans la monnis  dans  la  monnaie  du  pays  du  paiement  (s’il nge applicable à la date où le paiement est réamême ne demandions le paiement dans une mon-convertibilité  de  la  monnaie  locale).  Nous iement  dans  une  autre  monnaie,  sous  réserv
+est tenu de vous la
 
- 
+gistrement au niveau
 
- 
 
-Page 15 
 
-s,  redevances  et  frais aire d’un aéroport et ort.  
+esure où elles ne sont
 
-s, frais ou redevance,  sur le billet.  relèvent pas de notre 
+de surtout dans leurs
 
- remboursement des effectif  du  Passager 
+raient.
 
-ée en ligne  sur le site remboursement notre     adresse e sera exigé.   ectuée  via  tout  autre ’excéderont pas 20 % 
 
-ants  la réception  de 
 
-uvent être ajoutés au s complémentaires ou 
+sur leur site Internet
 
-onnaie du pays où le (s’il  est  différent)  en t réalisé, à moins que e monnaie différente ous  pouvons,  à  notre serve  du  droit  local 
 
-CONDITIONS GENERALES DE TRANSP 
 
- ARTICLE 5: RESERVATIONS  
+s opérés par un autre
 
-5.1 Conditions de réservations 5.1.1. Chaque coupon de vol esà la date et pour le vol corresptarif que vous avez payé correémis à l’origine sans réservatioultérieurement dans la limite d5.1.2.Nos Agents agréés ou no  le souhaitez, nous la(les) confir5.1.3. Certains  Tarifs  peuvent droit de modifier ou d’annuler 5.1.4. Vous devez nous indiquevotre état nécessite une quelcodu débarquement ou à bord decomme provisoire et ne sera avez  reçu  toutes  les  autorisarattachées à de telles autorisat 
+nt en ce qui concerne
 
-5.2. Date limite de paiement dSi vous n’avez pas effectué le ppar nous ou l'agence de voyage 
+ectives applicables en
 
-5.3. Renseignements personnel Vous reconnaissez que des renspour les besoins suivants: effeannexes, fournir et développermobilité  réduite, faciliter  l’acl’immigration et à l’entrée sur des agences gouvernementalesÀ ces fins, vous nous autorisez nos  propres  agences,  à  l'agouvernementales,  aux  autrementionnés ci-dessus.  Vos données personnelles ne s 
+ux, le droit de refuser
 
- 
+ommagements en cas
 
- 
+ges, etc...
 
- 
 
- 
 
- 
+de Transport devaient
 
-5.4. Attribution des sièges  
+gislation applicable à
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+n éventuelle d'une ou
 
-ONS  
+utres dispositions des
 
-ions  ol est valable pour le transport dans la classe spérrespondant à la réservation de siège que vous orrespond au parcours indiqué sur votre billet vation de siège pour la partie retour, le siège te des places disponibles sur le vol concerné.  nous-mêmes enregistrons votre ou vos réservnfirmons par écrit. ent  être  soumis  à  des  conditions qui  limitent oler vos réservations.  iquer au moment de la réservation si votre condelconque assistance médicale ou autre, lors de d de l’appareil. Votre réservation sera inscrite dara confirmée qu’une fois que nous nous seronsorisations  médicales  nécessaires  et  que  touteisations sont ou seront satisfaites.  
 
-nt du billet   le paiement de votre Billet avant le délai spécifiyage, nous pouvons annuler votre réservation. 
 
-nnels  renseignements personnels vous concernant noeffectuer une réservation, acheter un Billet, obper des prestationstels que l’assistance spéciale  l’accomplissement  des  formalités  administrasur le territoire et mettre de tels renseignementales, relatifs à votre voyage.  isez à conserver ces données, à les utiliser et à le  l'agence  de  voyage  ayant  émis  le  billeutres  Transporteurs  et  aux  autres  prestata
+Contrat de Transport,
+
+transporteur et vous
+
+
+
+é(s) sur le Billet. Nous
+
+de l ́identité de nos
+
+e son voyage, de son
+
+
+
+t voyager se présente
+
+n ́assumerons aucune
+
+ou remboursons la
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+(d) Certains Billets, vendus à d
+
+modifiables et/ou non rembou
+
+conditions applicables à l ́utilis
+
+accepté lors de la Réservation
+
+(e) Le Billet demeure en per
+
+constitue un commencement d
+
+nous-mêmes. Les conditions gé
+
+des dispositions des
+
+(f)Le Passager ne sera transpor
+
+a été émis en son nom
+
+l’enregistrement.
+
+
+
+3.2.Durée de validité
+
+(a) Sauf dispositions contrair
+
+Conditions Générales de Tran
+
+validité d ́un Billet, tel qu ́indiq
+
+lui-même, un Billet est valable a
+
+ Un an, à compter de la d
+
+ Un an à compter de
+
+intervient dans l ́année
+
+Un billet est valable au rembou
+
+ 13 mois, à compter de l
+
+ 13 mois à compter de la
+
+
+
+(b)Lorsque le Passager en poss
+
+voyager pendant la durée de v
+
+Réservation sur un vol, nous
+
+souhaitée par le Passager, la
+
+compagnie, dans la limite des c
+
+(c)Lorsque, après avoir comme
+
+raisons de santé, de le pours
+
+proroger la validité du Billet ju
+
+nouveau ou jusqu ́à la date du
+
+un certificat médical prouvant
+
+et que ces raisons de santé n ́ai
+
+La prorogation visée, ci-dessus
+
+vaudra pour un transport dans
+
+Vol non encore utilisés compo
+
+pourra être prorogée de trois
+
+médical remis. De même, Air A
+
+membres de la famille proch
+
+conditions de preuve définies c
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+s à des tarifs spécifiques, sont partiellement ou
+
+boursables. Il appartient au Passager, de veille
+
+utilisation de son Billetcompte tenu du tarif
+
+ion.
+
+permanence la propriété duTransporteur ém
+
+nt de preuve de contrat de transport conclu en
+
+s générales du contrat mentionnées sur le Bille
+
+s présentes Conditions Générales
+
+sporté sur un vol que si un Billet Electronique en
+
+et devra fournir nécessairement une pi
+
+
+
+traires contenues soit dans le Billet, soit da
+
+Transport, ou sauf dans le cas de Tarifs affec
+
+ndiqué au Passager au moment de l ́achat du Bil
+
+ble au transport :
+
+e la date d ́émission si aucun coupon de vol n’est
+
+de la date d’utilisation du premier Coupon d
+
+née de la date d ́émission du Billet.
+
+boursement :
+
+de la date d ́émission si aucun coupon de vol n’e
+
+de la date d’utilisation du premier Coupon de vol
+
+
+
+possession d ́un Billet en cours de validité se tro
+
+de validité de son Billet parce qu ́au moment o
+
+ous ne sommes pas en mesure de confirme
+
+la validité de ce Billet pourra être prorogée, à l
+
+es conditions d’utilisation du billet.
+
+mmencé son voyage, le Passager se trouve em
+
+ursuivre durant la période de validité du Bille
+
+let jusqu ́à la date où le Passager sera en mes
+
+du premier vol disponible, sous réserve que le
+
+ant les raisons de santé l ́ayant empêché de con
+
+n ́aient pas été connues lors de la Réservation.
+
+ssus, ne débutera qu ́au point où le voyage a é
+
+dans la classe du Tarif initialement payé. Lorsqu
+
+mportent un ou plusieurs arrêts volontaires, la
+
+rois mois au plus, à compter de la date porté
+
+ir Algérie pourra proroger, sur demande, la valid
+
+roche accompagnant le Passager, sous réserve
+
+ies ci-dessus.
+
+
+
+Page 12
+
+
+
+t ou totalement non
+
+veiller au respect des
+
+if qu’il aura choisi et
+
+
+
+émetteur. Le Billet
+
+u entre le passager et
+
+Billet sont un résumé
+
+de Transport.
+
+e en cours de validité
+
+pièce d ́identité à
+
+
+
+t dans les présentes
+
+ffectant la durée de
+
+u Billet ou sur le Billet
+
+
+
+’est utilisé ou,
+
+on de vol, si celle-ci
+
+
+
+l n’est utilisé ou,
+
+e vol.
+
+
+
+e trouve empêché de
+
+nt où il demande une
+
+irmer la Réservation
+
+, à la discrétion de la
+
+
+
+e empêché, pour des
+
+Billet, nous pouvons
+
+mesure de voyager à
+
+e le Passager remette
+
+continuer son voyage
+
+on.
+
+a été interrompu et
+
+rsque les Coupons de
+
+s, la validité du Billet
+
+ortée sur le certificat
+
+validité des Billets des
+
+erve du respect des
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+(d)En cas de décès d ́un Pas
+
+accompagnant le défunt pourr
+
+minimum, soit en prorogeant la
+
+En cas de décès survenu dans l
+
+la validité de ses Billets et de
+
+pourra être modifiée de la mêm
+
+
+
+Toute modification mentionné
+
+certificat de décès en bonne et
+
+qu ́au point où le voyage a ét
+
+Tarif TTC payé. Toute prorogat
+
+la date du décès.
+
+
+
+3.3. Force Majeure invoquée p
+
+Si avant de débuter son voyage
+
+voyager pour une raison d
+
+accorderons,au passager ou à
+
+Tarif de son Billet non rembou
+
+voyage ultérieur et sous rése
+
+Passager nous prévienne, le p
+
+preuve incontestable de l’événe
+
+
+
+3.4. Ordre d ́utilisation des Cou
+
+Votre billet est valable uniquem
+
+point de destination via toute e
+
+Si votre premier coupon n’est p
+
+l’ordre séquentiel, votre billet
+
+
+
+3.5. Modification à la demande
+
+Si vous souhaitez changer le vo
+
+contacter notre agent agrée.
+
+parcours et vous laisserons le
+
+transport figurant sur votre bill
+
+de service pourrontvous être fa
+
+
+
+3.5.1 Avant l’entame du voyage
+
+Le calcul du montant dû pour la
+
+valables le jour de la réémission
+
+
+
+3.5.2 Après l’entame du voyage
+
+Le calcul du montant dû pour la
+
+valables le jour de l’émission in
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+Passager au cours de son voyage, les Billet
+
+ourront être modifiés, soit en renonçant à la
+
+nt la durée de validité de ces Billets.
+
+ans la famille proche d ́un Passager dont le voyag
+
+de ceux des membres de sa famille proche v
+
+même façon.
+
+
+
+nnée ci-dessus ne pourra être effectuée qu ́apr
+
+e et due forme. La prorogation mentionnée ci-de
+
+a été interrompu et vaudra pour un transport
+
+ogation ne pourra excéder quarante-cinq (45) jo
+
+
+
+ée par le Passager
+
+yage et d’utiliser son billet, le Passager est dans
+
+n de Force Majeure, telle que définie à
+
+u à une autre personne de son choix, un avoir
+
+boursable et/ou non modifiable, valable un an,
+
+réserve des Frais de Services applicables, à
+
+le plus tôt possible (avant la date du vol), et
+
+vénement constituant le cas de Force Majeure.
+
+
+
+Coupons de Vols
+
+uement pour le transport qui y est indiqué, du p
+
+te escale.
+
+est pas utilisé ou que vos coupons de vol ne son
+
+llet ne sera pas valable au transport.
+
+
+
+ande du passager
+
+le voyage figurant sur votre billet, vous devez n
+
+. Nous calculerons le tarif révisé applicable
+
+s le choix d’accepter de payer le tarif révisé ou
+
+billet. Si vous décidez d’accepter de payer le tar
+
+re facturés.
+
+
+
+yage (avant le départ du 1er vol prévu):
+
+ur la modification du billet doit prendre en consi
+
+ssion.
+
+
+
+yage (après le départ du 1er vol prévu) :
+
+ur la modification dubillet doit prendre en consi
+
+initiale.
+
+
+
+Page 13
+
+
+
+illets des personnes
+
+la notion de séjour
+
+
+
+oyage est commencé,
+
+e voyageant avec lui
+
+
+
+ ́après réception d ́un
+
+dessus ne débutera
+
+ort dans la classe du
+
+5) jours à compter de
+
+
+
+ans l ́impossibilité de
+
+à l ́article 1, nous
+
+oir correspondant au
+
+an, utilisable pour un
+
+, à condition que le
+
+, et qu ́il fournisse la
+
+re.
+
+
+
+du point de départ au
+
+
+
+sont pas utilisés dans
+
+
+
+ez nous contacter ou
+
+ble à votre nouveau
+
+é ou de conserver le
+
+e tarif révisé, des frais
+
+
+
+onsidération les tarifs
+
+
+
+onsidération les tarifs
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+3.6. Identification du Transpor
+
+L ́identification du Transporteu
+
+de Désignation (tel que défini
+
+comme étant celle du siège soc
+
+
+
+ ARTICLE 4 : TARIFS, TAXES,
+
+
+
+4.1 Tarifs
+
+Le tarif payé pour votre billet c
+
+heures prévues indiquées sur
+
+point de destination, via les esc
+
+ne comprend pas le transport
+
+aéroport et centre-ville. Le tar
+
+vigueur à la date de paiement d
+
+Lors de la Réservation, le Pas
+
+d ́Emissions’il ya lieu.
+
+
+
+A chaque tarif sont associées d
+
+acceptées lors de l’achat du bill
+
+
+
+4.1.1 Tarifs Typologiques
+
+Nous proposons des réduction
+
+passagers (bébé, enfant, jeun
+
+justificatifs. Les conditions part
+
+vous seront indiquées, le ca
+
+information complémentaire
+
+Dans tous les cas, les tarifs pr
+
+billet émis. Les tarifs proposé
+
+déterminées.
+
+
+
+4.1.2 Tarifs promotionnels
+
+Les tarifs promotionnels sont s
+
+restrictions d'utilisations, un su
+
+et peuvent interdire ou limiter
+
+non présentation du passager.
+
+
+
+Un tarif promotionnel est limi
+
+spécifique. Les tarifs promotion
+
+adulte (senior, jeune, étudiant
+
+du billet est restreinte et ce tar
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+porteur
+
+rteur peut figurer en abrégé sur le Billet, par le
+
+éfini dans l ́Article 1). L ́adresse du Transporte
+
+social ou lieu principal de son exploitation.
+
+
+
+XES, REDEVANCES, FRAIS ET SURCHARGE
+
+
+
+let comprend votre transport et celui de vos bag
+
+sur le billet entre l’aéroport du point d’origine
+
+s escales spécifiées, pour une classe de transpor
+
+port de surface d’un aéroport à un autre, ni l
+
+tarif de votre billet a été calculé conforméme
+
+nt de votre billet.
+
+Passager est informé du Tarif TTC du Billet
+
+
+
+es des particularités qui correspondent aux co
+
+billet.
+
+
+
+tions (dites "réductions typologiques") à certai
+
+jeune, senior, étudiants, etc.) applicables sur
+
+particulières applicables aux tarifs et aux réduct
+
+cas échéant, au moment de votre réserva
+
+ire sur les tarifs, vous pouvez également
+
+s proposés ne sont garantis qu'une fois le paie
+
+posés sont par ailleurs disponibles pour un n
+
+
+
+nt sujets à des conditions particulières qui peu
+
+n supplément tarifaire ou interdire un changeme
+
+iter le montant d'un remboursement en cas d
+
+ger.
+
+
+
+limité à une période de vente et une période
+
+otionnels s'adressent à tous, mais aucune rédu
+
+iant) ne peut s'appliquer sur les tarifs promotio
+
+tarif est toujours affiché sous réserve de dispon
+
+
+
+Page 14
+
+
+
+r le biais de son Code
+
+orteur est considérée
+
+
+
+RGES
+
+
+
+bagages aux dates et
+
+igine et l’aéroport du
+
+sport donnée. Le tarif
+
+ni le transport entre
+
+ément à nos tarifs en
+
+
+
+llet incluant les Frais
+
+
+
+x conditions tarifaires
+
+
+
+rtaines catégories de
+
+sur présentation de
+
+ductions typologiques
+
+ervation. Pour toute
+
+ent nous-contacter.
+
+paiement validé et le
+
+n nombre de places
+
+
+
+peuvent imposer des
+
+ement de réservation
+
+as d'annulation ou de
+
+
+
+de de transport bien
+
+réduction typologique
+
+otionnels. La validité
+
+sponibilité.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+4.2 Taxes, redevances, frais
+
+
+
+4.2.1Avant le transport, vous
+
+imposés par un gouvernement
+
+que nous sommes obligés de re
+
+
+
+4.2.2 Lors de l’achat de votre b
+
+qui s’ajoutent aux tarifs et qui a
+
+Les taxes, redevances et frais
+
+contrôle, sont en constante évo
+
+
+
+4.2.3 Si vous n’utilisez pas vot
+
+taxes et redevances dont l’e
+
+conformément à la réglementa
+
+Pour toute demande de rembo
+
+www.airalgerie.dz via
+
+https://airalgerie.dz/contacts/f
+
+électronique helpdesk@airalge
+
+Pour toute demande de remb
+
+moyen (autre qu’en ligne) des
+
+du montant des taxes rembour
+
+
+
+Le remboursement des taxes
+
+la demande
+
+
+
+4.3 Surcharges
+
+En cas de circonstances except
+
+montant du tarif à payer (tels q
+
+une surcharge carburant).
+
+
+
+4.4 Monnaie de paiement
+
+Les tarifs, taxes, redevances, fr
+
+transport débute, convertis da
+
+application du taux de change
+
+notre agent agréé ou nous-mê
+
+(par exemple, en cas de non
+
+discrétion, accepter le paiem
+
+applicable.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ous devez nous payer l’ensemble des taxes, re
+
+ent, toute autre autorité ou par le gestionnaire
+
+e recouvrer ou d’honorer pour votre transport.
+
+
+
+tre billet, vous serez avisé de toutes les taxes, fr
+
+qui apparaissent pour la plupart séparément sur
+
+rais imposés sur les transports aériens ne relèv
+
+évolution.
+
+
+
+votre billet, vous êtes en droit d’obtenir le rem
+
+t l’exigibilité est liée à l’embarquement effe
+
+entation applicable.
+
+boursement des taxes non utilisées effectuée e
+
+ia notre formulaire de
+
+cts/formulaire-de-contact/ ou via
+
+ralgerie.dz , aucun frais de remboursement ne se
+
+emboursement des taxes non utilisées effectu
+
+des frais peuvent être appliqués. Ces frais n’exc
+
+oursables.
+
+
+
+axes interviendra dans les 30 jours suivants
+
+
+
+ceptionnelles, des frais supplémentaires peuven
+
+els que par exemple des primes d’assurances com
+
+
+
+s, frais, surcharges sont payables dans la monn
+
+is dans la monnaie du pays du paiement (s’il
+
+nge applicable à la date où le paiement est réa
+
+même ne demandions le paiement dans une m
+
+on-convertibilité de la monnaie locale). Nous
+
+iement dans une autre monnaie, sous réserv
+
+
+
+Page 15
+
+
+
+s, redevances et frais
+
+aire d’un aéroport et
+
+ort.
+
+
+
+s, frais ou redevance,
+
+sur le billet.
+
+relèvent pas de notre
+
+
+
+remboursement des
+
+effectif du Passager
+
+
+
+ée en ligne sur le site
+
+remboursement
+
+notre adresse
+
+e sera exigé.
+
+ectuée via tout autre
+
+’excéderont pas 20 %
+
+
+
+ants la réception de
+
+
+
+uvent être ajoutés au
+
+s complémentaires ou
+
+
+
+onnaie du pays où le
+
+(s’il est différent) en
+
+t réalisé, à moins que
+
+e monnaie différente
+
+ous pouvons, à notre
+
+serve du droit local
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+ ARTICLE 5: RESERVATIONS
+
+
+
+5.1 Conditions de réservations
+
+5.1.1. Chaque coupon de vol es
+
+à la date et pour le vol corresp
+
+tarif que vous avez payé corre
+
+émis à l’origine sans réservatio
+
+ultérieurement dans la limite d
+
+5.1.2.Nos Agents agréés ou no
+
+le souhaitez, nous la(les) confir
+
+5.1.3. Certains Tarifs peuvent
+
+droit de modifier ou d’annuler
+
+5.1.4. Vous devez nous indique
+
+votre état nécessite une quelco
+
+du débarquement ou à bord de
+
+comme provisoire et ne sera
+
+avez reçu toutes les autorisa
+
+rattachées à de telles autorisat
+
+
+
+5.2. Date limite de paiement d
+
+Si vous n’avez pas effectué le p
+
+par nous ou l'agence de voyage
+
+
+
+5.3. Renseignements personnel
+
+Vous reconnaissez que des rens
+
+pour les besoins suivants: effe
+
+annexes, fournir et développer
+
+mobilité réduite, faciliter l’ac
+
+l’immigration et à l’entrée sur
+
+des agences gouvernementales
+
+À ces fins, vous nous autorisez
+
+nos propres agences, à l'a
+
+gouvernementales, aux autre
+
+mentionnés ci-dessus.
+
+Vos données personnelles ne s
+
+
+
+5.4. Attribution des sièges
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ONS
+
+
+
+ions
+
+ol est valable pour le transport dans la classe spé
+
+rrespondant à la réservation de siège que vous
+
+orrespond au parcours indiqué sur votre billet
+
+vation de siège pour la partie retour, le siège
+
+te des places disponibles sur le vol concerné.
+
+nous-mêmes enregistrons votre ou vos réserv
+
+nfirmons par écrit.
+
+ent être soumis à des conditions qui limitent o
+
+ler vos réservations.
+
+iquer au moment de la réservation si votre cond
+
+elconque assistance médicale ou autre, lors de
+
+d de l’appareil. Votre réservation sera inscrite da
+
+ra confirmée qu’une fois que nous nous serons
+
+orisations médicales nécessaires et que toute
+
+isations sont ou seront satisfaites.
+
+
+
+nt du billet
+
+le paiement de votre Billet avant le délai spécifi
+
+yage, nous pouvons annuler votre réservation.
+
+
+
+nnels
+
+renseignements personnels vous concernant no
+
+effectuer une réservation, acheter un Billet, ob
+
+per des prestationstels que l’assistance spéciale
+
+l’accomplissement des formalités administra
+
+sur le territoire et mettre de tels renseignemen
+
+tales, relatifs à votre voyage.
+
+isez à conserver ces données, à les utiliser et à le
+
+l'agence de voyage ayant émis le bille
+
+utres Transporteurs et aux autres prestata
+
+
 
 ne seront pas utilisées pour du démarchage télép
 
- 
 
- 
 
-Page 16 
+Page 16
 
- spécifiée sur celui-ci, ous avez effectuée.Le illet.Si un billet a été ge peut être réservé 
 
-servation(s) et si vous 
 
-nt ou excluent  votre 
+spécifiée sur celui-ci,
 
-condition médicale ou s de l’embarquement, te dans notre système ons assurés que vous toutes  les  conditions 
+ous avez effectuée.Le
 
-écifié, comme indiqué n.  
+illet.Si un billet a été
 
-t nous ont été fournis , obtenir des services ciale des personnes à istratives  relatives  à ments à la disposition 
+ge peut être réservé
 
-t à les communiquer à billet,  aux  autorités tataires  de  services 
 
-téléphonique.  
 
-CONDITIONS GENERALES DE TRANSP 
+servation(s) et si vous
 
-Nous  nous  efforçons  d’honorepouvons pas garantir l’attributiou de réattribuer des sièges à tl’avion. Une telle mesure peutou de sécurité.   
 
-5.5. Choix de menu et menus sAir Algérie s ́efforcera de satisfservices à bord (boissons, repas 
 
-5.6 Type d’appareil  Nous  nous  efforcerons  de  poscommunication ou  vous  ayanttransport.  Nous  pouvons  chanraisons notamment opérationn 
+nt ou excluent votre
 
-5.7 Confirmation des réservati   5.7.1. Nous n’exigeons aucunevoyagiez aux dates et aux horaiveiller à confirmer vos réservat5.7.2.Si d’autres transporteurs de correspondances, ceux-ci potelle exigence.  Vous devez vérifier les exigencà une confirmation de votre rTransporteur dont le Code de d 
 
-5.8 Annulation de réservationsSi vous ne vous  présentez pa avance le Transporteur, ce derncontinuation  ou  de  retour  et respect des conditions tarifaire 
 
- ARTICLE 6 : ENREGISTREM 
+condition médicale ou
 
-6.1. Afin d ́être en mesure d ́acvous  recommandons  de  vousL’ouverture de l’enregistremeninternationaux et nationaux et En tout état de cause, vous dev 
+s de l’embarquement,
 
- 
+te dans notre système
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+ons assurés que vous
 
-norer  vos  demandes  d’attribution  de  siège.  Toibution d’un siège donné. Nous nous réservons les à tout moment, même après que vous soyez mpeut être nécessaire pour des raisons opération
+toutes les conditions
 
-us spéciaux atisfaire les demandes du Passager concernant epas spéciaux, choix de menu). 
 
-  positionner  le  type  d’appareil  mentionné  suryant  été  précisé  au  moment  de  l’émission  du changer  le  type  d’appareil  prévu  pour  votre  trionnelles. 
 
-vations une confirmation pour les vols Air Algérie à cooraires indiqués sur votre billet. Dans le cas conrvations de retour.   urs vous demandent de confirmer les réservatici pourront annuler ces réservations en cas de n  
+écifié, comme indiqué
 
-ences des autres Transporteurs participant à vore réservation. Le cas échéant, vous devez confide désignation figure sur votre Billet.  
+n.
 
-ions et frais en cas de siège non occupé pas à l’enregistrement de votrevol, et néglige dernier peut annuler toutes les réservations pou  et  des  frais  supplémentaires  peuvent  être  apaires du Transporteur. 
 
-EMENT ET EMBARQUEMENT  
 
-d ́accomplir toutes les formalités nécessaires à vous  présentersuffisamment  tôt  avant  le  dépa   ment est fixée à 03 heures avant l’heure de déx et 04 heures pour les vols long-courriers.  devrez respecter l ́Heure Limite d ́Enregistreme
+t nous ont été fournis
 
- 
+, obtenir des services
 
- 
+ciale des personnes à
 
-Page 17 
+istratives relatives à
 
-e.  Toutefois,  nous  ne ns le droit d’attribuer ez monté(e) à bord de ationnelles, d’hygiène 
+ments à la disposition
 
-ant les prestations de 
 
-  sur  nos supports  de   du  billet,  pour  votre e  transport  pour  des 
 
-à condition que vous  contraire, vous devez 
+t à les communiquer à
 
-vations de retours ou  de non-respect d’une 
+billet, aux autorités
 
- à votre voyage quant onfirmer votre vol au 
+tataires de services
 
-ligez d’en avertir par s pour les parcours en   applicables,  dans  le 
 
-s à votre voyage, nous épart  de  votre    vol. e départ pour les vols 
 
-ment applicable.  
+téléphonique.
 
-CONDITIONS GENERALES DE TRANSP 
+CONDITIONS GENERALES DE TRANSP
 
-6.2. Les  Heures  Limites  d ́Einternationaux et 45mn pour le 
 
-6.3.   Vous devez être présent àmoment de votre enregistrem    l’heure de départ du vol. Si vous vous présentez à l’emaccès  à  bord  sera  refusé  et  véchéant, votre transport sera a 
 
-6.4.   Nous  ne  pourrons  être  trésultant de votrenon- respect  
+Nous nous efforçons d’honore
 
- ARTICLE 7 : REFUS ET LIMIT 
+pouvons pas garantir l’attributi
 
-7.1. Droit de refuser le transpo Nous sommes en droit de refusd’annuler votre réservation de  
+ou de réattribuer des sièges à t
 
-7.1.1. Une telle mesure s’avèreéviter  d’enfreindre  les  dispositd’arrivée ou de transit ; ou 7.1.2.  Votre  transport  pourraiconfort ou la commodité des au7.1.3.Votre état physique ou mou  la  prise  de  drogues  ou  de même, les autres Passagers, l’é7.1.4. Vous avez refusé de vous7.1.5. Vous pourriez être tentéqu’un visa de transit ou pour l7.1.6. Vous présentez un billetprouvez  prouver  que  votre  idbillet;ou 7.1.7. Vous refusez le paiement    
+l’avion. Une telle mesure peut
 
-7.2 Assistance particulière L’acceptation  de  transport  defemmes  enceintes  et  de  persassistance particulière peuvent 
+ou de sécurité.
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-d ́Enregistrement  (HLE)  sont fixées  à 60m ur les vols nationaux. 
 
-ent à la porte d’embarquement en respectant l’hrement. La clôture de l’embarquement est pré
+5.5. Choix de menu et menus s
 
-embarquement en dehors du créneau horaireet  vos  bagages  enregistrés  seront  débarqués ra assuré sur nos prochains vols en fonction de n
+Air Algérie s ́efforcera de satisf
 
-tre  tenus  responsables  des  pertes  ou  dépensesect de cet Article. 
+services à bord (boissons, repas
 
-IMITATION AU TRANSPORT  
 
-sport efuser d’assurer votre transport ou la suite de v de siège si : 
 
-vère nécessaire pour des raisons de sécurité oupositions  officielles  ou  légales  en  vigueur  dans
+5.6 Type d’appareil
 
-urrait  mettre  en  danger  ou  influer  sur  la  sécues autres Passagers;ou u mental, y compris un état causé par la conso  de  médicaments,  présente  un  risque  ou  un  ds, l’équipage ou les biens; ou vous soumettre à un contrôle de sécurité;ou enté(e) de pénétrer dans un pays pour lequel ur lequel vous ne disposez pas de documents valillet ayant été acquis par des voies illégales, ore  identité  correspond  bien  à  celle  du  passag
+Nous nous efforcerons de pos
+
+communication ou vous ayant
+
+transport. Nous pouvons chan
+
+raisons notamment opérationn
+
+
+
+5.7 Confirmation des réservati
+
+5.7.1. Nous n’exigeons aucune
+
+voyagiez aux dates et aux horai
+
+veiller à confirmer vos réservat
+
+5.7.2.Si d’autres transporteurs
+
+de correspondances, ceux-ci po
+
+telle exigence.
+
+Vous devez vérifier les exigenc
+
+à une confirmation de votre r
+
+Transporteur dont le Code de d
+
+
+
+5.8 Annulation de réservations
+
+Si vous ne vous présentez pa
+
+avance le Transporteur, ce dern
+
+continuation ou de retour et
+
+respect des conditions tarifaire
+
+
+
+ ARTICLE 6 : ENREGISTREM
+
+
+
+6.1. Afin d ́être en mesure d ́ac
+
+vous recommandons de vous
+
+L’ouverture de l’enregistremen
+
+internationaux et nationaux et
+
+En tout état de cause, vous dev
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+norer vos demandes d’attribution de siège. To
+
+ibution d’un siège donné. Nous nous réservons le
+
+s à tout moment, même après que vous soyez m
+
+peut être nécessaire pour des raisons opération
+
+
+
+us spéciaux
+
+atisfaire les demandes du Passager concernant
+
+epas spéciaux, choix de menu).
+
+
+
+positionner le type d’appareil mentionné sur
+
+yant été précisé au moment de l’émission du
+
+changer le type d’appareil prévu pour votre tr
+
+ionnelles.
+
+
+
+vations
+
+une confirmation pour les vols Air Algérie à co
+
+oraires indiqués sur votre billet. Dans le cas con
+
+rvations de retour.
+
+urs vous demandent de confirmer les réservati
+
+ci pourront annuler ces réservations en cas de n
+
+
+
+ences des autres Transporteurs participant à vo
+
+re réservation. Le cas échéant, vous devez confi
+
+de désignation figure sur votre Billet.
+
+
+
+ions et frais en cas de siège non occupé
+
+pas à l’enregistrement de votrevol, et néglige
+
+dernier peut annuler toutes les réservations pou
+
+et des frais supplémentaires peuvent être ap
+
+aires du Transporteur.
+
+
+
+EMENT ET EMBARQUEMENT
+
+
+
+d ́accomplir toutes les formalités nécessaires à v
+
+ous présentersuffisamment tôt avant le dépa
+
+ment est fixée à 03 heures avant l’heure de dé
+
+x et 04 heures pour les vols long-courriers.
+
+devrez respecter l ́Heure Limite d ́Enregistreme
+
+
+
+Page 17
+
+
+
+e. Toutefois, nous ne
+
+ns le droit d’attribuer
+
+ez monté(e) à bord de
+
+ationnelles, d’hygiène
+
+
+
+ant les prestations de
+
+
+
+sur nos supports de
+
+du billet, pour votre
+
+e transport pour des
+
+
+
+à condition que vous
+
+contraire, vous devez
+
+
+
+vations de retours ou
+
+de non-respect d’une
+
+
+
+à votre voyage quant
+
+onfirmer votre vol au
+
+
+
+ligez d’en avertir par
+
+s pour les parcours en
+
+applicables, dans le
+
+
+
+s à votre voyage, nous
+
+épart de votre vol.
+
+e départ pour les vols
+
+
+
+ment applicable.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+6.2. Les Heures Limites d ́E
+
+internationaux et 45mn pour le
+
+
+
+6.3. Vous devez être présent à
+
+moment de votre enregistrem
+
+l’heure de départ du vol.Si vous vous présentez à l’em
+
+accès à bord sera refusé et v
+
+échéant, votre transport sera a
+
+
+
+6.4. Nous ne pourrons être t
+
+résultant de votrenon- respect
+
+
+
+ ARTICLE 7 : REFUS ET LIMIT
+
+
+
+7.1. Droit de refuser le transpo
+
+Nous sommes en droit de refus
+
+d’annuler votre réservation de
+
+
+
+7.1.1. Une telle mesure s’avère
+
+éviter d’enfreindre les disposit
+
+d’arrivée ou de transit ; ou
+
+7.1.2. Votre transport pourrai
+
+confort ou la commodité des au
+
+7.1.3.Votre état physique ou m
+
+ou la prise de drogues ou de
+
+même, les autres Passagers, l’é
+
+7.1.4. Vous avez refusé de vous
+
+7.1.5. Vous pourriez être tenté
+
+qu’un visa de transit ou pour l
+
+7.1.6. Vous présentez un billet
+
+prouvez prouver que votre id
+
+billet;ou
+
+7.1.7. Vous refusez le paiement
+
+
+
+7.2 Assistance particulière
+
+L’acceptation de transport de
+
+femmes enceintes et de pers
+
+assistance particulière peuvent
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+d ́Enregistrement (HLE) sont fixées à 60m
+
+ur les vols nationaux.
+
+
+
+ent à la porte d’embarquement en respectant l’h
+
+rement. La clôture de l’embarquement est pré
+
+
+
+embarquement en dehors du créneau horaire
+
+et vos bagages enregistrés seront débarqués
+
+ra assuré sur nos prochains vols en fonction de n
+
+
+
+tre tenus responsables des pertes ou dépenses
+
+ect de cet Article.
+
+
+
+IMITATION AU TRANSPORT
+
+
+
+sport
+
+efuser d’assurer votre transport ou la suite de v
+
+de siège si :
+
+
+
+vère nécessaire pour des raisons de sécurité ou
+
+positions officielles ou légales en vigueur dans
+
+
+
+urrait mettre en danger ou influer sur la sécu
+
+es autres Passagers;ou
+
+u mental, y compris un état causé par la conso
+
+de médicaments, présente un risque ou un d
+
+s, l’équipage ou les biens; ou
+
+vous soumettre à un contrôle de sécurité;ou
+
+enté(e) de pénétrer dans un pays pour lequel
+
+ur lequel vous ne disposez pas de documents val
+
+illet ayant été acquis par des voies illégales, o
+
+re identité correspond bien à celle du passag
+
+
 
 ent de pénalités, s’il y a lieu, et/ou d’une différe
 
-  des  enfants  non  accompagnés,  de  personnespersonnes  malades  ou  toute  autre personnevent être soumis à des modalités particulières. 
 
- 
 
- 
+des enfants non accompagnés, de personnes
 
-Page 18 
+personnes malades ou toute autre personne
 
-60mn  pour  les  vols 
+vent être soumis à des modalités particulières.
 
-nt l’heure indiquée au  prévue 15 mn avant 
 
-aire applicable, votre ués  de  l’avion.Le  cas  de nos disponibilités.   
 
-nses  de  toute  nature 
+Page 18
 
-de votre transport, ou 
 
-é ou d’ordre, ou pour ans  l’Etat  de  départ, 
 
-sécurité,  la  santé,  le 
+60mn pour les vols
 
-nsommation d’alcool n  danger  pour  vous-
 
-uel vous ne possédez s valables ; ou s, ou bien si vous ne ssager  figurant  surle 
 
-fférence tarifaire. 
+nt l’heure indiquée au
 
-nes  handicapées,  de nne  nécessitant  une  
+prévue 15 mn avant
 
-CONDITIONS GENERALES DE TRANSP 
 
-Il  est  conseillé  d’avertir  le traparticulier d’assistance ou de sœuvre de l’assistance demandé  
 
-7.2.1 Enfants non accompagné On désigne « Enfants non accomà leur date du Transport, ne sopas accompagnés durant leur (père, mère, ou tuteur légal).  
+aire applicable, votre
 
-Les enfants âgés de plus de 5payement  d’un  supplément,soconditions suivantes sont réuni   
+ués de l’avion.Le cas
 
--L’enfant  est accompagné  au  cresponsable qui restera présen    
+de nos disponibilités.
 
--L’enfant doit être attendu à ddont l’identité devra être précsécurité.   
 
--Une  décharge  de responsabilprécisant les noms, adresse etcharge à l'arrivée.   
 
--Toute autre autorisation ou dopays de départ et/ou d’arrivée.  
+nses de toute nature
 
-A  la  demande  de  leur  tuteurbénéficier de ce service aux mê
 
-Il est fortement recommandé draisons de sécurité, lesenfants leur nombre est limité selon le     
 
-Les enfants âgés de moins de moins qu’il ne soit accompagnde la sœur de l’enfant pour lesq 
+de votre transport, ou
 
- 
 
- 
 
- 
+é ou d’ordre, ou pour
 
- 
+ans l’Etat de départ,
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-transporteur,  au moment  de  la  Réservation de son handicap compte tenu des délais impartandée et au moins 48Havant le départ. 
 
-gnés ccompagné », les enfants âgés de plus de5ans souffrant d’aucun handicap physique ou men   eur voyage, par une personne exerçant une pu 
+sécurité, la santé, le
 
-e 5ans et moins de 12ans peuvent voyager se  sous  réserve  d’un  accord  préalable  du  transéunies : 
 
-au  comptoir    d’enregistrement par  un  parent sent à l’aéroport jusqu’audécollage de l’apparei 
 
- à destination par un autre parent ou une persprécisée et entre les mains duquel il pourra êtr
+nsommation d’alcool
 
-abilité  signée  des  parents  doit  être  remise  à  le et n° de téléphone de la personne devant pr
+n danger pour vous-
 
-u document pouvant être exigé par les autoritévée.  
 
-teur,  les  enfants  âgés  de  12  à  17  ans  au  ma mêmes conditions. 
 
-dé de demander ce service suffisamment à l’avnts non accompagnés ne sont acceptés que surn le type d’avion.  
+uel vous ne possédez
 
- de 5ans le jour du vol ne sont pas acceptés poagné d’un adulte âgé d’au moins 18anssauf s’il  lesquels l’âge requis est fixé à 16ans. 
+s valables ; ou
 
- 
+s, ou bien si vous ne
 
- 
+ssager figurant surle
 
-Page 19 
 
-tion, de  tout  besoin partis pour la mise en 
 
-ns et moins de 12 ans ental, et qui ne sont e puissance parentale 
+fférence tarifaire.
 
-r seuls,moyennant le ransporteur,  et  si  les 
 
-ent  ou  une  personne areil. 
 
-personne responsable a être remis en toute 
+nes handicapées, de
 
-  à  l’escale  de  départ t prendre l'enfant en 
+nne nécessitant une
 
-rités compétentes du 
+CONDITIONS GENERALES DE TRANSP
 
-  maximum,  peuvent 
 
- l’avance car pour des  sur les vols directs et 
 
-s pour le transport à  s’il s’agit du frère ou 
+Il est conseillé d’avertir le tra
 
-CONDITIONS GENERALES DE TRANSP 
+particulier d’assistance ou de s
 
- 
+œuvre de l’assistance demandé
 
-7.2.2 Femmes enceintes Les  femmes  enceintes  sont  acformalité. Au-delà, du septièmautorisant  à voyager  (spécifianl’absence de tout risque d’acco 
 
-7.2.3 Passagers voyageant ave    Est considéré comme bébé, toudate du commencement du voy   l’un  de  ses  parents  ou d’ul’accompagnateur peut être âgéDans  le  cas  où vous  voyag  accompagnateur,  répondant  abébés est âgé d’au moins 12 m(fourni  par  le  parent)  et  qui  senfant.  
 
-Le voyage est autorisé, mais nonaissance. 
+7.2.1 Enfants non accompagné
 
-Si le bébé est un passager « bé  retour (il a 2 ans lorsqu'il effectrajet  « aller »  où  il  est  un  bés’appliquera.  
+On désigne « Enfants non accom
 
-Pour des  raisons  de  sécurité  cbébés. 
+à leur date du Transport, ne so
 
-7.2.4 Passagers à mobilité rédu   
+pas accompagnés durant leur
 
-Les passagers à mobilité réduiteinduisant un niveau d’assistanc 
+(père, mère, ou tuteur légal).
 
-\- Passager pouvant monter et mais ayant besoin d’une chaise 
 
-\- Passager ne pouvant ni monte son siège à bord. Il a besoin d' udoit être porté dans les escalier  
 
-\- Passager n’ayant aucune mobde/vers l’avion. Il doit être port     
+Les enfants âgés de plus de 5
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+payement d’un supplément,so
 
-t  acceptées  jusqu’au  septième  mois  de grossetième mois elles devront être munies d’un cercifiant  le  stade  de  la  grossesse, leur état  de  sccouchement prématuré dû à l’altitude). 
+conditions suivantes sont réuni
 
- avec un bébé , tout passager n’ayant pas atteint son deuxième voyage. Chaque bébé doit être obligatoiremend’un  adulte autonome âgé  d’au  moins  18e âgé de moins de 18 ans lorsqu’il s’agit du pèreoyagez accompagnés de  2  bébés,  la  présent  aux  mêmes  règles que  le  1er, est  obligatoir  2 mois, dans ce cas précis celui-ci sera installé i  sera  placé  sur  le  siège  avion  et devra  s’ac
 
-is non recommandé, aux nouveau-nés dans les 
 
-bébé » au départ du voyage et devient passaffectue le voyage retour) le tarif bébé ne s'appn  bébé  de  moins  de  2  ans.  Sur  le  trajet  retou
+-L’enfant est accompagné au c
 
-ité  certains  sièges  sont  interdits  aux  passagers
+responsable qui restera présen
 
-réduite 
 
-duite sont classés en fonction de la conséquencetance spécifique : 
 
- et descendre les escaliers, se mouvoir de/vers saise roulante pour ses déplacements de/vers l’av    
+-L’enfant doit être attendu à d
 
-onter ni descendre les escaliers, mais pouvant se d' une chaise roulante pour ses déplacements daliers (WCHS) ; 
+dont l’identité devra être préc
 
-mobilité. Il a besoin d’une chaise roulante pour sporté dans les escaliers et de/vers son siège à bo  
+sécurité.
 
- 
+-Une décharge de responsabil
 
- 
+précisant les noms, adresse et
 
-Page 20 
+charge à l'arrivée.
 
-rossesse  sans  aucune  certificat médical les de  santé  et attestant 
+-Toute autre autorisation ou do
 
-ième anniversaire à la ent accompagné par   18ans.  Cependant, ère ou de la mère.  résence  d’un  2ème toire sauf  si  l’un des allé sur un siège bébé s’acquitter  d’un  tarif 
+pays de départ et/ou d’arrivée.
 
- les 7 jours suivant la 
 
-assager « enfant » au 'applique que pour le etour,  le  tarif  enfant 
 
-gers  accompagnés  de 
+A la demande de leur tuteur
 
-ence du handicap 
+bénéficier de ce service aux mê
 
-rs son siège à bord, s l’avions (WCHR) ; 
 
-nt semouvoir de/vers nts de/vers l’avions et 
 
-ur ses déplacements  à bord (WCHC) ; 
+Il est fortement recommandé d
 
-CONDITIONS GENERALES DE TRANSP 
+raisons de sécurité, lesenfants
 
- 
+leur nombre est limité selon le
 
-\- Passager mal voyant ou non v 
 
-\- Passager déficient mental (DP    
 
-\- Passager mal ou non entenda 
+Les enfants âgés de moins de
 
-La notification préalable de votNous vous demandons de bienla réservation et au plus tard 4fournir l’assistance appropriéel’Aéroport de votre besoin d’as 
+moins qu’il ne soit accompagn
 
-Nous vous demandons de vousdépart de votre vol afin d’organ 
+de la sœur de l’enfant pour lesq
 
- 
 
-Il est également recommandé équipements de mobilité (ex prendre avec vous. Aussi, si vous souhaitez vous fd’assistance, vous devriez alors et de destination ainsi que de l’ 
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+transporteur, au moment de la Réservation
+
+de son handicap compte tenu des délais impart
+
+andée et au moins 48Havant le départ.
+
+
+
+gnés
+
+ccompagné », les enfants âgés de plus de5ans
+
+souffrant d’aucun handicap physique ou men
+
+eur voyage, par une personne exerçant une pu
+
+
+
+e 5ans et moins de 12ans peuvent voyager se
+
+sous réserve d’un accord préalable du trans
+
+éunies :
+
+
+
+au comptoir d’enregistrement par un parent
+
+sent à l’aéroport jusqu’audécollage de l’apparei
+
+
+
+à destination par un autre parent ou une pers
+
+précisée et entre les mains duquel il pourra êtr
+
+
+
+abilité signée des parents doit être remise à l
+
+e et n° de téléphone de la personne devant pr
+
+
+
+u document pouvant être exigé par les autorité
+
+vée.
+
+
+
+teur, les enfants âgés de 12 à 17 ans au ma
+
+mêmes conditions.
+
+
+
+dé de demander ce service suffisamment à l’av
+
+nts non accompagnés ne sont acceptés que sur
+
+n le type d’avion.
+
+
+
+de 5ans le jour du vol ne sont pas acceptés po
+
+agné d’un adulte âgé d’au moins 18anssauf s’il
+
+lesquels l’âge requis est fixé à 16ans.
+
+
+
+Page 19
+
+
+
+tion, de tout besoin
+
+partis pour la mise en
+
+
+
+ns et moins de 12 ans
+
+ental, et qui ne sont
+
+e puissance parentale
+
+
+
+r seuls,moyennant le
+
+ransporteur, et si les
+
+
+
+ent ou une personne
+
+areil.
+
+
+
+personne responsable
+
+a être remis en toute
+
+
+
+à l’escale de départ
+
+t prendre l'enfant en
+
+
+
+rités compétentes du
+
+
+
+maximum, peuvent
+
+
+
+l’avance car pour des
+
+sur les vols directs et
+
+
+
+s pour le transport à
+
+s’il s’agit du frère ou
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+7.2.2 Femmes enceintes
+
+Les femmes enceintes sont ac
+
+formalité. Au-delà, du septièm
+
+autorisant à voyager (spécifian
+
+l’absence de tout risque d’acco
+
+
+
+7.2.3 Passagers voyageant ave
+
+Est considéré comme bébé, tou
+
+date du commencement du voy
+
+l’un de ses parents ou d’u
+
+l’accompagnateur peut être âgé
+
+Dans le cas où vous voyag
+
+accompagnateur, répondant a
+
+bébés est âgé d’au moins 12 m
+
+(fourni par le parent) et qui s
+
+enfant.
+
+Le voyage est autorisé, mais no
+
+naissance.
+
+
+
+Si le bébé est un passager « bé
+
+retour (il a 2 ans lorsqu'il effec
+
+trajet « aller » où il est un bé
+
+s’appliquera.
+
+
+
+Pour des raisons de sécurité c
+
+bébés.
+
+
+
+7.2.4 Passagers à mobilité rédu
+
+
+
+Les passagers à mobilité réduite
+
+induisant un niveau d’assistanc
+
+
+
+\- Passager pouvant monter et
+
+mais ayant besoin d’une chaise
+
+
+
+\- Passager ne pouvant ni monte
+
+son siège à bord. Il a besoin d' u
+
+doit être porté dans les escalier
+
+
+
+\- Passager n’ayant aucune mob
+
+de/vers l’avion. Il doit être port
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+t acceptées jusqu’au septième mois de grosse
+
+tième mois elles devront être munies d’un cer
+
+cifiant le stade de la grossesse, leur état de s
+
+ccouchement prématuré dû à l’altitude).
+
+
+
+avec un bébé
+
+, tout passager n’ayant pas atteint son deuxième
+
+voyage. Chaque bébé doit être obligatoiremen
+
+d’un adulte autonome âgé d’au moins 18
+
+e âgé de moins de 18 ans lorsqu’il s’agit du père
+
+oyagez accompagnés de 2 bébés, la prése
+
+nt aux mêmes règles que le 1er, est obligatoir
+
+2 mois, dans ce cas précis celui-ci sera installé
+
+i sera placé sur le siège avion et devra s’ac
+
+
+
+is non recommandé, aux nouveau-nés dans les
+
+
+
+bébé » au départ du voyage et devient passa
+
+ffectue le voyage retour) le tarif bébé ne s'app
+
+n bébé de moins de 2 ans. Sur le trajet retou
+
+
+
+ité certains sièges sont interdits aux passagers
+
+
+
+réduite
+
+
+
+duite sont classés en fonction de la conséquence
+
+tance spécifique :
+
+
+
+et descendre les escaliers, se mouvoir de/vers s
+
+aise roulante pour ses déplacements de/vers l’av
+
+
+
+onter ni descendre les escaliers, mais pouvant se
+
+d' une chaise roulante pour ses déplacements d
+
+aliers (WCHS) ;
+
+
+
+mobilité. Il a besoin d’une chaise roulante pour s
+
+porté dans les escaliers et de/vers son siège à bo
+
+
+
+Page 20
+
+
+
+rossesse sans aucune
+
+certificat médical les
+
+de santé et attestant
+
+
+
+ième anniversaire à la
+
+ent accompagné par
+
+18ans. Cependant,
+
+ère ou de la mère.
+
+résence d’un 2ème
+
+toire sauf si l’un des
+
+allé sur un siège bébé
+
+s’acquitter d’un tarif
+
+
+
+les 7 jours suivant la
+
+
+
+assager « enfant » au
+
+'applique que pour le
+
+etour, le tarif enfant
+
+
+
+gers accompagnés de
+
+
+
+ence du handicap
+
+
+
+rs son siège à bord,
+
+s l’avions (WCHR) ;
+
+
+
+nt semouvoir de/vers
+
+nts de/vers l’avions et
+
+
+
+ur ses déplacements
+
+à bord (WCHC) ;
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+- Passager mal voyant ou non v
+
+
+
+- Passager déficient mental (DP
+
+
+
+- Passager mal ou non entenda
+
+
+
+La notification préalable de vot
+
+Nous vous demandons de bien
+
+la réservation et au plus tard 4
+
+fournir l’assistance appropriée
+
+l’Aéroport de votre besoin d’as
+
+
+
+Nous vous demandons de vous
+
+départ de votre vol afin d’organ
+
+
+
+Il est également recommandé
+
+équipements de mobilité (ex
+
+prendre avec vous.Aussi, si vous souhaitez vous f
+
+d’assistance, vous devriez alors
+
+et de destination ainsi que de l’
+
+
 
 Restrictions au transport et néc
 
-Air Algérie peut refuser le transdes exigences de sécurité. 
 
-Le  nombre  de  passager  de  typcertains de nos avions qui ne pe
 
-Dans  certains  cas  la  présencemesures  de  sécurité  applicablconseillée pour des motifs liés à 
+Air Algérie peut refuser le trans
 
-Pour  des  motifs  de  sécurité,  u  d’assistance en cas de situatiol'avion. Il est donc obligatoire 
+des exigences de sécurité.
 
-• personne  souffrant  d’ucomprendre et applique• personne  à  la  fois  acommunication avec l'é• personne  souffrant  d'uphysiquement à sa prop
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-on voyant (BLND) ; 
+Le nombre de passager de typ
 
- (DPNA) ; 
+certains de nos avions qui ne pe
 
-ndant (DEAF). 
 
- votre besoin d’assistance : ien vouloir nous notifier votre besoin d’assistanrd 48 Heures avant votre départ, pour que noriée et tenir informer le plus tôt possible l’entitd’assistance à l’aéroport. 
 
-ous présenter à l’aéroport, au moins  03 heures,rganiser au mieux votre assistance  
+Dans certains cas la présence
 
-ndé d’informer Air Algérie au moment de votr : fauteuil roulant, chiens guides d’assistance 
+mesures de sécurité applicabl
 
-us faire accompagner, durant votre voyage,  p  alors vous conformer aux exigences sanitaires dde l’identification de ce dernier (plaque, harnais 
+conseillée pour des motifs liés à
 
- nécessité de voyager avec un accompagnateur
+
+
+Pour des motifs de sécurité, u
+
+d’assistance en cas de situatio
+
+l'avion. Il est donc obligatoire
+
+
+
+• personne souffrant d’u
+
+comprendre et applique
+
+• personne à la fois a
+
+communication avec l'é
+
+• personne souffrant d'u
+
+physiquement à sa prop
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+on voyant (BLND) ;
+
+
+
+(DPNA) ;
+
+
+
+ndant (DEAF).
+
+
+
+votre besoin d’assistance :
+
+ien vouloir nous notifier votre besoin d’assistan
+
+rd 48 Heures avant votre départ, pour que no
+
+riée et tenir informer le plus tôt possible l’entit
+
+d’assistance à l’aéroport.
+
+
+
+ous présenter à l’aéroport, au moins 03 heures,
+
+rganiser au mieux votre assistance
+
+
+
+ndé d’informer Air Algérie au moment de votr
+
+: fauteuil roulant, chiens guides d’assistance
+
+
+
+us faire accompagner, durant votre voyage, p
+
+alors vous conformer aux exigences sanitaires d
+
+de l’identification de ce dernier (plaque, harnais
+
+
+
+nécessité de voyager avec un accompagnateur
+
+
 
 ransport à des personnes à mobilité réduite pou
 
-e  type  WCHC  peut  être  limité  par  rapport  à  lapermettent pas le transport de ce type de pas
 
-nce  d’un  accompagnateur  est  obligatoire  afincables,  dans  d’autres  cas  la  présence  d’un  accliés à votre propre confort. 
 
-té,  un accompagnateur  est exigé  par  Air  Algér  ation d’urgence, et tout particulièrement en caire  dans les cas suivants :  
+e type WCHC peut être limité par rapport à la
 
-t  d’un  handicap  intellectuel  sévère  ne  lui  peliquer les mesures de sécurité, is  aveugle  et  sourde,  ne  pouvant  donc  al'équipage, t  d'un  handicap  moteur  ne  lui  permettant  ppropre évacuation, cas de personnes tétraplégiq    
+permettent pas le transport de ce type de pas
 
- 
 
- 
 
-Page 21 
+nce d’un accompagnateur est obligatoire afin
 
-stance au moment de e nous puissions vous ntité gestionnaire de 
+cables, dans d’autres cas la présence d’un acc
 
-res,  avant l’heure de 
+liés à votre propre confort.
 
-votre réservation des ance) que vous devez 
 
-e,  parun chien guide es du pays de départ nais) 
 
-eur 
+té, un accompagnateur est exigé par Air Algér
 
- pour des motifs liés à 
+ation d’urgence, et tout particulièrement en ca
 
-à  la  configuration  de  passager. 
+ire dans les cas suivants :
 
-afin  de  respecter  les   accompagnateur  est 
 
-lgérie,  pour  son  rôle n cas d'évacuation de 
 
-i  permettant  pas  de 
+t d’un handicap intellectuel sévère ne lui pe
 
-c  avoir  la  moindre 
+liquer les mesures de sécurité,
 
-nt  pas  de  participer égiques,  
+is aveugle et sourde, ne pouvant donc a
 
-CONDITIONS GENERALES DE TRANSP 
+l'équipage,
 
- 
+t d'un handicap moteur ne lui permettant p
 
- 
+propre évacuation, cas de personnes tétraplégiq
 
-Attribution de siège : L’accès à certains sièges peut afin    de    respecter    lesLes restrictions d’accès concer
 
- Les sièges dotés d’accou Les sièges situés à proxi 
 
- 
+Page 21
 
- 
 
- ARTICLE 8 : BAGAGES  
 
-8.1 Franchise de bagages  Vous disposez d’une franchisepoids et/ou en dimension, et e  acquitté. Veuillez-vous référer agents agréés, ou à nous pour p 
+stance au moment de
 
-8.2 Excédent de bagages  Vous devrez payer un supplémmême  que  pour le  transportapplicables, veuillez-vous adres 
+e nous puissions vous
 
-8.3 Objets non admis comme bVous  ne  devez  pas inclure  da  restreint par les réglementatiode destination, de survol ou de 
+ntité gestionnaire de
 
-(a) Des  objets  susceptibles  debiens  à  bord,  comme  ceux  quDangereuses de l ́OrganisationInternationale des Transporteuest applicable ; il s ́agit notammradioactives ou magnétisées, suUne  liste  plus  détaillée destransportées par les passagers  
 
-(b)  Des  objets  dont  le  poids,impropres au transport, compt 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+res, avant l’heure de
 
-eut être refusé aux personnes à mobilité rédui  les    exigences    de    sécurité    aérienncernent : 
 
-ccoudoir fixe, roximité des issues de secours. 
 
-hise Bagages en cabine et en soute limitée en  et est fonction de la destination, du type d’aprer aux indications portées sur votre billet ou voour plus d’informations. 
+votre réservation des
 
-plément pour le transport des Bagages excédanort  de  bagages  spéciaux.  Pour  plus  de  détailsdresser à nos agents agréés ou à nous. 
+ance) que vous devez
 
-e bagages    dans vos Bagages  tout  objet  dont  le  transpoations applicables et le droit en vigueur dans tou de transit, dont notamment : 
 
-s  de  constituer  un  danger  pour  l ́aéronef,  les x  qui  sont  spécifiés  dans  les  Réglementationstion de l ́Aviation Civile Internationale (OACI) erteurs Aériens (IATA) et dans notre réglementatamment des explosifs, gaz sous pression, substs, substances inflammables, substances toxiquedes  conditions  de  transport  de  marchandiers est disponible sur notre site www.airalgerie.  
 
-ids,  les  dimensions,  la  configuration  ou  la  nampte tenu, notamment, du type d ́avion utilisé. 
+e, parun chien guide
 
- 
+es du pays de départ
 
- 
+nais)
 
-Page 22 
 
-éduite de type WCHC ienne    applicables. 
 
- en nombre et/ou en d’appareil et du Tarif u vous adresser à nos 
+eur
 
-édant la franchise, de s  sur  les  montants 
 
-sport  est  interdit  ou s tout Etat de départ, 
 
-les  personnes  ou  les ions  sur  les  Matières I) et de l ́Association entation, telle qu ́elle ubstances oxydantes, ques ou corrosives. andises  dangereuses rie.dz. 
+pour des motifs liés à
 
-a  nature  les  rendent isé.  
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
+à la configuration de
 
-(c) Des armes à feu et des mulesquelles,  pour  être  admiseconvenablement emballées et soumis aux Réglementations sindiqué au paragraphe (a) ci-de 
+passager.
 
-(d)Des  armes  tranchantes,  armd ́attaque ou de défense, des ade ce type. Ce type d ́objet nenéanmoins être inclus dans les  
 
-(e) Des animaux vivants, excepconditions visées à l ́article 8.9 
 
-8.4. Droit d ́inspection Pour des raisons de sécurité etêtre sollicité afin de procéder àvos Bagages. Si vous n’êtes  paen votre  absence, en vue nota8.3 ci-dessus. Si vous refusez de de vous transporter, ainsi que  
+afin de respecter les
 
-8.5. Droit de refuser le transpoa) Nous pouvons, pour des raiscontinuer à transporter vos Badessus.  Nous    n ́avons  aucunerefusés. (b) Nous pouvons refuser, poude transporter tout objet incomde sa forme, de son poids, de de  continuer  à  les  transp(c) Nous pouvons refuser de trasupplément  tarifaire  exigé.  NBagages et/ou articles refusés.(d) Nous n ́accepterons pas audes documents requis par la rég(e) Nous pouvons refuser de tvous  avant l ́Heure Limite d ́En 
+accompagnateur est
 
- 
 
- 
 
- 
+lgérie, pour son rôle
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+n cas d'évacuation de
 
-munitions autres que celles destinées à la chmises  comme  Bagages  Enregistrés,  doivent s et avoir le cran de sûreté engagé. Le transport ns sur les Matières Dangereuses de l ́OACI et ddessus. 
 
-,  armes  d ́estoc,  aérosols  pouvant  être  utilises armes de collection, des épées, des couteaut ne peut, en aucun cas, être transporté en ca les Bagages Enregistrés, sous réserve de notre a
 
-xcepté les animaux de compagnie et sous réser8.9. 
+i permettant pas de
 
-é et/ou de sûreté et/ou à la demande des autorder à une fouille ou à un contrôle (de type rayopas disponible, vos Bagages pourront être connotamment de vérifier s ́ils contiennent des objede vous conformer à de telles demandes, nouue vos Bagages. 
 
-sport des Bagages   raisons de sécurité et/ou de sûreté, refuser de Bagages s ́ils contiennent les objets énumérésune obligation de  prendre  en  dépôt  des  Baga
 
-pour des raisons notamment de sécurité, de sûcompatible avec le transport aérien en raison d de son contenu, de sa configuration ou de sa n  nsporter,  si  nous  les  découvrons  en  coe transporter les Bagages pour lesquels vous refu.  Nous    n ́avons  aucune  obligation  de  prend  sés. s au transport les animaux tels que cité à l’artica réglementation applicable. de transporter en soute les Bagages qui n ́ont d ́Enregistrement. 
+c avoir la moindre
 
- 
 
- 
 
-Page 23 
+nt pas de participer
 
-a chasse ou au sport, nt  être  déchargées, ort des munitions est  et de l ́IATA, comme 
+égiques,
 
-ilisées  comme  armes teaux et autres armes n cabine. Ils peuvent tre accord. 
+CONDITIONS GENERALES DE TRANSP
 
-éserve du respect des 
 
-utorités, vous pouvez  rayons X ou autre) de  contrôlés ou fouillés  objets visés à l ́article  nous pouvons refuser 
 
- de transporter ou de érés à l ́article 8.3, ci-agages  et/ou  articles 
+Attribution de siège :
 
-e sûreté, de salubrité, on de ses dimensions,  sa nature, ou refuser   cours  de  voyage.   refuserez de payer le rendre en  dépôt  des 
+L’accès à certains sièges peut
 
-article 8.3, dépourvus 
+afin de respecter les
 
-ont pas été remis par 
+Les restrictions d’accès concer
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
 
-8.6 Bagages enregistrés (Bagag8.6.1. Au moment où vous noprenons  la  garde,  nous  émecomprenant un reçu de bagage8.6.2.Vous devez apposer votrBagage remis à l’enregistremen 8.6.3. Dans la mesure du possdans  lequel  vous  voyagez,  à service,  nous  décidions  qu’ils livrons les Bagages à destinatiprésent(e) lors du contrôle dou8.6.4. Les Bagages Enregistrés contenu, et de manière à résist8.6.5. Il  est  fortement  déconsobjets d ́art, des métaux précd ́optique ou de photo, des ortélécommunication, des  instruclés, des papiers d ́affaires, matitre,  rappelé  qu ́en  cas  de  deserons  responsable  que  dans Conditions Générales de Transp    
+ Les sièges dotés d’accou
 
-8.7 Bagages Non Enregistrés (B8.7.1. Des  dimensions maxima   Les  Bagages  que  vous  emporrangement fermé. Si vous ne pexcessif  ou  s’ils  peuvent  se transportés comme Bagages en 
+ Les sièges situés à proxi
 
- 8.7.2.Les bagages fragiles ou pfragiles)  et  qui ne  sont  pas  coacceptés à bord à condition desoumis à notre autorisation et a 
 
-8.7.3.Vous êtes responsable deaccompagnent en cabine. En cades Bagages Non Enregistrés, lsi une  faute  de  sa  part,  de responsabilité étant alors limitde Transport.  
 
- 
+ ARTICLE 8 : BAGAGES
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-agages en soute) s nous remettez vos Bagages pour leur enregisémettrons une  étiquette  bagages à  des  finagesqui vous sera délivré pour chaque bagage eotre nom ou toute autre identification personment.  possible, nous transportons vos bagages enregi,  à  moins  que,  pour  des  raisons  de  sécurité, ’ils  soient  acheminés  sur  un  autre  vol.  Dans  cnation, sauf si les lois applicables stipulent que douanier.  rés devront être correctement conditionnés afinster à une manutention normale.  onseillé  d’inclure  dans  ses  Bagages de  l’argen récieux, de l ́argenterie, ou autres objets précie   s ordinateurs, des matériels ou appareils électrstruments  de  musique,  des passeports  et pièc, manuscrits ou titres, individualisés ou fongibles e  destruction,  perte  ou  avarie  de  Bagages  Enrans  les  limites  définies  par  la  Convention  et ansport. 
 
-(Bagages à main) ximales sont fixées pour les Bagages que vous portez  à  bord  doivent  pouvoir  être  placés  dae pouvez pas ranger vos Bagages de la sorte, s’i  se  révéler  dangereux  d’une  quelconque  mas enregistrés. 
+8.1 Franchise de bagages
 
-ou précieux (comme, par exemple, des instrums  conformes  aux  dispositions  du  paragraphe  8n de nous en avertir au préalable. Le transport et au payement d’un supplément tarifaire.  
+Vous disposez d’une franchise
 
-le des effets personnels et des Bagages Non Enn cas de destruction, vol, perte ou avarie des efés, la responsabilité du Transporteur ne pourra   de  ses  préposés  ou  de  ses  mandataires  esimitée au montant définie à l’article 15 des Con
+poids et/ou en dimension, et e
 
- 
+acquitté. Veuillez-vous référer
 
- 
+agents agréés, ou à nous pour p
 
-Page 24 
 
-egistrement, nous en   fins  d’identification ge enregistré. rsonnelle sur chaque 
 
-registrés dans l’avion rité,  d’hygiène  ou  de ns  ce  cas,  nous  vous  que vous devez être 
+8.2 Excédent de bagages
 
- afin de protéger leur 
+Vous devrez payer un supplém
 
-gent,  des  bijoux,  des récieux, des appareils lectroniques et/ou de pièces  d ́identité,  des ibles, etc.... Il est, à ce   Enregistrés,  nous  ne   et  l ́article 15  deces  
+même que pour le transport
 
-ous emportez à bord. s  dans  un  espace  de e, s’ils sont d’un poids   manière,  ils seront 
+applicables, veuillez-vous adres
 
-truments de musique he  8.7.1peuvent  être ort de tels objets est 
 
- Enregistrés qui vous s effets personnels et rra être engagée que s  est  prouvée,  cette  Conditions Générales 
 
-CONDITIONS GENERALES DE TRANSP 
+8.3 Objets non admis comme b
 
- 
+Vous ne devez pas inclure da
 
-8.8 Remise des Bagages Enregi8.8.1.  Vous  êtes  obligé  de  redisposition à votre lieu de desti8.8.2. Si une personne réclamabagages, nous ne le remettronprouver que ces bagages lui app 
+restreint par les réglementatio
 
-8.9 Animaux domestiques et ch8.9.1. Généralités  (a) Le transport des chiens, chaaccord. Pour cela, ils doivent êaccompagnés  de  documents  epermis d’entrée ou tout autre d 
+de destination, de survol ou de
 
-Nous  nous  réservons  le  droit d’animaux pouvant être embar 
 
-(b)  S’il  est  accepté  comme  Bafranchise de bagages, mais conpayer le tarif en vigueur ;   
 
-(c) Les chiens d ́assistance ou Mobilité Réduite seront transpo 
+(a) Des objets susceptibles de
 
-(d) En  cas  de  fraude,  d’absencconteneur  destiné  au  transpdispositions  de  l’article 8.9.3,blessures,  pertes,  retards,  mamanquements, à moins que laPassagers voyageant avec des devront rembourser les amendfait d’une telle situation.  
+biens à bord, comme ceux qu
 
-(e)Le passager  doit  signaler  levoyage.  
+Dangereuses de l ́Organisation
 
-8.9.2. Animaux de Compagnie v(a)Seuls  les  chats,  les  chiens Hamsters,  les  tortues, les  petpourront être acceptés en cabin  
+Internationale des Transporteu
 
- 
+est applicable ; il s ́agit notamm
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+radioactives ou magnétisées, su
 
-registrés  e  retirer  vos  Bagages  enregistrés  dès  qu’ils  sestination ou d’Escale intermédiaire.  lamant des bagages n’est pas en mesure de prtrons à cette personne qu’à condition que cett  i appartiennent.  
+Une liste plus détaillée des
 
-et chiens d’assistance  
+transportées par les passagers
 
-, chats, oiseaux et autres animaux domestiques ent être convenablement installés dans une caists  en  règle,  tels  que  les  certificats  sanitaires, tre document exigé par les pays de destination o
 
-roit  de  définir la  méthode  de  transport et  le  nbarqués sur un vol.  
 
-e  Bagage,  l’animal  et  sa  caisse  ne  seront  pas constitueront un excédent de bagages, pour le
+(b) Des objets dont le poids,
 
- ou guides ainsi que leurs caisses accompagnannsportés gratuitement, en sus de la Franchise de
+impropres au transport, compt
 
-sence  ou  d’irrégularité  des  documents  exigibleansport  de  l’Animal  de  Compagnie  n’est  pa9.3, le  Transporteur  n’assumera  aucune  respo,  maladies  ou  mort  des  animaux  transportés e la faute ou la négligence du Transporteur endes animaux en ne respectant pas la réglemenendes, pertes, réparations et toutes sortes de 
 
-r  le  transport  de  l’animal  au  moment  de  la  ré
 
-nie voyageant en cabine (PETC) ens  d’un  poids  maximal  de  06  kg  y  compris   petits  oiseaux  tels  que  perruches,  canaris etc cabine. 
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
- 
 
- 
 
-Page 25 
+eut être refusé aux personnes à mobilité rédui
 
-’ils  sont  mis  à  votre 
+les exigences de sécurité aérienn
 
-e produire le reçu de cette dernière puisse 
+cernent :
 
-es est soumis à notre caisse à claire-voie et es, de  vaccination  et on ou de transit.  
 
-le  nombre  maximum 
 
-  pas  compris  dans  la lequel vous aurez à 
+ccoudoir fixe,
 
-gnant les Passagers à e de Bagages.  
+roximité des issues de secours.
 
-gibles  ou  encore  si  le t  pas  conforme  aux sponsabilité  pour  les rtés  résultant  de  ces r en soit la cause. Les mentation applicable  de coûts engagés du 
 
-la  réservation  de  son 
 
-ris  le  contenant,  les etc...,  et  leur  caisse 
+hise Bagages en cabine et en soute limitée en
 
-CONDITIONS GENERALES DE TRANSP 
+et est fonction de la destination, du type d’ap
 
- 
+rer aux indications portées sur votre billet ou vo
 
-(b) L ́Animal  de  Compagnie  dcontenant intégralement l ́animaisément et librement. Les oistissu. 
+our plus d’informations.
 
- 
 
-(c)Vous devez vous engagezà npendant toute la durée du vol.
 
-(d) Le chien accompagnant le pdoivent voyager aux pieds de le 
+plément pour le transport des Bagages excédan
 
-8.9.3. Animaux de Compagnie L ́Animal de Compagnie doit êtde  sécurité,  c'est-à-dire  robconformément aux exigences IA    
+ort de bagages spéciaux. Pour plus de détails
 
- 
+dresser à nos agents agréés ou à nous.
 
- ARTICLE 9 : HORAIRES, RETD’EMBARQUEMENT   
 
-9.1 Horaires  9.1.1. Les  vols  et  les  Horairesvaleur  contractuelle  et  ont  uproposés  par  le  Transporteursusceptibles d’être modifiés ap 
 
-9.1.2. En revanche, les Horairesmodification  pour  des  motifs Contrat de Transport.   
+e bagages
 
-9.1.3. Il vous appartient de noucontactés en cas de changemen Billet.Si  le  changement  n’esl’impossibilité de vous réserveacceptable par vous, vous pou10.2.  
+dans vos Bagages tout objet dont le transpo
 
- 
+ations applicables et le droit en vigueur dans to
 
- 
+u de transit, dont notamment :
 
- 
 
- 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+s de constituer un danger pour l ́aéronef, les
 
-ie  doit  être  placé  dans  un  bagage  prévu  à  ́animal et dans lequel il pourra se lever, se retos oiseaux doivent être enfermés dans une cage
+x qui sont spécifiés dans les Réglementations
 
-à ne pas sortir l ́animal, même partiellement, vol. 
+tion de l ́Aviation Civile Internationale (OACI) e
 
-t le passager non voyant peut être admis en cabde leur maître et être correctement harnachés e
+rteurs Aériens (IATA) et dans notre réglementa
 
-nie voyageant en soute (AVIH) it être placé dans un contenant (cage) présentarobustesse,  étanchéité  du  plancher, fermes IATA. 
+tamment des explosifs, gaz sous pression, subst
 
-, RETARDS, ANNULATIONS DE VOL, REFUS 
+s, substances inflammables, substances toxique
 
-ires  de  vol  indiqués  dans  les  Indicateurs  Horant  uniquement  pour  vocation  d’informer  le  Pteur.  Ces  Indicateurs  Horaires  ne  sont  pas s après la date de leur publication.  
+des conditions de transport de marchandi
 
-aires des vols reproduits sur le Billet sont réputétifs  indépendants  de  notre  volonté,  faire  par
+ers est disponible sur notre site www.airalgerie.
 
- nous communiquer vos coordonnées afin que vment important d’horaires programmés tels quen’est  pas  acceptable  pour  vous,  et  si  nourver un siège dans la classe de service achetéepouvez prétendre à un remboursement comme
 
- 
 
- 
+ids, les dimensions, la configuration ou la na
 
-Page 26 
+mpte tenu, notamment, du type d ́avion utilisé.
 
-  à  cet  effet,  fermé,  retourner et respirer cage recouverte d’un 
 
-nt, de son contenant 
 
- cabine. Ces animaux és et muselés. 
+Page 22
 
-entant toute garantie fermeture,  aération, 
 
-FUS 
 
-oraires  n’ont  pas  de le  Passager  des  vols as  définitifs  et  sont 
+éduite de type WCHC
 
-utés, sous réserve de   partie  intégrante  du 
+ienne applicables.
 
-ue vous  puissiez être  que reproduits sur le nous  sommes  dans etée sur un autre vol mme prévu à l’Article 
 
-CONDITIONS GENERALES DE TRANSP 
 
- 
+en nombre et/ou en
 
-9.2 Annulation, réachemineme9.2.1.  Nous nous efforcerons sans retard le Passager et ses B 
+d’appareil et du Tarif
 
-9.2.2. Si  nous  annulons  ou  relesquelles nous ne disposons dmétéorologiques, retards dansvous proposer de choisir entre    part : 9.2.2 (a)  Nous vous transportebillet  en utilisant  l’un  de  nos prolongeant la date de validité 9.2.2  (b) Nous vous réachemindestination  indiquée  sur votrecompagnie aérienne, ou par tou9.2.2 (c) Nous vous rembourser 
+u vous adresser à nos
 
-9.2.3 Les trois options proposédroits  auxquels vous  pourriez Exécutif n°16-175, fixant les cotransport aérien public.  
 
-9.3 Refus d’embarquement  9.3.1 Si, du fait d’une surréservattribuez une place, alors que de validité et que vous vous êt  délais et conditions requis : 9.3.1(a) nous vous transporteroou si vous le choisissez dans uclasse inférieure à celle de votrtarifs, frais et surcharge applica9.3.1 (b) ou alors, nous vous acpermettre d’atteindre votre deinitial.  En  ce  cas,  les  Conditconditions de l’autre compagniVous  pouvez,  alternativementl’Article 10.2.   
 
-9.3.2 Si  l’Article  9.3.1  s’appliq  droit applicable et à notre polit 
+édant la franchise, de
 
- 
+s sur les montants
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-ement et retard  ons de prendre toutes les mesures nécessaireses Bagages. 
 
-u  retardons  un  vol en  raison  des  circonstancens d’aucun moyen d’action (par exemple, maudans le contrôle aérien ou grèves), nouspourrontre ces trois (03) mesures, sans frais supplém
+sport est interdit ou
 
-orterons ainsi que vos bagages à la destination pnos  autres  vols si  nous  disposons  de  place  et,dité de votre billet pour réaliser ce transport, oueminerons ainsi que vos bagages dans un délaotre billet  en utilisant  un  autre  itinéraire  ou ur tout autre moyen de transport. rserons conformément à l’Article 10.2  
+s tout Etat de départ,
 
-posées aux Articles 9.2.2(a), 9.2.2(b), 9.2.2(c) riez prétendre  au  titre  de  l’Article  15 et  notams conditions et modalités d’application des droits
 
- 
 
-servation programmée, nous ne sommes pas que vous possédez une Réservation confirmée, s êtes présenté à l’enregistrement et à l’embar
+les personnes ou les
 
-rterons sur un de nos autres vols dans la mêmens une autre classe de service. En cas de déclasvotre billet initial, nous vous rembourserons la dplicables à la réservation initiale.  s acheminerons avec une autre compagnie aérie destination dans un délai raisonnable au regardnditions  de  Transport  continueront à  s’appliagnie aérienne devaient s’appliquer sur la totalitent,  choisir  de  recevoir  un  remboursement 
+ions sur les Matières
 
-plique,  vous  bénéficierez  de compensations  cpolitique de compensation en matière de refus d
+I) et de l ́Association
 
- 
+entation, telle qu ́elle
 
- 
+ubstances oxydantes,
 
-Page 27 
+ques ou corrosives.
 
-ires pour transporter 
+andises dangereuses
 
-ances  extérieures  sur mauvaises conditions urrons être amenés à lémentaires de votre 
+rie.dz.
 
-ion précisée sur votre   et,  si  nécessaire,  en , ou délai raisonnable à la u un  vol d’une  autre 
 
- 
 
-n’affectent pas les notamment le Décret roits des passagers de 
+a nature les rendent
 
-as en mesure de vous ée, un Billet en cours barquement dans les 
+isé.
 
-ême classe de service classement dans une  la différence avec les 
+CONDITIONS GENERALES DE TRANSP
 
- aérienne afin de vous gard de votre horaire ppliquer,  sauf  si  les talité du vol. ent  conformément  à 
 
-ns  conformément  au us d’embarquement.  
 
-CONDITIONS GENERALES DE TRANSP 
+(c) Des armes à feu et des mu
 
- 
+lesquelles, pour être admise
 
- ARTICLE 10 : REMBOURSEM 
+convenablement emballées et
 
-Nous rembourserons soit la perbillet, à condition que nous soirèglement.   
+soumis aux Réglementations s
 
-10.1 Remboursements involon10.1.1 Les remboursements de10.1.1(b) si nous annulons le v   raisonnable,  ne  pouvons  vouréservation  confirmée  et  voud’embarquement et que le trales présentes Conditions Générnous n’atterrissons pas à votreconfirmée. Dans toutes ces circ10.1.1  (a) d’un  montant  égasurcharges) si aucune partie du  10.1.1 (b) si le billet a été partipayé et le tarif correspondant surcharges).   
+indiqué au paragraphe (a) ci-de
 
-10.2 Remboursements volonta   Si  un  remboursement  du  tarmentionnée à l’Article 10.1, led’application du tarif payé.  
 
-10.3 Droit de refuser le rembou10.3.1 Nous  refuserons tout effectuée au-delà d’un mois ap10.3.2Nous refuserons le rembpas été admis par les autoritésété de ce fait renvoyé à votre p 
 
-10.4 Monnaie de remboursem   Nos remboursements seront epour payer votre billet.   
+(d)Des armes tranchantes, arm
 
-10.5 Personnes habilitées à effLes  remboursements  sont  effémetteur du billet.   
+d ́attaque ou de défense, des a
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+de ce type. Ce type d ́objet ne
 
-RSEMENTS  
+néanmoins être inclus dans les
 
-a personne dont le nom figure sur le billet, soit cs soit remis la preuve de son identité et la preuv
 
-olontaires  s de tarifs seront calculés en application des Ar le vol, ne sommes pas en mesure d’opérer le vous  transporter  sur  un  vol  pour  lequel  vouvous  êtes  conformés  aux  heures  limites  d’e transport ne vous a pas été refusé pour des raénérales de Transport. La même méthode de calvotre destination alors même que vous détene circonstances, le remboursement sera :    égal  au  tarif  payé  (comprenant  les  taxes, e du billet n’a été utilisée ; ou artiellement utilisé, un montant égal à la différeant au transport effectué(comprenant les taxes
 
-ontaires    tarif  de  votre  billet  est dû  pour  une  raison, le remboursement total ou partiel se fera se
+(e) Des animaux vivants, excep
 
-boursement  tout remboursement,  si  la  demande  de  remaprès l’expiration de la validité du billet au tranemboursement d’un billet pour tout vol pour lerités de destination ou de transit de votre voyare point d’embarquement. 
+conditions visées à l ́article 8.9
 
-sement  nt effectués dans la même monnaie que celle 
 
-à effectuer les remboursements    effectués  seulement  par  notre  agent  agréé 
 
- 
+8.4. Droit d ́inspection
 
- 
+Pour des raisons de sécurité et
 
-Page 28 
+être sollicité afin de procéder à
 
-oit celle ayant réglé le reuve suffisante de ce 
+vos Bagages. Si vous n’êtes pa
 
-s Articles 10.1.1(a) et r le vol dans un délai vous  disposez  d’une   d’enregistrement  et es raisons visées dans  calcul s’appliquera si enez une réservation 
+en votre absence, en vue nota
 
-es,  frais,  charges  et 
+8.3 ci-dessus. Si vous refusez de
 
-ifférence entre le tarif axes, frais, charges et 
+de vous transporter, ainsi que
 
-ison  autre  que  celle a selon les conditions 
 
-  remboursement  est  transport. ur lequel vous n’avez oyage et si vous avez 
 
-elle qui a été utilisée 
+8.5. Droit de refuser le transpo
 
-réé  ou  nous-mêmes, 
+a) Nous pouvons, pour des rais
 
-CONDITIONS GENERALES DE TRANSP 
+continuer à transporter vos Ba
 
- 
+dessus. Nous n ́avons aucune
 
-10.6Remboursement sur les coLe remboursement des Billets comptes Carte de crédit initialele compte Carte de crédit du prconversion. De telles variationsà émettre une réclamation à no 
+refusés.
 
- ARTICLE 11 : COMPORTEM 
+(b) Nous pouvons refuser, pou
 
-11.1. Généralités  Si nous estimons, de manière ren danger l'appareil, une persoses  fonctions,  que  vous  ne  vol'équipage,  notamment,  sans d'alcool  ou  de  drogue,  ou  encpouvant entraîner, pour les autà  leur  commodité,  des dommmesures  envers  vous,  y  comempêcher  la  poursuite  d'un  tpoursuivi(e) pour tout acte répr 
+de transporter tout objet incom
 
-11.2. Appareils électroniques Pour  des  raisons  de  sécuritéd ́appareils  électroniquesdanstéléphones cellulaires, les ordinLes postes émetteurs transmet 
+de sa forme, de son poids, de
 
-11.3. Vols non-fumeurs  Tous les vols de la compagnie A 
+de continuer à les transp
 
-11.4. Obligation d'attacher sa cVous  êtes  tenus d'attacher conformément aux consignes lu 
+(c) Nous pouvons refuser de tra
 
-11.5.  Consommation d’alcool Vous  n’êtes  pas  autorisé  à  codétaxe auprès de nos agents ouété  servi par  nous. Nous  pouvl’alcool qui a été servi.  
+supplément tarifaire exigé. N
 
- 
+Bagages et/ou articles refusés.
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+(d) Nous n ́accepterons pas au
 
-s comptes Carte de crédit  lets réglés par carte de crédit ne peut être effitialement utilisés pour l’achat du Billet. Ce montu propriétaire de la carte peut varier en raison dions n’autorisent en aucun cas le bénéficiaire du à notre encontre. 
+des documents requis par la rég
 
-TEMENT A BORD  
+(e) Nous pouvons refuser de t
 
-re raisonnable, que par votre comportement à bersonne ou des biens, que vous empêchez l'éqe  vous  soumettez  pas  aux  recommandations  eans  toutefois  s’y  limiter,  celles  concernant  l  encore  que  vous  vous  conduisez  d'une  maniès autres Passagers ou pour l'équipage, une gêneommages  ou des  blessures,  nous pourrons  prcompris  de  contrainte,  que  nous  jugerons un  tel  comportement. Vous  pourrez  être  déb répréhensible que vous auriez commis à bord de
+vous avant l ́Heure Limite d ́En
 
-es  rité,  nous  pouvons  être  amené à limiter  l ́uans  les  phases  de  décollage  et  d’atterrissa  rdinateurs portatifs, les jeux électroniques.  metteurs ainsi que les talkies walkies sont stricte
 
-ie Air Algérie sont des vols non-fumeurs.  
 
- sa ceinture  her votre    ceinture  de  sécurité pendantlaes lumineuses. 
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
 
-ool à bord  à  consommer  de  l’alcool  à  bord  de  l’appareil  (ts ou auprès de toutes autres personnes) à moinouvons,  à  tout  moment, refuser de  servir de 
 
- 
 
- 
+munitions autres que celles destinées à la ch
 
-Page 29 
+mises comme Bagages Enregistrés, doivent
 
- effectué que sur les ontant à créditer sur on des différences de re du remboursement 
+s et avoir le cran de sûreté engagé. Le transport
 
-t à bord, vous mettez  l'équipage de remplir ns  et  instructions  de nt  l'usage  de  tabac, anière  entraînant  ou êne à leur confort ou s  prendre  toutes  les ns  nécessaires  pour   débarqué(e) et  être rd de l'avion.  
+ns sur les Matières Dangereuses de l ́OACI et d
 
-r  l ́utilisation  à  bord rissage,  tels  que  les 
+dessus.
 
-rictement interdits. 
 
-ntla  durée  du  vol, 
 
-eil  (même  acheté  en oins qu’il ne vous ait  de  l’alcool  ou retirer 
+, armes d ́estoc, aérosols pouvant être utilis
 
-CONDITIONS GENERALES DE TRANSP 
+es armes de collection, des épées, des couteau
 
- 
+t ne peut, en aucun cas, être transporté en ca
 
- ARTICLE   12 :   DISPOSITSUPPLEMENTAIRES   
+les Bagages Enregistrés, sous réserve de notre a
 
-12.1 Par des tierces parties Sous réserve du droit applicablaérien, Nous acceptons de conpar ces tiers de services supplétransport ou à des services autrde location de voiture, devant qu’en qualité de mandataire etde  fourniture  de  ces  services générales qui régissent les activ  
 
-12.2 Transport de surface Dans le cas où nous fournissonconditions spécifiques mises à d 
 
- ARTICLE 13 : FORMALITES  
+xcepté les animaux de compagnie et sous réser
 
-13.1 Généralités  13.1.1. Vous  êtes  responsablevoyage, y compris les visas et tles règlementations, les obligales États de départ, de destinat 
+8.9.
 
-13.1.2. Nous ne serons nullemsuite à votre inobservation des 
 
-13.2 Documents de voyage  Avant le voyage, vous devrez ples  documents  sanitaires  et ordonnances, les obligations ouprendre copie.  Nous nous réservons le droit dces obligations ou si vos docum 
 
-13.3 Refus d’entrée  Si votre admission sur un territ que vous aurez payé pour arriv 
+é et/ou de sûreté et/ou à la demande des autor
 
- 
+der à une fouille ou à un contrôle (de type rayo
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+pas disponible, vos Bagages pourront être con
 
-SITIONS   POUR   LES   PRESTATIONS 
+notamment de vérifier s ́ils contiennent des obje
 
-cable, si, dans le cadre de la conclusion d’un con   conclure des accords avec des tiers afin d’obt    pplémentaires, ou si nous émettons un billet ou autre que le transport aérien tels que des réserant être fournis par une tierce partie, nous n’inte et nous ne serons pas responsable envers le pces sauf  en  cas  de  faute  prouvée   de  notre  paactivités de ces tiers seront applicables. 
+de vous conformer à de telles demandes, nou
 
-sons également un transport de surface, celui-s à disposition du Passager sur simple demande.
+ue vos Bagages.
 
-TES ADMINISTRATIVES  
 
-able  de  l'obtention  de  tous  les  documents  né et tout permis particulier qui seraient exigiblesligations et les exigences en matière de voyage   ination ou de transit.  
 
-llement tenus responsables des conséquences  des obligations mentionnées ci-dessus.  
+sport des Bagages
 
-ez présenter tous les documents d'entrée, de so  et  autres  exigés  par  la  législation,  les  règls ou autres exigences des pays concernés et nou 
+raisons de sécurité et/ou de sûreté, refuser de
 
-it de vous refuser l’accès à bord si vous ne vouscuments de voyage semblent ne pas être en règl  
+Bagages s ́ils contiennent les objets énumérés
 
-erritoire vous est refusée, nous ne vous rembourrriver sur le territoire où vous n'avez pas été adm
+une obligation de prendre en dépôt des Baga
 
- 
 
- 
 
-Page 30 
+pour des raisons notamment de sécurité, de sû
 
-NS   DE   SERVICE 
+compatible avec le transport aérien en raison d
 
- contrat de transport ’obtenir  la fourniture t ou un bon relatif au éservations d’hôtel ou n’interviendrons alors  le passager du défaut   part.  Les  conditions 
+de son contenu, de sa configuration ou de sa n
 
--ci est soumis à des nde. 
+nsporter, si nous les découvrons en co
 
-s  nécessaires  à  votre bles par la législation, yage en vigueur dans 
+e transporter les Bagages pour lesquels vous refu
 
-ces que vous subiriez 
+. Nous n ́avons aucune obligation de prend
 
-e sortie et de transit, règlementations,  les t nous permettre d'en 
+sés.
 
-vous conformez pas à  règle.  
+s au transport les animaux tels que cité à l’artic
 
-bourserons pas le prix  admis.  
+a réglementation applicable.
 
-CONDITIONS GENERALES DE TRANSP 
+de transporter en soute les Bagages qui n ́ont
 
- 
+d ́Enregistrement.
 
-13.4 Responsabilité du PassageSi nous devions être tenus au ou d’autres frais en raison d’ul’Etat concerné en matière d’endes documents nécessaires en vous le demandions, de nous sommes engagées, et de nous vserions  en  droit  de  réquisitionamendes et des contraventiondu billet. Dans votre propre intdispositions d’entrée sur un ter 
 
-13.5 Contrôles douaniers Vous devrez, si nécessaire, assiautre  autorité  gouvernementDommage ou perte que vous sude la présente obligation.   
 
-13.6 Contrôle de sûreté  Vous  devrez  vous  soumettregouvernementales ou aéroport 
+Page 23
 
-13.7 Transmission des donnéesNous sommes habilités à transréservation en rapport avec voconformément aux règlementa 
 
-13.8 Restitution des documentNous ne serons pas responsabd’identité  ou  des  billets  confautorité.  
 
- ARTICLE 14 : COMPAGNIES 
+a chasse ou au sport,
 
-Le transport à effectuer par plseul billet, ou de plusieurs billela Conventionde Varsovie et deseule opération, chaque transpson nom propre  (Se référer à ltel transport).  
+nt être déchargées,
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+ort des munitions est
 
-sager pour amendes, etc.   au paiement ou à la consignation de contraven d’un manquement de votre part aux dispositio d’entrée ou de traversée du territoire, ou en ras en vertu de ces dispositions, vous êtes dans l’oous rembourser les montants payés ou consignous verser les frais de traitement. Pour couvrir ceitionner  les  billets  d’avion  non  encore  utiliséstions varie d’un pays à l’autre et peut largemen intérêt, nous vous recommandons donc de veil territoire étranger. 
+et de l ́IATA, comme
 
- assister à l'inspection de vos Bagages par la douentale.  Nous  n'assumerons  aucune  responsaus subiriez lors d’un tel contrôle ou par suite de 
 
-ttre  à  tous  les  contrôles  de  sûreté  exigés portuaires, par un Transporteur ou par nous-mê
 
-nées du Passager ransmettre vos données personnelles et celles c votre vol aux autorités locales et étrangèressuentations juridiques afin de respecter le Contrat 
+ilisées comme armes
 
-ents de voyage confisqués  sables de la restitution de vos documents de vconfisqués  par  les  autorités  gouvernementale
+teaux et autres armes
 
-NIES AERIENNES SUCCESSIVES  
+n cabine. Ils peuvent
 
-r plusieurs compagnies aériennes successives, billets, est considéré comme une opération uniqt de Montréal,lorsqu’il a été envisagé par les paansporteur étant responsable pour le transportr à l’article 15 pour les limitations de notre respo
+tre accord.
 
- 
 
- 
 
-Page 31 
+éserve du respect des
 
-aventions, d’amendes sitions en vigueur de n raison de l’absence l’obligation, si nous signés, ou les autres rir ces dépenses, nous lisés.  Le  montant  des ment dépasser le prix  veiller au respect des 
 
- douane ou par toute onsabilité  pour  tout  de votre non-respect 
 
-s  par  les  autorités mêmes. 
+utorités, vous pouvez
 
-lles concernant votre ssur leurs demandes, trat de transport. 
+rayons X ou autre) de
 
-de voyage, document ntales  ou  tout  autre 
+contrôlés ou fouillés
 
-es, sous couvert d’un unique aux termes de s parties comme une port qu’il effectue en esponsabilité pour un 
+objets visés à l ́article
 
-CONDITIONS GENERALES DE TRANSP 
+nous pouvons refuser
 
- 
 
- ARTICLE 15 : RESPONSABIL 
 
-15.1Généralités 15.1.1 Notre  responsabilité  seConditions Générales de Transce  voyage,  leur  responsabilitConditions  Générales  de  Transtransport.  Le  droit  applicableMontréal  ainsi  que  les  lois  apMontréal s’appliquent au trans 
+de transporter ou de
 
-15.1.2 Nous ne pourrons être tLorsque  nous  émettons  un  baérienne,  ou  lorsque  nous  ecompagnie  aérienne,  nous  n’aérienne.  Toutefois, concernanle premier ou le dernier Transp 
+érés à l ́article 8.3, ci-
 
-15.1.3 A chaque fois que la Coapplication  à  votre  transport, propres à la convention applica     
+agages et/ou articles
 
-15.1.4 Toute  responsabilité  nonégligence  de  votre  part  ayanconformément à la législation a15.1.5. Nous  n'assumons  al'observation  de  toute  législatinobservation de celles-ci.  
 
-15.2 Dommages corporels 15.2.1 En vertu de l’article 17 dHaye et de la Convention de Mcas de mort, de blessure ou del'accident qui a causé le dommopérations d'embarquement eresponsabilité.  15.2.2 Lorsque la Convention d 
 
-(a) Exonérations : Le transp lui et ses préposés ont ou qu'il leur était impossible de
+e sûreté, de salubrité,
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+on de ses dimensions,
 
-ABILITES POUR DOMMAGES  
+sa nature, ou refuser
 
-é  sera  déterminée  en  application  du  droit  appransport. Si d’autres compagnies aériennes sonbilité  sera  soumise  au  droit  applicable  et,  àransport  le  précisent  autrement,  à  leurs  propable  peut  comprendre  la  Convention  de  Varss  applicables  à  chaque  pays.  Les  Conventions  dransport international tel que défini dans ces con
+cours de voyage.
 
-tre tenus responsables que des Dommages surven  billet  pour  le  transport  effectué  par  une s  enregistrons  vos  bagages  pour  le  transpors  n’agissons  qu’en  tant  que  mandataire  de rnant les Bagages enregistrés, vous avez droit à    nsporteur intervenant dans votre voyage. 
+refuserez de payer le
 
-a Convention de Varsovie ou celle de Montréalort,  notre  responsabilité  sera  soumise  aux  règplicable.  
+rendre en dépôt des
 
-é  nous  incombant  pour  des  Dommages  sera  rayant  provoqué  ou  contribué  à  la  survenanceion applicable.  s  aucune  responsabilité  pour  les  Dommagislation,  réglementation,  ordonnance  ou  exige
 
- 17 de la Convention de Varsovie amendée par e Montréal, Air Algérie est responsable du domu de toute autre lésion corporelle subie par un ommage s'est produit à bord de l'aéronef ouaunt et de débarquement, sous réserve des cas d  
+
+article 8.3, dépourvus
+
+
+
+ont pas été remis par
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+8.6 Bagages enregistrés (Bagag
+
+8.6.1. Au moment où vous no
+
+prenons la garde, nous éme
+
+comprenant un reçu de bagage
+
+8.6.2.Vous devez apposer votr
+
+Bagage remis à l’enregistremen
+
+8.6.3. Dans la mesure du poss
+
+dans lequel vous voyagez, à
+
+service, nous décidions qu’ils
+
+livrons les Bagages à destinati
+
+présent(e) lors du contrôle dou
+
+8.6.4. Les Bagages Enregistrés
+
+contenu, et de manière à résist
+
+8.6.5. Il est fortement décons
+
+objets d ́art, des métaux préc
+
+d ́optique ou de photo, des or
+
+télécommunication, des instru
+
+clés, des papiers d ́affaires, ma
+
+titre, rappelé qu ́en cas de de
+
+serons responsable que dans
+
+Conditions Générales de Transp
+
+
+
+8.7 Bagages Non Enregistrés (B
+
+8.7.1. Des dimensions maxima
+
+Les Bagages que vous empor
+
+rangement fermé. Si vous ne p
+
+excessif ou s’ils peuvent se
+
+transportés comme Bagages en
+
+
+
+8.7.2.Les bagages fragiles ou p
+
+fragiles) et qui ne sont pas co
+
+acceptés à bord à condition de
+
+soumis à notre autorisation et a
+
+
+
+8.7.3.Vous êtes responsable de
+
+accompagnent en cabine. En ca
+
+des Bagages Non Enregistrés, l
+
+si une faute de sa part, de
+
+responsabilité étant alors limit
+
+de Transport.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+agages en soute)
+
+s nous remettez vos Bagages pour leur enregis
+
+émettrons une étiquette bagages à des fin
+
+agesqui vous sera délivré pour chaque bagage e
+
+otre nom ou toute autre identification person
+
+ment.
+
+possible, nous transportons vos bagages enregi
+
+, à moins que, pour des raisons de sécurité,
+
+’ils soient acheminés sur un autre vol. Dans c
+
+nation, sauf si les lois applicables stipulent que
+
+douanier.
+
+rés devront être correctement conditionnés afin
+
+ster à une manutention normale.
+
+onseillé d’inclure dans ses Bagages de l’argen
+
+récieux, de l ́argenterie, ou autres objets précie
+
+s ordinateurs, des matériels ou appareils électr
+
+struments de musique, des passeports et pièc
+
+, manuscrits ou titres, individualisés ou fongibles
+
+e destruction, perte ou avarie de Bagages Enr
+
+ans les limites définies par la Convention et
+
+ansport.
+
+
+
+(Bagages à main)
+
+ximales sont fixées pour les Bagages que vous
+
+portez à bord doivent pouvoir être placés da
+
+e pouvez pas ranger vos Bagages de la sorte, s’i
+
+se révéler dangereux d’une quelconque ma
+
+s enregistrés.
+
+
+
+ou précieux (comme, par exemple, des instrum
+
+s conformes aux dispositions du paragraphe 8
+
+n de nous en avertir au préalable. Le transport
+
+et au payement d’un supplément tarifaire.
+
+
+
+le des effets personnels et des Bagages Non En
+
+n cas de destruction, vol, perte ou avarie des ef
+
+és, la responsabilité du Transporteur ne pourra
+
+de ses préposés ou de ses mandataires es
+
+imitée au montant définie à l’article 15 des Con
+
+
+
+Page 24
+
+
+
+egistrement, nous en
+
+fins d’identification
+
+ge enregistré.
+
+rsonnelle sur chaque
+
+
+
+registrés dans l’avion
+
+rité, d’hygiène ou de
+
+ns ce cas, nous vous
+
+que vous devez être
+
+
+
+afin de protéger leur
+
+
+
+gent, des bijoux, des
+
+récieux, des appareils
+
+lectroniques et/ou de
+
+pièces d ́identité, des
+
+ibles, etc.... Il est, à ce
+
+Enregistrés, nous ne
+
+et l ́article 15 deces
+
+
+
+ous emportez à bord.
+
+s dans un espace de
+
+e, s’ils sont d’un poids
+
+manière, ils seront
+
+
+
+truments de musique
+
+he 8.7.1peuvent être
+
+ort de tels objets est
+
+
+
+Enregistrés qui vous
+
+s effets personnels et
+
+rra être engagée que
+
+s est prouvée, cette
+
+Conditions Générales
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+8.8 Remise des Bagages Enregi
+
+8.8.1. Vous êtes obligé de re
+
+disposition à votre lieu de desti
+
+8.8.2. Si une personne réclama
+
+bagages, nous ne le remettron
+
+prouver que ces bagages lui app
+
+
+
+8.9 Animaux domestiques et ch
+
+8.9.1. Généralités
+
+(a) Le transport des chiens, cha
+
+accord. Pour cela, ils doivent ê
+
+accompagnés de documents e
+
+permis d’entrée ou tout autre d
+
+
+
+Nous nous réservons le droit
+
+d’animaux pouvant être embar
+
+
+
+(b) S’il est accepté comme Ba
+
+franchise de bagages, mais con
+
+payer le tarif en vigueur ;
+
+
+
+(c) Les chiens d ́assistance ou
+
+Mobilité Réduite seront transpo
+
+
+
+(d) En cas de fraude, d’absenc
+
+conteneur destiné au transp
+
+dispositions de l’article 8.9.3,
+
+blessures, pertes, retards, ma
+
+manquements, à moins que la
+
+Passagers voyageant avec des
+
+devront rembourser les amend
+
+fait d’une telle situation.
+
+
+
+(e)Le passager doit signaler le
+
+voyage.
+
+
+
+8.9.2. Animaux de Compagnie v
+
+(a)Seuls les chats, les chiens
+
+Hamsters, les tortues, les pet
+
+pourront être acceptés en cabin
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+registrés
+
+e retirer vos Bagages enregistrés dès qu’ils s
+
+estination ou d’Escale intermédiaire.
+
+lamant des bagages n’est pas en mesure de pr
+
+trons à cette personne qu’à condition que cett
+
+i appartiennent.
+
+
+
+et chiens d’assistance
+
+
+
+, chats, oiseaux et autres animaux domestiques e
+
+nt être convenablement installés dans une cais
+
+ts en règle, tels que les certificats sanitaires,
+
+tre document exigé par les pays de destination o
+
+
+
+roit de définir la méthode de transport et le n
+
+barqués sur un vol.
+
+
+
+e Bagage, l’animal et sa caisse ne seront pas
+
+constitueront un excédent de bagages, pour le
+
+
+
+ou guides ainsi que leurs caisses accompagnan
+
+nsportés gratuitement, en sus de la Franchise de
+
+
+
+sence ou d’irrégularité des documents exigible
+
+ansport de l’Animal de Compagnie n’est pa
+
+9.3, le Transporteur n’assumera aucune respo
+
+, maladies ou mort des animaux transportés
+
+e la faute ou la négligence du Transporteur en
+
+des animaux en ne respectant pas la réglemen
+
+endes, pertes, réparations et toutes sortes de
+
+
+
+r le transport de l’animal au moment de la ré
+
+
+
+nie voyageant en cabine (PETC)
+
+ens d’un poids maximal de 06 kg y compris
+
+petits oiseaux tels que perruches, canaris etc
+
+cabine.
+
+
+
+Page 25
+
+
+
+’ils sont mis à votre
+
+
+
+e produire le reçu de
+
+cette dernière puisse
+
+
+
+es est soumis à notre
+
+caisse à claire-voie et
+
+es, de vaccination et
+
+on ou de transit.
+
+
+
+le nombre maximum
+
+
+
+pas compris dans la
+
+lequel vous aurez à
+
+
+
+gnant les Passagers à
+
+e de Bagages.
+
+
+
+gibles ou encore si le
+
+t pas conforme aux
+
+sponsabilité pour les
+
+rtés résultant de ces
+
+r en soit la cause. Les
+
+mentation applicable
+
+de coûts engagés du
+
+
+
+la réservation de son
+
+
+
+ris le contenant, les
+
+etc..., et leur caisse
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+(b) L ́Animal de Compagnie d
+
+contenant intégralement l ́anim
+
+aisément et librement. Les ois
+
+tissu.
+
+
+
+(c)Vous devez vous engagezà n
+
+pendant toute la durée du vol.
+
+
+
+(d) Le chien accompagnant le p
+
+doivent voyager aux pieds de le
+
+
+
+8.9.3. Animaux de Compagnie
+
+L ́Animal de Compagnie doit êt
+
+de sécurité, c'est-à-dire rob
+
+conformément aux exigences IA
+
+
+
+ ARTICLE 9 : HORAIRES, RET
+
+D’EMBARQUEMENT
+
+
+
+9.1 Horaires9.1.1. Les vols et les Horaires
+
+valeur contractuelle et ont u
+
+proposés par le Transporteur
+
+susceptibles d’être modifiés ap
+
+
+
+9.1.2. En revanche, les Horaires
+
+modification pour des motifs
+
+Contrat de Transport.
+
+
+
+9.1.3. Il vous appartient de nou
+
+contactés en cas de changemen
+
+Billet.Si le changement n’es
+
+l’impossibilité de vous réserve
+
+acceptable par vous, vous pou
+
+10.2.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ie doit être placé dans un bagage prévu à
+
+ ́animal et dans lequel il pourra se lever, se reto
+
+s oiseaux doivent être enfermés dans une cage
+
+
+
+à ne pas sortir l ́animal, même partiellement,
+
+vol.
+
+
+
+t le passager non voyant peut être admis en cab
+
+de leur maître et être correctement harnachés e
+
+
+
+nie voyageant en soute (AVIH)
+
+it être placé dans un contenant (cage) présenta
+
+robustesse, étanchéité du plancher, ferm
+
+es IATA.
+
+
+
+, RETARDS, ANNULATIONS DE VOL, REFUS
+
+
+
+ires de vol indiqués dans les Indicateurs Hora
+
+nt uniquement pour vocation d’informer le P
+
+teur. Ces Indicateurs Horaires ne sont pas
+
+s après la date de leur publication.
+
+
+
+aires des vols reproduits sur le Billet sont réputé
+
+tifs indépendants de notre volonté, faire par
+
+
+
+nous communiquer vos coordonnées afin que v
+
+ment important d’horaires programmés tels que
+
+n’est pas acceptable pour vous, et si nou
+
+rver un siège dans la classe de service achetée
+
+pouvez prétendre à un remboursement comme
+
+
+
+Page 26
+
+
+
+à cet effet, fermé,
+
+retourner et respirer
+
+cage recouverte d’un
+
+
+
+nt, de son contenant
+
+
+
+cabine. Ces animaux
+
+és et muselés.
+
+
+
+entant toute garantie
+
+fermeture, aération,
+
+
+
+FUS
+
+
+
+oraires n’ont pas de
+
+le Passager des vols
+
+as définitifs et sont
+
+
+
+utés, sous réserve de
+
+partie intégrante du
+
+
+
+ue vous puissiez être
+
+que reproduits sur le
+
+nous sommes dans
+
+etée sur un autre vol
+
+mme prévu à l’Article
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+9.2 Annulation, réachemineme
+
+9.2.1. Nous nous efforcerons
+
+sans retard le Passager et ses B
+
+
+
+9.2.2. Si nous annulons ou re
+
+lesquelles nous ne disposons d
+
+météorologiques, retards dans
+
+vous proposer de choisir entre
+
+part :
+
+9.2.2 (a) Nous vous transporte
+
+billet en utilisant l’un de nos
+
+prolongeant la date de validité
+
+9.2.2 (b) Nous vous réachemin
+
+destination indiquée sur votre
+
+compagnie aérienne, ou par tou
+
+9.2.2 (c) Nous vous rembourser
+
+
+
+9.2.3 Les trois options proposé
+
+droits auxquels vous pourriez
+
+Exécutif n°16-175, fixant les co
+
+transport aérien public.
+
+
+
+9.3 Refus d’embarquement
+
+9.3.1 Si, du fait d’une surréserv
+
+attribuez une place, alors que
+
+de validité et que vous vous êt
+
+délais et conditions requis :
+
+9.3.1(a) nous vous transportero
+
+ou si vous le choisissez dans u
+
+classe inférieure à celle de votr
+
+tarifs, frais et surcharge applica
+
+9.3.1 (b) ou alors, nous vous ac
+
+permettre d’atteindre votre de
+
+initial. En ce cas, les Condit
+
+conditions de l’autre compagni
+
+Vous pouvez, alternativement
+
+l’Article 10.2.
+
+
+
+9.3.2 Si l’Article 9.3.1 s’appliq
+
+droit applicable et à notre polit
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ement et retard
+
+ons de prendre toutes les mesures nécessaires
+
+es Bagages.
+
+
+
+u retardons un vol en raison des circonstance
+
+ns d’aucun moyen d’action (par exemple, mau
+
+dans le contrôle aérien ou grèves), nouspourro
+
+ntre ces trois (03) mesures, sans frais supplém
+
+
+
+orterons ainsi que vos bagages à la destination p
+
+nos autres vols si nous disposons de place et,
+
+dité de votre billet pour réaliser ce transport, ou
+
+eminerons ainsi que vos bagages dans un déla
+
+otre billet en utilisant un autre itinéraire ou u
+
+r tout autre moyen de transport.
+
+rserons conformément à l’Article 10.2
+
+
+
+posées aux Articles 9.2.2(a), 9.2.2(b), 9.2.2(c)
+
+riez prétendre au titre de l’Article 15 et notam
+
+s conditions et modalités d’application des droits
+
+
+
+servation programmée, nous ne sommes pas
+
+que vous possédez une Réservation confirmée,
+
+s êtes présenté à l’enregistrement et à l’embar
+
+
+
+rterons sur un de nos autres vols dans la même
+
+ns une autre classe de service. En cas de déclas
+
+votre billet initial, nous vous rembourserons la d
+
+plicables à la réservation initiale.
+
+s acheminerons avec une autre compagnie aéri
+
+e destination dans un délai raisonnable au regard
+
+nditions de Transport continueront à s’appli
+
+agnie aérienne devaient s’appliquer sur la totalit
+
+ent, choisir de recevoir un remboursement
+
+
+
+plique, vous bénéficierez de compensations c
+
+politique de compensation en matière de refus d
+
+
+
+Page 27
+
+
+
+ires pour transporter
+
+
+
+ances extérieures sur
+
+mauvaises conditions
+
+urrons être amenés à
+
+lémentaires de votre
+
+
+
+ion précisée sur votre
+
+et, si nécessaire, en
+
+, ou
+
+délai raisonnable à la
+
+u un vol d’une autre
+
+
+
+n’affectent pas les
+
+notamment le Décret
+
+roits des passagers de
+
+
+
+as en mesure de vous
+
+ée, un Billet en cours
+
+barquement dans les
+
+
+
+ême classe de service
+
+classement dans une
+
+la différence avec les
+
+
+
+aérienne afin de vous
+
+gard de votre horaire
+
+ppliquer, sauf si les
+
+talité du vol.
+
+ent conformément à
+
+
+
+ns conformément au
+
+us d’embarquement.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+ ARTICLE 10 : REMBOURSEM
+
+
+
+Nous rembourserons soit la per
+
+billet, à condition que nous soi
+
+règlement.
+
+
+
+10.1 Remboursements involon
+
+10.1.1 Les remboursements de
+
+10.1.1(b) si nous annulons le v
+
+raisonnable, ne pouvons vou
+
+réservation confirmée et vou
+
+d’embarquement et que le tra
+
+les présentes Conditions Génér
+
+nous n’atterrissons pas à votre
+
+confirmée. Dans toutes ces circ
+
+10.1.1 (a) d’un montant éga
+
+surcharges) si aucune partie du
+
+10.1.1 (b) si le billet a été parti
+
+payé et le tarif correspondant
+
+surcharges).
+
+
+
+10.2 Remboursements volonta
+
+Si un remboursement du tar
+
+mentionnée à l’Article 10.1, le
+
+d’application du tarif payé.
+
+
+
+10.3 Droit de refuser le rembou
+
+10.3.1 Nous refuserons tout
+
+effectuée au-delà d’un mois ap
+
+10.3.2Nous refuserons le remb
+
+pas été admis par les autorités
+
+été de ce fait renvoyé à votre p
+
+
+
+10.4 Monnaie de remboursem
+
+Nos remboursements seront e
+
+pour payer votre billet.
+
+
+
+10.5 Personnes habilitées à eff
+
+Les remboursements sont eff
+
+émetteur du billet.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+RSEMENTS
+
+
+
+a personne dont le nom figure sur le billet, soit c
+
+s soit remis la preuve de son identité et la preuv
+
+
+
+olontaires
+
+s de tarifs seront calculés en application des Ar
+
+le vol, ne sommes pas en mesure d’opérer le
+
+vous transporter sur un vol pour lequel vou
+
+vous êtes conformés aux heures limites d’e
+
+transport ne vous a pas été refusé pour des ra
+
+énérales de Transport. La même méthode de cal
+
+votre destination alors même que vous détene
+
+circonstances, le remboursement sera :
+
+égal au tarif payé (comprenant les taxes,
+
+e du billet n’a été utilisée ; ou
+
+artiellement utilisé, un montant égal à la différe
+
+ant au transport effectué(comprenant les taxes
+
+
+
+ontaires
+
+tarif de votre billet est dû pour une raison
+
+, le remboursement total ou partiel se fera se
+
+
+
+boursement
+
+tout remboursement, si la demande de rem
+
+après l’expiration de la validité du billet au tran
+
+emboursement d’un billet pour tout vol pour le
+
+rités de destination ou de transit de votre voya
+
+re point d’embarquement.
+
+
+
+sement
+
+nt effectués dans la même monnaie que celle
+
+
+
+à effectuer les remboursements
+
+effectués seulement par notre agent agréé
+
+
+
+Page 28
+
+
+
+oit celle ayant réglé le
+
+reuve suffisante de ce
+
+
+
+s Articles 10.1.1(a) et
+
+r le vol dans un délai
+
+vous disposez d’une
+
+d’enregistrement et
+
+es raisons visées dans
+
+calcul s’appliquera si
+
+enez une réservation
+
+
+
+es, frais, charges et
+
+
+
+ifférence entre le tarif
+
+axes, frais, charges et
+
+
+
+ison autre que celle
+
+a selon les conditions
+
+
+
+remboursement est
+
+transport.
+
+ur lequel vous n’avez
+
+oyage et si vous avez
+
+
+
+elle qui a été utilisée
+
+
+
+réé ou nous-mêmes,
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+10.6Remboursement sur les co
+
+Le remboursement des Billets
+
+comptes Carte de crédit initiale
+
+le compte Carte de crédit du pr
+
+conversion. De telles variations
+
+à émettre une réclamation à no
+
+
+
+ ARTICLE 11 : COMPORTEM
+
+
+
+11.1. Généralités
+
+Si nous estimons, de manière r
+
+en danger l'appareil, une perso
+
+ses fonctions, que vous ne vo
+
+l'équipage, notamment, sans
+
+d'alcool ou de drogue, ou enc
+
+pouvant entraîner, pour les aut
+
+à leur commodité, des domm
+
+mesures envers vous, y com
+
+empêcher la poursuite d'un t
+
+poursuivi(e) pour tout acte répr
+
+
+
+11.2. Appareils électroniques
+
+Pour des raisons de sécurité
+
+d ́appareils électroniquesdans
+
+téléphones cellulaires, les ordin
+
+Les postes émetteurs transmet
+
+
+
+11.3. Vols non-fumeurs
+
+Tous les vols de la compagnie A
+
+
+
+11.4. Obligation d'attacher sa c
+
+Vous êtes tenus d'attacher
+
+conformément aux consignes lu
+
+
+
+11.5. Consommation d’alcool
+
+Vous n’êtes pas autorisé à co
+
+détaxe auprès de nos agents ou
+
+été servi par nous. Nous pouv
+
+l’alcool qui a été servi.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+s comptes Carte de crédit
+
+lets réglés par carte de crédit ne peut être eff
+
+itialement utilisés pour l’achat du Billet. Ce mont
+
+u propriétaire de la carte peut varier en raison d
+
+ions n’autorisent en aucun cas le bénéficiaire du
+
+à notre encontre.
+
+
+
+TEMENT A BORD
+
+
+
+re raisonnable, que par votre comportement à b
+
+ersonne ou des biens, que vous empêchez l'éq
+
+e vous soumettez pas aux recommandations e
+
+ans toutefois s’y limiter, celles concernant l
+
+encore que vous vous conduisez d'une maniè
+
+s autres Passagers ou pour l'équipage, une gêne
+
+ommages ou des blessures, nous pourrons pr
+
+compris de contrainte, que nous jugerons
+
+un tel comportement. Vous pourrez être déb
+
+répréhensible que vous auriez commis à bord de
+
+
+
+es
+
+rité, nous pouvons être amené à limiter l ́u
+
+ans les phases de décollage et d’atterrissa
+
+rdinateurs portatifs, les jeux électroniques.
+
+metteurs ainsi que les talkies walkies sont stricte
+
+
+
+ie Air Algérie sont des vols non-fumeurs.
+
+
+
+sa ceinture
+
+her votre ceinture de sécurité pendantla
+
+es lumineuses.
+
+
+
+ool à bord
+
+à consommer de l’alcool à bord de l’appareil (
+
+ts ou auprès de toutes autres personnes) à moin
+
+ouvons, à tout moment, refuser de servir de
+
+
+
+Page 29
+
+
+
+effectué que sur les
+
+ontant à créditer sur
+
+on des différences de
+
+re du remboursement
+
+
+
+t à bord, vous mettez
+
+l'équipage de remplir
+
+ns et instructions de
+
+nt l'usage de tabac,
+
+anière entraînant ou
+
+êne à leur confort ou
+
+s prendre toutes les
+
+ns nécessaires pour
+
+débarqué(e) et être
+
+rd de l'avion.
+
+
+
+r l ́utilisation à bord
+
+rissage, tels que les
+
+
+
+rictement interdits.
+
+
+
+ntla durée du vol,
+
+
+
+eil (même acheté en
+
+oins qu’il ne vous ait
+
+de l’alcool ou retirer
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+ ARTICLE 12 : DISPOSIT
+
+SUPPLEMENTAIRES
+
+
+
+12.1 Par des tierces parties
+
+Sous réserve du droit applicabl
+
+aérien, Nous acceptons de con
+
+par ces tiers de services supplé
+
+transport ou à des services autr
+
+de location de voiture, devant
+
+qu’en qualité de mandataire et
+
+de fourniture de ces services
+
+générales qui régissent les activ
+
+
+
+12.2 Transport de surface
+
+Dans le cas où nous fournisson
+
+conditions spécifiques mises à d
+
+
+
+ ARTICLE 13 : FORMALITES
+
+
+
+13.1 Généralités13.1.1. Vous êtes responsable
+
+voyage, y compris les visas et t
+
+les règlementations, les obliga
+
+les États de départ, de destinat
+
+
+
+13.1.2. Nous ne serons nullem
+
+suite à votre inobservation des
+
+
+
+13.2 Documents de voyage
+
+Avant le voyage, vous devrez p
+
+les documents sanitaires et
+
+ordonnances, les obligations ou
+
+prendre copie.
+
+Nous nous réservons le droit d
+
+ces obligations ou si vos docum
+
+
+
+13.3 Refus d’entrée
+
+Si votre admission sur un territ
+
+que vous aurez payé pour arriv
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+SITIONS POUR LES PRESTATIONS
+
+
+
+cable, si, dans le cadre de la conclusion d’un con
+
+conclure des accords avec des tiers afin d’obt
+
+pplémentaires, ou si nous émettons un billet ou
+
+autre que le transport aérien tels que des réser
+
+ant être fournis par une tierce partie, nous n’int
+
+e et nous ne serons pas responsable envers le p
+
+ces sauf en cas de faute prouvée de notre pa
+
+activités de ces tiers seront applicables.
+
+
+
+sons également un transport de surface, celui-
+
+s à disposition du Passager sur simple demande.
+
+
+
+TES ADMINISTRATIVES
+
+
+
+able de l'obtention de tous les documents né
+
+et tout permis particulier qui seraient exigibles
+
+ligations et les exigences en matière de voyage
+
+ination ou de transit.
+
+
+
+llement tenus responsables des conséquences
+
+des obligations mentionnées ci-dessus.
+
+
+
+ez présenter tous les documents d'entrée, de so
+
+et autres exigés par la législation, les règl
+
+s ou autres exigences des pays concernés et nou
+
+
+
+it de vous refuser l’accès à bord si vous ne vous
+
+cuments de voyage semblent ne pas être en règl
+
+
+
+erritoire vous est refusée, nous ne vous rembour
+
+rriver sur le territoire où vous n'avez pas été adm
+
+
+
+Page 30
+
+
+
+NS DE SERVICE
+
+
+
+contrat de transport
+
+’obtenir la fourniture
+
+t ou un bon relatif au
+
+éservations d’hôtel ou
+
+n’interviendrons alors
+
+le passager du défaut
+
+part. Les conditions
+
+
+
+-ci est soumis à des
+
+nde.
+
+
+
+s nécessaires à votre
+
+bles par la législation,
+
+yage en vigueur dans
+
+
+
+ces que vous subiriez
+
+
+
+e sortie et de transit,
+
+règlementations, les
+
+t nous permettre d'en
+
+
+
+vous conformez pas à
+
+règle.
+
+
+
+bourserons pas le prix
+
+admis.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+13.4 Responsabilité du Passage
+
+Si nous devions être tenus au
+
+ou d’autres frais en raison d’u
+
+l’Etat concerné en matière d’en
+
+des documents nécessaires en
+
+vous le demandions, de nous
+
+sommes engagées, et de nous v
+
+serions en droit de réquisition
+
+amendes et des contravention
+
+du billet. Dans votre propre int
+
+dispositions d’entrée sur un ter
+
+
+
+13.5 Contrôles douaniers
+
+Vous devrez, si nécessaire, assi
+
+autre autorité gouvernement
+
+Dommage ou perte que vous su
+
+de la présente obligation.
+
+
+
+13.6 Contrôle de sûreté
+
+Vous devrez vous soumettre
+
+gouvernementales ou aéroport
+
+
+
+13.7 Transmission des données
+
+Nous sommes habilités à trans
+
+réservation en rapport avec vo
+
+conformément aux règlementa
+
+
+
+13.8 Restitution des document
+
+Nous ne serons pas responsab
+
+d’identité ou des billets conf
+
+autorité.
+
+
+
+ ARTICLE 14 : COMPAGNIES
+
+
+
+Le transport à effectuer par pl
+
+seul billet, ou de plusieurs bille
+
+la Conventionde Varsovie et de
+
+seule opération, chaque transp
+
+son nom propre (Se référer à l
+
+tel transport).
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+sager pour amendes, etc.
+
+au paiement ou à la consignation de contraven
+
+d’un manquement de votre part aux dispositio
+
+d’entrée ou de traversée du territoire, ou en ra
+
+s en vertu de ces dispositions, vous êtes dans l’o
+
+ous rembourser les montants payés ou consign
+
+ous verser les frais de traitement. Pour couvrir ce
+
+itionner les billets d’avion non encore utilisés
+
+tions varie d’un pays à l’autre et peut largemen
+
+intérêt, nous vous recommandons donc de veil
+
+territoire étranger.
+
+
+
+assister à l'inspection de vos Bagages par la dou
+
+entale. Nous n'assumerons aucune responsa
+
+us subiriez lors d’un tel contrôle ou par suite de
+
+
+
+ttre à tous les contrôles de sûreté exigés
+
+portuaires, par un Transporteur ou par nous-mê
+
+
+
+nées du Passager
+
+ransmettre vos données personnelles et celles
+
+c votre vol aux autorités locales et étrangèressu
+
+entations juridiques afin de respecter le Contrat
+
+
+
+ents de voyage confisqués
+
+sables de la restitution de vos documents de v
+
+confisqués par les autorités gouvernementale
+
+
+
+NIES AERIENNES SUCCESSIVES
+
+
+
+r plusieurs compagnies aériennes successives,
+
+billets, est considéré comme une opération uniq
+
+t de Montréal,lorsqu’il a été envisagé par les pa
+
+ansporteur étant responsable pour le transport
+
+r à l’article 15 pour les limitations de notre respo
+
+
+
+Page 31
+
+
+
+aventions, d’amendes
+
+sitions en vigueur de
+
+n raison de l’absence
+
+l’obligation, si nous
+
+signés, ou les autres
+
+rir ces dépenses, nous
+
+lisés. Le montant des
+
+ment dépasser le prix
+
+veiller au respect des
+
+
+
+douane ou par toute
+
+onsabilité pour tout
+
+de votre non-respect
+
+
+
+s par les autorités
+
+mêmes.
+
+
+
+lles concernant votre
+
+ssur leurs demandes,
+
+trat de transport.
+
+
+
+de voyage, document
+
+ntales ou tout autre
+
+
+
+es, sous couvert d’un
+
+unique aux termes de
+
+s parties comme une
+
+port qu’il effectue en
+
+esponsabilité pour un
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+ ARTICLE 15 : RESPONSABIL
+
+
+
+15.1Généralités
+
+15.1.1 Notre responsabilité se
+
+Conditions Générales de Trans
+
+ce voyage, leur responsabilit
+
+Conditions Générales de Trans
+
+transport. Le droit applicable
+
+Montréal ainsi que les lois ap
+
+Montréal s’appliquent au trans
+
+
+
+15.1.2 Nous ne pourrons être t
+
+Lorsque nous émettons un b
+
+aérienne, ou lorsque nous e
+
+compagnie aérienne, nous n’
+
+aérienne. Toutefois, concernan
+
+le premier ou le dernier Transp
+
+
+
+15.1.3 A chaque fois que la Co
+
+application à votre transport,
+
+propres à la convention applica
+
+
+
+15.1.4 Toute responsabilité no
+
+négligence de votre part ayan
+
+conformément à la législation a
+
+15.1.5. Nous n'assumons a
+
+l'observation de toute législat
+
+inobservation de celles-ci.
+
+
+
+15.2 Dommages corporels15.2.1 En vertu de l’article 17 d
+
+Haye et de la Convention de M
+
+cas de mort, de blessure ou de
+
+l'accident qui a causé le domm
+
+opérations d'embarquement e
+
+responsabilité.
+
+15.2.2 Lorsque la Convention d
+
+
+
+(a) Exonérations : Le transp
+
+ lui et ses préposés ont
+
+ou qu'il leur était impossible de
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+ABILITES POUR DOMMAGES
+
+
+
+é sera déterminée en application du droit app
+
+ransport. Si d’autres compagnies aériennes son
+
+bilité sera soumise au droit applicable et, à
+
+ransport le précisent autrement, à leurs prop
+
+able peut comprendre la Convention de Vars
+
+s applicables à chaque pays. Les Conventions d
+
+ransport international tel que défini dans ces con
+
+
+
+tre tenus responsables que des Dommages surve
+
+n billet pour le transport effectué par une
+
+s enregistrons vos bagages pour le transpor
+
+s n’agissons qu’en tant que mandataire de
+
+rnant les Bagages enregistrés, vous avez droit à
+
+nsporteur intervenant dans votre voyage.
+
+
+
+a Convention de Varsovie ou celle de Montréal
+
+ort, notre responsabilité sera soumise aux règ
+
+plicable.
+
+
+
+é nous incombant pour des Dommages sera r
+
+ayant provoqué ou contribué à la survenance
+
+ion applicable.
+
+s aucune responsabilité pour les Dommag
+
+islation, réglementation, ordonnance ou exige
+
+
+
+17 de la Convention de Varsovie amendée par
+
+e Montréal, Air Algérie est responsable du dom
+
+u de toute autre lésion corporelle subie par un
+
+ommage s'est produit à bord de l'aéronef ouau
+
+nt et de débarquement, sous réserve des cas d
+
+
 
 on de Varsovie amendée par le protocole de la H
 
-ansporteur n'est pas responsable s'il prouve queont pris toutes les mesures nécessaires pour éle de les prendre. 
 
- 
 
- 
+ansporteur n'est pas responsable s'il prouve que
 
-Page 32 
+ont pris toutes les mesures nécessaires pour é
 
-  applicable  et  de  ces  sont impliquées dans t,  à  moins  que  ces ropres  conditions  de Varsovie  et  celle  de ns  de  Varsovie et  de s conventions.   
+le de les prendre.
 
-urvenant sur nos vols.  ne  autre  compagnie sport  par  une  autre de  cette  compagnie it à un recours contre 
 
-réal pourront trouver   règles  et  limitations 
 
-ra  réduite  par  toute ance  des  Dommages 
+Page 32
 
-mages  résultant  de xigence  ou  de  votre 
 
-par le protocole de la dommage survenu en r un voyageur lorsque ouau cours de toutes as d’exonérations de 
 
- la Haye s’applique : 
+applicable et de ces
 
-que : ur éviter le dommage 
+sont impliquées dans
 
-CONDITIONS GENERALES DE TRANSP 
+t, à moins que ces
 
- 
+ropres conditions de
 
- le dommage a été caustribunal  pourra,  conformémenresponsabilité du transporteur. 
+Varsovie et celle de
 
-(b) Montant de réparationde décès, blessure ou autre dom 
+ns de Varsovie et de
 
-15.2.3 Lorsque la Convention d 
+s conventions.
 
-(a) Exonérations : Le Transpor que le décès, les blessuphysique ou mental du  que le Dommage a été ou omission préjudiciabdont elle tient ses droits le Dommage n’est pas ddu Transporteur Aérienmontant du Dommage e§2(a) de la Convention d le  Dommage  résulte  upréjudiciable d’un tiers DTSpar Passager confor 
 
-(b) Montants de Réparatio d’atteinte  à  l’intégrité physiqumontant du dédommagement.113 100 DTS, la compagnie aérià  l’encontre des demandes derefuser de verser des dédommqu’elle n’a pas agi par négligenc 
 
- 
+urvenant sur nos vols.
 
-15.3 Dommages aux bagages 
+ne autre compagnie
 
-15.3.1  Au terme des article 18Haye et  l’article 17 de la ConveDommage survenu en cas de dfait  qui  a  provoqué  le  Dommapériode durant laquelle le Tran 
+sport par une autre
 
- 
+de cette compagnie
 
- 
+it à un recours contre
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
 
-usé par la faute de la personne lésée ou s’il ment  aux  dispositions  de  sa  propre  loi,  écarteeur. 
 
-ion : La limite de responsabilité pour chaque pa dommage corporel sera plafonnée à 16 600 DTS 
+réal pourront trouver
 
-on de Montréal s’applique : 
+règles et limitations
 
-sporteur Aérien ne sera pas responsable s’il appossures ou toute autre lésion corporelle résulte dl du Passager antérieur à son embarquement à bété causé en tout ou en partie par la négligenceiciable de la personne qui demande réparation oroits en application de l’article 20 de la Conventipas dû à la négligence, à un autre acte ou omisrien, de ses préposés ou de ses mandataires danage excède 113.100 DTS par Passager conformémion de Montréal, te  uniquement  de  la  négligence,  d’un  autre  aiers dans la mesure où le montant du Dommagnformément à l’article 21 §2(b) de la Convention
 
-ation :Lorsque la responsabilité est engagée enysique  des  passagers,  aucun  seuil  maximal  n’eent. Dans le cas de dommages ne dépassant pa aérienne ne peut faire valoir aucune objection ls de dédommagement  dont  elle fait  l’objet.  Laommagements supérieurs à ce montant, à conigence et qu’elle n’est pas coupable. 
 
-ages 
+ra réduite par toute
 
-e 18 de la Convention de Varsovie amendée par onvention de Montréal, le Transporteur Aérien ede destruction, perte ou avarie de Bagages enremmage  s’est  produit  à  bord  de  l’aéronef  ou  aransporteur Aérien avait la garde des Bagages e
+ance des Dommages
 
- 
 
- 
 
-Page 33 
+mages résultant de
 
-s’il y a contribué, le carter  ou  atténuer  la 
+xigence ou de votre
 
-e passager dans le cas  DTS. 
 
-apporte la preuve :  lte de l’état de santé, t à bord de l’appareil ; ence ou un autre acte ion ou de la personne ention de Montréal. mission préjudiciable  dans la mesure où le rmément à l’article 21 
 
-tre  acte  ou  omission mage excède 113.100 tion de Montréal. 
+par le protocole de la
 
-e en cas de décès ou l  n’est  défini  pour  le nt pas un montant de ion liée à la culpabilité t.  La  compagnie peut condition de prouver 
+dommage survenu en
 
- par le protocole de la en est responsable du enregistrés lorsque le u  au  cours  de  toute es enregistrés. 
+r un voyageur lorsque
 
-CONDITIONS GENERALES DE TRANSP 
+ouau cours de toutes
 
- 
+as d’exonérations de
 
-15.3.2 Lorsque la Convention d 
 
-(a) Exonérations : Le Transp lui et ses préposés ont ou qu'il leur était impos la faute,la négligence ou  a  causé  le  dommage dispositions de sa propr 
 
-(b) Montant de réparation L’équivalent  en  monnadommages occasionnés L’équivalent  en  monndommages subis aux ba 
+la Haye s’applique :
 
- 
 
-15.3.3 Lorsque la Convention d 
 
-(a) Exonérations : Le Transp Le  Transporteur ne  serPassager lorsque ces DoBagages.  Le  Transporteur  n’assuprévue au sous-paragrades objets fragiles ou de Le Transporteur ne sera    de  la  négligence,  d’undemande réparation ou Nous  ne  serons  pas enregistrés à moins que 
+que :
 
-(b) Montant de Réparation Notre responsabilité mDTS par passager pour lpour les  bagages non ecas de faute prouvée de 
+ur éviter le dommage
 
-15.4 Retard 15.4.1 En vertu de l’article 19 d    Haye  et  de  la  Convention  derésultant d'un retard dans le tra 
+CONDITIONS GENERALES DE TRANSP
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+
+
+ le dommage a été caus
+
+tribunal pourra, conformémen
+
+responsabilité du transporteur.
+
+
+
+(b) Montant de réparation
+
+de décès, blessure ou autre dom
+
+
+
+15.2.3 Lorsque la Convention d
+
+
+
+(a) Exonérations : Le Transpor
+
+ que le décès, les blessu
+
+physique ou mental du
+
+ que le Dommage a été
+
+ou omission préjudiciab
+
+dont elle tient ses droits
+
+ le Dommage n’est pas d
+
+du Transporteur Aérien
+
+montant du Dommage e
+
+§2(a) de la Convention d
+
+ le Dommage résulte u
+
+préjudiciable d’un tiers
+
+DTSpar Passager confor
+
+
+
+(b) Montants de Réparatio
+
+d’atteinte à l’intégrité physiqu
+
+montant du dédommagement.
+
+113 100 DTS, la compagnie aéri
+
+à l’encontre des demandes de
+
+refuser de verser des dédomm
+
+qu’elle n’a pas agi par négligenc
+
+
+
+15.3 Dommages aux bagages
+
+
+
+15.3.1 Au terme des article 18
+
+Haye et l’article 17 de la Conve
+
+Dommage survenu en cas de d
+
+fait qui a provoqué le Domma
+
+période durant laquelle le Tran
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+usé par la faute de la personne lésée ou s’il
+
+ment aux dispositions de sa propre loi, écarte
+
+eur.
+
+
+
+ion : La limite de responsabilité pour chaque pa
+
+dommage corporel sera plafonnée à 16 600 DTS
+
+
+
+on de Montréal s’applique :
+
+
+
+sporteur Aérien ne sera pas responsable s’il appo
+
+ssures ou toute autre lésion corporelle résulte d
+
+l du Passager antérieur à son embarquement à b
+
+été causé en tout ou en partie par la négligence
+
+iciable de la personne qui demande réparation o
+
+roits en application de l’article 20 de la Conventi
+
+pas dû à la négligence, à un autre acte ou omis
+
+rien, de ses préposés ou de ses mandataires dan
+
+age excède 113.100 DTS par Passager conformém
+
+ion de Montréal,
+
+te uniquement de la négligence, d’un autre a
+
+iers dans la mesure où le montant du Dommag
+
+nformément à l’article 21 §2(b) de la Convention
+
+
+
+ation :Lorsque la responsabilité est engagée en
+
+ysique des passagers, aucun seuil maximal n’e
+
+ent. Dans le cas de dommages ne dépassant pa
+
+aérienne ne peut faire valoir aucune objection l
+
+s de dédommagement dont elle fait l’objet. La
+
+ommagements supérieurs à ce montant, à con
+
+igence et qu’elle n’est pas coupable.
+
+
+
+ages
+
+
+
+e 18 de la Convention de Varsovie amendée par
+
+onvention de Montréal, le Transporteur Aérien e
+
+de destruction, perte ou avarie de Bagages enre
+
+mmage s’est produit à bord de l’aéronef ou a
+
+ransporteur Aérien avait la garde des Bagages e
+
+
+
+Page 33
+
+
+
+s’il y a contribué, le
+
+carter ou atténuer la
+
+
+
+e passager dans le cas
+
+DTS.
+
+
+
+apporte la preuve :
+
+lte de l’état de santé,
+
+t à bord de l’appareil ;
+
+ence ou un autre acte
+
+ion ou de la personne
+
+ention de Montréal.
+
+mission préjudiciable
+
+dans la mesure où le
+
+rmément à l’article 21
+
+
+
+tre acte ou omission
+
+mage excède 113.100
+
+tion de Montréal.
+
+
+
+e en cas de décès ou
+
+l n’est défini pour le
+
+nt pas un montant de
+
+ion liée à la culpabilité
+
+t. La compagnie peut
+
+condition de prouver
+
+
+
+par le protocole de la
+
+en est responsable du
+
+enregistrés lorsque le
+
+u au cours de toute
+
+es enregistrés.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+15.3.2 Lorsque la Convention d
+
+
+
+(a) Exonérations : Le Transp
+
+ lui et ses préposés ont
+
+ou qu'il leur était impos
+
+ la faute,la négligence ou
+
+a causé le dommage
+
+dispositions de sa propr
+
+
+
+(b) Montant de réparation
+
+ L’équivalent en monna
+
+dommages occasionnés
+
+ L’équivalent en monn
+
+dommages subis aux ba
+
+
+
+15.3.3 Lorsque la Convention d
+
+
+
+(a) Exonérations : Le Transp
+
+ Le Transporteur ne ser
+
+Passager lorsque ces Do
+
+Bagages.
+
+ Le Transporteur n’assu
+
+prévue au sous-paragra
+
+des objets fragiles ou de
+
+ Le Transporteur ne sera
+
+de la négligence, d’un
+
+demande réparation ou
+
+ Nous ne serons pas
+
+enregistrés à moins que
+
+
+
+(b) Montant de Réparation
+
+ Notre responsabilité m
+
+DTS par passager pour l
+
+pour les bagages non e
+
+cas de faute prouvée de
+
+
+
+15.4 Retard15.4.1 En vertu de l’article 19 d
+
+Haye et de la Convention de
+
+résultant d'un retard dans le tra
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
 
 on de Varsovie amendée par le protocole de la H
 
-ansporteur Aérien ne sera pas responsable s’il pront pris toutes les mesures nécessaires pour épossible de les prendre ; e ou un autre acte ou omission préjudiciable de age  ou  y  a  contribué,  le  tribunal  pourra,  coropre loi, écarter ou atténuer la responsabilité d
 
-ion : nnaie  nationale  de  17 DTS par  kilogramme  snés aux bagages enregistrés, onnaie  nationale  de  332 DTS par  passagex bagages non enregistrés; 
 
-on de Montréal s’applique :  
+ansporteur Aérien ne sera pas responsable s’il pr
 
-ansporteur Aérien ne sera pas responsable s’il pr  sera  pas  responsable des  Dommages  survenus Dommages résulteront de la nature ou d’un 
+ont pris toutes les mesures nécessaires pour é
 
-’assumera  aucune  responsabilité  particulière, agraphe (b) ci-dessous, pour tout Dommage et/u de valeur, ou emballés de façon inadéquate  sera pas responsable des Dommages causés, au d’un  acte  ou  d’une  omission  préjudiciable  den ou de la personne dont elle tient ses droits. as  responsables des  dommages  survenus  a que le dommage ne soit causé par notre néglige   
+possible de les prendre ;
 
-tion : é maximum est limitée à l’équivalent en deviseour les bagages enregistrés et non enregistrés, éon enregistrés notre responsabilité ne pourra ête de notre part, de nos préposés ou mandataires 
+e ou un autre acte ou omission préjudiciable de
 
- 19 de  la Convention de Varsovie amendée par n  de  Montréal  Le  transporteur  est  responsable transport aérien de voyageurs, de bagages ou 
+age ou y a contribué, le tribunal pourra, co
 
- 
+ropre loi, écarter ou atténuer la responsabilité d
 
- 
 
-Page 34 
 
- la Haye s’applique : 
+ion :
 
-’il prouve que : ur éviter le dommage 
+nnaie nationale de 17 DTS par kilogramme s
 
-de la personne lésée ,  conformément  aux té du transporteur. 
+nés aux bagages enregistrés,
 
-e  s’applique  à  tous 
+onnaie nationale de 332 DTS par passage
 
-ager  s’applique  aux 
+x bagages non enregistrés;
 
-’il prouve que :  enus  aux Bagages  du n vice propre desdits 
 
-ère,  autre  que  celle  et/ou perte causés à  
 
-s, aux Bagages, du fait   de  la  personne  qui 
+on de Montréal s’applique :
 
-s  aux  bagages  non gligence. 
 
-evise locale de 1 131 és, étant entendu que ra être engagée qu’en aires.  
 
- par le protocole de la nsable  du  dommage  ou de marchandises. 
+ansporteur Aérien ne sera pas responsable s’il pr
 
-CONDITIONS GENERALES DE TRANSP 
+sera pas responsable des Dommages survenu
 
- 
+s Dommages résulteront de la nature ou d’un
 
- 
 
-15.4.2 Lorsque la Convention d   Aucun montant de répa 
 
-15.4.3  Lorsque la Convention d 
+’assumera aucune responsabilité particulière,
 
-(a) Exonérations :  le  transretard  s’il  prouve  que  lui, sespouvaient raisonnablement s’imde les prendre. (b) Montant de Réparation En cas de Dommage subTransporteur,  est  fonct4.694 DTS.  En  cas  de  Dommage  caresponsabilité du Transp 
+agraphe (b) ci-dessous, pour tout Dommage et/
 
- ARTICLE 16 : DELAIS DE RE 
+u de valeur, ou emballés de façon inadéquate
 
-16.1. Délais des plaintes (a) La réception des Bagageprévus  constituera  présomptioBagages ont été livrés en bon manquant  doit  impérativemendéclaration effectuée ultérieurobjet constaté manquant dans dans les plus brefs délais, ne déréception du bagage. Toute déc(b) En  cas  de  détérioratioconcerné doit adresser une proet au plus tard dans un délai re 
+sera pas responsable des Dommages causés, au
 
- Avant de quitter l’AéroDéclarer  tout  dommage ou  md’Air  Algérie,  muni  du  reçu  babagage.  
+d’un acte ou d’une omission préjudiciable de
 
- Après avoir quitté l’AérNous saisir par écrit en joignansept (07) jours de la réception retard, dans les vingt et un (21
+n ou de la personne dont elle tient ses droits.
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+as responsables des dommages survenus a
 
-on de Varsovie amendée par le protocole de la Hréparation n’est indiqué. 
+que le dommage ne soit causé par notre néglige
 
-ion de Montréal s’applique :  
 
-ransporteur  n’est  pas  responsable  du  dommases  préposés  et  mandataires  ont  pris  toutest s’imposer pour éviter le dommage, ou qu’il leu
 
-tion :   subi par des Passagers résultant d’un retard, laonction  du  dommage  prouvé  par  le  Passager, 
+tion :
 
-e  causé  par  le  retard  à  la  livraison  des  Bagagansporteur est plafonnée à 1131 DTS par Passag  
+é maximum est limitée à l’équivalent en devise
+
+our les bagages enregistrés et non enregistrés, é
+
+on enregistrés notre responsabilité ne pourra êt
+
+e de notre part, de nos préposés ou mandataires
+
+
+
+19 de la Convention de Varsovie amendée par
+
+n de Montréal Le transporteur est responsab
+
+le transport aérien de voyageurs, de bagages ou
+
+
+
+Page 34
+
+
+
+la Haye s’applique :
+
+
+
+’il prouve que :
+
+ur éviter le dommage
+
+
+
+de la personne lésée
+
+, conformément aux
+
+té du transporteur.
+
+
+
+e s’applique à tous
+
+
+
+ager s’applique aux
+
+
+
+’il prouve que :
+
+enus aux Bagages du
+
+n vice propre desdits
+
+
+
+ère, autre que celle
+
+et/ou perte causés à
+
+
+
+s, aux Bagages, du fait
+
+de la personne qui
+
+
+
+s aux bagages non
+
+gligence.
+
+
+
+evise locale de 1 131
+
+és, étant entendu que
+
+ra être engagée qu’en
+
+aires.
+
+
+
+par le protocole de la
+
+nsable du dommage
+
+ou de marchandises.
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+15.4.2 Lorsque la Convention d
+
+ Aucun montant de répa
+
+
+
+15.4.3 Lorsque la Convention d
+
+
+
+(a) Exonérations : le trans
+
+retard s’il prouve que lui, ses
+
+pouvaient raisonnablement s’im
+
+de les prendre.
+
+(b) Montant de Réparation
+
+ En cas de Dommage sub
+
+Transporteur, est fonct
+
+4.694 DTS.
+
+ En cas de Dommage ca
+
+responsabilité du Transp
+
+
+
+ ARTICLE 16 : DELAIS DE RE
+
+
+
+16.1. Délais des plaintes(a) La réception des Bagage
+
+prévus constituera présomptio
+
+Bagages ont été livrés en bon
+
+manquant doit impérativemen
+
+déclaration effectuée ultérieur
+
+objet constaté manquant dans
+
+dans les plus brefs délais, ne dé
+
+réception du bagage. Toute déc
+
+(b) En cas de détérioratio
+
+concerné doit adresser une pro
+
+et au plus tard dans un délai re
+
+
+
+ Avant de quitter l’Aéro
+
+Déclarer tout dommage ou m
+
+d’Air Algérie, muni du reçu ba
+
+bagage.
+
+
+
+ Après avoir quitté l’Aér
+
+Nous saisir par écrit en joignan
+
+sept (07) jours de la réception
+
+retard, dans les vingt et un (21
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+on de Varsovie amendée par le protocole de la H
+
+réparation n’est indiqué.
+
+
+
+ion de Montréal s’applique :
+
+
+
+ransporteur n’est pas responsable du domma
+
+ses préposés et mandataires ont pris toutes
+
+t s’imposer pour éviter le dommage, ou qu’il leu
+
+
+
+tion :
+
+subi par des Passagers résultant d’un retard, la
+
+onction du dommage prouvé par le Passager,
+
+
+
+e causé par le retard à la livraison des Bagag
+
+ansporteur est plafonnée à 1131 DTS par Passag
+
+
 
 E RECLAMATION ET D’ACTION EN RESPON
 
-gages Enregistrés sans protestation par le Passagption,  sauf  preuve  contraire  à  la  charge  du  Pon état et conformément au Contrat de Transpment  être  signalé  au  transporteur  dès  l’arrivieurement pourra ne pas être prise en compte ans les Bagages doit impérativement être signale dépassant pas les (03) trois jours ouvrable à co déclaration tardive pourra ne pas être prise en ration,  retard,  perte  ou  destruction  des Bagae protestation par écrit auprès du Transporteurrespectivement: 
 
-éroport d’arrivée : u  manque concernant  vos  bagages  auprès  desu  bagage  qui  vous  a  été  remislors  de  l'enregis
 
-’Aéroport d’arrivée : nant vos billets et vos étiquettes de bagage, au ion des bagages enregistrés en cas de détériora21) jours à compter de la date de mise à dispos
+gages Enregistrés sans protestation par le Passag
 
- 
+ption, sauf preuve contraire à la charge du P
 
- 
+on état et conformément au Contrat de Transp
 
-Page 35 
+ment être signalé au transporteur dès l’arriv
 
- la Haye s’applique : 
+ieurement pourra ne pas être prise en compte
 
-mage  causé  par  un utes  les  mesures  qui il leur était impossible 
+ans les Bagages doit impérativement être signal
 
-la responsabilité du er,  et  est  plafonné  à 
+e dépassant pas les (03) trois jours ouvrable à co
 
-agages  enregistrés,  la ssager. 
+déclaration tardive pourra ne pas être prise en
 
-PONSABILITE  
+ration, retard, perte ou destruction des Baga
 
-ssager dans les délais du  Passager,  que  les ansport. Tout Bagage rrivée  du  vol.  Toute pte. De même, tout gnalé au transporteur  à compter de date de  en considération Bagages,  le  Passager teur dès que possible 
+e protestation par écrit auprès du Transporteur
 
-  des  services  bagages egistrement  de  votre 
+respectivement:
 
-, au plus tard dans les ioration, et, en cas de sposition du passager, 
 
-CONDITIONS GENERALES DE TRANSP 
 
-lorsque  la Convention de Varso Montréal s’appliquent.  
+éroport d’arrivée :
 
-(c) En cas de retard de vol    modifiée et complétées’appliqujours suivant la date prévue de (d) Toute protestation doitun autre écrit expédié dans le d(e) A défaut de protestatioaérien est irrecevable sauf en c 
+u manque concernant vos bagages auprès des
 
-16.2. Action en responsabilité Conformément à la Convention  de déchéance, dans un délai del’aéronef devait arriver ou de l’par la loi du Tribunal saisi.  
+u bagage qui vous a été remislors de l'enregis
 
- ARTICLE 17 : MODIFICAAucun Agent, employé ou reprsupprimer  ou  renoncer  à  l’uGénérales de Transport.  
 
- 
 
-NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018 
+’Aéroport d’arrivée :
 
-arsovie amendée par le protocole de la Haye et 
+nant vos billets et vos étiquettes de bagage, au
 
- vol et lorsque le droit algérien « Loi N° 98/06 plique, les délais de réception de réclamation so de l’arrivée du vol. doit être faite par réserve inscrite sur le titre de le délai prévu pour cette protestation. tation dans les délais prévus, toute action contren cas de fraude de celui-ci. 
+ion des bagages enregistrés en cas de détériora
 
-lité pour les Passagers  tion, toute action en responsabilité doit être intai de deux ans à compter de l’arrivée à destinatide l’arrêt du transport. Le mode de calcul du dél
+21) jours à compter de la date de mise à dispos
 
-FICATIONS ET SUPPRESSIONS  représentant du Transporteur n’est habilité à c  l’une  quelconque  des  dispositions  des  prés
+
+
+Page 35
+
+
+
+la Haye s’applique :
+
+
+
+mage causé par un
+
+utes les mesures qui
+
+il leur était impossible
+
+
+
+la responsabilité du
+
+er, et est plafonné à
+
+
+
+agages enregistrés, la
+
+ssager.
+
+
+
+PONSABILITE
+
+
+
+ssager dans les délais
+
+du Passager, que les
+
+ansport. Tout Bagage
+
+rrivée du vol. Toute
+
+pte. De même, tout
+
+gnalé au transporteur
+
+à compter de date de
+
+en considération
+
+Bagages, le Passager
+
+teur dès que possible
+
+
+
+des services bagages
+
+egistrement de votre
+
+
+
+, au plus tard dans les
+
+ioration, et, en cas de
+
+sposition du passager,
+
+CONDITIONS GENERALES DE TRANSP
+
+
+
+lorsque la Convention de Varso
+
+Montréal s’appliquent.
+
+
+
+(c) En cas de retard de vol
+
+modifiée et complétées’appliqu
+
+jours suivant la date prévue de
+
+(d) Toute protestation doit
+
+un autre écrit expédié dans le d
+
+(e) A défaut de protestatio
+
+aérien est irrecevable sauf en c
+
+
+
+16.2. Action en responsabilité
+
+Conformément à la Convention
+
+de déchéance, dans un délai de
+
+l’aéronef devait arriver ou de l’
+
+par la loi du Tribunal saisi.
+
+
+
+ ARTICLE 17 : MODIFICA
+
+Aucun Agent, employé ou repr
+
+supprimer ou renoncer à l’u
+
+Générales de Transport.
+
+
+
+NSPORT/ EDITION N°02- REVISION N°01/AVRIL 2018
+
+
+
+arsovie amendée par le protocole de la Haye et
+
+
+
+vol et lorsque le droit algérien « Loi N° 98/06
+
+plique, les délais de réception de réclamation so
+
+de l’arrivée du vol.
+
+doit être faite par réserve inscrite sur le titre de
+
+le délai prévu pour cette protestation.
+
+tation dans les délais prévus, toute action contr
+
+en cas de fraude de celui-ci.
+
+
+
+lité pour les Passagers
+
+tion, toute action en responsabilité doit être int
+
+ai de deux ans à compter de l’arrivée à destinati
+
+de l’arrêt du transport. Le mode de calcul du dél
+
+
+
+FICATIONS ET SUPPRESSIONS
+
+représentant du Transporteur n’est habilité à c
+
+l’une quelconque des dispositions des prés
+
+
 
 Tou
 
- 
 
- 
 
-Page 36 
+Page 36
 
-e et  la Convention de 
 
-/06 du 27 juin 1998 » n sont de trente (30) 
 
-e de transport ou par 
+e et la Convention de
 
-ontre le transporteur 
 
-e intentée, sous peine ination, ou du jour où  délai sera déterminé 
 
- à changer, modifier, présentes  Conditions 
+/06 du 27 juin 1998 »
 
-Air Algérie 2018 Tous Droits réservés
+n sont de trente (30)
+
+
+
+e de transport ou par
+
+
+
+ontre le transporteur
+
+
+
+e intentée, sous peine
+
+ination, ou du jour où
+
+délai sera déterminé
+
+
+
+à changer, modifier,
+
+présentes Conditions
+
+
+
+Air Algérie 2018
+
+Tous Droits réservés
