@@ -141,7 +141,7 @@ Les Clients/Prospects sont informés qu’ils disposent du droit de formuler des
 8.9. Mise en œuvre des droits  
 Pour exercer leurs droits, les Clients/Prospects doivent contacter les services de la Marque auprès desquelles leurs données sont collectées et ce, de l'une des manières suivantes :  
 (i) en adressant sa demande via le formulaire de contact figurant sur le site web ou l’application mobile de la Marque,  
-(ii) en écrivant à l’adresse email suivante : dpo@groupe-beaumanoir.fr en précisant la Marque,  
+(ii) en écrivant à l’adresse email suivante : dpo@morgan.fr  
 (iii) en écrivant à l'adresse suivante : - Service Client/Prospects ; ZAC de La Moinerie, 10, impasse du Grand Jardin 35400 SAINT-MALO » en précisant la Marque.  
 Conformément à la législation sur la protection des données à caractère personnel, les Clients/Prospects sont informés qu’il s'agit d'un droit individuel qui ne peut être exercé que par la personne concernée relativement à ses propres informations. Aussi, pour des raisons de sécurité, les services concernés de la Marque se réservent donc, en cas de doute sur l’identité du demandeur à demander la carte d’identité à jour de ce dernier, afin d'éviter toute communication d'informations confidentielles concernant à une autre personne que le Client/Prospect.  
   
@@ -170,11 +170,7 @@ Le Client/Prospect est évidemment informé de toute violation de Données qui p
 
 ##### 11\. Délégué à la protection des données
 
-Le Groupe a désigné un délégué à la protection des données (« DPO ») dont les coordonnées sont les suivantes :
-
-\- Nom : Brice Lougnon
-
-\- Adresse e-mail : dpo@groupe-beaumanoir.fr
+La Société a désigné un délégué à la protection des données (« DPO ») dont l’adresse email est la suivante : dpo@morgan.fr
 
 ##### 12\. Cookies et autres traceurs
 
