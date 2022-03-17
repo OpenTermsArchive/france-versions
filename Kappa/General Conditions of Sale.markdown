@@ -1,6 +1,15 @@
 Conditions générales de vente
 =============================
 
+\-----------------------------------------------
+
+Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.  
+  
+Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappastore.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
+  
+Kappa a procédé au signalement de cette activité d'usurpation d'identité frauduleuse auprès des autorités.  
+\-----------------------------------------------
+
 Les présentes conditions générales de vente définissent les droits et obligations des parties dans le cadre des ventes effectuées via le site www.kappastore.fr. Elles règlent toutes les étapes nécessaires à la passation, à l’exécution et au suivi de la commande.  
   
 Kappa France se réserve la possibilité d’adapter ou de modifier à tout moment les présentes conditions générales de vente. En cas de modification, seront les conditions générales de vente en vigueur au jour de la passation de la commande.  
