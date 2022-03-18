@@ -3,15 +3,15 @@
 
 **VEUILLEZ LIRE ATTENTIVEMENT LES CONDITIONS DE VENTE SUIVANTES AVANT DE PASSER UNE COMANDE SUR CE SITE**
 
-**1\. Quel est ce document ? En quoi est-il important ?**
-
+**1\. Quel est ce document ? En quoi est-il important ?**  
+  
 Les présentes conditions générales de vente (« **Conditions de vente** ») réglementent l'achat des produits dont nous assurons la promotion et la vente sur ce Site (« **Produits** ») ainsi que l'expédition desdits produits dans les pays que nous desservons. **« Site »** désigne le site Web situé à l'adresse [https://www.vans.eu](https://www.vans.fr/homepage.html). Lorsque vous effectuez un achat sur ce Site, nous vous demandons de confirmer l'acceptation des présentes Conditions de vente et, si vous répondez par l'affirmative, un contrat soumis à ces Conditions de vente est conclu entre vous et nous. Il est donc important que vous lisiez attentivement ces Conditions de vente avant de passer une commande pour l'achat de Produits sur ce Site (« **Commande** »).
 
-Pour de plus amples informations, veuillez consulter notre page [FAQ](https://www.vans.fr/aide/faq.html) ou contacter notre service client en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html).
+Pour de plus amples informations, veuillez consulter notre page [FAQ](https://www.vans.fr/aide/faq.html) ou contacter notre support client en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html).
 
 **2\. Qui sommes-nous ?**
 
-Dans les présentes Conditions de vente, « **VF »**, « **nous** » et « VANS » désignent le négociant des produits, à savoir le groupe VF chargé de la vente auprès des clients dans le pays de livraison des produits que vous avez sélectionné. Pour identifier la société VF chargée de la vente dans votre cas, consultez la liste complète [ici](https://www.vans.fr/aide/legalentities.html). Si vous avez déjà effectué vos achats, vous pouvez également vérifier la société indiquée sur votre reçu. Vous pouvez nous contacter en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html), gérée par notre service client. Notre service client est exploité tantôt par notre filiale VF Northern Europe Services ltd, Park Road East, Calverton, NG14 6GD Nottingham, VAT GB 943074330, Royaume-Uni, tantôt par notre prestataire de services tiers Concentrix Services Bulgaria EOOD, dont le siège social est situé au 29 Atanas Dukov Str Rainbow Center, Sofia, Bulgarie. « **Vous** » désigne le client.
+Dans les présentes Conditions de vente, « **VF »**, « **nous** » et « VANS » désignent le négociant des produits, à savoir le groupe VF chargé de la vente auprès des clients dans le pays de livraison des produits que vous avez sélectionné. Pour identifier la société VF chargée de la vente dans votre cas, consultez la liste complète [ici](https://www.vans.fr/aide/legalentities.html). Si vous avez déjà effectué vos achats, vous pouvez également vérifier la société indiquée sur votre reçu. Vous pouvez nous contacter en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html), gérée par notre support client. Notre support client est exploité tantôt par notre filiale VF Northern Europe Services ltd, Park Road East, Calverton, NG14 6GD Nottingham, VAT GB 943074330, Royaume-Uni, tantôt par notre prestataire de services tiers Concentrix Services Bulgaria EOOD, dont le siège social est situé au 29 Atanas Dukov Str Rainbow Center, Sofia, Bulgarie. « **Vous** » désigne le client.
 
 **3\. Les descriptions des Produits et les prix sont-ils exempts d'erreurs ?**
 
@@ -87,9 +87,9 @@ Dans les deux cas, vous recevrez un remboursement. Vous trouverez de plus amples
 
 **8\. À qui puis-je m'adresser si j'ai des problèmes avec un achat ou un Produit ou que je souhaite faire une réclamation ? VANS offre-t-il un service après-vente ?**
 
-Si vous avez des problèmes ou que vous souhaitez faire une réclamation concernant un Produit ou un achat effectué sur ce Site, ou que vous avez tout simplement besoin d'un service après-vente, vous pouvez nous contacter en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html), gérée par notre service client.
+Si vous avez des problèmes ou que vous souhaitez faire une réclamation concernant un Produit ou un achat effectué sur ce Site, ou que vous avez tout simplement besoin d'un service après-vente, vous pouvez nous contacter en suivant les indications de notre [page Nous contacter](https://www.vans.fr/aide/contactez-nous.html), gérée par notre support client.
 
-Notre service client est exploité tantôt par notre société affiliée VF Northern Europe Services ltd, Park Road East, Calverton, NG14 6GD Nottingham, Royaume-Uni, tantôt par notre prestataire de services tiers Concentrix Services Bulgaria EOOD, dont le siège social est situé au 29 Atanas Dukov Str Rainbow Center, Sofia, Bulgarie.
+Notre support client est exploité tantôt par notre société affiliée VF Northern Europe Services ltd, Park Road East, Calverton, NG14 6GD Nottingham, Royaume-Uni, tantôt par notre prestataire de services tiers Concentrix Services Bulgaria EOOD, dont le siège social est situé au 29 Atanas Dukov Str Rainbow Center, Sofia, Bulgarie.
 
 **9\. Quelle est la responsabilité de VANS en cas de problèmes survenant avec un achat ou un Produit ?**
 
