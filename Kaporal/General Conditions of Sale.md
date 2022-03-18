@@ -299,7 +299,7 @@ Le remboursement du Client ou l’émission de l’avoir sera effectué dans un 
 
 Dans l’hypothèse d’un remboursement, le compte bancaire ou le compte de monnaie électronique utilisé lors du paiement initial sera alors crédité :
 
-*   Du montant des produits retournéset
+*   Du montant des produits retournés
 *   Du montant des frais de livraison initiaux si le retour est total ou si les produits livrés ne sont pas conformes à la commande.
 
 Il sera procédé au remboursement en utilisant le même moyen de paiement que celui utilisé pour la transaction initiale. En tout état de cause, le remboursement n’occasionnera pas de frais pour le Client.
