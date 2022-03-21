@@ -677,6 +677,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 *   Les données relatives à l'approbation ou le refus de prospection commerciale et les préférences d'abonnement
 *   Les données justificatives permettant la résiliation du programme ou du compte Printania par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
 *   Les données permettant l'opposition au programme Printania en cas de perte ou vol de la carte (document d'identité)
+*   Le numéro de passeport (pour l'adhésion au programme de fidélité et pour l'inscription à l'offre Welcome réservée à notre clientèle internationale)
 
   
 
@@ -1301,7 +1302,7 @@ Vous pouvez vous désabonner de la Newsletter à tout moment et sans aucun coût
 
   
 
-Réseaux sociaux Printemps (Printemps France, Printemps Listes et Printemps Voyages) et Printemps.com sont présents sur de nombreux réseaux sociaux comme Facebook, Twitter, Pinterest et Instagram et WeChat (pour notre clientèle internationale).
+Printemps est présent sur de nombreux réseaux sociaux comme Facebook, Twitter, Pinterest et Instagram et WeChat (pour notre clientèle internationale).
 
   
 
