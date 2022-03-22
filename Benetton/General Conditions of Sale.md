@@ -78,8 +78,6 @@ Les paiements peuvent être effectués aussi par l’utilisation de Bons promoti
   
 En revanche les Cartes Cadeaux (même celles achetées en ligne, fournies par de tierces personnes ou achetées en boutique physiques) sont utilisables seulement et exclusivement dans les boutiques physiques.  
   
-Pour chaque commande passée sur le Site, lors du paiement, le Vendeur émettra un reçu fiscal pour les marchandises expédiées. Ce document est disponible et imprimable, suite à l’envoi de la commande, dans la section « Commandes ».  
-  
 Les commandes d’articles personnalisés peuvent être payées seulement par Paypal et Carte de crédit.  
   
   
@@ -136,15 +134,13 @@ Les articles personnalisés ne peuvent être retournés ou remplacés, exception
 Conformément aux dispositions de la Directive européenne 44/99/CE et du Décret législatif italien n. 206/2005 du Code de la consommation, le Vendeur garantie au Client que les Produits sont exempts de défaut de conception ou de matériau et qu’ils sont conformes aux descriptions publiées sur le Site pour une période de 2 (deux) ans à partir de la date de remise des Produits au Client. Sauf preuve contraire, il est présumé que les défauts de conformité qui se manifesteraient 6 mois après l’achat du bien préexisteraient déjà à cette date.  
   
   
-Lors de la réception des marchandises, le Client a la charge d’examiner les Produits aussitôt et, sous peine de déchéance de garantie, de dénoncer d’éventuels défauts de conformité au plus tard 2 (deux) mois après leur découverte, en transmettant au Service Client du Vendeur, par e-mail, le formulaire dédié correctement rempli, avec indication précise du défaut et/ou de la non-conformité constatée, ainsi que la documentation relative indiquée dans le module de retour même (au moins une photographie du Produit, la confirmation de commande transmise par le Vendeur et le reçu fiscal).  
+Lors de la réception des marchandises, le Client a la charge d’examiner les Produits aussitôt et, sous peine de déchéance de garantie, de dénoncer d’éventuels défauts de conformité au plus tard 2 (deux) mois après leur découverte, en transmettant au Service Client du Vendeur, par e-mail, le formulaire dédié correctement rempli, avec indication précise du défaut et/ou de la non-conformité constatée, ainsi que la documentation relative indiquée dans le module de retour même (au moins une photographie du Produit, la confirmation de commande transmise par le Vendeur).  
   
 Suite à la réception de ce formulaire et de la documentation relative, le Vendeur évaluera les défauts et la non-conformité dénoncés par le Client et, après avoir effectué les contrôles qualitatifs aptes à vérifier l’effective non-conformité du Produit, décidera, à discrétion, s’il autorise la restitution des Produits en fournissant au Client une réponse par courrier électronique à l’adresse indiquée par ce dernier au cours du processus d’enregistrement sur le Site. L’autorisation de restituer les Produits ne constitue aucunement la reconnaissance de défauts ou de non-conformité, dont l’existence devra être successivement vérifiée lors de la restitution. Si, suite à ladite vérification, les Produits résultaient non couverts par la garantie, ces derniers seront remis à disposition du Client. Si un défaut de conformité se vérifiait, le Vendeur traitera l’article et accordera au Client le remboursement du prix notamment par des bons de réduction valables uniquement sur le Site.  
   
 Les Produits pour lesquels le Vendeur a autorisé la restitution devront être rendus par le Client, avec une copie jointe de la communication d’autorisation de la restitution sous 30 (trente) jours à partir de la déclaration de défaut ou de non-conformité, à l’adresse indiquée par le Vendeur.  
   
-L’application d’une quelconque garantie est exclue en cas d’utilisation ou de lavage du Produit non conforme à celui prévu pour ce Produit et aux instructions/avertissements relatifs fournis ou indiqués dans la documentation d’illustration de référence, sur les labels ou les étiquettes.  
-  
-Pour bénéficier de l’assistance en garantie, le Client doit conserver et présenter le reçu fiscal d’achat.
+L’application d’une quelconque garantie est exclue en cas d’utilisation ou de lavage du Produit non conforme à celui prévu pour ce Produit et aux instructions/avertissements relatifs fournis ou indiqués dans la documentation d’illustration de référence, sur les labels ou les étiquettes.
 
 ### ARTICLE 8 – MODALITES DE LIVRAISON
 
