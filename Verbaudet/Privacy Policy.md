@@ -84,7 +84,7 @@ Sauf opposition de votre part lors du recueil de vos données, les informations 
 ### 2.4. Hébergement de vos données personnelles
 
 VERTBAUDET est présent à travers différents pays mais vos données personnelles ne sont stockées que sur des serveurs sécurisés situés en France. Néanmoins, afin d'opérer certaines prestations, il se peut que VERTBAUDET soit amené à faire transiter vos données à travers des serveurs qui peuvent être situés dans le monde entier ou donne accès aux données personnelles à des prestataires situés à l’étranger.  
-VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir la sécurité des informations personnelles pendant le transfert et à la réception de ces informations. Les sous-traitants et prestataires seront liés par contrat avec VERTBAUDET, qui intègrera les clauses contractuelles types (telles que publiées par la Commission Européenne). VERTBAUDET exige par ailleurs de ses sous-traitants et prestataires qu’ils garantissent un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.
+VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir la sécurité des informations personnelles pendant le transfert et à la réception de ces informations. Les sous-traitants et prestataires seront liés par contrat avec VERTBAUDET, qui intègrera les clauses contractuelles types (telles que publiées par la Commission Européenne). Pour les Etats-Unis, le sous-traitant devra figurer sur la liste Privacy Shield. VERTBAUDET exige par ailleurs de ses sous-traitants et prestataires qu’ils garantissent un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.
 
 ### 2.5. Durée de conservation des données personnelles
 
@@ -113,7 +113,7 @@ Pour les données collectées sur le Site Internet, nous utilisons le protocole 
 Afin d´assurer la sécurité des paiements, VERTBAUDET utilise les services des prestataires certifiés PCI-DSS.  
 Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.  
 Lorsque vous réglez une commande par carte bancaire, notre système de prise de commande se connecte en temps réel avec le système de nos prestataires de paiement, qui collectent vos données et procède aux diverses vérifications pour éviter les abus et les fraudes. Les données sont stockées sur les serveurs de ces prestataires de paiement et ne sont à aucun moment transmises sur les serveurs de VERTBAUDET.  
-Ainsi, lorsque vous indiquez votre numéro de carte bancaire, les recherches d'autorisation sont automatiquement transmises en mode crypté. Les autorisations et données sont alors vérifiées auprès de votre banque afin d'éviter les abus et les fraudes.
+Ainsi, lorsque vous indiquez votre numéro de carte (carte bancaire ou cartes émises par SOFINCO), les recherches d'autorisation sont automatiquement transmises en mode crypté. Les autorisations et données sont alors vérifiées auprès de votre banque afin d'éviter les abus et les fraudes.
 
 Lors de votre paiement, vous avez la possibilité de sauvegarder les coordonnées de votre carte de paiement afin de faciliter vos futurs achats sur le Site Internet. Ces informations sont ainsi enregistrées et sécurisées auprès de nos partenaires soumis à la norme de sécurité dite « PCI-DSS » (Payment Card Industry Data Security Standard). Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu.
 
@@ -124,9 +124,9 @@ Afin de pouvoir débiter le compte lors de la facturation ou de la créditer sui
 
 ### 4.1. Lutte contre la fraude
 
-VERTBAUDET vous adressera ses offres commerciales par email, sms, mms si vous l'avez accepté et par voie postale ou téléphonique, si vous ne vous y êtes pas opposé lors du recueil de vos données, mais également par des bannières sur des sites partenaires (via l’installation de cookies, sous réserve de votre consentement selon les modalités expliquées ci-après), etc.
+VERTBAUDET vous adressera ses offres commerciales par email, sms, mms si vous l'avez accepté et par voie postale ou téléphonique, si vous ne vous y êtes pas opposé lors du recueil de vos données, mais également par des bannières sur des sites partenaires (via l’installation de cookies, selon les modalités expliquées ci-après), etc.
 
-Par ailleurs, si vous passez une commande et n'avez pas au préalable exprimé votre souhait de ne pas recevoir de la prospection commerciale, nous pourrons utiliser votre email afin de vous adresser des offres commerciales pour des produits similaires à ceux commandés.  
+Par ailleurs, si vous passez une commande et n'avez pas au préalable exprimé votre souhait de ne pas recevoir de la prospection commerciale, nous pourrons néanmoins utiliser votre email afin de vous adresser des offres commerciales pour des produits similaires à ceux commandés.  
 En cas d'envoi d'email de prospection VERTBAUDET, l'expéditeur VERTBAUDET sera clairement identifié et la nature de la proposition commerciale sera indiquée dans l'objet du message. En fin de chaque message, vous aurez la possibilité de vous désabonner de nos emails de prospection par simple clic.
 
 Enfin, en nous communiquant votre numéro de téléphone, vous acceptez d'être contacté pour toute nécessité relative à votre commande mais également pour des propositions commerciales par téléphone. Vous pouvez vous opposer au démarchage téléphonique des sociétés dont vous n’êtes pas client en vous inscrivant sur www.bloctel.gouv.fr.  
@@ -134,7 +134,7 @@ Dans le cadre du suivi de la qualité et de la formation de notre service client
 
 ### 4.2. Bannières sur des sites partenaires
 
-Grâce à l’installation de cookies publicitaires, et sous réserve que vous y ayez consenti, nous pouvons partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts.
+Grâce à l’installation de cookies publicitaires, nous pouvons partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts.
 
 5\. Les réseaux sociaux
 -----------------------
@@ -149,19 +149,19 @@ Nous vous invitons à consulter les politiques de protection de la vie privée d
 Le terme cookie englobe plusieurs technologies permettant d’opérer un suivi de navigation ou une analyse comportementale de l’internaute. Un fichier Cookie permet à son émetteur d'identifier le terminal dans lequel il est enregistré, pendant la durée de validité ou d'enregistrement du Cookie.  
 Ces technologies sont multiples et en constante évolution. Il existe notamment, les cookies, tag, pixel, code Javascript etc.
 
-Lors de la consultation de notre site, et sous réserve que vous y ayez consenti des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers "Cookies" installés sur votre terminal (ordinateur, tablette, smartphone, etc.), afin de nous permettre de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts.  
+Lors de la consultation de notre site, des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers "Cookies" installés sur votre terminal (ordinateur, tablette, smartphone, etc.), afin de nous permettre de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts.  
 Lors de votre première navigation sur le site, nous demandons votre autorisation pour l’installation de cookies. Vous pouvez revenir sur votre décision selon la procédure décrite ci-après.  
-Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de notre site web.
+Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors du site web.
 
 ### 6.1. Les cookies Vertbaudet
 
-Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, sous réserve de vos choix, à installer divers cookies dans votre terminal
+Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, sous réserve de vos choix qui résultent des paramètres de votre logiciel de navigation, à installer divers cookies dans votre terminal
 
 *   Cookies analytiques dont l'objectif d’établir des statistiques de fréquentation (nombre de visites, de pages vues, d’abandon dans le processus de commande,etc.) afin de suivre et d’améliorer la qualité de nos services.
     
 *   Cookies strictement nécessaires dont l'objectif est notamment d'adapter la présentation de notre site aux préférences d'affichage de votre terminal, de conserver votre panier, etc.
     
-*   Cookies fonctionnel dont l'objectif est :
+*   Cookies fonctionnelles dont l'objectif est :
     
     *   De mémoriser des informations saisies dans des formulaires, gérer et sécuriser l’accès à des espaces réservés et personnels tels que votre compte, gérer votre panier de commande.
         
@@ -170,7 +170,7 @@ Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, 
 
 ### 6.2. Les cookies tiers
 
-Lorsque vous accédez à notre site, et sous réserve que vous y ayez consenti, un ou plusieurs cookies sont susceptibles d’être placés dans votre ordinateur via les pages de notre site ou via des contenus diffusés dans nos espaces publicitaires soit par l'annonceur à l'origine du contenu publicitaire concerné, soit par une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
+Lorsque vous accédez à notre site, un ou plusieurs cookies sont susceptibles d’être placés dans votre ordinateur via les pages de notre site ou via des contenus diffusés dans nos espaces publicitaires soit par l'annonceur à l'origine du contenu publicitaire concerné, soit par une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
 
 *   De comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques (cookies analytiques);
     
@@ -179,7 +179,7 @@ Lorsque vous accédez à notre site, et sous réserve que vous y ayez consenti, 
 
 Il s'agit des cookies utilisés pour vous présenter des publicités ou vous adresser des informations adaptées à vos centres d'intérêts sur notre site ou en dehors de notre site lors de votre navigation sur internet.
 
-L'émission et l'utilisation de cookies par des tiers, sont soumises aux politiques de protection de la vie privée de ces tiers. Nous avons ni accès et ni contrôle sur les cookies tiers. Toutefois nous veillons à ce que les sociétés partenaires traitent les informations collectées sur notre site conformément aux dispositions légales et réglementaires, notamment le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données).
+L'émission et l'utilisation de cookies par des tiers, sont soumises aux politiques de protection de la vie privée de ces tiers. Nous avons ni accès et ni contrôle sur les cookies tiers. Toutefois nous veillons à ce que les sociétés partenaires traitent les informations collectées sur notre site dans le respect de la loi «Informatique et Libertés ».
 
 ### 6.3 La durée de conservation des cookies
 
@@ -237,6 +237,10 @@ Vous pouvez exprimer et modifier à tout moment vos souhaits en matière de cook
     3.  La section située en haut de la page qui apparaît alors vous en dit plus à propos des cookies et vous permet d'installer les cookies que vous voulez. Elle vous permet également de supprimer les cookies actuellement stockés.
         
 
+**Les cookies "Flash"© de "Adobe Flash Player"**
+
+"Adobe Flash Player"© est une application informatique qui permet le développement rapide des contenus dynamiques utilisant le langage informatique "Flash". Flash (et les applications de même type) mémorise les paramètres, les préférences et l'utilisation de ces contenus grâce à une technologie similaire aux cookies. Toutefois, "Adobe Flash Player"© gère ces informations et vos choix via une interface différente de celle fournie par votre logiciel de navigation. Dans la mesure où votre terminal serait susceptible de visualiser des contenus développés avec le langage Flash, nous vous invitons à accéder à vos outils de gestion des cookies Flash, directement depuis le site Web d'Adobe : [http://www.adobe.com/fr/](http://www.adobe.com/fr/) . (Onglet Cookies)
+
 **Vos choix exprimés en ligne auprès de plateformes interprofessionnelles**
 
 Vous pouvez vous connecter au site Youronlinechoices, proposé par les professionnels de la publicité digitale regroupés au sein de l’association européenne EDAA (European Digital Advertising Alliance) et géré en France par l’Interactive Advertising Bureau France.
@@ -247,7 +251,7 @@ Notez que cette procédure n'empêchera pas l'affichage de publicités sur les s
 
 **Les cookies tiers de notre site**
 
-Lorsque vous accédez à notre Site, et sous réserve de votre consentement, les partenaires suivant peuvent déposer des Cookies sur votre navigateur et collecter d’autres informations techniques sur votre navigation afin de vous servir des publicités adaptées à vos centres d’intérêts sur tout support interactif (web, application mobile, email). Pour en savoir plus ou vous y opposer vous pouvez consulter leur [charte de respect de la vie privée](http://www.criteo.com/fr/privacy/) respective.
+Lorsque vous accédez à notre Site, les partenaires suivant peuvent déposer des Cookies sur votre navigateur et collecter d’autres informations techniques sur votre navigation afin de vous servir des publicités adaptées à vos centres d’intérêts sur tout support interactif (web, application mobile, email). Pour en savoir plus ou vous y opposer vous pouvez consulter leur [charte de respect de la vie privée](http://www.criteo.com/fr/privacy/) respective.
 
 Le refus de ces cookies publicitaires n'a pas d'impact sur l'utilisation de notre site. Cependant le fait de refuser les cookies publicitaires n'entraînera pas l'arrêt de la publicité sur notre site ou sur Internet.
 
@@ -278,16 +282,6 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 *   Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
 *   Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
 *   Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
-
-ContentSquare est une solution qui agrège des données de fréquentation et d’usage dans le but d’améliorer l’expérience utilisateur. Les statistiques produites sont anonymes. Pour être exclu du suivi, [veuillez cliquer ici](javascript:window._uxa.push(['optout']);).
-
-![](https://preview.vertbaudet.fr/styles/images/cookies-cs.png)
-
-Un complément d'informations relatives à notre Privacy policy peut être trouvé ici : [https://contentsquare.com/fr-fr/privacy-center/privacy-policy/](https://contentsquare.com/fr-fr/privacy-center/privacy-policy/)
-
-Oneytrust collecte des informations de votre terminal dans le cadre de mesures de lutte contre la fraude.
-
-Le traitement a pour objet la lutte contre la fraude à l’identité et au paiement sur les opérations réalisées en ligne. Notre partenaire Oneytrust détermine l'identifiant machine du terminal utilisé, à partir des informations collectées. Pour en savoir plus sur la gestion de vos données et vos droits, [cliquez ici](https://oneytrust.com/mention-information-dfp/).
 
 7\. Vos droits
 --------------
