@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 -----------------------------
 
-Date : 03/03/2022
+Date : 23/03/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -361,6 +361,64 @@ Tous nos produits bénéficient des garanties légales, à savoir la garantie l�
 Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
 La garantie légale de conformité s'applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu'il ne correspond pas à la description donnée.
+
+La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
+
+Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
+
+_8.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
+
+**Pour les Produits achetés avant le 1er janvier 2022** , vous :
+
+\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation
+
+\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est de six (6) mois.
+
+**Pour les Produits achetés à compter du 1er janvier 2022** , vous :
+
+\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;
+
+\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est désormais de douze (12) mois.
+
+Toute réparation du bien d'origine, neuf comme d'occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.
+
+Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.
+
+**Pour l'élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022** :
+
+Dans le cas où le contrat prévoit la fourniture, avec le Produit, d'un élément numérique, ce dernier bénéficie d'une garantie légale de conformité qui lui est propre. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité attachée à l'élément numérique :
+
+§ Pendant deux (2) ans à compter de la fourniture de l'élément numérique **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les deux (2) années suivants la fourniture de l'élément numérique.
+
+§ Durant toute la période de fourniture de l'élément numérique, **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant la fourniture de l'élément numérique.
+
+\- Pouvez demander la mise en conformité de l'élément numérique inclus dans le bien.
+
+_Article 8.1.2. Garantie légale de conformité des contenus et services numériques_
+
+Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité :
+
+§ Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, **si** votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
+
+§ Durant toute la période de fourniture du contenu ou service numérique , **si** votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture.
+
+\- Pouvez demander la mise en conformité du contenu ou service numérique.
 
 La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage.
 
