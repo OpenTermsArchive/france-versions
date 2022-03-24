@@ -52,7 +52,7 @@ A. 3. EXIGENCES D’ÂGE ET ACCEPTATION.
 
 (1) Pour faire des achats chez nous, vous devez être âgé d’au moins 16 ans.
 
-(2) En achetant des marchandises via notre Site ou nos Applications, vous comprenez, reconnaissez et acceptez expressément d’être lié par les Conditions d’achat de l'UE. Vous n’êtes autorisé à effectuer un Achat avec nous que si vous acceptez de respecter toutes les lois applicables et les présentes Conditions d’achat de l'UE. En outre, vous pouvez lire notre [Déclaration de confidentialité](https://m.shein.com/fr/Privacy-Security-Policy-a-282.html) à tout moment pour obtenir plus d’informations sur la manière dont la Société collecte, stocke et protège vos données à caractère personnel lorsque vous effectuez un Achat.
+(2) En achetant des marchandises via notre Site ou nos Applications, vous comprenez, reconnaissez et acceptez expressément d’être lié par les Conditions d’achat de l'UE. Vous n’êtes autorisé à effectuer un Achat avec nous que si vous acceptez de respecter toutes les lois applicables et les présentes Conditions d’achat de l'UE. En outre, vous pouvez lire notre [Déclaration de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) à tout moment pour obtenir plus d’informations sur la manière dont la Société collecte, stocke et protège vos données à caractère personnel lorsque vous effectuez un Achat.
 
 A. 4. MISES À JOUR.
 
@@ -118,11 +118,11 @@ Alors que nous demandons à autrui de respecter nos droits de propriété intell
 
 A. 13. TRANSFERTS D’ACTIVITÉ.
 
-Si la Société ou la quasi-totalité de ses actifs ont été acquis, ou dans le cas improbable où la Société ou ses sociétés affiliées se retirent de l’activité ou font faillite, les informations sur l’utilisateur et les relations contractuelles en cours seraient des actifs transférés ou acquis par un tiers. Vous reconnaissez que de tels transferts peuvent avoir lieu, et que tout acquéreur de la Société ou de ses actifs substantiels peut continuer (i) à utiliser vos informations personnelles comme indiqué dans le Contrat et notre Déclaration de confidentialité, et (ii) à communiquer avec vous dans la mesure où la Société a été autorisée à le faire. Pour plus d’informations, veuillez consulter notre [Déclaration de confidentialité](https://m.shein.com/fr/Privacy-Security-Policy-a-282.html) .
+Si la Société ou la quasi-totalité de ses actifs ont été acquis, ou dans le cas improbable où la Société ou ses sociétés affiliées se retirent de l’activité ou font faillite, les informations sur l’utilisateur et les relations contractuelles en cours seraient des actifs transférés ou acquis par un tiers. Vous reconnaissez que de tels transferts peuvent avoir lieu, et que tout acquéreur de la Société ou de ses actifs substantiels peut continuer (i) à utiliser vos informations personnelles comme indiqué dans le Contrat et notre Déclaration de confidentialité, et (ii) à communiquer avec vous dans la mesure où la Société a été autorisée à le faire. Pour plus d’informations, veuillez consulter notre [Déclaration de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) .
 
 A. 14. NOUS CONTACTER.
 
-Vos questions et commentaires sur nos pratiques de confidentialité ou les présentes Conditions d’achat de l'UE sont les bienvenus. Vous pouvez nous contacter à tout moment par e-mail à l’adresse [Centre de confidentialité](https://m.shein.com/fr/Privacy-Center-a-1045.html) ou via notre [Plateforme de service client](https://m.shein.com/fr/robot) .
+Vos questions et commentaires sur nos pratiques de confidentialité ou les présentes Conditions d’achat de l'UE sont les bienvenus. Vous pouvez nous contacter à tout moment par e-mail à l’adresse [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) ou via notre [Plateforme de service client](https://fr.shein.com/robot) .
 
 B. 1. PRIX ET PAIEMENT.
 
@@ -132,7 +132,7 @@ B. 1. PRIX ET PAIEMENT.
 
 B. 2 PROCESSUS DE COMMANDE.
 
-(1) Notre présentation des produits via le Site ou l’Application est une offre non contraignante. Une fois que vous avez sélectionné un article que vous souhaitez acheter, il sera ajouté à votre panier d’achats ( **« Panier »** ). Pour traiter la commande et effectuer le paiement, vous devez suivre les étapes du processus d’achat, en indiquant ou en vérifiant les informations demandées à chaque étape. De plus, tout au long du processus d’achat, avant le paiement, vous pouvez modifier les détails de votre commande, et il peut vous être demandé de vous connecter à votre compte ou de vous inscrire auprès de nous, de saisir une adresse d’expédition, de sélectionner un mode de paiement et une option d’expédition. Une description détaillée du processus d’achat vous est fournie à la page [« Comment commander »](https://m.shein.com/fr/How-to-order-a-276.html) . Si votre commande déclenche une alerte à la fraude dans notre système de sécurité, un e-mail de vérification peut être envoyé à votre adresse e-mail.
+(1) Notre présentation des produits via le Site ou l’Application est une offre non contraignante. Une fois que vous avez sélectionné un article que vous souhaitez acheter, il sera ajouté à votre panier d’achats ( **« Panier »** ). Pour traiter la commande et effectuer le paiement, vous devez suivre les étapes du processus d’achat, en indiquant ou en vérifiant les informations demandées à chaque étape. De plus, tout au long du processus d’achat, avant le paiement, vous pouvez modifier les détails de votre commande, et il peut vous être demandé de vous connecter à votre compte ou de vous inscrire auprès de nous, de saisir une adresse d’expédition, de sélectionner un mode de paiement et une option d’expédition. Une description détaillée du processus d’achat vous est fournie à la page [« Comment commander »](https://fr.shein.com/How-to-order-a-276.html) . Si votre commande déclenche une alerte à la fraude dans notre système de sécurité, un e-mail de vérification peut être envoyé à votre adresse e-mail.
 
 (2) Vous pouvez utiliser les méthodes de paiement spécifiées sur le Site local, qui peuvent inclure Visa, Mastercard, JCB, Diners’ Club, Paypal, Klarna, Afterpay, Discover, Diners Club et les services bancaires en ligne, etc. Selon la méthode choisie, vous pouvez saisir d’autres détails et être dirigé vers le site Web du prestataire de paiement afin d’être identifié en tant qu’utilisateur autorisé avant de pouvoir passer votre commande. Vous pouvez également appliquer vos actifs Portefeuille comme expliqué dans nos Conditions d’utilisation Lorsque vous cliquez sur « Autoriser le paiement, vous confirmez que vous êtes l’utilisateur autorisé de la méthode de paiement et que, le cas échéant, la carte de crédit est la vôtre. Si le prestataire de paiement, par exemple l’émetteur de la carte de crédit, n’autorise pas le paiement, nous ne serons pas responsables de tout retard ou défaut de livraison et nous ne serons pas en mesure de conclure un contrat avec vous.
 
@@ -144,7 +144,7 @@ B. 2 PROCESSUS DE COMMANDE.
 
 B. 3 ERREURS.
 
-(1) Vous pourrez corriger les erreurs liées aux données à caractère personnel fournies pendant le processus d’achat en nous contactant, et en exerçant le droit de rectification prévu dans notre [Déclaration de confidentialité](https://m.shein.com/fr/Privacy-Security-Policy-a-282.html) par le biais du Site et des Applications. Le Site et les Applications affichent des cases de confirmation dans différentes sections du processus d’achat qui ne permettent pas à la commande de continuer si les informations contenues dans ces sections n’ont pas été correctement remplies. De plus, le Site et les Applications offrent des détails sur tous les articles que vous avez ajoutés à votre panier d’achats pendant le processus d’achat, afin qu’avant d’effectuer le paiement, vous puissiez modifier les détails de votre commande.
+(1) Vous pourrez corriger les erreurs liées aux données à caractère personnel fournies pendant le processus d’achat en nous contactant, et en exerçant le droit de rectification prévu dans notre [Déclaration de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) par le biais du Site et des Applications. Le Site et les Applications affichent des cases de confirmation dans différentes sections du processus d’achat qui ne permettent pas à la commande de continuer si les informations contenues dans ces sections n’ont pas été correctement remplies. De plus, le Site et les Applications offrent des détails sur tous les articles que vous avez ajoutés à votre panier d’achats pendant le processus d’achat, afin qu’avant d’effectuer le paiement, vous puissiez modifier les détails de votre commande.
 
 (2) Si vous détectez une erreur dans votre commande après l’achèvement du processus de paiement, vous devez immédiatement contacter notre service client pour corriger l’erreur.
 
@@ -168,7 +168,7 @@ Sauf disposition contraire, nous nous conformerons uniquement aux normes minimal
 
 B. 8. EXPÉDITION ET LIVRAISON.
 
-Nous expédions à partir de différents entrepôts dans différents pays. Pour les commandes comportant plus d’un article, nous pouvons diviser votre commande en plusieurs colis en fonction des niveaux de stock, à notre seule discrétion. Nous visons à livrer les commandes aussi rapidement que possible. Cependant, parfois, pendant les périodes de vente à forte activité, les livraisons peuvent prendre plus de temps. Le délai de livraison prévu est de 30 jours, cependant, en cas d’expédition depuis des pays autres que les pays européens, il peut être plus long, conformément aux informations fournies lors du processus de commande. Si vous n’avez pas reçu votre livraison dans les 30 jours ouvrables, veuillez contacter notre [Plateforme de services clients](https://m.shein.com/fr/robot) .
+Nous expédions à partir de différents entrepôts dans différents pays. Pour les commandes comportant plus d’un article, nous pouvons diviser votre commande en plusieurs colis en fonction des niveaux de stock, à notre seule discrétion. Nous visons à livrer les commandes aussi rapidement que possible. Cependant, parfois, pendant les périodes de vente à forte activité, les livraisons peuvent prendre plus de temps. Le délai de livraison prévu est de 30 jours, cependant, en cas d’expédition depuis des pays autres que les pays européens, il peut être plus long, conformément aux informations fournies lors du processus de commande. Si vous n’avez pas reçu votre livraison dans les 30 jours ouvrables, veuillez contacter notre [Plateforme de services clients](https://fr.shein.com/robot) .
 
 B. 9. TITRE ET RISQUE DE PERTE.
 
@@ -182,7 +182,7 @@ Vous pouvez retourner votre commande jusqu’à 45 jours à compter de la date d
 
 Les articles suivants ne peuvent pas être retournés ou échangés conformément à notre politique de retour volontaire : bodys, lingerie et vêtements de nuit, maillots de bain, bijoux et accessoires (à l'exception des écharpes, sacs et couvertures sirène).
 
-(2) Pour exercer vos droits de garantie légaux ou utiliser notre politique de retour volontaire, vous devez nous en informer en suivant les instructions figurant sur notre page [Retour](https://m.shein.com/fr/Return-Policy-a-281.html) ou en contactant notre [Plateforme de service client](https://m.shein.com/fr/robot) .
+(2) Pour exercer vos droits de garantie légaux ou utiliser notre politique de retour volontaire, vous devez nous en informer en suivant les instructions figurant sur notre page [Retour](https://fr.shein.com/Return-Policy-a-281.html) ou en contactant notre [Plateforme de service client](https://fr.shein.com/robot) .
 
 B. 11. DROIT DE RÉTRACTATION.
 
@@ -196,7 +196,7 @@ Vous avez le droit de vous retirer du présent contrat dans les 14 jours sans av
 
 Le délai de rétractation expirera après 14 jours à compter du jour où vous obtient, ou après qu’un tiers autre que le transporteur et désigné par vous obtient la possession physique des marchandises.
 
-Pour exercer le droit de rétractation, vous devez nous informer en contactant notre [Plateforme de service client](https://m.shein.com/fr/robot) de votre décision de vous retirer du présent contrat par une déclaration non équivoque. Vous pouvez utiliser le modèle de formulaire de rétractation ci-joint, mais il n’est pas obligatoire.
+Pour exercer le droit de rétractation, vous devez nous informer en contactant notre [Plateforme de service client](https://fr.shein.com/robot) de votre décision de vous retirer du présent contrat par une déclaration non équivoque. Vous pouvez utiliser le modèle de formulaire de rétractation ci-joint, mais il n’est pas obligatoire.
 
 Pour respecter la date limite de rétractation, il est suffisant que vous envoyiez votre communication concernant l’exercice de votre droit de rétractation avant l’expiration de la période de rétractation.
 
