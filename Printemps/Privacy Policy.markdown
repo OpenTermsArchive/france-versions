@@ -728,17 +728,17 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 *   **Votre consentement**
 *   **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
-*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce
-*   **Prospect :** 3 ans après la dernière activité mail/sms\*6
-
-  
+*   **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms, ou activité e-commerce
+*   **Prospect :** 3 ans après la dernière activité mail/sms
 
   
 
-LA REALISATION D'OFFRES MARKETING ET PROMOTIONNELLES SUR PRINTEMPS.COM, PRINTEMPS LISTES, PRINTANIA
+  
+
+LA REALISATION D'OFFRES COMMERCIALES PRINTEMPS
 
   
 
@@ -1235,6 +1235,24 @@ Vos données à caractère personnel peuvent être recueillies : 
 
 *   **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Printania (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
 *   **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com, Printemps Listes et Printemps Voyages sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps (lors de l'appairage de votre carte fidélité sur le site Internet [**www.placedestendances.com**](http://www.placedestendances.com/) par exemple), ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
+
+  
+
+Afin de mieux connaitre notre clientèle et de vous faire bénéficier d'offres commerciales appropriées, vos données personnelles peuvent être transmises aux entités du Groupe Printemps suivantes :
+
+\- Printemps SAS
+
+\- Printemps.com
+
+\- BPCP (Printemps du Louvre)
+
+\- Citadium
+
+\- Place des tendances
+
+\- Made in design
+
+  
 
 A l'occasion de la souscription à une offre ou à une prestation de Printemps Voyages, de l'ouverture d'une liste, d'un parrainage, de l'ouverture d'une cagnotte en ligne sur Printemps.com, la personne organisatrice peut communiquer des informations relatives aux autres personnes pour lesquelles elle réserve le voyage ou la prestation, ou pour qui elle ouvre la liste, la cagnotte, ou réalise le parrainage, sous réserve qu'elle ait préalablement obtenue l'accord de la part desdites personnes pour une telle communication.
 
