@@ -422,38 +422,6 @@ Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de con
 
 La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage.
 
-**Pour les produits achetés avant le 1er janvier 2022 :**
-
-Si vous agissez en garantie légale de conformité, vous :
-
-\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du produit pour agir ;
-
-\- pouvez choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;
-
-\- êtes dispensés de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est de six (6) mois.
-
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
-
-Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
-
-**Pour les produits achetés à compter du 1 er janvier 2022 :**
-
-Si vous agissez en garantie légale de conformité, vous :
-
-\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du produit pour agir ;
-
-\- pouvez choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;
-
-\- êtes dispensés de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est désormais de douze (12) mois.
-
-Toute réparation du bien d'origine, neuf comme d'occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.
-
-Tout remplacement mis en œuvre par Showroomprivé dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.
-
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
-
-Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
-
 8.2 La garantie commerciale
 
 Dans certains cas, une garantie commerciale peut vous être proposée directement par les fournisseurs avec qui nous travaillons. Si c'est le cas, vous en serez informés sur la fiche descriptive des produits concernés, mais aussi sur la facture de vos produits. En cas de doute, vous pouvez également contacter notre service client pour savoir si votre produit bénéficie d'une garantie commerciale.
