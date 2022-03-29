@@ -1,14 +1,14 @@
 CONDITIONS GENERALES D’UTILISATION ET DE VENTE
 ==============================================
 
-En application au 15/02/2022
+En application au 29/03/2022
 
 1.  [Accueil](https://www.g7.fr/)
 2.  Conditions générales
 
 **CONDITIONS GENERALES D’UTILISATION ET DE VENTE\***
 
-**En application au 15 Février 2022**
+**En application au 29 mars 2022**
 
 La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.607.455 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – N° TVA intracommunautaire FR 1132437986600019 – Tel : 01 47 39 09 00, exploite un central de réservation taxis, sous le nom commercial et la marque G7**®**, auquel sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT » avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
 
@@ -356,8 +356,13 @@ A l'exception de la date d'expiration de la carte de paiement du CLIENT, la SOC
 
 **6.2.2. Demande d’autorisation de paiement (ou « pré autorisation par carte de paiement »)** : Conformément aux dispositions des articles 2.1 et  3.7.1 des présentes Conditions Générales, le CLIENT est informé qu’une demande d’autorisation de paiement est effectuée, lors de l’enregistrement de la carte de paiement du CLIENT dans son compte G7 et pour chaque commande de course (ou modification ultérieure de la commande), auprès de la société émettrice de la carte de paiement, et il autorise la SOCIETE à y procéder. Le montant de cette pré-autorisation par carte de paiement est  variable en fonction des cas : 
 
-*   Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 1€ ;
-*   Lors de la demande de course : le montant de la pré-autorisation par carte de paiement sera de 50€ ;
+*   Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 0€ ;
+*   Lors de la demande de course :
+    *   Si le CLIENT n’a pas renseigné d’adresse de destination, le montant de la pré-autorisation par carte de paiement sera de 50€ ;
+    *   Si le CLIENT a renseigné une adresse de destination, le montant de la pré-autorisation par carte de paiement sera adapté selon le prix estimé de la course, communiqué au CLIENT  par la SOCIETE à titre indicatif, avant la commande de course. Le montant de cette pré autorisation par carte de paiement sera de : 
+        *   25€ si la fourchette haute du prix estimé est inférieure ou égale à 25€ ;
+        *   50€ si la fourchette haute du prix estimé est supérieure à 25€ et inférieure ou égale à 50€ ;
+        *   75€ si la fourchette haute du prix estimé est supérieure à 50€.
 
 Ce montant sera temporairement réservé par la banque émettrice de la carte de paiement du CLIENT, puis restitué au CLIENT (sauf dans le cas où le règlement ultérieur de la transaction serait rejeté conformément aux dispositions de l’article 6.2.3), le délai de restitution étant variable selon la société émettrice de la carte de paiement utilisée par le CLIENT.
 
@@ -568,7 +573,7 @@ _\*\* : La liste d’applications dédiées smartphone est limitative_
   
 **Grille Tarifaire applicable aux commandes de taxis à Paris et en Région Parisienne\*¹**
 
-**Tarifs en vigueur au 15 Février 2022\*****²**
+**Tarifs en vigueur au 29 mars 2022\*****²**
 
   
 
@@ -592,12 +597,12 @@ Ces différents niveaux de services et la garantie PMG sont décrits dans la pr�
 | *    **« G7® Famille » avec** | *   Véhicules de type VAN<br>*   Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **6€  TTC** |
 | **Option :** <br><br>**Service « G7® Coffre+ »** | *   Véhicules de type break dotés d’un espace  <br>    de chargement accru pour des bagages volumineux <br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
 | **Option :**<br><br>**Service « G7® Vélo »**<br><br>Niveau de service disponible en demande à l’avance exclusivement | *   Tous types de véhicules<br>*   Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à  4 \[3 en période d’urgence sanitaire **\*_3_**)<br>*   Véhicules confortables de type berline | **4€  TTC** |
-| **Option :** <br><br>**G7® « Prix Maximum Garanti » (ou « PMG »)**  <br>Garantie de prix disponible prochainement<br><br>Disponible exclusivement pour des commandes  <br>réalisées via l’application G7 en demande immédiate  <br>et pour des trajets réalisés sur la zone de Paris intramuros à certains créneaux horaires. | Prix maximum de la  course garanti au CLIENT par la SOCIETE lors de la commande (mécanisme de la garantie « PMG » à l’article 4 des Conditions Générales).  <br>Le « Prix Maximum Garanti » inclut le cout de l’option souscrite par le CLIENT.<br><br>Conditions (se référer à l’article 4 des Conditions Générales) :<br><br>*   Saisie de l’adresse de de départ et de destination lors de la commande<br>*   Absence d’arrêt ou de détour au cours du trajet<br>*   Option disponible exclusivement sur les niveaux de service « G7® »(standard) ou « G7® Green » | **2€  TTC** |
+| **Option :** <br><br>**G7® « Prix Maximum Garanti » (ou « PMG »)**<br><br>Disponible exclusivement pour des commandes  <br>réalisées via l’application G7 en demande immédiate  <br>et pour des trajets réalisés sur la zone de Paris intramuros à certains créneaux horaires. | Prix maximum de la  course garanti au CLIENT par la SOCIETE lors de la commande (mécanisme de la garantie « PMG » à l’article 4 des Conditions Générales).  <br>Le « Prix Maximum Garanti » inclut le cout de l’option souscrite par le CLIENT.<br><br>Conditions (se référer à l’article 4 des Conditions Générales) :<br><br>*   Saisie de l’adresse de de départ et de destination lors de la commande<br>*   Absence d’arrêt ou de détour au cours du trajet<br>*   Option disponible exclusivement sur les niveaux de service « G7® »(standard) ou « G7® Green » | **2€  TTC** |
 
-**Conditions générales en application - 15 Février 2022**
+**Conditions générales en application - 29 mars 2022**
 
 **\*¹** _Course réalisée à bord d’un taxi parisien affilié G7**®**  (la liste des communes de rattachement des taxis parisiens est fixée par l’arrêté ministériel du 10 novembre 1972)  
-Le prix de la prestation de transport réalisée par le chauffeur de taxi (« la course ») est perçu par ce dernier et déterminé à l’issue de la course, selon le tarif réglementaire affiché par le compteur horokilométrique du taxi en vertu de l’arrêté préfectoral en vigueur._
+​​​​​​​Le prix de la prestation de transport réalisée par le chauffeur de taxi (« la course ») est perçu par ce dernier et déterminé à l’issue de la course, selon le tarif réglementaire affiché par le compteur horokilométrique du taxi en vertu de l’arrêté préfectoral en vigueur._
 
 **\*²** _Hors période d’offre promotionnelle_
 
