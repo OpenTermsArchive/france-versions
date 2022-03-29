@@ -679,7 +679,7 @@ ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
 
 **14.4.3** Nous ne serons pas tenus responsables en cas de Dommages résultant du respect par nous des lois en vigueur ou des règles et réglementations gouvernementales, ou de votre non-respect de ces mêmes dispositions.  
 
-**14.4.4** Notre responsabilité sera limitée à 1 288 DTS (ou équivalent) par passager, dans le cas de Dommages causés aux Bagages, sauf si une valeur supérieure a été déclarée au plus tard lors de l’enregistrement et que vous vous êtes acquitté des frais supplémentaires.  
+**14.4.4** Notre garantie de responsabilité pour la perte ou les dommages aux bagages est plafonnée à 1 288 SDR (ou son équivalent) pour chaque bagage perdu ou volé, à moins que vous n’ayez fait une déclaration spéciale d’intérêt à la livraison à destination avant l’enregistrement de vos bagages et payé les frais correspondants (augmentation de notre garantie de responsabilité plafonnée à 2 262 SDR).    
 
 **14.4.5** Sauf disposition contraire spécifique stipulée dans les présentes Conditions générales, nous ne serons responsables envers vous que des dommages et intérêts compensatoires que vous êtes en droit de recevoir au titre de coûts ou pertes prouvés en vertu de la Convention.  
 
@@ -852,9 +852,7 @@ Le signalement d’un bagage endommagé/égaré à votre aéroport d’arrivée 
 
 **Limites plus élevées pour les bagages**
 
-Conformément à la Convention de Montréal (1999), notre responsabilité en cas de bagages perdus, endommagés ou retardés se limite à 1 288 SDR (environ 1 600 €). Un passager peut bénéficier d’une limite plus élevée de responsabilité pour ses Bagages enregistrés en faisant une Déclaration de valeur spéciale de bagages enregistrés et en payant € 50, £ 50 ou l’équivalent en monnaie locale (plus TVA pour les vols intérieurs), par personne / par vol en aller simple. Le paiement de ces frais élève la limite de responsabilité pour les Bagages enregistrés à 2 262 DTS (environ € 2 600). Les frais de Déclaration de valeur spéciale de bagages enregistrés doivent être payés au départ de chaque aéroport.  
-
-Cliquez ici pour remplir et imprimer un formulaire de Déclaration de valeur spéciale de bagages enregistrés à la billetterie de l’aéroport
+Conformément à la Convention de Montréal (1999), notre garantie de responsabilité en cas de bagage perdu, endommagé ou retardé est plafonnée à 1 288 SDR (environ 1 600 €) par bagage.  Vous pouvez augmenter le plafond de notre garantie de responsabilité des bagages enregistrés au guichet des billets en remplissant une déclaration spéciale d’intérêt pour la livraison à destination avant d’enregistrer vos bagages et en payant des frais de 50 €/50 £ (ou l’équivalent dans votre devise locale), plus TVA pour les vols intérieurs. Les frais sont acquittables par passager et par trajet de vol aller simple. Ces frais relèvent notre plafond de garantie de responsabilité des bagages enregistrés à hauteur de 2 262 SDR (environ 2 600 €). 
 
 **Responsabilité respective du transporteur avec lequel un contrat a été conclu et du transporteur effectif**
 
