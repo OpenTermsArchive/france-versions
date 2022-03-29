@@ -81,8 +81,8 @@ Le site Internet austrian.com a été conçu pour simplifier les services en lig
 *   changement de réservation et annulation,
 *   demander des offres du ​[_​_Groupe Lufthansa](http://www.austrian.com/fr/fr/legal/lufthansa-group) et de nos ​sociétés partenaires (il s’agit de sociétés avec lesquelles Austrian Airlines coopère) afin que nous puissions vous proposer d’autres offres.
 
-[Les informations sur les partenaires sont fournies par les partenaires suivants d’Austrian Airlines AG :](#accordion-item-section--770507940)
-----------------------------------------------------------------------------------------------------------------------------------------------
+[Les informations sur les partenaires sont fournies par les partenaires suivants d’Austrian Airlines AG :](#accordion-item-section--1455767253)
+-----------------------------------------------------------------------------------------------------------------------------------------------
 
 | Nom de la marque | Nom de la société |
 | --- | --- |
@@ -351,13 +351,13 @@ Il existe une obligation légale ou officielle pour les compagnies aériennes de
 
 Pour obtenir des informations, sur les réclamations au sujet des données, veuillez nous contacter au [+43 5 1766 1000](tel:0043517661000) (au tarif local depuis n’importe où en Autriche, du lundi au dimanche, et les jours fériés de 8 h à 20 h) ou contactez-nous via nos [formulaires de contact](http://www.austrian.com/fr/fr/footer-pages/help-and-contact).
 
-[Pourquoi les données des passagers sont-elles envoyées aux autorités américaines et canadiennes ?](#accordion-item-section-657188270)
+[Pourquoi les données des passagers sont-elles envoyées aux autorités américaines et canadiennes ?](#accordion-item-section-744049815)
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Austrian Airlines est tenue d’envoyer toutes les données de réservation en raison d’un accord entre l’UE et les États-Unis ou le Canada. Le transport de passagers au départ, à destination ou via les États-Unis ou le Canada n’est pas autorisé si nous ne respectons pas cette obligation.
 
-[Quelles données sont-elles envoyées aux autorités américaines et canadiennes ?](#accordion-item-section--1843087133)
----------------------------------------------------------------------------------------------------------------------
+[Quelles données sont-elles envoyées aux autorités américaines et canadiennes ?](#accordion-item-section--681447493)
+--------------------------------------------------------------------------------------------------------------------
 
 Austrian Airlines envoie les codes de réservation des passagers qui voyagent avec nous au départ, à destination ou via les États-Unis et le Canada aux services d’immigration des États-Unis et du Canada (appelés « PNR » = « Passenger name records »).
 
@@ -367,8 +367,8 @@ Les données du PNR contiennent toutes les informations que vous avez fournies l
 
 Pour plus d’informations, consultez les [dispositions d’entrée](http://www.austrian.com/fr/fr/plan/special-requirements/entry-regulations).
 
-[Liens](#accordion-item-section-294044113)
-------------------------------------------
+[Liens](#accordion-item-section--1272916405)
+--------------------------------------------
 
 Vous trouverez de plus amples informations sur la collecte de données pour les autorités étrangères via les liens suivants :
 
