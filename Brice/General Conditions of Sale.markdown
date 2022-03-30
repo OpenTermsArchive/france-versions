@@ -216,7 +216,7 @@ ARTICLE 9 – RETOUR DES PRODUITS
 
 Conformément à l’article L221-18 du Code de la consommation, le Client dispose d'un délai de rétractation de quatorze (14) jours à compter de la réception de sa commande.  
   
-Le Client peut notifier à Jules, son intention d’exercer ce droit par courrier en précisant ses nom, prénom, adresse, numéro de commande, date de passation de la commande, date de réception de la commande et référence de l’article concerné par la rétractation. Le Client a également la possibilité d’utiliser le modèle de formulaire de rétractation à remplir [ici](https://www.brice.fr/on/demandware.static/-/Sites-Brice-SFRA-Library/fr_FR/v1648613770806/cgv/formulaire-de-retractation.pdf).  
+Le Client peut notifier à Jules, son intention d’exercer ce droit par courrier en précisant ses nom, prénom, adresse, numéro de commande, date de passation de la commande, date de réception de la commande et référence de l’article concerné par la rétractation. Le Client a également la possibilité d’utiliser le modèle de formulaire de rétractation à remplir [ici](https://www.brice.fr/on/demandware.static/-/Sites-Brice-SFRA-Library/fr_FR/v1648631441619/cgv/formulaire-de-retractation.pdf).  
   
 Le Client bénéficie alors d’un délai de quatorze (14) jours à compter de l’envoi du courrier mentionné ci-dessus ou de toute autre déclaration, dénuée d'ambiguïté, exprimant sa volonté de se rétracter, pour retourner sa commande.  
   
