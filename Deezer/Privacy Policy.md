@@ -1,401 +1,401 @@
-Votre vie privée sur Deezer
-===========================
+Your privacy on Deezer
+======================
 
-### Mise à jour en décembre 2021
+### Updated December 2021
 
-Chez Deezer, nous avons à cœur de protéger votre vie privée et nous voulons que vous soyez à l’aise avec la manière dont nous utilisons vos données personnelles. Cette Notice d’information sur la vie privée est donc conçue pour vous fournir des informations transparentes et significatives sur la manière dont nous [collectons](#collect), [utilisons](#use), [conservons](#retain), [protégeons](#protect) et [partageons](#share) vos données, et sur la manière dont vous pouvez exercer vos [droits](#rights) sur celles-ci.
+At Deezer, we care about your privacy and we want you to be comfortable with how we use your personal data. This Privacy Notice is therefore designed to provide you with transparent and important information on how we [collect](#collect), [use](#use), [retain](#retain), [protect](#protect) and [share](#share) your data, and how you can exercise your [rights](#rights) over it.
 
-Si vous avez des questions sur cette Notice d’information ou nos pratiques en matière de protection de la vie privée, si vous souhaitez contacter notre Service client ou notre Délégué à la protection des données, ou si vous souhaitez soumettre une réclamation, vous pouvez nous contacter via ce [formulaire](https://support.deezer.com/hc/fr/requests/new?ticket_form_id=360000057869).
+If you have any questions about this Privacy Notice or our privacy practices, would like to contact our Customer Care or Data Protection Officer, or would like to submit a complaint, you can contact us through this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869).
 
-Collecte de données personnelles
---------------------------------
+Collection of personal data
+---------------------------
 
-Les données personnelles comprennent les données qui vous identifient directement – telles que votre nom –, les données qui vous identifient indirectement – telles que votre adresse e-mail ou votre numéro de téléphone – et les données qui peuvent vous être liées – telles que votre historique d’écoute ou vos contenus préférés.
+Personal data includes data that directly identifies you (such as your name), data that indirectly identifies you (such as your email address or phone number), and data that can be linked to you (such as your listening history or favorite content).
 
-Bien que l’inscription sur Deezer ne vous oblige pas à fournir des données qui vous identifient directement et personnellement, nous considérons que toutes les données qui peuvent vous être liées sont personnelles et nous les traitons comme telles.
+Although registering with Deezer does not require you to provide data that directly and personally identifies you, we consider any data that may be linked to you as personal, and we treat it as such.
 
-Nous collectons les données personnelles suivantes lorsque vous vous inscrivez sur Deezer et utilisez notre service.
+We collect the following personal data when you sign up to Deezer and use our service.
 
-#### Informations de contact
+#### Contact info
 
-Nom, adresse e-mail\*, numéro de téléphone, identifiants de réseau social, âge\*, genre  
-Fournis par vous ou votre fournisseur de services lorsque vous vous inscrivez à Deezer.
+Name, email address\*, phone number, social logins, age\*, gender  
+Provided by you or your service provider when you sign up to Deezer
 
-#### Identifiants
+#### Identifiers
 
-ID utilisateur\*, ID d’appareil  
+User ID\*, device IDs  
 Identifiant utilisateur attribué par nous lorsque vous vous inscrivez à Deezer, identifiants d’appareil collectés par nous lorsque vous utilisez Deezer.
 
-#### Informations financières
+#### Financial info
 
-Informations de paiement\*, transactions\*  
-Fournies par vous lorsque vous souscrivez à un forfait payant ou à une offre d’essai et d’achat.
+Payment info\*, transactions\*  
+Provided by you when you subscribe to a paid plan or a try & buy offer.
 
-#### Localisation
+#### Location
 
-Localisation approximative (adresse IP)  
-Collectée par nos soins lorsque vous vous connectez et utilisez Deezer.
+Coarse location (IP address)  
+Collected by us when you sign in and use Deezer.
 
-#### Données d’utilisation
+#### Usage data
 
-Interactions avec le produit (incluant les données d’écoute)\*, données publicitaires\*  
-Collectées par nos soins lorsque vous utilisez Deezer ou lorsque vous interagissez avec des publicités.
+Product interaction (including listening data)\*, advertising data\*  
+Collected by us when you use Deezer or when you interact with ads.
 
-#### Contenu de l’utilisateur
+#### User content
 
-Photos, données audio\*, demandes adressées au Service client  
-Fournies par vous lorsque vous utilisez Deezer ou lorsque vous contactez notre Service client.
+Photos, audio data\*, Customer Care requests  
+Provided by you when you use Deezer or when you contact our Customer Care.
 
-#### Historique de recherche
+#### Search history
 
-Recherches effectuées dans Deezer\*  
-Fournies par vous lorsque vous recherchez du contenu sur Deezer.
+Searches performed on Deezer\*  
+Provided by you when you search content on Deezer.
 
 #### Diagnostics
 
-Données de plantage, données de performances  
-Collectées par nos soins lorsque vous utilisez Deezer et que vous rencontrez des plantages.
+Crash data, performance data  
+Collected by us if the experience crashes while using Deezer.
 
-Les données marquées d’un \* sont nécessaires pour vous permettre de vous inscrire à Deezer, de souscrire à l’un de nos forfaits payants, de profiter de l’une de nos offres d’essai, ou d’utiliser notre service et ses fonctionnalités.
+Data marked with an \* is required to allow you to sign up to Deezer, to subscribe to one of our paid plans or try & buy offers, or to use our service and its features.
 
-Utilisation des données personnelles
-------------------------------------
+Use of personal data
+--------------------
 
-Nous utilisons vos données uniquement lorsque nous avons une base légale pour le faire. Selon les circonstances, nous pouvons traiter vos données avec votre consentement, parce que cela est nécessaire pour exécuter [notre contrat avec vous](https://www.deezer.com/legal/cgu) ou pour respecter la loi, ou parce que nous pensons que le traitement est dans notre intérêt légitime ou dans l’intérêt d’un tiers (à condition que ces intérêts ne prévalent pas sur vos intérêts, droits et attentes légitimes).
+We use your data only when we have a legal basis to do so. Depending on the circumstances, we may process your data with your consent, because it is necessary to fulfill [our contract with you](https://www.deezer.com/legal/cgu) or comply with the law, or because we believe that the processing is in our or others’ legitimate interests (provided that such interests don’t override your interests, rights, and legitimate expectations).
 
-Nous n’utilisons aucun algorithme pour prendre une décision qui vous affecterait de manière significative sans examen humain. Nous n’utilisons vos données qu’aux fins décrites ci-dessous.
+We don’t use any algorithms to make any decision that would significantly affect you without human review. We only use your data for the purposes described below.
 
-#### Fonctionnalités de l’application
+#### App functionality
 
-Nous utilisons vos données pour vous permettre de vous connecter à Deezer, de rechercher et de lire des contenus audio, de gérer vos favoris et vos listes de lecture et de partager des contenus avec d’autres personnes.
+We use your data to enable you to sign in to Deezer, search and play audio content, manage your favorites and playlists, and share content with other people.
 
-#### Informations de contact
+#### Contact info
 
-Adresse e-mail, numéro de téléphone, identifiants de réseau social
+Email address, phone number, social logins
 
-#### Identifiants
+#### Identifiers
 
-ID utilisateur, ID d’appareil
+User ID, device IDs
 
-#### Localisation
+#### Location
 
-Localisation approximative
+Coarse location
 
-#### Données d’utilisation
+#### Usage data
 
-Interactions avec le produit
+Product interaction
 
-#### Contenu de l’utilisateur
+#### User content
 
-Données audio
+Audio data
 
-#### Historique de recherche
+#### Search history
 
-Recherches
+Searches
 
-### Personnalisation du produit
+### Product personalization
 
-Nous utilisons vos données pour vous permettre de personnaliser votre profil et vos listes de lecture, et pour vous fournir des recommandations de contenu en fonction de votre historique d’écoute et de vos contenus préférés.
+We use your data to enable you to personalize your profile and playlists, and to provide you with content recommendations based on your listening history and favorite content.
 
-#### Informations de contact
+#### Contact info
 
-Nom, âge, genre
+Name, age, gender
 
-#### Identifiants
+#### Identifiers
 
-ID utilisateur, ID d’appareil
+User ID, device IDs
 
-#### Localisation
+#### Location
 
-Localisation approximative
+Coarse location
 
-#### Données d’utilisation
+#### Usage data
 
-Interactions avec le produit
+Product interaction
 
-#### Contenu de l’utilisateur
+#### User content
 
 Photos
 
-#### Historique de recherche
+#### Search history
 
-Recherches
+Searches
 
-### Paiement et redevances
+### Payment and royalties
 
-Nous utilisons vos données pour traiter votre paiement lorsque vous souscrivez à un forfait payant ou à une offre d’essai, pour respecter nos obligations fiscales et comptables et pour verser des redevances aux maisons de disques et sociétés de gestion de droits. Nous utilisons un fournisseur de paiement externe et ne stockons donc pas les détails de votre mode de paiement.
+We use your data to process your payment when subscribing to a paid plan or a try & buy offer, fulfill our tax and accounting obligations, and pay royalties to music labels and record companies. We use an external payment provider and therefore don’t store your payment method details.
 
-#### Informations de contact
+#### Contact info
 
-Adresse e-mail, numéro de téléphone
+Email address, phone number
 
-#### Identifiants
+#### Identifiers
 
-ID utilisateur
+User ID
 
-#### Informations financières
+#### Financial info
 
-Informations de paiement, transactions
+Payment info, transactions
 
-#### Localisation
+#### Location
 
-Localisation approximative
+Coarse location
 
-#### Données d’utilisation
+#### Usage data
 
-Interactions avec le produit
+Product interaction
 
-### Sécurité et prévention de la fraude
+### Security and fraud prevention
 
-Nous utilisons vos données pour surveiller et assurer la sécurité, la confidentialité, l’intégrité, la disponibilité et la résilience continues de notre service, et pour empêcher toute utilisation frauduleuse.
+We use your data to monitor and ensure the ongoing security, confidentiality, integrity, availability and resilience of our service, and to prevent fraudulent use.
 
-#### Informations de contact
+#### Contact info
 
-Nom, adresse e-mail, numéro de téléphone, identifiants de réseau social
+Name, email address, phone number, social logins
 
-#### Identifiants
+#### Identifiers
 
-ID utilisateur, ID d’appareil
+User ID, device IDs
 
-#### Informations financières
+#### Financial info
 
-Informations de paiement, transactions
+Payment info, transactions
 
-#### Localisation
+#### Location
 
-Localisation approximative
+Coarse location
 
-#### Données d’utilisation
+#### Usage data
 
-Interactions avec le produit
-
-#### Diagnostics
-
-Données de plantage, données de performance
-
-### Analyses et mesures d’audience
-
-Nous utilisons vos données pour mesurer notre audience, analyser la façon dont notre service est utilisé, surveiller et améliorer de manière globale ses performances, sa convivialité et son interface, et développer de nouvelles fonctionnalités. Vous pouvez consentir ou vous opposer à une telle utilisation dans vos paramètres de cookies.
-
-#### Identifiants
-
-ID utilisateur, ID d’appareil
-
-#### Localisation
-
-Localisation approximative
-
-#### Données d’utilisation
-
-Interactions avec le produit, données publicitaires
+Product interaction
 
 #### Diagnostics
 
-Données de plantage, données de performance
+Crash data, performance data
 
-### Communication de Deezer
+### Analytics and audience insights
 
-Nous utilisons vos données pour vous envoyer des informations importantes concernant votre compte ou vos transactions, des recommandations éditoriales, des communications marketing ou pour vous inviter à nous faire part de votre avis. Lors de l’envoi d’un e-mail, nous utilisons des pixels invisibles pour savoir s’il a été lu. Cela nous aide à optimiser nos campagnes et à vous envoyer moins d’e-mails si vous ne les lisez pas. Vous pouvez accepter ou refuser nos communications dans [vos préférences de notification](https://www.deezer.com/account/notifications).
+We use your data to measure our audience, analyze how our service is used, monitor and improve its overall performance, usability and design, and develop new features. You can consent or object to such use in your cookie settings.
 
-#### Informations de contact
+#### Identifiers
 
-Nom, adresse e-mail, numéro de téléphone, âge
+User ID, device IDs
 
-#### Identifiants
+#### Location
 
-ID utilisateur
+Coarse location
 
-#### Localisation
+#### Usage data
 
-Localisation approximative
-
-#### Données d’utilisation
-
-Interactions avec le produit
-
-#### Historique de recherche
-
-Recherches
-
-### Publicité pour Deezer
-
-Si vous avez souscrit à l’une de nos offres payantes, nous utilisons vos données pour trouver des audiences similaires à votre profil. Si vous utilisez notre service gratuit, nous utilisons également votre profil publicitaire pour afficher des publicités ciblées pour Deezer sur nos sites et applications ou sur ceux de tiers, vous exclure de certaines campagnes publicitaires et définir un plafonnement afin de ne pas vous présenter la même publicité de manière trop répétitive. Vous pouvez consentir ou vous opposer à une telle utilisation dans vos paramètres de cookies. Si vous vous y opposez, seules les annonces génériques et moins pertinentes seront diffusées.
-
-#### Informations de contact
-
-Adresse e-mail, âge, genre
-
-#### Identifiants
-
-ID utilisateur, ID d’appareil
-
-#### Localisation
-
-Localisation approximative
-
-#### Données d’utilisation
-
-Interaction avec le produit, données publicitaires
-
-### Publicité pour des tiers
-
-Si vous utilisez notre service gratuit, nous utilisons vos données pour créer votre profil publicitaire, afficher des publicités ciblées pour des produits ou services tiers sur nos sites et applications, vous exclure de certaines campagnes publicitaires et définir un plafonnement afin de ne pas vous présenter la même annonce trop répétitivement. Vous pouvez consentir ou vous opposer à une telle utilisation dans vos paramètres de cookies. Si vous vous y opposez, seules les annonces génériques et moins pertinentes seront diffusées.
-
-#### Informations de contact
-
-Âge, genre
-
-#### Identifiants
-
-ID utilisateur, ID d’appareil
-
-#### Localisation
-
-Localisation approximative
-
-#### Données d’utilisation
-
-Interaction avec le produit, données publicitaires
-
-### Service client
-
-Nous utilisons vos données lorsque vous adressez des demandes à notre Service client ou lorsque vous souhaitez exercer les droits que vous détenez sur vos données personnelles.
-
-#### Informations de contact
-
-Nom, adresse e-mail, numéro de téléphone, identifiants de réseau social, âge, genre
-
-#### Identifiants
-
-ID utilisateur, ID d’appareil
-
-#### Informations financières
-
-Informations de paiement, transactions
-
-#### Localisation
-
-Localisation approximative
-
-#### Données d’utilisation
-
-Interactions avec le produit, données publicitaires
-
-#### Contenu de l’utilisateur
-
-Photos, données audio, demandes adressées au Service client
-
-#### Historique de recherche
-
-Recherches
+Product interaction, advertising data
 
 #### Diagnostics
 
-Données de plantage, données de performance
+Crash data, performance data
 
-Conservation des données personnelles
--------------------------------------
+### Deezer’s communication
 
-Nous ne conservons vos données que le temps nécessaire à la réalisation des finalités pour lesquelles elles ont été collectées, ou tel que requis par la loi. Les durées de conservation spécifiées ci-dessous commencent à compter de la date de votre dernière interaction avec Deezer.
+We use your data to send you important information about your account and transactions, editorial recommendations, marketing communications, or to request your feedback. When sending you an email, we use pixel tags to know whether it has been read. This helps us to optimize our email campaigns and send you fewer emails if you don’t read them. You can accept or decline our communications in your [notification preferences](https://www.deezer.com/account/notifications).
 
-### 3 ans
+#### Contact info
 
-#### Informations de contact
+Name, email address, phone number, age
 
-Nom, adresse e-mail, numéro de téléphone, identifiants de réseau social, âge, genre
+#### Identifiers
 
-#### Identifiants
+User ID
 
-ID utilisateur, ID d’appareil
+#### Location
 
-#### Localisation
+Coarse location
 
-Localisation approximative
+#### Usage data
 
-#### Données d’utilisation
+Product interaction
 
-Interactions avec le produit, données publicitaires
+#### Search history
 
-#### Contenu de l’utilisateur
+Searches
 
-Photos, données audio
+### Deezer’s advertising
 
-#### Historique de recherche
+If you have subscribed to a paid plan, we use your data to find audiences that are similar to your profile. If you use our free service, we use your user ad profile to display targeted ads for Deezer on our or third-party sites or apps, exclude you from certain ad campaigns, and set capping so as not to present the same ad too repetitively. You can consent or object to such use in your cookie settings. If you object, only generic and less-relevant ads will be served.
 
-Recherches
+#### Contact info
+
+Email address, age, gender
+
+#### Identifiers
+
+User ID, device IDs
+
+#### Location
+
+Coarse location
+
+#### Usage data
+
+Product interaction, advertising data
+
+### Third-party advertising
+
+If you use our free service, we use your data to build your user ad profile, display targeted ads for third-party products or services on our sites or apps, exclude you from certain ad campaigns, and set capping so as not to present the same ad too repetitively. You can consent or object to such use in your cookie settings. If you object, only generic and less-relevant ads will be served.
+
+#### Contact info
+
+Age, gender
+
+#### Identifiers
+
+User ID, device IDs
+
+#### Location
+
+Coarse location
+
+#### Usage data
+
+Product interaction, advertising data
+
+### Customer Care
+
+We use your data to handle your requests submitted to our Customer Care, or when you want to exercise the statutory rights that you hold over your personal data.
+
+#### Contact info
+
+Name, email address, phone number, social logins, age, gender
+
+#### Identifiers
+
+User ID, device IDs
+
+#### Financial info
+
+Payment info, transactions
+
+#### Location
+
+Coarse location
+
+#### Usage data
+
+Product interaction, advertising data
+
+#### User content
+
+Photos, audio data, Customer Care request
+
+#### Search history
+
+Searches
 
 #### Diagnostics
 
-Données de plantage, données de performance
+Crash data, performance data
 
-### 5 ans
-
-#### Contenu de l’utilisateur
-
-Demandes adressées au Service client
-
-### 10 ans
-
-#### Informations financières
-
-Transactions (comme requis par le code monétaire et financier)
-
-Protection des données personnelles
------------------------------------
-
-Nous prenons des mesures de protection techniques, physiques et organisationnelles pour protéger vos données contre tout accès, utilisation ou divulgation qui ne serait pas autorisé, et pour empêcher leur perte ou leur altération.
-
-Lorsque nous mettons en œuvre ou faisons évoluer ces mesures, nous prenons en compte l’état de l’art, la nature du traitement, la sensibilité des données et les menaces et risques potentiels.
-
-*   Nous mettons en œuvre et maintenons des mesures techniques sophistiquées – telles que le cryptage – pour garantir que vos données sont enregistrées et utilisées de manière confidentielle et sécurisée.
-*   Nous restreignons et limitons l’accès à vos données – via des contrôles d’accès – et surveillons qui accède, utilise et transfère vos données personnelles – via des logs et des pistes d’audit.
-*   Les employés qui ont accès à vos données sont tenus de se conformer à de solides politiques de confidentialité, de protection et de sécurité des données.
-*   Les partenaires commerciaux et les prestataires de services avec lesquels nous partageons vos données sont également tenus de se conformer à des exigences contractuelles strictes en matière de confidentialité, de confidentialité et de sécurité des données.
-
-Partage des données personnelles
---------------------------------
-
-Nous gérons vos données depuis la France (Deezer SA, 24 rue de Calais 75009 Paris), et nous pouvons les partager avec des prestataires et partenaires du monde entier.
-
-Certains de ces destinataires peuvent être situés dans des pays autres que celui dans lequel vous vous trouvez, et ces pays peuvent ne pas garantir un niveau de protection des données personnelles équivalent à celui de votre pays. Dans de tels cas, nous prenons toutes les mesures nécessaires pour garantir que ces destinataires fournissent des garanties appropriées, telles que l’exécution de clauses standard de protection des données et la mise en œuvre de mesures de sécurité adéquates.
-
-Vous pouvez contacter notre Délégué à la protection des données via ce [formulaire](https://support.deezer.com/hc/fr/requests/new?ticket_form_id=360000057869) pour plus d’informations sur le partage de données.
-
-### Fournisseurs de services
-
-Nous faisons régulièrement appel à des prestataires de services pour effectuer certaines tâches, telles que l’hébergement et le stockage de données, l’exploitation et la maintenance de nos infrastructures, la collecte de paiements ou la fourniture de services d’analyse ou de publicité. Dans tous ces cas, le partage est limité aux données nécessaires pour permettre à nos prestataires d’effectuer leurs tâches et nous leur demandons de protéger vos données.
-
-### Partenaires
-
-Parfois, nous pouvons partager vos données – dans la limite de ce qui est nécessaire – avec certains de nos partenaires, tels que des opérateurs de télécommunications, des sociétés de médias ou des sociétés distribuant nos offres, des labels de musique et des maisons de disques, ou des fabricants d’appareils audio. Nous leur demandons également de protéger vos données.
-
-### Autres
-
-Enfin, nous pouvons partager vos données avec nos sociétés mères et filiales, avec d’autres sociétés en cas d’acquisition, de fusion ou de vente, ou avec les forces de l’ordre.
-
-Vos droits sur vos données
+Retention of personal data
 --------------------------
 
-Nous nous engageons pleinement à vous permettre d’exercer vos droits sur vos données, certains pouvant être exercés directement dans vos paramètres, d’autres pouvant être exercés en contactant notre Service client. Veuillez voir ci-dessous comment procéder.
+We keep your data only for so long as necessary to fulfill the purposes for which it was collected, or as required by law. The retention periods specified below start from the date of your last interaction with Deezer.
 
-### Accès et portabilité des données
+### 3 years
 
-Vous pouvez accéder et obtenir une copie de vos données en contactant notre Service client via ce [formulaire](https://support.deezer.com/hc/fr/requests/new?ticket_form_id=360000057869).
+#### Contact info
 
-### Modification des données
+Name, email address, phone number, social logins, age, gender
 
-Vous pouvez modifier ou corriger vos informations de contact (nom, adresse e-mail, numéro de téléphone, identifiants sociaux, âge et genre) et votre contenu utilisateur (photos) directement dans votre [profil utilisateur](https://www.deezer.com/account), et vous pouvez modifier votre mode de paiement dans vos [paramètres de souscription](https://www.deezer.com/payment/go.php?subscription=1).
+#### Identifiers
 
-### Suppression des données
+User ID, device IDs
 
-Vous pouvez supprimer votre compte dans vos [paramètres de compte](https://www.deezer.com/account).
+#### Location
 
-### Retrait du consentement
+Coarse location
 
-Vous pouvez retirer votre consentement à l’utilisation de cookies et d’autres technologies de suivi dans vos paramètres de cookies.
+#### Usage data
 
-Vous pouvez également vous désinscrire de nos communications dans vos [préférences de notification](https://www.deezer.com/account/notifications).
+Product interaction, advertising data
 
-### Réclamation
+#### User content
 
-Si vous n’êtes pas satisfait(e) de notre réponse, vous pouvez contacter notre Délégué à la protection des données via ce [formulaire](https://support.deezer.com/hc/fr/requests/new?ticket_form_id=360000057869) ou déposer une réclamation auprès de l’autorité compétente.
+Photos, audio data
+
+#### Search history
+
+Searches
+
+#### Diagnostics
+
+Crash data, performance data
+
+### 5 years
+
+#### User content
+
+Customer Care requests
+
+### 10 years
+
+#### Financial info
+
+Transactions (as required by the Monetary and financial code)
+
+Protection of personal data
+---------------------------
+
+We take technical, physical and organizational safeguards to protect your data against unauthorized access, use or disclosure, and to prevent its loss or alteration.
+
+When implementing and improving these safeguards, we take into account the state of the art, the nature of the processing, the sensitivity of the data, and the potential threats and risks.
+
+*   We implement and maintain sophisticated technical measures – such as encryption – to ensure that your data is confidentially and securely recorded and used.
+*   We restrict and limit access to your data – via access controls – and monitor who accesses, uses, and transfers your personal data – via logs and audit trails.
+*   Employees who have access to your data are required to comply with strong data privacy, confidentiality and security policies.
+*   Business partners and service providers with whom we share your data are also required to comply with strong data privacy, confidentiality and security contractual requirements.
+
+Sharing of personal data
+------------------------
+
+Your data is controlled by us in France (Deezer SA, 24 rue de Calais 75009 Paris), and may be shared with service providers and partners around the world.
+
+Some of these recipients may be located in countries other than the one you are in, and these countries may not guarantee a level of personal data protection equivalent to that of your country. In such cases, we take all necessary measures to ensure that these recipients provide appropriate safeguards, such as the execution of standard data protection clauses and the implementation of adequate security measures.
+
+You can contact our Data Protection Officer through this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869) for more information on data sharing.
+
+### Service providers
+
+We regularly engage service providers to perform certain tasks on our behalf, such as hosting and storing data, operating and maintaining our infrastructures, collecting payments, or providing analytics or advertising services. In these cases, sharing is limited to the data necessary to allow our providers to perform their tasks, and we require them to protect your data.
+
+### Partners
+
+On occasion, we may share your data - limited to what is necessary - with some of our partners, such as telecommunication operators, media companies or other retailers distributing our offers, music labels and recording companies, or audio device manufacturers. We also require them to protect your data.
+
+### Others
+
+Finally, we may share your data with our parent companies and subsidiaries, with other companies in the event of an acquisition, merger or sale, or with law enforcement.
+
+Your rights on your data
+------------------------
+
+We are fully committed to enable you to exercise your rights on your data, some of which may be exercised directly in your settings, some of which may be exercised by contacting our Customer Care. Please see below for how to do this.
+
+### Data access and portability
+
+You can access and get a copy of your data by contacting our Customer Care via this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869).
+
+### Data modification
+
+You can modify or correct your contact information (name, email address, phone number, social logins, age and gender) and user content (photos) directly in your [user profile](https://www.deezer.com/account), and you can change your payment method in your [subscription settings](https://www.deezer.com/payment/go.php?subscription=1).
+
+### Data deletion
+
+You can delete your account in your [account settings](https://www.deezer.com/account).
+
+### Consent withdrawal
+
+You can withdraw your consent to the use of cookies and other tracking technologies in your cookie settings.
+
+You can also unsubscribe from our communications in your [notification preferences](https://www.deezer.com/account/notifications).
+
+### Escalation
+
+If you are not satisfied with our response, you can contact our Data Protection Officer through this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869) or lodge a complaint with the applicable authority.
