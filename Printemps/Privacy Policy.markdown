@@ -65,7 +65,7 @@ Vous trouverez dans les onglets ci-dessous les informations suivantes : 
 
   
 
-LA CRÉATION ET LA GESTION DE COMPTE SUR PRINTEMPS.COM
+### LA CRÉATION ET LA GESTION DE COMPTE SUR PRINTEMPS.COM
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -115,7 +115,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-LA GESTION ET LE SUIVI DES COMMANDES REALISEES SUR NOTRE SITE PRINTEMPS.COM
+### LA GESTION ET LE SUIVI DES COMMANDES REALISEES SUR NOTRE SITE PRINTEMPS.COM
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -157,7 +157,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-GERER LE PAIEMENT DE VOTRE COMMANDE ET VOUS GARANTIR L'UTILISATION DES DIVERS MOYENS DE PAIEMENT DISPONIBLES SUR LE SITE PRINTEMPS.COM
+### GERER LE PAIEMENT DE VOTRE COMMANDE ET VOUS GARANTIR L'UTILISATION DES DIVERS MOYENS DE PAIEMENT DISPONIBLES SUR LE SITE PRINTEMPS.COM
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -189,7 +189,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
   
 
-GERER LA CREATION DE LA CAGNOTTE EN LIGNE SUR LE SITE PRINTEMPS.COM
+### GERER LA CREATION DE LA CAGNOTTE EN LIGNE SUR LE SITE PRINTEMPS.COM
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -249,7 +249,7 @@ Combien de temps conservons-nous vos données à caractère personnel ? \*5
 
   
 
-VOUS INFORMER DE LA DISPONIBILITE D'UN PRODUIT QUE VOUS SOUHAITIEZ ACHETER SUR PRINTEMPS.COM
+### VOUS INFORMER DE LA DISPONIBILITE D'UN PRODUIT QUE VOUS SOUHAITIEZ ACHETER SUR PRINTEMPS.COM
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -268,7 +268,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
 Le temps nécessaire pour la réalisation des services
 
-L'OUVERTURE ET LA GESTION DE VOTRE LISTE SUR PRINTEMPS LISTES
+### L'OUVERTURE ET LA GESTION DE VOTRE LISTE SUR PRINTEMPS LISTES
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -344,7 +344,7 @@ Combien de temps conservons-nous vos données à caractère personnel ? \*5
 
 Un compte est ouvert jusqu'au premier anniversaire de l'évènement. Il peut être reconduit d'une année supplémentaire après étude du dossier. Les comptes dont le solde est équilibré par les opérations réalisées par les bénéficiaires de listes sont anonymisés 3 ans après la dernière date d'activité
 
-GERER VOS DONS PRINTEMPS LISTES
+### GERER VOS DONS PRINTEMPS LISTES
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
