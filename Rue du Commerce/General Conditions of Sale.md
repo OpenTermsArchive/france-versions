@@ -165,6 +165,8 @@ Lors de votre visite sur notre site, les services associés proposés sont signa
 
 ### 2.7 Le Pack Reprise
 
+**Important : Le service Pack Reprise n'est plus disponible à l'achat depuis le 21/02/2022. Si vous avez acheté le Pack Reprise avant cette date, votre coupon reste valable jusqu'à sa date d'expiration.**  
+  
 Lorsque vous achetez sur le site rueducommerce.fr un produit éligible (produits High-Tech - hors TV de plus de 55"- et petit électroménager dont le prix d’achat est supérieur à 50 euros et inférieur à 4 000 euros), signalé par la mention « Pack Reprise » sur la fiche produit, le service Pack Reprise est inclus.
 
 Ce service vous permet de renvoyer, pendant 1 an, votre produit éligible à notre partenaire SPB Services et de recevoir un bon d’achat d’une valeur de 80% du prix d’achat.
@@ -173,9 +175,7 @@ Les produits renvoyés doivent être en état de fonctionnement. Ils peuvent avo
 
 Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.fr pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
 
-Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation.
-
-Pour connaître les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf)
+Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation. 
 
 3\. Le traitement de la commande
 --------------------------------
@@ -984,6 +984,8 @@ Lors de votre visite sur notre site, les services associés proposés sont signa
 
 ### 2.7 Le Pack Reprise
 
+**Important : Le service Pack Reprise n'est plus disponible à l'achat depuis le 21/02/2022. Si vous avez acheté le Pack Reprise avant cette date, votre coupon reste valable jusqu'à sa date d'expiration.**  
+  
 Lorsque vous achetez sur le site rueducommerce.fr un produit éligible (produits High-Tech - hors TV de plus de 55"- et petit électroménager dont le prix d’achat est supérieur à 50 euros et inférieur à 4 000 euros), signalé par la mention « Pack Reprise » sur la fiche produit, le service Pack Reprise est inclus.
 
 Ce service vous permet de renvoyer, pendant 1 an, votre produit éligible à notre partenaire SPB Services et de recevoir un bon d’achat d’une valeur de 80% du prix d’achat.
@@ -992,9 +994,7 @@ Les produits renvoyés doivent être en état de fonctionnement. Ils peuvent avo
 
 Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.fr pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
 
-Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation.
-
-Pour connaître les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf)
+Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation. 
 
 3\. Le traitement de la commande
 --------------------------------
