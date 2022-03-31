@@ -151,7 +151,8 @@ VIII – DROIT DE RETRACTATION
 ----------------------------
 
 Le Client dispose d’un délai de quinze (15) jours ouvrés suivant la réception et l’acceptation du colis pour exercer son droit de rétractation sans qu’il lui soit besoin d’en justifier la cause.  
-Pour exercer son droit de rétractation, conformément aux dispositions légales, le Client pourra nous adresser le formulaire-type de rétractation (Annexe 2 – vous pouvez également le télécharger ici : [https://www.cop-copine.com/media/pdf/Formulairederetractation.pdf](https://www.cop-copine.com/media/pdf/Formulairederetractation.pdf) dûment rempli à l'adresse suivante :  
+  
+Pour exercer son droit de rétractation, conformément aux dispositions légales, le Client pourra nous adresser le formulaire-type de rétractation à télécharger ici :[https://img-cc.wshop.cloud/docs/formulairederetractation.pdf](https://img-cc.wshop.cloud/docs/formulairederetractation.pdf) dûment rempli à l'adresse suivante :  
   
 COP. COPINE  
 Service Clients E-boutique  
