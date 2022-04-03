@@ -1245,7 +1245,7 @@ La résiliation de l’Abonnement sera effective immédiatement, sans préavis n
 Le solde de la Cagnotte de l’Abonné éventuellement disponible à la date de résiliation effective de l’Abonnement au Service sera définitivement perdu. 
 
   
-**7.2 Résiliation par l’Abonné**
+**7.2 Résiliation par l’Abonnê**
 
 Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service, Cdiscount rappellera à l’Abonné, par email, sa possibilité de ne pas renouveler son Abonnement.  
   
@@ -1785,7 +1785,7 @@ Le bon d’achat est valable un (1) an à compter de sa date d’émission et ut
 4.1. Livraison garantie le jour J  
   
   
-Pour toute commande d’un ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos précommandés, et ce, quel que soit le montant de votre commande.  
+Pour toute commande d’un ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos prêcommandés, et ce, quel que soit le montant de votre commande.  
   
 4.2. Livraison offerte dès vingt-cinq euros (25 €)  
   
