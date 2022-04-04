@@ -8,7 +8,7 @@ ARTICLE 1 – PREAMBULE
 
 JULES, Société par Actions Simplifiée au capital de 32 960 825 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, dont le numéro de TVA intracommunautaire est FR 78 305 154 262, représentée par Franck Poillon, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« **Jules** ») édite le site Internet [www.jules.com/fr-fr](https://www.jules.com/) (le « **Site Internet** ») par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Brice en France (les « **Produits** »).  
   
-Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [Service-clients@jules.fr](mailto:Service-clients@jules.fr)  
+Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [support@support-jules.zendesk.com](mailto:support@support-jules.zendesk.com)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
@@ -373,7 +373,7 @@ ARTICLE 1 – PREAMBULE
 
 Jules, Société par Actions Simplifiée au capital de 32 732 042,76 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, représentée par Jean-Christophe Garbino, Directeur Général et en cette qualité Directeur de la publication (**"Jules"**) édite le site Internet www.Jules.com (**Le "Site Internet "**) par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Jules (**Les "Produits"**)») a mis en place un programme de fidélité réservé à ses clients et prospects particuliers (les « Adhérents ») dénommé « Jules Club » (le « Programme »). .  
   
-Téléphone : [0800301527](tel:0800301527) / E-mail : [contactwebJules@Jules.fr](mailto:contactwebJules@jules.fr)  
+Téléphone : [0800301527](tel:0800301527) / E-mail : [support@support-jules.zendesk.com](mailto:support@support-jules.zendesk.com)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
