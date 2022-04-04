@@ -8,7 +8,7 @@ ARTICLE 1 – PREAMBULE
 
 JULES, Société par Actions Simplifiée au capital de 32 960 825 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, dont le numéro de TVA intracommunautaire est FR 78 305 154 262, représentée par Franck Poillon, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« Jules ») édite le site Internet www.brice.fr (le « Site Internet ») par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Brice en France (les « Produits »).  
   
-Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [Service-clients@jules.fr](mailto:Service-clients@jules.fr)  
+Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [support@support-brice.zendesk.com](mailto:support@support-brice.zendesk.com)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
@@ -216,7 +216,7 @@ ARTICLE 9 – RETOUR DES PRODUITS
 
 Conformément à l’article L221-18 du Code de la consommation, le Client dispose d'un délai de rétractation de quatorze (14) jours à compter de la réception de sa commande.  
   
-Le Client peut notifier à Jules, son intention d’exercer ce droit par courrier en précisant ses nom, prénom, adresse, numéro de commande, date de passation de la commande, date de réception de la commande et référence de l’article concerné par la rétractation. Le Client a également la possibilité d’utiliser le modèle de formulaire de rétractation à remplir [ici](https://www.brice.fr/on/demandware.static/-/Sites-Brice-SFRA-Library/fr_FR/v1649064276849/cgv/formulaire-de-retractation.pdf).  
+Le Client peut notifier à Jules, son intention d’exercer ce droit par courrier en précisant ses nom, prénom, adresse, numéro de commande, date de passation de la commande, date de réception de la commande et référence de l’article concerné par la rétractation. Le Client a également la possibilité d’utiliser le modèle de formulaire de rétractation à remplir [ici](https://www.brice.fr/on/demandware.static/-/Sites-Brice-SFRA-Library/fr_FR/dwcba93c1d/cgv/formulaire-de-retractation.pdf).  
   
 Le Client bénéficie alors d’un délai de quatorze (14) jours à compter de l’envoi du courrier mentionné ci-dessus ou de toute autre déclaration, dénuée d'ambiguïté, exprimant sa volonté de se rétracter, pour retourner sa commande.  
   
