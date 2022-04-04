@@ -1,50 +1,50 @@
 ### 1\. Définitions
 
-**« Billet »** désigne tout document valide donnant droit au transport ou son équivalent sous toute autre forme autre qu’imprimé, y compris électronique, envoyé ou autorisé par le Transporteur ou l’agent autorisé.
+**« Billet »** désigne tout document valide donnant droit au transport ou son équivalent sous toute autre forme autre qu’imprimé, y compris électronique, envoyé ou autorisé par le Transporteur ou l’agent autorisé.
 
 **« Partage de code »** signifie que Volotea peut vendre des vols opérés par d’autres transporteurs avec lesquels un accord a été signé pour ce faire.
 
-**« Conditions générales de transport »** ou **« Conditions »** désigne les conditions générales du contrat de transport aérien de passagers et bagages.
+**« Conditions générales de transport »** ou **« Conditions »** désigne les conditions générales du contrat de transport aérien de passagers et bagages.
 
-**« Convention de Chicago »** désigne la convention relative à l’Aviation Civile signée à Chicago le 7 décembre 1944.
+**« Convention de Chicago »** désigne la convention relative à l’Aviation Civile signée à Chicago le 7 décembre 1944.
 
-**« Convention de Montréal »** désigne la convention pour l’unification de certaines règles relatives au transport aérien international signée à Montréal le 28 mai 1999.
+**« Convention de Montréal »** désigne la convention pour l’unification de certaines règles relatives au transport aérien international signée à Montréal le 28 mai 1999.
 
-**« Convention de Varsovie »** désigne la convention pour l’unification de certaines règles relatives au transport aérien international du 12 octobre 1929.
+**« Convention de Varsovie »** désigne la convention pour l’unification de certaines règles relatives au transport aérien international du 12 octobre 1929.
 
-**« Droits de Tirages Spéciaux ou DTS »** se réfère à une valeur dont l’équivalence est établie périodiquement par le Fonds Monétaire International.
+**« Droits de Tirages Spéciaux ou DTS »** se réfère à une valeur dont l’équivalence est établie périodiquement par le Fonds Monétaire International.
 
-**« Loi de Navigation Aérienne ou LNA »** désigne la Loi 48/1960 du 21 juillet relative à la navigation aérienne.
+**« Loi de Navigation Aérienne ou LNA »** désigne la Loi 48/1960 du 21 juillet relative à la navigation aérienne.
 
-**« Marchandises dangereuses »** : tout article ou substance qui, lorsqu’il est transporté par voie aérienne peut représenter un risque important pour la santé, sécurité ou propriété telles que les explosifs, gaz, liquides ou solides inflammables, substances vénéneuses, toxiques ou infectieuses, substances radioactives ou corrosives.
+**« Marchandises dangereuses »** : tout article ou substance qui, lorsqu’il est transporté par voie aérienne peut représenter un risque important pour la santé, sécurité ou propriété telles que les explosifs, gaz, liquides ou solides inflammables, substances vénéneuses, toxiques ou infectieuses, substances radioactives ou corrosives.
 
-**« Passager »** désigne toute personne détentrice qui détient un Billet dont elle est le titulaire, à l’exception des membres de l’équipage opérationnel.
+**« Passager »** désigne toute personne détentrice qui détient un Billet dont elle est le titulaire, à l’exception des membres de l’équipage opérationnel.
 
-**« Décret royal 1316/2001 »** se réfère au Décret royal 1316/2001 du 30 novembre qui réglemente les réductions accordées sur le prix normal du transport aérien et maritime aux résidents des communautés autonomes des Canaries et des Îles Baléares et des villes de Ceuta et Melilla.
+**« Décret royal 1316/2001 »** se réfère au Décret royal 1316/2001 du 30 novembre qui réglemente les réductions accordées sur le prix normal du transport aérien et maritime aux résidents des communautés autonomes des Canaries et des Îles Baléares et des villes de Ceuta et Melilla.
 
-**« Règlement (CE) 2027/97 »** désigne le Règlement (CE) 2027/97 du Conseil du 9 octobre 1997 relatif à la responsabilité des compagnies aériennes au regard du transport aérien des passagers et de leur bagage, modifié par le Règlement (CE) 889/2002 du Parlement européen et du Conseil du 13 mai 2002.
+**« Règlement (CE) 2027/97 »** désigne le Règlement (CE) 2027/97 du Conseil du 9 octobre 1997 relatif à la responsabilité des compagnies aériennes au regard du transport aérien des passagers et de leur bagage, modifié par le Règlement (CE) 889/2002 du Parlement européen et du Conseil du 13 mai 2002.
 
-**« Règlement (CE) 261/2004 »** se réfère au Règlement (CE) 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des normes communes en matière d’indemnisation et d’assistance des passagers du transport aérien en cas de refus d’embarquement et d’annulation ou de retard important des vols.
+**« Règlement (CE) 261/2004 »** se réfère au Règlement (CE) 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des normes communes en matière d’indemnisation et d’assistance des passagers du transport aérien en cas de refus d’embarquement et d’annulation ou de retard important des vols.
 
-**« Règlement (CE) 2111/2005 »** désigne le Règlement (CE) 2111/2005 du Parlement européen et du Conseildu 14 décembre relatif à l’établissement d’une liste communautaire des compagnies aériennes qui font l’objet d’une interdiction d’exploitation dans la Communauté et l’information des passagers du transport aérien sur l’identité de la compagnie-opératrice et abrogeant l’article 9 de la directive 2004/36/CE.
+**« Règlement (CE) 2111/2005 »** désigne le Règlement (CE) 2111/2005 du Parlement européen et du Conseildu 14 décembre relatif à l’établissement d’une liste communautaire des compagnies aériennes qui font l’objet d’une interdiction d’exploitation dans la Communauté et l’information des passagers du transport aérien sur l’identité de la compagnie-opératrice et abrogeant l’article 9 de la directive 2004/36/CE.
 
-**« Règlement (CE) 1107/2006 »** désigne le Règlement (CE) 1107/2006 du Parlement européen et du Conseil du 5 juillet relatif aux droits des personnes handicapées ou à mobilité réduite **dans le transport aérien.**
+**« Règlement (CE) 1107/2006 »** désigne le Règlement (CE) 1107/2006 du Parlement européen et du Conseil du 5 juillet relatif aux droits des personnes handicapées ou à mobilité réduite **dans le transport aérien.**
 
-**« Règlement (CE) 1008/2008 »** désigne le Règlement (CE) 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant les normes communes pour l’exploitation des services aériens dans la Communauté.
+**« Règlement (CE) 1008/2008 »** désigne le Règlement (CE) 1008/2008 du Parlement européen et du Conseil du 24 septembre 2008 établissant les normes communes pour l’exploitation des services aériens dans la Communauté.
 
-**« Règlement (CE) 185/2010 »** désigne le Règlement (CE) 185/2010 de la Commission du 4 mars 2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté aérienne.
+**« Règlement (CE) 185/2010 »** désigne le Règlement (CE) 185/2010 de la Commission du 4 mars 2010 fixant des mesures détaillées pour la mise en œuvre des normes de base communes dans le domaine de la sûreté aérienne.
 
-**« Bulletin de bagages »** fait référence au document qui confirme la enregistrement des bagages. Ce document comprend le code localisateur du bagage facturé, afin de confirmer l’appartenance à son propriétaire et faciliter sa récupération en cas de perte.
+**« Bulletin de bagages »** fait référence au document qui confirme la enregistrement des bagages. Ce document comprend le code localisateur du bagage facturé, afin de confirmer l’appartenance à son propriétaire et faciliter sa récupération en cas de perte.
 
-**« Tarif »** se réfère aux prix indiqués en euros ou en monnaie locale à régler au Transporteur, à ses agents ou à d’autres vendeurs de billets pour le transport de passagers concernant les services aériens et les conditions applicables de ces prix.
+**« Tarif »** se réfère aux prix indiqués en euros ou en monnaie locale à régler au Transporteur, à ses agents ou à d’autres vendeurs de billets pour le transport de passagers concernant les services aériens et les conditions applicables de ces prix.
 
-**« Carte d’embarquement »** se réfère au document, différent du Billet, qui permet au Passager d’accéder à l’avion et qui peut être obtenu sur le site internet [http://www.volotea.com](https://www.volotea.com/fr/ "Home") jusqu’à 2 heures et 30 minutes avant le vol, au comptoir d’enregistrement ou aux bornes disposées à cet effet dans les terminaux d’enregistrement et aux comptoirs jusqu’à 35 minutes avant le vol.
+**« Carte d’embarquement »** se réfère au document, différent du Billet, qui permet au Passager d’accéder à l’avion et qui peut être obtenu sur le site internet [http://www.volotea.com](https://www.volotea.com/fr/ "Home") jusqu’à 2 heures et 30 minutes avant le vol, au comptoir d’enregistrement ou aux bornes disposées à cet effet dans les terminaux d’enregistrement et aux comptoirs jusqu’à 35 minutes avant le vol.
 
-**« Transporteur »** ou **« Volotea »** se réfèrent à Volotea, S.L. avec CIF : ES B64841927, ayant son siège social à l’aéroport des Asturies, Santiago del Monte (Castrillón), 33459, Espagne et inscrite au Registre Commercial de Asturias, Feuille 64, Volume 4282, inscription 2 AS-53816.
+**« Transporteur »** ou **« Volotea »** se réfèrent à Volotea, S.L. avec CIF : ES B64841927, ayant son siège social à l’aéroport des Asturies, Santiago del Monte (Castrillón), 33459, Espagne et inscrite au Registre Commercial de Asturias, Feuille 64, Volume 4282, inscription 2 AS-53816.
 
-**« Vol »** se réfère à un vol depuis un point de départ jusqu’à un point d’arrivée sans escale programmée pendant le vol.
+**« Vol »** se réfère à un vol depuis un point de départ jusqu’à un point d’arrivée sans escale programmée pendant le vol.
 
-**« Réservation »** se réfère à la réservation fait par le Passager par laquelle il acquiert un ou plusieurs Billets correspondant à des vols exploités par Volotea et des services auxiliaires, à laquelle attribues un certain nombre de confirmation alphanumérique une fois confirmé par Volotea selon ces Conditions Générales de Transport.
+**« Réservation »** se réfère à la réservation fait par le Passager par laquelle il acquiert un ou plusieurs Billets correspondant à des vols exploités par Volotea et des services auxiliaires, à laquelle attribues un certain nombre de confirmation alphanumérique une fois confirmé par Volotea selon ces Conditions Générales de Transport.
 
 * * *
 
@@ -54,11 +54,11 @@ L’objet des présentes Conditions générales de transport est de réglementer
 
 Tout transport effectué et autres services fournis par le Transporteur seront soumis à la règlementation suivante :
 
-> 1.  les conditions générales et dispositions figurant dans ces Conditions générales de transport ;
+> 1. les conditions générales et dispositions figurant dans ces Conditions générales de transport ;
 >     
-> 2.  les conditions particulières et spécifiques qui, le cas échéant, sont applicables selon le tarif et l’itinéraire correspondant ; et
+> 2. les conditions particulières et spécifiques qui, le cas échéant, sont applicables selon le tarif et l’itinéraire correspondant ; et
 >     
-> 3.  la règlementation internationale, communautaire et étatique en la matière et applicable.
+> 3. la règlementation internationale, communautaire et étatique en la matière et applicable.
 >     
 
 Les présentes Conditions générales de transport n’annuleront pas les droits indisponibles reconnus au Passager par la règlementation et la législation.
@@ -101,7 +101,7 @@ Les circonstances mentionnées au paragraphe ci-dessus devront se produire lors 
 
 Volotea ne permettra pas au Passager d’embarquer si les documents présentés ou si l’identité du Passager comportent une irrégularité quelconque. À défaut de présentation des justificatifs attestant de son statut de résident ou de famille nombreuse, le Passager devra, pour embarquer et dans la mesure des places disponibles, acheter un nouveau Billet non subventionné et acquitter la différence entre le prix initialement payé et le prix du nouveau Billet auquel aucune réduction n’aura été appliquée, conformément au tarif en vigueur le jour du vol. Dans le cas contraire, le Passager ne pourra pas embarquer à bord de l’avion et le montant du Billet ne lui sera pas remboursé.
 
-> 1.  #### Résidents
+> 1. #### Résidents
 >     
 >     Conformément à ce qui est prévu par le RD 1316/2001, le Passager résidant aux Baléares, Canaries, Ceuta et Melilla pourra bénéficier d’une réduction de 50% sur les tarifs en cas de vols directs entre ces communautés ou villes autonomes et le territoire péninsulaire. Dans le cas des Passagers résidant à Ceuta, ils bénéficieront d’une réduction identique sur les vols ayant comme provenance ou destination les aéroports de Málaga, Jerez ou Séville.
 >     
@@ -117,22 +117,22 @@ Volotea ne permettra pas au Passager d’embarquer si les documents présentés 
 >     
 >     Les Passagers désirant modifier leur Billet, si le tarif choisi permet d’effectuer ses modifications, devront prendre en considération que
 >     
->     1.  En cas de changement de Vol vers/depuis une destination non bonifiée contre un autre faisant l’objet d’une réduction, le statut de résident sera pris en compte pour le nouveau tronçon bonifié, et;
+>     1. En cas de changement de Vol vers/depuis une destination non bonifiée contre un autre faisant l’objet d’une réduction, le statut de résident sera pris en compte pour le nouveau tronçon bonifié, et;
 >         
->     2.  En cas de modification d’un Vol bonifié contre un trajet qui ne l’est pas, l’intégralité du montant du nouveau Vol devra être payée, sans réduction. Lesdites modifications ne pourront être effectuées qu’à travers le Service clientèle et peuvent entraîner des frais d’administration supplémentaires.
+>     2. En cas de modification d’un Vol bonifié contre un trajet qui ne l’est pas, l’intégralité du montant du nouveau Vol devra être payée, sans réduction. Lesdites modifications ne pourront être effectuées qu’à travers le Service clientèle et peuvent entraîner des frais d’administration supplémentaires.
 >         
 >     
 >     Au moment de la Réservation, le Passager devra communiquer son statut de résident ouvrant droit à cette réduction ; cette notification sera validée par voie télématique par le ministère espagnol de l’Équipement lors de l’émission du Billet. Les Passagers dont le statut de résident n’aura pas pu être validé par voie télématique, devront présenter au comptoir d’enregistrement et/ou d’embarquement les documents en cours de validité répertoriés ci-dessous afin de pouvoir bénéficier de la réduction à titre de résident :
 >     
->     (i) **Citoyens espagnols, de l’Union européenne, d’Islande, du Liechtenstein, de Norvège et de Suisse** : certificat délivré par la mairie dans laquelle ils sont inscrits (certificat de résidence), accompagné de la carte nationale d’identité ou du passeport.
+>     (i) **Citoyens espagnols, de l’Union européenne, d’Islande, du Liechtenstein, de Norvège et de Suisse** : certificat délivré par la mairie dans laquelle ils sont inscrits (certificat de résidence), accompagné de la carte nationale d’identité ou du passeport.
 >     
->     (ii) **Espagnols âgés de moins de 14 ans non titulaires d’une carte nationale d’identité** : certificat de résidence délivré par la mairie dans laquelle ils sont inscrits.
+>     (ii) **Espagnols âgés de moins de 14 ans non titulaires d’une carte nationale d’identité** : certificat de résidence délivré par la mairie dans laquelle ils sont inscrits.
 >     
->     (iii) **Ressortissants extracommunautaires** : certificat délivré par la mairie dans laquelle ils sont inscrits (certificat de résidence), ainsi que la carte de résident attestant de leur statut de membre de la famille d’un citoyen de l’Union ou de résident de longue durée ou permanent.
+>     (iii) **Ressortissants extracommunautaires** : certificat délivré par la mairie dans laquelle ils sont inscrits (certificat de résidence), ainsi que la carte de résident attestant de leur statut de membre de la famille d’un citoyen de l’Union ou de résident de longue durée ou permanent.
 >     
->     (iv) **Justificatifs pour les ressortissants extracommunautaires de longue durée** : certificat de résidence en cours de validité ainsi que la carte de résident en cours de validité attestant de leur statut de résident de longue durée.
+>     (iv) **Justificatifs pour les ressortissants extracommunautaires de longue durée** : certificat de résidence en cours de validité ainsi que la carte de résident en cours de validité attestant de leur statut de résident de longue durée.
 >     
-> 2.  #### Familles nombreuses
+> 2. #### Familles nombreuses
 >     
 >     Conformément aux dispositions de l’Arrêté FOM 3837/2006 du 28 novembre, en complément de la Loi 40/2003 du 18 novembre relative à la protection des familles nombreuses et la législation complémentaire, les Passagers qui prétendent à cette réduction sur des Vols nationaux devront le notifier lors de la Réservation en fournissant une attestation de leur statut auprès de nos comptoirs d’enregistrement et /ou d’embarquement par la présentation de leur carte nationale d’identité et de leur titre de famille nombreuse qui leur aura été délivré par la Communauté ou la Ville autonome dont ils dépendent, ces deux pièces devant être toutes deux en cours de validité.
 >     
@@ -143,13 +143,13 @@ Volotea ne permettra pas au Passager d’embarquer si les documents présentés 
 
 Excepté ce qui est prévu par ces conditions et tout autre mode confirmé dans le tarif ou par l’assurance annulation correspondante, Volotea ne sera nullement responsable en cas de non-utilisation du Billet par le Passager pour le vol correspondant. Ce qui est mentionné précédemment n’oblige nullement Volotea à restituer le montant versé ou rembourser le prix du Billet.
 
-Volotea ne remboursera pas, en cas de non-utilisation du Billet de la part du Passager, le supplément de combustible, les frais de dossier, les impôts ou tout autre montant réglé par le Passager pour le vol contracté. Cependant, Volotea devra rembourser le montant payé par le Passager pour les taxes aéroportuaires et de sécurité si ce dernier en fait la demande. Cette demande peut être effectuée par le biais de notre [formulaire en ligne](https://www.volotea.com/fr/contact/ "Contact") (gratuit), en appelant notre service client ou par courrier. Le remboursement sera effectué dans un délai de trente jours à compter de la demande.
+Volotea ne remboursera pas, en cas de non-utilisation du Billet de la part du Passager, le supplément de combustible, les frais de dossier, les impôts ou tout autre montant réglé par le Passager pour le vol contracté. Cependant, Volotea devra rembourser le montant payé par le Passager pour les taxes aéroportuaires et de sécurité si ce dernier en fait la demande. Cette demande peut être effectuée par le biais de notre [formulaire en ligne](https://www.volotea.com/fr/contact/ "Contact") (gratuit), en appelant notre service client ou par courrier. Le remboursement sera effectué dans un délai de trente jours à compter de la demande.
 
 #### 4.5 Circonstances exceptionnelles
 
 De manière générale, Volotea ne sera pas responsable de la non-utilisation du Billet par le Passager et, par conséquent, son prix ne sera pas remboursable, sauf s’il s’agit d’un cas fortuit ou de force majeure imputable à Volotea.
 
-En cas de circonstances exceptionnelles empêchant le passager de voyager, ce dernier devra contacter le service client de Volotea en joignant une copie de la documentation prouvant lesdites circonstances exceptionnelles. Pour cela, le passager devra remplir le formulaire de contact disponible à l’adresse suivante : [https://www.volotea.com/fr/contact/email](https://www.volotea.com/fr/contact/email)
+En cas de circonstances exceptionnelles empêchant le passager de voyager, ce dernier devra contacter le service client de Volotea en joignant une copie de la documentation prouvant lesdites circonstances exceptionnelles. Pour cela, le passager devra remplir le formulaire de contact disponible à l’adresse suivante : [https://www.volotea.com/fr/contact/email](https://www.volotea.com/fr/contact/email)
 
 En cas d’intervention chirurgicale ou de décès d’un proche, conjoint ou concubin, seuls seront acceptés les certificats médicaux ou de décès qui devront être présentés dans un délai de 7 jours ouvrables à compter de la date à laquelle s’est produite l’éventualité.
 
@@ -209,7 +209,7 @@ Le Plan Flex est disponible sur tous les vols et inclut les services suivants, c
 
 Si le Plan Flex est souscrit durant la procédure d'achat, il sera possible d'effectuer un nombre illimité de changements gratuits de la date et de l'heure de départ du vol de votre Réservation originale, en créditant la différence de prix entre le billet original et le prix du Billet disponible au moment du changement, le cas échéant. Les changements au niveau des Réservations faites avec le Plan Flex sont conditionnés à la disponibilité de places sur les vols alternatifs. Le passager devra effectuer tout changement au niveau de la Réservation avec le Plan Flex avec au moins quatre (4) heures d'avance par rapport à l'heure de départ de la Réservation originale ; dans le cas contraire, le droit d'effectuer un changement sera perdu.
 
-Le Plan Flex pourra être annulé gratuitement, sous réserve qu'il soit sollicité par l'intermédiaire des [canaux de communication de Volotea](https://www.volotea.com/fr/contact/ "Contact") dans les premières vingt-quatre (24) heures après la Réservation initiale. Dans ce cas, le service sera annulé et le passager recevra le remboursement du prix payé pour le Plan Flex.
+Le Plan Flex pourra être annulé gratuitement, sous réserve qu'il soit sollicité par l'intermédiaire des [canaux de communication de Volotea](https://www.volotea.com/fr/contact/ "Contact") dans les premières vingt-quatre (24) heures après la Réservation initiale. Dans ce cas, le service sera annulé et le passager recevra le remboursement du prix payé pour le Plan Flex.
 
 Si le Passager décide de changer les horaires de vol de sa Réservation en accord avec le Plan Flex, il assume l'entière responsabilité d'effectuer les changements nécessaires au niveau des autres services, distincts du Vol, qu'il a pu souscrire, comme la location de voiture, les assurances ou l'hébergement, indépendamment du fait que ces services soient promus ou disponibles sur le site Web de Volotea, www.volotea.com.
 
@@ -217,9 +217,9 @@ Cependant, si le Passager a souscrit un équipement sportif, un bagage facturé 
 
 **5.5.2 Annulation de la Réservation avec le Plan Flex**
 
-Qui a contracté le Plan Flex pourra annuler un vol sans avoir besoin d'alléguer une quelconque cause. L'annulation devra toujours être effectuée au plus tard quatre (4) heures avant l'heure programmée de départ du premier des trajets. Si l'un des trajets compris dans la Réservation a été réalisé, il ne sera pas possible d'annuler l'autre.
+Qui a contracté le Plan Flex pourra annuler un vol sans avoir besoin d'alléguer une quelconque cause. L'annulation devra toujours être effectuée au plus tard quatre (4) heures avant l'heure programmée de départ du premier des trajets. Si l'un des trajets compris dans la Réservation a été réalisé, il ne sera pas possible d'annuler l'autre.
 
-Si le Passager exerce ce droit, le prix de la Réservation sera réintégré sur le compte de crédits associé au profil d'utilisateur de la Réservation, conformément aux dispositions du paragraphe Conditions du Service d’Echange de Crédits. Le Passager récupérera ainsi un montant de Crédits égal à la somme totale de la réservation annulée, déduction faite du prix du service Plan Flex souscrit et, le cas échéant, du montant correspondant aux frais de paiement par carte bancaire. Le prix de la Réservation annulée ne sera en aucun cas remboursé en argent.
+Si le Passager exerce ce droit, le prix de la Réservation sera réintégré sur le compte de crédits associé au profil d'utilisateur de la Réservation, conformément aux dispositions du paragraphe Conditions du Service d’Echange de Crédits. Le Passager récupérera ainsi un montant de Crédits égal à la somme totale de la réservation annulée, déduction faite du prix du service Plan Flex souscrit et, le cas échéant, du montant correspondant aux frais de paiement par carte bancaire. Le prix de la Réservation annulée ne sera en aucun cas remboursé en argent.
 
 Le montant de la Réservation annulée, réintégré sur le compte de Crédits, pourra être échangé par le Passager lui-même durant un délai maximal (1) d'un an à partir de l'annulation de la Réservation en question, après cette date limite les Crédits seront expiré. Ce Crédit pourra être échangé contre des billets sur des vols réalisés par Volotea. Les Crédits ne sont en aucun cas échangeables contre de l'argent.
 
@@ -229,7 +229,7 @@ Le montant de la Réservation annulée, réintégré sur le compte de Crédits, 
 
 **« Service d'échange de Crédits »**: Le service d'échange de crédits dérivant du Plan Flex comprend (i) toute l'information opérationnelle sur le crédit qui peut être obtenu en ayant souscrit le Plan Flex durant la procédure de réservation, (ii) les services qui peuvent être obtenus avec l'échange du crédit, et (iii) la quantité nécessaire de crédits pour chaque opération d'échange ou de rachat.
 
-**«** **Crédits »** : ce sont ceux que reçoivent les utilisateurs qui sont identifiés comme tels en raison, exclusivement, du fait que qu'ils ont souscrit le Plan Flex durant la procédure de réservation et qui ont décidé, parmi les services que ce dernier offre, d'annuler la réservation, tout cela conformément aux conditions du Plan Flex.
+**«** **Crédits »** : ce sont ceux que reçoivent les utilisateurs qui sont identifiés comme tels en raison, exclusivement, du fait que qu'ils ont souscrit le Plan Flex durant la procédure de réservation et qui ont décidé, parmi les services que ce dernier offre, d'annuler la réservation, tout cela conformément aux conditions du Plan Flex.
 
 **5.5.3.2. Participation au profil d'utilisateur**
 
@@ -251,9 +251,9 @@ Le transfert de Crédits entre utilisateurs n'est pas permis. Cependant, il est 
 
 **5.5.3.4 Rachat ou échange des Crédits**
 
-Pour procéder à l'échange ou au rachat des Crédits conformément au Service d'Échange de Crédits, il sera nécessaire de s'identifier comme utilisateur, en confirmant son identité sur le canal en ligne. Si, pour des raisons techniques, l'échange des Crédits n'a pas été possible en ligne, vous pourrez nous contacter avec l'un des autres [canaux de communication de Volotea](https://www.volotea.com/fr/contact/ "Contact") , qui vous offriront d'autres alternatives.
+Pour procéder à l'échange ou au rachat des Crédits conformément au Service d'Échange de Crédits, il sera nécessaire de s'identifier comme utilisateur, en confirmant son identité sur le canal en ligne. Si, pour des raisons techniques, l'échange des Crédits n'a pas été possible en ligne, vous pourrez nous contacter avec l'un des autres [canaux de communication de Volotea](https://www.volotea.com/fr/contact/ "Contact") , qui vous offriront d'autres alternatives.
 
-Les Crédits pourront être échangés contre des services et produits de Volotea, ainsi que contre des billets pour des vols réalisés par Volotea, mais en aucun cas contre des produits ou services commercialisés par des tiers, même s'ils sont promus ou disponibles sur le site Web de Volotea. Les Crédits ne sont en aucun cas échangeables contre de l'argent.
+Les Crédits pourront être échangés contre des services et produits de Volotea, ainsi que contre des billets pour des vols réalisés par Volotea, mais en aucun cas contre des produits ou services commercialisés par des tiers, même s'ils sont promus ou disponibles sur le site Web de Volotea. Les Crédits ne sont en aucun cas échangeables contre de l'argent.
 
 Pour procéder au rachat des Crédits contre des Billets d'avion, les règles appliquées seront les suivantes:
 
@@ -263,7 +263,7 @@ Pour procéder au rachat des Crédits contre des Billets d'avion, les règles ap
 
 (iii) Enfin, le montant des réductions pourra se limiter à certains billets d'avion. Les réductions ou le crédit Volotea ne pourront, par exemple, pas être utilisés pour les vols bénéficiant de tarifs promotionnels.
 
-Volotea pourra modifier le service d'échange de Crédits sans avoir besoin de préavis. Toute mise à jour ou variation de ces conditions sera toujours publiée à [http://www.volotea.com/fr/conditions-legales/conditions-de-transport/](https://www.volotea.com/fr/conditions-legales/conditions-de-transport/ "Conditions de transport")
+Volotea pourra modifier le service d'échange de Crédits sans avoir besoin de préavis. Toute mise à jour ou variation de ces conditions sera toujours publiée à [http://www.volotea.com/fr/conditions-legales/conditions-de-transport/](https://www.volotea.com/fr/conditions-legales/conditions-de-transport/ "Conditions de transport")
 
 #### 5.6 Conditions de blocage de prix
 
@@ -283,7 +283,7 @@ Le prix du service de blocage de prix ne sera pas déduit du prix du vol sélect
 
 #### 6.1 Dispositions générales
 
-Les tarifs de Volotea n’incluent pas le transport des bagages autres que le bagage à main. Pour cela, le Passager qui désire enregistrer un bagage ou une valise devra payer le coût défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service").
+Les tarifs de Volotea n’incluent pas le transport des bagages autres que le bagage à main. Pour cela, le Passager qui désire enregistrer un bagage ou une valise devra payer le coût défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service").
 
 Le Passager devra joindre à son bagage une étiquette indiquant son identité. Volotea sera responsable du bagage du Passager dès son enregistrement. Le Transporteur remettra au Passager un reçu bagages avec un code d’identification qui sera également collé au bagage et conservé par le Passager jusqu’à sa réception.
 
@@ -291,24 +291,24 @@ Le Passager devra joindre à son bagage une étiquette indiquant son identité. 
 
 Il est interdit de transporter dans les bagages :
 
-> 1.  Objets qui, selon le Transporteur, ne sont pas correctement emballés ou empaquetés, peuvent représenter un danger pour l’avion, ses membres d’équipage ou les autres Passagers. Dans ce sens, les biens ou objets définis comme tels par les normes de l’OACI (Organisation de l’Aviation Civile Internationale) et les normes de l’IATA (International Air Transport Association) seront considérés comme dangereux.
+> 1. Objets qui, selon le Transporteur, ne sont pas correctement emballés ou empaquetés, peuvent représenter un danger pour l’avion, ses membres d’équipage ou les autres Passagers. Dans ce sens, les biens ou objets définis comme tels par les normes de l’OACI (Organisation de l’Aviation Civile Internationale) et les normes de l’IATA (International Air Transport Association) seront considérés comme dangereux.
 >     
-> 2.  Objets fragiles et/ou périssables, argent liquide; titres négociables, devises, valeurs mobilières, pierres et métaux précieux, appareils électroniques, ordinateurs, objets de valeur et pièces d’identité.
+> 2. Objets fragiles et/ou périssables, argent liquide; titres négociables, devises, valeurs mobilières, pierres et métaux précieux, appareils électroniques, ordinateurs, objets de valeur et pièces d’identité.
 >     
-> 3.  Armes à feu et tout objet y ressemblant, excepté celles destinées à des fins sportives et à la chasse. Les armes à feu pour le tir sportif et la chasse pourront être transportées en tant que bagage facturé si elles ne sont pas chargées, avec la sûreté mise et emballées dans une valise rigide de sorte à ne pas être abîmées pendant le vol. Le Passager devra informer le transport d’armes à feu lors de la réservation et présenter le permis correspondant. Il sera de la responsabilité du Passager de s’informer des restrictions de chaque pays. En plus de l’arme, le Passager pourra transporter 5 kg maximum de munitions qu’il devra emballer de manière opportune, séparées de l’arme. L’arme et les munitions ne pourront pas être transportées dans le même container. Le transport de munitions est soumis aux normes internationales relatives au transport des articles dangereux.
+> 3. Armes à feu et tout objet y ressemblant, excepté celles destinées à des fins sportives et à la chasse. Les armes à feu pour le tir sportif et la chasse pourront être transportées en tant que bagage facturé si elles ne sont pas chargées, avec la sûreté mise et emballées dans une valise rigide de sorte à ne pas être abîmées pendant le vol. Le Passager devra informer le transport d’armes à feu lors de la réservation et présenter le permis correspondant. Il sera de la responsabilité du Passager de s’informer des restrictions de chaque pays. En plus de l’arme, le Passager pourra transporter 5 kg maximum de munitions qu’il devra emballer de manière opportune, séparées de l’arme. L’arme et les munitions ne pourront pas être transportées dans le même container. Le transport de munitions est soumis aux normes internationales relatives au transport des articles dangereux.
 >     
-> 4.  Le Transporteur se réserve le droit d’accepter l’enregistrement de bagages comprenant des armes blanches anciennes (épées, couteaux et dagues).
+> 4. Le Transporteur se réserve le droit d’accepter l’enregistrement de bagages comprenant des armes blanches anciennes (épées, couteaux et dagues).
 >     
-> 5.  Animaux vivants, exceptés ceux mentionnés dans ces Conditions.
+> 5. Animaux vivants, exceptés ceux mentionnés dans ces Conditions.
 >     
-> 6.  Objets dont le Transporteur estime que leur poids, configuration, dimension, forme ou caractère les rendent impropres au transport.
+> 6. Objets dont le Transporteur estime que leur poids, configuration, dimension, forme ou caractère les rendent impropres au transport.
 >     
-> 7.  Articles ou objets dont le transport est interdit par la législation d’un pays de départ ou de destination du transport.
+> 7. Articles ou objets dont le transport est interdit par la législation d’un pays de départ ou de destination du transport.
 >     
 
 #### 6.3 Articles considérés comme des marchandises dangereuses
 
-Les éléments susceptibles de constituer un danger pour l'avion, les personnes ou les biens à bord de l'appareil, notamment ceux figurant sur la liste des marchandises dangereuses établie par l'Organisation de l'aviation civile internationale (OACI) et l'Association internationale du transport aérien (IATA), ne sont acceptés ni en soute ni en cabine sans l'accord préalable de Volotea. Ces éléments incluent, sans s'y limiter, des bouteilles de gaz, des liquides et des solides inflammables, des poisons, du matériel radioactif, des substances corrosives, des armes à feu et des explosifs. Pour en savoir plus, consulter nos [règles](https://www.volotea.com/fr/conditions-legales/conditions-de-transport/#15903) relatives aux marchandises dangereuses. 
+Les éléments susceptibles de constituer un danger pour l'avion, les personnes ou les biens à bord de l'appareil, notamment ceux figurant sur la liste des marchandises dangereuses établie par l'Organisation de l'aviation civile internationale (OACI) et l'Association internationale du transport aérien (IATA), ne sont acceptés ni en soute ni en cabine sans l'accord préalable de Volotea. Ces éléments incluent, sans s'y limiter, des bouteilles de gaz, des liquides et des solides inflammables, des poisons, du matériel radioactif, des substances corrosives, des armes à feu et des explosifs. Pour en savoir plus, consulter nos [règles](https://www.volotea.com/fr/conditions-legales/conditions-de-transport/#15903) relatives aux marchandises dangereuses. 
 
 #### 6.4 Droit du Transporteur de refuser le bagage
 
@@ -334,7 +334,7 @@ Chaque passager est autorisé à emmener à bord 1 petit sac dont les dimensions
 
 L'espace étant restreint, un maximum de 85 valises (55 × 40 × 20 cm) peuvent être transportées en cabine. Les bagages à main supplémentaires seront placés gratuitement en soute.
 
-À la porte d’embarquement, le bagage à main non conforme à la règlementation de la compagnie, c’est-à-dire dépassant le poids et/ou le volume indiqués ci-dessus, sera retiré et chargé dans la soute de l’avion avec un supplément défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service").
+À la porte d’embarquement, le bagage à main non conforme à la règlementation de la compagnie, c’est-à-dire dépassant le poids et/ou le volume indiqués ci-dessus, sera retiré et chargé dans la soute de l’avion avec un supplément défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service").
 
 Le Transporteur se réserve le droit d’annuler la réservation et refuser l’embarquement aux Passagers ne respectant pas les exigences indiqués précédemment concernant les bagages à main.
 
@@ -344,17 +344,17 @@ Les objets (y compris instruments de musique et objets semblables) qui ne respec
 
 Conformément à ce qui est prévu par le Règlement (UE) 185/2010, les objets suivants ne pourront pas être pris en bagage à main :
 
-> 1.  Armes à feu et autres dispositifs déchargeant des projectiles tels que les pistolets, arcs, fusils, rifles, carabines à plombs, etc.
+> 1. Armes à feu et autres dispositifs déchargeant des projectiles tels que les pistolets, arcs, fusils, rifles, carabines à plombs, etc.
 >     
-> 2.  Dispositifs pour étourdir comme les pistolets électriques, aérosols neutralisateurs ou incapacitants, pulvérisateurs, gaz lacrymogènes, etc.
+> 2. Dispositifs pour étourdir comme les pistolets électriques, aérosols neutralisateurs ou incapacitants, pulvérisateurs, gaz lacrymogènes, etc.
 >     
-> 3.  Objets tranchants ou coupants comme les haches, canifs, pics à glace, ciseaux et couteaux de lames supérieures à 6 cm de longueur, épées, etc.
+> 3. Objets tranchants ou coupants comme les haches, canifs, pics à glace, ciseaux et couteaux de lames supérieures à 6 cm de longueur, épées, etc.
 >     
-> 4.  Outils de travail pouvant blesser gravement ou menacer la sécurité de l’avion comme les perceuses, scies, chalumeaux, etc.
+> 4. Outils de travail pouvant blesser gravement ou menacer la sécurité de l’avion comme les perceuses, scies, chalumeaux, etc.
 >     
-> 5.  Objets contondants et autres pouvant être utilisés pour blesser gravement en cas de coup avec ceux-ci comme les battes de base-ball, bâtons, équipements d’arts martiaux, etc.
+> 5. Objets contondants et autres pouvant être utilisés pour blesser gravement en cas de coup avec ceux-ci comme les battes de base-ball, bâtons, équipements d’arts martiaux, etc.
 >     
-> 6.  Substances et dispositifs d’incendie comme les munitions, mines, grenades, dynamite, poudre, etc.
+> 6. Substances et dispositifs d’incendie comme les munitions, mines, grenades, dynamite, poudre, etc.
 >     
 
 Conformément à ce qui est prévu par le Règlement (UE) 185/2010, seuls peuvent être transportés comme bagage à main des liquides, aérosols et gels (LAG) et produits de consistance semblable (par exemple : dentifrice, gomina, boissons, soupes, parfum, mousse à raser, aérosols, lotions, pâte à tartiner alimentaire, etc.) à condition d’être transportés dans des emballages ne dépassant pas 100 ml chacun, disposés dans un sac transparent d’un volume de 100 cc maximum parfaitement scellé (sac STEB). Un seul sac plastique sera autorisé par Passager.
@@ -363,19 +363,19 @@ Seront autorisés à bord, les liquides ou semi-liquides devant être consommés
 
 Les liquides suivants seront également autorisés à l’entrée de l’avion :
 
-> 1.  Des emballages individuels d’un volume maximal de 100 ml ou équivalent, placés dans un sac en plastique transparent refermable d’un volume maximal d’un 1 litre facilement ajustable lorsqu’il est ferme ou
+> 1. Des emballages individuels d’un volume maximal de 100 ml ou équivalent, placés dans un sac en plastique transparent refermable d’un volume maximal d’un 1 litre facilement ajustable lorsqu’il est ferme ou
 >     
-> 2.  qui seront utilisés pendant le voyage et s’agissant de médicaments ou compléments diététiques spécifiques, y compris les aliments pour bébés. Si nécessaire, le Passager devra être en mesure de démontrer l’authenticité du LAG autorisé ou
+> 2. qui seront utilisés pendant le voyage et s’agissant de médicaments ou compléments diététiques spécifiques, y compris les aliments pour bébés. Si nécessaire, le Passager devra être en mesure de démontrer l’authenticité du LAG autorisé ou
 >     
-> 3.  obtenus dans la zone d’opérations après avoir passé le poste de contrôle des cartes d’embarquement, dans des points de vente soumis aux procédures de sécurité approuvées comme partie du programme de sécurité de l’aéroport si le LAG est emballé dans un sac STEB, dans lequel figure une preuve satisfaisante d’achat effectué dans cet aéroport en particulier à cette date ou
+> 3. obtenus dans la zone d’opérations après avoir passé le poste de contrôle des cartes d’embarquement, dans des points de vente soumis aux procédures de sécurité approuvées comme partie du programme de sécurité de l’aéroport si le LAG est emballé dans un sac STEB, dans lequel figure une preuve satisfaisante d’achat effectué dans cet aéroport en particulier à cette date ou
 >     
-> 4.  obtenus dans des points de vente situés dans la zone de restriction de sécurité soumise aux programmes de sécurité approuvés comme partie du programme de sécurité de l’aéroport ou
+> 4. obtenus dans des points de vente situés dans la zone de restriction de sécurité soumise aux programmes de sécurité approuvés comme partie du programme de sécurité de l’aéroport ou
 >     
-> 5.  obtenus dans un autre aéroport de l’Union Européenne si le LAG est transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué dans la zone d’opérations de cet aéroport en particulier à cette date ou
+> 5. obtenus dans un autre aéroport de l’Union Européenne si le LAG est transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué dans la zone d’opérations de cet aéroport en particulier à cette date ou
 >     
-> 6.  obtenus à bord d’un avion d’une compagnie aérienne communautaire et le LAG transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué à bord de l’avion en question à cette date ou
+> 6. obtenus à bord d’un avion d’une compagnie aérienne communautaire et le LAG transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué à bord de l’avion en question à cette date ou
 >     
-> 7.  obtenus dans un aéroport situé dans un des pays tiers de la liste de l’annexe 4-D du Règlement 185/2010 et le LAG transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué dans la zone d’opérations de cet aéroport au cours des dernières 36 heures. Les exceptions prévues dans ce point expireront le 29 avril 2013.
+> 7. obtenus dans un aéroport situé dans un des pays tiers de la liste de l’annexe 4-D du Règlement 185/2010 et le LAG transporté dans un sac STEB dans lequel figure une preuve satisfaisante d’achat effectué dans la zone d’opérations de cet aéroport au cours des dernières 36 heures. Les exceptions prévues dans ce point expireront le 29 avril 2013.
 >     
 
 Volotea refusera l’embarquement à tout moment et sans compensation économique aux bagages à main ne remplissant pas les conditions prévues par le règlement mentionné et dans la présente clause.
@@ -390,31 +390,31 @@ La poussette pourra être apportée jusqu’à la porte d’embarquement. Sur pl
 
 Le Passager à visibilité réduite qui, généralement, nécessite un chien guide d’aveugle pour se déplacer, pourra voyager avec lui en cabine à condition que l’animal soit correctement attaché et le Passager réponde des dommages qu’il pourrait occasionner aux autres passagers. Le Passager nécessitant ce genre d’animal pour se déplacer sera exempté de supplément pour le transport de l’animal mentionné.
 
-Lors du processus de réservation, le Passager peut accessoirement acheter le service de transport de son animal de compagnie (chats et chiens uniquement), service pour lequel il devra s’acquitter d’un [coût supplémentaire](https://www.volotea.com/fr/frais-de-service/ "Frais de service") et respecter les conditions suivantes:
+Lors du processus de réservation, le Passager peut accessoirement acheter le service de transport de son animal de compagnie (chats et chiens uniquement), service pour lequel il devra s’acquitter d’un [coût supplémentaire](https://www.volotea.com/fr/frais-de-service/ "Frais de service") et respecter les conditions suivantes:
 
-> 1.  L’animal de compagnie doit être transporté dans une cage ou un sac homologué non rigide spécialement conçu à cet effet, muni d’orifices pour lui permettre de respirer et pourvu d’une base imperméable ; les boîtes faites maison ne sont pas acceptées. Si, de l’avis exclusif du personnel au sol ou du personnel de vol, le container n’était pas considéré acceptable ou sécuritaire, il sera refusé.
+> 1. L’animal de compagnie doit être transporté dans une cage ou un sac homologué non rigide spécialement conçu à cet effet, muni d’orifices pour lui permettre de respirer et pourvu d’une base imperméable ; les boîtes faites maison ne sont pas acceptées. Si, de l’avis exclusif du personnel au sol ou du personnel de vol, le container n’était pas considéré acceptable ou sécuritaire, il sera refusé.
 >     
-> 2.  Un seul animal pourra être transporté par boîte et par Passager ; cela dit, il conviendra de s’en remettre aux conditions du paragraphe (iii) ci-dessous.
+> 2. Un seul animal pourra être transporté par boîte et par Passager ; cela dit, il conviendra de s’en remettre aux conditions du paragraphe (iii) ci-dessous.
 >     
-> 3.  Un maximum de deux animaux sera admis à bord en cabine sur un vol simple. Le système informatisé des réservations ne permettra pas l’acquisition de ce service aux passagers qui le souhaiteraient une fois que ce nombre maximum aura été atteint.
+> 3. Un maximum de deux animaux sera admis à bord en cabine sur un vol simple. Le système informatisé des réservations ne permettra pas l’acquisition de ce service aux passagers qui le souhaiteraient une fois que ce nombre maximum aura été atteint.
 >     
-> 4.  Le Passager qui acquiert le service de transport de son animal de compagnie doit effectuer le check-in à l’Aéroport. Le Passager doit tenir compte de la période de check-in maximum prévue à la section 7.1 des présentes Conditions de Transport.
+> 4. Le Passager qui acquiert le service de transport de son animal de compagnie doit effectuer le check-in à l’Aéroport. Le Passager doit tenir compte de la période de check-in maximum prévue à la section 7.1 des présentes Conditions de Transport.
 >     
-> 5.  Les dimensions maximum du container seront de 50 cm de long par 40 cm de large et 20 cm de haut.
+> 5. Les dimensions maximum du container seront de 50 cm de long par 40 cm de large et 20 cm de haut.
 >     
-> 6.  Le poids maximum de la cage (animal et ses accessoires compris) n’excèdera pas 10 Kg.
+> 6. Le poids maximum de la cage (animal et ses accessoires compris) n’excèdera pas 10 Kg.
 >     
-> 7.  Les récipients à nourriture et boisson doivent être munis d’un couvercle pour éviter tout renversement.
+> 7. Les récipients à nourriture et boisson doivent être munis d’un couvercle pour éviter tout renversement.
 >     
-> 8.  La cage souple doit être placée au sol, sous le siège devant le passager. Le transport de la cage sur le siège contigu à celui du Passager est interdit, quand bien même ce siège serait inoccupé. Il est également interdit de tenir la boîte sur les genoux.
+> 8. La cage souple doit être placée au sol, sous le siège devant le passager. Le transport de la cage sur le siège contigu à celui du Passager est interdit, quand bien même ce siège serait inoccupé. Il est également interdit de tenir la boîte sur les genoux.
 >     
-> 9.  Les animaux seront refusés si leurs caractéristiques particulières (mauvaise odeur, grossesse, état de santé ou hygiène, ou encore comportement violent, etc.) peuvent s’avérer gênants pour le reste des passagers.
+> 9. Les animaux seront refusés si leurs caractéristiques particulières (mauvaise odeur, grossesse, état de santé ou hygiène, ou encore comportement violent, etc.) peuvent s’avérer gênants pour le reste des passagers.
 >     
-> 10.  En aucun cas l’animal ne pourra être libéré de son container à partir de l’embarquement et jusqu’à la descente de l’avion.
+> 10. En aucun cas l’animal ne pourra être libéré de son container à partir de l’embarquement et jusqu’à la descente de l’avion.
 >     
-> 11.  Il est indispensable que le passager ait avec lui les documents nécessaires à l’importation/exportation ou au transit de l’animal, ainsi que le document d’identité (ou le passeport) de l’animal de compagnie et son certificat médical. 
+> 11. Il est indispensable que le passager ait avec lui les documents nécessaires à l’importation/exportation ou au transit de l’animal, ainsi que le document d’identité (ou le passeport) de l’animal de compagnie et son certificat médical. 
 >     
-> 12.  L’animal de compagnie devra être âgé d’au moins 8 semaines et disposer de tous les vaccins nécessaires afin d’être admis à bord.
+> 12. L’animal de compagnie devra être âgé d’au moins 8 semaines et disposer de tous les vaccins nécessaires afin d’être admis à bord.
 >     
 
 Du fait des règlementations nationales, Volotea ne permettra pas à ce type d’animaux d’être transportés sur ses vols en provenance et à destination du Royaume-Uni, de République d’Irlande et Malte.
@@ -461,7 +461,7 @@ Si le Passager achète deux ou plusieurs vols avec des horaires consécutifs, il
 
 #### 7.1 Délai maximum d’enregistrement
 
-Le Passager doit arriver à l’aéroport suffisamment à l’avance par rapport à l’heure de départ du vol, afin de se conformer à toutes les obligations et formalités et, le cas échéant, à l’enregistrement de ses bagages. Les comptoirs d’enregistrement ouvriront deux heures avant et fermeront 35 minutes avant le départ du vol prévu (même en cas de retard du vol). Dans tous les aéroports italians _et grecs_, le comptoir d’enregistrement ferme 40 minutes avant le départ du vol. À l’aéroport de Palma de Majorque, le comptoir d’enregistrement ferme 45 minutes avant le départ du vol. L'heure limite d'**enregistrement pour les vols internationaux (destination Algérie et Maroc) est fixée à 60 minutes avant** l'heure du départ.
+Le Passager doit arriver à l’aéroport suffisamment à l’avance par rapport à l’heure de départ du vol, afin de se conformer à toutes les obligations et formalités et, le cas échéant, à l’enregistrement de ses bagages. Les comptoirs d’enregistrement ouvriront deux heures avant et fermeront 35 minutes avant le départ du vol prévu (même en cas de retard du vol). Dans tous les aéroports italians _et grecs_, le comptoir d’enregistrement ferme 40 minutes avant le départ du vol. À l’aéroport de Palma de Majorque, le comptoir d’enregistrement ferme 45 minutes avant le départ du vol. L'heure limite d'**enregistrement pour les vols internationaux (destination Algérie et Maroc) est fixée à 60 minutes avant** l'heure du départ.
 
 Au-delà de ce délai, aucun bagage ne sera accepté ni aucune carte d’embarquement ne sera délivrée. Au-delà du délai maximum d’enregistrement, le Transporteur pourra céder les sièges des Passagers ayant une réservation et sans carte d’embarquement préalable sans avoir été identifié au comptoir d’enregistrement aux Passagers en attente de confirmation présents sur la liste d’attente.
 
@@ -499,7 +499,7 @@ Les Passagers devront se soumettre à la règlementation du contrôle de sécuri
 
 #### 10.1 Embarquement
 
-L'embarquement au départ des aéroports d'Italie et de Grèce commencera 40 minutes avant le départ de votre vol et se terminera 20 minutes avant celui-ci. Dans tous les autres aéroports, lorsque cela n’est pas spécifié, l’embarquement commencera 35 minutes avant le départ du vol et la porte d’embarquement sera fermée 15 minutes avant le départ.
+L'embarquement au départ des aéroports d'Italie et de Grèce commencera 40 minutes avant le départ de votre vol et se terminera 20 minutes avant celui-ci. Dans tous les autres aéroports, lorsque cela n’est pas spécifié, l’embarquement commencera 35 minutes avant le départ du vol et la porte d’embarquement sera fermée 15 minutes avant le départ.
 
 Les Passagers arrivant au-delà du délai mentionné dans le paragraphe précédent au comptoir d’embarquement ne seront pas admis à bord, ne pourront prétendre à aucune compensation pour refus d’embarquement et devront répondre en cas de préjudices occasionnés à Volotea si les bagages doivent être localisés et retirés de l’avion en cas d’enregistrement sans la présentation du Passager à la porte d’embarquement dans les délais impartis.
 
@@ -527,46 +527,46 @@ De même, Volotea ne pourra être tenu pour responsable dans le cas où d’autr
 
 Le Transporteur pourra refuser à tout moment le transport d’un Passager dans les cas suivants :
 
-> 1.  En cas de motifs fondés au nom de la sécurité publique.
+> 1. En cas de motifs fondés au nom de la sécurité publique.
 >     
-> 2.  Nécessaire pour respecter les lois et normes applicables dans un pays d’origine ou destination.
+> 2. Nécessaire pour respecter les lois et normes applicables dans un pays d’origine ou destination.
 >     
-> 3.  Conséquence de la conduite, état, âge ou condition mentale ou physique du Passager, jugé opportun.
+> 3. Conséquence de la conduite, état, âge ou condition mentale ou physique du Passager, jugé opportun.
 >     
-> 4.  Il s’agit d’une mesure nécessaire, afin d’éviter tout dommage, incommodité ou dérangement importants aux autres Passagers ou à l’équipage.
+> 4. Il s’agit d’une mesure nécessaire, afin d’éviter tout dommage, incommodité ou dérangement importants aux autres Passagers ou à l’équipage.
 >     
-> 5.  Nécessaire ou opportun, car le Passager n’a pas respecté de manière répétitive les normes du Transporteur.
+> 5. Nécessaire ou opportun, car le Passager n’a pas respecté de manière répétitive les normes du Transporteur.
 >     
-> 6.  Le passager provoque de façon intentionnelle le retard d’un vol, notamment au moment de l’embarquement ou débarquement de l’avion.
+> 6. Le passager provoque de façon intentionnelle le retard d’un vol, notamment au moment de l’embarquement ou débarquement de l’avion.
 >     
-> 7.  Le Passager a présenté au Transporteur un document a) vraisemblablement obtenu de façon illégale, b) qui aurait été déclaré au préalable comme perdu ou volé ou c) vraisemblablement faux ou contenant des modifications ou altérations de tout type non effectuées par le Transporteur.
+> 7. Le Passager a présenté au Transporteur un document a) vraisemblablement obtenu de façon illégale, b) qui aurait été déclaré au préalable comme perdu ou volé ou c) vraisemblablement faux ou contenant des modifications ou altérations de tout type non effectuées par le Transporteur.
 >     
-> 8.  La personne qui se présente au comptoir du Transporteur ne correspond pas au titulaire du Billet. Dans ce cas, le Transporteur se réserve le droit de conserver ce Billet.
+> 8. La personne qui se présente au comptoir du Transporteur ne correspond pas au titulaire du Billet. Dans ce cas, le Transporteur se réserve le droit de conserver ce Billet.
 >     
-> 9.  Le Passager n’a pas pu prouver qu’il avait payé la totalité du Billet ou la transaction de paiement du Billet, par carte bancaire, a été annulée.
+> 9. Le Passager n’a pas pu prouver qu’il avait payé la totalité du Billet ou la transaction de paiement du Billet, par carte bancaire, a été annulée.
 >     
-> 10.  Le Passager n’est pas en possession des documents de voyage requis, conformément aux conditions prévues aux paragraphes 8.1 et 11.2 des présentes conditions.
+> 10. Le Passager n’est pas en possession des documents de voyage requis, conformément aux conditions prévues aux paragraphes 8.1 et 11.2 des présentes conditions.
 >     
 
 #### 11.2 Restrictions au transport
 
-1.  #### Femmes enceintes:
+1. #### Femmes enceintes:
     
     Le Transporteur accepte de transporter les femmes enceintes jusqu’à la 27e semaine de grossesse (incluse) sans fournir de certificat médical. Quand le voyage se produit entre la 28e et la 35e semaine de grossesse (comprises), il sera nécessaire de présenter une autorisation originale du médecin confirmant l’aptitude de la passagère à voler. Cette autorisation doit également indiquer la période de validité, le numéro d’inscription à l’Ordre et la signature du médecin. Les passagères qui se trouvent dans la 36e semaine de grossesse et au-delà ne seront pas acceptées à bord.
     
-2.  #### Mineurs:
+2. #### Mineurs:
     
-    Les moins de 12 ans ne pourront voyager que s’ils sont accompagnés de leur père, mère, tuteur légal ou d’une personne responsable de plus de 16 ans figurant sur la même réservation. Nous ne fournissons pas d’assistance speciale. Les plus de 12 ans pourront voyager seuls, à l’exception des vols ayant leur origine dans les aéroports italiens, où l’âge minimum pour voyager sans accompagnateur est de 14 ans. Les bébés de moins de 7 jours ne peuvent être admis à bord. Les enfants de 7 jours à 2 ans (« Bébés ») voyageront sur les genoux de leur père ou de leur mère, sans possibilité d’apporter un siège d’enfant additionnel ou un berceau (Nonobstant les dispositions la section 6.9 de ces conditions). Bébés devront payer un forfait de coût défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service") par trajet. Il est impossible de réserver des sièges supplémentaires pour les nourrissons. Les Bébés ne bénéficient pas d'une franchise de bagages. Si l'enfant atteint l'âge de 2 ans avant la date du vol retour, le vol retour sera facturé au tarif applicable (taxes et surtaxes incluses).
+    Les moins de 12 ans ne pourront voyager que s’ils sont accompagnés de leur père, mère, tuteur légal ou d’une personne responsable de plus de 16 ans figurant sur la même réservation. Nous ne fournissons pas d’assistance speciale. Les plus de 12 ans pourront voyager seuls, à l’exception des vols ayant leur origine dans les aéroports italiens, où l’âge minimum pour voyager sans accompagnateur est de 14 ans. Les bébés de moins de 7 jours ne peuvent être admis à bord. Les enfants de 7 jours à 2 ans (« Bébés ») voyageront sur les genoux de leur père ou de leur mère, sans possibilité d’apporter un siège d’enfant additionnel ou un berceau (Nonobstant les dispositions la section 6.9 de ces conditions). Bébés devront payer un forfait de coût défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service") par trajet. Il est impossible de réserver des sièges supplémentaires pour les nourrissons. Les Bébés ne bénéficient pas d'une franchise de bagages. Si l'enfant atteint l'âge de 2 ans avant la date du vol retour, le vol retour sera facturé au tarif applicable (taxes et surtaxes incluses).
     
     Les passagers de moins de 18 ans, indépendamment de leur âge et du fait qu’ils voyagent seuls ou accompagnés, devront montrer leur propre pièce d’identité pour tout voyage au sein de l’espace Schengen/UE (y compris les vols intérieurs) et leur passeport en vigueur pour tout autre vol, et cela sans préjudice de ce qui est indiqué dans l’article 8 de ces Conditions.
     
     Seuls les passagers mineurs mais âgés de 14 ans et plus disposant d’une carte d’identité ou d’un passeport à leur nom en vigueur seront acceptés à bord. Les mineurs de moins de 12 ans devront également posséder un passeport ou une carte d’identité.
     
-    Pour plus d'informations, veuillez consulter la [Documentation de Voyage](https://www.volotea.com/fr/votre-reservation/documents-pour-le-vol/ "Documents pour le vol").
+    Pour plus d'informations, veuillez consulter la [Documentation de Voyage](https://www.volotea.com/fr/votre-reservation/documents-pour-le-vol/ "Documents pour le vol").
     
     Nous nous réservons le droit d’annuler votre réservation, sans aucun remboursement, et de vous refuser l’accès à bord de l’appareil si vous ne vous conformez pas aux règlements ci-dessus relatifs aux nourrissons, aux enfants et aux adolescents.
     
-3.  #### Passagers atteints de maladies et d’infections :
+3. #### Passagers atteints de maladies et d’infections :
     
     le Transporteur n’acceptera pas les Passagers atteints ou susceptibles d’être atteints de maladies infectieuses graves ou celles jugées par les autorités sanitaires d’un niveau d’alerte officiel telles que les infections respiratoires graves, virus, tuberculose ou pneumonie.
     
@@ -585,7 +585,7 @@ Dans le cas où le Passager achète deux vols ou plus, avec l’objectif d’eff
 
 #### 12.3 Droits des passagers
 
-Si votre vol est annulé ou accuse un retard important, ou si vous êtes refusé(e) d’embarquement sur un vol pour lequel vous disposez d’une réservation valable, vous pouvez faire valoir certains [droits en vertu du Règlement (CE) nº 261/2004 du Parlement européen et du Conseil](http://static.volotea.com/pdf/userRights/Volotea_Passenger_Rights_FRA.pdf).
+Si votre vol est annulé ou accuse un retard important, ou si vous êtes refusé(e) d’embarquement sur un vol pour lequel vous disposez d’une réservation valable, vous pouvez faire valoir certains [droits en vertu du Règlement (CE) nº 261/2004 du Parlement européen et du Conseil](http://static.volotea.com/pdf/userRights/Volotea_Passenger_Rights_FRA.pdf).
 
 Dans le cas de circonstances telles que celles indiquées dans le paragraphe précédent, impliquant une compensation et/ou un remboursement de la part de Volotea, la présentation d’un titre ou du billet sera exigée pour justifier la réception desdites compensations.
 
@@ -599,7 +599,7 @@ En cas de nécessité de dévier un vol ou de substituer un avion par un autre, 
 
 **13.1 Présentation de réclamations**
 
-Le présent article s’appliquera pour toute réclamation présentée contre Volotea en lien avec les retards, annulations, refus d’embarquement et incidents avec les bagages conformément aux dispositions du Règlement (CE) n° 261/2004 du Parlement européen et du Conseil, qui confère individuellement à chaque passager des droits définis en cas de refus d’embarquement et d’annulation ou de retard important des vols. Par conséquent, Volotea traite les réclamations de façon individuelle. C’est pourquoi chaque passager doit compléter son propre formulaire de réclamation. Le formulaire de réclamation est disponible à l’adresse suivante : [https://www.volotea.com/fr/reclamation/](https://www.volotea.com/fr/contact/#cat33#complaints "Contact")
+Le présent article s’appliquera pour toute réclamation présentée contre Volotea en lien avec les retards, annulations, refus d’embarquement et incidents avec les bagages conformément aux dispositions du Règlement (CE) n° 261/2004 du Parlement européen et du Conseil, qui confère individuellement à chaque passager des droits définis en cas de refus d’embarquement et d’annulation ou de retard important des vols. Par conséquent, Volotea traite les réclamations de façon individuelle. C’est pourquoi chaque passager doit compléter son propre formulaire de réclamation. Le formulaire de réclamation est disponible à l’adresse suivante : [https://www.volotea.com/fr/reclamation/](https://www.volotea.com/fr/contact/#cat33#complaints "Contact")
 
 Le but est de mettre à disposition des passagers un formulaire simple qui permette de présenter rapidement tout type de réclamation et assure un traitement rapide et efficace de la part de Volotea. Ledit formulaire est le seul moyen de présenter une réclamation à Volotea. Volotea ne peut garantir le traitement des réclamations effectuées par le biais de moyens différents du formulaire prévu à cet effet, y-compris par téléphone, fax ou sur les réseaux sociaux.
 
@@ -607,7 +607,7 @@ Chaque passager inclus dans une même réservation devra présenter individuelle
 
 Volotea disposera d’un délai maximum de six semaines pour répondre à toute réclamation tel que mentionné dans le présent article.
 
-Si le passager plaignant vit dans un pays de l'Union européenne, la Commission européenne propose une plateforme de règlement alternatif des litiges, accessible ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
+Si le passager plaignant vit dans un pays de l'Union européenne, la Commission européenne propose une plateforme de règlement alternatif des litiges, accessible ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/).
 
 **13.2 Versement d’un remboursement ou d’une indemnisation**
 
@@ -651,25 +651,25 @@ La consommation de boissons alcoolisées est interdite, sauf si elles ont été 
 
 Les passagers se trouvant à bord d'avions Volotea seront autorisés à utiliser qu’en «mode avion/vol» les appareils électroniques (« AEP ») suivants:
 
-*   Téléphones portables (« smartphones ») ;
+* Téléphones portables (« smartphones ») ;
     
-*   Tablettes électroniques (« tablettes ») ;
+* Tablettes électroniques (« tablettes ») ;
     
-*   Ordinateurs portables et ordinateurs de petite taille (« notebooks ») ;
+* Ordinateurs portables et ordinateurs de petite taille (« notebooks ») ;
     
-*   Écouteurs électroniques à réduction de bruit ;
+* Écouteurs électroniques à réduction de bruit ;
     
-*   MP3, MP4 et similaires, ainsi que les lecteurs audio numériques ;
+* MP3, MP4 et similaires, ainsi que les lecteurs audio numériques ;
     
-*   Jeux électroniques portatifs de petite taille ;
+* Jeux électroniques portatifs de petite taille ;
     
-*   Tablettes de lecture (e-readers) ;
+* Tablettes de lecture (e-readers) ;
     
-*   Appareils photo numériques et caméscopes (hors caméras professionnelles). L'autorisation d'utilisation n'inclut pas la possibilité de photographier les membres d'équipage ou l'un des éléments de l'avion ;
+* Appareils photo numériques et caméscopes (hors caméras professionnelles). L'autorisation d'utilisation n'inclut pas la possibilité de photographier les membres d'équipage ou l'un des éléments de l'avion ;
     
-*   Lecteurs DVD/CD de petite taille ;
+* Lecteurs DVD/CD de petite taille ;
     
-*   Écouteurs sans fils (excepté pendant le roulage, le décollage et l'atterrissage.
+* Écouteurs sans fils (excepté pendant le roulage, le décollage et l'atterrissage.
     
 
 Nonobstant ce qui précède, l'équipage de l'avion peut à tout moment donner l'ordre d'éteindre et de ranger tous les appareils électroniques (y compris ceux dotés du « mode avion/vol »).
@@ -701,13 +701,13 @@ Aucun type de cigarette électronique n'est autorisé à bord des avions Volotea
 
 #### 14.3 Conditions de transport des appareils alimentés par des piles au lithium
 
-**Le transport de piles et de piles au lithium** nécessite des précautions particulières. Le risque principal est**l’embrasement causé par un choc, un défaut de fabrication ou une forte augmentation de la température**.
+**Le transport de piles et de piles au lithium** nécessite des précautions particulières. Le risque principal est**l’embrasement causé par un choc, un défaut de fabrication ou une forte augmentation de la température**.
 
 Les conditions de transport des appareils électroniques et de leurs batteries de rechange varient selon :
 
-1.  l’énergie en watt/heures (Wh) pour les batteries au lithium ionique, lithium polymère, lithium fer phosphate (LifePO4) ou similaires.
+1. l’énergie en watt/heures (Wh) pour les batteries au lithium ionique, lithium polymère, lithium fer phosphate (LifePO4) ou similaires.
     
-2.  la quantité en grammes (g) de lithium pour les batteries au lithium métal, à alliage de lithium ou similaires.
+2. la quantité en grammes (g) de lithium pour les batteries au lithium métal, à alliage de lithium ou similaires.
     
 
 APPAREILS ÉLECTRONIQUES PORTABLES (LISTE NON EXHAUSTIVE)ÉNERGIE (WH) / QUANTITÉ (G)CONFIGURATIONBAGAGE CABINEBAGAGE ENREGISTRÉAppareils électroniques destinés à un usage personnel : concentrateurs d’oxygène portatifs (COP), caméras, appareils photo, téléphones mobiles, ordinateurs portables, tablettes, outils électroportatifs, etc.≤ 100 Wh  
@@ -739,26 +739,26 @@ Quantité limitée à une utilisation personnelle
 
 **Fauteuils roulants et autres modes de déplacement (à l’usage des passagers à mobilité réduite) alimentés par des batteries au lithium :**
 
-1.  Les batteries doivent être solidement fixées au fauteuil roulant ou à l’appareil de mobilité.
+1. Les batteries doivent être solidement fixées au fauteuil roulant ou à l’appareil de mobilité.
     
-2.  Les bornes des batteries doivent être protégées des courts-circuits, par ex. en étant placées dans un conteneur pour batteries.
+2. Les bornes des batteries doivent être protégées des courts-circuits, par ex. en étant placées dans un conteneur pour batteries.
     
-3.  **Batteries démontables**
+3. **Batteries démontables**
     
-    1.  La batterie doit être retirée par le passager.
+    1. La batterie doit être retirée par le passager.
         
-    2.  Les bornes de la batterie doivent être isolées afin de la protéger des courts-circuits (par ex. en recouvrant d’adhésif les bornes dénudées).
+    2. Les bornes de la batterie doivent être isolées afin de la protéger des courts-circuits (par ex. en recouvrant d’adhésif les bornes dénudées).
         
-    3.  Chaque batterie doit être placée dans un sac de protection (fourni par le passager).
+    3. Chaque batterie doit être placée dans un sac de protection (fourni par le passager).
         
-    4.  L’énergie de la batterie ne doit pas excéder 300 Wh.
+    4. L’énergie de la batterie ne doit pas excéder 300 Wh.
         
-    5.  Une batterie de rechange d’une énergie maximale de 300 Wh ou deux batteries de rechange d’une énergie maximale de 160 Wh sont autorisées à bord.
+    5. Une batterie de rechange d’une énergie maximale de 300 Wh ou deux batteries de rechange d’une énergie maximale de 160 Wh sont autorisées à bord.
         
-    6.  Le commandant de bord doit être informé du numéro de siège du passager transportant la ou les batteries.
+    6. Le commandant de bord doit être informé du numéro de siège du passager transportant la ou les batteries.
         
 
-**Note :** L’énergie en watt-heures, requise par la réglementation, peut ne pas être indiquée sur la batterie. Il vous appartient alors de le déterminer au préalable. Elle peut être calculée de la façon suivante à partir du voltage (V) et de l’ampérage (Ah) : Énergie (Wh) = 2 V x 0,5 Ah = 1 Wh.
+**Note :** L’énergie en watt-heures, requise par la réglementation, peut ne pas être indiquée sur la batterie. Il vous appartient alors de le déterminer au préalable. Elle peut être calculée de la façon suivante à partir du voltage (V) et de l’ampérage (Ah) : Énergie (Wh) = 2 V x 0,5 Ah = 1 Wh.
 
 * * *
 
@@ -768,13 +768,13 @@ Quantité limitée à une utilisation personnelle
 
 En cas d’accident, la responsabilité de Volotea sera la suivante :
 
-> 1.  La responsabilité se limitera aux dommages démontrés. Volotea ne répondra des dommages indirects ou insuffisamment certifiés, ainsi que toute forme de dommage non compensatoire.
+> 1. La responsabilité se limitera aux dommages démontrés. Volotea ne répondra des dommages indirects ou insuffisamment certifiés, ainsi que toute forme de dommage non compensatoire.
 >     
-> 2.  Volotea ne sera pas responsable en cas de dommage émanant (i) de l’exécution de la règlementation ou (ii) l’exécution par le Passager de la Réglementation et/ou de ces Conditions générales.
+> 2. Volotea ne sera pas responsable en cas de dommage émanant (i) de l’exécution de la règlementation ou (ii) l’exécution par le Passager de la Réglementation et/ou de ces Conditions générales.
 >     
-> 3.  Les Conditions générales de transport s’appliquent notamment aux agents autorisés de Volotea, employés et représentants dans la même mesure où cela s’applique à Volotea. Le montant récupérable de la part de Volotea et des agents, employés, représentants et personnes autorisées ne dépassera pas le montant correspondant à la responsabilité de Volotea, le cas échéant.
+> 3. Les Conditions générales de transport s’appliquent notamment aux agents autorisés de Volotea, employés et représentants dans la même mesure où cela s’applique à Volotea. Le montant récupérable de la part de Volotea et des agents, employés, représentants et personnes autorisées ne dépassera pas le montant correspondant à la responsabilité de Volotea, le cas échéant.
 >     
-> 4.  Le droit d’indemnisation cessera si aucune action n’a été lancée dans un délai de 2 ans à compter de la date d’arrivée à destination, de celle du jour où devrait arriver l’avion ou celle de la retenue/arrêt du transport.
+> 4. Le droit d’indemnisation cessera si aucune action n’a été lancée dans un délai de 2 ans à compter de la date d’arrivée à destination, de celle du jour où devrait arriver l’avion ou celle de la retenue/arrêt du transport.
 >     
 
 #### 15.2 Lésions corporelles
@@ -783,9 +783,9 @@ Volotea sera tenu responsable des dommages occasionnés en cas de décès, bless
 
 Cependant, Volotea ne sera pas tenu pour responsable si le
 
-> 1.  décès, blessures ou toute autre lésion corporelle est dû à un état de santé, physique ou mental du Passager, antérieur aux opérations d’embarquement des passagers ; ou
+> 1. décès, blessures ou toute autre lésion corporelle est dû à un état de santé, physique ou mental du Passager, antérieur aux opérations d’embarquement des passagers ; ou
 >     
-> 2.  si le dommage a été causé ou favorisé par la négligence du Passager ou par son état de santé antérieur à l’embarquement du vol.
+> 2. si le dommage a été causé ou favorisé par la négligence du Passager ou par son état de santé antérieur à l’embarquement du vol.
 >     
 
 Aucune limite financière n’est fixée pour la responsabilité, en cas de blessure ou de décès du Passager. Pour tout dommage s’élevant à 113.100 DTS (Droits de Tirage Spéciaux), obligatoirement certifiés et démontrés, la compagnie aérienne ne pourra s’opposer aux demandes d’indemnisation.
@@ -800,9 +800,9 @@ Volotea se réserve le droit de former recours contre des tiers, y compris, sans
 
 En cas de décès, blessures ou lésions corporelles suite à un accident d’avion, Volotea procèdera au paiement d’un acompte des indemnisations.
 
-> 1.  Volotea indemnisera la(les) personne(s) ayant droit à compensation, une fois identifiée(s), en leur versant un acompte pour couvrir leurs besoins immédiats de manière proportionnelle aux préjudices causés. En cas de décès, cet acompte ne devra être inférieur à 16.000 DTS (Droits de Tirage Spéciaux) par Passager.
+> 1. Volotea indemnisera la(les) personne(s) ayant droit à compensation, une fois identifiée(s), en leur versant un acompte pour couvrir leurs besoins immédiats de manière proportionnelle aux préjudices causés. En cas de décès, cet acompte ne devra être inférieur à 16.000 DTS (Droits de Tirage Spéciaux) par Passager.
 >     
-> 2.  L’acompte sera effectué dans les quinze jours suivants l’identification de la(des) personne(s) ayant droit à compensation, ne supposera en aucun cas l’acceptation d’une quelconque responsabilité et sera déduite du montant définitif à payer au titre de responsabilité conformément à ce paragraphe, mais ne pourra être remboursé, à l’exception des cas prévus par l’article 20 de la Convention de Montréal ou si le Passager n’avait pas le droit à l’indemnisation.
+> 2. L’acompte sera effectué dans les quinze jours suivants l’identification de la(des) personne(s) ayant droit à compensation, ne supposera en aucun cas l’acceptation d’une quelconque responsabilité et sera déduite du montant définitif à payer au titre de responsabilité conformément à ce paragraphe, mais ne pourra être remboursé, à l’exception des cas prévus par l’article 20 de la Convention de Montréal ou si le Passager n’avait pas le droit à l’indemnisation.
 >     
 
 * * *
@@ -867,90 +867,90 @@ En tant que consommateur, les litiges éventuels en lien avec votre contrat de t
 
 #### Quels documents dois-je présenter pour prendre l’avion?
 
-Il incombe à chaque passager de s’assurer qu’il **dispose de documents de voyage en cours de validité** et conformes aux dispositions de Volotea, des services d’immigration et des autorités des pays vers lesquels ils se rendent. Veuillez noter que:
+Il incombe à chaque passager de s’assurer qu’il **dispose de documents de voyage en cours de validité** et conformes aux dispositions de Volotea, des services d’immigration et des autorités des pays vers lesquels ils se rendent. Veuillez noter que:
 
-> *   Tous les passagers doivent circuler avec des **documents de voyage en cours de validité** y compris les bébés et les mineurs.
+> * Tous les passagers doivent circuler avec des **documents de voyage en cours de validité** y compris les bébés et les mineurs.
 >     
-> *   Le **passeport** exigible pour tout voyage en dehors de l’Espace économique européen (EEE) doit être valide pour toute la durée du séjour prévue.
+> * Le **passeport** exigible pour tout voyage en dehors de l’Espace économique européen (EEE) doit être valide pour toute la durée du séjour prévue.
 >     
-> *   Tout **enfant ou bébé** ayant besoin d’un **visa** devra voyager avec l’adulte figurant sur la photo dudit visa.
+> * Tout **enfant ou bébé** ayant besoin d’un **visa** devra voyager avec l’adulte figurant sur la photo dudit visa.
 >     
 
-Afin de s’assurer du respect des réglementations en vigueur, les passagers devront être munis, pour tous leurs voyages, d’un **passeport en cours de validité** (et d’un visa, le cas échéant) ou d’**une carte nationale d’identité** (CNI) émise par un gouvernement de l’UE / EEE. Le passager devra payer toute amende, pénalité ou dépense découlant du non-respect de cette exigence.
+Afin de s’assurer du respect des réglementations en vigueur, les passagers devront être munis, pour tous leurs voyages, d’un **passeport en cours de validité** (et d’un visa, le cas échéant) ou d’**une carte nationale d’identité** (CNI) émise par un gouvernement de l’UE / EEE. Le passager devra payer toute amende, pénalité ou dépense découlant du non-respect de cette exigence.
 
 **Les citoyens d’un pays membre de l’Accord de Schengen pourront voyager au sein de l’espace Schengen simplement munis de leur CNI en cours de validité**. Les pays signataires de l’Accord de Schengen sont: L’Allemagne, l’Autriche, la Belgique, le Danemark, l’Espagne, l’Estonie, la Finlande, la France, la Grèce, la Hongrie, l’Islande, l’Italie, la Lettonie, le Liechtenstein, la Lituanie, le Luxembourg, Malte, la Norvège, les Pays-Bas, la Pologne, le Portugal, la République tchèque, la République slovaque, la Slovénie, la Suède et la Suisse.
 
-Les **informations figurant sur les documents de voyage** des passagers (y compris les enfants et les bébés) doivent être saisies **lors de l’enregistrement en ligne**.
+Les **informations figurant sur les documents de voyage** des passagers (y compris les enfants et les bébés) doivent être saisies **lors de l’enregistrement en ligne**.
 
-Quel que soit le trajet, les passagers devront présenter leurs documents de voyage en cours de validité ainsi que la carte d’embarquement **dans la zone de sécurité** de l’aéroport et **à la porte d’embarquement**.
+Quel que soit le trajet, les passagers devront présenter leurs documents de voyage en cours de validité ainsi que la carte d’embarquement **dans la zone de sécurité** de l’aéroport et **à la porte d’embarquement**.
 
-Les seuls **documents de voyage admis par Volotea** sont:
+Les seuls **documents de voyage admis par Volotea** sont:
 
-> *   Un **passeport** en cours de validité.
+> * Un **passeport** en cours de validité.
 >     
-> *   Une **CNI** en cours de validité émise par un pays membre de l’UE ou signataire de l’Accord de Schengen. Lesdits pays sont: L’Allemagne, l’Autriche, la Belgique, la Bulgarie, Croatie, Chypre, le Danemark, l’Espagne, l’Estonie, la Finlande, la France, la Grèce, la Hongrie, l’Irlande, l’Islande, l’Italie, la Lettonie, le Liechtenstein, la Lituanie, le Luxembourg, Malte, la Norvège, les Pays-Bas, la Pologne, le Portugal, le Royaume-Uni, la République tchèque, la République slovaque, la Roumanie, la Slovénie, la Suède et la Suisse.
+> * Une **CNI** en cours de validité émise par un pays membre de l’UE ou signataire de l’Accord de Schengen. Lesdits pays sont: L’Allemagne, l’Autriche, la Belgique, la Bulgarie, Croatie, Chypre, le Danemark, l’Espagne, l’Estonie, la Finlande, la France, la Grèce, la Hongrie, l’Irlande, l’Islande, l’Italie, la Lettonie, le Liechtenstein, la Lituanie, le Luxembourg, Malte, la Norvège, les Pays-Bas, la Pologne, le Portugal, le Royaume-Uni, la République tchèque, la République slovaque, la Roumanie, la Slovénie, la Suède et la Suisse.
 >     
-> *   Un **livret de famille espagnol** en cours de validité (mineurs espagnols âgés de moins de 14 ans qui voyagent avec leurs parents ou tuteurs légaux sur des vols domestiques en Espagne).
+> * Un **livret de famille espagnol** en cours de validité (mineurs espagnols âgés de moins de 14 ans qui voyagent avec leurs parents ou tuteurs légaux sur des vols domestiques en Espagne).
 >     
-> *   Un **'Certificato Di Nascita'** en cours de validité avec une photo (mineurs âgés de moins de 18 ans qui voyagent avec leurs parents ou tuteurs légaux sur des vols domestiques en Italie).
+> * Un **'Certificato Di Nascita'** en cours de validité avec une photo (mineurs âgés de moins de 18 ans qui voyagent avec leurs parents ou tuteurs légaux sur des vols domestiques en Italie).
 >     
-> *   Un **passeport collectif** en cours de validité, émis par l’un des pays membres de l’UE / EEE.
+> * Un **passeport collectif** en cours de validité, émis par l’un des pays membres de l’UE / EEE.
 >     
-> *   **Pour les vols intérieurs en Italie**, les documents d’identité équivalents et conformes à l'article 35.2 du DPR n° 445 /2000 du 28 décembre 2000.
+> * **Pour les vols intérieurs en Italie**, les documents d’identité équivalents et conformes à l'article 35.2 du DPR n° 445 /2000 du 28 décembre 2000.
 >     
-> *   **Pour les vols intérieurs en Espagne**, un permis de conduire délivré en Espagne ou un permis de résidence espagnol ou de l’un des États signataires de l’Accord de Schengen en vigueur.
+> * **Pour les vols intérieurs en Espagne**, un permis de conduire délivré en Espagne ou un permis de résidence espagnol ou de l’un des États signataires de l’Accord de Schengen en vigueur.
 >     
-> *   Le document de voyage **Kinderausweis** délivré par le gouvernement allemand pour les enfants de nationalité allemande de moins de 10 ans.
+> * Le document de voyage **Kinderausweis** délivré par le gouvernement allemand pour les enfants de nationalité allemande de moins de 10 ans.
 >     
-> *   Un document de voyage délivré en conformité avec le contenu de la **Convention relative au statut des réfugiés de l’ONU**. Ce document, émis par un gouvernement conformément à l’Article 28(1) de la Convention de l’ONU de 1951, est accepté en lieu et place d’un passeport en cours de validité.
+> * Un document de voyage délivré en conformité avec le contenu de la **Convention relative au statut des réfugiés de l’ONU**. Ce document, émis par un gouvernement conformément à l’Article 28(1) de la Convention de l’ONU de 1951, est accepté en lieu et place d’un passeport en cours de validité.
 >     
-> *   Un document de voyage conforme au contenu de la Convention de l’ONU qui devra être délivré par l’un des États contractants comme le stipule l’Article 27 de la **Convention de l’ONU de 1954 relative aux A****patrides**.
+> * Un document de voyage conforme au contenu de la Convention de l’ONU qui devra être délivré par l’un des États contractants comme le stipule l’Article 27 de la **Convention de l’ONU de 1954 relative aux A****patrides**.
 >     
 
 QUELS DOCUMENTS LES ENFANTS DOIVENT-ILS PRÉSENTER?
 --------------------------------------------------
 
-Depuis le 26 juin 2012, **tout citoyen mineur européen** souhaitant voyager vers ou au sein de l’Europe **doit disposer d’un document d’identité personnel** (passeport ou CNI en fonction de la destination). À compter de cette date, les mineurs ne pourront plus figurer sur le passeport de leurs parents. Le passeport est uniquement valide pour son titulaire et tout mineur y figurant devra posséder son propre passeport ou document national d’identité. Pour plus d’informations, veuillez consulter le service administratif responsable de la délivrance des passeports.
+Depuis le 26 juin 2012, **tout citoyen mineur européen** souhaitant voyager vers ou au sein de l’Europe **doit disposer d’un document d’identité personnel** (passeport ou CNI en fonction de la destination). À compter de cette date, les mineurs ne pourront plus figurer sur le passeport de leurs parents. Le passeport est uniquement valide pour son titulaire et tout mineur y figurant devra posséder son propre passeport ou document national d’identité. Pour plus d’informations, veuillez consulter le service administratif responsable de la délivrance des passeports.
 
 ### Liaisons en France
 
-Les **mineurs de nationalité française âgés de moins de 18 ans** doivent voyager avec: (i) un passeport ou (ii) une CNI (pour les pays de destination n’exigeant pas de passeport).
+Les **mineurs de nationalité française âgés de moins de 18 ans** doivent voyager avec: (i) un passeport ou (ii) une CNI (pour les pays de destination n’exigeant pas de passeport).
 
-À partir du 15 janvier 2017, pour les vols internationaux et en plus d’une pièce d’identité française valide pour les voyages internationaux ou d’un passeport français en cours de validité, toute personne mineure seul ou sans être accompagné de l'un de ses parents devra fournir une [autorisation de sortie du territoire](https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15646.do), dûment signée par ses parents ou tuteurs légaux, ainsi qu’une photocopie de la pièce d’identité valide (ou expirée depuis moins de 5 ans) des parents ou tuteurs légaux ayant signé ledit document. Pour plus d’informations, veuillez vous rapprocher de l’autorité locale française dont vous relevez.
+À partir du 15 janvier 2017, pour les vols internationaux et en plus d’une pièce d’identité française valide pour les voyages internationaux ou d’un passeport français en cours de validité, toute personne mineure seul ou sans être accompagné de l'un de ses parents devra fournir une [autorisation de sortie du territoire](https://www.formulaires.modernisation.gouv.fr/gf/cerfa_15646.do), dûment signée par ses parents ou tuteurs légaux, ainsi qu’une photocopie de la pièce d’identité valide (ou expirée depuis moins de 5 ans) des parents ou tuteurs légaux ayant signé ledit document. Pour plus d’informations, veuillez vous rapprocher de l’autorité locale française dont vous relevez.
 
-Le livret de famille n’est pas un document d’identité valide pour les citoyens français mineurs. Par conséquent, **un mineur ne peut prétendre voyager en avion**, même au sein de l’hexagone, **sans disposer d’une CNI**.
+Le livret de famille n’est pas un document d’identité valide pour les citoyens français mineurs. Par conséquent, **un mineur ne peut prétendre voyager en avion**, même au sein de l’hexagone, **sans disposer d’une CNI**.
 
 ### Liaisons en Italie
 
-Les **mineurs âgés de moins de 14 ans et de nationalité italienne** peuvent uniquement voyager accompagnés et avec l’un des documents d’identification suivants:
+Les **mineurs âgés de moins de 14 ans et de nationalité italienne** peuvent uniquement voyager accompagnés et avec l’un des documents d’identification suivants:
 
-> 1.  Une **CNI italienne individuelle** (vols intérieurs), qui devra être en cours de validité "_expatriation étranger_" en cas de voyages internationaux.
+> 1. Une **CNI italienne individuelle** (vols intérieurs), qui devra être en cours de validité "_expatriation étranger_" en cas de voyages internationaux.
 >     
-> 2.  Un **passeport** italien (vols intérieurs et internationaux).
+> 2. Un **passeport** italien (vols intérieurs et internationaux).
 >     
-> 3.  Dans le cas de vols internationaux, les mineurs âgés de moins de 14 ans devront présenter outre la CNI italienne individuelle ou le passeport italien en cours de validité, un **permis de voyage (“Dichiarazione di Acompagno”)** où sera mentionnée l’identité de l’accompagnant et qui devra avoir été validé par l’autorité italienne locale compétente (“Questura locale”). Pour plus d’informations, veuillez vous rapprocher de l’autorité locale italienne dont vous relevez.
+> 3. Dans le cas de vols internationaux, les mineurs âgés de moins de 14 ans devront présenter outre la CNI italienne individuelle ou le passeport italien en cours de validité, un **permis de voyage (“Dichiarazione di Acompagno”)** où sera mentionnée l’identité de l’accompagnant et qui devra avoir été validé par l’autorité italienne locale compétente (“Questura locale”). Pour plus d’informations, veuillez vous rapprocher de l’autorité locale italienne dont vous relevez.
 >     
 
 ### Liaisons en Espagne
 
-**Il n’est pas requis des mineurs de nationalité espagnole âgés de moins de 14 ans qu’ils soient accrédités, tant qu’ils n’empruntent que des vols intérieurs en Espagne et qu’ils figurent sur la même réservation que leur accompagnant. Dans ce cas, les personnes les accompagnant devront être munies d’un moyen d’identification valide et se porter garantes de l’identité des mineurs. En cas de doute raisonnable sur l’identité** des mineurs ou de leurs accompagnants, il pourra être demandé:
+**Il n’est pas requis des mineurs de nationalité espagnole âgés de moins de 14 ans qu’ils soient accrédités, tant qu’ils n’empruntent que des vols intérieurs en Espagne et qu’ils figurent sur la même réservation que leur accompagnant. Dans ce cas, les personnes les accompagnant devront être munies d’un moyen d’identification valide et se porter garantes de l’identité des mineurs. En cas de doute raisonnable sur l’identité** des mineurs ou de leurs accompagnants, il pourra être demandé:
 
-> *   Le **livret de famille** s’il voyage avec l’un de ses parents.
+> * Le **livret de famille** s’il voyage avec l’un de ses parents.
 >     
-> *   Un **permis officiel obtenu auprès d’un commissariat de police** (en présence des parents ou des tuteurs légaux), attestant que la responsabilité de la garde du mineur revient effectivement à cette personne, qui devra elle-même présenter sa CNI ou son passeport si elle n’est ni l’un de ses parents ni son tuteur légal.
+> * Un **permis officiel obtenu auprès d’un commissariat de police** (en présence des parents ou des tuteurs légaux), attestant que la responsabilité de la garde du mineur revient effectivement à cette personne, qui devra elle-même présenter sa CNI ou son passeport si elle n’est ni l’un de ses parents ni son tuteur légal.
 >     
 
-**Sur les vols internationaux** (UE et Pays tiers) et selon la destination, une CNI ou un passeport en cours de validité pour tous les mineurs (qu’ils soient ou non accompagnés et quel que soit leur âge). S’ils voyagent seuls, ils doivent détenir un permis (officiel obtenu auprès d’un commissariat de police, d’un poste de la Garde Civile, de juges, notaires ou maires). En outre, il est requis qu’ils remplissent les exigences des pays à destination desquels ils voyagent.
+**Sur les vols internationaux** (UE et Pays tiers) et selon la destination, une CNI ou un passeport en cours de validité pour tous les mineurs (qu’ils soient ou non accompagnés et quel que soit leur âge). S’ils voyagent seuls, ils doivent détenir un permis (officiel obtenu auprès d’un commissariat de police, d’un poste de la Garde Civile, de juges, notaires ou maires). En outre, il est requis qu’ils remplissent les exigences des pays à destination desquels ils voyagent.
 
 ### Liaisons en Croatie
 
-Les **enfants âgés de 14 à 18 ans qui voyagent à destination ou depuis la Croatie** sans leurs parents ou tuteurs légaux doivent présenter: (i) un passeport en cours de validité ou (ii) une CNI, délivrés par le gouvernement ainsi qu’un permis écrit signé par les parents ou les tuteurs légaux. Ce permis doit être certifié par une ambassade, un consulat croate ou par les autorités locales. Dans le cas contraire, une traduction assermentée officielle en croate sera requise.
+Les **enfants âgés de 14 à 18 ans qui voyagent à destination ou depuis la Croatie** sans leurs parents ou tuteurs légaux doivent présenter: (i) un passeport en cours de validité ou (ii) une CNI, délivrés par le gouvernement ainsi qu’un permis écrit signé par les parents ou les tuteurs légaux. Ce permis doit être certifié par une ambassade, un consulat croate ou par les autorités locales. Dans le cas contraire, une traduction assermentée officielle en croate sera requise.
 
 ### Liaisons en Grèce
 
-Les **mineurs âgés de moins de 18 ans et de nationalité hellénique** qui voyagent depuis la Grèce sans leurs parents ou tuteurs légaux doivent présenter: (i) un passeport ou (ii) une CNI délivrés par le gouvernement ainsi qu’un permis écrit signé par les parents ou les tuteurs légaux. Ce permis doit être certifié par la police grecque.
+Les **mineurs âgés de moins de 18 ans et de nationalité hellénique** qui voyagent depuis la Grèce sans leurs parents ou tuteurs légaux doivent présenter: (i) un passeport ou (ii) une CNI délivrés par le gouvernement ainsi qu’un permis écrit signé par les parents ou les tuteurs légaux. Ce permis doit être certifié par la police grecque.
 
-**Dans tous les cas, il sera requis du mineur qu’il justifie de son âge.** Il devra par conséquent présenter les documents de voyage en cours de validité à la porte d’embarquement.
+**Dans tous les cas, il sera requis du mineur qu’il justifie de son âge.** Il devra par conséquent présenter les documents de voyage en cours de validité à la porte d’embarquement.
 
 * * *
 
@@ -962,7 +962,7 @@ Veuillez télécharger notre guide des [articles de marchandises dangereuses](ht
 
 Pour plus d'informations, téléchargez notre [liste d'articles interdits](https://media.volotea.com/media/2717/voe_br_ground-op_prohibited-items_qr_fr.pdf) à bord.
 
-Si le passager a besoin de transporter ces objets, il doit en faire la demande au préalable auprès de notre [service clientèle](https://www.volotea.com/fr/contact/email/).
+Si le passager a besoin de transporter ces objets, il doit en faire la demande au préalable auprès de notre [service clientèle](https://www.volotea.com/fr/contact/email/).
 
 ARMES À FEU ET MUNITIONS/ARMES DE SPORT
 
@@ -974,11 +974,11 @@ Veuillez noter que certains types d’armes à feu ne sont pas autorisés dans c
 
 Veuillez arriver au comptoir dépose-bagages au moins 90 minutes avant l’heure prévue du départ de votre vol afin que nous puissions effectuer toutes les vérifications nécessaires. Si vous arrivez après ce délai, il est possible que vous ne soyez pas autorisé à prendre l’avion.
 
-*   Merci de noter que les catégories d’armes à feu suivantes sont autorisées :
-    1.  les fusils de chasse pour la pratique sportive avec un canon supérieur à 60 cm ;
-    2.  les fusils pour la pratique sportive (y compris les fusils à air comprimé) de n’importe quel calibre, mais pas les armes semi-automatiques d’un calibre supérieur au 22 ;
-    3.  les pistolets à un coup pour la pratique sportive de calibre 22 ou inférieur ;
-    4.  les fusils et les pistolets de calibre 22 ou inférieur.
+* Merci de noter que les catégories d’armes à feu suivantes sont autorisées :
+    1. les fusils de chasse pour la pratique sportive avec un canon supérieur à 60 cm ;
+    2. les fusils pour la pratique sportive (y compris les fusils à air comprimé) de n’importe quel calibre, mais pas les armes semi-automatiques d’un calibre supérieur au 22 ;
+    3. les pistolets à un coup pour la pratique sportive de calibre 22 ou inférieur ;
+    4. les fusils et les pistolets de calibre 22 ou inférieur.
 
 Les armes à feu devront être déchargées et emballées correctement dans des étuis prévus à cet effet. Un maximum de 5 kg de munitions est autorisé par passager, lesquelles devront être emballées de manière appropriée, de préférence dans leur emballage d’origine, et toujours séparées de l’arme. Il est interdit de transporter des munitions à projectiles explosifs ou incendiaires.
 
@@ -994,21 +994,21 @@ Dans le domaine du transport aérien, la législation en vigueur définit une pe
 
 Le service d'assistance aux personnes à mobilité réduite et qui peut être demandé via la rubrique Assistance spéciale s'adresse aux passagers qui :
 
-*   Ils utilisent un fauteuil roulant
-*   Ils sont malvoyants.
-*   Avoir une déficience intellectuelle
-*   Ils sont handicapés ou malentendants
-*   Ils voyagent avec des chiens d'assistance
+* Ils utilisent un fauteuil roulant
+* Ils sont malvoyants.
+* Avoir une déficience intellectuelle
+* Ils sont handicapés ou malentendants
+* Ils voyagent avec des chiens d'assistance
 
-Ce service est gratuit. 
+Ce service est gratuit. 
 
 **Types de services de fauteuils roulants et équipements à mobilité réduite**
 
 Il existe trois types de services de fauteuils roulants. Lors de la demande de ce service, le type d'assistance requis doit être précisé :
 
-*   WCHR : (R pour Rampe) Le passager peut monter et descendre les escaliers de l'avion et atteindre son siège par son propre pied, mais il a besoin du fauteuil roulant pour couvrir la distance entre l'enregistrement et le pied de l'avion et vice versa.
-*   WCHS : (S pour Steps) Le passager ne peut pas parcourir de longues distances ni monter et descendre les escaliers de l'avion, mais une fois à bord, il peut atteindre son siège de ses propres pieds.
-*   WCHC : (C pour siège cabine) Le passager ne peut pas bouger et doit être transféré du comptoir d'enregistrement à son siège dans l'avion. 
+* WCHR : (R pour Rampe) Le passager peut monter et descendre les escaliers de l'avion et atteindre son siège par son propre pied, mais il a besoin du fauteuil roulant pour couvrir la distance entre l'enregistrement et le pied de l'avion et vice versa.
+* WCHS : (S pour Steps) Le passager ne peut pas parcourir de longues distances ni monter et descendre les escaliers de l'avion, mais une fois à bord, il peut atteindre son siège de ses propres pieds.
+* WCHC : (C pour siège cabine) Le passager ne peut pas bouger et doit être transféré du comptoir d'enregistrement à son siège dans l'avion. 
 
 Il est important que lors de la demande du service de fauteuils roulants, il soit clairement spécifié lequel des trois types est demandé, afin de planifier l'assistance réellement requise.
 
@@ -1022,16 +1022,16 @@ Il est obligatoire pour toute personne présentant une diversité fonctionnelle 
 
 En pratique, toute personne capable de :
 
-*   Débouclez votre ceinture de sécurité, quittez votre siège et rejoignez une issue de secours sans assistance ;
-*   Obtenir et ajuster un gilet de sauvetage ;
-*   Mettre un masque à oxygène sans assistance ;
-*   Comprendre les consignes de sécurité, ainsi que tous les conseils et instructions fournis par l'équipage en cas d'urgence.
+* Débouclez votre ceinture de sécurité, quittez votre siège et rejoignez une issue de secours sans assistance ;
+* Obtenir et ajuster un gilet de sauvetage ;
+* Mettre un masque à oxygène sans assistance ;
+* Comprendre les consignes de sécurité, ainsi que tous les conseils et instructions fournis par l'équipage en cas d'urgence.
 
 Sur la base des conditions indiquées ci-dessus, Volotea peut exiger un accompagnateur qualifié comme condition de transport d'un passager à mobilité réduite dans les circonstances suivantes :
 
-*   Un passager qui, en raison de sa déficience intellectuelle, ne comprend pas ou ne répond pas de manière adéquate aux consignes de sécurité du personnel de l'entreprise.
-*   Un passager à mobilité réduite si grave que la personne est incapable de s'aider physiquement dans sa propre évacuation de l'avion.
-*   Un passager souffrant de déficiences auditives et visuelles sévères qui l'empêchent de communiquer avec le personnel de l'entreprise, à la fois pour permettre la transmission des consignes de sécurité requises par la réglementation en vigueur, et pour permettre au passager de s'aider lui-même dans sa propre évacuation de l’avion en cas d'urgence.
+* Un passager qui, en raison de sa déficience intellectuelle, ne comprend pas ou ne répond pas de manière adéquate aux consignes de sécurité du personnel de l'entreprise.
+* Un passager à mobilité réduite si grave que la personne est incapable de s'aider physiquement dans sa propre évacuation de l'avion.
+* Un passager souffrant de déficiences auditives et visuelles sévères qui l'empêchent de communiquer avec le personnel de l'entreprise, à la fois pour permettre la transmission des consignes de sécurité requises par la réglementation en vigueur, et pour permettre au passager de s'aider lui-même dans sa propre évacuation de l’avion en cas d'urgence.
 
 Si vous avez besoin d'un compagnon, celui-ci doit être âgé de plus de 18 ans, être disposé et capable de comprendre les consignes de sécurité et assister physiquement la personne à mobilité réduite en cas d'urgence.
 
@@ -1062,9 +1062,9 @@ Tous nos avions disposent de plusieurs sièges à accoudoirs mobiles pour vous p
 
 Nous vous informons que, pour des raisons de sécurité, les passagers à mobilité réduite ne peuvent se voir attribuer ni occuper des sièges qui permettent l’accès direct aux sorties de secours ou dont la présence peut :
 
-*   empêcher les membres de l’équipage d’effectuer leur travail ;
-*   empêcher l’accès aux équipements de secours ;
-*   empêcher l’évacuation d’urgence de l’avion.
+* empêcher les membres de l’équipage d’effectuer leur travail ;
+* empêcher l’accès aux équipements de secours ;
+* empêcher l’évacuation d’urgence de l’avion.
 
 **Brancard**
 
@@ -1078,10 +1078,10 @@ Les concentrateurs d'oxygène fonctionnant sur batteries ou à l'électricité s
 
 Volotea ne fournit pas d'oxygène médical aux passagers à bord. Si vous devez transporter de l'oxygène, vous devez tenir compte des conditions suivantes :
 
-*   Être une bouteille d'oxygène gazeux ne dépassant pas 5 kg. L'oxygène liquide n'est pas autorisé.
-*   Vous aurez besoin de l'approbation de Volotea au moins 72 heures avant le départ de votre vol, pour lequel un certificat médical sera exigé indiquant que l'état de santé du passager est idéal pour le vol.
-*   L'utilisation d'oxygène n'est pas autorisée à bord, uniquement son transport.
-*   Le passager doit remplir une clause de non-responsabilité à l'aéroport. 
+* Être une bouteille d'oxygène gazeux ne dépassant pas 5 kg. L'oxygène liquide n'est pas autorisé.
+* Vous aurez besoin de l'approbation de Volotea au moins 72 heures avant le départ de votre vol, pour lequel un certificat médical sera exigé indiquant que l'état de santé du passager est idéal pour le vol.
+* L'utilisation d'oxygène n'est pas autorisée à bord, uniquement son transport.
+* Le passager doit remplir une clause de non-responsabilité à l'aéroport. 
 
 Remarque : l'utilisation d'oxygène n'est pas autorisée à bord, l'utilisation de concentrateurs d'oxygène (POC) ne serait autorisée que dans la mesure où elle se fait via sa propre batterie.
 
@@ -1095,9 +1095,9 @@ La plupart des services spéciaux nécessitent un enregistrement au moins deux h
 
 Volotea peut refuser d'accepter une réservation d'une personne à mobilité réduite ou refuser l’embarquement :
 
-1.  Afin de répondre aux exigences de sécurité établies par la législation internationale, communautaire ou nationale, ou afin de répondre aux exigences de sécurité établies par l'autorité qui a délivré le certificat d'exploitation aérienne à Volotea.
-2.  Si ce passager constitue une menace directe pour la sécurité. La détermination d'une menace directe sera basée sur la nature, la durée et la gravité du risque, ainsi que sur la probabilité d'un préjudice potentiel à la santé et à la sécurité d'autrui.
-3.  Si les dimensions de l'avion ou de ses portes rendent physiquement impossible l'embarquement ou le transport de la personne à mobilité réduite. 
+1. Afin de répondre aux exigences de sécurité établies par la législation internationale, communautaire ou nationale, ou afin de répondre aux exigences de sécurité établies par l'autorité qui a délivré le certificat d'exploitation aérienne à Volotea.
+2. Si ce passager constitue une menace directe pour la sécurité. La détermination d'une menace directe sera basée sur la nature, la durée et la gravité du risque, ainsi que sur la probabilité d'un préjudice potentiel à la santé et à la sécurité d'autrui.
+3. Si les dimensions de l'avion ou de ses portes rendent physiquement impossible l'embarquement ou le transport de la personne à mobilité réduite. 
 
 **Embarquement**
 
@@ -1111,34 +1111,34 @@ Si vous souffrez d'une déficience visuelle ou auditive, informez-en notre perso
 
 Nous vous recommandons de voyager avec votre propre accompagnant personnel si vous avez besoin d’aide pour effectuer les actions suivantes :
 
-*   manger ;
-*   prendre des médicaments ;
-*   vous lever ou vous asseoir sur votre siège dans l’avion ;
-*   marcher jusqu'à une sortie de secours sans aide ;
-*   communiquer avec les membres de l’équipage concernant la sécurité ;
-*   détacher votre ceinture de sécurité ;
-*   prendre et mettre votre gilet de sauvetage ;
-*   placer votre masque à oxygène.
+* manger ;
+* prendre des médicaments ;
+* vous lever ou vous asseoir sur votre siège dans l’avion ;
+* marcher jusqu'à une sortie de secours sans aide ;
+* communiquer avec les membres de l’équipage concernant la sécurité ;
+* détacher votre ceinture de sécurité ;
+* prendre et mettre votre gilet de sauvetage ;
+* placer votre masque à oxygène.
 
 Pendant le voyage, le passager à mobilité réduite devra se charger de :
 
-*   l’assistance personnelle pendant le vol, par exemple, pour manger ou prendre des médicaments ;
-*   l’assistance personnelle dans les toilettes ;
-*   répondre aux besoins de son chien d’assistance.
+* l’assistance personnelle pendant le vol, par exemple, pour manger ou prendre des médicaments ;
+* l’assistance personnelle dans les toilettes ;
+* répondre aux besoins de son chien d’assistance.
 
 Une fois dans l’avion, notre personnel de cabine peut vous aider à :
 
-*   trouver votre siège et vous familiariser avec celui-ci et ce qui vous entoure ;
-*   ranger et récupérer votre bagage à main ;
-*   vous déplacer depuis votre siège vers les toilettes ;
-*   ouvrir tout emballage de nourriture à bord, identifier les aliments et la disposition du plateau.
+* trouver votre siège et vous familiariser avec celui-ci et ce qui vous entoure ;
+* ranger et récupérer votre bagage à main ;
+* vous déplacer depuis votre siège vers les toilettes ;
+* ouvrir tout emballage de nourriture à bord, identifier les aliments et la disposition du plateau.
 
 **Après le vol**
 
 Le service d’assistance est également disponible à l’aéroport de destination.
 
-*   L’assistant vous retrouvera dans l’avion et vous aidera à vous déplacer depuis votre siège ou depuis la porte de l’avion jusqu’au fauteuil roulant. Pour nous assurer que nous puissions vous aider sans problème, nous débarquons généralement le reste des passagers en premier.
-*   Une fois sortis de l’avion, l’assistant vous accompagnera à travers le terminal d’arrivée jusqu’à votre moyen de transport suivant.
+* L’assistant vous retrouvera dans l’avion et vous aidera à vous déplacer depuis votre siège ou depuis la porte de l’avion jusqu’au fauteuil roulant. Pour nous assurer que nous puissions vous aider sans problème, nous débarquons généralement le reste des passagers en premier.
+* Une fois sortis de l’avion, l’assistant vous accompagnera à travers le terminal d’arrivée jusqu’à votre moyen de transport suivant.
 
 * * *
 
