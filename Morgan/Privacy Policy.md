@@ -1,5 +1,9 @@
 ##### CHARTE DE CONFIDENTIALITE DES DONNEES A CARACTERE PERSONNEL
 
+MISE A JOUR LE 1/04/2022
+
+  
+
 La société CAFAN apporte une grande importance à la protection et la confidentialité des données personnelles de ses Client/Prospects (ci-après les « Données ») et veille au respect de la règlementation applicable.
 
 A ce titre, la présente charte matérialise les engagements de la société CAFAN (ci-après dénommé la « Société ») en matière d’utilisation et de protection des Données (ci-après dénommé la « Charte »).
@@ -55,7 +59,8 @@ a) Les traitements dont le fondement légal repose sur l'exécution d'un contrat
 b) Les traitements dont le fondement légal repose sur l’intérêt légitime du Groupe sont :  
 \- la gestion de la prospection commerciale, de sondages, et de tests produits,  
 \- l’élaboration de statistiques commerciales ;  
-\- la gestion de la vidéo protection.  
+\- la gestion de la vidéo protection,  
+\- la gestion des lives shopping qui peuvent être diffusés sur le site web et/ou les réseaux sociaux de la Marque : fonctionnalité permettant de bloquer les Clients/Prospects mal intentionnés ou qui auraient des comportements déplacés ou des écrits injurieux ou à caractère raciste, sexiste et de façon générale considérés comme illégaux dans les pays concernés (fonction “modération” dans le chat).  
   
 c) Les traitements dont le fondement légal repose sur le consentement du Client/Prospect sont :  
 \- la géolocalisation utilisable pour identifier le magasin le plus proche du Client/Prospect. Cette fonctionnalité ne s’applique que lorsque le Client/Prospect l’active via son terminal de la manière suivante : (1) Pour Firefox : cliquez ici ; (2) Pour Internet Exploreur : aller dans « option internet », onglet « Confidentialité », cocher la mention « Ne jamais autoriser les sites Web à demander votre emplacement physique » ; (3) Pour Chrome : aller dans la barre de navigation cliquer sur le logo, dans le menu déroulant de « Localisation », choisir entre les 3 options possibles. - la gestion des newsletters  
