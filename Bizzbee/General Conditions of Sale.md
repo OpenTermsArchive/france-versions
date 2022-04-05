@@ -195,11 +195,10 @@ Le service client en informera le client par e-mail. Il aura alors 30 jours pour
 10.1 Les modes de retours proposés au client :  
 Par la Poste  
 Le client peut demander le remboursement d’un produit en le retournant à ses frais dans un colis scellé avec le bon de retour dûment complété à l’adresse suivante :  
-CENTRE DE DISTRIBUTION LOGISTIQUE BZB  
-E-shopping  
-Rue du Trieu du Quesnoy  
-Lotissement 50 ZI Roubaix Est  
-59115 LEERS Pour assurer la livraison du colis, BZB recommande au client de retourner son produit en Colissimo Suivi (La Poste).  
+Ephigea – Enseigne BZB  
+1381 Rue de Frévent  
+62810 Avesnes-le-Comte  
+Pour assurer la livraison du colis, BZB recommande au client de retourner son produit en Colissimo Suivi (La Poste).  
 En point de retrait colissimo  
 Le client peut choisir de retourner gratuitement un produit en le déposant dans l’un des 7500 points de retrait Colissimo en France Métropolitaine.  
 Le client devra joindre le bon de retour complété au colis.  
