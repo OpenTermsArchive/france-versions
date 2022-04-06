@@ -9,8 +9,8 @@ Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code 
 
 [Conditions générales de transport au départ et à destination du Canada (PDF, anglais, 1,9 Mo)](https://www.austrian.com/content/dam/austrian/local/ca/conditions-of-carriage-canada-fr-20200505.pdf)
 
-[Article 1 – Définition des termes](#accordion-item-section-article1)
----------------------------------------------------------------------
+Article 1 – Définition des termes
+---------------------------------
 
 *   « Nous », « notre » et « nos » font référence à Austrian Airlines AG.
 *   Un « agent (autorisé) » est un agent commercial désigné par nous pour la vente de billets d’avion.  
@@ -69,8 +69,8 @@ Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code 
 
 1 = Loi fédérale du 8 mars 1979, BGBI \[Code civil fédéral I\] 140, qui prévoit des dispositions pour la protection des consommateurs dans sa version actuellement en vigueur.
 
-[Article 2 – Portée de l’application](#accordion-item-section-article2)
------------------------------------------------------------------------
+Article 2 – Portée de l’application
+-----------------------------------
 
 ### 2.1. Généralités
 
@@ -111,8 +111,8 @@ Sauf réglementation contraire dans les Conditions générales de transport, en 
 
 2 = Conformément au règlement (CE) no 2111/2005 du Parlement européen et du Conseil du 14 décembre 2005 relatif à l’établissement d’une liste européenne des transporteurs aériens soumis à une interdiction d’exploitation au sein de la Communauté, ainsi que l’obligation d’informer les passagers de l’identité des compagnies aériennes opérant le vol, et l’abrogation de l’article 9 de la directive 2004/36/CE.
 
-[Article 3 – Billets](#accordion-item-section-article3)
--------------------------------------------------------
+Article 3 – Billets
+-------------------
 
 ### 3.1. Généralités
 
@@ -156,8 +156,8 @@ Veuillez envoyer vos demandes écrites à travers [_​_notre formulaire de cont
 
 Si vous avez reçu plusieurs billets identiques (c’est-à-dire des billets où figurent la même date, la même séquence d’utilisation des coupons de vol, les mêmes noms de passagers ou le même tarif), nous sommes autorisés à annuler les segments de vol excédentaires afin qu’il ne reste qu’un seul voyage.
 
-[Article 4 – Prix, tarifs, taxes et frais](#accordion-item-section-article4)
-----------------------------------------------------------------------------
+Article 4 – Prix, tarifs, taxes et frais
+----------------------------------------
 
 ### 4.1. Tarifs
 
@@ -171,8 +171,8 @@ Les taxes, frais et suppléments imposés par les gouvernements ou d’autres au
 
 Les tarifs et frais et suppléments doivent être payés dans la devise du pays d’émission du billet, sauf si nous, ou nos agents autorisés indiquons une autre devise avant ou au moment du paiement (par exemple s’il est impossible de faire une conversion dans la devise locale). Nous pouvons, à notre discrétion, accepter des paiements dans d’autres devises.
 
-[Article 5 – Réservation des sièges](#accordion-item-section-article5)
-----------------------------------------------------------------------
+Article 5 – Réservation des sièges
+----------------------------------
 
 ### 5.1. Conclusion du contrat de transport
 
@@ -209,8 +209,8 @@ Dans le cas d’une réservation de siège gratuite, nous faisons de notre mieux
 
 3 = Réglementation (EU) no 996/2010 du Conseil et du Parlement européens datée du 20 octobre 2010 relative à l’investigation et à la prévention des accidents et incidents dans l’aviation civile et la directive abrogatoire 94/56/EG.
 
-[Article 6 – Arrivée en temps voulu à l’enregistrement et à l’embarquement](#accordion-item-section-article6)
--------------------------------------------------------------------------------------------------------------
+Article 6 – Arrivée en temps voulu à l’enregistrement et à l’embarquement
+-------------------------------------------------------------------------
 
 **6.1.** Les heures limites d’enregistrement varient d’un aéroport à l’autre : Par conséquent, nous vous recommandons de vous en informer à temps et de respecter ces délais. Vous voyagerez plus sereinement si vous prévoyez suffisamment de temps pour effectuer l’ensemble du processus d’enregistrement. Nous nous réservons le droit d’annuler votre réservation si vous ne respectez pas les heures de fin d’enregistrement. Nous (ou notre agent autorisé) vous informerons avec plaisir de l’heure limite d’enregistrement de votre premier vol. Vous pouvez également trouver ces horaires dans nos plans de vol. Cependant, vous devez vous renseigner par vos propres moyens en ce qui concerne tout vol aller ou retour ultérieur composant votre voyage.
 
@@ -218,8 +218,8 @@ Dans le cas d’une réservation de siège gratuite, nous faisons de notre mieux
 
 **6.3.** Nous pouvons annuler votre réservation si vous ne vous présentez pas à l’enregistrement ou à la porte d’embarquement en temps voulu.
 
-[Article 7 – Refus et restrictions de transport](#accordion-item-section-article7)
-----------------------------------------------------------------------------------
+Article 7 – Refus et restrictions de transport
+----------------------------------------------
 
 ### 7.1. Droit de refuser le transport
 
@@ -243,8 +243,8 @@ Nous pouvons également refuser de vous transporter ou de transporter vos bagage
 
 Le transport d’enfants non accompagnés, de personnes handicapées, de femmes enceintes, de personnes malades ou d’autres personnes ayant besoin d’assistance doit être organisé avec nous au préalable.
 
-[Article 8 – bagages](#accordion-item-section-article8)
--------------------------------------------------------
+Article 8 – bagages
+-------------------
 
 ### 8.1. Franchise bagage gratuite
 
@@ -326,13 +326,13 @@ Les animaux voyageant avec vous en cabine (et leur cage de transport, le cas éc
 
 Vous devrez assumer toutes les dépenses découlant du non-respect de cette disposition et de tout dommage causé par votre animal, et vous devrez nous indemniser intégralement, sauf en cas de négligence grave ou de faute intentionnelle d’Austrian.  
 
-[Article 9 – Annulations, refus d’embarquement pour cause de surbooking, retards des vols](#accordion-item-section-article9)
-----------------------------------------------------------------------------------------------------------------------------
+Article 9 – Annulations, refus d’embarquement pour cause de surbooking, retards des vols
+----------------------------------------------------------------------------------------
 
 Nous faisons notre possible pour éviter les annulations, les refus d’embarquement pour cause de surbooking et les retards de vols. Si un vol était retardé ou annulé, ou si l’on vous refuse l’embarquement en raison d’un surbooking, vous pouvez déposer une réclamation conformément au règlement (EC) n° 261/2004 établissant des règles communes en matière d’indemnisation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le règlement (CEE) n° 295/91.
 
-[Article 10 – Remboursements](#accordion-item-section-article10)
-----------------------------------------------------------------
+Article 10 – Remboursements
+---------------------------
 
 ### 10.1. Remboursement des billets
 
@@ -375,8 +375,8 @@ Nous nous réservons le droit de vous rembourser de la même manière et dans la
 
 Les remboursements seront uniquement effectués par le transporteur aérien ou ses agents ayant initialement émis le billet.
 
-[Article 11 – Comportement à bord de l’appareil](#accordion-item-section-article11)
------------------------------------------------------------------------------------
+Article 11 – Comportement à bord de l’appareil
+----------------------------------------------
 
 ### 11.1. Généralités
 
@@ -412,15 +412,15 @@ Veuillez ne pas envoyer d’informations sensibles vous concernant, telles que d
 
 11.3.4. Il est expressément interdit d’entrer et de rester dans l’avion avec une infection connue à la Covid-19. Vous vous engagez à rembourser tous les frais encourus par Austrian en conséquence d’une violation de la présente disposition.
 
-[Article 12 – Dispositions pour des services supplémentaires fournis par des tiers](#accordion-item-section-article12)
-----------------------------------------------------------------------------------------------------------------------
+Article 12 – Dispositions pour des services supplémentaires fournis par des tiers
+---------------------------------------------------------------------------------
 
 **12.1.** Si nous prenons des dispositions pour vous avec un tiers pour qu’il fournisse des services autres que le transport aérien, ou si nous émettons des documents liés au transport ou aux services fournis par un tiers (services supplémentaires), comme une réservation d’hôtel ou une location de voiture, nous agissons uniquement en qualité d’agent. Le contrat est directement établi entre vous et le tiers concerné. Nous ne sommes pas un partenaire du contrat.
 
 **12.2.** Pour les réservations de packages myHoliday Austrian, un contrat est établi par notre intermédiaire entre vous et le partenaire contractuel choisi pour les services du package en question. Toute réclamation découlant de ce lien contractuel concerne uniquement et directement les partenaires contractuels. En ce qui concerne les packages myHoliday Austrian, nous agissons uniquement en tant que facilitateur de votre partenaire contractuel pour le vol et/ou transport, lorsque nous en sommes les fournisseurs directs ou que nous travaillons conjointement avec un partenaire de partage de code. En ce qui concerne tous les autres services proposés, nous agissons uniquement en tant qu’intermédiaire. Veuillez noter que les packages myHoliday Austrian sont uniquement disponibles conjointement avec un vol Austrian Airlines. Il est impossible de réserver un package sans réserver un vol.
 
-[Article 13 – Formalités administratives](#accordion-item-section-article13)
-----------------------------------------------------------------------------
+Article 13 – Formalités administratives
+---------------------------------------
 
 ### 13.1. Généralités
 
@@ -452,13 +452,13 @@ Si nécessaire, nous serons présents lors de l’inspection de vos bagages enre
 
 Vous devez vous soumettre à tous les contrôles de sécurité imposés par les autorités, les aéroports, les transporteurs aériens ou nous-mêmes.
 
-[Article 14 – Transporteurs successifs](#accordion-item-section-article14)
---------------------------------------------------------------------------
+Article 14 – Transporteurs successifs
+-------------------------------------
 
 Le transport qui doit être effectué par nous et d’autres transporteurs aériens sous un seul billet, au regard de la convention, est considéré comme une opération unique. Toutefois, nous attirons votre attention sur l’article 15.3.2 à cet égard.
 
-[Article 15 – Responsabilité en cas de dommages](#accordion-item-section-article15)
------------------------------------------------------------------------------------
+Article 15 – Responsabilité en cas de dommages
+----------------------------------------------
 
 ### 15.1. Principes
 
@@ -508,8 +508,8 @@ Ces limites de responsabilité ne s’appliquent pas si l’on apporte la preuve
 
 **15.5.3.** Dans l’éventualité où l’un des objets mentionnés dans les points 8.3.1 et 8.3.2 est découvert dans votre bagage, nous déclinons toute responsabilité quant à la perte ou l’altération de cet objet, à la condition que cette perte ou altération ne relève pas d’une négligence grossière ou d’un comportement délibéré de notre part (voir également l’article 8.3.4.).
 
-[Article 16 – Délais des réclamations et plaintes](#accordion-item-section-article16)
--------------------------------------------------------------------------------------
+Article 16 – Délais des réclamations et plaintes
+------------------------------------------------
 
 ### 16.1. Avis de réclamation
 
@@ -521,23 +521,23 @@ Si vous souhaitez déposer une réclamation ou une plainte concernant des dommag
 
 Tout droit à des dommages expirera si une plainte n’est pas déposée dans les 2 ans suivant la date d’arrivée de l’avion à destination, date à laquelle l’avion devait arriver, ou date à laquelle le transport a été interrompu. Le calcul du délai de prescription est déterminé par la loi du tribunal où l’affaire est entendue.
 
-[Article 17 – Autres conditions](#accordion-item-section-article17)
--------------------------------------------------------------------
+Article 17 – Autres conditions
+------------------------------
 
 Votre transport ou celui de vos bagages est assuré conformément à d’autres règlements et conditions applicables ou que nous avons adoptées. Ces dernières, modifiées de temps en temps, sont importantes et concernent le transport de mineurs non accompagnés, les restrictions relatives à l’utilisation d’appareils électroniques, la consommation de boissons alcoolisées à bord, entre autres.
 
-[Article 18 – Interprétation](#accordion-item-section-article18)
-----------------------------------------------------------------
+Article 18 – Interprétation
+---------------------------
 
 Le titre de chaque article est fourni uniquement à des fins de commodité et ne peut être utilisé pour l’interprétation du texte.
 
-[Article 19 – Modifications et renonciation](#accordion-item-section-article19)
--------------------------------------------------------------------------------
+Article 19 – Modifications et renonciation
+------------------------------------------
 
 Aucun de nos agents autorisés, employés ou représentants autorisés n’a le droit de compléter, de modifier ou de renoncer à l’application des Conditions générales de transport ou d’autres conditions.
 
-[Article 20 – Tribunal compétent/Résolution alternative des litiges](#accordion-item-section-article20)
--------------------------------------------------------------------------------------------------------
+Article 20 – Tribunal compétent/Résolution alternative des litiges
+------------------------------------------------------------------
 
 Si aucune juridiction ne résulte des conditions de la présente Convention ou d’une autre loi en vigueur, toute action en justice contre nous devra être menée auprès du tribunal compétent de Vienne. Les dispositions légales s’appliquent aux actions en justice intentées à notre encontre par les consommateurs.
 
