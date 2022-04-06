@@ -1,38 +1,64 @@
 Cette traduction n'est proposée qu'à titre informatif. Dans le cas de divergences entre le texte en anglais et cette traduction, la version en anglais prévaudra.
 
-Politique de protection des données de Discord
-==============================================
+[Archived Versions](https://discord.com/archive/)
 
-Entrée en vigueur : 28 mars 2022Dernière mise à jour : 25 février 2022La version précédente de cette politique se trouve ici.Table des matières[Bienvenue !](#bienvenue-)[Discord est votre espace pour discuter](#discord-est-votre-espace-pour-discuter)[Les informations que nous collectons](#les-informations-que-nous-collectons)[Informations que vous nous fournissez](#informations-que-vous-nous-fournissez)[Informations que nous collectons automatiquement](#informations-que-nous-collectons-automatiquement)[Informations que nous recevons d’autres sources](#informations-que-nous-recevons-dautres-sources)[Comment nous utilisons vos informations](#comment-nous-utilisons-vos-informations)[Comment nous partageons vos informations](#comment-nous-partageons-vos-informations)[Conservation des données](#conservation-des-données)[Comment nous protégeons vos informations](#comment-nous-protégeons-vos-informations)[Comment contrôler la protection de vos données](#comment-contrôler-la-protection-de-vos-données)[Transferts internationaux de données](#transferts-internationaux-de-données)[Services offerts par des tiers](#services-offerts-par-des-tiers)[Délégué à la protection des données](#délégué-à-la-protection-des-données)[Informations pour les utilisateurs de l’EEE, du Royaume-Uni et du Brésil](#informations-pour-les-utilisateurs-de-leee-du-royaume-uni-et-du-brésil)[Informations pour les utilisateurs de Californie](#informations-pour-les-utilisateurs-de-californie)[Modifications apportées à la présente Politique de protection des données](#modifications-apportées-à-la-présente-politique-de-protection-des-données)[Nous contacter](#nous-contacter)
+Politique de protection des données de Discord[
+
+](#politique-de-protection-des-données-de-discord)
+===================================================================================================
+
+Entrée en vigueur : 28 mars 2022 Dernière mise à jour : 25 février 2022La version précédente de cette politique se trouve ici.Table des matières
+
+1.  [Bienvenue !](#bienvenue-)
+2.  [Discord est votre espace pour discuter](#discord-est-votre-espace-pour-discuter)
+3.  [Les informations que nous collectons](#les-informations-que-nous-collectons)
+    *   [Informations que vous nous fournissez](#informations-que-vous-nous-fournissez)
+    *   [Informations que nous collectons automatiquement](#informations-que-nous-collectons-automatiquement)
+    *   [Informations que nous recevons d’autres sources](#informations-que-nous-recevons-dautres-sources)
+4.  [Comment nous utilisons vos informations](#comment-nous-utilisons-vos-informations)
+5.  [Comment nous partageons vos informations](#comment-nous-partageons-vos-informations)
+6.  [Conservation des données](#conservation-des-données)
+7.  [Comment nous protégeons vos informations](#comment-nous-protégeons-vos-informations)
+8.  [Comment contrôler la protection de vos données](#comment-contrôler-la-protection-de-vos-données)
+9.  [Transferts internationaux de données](#transferts-internationaux-de-données)
+10.  [Services offerts par des tiers](#services-offerts-par-des-tiers)
+11.  [Délégué à la protection des données](#délégué-à-la-protection-des-données)
+12.  [Informations pour les utilisateurs de l’EEE, du Royaume-Uni et du Brésil](#informations-pour-les-utilisateurs-de-leee-du-royaume-uni-et-du-brésil)
+13.  [Informations pour les utilisateurs de Californie](#informations-pour-les-utilisateurs-de-californie)
+14.  [Modifications apportées à la présente Politique de protection des données](#modifications-apportées-à-la-présente-politique-de-protection-des-données)
+15.  [Nous contacter](#nous-contacter)
 
 Bienvenue ![
 
 ](#bienvenue-)
-----------------------------
+============================
 
 La présente Politique de protection des données explique comment nous collectons, utilisons, stockons, protégeons et partageons vos informations personnelles par le biais de nos services.Si vous résidez dans l’Espace économique européen (EEE) ou au Royaume-Uni, Discord Netherlands BV est le responsable du traitement de vos informations personnelles collectées par le biais des services (défini dans nos [Conditions d’utilisation](https://discord.com/terms)).Pour le reste du monde, Discord Inc. est le responsable du traitement des données.Il est important que vous lisiez l’intégralité de cette politique, mais voici un résumé pour vous aider à vous y familiariser :
 
-| La confidentialité nous tient beaucoup à cœur. Nous nous engageons à créer des espaces où les personnes peuvent se rassembler et trouver leur appartenance. Le respect de la confidentialité des utilisateurs est un élément clé de cette mission. Nous ne vendons pas vos données. Notre entreprise est basée sur des abonnements et des produits payants. Nous limitons les informations qui sont requises. Nous avons besoin des informations qui nous permettent de créer votre compte, de fournir nos services, de respecter nos engagements envers nos utilisateurs et de satisfaire à nos exigences légales. Le reste est facultatif. Nous accordons une grande importance à la sécurité. Notre équipe Confiance et sécurité dédiée met tout en œuvre pour aider à préserver la sécurité de notre communauté. Nous utilisons également certaines informations pour nous aider à identifier les violations de notre Charte d’utilisation de la communauté et empêcher la distribution de contenu nuisible par l’intermédiaire des services. Nous vous donnons le contrôle. Nous vous donnons la possibilité de contrôler la protection de vos données sur Discord. |
-| --- |
-|     |
+*   La confidentialité nous tient beaucoup à cœur. Nous nous engageons à créer des espaces où les personnes peuvent se rassembler et trouver leur appartenance. Le respect de la confidentialité des utilisateurs est un élément clé de cette mission.
+*   Nous ne vendons pas vos données. Notre entreprise est basée sur des abonnements et des produits payants.
+*   Nous limitons les informations qui sont requises. Nous avons besoin des informations qui nous permettent de créer votre compte, de fournir nos services, de respecter nos engagements envers nos utilisateurs et de satisfaire à nos exigences légales. Le reste est facultatif.
+*   Nous accordons une grande importance à la sécurité. Notre équipe Confiance et sécurité dédiée met tout en œuvre pour aider à préserver la sécurité de notre communauté. Nous utilisons également certaines informations pour nous aider à identifier les violations de notre Charte d’utilisation de la communauté et empêcher la distribution de contenu nuisible par l’intermédiaire des services.
+*   Nous vous donnons le contrôle. Nous vous donnons la possibilité de contrôler la protection de vos données sur Discord.
 
 Discord est votre espace pour discuter[
 
 ](#discord-est-votre-espace-pour-discuter)
------------------------------------------------------------------------------------
+===================================================================================
 
 Nous avons construit Discord pour être votre espace pour discuter. Que vous fassiez partie d’un club, d’un groupe de joueurs, d’une communauté artistique mondiale ou que vous souhaitiez simplement passer du temps avec vos amis, Discord vous permet de parler tous les jours et de passer du temps ensemble plus souvent.Nos « services » ont la même définition que celle des [Conditions d’utilisation](https://discord.com/terms). Ils comprennent l’application Discord, accessible sur mobile, Web, ordinateur de bureau, console ou même sur un appareil domestique connecté : tout appareil doté d’un navigateur Web et d’une connexion à Internet. Nous disposons également d’un site Web, d’un blog et d’un centre d’assistance, et nous pouvons recueillir vos informations par d’autres moyens comme via des enquêtes, des e-mails et les réseaux sociaux.Comme expliqué dans nos [Conditions d’utilisation](https://discord.com/terms), nous permettons aux utilisateurs d’ajouter du contenu de plusieurs manières, y compris via des messages directs et dans des communautés de différentes tailles. Certains de ces espaces sont publics, et si vous partagez du contenu sur ceux-ci, ce contenu peut être accessible à de nombreuses personnes, y compris des personnes que vous ne connaissez pas. Par exemple, certains serveurs sont disponibles dans la section Découverte de serveur de l’application et ne nécessitent pas de lien d’invitation pour les rejoindre. D’autres propriétaires de serveurs peuvent publier leur lien d’invitation de serveur sur des sites Web publics. N’importe qui peut accéder à ces serveurs, et vous devez savoir que les propriétaires ou administrateurs de serveurs définissent ces autorisations, et comme la taille d’un serveur, les autorisations peuvent changer au fil du temps.Nous pouvons également utiliser du contenu publié dans des espaces publics pour aider à alimenter des fonctionnalités telles que Server Discovery et pour nous aider à identifier le contenu nuisible sur les services. Ces fonctionnalités sont importantes pour nous, et nous pensons qu’elles rendront Discord encore meilleur pour nos utilisateurs. Nous essaierons toujours de vous faire savoir quels espaces sont publics au sein de Discord (bien que nous ne contrôlions pas où les liens d’invitation sont partagés ou les autorisations pour ce serveur). Comme indiqué dans la section « Comment contrôler la protection de vos données » ci-dessous, vous pouvez contrôler si vos données sont utilisées à ces fins. Vous devez prendre tout cela en compte lorsque vous utilisez nos services, et choisir l’espace, les fonctionnalités et les paramètres qui conviennent le mieux à votre contenu.Nous gagnons de l’argent à partir d’abonnements payants et de la vente de biens numériques (et parfois physiques), et non en vendant vos informations à caractère personnel à des tiers.
 
 Les informations que nous collectons[
 
 ](#les-informations-que-nous-collectons)
--------------------------------------------------------------------------------
+===============================================================================
 
 Nous collectons certaines informations lorsque vous utilisez Discord. Cela comprend les informations que vous nous fournissez, les informations que nous collectons automatiquement et les informations que nous recevons d’autres sources.
 
-### Informations que vous nous fournissez[
+Informations que vous nous fournissez[
 
 ](#informations-que-vous-nous-fournissez)
+---------------------------------------------------------------------------------
 
 Nous collectons les informations que vous nous fournissez directement lorsque vous utilisez les services. Cela comprend :
 
@@ -43,9 +69,10 @@ Nous collectons les informations que vous nous fournissez directement lorsque vo
 *   Informations utilisées pour activer des fonctions facultatives. Certaines fonctionnalités, comme la synchronisation des contacts, peuvent exiger que vous fournissiez des informations supplémentaires (ou que vous nous accordiez l’accès à ces informations) pour les faire fonctionner. Cela inclut également des informations sur les intégrations tierces que vous choisissez d’activer et les données que vous autorisez ces services tiers à partager avec nous. Par exemple, lorsque vous vous connectez à un compte de streaming musical, nous collectons des informations sur ce compte, telles que la chanson que vous écoutez afin d’afficher ces informations sur votre profil ou sous votre statut (si vous avez choisi de le faire).
 *   Autres informations que vous nous fournissez directement. Vous pouvez avoir la possibilité de soumettre des informations supplémentaires lorsque vous utilisez Discord. Par exemple, vous pouvez choisir de participer à notre programme de serveur vérifié, qui exige que vous fournissiez des informations supplémentaires sur vous-même ou votre entreprise. Vous pouvez aussi participer à des enquêtes où vous pouvez fournir des commentaires sur le produit, ou soumettre des informations à nos équipes d’assistance Discord.
 
-### Informations que nous collectons automatiquement[
+Informations que nous collectons automatiquement[
 
 ](#informations-que-nous-collectons-automatiquement)
+-------------------------------------------------------------------------------------------------------
 
 Nous collectons également des informations automatiquement auprès de vous lorsque vous utilisez Discord. Cela comprend :
 
@@ -59,16 +86,17 @@ Nous pouvons recevoir des informations provenant de cookies (petits fichiers tex
 *   Cookies fonctionnels : Ils nous servent à fournir des fonctionnalités améliorées sur les services, comme la mémorisation des préférences linguistiques. La désactivation de ces paramètres pourrait affecter certaines fonctionnalités du service.
 *   Cookies de performance : Ils nous permettent, à nous ou à nos fournisseurs d’analyse tiers, d’apprendre comment vous et d’autres personnes utilisez les services et collaborez avec ces derniers afin que nous puissions les comprendre et les améliorer.
 
-### Informations que nous recevons d’autres sources[
+Informations que nous recevons d’autres sources[
 
 ](#informations-que-nous-recevons-d’autres-sources)
+-----------------------------------------------------------------------------------------------------
 
 Nous pouvons recevoir des informations vous concernant à partir d’autres sources, y compris d’autres utilisateurs et de tiers, et combiner ces informations avec les autres informations que nous détenons à votre sujet. Par exemple, si vous interagissez avec notre compte sur réseaux sociaux sur une autre plateforme, nous pouvons recevoir certaines informations vous concernant, comme votre nom d’utilisateur sur cette plateforme.
 
 Comment nous utilisons vos informations[
 
 ](#comment-nous-utilisons-vos-informations)
--------------------------------------------------------------------------------------
+=====================================================================================
 
 Nous utilisons vos informations aux fins suivantes :Pour remplir notre contrat avec vous
 
@@ -90,7 +118,7 @@ Pour nous conformer à nos obligations légalesNous conservons et utilisons vos 
 Comment nous partageons vos informations[
 
 ](#comment-nous-partageons-vos-informations)
----------------------------------------------------------------------------------------
+=======================================================================================
 
 Cette section décrit comment nous partageons vos informations.
 
@@ -106,21 +134,21 @@ Cette section décrit comment nous partageons vos informations.
 Conservation des données[
 
 ](#conservation-des-données)
--------------------------------------------------------
+=======================================================
 
 Nous conservons les informations à caractère personnel aussi longtemps que nécessaire aux fins pour lesquelles nous les avons collectées. Si votre compte est inactif pendant plus de deux ans, nous pouvons le supprimer, et nous pouvons supprimer ou anonymiser toute information personnelle associée à votre compte.Si vous nous envoyez une pièce d’identité pour un recours concernant la vérification de votre âge, nous la supprimerons dans les soixante jours suivant la clôture du ticket du recours sur votre âge.
 
 Comment nous protégeons vos informations[
 
 ](#comment-nous-protégeons-vos-informations)
----------------------------------------------------------------------------------------
+=======================================================================================
 
 Nous prenons un certain nombre de mesures pour protéger vos informations. Toutes les informations envoyées au sein de nos services sont chiffrées à la fois en transit et au repos. Par exemple, nous utilisons Transport Layer Security (TLS) pour chiffrer le texte et les images en transit. Nous appliquons également des contrôles d’accès techniques et administratifs pour limiter le nombre d’employés et de sous-traitants qui ont accès à des informations personnelles non publiques.Vous pouvez contribuer à maintenir la sécurité de votre compte en configurant la double authentification.
 
 Comment contrôler la protection de vos données[
 
 ](#comment-contrôler-la-protection-de-vos-données)
----------------------------------------------------------------------------------------------------
+===================================================================================================
 
 Nous pensons que les utilisateurs devraient être en mesure d’adapter leur expérience Discord à leurs préférences, y compris en ce qui concerne la protection de leurs données. Et si les exigences des législations locales peuvent varier, nous pensons que nos utilisateurs devraient avoir la même capacité à façonner leur expérience, où qu’ils se trouvent dans le monde. Voici comment vous pouvez contrôler la manière dont nous traitons vos informations et comment demander l’accès à vos informations :Soyez conscient des espaces Discord auxquels vous choisissez de participerVous pouvez choisir à tous moments les communautés auxquelles participer et les informations que vous ajoutez à nos services. Vous pouvez choisir quels messages envoyer ou publier, avec qui discuter (par exemple, un ou plusieurs utilisateurs particuliers ou un groupe d’utilisateurs potentiellement illimité), quelles informations inclure dans votre profil, s’il convient de connecter des services tiers à votre compte Discord, et plus encore. Par exemple, si vous partagez du contenu dans des espaces publics, il peut être accessible à n’importe qui. Le contenu public peut également être soumis à moins de restrictions en vertu de vos lois locales.Personnaliser vos paramètres Discord personnelsNous proposons un certain nombre de paramètres qui vous permettent de personnaliser votre expérience au sein de Discord. Certains de ces éléments se rapportent à des fonctionnalités spécifiques : par exemple, vous pouvez choisir d’afficher votre activité actuelle dans votre statut via l’onglet Statut de l’activité dans votre page Paramètres utilisateur (il s’agit du bouton en forme d’engrenage à côté de votre nom).Vous pouvez également accéder aux paramètres spécifiques à la protection des données dans la section Confidentialité et sécurité de vos Paramètres utilisateur. Par exemple, vous pouvez décider quels types de messages directs sont analysés pour rechercher du contenu explicite, qui peut vous ajouter en tant qu’ami, et plus encore. C’est également là que vous pouvez restreindre certains types de traitement de vos informations :
 
@@ -133,7 +161,12 @@ Vous pouvez également désactiver ou supprimer votre compte via l’onglet « M
 *   Vous pouvez modifier ou supprimer un serveur Discord si vous disposez des autorisations nécessaires pour le faire.
 *   Vous pouvez modifier ou supprimer un canal d’un serveur Discord si vous disposez des autorisations nécessaires pour le faire.
 
-Les messages publics peuvent être conservés par Discord pour être utilisés comme décrit ailleurs dans la présente politique. De plus, dans des circonstances limitées, nous pouvons avoir l’obligation légale de conserver certaines informations, même si vous supprimez les informations ou votre compte.Si vous souhaitez voir quelles informations nous avons recueillies à votre sujet, vous pouvez demander une copie de vos données en sélectionnant Demander des données dans la section Confidentialité et sécurité de vos Paramètres utilisateur. Vous devriez recevoir l’ensemble de vos données dans les 30 jours. Les données sont fournies dans des formats numériques courants, notamment CSV, JSON et tout autre format de fichier que vous avez utilisé lors de l’envoi de pièces-jointes aux services.Gérer les cookiesPour contrôler la manière dont les informations sont collectées et utilisées à partir des cookies sur les services, vous pouvez suivre l’une ou plusieurs des étapes suivantes.
+Les messages publics peuvent être conservés par Discord pour être utilisés comme décrit ailleurs dans la présente politique. De plus, dans des circonstances limitées, nous pouvons avoir l’obligation légale de conserver certaines informations, même si vous supprimez les informations ou votre compte.Si vous souhaitez voir quelles informations nous avons recueillies à votre sujet, vous pouvez demander une copie de vos données en sélectionnant Demander des données dans la section Confidentialité et sécurité de vos Paramètres utilisateur. Vous devriez recevoir l’ensemble de vos données dans les 30 jours. Les données sont fournies dans des formats numériques courants, notamment CSV, JSON et tout autre format de fichier que vous avez utilisé lors de l’envoi de pièces-jointes aux services.
+
+Gérer les cookies
+-----------------
+
+Pour contrôler la manière dont les informations sont collectées et utilisées à partir des cookies sur les services, vous pouvez suivre l’une ou plusieurs des étapes suivantes.
 
 *   Vous pouvez désactiver et gérer certains cookies via les paramètres de votre navigateur. Vous devrez gérer vos paramètres pour chaque navigateur que vous utilisez. Vous trouverez des instructions sur la gestion des cookies dans les navigateurs populaires tels qu’[Internet Explorer](https://support.microsoft.com/en-us/windows/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d#ie=ie-10), [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies), [Chrome](https://support.google.com/chrome/answer/95647?hl=en&ref_topic=14666), [Safari (iOS)](https://support.apple.com/en-us/HT201265), [Safari (Mac)](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)et[Opera](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/).
 *   Pour désactiver les cookies d’analyse, vous pouvez utiliser les contrôles du navigateur mentionnés ci-dessus ou, pour certains fournisseurs, vous pouvez utiliser leurs mécanismes de désabonnement individuels, tels que le [Module pour la désactivation de Google Analytic](https://tools.google.com/dlpage/gaoptout).
@@ -146,55 +179,48 @@ Si vous désactivez ou supprimez les cookies, certaines parties des services peu
 Transferts internationaux de données[
 
 ](#transferts-internationaux-de-données)
--------------------------------------------------------------------------------
+===============================================================================
 
-Nous sommes basés aux États-Unis, et nous traitons et stockons des informations sur des serveurs situés aux États-Unis. Nous pouvons également stocker des informations sur des serveurs et des équipements dans d’autres pays en fonction de divers facteurs, y compris l’emplacement de nos utilisateurs et prestataires de services. Ces transferts de données nous permettent de vous fournir nos services. En accédant à nos services ou en les utilisant, ou en nous fournissant des informations d’une autre manière, vous comprenez que vos informations seront traitées, transférées et stockées aux États-Unis et dans d’autres pays, où des normes différentes en matière de protection des données peuvent s’appliquer ou bien où vous n’avez peut-être pas les mêmes droits que ceux que vous avez en vertu de la législation nationale.Lorsque nous transférons des données en dehors de l’EEE, nous utilisons des [clauses contractuelles standard](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087) et nous nous appuyons sur les [décisions en matière d’adéquation](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) de la Commission européenne concernant certains pays, le cas échéant, ou d’autres mécanismes ou conditions juridiquement conformes pour ce transfert de données.Nous adhérons également aux Boucliers de protection de données Union européenne-États-Unis et Suisse-États-Unis et nous nous conformons à leur cadre et principes. Bien que le Bouclier de protection de données UE-États-Unis ne soit plus une base valable pour certains transferts internationaux de données, nous continuons à respecter son cadre et ses principes concernant les données à caractère personnel reçues de l’UE en plus de toutes les autres lois applicables.Si vous avez des questions ou des réclamations concernant notre conformité aux principes du Bouclier de protection des données, veuillez nous contacter à l’adresse [privacy@discordapp.com](mailto:privacy@discordapp.com).Si nous ne résolvons pas votre réclamation, vous pouvez la soumettre gratuitement à la [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). Sous certaines conditions spécifiées par les principes du Bouclier de protection des données, vous pouvez également être en mesure d’invoquer un arbitrage contraignant pour résoudre votre réclamation. Nous sommes soumis aux pouvoirs d’enquête et d’exécution de la Federal Trade Commission des États-Unis. Dans certaines circonstances, nous pouvons être tenus responsables du transfert de données à caractère personnel depuis l’UE, la Suisse ou le Royaume-Uni vers un tiers en dehors de ces pays.Pour plus d’informations sur les principes du Bouclier de protection des données et pour consulter notre certification, veuillez consulter le site du [Bouclier de protection des données](https://www.privacyshield.gov/) du Département du Commerce des États-Unis.
+Nous sommes basés aux États-Unis, et nous traitons et stockons des informations sur des serveurs situés aux États-Unis. Nous pouvons également stocker des informations sur des serveurs et des équipements dans d’autres pays en fonction de divers facteurs, y compris l’emplacement de nos utilisateurs et prestataires de services. Ces transferts de données nous permettent de vous fournir nos services. En accédant à nos services ou en les utilisant, ou en nous fournissant des informations d’une autre manière, vous comprenez que vos informations seront traitées, transférées et stockées aux États-Unis et dans d’autres pays, où des normes différentes en matière de protection des données peuvent s’appliquer ou bien où vous n’avez peut-être pas les mêmes droits que ceux que vous avez en vertu de la législation nationale.Lorsque nous transférons des données en dehors de l’EEE, nous utilisons des [clauses contractuelles standard](http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32010D0087) et nous nous appuyons sur les [décisions en matière d’adéquation](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) de la Commission européenne concernant certains pays, le cas échéant, ou d’autres mécanismes ou conditions juridiquement conformes pour ce transfert de données.Nous adhérons également aux Boucliers de protection de données Union européenne-États-Unis et Suisse-États-Unis et nous nous conformons à leur cadre et principes. Bien que le Bouclier de protection de données UE-États-Unis ne soit plus une base valable pour certains transferts internationaux de données, nous continuons à respecter son cadre et ses principes concernant les données à caractère personnel reçues de l’UE en plus de toutes les autres lois applicables.Si vous avez des questions ou des réclamations concernant notre conformité aux principes du Bouclier de protection des données, veuillez nous contacter à l’adresse [privacy@discord.com](mailto:privacy@discord.com). Si nous ne résolvons pas votre réclamation, vous pouvez la soumettre gratuitement à la [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). Sous certaines conditions spécifiées par les principes du Bouclier de protection des données, vous pouvez également être en mesure d’invoquer un arbitrage contraignant pour résoudre votre réclamation. Nous sommes soumis aux pouvoirs d’enquête et d’exécution de la Federal Trade Commission des États-Unis. Dans certaines circonstances, nous pouvons être tenus responsables du transfert de données à caractère personnel depuis l’UE, la Suisse ou le Royaume-Uni vers un tiers en dehors de ces pays.Pour plus d’informations sur les principes du Bouclier de protection des données et pour consulter notre certification, veuillez consulter le site du [Bouclier de protection des données](https://www.privacyshield.gov/) du Département du Commerce des États-Unis.
 
 Services offerts par des tiers[
 
 ](#services-offerts-par-des-tiers)
--------------------------------------------------------------------
+===================================================================
 
 Nous permettons à des développeurs tiers de créer certaines fonctionnalités ou d’autres services, et de les proposer dans les services Discord. Par exemple, les administrateurs de serveur peuvent ajouter des « bots » créés par des développeurs tiers qui fournissent des fonctionnalités telles que la modération du contenu et les jeux interactifs. De même, vous pouvez avoir accès à des jeux ou activités créés par des tiers dans les services.Ces services tiers doivent respecter toutes les politiques qui s’appliquent à eux (y compris souvent nos [Conditions de service pour les développeurs](https://discord.com/developers/docs/legal) et notre [Politique pour les développeurs](https://discord.com/developers/docs/policy)).Dans le cadre de ces politiques, nous exigeons des développeurs qu’ils disposent d’une politique de protection des données précisant ce qu’ils font de vos informations. Veuillez consulter ces politiques de confidentialité, car elles décrivent ce que les robots et les applications peuvent faire de vos informations. Nous exigeons également que certains robots populaires demandent l’accès à certaines données. Mais comme ces services sont exploités par des tiers, nous ne les contrôlons pas et ne contrôlons pas les informations qu’ils collectent. C’est à vous de décider s’il convient de participer à un serveur qui utilise des robots, et d’interagir avec des services tiers en général.
 
 Délégué à la protection des données[
 
 ](#délégué-à-la-protection-des-données)
------------------------------------------------------------------------------
+=============================================================================
 
-Vous pouvez contacter le délégué à la protection des données de Discord à l’adresse DPO@discordapp.com.
+Vous pouvez contacter le délégué à la protection des données de Discord à l’adresse [dpo@discord.com](mailto:dpo@discord.com).
 
 Informations pour les utilisateurs de l’EEE, du Royaume-Uni et du Brésil[
 
 ](#informations-pour-les-utilisateurs-de-l’eee-du-royaumeuni-et-du-brésil)
------------------------------------------------------------------------------------------------------------------------------------------------------
+=====================================================================================================================================================
 
 Certaines lois locales, telles que le Règlement général sur la protection des données (RGPD) de l’Union européenne et Lei Geral de Proteção de Dados (LGPD) du Brésil, exigent des services qu’ils fournissent des renseignements sur les informations qu’ils collectent, la manière dont ils les utilisent et la base légale pour les traiter. Nous en avons décrit la plupart dans les parties précédentes de la présente Politique.Exercer vos droits :Vous pouvez exercer vos droits relatifs au RGPD comme décrit dans la section ci-dessus « Comment contrôler la protection de vos données ».Si vous rencontrez un problème, contactez-nous à l’adresse [privacy@discord.com](mailto:privacy@discord.com).Représentant de Discord au Royaume-Uni. Nous avons nommé VeraSafe comme représentant de Discord au Royaume-Uni pour les questions de protection des données, conformément à l’article 27 du Règlement général sur la protection des données du Royaume-Uni. Reportez-vous à la section « Nous contacter » ci-dessous. Vous pouvez contacter VeraSafe uniquement pour les questions relatives au traitement des données à caractère personnel.
 
 Informations pour les utilisateurs de Californie[
 
 ](#informations-pour-les-utilisateurs-de-californie)
--------------------------------------------------------------------------------------------------------
+=======================================================================================================
 
 Les consommateurs résidant en Californie se voient accorder certains droits supplémentaires concernant leurs informations personnelles en vertu de la loi California Consumer Privacy Act (CCPA) et de la loi dite « Shine the Light ».Si vous êtes un résident californien, cette section s’applique à vous.Notre collecte et utilisation des informations personnelles :Nous collectons les catégories suivantes d’informations personnelles : identifiants (tels que votre nom d’utilisateur, l’adresse e-mail que vous avez utilisée pour vous inscrire, et votre numéro de téléphone si vous avez choisi de le fournir) ; des informations commerciales (un fichier sur ce que vous avez acheté auprès de Discord, le cas échéant) ; données financières (informations de paiement et votre historique d’achats auprès de Discord) ; informations sur Internet ou d’autres informations réseau (comment vous interagissez avec l’application) ; les informations de localisation (car votre adresse IP peut indiquer votre localisation générale) ; données déduites à votre sujet (par exemple, quel contenu peut vous intéresser) ; et d’autres informations qui vous identifient ou peuvent être raisonnablement associées à vous. Pour plus d’informations sur ce que nous collectons et les sources de cette collecte, veuillez consulter la section « Les informations que nous collectons » ci-dessus. Nous collectons des informations personnelles aux fins commerciales décrites dans « Comment nous utilisons vos informations » ci-dessus.Divulgation des informations personnelles : Nous pouvons partager vos informations personnelles avec des tiers comme décrit dans la section « Comment nous partageons vos informations » ci-dessus. Nous divulguons les catégories d’informations personnelles mentionnées ci-dessus à des fins professionnelles ou commerciales.Aucune vente d’informations personnelles : La CCPA énonce certaines obligations pour les entreprises qui vendent des informations personnelles. Nous ne vendons pas les informations personnelles de nos utilisateurs. Nous partageons des informations comme indiqué dans la section « Comment nous partageons vos informations » ci-dessus et vous pouvez faire des choix concernant vos informations comme indiqué dans la présente politique.Exercer vos droits de consommateur :Si vous êtes un résident de Californie, vous avez le droit de demander (1) plus d’informations sur les catégories et les éléments spécifiques d’informations personnelles que nous avons recueillies et divulguées à des fins commerciales au cours des 12 derniers mois, (2) la suppression de vos informations personnelles et (3) la désactivation de la vente de vos informations personnelles, le cas échéant. Vous trouverez des détails sur la manière de faire ces demandes dans la section « Comment contrôler la protection de vos données » ci-dessus. Nous n’exercerons pas de représailles à votre encontre si vous exercez vos droits en vertu de la CCPA.Demandes reçues : veuillez consulter [cette page](https://support.discord.com/hc/articles/4410339387671) pour connaître le nombre de demandes de données que nous avons reçues.
 
 Modifications apportées à la présente Politique de protection des données[
 
 ](#modifications-apportées-à-la-présente-politique-de-protection-des-données)
----------------------------------------------------------------------------------------------------------------------------------------------------------
+=========================================================================================================================================================
 
 Nous mettrons à jour la présente Politique de protection des données de temps à autre. Nous indiquons toujours la date à laquelle les dernières modifications ont été publiées, et si les modifications sont importantes, nous fournirons un avis plus visible tel que requis par la loi, par exemple en vous envoyant un e-mail ou en mettant en évidence les modifications dans les services.
 
 Nous contacter[
 
 ](#nous-contacter)
------------------------------------
+===================================
 
-Envoyez-nous un e-mail à l’adresse [privacy@discord.com](mailto:privacy@discord.com) pour toute question concernant la présente Politique de protection des données ou la manière dont nous traitons vos informations. Nous serons heureux de vous aider.Pour contacter le délégué à la protection des données de Discord, veuillez envoyer un e-mail à dpo@discord.com.Vous pouvez également nous joindre par courrier si vous le souhaitez. Si vous résidez dans l’EEE ou au Royaume-Uni, vous pouvez nous contacter à l’adresse suivante :Discord Netherlands BVATTN :Privacy PolicySchiphol Boulevard 1951118BG Schiphol, Amsterdam (Pays-Bas)Si vous résidez ailleurs, vous pouvez nous contacter à l’adresse suivante :Discord Inc.  
-ATTN :Privacy Policy  
-444 De Haro Street #200San Francisco, CA 94107, USA.Si vous résidez au Royaume-Uni, vous pouvez également contacter VeraSafe, le représentant désigné de Discord pour les questions relatives à la protection des données liées au traitement des données personnelles, en utilisant ce formulaire de contact :[https://www.verasafe.com/privacy-services/contact-article-27-representative](https://www.verasafe.com/privacy-services/contact-article-27-representative) ou par téléphone au +420 228 881 031.L’adresse postale de VeraSafe est :VeraSafe Ireland Ltd  
-Unit 3D North Point House  
-North Point Business Park  
-New Mallow Road  
-Cork T23AT2P  
-Ireland
+Envoyez-nous un e-mail à l’adresse [privacy@discord.com](mailto:privacy@discord.com) pour toute question concernant la présente Politique de protection des données ou la manière dont nous traitons vos informations. Nous serons heureux de vous aider.Pour contacter le délégué à la protection des données de Discord, veuillez envoyer un e-mail à [dpo@discord.com](mailto:dpo@discord.com).Vous pouvez également nous joindre par courrier si vous le souhaitez. Si vous résidez dans l’EEE ou au Royaume-Uni, vous pouvez nous contacter à l’adresse suivante :Discord Netherlands BV ATTN :Privacy Policy Schiphol Boulevard 195 1118BG Schiphol, Amsterdam (Pays-Bas)Si vous résidez ailleurs, vous pouvez nous contacter à l’adresse suivante :Discord Inc. ATTN :Privacy Policy 444 De Haro Street #200 San Francisco, CA 94107, USA.Si vous résidez au Royaume-Uni, vous pouvez également contacter VeraSafe, le représentant désigné de Discord pour les questions relatives à la protection des données liées au traitement des données personnelles, en utilisant ce formulaire de contact :[https://www.verasafe.com/privacy-services/contact-article-27-representative](https://www.verasafe.com/privacy-services/contact-article-27-representative) ou par téléphone au +420 228 881 031.L’adresse postale de VeraSafe est :VeraSafe Ireland Ltd Unit 3D North Point House North Point Business Park New Mallow Road Cork T23AT2P Ireland
