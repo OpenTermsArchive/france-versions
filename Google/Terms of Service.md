@@ -396,19 +396,19 @@ En cas de rétractation de votre part du présent contrat, nous vous remboursero
 | Finlande | 0800 520030 |
 | France | 0 805 98 03 38 |
 | Allemagne | 0800 6270502 |
-| Grèce | 800 4920 00536 |
-| Hongrie | 06 68 020 0148 |
+| Grèce | 00800 4920 00536 |
+| Hongrie | 06 80 200 148 |
 | Islande | 800 4177 |
 | Irlande | 1800 832 663 |
 | Italie | 800 598 905 |
 | Lettonie | 80 205 391 |
-| Liechtenstein | 800 566 814 |
+| Liechtenstein | 0800 566 814 |
 | Lituanie | 8 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malte | 8006 2257 |
 | Pays-Bas | 0800 3600010 |
 | Norvège | 800 62 068 |
-| Pologne | 800 331 1426 |
+| Pologne | 800 410 575 |
 | Portugal | 808 203 430 |
 | Roumanie | 0800 672 350 |
 | Slovaquie | 0800 500 932 |
