@@ -21,7 +21,7 @@ Mentions légales**
 
 ### 1.1 La société Rue du Commerce : informations légales
 
-La société Rue du Commerce est **une société par actions simplifiée** au capital de **111.950.672 euros** immatriculée au registre du commerce et des sociétés de Bobigny (93) sous le numéro B 422 797 720.
+La société Rue du Commerce est **une société par actions simplifiée** au capital de **111.950.672 euros** immatriculée au registre du commerce et des sociétés de Paris (75) sous le numéro B 422 797 720.
 
 ### 1.2 La boutique Rue du Commerce : quelles informations y figurent ?
 
@@ -37,18 +37,27 @@ Le site Rue du Commerce est présenté en langue française. Sont notamment indi
 
 \- La durée de validité de l'offre.
 
-###   
-1.3 Vous : qui êtes-vous pour nous ?
+  
+
+### 1.3 Vous : qui êtes-vous pour nous ?
 
 Vous êtes par principe un consommateur.
 
 Par votre commande, vous reconnaissez avoir la pleine capacité juridique pour vous engager à respecter les présentes conditions générales de vente.
 
-Nous vous informons par ailleurs qu'en cas de forte affluence sur une offre proposée (soldes, promotions, ventes flash...), Rue du Commerce se réservera le droit de refuser votre commande. Nos différents services clients sont à votre entière disposition et se veulent attentifs à toutes vos remarques.
+Nous vous informons par ailleurs qu'en cas de forte affluence sur une offre proposée (soldes, promotions, ventes flash...), Rue du Commerce se réservera le droit de refuser votre commande.
+
+Également, Rue du Commerce se réservera le droit de refuser toute commande qu’il considère comme comportant un risque de fraude.
+
+Nos différents services clients sont à votre entière disposition et se veulent attentifs à toutes vos remarques.
 
 ### 1.4 Les conditions générales de vente : que définissent-elles ?
 
-Toute commande que vous passerez sur ce site sera soumise aux présentes conditions générales de vente ainsi qu'aux conditions particulières régissant l'achat de certains services associés, à l'exception des commandes que vous passerez sur notre Galerie Marchande.
+Toute commande que vous passerez sur ce site sera soumise aux présentes conditions générales de vente ainsi qu'aux conditions particulières régissant l'achat de certains services associés, à l'exception des commandes que vous passerez sur notre Galerie Marchande. (« CGV »)
+
+Ainsi, Les présentes Conditions Générales de Vente s’appliquent UNIQUEMENT pour les produits vendus et expédiées par Rue du Commerce ou un de ses fournisseurs. Elles ne concernent pas les produits vendus sur Rue du Commerce par des partenaires marchands sur la Galerie Marchande.  
+  
+Sur les fiches produits du site, vous pouvez ainsi prendre connaissance du vendeur du produit concerné. Les mentions « Vendu et expédié par Rue du Commerce » ou « Vendu par Rue du Commerce et expédié par XXXX » vous garantissent que ces produits sont directement commercialisés et gérés par Rue Du Commerce et s’inscrivent dans le respect des conditions générales de Ventes suivantes. 
 
 Ces CGV ont pour objet de définir le régime des ventes et les droits et obligations qui en découlent.
 
@@ -56,9 +65,9 @@ Nous vous informons que, dans la mesure où vous commandez les produits en ligne
 
 Nous sommes vigilants à adapter régulièrement le texte des conditions générales de vente.
 
-Aussi bien, nous vous invitons à prendre connaissance de la version en vigueur au jour de votre commande.
+Aussi, nous vous invitons à prendre connaissance de la version en vigueur au jour de votre commande.
 
-A cette fin, vous disposez de la faculté de télécharger, de sauvegarder et de reproduire les conditions générales de vente.
+A cette fin, vous nous invitons à sauvegarder les conditions générales de vente valables au moment de la passation de votre commande.
 
    
 2\. Les offres de Rue du Commerce
@@ -72,15 +81,15 @@ Nous nous réservons la possibilité de limiter le nombre de commandes par compt
 
 Pour les produits non stockés dans nos entrepôts, nos offres sont valables sous réserve de disponibilité chez nos fournisseurs. Dans ce cadre, des indications sur la disponibilité des produits sont fournies au moment de la passation de votre commande. Ces informations provenant directement de nos fournisseurs, des erreurs ou modifications peuvent exceptionnellement survenir.
 
-Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous en avertirons par email dès réception des informations transmises par les fournisseurs.
+Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous avertirons par email dès réception des informations transmises par les fournisseurs.
 
-A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part et vous serez remboursé si votre compte bancaire a été débité.
+A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'insponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
 
 ### 2.2 L'identification des produits : les informations fournies ?
 
 Les photographies, textes, graphismes, fiches techniques sont pour la plupart issues des documentations élaborées par les fabricants ou constructeurs, reproduites sous leur contrôle et avec leur accord.
 
-Si vous effectuez un achat afin de compléter un produit déjà en votre possession, vous devez exprimer clairement ce besoin, car nous ne pourrions être tenus de difficultés de compatibilité dont nous ne pouvions anticiper les causes. A ce titre, notre service avant-vente se tient à votre entière disposition pour vous conseiller lors de votre achat.
+Si vous effectuez un achat afin de compléter un produit déjà en votre possession, vous devez exprimer clairement ce besoin, car nous ne pourrions être tenus responsables de difficultés de compatibilité dont nous ne pouvions anticiper les causes. A ce titre, notre service avant-vente, joignable par Téléphone au ![numéro avant vente](https://www.rueducommerce.fr/static/drupal-front/inline-images/numero_avant_vente_0109_0.png) du lundi au vendredi de 9h00 à 20h00, le samedi de 9h00 à 18h00, sauf jours fériés, se tient à votre entière disposition pour vous conseiller lors de votre achat.
 
 ### 2.3 La commercialisation des produits : la conformité des offres ?
 
@@ -98,7 +107,7 @@ Les offres du site Rue du Commerce sont présentées par le biais d’un moteur 
 
 **Lors de vos recherches**, le classement des offres proposées peut se faire selon le critère :
 
-\- de la **« Pertinence »** des offres. Les produits sont alors classés en fonction du nombre de fois que le mot (ou la liste de mots) recherché apparaît dans la Fiche Produit. A titre d’exemple, la Fiche Produit dont le « Titre » contient le mot que vous recherchez sera considérée par le moteur de recherche comme plus pertinente que si le mot apparait seulement dans le « Descriptif du produit ».
+\- de la **« Pertinence »** des offres. Les produits sont alors classés en fonction du nombre de fois que le mot (ou la liste de mots) recherché apparaît dans la Fiche Produit. A titre d’exemple, la Fiche Produit dont le « Titre » contient le mot que vous recherchez sera considérée par le moteur de recherche comme plus pertinente que si le mot apparaît seulement dans le « Descriptif du produit ».
 
 \- des **« Meilleures ventes »** : le classement des offres proposées consiste en une agrégation pondérée de plusieurs éléments :
 
@@ -108,27 +117,40 @@ Les offres du site Rue du Commerce sont présentées par le biais d’un moteur 
 
 \> Le trafic généré par le produit (en pourcentage du trafic global du site).
 
-Le premier produit aura donc le meilleur résultat global sur ces critères par rapport à l’ensemble des autres produits répondant à la recherche.
+Le premier produit aura donc le meilleur résultat global sur ces critères par rapport à l’ensemble des autres produits répondant à la recherche.  
+  
+\- De la « disponibilité ». Les produits en stock apparaissent en priorité par rapport aux produits nécessitant un réapprovisionnement.
 
 Ce calcul est réalisé sur ces critères constatés au cours des vingt-cinq (25) derniers jours.
 
 **  
 Lors de vos recherches**, vous avez également la possibilité d’utiliser le menu déroulant **« Trier Par »** et de choisir les modalités de classement des offres parmi les options suivantes :
 
-\- Prix croissant : les produits sont classés du prix le plus bas au prix le plus élevé ;
+\- Pertinence : cf. définition ci-dessus ;  
+  
+\- Nouveauté : les produits sont classés en fonction de leur récence de disponibilité sur notre site ;  
+  
+\- Prix croissant : les produits sont classés du prix le plus bas au prix le plus élevé ;
 
 \- Prix décroissant : les produits sont classés du prix le plus élevé au prix le plus bas ;
 
-\- Note : les produits sont classés en fonction des notes de satisfaction accordées par les clients ;
-
 \- Meilleures ventes : cf. définition ci-dessus.
 
-\- Meilleures réductions : taux de réduction le plus avantageux  
+\- Promotions : taux de réduction le plus avantageux  
   
 
+Vous avez également la possibilité de filtrer les listings de produits proposés via des filtres mis à disposition permettant une recherche plus précise. Ces filtres varient en fonction des typologies de produits recherchés. Voici quelques exemples :  
+  
+\- En stock  
+\- Vendeurs  
+\- Prix  
+\- Marque  
+\- Avis Clients  
+\- ...  
+  
 Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »** : ces offres ont fait l’objet d’une rémunération influençant leur classement. Les marchands et marques participent à des enchères pour figurer dans cet espace. Nous appliquons cependant nos algorithmes à ces résultats afin qu’ils soient pertinents par rapport à la recherche.
 
-**Lorsque un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
+**Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
 **
 
@@ -141,7 +163,7 @@ Le classement de ces différentes offres, et notamment la détermination de l’
 \- Les délais de livraison.  
   
 
-Rue du commerce va opérer une agrégation pondérée de ces différents éléments.
+Rue du Commerce va opérer une agrégation pondérée de ces différents éléments.
 
 L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques.
 
@@ -163,19 +185,19 @@ La société Rue du Commerce est attentive à vos suggestions pour augmenter le 
 
 Lors de votre visite sur notre site, les services associés proposés sont signalés par une icône, à laquelle est attaché un lien activable permettant d'accéder à un descriptif des caractéristiques pratiques et aux conditions particulières dudit service. Ces conditions particulières sont téléchargeables sur la fiche descriptive du service, vous en acceptez leur contenu lors de votre commande.
 
-### 2.7 Le Pack Reprise
+### 2.7 Le Pack Reprise - APPLICABLE AUX PRODUITS ACHETES JUSQU'AU 21 FEVRIER 2022
 
-**Important : Le service Pack Reprise n'est plus disponible à l'achat depuis le 21/02/2022. Si vous avez acheté le Pack Reprise avant cette date, votre coupon reste valable jusqu'à sa date d'expiration.**  
-  
-Lorsque vous achetez sur le site rueducommerce.fr un produit éligible (produits High-Tech - hors TV de plus de 55"- et petit électroménager dont le prix d’achat est supérieur à 50 euros et inférieur à 4 000 euros), signalé par la mention « Pack Reprise » sur la fiche produit, le service Pack Reprise est inclus.
+Si vous avez acheté un produit éligible signalé par la mention « Pack Reprise » sur la fiche produit jusqu'au 21 février 2022, le service Pack Reprise est inclus.
 
 Ce service vous permet de renvoyer, pendant 1 an, votre produit éligible à notre partenaire SPB Services et de recevoir un bon d’achat d’une valeur de 80% du prix d’achat.
 
 Les produits renvoyés doivent être en état de fonctionnement. Ils peuvent avoir des traces d’usure telles que des rayures mais ne doivent pas présenter de cassure.
 
-Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.fr pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
+Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.com pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
 
-Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation. 
+Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation.   
+  
+Pour en savoir plus sur les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf).
 
 3\. Le traitement de la commande
 --------------------------------
@@ -190,13 +212,15 @@ Nous ne pourrions être tenus pour responsable d'éventuelles erreurs de saisie 
 
 Afin d'assurer la sécurité des transactions et de répondre au souci du plus grand nombre de prévenir les fraudes en matière de vente à distance, nous effectuons des contrôles sur la passation des commandes.
 
-Dans le cadre d'un contrôle, nous vous invitons par courriel à transmettre des justificatifs de domicile et d'identité (le but étant de s'assurer de la réalité de l'identité et de la domiciliation (par exemple une quittance d'électricité, une facture de téléphone fixe pour la perfection de la commande).
+Dans le cadre d'un contrôle, nous vous invitons par courriel à transmettre des justificatifs de domicile et d'identité (le but étant de s'assurer de la réalité de l'identité et de la domiciliation (par exemple une quittance d'électricité, une facture de téléphone fixe) pour la perfection de la commande).
 
 L'envoi du scan du recto-verso partiellement masqué de votre carte bancaire peut également être demandé. Ne communiquez pas cependant le cryptogramme de sécurité.
 
 Le délai de livraison ne commence à courir qu'à compter de la date d'expédition de la commande, qui ne peut être antérieure à la validation des pièces justificatives.
 
 À défaut de justificatif ou si les pièces adressées ne permettent pas de s'assurer de l'identité de l'auteur de la commande, de la réalité de la domiciliation, ou des conditions apparentes de solvabilité, nous serions dans l'obligation d'annuler la commande ou de vous demander un règlement comptant pour garantir la sûreté des transactions en ligne et le parfait encaissement des articles commandés.
+
+Veuillez également noter que tout document justificatif ou d’identité sont conservés uniquement pour la durée du contrôle et sont immédiatement détruits une fois le contrôle effectué. Par ailleurs, les opérateurs de contrôle font l’objet d’une habilitation spécifique permettant la consultation de vos documents qui ne sont pas consultables par le reste des équipes Rue Du Commerce dans un souci de confidentialité.
 
 4\. Le paiement du prix
 -----------------------
@@ -205,21 +229,28 @@ Le délai de livraison ne commence à courir qu'à compter de la date d'expédit
 
 **• CARTE BANCAIRE**
 
-Carte Bleue, VISA, American Express, E-carte bleue (hors Galerie Marchande), MasterCard. Votre carte bancaire sera débitée à l’expédition de votre colis. Si votre commande contient plusieurs produits, expédiés en plusieurs colis, vous serez débité au fur et à mesure du montant des produits après l’expédition de chaque produit.
+Carte Bleue, VISA, American Express, E-carte bleue (hors Galerie Marchande), MasterCard. Votre carte bancaire sera débitée au moment de la préparation de votre commande. Si votre commande contient plusieurs produits, expédiés en plusieurs colis, vous serez débité(e) au fur et à mesure du montant des produits après l’expédition de chaque produit.
 
 **• COMPTE PAYPAL**
 
-En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le site de Rue du Commerce. Les commandes payées par PayPal sont débitées au moment du passage de la commande.
+En choisissant le paiement via PayPal, vous serez automatiquement dirigé(e) sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le site de Rue du Commerce. Les commandes payées par PayPal sont débitées au moment du passage de la commande.
 
 **• BON D’ACHAT**
 
-Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).
+Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).  
+  
+Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client
 
-Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.
+Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.  
+  
+A NOTER : si votre bon d’achat couvre le montant de votre achat, vous devrez sélectionner le moyen de paiement « Virement » pour valider votre commande.  
+  
+A NOTER : Si votre bon d’achat est sécable et que le montant de votre achat est inférieur à la valeur de votre bon d’achat, votre compte client sera directement recrédité du montant restant de votre bon d’achat initial.  
+  
 
 **• 3x ou 4x CB Cofidis Pay**
 
-Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire suivi de 3 mensualités et assortie de frais négligeables. Le 3x CB est valable pour toute commande de 60 € à 1500 € par carte bancaire et le 4x CB est valable pour toute commande de 60 € à 3000 € par carte bancaire (exceptées cartes bancaires à autorisations systématiques, corporates, temporaires, étrangères et spécifiques) effectuée sur « rueducommerce.com » (hors cosmétiques, articles de mode et consommables). Le coût du financement est de 2,3 % du montant total de votre commande, hors opérations spécifiques sans intérêts. Offre réservée aux particuliers majeurs, sous réserve d’acceptation par Cofidis. Délai de rétractation de 14 jours. Rue du commerce, N° SIREN 422797720 et N° ORIAS 12069017, agit en qualité d’intermédiaire en opérations de banque de Cofidis. COFIDIS, S.A. au capital de 53 758 872€, dont le siège social est situé au Parc de la Haute Borne, 61 av. Halley - 59650 VILLENEUVE D'ASCQ Cedex - RCS LILLE n°325 307 106. N°ORIAS 07 02 34 93 ([www.orias.fr](https://www.orias.fr/)).  
+Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire suivi de 3 mensualités et assortie de frais négligeables. Le 3x CB est valable pour toute commande de 60 € à 1500 € par carte bancaire et le 4x CB est valable pour toute commande de 60 € à 3000 € réglée par carte bancaire (exceptées cartes bancaires à autorisations systématiques, corporate, temporaires, étrangères et spécifiques) et effectuée sur « rueducommerce.com » (hors cosmétiques, articles de mode et consommables). Le coût du financement est de 2,3 % du montant total de votre commande, hors opérations spécifiques sans intérêts. Offre réservée aux particuliers majeurs, sous réserve d’acceptation par Cofidis. Délai de rétractation de 14 jours. Rue du commerce, N° SIREN 422797720 et N° ORIAS 12069017, agit en qualité d’intermédiaire en opérations de banque de Cofidis. COFIDIS, S.A. au capital de 67 500 000€, dont le siège social est situé au Parc de la Haute Borne, 61 av. Halley - 59650 VILLENEUVE D'ASCQ Cedex - RCS LILLE n°325 307 106. N°ORIAS 07 023 493 ([www.orias.fr](https://www.orias.fr/)).  
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
 
@@ -229,7 +260,7 @@ Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de rem
 
 Choisissez le mode de paiement 5x 10x 20x sur la page paiement ; vous remplissez un seul formulaire en ligne ; vous obtenez une réponse de principe immédiate.
 
-5x 10x 20x est un crédit renouvelable d’un an reconductible sans frais de dossier. Le crédit se renouvelle au fur et à mesure des remboursements et est réutilisable. Les intérêts sont calculés suivant un TAEG révisable qui varie en fonction du solde restant dû. Montant maximum du crédit : 1 000 euros. Vous bénéficiez d’un délai légal de rétractation de 14 jours à compter de la signature de votre contrat de crédit. Le crédit est consenti sous réserve d’acceptation par COFIDIS SA à Directoire et Conseil de surveillance au capital de au capital de 67 500 000€ Siège social : Parc de la Haute Borne, 61 avenue Halley - 59866 VILLENEUVE D’ASCQ Cedex - R.C.S Lille Métropole n° 325 307 106 - Enregistré auprès de l’ORIAS sous le n° 07 023 493 ([www.orias.fr](https://www.orias.fr/welcome)). Rue du Commerce est mandataire non exclusif pour COFIDIS afin d’apporter son concours à la réalisation du contrat de crédit, il ne dispose d’aucun pouvoir d’octroi ou de gestion du crédit. N°ORIAS : 12 069 017  
+5x 10x 20x est un crédit renouvelable d’un an reconductible sans frais de dossier. Le crédit se renouvelle au fur et à mesure des remboursements et est réutilisable. Les intérêts sont calculés suivant un TAEG révisable qui varie en fonction du solde restant dû. Montant maximum du crédit : 1 000 euros. Vous bénéficiez d’un délai légal de rétractation de 14 jours à compter de la signature de votre contrat de crédit. Le crédit est consenti sous réserve d’acceptation par COFIDIS SA à Directoire et Conseil de surveillance au capital de 67 500 000€ Siège social : Parc de la Haute Borne, 61 avenue Halley - 59866 VILLENEUVE D’ASCQ Cedex - R.C.S Lille Métropole n° 325 307 106 - Enregistré auprès de l’ORIAS sous le n° 07 023 493 ([www.orias.fr](https://www.orias.fr/welcome)). Rue du Commerce est mandataire non exclusif pour COFIDIS afin d’apporter son concours à la réalisation du contrat de crédit, il ne dispose d’aucun pouvoir d’octroi ou de gestion du crédit. N°ORIAS : 12 069 017  
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
 
@@ -249,7 +280,7 @@ Attention ! Vos produits ne sont pas réservés dans l'attente de votre paiement
 
 Rue du Commerce se réserve la possibilité de ne pas proposer un ou plusieurs modes de paiement présentés ci-dessus, pour tout motif légitime, notamment dans l'hypothèse où le partenaire de paiement ne propose plus le service choisi ou dans le cas d’un manquement ou d’une fraude manifeste et significatif(ve) de votre part.
 
-Sur le site mobile, sont acceptés les moyens de paiements suivants :
+Sur la version mobile du site, sont acceptés les moyens de paiements suivants :
 
 \- CARTE BANCAIRE
 
@@ -263,7 +294,7 @@ Sur le site mobile, sont acceptés les moyens de paiements suivants :
 
 Toutes les transactions bancaires s'effectuent d'une manière sécurisée. Nous vous certifions que les coordonnées de cartes de paiement sont cryptées grâce au protocole SSL (Secure Socket Layer) afin de protéger toutes les données liées aux informations personnelles et aux moyens de paiement et ne transitent jamais en clair sur le réseau. Le paiement est directement effectué auprès de la banque. Les données concernant votre carte de paiement ne sont pas archivées par Rue du Commerce.
 
-En dehors des offres spéciales et des offres de paiement différé que nous vous proposons sur le site, le paiement est exigible intégralement à compter de la commande. Une commande sera considérée comme soldée lorsque la totalité des produits aura été expédiée et que vous vous serez intégralement acquitté du paiement des produits.
+En dehors des offres spéciales et des offres de paiement différé que nous vous proposons sur le site, le paiement est exigible intégralement à compter de la commande. Une commande sera considérée comme soldée lorsque la totalité des produits aura été expédiée et que vous vous serez intégralement acquitté(e) du paiement des produits.
 
 Nous aurons le droit de refuser d'effectuer une livraison ou d'honorer une commande dans les cas où vous n'auriez pas réglé totalement ou en partie une précédente commande, ou dans les cas où un litige de paiement subsisterait.
 
@@ -276,11 +307,11 @@ Nous conservons la pleine propriété des produits en vente, jusqu'au parfait en
 
 Les produits vous seront livrés à l'adresse que vous aurez indiquée sur le bon de commande, uniquement en France métropolitaine, Corse, Monaco et Belgique (à l'exception des encombrants qui ne pourront pas être livrés en Belgique et à Monaco).
 
-Suivant le poids et/ou le volume des différents produits commandés, vous aurez le choix de différents modes de transport : [https://www.RueduCommerce.fr/Aide/29-Modes-de-livraison/](https://www.rueducommerce.fr/aide/avant-ma-commande/quels-modes-de-livraison-proposez-vous), dans la limite de 800kgs (au-delà de ce poids, des frais supplémentaires pourront être facturés).
+Suivant le poids et/ou le volume des différents produits commandés, vous aurez le choix de différents modes de transport : [https://www.RueduCommerce.fr/Aide/29-Modes-de-livraison/](https://www.rueducommerce.fr/aide/avant-ma-commande/quels-modes-de-livraison-proposez-vous), dans la limite de 800kgs (au-delà de ce poids, des frais supplémentaires pourront être facturés). Dans de rares cas, il se peut qu'un seul mode de livraison vous soit proposé car les caractéristiques de votre produit ne nous permettent pas de vous proposer un éventail plus large de modes de livraison.
 
-La société Rue du Commerce se réserve le droit de facturer une participation aux frais de port.
+La société Rue du Commerce se réserve le droit de facturer une participation aux frais de port, notamment selon le mode de transport sélectionné par le client.
 
-Le montant des frais de port pourra cependant être plus élevé que les tarifs indiqués en cas de livraison effectuée en Corse ou à l'étranger (Monaco et Belgique).
+Le montant des frais de port pourra cependant être plus élevé que les tarifs indiqués en cas de livraison effectuée en zone éloignée (îles, montagnes), Corse ou à l'étranger (Monaco et Belgique).
 
 La participation demandée est détaillée ([https://www.rueducommerce.fr/aide/avant-ma-commande/quel-est-le-montant-des-frais-de-livraison](https://www.rueducommerce.fr/aide/avant-ma-commande/quel-est-le-montant-des-frais-de-livraison)) et indiquée avant la validation de la commande.
 
@@ -288,17 +319,19 @@ Dans le cas où l'adresse indiquée ne serait pas correcte ou incomplète, Rue d
 
 ### 5.2 Délais de livraison : quand vos produits arriveront-ils ?
 
-Une date limite de livraison vous sera communiquée avant la validation de votre commande, compte tenu du choix du transporteur souhaité. Les délais de livraison applicables sont ceux indiqués lors de la validation de votre commande. Ils commencent à courir à compter de l'expédition de la commande
+Une date limite de livraison vous sera communiquée avant la validation de votre commande, compte tenu du choix du transporteur souhaité. Les délais de livraison applicables sont ceux indiqués lors de la validation de votre commande. Ils commencent à courir à compter de la validation de la commande une fois les contrôles fraude effectués.
 
 ### 5.3 Retard de livraison : que faire ?
 
-En cas de retard de livraison dans les huit jours ouvrés suivant la date d'expédition indiquée dans le courriel « suivi – avis d'expédition » veuillez prendre contact avec [notre service client](https://www.rueducommerce.fr/info/nous-contacter "service client"). Nous vous invitons cependant à vous être préalablement adressé à votre bureau de poste ou de retrait.
+En cas de retard de livraison dans les huit jours ouvrés suivant la date d'expédition indiquée dans le courriel « suivi – avis d'expédition » veuillez prendre contact avec [notre service client](https://www.rueducommerce.fr/info/nous-contacter "service client"). Nous vous invitons cependant à vous être préalablement adressé(e) à votre bureau de poste ou de retrait.
 
-Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à 21 jours ouvrés à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile (sauf pour les livraisons en point de retrait). Au-delà, le colis sera considéré comme perdu.
+Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à 21 jours ouvrés à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile ou en point de retrait (en fonction du mode de livraison sélectionné à la commande). Au-delà, le colis sera considéré comme perdu.
 
 Tout retard de livraison doit nous être indiqué dans un délai de 21 jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
 
-A la clôture pour perte de l'enquête, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.
+A la clôture de l'enquête pour perte, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.  
+  
+Si le transport a déclaré votre colis livré mais que vous contestez cette livraison, nous pourrons être amenés à vous demander une contestation formelle et manuscrite ainsi que la copie de votre carte d’identité ou passeport.
 
 Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effectué avant la clôture de l'enquête.
 
@@ -307,13 +340,13 @@ Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effe
 
 ### 6.1 La personne qui reçoit le colis : le soin à apporter ?
 
-Attention, si vous confiez la réception du produit à un tiers (concierge de votre immeuble, hôtesse d'accueil sur le lieu de travail, …) celui-ci reçoit le colis en votre nom et pour votre compte.
+Attention, si vous confiez la réception du produit à un tiers (concierge de votre immeuble, hôtesse d'accueil sur le lieu de travail, …) celui-ci reçoit le colis en votre nom et pour votre compte. Il endosse donc la responsabilité de la conformité de la réception.
 
-Il est responsable à ce titre, vous devez donc lui demander d'être vigilant sur le suivi des précautions d'usage et lui rappeler d'apporter à la chose reçue le même soin que s'il en était personnellement destinataire.
+A ce titre, vous devez donc lui demander d'être vigilant sur le suivi des précautions d'usage et lui rappeler d'apporter à la chose reçue le même soin que s'il en était personnellement destinataire.
 
-Pour tout colis remis sans votre signature, vous devez nous faire part d'une contestation de livraison dans un délai maximum de 15 jours à compter de la date d'expédition. Dans le cas où les articles expédiés ne sont plus disponibles, un avoir correspondant au montant de la commande vous sera adressé.
+Pour tout colis dont vous contestez la livraison, vous devez nous faire part d'une contestation de livraison dans un délai maximum de 15 jours à compter de la date d'expédition depuis votre espace client. Après enquête, et si la non livraison est avérée, dans le cas où les articles expédiés ne sont plus disponibles, un avoir correspondant au montant de la commande vous sera adressé.
 
-Nous vous demandons d'être particulièrement vigilent lors de la réception de votre commande à propos de sa vérification (article 9.2) et la constatation d'une éventuelle anomalie (article 6.3).
+Nous vous demandons d'être particulièrement vigilant lors de la réception de votre commande à propos de sa vérification (article 9.2) et la constatation d'une éventuelle anomalie (article 6.3).
 
 ### 6.2 La vérification initiale : quelles précautions d'usage ?
 
@@ -325,9 +358,9 @@ A défaut, vous devez obligatoirement :
 
 \- Inscrire des réserves manuscrites circonstanciées en faisant signer le livreur à côté. Les réserves prises par le destinataire à la livraison constituent des moyens de preuve de l'existence et de l'importance du dommage. Veillez à être précis et complet dans leurs rédactions (la simple mention « sous réserve de déballage » est considérée comme trop générale et imprécise), et
 
-\- Notifier par lettre en recommandé avec accusé réception un courrier de protestation motivé à votre transporteur dans un délai de trois (3) jours à compter de la réception conformément aux dispositions de l'article L.133-3 du Code de commerce),
+\- Notifier par lettre recommandée avec accusé réception un courrier de protestation motivé à votre transporteur dans un délai de trois (3) jours à compter de la réception conformément aux dispositions de l'article L.133-3 du Code de commerce),
 
-\- En informer la société Rue du Commerce par courriel via votre espace client ou courrier recommandé dans un délai de trois (3) jours ouvrés suivant la livraison de votre colis,  
+\- En informer la société Rue du Commerce par courriel via votre espace client ou courrier recommandé avec accusé réception dans un délai de trois (3) jours ouvrés suivant la livraison de votre colis,  
   
 
 Pour des raisons probatoires, nous vous recommandons de nous communiquer des photographies sous toutes les faces de votre colis dans ce même délai.
@@ -338,13 +371,11 @@ Si les produits doivent être renvoyés, vous présenterez une demande de retour
 
 Cette demande sera accompagnée, le cas échéant, de la copie du courrier adressé au transporteur ou du "constat de spoliation" (constat 170 pour la Poste) ou du "relevé d'anomalie" obtenu du transporteur. Par précaution, nous vous demandons de conserver un double de ce formulaire. En cas d'absence d'une anomalie liée au transport, la demande du numéro de retour peut être faite par téléphone auprès de notre service client. Le retour s'effectuera conformément aux modalités de l'article 7 décrites ci-après.
 
-Si le transport a déclaré votre colis livré mais que vous contestez cette livraison, nous pourrons être amenés à vous demander une contestation formelle et manuscrite ainsi que la copie de votre carte d’identité ou passeport.
-
 En tout état de cause, ces précautions ne font pas obstacle au bénéfice des garanties légales et de l'exercice du droit de rétraction. Néanmoins, pour que votre rétractation soit acceptée, vous devez auparavant nous avoir informés de l'anomalie ou de la spoliation.
 
 ### 6.3 Vous repérez une anomalie ou une spoliation : comment réagir ?
 
-**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
+**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou rescotché (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
 
 Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
 
@@ -364,7 +395,7 @@ Pour le cas où vous receviez une livraison ne vous étant pas destinée, nous v
 
 **Produits livrés non conformes à la commande.** En cas de produit non conforme, vous pourrez formuler vos réclamations auprès de notre service client.
 
-Il vous sera demandé de décrire précisément les motifs justifiant la non-conformité.
+Il vous sera demandé de décrire précisément les motifs justifiant la non-conformité et des photos pourront vous être demandées.
 
 Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le cas où vous recevez une commande qui ne vous est pas destinée, vous êtes alors dans l'obligation de la rendre. A défaut, Rue du Commerce sera en droit de vous facturer le produit que vous avez indûment reçu.
 
@@ -373,15 +404,19 @@ Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le
 
 ### 7.1 Une gestion efficace des retours : l'attribution d'un numéro de traitement.
 
-Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais. Si vous avez besoin de contacter notre assistance technique, n'hésitez pas à vous rendre sur [cette page](https://www.rueducommerce.fr/contact_adv.html "contact adv").
+Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais.
 
-Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour au service client.
+Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulataire retour disponible dans votre espace client.
 
-Un numéro de retour sera alors communiqué avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement). Le retour en cas de rétractation est alors à votre charge. Attention : , le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
+La prise en compte de votre demande de retour sera alors confirmé par mail avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement).  
+  
+En cas de rétractation, le retour est alors à votre charge. Attention, le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
 
 Nous vous informons que certains documents liés au(x) colis pourront vous être réclamés. Vous devrez donc demeurer en possession de tous les éléments reçus (emballage compris pour des raisons de sécurité des produits) jusqu'à la résolution complète de vos réclamations.
 
-En cas de retour reçu au siège social de la société et non au SAV, le colis sera refusé et retourné automatiquement à l'expéditeur.  
+En cas de retour reçu au siège social de notre société et non à l'adresse de notre SAV, le colis sera refusé et retourné automatiquement à l'expéditeur. Si ce dernier n'a pas pu être refusé, nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
+  
+A NOTER : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
 Aussi, en cas de réception d’un produit non conforme (produit ne correspondant pas au produit qui devait être retourné), les frais de retour resteront à la charge du client.  
 Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
@@ -390,7 +425,7 @@ A noter que le client disposera d’un délai d’un an pour fournir une étique
 
 ### 7.2 Un retour complet de la commande : Documents + emballage + produit.
 
-Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous ne pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), avec leur emballage d'origine**, l'ensemble devant être intact et en bon état.
+Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), si possible dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
 
 Vous devez accompagner votre retour d'un double de la facture.
 
@@ -400,48 +435,50 @@ A défaut, Rue du Commerce sera en droit d'appliquer une décote sur le produit 
 
 ### 7.3 Les risques du retour : précautions à prendre
 
-Nous attirons spécialement votre attention sur le fait qu'en l'absence d'étiquette prépayée (rétractation) vous devez retourner le produit :
+Nous attirons spécialement votre attention sur le fait qu'en l'absence d'étiquette prépayée fournie par Rue du Commerce vous devez retourner le produit :
 
 \- en déclarant la valeur du produit, telle qu'elle résulte de la facture d'achat et
 
 \- en veillant à la parfaite couverture d'assurance des risques de retour, en rapport avec la facture d'achat.
 
-En effet, en cas de retour à votre charge et hors assurance complémentaire, vous êtes informés que le transporteur ne vous indemnisera qu'à hauteur du barème légal. A ce titre, à défaut d'assurance souscrite de votre part, vous serez remboursé à hauteur de 32 euros par kilo.
+En effet, en cas de retour à votre charge et hors assurance complémentaire, vous êtes informés que le transporteur ne vous indemnisera qu'à hauteur du barème légal. A ce titre, à défaut d'assurance souscrite de votre part, vous serez remboursé à hauteur de 33 euros par kilo dans la limite de 750€.
 
-Nous recommandons au client de procéder à la sauvegarde de ses données avant de retourner le produit. Les produits informatiques qui comportent un stockage de données sont susceptibles d'être reformatés. Rue du Commerce ne saurait être tenue pour responsable de la perte des données contenues dans le produit retourné. Ainsi, aucun préjudice lié à la perte de données présentes dans un produit retourné ne sera indemnisé.
+Nous recommandons au client de procéder à la sauvegarde de ses données avant de retourner le produit. Les produits informatiques qui comportent un stockage de données sont susceptibles d'être reformatés. Rue du Commerce ne saurait être tenu pour responsable de la perte des données contenues dans le produit retourné. Ainsi, aucun préjudice lié à la perte de données présentes dans un produit retourné ne sera indemnisé.
 
 ### 7.4 Cas d'une erreur ou d'une non-conformité apparente : le retour est à notre charge
 
 A la réception de la demande motivée, nous attribuerons un numéro de retour au(x) produits concerné(s) qui vous sera aussitôt communiqué.
 
-En cas d'erreur de livraison sur la référence du produit commandé ou de non-conformité apparente avérée : une étiquette prépayée vous sera de plus adressée par mail, afin d'effectuer le renvoi de ce(s) produit(s) à nos frais (à moins que nous fassions directement appel à un transporteur pour une reprise de la marchandise à votre domicile, en fonction du mode de transport aller du produit).En présence d'une étiquette prépayée, les retours sont alors à adresser rapidement à notre service après-vente avec leur emballage d'origine, complets (cf : article 7.2 ci-dessus) en bon état, avec une mention apparente du numéro de retour sur le colis et le bon de retour glissé à l'intérieur. En toute hypothèse, vous veillerez à choisir un emballage adapté pour le retour. En cas d'avarie sur des produits volumineux, la prise en charge sera assurée également par Rue du Commerce via une prise en charge dédiée par des transporteurs spécialisés. Les clients seront alors invités à prendre contact directement avec le service client Rue du Commerce.
+En cas d'erreur de livraison sur la référence du produit commandé ou de non-conformité apparente avérée : une étiquette prépayée vous sera de plus adressée par mail, afin d'effectuer le renvoi de ce(s) produit(s) à nos frais (à moins que nous fassions directement appel à un transporteur pour une reprise de la marchandise à votre domicile, en fonction du mode de transport aller du produit).  
+  
+En présence d'une étiquette prépayée, les retours sont alors à adresser rapidement à notre service après-vente avec leur emballage d'origine, complets (cf : article 7.2 ci-dessus) en bon état, avec une mention apparente du numéro de retour sur le colis et le bon de retour glissé à l'intérieur. En toute hypothèse, vous veillerez à choisir un emballage adapté pour le retour.  
+  
+Pour des raisons d’hygiène, les colis retour devront également être propres et ne pas faire courir de risque sanitaire au personnel traitant le retour. Ainsi, la présence de déchets, détritus ou tous autres éléments que les emballages, produits et éléments complémentaires demandés dans le colis retour et qui représentent un risque sanitaire pour le personnel, fera l’objet d’un refus de prise en charge. Des photos seront réalisées et la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
 
 8\. Les modalités particulières d'un retour pour rétractation
 -------------------------------------------------------------
 
-### 8.1 La durée du droit de rétractation : dans quels délais ?
+### 8.1La durée du droit de rétractation : dans quels délais ?
 
 Vous disposez d'un délai de rétractation de 14 jours calendaires pour retourner les produits ne vous convenant pas.
 
-Ce délai court à compter du jour de la réception du produit, ou du dernier produit livré en cas de commandes de plusieurs produits vendus et expédiés par Rue du Commerce.
+Ce délai court à compter du jour de la réception du produit, ou du dernier produit livré en cas de commandes de plusieurs produits vendus et expédiés par Rue du Commerce si le(s) produit(s) reçu(s) au préalable ne pourrai(en)t fonctionner sans.
 
 Ce délai expiré, vous ne disposez plus de ce droit de rétractation.
 
 Lorsque ce délai expire un week-end, jour férié ou chômé, il est prolongé jusqu'au prochain jour ouvrable.
 
-S'agissant des produits vendus et expédiés par Rue du Commerce, Rue du Commerce ne fournit pas les étiquettes transport retour. le client devra effectuer le retour par ses propres moyens à l’adresse qui lui parviendra par mail à la validation de sa demande de retour.
+S'agissant des produits vendus et expédiés par Rue du Commerce, Rue du Commerce ne fournit pas les étiquettes transport retour. Le client devra effectuer le retour par ses propres moyens à l’adresse qui lui parviendra par mail à la validation de sa demande de retour.
 
 Pour tous les produits commandés via la Galerie Marchande, les frais de retour restent à votre charge selon les modalités définies par le partenaire marchand.
-
-  
 
 **Spécificité relative aux Bons d’achats émis à la suite d’une commande**
 
 La rétractation de tout ou partie d’une commande annule la validité d’un bon d’achat obtenu lors du passage de cette commande. Si le bon d’achat a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
-### 8.2 L´exercice du droit de rétractation : de quelle manière ?
+### 8.2L´exercice du droit de rétractation : de quelle manière ?
 
-Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, notamment via le formulaire de rétractation.
+Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, via le formulaire de rétractation disponible depuis votre espace client.
 
 Dans l'hypothèse de l'exercice du droit de rétractation, vous pouvez demander le remboursement des sommes encaissées conformément aux dispositions légales en vigueur.
 
@@ -455,13 +492,13 @@ Enfin, seuls les articles neufs, non utilisés et si possible retournés dans l
 
 Conformément aux dispositions légales en vigueur, vous ne pouvez notamment pas vous rétracter sur les produits suivants :
 
-\- produits confectionnés selon les spécifications du consommateur, ou nettement personnalisés, ou, qui du fait de leur nature, ne peuvent être réexpédiés ou susceptibles de se détériorer ou de se périmer rapidement :
+\- produits confectionnés selon les spécifications du consommateur, ou nettement personnalisés, ou, qui du fait de leur nature, ne peuvent être réexpédiés ou susceptibles de se détériorer ou de se périmer rapidement ;
 
-\- produits d'enregistrement audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur :
+\- produits d'enregistrement audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur ou s'il s'agit de produits dématérialisés
 
 Compte tenu des règles applicables en matière de propriété intellectuelle, nous vous informons que les produits copiables, tels que les logiciels, jeux-vidéos, supports d'enregistrement etc., font l'objet de droits d'utilisation personnels et spécifiques réglementant les copies, la diffusion publique et la reproduction.
 
-\- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments.  
+\- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments, produits intra auriculaires.  
   
 
 ### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
@@ -473,7 +510,7 @@ Une fois votre colis retour arrivé à notre entrepôt, vous serez alors rembour
 9\. Les garanties des produits
 ------------------------------
 
-### 9.1 La garantie des produits: de quoi s'agit-il ?
+### 9.1 La garantie des produits : de quoi s'agit-il ?
 
 Lorsque vous achetez un produit vendu par Rue du Commerce, vous bénéficiez de deux garanties distinctes : une garantie commerciale et une garantie légale.
 
@@ -501,13 +538,13 @@ En tout état de cause, cela ne fait pas obstacle aux dispositions particulière
 
 La durée de disponibilité des pièces détachées des produits commercialisés par Rue du Commerce est accessible en [cliquant ici](https://www.media-rdc.com/document/f0729795f1b23b3d81e20f4eb80a6a3c/tableau-disponibilite-pieces-detachees-150520150.pdf).
 
-### 9.4 La garantie légale contre les défauts de conformité : que signifie t-elle ?
+### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
 
 Conformément aux articles L.217-4 à L.217-11 du Code de la consommation, vous bénéficiez d'une garantie contre les défauts de conformité des produits achetés sur notre site. Cette garantie contre les défauts de conformité s'applique au coût des pièces et main d'œuvre nécessaires à la remise en conformité de votre bien.
 
 Pour être conforme à votre commande, le bien doit correspondre à la description donnée sur notre site et posséder les qualités présentées ou présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage.
 
-Dans ce cas, il convient de nous faire état par écrit les défauts constatés et de nous renvoyer le ou les produits. Si le défaut de conformité est bien confirmé par les tests en SAV, nous procéderons à l'échange ou à la réparation du bien en fonction du coût que cela représente conformément à l'article L.217-9 du Code de la consommation.
+Dans ce cas, il convient de nous faire état par écrit des défauts constatés et de nous renvoyer le ou les produits. Si le défaut de conformité est bien confirmé par les tests en SAV, nous procéderons à l'échange ou à la réparation du bien en fonction du coût que cela représente conformément à l'article L.217-9 du Code de la consommation.
 
 Conformément à l'article L.217-11 du Code de la consommation, les frais de retour vous seront remboursés, sur justificatifs, après retour de votre produit si le défaut de conformité est confirmé.
 
@@ -563,7 +600,7 @@ La charge de la preuve de l’utilisation défectueuse exclusive de garantie rep
 
 **Durée :**
 
-2 ans à compter de la délivrance du bien.
+2 ans à compter de la délivrance du bien. Tout bien réparé dans le cadre de la garantie légale de conformité bénéficiera d'une extension de garantie de 6 mois courant à compter de la mise à disposition du bien réparé.
 
   
 **Régime de garantie : Garantie contre les vices cachés**
@@ -598,7 +635,7 @@ Au moment de la commande, vous pourrez souscrire une garantie commerciale suppl�
 
 ### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
 
-Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normal d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
+Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normale d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
 
 **Vous êtes soumis à une obligation de prudence dans l'utilisation de vos produits.** La preuve d'une panne causée par une négligence, une détérioration ou une utilisation non conforme rendrait inefficace les garanties associées à l'appareil (notamment toutes causes externes à l'appareil telles qu'un choc, une chute, la foudre, l'oxydation, réparation par une personne non agréée, exposition à la chaleur, corps étrangers…).
 
@@ -667,33 +704,50 @@ Ainsi nous ne garantissons pas la durée de disponibilité d'un produit une fois
 
 ### 11.3 Qu'est-ce que le Déstockage Immédiat ?
 
-A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleurs offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
+A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleures offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
 
 Ils bénéficient d'une garantie 3 mois Rue du Commerce ou d'une garantie constructeur selon les cas.
 
-12\. Déchets d'équipement électriques et électroniques ménagers
----------------------------------------------------------------
+12. Mobilier et produits électriques et électroniques en fin de vie/usages
+--------------------------------------------------------------------------
 
-### 12.1 DEEE : les devoirs généraux de l'acheteur
+### 12.1 Les devoirs généraux de l'acheteur
 
-Vous ne pouvez pas vous débarrasser des déchets d’équipement électriques et électroniques avec les déchets municipaux non triés, du fait de la présence de substance dangereuse dans les équipements électriques et électroniques et de leurs effets potentiels sur l’environnement et la santé humaine. Vous pourrez néanmoins opter entre les différents systèmes de collecte existants tels que les collectes municipales, les déchetteries, les acteurs de l’économie sociale.
+Les équipements électriques et électroniques en fin de vie, obsolètes ou qui ne fonctionnent plus, ainsi que le mobilier, ne doivent pas être jetés à la poubelle ni dans les bacs de tri sélectif des communes en application de la réglementation. Cette réglementation vise à limiter le gaspillage des matières premières et à protéger l'environnement et la santé humaine en évitant la dispersion dans la nature de substances contenues notamment dans certains appareils.
 
-### 12.2 DEEE : la possibilité de reprendre votre ancien matériel
+### 12.2 La possibilité de reprendre votre ancien matériel
 
-Si vous avez achetez un produit ménager d’équipement électrique ou électronique, nous nous engageons à reprendre ou à faire reprendre à votre domicile, à titre gratuit et dans le cas où vous avez acheté un nouvel appareil chez Rue Du Commerce.
+Pour les équipements électriques et électroniques et le mobilier, vous avez le choix entre soit déposer l'équipement ou le mobilier usagé auprès des déchèteries ou points de collecte de proximité mis en place par les collectivités locales, soit donner l'équipement ou le mobilier usagé à une association à vocation sociale, soit les faire reprendre par Rue du commerce en cas de livraison à domicile à condition d’en avoir fait la demande lors de la commande du produit ou auprès du service clients de Rue du commerce et dans la limite de la quantité et du type de produit acheté (ex : 1 article de mobilier vendu = 1 article de mobilier repris ; 1 équipement électrique et électronique vendu = 1 équipement électrique et électronique repris ; etc…). (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
 
-Pour cela, contactez notre service client Rue du Commerce. Votre ancien équipement électrique ou électronique nous est ainsi cédé et nous le mettrons ensuite à disposition d’un éco-organisme. Cet éco-organisme aura pour mission de procéder au traitement sélectif, à la valorisation et à la destruction des déchets d’équipements électriques et électroniques collectés, conformément à la réglementation. (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
+13\. Numéros d'identification unique au Registre National des Producteurs  
 
-13\. Les mentions lilitégales & responsabé
-------------------------------------------
+----------------------------------------------------------------------------
 
-### 13.1 Exonération de responsabilité : les cas de force majeure.
+En application des dispositions du Code de l’environnement, Rue du commerce s’est vu attribuer par l'Agence De l'Environnement et de la Maîtrise de l'Energie (ADEME) les identifiants uniques suivants :  
+  
+• IDU FR001416\_10WGWO attestant de l’enregistrement au registre des producteurs de la filière ameublement ;  
+  
+• IDU FR001416\_05FYSM attestant de l’enregistrement au registre des producteurs de la filière déchets d’équipements électriques et électroniques ;  
+  
+• IDU FR219491\_01ZDDG attestant de l’enregistrement au registre des producteurs de la filière emballages-papier ;  
+  
+• IDU FR219491\_03GACV attestant de l’enregistrement au registre des producteurs de papiers graphiques ;  
+  
+• IDU FR001416\_06P4UT attestant de l’enregistrement au registre de la filière piles et accumulateurs portables.  
+  
+Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
+
+  
+14\. Les mentions légales & responsabilité
+---------------------------------------------
+
+### 14.1 Exonération de responsabilité : les cas de force majeure.
 
 Sont considérés comme cas fortuit ou force majeure exonératoires de responsabilité tous faits ou circonstances irrésistibles, imprévisibles et indépendants de la volonté des parties.
 
 Dans de telles circonstances, un rapprochement est à privilégier afin d'examiner l'incidence de l'événement et convenir des conditions dans lesquelles l'exécution du contrat sera poursuivie.
 
-### 13.2 Droit d'utilisation : quelles sont les limites ?
+### 14.2 Droit d'utilisation : quelles sont les limites ?
 
 Votre compte client et votre mot de passe sont des informations personnelles et strictement confidentielles qui ne peuvent point être utilisées ou communiquées à des tiers. Vous êtes responsable de l'utilisation qui est faite de votre compte client par des tiers, notamment en cas d'imprudence ou de négligence de votre part.
 
@@ -703,21 +757,21 @@ Toutefois, au titre de l'article L.122-6-1 de ce Code, vous disposez, en tant qu
 
 En tout état de cause, vous vous engagez à respecter le droit de propriété que l'auteur du logiciel conserve sur son ouvre.
 
-### 13.3 Protection de vos données personnelles
+### 14.3 Protection de vos données personnelles
 
 Les traitements de données personnelles et les règles de protection de la vie privée mis en œuvre par Rue du Commerce pour garantir vos droits prévus par les lois applicables sont décrits dans la rubrique « Protection des données personnelles & cookies » accessible ici, ainsi qu'à partir de chacune des pages du site. Vous y trouverez des informations et conseils importants. Ces informations portent notamment sur les choix dont vous disposez concernant l'utilisation de fichiers "cookies" susceptibles d'enregistrer le contenu de votre panier de commande, ainsi que sur le traitement des données liées à la navigation de votre terminal (ordinateur, tablette, smartphone) sur le site.
 
-### 13.4 Vente internationale : application de la loi française
+### 14.4 Vente internationale : application de la loi française
 
 Tout différend auquel la commande pourrait donner lieu, concernant par exemple l'exécution, l'interprétation, la validité ou son annulation sera régi au fond par le droit français (pour les règles de formes, comme les règles de fond), à l'exclusion des dispositions de la Convention de Vienne du 11 avril 1980 sur la vente internationale de marchandises.
 
-### 13.5 Portée des présentes conditions :
+### 14.5 Portée des présentes conditions :
 
-l'invalidation d'une clause ne touche pas les autres
+L'invalidation d'une clause ne touche pas les autres
 
 Si une ou plusieurs stipulations des présentes conditions générales sont tenues pour non valides ou déclarées telles en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
 
-### 13.6 Médiation :
+### 14.6 Médiation :
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – 09 83 24 74 88 – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
@@ -727,16 +781,16 @@ Cette plateforme est accessible au lien suivant : [https://webgate.ec.europa.eu/
 
 Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-14\. Les conseils divers
+15\. Les conseils divers
 ------------------------
 
-### 14.1 Attention aux risques de perte de données !
+### 15.1 Attention aux risques de perte de données !
 
 Nous vous rappelons qu'il est prudent de procéder à la sauvegarde des données personnelles contenues dans les produits achetés.
 
 Nous ne sommes pas responsables de toutes pertes de données, fichiers ou de dommages résultant d'une négligence de votre part dans cette sauvegarde.
 
-### 14.2 Attention à la manipulation des processeurs
+### 15.2 Attention à la manipulation des processeurs
 
 Pour les processeurs, la pâte thermique doit être mise uniquement sur le core du CPU (petite plaque métallique au centre du processeur).
 
@@ -744,7 +798,7 @@ Le fait de mettre de la pâte sur tout le dessus du processeur provoque un court
 
 Toute mauvaise manipulation et/ou utilisation du processeur provoquant une fêlure ou une cassure du core engendrera également une perte irrévocable de sa garantie constructeur.
 
-### 14.3 Attention aux liens vers d'autres sites !
+### 15.3 Attention aux liens vers d'autres sites !
 
 Des liens hypertextes peuvent renvoyer vers d'autres sites que celui de Rue du Commerce.
 
@@ -752,20 +806,24 @@ Nous ne sommes pas responsables d'un non-respect par ces sites des dispositions 
 
 Pour tout problème que vous rencontrerez, veuillez prendre contact avec les responsables du site en question.
 
-### 14.4 Participation à l'opération de sondage FIA-NET
+### 15.4 Participation à l'opération de sondage FIA-NET
 
-Votre achat sur le site [https://www.rueducommerce.fr/](https://www.rueducommerce.fr/) vous offre la possibilité de participer à l'opération « site évalué – site premium » organisée par FIA-NET S.A. A travers deux questionnaires de satisfaction dont l'objet est de mesurer la qualité de service qui vous a été apportée tout au long de votre acte d'achat, vous pourrez nous faire part de votre expérience personnelle et la faire partager à la communauté des internautes sur le site FIA-NET.
+En passant commande sur le site et en acceptant les conditions générales de vente, le Consommateur concerné manifeste son consentement spécifique, libre et éclairé par lequel il accepte que des données à caractère personnel le concernant soient utilisées par le tiers Avis Vérifiés dans le but de récolter son avis suite à sa commande. Avis-Vérifiés utilisera les Données Personnelles des Consommateurs dans le cadre uniquement de sa Solution et pour les seuls besoins de celle-ci. Avis Vérifiés s'interdit formellement de communiquer à quiconque des informations personnelles ou nominatives permettant d'identifier le Consommateur ou portant atteinte au respect de sa vie privée. Le Consommateur a la possibilité de s'opposer à la diffusion de ces informations à Avis Vérifiés en appelant le 09 72 54 56 60 (prix d’un appel local).
 
-Ces questionnaires sont susceptibles de vous être envoyés par FIA-NET ou par Rue du Commerce par courrier électronique ou via l'apparition d'une pop-up faisant suite à votre achat. Les informations récoltées au sein de ces deux questionnaires font l'objet d'un traitement automatisé de données dont le responsable est FIA-NET S.A. Des réponses partielles ou une absence de réponse à l'un ou aux deux questionnaires de satisfaction sont sans incidence sur le déroulement de votre commande et son traitement.
+Veuillez noter que pour ces avis :  
+  
+\- Aucune contrepartie na été fournie en échange des avis ;  
+  
+\- Les avis sont publiés et conservés pendant une durée de cinq ans ;  
+  
+\- Les avis publiés font l’objet dune modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
+  
+\- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
-FIA-NET S.A., ses partenaires commerciaux et Rue du Commerce sont les destinataires des données nominatives récoltées au sein de ces questionnaires de satisfaction. Les données personnelles seront exploitées par FIA-NET conformément à la réglementation en vigueur et notamment à celle ayant trait à la protection des données personnelles.
-
-Conformément à la loi Informatique et Libertés du 6 janvier 1978 vous disposez, à tout moment, d'un droit d'accès, de rectification, et d'opposition à l'ensemble de vos données personnelles en écrivant, par courrier et en justifiant de votre identité, à FIA-NET – Service Informatique et Libertés – Traitement N° 896150 - 39 rue Saint-Lazare, 75009 PARIS.
-
-15\. Annexes
+16\. Annexes
 ------------
 
-### 15.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
+### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
 
 **Article L217-4**
 
@@ -789,7 +847,7 @@ Le bien est conforme au contrat :
 
 L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
 
-### 15.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
+### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
 
 **Article 1641**
 
@@ -799,7 +857,7 @@ Le vendeur est tenu de la garantie a raison des défauts cachés de la chose ven
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-16\. Vous avez une question ?
+17\. Vous avez une question ?
 -----------------------------
 
 **Pour vous aider dans votre choix des produits les plus adaptés à vos besoins, notre Service Conseil Avant-Vente est à votre disposition :**
@@ -840,7 +898,7 @@ Mentions légales**
 
 ### 1.1 La société Rue du Commerce : informations légales
 
-La société Rue du Commerce est **une société par actions simplifiée** au capital de **111.950.672 euros** immatriculée au registre du commerce et des sociétés de Bobigny (93) sous le numéro B 422 797 720.
+La société Rue du Commerce est **une société par actions simplifiée** au capital de **111.950.672 euros** immatriculée au registre du commerce et des sociétés de Paris (75) sous le numéro B 422 797 720.
 
 ### 1.2 La boutique Rue du Commerce : quelles informations y figurent ?
 
@@ -856,18 +914,27 @@ Le site Rue du Commerce est présenté en langue française. Sont notamment indi
 
 \- La durée de validité de l'offre.
 
-###   
-1.3 Vous : qui êtes-vous pour nous ?
+  
+
+### 1.3 Vous : qui êtes-vous pour nous ?
 
 Vous êtes par principe un consommateur.
 
 Par votre commande, vous reconnaissez avoir la pleine capacité juridique pour vous engager à respecter les présentes conditions générales de vente.
 
-Nous vous informons par ailleurs qu'en cas de forte affluence sur une offre proposée (soldes, promotions, ventes flash...), Rue du Commerce se réservera le droit de refuser votre commande. Nos différents services clients sont à votre entière disposition et se veulent attentifs à toutes vos remarques.
+Nous vous informons par ailleurs qu'en cas de forte affluence sur une offre proposée (soldes, promotions, ventes flash...), Rue du Commerce se réservera le droit de refuser votre commande.
+
+Également, Rue du Commerce se réservera le droit de refuser toute commande qu’il considère comme comportant un risque de fraude.
+
+Nos différents services clients sont à votre entière disposition et se veulent attentifs à toutes vos remarques.
 
 ### 1.4 Les conditions générales de vente : que définissent-elles ?
 
-Toute commande que vous passerez sur ce site sera soumise aux présentes conditions générales de vente ainsi qu'aux conditions particulières régissant l'achat de certains services associés, à l'exception des commandes que vous passerez sur notre Galerie Marchande.
+Toute commande que vous passerez sur ce site sera soumise aux présentes conditions générales de vente ainsi qu'aux conditions particulières régissant l'achat de certains services associés, à l'exception des commandes que vous passerez sur notre Galerie Marchande. (« CGV »)
+
+Ainsi, Les présentes Conditions Générales de Vente s’appliquent UNIQUEMENT pour les produits vendus et expédiées par Rue du Commerce ou un de ses fournisseurs. Elles ne concernent pas les produits vendus sur Rue du Commerce par des partenaires marchands sur la Galerie Marchande.  
+  
+Sur les fiches produits du site, vous pouvez ainsi prendre connaissance du vendeur du produit concerné. Les mentions « Vendu et expédié par Rue du Commerce » ou « Vendu par Rue du Commerce et expédié par XXXX » vous garantissent que ces produits sont directement commercialisés et gérés par Rue Du Commerce et s’inscrivent dans le respect des conditions générales de Ventes suivantes. 
 
 Ces CGV ont pour objet de définir le régime des ventes et les droits et obligations qui en découlent.
 
@@ -875,9 +942,9 @@ Nous vous informons que, dans la mesure où vous commandez les produits en ligne
 
 Nous sommes vigilants à adapter régulièrement le texte des conditions générales de vente.
 
-Aussi bien, nous vous invitons à prendre connaissance de la version en vigueur au jour de votre commande.
+Aussi, nous vous invitons à prendre connaissance de la version en vigueur au jour de votre commande.
 
-A cette fin, vous disposez de la faculté de télécharger, de sauvegarder et de reproduire les conditions générales de vente.
+A cette fin, vous nous invitons à sauvegarder les conditions générales de vente valables au moment de la passation de votre commande.
 
    
 2\. Les offres de Rue du Commerce
@@ -891,15 +958,15 @@ Nous nous réservons la possibilité de limiter le nombre de commandes par compt
 
 Pour les produits non stockés dans nos entrepôts, nos offres sont valables sous réserve de disponibilité chez nos fournisseurs. Dans ce cadre, des indications sur la disponibilité des produits sont fournies au moment de la passation de votre commande. Ces informations provenant directement de nos fournisseurs, des erreurs ou modifications peuvent exceptionnellement survenir.
 
-Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous en avertirons par email dès réception des informations transmises par les fournisseurs.
+Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous avertirons par email dès réception des informations transmises par les fournisseurs.
 
-A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part et vous serez remboursé si votre compte bancaire a été débité.
+A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'insponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
 
 ### 2.2 L'identification des produits : les informations fournies ?
 
 Les photographies, textes, graphismes, fiches techniques sont pour la plupart issues des documentations élaborées par les fabricants ou constructeurs, reproduites sous leur contrôle et avec leur accord.
 
-Si vous effectuez un achat afin de compléter un produit déjà en votre possession, vous devez exprimer clairement ce besoin, car nous ne pourrions être tenus de difficultés de compatibilité dont nous ne pouvions anticiper les causes. A ce titre, notre service avant-vente se tient à votre entière disposition pour vous conseiller lors de votre achat.
+Si vous effectuez un achat afin de compléter un produit déjà en votre possession, vous devez exprimer clairement ce besoin, car nous ne pourrions être tenus responsables de difficultés de compatibilité dont nous ne pouvions anticiper les causes. A ce titre, notre service avant-vente, joignable par Téléphone au ![numéro avant vente](https://www.rueducommerce.fr/static/drupal-front/inline-images/numero_avant_vente_0109_0.png) du lundi au vendredi de 9h00 à 20h00, le samedi de 9h00 à 18h00, sauf jours fériés, se tient à votre entière disposition pour vous conseiller lors de votre achat.
 
 ### 2.3 La commercialisation des produits : la conformité des offres ?
 
@@ -917,7 +984,7 @@ Les offres du site Rue du Commerce sont présentées par le biais d’un moteur 
 
 **Lors de vos recherches**, le classement des offres proposées peut se faire selon le critère :
 
-\- de la **« Pertinence »** des offres. Les produits sont alors classés en fonction du nombre de fois que le mot (ou la liste de mots) recherché apparaît dans la Fiche Produit. A titre d’exemple, la Fiche Produit dont le « Titre » contient le mot que vous recherchez sera considérée par le moteur de recherche comme plus pertinente que si le mot apparait seulement dans le « Descriptif du produit ».
+\- de la **« Pertinence »** des offres. Les produits sont alors classés en fonction du nombre de fois que le mot (ou la liste de mots) recherché apparaît dans la Fiche Produit. A titre d’exemple, la Fiche Produit dont le « Titre » contient le mot que vous recherchez sera considérée par le moteur de recherche comme plus pertinente que si le mot apparaît seulement dans le « Descriptif du produit ».
 
 \- des **« Meilleures ventes »** : le classement des offres proposées consiste en une agrégation pondérée de plusieurs éléments :
 
@@ -927,27 +994,40 @@ Les offres du site Rue du Commerce sont présentées par le biais d’un moteur 
 
 \> Le trafic généré par le produit (en pourcentage du trafic global du site).
 
-Le premier produit aura donc le meilleur résultat global sur ces critères par rapport à l’ensemble des autres produits répondant à la recherche.
+Le premier produit aura donc le meilleur résultat global sur ces critères par rapport à l’ensemble des autres produits répondant à la recherche.  
+  
+\- De la « disponibilité ». Les produits en stock apparaissent en priorité par rapport aux produits nécessitant un réapprovisionnement.
 
 Ce calcul est réalisé sur ces critères constatés au cours des vingt-cinq (25) derniers jours.
 
 **  
 Lors de vos recherches**, vous avez également la possibilité d’utiliser le menu déroulant **« Trier Par »** et de choisir les modalités de classement des offres parmi les options suivantes :
 
-\- Prix croissant : les produits sont classés du prix le plus bas au prix le plus élevé ;
+\- Pertinence : cf. définition ci-dessus ;  
+  
+\- Nouveauté : les produits sont classés en fonction de leur récence de disponibilité sur notre site ;  
+  
+\- Prix croissant : les produits sont classés du prix le plus bas au prix le plus élevé ;
 
 \- Prix décroissant : les produits sont classés du prix le plus élevé au prix le plus bas ;
 
-\- Note : les produits sont classés en fonction des notes de satisfaction accordées par les clients ;
-
 \- Meilleures ventes : cf. définition ci-dessus.
 
-\- Meilleures réductions : taux de réduction le plus avantageux  
+\- Promotions : taux de réduction le plus avantageux  
   
 
+Vous avez également la possibilité de filtrer les listings de produits proposés via des filtres mis à disposition permettant une recherche plus précise. Ces filtres varient en fonction des typologies de produits recherchés. Voici quelques exemples :  
+  
+\- En stock  
+\- Vendeurs  
+\- Prix  
+\- Marque  
+\- Avis Clients  
+\- ...  
+  
 Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »** : ces offres ont fait l’objet d’une rémunération influençant leur classement. Les marchands et marques participent à des enchères pour figurer dans cet espace. Nous appliquons cependant nos algorithmes à ces résultats afin qu’ils soient pertinents par rapport à la recherche.
 
-**Lorsque un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
+**Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
 **
 
@@ -960,7 +1040,7 @@ Le classement de ces différentes offres, et notamment la détermination de l’
 \- Les délais de livraison.  
   
 
-Rue du commerce va opérer une agrégation pondérée de ces différents éléments.
+Rue du Commerce va opérer une agrégation pondérée de ces différents éléments.
 
 L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques.
 
@@ -982,19 +1062,19 @@ La société Rue du Commerce est attentive à vos suggestions pour augmenter le 
 
 Lors de votre visite sur notre site, les services associés proposés sont signalés par une icône, à laquelle est attaché un lien activable permettant d'accéder à un descriptif des caractéristiques pratiques et aux conditions particulières dudit service. Ces conditions particulières sont téléchargeables sur la fiche descriptive du service, vous en acceptez leur contenu lors de votre commande.
 
-### 2.7 Le Pack Reprise
+### 2.7 Le Pack Reprise - APPLICABLE AUX PRODUITS ACHETES JUSQU'AU 21 FEVRIER 2022
 
-**Important : Le service Pack Reprise n'est plus disponible à l'achat depuis le 21/02/2022. Si vous avez acheté le Pack Reprise avant cette date, votre coupon reste valable jusqu'à sa date d'expiration.**  
-  
-Lorsque vous achetez sur le site rueducommerce.fr un produit éligible (produits High-Tech - hors TV de plus de 55"- et petit électroménager dont le prix d’achat est supérieur à 50 euros et inférieur à 4 000 euros), signalé par la mention « Pack Reprise » sur la fiche produit, le service Pack Reprise est inclus.
+Si vous avez acheté un produit éligible signalé par la mention « Pack Reprise » sur la fiche produit jusqu'au 21 février 2022, le service Pack Reprise est inclus.
 
 Ce service vous permet de renvoyer, pendant 1 an, votre produit éligible à notre partenaire SPB Services et de recevoir un bon d’achat d’une valeur de 80% du prix d’achat.
 
 Les produits renvoyés doivent être en état de fonctionnement. Ils peuvent avoir des traces d’usure telles que des rayures mais ne doivent pas présenter de cassure.
 
-Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.fr pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
+Le bon d’achat que vous recevrez est valable 3 mois sur le site rueducommerce.com pour l’achat de produits vendus et expédiés par Rue du commerce (hors Marketplace).
 
-Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation. 
+Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétractation dans les conditions prévues à l'article L221-18 du code de la consommation.   
+  
+Pour en savoir plus sur les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf).
 
 3\. Le traitement de la commande
 --------------------------------
@@ -1009,13 +1089,15 @@ Nous ne pourrions être tenus pour responsable d'éventuelles erreurs de saisie 
 
 Afin d'assurer la sécurité des transactions et de répondre au souci du plus grand nombre de prévenir les fraudes en matière de vente à distance, nous effectuons des contrôles sur la passation des commandes.
 
-Dans le cadre d'un contrôle, nous vous invitons par courriel à transmettre des justificatifs de domicile et d'identité (le but étant de s'assurer de la réalité de l'identité et de la domiciliation (par exemple une quittance d'électricité, une facture de téléphone fixe pour la perfection de la commande).
+Dans le cadre d'un contrôle, nous vous invitons par courriel à transmettre des justificatifs de domicile et d'identité (le but étant de s'assurer de la réalité de l'identité et de la domiciliation (par exemple une quittance d'électricité, une facture de téléphone fixe) pour la perfection de la commande).
 
 L'envoi du scan du recto-verso partiellement masqué de votre carte bancaire peut également être demandé. Ne communiquez pas cependant le cryptogramme de sécurité.
 
 Le délai de livraison ne commence à courir qu'à compter de la date d'expédition de la commande, qui ne peut être antérieure à la validation des pièces justificatives.
 
 À défaut de justificatif ou si les pièces adressées ne permettent pas de s'assurer de l'identité de l'auteur de la commande, de la réalité de la domiciliation, ou des conditions apparentes de solvabilité, nous serions dans l'obligation d'annuler la commande ou de vous demander un règlement comptant pour garantir la sûreté des transactions en ligne et le parfait encaissement des articles commandés.
+
+Veuillez également noter que tout document justificatif ou d’identité sont conservés uniquement pour la durée du contrôle et sont immédiatement détruits une fois le contrôle effectué. Par ailleurs, les opérateurs de contrôle font l’objet d’une habilitation spécifique permettant la consultation de vos documents qui ne sont pas consultables par le reste des équipes Rue Du Commerce dans un souci de confidentialité.
 
 4\. Le paiement du prix
 -----------------------
@@ -1024,21 +1106,28 @@ Le délai de livraison ne commence à courir qu'à compter de la date d'expédit
 
 **• CARTE BANCAIRE**
 
-Carte Bleue, VISA, American Express, E-carte bleue (hors Galerie Marchande), MasterCard. Votre carte bancaire sera débitée à l’expédition de votre colis. Si votre commande contient plusieurs produits, expédiés en plusieurs colis, vous serez débité au fur et à mesure du montant des produits après l’expédition de chaque produit.
+Carte Bleue, VISA, American Express, E-carte bleue (hors Galerie Marchande), MasterCard. Votre carte bancaire sera débitée au moment de la préparation de votre commande. Si votre commande contient plusieurs produits, expédiés en plusieurs colis, vous serez débité(e) au fur et à mesure du montant des produits après l’expédition de chaque produit.
 
 **• COMPTE PAYPAL**
 
-En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le site de Rue du Commerce. Les commandes payées par PayPal sont débitées au moment du passage de la commande.
+En choisissant le paiement via PayPal, vous serez automatiquement dirigé(e) sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le site de Rue du Commerce. Les commandes payées par PayPal sont débitées au moment du passage de la commande.
 
 **• BON D’ACHAT**
 
-Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).
+Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).  
+  
+Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client
 
-Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.
+Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.  
+  
+A NOTER : si votre bon d’achat couvre le montant de votre achat, vous devrez sélectionner le moyen de paiement « Virement » pour valider votre commande.  
+  
+A NOTER : Si votre bon d’achat est sécable et que le montant de votre achat est inférieur à la valeur de votre bon d’achat, votre compte client sera directement recrédité du montant restant de votre bon d’achat initial.  
+  
 
 **• 3x ou 4x CB Cofidis Pay**
 
-Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire suivi de 3 mensualités et assortie de frais négligeables. Le 3x CB est valable pour toute commande de 60 € à 1500 € par carte bancaire et le 4x CB est valable pour toute commande de 60 € à 3000 € par carte bancaire (exceptées cartes bancaires à autorisations systématiques, corporates, temporaires, étrangères et spécifiques) effectuée sur « rueducommerce.com » (hors cosmétiques, articles de mode et consommables). Le coût du financement est de 2,3 % du montant total de votre commande, hors opérations spécifiques sans intérêts. Offre réservée aux particuliers majeurs, sous réserve d’acceptation par Cofidis. Délai de rétractation de 14 jours. Rue du commerce, N° SIREN 422797720 et N° ORIAS 12069017, agit en qualité d’intermédiaire en opérations de banque de Cofidis. COFIDIS, S.A. au capital de 53 758 872€, dont le siège social est situé au Parc de la Haute Borne, 61 av. Halley - 59650 VILLENEUVE D'ASCQ Cedex - RCS LILLE n°325 307 106. N°ORIAS 07 02 34 93 ([www.orias.fr](https://www.orias.fr/)).  
+Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire suivi de 3 mensualités et assortie de frais négligeables. Le 3x CB est valable pour toute commande de 60 € à 1500 € par carte bancaire et le 4x CB est valable pour toute commande de 60 € à 3000 € réglée par carte bancaire (exceptées cartes bancaires à autorisations systématiques, corporate, temporaires, étrangères et spécifiques) et effectuée sur « rueducommerce.com » (hors cosmétiques, articles de mode et consommables). Le coût du financement est de 2,3 % du montant total de votre commande, hors opérations spécifiques sans intérêts. Offre réservée aux particuliers majeurs, sous réserve d’acceptation par Cofidis. Délai de rétractation de 14 jours. Rue du commerce, N° SIREN 422797720 et N° ORIAS 12069017, agit en qualité d’intermédiaire en opérations de banque de Cofidis. COFIDIS, S.A. au capital de 67 500 000€, dont le siège social est situé au Parc de la Haute Borne, 61 av. Halley - 59650 VILLENEUVE D'ASCQ Cedex - RCS LILLE n°325 307 106. N°ORIAS 07 023 493 ([www.orias.fr](https://www.orias.fr/)).  
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
 
@@ -1048,7 +1137,7 @@ Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de rem
 
 Choisissez le mode de paiement 5x 10x 20x sur la page paiement ; vous remplissez un seul formulaire en ligne ; vous obtenez une réponse de principe immédiate.
 
-5x 10x 20x est un crédit renouvelable d’un an reconductible sans frais de dossier. Le crédit se renouvelle au fur et à mesure des remboursements et est réutilisable. Les intérêts sont calculés suivant un TAEG révisable qui varie en fonction du solde restant dû. Montant maximum du crédit : 1 000 euros. Vous bénéficiez d’un délai légal de rétractation de 14 jours à compter de la signature de votre contrat de crédit. Le crédit est consenti sous réserve d’acceptation par COFIDIS SA à Directoire et Conseil de surveillance au capital de au capital de 67 500 000€ Siège social : Parc de la Haute Borne, 61 avenue Halley - 59866 VILLENEUVE D’ASCQ Cedex - R.C.S Lille Métropole n° 325 307 106 - Enregistré auprès de l’ORIAS sous le n° 07 023 493 ([www.orias.fr](https://www.orias.fr/welcome)). Rue du Commerce est mandataire non exclusif pour COFIDIS afin d’apporter son concours à la réalisation du contrat de crédit, il ne dispose d’aucun pouvoir d’octroi ou de gestion du crédit. N°ORIAS : 12 069 017  
+5x 10x 20x est un crédit renouvelable d’un an reconductible sans frais de dossier. Le crédit se renouvelle au fur et à mesure des remboursements et est réutilisable. Les intérêts sont calculés suivant un TAEG révisable qui varie en fonction du solde restant dû. Montant maximum du crédit : 1 000 euros. Vous bénéficiez d’un délai légal de rétractation de 14 jours à compter de la signature de votre contrat de crédit. Le crédit est consenti sous réserve d’acceptation par COFIDIS SA à Directoire et Conseil de surveillance au capital de 67 500 000€ Siège social : Parc de la Haute Borne, 61 avenue Halley - 59866 VILLENEUVE D’ASCQ Cedex - R.C.S Lille Métropole n° 325 307 106 - Enregistré auprès de l’ORIAS sous le n° 07 023 493 ([www.orias.fr](https://www.orias.fr/welcome)). Rue du Commerce est mandataire non exclusif pour COFIDIS afin d’apporter son concours à la réalisation du contrat de crédit, il ne dispose d’aucun pouvoir d’octroi ou de gestion du crédit. N°ORIAS : 12 069 017  
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
 
@@ -1068,7 +1157,7 @@ Attention ! Vos produits ne sont pas réservés dans l'attente de votre paiement
 
 Rue du Commerce se réserve la possibilité de ne pas proposer un ou plusieurs modes de paiement présentés ci-dessus, pour tout motif légitime, notamment dans l'hypothèse où le partenaire de paiement ne propose plus le service choisi ou dans le cas d’un manquement ou d’une fraude manifeste et significatif(ve) de votre part.
 
-Sur le site mobile, sont acceptés les moyens de paiements suivants :
+Sur la version mobile du site, sont acceptés les moyens de paiements suivants :
 
 \- CARTE BANCAIRE
 
@@ -1082,7 +1171,7 @@ Sur le site mobile, sont acceptés les moyens de paiements suivants :
 
 Toutes les transactions bancaires s'effectuent d'une manière sécurisée. Nous vous certifions que les coordonnées de cartes de paiement sont cryptées grâce au protocole SSL (Secure Socket Layer) afin de protéger toutes les données liées aux informations personnelles et aux moyens de paiement et ne transitent jamais en clair sur le réseau. Le paiement est directement effectué auprès de la banque. Les données concernant votre carte de paiement ne sont pas archivées par Rue du Commerce.
 
-En dehors des offres spéciales et des offres de paiement différé que nous vous proposons sur le site, le paiement est exigible intégralement à compter de la commande. Une commande sera considérée comme soldée lorsque la totalité des produits aura été expédiée et que vous vous serez intégralement acquitté du paiement des produits.
+En dehors des offres spéciales et des offres de paiement différé que nous vous proposons sur le site, le paiement est exigible intégralement à compter de la commande. Une commande sera considérée comme soldée lorsque la totalité des produits aura été expédiée et que vous vous serez intégralement acquitté(e) du paiement des produits.
 
 Nous aurons le droit de refuser d'effectuer une livraison ou d'honorer une commande dans les cas où vous n'auriez pas réglé totalement ou en partie une précédente commande, ou dans les cas où un litige de paiement subsisterait.
 
@@ -1095,11 +1184,11 @@ Nous conservons la pleine propriété des produits en vente, jusqu'au parfait en
 
 Les produits vous seront livrés à l'adresse que vous aurez indiquée sur le bon de commande, uniquement en France métropolitaine, Corse, Monaco et Belgique (à l'exception des encombrants qui ne pourront pas être livrés en Belgique et à Monaco).
 
-Suivant le poids et/ou le volume des différents produits commandés, vous aurez le choix de différents modes de transport : [https://www.RueduCommerce.fr/Aide/29-Modes-de-livraison/](https://www.rueducommerce.fr/aide/avant-ma-commande/quels-modes-de-livraison-proposez-vous), dans la limite de 800kgs (au-delà de ce poids, des frais supplémentaires pourront être facturés).
+Suivant le poids et/ou le volume des différents produits commandés, vous aurez le choix de différents modes de transport : [https://www.RueduCommerce.fr/Aide/29-Modes-de-livraison/](https://www.rueducommerce.fr/aide/avant-ma-commande/quels-modes-de-livraison-proposez-vous), dans la limite de 800kgs (au-delà de ce poids, des frais supplémentaires pourront être facturés). Dans de rares cas, il se peut qu'un seul mode de livraison vous soit proposé car les caractéristiques de votre produit ne nous permettent pas de vous proposer un éventail plus large de modes de livraison.
 
-La société Rue du Commerce se réserve le droit de facturer une participation aux frais de port.
+La société Rue du Commerce se réserve le droit de facturer une participation aux frais de port, notamment selon le mode de transport sélectionné par le client.
 
-Le montant des frais de port pourra cependant être plus élevé que les tarifs indiqués en cas de livraison effectuée en Corse ou à l'étranger (Monaco et Belgique).
+Le montant des frais de port pourra cependant être plus élevé que les tarifs indiqués en cas de livraison effectuée en zone éloignée (îles, montagnes), Corse ou à l'étranger (Monaco et Belgique).
 
 La participation demandée est détaillée ([https://www.rueducommerce.fr/aide/avant-ma-commande/quel-est-le-montant-des-frais-de-livraison](https://www.rueducommerce.fr/aide/avant-ma-commande/quel-est-le-montant-des-frais-de-livraison)) et indiquée avant la validation de la commande.
 
@@ -1107,17 +1196,19 @@ Dans le cas où l'adresse indiquée ne serait pas correcte ou incomplète, Rue d
 
 ### 5.2 Délais de livraison : quand vos produits arriveront-ils ?
 
-Une date limite de livraison vous sera communiquée avant la validation de votre commande, compte tenu du choix du transporteur souhaité. Les délais de livraison applicables sont ceux indiqués lors de la validation de votre commande. Ils commencent à courir à compter de l'expédition de la commande
+Une date limite de livraison vous sera communiquée avant la validation de votre commande, compte tenu du choix du transporteur souhaité. Les délais de livraison applicables sont ceux indiqués lors de la validation de votre commande. Ils commencent à courir à compter de la validation de la commande une fois les contrôles fraude effectués.
 
 ### 5.3 Retard de livraison : que faire ?
 
-En cas de retard de livraison dans les huit jours ouvrés suivant la date d'expédition indiquée dans le courriel « suivi – avis d'expédition » veuillez prendre contact avec [notre service client](https://www.rueducommerce.fr/info/nous-contacter "service client"). Nous vous invitons cependant à vous être préalablement adressé à votre bureau de poste ou de retrait.
+En cas de retard de livraison dans les huit jours ouvrés suivant la date d'expédition indiquée dans le courriel « suivi – avis d'expédition » veuillez prendre contact avec [notre service client](https://www.rueducommerce.fr/info/nous-contacter "service client"). Nous vous invitons cependant à vous être préalablement adressé(e) à votre bureau de poste ou de retrait.
 
-Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à 21 jours ouvrés à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile (sauf pour les livraisons en point de retrait). Au-delà, le colis sera considéré comme perdu.
+Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à 21 jours ouvrés à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile ou en point de retrait (en fonction du mode de livraison sélectionné à la commande). Au-delà, le colis sera considéré comme perdu.
 
 Tout retard de livraison doit nous être indiqué dans un délai de 21 jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
 
-A la clôture pour perte de l'enquête, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.
+A la clôture de l'enquête pour perte, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.  
+  
+Si le transport a déclaré votre colis livré mais que vous contestez cette livraison, nous pourrons être amenés à vous demander une contestation formelle et manuscrite ainsi que la copie de votre carte d’identité ou passeport.
 
 Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effectué avant la clôture de l'enquête.
 
@@ -1126,13 +1217,13 @@ Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effe
 
 ### 6.1 La personne qui reçoit le colis : le soin à apporter ?
 
-Attention, si vous confiez la réception du produit à un tiers (concierge de votre immeuble, hôtesse d'accueil sur le lieu de travail, …) celui-ci reçoit le colis en votre nom et pour votre compte.
+Attention, si vous confiez la réception du produit à un tiers (concierge de votre immeuble, hôtesse d'accueil sur le lieu de travail, …) celui-ci reçoit le colis en votre nom et pour votre compte. Il endosse donc la responsabilité de la conformité de la réception.
 
-Il est responsable à ce titre, vous devez donc lui demander d'être vigilant sur le suivi des précautions d'usage et lui rappeler d'apporter à la chose reçue le même soin que s'il en était personnellement destinataire.
+A ce titre, vous devez donc lui demander d'être vigilant sur le suivi des précautions d'usage et lui rappeler d'apporter à la chose reçue le même soin que s'il en était personnellement destinataire.
 
-Pour tout colis remis sans votre signature, vous devez nous faire part d'une contestation de livraison dans un délai maximum de 15 jours à compter de la date d'expédition. Dans le cas où les articles expédiés ne sont plus disponibles, un avoir correspondant au montant de la commande vous sera adressé.
+Pour tout colis dont vous contestez la livraison, vous devez nous faire part d'une contestation de livraison dans un délai maximum de 15 jours à compter de la date d'expédition depuis votre espace client. Après enquête, et si la non livraison est avérée, dans le cas où les articles expédiés ne sont plus disponibles, un avoir correspondant au montant de la commande vous sera adressé.
 
-Nous vous demandons d'être particulièrement vigilent lors de la réception de votre commande à propos de sa vérification (article 9.2) et la constatation d'une éventuelle anomalie (article 6.3).
+Nous vous demandons d'être particulièrement vigilant lors de la réception de votre commande à propos de sa vérification (article 9.2) et la constatation d'une éventuelle anomalie (article 6.3).
 
 ### 6.2 La vérification initiale : quelles précautions d'usage ?
 
@@ -1144,9 +1235,9 @@ A défaut, vous devez obligatoirement :
 
 \- Inscrire des réserves manuscrites circonstanciées en faisant signer le livreur à côté. Les réserves prises par le destinataire à la livraison constituent des moyens de preuve de l'existence et de l'importance du dommage. Veillez à être précis et complet dans leurs rédactions (la simple mention « sous réserve de déballage » est considérée comme trop générale et imprécise), et
 
-\- Notifier par lettre en recommandé avec accusé réception un courrier de protestation motivé à votre transporteur dans un délai de trois (3) jours à compter de la réception conformément aux dispositions de l'article L.133-3 du Code de commerce),
+\- Notifier par lettre recommandée avec accusé réception un courrier de protestation motivé à votre transporteur dans un délai de trois (3) jours à compter de la réception conformément aux dispositions de l'article L.133-3 du Code de commerce),
 
-\- En informer la société Rue du Commerce par courriel via votre espace client ou courrier recommandé dans un délai de trois (3) jours ouvrés suivant la livraison de votre colis,  
+\- En informer la société Rue du Commerce par courriel via votre espace client ou courrier recommandé avec accusé réception dans un délai de trois (3) jours ouvrés suivant la livraison de votre colis,  
   
 
 Pour des raisons probatoires, nous vous recommandons de nous communiquer des photographies sous toutes les faces de votre colis dans ce même délai.
@@ -1157,13 +1248,11 @@ Si les produits doivent être renvoyés, vous présenterez une demande de retour
 
 Cette demande sera accompagnée, le cas échéant, de la copie du courrier adressé au transporteur ou du "constat de spoliation" (constat 170 pour la Poste) ou du "relevé d'anomalie" obtenu du transporteur. Par précaution, nous vous demandons de conserver un double de ce formulaire. En cas d'absence d'une anomalie liée au transport, la demande du numéro de retour peut être faite par téléphone auprès de notre service client. Le retour s'effectuera conformément aux modalités de l'article 7 décrites ci-après.
 
-Si le transport a déclaré votre colis livré mais que vous contestez cette livraison, nous pourrons être amenés à vous demander une contestation formelle et manuscrite ainsi que la copie de votre carte d’identité ou passeport.
-
 En tout état de cause, ces précautions ne font pas obstacle au bénéfice des garanties légales et de l'exercice du droit de rétraction. Néanmoins, pour que votre rétractation soit acceptée, vous devez auparavant nous avoir informés de l'anomalie ou de la spoliation.
 
 ### 6.3 Vous repérez une anomalie ou une spoliation : comment réagir ?
 
-**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
+**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou rescotché (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
 
 Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
 
@@ -1183,7 +1272,7 @@ Pour le cas où vous receviez une livraison ne vous étant pas destinée, nous v
 
 **Produits livrés non conformes à la commande.** En cas de produit non conforme, vous pourrez formuler vos réclamations auprès de notre service client.
 
-Il vous sera demandé de décrire précisément les motifs justifiant la non-conformité.
+Il vous sera demandé de décrire précisément les motifs justifiant la non-conformité et des photos pourront vous être demandées.
 
 Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le cas où vous recevez une commande qui ne vous est pas destinée, vous êtes alors dans l'obligation de la rendre. A défaut, Rue du Commerce sera en droit de vous facturer le produit que vous avez indûment reçu.
 
@@ -1192,15 +1281,19 @@ Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le
 
 ### 7.1 Une gestion efficace des retours : l'attribution d'un numéro de traitement.
 
-Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais. Si vous avez besoin de contacter notre assistance technique, n'hésitez pas à vous rendre sur [cette page](https://www.rueducommerce.fr/contact_adv.html "contact adv").
+Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais.
 
-Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour au service client.
+Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulataire retour disponible dans votre espace client.
 
-Un numéro de retour sera alors communiqué avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement). Le retour en cas de rétractation est alors à votre charge. Attention : , le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
+La prise en compte de votre demande de retour sera alors confirmé par mail avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement).  
+  
+En cas de rétractation, le retour est alors à votre charge. Attention, le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
 
 Nous vous informons que certains documents liés au(x) colis pourront vous être réclamés. Vous devrez donc demeurer en possession de tous les éléments reçus (emballage compris pour des raisons de sécurité des produits) jusqu'à la résolution complète de vos réclamations.
 
-En cas de retour reçu au siège social de la société et non au SAV, le colis sera refusé et retourné automatiquement à l'expéditeur.  
+En cas de retour reçu au siège social de notre société et non à l'adresse de notre SAV, le colis sera refusé et retourné automatiquement à l'expéditeur. Si ce dernier n'a pas pu être refusé, nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
+  
+A NOTER : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
 Aussi, en cas de réception d’un produit non conforme (produit ne correspondant pas au produit qui devait être retourné), les frais de retour resteront à la charge du client.  
 Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
@@ -1209,7 +1302,7 @@ A noter que le client disposera d’un délai d’un an pour fournir une étique
 
 ### 7.2 Un retour complet de la commande : Documents + emballage + produit.
 
-Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous ne pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), avec leur emballage d'origine**, l'ensemble devant être intact et en bon état.
+Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), si possible dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
 
 Vous devez accompagner votre retour d'un double de la facture.
 
@@ -1219,48 +1312,50 @@ A défaut, Rue du Commerce sera en droit d'appliquer une décote sur le produit 
 
 ### 7.3 Les risques du retour : précautions à prendre
 
-Nous attirons spécialement votre attention sur le fait qu'en l'absence d'étiquette prépayée (rétractation) vous devez retourner le produit :
+Nous attirons spécialement votre attention sur le fait qu'en l'absence d'étiquette prépayée fournie par Rue du Commerce vous devez retourner le produit :
 
 \- en déclarant la valeur du produit, telle qu'elle résulte de la facture d'achat et
 
 \- en veillant à la parfaite couverture d'assurance des risques de retour, en rapport avec la facture d'achat.
 
-En effet, en cas de retour à votre charge et hors assurance complémentaire, vous êtes informés que le transporteur ne vous indemnisera qu'à hauteur du barème légal. A ce titre, à défaut d'assurance souscrite de votre part, vous serez remboursé à hauteur de 32 euros par kilo.
+En effet, en cas de retour à votre charge et hors assurance complémentaire, vous êtes informés que le transporteur ne vous indemnisera qu'à hauteur du barème légal. A ce titre, à défaut d'assurance souscrite de votre part, vous serez remboursé à hauteur de 33 euros par kilo dans la limite de 750€.
 
-Nous recommandons au client de procéder à la sauvegarde de ses données avant de retourner le produit. Les produits informatiques qui comportent un stockage de données sont susceptibles d'être reformatés. Rue du Commerce ne saurait être tenue pour responsable de la perte des données contenues dans le produit retourné. Ainsi, aucun préjudice lié à la perte de données présentes dans un produit retourné ne sera indemnisé.
+Nous recommandons au client de procéder à la sauvegarde de ses données avant de retourner le produit. Les produits informatiques qui comportent un stockage de données sont susceptibles d'être reformatés. Rue du Commerce ne saurait être tenu pour responsable de la perte des données contenues dans le produit retourné. Ainsi, aucun préjudice lié à la perte de données présentes dans un produit retourné ne sera indemnisé.
 
 ### 7.4 Cas d'une erreur ou d'une non-conformité apparente : le retour est à notre charge
 
 A la réception de la demande motivée, nous attribuerons un numéro de retour au(x) produits concerné(s) qui vous sera aussitôt communiqué.
 
-En cas d'erreur de livraison sur la référence du produit commandé ou de non-conformité apparente avérée : une étiquette prépayée vous sera de plus adressée par mail, afin d'effectuer le renvoi de ce(s) produit(s) à nos frais (à moins que nous fassions directement appel à un transporteur pour une reprise de la marchandise à votre domicile, en fonction du mode de transport aller du produit).En présence d'une étiquette prépayée, les retours sont alors à adresser rapidement à notre service après-vente avec leur emballage d'origine, complets (cf : article 7.2 ci-dessus) en bon état, avec une mention apparente du numéro de retour sur le colis et le bon de retour glissé à l'intérieur. En toute hypothèse, vous veillerez à choisir un emballage adapté pour le retour. En cas d'avarie sur des produits volumineux, la prise en charge sera assurée également par Rue du Commerce via une prise en charge dédiée par des transporteurs spécialisés. Les clients seront alors invités à prendre contact directement avec le service client Rue du Commerce.
+En cas d'erreur de livraison sur la référence du produit commandé ou de non-conformité apparente avérée : une étiquette prépayée vous sera de plus adressée par mail, afin d'effectuer le renvoi de ce(s) produit(s) à nos frais (à moins que nous fassions directement appel à un transporteur pour une reprise de la marchandise à votre domicile, en fonction du mode de transport aller du produit).  
+  
+En présence d'une étiquette prépayée, les retours sont alors à adresser rapidement à notre service après-vente avec leur emballage d'origine, complets (cf : article 7.2 ci-dessus) en bon état, avec une mention apparente du numéro de retour sur le colis et le bon de retour glissé à l'intérieur. En toute hypothèse, vous veillerez à choisir un emballage adapté pour le retour.  
+  
+Pour des raisons d’hygiène, les colis retour devront également être propres et ne pas faire courir de risque sanitaire au personnel traitant le retour. Ainsi, la présence de déchets, détritus ou tous autres éléments que les emballages, produits et éléments complémentaires demandés dans le colis retour et qui représentent un risque sanitaire pour le personnel, fera l’objet d’un refus de prise en charge. Des photos seront réalisées et la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
 
 8\. Les modalités particulières d'un retour pour rétractation
 -------------------------------------------------------------
 
-### 8.1 La durée du droit de rétractation : dans quels délais ?
+### 8.1La durée du droit de rétractation : dans quels délais ?
 
 Vous disposez d'un délai de rétractation de 14 jours calendaires pour retourner les produits ne vous convenant pas.
 
-Ce délai court à compter du jour de la réception du produit, ou du dernier produit livré en cas de commandes de plusieurs produits vendus et expédiés par Rue du Commerce.
+Ce délai court à compter du jour de la réception du produit, ou du dernier produit livré en cas de commandes de plusieurs produits vendus et expédiés par Rue du Commerce si le(s) produit(s) reçu(s) au préalable ne pourrai(en)t fonctionner sans.
 
 Ce délai expiré, vous ne disposez plus de ce droit de rétractation.
 
 Lorsque ce délai expire un week-end, jour férié ou chômé, il est prolongé jusqu'au prochain jour ouvrable.
 
-S'agissant des produits vendus et expédiés par Rue du Commerce, Rue du Commerce ne fournit pas les étiquettes transport retour. le client devra effectuer le retour par ses propres moyens à l’adresse qui lui parviendra par mail à la validation de sa demande de retour.
+S'agissant des produits vendus et expédiés par Rue du Commerce, Rue du Commerce ne fournit pas les étiquettes transport retour. Le client devra effectuer le retour par ses propres moyens à l’adresse qui lui parviendra par mail à la validation de sa demande de retour.
 
 Pour tous les produits commandés via la Galerie Marchande, les frais de retour restent à votre charge selon les modalités définies par le partenaire marchand.
-
-  
 
 **Spécificité relative aux Bons d’achats émis à la suite d’une commande**
 
 La rétractation de tout ou partie d’une commande annule la validité d’un bon d’achat obtenu lors du passage de cette commande. Si le bon d’achat a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
-### 8.2 L´exercice du droit de rétractation : de quelle manière ?
+### 8.2L´exercice du droit de rétractation : de quelle manière ?
 
-Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, notamment via le formulaire de rétractation.
+Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, via le formulaire de rétractation disponible depuis votre espace client.
 
 Dans l'hypothèse de l'exercice du droit de rétractation, vous pouvez demander le remboursement des sommes encaissées conformément aux dispositions légales en vigueur.
 
@@ -1274,13 +1369,13 @@ Enfin, seuls les articles neufs, non utilisés et si possible retournés dans l
 
 Conformément aux dispositions légales en vigueur, vous ne pouvez notamment pas vous rétracter sur les produits suivants :
 
-\- produits confectionnés selon les spécifications du consommateur, ou nettement personnalisés, ou, qui du fait de leur nature, ne peuvent être réexpédiés ou susceptibles de se détériorer ou de se périmer rapidement :
+\- produits confectionnés selon les spécifications du consommateur, ou nettement personnalisés, ou, qui du fait de leur nature, ne peuvent être réexpédiés ou susceptibles de se détériorer ou de se périmer rapidement ;
 
-\- produits d'enregistrement audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur :
+\- produits d'enregistrement audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur ou s'il s'agit de produits dématérialisés
 
 Compte tenu des règles applicables en matière de propriété intellectuelle, nous vous informons que les produits copiables, tels que les logiciels, jeux-vidéos, supports d'enregistrement etc., font l'objet de droits d'utilisation personnels et spécifiques réglementant les copies, la diffusion publique et la reproduction.
 
-\- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments.  
+\- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments, produits intra auriculaires.  
   
 
 ### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
@@ -1292,7 +1387,7 @@ Une fois votre colis retour arrivé à notre entrepôt, vous serez alors rembour
 9\. Les garanties des produits
 ------------------------------
 
-### 9.1 La garantie des produits: de quoi s'agit-il ?
+### 9.1 La garantie des produits : de quoi s'agit-il ?
 
 Lorsque vous achetez un produit vendu par Rue du Commerce, vous bénéficiez de deux garanties distinctes : une garantie commerciale et une garantie légale.
 
@@ -1320,13 +1415,13 @@ En tout état de cause, cela ne fait pas obstacle aux dispositions particulière
 
 La durée de disponibilité des pièces détachées des produits commercialisés par Rue du Commerce est accessible en [cliquant ici](https://www.media-rdc.com/document/f0729795f1b23b3d81e20f4eb80a6a3c/tableau-disponibilite-pieces-detachees-150520150.pdf).
 
-### 9.4 La garantie légale contre les défauts de conformité : que signifie t-elle ?
+### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
 
 Conformément aux articles L.217-4 à L.217-11 du Code de la consommation, vous bénéficiez d'une garantie contre les défauts de conformité des produits achetés sur notre site. Cette garantie contre les défauts de conformité s'applique au coût des pièces et main d'œuvre nécessaires à la remise en conformité de votre bien.
 
 Pour être conforme à votre commande, le bien doit correspondre à la description donnée sur notre site et posséder les qualités présentées ou présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage.
 
-Dans ce cas, il convient de nous faire état par écrit les défauts constatés et de nous renvoyer le ou les produits. Si le défaut de conformité est bien confirmé par les tests en SAV, nous procéderons à l'échange ou à la réparation du bien en fonction du coût que cela représente conformément à l'article L.217-9 du Code de la consommation.
+Dans ce cas, il convient de nous faire état par écrit des défauts constatés et de nous renvoyer le ou les produits. Si le défaut de conformité est bien confirmé par les tests en SAV, nous procéderons à l'échange ou à la réparation du bien en fonction du coût que cela représente conformément à l'article L.217-9 du Code de la consommation.
 
 Conformément à l'article L.217-11 du Code de la consommation, les frais de retour vous seront remboursés, sur justificatifs, après retour de votre produit si le défaut de conformité est confirmé.
 
@@ -1382,7 +1477,7 @@ La charge de la preuve de l’utilisation défectueuse exclusive de garantie rep
 
 **Durée :**
 
-2 ans à compter de la délivrance du bien.
+2 ans à compter de la délivrance du bien. Tout bien réparé dans le cadre de la garantie légale de conformité bénéficiera d'une extension de garantie de 6 mois courant à compter de la mise à disposition du bien réparé.
 
   
 **Régime de garantie : Garantie contre les vices cachés**
@@ -1417,7 +1512,7 @@ Au moment de la commande, vous pourrez souscrire une garantie commerciale suppl�
 
 ### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
 
-Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normal d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
+Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normale d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
 
 **Vous êtes soumis à une obligation de prudence dans l'utilisation de vos produits.** La preuve d'une panne causée par une négligence, une détérioration ou une utilisation non conforme rendrait inefficace les garanties associées à l'appareil (notamment toutes causes externes à l'appareil telles qu'un choc, une chute, la foudre, l'oxydation, réparation par une personne non agréée, exposition à la chaleur, corps étrangers…).
 
@@ -1486,33 +1581,50 @@ Ainsi nous ne garantissons pas la durée de disponibilité d'un produit une fois
 
 ### 11.3 Qu'est-ce que le Déstockage Immédiat ?
 
-A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleurs offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
+A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleures offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
 
 Ils bénéficient d'une garantie 3 mois Rue du Commerce ou d'une garantie constructeur selon les cas.
 
-12\. Déchets d'équipement électriques et électroniques ménagers
----------------------------------------------------------------
+12. Mobilier et produits électriques et électroniques en fin de vie/usages
+--------------------------------------------------------------------------
 
-### 12.1 DEEE : les devoirs généraux de l'acheteur
+### 12.1 Les devoirs généraux de l'acheteur
 
-Vous ne pouvez pas vous débarrasser des déchets d’équipement électriques et électroniques avec les déchets municipaux non triés, du fait de la présence de substance dangereuse dans les équipements électriques et électroniques et de leurs effets potentiels sur l’environnement et la santé humaine. Vous pourrez néanmoins opter entre les différents systèmes de collecte existants tels que les collectes municipales, les déchetteries, les acteurs de l’économie sociale.
+Les équipements électriques et électroniques en fin de vie, obsolètes ou qui ne fonctionnent plus, ainsi que le mobilier, ne doivent pas être jetés à la poubelle ni dans les bacs de tri sélectif des communes en application de la réglementation. Cette réglementation vise à limiter le gaspillage des matières premières et à protéger l'environnement et la santé humaine en évitant la dispersion dans la nature de substances contenues notamment dans certains appareils.
 
-### 12.2 DEEE : la possibilité de reprendre votre ancien matériel
+### 12.2 La possibilité de reprendre votre ancien matériel
 
-Si vous avez achetez un produit ménager d’équipement électrique ou électronique, nous nous engageons à reprendre ou à faire reprendre à votre domicile, à titre gratuit et dans le cas où vous avez acheté un nouvel appareil chez Rue Du Commerce.
+Pour les équipements électriques et électroniques et le mobilier, vous avez le choix entre soit déposer l'équipement ou le mobilier usagé auprès des déchèteries ou points de collecte de proximité mis en place par les collectivités locales, soit donner l'équipement ou le mobilier usagé à une association à vocation sociale, soit les faire reprendre par Rue du commerce en cas de livraison à domicile à condition d’en avoir fait la demande lors de la commande du produit ou auprès du service clients de Rue du commerce et dans la limite de la quantité et du type de produit acheté (ex : 1 article de mobilier vendu = 1 article de mobilier repris ; 1 équipement électrique et électronique vendu = 1 équipement électrique et électronique repris ; etc…). (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
 
-Pour cela, contactez notre service client Rue du Commerce. Votre ancien équipement électrique ou électronique nous est ainsi cédé et nous le mettrons ensuite à disposition d’un éco-organisme. Cet éco-organisme aura pour mission de procéder au traitement sélectif, à la valorisation et à la destruction des déchets d’équipements électriques et électroniques collectés, conformément à la réglementation. (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
+13\. Numéros d'identification unique au Registre National des Producteurs  
 
-13\. Les mentions lilitégales & responsabé
-------------------------------------------
+----------------------------------------------------------------------------
 
-### 13.1 Exonération de responsabilité : les cas de force majeure.
+En application des dispositions du Code de l’environnement, Rue du commerce s’est vu attribuer par l'Agence De l'Environnement et de la Maîtrise de l'Energie (ADEME) les identifiants uniques suivants :  
+  
+• IDU FR001416\_10WGWO attestant de l’enregistrement au registre des producteurs de la filière ameublement ;  
+  
+• IDU FR001416\_05FYSM attestant de l’enregistrement au registre des producteurs de la filière déchets d’équipements électriques et électroniques ;  
+  
+• IDU FR219491\_01ZDDG attestant de l’enregistrement au registre des producteurs de la filière emballages-papier ;  
+  
+• IDU FR219491\_03GACV attestant de l’enregistrement au registre des producteurs de papiers graphiques ;  
+  
+• IDU FR001416\_06P4UT attestant de l’enregistrement au registre de la filière piles et accumulateurs portables.  
+  
+Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
+
+  
+14\. Les mentions légales & responsabilité
+---------------------------------------------
+
+### 14.1 Exonération de responsabilité : les cas de force majeure.
 
 Sont considérés comme cas fortuit ou force majeure exonératoires de responsabilité tous faits ou circonstances irrésistibles, imprévisibles et indépendants de la volonté des parties.
 
 Dans de telles circonstances, un rapprochement est à privilégier afin d'examiner l'incidence de l'événement et convenir des conditions dans lesquelles l'exécution du contrat sera poursuivie.
 
-### 13.2 Droit d'utilisation : quelles sont les limites ?
+### 14.2 Droit d'utilisation : quelles sont les limites ?
 
 Votre compte client et votre mot de passe sont des informations personnelles et strictement confidentielles qui ne peuvent point être utilisées ou communiquées à des tiers. Vous êtes responsable de l'utilisation qui est faite de votre compte client par des tiers, notamment en cas d'imprudence ou de négligence de votre part.
 
@@ -1522,21 +1634,21 @@ Toutefois, au titre de l'article L.122-6-1 de ce Code, vous disposez, en tant qu
 
 En tout état de cause, vous vous engagez à respecter le droit de propriété que l'auteur du logiciel conserve sur son ouvre.
 
-### 13.3 Protection de vos données personnelles
+### 14.3 Protection de vos données personnelles
 
 Les traitements de données personnelles et les règles de protection de la vie privée mis en œuvre par Rue du Commerce pour garantir vos droits prévus par les lois applicables sont décrits dans la rubrique « Protection des données personnelles & cookies » accessible ici, ainsi qu'à partir de chacune des pages du site. Vous y trouverez des informations et conseils importants. Ces informations portent notamment sur les choix dont vous disposez concernant l'utilisation de fichiers "cookies" susceptibles d'enregistrer le contenu de votre panier de commande, ainsi que sur le traitement des données liées à la navigation de votre terminal (ordinateur, tablette, smartphone) sur le site.
 
-### 13.4 Vente internationale : application de la loi française
+### 14.4 Vente internationale : application de la loi française
 
 Tout différend auquel la commande pourrait donner lieu, concernant par exemple l'exécution, l'interprétation, la validité ou son annulation sera régi au fond par le droit français (pour les règles de formes, comme les règles de fond), à l'exclusion des dispositions de la Convention de Vienne du 11 avril 1980 sur la vente internationale de marchandises.
 
-### 13.5 Portée des présentes conditions :
+### 14.5 Portée des présentes conditions :
 
-l'invalidation d'une clause ne touche pas les autres
+L'invalidation d'une clause ne touche pas les autres
 
 Si une ou plusieurs stipulations des présentes conditions générales sont tenues pour non valides ou déclarées telles en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
 
-### 13.6 Médiation :
+### 14.6 Médiation :
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – 09 83 24 74 88 – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
@@ -1546,16 +1658,16 @@ Cette plateforme est accessible au lien suivant : [https://webgate.ec.europa.eu/
 
 Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-14\. Les conseils divers
+15\. Les conseils divers
 ------------------------
 
-### 14.1 Attention aux risques de perte de données !
+### 15.1 Attention aux risques de perte de données !
 
 Nous vous rappelons qu'il est prudent de procéder à la sauvegarde des données personnelles contenues dans les produits achetés.
 
 Nous ne sommes pas responsables de toutes pertes de données, fichiers ou de dommages résultant d'une négligence de votre part dans cette sauvegarde.
 
-### 14.2 Attention à la manipulation des processeurs
+### 15.2 Attention à la manipulation des processeurs
 
 Pour les processeurs, la pâte thermique doit être mise uniquement sur le core du CPU (petite plaque métallique au centre du processeur).
 
@@ -1563,7 +1675,7 @@ Le fait de mettre de la pâte sur tout le dessus du processeur provoque un court
 
 Toute mauvaise manipulation et/ou utilisation du processeur provoquant une fêlure ou une cassure du core engendrera également une perte irrévocable de sa garantie constructeur.
 
-### 14.3 Attention aux liens vers d'autres sites !
+### 15.3 Attention aux liens vers d'autres sites !
 
 Des liens hypertextes peuvent renvoyer vers d'autres sites que celui de Rue du Commerce.
 
@@ -1571,20 +1683,24 @@ Nous ne sommes pas responsables d'un non-respect par ces sites des dispositions 
 
 Pour tout problème que vous rencontrerez, veuillez prendre contact avec les responsables du site en question.
 
-### 14.4 Participation à l'opération de sondage FIA-NET
+### 15.4 Participation à l'opération de sondage FIA-NET
 
-Votre achat sur le site [https://www.rueducommerce.fr/](https://www.rueducommerce.fr/) vous offre la possibilité de participer à l'opération « site évalué – site premium » organisée par FIA-NET S.A. A travers deux questionnaires de satisfaction dont l'objet est de mesurer la qualité de service qui vous a été apportée tout au long de votre acte d'achat, vous pourrez nous faire part de votre expérience personnelle et la faire partager à la communauté des internautes sur le site FIA-NET.
+En passant commande sur le site et en acceptant les conditions générales de vente, le Consommateur concerné manifeste son consentement spécifique, libre et éclairé par lequel il accepte que des données à caractère personnel le concernant soient utilisées par le tiers Avis Vérifiés dans le but de récolter son avis suite à sa commande. Avis-Vérifiés utilisera les Données Personnelles des Consommateurs dans le cadre uniquement de sa Solution et pour les seuls besoins de celle-ci. Avis Vérifiés s'interdit formellement de communiquer à quiconque des informations personnelles ou nominatives permettant d'identifier le Consommateur ou portant atteinte au respect de sa vie privée. Le Consommateur a la possibilité de s'opposer à la diffusion de ces informations à Avis Vérifiés en appelant le 09 72 54 56 60 (prix d’un appel local).
 
-Ces questionnaires sont susceptibles de vous être envoyés par FIA-NET ou par Rue du Commerce par courrier électronique ou via l'apparition d'une pop-up faisant suite à votre achat. Les informations récoltées au sein de ces deux questionnaires font l'objet d'un traitement automatisé de données dont le responsable est FIA-NET S.A. Des réponses partielles ou une absence de réponse à l'un ou aux deux questionnaires de satisfaction sont sans incidence sur le déroulement de votre commande et son traitement.
+Veuillez noter que pour ces avis :  
+  
+\- Aucune contrepartie na été fournie en échange des avis ;  
+  
+\- Les avis sont publiés et conservés pendant une durée de cinq ans ;  
+  
+\- Les avis publiés font l’objet dune modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
+  
+\- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
-FIA-NET S.A., ses partenaires commerciaux et Rue du Commerce sont les destinataires des données nominatives récoltées au sein de ces questionnaires de satisfaction. Les données personnelles seront exploitées par FIA-NET conformément à la réglementation en vigueur et notamment à celle ayant trait à la protection des données personnelles.
-
-Conformément à la loi Informatique et Libertés du 6 janvier 1978 vous disposez, à tout moment, d'un droit d'accès, de rectification, et d'opposition à l'ensemble de vos données personnelles en écrivant, par courrier et en justifiant de votre identité, à FIA-NET – Service Informatique et Libertés – Traitement N° 896150 - 39 rue Saint-Lazare, 75009 PARIS.
-
-15\. Annexes
+16\. Annexes
 ------------
 
-### 15.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
+### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
 
 **Article L217-4**
 
@@ -1608,7 +1724,7 @@ Le bien est conforme au contrat :
 
 L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
 
-### 15.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
+### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
 
 **Article 1641**
 
@@ -1618,7 +1734,7 @@ Le vendeur est tenu de la garantie a raison des défauts cachés de la chose ven
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-16\. Vous avez une question ?
+17\. Vous avez une question ?
 -----------------------------
 
 **Pour vous aider dans votre choix des produits les plus adaptés à vos besoins, notre Service Conseil Avant-Vente est à votre disposition :**
