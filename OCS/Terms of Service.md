@@ -224,4 +224,4 @@ De même, OCS ne saurait être tenue responsable d’une quelconque indisponibil
 Les présentes CGA sont soumises au droit français.  
 Tout litige résultant de la formation, de l’interprétation ou de l’exécution des présentes sera de la compétence exclusive des tribunaux français.
 
-Dernière mise à jour réalisée le 22/03/2021
+Dernière mise à jour réalisée le 22/03/2022
