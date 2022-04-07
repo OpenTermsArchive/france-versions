@@ -881,8 +881,6 @@ Chaque passager a la responsabilité d’être en possession d’un document de 
 
 · est valable pendant au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne a un permis de résidence émis par un pays membre de l’espace Schengen ou un visa long séjour.
 
-· est valable pendant au moins six mois à compter de la date d’arrivée dans le pays membre de l’espace Schengen.
-
 · le passeport Britannique ne doit pas avoir plus de 10 ans.  
   
 
