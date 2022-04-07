@@ -1,8 +1,8 @@
 Mise à jour des Termes et Conditions
 
-La actualización de nuestros términos y condiciones entró en vigor el 6 de abril de 2022; hemos clarificado algunos términos y actualizado algunas de nuestras políticas para asegurarnos de que a nuestros miembros les resultan transparentes.
+Nos Termes et Conditions mis à jour sont entrés en vigueur le 6 avril 2022. Nous avons clarifié certaines dispositions et actualisé certaines de nos politiques afin de veiller à ce qu’elles restent transparentes.
 
-Para seguir usando tu cuenta de Vinted, tienes que revisar y aceptar los términos y condiciones actualizados. Si ya los has aceptado, no tienes que hacer nada más; puedes seguir utilizando Vinted como siempre.
+Si tu souhaites continuer à utiliser ton compte Vinted, merci de lire et d’accepter les Termes et Conditions mis à jour. Si tu les as déjà acceptés, tu n’as rien de plus à faire et tu peux continuer à utiliser Vinted.
 
 Termes et Conditions d'utilisation
 
@@ -405,7 +405,8 @@ Si un Contenu de ce type est signalé, VINTED se réserve le droit de suspendre 
 1.  en suivant la procédure de signalement décrite [ici](https://vinted.fr/help/288);
 2.  en contactant VINTED via le [formulaire de contact](https://vinted.fr/help/support_tickets/new?ch=help_center&faq_entry_id=615&allow_direct=1);
 3.  en envoyant un e-mail à l’adresse [legal@vinted.fr](mailto:legal@vinted.fr);
-4.  en envoyant une lettre décrivant en détail les faits litigieux à l’adresse suivante: VINTED UAB, Švitrigailos g. 13. LT-03228 Vilnius, Lituanie.
+4.  en envoyant une lettre décrivant en détail les faits litigieux à l’adresse suivante: VINTED UAB, Švitrigailos g. 13. LT-03228 Vilnius, Lituanie;
+5.  pour les titulaires de droits de Propriété Intellectuelle exclusivement, en signalant tout contenu portant atteinte à un droit de Propriété Intellectuelle à l'aide du formulaire [suivant](https://vinted.fr/help/intellectual_property_infringement).
 
 10.7 Si un Article présente un problème de sécurité, il est conseillé aux Utilisateurs de cesser de l’utiliser.
 
