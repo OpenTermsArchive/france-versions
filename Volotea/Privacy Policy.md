@@ -24,7 +24,7 @@ Le traitement de vos données personnelle sera effectué par Volotea S.L., dont 
 
 ### 3\. Quel type de données personnelles est recueilli par Volotea ?
 
-Pour vous aider à effectuer et gérer vos réservations de vol nous devons disposer de certaines données. Il s'agit de données très simples : votre prénom et votre nom, _votre pays de résidence_, votre numéro de téléphone portable et votre e-mail, ainsi que les données nécessaires pour effectuer le paiement. Il est possible que nous ayons également besoin de certaines autres informations pour mieux vous assister dans votre parcours. Ce peut être le cas, pas exemple, si vous avez une mobilité réduite ou un problème de santé quelconque dont nous devons tenir compte. De même, nous pouvons utiliser votre historique de vol pour vous proposer des offres et des promotions personnalisées.
+Pour vous aider à effectuer et gérer vos réservations de vol nous devons disposer de certaines données. Il s'agit de données très simples : votre prénom et votre nom, votre pays de résidence, votre numéro de téléphone portable et votre e-mail, ainsi que les données nécessaires pour effectuer le paiement. Il est possible que nous ayons également besoin de certaines autres informations pour mieux vous assister dans votre parcours. Ce peut être le cas, pas exemple, si vous avez une mobilité réduite ou un problème de santé quelconque dont nous devons tenir compte. De même, nous pouvons utiliser votre historique de vol pour vous proposer des offres et des promotions personnalisées.
 
 Si vous effectuez une réservation non seulement pour vous-même, mais également pour d'autres personnes (votre conjoint, un proche ou un ami, par exemple), nous aurons également besoin de leurs coordonnées. Dans ce cas, nous considérerons que vous les aurez informées de la manière dont nous traitons les données personnelles de nos clients chez Volotea (conformément à la Politique de confidentialité), et qu'elles seront d'accord pour que vous nous communiquiez ces informations.
 
@@ -64,7 +64,11 @@ Comme nous l'avons vu, Volotea a un intérêt légitime à utiliser les données
 
 b) Exécution du contrat :
 
-D'autre part, nous devrons également traiter vos données pour vous réserver un billet, ainsi que pour toute opération de gestion pouvant vous être utile une fois que vous nous avez sollicités. De même, nous aurons besoin de traiter vos données si votre réservation est modifiée, par exemple, pour l'envoi d'un SMS ou d'un courrier électronique concernant l'état de votre vol, ainsi que pour toute notification concernant un incident affectant votre vol. Si nous ne pouvons pas traiter ces données, nous ne pourrons pas effectuer la réservation de votre billet ni assurer la prestation que vous avez demandée. Comme vous le savez certainement, nous vous proposons également le programme Megavolotea, auquel vous pouvez souscrire pour bénéficier de services exclusifs réservés aux membres. Si vous souscrivez à ce programme, nous devons pouvoir accéder à vos données, telles que votre prénom, votre nom, votre adresse électronique ou votre date de naissance, afin de formaliser, gérer et assurer les prestations commandées.
+D'autre part, nous devrons également traiter vos données pour vous réserver un billet, ainsi que pour toute opération de gestion pouvant vous être utile une fois que vous nous avez sollicités. De même, nous aurons besoin de traiter vos données si votre réservation est modifiée, par exemple, pour l'envoi d'un SMS ou d'un courrier électronique concernant l'état de votre vol, ainsi que pour toute notification concernant un incident affectant votre vol. Si nous ne pouvons pas traiter ces données, nous ne pourrons pas effectuer la réservation de votre billet ni assurer la prestation que vous avez demandée.
+
+Comme vous le savez certainement, nous vous proposons également le programme Megavolotea (et Megavolotea Plus), auquel vous pouvez souscrire pour bénéficier de services exclusifs réservés aux membres. Si vous souscrivez à ce programme, nous devons pouvoir accéder à vos données, telles que votre prénom, votre nom, votre adresse électronique ou votre date de naissance, afin de formaliser, gérer et assurer les prestations commandées. Nous aurons également besoin d'accéder à vos données pour réaliser le paiement et le renouvellement de votre compte Megavolotea, conformément aux Conditions du programme que vous pouvez consulter dans la section « Conditions d'utilisation ». Quoi qu'il en soit, vous pourrez consulter ces conditions et devrez les accepter au moment de souscrire au service d'abonnement à Megavolotea.
+
+Veuillez savoir que les données de paiement relatives à la souscription du service d'abonnement à Megavolotea sont indispensables pour effectuer votre abonnement et le renouveler, conformément aux Conditions de Megavolotea que vous pouvez consulter dans la section « Conditions d'utilisation » de notre site Internet, et seront automatiquement incluses à votre profil d'utilisateur. Dans ce cas, vous ne pourrez pas les supprimer depuis votre profil et vous devrez en faire la demande expresse en exerçant votre droit de suppression, tel qu'indiqué ci-après. Supprimer ces informations entraînera automatiquement l'annulation du renouvellement du service Megavolotea.
 
 c) Obligations légales :
 
@@ -72,11 +76,21 @@ Vous devrez respecter certaines obligations légales en certaines occasions. Les
 
 d) Accord :
 
-Certaines questions qui ne sont pas nécessaires pour les besoins du contrat ou de la réservation effectuée chez nous, qui ne sont pas obligatoires ou pour lesquelles nous n'avons pas d'intérêt légitime, pourront vous être posées. Dans ce cas, nous devrons avoir votre accord avant d'entreprendre quoi que ce soit. Vous serez alors dûment informé, de manière détaillée, du but et du mode de traitement de vos données. Vous aurez ainsi l'assurance de contrôler à tout moment l'usage que nous en faisons, et c'est vous qui déciderez de la manière que nous pourrons le faire.
+Certaines questions qui ne sont pas nécessaires pour les besoins du contrat ou de la réservation effectuée chez nous, qui ne sont pas obligatoires ou pour lesquelles nous n'avons pas d'intérêt légitime, pourront vous être posées. Dans ce cas, nous devrons avoir votre accord avant d'entreprendre quoi que ce soit. Vous serez alors dûment informé, de manière détaillée, du but et du mode de traitement de vos données. Vous aurez ainsi l'assurance de contrôler à tout moment l'usage que nous en faisons, et c'est vous qui déciderez de la manière dont nous pourrons le faire.
+
+Ce peut être le cas, par exemple, si vous nous demandez de vous inscrire comme utilisateur du site Web de Volotea ou de notre application mobile. Nous utiliserons ces informations pour administrer votre compte, vous identifier comme utilisateur sur notre site Web ou dans notre application mobile, ainsi que pour vous envoyer des informations susceptibles de vous intéresser sur nos offres et les dernières nouveautés (par exemple, des newsletters).
+
+Si vous ne finalisez pas le processus de réservation de votre billet sur notre site Web et n'avez pas donné votre accord, nous pourrons vous contacter pour vous rappeler que vous pouvez reprendre le processus, mais également pour vous informer de nos produits et services en rapport avec votre recherche. Nous estimons que ce service peut vous intéresser, car il permettra d'effectuer la réservation du vol sans être obligé de saisir une nouvelle fois vos coordonnées. Il vous tiendra également informé des offres et services susceptibles de vous intéresser.
+
+Nous pourrons également conserver vos préférences de paiement ou toute autre information que vous souhaitez nous fournir (comme votre pièce d'identité) sur votre profil d'utilisateur, si vous nous en donnez l'autorisation, aussi bien depuis votre profil d'utilisateur qu'au moment de réaliser tout achat (sauf l'abonnement au programme Megavolotea, tel qu'indiqué dans la section b) ci-dessus). En les enregistrant sur votre profil, vous pourrez modifier ou supprimer ces informations à tout moment, ou bien nous demander de les supprimer en exerçant votre droit de suppression, tel qu'indiqué ci-après.
 
 Ce peut être le cas, par exemple, si vous nous demandez de vous inscrire comme utilisateur du site Web de Volotea ou de notre application mobile. Nous utiliserons ces informations pour administrer votre compte, vous identifier comme utilisateur sur notre site Web ou dans notre application mobile, ainsi que pour vous envoyer des informations susceptibles de vous intéresser sur nos offres et les dernières nouveautés (par exemple, des bulletins d'information).
 
 Si vous ne finalisez pas le processus de réservation de votre billet sur notre site Web et n'avez pas donné votre accord, nous pourrons vous contacter pour vous rappeler que vous pouvez reprendre le processus, mais également pour vous informer de nos produits et services en rapport avec votre recherche. Nous estimons que ce service peut vous intéresser, car il permettra d'effectuer la réservation du vol sans être obligé de saisir une nouvelle fois vos coordonnées. Il vous tiendra également informé des offres et services susceptibles de vous intéresser.
+
+e) Intérêt public  :
+
+dans certains cas, nous pourrions avoir besoin de traiter les données personnelles de passagers sur la base de l'intérêt public, ceci comprenant des données très sensibles lorsque cela est nécessaire, afin de garantir la protection contre les menaces transfrontalières graves pour la santé comme, par exemple, dans les cas de maladies infectieuses, pour prévenir la propagation de pandémies (comme celle de la Covid-19 récemment). Notre priorité est de garantir le bien-être des passagers à bord de nos avions.
 
 * * *
 
@@ -126,21 +140,37 @@ Cependant, vous ne devez pas oublier que la loi nous impose l'obligation de les 
 
 ### 11\. Que pouvez-vous faire pour contrôler les données personnelles que vous avez confiées à Volotea ? Quels sont vos droits ? Comment les exercer ?
 
-La loi reconnaît une série de droits, que vous devez connaître et pouvoir exercer pour protéger votre vie privée. Il s'agit principalement de votre droit à :
+En vertu de la réglementation en vigueur, vous disposez d'une série de droits, que vous devez connaître et pouvoir exercer librement pour protéger votre vie privée.
 
-Vérifier si, chez Volotea, nous traitons vos données personnelles ou non et, dans l'affirmative,
+Ces droits sont les suivants :
 
-(a)  (a) y accéder, (b) en demander leur rectification si vous pensez qu'elles sont inexactes ou, le cas échéant, (c) demander leur suppression si, entre autres, vous considérez qu'elles ne nous sont plus nécessaires.
+(I) Droit d'accès : si vous souhaitez savoir quelles sont les données personnelles que nous utilisons vous concernant.
 
- Dans certaines circonstances, vous pourrez également demander à ce que l'exploitation de vos données soit limitée, et pourrez même exiger que nous cessions de les exploiter. Dans ce cas, nous cesserons de les utiliser, hormis pour des impératifs légitimes ou pour l'exercice ou la défense de réclamations éventuelles.
+(II) Droit de rectification : vous pouvez, à tout moment, rectifier ou compléter toute donnée inexacte ou incomplète préalablement fournie.
 
- Si nous sommes amenés à utiliser vos informations personnelles pour élaborer des profils comportementaux (par exemple, pour mieux connaître vos centres d'intérêt et vos besoins à travers vos habitudes de navigation sur notre site Web) et que nous le faisons de manière entièrement automatisée, vous serez en droit d'en être informé, de demander l'intervention personnelle d'un de nos agents, de contester une décision fondée sur ces profils ou, simplement, d'exprimer votre point de vue.
+(III) Droit de suppression : si vous le souhaitez, vous pouvez nous demander de supprimer vos données personnelles de nos systèmes et archives.
 
- De même, vous serez en droit de demander la portabilité des données que vous nous aurez transmises, afin que, si vous êtes intéressé, nous les transmettions directement à un tiers que vous nous indiquez, dans un format courant et compatible avec une lecture mécanique.
+ Sans préjudice de ce qui précède, nous vous informons que, conformément au Règlement sur la protection des données, nous conserverons les données nécessaires qui peuvent être exigées par toute Administration publique lors d'inspections ou de procédures administratives, ainsi que pour la constatation ou la défense de droits en justice ou administratifs et pour garantir la conformité à nos propres obligations légales ou celles de tiers.
+
+ Lesdites données seront dûment exclues du traitement ou isolées de tout système de traitement, de sorte qu'en pratique elles apparaissent comme étant supprimées, pendant la période de prescription des actions correspondantes, et seront définitivement supprimées une fois cette période terminée.
+
+(IV) Droit d'opposition : vous pouvez vous opposer au traitement de vos données concernant les actions de marketing direct, ainsi que pour tout autre motif personnel, sauf si la base du traitement est l'intérêt légitime (auquel cas sera évalué l'intérêt prévalant, que ce soit celui du responsable du traitement ou celui de l'intéressé).
+
+ De plus, vous êtes en droit de retirer à tout moment le consentement que vous nous aurez accordé pour exploiter vos données personnelles.
+
+(V) Droit de limitation du traitement : si vous le souhaitez, vous pouvez nous demander de limiter le traitement si vous contestez son exactitude ou s'il est illicite et vous opposer à la suppression de vos données personnelles en demandant la limitation de leur utilisation. De même quand les données ne sont plus nécessaires pour le traitement, mais que vous en avez besoin pour la constatation, l'exercice ou la défense de droits en justice. Enfin, si vous vous êtes opposé au traitement, le temps de vérifier si l'intérêt légitime du responsable prévaut sur celui de l'intéressé.
+
+(VI) Droit de portabilité de vos données : vous avez droit d'obtenir une copie de toutes les données que vous nous avez fournies et, lorsque cela est techniquement possible, de demander à ce que vos données personnelles soient communiquées à un autre responsable du traitement.
+
+ Vous pourrez exercer vos droits à travers notre formulaire web dédié que vous trouverez en cliquant sur le lien suivant : [https://www.volotea.com/fr/formulaire-des-droits-des-passagers/](https://www.volotea.com/fr/formulaire-des-droits-des-passagers/).
+
+Pour exercer vos droits, nous vous demanderons de nous fournir une photocopie de votre pièce d'identité (passeport, carte d'identité ou autre document équivalant) afin de pouvoir vérifier votre identité et éviter un exercice frauduleux de vos droits. Veuillez noter que, bien que cette documentation ne soit pas requise pour créer un compte, étant donné les risques et préjudices que pourrait vous causer un tiers exerçant vos droits via, par exemple, l'usurpation d'identité, il est nécessaire que vous nous la fournissiez car c'est la seule façon de garantir que c'est bien vous qui êtes à l'origine de la demande. Quoi qu'il en soit, vous pourrez soumettre la demande au nom d'une autre personne ; pour cela, vous devrez nous fournir les renseignements ci-dessus ainsi qu'une autorisation signée par cette personne afin d'approuver la représentation.
+
+ Si nous sommes amenés à utiliser vos informations personnelles pour élaborer des profils comportementaux (par exemple, pour mieux connaître vos centres d'intérêt et vos besoins à travers vos habitudes de navigation sur notre site Web) et que nous le faisons de manière entièrement automatisée, vous serez en droit d'en être informé(e), de demander l'intervention personnelle d'un de nos agents, de contester une décision fondée sur ces profils ou, simplement, d'exprimer votre point de vue.
 
  Bien entendu, vous êtes en droit de retirer à tout moment les autorisations spécifiques que vous nous aurez éventuellement accordées pour exploiter vos données personnelles.
 
-Pour faire ça, il suffit de nous envoyer un e-mail à l'adresse [dataprotection.officer@volotea.com](mailto:dataprotection.officer@volotea.com). Veuillez noter qu’est nécessaire d’apporter une photocopie de votre passeport ou de votre document d'identité nationale, afin que nous puissions vérifier votre identité et éviter un exercice frauduleux de vos droits. Si vous soumettez la demande au nom d'une autre personne, vous devrez fournir les renseignements ci-dessus et aussi une autorisation signée par cette personne. ItalianoEnfin, vous pouvez adresser une réclamation à Volotea et/ou l'Agence espagnole de protection des données (instance de contrôle compétente en matière de protection des données), en particulier si vous avez exercé un droit et que nous n'avons pas respecté les délais légaux.
+ De plus, nous vous informons que vous avez également le droit d'adresser une réclamation à l'Agence espagnole de protection des données (AEPD), autorité compétente en Espagne en matière de protection des données, si vous estimez que vos données n'ont pas été correctement traitées.
 
 * * *
 
