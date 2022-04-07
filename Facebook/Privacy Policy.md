@@ -195,7 +195,7 @@ Nous [recueillons](#collect-information), [utilisons](#how-we-use-information) e
     
 *   dans la mesure nécessaire pour remplir nos obligations légales ;
     
-*   Pour protéger vos intérêts vitaux ou ceux des autres ;
+*   pour protéger vos intérêts vitaux ou ceux des autres ;
     
 *   dans la mesure nécessaire dans l’intérêt du public ;
     
@@ -254,11 +254,11 @@ Revenir en haut
 
 ### Comment nous contacter pour toute question ?
 
-Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp). Pour toutes questions concernant de la présente politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
+Vous pouvez en savoir plus sur la confidentialité [sur Facebook](https://www.facebook.com/about/basics) et [sur Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp). Pour toute question concernant cette politique, vous pouvez nous contacter par les moyens décrits ci-dessous.
 
 Nous contacter
 
-Le responsable de traitement des données pour vos informations est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/2061665240770586)ou par courrier à l’adresse :
+Le responsable de traitement de vos données est Meta Platforms Ireland Limited, que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/2061665240770586)ou par courrier à l’adresse :
 
 Meta Platforms Ireland Ltd.  
 4 Grand Canal Square  
