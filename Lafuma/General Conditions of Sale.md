@@ -291,3 +291,7 @@ ANNEXE 3: CODE DE L'ENVIRONNEMENT
 ---------------------------------
 
 Millet Mountain Group SAS est enregistré au Registre national des metteurs sur le marché d’éléments d’ameublement sous le numéro FR026986. Ce numéro garantit que Millet Mountain Group SAS, en adhérent à Eco-mobilier, se met en conformité avec les obligations réglementaires qui lui incombent en application de l’article L541-10-1 10° du Code de l’Environnement
+
+  
+
+Millet Mountain Group SAS est enregistrée auprès de l’ADEME au registre des producteurs de la filière TLC (Textiles, Linges de Maison, Chaussures) sous l’identifiant unique suivant FR218610\_11JPYT .
