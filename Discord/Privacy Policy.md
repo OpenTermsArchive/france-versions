@@ -1,6 +1,6 @@
 Cette traduction n'est proposée qu'à titre informatif. Dans le cas de divergences entre le texte en anglais et cette traduction, la version en anglais prévaudra.
 
-[Archived Versions](https://discord.com/archive/)
+[Versions archivées](https://discord.com/archive/)
 
 Politique de protection des données de Discord[
 
