@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 =============================
 
-(version au 16 Mars 2022)
+(version au 11 Avril 2022)
 
 Les présentes Conditions Générales de Vente régissent les relations entre DAMART et tout consommateur à l'occasion de la vente des produits présentés sur le site "www.damart.fr".  
   
@@ -17,7 +17,7 @@ Toute personne qui souhaite se faire livrer dans un autre pays que la France, do
   
 L'acheteur sera désigné dans ce document par le terme "vous".
 
-[TÉLÉCHARGER LES CONDITIONS GÉNÉRALES DE VENTE](https://www.damart.fr/documents/10581/33422687/20220316-cgv-damart.pdf/7827f3a1-50dc-4ddd-906d-49372e8b2fec)
+[TÉLÉCHARGER LES CONDITIONS GÉNÉRALES DE VENTE](https://www.damart.fr/documents/10581/33497437/20220411-cgv-damart.pdf/86faca1c-a752-4c79-989d-18894c82caa8)
 
 *   [1\. PRIX](#prix)
 *   [2\. COMMANDE](#commande)
@@ -235,7 +235,7 @@ Tous les produits vendus par DAMART bénéficient :
 \- De la garantie légale de conformité (articles L217-3 à L217-17 du Code de la consommation) au titre de laquelle, le consommateur :  
 • bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir ;  
 • peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l'article L. 217-12 du Code de la consommation ;  
-• est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre mois suivant la délivrance du bien.  
+• est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre mois suivant la délivrance du bien.
 
 \- De la garantie légale des vices cachés (articles 1641 à 1648 et 2232 du Code civil) au titre de laquelle le consommateur peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
 
@@ -324,7 +324,15 @@ Les vêtements, chaussures et les produits chimiques pouvant présenter un risqu
   
 Déchets d'éléments d'ameublement  
 Les déchets d'éléments d'ameublement ne doivent pas être jetés dans les poubelles mais dans des dépôts spécifiques (déchetterie).  
-Une contribution environnementale pour le recyclage de ces produits est perçue pour le compte de l'organisme chargé de leur élimination; elle est incluse dans leur prix de vente
+Une contribution environnementale pour le recyclage de ces produits est perçue pour le compte de l'organisme chargé de leur élimination; elle est incluse dans leur prix de vente  
+  
+DAMART est enregistrée aux registres des éco-organismes suivants :  
+• Citeo, sous l'identifiant unique FR211208\_03PPPC (filière papiers) et l'identifiant unique FR211208\_01CXZM (filière emballages)  
+• Re-Fashion, sous l'identifiant unique FR211208\_11BKYN (filière textile)  
+• Ecologic, sous l'identifiant unique FR001991\_05OB6H (filière déchets des équipements électriques et électroniques)  
+• Eco-mobilier sous l'identifiant unique FR001991\_10TPID (filière déchets des éléments d'ameublement)  
+  
+Ces identifiants uniques sont délivrés par l'Agence de la transition écologique (ADEME) et sont la preuve que DAMART est à jour de ses éco contributions.
 
 14\. LOI APPLICABLE
 -------------------
