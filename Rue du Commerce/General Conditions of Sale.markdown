@@ -876,7 +876,7 @@ L'action résultant des vices rédhibitoires doit être intentée par l'acquére
 
 \- Nous écrire à l'adresse suivante : 118 rue de Javel - 75015 - Paris.
 
-\- Ou par email à l'adresse suivante : [nous-contacter@groupe-rueducommerce.com](mailto:nous-contacter@rueducommerce.com)
+\- Ou par email à l'adresse suivante : [nous-contacter@groupe-rueducommerce.](mailto:nous-contacter@rueducommerce.com)fr
 
 [**  
 Mentions légales**  
@@ -1753,4 +1753,4 @@ L'action résultant des vices rédhibitoires doit être intentée par l'acquére
 
 \- Nous écrire à l'adresse suivante : 118 rue de Javel - 75015 - Paris.
 
-\- Ou par email à l'adresse suivante : [nous-contacter@groupe-rueducommerce.com](mailto:nous-contacter@rueducommerce.com)
+\- Ou par email à l'adresse suivante : [nous-contacter@groupe-rueducommerce.](mailto:nous-contacter@rueducommerce.com)fr
