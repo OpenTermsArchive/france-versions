@@ -8,7 +8,7 @@ Version applicable à compter du 17 octobre 2021, sauf dans le cas où vous avez
 1\. Objet
 ---------
 
-La société Comuto SA (ci-après, « **BlaBlaCar** ») édite une plateforme de covoiturage accessible sur un site internet notamment à l’adresse www.blablacar.fr ou sous forme d’application mobile et destinée à (i) mettre en relation des conducteurs se rendant à une destination donnée pour leur propre compte avec des passagers allant dans la même direction afin de leur permettre de partager le trajet et donc les frais qui y sont associés et (ii) rechercher et procéder à l’achat de Billets de bus auprès des opérateurs de transport (les “Autocaristes”) que nous distribuons (ci-après, la « **Plateforme** »).
+La société Comuto SA (ci-après, « **BlaBlaCar** ») édite une plateforme de covoiturage accessible sur un site internet notamment à l’adresse www.blablacar.fr ou sous forme d’application mobile et destinée à (i) mettre en relation des conducteurs se rendant à une destination donnée pour leur propre compte avec des passagers allant dans la même direction afin de leur permettre de partager le trajet et donc les frais qui y sont associés et (ii) rechercher et procéder à l’achat de Billets de bus auprès des opérateurs de transport (les « Autocaristes ») que nous distribuons (ci-après, la « **Plateforme** »).
 
 Les présentes conditions générales d’utilisation ont pour objet d’encadrer l’accès et les modalités d’utilisation de la Plateforme. Nous vous invitons à en prendre attentivement connaissance. Vous comprenez et reconnaissez que BlaBlaCar n’est partie à aucun accord, contrat ou relation contractuelle, de quelque nature que ce soit, conclu entre les Membres de sa Plateforme ou avec un Autocariste.
 
