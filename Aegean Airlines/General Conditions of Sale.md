@@ -607,6 +607,17 @@ Ce site peut contenir des liens et des indications concernant d'autres sites app
 **  
 Voir la politique d’AEGEAN de protection des données sur [https://fr.aegeanair.com/protection-des-donnees/](https://fr.aegeanair.com/privacy-notice/)  
   
+**MCP terms & conditions**
+
+*   Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
+*   L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
+*   Elle n'est proposée que pour les nouvelles réservations. Les ajouts ou modifications ultérieurs, le cas échéant, seront calculés sur la base de la devise d'origine (euros).
+*   L'option de conversion de devise n'est pas disponible pour les services additionnels suivants : assurance voyage, stationnement à l'aéroport et location de voiture.
+*   Les différentes devises proposées sont les suivantes : euro EUR, livre sterling GBP, dollar australien AUD, dollar canadien CAD, franc suisse CHF, couronne danoise DKK, couronne suédoise SEK, dollar américain USD, shekel israélien ILS, Dirham des Émirats arabes unis AED, Réal brésilien BRL, Couronne norvégienne NOK, Rouble russe RUB, Riyal saoudien SAR, Livre turque TRY, Zloty polonais PLN.
+*   Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
+*   Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
+
+  
 **Réclamations  
 **  
 Le Passager qui a une réclamation à formuler doit, en premier lieu, contacter AEGEAN :  
