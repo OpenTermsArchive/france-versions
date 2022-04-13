@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 09/08/2021
+Version : 12/04/2022
 
 ### 1 Champ d’application
 
@@ -19,7 +19,7 @@ b) Les conditions générales relatives au transport des passagers seront régie
 
 ### 2 Partenaire contractuel
 
-Le partenaire contractuel pour la réservation des trajets (vendeur de titre de transport) et pour l’utilisation des portails web est la société FlixMobility GmbH, Friedenheimer Brücke 16, 80639 München, ci-après dénommée FlixMobility.
+Le partenaire contractuel pour la réservation des trajets (vendeur de titre de transport) et pour l’utilisation des portails web est la société Flix SE, Friedenheimer Brücke 16, 80639 München, ci-après dénommée FlixMobility.
 
 ### 3 Utilisation commerciale du portail Web
 
@@ -100,7 +100,7 @@ Dans ce cas, le remboursement des titres de transports achetés au-delà de ceux
   
 **4.7.1** Le vendeur se réserve le droit de refuser la commande en cas de motif légitime, notamment lorsqu’il existe un litige avec le client concernant le paiement d’une commande antérieure.  
   
-**4.7.2** En cas de fraude, tromperie ou activités illégales relatives à l’achat, le remboursement ou le transfert des titres de transports, FlixMobility GmbH se réserve le droit d’annuler tout titre de transport acheté, intégralement ou partiellement, au moyen d’un remboursement du titre de transport.  
+**4.7.2** En cas de fraude, tromperie ou activités illégales relatives à l’achat, le remboursement ou le transfert des titres de transports, Flix SE se réserve le droit d’annuler tout titre de transport acheté, intégralement ou partiellement, au moyen d’un remboursement du titre de transport.  
   
 **4.7.3** En cas d’achat d’un titre de transport dans le cadre d’une offre commerciale, toute modification du titre de transport ayant eu lieu après l’expiration de l’offre, donnera lieu au paiement de la part du client de la différence entre le nouveau prix applicable et celui qui avait été payé lors de l’achat du titre de transport pendant l’offre.
 
@@ -124,7 +124,7 @@ Cet avoir, non remboursable, sera valable 12 mois et pourra être utilisé pour 
   
 **5.6** L'ensemble des [frais d’annulation](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) ou de modification n'est pas applicable lorsque le remboursement est demandé en raison de circonstances qui relèvent de la responsabilité de la société FlixMobility ou de ses filiales
 
-**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à FlixMobility ou FlixBus DACH, adresse postale FlixMobility GmbH, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Karl-Liebknecht-Straße 33, 10178 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est FlixMobility GmbH ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
+**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à FlixMobility ou FlixBus DACH, adresse postale Flix SE, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Karl-Liebknecht-Straße 33, 10178 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est Flix SE ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
 
 **5.8** Les politiques d’annulation différentes dans les Conditions générales du transporteur ne s’appliquent pas.
 
