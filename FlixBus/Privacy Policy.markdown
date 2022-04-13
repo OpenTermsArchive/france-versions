@@ -3,7 +3,7 @@ Confidentialité des données
 
 **Avant-projet**
 
-Nous, FlixMobility GmbH, y compris nos filiales (ci-après dénommées conjointement : « **FlixBus** », « **nous** » ou « **à nous** ») souhaitons vous informer ici sur la protection des données chez FlixBus.
+Nous, Flix SE, y compris nos filiales (ci-après dénommées conjointement : « **FlixBus** », « **nous** » ou « **à nous** ») souhaitons vous informer ici sur la protection des données chez FlixBus.
 
 Les réglementations relatives à la protection des données pour la protection de la personne concernée par le traitement des données (nous vous désignons ci-après comme la personne concernée, ainsi que le **« client »,** l’**« utilisateur », « vous »** ou la **« personne concernée** **»**) proviennent en particulier du Règlement général sur la protection des données de l’UE (Règlement UE 2016/679 ; ci-après dénommé **« RGPD »**). Dans la mesure où nous décidons des finalités et des moyens du traitement des données, seul ou conjointement avec d’autres, cela inclut principalement l’obligation de vous informer de manière transparente sur le type, la portée, la finalité, la durée et la base juridique du traitement (cf. art. 13 et 14 du RGPD).
 
@@ -47,7 +47,7 @@ La présente politique de confidentialité est basée sur les définitions suiva
 
 La personne responsable du traitement de vos données à caractère personnel (art. 4(7) du RGPD) est :
 
-FlixMobility GmbH  
+Flix SE  
 Friedenheimer Brücke 16  
 80639 Munich  
 Téléphone : +49 (0)30 300 137 300
@@ -62,7 +62,7 @@ Le délégué à la protection des données de notre société est à votre disp
 
 Ses coordonnées sont :
 
-FlixMobility GmbH  
+Flix SE  
 Dr Theresia Gondro  
 Friedenheimer Brücke 16  
 80639 Munich
@@ -150,7 +150,7 @@ Nous serons heureux de vous fournir de plus amples informations à ce sujet sur 
 
 Ses coordonnées sont les suivantes :
 
-FlixMobility GmbH  
+Flix SE  
 Tobias Hadem  
 Friedenheimer Brücke 16  
 80639 Munich
