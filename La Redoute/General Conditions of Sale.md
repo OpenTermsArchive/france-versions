@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 01 janvier 2022
-=======================================================================================================================================
+Mise à jour du 14 avril 2022
+=====================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -96,11 +96,11 @@ Pour les besoins du présent article :
 **  
 Les délais de services indiqués ci-après ne sont pas garantis pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.
 
-\- **« Point Relais Colis ® »** (2 à 4 jours à compter de la validation de votre commande – livraison standard au coût de 3,95 €). Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée, ainsi que, le cas échéant, la carte ayant servi au paiement. A défaut, les Produits commandés ne pourront vous être remis.  
-  
-\- **« Chronopost »** (1 à 3 jours à compter de la validation de votre commande – coût de 9,95 €).  
-  
-**« Colissimo »** pour les petits Produits dont la longueur est inférieure ou égale à 100cm (3 à 6 jours à compter de la validation de votre commande – coût de 4,95 € pour les petits Produits de Mode – coût de 6,95 € pour les autres petits Produits). La livraison est effectuée par La Poste.
+\- **« Livraison à domicile 24/48h »** (1 à 3 jours à compter de la validation de votre commande – coût de 9,95 €).
+
+\- **« Point Relais Colis ® »** (2 à 4 jours à compter de la validation de votre commande – livraison standard au coût de 3,95 €). Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée, ainsi que, le cas échéant, la carte ayant servi au paiement. A défaut, les Produits commandés ne pourront vous être remis.
+
+\- **« Colissimo »** pour les petits Produits dont la longueur est inférieure ou égale à 100cm (3 à 6 jours à compter de la validation de votre commande – coût de 4,95 € pour les petits Produits de Mode – coût de 6,95 € pour les autres petits Produits). La livraison est effectuée par La Poste.
 
 \- **« Relais Colis ® Home »** pour les petits Produits la longueur est entre 101cm et 130cm (5 à 15 jours à compter de la validation de votre commande – coût de 6,95 €). Vos colis sont livrés devant votre adresse de livraison (portail, pied de l’immeuble ou endroit le plus accessible) indiquée lors de votre commande, sur rendez-vous. Le transporteur Vous appellera la veille pour fixer un créneau de livraison de 2h.  
   
