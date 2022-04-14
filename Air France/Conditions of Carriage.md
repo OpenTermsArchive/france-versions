@@ -1,7 +1,7 @@
 Conditions Générales de Transport
 =================================
 
-Mise à jour octobre 2019
+Mise à jour 24 mars 2022
 
 Article 1 - Définitions
 -----------------------
