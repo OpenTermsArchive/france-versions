@@ -607,7 +607,7 @@ Ce site peut contenir des liens et des indications concernant d'autres sites app
 **  
 Voir la politique d’AEGEAN de protection des données sur [https://fr.aegeanair.com/protection-des-donnees/](https://fr.aegeanair.com/privacy-notice/)  
   
-**MCP terms & conditions**
+**Conditions générales de tarification multi-devise (MCP)**
 
 *   Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
 *   L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
