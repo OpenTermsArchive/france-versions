@@ -134,10 +134,10 @@ Date :
 
 **7.2 Modalités de retour**
 
-Après avoir notifié Comptoir des Cotonniers de sa rétractation, le Client doit retourner les produits concernés dans un délai maximum de 14 jours à compter de cette notification, accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’Étiquette prépayée re-facturée.  
+Après avoir notifié Comptoir des Cotonniers de sa rétractation, le Client doit retourner les produits concernés dans un délai maximum de 14 jours à compter de cette notification, accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’étiquette disponible dans l’espace « Suivi de commandes ».  
   
-Jusqu’au 31 mars 2022, les frais de retour sont offerts en France métropolitaine.  
-A compter du 1er avril 2022, l’étiquette prépayée disponible dans l’espace « Suivi de commandes » sera facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Etiquette prépayée re-facturée »). Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
+A compter du 1er avril 2022, l’étiquette prépayée disponible dans l’espace « Suivi de commandes » sera facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Etiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande.  
+Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
 Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
 Le retour des produits dans le cadre de l’exercice du droit de rétractation doit être effectué conformément aux conditions décrites à l’article 8.2 ci-dessous.  
   
@@ -152,8 +152,8 @@ En cas de retours anormaux ou abusifs, Comptoir des Cotonniers se réserve le dr
 
 **8.2 Conditions et modalités de retour**
 
-Jusqu’au 31 mars 2022, les frais de retour sont offerts en France métropolitaine.  
-A compter du 1er avril 2022, l’étiquette prépayée disponible dans l’espace « Suivi de commandes » sera facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Étiquette prépayée re-facturée »). Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
+A compter du 1er avril 2022, l’étiquette prépayée disponible dans l’espace « Suivi de commandes » sera facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Étiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande.  
+Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
 Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
   
 Pour les commandes avec une livraison en Colissimo ou en Chronopost :  
