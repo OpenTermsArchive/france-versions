@@ -298,7 +298,7 @@ ARTICLE 7 REFUS DU TRANSPORT
 *   Vous vous êtes comporté de manière inacceptable sur un vol précédent, et nous avons des raisons de croire que vous pouvez à nouveau vous comporter de la sorte.
 *   Vous avez refusé de passer un contrôle de sécurité.
 *   Vous n’avez pas payé les tarifs, taxes ou frais nécessaires.
-*   Vous nous devez de l’argent concernant un vol précédent, en raison d’un paiement ayant été détourné, refusé ou nous étant facturé à nouveau
+*   Vous nous devez de l’argent concernant un vol précédent (Services liés au vol), en raison d’un paiement ayant été détourné, refusé ou nous étant facturé à nouveau
 *   Vous n’êtes pas en possession de documents de voyage valides ;
 *   Vous essayez peut-être d’entrer dans un pays pour prendre un vol de correspondance ou pour lequel vous n’êtes pas en possession de documents de voyage valides ;
 *   Vous avez détruit vos documents de voyage pendant un vol ; ou 
