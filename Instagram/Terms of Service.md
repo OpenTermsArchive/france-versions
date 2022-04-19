@@ -1,5 +1,5 @@
-Terms of Use
-============
+Conditions d’utilisation
+========================
 
 _L’entreprise Facebook Ireland Limited a changé de nom et est devenue Meta Platforms Ireland Limited. Nous avons mis à jour nos Conditions d’utilisation, notre Politique d’utilisation des données et notre Politique d’utilisation des cookies pour refléter ce changement de nom le 4 janvier 2022. Bien que notre entreprise ait changé de nom, nous continuons à proposer les mêmes produits, dont Instagram de Meta. Notre Politique d’utilisation des données et nos Conditions d’utilisation restent en vigueur, et ce changement de nom n’affecte en rien la façon dont nous utilisons ou partageons les données. [_En savoir plus sur Meta_](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fabout.facebook.com%2Fmeta&h=removed) et notre vision du métavers._
 
@@ -17,48 +17,48 @@ Si vous êtes une entreprise établie dans l’UE et que vous utilisez Instagram
 Le Service Instagram est l’un des [Produits Meta](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Digtos%26helpref%3Dfaq_content&h=removed) fournis par Meta Platforms Ireland Limited. Par conséquent, les présentes Conditions d’utilisation constituent un accord entre vous et Meta Platforms Ireland Limited.  
   
 
-**The Instagram Service**
+**Le Service Instagram**
 
-We agree to provide you with the Instagram Service. The Service includes all of the Instagram products, features, applications, services, technologies, and software that we provide to advance Instagram's mission: To bring you closer to the people and things you love. The Service is made up of the following aspects:
+Nous acceptons de vous fournir le Service Instagram. Le Service comprend l’ensemble des produits, des fonctionnalités, des applications, des services, des technologies et des logiciels Instagram que nous vous fournissons afin d’accomplir la vocation d’Instagram : vous rapprocher des personnes et des choses que vous aimez. Le Service inclut les aspects suivants :
 
-*   **Offering personalized opportunities to create, connect, communicate, discover, and share.**  
-    People are different. We want to strengthen your relationships through shared experiences you actually care about. So we build systems that try to understand who and what you and others care about, and use that information to help you create, find, join, and share in experiences that matter to you. Part of that is highlighting content, features, offers, and accounts you might be interested in, and offering ways for you to experience Instagram, based on things you and others do on and off Instagram.
-*   **Fostering a positive, inclusive, and safe environment.**  
-    We develop and use tools and offer resources to our community members that help to make their experiences positive and inclusive, including when we think they might need help. We also have teams and systems that work to combat abuse and violations of our Terms and policies, as well as harmful and deceptive behavior. We use all the information we have-including your information-to try to keep our platform secure. We also may share information about misuse or harmful content with other Meta Companies or law enforcement. Learn more in the [Data Policy](https://help.instagram.com/519522125107875?ref=igtos&helpref=faq_content).
-*   **Developing and using technologies that help us consistently serve our growing community.**  
-    Organizing and analyzing information for our growing community is central to our Service. A big part of our Service is creating and using cutting-edge technologies that help us personalize, protect, and improve our Service on an incredibly large scale for a broad global community. Technologies like artificial intelligence and machine learning give us the power to apply complex processes across our Service. Automated technologies also help us ensure the functionality and integrity of our Service.
-*   **Providing consistent and seamless experiences across other Meta Company Products.**  
-    Instagram is part of the Meta Companies, which share technology, systems, insights, and information-including the information we have about you (learn more in the [Data Policy](https://help.instagram.com/519522125107875?ref=igtos&helpref=faq_content)) in order to provide services that are better, safer, and more secure. We also provide ways to interact across the Meta Company Products that you use, and designed systems to achieve a seamless and consistent experience across the Meta Company Products.
-*   **Ensuring access to our Service.**  
-    To operate our global Service, we must store and transfer data across our systems around the world, including outside of your country of residence. The use of this global infrastructure is necessary and essential to provide our Service. This infrastructure may be owned or operated by Meta Platforms, Inc., Meta Platforms Ireland Limited, or their affiliates.
-*   **Connecting you with brands, products, and services in ways you care about.**  
-    We use data from Instagram and other Meta Company Products, as well as from third-party partners, to show you ads, offers, and other sponsored content that we believe will be meaningful to you. And we try to make that content as relevant as all your other experiences on Instagram.
-*   **Research and innovation.**  
-    We use the information we have to develop, test, and improve our Service and collaborate with others on research to make our Service better and contribute to the well-being of our community. This includes analyzing the data we have about our users and understanding how people use our Services, for example by conducting surveys and testing and troubleshooting new features.
-
-  
-
-**How Our Service Is Funded**
-
-Instead of paying to use Instagram, by using the Service covered by these Terms, you acknowledge that we can show you ads that businesses and organizations pay us to promote on and off the [Meta Company Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400%3Fref%3Ddp%26helpref%3Dfaq_content&h=removed). We use your personal data, such as information about your activity and interests, to show you ads that are more relevant to you.
-
-We show you relevant and useful ads without telling advertisers who you are. We don’t sell your personal data. We allow advertisers to tell us things like their business goal and the kind of audience they want to see their ads. We then show their ad to people who might be interested.
-
-We also provide advertisers with reports about the performance of their ads to help them understand how people are interacting with their content on and off Instagram. For example, we provide general demographic and interest information to advertisers to help them better understand their audience. We don’t share information that directly identifies you (information such as your name or email address that by itself can be used to contact you or identifies who you are) unless you give us specific permission. Learn more about how Instagram ads work [here](https://help.instagram.com/537518769659039?helpref=faq_content).
-
-You may see branded content on Instagram posted by account holders who promote products or services based on a commercial relationship with the business partner mentioned in their content. You can learn more about this [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F116947042301556%3Fhelpref%3Dfaq_content&h=removed).
+*   **Offrir des opportunités personnalisées pour créer, communiquer, établir des liens, découvrir et partager**  
+    Chaque personne est différente. Nous souhaitons renforcer vos relations au moyen d’expériences partagées qui comptent à vos yeux. Ainsi, nous créons des systèmes qui tentent de déterminer quelles personnes et quels intérêts comptent pour vous et pour les autres, et nous utilisons ces informations afin de vous aider à créer, à trouver, à vivre et à partager des expériences importantes à vos yeux. Cela consiste notamment à mettre en avant du contenu, des fonctionnalités, des offres et des comptes susceptibles de vous intéresser, et de vous offrir divers moyens d’utiliser Instagram en fonction de ce que vous et d’autres personnes faites sur Instagram et en dehors.
+*   **Créer un environnement positif, inclusif et sûr**  
+    Nous développons et utilisons des outils, et offrons des ressources aux membres de notre communauté afin de contribuer à rendre leurs expériences positives et inclusives, y compris lorsque nous pensons qu’ils pourraient avoir besoin de notre aide. Nous avons également des équipes et des systèmes qui fonctionnent pour lutter contre les abus et les violations de nos Conditions et politiques, ainsi que contre les comportements préjudiciables et trompeurs. Nous utilisons toutes les informations à notre disposition, y compris les vôtres, pour tenter de maintenir la sécurité de notre plateforme. Il se peut également que nous partagions des informations concernant une utilisation abusive ou du contenu préjudiciable avec d’autres entités Meta ou avec la police. Apprenez-en davantage dans la [Politique d’utilisation des données](https://help.instagram.com/519522125107875?ref=igtos&helpref=faq_content).
+*   **Développer et utiliser des technologies nous permettant d’offrir constamment des services à notre communauté grandissante**  
+    La gestion et l’analyse des informations pour notre communauté grandissante sont essentielles à notre Service. Une grande partie de notre Service consiste à créer et à utiliser des technologies de pointe capables de personnaliser, de protéger et d’améliorer notre Service à une très grande échelle pour une communauté mondiale étendue. Des technologies telles que l’intelligence artificielle et l’apprentissage automatique nous offrent la capacité d’appliquer des processus complexes à tout notre Service. Les technologies automatisées nous permettent également d’assurer le fonctionnement et l’intégrité de notre Service.
+*   **Fournir des expériences homogènes et fluides sur les autres Produits des entités Meta**  
+    Instagram fait partie des entités Meta, qui partagent des technologies, des systèmes, des statistiques et des informations, y compris des informations vous concernant dont nous disposons (apprenez-en davantage dans la [Politique d’utilisation des données](https://help.instagram.com/519522125107875?ref=igtos&helpref=faq_content)), afin de fournir des services de meilleure qualité, plus sûrs et plus sécurisés. Nous proposons également différentes manières d’interagir parmi les Produits des entités Meta que vous utilisez et nous avons conçu des systèmes offrant des expériences homogènes et fluides sur l’ensemble des Produits des entités Meta.
+*   **Assurer l’accès à notre Service.**  
+    Afin de faire fonctionner notre Service à l’international, nous devons stocker et transférer des données à travers nos systèmes dans le monde entier, y compris en dehors de votre pays de résidence. L’utilisation de cette infrastructure globale est nécessaire et essentielle pour fournir notre Service. Cette infrastructure peut être possédée ou exploitée par Meta Platforms, Inc., Meta Platforms Ireland Limited ou leurs filiales.
+*   **Vous connecter aux marques, aux produits et aux services de la manière la mieux adaptée pour vous**  
+    Nous utilisons les données d’Instagram et d’autres Produits des entités Meta, ainsi que de partenaires tiers afin de vous montrer des publicités, des offres et d’autres contenus sponsorisés qui, à notre avis, vous intéresseront. Nous faisons de notre mieux pour que ce contenu soit aussi pertinent que vos autres expériences sur Instagram.
+*   **Recherche et innovation**  
+    Nous utilisons les informations à notre disposition afin de développer, tester et améliorer notre Service et de collaborer avec des tiers sur de la recherche, dans le but d’améliorer notre Service et de contribuer au bien-être de notre communauté. Cela inclut d’analyser les données que nous avons concernant nos utilisateurs et de comprendre comment les personnes utilisent nos Services, par exemple, en effectuant des sondages et des tests et en résolvant les problèmes qui surviennent dans de nouvelles fonctionnalités.
 
   
 
-**The Data Policy**
+**Comment notre Service est-il financé**
 
-Providing our Service requires collecting and using your information. The [Data Policy](https://help.instagram.com/519522125107875?helpref=faq_content) explains how we collect, use, and share information across the [Meta Products](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Dtos%26helpref%3Dfaq_content&h=removed). It also explains the many ways you can control your information, including in the [Instagram Privacy and Security Settings](https://help.instagram.com/285881641526716?ref=igtos).
+Au lieu de payer pour l’utilisation d’Instagram, en utilisant le Service couvert par les présentes Conditions, vous reconnaissez que nous pouvons vous montrer les publicités payées par les entreprises et organisations pour que nous les promouvions sur les [Produits des entités Meta](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F195227921252400%3Fref%3Ddp%26helpref%3Dfaq_content&h=removed) et en dehors. Nous utilisons vos données personnelles, telles que les informations concernant votre activité et vos intérêts, afin de vous montrer des publicités plus pertinentes pour vous.
+
+Nous vous montrons des publicités pertinentes et utiles sans informer les annonceurs de votre identité. Nous ne vendons pas vos données personnelles. Nous autorisons les annonceurs à nous donner des informations, telles que leur objectif commercial et le type d’audience à qui ils souhaitent montrer leurs publicités. Puis, nous montrons leur publicité aux personnes susceptibles d’être intéressées.
+
+De plus, nous envoyons aux annonceurs des rapports sur les performances de leurs publicités pour les aider à comprendre comment les gens interagissent avec leur contenu sur Instagram et en dehors. Nous fournissons par exemple des informations démographiques générales et liées aux centres d’intérêts aux annonceurs pour les aider à mieux comprendre leur audience. Nous ne partageons aucune information qui vous identifie directement (des informations comme votre nom ou adresse e-mail qui, en elles-mêmes, peuvent servir à vous contacter ou à vous identifier) sans avoir obtenu votre autorisation spécifique. Découvrez comment fonctionnent les publicités Instagram [ici](https://help.instagram.com/537518769659039?helpref=faq_content).
+
+Vous pouvez voir du contenu de marque sur Instagram publié par des titulaires de compte qui font la promotion de produits ou services sur la base d’une relation commerciale avec le partenaire commercial mentionné dans leur contenu. Pour en savoir plus sur ce point, cliquez [ici](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2Finstagram%2F116947042301556%3Fhelpref%3Dfaq_content&h=removed).
 
   
 
-**Your Commitments**
+**La Politique d’utilisation des données**
 
-In return for our commitment to provide the Service, we require you to make the below commitments to us.
+La mise à disposition de notre Service nécessite la collecte et l’utilisation de vos informations. La [Politique d’utilisation des données](https://help.instagram.com/519522125107875?helpref=faq_content) explique comment nous recueillons, utilisons et partageons des informations à travers les [Produits Meta](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fhelp%2F1561485474074139%3Fref%3Dtos%26helpref%3Dfaq_content&h=removed). Elle présente également les différentes manières dont vous pouvez contrôler vos informations, y compris dans les [Paramètres de sécurité et de confidentialité d’Instagram](https://help.instagram.com/285881641526716?ref=igtos).
+
+  
+
+**Vos engagements**
+
+En échange de notre engagement à vous fournir le Service, nous vous demandons de prendre les engagements suivants envers nous.
 
 **Qui peut utiliser Instagram.** Nous souhaitons que notre Service soit aussi ouvert et inclusif que possible, mais nous voulons également qu’il soit sûr, sécurisé et conforme à la loi. Par conséquent, nous avons besoin que vous vous engagiez à respecter quelques restrictions afin de faire partie de la communauté Instagram.
 
@@ -67,23 +67,23 @@ In return for our commitment to provide the Service, we require you to make the 
 *   Votre compte ne doit pas avoir déjà été désactivé pour avoir enfreint la loi ou nos politiques.
 *   Vous ne devez pas être un délinquant sexuel condamné.
 
-**How You Can't Use Instagram.** Providing a safe and open Service for a broad community requires that we all do our part.
+**Utilisations interdites d’Instagram.** La fourniture d’un Service ouvert et sûr à une vaste communauté nécessite que chacun y apporte sa contribution.
 
-*   **You can't impersonate others or provide inaccurate information.**  
-    You don't have to disclose your identity on Instagram, but you must provide us with accurate and up to date information (including registration information), which may include providing personal data. Also, you may not impersonate someone or something you aren't, and you can't create an account for someone else unless you have their express permission.
-*   **You can't do anything unlawful, misleading, or fraudulent or for an illegal or unauthorized purpose.**
-*   **You can't violate (or help or encourage others to violate) these Terms or our policies, including in particular the [Instagram Community Guidelines](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content), [Meta Platform Terms and Developer Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms&h=removed), and [Music Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines&h=removed)**.  
-    If you post branded content, you must comply with our [Branded Content Policies](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2Fbrandedcontent%2F&h=removed), which require you to use our branded content tool. Learn how to report conduct or content in our [Help Center](https://help.instagram.com/).
-*   **You can't do anything to interfere with or impair the intended operation of the Service.**  
-    This includes misusing any reporting, dispute, or appeals channel, such as by making fraudulent or groundless reports or appeals.
-*   **You can't attempt to create accounts or access or collect information in unauthorized ways.**  
-    This includes creating accounts or collecting information in an automated way without our express permission.
-*   **You can’t sell, license, or purchase any account or data obtained from us or our Service.**  
-    This includes attempts to buy, sell, or transfer any aspect of your account (including your username); solicit, collect, or use login credentials or badges of other users; or request or collect Instagram usernames, passwords, or misappropriate access tokens.
-*   **You can't post someone else’s private or confidential information without permission or do anything that violates someone else's rights, including intellectual property rights (e.g., copyright infringement, trademark infringement, counterfeit, or pirated goods).**  
-    You may use someone else's works under exceptions or limitations to copyright and related rights under applicable law. You represent you own or have obtained all necessary rights to the content you post or share. Learn more, including how to report content that you think infringes your intellectual property rights, [here](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos%26helpref%3Dfaq_content&h=removed).
-*   **You can’t modify, translate, create derivative works of, or reverse engineer our products or their components.**
-*   **You can't use a domain name or URL in your username without our prior written consent.**
+*   **Vous ne pouvez pas usurper l’identité d’autrui ni fournir des informations erronées.**  
+    Vous n’avez pas l’obligation de révéler votre identité sur Instagram, mais vous devez nous fournir des informations exactes et à jour (y compris les informations d’inscription), ce qui peut inclure de fournir des données personnelles. Vous ne pouvez pas usurper l’identité de quelqu’un ou d’une chose que vous n’êtes pas et vous ne pouvez pas créer de compte pour une autre personne, sauf si vous avez son autorisation expresse.
+*   **Vous ne pouvez rien faire qui soit illégal, trompeur ou frauduleux, ni agir dans un but illicite ou interdit.**
+*   **Vous ne pouvez pas violer (ni aider ou inciter autrui à violer) les présentes Conditions ou nos politiques, notamment et en particulier les [Règles de la communauté Instagram](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content), les [Conditions générales de la plateforme Meta et les Règles pour les développeurs](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fdevelopers.facebook.com%2Fterms&h=removed) et les [Règles applicables à la musique](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Flegal%2Fmusic_guidelines&h=removed)**.  
+    Si vous postez du contenu de marque, vous devez respecter nos [Politiques de contenu de marque](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.facebook.com%2Fpolicies%2Fbrandedcontent%2F&h=removed), ce qui vous oblige à utiliser notre outil de contenu de marque. Découvrez comment signaler un comportement ou du contenu dans nos [pages d’aide](https://help.instagram.com/).
+*   **Vous ne pouvez rien faire qui interfère avec le fonctionnement prévu du Service ou qui nuise à celui-ci.**  
+    Cela inclut l’utilisation abusive de tout canal de signalement, de contestation ou de recours, comme en effectuant des signalements ou recours frauduleux ou non fondés.
+*   **Vous ne pouvez pas tenter de créer de comptes, ni de recueillir des informations ou d’y accéder de manière illégale.**  
+    Cela inclut la création de comptes ou la collecte d’informations de manière automatisée sans notre autorisation expresse.
+*   **Vous ne pouvez pas vendre, donner en licence, acheter aucun compte ou aucune donnée obtenus de nous ou de nos Services.**  
+    Cela inclut les tentatives d'achat, de vente ou de transfert de tout aspect de votre compte (y compris votre nom d’utilisateur) ; de solliciter, de recueillir ou d’utiliser les identifiants de connexion ou les badges d’autres utilisateurs ; ou de demander ou recueillir des noms d’utilisateur, mots de passe Instagram, ou de détourner des tokens d’accès.
+*   **Vous ne pouvez pas publier les informations privées ou confidentielles d’une autre personne sans autorisation ou faire quelque chose qui enfreint les droits d’une autre personne, y compris les droits de propriété intellectuelle (ex. violation des droits d’auteur, violation d’une marque de commerce, contrefaçon ou marchandises piratées).**  
+    Vous pouvez utiliser les œuvres d’une autre personne sous réserve des exceptions ou limitations aux droits d’auteur et aux droits voisins en vertu de la loi applicable. Vous déclarez que vous possédez ou avez obtenu tous les droits nécessaires concernant le contenu que vous publiez ou partagez. Apprenez-en davantage [ici](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=http%3A%2F%2Fhelp.instagram.com%2F535503073130320%3Fref%3Digtos%26helpref%3Dfaq_content&h=removed), notamment sur la manière de signaler du contenu qui, à votre avis, enfreint vos droits de propriété intellectuelle.
+*   **Vous ne pouvez pas modifier, traduire, créer des œuvres dérivées ou faire de l'ingénierie inverse sur nos produits ou leurs composants.**
+*   **Vous ne pouvez pas utiliser un nom de domaine ou une URL dans votre nom d’utilisateur sans notre consentement écrit préalable.**
 
 **Les autorisations que vous nous accordez.** Dans le cadre de notre accord, vous nous accordez également les autorisations nécessaires à la fourniture du Service.
 
@@ -95,16 +95,16 @@ In return for our commitment to provide the Service, we require you to make the 
 
   
 
-**Additional Rights We Retain**
+**Droits supplémentaires que nous conservons**
 
-*   If you select a username or similar identifier for your account, we may change it if we believe it is appropriate or necessary (for example, if it infringes someone's intellectual property or impersonates another user).
-*   If you use content covered by intellectual property rights that we have and make available in our Service (for example, images, designs, videos, or sounds we provide that you add to content you create or share), we retain all rights to our content (but not yours).
-*   You can only use our intellectual property and trademarks or similar marks as expressly permitted by our [Brand Guidelines](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F&h=removed) or with our prior written permission.
-*   You must obtain written permission from us or under an open source license to modify, create derivative works of, decompile, or otherwise attempt to extract source code from us.
+*   Si vous choisissez un nom d’utilisateur ou un identifiant similaire pour votre compte, nous pouvons modifier celui-ci si nous pensons qu’il est approprié ou nécessaire de le faire (par exemple, s’il enfreint la propriété intellectuelle de quelqu’un ou usurpe l’identité d’un autre utilisateur).
+*   Si vous utilisez du contenu couvert par des droits de propriété intellectuelle que nous détenons et rendons disponibles dans notre Service (par exemple, des images, des dessins, des vidéos ou des sons que nous fournissons et que vous ajoutez à du contenu que vous créez ou partagez), nous conservons tous les droits relatifs à notre contenu (mais pas au vôtre).
+*   Vous ne pouvez utiliser notre propriété intellectuelle et nos marques de commerce, ou toute autre marque similaire, que dans les cas expressément autorisés par nos [Règles d’utilisation des marques](https://help.instagram.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fwww.instagram-brand.com%2F&h=removed) ou après avoir préalablement reçu une autorisation écrite de notre part.
+*   Vous devez obtenir notre autorisation écrite ou une autorisation dans le cadre d’une licence open source pour modifier, créer des œuvres dérivées, décompiler ou tenter d’extraire notre code source de toute autre manière.
 
   
 
-**Content Removal and Disabling or Terminating Your Account**
+**Suppression de contenu et désactivation ou résiliation de votre compte**
 
 *   Nous pouvons supprimer tout contenu ou toute information que vous partagez sur le Service si nous estimons que cela viole les présentes Conditions d’utilisation ou nos politiques (y compris nos [Règles de la Communauté Instagram](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content)), ou si la loi nous y oblige. Nous pouvons immédiatement refuser de vous fournir le Service ou arrêter de vous fournir le Service en tout ou en partie (et notamment en mettant fin ou en désactivant votre accès aux Produits Meta et aux Produits des entités Meta) afin de protéger notre communauté ou nos services, ou si vous générez un risque ou une responsabilité légale pour nous, enfreignez les présentes Conditions d’utilisation ou nos politiques (notamment nos [Règles de la Communauté Instagram](https://help.instagram.com/477434105621119?ref=igtos&helpref=faq_content)), si vous violez de manière répétée les droits de propriété intellectuelle d’autres personnes ou si la loi nous y oblige. Nous pouvons également modifier ou résilier le Service, supprimer ou bloquer du contenu ou des informations partagés sur notre Service ou cesser de fournir tout ou partie du Service si nous estimons que cela est raisonnablement nécessaire afin d’éviter ou d’atténuer des conséquences juridiques ou réglementaires qui nous seraient défavorables. Dans certains cas où nous supprimons du contenu, nous vous en informerons et vous expliquerons les options à votre disposition pour demander un réexamen. Vous ne pourrez pas faire cette demande si vous enfreignez gravement ou à maintes reprises les présentes Conditions ou si cela engage notre responsabilité juridique ou celle d’un tiers, porte atteinte à notre communauté d’utilisateurs, ou compromet ou altère l’intégrité ou le fonctionnement de nos services, systèmes ou produits, ou en cas de restrictions techniques ou lorsqu’il nous est interdit de le faire pour des raisons légales. Si vous estimez que votre compte a été supprimé par erreur ou si vous souhaitez désactiver ou supprimer votre compte de façon permanente, consultez nos [pages d’aide](https://help.instagram.com/). Lorsque vous demandez de supprimer du contenu ou votre compte, le processus de suppression commencera automatiquement dans les 30 jours après votre demande. La suppression de contenu peut prendre jusqu’à 90 jours après le début du processus de suppression. Lorsque le processus de suppression d’un tel contenu débute, le contenu n’est plus visible pour les autres utilisateurs, mais reste soumis aux présentes Conditions d’utilisation et à notre Politique d’utilisation des données. Après la suppression du contenu, sa suppression des systèmes de sauvegarde et de récupération en cas de sinistre peut prendre jusqu’à 90 jours supplémentaires.
 *   Le contenu ne sera pas supprimé dans les 90 jours de la suppression du compte ou du début du processus de suppression du contenu dans les situations suivantes :
@@ -124,7 +124,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
   
 
-**Our Agreement and What Happens if We Disagree**
+**Notre accord et ce qu’il se passe en cas de désaccord**
 
 **Notre accord.**
 
@@ -156,7 +156,7 @@ Nous apprécions toujours les commentaires et autres suggestions, mais nous pouv
 
   
 
-**Updating These Terms**
+**Mise à jour des présentes Conditions**
 
 Nous pouvons modifier notre Service et nos règlements, et il est possible que nous devions apporter des modifications aux présentes Conditions afin de les adapter parfaitement à notre Service et à nos règlements. Sauf disposition légale contraire, nous vous informerons (par l’intermédiaire de notre Service, par exemple) au moins 30 jours avant de modifier les présentes Conditions et vous donnerons l'opportunité de les examiner avant leur entrée en vigueur. Vous serez ensuite lié aux Conditions mises à jour si vous poursuivez votre utilisation du Service. Si vous ne souhaitez pas accepter les présentes Conditions ou leur mise à jour, vous pouvez supprimer votre compte [ici](https://help.instagram.com/370452623149242?ref=igtos&helpref=faq_content).  
 
