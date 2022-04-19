@@ -19,8 +19,8 @@ Les dispositions relatives aux témoins ou traceurs de connexion figurent dans l
 
 * * *
 
-2\. Quelles raisons justifie les traitements effectués par Xandrie sur vos données personnelles ?
--------------------------------------------------------------------------------------------------
+2\. Quelles raisons justifient les traitements effectués par Xandrie sur vos données personnelles ?
+---------------------------------------------------------------------------------------------------
 
 Conformément à la réglementation relative à la protection des données (Règlement général sur la protection des données n°2016/679 du 27 avril 2016 et loi n°78/17 du 6 janvier 1978 modifiée), Xandrie collecte vos données personnelles sur la base :
 
