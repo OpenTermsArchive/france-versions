@@ -317,7 +317,7 @@ Le retrait de la commande est possible aux jours et heures d'ouverture du magasi
 
   
 
-Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/magasins)
+Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/magasins)
 
   
 
@@ -417,7 +417,7 @@ Le retrait de la commande est possible aux jours et heures d'ouverture du magasi
 
   
 
-Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/magasins)
+Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/magasins)
 
   
 
@@ -533,7 +533,7 @@ Il appartient au Client de vérifier la conformité de la livraison par rapport 
 
   
 
-Tout colis présentant des anomalies apparentes (avarie, produit manquant par rapport au bon de commande, colis endommagé ou ouvert, produit défectueux...) au moment de sa livraison ou du retrait par le Client doit impérativement faire l'objet d'une réclamation adressée au service client dans un délai de 3 jours suivant la date de livraison ou du retrait via le [formulaire de contact](https://www.printemps.com/at/en/contact).
+Tout colis présentant des anomalies apparentes (avarie, produit manquant par rapport au bon de commande, colis endommagé ou ouvert, produit défectueux...) au moment de sa livraison ou du retrait par le Client doit impérativement faire l'objet d'une réclamation adressée au service client dans un délai de 3 jours suivant la date de livraison ou du retrait via le [formulaire de contact](https://www.printemps.com/fr/fr/contact).
 
   
 
@@ -621,7 +621,7 @@ Les e-cartes cadeaux ne peuvent bénéficier d'aucun code promotionnel lors de l
 
 **Comment acheter une e-carte cadeau ?**
 
-1\. Rendez-vous sur [www.printemps.com/fr/fr/carte-cadeau](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/carte-cadeau)
+1\. Rendez-vous sur [www.printemps.com/fr/fr/carte-cadeau](https://www.printemps.com/fr/fr/carte-cadeau)
 
 2\. Choisissez un modèle de carte cadeau
 
@@ -660,13 +660,13 @@ Le bénéficiaire de la e-carte cadeau recevra sa carte cadeau sous forme d'un c
 
   
 
-Utiliser une e-carte cadeau sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
+Utiliser une e-carte cadeau sur [www.printemps.com](https://www.printemps.com/)
 
   
 
 1\. Vous devez vous créer un compte et être connecté pour pouvoir utiliser votre e-carte cadeau.
 
-2\. Effectuez vos achats sur le Site [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com). Validez votre panier
+2\. Effectuez vos achats sur le Site [www.printemps.com](https://www.printemps.com/). Validez votre panier
 
 3\. Sur la page paiement pour utiliser votre e-carte cadeau, entrez votre code puis validez.
 
@@ -729,7 +729,7 @@ Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue d
 
 La procédure de retour des Produits est décrite aux paragraphes 9.1 et 9.2 ci-dessous.
 
-Pour plus d'informations sur les frais et modalités de retour, cliquez ICI ou consultez la page [Click & Collect, Livraisons et Retours](https://www.printemps.com/at/en/delivery-and-returns)
+Pour plus d'informations sur les frais et modalités de retour, cliquez ICI ou consultez la page [Click & Collect, Livraisons et Retours](https://www.printemps.com/fr/fr/click-and-collect)
 
   
 
