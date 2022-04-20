@@ -327,7 +327,7 @@ De même, XANDRIE se réserve le droit, sans préavis ni indemnité, d'arrêter 
 
 4. Conditions d’utilisation des offres d’abonnements QOBUZ
 
-Le Service de streaming QOBUZ sera accessible par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
+L'offre de téléchargement définitif d'enregistrements musicaux et le Service de streaming QOBUZ seront accessibles par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
 
 Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports (liste des applications mobiles disponibles à l’adresse suivante : [https://www.qobuz.com/fr-fr/applications](https://www.qobuz.com/fr-fr/applications)).
 
