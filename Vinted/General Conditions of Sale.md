@@ -1,9 +1,3 @@
-Mise à jour des Termes et Conditions
-
-Nos Termes et Conditions mis à jour sont entrés en vigueur le 6 avril 2022. Nous avons clarifié certaines dispositions et actualisé certaines de nos politiques afin de veiller à ce qu’elles restent transparentes.
-
-Si tu souhaites continuer à utiliser ton compte Vinted, merci de lire et d’accepter les Termes et Conditions mis à jour. Si tu les as déjà acceptés, tu n’as rien de plus à faire et tu peux continuer à utiliser Vinted.
-
 Termes et Conditions d'utilisation
 
 Conditions générales d’utilisation
