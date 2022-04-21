@@ -719,7 +719,7 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
 *   Notification de la décision de rétractation :
 
-Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du formulaire téléchargeable ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
+Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
 
   
 
@@ -729,7 +729,7 @@ Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue d
 
 La procédure de retour des Produits est décrite aux paragraphes 9.1 et 9.2 ci-dessous.
 
-Pour plus d'informations sur les frais et modalités de retour, cliquez ICI ou consultez la page [Click & Collect, Livraisons et Retours](https://www.printemps.com/fr/fr/click-and-collect)
+Pour plus d'informations sur les frais et modalités de retour, consultez la page [Click & Collect, Livraisons et Retours](https://www.printemps.com/fr/fr/click-and-collect)
 
   
 
