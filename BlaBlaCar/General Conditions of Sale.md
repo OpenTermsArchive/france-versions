@@ -1,7 +1,7 @@
 Conditions générales
 ====================
 
-[Conditions Générales](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Droits des Passagers Autocar](https://ec.europa.eu/transport/sites/transport/files/themes/passengers/road/doc/summary_fr.pdf) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport)
+[Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Droits des Passagers Autocar](https://ec.europa.eu/transport/sites/transport/files/themes/passengers/road/doc/summary_fr.pdf) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport)
 
 Version applicable à compter du 17 octobre 2021, sauf dans le cas où vous avez accepté ces conditions générales avant sur la plateforme.
 
