@@ -181,11 +181,11 @@ Les délais de livraisons indiqués ont comme référence la date de commande et
   
 9.1.France métropolitaine, Monaco et Corse  
 
-**Livraison en relais Relais Colis ou Mondial Relay**  
-Délai : 4 jours garantis pour Relais Colis ou Mondial Relay  
+**Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
+Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
 Coût de la livraison : gratuite  
   
-**Livraison à domicile standard ( Colissimo ou Colis Privé):**  
+**Livraison à domicile standard (Colissimo ou Colis Privé):**  
 Délai : 4 jours garantis  
 Coût de la livraison:
 
@@ -199,11 +199,11 @@ Coût de la livraison:
 
   
 
-**Livraison à domicile Express ( Chronopost ) :**  
+**Livraison à domicile Express (Chronopost ou Colis Privé Express) :**  
 livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour toute commande effectuée avant 13h  
 Coût de la livraison : 7€
 
-**Livraison en relais Express ( Chrono Relais ) :**  
+**Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
 Coût de la livraison : 3€
 
