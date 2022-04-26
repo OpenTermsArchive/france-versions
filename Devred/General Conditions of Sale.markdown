@@ -77,7 +77,7 @@ Le paiement de votre commande doit être effectué :
   
 Lors de la finalisation du processus de commande, vous êtes invité à saisir le numéro de carte bancaire, la date d'expiration de sa carte bancaire ainsi que les 3 derniers chiffres du cryptogramme visuel figurant au dos de la carte.  
   
-En cas d'utilisation frauduleuse de votre carte bancaire, vous êtes invité à contacter immédiatement le service client de DEVRED à l'adresse suivante, serv[\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection), ainsi que votre établissement bancaire.  
+En cas d'utilisation frauduleuse de votre carte bancaire, vous êtes invité à contacter immédiatement le service client de DEVRED à l'adresse suivante, [\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection), ainsi que votre établissement bancaire.  
   
 Conformément aux dispositions de la Loi du 13 mars 2000 sur la signature électronique, la transmission en ligne de votre numéro de carte et la validation finale de votre commande constituent des preuves de l'intégralité de la commande et de l'exigibilité des sommes dues en règlement de cette commande.  
   
