@@ -19,13 +19,13 @@ b) Les conditions générales relatives au transport des passagers seront régie
 
 ### 2 Partenaire contractuel
 
-Le partenaire contractuel pour la réservation des trajets (vendeur de titre de transport) et pour l’utilisation des portails web est la société Flix SE, Friedenheimer Brücke 16, 80639 München, ci-après dénommée FlixMobility.
+Le partenaire contractuel pour la réservation des trajets (vendeur de titre de transport) et pour l’utilisation des portails web est la société Flix SE, Friedenheimer Brücke 16, 80639 München, ci-après dénommée Flix.
 
 ### 3 Utilisation commerciale du portail Web
 
-**3.1** Des comparateurs de prix peuvent signer un contrat avec FlixMobility dans lequel FlixMobility autorise la réception, le traitement et la publication des prix et des horaires de bus de FlixMobility.
+**3.1** Des comparateurs de prix peuvent signer un contrat avec Flix dans lequel Flix autorise la réception, le traitement et la publication des prix et des horaires de bus de Flix.
 
-**3.2** Il est interdit d'utiliser les portails Web de FlixMobility à des fins non-privées ou commerciales. L'utilisation de systèmes automatiques d'extraction de données de ce site à des fins commerciales (« Capture d'écran ») est interdite. FlixMobility se réserve le droit de prendre des mesures en cas de violation de ces dispositions.
+**3.2** Il est interdit d'utiliser les portails Web de Flix à des fins non-privées ou commerciales. L'utilisation de systèmes automatiques d'extraction de données de ce site à des fins commerciales (« Capture d'écran ») est interdite. Flix se réserve le droit de prendre des mesures en cas de violation de ces dispositions.
 
 ### 4 Paiement et bons d'achat
 
@@ -54,21 +54,21 @@ Sont fongibles les obligations de somme d'argent, même en différentes devises,
 Les bons d'achat comportant une valeur monétaire, aussi appelés bons valeur, peuvent être utilisés pour la totalité du panier.  
 Les bons de remise comportant un pourcentage ou les bons pour un trajet gratuit peuvent être utilisés pour le montant du titre de transport seulement. Les services accessoires (par exemple, les frais de service, les suppléments pour le transport de vélos ou de bagages supplémentaires) ne peuvent faire l'objet d'une remise à l'aide des types de bons décrits ci-dessus.  
   
-**4.4.2** Lors des opérations promotionnelles menées par FlixMobility dans le cadre de ses activités marketing, l'utilisation des bons d'achat est limitée à 3 bons d'achat par personne. Si une personne utilise plus de 3 bons d'achat lors d'une même opération promotionnelle, FlixMobility peut annuler toutes les réservations au-delà des 3 premiers titres de transports. Cette règlementation peut être levée dans le cadre de promotions spéciales.  
+**4.4.2** Lors des opérations promotionnelles menées par Flix dans le cadre de ses activités marketing, l'utilisation des bons d'achat est limitée à 3 bons d'achat par personne. Si une personne utilise plus de 3 bons d'achat lors d'une même opération promotionnelle, Flix peut annuler toutes les réservations au-delà des 3 premiers titres de transports. Cette règlementation peut être levée dans le cadre de promotions spéciales.  
   
 **4.4.3** Les bons d'achat délivrés gratuitement dans le cadre d'activités marketing ou d'un geste commercial, expireront une fois la première réservation terminée.  
   
-**4.4.4** Tout usage commercial, notamment la revente des bons d'achat, est interdit et serra sanctionné par FlixMobility par le blocage des titres de transports et/ou l'exercice des droits à des dommages et intérêts.
+**4.4.4** Tout usage commercial, notamment la revente des bons d'achat, est interdit et serra sanctionné par Flix par le blocage des titres de transports et/ou l'exercice des droits à des dommages et intérêts.
 
 Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours pour faire valoir ses observations sur ce blocage auprès du service client de FlixBus.  
   
 **4.4.5** Un remboursement des bons d'achat en espèces est exclu.  
   
-**4.4.6** En cas de fraude, ou d’activités illégales liées à l'achat d'un bon cadeau, à l'échange d'un bon d'achat ou à la transmission d'un bon d'achat, FlixMobility se réserve le droit de fermer les comptes clients concernés et/ou d'exiger un autre moyen de paiement et/ou de bloquer les bons d'achat. Un droit à l'activation ou au remboursement des bons d'achat concernés ne peut être invoqué.
+**4.4.6** En cas de fraude, ou d’activités illégales liées à l'achat d'un bon cadeau, à l'échange d'un bon d'achat ou à la transmission d'un bon d'achat, Flix se réserve le droit de fermer les comptes clients concernés et/ou d'exiger un autre moyen de paiement et/ou de bloquer les bons d'achat. Un droit à l'activation ou au remboursement des bons d'achat concernés ne peut être invoqué.
 
 Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours pour faire valoir ses observations auprès du service client de FlixBus.  
   
-**4.4.7** En cas de fraude, ou d’activités illégales liées à l'achat d'un bon cadeau, à l'échange d'un bon d'achat ou à la transmission d'un bon d'achat, FlixMobility se réserve le droit d'annuler les titres de transport qui ont été payés entièrement ou en partie par l'échange d'un tel bon d'achat.  
+**4.4.7** En cas de fraude, ou d’activités illégales liées à l'achat d'un bon cadeau, à l'échange d'un bon d'achat ou à la transmission d'un bon d'achat, Flix se réserve le droit d'annuler les titres de transport qui ont été payés entièrement ou en partie par l'échange d'un tel bon d'achat.  
   
 **4.5** Utilisation de codes de bon d'achat Interflix  
   
@@ -82,7 +82,7 @@ Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours p
   
 **4.5.5** Les modifications de réservations peuvent être effectuées uniquement par le service client. Une annulation n'est pas possible.  
   
-**4.5.6** Tout usage commercial, notamment la revente des bons d'achat, est interdit et sera sanctionné par FlixMobility par le blocage des titres de transport et/ou l'exercice des droits à des dommages et intérêts.  
+**4.5.6** Tout usage commercial, notamment la revente des bons d'achat, est interdit et sera sanctionné par Flix par le blocage des titres de transport et/ou l'exercice des droits à des dommages et intérêts.  
   
 **4.5.7** Un remboursement des bons d'achat en valeur monétaire est exclu.  
   
@@ -90,11 +90,11 @@ Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours p
   
 **4.6** Campagnes de promotion  
   
-**4.6.1** Pour chaque campagne de promotion réalisée par FlixMobility dans le cadre d’activités commerciales, les offres de titre de transports à tarif réduit sont limitées à 3 titres de transports par personne. Si une personne achète plus de 3 titres de transports dans le cadre d’une même campagne, FlixMobility pourra annuler toutes les réservations effectuées après l’achat des 3 premiers titres de transports. Il pourra être dérogé à cette disposition dans le cadre de promotions spéciales.
+**4.6.1** Pour chaque campagne de promotion réalisée par Flix dans le cadre d’activités commerciales, les offres de titre de transports à tarif réduit sont limitées à 3 titres de transports par personne. Si une personne achète plus de 3 titres de transports dans le cadre d’une même campagne, Flix pourra annuler toutes les réservations effectuées après l’achat des 3 premiers titres de transports. Il pourra être dérogé à cette disposition dans le cadre de promotions spéciales.
 
 Dans ce cas, le remboursement des titres de transports achetés au-delà de ceux autorisés se fera dans les conditions prévues à l’article 5 des présentes.  
   
-**4.6.2** L’usage commercial, et notamment la revente des titres de transports, est interdit et sera sanctionné par FlixMobility au moyen d’un blocage des titres de transports.  
+**4.6.2** L’usage commercial, et notamment la revente des titres de transports, est interdit et sera sanctionné par Flix au moyen d’un blocage des titres de transports.  
   
 **4.7** Annulation de la commande  
   
@@ -122,9 +122,9 @@ En échange, le client recevra un avoir du montant du billet initial, réduit de
 
 Cet avoir, non remboursable, sera valable 12 mois et pourra être utilisé pour régler entièrement ou partiellement les prochains voyages du client.  
   
-**5.6** L'ensemble des [frais d’annulation](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) ou de modification n'est pas applicable lorsque le remboursement est demandé en raison de circonstances qui relèvent de la responsabilité de la société FlixMobility ou de ses filiales
+**5.6** L'ensemble des [frais d’annulation](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) ou de modification n'est pas applicable lorsque le remboursement est demandé en raison de circonstances qui relèvent de la responsabilité de la société Flix ou de ses filiales
 
-**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à FlixMobility ou FlixBus DACH, adresse postale Flix SE, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Karl-Liebknecht-Straße 33, 10178 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est Flix SE ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
+**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à Flix ou FlixBus DACH, adresse postale Flix SE, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Karl-Liebknecht-Straße 33, 10178 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est Flix SE ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
 
 **5.8** Les politiques d’annulation différentes dans les Conditions générales du transporteur ne s’appliquent pas.
 
