@@ -1490,3 +1490,9 @@ Nous vous informons que vous pouvez à tout moment modifier vos préférences d'
 **_Modification de notre de Politique de Protection des Données Personnelles_**
 
 Nous pouvons être amenés à modifier occasionnellement la présente politique de Protection des Données Personnelles, afin notamment de nous conformer à toutes évolutions réglementaires, jurisprudentielles, éditoriales ou techniques. Nous vous conseillons de consulter régulièrement cette page pour prendre connaissance d'éventuelles modifications ou mises à jour apportées à cette politique.
+
+  
+
+  
+
+[global](#) [homme](#) [femme](#)
