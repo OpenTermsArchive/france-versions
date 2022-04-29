@@ -616,12 +616,12 @@ Avant le voyage, vous devez présenter tous les documents d’entrée, de sortie
 
 Si l'entrée dans un pays vous est refusée en raison des conditions d’admission sur le territoire, vous serez tenu de payer les amendes imposées contre nous par le gouvernement ou l'autorité d'immigration concernés ainsi que les coûts de votre transport de ce pays à votre point d'origine ou ailleurs. Sauf pour ce qui est prévu à l’article 4.2.1, nous ne fournirons aucun remboursement pour des vols que vous ne seriez pas en mesure d'utiliser à la suite du refus de votre admission sur le territoire. Tous les frais engagés par nous pour votre compte seront recouvrés par déduction de la carte de crédit/débit utilisée pour effectuer la réservation.
 
-13.4 RESPONSABILITÉ DU PASSAGER POUR AMENDES, FRAIS DE DÉTENTION, ETC.
+13.4 Responsabilité des passagers en cas d’amendes, dettes, coûts, etc.
 
 
-========================================================================
+=========================================================================
 
-Si nous sommes tenus de payer une amende ou verser un acompte ou une pénalité, ou d’engager toute dépense en raison de votre incapacité à vous conformer aux lois, règlements, ordonnances, exigences et autres obligations de voyage dans les pays concernés, vous devez nous rembourser sur demande tout montant payé ou dépenses encourues. Nous pouvons utiliser pour couvrir ces paiements ou dépenses, la valeur de vols non utilisés, ou les fonds vous appartenant et qui sont en notre possession, comme les Chèques cadeaux, bons d’achat, etc. Tous les frais engagés par nous en votre nom seront perçus par déduction de la carte de crédit/débit utilisée pour effectuer la réservation. Nous nous réservons également le droit d’effectuer des débits sur la carte utilisée pour le paiement de votre réservation si une erreur administrative se produit.
+Si nous devons payer une amende, une pénalité ou un autre montant en raison de votre non-respect des lois, réglementations, ordonnances, demandes ou autres exigences d’un pays, ou s’il y a un ou plusieurs paiement(s) en souffrance qui nous sont dus concernant un vol précédent ou (services liés au vol) en raison d’un paiement qui a été déshonoré, refusé ou refacturé contre nous, vous devrez nous rembourser lorsque nous vous le demandons. Nous pouvons utiliser tout montant que vous nous avez payé pour des vols que vous n’avez pas utilisés ou des vols à venir, ou la valeur de tout bon cadeau, bon de crédit, etc. que nous détenons pour vous, pour rembourser tout montant que vous nous devez.  Nous pouvons également facturer tous les montants que vous nous devez, y compris ceux découlant d’erreurs administratives, sur la carte de crédit ou de débit que vous avez utilisée pour effectuer la réservation.
 
 13.5 CONTRÔLES DOUANIERS
 
