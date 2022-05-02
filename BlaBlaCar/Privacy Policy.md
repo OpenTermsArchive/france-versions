@@ -1,7 +1,7 @@
 Politique de confidentialité
 ============================
 
-[Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | Politique de Confidentialité | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy)
+[Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | Politique de Confidentialité | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
 Version applicable à compter du 17 octobre 2021, sauf dans le cas où vous avez accepté cette politique de confidentialité avant sur la plateforme.
 
