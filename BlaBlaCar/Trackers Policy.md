@@ -1,7 +1,7 @@
 Politique en matière de cookies
 ===============================
 
-[Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | Politique en matière de cookies
+[Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | Politique en matière de cookies | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
 Comuto SA (« BlaBlaCar », « nous », « notre » ou « nos ») utilise des cookies et des technologies de traçage similaires sur notre site Internet et nos applications mobiles (désignées individuellement « plateforme » ou conjointement « plateformes »). Dans le présent règlement (la « Politique en matière de cookies »), nous vous fournissons davantage d’informations concernant ces technologies et les choix qui vous sont offerts.
 
