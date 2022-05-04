@@ -254,6 +254,11 @@ Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire su
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
 
+**OPERATION SPECIALE – PAIEMENT EN 3 FOIS OU 4 FOIS SANS FRAIS AVEC COFIDIS**
+
+Financement d’une durée inférieure ou égale à 3 mois consenti sous réserve d’acceptation par COFIDIS, SA à Directoire et Conseil de surveillance au capital de 67 500 000€. Siège social : Parc de la Haute Borne, 61 avenue Halley 59866 VILLENEUVE D’ASCQ Cedex - R.C.S LILLE METROPOLE SIREN N°325 307 106 enregistré auprès de l’ORIAS sous le numéro 07 02 34 93. Vous bénéficiez d’un délai légal de rétractation au titre de la vente à distance.  
+  
+
 **• 5x 10x 20x Cofidis Pay**
 
 Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. Payez au comptant, en petites mensualités, en 5, 10 ou 20 fois à crédit grâce à 5x 10x 20x.
@@ -1130,6 +1135,11 @@ A NOTER : Si votre bon d’achat est sécable et que le montant de votre achat 
 Solution de paiement dans un délai de 3 mois maximum avec apport obligatoire suivi de 3 mensualités et assortie de frais négligeables. Le 3x CB est valable pour toute commande de 60 € à 1500 € par carte bancaire et le 4x CB est valable pour toute commande de 60 € à 3000 € réglée par carte bancaire (exceptées cartes bancaires à autorisations systématiques, corporate, temporaires, étrangères et spécifiques) et effectuée sur « rueducommerce.com » (hors cosmétiques, articles de mode et consommables). Le coût du financement est de 2,3 % du montant total de votre commande, hors opérations spécifiques sans intérêts. Offre réservée aux particuliers majeurs, sous réserve d’acceptation par Cofidis. Délai de rétractation de 14 jours. Rue du commerce, N° SIREN 422797720 et N° ORIAS 12069017, agit en qualité d’intermédiaire en opérations de banque de Cofidis. COFIDIS, S.A. au capital de 67 500 000€, dont le siège social est situé au Parc de la Haute Borne, 61 av. Halley - 59650 VILLENEUVE D'ASCQ Cedex - RCS LILLE n°325 307 106. N°ORIAS 07 023 493 ([www.orias.fr](https://www.orias.fr/)).  
   
 [En savoir plus >](https://www.rueducommerce.fr/info/services/paiement-en-plusieurs-fois "Paiement en plusieurs fois")
+
+**OPERATION SPECIALE – PAIEMENT EN 3 FOIS OU 4 FOIS SANS FRAIS AVEC COFIDIS**
+
+Financement d’une durée inférieure ou égale à 3 mois consenti sous réserve d’acceptation par COFIDIS, SA à Directoire et Conseil de surveillance au capital de 67 500 000€. Siège social : Parc de la Haute Borne, 61 avenue Halley 59866 VILLENEUVE D’ASCQ Cedex - R.C.S LILLE METROPOLE SIREN N°325 307 106 enregistré auprès de l’ORIAS sous le numéro 07 02 34 93. Vous bénéficiez d’un délai légal de rétractation au titre de la vente à distance.  
+  
 
 **• 5x 10x 20x Cofidis Pay**
 
