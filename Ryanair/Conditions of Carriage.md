@@ -1498,11 +1498,11 @@ Sieges avec plus d’espace pour les jambes
 
 Rangée 1, 2 (D,E,F) & 16-17
 
-€/£14 - €/£28
+€/£14 - €/£30
 
 (par vol)
 
-€/£14 - €/£28
+€/£14 - €/£30
 
 (par vol)
 
@@ -1512,11 +1512,11 @@ Sièges à l’avant
 
 Rangée 2 (A,B,C) - 5
 
-€ / £ 7 - € / £ 17
+€ / £ 7 - € / £ 19
 
 (par vol)
 
-€ / £ 7 - € / £ 17
+€ / £ 7 - € / £ 19
 
 (par vol)
 
@@ -1526,11 +1526,11 @@ Sièges standard
 
 Rangée 6-15 & 18-33
 
-€ / £ 3 - € / £ 13
+€ / £ 3 - € / £ 15
 
 (par vol)
 
-€ / £ 3 - € / £ 13
+€ / £ 3 - € / £ 15
 
 (par vol)
 
