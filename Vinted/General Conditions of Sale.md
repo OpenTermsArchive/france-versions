@@ -1,4 +1,5 @@
 Termes et Conditions d'utilisation
+==================================
 
 Conditions générales d’utilisation
 ----------------------------------
