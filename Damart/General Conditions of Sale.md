@@ -125,7 +125,7 @@ Afin de vous apporter le service le plus fiable et le plus sécurisé, nous avon
   
 Vous êtes redirigé vers une page sécurisée par la SOCIETE GENERALE et les données que vous saisissez sont cryptées (cryptage SSL) pour circuler en toute sécurité et confidentialité. Aucune donnée de paiement n'est stockée sur notre site. Votre demande de paiement est envoyée en temps réel sur le système de paiement sécurisé SOGENACTIF, la banque s'assure que votre carte bancaire est valide (pas d'erreur de saisie, pas d'opposition) et vous confirme l'enregistrement de votre règlement en délivrant un certificat électronique avec le numéro de transaction ou vous informe que la transaction est refusée.  
   
-Votre compte est débité du montant des produits et des frais de livraison (selon le mode choisi) le jour de l'expédition de vos articles. En cas d'article retardé, seuls les articles expédiés sont débités de votre compte.  
+Votre compte est débité dès la mise en préparation de votre commande, d'un montant correspondant aux articles disponibles et aux frais de livraison (selon le mode choisi).  
   
 A l'issue de toutes ces étapes et si vous avez opté pour le paiement en ligne, votre commande est enregistrée.  
   
@@ -137,8 +137,6 @@ sur votre compte PayPal pour vous identifier et valider le paiement.
   
 La validation définitive de la commande intervient après validation du paiement.  
   
-Votre compte est débité du montant des produits et des frais de livraison (selon le mode choisi) le jour, et pour le montant de votre commande.  
-A l'issue de toutes ces étapes et si vous avez opté pour le paiement en ligne, votre commande est enregistrée.  
   
 2\. Paiement par courrier ou téléphone :  
 chèque, carte bancaire  
