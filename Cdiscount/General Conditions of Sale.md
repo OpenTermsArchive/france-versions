@@ -817,7 +817,7 @@ Dès lors que le consommateur fait le choix de la réparation mais que celle-ci 
 
 **Article L217-28 du Code de la Consommation** Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.  
   
-Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
+Cette période court ê compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
   
 Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable.
 
@@ -1785,7 +1785,7 @@ Le bon d’achat est valable un (1) an à compter de sa date d’émission et ut
 4.1. Livraison garantie le jour J  
   
   
-Pour toute commande dêun ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos précommandés, et ce, quel que soit le montant de votre commande.  
+Pour toute commande d’un ou plusieurs Produits Jeux Vidéos en précommande pour laquelle vous avez sélectionné un mode de livraison à domicile Express, Cdiscount vous garantit une livraison chez vous le jour de la sortie officielle nationale du ou des Produits Jeux Vidéos précommandés, et ce, quel que soit le montant de votre commande.  
   
 4.2. Livraison offerte dès vingt-cinq euros (25 €)  
   
