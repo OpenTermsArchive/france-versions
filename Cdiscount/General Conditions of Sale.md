@@ -258,7 +258,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i2.cdscdn.com/resources/InterestRateConfiguration/4f.pdf?rnd=790653C4).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles [en cliquant ici](https://i1.cdscdn.com/odr/ImagesOK/CommercialOffer/conditions_74150202204010857229655.pdf).
 
  
 
@@ -817,7 +817,7 @@ Dès lors que le consommateur fait le choix de la réparation mais que celle-ci 
 
 **Article L217-28 du Code de la Consommation** Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.  
   
-Cette période court ê compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
+Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
   
 Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable.
 
