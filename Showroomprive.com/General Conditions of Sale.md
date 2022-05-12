@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 -----------------------------
 
-Date : 23/03/2022
+Date : 12/05/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -63,7 +63,11 @@ Il est également précisé que nos ventes évènementielles ne sont proposées 
 
 Vous êtes responsable du maintien de la confidentialité de votre compte et de votre mot de passe, des restrictions d'accès à votre ordinateur ou autres équipements. A ce titre, vous reconnaissez être responsable de toutes les activités émanant de votre compte.
 
-Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de création et/ou d'utilisation de compte multiple, nous nous réservons le droit de clôturer les comptes frauduleux et d'annuler vos commandes en cours.
+Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de création et/ou d'utilisation de compte multiple, nous nous réservons le droit de suspendre et/ou clôturer les comptes frauduleux et d'annuler vos commandes en cours. . Par ailleurs, nous nous réservons également ce droit en cas d'utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage, à savoir :
+
+· L'appel au parrainage massif lancé notamment à partir de forums ainsi que ;
+
+· L'activité d'auto-parrainage qui se matérialiserait par l'abonnement au Site, sous une adresse email différence de celle sous laquelle le Membre est déjà inscrit, afin de procéder à un parrainage fictif et d'en retirer les avantages.
 
 **Article 3 - Comment commander sur notre site ?**
 
@@ -98,7 +102,7 @@ Pour une livraison à destination d'un Etat membre de l'Union Européenne, la Ta
 
 5.1 Modes de paiement
 
-Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney ou Klarna. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
+Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney, Klarna ou Clearpay. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
 
@@ -161,6 +165,20 @@ Nous vous précisons que, aux termes des conditions générales de Klarna :
 · Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France métropolitaine et titulaires d'une carte bancaire de débit ou de crédit valide et ne possédant pas une date d'expiration proche. . Les e-cards et les cartes American Express ne sont pas acceptées. Klarna se réserve toutefois le droit de refuser votre moyen de paiement et/ou de modifier les cartes bancaires autorisées. En cas de refus de votre moyen de paiement, vous serez averti par Klarna avant la fin de votre achat.
 
 · Vous disposez d'un délai de rétractation de 14 jours pour renoncer, auprès de notre partenaire, à votre solution de financement Klarna.
+
+Paiement avec CLEARPAY
+
+La solution de financement proposée par notre partenaire Clearpay est un paiement en 3 fois sans frais. Le mode de paiement Clearpay vous permet d'acheter sans frais des produits de 4€ à 250€ (frais de port inclus) en 3 versements (d'un montant égal et prélevés tous les mois). Il suffit de choisir Clearpay comme mode de paiement au moment du paiement et de remplir un court formulaire pour accéder à votre compte Clearpay ou en créer un. Une fois le paiement confirmé, seul le premier versement vous sera facturé : de cette façon, votre commande passera directement à la phase de traitement et d'expédition.
+
+Pendant ce temps, Clearpay divisera le montant restant en 2 autres versements qui seront automatiquement prélevés sur votre compte tous les mois. Clearpay n'entraîne aucun coût supplémentaire si les paiements échelonnés sont effectués dans les délais, c'est-à-dire à la date d'échéance. Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles**[ici](https://www.clearpay.com/fr-FR/terms)** **,** et dont l'acceptation sera nécessaire à toute souscription.
+
+Nous vous précisons que, aux termes des conditions générales de Clearpay :
+
+· Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France, possédant une carte de crédit ou de débit Visa ou Mastercard Européenne et disposant d'un numéro de téléphone portable français.
+
+· En cas de refus de votre moyen de paiement, vous serez averti par Clearpay avant la fin de votre achat.
+
+· Les produits marketplace et l'abonnement infinity ne peuvent pas être payés via Clearpay
 
 5.2 Paiement sécurisé
 
