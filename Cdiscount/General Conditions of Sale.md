@@ -298,7 +298,7 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 
 CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de paiements ci-dessus, pour tout motif légitime, notamment dans l’hypothèse où :  
 \- le partenaire de paiement ne propose plus le service considéré ;  
-\- l'une de vos précédentes commandes n'aurait pas été intégralement payêe à l'échéance ou un litige relatif au paiement d'une de vos précédentes serait en cours de traitement ;  
+\- l'une de vos précédentes commandes n'aurait pas été intégralement payée à l'échéance ou un litige relatif au paiement d'une de vos précédentes serait en cours de traitement ;  
 \- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.
 
   
