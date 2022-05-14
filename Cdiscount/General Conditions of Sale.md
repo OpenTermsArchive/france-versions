@@ -298,7 +298,7 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 
 CDISCOUNT se réserve le droit de ne pas proposer un ou plusieurs des modes de paiements ci-dessus, pour tout motif légitime, notamment dans l’hypothèse où :  
 \- le partenaire de paiement ne propose plus le service considéré ;  
-\- l'une de vos précédentes commandes n'aurait pas été intégralement payée à l'échéance ou un litige relatif au paiement d'une de vos précédentes serait en cours de traitement ;  
+\- l'une de vos précédentes commandes n'aurait pas été intégralement payêe à l'échéance ou un litige relatif au paiement d'une de vos précédentes serait en cours de traitement ;  
 \- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.
 
   
@@ -1898,7 +1898,7 @@ Nonobstant la clause de réserve de propriété, et à compter du transfert des 
   
 5.3.1   Aucun retard de livraison n’autorise le Client Pro à annuler, totalement ou partiellement, sa commande ou à refuser la livraison des Produits, sans que Cdiscount n’ait été en mesure de constater effectivement et préalablement, la réalité du grief qui lui est reproché par le Client Pro. En tout état de cause, le retour des Produits ne peut intervenir qu’à condition d’avoir fait l’objet de l’accord exprès et préalable de Cdiscount, dans le respect des stipulations de l’article 7.  
    
-5.3.2. Aucune pénalité, de quelque nature que ce soit, ne peut être appliquée par le Client Pro ê Cdiscount lorsque le manquement allégué par le Client Pro est dû à une circonstance extérieure à la volonté de Cdiscount et/ou, même partiellement, à la faute ou à la négligence du Client Pro.  
+5.3.2. Aucune pénalité, de quelque nature que ce soit, ne peut être appliquée par le Client Pro à Cdiscount lorsque le manquement allégué par le Client Pro est dû à une circonstance extérieure à la volonté de Cdiscount et/ou, même partiellement, à la faute ou à la négligence du Client Pro.  
    
 5.3.3. Dans les autres cas, l’application de pénalités suppose que Cdiscount ait été en mesure de contrôler la réalité des griefs qui lui sont reprochés par le Client Pro. En conséquence, aucune pénalité ne saurait être appliquée de manière unilatérale et non contradictoire par le Client Pro. Toute compensation avec une somme due par le Client Pro à Cdiscount suppose, en outre, que Cdiscount ait expressément reconnu, par écrit et préalablement, la réalité du grief justifiant l’application des pénalités.  
    
