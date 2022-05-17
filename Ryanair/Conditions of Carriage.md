@@ -876,16 +876,19 @@ Chaque passager a la responsabilité d’être en possession d’un document de 
 **VOL INTERNATIONAL - DOCUMENTS DE VOYAGE ACCEPTÉS :**
 
 *   Passeport en cours de validité.
-*   Carte nationale d’identité en cours de validité délivrée par le gouvernement d’un pays de l’Espace économique européen (EEE). (seuls les pays de l’Espace économique européen (EEE) suivants délivrent des Cartes nationales d’identité acceptées pour le transport sur nos vols: Autriche, Belgique, Bulgarie, Croatie, Chypre, République tchèque, Estonie, Finlande, France\*, Allemagne, Gibraltar, Grèce, Hongrie, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Malte, Pologne, Portugal, Roumanie, Slovaquie, Slovénie, Espagne, Suède, Suisse. \*La validité des cartes nationales d’identité françaises (délivrées aux adultes) a été étendue de 10 à 15 ans UNIQUEMENT pour les cartes délivrées entre le 2 janvier 2004 et le 31 décembre 2013.
-*   Les titulaires du passeport britannique voyageant dans un pays membre de l’espace Schengen (sauf l’Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport :
+*   Carte nationale d’identité en cours de validité délivrée par le gouvernement d’un pays de l’Espace économique européen (EEE). (seuls les pays de l’Espace économique européen (EEE) suivants délivrent des Cartes nationales d’identité acceptées pour le transport sur nos vols: Autriche, Belgique, Bulgarie, Croatie, Chypre, République tchèque, Estonie, Finlande, France\*, Allemagne, Gibraltar, Grèce, Hongrie, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Malte, Pologne, Portugal, Roumanie, Slovaquie, Slovénie, Espagne, Suède, Suisse. \*La validité des cartes nationales d’identité françaises (délivrées aux adultes) a été étendue de 10 à 15 ans UNIQUEMENT pour les cartes délivrées entre le 2 janvier 2004 et le 31 décembre 2013.  
+      
+    
+*   Tous les titulaires d’un passeport non européen qui se rendent dans un pays membre de l’espace Schengen doivent s’assurer que leur passeport est valable au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne dispose d’un permis de séjour ou d’un visa de long séjour délivré par un pays membre de l’espace Schengen.  
+      
+    Les titulaires d’un passeport britannique voyageant dans un pays membre de l’espace Schengen (hors Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport:
+*   _est valable au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne dispose d’un permis de séjour ou d’un visa de long séjour délivré par un pays membre de l’espace Schengen._ 
+*   _doit être émis dans les 10 années précédant la date d’arrivée.  
+    _
 
-· est valable pendant au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne a un permis de résidence émis par un pays membre de l’espace Schengen ou un visa long séjour.
+            Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique en cliquant sur le lien ci-dessous:
 
-· le passeport Britannique ne doit pas avoir plus de 10 ans.  
-  
-
-           **Pour plus d'informations, veuillez visiter le site officiel du gouvernement britannique via le lien ci-dessous:  
- _https://www.gov.uk/guidance/passport-rules-for-travel-to-europe_**
+ **_https://www.gov.uk/guidance/passport-rules-for-travel-to-europe_**
 
 _**À partir du 1er octobre 2021, les ressortissants de l’EEE/UE ou de la Suisse voyageant vers le Royaume-Uni doivent être en possession d’un passeport valide, car les cartes d’identité nationales émises par l’EEE/UE et la Suisse ne sont plus acceptables pour entrer au Royaume-Uni (sauf si vous possédez un statut de résident du Royaume-Uni).**_
 
