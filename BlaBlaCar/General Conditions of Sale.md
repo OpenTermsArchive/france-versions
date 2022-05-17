@@ -486,7 +486,7 @@ BlaBlaCar et/ou TotalEnergies Marketing France se réservent la possibilité à 
 
 ### 17.2. Conditions pour bénéficier de l’opération
 
-L’opération est valable jusqu’au 31 décembre 2021. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
+L’opération est valable jusqu’au 31 décembre 2025. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
 *   (i) vous résidez en France ;
 *   (ii) vous être inscrit sur le site www.blablacar.fr ;
@@ -497,7 +497,7 @@ L’opération est valable jusqu’au 31 décembre 2021. Vous ne pouvez bénéfi
 *   (vii) vous avez reçu, sur votre compte bancaire, le paiement la Participation aux Frais ; et
 *   (viii) vous n’avez reçu aucune carte carburant ou carte lavage par l’intermédiaire de la Plateforme précédemment.
 
-L’ensemble de ces conditions doivent être remplies dans un délai de 10 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2021. Passé ce délai, vous perdez tout droit à prétendre à la carte carburant ou à la carte lavage.
+L’ensemble de ces conditions doivent être remplies dans un délai de 10 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la carte carburant ou à la carte lavage.
 
 ### 17.3. Contrôle du respect des conditions de l’opération
 
