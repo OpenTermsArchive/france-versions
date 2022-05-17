@@ -234,7 +234,7 @@ Les Conditions Générales de Vente ont été mises à jour le 02/04/2021.
 
 En cas de litige, une solution amiable sera recherchée avant toute action judiciaire. A défaut, toute action judiciaire sera portée devant les tribunaux compétents du domicile du défendeur ou du lieu de livraison ou du ressort du siège social de la société DEVRED.  
   
-Pour toute réclamation relative à votre commande, merci de nous contacter par téléphone au 09 73 32 19 02 du lundi au samedi 09h/20h (service gratuit + prix appel).  
+Pour toute réclamation relative à votre commande, merci de nous contacter par téléphone au 09 73 32 19 02 du lundi au samedi 8h30 à 20h (service gratuit + prix appel).  
   
 Conformément aux dispositions de l’article L 616-1 du Code de la Consommation concernant le règlement amiable des litiges, DEVRED adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la Vente à distance) dont les coordonnées sont les suivantes : 60 rue la Boétie – 75008 Paris – [http://www.mediateurfevad.fr](https://www.mediateurfevad.fr/) . Après démarche préalable écrite des consommateurs vis-à-vis de DEVRED, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaitre les modalités de saisine du Médiateur, [cliquez ici](https://www.mediateurfevad.fr/index.php/espace-consommateur/).  
   
