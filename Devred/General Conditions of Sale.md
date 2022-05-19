@@ -69,15 +69,15 @@ Toute confirmation de commande vaut irrévocablement acceptation des prix et des
   
 Le paiement de votre commande doit être effectué :  
 
-*   par carte bancaire ou carte de crédit, les cartes acceptées sont la Carte Bleue, Visa, Mastercard, American Express  ![Paiement par carte bancaire (visa, mastercard, american express, carte bleue)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-*   par paypal  ![Paiement carte bancaire avec Paypal](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD//gAfQ29tcHJlc3NlZCBieSBqcGVnLXJlY29tcHJlc3P/2wCEAAICAgICAgICAgIDAwIDAwQDAwMDBAYEBAQEBAYJBQYFBQYFCQgJBwcHCQgOCwkJCw4QDQwNEBMRERMYFxgfHyoBAgICAgICAgICAgMDAgMDBAMDAwMEBgQEBAQEBgkFBgUFBgUJCAkHBwcJCA4LCQkLDhANDA0QExERExgXGB8fKv/AABEIAB4AIgMBIgACEQEDEQH/xAB/AAAABwEBAAAAAAAAAAAAAAAABQYHCAkKAwQQAAEEAQIEAwkBAAAAAAAAAAMBAgQFBgAHCBESIhMUUgkhNEFRVHOSsjEBAQEBAQAAAAAAAAAAAAAAAAUGAwcRAAICAQMEAQUBAAAAAAAAAAECAwQFABESBhMhQTEHFSNRgVL/2gAMAwEAAhEDEQA/AL/PKRfthfomoV8b/Ebd8Mm2+MZPh9BSWGRXORjqhguBEfHZFaAsgxUaB43K5FY1upqapP8Aay2x7/NtgNsYZ/CIUVlPei93J88wogiuRPQgn6quisZDl+psZSswiWszO8sZ+GVELbHb9nQ3UF77dh71zu9vtpy5/wCRv5P8GiDZn2qGb5Jubh2K7h4Fhy4xeXMKnLIpWHiS4j5xWx2H6pRTDexjnc3M1ef5SL9sL9E1m32K4C8wv76kyisHNua0UxUhWEoA4NSAol6Fklc5znGUPyY3Wjuqr0qqusqWGIUcKICIwpV5vegGINHvX1Ly5rp/6iYnC4uxQXGirDbPdSzUrP3OHDbZn2ZuLEkjbU10R1NN1GLskUNuXFJHDJXyNmFoEneTfdIlkVSyqACW+POkxOABZsxVANVU5FVVYnq0NdZvxkv8xP60Nc21faT+6+69HtFR1F3d102etnbhpIEOA+IAhZRhEkdxbE0YA2NYFyq5700weUP4S+IUNPkWTT8ZBnkvH6+TAl2rokfJ6SJM6JMdjhnV7o5GOlJ2r/ik1IfKsZwnN5mKzMqp3WK49ZFta2PIRpIqSixiwvEKF3YVWjM7o6kXpd3J79NJk3D9t1eQ88HWSbmssMprsgqzn80SWCvFlZwyrctdFMRRAPJIFHoTl2P96afxdvH1DWlWxcq5BH5G1Adgp5eBt7AAB0ZfqPdhtVZoYZ6c0bRPBJ8MjLsw/uvdh+Y7Z7SV+M7VY1InXFZEkvgktYxYklgZcixLDMySqEG5zxSWvYZBsXwelevTt1+5OH3V1TU2P2obd09Ji+YrCDkRoywhsK5JD2O7FehW9CclVeeknV7abYU9Wakg405Kp+Nx8TaEhHlUNVGEQCAE971exXoZ/iPRep6rzcvPRtjuJ4fjNuW/giszXRRkGaZNlvkkL4rQjc56lcvd0RhtT6InLWl21g7hsWZDde/IJHaWQr+aeQbl3APjZj60LSpdQ0DWp1Rj48RFJHFFCgblXqQtxWNPHklB79nR7N+Ml/mJ/WhousLMA584asJzbIK1eSJ8nKn10NTmq3X/2Q==)
+*   par carte bancaire ou carte de crédit, les cartes acceptées sont la Carte Bleue, Visa, Mastercard, American Express 
+*   par paypal  
 *   Par carte cadeau Devred (saisir le code de la carte + le code de sécurité à gratter)
-*   En 3x sans frais à partir de 100 € avec  [![Paiement en 3x sans frais par carte bancaire](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAABUCAMAAAA7+WxqAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABaUExURUxpcd3d3QQnNv///9/f397e3t3d3d/f39/f39vd3t/f3/9BTf+IkP9YY+Dk5mJ4gfHy8iZEUUVfaoGTmv7+/rrEyKCus5Ggp+Pj46GutBQ0Q3GFjv+iqP/Dx5u8G0cAAAAKdFJOUwCP//9bMJD+1PTkx1LyAAACoUlEQVRo3u2b4bKbIBCFU4iJcFuyIoia9v1fsyJIVi+3483gDHY4vzTZOfnCsivJwOWyqLrVjGcjVt+qy1bXmmen+rpCrCwigKLZSAH0EyYazSvjPdDsNGGyMJjXaRQVzVAK+N1TVowDzVMTJXMZr7NltCnntUt2r7JlVKqfE571QPqhrHhPsxa/V5db3gNph/JH7tl2+WZc5Q2pOLtwTmnuk7JAFsgCWSAjEsSqK5AFskAWyALpmYZ2kmZRSGE1rZ+ZsTE+QE83RsdcBnYI5NAQr6aLQM7vdkKikHbcxFtsGVxMesgHQWogDtmGL0Ja8bomC49au4jEkE+ykoxDjigEXxMddWnSQg5kIx2F/FLuS+nty11SSDeTnhpAP16fGoFsjNYhp3LQyxy080O568fGJRUkOHcEPMYhJc7qHO/JbJBCLn52poQUDyvfNUyw/wwp0Fz1NzqUDswufnp2KCRpM4e5Gf4DcqkEnEsX1MZdEkNCK1f1GoWUGNLPDoUhty7iyBb0JqQZNy5JIVuSAvKzS0pIQVJARlxSQrohkFqI0NjfgOywS/rqlrh023chn9jFHAMpV0+fF6TZCen6tw/xPT4l5Gw/Aq6hF2QzrzD3jqR3MennpAnPZSNR4VDyev7tgIy4pISEeHX7zO+FhPHQ6l718mYMkPpbkEuOkctRT5zGLblxpe+FRN28Yc0Bz279sK6jNECfdjETflZNd7YJzS8uy4h5udMtPxnQ2mfrAmkhy/+TBbJAFsgCeXLIX8fpdzLIj+NUIAvk/wv58zj9Kc28QBbIoyBPsQ3sFBvqTrE1scp9Uvb36hzbZfPeeEz9xuOsh1L5Ldw5b4anYTP8KY4VnOOAhjvq0ud01EUpAL4+6nKOQ0PZHb+6r45f/QUo2+cJdHSpjgAAAABJRU5ErkJggg==)](https://getalma.eu/customers)
+*   En 3x sans frais à partir de 100 € avec  [](https://getalma.eu/customers)
 
   
 Lors de la finalisation du processus de commande, vous êtes invité à saisir le numéro de carte bancaire, la date d'expiration de sa carte bancaire ainsi que les 3 derniers chiffres du cryptogramme visuel figurant au dos de la carte.  
   
-En cas d'utilisation frauduleuse de votre carte bancaire, vous êtes invité à contacter immédiatement le service client de DEVRED à l'adresse suivante, [\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection), ainsi que votre établissement bancaire.  
+En cas d'utilisation frauduleuse de votre carte bancaire, vous êtes invité à contacter immédiatement le service client de DEVRED à l'adresse suivante, serviceclient@devred.fr, ainsi que votre établissement bancaire.  
   
 Conformément aux dispositions de la Loi du 13 mars 2000 sur la signature électronique, la transmission en ligne de votre numéro de carte et la validation finale de votre commande constituent des preuves de l'intégralité de la commande et de l'exigibilité des sommes dues en règlement de cette commande.  
   
@@ -101,7 +101,7 @@ Les délais de livraison sont de 2 à 4 jours ouvrés. Les produits sont livrés
   
 Au moment de la livraison, Devred 1902 invite le client à procéder à tout examen nécessaire pour déceler les éventuels manquants, défauts ou autres vices apparents ou non-conformité des produits livrés à sa commande. Le client doit notamment vérifier l’état des emballages, le nombre de colis et les produits dans leurs quantités, leurs références et leurs caractéristiques. Il est vivement conseillé au client de notifier au transporteur toute réserve sur l’emballage et, le cas échéant, l’état des produits (exemple : colis ouvert et/ou endommagé).  
   
-Les observations sur le bon de transport, ou les éventuels manquants doivent être signalés par mail à notre service client à l’adresse suivante : [\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection#removed), dans un délai de 14 jours après la livraison.
+Les observations sur le bon de transport, ou les éventuels manquants doivent être signalés par mail à notre service client à l’adresse suivante : [serviceclient@devred.fr](mailto:serviceclient@devred.fr), dans un délai de 14 jours après la livraison.
 
 #### 8\. Votre droit de rétractation
 
@@ -115,7 +115,7 @@ Les articles personnalisés ne peuvent disposer du droit de rétractation.
   
 Formulaire à renvoyer au plus tard 30 jours après la réception de notre commande. Si ce délai expire un samedi ou un dimanche, il sera prorogé jusqu’au premier jour ouvrable suivant.  
   
-Cette rétractation, sans frais, n’est valable que si elle est adressée par courier postale avant l’expiration des délais ci-dessus, lisiblement et parfaitement remplie à l’adresse suivante : DEVRED/LOGVAD - 5 rue DUREMONT– 59960 Neuville en Ferrain ou par courrier électronique à l'adresse suivante : [\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection)  
+Cette rétractation, sans frais, n’est valable que si elle est adressée par courier postale avant l’expiration des délais ci-dessus, lisiblement et parfaitement remplie à l’adresse suivante : DEVRED/LOGVAD - 5 rue DUREMONT– 59960 Neuville en Ferrain ou par courrier électronique à l'adresse suivante : serviceclient@devred.fr  
   
 Le bordereau de retracation est à télécharger en cliquant sur ce lien > [Modèle de bon de rétractation](https://assets.devred.com/media/wysiwyg/pdf/bordereau-retractation-20201007.pdf)
 
@@ -154,7 +154,7 @@ Le traitement des informations du Client est fait en conformité avec la Loi "In
   
 Le Client dispose d'un droit d'accès, de modification, de rectification, du droit d’introduire une réclamation auprès d’une autorité de contrôle, du droit à la limitation du traitement, du droit à l’effacement des données ainsi que du droit à la portabilité des données à caractère personnel le concernant dans son espace personnel "Mon Compte", en contactant DEVRED :  
   
-\- à l’aide du formulaire de contact disponible sur le Site, ou par voie électronique à l'adresse : [\[email protected\]](https://www.devred.com/cdn-cgi/l/email-protection),  
+\- à l’aide du formulaire de contact disponible sur le Site, ou par voie électronique à l'adresse : serviceclient@devred.fr,  
 \- ou encore par courrier à l'adresse suivante : SAS DEVRED - Service client - Pôle Jules Verne - 13 rue du Capitaine Némo 80440 GLISY  
   
 La portabilité des données se limite toutefois à celles transmises volontairement par le client, en remplissant un formulaire par exemple, ou celles générées, du fait de son activité, comme l’historique des achats ou l’enregistrement de données de connexion lors de sa navigation sur le site marchand.  
