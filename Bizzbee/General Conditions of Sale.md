@@ -272,7 +272,32 @@ Article 1648 du Code civil
   
 « L’action résultant des vices rédhibitoires doit être intentée par l’acquéreur dans un délai de deux ans à compter de la découverte du vice »  
   
-BZB s’engage à rembourser le client ou échanger (uniquement en magasin) tout produit apparemment défectueux, abimé ou endommagé dans un délai de 6 mois suivant la date de réception ou de retrait de la commande par le client.
+Indépendamment de toute garantie commerciale pouvant être accordée au Client, BZB est garant des défauts de conformité ainsi que des défauts cachés du Produit dans le cadre des garanties légales de conformité (article L217-4 à L.217-12 du Code de la consommation) et des vices cachés (articles 1641 à 1648 et 2232 du Code civil).  
+Le Client bénéficie d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir en application de la garantie légale de conformité.  
+  
+Dans ce cas, le Client peut choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation.  
+  
+Le Client est dispensé de rapporter la preuve de l’existence du défaut de conformité du Produit durant les vingt-quatre (24) mois suivant la délivrance du Produit.  
+  
+Il est rappelé que la garantie légale de conformité s’applique indépendamment de l’éventuelle garantie commerciale qui pourrait être consentie au Client.  
+  
+Par ailleurs, le Client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l’article 1641 du Code civil. Dans cette hypothèse, le Client peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil. Extraits du Code de la consommation relatifs à la garantie légale de conformité :  
+  
+Article L217-4 du Code de la consommation « Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité. »  
+  
+Article L217-5 du Code de la consommation « Le bien est conforme au contrat : 1. S’il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :  
+  
+\- s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;  
+\- s’il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;  
+2\. Ou s’il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté. »  
+Article L217-12 du Code de la consommation « L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien. »  
+Article L217-16 du Code de la consommation « Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention. »  
+  
+Extraits du Code civil relatifs à la garantie des vices cachés :  
+  
+Article 1641 du Code civil « Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. »  
+  
+Article 1648 al 1er du Code civil « L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice ».
 
 ([haut de page](#haut))
 
