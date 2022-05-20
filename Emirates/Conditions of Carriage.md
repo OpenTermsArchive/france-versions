@@ -123,7 +123,7 @@ Vous pouvez annuler vos réservations sur le site Internet dans la rubrique « M
 
 ### Résolution de litiges en ligne
 
-En cas de litige concernant votre réservation auprès de nous, si vous êtes un consommateur dans l’Union européenne et que vous avez acheté votre billet en ligne, vous pouvez demander la résolution du litige en question sur la plateforme européenne de règlement en ligne des litiges (plateforme RLL) mise en place par la Commission européenne. Pour en savoir plus, vous pouvez vous rendre sur le site Internet de la [plateforme RLL(Ouvre un site Internet externe dans un nouvel onglet)](http://ec.europa.eu/consumers/odr/) . Notre adresse e-mail pour la plateforme RLL est [adr@emirates.com(Ouvre votre boite mail)](mailto:adr@emirates.com).
+En cas de litige concernant une réservation auprès de nous, si vous vous trouvez dans l’Union européenne et que vous avez acheté votre billet en ligne, vous pouvez faire une demande de résolution sur la plateforme européenne de règlement en ligne des litiges (plateforme RLL) gérée par la Commission européenne. Pour en savoir plus, vous pouvez vous rendre sur le site internet de la [plateforme RLL(Ouvre un site internet externe dans un nouvel onglet)](http://ec.europa.eu/consumers/odr/) .
 
 Miles Skywards cumulés
 ----------------------
