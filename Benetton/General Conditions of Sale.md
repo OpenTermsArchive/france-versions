@@ -3,7 +3,7 @@ Conditions générales de vente en ligne
 
 ### DISPOSITIONS GENERALES
 
-Les présentes conditions générales de vente (aussi dénommées « CGV » ci-dessous) régissent les achats de produits d’habillement et d’accessoires de la marque « United Colors of Benetton. » et « Undercolors of Benetton » (les « Produits ») effectués par n’importe quelle personne physique qualifiable de consommateur (le « Client ») - c’est-à-dire une personne physique qui conclut un contrat d’achat (ci-dessous dénommé le « Contrat ») pour la satisfaction des exigences de la vie quotidienne extérieure à l’activité entrepreneuriale ou professionnelle (conformément aux dispositions de la Partie III, Titre III, Chapitre I du Code de la Consommation, Décret législatif n. 206/2005) sur le site de e commerce [benetton.com](https://www.benetton.com/) (ci-dessous dénommé le « Site »)  
+Les présentes conditions générales de vente (aussi dénommées « CGV » ci-dessous) régissent les achats de produits d’habillement et d’accessoires de la marque « United Colors of Benetton. » et « Undercolors of Benetton » (les « Produits ») effectués par n’importe quelle personne physique qualifiable de consommateur (le « Client ») - c’est-à-dire une personne physique qui conclut un contrat d’achat (ci-dessous dénommé le « Contrat ») pour la satisfaction des exigences de la vie quotidienne extérieure à l’activité entrepreneuriale ou professionnelle (conformément aux dispositions de la Partie III, Titre III, Chapitre I du Code de la Consommation, Décret législatif n. 206/2005) sur le site de e commerce benetton.com (ci-dessous dénommé le « Site »)  
   
 Le vendeur, comme désigné ci-dessous, se réserve le droit de ne pas donner suite à des commandes provenant de sujets ne rentrant pas dans la définition légale de « consommateur ». Dans tous les cas, si l’acquéreur n’est pas qualifiable de consommateur, le Contrat sera régi par la loi italienne, à l’exclusion de la Convention de Vienne du 1980 sur la vente internationale de marchandises.  
   
@@ -18,7 +18,7 @@ Le Client prend acte que :
 
 ### ARTICLE 1 - OBJET ET CONCLUSION DU CONTRAT
 
-Avec ces CGV, le Vendeur vend au Client, qui achète à distance, les Produits proposés à la vente sur le [benetton.com](https://www.benetton.com/) (le « Site »).  
+Avec ces CGV, le Vendeur vend au Client, qui achète à distance, les Produits proposés à la vente sur le benetton.com (le « Site »).  
   
 Le Contrat se conclut exclusivement à travers le réseau internet, par voie d’accès du Client au Site, à travers l’envoi d’une commande d’achat selon la procédure prévue par le site même et son acceptation par le Vendeur. L’achat est réglementé par les présentes CGV que le Client est tenu d’accepter intégralement et sans aucune réserve. À cet effet, le Client, avant de procéder à la conclusion d’une commande d’achat, s’engage à prendre connaissance des présentes CGV et des informations précontractuelles données dans cette page.  
   
