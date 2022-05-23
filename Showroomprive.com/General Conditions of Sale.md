@@ -1,7 +1,7 @@
 CONDITIONS GENERALES DE VENTE
 -----------------------------
 
-Date : 12/05/2022
+Date : 23/05/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -116,17 +116,15 @@ En cas de paiement via Paypal ou Paylib, le montant des achats sera automatiquem
 
 Paiement avec ONEY
 
-Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats de 40€ à 4 000€ en 3 ou 4 fois avec votre carte bancaire.
+Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats de 50€ à 2000€ en 3 ou 4 fois avec votre carte bancaire.
 
-**Conditions** _:_ Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d'une carte bancaire Visa et MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
+**Conditions :** Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d'une carte bancaire Visa et MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
 
-**Modalités de souscription** : Après avoir terminé votre commande, il vous suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».
+**Modalités de souscription :** Après avoir terminé votre commande, il vous suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».
 
 Vous êtes alors redirigé vers la page internet 3x 4x Oney de notre partenaire affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider.
 
-Vous saisissez vos informations personnelles ou, si vous disposez d'un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter.
-
-Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante.
+Vous saisissez vos informations personnelles ou, si vous disposez d'un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante.
 
 Vous reconnaissez que le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales valent consentement à contracter et constituent une acceptation irrévocable et sans réserve des conditions générales du produit.
 
@@ -134,27 +132,25 @@ Sauf preuve contraire, les données enregistrées par Oney Bank constituent la p
 
 Si vous demandez à bénéficier d'une solution de financement proposée par Oney Bank, les informations en rapport à votre commande seront transmises à Oney Bank, qui les utilisera à des fins d'étude de votre demande pour l'octroi, la gestion et le recouvrement de crédit.
 
-Oney Bank se réserve le droit d'accepter ou de refuser votre demande de financement en 3x 4x Oney.
+Oney Bank se réserve le droit d'accepter ou de refuser votre demande de financement en 3x 4x Oney. Vous disposez d'un délai de rétractation de 14 jours pour renoncer à votre crédit.
 
-Vous disposez d'un délai de rétractation de 14 jours pour renoncer à votre crédit.
+**Fonctionnement :** Le paiement en 3 ou 4 fois par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante :
 
-**Fonctionnement** : Le paiement en 3 ou 4 fois par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante :
+\- un apport obligatoire, débité le jour de la confirmation de l'expédition de votre commande ;
 
-\- un apport obligatoire, débité le jour de la confirmation de l'expédition de votre commande correspondant à un tiers ou à un quart de la commande, auquel sont ajoutés des frais correspondants à 1,45% du montant total de la commande pour un 3 fois et à 2,2 % pour un 4 fois (dans la limite de 10€ maximum pour un paiement en 3 fois et de 20€ maximum pour un 4 fois) ;
+\- deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,45% du montant total de la commande pour un 3 fois et à 2,2 % pour un 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un 4 fois).
 
-\- deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois.
+_• Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 4000€_ : Exemple : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d'une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 15€ maximum.
 
-• Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 4 000€ : Exemple : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d'une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 10€ maximum.
+_• Le paiement en 4 fois à partir de 40€ d'achat et jusqu'à 4000€ :_ Exemple : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 19,61%. Coût du financement : 8,80€ dans la limite de 30€ maximum.
 
-• Le paiement en 4 fois à partir de 100€ d'achat et jusqu'à 4 000€ : Exemple : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 19,61%. Coût du financement : 8,80€ dans la limite de 20€ maximum.
+**Conditions particulières pour les offres promotionnelles ponctuelles :**
 
-**Conditions particulières dans le cadre d'offres promotionnelles ponctuelles qui seront signalées** : Showroomprive.com pourra proposer, pour certaines de ses ventes privées, le paiement ONEY sans frais :
+_Pour le paiement en 3 fois sans frais :_ le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d'une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
 
-\- Pour le paiement en 3 fois sans frais : le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d'une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
+_Pour le paiement en 4 fois sans frais_ : le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d'une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
 
-\- Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d'une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
-
-_Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - [www.oney.fr](http://www.oney.fr/)_
+_Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr_
 
 Paiement avec KLARNA
 
