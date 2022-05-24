@@ -329,7 +329,7 @@ De même, XANDRIE se réserve le droit, sans préavis ni indemnité, d'arrêter 
 
 L'offre de téléchargement définitif d'enregistrements musicaux et le Service de streaming QOBUZ seront accessibles par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
 
-Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports (liste des applications mobiles disponibles à l’adresse suivante : [https://www.qobuz.com/fr-fr/applications](https://www.qobuz.com/fr-fr/applications)).
+Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports.
 
 L'utilisation du Service d'écoute illimitée en streaming nécessite une connexion internet haut-débit et éventuellement une connexion sans fil (Wifi et réseaux radiotéléphoniques mobiles) pour les Périphériques d’écoute mobiles.  
   
@@ -372,7 +372,7 @@ Les présentes CGUV expliquent clairement les modalités d'utilisation technique
 
   
 
-Le Client est informé qu'en raison de la variété des normes matérielles et d'encodages des fichiers, tous les matériels de lecture sonore peuvent ne pas supporter tous les formats et qualités disponibles en téléchargement. Des informations détaillées sur la configuration matérielle requise sont disponibles à [cette page](https://www.qobuz.com/fr-fr/audio-quality).
+Le Client est informé qu'en raison de la variété des normes matérielles et d'encodages des fichiers, tous les matériels de lecture sonore peuvent ne pas supporter tous les formats et qualités disponibles en téléchargement. Des informations détaillées sur la configuration matérielle requise sont disponibles sur notre page qualité sonore.
 
   
 
@@ -531,7 +531,7 @@ En cas de violation manifeste des CGUV par le Client, XANDRIE se réserve le dro
 
 \- du non-paiement total ou partiel des factures adressées au Client.
 
-Il est également loisible au Client de faire supprimer son compte. Pour ce faire, le Client effectuera une demande avec [le formulaire de contact en ligne](https://www.qobuz.com/support-client/contact) et XANDRIE SA supprimera alors le compte du Client dans un délai maximum de 48h après réception dudit courriel.
+Il est également loisible au Client de faire supprimer son compte. Pour ce faire, le Client effectuera une demande avec le formulaire de contact en ligne et XANDRIE SA supprimera alors le compte du Client dans un délai maximum de 48h après réception dudit courriel.
 
 L'attention du Client est attirée sur le fait que la suppression du compte l'empêchera de manière définitive et irrévocable de retrouver sur le Site les fichiers numériques des téléchargements qu'il a effectués et de pouvoir les télécharger à nouveau, de même que les informations associées au compte et les achats associés (playlists, albums, pistes, informations de connexion, etc.).
 
@@ -602,8 +602,8 @@ Le Client bénéficie d'un droit d'utilisation personnel du service, limité aux
 Pour toute information, notes Service Clients est à votre disposition via :
 
 \- La [FAQ](https://help.qobuz.com/hc/fr) Qobuz  
-\- La messagerie instantanée en ligne présente sur [le site](https://www.qobuz.com/store-router/discover), ouverte de 9h30 à 12h et de 14h30 à 17h30, GMT +1  
-\- Le [formulaire de contact](https://www.qobuz.com/store-router/help/contact/process) en ligne
+\- La messagerie instantanée en ligne présente sur le site, ouverte de 9h30 à 12h et de 14h30 à 17h30, GMT +1  
+\- Le formulaire de contact en ligne
 
   
 
@@ -616,7 +616,7 @@ En cas de souscription d'un Abonnement par l'intermédiaire d'un magasin d'appli
   
 Sauf disposition contraire d’ordre public prévue par la loi d’un des territoires prévus à l’Article 6 des présentes, les présentes CGUV sont soumises à la loi française.
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XANDRIE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60, rue de Boétie - 75008 Paris - [www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de XANDRIE via la messagerie instantanée en ligne ou via [le formulaire de contact en ligne](https://www.qobuz.com/store-router/help/contact/), le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Vous pouvez saisir le médiateur via l'adresse mail contact@fevad.com, ou via leur [formulaire en ligne](https://xrm.eudonet.com/V7/app/specif/EUDO_03047/FEVAD/Formulaire.aspx).
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XANDRIE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60, rue de Boétie - 75008 Paris - [www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de XANDRIE via la messagerie instantanée en ligne ou via le formulaire de contact en ligne, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Vous pouvez saisir le médiateur via l'adresse mail contact@fevad.com, ou via leur [formulaire en ligne](https://xrm.eudonet.com/V7/app/specif/EUDO_03047/FEVAD/Formulaire.aspx).
 
 De plus, la Commission européenne a mis en place une plateforme de résolution de litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. La plateforme est accessible sous le lien suivant : [ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage).
 
