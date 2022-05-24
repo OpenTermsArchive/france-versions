@@ -1,8 +1,3 @@
- [![Image d'illustration](https://media-cdn.printemps.com/image/32/8/3689328.jpg)](https://www.printemps.com/fr/fr/fete-des-meres?ap_source=anico&ap_medium=bloc4&ap_campaign=fete_des_meres) 
-
-POLITIQUE DE PROTECTION DES DONNÉES PERSONNELLES PRINTEMPS.COM
-==============================================================
-
   
 
 _Version en date du 21 mai 2021_
@@ -1492,16 +1487,3 @@ Nous vous informons que vous pouvez à tout moment modifier vos préférences d'
 **_Modification de notre de Politique de Protection des Données Personnelles_**
 
 Nous pouvons être amenés à modifier occasionnellement la présente politique de Protection des Données Personnelles, afin notamment de nous conformer à toutes évolutions réglementaires, jurisprudentielles, éditoriales ou techniques. Nous vous conseillons de consulter régulièrement cette page pour prendre connaissance d'éventuelles modifications ou mises à jour apportées à cette politique.
-
-  
-
-  
-
-[global](#) [homme](#) [femme](#)
-
- ![Image d'illustration](https://media-cdn.printemps.com/image/68/3/3677683.jpg) 
-
-test cta blanc
-==============
-
-[cta](https://www.printemps.com/fr/fr/protection-donnees-personnelles)
