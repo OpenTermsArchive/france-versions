@@ -90,7 +90,7 @@ Les prix indiqués s'entendent frais de livraison en sus. La participation s'él
 
 1\. Le Client pourra choisir entre un paiement par carte bancaire ou par PayPal :
 
-\- Paiement par carte bancaire : Carte Bleue, Visa, Mastercard, American Express ;  
+\- Paiement par carte bancaire : Carte Bancaire, Visa, Mastercard, American Express ;  
 \- Paiement par PayPal (uniquement si le Client a accès à ce service auprès de sa banque) : PayPal effectue vos transactions sans jamais communiquer vos données bancaires aux bénéficiaires.
 
 2\. Dans ce contexte, C&A Online attire l'attention du Client sur le fait que des frais dépendant du moyen de paiement choisi pourraient lui être réclamés par sa banque ou tout autre tiers impliqué dans la transaction.
