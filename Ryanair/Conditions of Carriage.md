@@ -1132,7 +1132,7 @@ TRANSPORT DES PERSONNES HANDICAPÉES ET DES PERSONNES À MOBILITÉ RÉDUITE
 
 Nous nous engageons à accommoder les personnes handicapées ou à mobilité réduite à bord de nos vols. Conditions d’attribution des sièges pour certaines catégories de passagers
 
-Conformément aux exigences réglementaires (EU-OPS 1.260), notre personnel navigant doit s’assurer, avant d’attribuer les sièges, qu’aucun obstacle ne gêne l’accès aux équipements de sécurité et aux issues de secours de l’avion en cas d’urgence.  
+Conformément aux exigences réglementaires (CAT.OP.MPA.155), notre personnel navigant doit s’assurer, avant d’attribuer les sièges, qu’aucun obstacle ne gêne l’accès aux équipements de sécurité et aux issues de secours de l’avion en cas d’urgence.  
 
 **Restriction de sièges**  
 
