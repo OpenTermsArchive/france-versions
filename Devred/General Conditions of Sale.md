@@ -72,7 +72,7 @@ Le paiement de votre commande doit être effectué :
 *   par carte bancaire ou carte de crédit, les cartes acceptées sont la Carte Bleue, Visa, Mastercard, American Express 
 *   par paypal  
 *   Par carte cadeau Devred (saisir le code de la carte + le code de sécurité à gratter)
-*   En 3x sans frais à partir de 100 € avec  [](https://getalma.eu/customers)
+*   En 3x sans frais à partir de 100 € avec  Alma
 
   
 Lors de la finalisation du processus de commande, vous êtes invité à saisir le numéro de carte bancaire, la date d'expiration de sa carte bancaire ainsi que les 3 derniers chiffres du cryptogramme visuel figurant au dos de la carte.  
