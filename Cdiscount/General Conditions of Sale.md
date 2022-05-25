@@ -2041,7 +2041,7 @@ _ARTICLE 8 :  RESERVE DE PROPRIETE_
   
 8.1    Cdiscount se réserve la propriété des Produits livrés jusqu'au complet paiement du prix ainsi que des pénalités de retard ou indemnités forfaitaires pour frais de recouvrement et tout autre somme accessoire y afférentes.  
   
-8.2    Le Client Pro s’oblige à permettre à tout moment l’identification et la revendication des Produits livrés. De convention expresse, les Produits en stock chez le Client Pro sont rêputés afférents aux factures non réglées.  
+8.2    Le Client Pro s’oblige à permettre à tout moment l’identification et la revendication des Produits livrés. De convention expresse, les Produits en stock chez le Client Pro sont réputés afférents aux factures non réglées.  
   
 8.3    Le Client Pro, autorisé à revendre les produits livrés dans l'exécution normale de son commerce, s’engage, le cas échéant, à céder de plein droit à Cdiscount la créance détenue à l’encontre de ses sous-acquéreurs, à concurrence des sommes restant dues. Le Client Pro est également tenu d'informer immédiatement Cdiscount de la saisie, au profit d'un tiers, des Produits livrés sous réserve de propriété. Le Client Pro s’interdit en outre de donner en gage ou de céder à titre de garantie la propriété des Produits.  
   
