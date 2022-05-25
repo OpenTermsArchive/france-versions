@@ -1,3 +1,8 @@
+Conditions générales d'utilisation SALTO
+========================================
+
+* * *
+
  **CONDITIONS GÉNÉRALES D'UTILISATION SALTO**Mise à jour du 9 novembre 2021 **VEUILLEZ LIRE ATTENTIVEMENT LES CONDITIONS GÉNÉRALES D'UTILISATION DE SALTO ET EN CONSERVER UNE COPIE.** **ARTICLE 1 : DÉFINITIONS** 
 
 |     |     |
