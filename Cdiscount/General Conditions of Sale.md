@@ -168,7 +168,7 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
-. 
+.
 
 _Article 3 : COMMANDES_
 -----------------------
