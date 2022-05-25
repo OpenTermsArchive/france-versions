@@ -1,3 +1,8 @@
+Conditions générales d'abonnement
+=================================
+
+* * *
+
  **CONDITIONS GÉNÉRALES D'ABONNEMENT SALTO**Mise à jour du 9 novembre 2021 **VEUILLEZ LIRE ATTENTIVEMENT LES CONDITIONS GÉNÉRALES D'ABONNEMENT DE SALTO ET EN CONSERVER UNE COPIE.** **ARTICLE 1 : DÉFINITIONS** 
 
 |     |     |
