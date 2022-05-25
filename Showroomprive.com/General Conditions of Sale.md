@@ -1,11 +1,11 @@
-CONDITIONS GENERALES DE VENTE
------------------------------
+**CONDITIONS GENERALES DE VENTE**
+---------------------------------
 
-Date : 23/05/2022
+Date : 25/05/2022
 
 Bienvenue sur Showroomprive.com
 
-Nous vous invitons à lire attentivement nos conditions générales de vente (les « CGV ») avant d'utiliser le site Showroomprive.com et son application mobile (le « **Site** »). Celles-ci peuvent être amenées à évoluer pour tenir compte de la réglementation applicable.
+Nous vous invitons à lire attentivement nos conditions générales de vente (les « **CGV** ») avant d'utiliser le site Showroomprive.com et son application mobile (le « **Site** »). Celles-ci peuvent être amenées à évoluer pour tenir compte de la réglementation applicable. Il est précisé que ces CGV s'appliquent tant pour la vente de produits (prêt à porter, chaussures, cosmétiques, petits électroménagers, accessoires etc.) que pour que la vente de coupons valables auprès de nos partenaires.
 
 **Table des matières**
 
@@ -19,19 +19,25 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 
 \- Article 5 : Comment régler votre commande ?
 
-\- Article 6 : Quand allez-vous être livré ?
+\- Article 6 : Quand vos produits vous seront-ils livrés ?
 
-\- Article 7 : Comment faire si vous avez changé d'avis ?
+\- Article 7 - Quand vais-je recevoir mon coupon?
 
-\- Article 8 : Quelles garanties pour vos produits ?
+\- Article 8 - Comment utiliser mon coupon?
 
-\- Article 9 : Comment utiliser vos avantages Showroomprive ?
+\- Article 9 : Comment faire si vous avez changé d'avis ?
 
-\- Article 10 : Et vos données dans tout ça ?
+\- Article 10 : Quelles garanties pour vos produits ?
 
-\- Article 11 : Que se passe-t-il si vous n'êtes pas satisfaits ?
+\- Article 11 : Comment utiliser vos avantages Showroomprive ?
 
-\- Article 12 : Mentions légales
+\- Article 12 : Et vos données dans tout ça ?
+
+\- Article 13 : Que se passe-t-il si vous n'êtes pas satisfaits ?
+
+\- Article 14 - Liste d'opposition au démarchage téléphonique
+
+\- Article 15 : Mentions légales
 
 **Article 1 - Qui sommes-nous ?**
 
@@ -39,9 +45,9 @@ Notre Site est édité et exploité par la société Showroomprive.com, SARL au 
 
 Pour toute demande d'information, vous pouvez vous adresser directement à notre Service Client :
 
-\- Par le formulaire de contact disponible [ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) ;
+\- Par le formulaire de contact disponible **[ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4)** ;
 
-\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
+\- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h) ;
 
 \- Par email à l'adresse suivante : [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) .
 
@@ -51,19 +57,19 @@ Pour devenir membre et accéder à nos ventes évènementielles, vous devez cré
 
 Votre compte vous permet à tout moment :
 
-· d'avoir accès à nos ventes évènementielles ;
+· d'avoir accès à nos ventes évènementielles proposant notamment des produits ainsi que des coupons valables auprès de nos partenaires (ci-après les « **Offre(s) Coupon(s)** ») ;
 
 · de consulter, modifier et mettre à jour vos informations personnelles telles que vos moyens de paiement ;
 
 · de suivre vos commandes en cours ;
 
-· de vous inscrire et de vous désinscrire de la newsletter ou du Site en remplissant le formulaire de désinscription disponible [ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) .
+· de vous inscrire et de vous désinscrire de la newsletter ou du Site en remplissant le formulaire de désinscription disponible **[ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4)** .
 
 Il est également précisé que nos ventes évènementielles ne sont proposées qu'aux particuliers inscrits sur le Site (« les **Membres** »).
 
 Vous êtes responsable du maintien de la confidentialité de votre compte et de votre mot de passe, des restrictions d'accès à votre ordinateur ou autres équipements. A ce titre, vous reconnaissez être responsable de toutes les activités émanant de votre compte.
 
-Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de création et/ou d'utilisation de compte multiple, nous nous réservons le droit de suspendre et/ou clôturer les comptes frauduleux et d'annuler vos commandes en cours. . Par ailleurs, nous nous réservons également ce droit en cas d'utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage, à savoir :
+Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de création et/ou d'utilisation de compte multiple, nous nous réservons le droit de clôturer/ suspendre les comptes frauduleux et d'annuler vos commandes en cours. Par ailleurs, nous nous réservons également ce droit en cas d'utilisation fraudeuse de nos avantages et/ou de notre programme de parrainage à savoir :
 
 · L'appel au parrainage massif lancé notamment à partir de forums ainsi que ;
 
@@ -74,16 +80,20 @@ Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de cr�
 Pour commander sur notre Site :
 
 1.  Connectez-vous à votre compte personnel ;
-2.  Profitez de nos ventes en sélectionnant les articles de votre choix ;
-3.  Une fois votre shopping terminé et votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
+2.  Profitez de nos ventes en sélectionnant les produits et/ou les Offres Coupons de votre choix ;
+3.  Prenez connaissance des intitulés et caractéristiques essentielles des différents articles et/ou des Offres Coupons en consultant les fiches produits correspondantes ;
+4.  Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des produits et/ou des Offres Coupons choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des produits et /ou des Offres Coupons correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
+5.  Ensuite, si vous commandez des produits, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
+6.  Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande.
+7.  Votre commande est terminée ! Vous recevrez alors un email de confirmation de votre commande. Si vous avez commandé des coupons, ils vous seront directement envoyés par email et seront également téléchargeables dans votre espace client.
 
-4\. Choisissez ensuite votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande. Votre commande est terminée ! Vous recevrez alors un email de confirmation de votre commande.
+Veuillez noter que nos offres de produits et de coupons ainsi que nos prix sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des coupons alloués par les partenaires de Showroomprivé. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de coupons ait été dépassé. Vous en serez informé par email, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité du produit et/ou du coupon. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
 
-Veuillez noter que nos offres de produits ainsi que nos prix sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles. Il arrive parfois qu'un produit commandé ne soit plus en stock. Vous en serez informé par email, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité du produit. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
+Il est par ailleurs précisé que, sauf mention contraire dans le descriptif de l'Offre Coupon, vous ne pouvez acheter qu'un seul coupon par vente évènementielle.
 
 Par ailleurs, nous nous réservons le droit d'annuler votre commande pour un motif légitime notamment dans les cas suivants :
 
-1.  Lorsque qu'une erreur manifeste s'est glissée sur le produit et/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit) ;
+1.  Lorsque qu'une erreur manifeste s'est glissée sur la description du produit ou de l'Offre Coupon et/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu de l'Offre Coupon) ;
 2.  Lorsqu'il existe un différend relatif au paiement de votre commande ;
 3.  Lorsque nous constatons une utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage ;
 4.  Lorsque nous constatons la création multiple de comptes pour un seul membre utilisateur (cf. article 2)
@@ -92,9 +102,9 @@ Nous nous réservons également le droit de prendre toutes mesures utiles afin d
 
 **Article 4 - Quels prix pratiquons-nous ?**
 
-Il est important pour nous que vous ayez confiance dans les réductions que nous affichons. Le prix barré (que nous appelons « Prix constaté ») qui vous permet d'identifier la réduction dont vous bénéficiez, correspond en général au prix recommandé par une marque ou son représentant qui a été vérifié au moyen d'un échantillonnage représentatif afin de s'assurer qu'il est effectivement pratiqué par la marque ou par un ou plusieurs commerçants notoires. Parfois il s'agit du prix obtenu en appliquant à ce prix recommandé l'écart moyen que nous avons observé sur cet échantillon en le comparant avec le prix de vente effectivement pratiqué. Il arrive enfin que certains produits que nous vous proposons ne soient plus en vente chez d'autres commerçants, ce qui rend plus difficile la vérification de ce prix barré. Nous pouvons alors utiliser comme prix barré le prix habituellement pratiqué par ces commerçants pour un produit de qualité et de composition comparable.
+Il est important pour nous que vous ayez confiance dans les réductions que nous affichons. Le prix barré (que nous appelons « Prix constaté ») qui vous permet d'identifier la réduction dont vous bénéficiez, correspond en général au prix recommandé par une marque ou son représentant qui a été vérifié au moyen d'un échantillonnage représentatif afin de s'assurer qu'il est effectivement pratiqué par la marque ou par un ou plusieurs commerçants notoires. Parfois il s'agit du prix obtenu en appliquant à ce prix recommandé l'écart moyen que nous avons observé sur cet échantillon en le comparant avec le prix de vente effectivement pratiqué. Il arrive enfin que certains produits/offres que nous vous proposons ne soient plus en vente chez d'autres commerçants, ce qui rend plus difficile la vérification de ce prix barré. Nous pouvons alors utiliser comme prix barré le prix habituellement pratiqué par ces commerçants pour un produit/une offre de qualité et de composition comparable.
 
-Les prix de nos produits sont indiqués en euros toutes taxes comprises (dont éco participation). Ils ne comprennent pas les frais de préparation et d'expédition qui vous sont indiqués lors de la validation de votre commande. Nous ne pratiquons pas de vente en détaxe.
+Les prix de nos produits et de nos Offres Coupons sont indiqués en euros toutes taxes comprises (dont éco participation). Ils ne comprennent pas les frais de préparation et d'expédition qui vous sont indiqués lors de la validation de votre commande. Nous ne pratiquons pas de vente en détaxe.
 
 Pour une livraison à destination d'un Etat membre de l'Union Européenne, la Taxe sur la Valeur Ajoutée (TVA) sera celle en vigueur sur le territoire de livraison de votre commande. En revanche, pour une livraison à destination des DOM-TOM ou Hors Union Européenne, le montant de votre commande sera calculé Hors Taxes sur votre facture et sur votre commande. Dans ce cas, votre commande pourra être soumise à des droits de douane et à des taxes éventuelles qui sont imposées lorsque le colis parvient à destination.
 
@@ -154,7 +164,7 @@ _Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flan
 
 Paiement avec KLARNA
 
-Notre partenaire Klarna vous propose une solution de financement dénommée «Payer plus tard en 3 fois» qui permet de payer, sans frais, vos achats de 35€ à 1 500€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [ici](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l'acceptation sera nécessaire à toute souscription.
+Notre partenaire Klarna vous propose une solution de financement dénommée «Payer plus tard en 3 fois» qui permet de payer, sans frais, vos achats de 35€ à 1 500€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles **[ici](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3)** , et dont l'acceptation sera nécessaire à toute souscription.
 
 Nous vous précisons que, aux termes des conditions générales de Klarna :
 
@@ -164,17 +174,17 @@ Nous vous précisons que, aux termes des conditions générales de Klarna :
 
 Paiement avec CLEARPAY
 
-La solution de financement proposée par notre partenaire Clearpay est un paiement en 3 fois sans frais. Le mode de paiement Clearpay vous permet d'acheter sans frais des produits de 4€ à 250€ (frais de port inclus) en 3 versements (d'un montant égal et prélevés tous les mois). Il suffit de choisir Clearpay comme mode de paiement au moment du paiement et de remplir un court formulaire pour accéder à votre compte Clearpay ou en créer un. Une fois le paiement confirmé, seul le premier versement vous sera facturé : de cette façon, votre commande passera directement à la phase de traitement et d'expédition.
+La solution de financement proposée par notre partenaire Clearpay est un paiement en 3 fois sans frais. Le mode de paiement Clearpay vous permet d'acheter sans frais des produits de 4€ à 250€ (frais de port inclus) en 3 versements (d'un montant égal et prélevés tous les mois). Il suffit de choisir Clearpay comme mode de paiement au moment du paiement et de remplir un court formulaire pour accéder à votre compte Clearpay ou en créer un.
 
-Pendant ce temps, Clearpay divisera le montant restant en 2 autres versements qui seront automatiquement prélevés sur votre compte tous les mois. Clearpay n'entraîne aucun coût supplémentaire si les paiements échelonnés sont effectués dans les délais, c'est-à-dire à la date d'échéance. Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles**[ici](https://www.clearpay.com/fr-FR/terms)** **,** et dont l'acceptation sera nécessaire à toute souscription.
+Une fois le paiement confirmé, seul le premier versement vous sera facturé : de cette façon, votre commande passera directement à la phase de traitement et d'expédition. Pendant ce temps, Clearpay divisera le montant restant en 2 autres versements qui seront automatiquement prélevés sur votre compte tous les mois. Clearpay n'entraîne aucun coût supplémentaire si les paiements échelonnés sont effectués dans les délais, c'est-à-dire à la date d'échéance.
 
-Nous vous précisons que, aux termes des conditions générales de Clearpay :
+Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles**[ici](https://www.clearpay.com/fr-FR/terms)** **,** et dont l'acceptation sera nécessaire à toute souscription. Nous vous précisons que, aux termes des conditions générales de Clearpay :
 
 · Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France, possédant une carte de crédit ou de débit Visa ou Mastercard Européenne et disposant d'un numéro de téléphone portable français.
 
 · En cas de refus de votre moyen de paiement, vous serez averti par Clearpay avant la fin de votre achat.
 
-· Les produits marketplace et l'abonnement infinity ne peuvent pas être payés via Clearpay
+· Les produits marketplace et l'abonnement infinity ne peuvent pas être payés via Clearpay.
 
 5.2 Paiement sécurisé
 
@@ -194,9 +204,9 @@ Nous faisons appel à plusieurs mécanismes dans le cadre de la lutte contre la 
 
 (iii) Enfin, nous avons mis en place un traitement de lutte contre la fraude. Ainsi, nous pouvons effectuer des contrôles ayant pour but de s'assurer de l'exactitude de votre identité et domiciliation. Dans ce cadre, nos vérifications portent (i) sur les informations que vous nous fournissez telles que, nom, prénom, adresse email, adresse de livraison etc, ainsi que l'adresse IP utilisée et figurant dans l'historique de vos commandes et transactions, (ii) les caractéristiques de la commande concernée et enfin (iii) la carte bancaire utilisée (ex : pays d'émission et numéros partiels communiqués par les établissements bancaires et de paiement, composés uniquement des six premiers chiffres et des quatre derniers, ainsi que de sa date d'expiration). Le cas échéant, nous pouvons vous demander de nous transmettre par email une copie recto de votre pièce d'identité ainsi qu'un justificatif de domicile datant de moins de trois (3) mois. Ces documents ne seront pas conservés au-delà de la durée nécessaire aux vérifications.
 
-Nous nous réservons le droit de procéder à l'annulation de la commande concernée et au blocage du compte si les vérifications menées établissent la fourniture de données inexactes, ou en cas de non réception des justificatifs demandés dans le délai imparti. Vous serez informé de ce qui précède par email. Dans le cadre de ce traitement, nous vous rappelons que vous disposez de l'ensemble des droits listés à l'article 1-6 de notre Politique de confidentialité, disponible [ici](https://www.showroomprive.com/politique_confidentialite.aspx) .
+Nous nous réservons le droit de procéder à l'annulation de la commande concernée et au blocage du compte si les vérifications menées établissent la fourniture de données inexactes, ou en cas de non réception des justificatifs demandés dans le délai imparti. Vous serez informé de ce qui précède par email. Dans le cadre de ce traitement, nous vous rappelons que vous disposez de l'ensemble des droits listés à l'article 1-6 de notre Politique de confidentialité, disponible **[ici](https://www.showroomprive.com/politique_confidentialite.aspx)** .
 
-**Article 6 - Quand allez-vous être livré ?**
+**Article 6 - Quand vos produits vous seront-ils livrés ?**
 
 6.1 Où et comment pouvez-vous être livré ?
 
@@ -206,7 +216,7 @@ Pour des raisons logistiques et de sécurité, la livraison de certains produit 
 
 |     |     |
 | --- | --- |
-| La livraison à domicile<br><br>Lors de la passation de votre commande, choisissez la livraison « Standard » ou « Express ».<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées chez vous dès le lendemain avant 13 heures grâce à la livraison « Express » si elles sont passées avant 11 heures.<br><br>· Pour les livraisons d' **articles volumineux**, notre transporteur vous contactera pour planifier un rendez-vous de livraison.<br><br>· Nous pouvons livrer les entrepôts de **Colisexpat** sous réserve du respect de leurs conditions générales disponibles [ici](https://www.colisexpat.com/pages/conditions-generales-de-vente/) .<br><br>· Pour des raisons logistiques et de sécurité, nous ne sommes pas en mesure de livrer aux adresses de site militaire.<br><br>En cas d'absence à votre domicile, le transporteur en charge de la livraison de votre commande vous informera des modalités de récupération de votre commande via un avis de passage. | La livraison en point de retrait<br><br>Lors de la passation de votre commande, choisissez la livraison en point de retrait. En renseignant votre adresse, vous pourrez identifier les différents points de retrait disponibles autour de chez vous.<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées dans le point de retrait dès le lendemain avant 13 heures si elles sont passées avant 11 heures.<br><br>· Pour vos **articles volumineux**, des points de retrait sont disponibles mais ils sont moins nombreux. Vous retrouverez la liste sur le Site en renseignant votre adresse.<br><br>· Dans le cas où le point de retrait du colis est saturé ou fermé, le colis est automatiquement mis à disposition dans le point de retrait le plus proche en fonction de ses disponibilités.<br><br>· Vous avez un délai de 10 jours pour retirer votre colis dans votre point de retrait. |
+| La livraison à domicile<br><br>Lors de la passation de votre commande, choisissez la livraison « Standard » ou « Express ».<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées chez vous dès le lendemain avant 13 heures grâce à la livraison « Express » si elles sont passées avant 11 heures.<br><br>· Pour les livraisons d' **articles volumineux**, notre transporteur vous contactera pour planifier un rendez-vous de livraison.<br><br>· Nous pouvons livrer les entrepôts de **Colisexpat** sous réserve du respect de leurs conditions générales disponibles **[ici](https://www.colisexpat.com/pages/conditions-generales-de-vente/)** .<br><br>· Pour des raisons logistiques et de sécurité, nous ne sommes pas en mesure de livrer aux adresses de site militaire.<br><br>En cas d'absence à votre domicile, le transporteur en charge de la livraison de votre commande vous informera des modalités de récupération de votre commande via un avis de passage. | La livraison en point de retrait<br><br>Lors de la passation de votre commande, choisissez la livraison en point de retrait. En renseignant votre adresse, vous pourrez identifier les différents points de retrait disponibles autour de chez vous.<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées dans le point de retrait dès le lendemain avant 13 heures si elles sont passées avant 11 heures.<br><br>· Pour vos **articles volumineux**, des points de retrait sont disponibles mais ils sont moins nombreux. Vous retrouverez la liste sur le Site en renseignant votre adresse.<br><br>· Dans le cas où le point de retrait du colis est saturé ou fermé, le colis est automatiquement mis à disposition dans le point de retrait le plus proche en fonction de ses disponibilités.<br><br>· Vous avez un délai de 10 jours pour retirer votre colis dans votre point de retrait. |
 
 Nous attirons votre attention sur les points suivants :
 
@@ -218,19 +228,21 @@ Nous attirons votre attention sur les points suivants :
 
 6.2 Combien coûte la livraison ?
 
-Avec le service Infinity, profitez de la livraison gratuite ! Pour consulter les Conditions Générales d'Abonnement du Service Infinity [ici](https://static.cedex.it.showroomprive.com/v3/0/docs/CGV_Infinity.pdf) .
+Avec le service Infinity, profitez de la livraison gratuite ! Pour consulter les Conditions Générales d'Abonnement du Service Infinity **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/CGV_Infinity.pdf)** .
 
 Si vous n'êtes pas abonnés au service Infinity, le montant des frais de livraison de votre commande vous sera annoncé lors de la l'étape du choix de votre mode de livraison. Les tarifs pour la livraison à domicile ou en point de retrait vous seront proposés afin de faire votre choix en toute connaissance de cause !
 
 A noter : vous avez la possibilité d'acheter des produits provenant de ventes évènementielles différentes et de les mettre dans le même panier. Toutefois, des frais de livraison distincts s'appliqueront pour les produits de chacune de ces ventes.
 
+Nous vous rappelons que pour les ventes de coupons, aucun frais de port ne vous sera facturé, les coupons étant directement envoyés par email et téléchargeables dans votre compte personnel.
+
 6.3 Que faire en cas d'absence, de retard de livraison, ou de livraison non conforme ?
 
-En cas d'absence ou de retard de livraison, nous vous invitons à consulter nos FAQ [ici](https://www.showroomprive.com/nouscontacter/faq.aspx).
+En cas d'absence ou de retard de livraison, nous vous invitons à consulter nos FAQ **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
 Nous souhaitons attirer votre attention sur le fait qu'en cas d'absence de livraison, vous disposez d'un délai de 30 jours à compter de la date de livraison annoncée ou estimée, pour en informer notre service client, afin que ce dernier puisse notamment procéder à l'ouverture d'une enquête auprès de notre transporteur. A cette fin, Showroomprive.com se réserve le droit de vous demander l'envoi de documents justificatifs (exemple : attestation sur l'honneur signée etc.) nécessaires à l'ouverture de ladite enquête. Au-delà du délai de 30 jours susmentionné, votre commande sera réputée livrée et aucune contestation relative à l'absence de livraison ne sera possible.
 
-En cas de livraison non conforme, nous vous invitons à consulter nos FAQ [ici](https://www.showroomprive.com/nouscontacter/faq.aspx).
+En cas de livraison non conforme, nous vous invitons à consulter nos FAQ **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
 Dans l'hypothèse où votre colis aurait été endommagé lors du transport, et si vous n'avez émis aucune réserve lors de la livraison, nous vous conseillons de le déclarer au plus vite. Pour cela nous vous invitons à contacter notre service client sous 72h à compter de la livraison afin qu'une enquête soit ouverte auprès de notre transporteur. Les délais pour signaler un produit endommagé par le transport étant courts, pensez à accompagner votre contestation notamment d'une photographie du colis et/ou du produit abimé afin de faciliter sa prise en charge:
 
@@ -266,7 +278,33 @@ o Produits volumineux dits non transportables sans équipement (à savoir : _pro
 
 \- La literie doit être emballée dans une sache ou housse d'origine.
 
-**Article 7 - Comment faire si vous avez changé d'avis ?**
+**Article 7 - Quand vais-je recevoir mon coupon?**
+
+Après avoir procédé au paiement de votre commande, votre coupon vous sera directement envoyé à l'adresse email enregistrée sur votre compte client. Aucun coupon ne sera envoyé par courrier.
+
+Vous pourrez également télécharger votre coupon à tout moment dans la rubrique « Mes commandes» accessible dans votre espace client.
+
+Nous vous rappelons également que, sauf mention contraire dans le descriptif de l'Offre Coupon, vous ne pouvez acheter qu'un seul coupon par vente évènementielle.
+
+**Article 8 - Comment utiliser mon coupon?**
+
+Les coupons proposés sur notre Site ont une durée de validité définie et limitée. Les coupons doivent être utilisés auprès de notre partenaire dans les conditions définies dans le descriptif de l'Offre Coupon et reproduites sur votre coupon.
+
+Le coupon étant utilisable auprès de notre partenaire, l'exécution de l'offre prévue dans ce dernier sera effectuée sous sa seule responsabilité et sera soumise à ses conditions générales d'utilisation et/ou de vente. Ainsi le partenaire assumera l'entière responsabilité au titre des réclamations relatives à ladite exécution de l'Offre Coupon.
+
+Il est précisé que :
+
+· Si lors de l'utilisation de votre coupon auprès du partenaire le montant de votre panier est supérieur à la valeur dudit coupon, vous devrez payer la différence par un moyen de paiement accepté par le partenaire ;
+
+· La valeur du coupon n'est pas fractionnable. Ainsi le coupon n'est utilisable qu'une seule fois ;
+
+· Un coupon expiré, perdu, volé ou consommé ne pourra pas être remboursé par Showroomprivé ;
+
+· Sous réserve de disposition contraire dans le descriptif de l'Offre du Coupon, l'utilisation du coupon auprès du partenaire ne peut pas être cumulée avec d'autres promotions, bons d'achats ou réductions.
+
+· Toute reproduction, revente ou autre utilisation frauduleuse d'un coupon est interdite. En plus du blocage et/ou de la suppression de votre compte client, Showroomprivé se réserve le droit d'engager des poursuites à votre encontre.
+
+**Article 9 - Comment faire si vous avez changé d'avis ?**
 
 Vous avez changé d'avis ? Votre article ne correspond pas à vos attentes ?
 
@@ -274,43 +312,63 @@ Vous disposez d'un délai de quatorze (14) jours calendaires pour exercer votre 
 
 \- de la réception des produits ;
 
-\- de la date de la passation de commande pour les offres « Shop it » ;
+\- de la date de la réception de votre coupon ;
 
 \- de la réception des produits par ColisExpat lorsque vous avez choisi de vous faire livrer par leur intermédiaire.
 
+**A noter :** Si le délai de 14 jours précité expire un samedi, dimanche ou jour férié, alors votre droit de rétractation est étendu au jour ouvrable suivant.
+
 Il vous est également possible d'annuler votre commande avant d'être livré sous réserve que celle-ci ne soit pas déjà « en cours de préparation ».
 
-\- 7.1 Comment faire pour nous retourner un produit ? Rendez-vous sur votre compte personnel, puis dans l'onglet « Vos commandes » et cliquez sur « Retourner un article » ;
+9.1 Comment faire pour nous retourner un produit ?
 
-\- Sélectionnez les articles que vous souhaitez retourner, le motif de retour et validez ;
+Vous pouvez vous rétracter :
 
-\- Choisissez votre mode de retour en sélectionnant au choix :
+• **Directement depuis votre compte personnel**, en accédant à l'onglet « Vos commandes » et cliquez sur « Retourner un article » ;
+
+• Sélectionnez les articles que vous souhaitez retourner, le motif de retour et validez ;
+
+• Choisissez votre mode de retour en sélectionnant au choix :
 
 \- l'étiquette prépayée en cliquant sur « Je gagne du temps » ; ou
 
-\- l'affranchissement classique par vous-même en cliquant sur « C'est par ici »
+\- l'affranchissement classique par vous-même en cliquant sur « C'est par ici » ;
 
-\- Imprimez votre bon de retour (composé d'un formulaire et d'un bordereau) et l'étiquette prépayée si vous avez opté pour ce mode de retour ;
+• Ou en **remplissant le formulaire de rétractation** disponible **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf)** et en nous le retournant :
 
-\- Préparez votre colis en reconditionnant les articles dans leur emballage d'origine ou à défaut un emballage adapté (voir point « Important » ci-dessous), glissez le formulaire de retour dedans, et apposez le bordereau de retour sur le colis (le bordereau ne doit en aucun cas être apposé sur le produit).
+\- A l'adresse email suivante : serviceclientfr@showroomprive.com ou ;
 
-\- Enfin, déposez votre colis à la Poste ou en point de retrait selon l'option choisie pour qu'il soit envoyé à l'adresse suivante :
+\- Via le formulaire de contact accessible **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** ; ou
 
-\- Pour la France, Monaco et le Luxembourg : Showroomprive.com - Zone industrielle de SAINT-WITZ- 18 rue de la ferme St Ladre - 95672 FOSSES CEDEX
+\- A l'adresse suivante : Showroomprive.com, Service client, 1 rue des Blés, 93210, La Plaine Saint Denis.
+
+Notre service client vous enverra, à réception du formulaire complété, les documents nécessaires au retour des produits selon le mode de retour choisi (étiquette prépayée ou non).
+
+Une fois la demande de retour enregistrée, vous devez renvoyer votre produit dans un délai maximum de quatorze (14) jours calendaires . Pour ce faire :
+
+• Imprimez votre bon de retour (composé d'un formulaire et d'un bordereau) et l'étiquette prépayée si vous avez opté pour ce mode de retour ;
+
+• Préparez votre colis en reconditionnant les articles dans leur emballage d'origine ou à défaut un emballage adapté (voir point « Important » ci-dessous), glissez le formulaire de retour dedans, et apposez le bordereau de retour sur le colis (le bordereau ne doit en aucun cas être apposé sur le produit).
+
+• Enfin, déposez votre colis à la Poste ou en point de retrait selon l'option choisie pour qu'il soit envoyé à l'adresse suivante :
+
+\- Pour la France, Monaco et le Luxembourg : Showroomprive.com - Zone industrielle de SAINT-WITZ- 18 rue de la ferme St Ladre - 95672 FOSSES CEDEX, FRANCE
 
 \- Pour la Belgique : B2C Europe Logvad BELGIUM, SRP, Rue du Pont-Tunnel 17 bis, 7730 ESTAIMPUS, Belgium
 
-A noter : Pour des raisons logistiques et de traçabilité, aucune remise en main propre de votre produit ne pourra être acceptée par nos entrepôts aux adresses précitées.
+**A noter** **:** Pour des raisons logistiques et de traçabilité, aucune remise en main propre de votre produit ne pourra être acceptée par
 
-Une fois la demande de retour enregistrée, vous devez renvoyer votre produit dans un délai maximum de quatorze (14) jours calendaires. **Important** : Pour que vos produits retournés soient acceptés par nos équipes ils doivent nous être renvoyés dans un état permettant leur remise en vente c'est-à-dire qu'il est nécessaire que :
+nos entrepôts aux adresses précitées.
 
-\- Les produits retournés soient convenablement emballés afin qu'ils ne soient pas endommagés par le transport. Pour cela, veillez à correctement les protéger, idéalement dans leur emballage d'origine. Les produits high tech doivent être obligatoirement renvoyés dans leur emballage d'origine ;
+**Important** : Pour que vos produits retournés soient acceptés par nos équipes ils doivent nous être renvoyés dans un état permettant leur remise en vente c'est-à-dire qu'il est nécessaire que :
 
-\- Les produits n'aient pas été utilisés, c'est-à-dire que l'utilisation ne dépasse pas le temps nécessaire à leur essayage ;
+• Les produits retournés soient convenablement emballés afin qu'ils ne soient pas endommagés par le transport. Pour cela, veillez à correctement les protéger, idéalement dans leur emballage d'origine. Les produits high tech doivent être obligatoirement renvoyés dans leur emballage d'origine ;
 
-\- Les produits soient retournés complets et accompagnés de tous les accessoires éventuels, non abîmés, non endommagés ou salis ;
+• Les produits n'aient pas été utilisés, c'est-à-dire que l'utilisation ne dépasse pas le temps nécessaire à leur essayage ;
 
-\- Les produits high tech connectés ( _ex. smartphones, montres connectées, tablettes, ordinateurs portables etc_ .) soient débloqués et réinitialisés (cliquez [ici](https://www.showroomprive.com/nouscontacter/faqcontent.aspx?sectionid=67&subsectionId=77) pour trouver le protocole de réinitialisation de vos produits).
+• Les produits soient retournés complets et accompagnés de tous les accessoires éventuels, non abîmés, non endommagés ou salis ;
+
+• Les produits high tech connectés ( _ex. smartphones, montres connectées, tablettes, ordinateurs portables etc_ .) soient débloqués et réinitialisés (cliquez **[ici](https://www.showroomprive.com/nouscontacter/faqcontent.aspx?sectionid=67&subsectionId=77)** pour trouver le protocole de réinitialisation de vos produits).
 
 Pensez aussi à accompagner vos produits de l'ensemble des informations nous permettant d'identifier votre fiche client et la commande concernée par votre retour (nom, prénom, adresse, numéro de commande).
 
@@ -318,7 +376,7 @@ Pensez aussi à accompagner vos produits de l'ensemble des informations nous per
 
 Si vous avez souscrit à un service sur notre site, et qu'à votre demande expresse vous avez commencé à en profiter avant l'expiration du délai de rétractation, vous pouvez toujours user de votre droit de rétractation. Toutefois, nous retiendrons le montant correspondant au service utilisé jusqu'au moment de votre décision de vous rétracter.
 
-7.2 Combien vous coûte le retour ?
+9.2 Combien vous coûte le retour ?
 
 En cas d'exercice du droit de rétractation, les frais de retour sont à votre charge :
 
@@ -328,17 +386,29 @@ En cas d'exercice du droit de rétractation, les frais de retour sont à votre c
 
 Si vous souhaitez nous retourner un produit volumineux, vous devez contacter notre service client afin qu'il organise ce retour. A titre indicatif, nous vous informerons que les frais de retour s'échelonneront entre 50€ ou 100€.
 
-7.3 Les exceptions au droit de rétractation
+_9.3. Coupons_
+
+Sous réserve de ne pas avoir utilisé votre coupon vous pouvez vous rétracter dans les 14 jours suivants la réception ou la mise à disposition de votre coupon.
+
+Pour exercer votre droit de rétractation, vous devez notifier votre intention de vous rétracter grâce à une déclaration dénuée d'ambiguïté :
+
+· Directement depuis votre compte personnel en accédant à l'onglet « Vos commandes ».
+
+· En vous adressant directement à notre service client à l'adresse email suivante [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) et/ou via le formulaire de contact accessible **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
+
+· En nous retournant le formulaire de rétractation complété, téléchargeable **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf)** .
+
+9.3 Les exceptions au droit de rétractation
 
 Vous ne pourrez pas exercer votre droit de rétractation pour :
 
-\- les services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après votre accord exprès et votre renoncement exprès au droit de rétractation ;
+\- les services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après votre accord exprès et votre reconnaissance de la perte du droit de rétractation attaché au service une fois ce dernier pleinement exécuté ; ;
 
 \- les produits ou services dont le prix est fonction de fluctuations des taux du marché financier échappant au contrôle du professionnel et susceptibles de se produire pendant le délai de rétractation ;
 
 \- les produits confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
 
-\- les produits susceptibles de se détériorer ou de se périmer rapidement, (ex. denrées alimentaires, plantes ou liquides) ;
+\- les produits susceptibles de se détériorer ou de se périmer rapidement, (ex. denrées alimentaires, plantes) ;
 
 \- les produits qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé ;
 
@@ -352,7 +422,7 @@ Vous ne pourrez pas exercer votre droit de rétractation pour :
 
 \- les contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
 
-7.4 A quel moment serez-vous remboursé ?
+9.4 A quel moment serez-vous remboursé ?
 
 L'exercice du droit de rétractation donne lieu à un remboursement des sommes versées au plus tard quatorze (14) jours à compter de la réception du colis. Ce délai pourra être allongé jusqu'au jour de réception de votre colis si vous n'êtes pas en mesure de nous rapporter la preuve de l'expédition de vos produits.
 
@@ -366,11 +436,11 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- En cas d'annulation partielle de votre commande, le montant correspondant à l'annulation vient en déduction des sommes restant dues au jour de l'annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
-**Article 8 - Quelles garanties pour vos produits ?**
+**Article 10 - Quelles garanties pour vos produits ?**
 
 Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
 
-8.1 Les garanties légales
+10.1 Les garanties légales
 
 Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
@@ -380,7 +450,7 @@ La garantie légale de conformité s'applique indépendamment de la garantie com
 
 Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
 
-_8.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
+_10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
 
 **Pour les Produits achetés avant le 1er janvier 2022** , vous :
 
@@ -418,7 +488,7 @@ Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de con
 
 \- Pouvez demander la mise en conformité de l'élément numérique inclus dans le bien.
 
-_Article 8.1.2. Garantie légale de conformité des contenus et services numériques_
+_Article 10.1.2. Garantie légale de conformité des contenus et services numériques_
 
 Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :
 
@@ -436,55 +506,59 @@ Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de con
 
 La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage.
 
-8.2 La garantie commerciale
+10.2 La garantie commerciale
 
 Dans certains cas, une garantie commerciale peut vous être proposée directement par les fournisseurs avec qui nous travaillons. Si c'est le cas, vous en serez informés sur la fiche descriptive des produits concernés, mais aussi sur la facture de vos produits. En cas de doute, vous pouvez également contacter notre service client pour savoir si votre produit bénéficie d'une garantie commerciale.
 
-8.3 Comment mettre en œuvre mes garanties ?
+10.3 Comment mettre en œuvre mes garanties ?
 
-Si vous souhaitez bénéficier de l'une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant [ici](https://www.showroomprive.com/nouscontacter/faq.aspx), ou le cas échéant en nous contactant à l'adresse suivante : serviceclient.fr@showroomprive.com. N'oubliez pas d'y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
+Si vous souhaitez bénéficier de l'une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** , ou le cas échéant en nous contactant à l'adresse suivante : serviceclient.fr@showroomprive.com. N'oubliez pas d'y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
 
 Vous recevrez alors une étiquette prépayée à apposer sur le colis pour nous renvoyer votre produit non conforme. Au retour de votre produit, la non-conformité sera contrôlée par nos équipes. En cas de fausse déclaration, une somme forfaitaire de 6.50€ sera déduite de votre remboursement. En cas de produits volumineux non conformes, nous vous invitons à contacter notre service client.
 
-8.4 Exclusions
+10.4.Exclusions
 
 Ne pourront pas bénéficier des garanties les produits que vous avez modifié, réparé, intégré, ou ajouté, les produits dont les vices sont apparents au moment de l'achat, et les produits endommagés suite à une mauvaise utilisation.
 
-**Article 9 - Comment utiliser vos avantages Showroomprive ?**
+**Article 11 - Comment utiliser vos avantages Showroomprive ?**
 
 Pour vous remercier de votre fidélité, Showroomprive vous propose de nombreux avantages ! Il peut arriver que vous receviez une belle surprise par email ou que des avantages soient proposés sur le Site.
 
 Vous pouvez consulter tous ces avantages et leurs modalités d'utilisation dans votre compte, rubrique « Mes avantages ».
 
-Profitez également de notre offre parrainage ! N'hésitez pas à faire profiter à vos amis de nos ventes évènementielles. Pour plus d'informations, rendez-vous sur nos pages d'aide [ici](https://www.showroomprive.com/nouscontacter/faq.aspx), consultez la rubrique « Mon compte » puis « Je souhaite effectuer un parrainage et gagner des avantages ».
+Profitez également de notre offre parrainage ! N'hésitez pas à faire profiter à vos amis de nos ventes évènementielles. Pour plus d'informations, rendez-vous sur nos pages d'aide **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** , consultez la rubrique « Mon compte » puis « Je souhaite effectuer un parrainage et gagner des avantages ».
 
 A noter : Vos avantages parrainage sont des moyens de paiement. A ce titre, lorsque vous exercez votre droit de rétractation, le remboursement associé sera effectué par transaction inversée c'est-à-dire en avantage du même montant (si toutefois les conditions de cet avantage prévoient qu'il est remboursable).
 
-Les modalités de remboursement des achats effectués avec un avantage sont accessibles [ici](https://www.showroomprive.com/nouscontacter/faq.aspx).
+Les modalités de remboursement des achats effectués avec un avantage sont accessibles **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
-**Article 10 - Et vos données dans tout ça ?**
+**Article 12 - Et vos données dans tout ça ?**
 
 Lors de votre visite sur le Site, vos données sont susceptibles de faire l'objet d'un traitement informatique. Nous vous invitons à vous reporter à notre [« Politique de Confidentialité et de protection de la vie privée - Cookie ».](https://www.showroomprive.com/politique_confidentialite.aspx)
 
-**Article 11 - Que se passe-t-il si vous n'êtes pas satisfaits ?**
+**Article 13 - Liste d'opposition au démarchage téléphonique**
+
+Comme indiqué dans notre Politique de Confidentialité, Showroomprivé.com peut être amenée à recueillir votre numéro de téléphone notamment lors du passage de votre commande ou encore lorsque que vous le renseigner dans des formulaires dédiés sur notre site. Vous disposez du droit de vous inscrire gratuitement sur la liste d'opposition au démarchage téléphonique Bloctel. Pour plus d'informations nous vous invitons à consulter directement le site [Bloctel](https://www.bloctel.gouv.fr/).
+
+**Article 14 - Que se passe-t-il si vous n'êtes pas satisfaits ?**
 
 Nos conditions générales de vente sont soumises au droit français, Chaque commande est soumise aux CGV en vigueur au jour de sa passation. En cas de litige, nous vous invitons à nous contacter afin de trouver ensemble une solution amiable :
 
-\- Par le formulaire de contact disponible [ici](https://www.showroomprive.com/nouscontacter/faqp.aspx?res=6) ;
+\- Par le formulaire de contact disponible **[ici](https://www.showroomprive.com/nouscontacter/faqp.aspx?res=6)** ;
 
 \- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
 
 \- Par email à l'adresse suivante : [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) .
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Showroomprive.com adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie - 75008 Paris - http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de Showroomprive.com, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/) .
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Showroomprive.com adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie - 75008 Paris - http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de Showroomprive.com, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer **[ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/)** .
 
 La Commission Européenne met également à votre disposition une plateforme de résolution des litiges accessible à l'adresse suivante : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/) .
 
 Dans le cas où aucune solution amiable ne serait trouvée, les tribunaux français seront compétents.
 
-**Article 12 - Mentions légales**
+**Article 15 - Mentions légales**
 
-Showroomprive.com est titulaire de la licence d'agent de voyage n° IM093110007 délivrée par la Préfecture de Seine Saint-Denis et dispose de la garantie financière auprès de la compagnie Groupama Assurance-crédit & Caution, 8-10 rue d'Astorg - 75008 Paris (entreprise régie par le Code des assurances). Pour consulter nos Conditions Générales de Vente Voyage, cliquez [ici](https://www.showroomprive.com/contratcgvvoyage.aspx) .
+Showroomprive.com est titulaire de la licence d'agent de voyage n° IM093110007 délivrée par la Préfecture de Seine Saint-Denis et dispose de la garantie financière auprès de la compagnie Groupama Assurance-crédit & Caution, 8-10 rue d'Astorg - 75008 Paris (entreprise régie par le Code des assurances). Pour consulter nos Conditions Générales de Vente Voyage, cliquez **[ici](https://www.showroomprive.com/contratcgvvoyage.aspx)** .
 
 La responsabilité civile professionnelle de Showroomprive.com est couverte par la compagnie d'assurances GAN Eurocourtage (7 place du Dôme- TSA 59876 - 92 099 La Défense cedex - Tel : 01.70.96.60.00), sous la police d'assurance n° 186212201.
 
