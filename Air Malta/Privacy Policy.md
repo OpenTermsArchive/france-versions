@@ -169,7 +169,7 @@ Il se peut que vous receviez des informations relatives à la prospection commer
 
 Nous sommes également susceptibles de vous envoyer des informations relatives à la prospection commerciale via un tiers. Si, le cas échéant, nous souhaitons autoriser un tiers à vous envoyer des informations dont le contenu n’est pas directement lié à Air Malta, nous nous emploierons d’abord à obtenir votre consentement avant de communiquer toute donnée personnelle vous concernant.
 
-Si vous avez consenti par le passé à l’utilisation de vos données personnelles à des fins de prospection commerciale et que souhaitez retirer votre consentement, vous pouvez vous désinscrire à tout moment ou nous contacter à l’adresse suivante : [dpo.a\[email protected\]](https://airmalta.com/cdn-cgi/l/email-protection#removed).
+Si vous avez consenti par le passé à l’utilisation de vos données personnelles à des fins de prospection commerciale et que souhaitez retirer votre consentement, vous pouvez vous désinscrire à tout moment ou nous contacter à l’adresse suivante : [\[email protected\]airmalta.com](https://airmalta.com/cdn-cgi/l/email-protection#removed).
 
 **Sécurité, conservation et transfert**
 
