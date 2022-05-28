@@ -186,6 +186,8 @@ Spotify respecte les droits des propriétaires de propriété intellectuelle. Si
 
 La [Communauté d'assistance de Spotify](https://community.spotify.com/) est un lieu de discussion et d'échange d'informations, de conseils et autres supports liés au Service Spotify. En utilisant la Communauté d'assistance de Spotify, vous acceptez les [Conditions de la communauté](https://www.spotify.com/legal/support-community-end-user-agreement/).
 
+Si vous souhaitez nous parler, cliquez [ici](https://support.spotify.com/article/additional-options/) pour obtenir de plus amples informations.
+
 #### [**Assistance client, informations, questions, réclamations**](#assistance-client-informations-questions-réclamations)
 
 Pour toute question relative à l'assistance client et au paiement (les << **Questions d'assistance client** >>), veuillez utiliser les ressources d'assistance client répertoriées dans la rubrique [Qui sommes-nous ?](https://www.spotify.com/about-us/contact/) de notre site Web.
