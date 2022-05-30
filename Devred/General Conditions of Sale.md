@@ -69,7 +69,7 @@ Toute confirmation de commande vaut irrévocablement acceptation des prix et des
   
 Le paiement de votre commande doit être effectué :  
 
-*   par carte bancaire ou carte de crédit, les cartes acceptées sont la Carte Bleue, Visa, Mastercard, American Express  ![Paiement par carte bancaire (visa, mastercard, american express, carte bleue)](https://www.devred.com/fstrz/r/s/c/www.devred.com/media/wysiwyg/paiement/paiement-carte-bancaire-visa-mastercard-amex.jpg.avif?frz-v=369)
+*   par carte bancaire ou carte de crédit, les cartes acceptées sont la Carte Bleue, Visa, Mastercard, American Express 
 *   par paypal  
 *   Par carte cadeau Devred (saisir le code de la carte + le code de sécurité à gratter)
 *   En 3x sans frais à partir de 100 € avec  Alma
