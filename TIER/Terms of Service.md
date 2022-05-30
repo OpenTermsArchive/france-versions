@@ -1,6 +1,7 @@
 **CONDITIONS GÉNÉRALES D’UTILISATION**
 
-Dernière mise à jour : 16.09.2021
+Dernière mise à jour : 30.05.2022  
+Télécharger version en vigueur. [20220530\_France CGV](https://about.tier.app/wp-content/uploads/20220530_France-CGV.pdf)
 
 ### Article 1 : Objet
 
@@ -29,7 +30,7 @@ Dernière mise à jour : 16.09.2021
 4.  Il est interdit aux Clients d’extraire, copier ou manipuler l’Application TIER en utilisant des méthodes informatiques. Toute violation de cette interdiction ou tout cas dans lequel il y a lieu de supposer qu’une tentative correspondante a été faite immédiatement entraînera la perte de l’accès du Client à l’Application TIER. Dans ce contexte, TIER se réserve le droit de faire valoir ses droits.
 5.  Les Clients doivent informer TIER sans délai de toute perte ou tout vol du téléphone portable lié au compte d’utilisateur ou de toute autre possibilité que le compte utilisateur soit utilisé par des tiers non autorisés. Afin d’éviter tout abus, TIER désactivera l'accès au compte utilisateur jusqu’à ce que la question soit résolue et informera le Client par courrier électronique du fait que l’accès a été désactivé.
 
-### Article 4 : Réservation et conclusion de contrats de location
+### Article 4 : Réservation et conclusion de contrats de location; **Trajet de Groupe**
 
 1.  L’utilisation des Véhicules TIER n’est possible que s’ils ont été marqués comme étant disponibles dans l’Application TIER. Il ne peut être exclu que, dans des cas spécifiques, un signal GPS inexact entraîne des écarts entre la position réelle du Véhicule TIER et la position indiquée dans l’Application TIER.
 2.  En appuyant sur le bouton « Commencer le trajet » dans l’Application TIER, les Clients accepteront la location du Véhicule TIER qu’ils ont réservé. En autorisant l’utilisation du Véhicule TIER, TIER confirmera la location. 
@@ -38,6 +39,8 @@ Dernière mise à jour : 16.09.2021
 5.  Les Clients sont tenus de signaler au service Clientèle de TIER, dès constatation et au plus tard avant de commencer à utiliser le Véhicule TIER tout cas de défaut, dommage ou salissure excessive dont ils ont connaissance concernant l’usure des pneus, le garde-boue endommagé, l’absence de plaque d’immatriculation, ou toute autre composante visible du Véhicule TIER. Les Clients sont tenus de fournir des informations complètes et véridiques à cet égard.
 6.  Si ces défauts, dommages ou salissures excessives sont manifestement susceptibles de nuire à la sécurité routière ou aux fonctionnalités générales du Véhicule TIER ; dans ces circonstances, les Clients doivent s’abstenir d’utiliser le Véhicule TIER.
 7.  TIER est autorisée à appeler le Client sur le numéro de téléphone mobile stocké dans la section des renseignements personnels de son compte utilisateur en cas de perturbations importantes de la procédure d’utilisation.
+8.  Dans certaines villes, TIER vous offre la possibilité de louer plusieurs Véhicules TIER en même temps dans le cadre d'un trajet en groupe ("**Trajet de Groupe**"). Les Trajets de Groupe sont soumises à leur offre et disponibilité dans la Zone opérationnelle respective, telle qu’indiquée sur l’Application TIER.  
+    Afin de réaliser un Trajet de Groupe, vous devez vous assurer que chacun de vos invités prend connaissance de nos conditions générales d’utilisation et, en particulier, que chacun de vos invités soit âgé d’au moins 18 ans, et que tous les Véhicules TIER que vous louez dans le cadre d’un Trajet de Groupe soient correctement utilisés et garés. En outre, vous acceptez de payer tous les frais encourus dans le cadre de votre Trajet de Groupe et vous êtes responsable de tous les dommages causés par vos invités, ce que vous devez signaler immédiatement. Les trajets individuels dans le cadre d’un Trajet de Groupe ne peuvent être terminés que lorsque les Véhicules TIER ne sont plus utilisés par les invités respectifs.
 
 ### Article 5 : Fin de la location
 
