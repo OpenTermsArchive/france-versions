@@ -1,4 +1,10 @@
-### 1\. Nos engagements dans la protection des données personnelles
+Charte de protection des données personnelles des clients
+=========================================================
+
+  
+
+1\. Nos engagements dans la protection des données personnelles
+---------------------------------------------------------------
 
   
 
@@ -22,7 +28,7 @@ Quel que soit le canal de vente ou de contact que vous utilisez, GO Sport s’en
 
   
 
-Les Grands Principes
+### Les Grands Principes
 
   
 
@@ -42,11 +48,12 @@ GO Sport s’engage sur les principes essentiels pour le respect des droits fond
 
   
 
-### 2\. Nos usages de vos données personnelles
+2\. Nos usages de vos données personnelles
+------------------------------------------
 
   
 
-2.1 A quelles occasions collectons-nous vos données personnelles ?
+### 2.1 A quelles occasions collectons-nous vos données personnelles ?
 
   
 
@@ -66,7 +73,7 @@ _\- de l’exécution d’une obligation légale_
 
   
 
-2.2 Quelle est la nature des données collectées ?
+### 2.2 Quelle est la nature des données collectées ?
 
   
 
@@ -130,7 +137,7 @@ Ces catégories de données personnelles particulières ne font jamais l’obj
 
   
 
-2.3 Comment utilisons-nous vos données ?
+### 2.3 Comment utilisons-nous vos données ?
 
   
 
@@ -152,7 +159,7 @@ Ces traitements sont mis en oeuvre en prenant en compte vos intérêts et vos dr
 
   
 
-2.4 Pourquoi collectons-nous vos données ?
+### 2.4 Pourquoi collectons-nous vos données ?
 
   
 
@@ -188,7 +195,7 @@ _‐ pour des besoins techniques (ex : accéder à votre compte client, mémoris
 
   
 
-2.5 Quelles analyses réalisons-nous sur vos données ?
+### 2.5 Quelles analyses réalisons-nous sur vos données ?
 
   
 
@@ -222,7 +229,7 @@ Voici un exemple. Imaginons qu'un industriel souhaite diffuser une offre spécia
 
   
 
-2.6 Qui sont les destinataires de vos données personnelles ?
+### 2.6 Qui sont les destinataires de vos données personnelles ?
 
   
 
@@ -238,7 +245,7 @@ Certaines données personnelles peuvent aussi être adressées à des tiers pour
 
   
 
-2.7 Où sont stockées vos données personnelles ?
+### 2.7 Où sont stockées vos données personnelles ?
 
   
 
@@ -256,7 +263,7 @@ Dans le cadre d’un transfert vers un pays hors Union Européenne, des règles 
 
   
 
-2.8 Combien de temps nous conservons vos données personnelles ?
+### 2.8 Combien de temps nous conservons vos données personnelles ?
 
   
 
@@ -266,7 +273,8 @@ Les durées de conservations des données respectent les recommandations de la C
 
   
 
-### 3\. Comment exercer vos droits d’accès ?
+3\. Comment exercer vos droits d’accès ?
+----------------------------------------
 
   
 
@@ -274,11 +282,12 @@ Vous pouvez exercer vos droits d’accès par courrier accompagné d’une copie
 
   
 
-### 4\. Nos mesures de sécurisation des données
+4\. Nos mesures de sécurisation des données
+-------------------------------------------
 
   
 
-4.1 Nos engagements de sécurité et de confidentialité
+### 4.1 Nos engagements de sécurité et de confidentialité
 
   
 
@@ -310,7 +319,7 @@ Au sein de GO Sport, nous nous engageons totalement pour protéger les données 
 
   
 
-4.2 Notre délégué à la protection des données personnelles
+### 4.2 Notre délégué à la protection des données personnelles
 
   
 
@@ -318,7 +327,8 @@ Nous avons désigné un délégué à la protection des données personnelles (D
 
   
 
-### 5\. Glossaire
+5\. Glossaire
+-------------
 
   
 
