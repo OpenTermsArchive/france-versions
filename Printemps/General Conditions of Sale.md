@@ -1021,7 +1021,7 @@ Article 12 - Service client
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
-*   par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 20h
+*   par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 19h (UTC+1, Paris)
 *   par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
 *   via le formulaire accessible en ligne à l'adresse suivante [**www.printemps.com/fr/fr/contact**](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/contact)
 
