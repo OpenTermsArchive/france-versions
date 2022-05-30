@@ -38,7 +38,7 @@ Les présentes Conditions d’achat de l'UE s’appliquent à toute transaction 
 
 A. 2. DÉFINITIONS.
 
-Les termes **« Société »** , **« nous »** , **« notre »** ou **« nos »** seront utilisés pour décrire votre partenaire contractuel qui sera le vendeur respectif de votre produit, qui varie en fonction de votre propre emplacement : Si vous êtes situé dans les pays de l’Union européenne, le vendeur et votre partenaire contractuel sont Infinite Styles Ecommerce Co., Ltd., 1-2 Victoria Building, Haddington Road, Dublin 4, Irlande, [legal@shein.com](mailto:legal@shein.com) .
+Les termes **« Société »** , **« nous »** , **« notre »** ou **« nos »** seront utilisés pour décrire votre partenaire contractuel qui sera le vendeur respectif de votre produit, qui varie en fonction de votre propre emplacement : Si vous êtes situé dans les pays de l’Union européenne, le vendeur et votre partenaire contractuel sont Infinite Styles Ecommerce Co., Ltd., G01 & 101, T/A Grafter Offices, 55 Percy Place, Dublin, 4 D04 E1W7, Irlande, [legal@shein.com](mailto:legal@shein.com) .
 
 Lorsque vous achetez un produit ou plusieurs produits via notre Site ou nos Applications, nous parlons d’ **« Achats »** .
 
@@ -172,7 +172,7 @@ Nous expédions à partir de différents entrepôts dans différents pays. Pour 
 
 B. 9. TITRE ET RISQUE DE PERTE.
 
-Sauf accord contraire, l’expédition sera effectuée à l’adresse de livraison que vous avez indiquée. Le titre de propriété et le risque de dommage ou de perte des produits vous sont transférés lors de la livraison de votre commande au transporteur international pour livraison dans votre pays. Nous vous encourageons à acheter la garantie d’expédition (assurance), si elle est disponible sur le Site, pour vous assurer d’être indemnisé en cas de perte ou d’endommagement de votre commande pendant l’expédition.
+Sauf accord contraire, l’expédition sera effectuée à l’adresse de livraison que vous avez indiquée. Le titre de propriété et le risque de dommage ou de perte des produits vous sont transférés lors de la livraison de votre commande au transporteur international pour livraison dans votre pays.
 
 B. 10. GARANTIE ET RETOUR DES PRODUITS.
 
@@ -212,7 +212,7 @@ Vous n’êtes responsable que de toute valeur diminuée des marchandises résul
 
 Si vous résidez dans l’Union européenne :
 
-*   1.À : Infinite Styles Ecommerce Co., Ltd., 1-2 Victoria Building, Haddington Road, Dublin 4, Irlande,
+*   1.À : Infinite Styles Ecommerce Co., Ltd., G01 & 101, T/A Grafter Offices, 55 Percy Place, Dublin, 4 D04 E1W7, Irlande,
 *   2.Par la présente, je/nous (\*) vous informe/informons que je/nous (\*) me/nous retire/retirons du (\*) contrat de vente des marchandises suivantes (\*)/pour la fourniture du service suivant (\*) :
 *   3.Commandé le (\*)/reçu le (\*) :
 *   4.Nom du/des consommateur(s) :
