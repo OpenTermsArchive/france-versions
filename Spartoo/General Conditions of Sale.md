@@ -195,7 +195,7 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5€ si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 3 € si compris entre 40 € et 60 €  <br>5€ si inferieur à 40€ d'achats  <br>Gratuit à partir de 60 € d'achats |
+| 5€ si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 5€ si inferieur à 20€ d'achats  <br>3 € si compris entre 20 € et 60 €  <br>Gratuit à partir de 60 € d'achats |
 
   
 
