@@ -1,6 +1,8 @@
 Conditions générales d'utilisation de l'Application Bolt
 --------------------------------------------------------
 
+**Veuillez télécharger ces termes et conditions [ici](https://assets.ctfassets.net/tk7rwcciwvbq/6mDbbPqgpCqqpGQIl9LxA5/28831ca06e335b108bae4942d22589e4/General_Terms_for_Passengers_-FR_2022_05_30-.docx.pdf).**
+
 #### 1\. Champ d'application
 
 Les présentes conditions générales d'utilisation (les "**Conditions Générales**") fixent le cadre juridique régissant l'accès à l'application Bolt (l'"**Application**") et son utilisation par un utilisateur qui doit être âgé d'au moins dix-huit (18) ans (l'"**Utilisateur**" ou "**vous**"). L'Application appartient à Bolt Operations OÜ, société à responsabilité limitée de droit Estonien enregistrée sous le numéro 14532901 ("Bolt Operations OÜ") ci-après, "Bolt" ou "_nous_".
