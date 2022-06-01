@@ -169,5 +169,3 @@ Veuillez prendre le temps de vous familiariser avec nos pratiques en matière de
     Si la réponse d’Apple ne vous satisfait pas, vous pouvez transmettre votre réclamation à l’organisme de réglementation applicable. Si vous nous le demandez, nous nous efforcerons de vous donner des informations sur les recours possibles applicables à votre situation.
     
     En cas de modification importante du présent Engagement de confidentialité, nous publierons une notification sur ce site web au moins une semaine à l’avance et nous vous contacterons directement au sujet de la modification si nous avons vos coordonnées.
-    
-    Apple Inc., One Apple Park Way, Cupertino, Californie, États-Unis, 95014
