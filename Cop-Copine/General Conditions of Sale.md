@@ -117,7 +117,7 @@ La société NEDEL s’engage à proposer l’annulation et le remboursement d�
    
 **6.2 Frais de Port**  
   
-Il est demandé au Client une participation aux frais de port et de préparation de commande d’un montant de 4,75 € TTC (quatre euros et soixante-quinze centimes) pour les commandes expédiées via Colissimo et 3.90€ TTC (trois euros et quatre-vingt-dix centimes) pour les commandes expédiées via Mondial Relais. Ces frais sont offerts pour toute commande supérieure à 49,00 € TTC (quarante-neuf euros).
+Il est demandé au Client une participation aux frais de port et de préparation de commande d’un montant de 8.9 € TTC (huit euros et quatre-vingt dix centimes) pour les commandes expédiées via Colissimo et 3.90€ TTC (trois euros et quatre-vingt-dix centimes) pour les commandes expédiées via Mondial Relais. Ces frais sont offerts pour toute commande supérieure à 49,00 € TTC (quarante-neuf euros).
 
 VII – RECEPTION DE LA COMMANDE
 ------------------------------
@@ -285,21 +285,4 @@ Adresse du/des consommateur(s) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
    
 Date : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
    
-Signature du/des consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-   
-   
- 
-
-ANNEXE III - Bon d'achat EASTER valable du 14 au 24 Avril 2022 inclus
----------------------------------------------------------------------
-
-*   Le bon d’achat est remis sous forme de code promotionnel et est valable sur toute commande d'articles de la collection Printemps-Été 2022 pour un montant minimum d'achat de 200 €.
-*   Le bon d'achat peut être cumulable uniquement avec les offres promotionnelles en cours de la collection Printemps-Été 2022, notamment l'opération Spring Sales.
-*   Le bon d'achat est valable du14 au 24 Avril 2022 inclus sur notre site internet et dans les boutiques cop.copine.
-*   Si la valeur de la commande est supérieure au montant d'un bon d’achat, la différence doit être réglée par le Client par l’un des autres moyens de paiement proposé sur le site.
-*   Le Client ne peut pas utiliser plusieurs bons d’achat pour régler une même commande
-*   Le bon d'achat n’est pas utilisable pour une commande déjà validée
-*   Un achat payé avec un bon d’achat en totalité ou en complément d’un autre moyen de paiement ne peut pas faire l’objet d’un remboursement ni totalement ni partiellement.
-*   Le bon d’achat n’est pas valable sur les frais de port
-*   Le Client ne pourra pas obtenir d’avoir au titre de la différence de valeur entre le montant du bon d’achat et le montant de l’achat effectué, dans le cas où le montant du bon d’achat utilisé serait supérieur à celui de l’achat effectué.
-*   Pour plus d'informations contacter notre service client par e-mail à l’adresse suivante : [service-clients@cop-copine.com](mailto:service-clients@cop-copine.com) ou depuis l'interface de chat sur notre site internet.
+Signature du/des consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_
