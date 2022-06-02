@@ -119,10 +119,10 @@ Les tarifs de livraisons ainsi que le coût des retours sont indiqués dans le t
 | --- | --- | --- | --- | --- |
 | MODE DE LIVRAISON | PAYS DE LIVRAISON | COÛTS | DELAIS | COÛT DU RETOUR |
 | BOUTIQUE | France Métropolitaine | Gratuit | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
-| RELAIS COLIS | France Métropolitaine et Monaco | 4,95€ et Gratuit dés 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
-| COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€ et Gratuit dés 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge |
-| DHL EXPRESS | Belgique | 12€ | 3 à 8 jours | A votre charge |
-| DHL EXPRESS | Luxembourg | 12€ | 3 à 8 jours | A votre charge |
+| RELAIS COLIS | France Métropolitaine et Monaco | 4,95€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
+| COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge |
+| DHL EXPRESS | Belgique | 12€ | 3 à 8 jours | A votre charge,  <br>transporteur au choix |
+| DHL EXPRESS | Luxembourg | 12€ | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
 
   
 \* hors boutiques NAF NAF Outlet  
@@ -148,83 +148,118 @@ Les Boutiques du réseau NAF NAF sont variées, certaines disposant de spécific
 
 |     |     |
 | --- | --- |
-| **NAF NAF OUTLET (boutiques de déstockage)** |     |
+| **NAF NAF OUTLET (boutiques de déstockage)** |     |
 | **NAF NAF TROYES** | Centre Mac Arthur Glen – Voie du Bois – 10150 Sainte-Marie |
-| **NAF NAF ROUBAIX** | Cellule B005 – 228 Avenue Alfred Motte – 59100 Roubaix |
-| **NAF NAF ONE NATION** | 1, avenue du Président John Fitzgerald Kennedy – 78340 Les Clayes Sous-Bois |
 | **NAF NAF ILE ST-DENIS** | 9, Quai Chatelier – L’ile St Denis |
 | **NAF NAF NAILLOUX** | Nailloux Outlet Village Lieu-dit Le Grill – 31560 Nailloux |
 
-   
+  
 Les échanges et l’E-réservation ne sont pas possibles dans les Boutiques NAF NAF Outlet tout comme le Click & Collect, ainsi que l’énonce l’article 5.5 vii.  
  
 
-ARTICLE 8. GARANTIE DE CONFORMITÉ – GARANTIE DES VICES CACHÉS
--------------------------------------------------------------
-
-Le Client est tenu de vérifier la conformité des articles reçus en exécution de sa commande au moment de la livraison. Toute anomalie concernant la livraison telle que colis endommagé, article(s) manquant(s), article(s) détérioré(s), article(s) non conforme(s) à la commande (liste non limitative) devra être notifiée dans les délais légaux soit 14 jours après réception de la commande.  
-Passé ces délais légaux, sauf vice caché, aucune réclamation ne sera acceptée par NAF NAF, les articles étant alors jugés conformes.  
-  
-   
-Pour tout retour d’article non-conforme, le Client devra respecter la procédure suivante:
-
-*   Le Client devra joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
-    Aucun retour ne pourra être accepté sans ledit bon de retour dûment complété.
-*   Les articles devront être renvoyés soit dans leur emballage d'origine, soit dans un emballage les protégeant contre toute détérioration avec leur étiquette et leurs éventuels accessoires permettant leur nouvelle commercialisation à l'adresse mentionnée ci-après.
-
-NAF NAF  
-LOGISTIQUE NC – RETOUR E-COMMERCE  
-ZAC de la Butte aux Bergers  
-17 Avenue du Noyer à la Malice  
-95380 LOUVRES  
-   
-Les retours ne seront pas acceptés en boutique.  
-Les frais de retour seront à la charge exclusive de NAF NAF.  
-Lorsque la non-conformité aura été constatée, NAF NAF proposera au Client le remboursement du prix de la commande (prix de (ou des) l’article(s) et frais de livraison) ainsi que les frais de retour de (ou des) l’article(s) non-conforme(s), au plus tard dans les trente (30) jours à compter de la date d'envoi de la notification de la confirmation de la non-conformité par le Service Client.  
-S’agissant du remboursement des frais de retour, NAF NAF se réfère à la grille tarifaire affichée par La Poste au 1er mars de l'année en cours (livraison Colissimo sans recommandé). Le Client devra transmettre un justificatif des frais de retour engagés au Service Client, par email ou par courrier (adresse susvisée).  
-En cas de réclamations anormales ou abusives, NAF NAF pourra refuser de servir une commande ultérieure.  
-Cette garantie ne couvre pas les défauts occasionnés du fait d'une utilisation anormale ou fautive ou résultant d'une cause étrangère aux qualités intrinsèques des articles.  
-En tout état de cause, les dispositions qui précèdent ne sont pas exclusives de l'application de la garantie légale des vices cachés des articles 1641 et suivants du Code civil, conformément aux dispositions de l'article L. 217-4 du Code de la consommation.  
-Le Client pourra exercer ces garanties en adressant sa demande au Service Client en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php
-
-ARTICLE 9. DROIT DE RÉTRACTATION – RETOURS
+ARTICLE 8. DROIT DE RÉTRACTATION – RETOURS
 ------------------------------------------
 
 Conformément à la législation en vigueur, et notamment aux articles L.221-18 à L. 221-28 du Code de la consommation, le Client dispose d'un délai de quatorze (14) jours suivant la réception de l’article pour exercer son droit de rétractation, sans avoir à justifier sa décision ni à supporter de pénalités.  
 Dans le cas d'une commande portant sur plusieurs articles livrés séparément ou dans le cas d'une commande composée de lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai court à compter de la réception du dernier article du lot ou de la dernière pièce.  
 Pour les contrats prévoyant la livraison régulière d’articles pendant une période définie, le délai court à compter de la réception du premier article.  
+  
 Le Client dispose ensuite, conformément à l’article L.221-23 du Code de la consommation, d’un délai de quatorze (14) jours suivant la notification de sa décision de se rétracter pour retourner l’ (ou les) article(s).  
+   
+En cas d’articles reçus endommagés ou non-conformes, la procédure de l’article 9 trouve à s’appliquer.  
+  
 Seuls les articles commandés sur notre site et faisant l’objet d’une même commande peuvent être retournés dans un même colis. Si nos entrepôts ne sont pas en mesure d’associer un article à la commande retournée, le remboursement de cet article ne sera pas engagé.  
   
-Pour tout retour dans le cadre du droit de rétractation, la procédure ci-dessous doit être intégralement et scrupuleusement respectée :
+Pour tout retour dans le cadre du droit de rétractation, la procédure ci-dessous doit être intégralement et scrupuleusement respectée :  
+ 
 
 *   Le Client doit joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
     Aucun retour ne pourra être accepté sans ledit bon de retour dûment complété.
-*    Les articles doivent être renvoyés dans leur emballage d'origine, avec leur étiquette et leurs éventuels accessoires, dans un état permettant leur commercialisation immédiate à l’adresse suivante :
 
+ 
+
+*    Les articles doivent être renvoyés dans leur emballage d'origine, avec leur étiquette et leurs éventuels accessoires, dans un état permettant leur commercialisation immédiate à l’adresse suivante, selon les modalités de transport prévues à l’article 6 des présentes CGV :
+
+   
 NEW NAF NAF  
 LOGISTIQUE NC – RETOUR E-COMMERCE  
 ZAC de la Butte aux Bergers  
-17 Avenue  du Noyer à la Malice  
+17, Avenue  du Noyer à la Malice  
 95380 LOUVRES   
   
 En tout état de cause, la procédure de retour est systématiquement vérifiée par NAF NAF, notamment la concordance entre le produit retourné et le produit pour lequel la procédure a été initiée par le Client, ce dernier s’exposant à des sanctions pénales en cas de fraude.  
-  
 En cas de retour de Produit(s) ayant fait l’objet d'un achat sous offre promotionnelle tel qu’un code promo à valeur faciale fixée en euros (offre commerciale spécifique ou dédommagement exceptionnel offert par le vendeur), les conditions ci-après s’appliquent :   
  
 
 *   En cas de retour par l’Internaute de tout ou partie des Produits lui ayant permis de bénéficier d’une des offres promotionnelles décrites ci-avant, l’Internaute sera remboursé du prix du Produit retourné, duquel sera déduit la réduction appliquée initialement (réduction calculée au prorata des prix de vente des Produits faisant partie de la commande) et à laquelle le Client ne pourra plus prétendre.
-*   De même, en cas de retour sur un Produit(s) ayant bénéficié d’une remise suite à l’utilisation d’un code de bienvenue, ce même code de bienvenue ne pourra être restitué au Client pour une prochaine utilisation 
 
-  
+ 
+
+*   De même, en cas de retour sur un Produit(s) ayant bénéficié d’une remise suite à l’utilisation d’un code de bienvenue, ce même code de bienvenue ne pourra être restitué au Client pour une prochaine utilisation. 
+
+   
 Les risques et frais de retour (cf. article 6 selon les modalités de retour choisies par le Client) sont à la charge exclusive du Client lorsqu'ils ne sont pas offerts par NAF NAF.  
-  
 En cas de retour de produit, non reçu par le Service Retour de NAF NAF, il incombe au client d’entreprendre les démarches auprès du transporteur pour localiser le colis et obtenir dédommagement si le colis est déclaré perdu par celui-ci.  
   
-Dans un tel cas NAF NAF ne saurait être tenu responsable et toute démarche de dédommagement devra être entreprise par le Client à l’encontre du transporteur.  
+Dans un tel cas NAF NAF ne saurait être tenu responsable et toute démarche de dédommagement devra être entreprise par le Client à l’encontre du transporteur .  
   
 Sous réserve des conditions ci-dessus rappelées, NAF NAF remboursera le montant TTC des articles retournés au Client (prix du (ou des) article(s)) hors frais de retour.  
 Le compte bancaire du Client sera crédité dudit montant, dans les quatorze (14) jours calendaires suivant la demande de retour. Ce délai pourra être prolongé jusqu'à la réception du ou des articles par NAF NAF ou la preuve d'expédition de ceux-ci.
+
+ARTICLE 9. GARANTIE DE CONFORMITÉ – GARANTIE DES VICES CACHÉS
+-------------------------------------------------------------
+
+Tous les articles vendus sur le Site Internet de NAF NAF bénéficient de la garantie légale de conformité (articles L.217-1 et suivant du Code de la consommation) et de la garantie des vices cachés (articles 1641 et suivants du Code civil), permettant au Client de renvoyer les articles livrés défectueux ou non conformes.  
+   
+9.1 Garantie de conformité  
+   
+NAF NAF conseille au client de contrôler les articles au moment de leur livraison et dans le cas où les articles livrés seraient non conformes (erreur sur l’article, article défectueux, endommagé ou incomplet), de faire des réserves écrites au plus tard dans les trois (3) jours suivant cette livraison, auprès du transporteur pour les cas de défectueux constaté à la livraison ou de colis livré éventré, ouvert, abimé etc. ou auprès de NAF NAF pour tous les autres cas de non-conformité.   
+   
+Pour que la demande puisse être prise en compte il faut qu’une réclamation ait été effectuée dans les 3 jours de la livraison auprès du transporteur en cas de défaut relatif au colis lui-même (colis éventré, abimé, ouvert rescotché …) ou au nombre de produits présents dans le colis.  
+  
+Ainsi, l’article livré non conforme ne pourra faire l’objet que d’un remboursement, par dérogation à l’article L.217-8 du Code de la consommation que si les conditions ci-dessus ont été respectées.  
+   
+Le client dispose d’un délai de deux ans à compter de la délivrance de l’article pour agir en application de la garantie légale de conformité.  
+   
+A ce titre, il est précisé qu’à compter du 1er janvier 2022, en vertu de l’article L. 217-13 du Code de la consommation, tout article réparé dans le cadre de la garantie légale de conformité bénéficiera d'une extension de ladite garantie pour une durée de six mois. Par ailleurs, dès lors que le Client fera le choix de la réparation mais que celle-ci ne sera pas mise en œuvre par NAF NAF, le Client pourra demander le remplacement du bien, qui s'accompagnera, dans ce cas, d'un renouvellement de la garantie légale de conformité. Cette disposition s'applique soit (i) lorsque la réparation demandée ne peut être mise en œuvre dans un délai d'un mois suivant la réclamation du Client, soit (ii) avant ce délai, lorsque la non-réparation résulte d'une décision prise par NAF NAF.  
+   
+A défaut, si le remplacement de l’article ou sa réparation n’est pas possible, le Client sera alors fondé à demander le remboursement.  
+   
+   
+Pour tout retour d’article non-conforme, le Client devra respecter la procédure suivante:  
+ 
+
+*   Le Client devra joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
+    Aucun retour ne pourra être accepté sans ledit bon de retour dûment complété.
+
+ 
+
+*   Les articles devront être renvoyés soit dans leur emballage d'origine, soit dans un emballage les protégeant contre toute détérioration avec leur étiquette et leurs éventuels accessoires permettant leur nouvelle commercialisation à l'adresse mentionnée ci-après.
+
+   
+NAF NAF  
+LOGISTIQUE NC – RETOUR E-COMMERCE  
+ZAC de la Butte aux Bergers  
+17, Avenue du Noyer à la Malice  
+95380 LOUVRES  
+   
+Les retours ne seront pas acceptés en boutique.  
+Les frais de retour seront à la charge exclusive de NAF NAF.  
+  
+Lorsque la non-conformité aura été constatée, NAF NAF proposera au Client, conformément à la garantie légale de conformité, et par dérogation à l’article L. 217-8 du Code de la consommation, le remboursement du prix de la commande (prix de (ou des) l’article(s) et frais de livraison) ainsi que les frais de retour de (ou des) l’article(s) non-conforme(s), au plus tard dans les trente (30) jours à compter de la date d'envoi de la notification de la confirmation de la non-conformité par le Service Client.  
+  
+S’agissant du remboursement des frais de retour, NAF NAF se réfère à la grille tarifaire affichée par La Poste au 1er mars de l'année en cours (livraison Colissimo sans recommandé). Le Client devra transmettre un justificatif des frais de retour engagés au Service Client, par email ou par courrier (adresse susvisée).  
+  
+En cas de réclamations anormales ou abusives, NAF NAF pourra refuser de servir une commande ultérieure.  
+  
+Cette garantie ne couvre pas les défauts occasionnés du fait d'une utilisation anormale ou fautive ou résultant d'une cause étrangère aux qualités intrinsèques des articles.  
+  
+  
+9.2. Garantie des vices cachés  
+   
+En tout état de cause, les dispositions qui précèdent ne sont pas exclusives de l'application de la garantie légale des vices cachés des articles 1641 et suivants du Code civil, conformément aux dispositions de l'article L. 217-4 du Code de la consommation.  
+   
+Le Client pourra exercer ces garanties en adressant sa demande au Service Client en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php 
 
 ARTICLE 10. DROITS DE PROPRIÉTÉ INTELLECTUELLE
 ----------------------------------------------
