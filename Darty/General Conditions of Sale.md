@@ -16,7 +16,7 @@ CONSEIL.........................................................................
 
 DURABILITÉ......................................................................P. 613\. L’information sur les produits durables ...........................................P. 614\. La réparation de tous vos produits ...................................................P. 715\. Intervention possible en 24 h à domicile pour vos produitsvolumineux en panne ..........................................................................P. 12
 
-TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES ..................................................................................................... P. 16
+TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
 \- 24 mai 2022 - 3
 
@@ -96,12 +96,6 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 CONSEIL
 
-
-
-(1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
-
-
-
 10\. Le Conseil client en magasin
 
 Nos experts vous informent en magasin sur les nouveautés, vous guident dans l’achat et l’utilisationde vos produits.
@@ -117,6 +111,8 @@ sav.darty.com.
 12\. L’assistance téléphoniqueAssistance 24 h/7 j au 0 978 970 970 (1)
 
 Assistance pour tous les produits ou services sous garantie achetés chez Darty.Appelez-nous avant de vous déplacer en magasin : nos équipes, spécialisées par type de produits etservices, s’engagent à répondre à vos questions.
+
+(1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
 \- 24 mai 2022 - 6
 
@@ -164,7 +160,7 @@ Et lorsque vous achetez chez Darty, vous bénéficiez en plus des avantages du S
 
 Les garanties sur-mesure
 
-Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en magasin ou sur darty.com.
+Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en annexe.
 
 DURABILITÉ
 
@@ -734,17 +730,291 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
+\- 24 mai 2022 - 16
+
+
+
+Gros électroménagerExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Prix Produit (1) Tarifs Cuisson\* Tarifs Lavage\*\* Tarifs Froid\*\*\*0 € à 99 € 49,99 € 69,99 € 49,99 €100 € à 199 € 59,99 € 79,99 € 59,99 €200 € à 299 € 69,99 € 109,99 € 79,99 €300 € à 399 € 79,99 € 139,99 € 99,99 €400 € à 499 € 99,99 € 149,99 € 109,99 €500 € à 599 € 119,99 € 169,99 € 119,99 €600 € à 799 € 139,99 € 189,99 € 139,99 €800 € à 999 € 169,99 € 219,99 € 169,99 €Plus de 1 000 € 199,99 € 249,99 € 259,99 €
+
+
+
+\* Cuisson : cuisinière, four (à l’exception des rôtissoires ou appareils assimilés), table de cuisson, hotte et groupe filtrant.\*\* Lavage : Lave-linge, sèche-linge, lave-vaisselle.\*\*\* Froid : réfrigérateur, congélateur, cave à vin, climatiseur.
+
+
+
+Petit électroménagerGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.Prix Produit (1) Tarifs garantie remboursement à neuf0 € à 39 € 9,99 €40 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 199 € 39,99 €200 € à 299 € 59,99 €300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 119,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 169,99 €900 € à 999 € 179,99 €1 000 € à 1 099 € 189,99 €1 100 € à 1 199 € 199,99 €1 200 € à 1 299 € 209,99 €1 300 € à 1 399 € 219,99 €1 400 € à 1 499 € 229,99 €Plus de 1 500 € 239,99 €
+
+Micro-ondesExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Ou pour les micro-ondes non encastrables uniquement :garantie remboursement à neuf pendant 5 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs garantieremboursement à neuf 5 ans0 € à 199 € 39,99 € 0 € à 199 € 59,99 €200 € à 299 € 59,99 € 200 € à 299 € 79,99 €300 € à 399 € 69,99 € 300 € à 399 € 99,99 €400 € à 499 € 89,99 € 400 € à 499 € 119,99 €500 € à 599 € 109,99 € 500 € à 599 € 139,99 €600 € à 699 € 109,99 € 600 € à 699 € 139,99 €800 € à 999 € 129,99 € 700 € à 799 € 159,99 €Plus de 1 000 € 159,99 € 800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 289,99 €Plus de 1 500 € 299,99 €
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans5
+
+Garantie
+
+pièces et main d’œuvreet déplacement
+
+
+
+ans5
+
+Garantie
+
+
+
+TABLEAUX DES GARANTIESSUR MESURE
+
+\- 24 mai 2022 - 17
+
+
+
+Appareils photo et CaméscopesExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Ou garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs remboursementà neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 59 € 14 ,99 € 0 € à 99 € 19,99 €60 € à 99 € 25 ,99 € 100 € à 199 € 45 ,99 €100 € à 199 € 39,99 € 200 € à 299 € 59,99 €200 € à 299 € 59,99 € 300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 799 € 129,99 €800 € à 999 € 149,99 €1 000 € à 1 299 € 179,99 €Plus de 1 300 € 199,99 €
+
+ans5
+
+Garantie
+
+ou3
+
+Compléments Appareils Photo\*
+
+Garantie remboursement à neufpendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+
+
+
+\* Objectifs adaptables et flashs.
+
+
+
+Hi-fi et home cinémaExtension de garantie de 3 ans,portant la durée totale de la garantie à 5 ans.
+
+Prix Produit (1) Tarifs extensionde garantie 5 ans0 € à 199 € 39,99 €200 € à 299 € 59,99 €300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 119,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €Plus de 900 € 199,99 €
+
+VidéoprojecteursExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.
+
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 199 € 49,99 € 900 € à 999 € 239,99 €200 € à 299 € 59,99 € 1 000 € à 1 299 € 279,99 €300 € à 399 € 89,99 € 1 300 € à 1 499 € 299,99 €400 € à 499 € 129,99 € 1 500 € à 1 999 € 399,99 €500 € à 699 € 149,99 € 2 000 € à 2 999 € 449,99 €700 € à 899 € 189,99 € Plus de 3 000 € 499,99 €
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+ans5
+
+Garantie
+
+pièces et main d’œuvreet déplacement
+
+
+
+ans5
+
+Garantie
+
+pièces et main d’œuvreet déplacement
+
+
+
+TABLEAUX DES GARANTIESSUR MESURE
+
+\- 24 mai 2022 - 18
+
+
+
+Casque audio, enceintesnomades, Montre Connectée,récepteur et périphériques TV.Garantie remboursement à neuf pendant 3 anspar carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+
+Radios, drone, téléphone fixeGarantie remboursement à neufpendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantiesremboursement à neuf 3 ans0 € à 39 € 9,99 €40 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+
+
+
+\* Les radios comprennent les postes radios, les radios-réveil, les radios CD. Horsautoradios. (1) Tarifs valables en fonction du prix de vente affiché du produit avanttoute application de remise ou offre promotionnelle.
+
+
+
+Console de jeux, télécopieur, casque de réalité virtuelle et scanner \*Garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €700 € à 799 € 159,99 € Plus de 1 500 € 299,99 €
+
+\* Hors scanners 3D.
+
+
+
+Imprimantes\*Garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 49 € 19,99 € 700 € à 799 € 159,99 €50 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €Plus de 1 500 € 299,99 €
+
+\* Hors imprimantes 3D.
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+TABLEAUX DES GARANTIESSUR MESURE
+
+\- 24 mai 2022 - 19
+
+
+
+OrdinateursExtension de garantie de 1 an, portant la durée totale de la garantie à 3 ans.Ou garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 3 ans0 € à 199 € 54 ,99 € 0 € à 299 € 59,99 €200 € à 299 € 79,99 € 300 € à 399 € 69,99 €300 € à 399 € 119,99 € 400 € à 499 € 89,99 €400 € à 499 € 149,99 € 500 € à 599 € 109,99 €500 € à 599 € 179,99 € 600 € à 699 € 119,99 €600 € à 699 € 209,99 € 700 € à 799 € 129,99 €700 € à 799 € 239,99 € 800 € à 899 € 139,99 €800 € à 899 € 269,99 € 900 € à 999 € 159,99 €900 € à 999 € 299,99 € 1 000 € à 1 299 € 179,99 €1 000 € à 1 099 € 329,99 € Plus de 1 300 € 179,99 €1 100 € à 1 299 € 349,99 €1 300 € à 1 399 € 379,99 €Plus de 1 400 € 419,99 €
+
+MoniteursGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €700 € à 799 € 159,99 € Plus de 1 500 € 299,99 €
+
+Mobilité urbaineGarantie remboursement à neuf pendant 3 ans.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 à 49 € 19,99 € 1 100 à 1 199 € 319,99 €50 à 99 € 39,99 € 1 200 à 1 299 € 339,99 €100 à 149 € 49,99 € 1 300 à 1 399 € 369,99 €150 à 199 € 59,99 € 1 400 à 1 499 € 389,99 €200 à 299 € 89,99 € 1 500 à 1 599 € 409,99 €300 à 399 € 119,99 € 1 600 à 1 699 € 439,99 €400 à 499 € 149,99 € 1 700 à 1 799 € 459,99 €500 à 599 € 169,99 € 1 800 à 1 899 € 479,99 €600 à 699 € 189,99 € 1 900 à 1 999 € 499,99 €700 à 799 € 219,99 € 2 000 à 2 199 € 539,99 €800 à 899 € 239,99 € 2 200 à 2 399 € 589,99 €900 à 999 € 259,99 € 2 400 à 2 599 € 639,99 €1 000 à 1 099 € 299,99 € 2 600 à 2 799 € 689,99 €2 800 à 3 000 € 739,99 €
+
+TablettesGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 209,99 €100 € à 199 € 49,99 € 900 € à 999 € 289,99 €200 € à 299 € 69,99 € 1 000 € à 1 099 € 319,99 €300 € à 399 € 99,99 € 1 100 € à 1 199 € 349,99 €400 € à 499 € 119,99 € 1 200 € à 1 299 € 349,99 €500 € à 599 € 149,99 € 1 300 € à 1 399 € 379,99 €600 € à 699 € 169,99 € 1 400 € à 1 499 € 419,99 €700 € à 799 € 189,99 € Plus de 1 500 € 419,99 €
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+
+
+TABLEAUX DES GARANTIESSUR MESURE
+
+\- 24 mai 2022 - 20
+
+
+
+Aspirateurs\*Garantie remboursement à neufpendant 3 ans par carte-avoir Darty.
+
+Prix Produit (1)Tarifs garantieremboursementà neuf 3 ans0 € à 49 € 19,99 €50 € à 99 € 39,99 €100 € à 149 € 49,99 €150 € à 199 € 64 ,99 €200 € à 249 € 74 ,99 €250 € à 299 € 79,99 €300 € à 399 € 99,99 €400 € à 499 € 129,99 €500 € à 599 € 159,99 €600 € à 699 € 179,99 €700 € à 799 € 209,99 €800 € à 899 € 219,99 €900 € à 999 € 239,99 €1 000 € à 1 099 € 249,99 €1 100 € à 1 199 € 259,99 €1 200 € à 1 299 € 274 ,99 €1 300 € à 1 399 € 289,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+
+Aspirateurs\*Extension de garantie de 3 ans,portant la durée totale de la garantie à 5 ans.
+
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans
+
+150 € à 199 € 59,99 €200 € à 249 € 69,99 €250 € à 299 € 79,99 €300 € à 399 € 99,99 €400 € à 499 € 119,99 €500 € à 599 € 139,99 €Plus de 600 € 169,99 €
+
+
+
+\* Aspirateurs, y compris rechargeables. L’extension de garantie et la Garantieremboursement à neuf ne s’appliquent pas aux batteries amovibles des aspirateursrechargeables.(1) Tarifs valables en fonction du prix de vente affiché du produit avant touteapplication de remise ou offre promotionnelle.
+
+
+
+TéléviseursExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.
+
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans
+
+200 à 249 € 59,99 € 1 500 à 1 599€ 349,99 €250 à 299 € 69,99 € 1 600 à 1 999€ 399,99 €300 à 349 € 79,99 € 2 000 à 2 399€ 449,99 €350 à 399 € 89,99 € 2 400 à 2 999€ 499,99 €400 à 449 € 109,99 € 3 000 à 3 999 € 549,99 €450 à 499 € 119,99 € 4 000 à 4 999 € 659,99 €500 à 549 € 139,99 € 5 000 à 5 999 € 749,99 €550 à 599 € 149,99 € 6 000 à 6 999 € 889,99 €600 à 699 € 159,99 € 7 000 à 7 999 € 989,99 €700 à 799 € 179,99 € 8 000 € à 10 999 € 1 259,99 €800 à 899 € 189,99 € 10 000 € à 11 999 € 1 539,90 €900 à 999 € 249,99 € 12 000 € à 13 999 € 1 809,90 €1 000 à 1 099 € 279,99 € 14 000 € à 15 999 € 2 089,90 €1 100 à 1 299 € 289,99 € 16 000 € à 17 999 € 2 169,90 €1 300 à 1 499 € 299,99 € 18 000 € à 20 000 € 2 439,90 €Garantie direct échange, remplacement à neuf pendant 3 ans.
+
+Prix Produit (1) Tarifs garantiedirect échange 3 ans
+
+0 € à 99 € 19,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 299 € 69,99 €
+
+ans5
+
+Garantie
+
+ou3
+
+ans3
+
+Garantie
+
+remboursementà neuf
+
+ans5
+
+Garantie
+
+pièces et main d’œuvreet déplacement
+
+
+
+TABLEAUX DES GARANTIESSUR MESURE
+
 Garanties légales
 
-
-
 Nous vous informons qu’en cas de défaut de conformité de votre produit,la garantie légale de conformité ainsi que celle relative aux vices cachéss’appliqueront, conformément à la loi, comme exposé ci-après.
+
+Garanties légales jusqu'au 31 décembre 2021En cas d’action en garantie légalede conformité, le consommateur :
+
+\- bénéficie d’un délai de deux (2) ans à compter de la délivrancedu bien pour agir,\- peut choisir entre la réparation ou le remplacement du bien, sousré s er ve de s c ond it ion s de c oût prév ue s p a r l’a r t icleL.217-9 du code de la consommation,\- est dispensé de rapporter la preuve de l’existence du défaut deconformité du bien durant les 6 mois suivant la délivrance du bien.Ce délai est porté à vingt-quatre mois à compter du 18 mars 2016,sauf pour les biens d’occasion. La garantie légale de conformités’applique indépendamment de la garantie commerciale.Dans le cas où le consommateur décide de mettre en œuvre lagarantie des vices cachés de la chose vendue telle que prévuepar l’article 1641 du code civil, il peut choisir entre la résolutionde la vente ou une réduction du prix de vente conformément àl’article 1644 dudit code.
+
+
 
 Garanties légales à compter du 1er janvier 2022
 
 Garanties légales pour les biens et les biens comportantdes éléments numériques (articles L.217-3 et suivants duCode de la consommation) pour les contrats conclus àcompter du 1er janvier 2022.Nous vous informons qu’en cas de défaut de conformité du bien ou dubien comprenant des éléments numériques, la garantie légale deconformité mentionnée aux articles L.217-3 à L.217-17 du Code de laconsommation et celle relative aux vices cachés mentionnée aux articles1641 à 1648 et 2232 du Code civil, s’appliqueront conformément à la loi.
-
-
 
 En cas d’action en garantie légalede conformité, le consommateur :
 
@@ -772,25 +1042,117 @@ Dans le cas des articles 1641 et 1643, l'acheteur a le choix de rendre lachose e
 
 Article 1648 alinéa 1 du Code civil
 
-L'action résultant des vices rédhibitoires doit être intentée parl'acquéreur dans un délai de deux ans à compter de la découverte duvice. Pour plus d'information, voir la version du Contrat de Confiancesur darty.com
+L'action résultant des vices rédhibitoires doit être intentée parl'acquéreur dans un délai de deux ans à compter de la découverte duvice.
+
+Garanties légales jusqu'au 31 décembre 2021Ancien article L. 217-4 du code de la consommation
+
+Le vendeur livre un bien conforme au contrat et répond des défauts deconformité existant lors de la délivrance.Il répond également des défauts de conformité résultant de l'emballage,des instructions de montage ou de l'installation lorsque celle-ci a étémise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
 
 
+
+\- 24 mai 2022 - 21
+
+Ancien article L. 217-5 du code de la consommation
+
+Le bien est conforme au contrat :1° S’il est propre à l’usage habituellement attendu d’un bien semblableet, le cas échéant :\- s’il correspond à la description donnée par le vendeur et possèdeles qualités que celui-ci a présentées à l’acheteur sous formed’échantillon ou de modèle ;\- s’il présente les qualités qu’un acheteur peut légitimement attendreeu égard aux déclarations publiques faites par le vendeur, par leproducteur ou par son représentant, notamment dans la publicitéou l’étiquetage ;2° Ou s’il présente les caractéristiques définies d’un commun accordpar les parties ou est propre à tout usage spécial recherché parl’acheteur, porté à la connaissance du vendeur et que ce dernier aaccepté.
+
+Ancien article L217-12 du code de la consommation
+
+L'action résultant du défaut de conformité se prescrit par deux ans àcompter de la délivrance du bien.
+
+Ancien article L217-16 du code de la consommation
+
+Lorsque l’acheteur demande au vendeur, pendant le cours de la garantiecommerciale qui lui a été consentie lors de l’acquisition ou de laréparation d’un bien meuble, une remise en état couverte par la garantie,toute période d’immobilisation d’au moins sept jours vient s’ajouter à ladurée de la garantie qui restait. à courir. Cette période court à compterde la demande d’intervention de l’acheteur ou de la mise à dispositionpour réparation du bien en cause, si cette mise à disposition estpostérieure à la demande d’intervention.
+
+
+
+Garanties légales à compter du 1er janvier 2022
+
+
+
+Biens et biens comportant des éléments numériques acquisà compter du 1er janvier 2022
+
+Article L.217-4 du Code de la consommation
+
+Le bien est conforme au contrat s’il répond notamment, le cas échéant,aux critères suivants :1° Il correspond à la description, au type, à la quantité et à la qualité,notamment en ce qui concerne la fonctionnalité, la compatibilité,l'interopérabilité, ou toute autre caractéristique prévues au contrat ;2° Il est propre à tout usage spécial recherché par le consommateur,porté à la connaissance du vendeur au plus tard au moment de laconclusion du contrat et que ce dernier a accepté ;3° Il est délivré avec tous les accessoires et les instructions d'installation,devant être fournis conformément au contrat ;4° Il est mis à jour conformément au contrat
+
+Article L.217-5 du Code de la consommation
+
+I. En plus des critères de conformité au contrat, le bien est conforme s’ilrépond aux critères suivants :1° Il est propre à l'usage habituellement attendu d'un bien de même type,compte tenu, s'il y a lieu, de toute disposition du droit de l'Unioneuropéenne et du droit national ainsi que de toutes les normestechniques ou, en l'absence de telles normes techniques, des codes deconduite spécifiques applicables au secteur concerné ;2° Le cas échéant, il possède les qualités que le vendeur a présentéesau consommateur sous forme d'échantillon ou de modèle, avant laconclusion du contrat ;3° Le cas échéant, les éléments numériques qu'il comporte sont fournisselon la version la plus récente qui est disponible au moment de laconclusion du contrat, sauf si les parties en conviennent autrement ;4° Le cas échéant, il est délivré avec tous les accessoires, y comprisl'emballage, et les instructions d'installation que le consommateur peutlégitimement attendre ;5° Le cas échéant, il est fourni avec les mises à jour que le consommateurpeut légitimement attendre, conformément aux dispositions de l'articleL. 217-19 ;6° Il correspond à la quantité, à la qualité et aux autres caractéristiques,y compris en termes de durabilité, de fonctionnalité, de compatibilité etde sécurité, que le consommateur peut légitimement attendre pour desbiens de même type, eu égard à la nature du bien ainsi qu'auxdéclarations publiques faites par le vendeur, par toute personne enamont dans la chaîne de transactions, ou par une personne agissantpour leur compte, y compris dans la publicité ou sur l'étiquetage.
+
+II. Toutefois, le vendeur n'est pas tenu par toutes déclarations publiquesmentionnées à l'alinéa qui précède s'il démontre :1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure deles connaître ;2° Qu'au moment de la conclusion du contrat, les déclarations publiquesavaient été rectifiées dans des conditions comparables aux déclarationsinitiales ; ou3° Que les déclarations publiques n'ont pas pu avoir d'influence sur ladécision d'achat.III. Le consommateur ne peut contester la conformité en invoquant undéfaut concernant une ou plusieurs caractéristiques particulières du bien,dont il a été spécifiquement informé qu'elles s'écartaient des critères deconformité énoncés au présent article, écart auquel il a expressément etséparément consenti lors de la conclusion du contrat
+
+
+
+Article L.217-7 du Code de la consommation
+
+Les défauts de conformité qui apparaissent dans un délai de vingt-quatremois à compter de la délivrance du bien, y compris du bien comportantdes éléments numériques, sont, sauf preuve contraire, présumés existerau moment de la délivrance, à moins que cette présomption ne soitincompatible avec la nature du bien ou du défaut invoqué.Pour les biens d'occasion, ce délai est fixé à douze mois.Lorsque le contrat de vente d'un bien comportant des éléments numériquesprévoit la fourniture continue d'un contenu numérique ou d'un servicenumérique, sont présumés exister au moment de la délivrance du bien lesdéfauts de conformité qui apparaissent :1° Durant un délai de deux ans à compter de la délivrance du bien,lorsque le contrat prévoit cette fourniture pendant une durée inférieureou égale à deux ans ou lorsque le contrat ne détermine pas la durée defourniture ;2° Durant la période durant laquelle le contenu numérique ou le servicenumérique est fourni en vertu du contrat, lorsque celui-ci prévoit cettefourniture pendant une durée supérieure à deux ans.
+
+Article L.217-8 du Code de la consommation
+
+En cas de défaut de conformité, le consommateur a droit à la mise enconformité du bien par réparation ou remplacement ou, à défaut, à laréduction du prix ou à la résolution du contrat, dans les conditionsénoncées à la présente sous-section.Le consommateur a, par ailleurs, le droit de suspendre le paiement de toutou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ceque le vendeur ait satisfait aux obligations qui lui incombent au titre duprésent chapitre, dans les conditions des articles 1219 et 1220 du codecivil.Les dispositions du présent chapitre sont sans préjudice de l'allocationde dommages et intérêts
+
+Article L.217-9 du Code de la consommation
+
+Le consommateur est en droit d'exiger la mise en conformité du bien auxcritères énoncés dans la sous-section 1 de la présente section.Le consommateur sollicite auprès du vendeur la mise en conformité dubien, en choisissant entre la réparation et le remplacement. A cette fin, leconsommateur met le bien à la disposition du vendeur.
+
+Article L.217-10 du Code de la consommation
+
+La mise en conformité du bien a lieu dans un délai raisonnable qui ne peutêtre supérieur à trente jours suivant la demande du consommateur et sansinconvénient majeur pour lui, compte tenu de la nature du bien et del'usage recherché par le consommateur.La réparation ou le remplacement du bien non conforme inclut, s'il y a lieu,l'enlèvement et la reprise de ce bien et l'installation du bien réparé ou dubien de remplacement par le vendeur.Un décret précise les modalités de la mise en conformité du bien.
+
+Article L.217-12 du Code de la consommation
+
+Le vendeur peut ne pas procéder selon le choix opéré par le consommateursi la mise en conformité sollicitée est impossible ou entraîne des coûtsdisproportionnés au regard notamment :1° De la valeur qu'aurait le bien en l'absence de défaut de conformité ;2° De l'importance du défaut de conformité ; et3° De la possibilité éventuelle d'opter pour l'autre choix sans inconvénientmajeur pour le consommateur.Le vendeur peut refuser la mise en conformité du bien si celle-ci estimpossible ou entraîne des coûts disproportionnés notamment au regarddes 1° et 2°.Lorsque ces conditions ne sont pas respectées, le consommateur peut,après mise en demeure, poursuivre l'exécution forcée en nature de lasolution initialement sollicitée, conformément aux articles 1221 et suivantsdu code civil.Tout refus par le vendeur de procéder selon le choix du consommateurou de mettre le bien en conformité, est motivé par écrit ou sur supportdurable.
+
+Article L.217-13 du Code de la consommation
+
+Tout bien réparé dans le cadre de la garantie légale de conformitébénéficie d'une extension de cette garantie de six mois.Dès lors que le consommateur fait le choix de la réparation mais quecelle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité parle remplacement du bien fait courir, au bénéfice du consommateur, unnouveau délai de garantie légale de conformité attaché au bien remplacé.Cette disposition s'applique à compter du jour où le bien de remplacementest délivré au consommateurContenus numériques et services numériques
+
+Article L.224-25-13 du Code de la consommation
+
+Le contenu numérique ou le service numérique est conforme au contrats'il répond notamment, le cas échéant, aux critères suivants :1° Il correspond à la description, au type, à la quantité et à la qualité,notamment en ce qui concerne la fonctionnalité, la compatibilité,l'interopérabilité, ou toute autre caractéristique prévue au contrat ;2° Il est propre à tout usage spécial recherché par le consommateur,porté à la connaissance du professionnel au plus tard au moment de laconclusion du contrat et que ce dernier a accepté ;3° Il est fourni avec tous les accessoires, y compris l'emballage, lesinstructions d'installation, ainsi que l'assistance à la clientèle, devantêtre fournis conformément au contrat ;4° Il est mis à jour conformément au contrat.
+
+
+
+\- 24 mai 2022 - 22
+
+Article L .224-25-14 du Code de la consommation
+
+I.-En plus des critères de conformité prévus au contrat, le contenunumérique ou le service numérique est conforme s'il répond aux critèressuivants :1° Il est propre à l'usage habituellement attendu d'un contenu numériqueou d'un service numérique de même type, compte tenu, s'il y a lieu, detoute disposition du droit de l'Union européenne et du droit nationalainsi que de toutes les normes techniques, ou en l'absence de tellesnormes techniques, des codes de conduite spécifiques applicables ausecteur concerné ;2° Le cas échéant, il possède les qualités que le professionnel aprésentées au consommateur sous forme de version d'essai ou d'aperçu,avant la conclusion du contrat ;3° Il est fourni selon la version la plus récente qui est disponible aumoment de la conclusion du contrat, sauf si les parties en conviennentautrement ;4° En cas de fourniture continue d'un contenu numérique ou d'un servicenumérique pendant une période donnée, il est fourni sans interruptiontout au long de cette période ;5° Le cas échéant, il est fourni avec tous les accessoires et les instructionsd'installation ainsi que l'assistance à la clientèle, auxquels leconsommateur peut légitimement s'attendre ;6° Le cas échéant, il est fourni avec les mises à jour que le consommateurpeut légitimement attendre, conformément aux dispositions de l'articleL. 224-25-25 ;7° Il correspond à la quantité, à la qualité et aux autres caractéristiques,y compris en termes de fonctionnalité, de compatibilité, d'accessibilité,de continuité et de sécurité, que le consommateur peut légitimementattendre pour des contenus numériques ou des services numériques demême type, eu égard à la nature de ces contenus ou services ainsi qu'auxdéclarations publiques faites par le professionnel, par toute personneen amont dans la chaîne de transactions, ou par une personne agissantpour leur compte, y compris dans la publicité ou sur l'étiquetage.II.-Toutefois, le professionnel n'est pas tenu par toutes déclarationspubliques mentionnées au dernier alinéa du I s'il démontre :1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure deles connaître ;2° Qu'au moment de la conclusion du contrat, les déclarations publiquesavaient été rectifiées dans des conditions comparables aux déclarationsinitiales ; ou3° Que les déclarations publiques n'ont pas pu avoir d'influence sur ladécision de contracter.III.-Le consommateur ne peut contester la conformité en invoquant undéfaut concernant une ou plusieurs caractéristiques particulières ducontenu numérique ou du service numérique, dont il a été spécifiquementinformé qu'elles s'écartaient des critères de conformité énoncés auprésent article, écart auquel il a expressément et séparément consentilors de la conclusion du contrat.
+
+Article L.224-25-16 du Code de la consommation
+
+I.-Les défauts de conformité qui apparaissent dans un délai de douze moisà compter de la fourniture du contenu numérique ou du service numériquesont présumés exister au moment de cette fourniture, sauf preuvecontraire.Lorsque le contrat prévoit la fourniture continue du contenu numériqueou du service numérique pendant une période donnée, la charge de lapreuve quant à la question de savoir si le contenu numérique ou le servicenumérique était conforme au cours de la période contractuelle defourniture, incombe au professionnel dans le cas d’un défaut de conformitéapparaissant au cours de cette période.II.-Le professionnel n’est pas responsable du défaut de conformité s’ildémontre que celui-ci est directement imputable à l’incompatibilité entrele contenu numérique ou le service numérique et l’environnementnumérique du consommateur, et que le consommateur avait été informépar le professionnel des exigences techniques de compatibilité de cecontenu ou service avant la conclusion du contrat.Le consommateur est tenu de coopérer avec le professionnel, dans lamesure de ce qui est raisonnablement possible, nécessaire et le moinsintrusif pour lui, afin de déterminer si le défaut de conformité est causépar cette incompatibilité. Dans le cas contraire, la charge de la preuvementionnée au premier ou au deuxième alinéa du I du présent article,incombe au consommateur à la condition que le consommateur ait étéinformé de façon claire et compréhensible de son obligation de coopéreravant la conclusion du contrat.
+
+Article L.224-25-17 du Code de la consommation
+
+En cas de défaut de conformité, le consommateur a droit à la mise enconformité du contenu numérique ou du service numérique ou, à défaut,à la réduction du prix ou à la résolution du contrat, dans les conditionsénoncées dans le présent paragraphe.Le consommateur a, par ailleurs, le droit de suspendre le paiement de toutou partie du prix ou la remise de l'avantage prévu au contrat jusqu'à ceque le professionnel ait satisfait aux obligations qui lui incombent au titrede la présente sous-section, dans les conditions des articles 1219 et 1220du code civil.Les dispositions de la présente sous-section sont sans préjudice del'allocation de dommages et intérêts.
+
+Article L.224-25-18 du Code de la consommation
+
+En cas de défaut de conformité, le consommateur est en droit d'exiger lamise en conformité du contenu numérique ou du service numérique auxcritères énoncés dans le paragraphe 1 de la présente sous-section.
+
+La mise en conformité a lieu sans frais pour le consommateur, sans retardinjustifié suivant la demande de ce dernier et sans inconvénient majeurpour lui, compte tenu de la nature du contenu numérique ou du servicenumérique concerné et de l'usage recherché par le consommateur.Le consommateur n'est pas tenu de payer pour l'utilisation qu'il a faite ducontenu numérique ou du service numérique pendant la période,antérieure à la résolution du contrat, au cours de laquelle ce contenu ouservice n'était pas conforme.
+
+Article L .224-25-19 du Code de la consommation
+
+Le professionnel peut refuser la mise en conformité si elle s'avèreimpossible ou entraîne des coûts disproportionnés, au regard notammentde l'importance du défaut de conformité et de la valeur du contenunumérique ou du service numérique en l'absence de défaut.Dès lors que ces conditions ne sont pas respectées, le consommateurpeut, après mise en demeure, poursuivre l'exécution forcée en nature dela mise en conformité sollicitée conformément aux articles 1221 et suivantsdu code civil.Tout refus du professionnel de mettre le contenu numérique ou le servicenumérique en conformité est motivé par écrit ou sur support durable.
 
 Mode de règlement des litiges
 
-Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante : Darty \& Fils -Service Consommateur - TSA 90014 93145 Bondy CEDEXDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la Commission
-
-
-
-\- 24 mai 2022 - 16
-
-Européenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
+Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante : Darty \& Fils -Service Consommateur - TSA 90014 93145 Bondy CEDEXDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
 
 
 
 Vos données personnelles
 
-Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page ht tps://www.dar t y.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection desDonnées FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client TSA 90014 – 93145 Bondy Cedex. Vous disposez parailleurs, du droit d’introduire une réclamation auprès de la CommissionNationale de l’Informatique et des Libertés (CNIL), notamment sur sonsite internet www.cnil.fr. La plupart des données vous concernant serontconservées pendant une durée de 5 ans à compter de votre dernièreactivité (ex. : achat, échéance de vos contrats), puis archivées avec unaccès restreint pour une durée supplémentaire de 5 ans pour desraisons strictement limitées et autorisées par la loi (paiement, garantie,litiges ...). Vous êtes informés que vos données peuvent être transmisespour les besoins des finalités mentionnées ci-dessus à des sociétéssituées en dehors de l’Union Européenne notamment pour les activitésde service client (centres d’appel situés au Maroc et à Madagascar),prestations informatiques, exploitation des données en lien avec lesréseaux sociaux. Toute procédure requise pour sécuriser les donnéessera mise en œuvre avant de procéder à de tels transferts. Plusd’informations sur la protection des données personnelles surd a r t y.c om : ht t p s://w w w.d a r t y.c om/re s 3/p d f/c n i l/don ne e s _personnelles_darty.pdf
+Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page ht tps://www.dar t y.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection desDonnées FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client TSA 90014 – 93145 Bondy Cedex. Vous disposez parailleurs, du droit d’introduire une réclamation auprès de la CommissionNationale de l’Informatique et des Libertés (CNIL), notamment sur sonsite internet www.cnil.fr. La plupart des données vous concernant serontconservées pendant une durée de 5 ans à compter de votre dernière
+
+
+
+\- 24 mai 2022 - 23
+
+activité (ex. : achat, échéance de vos contrats), puis archivées avec unaccès restreint pour une durée supplémentaire de 5 ans pour desraisons strictement limitées et autorisées par la loi (paiement, garantie,litiges ...). Vous êtes informés que vos données peuvent être transmisespour les besoins des finalités mentionnées ci-dessus à des sociétéssituées en dehors de l’Union Européenne notamment pour les activitésde service client (centres d’appel situés au Maroc et à Madagascar),prestations informatiques, exploitation des données en lien avec lesréseaux sociaux. Toute procédure requise pour sécuriser les donnéessera mise en œuvre avant de procéder à de tels transferts. Plusd’informations sur la protection des données personnelles surd a r t y.c om : ht t p s://w w w.d a r t y.c om/re s 3/p d f/c n i l/don ne e s _personnelles_darty.pdf
 
 
 
@@ -800,4 +1162,10 @@ Conformément à la réglementation en vigueur, Darty est tenue deprocéder à l
 
 
 
-\- 24 mai 2022 - 17
+Droit de rétractation
+
+Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compter de la réception du produit pour vous rétracter. Pour plusd’informations sur l’exercice de ce droit et afin de télécharger leformulaire de rétractation, rendez-vous sur la page : https://www.darty.com/retour-et-remboursement
+
+
+
+\- 24 mai 2022 - 24
