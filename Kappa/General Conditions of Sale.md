@@ -347,4 +347,6 @@ Promotion valable dès 25€. Non cumulable avec d’autres offres en cours de v
 
 **ARTICLE 15 - L’IDENTIFIANT UNIQUE (IDU)**
 
-FR251155\_11ZRDU
+N° IDU : FR251155\_11ZRDU
+
+N°IDU emballage (Citeo) : FR212105\_01GICZ
