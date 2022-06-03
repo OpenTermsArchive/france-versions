@@ -380,7 +380,7 @@ En tout état de cause, ces précautions ne font pas obstacle au bénéfice des 
 
 ### 6.3 Vous repérez une anomalie ou une spoliation : comment réagir ?
 
-**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou rescotché (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
+**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou avec une nouvelle bande adhésive (notamment avec la présence de la bande adhésive jaune " La Poste ") nous vous invitons à le refuser.
 
 Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
 
@@ -1262,7 +1262,7 @@ En tout état de cause, ces précautions ne font pas obstacle au bénéfice des 
 
 ### 6.3 Vous repérez une anomalie ou une spoliation : comment réagir ?
 
-**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou rescotché (notamment avec la présence du scotch jaune " La Poste ") nous vous invitons à le refuser.
+**Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou avec une nouvelle bande adhésive (notamment avec la présence de la bande adhésive jaune " La Poste ") nous vous invitons à le refuser.
 
 Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
 
