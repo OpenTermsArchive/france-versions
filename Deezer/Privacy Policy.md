@@ -1,7 +1,7 @@
 Your privacy on Deezer
 ======================
 
-### Updated May 2022
+### Updated June 2022
 
 At Deezer, we care about your privacy and we want you to be comfortable with how we use your personal data. This Privacy Notice is therefore designed to provide you with transparent and important information on how we [collect](#collect), [use](#use), [retain](#retain), [protect](#protect) and [share](#share) your data, and how you can exercise your [rights](#rights) over it.
 
@@ -388,7 +388,7 @@ You can modify or correct your contact information (name, email address, phone n
 
 ### Data deletion
 
-You can delete your account in your [account settings](https://www.deezer.com/account) (Account management / Manage my account / DELETE MY ACCOUNT) or by contacting our Customer Care via this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869).
+You can delete your account and all personal data associated with your account in your [account settings](https://www.deezer.com/account) (Account management / Manage my account / DELETE MY ACCOUNT) or by contacting our Customer Care via this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869).
 
 ### Consent withdrawal
 
