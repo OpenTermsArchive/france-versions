@@ -340,4 +340,9 @@ ARTICLE 18. DROIT APPLICABLE
 ----------------------------
 
 Les présentes CGV sont régies par la loi française.  
-Tout litige résultant de la formation, de l'interprétation ou de l'exécution des présentes CGV relève de la compétence exclusive des tribunaux français.
+Tout litige résultant de la formation, de l'interprétation ou de l'exécution des présentes CGV relève de la compétence exclusive des tribunaux français.  
+  
+  
+  
+  
+Dernière mise à jour des CGV : le 02/06/22
