@@ -330,9 +330,9 @@ Volotea pourra refuser de transporter la totalité ou une partie des bagages dé
 
 #### 6.8 Bagage à main
 
-Chaque passager est autorisé à emmener à bord un bagage à main dont les dimensions ne peuvent excéder 55 x 40 x 20 cm ainsi qu’un sac à main de 35 x 20 x 20 cm. En aucun cas les deux bagages ne pourront dépasser un total de 10 kg.
+Chaque passager est autorisé à emmener à bord 1 petit sac dont les dimensions ne peuvent en aucun cas excéder 40 x 30 x 20 cm. Les passagers ayant souscrit le service d’embarquement prioritaire peuvent également emmener 1 bagage à main de maximum 55 x 40 x 20 cm. En aucun cas les deux bagages ne pourront dépasser un poids total de 10 kg.
 
-L'espace étant restreint, un maximum de 65 valises (55 × 40 × 20 cm) peuvent être transportées en cabine. Les bagages à main restants seront placés gratuitement en soute.
+L'espace étant restreint, un maximum de 85 valises (55 × 40 × 20 cm) peuvent être transportées en cabine. Les bagages à main supplémentaires seront placés gratuitement en soute.
 
 À la porte d’embarquement, le bagage à main non conforme à la règlementation de la compagnie, c’est-à-dire dépassant le poids et/ou le volume indiqués ci-dessus, sera retiré et chargé dans la soute de l’avion avec un supplément défini dans le [tableau des tarifs](https://www.volotea.com/fr/frais-de-service/ "Frais de service").
 
