@@ -30,13 +30,13 @@ Ce Service Orange Money Europe sera réservé aux Utilisateurs titulaires ou aya
 
 numéro de ligne mobile souscrite auprès d’un Opérateur de communications électroniques établi en
 
-Italie, aux Pays-Bas, en Belgique ou en France (hors Polynésie française, Saint-Pierre-et-Miquelon et
+Italie, Espagne, Allemagne, Pays-Bas, Belgique ou en France (hors Polynésie française, Saint-Pierre-
 
-Wallis-et-Futuna), pour leurs besoins personnels non professionnels. Il sera accessible à partir du Site
+et-Miquelon et Wallis-et-Futuna), pour leurs besoins personnels non professionnels. Il sera accessible
 
-ou de l’Application Orange Money Europe et sous réserve d’être titulaire d’une offre mobile et d’un
+à partir du Site ou de l’Application Orange Money Europe et sous réserve d’être titulaire d’une offre
 
-terminal mobile compatible.
+mobile et d’un terminal mobile compatible.
 
 
 
@@ -174,7 +174,9 @@ Opérateur de communications électroniques : désigne l’opérateur de communi
 
 qui permet l’accès aux Utilisateurs au Service Orange Money Europe à partir de leur terminal mobile et
 
-de leur ligne mobile grâce à l’Application Orange Money ou pour les Utilisateurs en France, au Site.
+de leur ligne mobile grâce à l’Application Orange Money ou pour les Utilisateurs en Italie, Espagne,
+
+Allemagne, aux Pays-Bas, en Belgique ou en France, au Site.
 
 
 
@@ -224,11 +226,13 @@ Service Orange Money Europe : désigne le service proposé par l’EME permettan
 
 Compte Orange Money Europe des opérations de dépôt, de retrait, et de transferts d’argent (i) nationaux
 
-et (ii) internationaux Le Service Orange Money Europe est ouvert à la souscription en Italie, aux Pays-
+et (ii) internationaux Le Service Orange Money Europe est ouvert à la souscription en Italie, Espagne,
 
-Bas, en Belgique, en France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) à
+Allemagne, aux Pays-Bas, en Belgique ou en France (hors Polynésie française, Saint-Pierre-et-
 
-partir de l’Application et, pour la France uniquement, à partir du Site et des PDV.
+Miquelon et Wallis-et-Futuna) à partir de l’Application et, pour la France uniquement, à partir du Site et
+
+des PDV.
 
 
 
@@ -244,14 +248,6 @@ Transaction : désigne toute opération (dépôt, retrait, opération de paiemen
 
 réalisée en utilisant le Service Orange Money Europe.
 
-
-
-Utilisateur : désigne toute personne physique majeure capable résidant en Italie, aux Pays-Bas, en
-
-Belgique et en France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), titulaire
-
-ou ayant la jouissance d’une ligne mobile avec un forfait post-payé, bloqué, prépayé compatible
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -262,13 +258,19 @@ Version du 22 Mars 2022
 
 
 
-souscrite auprès d’un Opérateur de communications électroniques établi en Italie, aux Pays-Bas, en
+Utilisateur : désigne toute personne physique majeure capable résidant en Italie, Espagne, Allemagne,
 
-Belgique et en France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), titulaire
+aux Pays-Bas, en Belgique ou en France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-
 
-d’un terminal mobile compatible, et ayant souscrit au Service Orange Money Europe pour ses besoins
+et-Futuna), titulaire ou ayant la jouissance d’une ligne mobile avec un forfait post-payé, bloqué, prépayé
 
-personnels et selon les modalités décrites aux présentes.
+compatible souscrite auprès d’un Opérateur de communications électroniques établi en Italie, Espagne,
+
+Allemagne, aux Pays-Bas, en Belgique ou en France (hors Polynésie française, Saint-Pierre-et-
+
+Miquelon et Wallis-et-Futuna), titulaire d’un terminal mobile compatible, et ayant souscrit au Service
+
+Orange Money Europe pour ses besoins personnels et selon les modalités décrites aux présentes.
 
 
 
@@ -288,9 +290,11 @@ Electronique (code interbancaire n° 14738) par l’Autorité de Contrôle Prude
 
 Electronique associée à ce dernier. Son agrément lui permet d’exercer ses activités en France et dans
 
-les pays de l’Espace Economique Européen – dont la Belgique, l’Italie et les Pays-Bas font partie – par
+les pays de l’Espace Economique Européen – dont la Belgique, l’Espagne, L’Allemagne l’Italie et les
 
-voie de Libre Prestation de Services (liste publiée par l’ACPR sur le site Internet https://www.regafi.fr).
+Pays-Bas font partie – par voie de Libre Prestation de Services (liste publiée par l’ACPR sur le site
+
+Internet https://www.regafi.fr).
 
 
 
@@ -326,9 +330,9 @@ et pendant toute la durée du Service Orange Money Europe :
 
 - être âgé d’au moins dix-huit (18) ans ;
 
-- résider en Italie, aux Pays-Bas, en Belgique ou en France (hors Polynésie française, Saint-Pierre-
+- résider en Italie, Espagne, Allemagne, aux Pays-Bas, en Belgique ou en France (hors Polynésie
 
-et-Miquelon et Wallis-et-Futuna) ;
+française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) ;
 
 - être titulaire ou avoir la jouissance d’une ligne mobile avec forfait post-payé, bloqué ou pré-payé
 
@@ -368,16 +372,6 @@ Article 4 – Modalités d’utilisation du Service Orange Money Europe
 
 l’Utilisateur.
 
-
-
-4.2 Le Service Orange Money Europe est proposé aux Utilisateurs en Italie, aux Pays-Bas, en Belgique
-
-et en France à partir de l’Application ou pour les Utilisateurs de France uniquement, à partir du Site
-
-https://orangemoney.fr/. Les PDV ne sont disponibles qu’aux Utilisateurs ayant ouvert leur Compte
-
-Orange Money Europe en France.
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -385,6 +379,16 @@ Version du 22 Mars 2022
 
 
 4
+
+
+
+4.2 Le Service Orange Money Europe est proposé aux Utilisateurs Italie, Espagne, Allemagne, aux
+
+Pays-Bas, en Belgique ou en France à partir de l’Application ou pour les Utilisateurs de France
+
+uniquement, à partir du Site https://orangemoney.fr/. Les PDV ne sont disponibles qu’aux Utilisateurs
+
+ayant ouvert leur Compte Orange Money Europe en France.
 
 
 
@@ -432,7 +436,7 @@ souscription se fait uniquement de manière digitale sur l’Application Orange 
 
 5.1 La souscription partielle via l’Application Orange Money– accessible aux Utilisateurs d’Italie,
 
-de Belgique, des Pays-Bas et de France
+Espagne, Allemagne, aux Pays-Bas, en Belgique ou en France
 
 
 
@@ -496,18 +500,6 @@ pourra également se rendre auprès d’un PDV, afin de remettre son justificati
 
 moins de six (6) mois.
 
-
-
-5.2 La souscription complète via l’Application Orange Money– accessible aux Utilisateurs
-
-d’Italie, de Belgique, des Pays-Bas et de France
-
-
-
-Afin de bénéficier de la complétude du Service Orange Money Europe, l’Utilisateur devra en faire la
-
-demande via l’Application Orange Money. Cette possibilité ne sera proposée à l’Utilisateur qu’après que
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -517,6 +509,16 @@ Version du 22 Mars 2022
 5
 
 
+
+5.2 La souscription complète via l’Application Orange Money– accessible aux Utilisateurs d’Italie,
+
+Espagne, Allemagne, Pays-Bas, Belgique ou en France.
+
+
+
+Afin de bénéficier de la complétude du Service Orange Money Europe, l’Utilisateur devra en faire la
+
+demande via l’Application Orange Money. Cette possibilité ne sera proposée à l’Utilisateur qu’après que
 
 celui-ci a franchi un certain seuil d’utilisation minimum de son compte. La demande comporte le cas
 
@@ -622,16 +624,6 @@ o photocopie recto-verso de la pièce d'identité du gérant ou du directeur de 
 
 cours de validité,
 
-o tout document officiel au nom du client indiquant l’adresse de l’hôtel (avis d'imposition,
-
-attestation vitale, titre de pension, titre d'allocations familiales, document de Pôle
-
-Emploi) ;
-
-
-
-- cas de domiciliation dans un foyer situé en France : (une pièce obligatoire à présenter)
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -641,6 +633,16 @@ Version du 22 Mars 2022
 6
 
 
+
+o tout document officiel au nom du client indiquant l’adresse de l’hôtel (avis d'imposition,
+
+attestation vitale, titre de pension, titre d'allocations familiales, document de Pôle
+
+Emploi) ;
+
+
+
+- cas de domiciliation dans un foyer situé en France : (une pièce obligatoire à présenter)
 
 o une attestation d'élection de domicile en cours de validité délivrée par le centre
 
@@ -752,6 +754,14 @@ remettre son justificatif de domicile datant de moins de six (6) mois dont la li
 
 paragraphe 5.3.1.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+7
+
 
 
 5.4. L’EME vérifiera l’exactitude et la véracité de l’ensemble des informations fournies par l’Utilisateur.
@@ -761,14 +771,6 @@ L’EME se réserve également le droit de demander à l’Utilisateur tout docu
 de son nom et de son adresse, et ce à tout moment si les documents remis ne sont pas jugés
 
 satisfaisants.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-7
 
 
 
@@ -880,14 +882,6 @@ les coordonnées de contact communiquées. L’Utilisateur sera seul responsable
 
 communique et de leur absence de mise à jour.
 
-
-
-7.4 L’Utilisateur doit prendre toute mesure pour, d’une part, protéger son terminal mobile et sa Carte
-
-SIM donnant accès au Service Orange Money Europe, et d’autre part, préserver son Code Confidentiel.
-
-Ce Code Confidentiel est personnel et ne peut être communiqué à un tiers.
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -895,6 +889,14 @@ Version du 22 Mars 2022
 
 
 8
+
+
+
+7.4 L’Utilisateur doit prendre toute mesure pour, d’une part, protéger son terminal mobile et sa Carte
+
+SIM donnant accès au Service Orange Money Europe, et d’autre part, préserver son Code Confidentiel.
+
+Ce Code Confidentiel est personnel et ne peut être communiqué à un tiers.
 
 
 
@@ -1004,14 +1006,6 @@ notamment le numéro de la Transaction, et le numéro de ligne mobile (masqué p
 
 associé le Compte Orange Money Europe pour cette opération.
 
-
-
-L’Utilisateur verra la transaction apparaître sur l’Application Orange Money de son opération, dès que
-
-son Compte Orange Money Europe aura été crédité de la somme remise déduction faite des frais
-
-facturés au titre du dépôt.
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -1019,6 +1013,14 @@ Version du 22 Mars 2022
 
 
 9
+
+
+
+L’Utilisateur verra la transaction apparaître sur l’Application Orange Money de son opération, dès que
+
+son Compte Orange Money Europe aura été crédité de la somme remise déduction faite des frais
+
+facturés au titre du dépôt.
 
 
 
@@ -1052,7 +1054,9 @@ ou auprès du Service Clients Orange Money Europe.
 
 8.9 Le dépôt de sommes d’argent sur son compte Orange Money Europe dans un PDV en France n’est
 
-pas accessible aux Utilisateurs ayant ouvert leur Compte Orange Money en Belgique.
+pas accessible aux Utilisateurs ayant ouvert leur Compte Orange Money en Italie, Espagne, Allemagne,
+
+aux Pays-Bas, en Belgique.
 
 
 
@@ -1128,6 +1132,14 @@ préavis à des fins de prévention des fraudes et pour des raisons de sécurit�
 
 Orange Money Europe est disponible sur le Site ou auprès du Service Clients Orange Money Europe.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+10
+
 
 
 9.7 Le retrait de sommes d’argent sur son compte Orange Money Europe dans un PDV en France n’est
@@ -1141,14 +1153,6 @@ Belgique.
 En cas de résiliation des présentes pour quelque cause que ce soit, les retraits en PDV ne peuvent plus
 
 être effectués à compter de la date effective de la résiliation des Conditions d’utilisation.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-10
 
 
 
@@ -1254,6 +1258,14 @@ erreur concernant le montant du transfert. Dans un tel cas, le Bénéficiaire de
 
 exclusivement de l’Utilisateur expéditeur du Transfert.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+11
+
 
 
 10.7 Une fois l’opération de transfert national ou international effectuée, l’Utilisateur est informé de la
@@ -1269,14 +1281,6 @@ l’Utilisateur à l’exception des frais de transfert qui restent dus.
 10.8 S’agissant des transferts internationaux, les Bénéficiaires se verront facturer éventuellement des
 
 frais de retrait dont le montant variera suivant le Partenaire concerné par l’opération.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-11
 
 
 
@@ -1380,6 +1384,14 @@ un (1) an, ce Compte sera considéré comme inactif et des frais mensuels de ten
 
 alors facturés à l’Utilisateur.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+12
+
 
 
 13.2 Les frais mensuels de tenue de compte sont fixés en Annexe 1. Ils seront prélevés, au début de
@@ -1395,16 +1407,6 @@ le remboursement total du solde.
 13.3 Le statut de Compte inactif est réversible, sauf en cas de demande de résiliation du Service Orange
 
 Money Europe. L’Utilisateur reconnaît et accepte que des frais de tenue de compte pourront lui être
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-12
-
-
 
 facturés à compter de la résiliation du Service Orange Money Europe et la clôture de son Compte
 
@@ -1512,6 +1514,14 @@ immédiatement prise en compte.
 
 ou une copie d’un dépôt de plainte ou une déclaration sur l’honneur.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+13
+
 
 
 16.4 La demande de blocage faite auprès de l’EME n’a pas d’incidence sur le fonctionnement du service
@@ -1521,14 +1531,6 @@ de téléphonie mobile. Pour le blocage du service de téléphonie mobile, l’U
 ou le vol de son terminal mobile ou de la Carte SIM auprès de son Opérateur de communications
 
 électroniques dans les conditions convenues avec ce dernier.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-13
 
 
 
@@ -1640,6 +1642,16 @@ conditions de l’article 18.1 des présentes ;
 
 - du refus d’une Transaction par l’EME en application de l’article 18.4 des présentes ;
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+14
+
+
+
 - du respect par l’EME des dispositions légales et règlementaires qui lui sont applicables ;
 
 - du non-respect par l’Utilisateur des présentes et plus généralement des dispositions légales et
@@ -1651,14 +1663,6 @@ règlementaires qui lui sont applicables ;
 part de l’EME ;
 
 - d’une demande d’opposition/blocage qui n’émanerait pas de l’Utilisateur.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-14
 
 
 
@@ -1766,6 +1770,16 @@ cas suivant :
 
 - si l’Utilisateur ne dispose pas de fonds suffisants sur son Compte Orange Money Europe pour en
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+15
+
+
+
 couvrir le montant et/ou tous frais applicables ;
 
 - si l’Utilisateur agit en violation des présentes ;
@@ -1777,16 +1791,6 @@ son terminal mobile perdu ou volé ;
 - si l’EME estime que la Transaction est suspecte ou illégale ;
 
 - si la Transaction fait dépasser à l’Utilisateur les plafonds et limites fixés aux termes des présentes ;
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-15
-
-
 
 - si la loi, un tribunal ou toute autre autorité compétente contraint l’EME à refuser cette Transaction ;
 
@@ -1890,6 +1894,14 @@ notaire en charge de la succession pour les honorer, seront considérées comme 
 
 autorisées.
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+16
+
 
 
 20.3 Le Compte Orange Money Europe restera ouvert le temps nécessaire au règlement de la
@@ -1901,16 +1913,6 @@ ayants droit n'a informé l’EME de sa volonté de faire valoir ses droits sur 
 Europe, l’EME pourra appliquer des frais de tenue de compte dont le montant est fixé en Annexe 1. Ces
 
 frais seront alors prélevés, au début de chaque mois civil, sur l’encours de Monnaie Electronique
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-16
-
-
 
 correspondant au solde résiduel du Compte Orange Money Europe inactif, jusqu'à ce que ce solde soit
 
@@ -2014,16 +2016,6 @@ ouvert auprès d’un établissement de crédit situé dans la zone de paiement 
 
 demande de remboursement vers un autre compte sera refusée.
 
-
-
-21.4 A réception de ce courrier et de l’ensemble des pièces, l’EME ouvre un dossier de demande de
-
-remboursement au nom de l’Utilisateur. La prise en charge de ce dossier entraînera la facturation de
-
-frais de demande de remboursement dont le montant est fixé en Annexe 1 :
-
-- si la demande de remboursement et sa prise d’effet sont antérieures au terme des présentes le
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -2033,6 +2025,14 @@ Version du 22 Mars 2022
 17
 
 
+
+21.4 A réception de ce courrier et de l’ensemble des pièces, l’EME ouvre un dossier de demande de
+
+remboursement au nom de l’Utilisateur. La prise en charge de ce dossier entraînera la facturation de
+
+frais de demande de remboursement dont le montant est fixé en Annexe 1 :
+
+- si la demande de remboursement et sa prise d’effet sont antérieures au terme des présentes le
 
 cas échéant tel que renouvelé ;
 
@@ -2140,6 +2140,16 @@ plus généralement les documents électroniques échangés entre elles, comme d
 
 à dire comme ayant la même valeur que celle accordée à l’original, au sens des dispositions de la loi
 
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+18
+
+
+
 locale applicable à l’Utilisateur. Les Parties conviennent de conserver les télécopies ou les écrits
 
 électroniques de telle manière qu’ils puissent constituer des copies fidèles et durables au sens des
@@ -2149,14 +2159,6 @@ dispositions de la loi locale applicable à l’Utilisateur.
 
 
 Article 24 – Service Clients Orange Money Europe
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 22 Mars 2022
-
-
-
-18
 
 
 
@@ -2260,10 +2262,6 @@ italiennes compétentes.
 
 Bas, les présentes sont régies par la loi des Pays-Bas. Tout litige survenant entre les Parties et relatif à
 
-la conclusion, interprétation, exécution et résiliation des présentes devra être soumis à la compétence
-
-des juridictions des Pays-Bas compétentes.
-
 Conditions d’utilisation du Service Orange Money Europe
 
 Version du 22 Mars 2022
@@ -2271,6 +2269,40 @@ Version du 22 Mars 2022
 
 
 19
+
+
+
+la conclusion, interprétation, exécution et résiliation des présentes devra être soumis à la compétence
+
+des juridictions des Pays-Bas compétentes.
+
+
+
+26.5 Lorsque l’Utilisateur réside en Espagne et détient un compte Orange Money ouvert en Espagne,
+
+les présentes sont régies par la loi en Espagne. Tout litige survenant entre les Parties et relatif à la
+
+conclusion, interprétation, exécution et résiliation des présentes devra être soumis à la compétence des
+
+juridictions de l’Espagne compétentes.
+
+
+
+26.4 Lorsque l’Utilisateur réside en Allemagne et détient un compte Orange Money ouvert en
+
+Allemagne, les présentes sont régies par la loi de l’Allemagne. Tout litige survenant entre les Parties et
+
+relatif à la conclusion, interprétation, exécution et résiliation des présentes devra être soumis à la
+
+compétence des juridictions de l’Allemagne compétentes.
+
+Conditions d’utilisation du Service Orange Money Europe
+
+Version du 22 Mars 2022
+
+
+
+20
 
 
 
@@ -2540,7 +2572,7 @@ Version du 22 Mars 2022
 
 
 
-20
+21
 
 
 
@@ -2650,7 +2682,7 @@ Version du 22 Mars 2022
 
 
 
-21
+22
 
 
 
@@ -2764,7 +2796,7 @@ Version du 22 Mars 2022
 
 
 
-22
+23
 
 
 
@@ -2874,7 +2906,7 @@ Version du 22 Mars 2022
 
 
 
-23
+24
 
 
 
@@ -2884,9 +2916,9 @@ réclamation auprès de l’autorité de contrôle en charge du respect des obli
 
 à caractère personnel :
 
-- Pour les clients en France : Commission Nationale l’Informatique et des Libertés -
+- Pour les clients en France : Commission Nationale l’Informatique et des Libertés - CNIL
 
-CNIL(adresse : 3 place de Fontenoy TSA 80715 – 75334 Paris Cedex 07) ;
+(adresse : 3 place de Fontenoy TSA 80715 – 75334 Paris Cedex 07) ;
 
 - Pour les clients en Belgique : Autorité de protection des données (adresse : rue de a presse,
 
@@ -2932,7 +2964,7 @@ Version du 2 février 2022
 
 
 
-24
+25
 
 
 
@@ -3048,7 +3080,7 @@ Version du 2 février 2022
 
 
 
-25
+26
 
 
 
@@ -3162,7 +3194,7 @@ Version du 2 février 2022
 
 
 
-26
+27
 
 
 
