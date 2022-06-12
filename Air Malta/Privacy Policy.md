@@ -14,7 +14,7 @@ En continuant à accéder, à utiliser ou à acheter nos services et nos produit
 
 Nous vous invitons à lire attentivement la présente Politique étant donné que l’accès, l’achat et l’utilisation de nos produits et de nos services constituent la preuve que vous avez pris connaissance et accepté toutes les conditions et pratiques décrites dans la présente Politique, y compris, mais de façon non limitative, la collecte, l’utilisation, le traitement et la divulgation des données personnelles vous concernant. Nous vous prions de ne pas accéder, utiliser ou acheter nos services et nos produits en cas de désaccord avec les conditions et pratiques décrites dans la présente Politique.
 
-Pour toute question relative à la présente Politique ou à sa mise en œuvre, veuillez contacter notre délégué à la protection des données via courriel à l’adresse [\[email protected\]](https://airmalta.com/cdn-cgi/l/email-protection#removed) ou par écrit à l’adresse Air Malta, Level 2, Sky Parks Business Centre, Malta International Airport, LQA4000, Malte.
+Pour toute question relative à la présente Politique ou à sa mise en œuvre, veuillez contacter notre délégué à la protection des données via courriel à l’adresse [dpo.airmalta@airmalta.com](mailto:dpo.airmalta@airmalta.com) ou par écrit à l’adresse Air Malta, Level 2, Sky Parks Business Centre, Malta International Airport, LQA4000, Malte.
 
 **Quels sont les types de données que nous collectons ?**
 
@@ -169,7 +169,7 @@ Il se peut que vous receviez des informations relatives à la prospection commer
 
 Nous sommes également susceptibles de vous envoyer des informations relatives à la prospection commerciale via un tiers. Si, le cas échéant, nous souhaitons autoriser un tiers à vous envoyer des informations dont le contenu n’est pas directement lié à Air Malta, nous nous emploierons d’abord à obtenir votre consentement avant de communiquer toute donnée personnelle vous concernant.
 
-Si vous avez consenti par le passé à l’utilisation de vos données personnelles à des fins de prospection commerciale et que souhaitez retirer votre consentement, vous pouvez vous désinscrire à tout moment ou nous contacter à l’adresse suivante : [\[email protected\]](https://airmalta.com/cdn-cgi/l/email-protection#removed).
+Si vous avez consenti par le passé à l’utilisation de vos données personnelles à des fins de prospection commerciale et que souhaitez retirer votre consentement, vous pouvez vous désinscrire à tout moment ou nous contacter à l’adresse suivante : [dpo.airmalta@airmalta.com](mailto:dpo.airmalta@airmalta.com).
 
 **Sécurité, conservation et transfert**
 
@@ -201,7 +201,7 @@ En Nous fournissant les données personnelles d’un tiers, vous confirmez être
 
 **Accessibilité, correction, transfert et suppression des données**
 
-À votre demande, nous mettrons à disposition les données personnelles vous concernant afin que vous puissiez les corriger. En cas d’inexactitude ou d’utilisation inappropriée de vos données, nous nous engageons à les corriger, les actualiser ou les supprimer, si nécessaire. Vous disposez également d’un droit à l’effacement et à la portabilité de vos données ainsi qu’à la limitation et à l’opposition au traitement de vos données personnelles. Pour plus d’informations relative à l’accessibilité de vos données et à l’exercice de vos droits, veuillez nous contacter par courriel via l’adresse [\[email protected\]](https://airmalta.com/cdn-cgi/l/email-protection#removed).
+À votre demande, nous mettrons à disposition les données personnelles vous concernant afin que vous puissiez les corriger. En cas d’inexactitude ou d’utilisation inappropriée de vos données, nous nous engageons à les corriger, les actualiser ou les supprimer, si nécessaire. Vous disposez également d’un droit à l’effacement et à la portabilité de vos données ainsi qu’à la limitation et à l’opposition au traitement de vos données personnelles. Pour plus d’informations relative à l’accessibilité de vos données et à l’exercice de vos droits, veuillez nous contacter par courriel via l’adresse [dpo.airmalta@airmalta.com](mailto:dpo.airmalta@airmalta.com).
 
 **Réclamation et droit applicable**
 
