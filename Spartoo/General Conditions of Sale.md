@@ -224,7 +224,7 @@ Coût de la livraison : 7€
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
-Coût de la livraison : 15 €
+Coût de la livraison : 10 €
 
   
 9.3.Luxembourg  
