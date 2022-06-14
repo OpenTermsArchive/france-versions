@@ -164,7 +164,7 @@ Les Produits retournés doivent être intacts et complets et ne doivent pas avoi
   
 Attention, pour faciliter la bonne reprise de votre matelas/sommier, ce dernier devra être muni, de sa housse de protection intérieure intacte, ni trouée, ni déchirée.  
   
-Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).  
+Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2022.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).  
   
 LA REDOUTE accusera réception de votre rétractation, par email.  
   
@@ -176,7 +176,7 @@ Vous devez ensuite retourner les Produits à LA REDOUTE, au plus tard dans les q
   
 Pour les Produits volumineux signalés par une camionnette, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 323 515 (Service gratuit + prix d’un appel local).
 
-Pour les cartes cadeaux, Vous devez simplement envoyer par email à LA REDOUTE, dans le délai de quatorze (14) jours susvisés, le code à 19 chiffres associé à la carte cadeau (ce code figure soit sur la carte cadeau physique soit dans l’email contenant la carte dématérialisée), à l’adresse email suivante : [contact\_serviceclients@redoute.fr](mailto:contact_serviceclients@redoute.fr). A la réception du code de la carte cadeau, LA REDOUTE procèdera à la désactivation à distance de la carte.  
+Pour les cartes cadeaux, Vous devez simplement envoyer par email à LA REDOUTE, dans le délai de quatorze (14) jours susvisés, le code à 19 chiffres associé à la carte cadeau (ce code figure soit sur la carte cadeau physique soit dans l’email contenant la carte dématérialisée), à l’adresse email suivante : [contact\_retractation@redoute.fr](mailto:contact_retractation@redoute.fr). A la réception du code de la carte cadeau, LA REDOUTE procèdera à la désactivation à distance de la carte.  
   
 LA REDOUTE s'engage à vous rembourser la totalité des sommes versées à la réception du Produit dans ses entrepôts ou dès réception de la preuve de retour de votre colis que Vous nous aurez envoyée à l'adresse suivante : La Redoute, Service Relations Clients, BP 40419, 59057 Roubaix Cedex 1. A titre indicatif, il faut généralement compter entre trois (3) à quatre (4) semaines pour un retour dans les entrepôts de LA REDOUTE.
 
