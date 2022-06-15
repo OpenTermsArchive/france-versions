@@ -1,15 +1,8 @@
-POLITIQUE DE DONNEES CLIENTS - PROSPECTS DAMART
------------------------------------------------
-
-La société DAMART, soucieuse de la protection des données personnelles, s'engage, en sa qualité de responsable de traitement, à n'utiliser les données collectées que dans le respect de la législation relative aux données personnelles et notamment du Règlement européen du 27 Avril 2016 sur la protection des données personnelles.
-
-RESPONSABLE DE TRAITEMENT
--------------------------
-
 DAMART, société dont le siège social est situé 25 Avenue de la Fosse aux chênes 59100 ROUBAIX immatriculée au RCS de Lille Métropole sous le numéro 333 202 083. Pour toute question relative aux données personnelles, vous pouvez contacter le délégué à la protection des données (DPO) nommé pour Damart France qui est joignable par courrier à l'adresse suivante : DAMART- à l'attention du DPO - 25 Avenue de la Fosse aux chênes 59100 ROUBAIX et par mail à l'adresse suivante : [dpo-france@damart.com.](mailto:dpo-france@damart.com)
 
-FINALITES DU TRAITEMENT CLIENTS/PROSPECTS :
--------------------------------------------
+  
+
+##### FINALITES DU TRAITEMENT CLIENTS/PROSPECTS :
 
 1\. Sur la base de l'exécution d'un contrat :  
 \-gestion du compte client, des commandes et demandes de cadeaux (livraisons, retours, échanges, réservations en magasin ou sur le web, rétractation, facturation et suivi comptable) ;  
@@ -40,8 +33,9 @@ FINALITES DU TRAITEMENT CLIENTS/PROSPECTS :
 \- l'enregistrement et gestion des tutelles et curatelles ;  
 \- lutte contre la fraude.
 
-DESTINATAIRES DU TRAITEMENT CLIENTS/PROSPECTS :
------------------------------------------------
+  
+
+##### DESTINATAIRES DU TRAITEMENT CLIENTS/PROSPECTS :
 
 Vos données sont destinées aux services internes de DAMART et notamment aux sociétés du groupe DAMARTEX (www.damartex.com) dont DAMART fait partie aux fins d'améliorer la qualité et l'exactitude de nos fichiers clients.
 
@@ -59,8 +53,9 @@ Pour la bonne exécution des prestations, vos données peuvent être communiqué
 
 Vos données peuvent être transférées hors de l'Union européenne par le biais de nos sous-traitants. Pour assurer un niveau de protection équivalent à celui du territoire de l'Union européenne, DAMART prend systématiquement des mesures de protection équivalentes, notamment par le biais de clauses contractuelles ou qui présentent des garanties suffisantes au regard de la règlementation européenne (BCR, Privacy Shield).
 
-DUREE DE CONSERVATION DE VOS DONNEES :
---------------------------------------
+  
+
+##### DUREE DE CONSERVATION DE VOS DONNEES :
 
 Vos données seront conservées :  
 \- 10 ans après votre dernière commande pour les clients ;  
@@ -73,13 +68,15 @@ Les avis clients sont conservés durant la période de commercialisation du prod
 Les enregistrements d'appels téléphoniques sont conservés six mois maximum.  
 Les enregistrements de vidéosurveillance sont conservés un mois maximum.
 
-SECURITE ET CONFIDENTIALITE
----------------------------
+  
+
+##### SECURITE ET CONFIDENTIALITE
 
 Nous mettons en œuvre des mesures organisationnelles, techniques, logicielles et physiques en matière de sécurité informatique afin de protéger vos données contre les altérations, destructions et accès non-autorisés.
 
-VOS DROITS SUR VOS DONNEES :
-----------------------------
+  
+
+##### VOS DROITS SUR VOS DONNEES :
 
 Conformément au règlement européen 2016/679 du 27 avril 2016 et à la Loi Informatique et Libertés, vous disposez :  
 \- d'un droit d'accès aux données personnelles vous concernant, que nous traitons ;  
