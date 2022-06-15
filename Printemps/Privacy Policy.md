@@ -1124,7 +1124,7 @@ Quelles donn�es � caract�re personnel pouvons-nous traiter ?
 
   
 
-**Pour la gestion des avantages :**
+**Pour la gestion des avantages pour la client�le internationale :**
 
 *   Nom, pr�nom
 *   Num�ro de passeport
