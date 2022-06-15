@@ -239,7 +239,7 @@ Vous vous engagez à conserver ce mot de passe secret et à ne le communiquer à
 
 Notre Plateforme peut occasionnellement contenir des liens vers les sites internet de nos partenaires ou de sociétés tierces. Veuillez noter que ces sites internet ont leur propre politique de confidentialité et que nous déclinons toute responsabilité quant à l’utilisation faite par ces sites des informations collectées lorsque vous cliquez sur ces liens. Nous vous invitons à prendre connaissance de politiques de confidentialité de ces sites avant de leur transmettre vos Données Personnelles.
 
-12\. Modification de notre politique de confidentialité
+12\. Modification de notre Politique de Confidentialité
 -------------------------------------------------------
 
 Nous pouvons être amenés à modifier occasionnellement la présente Politique de Confidentialité. Lorsque cela est nécessaire, nous vous en informerons et/ou solliciterons votre accord. Nous vous conseillons de consulter régulièrement cette page pour prendre connaissance des éventuelles modifications ou mises à jour apportées à notre Politique de Confidentialité.
