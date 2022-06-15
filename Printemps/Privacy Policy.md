@@ -426,165 +426,6 @@ Combien de temps conservons-nous vos donn�es � caract�re personnel ?
 
   
 
-GERER VOS DEMANDES DE DEVIS VOYAGE VIA NOTRE FORMULAIRE EN LIGNE DE VOYAGE SUR MESURE, EN AGENCE DE VOYAGES ET LORS D'�V�NEMENTS - PRINTEMPS VOYAGES
-
-  
-
-  
-
-Quelles donn�es � caract�re personnel pouvons-nous traiter ?
-------------------------------------------------------------
-
-*   Destination
-*   Date de d�part
-*   Dur�e du voyage
-*   Nombre d'enfants et de b�b�s
-*   Budget par personne
-*   Type de voyage
-*   Descriptif du projet de voyage
-*   Civilit�, nom, pr�nom
-*   Adresse email
-*   Ville
-*   Code postal
-*   Num�ro de t�l�phone
-*   Agence Printemps Voyages de rattachement
-*   Les donn�es relatives � l'approbation ou le refus de prospection commerciale et les pr�f�rences d'abonnement
-
-  
-
-_Dans le cadre de cette finalit�, et par la suite dans le cadre de la r�servation de votre voyage, des donn�es � caract�re personnel d'autres personnes (autres participants au voyage, personne ayant particip� � une liste Printemps, personne � pr�venir en cas d'urgence) peuvent �tre collect�es, en ce compris des donn�es � caract�re personnel de mineurs (participants au voyage). Ces donn�es ne seront trait�es que dans le cadre de la finalit� susmentionn�e. D�s lors, vous garantissez avoir inform� les autres personnes concern�es de cette transmission de donn�es et avoir obtenu leur accord pr�alable. Des donn�es sensibles telles que des donn�es de sant� (handicap, allergie, r�gime alimentaire) peuvent �tre collect�es et permettre de connaitre de mani�re indirecte la religion, les croyances ou les convictions des personnes concern�es. Ces donn�es seront trait�es uniquement dans le cadre de l'organisation du transport et/ou de votre voyage, et ne seront pas utilis�es � d'autres fins._
-
-  
-
-Sur quelle base l�gale repose le traitement de vos donn�es � caract�re personnel ?
-----------------------------------------------------------------------------------
-
-*   Ex�cution d'un contrat
-*   Votre consentement (pour vous adresser des communications commerciales)
-
-  
-
-Combien de temps conservons-nous vos donn�es � caract�re personnel ?
---------------------------------------------------------------------
-
-*   **Client :** 3 ans � compter de la fin de la relation commerciale, � compter de l'approbation de prospection commerciale et pr�f�rences de l'abonnement. Archivage 10 ans � partir de la cl�ture de l'exercice (article L123-22 du Code de commerce)
-*   **Prospect :** 3 ans � compter de l'approbation de prospection commerciale et pr�f�rences de l'abonnement
-
-  
-
-GERER VOS DEMANDES D'INFORMATIONS SUR UNE FICHE PRODUIT VOYAGE - PRINTEMPS VOYAGES
-
-  
-
-Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre fournies ou collect�es ?
-----------------------------------------------------------------------------------------------
-
-*   R�pondre � vos demandes d'informations sur une fiche produit voyage
-*   Vous permettre de partager une fiche produit par mail
-
-  
-
-Combien de temps conservons-nous vos donn�es � caract�re personnel ?\*5
------------------------------------------------------------------------
-
-  
-
-*   Ville de d�part
-*   Date de d�part
-*   Dur�e du voyage
-*   Nombre de participants
-*   Civilit�, nom, pr�nom
-*   Adresse postale
-*   Pays
-*   Adresse email
-*   Adresse email du destinataire de la fiche produit
-*   Num�ro de t�l�phone
-*   Nombre d'enfants et de b�b�s
-*   Champ libre pour toute pr�cision
-
-_Dans le cadre de cette finalit�, et par la suite dans le cadre de la r�servation de votre voyage, des donn�es � caract�re personnel d'autres personnes (autres participants au voyage, personne ayant particip� � une liste Printemps, personne � pr�venir en cas d'urgence) peuvent �tre collect�es, en ce compris des donn�es � caract�re personnel de mineurs (participants au voyage). Ces donn�es ne seront trait�es que dans le cadre de la finalit� susmentionn�e. D�s lors, vous garantissez avoir inform� les autres personnes concern�es de cette transmission de donn�es et avoir obtenu leur accord pr�alable._
-
-_Des donn�es sensibles telles que des donn�es de sant� (handicap, allergie, r�gime alimentaire) peuvent �tre collect�es et permettre de connaitre de mani�re indirecte la religion, les croyances ou les convictions des personnes concern�es. Ces donn�es seront trait�es uniquement dans le cadre de l'organisation du transport et/ou de votre voyage, et ne seront pas utilis�es � d'autres fins._
-
-  
-
-Sur quelle base l�gale repose le traitement de vos donn�es � caract�re personnel ?
-----------------------------------------------------------------------------------
-
-*   **Ex�cution d'un contrat**
-
-Combien de temps conservons-nous vos donn�es � caract�re personnel ?\*5
------------------------------------------------------------------------
-
-*   **Client :** 3 ans � compter de la fin de la relation commerciale, � compter de l'approbation de prospection commerciale et pr�f�rences de l'abonnement Archivage 10 ans � partir de la cl�ture de l'exercice (article L123-22 du Code de commerce)
-*   **Prospect :** 3 ans � compter de l'approbation de prospection commerciale et pr�f�rences de l'abonnement
-*   Les adresses email pour le partage d'une fiche produit ne sont pas conserv�es dans nos syst�mes.
-
-  
-
-LA GESTION DE LA RESERVATION DE VOTRE VOYAGE - PRINTEMPS VOYAGES
-
-  
-
-Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre fournies ou collect�es ?
-----------------------------------------------------------------------------------------------
-
-*   Traiter et g�rer la/les prestation(s) r�serv�e(s) aupr�s de Printemps voyages que ce soit en magasin ou sur le site www.printempsvoyages.com/ (forfait-s�jour, trajet en avion ou tout autre moyen de transport), y inclus la gestion potentielle des demandes de visa ou tout autre document �manant de pays tiers)
-*   G�rer tout contact que vous avez avec nous concernant votre r�servation (information, annulation, remboursement, �change, r�clamation, assistance)
-
-  
-
-Quelles donn�es � caract�re personnel pouvons-nous traiter ?
-------------------------------------------------------------
-
-*   Dur�e du voyage
-*   Nombre de participants
-*   Nombre d'enfants et de b�b�s
-*   Civilit�, nom, pr�nom des voyageurs
-*   Date de naissance des voyageurs
-*   Num�ro de t�l�phone
-*   Adresse email
-*   Adresse postale
-*   Pays
-*   Documents d'identit�
-*   Agence Printemps Voyages de rattachement
-*   Les donn�es relatives � l'approbation ou au refus de prospection commerciale et les pr�f�rences d'abonnement
-*   Les donn�es relatives aux achats Printemps Voyages
-*   Les donn�es permettant la gestion du compte fid�lit� Printania (date d'adh�sion, type de carte, num�ro de compte Printania, num�ro de carte Printania)
-*   Vos points statut (si vous avez adh�r� au programme de fid�lit� Printania)
-*   Vos points shopping (si vous avez adh�r� au programme de fid�lit� Printania)
-*   Les donn�es permettant la gestion de la r�servation des prestations de voyage : transport, s�jour, circuit, h�bergement seul (destination, date de d�part, ville de d�part, dur�e du voyage, typologie du voyage, montant du voyage, r�clamation client, date du mariage ou pacs si besoin en cas de voyage de noces, personne � pr�venir en cas d'urgence)
-*   Les donn�es sp�cifiques pour les besoins de l'organisation du transport et/ou du s�jour/voyage
-*   Les donn�es relatives aux allergies, pr�f�rences et r�gimes alimentaires, le besoin d'assistance (handicap, sant�)\*
-*   Champ libre pour toute pr�cision
-*   Moyens de paiement
-*   Coordonn�es bancaires (titulaire de la carte, num�ro de carte, date de fin de validit�, cryptogramme) \*\*
-
-_Dans le cadre de cette finalit�, et par la suite dans le cadre de la r�servation de votre voyage, des donn�es � caract�re personnel d'autres personnes (autres participants au voyage, personne ayant particip� � une liste Printemps, personne � pr�venir en cas d'urgence) peuvent �tre collect�es, en ce compris des donn�es � caract�re personnel de mineurs (participants au voyage). Ces donn�es ne seront trait�es que dans le cadre de la finalit� susmentionn�e. D�s lors, vous garantissez avoir inform� les autres personnes concern�es de cette transmission de donn�es et avoir obtenu leur accord pr�alable._
-
-_\*Des donn�es sensibles telles que des donn�es de sant� (handicap, allergie, r�gime alimentaire) peuvent �tre collect�es et permettre de connaitre de mani�re indirecte la religion, les croyances ou les convictions des personnes concern�es. Ces donn�es seront trait�es uniquement dans le cadre de l'organisation du transport et/ou de votre voyage, et ne seront pas utilis�es � d'autres fins._
-
-_\*\*Il est pr�cis� que les coordonn�es bancaires ne sont pas collect�es par nos soins mais directement par nos prestataires de service de paiement._
-
-  
-
-Sur quelle base l�gale repose le traitement de vos donn�es � caract�re personnel ?
-----------------------------------------------------------------------------------
-
-*   **Ex�cution d'un contrat**
-*   **Votre consentement** (pour vous adresser des communications commerciales)
-
-Combien de temps conservons-nous vos donn�es � caract�re personnel ?\*5
------------------------------------------------------------------------
-
-*   **Client :** 3 ans � compter de la fin de la relation commerciale, � compter de l'approbation de prospection commerciale et pr�f�rences d'abonnement � la newsletter
-*   Archivage 10 ans � partir de la cl�ture de l'exercice (article L123-22 du Code de commerce)
-*   **Prospect :**3 ans � compter de l'approbation de prospection commerciale et pr�f�rences de l'abonnement � la newsletter
-
-  
-
-  
-
 LA GESTION DE VOS ACHATS A DISTANCE DANS LES MAGASINS PRINTEMPS PARTICIPANTS
 
   
@@ -702,20 +543,20 @@ Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre 
 
 *   Vous envoyer nos newsletters
 *   Vous permettre de g�rer vos pr�f�rences d'abonnement
-*   Am�liorer la connaissance client gr�ce � des reportings et statistiques afin de vous envoyer des communications commerciales adapt�es � vos pr�f�rences et centres d'int�r�t. (non applicable pour Printemps Listes et Printemps Voyages)
+*   Am�liorer la connaissance client gr�ce � des reportings et statistiques afin de vous envoyer des communications commerciales adapt�es � vos pr�f�rences et centres d'int�r�t. (non applicable pour Printemps Listes)
 
 Quelles donn�es � caract�re personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
 *   Civilit�, nom, pr�nom
-*   Date de naissance (non applicable pour Printemps Listes, Printemps France et Printemps Voyages)
+*   Date de naissance (non applicable pour Printemps Listes)
 *   Adresse email
-*   Num�ro de t�l�phone (non applicable pour Printemps Listes et Printemps Voyages)
+*   Num�ro de t�l�phone (non applicable pour Printemps Listes)
 *   Les donn�es sur les pr�f�rences magasin et les pr�f�rences d'abonnement
 *   Les donn�es relatives � l'approbation ou au refus de prospection commerciale (sms ou email)
-*   Code postal (non applicable pour Printemps France et Printemps Voyages)
-*   Ville (non applicable pour Printemps France et Printemps Voyages)
-*   Pays (non applicable pour Printemps France et Printemps Voyages)
+*   Code postal
+*   Ville
+*   Pays
 
   
 
@@ -743,7 +584,7 @@ Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre 
 ----------------------------------------------------------------------------------------------
 
 *   R�aliser des actions promotionnelles (informations sur les temps forts commerciaux, les offres sp�ciales, invitations aux �v�nements et salons)
-*   Vous adresser par email, par SMS ou par animation/affichage sur le site des communications commerciales pouvant �tre adapt�es � votre profil et � vos pr�f�rences (non applicable pour Printemps Listes et Printemps Voyages)
+*   Vous adresser par email, par SMS ou par animation/affichage sur le site des communications commerciales pouvant �tre adapt�es � votre profil et � vos pr�f�rences (non applicable pour Printemps Listes)
 *   Organiser des jeux concours et loteries
 
   
@@ -949,7 +790,7 @@ Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre 
 ----------------------------------------------------------------------------------------------
 
 *   Mesurer la qualit� de nos services
-*   Contr�ler, am�liorer nos Sites et vous proposer des offres et services personnalis�s (non applicable pour Printemps Voyages)
+*   Contr�ler, am�liorer nos Sites et vous proposer des offres et services personnalis�s
 *   Enregistrer certains �changes t�l�phoniques et sur le chat avec nos conseillers client afin d'am�liorer notre service
 *   G�rer votre participation � nos enqu�tes de satisfaction
 
@@ -965,7 +806,6 @@ Quelles donn�es � caract�re personnel pouvons-nous traiter ?
 *   Les donn�es relatives � la localisation (adresse IP de l'ordinateur se connectant au site) pour vous indiquer le magasin le plus proche ou pour vous proposer de vous connecter sur le site du magasin Printemps le plus proche de votre localisation
 *   Les donn�es de pr�f�rence du magasin Printemps s�lectionn�
 *   Avis client
-*   Destination du voyage (pour les enqu�tes de satisfaction Printemps Voyages)
 *   Historique des conversations avec le service client
 *   Donn�es de navigation (cookies de performance)
 
@@ -1090,7 +930,7 @@ Combien de temps conservons-nous vos donn�es � caract�re personnel ?
 
 *   3 ans � compter de la r�ponse d�finitive � la demande
 
-LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM, PRINTEMPS VOYAGES, PRINTEMPS LISTES, MAGASINS PRINTEMPS, PRINTANIA
+LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM, PRINTEMPS LISTES, MAGASINS PRINTEMPS, PRINTANIA
 
   
 
@@ -1231,7 +1071,7 @@ Combien de temps conservons-nous vos donn�es � caract�re personnel ?
 Vos donn�es � caract�re personnel peuvent �tre recueillies : 
 
 *   **directement** aupr�s de vous lorsque vous compl�tez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adh�sion au programme de fid�lit� Printania (par exemple lorsque vous proc�dez � la cr�ation d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez � un jeu concours, lorsque vous r�pondez � une enqu�te de satisfaction, lorsque vous ouvrez une liste ou r�alisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
-*   **indirectement**, via les donn�es de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacr�es � Printemps, Printemps.com, Printemps Listes et Printemps Voyages sur les r�seaux sociaux, lorsque lesdites donn�es nous sont transmises par les soci�t�s Printemps (lors de l'appairage de votre carte fid�lit� sur le site Internet [**www.placedestendances.com**](http://www.placedestendances.com/) par exemple), ou par les soci�t�s organisatrices de salons auxquels les soci�t�s Printemps peuvent participer (lesdites soci�t�s organisatrices s'�tant engag�es � recueillir le consentement des personnes concern�es).
+*   **indirectement**, via les donn�es de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacr�es � Printemps, Printemps.com et Printemps Listes, sur les r�seaux sociaux, lorsque lesdites donn�es nous sont transmises par les soci�t�s Printemps (lors de l'appairage de votre carte fid�lit� sur le site Internet [**www.placedestendances.com**](http://www.placedestendances.com/) par exemple), ou par les soci�t�s organisatrices de salons auxquels les soci�t�s Printemps peuvent participer (lesdites soci�t�s organisatrices s'�tant engag�es � recueillir le consentement des personnes concern�es).
 
   
 
@@ -1251,7 +1091,7 @@ Afin de mieux connaitre notre client�le et de vous faire b�n�ficier d'offr
 
   
 
-A l'occasion de la souscription � une offre ou � une prestation de Printemps Voyages, de l'ouverture d'une liste, d'un parrainage, de l'ouverture d'une cagnotte en ligne sur Printemps.com, la personne organisatrice peut communiquer des informations relatives aux autres personnes pour lesquelles elle r�serve le voyage ou la prestation, ou pour qui elle ouvre la liste, la cagnotte, ou r�alise le parrainage, sous r�serve qu'elle ait pr�alablement obtenue l'accord de la part desdites personnes pour une telle communication.
+A l'occasion de la souscription � une offre, de l'ouverture d'une liste, d'un parrainage, de l'ouverture d'une cagnotte en ligne sur Printemps.com, la personne organisatrice peut communiquer des informations relatives aux autres personnes pour lesquelles elle r�serve la prestation, ou pour qui elle ouvre la liste, la cagnotte, ou r�alise le parrainage, sous r�serve qu'elle ait pr�alablement obtenue l'accord de la part desdites personnes pour une telle communication.
 
 Lorsque nous collectons des donn�es � caract�re personnel directement aupr�s de vous, nous signalons les champs obligatoires, puisqu'il s'agit de donn�es dont nous avons besoin pour assurer le service en question ou pour vous permettre d'acc�der � une fonctionnalit�. Si vous ne souhaitez pas renseigner ces champs, cela pourra impacter notre capacit� � vous offrir les produits et services demand�s ou votre facult� d'acc�der � l'ensemble des fonctionnalit�s de nos Sites.
 
@@ -1265,15 +1105,14 @@ Lorsque nous collectons des donn�es � caract�re personnel directement aupr
 *   les personnes habilit�es au sein du Service Client,
 *   les �quipes de vente et logistique des soci�t�s Printemps (y inclus les vendeurs des soci�t�s Printemps et les d�monstrateurs en magasin),
 *   les personnes habilit�es au sein de la Direction Juridique.
-*   dans le cadre de Printemps Listes : les personnes habilit�es au sein de l'�quipe Printemps Listes Si�ge et magasins, Printemps Voyages Si�ge et agences en magasins, Printemps Affili�s et les personnes habilit�es au sein de la direction financi�re,
-*   dans le cadre de Printemps Voyages : les personnes habilit�es au sein de l'�quipe Printemps Voyages
+*   dans le cadre de Printemps Listes : les personnes habilit�es au sein de l'�quipe Printemps Listes Si�ge et magasins, Printemps Affili�s et les personnes habilit�es au sein de la direction financi�re
 
 En utilisant le compte PRINTEMPS.COM, vous pourrez b�n�ficier des services PRINTANIA afin de profiter des nombreux avantages r�sultant des interactions entre les deux enseignes. Nous vous informons �galement que Placedestendances.com, soci�t� filiale du Groupe Printemps, est �galement destinataire de donn�es � caract�re personnel dans le cadre du programme de fid�lit� lorsque vous renseignez votre num�ro de carte PRINTANIA sur le site Internet www.placedestendances.com pour appairer votre compte Place des tendances et votre carte PRINTANIA..
 
 *   Vos donn�es � caract�re personnel peuvent �tre transmises **aux prestataires auxquels les soci�t�s Printemps font appel** pour la r�alisation de services dans le cadre des finalit�s mentionn�es ci-dessus, par exemple:
 *   Nos prestataires d'h�bergement, dont nous avons besoin pour stocker l'ensemble de vos donn�es, de maintenance et de support technique
 *   Nos prestataires en charge d'assurer la gestion et la s�curit� des paiements que vous effectuez sur nos Sites
-*   Nos prestataires en charge de vous livrer les produits ou prestations que vous commandez (par exemple, services de livraison ou services postaux) et dans le cadre de Printemps Voyages, les services habilit�s des prestataires techniques (tours op�rateurs, compagnies a�riennes, loueurs de voiture, h�tels/loueurs d'h�bergement, compagnies ferroviaires, croisi�ristes, agents locaux, transf�ristes, services de visa, service conciergerie, assureur)
+*   Nos prestataires en charge de vous livrer les produits ou prestations que vous commandez (par exemple, services de livraison ou services postaux)
 *   Nos prestataires auxquels nous confions les services de stockage, de pr�paration, de livraison de nos produits et de gestion des retours des produits
 *   Nos prestataires en charge de la relation client
 *   Nos prestataires en charge de r�aliser des analyses et segmentations, du web analytics, des �tudes marketing et commerciales, et des campagnes publicitaires personnalis�es
