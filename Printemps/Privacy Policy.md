@@ -508,7 +508,7 @@ Quelles donn�es � caract�re personnel pouvons-nous traiter ?
 *   Date de naissance
 *   Donn�es de paiement (date et montant de la transaction, type de moyen de paiement) Il est pr�cis� que les informations relatives au paiement (num�ro de carte bancaire/coordonn�es bancaires) ne sont pas collect�es par nos soins mais directement par nos prestataires de service de paiement.
 *   Les donn�es permettant la gestion du compte fid�lit� Printania (date d'adh�sion, type de carte, r�clamation client, num�ro de compte Printania, num�ro de carte Printania)
-*   Les donn�es relatives aux achats effectu�s par la personne ayant adh�r� au programme Printania en magasin Printemps ou sur les sites Internet www.placedestendances.com et www.printemps.com, printempsvoyages.com (num�ro de commande ou de r�servation, date de commande, type de produits)
+*   Les donn�es relatives aux achats effectu�s par la personne ayant adh�r� au programme Printania en magasin Printemps ou sur les sites Internet www.placedestendances.com et www.printemps.com (num�ro de commande ou de r�servation, date de commande, type de produits)
 *   Les donn�es relatives aux �ventuels retours (date de retour, montant du retour) et donn�es relatives � l'escompte (montant de l'escompte)
 *   L'historique des points et des avantages
 *   Les donn�es de pr�f�rence avec le choix des 3 marques pr�f�r�es du titulaire
@@ -739,7 +739,6 @@ Pour quelles finalit�s vos donn�es � caract�re personnel peuvent �tre 
 ----------------------------------------------------------------------------------------------
 
 *   G�rer vos �changes t�l�phoniques avec notre service client
-*   G�rer vos �changes t�l�phoniques avec notre service voyage
 *   G�rer les �changes via le Chat, la messagerie instantan�e, ou notre messagerie priv�e sur les r�seaux sociaux
 *   G�rer les �changes par mail
 *   G�rer les �changes en magasin
