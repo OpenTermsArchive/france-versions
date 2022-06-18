@@ -29,7 +29,7 @@ La société **CAROLL INTERNATIONAL**
 Société Anonyme, au capital de 21 966 966, 85 euros  
 Immatriculée au registre du commerce et des Sociétés de Saint Malo, sous le numéro 582 001 707  
 Siège social: 10 Impasse du Grand Jardin Zac de la Moinerie - 35400 Saint-Malo  
-Adresse bureau parisien : 28 Avenue de Flandre - 75949 Paris Cedex 19  
+Adresse bureau parisien : 61-69 rue de Bercy 75012 Paris  
   
 
 II. Origine et catégories de Données personnelles collectées
@@ -138,7 +138,7 @@ La Société respecte les règles applicables en fonction de chaque canal de pro
 
 Certaines Données non renseignées ou toute opposition à leur collecte peut rendre inaccessible certains services proposés sur le Site Internet, par exemple : une commande de produits et/ou la participation à un jeux concours ou à une opération promotionnelle.
 
-Vous pouvez exercer vos droits en écrivant à l’adresse suivante Caroll International Service Clients – 28 avenue de Flandre – 75949 Paris Cedex 19 ; ou par email : serviceclient@caroll.com
+Vous pouvez exercer vos droits en écrivant à l’adresse suivante Caroll International Service Clients – 61-69 rue de Bercy 75012 Paris ; ou par email : serviceclient@caroll.com
 
   
 
