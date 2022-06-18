@@ -10,7 +10,7 @@ La société CAROLL INTERNATIONAL,
 Société Anonyme, au capital de 21 966 966, 85 euros  
 dont le siège social est situé 10 Impasse du Grand Jardin Zac de la Moinerie - 35400 Saint-Malo  
 Immatriculée au registre du commerce et des Sociétés de Saint Malo, sous le numéro 582 001 707  
-Adresse bureau parisien : 28 Avenue de Flandre - 75949 Paris Cedex 19
+Adresse bureau parisien : 61-69 rue de Bercy 75012 Paris
 
 N°TVA : FR 89582001707  
 Tél.: 01.44.89.73.33 - Fax:01.44.89.74.04  
@@ -233,7 +233,7 @@ o Envoyez-le par courrier postal ou par e-mail, dans un délai de 14 jours selon
 Afin de faciliter le traitement de votre rétractation, nous recommandons vivement à tout Client d’indiquer le numéro de sa commande, ainsi que son adresse email (pour ceux exerçant leur retour par formulaire papier).  
   
 Modèle du Formulaire :  
-A l’attention de CAROLL INTERNATIONAL – CI 6e – 28 Avenue de Flandre – 75949 Paris Cedex 19  
+A l’attention de CAROLL INTERNATIONAL – CI 6e – 61-69 rue de Bercy 75012 Paris  
 E-mail : serviceclient@caroll.com  
 Je notifie par la présente ma rétractation du contrat portant sur la vente de bien ci-dessous : \[indiquer le ou les produits pour lequel vous exercez votre droit de rétractation\]  
 Commandé le \[\_\_\_\_\_\] (\*)/reçu le \[\_\_\_\_\_\_\] (\*) \[compléter par les dates correspondantes, et (\*) rayer la mention inutile\]  
