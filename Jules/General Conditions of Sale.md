@@ -1,7 +1,7 @@
 conditions générales de vente
 =============================
 
-Mises à jour le 15/02/2022
+Mises à jour le 17/06/2022
 
 ARTICLE 1 – PREAMBULE
 ---------------------
@@ -545,7 +545,7 @@ Jules s’engage à mettre en œuvre tous les moyens nécessaires afin d'assurer
 *   En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
 *   Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service.
 
-ARTICEL 11 – CONTACT
+ARTICLE 11 – CONTACT
 --------------------
 
 Pour toute question relative au Programme, l’Adhérent est invité à s’adresser au service client :  
@@ -561,3 +561,118 @@ ARTICLE 12 – LITIGES
 Les Conditions Générales sont soumises à la loi française, sous réserve, le cas échéant, des dispositions légales plus favorables pour les Adhérents domiciliés dans un autre pays du réseau Jules/Brice tels que listés à l’article 3.  
   
 Tous différends relatifs à l’utilisation du Programme qui ne pourraient être réglés à l’amiable seront portés devant les tribunaux compétents du domicile de l’Adhérent ou du ressort du siège social de Jules.
+
+ANNEXE 2 – CONDITIONS GENERALES D'EVALUATION DES PRODUITS JULES
+---------------------------------------------------------------
+
+ARTICLE 1 – PREAMBULE
+---------------------
+
+JULES, Société par Actions Simplifiée au capital de 32 960 825 € dont le siège social est situé 152 avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262 (« Jules ») a mis en place un système (le « Service ») de recueil et de publication des avis de ses clients (les « Avis ») sur ses sites Internet [www.jules.com](https://www.jules.com/fr-fr/index/) et [www.brice.fr](https://www.brice.fr/fr-fr/index/) (ensemble et indifféremment le « Site Internet »).
+
+ARTICLE 2 – OBJET
+-----------------
+
+Les présentes conditions générales (les « Conditions Générales ») ont pour objet de décrire les conditions d’évaluation des produits (les « Produits ») achetés sur le Site Internet ou dans les magasins Jules et Brice de France (les « Magasins ») par toute personne physique majeure non commerçante (le « Client »).  
+  
+Elles se complètent de la [politique de confidentialité](https://www.jules.com/fr-fr/static/politique-de-confidentialite.html)  
+  
+Le Client déclare avoir pris connaissance des Conditions Générales. Le fait de soumettre un Avis implique l’adhésion entière et sans réserve du Client aux Conditions Générales.  
+  
+Jules se réserve la possibilité de modifier les Conditions Générales à tout moment. Dans cette hypothèse, les modifications seront applicables à compter de leur mise en ligne. A ce titre, Jules invite les Clients à consulter les Conditions Générales régulièrement.
+
+ARTICLE 3 – DEPÔT DES AVIS
+--------------------------
+
+Le Client qui souhaite déposer un Avis déclare :
+
+*   Être une personne physique majeure et avoir la capacité de conclure le présent contrat ;
+*   Avoir eu personnellement une expérience de consommation du Produit sur lequel porte l’Avis.
+
+Il est précisé que seuls les Clients ayant réalisé une commande sur le Site Internet ou un achat en Magasin sont susceptibles de donner leur Avis sur le Produit concerné, dans la limite de trois (3) Produits et d’un (1) Avis par Produit.  
+  
+Aucune contrepartie n’est fournie en échange de l’Avis.  
+  
+Pour déposer un Avis, le Client doit cliquer sur le lien présent dans l’email envoyé par Jules suite à la réception du Produit. Il sera automatiquement redirigé sur un formulaire permettant notamment d’évaluer le Produit. Le Client pourra alors saisir le contenu de son Avis et/ou noter le Produit (note générale, rapport qualité prix, style, matière, etc.).
+
+ARTICLE 4 – CONTENU DES AVIS
+----------------------------
+
+Chaque Avis se compose d’un commentaire et/ou d’une note entre 0 et 5 étoiles ; étant précisé qu’une note générale est attribuée au Produit correspondant à la moyenne arithmétique de l’intégralité des Avis relatifs au Produit.  
+  
+Le Client s’engage à déposer un Avis :
+
+*   Portant exclusivement sur le Produit en lui-même (taille, coloris, matière, caractéristiques essentielles, etc.) et non pas sur les services liés au Produit auquel l’Avis fait référence tels que la livraison, le paiement, le retour ou le service client ;
+*   Rédigé dans un langage compréhensible, intelligible et en langue française.
+
+En outre, le contenu de l’Avis ne doit pas :
+
+*   Comporter des informations fausses, mensongères ou de nature à induire en erreur les utilisateurs du Site Internet ;
+*   Comporter des informations étrangères et sans rapport avec le Produit auquel l’Avis fait référence ;
+*   Faire référence au prix payé pour le Produit évalué ou faire état d’une promotion en cours avec divulgation d’un code ou bon de réduction ;
+*   Avoir fait l’objet d’une rémunération par tout tiers ;
+*   Être contraire aux lois et règlements applicables ;
+*   Être contraire à l’ordre public et aux bonnes mœurs, violent, incitant à la haine, raciste, injurieux, dénigrant, diffamatoire, vulgaire, offensant, sans que cette liste soit limitative ;
+*   Porter atteinte à la vie privée ou aux droits privatifs d’un tiers, notamment droit à l’image des personnes et des biens, droit de propriété intellectuelle et/ou industrielle ;
+*   Être inapproprié vis-à-vis d’un autre Avis ou de son auteur ;
+*   Comporter des données à caractère personnel et/ou sensibles ;
+*   Être à caractère promotionnel ou publicitaire ;
+*   Contenir des liens hypertextes redirigeant notamment vers des sites Internet exploités par des sociétés tierces à Jules ;
+*   Contenir des virus informatiques ou fichiers malveillants.
+
+ARTICLE 5 – MODERATION DES AVIS
+-------------------------------
+
+Le dépôt de l’Avis ne donne pas lieu à la publication immédiate de celui-ci sur le Site Internet. Il devra d’abord être évalué et validé ; cette modération a priori est effectuée à la fois automatiquement et humainement par les équipes de Jules.  
+  
+A ce titre, Jules se réserve le droit de ne pas publier tout Avis qui contreviendrait spécifiquement aux dispositions de l’article 4 et plus généralement aux Conditions Générales et/ou au droit français et européen.  
+  
+La modération est effectuée indistinctement sur tous les Avis, quel que soit leur contenu, et au plus tard sept (7) jours ouvrés suivant le dépôt de l’Avis.  
+  
+Le cas échéant, le Client sera informé par email de la décision de non-publication de son Avis de la part de Jules. L’email de notification inclut alors la raison pour laquelle l’Avis est rejeté. Dans ce cas, le Client ne peut pas soumettre un nouvel Avis sur le Produit concerné.  
+  
+Il est précisé que Jules dispose d’un droit de réponse vis-à-vis des Avis publiés sur le Site Internet. Jules pourra également contacter les Clients qui auront laissé un Avis dont la note serait inférieure à 3/5 dans le cadre du suivi de la gestion client. Dans tous les cas, l’Avis sera publié sur le Site Internet dans les conditions décrites aux présentes.
+
+ARTICLE 6 – PUBLICATION DES AVIS
+--------------------------------
+
+Les Avis sont publiés sur le Site Internet au plus tard sept (7) jours ouvrés suivant le dépôt de l’Avis via le formulaire, sous réserve de la modération effectuée dans les conditions de l’article 5.  
+  
+L’Avis est visible sur la fiche du Produit évalué et reprend la note ainsi que le commentaire éventuel laissé par le Client. L’identité du Client (son prénom et la 1ère lettre de son nom) ainsi que le Magasin ou Site Internet concerné par l’achat sont indiqués à côté de l’Avis.  
+  
+L’ensemble des Avis approuvés lors du processus de modération sont affichés sur le Site Internet, qu’ils soient positifs ou négatifs.  
+  
+Ils demeurent visibles sur le Site Internet, aussi longtemps que le Produit évalué est proposé à la vente sur le Site Internet.  
+  
+Ils pourront néanmoins faire l’objet d’une dépublication, s’ils s’avéraient finalement ne pas être conformes aux Conditions Générales ou obsolètes au regard des modifications substantielles apportées au Produit.
+
+ARTICLE 7 – PROPRIETE INTELLECTUELLE
+------------------------------------
+
+En soumettant un Avis, le Client reconnait et accepte que ce dernier (i) soit diffusé publiquement sur le Site Internet et librement accessible à tout utilisateur et plus généralement aux internautes y compris extérieurs au Site Internet via un référencement sur les moteurs de recherche et (ii) soit utilisé par Jules à des fins publicitaires et promotionnelles, par tous moyens et sur tous supports, des Produits, du Service, du Site Internet et plus généralement de Jules (envoi de newsletters, etc.).  
+  
+A ce titre, dans le cadre de l’éventuelle protection au titre des droits de propriété intellectuelle dont il pourrait bénéficier, le Client accorde à Jules à titre gratuit pour une durée de dix (10) ans le droit d'utiliser, de stocker, de traduire, d’adapter, d’exploiter, de distribuer, de publier et d'afficher le contenu de l’Avis, en intégralité ou par extrait, pour toutes finalités, notamment commerciales, publicitaires et promotionnelles, sur tous supports (sites Internet, mailing et emailing, réseaux sociaux, affiches, etc.), dans le monde entier.
+
+ARTICLE 8 – MODIFICATION DES AVIS
+---------------------------------
+
+Une fois l’Avis publié, le Client n’a plus la possibilité de modifier ce dernier. Néanmoins, il peut demander la suppression de son Avis à tout moment après publication sur le Site Internet, via le [formulaire de contact](https://www.jules.com/fr-fr/nous-contacter/) (rubrique « Protection des données personnelles »).
+
+ARTICLE 9 – SIGNALEMENT D’ABUS
+------------------------------
+
+Tout internaute a la faculté de signaler à Jules à tout moment un Avis qui porterait atteinte à ses droits et/ou ne respecterait pas les Conditions Générales en cliquant sur le lien « Signaler » situé sous l’Avis concerné.
+
+ARTICLE 10 – RESPONSABILITE
+---------------------------
+
+Jules fera ses meilleurs efforts pour éviter que des Avis contraires aux dispositions légales ou règlementaires en vigueur et plus généralement aux Conditions Générales ne soient accessibles sur le Site Internet.  
+  
+Les Avis sont publiés sous l’entière et seule responsabilité de leurs auteurs ; Jules ne saurait être tenu responsable de contenus dont il n’est pas l’auteur.
+
+ARTICLE 11 – LITIGES
+--------------------
+
+Les Conditions Générales sont soumises à la loi française.  
+  
+Tous différends relatifs au Service qui ne pourraient être réglés à l’amiable seront portés devant les tribunaux compétents du domicile du défendeur ou du ressort du siège social de Jules.
