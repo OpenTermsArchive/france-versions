@@ -57,7 +57,7 @@ Additional terms and policies may apply to certain products or features of the P
 
 *   TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop.
 
-*   [Branded Content Policy](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-policy): This policy applies when you post content on the Platform about a brand or a product in return for any payment or other incentive.
+*   [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en): This policy applies when you post content on the Platform about a brand or a product in return for any payment or other incentive.
 
 *   [Business Terms](https://www.tiktok.com/legal/business-terms-eea?lang=en): These terms apply if you use the Platform for purposes within your trade, business, craft or profession, including managing your own business through your account on the Platform or administering an account on behalf of a business.
 
@@ -170,7 +170,7 @@ You must also not post, live stream or otherwise distribute any content on the P
 
 *   otherwise contains harmful content (such as content that causes physical, mental or moral detriment to minors).
 
-If you post content on the Platform about a brand or a product in return for any payment or other incentive, you must comply with the [Branded Content Policy](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-policy). You must use appropriate disclosures including any functionality the Platform provides to ensure that any posts that are, for example, sponsored are clear. For more details about Branded Content on the Platform, [see here](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-on-tiktok). In addition, in relation to any such content you must not:
+If you post content on the Platform about a brand or a product in return for any payment or other incentive, you must comply with the [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en). You must use appropriate disclosures including any functionality the Platform provides to ensure that any posts that are, for example, sponsored are clear. For more details about Branded Content on the Platform, [see here](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-on-tiktok). In addition, in relation to any such content you must not:
 
 *   use surreptitious or subliminal techniques;
 
