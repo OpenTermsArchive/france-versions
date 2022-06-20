@@ -191,7 +191,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png.avif?frz-v=89) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png.avif?frz-v=89) et certains articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/26809/1304986041/tresvolumineux.svg?frz-v=89)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse**
 
@@ -240,7 +240,7 @@ Vous pouvez retourner l'article :
     
 *   Soit en déposant gratuitement l'article directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
-    **Non valable pour les autres articles signalés par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ou par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)** .
+    **Non valable pour les autres articles signalés par ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png.avif?frz-v=89) ou par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)** .
     
 *   Soit en déposant gratuitement l'article directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
