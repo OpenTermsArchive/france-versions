@@ -235,12 +235,13 @@ Une fois votre commande passée conformément à l’article 3.2, CDISCOUNT en a
 
 **Cet email sera envoyé à l’adresse email que vous utilisez pour vous identifier dans votre Espace Client.** Si vous ne recevez pas l’email mentionné ci-dessus, nous vous recommandons de prendre contact avec notre Service Client.
 
-Toutefois, CDISCOUNT se réserve le droit de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
+Toutefois, CDISCOUNT se réserve le droit de ne pas accepter une commande ou de ne pas valider votre commande et/ou de suspendre l'exécution de votre commande, et ce, même après l'envoi de l'email de confirmation (tel que visé ci-dessus) pour tout motif légitime, notamment dans l’hypothèse où :  
 \- votre commande ne serait pas conforme aux CGV ;  
 \- les quantités de produits commandées ne correspondraient pas à un usage normal d’un client agissant en tant que consommateur  ;  
 \- l’une de vos précédentes commandes n’aurait pas été intégralement payée à échéance ;  
 \- un litige relatif au paiement d’une de vos précédentes commandes serait en cours de traitement ;  
-\- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande.
+\- plusieurs éléments graves et concordants feraient peser un soupçon de fraude sur votre commande ;  
+\-          un même instrument de paiement serait utilisé massivement et simultanément par plusieurs utilisateurs et susceptible d’entrainer un dysfonctionnement du site.
 
 **3.4 Suspension/Clôture d'un compte client par CDISCOUNT**  
   
@@ -739,7 +740,7 @@ Il est rappelé que le consommateur, dans le cadre de la garantie légale de con
   
             - **pour les produits commandés à compter du 01/01/2022** :   
                     - si le produit est neuf : au cours des 24 mois suivant la réception du produit. .  
-                    - si le produit est d'occasion (en ce inclus les biens identifiés comme étant des "spécificités web déstockage") : au cours des 6 mois suivant la réception du produit. - Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de 6 mois.  - Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé.  
+                    - si le produit est d'occasion (en ce inclus les biens identifiés comme étant des "spécificités web déstockage") : au cours des 12 mois suivant la réception du produit. - Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de 6 mois.  - Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé.  
                     - Toute période d'immobilisation du bien pendant la période de garantie suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en conformité.
 
 La garantie légale de conformité s’applique indépendamment de la garantie commerciale pouvant couvrir votre produit.
