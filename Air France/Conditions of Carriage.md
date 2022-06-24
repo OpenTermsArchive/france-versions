@@ -35,7 +35,7 @@ Article 5 - Réservations
 Article 6 - Données personnelles
 --------------------------------
 
-[politique de confidentialité d'Air France.](https://wwws.airfrance.fr/information/legal/edito-psc)
+Toutes les données personnelles du Passager sont collectées et traitées par Air France conformément à la [politique de confidentialité d'Air France.](https://wwws.airfrance.fr/information/legal/edito-psc)
 
 Article 7 - Assistance particulière
 -----------------------------------
