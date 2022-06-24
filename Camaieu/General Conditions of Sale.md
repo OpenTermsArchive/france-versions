@@ -142,6 +142,9 @@ Délais de livraison moyens de 4 à 5 jours ouvrés, pour toute commande passée
 Livraison par la Poste (colissimo suivi) en France, Belgique et Luxembourg : 4€99 - Exonération des frais de livraison à Domicile pour toute commande supérieure à 60€.  
 Délais de livraison moyens de 5 à 6 jours ouvrés.
 
+Livraison par la Poste (chronopost) en France, en Belgique et au Luxembourg : 9,99€.  
+Délais de livraison moyens de 1 jour ouvré, pour toute commande passée avant 11h du lundi au vendredi.
+
 Article 7 - Droit de retractation (retours et remboursement/échange)
 --------------------------------------------------------------------
 
