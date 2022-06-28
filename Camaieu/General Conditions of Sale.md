@@ -85,8 +85,8 @@ Il est possible de régler tout ou partie de la commande en carte cadeau Camaïe
 
 Notre partenaire Oney Bank vous propose la solution de financement 3x 4x Oney pour vous permettre de régler vos achats en 3 ou 4 fois. Cette possibilité vous est proposée :
 
-*   \- En 3 fois pour les commandes d’un minimum de 40€ à 1000€
-*   \- En 4 fois pour les commandes d’un minimum de 100€ à 1000€
+*   En 3 fois pour les commandes d’un minimum de 40€ à 1000€
+*   En 4 fois pour les commandes d’un minimum de 100€ à 1000€
 
 Conditions : Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa ou MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel et autres, ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées. Modalités de souscription : Une fois vos articles choisis et lors du paiement de votre commande, il vous suffit de cliquer sur le bouton « paiement en 3 ou 4 fois par carte bancaire ». Vous êtes alors redirigé vers la page internet Oney de notre partenaire affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider en suivant le processus énoncé sur le site. Vous saisissez vos informations personnelles ou, si vous disposez d’un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante. Vous reconnaissez que le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales valent consentement à contracter et constituent une acceptation irrévocable et sans réserve des conditions générales du produit. Sauf preuve contraire, les données enregistrées par Oney Bank constituent la preuve de l’ensemble des transactions passées entre vous et Oney Bank.
 
@@ -98,13 +98,13 @@ Un apport obligatoire sera débité le jour de la confirmation de l’expéditio
 
 Exemple :
 
-*   \- Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
-*   \- Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
+*   Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
+*   Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
 
 Nous attirons votre attention sur les modalités d’annulation des commandes payées en plusieurs fois avec Oney Bank :
 
-*   \- En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
-*   \- En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
+*   En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
+*   En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
 Pour toute demande relative à la solution de financement Oney, vous pouvez les contacter en écrivant au service client Oney Bank.
 
@@ -166,8 +166,8 @@ Pour que le délai de rétractation soit respecté, il suffit que vous transmett
 
 Conformément à l’article L.121-21-8 du code de la consommation, le droit de rétractation ne peut être exercé pour :
 
-*   \- les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
-*   \- les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
+*   les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
+*   les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
 
 Camaïeu se réserve le droit de refuser tout article retourné qui serait déprécié en raison de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques dudit article (ex. port prolongé de l’article, article abîmé, sali…). Seuls les articles retournés dans un état permettant leur remise en vente par Camaïeu seront acceptés.
 
@@ -222,7 +222,12 @@ La collection cérémonie est vendue exclusivement dans [certains magasins CAMAI
 
 ### 7.5 L'échange dans une des boutiques Camaïeu de France Métropolitaine (hors magasins d'usine), Belgique et Luxembourg
 
-Le Client a la possibilité d’échanger le/les articles de sa commande dans n’importe quel magasin Camaïeu de France métropolitaine (hors magasins d’usine) ou de Belgique ou du Luxembourg. Pour trouver le magasin Camaïeu le plus proche de chez vous, rendez-vous sur [www.camaieu.fr](https://www.camaieu.fr/)· ou dans la rubrique « MAGASINS » sur votre site mobile Camaïeu.
+Le Client a la possibilité d’échanger le/les articles de sa commande dans n’importe quel magasin Camaïeu de France métropolitaine (hors magasins d’usine) ou de Belgique ou du Luxembourg. Pour trouver le magasin Camaïeu le plus proche de chez vous, rendez-vous sur [www.camaieu.fr](https://www.camaieu.fr/) ou dans la rubrique « MAGASINS » sur votre site mobile Camaïeu.
+
+Suite à une offre promotionnelle, en cas d’échange d’un article :
+
+*   contre le même article, de même couleur mais de taille différente, le prix du nouvel article sera identique à celui de la facture du Client même s’il était en promotion.
+*   contre le même article dans un coloris différent, ou contre un autre article, si le prix du nouvel article est supérieur au prix indiqué sur la facture du Client, la différence sera à la charge du Client. Si le prix du nouvel article est inférieur, Camaïeu remboursera la différence directement en recréditant la carte bancaire du Client.
 
 Article 8 - Réserve de propriété
 --------------------------------
