@@ -96,6 +96,7 @@ A partir de l’expédition de la commande, les délais moyens de livraison sont
 \- 3 jours ouvrés dans une sélection de boutiques (click & collect) pour la France  
 \- 3 à 5 jours ouvrés en Colissimo pour la France   
 \- 5 à 10 jours ouvrés en Colissimo international  
+\- 3 à 5 jours ouvrés en point relais (Mondial Relay ou Colissimo)  
   
 La livraison peut toutefois être retardée pour des raisons indépendantes de la volonté de Comptoir des Cotonniers. Dans ce cas, Comptoir des Cotonniers s’engage à tenir informé le Client de la situation.  
   
@@ -156,7 +157,7 @@ A compter du 1er avril 2022, l’étiquette prépayée disponible dans l’espac
 Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
 Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
   
-Pour les commandes avec une livraison en Colissimo ou en Chronopost :  
+Pour les commandes avec une livraison en Colissimo, en Chronopost ou en point relais (Mondial relay ou Colissimo) :  
 Tous les produits retournés par le Client, que ce soit dans le cadre du droit de rétractation ou de la garantie satisfait ou remboursé, ne doivent pas avoir été utilisés, endommagés, salis ou lavés par le Client. Ils doivent être retournés dans un emballage approprié et accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’Etiquette prépayée re-facturée. En outre, les chaussures doivent être retournées dans leur boîte, mais nous vous remercions de ne pas utiliser cette boîte comme boîte de transport.  
   
 Les frais de livraison facturés lors de l'expédition de votre commande vous sont remboursés seulement dans le cadre de l’exercice de votre droit de rétractation dans un délai de 14 jours à compter de la date de réception de votre colis et uniquement si vous retournez l’intégralité de votre commande.  
