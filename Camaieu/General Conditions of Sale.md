@@ -125,6 +125,11 @@ Les produits sont livrés à l'adresse de livraison indiquée par le Client au c
 
 Livraison en point relais : Le Client a la possibilité de choisir la livraison en relais colis lors de la passation de la commande. A l'expédition du colis, un e-mail ou un sms d'information est envoyé au Client. Le Client doit se munir d'une pièce d'identité en cours de validité pour pouvoir retirer son colis en point relais. Il dispose de 14 jours calendaires pour retirer son colis. Passé ce délai, en cas de retour du colis à Camaïeu, le Client sera remboursé du montant de la commande, déduction faite des frais d'envoi du colis aller et retour.
 
+Livraison à domicile sous 1 jours ouvrés : 9€99.  
+Vous préférez faire livrer votre commande directement à l'adresse de votre choix (chez vous, au bureau, chez un ami...) ? Camaïeu vous permet de choisir la livraison en Chronopost. Vous pouvez choisir des adresses de facturation et de livraison différentes. Si vous êtes absent lors de la livraison, le facteur vous laissera un avis de passage vous permettant d'aller retirer votre colis à la Poste.  
+  
+Une date de livraison maximale garantie vous est communiquée lors du passage de votre commande. Cette date ne constitue pas forcément la date réelle de livraison de votre commande. Votre commande sera très certainement livrée avant et vous en serez avertis. Vous pouvez également suivre votre commande directement dans votre compte client Camaïeu.
+
 Livraison en magasin : Le Client a la possibilité de choisir la livraison en magasin Camaieu lors de la passation de la commande. A l'arrivée du colis, un e-mail ou un sms d'information est envoyé au Client. Le Client doit se munir d'une pièce d'identité en cours de validité pour pouvoir retirer son colis en magasin. Il dispose de 30 jours calendaires pour retirer son colis. Passé ce délai, en cas de retour du colis à Camaïeu, le Client sera remboursé du montant de la commande, déduction faite des frais d'envoi du colis aller et retour.
 
 ### 6.2 Zones de livraison
