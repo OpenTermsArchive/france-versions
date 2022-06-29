@@ -1,16 +1,16 @@
 CONDITIONS GENERALES D’UTILISATION ET DE VENTE
 ==============================================
 
-En application au 18/05/2022
+En application au 29/06/2022
 
 1.  [Accueil](https://www.g7.fr/)
 2.  Conditions générales
 
 **CONDITIONS GENERALES D’UTILISATION ET DE VENTE\***
 
-**En application au 18 mai 2022**
+**En application au 29 juin 2022**
 
-La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.607.455 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 - N° TVA intracommunautaire FR 1132437986600019 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial et la marque G7**®**, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT » avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
+La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.607.455 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 - N° TVA intracommunautaire FR 11324379866 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial et la marque G7**®**, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT » avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
 
 Les présentes conditions générales s’appliquent pour les commandes de taxis passées par le CLIENT auprès de la SOCIETE par téléphone (3607 : service 0,45€/min + prix de l’appel), par Internet sur le site g7.fr et par Internet mobile via les applications logicielles dédiées smartphones G7**®** Taxi iPhone® et Android (\*\*) de la SOCIETE. Elles ne s’appliquent pas aux clients ayant conclu avec la SOCIETE des contrats d’abonnement spécifiques.
 
@@ -74,7 +74,7 @@ Le CLIENT garantit la véracité et l’exactitude des informations qu’il comm
 
 Le CLIENT devant s’identifier pour accéder au service en utilisant son identifiant et son mot de passe, toute Commande effectuée à partir de son compte G7® est réputée effectuée par lui. Par conséquent, le prix correspondant à cette commande sera débité de son compte bancaire selon les modalités et conditions tarifaires visées à l’article 4.
 
-**2.2. – Service optionnel « _G7_**® **_Connect_** **» : utilisation de l’application Smartphone G7**® **et du compte G7**® **du CLIENT à l’occasion de « courses rue »** **effectuées à bord de taxis parisiens affiliés G7**®
+**2.2. – Service « _G7_**® **_Connect_** **» : utilisation de l’application Smartphone G7**® **et du compte G7**® **du CLIENT à l’occasion de « courses rue »** **effectuées à bord de taxis parisiens affiliés G7**®
 
 Le CLIENT a la possibilité, lorsqu’il effectue une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi**)** réalisée par un taxi parisien affilié à la centrale de réservation G7®, de se connecter à son compte G7® à partir des applications smartphone G7 Taxi iPhone® et Android.
 
@@ -180,11 +180,13 @@ Pour une demande immédiate, la SOCIETE annonce au CLIENT un délai estimatif d'
 
 **3.4. – Annulation de la commande**
 
-**Dans le cas d’une demande à l’avance**, l'annulation de la commande passée peut être effectuée par le CLIENT sans frais jusqu’à 1 heure avant l'heure prévue de la prise en charge. Passé ce délai, le déplacement réalisé par le taxi jusqu’à l’annulation doit être réglé au chauffeur de taxi pour le montant figurant au compteur selon la tarification en vigueur. Le prix de l’option « niveau de service » éventuellement sélectionnée, mentionné à l’article 4, est également du.
+L’annulation se définit par l’action du CLIENT d’annuler la commande avant l’arrivée du taxi au lieu de prise en charge indiqué.
 
-**Dans le cas d’une demande immédiate**, si le CLIENT annule sa commande plus de 4 minutes après l’avoir validée, le déplacement réalisé par le taxi jusqu’à l’annulation doit être réglé au chauffeur de taxi pour le montant figurant au compteur selon la tarification en vigueur. Le prix de l’option « niveau de service » ou garantie « PMG » éventuellement sélectionnée, mentionné à l’article 4, est également du.
+**Dans le cas d’une demande à l’avance**, l'annulation de la commande passée peut être effectuée par le CLIENT sans frais jusqu’à 1 heure avant l'heure prévue de la prise en charge. Passé ce délai, le déplacement réalisé par le taxi jusqu’à l’annulation doit être réglé au chauffeur de taxi soit pour le montant de 7.30€ correspondant au tarif minimum de la course (tarif réglementé) si l’adresse de prise en charge se situe au sein de la zone des Taxis Parisiens, soit pour le montant figurant au compteur selon la tarification en vigueur si la course se situe en dehors de la zone des Taxis Parisiens. Le prix de l’option « niveau de service »  éventuellement sélectionnée, mentionné à l’article 4, est également du.
 
-**3.5. –Prise en charge du passager** **et cas de non présentation du CLIENT, dit « Non Charge »**
+**Dans le cas d’une demande immédiate**, si le CLIENT annule sa commande plus de 4 minutes après l’avoir validée, le déplacement réalisé par le taxi jusqu’à l’annulation doit être réglé au chauffeur de taxi soit pour le montant de 7.30€ correspondant au tarif minimum de la course (tarif réglementé) si l’adresse de prise en charge se situe au sein de la zone des Taxis Parisiens, soit pour le montant figurant au compteur selon la tarification en vigueur si la course se situe en dehors de la zone des Taxis Parisiens. Le prix de l’option « niveau de service » ou de la garantie « PMG » éventuellement sélectionnée, mentionné à l’article 4, est également du.
+
+**3.5. Prise en charge du passager** **et cas de non présentation du CLIENT, dit « Non Charge »**
 
 **3.5.1. Prise en charge :** Le CLIENT doit monter dans le taxi dès que celui-ci arrive à l'adresse indiquée en cas de demande immédiate, ou à l'heure de réservation convenue en cas de demande à l'avance, le taxi étant déjà au point de rendez-vous.
 
@@ -198,13 +200,14 @@ Dès sa prise en charge, le CLIENT est responsable de toute dégradation/répara
 
 **3.5.2. Cas de non présentation du CLIENT, dit « Non charge » :**
 
-En cas d'absence du passager, le chauffeur de taxi est réputé autorisé à partir cinq minutes (ou dix minutes en cas d’option pour les niveaux de service G7® Van, G7® Van Vip, G7® Vip, G7® Famille (van), G7® Zen ou G7® Vélo) après cet horaire sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturantle montant figurant au compteur dans le respect de la tarification en vigueur.
+3.5.2.1. Non charge pour les niveaux de service G7®, G7® Green, G7® Famille (break), G7® Coffre+ et G7® Access : en cas d'absence du passager, le chauffeur de taxi est réputé autorisé à partir cinq minutes  après cet horaire sans avertissement préalable. Il constate alors la « non charge » et arrête la course en facturant: soit un forfait dans le cas où l’adresse de la commande se situe dans la zone des Taxis Parisiens (9€ en Demande Immédiate et 12€ en Demande à l’Avance), soit le montant figurant au compteur si l’adresse de prise en charge se situe en dehors de la zone des Taxis Parisiens, dans le respect de la tarification en vigueur.
 
-Dans le cas de non présentation du CLIENT dans le délai requis, le montant de la course figurant au compteur au moment de la « Non charge », ainsi que le prix de l’option « niveau de service » ou garantie « PMG » éventuellement sélectionnée à la commande sont égalements applicables, et facturés au CLIENT.
+3.5.2.2. Non charge pour les niveaux de service G7® Van, G7® Van Vip, G7® Vip, G7® Famille (van), G7® Zen ou G7® Vélo : en cas d’absence du passager, le chauffeur de taxi est réputé autorisé à partir dix minutes après cet horaire sans avertissement préalable. Il constante alors la « non charge » et arrête la course en facturant le montant figurant au compteur dans le respect de la tarification préfectorale en vigueur.
 
-En cas de commande via [www.g7.fr](https://www.g7.fr/), l’application G7**®** Taxi iPhone® ou Android avec carte de paiement préenregistrée dans le compte G7® du CLIENT, quel que soit le mode de paiement sélectionné par le CLIENT (paiement via le site ou l’application ou paiement réalisé à bord), ou en cas de commande par téléphone avec communication des coordonnées bancaires à la commande, ces frais seront prélevés sur cette carte de paiement.
+3.5.2.3. Exigibilité du prix de l’option « niveau de service » ou de la garantie PMG : dans le cas de non présentation du CLIENT dans le délai requis, le prix de l’option « niveau de service » ou de la garantie « PMG » éventuellement sélectionnée à la commande  sont également applicables, et facturés au CLIENT.
 
-Dans le cas où le CLIENT n’aurait pas transmis ou préenregistré les coordonnées de sa carte de paiement, ou dans le cas où la transaction bancaire n’aurait pas abouti ou serait ultérieurement rejetée, la SOCIETE se réserve le droit de transmettre par email au CLIENT, un relevé de course non chargée (« Non charge ») pour le compte du chauffeur de taxi et, le cas échéant, une facture de l’option « niveau de service » ou garantie « PMG » sélectionnée à la commande, que le CLIENT s’engage expressément à régler à la SOCIETE dès réception.
+3.5.2.4. Règlement : en cas de commande via www.g7.fr, l’application G7® Taxi iPhone® ou Android avec carte de paiement préenregistrée dans le compte G7® du CLIENT, quel que soit le mode de paiement sélectionné par le CLIENT (paiement via le site ou l’application ou paiement réalisé à bord), ou en cas de commande par téléphone avec communication des coordonnées bancaires à la commande, ces frais seront prélevés sur cette carte de paiement.   
+Dans le cas où le CLIENT n’aurait pas transmis ou préenregistré les coordonnées de sa carte de paiement, ou dans le cas où la transaction bancaire n’aurait pas abouti ou serait ultérieurement rejetée, la SOCIETE se réserve le droit de transmettre par email au CLIENT, un relevé de course non chargée (« Non charge ») pour le compte du chauffeur de taxi et, le cas échéant, une facture de l’option « niveau de service » ou de la garantie « PMG » sélectionnée à la commande, que le CLIENT s’engage expressément à régler à la SOCIETE dès réception.
 
 **3.6. – Véhicule spécifique**
 
@@ -234,10 +237,9 @@ Pour le suivi de la demande de course ou pour le traitement d’une réclamation
 Ce service de commande de taxi est gratuit pour le niveau de service « **G7®** ».
 
 Autres niveaux de service accessibles sur option :  
-Il s’agit des niveaux de service « G7® Green », « G7® Access », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo » et «G7® Zen ».
-
+Il s’agit des niveaux de service « G7® Green », « G7® Access », « G7® Van », « G7® Van Vip », « G7® Vip », « G7® Famille », « G7®Coffre+ », « G7® Vélo » et «G7® Zen ».  
 Pour ces niveaux de service accessibles sur option, dans le cas où ils seraient payants, le prix de l’option « niveau de service » sélectionnée par le CLIENT sera prélevé sur la carte de paiement communiquée par ce dernier.  
-Les différents niveaux de service proposés par la SOCIETE et disponibles sur option du CLIENT, sont soumis au taux de TVA en vigueur pour les prestations de services. Le descriptif de ces niveaux de service est indiqué dans la grille tarifaire de niveaux de services. 
+Les différents niveaux de service proposés par la SOCIETE et disponibles sur option du CLIENT, sont soumis au taux de TVA en vigueur pour les prestations de services. Le descriptif de ces niveaux de service est indiqué dans la grille tarifaire de niveaux de services.  
 
 **Garantie de prix maximum : Option « Prix Maximum Garanti » ou « PMG » :**
 
@@ -245,7 +247,7 @@ Les différents niveaux de service proposés par la SOCIETE et disponibles sur o
 
 **Mécanisme option PMG :** lors de la commande, le simulateur de la SOCIETE indique au CLIENT qui a renseigné les adresses de départ et de destination, une estimation du tarif «compteur » pour la course demandée, et lui propose un « Prix Maximum Garanti » (pour les courses éligibles).  
 En sélectionnant « Prix Maximum Garanti » lors de la commande, le CLIENT est informé à l’avance du montant maximum total auquel lui sera facturé cette course à l’issue de celle-ci : le « Prix Maximum Garanti » (comprenant les frais de la garantie PMG souscrite par le CLIENT).  
-Dans ce cas, le prix total de la course réalisée (tarif « compteur » + frais de la garantie PMG) qui sera facturé au CLIENT ne pourra jamais dépasser le PMG annoncé lors de la commande :
+Dans ce cas, le prix total de la course réalisée (tarif « compteur » + frais de la garantie PMG) qui sera facturé au CLIENT ne pourra jamais dépasser le PMG annoncé lors de la commande :
 
 *   dans les cas où le montant affiché au compteur à l’issue de la course est inférieur à l’estimation (PMG), le CLIENT règlera le montant du compteur augmenté des frais de la garantie PMG (dans la limite du PMG annoncé lors de la commande) ;
 *   dans le cas inverse, le CLIENT réglera le PMG annoncé à l’avance.
@@ -255,7 +257,7 @@ La SOCIETE se réserve le droit de ne pas appliquer la garantie de prix maximum 
 
 **Tarif :** Le tarif de la garantie « Prix Maximum Garanti » est indiqué dans la grille tarifaire annexée aux présentes. Cette garantie proposée par la SOCIETE et sélectionnable par le CLIENT, est soumise au taux de TVA en vigueur pour les prestations de services. La garantie PMG est payable par carte de paiement lors de la commande.
 
-La SOCIETE se réserve la possibilité de suspendre ou d’interrompre les différents niveaux de service et la garantie PMG accessibles sur option, ou de modifier, à tout moment, leurs conditions d’accès en publiant sur le site Internet [https://www.g7.fr](https://www.g7.fr/) et dans les applications smartphone G7 Taxi iPhone® et Android, une nouvelle version des conditions générales applicables.
+La SOCIETE se réserve la possibilité de suspendre ou d’interrompre les différents niveaux de service et/ou la garantie PMG, ou de modifier, à tout moment, leurs conditions d’accès en publiant sur le site Internet https://www.g7.fr et dans les applications smartphone G7 Taxi iPhone® et Android, une nouvelle version des conditions générales applicables.
 
 Le tarif des différentes options (niveaux de service) et de la garantie « PMG » est spécifié dans la grille tarifaire annexée aux présentes, et il peut être différent selon que la prise en charge du CLIENT s’effectue :
 
@@ -573,7 +575,7 @@ _\*\* : La liste d’applications dédiées smartphone est limitative_
   
 **Grille Tarifaire applicable aux commandes de taxis à Paris et en Région Parisienne\*¹**
 
-**Tarifs en vigueur au 18 mai 2022\*****²**
+**Tarifs en vigueur au 29 juin 2022\*****²**
 
   
 
@@ -609,7 +611,7 @@ Ces niveaux de services sont décrits dans la présente grille tarifaire, et ils
 
 La garantie « PMG » (disponible en demande immédiate pour certains trajets sous conditions) est décrite à l’article 4 « Conditions tarifaires – facturation » des Conditions Générales. Elle peut être souscrite par le CLIENT au tarif de 2€ TTC pour les courses éligibles. Elle est soumise au taux de TVA en vigueur pour les prestations de services.
 
-**Conditions générales en application - 18 mai 2022**
+**Conditions générales en application - 29 juin 2022**
 
 **\*¹** _Course réalisée à bord d’un taxi parisien affilié G7**®**  (la liste des communes de rattachement des taxis parisiens est fixée par l’arrêté ministériel du 10 novembre 1972)  
 Le prix de la prestation de transport réalisée par le chauffeur de taxi (« la course ») est perçu par ce dernier et déterminé à l’issue de la course, selon le tarif réglementaire affiché par le compteur horokilométrique du taxi en vertu de l’arrêté préfectoral en vigueur._
