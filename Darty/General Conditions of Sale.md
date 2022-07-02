@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 24 mai 2022 - 3
+\- 2 juin 2022 - 3
 
 
 
@@ -88,9 +88,9 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 
 
-\- 24 mai 2022 - 4
+\- 2 juin 2022 - 4
 
-\- 24 mai 2022 - 5
+\- 2 juin 2022 - 5
 
 
 
@@ -114,7 +114,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 24 mai 2022 - 6
+\- 2 juin 2022 - 6
 
 
 
@@ -142,7 +142,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 DURABILITÉ
 
-\- 24 mai 2022 - 7
+\- 2 juin 2022 - 7
 
 
 
@@ -164,7 +164,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 24 mai 2022 - 8
+\- 2 juin 2022 - 8
 
 
 
@@ -188,7 +188,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 24 mai 2022 - 9
+\- 2 juin 2022 - 9
 
 
 
@@ -236,7 +236,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 24 mai 2022 - 10
+\- 2 juin 2022 - 10
 
 
 
@@ -300,19 +300,19 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 24 mai 2022 - 11
+\- 2 juin 2022 - 11
 
 
 
-Assurance mobile (1)
+Assurance mobile
 
 Tous les téléphones achetés neufs d’origine sont couverts (achetés en magasin Darty ou sur le site www.darty.com).
 
 Assurance sans franchise
 
-Le service Bouton Multimédia (2) est offert pour les Formules Premium en abonnement mensuel pendanttoute la durée de l’abonnement.
+Le service Bouton Multimédia est offert pour les Formules Premium en abonnement mensuel pendant toutela durée de l’abonnement.
 
-(1) (2) (3) Voir page 10. \* Valable uniquement pour les assurances en paiement mensuel. \*\* Non valable pour les téléphones mobiles faisant l’objet d’une location longue durée. \*\*\* Nonvalable pour les téléphones mobiles d’une valeur supérieure à 2 000€ TTC faisant l’objet d’une location longue durée. Voir conditions et limites des garanties de l’Assurance Mobiledans la notice d’information (valant conditions générales) disponible en point de vente. Micro-ordinateur portable, ordinateur de bureau, netbook, net PC, tablette PC, tablette tactile,caméscope, appareil photo numérique, cadre photo numérique, vidéoprojecteur portatif, récepteur GPS portatif, assistant numérique personnel, baladeur (analogique, numérique,minidisques, CD), station d’accueil pour baladeur, lunette 3D, optique photo, console de jeux portable ou de salon, lecteur DVD portable, casque réalité virtuelle, liseuse, casqueaudio, enceintes sans fil, montre connectée, disque dur externe.
+\* Valable uniquement pour les assurances en paiement mensuel. \*\* Non valable pour les téléphones mobiles faisant l’objet d’une location longue durée. \*\*\* Non valable pour lestéléphones mobiles d’une valeur supérieure à 2 000€ TTC faisant l’objet d’une location longue durée. Voir conditions et limites des garanties de l’Assurance Mobile dans la noticed’information (valant conditions générales) disponible en point de vente. Micro-ordinateur portable, ordinateur de bureau, netbook, net PC, tablette PC, tablette tactile, caméscope,appareil photo numérique, cadre photo numérique, vidéoprojecteur portatif, récepteur GPS portatif, assistant numérique personnel, baladeur (analogique, numérique, minidisques,CD), station d’accueil pour baladeur, lunette 3D, optique photo, console de jeux portable ou de salon, lecteur DVD portable, casque réalité virtuelle, liseuse, casque audio, enceintessans fil, montre connectée, disque dur externe.
 
 
 
@@ -348,7 +348,7 @@ Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
 
 
 
-Assurances multimedia foyer (3)
+Assurances multimedia foyer
 
 Tous les équipements multimédia suivants sont couverts, jusqu’à 3 ans après leur achat (et jusqu’à 5 ansaprès sa date d’achat avec l’Option 5 ans), qu’ils aient été achetés ou non chez Darty\*\*\* .
 
@@ -358,7 +358,7 @@ Les assurances
 
 DURABILITÉ
 
-\- 24 mai 2022 - 12
+\- 2 juin 2022 - 12
 
 
 
@@ -474,9 +474,9 @@ Montage et mise en service 59 €
 
 
 
-\- 24 mai 2022 - 13
+\- 2 juin 2022 - 13
 
-\- 24 mai 2022 - 14
+\- 2 juin 2022 - 14
 
 
 
@@ -578,7 +578,7 @@ Clause de cession du risque : Darty se réserve le droit de céder à un tiers l
 
 TABLEAUX DES GARANTIES
 
-\- 24 mai 2022 - 15
+\- 2 juin 2022 - 15
 
 
 
@@ -730,11 +730,11 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 24 mai 2022 - 16
+\- 2 juin 2022 - 16
 
 
 
-Gros électroménagerExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Prix Produit (1) Tarifs Cuisson\* Tarifs Lavage\*\* Tarifs Froid\*\*\*0 € à 99 € 49,99 € 69,99 € 49,99 €100 € à 199 € 59,99 € 79,99 € 59,99 €200 € à 299 € 69,99 € 109,99 € 79,99 €300 € à 399 € 79,99 € 139,99 € 99,99 €400 € à 499 € 99,99 € 149,99 € 109,99 €500 € à 599 € 119,99 € 169,99 € 119,99 €600 € à 799 € 139,99 € 189,99 € 139,99 €800 € à 999 € 169,99 € 219,99 € 169,99 €Plus de 1 000 € 199,99 € 249,99 € 259,99 €
+Gros électroménagerExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Prix Produit (1) Tarifs Cuisson\* Tarifs Lavage\*\* Tarifs Froid\*\*\*0 € à 99 € 49,99 € 74 ,99 € 49,99 €100 € à 199 € 59,99 € 84 ,99 € 59,99 €200 € à 299 € 74 ,99 € 114 ,99 € 84 ,99 €300 € à 399 € 84 ,99 € 144 ,99 € 104 ,99 €400 € à 499 € 104 ,99 € 159,99 € 114 ,99 €500 € à 599 € 124 ,99 € 179,99 € 124 ,99 €600 € à 799 € 149,99 € 199,99 € 149,99 €800 € à 999 € 179,99 € 229,99 € 179,99 €Plus de 1 000 € 209,99 € 259,99 € 279,99 €
 
 
 
@@ -742,11 +742,11 @@ Gros électroménagerExtension de garantie de 3 ans, portant la durée totale de
 
 
 
-Petit électroménagerGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.Prix Produit (1) Tarifs garantie remboursement à neuf0 € à 39 € 9,99 €40 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 199 € 39,99 €200 € à 299 € 59,99 €300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 119,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 169,99 €900 € à 999 € 179,99 €1 000 € à 1 099 € 189,99 €1 100 € à 1 199 € 199,99 €1 200 € à 1 299 € 209,99 €1 300 € à 1 399 € 219,99 €1 400 € à 1 499 € 229,99 €Plus de 1 500 € 239,99 €
+Petit électroménagerGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.Prix Produit (1) Tarifs garantie remboursement à neuf0 € à 39 € 9,99 €40 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 199 € 44 ,99 €200 € à 299 € 64 ,99 €300 € à 399 € 84 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 124 ,99 €600 € à 699 € 149,99 €700 € à 799 € 169,99 €800 € à 899 € 179,99 €900 € à 999 € 189,99 €1 000 € à 1 099 € 199,99 €1 100 € à 1 199 € 209,99 €1 200 € à 1 299 € 219,99 €1 300 € à 1 399 € 229,99 €1 400 € à 1 499 € 244 ,99 €Plus de 1 500 € 254 ,99 €
 
 Micro-ondesExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Ou pour les micro-ondes non encastrables uniquement :garantie remboursement à neuf pendant 5 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs garantieremboursement à neuf 5 ans0 € à 199 € 39,99 € 0 € à 199 € 59,99 €200 € à 299 € 59,99 € 200 € à 299 € 79,99 €300 € à 399 € 69,99 € 300 € à 399 € 99,99 €400 € à 499 € 89,99 € 400 € à 499 € 119,99 €500 € à 599 € 109,99 € 500 € à 599 € 139,99 €600 € à 699 € 109,99 € 600 € à 699 € 139,99 €800 € à 999 € 129,99 € 700 € à 799 € 159,99 €Plus de 1 000 € 159,99 € 800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 289,99 €Plus de 1 500 € 299,99 €
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs garantieremboursement à neuf 5 ans0 € à 199 € 39,99 € 0 € à 199 € 59,99 €200 € à 299 € 64 ,99 € 200 € à 299 € 84 ,99 €300 € à 399 € 74 ,99 € 300 € à 399 € 104 ,99 €400 € à 499 € 94 ,99 € 400 € à 499 € 129,99 €500 € à 599 € 114 ,99 € 500 € à 699 € 149,99 €600 € à 799 € 124 ,99 € 700 € à 799 € 169,99 €800 € à 999 € 139,99 € 800 € à 899 € 189,99 €Plus de 1 000 € 169,99 € 900 € à 999 € 209,99 €1 000 € à 1 099 € 229,99 €1 100 € à 1 199 € 249,99 €1 200 € à 1 299 € 279,99 €1 300 € à 1 399 € 299,99 €1 400 € à 1 499 € 309,99 €Plus de 1 500 € 319,99 €
 
 ans3
 
@@ -772,13 +772,13 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 24 mai 2022 - 17
+\- 2 juin 2022 - 17
 
 
 
 Appareils photo et CaméscopesExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.Ou garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs remboursementà neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 59 € 14 ,99 € 0 € à 99 € 19,99 €60 € à 99 € 25 ,99 € 100 € à 199 € 45 ,99 €100 € à 199 € 39,99 € 200 € à 299 € 59,99 €200 € à 299 € 59,99 € 300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 799 € 129,99 €800 € à 999 € 149,99 €1 000 € à 1 299 € 179,99 €Plus de 1 300 € 199,99 €
+Prix Produit (1) Tarifs remboursementà neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 59 € 14 ,99 € 0 € à 99 € 19,99 €60 € à 99 € 29,99 € 100 € à 199 € 49,99 €100 € à 199 € 39,99 € 200 € à 299 € 64 ,99 €200 € à 299 € 64 ,99 € 300 € à 399 € 84 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 114 ,99 €600 € à 799 € 139,99 €800 € à 999 € 159,99 €1 000 € à 1 299 € 189,99 €Plus de 1 300 € 209,99 €
 
 ans5
 
@@ -790,7 +790,7 @@ Compléments Appareils Photo\*
 
 Garantie remboursement à neufpendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 29,99 €100 € à 149 € 44 ,99 €150 € à 199 € 54 ,99 €200 € à 249 € 64 ,99 €250 € à 299 € 74 ,99 €300 € à 349 € 84 ,99 €350 € à 399 € 94 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 119,99 €600 € à 699 € 149,99 €700 € à 799 € 169,99 €800 € à 899 € 189,99 €900 € à 999 € 209,99 €1 000 € à 1 099 € 229,99 €1 100 € à 1 199 € 249,99 €1 200 € à 1 299 € 274 ,99 €1 300 € à 1 399 € 294 ,99 €1 400 € à 1 499 € 314 ,99 €Plus de 1 500 € 339,99 €
 
 
 
@@ -800,11 +800,11 @@ Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,9
 
 Hi-fi et home cinémaExtension de garantie de 3 ans,portant la durée totale de la garantie à 5 ans.
 
-Prix Produit (1) Tarifs extensionde garantie 5 ans0 € à 199 € 39,99 €200 € à 299 € 59,99 €300 € à 399 € 79,99 €400 € à 499 € 99,99 €500 € à 599 € 119,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €Plus de 900 € 199,99 €
+Prix Produit (1) Tarifs extensionde garantie 5 ans0 € à 199 € 39,99 €200 € à 299 € 64 ,99 €300 € à 399 € 84 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 129,99 €600 € à 699 € 149,99 €700 € à 799 € 169,99 €800 € à 899 € 189,99 €Plus de 900 € 209,99 €
 
 VidéoprojecteursExtension de garantie de 3 ans, portant la durée totale de la garantie à 5 ans.
 
-Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 199 € 49,99 € 900 € à 999 € 239,99 €200 € à 299 € 59,99 € 1 000 € à 1 299 € 279,99 €300 € à 399 € 89,99 € 1 300 € à 1 499 € 299,99 €400 € à 499 € 129,99 € 1 500 € à 1 999 € 399,99 €500 € à 699 € 149,99 € 2 000 € à 2 999 € 449,99 €700 € à 899 € 189,99 € Plus de 3 000 € 499,99 €
+Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans0 € à 199 € 49,99 € 900 € à 999 € 249,99 €200 € à 299 € 64 ,99 € 1 000 € à 1 299 € 294 ,99 €300 € à 399 € 94 ,99 € 1 300 € à 1 499 € 314 ,99 €400 € à 499 € 139,99 € 1 500 € à 1 999 € 419,99 €500 € à 699 € 159,99 € 2 000 € à 2 999 € 474 ,99 €700 € à 899 € 199,99 € Plus de 3 000 € 524 ,99 €
 
 ans3
 
@@ -830,17 +830,17 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 24 mai 2022 - 18
+\- 2 juin 2022 - 18
 
 
 
 Casque audio, enceintesnomades, Montre Connectée,récepteur et périphériques TV.Garantie remboursement à neuf pendant 3 anspar carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 59 € 14 ,99 €60 € à 99 € 29,99 €100 € à 149 € 44 ,99 €150 € à 199 € 54 ,99 €200 € à 249 € 64 ,99 €250 € à 299 € 74 ,99 €300 € à 349 € 84 ,99 €350 € à 399 € 94 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 114 ,99 €600 € à 699 € 149,99 €700 € à 799 € 169,99 €800 € à 899 € 189,99 €900 € à 999 € 209,99 €1 000 € à 1 099 € 229,99 €1 100 € à 1 199 € 249,99 €1 200 € à 1 299 € 274 ,99 €1 300 € à 1 399 € 294 ,99 €1 400 € à 1 499 € 314 ,99 €Plus de 1 500 € 339,99 €
 
 Radios, drone, téléphone fixeGarantie remboursement à neufpendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantiesremboursement à neuf 3 ans0 € à 39 € 9,99 €40 € à 59 € 14 ,99 €60 € à 99 € 25 ,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 59,99 €250 € à 299 € 69,99 €300 € à 349 € 79,99 €350 € à 399 € 89,99 €400 € à 499 € 99,99 €500 € à 599 € 109,99 €600 € à 699 € 139,99 €700 € à 799 € 159,99 €800 € à 899 € 179,99 €900 € à 999 € 199,99 €1 000 € à 1 099 € 219,99 €1 100 € à 1 199 € 239,99 €1 200 € à 1 299 € 259,99 €1 300 € à 1 399 € 279,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+Prix Produit (1) Tarifs garantiesremboursement à neuf 3 ans0 € à 39 € 9,99 €40 € à 59 € 19,99 €60 € à 99 € 29,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 249 € 64 ,99 €250 € à 299 € 74 ,99 €300 € à 349 € 84 ,99 €350 € à 399 € 94 ,99 €400 € à 499 € 104 ,99 €500 € à 599 € 114 ,99 €600 € à 699 € 149,99 €700 € à 799 € 169,99 €800 € à 899 € 189,99 €900 € à 999 € 209,99 €1 000 € à 1 099 € 229,99 €1 100 € à 1 199 € 249,99 €1 200 € à 1 299 € 274 ,99 €1 300 € à 1 399 € 294 ,99 €1 400 € à 1 499 € 314 ,99 €Plus de 1 500 € 339,99 €
 
 
 
@@ -850,7 +850,9 @@ Prix Produit (1) Tarifs garantiesremboursement à neuf 3 ans0 € à 39 € 9,99
 
 Console de jeux, télécopieur, casque de réalité virtuelle et scanner \*Garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €700 € à 799 € 159,99 € Plus de 1 500 € 299,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 189,99 €100 € à 199 € 44 ,99 € 900 € à 999 € 209,99 €200 € à 299 € 64 ,99 € 1 000 € à 1 099 € 229,99 €300 € à 399 € 84 ,99 € 1 100 € à 1 199 € 249,99 €400 € à 499 € 104 ,99 € 1 200 € à 1 299 € 279,99 €500 € à 599 € 124 ,99 € 1 300 € à 1 399 € 294 ,99 €600 € à 699 € 149,99 € Plus de 1 400 € 314 ,99 €700 € à 799 € 169,99 €
+
+
 
 \* Hors scanners 3D.
 
@@ -858,7 +860,7 @@ Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tar
 
 Imprimantes\*Garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 49 € 19,99 € 700 € à 799 € 159,99 €50 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €Plus de 1 500 € 299,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 49 € 19,99 € 700 € à 799 € 169,99 €50 € à 99 € 34 ,99 € 800 € à 899 € 189,99 €100 € à 199 € 44 ,99 € 900 € à 999 € 209,99 €200 € à 299 € 64 ,99 € 1 000 € à 1 099 € 229,99 €300 € à 399 € 84 ,99 € 1 100 € à 1 199 € 254 ,99 €400 € à 499 € 104 ,99 € 1 200 € à 1 299 € 274 ,99 €500 € à 599 € 124 ,99 € 1 300 € à 1 399 € 294 ,99 €600 € à 699 € 149,99 € Plus de 1 400 € 314 ,99 €
 
 \* Hors imprimantes 3D.
 
@@ -896,25 +898,25 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 24 mai 2022 - 19
+\- 2 juin 2022 - 19
 
 
 
 OrdinateursExtension de garantie de 1 an, portant la durée totale de la garantie à 3 ans.Ou garantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 3 ans0 € à 199 € 54 ,99 € 0 € à 299 € 59,99 €200 € à 299 € 79,99 € 300 € à 399 € 69,99 €300 € à 399 € 119,99 € 400 € à 499 € 89,99 €400 € à 499 € 149,99 € 500 € à 599 € 109,99 €500 € à 599 € 179,99 € 600 € à 699 € 119,99 €600 € à 699 € 209,99 € 700 € à 799 € 129,99 €700 € à 799 € 239,99 € 800 € à 899 € 139,99 €800 € à 899 € 269,99 € 900 € à 999 € 159,99 €900 € à 999 € 299,99 € 1 000 € à 1 299 € 179,99 €1 000 € à 1 099 € 329,99 € Plus de 1 300 € 179,99 €1 100 € à 1 299 € 349,99 €1 300 € à 1 399 € 379,99 €Plus de 1 400 € 419,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs extensionsde garantie à 3 ans0 € à 199 € 59,99 € 0 € à 299 € 64 ,99 €200 € à 299 € 69,99 € 300 € à 399 € 74 ,99 €300 € à 399 € 129,99 € 400 € à 499 € 94 ,99 €400 € à 499 € 159,99 € 500 € à 599 € 119,99 €500 € à 599 € 189,99 € 600 € à 699 € 129,99 €600 € à 699 € 224 ,99 € 700 € à 799 € 139,99 €700 € à 799 € 254 ,99 € 800 € à 899 € 149,99 €800 € à 899 € 284 ,99 € 900 € à 999 € 169,99 €900 € à 999 € 314 ,99 € 1 000 € à 1 299 € 189,99 €1 000 € à 1 099 € 349,99 € Plus de 1 300 € 209,99 €1 100 € à 1 199 € 369,99 €1 200 € à 1299 € 399,99 €Plus de 1 400 € 449,99 €
 
 MoniteursGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 179,99 €100 € à 199 € 39,99 € 900 € à 999 € 199,99 €200 € à 299 € 59,99 € 1 000 € à 1 099 € 219,99 €300 € à 399 € 79,99 € 1 100 € à 1 199 € 239,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 259,99 €500 € à 599 € 119,99 € 1 300 € à 1 399 € 279,99 €600 € à 699 € 139,99 € 1 400 € à 1 499 € 299,99 €700 € à 799 € 159,99 € Plus de 1 500 € 299,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 189,99 €100 € à 199 € 44 ,99 € 900 € à 999 € 209,99 €200 € à 299 € 64 ,99 € 1 000 € à 1 099 € 229,99 €300 € à 399 € 84 ,99 € 1 100 € à 1 199 € 254 ,99 €400 € à 499 € 99,99 € 1 200 € à 1 299 € 274 ,99 €500 € à 599 € 104 ,99 € 1 300 € à 1 399 € 294 ,99 €600 € à 699 € 149,99 € Plus de 1 400 € 314 ,99 €700 € à 799 € 169,99 €
 
 Mobilité urbaineGarantie remboursement à neuf pendant 3 ans.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 à 49 € 19,99 € 1 100 à 1 199 € 319,99 €50 à 99 € 39,99 € 1 200 à 1 299 € 339,99 €100 à 149 € 49,99 € 1 300 à 1 399 € 369,99 €150 à 199 € 59,99 € 1 400 à 1 499 € 389,99 €200 à 299 € 89,99 € 1 500 à 1 599 € 409,99 €300 à 399 € 119,99 € 1 600 à 1 699 € 439,99 €400 à 499 € 149,99 € 1 700 à 1 799 € 459,99 €500 à 599 € 169,99 € 1 800 à 1 899 € 479,99 €600 à 699 € 189,99 € 1 900 à 1 999 € 499,99 €700 à 799 € 219,99 € 2 000 à 2 199 € 539,99 €800 à 899 € 239,99 € 2 200 à 2 399 € 589,99 €900 à 999 € 259,99 € 2 400 à 2 599 € 639,99 €1 000 à 1 099 € 299,99 € 2 600 à 2 799 € 689,99 €2 800 à 3 000 € 739,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 à 49 € 19,99 € 1 100 à 1 199 € 339,99 €50 à 99 € 44 ,99 € 1 200 à 1 299 € 359,99 €100 à 149 € 54 ,99 € 1 300 à 1 399 € 389,99 €150 à 199 € 64 ,99 € 1 400 à 1 499 € 409,99 €200 à 299 € 94 ,99 € 1 500 à 1 599 € 434 ,99 €300 à 399 € 124 ,99 € 1 600 à 1 699 € 464 ,99 €400 à 499 € 159,99 € 1 700 à 1 799 € 484 ,99 €500 à 599 € 179,99 € 1 800 à 1 899 € 504 ,99 €600 à 699 € 199,99 € 1 900 à 1 999 € 524 ,99 €700 à 799 € 234 ,99 € 2 000 à 2 199 € 569,99 €800 à 899 € 254 ,99 € 2 200 à 2 399 € 619,99 €900 à 999 € 274 ,99 € 2 400 à 2 599 € 679,99 €1 000 à 1 099 € 319,99 € 2 600 à 2 799 € 729,99 €2 800 à 3 000 € 779,99 €
 
 TablettesGarantie remboursement à neuf pendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 209,99 €100 € à 199 € 49,99 € 900 € à 999 € 289,99 €200 € à 299 € 69,99 € 1 000 € à 1 099 € 319,99 €300 € à 399 € 99,99 € 1 100 € à 1 199 € 349,99 €400 € à 499 € 119,99 € 1 200 € à 1 299 € 349,99 €500 € à 599 € 149,99 € 1 300 € à 1 399 € 379,99 €600 € à 699 € 169,99 € 1 400 € à 1 499 € 419,99 €700 € à 799 € 189,99 € Plus de 1 500 € 419,99 €
+Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans Prix Produit (1) Tarifs garantieremboursement à neuf 3 ans0 € à 99 € 29,99 € 800 € à 899 € 224 ,99 €100 € à 199 € 54 ,99 € 900 € à 999 € 309,99 €200 € à 299 € 74 ,99 € 1 000 € à 1 099 € 339,99 €300 € à 399 € 104 ,99 € 1 100 € à 1 299 € 369,99 €400 € à 499 € 124 ,99 € 1 300 € à 1 399 € 399,99 €500 € à 599 € 159,99 € Plus de 1 400 € 444 ,99 €600 € à 699 € 179,99 €700 € à 799 € 199,99 €
 
 ans3
 
@@ -950,19 +952,19 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 24 mai 2022 - 20
+\- 2 juin 2022 - 20
 
 
 
 Aspirateurs\*Garantie remboursement à neufpendant 3 ans par carte-avoir Darty.
 
-Prix Produit (1)Tarifs garantieremboursementà neuf 3 ans0 € à 49 € 19,99 €50 € à 99 € 39,99 €100 € à 149 € 49,99 €150 € à 199 € 64 ,99 €200 € à 249 € 74 ,99 €250 € à 299 € 79,99 €300 € à 399 € 99,99 €400 € à 499 € 129,99 €500 € à 599 € 159,99 €600 € à 699 € 179,99 €700 € à 799 € 209,99 €800 € à 899 € 219,99 €900 € à 999 € 239,99 €1 000 € à 1 099 € 249,99 €1 100 € à 1 199 € 259,99 €1 200 € à 1 299 € 274 ,99 €1 300 € à 1 399 € 289,99 €1 400 € à 1 499 € 299,99 €Plus de 1 500 € 319,99 €
+Prix Produit (1)Tarifs garantieremboursementà neuf 3 ans0 € à 49 € 19,99 €50 à 99 € 41,99 €100 à 149€ 54 ,99 €150 à 199 € 69,99 €200 à 249 € 79,99 €250 à 299 € 84 ,99 €300 à 399 € 104 ,99 €400 à 499 € 139,99 €500 à 599 € 169,99 €600 à 699 € 189,99 €700 à 799 € 219,99 €800 à 899 € 229,99 €900 à 999 € 254 ,99 €1 000 à 1 099 € 264 ,99 €1 100 € à 1 199 € 274 ,99 €1 200 € à 1 299 € 289,99 €1 300 € à 1 399 € 309,99 €1 400 € à 1 499 € 319,99 €Plus de 1 500 € 339,99 €
 
 Aspirateurs\*Extension de garantie de 3 ans,portant la durée totale de la garantie à 5 ans.
 
 Prix Produit (1) Tarifs extensionsde garantie à 5 ans
 
-150 € à 199 € 59,99 €200 € à 249 € 69,99 €250 € à 299 € 79,99 €300 € à 399 € 99,99 €400 € à 499 € 119,99 €500 € à 599 € 139,99 €Plus de 600 € 169,99 €
+150 € à 199 € 64 ,99 €200 € à 249 € 74 ,99 €250 € à 299 € 84 ,99 €300 € à 399 € 104 ,99 €400 € à 499 € 125 ,99 €500 € à 599 € 149,99 €Plus de 600 € 179,99 €
 
 
 
@@ -974,11 +976,11 @@ TéléviseursExtension de garantie de 3 ans, portant la durée totale de la gara
 
 Prix Produit (1) Tarifs extensionsde garantie à 5 ans Prix Produit (1) Tarifs extensionsde garantie à 5 ans
 
-200 à 249 € 59,99 € 1 500 à 1 599€ 349,99 €250 à 299 € 69,99 € 1 600 à 1 999€ 399,99 €300 à 349 € 79,99 € 2 000 à 2 399€ 449,99 €350 à 399 € 89,99 € 2 400 à 2 999€ 499,99 €400 à 449 € 109,99 € 3 000 à 3 999 € 549,99 €450 à 499 € 119,99 € 4 000 à 4 999 € 659,99 €500 à 549 € 139,99 € 5 000 à 5 999 € 749,99 €550 à 599 € 149,99 € 6 000 à 6 999 € 889,99 €600 à 699 € 159,99 € 7 000 à 7 999 € 989,99 €700 à 799 € 179,99 € 8 000 € à 10 999 € 1 259,99 €800 à 899 € 189,99 € 10 000 € à 11 999 € 1 539,90 €900 à 999 € 249,99 € 12 000 € à 13 999 € 1 809,90 €1 000 à 1 099 € 279,99 € 14 000 € à 15 999 € 2 089,90 €1 100 à 1 299 € 289,99 € 16 000 € à 17 999 € 2 169,90 €1 300 à 1 499 € 299,99 € 18 000 € à 20 000 € 2 439,90 €Garantie direct échange, remplacement à neuf pendant 3 ans.
+200 à 249 € 64 ,99 € 1 500 à 1 599€ 369,99 €250 à 299 € 74 ,99 € 1 600 à 1 999€ 419,99 €300 à 349 € 84 ,99 € 2 000 à 2 399€ 479,99 €350 à 399 € 94 ,99 € 2 400 à 2 999€ 529,99 €400 à 449 € 114 ,99 € 3 000 à 3 999 € 579,99 €450 à 499 € 124 ,99 € 4 000 à 4 999 € 699,99 €500 à 549 € 149,99 € 5 000 à 5 999 € 789,99 €550 à 599 € 159,99 € 6 000 à 6 999 € 934 ,99 €600 à 699 € 169,99 € 7 000 à 7 999 € 1 039,99 €700 à 799 € 189,99 € 8 000 € à 10 999 € 1 329,99 €800 à 899 € 199,99 € 11 000 € à 11 999 € 1 619,99 €900 à 999 € 264 ,99 € 12 000 € à 13 999 € 1 899,99 €1 000 à 1 099 € 294 ,99 € 14 000 € à 15 999 € 2 199,99 €1 100 à 1 299 € 309,99 € 16 000 € à 17 999 € 2 279,99 €1 300 à 1 499 € 319,99 € 18 000 € à 20 000 € 2 569,99 €Garantie direct échange, remplacement à neuf pendant 3 ans.
 
 Prix Produit (1) Tarifs garantiedirect échange 3 ans
 
-0 € à 99 € 19,99 €100 € à 149 € 39,99 €150 € à 199 € 49,99 €200 € à 299 € 69,99 €
+0 € à 99 € 19,99 €100 € à 149 € 39,99 €150 € à 199 € 54 ,99 €200 € à 299 € 74 ,99 €
 
 ans5
 
@@ -1050,7 +1052,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 24 mai 2022 - 21
+\- 2 juin 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1114,7 +1116,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 24 mai 2022 - 22
+\- 2 juin 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1150,7 +1152,7 @@ Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEME
 
 
 
-\- 24 mai 2022 - 23
+\- 2 juin 2022 - 23
 
 activité (ex. : achat, échéance de vos contrats), puis archivées avec unaccès restreint pour une durée supplémentaire de 5 ans pour desraisons strictement limitées et autorisées par la loi (paiement, garantie,litiges ...). Vous êtes informés que vos données peuvent être transmisespour les besoins des finalités mentionnées ci-dessus à des sociétéssituées en dehors de l’Union Européenne notamment pour les activitésde service client (centres d’appel situés au Maroc et à Madagascar),prestations informatiques, exploitation des données en lien avec lesréseaux sociaux. Toute procédure requise pour sécuriser les donnéessera mise en œuvre avant de procéder à de tels transferts. Plusd’informations sur la protection des données personnelles surd a r t y.c om : ht t p s://w w w.d a r t y.c om/re s 3/p d f/c n i l/don ne e s _personnelles_darty.pdf
 
@@ -1168,4 +1170,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 24 mai 2022 - 24
+\- 2 juin 2022 - 24
