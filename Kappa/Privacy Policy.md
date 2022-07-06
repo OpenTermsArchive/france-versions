@@ -28,7 +28,7 @@ Vous trouverez ci-dessous le tableau des finalités et des fondements légaux au
 |     |     |
 | --- | --- |
 | **FINALITES** | **FONDEMENTS LEGAUX**<br><br>**Article 6 du RGPD** |
-| Exécuter le contrat de vente des produits<br><br>Gérer les commandes<br><br>Gérer l’espace client au sein du site Internet [www.kappastore.fr](http://www.kappastore.fr/) | en exécution d’un contrat dont le contrat de vente pour les produits |
+| Exécuter le contrat de vente des produits<br><br>Gérer les commandes<br><br>Gérer l’espace client au sein du site Internet [www.kappastore.fr](https://www.kappastore.fr/) | en exécution d’un contrat dont le contrat de vente pour les produits |
 | Optimiser votre navigation dans votre espace client et sur le site Internet | en exécution d’un contrat |
 | Répondre à vos demandes de renseignements notamment via les différents formulaires de contact | \- pour les clients : en exécution d’un contrat <br><br>\- pour les prospects : consentement préalable |
 | Promouvoir et faire rayonner les activités de KAPPA France :<br><br>organiser des événements et des conférences, organiser la prospection, organiser des jeux-concours, vous adresser les informations/actualités sur les événements et nouveaux produits, etc.<br><br>inscription aux Newsletters | Intérêts légitimes |
@@ -102,7 +102,7 @@ Vous trouverez ci-dessous les durées de conservation de vos Données.
 | Gestion des prospects | Données des prospects (voir article 4 ci-dessus) | 3 ans à compter de la fin de la relation commerciale ou du dernier contact[\[1\]](#_ftn1) |
 | Données de connexion au site Internet www.kappastore.fr | Adresse IP, date, heure et durée de chaque connexion ou encore des informations permettant d’identifier le destinataire d’une communication. | 13 mois à compter de la collecte |
 
-[\[1\]](#_ftnref1) La notion de « dernier contact » pris en considération pour les clients est un clic dans un email ou une visite sur le site [www.kappastore.fr](http://www.kappastore.fr/)
+[\[1\]](#_ftnref1) La notion de « dernier contact » pris en considération pour les clients est un clic dans un email ou une visite sur le site [www.kappastore.fr](https://www.kappastore.fr/)
 
 Lorsque vous avez mis fin à l’utilisation de nos services, nous sommes susceptibles de stocker vos Données sous un format agrégé ou anonymisé.  
 Nonobstant ce qui précède, nous pourrons également conserver vos Données comme raisonnablement nécessaire pour nous conformer à nos obligations juridiques, nous permettre de résoudre et de plaider des litiges, et faire appliquer nos accords.  
