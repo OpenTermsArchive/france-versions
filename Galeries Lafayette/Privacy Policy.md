@@ -5,7 +5,7 @@ Les Galeries Lafayette attachent une grande importance à la protection de vos d
 
 La présente politique vise à vous informer de nos pratiques concernant la collecte, le traitement et le partage des données que vous nous fournissez en magasin et/ou via nos sites internet.
 
-Par Galeries Lafayette on entend la société GALERIES LAFAYETTE MANAGEMENT, dont le siège social se situe 27 rue de Châteaudun – 75009 Paris, ainsi que de l’ensemble des sociétés exploitant les magasins et sites internet sous enseigne Galeries Lafayette filiales ou affiliées de la société GALERIES LAFAYETTE MANAGEMENT (ci-après les « Galeries Lafayette »).
+Par Galeries Lafayette on entend la société Galeries Lafayette Management, dont le siège social se situe 27 rue de Châteaudun – 75009 Paris, ainsi que de l’ensemble des sociétés exploitant les magasins et sites internet sous enseigne Galeries Lafayette filiales ou affiliées de la société Galeries Lafayette Management - GLM (ci-après les « Galeries Lafayette »).
 
 Préambule
 ---------
@@ -58,7 +58,7 @@ Par ailleurs, certaines informations demandées dans les bons de commande et les
 2\. Nature de données et finalités du traitement des données
 ------------------------------------------------------------
 
-Le responsable de traitement est la société GALERIES LAFAYETTE MANAGEMENT, société mère de la branche Grands Magasins qui agit tant pour son compte que pour celui de ses filiales de vente/de service exploitant les enseignes Galeries Lafayette (Magasins Galeries Lafayette, Galeries Lafayette Haussmann, Galeries Lafayette la cagnotte, Restauration Galeries Lafayette, Galeries Lafayette Outlet) ainsi que pour les Société affiliées exploitant les magasins à enseigne Galeries Lafayette et acceptant le programme de fidélité des Galeries Lafayette.
+Le responsable de traitement est la société Galeries Lafayette Management, société mère de la branche Grands Magasins qui agit tant pour son compte que pour celui de ses filiales de vente/de service exploitant les enseignes Galeries Lafayette (Magasins Galeries Lafayette, Galeries Lafayette Haussmann, Galeries Lafayette la cagnotte, Restauration Galeries Lafayette, Galeries Lafayette Outlet) ainsi que pour les Société affiliées exploitant les magasins à enseigne Galeries Lafayette et acceptant le programme de fidélité des Galeries Lafayette.
 
 Les informations recueillies vous concernant nous permettent de gérer, de faciliter vos achats, de mieux vous connaitre pour vous adresser des offres ciblées et ainsi d’améliorer et personnaliser nos services.
 
@@ -89,7 +89,7 @@ Le tableau ci-dessous présente les données que nous sommes susceptibles de col
 | --- | --- | --- |
 | **Informations de paiement /Données bancaires** | \- Enregistrer vos paiements de manière sécurisée<br><br>\- Vous rembourser<br><br>\- Faciliter le parcours client<br><br>\- Analyses pour lutter contre les fraudes | \- Exécuter un contrat<br><br>\- Intérêt légitime, prévenir et détecter les<br><br>activités frauduleuses, les abus et les<br><br>atteintes à la sécurité |
 | **Identifiants Client/ Fidélité** | \- Vous identifier<br><br>\- Vous attribuer vos points ou bon<br><br>d’achat de fidélité<br><br>\- Gestion du programme de<br><br>fidélité<br><br>\- Suivre la relation client & accélérer<br><br>le temps de traitement du dossier. | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
-| **Données d’achat** | \- Vous attribuer vos points ou bon<br><br>d’achat de fidélité<br><br>\- Gestion du programme de<br><br>fidélité<br><br>\- Vous faire des suggestions<br><br>personnalisées de produits<br><br>\- Gérer vos commandes<br><br>\- Permettre les retours & remboursements<br><br>\- Etablir les factures /justificatifs de garanties | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
+| **Données d’achat** | \- Vous attribuer vos points ou bon<br><br>d’achat de fidélité<br><br>\- Gestion du programme de<br><br>fidélité<br><br>\- Vous faire des suggestions<br><br>personnalisées de produits<br><br>\- Gérer vos commandes<br><br>\- Permettre les retours & remboursements<br><br>\- Etablir les factures /justificatifs de garanties<br><br>\- Analyses pour lutter contre les fraudes | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
 | **Historique de contact** | \- Suivre la relation client & accélérer<br><br>le temps de traitement du dossier.<br><br>\- Améliorer nos services et votre<br><br>expérience client<br><br>\- Analyses pour lutter contre les<br><br>fraudes | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
 | **Données de connexion** | \- Suivre la relation<br><br>\- Permettre la finalisation d’une<br><br>commande | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
 | **Mot de passe** | \- Permettre et sécuriser votre<br><br>connexion | \- Exécuter un contrat<br><br>\- Intérêt légitime, prévenir les abus<br><br>et les atteintes à la sécurité |
@@ -120,6 +120,8 @@ o Louis Pion Royal Quartz
 o BazarChic
 
 o Galeries Lafayette DEUTSCHLAND
+
+o Galeries Lafayette Luxembourg
 
 o La Redoute
 
