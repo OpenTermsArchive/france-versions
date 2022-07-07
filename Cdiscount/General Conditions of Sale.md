@@ -564,8 +564,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
-_Article 8 : RETRACTION_
-------------------------
+_Article 8 : RETRACTATION_
+--------------------------
 
 **8.1 Principe**
 
@@ -674,7 +674,7 @@ Pour un meilleur traitement des demandes de rétractation, chaque produit d'une 
 
 En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.  
   
-Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se r��serve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à l’issue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation. 
+Conformément aux dispositions de l’article L. 221-23 du Code de la consommation, vous êtes responsable de la manipulation des biens et de la dépréciation de leur valeur au cours du délai de rétractation. A ce titre, Cdiscount se réserve la faculté d’engager votre responsabilité en cas de dépréciation des produits retournés dans le cadre de l’exercice du droit de rétractation, résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ces produits. Toute trace visible sur tout produit préalablement monté et assemblé, par vous-même ou à l’issue d’une prestation de montage, puis démonté par vos soins ou toute autre personne extérieure à CDISCOUNT, telle que des traces de vis, clous, des rayure(s) ou une partie du produit arrachée (sans que cette liste soit limitative) sera considérée comme une dépréciation du produit, devenu alors impropre à la vente, et CDISCOUNT se réservera le droit d’imputer au client le coût financier relatif à cette dépréciation. 
 
 **  
 8.3 Exceptions**
@@ -809,7 +809,7 @@ II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques ment
  2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou  
 3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.  
   
-III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat.
+III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particuli��res du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat.
 
 **Article L217-8 du Code de la Consommation** En cas de défaut de conformité, le consommateur a droit à la mise en conformité du bien par réparation ou remplacement ou, à défaut, à la réduction du prix ou à la résolution du contrat, dans les conditions énoncées à la présente sous-section.  
   
