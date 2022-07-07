@@ -1,5 +1,5 @@
-Politique de vie privée (février 2022)
---------------------------------------
+Politique de vie privée (juin 2022)
+-----------------------------------
 
 Les Galeries Lafayette attachent une grande importance à la protection de vos données personnelles et au respect de votre vie privée.
 
