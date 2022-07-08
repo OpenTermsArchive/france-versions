@@ -1,5 +1,3 @@
-Cette traduction n'est proposée qu'à titre informatif. Dans le cas de divergences entre le texte en anglais et cette traduction, la version en anglais prévaudra.
-
 Conditions d’utilisation de Discord[
 
 ](#conditions-d’utilisation-de-discord)
