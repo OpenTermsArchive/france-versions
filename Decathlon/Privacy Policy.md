@@ -141,7 +141,7 @@ Profilage ou prise de décision entièrement automatisée produisant des effets 
 
 Ce traitement ne fait pas l’objet d’action ou de prise de décision entièrement automatisée de notre part.  
 
-##### DECATHLON E-CLUB
+##### DECATHLON TRAINING +
 
 Responsable du traitement
 
@@ -162,7 +162,7 @@ Vous pouvez demander à consulter ou rectifier vos données. Sous certaines cond
 
 Destinataires des données
 
-Vos données sont destinées à L’équipe de développement de Decathlon E-CLUB (DECATHLON SE). Des sous-traitants techniques en charge de l’hébergement des données, de l’envoi de notifications et d'emails peuvent traiter vos données personnelles. Leur accès est strictement encadré par DECATHLON. Ils n'ont pas la possibilité d'utiliser vos données à d'autres fins que l'exécution de leurs prestations.  
+Vos données sont destinées à L’équipe de développement de Decathlon Training + (DECATHLON SE). Des sous-traitants techniques en charge de l’hébergement des données, de l’envoi de notifications et d'emails peuvent traiter vos données personnelles. Leur accès est strictement encadré par DECATHLON. Ils n'ont pas la possibilité d'utiliser vos données à d'autres fins que l'exécution de leurs prestations.  
 Sur réquisition judiciaire, ces données peuvent également être transférées aux autorités (police, gendarmerie etc...)
 
 Transfert hors UE
