@@ -135,7 +135,7 @@ Le délai de rétractation expire trente jours à compter du jour de la livraiso
 
 Pour que le délai de rétractation soit respecté, il suffit que le client transmette sa déclaration exprimant sa volonté de se rétracter avant l’expiration du délai de rétractation.
 
-Pour exercer son droit de rétractation, le client doit notifier sa décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté ou en remplissant le modèle ci-dessous, envoyée par lettre recommandée avec accusé de réception ou par email. Sa déclaration doit être adressée à : C&A Mode GmbH & Co. KG, Postfach 210 110, 46268 Dorsten, Allemagne, ou [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) Si le client utilise cette dernière option, C&A lui enverra sans délai un accusé réception de la rétractation par email.
+Pour exercer son droit de rétractation, le client doit notifier sa décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté ou en remplissant le modèle ci-dessous, envoyée par lettre recommandée avec accusé de réception ou par email. Sa déclaration doit être adressée à : C&A Mode GmbH & Co. KG, Postfach 210 110, 46268 Dorsten, Allemagne, Téléphone 01 73 44 32 99 ou [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) Si le client utilise cette dernière option, C&A lui enverra sans délai un accusé réception de la rétractation par email.
 
 **Effets de la rétractation**
 
@@ -155,7 +155,8 @@ Aussi, tous les articles peuvent faire l’objet d’une rétractation, à condi
 
 **Modèle de formulaire de rétractation**
 
-À l'attention de ............................................... \[le professionnel insère ici son nom, son adresse géographique et, lorsqu'ils sont disponibles, son numéro de télécopieur et son adresse électronique\] :  
+Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat à l’attention de C&A Mode GmbH & Co. KG, Postfach 210 110, 46268 Dorsten, Allemagne, Téléphone 01 73 44 32 99 ou [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) :
+
 Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous :  
 Commandé le (\*)/reçu le (\*) :  
 Nom du (des) consommateur(s) :  
