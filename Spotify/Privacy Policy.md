@@ -1,6 +1,4 @@
-Votre vie privée est importante. À compter du 8 juin 2022, nous mettons à jour notre Politique de confidentialité afin de la rendre plus claire et d'y faire figurer de nouvelles fonctionnalités prometteuses.
-
-[](#politique-de-confidentialité-spotify)**Politique de confidentialité Spotify**
+[**Politique de confidentialité Spotify**](#politique-de-confidentialité-spotify)
 =================================================================================
 
 En vigueur à compter du 8 juin 2022
