@@ -1,9 +1,5 @@
 Terms of Service
 
-![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAmCAYAAACoPemuAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAT8SURBVHgBzVgtcBtHFH7v7qzUPSWp3Tn1HNBJbSGTGIVYqKTmLmmJTVoSk5SkxCVFQgmoUUhMGtKQhiioxEYlMnGJfzopUXwgmfbsznR0+/p2Zd3u6n50UjITvxnNaffevv1239t331uAKyoI70Aajc8+4UcILoWAbgx9EQP047Ozv45hSpkKmARCjrMGRCuAThOA6oXKRF10YI/6Yj+K/uxBRZkIGAO6Q4ibgLgC04gESfTk7Oz0YJxqJWBBcDsEx3kwNaCMUAcSsVu2g+4YC2qXwPUe8RI+LVUk6oEQ2/zc5QW0+FfsXsAmL7TlX597dRG/fgmTAms0Ftc5ln7gvzUDAQc2PgWC2AIr8H4UnR5eXLyJ/Q9vHoOMQQ26y0Bf8DM0APMTP/fr88DgDioDC8KlDTbyrd0rnkES8654L3ni7wywnejs5PmwxeB6fv1jCWBZdSCGkPzN42Z+A0cC4x3TslK/Phefx6//MGdy8kA1bi2t8mNzBNRO1Dv9KYqiGNFZtV5xvGSMJDW7z72xLmMq6p20WX/HfEWEWxzHK6XAZKCTgC17EmgzqF9SQ67pJrGXF8RRdMiuZhdqvZZ+x7aSpG0Dd35Uh6wIGCtsgEyWqfBORccdEzgvUbtC0D4UCILT0Q2naU7Mi+nYO8culic/D5g6gYB6N2TsGDulhnveHXv68z0oEOrX9svGqp0D1PY5HQ1dagEjl5Nn2uDjnxM7RELHAokjGXNQIAN34lHu2KGoWERtw1Ee0wlWbbPrPjUgSOWc3VBJdugSji0jjnLF1K9kk8EmX6XABjkLt+BqyJPUleRCC66KMDnwdAPN2Nnj2MjGDkFofS+L9KwxfNrQWHQV2whNBSwIlpqWkqBnfGIysXPJLh4ZepxKTkupzGXstsbZVhhceDxoYV25ElH4ttr5EVSQKvwqqyMKPu7XLL1BjHlO3TZWkAJcN4S3FPRqfl6/Si0ZYFRGUd6PDIAlibWNQRDkA0UqD/QKQv3+q7z+IFiuZ4AR0YjytXyXqSLDNHZ7rGur6EhB/HfJaqcGwubztKggZGInsoFd9eiXjqlmWwNbWHxo5bL3Kcx49UdcruSKiCz3dOZPkhecDjbTtmQXCDlgnZZ2eZGOIQQrilpXtSnVuAZNgclEyO7spu5ELhaSf3ZGc1oQLoLmbBQzX2tDiQQLzccMCC5tdhW1Nt+rL4Oac7jYrsRiM9i+yb84GN36xuhEzPf1ihUrDQpzoEoBJttNRLbQHWXMYoDBAsZIuxZPB+fLxsLiuqnDecgyjt7NVSgQ9P4bfWe5UVKtDGOWGCCP8/dF22SUlxXMmgG+Z7FSIdagQEiQmVqOzO9mo9H8wuJ/I4w5A0wNTvrbVqfrPrB2jkizUMXTs+5UsWPmJQc7GpQkpfS9NUDAjgk8t+BVBevsR+dcnN7VvXjXr8+F/ixX2TR7AE7ydfrKmaldxG9+N234N+bvWYVtIh76/gz33/qGAW+OTLnLBfOvZkdhJc7gDrl8lwnYSLqDOwcGVVMnbZgGAJcZ8IFckGwpbuWgrtTlF8Jx58H5gK8baCSJy0L65OfR+cfe9gTBIgOBexpEoXAIJPcRUd6dSTeN0WdCkIjtYbBPDGwATuYaeaxxDd6FyEsWIdplRHOiiztVjHoMkKa/uJN5qmiXpgY2lAGV4TswD1fLQbK7CI44DA7YzZ1Jrjr/BxrRR0lnrAngAAAAAElFTkSuQmCC)
-
-EEA/UK/CH
-
 **(If you are a user having your residence in the European Economic Area, Switzerland and the UK)**
 
 _Last updated: June 2022_
@@ -19,8 +15,6 @@ _In short: This is a contract between you and TikTok. You should read it._
 **1\. Who you are contracting with**
 ------------------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 The company that you are contracting with depends on where you are resident:
 
 *   If you are resident in one of the countries that form the [European Economic Area (“EEA”)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) or Switzerland, your contract is with TikTok Technology Limited, which is a company registered in the Republic of Ireland with its registered office at 10 Earlsfort Terrace, Dublin, D02 T380, Ireland and company number 635755.
@@ -32,8 +26,6 @@ _In short: The specific TikTok company that you have a contract with depends on 
 **2\. What services are covered by these Terms**
 ------------------------------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 These Terms govern your use of TikTok (“**Platform**”), which includes TikTok apps, websites, software and related services, accessed via any platform or device. Our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) also form part of our contract with you and, by agreeing to these Terms, you promise to us that you will comply with them.
 
 The products and services you access through your TikTok For Business, TikTok Ads Manager and TikTok Business Center accounts are governed by the separate [Commercial Terms of Service](https://ads.tiktok.com/i18n/official/policy/commercial-terms-of-service).
@@ -42,8 +34,6 @@ _In short: These Terms apply to your use of the TikTok app, websites, software a
 
 **3.** **Additional terms and policies that might apply depending on the features you use**
 -------------------------------------------------------------------------------------------
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
 
 Additional terms and policies may apply to certain products or features of the Platform that we may make available to you, if you post or live stream certain kinds of content, or if you use the Platform for business or commercial purposes. The main ones you should be aware of, and which form part of these Terms, are set out below for your information:
 
@@ -65,8 +55,6 @@ _In short: These Terms cover your use of the Platform. There may be some additio
 
 **4\. Using the Platform**
 --------------------------
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
 
 ### **Our Platform and business model**
 
@@ -249,8 +237,6 @@ _In short: When you post content to the Platform, it remains yours, but we can s
 **5\. What we promise to you**
 ------------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 We promise to provide the Platform to you with reasonable skill and care and to act with professional diligence for so long as we choose to offer the Platform. We will also take all reasonable steps to keep the Platform a safe and secure environment for our users. We do not promise to offer the Platform forever or in its current form for any particular period of time.
 
 The content on the Platform is mostly user generated content or provided by third party business users. In other words, TikTok is not the creator of most of the content on the Platform (although TikTok may produce some content). Therefore, subject to any mandatory regulations or laws (including sectorial regulations or laws) applicable to TikTok, TikTok cannot and does not promise that any of the content generated by users that you find on the Platform:
@@ -286,8 +272,6 @@ _In short: We will always seek to provide you with a great and safe user experie
 **6\. Suspending or ending our relationship**
 ---------------------------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 ### **Your rights**
 
 You may end your relationship with TikTok at any time by simply closing your account and stopping your use of the Platform. Instructions for how to do this are in our [Help Center](https://support.tiktok.com/en/). However, depending on your Platform settings, some of your content may still be available on the Platform after you delete your account.
@@ -320,8 +304,6 @@ _In short: We have rules and, if you break them, TikTok can take action against 
 
 **7\. Changes to these Terms or the Platform**
 ----------------------------------------------
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
 
 ### **What happens when we make changes**
 
@@ -356,8 +338,6 @@ _In short: Our Platform will not stay the same forever, but we will be transpare
 **8\. Resolving disputes**
 --------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 These Terms are governed by the law of the jurisdiction in which you are a resident.
 
 If we have a dispute, we will first try and resolve it with you amicably.
@@ -375,8 +355,6 @@ _In short: We hope we do not get into a dispute but, if we do, there are a coupl
 **9\. Other**
 -------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 These Terms, and any rights and permissions granted in them, may not be transferred or assigned by you, but may be assigned by TikTok without restriction. If we do so, this will not affect your rights as a consumer. And, if you are not happy, you always have the right to terminate this contract and stop using the Platform at any time.
 
 _In short: We have no plans to do so, but, if in the future we sell all or part of, or re-organise our business, another company may end up providing the Platform to you._
@@ -392,16 +370,12 @@ _In short: Just because you or we do not rely on one of these Terms, this does n
 **10\. Contacting TikTok**
 --------------------------
 
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
-
 You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)  
 
 In some countries, the law requires us to provide additional regulatory information and/or contact points within the country, even though we may not be physically present there. You can find this information [here](https://www.tiktok.com/transparency/en/reports/).
 
 **Additional languages (please also see the language settings for other available languages)**
 ----------------------------------------------------------------------------------------------
-
-![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzAiIGhlaWdodD0iMzAiIHZpZXdCb3g9IjAgMCAzMCAzMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0xNC4xMTYxIDIwLjI1ODlMNS4xODMwNiAxMS4zMjU4QzQuOTM4OTggMTEuMDgxNyA0LjkzODk4IDEwLjY4NiA1LjE4MzA2IDEwLjQ0MTlMNi4wNjY5NCA5LjU1ODA2QzYuMzExMDIgOS4zMTM5OCA2LjcwNjc1IDkuMzEzOTggNi45NTA4MyA5LjU1ODA2TDE1IDE3LjYwNzJMMjMuMDQ5MiA5LjU1ODA2QzIzLjI5MzMgOS4zMTM5OCAyMy42ODkgOS4zMTM5OCAyMy45MzMxIDkuNTU4MDZMMjQuODE2OSAxMC40NDE5QzI1LjA2MSAxMC42ODYgMjUuMDYxIDExLjA4MTcgMjQuODE2OSAxMS4zMjU4TDE1Ljg4MzkgMjAuMjU4OUMxNS4zOTU3IDIwLjc0NyAxNC42MDQzIDIwLjc0NyAxNC4xMTYxIDIwLjI1ODlaIiBmaWxsPSJibGFjayIvPgo8L3N2Zz4K)
 
 *   Bulgarian: [български](https://www.tiktok.com/legal/bul-terms-of-service-eea?lang=en)  
     
