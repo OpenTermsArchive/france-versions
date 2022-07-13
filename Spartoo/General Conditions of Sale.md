@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 01/02/2022  
+Mise à jour le 13/07/2022  
 **Société SPARTOO**  
 Société Anonyme au capital de 363 568,56 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -36,7 +36,7 @@ SPARTOO s'engage à prévenir par courrier électronique le Client qui aurait pa
 ---------------------------
 
 Les produits proposés à la vente sont décrits et présentés avec la plus grande précision possible.Le Client est tenu de se reporter au descriptif de chaque produit afin d’en connaître les propriétés et les particularités essentielles. Le Client est tenu d’en prendre connaissance avant toute passation de commande. Le choix et l’achat d’un Produit est de la seule responsabilité du Client.  
-Tout Client est invité à informer SPARTOO de toute erreur qu’il pourrait relever dans la désignation d’un produit.Un guide d’entretien est à la disposition du client pour l’aider dans l’entretien de ses chaussures : http://www.spartoo.com/guide\_entretien.php  
+Tout Client est invité à informer SPARTOO de toute erreur qu’il pourrait relever dans la désignation d’un produit.  
 
 5 Création d’un compte
 ----------------------
