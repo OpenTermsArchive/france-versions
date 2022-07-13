@@ -113,7 +113,7 @@ Vous devrez fournir des informations sur vos vols (comme les vols de corresponda
 Informations concernant l’achat de produits disponibles à bord.    
   
 **10.** Lorsque vous entrez en contact avec laTAP ou êtes contacté par la TAP :  
-Toutes les communications établies avec nous (e-mails, lettres) ou les appels téléphoniques vers la [Centrale d’appel TAP](https://www.flytap.com/fr-fr/aide/coordonnees)).  
+Toutes les communications établies avec nous (e-mails, lettres) ou les appels téléphoniques vers la [Centrale d’appel TAP](https://www.flytap.com/fr-fr/aide/contacts)).  
    
 **11.** Lorsque vous établissez un contact avec nous à travers les réseaux sociaux :   
 Toutes les publications et les messages que vous adressez à la TAP sur les réseaux sociaux.  
