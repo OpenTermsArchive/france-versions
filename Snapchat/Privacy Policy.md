@@ -27,14 +27,6 @@ Nous collectons trois catégories d'informations principales :
 
 Voici un peu plus d'explications sur chacune de ces catégories.
 
-### Les données que vous nous transmettez
-
-Lorsque vous interagissez avec nos services, nous recueillons les informations que vous nous fournissez. Par exemple, la plupart de nos services nécessitent que vous configuriez un compte ainsi, nous pouvons recueillir quelques informations importantes vous concernant, telles que votre nom, votre nom d'utilisateur, votre mot de passe, votre adresse e-mail, votre numéro de téléphone et votre date de naissance. Nous pouvons également vous demander de nous fournir des informations supplémentaires qui seront visibles publiquement sur nos services, telles qu'une photo de profil ou un avatar Bitmoji. Certains services, tels que les produits commerciaux, peuvent vous obliger à nous fournir un numéro de carte de débit ou de crédit et les informations de compte associées.
-
-Bien entendu, vous nous fournissez également toutes les informations que vous envoyez via nos services, telles que les Snaps et les Chats. Gardez à l'esprit que les utilisateurs qui consultent vos Snaps, Chats et tout autre contenu peuvent toujours enregistrer ce contenu ou le copier en dehors de l'application. Ainsi, le même bon sens qui s'applique à Internet en général s'applique également à nos Services : n'envoyez pas de messages ou ne partagez pas de contenu que vous ne voudriez pas que quelqu'un enregistre ou partage.
-
-Lorsque vous contactez le service clients ou communiquez avec nous de toute autre façon, nous collectons les informations que vous voulez bien nous communiquer ou dont nous avons besoin pour répondre à votre question.
-
 ### Données que nous obtenons lorsque vous utilisez nos services
 
 Lorsque vous utilisez nos services, nous collectons des données sur les types de services que vous avez utilisés et la manière dont vous les avez utilisés. Nous pourrions savoir, par exemple, que vous avez regardé une Story particulière, vu une publicité spécifique pendant un certain temps et envoyé quelques Snaps. Voici une explication plus complète des types de données que nous collectons lorsque vous utilisez nos services :
@@ -166,27 +158,6 @@ Nous pouvons partager des informations à votre sujet des façons suivantes :
         
 *   **Informations à caractère non personnel.** Nous pouvons également partager avec des tiers qui nous fournissent des services ou qui effectuent des activités commerciales pour nous des informations agrégées, non personnellement identifiables ou anonymisées.
     
-
-Contenus et intégrations de tiers
----------------------------------
-
-Nos services peuvent contenir du contenu et des intégrations tiers. Les exemples incluent des intégrations tierces dans l'appareil photo, des jeux tiers dans le Chat et des intégrations tierces Snap Kit. Via ces intégrations, il est possible que vous transmettiez des informations au tiers ainsi qu'à Snap. Nous ne sommes pas responsables de la manière dont ces tiers collectent ou utilisent vos informations. Comme toujours, nous vous encourageons à vous pencher sur les politiques de confidentialité de tout site internet ou service tiers que vous visitez ou utilisez, notamment ceux avec lesquels vous interagissez via nos Services. Vous pouvez en savoir plus sur les services tiers dans Snapchat [ici](https://support.snapchat.com/article/integrated-features).
-
-Durée de conservation de vos données
-------------------------------------
-
-Snapchat vous permet de capturer ce que vous vivez, au moment où vous le vivez. De notre côté, cela signifie que la plupart des messages - comme les Snaps et les Chats - envoyés dans le Snapchat seront automatiquement supprimés par défaut de nos serveurs après qu'il est établi qu'ils ont été ouverts par tous les destinataires ou qu'ils ont expiré. D'autres contenus, comme les messages Story, sont stockés plus longtemps. Pour des informations détaillées sur la durée de stockage des différents types de contenu, veuillez consulter notre [Site d'assistanc](https://support.snapchat.com/article/when-are-snaps-chats-deleted)e.
-
-Nous conservons d'autres informations pendant des périodes plus longues. Par exemple :
-
-*   Nous conservons les informations de votre compte - comme votre nom, votre numéro de téléphone et votre adresse e-mail - et la liste de vos amis jusqu'à ce que vous nous demandiez de les supprimer.
-    
-*   Nous conservons les informations de localisation pour des durées différentes en fonction de leur précision et des services que vous utilisez. Si des informations de localisation sont associées à un Snap, comme celles qui sont enregistrées dans Memories, publiées sur la carte Snap ou sur Spotlight nous conserverons cet emplacement aussi longtemps que nous conserverons le Snap. Conseil de pro : Vous pouvez voir les données de localisation que nous conservons à votre sujet en [téléchargeant vos données](https://accounts.snapchat.com/accounts/downloadmydata).
-    
-
-Si vous décidez d'arrêter d'utiliser Snapchat, il vous suffit de [nous demander de supprimer votre compte](https://support.snapchat.com/a/delete-my-account1). Nous supprimons également la plupart des informations que nous avons recueillies à votre sujet après que vous ayez été inactif ou inactive pendant un certain temps !
-
-Remarque : Bien que nos systèmes soient conçus pour exécuter automatiquement ces procédures de suppression, nous ne pouvons garantir que la suppression aura lieu dans un délai défini. Il peut y avoir des obligations légales à propos de l'enregistrement de vos données et nous pouvons avoir besoin de suspendre ces pratiques de suppression si nous recevons une procédure légale valide nous demandant de conserver le contenu, si nous recevons des rapports d'abus ou d'autres violations des Conditions d'utilisation du service, ou si votre compte ou le contenu que vous avez créé est signalé par d'autres personnes ou par nos systèmes automatisés pour abus ou autres violations des Conditions d'utilisation du service. Enfin, nous pouvons également conserver certaines informations à titre de sauvegarde pendant une période de temps limitée ou si la loi l'exige.
 
 Contrôle de vos données
 -----------------------
