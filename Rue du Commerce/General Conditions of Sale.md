@@ -237,11 +237,9 @@ En choisissant le paiement via PayPal, vous serez automatiquement dirigé(e) sur
 
 **• BON D’ACHAT**
 
-Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).  
+Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande), hormis les bons d'achat émanant de la société GREENDID, suite à la revente d'un de vos produits, qui eux sont valables sur tout notre site, y compris sur notre marketplace.   
   
-Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client
-
-Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.  
+Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client  
   
 A NOTER : si votre bon d’achat couvre le montant de votre achat, vous devrez sélectionner le moyen de paiement « Virement » pour valider votre commande.  
   
@@ -1114,11 +1112,9 @@ En choisissant le paiement via PayPal, vous serez automatiquement dirigé(e) sur
 
 **• BON D’ACHAT**
 
-Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande).  
+Le paiement à l'aide de bon d'achat Rue du Commerce est valable pour tous les produits vendus et expédiés directement par Rue du Commerce (hors Galerie marchande), hormis les bons d'achat émanant de la société GREENDID, suite à la revente d'un de vos produits, qui eux sont valables sur tout notre site, y compris sur notre marketplace.   
   
-Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client
-
-Concernant les produits proposés par nos partenaires marchands, il n'est pas possible d'utiliser les bons d'achat Rue du Commerce, seuls des codes de réduction Rue du Commerce peuvent être utilisés.  
+Si vous disposez d’un bon d’achat, celui-ci sera disponible directement à la page de paiement au moment de votre achat via une case à cocher mais aussi dans la rubrique « Mes Avantages » disponible dans votre espace client  
   
 A NOTER : si votre bon d’achat couvre le montant de votre achat, vous devrez sélectionner le moyen de paiement « Virement » pour valider votre commande.  
   
