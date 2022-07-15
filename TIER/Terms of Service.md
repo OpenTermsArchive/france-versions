@@ -1,7 +1,7 @@
 **CONDITIONS GÉNÉRALES D’UTILISATION**
 
-Dernière mise à jour : 30.05.2022  
-Télécharger version en vigueur. [20220530\_France CGV](https://about.tier.app/wp-content/uploads/20220530_France-CGV.pdf)
+Dernière mise à jour : 2022-07-15  
+Télécharger version en vigueur: [20220715\_France CGV](https://about.tier.app/wp-content/uploads/20220715_France-CGV-.pdf) 
 
 ### Article 1 : Objet
 
@@ -89,7 +89,12 @@ Télécharger version en vigueur. [20220530\_France CGV](https://about.tier.app/
     Les crédits accordés seront crédités sur le compte de règlement du Client dans un délai de trois (3) jours ouvrables et pourront être utilisés comme moyen de paiement des frais de location des Véhicules TIER. Il est possible de créditer ces crédits uniquement sur le propre compte de règlement du Client concerné. Si le compte de règlement du Client présente un solde créditeur, les frais de location seront d’abord déduits de ce solde créditeur. Dans ce cas, les crédits dont l’expiration est prévue seront épuisés en premier. Si le compte de règlement du Client n’a pas de solde créditeur – ou si les frais de location dépassent le solde créditeur existant, ou portent sur un nombre de minutes supérieur au nombre de minutes gratuites – le mode de paiement choisi par le Client sera utilisé pour régler les comptes. Les Clients peuvent consulter l’état de leur solde créditeur à tout moment en utilisant l’Application TIER ou dans leur compte utilisateur TIER. Toute affectation non utilisée pendant la période de validité du crédit correspondant sera annulée. 
 7.  Il n’est pas possible d’échanger des soldes créditeurs pour un contrat de location en dehors du champ d’application des présentes CGU, et non pas, donc, vis-à-vis d’une autre société du groupe TIER.
 8.  L’utilisation des Véhicule TIER sera payée conformément à l’option que le Client a choisie dans le cadre du contrat de location : soit en fonction du forfait choisi, soit en fonction de la méthode de règlement standard basée sur les minutes, ou parties de minutes, d’utilisation (toute fraction de minute sera facturée comme une minute complète). Le forfait choisi ne s’applique qu’à une seule location d’un Véhicule TIER ; tout élément non utilisé du forfait (par exemple, le temps de conduite) est caduc à la fin de la location. Si le compte du Client présente un solde créditeur remboursable, les minutes d’utilisation susmentionnées seront d’abord imputées sur le solde créditeur. 
-9.  Les Clients ne peuvent compenser leurs propres demandes de remboursement avec celles de TIER que si leurs propres demandes sont certaines, liquides et exigibles. 
+9.  Les Clients ne peuvent compenser leurs propres demandes de remboursement avec celles de TIER que si leurs propres demandes sont certaines, liquides et exigibles.
+10.  Dans certaines grandes villes, TIER vous offre l’opportunité de recevoir des avantages sous forme de déverrouillages gratuits ou de minutes gratuites (« Freebies ») en utilisant certains Véhicules TIER. Les Véhicules pouvant être utilisés pour gagner des Freebies vous seront présentés respectivement dans l’application TIER.  
+    Vous pouvez collecter des Freebies, si vous :  
+    a) utilisez des Véhicules TIER repérés dans l’application TIER comme éligibles à l’obtention de Freebies ; et  
+    b) couvrez la distance minimum indiquée (si elle est définie) ou stationnez le Véhicule TIER dans une zone désignée à cet effet.  
+    Les Freebies collectés seront crédités sur votre Compte Client au terme du déplacement et ne peuvent être utilisés que pour des trajets futurs. Les Freebies ne sont pas transmissibles, sauf disposition contraire figurant dans l’application, et leur période de validité peut être également limitée à de courtes périodes. Les Freebies ne peuvent pas être vendus et leur valeur ne peut pas être payée en espèces. TIER peut modifier ou interrompre l’opportunité de collecte de Freebies à tout moment. Les Freebies déjà accumulés ne seront pas concernés par un tel changement.
 
 ### Article 8 : Cession
 
@@ -265,3 +270,5 @@ En application de l’article 14 du règlement européen n°524/2013 relatif au 
     Tél. : + 33 186 76 72 83  
     Courriel : support(at)tier.app
 2.  TIER ne s’est pas engagé à respecter un quelconque code d’éthique ou de conduite.
+
+[20220530\_France CGV](https://about.tier.app/wp-content/uploads/20220530_France-CGV.pdf)
