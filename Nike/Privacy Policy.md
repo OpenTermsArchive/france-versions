@@ -171,7 +171,7 @@ Notre Plateforme peut proposer des liens vers d’autres sites internet et appli
 
 **Modifications de notre Politique de Confidentialité** 
 
-La législation et les pratiques évoluent au fil du temps. Si nous décidons de mettre à jour notre Politique de Confidentialité, nous publierons les modifications sur notre Plateforme. Si nous modifions matériellement la façon dont nous traitons vos données personnelles, nous vous ferons parvenir un avertissement préalable ou, dans les cas où la loi l’exige, nous vous demanderons votre autorisation préalablement à la mise en œuvre de ces modifications. Nous vous invitons vivement à lire notre Politique de Confidentialité et à vérifier régulièrement si des modifications y ont été apportées. Cette Politique de Confidentialité a été modifiée pour la dernière fois en Juin 2021.
+La législation et les pratiques évoluent au fil du temps. Si nous décidons de mettre à jour notre Politique de Confidentialité, nous publierons les modifications sur notre Plateforme. Si nous modifions matériellement la façon dont nous traitons vos données personnelles, nous vous ferons parvenir un avertissement préalable ou, dans les cas où la loi l’exige, nous vous demanderons votre autorisation préalablement à la mise en œuvre de ces modifications. Nous vous invitons vivement à lire notre Politique de Confidentialité et à vérifier régulièrement si des modifications y ont été apportées. Cette Politique de Confidentialité a été modifiée pour la dernière fois en mai 2022.
 
 **Questions et commentaires**
 
