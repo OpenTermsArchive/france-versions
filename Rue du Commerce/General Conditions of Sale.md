@@ -423,7 +423,7 @@ A noter que le client disposera d’un délai d’un an pour fournir une étique
 
 ### 7.2 Un retour complet de la commande : Documents + emballage + produit.
 
-Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), si possible dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
+Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
 
 Vous devez accompagner votre retour d'un double de la facture.
 
@@ -472,7 +472,7 @@ Pour tous les produits commandés via la Galerie Marchande, les frais de retour 
 
 **Spécificité relative aux Bons d’achats émis à la suite d’une commande**
 
-La rétractation de tout ou partie d’une commande annule la validité d’un bon d’achat obtenu lors du passage de cette commande. Si le bon d’achat a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
+La rétractation de tout ou partie d’une commande annule la validité d’un code de réduction obtenu lors du passage de cette commande. Si le code de réduction a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
 ### 8.2L´exercice du droit de rétractation : de quelle manière ?
 
@@ -484,7 +484,7 @@ Ce droit de rétractation s'exerce sans pénalité. Toutefois, les frais de reto
 
 Vous devez vous assurer que la commande pour laquelle vous vous rétractez est renvoyée complète, dans les conditions des articles 7.2. et 7.3, ci-dessus.
 
-Enfin, seuls les articles neufs, non utilisés et si possible retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
+Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
 
 ### 8.3 Les restrictions du droit de rétractation :
 
@@ -1298,7 +1298,7 @@ A noter que le client disposera d’un délai d’un an pour fournir une étique
 
 ### 7.2 Un retour complet de la commande : Documents + emballage + produit.
 
-Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), si possible dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
+Lors du retour, nous vous recommandons de sur-emballer les emballages d'origine de vos produits, car nous pourrons reprendre que les produits renvoyés **dans leur intégralité (emballages, câbles, accessoires, coupons de garantie, drivers, manuels, housses, caches, protections, etc...), dans leur emballage d'origine**, l'ensemble devant être intact et en bon état.
 
 Vous devez accompagner votre retour d'un double de la facture.
 
@@ -1347,7 +1347,7 @@ Pour tous les produits commandés via la Galerie Marchande, les frais de retour 
 
 **Spécificité relative aux Bons d’achats émis à la suite d’une commande**
 
-La rétractation de tout ou partie d’une commande annule la validité d’un bon d’achat obtenu lors du passage de cette commande. Si le bon d’achat a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
+La rétractation de tout ou partie d’une commande annule la validité d’un code de réduction obtenu lors du passage de cette commande. Si le code de réduction a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
 ### 8.2L´exercice du droit de rétractation : de quelle manière ?
 
@@ -1359,7 +1359,7 @@ Ce droit de rétractation s'exerce sans pénalité. Toutefois, les frais de reto
 
 Vous devez vous assurer que la commande pour laquelle vous vous rétractez est renvoyée complète, dans les conditions des articles 7.2. et 7.3, ci-dessus.
 
-Enfin, seuls les articles neufs, non utilisés et si possible retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
+Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
 
 ### 8.3 Les restrictions du droit de rétractation :
 
