@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 2 juin 2022 - 3
+\- 12 juillet 2022 - 3
 
 
 
@@ -26,7 +26,7 @@ PRIX
 
 
 
-(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama,Cora, Digital, Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania,Printemps, Pro \& Cie, Pulsat, Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produitscomprenant des remises (soldes, ventes flash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une placede marché (Marketplace) ne pourront faire l’objet d’un remboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée parrapport au prix payé chez Darty et doit être constatée dans les 10 jours. Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par leclient. la carte cadeau est envoyée, par email, dans un délai de 3 semaines après la demande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous lesmagasins Darty de France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ou ponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de créditaccessoire à une vente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque, SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1Rue Victor Basch – CS 70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vous disposez d’un droit légal de rétractation.Cette publicité est diffusée par établissement DARTY et FILS SAS, au capital de 23 470 382 € - 129 Avenue Gallieni, 93140 Bondy, RCS Bobigny B 542 086 616, immatriculée àl’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisation d’opérations de crédit sans agir en qualitéde prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Le montant se présente sous formede carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’une valeur minimalede 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produitsvolumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
+(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama,Cora, Digital, Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania,Printemps, Pro \& Cie, Pulsat, Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produitscomprenant des remises (soldes, ventes flash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une place demarché (Marketplace) ne pourront faire l’objet d’un remboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée par rapport auprix payé chez Darty et doit être constatée dans les 10 jours. Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par le client. la cartecadeau est envoyée, par email, dans un délai de 3 semaines après la demande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous les magasins Dartyde France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ou ponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de crédit accessoire à unevente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque, SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1 Rue Victor Basch – CS70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vous disposez d’un droit légal de rétractation. Cette publicité est diffuséepar établissement DARTY et FILS SAS, au capital de 23 470 382 € - 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, RCS Bobigny B 542 086 616, immatriculéeà l’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisation d’opérations de crédit sans agir en qualitéde prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Le montant se présente sous formede carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’une valeur minimalede 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produitsvolumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
 
 
 
@@ -34,9 +34,7 @@ UN CRÉDIT VOUS ENGAGE ET DOIT ÊTRE REMBOURSÉ.VÉRIFIEZ VOS CAPACITÉS DE REMB
 
 1\. Le remboursement de la différence si vous trouvezmoins cher, même sur internet
 
-Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau
-
- (1).
+Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau (1).
 
 2\. Des prix bas, identiques en magasin et sur internet
 
@@ -44,7 +42,7 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3) .
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
@@ -88,9 +86,9 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 
 
-\- 2 juin 2022 - 4
+\- 12 juillet 2022 - 4
 
-\- 2 juin 2022 - 5
+\- 12 juillet 2022 - 5
 
 
 
@@ -114,7 +112,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 2 juin 2022 - 6
+\- 12 juillet 2022 - 6
 
 
 
@@ -142,7 +140,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 DURABILITÉ
 
-\- 2 juin 2022 - 7
+\- 12 juillet 2022 - 7
 
 
 
@@ -164,7 +162,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 2 juin 2022 - 8
+\- 12 juillet 2022 - 8
 
 
 
@@ -188,7 +186,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 2 juin 2022 - 9
+\- 12 juillet 2022 - 9
 
 
 
@@ -236,7 +234,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 2 juin 2022 - 10
+\- 12 juillet 2022 - 10
 
 
 
@@ -300,7 +298,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 2 juin 2022 - 11
+\- 12 juillet 2022 - 11
 
 
 
@@ -320,31 +318,17 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
 
- 4 € TTC/mois
+Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
 
- 4 € TTC/mois
-
-Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois
-
- 2 € TTC/mois
-
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an
-
- 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
+Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
 
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
-
- 200<400€400<600€600€et +Tarif mensuel TTC 4,00 €
-
- 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an
-
- 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
 
 
 
@@ -358,11 +342,11 @@ Les assurances
 
 DURABILITÉ
 
-\- 2 juin 2022 - 12
+\- 12 juillet 2022 - 12
 
 
 
-(1) L’offre « Assurance Mobile » est un contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-0001 pour l’Assurance Mobile en paiement mensuel et N°AG10003- 0002 pour l’Assurance Mobile prépayée: Souscrit par ETABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capital de 23 470 382 Euros, dont lesiège social est situé 129 avenue Gallieni, 93140 Bondy, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nom et au nom et pour le compte de sesfiliales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siège social est situé Assurant House,6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous le numéro 02341082, agrée par la« Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » et la « Financial Conduct Authority »,25 The North Colonnade, Londres E14 5HS, RoyaumeUni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biais de sa succursale située 45 rue DenisPapin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société par actions simplifiée au capital de392250 euros, dont le siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881 RCS Aix-en-Provence, et inscriteà l’ORIAS en qualité de courtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ; et Présenté en point de vente Dartyagissant au titre de la dérogation prévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rueTaitbout, 75436 Paris Cedex 09 (www.acpr.fr). (2) Service d’assistance téléphonique pour tous les produits multimédia d’une marque et d’une famille commercialisée par Dartyqu’ils soient ou non sous garantie. Valable uniquement pour les assurances en « Formule Premium » en abonnement mensuel. (3) L’offre « Assurance Multimédia Foyer » estun contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-003: Souscrit par ÉTABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée aucapital de 23 470 382 Euros, dont le siège social est situé 129 avenue Gallieni, 93140 Bondy, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nomet au nom et pour le compte de ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siègesocial est situé Assurant House, 6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous lenuméro 02341082, agrée par la « Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » etla « Financial Conduct Authority », 25 The North Colonnade, Londres E14 5HS, Royaume-Uni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biais desa succursale située 45 rue Denis Papin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société paractions simplifiée au capital de 392 250 euros, dont le siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité de courtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ;et Présenté en point de vente Darty agissant au titre de la dérogation prévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle del’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr). (4) Cloud illimité si Pack Sérénité souscrit avant 16/09/21.
+(1) L’offre « Assurance Mobile » est un contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-0001 pour l’Assurance Mobile en paiement mensuel et N°AG10003- 0002 pour l’Assurance Mobile prépayée: Souscrit par ETABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capital de 23 470 382 Euros, dont lesiège social est situé 129 avenue Gallieni, 93140 Bondy, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nom et au nom et pour le compte de sesfiliales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siège social est situé Assurant House,6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous le numéro 02341082, agrée par la« Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » et la « Financial Conduct Authority »,25 The North Colonnade, Londres E14 5HS, RoyaumeUni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biais de sa succursale située 45 rue DenisPapin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société par actions simplifiée au capital de392250 euros, dont le siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881 RCS Aix-en-Provence, et inscriteà l’ORIAS en qualité de courtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ; et Présenté en point de vente Dartyagissant au titre de la dérogation prévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rueTaitbout, 75436 Paris Cedex 09 (www.acpr.fr). (2) Service d’assistance téléphonique pour tous les produits multimédia d’une marque et d’une famille commercialisée par Dartyqu’ils soient ou non sous garantie. Valable uniquement pour les assurances en « Formule Premium » en abonnement mensuel. (3) L’offre « Assurance Multimédia Foyer » est uncontrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-003: Souscrit par ÉTABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capitalde 23 470 382 Euros, dont le siège social est situé à 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, dont le numéro d’identification unique est le 542 086616 RCS Bobigny en son nom et au nom et pour le compte de ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766livres sterling dont le siège social est situé Assurant House, 6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterreet du Pays de Galles sous le numéro 02341082, agrée par la « Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « PrudentialRegulation Authority » et la « Financial Conduct Authority », 25 The North Colonnade, Londres E14 5HS, Royaume-Uni (sous le numéro 202735), exerçant l’activité d’assuranceen France par le biais de sa succursale située 45 rue Denis Papin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire deAssurant France, société par actions simplifiée au capital de 392 250 euros, dont le siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro uniqued’identification est le 493 481 881 RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité de courtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurantpour le compte de l’Assureur ; et Présenté en point de vente Darty agissant au titre de la dérogation prévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Dartysont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr). (4) Cloud illimité si Pack Sérénité souscrit avant 16/09/21.
 
 
 
@@ -474,9 +458,9 @@ Montage et mise en service 59 €
 
 
 
-\- 2 juin 2022 - 13
+\- 12 juillet 2022 - 13
 
-\- 2 juin 2022 - 14
+\- 12 juillet 2022 - 14
 
 
 
@@ -578,7 +562,7 @@ Clause de cession du risque : Darty se réserve le droit de céder à un tiers l
 
 TABLEAUX DES GARANTIES
 
-\- 2 juin 2022 - 15
+\- 12 juillet 2022 - 15
 
 
 
@@ -618,9 +602,7 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi:
-
- Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
+Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
@@ -730,7 +712,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 2 juin 2022 - 16
+\- 12 juillet 2022 - 16
 
 
 
@@ -772,7 +754,7 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 2 juin 2022 - 17
+\- 12 juillet 2022 - 17
 
 
 
@@ -830,7 +812,7 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 2 juin 2022 - 18
+\- 12 juillet 2022 - 18
 
 
 
@@ -898,7 +880,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 2 juin 2022 - 19
+\- 12 juillet 2022 - 19
 
 
 
@@ -952,7 +934,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 2 juin 2022 - 20
+\- 12 juillet 2022 - 20
 
 
 
@@ -1052,7 +1034,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 2 juin 2022 - 21
+\- 12 juillet 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1116,7 +1098,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 2 juin 2022 - 22
+\- 12 juillet 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1152,9 +1134,9 @@ Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEME
 
 
 
-\- 2 juin 2022 - 23
+\- 12 juillet 2022 - 23
 
-activité (ex. : achat, échéance de vos contrats), puis archivées avec unaccès restreint pour une durée supplémentaire de 5 ans pour desraisons strictement limitées et autorisées par la loi (paiement, garantie,litiges ...). Vous êtes informés que vos données peuvent être transmisespour les besoins des finalités mentionnées ci-dessus à des sociétéssituées en dehors de l’Union Européenne notamment pour les activitésde service client (centres d’appel situés au Maroc et à Madagascar),prestations informatiques, exploitation des données en lien avec lesréseaux sociaux. Toute procédure requise pour sécuriser les donnéessera mise en œuvre avant de procéder à de tels transferts. Plusd’informations sur la protection des données personnelles surd a r t y.c om : ht t p s://w w w.d a r t y.c om/re s 3/p d f/c n i l/don ne e s _personnelles_darty.pdf
+activité (ex. : achat, échéance de vos contrats), puis archivées avec unaccès restreint pour une durée supplémentaire de 5 ans pour desraisons strictement limitées et autorisées par la loi (paiement, garantie,litiges ...). Vous êtes informés que vos données peuvent être transmisespour les besoins des finalités mentionnées ci-dessus à des sociétéssituées en dehors de l’Union Européenne notamment pour les activitésde service client (centres d’appel situés au Maroc et à Madagascar),prestations informatiques, exploitation des données en lien avec lesréseaux sociaux. Toute procédure requise pour sécuriser les donnéessera mise en œuvre avant de procéder à de tels transferts. Plusd’informations sur la protection des données personnelles surdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
 
 
 
@@ -1170,4 +1152,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 2 juin 2022 - 24
+\- 12 juillet 2022 - 24
