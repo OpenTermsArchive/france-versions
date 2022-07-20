@@ -218,7 +218,7 @@ Si le prix du nouveau produit est supérieur au prix du produit retourné, le cl
 
 Le client sera remboursé sur le moyen de paiement utilisé lors de la commande, sur la base du prix du produit facturé figurant sur la récapitulatif de la commande et des frais de préparation et de livraison effectivement payé par le client.  
 Aucun remboursement ne s’effectuera en magasin sauf dans l’hypothèse d’un échange pour un produit dont le prix est inférieur au produit retourné.  
-Le client sera remboursé dans un délai de 7 jours à compter de la réception du colis par BZB  
+Le client sera remboursé dans un délai de 20 jours à compter de la réception du colis par BZB  
 Les commandes cadeau seront remboursées dans les mêmes conditions sur le compte du client titulaire de la carte bancaire ayant servi à la commande. Les frais d’option cadeau seront également remboursés au client.  
 Les commandes qui ont fait l’objet d’un paiement par carte cadeau BZB ou illicado seront remboursées par l’envoi d’un nouvelle carte cadeau BZB d’un montant équivalent. Si le client a complété son achat par un paiement en carte bancaire, celle-ci sera re créditée à hauteur du montant payé par carte bancaire.  
 Les frais de préparation et de livraison, et le cas échéant, les frais d’option cadeau resteront à la charge du client si le retour ne porte que sur une partie de la commande.
@@ -309,8 +309,7 @@ proposées à la vente sur le site www.b-z-b.com, le client est invité à s’a
 \- Par courrier :  
 BZB - Service Clients  
 152 avenue Alfred Motte  
-59100 Roubaix Cedex - Par téléphone : 03 59 55 39 36  
-\- Par courrier électronique : [service-clients@BZB.fr](mailto:service-clients@bzb.fr)
+59100 Roubaix Cedex - Par courrier électronique : [service-clients@BZB.fr](mailto:service-clients@bzb.fr)
 
 ([haut de page](#haut))
 
