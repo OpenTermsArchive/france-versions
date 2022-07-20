@@ -95,9 +95,22 @@ L'expédition des colis ne pourra s'effectuer qu'en France métropolitaine, Cors
   
 Les délais annoncés sont calculés en jours ouvrés (sous réserve de validation de votre commande). La date de livraison est calculée en tenant compte des délais de préparation auxquels est ajouté le délai de livraison du transporteur (La Poste).  
   
-Les frais de livraison sont offerts pour une livraison à domicile en mode standard. Les frais de livraison dans un magasin Devred sont offerts.  
+**La livraison offerte en magasin**  
   
-Les délais de livraison sont de 2 à 4 jours ouvrés. Les produits sont livrés à l'adresse de livraison que vous nous avez indiquée au cours du processus de commande.  
+Votre commande est livrée gratuitement dans le magasin de votre choix en France métropolitaine dans un délai de 2 à 4 jours ouvrés.  
+A noter : si le magasin est provisoirement dans l’incapacité de proposer ce service, il ne sera pas dans la liste des magasins proposés.  
+  
+**La livraison à domicile**  
+  
+Votre commande est livrée dans un délai de 2 à 4 jours ouvrés à l’adresse que vous aurez indiqué à l’étape de livraison au cours du processus de commande.  
+La livraison est offerte à domicile dès 30€ d’achat sur le site devred.com.  
+Pour les commandes inférieures à 30€ le montant des frais de livraison à domicile (colissimo) sera de 3,95€.  
+  
+**La livraison en point relais**  
+  
+Votre commande est livrée dans un délai de 2 à 4 jours ouvrés dans le point relais que vous aurez indiqué à l’étape de livraison au cours du processus de commande.  
+La livraison est offerte en point relais dès 30€ d’achat sur le site devred.com.  
+Pour les commandes inférieures à 30€ le montant des frais de livraison en point relais sera de 2,95€.  
   
 Au moment de la livraison, Devred 1902 invite le client à procéder à tout examen nécessaire pour déceler les éventuels manquants, défauts ou autres vices apparents ou non-conformité des produits livrés à sa commande. Le client doit notamment vérifier l’état des emballages, le nombre de colis et les produits dans leurs quantités, leurs références et leurs caractéristiques. Il est vivement conseillé au client de notifier au transporteur toute réserve sur l’emballage et, le cas échéant, l’état des produits (exemple : colis ouvert et/ou endommagé).  
   
