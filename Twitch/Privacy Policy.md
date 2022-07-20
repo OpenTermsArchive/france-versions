@@ -1,4 +1,4 @@
-Dernière modification : 29/04/2020
+Last modified on 07/19/2022
 
 **Notice sur la Protection de vos informations personnelles**
 -------------------------------------------------------------
@@ -141,11 +141,9 @@ Nous ne modifierons pas matériellement nos politiques et pratiques pour les ren
 
 #### Informations de contact Twitch
 
-Veuillez contacter Twitch pour toute question ou tout commentaire au sujet de la présente Notice sur la Protection de vos informations personnelles à l'adresse 350 Bush Street, 2nd Floor, San Francisco, CA 94104, ou par e-mail à l'adresse privacy@twitch.tv. Nous répondrons à votre demande dans les 30 jours suivant sa réception. Si vous êtes un résident californien, vous pouvez recevoir ces mêmes informations par courriel en envoyant une lettre à l'adresse susmentionnée avec votre adresse email et une demande relative à ces informations.
+Please contact Twitch with any questions or comments about this Privacy Notice at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, [here](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or by email to privacy@twitch.tv. Our Data Protection Officer (DPO) can also be contacted at privacy@twitch.tv. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have information emailed to you by sending a letter to the foregoing address with your email address and your request for information.
 
-Aux fins du Règlement Général sur la Protection des Données, Twitch Sweden AB a été désignée par Twitch Interactive, Inc. comme représentant dans l'UE pour agir en son nom en ce qui concerne ses obligations en vertu de l'article 27 du Règlement Général sur la Protection des Données. Veuillez contacter Twitch Sweden AB si vous avez des questions (y compris des questions concernant vos droits) ou des commentaires sur la présente Notice sur la Protection de vos informations personnelles à l'adresse suivante : Twitch Sweden AB, Polstjärnegatan 14, 417 56 Göteborg, Suède, ou par e-mail à l'adresse : privacy@twitch.tv.
-
-Twitch UK a été désignée par Twitch Interactive, Inc. comme représentant des résidents du Royaume-Uni en vertu du RGPD britannique. Veuillez contacter Twitch UK si vous avez des questions (y compris des questions concernant vos droits) ou des commentaires sur la présente Notice sur la Protection de vos informations personnelles à l'adresse suivante : Twitch UK Limited, 1 New Oxford Street, WC1A 1BA, Royaume-Uni, ou par e-mail à l'adresse : privacy@twitch.tv.
+Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK General Data Protection Regulation (UK GDPR) for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited,1 New Oxford Street WC1A 1BA, UK, [here](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or by email to privacy@twitch.tv.
 
 #### Informations supplémentaires pour certaines juridictions
 
