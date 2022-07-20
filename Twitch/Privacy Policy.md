@@ -1,4 +1,4 @@
-Last modified on 07/19/2022
+Dernière modification : 19/07/2022
 
 **Notice sur la Protection de vos informations personnelles**
 -------------------------------------------------------------
