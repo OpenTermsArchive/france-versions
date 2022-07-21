@@ -29,7 +29,7 @@ Nous recueillons des données personnelles pour les finalités suivantes :
 • Établissement de profils pour lesquels nous collectons l’adresse IP et des informations de connexion ;  
 • Proposition d’un programme parrainage entre vous et vos amis ou les membres de votre famille, pour lequel nous et notre prestataire recueillons vos données telles que nom, prénom, adresse électronique ;  
 • Organisation de jeux concours ou d’offres promotionnelles, pour lesquels nous collectons des informations comme votre nom, adresse électronique ou numéro de téléphone ;  
-• Réponse aux demandes sur nos produits ou notre marque effectuées à l’adresse suivante : [eboutique@comptoirdescotonniers.com](mailto:eboutique@comptoirdescotonniers.com) ou [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com);  
+• Réponse aux demandes sur nos produits ou notre marque effectuées à l’adresse suivante : [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net);  
 • Gestion des avis sur des produits pour laquelle nous avons besoin au minimum de votre adresse électronique ;  
 • Analyse de l’ergonomie de notre Site par le biais de cookies ou technologies similaires nous permettant de collecter des informations sur votre navigation en ligne, par exemple votre type de navigateur, le code pays correspondant à votre localisation, les pages de notre site web consultées lors de votre visite, les publicités sur lesquelles vous avez cliqué ou encore les éventuels produits recherchés sur notre Site. Ce sont toutefois des données statistiques sur les actions et modes de navigation de nos utilisateurs, qui ne permettent pas de vous identifier.
 
@@ -153,7 +153,7 @@ En fonction des résultats du contrôle effectué, nous pouvons décider de pren
 
 • le droit de vous opposer au traitement des données vous concernant lorsque le traitement est basé sur l’intérêt légitime pour des raisons tenant à votre situation particulière, mais aussi le droit de vous opposer au traitement à tout moment lorsque les données sont traitées à des fins de prospection (y compris au profilage s’il est lié à une prospection);  
 • le droit à la portabilité des données c’est-à-dire le droit de recevoir les données à caractère personnel vous concernant dans un format structuré, couramment utilisé et lisible par machine, et de transmettre ces données à un autre responsable du traitement sans que nous puissions y faire obstacle, lorsque le traitement est fondé sur votre consentement ou sur un contrat et qu’il est effectué à l’aide de procédés automatisés. Vous avez aussi le droit d'obtenir que les données à caractère personnel soient directement transmises à un autre responsable du traitement, lorsque cela est techniquement possible ;  
-• le droit de refuser toute prospection commerciale de notre part en vous désinscrivant des messages électroniques que nous vous envoyons en cliquant sur le lien de désinscription présent en bas de chaque message ou en nous contactant directement à [eboutique@comptoirdescotonniers.com](mailto:eboutique@comptoirdescotonniers.com) ou [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com) ou :  
+• le droit de refuser toute prospection commerciale de notre part en vous désinscrivant des messages électroniques que nous vous envoyons en cliquant sur le lien de désinscription présent en bas de chaque message ou en nous contactant directement à [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net) ou :  
   
 COMPTOIR DES COTONNIERS,  
 Service clients e-boutique  
@@ -189,7 +189,7 @@ Modification de notre Politique de confidentialité
 Notre activité évoluant constamment, notre Politique de confidentialité est susceptible d'être modifiée en conséquence. Nous vous invitons à vérifier régulièrement si d'éventuels changements ont été effectués. Toute modification de la présente Politique sera publiée sur le Site et la date figurant au bas de la Politique sera mise à jour afin d'indiquer la date de la dernière révision.  
   
 **Contact**  
-Toutes les questions, demandes de renseignements relatives à cette Politique ou demandes pour exercer l’un de vos droits ci-dessus mentionné peuvent être adressées par email à : [eboutique@comptoirdescotonniers.com](mailto:eboutique@comptoirdescotonniers.com) ou [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com)  
+Toutes les questions, demandes de renseignements relatives à cette Politique ou demandes pour exercer l’un de vos droits ci-dessus mentionné peuvent être adressées par email à : [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net)  
   
 Ou par courrier à l’adresse suivante :
 
