@@ -320,7 +320,7 @@ Si vous nous retirez votre consentement fourni au préalable pour un type de tra
 
 #### Avec qui partageons-nous vos données personnelles ?
 
-Il est possible que nous partagions vos données personnelles avec les compagnies de notre groupe d'entreprise ou « Groupe IAG », ce qui inclut International Consolidated Airlines Group S.A. (IAG), British Airways, Iberia Express, Vueling, Aer Lingus, Flylevel, S.L, British Airways Holidays, Avios Group Ltd, BA CityFlyer, IAG Connect et IAG GBS. Pour en savoir plus sur notre groupe, rendez-vous sur le site web de notre société mère IAG, sur www.iairgroup.com.
+Il est possible que nous partagions vos données personnelles avec les compagnies de notre groupe d'entreprise ou « Groupe IAG », ce qui inclut International Consolidated Airlines Group S.A. (IAG), British Airways, Iberia Express, Vueling, Aer Lingus, Flylevel, S.L, British Airways Holidays, Avios Group Ltd, BA CityFlyer, IAG Connect et IAG GBS. Pour en savoir plus sur notre groupe, rendez-vous sur le site web de notre société mère IAG, sur [www.iairgroup.com](https://www.iairgroup.com/ "Ir a: IAG[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").
 
 Nous pourrons partager des informations avec ces entreprises pour qu'elles nous aident dans la prestation de nos services et afin de mieux vous connaître. Par exemple, si vous avez voyagé avec l'une des compagnies du groupe IAG ou si vous êtes membre d'un programme de fidélité de ces dernières, nous pourrons utiliser ces informations pour mieux connaître le type de services de voyage susceptible de vous intéresser.
 
@@ -398,7 +398,7 @@ Pour le reste des pays, vous pouvez envoyer un e-mail à notre Bureau de protect
 
 #### Auprès de quelle Autorité de protection des données pouvez-vous présenter vos réclamations ?
 
-Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence espagnole de protection des données, en particulier si vous n'avez pas obtenu satisfaction dans l'exercice de vos droits, sur le site Web www.agpd.es.
+Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence espagnole de protection des données, en particulier si vous n'avez pas obtenu satisfaction dans l'exercice de vos droits, sur le site Web [www.aepd.es](https://www.aepd.es/es "Ir a: aepd[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").
 
 #### Versions précédentes
 
