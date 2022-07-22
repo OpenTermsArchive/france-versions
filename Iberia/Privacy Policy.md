@@ -1,8 +1,8 @@
 Politique de protection des données personnelles
 ================================================
 
-En vigueur depuis le 10 mai 2022
---------------------------------
+En vigueur depuis le 22 Juillet 2022
+------------------------------------
 
 Politique de protection des données personnelles pour clients et passagers
 
@@ -267,19 +267,20 @@ Dans certains cas, cette finalité peut également être fondée sur le consente
 *   Sur la base de l'application d'une obligation légale, pour gérer correctement des situations d'urgence, des catastrophes ou des cas de force majeure, nous pourrions avoir besoin de communiquer vos données à différentes sortes de personnes, d'entreprises ou d'organismes dont la collaboration s'avère indispensable pour Iberia dans de tels cas.
     
 
-#### Dans quels cas effectuons-nous un traitement automatisé de vos données ?
+#### Dans quels cas effectuons-nous un traitement automatisé de vos données ?
 
 Dans certaines situations, nous procédons à un traitement entièrement ou partiellement automatisé de vos données. Par exemple :
 
 *   Lorsque vous utilisez l'un de nos robots ou assistants virtuels en ligne, qui font appel à l'intelligence artificielle. L'utilisation de ces interfaces est volontaire, n'étant qu'une simple alternative au contact téléphonique avec nos agents du service clients.
 *   Lorsque vous utilisez notre application en ligne Aircheck pour vérifier à l'avance si vos documents de voyage « COVID19 » sont conformes aux exigences requises par votre pays de destination. Dans ce cas également, l'utilisation de cette application est volontaire, dans la mesure où vous pouvez toujours faire vérifier vos documents par nos agents de comptoir en porte d'embarquement. De plus, si vous utilisez Aircheck et n'obtenez pas la validation des documents présentés, vous pourrez les faire vérifier à nouveau en ligne. Cette seconde vérification est effectuée manuellement par l'un de nos agents.
 *   Lorsque vous effectuez un achat ou une réservation sur notre site Internet ou sur l'application, diverses actions automatisées sont exécutées, de l'annotation de votre réservation dans nos systèmes et l'envoi de communications électroniques pour confirmer des faits, jusqu'à la vérification de la légalité des transactions effectuées avec le moyen de paiement utilisé pour votre achat.
+*   Lorsque vous effectuez un achat ou que vous réservez des billets sur notre site internet ou notre application, différents traitements ou décisions automatisées peuvent être effectués, sur la base des comportements et/ou des recherches précédentes que vous avez effectuées, ce qui peut conduire à la personnalisation des prix qui vous sont présentés.
 *   En cas de modification de votre réservation, résultant d'une perturbation de votre vol ou d'un changement d'horaire de nos vols, et si nous vous envoyons une communication vous informant de ces modifications et des alternatives que nous mettons à votre disposition pour nous conformer aux conditions de notre contrat de transport et/ou à nos obligations légales envers vous découlant dudit contrat.
 *   Lorsque nous vous envoyons des informations personnalisées concernant des produits et services qui, selon nous, pourraient vous intéresser particulièrement, ou lorsque nous suggérons des modifications à votre réservation qui, à notre avis, pourraient mieux répondre à vos besoins ou vous intéresser particulièrement, soit parce que vous nous avez donné votre accord préalable pour le faire, soit parce que nous vous avons informé de notre intention et que vous n'avez pas manifesté d'opposition à cet égard.
 *   Pour résoudre certains types de réclamations soumises via notre site Internet (par exemple, les demandes d'indemnisation pour retard ou annulation de vols), à moins que vous ne nous ayez informé de votre opposition à un tel traitement automatisé.
 *   Lorsque vous utilisez les systèmes d'identification et d'embarquement biométriques existant dans certains des aéroports où nous opérons, à condition que vous ayez consenti à l'utilisation de vos données lors de votre inscription à ce type de service via nos applications ou des applications de tiers (tels que, par exemple, celles des gestionnaires d'aéroport ou de toute autre compagnie aérienne associée au même programme).
 
-Dans les cas où l'un de nos traitements automatisés est basé sur notre intérêt commercial légitime ou sur votre consentement préalable, vous pouvez toujours vous opposer au traitement ou révoquer votre consentement ultérieurement, le cas échéant, sans que ladite opposition ou révocation puisse avoir un effet rétroactif.
+Lorsque nos traitements ou nos décisions automatisés sont fondés soit sur notre intérêt commercial et corporatif légitime, soit sur votre consentement préalable, vous pouvez toujours vous opposer au traitement ou révoquer votre consentement à tout moment par la suite, selon le cas, sans que cette opposition ou cette révocation ait un effet rétroactif.
 
 IMPORTANT : si le traitement de vos données est soumis à des réglementations autres que celles de l'Espagne et/ou de l'Union européenne, la base légitime de certains des traitements énumérés ci-dessus peut être différente de celle qui y est indiquée dans chaque cas ; en particulier, lorsque la base de légitimation du traitement indiqué est notre intérêt commercial légitime en tant qu'entreprise. Dans ces cas, et à moins que le traitement en question ne puisse être compris comme étant couvert par la nécessité de respecter notre relation contractuelle, ou par toute obligation légale à laquelle nous étions soumis, lesdits traitements ne pourront s'appuyer que sur le consentement fourni de votre part pour chaque cas, et uniquement dans la mesure où vous nous les avez fournis, conformément aux exigences de validité établies par les réglementations applicables en matière de protection des données.
 
@@ -401,6 +402,8 @@ Pour le reste des pays, vous pouvez envoyer un e-mail à notre Bureau de protect
 Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence espagnole de protection des données, en particulier si vous n'avez pas obtenu satisfaction dans l'exercice de vos droits, sur le site Web [www.aepd.es](https://www.aepd.es/es "Ir a: aepd[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").
 
 #### Versions précédentes
+
+[Politique de confidentialité en vigueur du 10/05/2022 au 22/07/2022](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477634947648&origin=6477634947648&modalTitle=Versi%C3%B3n+del+10-05-2022&url=%23&d= "Versión del 10-05-2022")
 
 [Politique de confidentialité en vigueur du 05/07/2021 au 10/05/2022](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477627165208&origin=6477627165208&modalTitle=Politique+de+confidentialit%C3%A9+en+vigueur+du+05%2F07%2F2021+au+10%2F05%2F2022&url=%23&d= "Politique de confidentialité en vigueur du 05/07/2021 au 10/05/2022")
 
