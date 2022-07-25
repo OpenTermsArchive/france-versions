@@ -1,13 +1,23 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 14 avril 2022
-=====================================================================================================================================
+Mise à jour du 25 juillet 2022
+=======================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
 Pour passer commande, demander conseil ou toute question sur un produit ou une commande, vous pouvez nous contacter :  
 Par téléphone : 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
-Par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
+Par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)  
+  
+Conformément aux articles R. 541-167 et suivants du Code de l’Environnement, LA REDOUTE dispose des identifiants uniques, ci-après :  
+  
+
+| Eco-organisme | Filière | Identifiant unique |
+| --- | --- | --- |
+| REFASHION  <br>(Eco TLC) | Textile - linge de maison - chaussures | FR218618\_11UNYX |
+| Eco-emballages | Emballages (de livraison) | FR218618\_01GYJM |
+| Eco-folio | Catalogues papier | FR218618\_03BTAT |
+| Eco-mobilier | Meubles | FR001914\_1028QB |
 
 01 - Préambule
 --------------
@@ -94,16 +104,27 @@ Pour les besoins du présent article :
   
 **6.1.1. Pour les petits Produits disponibles  
 **  
-Les délais de services indiqués ci-après ne sont pas garantis pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.
-
-\- **« Livraison à domicile 24/48h »** (1 à 3 jours à compter de la validation de votre commande – coût de 9,95 €).
-
-\- **« Point Relais Colis ® »** (2 à 4 jours à compter de la validation de votre commande – livraison standard au coût de 3,95 €). Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée, ainsi que, le cas échéant, la carte ayant servi au paiement. A défaut, les Produits commandés ne pourront vous être remis.
-
-\- **« Colissimo »** pour les petits Produits dont la longueur est inférieure ou égale à 100cm (3 à 6 jours à compter de la validation de votre commande – coût de 4,95 € pour les petits Produits de Mode – coût de 6,95 € pour les autres petits Produits). La livraison est effectuée par La Poste.
-
-\- **« Relais Colis ® Home »** pour les petits Produits la longueur est entre 101cm et 130cm (5 à 15 jours à compter de la validation de votre commande – coût de 6,95 €). Vos colis sont livrés devant votre adresse de livraison (portail, pied de l’immeuble ou endroit le plus accessible) indiquée lors de votre commande, sur rendez-vous. Le transporteur Vous appellera la veille pour fixer un créneau de livraison de 2h.  
+Les délais de services indiqués ci-après ne sont pas garantis pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.  
   
+**Mode et linge de maison**
+
+| Livraison | Délai moyen | Tarif |
+| --- | --- | --- |
+| En point de retrait | En 1 à 3 jours ouvrés | **Gratuit dès 39€ d'achats**  <br>Sinon 4,95€ |
+| A domicile | En 2 à 3 jours ouvrés | 5,95 € |
+| En 24 à 48h ouvrés | 9,95 € |
+
+  
+**Décoration et petit électroménager**
+
+| Livraison | Délai moyen | Tarif |
+| --- | --- | --- |
+| En point de retrait | En 2 à 3 jours ouvrés | **Gratuit dès 39€ d'achats**  <br>Sinon 5,95€ |
+| A domicile | En 3 à 7 jours ouvrés | 6,95 € |
+| En 24 à 48h ouvrés | 9,95 € |
+
+  
+Pour le retrait de la commande de Produits en point de retrait, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis.  
 Les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande seront uniquement livrés à votre domicile (France continentale, Corse et Monaco uniquement), en 8 à 18 jours à partir de l'expédition.
 
   
@@ -112,38 +133,39 @@ Les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux g
 **\- « Livraison à domicile »**  
   
 
-Les livraisons à domicile sont effectuées quel que soit l'endroit, notamment à l'étage.
+|     |     |     |
+| --- | --- | --- |
+| Livraison | Délai moyen | Tarif |
+| A domicile, dans la pièce de votre choix | En 8 à 12 jours ouvrés | **De 22€ à 139€** |
 
-Toutefois, les livraisons au-dessus du troisième étage dépendent de l’accès par ascenseur. En effet, à défaut d’ascenseur ou si les dimensions de celui-ci sont inadaptées à l’acheminement des Produits, la livraison ne pourra être effectuée par le biais de la cage d’escalier (sous réserve des dimensions de celle-ci), que jusqu’au troisième étage. Au-delà, la livraison à l’étage par notre transporteur nécessitera l’établissement d’un devis.
+Le tarif de la livraison des Produits volumineux est indiqué directement sur les fiches produits.
 
-Ainsi, préalablement à votre commande, il vous appartient de vérifier que les Produits peuvent être acheminés à votre étage ou à l’intérieur de votre domicile, notamment en prenant en considération la taille et le volume des portes, de la cage d’escalier ou de l’ascenseur au regard des spécifications des Produits en termes de taille et de volume.
+Préalablement à votre commande, il vous appartient de vérifier que les Produits peuvent être acheminés à votre étage ou à l’intérieur de votre domicile, notamment en prenant en considération la taille et le volume des portes, de la cage d’escalier ou de l’ascenseur au regard des spécifications des Produits en termes de taille et de volume.
 
-En conséquence, s’il existe une ou plusieurs contraintes liées aux locaux ou aux moyens d’accès sur le lieu de livraison, et en particulier livraison sans ascenseur au-delà du troisième étage ou dimensions des portes palières non adaptées, Vous devez impérativement contacter le Service Client de LA REDOUTE pour l’en informer. LA REDOUTE établira alors un devis en tenant compte de ces contraintes. En cas d’acceptation du devis, les coûts sont à votre charge, et sont à régler au plus tard lors de la livraison. 
+En conséquence, s’il existe une ou plusieurs contraintes liées au lieu de livraison ou aux moyens d’accès sur le lieu de livraison, et en particulier pour une livraison sans ascenseur ou si les dimensions des portes palières sont non adaptées, Vous devez impérativement l’indiquer lors de la validation de la commande ainsi qu’au transporteur lors de la prise de rendez-vous de la livraison à domicile.
 
 L’impossibilité d’acheminer les Produits livrés à votre étage ou à l’intérieur de votre domicile, à défaut d'information sur la nécessité de recourir à des moyens spécifiques de livraison, ne saurait engager la responsabilité de LA REDOUTE. Le cas échéant, Vous aurez alors la possibilité :
 
-*   De demander au transporteur de reprendre le Produit en application de votre droit de rétractation ;
+*   • De demander au transporteur de reprendre le Produit en application de votre droit de rétractation ;
+*   • D’accepter la livraison, qui se fera uniquement devant votre domicile ou au pied de votre immeuble.
 
-*   D’accepter la livraison, qui se fera uniquement devant votre domicile ou au pied de votre immeuble.
+S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.
 
-S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.  
+**Livraison dans un point Relais Colis ® Max » (uniquement pour la France Métropolitaine)**  
   
-**\- « Livraison dans un point Relais Colis ® Max » (uniquement pour la France Métropolitaine)**  
-  
-Les Produits peuvent être mis à disposition gratuitement dans l’un des 1 000 points Relais Colis ® Max.
 
-Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée, ainsi que, le cas échéant, la carte ayant servi au paiement. A défaut, les Produits commandés ne pourront vous être remis. Vous devrez assurer vous-même le chargement des Produits dans votre véhicule, ainsi que leur transport.
+|     |     |     |
+| --- | --- | --- |
+| Livraison | Délai moyen | Tarif |
+| En point Relais Colis® Max | En 4 à 5 jours ouvrés | **Gratuit** |
+
+Les Produits peuvent être mis à disposition gratuitement dans l’un des 1 000 points Relais Colis ® Max.
+
+Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis. Vous devrez assurer vous-même le chargement des Produits dans votre véhicule, ainsi que leur transport.
 
 Le Produit ne sera disponible dans le point Relais Colis ® Max choisi que pendant quatorze (14) jours calendaires à partir de son arrivée.
 
-  
-\- **« Livraison sur Rendez-Vous à la Commande »**  
-  
-Cette livraison se fait uniquement à domicile. La date de livraison est choisie à la commande. Vous serez appelé la veille de la livraison pour fixer précisément une plage horaire de livraison de 2 heures.  
-Les frais de livraison varient en fonction du poids et de la taille du colis de Produits (la couleur de la camionnette vous indique le montant de ces frais de livraison standard).  
-  
-
-\- **Reprise gratuite de votre ancien Equipement Electrique ou Electronique ou de votre Elément d’ameublement** détaillée à l’article 9.
+\- **Reprise gratuite de votre ancien Equipement Electrique ou Electronique ou de votre Elément d’ameublement**détaillée à l’article 9.
 
   
 **6.2. Livraison dans les DOM TOM**  
@@ -164,7 +186,7 @@ Les Produits retournés doivent être intacts et complets et ne doivent pas avoi
   
 Attention, pour faciliter la bonne reprise de votre matelas/sommier, ce dernier devra être muni, de sa housse de protection intérieure intacte, ni trouée, ni déchirée.  
   
-Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2022.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).  
+Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2022.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).  
   
 LA REDOUTE accusera réception de votre rétractation, par email.  
   
@@ -174,7 +196,7 @@ Vous devez ensuite retourner les Produits à LA REDOUTE, au plus tard dans les q
 *   en point Relais Colis ® avec le bordereau de réexpédition qui vous sera envoyé par email.
 
   
-Pour les Produits volumineux signalés par une camionnette, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 323 515 (Service gratuit + prix d’un appel local).
+Pour les Produits volumineux signalés par une camionnette, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 362 950 (coût d'un appel local).
 
 Pour les cartes cadeaux, Vous devez simplement envoyer par email à LA REDOUTE, dans le délai de quatorze (14) jours susvisés, le code à 19 chiffres associé à la carte cadeau (ce code figure soit sur la carte cadeau physique soit dans l’email contenant la carte dématérialisée), à l’adresse email suivante : [contact\_retractation@redoute.fr](mailto:contact_retractation@redoute.fr). A la réception du code de la carte cadeau, LA REDOUTE procèdera à la désactivation à distance de la carte.  
   
@@ -182,7 +204,7 @@ LA REDOUTE s'engage à vous rembourser la totalité des sommes versées à la r�
 
 Pour les cartes cadeaux, LA REDOUTE s'engage à vous rembourser dans les quatorze (14) jours suivant votre déclaration de rétractation.  
   
-LA REDOUTE vous remboursera les Produits retournés, sous réserve du respect des conditions ci-dessus mentionnées, ainsi que les frais de livraison standard « aller » de ces derniers si Vous retournez l'ensemble de votre commande. Les frais de livraison « aller » avec suppléments sont remboursés dans la limite des frais de livraison standard. Il est précisé que les frais de livraison « aller » feront l’objet d’un remboursement séparé.  
+LLA REDOUTE vous remboursera les Produits retournés, sous réserve du respect des conditions ci-dessus mentionnées, ainsi que les frais de livraison standard « aller » de ces derniers si Vous retournez l'ensemble de votre commande. Les frais de livraison « aller » avec suppléments sont remboursés dans la limite des frais de livraison standard. Il est précisé que les frais de livraison « aller » feront l’objet d’un remboursement séparé.  
   
 Si Vous ne retournez pas l'intégralité de votre commande et conservez un ou des Produits commandés, le montant des frais de livraison "aller" ne sera pas remboursé par LA REDOUTE.  
   
