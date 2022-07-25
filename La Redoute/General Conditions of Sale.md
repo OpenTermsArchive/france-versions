@@ -244,48 +244,245 @@ Pour les Produits signalés non conformes dans les trois (3) jours de la livrais
 
 **8.1. Garanties Légales**
 
-Tous les Produits en vente sur le Site Internet bénéficient de la garantie légale de conformité (articles L217-1 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil), vous permettant de renvoyer les Produits livrés défectueux ou non conformes.
+8.1.1 Tous les Produits en vente sur le Site Internet bénéficient de la garantie légale de conformité (articles L217-1 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil), vous permettant de renvoyer les Produits livrés défectueux ou non conformes.
 
 Vous êtes informé que la société LA REDOUTE, dont le siège social est 110, rue de Blanchemaille, 59100 Roubaix est le garant de la conformité des Produits au contrat dans le cadre de ces deux garanties légales.
 
-Vous disposez d’un délai de deux ans à compter de la délivrance du Produit pour agir en application de la garantie légale de conformité.
+« Le consommateur dispose d’un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d’apparition d’un défaut de conformité. Durant ce délai, le consommateur n’est tenu d’établir que l’existence du défaut de conformité et non la date d’apparition de celui-ci.
 
-Dans ce cas, vous pourrez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation.
+  
 
-A ce titre, il est précisé qu’à compter du 1er janvier 2022, en vertu de l’article L. 217-9 du Code de la consommation, tout Produit réparé dans le cadre de la garantie légale de conformité bénéficiera d'une extension de ladite garantie pour une durée de six mois. Par ailleurs, dès lors que Vous ferez le choix de la réparation mais que celle-ci ne sera pas mise en œuvre par LA REDOUTE, Vous pourrez demander le remplacement du bien, qui s'accompagnera, dans ce cas, d'un renouvellement de la garantie légale de conformité. Cette disposition s'applique soit (i) lorsque la réparation demandée ne peut être mise en œuvre dans un délai d'un mois suivant votre réclamation, soit (ii) avant ce délai, lorsque la non-réparation résulte d'une décision prise par LA REDOUTE.
+« Lorsque le contrat de vente du bien prévoit la fourniture d’un contenu numérique ou d’un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, le consommateur n’est tenu d’établir que l’existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d’apparition de celui-ci. La garantie légale de conformité emporte obligation pour le professionnel, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien.
 
-Pour les contrats conclus à compter du 18 mars 2016, Vous êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du Produit durant les vingt-quatre (24) mois suivant la délivrance du Produit. Pour les contrats conclus antérieurement, le défaut est présumé pendant six (6) mois.
+  
 
-Il est rappelé que la garantie légale de conformité s’applique indépendamment de l’éventuelle garantie commerciale qui pourrait vous être consentie par le fabricant ou LA REDOUTE.
+« La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
-Par ailleurs, Vous pouvez décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l’article 1641 du Code civil.  
-Dans cette hypothèse, Vous pourrez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil.
+  
 
-_\- Article L217-4 du Code de la consommation : Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité._
+« Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d’une extension de six mois de la garantie initiale.
 
-_\- Article L217-5 du Code de la consommation : Le bien est conforme au contrat :_  
-_1\. S’il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :  
-\- s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;  
-\- s’il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;_  
-_2\. Ou s’il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté._
+  
 
-_\- Article L217-12 du Code de la consommation : L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien._
+« Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien.
 
-_\- Article L217-16 du Code de la consommation : Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention._
+« Le consommateur peut obtenir une réduction du prix d’achat en conservant le bien ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :
 
-_\- Article 1641 du Code civil : Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._
+«1° Le professionnel refuse de réparer ou de remplacer le bien ;
 
-_\- Article 1648 al 1er du Code civil : L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._
+«2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;
 
-**8.2. Garanties commerciales**
+«3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou d’enlèvement du bien non conforme, ou s’il supporte les frais d’installation du bien réparé ou de remplacement ;
 
-8.2.1 Certains Produits bénéficient par ailleurs d'une garantie commerciale gratuite accordée par LA REDOUTE dite « Garantie LA REDOUTE », en sus de la garantie légale, qui fera l’objet d'un contrat écrit qui vous sera remis. Ce contrat précisera le contenu, les modalités de mise en œuvre, la durée et l’étendue territoriale de la garantie commerciale accordée. Pour connaître les modalités des Garanties LA REDOUTE, vous êtes invité à vous reporter à l’onglet [« Garanties LA REDOUTE »](https://www.laredoute.fr/garanties-commerciales.aspx) du Site Internet.  
+«4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse.
+
+« Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu’il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n’est alors pas tenu de demander la réparation ou le remplacement du bien au préalable.
+
+« Le consommateur n’a pas droit à la résolution de la vente si le défaut de conformité est mineur.
+
+  
+
+« Toute période d’immobilisation du bien en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu’à la délivrance du bien remis en état.  
+« Les droits mentionnés ci-dessus résultent de l’application des articles L. 217-1 à L. 217-32 du code de la consommation.
+
+  
+
+« Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d’un montant maximal de 300 000 euros, qui peut être porté jusqu’à 10 % du chiffre d’affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+  
+
+« Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien. »
+
+  
+
+8.1.2 Mise en œuvre des garanties légales
+
+  
+
+Afin de mettre en œuvre ces garanties légales, Vous pouvez au choix :
+
+  
+
+\- Vous connecter sur votre espace client et compléter le formulaire à disposition dans la rubrique « Déclarer un SAV »,
+
+  
+
+\- contacter le Service Client par téléphone 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)
+
+  
+
+\- contacter le Service Client par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
+
+  
+
+\- Messagerie In app ou Business Chat
+
+  
+
+LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. Vous êtes invité à vous reporter à l'onglet « Aide en ligne » du Site Internet, puis à la rubrique "[SAV & Garanties](https://aide.laredoute.fr/categories/sav-garanties)" dans les thématiques proposées pour obtenir toutes les informations relatives à ce point.
+
+  
+
+8.1.3 Extraits du code de la consommation et du code civil français :
+
+  
+
+**Garantie légale de conformité**
+
+_**\-Article L. 217-3 du code de la consommation** : Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5._
+
+  
+
+_Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans à compter de celle-ci._
+
+  
+
+_Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :_
+
+  
+
+_1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;_
+
+  
+
+_2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat._
+
+  
+
+_Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article L. 217-19._
+
+  
+
+_Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur._
+
+  
+
+_Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité._
+
+  
+
+_**\- Article L217-4 du Code de la consommation** : Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants :_
+
+_1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévue au contrat ;_
+
+_2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;_
+
+_3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;_
+
+_4° Il est mis à jour conformément au contrat._
+
+  
+
+_**\- Article L217-5 du Code de la consommation** : I.- En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :_
+
+_1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;_
+
+_2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;_
+
+_3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement;_
+
+_4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;_
+
+_5° Le cas échéant, il est fourni avec les mises à jour que le consommateur peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;_
+
+_6° Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des biens de même type, eu égard à la nature du bien ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage._
+
+  
+
+_II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques mentionnées à l'alinéa qui précède s'il démontre :_
+
+_1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;_
+
+_2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou_
+
+_3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat._
+
+_III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat._
+
+  
+
+_**\-Article L217-7 du Code de la consommation** : Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à compter de la délivrance du bien, y compris du bien comportant des éléments numériques, sont, sauf preuve contraire, présumés exister au moment de la délivrance, à moins que cette présomption ne soit incompatible avec la nature du bien ou du défaut invoqué._
+
+  
+
+_Pour les biens d'occasion, ce délai est fixé à douze mois._
+
+  
+
+_Lorsque le contrat de vente d'un bien comportant des éléments numériques prévoit la fourniture continue d'un contenu numérique ou d'un service numérique, sont présumés exister au moment de la délivrance du bien les défauts de conformité qui apparaissent :_
+
+  
+
+_1° Durant un délai de deux ans à compter de la délivrance du bien, lorsque le contrat prévoit cette fourniture pendant une durée inférieure ou égale à deux ans ou lorsque le contrat ne détermine pas la durée de fourniture ;_
+
+  
+
+_2° Durant la période durant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat, lorsque celui-ci prévoit cette fourniture pendant une durée supérieure à deux ans._
+
+  
+
+_**\-Article L 217-12 du Code de la consommation** : Le vendeur peut ne pas procéder selon le choix opéré par le consommateur si la mise en conformité sollicitée est impossible ou entraîne des coûts disproportionnés au regard notamment :_
+
+_1° De la valeur qu'aurait le bien en l'absence de défaut de conformité ;_
+
+_2° De l'importance du défaut de conformité ; et_
+
+_3° De la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le consommateur._
+
+_Le vendeur peut refuser la mise en conformité du bien si celle-ci est impossible ou entraîne des coûts disproportionnés notamment au regard des 1° et 2°._
+
+_Lorsque ces conditions ne sont pas respectées, le consommateur peut, après mise en demeure, poursuivre l'exécution forcée en nature de la solution initialement sollicitée, conformément aux articles 1221 et suivants du code civil._
+
+_Tout refus par le vendeur de procéder selon le choix du consommateur ou de mettre le bien en conformité, est motivé par écrit ou sur support durable._
+
+  
+
+_**\-Article L217-13 du Code de la consommation** : Tout bien réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de cette garantie de six mois._
+
+  
+
+_Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur._
+
+  
+
+_**\- Article L217-28 du Code de la consommation :**_
+
+_Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.  
+Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
+Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable_
+
+  
+
+**Garantie des vices cachés**
+
+  
+
+_**\- Article 1641 du Code civil :** Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._
+
+  
+
+_**\- Article 1648 al 1er du Code civil :** L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._
+
+  
+
+**8.2. Garanties commerciales8.2.1 Certains Produits peuvent bénéficier par ailleurs d'une garantie commerciale gratuite accordée par LA REDOUTE, dite « contrat de garantie commerciale LA REDOUTE », qui s’applique en plus des garanties légales. Dans ce cas, la garantie commerciale fera l’objet d'un contrat écrit qui vous sera remis. Ce contrat précisera le contenu, les modalités de mise en œuvre, la durée et l’étendue territoriale de la garantie commerciale accordée. Pour connaître les modalités des Garanties LA REDOUTE, vous êtes invité à vous reporter à l’onglet [Garanties LA REDOUTE](https://www.laredoute.fr/garanties-commerciales.aspx) du Site Internet.  
   
 Il est rappelé que la garantie commerciale ne vous prive pas des dispositions relatives à la garantie des vices cachés ou la garantie légale de conformité, telles que rappelées à l’article 8.1 des présentes Conditions Générales.  
   
-8.2.2 Certains Produits peuvent également bénéficier d’une garantie commerciale dite « Garantie Fabricant » à laquelle LA REDOUTE n’est pas partie. LA REDOUTE ne saurait donc être tenue pour responsable en cas de refus du fabricant d’appliquer sa garantie.  
+8.2.2 Certains Produits peuvent également bénéficier d’une garantie commerciale dite « Garantie Fabricant » à laquelle LA REDOUTE n’est pas partie. LA REDOUTE ne saurait donc être tenue pour responsable en cas de refus du fabricant d’appliquer cette garantie.  
   
-L’étendue et la durée de cette garantie varie selon les fabricants. Vous pouvez consulter les termes exacts des garanties sur le site Internet du fabricant et dans la notice du Produit.
+L’étendue et la durée de cette garantie varie selon les fabricants. Vous pouvez consulter les termes exacts des garanties, ainsi que les modalités de mise en œuvre de cette garantie sur le site Internet du fabricant et dans la notice du Produit.  
+  
+8.2.3 Afin de mettre en œuvre ces garanties commerciales, Vous pouvez au choix :  
+  
+\- Vous connecter sur votre espace client et compléter le formulaire à disposition dans la rubrique « Déclarer un SAV »,  
+\- contacter le Service Client par téléphone 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
+\- contacter le Service Client par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)  
+\- Messagerie In app ou Business Chat**
+
+  
+
+LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. Vous êtes invité à vous reporter à l'onglet « Aide en ligne » du Site Internet, puis à la rubrique ["SAV & Garanties"](https://aide.laredoute.fr/categories/sav-garanties) dans les thématiques proposées pour obtenir toutes les informations relatives à ce point.
 
 [![](https://cdn.laredoute.com/marketing/StudioFR/Structure/pages-services/CGV/btn-backTopPage.gif "Retour en haut de page")](#top)
 -----------------------------------------------------------------------------------------------------------------------------------
@@ -353,11 +550,7 @@ Ainsi LA REDOUTE s'engage à décrire avec la plus grande exactitude les Produit
 13 - Informations nominatives
 -----------------------------
 
-Lors de votre commande, les données nominatives collectées feront l'objet d'un traitement informatique. Vous êtes invité à vous reporter à l'onglet ["Données Personnelles"](https://www.laredoute.fr/espace-mentions_legales.aspx) du Site Internet pour obtenir toutes les informations relatives à ce point.
-
-14 - Loi applicable et compétence juridictionnelle
---------------------------------------------------
-
-Les Conditions Générales sont soumises à la loi française. Le tribunal compétent en cas de litige sera celui du lieu de domicile du défendeur ou, au choix du demandeur, du lieu de livraison effective du Produit.
-
-Le Site Internet est conforme à la législation française, et en aucun cas, LA REDOUTE ne donne de garantie de conformité à la législation locale qui vous serait applicable, dès lors que Vous accédez au Site Internet à partir d'autres pays.
+Lors de votre navigation sur le Site, des données à caractère personnel vous concernant sont collectées par La Redoute conformément au Règlement 2016/679 du 27 avril 2016. Pour plus d’information sur les traitements de données à caractère personnel mis œuvre, Vous êtes invités à consulter la rubrique «[Données Personnelles](https://www.laredoute.fr/espace-mentions_legales.aspx#footerlink=Donneespersonnelles)» du site  
+La réalisation des traitements de données par LA REDOUTE implique la mise en œuvre de transferts de données en dehors de l’Union Européenne vers des pays tiers. La liste des transferts de données et les mécanismes sur lesquels reposent ces transferts sont précisés dans la rubrique « Données Personnelles » du Site.  
+Si le mécanisme de transfert utilisé par LA REDOUTE devaient être remis en cause par un tiers, ces transferts de données vers des pays tiers restent nécessaires à l’exécution des présentes Conditions Générales conclues entre Vous et LA REDOUTE, conformément à l’article 49 b) du Règlement 2016/679 du 27 avril 2016 qui dispose qu’un transfert de données peut avoir lieu si : _« le transfert est nécessaire à l'exécution d'un contrat entre la personne concernée et le responsable du traitement ou à la mise en œuvre de mesures précontractuelles prises à la demande de la personne concernée »_.  
+En conséquence, vous reconnaissez et acceptez que ces transferts de données sont nécessaires à l’exécution des présentes Conditions Générales et pour vous permettre la navigation sur le Site, la création d’un compte client et la passation de Commandes.
