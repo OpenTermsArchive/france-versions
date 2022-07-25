@@ -63,7 +63,6 @@ Le délégué à la protection des données de notre société est à votre disp
 Ses coordonnées sont :
 
 Flix SE  
-Dr Theresia Gondro  
 Friedenheimer Brücke 16  
 80639 Munich
 
@@ -151,7 +150,6 @@ Nous serons heureux de vous fournir de plus amples informations à ce sujet sur 
 Ses coordonnées sont les suivantes :
 
 Flix SE  
-Tobias Hadem  
 Friedenheimer Brücke 16  
 80639 Munich
 
