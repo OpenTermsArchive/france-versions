@@ -14,7 +14,7 @@ Qui est le responsable de traitement ?
 
 Le responsable du traitement mis en œuvre sur le site [www.camaieu.fr](https://www.camaieu.fr/) et les applications mobiles est :
 
-FIB NC7 Société par actions simplifiée (société à associé unique), au capital de 1 000 €, dont le siège social est situé au 211 avenue BRAME à Roubaix (59100), immatriculée au Registre du Commerce et des Sociétés de LILLE METROPOLE sous le n°881 209 647.
+ACIAM Société par actions simplifiée (société à associé unique), au capital de 1 000 000€, dont le siège social est situé au 211 avenue BRAME à Roubaix (59100), immatriculée au Registre du Commerce et des Sociétés de LILLE METROPOLE sous le n°881 209 647.
 
 Qu’est-ce que le délégué à la protection des données ?
 ------------------------------------------------------
@@ -66,7 +66,7 @@ Comment exercer vos droits ?
 Vous avez le droit de demander l'accès aux données à caractère personnel, la rectification ou l'effacement de celles-ci, ou une limitation du traitement ou de vous opposer au traitement et le droit à la portabilité des données. Les droits de rectifications, d’effacement de limitation ou d’opposition ne s’appliquent pas pour les données nécessaires à la constatation, l'exercice ou la défense de droits en justice.
 
 Transmettez-nous votre demande écrite, accompagnée d’un justificatif d’identité à l’adresse suivante :  
-FIB NC7  
+ACIAM  
 Service Relation Client  
 211 Avenue Brame  
 BP 229  
@@ -211,4 +211,4 @@ Sur Safari :
 *   Cliquez sur le bouton Supprimer toutes les données de sites web
 *   Cliquez sur Supprimer dans la fenêtre de confirmation
 
-Si vous souhaitez que vos informations soient supprimées de cette base de donnée, vous pouvez [](https://www.camaieu.fr/contactez-nous)contacter directement le service client.
+Si vous souhaitez que vos informations soient supprimées de cette base de donnée, vous pouvez contacter directement le service client.
