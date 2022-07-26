@@ -556,3 +556,10 @@ Lors de votre navigation sur le Site, des données à caractère personnel vous 
 La réalisation des traitements de données par LA REDOUTE implique la mise en œuvre de transferts de données en dehors de l’Union Européenne vers des pays tiers. La liste des transferts de données et les mécanismes sur lesquels reposent ces transferts sont précisés dans la rubrique « Données Personnelles » du Site.  
 Si le mécanisme de transfert utilisé par LA REDOUTE devaient être remis en cause par un tiers, ces transferts de données vers des pays tiers restent nécessaires à l’exécution des présentes Conditions Générales conclues entre Vous et LA REDOUTE, conformément à l’article 49 b) du Règlement 2016/679 du 27 avril 2016 qui dispose qu’un transfert de données peut avoir lieu si : _« le transfert est nécessaire à l'exécution d'un contrat entre la personne concernée et le responsable du traitement ou à la mise en œuvre de mesures précontractuelles prises à la demande de la personne concernée »_.  
 En conséquence, vous reconnaissez et acceptez que ces transferts de données sont nécessaires à l’exécution des présentes Conditions Générales et pour vous permettre la navigation sur le Site, la création d’un compte client et la passation de Commandes.
+
+14 - Loi applicable et compétence juridictionnelle
+--------------------------------------------------
+
+Les Conditions Générales sont soumises à la loi française. Le tribunal compétent en cas de litige sera celui du lieu de domicile du défendeur ou, au choix du demandeur, du lieu de livraison effective du Produit.  
+  
+Le Site Internet est conforme à la législation française, et en aucun cas, LA REDOUTE ne donne de garantie de conformité à la législation locale qui vous serait applicable, dès lors que Vous accédez au Site Internet à partir d'autres pays.
