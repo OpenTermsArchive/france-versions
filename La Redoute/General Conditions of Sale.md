@@ -465,7 +465,9 @@ _**\- Article 1648 al 1er du Code civil :** L'action résultant des vices rédhi
 
   
 
-**8.2. Garanties commerciales8.2.1 Certains Produits peuvent bénéficier par ailleurs d'une garantie commerciale gratuite accordée par LA REDOUTE, dite « contrat de garantie commerciale LA REDOUTE », qui s’applique en plus des garanties légales. Dans ce cas, la garantie commerciale fera l’objet d'un contrat écrit qui vous sera remis. Ce contrat précisera le contenu, les modalités de mise en œuvre, la durée et l’étendue territoriale de la garantie commerciale accordée. Pour connaître les modalités des Garanties LA REDOUTE, vous êtes invité à vous reporter à l’onglet [Garanties LA REDOUTE](https://www.laredoute.fr/garanties-commerciales.aspx) du Site Internet.  
+**8.2. Garanties commerciales**  
+  
+8.2.1 Certains Produits peuvent bénéficier par ailleurs d'une garantie commerciale gratuite accordée par LA REDOUTE, dite « contrat de garantie commerciale LA REDOUTE », qui s’applique en plus des garanties légales. Dans ce cas, la garantie commerciale fera l’objet d'un contrat écrit qui vous sera remis. Ce contrat précisera le contenu, les modalités de mise en œuvre, la durée et l’étendue territoriale de la garantie commerciale accordée. Pour connaître les modalités des Garanties LA REDOUTE, vous êtes invité à vous reporter à l’onglet [Garanties LA REDOUTE](https://www.laredoute.fr/garanties-commerciales.aspx) du Site Internet.  
   
 Il est rappelé que la garantie commerciale ne vous prive pas des dispositions relatives à la garantie des vices cachés ou la garantie légale de conformité, telles que rappelées à l’article 8.1 des présentes Conditions Générales.  
   
@@ -478,7 +480,7 @@ L’étendue et la durée de cette garantie varie selon les fabricants. Vous pou
 \- Vous connecter sur votre espace client et compléter le formulaire à disposition dans la rubrique « Déclarer un SAV »,  
 \- contacter le Service Client par téléphone 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
 \- contacter le Service Client par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)  
-\- Messagerie In app ou Business Chat**
+\- Messagerie In app ou Business Chat
 
   
 
@@ -547,8 +549,8 @@ LA REDOUTE a pour toutes les étapes de prise de commande ainsi que pour les ét
 
 Ainsi LA REDOUTE s'engage à décrire avec la plus grande exactitude les Produits vendus sur le Site Internet. En revanche, la responsabilité de LA REDOUTE ne pourra être engagée dans le cas où l'inexécution de ses obligations serait imputable soit au fait imprévisible et insurmontable d'un tiers au contrat soit à un cas de force majeure telle que définie par la jurisprudence française. De même, la responsabilité de LA REDOUTE ne saurait être engagée pour tous les inconvénients ou dommages inhérents à l'utilisation du réseau Internet, notamment une rupture de service, une intrusion extérieure ou la présence de virus informatiques.
 
-13 - Informations nominatives
------------------------------
+13 - Données Personnelles
+-------------------------
 
 Lors de votre navigation sur le Site, des données à caractère personnel vous concernant sont collectées par La Redoute conformément au Règlement 2016/679 du 27 avril 2016. Pour plus d’information sur les traitements de données à caractère personnel mis œuvre, Vous êtes invités à consulter la rubrique «[Données Personnelles](https://www.laredoute.fr/espace-mentions_legales.aspx#footerlink=Donneespersonnelles)» du site  
 La réalisation des traitements de données par LA REDOUTE implique la mise en œuvre de transferts de données en dehors de l’Union Européenne vers des pays tiers. La liste des transferts de données et les mécanismes sur lesquels reposent ces transferts sont précisés dans la rubrique « Données Personnelles » du Site.  
