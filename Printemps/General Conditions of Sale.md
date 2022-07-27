@@ -6,13 +6,11 @@ Conditions générales de vente et d'utilisation
 Préambule
 ---------
 
-L'enseigne Printemps.com (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
+L'enseigne Printemps.com SASU au capital de 41 800 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 430 236 695, numéro de TVA FR64430236695  (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
 
   
 
-Le présent document régit les conditions générales d'utilisation du Site ainsi que les conditions générales de vente (les « **Conditions** ») entre la Société, et toute personne physique souhaitant utiliser le Site (« **l'Utilisateur** ») ou effectuer un achat sur le Site (« **le Client** »).
-
-Les Conditions concernent exclusivement toute personne physique âgée d'au moins 18 ans, non commerçante et agissant pour ses besoins personnels.
+Le présent document régit les conditions générales d'utilisation du Site ainsi que les conditions générales de vente (les « **Conditions** ») entre la Société, et tout consommateur personne physique âgée d'au moins 18 ans qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole et agissant pour ses besoins personnels souhaitant utiliser le Site (« **l'Utilisateur** ») ou effectuer un achat sur le Site (« **le Client** »).
 
   
 
@@ -33,7 +31,7 @@ La création d'un compte est obligatoire pour bénéficier de toutes les offres 
 
   
 
-L'adhésion à notre club de fidélité « Printania » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le lien suivant : [www.printemps.com/fr/fr/printania](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/printania)
+L'adhésion au club de fidélité « Printania » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le lien suivant : [www.printemps.com/fr/fr/printania](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/printania)
 
   
 
@@ -208,17 +206,9 @@ A défaut de disponibilité d'un ou plusieurs Produit(s) après passation de la 
 
   
 
-2.6 MODIFICATION DE COMMANDE
+**2.6 MODIFICATION DE COMMANDE**
 
-Une fois passé, le contenu de la commande n'est plus modifiable, vous pouvez cependant modifier l'adresse de livraison ou annuler la commande si celle-ci n'a pas encore été préparée en nous contactant.
-
-  
-
-En cas d'annulation possible, vous ne serez pas débité.
-
-  
-
-Une fois votre commande passée, le contenu de la commande n'est plus modifiable. Vous pouvez cependant toujours modifier l'adresse de livraison ou annuler votre commande si celle-ci n'a pas encore été préparée en contactant notre service client au 01 71 25 26 01. En cas d'annulation réussie, vous ne serez pas débité.
+Une fois validé par le Client, le contenu de la commande n'est plus modifiable. Le client peut toutefois modifier l'adresse de livraison ou annuler la commande si celle-ci n'a pas encore été préparée en contactant le service client au 01 71 25 26 01. En cas d'annulation réussie, le Client vous ne sera pas débité.
 
 Article 3 - Expédition et livraison
 -----------------------------------
@@ -241,11 +231,11 @@ Ces commandes sont traitées en priorité le premier jour ouvré suivant. À par
 
   
 
-Un email est adressé au Client lorsque sa commande est expédiée de notre entrepôt. Cet email récapitule le mode de livraison choisi ainsi que le numéro de suivi de la commande.
+Un email est adressé au Client lorsque sa commande est expédiée de l'entrepôt. Cet email récapitule le mode de livraison choisi ainsi que le numéro de suivi de la commande.
 
   
 
-Pour obtenir le détail et le suivi de votre commande, le Client est invité à se rendre sur son compte dans la rubrique « Mes commandes en cours ».
+Pour obtenir le détail et le suivi de la commande, le Client est invité à se rendre sur son compte dans la rubrique « Mes commandes en cours ».
 
   
 
@@ -343,7 +333,7 @@ Le créneau horaire souhaité est sélectionné lors du choix du mode de livrais
 
   
 
-Si le client ne reçoit pas son colis ou qu'il n'a pas de nouvelle du service de livraison, il peut contacter le service client directement au 01.71.25.26.01.
+Si le Client ne reçoit pas son colis ou qu'il n'a pas de nouvelle du service de livraison, il peut contacter le service client directement au 01.71.25.26.01.
 
   
 
@@ -363,11 +353,11 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
   
 
-Le colis est livré à l'adresse de livraison indiquée sur votre bon de commande. En tant que tel, il est important de saisir l'adresse de livraison exacte.
+Le colis est livré à l'adresse de livraison indiquée sur le bon de commande. En tant que tel, il est important de saisir l'adresse de livraison exacte.
 
   
 
-Un e-mail sera envoyé au client lorsque son colis sera expédié depuis l'entrepôt. Cet e-mail confirme le mode de livraison choisi et fournit un numéro de suivi. Il est également possible de consulter et suivre sa commande dans la section « Suivre mes commandes » du compte.
+Un e-mail sera envoyé au Client lorsque son colis sera expédié depuis l'entrepôt. Cet e-mail confirme le mode de livraison choisi et fournit un numéro de suivi. Il est également possible de consulter et suivre sa commande dans la section « Suivre mes commandes » du compte.
 
   
 
@@ -403,11 +393,11 @@ Livraisons offertes dès 200 euros d'achat
 
   
 
-Ce service de livraison permet de faire livrer la commande au Printemps choisi parmi les 17 magasins (voir liste ci-dessous). Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps durant 14 jours.
+Ce service de livraison permet au Client de faire livrer sa commande au Printemps choisi parmi les magasins proposant ce service (voir liste ci-dessous). Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours.
 
   
 
-*   Pour le Printemps Haussmann, Printemps Nation et Printemps Italie 2. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi matin. Info Printemps Haussmann : la récupération de vos commandes se fera au 4ème étage du Printemps Mode.
+*   Pour le Printemps Haussmann, Printemps Nation et Printemps Italie 2. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi matin. Info Printemps Haussmann : la récupération des commandes se fera au 4ème étage du Printemps Mode.
 *   Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
 *   Les magasins Printemps Caen, Printemps Brest, Printemps Tours et Printemps du Louvre n'offrent pas de livraison Click & Collect.
 
@@ -437,7 +427,7 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
   
 
-Le colis est livré à l'adresse de livraison indiquée sur votre bon de commande. En tant que tel, il est important de saisir l'adresse de livraison exacte.
+Le colis est livré à l'adresse de livraison indiquée sur le bon de commande. En tant que tel, il est important de saisir l'adresse de livraison exacte.
 
   
 
@@ -473,7 +463,11 @@ Livraisons standard offertes dès 200 euros d'achat
 
 *   **CHRONO STANDARD INTERNATIONAL** (sous 2 à 4 jours)
 
-Livraison standard à domicile pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie.
+Livraison standard à domicile pour les pays suivants :
+
+Allemagne (8 euros)
+
+Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie (10 euros).
 
   
 
@@ -501,7 +495,7 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
   
 
-*   **CHRONO EXPRESS INTERNATIONAL** (en 24h)
+*   **CHRONO EXPRESS INTERNATIONAL**, 15 euros (en 24h)
 
 La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie.
 
@@ -519,7 +513,7 @@ Le délai de livraison est de 1 jour ouvré.
 
 Livraisons offertes
 
-La création d'un compte sur le site de notre partenaire ColisExpat, accessible à l'adresse [https://www.colisexpat.com](https://www.colisexpat.com/), permet de livrer le.la client.e à une adresse française depuis laquelle la commande sera ré-expédiée vers le pays choisi par le.la client.e. Colis Expat prenant en charge l'acheminement du colis depuis cette adresse quel que soit le pays de destination.
+La création d'un compte sur le site du partenaire ColisExpat, accessible à l'adresse [https://www.colisexpat.com](https://www.colisexpat.com/), permet de livrer le Client à une adresse française depuis laquelle la commande sera ré-expédiée vers le pays choisi par le Client. Colis Expat prenant en charge l'acheminement du colis depuis cette adresse quel que soit le pays de destination.
 
   
 
@@ -584,13 +578,17 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
+*   Paiement e-carte cadeau dans les conditions de l'article 5
+
+  
+
 En cliquant sur « Autoriser le paiement », le Client confirme soit que la carte de crédit lui appartient, soit qu'il est le titulaire légitime de la carte cadeau ou du bon d'achat.
 
   
 
 **4.2 PRÉVENTION ET GESTION DES IMPAYÉS**
 
-Par ailleurs, afin de prévenir les impayés, la Société a mis en place un dispositif qui peut conduire à réclamer au Client des informations complémentaires lors du paiement ou à suspendre une commande.
+Afin de prévenir les impayés, la Société a mis en place un dispositif qui peut conduire à réclamer au Client des informations complémentaires lors du paiement ou à suspendre une commande.
 
   
 
@@ -656,7 +654,7 @@ A défaut d'utilisation de la e-carte cadeau dans un délai d'un an à compter d
 
 **5.2 PAIEMENT PAR E-CARTE CADEAU**
 
-Le bénéficiaire de la e-carte cadeau recevra sa carte cadeau sous forme d'un code par e-mail ou sur une carte cadeau imprimée (via le format PDF à imprimer).
+Le Bénéficiaire de la e-carte cadeau recevra sa carte cadeau sous forme d'un code par e-mail ou sur une carte cadeau imprimée (via le format PDF à imprimer).
 
   
 
@@ -668,7 +666,7 @@ Utiliser une e-carte cadeau sur [www.printemps.com](https://www.printemps.com/)
 
 2\. Effectuez vos achats sur le Site [www.printemps.com](https://www.printemps.com/). Validez votre panier
 
-3\. Sur la page paiement pour utiliser votre e-carte cadeau, entrez votre code puis validez.
+3\. Pour utiliser votre e-carte cadeau, entrez votre code puis validez sur la page de paiement.
 
   
 
@@ -676,11 +674,11 @@ La e-carte cadeau peut être utilisée sur le Site, en une seule fois ou plusieu
 
   
 
-Si le montant de votre e-carte cadeau est supérieur à celui de votre panier, le montant restant reste disponible sur votre carte e-cadeau qui vous sera proposé sur la page « mon paiement sécurisé » lors de votre prochaine commande et disponible sur la page « Ma e-carte cadeau » dans votre compte. Dans le cas contraire, vous pourrez compléter votre paiement avec un autre moyen de paiement ou une autre carte cadeau.
+Si le montant de la e-carte cadeau est supérieur à celui du panier, le montant restant reste disponible sur la carte e-cadeau qui vous sera proposé sur la page « mon paiement sécurisé » lors de votre prochaine commande et disponible sur la page « Ma e-carte cadeau » dans votre compte. Dans le cas contraire, vous pourrez compléter votre paiement avec un autre moyen de paiement ou une autre carte cadeau.
 
   
 
-Si le client retourne un article payé avec une e-carte cadeau alors le remboursement se fera sous la forme d'un bon d'achat qui sera valable 6 mois à partir de la date de sa création.
+Si le Client retourne un article payé avec une e-carte cadeau alors le remboursement se fera sous la forme d'un bon d'achat qui sera valable 6 mois à partir de la date de sa création.
 
   
 
@@ -719,13 +717,13 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
 *   Notification de la décision de rétractation :
 
-Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
+Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou présent en annexe ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
 
   
 
-*   Retour du Produit :
+*   Retour du Produit après rétractation :
 
-Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue du général leclerc 93500 Pantinsans retard excessif, et au plus tard 30 jours calendaires après avoir communiqué à la Société sa décision de rétractation.
+Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue du général leclerc 93500 Pantin sans retard excessif, et au plus tard 30 jours calendaires après avoir reçu sa commande
 
 La procédure de retour des Produits est décrite aux paragraphes 9.1 et 9.2 ci-dessous.
 
@@ -754,7 +752,7 @@ Les retours doivent remplir les conditions ci-dessous pour être acceptés :
 *   Le formulaire de retour doit être inclus dans le colis.
 *   Les articles doivent être neufs, non portés et dans leur emballage d'origine.
 *   L'étiquette en carton avec le prix, le code à barres et le nom du produit doit également être renvoyée avec l'article dans le même état qu'il a été envoyé.
-*   Les articles retournés endommagés, incomplets, usés, salis ou lavé ou qui porte des odeurs de cuisine, de tabac ou de sueur, ne seront ni repris ni remboursés.
+*   Les articles retournés endommagés, incomplets, usés, salis ou lavé ou qui porte des odeurs de cuisine, de tabac ou de sueur, ne seront ni repris ni remboursés, ni échangés.
 
   
 
@@ -762,7 +760,13 @@ Conformément à l'article L 221-23 du Code de la Consommation, le Client sera r
 
   
 
-Un contrôle de conformité sera effectué pour chaque demande de remboursement. Les retours qui ne respectent pas les conditions énoncées ne seront pas acceptés et seront renvoyés au client. Le remboursement se fera via le moyen de paiement utilisé lors de la commande ou par bon d'achat.
+Un contrôle de conformité sera effectué pour chaque demande de remboursement ou d'échange. Les retours qui ne respectent pas les conditions énoncées ne seront pas acceptés et seront renvoyés au Client. Le remboursement dans les conditions de l’article 9.3. 
+
+  
+
+  
+
+L’échange sera validé sous réserve de disponibilité du produit souhaité au moment de la réception du retour. À défaut, le remboursement sera émis dans les conditions de l’article 9.3. 
 
   
 
@@ -786,19 +790,25 @@ La boîte à chaussures doit être en parfait état et ne doit en aucun cas êtr
 
 *   **Lingerie et maillots de bain**
 
-Les sous-vêtements et bas de maillots de bains doivent être essayés par-dessus des sous vêtement, veuillez à ne pas ôter les protections adhésives.
+Les sous-vêtements et bas de maillots de bains doivent être essayés par-dessus des sous vêtement,les protections adhésives ne doivent pas être ôtées.
 
   
 
 *   **Joaillerie fine**
 
-Ces pièces d'exception doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique et toutes les étiquettes créateurs intactes.
+Ces pièces d'exception doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique et toutes les étiquettes de créateurs intactes.
+
+  
+
+*   **Montres de luxe**
+
+Les montres de luxe doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique sur le cadran, la garantie, la boîte de présentation et tout autre packaging extérieur. Veuillez également vous assurer que la montre n'a pas été mise à l'heure correcte.
 
   
 
 *   **Produits de beauté**
 
-Les articles de beauté doivent être impérativement retournés dans leur emballage d'origine non descellés avec le film plastique de protection et l'opercule intacts. Les articles ne peuvent être essayés et doivent être à l'état neuf, non ouverts, non utilisés, non abimés, non salis, non testés. Pour retourner un article beauté, veillez à remettre les articles dans le colis d'origine; qui a fait l'objet de nombreux tests concluants. Ce conditionnement, résiste en effet, à tous les chocs, chutes et manutentions possibles durant l'acheminement du colis. Si toutefois votre colis après ouverture ne permettait pas le retour dans de bonnes conditions des articles beauté, nous vous invitons vivement à trouver un contenant adéquat et à emballer soigneusement les articles retournés pour assurer le maximum de protection pendant le transport.
+Les articles de beauté doivent être impérativement retournés dans leur emballage d'origine non descellés avec le film plastique de protection et l'opercule intacts. Les articles ne peuvent être essayés et doivent être à l'état neuf, non ouverts, non utilisés, non abimés, non salis, non testés. Pour retourner un article beauté, veillez à remettre les articles dans le colis d'origine; qui a fait l'objet de nombreux tests concluants. Ce conditionnement, résiste en effet, à tous les chocs, chutes et manutentions possibles durant l'acheminement du colis. Si toutefois le colis après ouverture ne permettait pas le retour dans de bonnes conditions des articles beauté, nous vous invitons vivement à trouver un contenant adéquat et à emballer soigneusement les articles retournés pour assurer le maximum de protection pendant le transport.
 
   
 
@@ -834,7 +844,7 @@ Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de 
 
   
 
-1\. Le bon de retour se trouve dans votre colis. En cas de perte, il est également possible de télécharger son bon de retour dans votre espace client.
+1\. Le bon de retour se trouve dans votre colis. En cas de perte, il est également possible de télécharger son bon de retour dans votre espace client. Pour un échange, le bon de retour devra impérativement être émis depuis l'espace client.
 
 2\. Emballer les articles avec soin dans l'emballage d'origine, y joindre le bon de retour imprimé.
 
@@ -842,7 +852,7 @@ Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de 
 
   
 
-NB : Pour faciliter le suivi de votre retour et assurer votre remboursement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par Printemps.com lors de votre retour et de conserver la preuve de dépôt tamponnée par la poste jusqu'au remboursement. Dans le cas contraire, nous ne pourrions garantir votre remboursement.
+NB : Pour faciliter le suivi de votre retour et assurer son bon traitement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par Printemps.com lors de votre retour et de conserver la preuve de dépôt tamponnée par la poste jusqu'au remboursement où jusqu'à a validation de l'échange si le Client souhaite opter pour un échange. Dans le cas contraire, la Société ne pourra garantir le remboursement ou l'échange de l'article.
 
   
 
@@ -850,11 +860,11 @@ NB : Pour faciliter le suivi de votre retour et assurer votre remboursement, il 
 
   
 
-Le nombre de retours effectués par client est comptabilisé et, en cas de retours répétés contraires à nos conditions générales, nous nous réservons le droit de signaler ou de fermer le compte Printemps.com et de refuser de futures commandes.
+Le nombre de retours effectués par Client est comptabilisé et, en cas de retours répétés contraires aux Conditions, la Société se réserve le droit de signaler ou de fermer le compte Printemps.com et de refuser de futures commandes.
 
   
 
-Le client est contacté si cela s'applique à son compte.
+Le Client sera contacté si cela s'applique à son compte.
 
   
 
@@ -862,13 +872,25 @@ Le client est contacté si cela s'applique à son compte.
 
   
 
-Pour procéder à un échange celui-ci devra s'effectuer en 2 temps :
+Pour procéder à un échange :
+
+1\. Identifiez-vous dans la rubrique « Mon compte ».
+
+2\. Dans la rubrique "MES COMMANDES ET RETOURS" cliquez sur "Effectuer un retour ou échange"
+
+3\. Choisissez l’article à échanger ainsi que le produit souhaité en échange. Seul un échange de taille ou de coloris est possible. Dans le cas où vous auriez reçu un produit défectueux, vous pouvez demander le même produit en échange. 
+
+4\. Sélectionnez le motif du retour ainsi que le mode de remboursement dans l’hypothèse où l’échange ne serait pas réalisable (re-crédit sur le mode de paiement utilisé ou bon d'achat). Si le produit n’est pas disponible à réception, le remboursement sera émis sur le moyen sélectionné. 
+
+5\. Imprimez le bon, et insérez-le dans le colis retour, et collez l'étiquette transporteur sur le colis.
+
+6\. Déposez le colis chez un commerçant agréé ou directement en bureau de Poste. Pour information, un retour déposé en bureau de poste met moins longtemps à nous parvenir à la Société qu'un retour déposé chez un commerçant.
+
+7\. À réception due votre colis, la Société procédera à l'échange dans la limite des stocks disponibles au moment de la réception. 
+
+Si la taille souhaitée est disponible au même tarif, la Société recommande au Client de faire une demande de remboursement pour la commande initiale et de renouveler la commande avec le produit désiré sans attendre le retour de l’article. 
 
   
-
-Suivre la procédure de retour ci-dessus afin de se faire rembourser les articles.
-
-Puis ensuite passer une nouvelle commande avec le produit désiré.
 
   
 
@@ -910,9 +932,7 @@ En cas de réception d'un colis retour dont le contenu ne serait pas conforme à
 Article 10 - Garanties
 ----------------------
 
-Tous les Produits bénéficient de la garantie légale de conformité (articles L217-4 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes.
-
-  
+Tous les Produits bénéficient de la garantie légale de conformité (articles L217-4 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes. Le Client est invité à ce titre à prendre contact avec la Société aux coordonnées mentionnées au sein de l’article 12.
 
   
 
@@ -920,67 +940,105 @@ Tous les Produits bénéficient de la garantie légale de conformité (articles 
 
 **10.1 GARANTIE LÉGALE DE CONFORMITÉ**
 
-**Article L 217-4 du Code de la Consommation :**
+  
 
-« Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité ».
+Article L217-3 du Code de la consommation :
+
+« Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans à compter de celle-ci. Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :
+
+1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;
+
+2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat.
+
+Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article L. 217-19.
+
+Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur.
+
+Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité. »
 
   
 
-**Article L 217-5 du Code de la Consommation :**
+  
 
-« Le bien est conforme au contrat :
+Article L 217-4 du Code de la Consommation :
+
+« Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants :
+
+1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ;
+
+2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;
+
+3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;
+
+4° Il est mis à jour conformément au contrat. »
 
   
 
-1° S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
+Article L217-5 du Code de la consommation :
 
-s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;
+« I.-En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :
 
-s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;
+1° Il est propre à l'usage habituellement attendu d'un bien de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduite spécifiques applicables au secteur concerné ;
 
-2° Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté ».
+2° Le cas échéant, il possède les qualités que le vendeur a présentées au consommateur sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;
+
+3° Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement;
+
+4° Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;
+
+5° Le cas échéant, il est fourni avec les mises à jour que le consommateur peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;
+
+6° Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des biens de même type, eu égard à la nature du bien ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage.
+
+II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques mentionnées à l'alinéa qui précède s'il démontre :
+
+1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;
+
+2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou
+
+3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.
+
+III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat. »
 
   
 
-**Article L 217-12 du Code de la Consommation :**
+Article L217-7 du Code de la consommation :
 
-L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
+« Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à compter de la délivrance du bien, y compris du bien comportant des éléments numériques, sont, sauf preuve contraire, présumés exister au moment de la délivrance, à moins que cette présomption ne soit incompatible avec la nature du bien ou du défaut invoqué.
+
+Pour les biens d'occasion, ce délai est fixé à douze mois.
+
+Lorsque le contrat de vente d'un bien comportant des éléments numériques prévoit la fourniture continue d'un contenu numérique ou d'un service numérique, sont présumés exister au moment de la délivrance du bien les défauts de conformité qui apparaissent :
+
+1° Durant un délai de deux ans à compter de la délivrance du bien, lorsque le contrat prévoit cette fourniture pendant une durée inférieure ou égale à deux ans ou lorsque le contrat ne détermine pas la durée de fourniture ;
+
+2° Durant la période durant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat, lorsque celui-ci prévoit cette fourniture pendant une durée supérieure à deux ans. »
+
+  
+
+Article L217-28 du Code de la consommation :
+
+« Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.
+
+Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.
+
+Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable. »
 
   
 
 Lorsqu'il agit en garantie légale de conformité, le Client :
 
-  
+\- bénéficie d'un délai de deux ans à compter de la délivrance du Produit pour agir à l'encontre de la Société en qualité de vendeur ;
 
-bénéficie d'un délai de deux ans à compter de la délivrance du Produit pour agir à l'encontre de la Société, vendeur ;
+\- a droit à la réparation ou au remplacement du Produit, ou, à défaut, à la réduction du prix, ou à la résolution du contrat sous réserve des conditions prévues par les articles L.217-8 et suivants du Code de la consommation) ;
 
-peut choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L. 217-9 du Code de la Consommation ;
-
-est dispensé de rapporter la preuve de l'existence du défaut de conformité du Produit durant les 2 ans suivant la délivrance du Produit.
-
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie. Il est rappelé que le Client peut décider de mettre en €uvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du Code civil et que dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
+\- est dispensé de rapporter la preuve de l'existence du défaut de conformité du Produit durant les 2 ans suivant la délivrance du Produit.
 
   
 
-Dans le cadre de la garantie légale de conformité, la Société s'engage au choix du Client :
+La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie. Il est rappelé que le Client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du Code civil et que dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
 
   
-
-soit à réparer le Produit ;
-
-soit à remplacer le Produit par un produit identique en fonction des stocks disponibles.
-
-Toutefois, conformément à l'article L217-9 du Code de la Consommation, la Société peut ne pas procéder selon le choix du Client si ce choix a un coût manifestement disproportionné au regard de l'autre modalité, compte tenu de la valeur du bien ou de l'importance du défaut. La Société est alors tenue de procéder, sauf impossibilité, selon la modalité non choisie par le Client.
-
-  
-
-En outre, conformément à l'article L 217-10 du Code de la Consommation, si la réparation et le remplacement du Produit sont impossibles ou alors si la solution demandée ou proposée ou convenue en application du paragraphe ci-dessus ne peut être mise en €uvre dans le délai d'un mois suivant sa réclamation, le Client peut :
-
-  
-
-soit, sous réserve que le défaut de conformité ne soit pas mineur, rendre le Produit et la Société remboursera le prix du Produit, ainsi que les éventuels frais de livraison et de retour ;
-
-soit, conserver le Produit et la Société remboursera au Client une partie de son prix.
 
   
 
@@ -1004,6 +1062,12 @@ Dans le cadre de la garantie des vices cachés, la Société s'engage au choix d
 
 *   soit, en cas de restitution dudit Produit par le Client, à rembourser le prix du Produit, ainsi que les éventuels frais de livraison et de retour, si le remplacement s'avérait impossible ;
 *   soit, en cas de conservation du Produit par le Client, à rembourser à ce dernier une partie de son prix.
+
+  
+
+**10.3 PIECES DETACHEES**
+
+La disponibilité ou la non-disponibilité des pièces détachées indispensables à l’utilisation d'un bien acheté et le cas échéant, leur période de disponibilité sont déterminées par le fabricant du bien ou son importateur. Lorsque cette information n'est pas fournie par le fabricant ou son importateur, les pièces détachées indispensables à l'utilisation des biens sont réputées non disponibles.
 
   
 
@@ -1050,3 +1114,39 @@ Article 14 - Droit applicable et juridiction compétente
 -------------------------------------------------------
 
 Les présentes Conditions sont soumises au droit français. A défaut de règlement amiable, les litiges sont de la compétence exclusive des tribunaux français compétents, nonobstant pluralité de défendeurs et/ou appel en garantie, même pour les procédures d'urgence ou les procédures conservatoires en référé ou par requête.
+
+  
+
+ANNEXE : MODÈLE DE FORMULAIRE DE RÉTRACTATION
+
+  
+
+(Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
+
+  
+
+A l'attention de PRINTEMPS.COM, Adresse postale : Printemps.com Service Relations Clients 102 rue de Provence 75009 Paris ET adresse électronique : service-client@printemps.com
+
+  
+
+Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien/des biens ci-dessous (préciser la référence et la quantité de chaque produit faisant l’objet de la rétractation) : ……………………………….
+
+  
+
+Commandé le ………………….. et reçu le ………….. :
+
+  
+
+Nom du (des) consommateur(s) :……………
+
+  
+
+Adresse du (des) consommateur(s) :……………
+
+  
+
+Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :
+
+  
+
+Date :
