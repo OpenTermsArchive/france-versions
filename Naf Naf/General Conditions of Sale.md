@@ -266,14 +266,14 @@ ARTICLE 10. DROITS DE PROPRIÉTÉ INTELLECTUELLE
 
 L’Utilisateur reconnait et accepte que tout droit d'auteur, toute marque déposée et tout autre droit de propriété intellectuelle portant sur l'ensemble des informations ou contenus figurant sur le Site seront, à tout moment, la propriété de NAF NAF ou celle de ceux qui lui ont accordé une licence.  
 L’Utilisateur du Site s’interdit à cet égard d’extraire, de représenter, de reproduire ou plus généralement de porter atteinte à tout ou partie du Site.  
-Tous les éléments du Site qu'ils soient visuels ou sonores, y compris la marque, le logo, les textes, les photos, les vidéos et le nom de domaine, sont protégés par le droit d'auteur, le droit des marques ou des brevets. Toute reproduction totale ou partielle du Site ou de l’un de ses contenus audio, visuel ou texte est strictement interdite sauf accord écrit expresse et préalable.  
+Tous les éléments du Site qu'ils soient visuels ou sonores, y compris la marque, le logo, les textes, les photos, les vidéos et le nom de domaine, sont protégés par le droit d'auteur, le droit des marques ou des brevets. Toute reproduction totale ou partielle du Site ou de l’un de ses contenus audio, visuel ou texte est strictement interdite sauf accord écrit expresse et préalable. 
 
 ARTICLE 11. PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL – COOKIES
 ------------------------------------------------------------------
 
 Dans le cadre de la navigation ou de l’utilisation du Site par l’Utilisateur, NAF NAF est amenée à traiter et collecter des données à caractère personnel.  
 La politique de confidentialité fait partie intégrante des CGV ; elle informe sur la manière dont NAF NAF collecte et traite les données à caractère personnel.  
-La politique de confidentialité et la charte relative aux cookies sont consultables à l’adresse suivante : [https://www.nafnaf.com/](https://www.nafnaf.com/)donnees-personnelles.php  
+La politique de confidentialité et la charte relative aux cookies sont consultables à l’adresse suivante : [https://www.nafnaf.com/donnees-personnelles.php](https://www.nafnaf.com/donnees-personnelles.php)   
 Afin d’exercer les droits prévus par la règlementation relative aux données à caractère personnel telle qu’expliquée dans ladite politique, chaque Utilisateur peut contacter NAF NAF :
 
 *   par courrier : NEW NAF NAF – 2 rue Sarah Bernhardt – 92600 ASNIERES SUR SEINE
