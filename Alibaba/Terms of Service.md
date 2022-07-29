@@ -3,8 +3,8 @@ Conditions d'utilisation et informations légales（French）
 
 2016-08-23 07:51
 
-Partie A: Nouvelle version - mis à jour le 13 juin 2022 et en vigueur à partir du 21 juin 2022
-==============================================================================================
+Partie A: Nouvelle version - mis à jour le 29 juillet 2022 et en vigueur à partir du 5 août 2022
+==================================================================================================
 
 VEUILLEZ LIRE ATTENTIVEMENT LES CONDITIONS GÉNÉRALES SUIVANTES.
 
@@ -159,7 +159,7 @@ e) en utilisant les Services, il respectera à tout moment toutes les lois et r�
 
 f) si Il et ses filiales êtes Vendeurs de produits devant comporter un avertissement en vertu de la section 25249.6 du Code pour la santé et la sécurité de la Californie (California Health & Safety Code) (un « avertissement selon la Proposition 65 »), Il et ses filiales : (a) afficherez un avertissement selon la Proposition 65 sur la page qui détaille le produit, dans les meilleurs délais, comme l'exige la loi applicable ; (b) autorisez Alibaba.com à afficher un avertissement selon la Proposition 65 en votre nom ; et (c) n’amenderez ou ne supprimerez un avertissement selon la Proposition 65 correspondant à un produit que si l'avertissement précédent doit être modifié ou n'est plus légalement requis, le cas échéant; et
 
-g) Vous et vos filiales êtes tenus de vous assurer que vos produits soient conformes aux lois et règlementations du pays / de la région de destination, y compris les lois et règlementations du travail correspondantes. Si un produit n’est pas autorisé sur un ou plusieurs marchés, les Sites se réservent le droit de retirer le produit du référencement OU DE METTRE FIN À LA VENTE DUDIT PRODUIT SUR ces marchés.
+g) Vous et vos filiales êtes chargés de vous assurer que vos produits sont conformes aux lois et règlementations du pays/de la région de destination et aux conventions internationales applicables, y compris les lois et normes du travail , telles que la Convention sur le travail forcé 1930 et la Convention sur l’abolition du travail forcé 1957. Si un produit n’est pas autorisé sur un ou plusieurs marchés, les Sites se réservent le droit de retirer le produit de la liste, OU DE CESSER DE VENDRE CE PRODUIT, sur ces marchés.
 
 Si, à tout moment, un Membre ne respecte pas l’une des exigences ci-dessus, il doit cesser d’utiliser les Services immédiatement. Si Alibaba.com a des motifs raisonnables de penser que son comportement viole ou menace de violer toute loi et règlementation applicable, Alibaba.com peut, à son entière discrétion, et à tout moment, engager les actions appropriées au vu des circonstances, y compris, sans s’y limiter, la cessation de la prestation de Services à ce Membre, la clôture des bons de commande concernés et la clôture de vos comptes, en se réservant tous les droits qui lui reviendraient concernant toute action ou tout comportement non conforme de ses membres.
 
@@ -567,7 +567,7 @@ b) sans délai après la publication par Alibaba.com de cette notification sur u
 
 12.8 Si vous avez des commentaires sur les Services que nous vous fournissons, vous pouvez contacter le service clientèle ([https://helppage.aliexpress.com/buyercenter/selectTopic.htm](https://helppage.aliexpress.com/buyercenter/selectTopic.htm)pour Aliexpress ou [https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer](https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer_hp_buyer)pour Alibaba.com) pour lui faire part de vos commentaires ou questions.
 
-Partie A: Nouvelle version - mis à jour le 13 juin 2022 et en vigueur à partir du 21 juin 2022
+Partie A: Nouvelle version - mis à jour le 29 juillet 2022 et en vigueur à partir du 5 août 2022
 
 1\. Application et acceptation des conditions
 
