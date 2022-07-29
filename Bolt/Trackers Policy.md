@@ -39,7 +39,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x5\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | debug | bolt.eu | This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. | Persistent | HTML Local Storage |
-| li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 2 years | HTTP Cookie |
+| li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | ZD-suid | bolt.eu | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
 Preferences (9)
@@ -108,8 +108,8 @@ Marketing cookies are used to track visitors across our website. The intention i
 | ajs\_group\_properties | bolt.eu | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Persistent | HTML Local Storage |
 | ajs\_user\_id | bolt.eu | Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. | Persistent | HTML Local Storage |
 | ajs\_user\_traits | bolt.eu | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Persistent | HTML Local Storage |
-| bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 2 years | HTTP Cookie |
-| bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 2 years | HTTP Cookie |
+| bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1 year | HTTP Cookie |
+| bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | common/cavalry\_endpoint.php | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ "Meta Platforms, Inc.'s privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
 | fr  | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ "Meta Platforms, Inc.'s privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | IDE | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 1 year | HTTP Cookie |
