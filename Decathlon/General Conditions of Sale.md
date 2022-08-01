@@ -1266,8 +1266,6 @@ Vendeur.
 
 A titre commercial, le PARTENAIRE prend à sa charge
 
-
-
 les frais de retour des Produits dans le cadre de
 
 l’exercice valable de son droit de rétractation par
@@ -1458,67 +1456,121 @@ consommation français, en partie reproduits ci-dessous.
 
 
 
-Le Vendeur reste reste également tenu de la garantie légale des vices cachés dans les conditions fixées aux articles
+Le Vendeur reste également tenu de la garantie légale des vices cachés dans les conditions fixées aux articles 1641
 
-1641 à 1648
+à 1649 du Code civil.
 
 
 
 -
 
-DECATHLON rappelle au client que celui-ci bénéficie des garanties légales qui s’appliquent indépendamment de
+DECATHLON rappelle au client que celui-ci bénéficie des garanties légales sur ses achats.
 
-la ou des éventuelles garanties commerciales concédées par le Groupe DECATHLON.
-
-Dans le cadre de la garantie de conformité, le client :
+Ces garanties sont les suivantes :
 
 
 
-Bénéficie d’un délai de 2 ans à compter de la délivrance du produit pour agir
+- La garantie légale de conformité selon laquelle le bien fournit au client doit :
 
-Peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions relatives au
+1- posséder les qualités annoncées par le vendeur
 
-coût de la solution choisie conformément à l’article L.217-9 du Code de la consommation ; Est dispensé
+2- etre propre à l’usage habituellement attendu
 
-de rapporter la preuve de l’existence du défaut.
+3- être délivré avec tous les accessoires prévus au contrat (emballage, notice...)
 
-Pendant la durée précisée ci-dessous, les Produits sont présumés avoir existé au moment de la délivrance à
+4- correspondre à la quantité, à la qualité et à toute caractéristique annoncée par le vendeur
 
-moins que cette présomption ne soit incompatible avec la nature du bien ou du défaut invoqué.
+5- pour les produits numériques, être fourni avec la version la plus à jour
 
-Pour les produits délivrés avant le 1er janvier 2022 :
-
-● Si le produit est neuf : d’un délai de 2 ans minimum à compter de la délivrance du produit pour agir
-
-● Si le produit est d’occasion : d’un délai de 6 mois à compter de la délivrance du produit pour agir Pour
-
-les produits délivrés avant le 1er janvier 2022 :
-
-● Si le produit est neuf : d’un délai de 2 ans minimum à compter de la délivrance du produit pour agir
-
-● Si le produit est d’occasion : d’un délai de 1 an à compter de la délivrance du produit pour agir
+(L217-3 et L217-5 code de la consommation)
 
 
 
-Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d’une extension de 6
+- La garantie légale vice caché entendue au sens de l’article 1641 du Code civil selon laquelle le vendeur est
 
-mois Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en
+tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage
 
-œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du
+auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en
 
-consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette
-
-disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur.
+aurait donné qu'un moindre prix, s'il les avait connus.
 
 
 
-Dans le cadre de la garantie contre les défauts cachés de la chose vendue conformément à l’article 1644 du Code
+Ces garanties légales s'appliqueront indépendamment des garanties commerciales concédées par le Groupe
 
-civil :
+DECATHLON (article 10.2 des présentes).
 
-Le client peut décider de mettre en œuvre cette garantie conformément à l’article 1644 du Code civil. Dans cette
 
-hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente.
+
+Dans le cadre de la garantie légale de conformité, le client :
+
+
+
+● bénéficie d’un délai de deux ans à compter de la délivrance du produit pour agir en garantie de conformité
+
+(voir conditions ci-dessous)
+
+
+
+Pendant cette durée de deux ans, pour un Produit neuf, le client bénéficie d’une présomption de “défaut de
+
+conformité”. Dans ces conditions, le Client n’aura pas à apporter la preuve de ce défaut sauf
+
+
+
+- élément(s) contraire(s) apporté(s) par DECATHLON ;
+
+- si cette présomption est incompatible avec la nature du bien ou le défaut invoqué.
+
+
+
+Attention, depuis une réforme du 1er janvier 2022, s’agissant des Produits d’occasion, cette présomption de “défaut
+
+de conformité” est désormais d’un délai de douze mois conformément à l’article L 217-7 du Code de la
+
+consommation. Avant cette réforme, le délai de présomption était de six mois.
+
+
+
+● peut choisir entre la réparation ou le remplacement du produit. Toutefois, suivant l’article L217-12 du code
+
+de la consommation, si la mise en conformité sollicitée est impossible ou entraîne des coûts
+
+disproportionnés, DECATHLON pourra opter pour la mise en œuvre la plus cohérente au regard du défaut
+
+visé.
+
+
+
+Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d’une extension de garantie de 6
+
+mois.
+
+
+
+Dans le cadre de la garantie légale de vice caché, le client :
+
+
+
+- Dispose d’un délai de deux ans à compter de la découverte du vice pour agir auprès du vendeur. Attention,
+
+cette garantie est limitée à cinq ans après l’achat du Produit
+
+
+
+- Pourra agir si le défaut :
+
+1- existait et n’était pas visible au moment de l’achat
+
+2- rend son Produit impropre à l’usage auquel on le destine
+
+3- diminue l’usage du produit au point où l'acheteur ne l’aurait pas acquise ou à moindre prix
+
+
+
+- Aura la possibilité SOIT de rendre le Produit et de se faire rembourser SOIT de garder le Produit et d’obtenir
+
+une remise sur le prix d’achat
 
 
 
@@ -1532,29 +1584,19 @@ surtaxé) au numéro suivant : 0969 32 33 22
 
 
 
--
+En revanche, le Client comprend que lesdites garanties légales ne pourraient être mise en oeuvre dans le cas ou les
+
+dommages du Produit découleraient d'une utilisation non conforme aux consignes prévues dans les notices et
+
+documents accompagnant ledit Produit. Il est entendu que dans ce cas, DECATHLON ne sera pas tenu ni des
+
+garanties légales ni des garanties commerciales ci-après exposées.
 
 
 
-Le consommateur est également informé que la garantie légale de conformité s'applique indépendamment de la
+Enfin, DECATHLON ou ses PARTENAIRES ne peuvent en aucun cas être tenu responsable pour un dommage
 
-garantie commerciale éventuellement consentie. Aussi le consommateur peut décider de mettre en œuvre la garantie
-
-contre les défauts cachés de la chose vendue au sens de l'article 1641 du code civil et dans cette hypothèse, il peut
-
-choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du code civil.
-
-
-
-Le Vendeur ne sera pas tenu pour responsable des dommages découlant d'une utilisation des Produits qu’il vend, non
-
-conforme aux consignes prévues dans les notices et documents accompagnant ledit Produit.
-
-
-
-DECATHLON ou ses PARTENAIRES ne peuvent en aucun cas être tenus responsables pour un dommage résultant de
-
-la Force majeure ou d’une cause en dehors de leur contrôle.
+résultant de la Force majeure ou d’une cause en dehors de leur contrôle.
 
 
 
@@ -1562,7 +1604,7 @@ la Force majeure ou d’une cause en dehors de leur contrôle.
 
 
 
-● Garanties commerciales des Produits vendus par DECATHLON
+● Garanties commerciales “365” enseigne DECATHLON
 
 
 
@@ -1572,19 +1614,17 @@ vendus par DECATHLON sur le Site bénéficie d’une
 
 garantie commerciale de 365 jours à compter de la
 
-
-
 date de réception. Sont exclus du bénéfice de cette
 
 garantie : les produits volontairement endommagés,
 
 les produits ayant été utilisés dans une pratique
 
-inadaptée, les produits sales ou personnalité de sorte
+inadaptée, les produits sales ou personnalisés de
 
-qu’ils ne peuvent être revendu d’occasion ou donné en
+sorte qu’ils ne peuvent être revendu d’occasion ou
 
-l’état.
+donné en l’état.
 
 
 
@@ -1618,53 +1658,49 @@ Les détails de la Politique Retour et Échange sont
 
 disponibles ici.
 
-Garantie commerciale des Produits DECATHLON :
 
-Certains Produits vendus par DECATHLON sur le Site
 
-peuvent bénéficier d'une garantie commerciale
+● Garanties commerciales marques DECATHLON
 
 
 
-supplémentaire dont la durée est mentionnée sur la
+En plus de la garantie commerciale 365 jours, certains produits de marque “sports passion’ DECATHLON peuvent
 
-page produit des articles concernés.
+bénéficier d’une garantie commerciale particulière dont la durée est mentionnée directement sur la fiche produit, le site
 
-Dans l'hypothèse où l'article commandé par l’Acheteur
-
-est couvert par une garantie commerciale, celui-ci
-
-recevra au plus tard au moment de la délivrance de sa
-
-commande, un document dans lequel seront précisés
-
-le contenu de la garantie commerciale, ses modalités
-
-de mise en œuvre, son prix éventuel, sa durée, son
-
-étendue territoriale, ainsi que le nom et l'adresse du
-
-garant.
+internet de la marque concernée ou à défaut sur la notice d’utilisation.
 
 
 
-L’Acheteur est informé qu’il ne pourra pas réclamer le
+Qu’est ce que nos sports passion ? https://engagements.decathlon.fr/passion-sport-sports-passion
 
-bénéfice de la garantie commerciale en cas de
 
-défauts ou dysfonctionnements pouvant être que la
 
-conséquence d'une mauvaise installation, utilisation,
+Ainsi, le client pourra bénéficier notamment et non limitativement des garanties suivantes :
 
-manipulation ou dégradation volontaire de sa part. En
 
-ce sens, DECATHLON invite l'Internaute à suivre les
 
-instructions des guides de dépannage disponibles sur
+- Garantie à vie cycle (https://support.decathlon.fr/cycle-btwin-garantie-a-vie)
 
-le Site et à effectuer plusieurs tests sur le matériel
+- Garantie 10 ans sur les sacs à dos Quechua
 
-reçu.
+(https://www.quechua.fr/les-coulisses-de-la-garantie-10-ans-sacs-a-dos-quechua)
+
+
+
+Le client est informé qu’il ne pourra pas réclamer le bénéfice de la garantie commerciale en cas de défauts ou
+
+dysfonctionnements pouvant être que la conséquence d'une mauvaise installation, utilisation, manipulation ou
+
+dégradation volontaire de sa part. En ce sens, DECATHLON invite l'Internaute à suivre les instructions des guides de
+
+dépannage disponibles sur le Site et à effectuer plusieurs tests sur le matériel reçu.
+
+
+
+Il est entendu que ces garanties peuvent évoluer dans le temps. Ainsi, nous recommandons à nos clients de se référer
+
+aux indications reprises sur les pages de leurs Produits.
 
 
 
@@ -1772,8 +1808,6 @@ DECATHLON et l’Acheteur devront s’entendre sur le procédé de restitution d
 
 ARTICLE 11 - SERVICE CLIENTS/ RÈGLEMENT DES LITIGES
 
-
-
 ● Centre de relation clients
 
 Vous avez une question ou vous souhaitez nous faire part d'une réclamation éventuelle ? Notre Service Clients est à
@@ -1860,6 +1894,8 @@ Pour toute information concernant la protection de la vie privée et vos donnée
 
 vous renvoie vers la page “Protection des données à caractère personnel” : veuillez cliquer «ici».
 
+
+
 ARTICLE 13 -DIVERS
 
 
@@ -1889,8 +1925,6 @@ les CGV et en les enregistrant avec votre confirmation de commande.
 
 
 L'application de la Convention de Vienne sur la vente internationale de marchandises (1980) est explicitement exclue.
-
-
 
 Le fait que DECATHLON et/ou le PARTENAIRE décide, à un moment donné, de ne pas appliquer l’une des clauses des
 
@@ -1968,6 +2002,8 @@ sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous :
 
 Commandé le (\*)/reçu le (\*) :
 
+
+
 Nom du (des) consommateur(s) :
 
 
@@ -1979,8 +2015,6 @@ Adresse du (des) consommateur(s) :
 Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire
 
 sur papier) :
-
-
 
 Date :
 
