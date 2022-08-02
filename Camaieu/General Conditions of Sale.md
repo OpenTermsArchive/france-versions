@@ -313,7 +313,7 @@ Par email : [camaieurelationcliente@camaieu.com](mailto:camaieurelationcliente@c
 
 Par téléphone : Service Relation Clientes : 03.61.26.10.08 (Appel non surtaxé depuis la France métropolitaine. Depuis la Belgique et le Luxembourg, l'appel sera facturé comme un appel international vers la France au tarif propre à l'opérateur). Un conseiller Camaïeu est à votre écoute de 9h à 20h du lundi au samedi.
 
-Par courrier : FIB NC7  
+Par courrier : ACIAM  
 Service Clients Web  
 211 Avenue Brame – BP 229  
 59054 ROUBAIX Cedex 1
@@ -322,7 +322,7 @@ Service Clients Web
 
 Toute réclamatation du Client doit être adressée par lettre recommandée avec accusé de réception, accompagnée de tous les éléments justificatifs à l'adresse suivante :
 
-FIB NC7  
+ACIAM  
 Service Clients  
 211 Avenue Brame – BP 229  
 59054 ROUBAIX Cedex 1
@@ -347,7 +347,7 @@ Toutes les marques, textes, commentaires, ouvrages, illustrations et images, qu'
 
 La politique de protection des données personnelles a pour objectif de vous informer sur les engagements et mesures mis en oeuvre pour Camaïeu afin de veiller au respect de vos données à caractère personnel.
 
-Editeur FIB NC47  
+Editeur ACIAM  
 au capital de 1 000 000,00 €  
 immatriculée au RCS LILLE METROPOLE  
 sous le numéro 881.209.647
@@ -393,7 +393,7 @@ L'archivage des bons de commande et des factures est effectué sur un support fi
 Article 17 - Médiation
 ----------------------
 
-Conformément aux dispositions du Code de la consommation concernant « le processus de médiation des litiges de la consommation », le client a le droit de recourir gratuitement au service de médiation proposé par FIB NC 7. Le médiateur "droit de la consommation" ainsi proposé est CM2C.
+Conformément aux dispositions du Code de la consommation concernant « le processus de médiation des litiges de la consommation », le client a le droit de recourir gratuitement au service de médiation proposé par ACIAM. Le médiateur "droit de la consommation" ainsi proposé est CM2C.
 
 Ce dispositif de médiation peut être joint par :
 
@@ -423,7 +423,7 @@ MODÈLE DE FORMULAIRE DE RÉTRACTATION
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
 
-A l'attention de FIB NC7 Service Clients Web
+A l'attention de ACIAM Service Clients Web
 
 E-mail : [retractation@camaieu.com](mailto:retractation@camaieu.com)
 
