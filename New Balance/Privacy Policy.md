@@ -63,27 +63,27 @@ Veuillez noter que vous avez le droit de vous opposer au traitement de vos donn�
 
 La présente politique de confidentialité s'applique à toutes les données personnelles recueillies par New Balance Athletic Shoes (U.K.) Limited et ses sociétés affiliées, dans les magasins New Balance ou par le biais des services suivants: www.newbalance.co.uk, et tout autre site Internet exploité par New Balance Athletics Shoes (U.K.) Limited ou en son nom, y compris, mais sans s'y limiter, les sites suivants (le « site Internet ») :
 
-*   www.newbalance.de
-*   www.newbalance.es
-*   www.newbalance.pt
-*   www.newbalance.ie
-*   www.newbalance.se
-*   www.newbalance.lv
-*   si.newbalance.eu
-*   www.newbalance.fr
-*   www.newbalance.it
-*   www.newbalance.be
-*   dk.newbalance.eu
-*   fi.newbalance.eu
-*   www.newbalance.lu
-*   ee.newbalance.eu
-*   lt.newbalance.eu
-*   nl.newbalance.eu
-*   at.newbalance.eu
-*   www.newbalance.com.gr
-*   www.newbalance.co.hu
-*   cz.newbalance.eu
-*   www.nbblackoutsquad.com ;
+* www.newbalance.de
+* www.newbalance.es
+* www.newbalance.pt
+* www.newbalance.ie
+* www.newbalance.se
+* www.newbalance.lv
+* si.newbalance.eu
+* www.newbalance.fr
+* www.newbalance.it
+* www.newbalance.be
+* dk.newbalance.eu
+* fi.newbalance.eu
+* www.newbalance.lu
+* ee.newbalance.eu
+* lt.newbalance.eu
+* nl.newbalance.eu
+* at.newbalance.eu
+* www.newbalance.com.gr
+* www.newbalance.co.hu
+* cz.newbalance.eu
+* www.nbblackoutsquad.com ;
 
   
 
@@ -111,18 +111,18 @@ Les données personnelles sont définies comme toute information qui vous identi
 
 Nous collectons auprès de vous les données personnelles suivantes:
 
-*   **Données de base sur votre identité et vos coordonnées:** Nous recueillons vos nom, civilité, adresse postale/de livraison, adresse e-mail et numéro de téléphone si vous achetez un produit sur notre site Internet. Nous sommes également susceptibles de recueillir toutes ces informations (ou une partie) dans les cas suivants : 
-*   quand vous vous inscrivez au service « Mon compte » sur notre site Internet;
-*   quand vous remplissez le questionnaire « À propos de moi » pour nous indiquer vos préférences en matière de shopping, et dans lequel nous sommes également susceptibles de recueillir vos sexe, pointure, taille de vêtement, hobbies, préférences d'achat, ainsi que des informations sur vos entraînements hebdomadaires, vos enfants et leur sexe; 
-*   quand vous vous inscrivez pour recevoir nos communications marketing ;
-*   quand vous vous inscrivez pour recevoir nos communications marketing ; quand vous vous inscrivez à nos compétitions, concours, promotions, enquêtes ou questionnaires, pour lesquels nous pourrons également recueillir vos pseudonymes sur les réseaux sociaux ; 
-*   quand vous nous contactez ou entamez une correspondance avec nous à propos du service (ou l'un de ses composants) ;
-*   et/ou quand vous participez à un club de running New Balance.
-*   **Informations relatives au paiement :** Nous recueillons des informations sur votre carte de paiement et votre adresse de facturation si vous achetez un produit sur notre site Internet. Nous ne conservons pas les informations sur votre carte de paiement plus longtemps que ce qui est nécessaire au traitement de votre commande. Cependant, si vous vous inscrivez dans « Mon compte », vous pouvez choisir d'enregistrer les informations de votre carte de paiement dans votre compte pour que vous n'ayez pas à re-saisir toutes les données lors de votre prochain achat. Veuillez consulter la section 7. COMMENT LA SÉCURITÉ DE MES DONNÉES PERSONNELLES EST-ELLE ASSURÉE ? pour en savoir plus sur la manière dont nous protégeons les informations de votre carte de paiement ;
-*   **Informations relatives aux transactions** : Nous conservons votre historique de commande, notamment les produits achetés, la date, l'heure et la valeur de la transaction, ainsi que vos adresses de facturation et de livraison ;
-*   **Identifiant de compte** : Si vous vous inscrivez au service « Mon compte », nous conservons votre nom d'utilisateur et votre adresse e-mail au cas où vous auriez besoin que l'on vous les rappelle ultérieurement ;
-*    **Correspondance et avis** : Nous recueillons toute autre donnée personnelle que vous nous fournissez de temps à autre lorsque vous vous rendez dans un magasin New Balance, que vous répondez à une enquête ou à un questionnaire ou que vous nous contactez par e-mail, courrier, téléphone ou par le biais de notre site Internet. Si vous nous contactez par téléphone, nous pourrons également enregistrer l'appel à des fins de formation et d'amélioration de notre service, et prendre des notes relatives à votre appel ; et
-*   **Préférences en matière de marketing et de communication** : Nous recueillons des informations sur la manière dont vous préférez recevoir des messages marketing de notre part, ainsi que vos préférences en matière de communication.
+* **Données de base sur votre identité et vos coordonnées:** Nous recueillons vos nom, civilité, adresse postale/de livraison, adresse e-mail et numéro de téléphone si vous achetez un produit sur notre site Internet. Nous sommes également susceptibles de recueillir toutes ces informations (ou une partie) dans les cas suivants : 
+* quand vous vous inscrivez au service « Mon compte » sur notre site Internet;
+* quand vous remplissez le questionnaire « À propos de moi » pour nous indiquer vos préférences en matière de shopping, et dans lequel nous sommes également susceptibles de recueillir vos sexe, pointure, taille de vêtement, hobbies, préférences d'achat, ainsi que des informations sur vos entraînements hebdomadaires, vos enfants et leur sexe; 
+* quand vous vous inscrivez pour recevoir nos communications marketing ;
+* quand vous vous inscrivez pour recevoir nos communications marketing ; quand vous vous inscrivez à nos compétitions, concours, promotions, enquêtes ou questionnaires, pour lesquels nous pourrons également recueillir vos pseudonymes sur les réseaux sociaux ; 
+* quand vous nous contactez ou entamez une correspondance avec nous à propos du service (ou l'un de ses composants) ;
+* et/ou quand vous participez à un club de running New Balance.
+* **Informations relatives au paiement :** Nous recueillons des informations sur votre carte de paiement et votre adresse de facturation si vous achetez un produit sur notre site Internet. Nous ne conservons pas les informations sur votre carte de paiement plus longtemps que ce qui est nécessaire au traitement de votre commande. Cependant, si vous vous inscrivez dans « Mon compte », vous pouvez choisir d'enregistrer les informations de votre carte de paiement dans votre compte pour que vous n'ayez pas à re-saisir toutes les données lors de votre prochain achat. Veuillez consulter la section 7. COMMENT LA SÉCURITÉ DE MES DONNÉES PERSONNELLES EST-ELLE ASSURÉE ? pour en savoir plus sur la manière dont nous protégeons les informations de votre carte de paiement ;
+* **Informations relatives aux transactions** : Nous conservons votre historique de commande, notamment les produits achetés, la date, l'heure et la valeur de la transaction, ainsi que vos adresses de facturation et de livraison ;
+* **Identifiant de compte** : Si vous vous inscrivez au service « Mon compte », nous conservons votre nom d'utilisateur et votre adresse e-mail au cas où vous auriez besoin que l'on vous les rappelle ultérieurement ;
+*  **Correspondance et avis** : Nous recueillons toute autre donnée personnelle que vous nous fournissez de temps à autre lorsque vous vous rendez dans un magasin New Balance, que vous répondez à une enquête ou à un questionnaire ou que vous nous contactez par e-mail, courrier, téléphone ou par le biais de notre site Internet. Si vous nous contactez par téléphone, nous pourrons également enregistrer l'appel à des fins de formation et d'amélioration de notre service, et prendre des notes relatives à votre appel ; et
+* **Préférences en matière de marketing et de communication** : Nous recueillons des informations sur la manière dont vous préférez recevoir des messages marketing de notre part, ainsi que vos préférences en matière de communication.
 
 **Informations que vous nous communiquez quand vous participez à l'expérience Stride I.D.**
 
@@ -142,14 +142,14 @@ Nous communiquons les données de mesures (mais jamais vos coordonnées) à Volu
 
 Il se peut également que nous obtenions des informations à votre sujet par le biais d'autres sources :
 
-*   **Caméras de surveillance** : Si vous vous rendez dans un magasin New Balance, il se peut que nous recueillions votre image par le biais de nos caméras de surveillance.
-*   **Cookies et autres technologies similaires;**
-*   votre activité de navigation et utilisation du service ; et
-*   l'appareil que vous avez utilisé pour accéder à notre site Internet (notamment sa marque, son modèle et son système d'exploitation, son adresse IP (par laquelle nous pourrons obtenir votre position géographique), votre type de navigateur et les identifiants de votre appareil mobile).
+* **Caméras de surveillance** : Si vous vous rendez dans un magasin New Balance, il se peut que nous recueillions votre image par le biais de nos caméras de surveillance.
+* **Cookies et autres technologies similaires;**
+* votre activité de navigation et utilisation du service ; et
+* l'appareil que vous avez utilisé pour accéder à notre site Internet (notamment sa marque, son modèle et son système d'exploitation, son adresse IP (par laquelle nous pourrons obtenir votre position géographique), votre type de navigateur et les identifiants de votre appareil mobile).
 
 Nous engageons également des tiers qui placent des cookies sur notre site Internet pour recueillir le même type d'informations ou des informations similaires et qui communiquent ces informations à New Balance. Pour plus de détails, veuillez consulter notre politique en matière de cookies.
 
-**Réseaux sociaux** : Si vous mentionnez New Balance ou des informations en lien avec New Balance dans une publication sur une plateforme de réseaux sociaux comme Facebook, Instagram ou YouTube, nous pourrons recueillir des informations disponibles publiquement sur votre publication, notamment votre nom, votre pseudo, votre situation géographique, la date et l'heure de votre publication, le contenu de celle-ci et toute image/vidéo qu'elle contient. Nous ne recueillerons que les données que le fournisseur de réseaux sociaux nous aura expressément autorisés à recevoir en fonction des paramètres de sécurité que vous avez mis en place sur ces réseaux sociaux. Nous n'avons aucun contrôle sur les pratiques des plateformes de réseaux sociaux en matière de confidentialité ; veuillez consulter leurs déclarations de confidentialité pour plus de détails sur la façon dont elles utilisent vos données personnelles, avec qui elles les partagent, et en savoir plus sur la gestion de vos paramètres de sécurité sur ces plateformes.
+**Réseaux sociaux** : Si vous mentionnez New Balance ou des informations en lien avec New Balance dans une publication sur une plateforme de réseaux sociaux comme Facebook, Instagram ou YouTube, nous pourrons recueillir des informations disponibles publiquement sur votre publication, notamment votre nom, votre pseudo, votre situation géographique, la date et l'heure de votre publication, le contenu de celle-ci et toute image/vidéo qu'elle contient. Nous ne recueillerons que les données que le fournisseur de réseaux sociaux nous aura expressément autorisés à recevoir en fonction des paramètres de sécurité que vous avez mis en place sur ces réseaux sociaux. Nous n'avons aucun contrôle sur les pratiques des plateformes de réseaux sociaux en matière de confidentialité ; veuillez consulter leurs déclarations de confidentialité pour plus de détails sur la façon dont elles utilisent vos données personnelles, avec qui elles les partagent, et en savoir plus sur la gestion de vos paramètres de sécurité sur ces plateformes.
 
 **Fit Finder** : Si vous utilisez l'option « Fit Finder » sur notre site, nous recueillerons des données sur votre stature, votre poids, votre morphologie, votre taille de vêtements, vos préférences en matière de taille et votre âge, afin de vous recommander une taille qui vous convient en fonction des tailles achetées par d'autres personnes qui vous ressemblent. Les données que vous envoyez ne permettent pas de vous identifier et nous n'établissons aucun lien entre les informations que vous fournissez via cette fonctionnalité et vous ou votre compte.
 
@@ -172,13 +172,13 @@ Si vous souhaitez créer un compte par le biais du service « Mon compte », nou
 
 Nous devons traiter vos données personnelles afin de vous fournir certains services par le biais de notre site Internet. Par exemple, New Balance utilise vos données personnelles aux fins suivantes afin de vous fournir des services disponibles par le biais de notre site Internet :
 
-*   **Fonctionnalité « Trouver un magasin »** : quand vous entrez votre code postal ou votre ville, nous pouvons vous aider à localiser un magasin New Balance ;
-*   **Stock :** Nous utilisons les informations sur votre localisation pour vous recommander des magasins à proximité qui disposent de produits en stock ;
-*   **« Aide » ou « Discussion en direct »** : Les représentants du service clientèle New Balance peuvent être amenés à vous contacter en temps réel pour répondre à toutes questions que vous pourriez avoir quand vous naviguez sur notre site Internet ;
-*   **Suggestion d'idées :** pour soumettre une invention ou une idée à New Balance, nous vous demandons de remplir un formulaire de proposition avec votre nom, le nom de votre entreprise, votre adresse, votre numéro de téléphone et votre e-mail pour que nous puissions vous contacter si besoin au sujet de votre proposition ;
-*   **Candidature** : si vous postulez à un emploi sur notre site Internet, vous serez transféré sur le site de notre prestataire Workday et votre adresse e-mail vous sera demandée pour créer un compte Workday ;
-*   **Fonctionnalité « Fit Finder »** : nous recueillons des informations sur votre taille et d'autres informations personnelles pour nous aider à vous recommander une taille pour un produit spécifique ; et/ou
-*   **Newsletter** : quand vous vous inscrivez à nos newsletters, nous recueillons votre adresse e-mail afin de pouvoir vous les envoyer.
+* **Fonctionnalité « Trouver un magasin »** : quand vous entrez votre code postal ou votre ville, nous pouvons vous aider à localiser un magasin New Balance ;
+* **Stock :** Nous utilisons les informations sur votre localisation pour vous recommander des magasins à proximité qui disposent de produits en stock ;
+* **« Aide » ou « Discussion en direct »** : Les représentants du service clientèle New Balance peuvent être amenés à vous contacter en temps réel pour répondre à toutes questions que vous pourriez avoir quand vous naviguez sur notre site Internet ;
+* **Suggestion d'idées :** pour soumettre une invention ou une idée à New Balance, nous vous demandons de remplir un formulaire de proposition avec votre nom, le nom de votre entreprise, votre adresse, votre numéro de téléphone et votre e-mail pour que nous puissions vous contacter si besoin au sujet de votre proposition ;
+* **Candidature** : si vous postulez à un emploi sur notre site Internet, vous serez transféré sur le site de notre prestataire Workday et votre adresse e-mail vous sera demandée pour créer un compte Workday ;
+* **Fonctionnalité « Fit Finder »** : nous recueillons des informations sur votre taille et d'autres informations personnelles pour nous aider à vous recommander une taille pour un produit spécifique ; et/ou
+* **Newsletter** : quand vous vous inscrivez à nos newsletters, nous recueillons votre adresse e-mail afin de pouvoir vous les envoyer.
 
 **Pour gérer votre relation avec nous**
 
@@ -188,11 +188,11 @@ Nous utilisons les informations sur votre identité et vos coordonnées pour gé
 
 Si vous participez à l'expérience Stride I.D et que vous nous avez autorisés à le faire, nous utilisons les informations recueillies auprès de vous pour :
 
-*   vous envoyer une copie du scan 3D de votre pied et (le cas échéant) une capture d'image de votre course pour analyse de votre foulée, ou vous permettre d'y accéder via votre compte New Balance ;
-*   vous communiquer notre analyse et vous conseiller sur les produits les mieux adaptés à vos besoins ;
-*   vous appeler pour obtenir un retour sur votre expérience Stride I.D. et les performances de nos produits ;
-*   vous contacter soit par téléphone, soit par e-mail, au sujet d'autres produits, services et offres New Balance lorsque vous avez accepté de recevoir ces communications marketing de notre part ; et
-*   effectuer une analyse sur les informations reçues (sur une base agrégée et non identifiable) pour nous aider à améliorer notre expérience Stride I.D.
+* vous envoyer une copie du scan 3D de votre pied et (le cas échéant) une capture d'image de votre course pour analyse de votre foulée, ou vous permettre d'y accéder via votre compte New Balance ;
+* vous communiquer notre analyse et vous conseiller sur les produits les mieux adaptés à vos besoins ;
+* vous appeler pour obtenir un retour sur votre expérience Stride I.D. et les performances de nos produits ;
+* vous contacter soit par téléphone, soit par e-mail, au sujet d'autres produits, services et offres New Balance lorsque vous avez accepté de recevoir ces communications marketing de notre part ; et
+* effectuer une analyse sur les informations reçues (sur une base agrégée et non identifiable) pour nous aider à améliorer notre expérience Stride I.D.
 
 Pour plus d'informations sur l'expérience Stride I.D., consultez la section 3. QUELLES DONNÉES PERSONNELLES SONT RECUEILLIES PAR NEW BALANCE À MON SUJET ET COMMENT.
 
@@ -244,9 +244,9 @@ Nous utilisons vos données personnelles pour nous faire une idée plus précise
 
 Cela nous permet de mieux vous servir en tant que client, car les informations que nous recueillons nous aident à améliorer :
 
-*   notre site Internet et les systèmes de technologies de l'information (y compris la sécurité) que nous utilisons pour les exploiter ;
-*   notre sélection de produits et les services que nous proposons sur notre site Internet ; et
-*   l'efficacité des communications marketing que nous vous adressons.
+* notre site Internet et les systèmes de technologies de l'information (y compris la sécurité) que nous utilisons pour les exploiter ;
+* notre sélection de produits et les services que nous proposons sur notre site Internet ; et
+* l'efficacité des communications marketing que nous vous adressons.
 
 Veuillez consulter notre POLITIQUE EN MATIÈRE DE COOKIES pour en savoir plus sur notre utilisation des cookies et la façon dont vous pouvez gérer vos préférences.
 
@@ -271,9 +271,9 @@ La loi sur la protection des données exige de nous que nous ne traitions vos do
 
 Dans certaines circonstances, nous traitons vos données personnelles après avoir obtenu votre consentement aux fins suivantes :
 
-*   pour vous envoyer des communications marketing ;
-*   pour réaliser des études de marché ; et
-*   pour gérer notre expérience Stride I.D. et conseiller à nos clients les chaussures qui leur vont le mieux grâce à cette expérience.
+* pour vous envoyer des communications marketing ;
+* pour réaliser des études de marché ; et
+* pour gérer notre expérience Stride I.D. et conseiller à nos clients les chaussures qui leur vont le mieux grâce à cette expérience.
 
 **Nécessité pour exécuter un contrat entre nous**
 
@@ -281,19 +281,19 @@ Nous devons traiter les informations sur votre identité, vos coordonnées, votr
 
 **Nécessité pour respecter nos obligations légales**
 
- Dans certaines circonstances, nous utilisons vos données personnelles uniquement dans la mesure où elles nous permettent de respecter nos obligations légales, notamment de détecter, prévenir et enquêter sur des fraudes ou pour permettre l'exercice de vos droits en tant que consommateur.
+﻿Dans certaines circonstances, nous utilisons vos données personnelles uniquement dans la mesure où elles nous permettent de respecter nos obligations légales, notamment de détecter, prévenir et enquêter sur des fraudes ou pour permettre l'exercice de vos droits en tant que consommateur.
 
 **Nécessité aux fins de nos intérêts légitimes**
 
 Nous devons parfois recueillir et utiliser vos données personnelles conformément à la présente politique de confidentialité aux fins de nos intérêts légitimes en tant qu'entreprise, à savoir :
 
-*   offrir à nos clients les produits et services les plus utiles et avantageux possibles, notamment en personnalisant notre contact avec nos clients et en les informant des offres que nous jugeons intéressantes pour eux ;
-*   développer et améliorer notre site Internet pour perfectionner l'expérience client ;
-*   préserver la sécurité et le bon fonctionnement du service ;
-*   mieux comprendre notre base clients en interagissant avec eux et en réalisant des recherches et des analyses sur la manière dont les clients utilisent chacun de nos services et interagissent avec nous afin d'améliorer ces services ainsi que notre sélection produits, nos activités marketing et notre communication (tout ceci pourrait également être avantageux pour vous) ;
-*   former notre personnel afin d'offrir à nos clients un meilleur service ;
-*   garantir une gestion opérationnelle et une gestion interne efficaces de nos activités, notamment en ce qui concerne la mise à jour de nos registres et de notre site Internet, la conservation de documents, la sécurité informatique, la conformité avec les directives réglementaires et l'exercice ou la défense d'un droit en justice ; et
-*   fournir un environnement plus sûr à nos visiteurs et à notre personnel dans les magasins New Balance, ainsi que protéger nos biens.
+* offrir à nos clients les produits et services les plus utiles et avantageux possibles, notamment en personnalisant notre contact avec nos clients et en les informant des offres que nous jugeons intéressantes pour eux ;
+* développer et améliorer notre site Internet pour perfectionner l'expérience client ;
+* préserver la sécurité et le bon fonctionnement du service ;
+* mieux comprendre notre base clients en interagissant avec eux et en réalisant des recherches et des analyses sur la manière dont les clients utilisent chacun de nos services et interagissent avec nous afin d'améliorer ces services ainsi que notre sélection produits, nos activités marketing et notre communication (tout ceci pourrait également être avantageux pour vous) ;
+* former notre personnel afin d'offrir à nos clients un meilleur service ;
+* garantir une gestion opérationnelle et une gestion interne efficaces de nos activités, notamment en ce qui concerne la mise à jour de nos registres et de notre site Internet, la conservation de documents, la sécurité informatique, la conformité avec les directives réglementaires et l'exercice ou la défense d'un droit en justice ; et
+* fournir un environnement plus sûr à nos visiteurs et à notre personnel dans les magasins New Balance, ainsi que protéger nos biens.
 
 Veuillez nous contacter si vous souhaitez en savoir plus sur les tests d'équilibrage que nous avons effectué (voir section 15. COMMENT PUIS-JE CONTACTER NEW BALANCE SI J'AI DES QUESTIONS OU RÉCLAMATIONS SUR LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ ?).
 
@@ -304,7 +304,7 @@ Nous pourrons être amenés à partager vos données personnelles avec les entre
 
 **Sociétés affiliées de New Balance** : Le siège de notre entreprise est basé aux États-Unis et nos activités s'étendent au monde entier. Afin de vous fournir les services que vous nous demandez, y compris de participer à l'expérience Stride I.D., nos sociétés affiliées et les magasins participants pourront avoir besoin d'accéder à vos données personnelles. Nos sociétés affiliées n'utiliseront vos informations qu'aux fins pour lesquelles elles ont initialement été recueillies conformément à la présente politique de confidentialité. Certaines de nos sociétés affiliées sont situées dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous le faisons dans le cadre de contrats spécifiques approuvés par la Commission européenne, qui confèrent aux données personnelles le même niveau de protection qu'elles ont au sein de l'EEE, comme décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
 
-**Prestataires de service tiers** : Afin de mener nos activités, nous pouvons être amenés à transférer vos données personnelles à nos prestataires de services tiers qui utilisent ces informations pour gérer les activités de New Balance pour notre compte et agissent comme « sous-traitants de données » en notre nom aux fins de la législation applicable en matière de protection des données. Certains de nos prestataires de services tiers sont situés dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous nous assurons que des garanties adéquates sont en place pour les protéger, notamment en ayant recours à des contrats spécifiques approuvés par la Commission européenne et/ou en veillant à ce que les prestataires de services situés aux États-Unis fassent partie du bouclier de protection des données UE-États-Unis, tel que décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
+**Prestataires de service tiers** : Afin de mener nos activités, nous pouvons être amenés à transférer vos données personnelles à nos prestataires de services tiers qui utilisent ces informations pour gérer les activités de New Balance pour notre compte et agissent comme « sous-traitants de données » en notre nom aux fins de la législation applicable en matière de protection des données. Certains de nos prestataires de services tiers sont situés dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous nous assurons que des garanties adéquates sont en place pour les protéger, notamment en ayant recours à des contrats spécifiques approuvés par la Commission européenne et/ou en veillant à ce que les prestataires de services situés aux États-Unis fassent partie du bouclier de protection des données UE-États-Unis, tel que décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
 
 Nos prestataires de services tiers nous assistent, par exemple, dans le traitement des cartes bancaires, l'expédition, la gestion des données, la distribution d'e-mails, l'analyse d'informations, la gestion des promotions et d'autres services connexes pour le compte de New Balance. Nous communiquons à nos prestataires de services préférentiels les données personnelles dont ils ont besoin pour exécuter leurs services et collaborons avec eux pour garantir la protection de ces données.
 
@@ -373,11 +373,11 @@ Vos données personnelles ne sont pas conservées plus longtemps que nécessaire
 
   
 
-*   nos obligations légales en vertu de la loi applicable qui nous imposent de conserver des informations pendant une certaine durée ;
-*   le délai de prescription en vertu de la loi applicable ;
-*   la période de garantie des produits que vous nous avez achetés ;
-*   les litiges existants ou potentiels ; et
-*   les directives émises par les autorités de protection des données compétentes.
+* nos obligations légales en vertu de la loi applicable qui nous imposent de conserver des informations pendant une certaine durée ;
+* le délai de prescription en vertu de la loi applicable ;
+* la période de garantie des produits que vous nous avez achetés ;
+* les litiges existants ou potentiels ; et
+* les directives émises par les autorités de protection des données compétentes.
 
 **12\.** Quels sont mes droits en matière de confidentialité**?**
 -----------------------------------------------------------------
@@ -423,9 +423,9 @@ Si vous avez des questions ou des inquiétudes concernant la présente politique
 
 Si vous n'êtes pas satisfait de notre réponse à votre demande ou réclamation, ou si vous estimez que notre utilisation de vos données personnelles ne respecte pas la loi applicable en matière de protection des données, vous pouvez porter plainte auprès du commissaire à l'information (ICO) :
 
-*   en écrivant à l'adresse suivante : Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF Royaume-Uni ;
-*   en téléphonant au : +44 (0)303 123 1113 ; ou
-*   en envoyant un message via le site ICO : www.ico.org.uk.
+* en écrivant à l'adresse suivante : Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF Royaume-Uni ;
+* en téléphonant au : +44 (0)303 123 1113 ; ou
+* en envoyant un message via le site ICO : www.ico.org.uk.
 
 Vous n'aurez aucuns frais à payer pour accéder à vos données personnelles (ou pour exercer l'un de vos autres droits). Nous pourrons toutefois facturer des frais raisonnables si votre requête est manifestement infondée, excessive ou répétée ; nous pourrons également refuser de répondre à votre demande dans de tels cas.
 
@@ -453,11 +453,11 @@ La présente politique en matière de cookies explique ce que sont les cookies, 
 
 La présente politique en matière de cookies est structurée de sorte que vous puissiez cliquer directement sur les sections listées ci-après :
 
-1.  Qu’est-ce qu'un cookie ?
-2.  Pourquoi new balance utilise-t-elle des cookies ?
-3.  Comment new balance utilise-t-elle les cookies ?
-4.  Comment puis-je gérer mes préférences en matière de cookies ?
-5.  Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
+1. Qu’est-ce qu'un cookie ?
+2. Pourquoi new balance utilise-t-elle des cookies ?
+3. Comment new balance utilise-t-elle les cookies ?
+4. Comment puis-je gérer mes préférences en matière de cookies ?
+5. Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
 
 **1\.** Qu’est-ce qu'un cookie **?**
 ------------------------------------
@@ -475,13 +475,13 @@ Les pixels-espions et balises Internet sont de minuscules images qui permettent 
 
 Nous utilisons des cookies pour recueillir des informations sur votre activité de navigation et la manière dont vous utilisez nos services, ainsi que sur l'appareil que vous avez utilisé pour accéder à notre site Internet (y compris, dans certains cas, l'adresse IP, le type de navigateur et les identifiants de l'appareil mobile) afin de pouvoir :
 
-*   offrir des fonctionnalités essentielles sur notre site Internet, qui vous permettent de choisir des produits, de les ajouter à votre panier et d'effectuer un achat ;
-*   rendre notre site Internet aussi simple et intuitif que possible ;
-*   suivre et analyser l'utilisation et les performances de notre site Internet afin de pouvoir mesurer son efficacité, améliorer son fonctionnement (y compris sa sécurité), ainsi que le choix de produits et de services qui y sont proposés ;
-*   vous reconnaître lorsque vous revenez sur notre site Internet afin d'améliorer sa fonctionnalité dans votre intérêt, particulièrement si vous avez choisi d'utiliser le service « Mon compte » ;
-*   pour que New Balance puisse faire sa promotion, tout particulièrement par le biais de bannières publicitaires et d'actualités ciblées ;
-*   vous alerter sur des nouveautés qui pourraient vous intéresser ; et
-*   se souvenir de certaines informations concernant votre activité de navigation sur notre site Internet, telles que les pages ou les produits que vous avez consultés, ainsi que vos préférences.
+* offrir des fonctionnalités essentielles sur notre site Internet, qui vous permettent de choisir des produits, de les ajouter à votre panier et d'effectuer un achat ;
+* rendre notre site Internet aussi simple et intuitif que possible ;
+* suivre et analyser l'utilisation et les performances de notre site Internet afin de pouvoir mesurer son efficacité, améliorer son fonctionnement (y compris sa sécurité), ainsi que le choix de produits et de services qui y sont proposés ;
+* vous reconnaître lorsque vous revenez sur notre site Internet afin d'améliorer sa fonctionnalité dans votre intérêt, particulièrement si vous avez choisi d'utiliser le service « Mon compte » ;
+* pour que New Balance puisse faire sa promotion, tout particulièrement par le biais de bannières publicitaires et d'actualités ciblées ;
+* vous alerter sur des nouveautés qui pourraient vous intéresser ; et
+* se souvenir de certaines informations concernant votre activité de navigation sur notre site Internet, telles que les pages ou les produits que vous avez consultés, ainsi que vos préférences.
 
 Ces informations peuvent ensuite être utilisées pour personnaliser et améliorer la façon dont vous interagissez avec notre site Internet (par exemple, pour afficher du contenu que nous jugeons pertinent pour vous en fonction de votre précédente activité) et pour vous informer des offres spéciales et promotions personnalisées selon vos centres d'intérêt (lorsque vous avez accepté de recevoir des communications marketing de notre part).
 
@@ -520,8 +520,8 @@ Veuillez noter que des tiers (notamment, des réseaux publicitaires et prestatai
 
 Nous travaillons avec plusieurs prestataires de services de suivi. Les cookies utilisés car ces prestataires de service leur permettent d'enregistrer les transactions commerciales générées par des leads et publicités tiers et nous permettent de payer une commission aux initiateurs de ces leads. Le but des cookies de suivi est d'associer une publicité efficace à une transaction particulière et d'assurer la facturation correspondante. Ce suivi n'implique ni la collecte ni le traitement de données personnelles identifiables. Pour en savoir plus sur ces cookies, veuillez visiter les sites de nos prestataires :
 
-*   **https://www.conversantmedia.eu/legal/cookie-list**
-*   **https://www.awin.com/gb/legal/privacy-policy**
+* **https://www.conversantmedia.eu/legal/cookie-list**
+* **https://www.awin.com/gb/legal/privacy-policy**
 
 **4\.** Comment puis-je gérer mes préférences en matière de cookies **?**
 -------------------------------------------------------------------------
@@ -604,27 +604,27 @@ Veuillez noter que vous avez le droit de vous opposer au traitement de vos donn�
 
 La présente politique de confidentialité s'applique à toutes les données personnelles recueillies par New Balance Athletic Shoes (U.K.) Limited et ses sociétés affiliées, dans les magasins New Balance ou par le biais des services suivants: www.newbalance.co.uk, et tout autre site Internet exploité par New Balance Athletics Shoes (U.K.) Limited ou en son nom, y compris, mais sans s'y limiter, les sites suivants (le « site Internet ») :
 
-*   www.newbalance.de
-*   www.newbalance.es
-*   www.newbalance.pt
-*   www.newbalance.ie
-*   www.newbalance.se
-*   www.newbalance.lv
-*   si.newbalance.eu
-*   www.newbalance.fr
-*   www.newbalance.it
-*   www.newbalance.be
-*   dk.newbalance.eu
-*   fi.newbalance.eu
-*   www.newbalance.lu
-*   ee.newbalance.eu
-*   lt.newbalance.eu
-*   nl.newbalance.eu
-*   at.newbalance.eu
-*   www.newbalance.com.gr
-*   www.newbalance.co.hu
-*   cz.newbalance.eu
-*   www.nbblackoutsquad.com ;
+* www.newbalance.de
+* www.newbalance.es
+* www.newbalance.pt
+* www.newbalance.ie
+* www.newbalance.se
+* www.newbalance.lv
+* si.newbalance.eu
+* www.newbalance.fr
+* www.newbalance.it
+* www.newbalance.be
+* dk.newbalance.eu
+* fi.newbalance.eu
+* www.newbalance.lu
+* ee.newbalance.eu
+* lt.newbalance.eu
+* nl.newbalance.eu
+* at.newbalance.eu
+* www.newbalance.com.gr
+* www.newbalance.co.hu
+* cz.newbalance.eu
+* www.nbblackoutsquad.com ;
 
   
 
@@ -652,18 +652,18 @@ Les données personnelles sont définies comme toute information qui vous identi
 
 Nous collectons auprès de vous les données personnelles suivantes:
 
-*   **Données de base sur votre identité et vos coordonnées:** Nous recueillons vos nom, civilité, adresse postale/de livraison, adresse e-mail et numéro de téléphone si vous achetez un produit sur notre site Internet. Nous sommes également susceptibles de recueillir toutes ces informations (ou une partie) dans les cas suivants : 
-*   quand vous vous inscrivez au service « Mon compte » sur notre site Internet;
-*   quand vous remplissez le questionnaire « À propos de moi » pour nous indiquer vos préférences en matière de shopping, et dans lequel nous sommes également susceptibles de recueillir vos sexe, pointure, taille de vêtement, hobbies, préférences d'achat, ainsi que des informations sur vos entraînements hebdomadaires, vos enfants et leur sexe; 
-*   quand vous vous inscrivez pour recevoir nos communications marketing ;
-*   quand vous vous inscrivez pour recevoir nos communications marketing ; quand vous vous inscrivez à nos compétitions, concours, promotions, enquêtes ou questionnaires, pour lesquels nous pourrons également recueillir vos pseudonymes sur les réseaux sociaux ; 
-*   quand vous nous contactez ou entamez une correspondance avec nous à propos du service (ou l'un de ses composants) ;
-*   et/ou quand vous participez à un club de running New Balance.
-*   **Informations relatives au paiement :** Nous recueillons des informations sur votre carte de paiement et votre adresse de facturation si vous achetez un produit sur notre site Internet. Nous ne conservons pas les informations sur votre carte de paiement plus longtemps que ce qui est nécessaire au traitement de votre commande. Cependant, si vous vous inscrivez dans « Mon compte », vous pouvez choisir d'enregistrer les informations de votre carte de paiement dans votre compte pour que vous n'ayez pas à re-saisir toutes les données lors de votre prochain achat. Veuillez consulter la section 7. COMMENT LA SÉCURITÉ DE MES DONNÉES PERSONNELLES EST-ELLE ASSURÉE ? pour en savoir plus sur la manière dont nous protégeons les informations de votre carte de paiement ;
-*   **Informations relatives aux transactions** : Nous conservons votre historique de commande, notamment les produits achetés, la date, l'heure et la valeur de la transaction, ainsi que vos adresses de facturation et de livraison ;
-*   **Identifiant de compte** : Si vous vous inscrivez au service « Mon compte », nous conservons votre nom d'utilisateur et votre adresse e-mail au cas où vous auriez besoin que l'on vous les rappelle ultérieurement ;
-*    **Correspondance et avis** : Nous recueillons toute autre donnée personnelle que vous nous fournissez de temps à autre lorsque vous vous rendez dans un magasin New Balance, que vous répondez à une enquête ou à un questionnaire ou que vous nous contactez par e-mail, courrier, téléphone ou par le biais de notre site Internet. Si vous nous contactez par téléphone, nous pourrons également enregistrer l'appel à des fins de formation et d'amélioration de notre service, et prendre des notes relatives à votre appel ; et
-*   **Préférences en matière de marketing et de communication** : Nous recueillons des informations sur la manière dont vous préférez recevoir des messages marketing de notre part, ainsi que vos préférences en matière de communication.
+* **Données de base sur votre identité et vos coordonnées:** Nous recueillons vos nom, civilité, adresse postale/de livraison, adresse e-mail et numéro de téléphone si vous achetez un produit sur notre site Internet. Nous sommes également susceptibles de recueillir toutes ces informations (ou une partie) dans les cas suivants : 
+* quand vous vous inscrivez au service « Mon compte » sur notre site Internet;
+* quand vous remplissez le questionnaire « À propos de moi » pour nous indiquer vos préférences en matière de shopping, et dans lequel nous sommes également susceptibles de recueillir vos sexe, pointure, taille de vêtement, hobbies, préférences d'achat, ainsi que des informations sur vos entraînements hebdomadaires, vos enfants et leur sexe; 
+* quand vous vous inscrivez pour recevoir nos communications marketing ;
+* quand vous vous inscrivez pour recevoir nos communications marketing ; quand vous vous inscrivez à nos compétitions, concours, promotions, enquêtes ou questionnaires, pour lesquels nous pourrons également recueillir vos pseudonymes sur les réseaux sociaux ; 
+* quand vous nous contactez ou entamez une correspondance avec nous à propos du service (ou l'un de ses composants) ;
+* et/ou quand vous participez à un club de running New Balance.
+* **Informations relatives au paiement :** Nous recueillons des informations sur votre carte de paiement et votre adresse de facturation si vous achetez un produit sur notre site Internet. Nous ne conservons pas les informations sur votre carte de paiement plus longtemps que ce qui est nécessaire au traitement de votre commande. Cependant, si vous vous inscrivez dans « Mon compte », vous pouvez choisir d'enregistrer les informations de votre carte de paiement dans votre compte pour que vous n'ayez pas à re-saisir toutes les données lors de votre prochain achat. Veuillez consulter la section 7. COMMENT LA SÉCURITÉ DE MES DONNÉES PERSONNELLES EST-ELLE ASSURÉE ? pour en savoir plus sur la manière dont nous protégeons les informations de votre carte de paiement ;
+* **Informations relatives aux transactions** : Nous conservons votre historique de commande, notamment les produits achetés, la date, l'heure et la valeur de la transaction, ainsi que vos adresses de facturation et de livraison ;
+* **Identifiant de compte** : Si vous vous inscrivez au service « Mon compte », nous conservons votre nom d'utilisateur et votre adresse e-mail au cas où vous auriez besoin que l'on vous les rappelle ultérieurement ;
+*  **Correspondance et avis** : Nous recueillons toute autre donnée personnelle que vous nous fournissez de temps à autre lorsque vous vous rendez dans un magasin New Balance, que vous répondez à une enquête ou à un questionnaire ou que vous nous contactez par e-mail, courrier, téléphone ou par le biais de notre site Internet. Si vous nous contactez par téléphone, nous pourrons également enregistrer l'appel à des fins de formation et d'amélioration de notre service, et prendre des notes relatives à votre appel ; et
+* **Préférences en matière de marketing et de communication** : Nous recueillons des informations sur la manière dont vous préférez recevoir des messages marketing de notre part, ainsi que vos préférences en matière de communication.
 
 **Informations que vous nous communiquez quand vous participez à l'expérience Stride I.D.**
 
@@ -683,14 +683,14 @@ Nous communiquons les données de mesures (mais jamais vos coordonnées) à Volu
 
 Il se peut également que nous obtenions des informations à votre sujet par le biais d'autres sources :
 
-*   **Caméras de surveillance** : Si vous vous rendez dans un magasin New Balance, il se peut que nous recueillions votre image par le biais de nos caméras de surveillance.
-*   **Cookies et autres technologies similaires;**
-*   votre activité de navigation et utilisation du service ; et
-*   l'appareil que vous avez utilisé pour accéder à notre site Internet (notamment sa marque, son modèle et son système d'exploitation, son adresse IP (par laquelle nous pourrons obtenir votre position géographique), votre type de navigateur et les identifiants de votre appareil mobile).
+* **Caméras de surveillance** : Si vous vous rendez dans un magasin New Balance, il se peut que nous recueillions votre image par le biais de nos caméras de surveillance.
+* **Cookies et autres technologies similaires;**
+* votre activité de navigation et utilisation du service ; et
+* l'appareil que vous avez utilisé pour accéder à notre site Internet (notamment sa marque, son modèle et son système d'exploitation, son adresse IP (par laquelle nous pourrons obtenir votre position géographique), votre type de navigateur et les identifiants de votre appareil mobile).
 
 Nous engageons également des tiers qui placent des cookies sur notre site Internet pour recueillir le même type d'informations ou des informations similaires et qui communiquent ces informations à New Balance. Pour plus de détails, veuillez consulter notre politique en matière de cookies.
 
-**Réseaux sociaux** : Si vous mentionnez New Balance ou des informations en lien avec New Balance dans une publication sur une plateforme de réseaux sociaux comme Facebook, Instagram ou YouTube, nous pourrons recueillir des informations disponibles publiquement sur votre publication, notamment votre nom, votre pseudo, votre situation géographique, la date et l'heure de votre publication, le contenu de celle-ci et toute image/vidéo qu'elle contient. Nous ne recueillerons que les données que le fournisseur de réseaux sociaux nous aura expressément autorisés à recevoir en fonction des paramètres de sécurité que vous avez mis en place sur ces réseaux sociaux. Nous n'avons aucun contrôle sur les pratiques des plateformes de réseaux sociaux en matière de confidentialité ; veuillez consulter leurs déclarations de confidentialité pour plus de détails sur la façon dont elles utilisent vos données personnelles, avec qui elles les partagent, et en savoir plus sur la gestion de vos paramètres de sécurité sur ces plateformes.
+**Réseaux sociaux** : Si vous mentionnez New Balance ou des informations en lien avec New Balance dans une publication sur une plateforme de réseaux sociaux comme Facebook, Instagram ou YouTube, nous pourrons recueillir des informations disponibles publiquement sur votre publication, notamment votre nom, votre pseudo, votre situation géographique, la date et l'heure de votre publication, le contenu de celle-ci et toute image/vidéo qu'elle contient. Nous ne recueillerons que les données que le fournisseur de réseaux sociaux nous aura expressément autorisés à recevoir en fonction des paramètres de sécurité que vous avez mis en place sur ces réseaux sociaux. Nous n'avons aucun contrôle sur les pratiques des plateformes de réseaux sociaux en matière de confidentialité ; veuillez consulter leurs déclarations de confidentialité pour plus de détails sur la façon dont elles utilisent vos données personnelles, avec qui elles les partagent, et en savoir plus sur la gestion de vos paramètres de sécurité sur ces plateformes.
 
 **Fit Finder** : Si vous utilisez l'option « Fit Finder » sur notre site, nous recueillerons des données sur votre stature, votre poids, votre morphologie, votre taille de vêtements, vos préférences en matière de taille et votre âge, afin de vous recommander une taille qui vous convient en fonction des tailles achetées par d'autres personnes qui vous ressemblent. Les données que vous envoyez ne permettent pas de vous identifier et nous n'établissons aucun lien entre les informations que vous fournissez via cette fonctionnalité et vous ou votre compte.
 
@@ -713,13 +713,13 @@ Si vous souhaitez créer un compte par le biais du service « Mon compte », nou
 
 Nous devons traiter vos données personnelles afin de vous fournir certains services par le biais de notre site Internet. Par exemple, New Balance utilise vos données personnelles aux fins suivantes afin de vous fournir des services disponibles par le biais de notre site Internet :
 
-*   **Fonctionnalité « Trouver un magasin »** : quand vous entrez votre code postal ou votre ville, nous pouvons vous aider à localiser un magasin New Balance ;
-*   **Stock :** Nous utilisons les informations sur votre localisation pour vous recommander des magasins à proximité qui disposent de produits en stock ;
-*   **« Aide » ou « Discussion en direct »** : Les représentants du service clientèle New Balance peuvent être amenés à vous contacter en temps réel pour répondre à toutes questions que vous pourriez avoir quand vous naviguez sur notre site Internet ;
-*   **Suggestion d'idées :** pour soumettre une invention ou une idée à New Balance, nous vous demandons de remplir un formulaire de proposition avec votre nom, le nom de votre entreprise, votre adresse, votre numéro de téléphone et votre e-mail pour que nous puissions vous contacter si besoin au sujet de votre proposition ;
-*   **Candidature** : si vous postulez à un emploi sur notre site Internet, vous serez transféré sur le site de notre prestataire Workday et votre adresse e-mail vous sera demandée pour créer un compte Workday ;
-*   **Fonctionnalité « Fit Finder »** : nous recueillons des informations sur votre taille et d'autres informations personnelles pour nous aider à vous recommander une taille pour un produit spécifique ; et/ou
-*   **Newsletter** : quand vous vous inscrivez à nos newsletters, nous recueillons votre adresse e-mail afin de pouvoir vous les envoyer.
+* **Fonctionnalité « Trouver un magasin »** : quand vous entrez votre code postal ou votre ville, nous pouvons vous aider à localiser un magasin New Balance ;
+* **Stock :** Nous utilisons les informations sur votre localisation pour vous recommander des magasins à proximité qui disposent de produits en stock ;
+* **« Aide » ou « Discussion en direct »** : Les représentants du service clientèle New Balance peuvent être amenés à vous contacter en temps réel pour répondre à toutes questions que vous pourriez avoir quand vous naviguez sur notre site Internet ;
+* **Suggestion d'idées :** pour soumettre une invention ou une idée à New Balance, nous vous demandons de remplir un formulaire de proposition avec votre nom, le nom de votre entreprise, votre adresse, votre numéro de téléphone et votre e-mail pour que nous puissions vous contacter si besoin au sujet de votre proposition ;
+* **Candidature** : si vous postulez à un emploi sur notre site Internet, vous serez transféré sur le site de notre prestataire Workday et votre adresse e-mail vous sera demandée pour créer un compte Workday ;
+* **Fonctionnalité « Fit Finder »** : nous recueillons des informations sur votre taille et d'autres informations personnelles pour nous aider à vous recommander une taille pour un produit spécifique ; et/ou
+* **Newsletter** : quand vous vous inscrivez à nos newsletters, nous recueillons votre adresse e-mail afin de pouvoir vous les envoyer.
 
 **Pour gérer votre relation avec nous**
 
@@ -729,11 +729,11 @@ Nous utilisons les informations sur votre identité et vos coordonnées pour gé
 
 Si vous participez à l'expérience Stride I.D et que vous nous avez autorisés à le faire, nous utilisons les informations recueillies auprès de vous pour :
 
-*   vous envoyer une copie du scan 3D de votre pied et (le cas échéant) une capture d'image de votre course pour analyse de votre foulée, ou vous permettre d'y accéder via votre compte New Balance ;
-*   vous communiquer notre analyse et vous conseiller sur les produits les mieux adaptés à vos besoins ;
-*   vous appeler pour obtenir un retour sur votre expérience Stride I.D. et les performances de nos produits ;
-*   vous contacter soit par téléphone, soit par e-mail, au sujet d'autres produits, services et offres New Balance lorsque vous avez accepté de recevoir ces communications marketing de notre part ; et
-*   effectuer une analyse sur les informations reçues (sur une base agrégée et non identifiable) pour nous aider à améliorer notre expérience Stride I.D.
+* vous envoyer une copie du scan 3D de votre pied et (le cas échéant) une capture d'image de votre course pour analyse de votre foulée, ou vous permettre d'y accéder via votre compte New Balance ;
+* vous communiquer notre analyse et vous conseiller sur les produits les mieux adaptés à vos besoins ;
+* vous appeler pour obtenir un retour sur votre expérience Stride I.D. et les performances de nos produits ;
+* vous contacter soit par téléphone, soit par e-mail, au sujet d'autres produits, services et offres New Balance lorsque vous avez accepté de recevoir ces communications marketing de notre part ; et
+* effectuer une analyse sur les informations reçues (sur une base agrégée et non identifiable) pour nous aider à améliorer notre expérience Stride I.D.
 
 Pour plus d'informations sur l'expérience Stride I.D., consultez la section 3. QUELLES DONNÉES PERSONNELLES SONT RECUEILLIES PAR NEW BALANCE À MON SUJET ET COMMENT.
 
@@ -785,9 +785,9 @@ Nous utilisons vos données personnelles pour nous faire une idée plus précise
 
 Cela nous permet de mieux vous servir en tant que client, car les informations que nous recueillons nous aident à améliorer :
 
-*   notre site Internet et les systèmes de technologies de l'information (y compris la sécurité) que nous utilisons pour les exploiter ;
-*   notre sélection de produits et les services que nous proposons sur notre site Internet ; et
-*   l'efficacité des communications marketing que nous vous adressons.
+* notre site Internet et les systèmes de technologies de l'information (y compris la sécurité) que nous utilisons pour les exploiter ;
+* notre sélection de produits et les services que nous proposons sur notre site Internet ; et
+* l'efficacité des communications marketing que nous vous adressons.
 
 Veuillez consulter notre POLITIQUE EN MATIÈRE DE COOKIES pour en savoir plus sur notre utilisation des cookies et la façon dont vous pouvez gérer vos préférences.
 
@@ -812,9 +812,9 @@ La loi sur la protection des données exige de nous que nous ne traitions vos do
 
 Dans certaines circonstances, nous traitons vos données personnelles après avoir obtenu votre consentement aux fins suivantes :
 
-*   pour vous envoyer des communications marketing ;
-*   pour réaliser des études de marché ; et
-*   pour gérer notre expérience Stride I.D. et conseiller à nos clients les chaussures qui leur vont le mieux grâce à cette expérience.
+* pour vous envoyer des communications marketing ;
+* pour réaliser des études de marché ; et
+* pour gérer notre expérience Stride I.D. et conseiller à nos clients les chaussures qui leur vont le mieux grâce à cette expérience.
 
 **Nécessité pour exécuter un contrat entre nous**
 
@@ -822,19 +822,19 @@ Nous devons traiter les informations sur votre identité, vos coordonnées, votr
 
 **Nécessité pour respecter nos obligations légales**
 
- Dans certaines circonstances, nous utilisons vos données personnelles uniquement dans la mesure où elles nous permettent de respecter nos obligations légales, notamment de détecter, prévenir et enquêter sur des fraudes ou pour permettre l'exercice de vos droits en tant que consommateur.
+﻿Dans certaines circonstances, nous utilisons vos données personnelles uniquement dans la mesure où elles nous permettent de respecter nos obligations légales, notamment de détecter, prévenir et enquêter sur des fraudes ou pour permettre l'exercice de vos droits en tant que consommateur.
 
 **Nécessité aux fins de nos intérêts légitimes**
 
 Nous devons parfois recueillir et utiliser vos données personnelles conformément à la présente politique de confidentialité aux fins de nos intérêts légitimes en tant qu'entreprise, à savoir :
 
-*   offrir à nos clients les produits et services les plus utiles et avantageux possibles, notamment en personnalisant notre contact avec nos clients et en les informant des offres que nous jugeons intéressantes pour eux ;
-*   développer et améliorer notre site Internet pour perfectionner l'expérience client ;
-*   préserver la sécurité et le bon fonctionnement du service ;
-*   mieux comprendre notre base clients en interagissant avec eux et en réalisant des recherches et des analyses sur la manière dont les clients utilisent chacun de nos services et interagissent avec nous afin d'améliorer ces services ainsi que notre sélection produits, nos activités marketing et notre communication (tout ceci pourrait également être avantageux pour vous) ;
-*   former notre personnel afin d'offrir à nos clients un meilleur service ;
-*   garantir une gestion opérationnelle et une gestion interne efficaces de nos activités, notamment en ce qui concerne la mise à jour de nos registres et de notre site Internet, la conservation de documents, la sécurité informatique, la conformité avec les directives réglementaires et l'exercice ou la défense d'un droit en justice ; et
-*   fournir un environnement plus sûr à nos visiteurs et à notre personnel dans les magasins New Balance, ainsi que protéger nos biens.
+* offrir à nos clients les produits et services les plus utiles et avantageux possibles, notamment en personnalisant notre contact avec nos clients et en les informant des offres que nous jugeons intéressantes pour eux ;
+* développer et améliorer notre site Internet pour perfectionner l'expérience client ;
+* préserver la sécurité et le bon fonctionnement du service ;
+* mieux comprendre notre base clients en interagissant avec eux et en réalisant des recherches et des analyses sur la manière dont les clients utilisent chacun de nos services et interagissent avec nous afin d'améliorer ces services ainsi que notre sélection produits, nos activités marketing et notre communication (tout ceci pourrait également être avantageux pour vous) ;
+* former notre personnel afin d'offrir à nos clients un meilleur service ;
+* garantir une gestion opérationnelle et une gestion interne efficaces de nos activités, notamment en ce qui concerne la mise à jour de nos registres et de notre site Internet, la conservation de documents, la sécurité informatique, la conformité avec les directives réglementaires et l'exercice ou la défense d'un droit en justice ; et
+* fournir un environnement plus sûr à nos visiteurs et à notre personnel dans les magasins New Balance, ainsi que protéger nos biens.
 
 Veuillez nous contacter si vous souhaitez en savoir plus sur les tests d'équilibrage que nous avons effectué (voir section 15. COMMENT PUIS-JE CONTACTER NEW BALANCE SI J'AI DES QUESTIONS OU RÉCLAMATIONS SUR LA PRÉSENTE POLITIQUE DE CONFIDENTIALITÉ ?).
 
@@ -845,7 +845,7 @@ Nous pourrons être amenés à partager vos données personnelles avec les entre
 
 **Sociétés affiliées de New Balance** : Le siège de notre entreprise est basé aux États-Unis et nos activités s'étendent au monde entier. Afin de vous fournir les services que vous nous demandez, y compris de participer à l'expérience Stride I.D., nos sociétés affiliées et les magasins participants pourront avoir besoin d'accéder à vos données personnelles. Nos sociétés affiliées n'utiliseront vos informations qu'aux fins pour lesquelles elles ont initialement été recueillies conformément à la présente politique de confidentialité. Certaines de nos sociétés affiliées sont situées dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous le faisons dans le cadre de contrats spécifiques approuvés par la Commission européenne, qui confèrent aux données personnelles le même niveau de protection qu'elles ont au sein de l'EEE, comme décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
 
-**Prestataires de service tiers** : Afin de mener nos activités, nous pouvons être amenés à transférer vos données personnelles à nos prestataires de services tiers qui utilisent ces informations pour gérer les activités de New Balance pour notre compte et agissent comme « sous-traitants de données » en notre nom aux fins de la législation applicable en matière de protection des données. Certains de nos prestataires de services tiers sont situés dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous nous assurons que des garanties adéquates sont en place pour les protéger, notamment en ayant recours à des contrats spécifiques approuvés par la Commission européenne et/ou en veillant à ce que les prestataires de services situés aux États-Unis fassent partie du bouclier de protection des données UE-États-Unis, tel que décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
+**Prestataires de service tiers** : Afin de mener nos activités, nous pouvons être amenés à transférer vos données personnelles à nos prestataires de services tiers qui utilisent ces informations pour gérer les activités de New Balance pour notre compte et agissent comme « sous-traitants de données » en notre nom aux fins de la législation applicable en matière de protection des données. Certains de nos prestataires de services tiers sont situés dans des pays en dehors de l'EEE, et lorsque nous transférons vos données en dehors de cette zone, nous nous assurons que des garanties adéquates sont en place pour les protéger, notamment en ayant recours à des contrats spécifiques approuvés par la Commission européenne et/ou en veillant à ce que les prestataires de services situés aux États-Unis fassent partie du bouclier de protection des données UE-États-Unis, tel que décrit plus loin dans la section 8. TRANSFERTS INTERNATIONAUX DES DONNÉES PERSONNELLES.
 
 Nos prestataires de services tiers nous assistent, par exemple, dans le traitement des cartes bancaires, l'expédition, la gestion des données, la distribution d'e-mails, l'analyse d'informations, la gestion des promotions et d'autres services connexes pour le compte de New Balance. Nous communiquons à nos prestataires de services préférentiels les données personnelles dont ils ont besoin pour exécuter leurs services et collaborons avec eux pour garantir la protection de ces données.
 
@@ -914,11 +914,11 @@ Vos données personnelles ne sont pas conservées plus longtemps que nécessaire
 
   
 
-*   nos obligations légales en vertu de la loi applicable qui nous imposent de conserver des informations pendant une certaine durée ;
-*   le délai de prescription en vertu de la loi applicable ;
-*   la période de garantie des produits que vous nous avez achetés ;
-*   les litiges existants ou potentiels ; et
-*   les directives émises par les autorités de protection des données compétentes.
+* nos obligations légales en vertu de la loi applicable qui nous imposent de conserver des informations pendant une certaine durée ;
+* le délai de prescription en vertu de la loi applicable ;
+* la période de garantie des produits que vous nous avez achetés ;
+* les litiges existants ou potentiels ; et
+* les directives émises par les autorités de protection des données compétentes.
 
 **12\.** Quels sont mes droits en matière de confidentialité**?**
 -----------------------------------------------------------------
@@ -952,9 +952,9 @@ Si vous avez des questions ou des inquiétudes concernant la présente politique
 
 Si vous n'êtes pas satisfait de notre réponse à votre demande ou réclamation, ou si vous estimez que notre utilisation de vos données personnelles ne respecte pas la loi applicable en matière de protection des données, vous pouvez porter plainte auprès du commissaire à l'information (ICO) :
 
-*   en écrivant à l'adresse suivante : Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF Royaume-Uni ;
-*   en téléphonant au : +44 (0)303 123 1113 ; ou
-*   en envoyant un message via le site ICO : www.ico.org.uk.
+* en écrivant à l'adresse suivante : Information Commissioner’s Office, Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF Royaume-Uni ;
+* en téléphonant au : +44 (0)303 123 1113 ; ou
+* en envoyant un message via le site ICO : www.ico.org.uk.
 
 Vous n'aurez aucuns frais à payer pour accéder à vos données personnelles (ou pour exercer l'un de vos autres droits). Nous pourrons toutefois facturer des frais raisonnables si votre requête est manifestement infondée, excessive ou répétée ; nous pourrons également refuser de répondre à votre demande dans de tels cas.
 
@@ -982,11 +982,11 @@ La présente politique en matière de cookies explique ce que sont les cookies, 
 
 La présente politique en matière de cookies est structurée de sorte que vous puissiez cliquer directement sur les sections listées ci-après :
 
-1.  Qu’est-ce qu'un cookie ?
-2.  Pourquoi new balance utilise-t-elle des cookies ?
-3.  Comment new balance utilise-t-elle les cookies ?
-4.  Comment puis-je gérer mes préférences en matière de cookies ?
-5.  Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
+1. Qu’est-ce qu'un cookie ?
+2. Pourquoi new balance utilise-t-elle des cookies ?
+3. Comment new balance utilise-t-elle les cookies ?
+4. Comment puis-je gérer mes préférences en matière de cookies ?
+5. Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
 
 **1\.** Qu’est-ce qu'un cookie **?**
 ------------------------------------
@@ -1004,13 +1004,13 @@ Les pixels-espions et balises Internet sont de minuscules images qui permettent 
 
 Nous utilisons des cookies pour recueillir des informations sur votre activité de navigation et la manière dont vous utilisez nos services, ainsi que sur l'appareil que vous avez utilisé pour accéder à notre site Internet (y compris, dans certains cas, l'adresse IP, le type de navigateur et les identifiants de l'appareil mobile) afin de pouvoir :
 
-*   offrir des fonctionnalités essentielles sur notre site Internet, qui vous permettent de choisir des produits, de les ajouter à votre panier et d'effectuer un achat ;
-*   rendre notre site Internet aussi simple et intuitif que possible ;
-*   suivre et analyser l'utilisation et les performances de notre site Internet afin de pouvoir mesurer son efficacité, améliorer son fonctionnement (y compris sa sécurité), ainsi que le choix de produits et de services qui y sont proposés ;
-*   vous reconnaître lorsque vous revenez sur notre site Internet afin d'améliorer sa fonctionnalité dans votre intérêt, particulièrement si vous avez choisi d'utiliser le service « Mon compte » ;
-*   pour que New Balance puisse faire sa promotion, tout particulièrement par le biais de bannières publicitaires et d'actualités ciblées ;
-*   vous alerter sur des nouveautés qui pourraient vous intéresser ; et
-*   se souvenir de certaines informations concernant votre activité de navigation sur notre site Internet, telles que les pages ou les produits que vous avez consultés, ainsi que vos préférences.
+* offrir des fonctionnalités essentielles sur notre site Internet, qui vous permettent de choisir des produits, de les ajouter à votre panier et d'effectuer un achat ;
+* rendre notre site Internet aussi simple et intuitif que possible ;
+* suivre et analyser l'utilisation et les performances de notre site Internet afin de pouvoir mesurer son efficacité, améliorer son fonctionnement (y compris sa sécurité), ainsi que le choix de produits et de services qui y sont proposés ;
+* vous reconnaître lorsque vous revenez sur notre site Internet afin d'améliorer sa fonctionnalité dans votre intérêt, particulièrement si vous avez choisi d'utiliser le service « Mon compte » ;
+* pour que New Balance puisse faire sa promotion, tout particulièrement par le biais de bannières publicitaires et d'actualités ciblées ;
+* vous alerter sur des nouveautés qui pourraient vous intéresser ; et
+* se souvenir de certaines informations concernant votre activité de navigation sur notre site Internet, telles que les pages ou les produits que vous avez consultés, ainsi que vos préférences.
 
 Ces informations peuvent ensuite être utilisées pour personnaliser et améliorer la façon dont vous interagissez avec notre site Internet (par exemple, pour afficher du contenu que nous jugeons pertinent pour vous en fonction de votre précédente activité) et pour vous informer des offres spéciales et promotions personnalisées selon vos centres d'intérêt (lorsque vous avez accepté de recevoir des communications marketing de notre part).
 
@@ -1049,8 +1049,8 @@ Veuillez noter que des tiers (notamment, des réseaux publicitaires et prestatai
 
 Nous travaillons avec plusieurs prestataires de services de suivi. Les cookies utilisés car ces prestataires de service leur permettent d'enregistrer les transactions commerciales générées par des leads et publicités tiers et nous permettent de payer une commission aux initiateurs de ces leads. Le but des cookies de suivi est d'associer une publicité efficace à une transaction particulière et d'assurer la facturation correspondante. Ce suivi n'implique ni la collecte ni le traitement de données personnelles identifiables. Pour en savoir plus sur ces cookies, veuillez visiter les sites de nos prestataires :
 
-*   **https://www.conversantmedia.eu/legal/cookie-list**
-*   **https://www.awin.com/gb/legal/privacy-policy**
+* **https://www.conversantmedia.eu/legal/cookie-list**
+* **https://www.awin.com/gb/legal/privacy-policy**
 
 **4\.** Comment puis-je gérer mes préférences en matière de cookies **?**
 -------------------------------------------------------------------------
