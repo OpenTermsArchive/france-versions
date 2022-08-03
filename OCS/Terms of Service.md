@@ -38,9 +38,9 @@ Les présentes CGA ont pour objet de définir les conditions dans lesquelles OCS
 
 Plusieurs formules d’abonnements (ci-après désigné(s) « **Abonnement** » ou « **Abonnements** ») sont mises à disposition de l’Abonné :
 
-* Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur ;
-* Un Abonnement donnant accès au Service depuis un smartphone, une tablette, un ordinateur et sur un écran TV (via les terminaux définis sur [https://www.ocs.fr/offre](https://www.ocs.fr/offre) « voir les appareils compatibles ») ;
-* Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur, ainsi qu’au(x) service(s) de tiers dans le cas d’Offre Groupée. Dans cette hypothèse, l’Abonnement sera souscrit directement auprès du tiers partenaire. Pour un exemple d’Offre Groupée : « offre nouveaux abonnés UGC illimité » détaillée dans le lien suivant [https://www.ocs.fr/modalites](https://www.ocs.fr/modalites)
+*   Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur ;
+*   Un Abonnement donnant accès au Service depuis un smartphone, une tablette, un ordinateur et sur un écran TV (via les terminaux définis sur [https://www.ocs.fr/offre](https://www.ocs.fr/offre) « voir les appareils compatibles ») ;
+*   Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur, ainsi qu’au(x) service(s) de tiers dans le cas d’Offre Groupée. Dans cette hypothèse, l’Abonnement sera souscrit directement auprès du tiers partenaire. Pour un exemple d’Offre Groupée : « offre nouveaux abonnés UGC illimité » détaillée dans le lien suivant [https://www.ocs.fr/modalites](https://www.ocs.fr/modalites)
 
 En souscrivant à l’un des Abonnements, l’Abonné reconnaît expressément qu’il a pris connaissance des CGA et qu’il en accepte l’intégralité des termes, sans aucune réserve.
 
@@ -60,21 +60,21 @@ Le Service est accessible via le Site ou l’Application, sous réserve d’acti
 
 Navigateurs PC Windows 10 :
 
-* Mozilla Firefox 95 ou versions ultérieures
-* Google Chrome 95 ou versions ultérieures
-* Internet Explorer (PC)
-* compatibilité avec EDGE
+*   Mozilla Firefox 95 ou versions ultérieures
+*   Google Chrome 95 ou versions ultérieures
+*   Internet Explorer (PC)
+*   compatibilité avec EDGE
 
 Navigateurs PC Windows 7 et Windows 8 : 
 
-* Mozilla Firefox 95 ou versions ultérieures
-* Google Chrome 95 ou versions ultérieures
+*   Mozilla Firefox 95 ou versions ultérieures
+*   Google Chrome 95 ou versions ultérieures
 
 Navigateurs Mac : 
 
-* Mozilla Firefox 95 ou versions ultérieures
-* Google Chrome 95 ou versions ultérieures
-* Safari 10.1.2 (implique macOS 10.10 en minimum) ou versions ultérieures
+*   Mozilla Firefox 95 ou versions ultérieures
+*   Google Chrome 95 ou versions ultérieures
+*   Safari 10.1.2 (implique macOS 10.10 en minimum) ou versions ultérieures
 
 Etant précisé que concernant Mozilla Firefox, Explorer 10 et Safari 8, le logiciel Silverlight 5.0 ou supérieur doit être installé.
 
