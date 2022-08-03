@@ -519,4 +519,18 @@ Instagram : [https://www.facebook.com/policy.php](https://www.facebook.com/polic
 
 LinkedIn : [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
+### 2.4 Signalement sur Speakout@Flix (portail de dénonciation)
+
+Lorsque vous nous contactez via notre portail de dénonciation, « Speakout@Flix », nous collectons les données à caractère personnel que vous fournissez de votre propre initiative (par ex., nom et adresse e-mail). Vous pouvez effectuer un signalement via le portail Web ou par téléphone. 
+
+Vos données à caractère personnel ne seront utilisées que pour traiter votre signalement et dans le cadre d’enquêtes internes potentielles menées après votre signalement.
+
+La base juridique est l’article 6, paragraphe 1(a) du RGPD.
+
+Vos données sont fournies volontairement, et vous pouvez effectuer tous les signalements de manière anonyme. 
+
+Conformément à l’article 6, paragraphe 1(c) du RGPD, nous sommes légalement tenus de transférer vos données aux autorités publiques si cela est demandé. 
+
+Notre portail Web utilise un prestataire de services externe (Convercent, Inc.) comme sous-traitant.
+
 * * *
