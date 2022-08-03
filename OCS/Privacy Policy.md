@@ -10,15 +10,15 @@ Elle est susceptible d’être complétée par des informations spécifiques por
 
 Dans le cadre de la souscription et de l’utilisation du Service proposé par OCS au travers de son site internet ou de son application OCS, OCS traite :
 
-* des données d'identification : nom, prénom, adresse email, mot de passe, identifiant technique client.
+*   des données d'identification : nom, prénom, adresse email, mot de passe, identifiant technique client.
     
-* des données d’abonnement (caractéristiques et options d’Abonnement et changement d’offres)
+*   des données d’abonnement (caractéristiques et options d’Abonnement et changement d’offres)
     
-* des données financières : informations relatives à votre carte bancaire et votre historique de paiement (par exemple, information indiquant qu’il y a eu un refus de paiement).
+*   des données financières : informations relatives à votre carte bancaire et votre historique de paiement (par exemple, information indiquant qu’il y a eu un refus de paiement).
     
-* des données relatives à votre activité sur le Service: données de navigation, log de connexion, contenus visionnés ou mis en favoris, préférences, demande d’accès au Service depuis la France ou hors de France, données techniques correspondant aux terminaux de réception.
+*   des données relatives à votre activité sur le Service: données de navigation, log de connexion, contenus visionnés ou mis en favoris, préférences, demande d’accès au Service depuis la France ou hors de France, données techniques correspondant aux terminaux de réception.
     
-* le détail de nos échanges avec vous (par e-mail ou par formulaire de contact), lorsque vous nous contactez pour signaler un problème, poser une question, faire valoir vos droits ou encore lorsqu’OCS vous contacte pour vous informer sur le contenu du Service, des évènements ou des offres commerciales.
+*   le détail de nos échanges avec vous (par e-mail ou par formulaire de contact), lorsque vous nous contactez pour signaler un problème, poser une question, faire valoir vos droits ou encore lorsqu’OCS vous contacte pour vous informer sur le contenu du Service, des évènements ou des offres commerciales.
     
 
   
@@ -28,49 +28,49 @@ Dans le cadre de la souscription et de l’utilisation du Service proposé par O
 
 OCS traite vos données dans le cadre de l’exécution de mesures précontractuelles et/ou l’exécution d’un contrat (votre Abonnement au Service) pour les finalités suivantes :
 
-* gérer l’identité de l’Abonné et l’authentifier,
+*   gérer l’identité de l’Abonné et l’authentifier,
     
-* gérer l’Abonnement au Service (caractéristiques et options de l’Abonnement en fonction de l’offre commerciale),
+*   gérer l’Abonnement au Service (caractéristiques et options de l’Abonnement en fonction de l’offre commerciale),
     
-* facturer et encaisser les paiements liés à l’Abonnement,
+*   facturer et encaisser les paiements liés à l’Abonnement,
     
-* gérer les fonctionnalités du Service (gestion des favoris, version linguistique des programmes, reprise de lecture),
+*   gérer les fonctionnalités du Service (gestion des favoris, version linguistique des programmes, reprise de lecture),
     
-* proposer des recommandations personnalisées de contenus susceptibles de plaire à l’Abonné sur la base de ses usages,
+*   proposer des recommandations personnalisées de contenus susceptibles de plaire à l’Abonné sur la base de ses usages,
     
-* assurer le support client.
+*   assurer le support client.
     
-* accompagner les Abonnés à la découverte du Service sur les terminaux mobiles
+*   accompagner les Abonnés à la découverte du Service sur les terminaux mobiles
     
 
 Dans le cadre de ses intérêts légitimes, OCS met en œuvre les traitements poursuivant les finalités suivantes :
 
-* évaluer l’audience du Service selon les différents usages des Abonnés,
+*   évaluer l’audience du Service selon les différents usages des Abonnés,
     
-* améliorer le Service, le site et l’application en fonction des préférences, besoins et usages des utilisateurs (Abonnés ou prospects) et de la navigation le cas échéant si vous y avez consenti,
+*   améliorer le Service, le site et l’application en fonction des préférences, besoins et usages des utilisateurs (Abonnés ou prospects) et de la navigation le cas échéant si vous y avez consenti,
     
-* adresser aux Abonnés des newsletters,
+*   adresser aux Abonnés des newsletters,
     
-* organiser des animations commerciales et, le cas échéant si vous y avez consenti, vous faire des propositions commerciales issues de nos partenaires,
+*   organiser des animations commerciales et, le cas échéant si vous y avez consenti, vous faire des propositions commerciales issues de nos partenaires,
     
-* proposer aux Abonnés de participer à des jeux concours,
+*   proposer aux Abonnés de participer à des jeux concours,
     
-* sonder les Abonnés,
+*   sonder les Abonnés,
     
-* faciliter la réactivation de l’Abonnement,
+*   faciliter la réactivation de l’Abonnement,
     
-* prévenir toute utilisation abusive du Service, y compris de la Période d’essai,
+*   prévenir toute utilisation abusive du Service, y compris de la Période d’essai,
     
-* lutter contre la fraude aux moyens de paiement.
+*   lutter contre la fraude aux moyens de paiement.
     
 
 OCS traite également vos données pour répondre à ses obligations légales ou règlementaires et conserve les données requises pour être en mesure d’y répondre.
 
 OCS réalise également des traitements en se fondant sur votre consentement pour les finalités suivantes :
 
-* améliorer la navigation sur le Service,
+*   améliorer la navigation sur le Service,
     
-* envoyer par e-mail des informations sur les actualités du Service et jeux concours d’OCS si vous n’êtes pas Abonné au Service.
+*   envoyer par e-mail des informations sur les actualités du Service et jeux concours d’OCS si vous n’êtes pas Abonné au Service.
     
 
 **Pour quelle durée vos données sont-elles collectées?**
