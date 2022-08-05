@@ -1480,3 +1480,265 @@ Les vols réservés directement auprès d’une compagnie aérienne ne bénéfic
 
 TABLEAU DES TARIFS
 ==================
+
+### Tableau des tarifs et charges ryanair
+
+Les commissions sont sujet à la TVA sur les liaisons intérieures italiennes, françaises, espagnoles, portugaises, grècques, polonaises & roumaines et allemandes selon les taux gouvernementaux applicables.
+
+(Livre sterling/euro) ou monnaie locale équivalente
+
+Ryanair.com
+
+Après réservation / Aéroport
+
+En savoir plus
+
+EUR
+
+EUR
+
+Sieges avec plus d’espace pour les jambes
+
+Rangée 1, 2 (D,E,F) & 16-17
+
+€/£14 - €/£30
+
+(par vol)
+
+€/£14 - €/£30
+
+(par vol)
+
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+
+Sièges à l’avant
+
+Rangée 2 (A,B,C) - 5
+
+€ / £ 7 - € / £ 19
+
+(par vol)
+
+€ / £ 7 - € / £ 19
+
+(par vol)
+
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+
+Sièges standard
+
+Rangée 6-15 & 18-33
+
+€ / £ 3 - € / £ 15
+
+(par vol)
+
+€ / £ 3 - € / £ 15
+
+(par vol)
+
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+
+Sieges Familiaux Obligatoires
+
+Frais de
+
+€/£4 - €/£6
+
+(par vol)
+
+€/£4 - €/£6
+
+(par vol)
+
+Au moins un adulte voyageant avec des enfants de moins de 12 ans (à l'exception des bébés) doit acheter un siège réservé et s'asseoir à côté d'eux. Jusqu'à 4 enfants (moins de 12 ans) voyageant avec un adulte obtiendront des sièges réservés gratuits (sièges dans les rangées 18 à 33).
+
+Frais de réémission de carte d’embarquement
+
+n/a
+
+€/£20
+
+Frais d’enregistrement à l’aéroport
+
+n/a
+
+€/£55
+
+Gratuit pour les passagers Flexi Plus (et les passagers Plus ayant réservé après le 11 décembre 2019).
+
+(pour les vols depuis l'Espagne €/£30).
+
+Tarifs applicables aux nourrissons
+
+€/£25
+
+€/£25
+
+Par nourrisson/par trajet simple (aller ou retour). Si un nourrisson est âgé de moins de 24 mois pour le vol aller et de plus de 24 mois pour le vol retour, les tarifs applicables aux nourissons s’appliqueront au vol aller uniquement. Les tarifs normaux s’appliqueront au vol retour.
+
+Matériel de puériculture (poussette/réhausseur/lit parapluie)
+
+€/£15
+
+€/£20
+
+Prix par article/par trajet simple, aller ou retour. Deux articles d’équipement enfant/bébé transportés gratuitement. Une poussette par enfant transportée gratuitement, plus un des objets suivant : lit/berceau de voyage, siège d’appoint ou siège de voiture.
+
+Instrument de musique
+
+€/£50
+
+€/£65
+
+Prix par instrument/par trajet simple (aller ou retour) – max. 20kg.
+
+Équipements Volumineux
+
+€/£55
+
+€/£65
+
+Max. 20kg. Prix par équipement/par trajet simple (aller ou retour).
+
+Vélo
+
+€/£60
+
+€/£75
+
+Max. 30kg. Prix par vélo/par trajet simple (aller ou retour).
+
+Équipement sportif
+
+€/£35
+
+€/£40
+
+Prix par article/par trajet simple (aller ou retour). Max. 20kg par article.
+
+Equipement de Ski
+
+€/£45
+
+€/£50
+
+Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
+
+Équipements De Golf
+
+€/£30
+
+€/£35
+
+Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
+
+Frais de modification de vol
+
+Par passager/par vol aller simple 
+
+n/a
+
+45 €/£ changements en ligne/ 60 €/£ par l’intermédiaire d’un agent ou à l’aéroport
+
+Si vous apportez des changements en ligne, les frais s’élèveront à 45 €/£ par passager, par vol aller simple. Si vous contactez notre centre de réservation pour effectuer un changement ou si vous en demandez un à notre comptoir à l’aéroport, les frais s’élèveront à 60 €/£ par passager, par vol aller simple.
+
+Frais de changement de nom
+
+Par passager
+
+n/a
+
+€/£115 de modifications en ligne / €/£160 de modifications via un agent
+
+Si vous êtes libre-service en ligne, les frais s'élèvent à €/£.115. Si vous contactez un agent pour traiter la modification, les frais s'élèvent à €/£160.
+
+Frais de réservation
+
+n/a
+
+€/£50
+
+Ces frais s’appliquent à toutes les réservations effectuées dans les aéroports/auprès des centres d’appels.
+
+Frais de réservation d’oxygène médical
+
+n/a
+
+€/£55
+
+Par vol aller simple.
+
+Frais de départ manqué
+
+n/a
+
+€/£100
+
+Disponible uniquement 40 minutes avant et jusqu’à 1 heure après le départ du vol. Disponible pour les passagers qui arrivent à la billetterie jusqu’à une heure après le départ de leur vol, afin de transférer sur le prochain vol disponible. Frais facturés par passager et par secteur.
+
+### Frais de bagages enregistrés
+
+### Bagages
+
+Online
+
+Post-réservation/ Aéroport
+
+En savoir plus
+
+Petit bagage
+
+Gratuit
+
+Gratuit
+
+Priorité & 2 bagages de cabine
+
+Prix entre
+
+€/£8 - €/£30
+
+€/£8 - €/£32
+
+Bagages enregistrés – 10 kg
+
+Prix entre
+
+€/£12.99 - €/£23.99
+
+€/£23.99 - €/£35.99
+
+Les clients non prioritaires qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage en soute de 10 kg au comptoir de dépôt des bagages de l'aéroport pour 35,99 € / £. Les clients non prioritaires qui apportent leur sac de 10 kg à la porte d'embarquement peuvent s'enregistrer pour 45.99 € / £.
+
+Bagages enregistrés – 20 kg
+
+Tarif min./max. par article et par vol si achat en ligne
+
+€/£20.99 - €/£39.99
+
+(par vol)
+
+€/£39.99 - €/£59.99
+
+(par vol)
+
+Les passagers qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage de 20 kg au comptoir de dépôt des bagages de l'aéroport pour 69,99 € / £.
+
+Frais d’excédent de bagage
+
+Par kilo
+
+n/a
+
+€/£9 - €/£11
+
+L’excédent de bagages peut être acheté en ligne jusqu’à 2 heures avant le départ pour 9 €/£ par kilo supplémentaire. Le prix à l’aéroport/via le centre d’appel/au kiosque est de 11 €/£ par kilo supplémentaire. 
+
+Frais de déclaration spéciale de bagages de valeur
+
+n/a
+
+€/£50
+
+Permet l’application d’un plafond supérieur pour la responsabilité du transporteur.
