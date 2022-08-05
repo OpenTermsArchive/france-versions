@@ -161,6 +161,8 @@ Nous collectons et traitons vos Données à caractère Personnel aux fins suivan
     
 *   vous envoyer (avec votre consentement, qui demeure facultatif), y compris par courriel ou autres supports électroniques tels que SMS, MMS, fax, etc., des informations et du matériel promotionnels concernant nos produits et services, les initiatives spéciales portant sur les prix et les promotions et les initiatives telles que les programmes de fidélité, les manifestations, les salons et les foires organisés par le Groupe VF (auquel BRAND appartient) ou auxquels le Groupe VF prend part ;
     
+*   pour vous envoyer des notifications de panier abandonné, notamment si vous sélectionnez des produits, les ajoutez au panier puis quittez les Plateformes Numériques VF avant de finaliser l'achat, nous vous notifierons que le panier est à votre disposition au cas où vous souhaiteriez finaliser l'achat.
+    
 
 *   à des fins d'enquête (avec votre consentement, qui demeure facultatif) ;
     
