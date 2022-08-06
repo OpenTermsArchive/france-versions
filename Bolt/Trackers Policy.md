@@ -88,13 +88,14 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (40)
+Marketing (41)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
   
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
+| \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
 | \_\_tld\_\_ | bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | Session | HTTP Cookie |
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
 | \_cq\_tuid | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
@@ -135,7 +136,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | YSC | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTTP Cookie |
 | ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
 
-Unclassified (3)
+Unclassified (2)
 
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
 
@@ -143,5 +144,4 @@ Unclassified cookies are cookies that we are in the process of classifying, toge
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | @locali18nLng | bolt.eu | Pending | Persistent | HTML Local Storage |
-| \_\_ddg1\_ | partners.food.bolt.eu | Pending | 1 year | HTTP Cookie |
 | cg\_uuid | potter.mcangelus.com | Pending | 11 months | HTTP Cookie |
