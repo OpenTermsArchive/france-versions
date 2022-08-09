@@ -1,5 +1,4 @@
 charte de confidentialité
-=========================
 
 Ce site est géré par Jennyfer, Société par Actions Simplifiée, ayant son siège social sis au 7 rue Pierre Dreyfus – 92110 CLICHY, au capital de 24 988 980 €, immatriculée au Registre du Commerce et des Sociétés de Nanterre sous le numéro 338 880 180. 
 
