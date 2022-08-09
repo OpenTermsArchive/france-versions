@@ -1,7 +1,7 @@
 Données personnelles et confidentialité
 =======================================
 
-15/09/2021
+30/06/2022
 ==========
 
 Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société Canal+ International (R.C.S Nanterre 592 033 401, 48 Quai du Point du Jour – 92100 Boulogne-Billancourt) (ci-après désignées « Groupe Canal+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
@@ -27,13 +27,36 @@ Groupe Canal + souhaite vous faire bénéficier des meilleurs services et foncti
 
 Nous utilisons ainsi vos données notamment en vue des finalités et sur le fondement des bases légales suivantes :
 
-| Finalités | Bases légales |
-| --- | --- |
-| Vous offrir les services et contenus liés à l’abonnement que vous avez souscrit ou au compte que vous avez créé  <br>Gérer la souscription et le suivi de votre abonnement  <br>Gérer votre participation à des jeux-concours ou des offres promotionnelles | Contrat |
-| Gérer les contentieux, les procédures contentieuses de recouvrement, les procédures judiciaires ou administratives  <br>Répondre à vos demandes et à nos obligations légales et réglementaires  <br>Gérer et justifier du paiement des ayants-droit en fonction de la consommation des contenus par nos utilisateurs | Obligations légales/contractuelles |
-| Détecter et prévenir la fraude et les contentieux  <br>Établir des statistiques à des fins de mesures d’audience et de suivi de qualité  <br>Enregistrer les échanges téléphoniques avec nos conseillers à des fins de suivi de qualité | Intérêt légitime (prévention de la fraude et de gestion des contentieux, compréhension de vos attentes et d’établissement de statistiques et d’études relatives à l’utilisation de nos services, suivi de qualité) |
-| Créer et partager des segments d’audience ou des profils utilisateurs en fonction de votre utilisation de nos services et/ou de vos centres d’intérêts  <br>Mesurer votre intérêt pour les publicités qui vous sont présentées  <br>Mesurer votre intérêt pour nos services et nos sites et les améliorer  <br>Recommander du contenu en fonction de vos centres d’intérêt  <br>Personnaliser la publicité qui vous est présentée en fonction de votre utilisation de nos services ou de celles de services tiers | Intérêt légitime (personnalisation des services et des offres, mesure de la performance des campagnes publicitaires que nous diffusons, compréhension de vos attentes et amélioration de nos services, promotion de nos services et de ceux des tiers)  <br>sous réserve de vos droits détaillés à l’article 4 ou dans notre Politique cookies |
-| Vous adresser par tout moyen (courrier postal, email, téléphone, SMS, notifications de l’application myCANAL), des informations vous permettant de mieux connaître nos services ainsi que des offres commerciales relatives à nos services ou à ceux de nos partenaires | Intérêt légitime de promotion de nos services et de ceux de nos partenaires  <br>sous réserve de vos droits détaillés à l’article 4 ci-dessous |
+### 1/ Traitements opérés sur le fondement légal du contrat :
+
+*   Vous offrir les services et contenus liés à l’Abonnement que vous avez souscrit ou au compte que vous avez créé.
+*   Gérer la souscription et le suivi de votre Abonnement.
+*   Gérer votre participation à des jeux-concours ou des offres promotionnelles.
+*   Gérer les impayés.
+
+### 2/ Traitements opérés sur le fondement légal des obligations légales ou contractuelles auxquelles Groupe CANAL+ est soumis :
+
+*   Gérer les contentieux, les procédures contentieuses de recouvrement, les procédures judiciaires ou administratives.
+*   Répondre à vos demandes et à nos obligations légales et réglementaires.
+*   Gérer et justifier du paiement des ayants droit en fonction de la consommation des contenus par nos utilisateurs.
+
+### 3/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à gérer les atteintes à nos droits, améliorer nos services et comprendre vos attentes :
+
+*   Détecter et prévenir la fraude et gérer les contentieux.
+*   Établir des statistiques et des études relatives à l’utilisation de nos services notamment à des fins de mesures d’audience et de suivi de qualité.
+*   Enregistrer les échanges téléphoniques avec nos conseillers à des fins de suivi de qualité.
+
+### 4/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à personnaliser des services et des offres, mesurer la performance des campagnes publicitaires que nous diffusons, comprendre vos attentes et améliorer nos services, promouvoir nos services et ceux des tiers, sous réserve de vos droits détaillés à l’article 4 ou dans notre Politique cookies :
+
+*   Créer et partager des segments d’audience ou des profils utilisateurs en fonction de votre utilisation de nos services et/ou de vos centres d’intérêts.
+*   Mesurer votre intérêt pour les publicités qui vous sont présentées.
+*   Mesurer votre intérêt pour nos services et nos sites et les améliorer.
+*   Recommander du contenu en fonction de vos centres d’intérêt.
+*   Personnaliser la publicité qui vous est présentée en fonction de votre utilisation de nos services ou de celles de services tiers.
+
+### 5/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à promouvoir nos services et ceux de nos partenaires, sous réserve de vos droits détaillés à l’article 4 ci-dessous :
+
+*   Vous adresser par tout moyen (courrier postal, email, téléphone, SMS, notifications de l’application myCANAL ou beIN SPORTS CONNECT), des informations vous permettant de mieux connaître nos services ainsi que des offres commerciales relatives à nos services ou à ceux de nos partenaires.
 
 ### Anonymisation des données personnelles
 
@@ -77,8 +100,6 @@ Un tel partage ne peut se faire que sous les conditions suivantes :
 
 En tout état de cause, vous pouvez à tout moment, exercer vos droits auprès de nous, conformément à l’article 4 ci-dessous, exprimer votre accord ou le retirer, sans que cela ne change en quoi que ce soit vos droits d’accéder à nos services.
 
-Si vous êtes abonné au service beIN SPORTS CONNECT, vos données feront l’objet d’un traitement, pour notre compte, par notre sous-traitant, la société beIN SPORTS France qui a été spécialement mandatée par Groupe Canal+ pour assurer la gestion de votre abonnement (conclusion du contrat, facturation, fourniture des services demandés, gestion des droits des personnes, hébergement de vos données).
-
 Enfin, les données personnelles sont également communiquées, sur demande judiciaire ou administrative et afin de se conformer à toute loi ou règlementation en vigueur, à des organismes publics, auxiliaires de justice, officiers ministériels, à qui nous sommes tenus de répondre.
 
 En cas de transfert en dehors de l’Union européenne, nous opérons ces transferts dans le strict respect des conditions de protection prévues par la règlementation applicable. En l’absence de décision de la Commission Européenne reconnaissant le pays destinataire de vos données comme ayant un niveau de protection adéquat, nous prenons les dispositions appropriées vis-à-vis de nos partenaires et sous-traitants impliqués (dont la signature des Clauses contractuelles types de la Commission européenne). Vous pouvez obtenir une copie des dispositions prises pour permettre le transfert de vos données en dehors de l’Union européenne, sur demande formulée aux points de contact figurant à l’article 4.1 ci-dessous. Conformément à la réglementation applicable et afin de respecter le secret des affaires et les obligations de confidentialité auxquelles nous sommes tenues, certaines informations pourront être occultées. Cette copie pourra également prendre la forme d’un résumé des mesures prises pour permettre le transfert de vos données.
@@ -99,13 +120,6 @@ Votre demande concerne vos données traitées dans le cadre de votre abonnement 
 *   Nous contacter aux coordonnées indiquées à l’article 6 ci-dessous : Qui contacter en cas de questions ?
 *   Pour CANAL+ BUSINESS, vous pouvez exercer vos droits en écrivant à dpo.business ou SERVICE CLIENTS CANAL+ BUSINESS - TSA 76720 - 95905 CERGY PONTOISE.
 
-Votre demande concerne vos données traitées dans le cadre de votre offre beIN SPORTS CONNECT, vous pouvez :
-
-*   Ecrire par email à DPO@bein.net
-*   Ecrire par courrier postal à beIN SPORTS France – Délégué à la protection des données, 53-55 avenue Emile Zola 92100 Boulogne-Billancourt
-
-\>
-
 Une lettre recommandée électronique n’est pas nécessaire pour exercer vos droits. Le simple envoi du formulaire par mail ou par courrier postal est suffisant. Si toutefois vous souhaitez utiliser des services de recommandés électroniques, veuillez écrire à eRecommande (at) canal-plus.com en justifiant de votre identité.
 
 #### Si vous êtes situé dans les DROM, les COM ou en Nouvelle-Calédonie :
@@ -116,7 +130,7 @@ Votre demande concerne vos données traitées dans le cadre de votre abonnement 
 *   Renseigner le formulaire dédié selon le territoire concerné :
 *   *   Pour les Antilles/Guyane : [https://www.canalplus-caraibes.com/gp/contacts/aiguillage](https://www.canalplus-caraibes.com/gp/contacts/aiguillage)
     *   Pour la Réunion : [https://www.canalplus-reunion.com/re/contacts/aiguillage](https://www.canalplus-reunion.com/re/contacts/aiguillage)
-    *   Pour la Nouvelle-Calédonie : [https://www.canalpluscaledonie.com/nc/contacts/aiguillage](https://www.canalpluscaledonie.com/nc/contacts/aiguillage)
+    *   Pour la Nouvelle-Calédonie : [https://www.canalplus-caledonie.com/nc/contacts/aiguillage](https://www.canalplus-caledonie.com/nc/contacts/aiguillage)
 
 #### Si vous êtes situé en Afrique :
 
