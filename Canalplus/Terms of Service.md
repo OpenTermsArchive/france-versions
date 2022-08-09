@@ -128,7 +128,7 @@ Votre demande concerne vos données traitées dans le cadre de votre abonnement 
 
 *   Pour les Antilles/Guyane : https://www.canalplus-caraibes.com/gp/contacts/aiguillage
 *   Pour la Réunion : https://www.canalplus-reunion.com/re/contacts/aiguillage
-*   Pour la Nouvelle-Calédonie : https://www.canalpluscaledonie.com/nc/contacts/aiguillage
+*   Pour la Nouvelle-Calédonie : https://www.canalplus-caledonie.com/nc/contacts/aiguillage
 
 #### Si vous êtes situé en Afrique :
 
