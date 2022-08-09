@@ -1,5 +1,4 @@
 conditions générales de vente
-=============================
 
 **1\. PREAMBULE**
 
