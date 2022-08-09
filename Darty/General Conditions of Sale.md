@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 28 juillet 2022 - 3
+\- 3 août 2022 - 3
 
 
 
@@ -86,9 +86,9 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 
 
-\- 28 juillet 2022 - 4
+\- 3 août 2022 - 4
 
-\- 28 juillet 2022 - 5
+\- 3 août 2022 - 5
 
 
 
@@ -112,7 +112,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 28 juillet 2022 - 6
+\- 3 août 2022 - 6
 
 
 
@@ -140,7 +140,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 7
+\- 3 août 2022 - 7
 
 
 
@@ -162,7 +162,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 8
+\- 3 août 2022 - 8
 
 
 
@@ -186,7 +186,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 9
+\- 3 août 2022 - 9
 
 
 
@@ -234,7 +234,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 10
+\- 3 août 2022 - 10
 
 
 
@@ -242,7 +242,7 @@ Darty s’engage à allonger la durée de vie de vos produits sous réserve de r
 
 Réparation hors-garantie
 
-Darty répare tous vos produits hors garantie, achetés chez Darty ou ailleurs, d’une marque commercialiséepar Darty en magasin (sous réserve de disponibilité des pièces détachées).Appelez le 0 978 970 970 pour prendre rendez-vous avec notre service de dépannage à domicile ou déposezvotre produit en magasin(2). Nos experts interviennent dès 24 h(1) pour réparer vos produits.
+Darty répare tous vos produits hors garantie, achetés chez Darty ou ailleurs, d’une marque commercialiséepar Darty en magasin (sous réserve de disponibilité des pièces détachées).Appelez le 0 978 970 970 pour prendre rendez-vous avec notre service de dépannage à domicile ou déposezvotre produit en magasin(2). Nos experts interviennent dès 24 h(1) pour réparer vos produits.Toute réparation sera effectuée avec des pièces d’origine ou des pièces de qualité équivalente ou supérieure.
 
 Interventions à domicile (3)
 
@@ -298,7 +298,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 11
+\- 3 août 2022 - 11
 
 
 
@@ -342,7 +342,7 @@ Les assurances
 
 DURABILITÉ
 
-\- 28 juillet 2022 - 12
+\- 3 août 2022 - 12
 
 
 
@@ -458,9 +458,9 @@ Montage et mise en service 59 €
 
 
 
-\- 28 juillet 2022 - 13
+\- 3 août 2022 - 13
 
-\- 28 juillet 2022 - 14
+\- 3 août 2022 - 14
 
 
 
@@ -562,7 +562,7 @@ Clause de cession du risque : Darty se réserve le droit de céder à un tiers l
 
 TABLEAUX DES GARANTIES
 
-\- 28 juillet 2022 - 15
+\- 3 août 2022 - 15
 
 
 
@@ -712,7 +712,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 28 juillet 2022 - 16
+\- 3 août 2022 - 16
 
 
 
@@ -754,7 +754,7 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 28 juillet 2022 - 17
+\- 3 août 2022 - 17
 
 
 
@@ -812,7 +812,7 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 28 juillet 2022 - 18
+\- 3 août 2022 - 18
 
 
 
@@ -880,7 +880,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 28 juillet 2022 - 19
+\- 3 août 2022 - 19
 
 
 
@@ -934,7 +934,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 28 juillet 2022 - 20
+\- 3 août 2022 - 20
 
 
 
@@ -1034,7 +1034,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 28 juillet 2022 - 21
+\- 3 août 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1098,7 +1098,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 28 juillet 2022 - 22
+\- 3 août 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1116,8 +1116,6 @@ Article L.224-25-18 du Code de la consommation
 
 En cas de défaut de conformité, le consommateur est en droit d'exiger lamise en conformité du contenu numérique ou du service numérique auxcritères énoncés dans le paragraphe 1 de la présente sous-section.
 
-
-
 La mise en conformité a lieu sans frais pour le consommateur, sans retardinjustifié suivant la demande de ce dernier et sans inconvénient majeurpour lui, compte tenu de la nature du contenu numérique ou du servicenumérique concerné et de l'usage recherché par le consommateur.Le consommateur n'est pas tenu de payer pour l'utilisation qu'il a faite ducontenu numérique ou du service numérique pendant la période,antérieure à la résolution du contrat, au cours de laquelle ce contenu ouservice n'était pas conforme.
 
 Article L .224-25-19 du Code de la consommation
@@ -1126,17 +1124,17 @@ Le professionnel peut refuser la mise en conformité si elle s'avèreimpossible 
 
 Mode de règlement des litiges
 
-Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante : DARTY ServiceConsommateur - 38 avenue Roger Salengro 94120 Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
+Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante : Darty \& Fils -Service Consommateur - DARTY Service Consommateur - 38 avenueRoger Salengro 94120 Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
 
 
 
 Vos données personnelles
 
-Les données vous concernant sont traitées par les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page https://www.darty.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection desDonnées FNAC DARTY (dpo@fnacdarty.com), ou par courrier : DARTYService Consommateur - 38 avenue Roger Salengro 94120 Fontenay-sous-Bois. Vous disposez par ailleurs, du droit d’introduire uneréclamation auprès de la Commission Nationale de l’Informatique etdes Libertés (CNIL), notamment sur son site internet
+Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page ht tps://www.dar t y.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection desDonnées FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client DARTY Service Consommateur - 38 avenue RogerSalengro 94120 Fontenay-sous-Bois. Vous disposez par ailleurs, du droitd’introduire une réclamation auprès de la Commission Nationale del’Informatique et des Libertés (CNIL), notamment sur son site internet
 
 
 
-\- 28 juillet 2022 - 23
+\- 3 août 2022 - 23
 
 www.cnil.fr. La plupart des données vous concernant seront conservéespendant une durée de 5 ans à compter de votre dernière activité (ex. :achat, échéance de vos contrats), puis archivées avec un accès restreintpour une durée supplémentaire de 5 ans pour des raisons strictementlimitées et autorisées par la loi (paiement, garantie, litiges ...). Vous êtesinformés que vos données peuvent être transmises pour les besoinsdes finalités mentionnées ci-dessus à des sociétés situées en dehorsde l’Union Européenne notamment pour les activités de service client(centres d’appel situés au Maroc et à Madagascar), prestationsinformatiques, exploitation des données en lien avec les réseauxsociaux. Toute procédure requise pour sécuriser les données sera miseen œuvre avant de procéder à de tels transferts. Plus d’informations surl a p r o t e c t i o n d e s d o n n é e s p e r s o n n e l l e s s u rdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
 
@@ -1154,4 +1152,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 28 juillet 2022 - 24
+\- 3 août 2022 - 24
