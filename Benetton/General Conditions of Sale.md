@@ -63,10 +63,9 @@ Le Client peut utiliser lors de l’achat des bons promotionnels offerts par le 
 
 **5.1 Modalités de paiement**  
   
-Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, virement bancaire, espèces à la livraison, paiement échelonné via Klarna.  
+Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, espèces à la livraison, paiement échelonné via Klarna.  
   
 En cas de paiement avec une carte de crédit, une carte de débit et par Paypal, le débit du montant s’effectuera seulement au moment où la commande sera complète et prête à être expédiée.  
-Dans le cas d’un paiement par virement, l’exécution de la commande aura lieu seulement après bonne réception du montant des achats. Le paiement devra être effectué au plus tard **5** jours ouvrés après la commande, faute de quoi la commande sera annulée.  
   
 Les communications relatives au paiement et aux données communiquées par le Client au moment où le paiement est effectué se déroulent sur des lignes protégées spécifiques. La sécurité du paiement par Carte de Crédit est garantie par le protocole de transmission cryptée des données TLS (Transport Layer Security).  
   
