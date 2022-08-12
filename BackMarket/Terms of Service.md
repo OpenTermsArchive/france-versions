@@ -2,7 +2,7 @@ CONDITIONS GÉNÉRALES D'UTILISATION | BACK MARKET
 
 
 
-1ER JANVIER 2022
+AOÛT 2022
 
 
 
@@ -14,31 +14,55 @@ Sommaire
 
 
 
-Article 1. Qui sommes-nous ? Que proposons nous ? 2
+Qui sommes-nous ? Que proposons nous ? 2
 
-Article 2. Quelques définitions 2
 
-Article 3. Comment créer un compte client ? 2
 
-Article 4. Quelles sont les règles d’utilisation de la plateforme ? 3
+Quelques définitions 2
 
-Article 5. Quels sont les Services proposés sur la Plateforme et quel est leur prix ?3
 
-Article 6. Comment payer sur la Plateforme ? 4
 
-Article 7. Comment fonctionne le portemonnaie virtuel ? 4
+Comment créer un compte client ? 2
 
-Article 8. Comment clôturer votre compte client ? 5
 
-Article 9. Comment communiquer avec Back Market et faire une réclamation ? 5
 
-Article 10. Qui est responsable des services et des Produits? 6
+Quelles sont les règles d’utilisation de la Plateforme ? 3
 
-Article 11.Et vos données personnelles ? 6
 
-Article 12. Que faire si vous n’êtes pas satisfait ? 6
 
-Annexe 1. Paiement en 3 ou 4 fois avec frais 7
+Quels sont les Services proposés sur la Plateforme et quel est leur prix ? 3
+
+
+
+Comment payer sur la Plateforme ? 4
+
+
+
+Comment fonctionne le porte monnaie virtuel? 4
+
+
+
+Comment clôturer votre compte client ? 4
+
+
+
+Comment communiquer avec Back Market et faire une réclamation ? 5
+
+
+
+Qui est responsable des services et des Produits ? 6
+
+
+
+Et vos données personnelles ? 6
+
+
+
+Que faire si vous n’êtes pas satisfait ? 6
+
+
+
+Annexe 1 : Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois) 7
 
 
 
@@ -46,13 +70,13 @@ Annexe 1. Paiement en 3 ou 4 fois avec frais 7
 
 Article 1. Qui sommes-nous ? Que proposons nous ?
 
-1.1 La société JUNG SAS (“Back Market”) dont le siège social est situé 154 boulevard
+1.1 La société JUNG SAS (“Back Market”) dont le siège social est situé 199 rue
 
-Macdonald, 75019 Paris et immatriculée au Registre du Commerce et des Sociétés de Paris
+Championnet 75018 Paris et immatriculée au Registre du Commerce et des Sociétés de
 
-sous le n°804 049 476, met à la disposition de l’Utilisateur, une Plateforme sous le nom «
+Paris sous le n°804 049 476, met à la disposition de l’Utilisateur, une Plateforme sous le nom
 
-Back Market » ayant pour objet de le mettre en relation avec des Vendeurs.
+« Back Market » ayant pour objet de le mettre en relation avec des Vendeurs.
 
 1.2 Back Market intervient comme intermédiaire hébergeur, n’est pas Vendeur des
 
@@ -82,19 +106,15 @@ non procédé à son inscription sur la Plateforme.
 
 Article 2. Quelques définitions
 
-Toutes les fois que, dans les présent CGU les mots ci-après seront écrits, au singulier ou au
+Toutes les fois que, dans les présentes CGU les mots ci-après seront écrits, au singulier ou
 
-pluriel, avec une lettre majuscule, ils auront la signification suivante :
+au pluriel, avec une lettre majuscule, ils auront la signification suivante :
 
 
 
-Utilisateur(s) désigne toute personne physique ayant la capacité d’accomplir des
+Utilisateur(s) désigne toute personne physique ou morale qui utilise la Plateforme
 
-actes juridiques ainsi que toute personne morale de droit privé qui
-
-n’agit pas à des fins professionnelles ayant procédé à un achat sur la
-
-Plateforme.
+pour acheter des Produits à des fins non commerciales.
 
 
 
@@ -132,21 +152,17 @@ Plateforme.
 
 Article 3. Comment créer un compte client ?
 
-3.1 Les CGU doivent être acceptées, sans réserve, par chaque utilisateur lors de la
+3.1 Les CGU doivent être acceptées, sans réserve, par chaque utilisateur de la
 
-création de compte et lors de chaque passation de commande. L’utilisateur prend le soin de
+Plateforme. L’utilisateur prend le soin de lire les CGU, de les accepter et de les enregistrer sur
 
-lire les CGU, de les accepter et de les enregistrer sur support durable. Le refus des CGU lors
+support durable. Le refus des CGU lors de la création de son compte client empêche
 
-de la création de son compte client empêche l’utilisateur de pouvoir créer son compte client
+l’utilisateur de pouvoir créer son compte client et/ou donc de pouvoir passer commande sur
 
-et/ou donc de pouvoir passer commande sur la Plateforme. Les CGU étant susceptibles
+la Plateforme. Les CGU étant susceptibles d’évoluer, l’Utilisateur est invité à être vigilant, les
 
-d’évoluer, l’Utilisateur est invité à être vigilant, les CGU ayant pu évoluer entre deux visites
-
-successives sur la Plateforme.
-
-2
+CGU ayant pu évoluer entre deux visites successives sur la Plateforme.
 
 3.2 La création d’un compte client n’est autorisée qu’aux personnes physiques majeures
 
@@ -155,6 +171,8 @@ ayant la capacité d’accomplir des actes juridiques et aux personnes morales d
 qui n’agissent pas à des fins professionnelles.
 
 
+
+2
 
 Article 4. Quelles sont les règles d’utilisation de la Plateforme ?
 
@@ -170,17 +188,17 @@ l’hypothèse où l’Utilisateur aurait connaissance d’un accès à son comp
 
 l’Utilisateur s’engage à en informer Back Market sans délai en remplissant le formulaire
 
-disponible sous le lien suivant : https://help.backmarket.com/hc/fr-fr/requests/new?.
+disponible sous ce lien.
 
 4.3 L'utilisateur s’engage à ne créer et à n’utiliser qu’un seul compte client quel que soit
 
 l’extension du site (backmarket.fr, backmarket.de, backmarket.es, backmarket.it....) depuis
 
-lequel il accède à la Plateforme, sauf autorisation expresse de Back Market. En cas de
+lequel il accède à la Plateforme, sauf autorisation expresse de Back Market. L’utilisateur dont
 
-clôture de son compte par Back Market, l’utilisateur s’engage à ne pas recréer de compte,
+le compte a été clos par Back Market a interdiction de créer un nouveau compte, sauf
 
-sauf autorisation expresse de Back Market.
+autorisation expresse de Back Market.
 
 4.4 L'utilisateur s’engage (i) à ne pas harceler les autres utilisateurs (clients, vendeurs) de
 
@@ -250,15 +268,15 @@ Plateforme. Les Services de contrôle qualité sont payants pour l’Utilisateur
 
 commande sur la Plateforme, le montant exact des services qui est payé par l'utilisateur à
 
-
-
-3
-
 Back Market est indiqué avant la confirmation de commande par l’Utilisateur. Ces frais de
 
 service permettent à Back Market de s’investir dans de nombreuses démarches qualité, avec
 
 pour objectif d’assurer la meilleure expérience du reconditionné, d’offrir un service client
+
+
+
+3
 
 réactif et disponible, et d’innover pour améliorer continuellement notre service et notre
 
@@ -268,19 +286,19 @@ qualité et pour créer de nouveaux services à l’attention des clients.
 
 comme par exemple, la mise à disposition d’un Back-Office, le service Paiement en plusieurs
 
-fois, le service BackCare (lorsque Back Market assiste le Vendeur dans la gestion de son
+fois, le service d’assistance du Vendeur dans la gestion de son service après-vente pour le
 
-service après-vente pour le compte du Vendeur), le service BackRepair (lorsque Back Market
+compte du Vendeur, le service BackRepair (lorsque Back Market met en relation les Vendeurs
 
-met en relation les Vendeurs avec ses partenaire qui analysent et réparent les Produits pour
+avec ses partenaire qui analysent et réparent les Produits pour le compte du Vendeur), ou
 
-le compte du Vendeur), ou encore le service BackShip (lorsque Back Market met en relation
+encore le service BackShip (lorsque Back Market met en relation les Vendeurs avec ses
 
-les Vendeurs avec ses partenaires qui expédient les Produits pour le compte du Vendeur), qui
+partenaires qui expédient les Produits pour le compte du Vendeur), qui sont payant pour ces
 
-sont payant pour ces Vendeurs, et dont les conditions sont régies par des conditions
+Vendeurs, et dont les conditions sont régies par des conditions générales vendeurs,
 
-générales vendeurs, applicables entre Back Market et les Vendeurs.
+applicables entre Back Market et les Vendeurs.
 
 5.3 Back Market agit toujours comme intermédiaire entre les Acheteurs et les Vendeurs,
 
@@ -324,77 +342,77 @@ les codes ne sont ni échangeables ni remboursables (c’est-à-dire qu’ en ca
 
 remboursement de la commande payé avec un code, le code est définitivement perdu), (iv)
 
-les codes ayant une valeur monétaire sont utilisables en une seule fois (c’est-à-dire que la
+les codes ayant une valeur monétaire sont utilisables en une seule fois et uniquement pour
 
-valeur du code monétaire non utilisée sera perdue), et (v) les codes ne sont pas utilisables
+une commande d’un montant total supérieur à la valeur du code (v) les codes ne sont pas
 
-pour une commande déjà validée.
+utilisables pour une commande déjà validée et (vi) les codes ne peuvent pas êtres convertis
+
+en monnaie ni transférés sur un compte bancaire.
 
 6.3. En cas de paiement en plusieurs fois, les conditions de paiement sont renseignées en
 
-Annexe 1.
+Annexe 1 et précisées par le partenaire avant la conclusion du contrat de prêt.
 
 
 
 Article 7. Comment fonctionne le porte monnaie virtuel?
 
-7.1 L'Utilisateur dispose d'un porte-monnaie électronique disponible sur son compte
+L'Utilisateur dispose d'un porte-monnaie électronique disponible sur son compte client. Le
 
-client. Le porte-monnaie électronique sera crédité des éventuels gestes commerciaux
+porte-monnaie électronique sera crédité des éventuels gestes commerciaux accordés par le
 
-accordés par le Vendeur à l'Utilisateur dans le cadre de l'exécution des Services.
+Vendeur à l'Utilisateur dans le cadre de l'exécution des Services.
 
-7.2 Le porte-monnaie électronique pourra être utilisé en une seule fois pour effectuer des
+L'Utilisateur peut, à tout moment, transférer la totalité ou une partie de son porte-monnaie
 
-achats sur la Plateforme. Attention, la valeur non utilisée du porte-monnaie électronique sera
+électronique vers son compte bancaire personnel, sans aucun frais.
 
-perdue dans ce cas. En revanche, l'Utilisateur peut, à tout moment avant utilisation de son
 
-porte-monnaie électronique pour effectuer des achats, transférer la totalité de son
-
-porte-monnaie électronique vers son compte bancaire personnel, sans aucun frais.
-
-4
 
 Article 8. Comment clôturer votre compte client ?
 
-8.1 Clôture du compte client par l’utilisateur : L’utilisateur peut librement clôturer son
+8.1 Clôture du compte client par l’utilisateur : L’Utilisateur peut librement clôturer son
 
 compte client à tout moment et sans préavis en se rendant sur son compte client ou en
 
-écrivant à legal@backmarket.com ou par courrier à Back Market, Service Juridique, 154
+écrivant à legal@backmarket.com ou par courrier à Back Market, Service Juridique, 199 rue
 
-Boulevard Macdonald, 75019 Paris, en indiquant ses nom, prénom, e-mail et adresse utilisée
+Championnet, 75018 Paris, en indiquant ses nom, prénom, e-mail et adresse utilisée pour
 
-pour créer le compte client. Dans le cas d’une commande en cours, l’Utilisateur comprend
 
-que la clôture du compte sera effective à l’issue du délai de rétractation.
+
+4
+
+créer le compte client. Dans le cas d’une commande en cours, l’Utilisateur comprend que la
+
+clôture du compte sera effective à l’issue du délai de rétractation.
 
 8.2 Clôture du compte client par Back Market : Back Market peut clôturer le compte client
 
-d’un Utilisateur, lorsque l’utilisateur a refusé les nouvelles CGU ou a manqué aux règles
+d’un Utilisateur, lorsque l’Utilisateur a refusé les nouvelles CGU ou a manqué aux règles
 
-d’utilisation de la Plateforme décrites à l’article 4. En cas de manquement de l’Utilisateur,
+d’utilisation de la Plateforme, notamment celles décrites aux articles 3 et 4. En cas de
 
-Back Market en informe l’Utilisateur en lui adressant un courrier électronique détaillant les
+manquement de l’Utilisateur, Back Market en informe l’Utilisateur en lui adressant un courrier
 
-raisons de clôture et la date de clôture du compte.
+électronique détaillant les raisons de clôture et la date de clôture du compte.
 
 8.3 En cas de clôture, l’utilisateur est invité à télécharger les informations et factures
 
 relatives à son historique de commande afin d’en conserver une copie locale et durable. En
 
-outre l’Utilisateur devra impérativement retirer l’argent de son porte-monnaie électronique.
+outre l’Utilisateur devra impérativement retirer les sommes éventuellement disponibles sur
 
-L’Utilisateur conserve évidemment la possibilité de formuler une réclamation et de faire jouer
+son porte-monnaie électronique. L’Utilisateur conserve évidemment la possibilité de formuler
 
-les garanties pendant les délais prévus dans les conditions générales de vente accessibles
+une réclamation et de faire jouer les garanties pendant les délais prévus dans les conditions
 
-sur la plateforme, en adressant alors sa réclamation à Back Market en remplissant le
+générales de vente accessibles sur la plateforme, en adressant alors sa réclamation à Back
 
-formulaire disponible sous le lien suivant : https://help.backmarket.com/hc/pt/requests/new.
+Market en remplissant le formulaire disponible sous le lien suivant : sous ce lien. Back
 
-Back Market se charge ensuite de transmettre la réclamation de l’Acheteur au Vendeur et,
+Market se charge ensuite de transmettre la réclamation de l’Acheteur au Vendeur et,
 
 inversement, de transmettre la réponse du Vendeur à l’Acheteur par courrier électronique.
 
@@ -404,11 +422,11 @@ Article 9. Comment communiquer avec Back Market et faire une réclamation ?
 
 9.1 Demandes et réclamations relatives aux services : Le service clients de Back Market
 
-est joignable au 01 70 77 24 93 ou en ligne en remplissant le formulaire disponible sous le
+est joignable au 01 70 77 24 93 ou en ligne en remplissant le formulaire disponible sous ce
 
-lien suivant : https://help.backmarket.com/hc/fr-fr/requests/new?. Il est à la disposition des
+lien. Il est à la disposition des utilisateurs pour toute question ou réclamation relative aux
 
-utilisateurs pour toute question ou réclamation relative aux Services ou à la Plateforme.
+Services ou à la Plateforme.
 
 9.2 Demandes et réclamations relative à une commande : Pour toute question ou
 
@@ -432,8 +450,6 @@ la vente d’un Produit.
 
 
 
-5
-
 Article 10. Qui est responsable des services et des Produits ?
 
 10.1 Concernant les Services et l’accès à la Plateforme. Concernant les Services et l’accès à
@@ -452,23 +468,27 @@ Service ou de la Plateforme.
 
 10.2 Concernant les Produits. Le Vendeur assume l'entière responsabilité en ce qui concerne
 
-les Produits qu'il met en vente par le biais la Plateforme, notamment s’agissant de
+les Produits qu'il met en vente par le biais la Plateforme, notamment s’agissant des
 
-l’obligation de conformité dont il est redevable conformément à la réglementation applicable.
+obligations de conformité et de sécurité dont il est redevable conformément à la
 
-Back Market étant un intermédiaire hébergeur entre le Vendeur et l'Acheteur, Back Market
+réglementation applicable. Back Market étant un intermédiaire hébergeur entre le Vendeur et
 
-décline toute responsabilité relative à la vente conclue entre le Vendeur et l'Acheteur sur la
+l'Acheteur, Back Market décline toute responsabilité relative à la vente conclue entre le
 
-Plateforme. Ainsi, l'Acheteur exonère Back Market de toute responsabilité qui pourrait
+Vendeur et l'Acheteur sur la Plateforme. Ainsi, l'Acheteur exonère Back Market de toute
 
-survenir dans l'exécution de la vente, notamment en ce qui concerne la conformité des
+responsabilité qui pourrait survenir dans l'exécution de la vente du Produit, notamment en ce
 
-Produits, la description et la conformité de l'offre de vente, la disponibilité des Produits la
+qui concerne la conformité des Produits, la description et la conformité de l'offre de vente, la
 
-titularité des droits de propriété intellectuelle et industrielle relatifs aux Produits.
+disponibilité des Produits, la titularité des droits de propriété intellectuelle et industrielle
+
+relatifs aux Produits.
 
 
+
+5
 
 Article 11. Et vos données personnelles ?
 
@@ -498,7 +518,7 @@ leur litige.
 
 médiateur de la consommation en vue de la résolution amiable du litige qui l’oppose à Back
 
-Market A cet égard, l’Utilisateur peut soit (i) utiliser gratuitement la plateforme en ligne de
+Market. A cet égard, l’Utilisateur peut soit (i) utiliser gratuitement la plateforme en ligne de
 
 résolution des litiges mise en place par le Commission Européenne disponible en cliquant
 
@@ -524,13 +544,13 @@ du lieu de la livraison effective du Produit.
 
 
 
+6
+
 \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
 
 
 
-6
-
-Annexe 1. Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois)
+Annexe 1 : Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois)
 
 
 
