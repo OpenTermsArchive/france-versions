@@ -331,9 +331,7 @@ Que faire si vous n'êtes pas pleinement satisfait(e) de nos services ?
 
 Dans un premier temps, veuillez nous contacter par e-mail ou par téléphone. Nous nous efforcerons de trouver une solution qui réponde le mieux possible à vos attentes.  
   
-Si vous n'êtes pas pleinement satisfaite, veuillez vous rendre à l'adresse suivante **[https://webgate.ec.europa.eu/odr/main/?event=main.home.show  
-  
-](https://webgate.ec.europa.eu/odr/main/?event=main.home.show)**
+Si vous n'êtes pas pleinement satisfaite, veuillez vous rendre à l'adresse suivante [**https://webgate.ec.europa.eu/odr/main/?event=main.home.show**](https://webgate.ec.europa.eu/odr/main/?event=main.home.show)
 
 #### Conformité des produits
 
@@ -368,7 +366,7 @@ Nous nous réservons le droit de modifier les présentes Conditions générales.
 
 #### Conditions d'utilisation du site Web  
 
-Les Conditions d'utilisation du site Web s'appliquent à votre utilisation de ce site Web. Pour consulter les Conditions d'utilisation du site, cliquez **[ici](https://www.levi.com/FR/fr_FR/legal/terms-of-use)**.  
+Les Conditions d'utilisation du site Web s'appliquent à votre utilisation de ce site Web. Pour consulter les Conditions d'utilisation du site, cliquez [**ici**](https://www.levi.com/FR/fr_FR/legal/terms-of-use).  
   
 
 #### Liens externes  
@@ -382,7 +380,7 @@ Parfois, vous pourrez trouver sur notre site Web un lien vers d'autres sites qui
 
 Levi Strauss & Co. (LS&CO) et ses sociétés affiliées sont très engagées dans la relation de confiance qu'elles entretiennent avec vous, ses clients. Depuis plus de 155 ans, nous créons des produits authentiques tout en faisant passer nos valeurs au premier plan. Au fil des innovations entreprises pour donner vie à nos produits en ligne, nous alignerons l‘usage que nous faisons de la technologie de pointe avec vos besoins en termes de confidentialité.  
   
-Pour consulter la Politique de confidentialité de Levi Strauss & Co., [**cliquez ici**](http://privacy.levistrauss.com/terms/).  
+Pour consulter la Politique de confidentialité de Levi Strauss & Co., [**cliquez ici**](https://www.levi.com/FR/fr_FR/legal/privacy-policy).  
   
 
 Pour de plus amples informations concernant nos politiques et nos pratiques en matière de cookies et de navigation des consommateurs, [**cliquez ici**](https://www.levi.com/FR/fr_FR/legal/privacy-policy#cookies) et lisez notre Politique relative aux cookies.
