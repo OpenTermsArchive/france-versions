@@ -275,6 +275,26 @@ Si vous révoquez votre consentement en désactivant la fonction « Acheter vos
 
   
 
+ **ii) AWIN**
+
+We, Esprit Retail B.V. & Co. KG use cookies from the affiliate network Awin AG, Eichhornstraße 3, 10785 Berlin (hereinafter "AWIN") on our website to run affiliate marketing campaigns. In this way, AWIN is able to track which third-party website, app or other technology provider has referred potential customers to our websites and apps ("referrer"). This enables us to pay the operators of these websites a fair commission for successfully displaying our advertisements and thus contributing to purchases from us.
+
+Our interest here is to run an online advertising campaign that is remunerated based on performance. We work together with Awin, who support us in implementing this affiliate marketing campaign. You can find the Awin privacy policy [here](https://www.awin.com/fr/politique-de-confidentialite). It contains information about your/your rights in relation to data processing by Awin.
+
+The cookie term is 30 days. AWIN is established in several countries and therefore processes personal data partly also together with other companies of the group in the respective countries. In addition, data may also be transferred to commissioned service providers within and outside the EU / EEA. The necessary level of data protection is established by means of adequacy decisions of the EU Commission or EU standard contractual clauses. Please note that with your consent, data may also be transferred to a third country outside the EU / EEA, which may have a lower level of data protection than the EU (Art. 49 para. 1 sentence 1 lit. a EU-DS-GVO).
+
+In some cases, AWIN may maintain a restricted profile that relates to you. However, this will not reveal your identity, your online behaviour or other personal characteristics. The sole purpose of this profile is to track whether a referral has been started on one device and completed on another.
+
+In some cases, AWIN and the referrer of the potential customer may receive and process your personal data in order to implement the affiliate marketing campaign together with us.
+
+Likewise, we receive personal data of potential customers from Awin and the referrers, which can be divided into the following categories: Cookie data, data relating to the website, app or technology from which a potential customer was referred to us and technical information about the device you are using.
+
+In addition, AWIN Data receives billing/purchase processing data, including in the context of complaints (date, order number, publisher ID, advertising material, reason for rejection, if applicable, etc.) for the purpose of billing affiliates.
+
+We process the data on the basis of your consent, which you have given in accordance with Article 6 (1), lit. a or Article 49 (1) p. 1 lit. a of the EU-DS-GVO. You can freely revoke your consent at any time by deactivating the function "Benefit from partner and discount programmes" in your data protection settings. Please note that in the event that you revoke your consent, the lawfulness of our processing of your data on the basis of the consent until the time of revocation will not be affected.
+
+  
+
  **2. Base légale pour le traitement des données**
 
 La base légale pour le traitement des données personnelles en utilisant des cookies est l’article 6, alinéa 1, lettre f du RGPD.
