@@ -141,7 +141,7 @@ Nos partenaires commerciaux ne sont pas autorisés à utiliser ces données à d
 3.3 Sous-traitants
 ------------------
 
-Vos données personnelles peuvent être transmises à des prestataires externes qui les traitent pour notre compte, selon nos instructions, notamment dans le cadre du paiement en ligne, de l’expédition des commandes, de publicité, de la sécurité des systèmes informatiques ou encore dans le cadre de statistiques et d’enquêtes.
+Vos données personnelles peuvent être transmises à des prestataires externes qui les traitent pour notre compte, selon nos instructions, notamment dans le cadre du paiement en ligne, de l’expédition des commandes, de publicité, programme de fidélité et/ou parrainage, de la sécurité des systèmes informatiques ou encore dans le cadre de statistiques et d’enquêtes.
 
 La transmission de vos données à nos sous-traitants est encadrée afin de garantir la sécurité de vos données.
 
