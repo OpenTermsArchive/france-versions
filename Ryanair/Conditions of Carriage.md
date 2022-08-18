@@ -1705,7 +1705,7 @@ Bagages enregistrés – 10 kg
 
 Prix entre
 
-€/£12.99 - €/£23.99
+€/£12.00- €/£25.00
 
 €/£23.99 - €/£35.99
 
@@ -1715,7 +1715,7 @@ Bagages enregistrés – 20 kg
 
 Tarif min./max. par article et par vol si achat en ligne
 
-€/£20.99 - €/£39.99
+€/£17.99 - €/£50.00
 
 (par vol)
 
