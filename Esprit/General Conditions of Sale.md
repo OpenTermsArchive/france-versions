@@ -229,7 +229,7 @@ Associé personnellement responsable : Esprit Nederland B.V., sise à Amsterdam
 
 Registre du commerce n° : 34176024
 
-Représentants légaux : Bradley Stephen Wright, Man Yi Yip, Stefan Kohlbauer
+Représentants légaux : Man Yi Yip
 
   
 
@@ -271,7 +271,7 @@ Tribunal d’Instance de Düsseldorf: HRB 47277
 
 N° de TVA: DE 814336381
 
-Direction: Bradley Stephen Wright, Man Yi Yip, Leif Erichson
+Direction: Man Yi Yip
 
   
 
