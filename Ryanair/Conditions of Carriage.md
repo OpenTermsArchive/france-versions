@@ -1742,3 +1742,15 @@ n/a
 €/£50
 
 Permet l’application d’un plafond supérieur pour la responsabilité du transporteur.
+
+Cartes cadeaux
+
+Au moment de la réservation
+
+Plus d’infos
+
+Cartes cadeaux numériques
+
+2 €/£ (par carte)
+
+Des frais administratifs de 2 €/£ (ou l’équivalent en devise locale) sont facturés par carte cadeau numérique.
