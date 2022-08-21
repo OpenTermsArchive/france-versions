@@ -23,17 +23,17 @@ Your consent ID: 0Consent date:
 
   
 
-Cookie declaration last updated on 20/07/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Cookie declaration last updated on 20/08/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (22)
+Necessary (20)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
   
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_cf\_bm \[x2\] | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy")  <br>[Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
-| \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
+| \_\_cf\_bm | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| \_\_cfruid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | \_cq\_check \[x2\] | eudevil.mcangelus.com | Determines whether the user has accepted the cookie consent box. | Session | HTTP Cookie |
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
@@ -59,7 +59,7 @@ Preference cookies enable our website to remember information that changes the w
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (27)
+Statistics (29)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -73,8 +73,9 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x2\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy")  <br>bolt.eu | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x2\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
 | \_hjIncludedInSessionSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
+| \_hjRecordingLastActivity | bolt.eu | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
 | \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
@@ -82,6 +83,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | ajs\_anonymous\_id \[x2\] | fleets.bolt.eu  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | Persistent | HTML Local Storage |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
+| hjViewportId | bolt.eu | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
 | previousUrl | static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
 | tildasid | static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | tildauid | static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
@@ -102,8 +104,9 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
 | \_cq\_tuid \[x2\] | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
 | \_fbp | fleets.bolt.eu | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
-| \_gaexp | bolt.eu | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 56 days | HTTP Cookie |
+| \_gaexp | bolt.eu | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 25 days | HTTP Cookie |
 | \_gcl\_au | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
+| \_hjRecordingEnabled | bolt.eu | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
 | ads/ga-audiences | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session | Pixel Tracker |
 | ajs%3Acookies | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | 1 year | HTTP Cookie |
 | ajs%3Atest | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | 1 year | HTTP Cookie |
@@ -132,7 +135,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | WZRK\_L \[x3\] | bolt.eu  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used by Clevertap. This cookie contains details regarding the events (event name and properties) that are sent to CleverTap Platform. | Persistent | HTML Local Storage |
 | WZRK\_META \[x3\] | bolt.eu  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used by Clevertap.This cookie stores session related details (timestamp of previousSession, currentSession, sessionCount) and few other properties that help in determining if we have to show the popup on notification.push. | Persistent | HTML Local Storage |
 | WZRK\_S\_W65-47W-565Z | bolt.eu | Used by Clevertap. This cookie stores the session details like last session timestamp, number of sessions etc. | 1 day | HTTP Cookie |
-| WZRK\_S\_WW6-77K-6Z5Z | bolt.eu | Used by Clevertap. This cookie stores the session details like last session timestamp, number of sessions etc. | 1 day | HTTP Cookie |
 | YSC | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTTP Cookie |
 | ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
 
