@@ -392,7 +392,7 @@ Le Passager à visibilité réduite qui, généralement, nécessite un chien gui
 
 Lors du processus de réservation, le Passager peut accessoirement acheter le service de transport de son animal de compagnie (chats et chiens uniquement), service pour lequel il devra s’acquitter d’un [coût supplémentaire](https://www.volotea.com/fr/frais-de-service/ "Frais de service") et respecter les conditions suivantes:
 
-> 1.  L’animal de compagnie doit être transporté dans un container ou un sac homologué non rigide spécialement conçu à cet effet, muni d’orifices pour lui permettre de respirer et pourvu d’une base imperméable ; les boîtes faites maison ne sont pas acceptées. Si, de l’avis exclusif du personnel au sol ou du personnel de vol, le container n’était pas considéré acceptable ou sécuritaire, il sera refusé.
+> 1.  L’animal de compagnie doit être transporté dans une cage ou un sac homologué non rigide spécialement conçu à cet effet, muni d’orifices pour lui permettre de respirer et pourvu d’une base imperméable ; les boîtes faites maison ne sont pas acceptées. Si, de l’avis exclusif du personnel au sol ou du personnel de vol, le container n’était pas considéré acceptable ou sécuritaire, il sera refusé.
 >     
 > 2.  Un seul animal pourra être transporté par boîte et par Passager ; cela dit, il conviendra de s’en remettre aux conditions du paragraphe (iii) ci-dessous.
 >     
@@ -402,11 +402,11 @@ Lors du processus de réservation, le Passager peut accessoirement acheter le se
 >     
 > 5.  Les dimensions maximum du container seront de 50 cm de long par 40 cm de large et 20 cm de haut.
 >     
-> 6.  Le poids maximum de la boîte (animal et ses accessoires compris) n’excèdera pas 10 Kg.
+> 6.  Le poids maximum de la cage (animal et ses accessoires compris) n’excèdera pas 10 Kg.
 >     
 > 7.  Les récipients à nourriture et boisson doivent être munis d’un couvercle pour éviter tout renversement.
 >     
-> 8.  La boîte doit être transportée au sol, placée entre les pieds du Passager ou sous son siège. Le transport de la boîte sur le siège contigu à celui du Passager est interdit, quand bien même ce siège serait inoccupé. Il est également interdit de tenir la boîte sur les genoux.
+> 8.  La cage souple doit être placée au sol, sous le siège devant le passager. Le transport de la cage sur le siège contigu à celui du Passager est interdit, quand bien même ce siège serait inoccupé. Il est également interdit de tenir la boîte sur les genoux.
 >     
 > 9.  Les animaux seront refusés si leurs caractéristiques particulières (mauvaise odeur, grossesse, état de santé ou hygiène, ou encore comportement violent, etc.) peuvent s’avérer gênants pour le reste des passagers.
 >     
