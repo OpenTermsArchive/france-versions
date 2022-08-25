@@ -264,15 +264,7 @@ Choisissez le mode de paiement 5x 10x 20x sur la page paiement ; vous remplissez
 
 **• VIREMENT BANCAIRE**
 
-Si vous choisissez de payer votre commande par virement, merci de réaliser votre virement vers le compte indiqué ci-contre, et de renseigner votre numéro de commande comme référence de votre virement :
-
-**Bénéficiaire : Rue du Commerce**
-
-**Domiciliation :** **ARKEA BEI PARIS**
-
-**Identification Internationale (IBAN) :** **FR76 1882 9754 1601 5126 4564 465**
-
-**Identifiant International de la banque (BIC) :** **CMBRFR2BCME**
+Si vous choisissez de payer votre commande par virement, merci de réaliser votre virement vers le compte indiqué sur votre email de confirmation, et de renseigner votre numéro de commande comme référence de votre virement. A noter que notre RIB vous sera aussi communiqué à la finalisation de votre commande sur notre site. 
 
 Attention ! Vos produits ne sont pas réservés dans l'attente de votre paiement. Plus vite votre paiement nous parviendra, moins la probabilité qu'une rupture de stock nous empêche de préparer votre commande est forte. Lorsque nous aurons reçu votre paiement, nous traiterons votre commande dans les deux jours ouvrés. En l’absence de référence de virement valide, votre commande sera annulée et vous devrez nous contacter au  ![0 809 40 03 76](https://www.rueducommerce.fr/static/drupal-front/inline-images/numero-2-1.png)  pour obtenir son remboursement.
 
@@ -1139,15 +1131,7 @@ Choisissez le mode de paiement 5x 10x 20x sur la page paiement ; vous remplissez
 
 **• VIREMENT BANCAIRE**
 
-Si vous choisissez de payer votre commande par virement, merci de réaliser votre virement vers le compte indiqué ci-contre, et de renseigner votre numéro de commande comme référence de votre virement :
-
-**Bénéficiaire : Rue du Commerce**
-
-**Domiciliation :** **ARKEA BEI PARIS**
-
-**Identification Internationale (IBAN) :** **FR76 1882 9754 1601 5126 4564 465**
-
-**Identifiant International de la banque (BIC) :** **CMBRFR2BCME**
+Si vous choisissez de payer votre commande par virement, merci de réaliser votre virement vers le compte indiqué sur votre email de confirmation, et de renseigner votre numéro de commande comme référence de votre virement. A noter que notre RIB vous sera aussi communiqué à la finalisation de votre commande sur notre site. 
 
 Attention ! Vos produits ne sont pas réservés dans l'attente de votre paiement. Plus vite votre paiement nous parviendra, moins la probabilité qu'une rupture de stock nous empêche de préparer votre commande est forte. Lorsque nous aurons reçu votre paiement, nous traiterons votre commande dans les deux jours ouvrés. En l’absence de référence de virement valide, votre commande sera annulée et vous devrez nous contacter au  ![0 809 40 03 76](https://www.rueducommerce.fr/static/drupal-front/inline-images/numero-2-1.png)  pour obtenir son remboursement.
 
