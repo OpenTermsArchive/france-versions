@@ -337,14 +337,6 @@ Pour tout litige, le Client a également la possibilité d’utiliser le Site de
 
 **14.2 Divisibilité** : Chacune des stipulations des Conditions Générales s’appliquera dans toute la mesure autorisée par la loi et la nullité en tout ou partie d’une clause serait sans influence sur le reste de cette clause et l’ensemble des Conditions Générales.
 
-**14.3 Réduction étudiants, apprentis et 16-26 ans – Youth Discount**
-
-Promotion valable dès 25€. Non cumulable avec d’autres offres en cours de validité.
-
-\- Certaines collections peuvent être exclues de l’offre.
-
-\- La collection « Sports » est exclue de l’offre.
-
 **ARTICLE 15 - L’IDENTIFIANT UNIQUE (IDU)**
 
 En respect de l’article L541-10 à L541-10-17 du Code de l’Environnement, le Numéro d’Identification Unique **Refashion** de Kappa France est le **FR251155\_11ZRDU**, et Numéro IDU emballage **Citeo**, le **FR212105\_01GICZ.**
