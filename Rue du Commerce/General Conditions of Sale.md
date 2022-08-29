@@ -152,22 +152,22 @@ Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »*
 
 **Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
-**
+**A noter que l’offre vendue directement par RUE DU COMMERCE sera toujours proposée en premier.  
 
-Le classement de ces différentes offres, et notamment la détermination de l’offre qui apparaîtra à titre principal sur la fiche produit, tient compte de plusieurs éléments :
+Ensuite, pour les offres proposées par les marchands de la Galerie marchande, RUE DU COMMERCE va opérer une agrégation pondérée de différents éléments :
 
 \- Le prix du produit ;
 
 \- Les frais de livraison ;
 
-\- Les délais de livraison.  
-  
+\- Les délais de livraison.
 
-Rue du Commerce va opérer une agrégation pondérée de ces différents éléments.
-
-L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques.
+L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques, sauf si une offre directement vendue par RUE DU COMMERCE est proposée.
 
 Vous avez toujours la possibilité d’accéder aux autres offres de ce même produit en cliquant sur « X offres à partir de XXX € ».
+
+Dans le cas ou la fiche produit propose des offres neuves et des offres seconde vie (occasion ou reconditionné), les mêmes critères sont appliqués mais les offres neuves sont toujours classées devant les offres secondes vies.  
+  
 
 ### 2.5 Les achats pour usage professionnel :
 
@@ -1019,22 +1019,22 @@ Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »*
 
 **Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
-**
+**A noter que l’offre vendue directement par RUE DU COMMERCE sera toujours proposée en premier.  
 
-Le classement de ces différentes offres, et notamment la détermination de l’offre qui apparaîtra à titre principal sur la fiche produit, tient compte de plusieurs éléments :
+Ensuite, pour les offres proposées par les marchands de la Galerie marchande, RUE DU COMMERCE va opérer une agrégation pondérée de différents éléments :
 
 \- Le prix du produit ;
 
 \- Les frais de livraison ;
 
-\- Les délais de livraison.  
-  
+\- Les délais de livraison.
 
-Rue du Commerce va opérer une agrégation pondérée de ces différents éléments.
-
-L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques.
+L’offre principale apparaissant sur la fiche produit sera celle qui aura le meilleur résultat global sur ces éléments par rapport à l’ensemble des autres offres de produits identiques, sauf si une offre directement vendue par RUE DU COMMERCE est proposée.
 
 Vous avez toujours la possibilité d’accéder aux autres offres de ce même produit en cliquant sur « X offres à partir de XXX € ».
+
+Dans le cas ou la fiche produit propose des offres neuves et des offres seconde vie (occasion ou reconditionné), les mêmes critères sont appliqués mais les offres neuves sont toujours classées devant les offres secondes vies.  
+  
 
 ### 2.5 Les achats pour usage professionnel :
 
