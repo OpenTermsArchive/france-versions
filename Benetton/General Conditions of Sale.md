@@ -86,8 +86,10 @@ Les commandes d’articles personnalisés peuvent être payées seulement par Pa
   
 Le Client a la charge d’examiner le colis lorsqu’il lui est remis et s’il constate que le colis est dégradé ou endommagé, il a l’obligation d’accepter sous réserve (ou de refuser) le colis et de photographier le colis et son contenu.  
 Le Client qui accepte sous réserve le colis doit contacter exclusivement le service client du Vendeur sous 24 h à partir de la livraison en spécifiant le numéro de commande et en fournissant les photographies du colis endommagé.  
-En cas de livraison « Driver release », le Client qui déplore un colis non livré, ou bien des dommages sur le colis et/ou la marchandise, ou dont certains articles sont manquants, a la charge de contacter le Service Client du Vendeur au plus tard 24 heures après la livraison et de conserver l'emballage d'expédition pour permettre la vérification de sa plainte.  
-Le non-respect des termes ci-dessus entraînera l'impossibilité pour le Vendeur d'approuver la plainte et, par conséquent, de garantir un dédommagement au Client.
+Le Client qui déplore l'altération du colis et/ou de la marchandise, ou dont certains articles sont manquants, doit contacter le Service Client du Vendeur dans les 24 heures suivant la date de livraison et conserver l'emballage d'expédition pour permettre la vérification de sa plainte.  
+Le non-respect des termes ci-dessus entraînera l'impossibilité pour le Vendeur d'approuver la plainte et, par conséquent, de garantir un dédommagement au Client.  
+  
+Si le Client manque la livraison du colis (à l'exception des livraisons « Driver release »), celui-ci devra contacter le Service Client du Vendeur dans les 24 heures suivant la date de livraison indiquée dans le mail reçu. Si l'option « Driver release » est choisie, le Client sera tenu pour seul responsable du manquement de la livraison du colis.
 
 ### ARTICLE 6 - DROIT DE RETRACTATION
 
