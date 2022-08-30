@@ -165,13 +165,13 @@ Sur simple demande, la facture peut vous être adressée sur support papier.
 
 #### Paiement report
 
-Le paiement report consite à régler la totalité de votre achat 30 jours après la date ed votre commande
+Le paiement report consiste à régler la totalité de votre achat 30 jours après la date de votre commande
 
 L'offre de paiement report est réservée aux clients membres du club Vertbaudet réalisant une commande sur le site vertbaudet.fr (dès la 2ème commande) d'un montant minimum de 60€ et d'un montant maximum de 380€, sous réserve de validation de la commande par nos services financiers.
 
-Vous pouvez vérifier votre éligibilité lorsqeue vous passez votre commande, au moment du choix du paiement.
+Vous pouvez vérifier votre éligibilité lorsque vous passez votre commande, au moment du choix du paiement.
 
-Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de préautorisation. Celle-ci est conservée par notre partenaire INGERICO jusqu'à la date du débit sur votre compte.
+Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de pré-autorisation. Celle-ci est conservée par notre partenaire INGERICO jusqu'à la date du débit sur votre compte.
 
 Effectuer un règlement en différé peut entraîner des risques d'incidents de paiement. Il vous faudra toujours veiller à avoir les fonds suffisants lors du débit.
 
@@ -195,7 +195,7 @@ La livraison des articles pourra s'effectuer :
 *   **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
-Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/1660208197/volumineux.png.avif) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/1660208197/treshttps://media.vertbaudet.fr/medias/44/0/28885/1660208197/volumineux.png).  
+Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png.avif) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/treshttps://media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png).  
 Enfin un magasin peut se réserver le droit de suspendre ce service momentanément (notamment en période de soldes), auquel cas il ne sera pas possible de le sélectionner sur le site Internet.  
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
@@ -203,7 +203,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/1660208197/volumineux.png.avif) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png.avif) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse**
 
@@ -389,7 +389,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/28885/1660208197/triman.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "https://media.vertbaudet.fr/medias/44/0/28885/1660208197/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/28885/2066934398/triman.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "https://media.vertbaudet.fr/medias/44/0/28885/2066934398/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
