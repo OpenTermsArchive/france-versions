@@ -527,7 +527,7 @@ Il appartient au Client de vérifier la conformité de la livraison par rapport 
 
   
 
-Tout colis présentant des anomalies apparentes (avarie, produit manquant par rapport au bon de commande, colis endommagé ou ouvert, produit défectueux...) au moment de sa livraison ou du retrait par le Client doit impérativement faire l'objet d'une réclamation adressée au service client dans un délai de 3 jours suivant la date de livraison ou du retrait via le [formulaire de contact](https://www.printemps.com/fr/fr/contact).
+Tout colis présentant des anomalies apparentes (avarie, produit manquant par rapport au bon de commande, colis endommagé ou ouvert, produit défectueux...) au moment de sa livraison ou du retrait par le Client doit impérativement faire l'objet d'une réclamation adressée au service client dans un délai de 3 jours suivant la date de livraison ou du retrait via le [formulaire de contact](https://support.printemps.com/hc/fr-fr/requests/new).
 
   
 
@@ -1085,7 +1085,7 @@ En cas de difficulté survenant à l'occasion de la commande ou de la livraison 
 
 *   par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 19h (UTC+1, Paris)
 *   par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
-*   via le formulaire accessible en ligne à l'adresse suivante [**www.printemps.com/fr/fr/contact**](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/contact)
+*   via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
 
   
 
