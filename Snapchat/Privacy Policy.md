@@ -1,5 +1,3 @@
-Nous avons mis à jour notre politique de confidentialité, à compter du 29 juin 2022. Vous pouvez consulter la politique de confidentialité précédente, qui s'applique à tous les utilisateurs jusqu'au 29 juin 2022, [ici](https://snap.com/fr-FR/privacy/privacy-policy/2021-11-05).
-
 Politique de confidentialité
 ============================
 
