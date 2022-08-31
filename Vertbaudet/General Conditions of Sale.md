@@ -195,7 +195,7 @@ La livraison des articles pourra s'effectuer :
 *   **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
-Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png.avif) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/treshttps://media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png).  
+Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/treshttps://media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png).  
 Enfin un magasin peut se réserver le droit de suspendre ce service momentanément (notamment en période de soldes), auquel cas il ne sera pas possible de le sélectionner sur le site Internet.  
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
@@ -203,7 +203,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png.avif) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png) et certains articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/treshttps://media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse**
 
