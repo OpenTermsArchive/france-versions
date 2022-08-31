@@ -203,7 +203,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/c/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png.avif) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse**
 
