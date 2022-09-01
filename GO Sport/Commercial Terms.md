@@ -1,11 +1,25 @@
-Conditions générales de vente mises à jour le 1er juillet 2021
-
-  
+Conditions générales de vente mises à jour le 1er septembre 2022
 
 ARTICLE 1 - OBJET
 =================
 
 Les présentes Conditions Générales de Vente sont conclues entre la société GO SPORT France, SAS au capital de 41 509 983,00 € dont le siège social est situé 17 Avenue de la Falaise, 38360 Sassenage, immatriculée au RCS de Grenoble sous le numéro 428 560 031 (ci-après dénommée « la Société ») et toute personne physique effectuant un achat (ci-après dénommée « le Client ») sur le site www.go-sport.com (ci-après désigné « le Site »).
+
+Conformément aux dispositions du code de l’environnement, et en sa qualité de distributeur de produits générateurs de déchets, la Société est adhérente à plusieurs filières de Responsabilité Elargie des Producteurs de déchets (REP) et dispose à ce titre, d’un identifiant unique (IDU) pour chaque filière auprès de qui elle est rattachée, à savoir :
+
+IDU Eléments d’Ameublement (DEA) : FR006076\_10WIDG
+
+IDU Textile, Linge de maison et Chaussures (TLC) : FR218603\_11IBJU
+
+IDU Déchets d’Equipements Electriques et Electroniques (DEEE) : FR006076\_05NNP3
+
+IDU Piles et Accumulateurs : FR002491\_06F8EN
+
+IDU Emballages Ménagers & Papiers (CITEO) : FR219498\_01WCRR
+
+IDU Articles de Sport et de Loisirs (ASL) : FR231727\_13JCWL
+
+  
 
 Toutes les commandes passées par l’intermédiaire du Site sont soumises sans réserve aux présentes Conditions Générales de Vente.
 
@@ -86,15 +100,11 @@ Service d’e-réservation :Le service d’e-réservation proposé sur le Site p
 
 Les modalités de fonctionnement de ce service sont accessibles au Client dès lors qu’il utilise le Service d’e-réservation.
 
-Avis fiche produits :Go Sport propose à ses clients par l’intermédiaire de son partenaire « Avis Vérifiés » la possibilité de laisser un avis à l’issu de son expérience sur le site go-sport.com. Vingt (20) jours après avoir passé sa commande sur le site marchand, le Client reçoit un email de demande d’avis. Le Client a alors la possibilité de laisser un avis sur son expérience achat.
+**Avis fiche produits** : GO Sport propose à ses clients par l’intermédiaire de son partenaire « Avis Vérifiés » la possibilité de laisser un avis à l’issu de son expérience sur le site go-sport.com. Vingt (20) jours après avoir passé sa commande sur le site marchand, le Client reçoit un email de demande d’avis. Le Client a alors la possibilité de laisser un avis sur son expérience achat.
 
 Le service Client de Go Sport dispose de 14 jours pour prendre connaissance de l’avis et vérifier qu’il respecte les critères de modération mis en place par Avis Vérifiés eu égard aux règlementations en vigueur applicable (non discriminatoire, non injurieux etc.).
 
-A expiration de ce délai, l’avis sera publié sur le site marchand. Un e-mail sera adressé au Client en cas de refus de publication de l’avis laissé ne respectant les règlementations en vigueur applicable.
-
-"En cliquant sur la case intitulée « J’accepte les conditions générales de vente» lors du passage de sa commande, le consommateur concerné manifeste son consentement spécifique, libre et éclairé par lequel il accepte que des données à caractère personnel le concernant soient utilisées par le tiers Avis Vérifiés dans le but de récolter son avis suite à sa commande. Avis-Vérifies utilisera les Données Personnelles des Consommateurs dans le cadre uniquement de sa Solution et pour les seuls besoins de celle-ci. Avis Vérifiés s’interdit formellement de communiquer à quiconque des informations personnelles ou nominatives permettant d’identifier le Consommateur ou portant atteinte au respect de sa vie privée.
-
-Le Consommateur a la possibilité de s'opposer à la diffusion de ces informations à Avis Vérifiés via le [Service Clients](https://service-clients.go-sport.com/hc/fr/categories/4413277848849-Contacter-le-Service-Clients)
+A expiration de ce délai, l’avis sera publié sur le site marchand. Un e-mail sera adressé au Client en cas de refus de publication de l’avis laissé ne respectant les règlementations en vigueur applicables.
 
   
 
@@ -127,6 +137,8 @@ Pour le Client adhérent au Club GO Sport , le délai de rétractation est port�
 
 Lorsque le délai de rétractation expire un samedi, un dimanche ou un jour férié ou chômé, il est prorogé jusqu’au premier jour ouvrable suivant.
 
+Le Client devra notifier à la Société sa volonté de se rétracter au moyen d’une déclaration dénuée d’ambigüité. Pour ce faire, le Client pourra utiliser le modèle de formulaire de rétractation disponible en annexe des présentes Conditions Générales de Vente.
+
 Le Client pourra manifester sa volonté de se rétracter :
 
 \- En se rendant dans l'un des magasins de la Société [https://www.go-sport.com/magasins/](https://www.go-sport.com/magasins/) muni de sa facture d’achat et du produit qu’il souhaite retourner, un récépissé de sa rétractation lui sera alors remis ;
@@ -136,6 +148,10 @@ Le Client pourra manifester sa volonté de se rétracter :
 Soit par mail à l'adresse suivante :
 
 \-service.client@go-sport.fr
+
+via le formulaire de contact relatif au droit de rétractation en se rendant sur le Service Client en ligne (voir modalités de contact à l’Article 15 ci-après) dans la rubrique « Besoin d’Aide » de l’espace client en cliquant sur la question « je ne veux plus de mon article, je souhaite me rétracter ».
+
+Les conditions de retour sont accessibles via [ce lien](https://www.go-sport.com/retour-et-echange-gratuit.html) 
 
 Soit par courrier à l’adresse suivante :
 
@@ -221,37 +237,33 @@ Le paiement est réalisé en ligne lors de la passation de la commande.
 
 Le paiement sera encaissé par la Société juste avant la transmission de la commande au service chargé de sa préparation.
 
-Modalités de paiementLes modalités de paiement suivantes sont proposées au Client :
+Modalités de paiement :
 
-Carte bancaire : les cartes bancaires acceptées sur le site sont Carte Bleue, Visa et Master Card. Ces cartes de paiement doivent être délivrées par un établissement bancaire ou financier situé dans l’Union Européenne.
+Les modalités de paiement suivantes sont proposées au Client :
+
+Carte bancaire : les cartes bancaires acceptées sur le site sont Carte Bleue, Visa et MasterCard. Ces cartes de paiement doivent être délivrées par un établissement bancaire ou financier situé dans l’Union Européenne.
 
 Bons d’achat « e-commerce » : il est possible d’utiliser les bons d’achat délivrés par le Service Clients dans le cadre d’un achat sur le Site pour le paiement de toute ou partie de la commande. Ces bons d’achat ne sont utilisables qu’une seule fois.
 
-Paiement en magasin : il est possible de payer la commande en magasin Go Sport dans un délai de 72h après la prise en compte de cette dernière en statut « en attente de paiement », muni d’une pièce d’identité.
+Paiement en magasin : il est possible de payer la commande en magasin GO Sport dans un délai de 72h après la prise en compte de cette dernière en statut « en attente de paiement », muni d’une pièce d’identité.
 
-Les modes de paiement acceptés sont les suivants : carte bleue, chèque bancaire, espèces, American Express, Avoir, bon d’achat, carte cadeau Go Sport et chèque cadeau.
+Les modes de paiement acceptés sont les suivants : carte bleue, chèque bancaire, espèces, American Express, Avoir, bon d’achat, carte cadeau GO Sport et chèque cadeau.
 
 Paiement en 3 ou 4 X :
 
 Le service de « paiement en 3 ou 4 X » permet à certains internautes clients du site go-sport.com de payer leurs achats en trois ou quatre fois (trois ou quatre mensualités) avec leur carte bancaire.
 
-Le service de « paiement en 3 ou 4 X » est une opération de crédit qui n’est pas soumise aux dispositions de l’article L.311-1 et suivants du Code de la Consommation notamment en raison de sa durée et des frais négligeables qui y sont associés.
+Le service de « paiement en 3 ou 4 X » est une opération de paiement échelonné qui n’est pas soumise aux dispositions de l’article L.311-1 et suivants du Code de la Consommation notamment en raison de sa durée et des frais négligeables qui y sont associés.
 
 Le présent service est réservé aux particuliers, personnes physiques majeures, résidant fiscalement en France Métropolitaine et utilisant une carte bancaire Visa ou MasterCard, pour le paiement de leur commande sur le site marchand. La durée de validité de la care utilisée doit être postérieure à la date de la dernière échéance du « paiement en 3 ou 4 X ».
 
-Les cartes à autorisation systématique de type Electron ou Maestro, les e-cards, les cartes Indigo et American Express ne sont pas acceptées. Retrouvez toutes les modalités de la souscription au service de « Paiement en 3 ou 4 X »Prenez connaissance des conditions générales du « paiement en 3 ou 4 X » proposé par notre partenaire BANQUE DU GROUPE CASINO en [](https://www.go-sport.com/cgv-cbnx.html) [cliquant ici](https://www.go-sport.com/cgv-cbnx.html)
+Les cartes à autorisation systématique de type Electron ou Maestro, les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
 
-Paiement en 3 X Oney :
+  
 
-Le paiement en 3 X avec Oney Bank permet à certains internautes clients du site www.go-sport.com de payer leurs achats en trois ou quatre fois avec leur carte bancaire et par l’intermédiaire de notre partenaire Oney Bank.
+Sécurisation des paiements
 
-Cette solution de financement est valable pour les commandes effectuées au sein de la Marketplace mise en ligne sur le site www.go-sport.com, conformément aux Conditions Générales de Services de la Plateforme « Marketplace » et pour les commandes dites mixtes comprenant des produits disponibles sur la Marketplace et des produits vendus et expédiés par GO SPORT France.
-
-Cette solution de financement n’est pas valable pour une commande comprenant exclusivement des produits vendus et expédiés par GO SPORT France.
-
-Ce service est réservé aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa et MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées. Retrouvez toutes les modalités de la souscription au service de « Paiement en 3 X Oney » [cliquant ici](https://www.go-sport.com/cgv-cb3x-oney.html)[.](https://www.go-sport.com/cgv-cb3x-oney.html)
-
-Sécurisation des paiementsLes paiements effectués sur le Site sont entièrement sécurisés.
+Les paiements effectués sur le Site sont entièrement sécurisés.
 
 Grâce aux caractéristiques techniques du logiciel de chiffrement utilisé sur le Site, les coordonnées bancaires (n° de la carte bancaire et date d’expiration) communiquées par le Client ne peuvent pas être interceptées par des tiers. En communiquant ses coordonnées bancaires, le Client accepte par avance et sans condition que la Société procède à la transaction sécurisée. Le Client autorise donc par avance sa banque à débiter son compte à la vue des relevés transmis par la Société, même en l’absence de factures signées de la main du titulaire de la carte. L’autorisation de débit du compte Client est toujours donnée pour le montant du produit acheté tel que facturé par la Société.
 
@@ -302,7 +314,7 @@ GO SPORT propose à ces Clients trois modes de livraison :
 
 En cas de commande multi-produits, le Client peut choisir un mode de livraison différent par produits selon la disponibilité de services proposés par GO SPORT pour ces produits.
 
-10.1. La livraison à domicile ou en relais colisLes délais annoncés sur le Site sont calculés en jours ouvrés (sous réserve de validation de la commande par Adyen NV). La date de livraison est calculée en tenant compte du délai d’expédition de la commande auquel est ajouté le délai de livraison du transporteur (DPD La Poste / Mondial Relay/ Fedex / Transporteur).
+10.1. La livraison à domicile ou en relais colis : Les délais annoncés sur le Site sont calculés en jours ouvrés (sous réserve de validation de la commande par Adyen NV). La date de livraison est calculée en tenant compte du délai d’expédition de la commande auquel est ajouté le délai de livraison du transporteur (DPD La Poste / Mondial Relay/ Fedex / Transporteur).
 
 Le délai de livraison court à partir du départ du colis des entrepôts de la Société ; il s'ajoute donc au délai d'expédition de la commande. Le Client est informé par mail dès l’expédition de sa commande.
 
@@ -314,7 +326,7 @@ Les produits sont livrés à l’adresse de livraison indiquée lors de la comma
 
 En cas de rupture de stock exceptionnelle, le Client sera averti par mail ou téléphone. La Société proposera au Client soit de retarder la livraison de l’intégralité de sa commande à la date de réapprovisionnement du produit concerné, soit d’accepter une livraison partielle, soit une annulation de sa commande.
 
-10.2. La livraison en magasinGO SPORT propose un service de livraison gratuite en magasin permettant aux Clients de commander depuis le Site et de bénéficier d’une livraison gratuite en magasin.
+10.2. La livraison en magasin GO SPORT propose un service de livraison gratuite en magasin permettant aux Clients de commander depuis le Site et de bénéficier d’une livraison gratuite en magasin.
 
 Les produits commandés pourront être payés depuis le Site ou directement en magasin selon les modalités précisées à l’article 4 ci-avant.
 
@@ -367,35 +379,43 @@ Le Client ne sera alors débité que du montant des produits disponibles de sa c
 ARTICLE 11 - GARANTIE LÉGALE
 ============================
 
-La garantie légale de conformité
+Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
-Article L 217-4 du Code de la Consommation :Le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existants lors de la délivrance.
+Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci.
 
-Il répond également des défauts de conformité résultant de l’emballage, des instructions de montage ou de l’installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
+La garantie légale de conformité emporte obligation pour le professionnel, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien.
 
-Article L217-5 du Code de la Consommation :Le bien est conforme au contrat :
+La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
-1/ S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
+Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d'une extension de six mois de la garantie initiale.
 
-\- s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle,
+Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien.
 
-\- s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage,
+Le consommateur peut obtenir une réduction du prix d'achat en conservant le bien ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :
 
-2/ Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
+1° Le professionnel refuse de réparer ou de remplacer le bien ;
 
-Article L 217-12 du Code de la consommation :L’action résultant du défaut de conformité se prescrit par deux (2) ans à compter de la délivrance du bien.
+2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;
 
-Article L 217-7 du Code de la consommation :Les défauts de conformité qui apparaissent dans un délai de vingt-quatre (24) mois à partir de la délivrance du bien sont présumés exister au moment de la délivrance sauf preuve contraire.
+3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du bien réparé ou de remplacement ;
 
-Le vendeur peut combattre cette présomption si celle-ci n’est pas compatible avec la nature du bien ou le défaut de conformité invoqué.
+4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse.
 
-La garantie légale des vices cachés
+Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable.
 
-Article 1641 du Code Civil :Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l’usage auquel on la destine ou qui diminuent tellement cet usage que l’acheteur ne l’aurait pas acquise ou n’en aurait donné qu’un moindre prix s’il les avait connus.
+Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.
 
-Article 1648 alinéa 1er du Code Civil :L’action résultant des vices rédhibitoires doit être intentée par l’acheteur dans un délai de deux (2) ans à compter de la découverte du vice.
+Toute période d'immobilisation du bien en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.
 
-Pour bénéficier de la garantie légale de conformité ou de la garantie des vices cachés, le Client devra se rendre dans le magasin GO Sport le plus proche pour la prise en charge de son produit soit dans un point Mondial Relay (service gratuit uniquement disponible pour les petits produits moins de 30 kilos).
+Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation.
+
+Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien.
+
+Pour bénéficier de la garantie légale de conformité ou de la garantie des vices cachés, le Client devra se rendre au choix dans le magasin GO Sport le plus proche pour la prise en charge de son produit ou dans un point Mondial Relay (service gratuit uniquement disponible pour les produits de moins de 30 kilos et dont le développé -longueur + largeur + hauteur- ne doit pas excéder 150 cm).
+
+  
 
 ARTICLE 12 - CAS SPÉCIFIQUE DES VÉLOS
 =====================================
@@ -452,13 +472,15 @@ ARTICLE 16 - SERVICE CLIENTS
 
 Pour toute information ou conseil, le Client peut contacter le Service Clients,
 
-Par téléphonedu lundi au vendredi de 9h à 20h et le samedi de 9h à 19h :au 0970 83 05 05 (n° non surtaxé, prix d’un appel local)
+Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 19h :au 0970 83 05 05 (n° non surtaxé, prix d’un appel local)
 
 Par mail- pour les clients ayant réalisé un achat : sur l’espace Client dans la rubrique « Vos achats en ligne » Besoin d’aide. Les informations relatives à la commande sont également disponible dans cet espace.
 
 \- ou à l’adresse suivante : service.client@go-sport.fr
 
-Par courrierService Clients GO SPORT
+Par courrier
+
+Service Clients GO SPORT
 
 17 avenue de la falaise
 
@@ -486,12 +508,34 @@ ARTICLE 18 - MÉDIATION DE LITIGES DE CONSOMMATION
 
 L’ordonnance du 20 août 2015 et le décret n°2015-1382 du 30 octobre 2015 relatifs à la médiation des litiges de la consommation et faisant application de la directive 2013/11/UE du Parlement européen du 21 mai 2013, relative au règlement extrajudiciaire des litiges de consommation, donne la possibilité au consommateur de se référer à la médiation afin de faciliter le règlement à l’amabile des litiges avec un professionnel à l’occasion d’une vente passée depuis le site [go-sport.com](https://www.go-sport.com/)
 
-Ainsi, pour tout litige qui n’aurait pas été réglé directement avec la Société, le Client est informé qu’il peut à présent recourir gratuitement au service de médiation mis en place par Médiation – Vivons mieux ensemble,
+Ainsi, pour tout litige qui n’aurait pas été réglé directement avec la Société, le Client est informé qu’il peut à présent recourir gratuitement au service de médiation mis en place par Médiation – Vivons mieux ensemble :
 
 \- Adresse du site : [www.mediation-vivons-mieux-ensemble.fr](https://www.mediation-vivons-mieux-ensemble.fr/)
 
 \- Adresse du médiateur : MEDIATION – VIVONS MIEUX ENSEMBLE 465 avenue de la Libération 54 000 NANCY
 
+  
+
 Plate-forme européenne de résolution en ligne des litiges : [https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&lng=FR](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.show&lng=FR)
 
 Avant de saisir le médiateur de la consommation, le consommateur doit déjà avoir tenté de résoudre son litige directement auprès du professionnel par une réclamation écrite ou avoir fait une réclamation selon les termes du contrat conclu avec le professionnel.
+
+**ANNEXE 1 – Modèle de formulaire de rétractation**  
+  
+Conformément à la règlementation en vigueur, et dans le respect des conditions prévues à l’Article 7 des présentes Conditions Générales de Vente, le Client a la possibilité d’exercer son droit à rétractation en utilisant le formulaire ci-dessous, A envoyer par email ou courrier postal :
+
+**A l’attention de GO Sport France, 17 Avenue de la Falaise, 38360, SASSENAGE – Service Clients GO Sport France : [service.client@go-sport.fr](mailto:service.client@go-sport.fr)**  
+  
+Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/pour la prestation de services (\*) ci-dessous :  
+  
+Commandé le (\*)/reçu le (\*) :  
+  
+Nom du (des) Client(s) :  
+  
+Adresse du (des) Client(s) :  
+  
+Signature du (des) Client(s) (uniquement en cas de notification du présent formulaire sur papier) :  
+  
+Date :  
+  
+(\*) Rayez la mention inutile.
