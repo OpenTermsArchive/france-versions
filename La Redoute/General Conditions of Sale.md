@@ -524,10 +524,16 @@ Le logo Triman est issu d’une règlementation du Code de l’environnement. Le
   
 LA REDOUTE est enregistrée au Registre national des metteurs sur le marché d’éléments d’ameublement sous le numéro FR001914. Ce numéro garantit que LA REDOUTE, en adhérant à Eco-mobilier, se met en conformité avec les obligations réglementaires qui lui incombent en application de l’article L 541-10-1 10° du Code de l’Environnement.
 
-10 - Médiation
---------------
+10 - Litiges et Médiation
+-------------------------
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, LA REDOUTE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie – 75008 Paris – [http://www.mediateurfevad.fr/](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de LA REDOUTE, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
+Pour toute question ou réclamation sur un produit ou une commande, vous pouvez nous contacter :  
+Par téléphone : 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)  
+Par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
+
+LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. Vous êtes invité à vous reporter à l'onglet " [Aide en ligne](https://aide.laredoute.fr/) " du Site Internet pour obtenir toutes les réponses à vos questions, ainsi que connaitre les différents moyens mis à votre disposition pour contacter La Redoute.
+
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, LA REDOUTE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie – 75008 Paris – [http://www.mediateurfevad.fr/](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de LA REDOUTE, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/)
 
 Au niveau européen, la Commission Européenne met à votre disposition une [plateforme de résolution en ligne des litiges.](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage)
 
