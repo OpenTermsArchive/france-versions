@@ -1,14 +1,11 @@
 [Print This Page](javascript:window.print())
 
-CONSUMERS’ TERMS AND CONDITIONS
-===============================
-
-[CONDITIONS GÉNÉRALES CONSOMMATEURS](javascript:void(0))[LIVRAISON](javascript:void(0))[RETOURS](javascript:void(0))[LIVRAISON](javascript:void(0))[PAIEMENT](javascript:void(0))[VOTRE COMMANDE](javascript:void(0))[VOTRE COMPTE](javascript:void(0))[CONTACTEZ-NOUS](javascript:void(0))
-
 CONDITIONS GÉNÉRALES CONSOMMATEURS
-----------------------------------
+==================================
 
-Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe CommVA/SCA, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Airport Plaza - Rio Building, Leonardo Da Vincilaan 19, 1831 DIEGEM, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
+[](javascript:void(0))[LIVRAISON](javascript:void(0))[RETOURS](javascript:void(0))[LIVRAISON](javascript:void(0))[PAIEMENT](javascript:void(0))[VOTRE COMMANDE](javascript:void(0))[VOTRE COMPTE](javascript:void(0))[CONTACTEZ-NOUS](javascript:void(0))
+
+Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Airport Plaza - Rio Building, Leonardo Da Vincilaan 19, 1831 DIEGEM, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
    
 
 ACCEPTATION DES CONDITIONS GÉNÉRALES ET DES AUTRES CONDITIONS  
