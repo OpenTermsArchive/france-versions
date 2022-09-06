@@ -763,7 +763,7 @@ Si une ou plusieurs stipulations des présentes conditions générales sont tenu
 
 ### 14.6 Médiation :
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – 09 83 24 74 88 – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
 Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges, facilitant le règlement indépendant par voie extrajudiciaire des litiges entre consommateurs et professionnels de l’Union européenne.
 
@@ -1630,7 +1630,7 @@ Si une ou plusieurs stipulations des présentes conditions générales sont tenu
 
 ### 14.6 Médiation :
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – 09 83 24 74 88 – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
 Conformément à l’article 14 du Règlement (UE) n°524/2013, la Commission Européenne a mis en place une plateforme de règlement en ligne des litiges, facilitant le règlement indépendant par voie extrajudiciaire des litiges entre consommateurs et professionnels de l’Union européenne.
 
