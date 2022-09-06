@@ -1,7 +1,7 @@
 CONDITIONS D'UTILISATION ET GENERALES DE VENTE
 ==============================================
 
-Dernière mise à jour le 5 janvier 2021. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
+Dernière mise à jour le 2 septembre 2022. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
 
 Bienvenue sur Amazon.fr.
 
@@ -80,11 +80,17 @@ S'ajoutent à ces Conditions d'Utilisation, [les conditions suivantes](#GUID-602
 
 **11\. AUTRES ENTREPRISES**
 
-Des tiers autres qu'Amazon gèrent des boutiques, proposent des services et vendent des lignes de produits sur ce site internet. De surcroît, nous fournissons des liens vers des sites internet de société affiliées et d'un certain nombre d'entreprises. Nous ne sommes pas responsables de l'examen ou de l'évaluation, et nous ne garantissons pas les offres de ces entreprises ou de ces particuliers, ou le contenu de leurs sites internet. Amazon n'assume aucune responsabilité ou obligation pour les actes, produits ou contenus de ces entreprises ou de ces particuliers ou d'autres tiers. Vous êtes informé quand un tiers est impliqué dans votre transaction, et nous pouvons partager vos informations en lien avec cette transaction avec ce tiers. Vous devez examiner leurs politiques de confidentialité et autres conditions d'utilisation avec attention.
+Des tiers autres qu'Amazon gèrent des boutiques, proposent des services et vendent des lignes de produits sur ce site internet. De surcroît, nous fournissons des liens vers des sites internet de société affiliées et d'un certain nombre d'entreprises. Nous ne sommes pas responsables de l'examen ou de l'évaluation, et nous ne garantissons pas les offres de ces entreprises ou de ces particuliers, ou le contenu de leurs sites internet. Sauf mention contraire explicite dans les présentes Conditions d'utilisation, les Conditions de vente ci-dessous ou les Conditions de service, Amazon n'assume aucune responsabilité ou obligation pour les actes, produits ou contenus de ces entreprises ou de ces particuliers ou d'autres tiers. Vous êtes informé quand un tiers est impliqué dans votre transaction, et nous pouvons partager vos informations en lien avec cette transaction avec ce tiers. Vous devez examiner leurs politiques de confidentialité et autres conditions d'utilisation avec attention.
 
-**12\. ROLE D'AMAZON**
+**12\. VENDEURS TIERS ET ROLE D'AMAZON**
 
-Amazon permet à des vendeurs tiers de lister et de vendre leurs produits sur Amazon.fr. Dans chacun de ces cas, ceci est indiqué sur la page respective de détail du produit. Bien qu'Amazon, en tant qu'hébergeur, facilite les transactions réalisées sur la place de marché (ou Marketplace) d'Amazon, Amazon n'est ni l'acheteur ni le vendeur des produits des vendeurs tiers. Amazon fournit un lieu de rencontre dans lequel les acheteurs et vendeurs complètent et finalisent leurs transactions. En conséquence, pour la vente de ces produits de vendeurs tiers, un contrat de vente est formé uniquement entre l'acheteur et le vendeur tiers. Amazon n'est pas partie à un tel contrat et n'assume aucune responsabilité ayant pour origine un tel contrat ou découlant de ce contrat de vente. Amazon n'est ni l'agent ni le mandataire des vendeurs tiers. Le vendeur tiers est responsable des ventes de produits et des réclamations ou tout autre problème survenant ou lié au contrat de vente entre lui et l'acheteur. Parce qu'Amazon souhaite que l'acheteur bénéficie d'une expérience d'achat la plus sûre, Amazon offre la [Garantie A à Z](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201889250) en plus de tout droit contractuel ou autre.
+Amazon permet à des vendeurs tiers de lister et de vendre leurs produits sur Amazon.fr. Dans chacun de ces cas, ceci est indiqué sur la page respective de détail du produit. Bien qu'Amazon, en tant qu'hébergeur, facilite les transactions réalisées sur la place de marché (ou Marketplace) d'Amazon, Amazon n'est ni l'acheteur ni le vendeur des produits des vendeurs tiers. Amazon fournit un lieu de rencontre dans lequel les acheteurs et vendeurs complètent et finalisent leurs transactions. En conséquence, pour la vente de ces produits de vendeurs tiers, un contrat de vente est formé uniquement entre l'acheteur et le vendeur tiers. Amazon n'est pas partie à un tel contrat et n'assume aucune responsabilité ayant pour origine un tel contrat ou découlant de ce contrat de vente. Amazon n'est ni l'agent ni le mandataire des vendeurs tiers. Sauf dans les cas mentionnés ci-dessous dans cette section, le vendeur tiers est responsable des ventes de produits et des réclamations ou tout autre problème survenant ou lié au contrat de vente entre lui et l'acheteur. Parce qu'Amazon souhaite que l'acheteur bénéficie d'une expérience d'achat la plus sûre, Amazon offre la [Garantie A à Z](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201889250) en plus de tout droit contractuel ou autre.
+
+Veuillez noter que certains vendeurs tiers peuvent vendre en tant que particuliers et non en tant que vendeurs professionnels. Dans chaque cas, ces informations sont indiquées sur la page d’informations détaillées concernant le vendeur (à laquelle vous pouvez accéder en cliquant sur le nom de ce dernier) et sont basées sur les informations fournies par le vendeur à Amazon. Si un vendeur n’est pas un professionnel, veuillez noter que vos droits légaux habituels en vertu des lois sur la protection des consommateurs (par exemple, des droits de garantie de 2 ou 3 ans, selon le pays, et le droit d’annuler votre commande dans les 14 jours sans devoir exposer de raison) ne s’appliqueront pas. Toutefois, la garantie A à Z d’Amazon et notre garantie de retour volontaire de 30 jours s’appliqueront toujours dans ce cas.
+
+Si les articles du vendeur tiers sont indiqués comme Expédié par Amazon, Amazon gérera la livraison et notre service client s’occupera de tout problème lié à la commande. Pour plus d’informations, en particulier sur la résolution des litiges dans ces cas particuliers, consultez la page d’aide [Expédié par Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=G239KSGYPUFUY8TQ).
+
+Si les articles du vendeur tiers ne sont pas indiqués comme Expédié par Amazon, le vendeur gérera la livraison de votre commande. Plus d’informations sur notre page d’aide [Commande auprès d'un vendeur Marketplace](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). Le vendeur traitera également toutes les demandes destinées au service client, sauf s’il est indiqué que le service client est fourni par Amazon ou si votre commande est marquée du badge Amazon Prime.
 
 **13\. NOTRE RESPONSABILITE**
 
@@ -124,44 +130,19 @@ Le site internet Amazon.fr appartient à, et sa maintenance est effectuée par, 
 
 **Pour Amazon Europe Core SARL :**
 
-Amazon Europe Core SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 37 500 €  
-Enregistrée au Luxembourg  
-RCS Luxembourg N° : B-101818  
-Numéro de licence : 10040783  
-Numéro de TVA intracommunautaire : LU 26375245
+Amazon Europe Core SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 37 500 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 10040783 Numéro de TVA intracommunautaire : LU 26375245
 
 **Autres coordonnées :**
 
-**Pour Amazon EU SARL :**  
-Amazon EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 125 000 €  
-Enregistrée au Luxembourg  
-RCS Luxembourg N° : B-101818  
-Numéro de licence : 134248  
-Numéro de TVA intracommunautaire : LU 20260743
+**Pour Amazon EU SARL :** Amazon EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 125 000 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 134248 Numéro de TVA intracommunautaire : LU 20260743
 
-**Succursale en France :**  
-Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France  
-Enregistrée en France  
-Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre  
-Numéro de TVA intracommunautaire : FR 12487773327
+**Succursale en France :** Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France Enregistrée en France Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre Numéro de TVA intracommunautaire : FR 12487773327
 
-**Pour Amazon Services Europe SARL :**  
-Amazon Services Europe SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 37 500 €  
-Enregistrée au Luxembourg  
-RCS Luxembourg N°: B-93815  
-Numéro de licence : 132595  
-Numéro de TVA intracommunautaire : LU 19647148
+**Pour Amazon Services Europe SARL :** Amazon Services Europe SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 37 500 € Enregistrée au Luxembourg RCS Luxembourg N°: B-93815 Numéro de licence : 132595 Numéro de TVA intracommunautaire : LU 19647148
 
-**Pour Amazon Media EU SARL :**  
-Amazon Media EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 37 500 €  
-Enregistrée au Luxembourg  
-RCS Luxembourg N°: B-112767  
-Numéro de licence : 136312  
-Numéro de TVA intracommunautaire : LU 20944528
+**Pour Amazon Media EU SARL :** Amazon Media EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 37 500 € Enregistrée au Luxembourg RCS Luxembourg N°: B-112767 Numéro de licence : 136312 Numéro de TVA intracommunautaire : LU 20944528
+
+Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
 **20\. PROCEDURE ET FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS**
 
@@ -189,36 +170,17 @@ Parce que des millions de produits sont listés et que des milliers de commentai
 
 **D E C L A R A T I O N**
 
-**Je soussigné,**  
-Nom et prénom : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Nom Société : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Adresse et Adresse e-mail : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ETRE JOINT DURANT LA JOURNEE) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Je soussigné,** Nom et prénom : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Nom Société : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Adresse et Adresse e-mail : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ETRE JOINT DURANT LA JOURNEE) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Déclare sur l'honneur ce qui suit :**  
-1\. Je fais référence au site www.amazon.fr. Ce dernier affiche ou contribue à l'affichage de commentaires injurieux ou diffamatoires à mon sujet.  
-  
-2\. Les propos injurieux ou diffamatoires (RAYEZ LE PARAGRAPHE INUTILE) :  
-(a) apparaissent dans un livre vendu sur le site www.amazon.fr :
+**Déclare sur l'honneur ce qui suit :** 1. Je fais référence au site www.amazon.fr. Ce dernier affiche ou contribue à l'affichage de commentaires injurieux ou diffamatoires à mon sujet. 2. Les propos injurieux ou diffamatoires (RAYEZ LE PARAGRAPHE INUTILE) : (a) apparaissent dans un livre vendu sur le site www.amazon.fr :
 
 *   **Titre du livre et auteur :**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *   **Numéro ASIN (1) ou ISBN-13 (2) du livre :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 *   **Numéro(s) de la (des) page(s) qui comporterai(en)t des propos diffamatoires :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB)  
-(b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) :  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(b.2.) Ces propos sont injurieux car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME INJURIEUX) :  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(b.3.) Les propos que je considère comme **DIFFAMATOIRES** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) :  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-(b.4.) Ces propos sont diffamatoires car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME DIFFAMATOIRES) :  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
-  
-3\. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
+(b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB) (b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.2.) Ces propos sont injurieux car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME INJURIEUX) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.3.) Les propos que je considère comme **DIFFAMATOIRES** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.4.) Ces propos sont diffamatoires car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME DIFFAMATOIRES) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
 
-**Déclaration de vérité**  
-Je déclare que les faits déclarés ci-dessus sont exacts.
+**Déclaration de vérité** Je déclare que les faits déclarés ci-dessus sont exacts.
 
 **Signature, Lieu, Date:** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -240,9 +202,9 @@ Lorsque vous utilisez un Logiciel Amazon, vous pouvez également être amené à
 
 Vous ne pouvez et vous n'encouragerez pas, ni n'assisterez ou n'autoriserez qui que ce soit à (i) copier, modifier, altérer d'une autre façon un Logiciel Amazon en tout ou partie, créer des œuvres dérivées à partir ou du Logiciel Amazon ou (ii) effectuer de l'ingénierie inverse, décompiler ou désassembler un Logiciel Amazon en tout ou partie, sauf dans les limites autorisées par la loi.
 
-**4\. Mises à jour.**
+**4\. Mises à jour logicielles.**
 
-Afin de garder les Logiciels Amazon à jour, nous pouvons offrir des mises à jour automatiques ou manuelles à tout moment et sans notification préalable.
+Sauf indication contraire dans les conditions de service concernant certains logiciels Amazon, Amazon peut publier des mises à jour et des mises à niveau du logiciel Amazon de temps à autre. Veuillez également consulter les Conditions de vente pour les mises à jour logicielles spécifiques aux biens physiques contenant des éléments numériques.
 
 CONDITIONS GENERALES DE VENTE
 -----------------------------
@@ -336,18 +298,39 @@ La commande en 1-Click est la façon la plus rapide et la plus simple pour comma
 
 Vous bénéficiez de la garantie légale de conformité dans les conditions des articles L.217-4 et suivants du code de la consommation et de la garantie des vices cachés dans les conditions prévues aux articles 1641 et suivants du code civil. Consultez notre [page d'aide sur ces garanties](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201310960) pour plus d'informations.
 
-Lorsque vous agissez en garantie légale de conformité,
+Vous bénéficiez d'un délai de deux ans à compter de la délivrance du produit pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, vous n’êtes tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
-*   vous bénéficiez d'un délai de deux ans à compter de la délivrance du bien pour agir ;
-*   vous pouvez choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l'article L.217-9 du code de la consommation ;
-*   pour tout produit acheté jusqu'au 17 mars 2016 à 23:59:59, vous êtes dispensés de rapporter la preuve de l'existence du défaut de conformité du bien durant les six (6) mois suivant la délivrance du bien ;
-*   pour tout produit acheté à partir du 18 mars 2016 à minuit, vous êtes dispensés de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels vous êtes dispensés de rapporter la preuve de l'existence du défaut de conformité du bien seulement durant les six (6) mois suivant la délivrance du bien.
+Lorsque le contrat de vente du produit prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, vous n'êtes tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci. Pour ces biens, la garantie légale de conformité emporte obligation pour le professionnel de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien.
+
+Vous avez le droit de choisir entre la réparation ou le remplacement du produit dans un délai de trente jours suivant votre demande, sans frais et sans inconvénient majeur pour vous.
+
+Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d’une extension de cette garantie de six (6) mois.
+
+Si vous demandez la réparation du bien, mais que son remplacement vous ait imposé, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du produit.
+
+Vous pouvez obtenir une réduction du prix d'achat en conservant le produit ou mettre fin au contrat en vous faisant rembourser intégralement contre restitution du produit, si :
+
+(i) Le vendeur professionnel refuse de réparer ou de remplacer le produit ;
+
+(ii) La réparation ou le remplacement du produit intervient après un délai de trente jours ;
+
+(iii) La réparation ou le remplacement du produit occasionne un inconvénient majeur pour vous, notamment si vous supportez définitivement les frais de reprise ou d'enlèvement du produit non conforme, ou si vous supportez les frais d'installation du produit réparé ou de remplacement ;
+
+(iv) La non-conformité du produit persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse.
+
+Vous avez également droit à une réduction du prix du produit ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Vous n'êtes alors pas tenu de demander la réparation ou le remplacement du produit au préalable.
+
+Vous n'avez pas droit à la résolution de la vente si le défaut de conformité est mineur.
+
+Toute période d'immobilisation du produit en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du produit remis en état.
+
+Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation.
+
+Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+Vous bénéficiez également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le produit est conservé ou à un remboursement intégral contre restitution du produit.
 
 La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
-
-Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente (article 1644 du code civil).
-
-Les produits audio, vidéo et multimédia peuvent donner droit à la garantie du fabricant indiquée sur la fiche détaillée du produit. Si le produit devient défectueux pendant la période de la garantie du fabricant, vous pouvez consulter le service après-vente du fabricant.
 
 Nous nous engageons à apporter tous les soins en usage dans la profession pour la mise en œuvre du service offert au client. Néanmoins, notre responsabilité ne pourra pas être retenue en cas de retard ou de manquement à nos obligations contractuelles si le retard ou manquement est dû à une cause en dehors de notre contrôle : cas fortuit ou cas de force majeure tel que défini par la loi applicable.
 
@@ -357,7 +340,15 @@ Nous mettons en œuvre tous les moyens dont nous disposons pour assurer les pres
 
 La limitation de responsabilité visée ci-dessus est inapplicable en cas de dol ou de faute lourde de notre part, en cas de dommages corporels ou de responsabilité du fait des produits défectueux, en cas d'éviction et en cas de non-conformité (y compris en raison de vices cachés).
 
-**8\. DROIT APPLICABLE**
+**8\. MISES À JOUR DE LOGICIELS**
+
+Pour les biens comportant des éléments numériques, Amazon (ou un tiers concerné) publiera les types de mises à jour suivants selon les produits numériques que vous achetez :
+
+*   le cas échéant, les mises à jour qui ont été spécifiées sur la page d’informations sur le produit lors de l’achat ; et (ii) les mises à jour requises par la loi, y compris pour garantir la conformité du produit en question ; cf. page d’aide Garantie légale de conformité - Garantie des vices cachés - Différences avec les garanties commerciales.
+*   Amazon (ou un tiers concerné) peut également vous fournir des mises à jour de produits supplémentaires de temps à autre, notamment pour : (i) proposer ou améliorer de nouvelles fonctionnalités, conceptions, interfaces et/ou caractéristiques ; (ii) apporter des modifications techniques mineures ; et/ou (iii) pour des raisons juridiques ou de sécurité, lorsque jugé raisonnablement nécessaire par Amazon (ou un tiers concerné). Certaines de ces mises à jour peuvent ne pas être nécessaires pour garantir la conformité du produit. En acceptant les conditions de vente, vous acceptez de recevoir ces mises à jour.
+*   Vous acceptez que les mises à jour puissent être effectuées automatiquement, sans aucune action nécessaire de votre part. Une mise à jour qui n’est pas automatique ne prend effet qu’une fois que vous l’avez installée. Vous reconnaissez que si les mises à jour ne sont pas installées dans les délais, ou si elles ne sont pas installées correctement, cela peut nuire aux performances ou aux fonctionnalités des produits concernés. Amazon ne sera pas tenu responsable en cas de non-conformité résultant de votre manquement à installer correctement les mises à jour.
+
+**9\. DROIT APPLICABLE**
 
 Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de loi), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions Générales de Vente, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficier également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence.
 
@@ -365,34 +356,27 @@ Notre entreprise adhère à la Fédération du e-commerce et de la vente à dist
 
 La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Si vous souhaitez attirer notre attention sur un sujet, merci de [nous contacter](https://www.amazon.fr/contactez-nous).
 
-**9\. MODIFICATION DU SERVICE OU DES CONDITIONS GENERALES DE VENTE**
+**10\. MODIFICATION DU SERVICE OU DES CONDITIONS GENERALES DE VENTE**
 
 Nous nous réservons le droit de faire des changements à notre Site Internet, nos procédures, et à nos termes et conditions, y compris les présentes Conditions Générales de Vente à tout moment. Vous êtes soumis aux termes et conditions, procédures et Conditions Générales de Vente en vigueur au moment où vous nous commandez un produit, sauf si un changement à ces termes et conditions, ou les présentes Conditions Générales de Vente est exigé par une autorité administrative ou gouvernementale (dans ce cas, cette modification peut s'appliquer aux commandes antérieures que vous avez effectuées). Si l'une des stipulations de ces Conditions Générales de Vente est réputée non valide, nulle ou inapplicable, quelle qu'en soit la raison, cette stipulation sera réputée divisible et n'affectera pas la validité et l'effectivité des stipulations restantes.
 
-**10\. RENONCIATION**
+**11\. RENONCIATION**
 
 Si vous enfreignez ces Conditions Générales de Vente et que nous ne prenons aucune action, nous serions toujours en droit d'utiliser nos droits et voies de recours dans toutes les autres situations où vous violeriez ces Conditions Générale de Vente.
 
-**11\. MINEURS**
+**12\. MINEURS**
 
 Nous ne vendons pas de produits aux mineurs. Nous vendons des produits pour enfants pour des achats par des adultes. Si vous avez moins de 18 ans, vous ne pouvez utiliser le Site Internet Amazon.fr que sous la surveillance d'un parent ou d'un tuteur.
 
-**12\. IDENTIFICATION**
+**13\. IDENTIFICATION**
 
 Amazon.fr est une marque commerciale utilisée par Amazon EU SARL. Nos informations de contact sont les suivantes :
 
-Amazon EU SARL, Société à responsabilité limitée, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 125.000 €  
-Enregistrée au Luxembourg  
-RCS Luxembourg N° : B-101818  
-Numéro de licence : 134248  
-Numéro de TVA intracommunautaire : LU 20260743
+Amazon EU SARL, Société à responsabilité limitée, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 125.000 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 134248 Numéro de TVA intracommunautaire : LU 20260743
 
-**Succursale en France :**  
-Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France  
-Enregistrée en France  
-Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre  
-Numéro de TVA intracommunautaire : FR 12487773327
+**Succursale en France :** Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France Enregistrée en France Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre Numéro de TVA intracommunautaire : FR 12487773327
+
+Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
 Liste non exhaustive des marques déposées Amazon :1-CLIC, 1-CLICK, 1-CLICK COMPARE, 1° SOUTH, 1° SOUTH Design, 6PM, 6 Design, 43 PLACES, 43 THINGS, a Design, A9, ABE, ABEBOOKS, ADMASH, AMAZON ADMASH Design,, ADZINIA, ALEXA, ALL CONSUMING, AMAPEDIA, AMAZON, AMAZON Design, AMAZON.CA, AMAZON.CO.JP, AMAZON.CO.UK, AMAZON.DE, AMAZON.ES, AMAZON.FR, AMAZON.IT, AMAZON.ES, AMAZON ANYWHERE, AMAZON BASICS Design, AMAZON BOOKCLIPS PODCAST Design, AMAZON.COM, AMAZON.COM Design, AMAZON.COM ANYWHERE, AMAZONASSIST, AMAZON CLOUDFRONT, AMAZONCONNECT, AMAZONCROSSING, AMAZON CURRENCY CONVERTER, AMAZON DEVPAY, AMAZON EC2, AMAZONENCORE, AMAZONENCORE Design, AMAZONFRESH, AMAZONFRESH Design, AMAZON.FR AND YOU'RE DONE & Design, AMAZON FRUSTRATION-FREE, AMAZON HONOR SYSTEM, AMAZONKINDLE, AMAZONKINDLE COMPATIBLE Design, AMAZONKINDLE Design, AMAZON LINKS (Guitar Design), AMAZON MOBILE SHOPPING CART Logo, AMAZONMP3 Design, AMAZON PREMIUM, AMAZON PRIME, AMAZON SILK, AMAZONTOTE Design, AMAZONUNBOX Design, AMAZON VINE, AMAZON VPC, AMAZON WEB SERVICES Design, AMAZONWINDOWSHOP Design, AMAZON WIRE PODCAST Design, AMI ST Design, AMI DANS LA RUE, AMZN, AND YOU'RE DONE, ARTIFICIAL, ASKVILLE, ASSOCIATES CENTRAL, ASTORE Design, AUDIBLE, AUDIBLELISTENER, AUDILBLEORIGINALS, AUDIBLEREADY, AUDIBLE.COM, AUDIBLE.CO.UK, AUDIBLE.DE, AUDIBLE.FR, AUDIBLE Design, AUDJIE, AWS, BAG O'CRAP, BETTER TOGETHER, BID-CLICK, BONES OF THE BOOK, BOP, BOP BASICS, BOTTOM OF THE PAGE, BOUQUETS, BRIGITTE BAILEY, BUY ONCE, READ EVERYWHERE, BUYPHRASE, BUYVIP, BUY V!P Design, CERTIFIED FRUSTRATION-FREE PACKAGING, CHERCHER AU COEUR!, CHRISTIN MICHAELS, CLICK.HEAR, CLICKRIVER, CLOUDFRONT, CREATESPACE, CREATESPACE Design, CRITICALMASS TICKETING, CROSSLINKS, DEALS.WOOT!, DENALI, DON'T RESTRICT ME, DPREVIEW, DPREVIEW Design, DROP SHIP CENTRAL, EAMAZON, EARTH'S BIGGEST, EARTH'S BIGGEST SELECTION, EC2, EGGHEAD, EAMAZON,ELASTIC COMPUTE CLOUD, ENDLESS, EVERY DEVICE HAS AT LEAST ONE SMALL PART, FIRE, FBA, FLASHING LIGHTS Design, FULFILLMENT BY AMAZON, FILMFINDERS, FITZWELL, GABRIELLA ROCHA, GAME CIRCLE, GOLD BOX, GOOD AT FINDING GOODS, HABIT, H Design, HABIT Design, HOLITUDE, IMDB, IMPROVE YOUR HOLITUDE, JAVARI, JUNGLEE, KINDLE, KINDLE Design, KINDLE FIRE, KINDLE SINGLES, LE COMITE DES MAMANS, LIGHTNING DEALS, LISTMANIA, LOOK INSIDE! Design, LOVEFILM, LOVEFILM Design, LUMIANI, MECHANICAL TURK, MOBIPOCKET Design, MOOFI, MTURK, MES Z'ENVIVES, MYHABIT, NEW FOR YOU, NOWNOW, OMAKASE, OMNIVORACIOUS, ONE COMMUNITY, EVERY DEAL, PAYPAGE, PAYPHRASE, PINZON, POINTING DEVICES, PRIME, PROMISCUOUS, PURCHASE CIRCLES, QUESTVILLE, READERS, ROMANTIC SOLES, RSVP, SEARCH INSIDE THE BOOK, SEARCH INSIDE!, SELLER CENTRAL, SHARE THE LOVE, SHELFARI, SHIRT.WOOT!, SHOPBOP, SMILE DESIGN, SNAPTELL, SNAP TO LISTEN Design, SO YOU'D LIKE TO, SOUNDUNWOUND, STANZA, STARMETER, STATE & LAKE, STRATHWOOD, SUBSCRIBE & SAVE, TAKE-IT PRICE, TEXTBUYME, TEXTPAYME, THE BOOK LIVES ON, THE SIGNIFICANT SEVEN, THING, TYPE Z, UNBOX, UNIVERSIAL WISHLIST Design, VENDOR CENTRAL EUROPE, VIGOTTI, WAG.COM, WE LOVE BRANDS Design, WHISPERCACHE, WHISPERLINK, WHISPERNET, WHISPERSHARE, WHISPERSYNC, WITHOUTABOX, WOOT!, WOOT-OFF!, WRAP YOUR HOLIDAYS IN A SMILE, WISHLIST Design, WWW.LOVEFILM.COM, WWW.LOVEFILM.CO.UK, XRAY, ZAPPOS, ZSHOPS et les autres marques indiquées sur notre site sont des marques commerciales ou des marques déposées de Amazon.com, Inc ou de ses filiales (collectivement "Amazon"), dans l'Union européenne et / ou d'autres juridictions. Les graphiques, logos, en-têtes de page, boutons, scripts et noms de service d'Amazon.fr sont des marques ou visuels d'Amazon. Les marques et visuels d'Amazon ne peuvent pas être utilisées pour des produits ou services qui n'appartiennent pas à Amazon d'une manière susceptible de provoquer la confusion parmi les clients, ou de toutes autres manières dépréciant, dénigrant ou discréditant Amazon. Toutes les autres marques qui n'appartiennent pas à Amazon et qui apparaissent sur ce site sont la propriété de leurs propriétaires respectifs, qui peuvent ou non être affiliés, liés ou parrainés par Amazon. Révisé le 10 avril 2012
 
