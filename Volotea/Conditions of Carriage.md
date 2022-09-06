@@ -960,7 +960,7 @@ Si vous avez des questions concernant les articles que vous pouvez transporter �
 
 Veuillez télécharger notre guide des [articles de marchandises dangereuses](https://media.volotea.com/media/2574/voe_br_dangerous-goods_en.pdf).
 
-Pour plus d'informations, téléchargez notre [liste d'articles interdits](https://media.volotea.com/media/2578/br_ground-operations_doento-mercanc%C3%ADas-peligrosas_a5_fr-en.pdf) à bord.
+Pour plus d'informations, téléchargez notre [liste d'articles interdits](https://media.volotea.com/media/2717/voe_br_ground-op_prohibited-items_qr_fr.pdf) à bord.
 
 Si le passager a besoin de transporter ces objets, il doit en faire la demande au préalable auprès de notre [service clientèle](https://www.volotea.com/fr/contact/email/).
 
