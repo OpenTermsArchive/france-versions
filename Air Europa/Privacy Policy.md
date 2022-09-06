@@ -6,13 +6,14 @@ Nous mettons à votre disposition toutes les informations relatives à la protec
 Responsable del tratamiento
 
 **Titular**  
-AIR EUROPA LÍNEAS AÉREAS, S.A., (en adelante AIR EUROPA).  
+AIR EUROPA LÍNEAS AÉREAS, S.A.U, (en adelante AIR EUROPA).  
 NIF: A07129430.
 
 **Puede contactarnos a través de**
 
 **Domicilio**  
-Polígono Son Noguera, Llucmajor - Baleares- España
+Polígono Son Noguera, Ctra. Arenal - Llucmajor Km, 21.5  
+07630, Llucmajor - Baleares - España
 
 **Teléfono**  
 [+34 911 401 501](tel:+34%20911%20401%20501)
@@ -63,7 +64,7 @@ Estos datos solo se recopilan con su consentimiento –al seleccionar los servic
 
 Destacar que, para determinados destinos y mientras las normativas que hacen referencia al control de epidemias o pandemias (por ejemplo: COVID-19) nos obliguen a ello, podremos solicitar que muestre sus datos como certificados de vacunación o pruebas diagnósticas (Antígenos, PCR, etc.) requeridas por las autoridades sanitarias del país de destino. 
 
-Si participa en el programa READY2FLY, puede validar sus certificados de vacunación/pasaporte covid (datos sensibles), si así lo exigen las autoridades de su destino, como parte del check-in online (App o web), con la finalidad de mejorar su experiencia en el aeropuerto haciéndola más rápida y segura (sin presentar su documentación ni en facturación, ni en el embarque, al estar registrado en nuestros sistemas como pasajero idóneo para viajar).
+Si participa en el programa READY2FLY, puede validar sus certificados de vacunación/pasaporte COVID (datos sensibles), si así lo exigen las autoridades de su destino, como parte del check-in online (App o web), con la finalidad de mejorar su experiencia en el aeropuerto haciéndola más rápida y segura (sin presentar su documentación ni en facturación, ni en el embarque, al estar registrado en nuestros sistemas como pasajero idóneo para viajar).
 
 En aquellos aeropuertos que hayan instalado dispositivos de control biométrico (dato sensible), en caso de enrolamiento (opcional) solo recopilamos la confirmación de la comprobación de identidad en las diferentes etapas del circuito en el aeropuerto (check-in, depósito del equipaje de bodega, embarque), así como los datos que nos permiten vincular automáticamente estos datos a la reserva correspondiente y realizar correctamente el embarque. No recopilamos, ni tratamos los datos biométricos de nuestros pasajeros, indicamos que este servicio es ofrecido por el gestor aeroportuario, por ejemplo AENA (https://www.aena.es/es/nota-adicional/politica-privacidad-sistema-biometrico-mad), por lo que el tratamiento de datos se realiza directamente por ellos.
 
@@ -162,7 +163,7 @@ Destinatarios
      
 4.  Comunicaremos sus datos a otras compañías aéreas, operadores de transporte marítimo o terrestre que sean necesarios para la prestación de los servicios solicitados por usted. Por ejemplo, cuando su itinerario de viaje incluya un vuelo operado por una compañía aérea distinta o incluya varios transportes que usted haya contratado. Las mismas serán identificadas en el momento de reserva, teniendo su voluntad, mostrada al contratar los servicios, la consideración de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
      
-5.  Comunicaremos sus datos personales a las compañías de tarjetas de crédito y débito, agencias de informes de crédito y proveedores de servicios de control de fraude, así como los procesadores de pagos y la propia pasarela de pago (Puede ver el listado en la Tabla de colaboradores.). La contratación del servicio mediante la página web u App se considerará como el otorgamiento de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
+5.  Comunicaremos sus datos personales a las compañías de tarjetas de crédito y débito, agencias de informes de crédito y proveedores de servicios de control de fraude, así como los procesadores de pagos y la propia pasarela de pago (Puede ver el listado en la Tabla de colaboradores.). La contratación del servicio mediante la página web o App se considerará como el otorgamiento de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
      
 6.  Comunicaremos sus datos a los sistemas de distribución global o “GDS”, sistemas informatizados que utiliza AIR EUROPA para gestionar las reservas, emitir los billetes, etc. que permite una interconexión para poder distribuir en tiempo real los diferentes productos y servicios que ofrece.  
      
@@ -230,6 +231,16 @@ Nuestro sitio web utiliza “cookies" para recabar información sobre la forma d
 #### 
 
 Tabla de colaboradores
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| EMPRESA | POLÍTICADE PRIVACIDAD | FINALIDAD | TRANSFERENCIA INTERNACIONAL DE DATOS |
+| Riskified Ltd | [https://www.riskified.com/terms/](https://www.riskified.com/terms/) | Detección y prevención del fraude para Air Europa y otros clientes de Riskified. | Israel, Nepal y Estados Unidos |
+| Worldpay B.V.  <br>Worldpay (UK) Ltd  <br>Worldpay Ltd  <br>Worldpay AP Ltd | [https://online.worldpay.com/terms/privacy](https://online.worldpay.com/terms/privacy) | Procesador de pagos. | Reino Unido |
+| Amadeus IT Group, S.A. | [https://amadeus.com/es/politicas/politicas-de-amadeus](https://amadeus.com/es/politicas/politicas-de-amadeus) | Entidad que proporciona el Sistema Global de Distribución (GDS), donde: se consulta la información del viaje; se emiten los billetes; se procesan las tarjetas de crédito, se realiza la autenticación y prevención del fraude; etc. | N/A |
+| En estos casos, y siempre que haya comprado el billete en la página web, en la aplicación, así como en el centro de atención telefónica o en las oficinas de los distintos aeropuertos, Amadeus actúa como responsable de tratamiento, por lo que Air Europa le cederá sus datos personales para poder proporcionar el servicio. |
+| Sherpa | [https://www.joinsherpa.com/legal/privacy-policy](https://www.joinsherpa.com/legal/privacy-policy) | Información y gestión de la documentación requerida para viajar. | N/A |
+| Bag on Board | [https://bob.io/politica-de-privacidad/](https://bob.io/politica-de-privacidad/) | Gestión del equipaje | N/A |
 
 Revisiones anteriores en la Política de Privacidad
 
