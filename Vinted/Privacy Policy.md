@@ -1,7 +1,7 @@
 Vinted Politique de confidentialité
 ===================================
 
-Date de la dernière mise à jour : 01/06/2022
+Date de la dernière mise à jour : 07/09/2022
 
 Chez Vinted, dès lors qu’il s’agit de vos données à caractère personnel, la sécurité et la transparence sont des priorités absolues. Afin de vous aider à comprendre quelles sont les informations que nous collectons à votre sujet, comment nous les utilisons et quels sont vos droits, nous avons rédigé la présente Politique de confidentialité détaillée.
 
@@ -172,8 +172,11 @@ Sous réserve des conditions, des restrictions et des exceptions établies par l
 *   sous réserve d’une cause juste, d’exiger la suppression de vos données (droit de suppression);
 *   d’exiger la restriction de la collecte et de l’utilisation de vos données, à condition que les critères statutaires soient respectés (droit de restreindre le traitement);
 *   sous réserve des critères statutaires respectés, de recevoir les données que vous avez fournies sous une forme structurée, actuelle et lisible par une machine, et de transférer lesdites données à un autre processeur ou, lorsque cela est faisable d'un point de vue technique, de les faire transférer par Vinted (droit à la portabilité des données);
+
 *   de s’opposer à la collecte et à l’utilisation des données, uniquement lorsque lesdites collecte et utilisation sont fondées sur une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée (art. 6 (1) (e) du RGPD) ou d’un intérêt légitime (art. 6 (1)f) du RGPD), notamment le profilage, selon les mêmes motifs de collecte et d’utilisation de données que ceux expliqués dans d’autres sections de la présente déclaration (droit de contester). Vous avez également le droit de vous opposer, à tout moment, à la collecte de vos données à caractère personnel à des fins de marketing direct ;
+
 *   de retirer à tout moment toute autorisation que vous nous avez fournie. Ledit retrait n’affectera pas la légalité de la collecte et de l’utilisation effectuées avant le retrait et sur la base de l’autorisation accordée. Vous pouvez retirer votre autorisation concernant l’envoi de notre newsletter en réglant les paramètres de votre compte Vinted afin de bloquer l’envoi de tout autre e-mail marketing. Alternativement, vous pouvez cliquer sur « Se désinscrire » à la fin de l’e-mail marketing ;
+*   lorsqu’une décision légale ou d’importance similaire vous concernant a été prise de manière totalement automatisée, d’obtenir une intervention humaine de la part de Vinted, d’exprimer votre point de vue et de contester la décision ;
 *   de ne pas être soumis(e) à un traitement discriminatoire pendant l’exercice de vos droits.
 
 Pour exercer un quelconque droit spécifié dans la présente section, vous pouvez contacter Vinted et soumettre votre demande en utilisant les coordonnées (consulter la section 8 ci-dessous). Indépendamment de tout autre recours juridique, vous avez également le droit à tout moment de soumettre une plainte auprès des autorités de surveillance.
