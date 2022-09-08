@@ -80,7 +80,9 @@ Nos offres de produits et prix sont valables tant qu'ils sont visibles sur le si
 Crédits
 -------
 
-Fotolia : www.fotolia.fr
+Adobe Stock : [stock.adobe.com](https://stock.adobe.com/fr/ "Adobe Stock")  
+Unplash : [unsplash.com](https://unsplash.com/ "UNSPLASH")  
+Pexels : [pexels.com](https://www.pexels.com/fr-fr/ "PEXELS")
 
 Contacts
 --------
