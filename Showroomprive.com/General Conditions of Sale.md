@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 25/05/2022
+Date : 08/09/2022
 
 Bienvenue sur Showroomprive.com
 
@@ -126,15 +126,15 @@ En cas de paiement via Paypal ou Paylib, le montant des achats sera automatiquem
 
 Paiement avec ONEY
 
-Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats de 50€ à 2000€ en 3 ou 4 fois avec votre carte bancaire.
+Notre partenaire Oney Bank vous propose une solution de financement dénommée 3x 4x Oney, qui permet de payer vos achats (i) de 50€ à 2000€ en 3 ou 4 fois avec votre carte bancaire ou (ii) de 40€ à 1000€ par un paiement différé de 30 jours en une seule mensualité avec sa carte bancaire.
 
 **Conditions :** Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d'une carte bancaire Visa et MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
 
-**Modalités de souscription :** Après avoir terminé votre commande, il vous suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».
+**Modalités de souscription :** Après avoir terminé votre commande, il vous suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire » ou le « bouton Paylater paiement différé »..
 
-Vous êtes alors redirigé vers la page internet 3x 4x Oney de notre partenaire affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider.
+Vous êtes alors redirigé vers la page internet de notre partenaire Oney affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider.
 
-Vous saisissez vos informations personnelles ou, si vous disposez d'un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante.
+Vous saisissez vos informations personnelles ou, si vous disposez d'un compte Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante.
 
 Vous reconnaissez que le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales valent consentement à contracter et constituent une acceptation irrévocable et sans réserve des conditions générales du produit.
 
@@ -144,7 +144,9 @@ Si vous demandez à bénéficier d'une solution de financement proposée par One
 
 Oney Bank se réserve le droit d'accepter ou de refuser votre demande de financement en 3x 4x Oney. Vous disposez d'un délai de rétractation de 14 jours pour renoncer à votre crédit.
 
-**Fonctionnement :** Le paiement en 3 ou 4 fois par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante :
+**Fonctionnement :**
+
+ᴑ Le paiement en 3 ou 4 fois par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante :
 
 \- un apport obligatoire, débité le jour de la confirmation de l'expédition de votre commande ;
 
@@ -159,6 +161,8 @@ _• Le paiement en 4 fois à partir de 40€ d'achat et jusqu'à 4000€ :_ Exe
 _Pour le paiement en 3 fois sans frais :_ le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d'une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
 
 _Pour le paiement en 4 fois sans frais_ : le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d'une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
+
+ᴑ Le paiement différé de 30 jours par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante : Remboursement par carte bancaire en une seule mensualité à J+30, à laquelle sont ajoutés des frais correspondants à 1,45% du montant total de la commande. Pour un achat de 300€, apport de 0€, puis une seule mensualité de 304,35€ prélevée à 30 jours. Crédit sur un mois au TAEG fixe de 18,85%. Coût de financement : 4,35€.
 
 _Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr_
 
@@ -434,77 +438,45 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- En cas d'annulation totale de votre commande, vous serez remboursé de l'intégralité des sommes prélevées.
 
-\- En cas d'annulation partielle de votre commande, le montant correspondant à l'annulation vient en déduction des sommes restant dues au jour de l'annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
+\- ![Zone de Texte: Article 10 - Quelles garanties pour vos produits ?
+Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d’entre eux bénéficient également d’une garantie commerciale proposée par le fournisseur qui en détermine les conditions. 
+10.1 Les garanties légales 
+Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l’article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil. 
+La garantie légale de conformité s’applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu’il ne correspond pas à la description donnée. 
+La garantie légale de conformité s’applique indépendamment de la garantie commerciale éventuellement consentie.
+Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l’article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c’est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil.
+](file:///C:\Users\D7567~1.LAU\AppData\Local\Temp\msohtmlclip1\01\clip_image001.png) En cas d'annulation partielle de votre commande, le montant correspondant à l'annulation vient en déduction des sommes restant dues au jour de l'annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
-**Article 10 - Quelles garanties pour vos produits ?**
+![Zone de Texte: 10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)
+Pour les Produits achetés avant le 1er janvier 2022, vous : 
+-	bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+-	pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation
+-	êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est de six (6) mois. 
+Pour les Produits achetés à compter du 1er janvier 2022, vous : 
+-	bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+-	pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation ;
+-	êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est désormais de douze (12) mois. 
+Toute réparation du bien d’origine, neuf comme d’occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie. 
+Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l’objet d’un renouvellement.
+Pour l’élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022 :
+Dans le cas où le contrat prévoit la fourniture, avec le Produit, d’un élément numérique, ce dernier bénéficie d’une garantie légale de conformité qui lui est propre. Dès lors, vous : 
+-	Pouvez vous prévaloir de la garantie légale de conformité attachée à l’élément numérique : 
+§	Pendant deux (2) ans à compter de la fourniture de l’élément numérique si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.
+Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les deux (2) années suivants la fourniture de l’élément numérique. 
+§	Durant toute la période de fourniture de l’élément numérique, si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.
+Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant la fourniture de l’élément numérique. 
+-	Pouvez demander la mise en conformité de l’élément numérique inclus dans le bien. 
+Article 10.1.2. Garantie légale de conformité des contenus et services numériques
+Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous : 
+-	Pouvez vous prévaloir de la garantie légale de conformité :
+§	Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.
+Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
+](file:///C:\Users\D7567~1.LAU\AppData\Local\Temp\msohtmlclip1\01\clip_image002.png)
 
-Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
-
-10.1 Les garanties légales
-
-Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
-
-La garantie légale de conformité s'applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu'il ne correspond pas à la description donnée.
-
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
-
-Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
-
-_10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
-
-**Pour les Produits achetés avant le 1er janvier 2022** , vous :
-
-\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
-
-\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation
-
-\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est de six (6) mois.
-
-**Pour les Produits achetés à compter du 1er janvier 2022** , vous :
-
-\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
-
-\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;
-
-\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est désormais de douze (12) mois.
-
-Toute réparation du bien d'origine, neuf comme d'occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.
-
-Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.
-
-**Pour l'élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022** :
-
-Dans le cas où le contrat prévoit la fourniture, avec le Produit, d'un élément numérique, ce dernier bénéficie d'une garantie légale de conformité qui lui est propre. Dès lors, vous :
-
-\- Pouvez vous prévaloir de la garantie légale de conformité attachée à l'élément numérique :
-
-§ Pendant deux (2) ans à compter de la fourniture de l'élément numérique **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.
-
-Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les deux (2) années suivants la fourniture de l'élément numérique.
-
-§ Durant toute la période de fourniture de l'élément numérique, **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.
-
-Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant la fourniture de l'élément numérique.
-
-\- Pouvez demander la mise en conformité de l'élément numérique inclus dans le bien.
-
-_Article 10.1.2. Garantie légale de conformité des contenus et services numériques_
-
-Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :
-
-\- Pouvez vous prévaloir de la garantie légale de conformité :
-
-§ Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, **si** votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.
-
-Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
-
-§ Durant toute la période de fourniture du contenu ou service numérique , **si** votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée.
-
-Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture.
-
-\- Pouvez demander la mise en conformité du contenu ou service numérique.
-
-La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage.
+![Zone de Texte: §	Durant toute la période de fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée. 
+Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture. 
+-	Pouvez demander la mise en conformité du contenu ou service numérique.
+](file:///C:\Users\D7567~1.LAU\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png) 
 
 10.2 La garantie commerciale
 
