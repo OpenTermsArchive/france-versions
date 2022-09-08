@@ -174,9 +174,9 @@ Parce que des millions de produits sont listés et que des milliers de commentai
 
 **Déclare sur l'honneur ce qui suit :** 1. Je fais référence au site www.amazon.fr. Ce dernier affiche ou contribue à l'affichage de commentaires injurieux ou diffamatoires à mon sujet. 2. Les propos injurieux ou diffamatoires (RAYEZ LE PARAGRAPHE INUTILE) : (a) apparaissent dans un livre vendu sur le site www.amazon.fr :
 
-*   **Titre du livre et auteur :**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-*   **Numéro ASIN (1) ou ISBN-13 (2) du livre :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-*   **Numéro(s) de la (des) page(s) qui comporterai(en)t des propos diffamatoires :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* **Titre du livre et auteur :**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* **Numéro ASIN (1) ou ISBN-13 (2) du livre :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+* **Numéro(s) de la (des) page(s) qui comporterai(en)t des propos diffamatoires :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB) (b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.2.) Ces propos sont injurieux car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME INJURIEUX) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.3.) Les propos que je considère comme **DIFFAMATOIRES** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.4.) Ces propos sont diffamatoires car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME DIFFAMATOIRES) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
 
@@ -257,14 +257,14 @@ Vous devez prendre à votre charge les frais directs de renvoi du (des) produit(
 
 EXCEPTIONS AU DROIT DE RETRACTATION
 
-*   Le droit de rétractation ne s'applique pas à :
-*   la livraison de produits qui ne peuvent pas être retournés pour des raisons d'hygiène ou de protection de la santé, si vous les avez descellés ou bien, qui ont, après avoir été livrés, été mélangés de manière indissociables avec d'autres articles ;
-*   la livraison d'enregistrements audio ou vidéos ou de logiciels informatiques lorsque vous les avez descellés après la livraison ;
-*   la livraison de produits qui ont été confectionnés selon vos spécifications ou nettement personnalisés ;
-*   la fourniture de produits susceptibles de se détériorer ou de se périmer rapidement ;
-*   la fourniture de services pleinement exécutés par Amazon pour lesquels vous avez accepté au moment de la passation de votre commande que nous commencions leur exécution, et renoncé à votre droit de rétractation ;
-*   la fourniture de journaux, périodiques ou magazines à l'exception des contrats d'abonnement à ces publications ; et
-*   la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle.
+* Le droit de rétractation ne s'applique pas à :
+* la livraison de produits qui ne peuvent pas être retournés pour des raisons d'hygiène ou de protection de la santé, si vous les avez descellés ou bien, qui ont, après avoir été livrés, été mélangés de manière indissociables avec d'autres articles ;
+* la livraison d'enregistrements audio ou vidéos ou de logiciels informatiques lorsque vous les avez descellés après la livraison ;
+* la livraison de produits qui ont été confectionnés selon vos spécifications ou nettement personnalisés ;
+* la fourniture de produits susceptibles de se détériorer ou de se périmer rapidement ;
+* la fourniture de services pleinement exécutés par Amazon pour lesquels vous avez accepté au moment de la passation de votre commande que nous commencions leur exécution, et renoncé à votre droit de rétractation ;
+* la fourniture de journaux, périodiques ou magazines à l'exception des contrats d'abonnement à ces publications ; et
+* la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle.
 
 NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS
 
@@ -344,9 +344,9 @@ La limitation de responsabilité visée ci-dessus est inapplicable en cas de dol
 
 Pour les biens comportant des éléments numériques, Amazon (ou un tiers concerné) publiera les types de mises à jour suivants selon les produits numériques que vous achetez :
 
-*   le cas échéant, les mises à jour qui ont été spécifiées sur la page d’informations sur le produit lors de l’achat ; et (ii) les mises à jour requises par la loi, y compris pour garantir la conformité du produit en question ; cf. page d’aide Garantie légale de conformité - Garantie des vices cachés - Différences avec les garanties commerciales.
-*   Amazon (ou un tiers concerné) peut également vous fournir des mises à jour de produits supplémentaires de temps à autre, notamment pour : (i) proposer ou améliorer de nouvelles fonctionnalités, conceptions, interfaces et/ou caractéristiques ; (ii) apporter des modifications techniques mineures ; et/ou (iii) pour des raisons juridiques ou de sécurité, lorsque jugé raisonnablement nécessaire par Amazon (ou un tiers concerné). Certaines de ces mises à jour peuvent ne pas être nécessaires pour garantir la conformité du produit. En acceptant les conditions de vente, vous acceptez de recevoir ces mises à jour.
-*   Vous acceptez que les mises à jour puissent être effectuées automatiquement, sans aucune action nécessaire de votre part. Une mise à jour qui n’est pas automatique ne prend effet qu’une fois que vous l’avez installée. Vous reconnaissez que si les mises à jour ne sont pas installées dans les délais, ou si elles ne sont pas installées correctement, cela peut nuire aux performances ou aux fonctionnalités des produits concernés. Amazon ne sera pas tenu responsable en cas de non-conformité résultant de votre manquement à installer correctement les mises à jour.
+* le cas échéant, les mises à jour qui ont été spécifiées sur la page d’informations sur le produit lors de l’achat ; et (ii) les mises à jour requises par la loi, y compris pour garantir la conformité du produit en question ; cf. page d’aide Garantie légale de conformité - Garantie des vices cachés - Différences avec les garanties commerciales.
+* Amazon (ou un tiers concerné) peut également vous fournir des mises à jour de produits supplémentaires de temps à autre, notamment pour : (i) proposer ou améliorer de nouvelles fonctionnalités, conceptions, interfaces et/ou caractéristiques ; (ii) apporter des modifications techniques mineures ; et/ou (iii) pour des raisons juridiques ou de sécurité, lorsque jugé raisonnablement nécessaire par Amazon (ou un tiers concerné). Certaines de ces mises à jour peuvent ne pas être nécessaires pour garantir la conformité du produit. En acceptant les conditions de vente, vous acceptez de recevoir ces mises à jour.
+* Vous acceptez que les mises à jour puissent être effectuées automatiquement, sans aucune action nécessaire de votre part. Une mise à jour qui n’est pas automatique ne prend effet qu’une fois que vous l’avez installée. Vous reconnaissez que si les mises à jour ne sont pas installées dans les délais, ou si elles ne sont pas installées correctement, cela peut nuire aux performances ou aux fonctionnalités des produits concernés. Amazon ne sera pas tenu responsable en cas de non-conformité résultant de votre manquement à installer correctement les mises à jour.
 
 **9\. DROIT APPLICABLE**
 
