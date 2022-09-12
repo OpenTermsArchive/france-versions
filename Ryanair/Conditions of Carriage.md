@@ -886,7 +886,7 @@ Chaque passager a la responsabilité d’être en possession d’un document de 
 *   _doit être émis dans les 10 années précédant la date d’arrivée.  
     _
 
-            Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique en cliquant sur le lien ci-dessous:
+            Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique en cliquant              sur le lien ci-dessous:
 
  **_https://www.gov.uk/guidance/passport-rules-for-travel-to-europe_**
 
