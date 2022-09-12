@@ -2,19 +2,7 @@ Conditions générales de vente des produits vendus et expédiés par Rue du Com
 =================================================================================
 
 [**  
-Mentions légales**  
-](https://www.rueducommerce.fr/info/mentions-legales)[  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
+Mentions légales**](https://www.rueducommerce.fr/info/mentions-legales)[](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
 
 1\. Préambule
 -------------
@@ -476,9 +464,9 @@ Ce droit de rétractation s'exerce sans pénalité. Toutefois, les frais de reto
 
 Vous devez vous assurer que la commande pour laquelle vous vous rétractez est renvoyée complète, dans les conditions des articles 7.2. et 7.3, ci-dessus.
 
-Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
+Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
 
-### 8.3 Les restrictions du droit de rétractation :
+### 8.3 Les restrictions du droit de rétractation :
 
 Conformément aux dispositions légales en vigueur, vous ne pouvez notamment pas vous rétracter sur les produits suivants :
 
@@ -491,7 +479,7 @@ Compte tenu des règles applicables en matière de propriété intellectuelle, n
 \- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments, produits intra auriculaires.  
   
 
-### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
+### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
 
 En cas d'exercice du droit de rétractation, nous vous remboursons dans un délai de 14 jours suivant la réception du retour. Attention : notre site ne fournit pas les étiquettes transport retour. Vous devrez effectuer le retour par vos propres moyens à l’adresse qui vous parviendra par mail à la validation de votre demande de retour. Le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
 
@@ -500,13 +488,13 @@ Une fois votre colis retour arrivé à notre entrepôt, vous serez alors rembour
 9\. Les garanties des produits
 ------------------------------
 
-### 9.1 La garantie des produits : de quoi s'agit-il ?
+### 9.1 La garantie des produits : de quoi s'agit-il ?
 
 Lorsque vous achetez un produit vendu par Rue du Commerce, vous bénéficiez de deux garanties distinctes : une garantie commerciale et une garantie légale.
 
 Dans un cas comme dans l'autre, votre rapidité est une condition essentielle pour l'application de ces garanties.
 
-### 9.2 Les garanties commerciales des constructeurs : que prévoient-elles ?
+### 9.2 Les garanties commerciales des constructeurs : que prévoient-elles ?
 
 Les produits achetés sur notre site bénéficient de la garantie constructeur indiquée sur la fiche produit et/ou dans la notice jointe avec l'appareil, ou téléchargeable sur le site du constructeur.
 
@@ -524,11 +512,11 @@ En tout état de cause, cela ne fait pas obstacle aux dispositions particulière
 
 **Pour pouvoir bénéficier de la garantie des produits, il vous est demandé de conserver la facture d'achat.** Rue du Commerce ne pourra en revanche être responsable en cas de refus du constructeur d'appliquer la garantie suite à une mauvaise manipulation, ou toute cause étrangère non couverte par les conditions de garantie du fabricant. Pour vous assurer des démarches à suivre concernant le service après-vente pour tout problème ou toute panne sur un produit vous pouvez contacter le service client.
 
-### 9.3 Disponibilité des pièces détachées
+### 9.3 Disponibilité des pièces détachées
 
 La durée de disponibilité des pièces détachées des produits commercialisés par Rue du Commerce est accessible en [cliquant ici](https://www.media-rdc.com/document/f0729795f1b23b3d81e20f4eb80a6a3c/tableau-disponibilite-pieces-detachees-150520150.pdf).
 
-### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
+### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
 
 Conformément aux articles L.217-4 à L.217-11 du Code de la consommation, vous bénéficiez d'une garantie contre les défauts de conformité des produits achetés sur notre site. Cette garantie contre les défauts de conformité s'applique au coût des pièces et main d'œuvre nécessaires à la remise en conformité de votre bien.
 
@@ -542,7 +530,7 @@ Vous êtes donc invité à conserver les justificatifs de vos retours. A défaut
 
 La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie
 
-### 9.5 La garantie légale contre les vices cachés ? : que signifie-t-elle ?
+### 9.5 La garantie légale contre les vices cachés ? : que signifie-t-elle ?
 
 Conformément à l'article 1641 du code civil, le vendeur est tenu de la garantie a raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus.
 
@@ -550,7 +538,7 @@ Le consommateur doit rapporter la preuve d'un vice caché, antérieur à la vent
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-### 9.6 La mise en œuvre des garanties : rappel sur le processus de retour
+### 9.6 La mise en œuvre des garanties : rappel sur le processus de retour
 
 Pour toute garantie, légale ou contractuelle, le retour s'exerce selon les modalités de l'article 7.
 
@@ -619,11 +607,11 @@ Le plus souvent, la preuve de l'existence du vice nécessitera une expertise
 
 2 ans à compter de la découverte du vice.
 
-### 9.7 La garantie "Tranquillité" : quoi de plus ?
+### 9.7 La garantie "Tranquillité" : quoi de plus ?
 
 Au moment de la commande, vous pourrez souscrire une garantie commerciale supplémentaire, dont les modalités sont décrites dans l'espace d'aide [accessible ici](https://www.rueducommerce.fr/info/services-et-garanties/vol-et-casse "accessible ici").
 
-### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
+### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
 
 Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normale d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
 
@@ -638,11 +626,11 @@ En toute hypothèse, la garantie constructeur et la souscription d'une garantie 
 10\. Les taxes & exportations
 -----------------------------
 
-### 10.1 Calcul du prix : quelles taxes ?
+### 10.1 Calcul du prix : quelles taxes ?
 
 Toute commande sera facturée toutes taxes comprises (TTC).
 
-### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
+### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
 
 **Si vous êtes un particulier ou une entité non assujettie à la TVA**, vous devrez payer les prix indiqués toutes taxes comprises (TTC), participation aux frais de port inclus le cas échéant.
 
@@ -655,7 +643,7 @@ Toute commande sera facturée toutes taxes comprises (TTC).
 \- Dans toutes les hypothèses discutées, ce descriptif suppose que le produit est effectivement expédié à l'adresse de résidence de l'acheteur.  
   
 
-### 10.3 Commande d'un produit pour un usage hors de France : vous devez faire attention
+### 10.3 Commande d'un produit pour un usage hors de France : vous devez faire attention
 
 Vous devez prendre en considération le fait que, dans le cadre de la délocalisation d'une commande ou d'un produit vers un autre pays que la France métropolitaine, vous demeurez l'importateur (ou l'acquéreur intra-communautaire) du ou des produits concernés.
 
@@ -666,7 +654,7 @@ Vous devez vous renseigner auprès des autorités locales de votre résidence su
 11\. Produits de destockage
 ---------------------------
 
-### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
+### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
 
 Le terme Déstockage concerne les produits qui ne sont plus vendus par les circuits classiques de distribution.
 
@@ -680,7 +668,7 @@ La majorité de nos produits sont testés et reconditionnés en atelier dans nos
 
 La décote proposée est comprise entre 5 à 80 %. Une telle décote est justifiée par la durée de vie relativement courte des produits High-Tech ou par leur différence de conditionnement et par le fait que certains éléments (câbles, notices, petits accessoires, CD d'installation…) peuvent être manquants.
 
-### 11.2 Qu'est-ce que le Déstockage 48h Chrono ?
+### 11.2 Qu'est-ce que le Déstockage 48h Chrono ?
 
 Le Déstockage 48h Chrono désigne un mode de commercialisation spécifique:
 
@@ -692,7 +680,7 @@ Le Déstockage 48h Chrono désigne un mode de commercialisation spécifique:
 
 Ainsi nous ne garantissons pas la durée de disponibilité d'un produit une fois que la vente a débuté. C'est le principe du "**1er arrivé, 1er servi**".
 
-### 11.3 Qu'est-ce que le Déstockage Immédiat ?
+### 11.3 Qu'est-ce que le Déstockage Immédiat ?
 
 A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleures offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
 
@@ -731,13 +719,13 @@ Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligati
 14\. Les mentions légales & responsabilité
 ---------------------------------------------
 
-### 14.1 Exonération de responsabilité : les cas de force majeure.
+### 14.1 Exonération de responsabilité : les cas de force majeure.
 
 Sont considérés comme cas fortuit ou force majeure exonératoires de responsabilité tous faits ou circonstances irrésistibles, imprévisibles et indépendants de la volonté des parties.
 
 Dans de telles circonstances, un rapprochement est à privilégier afin d'examiner l'incidence de l'événement et convenir des conditions dans lesquelles l'exécution du contrat sera poursuivie.
 
-### 14.2 Droit d'utilisation : quelles sont les limites ?
+### 14.2 Droit d'utilisation : quelles sont les limites ?
 
 Votre compte client et votre mot de passe sont des informations personnelles et strictement confidentielles qui ne peuvent point être utilisées ou communiquées à des tiers. Vous êtes responsable de l'utilisation qui est faite de votre compte client par des tiers, notamment en cas d'imprudence ou de négligence de votre part.
 
@@ -747,21 +735,21 @@ Toutefois, au titre de l'article L.122-6-1 de ce Code, vous disposez, en tant qu
 
 En tout état de cause, vous vous engagez à respecter le droit de propriété que l'auteur du logiciel conserve sur son ouvre.
 
-### 14.3 Protection de vos données personnelles
+### 14.3 Protection de vos données personnelles
 
 Les traitements de données personnelles et les règles de protection de la vie privée mis en œuvre par Rue du Commerce pour garantir vos droits prévus par les lois applicables sont décrits dans la rubrique « Protection des données personnelles & cookies » accessible ici, ainsi qu'à partir de chacune des pages du site. Vous y trouverez des informations et conseils importants. Ces informations portent notamment sur les choix dont vous disposez concernant l'utilisation de fichiers "cookies" susceptibles d'enregistrer le contenu de votre panier de commande, ainsi que sur le traitement des données liées à la navigation de votre terminal (ordinateur, tablette, smartphone) sur le site.
 
-### 14.4 Vente internationale : application de la loi française
+### 14.4 Vente internationale : application de la loi française
 
 Tout différend auquel la commande pourrait donner lieu, concernant par exemple l'exécution, l'interprétation, la validité ou son annulation sera régi au fond par le droit français (pour les règles de formes, comme les règles de fond), à l'exclusion des dispositions de la Convention de Vienne du 11 avril 1980 sur la vente internationale de marchandises.
 
-### 14.5 Portée des présentes conditions :
+### 14.5 Portée des présentes conditions :
 
 L'invalidation d'une clause ne touche pas les autres
 
 Si une ou plusieurs stipulations des présentes conditions générales sont tenues pour non valides ou déclarées telles en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
 
-### 14.6 Médiation :
+### 14.6 Médiation :
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
@@ -774,13 +762,13 @@ Vous restez libre d’accepter ou de refuser le recours à la médiation et, en 
 15\. Les conseils divers
 ------------------------
 
-### 15.1 Attention aux risques de perte de données !
+### 15.1 Attention aux risques de perte de données !
 
 Nous vous rappelons qu'il est prudent de procéder à la sauvegarde des données personnelles contenues dans les produits achetés.
 
 Nous ne sommes pas responsables de toutes pertes de données, fichiers ou de dommages résultant d'une négligence de votre part dans cette sauvegarde.
 
-### 15.2 Attention à la manipulation des processeurs
+### 15.2 Attention à la manipulation des processeurs
 
 Pour les processeurs, la pâte thermique doit être mise uniquement sur le core du CPU (petite plaque métallique au centre du processeur).
 
@@ -788,7 +776,7 @@ Le fait de mettre de la pâte sur tout le dessus du processeur provoque un court
 
 Toute mauvaise manipulation et/ou utilisation du processeur provoquant une fêlure ou une cassure du core engendrera également une perte irrévocable de sa garantie constructeur.
 
-### 15.3 Attention aux liens vers d'autres sites !
+### 15.3 Attention aux liens vers d'autres sites !
 
 Des liens hypertextes peuvent renvoyer vers d'autres sites que celui de Rue du Commerce.
 
@@ -796,7 +784,7 @@ Nous ne sommes pas responsables d'un non-respect par ces sites des dispositions 
 
 Pour tout problème que vous rencontrerez, veuillez prendre contact avec les responsables du site en question.
 
-### 15.4 Participation à l'opération de sondage FIA-NET
+### 15.4 Participation à l'opération de sondage FIA-NET
 
 En passant commande sur le site et en acceptant les conditions générales de vente, le Consommateur concerné manifeste son consentement spécifique, libre et éclairé par lequel il accepte que des données à caractère personnel le concernant soient utilisées par le tiers Avis Vérifiés dans le but de récolter son avis suite à sa commande. Avis-Vérifiés utilisera les Données Personnelles des Consommateurs dans le cadre uniquement de sa Solution et pour les seuls besoins de celle-ci. Avis Vérifiés s'interdit formellement de communiquer à quiconque des informations personnelles ou nominatives permettant d'identifier le Consommateur ou portant atteinte au respect de sa vie privée. Le Consommateur a la possibilité de s'opposer à la diffusion de ces informations à Avis Vérifiés en appelant le 09 72 54 56 60 (prix d’un appel local).
 
@@ -813,7 +801,7 @@ Veuillez noter que pour ces avis :
 16\. Annexes
 ------------
 
-### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
+### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
 
 **Article L217-4**
 
@@ -837,7 +825,7 @@ Le bien est conforme au contrat :
 
 L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
 
-### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
+### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
 
 **Article 1641**
 
@@ -869,19 +857,7 @@ L'action résultant des vices rédhibitoires doit être intentée par l'acquére
 \- Ou par email à l'adresse suivante : [nous-contacter@groupe-rueducommerce.](mailto:nous-contacter@rueducommerce.com)fr
 
 [**  
-Mentions légales**  
-](https://www.rueducommerce.fr/info/mentions-legales)[  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
+Mentions légales**](https://www.rueducommerce.fr/info/mentions-legales)[](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
 
 1\. Préambule
 -------------
@@ -1343,9 +1319,9 @@ Ce droit de rétractation s'exerce sans pénalité. Toutefois, les frais de reto
 
 Vous devez vous assurer que la commande pour laquelle vous vous rétractez est renvoyée complète, dans les conditions des articles 7.2. et 7.3, ci-dessus.
 
-Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
+Enfin, seuls les articles neufs, non utilisés et retournés dans leur emballage d'origine pourront donner lieu à un remboursement ou à un bon d'achat. Dans le cas contraire, les produits vous seront renvoyés et des frais de réexpédition vous seront demandés.
 
-### 8.3 Les restrictions du droit de rétractation :
+### 8.3 Les restrictions du droit de rétractation :
 
 Conformément aux dispositions légales en vigueur, vous ne pouvez notamment pas vous rétracter sur les produits suivants :
 
@@ -1358,7 +1334,7 @@ Compte tenu des règles applicables en matière de propriété intellectuelle, n
 \- Produits d'hygiène, beauté et santé, sous-vêtements, lingerie, maillots de bain, produits alimentaires ou en contact avec des aliments, produits intra auriculaires.  
   
 
-### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
+### 8.4 L'effet du droit de rétractation : quels sont vos choix ?
 
 En cas d'exercice du droit de rétractation, nous vous remboursons dans un délai de 14 jours suivant la réception du retour. Attention : notre site ne fournit pas les étiquettes transport retour. Vous devrez effectuer le retour par vos propres moyens à l’adresse qui vous parviendra par mail à la validation de votre demande de retour. Le colis retour étant placé sous votre responsabilité, Rue du Commerce ne pourra être tenu pour responsable en cas de perte ou d’avarie sur votre colis retour. Nous vous inviterons à contacter le transporteur pour ouvrir un litige et le cas échéant, obtenir un dédommagement auprès de lui.
 
@@ -1367,13 +1343,13 @@ Une fois votre colis retour arrivé à notre entrepôt, vous serez alors rembour
 9\. Les garanties des produits
 ------------------------------
 
-### 9.1 La garantie des produits : de quoi s'agit-il ?
+### 9.1 La garantie des produits : de quoi s'agit-il ?
 
 Lorsque vous achetez un produit vendu par Rue du Commerce, vous bénéficiez de deux garanties distinctes : une garantie commerciale et une garantie légale.
 
 Dans un cas comme dans l'autre, votre rapidité est une condition essentielle pour l'application de ces garanties.
 
-### 9.2 Les garanties commerciales des constructeurs : que prévoient-elles ?
+### 9.2 Les garanties commerciales des constructeurs : que prévoient-elles ?
 
 Les produits achetés sur notre site bénéficient de la garantie constructeur indiquée sur la fiche produit et/ou dans la notice jointe avec l'appareil, ou téléchargeable sur le site du constructeur.
 
@@ -1391,11 +1367,11 @@ En tout état de cause, cela ne fait pas obstacle aux dispositions particulière
 
 **Pour pouvoir bénéficier de la garantie des produits, il vous est demandé de conserver la facture d'achat.** Rue du Commerce ne pourra en revanche être responsable en cas de refus du constructeur d'appliquer la garantie suite à une mauvaise manipulation, ou toute cause étrangère non couverte par les conditions de garantie du fabricant. Pour vous assurer des démarches à suivre concernant le service après-vente pour tout problème ou toute panne sur un produit vous pouvez contacter le service client.
 
-### 9.3 Disponibilité des pièces détachées
+### 9.3 Disponibilité des pièces détachées
 
 La durée de disponibilité des pièces détachées des produits commercialisés par Rue du Commerce est accessible en [cliquant ici](https://www.media-rdc.com/document/f0729795f1b23b3d81e20f4eb80a6a3c/tableau-disponibilite-pieces-detachees-150520150.pdf).
 
-### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
+### 9.4 La garantie légale contre les défauts de conformité : que signifie-t-elle ?
 
 Conformément aux articles L.217-4 à L.217-11 du Code de la consommation, vous bénéficiez d'une garantie contre les défauts de conformité des produits achetés sur notre site. Cette garantie contre les défauts de conformité s'applique au coût des pièces et main d'œuvre nécessaires à la remise en conformité de votre bien.
 
@@ -1409,7 +1385,7 @@ Vous êtes donc invité à conserver les justificatifs de vos retours. A défaut
 
 La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie
 
-### 9.5 La garantie légale contre les vices cachés ? : que signifie-t-elle ?
+### 9.5 La garantie légale contre les vices cachés ? : que signifie-t-elle ?
 
 Conformément à l'article 1641 du code civil, le vendeur est tenu de la garantie a raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus.
 
@@ -1417,7 +1393,7 @@ Le consommateur doit rapporter la preuve d'un vice caché, antérieur à la vent
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-### 9.6 La mise en œuvre des garanties : rappel sur le processus de retour
+### 9.6 La mise en œuvre des garanties : rappel sur le processus de retour
 
 Pour toute garantie, légale ou contractuelle, le retour s'exerce selon les modalités de l'article 7.
 
@@ -1486,11 +1462,11 @@ Le plus souvent, la preuve de l'existence du vice nécessitera une expertise
 
 2 ans à compter de la découverte du vice.
 
-### 9.7 La garantie "Tranquillité" : quoi de plus ?
+### 9.7 La garantie "Tranquillité" : quoi de plus ?
 
 Au moment de la commande, vous pourrez souscrire une garantie commerciale supplémentaire, dont les modalités sont décrites dans l'espace d'aide [accessible ici](https://www.rueducommerce.fr/info/services-et-garanties/vol-et-casse "accessible ici").
 
-### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
+### 9.8 Limite des garanties légales et contractuelles : jusqu'où ?
 
 Nous attirons spécialement votre attention sur le fait que la garantie ne couvre pas l'usure normale d'un produit (par exemple, les cartouches, lampes, batteries, etc.).
 
@@ -1505,11 +1481,11 @@ En toute hypothèse, la garantie constructeur et la souscription d'une garantie 
 10\. Les taxes & exportations
 -----------------------------
 
-### 10.1 Calcul du prix : quelles taxes ?
+### 10.1 Calcul du prix : quelles taxes ?
 
 Toute commande sera facturée toutes taxes comprises (TTC).
 
-### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
+### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
 
 **Si vous êtes un particulier ou une entité non assujettie à la TVA**, vous devrez payer les prix indiqués toutes taxes comprises (TTC), participation aux frais de port inclus le cas échéant.
 
@@ -1522,7 +1498,7 @@ Toute commande sera facturée toutes taxes comprises (TTC).
 \- Dans toutes les hypothèses discutées, ce descriptif suppose que le produit est effectivement expédié à l'adresse de résidence de l'acheteur.  
   
 
-### 10.3 Commande d'un produit pour un usage hors de France : vous devez faire attention
+### 10.3 Commande d'un produit pour un usage hors de France : vous devez faire attention
 
 Vous devez prendre en considération le fait que, dans le cadre de la délocalisation d'une commande ou d'un produit vers un autre pays que la France métropolitaine, vous demeurez l'importateur (ou l'acquéreur intra-communautaire) du ou des produits concernés.
 
@@ -1533,7 +1509,7 @@ Vous devez vous renseigner auprès des autorités locales de votre résidence su
 11\. Produits de destockage
 ---------------------------
 
-### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
+### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
 
 Le terme Déstockage concerne les produits qui ne sont plus vendus par les circuits classiques de distribution.
 
@@ -1547,7 +1523,7 @@ La majorité de nos produits sont testés et reconditionnés en atelier dans nos
 
 La décote proposée est comprise entre 5 à 80 %. Une telle décote est justifiée par la durée de vie relativement courte des produits High-Tech ou par leur différence de conditionnement et par le fait que certains éléments (câbles, notices, petits accessoires, CD d'installation…) peuvent être manquants.
 
-### 11.2 Qu'est-ce que le Déstockage 48h Chrono ?
+### 11.2 Qu'est-ce que le Déstockage 48h Chrono ?
 
 Le Déstockage 48h Chrono désigne un mode de commercialisation spécifique:
 
@@ -1559,7 +1535,7 @@ Le Déstockage 48h Chrono désigne un mode de commercialisation spécifique:
 
 Ainsi nous ne garantissons pas la durée de disponibilité d'un produit une fois que la vente a débuté. C'est le principe du "**1er arrivé, 1er servi**".
 
-### 11.3 Qu'est-ce que le Déstockage Immédiat ?
+### 11.3 Qu'est-ce que le Déstockage Immédiat ?
 
 A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **offres exclusives** de produits disponibles en **stock limité**. Rue du Commerce recense les meilleures offres de produits neufs ou d'occasion, issus des fins de série, des invendus et des occasions reconditionnées auprès de ses partenaires pour les proposer à des prix inférieurs au prix du marché.
 
@@ -1598,13 +1574,13 @@ Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligati
 14\. Les mentions légales & responsabilité
 ---------------------------------------------
 
-### 14.1 Exonération de responsabilité : les cas de force majeure.
+### 14.1 Exonération de responsabilité : les cas de force majeure.
 
 Sont considérés comme cas fortuit ou force majeure exonératoires de responsabilité tous faits ou circonstances irrésistibles, imprévisibles et indépendants de la volonté des parties.
 
 Dans de telles circonstances, un rapprochement est à privilégier afin d'examiner l'incidence de l'événement et convenir des conditions dans lesquelles l'exécution du contrat sera poursuivie.
 
-### 14.2 Droit d'utilisation : quelles sont les limites ?
+### 14.2 Droit d'utilisation : quelles sont les limites ?
 
 Votre compte client et votre mot de passe sont des informations personnelles et strictement confidentielles qui ne peuvent point être utilisées ou communiquées à des tiers. Vous êtes responsable de l'utilisation qui est faite de votre compte client par des tiers, notamment en cas d'imprudence ou de négligence de votre part.
 
@@ -1614,21 +1590,21 @@ Toutefois, au titre de l'article L.122-6-1 de ce Code, vous disposez, en tant qu
 
 En tout état de cause, vous vous engagez à respecter le droit de propriété que l'auteur du logiciel conserve sur son ouvre.
 
-### 14.3 Protection de vos données personnelles
+### 14.3 Protection de vos données personnelles
 
 Les traitements de données personnelles et les règles de protection de la vie privée mis en œuvre par Rue du Commerce pour garantir vos droits prévus par les lois applicables sont décrits dans la rubrique « Protection des données personnelles & cookies » accessible ici, ainsi qu'à partir de chacune des pages du site. Vous y trouverez des informations et conseils importants. Ces informations portent notamment sur les choix dont vous disposez concernant l'utilisation de fichiers "cookies" susceptibles d'enregistrer le contenu de votre panier de commande, ainsi que sur le traitement des données liées à la navigation de votre terminal (ordinateur, tablette, smartphone) sur le site.
 
-### 14.4 Vente internationale : application de la loi française
+### 14.4 Vente internationale : application de la loi française
 
 Tout différend auquel la commande pourrait donner lieu, concernant par exemple l'exécution, l'interprétation, la validité ou son annulation sera régi au fond par le droit français (pour les règles de formes, comme les règles de fond), à l'exclusion des dispositions de la Convention de Vienne du 11 avril 1980 sur la vente internationale de marchandises.
 
-### 14.5 Portée des présentes conditions :
+### 14.5 Portée des présentes conditions :
 
 L'invalidation d'une clause ne touche pas les autres
 
 Si une ou plusieurs stipulations des présentes conditions générales sont tenues pour non valides ou déclarées telles en application d'une loi, d'un règlement ou à la suite d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et leur portée.
 
-### 14.6 Médiation :
+### 14.6 Médiation :
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rue Du Commerce adhère au CNPM MÉDIATION CONSOMMATION dont les coordonnées sont les suivantes : 27, Avenue de la Libération – 42400 SAINT CHAMOND – [https://www.cnpm-mediation-consommation.eu](https://www.cnpm-mediation-consommation.eu/). Après démarche préalable écrite des consommateurs vis-à-vis de Rue Du Commerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
@@ -1641,13 +1617,13 @@ Vous restez libre d’accepter ou de refuser le recours à la médiation et, en 
 15\. Les conseils divers
 ------------------------
 
-### 15.1 Attention aux risques de perte de données !
+### 15.1 Attention aux risques de perte de données !
 
 Nous vous rappelons qu'il est prudent de procéder à la sauvegarde des données personnelles contenues dans les produits achetés.
 
 Nous ne sommes pas responsables de toutes pertes de données, fichiers ou de dommages résultant d'une négligence de votre part dans cette sauvegarde.
 
-### 15.2 Attention à la manipulation des processeurs
+### 15.2 Attention à la manipulation des processeurs
 
 Pour les processeurs, la pâte thermique doit être mise uniquement sur le core du CPU (petite plaque métallique au centre du processeur).
 
@@ -1655,7 +1631,7 @@ Le fait de mettre de la pâte sur tout le dessus du processeur provoque un court
 
 Toute mauvaise manipulation et/ou utilisation du processeur provoquant une fêlure ou une cassure du core engendrera également une perte irrévocable de sa garantie constructeur.
 
-### 15.3 Attention aux liens vers d'autres sites !
+### 15.3 Attention aux liens vers d'autres sites !
 
 Des liens hypertextes peuvent renvoyer vers d'autres sites que celui de Rue du Commerce.
 
@@ -1663,7 +1639,7 @@ Nous ne sommes pas responsables d'un non-respect par ces sites des dispositions 
 
 Pour tout problème que vous rencontrerez, veuillez prendre contact avec les responsables du site en question.
 
-### 15.4 Participation à l'opération de sondage FIA-NET
+### 15.4 Participation à l'opération de sondage FIA-NET
 
 En passant commande sur le site et en acceptant les conditions générales de vente, le Consommateur concerné manifeste son consentement spécifique, libre et éclairé par lequel il accepte que des données à caractère personnel le concernant soient utilisées par le tiers Avis Vérifiés dans le but de récolter son avis suite à sa commande. Avis-Vérifiés utilisera les Données Personnelles des Consommateurs dans le cadre uniquement de sa Solution et pour les seuls besoins de celle-ci. Avis Vérifiés s'interdit formellement de communiquer à quiconque des informations personnelles ou nominatives permettant d'identifier le Consommateur ou portant atteinte au respect de sa vie privée. Le Consommateur a la possibilité de s'opposer à la diffusion de ces informations à Avis Vérifiés en appelant le 09 72 54 56 60 (prix d’un appel local).
 
@@ -1680,7 +1656,7 @@ Veuillez noter que pour ces avis :
 16\. Annexes
 ------------
 
-### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
+### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
 
 **Article L217-4**
 
@@ -1704,7 +1680,7 @@ Le bien est conforme au contrat :
 
 L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
 
-### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
+### 16.2 Annexe 2 : Dispositions du Code civil concernant la garantie contre les vices cachés
 
 **Article 1641**
 
