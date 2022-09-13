@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 23 juin 2022 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 9 Septembre 2022 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
 
 Les présentes conditions générales de vente (les "CGV") régissent la vente des articles présentés sur le site www.vertbaudet.fr (le "site Internet") par la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet").
 
@@ -195,7 +195,7 @@ La livraison des articles pourra s'effectuer :
 *   **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
-Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/treshttps://media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png).  
+Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/treshttps://media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png).  
 Enfin un magasin peut se réserver le droit de suspendre ce service momentanément (notamment en période de soldes), auquel cas il ne sera pas possible de le sélectionner sur le site Internet.  
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
@@ -203,7 +203,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 *   **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/28885/2066934398/volumineux.png) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) et certains articles signalés par un ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 *   **En livraison à domicile : livré chez vous ou à une autre adresse**
 
@@ -274,7 +274,7 @@ Vous pouvez retourner l'article :
 
 S'il s'agit d'un article signalé par le sigle ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ou ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
 
-En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l'exception des frais supplémentaires découlant du choix d'un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En cas de commande comportant plusieurs articles, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des articles constituant la commande.
+En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l'exception des frais supplémentaires découlant du choix d'un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En cas de commande comportant plusieurs articles, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des articles constituant la commande. Le service d’emballage cadeau en lui-même, proposé à l’article 5 LIVRAISON des présentes conditions n’est pas remboursable.
 
 Les preuves d'envoi acceptées, sont :
 
@@ -325,54 +325,35 @@ Si malgré nos précautions, un de vos articles arrivait abîmé ou si une pièc
 
 ### 9.1 Garanties légales
 
-Pour tous vos achats, vous bénéficiez de la garantie légale de conformité (articles L217-4 et suivants du code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du code civil), permettant aux clients de renvoyer les articles livrés défectueux ou non conformes.
+« Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci. »
 
-#### Garantie légale de conformité
+« Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci. »
 
-Lorsque vous agissez en garantie légale de conformité, vous :
+« La garantie légale de conformité emporte obligation pour le professionnel, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien. »
 
-*   bénéficiez d'un délai de deux ans à compter de la délivrance de l'article pour agir ;
-    
-*   pouvez choisir entre la réparation ou le remplacement de l'article, sous réserve des conditions de coût prévues par l'article L. 217-9 du code de la consommation ;
-    
-*   êtes dispensé de rapporter la preuve de l'existence du défaut de conformité de l'article durant les 24 mois suivant la délivrance de l'article au-delà.
-    
+« La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui. »
 
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie (voir article 9.2).
+« Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d'une extension de six mois de la garantie initiale. »
 
-#### Garantie des vices cachés :
+« Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien. »
 
-Vous pouvez décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du code civil. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du code civil.
+« Le consommateur peut obtenir une réduction du prix d'achat en conservant le bien ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :  
+1° Le professionnel refuse de réparer ou de remplacer le bien ;  
+2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;  
+3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du bien réparé ou de remplacement ;  
+4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse. »
 
-#### Garantie légale de conformité :
+« Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable. »
 
-##### Article L217-4 code de la consommation :
+« Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur. »
 
-Le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
+« Toute période d'immobilisation du bien en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état. »
 
-##### Article L217-5 code de la consommation :
+« Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation. »
 
-Pour être conforme au contrat, le bien doit : 1° Etre propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant : - correspondre à la description donnée par le vendeur et posséder les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ; - présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ; 2° Ou présenter les caractéristiques définies d'un commun accord par les parties ou être propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
+« Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation). »
 
-##### Article L217-12 code de la consommation :
-
-L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
-
-#### Garantie des vices cachés
-
-##### Article 1641 code civil
-
-Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus.
-
-##### Article 1648 al 1er code civil :
-
-L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
-
-### 9.2 Pièces détachées
-
-La durée de la disponibilité des pièces détachées de nos articles est égale à 6 mois.
-
-Pour les articles sous garantie commerciale des fabricants, la durée de la disponibilité des pièces est égale à la durée de ladite garantie commerciale, dans la limite des stocks disponibles.
+« Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien. »
 
 10\. Environnement
 ------------------
@@ -389,7 +370,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/28885/2066934398/triman.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "https://media.vertbaudet.fr/medias/44/0/28885/2066934398/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/30112/636349799/triman.png](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "https://media.vertbaudet.fr/medias/44/0/30112/636349799/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
@@ -452,7 +433,9 @@ Le site Internet est conforme à la législation française, et en aucun cas, Ve
 
 Pour toute réclamation relative à votre commande, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe, par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 216 rue Winoc Chocqueel – 59200 Tourcoing
 
-Conformément aux dispositions du Code de la Consommation concernant le règlement amiable des litiges, Vertbaudet adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la Vente à distance) dont les coordonnées sont les suivantes : 60 rue la Boétie – 75008 Paris – [www.mediateurfevad.fr](http://mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de Vertbaudet, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaitre les modalités de saisine du Médiateur, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XXX adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : : Médiateur de la consommation FEVAD.
+
+BP 20015 - 75362 PARIS CEDEX 8 - https://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de XXX, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
 Vous pouvez également présenter votre réclamation sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l'adresse suivante : http://ec.europa.eu/consumers/odr/ La Commission Européenne transférera votre réclamation aux médiateurs nationaux compétents.
 
