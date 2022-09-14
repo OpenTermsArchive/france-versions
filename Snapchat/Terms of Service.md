@@ -5,6 +5,17 @@ Conditions de Service Snap Group Limited
 
 Entrée en vigueur : 30 septembre 2021
 
+Bienvenue !
+-----------
+
+Nous avons rédigé ces Conditions de service (que nous appelons les « Conditions ») afin que vous ayez pleine connaissance des règles qui régissent votre relation avec nous en tant qu'utilisateur de nos Services Nous avons fait tout notre possible pour éviter le jargon juridique, mais sachez que ces présentes Conditions se lisent comme un contrat traditionnel. Il y a une bonne raison à cela : ces Conditions forment effectivement un contrat juridiquement contraignant entre vous et Snap Group Limited. (« Snap »). Nous vous invitons donc à les lire attentivement.
+
+Pour utiliser Snapchat, Bitmoji, ou tout autre produit ou service soumis à ces Conditions (que nous appelons collectivement les « Services »), vous devez accepter ces Conditions qui vous sont présentées (i) lorsque vous ouvrez l'application et (ii) lorsque nous effectuons des modifications substantielles à ces Conditions. Évidemment, si vous ne les acceptez pas, vous ne devez pas utiliser les Services.
+
+Ces Conditions s'appliquent si vous résidez hors des États-Unis ou si votre entreprise se trouve en dehors des États-Unis. Si vous résidez aux États-Unis ou si votre établissement principal est aux États-Unis, Snap Inc. vous fournit les Services et votre relation est régie par les [Conditions d'utilisations du service Snap Inc](https://snap.com/fr-FR/terms#terms-us).
+
+**AVIS CONCERNANT L'ARBITRAGE : SI VOUS UTILISEZ LES SERVICES POUR LE COMPTE D'UNE ENTREPRISE, CETTE DERNIÈRE SERA LIÉE PAR LA CLAUSE D'ARBITRAGE DÉFINIE ULTÉRIEUREMENT DANS LES PRÉSENTES CONDITIONS.**
+
 1\. Qui peut utiliser les Services
 ----------------------------------
 
