@@ -261,14 +261,237 @@ En tout état de cause, les dispositions qui précèdent ne sont pas exclusives 
    
 Le Client pourra exercer ces garanties en adressant sa demande au Service Client en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php 
 
-ARTICLE 10. DROITS DE PROPRIÉTÉ INTELLECTUELLE
+ARTICLE 10. PROGRAMME DE FIDELITE « NAF GOLD »
+----------------------------------------------
+
+**_Par dérogation aux présentes CGV, les modalites prevues relativement a l’abonnement au programme naf gold lui sont propres et ne peuvent beneficier qu’aux clients abonnes naf gold._**  
+   
+**_10.1 - Conditions d’adhésion_**   
+  
+Le Programme NAF GOLD est ouvert à toute personne physique, ayant plus de 18 ans, le Client devant, au moment de l’adhésion, renseigner son nom, prénom, adresse mail et numéro de téléphone.  
+   
+L’adhésion est payante au prix de 24 euros par an, payable en une fois lors de la souscription.  
+   
+Le Programme NAF GOLF peut être souscrit par toute personne remplissant les conditions ci-dessus exposées, en ligne sur le site nafnaf.com, ou dans toutes les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10.2, à l’exception des boutiques NAF NAF OUTLET.  
+   
+**_10.2 - Territoire du Programme NAF GOLD_**   
+  
+Le Programme NAF GOLD n’est valable que pour les achats :  
+ 
+
+*    physiquement réalisés dans les pays suivants :
+
+ 
+
+*   France métropolitaine (Corse et Monaco compris), à l’exception des boutiques OUTLET ;
+
+ 
+
+*   ou commandés en ligne et livrés dans les pays suivants  :
+
+ 
+
+*   France métropolitaine (Corse, Monaco et Andorre\* compris) ;
+*   Luxembourg\* ;
+*   Belgique\*.
+
+   
+ _\* Andorre, Luxembourg et Belgique non éligible à l’avantage NAF GOLD livraison gratuite._  
+   
+**_10.3 - Le Programme NAF GOLD : durée & paiement_**  
+  
+L’adhésion au Programme NAF GOLD est proposée au Client selon la formule suivante :  
+ 
+
+*   Engagement de 12 mois, au prix de 24 euros par an payable au moment de la souscription, sans reconduction tacite, valable en ligne et en boutique.
+
+   
+**_10.3.1 - Durée d’engagement_**    
+  
+Le Client souhaitant adhérer (ci-après « **l’Adhérent** ») souscrit à un abonnement à durée déterminée, de 12 mois, à compter du jour du paiement et de l’acceptation des présentes CGV, sans reconduction tacite.  
+   
+**_10.3.2 - Paiement_**   
+  
+L’adhésion au Programme NAF GOLD est payable en une fois par :  
+ 
+
+*   carte bancaire ou espèces en boutique ;
+*   carte bancaire ou Paypal sur le site internet ;
+
+  
+L'adhésion au Programme NAF GOLD ne donne pas lieu, ni à la remise d'une carte physique, ni à une carte dématérialisée.  
+   
+L’Adhérent reçoit un email confirmant son adhésion au Programme NAF GOLD.  
+   
+**_10.4 - L’abonnement_**   
+  
+Le paiement du montant de l’adhésion au Programme NAF GOLD, conformément à l’article 10.3.2, permet à l’Adhérent de bénéficier immédiatement des avantages ci-dessous exposés.  
+   
+L’adhésion au Programme NAF GOLD donne le droit à l’Adhérent à des avantages supplémentaires, notamment :  
+ 
+
+*   Une offre GOLD valable, en ligne et en boutique, toute l’année sur tous les articles\*, permettant de bénéficier des réductions suivantes :
+
+ 
+
+*   \-20% sur le prix de la Commande dès 2 articles achetés ;
+*   \-30% sur le prix de la Commande dès 3 articles achetés ;
+*   \-40% sur le prix de la Commande dès 4 articles achetés ou plus ;
+
+ 
+
+_\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion ou en soldes, opérations NAF DAYS, et non utilisable sur les produits suivants : bijoux, collants, parfums, carte cadeau et chèques-cadeau. Abonnement non-utilisable dans les boutiques OUTLET._
+
+ 
+
+*   Pass Duo : A chaque passage en caisse, l’Adhérent peut faire bénéficier à **une** personne de son choix, des réductions de prix offertes par la carte GOLD (« OFFRE GOLD »), sous réserve d’être lui-même physiquement présent lors de ces achats.
+
+ 
+
+ _ATTENTION :_ _offre valable uniquement_ _dans les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10 .2, à l’exception des boutiques NAF NAF OUTLET._
+
+*   Livraison gratuite en Point Relais (Relais Colis) uniquement, pour toute Commande réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
+
+ 
+
+*   Découverte des collections en avant-première ;
+
+ 
+
+*   Invitations à des Evènements exclusifs (dans la limite des places disponibles et selon les modalités précisées au moment de l’invitation), et des surprises, tout au long de l’année ;
+
+ 
+
+_ATTENTION :_ _transport et hébergement non pris en charge par NAF NAF_.
+
+ 
+
+*   Pour toute nouvelle adhésion, souscrite en boutique NAF NAF : un shopping-bag offert et remis au moment du paiement en boutique.
+
+ 
+
+*   Sacherie offerte, pour tout achat effectué en boutique, sur demande, à chaque passage en caisse.
+
+   
+**_10.5 - Le droit de rétractation_**   
+  
+L’abonnement NAF GOLD est réputé ferme et définitif, jusqu'au terme échu, à l’expiration d’un délai de quatorze (14) jours à compter du jour du paiement et de l’acceptation des présentes CGV pour les abonnements réalisés via le site internet. Pour les abonnements souscrits en boutique, ces derniers sont immédiatement fermes et définitifs.  
+   
+Durant ledit délai, l’Adhérent peut choisir de résilier son abonnement si, et seulement si, aucun achat bénéficiant de l’offre NAF GOLD n’a été réalisé.  
+   
+La réalisation d’un achat, faisant bénéficier à l’Adhérent de l’offre NAF GOLD, répute l’abonnement ferme et définitif.  
+   
+Pour exercer ce droit de rétractation, le Client doit contacter le Service Client (par email à l’adresse suivante : service.relationclient@nafnaf.com).  
+   
+L’utilisation de ce droit de rétractation n’entraine pas la suppression du compte Client initial, le Client restant libre de repasser une commande sur nafnaf.com, ou faire un achat en boutique à prix standard.  
+   
+**_10.6 - Les modalités d’utilisation_**   
+  
+**_10.6.1 - Caractère personnel de l’abonnement NAF GOLD_**   
+  
+L'adhérent communique obligatoirement au moment de l'adhésion une adresse email et un numéro de téléphone portable valides.  
+   
+NAF NAF ne sera, en aucun cas, tenu responsable de la non-réception des communications électroniques (mails et sms).  
+   
+L’abonnement NAF GOLD n'est ni une carte de paiement, ni une carte de crédit.  
+   
+Il est strictement personnel et non cessible.  
+  
+Pour tout achat réalisé en boutique avec le compte bénéficiant de l’abonnement NAF GOLD, le moyen de paiement présenté (carte bancaire) doit faire apparaitre le nom et prénom du titulaire qui figurent sur le compte abonné NAF GOLD.  
+   
+**_10.6.2 - Abonnement au profit d’une tierce personne_**   
+  
+Par dérogation au caractère personnel de l’abonnement, il est possible d’offrir l’abonnement NAF GOLD à une tierce personne.  
+  
+Cette possibilité n’est offerte qu’en boutique NAF NAF, hors OUTLET.  
+   
+La personne bénéficiaire désignée bénéficie de tous les avantages accordés par le Programme NAF GOLD.  
+   
+**_10.6.3 - Consentement_**   
+  
+En adhérant au Programme NAF GOLD, l’adhérent autorise expressément NAF NAF à enregistrer et utiliser les coordonnées fournies (mail et/ou sms et/ou adresse postale) dans le but de communiquer avec lui et lui faire parvenir ses offres via email ou SMS.  
+  
+Dans l’hypothèse d’un abonnement offert à une tierce personne, le Client devra renseigner les informations demandées, au nom de la personne bénéficiaire.  
+  
+À tout moment, le membre adhérent peut retirer son consentement en se désabonnant via son compte en ligne ou sur le lien de désabonnement présent en bas de chacun des mails NAF NAF.  
+   
+**_10.7 - Commande en ligne NAF GOLD_**   
+  
+_Dispositions valables uniquement pour les commandes réalisées sur le site nafnaf.com. Le Programme NAF GOLD n’offre pas la possibilité à l’Adhérent de procéder à des retours ou d’obtenir un remboursement en boutique physique._  
+   
+_L‘avantage PASS DUO n’est pas valable en ligne._  
+   
+**_10.7.1 - Commande_** **_NAF GOLD_**   
+  
+Une commande en ligne, bénéficiant des avantages NAF GOLD, suivra les mêmes étapes que celles décrites à l’article 5 des présentes CGV.  
+   
+Au moment du paiement, le client se verra automatiquement appliquer les réductions NAF GOLD, sous réserve de la sélection de produits éligibles.  
+   
+**_10.7.2 - Livraison_** **_NAF GOLD_**    
+  
+Livraison gratuite via Relais Colis pour toute commande GOLD expédiée en France métropolitaine  (Corse incluse) et Monaco.  
+   
+Mode de transport éligible : Relais Colis  
+   
+_Disposition non valable pour le Luxembourg, la Belgique et Andorre._  
+   
+   
+Il est par ailleurs rappelé que :  
+ 
+
+*   la livraison en Colissimo est déjà offerte pour tout achat supérieur à 69€, à destination de la France (Corse incluse), Monaco et Andorre ;
+
+ 
+
+*   la livraison en boutique est également gratuite, sans minimum d’achat, en France métropolitaine (hors Corse) et Monaco.
+
+ **_10.7.3 - Annulation de commande avant expédition_**    
+  
+Les commandes comprenant à la fois l’achat d’articles et de l’abonnement NAF GOLD ne peuvent faire l’objet d’annulation avant leur expédition.  
+   
+Si le Client souhaite annuler partiellement des articles sur une commande comprenant à la fois l'achat d'articles et de l'abonnement NAF GOLD, l'annulation ne pourra être prise en compte avant expédition.  
+   
+Le droit à rétractation (article 10.5) n’est pas impacté.  
+   
+**_10.7.4 - Retours_** **_des commandes bénéficiant du Programme NAF GOLD_**    
+  
+En cas de retour de Commande ayant bénéficié des avantages du Programme NAF GOLD, le remboursement sera réalisé comme suit :  
+ 
+
+*   En cas de retour total de la Commande, le prix intégral de la commande sera remboursé à l’Adhérent ;
+
+ 
+
+*   En cas de retour partiel de Commande l’offre validée pour l’achat sera révisée et recalculée au prorata des articles rendus.
+
+   
+Il sera procédé au remboursement sur le moyen de paiement utilisé au moment du paiement de la Commande initiale.  
+   
+**_10.8 - Echanges & avoirs des articles achetés en boutique_**    
+  
+Tout article éligible au Programme NAF GOLD pourra bénéficier d’un échange dans les 30 jours suivant l’achat, sur présentation du ticket de caisse.  
+   
+Le prix de vente facturé sera le prix retenu pour cet échange.  
+   
+L’abonnement NAF GOLD n’ouvre aucun droit à remboursement en boutique.  
+   
+Néanmoins, si un échange n’est pas possible, le Client pourra obtenir un avoir.  
+   
+Le calcul du montant de l’avoir est réalisé comme énoncé à l’article 10.8.3.  
+   
+**_10.9 - Réserves, fraudes et spam_**   
+  
+Toute fraude, ou tentative de fraude fera l’objet de poursuites conformément aux dispositions des articles 313-1 et suivants du Code pénal.  
+ 
+
+ARTICLE 11. DROITS DE PROPRIÉTÉ INTELLECTUELLE
 ----------------------------------------------
 
 L’Utilisateur reconnait et accepte que tout droit d'auteur, toute marque déposée et tout autre droit de propriété intellectuelle portant sur l'ensemble des informations ou contenus figurant sur le Site seront, à tout moment, la propriété de NAF NAF ou celle de ceux qui lui ont accordé une licence.  
 L’Utilisateur du Site s’interdit à cet égard d’extraire, de représenter, de reproduire ou plus généralement de porter atteinte à tout ou partie du Site.  
 Tous les éléments du Site qu'ils soient visuels ou sonores, y compris la marque, le logo, les textes, les photos, les vidéos et le nom de domaine, sont protégés par le droit d'auteur, le droit des marques ou des brevets. Toute reproduction totale ou partielle du Site ou de l’un de ses contenus audio, visuel ou texte est strictement interdite sauf accord écrit expresse et préalable. 
 
-ARTICLE 11. PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL – COOKIES
+ARTICLE 12. PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL – COOKIES
 ------------------------------------------------------------------
 
 Dans le cadre de la navigation ou de l’utilisation du Site par l’Utilisateur, NAF NAF est amenée à traiter et collecter des données à caractère personnel.  
@@ -279,7 +502,7 @@ Afin d’exercer les droits prévus par la règlementation relative aux données
 *   par courrier : NEW NAF NAF – 2 rue Sarah Bernhardt – 92600 ASNIERES SUR SEINE
 *   Ou en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php
 
-ARTICLE 12. RÈGLEMENT AMIABLE DES LITIGES
+ARTICLE 13. RÈGLEMENT AMIABLE DES LITIGES
 -----------------------------------------
 
 En vertu de l'article L. 612-1 du Code de la consommation " Tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résiliation amiable du litige qui l'oppose à un professionnel".  
@@ -288,7 +511,9 @@ Le texte couvre les litiges nationaux et les litiges transfrontaliers.
 En application des articles susvisés et conformément à la règlementation en vigueur, pour toute difficulté, NAF NAF invite le Client à la contacter préalablement en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php  
   
 Dans l'année qui suivra la demande du Client auprès des services de NAF NAF, en application de l'article R. 616-1 du Code de la consommation, le Client pourra faire examiner sa demande par un médiateur dont les coordonnées sont indiquées ci-dessous, sachant qu'un litige ne pourra être examiné, sauf exception, que par un seul médiateur :  
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, NEW NAF NAF adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de NEW NAF NAF, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer sur le lien suivant : https://www.mediateurfevad.fr/index.php/espace-consommateur/.  
+  
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, NEW NAF NAF adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://eu-west-1.protection.sophos.com/?d=dynamics.com&u=aHR0cHM6Ly82MjAyMWEyZTk0NDI0ZGE3OTk1ZTJkYTk2MDZhMjk1Yi5zdmMuZHluYW1pY3MuY29tL3QvdC80eTdWQ2NCemdkN3JnM0NieG5XVEQ4MWtJZHZ4aUY0Y3h3SFJ1UFNGeG44eC9vVUc2bVhjT2xVU2YwSTh1WXFMQ3RoVG00THhMeGdjbk9ySU1nODRaWWc0eA==&i=NjIwNTdmZWM4ZTgzZjAwZjU0MmJlNjQ4&t=QS9sMmVURUdtNjAzWXE3UGtzbG0zck1JZnAxUlZqZElyZlM3SUJOWnBkaz0=&h=3c23b870b0cb4f599b7f930f929719c4 "https://www.mediateurfevad.fr/"). Après démarche préalable écrite des consommateurs vis-à-vis de NEW NAF NAF, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://eu-west-1.protection.sophos.com/?d=dynamics.com&u=aHR0cHM6Ly82MjAyMWEyZTk0NDI0ZGE3OTk1ZTJkYTk2MDZhMjk1Yi5zdmMuZHluYW1pY3MuY29tL3QvdC9FNkdxeGpJNWl2MDB3ZGFuWTYwVkZSSGdHSlV4NzhycFoyTXNHejQ2QzFVeC9vVUc2bVhjT2xVU2YwSTh1WXFMQ3RoVG00THhMeGdjbk9ySU1nODRaWWc0eA==&i=NjIwNTdmZWM4ZTgzZjAwZjU0MmJlNjQ4&t=MFFrR0xCSWlWcEh3T0cyOWVEeXJZY2w5eDdpcmtrbERYQ2ZFS1JZNXRyVT0=&h=3c23b870b0cb4f599b7f930f929719c4 "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
+  
   
 Pour tout litige transfrontalier :  
 Centre européen des consommateurs France :  
@@ -296,23 +521,23 @@ europe-consommateurs.eu
 Le Client pourra, à ses frais, se faire assister par un conseil.  
  
 
-ARTICLE 13. INTEGRALITE
+ARTICLE 14. INTEGRALITE
 -----------------------
 
 Dans le cas où l'une quelconque des clauses du présent contrat serait déclarée nulle pour quelque raison que ce soit et notamment en raison d’un changement de législation, de réglementation ou en vertu d’une décision de justice, cela ne saurait en aucun cas affecter la validité de toutes les autres dispositions des présentes Conditions Générales de Vente.
 
-ARTICLE 14. DUREE
+ARTICLE 15. DUREE
 -----------------
 
 Les présentes CGV s'appliquent pour toutes les commandes passées en ligne sur le Site.
 
-ARTICLE 15. PREUVE
+ARTICLE 16. PREUVE
 ------------------
 
 Les registres informatisés, conservés dans les systèmes informatiques de NAF NAF ou de ses partenaires dans des conditions raisonnables de sécurité, seront considérés comme des preuves des communications, des commandes et des paiements intervenus entre les Parties.
 
-ARTICLE 16. SERVICE APRES-VENTE (SAV)
--------------------------------------
+ARTICLE 17. SERVICE CLIENT
+--------------------------
 
 Pour tout conseil, information ou question, notre Service Client est à votre disposition :  
  
@@ -321,7 +546,7 @@ Pour tout conseil, information ou question, notre Service Client est à votre d
 *   par courrier : NEW NAF NAF - 2 Rue Sarah Bernhardt CS 20047 - 92601 Asnières Cedex
 *   par téléphone : 09 71 00 64 26 du lundi au vendredi de 11H à 13H et de 14H à 16H
 
-ARTICLE 17. RESPONSABILITE
+ARTICLE 18. RESPONSABILITE
 --------------------------
 
 NAF NAF ne saurait être tenue pour responsable de l'inexécution du contrat conclu en cas de:
@@ -336,7 +561,7 @@ D’autre part, NAF NAF décline toute responsabilité :
 *   pour les erreurs non substantielles relatives aux produits,
 *   pour l’impossibilité de joindre le service clientèle et/ou d’accéder au Site.
 
-ARTICLE 18. DROIT APPLICABLE
+ARTICLE 19. DROIT APPLICABLE
 ----------------------------
 
 Les présentes CGV sont régies par la loi française.  
@@ -345,4 +570,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 02/06/22
+Dernière mise à jour des CGV : le 14/09/22
