@@ -41,7 +41,7 @@ Le Client matérialise sa commande en remplissant les 5 étapes suivantes :
 *   **Etape 2 :** le Client vérifie le contenu de son panier en cliquant sur « Voir ma commande » afin d’avoir accès au récapitulatif de sa commande. Le Client peut alors modifier sa commande (Produit, taille, quantité). Le montant total TTC de la commande, distinguant d’une part le prix dû au titre des Produits, et d’autre part les frais de livraison, est alors indiqué dans le récapitulatif.
 *   **Etape 3 :** Une fois la commande vérifiée et le cas échéant modifiée, le Client valide son panier afin de finaliser sa commande en cliquant de nouveau sur « Valider».​ 
 *   **Etape 4 :** Le Client saisit ses coordonnées de facturation et de livraison. Le Client vérifie alors l’ensemble des informations et clique sur " valider " pour poursuivre sa commande. En cas d'erreur de saisie, notamment d'adresse de livraison erronée ou incomplète, NAF NAF ne saurait être tenue responsable des conséquences en termes de retard ou d'impossibilité de livraison. Tous les frais liés à la réexpédition des produits faisant suite à une erreur de saisie du Client seront à la charge exclusive de ce dernier.
-*   **Etape 5 :** Le Client choisit son mode de paiement : carte bleue, carte Mastercard, carte Visa ou Paypal.
+*   **Etape 5 :** Le Client choisit son mode de paiement : carte bleue, carte Mastercard, carte Visa, Paypal ou Alma.
 
 **Pour le paiement par carte bancaire :**  
 Le Client accède alors à l'écran de paiement sécurisé tel que précisé à l'article 5.3 ci-après.  
@@ -49,8 +49,14 @@ Le Client devra saisir son numéro de carte bancaire, sa date de validité ainsi
 Si le paiement est accepté, le Client sera redirigé vers un écran de confirmation de commande sur le Site.  
    
 **Pour le paiement via Paypal :**  
-Le règlement s’effectue par l’intermédiaire PAYPAL selon ses propres conditions générales de vente et d’utilisation de ses services. Le choix de ce paiement vaut acceptation des conditions générales de vente et d’utilisation de PAYPAL.  
+Le paiement s’effectue par l’intermédiaire PAYPAL selon ses propres conditions générales de vente et d’utilisation de ses services. Le choix de ce paiement vaut acceptation des conditions générales de vente et d’utilisation de PAYPAL.  
   
+**Pour le paiement via Alma :**   
+Le paiement en 3x (trois fois) sans frais est proposé au Client, via la solution de paiement Alma, pour toute commande d’un montant compris entre 100 et 2 000 euros.  
+   
+L’échéancier lui est directement proposé en ligne, avant validation de son paiement.  
+   
+Le paiement s’effectue par l’intermédiaire d’Alma selon ses propres conditions générales de vente et d’utilisation de ses services. Le choix de ce paiement vaut acceptation des conditions générales de vente et d’utilisation d’Alma.  
   
 **_5.2 – Confirmation de la commande_**  
   
