@@ -16,15 +16,83 @@ Vous pouvez trouver sur cette page tous les traitements relatifs à vos données
 
 #### NOS COMMUNICATIONS SONT ADAPTEES À VOTRE VIE SPORTIVE
 
-Une de nos priorités est de vous proposer des offres et des contenus adaptés : le bon message, au bon moment via le bon média et ce jamais sans votre consentement. En effet, vos données liées à vos achats, vos parcours sur nos sites web, vos visites de nos ateliers en magasin ou encore lors de vos tests gratuits de produits, nous permettent de mieux vous comprendre et ainsi vous adresser les bonnes offres aux bons moments que ce soit par email ou quand vous vous connectez sur l’un de nos services (decathlon.fr, activities.decathlon.fr, …).
+Decathlon est membre de l’alliance VALIUZ.
 
-En rejoignant l’alliance [](https://valiuz.com/), Decathlon souhaite aller encore plus loin dans notre engagement de pertinence.
+VALIUZ réunit un ensemble d’entreprises autour de la connaissance client, dans le but de les aider à personnaliser leurs offres et leurs communications et de contribuer à personnaliser la publicité en ligne.
 
-Le principe de [Valiuz](https://valiuz.com/) , c’est de mettre en commun, avec un [groupe d’enseignes](https://valiuz.com/liste-des-membres/) des informations vous concernant avec celles dans lesquelles vous êtes déjà client.e. des informations, des habitudes d’achats …pour encore plus de pertinence dans nos communications.
+VALIUZ est une société codétenue par Decathlon.
 
-Par exemple : Si vous avez une sensibilité avec les produits bio, Decathlon vous proposera prioritairement des produits éco-conçus, vous informera sur les avancées de Decathlon sur sa stratégie de développement durable, des conseils pour pratiquer vos sports en respectant l’environnement,..... Pratique, non ?
+Pour consulter la liste des entreprises participantes de l’alliance, cliquez [ici](https://valiuz.com/liste-des-membres/).
 
-Si malgré cela, vous préférez ne pas partager vos données avec Valiuz, pas de problème, dites le nous simplement dans un email à cette adresse : [non\_a\_valiuz@decathlon.com](mailto:non_a_valiuz@decathlon.com)
+**Quel est le service fourni par VALIUZ ?**
+
+Grâce à VALIUZ, les entreprises qui vous connaissent (par exemple parce que vous êtes déjà leurs clients ou inscrit à leur newsletter) peuvent partager de manière sécurisée les informations relatives à vos centres d’intérêts et vos habitudes d’achat pour les finalités listées ci-dessous :
+
+Chez Decathlon, ces finalités ne peuvent être mises en oeuvre que si et seulement si les personnes concernées ont consenti à recevoir nos communications commerciales.
+
+*   **\- Statistiques**  
+    VALIUZ effectue des traitements statistiques permettant à chaque entreprise de l’alliance de mieux connaître les attentes de ses clients et ainsi faire évoluer son activité et son offre. Ces analyses sont anonymes et agrégées (le résultat porte sur un ensemble de clients et non un individu ) . Par exemple : grâce à une meilleure connaissance du territoire et des attentes locales, une entreprise membre de l’alliance peut identifier le meilleur emplacement pour ouvrir un nouveau magasin et adapter sa gamme en conséquence. La base légale de ce traitement est l’intérêt légitime.
+*   **\- Profilage publicitaire à des fins de personnalisation des communications et publicités**  
+    Sur la base des informations que vous avez transmises aux entreprises de l’alliance dont vous êtes client (et uniquement celles-ci), et de vos données de navigation, Valiuz établit votre profil publicitaire, ce qui permet aux membres de vous adresser des communications et publicités correspondant à vos centres d’intérêt : votre mode d’achat préféré, le moment de la journée où vous préférez consulter les nouveautés, les produits qui vous intéressent… Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
+*   **\- Personnalisation de la publicité en ligne d’annonceurs tiers**  
+    VALIUZ contribue à personnaliser les bannières publicitaires diffusées en ligne sur des sites promouvant les produits et services d’annonceurs tiers (extension d’audience). Vos données d’achat ou de navigation sur internet ne sont jamais transmises aux annonceurs concernés (c'est-à-dire les entreprises qui souhaitent faire la promotion de leurs produits et services) ou aux sites tiers partenaires (c’est-à-dire les sites que vous consultez et qui permettent aux annonceurs d’afficher leurs publicités). Seule l'audience à laquelle Valiuz vous estime correspondre est partagée aux sites tiers.
+    
+    Cette personnalisation ne peut avoir lieu que si les 3 conditions suivantes sont réunies :
+    
+    *   \- Vous avez consenti au dépôt d’un cookie Valiuz (finalité publicitaire) lors de la navigation sur notre site internet
+    *   \- Vous avez consenti au dépôt d’un cookie à finalité publicitaire sur un site tiers partenaire de Valiuz
+    *   \- Vous ne vous êtes pas opposé au partage de vos données personnelles à Valiuz
+
+  
+
+Concrètement, si les 3 conditions sont réunies, le site tiers que vous consultez pourra permettre à ses annonceurs partenaires de vous afficher la publicité la plus pertinente compte tenu de l'audience à laquelle Valiuz vous a associée.  
+Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
+
+**Quelques exemples de communications mises en oeuvre par decathlon selon votre profil :**  
+
+*   \- En fonction de votre âge ou votre genre :  
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email1.png)
+*   \- Selon vos aspirations de consommation saine et durable (bio par ex.)  
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email2.png)![](/static/LP/Services/donnees-personnelles/assets/img/email3.png)
+*   \- Selon les caractéristiques de votre famille (Ex : avec ou sans enfant…)  
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email4.png)
+*   \- Selon votre type d’habitat (Ex: avec ou sans jardin)  
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email5.png)
+*   \- Ou encore selon votre activité sur les zones commerciales dans lesquelles certains membres de l’alliance peuvent être présents (Ex : en cas d’inactivité chez Decathlon depuis quelques temps)  
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email6.png)
+
+**Quelles données vous permettent de bénéficier de ce service ?**
+
+*   \- Les informations personnelles que vous avez communiquées aux membres de l’alliance (exemple: tranche d’âge, localisation, sexe…),
+*   \- Vos historiques d’achats sur le web et en magasin auprès des membres de l’alliance,
+*   \- Si vous avez accepté le cookie VALIUZ, votre navigation en ligne (pages visitées, produits les plus consultés, etc), des données librement accessibles au public (open-data) ou issues de base de données fournies par des tiers (exemple: INSEE).
+
+Votre numéro de téléphone, votre adresse email, votre adresse postale ou encore vos noms et prénoms ne sont pas transmis aux membres de l’alliance. Un membre de l’alliance qui ne vous connaît pas ne pourra jamais recevoir d’informations vous concernant. VALIUZ ne réutilise pas les données ainsi collectées pour vous adresser des communications et ne gère pas les communications (newsletter) ou publicités qui vous sont adressées par ses membres.
+
+**A quoi sert le cookie VALIUZ ?**  
+Le cookie déposé sur les sites et applications mobiles des membres de l’alliance permet à VALIUZ de collecter vos informations de navigation sur les sites internet des membres de l’alliance (pages visitées, produits consultés et achetés). Ces informations sont rapprochées des données que vous avez fournies aux membres de l’alliance (exemple: tranche d’âge, historique d’achats en magasin, etc.) et viennent compléter votre profil pour les finalités visées ci-dessus.  
+  
+Pour faire le rapprochement entre vos données détenues par les membres de l’alliance et vos données de navigation sur Internet, VALIUZ utilise le service de la société Mediarithmics qui, à l’aide d’un identifiant digital (cookie), permet de vous reconnaître. La création de cet identifiant (de type “XXX”) est réalisée par Médiarithmics en qualité de responsable de traitement. La collecte de cet identifiant généré par le cookie Mediarithmics lorsque vous naviguez sur notre Site constitue un traitement dont Decathlon et Mediarithmics sont responsables conjoints. Mediarithmics traite ensuite cet identifiant afin de le confronter à sa table de réconciliation. Cette opération lui permet de confirmer qu’un même navigateur a été identifié sur le site de plusieurs de ses clients, et pour VALIUZ sur le site des membres de l’alliance. Mediarithmics est responsable de traitement de cette table de correspondance. Pour plus d'informations sur le traitement de réconciliation réalisé par Mediarithmics, consultez la politique de protection des données de Mediarithmics accessible ici.
+
+**Combien de temps les données sont-elles conservées par VALIUZ ?**  
+Les données utilisées par VALIUZ reposent sur un historique de 3 ans maximum. Les données sont conservées par VALIUZ le temps nécessaire à la réalisation des finalités visées ci-dessus et supprimées conformément à la politique de conservation définie par l’entreprise ayant collecté vos données. Les données de navigation collectées par le cookie VALIUZ sont conservées 12 mois maximum.
+
+**Opposition au partage de mes données Decathlon à VALIUZ**  
+Si vous souhaitez vous opposer spécifiquement au partage à Valiuz de vos données par Decathlon vous pouvez :
+
+*   \- Paramétrer votre opposition depuis votre [compte](http://account.decathlon.com/) dans le menu Paramètres/Utilisation des données/Partage avec Valiuz
+*   \- Nous envoyer un email à l’adresse [non\_a\_valiuz@decathlon.com](mailto:non_a_valiuz@decathlon.com)
+*   \- Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés
+*   \- Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
+
+Vous pouvez de plus refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites.
+
+Si vous souhaitez vous opposer au service VALIUZ d’une manière globale et pour toutes les entreprises membres, vous pouvez vous rendre sur le site VALIUZ et renseigner votre adresse Email, en [cliquant ici](https://valiuz.com/mes-droits/).  
+Dans ce cas, les données transmises à Valiuz et liées à l’adresse Email utilisée, ne seront plus traitées par VALIUZ.
+
+Pour toute question concernant VALIUZ, rendez-vous sur [https://valiuz.com](https://valiuz.com/).
+
+Envie d'en savoir plus sur nos communications ? C'est par [Ici](https://www.decathlon.fr/communication_opt_in_lp-H9IZ0L).
 
 ### Comment utilisons-nous vos données ?
 
