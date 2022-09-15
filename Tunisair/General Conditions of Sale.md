@@ -45,7 +45,7 @@ TUNISAIR s'engage à respecter la confidentialité des données transmises et à
 
 7.Tarifs, taxes, surcharges & frais de service
 
-En cas de non embarquement effectif du passager, les taxes et redevances a�roportuaires dont l'exigibilit� est li�e � l'embarquement effectif du Passager conform�ment � la r�glementation applicable sont remboursables dans un d�lai de 30 jours. La demande de remboursement est gratuite.
+En cas de non embarquement effectif du passager, les taxes et redevances aéroportuaires dont l'exigibilité est liée à l'embarquement effectif du Passager conformément à la réglementation applicable sont remboursables dans un délai de 30 jours. La demande de remboursement est gratuite.
 
 8.Frais Bancaires de conversion
 
