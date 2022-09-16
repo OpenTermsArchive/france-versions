@@ -1,7 +1,7 @@
 Conditions générales de transport des passagers et des bagages
 ==============================================================
 
-**Vienne, Novembre 2021**
+**Vienne, Septembre 2022**
 
 Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code OS), vous concluez un contrat de transport avec nous.
 
@@ -74,7 +74,7 @@ Article 2 – Portée de l’application
 
 ### 2.1. Généralités
 
-À l’exception des clauses définies dans les paragraphes 2.2, 2.4 et 2.5 du présent article, toutes les Conditions générales de transport s’appliquent uniquement aux vols ou segments de vol pour lesquels le nom de notre compagnie ou notre code compagnie figure sur le billet du vol ou segment.
+À l’exception des clauses définies dans les paragraphes 2.2 et 2.3 du présent article, toutes les Conditions générales de transport s’appliquent uniquement aux vols ou segments de vol pour lesquels le nom de notre compagnie ou notre code compagnie figure sur le billet du vol ou segment.
 
 Lorsque nous émettons un billet de transport sur la ligne d’un autre transporteur aérien, nous le faisons uniquement en tant qu’agent. Dans ce cas, notre code compagnie ne figure pas avant le numéro de vol.
 
@@ -86,10 +86,11 @@ Si le transport est effectué conformément à un accord d’affrètement, les p
 
 Nous proposons nos services sur de nombreux trajets selon des modalités appelées « partage de code » en coopération avec d’autres transporteurs aériens/entreprises de transport (« partenaires de partage de codes »). Cela signifie que même si vous avez conclu un contrat de transport avec nous et que vous avez un billet indiquant notre nom ou code compagnie, le transport sera partiellement ou entièrement réalisé par un partenaire de partage de code. Nous vous en informerons au moment de votre réservation.
 
-Veuillez noter que chaque partenaire de partage de code peut avoir ses propres règles quant aux vols/trajets qu’il opère, ce qui peut vous concerner en tant que passager et différer des règles que nous suivons. Cela inclut spécifiquement le temps prévu pour l’enregistrement, les limites de bagages et la collecte des bagages, les mineurs voyageant seuls, le transport d’animaux, le refus de transport, l’alimentation en oxygène, les irrégularités opérationnelles et l’indemnisation financière en cas de refus d’embarquement. Lisez attentivement les conditions de nos partenaires de partage de code respectifs au préalable et familiarisez-vous avec elles.  
-[_​_Vous trouverez ici des liens vers les sites Web de nos partenaires de partage de code](http://www.austrian.com/fr/fr/footer-pages/partner#codeshare-partners).
+Pour les services de code partagé sur des vols opérés par d’autres transporteurs aériens ou compagnies de transport, ces Conditions générales s’appliquent. 
 
-Les règles et réglementations de nos partenaires de partage de code pour les vols/transports qu’ils proposent sont incluses dans nos Conditions générales de transport et par conséquent, feront partie de notre contrat de transport (« conditions intégrées »). Lorsque les vols/modes de transport sont opérés par nos partenaires de partage de code, les conditions intégrées s’appliquent en priorité dans le cadre de nos Conditions générales de transport.
+Si le vol est effectué par un autre transporteur aérien ou une autre compagnie de transport, vous devez vous familiariser avec les caractéristiques particulières, par exemple les heures d’enregistrement, les dispositions relatives à la reconfirmation des réservations, les exigences et les politiques concernant le transport de mineurs non accompagnés, le transport d’animaux, le refus de transport, les dispositifs d’oxygène, les irrégularités opérationnelles, et le volume de la franchise bagage du transporteur aérien ou de la compagnie qui effectue le vol.
+
+[​Vous trouverez ici des liens vers les sites Web de nos partenaires de partage de code.](https://www.austrian.com/fr/fr/partner)
 
 ### 2.4. Informations sur l’identité des compagnies opérant le vol²
 
@@ -97,17 +98,9 @@ Sachant à quel point il est important pour vous de connaître la compagnie ave
 
 Les canaux indirects de vente comme les agents de voyages ou différents fournisseurs Internet sur lesquels nous n’avons pas d’influence, sont également tenus, par l’article 11 du règlement (CE) numéro 2111/20052 de vous informer systématiquement, au moment de la réservation, de la compagnie opérant le vol et/ou de contacter le passager si la compagnie opérant le vol change.  
 
-Vous trouverez la liste des transporteurs aériens de l’UE soumis à une interdiction d’exploitation au sein de la Communauté européenne à l’adresse [_​_ec.europa.eu/transport/modes/air/safety/air-ban/index\_de.htm](http://ec.europa.eu/transport/modes/air/safety/air-ban/index_de.htm).
+Vous trouverez la liste des transporteurs aériens de l’Union européenne faisant l’objet d’une interdiction d’exploitation dans la Communauté européenne sur le site
 
-### 2.5. Loi prépondérante
-
-En cas d’incohérence entre les présentes Conditions générales de transport et nos tarifs ou la législation en vigueur, ces tarifs ou lois en vigueur prévalent sur les Conditions générales de transport.
-
-Si une disposition des présentes Conditions générales de transport est invalide conformément à la loi en vigueur, les conditions restantes ne seront pas affectées.  
-
-### 2.6. Réglementation du transporteur aérien
-
-Sauf réglementation contraire dans les Conditions générales de transport, en cas de contradiction entre ces Conditions générales de transport et d’autres conditions, les Conditions générales de transport prévalent.
+[https://eur-lex.europa.eu/](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32005R2111)
 
 2 = Conformément au règlement (CE) no 2111/2005 du Parlement européen et du Conseil du 14 décembre 2005 relatif à l’établissement d’une liste européenne des transporteurs aériens soumis à une interdiction d’exploitation au sein de la Communauté, ainsi que l’obligation d’informer les passagers de l’identité des compagnies aériennes opérant le vol, et l’abrogation de l’article 9 de la directive 2004/36/CE.
 
@@ -286,7 +279,7 @@ Pour raisons de sécurité, nous pouvons vous demander d’autoriser que l’on 
 
 **8.6.1.** Les bagages enregistrés doivent porter votre nom ou vos coordonnées.
 
-**8.6.2.** Vos bagages enregistrés seront toujours transportés dans le même avion que vous, dans la mesure du possible, sauf si nous décidons de les transporter sur un autre vol pour des raisons de sécurité. Si vos bagages enregistrés sont transportés sur le vol suivant, nous vous le livrerons à votre destination à son arrivée, à moins que les lois en vigueur exigent votre présence pour le passage à la douane.  
+**8.6.2.** Votre bagage enregistré sera toujours transporté dans le même avion que vous, sauf si ce n’est pas possible pour des raisons de sécurité. Dans ce cas, votre bagage enregistré sera transporté sur un vol ultérieur par nous-même ou par l’un de nos partenaires aériens. Dans ce cas, nous vous le remettons sur le lieu de votre séjour, sauf si votre présence est requise pour une inspection douanière.  
 
 ### 8.7. Bagage à main
 
@@ -347,9 +340,9 @@ Nous rembourserons un billet ou toute partie inutilisée conformément aux condi
 
 **10.2.1.** Si vous avez le droit de demander un remboursement pour d’autres raisons que celles énoncées dans l’article 9, le montant du remboursement est calculé comme suit :
 
-*   **10.2.1.1.** si aucune partie du billet n’a été utilisée pour un vol, le tarif payé, moins les frais de service et d’annulation applicables, sera remboursé ;  
+*   **10.2.1.1.** si aucune partie du billet n’a été utilisée pour un vol, le tarif payé, moins les frais d’annulation en accord avec les conditions du tarif applicables, sera remboursé ;  
     
-*   **10.2.1.2.** si une partie du billet a été utilisée pour un vol, le remboursement s’élèvera à la différence entre le prix payé et le tarif applicable pour la partie du trajet entre les destinations du billet utilisé, moins les frais de service et d’annulation applicables.
+*   **10.2.1.2.** si une partie du billet a été utilisée pour un vol, le remboursement s’élèvera à la différence entre le prix payé et le tarif applicable pour la partie du trajet entre les destinations du billet utilisé, moins les frais d’annulation applicables.
 
 ### 10.3. Remboursement d’un billet perdu
 
@@ -398,20 +391,6 @@ L’utilisation d’appareils électroniques portables pesant moins de 1 kg, co
 
 Le personnel de bord peut interdire l’utilisation d’appareils électroniques pour des raisons de sécurité.
 
-### 11.3. Obligation de port d’un masque
-
-11.3.1 Afin de protéger la santé de toutes les personnes à bord, vous êtes tenu de porter un masque FFP2 à tout moment, de l’embarquement au débarquement. Les masques de classification supérieure peuvent également être portés à condition qu’ils ne soient pas munis d’une valve.
-
-11.3.2 Seuls les enfants de moins de six ans et les personnes qui ne peuvent pas porter de masque pour des raisons médicales sont dispensés de cette obligation. Toute exception à cette obligation sera uniquement acceptée si un résultat de test PCR négatif reconnu et un certificat médical figurent sur le formulaire Austrian Airlines correspondant. Le test PCR ne doit pas avoir été fait plus de 48 heures avant l’heure prévue du départ. Si vous n’êtes pas en mesure de répondre à ces exigences, veuillez nous contacter par e-mail via covid-testexemptions@lufthansa.com.
-
-Veuillez ne pas envoyer d’informations sensibles vous concernant, telles que des diagnostics ou des certificats de santé, à cette adresse. L’échange via cette adresse email n’est pas crypté.
-
-[Télécharger le certificat d’exemption de l’obligation de port de masque (PDF, 58 Ko)](https://www.austrian.com/content/dam/austrian/global/documents/footer/mouth-nose-cover/25-jaenner-2021/250121_FFP2_Maskenbefreiung_Attest_EN.pdf)
-
-11.3.3. Vous trouverez de plus amples informations sur les différents types de masques autorisés et des informations pour nous contacter, en particulier le formulaire du Groupe Lufthansa, sur notre [page FAQ](https://author-prod.dcep.dlh.de/content/aua/gc/en/footer-pages/faq/faq-mouth-nose-cover.html).
-
-11.3.4. Il est expressément interdit d’entrer et de rester dans l’avion avec une infection connue à la Covid-19. Vous vous engagez à rembourser tous les frais encourus par Austrian en conséquence d’une violation de la présente disposition.
-
 Article 12 – Dispositions pour des services supplémentaires fournis par des tiers
 ---------------------------------------------------------------------------------
 
@@ -436,7 +415,7 @@ Nous nous réservons le droit de refuser de vous transporter si vous ne respecte
 
 ### 13.3. Refus d’entrée
 
-Si vous vous voyez refuser l’entrée dans n’importe quel pays, il vous faudra régler les frais et amendes qui en découlent, ainsi que les frais de votre transport pour sortir de ce pays. Dans ce cas, nous ne rembourserons pas le tarif du transport jusqu’au site du refus d’entrée.
+Si l’entrée dans un quelconque pays vous est refusée, vous devrez régler les frais et pénalités qui en découlent, ainsi que les frais de transport pour sortir de ce pays. Dans ce cas, nous ne rembourserons pas le tarif du transport jusqu’au site du refus d’entrée.
 
 ### 13.4. Responsabilité du passager en matière de pénalités, coûts de détention, etc.
 
@@ -460,9 +439,7 @@ Le transport qui doit être effectué par nous et d’autres transporteurs aéri
 Article 15 – Responsabilité en cas de dommages
 ----------------------------------------------
 
-### 15.1. Principes
-
-Si lors de votre voyage, une partie du transport est effectuée par d’autres compagnies aériennes, la responsabilité sera déterminée par leurs propres conditions de transport. Nos clauses de responsabilité sont les suivantes :
+### 15.1. 
 
 ### 15.2. Loi en vigueur
 
