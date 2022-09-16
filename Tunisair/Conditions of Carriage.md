@@ -320,20 +320,20 @@ La différence Tarifaire entre le nouveau Billet et le Billet initial nest pas
 
 Sauf dispositions contraires contenues soit dans le Billet, soit dans les Présentes Conditions Générales de Transport, ou sauf le cas de conditions Tarifaires affectant la durée de Validité d'un Billet, tel qu'indiqué au Passager au moment de l'achat du Billet ou sur le Billet lui-même, un Billet est valable:  
 
-*   un an à compter de la date d'émission si aucun Coupon de vol nest utilisé ou,
+* un an à compter de la date d'émission si aucun Coupon de vol nest utilisé ou,
     
-*   un an à compter de la date d'utilisation du premier Coupon.
+* un an à compter de la date d'utilisation du premier Coupon.
     
 
 #### **3.2.2.**
 
 Lorsque le Passager en possession d'un Billet en cours de Validité se trouve empêché de voyager pendant la durée de Validité de son Billet parce qu'au moment où il demande une Réservation sur un vol, le Transporteur n'est pas en mesure de confirmer la Réservation souhaitée par le Passager:  
 
-*   soit la Validité de ce Billet sera prorogée,
+* soit la Validité de ce Billet sera prorogée,
     
-*   soit le Tarif TTC du Billet donnera lieu à Remboursement, dans les conditions prévues à l'**Art.12** ci-après.
+* soit le Tarif TTC du Billet donnera lieu à Remboursement, dans les conditions prévues à l'**Art.12** ci-après.
     
-*   ssoit le Passager acceptera un réajustement Tarifaire.
+* ssoit le Passager acceptera un réajustement Tarifaire.
     
 
 #### **3.2.3.**
@@ -412,13 +412,13 @@ Si le Passager n'a pas effectué le paiement intégral de son Billet avant la da
 Afin de satisfaire une demande de Réservation, le Passager communique au Transporteur Aérien ou à son Agent Accrédité, via site web ou au niveau dune agence, des données à caractère personnel le concernant.  
 En réservant ainsi un siège à bord dun vol, le Passager accepte lutilisation de ses données personnelles par le Transporteur Aérien. Les données communiquées par le Passager sont collectées et traitées pour les finalités suivantes :  
 
-*   Réservation et achat dun Billet, Fourniture de prestation ou de services annexes en relation avec le Transport(repas, assistance médicale, accompagnement dun mineur, ...)
+* Réservation et achat dun Billet, Fourniture de prestation ou de services annexes en relation avec le Transport(repas, assistance médicale, accompagnement dun mineur, ...)
     
 
-*   Accomplissement des Formalités Administratives relatives à limmigration et à lentrée sur le territoire dun Etat.
+* Accomplissement des Formalités Administratives relatives à limmigration et à lentrée sur le territoire dun Etat.
     
 
-*   Réalisation dactions de prospection, de promotion et de statistiques commerciales, Gestion dun programme de fidélité.
+* Réalisation dactions de prospection, de promotion et de statistiques commerciales, Gestion dun programme de fidélité.
     
 
 Les données personnelles des Passagers collectées dans le cadre de ces finalités font lobjet dun traitement de la part du Transporteur Aérien conformément à la loi Tunisienne en vigueur relative à la protection des données à caractère personnel et ou toute loi subséquente la modifiant ainsi que toute législation ou réglementation applicable.  
@@ -470,9 +470,9 @@ Les enfants âgés de moins de **5 ans** le jour du vol peuvent voyager seuls à
 Le Passager qui accompagne le Mineur doit occuper un siège dans la même cabine que celui-ci.  
 Le service daccompagnement des enfants voyageant seuls, âgés de plus de **5 ans** et moins de **12 ans** peut être offert sous réserve de laccord préalable du transporteur, de préférence au moment de la Réservation du billet et au plus tard **48 heures** avant la date du voyage, du paiement dun supplément et si les conditions suivantes sont réunies :  
 
-*   Lenfant est accompagné au comptoir denregistrement par un parent ou une personne responsable avec lequel il reste à laéroport jusquà lembarquement et le décollage de lavion.
+* Lenfant est accompagné au comptoir denregistrement par un parent ou une personne responsable avec lequel il reste à laéroport jusquà lembarquement et le décollage de lavion.
     
-*   Lenfant doit être attendu à Destination par un autre parent ou une personne responsable dont lidentité devra être précisée et entre les mains duquel il pourra être remis en toute sécurité.
+* Lenfant doit être attendu à Destination par un autre parent ou une personne responsable dont lidentité devra être précisée et entre les mains duquel il pourra être remis en toute sécurité.
     
 
 Une décharge de responsabilité signée des parents doit être remise à lescale de départ précisant les noms, adresse et n° de téléphone de la personne devant prendre l'enfant en charge à l'arrivée.  
@@ -487,9 +487,9 @@ Entre le septième et le huitième mois de grossesse elles devront être munies 
 Est considéré comme bébé, tout Passager nayant pas atteint son deuxième anniversaire à la date du commencement du voyage. Chaque bébé doit être obligatoirement accompagné par lun de ses parents ou dun Adulte Autonome âgé dau moins **18 ans**. Cependant, laccompagnateur peut être âgé de moins de 18 ans lorsquil sagit du père ou de la mère. Dans le cas où le Passager voyage accompagné de 2 bébés, la présence dun 2ème accompagnateur, répondant aux mêmes règles que le 1er, est obligatoire ou la présence dun membre déquipage supplémentaires.  
 La demande dun membre déquipage supplémentaire doit être exprimée au plus tard **48 Heures** avant la date du vol.  
 
-*   Les nouveaux nés voyageant dans les sept jours qui suivent leur naissance doivent être munis obligatoirement dun certificat médical signé.
+* Les nouveaux nés voyageant dans les sept jours qui suivent leur naissance doivent être munis obligatoirement dun certificat médical signé.
     
-*   Les femmes voyageant dans les sept jours qui suivent laccouchement doivent être munies obligatoirement dun certificat médical signé.
+* Les femmes voyageant dans les sept jours qui suivent laccouchement doivent être munies obligatoirement dun certificat médical signé.
     
 
 ### 6.5.Passagers à Mobilité réduite
@@ -536,11 +536,11 @@ Cette décision est rendue nécessaire du fait de linobservation par le Passag
 
 Le Passager a refusé de se soumettre aux contrôles de sûreté et/ou à linspection des Bagages tels que prévus ci-dessous à l**Art.8** ou a refusé de produire une pièce didentité; ou si une ou plusieurs raisons légitimes lui permettent dagir ainsi. Par exemple mais sans aucun caractère limitatif, quand un Passager:  
 
-*   a besoin dune assistance spéciale du Transporteur Aérien non demandée au préalable
+* a besoin dune assistance spéciale du Transporteur Aérien non demandée au préalable
     
-*   fait preuve dune attitude agressive ou dun état psychologique manifestement instable; ou sest comporté de manière inconvenante lors dun précédent vol et le Transporteur Aérien estime que ce comportement pourrait se reproduire, ou a compromis le bon déroulement et la sécurité lors de lenregistrement du vol et/ou de lembarquement;
+* fait preuve dune attitude agressive ou dun état psychologique manifestement instable; ou sest comporté de manière inconvenante lors dun précédent vol et le Transporteur Aérien estime que ce comportement pourrait se reproduire, ou a compromis le bon déroulement et la sécurité lors de lenregistrement du vol et/ou de lembarquement;
     
-*   présente un danger ou une menace quelconque pour lui-même, les autres personnes ou les biens
+* présente un danger ou une menace quelconque pour lui-même, les autres personnes ou les biens
     
 
 #### **8.1.5.**
@@ -1005,17 +1005,17 @@ En vertu de l**Art.17** de la Convention de Varsovie amendée par le protocole
 
 Lorsque la Convention de Varsovie amendée par le protocole de la Haye sapplique :  
 
-*   _**Exonérations**_ :
+* _**Exonérations**_ :
     
     Le Transporteur Aérien ne sera pas responsable sil prouve que :
     
 
-*   lui et ses préposés ont pris toutes les mesures nécessaires pour éviter le Dommage ou qu'il leur était impossible de les prendre ;
+* lui et ses préposés ont pris toutes les mesures nécessaires pour éviter le Dommage ou qu'il leur était impossible de les prendre ;
     
-*   la faute, la négligence ou un autre acte ou omission préjudiciable de la personne lésée a causé le Dommage ou y a contribué, le tribunal pourra, conformément aux dispositions de sa propre loi, écarter ou atténuer la responsabilité du Transporteur.
+* la faute, la négligence ou un autre acte ou omission préjudiciable de la personne lésée a causé le Dommage ou y a contribué, le tribunal pourra, conformément aux dispositions de sa propre loi, écarter ou atténuer la responsabilité du Transporteur.
     
 
-*   _**Dédommagement:**_
+* _**Dédommagement:**_
     
     La limite de responsabilité pour chaque Passager dans le cas de décès, blessure ou autre Dommage corporel sera plafonnée à 16 600 DTS.
     
@@ -1024,20 +1024,20 @@ Lorsque la Convention de Varsovie amendée par le protocole de la Haye sappliq
 
 Lorsque la Convention de Montréal sapplique :  
 
-*   _**Exonérations:**_
+* _**Exonérations:**_
     
     Le Transporteur Aérien ne sera pas responsable sil apporte la preuve que:
     
-    *   le décès, les blessures ou toute autre lésion corporelle résulte de létat de santé, physique ou mental du Passager antérieur à son embarquement à bord de lavion ;
+    * le décès, les blessures ou toute autre lésion corporelle résulte de létat de santé, physique ou mental du Passager antérieur à son embarquement à bord de lavion ;
         
-    *   le Dommage a été causé en tout ou en partie par la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits en application de l**art 20** de la Convention de Montréal.
+    * le Dommage a été causé en tout ou en partie par la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits en application de l**art 20** de la Convention de Montréal.
         
-    *   le Dommage nest pas dû à la négligence, à un autre acte ou omission préjudiciable du Transporteur Aérien, de ses préposés ou de ses mandataires dans la mesure où le montant du Dommage excède 128 821 DTS (à compter du 28 Décembre 2019) par Passager conformément à l**art 21 §2(a)** de la Convention de Montréal,
+    * le Dommage nest pas dû à la négligence, à un autre acte ou omission préjudiciable du Transporteur Aérien, de ses préposés ou de ses mandataires dans la mesure où le montant du Dommage excède 128 821 DTS (à compter du 28 Décembre 2019) par Passager conformément à l**art 21 §2(a)** de la Convention de Montréal,
         
-    *   le Dommage résulte uniquement de la négligence, dun autre acte ou omission préjudiciable dun tiers dans la mesure où le montant du Dommage dépasse 128 821 DTS (à compter du 28 Décembre 2019) par Passager selon l' **art 21 §2(b)**
+    * le Dommage résulte uniquement de la négligence, dun autre acte ou omission préjudiciable dun tiers dans la mesure où le montant du Dommage dépasse 128 821 DTS (à compter du 28 Décembre 2019) par Passager selon l' **art 21 §2(b)**
         
     
-*   _**Dédommagement**_ :
+* _**Dédommagement**_ :
     
     Lorsque la responsabilité est engagée en cas de décès ou datteinte à lintégrité physique des Passagers, aucun seuil maximal nest défini pour le montant du dédommagement. Dans le cas de Dommages ne dépassant pas un montant de 128 821 DTS (à compter du 28 Décembre 2019), la compagnie Aérienne ne peut faire valoir aucune objection liée à la culpabilité à lencontre des demandes de dédommagement dont elle fait lobjet. La compagnie peut refuser de verser des dédommagements supérieurs à ce montant, à condition de prouver quelle na pas agi par négligence et quelle nest pas coupable.
     
@@ -1052,37 +1052,37 @@ Au terme de l'**Art.18** de la Convention de Varsovie amendée par le protocole 
 
 Lorsque la Convention de Varsovie amendée par le protocole de la Haye sapplique :
 
-*   _**Dédommagement :**_
+* _**Dédommagement :**_
     
-    *   La responsabilité du Transporteur est limitée à léquivalent en monnaie nationale de la somme de 17 DTS par kilogramme, sauf déclaration spéciale d'intérêt à la livraison faite par l'Expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d'une somme supplémentaire ou à l'enregistrement du Bagage par le passager. Dans ce cas le Transporteur sera tenu de payer jusqu'à la somme déclarée, à moins qu'il prouve qu'elle est supérieure à l'intérêt réel de l'Expéditeur ou du passager à la livraison,
+    * La responsabilité du Transporteur est limitée à léquivalent en monnaie nationale de la somme de 17 DTS par kilogramme, sauf déclaration spéciale d'intérêt à la livraison faite par l'Expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d'une somme supplémentaire ou à l'enregistrement du Bagage par le passager. Dans ce cas le Transporteur sera tenu de payer jusqu'à la somme déclarée, à moins qu'il prouve qu'elle est supérieure à l'intérêt réel de l'Expéditeur ou du passager à la livraison,
         
-    *   NB : Pour les Bagages non enregistrés admis à bord, la responsabilité du Transporteur Aérien ne pourra être recherchée par le Passager que si ce dernier rapporte la preuve de la faute du Transporteur Aérien, de ses préposés ou de ses mandataires.
+    * NB : Pour les Bagages non enregistrés admis à bord, la responsabilité du Transporteur Aérien ne pourra être recherchée par le Passager que si ce dernier rapporte la preuve de la faute du Transporteur Aérien, de ses préposés ou de ses mandataires.
         
 
 #### **17.3.3.**
 
 Lorsque la Convention de Montréal sapplique :  
 
-*   _**Exonérations :**_
+* _**Exonérations :**_
     
     Le Transporteur Aérien ne sera pas responsable sil prouve que :
     
-    *   Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages du Passager lorsque ces Dommages résulteront de la nature ou dun vice propre des dits Bagages.
+    * Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages du Passager lorsque ces Dommages résulteront de la nature ou dun vice propre des dits Bagages.
         
     
-    *   Le Transporteur nassumera aucune responsabilité particulière, autre que celle prévue au sous-paragraphe (Dédommagement)ci-dessous, pour tout Dommage et/ou perte causés à des objets fragiles ou de valeur, ou emballés de façon inadéquate
+    * Le Transporteur nassumera aucune responsabilité particulière, autre que celle prévue au sous-paragraphe (Dédommagement)ci-dessous, pour tout Dommage et/ou perte causés à des objets fragiles ou de valeur, ou emballés de façon inadéquate
         
     
-    *   Le Transporteur ne sera pas responsable des Dommages causés, aux Bagages, du fait de la négligence, dun acte ou dune omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
+    * Le Transporteur ne sera pas responsable des Dommages causés, aux Bagages, du fait de la négligence, dun acte ou dune omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits.
         
     
-    *   Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages non enregistrés à moins que le Dommage ne soit causé par sa négligence.
+    * Le Transporteur ne sera pas responsable des Dommages survenus aux Bagages non enregistrés à moins que le Dommage ne soit causé par sa négligence.
         
 
-*   _**Dédommagement Bagages :**_ La responsabilité du Transporteur est limitée à léquivalent en devise locale de 1 288 DTS (à compter du 28 Décembre 2019) par Passager pour les Bagages enregistrés sauf déclaration spéciale d'intérêt à l'enregistrement du Bagage par le passager au moment de l'enregistrement et moyennant le paiement d'une somme supplémentaire.
+* _**Dédommagement Bagages :**_ La responsabilité du Transporteur est limitée à léquivalent en devise locale de 1 288 DTS (à compter du 28 Décembre 2019) par Passager pour les Bagages enregistrés sauf déclaration spéciale d'intérêt à l'enregistrement du Bagage par le passager au moment de l'enregistrement et moyennant le paiement d'une somme supplémentaire.
     
 
-*   _**Dédommagement Marchandises :**_ La responsabilité du Transporteur est limitée à léquivalent en monnaie nationale de la somme de 22 DTS par kilogramme (à compter du 28 Décembre 2019), sauf déclaration spéciale d'intérêt à la livraison faite par l'Expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d'une somme supplémentaire ou à l'enregistrement du Bagage par le passager. Dans ce cas le Transporteur sera tenu de payer jusqu'à la somme déclarée, à moins qu'il prouve qu'elle est supérieure à l'intérêt réel de l'Expéditeur ou du passager à la livraison.
+* _**Dédommagement Marchandises :**_ La responsabilité du Transporteur est limitée à léquivalent en monnaie nationale de la somme de 22 DTS par kilogramme (à compter du 28 Décembre 2019), sauf déclaration spéciale d'intérêt à la livraison faite par l'Expéditeur au moment de la remise du colis au transporteur et moyennant le paiement d'une somme supplémentaire ou à l'enregistrement du Bagage par le passager. Dans ce cas le Transporteur sera tenu de payer jusqu'à la somme déclarée, à moins qu'il prouve qu'elle est supérieure à l'intérêt réel de l'Expéditeur ou du passager à la livraison.
     
 
 ### 17.4. Retard
@@ -1095,22 +1095,22 @@ En vertu de l**Art.19** de la Convention de Varsovie amendée par le protocole
 
 Lorsque la Convention de Varsovie amendée par le protocole de la Haye sapplique :  
 
-*   Aucun montant de réparation nest indiqué.
+* Aucun montant de réparation nest indiqué.
     
 
 #### **17.4.3.**
 
 Lorsque la Convention de Montréal sapplique :  
 
-*   _**Exonérations**_ : le Transporteur nest pas responsable du Dommage causé par un retard sil prouve que lui, ses préposés et mandataires ont pris toutes les mesures qui pouvaient raisonnablement simposer pour éviter le Dommage, ou quil leur était impossible de les prendre.
+* _**Exonérations**_ : le Transporteur nest pas responsable du Dommage causé par un retard sil prouve que lui, ses préposés et mandataires ont pris toutes les mesures qui pouvaient raisonnablement simposer pour éviter le Dommage, ou quil leur était impossible de les prendre.
     
 
-*   _**Dédommagement**_ :
+* _**Dédommagement**_ :
     
-    *   En cas de Dommage subi par des Passagers résultant dun retard, la responsabilité du Transporteur, est fonction du Dommage prouvé par le Passager et elle est limitée à 5 346 DTS (à compter du 28 Décembre 2019).
+    * En cas de Dommage subi par des Passagers résultant dun retard, la responsabilité du Transporteur, est fonction du Dommage prouvé par le Passager et elle est limitée à 5 346 DTS (à compter du 28 Décembre 2019).
         
     
-    *   En cas de Dommage causé par le retard à la livraison des Bagages enregistrés, la responsabilité du Transporteur est limitée à 1 288 DTS par Passager (à compter du 28 Décembre 2019).
+    * En cas de Dommage causé par le retard à la livraison des Bagages enregistrés, la responsabilité du Transporteur est limitée à 1 288 DTS par Passager (à compter du 28 Décembre 2019).
         
 
 Article.18.Délais de réclamation et daction en responsabilité
@@ -1125,9 +1125,9 @@ La réception des Bagages Enregistrés sans protestation par le Passager dans le
 
 En cas de détérioration, retard, perte ou destruction des Bagages, le Passager concerné doit adresser une protestation par écrit auprès du Transporteur
 
-***   dans un délai ne dépassant pas les 7 jours de la date d'arrivée du vol pour l'avarie bagages
-*   dans un délai ne dépassant pas les 21 jours de la date de réception du bagage pour la livraison tardive bagages
-*   à partir de 21 jours pour la perte bagages.**
+*** dans un délai ne dépassant pas les 7 jours de la date d'arrivée du vol pour l'avarie bagages
+* dans un délai ne dépassant pas les 21 jours de la date de réception du bagage pour la livraison tardive bagages
+* à partir de 21 jours pour la perte bagages.**
 
   
 
