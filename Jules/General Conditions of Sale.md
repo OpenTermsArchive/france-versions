@@ -282,9 +282,12 @@ Pour toute information, réclamation ou question relative aux Conditions Génér
 
 ##### 12.2 Médiation
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Jules adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie – 75008 Paris.  
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Jules adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  
+Médiateur de la consommation FEVAD  
+BP 20015 - 75362 PARIS CEDEX 8  
+[https://www.mediateurfevad.fr](https://www.mediateurfevad.fr/)  
   
-Après démarche préalable écrite des consommateurs vis-à-vis de Jules, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Les modalités de saisine du Médiateur sont disponibles à l’adresse suivante : [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/).  
+Après démarche préalable écrite des consommateurs vis-à-vis de Jules, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Les modalités de saisine du Médiateur sont disponibles à l’adresse suivante : [http://www.mediateurfevad.fr](https://www.mediateurfevad.fr/).  
   
 Au niveau européen, la Commission Européenne met à disposition des consommateurs [une plateforme de résolution en ligne des litiges](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage).
 
