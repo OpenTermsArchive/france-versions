@@ -59,7 +59,7 @@ Preference cookies enable our website to remember information that changes the w
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (29)
+Statistics (30)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -73,7 +73,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x2\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
 | \_hjIncludedInSessionSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
 | \_hjRecordingLastActivity | bolt.eu | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
@@ -92,7 +92,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (55)
+Marketing (56)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -100,6 +100,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
+| \_\_mpq\_#\_# | cdn.mxpnl.com | Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. | Persistent | HTML Local Storage |
 | \_\_tld\_\_ | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | Session | HTTP Cookie |
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
 | \_cq\_tuid \[x2\] | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
@@ -138,7 +139,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | YSC | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTTP Cookie |
 | ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
 
-Unclassified (11)
+Unclassified (14)
 
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
 
@@ -147,7 +148,10 @@ Unclassified cookies are cookies that we are in the process of classifying, toge
 | --- | --- | --- | --- | --- |
 | @locali18nLng | bolt.eu | Pending | Persistent | HTML Local Storage |
 | cg\_uuid | potter.mcangelus.com | Pending | 11 months | HTTP Cookie |
+| HWWAFSESID | dtm-drcn.platform.hicloud.com | Pending | Session | HTTP Cookie |
+| HWWAFSESTIME | dtm-drcn.platform.hicloud.com | Pending | Session | HTTP Cookie |
 | taxifyDriverPortal\_locale | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
+| taxifyDriverPortal\_uuid | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_username | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | test\_WZRK\_G1 | fleets.bolt.eu | Pending | 1 day | HTTP Cookie |
