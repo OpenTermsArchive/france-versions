@@ -14,7 +14,7 @@ SI VOUS ÊTES SITUÉ DANS L'UN DES PAYS IDENTIFIÉS CI-DESSOUS, DES CONDITIONS S
 
 Vous lisez les présentes conditions de vente (« Conditions de Vente ») parce que vous utilisez un site internet, une expérience numérique, une plateforme de medias sociaux, une application mobile, une technologie portable NIKE ou un de nos autres produits ou services, lesquels font partis de la plateforme NIKE (« Plateforme »). Ces Conditions de Vente créent un accord juridiquement contraignant entre vous et NIKE et ses filiales (que nous désignons sous les termes « NIKE », « nous », « notre » ou « nos ») concernant les commandes passées pour des produits disponibles sur la Plateforme. Veuillez consulter notre [**Liste des Entités Locales**](http://agreementservice.svs.nike.com/rest/agreement?requestType=redirect&agreementType=localEntities&country=FR&language=fr&uxId=com.nike.tos) pour obtenir le nom de l'entité NIKE en charge de vous fournir la Plateforme et les informations de contact appropriées. Nike peut modifier ces Conditions de Vente sans notification préalable en publiant des Conditions de Vente modifiées sur sa Plateforme. Les Conditions de Vente affichées sur la Plateforme au moment de votre commande sur ladite Plateforme régiront cet achat. Veuillez lire attentivement ces conditions et vérifiez que les détails de votre commande sont complets et exacts avant de confirmer votre commande. Votre utilisation de la plateforme est également régie par les [Conditions d'Utilisation](http://agreementservice.svs.nike.com/rest/agreement?requestType=redirect&agreementType=termsOfUse&country=FR&language=fr&uxId=com.nike.tos) et la [Politique de Confidentialité](http://agreementservice.svs.nike.com/rest/agreement?requestType=redirect&agreementType=privacyPolicy&country=FR&language=fr&uxId=com.nike.tos) de NIKE. Les Conditions d'Utilisation sont incorporées ici par ce lien. **\[Voir les conditions de la [Hongrie](#HUNGARY).\].** 
 
-**PASSER DES COMMANDES SUR LA PLATEFORME** 
+**PASSER DES COMMANDES SUR LA PLATEFORME** 
 
 ELIGIBILITÉ POUR COMMANDER
 
@@ -34,14 +34,14 @@ NOTRE DROIT DE REJETER VOTRE COMMANDE OU D'ANNULER UN CONTRAT
 
 L'exécution de toutes les commandes sur la Plateforme est soumise à la disponibilité des produits. Nous nous réservons expressément le droit de refuser votre commande pour quelque raison que ce soit. Nous nous réservons également le droit d'annuler un contrat par notification écrite, sans pouvoir être tenus responsable de tout dommage ou coût autre que le remboursement de tout somme versée par vous en relation avec le Contrat que nous avons annulé dans les situations suivantes:
 
-*   le produit n'est pas disponible / en stock ;
-*   vos informations de facturation sont incorrectes ou non vérifiables ;
-*   votre commande est signalée par nos systèmes de sécurité comme une commande inhabituelle ou une commande susceptible de fraude ;
-*   vous avez moins de 16 ans ou avez un âge inférieur à celui requis par la loi applicable pour conclure un accord avec Nike ;
-*   vous êtes un revendeur ;
-*   il y a eu une erreur dans le prix affiché sur la Plateforme ; ou
-*   nous n'avons pas pu livrer à l'adresse fournie par vos soins ;
-*   en raison d'un Evénement hors de notre contrôle (voir ci-dessous).
+* le produit n'est pas disponible / en stock ;
+* vos informations de facturation sont incorrectes ou non vérifiables ;
+* votre commande est signalée par nos systèmes de sécurité comme une commande inhabituelle ou une commande susceptible de fraude ;
+* vous avez moins de 16 ans ou avez un âge inférieur à celui requis par la loi applicable pour conclure un accord avec Nike ;
+* vous êtes un revendeur ;
+* il y a eu une erreur dans le prix affiché sur la Plateforme ; ou
+* nous n'avons pas pu livrer à l'adresse fournie par vos soins ;
+* en raison d'un Evénement hors de notre contrôle (voir ci-dessous).
 
 **\[Voir les Conditions applicables à la [France](#FRANCE).\]**  
 
@@ -103,7 +103,7 @@ FRAIS D'ENVOI
 
 LIVRAISON GRATUITE
 
-Si vous effectuez un achat dépassant le seuil applicable à votre pays de livraison, vous bénéficierez de la gratuité de la « livraison standard » ou d’une option à prix réduit pour la « livraison express ». D'autres conditions peuvent également vous permettre de bénéficier de la livraison gratuite. Consultez la section d'aide du Site Internet pour connaitre les seuils applicables et les taux de livraison réduits correspondants. 
+Si vous effectuez un achat dépassant le seuil applicable à votre pays de livraison, vous bénéficierez de la gratuité de la « livraison standard » ou d’une option à prix réduit pour la « livraison express ». D'autres conditions peuvent également vous permettre de bénéficier de la livraison gratuite. Consultez la section d'aide du Site Internet pour connaitre les seuils applicables et les taux de livraison réduits correspondants.  
 
 **ARTICLES PERSONNALISÉS**
 
@@ -171,7 +171,7 @@ a)     Nous vous contacterons dès que possible pour vous en informer ; et
 
 b)     Nos obligations en vertu des présentes conditions générales seront suspendues et le délai d'exécution de nos obligations sera prolongé pendant toute la durée de l’Évènement Hors de Notre Contrôle. 
 
-Si l’Évènement Hors de Notre Contrôle affecte la livraison d'un produit, une nouvelle date de livraison sera établie avec vous après la fin de l’Évènement Hors de Notre Contrôle. Vous pouvez annuler le contrat si un Évènement Hors de Notre Contrôle a lieu et que vous ne souhaitez plus que nous vous livrions les produits. Veuillez prendre connaissance de vos droits d'annulation dans la rubrique Annulation ci-dessus. 
+Si l’Évènement Hors de Notre Contrôle affecte la livraison d'un produit, une nouvelle date de livraison sera établie avec vous après la fin de l’Évènement Hors de Notre Contrôle. Vous pouvez annuler le contrat si un Évènement Hors de Notre Contrôle a lieu et que vous ne souhaitez plus que nous vous livrions les produits. Veuillez prendre connaissance de vos droits d'annulation dans la rubrique Annulation ci-dessus. 
 
 **AUTRES TERMES IMPORTANTS**
 
@@ -193,7 +193,7 @@ Vous acceptez que la Plateforme, les Conditions de Vente et tout litige entre vo
 
 Sauf interdiction et sans limitation des droits des consommateurs, vous acceptez que tous les litiges, réclamations et procédures judiciaires découlant directement ou indirectement de la Plateforme (y compris, mais sans s'y limiter, l'achat des produits NIKE) soient résolus individuellement, sans recourir à aucune forme de recours collectif, et exclusivement devant les tribunaux compétents d'Amsterdam, aux Pays-Bas. 
 
-En cas de plainte, veuillez nous contacter au préalable via \[[nous contacter](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) 
+En cas de plainte, veuillez nous contacter au préalable via \[[nous contacter](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) 
 
 Toutes les réclamations doivent être présentées dans un délai d'un (1) an à compter de leur survenance, dans la mesure permise par la loi applicable. **\[Voir les dispositions applicables en [Autriche](#AUSTRIA), [France](#FRANCE), [Allemagne](#GERMANY), [Italie](#ITALY) et [Pologne](#POLAND).\]** 
 
@@ -215,12 +215,12 @@ La section ci-dessus intitulée « PASSAGE DES COMMANDES SUR LA PLATEFORME », s
 
 Nous nous réservons le droit d'annuler un Contrat en vous envoyant une notification écrite dans les situations suivantes, sans qu’une telle annulation puisse conduire au paiement de dommages ou de coûts autres que le remboursement de tout montant versé par vos soins dans le cadre du contrat que nous avons annulé :
 
-*   vos informations de facturation sont incorrectes ou non vérifiables;
-*   votre commande est signalée par nos systèmes de sécurité comme une commande inhabituelle ou une commande susceptible de fraude ;
-*   vous avez moins de 16 ans ou avez un âge inférieur à celui requis par la loi applicable pour conclure un accord avec Nike ;
-*   vous êtes un revendeur;
-*   nous n'avons pas pu vous livrer à l'adresse que vous nous avez fournie ; ou
-*   en raison d'un Evénement Hors de Notre Contrôle (voir ci-dessous). » 
+* vos informations de facturation sont incorrectes ou non vérifiables;
+* votre commande est signalée par nos systèmes de sécurité comme une commande inhabituelle ou une commande susceptible de fraude ;
+* vous avez moins de 16 ans ou avez un âge inférieur à celui requis par la loi applicable pour conclure un accord avec Nike ;
+* vous êtes un revendeur;
+* nous n'avons pas pu vous livrer à l'adresse que vous nous avez fournie ; ou
+* en raison d'un Evénement Hors de Notre Contrôle (voir ci-dessous). » 
 
 La section ci-dessus intitulée « RETOURS ET ANNULATIONS», sous-section «RETOUR DES COMMANDES APRÈS LA LIVRAISON – PRODUITS DÉFECTUEUX » est entièrement supprimée par la présente et remplacée par ce qui suit: 
 
@@ -228,9 +228,9 @@ La section ci-dessus intitulée « RETOURS ET ANNULATIONS», sous-section «RETO
 
 Veuillez noter que conformément à la garantie légale de conformité, vous :
 
-*   bénéficiez d’un délai de 2 ans à compter de la livraison du produit pour soumettre une réclamation ;
-*   pouvez choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues à l'article L. 217-9 du code de la consommation ;
-*   n’avez pas à prouver le défaut de conformité du produit pendant une période de deux (2) ans suivant la livraison du produit.
+* bénéficiez d’un délai de 2 ans à compter de la livraison du produit pour soumettre une réclamation ;
+* pouvez choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues à l'article L. 217-9 du code de la consommation ;
+* n’avez pas à prouver le défaut de conformité du produit pendant une période de deux (2) ans suivant la livraison du produit.
 
 La garantie légale de conformité est sans préjudice de toute garantie commerciale qui pourrait être fournie.
 
@@ -240,7 +240,7 @@ Les deuxième et troisième paragraphes de la section intitulée « LOI APPLICAB
 
 « Sauf autorisation et sans limitation des droits des consommateurs, vous acceptez que tous les litiges, réclamations et procédures judiciaires découlant directement ou indirectement de ou liés à la Plateforme (y compris mais sans limitation liés à l'achat de produits NIKE), et exclusivement devant les tribunaux compétents d'Amsterdam, aux Pays-Bas. 
 
-Si vous avez une plainte, veuillez d'abord nous contacter via \[[contact us page](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr](http://ec.europa.eu/odr). En outre, vous avez le droit d'engager une procédure de médiation en contactant le(s) médiateur(s) comme suit : Association des Médiateurs Européens (197, Boulevard Saint-Germain, 75007 PARIS, téléphone: 09 53 01 02 69), [http://www.mediationconso-ame.com/](http://www.mediationconso-ame.com/). Le(s) médiateur(s) tentera(ont), de manière indépendante et impartiale, de parvenir à un règlement amiable du litige. En cas de médiation, chaque partie est libre d'accepter ou de rejeter la solution proposée par le médiateur. » 
+Si vous avez une plainte, veuillez d'abord nous contacter via \[[contact us page](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr](http://ec.europa.eu/odr). En outre, vous avez le droit d'engager une procédure de médiation en contactant le(s) médiateur(s) comme suit : Association des Médiateurs Européens (197, Boulevard Saint-Germain, 75007 PARIS, téléphone: 09 53 01 02 69), [http://www.mediationconso-ame.com/](http://www.mediationconso-ame.com/). Le(s) médiateur(s) tentera(ont), de manière indépendante et impartiale, de parvenir à un règlement amiable du litige. En cas de médiation, chaque partie est libre d'accepter ou de rejeter la solution proposée par le médiateur. » 
 
 **ALLEMAGNE** 
 
@@ -254,7 +254,7 @@ La section ci-dessus intitulée « APPLICABILITÉ » est modifiée par adjonctio
 
 « Les présentes Conditions de Vente constituent un accord implicite entre vous et NIKE, à moins qu'il ne soit autrement satisfait aux exigences des accords écrits en vertu de la loi hongroise. » 
 
-**ITALIE** 
+**ITALIE** 
 
 La section ci-dessus intitulée « PRIX / PAIEMENT », sous-section « CHANGEMENTS DE PRIX », est remplacée dans son intégralité par ce qui suit: 
 
@@ -284,6 +284,6 @@ Vous acceptez que la Plateforme, les Conditions de Vente et tout litige entre vo
 
 Sauf interdiction et sans limitation des droits reconnus aux consommateurs, vous acceptez que tous les litiges, réclamations et procédures judiciaires découlant directement ou indirectement de la Plateforme (y compris, mais sans s'y limiter, l'achat des produits NIKE) soient résolus individuellement, sans recourir à aucune forme de recours collectif, et exclusivement devant les tribunaux compétents en vertu de la loi applicable. 
 
-Dans le cas où vous avez une plainte ou estimez qu'il y a un différend entre vous et NIKE, veuillez nous contactez via [\[contact us page](https://help-fr-fr.nike.com/app/contact)\] d'abord. Dans le cas où le différend entre vous et NIKE n'est pas résolu, vous pouvez – sans y être obligé – utiliser la plate-forme de résolution en ligne des litiges accessible via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) »
+Dans le cas où vous avez une plainte ou estimez qu'il y a un différend entre vous et NIKE, veuillez nous contactez via [\[contact us page](https://help-fr-fr.nike.com/app/contact)\] d'abord. Dans le cas où le différend entre vous et NIKE n'est pas résolu, vous pouvez – sans y être obligé – utiliser la plate-forme de résolution en ligne des litiges accessible via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) »
 
 Date de la dernière révision: septembre 2021
