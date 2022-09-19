@@ -104,7 +104,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_\_tld\_\_ | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | Session | HTTP Cookie |
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
 | \_cq\_tuid \[x2\] | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
-| \_fbp | fleets.bolt.eu | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
+| \_fbp | partners.bolt.eu | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | \_gaexp | bolt.eu | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 25 days | HTTP Cookie |
 | \_gcl\_au | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
 | \_hjRecordingEnabled | bolt.eu | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
