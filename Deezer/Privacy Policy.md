@@ -1,5 +1,5 @@
-* [• Your privacy on Deezer Updated September 2025](#new)
-* [• Your privacy on Deezer Updated June 2022](#old)
+*   [• Your privacy on Deezer Updated September 2025](#new)
+*   [• Your privacy on Deezer Updated June 2022](#old)
 
   
   
@@ -766,10 +766,10 @@ We take technical, physical and organizational safeguards to protect your data a
 
 When implementing and improving these safeguards, we take into account the state of the art, the nature of the processing, the sensitivity of the data, and the potential threats and risks.
 
-* We implement and maintain sophisticated technical measures – such as encryption – to ensure that your data is confidentially and securely recorded and used.
-* We restrict and limit access to your data – via access controls – and monitor who accesses, uses, and transfers your personal data – via logs and audit trails.
-* Employees who have access to your data are required to comply with strong data privacy, confidentiality and security policies.
-* Business partners and service providers with whom we share your data are also required to comply with strong data privacy, confidentiality and security contractual requirements.
+*   We implement and maintain sophisticated technical measures – such as encryption – to ensure that your data is confidentially and securely recorded and used.
+*   We restrict and limit access to your data – via access controls – and monitor who accesses, uses, and transfers your personal data – via logs and audit trails.
+*   Employees who have access to your data are required to comply with strong data privacy, confidentiality and security policies.
+*   Business partners and service providers with whom we share your data are also required to comply with strong data privacy, confidentiality and security contractual requirements.
 
 Sharing of personal data
 ------------------------
