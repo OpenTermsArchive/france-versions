@@ -3,12 +3,12 @@
 Terms of Use
 ============
 
-*   [Terms of Use for the Deezer Free Service](#cgu_free)
-*   [Terms of Use and Sale for the Deezer Web Service](#cgu_web)
-*   [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service](#cgu_premium)
-*   [Terms of Use and Sale for the Deezer HiFi Service](#cgu_hifi)
-*   [Terms of Use of the Radio by Deezer Service](#cgu_radiobydeezer)
-*   [Terms of Use for Deezer for Developers](#cgu_developers)
+* [Terms of Use for the Deezer Free Service](#cgu_free)
+* [Terms of Use and Sale for the Deezer Web Service](#cgu_web)
+* [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service](#cgu_premium)
+* [Terms of Use and Sale for the Deezer HiFi Service](#cgu_hifi)
+* [Terms of Use of the Radio by Deezer Service](#cgu_radiobydeezer)
+* [Terms of Use for Deezer for Developers](#cgu_developers)
 
 ﻿
 
@@ -404,10 +404,10 @@ Without prejudice to any damages that DEEZER may claim, DEEZER has the right to 
 
 \- Does not comply with the Terms and especially:
 
-*   Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-*   Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-*   Uses or attempts to use multiple simultaneous connections to the same account;
-*   Provides false information at the time of his/her subscription to the Deezer Web Service or subsequently.
+* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
+* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
+* Uses or attempts to use multiple simultaneous connections to the same account;
+* Provides false information at the time of his/her subscription to the Deezer Web Service or subsequently.
 
 \- Fails to pay the subscription price in full or in part.
 
@@ -684,10 +684,10 @@ Without prejudice to any damages that DEEZER may claim, DEEZER has the right to 
 
 \- Does not comply with the Terms and especially:
 
-*   Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-*   Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-*   Uses or attempts to use multiple simultaneous connections to the same account;
-*   Provides false information at the time of his/her subscription to the Deezer Premium Service or subsequently.
+* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
+* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
+* Uses or attempts to use multiple simultaneous connections to the same account;
+* Provides false information at the time of his/her subscription to the Deezer Premium Service or subsequently.
 
 \- Fails to pay the subscription price in full or in part.
 
@@ -757,9 +757,9 @@ The Deezer Family Service subscription and its use are restricted to members of 
 
 Subscription to the Deezer Family Service is not available for:
 
-*   any person who wishes to subscribe via iTunes;
-*   any person who uses as means of payment the first version of the Paypal app;
-*   subscribers to the Deezer Premium Service who have signed up for a 12-month subscription.
+* any person who wishes to subscribe via iTunes;
+* any person who uses as means of payment the first version of the Paypal app;
+* subscribers to the Deezer Premium Service who have signed up for a 12-month subscription.
 
 Deezer Premium subscribers who wish to subscribe to the Deezer Family Service are informed that by subscribing to the Deezer Family Service, they will be charged immediately for the amount of the monthly subscription fee for the Deezer Family Service and at the same time, their subscription to the Deezer Premium Service will be cancelled automatically by DEEZER. Any current monthly subscription to the Deezer Premium Service already paid for will not be refunded.
 
@@ -779,9 +779,9 @@ The Deezer Student Service is only available to students aged 18 to 25 who are e
 
 Subscription to the Deezer Student Service is not available for:
 
-*   subscribers to the Deezer Premium Service (full price);
-*   subscribers to the Deezer HiFi Service;
-*   beneficiaries of a current promotional offer.
+* subscribers to the Deezer Premium Service (full price);
+* subscribers to the Deezer HiFi Service;
+* beneficiaries of a current promotional offer.
 
 In any of the above cases, in order to subscribe to the Deezer Student Service, the ongoing subscription or promotional offer must first be cancelled or have expired.
 
@@ -1012,10 +1012,10 @@ Without prejudice to any damages that DEEZER may claim, DEEZER has the right to 
 
 \- Does not comply with the Terms and especially:
 
-*   Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-*   Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-*   Uses or attempts to use multiple simultaneous connections to the same account;
-*   Provides false information at the time of his/her subscription to the Deezer HiFi Service or subsequently.
+* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
+* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
+* Uses or attempts to use multiple simultaneous connections to the same account;
+* Provides false information at the time of his/her subscription to the Deezer HiFi Service or subsequently.
 
 \- Fails to pay the subscription price in full or in part.
 
@@ -1146,8 +1146,8 @@ Without prejudice to any damages that DEEZER may claim, DEEZER has the right to 
 
 \- Does not comply with the Terms and especially:
 
-*   Infringes DEEZER’s or Third Parties’ intellectual property rights;
-*   Bypasses or attempts to bypass the protective technical measures put in place by DEEZER.
+* Infringes DEEZER’s or Third Parties’ intellectual property rights;
+* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER.
 
 \- Carries on activities prejudicial to DEEZER’s commercial interests.
 
