@@ -1,7 +1,7 @@
 Editeur du site
 ---------------
 
-BZB, Société par Actions Simplifiée au capital social de 33 593 250 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix,  
+BZB, Société par Actions Simplifiée au capital social de 9 062 920,00 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix,  
 immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 482 435 898,  
 dont le numéro de TVA intracommunautaire est FR 00 482 435 898  
 représentée par Arnaud Mathon, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« BZB »)  
@@ -350,6 +350,9 @@ Tout lien simple ou par hypertexte est strictement interdit sauf accord exprès 
 
 Les présentes conditions générales de vente en ligne sont soumises à la loi française.  
 Tous litiges qui ne pourraient être réglés à l’amiable seront portés devant les tribunaux compétents du domicile du défendeur ou du lieu de livraison ou du ressort du siège social de BZB.  
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, BZB adhère au Service du Médiateur du e-commerce de la [FEVAD](http://www.fevad.com/) (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 rue de la Boétie – 75008 Paris. Après démarche préalable écrite des consommateurs vis-à-vis de BZB, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Les modalités de saisine du Médiateur sont disponibles à l’adresse suivante : http://www.mediateurfevad.fr
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, BZB adhère au Service du Médiateur de la consommation [FEVAD](http://www.fevad.com/) (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  
+BP 20015 - 75362 PARIS CEDEX 8 -  
+[https://www.mediateurfevad.fr](https://www.mediateurfevad.fr/)  
+Après démarche préalable écrite des consommateurs vis-à-vis de BZB, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti.
 
 ([haut de page](#haut))
