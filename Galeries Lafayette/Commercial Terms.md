@@ -10,7 +10,7 @@ PREAMBULE
 
 Soucieuses de toujours mieux répondre aux attentes de leurs clients, les Galeries Lafayette ont décidé de leur permettre d’accéder, parallèlement au réseau de Grands Magasins qu'elles exploitent, à une large sélection de Produits sur leur Site internet www.galerieslafayette.com. 
 
-**1 ) Identification de l'auteur de l'offre et service Clientèle :** 
+**1 ) Identification de l'auteur de l'offre et service Clientèle :** 
 
 **1.1)** En l’absence de précisions sur la fiche Produit, l’auteur de l’offre est la société : 
 
@@ -20,7 +20,7 @@ Siège social : 27 rue de Châteaudun - 75446 PARIS Cedex 09 
 
 Le service Client du Site est joignable par téléphone depuis la France métropolitaine au 09 69 39 75 75 (appel non surtaxé), du lundi au samedi, de 9h à 19h, sauf les jours fériés. Il est également joignable par courrier électronique, depuis le formulaire de contact en ligne disponible sur le Site, une réponse sera alors donnée sous un délai de 48 h ouvrées. Ses locaux sont situés : 27, rue de Châteaudun, TSA 56 000, 75446 PARIS Cedex 9. 
 
-**1.2) Offres Marketplace** 
+**1.2) Offres Marketplace** 
 
 Pour les Produits présentés dans le cadre de l'Offre marketplace, l’auteur de l’offre est le Partenaire identifié par la mention « Vendu et expédié par …. ». Cette mention apparaît après sélection de la taille. En cliquant sur le nom du Partenaire en fiche Produit, le Client accès aux mentions d'identification de l'auteur de l'offre ainsi qu'aux conditions particulières de vente concernant ces Produits. 
 
@@ -85,16 +85,16 @@ Les Galeries Lafayette se réservent la possibilité d'adapter ou de modifier à
 ARTICLE II BIS OFFRES MARKETPLACE
 ---------------------------------
 
-Pour vous offrir l’accès à toujours plus de marques et ainsi vous proposer une plus grande sélection mode, [Galerieslafayette.com](http://www.galerieslafayette.com/) ouvre son magasin en ligne à des vendeurs partenaires professionnels. 
+Pour vous offrir l’accès à toujours plus de marques et ainsi vous proposer une plus grande sélection mode, [Galerieslafayette.com](http://www.galerieslafayette.com/) ouvre son magasin en ligne à des vendeurs partenaires professionnels. 
 
   
-Ces vendeurs partenaires vous proposent leurs collections sur notre magasin en ligne et sont en charge de la préparation, l'expédition et le service après-vente de votre commande.   
+Ces vendeurs partenaires vous proposent leurs collections sur notre magasin en ligne et sont en charge de la préparation, l'expédition et le service après-vente de votre commande.   
   
 Ce que cela signifie pour le Client :
 
   
-**1\. Une procédure simple :** le Client passe commande sur le Site  
-**2\. Un paiement sécurisé :** le paiement de la commande est effectué sur le Site via l'interface de paiement
+**1\. Une procédure simple :** le Client passe commande sur le Site  
+**2\. Un paiement sécurisé :** le paiement de la commande est effectué sur le Site via l'interface de paiement
 
 sécurisé de notre prestataire de service de paiement. Vous donnez mandat aux Galeries Lafayette de
 
@@ -102,7 +102,7 @@ régler le montant de votre commande aux Vendeurs partenaires et aucune informat
 
 leur est transmise.
 
-**3\. Une expertise de spécialistes :** : il est possible de contacter les Vendeurs partenaires directement via
+**3\. Une expertise de spécialistes :** : il est possible de contacter les Vendeurs partenaires directement via
 
 l'espace « Mon Compte » sur le Site.
 
@@ -157,8 +157,8 @@ Le Client a 2 possibilités :
 Lors de l’ouverture de compte, le Client accepte de fournir les informations qui lui sont demandées et s’engage sur la véracité de ces dernières :
 
 \- nom et prénom : information nécessaire pour identifier le propriétaire de la commande  
-\- adresse postale : information nécessaire pour la livraison à domicile    
-\- téléphone : information nécessaire pour le suivi de la livraison    
+\- adresse postale : information nécessaire pour la livraison à domicile    
+\- téléphone : information nécessaire pour le suivi de la livraison    
 \- adresse électronique : information nécessaire pour l’envoi des emails confirmation de commande et suivi de livraison
 
 Lors de la Commande, le Client :  
@@ -246,7 +246,7 @@ S'agissant des données communiquées à ONEYTRUST dans le cadre de l'opération
 
 En savoir plus sur la gestion de vos données par ONEYTRUST : 
 
-[https://oneytrust.com/mention-information-score-et-review/](https://oneytrust.com/mention-information-score-et-review/) 
+[https://oneytrust.com/mention-information-score-et-review/](https://oneytrust.com/mention-information-score-et-review/) 
 
 ARTICLE VI BIS. PAIEMENT EN 3 FOIS OU 4 FOIS PAR CARTE BANCAIRE
 ---------------------------------------------------------------
@@ -341,7 +341,7 @@ BNP Paribas Personal Finance, SA au capital de 546.601.552 € - SIREN 542 097 9
 
 boulevard Haussmann 75 318 Paris Cedex 09 – N°ORIAS : 07 023 128 – Tél. : 05 56 55 56 00
 
-**ARTICLE VI TER. PAIEMENT COMPTANT OU EN PLUSIEURS FOIS AVEC LA CARTE DE CREDIT** **GALERIES LAFAYETTE MASTERCARD**
+**ARTICLE VI TER. PAIEMENT COMPTANT OU EN PLUSIEURS FOIS AVEC LA CARTE DE CREDIT** **GALERIES LAFAYETTE MASTERCARD**
 
 Avec la carte de crédit Galeries Lafayette MASTERCARD vous payer vos achats sur le site
 
@@ -479,7 +479,7 @@ Les commandes sont livrées dans le magasin choisi par le Client, du lundi au sa
 
 A sa réception, le colis sera remis en stock et le Client sera remboursé du montant de la commande dès réception du colis dans les entrepôts Galeries Lafayette (aucune réexpédition ne sera possible). 
 
-**e.** **Livraison à l'international avec ColisExpat :**
+**e.** **Livraison à l'international avec ColisExpat :**
 
 La livraison à l’international pour les pays non livrés par le Site peut être réalisée par notre partenaire ColisExpat.com. Les produits de l’univers Beauté et les articles volumineux et/ou supérieurs à 30kg ne peuvent être livrés par ce service. 
 
@@ -499,7 +499,7 @@ En cas de dommages, le Client les détaillera précisément sur le bon de retour
 
 Dans le cas d’un refus de la livraison ou de retour du Produit pour les raisons sus visées, le Client pourra demander l’annulation de sa commande dans les conditions prévues à l’article X des présentes. 
 
-**3) Tarifs et délais de livraison** 
+**3) Tarifs et délais de livraison** 
 
 Les tarifs et délais de livraison indiqués sont indicatifs. Il s'agit des délais d'acheminement de nos transporteurs en jours ouvrés. Ils prennent effet à compter de la date d’expédition de la commande. Les frais de livraison peuvent être gratuits à partir d’un certain montant total de panier ou lors d’opérations commerciales ponctuelles dont les conditions sont communiquées en temps utiles aux clients éligibles. 
 
@@ -865,15 +865,15 @@ Tout litige susceptible de résulter de l'interprétation ou de l'exécution des
 FORMULAIRE DE RETRACTATION
 --------------------------
 
-**MODÈLE DE FORMULAIRE DE RÉTRACTATION** 
+**MODÈLE DE FORMULAIRE DE RÉTRACTATION** 
 
-**Pour les achats réalisés sur le site www.galerieslafayette.com hors offres marketplace.** 
+**Pour les achats réalisés sur le site www.galerieslafayette.com hors offres marketplace.** 
 
 **Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat par vos propres moyens.**
 
-**À L'ATTENTION DE GALERIES LAFAYETTE MANAGEMENT, Direction e-commerce - Service Client - 27 RUE DE CHATEAUDUN - TSA 56 000, 75446 PARIS CEDEX 09,** 
+**À L'ATTENTION DE GALERIES LAFAYETTE MANAGEMENT, Direction e-commerce - Service Client - 27 RUE DE CHATEAUDUN - TSA 56 000, 75446 PARIS CEDEX 09,** 
 
-**Je vous notifie par la présente ma rétractation du contrat portant sur la vente (\*) du bien / prestation de service suivant** **…………………………..**
+**Je vous notifie par la présente ma rétractation du contrat portant sur la vente (\*) du bien / prestation de service suivant** **…………………………..**
 
 **Commande reçue le ……………………………..**
 
@@ -887,8 +887,6 @@ FORMULAIRE DE RETRACTATION
 
 **SIGNATURE**
 
-**(\*) rayez la mention inutile** 
+**(\*) rayez la mention inutile** 
 
-[
-
-](#)
+[](#)
