@@ -345,6 +345,4 @@ Vous pouvez paramétrer les cookies par les moyens suivants :
 
 \- en cliquant sur « paramétrage cookies » en bas de page de notre site internet.
 
-[
-
-](#)
+[](#)
