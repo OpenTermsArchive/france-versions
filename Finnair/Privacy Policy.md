@@ -97,12 +97,12 @@ Quelles données nous traitons
 
 Nous recueillons et traitons des informations de base, telles que
 
-*   nom
-*   date de naissance
-*   sexe
-*   type de voyageur (adulte, enfant, bébé)
-*   titre (M., Mme, Mlle)
-*   informations de contact, telles que l'adresse, l'adresse de facturation, l'adresse de transport terrestre, le numéro de téléphone et l'adresse électronique.
+* nom
+* date de naissance
+* sexe
+* type de voyageur (adulte, enfant, bébé)
+* titre (M., Mme, Mlle)
+* informations de contact, telles que l'adresse, l'adresse de facturation, l'adresse de transport terrestre, le numéro de téléphone et l'adresse électronique.
 
 Les informations personnelles peuvent être traitées, par exemple, concernant la personne voyageant, la personne effectuant la réservation, la personne à contacter en cas d'urgence, les tuteurs légaux ou les personnes à charge.
 
@@ -110,12 +110,12 @@ Les informations personnelles peuvent être traitées, par exemple, concernant l
 
 Afin de rendre votre voyage possible, nous traitons **les informations de réservation et de billet ainsi que les détails de traitement des bagages**. Ces données peuvent inclure :
 
-*   numéro de référence de la réservation, numéro du billet, informations tarifaires
-*   détails du vol (dates et heures de départ, numéro du vol)
-*   itinéraire de vol (origine et destination du voyage et escales possibles)
-*   date de réservation, type de voyage (aller simple ou aller-retour)
-*   classe de voyage, type et numéro de siège
-*   codes d’étiquettes de bagages, itinéraire et détails éventuels du contrôle de sécurité.
+* numéro de référence de la réservation, numéro du billet, informations tarifaires
+* détails du vol (dates et heures de départ, numéro du vol)
+* itinéraire de vol (origine et destination du voyage et escales possibles)
+* date de réservation, type de voyage (aller simple ou aller-retour)
+* classe de voyage, type et numéro de siège
+* codes d’étiquettes de bagages, itinéraire et détails éventuels du contrôle de sécurité.
 
 À votre demande, nous pouvons également traiter **des informations sur une demande de service spécial**. Ces types de demandes peuvent impliquer, par exemple, des informations sur les repas, le transport d’animaux de compagnie en cabine ou en soute, ou encore une assistance spéciale requise.
 
@@ -282,35 +282,35 @@ Quelles données nous traitons
 
 Nous collectons et traitons les données personnelles de base que vous avez communiquées à votre sujet ou celles de vos enfants lors de la création de votre profil de compte Finnair Plus ou Finnair. Ces données peuvent inclure :
 
-*   nom
-*   date de naissance
-*   sexe
-*   taille de la famille et autres informations sur le lieu de résidence
-*   titre (M., Mme, Mlle)
-*   informations de contact, telles que les adresses, le numéro de téléphone et l'adresse électronique
-*   données professionnelles - profession ou emploi, nom de l'employeur, adresse de l'employeur et numéro de téléphone professionnel
-*   informations sur les documents de voyage - numéro de passeport, durée de validité du passeport, pays émetteur du passeport et nationalité.
+* nom
+* date de naissance
+* sexe
+* taille de la famille et autres informations sur le lieu de résidence
+* titre (M., Mme, Mlle)
+* informations de contact, telles que les adresses, le numéro de téléphone et l'adresse électronique
+* données professionnelles - profession ou emploi, nom de l'employeur, adresse de l'employeur et numéro de téléphone professionnel
+* informations sur les documents de voyage - numéro de passeport, durée de validité du passeport, pays émetteur du passeport et nationalité.
 
 Nous traitons les informations concernant votre statut de membre et l'historique de votre adhésion, ainsi que des données relatives à vos préférences personnelles et à votre utilisation des avantages liés à l'adhésion. Ces données peuvent inclure : 
 
-*   informations d'adhésion et de profil - date de début de l'adhésion, type et campagne, préférence du siège (couloir ou hublot)
-*   informations sur la carte de membre - numéro de carte de membre, date de délivrance de la dernière carte de membre, date d'expiration
-*   informations sur les niveaux d'adhésion - historique des niveaux, total des points, nombre de vols, niveau d'adhésion, cumul des prix de billets d'avion, détails sur les dates de niveaux
-*   informations sur les points - nombre total de points et de points de récompense gagnés pendant l’adhésion, nombre total de points de récompense dépensés, nombre total de points de récompense disponibles, total de points de récompense expirés
-*   données de transaction - toutes les transactions et tous les achats dans le cadre de votre adhésion
-*   informations spécifiques à un événement - date de l'événement, détails de l'événement, tels que nom du produit, points gagnés ou dépensés, nom du fournisseur de service, numéro de document (numéro de billet ou autre numéro de document)
-*   informations indiquant si le client dispose d'une carte de crédit associée Finnair Plus
+* informations d'adhésion et de profil - date de début de l'adhésion, type et campagne, préférence du siège (couloir ou hublot)
+* informations sur la carte de membre - numéro de carte de membre, date de délivrance de la dernière carte de membre, date d'expiration
+* informations sur les niveaux d'adhésion - historique des niveaux, total des points, nombre de vols, niveau d'adhésion, cumul des prix de billets d'avion, détails sur les dates de niveaux
+* informations sur les points - nombre total de points et de points de récompense gagnés pendant l’adhésion, nombre total de points de récompense dépensés, nombre total de points de récompense disponibles, total de points de récompense expirés
+* données de transaction - toutes les transactions et tous les achats dans le cadre de votre adhésion
+* informations spécifiques à un événement - date de l'événement, détails de l'événement, tels que nom du produit, points gagnés ou dépensés, nom du fournisseur de service, numéro de document (numéro de billet ou autre numéro de document)
+* informations indiquant si le client dispose d'une carte de crédit associée Finnair Plus
 
 Votre profil contient également les données sur vos vols en tant que membre Finnair Plus ou titulaire d'un compte Finnair : 
 
-*   numéro de vol
-*   lieux de départ et de destination du vol
-*   classe de voyage
-*   code de compagnie aérienne
-*   agence de voyages qui a effectué la réservation
-*   informations tarifaires sur le billet
-*   nom de code pour la réservation de voyages d'affaires et autres informations de réservation
-*   informations sur le compagnon de voyage - nom du compagnon.
+* numéro de vol
+* lieux de départ et de destination du vol
+* classe de voyage
+* code de compagnie aérienne
+* agence de voyages qui a effectué la réservation
+* informations tarifaires sur le billet
+* nom de code pour la réservation de voyages d'affaires et autres informations de réservation
+* informations sur le compagnon de voyage - nom du compagnon.
 
 Comment nous utilisons vos données
 
@@ -386,6 +386,6 @@ Nous partageons vos données personnelles avec, par exemple, d'autres compagnies
 
 **À des fins juridiques, de sécurité et de prévention de la fraude**
 
-Nous pouvons partager vos données personnelles avec des tiers concernés si nécessaire pour détecter et prévenir les délits, les activités frauduleuses ou les problèmes de sécurité, ou pour toute autre raison légale. 
+Nous pouvons partager vos données personnelles avec des tiers concernés si nécessaire pour détecter et prévenir les délits, les activités frauduleuses ou les problèmes de sécurité, ou pour toute autre raison légale. 
 
 16 Mars 2021
