@@ -16,8 +16,8 @@ Dès lors que vous utilisez notre Plateforme, vous êtes soumis à la Charte alo
 
 Les responsables du traitement de vos données personnelles sont :
 
-*   ETAM LINGERIE, Société anonyme, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 478 355 753
-*   ETAM SCE, Société par actions simplifiée, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 450 966 445
+* ETAM LINGERIE, Société anonyme, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 478 355 753
+* ETAM SCE, Société par actions simplifiée, ayant son siège social 57/59 rue Henri Barbusse 92110 Clichy, France. Immatriculée au RCS de Nanterre sous le numéro 450 966 445
 
 C’est ainsi que, conjointement, nous avons établi des directives et nous assurons la prise en charge du traitement et de la protection de vos données personnelles.
 
@@ -28,18 +28,18 @@ Etam peut également être amené à recueillir certaines informations relatives
 Conformément à la réglementation applicable, le Cabinet d'avocats POGGI, Anne-Sophie Poggi, avocat à la Cour, 50 rue Etienne Marcel 75002 Paris a été désigné Délégué à la Protection des Données (DPO).
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 2\. DONNÉES CONCERNÉES
 ----------------------
 
 Les données que nous collectons et utilisons, varient en fonction des produits, services ou fonctionnalités dont vous souhaitez disposer. Les données personnelles, que nous recueillons ou que vous décidez de nous fournir, regroupent en particulier :
 
-*   • des données d’identification, telles que votre prénom, nom de famille, numéros de téléphone, adresse de votre domicile pour livrer votre commande, adresse e-mail pour vous envoyer la newsletter, photographies que vous communiquez ou images lorsque vous visitez nos magasins équipés de système de vidéosurveillance ;
-*   • des données économiques et de paiement, telles que des données de carte de paiement, des données relatives à vos achats, commandes ou retours ;
-*   • des données d’identification électronique disponibles sur ou à partir de votre ordinateur (telles que les "cookies" ou les "adresses IP"). Vos données d’identification électronique permettent d’identifier ou de géolocaliser (sans être plus précis que la ville) votre terminal de connexion ou les pages consultées sur le Site au cours de votre navigation et sont généralement insuffisantes à elles seules pour vous identifier de manière nominative. Pour de plus amples renseignements sur les informations de navigation recueillies, veuillez consulter l’Article 5 relative aux cookies et témoins de connexion ;
-*   • des données relatives à vos achats en ligne ou en magasin (par exemple le type, la quantité et le prix de produits achetés) ;
-*   • des données sur vos goûts et préférences, telles que vos préférences sur nos collections, vos préférences de couleurs, vos habitudes et votre taille.
+* • des données d’identification, telles que votre prénom, nom de famille, numéros de téléphone, adresse de votre domicile pour livrer votre commande, adresse e-mail pour vous envoyer la newsletter, photographies que vous communiquez ou images lorsque vous visitez nos magasins équipés de système de vidéosurveillance ;
+* • des données économiques et de paiement, telles que des données de carte de paiement, des données relatives à vos achats, commandes ou retours ;
+* • des données d’identification électronique disponibles sur ou à partir de votre ordinateur (telles que les "cookies" ou les "adresses IP"). Vos données d’identification électronique permettent d’identifier ou de géolocaliser (sans être plus précis que la ville) votre terminal de connexion ou les pages consultées sur le Site au cours de votre navigation et sont généralement insuffisantes à elles seules pour vous identifier de manière nominative. Pour de plus amples renseignements sur les informations de navigation recueillies, veuillez consulter l’Article 5 relative aux cookies et témoins de connexion ;
+* • des données relatives à vos achats en ligne ou en magasin (par exemple le type, la quantité et le prix de produits achetés) ;
+* • des données sur vos goûts et préférences, telles que vos préférences sur nos collections, vos préférences de couleurs, vos habitudes et votre taille.
 
 Lorsque vous présentez votre candidature à un emploi disponible dans le groupe Etam, proposé sur notre Plateforme, vous pouvez être amenés à nous fournir des données telles que votre prénom, nom, genre, adresse, adresse e-mail, formation ainsi que vos qualifications et expériences professionnelles.
 
@@ -48,23 +48,23 @@ Lorsque vous présentez votre candidature à un emploi disponible dans le groupe
 
 Conformément à la réglementation en vigueur, vous disposez de différents droits concernant vos données personnelles. Ces droits peuvent être exercés directement et à tout moment en nous contactant à l'adresse privacy@etam.fr ou Etam Lingerie, Service Clients, 57/59 rue Henri Barbusse, 92110 Clichy, en indiquant simplement le motif de votre demande et le droit que vous souhaitez exercer. En cas de doute sur votre identité, nous pourrons vous demander une copie de votre pièce d’identité ou d’un autre justificatif. Les droits dont vous bénéficiez sont les suivants :
 
-*   • Le droit d’accès : Le droit de demander une copie des données personnelles que nous détenons sur vous. Si votre demande est injustifiée ou abusive, nous pourrons vous facturer des frais relatifs à cette demande.
-*   • Le droit de rectification : Le droit de demander la correction des données personnelles erronées que nous avons sur vous. Nous tenons à vous rappeler que si vous avez un compte client, vous avez la possibilité d’accéder à la section correspondant à vos données personnelles afin de les modifier ou mettre à jour. Vous devrez vous assurer que ces données sont vraies et exactes. De même, vous vous engagez à nous communiquer tout changement ou modification de ces données. Nous vous rappelons également qu’en principe vous ne devez communiquer que vos propres données personnelles et non pas celles d’un tiers. Tout dommage ou perte causée suite à une communication d’information inexacte ou incomplète dans nos formulaires de collecte de données relève exclusivement de la responsabilité de l’utilisateur de notre Plateforme.
-*   • Le droit à l’effacement : Le droit de demander la suppression de vos données, lorsque l’une des conditions suivantes est remplie :
-    *   o vos données personnelles ne sont plus nécessaires au regard des finalités,
-    *   o vous avez retiré votre consentement et il n’existe pas d’autre fondement juridique justifiant de poursuivre le traitement de vos données personnelles,
-    *   o vous avez exercé votre droit d’opposition de manière valable,
-    *   o le traitement de vos données n’est pas légal,
-    *   o ou vos données personnelles doivent être effacées pour respecter une obligation légale.
+* • Le droit d’accès : Le droit de demander une copie des données personnelles que nous détenons sur vous. Si votre demande est injustifiée ou abusive, nous pourrons vous facturer des frais relatifs à cette demande.
+* • Le droit de rectification : Le droit de demander la correction des données personnelles erronées que nous avons sur vous. Nous tenons à vous rappeler que si vous avez un compte client, vous avez la possibilité d’accéder à la section correspondant à vos données personnelles afin de les modifier ou mettre à jour. Vous devrez vous assurer que ces données sont vraies et exactes. De même, vous vous engagez à nous communiquer tout changement ou modification de ces données. Nous vous rappelons également qu’en principe vous ne devez communiquer que vos propres données personnelles et non pas celles d’un tiers. Tout dommage ou perte causée suite à une communication d’information inexacte ou incomplète dans nos formulaires de collecte de données relève exclusivement de la responsabilité de l’utilisateur de notre Plateforme.
+* • Le droit à l’effacement : Le droit de demander la suppression de vos données, lorsque l’une des conditions suivantes est remplie :
+    * o vos données personnelles ne sont plus nécessaires au regard des finalités,
+    * o vous avez retiré votre consentement et il n’existe pas d’autre fondement juridique justifiant de poursuivre le traitement de vos données personnelles,
+    * o vous avez exercé votre droit d’opposition de manière valable,
+    * o le traitement de vos données n’est pas légal,
+    * o ou vos données personnelles doivent être effacées pour respecter une obligation légale.
 
 Il existe néanmoins des cas où vous ne pouvez pas exercer votre droit à l’effacement, même si une desdites conditions est remplie (notamment lorsque le traitement de vos données est nécessaire à la liberté d’expression et d’information, au respect d’une obligation légale, à la contestation/ l’exercice/la défense d’un droit en justice ou à des fins statistiques, archivistiques d’intérêt public, de recherche scientifique ou historique).
 
 Pour supprimer votre compte client, il suffit de nous transmettre votre demande à l'adresse privacy@etam.fr ou Etam Lingerie, Service Clients, 57/59 rue Henri Barbusse, 92110 Clichy. Nous tenons néanmoins à vous informer que cette suppression conduira automatiquement à la perte des points que vous avez éventuellement accumulés en cas d’adhésion à notre programme de fidélité.
 
-*   • Le droit d’opposition : Le droit de vous opposer pour des raisons tenant à votre situation particulière aux traitements de vos données personnelles fondés sur notre intérêt légitime. Le cas échéant nous cesserons de traiter vos données, sauf si nous disposons d’un motif légitime de continuer à traiter vos données. Si vos données sont utilisées à des fins de prospection commerciale, vous avez le droit de vous y opposer sans avoir à vous justifier.
-*   • Le droit à la limitation du traitement : Le droit de demander, dans certains cas, la suspension provisoire du traitement de certaines de vos données ou la conservation, si vous en avez besoin, pour une durée supérieure au temps nécessaire.
-*   • Le droit à la portabilité : Si le traitement de vos données personnelles est fondé sur votre consentement ou l’exécution du contrat et si le traitement est réalisé par des moyens automatisés, vous aurez le droit de demander la réception des données vous concernant dans un format structuré, couramment utilisé et lisible par une machine, afin de pouvoir les transférer à une autre entité, pourvu que cela est techniquement possible.
-*   • Le droit de définir des directives relatives au sort de vos données personnelles en cas de décès.
+* • Le droit d’opposition : Le droit de vous opposer pour des raisons tenant à votre situation particulière aux traitements de vos données personnelles fondés sur notre intérêt légitime. Le cas échéant nous cesserons de traiter vos données, sauf si nous disposons d’un motif légitime de continuer à traiter vos données. Si vos données sont utilisées à des fins de prospection commerciale, vous avez le droit de vous y opposer sans avoir à vous justifier.
+* • Le droit à la limitation du traitement : Le droit de demander, dans certains cas, la suspension provisoire du traitement de certaines de vos données ou la conservation, si vous en avez besoin, pour une durée supérieure au temps nécessaire.
+* • Le droit à la portabilité : Si le traitement de vos données personnelles est fondé sur votre consentement ou l’exécution du contrat et si le traitement est réalisé par des moyens automatisés, vous aurez le droit de demander la réception des données vous concernant dans un format structuré, couramment utilisé et lisible par une machine, afin de pouvoir les transférer à une autre entité, pourvu que cela est techniquement possible.
+* • Le droit de définir des directives relatives au sort de vos données personnelles en cas de décès.
 
 Vous disposez également du droit d'introduire une réclamation auprès d'une autorité de contrôle, en particulier dans l'État membre dans lequel se trouve votre résidence habituelle, votre lieu de travail ou le lieu où la violation aurait été commise, si vous considérez que le traitement de données à caractère personnel vous concernant constitue une violation à la règlementation applicable. En France, l’autorité de contrôle est la suivante : Commission Nationale de l’Informatique et des Libertés (CNIL), 3 Place de Fontenoy – TSA 80715 – 75334 PARIS CEDEX 07, Tel : 0033 1 53 73 22 22
 
@@ -114,8 +114,8 @@ Dans un premier temps, les données sont conservées pendant une durée qui n’
 
 Dans un second temps, indépendamment de la durée de conservation nécessaire à la réalisation de la finalité du traitement des données, il peut être justifié que nous archivons vos données pendant une durée limitée, de manière sécurisée et avec un accès restreint, pour différentes raisons :
 
-*   • Pour respecter une obligation légale de conservation de données (la conservation de données personnelles à but comptable est par exemple de 10 ans).
-*   • Pour se prémunir contre une éventuelle action en responsabilité suite au traitement de vos données personnelles. Afin de gérer des pré-contentieux et contentieux, nous pouvons archiver vos données à des fins de preuve pendant la période durant laquelle notre responsabilité pourrait être engagée (durée de la prescription liée : civile, commerciale, etc.).
+* • Pour respecter une obligation légale de conservation de données (la conservation de données personnelles à but comptable est par exemple de 10 ans).
+* • Pour se prémunir contre une éventuelle action en responsabilité suite au traitement de vos données personnelles. Afin de gérer des pré-contentieux et contentieux, nous pouvons archiver vos données à des fins de preuve pendant la période durant laquelle notre responsabilité pourrait être engagée (durée de la prescription liée : civile, commerciale, etc.).
 
 Une fois la durée de conservation imposée par la loi écoulée et les éventuelles actions prescrites, il sera procédé à la suppression ou anonymisation de vos données personnelles.
 
@@ -123,16 +123,16 @@ Une fois la durée de conservation imposée par la loi écoulée et les éventue
 
 Vos données à caractère personnel sont destinées aux services d‘Etam concernés par vos demandes. Cependant :
 
-*   • Lorsque vous commandez un produit sur le Site, les données personnelles que vous communiquez dans le cadre de la commande sont à destination de la société du Groupe Etam, ou de ses sous-traitants en charge d’exécuter ladite commande.
-*   • Le traitement de vos données personnelles est autorisé à des tiers auxquels nous avons recours afin de fournir certains services. Il s’agit notamment de :
-    *   o prestataires de services techniques, de logistique, de transport et de livraison,
-    *   o prestataires de services liés au service client et au marketing,
-    *   o prestataires de services de paiement et entités de détection et de prévention des fraudes.
-*   • Uniquement lorsque vous nous donnez votre accord, nous pouvons partager vos données avec certains partenaires commerciaux.
-*   • En tout état de cause, il n'y a pas de transfert hors Europe et le Groupe Etam ne transmet pas vos données personnelles sauf :
-    *   o Si Etam doit partager ces informations avec des tiers pour vous fournir le service que vous demandez, ou
-    *   o Si Etam est sommée par une autorité judiciaire ou toute autre autorité administrative de lui communiquer les informations, ou
-    *   o Si vous avez donné votre accord préalable pour le partage de ces informations
+* • Lorsque vous commandez un produit sur le Site, les données personnelles que vous communiquez dans le cadre de la commande sont à destination de la société du Groupe Etam, ou de ses sous-traitants en charge d’exécuter ladite commande.
+* • Le traitement de vos données personnelles est autorisé à des tiers auxquels nous avons recours afin de fournir certains services. Il s’agit notamment de :
+    * o prestataires de services techniques, de logistique, de transport et de livraison,
+    * o prestataires de services liés au service client et au marketing,
+    * o prestataires de services de paiement et entités de détection et de prévention des fraudes.
+* • Uniquement lorsque vous nous donnez votre accord, nous pouvons partager vos données avec certains partenaires commerciaux.
+* • En tout état de cause, il n'y a pas de transfert hors Europe et le Groupe Etam ne transmet pas vos données personnelles sauf :
+    * o Si Etam doit partager ces informations avec des tiers pour vous fournir le service que vous demandez, ou
+    * o Si Etam est sommée par une autorité judiciaire ou toute autre autorité administrative de lui communiquer les informations, ou
+    * o Si vous avez donné votre accord préalable pour le partage de ces informations
 
 Dans ce cas, le transfert hors Europe de vos données personnelles sera réalisé en mettant en place les garanties appropriées et en préservant la sécurité de vos données.
 
@@ -146,12 +146,12 @@ Etam ne maîtrise cependant pas tous les risques liés au fonctionnement d'Inter
 
 Pour les besoins du stockage technique de vos données personnelles, vos données seront centralisées chez les prestataires suivants :
 
-*   • oXya – en Ile-de-France et Hauts de France,
-*   • Salesforce Commerce Cloud - en Irlande,
-*   • Amazon Web Service - en Allemagne et en Irlande,
-*   • Jaguar Networks - en Provence-Alpes-Côte-d'Azur,
-*   • OVH - en Hauts-de-France,
-*   • Actito - en Belgique.
+* • oXya – en Ile-de-France et Hauts de France,
+* • Salesforce Commerce Cloud - en Irlande,
+* • Amazon Web Service - en Allemagne et en Irlande,
+* • Jaguar Networks - en Provence-Alpes-Côte-d'Azur,
+* • OVH - en Hauts-de-France,
+* • Actito - en Belgique.
 
 Etam attache la plus grande importance à la protection et la sécurité de ses systèmes d’information. Des outils ont été mis en place afin de permettre à Etam de détecter d’éventuelles failles de sécurité. Ces outils peuvent entrainer de manière incidente l’accès à des données personnelles par les équipes sécurité. Ces données seront collectées et traitées aux fins exclusives de la gestion de ces failles et dans le respect de la réglementation applicable en matière de protection des données à caractère personnel.
 
@@ -171,16 +171,16 @@ Lorsque vous vous connectez au Site, Etam peut être amené, sous réserve de vo
 
 Les cookies émis ont pour finalité:
 
-*   • d'établir des statistiques et volumes de fréquentation et d'utilisation des diverses éléments composant le Site (rubriques et contenus visités, parcours), permettant à Etam d'améliorer l'intérêt et l'ergonomie des services, ainsi que la visibilité des contenus publiés ;
-*   • de permettre ou faciliter votre navigation sur le Site, ou de vous fournir les services de communication en ligne que vous sollicitez lors de votre navigation, et ainsi :
-    *   o d'adapter la présentation du Site aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.) lors de vos visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte ;
-    *   o de mémoriser des informations relatives à un formulaire que vous avez rempli sur le Site (inscription ou accès à votre compte) ou à des produits, services ou informations que vous avez choisis sur le Site (service souscrit, contenu d'un panier de commande, d’une wishlist etc.) ;
-    *   o de vous permettre d'accéder à des espaces réservés et personnels sur le Site, tels que votre compte, grâce à des identifiants ou des données que vous avez éventuellement antérieurement confiés ;
-    *   o de mettre en œuvre des mesures de sécurité, par exemple lorsqu'il vous est demandé de vous connecter à nouveau à un contenu ou à un service après un certain laps de temps ;
-    *   o de partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts. A ce titre, nous avons recours à des cookies publicitaires.
+* • d'établir des statistiques et volumes de fréquentation et d'utilisation des diverses éléments composant le Site (rubriques et contenus visités, parcours), permettant à Etam d'améliorer l'intérêt et l'ergonomie des services, ainsi que la visibilité des contenus publiés ;
+* • de permettre ou faciliter votre navigation sur le Site, ou de vous fournir les services de communication en ligne que vous sollicitez lors de votre navigation, et ainsi :
+    * o d'adapter la présentation du Site aux préférences d'affichage de votre terminal (langue utilisée, résolution d'affichage, système d'exploitation utilisé, etc.) lors de vos visites sur le Site, selon les matériels et les logiciels de visualisation ou de lecture que votre terminal comporte ;
+    * o de mémoriser des informations relatives à un formulaire que vous avez rempli sur le Site (inscription ou accès à votre compte) ou à des produits, services ou informations que vous avez choisis sur le Site (service souscrit, contenu d'un panier de commande, d’une wishlist etc.) ;
+    * o de vous permettre d'accéder à des espaces réservés et personnels sur le Site, tels que votre compte, grâce à des identifiants ou des données que vous avez éventuellement antérieurement confiés ;
+    * o de mettre en œuvre des mesures de sécurité, par exemple lorsqu'il vous est demandé de vous connecter à nouveau à un contenu ou à un service après un certain laps de temps ;
+    * o de partager des informations avec des annonceurs sur d’autres sites internet pour vos proposer des annonces publicitaires pertinentes et en adéquation avec vos centres d’intérêts. A ce titre, nous avons recours à des cookies publicitaires.
 
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 5.3 Les cookies émis sur le Site par des tiers
 
