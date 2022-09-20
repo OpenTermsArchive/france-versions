@@ -52,7 +52,7 @@ Vous serez également informé de la présente politique de confidentialité - e
 
 Nous collectons et traitons vos données à caractère personnel conformément à l'ensemble des lois et règlements applicables relatifs à la protection des données, y compris, sans toutefois s'y limiter, les lois promulguées en la matière par l'Union européenne, tels que le Règlement Général sur la Protection des Données (UE) 2016/679 du 27 avril 2016 ("RGPD") et les dispositions nationales complémentaires, ainsi que les injonctions et lignes directrices émises par les autorités compétentes chargées de la protection des données, le cas échéant (les "Lois sur la Protection des Données").
 
-  
+ 
 
 **Qui contrôle le traitement de mes données à caractère personnel ? Qui en est responsable ?**  
 
@@ -70,7 +70,7 @@ Le responsable de traitement des données à caractère personnel lorsque vous a
 
 Vous pouvez contacter le délégué à la protection des données à caractère personnel du Groupe VF par le biais de notre bureau chargé de la confidentialité à [privacy\_europe@vfc.com](mailto:privacy_europe@vfc.com).
 
-  
+ 
 
 **Quelles données à caractère personnel sont traitées ?**
 
@@ -86,147 +86,147 @@ _Les informations que vous nous fournissez à titre volontaire :_
 
 Nous collectons et traitons :
 
-1.  p1. les données à caractère personnel que vous nous transmettez lorsque vous échangez avec nous, par le biais des Plateformes numériques VF, par exemple, lorsque vous ouvrez un compte, que vous téléchargez des contenus générés par l'utilisateur sur le Site ou remplissez des formulaires en magasin ou utilisez nos applications mobiles. Ces données à caractère personnel peuvent comporter :
+1. p1. les données à caractère personnel que vous nous transmettez lorsque vous échangez avec nous, par le biais des Plateformes numériques VF, par exemple, lorsque vous ouvrez un compte, que vous téléchargez des contenus générés par l'utilisateur sur le Site ou remplissez des formulaires en magasin ou utilisez nos applications mobiles. Ces données à caractère personnel peuvent comporter :
   
 
-*   votre nom, adresse de courrier électronique, numéro de téléphone
+* votre nom, adresse de courrier électronique, numéro de téléphone
     
-*   votre nom d'utilisateur et votre mot de passe
+* votre nom d'utilisateur et votre mot de passe
     
 
-4.  les données à caractère personnel que vous transmettez lorsque vous participez/vous inscrivez à nos activités de marketing (soit à travers les Plateformes numériques VF, soit dans nos boutiques), par exemple, lorsque vous vous abonnez à nos bulletins d'information ou listes de diffusion ou que vous participez à des promotions et autres initiatives telles que les programmes de fidélité, les concours et les loteries, etc. Ces données à caractère personnel peuvent comporter :
+4. les données à caractère personnel que vous transmettez lorsque vous participez/vous inscrivez à nos activités de marketing (soit à travers les Plateformes numériques VF, soit dans nos boutiques), par exemple, lorsque vous vous abonnez à nos bulletins d'information ou listes de diffusion ou que vous participez à des promotions et autres initiatives telles que les programmes de fidélité, les concours et les loteries, etc. Ces données à caractère personnel peuvent comporter :
   
 
-*   votre nom, adresse de courrier électronique, numéro de téléphone
+* votre nom, adresse de courrier électronique, numéro de téléphone
     
-*   l'historique de vos achats
+* l'historique de vos achats
     
-*   votre sexe
+* votre sexe
     
-*   vos préférences et centres d'intérêt
+* vos préférences et centres d'intérêt
     
 
-7.  les données à caractère personnel que vous transmettez lorsque vous achetez des articles chez nous (achats en ligne ou dans nos boutiques). Ces données à caractère personnel peuvent comporter :
+7. les données à caractère personnel que vous transmettez lorsque vous achetez des articles chez nous (achats en ligne ou dans nos boutiques). Ces données à caractère personnel peuvent comporter :
   
 
-*   votre nom, adresse de courrier électronique, numéro de téléphone
+* votre nom, adresse de courrier électronique, numéro de téléphone
     
-*   l'historique des produits que vous achetez
+* l'historique des produits que vous achetez
     
-*   les détails concernant votre transaction
+* les détails concernant votre transaction
     
 
-10.  les données à caractère personnel que vous transmettez lorsque vous échangez avec notre service client, par exemple, lorsque vous envoyez une question à propos d'un produit, que vous nous transmettez des retours d'expérience, que vous contactez notre centre d'appels pour obtenir de l'aide ou que vous sollicitez une assistance ou un service spécifique auprès de notre service client. Ces données à caractère personnel peuvent comporter :
+10. les données à caractère personnel que vous transmettez lorsque vous échangez avec notre service client, par exemple, lorsque vous envoyez une question à propos d'un produit, que vous nous transmettez des retours d'expérience, que vous contactez notre centre d'appels pour obtenir de l'aide ou que vous sollicitez une assistance ou un service spécifique auprès de notre service client. Ces données à caractère personnel peuvent comporter :
   
 
-*   votre nom, adresse de courrier électronique, numéro de téléphone
+* votre nom, adresse de courrier électronique, numéro de téléphone
     
-*   l'historique des produits que vous achetez
+* l'historique des produits que vous achetez
     
-*   les informations concernant les raisons pour lesquelles vous avez contacté le service client
+* les informations concernant les raisons pour lesquelles vous avez contacté le service client
     
-*   le contenu de vos communications concernant vos échanges avec le service client [( « Informations complémentaires concernant notre service client » )](https://www.vans.fr/aide/privacy.html#information%20about)
+* le contenu de vos communications concernant vos échanges avec le service client [( « Informations complémentaires concernant notre service client » )](https://www.vans.fr/aide/privacy.html#information%20about)
     
 
 Lorsque vous nous fournissez les données à caractère personnel d'une autre personne (par exemple, lors de l'utilisation de la fonction Envoyer un courriel à un ami, des fonctionnalités Carte cadeau ou autres), vous confirmez par la présente, dans la mesure où les lois applicables le permettent, que vous êtes en droit de nous communiquer lesdites données à caractère personnel et que vous avez informé ladite personne du traitement de ses données à caractère personnel aux fins visées par la présente politique de confidentialité - et, le cas échéant, que vous avez obtenu son consentement.
 
-  
+ 
 
 **Dans quel but mes données à caractère personnel sont-elles traitées ?**
 
 Nous collectons et traitons vos Données à caractère Personnel aux fins suivantes :
 
-1.  _**VF International Sagl**_, en sa qualité de responsable du traitement, traite vos données à caractère personnel aux fins suivantes :
+1. _**VF International Sagl**_, en sa qualité de responsable du traitement, traite vos données à caractère personnel aux fins suivantes :
   
 
-1.  exploiter et gérer les Plateformes Numériques VF, et notamment :
+1. exploiter et gérer les Plateformes Numériques VF, et notamment :
   
 
-*   vous fournir les services ou les fonctionnalités que vous demandez sur les Plateformes Numériques VF;
+* vous fournir les services ou les fonctionnalités que vous demandez sur les Plateformes Numériques VF;
     
-*   créer un compte et gérer votre inscription sur les Plateformes Numériques VF;
+* créer un compte et gérer votre inscription sur les Plateformes Numériques VF;
     
-*   améliorer votre expérience de navigation et améliorer les Plateformes Numériques VF ;
+* améliorer votre expérience de navigation et améliorer les Plateformes Numériques VF ;
     
 
-4.  réaliser des activités de marketing pour le Groupe VF, et notamment :
+4. réaliser des activités de marketing pour le Groupe VF, et notamment :
   
 
-*   à des fins de prospection, y compris :
+* à des fins de prospection, y compris :
     
 
-*   gérer votre abonnement à nos bulletins d'information, listes de diffusion ou programmes de fidélité ;
+* gérer votre abonnement à nos bulletins d'information, listes de diffusion ou programmes de fidélité ;
     
-*   permettre la participation à des promotions et autres initiatives, comme les concours et les loteries ;
+* permettre la participation à des promotions et autres initiatives, comme les concours et les loteries ;
     
-*   vous envoyer (avec votre consentement, qui demeure facultatif), y compris par courriel ou autres supports électroniques tels que SMS, MMS, fax, etc., des informations et du matériel promotionnels concernant nos produits et services, les initiatives spéciales portant sur les prix et les promotions et les initiatives telles que les programmes de fidélité, les manifestations, les salons et les foires organisés par le Groupe VF (auquel BRAND appartient) ou auxquels le Groupe VF prend part ;
+* vous envoyer (avec votre consentement, qui demeure facultatif), y compris par courriel ou autres supports électroniques tels que SMS, MMS, fax, etc., des informations et du matériel promotionnels concernant nos produits et services, les initiatives spéciales portant sur les prix et les promotions et les initiatives telles que les programmes de fidélité, les manifestations, les salons et les foires organisés par le Groupe VF (auquel BRAND appartient) ou auxquels le Groupe VF prend part ;
     
-*   pour vous envoyer des notifications de panier abandonné, notamment si vous sélectionnez des produits, les ajoutez au panier puis quittez les Plateformes Numériques VF avant de finaliser l'achat, nous vous notifierons que le panier est à votre disposition au cas où vous souhaiteriez finaliser l'achat.
-    
-
-*   à des fins d'enquête (avec votre consentement, qui demeure facultatif) ;
-    
-*   à des fins de profilage (avec votre consentement, qui demeure facultatif) ;
-    
-*   améliorer nos produits et services ;
+* pour vous envoyer des notifications de panier abandonné, notamment si vous sélectionnez des produits, les ajoutez au panier puis quittez les Plateformes Numériques VF avant de finaliser l'achat, nous vous notifierons que le panier est à votre disposition au cas où vous souhaiteriez finaliser l'achat.
     
 
-7.  à d'autres fins :
+* à des fins d'enquête (avec votre consentement, qui demeure facultatif) ;
+    
+* à des fins de profilage (avec votre consentement, qui demeure facultatif) ;
+    
+* améliorer nos produits et services ;
+    
+
+7. à d'autres fins :
   
 
-*   à des fins de prévention de la fraude, par le biais de procédures internes visant à vérifier la régularité des transactions, à protéger notre intégrité financière et à vous protéger contre l'utilisation abusive de données et les achats frauduleux; et
+* à des fins de prévention de la fraude, par le biais de procédures internes visant à vérifier la régularité des transactions, à protéger notre intégrité financière et à vous protéger contre l'utilisation abusive de données et les achats frauduleux; et
     
-*   dans l'optique de nous conformer à nos obligations visées par les lois, les règlements applicables ainsi que pour établir et défendre un droit légal.
+* dans l'optique de nous conformer à nos obligations visées par les lois, les règlements applicables ainsi que pour établir et défendre un droit légal.
     
 
-4.  _**Les filiales locales de VF**_, en leur qualité de responsables du traitement, traitent vos données à caractère personnel aux fins suivantes :
+4. _**Les filiales locales de VF**_, en leur qualité de responsables du traitement, traitent vos données à caractère personnel aux fins suivantes :
   
 
-1.  gérer vos achats d'articles (en ligne et dans nos boutiques) : ce volet comporte toutes les activités en lien avec l'achat d'articles, comme par exemple, la livraison, la facturation, le retour et l'échange des articles, la réception de remboursements, l'achat et l'utilisation de cartes cadeaux et de e-cartes cadeaux, le cas échéant, les opérations liées au paiement, y compris l'utilisation de bons ;
+1. gérer vos achats d'articles (en ligne et dans nos boutiques) : ce volet comporte toutes les activités en lien avec l'achat d'articles, comme par exemple, la livraison, la facturation, le retour et l'échange des articles, la réception de remboursements, l'achat et l'utilisation de cartes cadeaux et de e-cartes cadeaux, le cas échéant, les opérations liées au paiement, y compris l'utilisation de bons ;
     
-2.  mettre à votre disposition notre service client (voir les détails à la section 3 ci-dessous), et notamment :
+2. mettre à votre disposition notre service client (voir les détails à la section 3 ci-dessous), et notamment :
   
 
-*   vous fournir des services après-vente ;
+* vous fournir des services après-vente ;
     
-*   répondre à vos demandes d'information, questions, courriers ou retours d'expérience ;
+* répondre à vos demandes d'information, questions, courriers ou retours d'expérience ;
     
-*   à des fins de formation en interne et d'amélioration de notre service client ;
+* à des fins de formation en interne et d'amélioration de notre service client ;
     
 
-5.  à d'autres fins :
+5. à d'autres fins :
   
 
-*   à des fins de prévention de la fraude, par le biais de procédures internes visant à vérifier la régularité des transactions, à protéger notre intégrité financière et à vous protéger contre l'utilisation abusive des données et les achats frauduleux; et
+* à des fins de prévention de la fraude, par le biais de procédures internes visant à vérifier la régularité des transactions, à protéger notre intégrité financière et à vous protéger contre l'utilisation abusive des données et les achats frauduleux; et
     
-*   dans l'optique de nous conformer à nos obligations visées par les lois, les règlements applicables ainsi que pour établir et défendre un droit légal.
+* dans l'optique de nous conformer à nos obligations visées par les lois, les règlements applicables ainsi que pour établir et défendre un droit légal.
     
 
-7.  _**Informations complémentaires concernant notre service client**_
+7. _**Informations complémentaires concernant notre service client**_
   
 
 Notre service client est géré tantôt par VF Northern Europe Ltd, tantôt par notre prestataire de services tiers Concentrix Services Bulgaria EOOD, dont le siège social est situé au 29 Atanas Dukov Str Rainbow Center, Sofia, Bulgarie, qui échange avec vous et vous fournit le service demandé pour le compte de la filiale VF locale auprès de laquelle vous avez effectué vos achats. Nous traiterons vos données à caractère personnel lorsque vous contactez notre service d'assistance à la clientèle et notre centre d'appels, qui seront peut-être amenés à communiquer avec vous par courriel, service de chat et téléphone. Le centre d'appels enregistrera votre numéro de téléphone dans le but de vous rappeler et d'effectuer les services d'arrière-guichet afin de vous fournir l'assistance et les informations demandées. Dans certains cas, et à des fins de formation, de contrôle qualité et de vérification en interne, il est possible que l'appel et les courriels soient enregistrés, sous réserve que cette pratique ne contrevienne pas à la loi applicable. Vous serez toujours informé à l'avance de l'enregistrement de la communication et vous aurez la possibilité de refuser ledit enregistrement, sauf lorsqu'il s'avère nécessaire à des fins de vérification liées à votre achat ou pour d'autres raisons admises dans le cadre de la loi applicable.
 
-  
+ 
 
 **Quel est le fondement juridique pour le traitement de mes données à caractère personnel tel qu'énoncé aux présentes ?**
 
 Nous collecterons et traiterons vos données à caractère personnel aux fins décrites à la section **« Dans quel but mes données à caractère personnel sont-elles traitées ? »** en prenant appui sur les dispositions légales suivantes :
 
-*   Le traitement de vos données à caractère personnel est nécessaire à l'exécution d'un contrat dont vous faites partie ou à l'exécution de mesures précontractuelles prises à votre demande (Article 6, 1., (b) du RGPD) ;
+* Le traitement de vos données à caractère personnel est nécessaire à l'exécution d'un contrat dont vous faites partie ou à l'exécution de mesures précontractuelles prises à votre demande (Article 6, 1., (b) du RGPD) ;
     
-*   Le traitement est nécessaire aux fins de nos intérêts légitimes ou des intérêts légitimes poursuivis par nos filiales ou par toute autre tierce partie, à moins que ne prévalent vos intérêts ou vos libertés et droits fondamentaux (Article 6, 1., (f) du RGPD) ; les intérêts légitimes que nous poursuivons comportent entre autres l'intérêt que nous avons à gérer et à maintenir la relation contractuelle qui nous unit, à répondre à vos demandes particulières, à solliciter vos retours d'expérience afin d'améliorer notre Site et nos produits ou à nous livrer à d'autres activités de marketing d'ordre général ;
+* Le traitement est nécessaire aux fins de nos intérêts légitimes ou des intérêts légitimes poursuivis par nos filiales ou par toute autre tierce partie, à moins que ne prévalent vos intérêts ou vos libertés et droits fondamentaux (Article 6, 1., (f) du RGPD) ; les intérêts légitimes que nous poursuivons comportent entre autres l'intérêt que nous avons à gérer et à maintenir la relation contractuelle qui nous unit, à répondre à vos demandes particulières, à solliciter vos retours d'expérience afin d'améliorer notre Site et nos produits ou à nous livrer à d'autres activités de marketing d'ordre général ;
     
-*   Lorsque le traitement de vos données à caractère personnel nécessite l'obtention de votre consentement selon les modalités décrites aux présentes, vos données seront traitées sur la base dudit consentement (Article 6, 1., (a) du RGPD).
+* Lorsque le traitement de vos données à caractère personnel nécessite l'obtention de votre consentement selon les modalités décrites aux présentes, vos données seront traitées sur la base dudit consentement (Article 6, 1., (a) du RGPD).
     
 
-  
+ 
 
 **Pendant combien de temps mes données à caractère personnel seront-elles traitées ?**
 
 Les données à caractère personnel ne sont conservées que le temps nécessaire à l'accomplissement des finalités spécifiques du traitement des données décrites aux présentes, à moins que les lois applicables ne prévoient des périodes de conservation inférieures ou supérieures. Ce délai peut aller jusqu'à 10 ans après la fin de la relation contractuelle avec vous (délai de prescription pour les actions juridiciaires dans la plupart des pays de l'EEE), sauf si une période de conservation plus courte ou plus longue s'applique en vertu des lois applicables.
 
-  
+ 
 
 **Mes données à caractère personnel sont-elles sécurisées ?**
 
@@ -236,7 +236,7 @@ Nous mettons en place un éventail de technologies et de procédures de sécurit
 
 Veuillez toutefois noter qu'aucune transmission électronique ni qu'aucun stockage d'informations ne peuvent être sécurisés à 100 %. Par conséquent, et en dépit des mesures de sécurité que nous avons mises en place pour protéger vos données à caractère personnel, nous ne sommes pas à même de garantir qu'une perte, un mésusage ou une altération des données ne se produiront jamais.
 
-  
+ 
 
 **Quelle est la destination de mes données à caractère personnel ? Qui sont les destinataires, où les données sont-elles transférées et dans quel but ?**
 
@@ -244,25 +244,25 @@ Les données à caractère personnel collectées par le biais de notre Site ou d
 
 Nous communiquons les données à caractère personnel dans les limites et les cas précisés dans la présente politique de confidentialité, sous réserve d'obtenir votre consentement spécifique lorsque les lois sur la protection des données applicables l'exigent.
 
-1.  Au sein de notre entreprise, vos données à caractère personnel seront à la disposition du personnel interne et externe qui a besoin d'y accéder dans le cadre de ses missions relatives aux finalités du traitement précisées aux présentes. Nous garantissons que ces personnes sont soumises à des obligations appropriées en matière de sécurité et de confidentialité.
+1. Au sein de notre entreprise, vos données à caractère personnel seront à la disposition du personnel interne et externe qui a besoin d'y accéder dans le cadre de ses missions relatives aux finalités du traitement précisées aux présentes. Nous garantissons que ces personnes sont soumises à des obligations appropriées en matière de sécurité et de confidentialité.
     
-2.  Vos données à caractère personnel peuvent également être accessibles à un prestataire de services tiers nommé par nos soins afin de traiter les données à caractère personnel pour notre compte et selon nos instructions (en tant que sous-traitants). Ces sous-traitants comportent :
+2. Vos données à caractère personnel peuvent également être accessibles à un prestataire de services tiers nommé par nos soins afin de traiter les données à caractère personnel pour notre compte et selon nos instructions (en tant que sous-traitants). Ces sous-traitants comportent :
     
 
-*   les prestataires de services tiers à qui nous pouvons faire appel pour la réalisation de services professionnels, techniques et organisationnels en lien avec la gestion des Plateformes Numériques VF et des activités qui s'y déroulent, comme par exemple, la vente d'articles et activités connexes, la gestion des fonctionnalités proposées par les Plateformes Numériques VF, des initiatives et des services auxquels vous pouvez vous abonner et que vous pouvez solliciter par le biais des Plateformes Numériques VF, et de services strictement liés à l'accomplissement des objectifs ultérieurs du traitement précisés aux présentes.
+* les prestataires de services tiers à qui nous pouvons faire appel pour la réalisation de services professionnels, techniques et organisationnels en lien avec la gestion des Plateformes Numériques VF et des activités qui s'y déroulent, comme par exemple, la vente d'articles et activités connexes, la gestion des fonctionnalités proposées par les Plateformes Numériques VF, des initiatives et des services auxquels vous pouvez vous abonner et que vous pouvez solliciter par le biais des Plateformes Numériques VF, et de services strictement liés à l'accomplissement des objectifs ultérieurs du traitement précisés aux présentes.
     
-*   les prestataires de services tiers à qui nous faisons appel pour la réalisation des transactions et le traitement du paiement des achats par le biais de notre plateforme e-commerce ;
+* les prestataires de services tiers à qui nous faisons appel pour la réalisation des transactions et le traitement du paiement des achats par le biais de notre plateforme e-commerce ;
     
-*   les prestataires de services tiers qui gèrent et prennent les Plateformes Numériques VF en charge, la plateforme e-commerce correspondante et toutes les activités de prévente et d'après-vente telles que le traitement des commandes, le marketing de la performance, les services financiers, la gestion des entrepôts et la gestion des relations avec la clientèle ;
+* les prestataires de services tiers qui gèrent et prennent les Plateformes Numériques VF en charge, la plateforme e-commerce correspondante et toutes les activités de prévente et d'après-vente telles que le traitement des commandes, le marketing de la performance, les services financiers, la gestion des entrepôts et la gestion des relations avec la clientèle ;
     
 
 Une liste des sous-traitants, avec une indication de leur emplacement, est disponible sur demande auprès de notre bureau chargé de la confidentialité. Ces sous-traitants sont liés par des obligations contractuelles appropriées qui les obligent à mettre en place des mesures de sécurité adéquates destinées à protéger la sécurité et la confidentialité des données à caractère personnel.
 
-5.  Vos données à caractère personnel peuvent également être communiquées à des entreprises autres que le Groupe VF au sein de l'Espace économique européen, entreprises qui traitent les données à caractère personnel pour le compte du ou des responsables du traitement identifiés ci-dessus. Une liste des entreprises du Groupe VF, avec une indication de leur emplacement, est disponible sur demande auprès de notre bureau chargé de la confidentialité. Par exemple, VF Europe BV fournit des services de comptabilité et d'arrière-guichet, tandis que VF Northern Europe Ltd assure le service après-vente, en tant que sous-traitants, aux responsables du traitement des données identifiés ci-dessus à la section _[« Qui contrôle le traitement de mes données à caractère personnel ? »](#purposes)_.
+5. Vos données à caractère personnel peuvent également être communiquées à des entreprises autres que le Groupe VF au sein de l'Espace économique européen, entreprises qui traitent les données à caractère personnel pour le compte du ou des responsables du traitement identifiés ci-dessus. Une liste des entreprises du Groupe VF, avec une indication de leur emplacement, est disponible sur demande auprès de notre bureau chargé de la confidentialité. Par exemple, VF Europe BV fournit des services de comptabilité et d'arrière-guichet, tandis que VF Northern Europe Ltd assure le service après-vente, en tant que sous-traitants, aux responsables du traitement des données identifiés ci-dessus à la section _[« Qui contrôle le traitement de mes données à caractère personnel ? »](#purposes)_.
     
-6.  Vos données à caractère personnel pourront être ultérieurement communiquées aux institutions, autorités, organismes publics, banques et établissements financiers, professionnels, consultants indépendants, également à titre d'associés, partenaires commerciaux ou autres destinataires légitimes, sous réserve que les lois et règlements applicables le permettent, par exemple dans le cadre de procédures judiciaires, de requêtes émanant des autorités ou des tribunaux compétents ou de toute autre obligation légale afin de protéger et de défendre nos droits et notre propriété, ainsi que les Plateformes Numériques VF.
+6. Vos données à caractère personnel pourront être ultérieurement communiquées aux institutions, autorités, organismes publics, banques et établissements financiers, professionnels, consultants indépendants, également à titre d'associés, partenaires commerciaux ou autres destinataires légitimes, sous réserve que les lois et règlements applicables le permettent, par exemple dans le cadre de procédures judiciaires, de requêtes émanant des autorités ou des tribunaux compétents ou de toute autre obligation légale afin de protéger et de défendre nos droits et notre propriété, ainsi que les Plateformes Numériques VF.
     
-7.  Pour finir, nous pouvons par ailleurs communiquer vos données à caractère personnel à des tierces parties en cas de fusions, d'acquisitions, de transfert de nos actifs, produits, sites Web ou opérations.
+7. Pour finir, nous pouvons par ailleurs communiquer vos données à caractère personnel à des tierces parties en cas de fusions, d'acquisitions, de transfert de nos actifs, produits, sites Web ou opérations.
     
 
 Hormis ce qui précède, les données à caractère personnel ne seront pas partagées avec des tierces parties, qu'il s'agisse de personnes physiques ou de personnes morales, n'ayant aucun lien avec notre groupe ou qui ne réalisent pas de missions commerciales, professionnelles ou techniques pour notre compte.
@@ -275,7 +275,7 @@ Les destinataires susmentionnés peuvent se situer dans des pays autres que le p
 
 Dans l'éventualité où le destinataire ci-dessus est établi dans un pays en dehors de l'EEE qui ne fait pas l'objet d'une décision d'adéquation de la Commission européenne et ne fournit donc pas le même niveau de protection à vos données à caractère personnel que l'EEE, nous mettrons en œuvre des garanties appropriées, y compris, sans toutefois s'y limiter, des accords de transfert de données pertinents reposant sur les clauses contractuelles standard adoptées par la Commission européenne pour le transfert de données vers des pays tiers (Article 46, 2., (c) du RGPD) ou de règles d'entreprise contraignantes (Article 47 du RGPD). Il est possible de se procurer une copie de ces garanties en contactant notre bureau chargé de la confidentialité à privacy\_europe@vfc.com.
 
-  
+ 
 
 **Suis-je obligé de fournir mes données à caractère personnel ? Quelles sont les conséquences si je refuse de les fournir ?**
 
@@ -283,7 +283,7 @@ Hormis les données de navigation (veuillez vous référer à la section 3 ci-de
 
 La transmission de vos données à caractère personnel à des fins d'enquête, de prospection et de profilage telles que précisées ci-dessus est facultative ; le refus de communiquer vos données à caractère personnel dans ces cas précis n'aura aucune incidence sur la stipulation ou l'exécution du contrat. Si les lois sur la protection des données l'exigent, nous solliciterons votre consentement préalable avant de procéder au traitement de vos données à caractère personnel à ces fins.
 
-  
+ 
 
 **Les Plateformes Numériques VF contiennent-elles des éléments contrôlés par des tierces parties ? Qui est responsable de ces éléments ?**
 
@@ -293,7 +293,7 @@ Un exemple sont les plug-ins qui peuvent connecter les Plateformes Numériques V
 
 Nous n'avons aucun accès aux ni aucun contrôle sur les éléments, objets, plug-ins, cookies, balises et autres éléments ou technologies de suivi détenus et exploités par des tierces parties se trouvant sur les Plateformes Numériques VF ou sur les sites Web de la tierce partie correspondante, auxquels les utilisateurs peuvent accéder sur les Plateformes Numériques VF ou à partir de ce dernier, ni sur les méthodes de traitement des données à caractère personnel correspondantes par le biais de ces éléments ou sites. Nous déclinons toute responsabilité pour de tels éléments et sites Web. Vous devez consulter la politique de confidentialité des sites Web pour en savoir plus sur les conditions applicables au traitement des données à caractère personnel.
 
-  
+ 
 
 **Quels sont mes droits concernant le traitement de mes données à caractère personnel et comment puis-je les exercer ?**
 
@@ -303,7 +303,7 @@ Pour obtenir un récapitulatif de ce que les droits susmentionnés impliquent et
 
 Pour toute demande ou question concernant le traitement des données à caractère personnel par VF et pour faire valoir les droits énoncés dans les lois sur la protection des données, vous pouvez contacter notre bureau chargé de la confidentialité à privacy\_europe@vfc.com.
 
-  
+ 
 
 **Comment pouvons-nous apporter des modifications à la présente politique de confidentialité ?**  
 
