@@ -51,17 +51,17 @@ La Fiche contient notamment les caractéristiques du Produit sélectionné, et n
   
 Le Vendeur pourra, toutefois, notamment du fait de ses fournisseurs, être amené à proposer à l'Internaute des Produits de composition légèrement différente de celle décrite sur le Site, mais en tout état de cause de qualité égale ou supérieure au Produit commandé.  
   
-2.2 Cartes Cadeaux   
+2.2 Cartes Cadeaux   
   
 Dans l’hypothèse selon laquelle l’achat de cartes cadeaux physiques et/ou virtuelles serait possible sur le Site, la Fiche précisera les conditions d’utilisation de ladite carte, étant précisé ce qui suit :
 
   
 
-*   L’Internaute devra choisir le montant dont il souhaite créditer la carte, étant précisé que ce montant devra correspondre à un nombre entier (il n’est pas possible de choisir un montant comprenant des centimes d’euros) et ne pourra être inférieur à 5 (cinq) euros, ni excéder 150 (cent cinquante) euros ;
-*   Pour l’achat d’une carte cadeau physique, il sera possible d’y saisir un message et une signature ;
-*   Il n’est possible d’acquérir qu’une seule carte cadeau par panier ;
-*   Les cartes cadeaux sont utilisables uniquement sur le Site et au sein du point de vente situé en Belgique dont l’adresse figure sur le Site (ci-après le « Point de Vente » à l’exclusion de tout corner de grands magasins. . Il ne sera toutefois pas possible d’acheter une carte cadeau avec une carte cadeau ou un chèque fidélité.
-*   Le Vendeur attire l’attention de l’Internaute sur le fait qu’aucune réduction ne sera applicable pour l’achat d’une carte cadeau.
+* L’Internaute devra choisir le montant dont il souhaite créditer la carte, étant précisé que ce montant devra correspondre à un nombre entier (il n’est pas possible de choisir un montant comprenant des centimes d’euros) et ne pourra être inférieur à 5 (cinq) euros, ni excéder 150 (cent cinquante) euros ;
+* Pour l’achat d’une carte cadeau physique, il sera possible d’y saisir un message et une signature ;
+* Il n’est possible d’acquérir qu’une seule carte cadeau par panier ;
+* Les cartes cadeaux sont utilisables uniquement sur le Site et au sein du point de vente situé en Belgique dont l’adresse figure sur le Site (ci-après le « Point de Vente » à l’exclusion de tout corner de grands magasins. . Il ne sera toutefois pas possible d’acheter une carte cadeau avec une carte cadeau ou un chèque fidélité.
+* Le Vendeur attire l’attention de l’Internaute sur le fait qu’aucune réduction ne sera applicable pour l’achat d’une carte cadeau.
 
   
 
@@ -162,7 +162,7 @@ Le paiement du Produit s’effectuera en magasin lors de son retrait.
 6.1 Pour toute passation de commande sur le Site, l’Internaute aura le choix entre l’une des options décrite ci-après, soit :  
   
 
-*   **Création d’un compte-client directement sur le Site**  
+* **Création d’un compte-client directement sur le Site**  
       
     L’Internaute devra, renseigner, sur la page dédiée, tous les champs signalés par un astérisque et notamment : sa civilité, ses nom et prénom, son adresse e-mail. L’Internaute s’engage à renseigner son profil avec des informations exactes et à jour et dégage le Vendeur de toute responsabilité du fait de l’inexactitude des informations communiquées à l’occasion de la création de son compte-client.  
     L’Internaute validera la création de son compte-client par l’enregistrement et la confirmation d’un mot de passe ; qu’il s’engage à conserver secret.  
@@ -170,7 +170,7 @@ Le paiement du Produit s’effectuera en magasin lors de son retrait.
     Il s’engage à informer le Vendeur de toute usurpation de son mot de passe et/ou de son compte-client.  
       
     
-*   **Création d’un compte-client sur le Site via Amazon Pay (uniquement si ce service est disponible sur le Site)**  
+* **Création d’un compte-client sur le Site via Amazon Pay (uniquement si ce service est disponible sur le Site)**  
       
     Amazon Pay est un service proposé par la société tierce Amazon Payments Europe, S.C.A, (« Amazon Payments ») permettant à l’Internaute de passer une commande sur le Site au moyen de son compte Amazon Pay. Ce service est soumis aux conditions d’utilisation définies par Amazon Payments, consultables par l’Internaute sur le site Amazon Pay accessible à l’adresse suivante : https://pay.amazon.com/fr.  
       
@@ -181,12 +181,12 @@ Le paiement du Produit s’effectuera en magasin lors de son retrait.
     Une fois authentifié sur Amazon Pay, l’Internaute est redirigé vers le Site pour poursuivre sa commande.  
       
     
-*   **Création d’un compte-client sur le Site via Facebook (uniquement si ce service est disponible sur le Site)**  
+* **Création d’un compte-client sur le Site via Facebook (uniquement si ce service est disponible sur le Site)**  
       
     La connexion par Facebook est un service proposé par la société tierce Facebook Ireland Ltd., (« Facebook ») permettant à l’Internaute de créer son compte client sur le Site au moyen de son compte Facebook. Ce service est soumis aux conditions d’utilisation définies par Facebook, consultables par l’Internaute sur le site Facebook accessible à l’adresse suivante : https://fr-fr.facebook.com/terms.  
       
     
-*   **Commande sans création de compte**  
+* **Commande sans création de compte**  
       
     Il est précisé que l’Internaute n’aura pas l’obligation de créer un compte client pour passer commande. S’il décide de ne pas créer de compte, l’Internaute devra uniquement renseigner, sur la page dédiée, tous les champs signalés par un astérisque et notamment : sa civilité, ses nom et prénom, son adresse e-mail et son adresse de livraison/facturation. L’Internaute s’engage à renseigner son profil avec des informations exactes et à jour et dégage le Vendeur de toute responsabilité du fait de l’inexactitude des informations communiquées.  
       
@@ -318,22 +318,22 @@ Pour mettre en œuvre son Droit de rétractation, l'Internaute devra retourner a
   
 L’Internaute devra retourner le(s) Produit(s) :
 
-*   Soit gratuitement en déposant son colis :  
+* Soit gratuitement en déposant son colis :  
      
-    *   Dans le magasin de son choix; OU  
+    * Dans le magasin de son choix; OU  
          
         
-    *   En bureau de Poste ou dans l’un des points Colissimo :  
+    * En bureau de Poste ou dans l’un des points Colissimo :  
         En utilisant l'étiquette de retour Colissimo (à imprimer et apposer sur le colis), disponible via le compte client de l'internaute ou, en l'absence de compte client, via le lien disponible dans l'email de confirmation de commande qu'il aura reçu.  
         La liste des points Colissimo figure sur [www.colissimo.fr/retour](https://www.laposte.fr/particulier/outils/trouver-un-point-d-envoi-de-colis-ou-de-retrait)  
         Si le service est disponible dans le lieu du domicile de l’Internaute, dans sa boite aux lettres avant 08h00 du matin et en faisant une demande sur [www.colissimo.fr/retour.bal](https://www.laposte.fr/colissimo-en-ligne/demo-expedition-bal); OU  
          
         
-    *   En point Mondial Relay :  
+    * En point Mondial Relay :  
         En utilisant l'étiquette de retour Mondial Relay (à imprimer et apposer sur le colis), disponible via le compte client de l'internaute ou, en l'absence de compte client, via le lien disponible dans l'email de confirmation de commande qu'il aura reçu.  
         La liste des points Mondial Relay figure sur [https://www.mondialrelay.fr/trouver-le-point-relais-le-plus-proche-de-chez-moi/](https://www.mondialrelay.fr/trouver-le-point-relais-le-plus-proche-de-chez-moi/)
         
-*   Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
+* Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
     
      
     
@@ -364,7 +364,7 @@ Le Vendeur se réserve le droit de refuser tout Produit retourné qui serait dé
 
 Le Vendeur est tenu des défauts de conformité du (des) Produit(s) à la commande de l’Internaute dans les conditions des articles L 217-4 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
-*   La garantie légale de conformité (articles L 217-4 et suivants du Code de la consommation) :  
+* La garantie légale de conformité (articles L 217-4 et suivants du Code de la consommation) :  
       
     Cette garantie peut être actionnée par l'Internaute dans le cas où le Produit ne correspondrait pas aux caractéristiques précisées dans sa commande.  
       
@@ -373,7 +373,7 @@ Le Vendeur est tenu des défauts de conformité du (des) Produit(s) à la comman
     En cas d’application de la garantie de non-conformité, l’Internaute pourra choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coûts prévues par l’article L 217-9 du Code de la consommation.  
      
     
-*   La garantie contre les vices cachés (articles 1641 et suivants du Code civil) :  
+* La garantie contre les vices cachés (articles 1641 et suivants du Code civil) :  
       
     Cette garantie peut être actionnée dans le cas où le Produit est endommagé ou affecté par un défaut de matière, de conception ou de fabrication rendant le Produit impropre à l'utilisation.  
       
@@ -416,11 +416,11 @@ Le Vendeur a procédé à une déclaration auprès de l’Agence de l’environn
   
 Pour la société Cafan, les numéros d’identifications sont les suivants :  
 
-*   Auprès de REFASHION : FR214190\_11UAWM  
+* Auprès de REFASHION : FR214190\_11UAWM  
     
-*   Auprès de CITEO Emballages : R214190\_01TYTP  
+* Auprès de CITEO Emballages : R214190\_01TYTP  
     
-*   Auprès de CITEO Papiers : FR214190\_03PIFO»  
+* Auprès de CITEO Papiers : FR214190\_03PIFO»  
     
   
   
@@ -470,10 +470,10 @@ En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une com
 Faute de parvenir à un accord amiable avec le Vendeur, et conformément aux dispositions de l’article L 152-2 du Code de la Consommation, l’Internaute pourra initier gratuitement une procédure de médiation auprès :  
  
 
-*   Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
+* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
      
     
-*   Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
+* Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
     [https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
     
 
