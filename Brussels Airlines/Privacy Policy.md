@@ -43,14 +43,14 @@ Lorsque vous soumettez une demande relative aux droits de la personne concernée
 
 Vous avez le droit d’obtenir de notre part la confirmation que nous traitons ou non vos données à caractère personnel et, en cas de traitement, vous avez le droit d’obtenir une copie gratuite des données traitées. Nous vous fournirons également les informations suivantes :
 
-*   Les finalités du traitement,  
+* Les finalités du traitement,  
     
-*   Les catégories de données à caractère personnel qui sont traitées,
-*   Les personnes ou catégories de personnes auxquelles vos données à caractère personnel ont été ou seront divulguées,
-*   La période de temps durant laquelle vos données à caractère personnel seront conservées,
-*   L’existence de vos droits à la vie privée, comme expliqué plus en détail ci dessous,
-*   Toutes les informations disponibles que nous détenons sur l’origine des données si elles n’ont pas été recueillies auprès de vous,
-*   L’existence d’une prise de décision automatisée.
+* Les catégories de données à caractère personnel qui sont traitées,
+* Les personnes ou catégories de personnes auxquelles vos données à caractère personnel ont été ou seront divulguées,
+* La période de temps durant laquelle vos données à caractère personnel seront conservées,
+* L’existence de vos droits à la vie privée, comme expliqué plus en détail ci dessous,
+* Toutes les informations disponibles que nous détenons sur l’origine des données si elles n’ont pas été recueillies auprès de vous,
+* L’existence d’une prise de décision automatisée.
 
 Nous pourrions solliciter le paiement d’un montant raisonnable afin de couvrir nos frais administratifs pour chaque copie supplémentaire que vous demanderiez.
 
@@ -64,10 +64,10 @@ Vous avez le droit d’obtenir la rectification des données à caractère perso
 
 Vous avez le droit de solliciter l’effacement de vos données à caractère personnel dans l’un des cas suivants :
 
-*   Vos données à caractère personnel ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées ;
-*   Vous retirez votre consentement préalable au traitement, et il n’existe pas d’autre fondement juridique au traitement ;
-*   Vous vous opposez au traitement à des fins de marketing direct ;
-*   Vous vous opposez au traitement fondé sur notre intérêt légitime, et il n’existe plus de motif sérieux et justifié à un (futur) traitement de notre part.
+* Vos données à caractère personnel ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou traitées ;
+* Vous retirez votre consentement préalable au traitement, et il n’existe pas d’autre fondement juridique au traitement ;
+* Vous vous opposez au traitement à des fins de marketing direct ;
+* Vous vous opposez au traitement fondé sur notre intérêt légitime, et il n’existe plus de motif sérieux et justifié à un (futur) traitement de notre part.
 
 Nous ne sommes pas tenus de nous conformer à votre demande d’effacement lorsque le traitement est nécessaire à l’établissement, à l’exercice ou à la défense de droits en justice.
 
@@ -76,9 +76,9 @@ Nous ne sommes pas tenus de nous conformer à votre demande d’effacement lorsq
 
 Vous avez le droit d’obtenir la limitation du traitement :
 
-*   Si vous contestez l’exactitude de vos données à caractère personnel, nous pouvons limiter le traitement contesté pour la période durant laquelle nous devons vérifier l’exactitude de vos données à caractère personnel ;
-*   Si nous n’avons plus besoin de vos données à caractère personnel, mais qu’elles vous sont nécessaires pour établir, exercer ou défendre des droits en justice ;
-*   Si vous vous êtes opposé au traitement basé sur nos intérêts légitimes, nous pouvons limiter le traitement contesté pendant la période durant laquelle nous devons vérifier si vos motifs légitimes prévalent sur les nôtres.
+* Si vous contestez l’exactitude de vos données à caractère personnel, nous pouvons limiter le traitement contesté pour la période durant laquelle nous devons vérifier l’exactitude de vos données à caractère personnel ;
+* Si nous n’avons plus besoin de vos données à caractère personnel, mais qu’elles vous sont nécessaires pour établir, exercer ou défendre des droits en justice ;
+* Si vous vous êtes opposé au traitement basé sur nos intérêts légitimes, nous pouvons limiter le traitement contesté pendant la période durant laquelle nous devons vérifier si vos motifs légitimes prévalent sur les nôtres.
 
 2.5 Droit à la portabilité des données
 --------------------------------------
@@ -133,13 +133,13 @@ G. Lorsque vous nous rendez visite.**
 
 Les informations relatives à vos appareils et à l’utilisation de notre site web sont traitées à des fins de :  
 
-*   assurer la sécurité des informations (p. ex. pour prévenir les cyberattaques ou pour surveiller les performances) ;  
+* assurer la sécurité des informations (p. ex. pour prévenir les cyberattaques ou pour surveiller les performances) ;  
     
-*   gérer notre site Web (p. ex. pour vous permettre d’accéder au site depuis votre appareil et mémoriser vos choix) ;
-*   développer une meilleure compréhension de vos besoins, améliorer notre site web et notre application ;
-*   analyser votre utilisation de notre site web et application, afin de créer des statistiques ;
-*   afficher des informations et publicités plus pertinentes sur notre site web et notre application;
-*   permettre l’interaction avec les canaux de réseaux sociaux.
+* gérer notre site Web (p. ex. pour vous permettre d’accéder au site depuis votre appareil et mémoriser vos choix) ;
+* développer une meilleure compréhension de vos besoins, améliorer notre site web et notre application ;
+* analyser votre utilisation de notre site web et application, afin de créer des statistiques ;
+* afficher des informations et publicités plus pertinentes sur notre site web et notre application;
+* permettre l’interaction avec les canaux de réseaux sociaux.
 
 Notre site web utilise des cookies et des technologies similaires (ci-après dénommés de manière conjointe « cookies »). Les cookies sont de petits éléments d’information qu’un portail web laisse sur votre appareil (ordinateur, tablette ou smartphone) lorsque vous visitez le portail. Des données à caractère personnel sont susceptibles d’être stockées dans les cookies.
 
@@ -181,11 +181,11 @@ Vos données à caractère personnel sont traitées à des fins de gestion des d
 
 Gestion des passagers au sol (à l’aéroport, pendant l’embarquement, pour la réservation des billets, la gestion des bagages (y compris la dépose de bagages en libre-service) et la facilitation de l’enregistrement, sous différentes formes), afin de respecter l’obligation légale à laquelle nous sommes soumis ;
 
-*   Préparation et notification des documents de vol (y compris la documentation de vol sur l’application mobile), afin de respecter l’obligation légale à laquelle nous sommes soumis ;
-*   Publication de la liste d’information sur les passagers (PIL) pour nos personnels de cabine, conformément aux dispositions du contrat auquel nous sommes partie. Sans vos données à caractère personnel, nous ne pouvons exécuter ce contrat ;
-*   Gestion administrative des visas et documents pour l’entrée dans certains pays, conformément aux dispositions du contrat auquel nous sommes partie. Sans vos données à caractère personnel, nous ne pouvons exécuter ce contrat ;
-*   Collecte et traitement de données à caractère personnel aux fins de gestion des salons ;
-*   Collecte et traitement de données à caractère personnel aux fins des objets perdus et trouvés et le traitement de livraison de bagages perdus aux passagers.
+* Préparation et notification des documents de vol (y compris la documentation de vol sur l’application mobile), afin de respecter l’obligation légale à laquelle nous sommes soumis ;
+* Publication de la liste d’information sur les passagers (PIL) pour nos personnels de cabine, conformément aux dispositions du contrat auquel nous sommes partie. Sans vos données à caractère personnel, nous ne pouvons exécuter ce contrat ;
+* Gestion administrative des visas et documents pour l’entrée dans certains pays, conformément aux dispositions du contrat auquel nous sommes partie. Sans vos données à caractère personnel, nous ne pouvons exécuter ce contrat ;
+* Collecte et traitement de données à caractère personnel aux fins de gestion des salons ;
+* Collecte et traitement de données à caractère personnel aux fins des objets perdus et trouvés et le traitement de livraison de bagages perdus aux passagers.
 
 Chaque paiement réalisé en lien avec tout produit ou service de Brussels Airlines sur nos sites web est géré par un fournisseur de paiements responsable, qui est dans tous les cas responsable du traitement de ces données. Si vous avez des demandes liées aux informations sur les données de paiement liées, vous devrez contacter directement le fournisseur de paiements en question.
 
@@ -264,39 +264,39 @@ Ce traitement est fondé sur nos intérêts légitimes.
 
 Nos sites web comprennent certaines fonctionnalités de réseaux sociaux, telles que les suivantes :
 
-*   Un bouton « Partager » vous permet de partager et de recommander le contenu de nos sites web. Lorsque vous cliquez sur le bouton « Partager », un nouveau message est créé et un lien est généré, renvoyant vers la page sur laquelle vous vous trouvez (par exemple, si vous cliquez sur le bouton « Partager » sur la page de recherche des tarifs les plus bas, vous partagez l’URL de la page de recherche des tarifs les plus bas) ;  
+* Un bouton « Partager » vous permet de partager et de recommander le contenu de nos sites web. Lorsque vous cliquez sur le bouton « Partager », un nouveau message est créé et un lien est généré, renvoyant vers la page sur laquelle vous vous trouvez (par exemple, si vous cliquez sur le bouton « Partager » sur la page de recherche des tarifs les plus bas, vous partagez l’URL de la page de recherche des tarifs les plus bas) ;  
     
-*   L’intégration de Facebook Messenger disponible sur notre plateforme d’enregistrement en ligne vous permet de récupérer votre carte d’embarquement. Si vous décidez d’utiliser cette fonctionnalité, nous vous informerons que vous êtes sur le point de quitter notre site web et nous vous demanderons votre consentement à transmettre au réseau social les données à caractère personnel concernées.
+* L’intégration de Facebook Messenger disponible sur notre plateforme d’enregistrement en ligne vous permet de récupérer votre carte d’embarquement. Si vous décidez d’utiliser cette fonctionnalité, nous vous informerons que vous êtes sur le point de quitter notre site web et nous vous demanderons votre consentement à transmettre au réseau social les données à caractère personnel concernées.
 
 Si vous décidez d’utiliser l’une des fonctionnalités ci-dessus, nous vous invitons à lire notre Avis relatif aux cookies et à ajuster vos paramètres de cookies le cas échéant. Pour de plus amples informations par rapport aux questions de confidentialité, vous pouvez consulter la politique de confidentialité du réseau social en question.
 
 Sur nos sites web, nous faisons la promotion de nos profils et comptes dans le pied de page de nos sites web pour les réseaux sociaux suivants :  
 
-*   Facebook  
+* Facebook  
     
-*   Twitter
-*   LinkedIn
-*   YouTube
-*   Instagram
-*   Pinterest
+* Twitter
+* LinkedIn
+* YouTube
+* Instagram
+* Pinterest
 
 3.3 Avec qui partageons-nous vos données à caractère personnel ?
 ----------------------------------------------------------------
 
 Nous ne transmettons pas vos données à caractère personnel à des tiers, sauf si nous avons une base juridique valable pour le faire. Par exemple, nous sommes susceptibles de transférer vos données à caractère personnel à :
 
-*   Nos entreprises affiliées (ci-après nos désignés par « affiliés ») au sein du groupe Lufthansa, aux mêmes fins et pour les mêmes motifs juridiques que nous, comme indiqué dans le présent avis de confidentialité ;  
+* Nos entreprises affiliées (ci-après nos désignés par « affiliés ») au sein du groupe Lufthansa, aux mêmes fins et pour les mêmes motifs juridiques que nous, comme indiqué dans le présent avis de confidentialité ;  
     
-*   Des partenaires commerciaux, tels que les sociétés de réservation d’hôtel, les services d’assurance, les loueurs de voitures, les fournisseurs de services au sol, etc., agissant de plein droit en tant que responsables du traitement (leur traitement est fondé sur des motifs juridiques définis par leurs soins) ;
-*   Les sociétés qui traitent les données à caractère personnel en notre nom et pour notre compte aux mêmes fins que nous (appelées « sous-traitants »), telles que :
-*   Les prestataires de services en matière de transport, de marketing (y compris les études de marché, la communication commerciale, la gestion des programmes de fidélité, le développement et le partenariat liés au commerce électronique, la gestion de campagnes), de gestion des retours des clients, de maintenance, de support et de développement informatiques, de services de paiement et les agences de renseignement commercial, les fournisseurs de solutions d’hébergement sur serveur et dans le cloud ;
-*   les plateformes d’envoi de communications commerciales et de notifications transactionnelles ;
-*   les opérateurs d’aide en direct (live chats) et de centres d’appels ;
-*   des autorités et agences gouvernementales (par ex. des données APIS (Advance Passenger Information System) à transmettre aux autorités pertinentes des pays de destination respectifs ; la TSA (Transportation Security Administration) pour échanger les données que vous fournissez avec les autorités chargées d’appliquer la loi, les services de renseignements et d’autres organismes ; les autorités sanitaires belges pour fournir des données en réponse à leurs demandes ; etc.) ; afin de satisfaire à nos obligations légales.
+* Des partenaires commerciaux, tels que les sociétés de réservation d’hôtel, les services d’assurance, les loueurs de voitures, les fournisseurs de services au sol, etc., agissant de plein droit en tant que responsables du traitement (leur traitement est fondé sur des motifs juridiques définis par leurs soins) ;
+* Les sociétés qui traitent les données à caractère personnel en notre nom et pour notre compte aux mêmes fins que nous (appelées « sous-traitants »), telles que :
+* Les prestataires de services en matière de transport, de marketing (y compris les études de marché, la communication commerciale, la gestion des programmes de fidélité, le développement et le partenariat liés au commerce électronique, la gestion de campagnes), de gestion des retours des clients, de maintenance, de support et de développement informatiques, de services de paiement et les agences de renseignement commercial, les fournisseurs de solutions d’hébergement sur serveur et dans le cloud ;
+* les plateformes d’envoi de communications commerciales et de notifications transactionnelles ;
+* les opérateurs d’aide en direct (live chats) et de centres d’appels ;
+* des autorités et agences gouvernementales (par ex. des données APIS (Advance Passenger Information System) à transmettre aux autorités pertinentes des pays de destination respectifs ; la TSA (Transportation Security Administration) pour échanger les données que vous fournissez avec les autorités chargées d’appliquer la loi, les services de renseignements et d’autres organismes ; les autorités sanitaires belges pour fournir des données en réponse à leurs demandes ; etc.) ; afin de satisfaire à nos obligations légales.
 
 Conformément à la législation belge concernant l’utilisation des données des passagers, Brussels Airlines a l’obligation de fournir certaines de vos données à caractère personnel au gouvernement belge. Retrouvez plus d’informations à ce sujet à l’adresse [_​_Je prépare un déplacement international - Centre de Crise](https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/lunite-dinformation-des-passagers-belge/je-prepare-un)[](https://centredecrise.be/fr/que-fait-le-centre-de-crise-national/lunite-dinformation-des-passagers-belge/je-prepare-un)
 
-*   Les compagnies aériennes ne faisant pas partie du groupe Lufthansa, lorsqu’il existe un intérêt légitime poursuivi par nous ou par un tiers. Nous ne partagerons vos informations à caractère personnel avec d’autres compagnies aériennes que si vos intérêts ou vos droits et libertés fondamentaux ne sont pas prééminents, et vous en serez alors toujours informé de manière transparente (sauf exceptions légales).  
+* Les compagnies aériennes ne faisant pas partie du groupe Lufthansa, lorsqu’il existe un intérêt légitime poursuivi par nous ou par un tiers. Nous ne partagerons vos informations à caractère personnel avec d’autres compagnies aériennes que si vos intérêts ou vos droits et libertés fondamentaux ne sont pas prééminents, et vous en serez alors toujours informé de manière transparente (sauf exceptions légales).  
     
 
 Par exemple, les informations à caractère personnel des « Passagers indisciplinés » seront partagées. Le terme « indiscipliné » fait référence à un comportement inapproprié, agressif ou violent d’un passager envers les autres passagers ou le personnel de cabine, ou constituant un risque de dommages pour l’avion.
