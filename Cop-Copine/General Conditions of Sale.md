@@ -82,9 +82,9 @@ La société NEDEL s’engage à honorer la commande du Client dans la limite de
   
 Après l’enregistrement de la commande par le Client, la société NEDEL reste libre de refuser ladite commande, notamment dans les cas suivants :
 
-*   litige avec le Client portant sur un paiement antérieur
-*   retours systématiques ou abusifs des produits commandés précédemment
-*   commande de produits pour une quantité anormale
+* litige avec le Client portant sur un paiement antérieur
+* retours systématiques ou abusifs des produits commandés précédemment
+* commande de produits pour une quantité anormale
 
 En cas d’indisponibilité d’un Produit commandé, la société NEDEL s’engage à informer dans les meilleurs délais le Client par tout moyen de communication. Le Client sera alors libre de modifier, d’annuler et, le cas échéant, de se faire rembourser tout ou partie de sa commande.  
 Une fois sa commande traitée et acceptée, le Client recevra un courriel lui confirmant la validité de cette dernière et lui indiquant la date d’expédition de son colis.  
@@ -136,10 +136,10 @@ En cas  de livraison non conforme à la commande, le Client est invité à form
   
 Est considérée comme une livraison non conforme à la commande :
 
-*   une livraison dont le contenu ne correspondrait pas au récapitulatif figurant dans le courriel de confirmation de commande
-*   une livraison dont le contenu ne correspondrait pas au bon de livraison joint au colis.
-*   une livraison comportant des produits manquants
-*   une livraison comprenant des produits défectueux , le Client devant fournir toute justification quant à la réalité des défauts constatés, NEDEL se réservant le droit de procéder, directement ou indirectement, à toute constatation ou vérification éventuellement sur place. Les défauts ou détériorations des Produits livrés consécutifs à des conditions de stockage anormales et/ou de conservation chez le Client, notamment en cas d'un accident de quelque nature que ce soit, ne pourront ouvrir droit à la garantie due par le Vendeur.
+* une livraison dont le contenu ne correspondrait pas au récapitulatif figurant dans le courriel de confirmation de commande
+* une livraison dont le contenu ne correspondrait pas au bon de livraison joint au colis.
+* une livraison comportant des produits manquants
+* une livraison comprenant des produits défectueux , le Client devant fournir toute justification quant à la réalité des défauts constatés, NEDEL se réservant le droit de procéder, directement ou indirectement, à toute constatation ou vérification éventuellement sur place. Les défauts ou détériorations des Produits livrés consécutifs à des conditions de stockage anormales et/ou de conservation chez le Client, notamment en cas d'un accident de quelque nature que ce soit, ne pourront ouvrir droit à la garantie due par le Vendeur.
 
 Les retours de Produits défectueux font systématiquement l’objet d’un examen minutieux par des personnes expertes. Tout retour anormal ou abusif pourra entrainer l’invalidation d’une commande ultérieure.  Les réclamations portant sur des vices techniques inévitables, mineurs ou tolérables dans la profession en matière de qualité, de taille, de couleur ou autres ne seront pas jugées fondées par le service clients.  
 Si la réclamation est jugée recevable, la société NEDEL s’engage à proposer le retour par le transporteur de son choix de tout ou partie des produits non conformes à la commande initiale et le remboursement de l’intégralité des sommes dépensées dans un délai maximal de trente (30) jours. La société NEDEL peut également proposer, avec l’accord du client, d’établir un avoir ou de compléter la livraison non conforme en faisant parvenir à ses frais les produits manquants.  
