@@ -1,4 +1,4 @@
-DAMART, société dont le siège social est situé 25 Avenue de la Fosse aux chênes 59100 ROUBAIX immatriculée au RCS de Lille Métropole sous le numéro 333 202 083. Pour toute question relative aux données personnelles, vous pouvez contacter le délégué à la protection des données (DPO) nommé pour Damart France qui est joignable par courrier à l'adresse suivante : DAMART- à l'attention du DPO - 25 Avenue de la Fosse aux chênes 59100 ROUBAIX et par mail à l'adresse suivante : [dpo-france@damart.com.](mailto:dpo-france@damart.com)
+DAMART, société dont le siège social est situé 25 Avenue de la Fosse aux chênes 59100 ROUBAIX immatriculée au RCS de Lille Métropole sous le numéro 333 202 083. Pour toute question relative aux données personnelles, vous pouvez contacter le délégué à la protection des données (DPO) nommé pour Damart France qui est joignable par courrier à l'adresse suivante : DAMART- à l'attention du DPO - 25 Avenue de la Fosse aux chênes 59100 ROUBAIX et par mail à l'adresse suivante : [dpo-france@damart.com.](mailto:dpo-france@damart.com)
 
   
 
@@ -90,11 +90,11 @@ Enfin, vous disposez du droit d'opposition au traitement de vos données personn
 
 Vous pouvez exercer l'ensemble de vos droits en écrivant à : DAMART Service clientèle DAMART 59086 Roubaix Cedex 2 ou par courriel à infodamart@damart.com et en joignant une copie de votre pièce d'identité. DAMART s'engage à vous répondre dans les 30 jours à compter de la réception de votre demande.
 
-Si vous ne souhaitez pas être contacté par téléphone par des sociétés dont vous n'êtes pas cliente, vous pouvez vous inscrire sur [http://bloctel.gouv.fr](http://bloctel.gouv.fr/)
+Si vous ne souhaitez pas être contacté par téléphone par des sociétés dont vous n'êtes pas cliente, vous pouvez vous inscrire sur [http://bloctel.gouv.fr](http://bloctel.gouv.fr/)
 
 Si vous avez des difficultés lors de la navigation sur notre site, nous vous proposerons un service de discussion en ligne que vous pourrez activer à tout moment.
 
 Un chargé de clientèle peut aussi échanger avec vous grâce à une messagerie instantanée et avoir accès aux pages que vous visualisez de façon à vous apporter une aide adaptée. Cet accès n'aura lieu qu'à partir du moment où vous aurez accepté cette possibilité.
 
-DAMART et ses collaborateurs s'attachent tous les jours au respect de la vie privée et à la protection des données personnelles. Si vous aviez des remarques à formuler ou si malencontreusement, nous n'avions pas été au rendez-vous de vos attentes, nous vous invitons à vous adresser au délégué à la protection des données (DPO) du Groupe DAMARTEX dont DAMART fait partie à l'adresse DAMART- A l'attention du DPO- 160 boulevard de Fourmies 59100 ROUBAIX ou par courriel à [dpo-france@damart.com.](mailto:dpo-france@damart.com)  
+DAMART et ses collaborateurs s'attachent tous les jours au respect de la vie privée et à la protection des données personnelles. Si vous aviez des remarques à formuler ou si malencontreusement, nous n'avions pas été au rendez-vous de vos attentes, nous vous invitons à vous adresser au délégué à la protection des données (DPO) du Groupe DAMARTEX dont DAMART fait partie à l'adresse DAMART- A l'attention du DPO- 160 boulevard de Fourmies 59100 ROUBAIX ou par courriel à [dpo-france@damart.com.](mailto:dpo-france@damart.com)  
 Enfin, vous avez le droit d'introduire une réclamation auprès de l'autorité française de protection des données, la CNIL, à l'adresse : 3 Place de Fontenoy - TSA 80715- 75334 PARIS CEDEX 07.
