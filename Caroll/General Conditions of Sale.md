@@ -49,8 +49,8 @@ Les informations relatives à la composition et/ou les conseils d’utilisation 
 
 Conformément aux dispositions du Code de l'environnement et à la loi AGEC luttant contre le gaspillage et en faveur de l'économie circulaire, CAROLL s'est affiliée à des éco-organismes pour la gestion et le tri de ses déchets. A cet effet, CAROLL dispose des numéros d'identification unique nécessaires (IDU). Le Client peut consulter les règles de gestion et de tri auprès de chaque acteur.
 
-*   Refrashion pour trier et gérer les déchets textiles (IDU FR218605\_11FAHA), de manière simple et innovante : [https://refashion.fr/citoyen/fr](https://refashion.fr/citoyen/fr)
-*   Citeo pour trier et gérer les emballages (IDU FR209676\_01AHDI) et les papiers (IDU FR209676\_03HSGG) afin de participer à préserver notre environnement : [https://www.citeo.com/](https://www.citeo.com/)CAROLL s’engage à livrer des Produits répondant aux prescriptions en vigueur relatives à la sécurité et à la santé des personnes conformément aux dispositions européennes, et notamment à la législation sur les substances chimiques à teneur réglementée.  
+* Refrashion pour trier et gérer les déchets textiles (IDU FR218605\_11FAHA), de manière simple et innovante : [https://refashion.fr/citoyen/fr](https://refashion.fr/citoyen/fr)
+* Citeo pour trier et gérer les emballages (IDU FR209676\_01AHDI) et les papiers (IDU FR209676\_03HSGG) afin de participer à préserver notre environnement : [https://www.citeo.com/](https://www.citeo.com/)CAROLL s’engage à livrer des Produits répondant aux prescriptions en vigueur relatives à la sécurité et à la santé des personnes conformément aux dispositions européennes, et notamment à la législation sur les substances chimiques à teneur réglementée.  
   
 Le Client est seul responsable du choix des Produits, de leur conservation et de leur utilisation.
 
