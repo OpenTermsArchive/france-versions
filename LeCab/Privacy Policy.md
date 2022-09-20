@@ -14,11 +14,11 @@ Les informations de carte bancaire ne sont pas stockées chez LeCab, elles ne pa
 
 **• LeCab ne stocke pas les mots de passe**
 
-Au même titre que les cartes bancaires, un pirate qui trouverait une faille dans notre sécurité n’aurait pas accès au mot de passe. C’est une protection pour celles et ceux qui utilisent le même mot de passe sur plusieurs applications, ce que néanmoins nous déconseillons. 
+Au même titre que les cartes bancaires, un pirate qui trouverait une faille dans notre sécurité n’aurait pas accès au mot de passe. C’est une protection pour celles et ceux qui utilisent le même mot de passe sur plusieurs applications, ce que néanmoins nous déconseillons. 
 
 **• LeCab n’enregistre pas votre position hors course**
 
-Seul le tracé de la course est enregistré, LeCab n’enregistre pas la position de ses clients, uniquement celle de la voiture, et des éventuelles adresses demandées par le client. De plus, seuls les salariés concernés ont accès aux positions des véhicules et ce, uniquement à des fins opérationnelles. 
+Seul le tracé de la course est enregistré, LeCab n’enregistre pas la position de ses clients, uniquement celle de la voiture, et des éventuelles adresses demandées par le client. De plus, seuls les salariés concernés ont accès aux positions des véhicules et ce, uniquement à des fins opérationnelles. 
 
 _Applicable au 09 décembre 2020_
 
@@ -27,7 +27,7 @@ LeCab collecte les données vous concernant lorsque vous utilisez nos applicatio
 Champ d’application
 -------------------
 
-La présente Déclaration de confidentialité (la « Déclaration ») s’applique aux personnes dans le monde entier qui utilisent nos applications ou Services pour solliciter nos services de transport, de livraison ou autres services sur demande (les « Utilisateurs »). 
+La présente Déclaration de confidentialité (la « Déclaration ») s’applique aux personnes dans le monde entier qui utilisent nos applications ou Services pour solliciter nos services de transport, de livraison ou autres services sur demande (les « Utilisateurs »). 
 
 Collecte des données
 --------------------
@@ -39,13 +39,13 @@ Utilisation des informations
 
 Nous pouvons utiliser les données que nous collectons sur vous pour :
 
-• Fournir, assurer et améliorer nos Services, y compris, par exemple, pour faciliter les paiements, envoyer des reçus, fournir les produits et services que vous demandez (et envoyer les informations qui s’y rapportent), fournir les services d’assistance à la clientèle aux Utilisateurs et Chauffeurs, développer des dispositifs de sécurité, authentifier les utilisateurs, et envoyer des mises à jour de produits et des messages de nature administrative.
+• Fournir, assurer et améliorer nos Services, y compris, par exemple, pour faciliter les paiements, envoyer des reçus, fournir les produits et services que vous demandez (et envoyer les informations qui s’y rapportent), fournir les services d’assistance à la clientèle aux Utilisateurs et Chauffeurs, développer des dispositifs de sécurité, authentifier les utilisateurs, et envoyer des mises à jour de produits et des messages de nature administrative.
 
 **•** Effectuer des opérations internes, y compris, par exemple, pour empêcher la fraude et l’utilisation abusive de nos Services; dépanner les bugs logiciels et les problèmes opérationnels; réaliser des analyses de données, des essais et des recherches; contrôler et analyser les tendances en matière d’utilisation et d’activité.
 
 **•** Envoyer ou faciliter les communications entre vous et un Chauffeur, telles que l’heure prévue d’arrivée (ETA), ou entre vous et l’un de vos contacts, à votre demande, en relation avec l’utilisation par vous de certaines fonctionnalités,
 
-**•** Vous envoyer des communications que nous pensons être intéressantes pour vous, y compris des information sur des produits, services, promotions, nouvelles et évènements de LeCab, lorsque cela est autorisé et conforme à la législation locale applicable, traiter les entrées relatives aux concours, jeux ou autres promotions, et remettre les récompenses correspondantes. 
+**•** Vous envoyer des communications que nous pensons être intéressantes pour vous, y compris des information sur des produits, services, promotions, nouvelles et évènements de LeCab, lorsque cela est autorisé et conforme à la législation locale applicable, traiter les entrées relatives aux concours, jeux ou autres promotions, et remettre les récompenses correspondantes. 
 
 Partage des données
 -------------------
@@ -65,9 +65,9 @@ Nous pouvons autoriser des tiers à nous fournir des mesures d’audience et des
 Vos informations
 ----------------
 
-Vous pouvez corriger à tout moment les informations relatives à votre compte en vous connectant sur votre compte en ligne ou celui se trouvant sur l’application. Si vous souhaitez annuler votre compte, veuillez nous envoyer un e-mail à [contact@lecab.fr](mailto:contact@snapcar.com) 
+Vous pouvez corriger à tout moment les informations relatives à votre compte en vous connectant sur votre compte en ligne ou celui se trouvant sur l’application. Si vous souhaitez annuler votre compte, veuillez nous envoyer un e-mail à [contact@lecab.fr](mailto:contact@snapcar.com) 
 
-Veuillez noter que dans certains cas nous pouvons conserver certaines informations vous concernant parce que la loi nous l’impose, ou à des fins commerciales légitimes dans la limite prévue par la loi. Par exemple, si votre compte fait apparaître un solde créditeur ou débiteur, ou si nous estimons que vous avez commis une fraude ou violé nos Conditions générales, nous pouvons chercher à régler le problème avant d’effacer les données vous concernant. LeCab se conforme aux demandes individuelles concernant l’accès aux, la correction et/ou la suppression des données à caractère personnel qu’elle conserve conformément à la législation applicable. Nous demandons l’autorisation pour collecter sur notre application les données précises de localisation de votre mobile via le système d’autorisation que le système d’exploitation de votre mobile utilise. Si vous autorisez dans un premier temps la collecte de ces données, vous pouvez revenir ultérieurement sur votre choix en changeant les paramètres de localisation de votre téléphone portable. Cependant, ceci limitera votre capacité à utiliser certaines fonctionnalités de nos Services. 
+Veuillez noter que dans certains cas nous pouvons conserver certaines informations vous concernant parce que la loi nous l’impose, ou à des fins commerciales légitimes dans la limite prévue par la loi. Par exemple, si votre compte fait apparaître un solde créditeur ou débiteur, ou si nous estimons que vous avez commis une fraude ou violé nos Conditions générales, nous pouvons chercher à régler le problème avant d’effacer les données vous concernant. LeCab se conforme aux demandes individuelles concernant l’accès aux, la correction et/ou la suppression des données à caractère personnel qu’elle conserve conformément à la législation applicable. Nous demandons l’autorisation pour collecter sur notre application les données précises de localisation de votre mobile via le système d’autorisation que le système d’exploitation de votre mobile utilise. Si vous autorisez dans un premier temps la collecte de ces données, vous pouvez revenir ultérieurement sur votre choix en changeant les paramètres de localisation de votre téléphone portable. Cependant, ceci limitera votre capacité à utiliser certaines fonctionnalités de nos Services. 
 
 Modification de la déclaration
 ------------------------------
