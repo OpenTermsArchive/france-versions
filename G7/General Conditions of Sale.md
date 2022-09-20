@@ -3,8 +3,8 @@ CONDITIONS GENERALES D’UTILISATION ET DE VENTE
 
 En application au 29/06/2022
 
-1.  [Accueil](https://www.g7.fr/)
-2.  Conditions générales
+1. [Accueil](https://www.g7.fr/)
+2. Conditions générales
 
 **CONDITIONS GENERALES D’UTILISATION ET DE VENTE\***
 
@@ -49,16 +49,16 @@ Les prestations du présent contrat ne peuvent en aucun cas, être commercialis�
 
 Le CLIENT s’engage à utiliser son compte G7® conformément aux présentes conditions générales et notament :
 
-*   à faire un usage strictement personnel de de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
-*   à utiliser le service de recherche de taxi conformément à sa destination et à son objet et en faire une utilisation loyale en s’interdisant d’utiliser le service à des fins autres que celles pour lesquelles il a été conçu.
+* à faire un usage strictement personnel de de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
+* à utiliser le service de recherche de taxi conformément à sa destination et à son objet et en faire une utilisation loyale en s’interdisant d’utiliser le service à des fins autres que celles pour lesquelles il a été conçu.
 
 Il s’interdit ainsi expressément :
 
-*   toute utilisation de son compte G7® pour un usage autre que la recherche d’un taxi en vue d’un déplacement déterminé à réaliser, et notamment toute utilisation aux fins d’obtenir des informations ou éléments d’information, de distribuer, de transférer, de présenter, de transmettre, de diffuser, de référencer, d’indexer, de comparer, d’intégrer ou d’exploiter de toute autre manière, des informations ou éléments d’information dule service de réservation de taxis de la SOCIETE,
-*   toute action ou comportement susceptible d’interrompre, d’entraver, suspendre ou ralentir le service de recherche de taxi de la SOCIETE, les applications G7®, le Site Internet G7®, le Système Informatique de la SOCIETE et les éléments qui les composent ;
-*   toute action sur les infrastructures informatiques de la SOCIETE et notamment tout accès en tout ou en partie aux systèmes informatiques de la SOCIETE, toute utilisation, intégration ou interaction avec les API (Interface de programmation applicative) de la SOCIETE ; 
-*   toute intrusion ou tentative d’intrusion dans les systèmes informatiques de la SOCIETE ainsi que toute requête informatique, appel téléphonique, test de charge, ou action de nature à engendrer une sollicitation anormale sur les infrastructures informatiques de la SOCIETE telle que notamment l’utilisation d’un robot, d’un programme ou d’un script de recherche/récupération d’information ou tout autre processus manuel ou automatique pour parcourir, récupérer, transférer, indexer, comparer, extraire ou intégrer des données,
-*   toute copie et/ou détournement du Site Internet G7®, des applications G7® et/ou des systèmes informatiques de la SOCIETE.
+* toute utilisation de son compte G7® pour un usage autre que la recherche d’un taxi en vue d’un déplacement déterminé à réaliser, et notamment toute utilisation aux fins d’obtenir des informations ou éléments d’information, de distribuer, de transférer, de présenter, de transmettre, de diffuser, de référencer, d’indexer, de comparer, d’intégrer ou d’exploiter de toute autre manière, des informations ou éléments d’information dule service de réservation de taxis de la SOCIETE,
+* toute action ou comportement susceptible d’interrompre, d’entraver, suspendre ou ralentir le service de recherche de taxi de la SOCIETE, les applications G7®, le Site Internet G7®, le Système Informatique de la SOCIETE et les éléments qui les composent ;
+* toute action sur les infrastructures informatiques de la SOCIETE et notamment tout accès en tout ou en partie aux systèmes informatiques de la SOCIETE, toute utilisation, intégration ou interaction avec les API (Interface de programmation applicative) de la SOCIETE ; 
+* toute intrusion ou tentative d’intrusion dans les systèmes informatiques de la SOCIETE ainsi que toute requête informatique, appel téléphonique, test de charge, ou action de nature à engendrer une sollicitation anormale sur les infrastructures informatiques de la SOCIETE telle que notamment l’utilisation d’un robot, d’un programme ou d’un script de recherche/récupération d’information ou tout autre processus manuel ou automatique pour parcourir, récupérer, transférer, indexer, comparer, extraire ou intégrer des données,
+* toute copie et/ou détournement du Site Internet G7®, des applications G7® et/ou des systèmes informatiques de la SOCIETE.
 
 Il appartient en outre au CLIENT de s’assurer qu’aucune fraude n’a été, n’est ou ne peut être commise à partir de ses identifiants. En cas de doute, le CLIENT procèdera immédiatement au changement de ceux-ci et informera le Centre de Relation Clients de la SOCIETE, disponible 24h sur 24, 7 jours sur 7.
 
@@ -74,7 +74,7 @@ Le CLIENT garantit la véracité et l’exactitude des informations qu’il comm
 
 Le CLIENT devant s’identifier pour accéder au service en utilisant son identifiant et son mot de passe, toute Commande effectuée à partir de son compte G7® est réputée effectuée par lui. Par conséquent, le prix correspondant à cette commande sera débité de son compte bancaire selon les modalités et conditions tarifaires visées à l’article 4.
 
-**2.2. – Service « _G7_**® **_Connect_** **» : utilisation de l’application Smartphone G7**® **et du compte G7**® **du CLIENT à l’occasion de « courses rue »** **effectuées à bord de taxis parisiens affiliés G7**®
+**2.2. – Service « _G7_**® **_Connect_** **» : utilisation de l’application Smartphone G7**® **et du compte G7**® **du CLIENT à l’occasion de « courses rue »** **effectuées à bord de taxis parisiens affiliés G7**®
 
 Le CLIENT a la possibilité, lorsqu’il effectue une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi**)** réalisée par un taxi parisien affilié à la centrale de réservation G7®, de se connecter à son compte G7® à partir des applications smartphone G7 Taxi iPhone® et Android.
 
@@ -84,7 +84,7 @@ Ainsi, le CLIENT, une fois monté à bord du taxi affilié G7®, peut, s’il le
 
 Une fois la connexion établie, le CLIENT retrouve le suivi de cette course directement dans l’application smartphone G7®, peut évaluer la course et il effectue le règlement de celle-ci par l’intermédiaire de la carte de paiement enregistrée dans son compte G7®.
 
-**Le service « _G7_**® **_Connect_** **» est gratuit**.
+**Le service « _G7_**® **_Connect_** **» est gratuit**.
 
 **2.3. –Acceptation des conditions générales**
 
@@ -92,7 +92,7 @@ La commande d’une course ou l’utilisation du service « **_G7_**® **_Conne
 
 Les conditions générales sont disponibles dans les applications smartphone G7 Taxi iPhone® et Android et sur le site Internet [www.g7.fr](https://www.g7.fr/). Elles peuvent également être demandées en adressant un courrier au siège de la SOCIETE : 22/28 rue Henri Barbusse – 92110 CLICHY.
 
-**La réservation d’un taxi par le CLIENT auprès de la SOCIETE ou l’utilisation du service** « **_G7_**® **_Connect_** » **emporte acceptation pleine et entière des présentes conditions générales et obligation au paiement des services commandés, ce qui est expressément reconnu par le CLIENT.**
+**La réservation d’un taxi par le CLIENT auprès de la SOCIETE ou l’utilisation du service** « **_G7_**® **_Connect_** » **emporte acceptation pleine et entière des présentes conditions générales et obligation au paiement des services commandés, ce qui est expressément reconnu par le CLIENT.**
 
 Ainsi, en réservant un taxi auprès de la SOCIETE, le CIENT s’oblige notamment à régler à la SOCIETE les frais de non charge ainsi que l’option « niveau de service » ou la garantie « PMG » éventuellement sélectionnée lors de la commande qui lui seront facturés si le CLIENT ne se présente pas à l’arrivée du taxi conformément aux dispositions de l’article 3.5.2. des présentes conditions générales \[sauf annulation préalable de la commande réalisée dans les conditions de l’article 3.4 des conditions générales\].
 
@@ -216,7 +216,7 @@ Lorsque le CLIENT demande un type de véhicule spécifique, la SOCIETE met tout 
 **3.7. Validation de la demande de course**
 
   
-**3.7.1. Demande d’autorisation de paiement (ou « pré autorisation par carte de paiement »)** 
+**3.7.1. Demande d’autorisation de paiement (ou « pré autorisation par carte de paiement »)** 
 
 Le CLIENT est informé qu’une pré-autorisation par carte de paiement est effectuée auprès de la société émettrice de la carte de paiement, lors de chaque demande de course (ou modification ultérieure de la demande) réalisée en ligne et autorise la SOCIETE  à y procéder conformément aux dispositions de l’article 6.2.2 des présentes conditions générales.
 
@@ -249,8 +249,8 @@ Les différents niveaux de service proposés par la SOCIETE et disponibles sur o
 En sélectionnant « Prix Maximum Garanti » lors de la commande, le CLIENT est informé à l’avance du montant maximum total auquel lui sera facturé cette course à l’issue de celle-ci : le « Prix Maximum Garanti » (comprenant les frais de la garantie PMG souscrite par le CLIENT).  
 Dans ce cas, le prix total de la course réalisée (tarif « compteur » + frais de la garantie PMG) qui sera facturé au CLIENT ne pourra jamais dépasser le PMG annoncé lors de la commande :
 
-*   dans les cas où le montant affiché au compteur à l’issue de la course est inférieur à l’estimation (PMG), le CLIENT règlera le montant du compteur augmenté des frais de la garantie PMG (dans la limite du PMG annoncé lors de la commande) ;
-*   dans le cas inverse, le CLIENT réglera le PMG annoncé à l’avance.
+* dans les cas où le montant affiché au compteur à l’issue de la course est inférieur à l’estimation (PMG), le CLIENT règlera le montant du compteur augmenté des frais de la garantie PMG (dans la limite du PMG annoncé lors de la commande) ;
+* dans le cas inverse, le CLIENT réglera le PMG annoncé à l’avance.
 
 **Courses éligibles :** la SOCIETE propose le « Prix Maximum Garanti » exclusivement pour les demandes de courses immédiates, réalisées via l’application G7 Particulier (logo rouge sur fond blanc) en niveaux de service G7® (standard) ou G7® Green, pour des trajets directs réalisés au départ et à l’arrivée de la zone de Paris intramuros, à certains créneaux horaires (conditions cumulatives). La garantie PMG n’est par ailleurs, pas cumulable avec des options («  niveaux de service ») payantes ainsi qu’avec les codes avantages, et la SOCIETE se réserve le droit de ne pas proposer cette garantie pour certaines demandes (course longue distance, journée exceptionnelle, etc..).  
 La SOCIETE se réserve le droit de ne pas appliquer la garantie de prix maximum dès lors que la prestation effectivement réalisée est différente des conditions de la commande annoncée par le CLIENT (destinations multiples, destination différente de celle annoncée, arrêt ou détour au cours du trajet, attente de plus de 5 minutes du chauffeur, choix d’un trajet non direct). Dans cette hypothèse, c’est le montant du compteur horokilométrique qui sera demandé au CLIENT, augmenté des frais de la garantie PMG souscrite.
@@ -261,12 +261,12 @@ La SOCIETE se réserve la possibilité de suspendre ou d’interrompre les diff�
 
 Le tarif des différentes options (niveaux de service) et de la garantie « PMG » est spécifié dans la grille tarifaire annexée aux présentes, et il peut être différent selon que la prise en charge du CLIENT s’effectue :
 
-*   En heures de pointe, à savoir :
-    *   du lundi au vendredi durant les créneaux horaires spécifiques suivants :
-        *   de 7 heures à 10 heures,
-        *    et de 17 heures à 21 heures.
-    *   la nuit du dimanche de minuit à 7 heures du matin.
-*   En heures creuses.
+* En heures de pointe, à savoir :
+    * du lundi au vendredi durant les créneaux horaires spécifiques suivants :
+        * de 7 heures à 10 heures,
+        *  et de 17 heures à 21 heures.
+    * la nuit du dimanche de minuit à 7 heures du matin.
+* En heures creuses.
 
 La prise en charge du CLIENT correspond à l’heure de prise de commande du taxi en demande immédiate et à l’heure de réservation du CLIENT pour le début de sa course en demande à l’avance.
 
@@ -358,18 +358,18 @@ A l'exception de la date d'expiration de la carte de paiement du CLIENT, la SOC
 
 **6.2.2. Demande d’autorisation de paiement (ou « pré autorisation par carte de paiement »)** : Conformément aux dispositions des articles 2.1 et  3.7.1 des présentes Conditions Générales, le CLIENT est informé qu’une demande d’autorisation de paiement est effectuée, lors de l’enregistrement de la carte de paiement du CLIENT dans son compte G7 et pour chaque commande de course (ou modification ultérieure de la commande), auprès de la société émettrice de la carte de paiement, et il autorise la SOCIETE à y procéder. Le montant de cette pré-autorisation par carte de paiement est  variable en fonction des cas : 
 
-*   Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 0€ ;
-*   Lors de la demande de course :
-    *   Si le CLIENT n’a pas renseigné d’adresse de destination, le montant de la pré-autorisation par carte de paiement sera de 50€ ;
-    *   Si le CLIENT a renseigné une adresse de destination, le montant de la pré-autorisation par carte de paiement sera adapté selon le prix estimé de la course, communiqué au CLIENT  par la SOCIETE à titre indicatif, avant la commande de course. Le montant de cette pré autorisation par carte de paiement sera de : 
-        *   25€ si la fourchette haute du prix estimé est inférieure ou égale à 25€ ;
-        *   50€ si la fourchette haute du prix estimé est supérieure à 25€ et inférieure ou égale à 50€ ;
-        *   75€ si la fourchette haute du prix estimé est supérieure à 50€.
+* Lors de l’enregistrement de la carte de paiement, le montant de la pré-autorisation par carte de paiement sera de 0€ ;
+* Lors de la demande de course :
+    * Si le CLIENT n’a pas renseigné d’adresse de destination, le montant de la pré-autorisation par carte de paiement sera de 50€ ;
+    * Si le CLIENT a renseigné une adresse de destination, le montant de la pré-autorisation par carte de paiement sera adapté selon le prix estimé de la course, communiqué au CLIENT  par la SOCIETE à titre indicatif, avant la commande de course. Le montant de cette pré autorisation par carte de paiement sera de : 
+        * 25€ si la fourchette haute du prix estimé est inférieure ou égale à 25€ ;
+        * 50€ si la fourchette haute du prix estimé est supérieure à 25€ et inférieure ou égale à 50€ ;
+        * 75€ si la fourchette haute du prix estimé est supérieure à 50€.
 
 Ce montant sera temporairement réservé par la banque émettrice de la carte de paiement du CLIENT, puis restitué au CLIENT (sauf dans le cas où le règlement ultérieur de la transaction serait rejeté conformément aux dispositions de l’article 6.2.3), le délai de restitution étant variable selon la société émettrice de la carte de paiement utilisée par le CLIENT.
 
-*   La commande de course est enregistrée et validée par la SOCIETE dès l’acceptation de cette pré-autorisation par la société émettrice de la carte de paiement du CLIENT ;
-*   En cas de rejet de cette pré-autorisation, la commande de course est annulée par la SOCIETE, et le CLIENT en est immédiatement informé.  
+* La commande de course est enregistrée et validée par la SOCIETE dès l’acceptation de cette pré-autorisation par la société émettrice de la carte de paiement du CLIENT ;
+* En cas de rejet de cette pré-autorisation, la commande de course est annulée par la SOCIETE, et le CLIENT en est immédiatement informé.  
       
     
 
@@ -394,8 +394,8 @@ Ces codes avantages ne pourront être utilisés que conformément aux condition
 
 Ils ne pourront être utilisés :
 
-*   ni en cas de courses réglées directement à bord au chauffeur de taxi (« paiement à bord ») même avec la carte de paiement enregistrée dans le compte G7® du CLIENT ;
-*   ni en cas d’utilisation du service optionnel « **G7® _Connect_** » à l’occasion d’une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi).
+* ni en cas de courses réglées directement à bord au chauffeur de taxi (« paiement à bord ») même avec la carte de paiement enregistrée dans le compte G7® du CLIENT ;
+* ni en cas d’utilisation du service optionnel « **G7® _Connect_** » à l’occasion d’une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi).
 
 Ces codes avantages ne peuvent être dupliqués, commercialisés, distribués ou transférés d’aucune façon, même à titre gratuit, ni être mis à la disposition de quiconque (qu’ils soient postés sur un forum public ou autrement), sauf autorisation expresse de la SOCIETE.
 
@@ -485,10 +485,10 @@ Les commandes « G7**®** 12-25 » sont accessibles uniquement sur les applica
 
 Pour bénéficier du tarif préférentiel, à savoir une réduction de 20% (dans la limite de 20 euros) sur le montant de la course de taxi, le CLIENT doit :
 
-*   Justifier, par sa pièce d’identité (scannée dans l’application smartphone G7**®** Taxi), qu’il s’agit d’une commande de taxi pour le transport d’un jeune de 12 ans à 25 ans révolus,
-*   Avoir créé un compte dans l’application smartphone G7**®** Taxi et avoir enregistré une carte de paiement,
-*   Avoir scanné, dans l’application smartphone G7**®** Taxi, la pièce d’identité du passager, qui devra être authentifiée par la SOCIETE,
-*   Et commander un taxi dans l’immédiat, les nuits des jeudis, vendredis ou samedis entre 22 heures et 5 heures du matin.
+* Justifier, par sa pièce d’identité (scannée dans l’application smartphone G7**®** Taxi), qu’il s’agit d’une commande de taxi pour le transport d’un jeune de 12 ans à 25 ans révolus,
+* Avoir créé un compte dans l’application smartphone G7**®** Taxi et avoir enregistré une carte de paiement,
+* Avoir scanné, dans l’application smartphone G7**®** Taxi, la pièce d’identité du passager, qui devra être authentifiée par la SOCIETE,
+* Et commander un taxi dans l’immédiat, les nuits des jeudis, vendredis ou samedis entre 22 heures et 5 heures du matin.
 
 Ces conditions d’accès au tarif préférentiel indiqué ci-dessus sont cumulatives et sont applicables aux seuls CLIENTS déjà détenteurs de l’offre.
 
@@ -506,10 +506,10 @@ En outre, le chauffeur pourra être contraint à refuser la prise en charge d’
 
 La SOCIETE peut restreindre l’accès au service à tout CLIENT sans préavis dans les cas suivants :
 
-*   Non-respect de ses obligations et des présentes conditions générales par le CLIENT ;
-*   Défaut ou retard de règlement des sommes dues à la SOCIETE au titre de courses précédentes ;
-*   Annulation de la réservation postérieure à l’affectation du taxi à 3 reprises par le CLIENT dans une période d’un mois ;
-*   Comportement inapproprié du CLIENT à bord du véhicule et/ou vis-à-vis du chauffeur de taxi,
+* Non-respect de ses obligations et des présentes conditions générales par le CLIENT ;
+* Défaut ou retard de règlement des sommes dues à la SOCIETE au titre de courses précédentes ;
+* Annulation de la réservation postérieure à l’affectation du taxi à 3 reprises par le CLIENT dans une période d’un mois ;
+* Comportement inapproprié du CLIENT à bord du véhicule et/ou vis-à-vis du chauffeur de taxi,
 
 **Article 11 : Résiliation : Clôture du compte G7®**
 
@@ -531,12 +531,12 @@ Les données à caractère personnel, communiquées par le CLIENT lors de son in
 
 Ces informations sont :
 
-*   le numéro de téléphone présenté par le CLIENT,
-*   l'enregistrement de la conversation téléphonique,
-*   les nom et prénom du (des) passager(s) et adresse email,
-*   le détail des données relatives à la course effectuée,
-*   les données de connexion, d’utilisation, de localisation
-*   et les données relatives à la carte de paiement du CLIENT (N° de la carte, date d'expiration, cryptogramme visuel).
+* le numéro de téléphone présenté par le CLIENT,
+* l'enregistrement de la conversation téléphonique,
+* les nom et prénom du (des) passager(s) et adresse email,
+* le détail des données relatives à la course effectuée,
+* les données de connexion, d’utilisation, de localisation
+* et les données relatives à la carte de paiement du CLIENT (N° de la carte, date d'expiration, cryptogramme visuel).
 
 La SOCIETE se réserve la possibilité d'enregistrer et de conserver, à des fins de preuve et afin d’optimiser l’efficacité du processus de gestion des commandes, l'ensemble des informations relatives aux appels reçus par son Centre d'Appels, aux commandes passées via le site Internet ou les applications mobiles, aux données d’identification du CLIENT et aux courses de taxis réalisées.
 
@@ -589,19 +589,19 @@ Ces niveaux de services sont décrits dans la présente grille tarifaire, et ils
 |     |     |     |
 | --- | --- | --- |
 | **Niveaux de services     proposés** | **Description du service et gamme de véhicules** |     |
-| **Service "G7® "**<br><br>**Standard** | *   Tous types de véhicules <br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire) |     |
+| **Service "G7® "**<br><br>**Standard** | * Tous types de véhicules <br>* Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire) |     |
 | **Prix de l'option TTC**  <br>(TVA 20% applicable) |
-| **Option :**<br><br>**Service « G7® Green »** | *   Véhicules hybrides ou 100% électriques.<br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
-| **Option :**<br><br>**Service « G7® Access »** | *   Véhicules équipés de rampe d'accès.<br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**   <br>    et formés au transport des personnes à mobilité réduite. <br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
-| **Option :** <br><br>**Service « G7®Van** » | *   Véhicules de type VAN<br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>*   Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **6€ TTC** |
-| **Option :** <br><br>**Service « G7® VIP »** | *   Véhicules haut de gamme<br>*   Chauffeurs ayant adhéré à une charte de qualité spécifique<br>*   Services à bord : WiFi, chargeurs de téléphone<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **10€ TTC** |
-| **Option :** <br><br>**Service « G7® Van VIP »** | *   Véhicules de type VAN haut de gamme<br>*   Chauffeurs ayant adhéré à une charte de qualité spécifique<br>*   Services à bord : WiFi, chargeurs de téléphone<br>*   Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **10€ TTC** |
-| **Option :** <br><br>**Service « G7® Famille »**   <br>**dont :** | *   Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service  <br>sont disponibles : |
-| **« G7® Famille » avec** | *   Véhicules de type standard<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
-| **« G7® Famille » avec** | *   Véhicules de type VAN<br>*   Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **6€  TTC** |
-| **Option :** <br><br>**Service « G7® Coffre+ »** | *   Véhicules de type break dotés d’un espace  <br>    de chargement accru pour des bagages volumineux <br>*   Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>*   Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
-| **Option :**<br><br>**Service « G7® Vélo »**<br><br>Niveau de service disponible en demande à l’avance exclusivement | *   Tous types de véhicules<br>*   Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à  4 \[3 en période d’urgence sanitaire **\*_3_**) | **4€  TTC** |
-| **Option :** <br><br>**Service « G7® Zen »**<br><br>Commandes réalisées via l’application G7 ou par téléphone : 3607 (0,45€/min + prix de l’appel).  <br>_(Prochainement disponible pour les commandes effectuées à partir du site https://www.g7.fr)_ | *   Véhicules confortables de type berline<br>*   Attribution prioritaire de véhicules en période de forte demande de taxis<br>*   Chauffeurs ayant adhéré à la charte de qualité G7®<br>*   Nombre de passagers : jusqu’à  4 \[3 en période d’urgence sanitaire **\*_3_**)<br><br>_Ce niveau de service n’est proposé qu’en période de forte demande de taxis “G7®” ou “G7® Green” (heures de pointe, départs en vacances, …) entraînant une indisponibilité de taxis à l’adresse de départ, nécessitant d’élargir les recherches._ | **6€  TTC** |
+| **Option :**<br><br>**Service « G7® Green »** | * Véhicules hybrides ou 100% électriques.<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
+| **Option :**<br><br>**Service « G7® Access »** | * Véhicules équipés de rampe d'accès.<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®**   <br>    et formés au transport des personnes à mobilité réduite. <br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
+| **Option :** <br><br>**Service « G7®Van** » | * Véhicules de type VAN<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>* Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **6€ TTC** |
+| **Option :** <br><br>**Service « G7® VIP »** | * Véhicules haut de gamme<br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **10€ TTC** |
+| **Option :** <br><br>**Service « G7® Van VIP »** | * Véhicules de type VAN haut de gamme<br>* Chauffeurs ayant adhéré à une charte de qualité spécifique<br>* Services à bord : WiFi, chargeurs de téléphone<br>* Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **10€ TTC** |
+| **Option :** <br><br>**Service « G7® Famille »**   <br>**dont :** | * Véhicules équipés de sièges bébés pour les enfants  <br>    de 0 à 4 ans et de réhausseurs pour les 4 à 10 ans<br>* Chauffeurs ayant adhéré à la charte de qualité G7**®** | 2 niveaux de service  <br>sont disponibles : |
+| **« G7® Famille » avec** | * Véhicules de type standard<br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
+| **« G7® Famille » avec** | * Véhicules de type VAN<br>* Nombre de passagers : jusqu'à 7 (6 en période d'urgence sanitaire**\*_3_**) | **6€  TTC** |
+| **Option :** <br><br>**Service « G7® Coffre+ »** | * Véhicules de type break dotés d’un espace  <br>    de chargement accru pour des bagages volumineux <br>* Chauffeurs ayant adhéré à la charte de qualité G7**®**<br>* Nombre de passagers : jusqu'à 4 (3 en période d'urgence sanitaire**\*_3_**) | **Option gratuite** |
+| **Option :**<br><br>**Service « G7® Vélo »**<br><br>Niveau de service disponible en demande à l’avance exclusivement | * Tous types de véhicules<br>* Véhicules équipés de porte-vélos : transport possible de 3 vélos classiques (compatibilité avec les vélos électriques non garantie)<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à  4 \[3 en période d’urgence sanitaire **\*_3_**) | **4€  TTC** |
+| **Option :** <br><br>**Service « G7® Zen »**<br><br>Commandes réalisées via l’application G7 ou par téléphone : 3607 (0,45€/min + prix de l’appel).  <br>_(Prochainement disponible pour les commandes effectuées à partir du site https://www.g7.fr)_ | * Véhicules confortables de type berline<br>* Attribution prioritaire de véhicules en période de forte demande de taxis<br>* Chauffeurs ayant adhéré à la charte de qualité G7®<br>* Nombre de passagers : jusqu’à  4 \[3 en période d’urgence sanitaire **\*_3_**)<br><br>_Ce niveau de service n’est proposé qu’en période de forte demande de taxis “G7®” ou “G7® Green” (heures de pointe, départs en vacances, …) entraînant une indisponibilité de taxis à l’adresse de départ, nécessitant d’élargir les recherches._ | **6€  TTC** |
 
   
 
@@ -613,9 +613,9 @@ La garantie « PMG » (disponible en demande immédiate pour certains trajets so
 
 **Conditions générales en application - 29 juin 2022**
 
-**\*¹** _Course réalisée à bord d’un taxi parisien affilié G7**®**  (la liste des communes de rattachement des taxis parisiens est fixée par l’arrêté ministériel du 10 novembre 1972)  
+**\*¹** _Course réalisée à bord d’un taxi parisien affilié G7**®**  (la liste des communes de rattachement des taxis parisiens est fixée par l’arrêté ministériel du 10 novembre 1972)  
 Le prix de la prestation de transport réalisée par le chauffeur de taxi (« la course ») est perçu par ce dernier et déterminé à l’issue de la course, selon le tarif réglementaire affiché par le compteur horokilométrique du taxi en vertu de l’arrêté préfectoral en vigueur._
 
 **\*²** _Hors période d’offre promotionnelle_
 
-**\*_3_** _Dans le cadre des mesures gouvernementales liées à l'état d'urgence sanitaire, aucun passager n'est autorisé à s'asseoir à coté du conducteur_
+**\*_3_** _Dans le cadre des mesures gouvernementales liées à l'état d'urgence sanitaire, aucun passager n'est autorisé à s'asseoir à coté du conducteur_
