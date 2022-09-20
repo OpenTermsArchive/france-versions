@@ -1,21 +1,10 @@
 Protection des données personnelles
 ===================================
 
-[Mentions légales  
-](https://www.rueducommerce.fr/info/mentions-legales)
--------------------------------------------------------------------------
+[Mentions légales](https://www.rueducommerce.fr/info/mentions-legales)
+----------------------------------------------------------------------
 
-\- [Conditions générales de vente des produits vendus et expédiés par Rue du Commerce  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)
+\- [Conditions générales de vente des produits vendus et expédiés par Rue du Commerce](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)
 
   
   
@@ -63,9 +52,9 @@ de tracer et administrer les preuves que Rue du Commerce doit rapporter en appli
 
 \- la gestion des éventuels contentieux, notamment liés au recouvrement des sommes que vous pourriez nous devoir, et la gestion des incidents de paiement ;
 
-\- de respecter nos obligations légales ou réglementaires applicables à l’activité de Rue du Commerce. 
+\- de respecter nos obligations légales ou réglementaires applicables à l’activité de Rue du Commerce. 
 
-**Vos données pourront également être utilisées pour réaliser des opérations de prospection commerciale, ou des études destinées à améliorer la connaissance client ou l’offre de services proposée.**
+**Vos données pourront également être utilisées pour réaliser des opérations de prospection commerciale, ou des études destinées à améliorer la connaissance client ou l’offre de services  proposée.**
 
 Vos données sont ainsi susceptibles d’être utilisées, dans le respect des autorisations éventuellement requises que vous nous aurez consenties :
 
@@ -278,7 +267,7 @@ Le Site est également susceptible de contenir des cookies émis par des tiers (
  **Adwords :**  
 Adwords nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.   
   
-**Awin :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Awin :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
 **Bing :**  
 Bing nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.   
   
@@ -291,20 +280,18 @@ Doubleclick nous permet de vous proposer des publicités adaptées à vos centre
 **Google Ad Manager :**  
 Google Ad Manager nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.  
   
-**Google Analytics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Google Analytics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
   
-**Facebook :** Facebook nous permet de vous proposer des publicités personnalisées.  
+**Facebook :** Facebook nous permet de vous proposer des publicités personnalisées.  
 Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/ "Facebook")
 
-**Mametrics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Mametrics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
   
-**Target 2 Sell :** Target 2 Sell nous permet de vous proposer des produits susceptibles de vous intéresser et un parcours personnalisé.  
-**Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
+**Target 2 Sell :** Target 2 Sell nous permet de vous proposer des produits susceptibles de vous intéresser et un parcours personnalisé.  
+**Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
-**Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/  
-  
-](https://twitter.com/?lang=fr "Twitter")**Veasybl  
+**Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
+Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**Veasybl  
 **Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
 **  
   
@@ -368,27 +355,16 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 12\. Qui contacter en cas de difficultes ?
 ------------------------------------------
 
-**Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
+**Service Client** : Rue du commerce, Service clients –  118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
 **Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel- 75015 Paris  
   
   
 
-[Mentions légales  
-](https://www.rueducommerce.fr/info/mentions-legales)
--------------------------------------------------------------------------
+[Mentions légales](https://www.rueducommerce.fr/info/mentions-legales)
+----------------------------------------------------------------------
 
-\- [Conditions générales de vente des produits vendus et expédiés par Rue du Commerce  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel  
-  
-](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)
+\- [Conditions générales de vente des produits vendus et expédiés par Rue du Commerce](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)
 
   
   
@@ -436,9 +412,9 @@ de tracer et administrer les preuves que Rue du Commerce doit rapporter en appli
 
 \- la gestion des éventuels contentieux, notamment liés au recouvrement des sommes que vous pourriez nous devoir, et la gestion des incidents de paiement ;
 
-\- de respecter nos obligations légales ou réglementaires applicables à l’activité de Rue du Commerce. 
+\- de respecter nos obligations légales ou réglementaires applicables à l’activité de Rue du Commerce. 
 
-**Vos données pourront également être utilisées pour réaliser des opérations de prospection commerciale, ou des études destinées à améliorer la connaissance client ou l’offre de services proposée.**
+**Vos données pourront également être utilisées pour réaliser des opérations de prospection commerciale, ou des études destinées à améliorer la connaissance client ou l’offre de services  proposée.**
 
 Vos données sont ainsi susceptibles d’être utilisées, dans le respect des autorisations éventuellement requises que vous nous aurez consenties :
 
@@ -651,7 +627,7 @@ Le Site est également susceptible de contenir des cookies émis par des tiers (
  **Adwords :**  
 Adwords nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.   
   
-**Awin :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Awin :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
 **Bing :**  
 Bing nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.   
   
@@ -664,20 +640,18 @@ Doubleclick nous permet de vous proposer des publicités adaptées à vos centre
 **Google Ad Manager :**  
 Google Ad Manager nous permet de vous proposer des publicités adaptées à vos centres d'intérêt (en fonction de votre navigation ou de vos achats) et d'en mesurer l'efficacité.  
   
-**Google Analytics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Google Analytics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
   
-**Facebook :** Facebook nous permet de vous proposer des publicités personnalisées.  
+**Facebook :** Facebook nous permet de vous proposer des publicités personnalisées.  
 Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/ "Facebook")
 
-**Mametrics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
+**Mametrics :** Cookies de performance qui nous permet de mesurer l'audience sur le site.  
   
-**Target 2 Sell :** Target 2 Sell nous permet de vous proposer des produits susceptibles de vous intéresser et un parcours personnalisé.  
-**Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
+**Target 2 Sell :** Target 2 Sell nous permet de vous proposer des produits susceptibles de vous intéresser et un parcours personnalisé.  
+**Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
-**Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/  
-  
-](https://twitter.com/?lang=fr "Twitter")**Veasybl  
+**Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
+Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**Veasybl  
 **Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
 **  
   
@@ -741,6 +715,6 @@ Vous pouvez à tout moment et facilement vous opposer au dépôt des cookies Liv
 12\. Qui contacter en cas de difficultes ?
 ------------------------------------------
 
-**Service Client** : Rue du commerce, Service clients – 118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
+**Service Client** : Rue du commerce, Service clients –  118 rue de Javel\- 75015 Paris ou au ![Numéro téléphone Service Client](https://www.rueducommerce.fr/static/drupal-front/inline-images/T%C3%A9l%C3%A9phone.gif) du lundi au vendredi de 8h à 21h, le samedi de 9h à 18h et les dimanches et jours fériés de 10h à 18h
 
 **Délégué à la Protection des Données Personnelles** : Chez Rue du Commerce, un Délégué à la Protection des Données a été désigné. Vous pouvez le contacter pour toutes questions relatives au traitement de vos données personnelles: Rue du Commerce - Délégué à la Protection des données personnelles – 118 rue de Javel- 75015 Paris
