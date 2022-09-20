@@ -7,16 +7,16 @@ En savoir plus sur l'utilisation et la protection de vos données
 
 Dans le cadre de notre activité, nous avons besoin de recueillir certaines de vos données à caractère personnel. Par ailleurs, dans le cadre de la communication établie avec vous à travers nos sites Internet, nos applications, nos produits et autres services numériques (que nous désignerons ici sous l’appellation « plateformes »), il nous arrive aussi d’enregistrer :   
 
-*   **Des informations à caractère personnel**, pour vous permettre de bénéficier des services offerts par TAP Air Portugal ;
-*   **Des données concernant votre dispositif**, à travers des fichiers appelés « cookies » servant à améliorer la performance des plateformes.
+* **Des informations à caractère personnel**, pour vous permettre de bénéficier des services offerts par TAP Air Portugal ;
+* **Des données concernant votre dispositif**, à travers des fichiers appelés « cookies » servant à améliorer la performance des plateformes.
 
   
 Cette Politique de confidentialité vise à vous donner toutes les informations nécessaires, en tant que partie intégrante de l’univers des Clients et Utilisateurs des plateformes TAP (ci-après désignés par le terme « client » ou par le pronom personnel « vous » et ses variantes grammaticales), sur :   
 
-*   les données à caractère personnel que nous recueillons ;
-*   comment et pourquoi nous les utilisons ;
-*   à qui nous les transmettons ;
-*   comment nous protégeons vos informations à caractère personnel lorsque vous utilisez nos services ou nos plateformes.
+* les données à caractère personnel que nous recueillons ;
+* comment et pourquoi nous les utilisons ;
+* à qui nous les transmettons ;
+* comment nous protégeons vos informations à caractère personnel lorsque vous utilisez nos services ou nos plateformes.
 
 Pourquoi une Politique de confidentialité?
 
@@ -36,8 +36,8 @@ Qui est responsable du traitement de vos données à caractère personnel ?
 
 Dans le cadre de cette Politique de confidentialité, les responsables du traitement de vos données à caractère personnel sont :
 
-*   L’entreprise Transportes Aéreos Portugueses, S.A. — enregistrée au Portugal, dont le siège se situe à Edifício TAP 25, à l’aéroport de Lisbonne, et inscrite sous le NIPC (numéro d’identification de personne morale) 500 278 725 ;
-*   Toute autre entreprise du Groupe TAP qui, en contexte convenu, détermine l’utilisation et les moyens de traitement des données, devenant ainsi l’entité responsable des conditions prévues par le Règlement général sur la protection des données.
+* L’entreprise Transportes Aéreos Portugueses, S.A. — enregistrée au Portugal, dont le siège se situe à Edifício TAP 25, à l’aéroport de Lisbonne, et inscrite sous le NIPC (numéro d’identification de personne morale) 500 278 725 ;
+* Toute autre entreprise du Groupe TAP qui, en contexte convenu, détermine l’utilisation et les moyens de traitement des données, devenant ainsi l’entité responsable des conditions prévues par le Règlement général sur la protection des données.
 
    
 Ces entités sont désignées, dans la présente Politique de confidentialité, comme « TAP Air Portugal », « TAP » et par le pronom personnel « nous » et ses variantes grammaticales.
@@ -52,26 +52,26 @@ Quelles données à caractère personnel recueillons-nous ?
 
 TAP Air Portugal recueille et traite les données à caractère personnel nécessaires à la prestation de ses services et/ou à la souscription de fonctionnalités, de produits et de services, dans les situations suivantes :
 
-*   lorsque vous réservez un vol ou voyagez en notre compagnie ;
-*   lorsque vous utilisez nos plateformes ;
-*   lorsque vous nous contactez, notamment à travers notre Centrale d’appel ou nos services de traitement des réclamations, suggestions ou compliments.
+* lorsque vous réservez un vol ou voyagez en notre compagnie ;
+* lorsque vous utilisez nos plateformes ;
+* lorsque vous nous contactez, notamment à travers notre Centrale d’appel ou nos services de traitement des réclamations, suggestions ou compliments.
 
   
 Nous pouvons également recueillir vos données à caractère personnel à travers d’autres entités, telles que :
 
-*   Nos fournisseurs qui vous proposent leurs services en notre nom ;
-*   Nos partenaires ;
-*   Des agents de voyage ou autres opérateurs qui réservent votre voyage.
+* Nos fournisseurs qui vous proposent leurs services en notre nom ;
+* Nos partenaires ;
+* Des agents de voyage ou autres opérateurs qui réservent votre voyage.
 
   
 Pour obtenir plus d’informations sur le partage de vos données avec d’autres entités, consultez le point « [12\. En quelles circonstances procédons-nous à un transfert international de vos données ?](https://www.flytap.com/fr-fr/confidentialite#ui-id-28) »  
   
 Vos données à caractère personnel peuvent inclure :
 
-*   votre nom ;
-*   vos données d’identification et coordonnées ;
-*   des informations concernant votre itinéraire de voyage (par exemple, votre numéro de réservation) ;
-*   des informations sur la manière dont vous utilisez nos plateformes et dont vous communiquez avec nous (consultez le point « [8\. Utilisateurs des plateformes TAP](https://www.flytap.com/fr-fr/confidentialite#ui-id-20) »).
+* votre nom ;
+* vos données d’identification et coordonnées ;
+* des informations concernant votre itinéraire de voyage (par exemple, votre numéro de réservation) ;
+* des informations sur la manière dont vous utilisez nos plateformes et dont vous communiquez avec nous (consultez le point « [8\. Utilisateurs des plateformes TAP](https://www.flytap.com/fr-fr/confidentialite#ui-id-20) »).
 
   
 Nous recueillons également des données de localisation, avec le consentement préalable du client, sans préjudice des dispositions légales applicables.  
@@ -127,19 +127,19 @@ Informations sur la manière dont vous utilisez nos plateformes et sur vos reche
 **14.** Lorsque vous décidez de fournir ces informations en créant un compte ou à travers la gestion de vos préférences, ou lorsque vous souscrivez ou annulez des services TAP :  
 Informations concernant vos souscriptions TAP (si vous avez un [compte TAP](https://www.flytap.com/fr-fr/termes-et-conditions-client-tap) ou si vous êtes membre du [programme TAP Miles&Go](https://www.flytap.com/fr-fr/termes-et-conditions-miles-and-go)), ainsi que toutes les informations liées à vos préférences.  
    
-**Catégories spéciales de données à caractère personnel**   
+**Catégories spéciales de données à caractère personnel**   
 Dans le cadre des services que nous vous proposons, il se peut que nous vous demandions des informations concernant votre origine raciale ou ethnique, des données liées à votre santé, à vos croyances religieuses ou à d’éventuelles infractions criminelles. En vertu du Règlement général sur la protection des données, ces informations sont considérées comme des « catégories spéciales de données » et ne peuvent être recueillies que dans des conditions spécifiques. Il faut que :  
 
-*   vous ayez donné votre consentement explicite ;
-*   leur traitement soit nécessaire au respect d’une obligation légale imposée à TAP Air Portugal ;
-*   vous ayez manifestement rendu publiques vos données sensibles.
+* vous ayez donné votre consentement explicite ;
+* leur traitement soit nécessaire au respect d’une obligation légale imposée à TAP Air Portugal ;
+* vous ayez manifestement rendu publiques vos données sensibles.
 
   
 Ces informations pourront être recueillies dans les cas suivants : 
 
-*   vous avez un problème de santé spécifique dont nous devons être informés ou vous avez besoin d’une assistance spéciale en vol (par exemple, une demande de chaise roulante pourra révéler des informations sur votre état de santé) ;
-*   vous nous donnez des indications concernant un régime alimentaire spécifique (qui pourra être en rapport avec votre croyance religieuse) ;
-*   vous nous fournissez les données de votre document d’identité (votre nationalité pourra nous indiquer votre origine raciale ou ethnique). 
+* vous avez un problème de santé spécifique dont nous devons être informés ou vous avez besoin d’une assistance spéciale en vol (par exemple, une demande de chaise roulante pourra révéler des informations sur votre état de santé) ;
+* vous nous donnez des indications concernant un régime alimentaire spécifique (qui pourra être en rapport avec votre croyance religieuse) ;
+* vous nous fournissez les données de votre document d’identité (votre nationalité pourra nous indiquer votre origine raciale ou ethnique). 
 
 1Si vous réservez un vol au nom d’une autre personne, vous devrez impérativement avoir son consentement concernant l’utilisation de ses données à caractère personnel.
 
