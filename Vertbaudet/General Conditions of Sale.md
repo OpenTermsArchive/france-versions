@@ -13,23 +13,23 @@ Vous pouvez nous contacter :
 
 La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une activité de ventes d'articles essentiellement destinés au marché du bébé et de l'enfant, de la future maman, de la puériculture, ainsi que de la décoration et d'aménagement de la chambre d'enfants.
 
-*   [1. L'offre](#offre)
-*   [2. Les prix](#prix)
-*   [3. La commande](#commande)
-*   [4. Le paiement](#paiement)
-*   [5. La livraison](#livraison)
+* [1. L'offre](#offre)
+* [2. Les prix](#prix)
+* [3. La commande](#commande)
+* [4. Le paiement](#paiement)
+* [5. La livraison](#livraison)
 
-*   [6. Remboursement – Retour (Droit de rétraction)](#retractation-echange)
-*   [7. Spécificités à l'égard des articles personnalisés](#specificites-articles-personnalises)
-*   [8. Liste de naissance](#liste-naissance)
-*   [9. Garanties légales](#garanties)
-*   [10. Environnement](#environnement)
+* [6. Remboursement – Retour (Droit de rétraction)](#retractation-echange)
+* [7. Spécificités à l'égard des articles personnalisés](#specificites-articles-personnalises)
+* [8. Liste de naissance](#liste-naissance)
+* [9. Garanties légales](#garanties)
+* [10. Environnement](#environnement)
 
-*   [11. Données nominatives](#donnees-nominatives)
-*   [12. Propriété intellectuelle](#propriete-intellectuelle)
-*   [13. Intégralité](#integralite)
-*   [14. Responsabilité](#responsabilite)
-*   [15. Règlement des litiges](#reglement-litiges)
+* [11. Données nominatives](#donnees-nominatives)
+* [12. Propriété intellectuelle](#propriete-intellectuelle)
+* [13. Intégralité](#integralite)
+* [14. Responsabilité](#responsabilite)
+* [15. Règlement des litiges](#reglement-litiges)
 
 Préambule
 ---------
@@ -144,8 +144,8 @@ Oney Bank se réserve le droit d’accepter ou de refuser votre demande de finan
 
 Le paiement en 3 fois sans frais par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante :
 
-*   un apport obligatoire, débité le jour de la confirmation de l’expédition de votre commande correspondant à un tiers ou à un quart de la commande ;
-*   deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois ;
+* un apport obligatoire, débité le jour de la confirmation de l’expédition de votre commande correspondant à un tiers ou à un quart de la commande ;
+* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois ;
 
 Exemple : Pour un achat de 150€, apport de 50€ puis 2 mensualités de 50€. Crédit sur 2 mois au TAEG fixe de 0%. Coût du financement 0€.
 
@@ -192,7 +192,7 @@ Pour les articles livrés non montés, le montage reste à la charge du Client. 
 
 La livraison des articles pourra s'effectuer :
 
-*   **En magasin Vertbaudet :**
+* **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
 Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) ou par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/treshttps://media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png).  
@@ -200,17 +200,17 @@ Enfin un magasin peut se réserver le droit de suspendre ce service momentanéme
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
 
-*   **En Points Relais® :**
+* **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant quatorze (14) jours. Passé ce délai, il sera retourné à vertbaudet.  
 Offre valable hors articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) et certains articles signalés par un ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/treshttps://media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png)
 
-*   **En livraison à domicile : livré chez vous ou à une autre adresse**
+* **En livraison à domicile : livré chez vous ou à une autre adresse**
 
 Valable pour tout type d’article.  
 Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu de vacances ? Rien de plus facile… il suffit de le préciser lors de votre commande : Vertbaudet livre votre colis à l'adresse de votre choix (en France métropolitaine et en Corse).
 
-*   **La Livraison à une adresse avec « emballage cadeau »**
+* **La Livraison à une adresse avec « emballage cadeau »**
 
 Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par téléphone au** 03.20.76.07.60 (coût d’un appel local depuis un poste fixe) ou **par Internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains articles.
 
@@ -225,8 +225,8 @@ Pour ouvrir droit au remboursement, les articles ne doivent pas avoir été port
 
 En cas de non-respect des conditions de retour prévues au présent article, Vertbaudet se réserve le droit :
 
-*   de ne pas rembourser les articles retournés;
-*   de procéder à leur don ou à leur destruction.
+* de ne pas rembourser les articles retournés;
+* de procéder à leur don ou à leur destruction.
 
 ### 6.1 Droit de rétractation
 
@@ -234,9 +234,9 @@ Tous les articles achetés sur le site [www.vertbaudet.fr](https://www.vertbaude
 
 Selon l’article L221-28 du Code de la consommation, le droit de rétractation ne peut pas être exercé pour les catégories suivantes d’articles :
 
-*   biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
-*   biens qui ont été descellés par le consommateur après la livraison ;
-*   biens qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé.
+* biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
+* biens qui ont été descellés par le consommateur après la livraison ;
+* biens qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé.
 
 Vous disposez de 15 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en nous retournant par courrier libre ou [par email](https://www.vertbaudet.fr/page/contactez_nous.htm) le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf). Vous disposez de 15 jours supplémentaires à compter de l'envoi de la notification de retour, pour nous retourner un article de votre commande, selon les disposions prévues au paragraphe 6.2 Retours.
 
@@ -261,15 +261,15 @@ Pour retourner un article, il vous suffit de vous connecter à votre compte clie
 
 Vous pouvez retourner l'article :
 
-*   Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge).
+* Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge).
     
-*   Soit en déposant gratuitement l'article directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
+* Soit en déposant gratuitement l'article directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
-    **Non valable pour les autres articles signalés par ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) ou par ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/treshttps://media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) ** .
+    **Non valable pour les autres articles signalés par ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png) ou par ![](https://www.vertbaudet.fr/fstrz/r/s/media.vertbaudet.fr/medias/44/0/30112/636349799/treshttps://media.vertbaudet.fr/medias/44/0/30112/636349799/volumineux.png)**  .
     
-*   Soit en déposant gratuitement l'article directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
+* Soit en déposant gratuitement l'article directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
-    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ou par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ** .
+    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ou par ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)**  .
     
 
 S'il s'agit d'un article signalé par le sigle ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) ou ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
@@ -278,19 +278,19 @@ En cas de retour exercé conformément au présent article, Vertbaudet s'engage 
 
 Les preuves d'envoi acceptées, sont :
 
-*   Le coupon de dépôt, en Point Relais ;
+* Le coupon de dépôt, en Point Relais ;
     
-*   les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
+* les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
 
 Si la commande d'articles a été réglée :
 
-*   Par Paypal, et que le compte Paypal est toujours actif, le remboursement de vos retours sera effectué sur ce compte Paypal.
+* Par Paypal, et que le compte Paypal est toujours actif, le remboursement de vos retours sera effectué sur ce compte Paypal.
     
-*   Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d'échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak.
+* Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d'échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak.
     
-*   En 3 fois par Carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées.
+* En 3 fois par Carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées.
     
-*   Par Carte cadeau Vertbaudet, le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
+* Par Carte cadeau Vertbaudet, le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
     
 
 Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 ci-dessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique Mes retours.
