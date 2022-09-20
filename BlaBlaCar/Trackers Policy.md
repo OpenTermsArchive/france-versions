@@ -22,15 +22,15 @@ La liste de nos partenaires et les politiques de confidentialité respectives po
 
 Les types de cookies suivants sont utilisés sur nos plateformes :
 
-*   **Cookies essentiels :**
+* **Cookies essentiels :**
 
 Ces cookies sont indispensables pour utiliser BlaBlaCar et ses fonctionnalités de base comme la connexion au compte ou la réservation de trajets. Ils permettent également de prévenir les éventuelles attaques de sécurité. Vous ne pouvez pas les désactiver, car ils sont essentiels au bon fonctionnement de BlaBlaCar.
 
-*   **Cookies de performance :**
+* **Cookies de performance :**
 
 Ces cookies nous permettent d’identifier les pages les plus appréciées et les moins appréciées par nos utilisateurs, ainsi que les plus utiles. Grâce à eux, nous améliorons l’efficacité de l’appli en nous assurant, par exemple, que les utilisateurs trouvent facilement ce qu’ils recherchent. Ces cookies sont déposés par nos partenaires ou par nous-mêmes à des fins d’analyse. Si vous ne les autorisez pas, ni nous ni ces partenaires ne seront informés de vos visites sur BlaBlaCar.
 
-*   **Cookies publicitaires et de ciblage :**
+* **Cookies publicitaires et de ciblage :**
 
 Ces cookies nous informent de votre visite sur la plateforme , sur les pages consultées et sur les liens sur lesquels vous cliquez. Ils nous sont utiles pour vous proposer des publicités pertinentes, et nous aident à analyser l’efficacité de nos campagnes publicitaires. Ces cookies sont déposés par nos partenaires publicitaires ou par nous-mêmes à des fins d’analyse. Si vous ne les autorisez pas, les publicités proposées correspondront moins à vos besoins.
 
