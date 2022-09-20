@@ -40,9 +40,9 @@ Sommaire
 
 Notre gamme de services permet tous les jours à des millions de personnes d'explorer le monde et d'interagir avec celui-ci de manière innovante. Voici certains des services que nous proposons :
 
-*   Des applications, des sites et des appareils Google, tels que la recherche Google, YouTube et Google Home
-*   Des plates-formes, telles que le navigateur Chrome et le système d'exploitation Android
-*   Des produits intégrés dans des applis et des sites tiers, comme Ads, Analytics et la version intégrée de Google Maps
+* Des applications, des sites et des appareils Google, tels que la recherche Google, YouTube et Google Home
+* Des plates-formes, telles que le navigateur Chrome et le système d'exploitation Android
+* Des produits intégrés dans des applis et des sites tiers, comme Ads, Analytics et la version intégrée de Google Maps
 
 Nos services vous permettent de gérer la confidentialité de vos données de plusieurs manières. Vous pouvez par exemple créer un compte Google si vous voulez élaborer et gérer du contenu tel que des e-mails et des photos, ou voir des résultats de recherche plus pertinents. Vous pouvez également utiliser de nombreux services Google sans être connecté, voire même sans avoir créé de compte (c'est notamment le cas pour la recherche Google ou le visionnage de vidéos sur YouTube). Vous pouvez aussi naviguer sur le Web en toute discrétion à l'aide du mode navigation privée de Chrome. Tous nos services vous permettent d'ajuster vos paramètres de confidentialité de manière à contrôler les informations que nous collectons et la façon dont nous les utilisons.
 
@@ -81,14 +81,14 @@ Nous collectons ces informations lorsqu'un service Google contacte nos serveurs 
 
 Nous collectons des informations relatives à votre activité au sein de nos services. Celles-ci nous permettent par exemple de vous recommander une vidéo YouTube susceptible de vous intéresser. Les informations relatives à votre activité que nous recueillons peuvent inclure les éléments suivants :
 
-*   Les termes que vous recherchez.
-*   Les vidéos que vous regardez.
-*   [Vos vues de contenu et d'annonces ainsi que vos interactions avec ces derniers.](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-content-views)
-*   [Informations audio et vocales](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-voice-audio-information)
-*   L'activité relative aux achats.
-*   Les personnes avec lesquelles vous communiquez ou partagez du contenu.
-*   L'activité sur des applications et sites tiers qui utilisent nos services.
-*   L'historique de navigation Chrome que vous avez [synchronisé avec votre compte Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-chrome-sync).
+* Les termes que vous recherchez.
+* Les vidéos que vous regardez.
+* [Vos vues de contenu et d'annonces ainsi que vos interactions avec ces derniers.](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-content-views)
+* [Informations audio et vocales](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-voice-audio-information)
+* L'activité relative aux achats.
+* Les personnes avec lesquelles vous communiquez ou partagez du contenu.
+* L'activité sur des applications et sites tiers qui utilisent nos services.
+* L'historique de navigation Chrome que vous avez [synchronisé avec votre compte Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-chrome-sync).
 
 Si vous utilisez nos [services pour passer et recevoir des appels ou envoyer et recevoir des messages](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-calls-messages), nous sommes susceptibles de collecter des informations sur les appels et les messages, tels que votre numéro de téléphone, celui de l'émetteur, celui du destinataire, les numéros de transfert, l'adresse e-mail de l'émetteur et du destinataire, l'heure et la date des appels et des messages, la durée des appels, les données de routage, ainsi que les types et volumes d'appels et de messages.
 
@@ -102,10 +102,10 @@ Nous collectons des informations sur votre position lorsque vous utilisez nos se
 
 Votre position géographique peut être déterminée avec des degrés de précision différents à l'aide des éléments suivants :
 
-*   GPS et autres [données des capteurs de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensor-data)
-*   [Adresse IP](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-ip)
-*   Activité sur les services Google, comme vos recherches et les lieux auxquels vous ajoutez un libellé (domicile ou travail, par exemple)
-*   Des [informations relatives à des éléments à proximité de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-near-device), tels que des points d'accès Wi-Fi, des antennes-relais et des appareils sur lesquels le Bluetooth est activé
+* GPS et autres [données des capteurs de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensor-data)
+* [Adresse IP](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-ip)
+* Activité sur les services Google, comme vos recherches et les lieux auxquels vous ajoutez un libellé (domicile ou travail, par exemple)
+* Des [informations relatives à des éléments à proximité de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-near-device), tels que des points d'accès Wi-Fi, des antennes-relais et des appareils sur lesquels le Bluetooth est activé
 
 Le type de données de localisation que nous collectons et la durée pendant laquelle nous les conservons dépendent en partie des paramètres définis sur votre appareil et dans votre compte. Vous pouvez par exemple [activer ou désactiver la localisation de votre appareil Android](https://support.google.com/accounts?p=privpol_location&hl=fr) dans les paramètres de ce dernier. Vous pouvez également activer l'[historique des positions](https://support.google.com/accounts?p=privpol_lochistory&hl=fr) si vous voulez créer une carte privée des lieux où vous vous rendez avec les appareils sur lesquels vous êtes connecté(e) à votre compte Google. Et si le paramètre "Activité sur le Web et les applications" est activé, vos recherches et autres activités sur les services Google, y compris les informations de localisation éventuelles, sont enregistrées dans votre compte Google. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
 
@@ -140,9 +140,9 @@ Nous utilisons les informations que nous collectons pour personnaliser nos servi
 
 Selon vos paramètres, nous pouvons également vous présenter des [annonces personnalisées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personalized-ads) sélectionnées sur la base de vos centres d'intérêt. Par exemple, si vous effectuez une recherche sur "VTT", il est possible qu'une annonce faisant la promotion d'équipement de sport s'affiche lorsque vous parcourez un site sur lequel la diffusion des annonces est assurée par Google. Vous pouvez accéder aux paramètres des annonces afin de gérer les informations que nous utilisons pour vous présenter des annonces.
 
-*   Nous ne vous présentons pas d'annonces personnalisées en fonction de [catégories sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-categories), telles que la race, la religion, l'orientation sexuelle ou la santé.
-*   Nous ne vous présentons pas d'annonces personnalisées en fonction de vos contenus sur Drive, Gmail ou Photos.
-*   Sauf demande expresse de votre part, nous ne partageons pas d'informations qui permettent de vous identifier, telles que votre nom ou votre adresse e-mail, avec les annonceurs. Par exemple, si vous voyez une annonce faisant la promotion d'un fleuriste à proximité et que vous appuyez sur le bouton "Appuyer pour appeler", nous établirons la liaison téléphonique et pourrons partager votre numéro de téléphone avec le fleuriste.
+* Nous ne vous présentons pas d'annonces personnalisées en fonction de [catégories sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-categories), telles que la race, la religion, l'orientation sexuelle ou la santé.
+* Nous ne vous présentons pas d'annonces personnalisées en fonction de vos contenus sur Drive, Gmail ou Photos.
+* Sauf demande expresse de votre part, nous ne partageons pas d'informations qui permettent de vous identifier, telles que votre nom ou votre adresse e-mail, avec les annonceurs. Par exemple, si vous voyez une annonce faisant la promotion d'un fleuriste à proximité et que vous appuyez sur le bouton "Appuyer pour appeler", nous établirons la liaison téléphonique et pourrons partager votre numéro de téléphone avec le fleuriste.
 
 [Accéder aux paramètres des annonces](https://adssettings.google.com/?ref=privacy-policy&hl=fr)
 
@@ -238,9 +238,9 @@ Gérez vos coordonnées, telles que votre nom, votre adresse e-mail et votre num
 
 Lorsque vous n'êtes pas connecté à votre compte, vous pouvez gérer les informations associées à votre navigateur ou à votre appareil, dont les éléments suivants :
 
-*   Personnalisation des recherches effectuées lorsque vous n'êtes pas connecté à votre compte : vous pouvez [décider](https://www.google.com/history/optout?utm_source=pp&hl=fr) de nous permettre ou non d'utiliser votre activité de recherche pour vous proposer des résultats et des recommandations plus pertinents.
-*   Paramètres YouTube : vous pouvez suspendre et supprimer votre [historique des recherches YouTube](https://www.youtube.com/feed/history/search_history?utm_source=pp&hl=fr) ainsi que votre [historique des vidéos regardées sur YouTube](https://www.youtube.com/feed/history?utm_source=pp&hl=fr).
-*   Paramètres des annonces : vous pouvez [gérer](https://adssettings.google.com/?ref=privacy-policy&hl=fr) vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui s'associent à Google pour diffuser des annonces.
+* Personnalisation des recherches effectuées lorsque vous n'êtes pas connecté à votre compte : vous pouvez [décider](https://www.google.com/history/optout?utm_source=pp&hl=fr) de nous permettre ou non d'utiliser votre activité de recherche pour vous proposer des résultats et des recommandations plus pertinents.
+* Paramètres YouTube : vous pouvez suspendre et supprimer votre [historique des recherches YouTube](https://www.youtube.com/feed/history/search_history?utm_source=pp&hl=fr) ainsi que votre [historique des vidéos regardées sur YouTube](https://www.youtube.com/feed/history?utm_source=pp&hl=fr).
+* Paramètres des annonces : vous pouvez [gérer](https://adssettings.google.com/?ref=privacy-policy&hl=fr) vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui s'associent à Google pour diffuser des annonces.
 
 Exporter et supprimer vos informations
 --------------------------------------
@@ -253,10 +253,10 @@ Vous pouvez également formuler une [demande de suppression de contenu](https://
 
 Les options suivantes s'offrent à vous si vous souhaitez supprimer vos informations :
 
-*   Supprimer votre contenu de [services Google spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-delete-specific)
-*   Rechercher, puis supprimer des éléments spécifiques de votre compte depuis la page [Mon activité](https://myactivity.google.com/?utm_source=pp&hl=fr)
-*   [Supprimer des produits Google spécifiques](https://myaccount.google.com/deleteservices?utm_source=pp&hl=fr), y compris vos informations associées à ces produits
-*   [Supprimer l'ensemble de votre compte Google](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=fr)
+* Supprimer votre contenu de [services Google spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-delete-specific)
+* Rechercher, puis supprimer des éléments spécifiques de votre compte depuis la page [Mon activité](https://myactivity.google.com/?utm_source=pp&hl=fr)
+* [Supprimer des produits Google spécifiques](https://myaccount.google.com/deleteservices?utm_source=pp&hl=fr), y compris vos informations associées à ces produits
+* [Supprimer l'ensemble de votre compte Google](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=fr)
 
 [Supprimer vos informations](https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=fr)
 
@@ -266,8 +266,8 @@ Pour terminer, le [Gestionnaire de compte inactif](https://myaccount.google.com/
 
 D'autres moyens vous permettent de contrôler les informations que nous collectons, que vous soyez ou non connecté à un compte Google, notamment les suivants :
 
-*   Paramètres du navigateur : vous pouvez par exemple configurer votre navigateur afin d'être informé lorsque Google a placé un [cookie](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-cookies) dans votre navigateur. Vous pouvez également le configurer de façon à ce qu'il bloque tous les cookies associés à un domaine spécifique ou à tous les domaines. Gardez toutefois à l'esprit que nos services [reposent sur les cookies pour fonctionner correctement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-rely-on-cookies), notamment pour conserver vos préférences linguistiques.
-*   Paramètres au niveau de l'appareil : Il est possible que certains paramètres de votre appareil permettent de contrôler les informations que nous collectons. Vous pouvez par exemple [modifier les paramètres de localisation](https://support.google.com/websearch?p=privpol_locserp&hl=fr) sur votre appareil Android.
+* Paramètres du navigateur : vous pouvez par exemple configurer votre navigateur afin d'être informé lorsque Google a placé un [cookie](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-cookies) dans votre navigateur. Vous pouvez également le configurer de façon à ce qu'il bloque tous les cookies associés à un domaine spécifique ou à tous les domaines. Gardez toutefois à l'esprit que nos services [reposent sur les cookies pour fonctionner correctement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-rely-on-cookies), notamment pour conserver vos préférences linguistiques.
+* Paramètres au niveau de l'appareil : Il est possible que certains paramètres de votre appareil permettent de contrôler les informations que nous collectons. Vous pouvez par exemple [modifier les paramètres de localisation](https://support.google.com/websearch?p=privpol_locserp&hl=fr) sur votre appareil Android.
 
 Partager vos informations
 =========================
@@ -292,12 +292,12 @@ Nous ne communiquons vos informations personnelles à des tiers qu'avec votre co
 
 Si vous êtes étudiant ou que vous travaillez pour une organisation qui a recours aux services Google, l'[administrateur de domaine](https://support.google.com/a?p=privpol_admin&hl=fr) et les revendeurs qui gèrent votre compte ont accès à votre compte Google. Ils peuvent effectuer les opérations suivantes :
 
-*   Accéder aux informations stockées dans votre compte, telles que votre adresse e-mail, et les conserver
-*   Consulter les statistiques relatives à votre compte, telles que le nombre d'applications que vous installez
-*   Modifier le mot de passe de votre compte
-*   Suspendre ou supprimer l'accès à votre compte
-*   Recevoir les informations propres à votre compte pour satisfaire à des obligations légales, réglementaires, judiciaires ou administratives
-*   Restreindre vos droits de suppression ou de modification de vos données ou de vos paramètres de confidentialité
+* Accéder aux informations stockées dans votre compte, telles que votre adresse e-mail, et les conserver
+* Consulter les statistiques relatives à votre compte, telles que le nombre d'applications que vous installez
+* Modifier le mot de passe de votre compte
+* Suspendre ou supprimer l'accès à votre compte
+* Recevoir les informations propres à votre compte pour satisfaire à des obligations légales, réglementaires, judiciaires ou administratives
+* Restreindre vos droits de suppression ou de modification de vos données ou de vos paramètres de confidentialité
 
 ### Pour des besoins de traitement externe
 
@@ -307,10 +307,10 @@ Nous transmettons des informations personnelles à nos [sociétés affiliées](h
 
 Nous ne partagerons des informations personnelles avec des personnes tierces que si nous pensons en toute bonne foi que l'accès, l'utilisation, la protection ou la divulgation de ces informations est raisonnablement justifiée pour effectuer les opérations suivantes :
 
-*   Se conformer à des obligations légales, réglementaires, [judiciaires ou administratives](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-legal). Nous partageons des informations relatives au nombre et au type de demandes que les autorités administratives nous envoient via notre service [Transparence des informations](https://transparencyreport.google.com/user-data/overview?hl=fr).
-*   Faire appliquer les conditions d'utilisation en vigueur, y compris pour constater d'éventuels manquements à celles-ci.
-*   Déceler, éviter ou traiter des activités frauduleuses, des atteintes à la sécurité ou tout problème d'ordre technique.
-*   Se prémunir contre toute atteinte aux droits, aux biens ou à la sécurité de Google, de ses utilisateurs ou du public, en application et dans le respect de la loi.
+* Se conformer à des obligations légales, réglementaires, [judiciaires ou administratives](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-legal). Nous partageons des informations relatives au nombre et au type de demandes que les autorités administratives nous envoient via notre service [Transparence des informations](https://transparencyreport.google.com/user-data/overview?hl=fr).
+* Faire appliquer les conditions d'utilisation en vigueur, y compris pour constater d'éventuels manquements à celles-ci.
+* Déceler, éviter ou traiter des activités frauduleuses, des atteintes à la sécurité ou tout problème d'ordre technique.
+* Se prémunir contre toute atteinte aux droits, aux biens ou à la sécurité de Google, de ses utilisateurs ou du public, en application et dans le respect de la loi.
 
 Nous pouvons être amenés à partager publiquement, ainsi qu'avec nos partenaires (éditeurs, annonceurs, développeurs ou détenteurs de droits) des [informations qui ne permettent pas d'identifier personnellement l'utilisateur](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-info). Par exemple, nous partageons publiquement des [informations relatives aux tendances](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-trends) d'utilisation de nos services. Nous autorisons également des [partenaires spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-specific-partners) à utiliser leurs propres cookies ou technologies similaires pour collecter des informations contenues dans votre navigateur ou dans votre appareil à des fins publicitaires et d'évaluation.
 
@@ -325,10 +325,10 @@ Tous les produits Google intègrent de puissantes fonctionnalités de sécurité
 
 Nous mettons en œuvre toutes les mesures de sécurité nécessaires pour vous protéger, ainsi que Google, contre tout accès, toute modification, divulgation ou destruction non autorisés des informations que nous détenons. Ces mesures sont notamment les suivantes :
 
-*   Nous chiffrons vos données afin d'en garantir la confidentialité dans le cadre de transferts.
-*   Nous proposons de nombreuses fonctionnalités de sécurité, telles que la [navigation sécurisée](https://safebrowsing.google.com/?utm_source=pp&hl=fr), le Check-up Sécurité et la [validation en deux étapes](https://www.google.com/landing/2step/?utm_source=pp&hl=fr), pour vous aider à protéger votre compte.
-*   Nous menons des audits internes sur la collecte, le stockage et le traitement des données, y compris les mesures de sécurité physiques, afin d'empêcher tout accès non autorisé à nos systèmes.
-*   L'accès aux informations personnelles est strictement réservé aux employés, sous-traitants et agents de Google qui ont besoin d'y accéder afin de les traiter en notre nom. Toute personne y ayant accès est soumise à de strictes obligations de confidentialité et est susceptible de faire l'objet de sanctions disciplinaires pouvant aller jusqu'au licenciement en cas de manquement à ces obligations.
+* Nous chiffrons vos données afin d'en garantir la confidentialité dans le cadre de transferts.
+* Nous proposons de nombreuses fonctionnalités de sécurité, telles que la [navigation sécurisée](https://safebrowsing.google.com/?utm_source=pp&hl=fr), le Check-up Sécurité et la [validation en deux étapes](https://www.google.com/landing/2step/?utm_source=pp&hl=fr), pour vous aider à protéger votre compte.
+* Nous menons des audits internes sur la collecte, le stockage et le traitement des données, y compris les mesures de sécurité physiques, afin d'empêcher tout accès non autorisé à nos systèmes.
+* L'accès aux informations personnelles est strictement réservé aux employés, sous-traitants et agents de Google qui ont besoin d'y accéder afin de les traiter en notre nom. Toute personne y ayant accès est soumise à de strictes obligations de confidentialité et est susceptible de faire l'objet de sanctions disciplinaires pouvant aller jusqu'au licenciement en cas de manquement à ces obligations.
 
 Exporter et supprimer vos informations
 ======================================
@@ -341,10 +341,10 @@ Vous pouvez exporter une copie du contenu de votre compte Google si vous souhait
 
 Les options suivantes s'offrent à vous si vous souhaitez supprimer vos informations :
 
-*   Supprimer votre contenu de [services Google spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-delete-specific)
-*   Rechercher, puis supprimer des éléments spécifiques de votre compte depuis la page [Mon activité](https://myactivity.google.com/?utm_source=pp&hl=fr)
-*   [Supprimer des produits Google spécifiques](https://myaccount.google.com/deleteservices?utm_source=pp&hl=fr), y compris vos informations associées à ces produits
-*   [Supprimer l'ensemble de votre compte Google](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=fr)
+* Supprimer votre contenu de [services Google spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-delete-specific)
+* Rechercher, puis supprimer des éléments spécifiques de votre compte depuis la page [Mon activité](https://myactivity.google.com/?utm_source=pp&hl=fr)
+* [Supprimer des produits Google spécifiques](https://myaccount.google.com/deleteservices?utm_source=pp&hl=fr), y compris vos informations associées à ces produits
+* [Supprimer l'ensemble de votre compte Google](https://myaccount.google.com/deleteaccount?utm_source=pp&hl=fr)
 
 [Supprimer vos informations](https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=fr)
 
@@ -353,10 +353,10 @@ Conservation de vos informations
 
 Nous conservons les données que nous recueillons pour des périodes plus ou moins longues en fonction de leur nature, de l'utilisation que nous en faisons et des paramètres que vous avez configurés :
 
-*   Vous pouvez supprimer certaines données à tout moment, telles que les contenus que vous créez ou importez. Vous pouvez aussi [supprimer les informations relatives à votre activité](https://myactivity.google.com/myactivity?hl=fr) qui sont enregistrées dans votre compte, ou [faire en sorte qu'elles soient supprimées automatiquement](https://support.google.com/accounts/answer/465?authuser=0&hl=fr#auto-delete) après une période donnée.
-*   D'autres données, telles que les [données publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR) dans les journaux de nos serveurs, sont automatiquement supprimées ou anonymisées selon un calendrier défini.
-*   Nous conservons certaines données jusqu'à ce que vous les supprimiez de votre compte Google (par exemple, les informations sur la fréquence à laquelle vous utilisez nos services).
-*   Nous conservons également certaines données plus longtemps si nécessaire, à des fins commerciales légitimes ou si la loi nous l'impose (que ce soit à des fins de sécurité, d'archivage de données financières, ou de prévention de la fraude et des abus).
+* Vous pouvez supprimer certaines données à tout moment, telles que les contenus que vous créez ou importez. Vous pouvez aussi [supprimer les informations relatives à votre activité](https://myactivity.google.com/myactivity?hl=fr) qui sont enregistrées dans votre compte, ou [faire en sorte qu'elles soient supprimées automatiquement](https://support.google.com/accounts/answer/465?authuser=0&hl=fr#auto-delete) après une période donnée.
+* D'autres données, telles que les [données publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR) dans les journaux de nos serveurs, sont automatiquement supprimées ou anonymisées selon un calendrier défini.
+* Nous conservons certaines données jusqu'à ce que vous les supprimiez de votre compte Google (par exemple, les informations sur la fréquence à laquelle vous utilisez nos services).
+* Nous conservons également certaines données plus longtemps si nécessaire, à des fins commerciales légitimes ou si la loi nous l'impose (que ce soit à des fins de sécurité, d'archivage de données financières, ou de prévention de la fraude et des abus).
 
 Lorsque vous supprimez des informations, nous appliquons un règlement spécifique de manière qu'elles soient supprimées de nos serveurs de façon complète et sécurisée, ou conservées après avoir été rendues anonymes. Nous prenons toutes les dispositions nécessaires pour que nos services protègent les informations contre toute destruction accidentelle ou volontaire. Il se peut de ce fait que vous constatiez un certain délai entre le moment où vous supprimez un élément et celui où les copies de l'élément en question sont supprimées de nos systèmes actifs et de sauvegarde.
 
@@ -381,8 +381,8 @@ Si la législation de l'Union européenne (UE) ou du Royaume-Uni s'applique au t
 
 Sauf indication contraire dans un avis de confidentialité spécifique au service, le [responsable du traitement de vos informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-data-controller) dépend de votre lieu de résidence :
 
-*   Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse
-*   Google LLC pour les utilisateurs de services Google basés au Royaume-Uni
+* Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse
+* Google LLC pour les utilisateurs de services Google basés au Royaume-Uni
 
 Google LLC est responsable du traitement des informations indexées et affichées dans des services tels que la [Recherche Google](https://www.google.com/search/howsearchworks/crawling-indexing/?hl=fr) et Google Maps, indépendamment de votre position.
 
@@ -396,17 +396,17 @@ Nous vous demandons l'autorisation de traiter vos informations à des fins spéc
 
 Nous traitons vos informations conformément à nos intérêts légitimes, ainsi qu'à ceux de [tiers](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-third-parties), tout en appliquant des [mesures de protection appropriées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-safeguards) qui garantissent la confidentialité de vos données. Cela signifie que nous traitons vos informations notamment pour effectuer les opérations suivantes :
 
-*   Proposer nos services, en assurer le fonctionnement et les améliorer pour répondre aux besoins de nos utilisateurs.
-*   Développer de nouveaux produits et de nouvelles fonctionnalités utiles pour nos utilisateurs.
-*   Comprendre la façon dont nos services sont utilisés afin [d'en assurer et d'en améliorer](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-improve) les performances.
-*   [Personnaliser nos services](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-customizing) afin de vous offrir une meilleure expérience utilisateur (et, le cas échéant, l'adapter à l'âge)
-*   Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
-*   Avoir recours à la publicité, ce qui nous permet de proposer sans frais beaucoup de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
-*   Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
-*   Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
-*   Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
-*   Remplir des obligations envers nos partenaires (développeurs et détenteurs de droits, par exemple).
-*   Faire respecter des décisions de justice, y compris pour constater d'éventuels cas de non-respect des conditions d'utilisation applicables.
+* Proposer nos services, en assurer le fonctionnement et les améliorer pour répondre aux besoins de nos utilisateurs.
+* Développer de nouveaux produits et de nouvelles fonctionnalités utiles pour nos utilisateurs.
+* Comprendre la façon dont nos services sont utilisés afin [d'en assurer et d'en améliorer](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-improve) les performances.
+* [Personnaliser nos services](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-customizing) afin de vous offrir une meilleure expérience utilisateur (et, le cas échéant, l'adapter à l'âge)
+* Mener des actions de marketing en vue de faire connaître nos services auprès des utilisateurs.
+* Avoir recours à la publicité, ce qui nous permet de proposer sans frais beaucoup de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
+* Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
+* Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
+* Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
+* Remplir des obligations envers nos partenaires (développeurs et détenteurs de droits, par exemple).
+* Faire respecter des décisions de justice, y compris pour constater d'éventuels cas de non-respect des conditions d'utilisation applicables.
 
 ### Lorsque nous fournissons un service
 
@@ -430,8 +430,8 @@ Les présentes Règles de confidentialité s'appliquent à tous les services pro
 
 Les présentes Règles de confidentialité ne s'appliquent pas aux éléments suivants :
 
-*   Les pratiques en matière de protection des informations d'autres sociétés et organisations qui font la promotion de nos services.
-*   Les services proposés par d'autres sociétés ou personnes, y compris les produits et sites qui peuvent avoir recours à des services Google auxquels s'appliquent ces règles, ou les produits ou sites qui vous sont proposés dans les résultats de recherche ou accessibles à partir de nos services
+* Les pratiques en matière de protection des informations d'autres sociétés et organisations qui font la promotion de nos services.
+* Les services proposés par d'autres sociétés ou personnes, y compris les produits et sites qui peuvent avoir recours à des services Google auxquels s'appliquent ces règles, ou les produits ou sites qui vous sont proposés dans les résultats de recherche ou accessibles à partir de nos services
 
 Modifications apportées aux présentes règles
 --------------------------------------------
@@ -446,16 +446,16 @@ Services Google spécifiques
 
 Les avis de confidentialité suivants fournissent des informations supplémentaires sur certains services Google :
 
-*   [Chrome et le système d'exploitation Chrome](https://www.google.com/chrome/intl/fr/privacy.html)
-*   [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=fr)
-*   [Fiber](https://fiber.google.com/legal/privacy.html)
-*   [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
-*   [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
-*   [Read Along](https://readalong.google/intl/fr_FR/privacy)
-*   [YouTube Kids](https://kids.youtube.com/privacynotice)
-*   [Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)](https://families.google.com/familylink/privacy/child-policy/)
-*   [Guide de confidentialité Family Link destiné aux enfants et aux adolescents](https://families.google.com/familylink/privacy/child-disclosure/?hl=fr)
-*   [Collecte des données vocales et audio issues des fonctionnalités pour enfants sur l'Assistant Google](https://assistant.google.com/privacy-notice-childrens-features/?hl=fr)
+* [Chrome et le système d'exploitation Chrome](https://www.google.com/chrome/intl/fr/privacy.html)
+* [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=fr)
+* [Fiber](https://fiber.google.com/legal/privacy.html)
+* [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
+* [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
+* [Read Along](https://readalong.google/intl/fr_FR/privacy)
+* [YouTube Kids](https://kids.youtube.com/privacynotice)
+* [Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)](https://families.google.com/familylink/privacy/child-policy/)
+* [Guide de confidentialité Family Link destiné aux enfants et aux adolescents](https://families.google.com/familylink/privacy/child-disclosure/?hl=fr)
+* [Collecte des données vocales et audio issues des fonctionnalités pour enfants sur l'Assistant Google](https://assistant.google.com/privacy-notice-childrens-features/?hl=fr)
 
 Si vous faites partie d'une organisation ayant recours à Google Workspace ou Google Cloud Platform, consultez l'[Avis de confidentialité de Google Cloud](https://cloud.google.com/terms/cloud-privacy-notice?hl=fr) pour découvrir comment ces services collectent et utilisent vos informations personnelles.
 
@@ -464,16 +464,16 @@ Autres ressources utiles
 
 Les liens suivants renvoient vers des ressources utiles qui vous permettent d'en savoir plus sur nos pratiques et nos paramètres de confidentialité.
 
-*   Votre [compte Google](https://myaccount.google.com/?hl=fr) comporte de nombreux paramètres vous permettant de le gérer.
-*   Le [Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=fr) vous présente les paramètres de confidentialité clés de votre compte Google.
-*   Le [Centre de sécurité de Google](https://www.google.com/intl/fr/safetycenter/) vous permet d'en savoir plus sur les options de sécurité intégrées, les paramètres de confidentialité et les outils qui permettent de définir des règles de base pour votre famille concernant l'utilisation de produits numériques en ligne.
-*   Le [Guide de confidentialité Google destiné aux adolescents](https://www.google.com/policies/privacy/teens/?hl=fr) fournit des réponses à certaines des questions essentielles qui nous sont posées sur la confidentialité
-*   Les [Règles de confidentialité et Conditions d'utilisation](https://policies.google.com/?hl=fr-FR&gl=FR) offrent davantage de contexte en lien avec les présentes Règles de confidentialité et nos Conditions d'utilisation.
-*   La page [Technologies](https://policies.google.com/technologies?hl=fr-FR&gl=FR) inclut davantage d'informations sur les éléments suivants :
-    *   [Comment Google utilise les cookies](https://policies.google.com/technologies/cookies?hl=fr-FR&gl=FR)
-    *   Technologies utilisées à des fins [publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR)
-    *   [Utilisation de la reconnaissance de formes par Google](https://policies.google.com/technologies/pattern-recognition?hl=fr-FR&gl=FR) pour détecter des éléments, tels que des visages sur des photos
-    *   [Comment utilisons-nous les informations collectées via les sites ou applications qui font appel à nos services ?](https://policies.google.com/technologies/partner-sites?hl=fr-FR&gl=FR)
+* Votre [compte Google](https://myaccount.google.com/?hl=fr) comporte de nombreux paramètres vous permettant de le gérer.
+* Le [Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=fr) vous présente les paramètres de confidentialité clés de votre compte Google.
+* Le [Centre de sécurité de Google](https://www.google.com/intl/fr/safetycenter/) vous permet d'en savoir plus sur les options de sécurité intégrées, les paramètres de confidentialité et les outils qui permettent de définir des règles de base pour votre famille concernant l'utilisation de produits numériques en ligne.
+* Le [Guide de confidentialité Google destiné aux adolescents](https://www.google.com/policies/privacy/teens/?hl=fr) fournit des réponses à certaines des questions essentielles qui nous sont posées sur la confidentialité
+* Les [Règles de confidentialité et Conditions d'utilisation](https://policies.google.com/?hl=fr-FR&gl=FR) offrent davantage de contexte en lien avec les présentes Règles de confidentialité et nos Conditions d'utilisation.
+* La page [Technologies](https://policies.google.com/technologies?hl=fr-FR&gl=FR) inclut davantage d'informations sur les éléments suivants :
+    * [Comment Google utilise les cookies](https://policies.google.com/technologies/cookies?hl=fr-FR&gl=FR)
+    * Technologies utilisées à des fins [publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR)
+    * [Utilisation de la reconnaissance de formes par Google](https://policies.google.com/technologies/pattern-recognition?hl=fr-FR&gl=FR) pour détecter des éléments, tels que des visages sur des photos
+    * [Comment utilisons-nous les informations collectées via les sites ou applications qui font appel à nos services ?](https://policies.google.com/technologies/partner-sites?hl=fr-FR&gl=FR)
 
 Termes clés
 -----------
@@ -529,11 +529,11 @@ http://www.google.com/search?q=cars -
 Firefox 1.0.7; Windows NT 5.1 -  
 740674ce2123e969
 
-*   `123.45.67.89` correspond à l'adresse IP attribuée à l'utilisateur par son fournisseur d'accès Internet. Selon le type d'accès de l'utilisateur, le fournisseur peut lui attribuer une adresse IP différente à chaque connexion à Internet.
-*   `25/Mar/2003 10:15:32` correspond à la date et à l'heure de la requête.
-*   `http://www.google.com/search?q=cars` correspond à l'URL demandée incluant la requête de recherche.
-*   `Firefox 1.0.7; Windows NT 5.1` correspond au navigateur et au système d'exploitation utilisés.
-*   `740674ce2123a969` correspond à l'ID de cookie unique attribué à cet ordinateur lors de son premier accès à Google. (Les utilisateurs peuvent supprimer les cookies. Si l'utilisateur a supprimé le cookie de l'ordinateur depuis sa dernière visite de Google, un ID de cookie unique est attribué à l'appareil la prochaine fois qu'il accède au site Google depuis cet appareil).
+* `123.45.67.89` correspond à l'adresse IP attribuée à l'utilisateur par son fournisseur d'accès Internet. Selon le type d'accès de l'utilisateur, le fournisseur peut lui attribuer une adresse IP différente à chaque connexion à Internet.
+* `25/Mar/2003 10:15:32` correspond à la date et à l'heure de la requête.
+* `http://www.google.com/search?q=cars` correspond à l'URL demandée incluant la requête de recherche.
+* `Firefox 1.0.7; Windows NT 5.1` correspond au navigateur et au système d'exploitation utilisés.
+* `740674ce2123a969` correspond à l'ID de cookie unique attribué à cet ordinateur lors de son premier accès à Google. (Les utilisateurs peuvent supprimer les cookies. Si l'utilisateur a supprimé le cookie de l'ordinateur depuis sa dernière visite de Google, un ID de cookie unique est attribué à l'appareil la prochaine fois qu'il accède au site Google depuis cet appareil).
 
 ### Identifiants uniques
 
@@ -586,10 +586,10 @@ Lorsque nous diffusons des annonces personnalisées, nous nous basons sur votre 
 
 Voici quelques exemples de la façon dont nous combinons les informations que nous collectons :
 
-*   Lorsque vous êtes connecté à votre compte Google et que vous effectuez une recherche sur Google, vous voyez s'afficher des résultats issus de pages Web publiques, ainsi que des informations pertinentes provenant des contenus issus d'autres produits Google, tels que Gmail ou Google Agenda. Vous pouvez par exemple voir l'état de vos réservations de vol, de table de restaurant ou de chambre d'hôtel à venir, ou vos photos. [En savoir plus](https://support.google.com/websearch?p=privpol_privresults&hl=fr)
-*   Si vous avez été en contact avec une personne via Gmail et que vous voulez l'ajouter à un fichier Google Docs ou à un événement Google Agenda, Google vous facilite la tâche grâce à la saisie semi-automatique de son adresse e-mail dès que vous commencez à taper son nom. Cette fonctionnalité simplifie le partage d'éléments avec des personnes que vous connaissez. [En savoir plus](https://support.google.com/accounts?p=autocontacts&hl=fr)
-*   L'appli Google peut utiliser des informations que vous avez stockées dans d'autres produits Google pour vous montrer du contenu personnalisé, en fonction de vos paramètres. Par exemple, si des recherches ont été stockées par la fonctionnalité de contrôle de l'activité sur le Web et les applications, l'appli Google est en mesure de vous proposer des articles de presse ainsi que d'autres informations en lien avec vos centres d'intérêt, comme des résultats sportifs, sélectionnées sur la base de votre activité. [En savoir plus](https://support.google.com/websearch?p=privpol_feed&hl=fr)
-*   Si vous associez votre compte Google à votre Google Home, vous avez la possibilité de gérer vos informations et d'accomplir des tâches à l'aide de l'Assistant Google. Vous pouvez par exemple ajouter des événements à votre Google Agenda, obtenir votre planning de la journée, demander des mises à jour de l'état de vos prochains vols ou envoyer des informations, telles que des itinéraires, vers votre téléphone. [En savoir plus](https://support.google.com/googlehome?p=privpol_actions&hl=fr)
+* Lorsque vous êtes connecté à votre compte Google et que vous effectuez une recherche sur Google, vous voyez s'afficher des résultats issus de pages Web publiques, ainsi que des informations pertinentes provenant des contenus issus d'autres produits Google, tels que Gmail ou Google Agenda. Vous pouvez par exemple voir l'état de vos réservations de vol, de table de restaurant ou de chambre d'hôtel à venir, ou vos photos. [En savoir plus](https://support.google.com/websearch?p=privpol_privresults&hl=fr)
+* Si vous avez été en contact avec une personne via Gmail et que vous voulez l'ajouter à un fichier Google Docs ou à un événement Google Agenda, Google vous facilite la tâche grâce à la saisie semi-automatique de son adresse e-mail dès que vous commencez à taper son nom. Cette fonctionnalité simplifie le partage d'éléments avec des personnes que vous connaissez. [En savoir plus](https://support.google.com/accounts?p=autocontacts&hl=fr)
+* L'appli Google peut utiliser des informations que vous avez stockées dans d'autres produits Google pour vous montrer du contenu personnalisé, en fonction de vos paramètres. Par exemple, si des recherches ont été stockées par la fonctionnalité de contrôle de l'activité sur le Web et les applications, l'appli Google est en mesure de vous proposer des articles de presse ainsi que d'autres informations en lien avec vos centres d'intérêt, comme des résultats sportifs, sélectionnées sur la base de votre activité. [En savoir plus](https://support.google.com/websearch?p=privpol_feed&hl=fr)
+* Si vous associez votre compte Google à votre Google Home, vous avez la possibilité de gérer vos informations et d'accomplir des tâches à l'aide de l'Assistant Google. Vous pouvez par exemple ajouter des événements à votre Google Agenda, obtenir votre planning de la journée, demander des mises à jour de l'état de vos prochains vols ou envoyer des informations, telles que des itinéraires, vers votre téléphone. [En savoir plus](https://support.google.com/googlehome?p=privpol_actions&hl=fr)
 
 ### d'en assurer et d'en améliorer
 
@@ -621,8 +621,8 @@ Le fait qu'un grand nombre de personnes se mettent à effectuer une recherche pa
 
 Voici quelques exemples de la façon dont nous utilisons vos informations pour garantir la sécurité et la fiabilité de nos services :
 
-*   Nous collectons et analysons les données relatives aux adresses IP ainsi qu'aux cookies pour assurer une protection contre les abus automatisés. Ces abus peuvent prendre plusieurs formes, telles que l'envoi de spam aux utilisateurs de Gmail, l'extorsion de fonds aux annonceurs en cliquant de manière frauduleuse sur les annonces, ou la censure de contenu par le biais d'une attaque par déni de service distribué (DDoS).
-*   La fonctionnalité "Dernière activité sur le compte" de Gmail peut vous aider à déterminer si une personne a accédé à votre messagerie à votre insu, et à quel moment. Cette fonctionnalité permet d'afficher des informations sur l'activité récente dans Gmail, notamment les adresses IP utilisées pour accéder à vos e-mails, la position géographique associée, ainsi que la date et l'heure d'accès. [En savoir plus](https://support.google.com/mail?p=privpol_signinactivity&hl=fr)
+* Nous collectons et analysons les données relatives aux adresses IP ainsi qu'aux cookies pour assurer une protection contre les abus automatisés. Ces abus peuvent prendre plusieurs formes, telles que l'envoi de spam aux utilisateurs de Gmail, l'extorsion de fonds aux annonceurs en cliquant de manière frauduleuse sur les annonces, ou la censure de contenu par le biais d'une attaque par déni de service distribué (DDoS).
+* La fonctionnalité "Dernière activité sur le compte" de Gmail peut vous aider à déterminer si une personne a accédé à votre messagerie à votre insu, et à quel moment. Cette fonctionnalité permet d'afficher des informations sur l'activité récente dans Gmail, notamment les adresses IP utilisées pour accéder à vos e-mails, la position géographique associée, ainsi que la date et l'heure d'accès. [En savoir plus](https://support.google.com/mail?p=privpol_signinactivity&hl=fr)
 
 ### Les données des capteurs de votre appareil
 
@@ -664,11 +664,11 @@ Google Analytics repose sur des cookies propriétaires, ce qui signifie que les 
 
 Voici quelques exemples de la façon dont nous utilisons vos informations pour proposer nos services :
 
-*   Nous utilisons l'adresse IP attribuée à votre appareil afin de vous envoyer les informations que vous avez demandées, pour charger une vidéo YouTube, par exemple.
-*   Nous utilisons des identifiants uniques stockés dans des cookies sur votre appareil pour vous authentifier comme la personne ayant accès à votre compte Google.
-*   Nous utilisons les photos et vidéos que vous importez dans Google Photos pour créer des albums, des animations et d'autres éléments que vous pouvez partager. [En savoir plus](https://support.google.com/photos?p=privpol_manage&hl=fr)
-*   Nous pouvons nous servir d'un e-mail de confirmation de vol que vous recevez pour créer un bouton d'enregistrement dans votre compte Gmail.
-*   Lorsque vous achetez des services ou des produits physiques auprès de nous, vous pouvez être amené à nous fournir des informations telles que votre adresse de livraison ou des instructions concernant la livraison. Ces informations nous servent à traiter, honorer et livrer votre commande, ainsi qu'à fournir une assistance en lien avec le produit ou le service que vous achetez.
+* Nous utilisons l'adresse IP attribuée à votre appareil afin de vous envoyer les informations que vous avez demandées, pour charger une vidéo YouTube, par exemple.
+* Nous utilisons des identifiants uniques stockés dans des cookies sur votre appareil pour vous authentifier comme la personne ayant accès à votre compte Google.
+* Nous utilisons les photos et vidéos que vous importez dans Google Photos pour créer des albums, des animations et d'autres éléments que vous pouvez partager. [En savoir plus](https://support.google.com/photos?p=privpol_manage&hl=fr)
+* Nous pouvons nous servir d'un e-mail de confirmation de vol que vous recevez pour créer un bouton d'enregistrement dans votre compte Gmail.
+* Lorsque vous achetez des services ou des produits physiques auprès de nous, vous pouvez être amené à nous fournir des informations telles que votre adresse de livraison ou des instructions concernant la livraison. Ces informations nous servent à traiter, honorer et livrer votre commande, ainsi qu'à fournir une assistance en lien avec le produit ou le service que vous achetez.
 
 ### protection contre les abus
 
@@ -702,12 +702,12 @@ Par exemple, vous pouvez supprimer [votre blog](https://support.google.com/blogg
 
 Voici quelques exemples de ces services :
 
-*   Google Voice, qui permet de passer et de recevoir des appels, d'envoyer des SMS et de gérer les messages vocaux
-*   Google Meet, qui permet de passer et de recevoir des appels vidéo
-*   Gmail, qui permet d'envoyer et de recevoir des e-mails
-*   Google Chat, qui permet d'envoyer et de recevoir des messages
-*   Google Duo, qui permet de passer et de recevoir des appels vidéo, ainsi que d'envoyer et de recevoir des messages
-*   Google Fi, qui propose un forfait téléphonique
+* Google Voice, qui permet de passer et de recevoir des appels, d'envoyer des SMS et de gérer les messages vocaux
+* Google Meet, qui permet de passer et de recevoir des appels vidéo
+* Gmail, qui permet d'envoyer et de recevoir des e-mails
+* Google Chat, qui permet d'envoyer et de recevoir des messages
+* Google Duo, qui permet de passer et de recevoir des appels vidéo, ainsi que d'envoyer et de recevoir des messages
+* Google Fi, qui propose un forfait téléphonique
 
 ### services publicitaires et de recherche en leur nom
 
