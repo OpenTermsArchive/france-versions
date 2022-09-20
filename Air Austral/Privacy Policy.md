@@ -16,10 +16,10 @@ Vous pouvez exercer ces droits en nous adressant un courriel à Adresse du sièg
 
 Conformément au Règlement général (UE) 2016/679, du 27 avril 2016, relatif à la protection des données (RGPD), les droits suivants sont reconnus concernant le traitement de vos données personnelles :
 
-*   Droit d'accès : vous avez le droit de savoir si des données vous concernant sont traitées sont traitées, et le cas échéant, d'obtenir une copie de ces données et des informations complètes sur le traitement.
-*   Droit de rectification : vous pouvez demander la rectification des informations inexactes ou incomplètes vous concernant.
-*   Droit d'effacement. Vous avez le droit de demander l'effacement de données à caractère personnel vous concernant dans les meilleurs délais si le traitement est illégal ou la finalité du traitement ou de la collecte a disparu.
-*   Droit de restriction. Vous avez le droit de demander la suspension du traitement si celui-ci est illégal ou inapproprié.
+* Droit d'accès : vous avez le droit de savoir si des données vous concernant sont traitées sont traitées, et le cas échéant, d'obtenir une copie de ces données et des informations complètes sur le traitement.
+* Droit de rectification : vous pouvez demander la rectification des informations inexactes ou incomplètes vous concernant.
+* Droit d'effacement. Vous avez le droit de demander l'effacement de données à caractère personnel vous concernant dans les meilleurs délais si le traitement est illégal ou la finalité du traitement ou de la collecte a disparu.
+* Droit de restriction. Vous avez le droit de demander la suspension du traitement si celui-ci est illégal ou inapproprié.
 
 ### Comment mettre fin à mes abonnements aux services d'information («newsletter») Air Austral
 
