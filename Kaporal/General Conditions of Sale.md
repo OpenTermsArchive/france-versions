@@ -65,13 +65,13 @@ Ces informations sont nécessaires pour que la commande puisse être enregistré
 
 6.2 Les étapes de la commande
 
-*   Le processus de commande est le suivant :
-*   Choix des produits et mise au panier
-*   Validation du contenu du panier
-*   Informations sur le client et sur l’adresse du destinataire (Nom/ Prénom/ Adresse de facturation/ Adresse de livraison/ Adresse e-mail/ N° de téléphone)
-*   Acceptation des CGV
-*   Confirmation de la commande
-*   Validation du paiement
+* Le processus de commande est le suivant :
+* Choix des produits et mise au panier
+* Validation du contenu du panier
+* Informations sur le client et sur l’adresse du destinataire (Nom/ Prénom/ Adresse de facturation/ Adresse de livraison/ Adresse e-mail/ N° de téléphone)
+* Acceptation des CGV
+* Confirmation de la commande
+* Validation du paiement
 
 Le Client peut passer commande sur Kaporal.com et retirer ses produits en magasin si l’option « Livraison en boutique Kaporal » lui est proposé au cours de la validation de sa commande (ci-après « **Livraison en boutique** »).
 
@@ -97,7 +97,7 @@ Pour tout paiement par carte bancaire sur le Site, le certificat électronique d
 
 La charge de la preuve contraire pèse sur le Client.
 
-**ARTICLE 8 : PAIEMENT** 
+**ARTICLE 8 : PAIEMENT** 
 
 Le paiement en ligne se fait par carte bancaire ou via les comptes de monnaie électronique acceptés par le Vendeur, notamment Paypal ®, Amazon Pay ®. Le Client accepte que son compte soit débité du montant total dû au moment de la commande. Les cartes bancaires acceptées pour le paiement en ligne sont les cartes bancaires de type Cartes bleues, Visa et MasterCard.
 
@@ -142,7 +142,7 @@ Lorsque le colis n’a pas pu être livré en cas d’absence du Client, le Clie
 
 En cas de retour du colis au Vendeur pour non remise de la commande au Client et que cette impossibilité de remise résulte du fait du Client, ce dernier sera remboursé du montant de la commande par tout moyen au choix du Vendeur dans un délai de 14 jours à compter de la réception du colis. Le Vendeur ne saurait être tenu pour responsable de la délivrance d'un colis à une adresse erronée, si cette erreur résulte des indications fournies par le Client lors de la passation de commande.
 
-**Livraison en point relais** **:**
+**Livraison en point relais** **:**
 
 Le Client a la possibilité de choisir la livraison en point relais lors de la passation de la commande. Dès lors, le colis comportant les produits commandés et payés est déposé au point de retrait sélectionné par le Client lors de sa commande.
 
@@ -150,7 +150,7 @@ A l'expédition du colis, un e-mail d'information est envoyé au Client. Le Clie
 
 Passé ce délai, en cas de retour du colis au Vendeur, le Client sera remboursé du montant de la commande par tout moyen au choix du Vendeur dans un délai de 14 jours à compter de la réception du colis.
 
-**Livraison en boutique Kaporal** **:**
+**Livraison en boutique Kaporal** **:**
 
 Le Client a la possibilité de choisir la Livraison en boutique lors de la passation de la commande. La Livraison en boutique consiste pour le Client à venir récupérer les produits commandés dans un des magasins Kaporal proposant ce mode de livraison.
 
@@ -176,18 +176,18 @@ En cas d’anomalies portant sur le colis (colis endommagé, colis ouvert, trace
 
 **Pour la livraison à domicile** :
 
-*   Le Client doit refuser la livraison et émettre immédiatement l’ensemble des réserves de manière claire et détaillée. Ces réserves devront être indiquées par le Client sur le bon émargé du livreur.
-*   Le Client doit signifier le refus auprès du Service Client via le formulaire de contact ou par courrier électronique à l’adresse suivante : serviceclient@kaporal.com
+* Le Client doit refuser la livraison et émettre immédiatement l’ensemble des réserves de manière claire et détaillée. Ces réserves devront être indiquées par le Client sur le bon émargé du livreur.
+* Le Client doit signifier le refus auprès du Service Client via le formulaire de contact ou par courrier électronique à l’adresse suivante : serviceclient@kaporal.com
 
 **Pour la livraison en point relais :**
 
-*   Le Client ne doit pas accepter le colis. L’ouverture du colis exclut tout recours contre le Vendeur.
-*   Le Client doit signaler le refus et formuler les réserves de manière claire et détaillée auprès du Service Client via le formulaire de contact ou par courrier électronique à l’adresse suivante : [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com)
+* Le Client ne doit pas accepter le colis. L’ouverture du colis exclut tout recours contre le Vendeur.
+* Le Client doit signaler le refus et formuler les réserves de manière claire et détaillée auprès du Service Client via le formulaire de contact ou par courrier électronique à l’adresse suivante : [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com)
 
 **Pour la Livraison en boutique :**
 
-*   Le Client ne pas accepter le colis
-*   Le Client doit émettre immédiatement les réserves auprès du vendeur en boutique
+* Le Client ne pas accepter le colis
+* Le Client doit émettre immédiatement les réserves auprès du vendeur en boutique
 
 **ARTICLE 10 : GARANTIE DES PRODUITS**
 
@@ -209,26 +209,26 @@ Le Client peut décider de mettre en œuvre la garantie contre les défauts cach
 
 Garantie légale de conformité :
 
-_Article L211-4 code de la consommation_ 
+_Article L211-4 code de la consommation_ 
 
 Le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
 
-_Article L211-5 code de la consommation_ 
+_Article L211-5 code de la consommation_ 
 
 Pour être conforme au contrat, le bien doit :
 
-*   Etre propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
-*   Correspondre à la description donnée par le vendeur et posséder les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;
-*   Présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;
-*   Ou présenter les caractéristiques définies d'un commun accord par les parties ou être propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
+* Etre propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
+* Correspondre à la description donnée par le vendeur et posséder les qualités que celui-ci a présentées à l'acheteur sous forme d'échantillon ou de modèle ;
+* Présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;
+* Ou présenter les caractéristiques définies d'un commun accord par les parties ou être propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
 
-_Article L211-12 code de la consommation_ 
+_Article L211-12 code de la consommation_ 
 
 L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien.
 
 Garantie des vices cachés :
 
-_Article 1641 code civil_ 
+_Article 1641 code civil_ 
 
 Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus. Article 1648 al 1er code civil L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.Pour toute demande concernant les garanties légales, le Client devra formuler une demande par écrit auprès de la Société.
 
@@ -258,8 +258,8 @@ Le Client pourra, sans donner de motif, retourner le(s) produit(s) acheté(s) da
 
 Pour exercer le droit de rétractation et effectuer les retours, et afin que le traitement soit optimal et rapide, le Client doit notifier au Vendeur sa décision de rétractation selon l’un des moyens suivants :
 
-*   En se connectant au compte client, rubrique « mes commandes ». Le Client pourra créer un accord de retour en sélectionnant la commande concernée, en cochant le ou les produits que le Client souhaite retourner. Après validation, l’accord de retour devra être inséré dans le colis.
-*   Auprès du Service Client par le formulaire de contact ou par email à [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com) afin d'obtenir un numéro de retour. Pour notifier sa décision de rétractation, le Client peut utiliser le formulaire de rétractation figurant au bas des présentes Conditions Générales de Vente, ou toute autre déclaration dénuée d’ambiguïté.
+* En se connectant au compte client, rubrique « mes commandes ». Le Client pourra créer un accord de retour en sélectionnant la commande concernée, en cochant le ou les produits que le Client souhaite retourner. Après validation, l’accord de retour devra être inséré dans le colis.
+* Auprès du Service Client par le formulaire de contact ou par email à [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com) afin d'obtenir un numéro de retour. Pour notifier sa décision de rétractation, le Client peut utiliser le formulaire de rétractation figurant au bas des présentes Conditions Générales de Vente, ou toute autre déclaration dénuée d’ambiguïté.
 
 Pour que le délai de rétractation soit respecté, il suffit que le Client transmette la demande relative à l’exercice du droit de rétractation avant l’expiration du délai de rétractation.
 
@@ -269,8 +269,8 @@ Le Vendeur enverra dès réception de la demande, un accusé de réception de la
 
 Conformément à l’article L.121-21-8 du code de la consommation, le droit de rétractation ne peut être exercé pour: 
 
-*   les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : sous-vêtements, maillot de bain).
-*   les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
+* les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : sous-vêtements, maillot de bain).
+* les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
 
 Le Vendeur se réserve le droit de refuser tout article retourné qui serait déprécié en raison de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques dudit article (ex. port prolongé de l’article, article abîmé, article porté, article lavé, article repassé, article sali…). Seuls les articles retournés dans leur emballage d'origine, étiquetés, et en parfait état de revente seront acceptés.
 
@@ -284,8 +284,8 @@ Le retour peut être soit motivé par un vice apparent ou une non-conformité de
 
 La demande de retour d’un ou plusieurs produits d’une commande doit se faire dans les 14 jours à compter de la réception de la commande, selon la démarche suivante :
 
-*   Directement sur le Site, dans la rubrique « Mon compte / Mes commandes ». Le Client pourra créer un accord de retour en sélectionnant la commande concernée, en cochant la ou les produits que le Client souhaite retourner.
-*   Ou par contact du Service Client par le formulaire de contact ou via email : [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com). Pour notifier sa décision de rétractation, le Client peut utiliser le formulaire de rétractation figurant au bas des présentes Conditions Générales de Vente, ou toute autre déclaration dénuée d’ambiguïté.
+* Directement sur le Site, dans la rubrique « Mon compte / Mes commandes ». Le Client pourra créer un accord de retour en sélectionnant la commande concernée, en cochant la ou les produits que le Client souhaite retourner.
+* Ou par contact du Service Client par le formulaire de contact ou via email : [serviceclient@kaporal.com](mailto:serviceclient@kaporal.com). Pour notifier sa décision de rétractation, le Client peut utiliser le formulaire de rétractation figurant au bas des présentes Conditions Générales de Vente, ou toute autre déclaration dénuée d’ambiguïté.
 
 En cas de litige sur le retour de la commande, le Vendeur réclamera systématiquement la preuve que le Client a bien retourné sa commande auprès du Vendeur. Afin d’éviter tout litige relatif à la date de livraison, le Vendeur conseille ses Clients d’effectuer les retours avec un numéro de suivi.
 
@@ -299,15 +299,15 @@ Le remboursement du Client ou l’émission de l’avoir sera effectué dans un 
 
 Dans l’hypothèse d’un remboursement, le compte bancaire ou le compte de monnaie électronique utilisé lors du paiement initial sera alors crédité :
 
-*   Du montant des produits retournés
-*   Du montant des frais de livraison initiaux si le retour est total ou si les produits livrés ne sont pas conformes à la commande.
+* Du montant des produits retournés
+* Du montant des frais de livraison initiaux si le retour est total ou si les produits livrés ne sont pas conformes à la commande.
 
 Il sera procédé au remboursement en utilisant le même moyen de paiement que celui utilisé pour la transaction initiale. En tout état de cause, le remboursement n’occasionnera pas de frais pour le Client.
 
 Dans l’hypothèse d’une demande d’avoir, ce dernier sera disponible sur le compte client après confirmation du Vendeur par mail. Le montant de l’avoir correspond :
 
-*   Au montant des produits retournés
-*   Au montant des frais de livraison initiaux si le retour est total ou si les produits livrés ne sont pas conformes à la commande.
+* Au montant des produits retournés
+* Au montant des frais de livraison initiaux si le retour est total ou si les produits livrés ne sont pas conformes à la commande.
 
 L’avoir émis sera utilisable dès la prochaine commande, pour une durée limitée et uniquement sur le Site du Vendeur. Au-delà de ce délai, le Client pourra se voir refuser ce moyen de paiement.
 
@@ -354,8 +354,8 @@ En cas d’action judiciaire, le tribunal compétent sera celui du lieu de domic
 
 **Historique des CGV**
 
-*   [Visualiser la version applicable jusqu’au 24 mai 2018](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2018E_RGPD/20180524_CGV.pdf)
-*   [Visualiser la version applicable jusqu’au 28 août 2019](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2019H_RGPD/20180524-20190828_CGV.pdf)
-*   [Visualiser la version applicable jusqu’au 09 décembre2019](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2019H_RGPD/20190828-20191209_CGV-ok.pdf)
+* [Visualiser la version applicable jusqu’au 24 mai 2018](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2018E_RGPD/20180524_CGV.pdf)
+* [Visualiser la version applicable jusqu’au 28 août 2019](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2019H_RGPD/20180524-20190828_CGV.pdf)
+* [Visualiser la version applicable jusqu’au 09 décembre2019](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2019H_RGPD/20190828-20191209_CGV-ok.pdf)
 
 [Télécharger le formulaire de rétractation](https://www.kaporal.com/media/wysiwyg/2016_REFONTE/2018E_RGPD/formulaire-de-retractation-kaporal.pdf)
