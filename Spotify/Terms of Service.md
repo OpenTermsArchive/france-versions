@@ -56,9 +56,9 @@ Le Service Spotify peut être intégré à ou interagir avec des applications, d
 
 Nous faisons preuve d'un soin et d'une compétence raisonnables pour maintenir le Service Spotify opérationnel et vous offrir une expérience audio personnalisée et immersive. Cependant, nos offres de services et leur disponibilité peuvent changer de temps à autre et en vertu des lois applicables, sans responsabilité à votre égard. Par exemple :
 
-*   Les Services Spotify peuvent subir des interruptions temporaires en raison de difficultés techniques, de travaux de maintenance, de tests ou de mises à jour, y compris ceux nécessaires pour refléter les modifications apportées aux lois et aux exigences réglementaires pertinentes.
-*   Nous nous efforçons d'évoluer et d'améliorer constamment nos Services et nous pouvons modifier, suspendre ou arrêter (de manière permanente ou temporaire) la fourniture de tout ou partie du Service Spotify (y compris des fonctions, caractéristiques, plans d'abonnement et offres promotionnelles spécifiques).
-*   Spotify n'est pas tenue de fournir un contenu spécifique via le Service Spotify, et Spotify ou les propriétaires concernés peuvent supprimer des chansons, vidéos, podcasts et autres Contenus sans préavis.
+* Les Services Spotify peuvent subir des interruptions temporaires en raison de difficultés techniques, de travaux de maintenance, de tests ou de mises à jour, y compris ceux nécessaires pour refléter les modifications apportées aux lois et aux exigences réglementaires pertinentes.
+* Nous nous efforçons d'évoluer et d'améliorer constamment nos Services et nous pouvons modifier, suspendre ou arrêter (de manière permanente ou temporaire) la fourniture de tout ou partie du Service Spotify (y compris des fonctions, caractéristiques, plans d'abonnement et offres promotionnelles spécifiques).
+* Spotify n'est pas tenue de fournir un contenu spécifique via le Service Spotify, et Spotify ou les propriétaires concernés peuvent supprimer des chansons, vidéos, podcasts et autres Contenus sans préavis.
 
 Si vous êtes soumis à des frais prépayés directement à Spotify pour un Abonnement payant auquel Spotify met un terme avant la fin de votre Période prépayée (comme défini dans la section Paiements et annulations ci-dessous), Spotify vous remboursera les frais prépayés pour la Période prépayée pour toute partie inutilisée de votre Abonnement payant en cours, après cette interruption. Vos informations de compte et de facturation doivent être à jour pour que nous puissions vous rembourser.
 
@@ -93,8 +93,8 @@ Facturation
 
 Vous pouvez acheter un Abonnement payant directement auprès de Spotify ou par l'intermédiaire d'un tiers en :
 
-*   payant des frais d'abonnement à l'avance tous les mois ou selon tout autre intervalle récurrent qui vous a été communiqué avant votre achat ; ou
-*   prépayant afin d'avoir accès au Service Spotify pour une période spécifique (la << **Période prépayée** >>).
+* payant des frais d'abonnement à l'avance tous les mois ou selon tout autre intervalle récurrent qui vous a été communiqué avant votre achat ; ou
+* prépayant afin d'avoir accès au Service Spotify pour une période spécifique (la << **Période prépayée** >>).
 
 Les taux d'imposition sont calculés sur la base des informations que vous fournissez et du taux applicable au moment de votre facture mensuelle.
 
