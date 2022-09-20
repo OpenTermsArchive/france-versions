@@ -278,8 +278,8 @@ Soundtrack provient de l'envie de Twitch d'offrir aux créateurs divers musiques
 
 Les licences obtenues par Twitch permettent à Twitch de mettre ces contenus à votre disposition pour que vous puissiez les utiliser lors des streams en direct sur votre chaîne Twitch. Les musiques et autres contenus mis à disposition par l'intermédiaire de Soundtrack ne font pas l'objet d'une licence en vue de votre utilisation dans des contenus préenregistrés, dans des contenus qui peuvent être diffusés à la demande (tels que les vidéos à la demande et les clips), ou en dehors des services Twitch. Concrètement, vous ne pouvez pas :
 
-*   Créer du contenu à la demande contenant des éléments de Soundtrack ; nous avons élaboré Soundtrack en tenant compte de cette restriction, et une configuration adéquate vous permettra de créer et d'utiliser des vidéos à la demande sans musique, à partir de vos streams en direct contenant des musiques de Soundtrack ; ou
-*   Streamer en direct du contenu comprenant de la musique ou d'autres contenus de Soundtrack en dehors des services Twitch.
+* Créer du contenu à la demande contenant des éléments de Soundtrack ; nous avons élaboré Soundtrack en tenant compte de cette restriction, et une configuration adéquate vous permettra de créer et d'utiliser des vidéos à la demande sans musique, à partir de vos streams en direct contenant des musiques de Soundtrack ; ou
+* Streamer en direct du contenu comprenant de la musique ou d'autres contenus de Soundtrack en dehors des services Twitch.
 
 La réalisation de l’une des actions ci-dessus peut vous exposer à une mise en demeure pour atteinte aux droits des ayants-droit ou de leurs agents.
 
