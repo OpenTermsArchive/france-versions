@@ -17,7 +17,7 @@ Your current state: Allow all. 
 
 Your consent ID: 0Consent date:
 
-[Change your consent](#) |  [Withdraw your consent](#)
+[Change your consent](#)  |  [Withdraw your consent](#)
 
 [Do Not Sell My Personal Information](#)
 
@@ -29,7 +29,7 @@ Necessary (20)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
-  
+    
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_\_cf\_bm | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
@@ -47,7 +47,7 @@ Preferences (9)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
-  
+    
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | @@scroll# | bolt.eu | Pending | Session | HTML Local Storage |
@@ -63,7 +63,7 @@ Statistics (30)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
-  
+    
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_device\_id\_ | food.bolt.eu | Pending | Persistent | HTML Local Storage |
@@ -96,7 +96,7 @@ Marketing (56)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
-  
+    
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
@@ -143,7 +143,7 @@ Unclassified (14)
 
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
 
-  
+    
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | @locali18nLng | bolt.eu | Pending | Persistent | HTML Local Storage |
