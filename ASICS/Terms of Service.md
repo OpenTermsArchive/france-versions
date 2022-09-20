@@ -3,9 +3,7 @@ La fonctionnalité Javascript de votre navigateur est désactivée. Veuillez l'a
 Conditions d'Utilisation
 ========================
 
-*   [GÉNÉRAL
-    
-    ](# "Open <span style="color:#001e63;">GÉNÉRAL</span>")
+* [GÉNÉRAL](# "Open <span style="color:#001e63;">GÉNÉRAL</span>")
     
     ### 1\. IDENTITÉ D'ASICS
     
@@ -181,9 +179,7 @@ Conditions d'Utilisation
     
     17.1. Si A﻿SICS a commis une erreur concernant une commande, en cas de réclamation ou pour toute autre demande, veuillez contacter ASICS immédiatement par téléphone au +33411950679 ou par e-mail à l'adresse consommateur-fr@asics.com. Nous serons ravis de vous aider. Nous sommes disponibles de 09h00 à 13h00 du lundi au vendredi.
     
-*   [PROMOTIONS
-    
-    ](# "Open <span style="color:#001e63;">PROMOTIONS</span>")
+* [PROMOTIONS](# "Open <span style="color:#001e63;">PROMOTIONS</span>")
     
     **\- Review Surprise**: [En lire plus](https://www.asics.com/fr/fr-fr/terms-review-surprise/)  
     
