@@ -10,13 +10,13 @@ Informations personnelles
 • les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
 • tout texte relevant de la vie privée et du secret professionnel.  
 
-1.  [1\. Identité du responsable de traitement](#identite-du-responsable-de-traitement)
-2.  [2\. Collecte et hébergement de vos données](#collecte-et-traitement-de-vos-donnees)
-3.  [3\. Sécurité des données](#securite-des-paiements)
-4.  [4\. Offres commerciales](#offres-commerciales)
-5.  [5\. Les réseaux sociaux](#reseaux-sociaux)
-6.  [6\. Cookies](#cookies)
-7.  [7\. Vos droits](#droits)
+1. [1\. Identité du responsable de traitement](#identite-du-responsable-de-traitement)
+2. [2\. Collecte et hébergement de vos données](#collecte-et-traitement-de-vos-donnees)
+3. [3\. Sécurité des données](#securite-des-paiements)
+4. [4\. Offres commerciales](#offres-commerciales)
+5. [5\. Les réseaux sociaux](#reseaux-sociaux)
+6. [6\. Cookies](#cookies)
+7. [7\. Vos droits](#droits)
 
 1\. Identité du responsable de traitement
 -----------------------------------------
@@ -40,15 +40,15 @@ Président : Société SAEGUAJ S.A.S., représentée par Thierry JAUGEAS
 
 Les informations personnelles que vous nous transmettez dans le cadre de la création de compte ou d’une commande sont utilisées pour les traitements suivants :
 
-*   Pour l’exécution du contrat, afin d’assurer le bon traitement de votre commande :  
+* Pour l’exécution du contrat, afin d’assurer le bon traitement de votre commande :  
     Commande, Livraison des produits, facturation, opération de paiements, informations sur le suivi de commande, service après-vente, gestion des retours et des remboursements. Partage d’informations avec des partenaires commerciaux pour l’exécution du contrat
     
-*   Lorsque vous nous avez donné votre consentement  
+* Lorsque vous nous avez donné votre consentement  
     Personnalisation votre expérience de navigation sur notre site  
     Envoi d’offres VERTBAUDET adaptées à vos goûts et à vos habitudes, via notamment des offres ciblées par email et des bannières sur des sites tiers  
     Partage d’informations avec des partenaires commerciaux
     
-*   Lorsque cela est dans l’intérêt légitime de VERTBAUDET  
+* Lorsque cela est dans l’intérêt légitime de VERTBAUDET  
     Prévention de la fraude  
     Connaissance client et d’études statistiques : enquête de satisfaction, Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients  
     Mise en place de jeux concours et publicitaires.
@@ -62,18 +62,18 @@ Les autres informations sont destinées à mieux vous connaître et sont, par co
 
 Certaines données, notamment personnelles, pourront éventuellement être communiquées de manière sécurisée à des partenaires techniques liés à VERTBAUDET par contrat pour l'exécution de tâches sous-traitées nécessaires à la gestion de votre compte, à l’exécution de vos commandes, à la livraison de biens et la réalisation de prestations, à la lutte contre la fraude, à la réalisation des paiements, pour certains aspects du service après-vente ou encore pour réaliser des enquêtes de satisfaction.
 
-1.  Les sous-traitants de VERTBAUDET prennent notamment les engagements suivants :
-2.  traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance ;
+1. Les sous-traitants de VERTBAUDET prennent notamment les engagements suivants :
+2. traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance ;
     
-3.  traiter les données conformément aux instructions documentées de VERTBAUDET ;
+3. traiter les données conformément aux instructions documentées de VERTBAUDET ;
     
-4.  garantir la confidentialité des données à caractère personnel traitées dans le cadre des présentes ;
+4. garantir la confidentialité des données à caractère personnel traitées dans le cadre des présentes ;
     
-5.  veiller à ce que le personnel VERTBAUDET autorisé à traiter les données à caractère personnel :  
+5. veiller à ce que le personnel VERTBAUDET autorisé à traiter les données à caractère personnel :  
     \- s’engage à respecter la confidentialité ou soit soumise à une obligation légale appropriée de confidentialité  
     \- reçoive la formation nécessaire en matière de protection des données à caractère personnel
     
-6.  prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception et de protection des données par défaut
+6. prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception et de protection des données par défaut
     
 
 ### 2.3. Destinataires des données
@@ -90,9 +90,9 @@ VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir l
 
 VERTBAUDET a fixé la durée de conservation de vos données personnelles à 5 ans à compter :
 
-*   Pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), de la date du dernier contact avec notre marque
+* Pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), de la date du dernier contact avec notre marque
     
-*   Pour les clients (ayant déjà effectué un achat), de la date du dernier achat
+* Pour les clients (ayant déjà effectué un achat), de la date du dernier achat
     
 
 Néanmoins, pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques (par exemple, l’enregistrement des conversations téléphoniques au service relation client sont conservés pendant une durée de 6 jours, les factures liés aux achats sont conservées 10 ans).
@@ -157,24 +157,24 @@ Ces cookies sont émis par nous-même dans le but de faciliter votre navigation 
 
 Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, sous réserve de vos choix qui résultent des paramètres de votre logiciel de navigation, à installer divers cookies dans votre terminal
 
-*   Cookies analytiques dont l'objectif d’établir des statistiques de fréquentation (nombre de visites, de pages vues, d’abandon dans le processus de commande,etc.) afin de suivre et d’améliorer la qualité de nos services.
+* Cookies analytiques dont l'objectif d’établir des statistiques de fréquentation (nombre de visites, de pages vues, d’abandon dans le processus de commande,etc.) afin de suivre et d’améliorer la qualité de nos services.
     
-*   Cookies strictement nécessaires dont l'objectif est notamment d'adapter la présentation de notre site aux préférences d'affichage de votre terminal, de conserver votre panier, etc.
+* Cookies strictement nécessaires dont l'objectif est notamment d'adapter la présentation de notre site aux préférences d'affichage de votre terminal, de conserver votre panier, etc.
     
-*   Cookies fonctionnelles dont l'objectif est :
+* Cookies fonctionnelles dont l'objectif est :
     
-    *   De mémoriser des informations saisies dans des formulaires, gérer et sécuriser l’accès à des espaces réservés et personnels tels que votre compte, gérer votre panier de commande.
+    * De mémoriser des informations saisies dans des formulaires, gérer et sécuriser l’accès à des espaces réservés et personnels tels que votre compte, gérer votre panier de commande.
         
-    *   De vous fournir du contenu, y compris de la publicité, en rapport avec vos centres d'intérêt et de personnaliser les offres que nous vous adressons.
+    * De vous fournir du contenu, y compris de la publicité, en rapport avec vos centres d'intérêt et de personnaliser les offres que nous vous adressons.
         
 
 ### 6.2. Les cookies tiers
 
 Lorsque vous accédez à notre site, un ou plusieurs cookies sont susceptibles d’être placés dans votre ordinateur via les pages de notre site ou via des contenus diffusés dans nos espaces publicitaires soit par l'annonceur à l'origine du contenu publicitaire concerné, soit par une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
 
-*   De comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques (cookies analytiques);
+* De comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques (cookies analytiques);
     
-*   De reconnaître votre terminal lors de sa navigation ultérieure sur tout autre site ou service sur lequel ces annonceurs ou ces tiers émettent également des cookies et, le cas échéant, d'adapter ces sites et services tiers ou les publicités qu'ils diffusent, à la navigation de votre terminal dont ils peuvent avoir connaissance (cookies publicitaires).
+* De reconnaître votre terminal lors de sa navigation ultérieure sur tout autre site ou service sur lequel ces annonceurs ou ces tiers émettent également des cookies et, le cas échéant, d'adapter ces sites et services tiers ou les publicités qu'ils diffusent, à la navigation de votre terminal dont ils peuvent avoir connaissance (cookies publicitaires).
     
 
 Il s'agit des cookies utilisés pour vous présenter des publicités ou vous adresser des informations adaptées à vos centres d'intérêts sur notre site ou en dehors de notre site lors de votre navigation sur internet.
@@ -191,7 +191,7 @@ Plusieurs possibilités vous sont offertes pour gérer les cookies. Tout paramé
 
 Vous pouvez exprimer et modifier à tout moment vos souhaits en matière de cookies, par les moyens décrits ci-dessous.
 
-1.  **Les choix qui vous sont offerts par votre logiciel de navigation.**
+1. **Les choix qui vous sont offerts par votre logiciel de navigation.**
     
     Vous pouvez configurer votre logiciel de navigation de manière à ce que des cookies soient enregistrés dans votre terminal ou, au contraire, qu'ils soient rejetés, soit systématiquement, soit selon leur émetteur. Vous pouvez également configurer votre logiciel de navigation de manière à ce que l'acceptation ou le refus des cookies vous soient proposés ponctuellement, avant qu'un cookie soit susceptible d'être enregistré dans votre terminal.
     
@@ -202,39 +202,39 @@ Vous pouvez exprimer et modifier à tout moment vos souhaits en matière de cook
 
 À titre d’information voici les modalités pour les principaux navigateurs :
 
-*   **Si vous utilisez le navigateur Internet Explorer**
+* **Si vous utilisez le navigateur Internet Explorer**
     
-    1.  Dans le menu Outils, sélectionnez "Options Internet"
+    1. Dans le menu Outils, sélectionnez "Options Internet"
         
-    2.  Cliquez sur l'onglet Confidentialité
+    2. Cliquez sur l'onglet Confidentialité
         
         Vous verrez des paramètres de confidentialité avec six options, qui vous permettent de contrôler le nombre de cookies qui seront enregistrés : Bloquer Tous Les Cookies, Haute, Moyennement Haute, Moyenne (niveau par défaut), Faible, et Accepter Tous Les Cookies
         
-*   **Si vous utilisez le navigateur Mozilla Firefox**
+* **Si vous utilisez le navigateur Mozilla Firefox**
     
-    1.  Dans le menu Outils, sélectionnez "options"
+    1. Dans le menu Outils, sélectionnez "options"
         
-    2.  Sélectionnez l'onglet Vie Privée dans la fenêtre Options
+    2. Sélectionnez l'onglet Vie Privée dans la fenêtre Options
         
-    3.  Dans le menu déroulant, choisissez "Utiliser les paramètres personnalisés pour l'historique". Cela fera apparaître les options pour les cookies et vous pourrez choisir de les autoriser ou de les refuser en cochant la case appropriée.
+    3. Dans le menu déroulant, choisissez "Utiliser les paramètres personnalisés pour l'historique". Cela fera apparaître les options pour les cookies et vous pourrez choisir de les autoriser ou de les refuser en cochant la case appropriée.
         
-*   **Si vous utilisez le navigateur Safari**
+* **Si vous utilisez le navigateur Safari**
     
-    1.  Dans votre navigateur, choisissez le menu Édition > Préférences.
+    1. Dans votre navigateur, choisissez le menu Édition > Préférences.
         
-    2.  Cliquez sur Sécurité.
+    2. Cliquez sur Sécurité.
         
-    3.  Cliquez sur Afficher les cookies.
+    3. Cliquez sur Afficher les cookies.
         
-    4.  Sélectionnez l'option que vous voulez dans la section "accepter les cookies"
+    4. Sélectionnez l'option que vous voulez dans la section "accepter les cookies"
         
-*   **Si vous utilisez le navigateur Google Chrome**
+* **Si vous utilisez le navigateur Google Chrome**
     
-    1.  Dans le menu Paramètres, sélectionnez "Afficher les paramètres avancés" en bas de page.
+    1. Dans le menu Paramètres, sélectionnez "Afficher les paramètres avancés" en bas de page.
         
-    2.  Cliquez sur le bouton "Paramètres de contenu" dans la section Confidentialité
+    2. Cliquez sur le bouton "Paramètres de contenu" dans la section Confidentialité
         
-    3.  La section située en haut de la page qui apparaît alors vous en dit plus à propos des cookies et vous permet d'installer les cookies que vous voulez. Elle vous permet également de supprimer les cookies actuellement stockés.
+    3. La section située en haut de la page qui apparaît alors vous en dit plus à propos des cookies et vous permet d'installer les cookies que vous voulez. Elle vous permet également de supprimer les cookies actuellement stockés.
         
 
 **Les cookies "Flash"© de "Adobe Flash Player"**
@@ -259,29 +259,29 @@ Cela aura seulement pour effet d'afficher une publicité qui ne tiendra pas comp
 
 Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le but de vous proposer des publicités personnalisées. Pour en savoir plus sur leur politique de protection des données, connaître les durées de conservation et vous opposer, cliquez sur le lien.
 
-*   Critéo : [http://www.criteo.com/fr/privacy/full-privacy-text/](http://www.criteo.com/fr/privacy/full-privacy-text/)
-*   Sociomantic (appartenant à la société dunnhumby Germany GmbH, Berlin, Allemagne) : [https://www.sociomantic.com/privacy/fr/#privacy-policy](https://www.sociomantic.com/privacy/fr/#privacy-policy)
-*   Google : [http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)
-*   Adobe Marketing Cloud (Analytics) : [https://www.adobe.com/fr/privacy/marketing-cloud.html](https://www.adobe.com/fr/privacy/marketing-cloud.html)
-*   Ividence : [http://www.ividence.com/legal/](http://www.ividence.com/legal/)
-*   Microsoft Advertising : [https://privacy.microsoft.com/fr-fr/privacystatement](https://privacy.microsoft.com/fr-fr/privacystatement)
-*   MediaMath : [http://www.mediamath.com/fr/politique-de-confidentialite/](http://www.mediamath.com/fr/politique-de-confidentialite/)
-*   Target2Sell : [contact@target2sell.com](https://www.vertbaudet.fr/page/contact@target2sell.com)
-*   iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
-*   Bazaarvoice : [https://www.bazaarvoice.com/legal/privacy-policy/](https://www.bazaarvoice.com/legal/privacy-policy/)
-*   GlobalSign : [https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf](https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf)
-*   Sensefuel : [https://www.sensefuel.com/fr/mentions-legales/](https://www.sensefuel.com/fr/mentions-legales/)
-*   Taboola : [https://www.taboola.com/fr/cookie-policy](https://www.taboola.com/fr/cookie-policy)
-*   Kenshoo : [https://www.kenshoo.fr/privacy-policy/](https://www.kenshoo.fr/privacy-policy/)
-*   Effiliation : [https://www.effiliation.com/mentions/](https://www.effiliation.com/mentions/)
-*   Facebook Custom Audience : [https://www.facebook.com/full\_data\_use\_policy](https://www.facebook.com/full_data_use_policy)
-*   Outbrain : [https://www.outbrain.com/legal/privacy](https://www.outbrain.com/legal/privacy)
-*   Unify : [https://tf1digitalfactory.fr/gestion-de-vos-donnees-et-de-vos-droits/"](https://tf1digitalfactory.fr/gestion-de-vos-donnees-et-de-vos-droits/)
-*   Yahoo / Verizon : [https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html)
-*   Remail Me : [https://remailme.fr/politique-confidentialite/](https://remailme.fr/politique-confidentialite/)
-*   Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
-*   Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
-*   Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
+* Critéo : [http://www.criteo.com/fr/privacy/full-privacy-text/](http://www.criteo.com/fr/privacy/full-privacy-text/)
+* Sociomantic (appartenant à la société dunnhumby Germany GmbH, Berlin, Allemagne) : [https://www.sociomantic.com/privacy/fr/#privacy-policy](https://www.sociomantic.com/privacy/fr/#privacy-policy)
+* Google : [http://www.google.com/policies/privacy/](http://www.google.com/policies/privacy/)
+* Adobe Marketing Cloud (Analytics) : [https://www.adobe.com/fr/privacy/marketing-cloud.html](https://www.adobe.com/fr/privacy/marketing-cloud.html)
+* Ividence : [http://www.ividence.com/legal/](http://www.ividence.com/legal/)
+* Microsoft Advertising : [https://privacy.microsoft.com/fr-fr/privacystatement](https://privacy.microsoft.com/fr-fr/privacystatement)
+* MediaMath : [http://www.mediamath.com/fr/politique-de-confidentialite/](http://www.mediamath.com/fr/politique-de-confidentialite/)
+* Target2Sell : [contact@target2sell.com](https://www.vertbaudet.fr/page/contact@target2sell.com)
+* iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
+* Bazaarvoice : [https://www.bazaarvoice.com/legal/privacy-policy/](https://www.bazaarvoice.com/legal/privacy-policy/)
+* GlobalSign : [https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf](https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf)
+* Sensefuel : [https://www.sensefuel.com/fr/mentions-legales/](https://www.sensefuel.com/fr/mentions-legales/)
+* Taboola : [https://www.taboola.com/fr/cookie-policy](https://www.taboola.com/fr/cookie-policy)
+* Kenshoo : [https://www.kenshoo.fr/privacy-policy/](https://www.kenshoo.fr/privacy-policy/)
+* Effiliation : [https://www.effiliation.com/mentions/](https://www.effiliation.com/mentions/)
+* Facebook Custom Audience : [https://www.facebook.com/full\_data\_use\_policy](https://www.facebook.com/full_data_use_policy)
+* Outbrain : [https://www.outbrain.com/legal/privacy](https://www.outbrain.com/legal/privacy)
+* Unify : [https://tf1digitalfactory.fr/gestion-de-vos-donnees-et-de-vos-droits/"](https://tf1digitalfactory.fr/gestion-de-vos-donnees-et-de-vos-droits/)
+* Yahoo / Verizon : [https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/index.html)
+* Remail Me : [https://remailme.fr/politique-confidentialite/](https://remailme.fr/politique-confidentialite/)
+* Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
+* Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
+* Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
 
 7\. Vos droits
 --------------
@@ -290,13 +290,13 @@ Conformément aux dispositions légales et réglementaires, notamment le Règlem
 
 Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justificative d’identité, par les différents moyens suivants :
 
-*   \- Procéder directement à la mise à jour de vos données personnelles et préférences dans la rubrique « Mon compte » de notre site
-*   \- Nous contacter via le formulaire dédié en cliquant sur ce lien « Contactez-nous », rubrique « Mes données personnelles »
-*   \- Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
-*   \- Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
-*   \- Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
-*   \- Contacter le délégué à la protection des données à l’adresse suivante : dpo@vertbaudet.com
-*   \- Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 216 rue Winoc Chocqueel – 59200 Tourcoing
+* \- Procéder directement à la mise à jour de vos données personnelles et préférences dans la rubrique « Mon compte » de notre site
+* \- Nous contacter via le formulaire dédié en cliquant sur ce lien « Contactez-nous », rubrique « Mes données personnelles »
+* \- Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
+* \- Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
+* \- Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
+* \- Contacter le délégué à la protection des données à l’adresse suivante : dpo@vertbaudet.com
+* \- Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 216 rue Winoc Chocqueel – 59200 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
 
