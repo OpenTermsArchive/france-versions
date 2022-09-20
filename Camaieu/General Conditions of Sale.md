@@ -1,4 +1,4 @@
-        
+      
 
 Les conditions générales de vente
 =================================
@@ -87,8 +87,8 @@ Il est possible de régler tout ou partie de la commande en carte cadeau Camaïe
 
 Notre partenaire Oney Bank vous propose la solution de financement 3x 4x Oney pour vous permettre de régler vos achats en 3 ou 4 fois. Cette possibilité vous est proposée :
 
-*   En 3 fois pour les commandes d’un minimum de 40€ à 1000€
-*   En 4 fois pour les commandes d’un minimum de 100€ à 1000€
+* En 3 fois pour les commandes d’un minimum de 40€ à 1000€
+* En 4 fois pour les commandes d’un minimum de 100€ à 1000€
 
 Conditions : Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa ou MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel et autres, ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées. Modalités de souscription : Une fois vos articles choisis et lors du paiement de votre commande, il vous suffit de cliquer sur le bouton « paiement en 3 ou 4 fois par carte bancaire ». Vous êtes alors redirigé vers la page internet Oney de notre partenaire affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider en suivant le processus énoncé sur le site. Vous saisissez vos informations personnelles ou, si vous disposez d’un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante. Vous reconnaissez que le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales valent consentement à contracter et constituent une acceptation irrévocable et sans réserve des conditions générales du produit. Sauf preuve contraire, les données enregistrées par Oney Bank constituent la preuve de l’ensemble des transactions passées entre vous et Oney Bank.
 
@@ -100,13 +100,13 @@ Un apport obligatoire sera débité le jour de la confirmation de l’expéditio
 
 Exemple :
 
-*   Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
-*   Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
+* Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
+* Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
 
 Nous attirons votre attention sur les modalités d’annulation des commandes payées en plusieurs fois avec Oney Bank :
 
-*   En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
-*   En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
+* En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
+* En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
 Pour toute demande relative à la solution de financement Oney, vous pouvez les contacter en écrivant au service client Oney Bank.
 
@@ -173,8 +173,8 @@ Pour que le délai de rétractation soit respecté, il suffit que vous transmett
 
 Conformément à l’article L.121-21-8 du code de la consommation, le droit de rétractation ne peut être exercé pour :
 
-*   les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
-*   les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
+* les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
+* les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
 
 Camaïeu se réserve le droit de refuser tout article retourné qui serait déprécié en raison de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques dudit article (ex. port prolongé de l’article, article abîmé, sali…). Seuls les articles retournés dans un état permettant leur remise en vente par Camaïeu seront acceptés.
 
@@ -210,9 +210,9 @@ Si le Client retourne sa commande par courrier ou colis postal, le remboursement
 Cas particuliers :  
 \- La commande cadeau
 
-*   Retour par la Poste : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé. Nous vous rappelons que les frais de retour restent à votre charge.
-*   Retour en Points Relais® : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé.
-*   Retour en magasin : vous pouvez demander le retour de tout ou partie de votre commande cadeau : un échange ou un remboursement au crédit d’une nouvelle carte cadeau Camaieu valable 1 an vous sera alors proposé.
+* Retour par la Poste : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé. Nous vous rappelons que les frais de retour restent à votre charge.
+* Retour en Points Relais® : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé.
+* Retour en magasin : vous pouvez demander le retour de tout ou partie de votre commande cadeau : un échange ou un remboursement au crédit d’une nouvelle carte cadeau Camaieu valable 1 an vous sera alors proposé.
 
 \- La carte cadeau Camaïeu  
 En cas d’annulation de la carte cadeau, aucun retour ne sera accepté en magasin. Le Client devra contacter le service clients Web par email à l’adresse : retractation@camaieu.com ou par téléphone 03.61.26.10.08 (Appel non surtaxé depuis la France métropolitaine. Depuis la Belgique et le Luxembourg, l'appel sera facturé comme un appel international vers la France au tarif propre à l'opérateur).
@@ -233,8 +233,8 @@ Le Client a la possibilité d’échanger le/les articles de sa commande dans n�
 
 Suite à une offre promotionnelle, en cas d’échange d’un article :
 
-*   contre le même article, de même couleur mais de taille différente, le prix du nouvel article sera identique à celui de la facture du Client même s’il était en promotion.
-*   contre le même article dans un coloris différent, ou contre un autre article, si le prix du nouvel article est supérieur au prix indiqué sur la facture du Client, la différence sera à la charge du Client. Si le prix du nouvel article est inférieur, Camaïeu remboursera la différence directement en recréditant la carte bancaire du Client.
+* contre le même article, de même couleur mais de taille différente, le prix du nouvel article sera identique à celui de la facture du Client même s’il était en promotion.
+* contre le même article dans un coloris différent, ou contre un autre article, si le prix du nouvel article est supérieur au prix indiqué sur la facture du Client, la différence sera à la charge du Client. Si le prix du nouvel article est inférieur, Camaïeu remboursera la différence directement en recréditant la carte bancaire du Client.
 
 Article 8 - Réserve de propriété
 --------------------------------
@@ -250,9 +250,9 @@ Tous les produits proposés à la vente sur le site www.camaieu.fr bénéficient
 
 Lorsqu'il agit en garantie légale de conformité, le Client :
 
-*   bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir;
-*   peut choisir entre la réparation ou le remplacement du bien , sous réserve des conditions de coût prévues par l'article L217-9 du code de la consommation;
-*   est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les (24) vingt-quatre mois suivant la délivrance du bien. Ce délai est de six (6) mois pour les biens d'occasions.
+* bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir;
+* peut choisir entre la réparation ou le remplacement du bien , sous réserve des conditions de coût prévues par l'article L217-9 du code de la consommation;
+* est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les (24) vingt-quatre mois suivant la délivrance du bien. Ce délai est de six (6) mois pour les biens d'occasions.
 
 La garantie légale de conformité s'applique indépendamment de la garantie commerciale eventuellement consentie.
 
@@ -265,8 +265,8 @@ Article L217-4 du Code de la Consommation : Le vendeur livre un bien conforme au
 Article L217-5 du Code de la Consommation : Le bien est conforme au contrat :  
 1/ S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
 
-*   s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci à présentées à l'acheteur sous forme d'échantillon ou de modèle;
-*   s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage;
+* s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci à présentées à l'acheteur sous forme d'échantillon ou de modèle;
+* s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage;
 
 2/ Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
 
@@ -294,9 +294,9 @@ A compter de 6 semaines après l’achat et jusqu’à 12 mois après l’achat,
 
 Si la référence du jean concerné n’est plus disponible en boutique ou sur camaieu.fr :
 
-*   L’échange se fera pour un autre jean dont le prix est identique;
-*   Echange pour un jean dont le prix est supérieur : la différence reste à la charge de la cliente;
-*   Echange pour un jean dont le prix est inférieur : aucun avoir ou remboursement ne sera effectué.
+* L’échange se fera pour un autre jean dont le prix est identique;
+* Echange pour un jean dont le prix est supérieur : la différence reste à la charge de la cliente;
+* Echange pour un jean dont le prix est inférieur : aucun avoir ou remboursement ne sera effectué.
 
 Si une remise anniversaire ou un coupon fidélité a été appliquée lors de l’achat initial, en cas d’échange les conditions ci-dessus seront appliquées sur le prix réglé après remise. Cette garantie est valable pour les jeans achetés en boutique Camaieu et sur camaieu.fr (sauf jeans outlet et petits prix). L’échange est possible uniquement en boutique.
 
@@ -399,15 +399,15 @@ Conformément aux dispositions du Code de la consommation concernant « le proce
 
 Ce dispositif de médiation peut être joint par :
 
-*   par voie électronique : [cm2c@cm2c.net](mailto:cm2c@cm2c.net)
-*   ou par voie postale : CM2C, 14 rue Saint Jean 75017 Paris.
+* par voie électronique : [cm2c@cm2c.net](mailto:cm2c@cm2c.net)
+* ou par voie postale : CM2C, 14 rue Saint Jean 75017 Paris.
 
 Tous les litiges de la consommation peuvent être résolus par une médiation sauf les cas suivants :
 
-*   si le consommateur n'a pas tenté, au préalable, de résoudre son problème directement auprès du professionnel par une réclamation écrite;
-*   si la réclamation a été adressée au professionnel depuis plus d'un an;
-*   si la demande est manifestement infondée ou abusive;
-*   si le litige ne rentre pas dans le champ de compétence du médiateur;
+* si le consommateur n'a pas tenté, au préalable, de résoudre son problème directement auprès du professionnel par une réclamation écrite;
+* si la réclamation a été adressée au professionnel depuis plus d'un an;
+* si la demande est manifestement infondée ou abusive;
+* si le litige ne rentre pas dans le champ de compétence du médiateur;
 
 Confomément au règlement européen 524/2013, Camaïeu vous informe que la commission européenne met à disposition du client une [plateforme de règlement en ligne des litiges](https://ec.europa.eu/consumers/odr/main/?event=main.home.show).
 
@@ -527,8 +527,8 @@ Il est possible de régler tout ou partie de la commande en carte cadeau Camaïe
 
 Notre partenaire Oney Bank vous propose la solution de financement 3x 4x Oney pour vous permettre de régler vos achats en 3 ou 4 fois. Cette possibilité vous est proposée :
 
-*   En 3 fois pour les commandes d’un minimum de 40€ à 1000€
-*   En 4 fois pour les commandes d’un minimum de 100€ à 1000€
+* En 3 fois pour les commandes d’un minimum de 40€ à 1000€
+* En 4 fois pour les commandes d’un minimum de 100€ à 1000€
 
 Conditions : Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa ou MasterCard possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel et autres, ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées. Modalités de souscription : Une fois vos articles choisis et lors du paiement de votre commande, il vous suffit de cliquer sur le bouton « paiement en 3 ou 4 fois par carte bancaire ». Vous êtes alors redirigé vers la page internet Oney de notre partenaire affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, que vous devez ensuite valider en suivant le processus énoncé sur le site. Vous saisissez vos informations personnelles ou, si vous disposez d’un compte 3x 4x Oney, vous vous identifiez au moyen des identifiants de connexion liés à votre compte 3x 4x Oney. Vous prenez connaissance des conditions générales de paiement en plusieurs fois auxquelles vous souhaitez souscrire qui vous sont fournies sous format PDF afin que vous puissiez les lire, les imprimer et les enregistrer avant de les accepter. Vous notifiez ensuite votre acceptation électronique par la case à cocher correspondante. Vous reconnaissez que le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales valent consentement à contracter et constituent une acceptation irrévocable et sans réserve des conditions générales du produit. Sauf preuve contraire, les données enregistrées par Oney Bank constituent la preuve de l’ensemble des transactions passées entre vous et Oney Bank.
 
@@ -540,13 +540,13 @@ Un apport obligatoire sera débité le jour de la confirmation de l’expéditio
 
 Exemple :
 
-*   Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
-*   Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
+* Pour un paiement en 3 fois, pour un achat de 150€ effectué le 01/09/2016, vous payez un apport de 52.18€ puis 2 mensualités de 50€ débitées les 01/10/2016 et01/11/2016. Crédit d'une durée de 2 mois au TAEG fixe de 19.31%. Coût du financement : 2.18€.
+* Pour un paiement en 4 fois, pour un achat de 400€ effectué le 01/09/2016, vous payez un apport de 108.80€ puis 3 mensualités de 100€ les 01/10/2016, 01/11/2016 et 01/12/2016. Crédit d'une durée de 3 mois au TAEG fixe de 19.61%. Coût du financement : 8.80€.
 
 Nous attirons votre attention sur les modalités d’annulation des commandes payées en plusieurs fois avec Oney Bank :
 
-*   En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
-*   En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
+* En cas d’annulation totale de la commande, vous serez remboursé de l’intégralité des sommes prélevées.
+* En cas d’annulation partielle de la commande le montant correspondant à l’annulation vient en déduction des sommes restant dues au jour de l’annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
 Pour toute demande relative à la solution de financement Oney, vous pouvez les contacter en écrivant au service client Oney Bank.
 
@@ -613,8 +613,8 @@ Pour que le délai de rétractation soit respecté, il suffit que vous transmett
 
 Conformément à l’article L.121-21-8 du code de la consommation, le droit de rétractation ne peut être exercé pour :
 
-*   les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
-*   les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
+* les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé (ex : collants portés, piercings, boucles d'oreille).
+* les biens confectionnés selon les spécifications du Client ou nettement personnalisés (ex : les articles retouchés).
 
 Camaïeu se réserve le droit de refuser tout article retourné qui serait déprécié en raison de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques dudit article (ex. port prolongé de l’article, article abîmé, sali…). Seuls les articles retournés dans un état permettant leur remise en vente par Camaïeu seront acceptés.
 
@@ -650,9 +650,9 @@ Si le Client retourne sa commande par courrier ou colis postal, le remboursement
 Cas particuliers :  
 \- La commande cadeau
 
-*   Retour par la Poste : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé. Nous vous rappelons que les frais de retour restent à votre charge.
-*   Retour en Points Relais® : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé.
-*   Retour en magasin : vous pouvez demander le retour de tout ou partie de votre commande cadeau : un échange ou un remboursement au crédit d’une nouvelle carte cadeau Camaieu valable 1 an vous sera alors proposé.
+* Retour par la Poste : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé. Nous vous rappelons que les frais de retour restent à votre charge.
+* Retour en Points Relais® : Si vous nous retournez l’intégralité de votre commande, nous remboursons la personne qui vous a offert le cadeau en créditant son compte bancaire du montant total facturé.
+* Retour en magasin : vous pouvez demander le retour de tout ou partie de votre commande cadeau : un échange ou un remboursement au crédit d’une nouvelle carte cadeau Camaieu valable 1 an vous sera alors proposé.
 
 \- La carte cadeau Camaïeu  
 En cas d’annulation de la carte cadeau, aucun retour ne sera accepté en magasin. Le Client devra contacter le service clients Web par email à l’adresse : retractation@camaieu.com ou par téléphone 03.61.26.10.08 (Appel non surtaxé depuis la France métropolitaine. Depuis la Belgique et le Luxembourg, l'appel sera facturé comme un appel international vers la France au tarif propre à l'opérateur).
@@ -673,8 +673,8 @@ Le Client a la possibilité d’échanger le/les articles de sa commande dans n�
 
 Suite à une offre promotionnelle, en cas d’échange d’un article :
 
-*   contre le même article, de même couleur mais de taille différente, le prix du nouvel article sera identique à celui de la facture du Client même s’il était en promotion.
-*   contre le même article dans un coloris différent, ou contre un autre article, si le prix du nouvel article est supérieur au prix indiqué sur la facture du Client, la différence sera à la charge du Client. Si le prix du nouvel article est inférieur, Camaïeu remboursera la différence directement en recréditant la carte bancaire du Client.
+* contre le même article, de même couleur mais de taille différente, le prix du nouvel article sera identique à celui de la facture du Client même s’il était en promotion.
+* contre le même article dans un coloris différent, ou contre un autre article, si le prix du nouvel article est supérieur au prix indiqué sur la facture du Client, la différence sera à la charge du Client. Si le prix du nouvel article est inférieur, Camaïeu remboursera la différence directement en recréditant la carte bancaire du Client.
 
 Article 8 - Réserve de propriété
 --------------------------------
@@ -690,9 +690,9 @@ Tous les produits proposés à la vente sur le site www.camaieu.fr bénéficient
 
 Lorsqu'il agit en garantie légale de conformité, le Client :
 
-*   bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir;
-*   peut choisir entre la réparation ou le remplacement du bien , sous réserve des conditions de coût prévues par l'article L217-9 du code de la consommation;
-*   est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les (24) vingt-quatre mois suivant la délivrance du bien. Ce délai est de six (6) mois pour les biens d'occasions.
+* bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir;
+* peut choisir entre la réparation ou le remplacement du bien , sous réserve des conditions de coût prévues par l'article L217-9 du code de la consommation;
+* est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les (24) vingt-quatre mois suivant la délivrance du bien. Ce délai est de six (6) mois pour les biens d'occasions.
 
 La garantie légale de conformité s'applique indépendamment de la garantie commerciale eventuellement consentie.
 
@@ -705,8 +705,8 @@ Article L217-4 du Code de la Consommation : Le vendeur livre un bien conforme au
 Article L217-5 du Code de la Consommation : Le bien est conforme au contrat :  
 1/ S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
 
-*   s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci à présentées à l'acheteur sous forme d'échantillon ou de modèle;
-*   s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage;
+* s'il correspond à la description donnée par le vendeur et possède les qualités que celui-ci à présentées à l'acheteur sous forme d'échantillon ou de modèle;
+* s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage;
 
 2/ Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
 
@@ -734,9 +734,9 @@ A compter de 6 semaines après l’achat et jusqu’à 12 mois après l’achat,
 
 Si la référence du jean concerné n’est plus disponible en magasin ou sur camaieu.fr :
 
-*   Echange pour un autre jean dont le prix est identique;
-*   Echange pour un jean dont le prix est supérieur : la différence reste à la charge de la cliente;
-*   Echange pour un jean dont le prix est inférieur : aucun avoir ou remboursement ne sera effectué;
+* Echange pour un autre jean dont le prix est identique;
+* Echange pour un jean dont le prix est supérieur : la différence reste à la charge de la cliente;
+* Echange pour un jean dont le prix est inférieur : aucun avoir ou remboursement ne sera effectué;
 
 Cette garantie est valable pour les jeans achetés en magasin et sur camaieu.fr. L’échange est possible uniquement en magasin.
 
@@ -839,15 +839,15 @@ Conformément aux dispositions du Code de la consommation concernant « le proce
 
 Ce dispositif de médiation peut être joint par :
 
-*   par voie électronique : [cm2c@cm2c.net](mailto:cm2c@cm2c.net)
-*   ou par voie postale : CM2C, 14 rue Saint Jean 75017 Paris.
+* par voie électronique : [cm2c@cm2c.net](mailto:cm2c@cm2c.net)
+* ou par voie postale : CM2C, 14 rue Saint Jean 75017 Paris.
 
 Tous les litiges de la consommation peuvent être résolus par une médiation sauf les cas suivants :
 
-*   si le consommateur n'a pas tenté, au préalable, de résoudre son problème directement auprès du professionnel par une réclamation écrite;
-*   si la réclamation a été adressée au professionnel depuis plus d'un an;
-*   si la demande est manifestement infondée ou abusive;
-*   si le litige ne rentre pas dans le champ de compétence du médiateur;
+* si le consommateur n'a pas tenté, au préalable, de résoudre son problème directement auprès du professionnel par une réclamation écrite;
+* si la réclamation a été adressée au professionnel depuis plus d'un an;
+* si la demande est manifestement infondée ou abusive;
+* si le litige ne rentre pas dans le champ de compétence du médiateur;
 
 Confomément au règlement européen 524/2013, Camaïeu vous informe que la commission européenne met à disposition du client une [plateforme de règlement en ligne des litiges](https://ec.europa.eu/consumers/odr/main/?event=main.home.show).
 
