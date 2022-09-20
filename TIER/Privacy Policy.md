@@ -19,9 +19,9 @@ Dans notre application, nous offrons aux utilisateurs la possibilité de s’ins
 
 Lors de l’inscription pour utiliser les services TIER, nous vous demandons les informations suivantes pour créer un compte client :
 
-*   votre nom, votre adresse e-mail et votre numéro de téléphone;
-*   en fonction de votre pays, du type d’utilisation et des services disponibles des informations sur votre permis de conduire et une preuve de votre âge;
-*   des informations sur votre mode de paiement.
+* votre nom, votre adresse e-mail et votre numéro de téléphone;
+* en fonction de votre pays, du type d’utilisation et des services disponibles des informations sur votre permis de conduire et une preuve de votre âge;
+* des informations sur votre mode de paiement.
 
 Vous saisissez vous-même ces informations dans notre application lors de l’inscription. Si des informations supplémentaires peuvent être fournies volontairement, elles seront marquées comme information volontaires.
 
@@ -57,22 +57,22 @@ Notre application utilise Google Analytics, un service d'analyse fourni par Goog
 
 Nous avons choisi les paramètres de confidentialité suivants pour Google Analytics :
 
-*   anonymisation de l'IP (raccourcissement de l'adresse IP avant l'analyse afin qu'aucune conclusion ne puisse être tirée sur votre identité);
-*   suppression automatique des anciens journaux / limitation de la période de stockage;
-*   désactivation de la fonction publicitaire (y compris le remarketing de groupes cibles par GA Audience);
-*   désactivation des annonces personnalisées;
-*   désactivation du protocole de mesure;
-*   désactivation du suivi inter-pages (signaux Google);
-*   désactivation du partage de données avec d'autres produits et services Google.
+* anonymisation de l'IP (raccourcissement de l'adresse IP avant l'analyse afin qu'aucune conclusion ne puisse être tirée sur votre identité);
+* suppression automatique des anciens journaux / limitation de la période de stockage;
+* désactivation de la fonction publicitaire (y compris le remarketing de groupes cibles par GA Audience);
+* désactivation des annonces personnalisées;
+* désactivation du protocole de mesure;
+* désactivation du suivi inter-pages (signaux Google);
+* désactivation du partage de données avec d'autres produits et services Google.
 
 Les données suivantes sont traitées par Google Analytics:
 
-*   adresse IP anonyme;
-*   fonctions utilisées ou pages consultées (date, heure, fonction/URL, temps passé);
-*   le cas échéant, la réalisation de certains objectifs (p.ex. des conversions)
-*   informations techniques, notamment système d'exploitation, version et langue; type, marque et modèle de terminal;
-*   ID publicitaire mobile (vous pouvez restreindre cette utilisation dans les paramètres de votre terminal; pour Android, sous Paramètres/Google/Publicité/Réinitialiser l'ID publicitaire, pour iOS sous Paramètres/Privacy/Publicité/No Ad Tracking);
-*   localisation approximative (pays et, le cas échéant, ville, sur la base de l'adresse IP anonymisée).
+* adresse IP anonyme;
+* fonctions utilisées ou pages consultées (date, heure, fonction/URL, temps passé);
+* le cas échéant, la réalisation de certains objectifs (p.ex. des conversions)
+* informations techniques, notamment système d'exploitation, version et langue; type, marque et modèle de terminal;
+* ID publicitaire mobile (vous pouvez restreindre cette utilisation dans les paramètres de votre terminal; pour Android, sous Paramètres/Google/Publicité/Réinitialiser l'ID publicitaire, pour iOS sous Paramètres/Privacy/Publicité/No Ad Tracking);
+* localisation approximative (pays et, le cas échéant, ville, sur la base de l'adresse IP anonymisée).
 
 Les données personnelles liées à une ID publicitaire et permettant l’identification d’une personne particulière qui sont collectées par Google Analytics seront automatiquement supprimées après 14 mois. Nous avons conclu un accord de traitement des données avec Google. Dans certains cas, les données sont traitées sur un serveur de Google aux États-Unis. En cas de transfert de données personnelles aux États-Unis ou dans d'autres pays tiers, nous avons conclu des clauses contractuelles types avec Google conformément à l'article 46, paragraphe 2, lettre c du RGPD.
 
@@ -112,12 +112,12 @@ Nos véhicules contiennent ce que l'on appelle des "boîtes IoT" ou des unités 
 
 Nous traitons les données dans le cadre de la location, notamment aux fins suivantes :
 
-*   pour déterminer si un véhicule se trouve dans la zone d'exploitation respective de TIER ou si la fin de la location aura lieu en dehors de la zone d'exploitation, car cela serait contraire à nos conditions générales. Dans ce cas, nos véhicules peuvent déclencher une fonction d'alarme ("geofencing").
-*   en cas de durée d'utilisation anormalement longue (notamment si le véhicule n'est pas déplacé), nous pouvons mettre fin à la location.
-*   pour des demandes adressées à notre service clientèle (par exemple, une réservation ne peut être effectuée, un véhicule ne peut être localisé, service d’assistance en cas d'accident).
-*   comme preuve en cas d'accident ou de dommage.
-*   à des fins de facturation. Nous notons dans votre historique de réservation les points de départ et d'arrivée de vos déplacements ainsi que les lieux de stationnement, le cas échéant.
-*   pour améliorer nos services en analysant les statistiques agrégées des lieux où les utilisateurs effectuent des réservations et terminent leurs voyages, ainsi que les itinéraires fréquents, nous pouvons optimiser la distribution de nos véhicules.
+* pour déterminer si un véhicule se trouve dans la zone d'exploitation respective de TIER ou si la fin de la location aura lieu en dehors de la zone d'exploitation, car cela serait contraire à nos conditions générales. Dans ce cas, nos véhicules peuvent déclencher une fonction d'alarme ("geofencing").
+* en cas de durée d'utilisation anormalement longue (notamment si le véhicule n'est pas déplacé), nous pouvons mettre fin à la location.
+* pour des demandes adressées à notre service clientèle (par exemple, une réservation ne peut être effectuée, un véhicule ne peut être localisé, service d’assistance en cas d'accident).
+* comme preuve en cas d'accident ou de dommage.
+* à des fins de facturation. Nous notons dans votre historique de réservation les points de départ et d'arrivée de vos déplacements ainsi que les lieux de stationnement, le cas échéant.
+* pour améliorer nos services en analysant les statistiques agrégées des lieux où les utilisateurs effectuent des réservations et terminent leurs voyages, ainsi que les itinéraires fréquents, nous pouvons optimiser la distribution de nos véhicules.
 
 #### 2.4 Collecte de données lors des contacts, de la communication et dans les médias sociaux
 
@@ -161,8 +161,8 @@ Pour traiter les paiements, nous avons recours à des prestataires de services e
 
 Pour connaître la base juridique du traitement des données effectué par les prestataires de services de paiement sous leur propre responsabilité, veuillez vous référer aux déclarations de protection des données des prestataires de services de paiement respectifs :
 
-*   Braintree, une filiale de PayPal (Europe) S.a r.l. et Cie, S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg ("Braintree"). Pour plus d'informations, veuillez consulter la déclaration de protection de données de Braintree (https://www.braintreepayments.com/en/legal/braintree-privacy-policy).
-*   Stripe Payments Europe Ltd, 25/28 North Wall Quay, Dublin 1, Irlande ("Stripe"). Pour plus d'informations, veuillez consulter la déclaration de protection de données de Stripe (https://stripe.com/en/privacy).
+* Braintree, une filiale de PayPal (Europe) S.a r.l. et Cie, S.C.A., 22-24 Boulevard Royal, 2449 Luxembourg, Luxembourg ("Braintree"). Pour plus d'informations, veuillez consulter la déclaration de protection de données de Braintree (https://www.braintreepayments.com/en/legal/braintree-privacy-policy).
+* Stripe Payments Europe Ltd, 25/28 North Wall Quay, Dublin 1, Irlande ("Stripe"). Pour plus d'informations, veuillez consulter la déclaration de protection de données de Stripe (https://stripe.com/en/privacy).
 
 Selon le pays, les options de paiement et les prestataires de services proposés peuvent varier.
 
@@ -196,9 +196,9 @@ Même s'il ne s'agit pas de données à caractère personnel, nous obligeons les
 
 En fonction de l'endroit et des services que vous souhaitez utiliser, nous devons vérifier votre permis de conduire et/ou votre identité, ainsi que votre âge. À cette fin, nous utilisons un processus de vérification automatisé qui fonctionne de la manière suivante :
 
-*   Vous prenez des photos du recto et du verso de votre permis de conduire avec l'appareil photo de votre smartphone. Ces photos contiennent les informations suivantes (photo, nom, date de naissance, numéro de permis de conduire ou de carte d'identité, pays de délivrance, date d'expiration, date de délivrance, classes de permis de conduire).
-*   Un contrôle d'identité est ensuite effectué pour déterminer si la personne représentée sur le permis de conduire ou la carte d'identité correspond à l'utilisateur concerné. À cette fin, vous prenez des photos de votre visage (ce que l'on appelle un "selfie vidéo") qui seront comparées à la photo figurant sur le permis de conduire ou la carte d'identité.
-*   Pendant que vous prenez des photos de votre visage, il vérifie également si votre photo est celle d'une personne vivante. À cette fin, un modèle 3D de votre visage est créé, qui est également comparé à la photo figurant sur votre permis de conduire ou votre carte d'identité.
+* Vous prenez des photos du recto et du verso de votre permis de conduire avec l'appareil photo de votre smartphone. Ces photos contiennent les informations suivantes (photo, nom, date de naissance, numéro de permis de conduire ou de carte d'identité, pays de délivrance, date d'expiration, date de délivrance, classes de permis de conduire).
+* Un contrôle d'identité est ensuite effectué pour déterminer si la personne représentée sur le permis de conduire ou la carte d'identité correspond à l'utilisateur concerné. À cette fin, vous prenez des photos de votre visage (ce que l'on appelle un "selfie vidéo") qui seront comparées à la photo figurant sur le permis de conduire ou la carte d'identité.
+* Pendant que vous prenez des photos de votre visage, il vérifie également si votre photo est celle d'une personne vivante. À cette fin, un modèle 3D de votre visage est créé, qui est également comparé à la photo figurant sur votre permis de conduire ou votre carte d'identité.
 
 En cas de problème, les données peuvent être vérifiées manuellement dans les 24 heures. Vous serez informé de toute vérification manuelle nécessaire et du résultat. Si la vérification échoue pour une raison quelconque, vous pouvez toujours contacter notre service clientèle.
 
@@ -222,14 +222,14 @@ Nous traitons également vos données personnelles aux fins supplémentaires sui
 
 Conformément à l'article 6, paragraphe 1, lettre f du RGPD, sur la base de nos intérêts légitimes :
 
-*   pour améliorer en permanence nos offres et services et les adapter davantage aux besoins de nos utilisateurs,
-*   pour effectuer des contrôles internes de qualité,
-*   pour détecter, éliminer et prévenir les erreurs, les dysfonctionnements et les éventuelles utilisations abusives,
-*   pour assurer la sécurité des réseaux et des informations,
-*   pour la prévention des fraudes,
-*   pour garantir et faire valoir nos revendications légales,
-*   pour empêcher la réinscription des utilisateurs qui ont été bloqués en raison d'un comportement contraire au contrat, d'une fraude ou d'un abus,
-*   à des fins de comptabilité et de gestion des risques.
+* pour améliorer en permanence nos offres et services et les adapter davantage aux besoins de nos utilisateurs,
+* pour effectuer des contrôles internes de qualité,
+* pour détecter, éliminer et prévenir les erreurs, les dysfonctionnements et les éventuelles utilisations abusives,
+* pour assurer la sécurité des réseaux et des informations,
+* pour la prévention des fraudes,
+* pour garantir et faire valoir nos revendications légales,
+* pour empêcher la réinscription des utilisateurs qui ont été bloqués en raison d'un comportement contraire au contrat, d'une fraude ou d'un abus,
+* à des fins de comptabilité et de gestion des risques.
 
 Conformément à l'article 6, paragraphe 1, lettre c du RGPD, pour remplir des obligations légales, par exemple pour respecter les obligations de conservation commerciale et fiscale ou pour remplir les obligations de fournir des données en raison d'une ordonnance judiciaire ou administrative juridiquement contraignante.
 
@@ -243,38 +243,38 @@ Nous traitons vos données dans le cadre de la mise en œuvre de la location de 
 
 Nous avons conclu des accords de traitement avec responsabilité partagée avec nos partenaires conformément à l'article 26 du RGPD. Dans ces cas, les dispositions suivantes s'appliquent :
 
-*   le partenaire est responsable du traitement des données dans le cadre de l'application partenaire (y compris la collecte des données et la création de comptes clients dans l'application partenaire, ainsi que la vérification du permis de conduire et de l'âge et le traitement des paiements, le cas échéant).
-*   nous sommes responsables du traitement des données dans le cadre de la mise en œuvre de la location du véhicule.
+* le partenaire est responsable du traitement des données dans le cadre de l'application partenaire (y compris la collecte des données et la création de comptes clients dans l'application partenaire, ainsi que la vérification du permis de conduire et de l'âge et le traitement des paiements, le cas échéant).
+* nous sommes responsables du traitement des données dans le cadre de la mise en œuvre de la location du véhicule.
 
 Étant donné que nous ne disposons généralement pas d'autres informations sur vous en tant que client lorsque vous effectuez une réservation via une application partenaire, le partenaire est le principal interlocuteur pour les droits des personnes concernées. Toutefois, vous pouvez faire valoir vos droits en matière de protection des données aussi bien contre nous que contre le partenaire concerné.
 
 Nos partenaires qui permettent la réservation de nos services (la disponibilité des applications et services des partenaires étant en partie limitée au niveau régional) sont :
 
-*   Berliner Verkehrsbetriebe (BVG) AöR, Holzmarktstrasse 15-17, 10179 Berlin, Allemagne ("Jelbi")
-*   Intelligent Apps GmbH, Neumühlen 19, 22763 Hambourg, Allemagne ("FreeNow Germany")
-*   mytaxi Network Ireland Ltd, 11 Upper Mount Street, Dublin 2, Irlande ("FreeNow Ireland")
-*   Transcovo SAS et Transopco SAS, 4 Place du 8 Mai 1945, Immeuble Le Hub, 92300 Levallois-Perret, France ("FreeNow France")
-*   mytaxi Polska Sp. z o.o., ul. Mlynarska 42, 01-205 Varsovie, Pologne ("FreeNow Poland")
-*   Hamburger Hochbahn AG, Steinstraße 20, 20095 Hambourg, Allemagne ("hvv switch")
-*   Sixt GmbH & Co. Autovermietung KG, Zugspitzstr. 1, 82049 Pullach, Allemagne ("Sixt")
-*   Nobina Travis AB, org.nr 559264-1756, Armégatan 38, 171 71 Solna, Suède ("Travis")
-*   moovel Group GmbH, Hauptstätter Straße 149, 70178 Stuttgart, Allemagne ("Reach Now")
-*   Aachener Straßenbahn und Energieversorgungs-AG, Neuköllner Str. 1, 52068 Aachen, Allemagne ("movA")
-*   Münchner Verkehrsgesellschaft mbH, Emmy-Noether Str. 2, 80992 Munich, Allemagne ("MVGO")
-*   Rheinbahn AG, Lierenfelder Str. 42, 40231 Düsseldorf, Allemagne ("redy")
-*   SBB AG, Neue Mobilitätsdienstleistungen, Bollwerk 10, Berne, Suisse ("yumuv")
-*   MaaS Global Ltd, Lönnrotinkatu 18, 00120 Helsinki, Finlande ("Whim")
-*   iMobility GmbH, Weyringergasse 5/B4, A-1040 Vienne, Autriche ("Wegfinder")
-*   Trafi GmbH, Chausseestrasse 6, 10115 Berlin, Allemagne ("Trafi")
+* Berliner Verkehrsbetriebe (BVG) AöR, Holzmarktstrasse 15-17, 10179 Berlin, Allemagne ("Jelbi")
+* Intelligent Apps GmbH, Neumühlen 19, 22763 Hambourg, Allemagne ("FreeNow Germany")
+* mytaxi Network Ireland Ltd, 11 Upper Mount Street, Dublin 2, Irlande ("FreeNow Ireland")
+* Transcovo SAS et Transopco SAS, 4 Place du 8 Mai 1945, Immeuble Le Hub, 92300 Levallois-Perret, France ("FreeNow France")
+* mytaxi Polska Sp. z o.o., ul. Mlynarska 42, 01-205 Varsovie, Pologne ("FreeNow Poland")
+* Hamburger Hochbahn AG, Steinstraße 20, 20095 Hambourg, Allemagne ("hvv switch")
+* Sixt GmbH & Co. Autovermietung KG, Zugspitzstr. 1, 82049 Pullach, Allemagne ("Sixt")
+* Nobina Travis AB, org.nr 559264-1756, Armégatan 38, 171 71 Solna, Suède ("Travis")
+* moovel Group GmbH, Hauptstätter Straße 149, 70178 Stuttgart, Allemagne ("Reach Now")
+* Aachener Straßenbahn und Energieversorgungs-AG, Neuköllner Str. 1, 52068 Aachen, Allemagne ("movA")
+* Münchner Verkehrsgesellschaft mbH, Emmy-Noether Str. 2, 80992 Munich, Allemagne ("MVGO")
+* Rheinbahn AG, Lierenfelder Str. 42, 40231 Düsseldorf, Allemagne ("redy")
+* SBB AG, Neue Mobilitätsdienstleistungen, Bollwerk 10, Berne, Suisse ("yumuv")
+* MaaS Global Ltd, Lönnrotinkatu 18, 00120 Helsinki, Finlande ("Whim")
+* iMobility GmbH, Weyringergasse 5/B4, A-1040 Vienne, Autriche ("Wegfinder")
+* Trafi GmbH, Chausseestrasse 6, 10115 Berlin, Allemagne ("Trafi")
 
 ### 4\. Transmission des données personnelles
 
 Chaque transfert des données collectées par nous a lieu comme expliqué ci-dessus et autrement en principe uniquement si :
 
-*   vous avez donné votre consentement exprès à cet égard conformément à l'article 6, paragraphe 1, lettre a du RGPD;
-*   le transfert est nécessaire pour l'affirmation, l'exercice ou la défense de revendications légales conformément à l'article 6, paragraphe 1, lettre f du RGPD et il n'y a aucune raison de supposer que vous avez un intérêt légitime prépondérant à ce que vos données ne soient pas transférées;
-*   nous sommes légalement obligés de transférer les données conformément à l'article 6, paragraphe 1, lettre c du RGPD; ou
-*   cela est légalement autorisé et nécessaire conformément à l'article 6, paragraphe 1, lettre b du RGPD pour le traitement des relations contractuelles avec vous ou pour l'exécution de mesures précontractuelles, qui auront lieu à votre demande.
+* vous avez donné votre consentement exprès à cet égard conformément à l'article 6, paragraphe 1, lettre a du RGPD;
+* le transfert est nécessaire pour l'affirmation, l'exercice ou la défense de revendications légales conformément à l'article 6, paragraphe 1, lettre f du RGPD et il n'y a aucune raison de supposer que vous avez un intérêt légitime prépondérant à ce que vos données ne soient pas transférées;
+* nous sommes légalement obligés de transférer les données conformément à l'article 6, paragraphe 1, lettre c du RGPD; ou
+* cela est légalement autorisé et nécessaire conformément à l'article 6, paragraphe 1, lettre b du RGPD pour le traitement des relations contractuelles avec vous ou pour l'exécution de mesures précontractuelles, qui auront lieu à votre demande.
 
 Pour le traitement des données, nous faisons appel à des prestataires de services externes qui agissent en notre nom et ne sont pas autorisés à traiter les données personnelles à leurs propres fins. Outre les prestataires de services expressément mentionnés dans la présente déclaration de protection des données, il peut s'agir notamment de prestataires de services informatiques et de centres de données, de prestataires de services techniques, d'agences, de sociétés d'études de marché, de sociétés appartenant à un groupe d’entreprises et de sociétés de conseil.
 
@@ -354,7 +354,7 @@ Vous êtes en droit d'exercer à tout moment les droits suivants en tant que per
 
 **Vous avez le droit de révoquer à tout moment un consentement qui nous a été accordé précédemment, avec effet pour l'avenir. Le retrait de votre consentement n'affecte pas la légalité du traitement effectué sur la base de ce consentement jusqu'à la révocation.**
 
- **Dans la mesure où nous traitons vos données sur la base d'intérêts légitimes, vous avez le droit de vous opposer à tout moment au traitement de vos données pour des raisons liées à votre situation particulière. S'il s'agit d'une opposition au traitement des données à des fins de marketing direct, vous disposez d'un droit d'opposition général, que nous mettrons en œuvre même sans que vous ne précisiez de motifs.**
+ **Dans la mesure où nous traitons vos données sur la base d'intérêts légitimes, vous avez le droit de vous opposer à tout moment au traitement de vos données pour des raisons liées à votre situation particulière. S'il s'agit d'une opposition au traitement des données à des fins de marketing direct, vous disposez d'un droit d'opposition général, que nous mettrons en œuvre même sans que vous ne précisiez de motifs.**
 
 Pour faire valoir vos droits, vous pouvez nous contacter à tout moment en utilisant les coordonnées ci-dessus ou à l'adresse [privacy@tier.app](mailto:privacy@tier.app) ou [suppport@tier.app](mailto:suppport@tier.app). Ce faisant, nous pouvons vous demander une preuve d'identité, par exemple en soumettant votre demande par le biais de l'adresse e-mail enregistrée dans votre compte.
 
