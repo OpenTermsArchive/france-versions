@@ -6,11 +6,11 @@ Conditions générales de vente et d'utilisation
 Préambule
 ---------
 
-L'enseigne Printemps.com SASU au capital de 41 800 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 430 236 695, numéro de TVA FR64430236695  (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
+L'enseigne Printemps.com SASU au capital de 41 800 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 430 236 695, numéro de TVA FR64430236695  (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
 
   
 
-Le présent document régit les conditions générales d'utilisation du Site ainsi que les conditions générales de vente (les « **Conditions** ») entre la Société, et tout consommateur personne physique âgée d'au moins 18 ans qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole et agissant pour ses besoins personnels souhaitant utiliser le Site (« **l'Utilisateur** ») ou effectuer un achat sur le Site (« **le Client** »).
+Le présent document régit les conditions générales d'utilisation du Site ainsi que les conditions générales de vente (les « **Conditions** ») entre la Société, et tout consommateur personne physique âgée d'au moins 18 ans qui agit à des fins qui n'entrent pas dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole et agissant pour ses besoins personnels souhaitant utiliser le Site (« **l'Utilisateur** ») ou effectuer un achat sur le Site (« **le Client** »).
 
   
 
@@ -22,7 +22,7 @@ La Société se réserve le droit de mettre à jour ou de réviser les présente
 
   
 
-La Société propose à la vente des articles de prêt-à-porter, accessoires, uniquement de marques renommées. Ces produits proviennent directement des producteurs et revendeurs autorisés (« **les Produits** »)
+La Société propose à la vente des articles de prêt-à-porter, accessoires, uniquement de marques renommées. Ces produits proviennent directement des producteurs et revendeurs autorisés (« **les Produits** »)
 
 Article 1 - Création de compte
 ------------------------------
@@ -259,10 +259,10 @@ Sauf en cas de force majeure et à l'exclusion de certaines périodes de fortes 
 
   
 
-*   Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
-*   Les délais d'expédition et de livraison seront indiqués ceux à l'article 3.4 ci-dessous, dans la limite des stocks disponibles. Ces délais courent :
-*   Pour le délai d'expédition, à compter de la date du mail de confirmation de commande;
-*   Pour le délai de livraison, à compter de la date du mail d'expédition envoyé par la Société au Client.
+* Les commandes seront préparées et expédiées dans les termes et conditions de l'article 3.1 ci-dessus ;
+* Les délais d'expédition et de livraison seront indiqués ceux à l'article 3.4 ci-dessous, dans la limite des stocks disponibles. Ces délais courent :
+* Pour le délai d'expédition, à compter de la date du mail de confirmation de commande;
+* Pour le délai de livraison, à compter de la date du mail d'expédition envoyé par la Société au Client.
 
   
 
@@ -290,7 +290,7 @@ Livraisons offertes dès 200€ d'achat
 
   
 
-*   **CLICK AND COLLECT**, GRATUIT, dans les magasins Printemps\*
+* **CLICK AND COLLECT**, GRATUIT, dans les magasins Printemps\*
 
 \* Service non disponible à Printemps Caen, Printemps Brest et Printemps Tours.
 
@@ -298,8 +298,8 @@ Livraisons offertes dès 200€ d'achat
 
 Ce service de livraison permet de faire livrer la commande au magasin Printemps choisi lors de votre commande. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps durant 14 jours.
 
-*   Pour le Printemps Haussmann et Printemps Nation. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi après midi. Info Printemps Haussmann : la récupération de vos commandes se fera au 4ème étage du Printemps Mode.
-*   Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
+* Pour le Printemps Haussmann et Printemps Nation. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi après midi. Info Printemps Haussmann : la récupération de vos commandes se fera au 4ème étage du Printemps Mode.
+* Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
 
   
 
@@ -311,7 +311,7 @@ Pour plus d'informations sur les jours et horaires d'ouverture des magasins Prin
 
   
 
-*   **COURSIER, 12 euros** (à Paris et petite couronne uniquement, de 8h à 22h)
+* **COURSIER, 12 euros** (à Paris et petite couronne uniquement, de 8h à 22h)
 
 Livraison à Paris, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val de Marne, Val d'Oise, Seine-et-Marne et Yvelines.
 
@@ -337,7 +337,7 @@ Si le Client ne reçoit pas son colis ou qu'il n'a pas de nouvelle du service de
 
   
 
-*   **STANDARD COLISSIMO, 5 euros** (48 à 72 heures)
+* **STANDARD COLISSIMO, 5 euros** (48 à 72 heures)
 
   
 
@@ -361,7 +361,7 @@ Un e-mail sera envoyé au Client lorsque son colis sera expédié depuis l'entre
 
   
 
-*   **EXPRESS CHRONOPOST, 8 euros** (en 24 heures)
+* **EXPRESS CHRONOPOST, 8 euros** (en 24 heures)
 
   
 
@@ -387,7 +387,7 @@ Livraisons offertes dès 200 euros d'achat
 
   
 
-*   **CLICK AND COLLECT, GRATUIT**, dans les magasins Printemps\*
+* **CLICK AND COLLECT, GRATUIT**, dans les magasins Printemps\*
 
 \* Service non disponible à Printemps Caen, Printemps Brest, Printemps Tours et Printemps du Louvre.
 
@@ -397,9 +397,9 @@ Ce service de livraison permet au Client de faire livrer sa commande au Printemp
 
   
 
-*   Pour le Printemps Haussmann, Printemps Nation et Printemps Italie 2. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi matin. Info Printemps Haussmann : la récupération des commandes se fera au 4ème étage du Printemps Mode.
-*   Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
-*   Les magasins Printemps Caen, Printemps Brest, Printemps Tours et Printemps du Louvre n'offrent pas de livraison Click & Collect.
+* Pour le Printemps Haussmann, Printemps Nation et Printemps Italie 2. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi matin. Info Printemps Haussmann : la récupération des commandes se fera au 4ème étage du Printemps Mode.
+* Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
+* Les magasins Printemps Caen, Printemps Brest, Printemps Tours et Printemps du Louvre n'offrent pas de livraison Click & Collect.
 
   
 
@@ -411,7 +411,7 @@ Pour plus d'informations sur les jours et horaires d'ouverture des magasins Prin
 
   
 
-*   **STANDARD COLISSIMO**, 5 euros (48 à 72 heures)
+* **STANDARD COLISSIMO**, 5 euros (48 à 72 heures)
 
   
 
@@ -435,7 +435,7 @@ Un e-mail sera envoyé au client lorsque son colis sera expédié depuis l'entre
 
   
 
-*   **EXPRESS CHRONOPOST**, 8 euros (en 24 heures)
+* **EXPRESS CHRONOPOST**, 8 euros (en 24 heures)
 
   
 
@@ -461,7 +461,7 @@ Livraisons standard offertes dès 200 euros d'achat
 
   
 
-*   **CHRONO STANDARD INTERNATIONAL** (sous 2 à 4 jours)
+* **CHRONO STANDARD INTERNATIONAL** (sous 2 à 4 jours)
 
 Livraison standard à domicile pour les pays suivants :
 
@@ -495,7 +495,7 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
   
 
-*   **CHRONO EXPRESS INTERNATIONAL**, 15 euros (en 24h)
+* **CHRONO EXPRESS INTERNATIONAL**, 15 euros (en 24h)
 
 La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie.
 
@@ -507,7 +507,7 @@ Le délai de livraison est de 1 jour ouvré.
 
 **DOM-TOM et reste du monde**
 
-*   **Colis Expat**
+* **Colis Expat**
 
   
 
@@ -550,7 +550,7 @@ Le Client peut effectuer le paiement de sa commande à l'aide des moyens suivant
 
   
 
-*   Par cartes bancaires suivantes : Visa, Mastercard, American Express.
+* Par cartes bancaires suivantes : Visa, Mastercard, American Express.
 
 Les transactions effectuées sur le Site sont confiées à une plateforme de paiement en ligne sécurisée INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : support.ecom@ingenico.com.
 
@@ -562,23 +562,23 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
-*   Par compte PayPal, lequel sera automatiquement soumis aux conditions d'utilisation de Service Paypal ainsi qu'au règlement sur le respect de la vie privée de Paypal.
+* Par compte PayPal, lequel sera automatiquement soumis aux conditions d'utilisation de Service Paypal ainsi qu'au règlement sur le respect de la vie privée de Paypal.
 
   
 
-*   Par bon d'achat valable 6 mois sur le Site ou par e-carte cadeau valable 1 an sur le Site dont les conditions figurent ci-après l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
+* Par bon d'achat valable 6 mois sur le Site ou par e-carte cadeau valable 1 an sur le Site dont les conditions figurent ci-après l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
 
   
 
-*   Printania Plus
+* Printania Plus
 
   
 
-*   Paiement en 3x sans frais possible pour toutes les commandes allant de 150 euros à 2 000 euros promotions incluses.
+* Paiement en 3x sans frais possible pour toutes les commandes allant de 150 euros à 2 000 euros promotions incluses.
 
   
 
-*   Paiement e-carte cadeau dans les conditions de l'article 5
+* Paiement e-carte cadeau dans les conditions de l'article 5
 
   
 
@@ -625,8 +625,8 @@ Les e-cartes cadeaux ne peuvent bénéficier d'aucun code promotionnel lors de l
 
 3\. Sélectionnez le mode d'envoi. Vous avez deux possibilités :
 
-*   Envoi par e-mail au destinataire de la carte cadeau
-*   Envoi par e-mail à votre adresse électronique au format PDF à imprimer
+* Envoi par e-mail au destinataire de la carte cadeau
+* Envoi par e-mail à votre adresse électronique au format PDF à imprimer
 
 4\. Vous pouvez personnaliser votre e-carte cadeau en renseignant les champs « Saisir le montant de votre choix », « De la part de », « Pour » « Événement » et « Saisir votre message ».
 
@@ -715,13 +715,13 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
 **8.2 EXERCICE DU DROIT DE RÉTRACTATION**
 
-*   Notification de la décision de rétractation :
+* Notification de la décision de rétractation :
 
 Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou présent en annexe ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
 
   
 
-*   Retour du Produit après rétractation :
+* Retour du Produit après rétractation :
 
 Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue du général leclerc 93500 Pantin sans retard excessif, et au plus tard 30 jours calendaires après avoir reçu sa commande
 
@@ -731,12 +731,12 @@ Pour plus d'informations sur les frais et modalités de retour, consultez la pag
 
   
 
-*   Exceptions
+* Exceptions
 
 Il n'existe aucun droit de rétractation pour :
 
-*   Les Produits confectionnés selon les spécifications du consommateur ou nettement personnalisés
-*   Les Produits dès lors qu'ils ont été portés, lavés, retouchés ou endommagés de manière définitive.
+* Les Produits confectionnés selon les spécifications du consommateur ou nettement personnalisés
+* Les Produits dès lors qu'ils ont été portés, lavés, retouchés ou endommagés de manière définitive.
 
   
 
@@ -749,10 +749,10 @@ Les retours doivent remplir les conditions ci-dessous pour être acceptés :
 
   
 
-*   Le formulaire de retour doit être inclus dans le colis.
-*   Les articles doivent être neufs, non portés et dans leur emballage d'origine.
-*   L'étiquette en carton avec le prix, le code à barres et le nom du produit doit également être renvoyée avec l'article dans le même état qu'il a été envoyé.
-*   Les articles retournés endommagés, incomplets, usés, salis ou lavé ou qui porte des odeurs de cuisine, de tabac ou de sueur, ne seront ni repris ni remboursés, ni échangés.
+* Le formulaire de retour doit être inclus dans le colis.
+* Les articles doivent être neufs, non portés et dans leur emballage d'origine.
+* L'étiquette en carton avec le prix, le code à barres et le nom du produit doit également être renvoyée avec l'article dans le même état qu'il a été envoyé.
+* Les articles retournés endommagés, incomplets, usés, salis ou lavé ou qui porte des odeurs de cuisine, de tabac ou de sueur, ne seront ni repris ni remboursés, ni échangés.
 
   
 
@@ -774,13 +774,13 @@ Cas particuliers :
 
   
 
-*   **Sacs & Accessoires**
+* **Sacs & Accessoires**
 
 Les articles doivent être retournés comme ils ont été reçus, dans leur emballage d'origine et avec les certificats d'authenticité et étiquettes créateurs intactes.
 
   
 
-*   **Chaussures**
+* **Chaussures**
 
 Les chaussures ne doivent pas avoir été portées, sauf lorsqu'elles sont essayées. Les semelles doivent être lisses et à l'état neuf, sans rayures indiquant qu'elles ont été portées.
 
@@ -788,25 +788,25 @@ La boîte à chaussures doit être en parfait état et ne doit en aucun cas êtr
 
   
 
-*   **Lingerie et maillots de bain**
+* **Lingerie et maillots de bain**
 
 Les sous-vêtements et bas de maillots de bains doivent être essayés par-dessus des sous vêtement,les protections adhésives ne doivent pas être ôtées.
 
   
 
-*   **Joaillerie fine**
+* **Joaillerie fine**
 
 Ces pièces d'exception doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique et toutes les étiquettes de créateurs intactes.
 
   
 
-*   **Montres de luxe**
+* **Montres de luxe**
 
 Les montres de luxe doivent être retournées neuves et non utilisées dans leur boîte d'origine avec la protection plastique sur le cadran, la garantie, la boîte de présentation et tout autre packaging extérieur. Veuillez également vous assurer que la montre n'a pas été mise à l'heure correcte.
 
   
 
-*   **Produits de beauté**
+* **Produits de beauté**
 
 Les articles de beauté doivent être impérativement retournés dans leur emballage d'origine non descellés avec le film plastique de protection et l'opercule intacts. Les articles ne peuvent être essayés et doivent être à l'état neuf, non ouverts, non utilisés, non abimés, non salis, non testés. Pour retourner un article beauté, veillez à remettre les articles dans le colis d'origine; qui a fait l'objet de nombreux tests concluants. Ce conditionnement, résiste en effet, à tous les chocs, chutes et manutentions possibles durant l'acheminement du colis. Si toutefois le colis après ouverture ne permettait pas le retour dans de bonnes conditions des articles beauté, nous vous invitons vivement à trouver un contenant adéquat et à emballer soigneusement les articles retournés pour assurer le maximum de protection pendant le transport.
 
@@ -914,8 +914,8 @@ S'agissant des frais de livraison initiaux :
 
   
 
-*   Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
-*   En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
+* Si l'ensemble des Produits de la commande sont retournés au titre du droit de rétractation, la Société rembourse également les frais de livraison standard liés à l'envoi de la commande (à l'exception des frais supplémentaires si le Client a choisi un mode de livraison autre que le mode de livraison standard proposé par la Société, et dont le détail figure à l'article 3.3 ci-dessus ainsi que sous le lien Click and Collect, Livraisons et Retours).
+* En cas de renvoi d'une partie seulement de la commande, le remboursement des frais forfaitaires initiaux d'envoi n'est pas dû.
 
   
 
@@ -1060,8 +1060,8 @@ Dans le cadre de la garantie des vices cachés, la Société s'engage au choix d
 
   
 
-*   soit, en cas de restitution dudit Produit par le Client, à rembourser le prix du Produit, ainsi que les éventuels frais de livraison et de retour, si le remplacement s'avérait impossible ;
-*   soit, en cas de conservation du Produit par le Client, à rembourser à ce dernier une partie de son prix.
+* soit, en cas de restitution dudit Produit par le Client, à rembourser le prix du Produit, ainsi que les éventuels frais de livraison et de retour, si le remplacement s'avérait impossible ;
+* soit, en cas de conservation du Produit par le Client, à rembourser à ce dernier une partie de son prix.
 
   
 
@@ -1083,9 +1083,9 @@ Article 12 - Service client
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
-*   par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 19h (UTC+1, Paris)
-*   par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
-*   via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
+* par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 19h (UTC+1, Paris)
+* par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
+* via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
 
   
 
@@ -1100,11 +1100,11 @@ Pour connaître les modalités de saisine du Médiateur, le Client est invité �
 
 Aux termes de l'article L152-2 du Code de la consommation, un litige ne peut être examiné par le médiateur de la consommation lorsque :
 
-*   Le consommateur ne justifie pas avoir tenté, au préalable, de résoudre son litige directement auprès du professionnel par une réclamation écrite selon les modalités prévues, le cas échéant, dans le contrat ;
-*   La demande est manifestement infondée ou abusive ;
-*   Le litige a été précédemment examiné ou est en cours d'examen par un autre médiateur ou par un tribunal ;
-*   Le consommateur a introduit sa demande auprès du médiateur dans un délai supérieur à un an à compter de sa réclamation écrite auprès du professionnel ;
-*   Le litige n'entre pas dans son champ de compétence.
+* Le consommateur ne justifie pas avoir tenté, au préalable, de résoudre son litige directement auprès du professionnel par une réclamation écrite selon les modalités prévues, le cas échéant, dans le contrat ;
+* La demande est manifestement infondée ou abusive ;
+* Le litige a été précédemment examiné ou est en cours d'examen par un autre médiateur ou par un tribunal ;
+* Le consommateur a introduit sa demande auprès du médiateur dans un délai supérieur à un an à compter de sa réclamation écrite auprès du professionnel ;
+* Le litige n'entre pas dans son champ de compétence.
 
 Le consommateur est informé par le médiateur, dans un délai de trois semaines à compter de la réception de son dossier, du rejet de sa demande de médiation.
 
