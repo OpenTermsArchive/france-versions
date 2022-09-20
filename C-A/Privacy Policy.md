@@ -10,9 +10,9 @@ La protection des données est une affaire de confiance et nous voudrions vous d
 
 Pour que vous puissiez vous sentir en sécurité lors de votre consultation de l’e-shop C&A, vous découvrirez dans la présente politique de confidentialité : 
 
-*   les données que nous enregistrons lorsque vous utilisez l’e-shop C&A.
-*   À quelles fins nous traitons vos données
-*   Quels sont vos droits et possibilités de paramétrage, notamment comment vous pouvez vous opposer au traitement de vos données et révoquer vos consentements éventuellement accordés.
+* les données que nous enregistrons lorsque vous utilisez l’e-shop C&A.
+* À quelles fins nous traitons vos données
+* Quels sont vos droits et possibilités de paramétrage, notamment comment vous pouvez vous opposer au traitement de vos données et révoquer vos consentements éventuellement accordés.
 
 ### 1. Qui est le responsable de traitement de l’e-shop C&A ?
 
@@ -32,13 +32,13 @@ Vous pouvez contacter notre délégué à la protection des données à l’adre
 
 Vous pouvez consulter l’e-shop C&A sans fournir d’informations à caractère personnel. Dans ce cas, nous enregistrons les données techniques d’accès que votre navigateur transmet automatiquement à notre serveur dans le cadre de la consultation de pages. Les données d’accès comprennent notamment les informations suivantes :
 
-*   Date et heure de l'accès,
-*   Adresse du site Web consulté et du site Web demandeur,
-*   Contenu de la requête (adresses et noms des fichiers demandés),
-*   Informations sur le navigateur utilisé et le système d’exploitation (versions, réglages linguistiques),
-*   Identifiants en ligne (p. ex. adresse IP, identifiants des appareils, ID de session),
-*   Le cas échéant, messages d’erreur (si les contenus demandés ne peuvent pas être affichés),
-*   La page consultée vous ayant redirigé vers une page de l’e-shop C&A en suivant un lien.
+* Date et heure de l'accès,
+* Adresse du site Web consulté et du site Web demandeur,
+* Contenu de la requête (adresses et noms des fichiers demandés),
+* Informations sur le navigateur utilisé et le système d’exploitation (versions, réglages linguistiques),
+* Identifiants en ligne (p. ex. adresse IP, identifiants des appareils, ID de session),
+* Le cas échéant, messages d’erreur (si les contenus demandés ne peuvent pas être affichés),
+* La page consultée vous ayant redirigé vers une page de l’e-shop C&A en suivant un lien.
 
 Vos données d’accès sont automatiquement enregistrées dans les fichiers journaux de notre serveur pendant votre visite et ensuite rendues anonymes en abrégeant ou en supprimant votre adresse IP. Il n’est plus possible ensuite de remonter directement à vous à l’aide des fichiers journaux du serveur.
 
@@ -64,14 +64,14 @@ Vous pouvez supprimer à tout moment votre compte client C&A et les données qu�
 
 Nous enregistrons les produits que vous commandez ou inscrivez dans votre liste de souhaits. De plus, nous enregistrons les données en relation directe avec le traitement de vos commandes. Les données de commande comprennent notamment:
 
-*   Informations sur les produits commandés, par exemple, les numéros d’articles et taille,
-*   l’adresse électronique
-*   Adresse de facturation et de livraison,
-*   Données de paiement,
-*   Informations sur le comportement de paiement et données de solvabilité que nous obtenons, le cas échéant, auprès d’agences de crédit,
-*   Détails sur les retours et réclamations (p. ex. motifs du retour, déclaration de défauts),
-*   Numéros de commande,
-*   Numéro de suivi d’envoi des services d’expédition (p. ex. Colissimo).
+* Informations sur les produits commandés, par exemple, les numéros d’articles et taille,
+* l’adresse électronique
+* Adresse de facturation et de livraison,
+* Données de paiement,
+* Informations sur le comportement de paiement et données de solvabilité que nous obtenons, le cas échéant, auprès d’agences de crédit,
+* Détails sur les retours et réclamations (p. ex. motifs du retour, déclaration de défauts),
+* Numéros de commande,
+* Numéro de suivi d’envoi des services d’expédition (p. ex. Colissimo).
 
 Si vous passez plusieurs commandes en tant qu’invité et que vous utilisez des données de base identiques, nos systèmes regroupent vos données en un seul dossier client pour faciliter l’entretien de notre base de données. Si vous deviez vous inscrire par la suite pour un compte client C&A avec ces données de base, nous pouvons relier votre dossier client avec votre compte client afin que vous puissiez avoir accès aussi à vos anciennes commandes.
 
@@ -117,10 +117,10 @@ Dans la mesure où vous avez consenti au traitement des données, la principale 
 
 Nous traitons vos données pour exécuter les contrats conclus avec vous et pour fournir des prestations à votre demande. Les finalités sont définies principalement en fonction du contenu concret du contrat ou de la finalité des prestations que vous avez demandées. Vous pouvez consulter les détails des finalités du traitement, le cas échéant, dans les documents contractuels et conditions de vente, par exemple, dans nos [conditions générales de vente](https://www.c-and-a.com/fr/fr/shop/service/cgv). Quelques exemples :
 
-*   Création et mise à disposition de votre compte client
-*   Exécution de contrats d’achat
-*   Organisation de jeux-concours et promotions
-*   Communication non publicitaire avec vous (p. ex., consignes de sécurité et modifications concernant le contrat)
+* Création et mise à disposition de votre compte client
+* Exécution de contrats d’achat
+* Organisation de jeux-concours et promotions
+* Communication non publicitaire avec vous (p. ex., consignes de sécurité et modifications concernant le contrat)
 
 Bases légales:
 
@@ -154,8 +154,8 @@ Vous trouverez des informations complètes sur vos droits à la protection des d
 
 Nous traitons vos données pour fournir notre service client. Cela comprend, par exemple:
 
-*   Traitement de vos demandes et questions par le service client de C&A,
-*   Communication non publicitaire avec vous (p. ex., consignes de sécurité et support technique).
+* Traitement de vos demandes et questions par le service client de C&A,
+* Communication non publicitaire avec vous (p. ex., consignes de sécurité et support technique).
 
 Bases légale:
 
@@ -171,10 +171,10 @@ Si vous choisissez de payer par carte de crédit pendant la validation de la com
 
 Dans un premier temps, vos données suivantes seront transmises à la société émettrice de la carte de crédit :
 
-*   Votre nom (civilité, prénom, nom)
-*   Votre adresse
-*   si l'adresse de livraison est différente, celle-ci sera transmise également (y compris Click & Collect et relais colis)
-*   Votre adresse e-mail.
+* Votre nom (civilité, prénom, nom)
+* Votre adresse
+* si l'adresse de livraison est différente, celle-ci sera transmise également (y compris Click & Collect et relais colis)
+* Votre adresse e-mail.
 
 Si les données transmises présentent des divergences pouvant indiquer un risque accru, un deuxième niveau de contrôle est effectué pour lequel le titulaire de la carte doit en outre interagir (demande d'un deuxième facteur tel que saisie du mot de passe ou du code PIN).
 
@@ -230,7 +230,7 @@ Suppression des sauvegardes après 12 mois supplémentaires.
 
 Nous sommes tenus dans le cadre du mode de paiement sélectionné de mettre à disposition les données à caractère personnel requises par la loi pour l'authentification du client. Si ces données ne sont pas fournies, le mode de paiement sélectionné ne peut pas être exécuté.
 
-**6\. Existence d'un processus décisionnel automatisé, y compris le profilage, conformément à l'article 22, alinéa 1 et 4, et, au moins dans ces cas, informations utiles sur la logique impliquée ainsi que sur la portée et l'impact prévu d'un tel traitement pour la personne concernée** 
+**6\. Existence d'un processus décisionnel automatisé, y compris le profilage, conformément à l'article 22, alinéa 1 et 4, et, au moins dans ces cas, informations utiles sur la logique impliquée ainsi que sur la portée et l'impact prévu d'un tel traitement pour la personne concernée** 
 
 Un contrôle automatisé de l'authentification et/ou du risque a lieu. Un logiciel d'analyse calcule un score pour chaque transaction, sur la base des données transmises. Si une transaction est classée à faible risque, elle est validée sans que le titulaire de la carte soit invité à saisir un code supplémentaire. L'impact potentiel peut être que l'authentification peut échouer et que le mode de paiement choisi ne peut pas être utilisé dans le cas particulier.
 
@@ -272,7 +272,7 @@ Vous trouverez plus d’informations à ce sujet dans les [Règles de confiden
 
 #### 5.1 Google Analytics
 
-Notre site Web utilise le service d’analyse Web Google Analytics proposé par Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis (« Google »). Google Analytics utilise des cookies d’une durée de validité de 14 mois pour enregistrer vos données d’accès lors de la consultation de notre site Web. Les données d’accès sont résumées par Google dans des profils d’utilisation sous pseudonyme à notre demande et transférées à un serveur Google aux États-Unis. Votre adresse IP est rendue anonyme au préalable. Nous ne pouvons donc pas attribuer l’appartenance des profils d’utilisation à des utilisateurs particuliers. Grâce aux données enregistrées par Google, nous ne pouvons ni vous identifier ni déterminer comment vous utilisez notre site Web. Au cas où des données à caractère personnel seraient transférées aux États-Unis à titre exceptionnel, Google s’est soumis au [EU-US Privacy Shield](https://www.privacyshield.gov/). Google s’est ainsi engagé à garantir les principes européens de protection des données et le niveau de protection des données même dans le cadre du traitement des données se déroulant aux États-Unis. 
+Notre site Web utilise le service d’analyse Web Google Analytics proposé par Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis (« Google »). Google Analytics utilise des cookies d’une durée de validité de 14 mois pour enregistrer vos données d’accès lors de la consultation de notre site Web. Les données d’accès sont résumées par Google dans des profils d’utilisation sous pseudonyme à notre demande et transférées à un serveur Google aux États-Unis. Votre adresse IP est rendue anonyme au préalable. Nous ne pouvons donc pas attribuer l’appartenance des profils d’utilisation à des utilisateurs particuliers. Grâce aux données enregistrées par Google, nous ne pouvons ni vous identifier ni déterminer comment vous utilisez notre site Web. Au cas où des données à caractère personnel seraient transférées aux États-Unis à titre exceptionnel, Google s’est soumis au [EU-US Privacy Shield](https://www.privacyshield.gov/). Google s’est ainsi engagé à garantir les principes européens de protection des données et le niveau de protection des données même dans le cadre du traitement des données se déroulant aux États-Unis. 
 
 Google utilisera pour notre compte les informations obtenues grâce aux cookies pour évaluer l’utilisation de notre site Web, établir des rapports sur les activités du site Web et pour nous fournir d’autres services en lien avec l’utilisation du site Web et l’utilisation d’Internet. Vous trouverez plus d’informations à ce sujet dans les [Principes de confidentialité](https://support.google.com/analytics/answer/6004245?hl=fr) de Google Analytics.
 
@@ -447,11 +447,11 @@ L’article 6 paragraphe 1 point a) du RGPD (consentement) constitue la base lé
 
 Vous trouverez des informations sur vos droits à la protection des données personnelles et d’autres informations importantes dans la [protection des données de C&A, qui s'applique également](#declaration)qui s’applique en complément de celle-ci.
 
-*   Notre prestataire pour les paiements par PayPal est la société PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (« PayPal »).
-*   Notre acquéreur chargé de l’acceptation des paiements par carte de crédit des marques Visa et MasterCard est la société EVO Payments International GmbH, Elsa-Brandström-Str. 10-12, D-50668 Cologne.
-*   vous nous y avez expressément autorisés, conformément à l’article 6, paragraphe 1, point a, RGPD, 
-*   la transmission est nécessaire, conformément à l’article 6, paragraphe 1, point f, RGPD, pour faire valoir, exercer ou défendre des droits en justice et s’il n’existe pas de raison de supposer que vous disposez d’un intérêt légitime prépondérant à cesser la transmission de vos données,
-*   nous sommes tenus légalement à la transmission, conformément à l’article 6, paragraphe 1, point c ou point e, RGPD, notamment si nous sommes tenus à la divulgation vis-à-vis d’une autorité, ou
-*   la transmission est autorisée légalement et nécessaire, conformément à l’article 6, paragraphe 1, point b, RGPD, à l’exécution des engagements contractuels avec vous ou à l’exécution de mesures précontractuelles réalisées à votre demande.
-*   Adresse e-mail
-*   Intéret/Collection
+* Notre prestataire pour les paiements par PayPal est la société PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal, L-2449 Luxembourg (« PayPal »).
+* Notre acquéreur chargé de l’acceptation des paiements par carte de crédit des marques Visa et MasterCard est la société EVO Payments International GmbH, Elsa-Brandström-Str. 10-12, D-50668 Cologne.
+* vous nous y avez expressément autorisés, conformément à l’article 6, paragraphe 1, point a, RGPD, 
+* la transmission est nécessaire, conformément à l’article 6, paragraphe 1, point f, RGPD, pour faire valoir, exercer ou défendre des droits en justice et s’il n’existe pas de raison de supposer que vous disposez d’un intérêt légitime prépondérant à cesser la transmission de vos données,
+* nous sommes tenus légalement à la transmission, conformément à l’article 6, paragraphe 1, point c ou point e, RGPD, notamment si nous sommes tenus à la divulgation vis-à-vis d’une autorité, ou
+* la transmission est autorisée légalement et nécessaire, conformément à l’article 6, paragraphe 1, point b, RGPD, à l’exécution des engagements contractuels avec vous ou à l’exécution de mesures précontractuelles réalisées à votre demande.
+* Adresse e-mail
+* Intéret/Collection
