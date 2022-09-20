@@ -5,7 +5,7 @@ Conditions générales de vente
 
 Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.  
   
-Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappastore.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
+Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappastore.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
   
 Kappa a procédé au signalement de cette activité d'usurpation d'identité frauduleuse auprès des autorités.  
 \-----------------------------------------------
@@ -47,8 +47,8 @@ A chaque fois qu’ils seront utilisés dans les Conditions Générales, les ter
 
 Le Client peut s’inscrire sur le Site et créer un Compte Client. Pour cela, il doit :
 
-*   remplir le formulaire prévu à cet effet, et renseigner toutes les informations requises notamment : nom, prénom, adresse postale, date de naissance, adresse e-mail, coordonnées bancaires.
-*   prendre connaissance et accepter les Conditions Générales, en cochant la case prévue à cet effet.
+* remplir le formulaire prévu à cet effet, et renseigner toutes les informations requises notamment : nom, prénom, adresse postale, date de naissance, adresse e-mail, coordonnées bancaires.
+* prendre connaissance et accepter les Conditions Générales, en cochant la case prévue à cet effet.
 
 Le Client garantit que les informations figurant sur son Compte Client, sont exactes et complètes, et s’engage à les mettre à jour en cas de modification.
 
@@ -84,9 +84,9 @@ De manière exceptionnelle, dans l’éventualité d’une indisponibilité tota
 
 En cas d’indisponibilité du Produit, le Client dispose alors de la faculté :
 
-*   soit d’être livré d’un Produit de qualité et de prix équivalent, dans la limite des stocks disponibles ;
-*   soit de patienter jusqu’à une prochaine livraison dont le délai lui sera précisé ;
-*   soit d’être remboursé du prix du Produit commandé au plus tard dans les trente (30) jours suivant sa demande.
+* soit d’être livré d’un Produit de qualité et de prix équivalent, dans la limite des stocks disponibles ;
+* soit de patienter jusqu’à une prochaine livraison dont le délai lui sera précisé ;
+* soit d’être remboursé du prix du Produit commandé au plus tard dans les trente (30) jours suivant sa demande.
 
 **5.3 Commande**
 
@@ -239,11 +239,11 @@ Pour un Client en France Métropolitaine et à Monaco, les retours sont gratuits
 
 Les Produits doivent être renvoyés par le Client dans un délai de quatorze (14) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
 
-*   Dans leur emballage d’origine ;
-*   Complets (accessoires, notices) ;
-*   Propres et non portés (sauf pour essayage) ;
-*   Ni endommagés, ni détériorés ;
-*   Accompagnés de la facture d’origine correspondante.
+* Dans leur emballage d’origine ;
+* Complets (accessoires, notices) ;
+* Propres et non portés (sauf pour essayage) ;
+* Ni endommagés, ni détériorés ;
+* Accompagnés de la facture d’origine correspondante.
 
 Les Produits qui ne seraient pas retournés dans les délais et dans les conditions visées ci-dessus ne seront pas remboursés par KAPPA FRANCE.
 
@@ -297,9 +297,9 @@ Dans ces hypothèses, KAPPA FRANCE ne pourra être tenue responsable de l’indi
 
 Le Client déclare connaitre et accepter les caractéristiques et limites du réseau Internet et en particulier reconnaitre :
 
-*   être averti des aléas techniques qui peuvent affecter le réseau Internet et de téléphonie mobile et entraîner des dysfonctionnements, des anomalies, des pertes de données, des ralentissements ou des indisponibilités rendant la connexion lente ou impossible,
+* être averti des aléas techniques qui peuvent affecter le réseau Internet et de téléphonie mobile et entraîner des dysfonctionnements, des anomalies, des pertes de données, des ralentissements ou des indisponibilités rendant la connexion lente ou impossible,
 
-*   être informé des risques de détournement des données circulant sur le réseau Internet. Il appartient au Client à ce titre de prendre toutes les mesures nécessaires pour se protéger d’éventuels logiciels malveillants ou virus qui pourraient circuler sur le Site.
+* être informé des risques de détournement des données circulant sur le réseau Internet. Il appartient au Client à ce titre de prendre toutes les mesures nécessaires pour se protéger d’éventuels logiciels malveillants ou virus qui pourraient circuler sur le Site.
 
 **ARTICLE 10 – PROPRIETE INTELLECTUELLE**
 
