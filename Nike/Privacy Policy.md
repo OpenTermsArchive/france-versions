@@ -15,26 +15,26 @@ Nous vous demandons de nous communiquer certaines données personnelles pour vou
 
 Ces données personnelles comprennent vos :
 
-*   coordonnées, comprenant nom, e-mail, numéro de téléphone et adresse de livraison et de facturation ;
-*   informations d’utilisateur et de compte, comprenant vos pseudonyme, mot de passe et identifiant unique d’utilisateur ;
-*   informations personnelles, comprenant votre sexe, ville, date de naissance et votre historique d’achats ;
-*   informations de paiement ou de carte de crédit ;
-*   images, photos et vidéos ;
-*   données sur vos caractéristiques physiques, comprenant vos poids, taille et mensurations (telles qu’une estimation de votre foulée, pointure ou taille de vêtements) ;
-*   données sur votre condition physique fournies par vos soins ou générées via notre Plateforme (heure, durée, distance, localisation, calcul de calories, cadence/foulée) ; ou
-*   préférences personnelles, comprenant votre liste de souhaits, vos préférences marketing et en matière de cookies.
+* coordonnées, comprenant nom, e-mail, numéro de téléphone et adresse de livraison et de facturation ;
+* informations d’utilisateur et de compte, comprenant vos pseudonyme, mot de passe et identifiant unique d’utilisateur ;
+* informations personnelles, comprenant votre sexe, ville, date de naissance et votre historique d’achats ;
+* informations de paiement ou de carte de crédit ;
+* images, photos et vidéos ;
+* données sur vos caractéristiques physiques, comprenant vos poids, taille et mensurations (telles qu’une estimation de votre foulée, pointure ou taille de vêtements) ;
+* données sur votre condition physique fournies par vos soins ou générées via notre Plateforme (heure, durée, distance, localisation, calcul de calories, cadence/foulée) ; ou
+* préférences personnelles, comprenant votre liste de souhaits, vos préférences marketing et en matière de cookies.
 
 Nous collectons des données personnelles supplémentaires auprès de vous pour activer certaines fonctionnalités spécifiques sur notres Plateforme. Par exemple, nous sollicitons l’accès aux données de localisation de votre téléphone pour vous fournir votre parcours de course à pied, vos contacts pour vous permettre d’interagir avec vos amis, votre calendrier pour organiser une session d’entraînement ou vos identifiants de réseau social pour poster des contenus depuis notre Plateforme sur un réseau social.  Ces données personnelles comprennent vos :
 
-*   données de mouvement depuis l’accéléromètre de votre appareil ;
-*   photos, sons audios, contacts et calendrier ;
-*   données de capteurs, comprenant rythme cardiaque et données de localisation (GPS) ; ou
-*   informations relatives aux réseaux sociaux, comprenant les identifiants et toute information résultant de vos posts publics au sujet de Nike ou vos communications avec nous.
+* données de mouvement depuis l’accéléromètre de votre appareil ;
+* photos, sons audios, contacts et calendrier ;
+* données de capteurs, comprenant rythme cardiaque et données de localisation (GPS) ; ou
+* informations relatives aux réseaux sociaux, comprenant les identifiants et toute information résultant de vos posts publics au sujet de Nike ou vos communications avec nous.
 
 Lorsque vous interagissez avec notre Plateforme, certaines données sont automatiquement collectées depuis votre appareil ou navigateur internet.  Plus d’informations sur ces pratiques sont fournies dans la section “**Cookies et balises**” ci-après. Ces données incluent :
 
-*   ID de l’appareil, état des appels, accès au réseau, information de stockage et de batterie ;
-*   cookies, adresses IP, en-têtes de référent, données identifiant votre navigateur internet sa version, pixels espions, balises web et les interactions avec notre Plateforme.
+* ID de l’appareil, état des appels, accès au réseau, information de stockage et de batterie ;
+* cookies, adresses IP, en-têtes de référent, données identifiant votre navigateur internet sa version, pixels espions, balises web et les interactions avec notre Plateforme.
 
 **Données relatives aux enfants**
 
@@ -94,10 +94,10 @@ Fondements légaux 
 
 Pour traiter vos données personnelles, nous nous fondons sur différents fondements légaux, lesquels dépendent de la façon dont vous interagissez avec notre Plateforme.
 
-*   Lorsque vous achetez des produits Nike à partir de notres Plateforme, nous avons besoin de vos données personnelles pour exécuter le contrat qui nous lie à vous. Par exemple, nous avons besoin de vos informations de contact et de paiement pour vous livrer votre commande.
-*   Lorsque vous utilisez nos Applis, nous nous fondons sur votre consentement au traitement et, pour certaines finalités limitées, sur l’exécution du contrat qui nous lie (par exemple, pour des achats via l’Appli).
-*   Nous nous fondons également sur d’autres fondements légaux, tels que nos intérêts légitimes en tant qu’entreprise pour traiter les informations relatives à l’efficacité de nos campagnes publicitaires, nos produits, services, évènements et toutes autres initiatives promotionnelles ; pour faire fonctionner, améliorer et maintenir notre activité, nos produits et services ; pour protéger nos droits, nos biens ou assurer notre sécurité ou celle des autres ; et à des fins de recherches et analyses. Lorsque nous traitons des données personnelles pour servir nos intérêts légitimes, nous prenons les mesures appropriées, afin de garantir que les intérêts poursuivis sont proportionnés à vos intérêts, droits et libertés, et nous sommes à votre disposition pour les expliquer sur demande de votre part.
-*   Nous traitons également vos données personnelles afin de respecter une obligation légale ou la protection de vos intérêts vitaux.
+* Lorsque vous achetez des produits Nike à partir de notres Plateforme, nous avons besoin de vos données personnelles pour exécuter le contrat qui nous lie à vous. Par exemple, nous avons besoin de vos informations de contact et de paiement pour vous livrer votre commande.
+* Lorsque vous utilisez nos Applis, nous nous fondons sur votre consentement au traitement et, pour certaines finalités limitées, sur l’exécution du contrat qui nous lie (par exemple, pour des achats via l’Appli).
+* Nous nous fondons également sur d’autres fondements légaux, tels que nos intérêts légitimes en tant qu’entreprise pour traiter les informations relatives à l’efficacité de nos campagnes publicitaires, nos produits, services, évènements et toutes autres initiatives promotionnelles ; pour faire fonctionner, améliorer et maintenir notre activité, nos produits et services ; pour protéger nos droits, nos biens ou assurer notre sécurité ou celle des autres ; et à des fins de recherches et analyses. Lorsque nous traitons des données personnelles pour servir nos intérêts légitimes, nous prenons les mesures appropriées, afin de garantir que les intérêts poursuivis sont proportionnés à vos intérêts, droits et libertés, et nous sommes à votre disposition pour les expliquer sur demande de votre part.
+* Nous traitons également vos données personnelles afin de respecter une obligation légale ou la protection de vos intérêts vitaux.
 
 **Partage de vos données personnelles**
 
@@ -105,15 +105,15 @@ Partage par Nike
 
 Nike partage vos données personnelles avec :
 
-*   les entités de Nike pour les finalités et dans les conditions précisées ci-avant ; 
+* les entités de Nike pour les finalités et dans les conditions précisées ci-avant ; 
 
-*   des prestataires de services procédant au traitement de données personnelles pour le compte de Nike, par exemple pour les paiements et l’utilisation de cartes de crédit, les envois et livraisons, l’hébergement, l’administration et la gestion de vos données, la distribution d’e-mails, les recherches et analyses, la gestion de la marque et la promotion des produits, ainsi que pour l’administration de certains services et certaines fonctionnalités. Lorsque nous utilisons les services de prestataires, nous concluons des contrats qui leur imposent de mettre en œuvre les mesures techniques et organisationnelles appropriées pour protéger vos données personnelles ; 
+* des prestataires de services procédant au traitement de données personnelles pour le compte de Nike, par exemple pour les paiements et l’utilisation de cartes de crédit, les envois et livraisons, l’hébergement, l’administration et la gestion de vos données, la distribution d’e-mails, les recherches et analyses, la gestion de la marque et la promotion des produits, ainsi que pour l’administration de certains services et certaines fonctionnalités. Lorsque nous utilisons les services de prestataires, nous concluons des contrats qui leur imposent de mettre en œuvre les mesures techniques et organisationnelles appropriées pour protéger vos données personnelles ; 
 
-*   d’autres tiers dans la mesure où cela est nécessaire pour : (i) nous conformer à une requête gouvernementale, une décision de justice ou la loi applicable ; (ii) empêcher des utilisations illicites de notre Plateforme ou la violation des Conditions d’Utilisation de notre Plateforme et de nos règles ; (iii) nous défendre contre des réclamations de tiers ; et (iv) fournir notre assistance dans la prévention des fraudes ou dans le cadre d’investigations (par exemple en matière de contrefaçon). 
+* d’autres tiers dans la mesure où cela est nécessaire pour : (i) nous conformer à une requête gouvernementale, une décision de justice ou la loi applicable ; (ii) empêcher des utilisations illicites de notre Plateforme ou la violation des Conditions d’Utilisation de notre Plateforme et de nos règles ; (iii) nous défendre contre des réclamations de tiers ; et (iv) fournir notre assistance dans la prévention des fraudes ou dans le cadre d’investigations (par exemple en matière de contrefaçon). 
 
-*   les fournisseurs de publicité ciblée tiers qui nous fournissent des annonces de publicités personnalisées adaptées à nos besoins. Nous utilisons de tels services afin de combiner l’ensemble des informations que nous avons rassemblées avec les données personnelles de leurs bases de données afin de créer des audiences et publicités personnalisées sur la base de vos centres d’intérêts sur Internet, y compris les réseaux sociaux, comme le permet la loi applicable. Vous pouvez retirer votre consentement à la publicité et aux audiences personnalisées en utilisant les paramètres prévus à cet effet sur notre Plateforme ; 
+* les fournisseurs de publicité ciblée tiers qui nous fournissent des annonces de publicités personnalisées adaptées à nos besoins. Nous utilisons de tels services afin de combiner l’ensemble des informations que nous avons rassemblées avec les données personnelles de leurs bases de données afin de créer des audiences et publicités personnalisées sur la base de vos centres d’intérêts sur Internet, y compris les réseaux sociaux, comme le permet la loi applicable. Vous pouvez retirer votre consentement à la publicité et aux audiences personnalisées en utilisant les paramètres prévus à cet effet sur notre Plateforme ; 
 
-*   tout autre tiers si vous avez exprimé votre consentement.
+* tout autre tiers si vous avez exprimé votre consentement.
 
 Nous pouvons également transférer les données personnelles vous concernant en cas de cession ou de transfert de tout ou partie de nos activités ou actifs (en ce compris dans le cas d’une réorganisation, d’une cession, d’une dissolution ou d’une liquidation).
 
@@ -149,11 +149,11 @@ Des tiers peuvent également collecter des informations depuis notre Plateforme 
 
 Nous utilisons des cookies et des balises pour suivre l’usage de notre Plateforme par nos clients et comprendre leurs préférences (telles que pays et langue). Cela nous permet de fournir des services à nos clients et d’améliorer leur expérience en ligne. Nous utilisons également des cookies et des balises pour obtenir des informations générales sur le trafic de la Plateforme et ses interactions, pour identifier des tendances et obtenir des statistiques, et ainsi améliorer notre Plateforme. Il y a en général trois catégories de cookies utilisés sur notre Plateforme :
 
-*   **Cookies fonctionnels** : Ces cookies sont requis pour les fonctionnalités basiques du site et sont par conséquent toujours actifs. Cela correspond notamment aux cookies qui permettent de vous reconnaître lorsque vous visitez notre Plateforme au cours d’une même session ou, si vous le souhaitez, d’une session à l'autre. Ils permettent d’établir votre panier d’achat et la procédure de paiement mais également d’assurer la sécurité des échanges et le respect de la réglementation. 
+* **Cookies fonctionnels** : Ces cookies sont requis pour les fonctionnalités basiques du site et sont par conséquent toujours actifs. Cela correspond notamment aux cookies qui permettent de vous reconnaître lorsque vous visitez notre Plateforme au cours d’une même session ou, si vous le souhaitez, d’une session à l'autre. Ils permettent d’établir votre panier d’achat et la procédure de paiement mais également d’assurer la sécurité des échanges et le respect de la réglementation. 
 
-*   **Cookies de performance** : Ces cookies nous permettent d’améliorer les fonctionnalités de notre Plateforme en suivant leur usage. Dans certains cas, ces cookies permettent d’améliorer la rapidité avec laquelle nous traitons votre demande et de retenir les préférences que vous avez sélectionnées. Refuser ces cookies peut entraîner des recommandations moins pertinentes et un ralentissement de la performance du site. 
+* **Cookies de performance** : Ces cookies nous permettent d’améliorer les fonctionnalités de notre Plateforme en suivant leur usage. Dans certains cas, ces cookies permettent d’améliorer la rapidité avec laquelle nous traitons votre demande et de retenir les préférences que vous avez sélectionnées. Refuser ces cookies peut entraîner des recommandations moins pertinentes et un ralentissement de la performance du site. 
 
-*   **Cookies de réseaux sociaux et publicitaires** : Les cookies de réseaux sociaux offrent la possibilité de vous connecter à vos réseaux sociaux et de partager des contenus depuis notre Plateforme sur les réseaux sociaux. Les cookies de publicité (de tiers) collectent des informations pour permettre de mieux adapter les publicités à vos centres d’intérêts, à la fois sur notre Plateforme et en dehors. Dans certains cas, ces cookies nécessitent un traitement de données personnelles. Refuser ces cookies peut entraîner l’affichage de publicités qui ne sont pas adaptées ou empêcher la connexion effective à Facebook, Twitter ou à d’autres réseaux sociaux et/ou empêcher la possibilité pour vous de partager le contenu sur les réseaux sociaux.
+* **Cookies de réseaux sociaux et publicitaires** : Les cookies de réseaux sociaux offrent la possibilité de vous connecter à vos réseaux sociaux et de partager des contenus depuis notre Plateforme sur les réseaux sociaux. Les cookies de publicité (de tiers) collectent des informations pour permettre de mieux adapter les publicités à vos centres d’intérêts, à la fois sur notre Plateforme et en dehors. Dans certains cas, ces cookies nécessitent un traitement de données personnelles. Refuser ces cookies peut entraîner l’affichage de publicités qui ne sont pas adaptées ou empêcher la connexion effective à Facebook, Twitter ou à d’autres réseaux sociaux et/ou empêcher la possibilité pour vous de partager le contenu sur les réseaux sociaux.
 
 Vous pouvez à tout moment modifier vos préférences en vous rendant sur les “Paramètres des Cookies” figurant au bas de chaque page de notre Plateforme. 
 
