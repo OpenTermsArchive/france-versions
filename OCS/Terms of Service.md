@@ -30,7 +30,7 @@ Le Service est disponible en téléchargeant l’Application ou en se connectant
 
 **« Territoire »** désigne la France métropolitaine (Corse comprise).
 
-**« Utilisateur** » désigne toute personne physique qui navigue sur le Site, en ce compris les Abonnés.
+**« Utilisateur** » désigne toute personne physique qui navigue sur le Site, en ce compris les Abonnés.
 
 **Article 2 : Objet**
 
@@ -38,9 +38,9 @@ Les présentes CGA ont pour objet de définir les conditions dans lesquelles OCS
 
 Plusieurs formules d’abonnements (ci-après désigné(s) « **Abonnement** » ou « **Abonnements** ») sont mises à disposition de l’Abonné :
 
-*   Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur ;
-*   Un Abonnement donnant accès au Service depuis un smartphone, une tablette, un ordinateur et sur un écran TV (via les terminaux définis sur [https://www.ocs.fr/offre](https://www.ocs.fr/offre) « voir les appareils compatibles ») ;
-*   Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur, ainsi qu’au(x) service(s) de tiers dans le cas d’Offre Groupée. Dans cette hypothèse, l’Abonnement sera souscrit directement auprès du tiers partenaire. Pour un exemple d’Offre Groupée : « offre nouveaux abonnés UGC illimité » détaillée dans le lien suivant [https://www.ocs.fr/modalites](https://www.ocs.fr/modalites)
+* Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur ;
+* Un Abonnement donnant accès au Service depuis un smartphone, une tablette, un ordinateur et sur un écran TV (via les terminaux définis sur [https://www.ocs.fr/offre](https://www.ocs.fr/offre) « voir les appareils compatibles ») ;
+* Un Abonnement donnant accès au Service exclusivement depuis un smartphone, une tablette et un ordinateur, ainsi qu’au(x) service(s) de tiers dans le cas d’Offre Groupée. Dans cette hypothèse, l’Abonnement sera souscrit directement auprès du tiers partenaire. Pour un exemple d’Offre Groupée : « offre nouveaux abonnés UGC illimité » détaillée dans le lien suivant [https://www.ocs.fr/modalites](https://www.ocs.fr/modalites)
 
 En souscrivant à l’un des Abonnements, l’Abonné reconnaît expressément qu’il a pris connaissance des CGA et qu’il en accepte l’intégralité des termes, sans aucune réserve.
 
@@ -54,27 +54,27 @@ Pour accéder au Service, l’Abonné doit disposer d’une connexion Internet a
   
 OCS vous informe que, du fait de restrictions imposées par les ayants droit, les systèmes permettant de masquer l'adresse IP publique de son terminal, tels que notamment les réseaux privés virtuels (VPN) ou serveurs mandataires (également appelés proxy), qui sont généralement connus pour être utilisés pour contourner les mesures de géofiltrage, sont bloqués par OCS, et ne peuvent être utilisés pour se connecter au Service.
 
-**3.1 Ordinateurs** 
+**3.1 Ordinateurs** 
 
 Le Service est accessible via le Site ou l’Application, sous réserve d’activer ses droits conformément à la procédure décrite sur le Site, sur les appareils et/ou ordinateurs (PC/Mac) utilisant les navigateurs web suivants :
 
 Navigateurs PC Windows 10 :
 
-*   Mozilla Firefox 95 ou versions ultérieures
-*   Google Chrome 95 ou versions ultérieures
-*   Internet Explorer (PC)
-*   compatibilité avec EDGE
+* Mozilla Firefox 95 ou versions ultérieures
+* Google Chrome 95 ou versions ultérieures
+* Internet Explorer (PC)
+* compatibilité avec EDGE
 
-Navigateurs PC Windows 7 et Windows 8 : 
+Navigateurs PC Windows 7 et Windows 8 : 
 
-*   Mozilla Firefox 95 ou versions ultérieures
-*   Google Chrome 95 ou versions ultérieures
+* Mozilla Firefox 95 ou versions ultérieures
+* Google Chrome 95 ou versions ultérieures
 
-Navigateurs Mac : 
+Navigateurs Mac : 
 
-*   Mozilla Firefox 95 ou versions ultérieures
-*   Google Chrome 95 ou versions ultérieures
-*   Safari 10.1.2 (implique macOS 10.10 en minimum) ou versions ultérieures
+* Mozilla Firefox 95 ou versions ultérieures
+* Google Chrome 95 ou versions ultérieures
+* Safari 10.1.2 (implique macOS 10.10 en minimum) ou versions ultérieures
 
 Etant précisé que concernant Mozilla Firefox, Explorer 10 et Safari 8, le logiciel Silverlight 5.0 ou supérieur doit être installé.
 
@@ -190,7 +190,7 @@ Tout Abonnement est payable d’avance, chaque mois, par paiement récurrent par
 
 Pour les Abonnés bénéficiant d’une Période d’essai et sauf résiliation de leur part, l’Abonnement est automatiquement poursuivi à l’expiration de la Période d’essai et l’Abonné se verra prélever le prix mensuel forfaitaire de l’Abonnement choisi.
 
-Le premier débit est réalisé le jour de la souscription à l’Abonnement ou, pour les Abonnés en Période d’essai, le jour suivant l’expiration de ladite Période d’essai. 
+Le premier débit est réalisé le jour de la souscription à l’Abonnement ou, pour les Abonnés en Période d’essai, le jour suivant l’expiration de ladite Période d’essai.  
 
 Les débits mensuels suivants sont réalisés le 1er jour de chaque nouvelle période mensuelle.  
   
@@ -198,7 +198,7 @@ L’Abonné reconnaît que la communication des informations relatives à sa car
   
 L’Abonné est tenu de mettre à jour et/ou modifier ses coordonnées bancaires via son Compte, rubrique « changer mon mode de paiement », notamment dans le cas où la validité des coordonnées arrive à échéance.
 
- **8.3 Carte Cadeaux**
+ **8.3 Carte Cadeaux**
 
 Tout Abonnement au Service peut également être payé via une Carte Cadeau achetée préalablement dans le commerce (selon les enseignes où les Cartes Cadeaux sont disponibles, et selon les stocks disponibles).
 
@@ -216,7 +216,7 @@ Le crédit et la date d’échéance de l’Abonnement associés à la Carte Cad
 
 L’Abonné peut, en cours d’utilisation d’une Carte Cadeau, changer de formule d’Abonnement, Dans ce cas, la durée de l’Abonnement sera recalculée au prorata du crédit restant sur la Carte Cadeau au moment de ce choix et de la nouvelle formule sélectionnée. L’Abonné pourra consulter la date d’échéance de son Abonnement associé à sa Carte Cadeau dans la rubrique « Mon Compte »
 
-L’Abonné aura accès au Service tant qu’il dispose de crédit sur la Carte Cadeau ou les Cartes Cadeaux s’il en a cumulé et activé plusieurs. Une fois le crédit de la Carte Cadeau épuisé, l’Abonné ne pourra plus accéder au Service tant qu’il n’aura pas activé une autre Carte Cadeau ou tant qu’il n’aura pas ajouté un autre mode de paiement valide (carte bancaire). 
+L’Abonné aura accès au Service tant qu’il dispose de crédit sur la Carte Cadeau ou les Cartes Cadeaux s’il en a cumulé et activé plusieurs. Une fois le crédit de la Carte Cadeau épuisé, l’Abonné ne pourra plus accéder au Service tant qu’il n’aura pas activé une autre Carte Cadeau ou tant qu’il n’aura pas ajouté un autre mode de paiement valide (carte bancaire).  
 
 L’Abonné peut résilier son Abonnement pendant la période d’utilisation d’une des Cartes Cadeaux, La résiliation sera effective à la fin de la durée définie en fonction du montant cumulé des Cartes Cadeaux activées et de la formule d’Abonnement choisie.
 
@@ -226,11 +226,11 @@ Les Cartes Cadeaux ne peuvent être ni revendues, ni échangées, ni remboursée
 
 **9.1 Données à caractère personnel**
 
-Pour plus d'informations sur le traitement des données à caractère personnel et pour exercer ses droits, l'Abonné est invité à consulter la [Politique de Protection des Données Personnelles](https://www.ocs.fr/donnees-personnelles#donnees-collectees) relative au Service accessible depuis la page d'accueil du site ocs.fr.
+Pour plus d'informations sur le traitement des données à caractère personnel et pour exercer ses droits, l'Abonné est invité à consulter la [Politique de Protection des Données Personnelles](https://www.ocs.fr/donnees-personnelles#donnees-collectees) relative au Service accessible depuis la page d'accueil du site ocs.fr.
 
 **9.2 Cookies**
 
-Pour plus d'informations sur l'utilisation des cookies, vous êtes invité à consulter la [Politique Cookies](https://www.ocs.fr/politique-cookies#definition)  accessible depuis la page d'accueil du site ocs.fr.
+Pour plus d'informations sur l'utilisation des cookies, vous êtes invité à consulter la [Politique Cookies](https://www.ocs.fr/politique-cookies#definition)  accessible depuis la page d'accueil du site ocs.fr.
 
 **Article 10 : Propriété intellectuelle**
 
@@ -264,7 +264,7 @@ OCS ne saurait être tenue responsable d’un quelconque dommage subi par l’Ab
 
 De même, OCS ne saurait être tenue responsable d’une quelconque indisponibilité d’un ou plusieurs programmes due à des facteurs ne dépendant pas d’OCS (tels que des raisons techniques ou éditoriales, l’encombrement du réseau, une défaillance des fournisseurs d’accès à Internet, etc.).
 
- **Article 14 : Garantie légale de conformité**
+ **Article 14 : Garantie légale de conformité**
 
 Le consommateur a droit à la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité durant un délai de un (1) mois à compter de la fourniture du contenu numérique ou du service numérique. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
