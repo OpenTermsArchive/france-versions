@@ -31,9 +31,9 @@ Le partenaire contractuel pour la réservation des trajets (vendeur de titre de 
 
 **4.1** Les titres de transport peuvent être payés de différente manière selon le type de réservation :
 
-*   Sur Internet : PayPal, mandat, carte bancaire (Mastercard/Visa/Amex), virement immédiat, iDeal, Postfinance, Carte Bleue, Dotpay, Google Pay, Apple Pay. Pour chaque réservation, nous nous réservons le droit de proposer des modes de paiement précis et de renvoyer à d’autres modes de paiement.
-*   À bord des véhicules : En espèces.
-*   Points de vente : toutes nos agences offrent selon leur localisation un éventail de modes de règlement, un paiement en espèces reste possible dans tous les cas. Si le point de vente est au véhicule de transport, les méthodes de paiement peuvent se limiter au paiement en espèces ou par carte de crédit uniquement.
+* Sur Internet : PayPal, mandat, carte bancaire (Mastercard/Visa/Amex), virement immédiat, iDeal, Postfinance, Carte Bleue, Dotpay, Google Pay, Apple Pay. Pour chaque réservation, nous nous réservons le droit de proposer des modes de paiement précis et de renvoyer à d’autres modes de paiement.
+* À bord des véhicules : En espèces.
+* Points de vente : toutes nos agences offrent selon leur localisation un éventail de modes de règlement, un paiement en espèces reste possible dans tous les cas. Si le point de vente est au véhicule de transport, les méthodes de paiement peuvent se limiter au paiement en espèces ou par carte de crédit uniquement.
 
 **4.2** Achats par carte de crédit  
   
@@ -62,7 +62,7 @@ Les bons de remise comportant un pourcentage ou les bons pour un trajet gratuit 
 
 Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours pour faire valoir ses observations sur ce blocage auprès du service client de FlixBus.  
   
-**4.4.5** Un remboursement des bons d'achat en espèces est exclu.  
+**4.4.5** Un remboursement des bons d'achat en espèces est exclu.  
   
 **4.4.6** En cas de fraude, ou d’activités illégales liées à l'achat d'un bon cadeau, à l'échange d'un bon d'achat ou à la transmission d'un bon d'achat, Flix se réserve le droit de fermer les comptes clients concernés et/ou d'exiger un autre moyen de paiement et/ou de bloquer les bons d'achat. Un droit à l'activation ou au remboursement des bons d'achat concernés ne peut être invoqué.
 
@@ -137,40 +137,40 @@ La juridiction compétente pour les commerçants, les personnes morales et les p
 ### **7 Invalidité de certaines dispositions**
 
 Si des dispositions individuelles des présentes Conditions générales de vente et des Conditions de réservation spéciales devaient être ou devenir totalement ou partiellement inexécutoires ou nulles, cela ne compromettra pas, en principe, l’exécutabilité du contrat dans son ensemble.  
- 
+ 
 
 **II Dispositions dérogatoires des pays**
 -----------------------------------------
 
 ****1.  Suède****
 
-*   ****Concernant 4.1 :**** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
+* ****Concernant 4.1 :**** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
 
 ****2.  Pologne****
 
-*   ****Concernant 4.4.1 et 4.4.2 :**** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
-*   ****Concernant 5.4 :**** Une annulation ne peut pas être effectuée en n’utilisant pas le billet et en obtenant un remboursement ultérieur pour les liaisons effectuées par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège social en Pologne.
-*   ****Concernant 5.6 :**** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
+* ****Concernant 4.4.1 et 4.4.2 :**** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
+* ****Concernant 5.4 :**** Une annulation ne peut pas être effectuée en n’utilisant pas le billet et en obtenant un remboursement ultérieur pour les liaisons effectuées par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège social en Pologne.
+* ****Concernant 5.6 :**** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
 
 ****3. République tchèque****
 
-*   ****Concernant le point 5.4 :**** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
-*   ****Concernant le point 6 :**** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
+* ****Concernant le point 5.4 :**** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
+* ****Concernant le point 6 :**** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
 ****4\. Fédération de Russie****
 
-*   ****Concernant le point 6 :**** La juridiction compétente pour tout litige éventuel entre LLC FlixBus Rus et un passager est le siège de LLC FlixBus Rus, c’est-à-dire la ville de Moscou.
+* ****Concernant le point 6 :**** La juridiction compétente pour tout litige éventuel entre LLC FlixBus Rus et un passager est le siège de LLC FlixBus Rus, c’est-à-dire la ville de Moscou.
 
 ****5\. Royaume-Uni****
 
-*   ****Concernant 5.6 :**** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
+* ****Concernant 5.6 :**** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
 
 ****6\. France****
 
-*   **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
+* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
 
 ****7\. Portugal****
 
-*   **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
+* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
 
 * * *
