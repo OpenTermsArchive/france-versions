@@ -284,8 +284,8 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(a)** Sauf dispositions contraires contenues dans le Billet, ces Conditions Générales de Transport ou les Tarifs, tels que définis à l'Article 2 ci-dessus, (en cas de Tarifs affectant la validité d'un Billet, tel qu'indiqué sur le Billet lui-même), un Billet est valable au transport :
 
-*   un an, à compter de la date d'émission ou,
-*   un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission.
+* un an, à compter de la date d'émission ou,
+* un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission.
 
 **(b)** Lorsque vous êtes empêché(e) de voyager pendant la durée de validité de votre Billet parce qu'au moment où vous demandez une réservation sur un vol, nous ne sommes pas en mesure de confirmer cette réservation, la validité de ce Billet sera prorogée ou le Billet pourra donner lieu à remboursement, dans les conditions prévues à l'Article 13 ci-dessous.
 
@@ -435,14 +435,14 @@ A titre d’exemple, nous pourrons exercer ce type de refus dans les cas suivant
 
 **(h)** le Billet que vous présentez :
 
-*   est acquis frauduleusement ou acheté auprès d'un organisme autre que nous-mêmes ou notre Agent Accrédité ;
-*   est répertorié comme document perdu ou volé ;
-*   est falsifié ou contrefait ;
-*   comporte un Coupon de vol qui a été détérioré ou modifié par quelqu'un d'autre que le Transporteur ou son Agent Accrédité ;
-*   vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus ;
-*   vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
-*   vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
-*   vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
+* est acquis frauduleusement ou acheté auprès d'un organisme autre que nous-mêmes ou notre Agent Accrédité ;
+* est répertorié comme document perdu ou volé ;
+* est falsifié ou contrefait ;
+* comporte un Coupon de vol qui a été détérioré ou modifié par quelqu'un d'autre que le Transporteur ou son Agent Accrédité ;
+* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus ;
+* vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
+* vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
+* vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
 
 Dans les cas prévus ci-dessus, nous nous réservons le droit de conserver votre Billet.
 
@@ -588,11 +588,11 @@ Vous devrez payer un supplément pour le transport des Bagages excédant la fran
 
 Sauf refus de notre part pour des raisons valables (quota d’animaux atteint, état de santé, législation relative aux animaux dangereux, règlementation du pays de destination, etc…) nous acceptons de transporter vos animaux dans les conditions suivantes :
 
-**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « **Transport des animaux** » que nous vous invitons à consulter régulièrement.
+**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « **Transport des animaux** » que nous vous invitons à consulter régulièrement.
 
 **b)** S'il est accepté comme Bagage, l'animal et sa caisse ne seront pas compris dans votre franchise de bagages, mais constitueront un excédent de bagages, pour lequel vous devrez acquitter un tarif en vigueur communiqué à votre demande.
 
-**c)** Les chiens guides ainsi que leur caisse accompagnant les Passagers à Mobilité ou Vue Réduite seront transportés gratuitement, en sus de la franchise de bagages normale, conformément à la réglementation en vigueur, disponible sur notre page « **Transport des animaux** » que nous vous invitons à lire régulièrement.
+**c)** Les chiens guides ainsi que leur caisse accompagnant les Passagers à Mobilité ou Vue Réduite seront transportés gratuitement, en sus de la franchise de bagages normale, conformément à la réglementation en vigueur, disponible sur notre page « **Transport des animaux** » que nous vous invitons à lire régulièrement.
 
 **d)** Nous acceptons de transporter les animaux à condition que le Passager en assume la pleine responsabilité. Nous n'assumons aucune responsabilité dans le cas où l’animal se verrait refuser l’entrée ou le passage dans un pays, Etat ou territoire du fait de la non observation de la part de son propriétaire des règles sanitaires ou d’entrée en vigueur. Les Passagers voyageant avec de tels animaux devront nous rembourser les amendes, pertes, réparations et toutes sortes de coûts que nous aurions engagés du fait d'une telle situation.
 
@@ -660,8 +660,8 @@ En cas d’annulation, de retard important d’un vol, ou encore de refus d’em
 
 **a)** le Passager est en droit de réclamer le remboursement de son Billet pour des raisons autres que celles mentionnées au paragraphe 2 du présent Article et seulement dans les cas où sa responsabilité ne peut être engagée pour justifier de la non utilisation de son billet aux dates indiquées sur son billet ; le montant du remboursement sera alors d’un montant équivalent :
 
-*   au tarif acquitté, moins les frais de dossier ou d’annulation applicables, si aucune partie du Billet n'a été utilisée.
-*   à la différence entre le tarif acquitté et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins les frais de dossier ou d’annulation applicables, si une partie du Billet a été utilisée.
+* au tarif acquitté, moins les frais de dossier ou d’annulation applicables, si aucune partie du Billet n'a été utilisée.
+* à la différence entre le tarif acquitté et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins les frais de dossier ou d’annulation applicables, si une partie du Billet a été utilisée.
 
 **b)** Les remboursements visés à ce paragraphe 3 ne pourront être effectués quand les prescriptions gouvernementales ou tout autre document contractuel entre vous et nous les excluent. C'est notamment le cas des Billets portant la mention "non remboursable".
 
@@ -785,15 +785,15 @@ Le Contrat de Transport, y compris ces Conditions Générales de Transport et to
 
 **(b)** Pour les dommages corporels ne dépassant pas 113 100 Droits de Tirage Spéciaux (soit approximativement 123 300 €) par Passager, le Transporteur ne peut exclure ou limiter sa responsabilité, sauf dans les cas suivants :
 
-*   si la mort, la blessure ou toute autre lésion corporelle survenue résulte de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord de notre vol.
-*   si le dommage a été causé, en tout ou en partie, par la faute du passager ou par son état de santé avant l’embarquement à bord de l’avion.
-*   pour toute maladie, blessure, handicap, y compris la mort, dus à l’état pathologique physique préexistant du Passager, ni pour toute aggravation dudit état pathologique physique préexistant.
-*   dans un cas d’exonération prévue à l’Article 18.1.2 des présentes conditions.
+* si la mort, la blessure ou toute autre lésion corporelle survenue résulte de l’état de santé, physique ou mental du Passager, antérieur à son embarquement à bord de notre vol.
+* si le dommage a été causé, en tout ou en partie, par la faute du passager ou par son état de santé avant l’embarquement à bord de l’avion.
+* pour toute maladie, blessure, handicap, y compris la mort, dus à l’état pathologique physique préexistant du Passager, ni pour toute aggravation dudit état pathologique physique préexistant.
+* dans un cas d’exonération prévue à l’Article 18.1.2 des présentes conditions.
 
 **(c)** Le Transporteur n’est pas responsable des dommages corporels dans la mesure où ils dépassent 113 100 Droits de Tirage Spéciaux (soit approximativement 123 300 €) par Passager s’il prouve que :
 
-*   le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, ou
-*   que le dommage résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers
+* le dommage n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable du Transporteur, de ses préposés ou de ses mandataires, ou
+* que le dommage résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable d’un tiers
 
 **(d)** Le montant de notre responsabilité en cas de mort, de blessure ou de toute autre lésion corporelle d’un Passager au sens du paragraphe 2.1 a) ci-dessus, n’est soumis à aucune limitation. Le montant du dommage réparable couvrira la réparation du dommage, telle qu’elle aura été fixée par accord amiable, par voie d’expertise ou par les tribunaux compétents.
 
