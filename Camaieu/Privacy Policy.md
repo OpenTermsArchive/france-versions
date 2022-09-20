@@ -29,16 +29,16 @@ Pourquoi collectons-nous vos données personnelles ?
 
 Nous effectuons les traitements suivants :
 
-*   Gérer votre compte client, votre panier et vos commandes
-*   Gérer les livraisons et votre suivi de commande
-*   Personnaliser votre expérience et répondre à vos besoins individuels
-*   Fournir un contenu publicitaire personnalisé
-*   Améliorer notre site Web
-*   Améliorer le service client et vos besoins de prise en charge
-*   Vous contacter par e-mail
-*   Recueillir votre avis
-*   Administrer des concours, des promotions, ou des enquêtes
-*   Partager des informations avec des partenaires commerciau
+* Gérer votre compte client, votre panier et vos commandes
+* Gérer les livraisons et votre suivi de commande
+* Personnaliser votre expérience et répondre à vos besoins individuels
+* Fournir un contenu publicitaire personnalisé
+* Améliorer notre site Web
+* Améliorer le service client et vos besoins de prise en charge
+* Vous contacter par e-mail
+* Recueillir votre avis
+* Administrer des concours, des promotions, ou des enquêtes
+* Partager des informations avec des partenaires commerciau
 
 À qui vos données sont-elles communiquées ?
 -------------------------------------------
@@ -49,14 +49,14 @@ Les destinataires des données peuvent être les Marketplaces, des établissemen
 
 Nous avons également recours à des sous-traitants pour :
 
-*   Le paiement sécurisé sur les sites et les applications mobile
-*   La lutte contre la fraude
-*   L’expédition de vos commandes
-*   La gestion des appels téléphoniques, leurs enregistrements éventuels et l’envoi de courriers postaux
-*   La personnalisation des contenus des sites et applications mobile
-*   La réalisation d’opérations de maintenance et de développement techniques du site internet
-*   Le recueil des avis clients
-*   L’hébergement
+* Le paiement sécurisé sur les sites et les applications mobile
+* La lutte contre la fraude
+* L’expédition de vos commandes
+* La gestion des appels téléphoniques, leurs enregistrements éventuels et l’envoi de courriers postaux
+* La personnalisation des contenus des sites et applications mobile
+* La réalisation d’opérations de maintenance et de développement techniques du site internet
+* Le recueil des avis clients
+* L’hébergement
 
 Nous pouvons également être amenés à transférer vos données personnelles hors de l’Union Européenne. Chaque transfert de données personnelles est encadré et présente des garanties de sécurité adéquates et suffisantes.
 
@@ -105,8 +105,8 @@ Quels cookies sont utilisés ?
 
 Les cookies utilisés par le Site relèvent de deux catégories :
 
-*   Cookies dits strictement nécessaires, qui ne nécessitent pas votre consentement préalable;
-*   Autres cookies soumis à votre consentement préalable.
+* Cookies dits strictement nécessaires, qui ne nécessitent pas votre consentement préalable;
+* Autres cookies soumis à votre consentement préalable.
 
 ### 1- Cookies exemptés de consentement préalable
 
@@ -114,12 +114,12 @@ Certains cookies peuvent être déposés ou lus sans recueillir le consentement 
 
 Sont concernés par exemple :
 
-*   les cookies de "panier d'achat" pour un site marchand ;
-*   les cookies "identifiants de session", pour la durée d'une session, ou les traceurs persistants limités à quelques heures dans certains cas ;
-*   les cookies d'authentification de l'internaute ;
-*   les cookies de session créés par un lecteur multimédia ;
-*   les cookies de session d'équilibrage de charge ("load balancing") ;
-*   les cookies persistants de personnalisation de l'interface utilisateur.
+* les cookies de "panier d'achat" pour un site marchand ;
+* les cookies "identifiants de session", pour la durée d'une session, ou les traceurs persistants limités à quelques heures dans certains cas ;
+* les cookies d'authentification de l'internaute ;
+* les cookies de session créés par un lecteur multimédia ;
+* les cookies de session d'équilibrage de charge ("load balancing") ;
+* les cookies persistants de personnalisation de l'interface utilisateur.
 
 Ces cookies ne peuvent pas, techniquement, être désactivés depuis le site. Vous pouvez néanmoins vous opposer à l'utilisation de ces traceurs, exclusivement en paramétrant votre navigateur. Ce paramétrage dépend du navigateur que vous utilisez, mais il est en général simple à réaliser : en principe, vous pouvez soit activer une fonction de navigation privée soit uniquement interdire ou restreindre les traceurs (cookies). Attention, il se peut que des traceurs aient été enregistrés sur votre périphérique avant le paramétrage de votre navigateur : dans ce cas, effacez votre historique de navigation, toujours en utilisant le paramétrage de votre navigateur.
 
@@ -146,16 +146,16 @@ Vous pouvez vous opposer à l'utilisation de ces traceurs en utilisant les fonct
 
 Camaïeu utilise les fonctionnalités de publicité Google Analytics :
 
-*   Google Remarketing
-*   Rapports relatifs aux impressions sur le Réseau Display de Google
-*   Rapports sur les données démographiques et les centres d'intérêt de Google Analytics
+* Google Remarketing
+* Rapports relatifs aux impressions sur le Réseau Display de Google
+* Rapports sur les données démographiques et les centres d'intérêt de Google Analytics
 
 Vous pouvez désactiver ces fonctionnalités :
 
-*   En refusant le dépôt des cookies sur votre ordinateur/smartphone
-*   Via les paramètres des annonces, les paramètres des annonces pour applications mobiles ou tout autre moyen disponible (par exemple, via la page de désactivation de la NAI \[Network Advertising Initiative\])
-*   En installant le module suivant : [cliquez ici](https://tools.google.com/dlpage/gaoptout/)
-*   Via « Google Mon activité » : [cliquez ici](https://myactivity.google.com/myactivity)
+* En refusant le dépôt des cookies sur votre ordinateur/smartphone
+* Via les paramètres des annonces, les paramètres des annonces pour applications mobiles ou tout autre moyen disponible (par exemple, via la page de désactivation de la NAI \[Network Advertising Initiative\])
+* En installant le module suivant : [cliquez ici](https://tools.google.com/dlpage/gaoptout/)
+* Via « Google Mon activité » : [cliquez ici](https://myactivity.google.com/myactivity)
 
 #### 2.3 Cookies Réseaux sociaux
 
@@ -171,10 +171,10 @@ Ce paramétrage peut être fait à tout moment et depuis n'importe quel navigate
 
 Quelques exemples ci-dessous :
 
-*   Pour Internet Explorer™ : ouvrez le menu Outils, puis sélectionnez Options internet ; cliquez sur l'onglet Confidentialité puis choisissez le niveau souhaité
-*   Pour Firefox™: ouvrez le menu Outils, puis sélectionnez Options ; cliquez sur l'onglet Vie privée puis choisissez les options souhaitées
-*   Pour Chrome™ : ouvrez le menu de configuration, puis sélectionnez Paramètres ; cliquez sur Paramètres avancés puis sur Paramètres de contenu, puis choisissez les options souhaitées
-*   Pour Safari™ : choisissez Safari > Préférences puis cliquez sur Sécurité ; cliquez sur Afficher les cookies puis choisissez les options souhaitées.
+* Pour Internet Explorer™ : ouvrez le menu Outils, puis sélectionnez Options internet ; cliquez sur l'onglet Confidentialité puis choisissez le niveau souhaité
+* Pour Firefox™: ouvrez le menu Outils, puis sélectionnez Options ; cliquez sur l'onglet Vie privée puis choisissez les options souhaitées
+* Pour Chrome™ : ouvrez le menu de configuration, puis sélectionnez Paramètres ; cliquez sur Paramètres avancés puis sur Paramètres de contenu, puis choisissez les options souhaitées
+* Pour Safari™ : choisissez Safari > Préférences puis cliquez sur Sécurité ; cliquez sur Afficher les cookies puis choisissez les options souhaitées.
 
 Vous avez également l’occasion de piloter l’activation au cas par cas des cookies tiers en vous rendant sur le site [YourOnlineChoices.com](https://www.camaieu.fr/YourOnlineChoices.com)
 
@@ -197,18 +197,18 @@ Quelle est la procédure à suivre pour ne plus recevoir de notifications sur le
 
 Sur Google Chrome :
 
-*   Cliquez sur l’icône menu représentant trois points verticaux (située en haut à droite de la barre d’adresse en dessous de la croix pour fermer la fenêtre de navigation).
-*   Cliquez sur Paramètres
-*   En bas de page, cliquez sur Afficher les paramètres avancés
-*   Dans la section Confidentialité et sécurité, cliquez sur le bouton Effacer les données de navigation
-*   Choisir au minimum la période « dernière 24h » et cochez Cookies et autres données de site et Images et fichiers en cache puis appuyer sur le bouton Effacer les données.
+* Cliquez sur l’icône menu représentant trois points verticaux (située en haut à droite de la barre d’adresse en dessous de la croix pour fermer la fenêtre de navigation).
+* Cliquez sur Paramètres
+* En bas de page, cliquez sur Afficher les paramètres avancés
+* Dans la section Confidentialité et sécurité, cliquez sur le bouton Effacer les données de navigation
+* Choisir au minimum la période « dernière 24h » et cochez Cookies et autres données de site et Images et fichiers en cache puis appuyer sur le bouton Effacer les données.
 
 Sur Safari :
 
-*   Accédez aux p références de Safari
-*   Par défaut, le panneau des préférences s'ouvre sur l'onglet Général
-*   Sélectionnez l'onglet Confidentialité
-*   Cliquez sur le bouton Supprimer toutes les données de sites web
-*   Cliquez sur Supprimer dans la fenêtre de confirmation
+* Accédez aux p références de Safari
+* Par défaut, le panneau des préférences s'ouvre sur l'onglet Général
+* Sélectionnez l'onglet Confidentialité
+* Cliquez sur le bouton Supprimer toutes les données de sites web
+* Cliquez sur Supprimer dans la fenêtre de confirmation
 
 Si vous souhaitez que vos informations soient supprimées de cette base de donnée, vous pouvez contacter directement le service client.
