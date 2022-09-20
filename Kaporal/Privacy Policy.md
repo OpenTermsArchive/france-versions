@@ -18,30 +18,30 @@ En utilisant le Site, le Client accepte que Kaporal collecte, utilise et transme
 
 Les Données Personnelles ne seront traitées ou utilisées qu’en cas de nécessité :
 
-*   Pour l’exécution du contrat de vente entre Kaporal et le Client et plus particulièrement pour :
+* Pour l’exécution du contrat de vente entre Kaporal et le Client et plus particulièrement pour :
 
-*   Vous permettre de créer un espace personnel dans la rubrique « Mon Compte », d’adhérer au programme de fidélité Le Klub sous réserve du consentement, et ainsi acheter nos produits en ligne et de bénéficier d’avantages personnels et ainsi acheter les produits disponibles sur le Site;
-*   Gérer vos éventuelles commandes et leur livraison, vos éventuelles ventes ainsi que les garanties applicables ;
-*   Gérer tout autre service, actuel ou futur en relation avec les services et inscrit dans les conditions générales d’utilisation afférentes.
+* Vous permettre de créer un espace personnel dans la rubrique « Mon Compte », d’adhérer au programme de fidélité Le Klub sous réserve du consentement, et ainsi acheter nos produits en ligne et de bénéficier d’avantages personnels et ainsi acheter les produits disponibles sur le Site;
+* Gérer vos éventuelles commandes et leur livraison, vos éventuelles ventes ainsi que les garanties applicables ;
+* Gérer tout autre service, actuel ou futur en relation avec les services et inscrit dans les conditions générales d’utilisation afférentes.
 
-*   Pour répondre à une obligation légale, réglementaire et/ou conventionnelle et plus particulièrement :
+* Pour répondre à une obligation légale, réglementaire et/ou conventionnelle et plus particulièrement :
 
-*   La livraison des produits commandés en ligne ;
-*   Vous assurer un suivi de votre activité commerciale.
+* La livraison des produits commandés en ligne ;
+* Vous assurer un suivi de votre activité commerciale.
 
-*   Pour satisfaire un intérêt légitime dans la limite des intérêts et des libertés et droits fondamentaux des utilisateurs du Site et plus particulièrement pour :
+* Pour satisfaire un intérêt légitime dans la limite des intérêts et des libertés et droits fondamentaux des utilisateurs du Site et plus particulièrement pour :
 
-*   Répondre aux demandes adressées par mail ou directement par le formulaire « Contactez-nous » ;
-*   Gérer et optimiser la relation clientèle ;
-*   Assurer la sécurité des transactions en ligne, prévenir les fraudes et les incidents de paiement ;
-*   Réaliser des statistiques anonymes.
+* Répondre aux demandes adressées par mail ou directement par le formulaire « Contactez-nous » ;
+* Gérer et optimiser la relation clientèle ;
+* Assurer la sécurité des transactions en ligne, prévenir les fraudes et les incidents de paiement ;
+* Réaliser des statistiques anonymes.
 
-*   Pour répondre aux demandes que vous formulez et/ou sur la base de votre consentement explicite et notamment :
+* Pour répondre aux demandes que vous formulez et/ou sur la base de votre consentement explicite et notamment :
 
-*   Vous adresser des informations sur nos offres, actualités et évènements par email (newsletters, invitation et autres publications) ;
-*   Améliorer le fonctionnement du Site, personnaliser l’affichage du site selon vos préférences dans le respect de notre politique d’utilisation des cookies ;
-*   Offrir des services personnalisés ;
-*   La géolocalisation pour vous proposer le point relais le plus proche (limitée à la ville).
+* Vous adresser des informations sur nos offres, actualités et évènements par email (newsletters, invitation et autres publications) ;
+* Améliorer le fonctionnement du Site, personnaliser l’affichage du site selon vos préférences dans le respect de notre politique d’utilisation des cookies ;
+* Offrir des services personnalisés ;
+* La géolocalisation pour vous proposer le point relais le plus proche (limitée à la ville).
 
 Les Données Personnelles indispensables à Kaporal pour remplir les finalités décrites ci-dessus sont signalées dans les différentes pages du Site par un astérisque. Si ces champs obligatoires ne sont pas renseignés, Kaporal ne pourra pas répondre aux demandes du Client et/ou fournir les produits et services demandés. Les autres informations ont un caractère facultatif et permettent à Kaporal de mieux connaître sa clientèle et d'améliorer ses communications et services.
 
@@ -69,10 +69,10 @@ Les Données Personnelles sont traitées par Kaporal.
 
 Elles ne seront ni traitées ni rendues accessibles à aucun tiers à l’exception :
 
-*   Des sous-traitants de Kaporal pour des raisons exclusivement techniques, de gestion des opérations marketing (sous réserve du consentement) et logistiques (transporteurs, prestataires d’hébergement et de maintenance du Site.)
-*   De toute restructuration du groupe Kaporal, y compris cession totale ou partielle d’actifs, fusion, absorption acquisition, scission et plus généralement toute opération de réorganisation
-*   Des autres sociétés du groupe Kaporal à des fins de gestion et d’optimisation de la relation client
-*   Du cas où cette communication est requise par la loi, une disposition réglementaire ou une décision judiciaire, ou si cette communication est nécessaire pour assurer la protection et la défense de ses droits
+* Des sous-traitants de Kaporal pour des raisons exclusivement techniques, de gestion des opérations marketing (sous réserve du consentement) et logistiques (transporteurs, prestataires d’hébergement et de maintenance du Site.)
+* De toute restructuration du groupe Kaporal, y compris cession totale ou partielle d’actifs, fusion, absorption acquisition, scission et plus généralement toute opération de réorganisation
+* Des autres sociétés du groupe Kaporal à des fins de gestion et d’optimisation de la relation client
+* Du cas où cette communication est requise par la loi, une disposition réglementaire ou une décision judiciaire, ou si cette communication est nécessaire pour assurer la protection et la défense de ses droits
 
 **ARTICLE 5 : Transfert des Données Personnelles à l’étranger**
 
@@ -120,22 +120,22 @@ Les Clients peuvent aussi faire part à Kaporal de leurs directives concernant l
 
 Pour une simple rectification des données relatives à l’identité (adresse mail, numéro de téléphone, adresse postale), le Client pourra le signaler :
 
-*   En boutique physique
-*   Sur le Site dans l’espace « Mon compte » / « Mes informations »
-*   Par courrier électronique à l’adresse [dpo@kaporal.com](mailto:dpo@kaporal.com)
+* En boutique physique
+* Sur le Site dans l’espace « Mon compte » / « Mes informations »
+* Par courrier électronique à l’adresse [dpo@kaporal.com](mailto:dpo@kaporal.com)
 
 Pour ne plus recevoir de communications de la part de Kaporal et/ou ses partenaires, le Client a la possibilité de se désabonner par l’un des moyens suivants :
 
-*   Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.
-*   En remplissant le formulaire [contactez-nous](https://services.chanel.com/fr_FR/contact/) et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.
-*   En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »
+* Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.
+* En remplissant le formulaire [contactez-nous](https://services.chanel.com/fr_FR/contact/) et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.
+* En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »
 
 Pour toute autre demande, le Client pourra exercer ses droits en adressant sa demande au Service Client par l’un des moyens suivants :
 
-*   Par courrier électronique à l'adresse [dpo@kaporal.com](mailto:dpo@kaporal.com)
-*   Par courrier à l’adresse suivante :
-    *   Pour le compte client : Kaporal Collections – Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
-    *   Pour le compte Le Klub : Kaporal Collections – Service Marketing – 20 Boulevard Ampère – 13014 Marseille - France
+* Par courrier électronique à l'adresse [dpo@kaporal.com](mailto:dpo@kaporal.com)
+* Par courrier à l’adresse suivante :
+    * Pour le compte client : Kaporal Collections – Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
+    * Pour le compte Le Klub : Kaporal Collections – Service Marketing – 20 Boulevard Ampère – 13014 Marseille - France
 
 Ces demandes d’accès, de rectification ou d’opposition lorsqu’elles sont faites par le biais d’un courrier ou d’un email, devront être accompagnées d’un justificatif permettant de s’assurer de l’identité de la personne qui exerce son droit.
 
