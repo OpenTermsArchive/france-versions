@@ -8,15 +8,15 @@ Date de modification: 16 août 2022
 
 **Conditions Générales d’Utilisation - France**
 
-**PRINCIPES CLÉS** 
+**PRINCIPES CLÉS** 
 
-*   Les présentes conditions générales (“**Conditions**”) s’appliquent aux applications mobiles et/ou aux sites internet d’Uber en France.
-*   Les Services App(s)/Site(s) Web vous permettent de solliciter des services auprès de Prestataires Tiers ou directement auprès d’Uber. Ces services sont fournis ou mis à disposition sous les marques d’Uber, notamment UBER, UBERX et UBER EATS. Pour plus d’informations, veuillez consulter cette page.
-*   Pour les Services de Tiers, vous êtes lié par un contrat directement avec les Prestataires Tiers et Uber agit en tant que plateforme technologique d’intermédiation pour vous permettre de solliciter et de recevoir ces services. S’agissant des services de transports fournis par les Prestataires Tiers exerçant dans le secteur du transport public particulier de personnes et utilisant les sites internet/applications d’Uber, Uber en sa qualité de centrale de réservation vous garantit leur bonne exécution dans les conditions prévues au sein des présentes Conditions.
-*   Pour les Services Fournis par Uber, il peut vous être demandé d’accepter des conditions distinctes qui régissent votre utilisation de ces services.
-*   Veuillez lire attentivement les présentes Conditions. Elles comprennent des informations sur /les services et sur vos droits, ainsi que d’autres informations importantes.
+* Les présentes conditions générales (“**Conditions**”) s’appliquent aux applications mobiles et/ou aux sites internet d’Uber en France.
+* Les Services App(s)/Site(s) Web vous permettent de solliciter des services auprès de Prestataires Tiers ou directement auprès d’Uber. Ces services sont fournis ou mis à disposition sous les marques d’Uber, notamment UBER, UBERX et UBER EATS. Pour plus d’informations, veuillez consulter cette page.
+* Pour les Services de Tiers, vous êtes lié par un contrat directement avec les Prestataires Tiers et Uber agit en tant que plateforme technologique d’intermédiation pour vous permettre de solliciter et de recevoir ces services. S’agissant des services de transports fournis par les Prestataires Tiers exerçant dans le secteur du transport public particulier de personnes et utilisant les sites internet/applications d’Uber, Uber en sa qualité de centrale de réservation vous garantit leur bonne exécution dans les conditions prévues au sein des présentes Conditions.
+* Pour les Services Fournis par Uber, il peut vous être demandé d’accepter des conditions distinctes qui régissent votre utilisation de ces services.
+* Veuillez lire attentivement les présentes Conditions. Elles comprennent des informations sur /les services et sur vos droits, ainsi que d’autres informations importantes.
 
-**À PROPOS DE NOUS** 
+**À PROPOS DE NOUS** 
 
 Nous sommes Uber B.V., société à responsabilité limitée établie aux Pays-Bas au capital de 1 euros, immatriculée à la Chambre de commerce d’Amsterdam sous le numéro 56317441 et ayant ses bureaux à Meester Treublaan 7, 1097 DP Amsterdam (Pays-Bas). Vous pouvez nous contacter sur help.uber.com. Le numéro d’identification à la TVA de la société est NL852071589B01.
 
@@ -36,7 +36,7 @@ Les « **Services de Tiers** » comprennent notamment les services et les biens 
 
 « **Noms, Marques ou Œuvres d’Uber** » désigne les dénominations sociales, logos, noms de produits ou de services, marques de produits, marques de services, présentations commerciales, autres signes de propriété ou droits d’auteur d’Uber ou de son concédant de licence.
 
-**CONDITIONS** 
+**CONDITIONS** 
 
 **1\. Résumé**
 
@@ -46,7 +46,7 @@ Les « **Services de Tiers** » comprennent notamment les services et les biens 
 
 1.3 Uber agit en qualité de plateforme technologique d’intermédiation pour les Services de Tiers et en tant que prestataire de services pour les Services Fournis par Uber (Cf. article 4 ci-dessous). Dès lors que les Services de Tiers de transport sont accessibles via les applications mobiles et/ou site internet d’Uber, Uber s’assure, dans les conditions prévues à l’article 14 des présentes, de la bonne exécution desdits services de transport par les Prestataires Tiers.
 
-**2\. Services App(s)/Site(s) Web** 
+**2\. Services App(s)/Site(s) Web** 
 
 2.1 Les services qui vous sont fournis par Uber incluent :
 
@@ -62,7 +62,7 @@ Les « **Services de Tiers** » comprennent notamment les services et les biens 
 
 2.5 Vous pouvez solliciter et recevoir des Services de Tiers ou des Services Fournis par Uber via les applications mobiles et/ou les sites internet d’Uber.
 
-**3\. Services de Tiers** 
+**3\. Services de Tiers** 
 
 3.1 Pour les Services de Tiers, Uber agit en qualité de plateforme technologique d’intermédiation entre vous et les Prestataires Tiers pour permettre aux Prestataires Tiers de vous fournir les Services de Tiers. Uber ne fournit pas les Services de Tiers. Tous les Prestataires Tiers sont des entrepreneurs tiers indépendants, des sociétés commerciales ou autres types d’entreprises et ne sont pas employés par Uber.
 
@@ -74,11 +74,11 @@ Les « **Services de Tiers** » comprennent notamment les services et les biens 
 
 3.5 Il peut vous être demandé de noter le Prestataire Tiers dont vous avez sollicité les services. Le Prestataire Tiers peut également vous donner une note. Les Prestataires Tiers verront la notation dans les applications et/sur les sites internet d’Uber et cette notation pourra avoir une incidence sur leur décision de vous fournir ou non des Services de Tiers. Pour plus d’informations relatives aux notations, veuillez consulter notre Charte de la communauté.
 
-**4\. Services Fournis par Uber** 
+**4\. Services Fournis par Uber** 
 
 Pour les Services Fournis par Uber, Uber agit en qualité de prestataire de services. Les conditions spécifiques régissant les Services Fournis par Uber seront stipulées dans des conditions supplémentaires ou dans un accord séparé.
 
-**5\. Utilisation des Services App(s)/Site(s) Web** 
+**5\. Utilisation des Services App(s)/Site(s) Web** 
 
 5.1 Les applications mobiles et/ou les sites internet d’Uber peuvent être téléchargés ou accessibles sur la plupart des appareils mobiles modernes disposant d’une connexion internet et équipés de systèmes d’exploitation répandus tels qu’Android ou iOS.
 
@@ -92,7 +92,7 @@ Pour les Services Fournis par Uber, Uber agit en qualité de prestataire de serv
 
 5.6 Nous pouvons restreindre temporairement, votre accès et votre utilisation des Services App(s)/Site(s) Web en cas d’indices graves de violation de vos obligations prévues au sein des articles 5 « Utilisation des Services App(s)/Sites Web », 6 « vos obligations », 7 « Frais et paiement », 10 « Propriété intellectuelle », figurant au sein des présentes Conditions, y compris lorsque nous recevons une réclamation liée à un acte frauduleux, pendant la durée nécessaire à la vérification des informations relatives à la violation présumée desdites obligations, laquelle n'excédera trois (3) mois. Uber vous informera qu’une réclamation est en cours et, le cas échéant, que votre accès et votre utilisation des Services App(s)/Site(s) Web sont temporairement restreints – sauf dans l’hypothèse où Uber ne pourrait légalement vous communiquer ces informations (par exemple dans le cadre d’une enquête de police ou d’une instruction judiciaire). Uber vous informera également de la levée de ces restrictions.
 
-**6\. Vos obligations** 
+**6\. Vos obligations** 
 
 6.1 Lorsque vous utilisez les Services App(s)/Site(s) Web, vous devez respecter l’ensemble de la législation applicable. Vous ne pouvez utiliser les Services App(s)/Site(s) Web qu’à des fins licites et pour lesquelles ils ont été conçus, comme indiqué dans les présentes Conditions. Vous ne devez pas faire un mauvais usage des applications mobiles et/ou des sites internet d’Uber ou tenter de commettre un acte frauduleux envers nous ou envers les Prestataires Tiers. Pour plus d’informations sur ce qui est attendu de vous, veuillez consulter notre Charte de la communauté.
 
@@ -100,17 +100,17 @@ Pour les Services Fournis par Uber, Uber agit en qualité de prestataire de serv
 
 6.3 Votre compte est personnel. Il ne peut être ni loué ni partagé, sauf autorisation expresse d’Uber. Une fois que vous avez créé un compte :
 
-*   Vous ne pouvez pas enregistrer plus d’un compte, sauf accord écrit contraire de notre part ;
-*   Vous ne pouvez pas autoriser des tiers à utiliser votre compte, ni transférer votre compte à un tiers;
-*   Vous devez veiller à ce que les informations relatives à votre compte soient exactes, complètes et à jour ;
-*   Vous ne devez pas divulguer vos informations de connexion confidentielles ;
-*   Vous devez nous informer immédiatement si vous avez des raisons de croire que quelqu’un d’autre connaît votre nom d’utilisateur ou votre mot de passe ou si vous suspectez que quelqu’un d’autre utilise votre compte.
+* Vous ne pouvez pas enregistrer plus d’un compte, sauf accord écrit contraire de notre part ;
+* Vous ne pouvez pas autoriser des tiers à utiliser votre compte, ni transférer votre compte à un tiers;
+* Vous devez veiller à ce que les informations relatives à votre compte soient exactes, complètes et à jour ;
+* Vous ne devez pas divulguer vos informations de connexion confidentielles ;
+* Vous devez nous informer immédiatement si vous avez des raisons de croire que quelqu’un d’autre connaît votre nom d’utilisateur ou votre mot de passe ou si vous suspectez que quelqu’un d’autre utilise votre compte.
 
 6.4 Vous serez responsable du paiement de tous les frais pouvant être dus en raison de la fourniture de Services de Tiers ou de Services Fournis par Uber demandés par l’intermédiaire de votre compte, sauf si l’accès et l’utilisation de votre compte résultent d’un cas de force majeure, du fait d’un tiers présentant les caractéristiques de la force majeure (exemple : hacking, piratage informatique) ou encore d’un manquement d’Uber à son obligation de sécurité. Dans l’hypothèse d’un vol de carte bleu ou de vol d’informations bancaires, vous êtes tenus de prévenir immédiatement votre établissement bancaire afin de réaliser les démarches nécessaires.
 
 6.5 Vous ne devez pas, dans votre utilisation des Services App(s)/Site(s) Web, porter préjudice, ni causer de nuisances, ou de dommages matériels, que ce soit au Tiers Prestataire, à Uber ou à toute autre personne.
 
-**7\. Frais et paiement** 
+**7\. Frais et paiement** 
 
 7.1 Frais liés aux Services App(s)/Site(s) Web
 
@@ -146,33 +146,33 @@ Pour les Services Fournis par Uber, Uber agit en qualité de prestataire de serv
 
 7.3.5 Les frais s’entendent toutes taxes comprises, TVA incluse.
 
-**8\. Annulation** 
+**8\. Annulation** 
 
 8.1 Sauf indication contraire ci-dessous et à l’exception des articles non périssables, dans certains cas vous n’avez pas le droit d’annuler la demande de Services de Tiers et de Services Fournis par Uber une fois qu’elle a été acceptée. Toutefois, pour certains Services de Tiers, Uber ou le Prestataire Tiers peuvent vous permettre d’annuler la demande, mais des frais d’annulation peuvent vous être facturés.
 
 8.2 Voir la Politique d’Annulation sur Uber et la Politique d’Annulation sur Uber Eats. Si vous achetez un article non périssable auprès d’un Prestataire Tiers, vous pouvez exercer votre droit de rétractation de la commande auprès de ce Prestataire Tiers dans les quatorze (14) jours suivant la date de votre achat. Le Prestataire Tiers vous fournira toutes les informations relatives au retour de cet article et au remboursement de votre commande.
 
-**9\. Licence** 
+**9\. Licence** 
 
 Sous réserve de votre respect des présentes Conditions, nous vous accordons une licence personnelle, mondiale, non exclusive, incessible, révocable et ne pouvant faire l’objet d’aucune sous-licence, pour installer et/ou utiliser les applications mobiles et/ou les sites internet d’Uber sur votre appareil, pour votre seul usage et uniquement pour vous permettre d’accéder aux informations mises à disposition au moyen des applications mobiles et/ou des sites internet d’Uber et de les utiliser. Tous les droits non expressément accordés dans les présentes sont réservés par Uber et par les concédants de licence d’Uber.
 
-**10\. Propriété intellectuelle** 
+**10\. Propriété intellectuelle** 
 
 Nous nous réservons tous les droits qui ne sont pas expressément accordés dans les présentes Conditions. Nos Services App(s)/Site(s) Web, nos appareils et toutes les données recueillies au moyen des applications mobiles et/ou des sites internet d’Uber (y compris tous les droits de propriété intellectuelle sur tout ce qui précède) sont et restent notre propriété ou la propriété de nos concédants de licence. Vous ne pouvez pas accomplir (et ne pouvez permettre à personne d’autre d’accomplir) les actes suivants : (a) concéder une licence, une sous-licence, copier, modifier, distribuer, créer, vendre, revendre, céder ou louer une quelconque partie des applications mobiles et/ou des sites internet d’Uber ; (b) faire de l’ingénierie inverse ou tenter d’extraire le code source des applications mobiles et/ou des sites internet d’Uber, sauf dans les cas autorisés par la loi ; (c) lancer ou faire lancer tout programme ou script dans le but de récupérer, d’indexer, d’étudier ou d’extraire des données de quelque partie que ce soit des applications mobiles et/ou des sites internet ou des données d’Uber ; (d) utiliser, afficher ou manipuler tout Nom, Marque ou Œuvre d’Uber dans un but autre que l’utilisation des applications mobiles et/ou des services d’Uber ; (e) créer ou enregistrer (i) des entreprises, (ii) des URL, (iii) des noms de domaine, (iv) des noms ou titres d’applications logicielles, ou (v) des pseudonymes ou profils de médias sociaux qui contiennent des Noms, Marques ou Œuvres d’Uber ou toute marque, tout nom, titre ou toute œuvre similaire ou de nature à prêter à confusion ; (f) utiliser des Noms, Marques ou Œuvres d’Uber comme image ou fond d’écran de votre profil de média social ; (g) acheter des mots-clés (notamment Google AdWords) qui contiennent des Noms, Marques ou Œuvres d’Uber ; ou (h) demander à enregistrer, référencer, utiliser, copier et/ou revendiquer la propriété des Noms, Marques ou Œuvres d’Uber ou de tout autre nom, marque, titre ou œuvre similaire ou de nature à prêter à confusion, de quelque manière que ce soit et à quelque fin que ce soit, seuls ou en combinaison avec d’autres lettres, ponctuations, mots, symboles, dessins et/ou autres œuvres créatives, sauf dans les cas autorisés par la licence limitée accordée ci-dessus.
 
-**11\. Données personnelles** 
+**11\. Données personnelles** 
 
 Nous recueillons, utilisons et communiquons des informations émanant de vous ou vous concernant, comme indiqué dans notre Déclaration de confidentialité. Des déclarations de confidentialité supplémentaires peuvent s’appliquer, y compris celles de tiers responsables de traitement, pour les Services Fournis par Uber ou les Services de Tiers.
 
-**12\. Vos responsabilités** 
+**12\. Vos responsabilités** 
 
 Vous êtes responsable de tout dommage résultant de votre violation des présentes Conditions, de votre mauvaise utilisation des Services App(s)/Site(s) Web ou de votre violation de toute disposition légale ou des droits d’un tiers. Il vous appartient de réaliser et conserver les copies des données disponibles sur votre compte qui vous sont nécessaires (par ex : les factures).
 
-**13\. Absence de responsabilité** 
+**13\. Absence de responsabilité** 
 
 Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retards et/ou d’autres problèmes dus à l’utilisation d’internet et des communications électroniques fournis par un prestataire tiers, du fait imprévisible et insurmontable d’un tiers ou de la survenance d’un cas de force majeure. Les Services App(s)/Site(s) Web peuvent faire l’objet d’interruptions dans le cadre de maintenances pouvant impacter votre utilisation des services et pour lesquelles vous serez informés le cas échéant.
 
-**14\. Limitation de responsabilité** 
+**14\. Limitation de responsabilité** 
 
 14.1 Aucune stipulation des présentes Conditions ne limite, ni n’exclut, la responsabilité en cas de décès ou de dommages corporels causés par une faute et la responsabilité encourue pour fraude ou dol, ni ne modifie vos droits en qualité consommateur.
 
@@ -190,7 +190,7 @@ Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retar
 
 14.8 La responsabilité d’Uber ne saurait être engagée en tout ou partie en cas d’inexécution ou de mauvaise exécution des services lorsque cette inexécution ou mauvaise exécution vous est imputable, ou lorsque cette inexécution ou mauvaise exécution résulte d’un fait imprévisible et insurmontable d’un tiers étranger à la fourniture des services, ou encore en cas de force majeure.
 
-**15\. Résiliation** 
+**15\. Résiliation** 
 
 15.1 Vous êtes libre à tout moment d’utiliser les Services App(s)/Site(s) Web (le cas échéant) et vous pouvez résilier les présentes Conditions et les Services App(s)/Site(s) Web en fermant votre compte.
 
@@ -204,7 +204,7 @@ Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retar
 
 15.6 Vous devez payer sans délai tous les frais impayés restants dus aux Prestataires Tiers ou à Uber dès la résiliation. Ces frais seront dus nonobstant la résiliation des présentes et nous nous réservons le droit d’en poursuivre le paiement après la résiliation.
 
-**16\. Général** 
+**16\. Général** 
 
 16.1 Uber se réserve le droit de modifier les présentes Conditions. Nous vous informerons de ces modifications par email avant leur entrée en vigueur dans un délai raisonnable. Vous serez lié par ces modifications une fois que vous les aurez acceptées dans les applications mobiles et/ou sur les sites internet d’Uber et/ou par email, le cas échéant. Si vous n’êtes pas d’accord avec ces modifications, vous êtes libre de clôturer votre compte conformément à l’article 15.1.
 
@@ -218,13 +218,13 @@ Les Services App(s)/Site(s) Web peuvent faire l’objet de limitations, de retar
 
 16.6 Aucun tiers ne bénéficie des présentes Conditions, sauf dans les cas prévus par les présentes Conditions.
 
-**17\. Procédure de règlement des différends** 
+**17\. Procédure de règlement des différends** 
 
 17.1 Uber vous propose un service client permettant de traiter l’essentiel de vos questions ou demandes relatives à l'utilisation des Services App(s)/Site(s) Web. Toutefois, le contrat de vente à distance pour les Services de Tiers est établi entre le Prestataire Tiers et vous directement. En conséquence, tout litige concernant les Services de Tiers sera réglé directement entre le Prestataire Tiers et vous.
 
 17.2 Uber peut mettre à la disposition des utilisateurs agissant en tant que consommateurs un système de médiation pour les litiges en matière de consommation liés aux Services App(s)/Site(s) Web ou aux présentes Conditions en vue de leur résolution à l’amiable. Conformément au code de la consommation, pour tout différend de nature contractuelle relatif à l’utilisation des Services App(s)/Site(s) Web en France qui n’aurait pas pu être résolu dans le cadre d’une réclamation préalablement soumise au service clientèle d’Uber, le consommateur pourra, sans que cette procédure de médiation ne soit un préalable obligatoire à l’exercice d’une action en justice, recourir gratuitement au médiateur suivant : Association Nationale des Médiateurs (ANM), qu’il devra contacter soit en envoyant un courrier à l’adresse suivante : 62 rue Tiquetonne - 75002 Paris - France, soit par email en remplissant le formulaire de saisine en ligne disponible à l’adresse suivante : https://www.anm-conso.com. Les consommateurs éligibles pourront également adresser des réclamations concernant nos Services ou les présentes Conditions à la plate-forme de règlement des litiges en ligne de la Commission européenne accessible ici conformément au règlement (UE) n°524/2013 du 21 mai 2013. Uber ne s’engage pas à utiliser une plate-forme de résolution en ligne des litiges pour résoudre les litiges de consommation.
 
-**18\. Droit applicable et juridiction compétente** 
+**18\. Droit applicable et juridiction compétente** 
 
 Les présentes Conditions seront exclusivement régies et interprétées conformément au droit des Pays-Bas, à l’exclusion de ses règles de conflit de lois, à moins que, si vous résidez dans l’UE, la réglementation en matière de protection des consommateurs de votre pays de résidence ne contienne des dispositions plus avantageuses pour vous, auquel cas ces dispositions s’appliquent. La Convention de Vienne sur la vente internationale de marchandises de 1980 (CVIM) n’est pas applicable. Vous pouvez introduire une action en justice relative aux Services devant un tribunal néerlandais compétent. Si vous résidez dans l’UE, vous pouvez également introduire une action en justice relative aux Services devant le tribunal compétent de votre pays de résidence. Si vous résidez dans l’UE, nous ne pouvons introduire d’action en justice contre vous que dans votre pays de résidence, sauf si vous agissez en tant que professionnel, auquel cas vous acceptez de vous soumettre à la compétence exclusive des tribunaux néerlandais.
 
