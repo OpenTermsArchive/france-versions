@@ -79,13 +79,13 @@ Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de cr�
 
 Pour commander sur notre Site :
 
-1.  Connectez-vous à votre compte personnel ;
-2.  Profitez de nos ventes en sélectionnant les produits et/ou les Offres Coupons de votre choix ;
-3.  Prenez connaissance des intitulés et caractéristiques essentielles des différents articles et/ou des Offres Coupons en consultant les fiches produits correspondantes ;
-4.  Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des produits et/ou des Offres Coupons choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des produits et /ou des Offres Coupons correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
-5.  Ensuite, si vous commandez des produits, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
-6.  Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande.
-7.  Votre commande est terminée ! Vous recevrez alors un email de confirmation de votre commande. Si vous avez commandé des coupons, ils vous seront directement envoyés par email et seront également téléchargeables dans votre espace client.
+1. Connectez-vous à votre compte personnel ;
+2. Profitez de nos ventes en sélectionnant les produits et/ou les Offres Coupons de votre choix ;
+3. Prenez connaissance des intitulés et caractéristiques essentielles des différents articles et/ou des Offres Coupons en consultant les fiches produits correspondantes ;
+4. Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des produits et/ou des Offres Coupons choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des produits et /ou des Offres Coupons correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
+5. Ensuite, si vous commandez des produits, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
+6. Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande.
+7. Votre commande est terminée ! Vous recevrez alors un email de confirmation de votre commande. Si vous avez commandé des coupons, ils vous seront directement envoyés par email et seront également téléchargeables dans votre espace client.
 
 Veuillez noter que nos offres de produits et de coupons ainsi que nos prix sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des coupons alloués par les partenaires de Showroomprivé. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de coupons ait été dépassé. Vous en serez informé par email, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité du produit et/ou du coupon. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
 
@@ -93,10 +93,10 @@ Il est par ailleurs précisé que, sauf mention contraire dans le descriptif de 
 
 Par ailleurs, nous nous réservons le droit d'annuler votre commande pour un motif légitime notamment dans les cas suivants :
 
-1.  Lorsque qu'une erreur manifeste s'est glissée sur la description du produit ou de l'Offre Coupon et/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu de l'Offre Coupon) ;
-2.  Lorsqu'il existe un différend relatif au paiement de votre commande ;
-3.  Lorsque nous constatons une utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage ;
-4.  Lorsque nous constatons la création multiple de comptes pour un seul membre utilisateur (cf. article 2)
+1. Lorsque qu'une erreur manifeste s'est glissée sur la description du produit ou de l'Offre Coupon et/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu de l'Offre Coupon) ;
+2. Lorsqu'il existe un différend relatif au paiement de votre commande ;
+3. Lorsque nous constatons une utilisation frauduleuse de nos avantages et/ou de notre programme de parrainage ;
+4. Lorsque nous constatons la création multiple de comptes pour un seul membre utilisateur (cf. article 2)
 
 Nous nous réservons également le droit de prendre toutes mesures utiles afin de faire cesser de telles irrégularités (exemple : blocage ou suppression du compte).
 
@@ -476,7 +476,7 @@ Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de c
 ![Zone de Texte: §	Durant toute la période de fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée. 
 Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture. 
 -	Pouvez demander la mise en conformité du contenu ou service numérique.
-](file:///C:\Users\D7567~1.LAU\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png) 
+](file:///C:\Users\D7567~1.LAU\AppData\Local\Temp\msohtmlclip1\01\clip_image003.png)
 
 10.2 La garantie commerciale
 
