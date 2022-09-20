@@ -7,10 +7,10 @@ Le site www.air-austral.com utilise des cookies. Un cookie est un fichier texte 
 Lorsque vous visitez notre site nous pouvons, selon vos choix exprimés par le paramétrage de votre navigateur, installer divers cookies sur le disque dur de votre ordinateur. Nous pouvons lire les cookies que nous avons installés pendant la durée de validité de chaque cookie ou jusqu'à ce que vous supprimiez ledit cookie.  
 Nous utilisons les cookies pour les finalités suivantes sur notre site:
 
-*   Ouverture et fermeture de sessions dans le cadre de la carte d'abonnement (achat, utilisation, réservation…)
-*   Choix de l'aéroport de départ de votre préférence
-*   Analyse de la performance de notre site à partir d'informations anonymes sur votre navigation (par exemple: pages vues, nombre de visites….). Nous utilisons pour ce faire l'outil d'analyse «Google Analytics».
-*   Analyse du partage des pages de notre site à partir d'informations anonymes sur votre navigation. Nous utilisons pour ce faire l'outil «Addthis».
+* Ouverture et fermeture de sessions dans le cadre de la carte d'abonnement (achat, utilisation, réservation…)
+* Choix de l'aéroport de départ de votre préférence
+* Analyse de la performance de notre site à partir d'informations anonymes sur votre navigation (par exemple: pages vues, nombre de visites….). Nous utilisons pour ce faire l'outil d'analyse «Google Analytics».
+* Analyse du partage des pages de notre site à partir d'informations anonymes sur votre navigation. Nous utilisons pour ce faire l'outil «Addthis».
 
 Les cookies que nous utilisons ne nous permettent pas de vous identifier personnellement et sont conçus pour être utilisés uniquement par Air Austral.  
 Les données recueillies sont conservées par Air Austral pour une durée de 6 mois et ne sont pas cédées à des tiers ni utilisées à d'autres fins.
