@@ -7,9 +7,9 @@ Date de la dernière modification : 25/05/2021
 
 **PREAMBULE  
   
-**Le site marchand [www.kookai.fr](http://www.kookai.fr/) (ci-après dénommé le « **Site** ») est édité par la société KOOKAI SAS, société par actions simplifiée au capital de 53 553 987,53 EUR, dont le siège social est sis 12, rue d'Uzès - 75002 PARIS, immatriculée au Registre du Commerce et de Sociétés de Paris sous le numéro 399 292 994, dont le numéro de TVA intra-communautaire est : FR95399292994 (ci-après dénommée « **KOOKAÏ** »).
+**Le site marchand [www.kookai.fr](http://www.kookai.fr/) (ci-après dénommé le « **Site** ») est édité par la société KOOKAI SAS, société par actions simplifiée au capital de 53 553 987,53 EUR, dont le siège social est sis 12, rue d'Uzès - 75002 PARIS, immatriculée au Registre du Commerce et de Sociétés de Paris sous le numéro 399 292 994, dont le numéro de TVA intra-communautaire est : FR95399292994 (ci-après dénommée « **KOOKAÏ** »).
 
-Les présentes conditions générales de vente (ci-après les « **CVG** ») s’appliquent à toutes les commandes des produits offerts à la vente sur le Site.
+Les présentes conditions générales de vente (ci-après les « **CVG** ») s’appliquent à toutes les commandes des produits offerts à la vente sur le Site.
 
 **ARTICLE 1 – OBJET**
 
@@ -27,7 +27,7 @@ KOOKAÏ se réserve le droit à tout moment d'ajouter de nouveaux Produits, de s
 
 KOOKAÏ s'engage à livrer des Produits répondant aux prescriptions en vigueur relatives à la sécurité et à la santé des personnes conformément aux dispositions européennes, et notamment à la législation sur les substances chimiques à teneur réglementée.
 
- **ARTICLE 3 – PRIX**
+ **ARTICLE 3 – PRIX**
 
 Les prix des Produits sont ceux figurant sur le Site au jour de sa consultation par le Client.
 
@@ -145,9 +145,9 @@ Les Produits commandés seront envoyés à l’adresse indiquée par le Client a
 
 Pour les livraisons en France métropolitaine, KOOKAÏ propose :
 
-**Livraison à domicile** **:**
+**Livraison à domicile** **:**
 
-*   **Colissimo :**
+* **Colissimo :**
 
 Le délai moyen de réception d’un colis Colissimo est de 3 à 5 jours ouvrés (hors dimanche et jours fériés).
 
@@ -157,7 +157,7 @@ Le colis sera distribué en boite à lettres à l’adresse indiquée par le Cli
 
 En cas d’impossibilité de distribution en boite à lettres, La Poste se réserve la possibilité de procéder à plusieurs tentatives de distribution à l’adresse indiquée par le Client.  Elle peut prendre l’initiative d’une remise à toute personne présente à cette adresse, y compris le gardien ou le concierge qui accepte d’en prendre livraison. Le facteur est autorisé à rechercher un voisin qui pourrait accepter de prendre le colis pour le remettre au Client ensuite, ce qui évitera au Client d’aller le chercher dans un bureau de poste. En cas d’impossibilité de distribution, le colis est mis en instance à l’endroit indiqué sur l’avis de passage. A compter de la date mentionnée sur l’avis de passage, le Client dispose de quinze (15) jours pour retirer son colis. Passé ce délai, celui-ci sera retourné automatiquement à KOOKAÏ.
 
-*   **Livraison DHL Express :**
+* **Livraison DHL Express :**
 
 La livraison DHL Express est offerte au Client pour toute commande supérieure ou égale à 360 EUR.
 
@@ -183,7 +183,7 @@ Si le Client ne récupère pas son colis dans un délai maximum de trente (30) j
 
 Pour les livraisons à l’international, KOOKAÏ propose :
 
-*   **Livraison DHL** 
+* **Livraison DHL** 
 
 La livraison DHL International est à la charge du Client à hauteur de 15€ par commande.
 
@@ -201,7 +201,7 @@ Le Client est tenu de porter une attention particulière aux coordonnées compl�
 
 Le délai moyen de livraison comprend le délai de traitement des commandes par les services de KOOKAÏ du lundi au vendredi (sauf jours fériés) ainsi que les délais de transport pratiqués par le transporteur.
 
-**Délai de préparation :** 
+**Délai de préparation :** 
 
 KOOKAÏ traite les commandes du lundi au vendredi (sauf jour férié), dans un délai moyen de 48 heures.
 
@@ -247,9 +247,9 @@ Le Produit doit être retourné dans son emballage d’origine, en parfait état
 
 Pour effectuer un retour, le Client doit :
 
-1.  Compléter le bon de retour présent dans son colis en y indiquant le/les Produit(s) qu’il souhaite retourner
-2.  Insérer ce bon de retour dans son colis de retour, ainsi que le(s) Produit(s) à retourner
-3.  Retourner le colis de retour par voie postale, par courrier recommandé, à l’adresse suivante :
+1. Compléter le bon de retour présent dans son colis en y indiquant le/les Produit(s) qu’il souhaite retourner
+2. Insérer ce bon de retour dans son colis de retour, ainsi que le(s) Produit(s) à retourner
+3. Retourner le colis de retour par voie postale, par courrier recommandé, à l’adresse suivante :
 
 LOGISTIQUE NC – RETOUR E-COMMERCE KOOKAÏ
 
@@ -299,7 +299,7 @@ A toutes fins utiles, il est rappelé les dispositions légales suivantes :
 
 Article L217-4 du Code de la consommation : « _Le vendeur est tenu de livrer un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité_ ».
 
-Article L217-5 du Code de la consommation : « _Le bien est conforme au contrat :_
+Article L217-5 du Code de la consommation : « _Le bien est conforme au contrat :_
 
 _1° S'il est propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :_
 
@@ -307,13 +307,13 @@ _\- s'il correspond à la description donnée par le vendeur et possède les qua
 
 _\- s'il présente les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l'étiquetage ;_
 
-_2° Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté._ »
+_2° Ou s'il présente les caractéristiques définies d'un commun accord par les parties ou est propre à tout usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté._ »
 
 Article L217-12 du Code de la consommation : « _L'action résultant du défaut de conformité se prescrit par deux ans à compter de la délivrance du bien._ »
 
-Article 1641 du Code civil : _«_ _Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._ »
+Article 1641 du Code civil : _«_ _Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._ »
 
-Article 1648 al 1er du Code civil : _«_ _L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._ »
+Article 1648 al 1er du Code civil : _«_ _L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._ »
 
 En tout état de cause, ces dispositions ne privent pas le Client de la possibilité d'exercer son droit de rétractation, tel qu'indiqué à l'article 7 ci-avant.
 
@@ -382,11 +382,11 @@ Tous les éléments du Site, qu’ils soient visuels ou sonores, y compris la te
 
 Ainsi, KOOKAÏ est le titulaire exclusif des droits de propriété intellectuelle sur les éléments suivants, sans que cette liste ne soit exhaustive :
 
-*   Les Produits proposés sur le Site et les marques associées aux Produits ;
-*   Le Site, et notamment sur son arborescence, sur l’organisation et le titrage de ses rubriques, sur l’identité visuelle et graphique, sur son design, ses fonctionnalités, les textes, les images animées ou fixes, les sons, les savoir-faire, les graphismes et tout autre élément composant le Site ;
-*   Les bases de données, leur structure et leurs contenus, conçues et gérées par KOOKAÏ pour les besoins de l’édition du Site ;
-*   Tous les éléments de conception du Site qu’ils soient graphiques ou techniques ;
-*   Les noms, sigles, logos, couleurs, graphismes, ou autres signes qui pourraient être utilisés, réalisés ou mis en œuvre par KOOKAÏ.
+* Les Produits proposés sur le Site et les marques associées aux Produits ;
+* Le Site, et notamment sur son arborescence, sur l’organisation et le titrage de ses rubriques, sur l’identité visuelle et graphique, sur son design, ses fonctionnalités, les textes, les images animées ou fixes, les sons, les savoir-faire, les graphismes et tout autre élément composant le Site ;
+* Les bases de données, leur structure et leurs contenus, conçues et gérées par KOOKAÏ pour les besoins de l’édition du Site ;
+* Tous les éléments de conception du Site qu’ils soient graphiques ou techniques ;
+* Les noms, sigles, logos, couleurs, graphismes, ou autres signes qui pourraient être utilisés, réalisés ou mis en œuvre par KOOKAÏ.
 
 KOOKAÏ est également le propriétaire exclusif du nom de domaine « www.kookai.fr ».
 
