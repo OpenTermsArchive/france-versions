@@ -17,9 +17,9 @@ _In short: This is a contract between you and TikTok. You should read it._
 
 The company that you are contracting with depends on where you are resident:
 
-*   If you are resident in one of the countries that form the [European Economic Area (“EEA”)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) or Switzerland, your contract is with TikTok Technology Limited, which is a company registered in the Republic of Ireland with its registered office at 10 Earlsfort Terrace, Dublin, D02 T380, Ireland and company number 635755.
+* If you are resident in one of the countries that form the [European Economic Area (“EEA”)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) or Switzerland, your contract is with TikTok Technology Limited, which is a company registered in the Republic of Ireland with its registered office at 10 Earlsfort Terrace, Dublin, D02 T380, Ireland and company number 635755.
 
-*   If you are resident in the United Kingdom, your contract is with TikTok Information Technologies UK Limited, which is a company registered in England with its registered office at 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom and company number 10165711.
+* If you are resident in the United Kingdom, your contract is with TikTok Information Technologies UK Limited, which is a company registered in England with its registered office at 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom and company number 10165711.
 
 _In short: The specific TikTok company that you have a contract with depends on where you are resident. If we say “TikTok”, “we” or “us” in these Terms, we are referring to that specific company unless we say otherwise._
 
@@ -37,19 +37,19 @@ _In short: These Terms apply to your use of the TikTok app, websites, software a
 
 Additional terms and policies may apply to certain products or features of the Platform that we may make available to you, if you post or live stream certain kinds of content, or if you use the Platform for business or commercial purposes. The main ones you should be aware of, and which form part of these Terms, are set out below for your information:
 
-*   [Coins Policy](https://www.tiktok.com/legal/coin-policy-eea?lang=en): This policy governs the purchase and use of virtual coins to activate or access features on the Platform.
+* [Coins Policy](https://www.tiktok.com/legal/coin-policy-eea?lang=en): This policy governs the purchase and use of virtual coins to activate or access features on the Platform.
 
-*   [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-eea?lang=en): This policy governs the receipt of rewards from TikTok, such as virtual diamonds.
+* [Rewards Policy](https://www.tiktok.com/legal/rewards-policy-eea?lang=en): This policy governs the receipt of rewards from TikTok, such as virtual diamonds.
 
-*   [Music Terms of Service](https://www.tiktok.com/legal/music-terms-eea?lang=en): These terms apply when you post or live stream content on the Platform that includes music.
+* [Music Terms of Service](https://www.tiktok.com/legal/music-terms-eea?lang=en): These terms apply when you post or live stream content on the Platform that includes music.
 
-*   [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en): This policy applies to all content on the Platform that is protected by intellectual property rights.
+* [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en): This policy applies to all content on the Platform that is protected by intellectual property rights.
 
-*   TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop.
+* TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop.
 
-*   [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en): This policy applies when you post content on the Platform about a brand or a product in return for any payment or other incentive.
+* [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en): This policy applies when you post content on the Platform about a brand or a product in return for any payment or other incentive.
 
-*   [Business Terms](https://www.tiktok.com/legal/business-terms-eea?lang=en): These terms apply if you use the Platform for purposes within your trade, business, craft or profession, including managing your own business through your account on the Platform or administering an account on behalf of a business.
+* [Business Terms](https://www.tiktok.com/legal/business-terms-eea?lang=en): These terms apply if you use the Platform for purposes within your trade, business, craft or profession, including managing your own business through your account on the Platform or administering an account on behalf of a business.
 
 _In short: These Terms cover your use of the Platform. There may be some additional terms and policies that will apply if you want to access additional functionality, post or live stream certain kinds of content, or use the Platform for business or commercial purposes._
 
@@ -94,33 +94,33 @@ _In short: You need to be 13 or over to use our Platform._
 
 Under these Terms, you can use the Platform in order to:
 
-*   create and share content;
+* create and share content;
 
-*   interact with other users;
+* interact with other users;
 
-*   view content created by others; and
+* view content created by others; and
 
-*   use the features and functionality on the Platform as provided to you from time to time.
+* use the features and functionality on the Platform as provided to you from time to time.
 
 See our [Help Center](https://support.tiktok.com/en/) for further information about the features of the Platform and how to use them.
 
 The permission we give to you:
 
-*   is limited to what we have said we will allow in these Terms;
+* is limited to what we have said we will allow in these Terms;
 
-*   is only for you;
+* is only for you;
 
-*   cannot be given to anyone else by you; and
+* cannot be given to anyone else by you; and
 
-*   can be withdrawn for the reasons allowed in these Terms.
+* can be withdrawn for the reasons allowed in these Terms.
 
 Access to certain features of the Platform depends on your age. For example:
 
-*   Direct Messaging: You must be aged 16 or older to use the direct messaging functionality.
+* Direct Messaging: You must be aged 16 or older to use the direct messaging functionality.
 
-*   TikTok LIVE: You must be aged 16 or older to live stream and use live streaming features.
+* TikTok LIVE: You must be aged 16 or older to live stream and use live streaming features.
 
-*   Virtual Items: You must be at least 18 years old to interact with virtual items.
+* Virtual Items: You must be at least 18 years old to interact with virtual items.
 
 _In short: You can do many things on our Platform but you might not be able to use every feature if you are not old enough._
 
@@ -130,54 +130,54 @@ Our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) 
 
 In any event, you must not use the Platform to:
 
-*   do anything illegal;
+* do anything illegal;
 
-*   negatively impact the enjoyment of other users;
+* negatively impact the enjoyment of other users;
 
-*   engage with minors in an exploitative or inappropriate way;
+* engage with minors in an exploitative or inappropriate way;
 
-*   undermine the Platform’s operations or security;
+* undermine the Platform’s operations or security;
 
-*   extract any data or content from the Platform using any automated system or software; or
+* extract any data or content from the Platform using any automated system or software; or
 
-*   use or attempt to use another user’s account without authorisation.
+* use or attempt to use another user’s account without authorisation.
 
 You must also not post, live stream or otherwise distribute any content on the Platform which:
 
-*   infringes anyone else’s rights (such as intellectual property, privacy and/or personality rights of living or deceased people);
+* infringes anyone else’s rights (such as intellectual property, privacy and/or personality rights of living or deceased people);
 
-*   constitutes, encourages or provides instructions for a criminal offence, or dangerous activities that may lead to serious injury or death or self-harm;
+* constitutes, encourages or provides instructions for a criminal offence, or dangerous activities that may lead to serious injury or death or self-harm;
 
-*   spreads harmful misinformation such as misinformation that incites hate or prejudice or that misleads about or improperly influences elections or other civic processes;
+* spreads harmful misinformation such as misinformation that incites hate or prejudice or that misleads about or improperly influences elections or other civic processes;
 
-*   contains a threat of any kind or which intimidates or harasses others, including posting any material that is intended to mock, humiliate, embarrass, intimidate, or hurt an individual,
+* contains a threat of any kind or which intimidates or harasses others, including posting any material that is intended to mock, humiliate, embarrass, intimidate, or hurt an individual,
 
-*   is obscene, pornographic, hateful or inflammatory or which promotes sexually explicit material (e.g. by linking to adult or pornographic websites);
+* is obscene, pornographic, hateful or inflammatory or which promotes sexually explicit material (e.g. by linking to adult or pornographic websites);
 
-*   contains or promotes violence or discrimination based on race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender identity, serious disease, disability, immigration status or age; or
+* contains or promotes violence or discrimination based on race, ethnicity, national origin, religion, caste, sexual orientation, sex, gender identity, serious disease, disability, immigration status or age; or
 
-*   otherwise contains harmful content (such as content that causes physical, mental or moral detriment to minors).
+* otherwise contains harmful content (such as content that causes physical, mental or moral detriment to minors).
 
 If you post content on the Platform about a brand or a product in return for any payment or other incentive, you must comply with the [Branded Content Policy](https://www.tiktok.com/legal/bc-policy?lang=en). You must use appropriate disclosures including any functionality the Platform provides to ensure that any posts that are, for example, sponsored are clear. For more details about Branded Content on the Platform, [see here](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-on-tiktok). In addition, in relation to any such content you must not:
 
-*   use surreptitious or subliminal techniques;
+* use surreptitious or subliminal techniques;
 
-*   prejudice respect for human dignity; include or promote any discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
+* prejudice respect for human dignity; include or promote any discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
 
-*   encourage behaviour prejudicial to health or safety or which is grossly prejudicial to the protection of the environment;
+* encourage behaviour prejudicial to health or safety or which is grossly prejudicial to the protection of the environment;
 
-*   cause physical, mental or moral detriment to minors;
+* cause physical, mental or moral detriment to minors;
 
-*   directly exhort minors to buy or hire a product or service or directly encourage minors to persuade their parents or others to purchase goods or services being advertised; or
+* directly exhort minors to buy or hire a product or service or directly encourage minors to persuade their parents or others to purchase goods or services being advertised; or
 
-*   exploit the special trust minors place in parents, teachers or other persons, or show minors in dangerous situations.
+* exploit the special trust minors place in parents, teachers or other persons, or show minors in dangerous situations.
 
 We respect copyright and other intellectual property rights. Please read our [Intellectual Property Policy](https://www.tiktok.com/legal/copyright-policy?lang=en). You can report suspected infringements of intellectual property rights on the Platform here:
 
-*   Copyright: [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)  
+* Copyright: [https://www.tiktok.com/legal/report/Copyright](https://www.tiktok.com/legal/report/Copyright)  
     
 
-*   Trademark: [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)  
+* Trademark: [https://www.tiktok.com/legal/report/Trademark](https://www.tiktok.com/legal/report/Trademark)  
     
 
 You can report suspected illegal content or content which otherwise breaches these Terms or our Community Guidelines through the reporting functionalities provided on the Platform or [here](https://www.tiktok.com/legal/report/feedback?lang=en).
@@ -188,17 +188,17 @@ _In short: Enjoy using our Platform but, for the benefit of all our users, there
 
 It is important that you understand what happens to the content that you create, post or share on the Platform:
 
-*   You are responsible for the content that you make available on the Platform and you should have all the rights needed to create, post or share content on the Platform.
+* You are responsible for the content that you make available on the Platform and you should have all the rights needed to create, post or share content on the Platform.
 
-*   We may remove or restrict access to any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en); or (ii) it causes harm to us, Affiliates, our users or other third parties.
+* We may remove or restrict access to any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en); or (ii) it causes harm to us, Affiliates, our users or other third parties.
 
-*   If we remove or restrict access to content, we will notify you without undue delay and state the reasons for our decision, unless it is not appropriate for us to do so or we reasonably believe that doing so would cause damage to us, Affiliates, our users or other third parties, or we are legally prevented from doing so. If you think we have made a mistake in removing or restricting access to your content, you can appeal through the appeal functionalities provided on the Platform and we will review our decision and decide again.
+* If we remove or restrict access to content, we will notify you without undue delay and state the reasons for our decision, unless it is not appropriate for us to do so or we reasonably believe that doing so would cause damage to us, Affiliates, our users or other third parties, or we are legally prevented from doing so. If you think we have made a mistake in removing or restricting access to your content, you can appeal through the appeal functionalities provided on the Platform and we will review our decision and decide again.
 
-*   You are free to remove your content from the Platform at any time.
+* You are free to remove your content from the Platform at any time.
 
-*   Depending on your Platform settings, if other users of the Platform have used your content to create new content (e.g. by using Duet or Stitch) or shared your content on third party services, then that new content may stay on the Platform or those third party services even if you subsequently delete your content or your account. You may make a separate request for Duet or Stitch videos that contain your content to be deleted.
+* Depending on your Platform settings, if other users of the Platform have used your content to create new content (e.g. by using Duet or Stitch) or shared your content on third party services, then that new content may stay on the Platform or those third party services even if you subsequently delete your content or your account. You may make a separate request for Duet or Stitch videos that contain your content to be deleted.
 
-*   You can restrict how other users interact with and use your content in your Platform settings. You should familiarise yourself with these settings before you post content on the Platform.
+* You can restrict how other users interact with and use your content in your Platform settings. You should familiarise yourself with these settings before you post content on the Platform.
 
 ### **Ownership of content and grant of licences**
 
@@ -208,15 +208,15 @@ To provide the Platform, we need certain rights from you (called a licence). The
 
 By creating, posting or otherwise making content available on the Platform, you grant to TikTok a:
 
-*   non-exclusive (which means that you can licence your content to others),
+* non-exclusive (which means that you can licence your content to others),
 
-*   royalty-free (which means that we don’t pay you for this licence),
+* royalty-free (which means that we don’t pay you for this licence),
 
-*   transferable (which means that we can give the rights you give us to someone else),
+* transferable (which means that we can give the rights you give us to someone else),
 
-*   sub-licensable (which means that we can licence your content to others, e.g. to service providers that help us to provide the Platform or to trusted third parties that have entered into agreements with us to operate, develop and provide the Platform) and
+* sub-licensable (which means that we can licence your content to others, e.g. to service providers that help us to provide the Platform or to trusted third parties that have entered into agreements with us to operate, develop and provide the Platform) and
 
-*   worldwide (which means that the licence applies anywhere in the world)
+* worldwide (which means that the licence applies anywhere in the world)
 
 licence to use your content, including to reproduce (e.g. to copy), adapt or make derivative works (e.g. to translate and/or create captions), perform and communicate your content to the public (e.g. to display it), for the purposes of operating, developing and providing the Platform, subject to your Platform settings.
 
@@ -226,9 +226,9 @@ You also grant to each user of the Platform a non-exclusive, royalty-free, world
 
 Your licences to TikTok and to users end when you close your account or when you or we remove your content from the Platform in accordance with these Terms. However, due to the nature of the Platform and our legal obligations, the licence granted will continue after you have removed your content to the extent that:
 
-*   you have allowed, via your Platform settings, other users of the Platform to use or reuse your content (e.g. by using Duet, Stitch, download or share functionalities); or
+* you have allowed, via your Platform settings, other users of the Platform to use or reuse your content (e.g. by using Duet, Stitch, download or share functionalities); or
 
-*   we are obliged to store or process your content for legal reasons.
+* we are obliged to store or process your content for legal reasons.
 
 If you choose to submit comments, ideas or feedback to us, you agree that we are free to use them for the purposes of operating, developing, improving and providing the Platform without compensation to you.
 
@@ -241,13 +241,13 @@ We promise to provide the Platform to you with reasonable skill and care and to 
 
 The content on the Platform is mostly user generated content or provided by third party business users. In other words, TikTok is not the creator of most of the content on the Platform (although TikTok may produce some content). Therefore, subject to any mandatory regulations or laws (including sectorial regulations or laws) applicable to TikTok, TikTok cannot and does not promise that any of the content generated by users that you find on the Platform:
 
-*   is accurate, complete or up-to-date;
+* is accurate, complete or up-to-date;
 
-*   does not infringe third party rights;
+* does not infringe third party rights;
 
-*   is legal; or that it
+* is legal; or that it
 
-*   will not offend you.
+* will not offend you.
 
 You understand and agree that the content you may see on the Platform does not represent our views or values and may not be suited to your purpose.
 
@@ -255,9 +255,9 @@ The Platform may contain links to third party websites, advertisements, services
 
 Provided that we have acted with professional diligence, we do not take responsibility for loss or damage caused by us, unless it is:
 
-*   caused by our breach of these Terms; or
+* caused by our breach of these Terms; or
 
-*   reasonably foreseeable at the time of entering into these Terms (i.e. either it is obvious that it will happen or if, at the time of this contract, it is known that it might happen).
+* reasonably foreseeable at the time of entering into these Terms (i.e. either it is obvious that it will happen or if, at the time of this contract, it is known that it might happen).
 
 We do not take responsibility for loss or damage if it is caused by events beyond our reasonable control.
 
@@ -286,13 +286,13 @@ In the event of any suspected breach of these Terms and our Community Guidelines
 
 We, subsequently, might determine to temporarily or permanently suspend or terminate your account, or impose limits on, or restrict your access to features of the Platform if:
 
-*   we determine, acting reasonably and objectively, that you are in material or repeated breach of these Terms or our Community Guidelines;
+* we determine, acting reasonably and objectively, that you are in material or repeated breach of these Terms or our Community Guidelines;
 
-*   we have objective grounds to reasonably believe that you are about to seriously breach these Terms or our Community Guidelines;
+* we have objective grounds to reasonably believe that you are about to seriously breach these Terms or our Community Guidelines;
 
-*   we are legally required to do so; or
+* we are legally required to do so; or
 
-*   it is reasonably required in response to dealing with a serious technical or security issue.
+* it is reasonably required in response to dealing with a serious technical or security issue.
 
 If we have previously terminated your account for breaches of these Terms or Community Guidelines, but you use our Platform again (for example, by opening another account), we are entitled to suspend or terminate any such accounts.
 
@@ -321,17 +321,17 @@ _In short: If these Terms change, we will tell you. It won’t change anything b
 
 Reasons that we might make changes to these Terms or the Platform are:
 
-*   changes in circumstances beyond our reasonable control;
+* changes in circumstances beyond our reasonable control;
 
-*   changes in the law;
+* changes in the law;
 
-*   changes we make to the Platform in the usual course of developing our product;
+* changes we make to the Platform in the usual course of developing our product;
 
-*   to adapt to new technologies;
+* to adapt to new technologies;
 
-*   to reflect changes in the number of people who use the Platform or any relevant feature or functionality of the Platform; or
+* to reflect changes in the number of people who use the Platform or any relevant feature or functionality of the Platform; or
 
-*   to address a security issue.
+* to address a security issue.
 
 _In short: Our Platform will not stay the same forever, but we will be transparent when we make major changes._
 
@@ -344,9 +344,9 @@ If we have a dispute, we will first try and resolve it with you amicably.
 
 If we cannot resolve our dispute, you or we can go to your local courts. You can also go to the following courts:
 
-*   the courts of the Republic of Ireland will have non-exclusive jurisdiction over disputes with TikTok Ireland Limited; and
+* the courts of the Republic of Ireland will have non-exclusive jurisdiction over disputes with TikTok Ireland Limited; and
 
-*   the courts of England & Wales will have non-exclusive jurisdiction over disputes with TikTok Information Technologies UK Limited.
+* the courts of England & Wales will have non-exclusive jurisdiction over disputes with TikTok Information Technologies UK Limited.
 
 If you are resident in the EEA, you can also raise the dispute with an alternative dispute resolution body via the [EU Commission’s Online Dispute Resolution (ODR) Platform](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show).
 
@@ -377,25 +377,25 @@ In some countries, the law requires us to provide additional regulatory informat
 **Additional languages (please also see the language settings for other available languages)**
 ----------------------------------------------------------------------------------------------
 
-*   Bulgarian: [български](https://www.tiktok.com/legal/bul-terms-of-service-eea?lang=en)  
+* Bulgarian: [български](https://www.tiktok.com/legal/bul-terms-of-service-eea?lang=en)  
     
 
-*   Croatian: [Cruatu](https://www.tiktok.com/legal/hr-terms-of-service-eea?lang=en)  
+* Croatian: [Cruatu](https://www.tiktok.com/legal/hr-terms-of-service-eea?lang=en)  
     
 
-*   Danish: [Dansk](https://www.tiktok.com/legal/da-terms-of-service-eea?lang=en)  
+* Danish: [Dansk](https://www.tiktok.com/legal/da-terms-of-service-eea?lang=en)  
     
 
-*   Estonian: [Eesti keel](https://www.tiktok.com/legal/et-terms-of-service-eea?lang=en)  
+* Estonian: [Eesti keel](https://www.tiktok.com/legal/et-terms-of-service-eea?lang=en)  
     
 
-*   Latvian: [Latviski](https://www.tiktok.com/legal/lv-terms-of-service-eea?lang=en)  
+* Latvian: [Latviski](https://www.tiktok.com/legal/lv-terms-of-service-eea?lang=en)  
     
 
-*   Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-terms-of-service-eea?lang=en)  
+* Lithuanian: [Lietuvių](https://www.tiktok.com/legal/lt-terms-of-service-eea?lang=en)  
     
 
-*   Norwegian: [Norsk](https://www.tiktok.com/legal/nb-terms-of-service-eea?lang=en)  
+* Norwegian: [Norsk](https://www.tiktok.com/legal/nb-terms-of-service-eea?lang=en)  
     
 
-*   Slovak: [Slovenský](https://www.tiktok.com/legal/sk-terms-of-service-eea?lang=en)
+* Slovak: [Slovenský](https://www.tiktok.com/legal/sk-terms-of-service-eea?lang=en)
