@@ -102,16 +102,16 @@ Nous menons et améliorons constamment la maintenance technique de la Plateforme
 
 Les prestataires de services suivants étant établis en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être transférées en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les prestataires de services qui s’engagent à respecter les [clauses contractuelles types](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32010D0087&from=en) de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne :
 
-1.  Amazon Web Services, Inc. (États-Unis) ;
-2.  Google LLC (États-Unis) ;
-3.  Apple Inc. (États-Unis) ;
-4.  Microsoft Corporation (États-Unis) ;
-5.  Slack Technologies, Inc. (États-Unis).
-6.  BlackLine Systems, Inc. (États-Unis) ;
-7.  Chronicle, LLC (États-Unis) ;
-8.  True Partners Consulting, LLC (États-Unis) ;
-9.  Arcaris, Inc. (États-Unis) ;
-10.  Havas Edge, Inc. (États-Unis).
+1. Amazon Web Services, Inc. (États-Unis) ;
+2. Google LLC (États-Unis) ;
+3. Apple Inc. (États-Unis) ;
+4. Microsoft Corporation (États-Unis) ;
+5. Slack Technologies, Inc. (États-Unis).
+6. BlackLine Systems, Inc. (États-Unis) ;
+7. Chronicle, LLC (États-Unis) ;
+8. True Partners Consulting, LLC (États-Unis) ;
+9. Arcaris, Inc. (États-Unis) ;
+10. Havas Edge, Inc. (États-Unis).
 
 Nous transférons des données à caractère personnel aux avocats, assistants d’avocats, notaires, huissiers de justice, commissaires aux comptes, comptables, agents de recouvrement, consultants, agences de traduction, prestataires de services informatiques, compagnies d’assurance et services d’archivage qui fournissent des services à Vinted.
 
@@ -136,11 +136,11 @@ Point de contact pour les questions et l’exercice des droits du sujet des donn
 
 En général, VINTED et les utilisateurs Vinted Pro sont tous les deux responsables du respect des obligations légales du RGPD. Bien que VINTED et les utilisateurs Vinted Pro conviennent de certaines responsabilités qui s’appliquent lorsque nous agissons en tant que responsables conjoints du traitement, VINTED est responsable de :
 
-*   vous servir de point de contact (phrase 3 de l’Art. 26 (1) du RGPD ;
-*   gérer la communication centralisée avec vous en ce qui concerne les droits relatifs à vos données (Art. 15, 16, 17, 18 et 20 du RGPD) ;
-*   vous fournir des informations sur le traitement des données (Art. 13 et 14 du RGPD) ;
-*   vous informer de la base de notre accord (phrase 2 de l’Art. 26 (2) du RGPD), ce que nous faisons dans la présente section ;
-*   vous informer des violations de données associées aux risques élevés relatifs à vos droits et libertés (Art. 34 (1) du RGPD), dans le cas où une telle violation de données se produit.
+* vous servir de point de contact (phrase 3 de l’Art. 26 (1) du RGPD ;
+* gérer la communication centralisée avec vous en ce qui concerne les droits relatifs à vos données (Art. 15, 16, 17, 18 et 20 du RGPD) ;
+* vous fournir des informations sur le traitement des données (Art. 13 et 14 du RGPD) ;
+* vous informer de la base de notre accord (phrase 2 de l’Art. 26 (2) du RGPD), ce que nous faisons dans la présente section ;
+* vous informer des violations de données associées aux risques élevés relatifs à vos droits et libertés (Art. 34 (1) du RGPD), dans le cas où une telle violation de données se produit.
 
 Toutes les autres responsabilités énoncées par le RGPD sont respectées par VINTED et par les utilisateurs Vinted Pro. Ces autres responsabilités ne vous concernent généralement pas directement en tant que sujet des données. Il s’agit plutôt des obligations générales des responsables conjoints du traitement, telles que le maintien de mesures de sécurité et la conservation d’un dossier des activités de traitement. En ce qui concerne le traitement de données en dehors du champ d’application du contrôle conjoint, VINTED et les utilisateurs Vinted Pro sont indépendamment et séparément responsables et les informations fournies dans la présente section ne sont pas applicables.
 
@@ -167,17 +167,17 @@ Dans la mesure où nous développons constamment nos services, nous nous réserv
 
 Sous réserve des conditions, des restrictions et des exceptions établies par les dispositions légales en matière de protection des données, vous avez le droit à tout moment :
 
-*   d’être informé(e) des données que nous collectons et utilisons et de demander l’accès aux données concernées ou d’en exiger une copie (droit d’être informé(e)). Vous pouvez également accéder à toutes les données que vous nous avez directement fournies sur la Plateforme (consulter les sections 1, 2.5 et 2.6), à tout moment, sur votre compte Vinted ;
-*   d’exiger la correction de données inexactes et, sous réserve de la nature de la collecte et de l’utilisation, le renseignement de données incomplètes (droit de rectification). Vous pouvez également vous-même modifier l’ensemble des données que vous nous avez directement fournies sur la Plateforme (2.1, 2.5 et 2.6), à tout moment, sur votre compte Vinted (à l’exception des messages envoyés et des publications ou avis sur un forum) ;
-*   sous réserve d’une cause juste, d’exiger la suppression de vos données (droit de suppression);
-*   d’exiger la restriction de la collecte et de l’utilisation de vos données, à condition que les critères statutaires soient respectés (droit de restreindre le traitement);
-*   sous réserve des critères statutaires respectés, de recevoir les données que vous avez fournies sous une forme structurée, actuelle et lisible par une machine, et de transférer lesdites données à un autre processeur ou, lorsque cela est faisable d'un point de vue technique, de les faire transférer par Vinted (droit à la portabilité des données);
+* d’être informé(e) des données que nous collectons et utilisons et de demander l’accès aux données concernées ou d’en exiger une copie (droit d’être informé(e)). Vous pouvez également accéder à toutes les données que vous nous avez directement fournies sur la Plateforme (consulter les sections 1, 2.5 et 2.6), à tout moment, sur votre compte Vinted ;
+* d’exiger la correction de données inexactes et, sous réserve de la nature de la collecte et de l’utilisation, le renseignement de données incomplètes (droit de rectification). Vous pouvez également vous-même modifier l’ensemble des données que vous nous avez directement fournies sur la Plateforme (2.1, 2.5 et 2.6), à tout moment, sur votre compte Vinted (à l’exception des messages envoyés et des publications ou avis sur un forum) ;
+* sous réserve d’une cause juste, d’exiger la suppression de vos données (droit de suppression);
+* d’exiger la restriction de la collecte et de l’utilisation de vos données, à condition que les critères statutaires soient respectés (droit de restreindre le traitement);
+* sous réserve des critères statutaires respectés, de recevoir les données que vous avez fournies sous une forme structurée, actuelle et lisible par une machine, et de transférer lesdites données à un autre processeur ou, lorsque cela est faisable d'un point de vue technique, de les faire transférer par Vinted (droit à la portabilité des données);
 
-*   de s’opposer à la collecte et à l’utilisation des données, uniquement lorsque lesdites collecte et utilisation sont fondées sur une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée (art. 6 (1) (e) du RGPD) ou d’un intérêt légitime (art. 6 (1)f) du RGPD), notamment le profilage, selon les mêmes motifs de collecte et d’utilisation de données que ceux expliqués dans d’autres sections de la présente déclaration (droit de contester). Vous avez également le droit de vous opposer, à tout moment, à la collecte de vos données à caractère personnel à des fins de marketing direct ;
+* de s’opposer à la collecte et à l’utilisation des données, uniquement lorsque lesdites collecte et utilisation sont fondées sur une tâche effectuée dans l’intérêt public ou dans l’exercice de l’autorité officielle conférée (art. 6 (1) (e) du RGPD) ou d’un intérêt légitime (art. 6 (1)f) du RGPD), notamment le profilage, selon les mêmes motifs de collecte et d’utilisation de données que ceux expliqués dans d’autres sections de la présente déclaration (droit de contester). Vous avez également le droit de vous opposer, à tout moment, à la collecte de vos données à caractère personnel à des fins de marketing direct ;
 
-*   de retirer à tout moment toute autorisation que vous nous avez fournie. Ledit retrait n’affectera pas la légalité de la collecte et de l’utilisation effectuées avant le retrait et sur la base de l’autorisation accordée. Vous pouvez retirer votre autorisation concernant l’envoi de notre newsletter en réglant les paramètres de votre compte Vinted afin de bloquer l’envoi de tout autre e-mail marketing. Alternativement, vous pouvez cliquer sur « Se désinscrire » à la fin de l’e-mail marketing ;
-*   lorsqu’une décision légale ou d’importance similaire vous concernant a été prise de manière totalement automatisée, d’obtenir une intervention humaine de la part de Vinted, d’exprimer votre point de vue et de contester la décision ;
-*   de ne pas être soumis(e) à un traitement discriminatoire pendant l’exercice de vos droits.
+* de retirer à tout moment toute autorisation que vous nous avez fournie. Ledit retrait n’affectera pas la légalité de la collecte et de l’utilisation effectuées avant le retrait et sur la base de l’autorisation accordée. Vous pouvez retirer votre autorisation concernant l’envoi de notre newsletter en réglant les paramètres de votre compte Vinted afin de bloquer l’envoi de tout autre e-mail marketing. Alternativement, vous pouvez cliquer sur « Se désinscrire » à la fin de l’e-mail marketing ;
+* lorsqu’une décision légale ou d’importance similaire vous concernant a été prise de manière totalement automatisée, d’obtenir une intervention humaine de la part de Vinted, d’exprimer votre point de vue et de contester la décision ;
+* de ne pas être soumis(e) à un traitement discriminatoire pendant l’exercice de vos droits.
 
 Pour exercer un quelconque droit spécifié dans la présente section, vous pouvez contacter Vinted et soumettre votre demande en utilisant les coordonnées (consulter la section 8 ci-dessous). Indépendamment de tout autre recours juridique, vous avez également le droit à tout moment de soumettre une plainte auprès des autorités de surveillance.
 
