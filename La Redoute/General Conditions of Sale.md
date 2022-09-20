@@ -146,8 +146,8 @@ En conséquence, s’il existe une ou plusieurs contraintes liées au lieu de li
 
 L’impossibilité d’acheminer les Produits livrés à votre étage ou à l’intérieur de votre domicile, à défaut d'information sur la nécessité de recourir à des moyens spécifiques de livraison, ne saurait engager la responsabilité de LA REDOUTE. Le cas échéant, Vous aurez alors la possibilité :
 
-*   • De demander au transporteur de reprendre le Produit en application de votre droit de rétractation ;
-*   • D’accepter la livraison, qui se fera uniquement devant votre domicile ou au pied de votre immeuble.
+* • De demander au transporteur de reprendre le Produit en application de votre droit de rétractation ;
+* • D’accepter la livraison, qui se fera uniquement devant votre domicile ou au pied de votre immeuble.
 
 S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.
 
@@ -192,8 +192,8 @@ LA REDOUTE accusera réception de votre rétractation, par email.
   
 Vous devez ensuite retourner les Produits à LA REDOUTE, au plus tard dans les quatorze (14) jours suivant votre rétractation, soit :
 
-*   par La Poste à l'adresse suivante : LA REDOUTE Quai 30, 30 rue Chardonnet, 59150 Wattrelos. Les frais de retour via La Poste sont à votre charge (à l'exception d'un Produit défectueux à réception, ou d'une erreur de LA REDOUTE lors de l'envoi du Produit).
-*   en point Relais Colis ® avec le bordereau de réexpédition qui vous sera envoyé par email.
+* par La Poste à l'adresse suivante : LA REDOUTE Quai 30, 30 rue Chardonnet, 59150 Wattrelos. Les frais de retour via La Poste sont à votre charge (à l'exception d'un Produit défectueux à réception, ou d'une erreur de LA REDOUTE lors de l'envoi du Produit).
+* en point Relais Colis ® avec le bordereau de réexpédition qui vous sera envoyé par email.
 
   
 Pour les Produits volumineux signalés par une camionnette, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 362 950 (coût d'un appel local).
@@ -212,12 +212,12 @@ Le remboursement sera effectué via le moyen de paiement utilisé lors de la com
 
 Ainsi, par exemple, si la commande de Produits a été réglée par :
 
-*   Carte Bleue, et que votre Carte Bleue est encore valide, le remboursement sera effectué sur le compte attaché à cette Carte Bleue.
-*   La Mastercard® La Redoute et Premium, le remboursement sera effectué par le recrédit du compte Premium
-*   Paypal, et que le compte Paypal est toujours actif, le remboursement sera effectué sur ce compte Paypal.
-*   carte cadeau uniquement (Illicado, Spirit of Cadeaux etc…), le remboursement sera effectué par re-crédit de la carte cadeau utilisée (pensez à la conserver après votre achat)
-*   carte cadeau et paiement complémentaire (carte bancaire, PayPal etc…), le remboursement sera effectué via le moyen de paiement complémentaire utilisé à hauteur du montant réglé par celui-ci puis sur votre carte cadeau. Il est important que Vous conserviez la carte cadeau (le numéro de carte et le code de validité) pendant la durée de rétractation.
-*   bons d'achat (à minima 80% du paiement), le remboursement sera effectué en bons d'achat.
+* Carte Bleue, et que votre Carte Bleue est encore valide, le remboursement sera effectué sur le compte attaché à cette Carte Bleue.
+* La Mastercard® La Redoute et Premium, le remboursement sera effectué par le recrédit du compte Premium
+* Paypal, et que le compte Paypal est toujours actif, le remboursement sera effectué sur ce compte Paypal.
+* carte cadeau uniquement (Illicado, Spirit of Cadeaux etc…), le remboursement sera effectué par re-crédit de la carte cadeau utilisée (pensez à la conserver après votre achat)
+* carte cadeau et paiement complémentaire (carte bancaire, PayPal etc…), le remboursement sera effectué via le moyen de paiement complémentaire utilisé à hauteur du montant réglé par celui-ci puis sur votre carte cadeau. Il est important que Vous conserviez la carte cadeau (le numéro de carte et le code de validité) pendant la durée de rétractation.
+* bons d'achat (à minima 80% du paiement), le remboursement sera effectué en bons d'achat.
 
 Pour tout autre moyen de paiement ou en cas d'échec ou d'impossibilité des remboursements précédents, le remboursement sera effectué par lettre chèque envoyée à l'adresse de facturation. 
 
