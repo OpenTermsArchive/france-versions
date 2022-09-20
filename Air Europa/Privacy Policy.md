@@ -19,7 +19,7 @@ Polígono Son Noguera, Ctra. Arenal - Llucmajor Km, 21.5
 [+34 911 401 501](tel:+34%20911%20401%20501)
 
 **Correo electrnico**  
-Del mismo modo, puede dirigirse a nuestro **Delegado de Protección de Datos (DPD)** a través de la dirección postal antes señalada y/o a través de correo electrónico: [delegadopd@aireuropa.com](mailto:delegadopd@aireuropa.com)
+Del mismo modo, puede dirigirse a nuestro **Delegado de Protección de Datos (DPD)** a través de la dirección postal antes señalada y/o a través de correo electrónico: [delegadopd@aireuropa.com](mailto:delegadopd@aireuropa.com)
 
 El **DPD** es la persona que se encarga de verificar el adecuado cumplimiento de la normativa de protección de datos personales por parte de AIR EUROPA. El DPD realiza su labor de supervisión y monitorización de forma independiente y confidencial.
 
@@ -89,18 +89,18 @@ Finalidad del tratamiento de datos personales
 
 A continuación, se expondrán los distintos fines para los que AIR EUROPA somete sus datos a tratamiento:
 
-*   Gestión de reservas e itinerario de viaje.
-*   Gestión del entretenimiento a bordo (revistas, películas, series, etc.).
-*   Gestión de consultas, quejas/incidencias, reclamaciones y solicitudes realizadas por parte del cliente y/o pasajero, así como cualquier otra comunicación.
-*   Gestión de trámites de inmigración y/o entrada o salida del territorio de un Estado, velar por su seguridad y cumplir con otra serie de requisitos legales aplicables a toda aerolínea (datos PNR).
-*   Gestión del programa de fidelización, AIR EUROPA SUMA.
-*   Gestión del envío de información comercial.
-*   Gestión de labores analíticas y estudios de mercado.
-*   Gestión de las comunicaciones de datos personales a los proveedores y/o colaboradores que contrate adicionalmente.
-*   Gestión de situaciones de emergencia, catástrofes o en general de fuerza mayor.
-*   Gestión de página web, app, redes sociales y blog.
-*   Gestión de la seguridad del vuelo.
-*   Gestión y prevención del fraude, así como cumplimiento de obligaciones legales.
+* Gestión de reservas e itinerario de viaje.
+* Gestión del entretenimiento a bordo (revistas, películas, series, etc.).
+* Gestión de consultas, quejas/incidencias, reclamaciones y solicitudes realizadas por parte del cliente y/o pasajero, así como cualquier otra comunicación.
+* Gestión de trámites de inmigración y/o entrada o salida del territorio de un Estado, velar por su seguridad y cumplir con otra serie de requisitos legales aplicables a toda aerolínea (datos PNR).
+* Gestión del programa de fidelización, AIR EUROPA SUMA.
+* Gestión del envío de información comercial.
+* Gestión de labores analíticas y estudios de mercado.
+* Gestión de las comunicaciones de datos personales a los proveedores y/o colaboradores que contrate adicionalmente.
+* Gestión de situaciones de emergencia, catástrofes o en general de fuerza mayor.
+* Gestión de página web, app, redes sociales y blog.
+* Gestión de la seguridad del vuelo.
+* Gestión y prevención del fraude, así como cumplimiento de obligaciones legales.
 
 #### 
 
@@ -110,32 +110,32 @@ La normativa de **protección de datos (artículo 6 RGPD)** contempla supuestos 
 
 **Medidas precontractuales y/o ejecución contractual**
 
-*   Para tramitar todas las cuestiones relacionadas con el viaje (reservas, actualizaciones de estado y comunicaciones de servicio u operativas, proceso de embarque, conexiones de vuelo), y, en general, la prestación del servicio contratado por el propio cliente; Incluso aunque haya optado por dejar de recibir información comercial. 
-*   Para la gestión de consultas, quejas/incidencias, reclamaciones y solicitudes realizadas por parte del cliente y/o pasajero, así como cualquier otra comunicación.
-*   Realización de encuestas de satisfacción con el servicio o con el programa de fidelización AIR EUROPA SUMA.
-*   Para la gestión del entretenimiento a bordo (revista, películas, series, etc.).
+* Para tramitar todas las cuestiones relacionadas con el viaje (reservas, actualizaciones de estado y comunicaciones de servicio u operativas, proceso de embarque, conexiones de vuelo), y, en general, la prestación del servicio contratado por el propio cliente; Incluso aunque haya optado por dejar de recibir información comercial. 
+* Para la gestión de consultas, quejas/incidencias, reclamaciones y solicitudes realizadas por parte del cliente y/o pasajero, así como cualquier otra comunicación.
+* Realización de encuestas de satisfacción con el servicio o con el programa de fidelización AIR EUROPA SUMA.
+* Para la gestión del entretenimiento a bordo (revista, películas, series, etc.).
 
 **Obligación legal**
 
-*   La comunicación de datos a las autoridades competentes (apartado “Destinatarios”).
-*   Para la investigación, prevención y detección del fraude.
-*   Cuando el interesado ejercite sus derechos de protección de datos.
-*   Para el ejercicio de acciones judiciales promovidas por o dirigidas contra AIR EUROPA.
-*   Para gestionar situaciones de emergencia, catástrofes o en general de fuerza mayor.
+* La comunicación de datos a las autoridades competentes (apartado “Destinatarios”).
+* Para la investigación, prevención y detección del fraude.
+* Cuando el interesado ejercite sus derechos de protección de datos.
+* Para el ejercicio de acciones judiciales promovidas por o dirigidas contra AIR EUROPA.
+* Para gestionar situaciones de emergencia, catástrofes o en general de fuerza mayor.
 
 **Interés legítimo (AIR EUROPA)**
 
-*   Para ofrecer y prestar servicios que se ajusten a las necesidades del cliente, proporcionando un trato más personalizado.
-*   Para realizar estudios analíticos y de mercado.
-*   Para el envío de comunicaciones comerciales por medios electrónicos (email, SMS, mensajes “push” en nuestra app, etc.).
+* Para ofrecer y prestar servicios que se ajusten a las necesidades del cliente, proporcionando un trato más personalizado.
+* Para realizar estudios analíticos y de mercado.
+* Para el envío de comunicaciones comerciales por medios electrónicos (email, SMS, mensajes “push” en nuestra app, etc.).
 
 **Consentimiento**
 
-*   Para el envío de comunicaciones comerciales, al suscribirse el cliente al programa de fidelización AIR EUROPA SUMA.
-*   Para realizar cesiones de datos personales a algunos de nuestros proveedores y/o colaboradores.
-*   Para tratar datos sensibles (salud, creencias o biométricos) aportados por el cliente y/o pasajero.
-*   Para aceptar las cookies y otras herramientas en la página web.
-*   Para interactuar en nuestras redes sociales o blog, incluyendo la suscripción a la newsletter.
+* Para el envío de comunicaciones comerciales, al suscribirse el cliente al programa de fidelización AIR EUROPA SUMA.
+* Para realizar cesiones de datos personales a algunos de nuestros proveedores y/o colaboradores.
+* Para tratar datos sensibles (salud, creencias o biométricos) aportados por el cliente y/o pasajero.
+* Para aceptar las cookies y otras herramientas en la página web.
+* Para interactuar en nuestras redes sociales o blog, incluyendo la suscripción a la newsletter.
 
 El no facilitar los datos personales solicitados o el no aceptar la presente **Política de Privacidad** supone la imposibilidad de suscribirse y disfrutar de los servicios que ofrecemos.
 
@@ -151,29 +151,29 @@ De la misma manera, se conservarán sus datos mientras no se oponga al tratamien
 
 Destinatarios
 
-1.   AIR EUROPA cuenta con la colaboración de empresas del grupo empresarial a la que pertenece (Air Europa Líneas Aéreas, S.A.U.; Air Europa Holding, S.L.U.; Air Europa Suma Miles, S.L.U.; Aeronova, S.L.U), así como de algunos terceros proveedores de servicios que tienen acceso a sus datos personales y que tratan los referidos datos en nombre y por cuenta de AIR EUROPA como consecuencia de su prestación de servicios (encargados de tratamiento).  
+1.  AIR EUROPA cuenta con la colaboración de empresas del grupo empresarial a la que pertenece (Air Europa Líneas Aéreas, S.A.U.; Air Europa Holding, S.L.U.; Air Europa Suma Miles, S.L.U.; Aeronova, S.L.U), así como de algunos terceros proveedores de servicios que tienen acceso a sus datos personales y que tratan los referidos datos en nombre y por cuenta de AIR EUROPA como consecuencia de su prestación de servicios (encargados de tratamiento).  
       
     En concreto, y a título enunciativo y no limitativo, los citados proveedores desempeñan sus servicios en los siguientes sectores: servicios de logística/handling (asistencia de equipajes y pasajeros, operaciones en pista); agencias de viaje o metabuscadores (cambios en el horario del vuelo, cancelaciones); compañías aérea (transbordo desde un vuelo de Air Europa a otro operado por otra compañía aérea diferente); asesoramiento jurídico (defender nuestros intereses legítimos en el marco de acciones y procesos legales, administrativos, judiciales o extrajudiciales); compañías aseguradoras, entidades intermediarias, así como peritos y expertos (incidentes); empresas de servicios tecnológicos (todo lo relacionado con IT); empresas de seguridad física y operacional (agentes de aeropuerto); empresa de seguridad aeroportuaria (controles); empresas de servicios de centro de llamadas (atención al cliente); empresas de servicios profesionales multidisciplinares; empresas relacionadas con el mantenimiento; así como a aquellas las empresas del grupo empresarial indicadas o las empresas de prevención del fraude (compra de billetes por Internet, procesador pagos, pasarela de pago).   
      
-2.  Proporcionaremos sus datos personales en respuesta a requerimientos de información (obligación legal) de los Cuerpos y Seguridad del Estado (proteger nuestros derechos, propiedades, o la seguridad de nuestros pasajeros, empleados y activos); Jueces o Tribunales (defender nuestros intereses legítimos ); autoridades sanitarias (investigaciones sobre posibles contagios a bordo, para rastrear posibles contactos con personas infectadas y contener la propagación de enfermedades), o cualquier otra Administración Pública o Autoridad tanto española como de otro país.  
+2. Proporcionaremos sus datos personales en respuesta a requerimientos de información (obligación legal) de los Cuerpos y Seguridad del Estado (proteger nuestros derechos, propiedades, o la seguridad de nuestros pasajeros, empleados y activos); Jueces o Tribunales (defender nuestros intereses legítimos ); autoridades sanitarias (investigaciones sobre posibles contagios a bordo, para rastrear posibles contactos con personas infectadas y contener la propagación de enfermedades), o cualquier otra Administración Pública o Autoridad tanto española como de otro país.  
      
-3.  Comunicaremos, acorde a la normativa y/o imposición legal del país de destino, los datos denominados “PNR” (nombre del pasajero, información de contacto, detalles del itinerario y de la reserva) al departamento de aduanas y de inmigración o autoridad competente de los diferentes países por los que transite (destino final o escala) y en algunos casos a los países sobrevolados. Estos datos siempre se facilitan entre las 24 y 48 horas previas al vuelo. Por ejemplo, si usted vuela con destino a Francia, se les facilitará los datos mencionados a las autoridades francesas. Esta cesión también se producirá en los vueltos multisegmento a las autoridades del país o países donde su vuelo haga escala.   
+3. Comunicaremos, acorde a la normativa y/o imposición legal del país de destino, los datos denominados “PNR” (nombre del pasajero, información de contacto, detalles del itinerario y de la reserva) al departamento de aduanas y de inmigración o autoridad competente de los diferentes países por los que transite (destino final o escala) y en algunos casos a los países sobrevolados. Estos datos siempre se facilitan entre las 24 y 48 horas previas al vuelo. Por ejemplo, si usted vuela con destino a Francia, se les facilitará los datos mencionados a las autoridades francesas. Esta cesión también se producirá en los vueltos multisegmento a las autoridades del país o países donde su vuelo haga escala.   
       
     Otros países, como Estados Unidos, obligan legalmente a comunicar los datos de todo vuelo que sobrevuele o pueda sobrevolar o aterrizar de forma imprevista en su territorio (Secure Flight Program). Por ejemplo, si usted contrata Madrid-La Habana, nos veremos obligados a ceder sus datos a las autoridades estadounidenses (72 horas antes de la salida prevista del vuelo; 48 horas antes de la salida prevista del vuelo; antes del embarque y una vez despega el vuelo). La consecuencia de esto es que, a pesar de que finalmente no aterrice en Estados Unidos y/o que no sobrevuele su territorio, no podrá dirigirse a su destino y disfrutar de su viaje, si tiene denegado el acceso a Estados Unidos.  
      
-4.  Comunicaremos sus datos a otras compañías aéreas, operadores de transporte marítimo o terrestre que sean necesarios para la prestación de los servicios solicitados por usted. Por ejemplo, cuando su itinerario de viaje incluya un vuelo operado por una compañía aérea distinta o incluya varios transportes que usted haya contratado. Las mismas serán identificadas en el momento de reserva, teniendo su voluntad, mostrada al contratar los servicios, la consideración de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
+4. Comunicaremos sus datos a otras compañías aéreas, operadores de transporte marítimo o terrestre que sean necesarios para la prestación de los servicios solicitados por usted. Por ejemplo, cuando su itinerario de viaje incluya un vuelo operado por una compañía aérea distinta o incluya varios transportes que usted haya contratado. Las mismas serán identificadas en el momento de reserva, teniendo su voluntad, mostrada al contratar los servicios, la consideración de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
      
-5.  Comunicaremos sus datos personales a las compañías de tarjetas de crédito y débito, agencias de informes de crédito y proveedores de servicios de control de fraude, así como los procesadores de pagos y la propia pasarela de pago (Puede ver el listado en la Tabla de colaboradores.). La contratación del servicio mediante la página web o App se considerará como el otorgamiento de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
+5. Comunicaremos sus datos personales a las compañías de tarjetas de crédito y débito, agencias de informes de crédito y proveedores de servicios de control de fraude, así como los procesadores de pagos y la propia pasarela de pago (Puede ver el listado en la Tabla de colaboradores.). La contratación del servicio mediante la página web o App se considerará como el otorgamiento de consentimiento expreso por su parte para llevar a cabo dicha cesión de datos.  
      
-6.  Comunicaremos sus datos a los sistemas de distribución global o “GDS”, sistemas informatizados que utiliza AIR EUROPA para gestionar las reservas, emitir los billetes, etc. que permite una interconexión para poder distribuir en tiempo real los diferentes productos y servicios que ofrece.  
+6. Comunicaremos sus datos a los sistemas de distribución global o “GDS”, sistemas informatizados que utiliza AIR EUROPA para gestionar las reservas, emitir los billetes, etc. que permite una interconexión para poder distribuir en tiempo real los diferentes productos y servicios que ofrece.  
      
-7.  Si contrata servicios con nuestras entidades colaboradoras, podremos compartir sus datos (nombre, apellidos y destino) con la finalidad de agilizar el proceso de contratación y cuyo tratamiento estará regido por su propia Política de Privacidad disponible en su página web. Por ejemplo:  
+7. Si contrata servicios con nuestras entidades colaboradoras, podremos compartir sus datos (nombre, apellidos y destino) con la finalidad de agilizar el proceso de contratación y cuyo tratamiento estará regido por su propia Política de Privacidad disponible en su página web. Por ejemplo:  
     • Sherpa: colaborador que le asistirá en la obtención de la documentación de viaje correcta e informarle sobre los actuales requisitos de viaje.   
     • Bag on Board (“BoB”): ofrece el servicio de recogida a domicilio, transporte y facturación de equipaje disponible para ciertos vuelos de AIR EUROPA  
      
-8.  Comunicaremos sus datos a aquellas entidades que haya utilizado para obtener información acerca de nuestros vuelos u ofertas de servicio (por ejemplo: metabuscadores de vuelos, viajes y ofertas o agencias de viaje) para la gestionar las relaciones entre AIR EUROPA y dichas entidades (por ejemplo: devengo de comisiones de conversión en compra) y siempre procurando que la información personal sea la mínima necesaria.  
+8. Comunicaremos sus datos a aquellas entidades que haya utilizado para obtener información acerca de nuestros vuelos u ofertas de servicio (por ejemplo: metabuscadores de vuelos, viajes y ofertas o agencias de viaje) para la gestionar las relaciones entre AIR EUROPA y dichas entidades (por ejemplo: devengo de comisiones de conversión en compra) y siempre procurando que la información personal sea la mínima necesaria.  
      
-9.  Si está registrado en el programa de TSA Prev®, ideado para agilizar su paso por los controles de seguridad de los Estados Unidos, comunicaremos sus datos a las autoridades participantes del programa, mediante el envío de los ya mencionados datos PNR
+9. Si está registrado en el programa de TSA Prev®, ideado para agilizar su paso por los controles de seguridad de los Estados Unidos, comunicaremos sus datos a las autoridades participantes del programa, mediante el envío de los ya mencionados datos PNR
 
 #### 
 
@@ -197,13 +197,13 @@ Derechos de protección de datos
 **¿Qué derechos tengo y cómo puedo ejercitarlos?**  
 La normativa le otorga una serie de derechos sobre los datos personales que facilite a AIR EUROPA. Estos derechos son:
 
-*   Derecho de acceso. Le autoriza a comunicarse con nosotros para conocer si se están tratando sus datos y, en el caso de que se esté realizando, obtener información al respecto.
-*   Derecho de rectificación. Podrá solicitar la rectificación de aquellos datos que considere que sean inexactos y procederemos a su corrección con los nuevos datos que nos facilite.
-*   Derecho de oposición. Siempre que el tratamiento este amparado por un interés público o legítimo, se elaboren perfiles o el tratamiento tenga por finalidad la mercadotecnia directa, podrá oponerte al mismo. AIR EUROPA (a excepción de mercadotecnia directa) podrá acreditar motivos que prevalezcan sobre este derecho.
-*   Derecho de supresión. Podrá solicitar la eliminación de los datos facilitados siempre que concurran las causas estipuladas por la normativa (consultar artículo 17 RGPD).
-*   Derecho a solicitar la limitación de su tratamiento. Se trata de un derecho auxiliar por el cual mientras haya solicitado la supresión, rectificación o se haya opuesto al tratamiento, AIR EUROPA procederá al bloqueo de los datos hasta que se resuelva su reclamación.
-*   Derecho a la portabilidad de los datos. Podrá solicitar, cuando el tratamiento se efectúe por medios automatizados, la transmisión a otra compañía de sus datos, siempre que el tratamiento se legitime en base al consentimiento o en el marco de la ejecución de un contrato.
-*   Derechos a no ser objeto de decisiones individualizadas automatizadas. Este derecho pretende garantizar que no seas objeto de una decisión basada únicamente en el tratamiento de sus datos, incluida la elaboración de perfiles, que produzca efectos jurídicos sobre ti o te afecte significativamente de forma similar.
+* Derecho de acceso. Le autoriza a comunicarse con nosotros para conocer si se están tratando sus datos y, en el caso de que se esté realizando, obtener información al respecto.
+* Derecho de rectificación. Podrá solicitar la rectificación de aquellos datos que considere que sean inexactos y procederemos a su corrección con los nuevos datos que nos facilite.
+* Derecho de oposición. Siempre que el tratamiento este amparado por un interés público o legítimo, se elaboren perfiles o el tratamiento tenga por finalidad la mercadotecnia directa, podrá oponerte al mismo. AIR EUROPA (a excepción de mercadotecnia directa) podrá acreditar motivos que prevalezcan sobre este derecho.
+* Derecho de supresión. Podrá solicitar la eliminación de los datos facilitados siempre que concurran las causas estipuladas por la normativa (consultar artículo 17 RGPD).
+* Derecho a solicitar la limitación de su tratamiento. Se trata de un derecho auxiliar por el cual mientras haya solicitado la supresión, rectificación o se haya opuesto al tratamiento, AIR EUROPA procederá al bloqueo de los datos hasta que se resuelva su reclamación.
+* Derecho a la portabilidad de los datos. Podrá solicitar, cuando el tratamiento se efectúe por medios automatizados, la transmisión a otra compañía de sus datos, siempre que el tratamiento se legitime en base al consentimiento o en el marco de la ejecución de un contrato.
+* Derechos a no ser objeto de decisiones individualizadas automatizadas. Este derecho pretende garantizar que no seas objeto de una decisión basada únicamente en el tratamiento de sus datos, incluida la elaboración de perfiles, que produzca efectos jurídicos sobre ti o te afecte significativamente de forma similar.
 
 Puede enviar una comunicación por escrito al domicilio social de AIR EUROPA o a la dirección de correo electrónico delegadopd@aireuropa.com,  para solicitar el ejercicio de sus derechos.  
 En cualquier caso, le facilitamos el acceso al formulario online  que le permitirá ejercitar los derechos antes comentados de manera rápida y sencilla..  
