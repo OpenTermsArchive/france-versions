@@ -126,7 +126,7 @@ De même, si le colis est perdu, ETAM remboursera le Client des sommes réglées
 Dans ce cas, le Client devra retourner au Service Client un document Cerfa (n°11527\*02) ou un bordereau de non réception de colis dûment complété. CERFA N°11527-02 - Déclaration des tiers | Documentissime Dans l’hypothèse où le Client réceptionnerait son colis après remboursement de sa commande, il s’engage à en informer le Service Client et à le retourner selon les modalités qui lui seront indiquées.  
   
 5.4 Frais de livraison Les frais forfaitaires de livraison dépendent du pays de livraison du Client et sont indiqués sur le récapitulatif de commande :  
-![Livraison](https://www.etam.com/on/demandware.static/-/Library-Sites-ETAM_sharedLibrary/fr_FR/dw155c2937/MEDIA/experiences/tableau-livraison-offerte.JPG) 
+![Livraison](https://www.etam.com/on/demandware.static/-/Library-Sites-ETAM_sharedLibrary/fr_FR/dw155c2937/MEDIA/experiences/tableau-livraison-offerte.JPG)
 
 ### Article 6. Droit de Rétractation
 
