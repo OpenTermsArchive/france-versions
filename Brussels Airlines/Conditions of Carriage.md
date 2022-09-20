@@ -38,12 +38,12 @@ Dans les présentes conditions générales, les termes et expressions suivants o
 
 **Convention** repose sur les dispositions respectivement applicables des bases juridiques suivantes:
 
-*   la Convention signée le 12 octobre 1929 à Varsovie sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international ;
-*   la Convention de Varsovie dans sa version modifiée en date du 28 septembre 1955 ;
-*   la Convention de Varsovie dans sa version modifiée par le Protocole de Montréal n° 1 (1975) ;
-*   la Convention de Varsovie dans la version du Protocole de la Haye et du Protocole de Montréal n° 2 (1975) ;
-*   la Convention complémentaire de Guadalajara (1961) ;
-*   la Convention signée le 28 mai 1999 à Montréal sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international (ci-après dénommée la Convention de Montréal).
+* la Convention signée le 12 octobre 1929 à Varsovie sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international ;
+* la Convention de Varsovie dans sa version modifiée en date du 28 septembre 1955 ;
+* la Convention de Varsovie dans sa version modifiée par le Protocole de Montréal n° 1 (1975) ;
+* la Convention de Varsovie dans la version du Protocole de la Haye et du Protocole de Montréal n° 2 (1975) ;
+* la Convention complémentaire de Guadalajara (1961) ;
+* la Convention signée le 28 mai 1999 à Montréal sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international (ci-après dénommée la Convention de Montréal).
 
 **Coupon** désigne soit un Coupon de vol sur support papier, soit un Coupon électronique, tous deux autorisant le Passager qu’ils désignent à voyager sur le vol indiqué.
 
