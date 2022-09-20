@@ -1,92 +1,20 @@
-[
+[Conditions Générales d’Utilisation de l'Application mobile Pony](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#50f60a61cea246d8b666210f6824da61)
 
-Conditions Générales d’Utilisation de l'Application mobile Pony
+[1\. FONCTIONNALITÉS DE l'APPLICATION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#7e3f2da4563948f0a9fe59c7769593c4)
 
+[2\. MODALITÉS D'ACCÈS AUX FONCTIONNALITÉS DE L'APPLICATION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#03319b3eca2545479bab7496127a2ad6)
 
+[3\. RESTRICTIONS DE L'USAGE](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#60027f917d9a4846882883b5e4bf6acd)
 
+[4\. RÉSILIATION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#a22c9cb390e84a01919b42b20db82526)
 
+[5\. PROPRIÉTÉ INTELLECTUELLE](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#317b8b8d5044413eb436b3f005f569cd)
 
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#50f60a61cea246d8b666210f6824da61)
+[6\. NOTIFICATIONS ET COMMUNICATIONS](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#ac3b5961828c4defb7743f6a374b3164)
 
-[
+[7\. DROIT APPLICABLE; RÈGLEMENT DES DIFFÉRENDS](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#41356d8b62b8436ca2d1556b6d4128db)
 
-1\. FONCTIONNALITÉS DE l'APPLICATION
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#7e3f2da4563948f0a9fe59c7769593c4)
-
-[
-
-2\. MODALITÉS D'ACCÈS AUX FONCTIONNALITÉS DE L'APPLICATION
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#03319b3eca2545479bab7496127a2ad6)
-
-[
-
-3\. RESTRICTIONS DE L'USAGE
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#60027f917d9a4846882883b5e4bf6acd)
-
-[
-
-4\. RÉSILIATION
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#a22c9cb390e84a01919b42b20db82526)
-
-[
-
-5\. PROPRIÉTÉ INTELLECTUELLE
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#317b8b8d5044413eb436b3f005f569cd)
-
-[
-
-6\. NOTIFICATIONS ET COMMUNICATIONS
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#ac3b5961828c4defb7743f6a374b3164)
-
-[
-
-7\. DROIT APPLICABLE; RÈGLEMENT DES DIFFÉRENDS
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#41356d8b62b8436ca2d1556b6d4128db)
-
-[
-
-8\. CESSION
-
-
-
-
-
-](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#bb9210ec38b34841bbab82165efb8acb)
+[8\. CESSION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407#bb9210ec38b34841bbab82165efb8acb)
 
 Conditions Générales d’Utilisation de l'Application mobile Pony
 
