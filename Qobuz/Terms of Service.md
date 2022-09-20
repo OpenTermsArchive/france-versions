@@ -18,7 +18,7 @@ Définitions
 
 6\. Responsabilité du site
 
-7\. Obligations du client 
+7\. Obligations du client 
 
 8. Procédure d’alerte et signalement d’abus
 
@@ -28,7 +28,7 @@ Définitions
 
 11. Désactivation et suppression du compte
 
-12. Territoire 
+12. Territoire 
 
 13. Élection de domicile
 
@@ -38,7 +38,7 @@ Définitions
 
 16. Propriété intellectuelle
 
-17. Service client 
+17. Service client 
 
 18. Droit applicable, litige et médiation
 
@@ -53,17 +53,17 @@ Définitions
 
   
 
- 20.1.1     Description de l’offre de téléchargement
+        20.1.1     Description de l’offre de téléchargement
 
- 20.1.2     Conditions d’accès à l’offre de téléchargement
-
-  
-
- 20.1.3     Conditions d’utilisation de l’offre de téléchargement
+        20.1.2     Conditions d’accès à l’offre de téléchargement
 
   
 
- 20.1.4     Commandes et moyens de paiement
+        20.1.3     Conditions d’utilisation de l’offre de téléchargement
+
+  
+
+        20.1.4     Commandes et moyens de paiement
 
   
 
@@ -71,13 +71,13 @@ Définitions
 
 Présentation
 
- 20.2.1     Durée
+        20.2.1     Durée
 
- 20.2.2     Renouvellement
+        20.2.2     Renouvellement
 
   
 
- 20.2.3     Résiliation
+        20.2.3     Résiliation
 
   
 
@@ -85,15 +85,15 @@ Présentation
 
 Présentation
 
- 20.3.1     Durée
+        20.3.1     Durée
 
   
 
- 20.3.2     Renouvellement 
+        20.3.2     Renouvellement 
 
   
 
- 20.3.3     Résiliation 
+        20.3.3     Résiliation 
 
   
 
@@ -101,19 +101,19 @@ Présentation
 
 Présentation
 
- 20.4.1     Durée
+        20.4.1     Durée
 
   
 
- 20.4.2     Renouvellement
+        20.4.2     Renouvellement
 
   
 
- 20.4.3     Résiliation
+        20.4.3     Résiliation
 
   
 
- 20.4.4     Élection de domicile
+        20.4.4     Élection de domicile
 
   
 
@@ -121,27 +121,27 @@ Présentation
 
 Présentation
 
- 20.5.1     Description et disponibilité des offres FAMILLE
+        20.5.1     Description et disponibilité des offres FAMILLE
 
   
 
- 20.5.2     Conditions d’accès aux offres FAMILLE
+        20.5.2     Conditions d’accès aux offres FAMILLE
 
   
 
- 20.5.3     Conditions d’utilisation des offres FAMILLE
+        20.5.3     Conditions d’utilisation des offres FAMILLE
 
   
 
- 20.5.4     Durée
+        20.5.4     Durée
 
   
 
- 20.5.5     Renouvellement
+        20.5.5     Renouvellement
 
   
 
- 20.5.6     Résiliation
+        20.5.6     Résiliation
 
   
 
@@ -149,13 +149,13 @@ Présentation
 
 Présentation
 
- 20.6.1     Durée
+        20.6.1     Durée
 
- 20.6.2     Renouvellement
+        20.6.2     Renouvellement
 
   
 
- 20.6.3     Résiliation
+        20.6.3     Résiliation
 
   
 
@@ -163,13 +163,13 @@ Présentation
 
 Présentation
 
- 20.7.1     Durée
+        20.7.1     Durée
 
- 20.7.2     Renouvellement
+        20.7.2     Renouvellement
 
   
 
- 20.7.3     Résiliation
+        20.7.3     Résiliation
 
   
 
@@ -197,7 +197,7 @@ Le site internet QOBUZ dont l'adresse est https://www.qobuz.com (ci-après déno
 
 Informations sur la société Xandrie SA (immatriculée au RCS de Paris sous le numéro B 749 983 029) :
 
-Adresse - Centre d’activité de l’Ourcq 45 rue Delizy 93500 Pantin 
+Adresse - Centre d’activité de l’Ourcq 45 rue Delizy 93500 Pantin 
 
 N° TVA : FR52 749 983 029
 
@@ -217,7 +217,7 @@ Au sens des présentes CGUV, s'appliqueront les définitions suivantes :
 « Albums Hi-Res 24-bit» devra être compris comme tout album en qualité Hi-Res 24-bit disponible en téléchargement.
 
   
-« Applications QOBUZ » devra être compris comme tout logiciel mis à la disposition du client par XANDRIE SA permettant d’accéder au Service et devant être installé sur les Périphériques d'écoute.   
+« Applications QOBUZ » devra être compris comme tout logiciel mis à la disposition du client par XANDRIE SA permettant d’accéder au Service et devant être installé sur les Périphériques d'écoute.   
   
 « Client » : devra être compris comme toute personne inscrite au Service dans les conditions prévues à l'Article 2 des présentes CGUV.  
   
@@ -271,7 +271,7 @@ Les offres d’essai ou de découverte proposées par XANDRIE SA à ses utilisat
 
 La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai.
 
-Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-dessous et avoir la capacité de conclure un contrat ayant force exécutoire avec XANDRIE SA : 
+Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-dessous et avoir la capacité de conclure un contrat ayant force exécutoire avec XANDRIE SA : 
 
   
 
@@ -307,13 +307,13 @@ L’offre de Téléchargement est actuellement indisponible dans les pays d’Am
 
 Les offres de streaming QOBUZ sont des offres d’abonnement payants à un service d’écoute de musique en ligne sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical sur les appareils d’écoutes autorisés (ordinateur personnel, tablette, smartphone, appareil audio connecté).
 
-Le service de streaming QOBUZ propose également au Client d'accéder aux fichiers numériques sur tout Périphérique d'écoute en Mode déconnecté via la fonction d'Importation. 
+Le service de streaming QOBUZ propose également au Client d'accéder aux fichiers numériques sur tout Périphérique d'écoute en Mode déconnecté via la fonction d'Importation. 
 
-Le Mode déconnecté permet au Client d'écouter les titres, albums, playlists qu'il aura préalablement chargés via la fonction d'Importation sur tout Périphérique d'écoute grâce aux Applications QOBUZ. Pour ce faire, le Client devra préalablement importer les pistes, albums et playlists concernés sur les appareils désirés et sélectionner le Mode déconnecté. 
+Le Mode déconnecté permet au Client d'écouter les titres, albums, playlists qu'il aura préalablement chargés via la fonction d'Importation sur tout Périphérique d'écoute grâce aux Applications QOBUZ. Pour ce faire, le Client devra préalablement importer les pistes, albums et playlists concernés sur les appareils désirés et sélectionner le Mode déconnecté. 
 
 L’écoute de la musique importée sera alors possible sans connexion internet active pendant une période de 30 jours. A l’issue de ces 30 jours, une reconnexion au service sera nécessaire pour réactiver l’écoute de la musique importée en mode déconnecté.
 
-L'Importation de la musique ne permet pas de transférer ou graver la musique importée sur quelque support que ce soit. 
+L'Importation de la musique ne permet pas de transférer ou graver la musique importée sur quelque support que ce soit. 
 
 A l'expiration de la période de souscription (mois, année), le Streaming, l'Importation de fichiers musicaux (pistes, albums, playlists) et le Mode déconnecté ne seront plus autorisés au Client.
 
@@ -386,7 +386,7 @@ Enfin, la responsabilité de XANDRIE SA ne pourra être engagée en cas de non-r
 
   
 
-7. Obligations du client 
+7. Obligations du client 
 
 Le Client déclare sur l'honneur être majeur et avoir la pleine capacité juridique pour passer une commande sur le Site, tel que défini dans l’article 2 des présentes CGUV.
 
@@ -469,7 +469,7 @@ j) comporter des annonces publicitaires et/ou sollicitations afin de proposer de
 k) contenir des adresses ou des liens hypertextes renvoyant vers des sites extérieurs dont le contenu est contraire aux lois et règlements en vigueur, qui portent atteinte aux droits des tiers ou qui seraient contraires aux présentes conditions.  
   
 
-8\. Procédure d’alerte et signalement d’abus 
+8\. Procédure d’alerte et signalement d’abus  
 
 Le Client est invité à signaler toute utilisation frauduleuse de toute information contenue sur le Site dont il aurait connaissance, notamment tout message dont le contenu contreviendrait aux interdictions énoncées dans l’article 7 des présentes CGUV, ou plus généralement aux lois et dispositions règlementaires en vigueur.
 
@@ -496,7 +496,7 @@ Le débit intervient au moment de la commande ou jusqu'à 24 heures après.
 Il est recommandé au Client de consulter régulièrement son compte et de contacter le Service Clientèle pour toute question ou en cas de problème. L'archivage du bon de commande et des factures est effectué sur un support fiable et durable pouvant être produit à titre de preuve.
 
   
-Le moyen de paiement utilisé pour souscrire aux offres d’abonnement sera réutilisé lors du renouvellement automatique de l'abonnement, à moins que l'utilisateur ne change ce moyen de paiement dans la rubrique « Mon compte ». Ce changement de moyen de paiement peut être réalisé à tout moment. 
+Le moyen de paiement utilisé pour souscrire aux offres d’abonnement sera réutilisé lors du renouvellement automatique de l'abonnement, à moins que l'utilisateur ne change ce moyen de paiement dans la rubrique « Mon compte ». Ce changement de moyen de paiement peut être réalisé à tout moment. 
 
   
 
@@ -531,11 +531,11 @@ En cas de violation manifeste des CGUV par le Client, XANDRIE se réserve le dro
 
 \- du non-paiement total ou partiel des factures adressées au Client.
 
-Il est également loisible au Client de faire supprimer son compte. Pour ce faire, le Client effectuera une demande avec le formulaire de contact en ligne et XANDRIE SA supprimera alors le compte du Client dans un délai maximum de 48h après réception dudit courriel.
+Il est également loisible au Client de faire supprimer son compte. Pour ce faire, le Client effectuera une demande avec le formulaire de contact en ligne et XANDRIE SA supprimera alors le compte du Client dans un délai maximum de 48h après réception dudit courriel.
 
 L'attention du Client est attirée sur le fait que la suppression du compte l'empêchera de manière définitive et irrévocable de retrouver sur le Site les fichiers numériques des téléchargements qu'il a effectués et de pouvoir les télécharger à nouveau, de même que les informations associées au compte et les achats associés (playlists, albums, pistes, informations de connexion, etc.).
 
-12. Territoire 
+12. Territoire 
 
 Les fichiers musicaux achetés sur le Site et l’accès aux offres d’abonnement QOBUZ sont réservés aux Clients résidant sur les territoires suivants : France, Allemagne, Australie, Autriche, Belgique, Danemark, Espagne, États-Unis, Finlande, Irlande, Italie, Luxembourg, Norvège, Nouvelle-Zélande, Pays-Bas, Royaume-Uni, Suède, Suisse (ci-après dénommés « le Territoire ») et disposant d'une carte bancaire émise par un établissement bancaire établi sur le Territoire.
 
@@ -597,7 +597,7 @@ Le Client bénéficie d'un droit d'utilisation personnel du service, limité aux
   
   
 
-17. Service clients 
+17. Service clients 
 
 Pour toute information, notes Service Clients est à votre disposition via :
 
@@ -628,7 +628,7 @@ En cas de litige, les parties conviennent de rechercher une conciliation avant d
 
   
 
-Si l’une des dispositions des présentes CGUV était déclarée invalide ou inopposable, elle sera réputée caduque. 
+Si l’une des dispositions des présentes CGUV était déclarée invalide ou inopposable, elle sera réputée caduque. 
 
 Toutes les autres dispositions demeureront en vigueur et applicables, sauf les cas où le contrat ne pourrait subsister sans cette clause.
 
@@ -636,10 +636,10 @@ Toutes les autres dispositions demeureront en vigueur et applicables, sauf les c
 
 20\. Nos offres
 
- 20.1 TÉLÉCHARGEMENT QOBUZ  
- 
+       20.1 TÉLÉCHARGEMENT QOBUZ  
+             
 
- 20.1.1   Description de l’offre de téléchargement  
+             20.1.1   Description de l’offre de téléchargement  
   
 XANDRIE SA propose au Client une offre de Téléchargement d'enregistrements musicaux (titres ou albums) disponibles en différentes qualités audio, notamment en Vraie Qualité CD et en Qualité Hi-Res 24-bit. Ce service est accessible 24 heures sur 24 et 7 jours sur 7.
 
@@ -653,7 +653,7 @@ De même, XANDRIE se réserve le droit, sans préavis ni indemnité, d'arrêter 
 
 L’offre de Téléchargement est actuellement indisponible dans les pays d’Amérique Latine.
 
- 20.1.2   Conditions d’accès à l’offre de téléchargement
+             20.1.2   Conditions d’accès à l’offre de téléchargement
 
 Pour pouvoir bénéficier des Services, le Client doit obligatoirement procéder à la création de son compte. Pour ce faire, il clique simplement sur le bouton « Mon compte », disponible sur la page d'accueil du Site. Il suit ensuite les instructions qui lui sont indiquées par le Site.
 
@@ -667,9 +667,9 @@ Le Client s'engage à fournir des informations exactes et sincères, et à infor
 
 Une fois qu'il a fourni les informations demandées, le Client coche une case « Je confirme avoir pris connaissance et accepté les conditions générales d'Utilisation et de vente du site qobuz.com ». Dès la validation de ce champ, le Client est réputé avoir lu et accepté les présentes CGUV, et pourra donc être tenu responsable de l'inexécution des diverses obligations en résultant.
 
- 20.1.3   Conditions d’utilisation de l’offre de téléchargement
+             20.1.3   Conditions d’utilisation de l’offre de téléchargement
 
-Conformément à l'Article 16 des présentes CGUV, tous les fichiers proposés via l’offre de téléchargement ou via le Service sont protégés par le droit d'auteur. 
+Conformément à l'Article 16 des présentes CGUV, tous les fichiers proposés via l’offre de téléchargement ou via le Service sont protégés par le droit d'auteur. 
 
 Leur utilisation ne pourra donc se faire strictement que dans un cadre privé et gratuit, dans le total respect des conditions définies par XANDRIE SA.
 
@@ -681,7 +681,7 @@ Pour de plus amples informations sur les modalités d'utilisation des téléchar
 
   
 
- 20.1.4   Commandes et moyens de paiement
+             20.1.4   Commandes et moyens de paiement
 
 L'historique des transactions entre le Service et le Client est consultable à tout moment sur le Site dans la rubrique « Mon compte », historique des téléchargements.
 
@@ -704,7 +704,7 @@ XANDRIE SA se réserve le droit d'annuler ou de refuser toute commande d'un Clie
 
   
 
- 20.2 QOBUZ STUDIO PREMIER
+       20.2 QOBUZ STUDIO PREMIER
 
   
 
@@ -712,25 +712,25 @@ Les présentes CGUV régissent l’offre d’abonnement payant STUDIO ou STUDIO 
 
 Pour bénéficier de l’offre STUDIO, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
- 20.2.1   Durée
+             20.2.1   Durée
 
 La souscription à l’offre STUDIO est proposée par XANDRIE SA pour une durée d'un mois ou d’un an.
 
 XANDRIE se réserve le droit de proposer à ses Clients une offre d’essai ou de découverte de son offre STUDIO pour des durées variables.
 
-La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
+La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
 
 L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offres n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
 Ces offres d'essai ou de découverte seront également soumises à l'approbation sans restrictions ni réserves des présentes CGUV.
 
- 20.2.2   Renouvellement
+             20.2.2   Renouvellement
 
-La souscription à l’offre STUDIO sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.2.3 des présentes CGUV. 
+La souscription à l’offre STUDIO sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.2.3 des présentes CGUV. 
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».
 
- 20.2.3   Résiliation
+             20.2.3   Résiliation
 
 Le Client pourra interrompre son abonnement à l'offre STUDIO à laquelle il a souscrit en se rendant dans la rubrique « Mon compte ».
 
@@ -746,7 +746,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
   
 
- 20.3 QOBUZ HI-FI SUBLIME
+       20.3 QOBUZ HI-FI SUBLIME
 
   
 
@@ -758,7 +758,7 @@ Les présentes CGUV régissent l’offre d’abonnement payant HI-FI SUBLIME (ci
 
 Pour bénéficier de l’offre HI-FI SUBLIME, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
- 20.3.1   Durée
+             20.3.1   Durée
 
 La souscription à l’offre HI-FI SUBLIME est proposée par XANDRIE SA pour une durée d’un an.
 
@@ -766,13 +766,13 @@ Il n’y a pas d’offres d’essai ou de découverte dans le cadre de l’offre
 
   
 
- 20.3.2   Renouvellement
+             20.3.2   Renouvellement
 
-La souscription à l’offre HI-FI SUBLIME sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.3.3 des présentes CGUV. 
+La souscription à l’offre HI-FI SUBLIME sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.3.3 des présentes CGUV. 
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».  
 
- 20.3.3   Résiliation
+             20.3.3   Résiliation
 
 Le Client pourra interrompre son abonnement à l'offre HI-FI SUBLIME à laquelle il a souscrit en se rendant dans la rubrique « Mon compte ».
 
@@ -789,7 +789,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
   
   
 
- 20.4 QOBUZ STUDIO SUBLIME
+       20.4 QOBUZ STUDIO SUBLIME
 
 Les présentes CGUV régissent l’offre d’abonnement payant STUDIO SUBLIME et SUBLIME+) :
 
@@ -799,17 +799,17 @@ Les présentes CGUV régissent l’offre d’abonnement payant STUDIO SUBLIME et
 
 Pour bénéficier de l’offre STUDIO SUBLIME, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
- 20.4.1   Durée
+             20.4.1   Durée
 
-La souscription à l’offre STUDIO SUBLIME est proposée par XANDRIE SA pour une durée d’un an. 
+La souscription à l’offre STUDIO SUBLIME est proposée par XANDRIE SA pour une durée d’un an.  
 
 Il n’y a pas d’offres d’essai ou de découverte dans le cadre de l’offre SUBLIME +.
 
   
 
- 20.4.2   Renouvellement
+             20.4.2   Renouvellement
 
-La souscription à l’offre STUDIO SUBLIME sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.4.3 des présentes CGUV. 
+La souscription à l’offre STUDIO SUBLIME sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.4.3 des présentes CGUV. 
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».
 
@@ -829,7 +829,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
   
 
- 20.5 QOBUZ FAMILLE
+       20.5 QOBUZ FAMILLE
 
   
 
@@ -839,7 +839,7 @@ Pour bénéficier des offres FAMILLE, tout Client du Site devra avoir préalable
 
   
 
- 20.5.1   Description et disponibilité des offres FAMILLE
+             20.5.1   Description et disponibilité des offres FAMILLE
 
 QOBUZ propose les offres FAMILLE permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois appareils d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).
 
@@ -851,7 +851,7 @@ L'abonné principal d'une autre offre d’abonnement, souscrivant aux offres FAM
 
 Qobuz se réserve le droit de mettre fin, de modifier ou de suspendre aux offres FAMILLE en tout ou en partie et à tout moment. Par la suite, Qobuz ne sera plus tenu de maintenir les offres FAMILLE ou d'autoriser toute tentative de souscription à cette offre.
 
- 20.5.2   Conditions d’accès aux offres FAMILLE
+             20.5.2   Conditions d’accès aux offres FAMILLE
 
 Les offres FAMILLE sont uniquement destinées aux membres d'une même famille, résidant à la même adresse. Le Client titulaire du compte principal peut ajouter jusqu’à cinq (5) abonnés secondaires. La création d’un compte pour un mineur de moins de 16 ans doit obligatoirement être effectuée par le Client titulaire de l’autorité parentale.
 
@@ -861,11 +861,11 @@ Dans le cadre des offres FAMILLE, le souscripteur principal est responsable du r
 
 XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiatement et à tout moment aux comptes principal et secondaires des offres FAMILLE, en cas de non-respect des critères d'éligibilité et de non-respect des présentes CGUV.  
 
- 20.5.3   Conditions d’utilisations des offres FAMILLE
+             20.5.3   Conditions d’utilisations des offres FAMILLE
 
 Les offres FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à 5 personnes. Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
-Dans le cadre des offres FAMILLE, il ne peut y avoir plus de trois appareils associés à chaque sous compte : deux appareils mobiles, en plus de l'accès par ordinateur. 
+Dans le cadre des offres FAMILLE, il ne peut y avoir plus de trois appareils associés à chaque sous compte : deux appareils mobiles, en plus de l'accès par ordinateur. 
 
 Les offres FAMILLE permet l’écoute de musique en ligne sur un maximum de six appareils utilisés en simultané par famille.
 
@@ -875,13 +875,13 @@ XANDRIE SA se réserve le droit de faire tout ce qui est raisonnablement possibl
 
 Si avant de souscrire aux offres FAMILLE le Client avait déjà souscrit à une autre offre d’abonnement QOBUZ, il s’engage par les présentes à renoncer au remboursement de ladite offre.  
 
- 20.5.4   Durée
+             20.5.4   Durée
 
 La souscription aux offres FAMILLE est proposée par XANDRIE SA pour une durée d'un mois ou d’un an.
 
 XANDRIE se réserve le droit de proposer à ses Clients une offre d’essai ou de découverte aux offres FAMILLE pour des durées variables.
 
-La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
+La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
 
 L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offres n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
@@ -889,13 +889,13 @@ Ces offres d'essai ou de découverte seront également soumises à l'approbation
 
   
 
- 20.5.5   Renouvellement
+             20.5.5   Renouvellement
 
-La souscription aux offres FAMILLE sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.5.6 des présentes CGUV. 
+La souscription aux offres FAMILLE sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.5.6 des présentes CGUV. 
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».
 
- 20.5.6   Résiliation
+             20.5.6   Résiliation
 
 Le Client pourra interrompre son abonnement aux offres FAMILLE à laquelle il a souscrit en se rendant dans la rubrique « Mon compte ».
 
@@ -911,31 +911,31 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
   
 
- 20.6 QOBUZ Premium
+       20.6 QOBUZ Premium
 
 Les présentes CGUV régissent l’offre d’abonnement payant PREMIUM (ci-après dénommée « l’offre PREMIUM ») sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en qualité 320 kbps (Mp3) sur un seul appareil d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté).
 
 Pour bénéficier de l’offre PREMIUM, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
- 20.6.1   Durée
+             20.6.1   Durée
 
 La souscription à l’offre PREMIUM est proposée par XANDRIE SA pour une durée d’un mois ou d’un an.
 
 XANDRIE se réserve le droit de proposer à ses Clients une offre d’essai ou de découverte de son offre PREMIUM pour des durées variables.
 
-La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
+La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
 
 L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offre n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
 Ces offres d'essai ou de découverte seront également soumises à l'approbation sans restrictions ni réserves des présentes CGUV.
 
- 20.6.2   Renouvellement
+             20.6.2   Renouvellement
 
-La souscription à l’offre PREMIUM sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.6.3 des présentes CGUV. 
+La souscription à l’offre PREMIUM sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.6.3 des présentes CGUV. 
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».  
 
- 20.6.3   Résiliation
+             20.6.3   Résiliation
 
 Le Client pourra interrompre son abonnement à l'offre PREMIUM à laquelle il a souscrit en se rendant dans la rubrique « Mon compte ».
 
@@ -951,7 +951,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
   
 
- 20.7 QOBUZ HI-FI
+       20.7 QOBUZ HI-FI
 
   
 
@@ -959,25 +959,25 @@ Les présentes CGUV régissent l’offre d’abonnement payant HI-FI (ci-après 
 
 Pour bénéficier de l’offre HI-FI, tout Client du Site devra avoir préalablement consulté et accepté sans restrictions ni réserves les présentes CGUV.
 
- 20.7.1   Durée
+               20.7.1   Durée
 
 La souscription à l’offre QOBUZ HI-FI est proposée par XANDRIE SA pour une durée d'un mois ou d’un an.
 
 XANDRIE se réserve le droit de proposer à ses Clients une offre d’essai ou de découverte de son offre HI-FI pour des durées variables.
 
-La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
+La période d'essai est réservée à tout nouvel abonné et chaque utilisateur a le droit à une seule période d'essai. 
 
 L‘offre d’essai ou de découverte peut être subordonnées à la saisie d’un moyen de paiement, sans que l’offres n'entraîne aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celle-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
 Ces offres d'essai ou de découverte seront également soumises à l'approbation sans restrictions ni réserves des présentes CGUV.
 
- 20.7.2   Renouvellement
+             20.7.2   Renouvellement
 
 La souscription à l’offre QOBUZ HI-FI sera automatiquement renouvelée à l'issue de chaque période de l’abonnement, sauf si le Client procède à sa résiliation conformément à l'Article 20.7.3 des présentes CGUV.
 
 Le moyen de paiement utilisé lors de l’abonnement initial sera alors réutilisé, sauf si le Client l'a préalablement modifié dans la rubrique « Mon compte ».
 
- 20.7.3   Résiliation
+             20.7.3   Résiliation
 
 Le Client pourra interrompre son abonnement à l'offre HI-FI à laquelle il a souscrit en se rendant dans la rubrique « Mon compte ».
 
