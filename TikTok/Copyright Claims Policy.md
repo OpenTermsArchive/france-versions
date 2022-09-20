@@ -24,7 +24,7 @@ Tout contenu d’un utilisateur qui porte atteinte au droit d’auteur d’un ti
 
 **Signalement d'une Violation du Droit d’auteur**
 
-Contacter l’utilisateur directement peut vous permettre de régler votre réclamation plus rapidement et d’une manière plus efficace pour vous, pour l’utilisateur et pour notre communauté. Vous pouvez également effectuer un [Signalement de](https://www.tiktok.com/legal/report/Copyright) [V](https://www.tiktok.com/legal/report/Copyright)[iolation](https://www.tiktok.com/legal/report/Copyright) [d](https://www.tiktok.com/legal/report/Copyright)[u](https://www.tiktok.com/legal/report/Copyright) [](https://www.tiktok.com/legal/report/Copyright) [Dr](https://www.tiktok.com/legal/report/Copyright)[oit](https://www.tiktok.com/legal/report/Copyright) [d’auteur](https://www.tiktok.com/legal/report/Copyright) pour réclamer le retrait d’un contenu présumé contrefaisant de TikTok.
+Contacter l’utilisateur directement peut vous permettre de régler votre réclamation plus rapidement et d’une manière plus efficace pour vous, pour l’utilisateur et pour notre communauté. Vous pouvez également effectuer un [Signalement de](https://www.tiktok.com/legal/report/Copyright) [V](https://www.tiktok.com/legal/report/Copyright)[iolation](https://www.tiktok.com/legal/report/Copyright) [d](https://www.tiktok.com/legal/report/Copyright)[u](https://www.tiktok.com/legal/report/Copyright) [](https://www.tiktok.com/legal/report/Copyright)[Dr](https://www.tiktok.com/legal/report/Copyright)[oit](https://www.tiktok.com/legal/report/Copyright) [d’auteur](https://www.tiktok.com/legal/report/Copyright) pour réclamer le retrait d’un contenu présumé contrefaisant de TikTok.
 
 Toutes les réclamations doivent contenir les informations demandées dans notre formulaire en ligne de Signalement de Violation du Droit d'auteur. Le fait de ne pas inclure ces informations nécessaires peut limiter notre capacité à examiner votre réclamation et peut entraîner son rejet.
 
@@ -60,11 +60,11 @@ Si vous recevez une notification relative à une violation du droit d’auteur e
 
 En vertu du droit de l'Union européenne, les utilisateurs sont autorisés à utiliser les œuvres protégées par le droit d’auteur sans l’autorisation du titulaire des droits d’auteur à des fins de citation, de critique, de revue, ou de caricature, de parodie ou de pastiche, sous réserve que cette utilisation soit raisonnable. Les pays de l’Union européenne peuvent également prévoir des exceptions supplémentaires. Plus d’informations concernant les exceptions et limitations au droit d’auteur qui s’appliquent dans l’Union européenne figurent ci-dessous :
 
-*   **_Citation, critique et revue_**
+* **_Citation, critique et revue_**
 
 La citation est l’utilisation d’un extrait d’une œuvre protégée par le droit d’auteur à des fins telles que l’illustration d’un propos, la défense d’une opinion ou la participation à un débat. Les citations peuvent également être utilisées à des fins de critique d’une œuvre protégée par le droit d’auteur (par ex. commentaire critique sur un film) ou de revue d’une telle œuvre (par ex. revue d’un livre ou d’un album de musiques).
 
-*   **_Caricature, parodie et pastiche_**
+* **_Caricature, parodie et pastiche_**
 
 Les caricatures visent à exagérer ou à déformer la réalité, généralement à des fins humoristiques. Une parodie évoque une œuvre protégée par le droit d’auteur existante tout en étant sensiblement différente de celle-ci et constitue une expression d’humour ou de dérision. Un pastiche intégrera généralement des éléments distinctifs d’autres œuvres ou styles dans une nouvelle œuvre.
 
