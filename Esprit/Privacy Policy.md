@@ -65,11 +65,11 @@ X. Traitement des données relatives à la réservation d'une séance de shoppin
 
   
 
- **A. Généralités**
+﻿**A. Généralités**
 
   
 
- **I. Nom et adresse du responsable**
+﻿**I. Nom et adresse du responsable**
 
 Le responsable de la boutique en ligne Esprit au sens défini par le RGPD et d’autres lois nationales relatives à la protection des données des États membres ainsi que par d’autres dispositions liées à la protection des données est :
 
@@ -89,7 +89,7 @@ E-mail : [info@esprit.fr](https://www.esprit.fr/support?id=contact-info)
 
   
 
- **II. Coordonnées du délégué à la protection des données**
+﻿**II. Coordonnées du délégué à la protection des données**
 
 Vous pouvez contacter notre délégué à la protection des données à l’adresse suivante :
 
@@ -97,15 +97,15 @@ Vous pouvez contacter notre délégué à la protection des données à l’adre
 
   
 
- **B. Processus de traitement des données**
+﻿**B. Processus de traitement des données**
 
   
 
- **I. Mise à disposition du site Internet et de l’App**
+﻿**I. Mise à disposition du site Internet et de l’App**
 
   
 
- **1. Description et étendue du traitement de données**
+﻿**1. Description et étendue du traitement de données**
 
 Dans le cas d’une utilisation de notre site Internet uniquement à des fins informatives, donc si vous ne vous inscrivez pas ou si vous ne transmettez pas d’informations d’une manière ou d’une autre, nous ne collectons que les données personnelles que votre navigateur ou l’App envoie à notre serveur au moment de la consultation de notre site Internet :
 
@@ -135,29 +135,29 @@ Les données sont également stockées dans les fichiers journaux (logfiles) de 
 
   
 
- **2. Objectif et base légale du traitement des données**
+﻿**2. Objectif et base légale du traitement des données**
 
 Si vous souhaitez visualiser notre site Internet ou utiliser notre App, nous collectons les données citées au point 1. puisque celles-ci sont techniquement nécessaires pour vous afficher notre site Internet et assurer la stabilité et la sécurité du système. Leur conservation dans des fichiers journaux a lieu afin d’assurer le fonctionnement du site Internet et de l’App. Par ailleurs, les données nous servent à optimiser le site Internet et l’App et à assurer la sécurité de nos systèmes informatiques. C’est sur ces objectifs que repose notre intérêt légitime à un traitement des données, conformément à l’article 6, alinéa 1, lettre f du RGPD.
 
   
 
- **3. Durée de conservation**
+﻿**3. Durée de conservation**
 
 Les données sont effacées dès qu’elles ne sont plus nécessaires aux objectifs de leur collecte. Dans le cas de la saisie des données à des fins de mise à disposition du site Internet, c’est le cas lorsque la session est terminée, c’est-à-dire lorsque vous quittez notre site Internet.
 
   
 
- **4. Possibilité de recours et de suppression**
+﻿**4. Possibilité de recours et de suppression**
 
 La saisie des données pour la mise à disposition du site Internet et de l’App et la conservation de ces données sont impérativement nécessaires au fonctionnement du site Internet. L’utilisateur n’a donc aucune possibilité de recours pour utiliser le site Internet ou l’App sans traitement des données.
 
   
 
- **II. Utilisation des cookies**
+﻿**II. Utilisation des cookies**
 
   
 
- **1. Description et étendue du traitement des données**
+﻿**1. Description et étendue du traitement des données**
 
 À l’avenir également, nous souhaitons aménager nos services d’une manière aussi individuelle que possible et les améliorer en permanence afin de pouvoir vous proposer des informations intéressantes pour vous et de vous procurer une expérience d’achat attractive. C’est pourquoi nous utilisons des cookies. Les cookies sont de petits fichiers textes stockés sur votre disque dur et rattachés au navigateur que vous utilisez ; ils nous fournissent certaines informations. Un tel cookie contient une chaîne de caractères caractéristique qui permet une identification univoque du navigateur lors d’une nouvelle consultation du site Internet. Les cookies ne peuvent pas exécuter de programmes ou transférer des virus sur votre ordinateur. Nous utilisons des cookies pour aménager notre site Internet de manière plus conviviale. Si vous ne souhaitez pas accepter les cookies, vous pouvez le configurer dans les réglages de votre navigateur Internet. Veuillez cependant noter que certains cookies sont requis pour pouvoir utiliser toutes les fonctionnalités de notre site Internet. Si vous utilisez notre App, l’App identifie également l’utilisateur à l’aide de cookies.
 
@@ -173,7 +173,7 @@ Nous utilisons les types de cookies suivants, dont l’étendue et le fonctionne
 
   
 
- **a) Cookies transitoires**
+﻿**a) Cookies transitoires**
 
 Les cookies transitoires, parmi lesquels les « cookies de session », sont en règle générale supprimés automatiquement lorsque vous fermez le navigateur Internet ou lorsqu’une session est terminée. Ces cookies sauvegardent un identifiant (ID) de session, permettant de rattacher différentes demandes de votre navigateur Internet à la session commune. Ainsi, votre ordinateur sera reconnu si vous retournez sur notre site Internet. En règle générale, les cookies de session sont supprimés lorsque vous vous déconnectez ou lorsque vous fermez le navigateur Internet. Ce faisant, les données suivantes sont stockées et transmises dans les cookies de session :
 
@@ -189,7 +189,7 @@ Les cookies transitoires, parmi lesquels les « cookies de session », sont en
 
   
 
- **b) Cookies persistants**
+﻿**b) Cookies persistants**
 
 Les cookies persistants sont supprimés automatiquement après une durée définie, cette durée pouvant varier en fonction du cookie. Dans les réglages de sécurité de votre navigateur Internet, vous pouvez à tout moment et de manière autonome supprimer ou désactiver les cookies. Une saisie et une conservation des données a lieu à des fins d’aménagement adapté aux besoins et d’optimisation de notre site Internet ; ces données permettent d’établir des profils d’utilisation en utilisant des pseudonymes. Cependant, les profils d’utilisation ne sont pas associés à des données concernant le porteur du pseudonyme sans le consentement explicite du visiteur. Lors de la visite de notre site Internet, les utilisateurs sont informés de l’utilisation de cookies à des fins d’analyse par une bannière d’information qui renvoie à la présente déclaration de confidentialité.
 
@@ -197,7 +197,7 @@ Les cookies persistants utilisés par Esprit sont :
 
   
 
- **aa) Webtrekk**
+﻿**aa) Webtrekk**
 
 Nous utilisons un cookie de la société Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin, Allemagne, pour analyser et évaluer le comportement des clients en termes d’utilisation de notre site Internet.
 
@@ -209,7 +209,7 @@ Cependant, certaines fonctions du site Internet ne seront alors plus utilisables
 
   
 
- **bb) Adclear**
+﻿**bb) Adclear**
 
 Nous utilisons un cookie de la société AdClear GmbH, Torstraße 106, 10119 Berlin, Allemagne, pour analyser et évaluer le comportement des clients en termes d’utilisation de notre site Internet.
 
@@ -219,7 +219,7 @@ Pour s’opposer à la collecte des données par AdClear, veuillez cliquer [ICI]
 
   
 
- **cc) New Relic**
+﻿**cc) New Relic**
 
 Nous utilisons également un cookie de la société New Relic Inc., 188 Spear Street, Suite 1200, San Francisco, CA 94105, USA.
 
@@ -227,7 +227,7 @@ Le plugin de New Relic Inc. nous permet de saisir des évaluations statistiques 
 
   
 
- **dd) Criteo**
+﻿**dd) Criteo**
 
 Sur notre site, nous utilisons également le service Criteo de la société Criteo SA, Rue Blanche, 75009 Paris, France. Cet outil permet de proposer à des utilisateurs ayant déjà visité notre site Internet et se montrant intéressés par nos offres des annonces publicitaires ciblées sur des sites Internet qui utilisent également le service Criteo (remarketing). L’affichage de cette publicité s’effectue sur la base d’informations portant sur la visite des sites Internet, stockées entre autres dans des cookies sur votre ordinateur. Ces fichiers textes sont par la suite lus pour des recommandations de produits ciblées dans le cadre de visites sur d’autres sites Internet. À cette fin, les cookies sauvegardent un numéro d’identification généré de manière aléatoire. Ce faisant, ni ce numéro ni les informations sur vos visites des sites Internet peuvent vous être rattachés à une personne.
 
@@ -235,13 +235,13 @@ En règle générale, le cookie est sauvegardé pour une durée maximale d’un 
 
   
 
- **ee) Conversant**
+﻿**ee) Conversant**
 
 Nous faisons également appel aux services de la société Conversant, Inc., 30699 Russell Ranch Road #250, Westlake Village, CA 91362, USA, qui collecte et sauvegarde le comportement de navigation des visiteurs de notre site Internet sous forme anonymisée et sur la base de cookies à des fins de marketing. Par ailleurs, Conversant nous aide pour la diffusion de contenus publicitaires sur d’autres sites Internet (des « publisher »). Les données collectées sont uniquement utilisées pour procéder à l’analyse de nos activités marketing. Toute autre utilisation ou transmission à des tiers est exclue. Vous pouvez vous opposer à l’analyse entièrement anonyme de votre comportement de navigation en cliquant sur ce lien [http://www.conversantmedia.com/opt-out](http://www.conversantmedia.com/opt-out) vers Conversant.
 
   
 
- **ff) Tealium**
+﻿**ff) Tealium**
 
 Quand vous activez la fonction « Acheter vos produits préférés de n’importe où avec les annonces. », nous utilisons l’outil Collect Tag de la société Tealium Inc. qui place un cookie sur votre appareil pour l’analyse et l’évaluation du comportement des utilisateurs de notre site Web. Les cookies Collect de Tealium nous permettent de collecter des informations sur la manière dont vous interagissez avec notre site Web et de savoir quels sont les produits qui vous intéressent dans notre boutique en ligne. Sur la base de ces informations, nous affichons des bannières publicitaires pertinentes à d’autres endroits sur Internet.
 
@@ -249,7 +249,7 @@ La base juridique de la collecte de données dans les deux cas précités repose
 
   
 
- **gg) Adobe Analytics**
+﻿**gg) Adobe Analytics**
 
 Nous utilisons un cookie de la société Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Dublin 24, Irlande, pour analyser et évaluer le comportement des clients en termes d’utilisation de notre site Internet.
 
@@ -263,7 +263,7 @@ Si vous vous opposez à votre exclusion de la collecte de données Adobe et souh
 
   
 
- **hh) RTB House**
+﻿**hh) RTB House**
 
 Si vous activez la fonction « Acheter vos produits préférés de n’importe où avec les annonces » de notre site Web, nous placerons des cookies du service « RTB House » de RTB House, S.A, 61/101 Złota Street, 00-819 Varsovie, Pologne, sur votre terminal. Les cookies de RTB House nous permettent de collecter des informations sur la manière dont vous interagissez avec notre site Web et de savoir quels sont les produits qui vous intéressent dans notre boutique en ligne. L’objectif pour nous est de vous proposer des publicités ciblées sur les sites Internet utilisant également le service RTB House en nous basant sur ces informations grâce à la lecture des contenus des cookies placés par RTB House (remarketing).
 
@@ -295,13 +295,13 @@ Nous traitons les données sur la base de votre consentement que vous avez donn�
 
   
 
- **2. Base légale pour le traitement des données**
+﻿**2. Base légale pour le traitement des données**
 
 La base légale pour le traitement des données personnelles en utilisant des cookies est l’article 6, alinéa 1, lettre f du RGPD.
 
   
 
- **3. Finalité du traitement des données**
+﻿**3. Finalité du traitement des données**
 
 Des cookies transitoires sont utilisés pour simplifier l’utilisation de notre site Internet et de l’App. Certaines fonctions de notre site Internet et de l’App risquent de ne pas être proposées sans l’utilisation de cookies. Pour pouvoir utiliser ces fonctions, il faut que le navigateur Internet puisse également être reconnu après un changement de page. Ainsi, on utilise des cookies transitoires pour le fonctionnement du panier, la reprise des réglages de la langue et la mémorisation de termes de recherche.
 
@@ -311,7 +311,7 @@ Les objectifs susmentionnés représentent notre intérêt légitime au traiteme
 
   
 
- **4. Durée de la conservation, possibilité de recours et de suppression**
+﻿**4. Durée de la conservation, possibilité de recours et de suppression**
 
 Des cookies sont stockés sur votre ordinateur et ce dernier les transmet à notre site Internet. Pour cette raison, vous avez en tant qu’utilisateur également le contrôle absolu de l’utilisation des cookies. En modifiant les réglages dans votre navigateur Internet, vous pouvez désactiver ou limiter la transmission de cookies. Les cookies déjà stockés peuvent à tout moment être supprimés. Cette opération peut également avoir lieu de manière automatisée.
 
@@ -333,7 +333,7 @@ Veuillez noter que la non-acceptation des cookies est susceptible de limiter le 
 
   
 
- **5. Utilisation d’autres outils d’analyse**
+﻿**5. Utilisation d’autres outils d’analyse**
 
   
 
@@ -353,7 +353,7 @@ Veuillez noter également que Facebook peut, par le biais des objectifs décrits
 
   
 
- **b) Light Reaction**
+﻿**b) Light Reaction**
 
 Nous utilisons la technologie de Light Reaction pour collecter des données statistiques sur l’utilisation de notre site Internet et de l’App et pour optimiser notre publicité à l’aide d’une orientation en fonction de vos intérêts et d’offres spéciales pour vous. Ces objectifs représentent notre intérêt légitime au traitement des données personnelles, conformément à l’article 6, alinéa 1, lettre f du RGPD.
 
@@ -375,13 +375,13 @@ Vous pouvez à tout moment vous opposer à la saisie et à la conservation de ce
 
   
 
- **c) Pinterest**
+﻿**c) Pinterest**
 
 Nous utilisons les services publicitaires du réseau social Pinterest, exploités par Pinterest Europe Ltd., Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Irlande. Par ce biais, nous réservons de la publicité via des « épingles » sur Pinterest. Si vous arrivez sur une de nos offres via une épingle réservée par nos soins, ces informations sont traitées par Pinterest et transmises sous forme de statistiques (conversion). Ainsi, nous apprenons le nombre total d’utilisateurs qui ont cliqués sur nos épingles. Cependant, nous ne recevons aucune information permettant d’identifier l’utilisateur en particulier. Dans la mesure où des données personnelles sont traitées, cela a lieu sur la base légale de l’art. 6, paragraphe 1, lettre f du RGPD. Vous pouvez vous opposer à ce suivi dans nos [Paramètres de confidentialité](https://www.esprit.fr/charte-de-confidentialite-de-donnees-sur-la-boutiuqe-en-ligne/data-privacy-statement-online-shop.html).
 
   
 
- **d) Utilisation de la fonction remarketing ou « Groupes cibles similaires » de Google Inc.**
+﻿**d) Utilisation de la fonction remarketing ou « Groupes cibles similaires » de Google Inc.**
 
 Ce site utilise la fonction remarketing ou « Groupes cibles similaires » de Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ; « Google »). Cette fonction a pour but d’analyser le comportement et les centres d’intérêts des visiteurs.
 
@@ -397,7 +397,7 @@ Vous trouverez de plus amples informations concernant Google Remarketing et la p
 
   
 
- **e) Utilisation de suivi des conversions Google Adwords**
+﻿**e) Utilisation de suivi des conversions Google Adwords**
 
 Ce site utilise le programme de publicité en ligne « Google AdWords » et, dans ce cadre, le suivi des conversions (analyse des actions de visite). Le suivi des conversions Google est un service d’analyse de Google Inc. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ; « Google »). Quand vous cliquez sur une annonce proposée par Google, un cookie de suivi des conversions est enregistré sur votre ordinateur. Ces cookies ont une validité limitée dans le temps, ils ne contiennent aucune donnée personnelle et ne servent ainsi pas à vous identifier en tant que personne. Quand vous consultez certaines pages de notre site et que le cookie est encore valide, Google et nous-mêmes pouvons savoir que vous avez cliqué sur l’annonce et que vous avez été redirigé vers cette page. Chaque client Google AdWords reçoit un cookie différent. Il est donc impossible que ces cookies soient suivis via les sites Internet d’autres clients AdWords.
 
@@ -413,7 +413,7 @@ Vous trouverez de plus amples informations sur la politique de confidentialité 
 
   
 
- **f) Utilisation du Universal Event Tracking (UET) de Bing Ads**
+﻿**f) Utilisation du Universal Event Tracking (UET) de Bing Ads**
 
 Sur notre site Internet, nous collectons et enregistrons des données à l’aide de technologies de Bing Ads, avec lesquelles nous créons des profils d’utilisation avec des pseudonymes. Il s’agit d’un service de Microsoft Corporation, One Microsoft Way Redmond, WA 98052‐6399, USA. Ce service nous permet de suivre les activités d’utilisateurs sur notre site, quand ces derniers ont été redirigés sur notre site via des annonces de Bing Ads. Si vous arrivez sur notre site via une de ces annonces, un cookie est enregistré sur votre ordinateur. Notre site Internet intègre une balise UET de Bing. Il s’agit d’un code qui, allié au cookie, enregistre quelques données non personnelles sur l’utilisation du site. Aucune information relative à votre identité n’est collectée. Les informations collectées sont transmises à des serveurs de Microsoft aux USA et y sont généralement conservées pour une durée maximale de 180 jours. Vous pouvez empêcher la collecte des données crées par le cookie sur votre utilisation du site et leur traitement en désactivant l’enregistrement des cookies. Cependant, cela peut dans certains cas limiter la fonctionnalité du site Internet. Par ailleurs, dans certains cas, Microsoft peut suivre votre comportement d’utilisation sur plusieurs appareils électroniques grâce à un « Cross‐Device‐Tracking » et est donc en mesure de proposer des annonces personnalisées sur des sites Internet ou des applis Microsoft. Vous pouvez désactiver ce comportement en cliquant sur le lien suivant : [https://account.microsoft.com/privacy/ad-settings/signedout?lang=fr-FR](https://account.microsoft.com/privacy/ad-settings/signedout?lang=fr-FR).
 
@@ -423,11 +423,11 @@ Vous trouverez de plus amples informations sur la protection des données chez M
 
   
 
- **III. Traitement des données dans le cadre de l’utilisation de notre boutique en ligne**
+﻿**III. Traitement des données dans le cadre de l’utilisation de notre boutique en ligne**
 
   
 
- **1. Description et étendue du traitement de données**
+﻿**1. Description et étendue du traitement de données**
 
   
 
@@ -463,7 +463,7 @@ Afin d’assurer le meilleur suivi possible de nos clients, nous transmettons vo
 
   
 
- **b) Prévention et détection d’abus**
+﻿**b) Prévention et détection d’abus**
 
 Lors de la visite de notre boutique en ligne, le système vérifie automatiquement s’il existe des indices signalant un abus de notre boutique en ligne. Ces opérations sont d’une part effectuées au moyen des données relatives à l’exécution du contrat d’achat, par exemple, l’objet d’achat, le nom, l’adresse postale, l’adresse e-mail, l’adresse de livraison, le mode de paiement et les derniers chiffres de votre numéro de carte. D’autre part, elles sont effectuées à l’aide d’identifiants de visiteurs, ceux-ci pouvant contenir des données de commande anonymes de vos appareils terminaux utilisés (par ex. la résolution de l’écran ou la version du système d’exploitation) et via lesquelles vos appareils peuvent être reconnus avec une certaine probabilité lors de prochaines visites. Pour cette vérification, nous faisons appel à des prestataires de services comme sous-traitants. L’adresse IP transmise dans le cadre de la création de l’identifiant du visiteur n’est pas utilisée pour créer un profil et elle est immédiatement abrégée de telle sorte qu’il n’est plus possible d’établir une relation à la personne. Vos données relatives à l’exécution du contrat d’achat sont cryptées par une clé que nous sommes seuls à connaître et selon l’état de la technique, de telle sorte que le prestataire de services ne peut pas établir une relation à la personne. S’il y a un soupçon d’abus, un collaborateur de notre équipe vérifie l’évaluation et les indices qui la sous-tendent. Si une exécution de contrat est refusée, nous vous en faisons part et, sur demande, nous vous indiquons les principales raisons de cette décision. Dans ce cas, vous pouvez faire valoir votre point de vue ici : [info@esprit.fr](https://www.esprit.fr/support?id=contact-info). Dès lors, la décision va une nouvelle fois être vérifiée par un collaborateur de notre équipe. Votre identifiant visiteur est supprimé après cinq mois.
 
@@ -477,7 +477,7 @@ Pour obtenir de plus amples informations sur Google reCAPTCHA et pour lire la d�
 
   
 
- **c) Méthodes de paiement**
+﻿**c) Méthodes de paiement**
 
 Dans le cadre du paiement dans notre boutique en ligne, nous collectons certaines données personnelles vous concernant en vue d’exécuter l’opération de paiement.
 
@@ -485,7 +485,7 @@ Outre l’achat sur facture, dans le cadre duquel nous envoyons une facture à l
 
   
 
- **aa) Paypal**
+﻿**aa) Paypal**
 
 Sur notre boutique en ligne, nous avons intégré des composants de PayPal. PayPal est un prestataire de services de paiement en ligne, indépendant de la société Esprit. Les paiements sont effectués en passant par des comptes PayPal, qui représentent des comptes privés ou professionnels virtuels. En outre, il est possible d’effectuer des paiements virtuels auprès de PayPal via des cartes bancaires si l’utilisateur ne dispose pas d’un compte PayPal. Un compte PayPal est géré via une adresse e-mail ; c’est la raison pour laquelle il n’existe pas de numéro de compte classique. PayPal permet de déclencher des paiements en ligne à des tiers ou également de recevoir des paiements. Par ailleurs, PayPal assume des fonctions de fiduciaire et propose des services de protection des acheteurs.
 
@@ -505,7 +505,7 @@ Vous pouvez visualisez la charte de protection des données de PayPal à l’adr
 
   
 
- **bb) Paiement par carte bancaire**
+﻿**bb) Paiement par carte bancaire**
 
 Nous vous proposons également d’effectuer vos paiements par carte bancaire. Dans ce cas, nous transmettons vos données à la société Computop Wirtschaftsinformatik GmbH, qui en qualité de prestataire de services compare vos données de paiement avec les établissements de crédit concernés (Visa, Mastercard, etc.). Le débit de votre carte bancaire a lieu via un formulaire de paiement de la plateforme de paiement PayGate de la société Computop. Computop est un fabricant de logiciels pour des banques et est le prestataire de services leader pour des opérations de paiement sûres. En tant que partenaire du secteur du crédit, la société Computop se soumet régulièrement à une certification de sécurité. Computop répond à la norme de sécurité PCI pour que vous puissiez payer en ligne de manière sûre.
 
@@ -541,7 +541,7 @@ En outre, lors d’un paiement par carte de crédit, les données suivantes sont
 
   
 
- **d) Suivi des envois**
+﻿**d) Suivi des envois**
 
 Après avoir passé une commande via notre boutique en ligne, vous obtenez des informations sur le statut de votre livraison de la part de la société de transport choisie à des fins de notification de l’arrivée du colis.
 
@@ -557,19 +557,19 @@ ces sociétés étant assujetties par la loi à la protection des données. Si v
 
   
 
- **e) Click and Reserve & Click and Collect**
+﻿**e) Click and Reserve & Click and Collect**
 
 En tant que membre de notre programme de fidélité Esprit Friends, nous vous offrons la possibilité de réserver des articles via notre boutique en ligne dans des boutiques physiques (Click and Reserve) ou d’acheter des articles sur la boutique en ligne et de venir les chercher dans les boutiques physiques (Click and Collect). Dans le cadre de Click and Reserve et de Click and Collect, nous transmettons votre nom, votre adresse, votre numéro de commande et de facture à la boutique physique concernée afin que vous soyez identifié sur place et que les articles réservés puissent vous être attribués.
 
   
 
- **f) E-mails Back-in-Stock**
+﻿**f) E-mails Back-in-Stock**
 
 Si un article que vous avez choisi n’existe plus dans votre taille, nous vous proposons par ailleurs de vous informer par e-mail si celui-ci devait de nouveau être disponible. À cette fin, nous vous prions de bien vouloir nous donner votre adresse e-mail pour que nous puissions vous contacter.
 
   
 
- **g) behamics**
+﻿**g) behamics**
 
 Nous utilisons l’outil « behamics » de la société behamics AG, Fürstenlandstraße 35, 9001 Saint-Gall, Suisse, afin d’améliorer votre expérience d’achat sur notre boutique en ligne et de vous aider à choisir des articles particulièrement appréciés qui correspondent à vos préférences tout en vous aidant à choisir les bonnes tailles. Ce faisant, nous souhaitons minimiser les retours de marchandise et augmenter votre niveau de satisfaction.
 
@@ -583,39 +583,39 @@ Dans le cadre de ce traitement des données, behamics AG agit en tant que notre 
 
   
 
- **2. Base légale pour le traitement des données**
+﻿**2. Base légale pour le traitement des données**
 
   
 
- **a)** Nous utilisons vos données personnelles obtenues dans le cadre de l’utilisation de notre boutique en ligne pour préparer et exécuter des contrats d’achat conclus sur la boutique en ligne ainsi que pour le service après-vente et le conseil clientèle. Par ailleurs, nous utilisons également vos données personnelles pour faire valoir des droits résultant des contrats d’achat conclus ou préparés avec vous. La base légale pour le traitement de vos données dans le cadre de l’achat et de la préparation de l’achat sur notre boutique en ligne est l’article 6, alinéa 1, lettre b du RGPD.
+﻿**a)** Nous utilisons vos données personnelles obtenues dans le cadre de l’utilisation de notre boutique en ligne pour préparer et exécuter des contrats d’achat conclus sur la boutique en ligne ainsi que pour le service après-vente et le conseil clientèle. Par ailleurs, nous utilisons également vos données personnelles pour faire valoir des droits résultant des contrats d’achat conclus ou préparés avec vous. La base légale pour le traitement de vos données dans le cadre de l’achat et de la préparation de l’achat sur notre boutique en ligne est l’article 6, alinéa 1, lettre b du RGPD.
 
   
 
- **b)** L’objectif de la vérification de la solvabilité est d’éviter et de réduire les défauts de paiement et les risques correspondants. Comme les vérifications de la solvabilité peuvent uniquement avoir lieu si nous fournissons une prestation anticipée avec l’expédition des marchandises sans obtenir une sécurité correspondante, par exemple, lors de l’achat contre facture, nous avons un intérêt légitime dans le traitement des données. Vous trouverez des informations détaillées sur la société Infoscore Consumer Data GmbH au sens de l’article 14 du RGPD, c’est-à-dire des informations relatives aux fins commerciales, à la conservation des données, aux destinataires des données, au droit d’accès et au droit d’effacement et de rectification, en cliquant sur le lien suivant : [https://finance.arvato.com/icdinfoblatt](https://finance.arvato.com/icdinfoblatt). La base légale pour la transmission de vos données pour la vérification de la solvabilité est l’article 6, alinéa 1, lettres b et f du RGPD. Les transmissions effectuées sur la base de ces dispositions ne peuvent avoir lieu que si cela est nécessaire à la prise en considération des intérêts légitimes de notre société ou de tiers et si cela ne prévaut pas sur les intérêts légitimes des personnes concernées.
+﻿**b)** L’objectif de la vérification de la solvabilité est d’éviter et de réduire les défauts de paiement et les risques correspondants. Comme les vérifications de la solvabilité peuvent uniquement avoir lieu si nous fournissons une prestation anticipée avec l’expédition des marchandises sans obtenir une sécurité correspondante, par exemple, lors de l’achat contre facture, nous avons un intérêt légitime dans le traitement des données. Vous trouverez des informations détaillées sur la société Infoscore Consumer Data GmbH au sens de l’article 14 du RGPD, c’est-à-dire des informations relatives aux fins commerciales, à la conservation des données, aux destinataires des données, au droit d’accès et au droit d’effacement et de rectification, en cliquant sur le lien suivant : [https://finance.arvato.com/icdinfoblatt](https://finance.arvato.com/icdinfoblatt). La base légale pour la transmission de vos données pour la vérification de la solvabilité est l’article 6, alinéa 1, lettres b et f du RGPD. Les transmissions effectuées sur la base de ces dispositions ne peuvent avoir lieu que si cela est nécessaire à la prise en considération des intérêts légitimes de notre société ou de tiers et si cela ne prévaut pas sur les intérêts légitimes des personnes concernées.
 
   
 
- **c)** Les mêmes finalités prévalant au point b) s’appliquent aussi à la détection et à la prévention d’abus. La base légale pour la détection et la prévention d’abus est également l’article 6, alinéa 1, lettres b et f du RGPD.
+﻿**c)** Les mêmes finalités prévalant au point b) s’appliquent aussi à la détection et à la prévention d’abus. La base légale pour la détection et la prévention d’abus est également l’article 6, alinéa 1, lettres b et f du RGPD.
 
   
 
- **d)** Vos données sont traitées dans le cadre du processus de paiement afin que le mode de paiement que vous avez choisi puisse être effectué. La base juridique de la transmission de vos données à des prestataires de services de paiement externes est l’art. 6, paragraphe 1, alinéas a et b du RGPD. Si une carte de crédit est utilisée dans le cadre d’un processus de paiement, il convient d’effectuer un mode d’authentification forte du client. La base juridique du traitement de vos données est l’art. 6, paragraphe 1, alinéa c du RGPD en liaison avec les dispositions de la directive UE 2015/2366 («  »Deuxième directive européenne sur les services de paiement » » dite DSP2) et de la loi allemande sur la surveillance des services de paiement (ZAC – Zahlungsdiensteaufsichtsgesetz). Si une procédure d’authentification plus simple pour l’utilisateur (Frictionless Flow) est réalisée dans le cadre du traitement d’un paiement par carte de crédit, vos données seront traitées sur la base de notre intérêt légitime conformément à l’art. 6, paragraphe 1, alinéa b du RGPD.
+﻿**d)** Vos données sont traitées dans le cadre du processus de paiement afin que le mode de paiement que vous avez choisi puisse être effectué. La base juridique de la transmission de vos données à des prestataires de services de paiement externes est l’art. 6, paragraphe 1, alinéas a et b du RGPD. Si une carte de crédit est utilisée dans le cadre d’un processus de paiement, il convient d’effectuer un mode d’authentification forte du client. La base juridique du traitement de vos données est l’art. 6, paragraphe 1, alinéa c du RGPD en liaison avec les dispositions de la directive UE 2015/2366 («  »Deuxième directive européenne sur les services de paiement » » dite DSP2) et de la loi allemande sur la surveillance des services de paiement (ZAC – Zahlungsdiensteaufsichtsgesetz). Si une procédure d’authentification plus simple pour l’utilisateur (Frictionless Flow) est réalisée dans le cadre du traitement d’un paiement par carte de crédit, vos données seront traitées sur la base de notre intérêt légitime conformément à l’art. 6, paragraphe 1, alinéa b du RGPD.
 
   
 
- **e)** La transmission de votre adresse e-mail à des services postaux a pour but de vous informer du statut de votre livraison de sorte que vous puissiez planifier quand le colis arrivera à l’adresse d’expédition. La base légale pour la transmission de données personnelles à des services postaux est l’article 6, alinéa 1, lettre f du RGPD.
+﻿**e)** La transmission de votre adresse e-mail à des services postaux a pour but de vous informer du statut de votre livraison de sorte que vous puissiez planifier quand le colis arrivera à l’adresse d’expédition. La base légale pour la transmission de données personnelles à des services postaux est l’article 6, alinéa 1, lettre f du RGPD.
 
   
 
- **f)** Le traitement des données effectué dans le cadre de Click and Reserve et de Click and Collect a lieu pour permettre une identification du client sur place dans la boutique physique choisie. La base légale pour Click and Reserve & Click and Collect est l’article 6, alinéa 1, lettre b du RGPD.
+﻿**f)** Le traitement des données effectué dans le cadre de Click and Reserve et de Click and Collect a lieu pour permettre une identification du client sur place dans la boutique physique choisie. La base légale pour Click and Reserve & Click and Collect est l’article 6, alinéa 1, lettre b du RGPD.
 
   
 
- **g)** Le traitement des données dans le cadre de Back-in-Stock a lieu pour vous informer de quand l’article correspondant sera disponible dans votre taille. La base légale pour les e-mails Back-in-Stock est l’article 6, alinéa 1, lettre a du RGPD. Vous pouvez à tout moment retirer le consentement accordé en envoyant un e-mail à [service@esprit.com](https://www.esprit.fr/support?id=contact-info) avec effet pour l’avenir.
+﻿**g)** Le traitement des données dans le cadre de Back-in-Stock a lieu pour vous informer de quand l’article correspondant sera disponible dans votre taille. La base légale pour les e-mails Back-in-Stock est l’article 6, alinéa 1, lettre a du RGPD. Vous pouvez à tout moment retirer le consentement accordé en envoyant un e-mail à [service@esprit.com](https://www.esprit.fr/support?id=contact-info) avec effet pour l’avenir.
 
   
 
- **3. Durée de conservation**
+﻿**3. Durée de conservation**
 
 En principe, nous traitons et nous sauvegardons vos données pour la durée de notre relation contractuelle. Cela inclut également la préparation d’un contrat (relation précontractuelle).
 
@@ -635,17 +635,17 @@ Dans le cadre du paiement par carte bancaire, nous sauvegardons les données sui
 
   
 
- **IV. Newsletter**
+﻿**IV. Newsletter**
 
 Vous trouverez des informations concernant la newsletter proposée sur notre site Internet dans la charte de protection des données séparée relative à la newsletter à l’adresse Internet suivante: [https://www.esprit.fr/indication-de-protection-de-donnees-pour-les-newsletter/data-protection-newsletter.html](https://www.esprit.fr/indication-de-protection-de-donnees-pour-les-newsletter/data-protection-newsletter.html).
 
   
 
- **V. Formulaire de contact, chat et contact par e-mail, notification de panne**
+﻿**V. Formulaire de contact, chat et contact par e-mail, notification de panne**
 
   
 
- **1. Description et étendue du traitement des données, exploitation du service client ESPRIT par ESPRIT Europe GmbH**
+﻿**1. Description et étendue du traitement des données, exploitation du service client ESPRIT par ESPRIT Europe GmbH**
 
 Sur notre site Internet, nous mettrons entre autres à disposition un formulaire de contact, un logiciel de chat, une adresse e-mail, un numéro de fax, un numéro de téléphone ainsi qu’un formulaire de message d’erreur. En outre, vous avez la possibilité de nous contacter via différentes plateformes de réseaux sociaux (Facebook, Instagram). Cela vous permet de prendre contact directement avec notre service client.
 
@@ -659,7 +659,7 @@ Aucune donnée n’est ici transmise à des tiers. Les données sont exclusiveme
 
   
 
- **2. Finalité et base légale du traitement des données**
+﻿**2. Finalité et base légale du traitement des données**
 
 Le traitement des données personnelles via le canal de contact choisi nous sert uniquement à traiter votre demande et vos questions. C’est là que réside l’intérêt légitime nécessaire au traitement des données.
 
@@ -669,7 +669,7 @@ La base légale pour le traitement des données que vous mettez à notre disposi
 
   
 
- **3. Durée de conservation**
+﻿**3. Durée de conservation**
 
 Les données sont effacées dès qu’elles ne sont plus nécessaires à l’objectif de leur collecte. Pour les données personnelles émanant du masque de saisie du formulaire de contact et pour les données transmises par e-mail, c’est le cas lorsque la conversation avec l’utilisateur est terminée. La conversation est terminée si les circonstances indiquent que les faits concernés sont définitivement réglés. Le cas échéant, nous devons cependant conserver pour une période prolongée certaines données personnelles émanant de la communication (par ex. à des fins de preuves si dans le cadre de la communication il y a eu des ententes sur des achats effectués, des décisions de faveur de la société Esprit, des accords concernant des paiements et des réclamations pour défauts, etc.).
 
@@ -677,29 +677,29 @@ Les données personnelles supplémentaires collectées lors de l’opération d�
 
   
 
- **VI. Inscription en tant que membre Esprit Friend**
+﻿**VI. Inscription en tant que membre Esprit Friend**
 
 Vous avez à tout moment la possibilité de vous inscrire en tant que membre Esprit Friend et de participer à notre programme de fidélité dans le cadre de l’opération de commande concrète ou indépendamment de cette opération. Vous trouverez d’autres informations sur l’inscription en tant que membre Esprit Friend ainsi que sur le type et l’étendue des données personnelles traitées dans le programme Esprit Friends dans la déclaration de confidentialité du programme Esprit Friends, consultable à l’adresse Internet suivante
 
   
 
- **VII. Storefinder**
+﻿**VII. Storefinder**
 
   
 
- **1. Description et étendue du traitement des données**
+﻿**1. Description et étendue du traitement des données**
 
 Nous vous proposons un service Storefinder via lequel vous pouvez visualiser toutes les boutiques et tous les points de vente Esprit à l’aide d’un code postal ou sur la base de votre géolocalisation.
 
   
 
- **2. Objectif et base légale du traitement des données**
+﻿**2. Objectif et base légale du traitement des données**
 
 La finalité du traitement des données réside en la mise à disposition du service « Storefinder » sur notre boutique en ligne. Si vous donnez votre consentement à la transmission de vos données de géolocalisation, cette opération sert uniquement à la localisation de votre emplacement. Si vous n’utilisez pas le Storefinder sur la base d’un code postal et si vous souhaitez utiliser la géolocalisation, vous pouvez activer cette fonction via la requête technique de votre navigateur Internet. Dès lors, votre localisation a lieu dans le cadre du consentement technique accordé, conformément à l’article 6, alinéa 1, lettre a du RGPD. Vous pouvez à tout moment retirer votre consentement en nous contactant : [dp@esprit.com](mailto:dp@esprit.com).
 
   
 
- **3. Durée de conservation**
+﻿**3. Durée de conservation**
 
 Vos données d’emplacement sont uniquement utilisées pour l’opération de localisation concrète et ne sont pas sauvegardées de manière durable.
 
@@ -841,29 +841,29 @@ Nous conservons vos données aussi longtemps qu’elles sont nécessaires à l�
 
   
 
- **C. Vos droits relatifs à la protection de vos données**
+﻿**C. Vos droits relatifs à la protection de vos données**
 
 Dans certaines conditions, vous pouvez faire valoir auprès de nous vos droits relatifs à la protection de vos données :
 
   
 
- **• Droit au retrait du consentement :** si vous avez donné votre consentement pour certains types d’activités de traitement, vous pouvez à tout moment révoquer ce consentement avec effet pour l’avenir. Cependant, cette révocation ne compromet pas la légalité du traitement précédant la révocation de votre consentement ou si le traitement peut être justifié par une autre base légale.
+﻿**• Droit au retrait du consentement :** si vous avez donné votre consentement pour certains types d’activités de traitement, vous pouvez à tout moment révoquer ce consentement avec effet pour l’avenir. Cependant, cette révocation ne compromet pas la légalité du traitement précédant la révocation de votre consentement ou si le traitement peut être justifié par une autre base légale.
 
- **• Droit à l’information :** vous avez le droit d’obtenir de notre part des informations sur vos données conservées chez nous, conformément aux règlements de l’article 15 du RGPD (le cas échéant avec les restric
+﻿**• Droit à l’information :** vous avez le droit d’obtenir de notre part des informations sur vos données conservées chez nous, conformément aux règlements de l’article 15 du RGPD (le cas échéant avec les restric
 
 tions de l’article 34 de la BDSG \[Loi fédérale sur la protection des données\]).
 
 **• Droit à rectification :** sur demande, nous rectifions les données conservées vous concernant, conformément à l’article 16 du RGPD, si ces données sont incorrectes ou erronées.
 
- **• Droit à la suppression des données :** si vous le souhaitez, nous supprimons vos données conformément aux principes de l’article 17 du RGPD, dans la mesure où d’autres règlements légaux (par ex. obligations de conservation légales ou restrictions prévues par l’article 35 de la BDSG \[Loi fédérale sur la protection des données\]) ou un intérêt prédominant de notre côté (par ex. la défense de nos droits et de nos prétentions) ne s’y oppose pas.
+﻿**• Droit à la suppression des données :** si vous le souhaitez, nous supprimons vos données conformément aux principes de l’article 17 du RGPD, dans la mesure où d’autres règlements légaux (par ex. obligations de conservation légales ou restrictions prévues par l’article 35 de la BDSG \[Loi fédérale sur la protection des données\]) ou un intérêt prédominant de notre côté (par ex. la défense de nos droits et de nos prétentions) ne s’y oppose pas.
 
- **• Droit à la limitation du traitement :** dans le respect des conditions de l’article 18 du RGPD, vous pouvez exiger de nous que nous limitions le traitement de vos données.
+﻿**• Droit à la limitation du traitement :** dans le respect des conditions de l’article 18 du RGPD, vous pouvez exiger de nous que nous limitions le traitement de vos données.
 
- **• Droit d’opposition :** vous pouvez par ailleurs vous opposer au traitement de vos données, conformément à l’article 21 du RGPD. Ce droit d’opposition est valable en présence de certaines raisons résultant de votre situation particulière, et s’applique uniquement pour les traitements de données dont la légalité s’appuie sur des intérêts concernant le profilage ou effectués à des fins de publicité directe. Dans ce cas, nous cessons le traitement de vos données, à moins que la loi nous autorise à refuser votre opposition. Cependant, si vous vous opposez au marketing direct, y compris le profilage, nous ne traiterons plus vos données à ces fins sans demander d’autre raison.
+﻿**• Droit d’opposition :** vous pouvez par ailleurs vous opposer au traitement de vos données, conformément à l’article 21 du RGPD. Ce droit d’opposition est valable en présence de certaines raisons résultant de votre situation particulière, et s’applique uniquement pour les traitements de données dont la légalité s’appuie sur des intérêts concernant le profilage ou effectués à des fins de publicité directe. Dans ce cas, nous cessons le traitement de vos données, à moins que la loi nous autorise à refuser votre opposition. Cependant, si vous vous opposez au marketing direct, y compris le profilage, nous ne traiterons plus vos données à ces fins sans demander d’autre raison.
 
 Si vous nous avez accordé votre consentement pour la publicité directe et que vous ne souhaitez plus recevoir cette publicité directe, vous pouvez révoquer votre accord à tout moment avec effet pour l’avenir.
 
- **• Droit à la portabilité des données :** conformément aux règlements prévus par l’article 20 du RGPD, vous avez aussi le droit d’obtenir vos données ou de les transmettre à un tiers dans un format structuré, courant et pouvant être lu de manière automatisée.
+﻿**• Droit à la portabilité des données :** conformément aux règlements prévus par l’article 20 du RGPD, vous avez aussi le droit d’obtenir vos données ou de les transmettre à un tiers dans un format structuré, courant et pouvant être lu de manière automatisée.
 
 **• Plainte déposée auprès de l’autorité chargée de la protection des données :** par ailleurs, vous disposez d’un droit de réclamation auprès de toute autorité de protection des données compétente (article 77 du RGPD). Nous recommandons cependant de toujours commencer par envoyer une réclamation à notre délégué à la protection des données (**dp@esprit.com**) afin que nous puissions régler votre problème le plus rapidement possible et d’une manière orientée vers le client.
 
@@ -883,7 +883,7 @@ Allemagne
 
   
 
- **D. Transmission à des tiers**
+﻿**D. Transmission à des tiers**
 
 À des fins de communication avec les clients par e-mail ou par notification push dans le cadre de votre consentement, vos données clients personnelles sont enregistrées et traitées dans notre système CRM et transmises à notre solution d’envoi d’e-mails et de notifications push (Salesforce Marketing Cloud). La solution d’envoi est exploitée par Salesforce Inc. Vos données (numéro de client, nom, adresse, numéro de téléphone, e-mail, permissions marketing, etc.) sont hébergées par Salesforce en Union européenne. Salesforce n’associe en aucun cas vos données à votre personne. Cet état de fait est techniquement garanti. Si vous nous avez donné votre consentement, nous nous servirons de ce système pour collecter des informations concernant l’utilisation des e-mails (envoi, ouvertures, clics) afin d’améliorer nos services pour vous et de vous faire parvenir des informations plus adaptées. Si vous n’êtes plus d’accord avec cela, vous pouvez à tout moment révoquer votre consentement en vous désinscrivant de la newsletter et/ou des notifications push.
 
