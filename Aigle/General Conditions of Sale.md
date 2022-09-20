@@ -47,10 +47,10 @@ Aigle se réserve le droit de modifier ses prix à tout moment mais s’engage �
 
 Les frais de livraison sont communiqués au Client sur le récapitulatif de la commande avant la validation de cette dernière et sont exprimés toutes taxes comprises. Ces frais sont à la charge du Client et sont facturés en supplément du prix de vente des Produits. Nos frais de livraison sont les suivants :
 
-*   **Retrait en boutique Aigle** (remise contre signature) : offerte
-*   **Livraison en Relais Colis** (remise contre signature) : offerte
-*   **Livraison par voie postale** : 4,95€ 
-*   **Livraison express 24H** (remise contre signature) : 13€
+* **Retrait en boutique Aigle** (remise contre signature) : offerte
+* **Livraison en Relais Colis** (remise contre signature) : offerte
+* **Livraison par voie postale** : 4,95€ 
+* **Livraison express 24H** (remise contre signature) : 13€
 
 Il est précisé que pour les produits personnalsés, les frais de livraison sont offerts au Client. Les frais de livraison sont également offerts au Client lorsqu'il achète à la fois un ou des produit(s) personnalisé(s) et un ou des produit(s) personnalisé(s).
 
@@ -101,10 +101,10 @@ Le Client ayant effectué une commande aura la possibilité d’imprimer sa fact
 
 Aigle se réserve le droit de ne pas valider la commande en cas de :
 
-*   **réclamations anormales ou abusives,**
-*   **commandes anormales au regard des quantités commandées,**
-*   **échanges et retours anormaux ou abusifs,**
-*   **litige(s) existant(s) avec le Client.**
+* **réclamations anormales ou abusives,**
+* **commandes anormales au regard des quantités commandées,**
+* **échanges et retours anormaux ou abusifs,**
+* **litige(s) existant(s) avec le Client.**
 
 Le service client Aigle est à la disposition du Client pour toutes questions relatives à sa commande. Le service client est disponible par mail ([contact@aigle.com](mailto:contact@aigle.com)), et par téléphone au +33 (0) 5 49 02 38 98, du lundi au vendredi, de 10h à 19h et le samedi de 10h à 18h.
 
@@ -180,9 +180,9 @@ Si le Client achète à la fois un produit personnalisé et un produit non perso
 
 Le Client est tenu de vérifier l’état général du colis et la conformité des Produits reçus en exécution de sa commande au moment de la réception et de notifier à Aigle toute anomalie concernant la livraison telle que :
 
-*   **_colis vide,_**
-*   **_colis ouvert,_**
-*   **_contenu abimé,_**
+* **_colis vide,_**
+* **_colis ouvert,_**
+* **_contenu abimé,_**
 
 Le Client est responsable du colis et de son contenu lorsqu’il lui aura été remis, En cas d’anomalie telle de celles précitées, le Client devra refuser le colis et le notifier au service client du Site Aigle par courrier électronique à l’adresse suivante: [contact@aigle.com](mailto:contact@aigle.com).
 
@@ -197,8 +197,8 @@ En cas de manquant sans réserve émise, Aigle ne pourra être tenu pour respons
 
 Pour tout retour dans le cadre du droit de rétractation, la procédure ci-dessous doit être intégralement respectée :
 
-*   les Produits sont retournés dans un conditionnement permettant leur transport à l’adresse mentionnée sur le formulaire de retour inclus dans son colis accompagné d’un port prépayé si la commande a été livrée par voie postale; le formulaire de retour présent dans son colis devant être préalablement complété par le Client.
-*   les Produits doivent être renvoyés dans leur état initial, avec l’étiquette attachée aux Produits, sans avoir été endommagés, tachés, lavés, modifiés ou portés (à l’exception de l’essayage) en y joignant l’emballage original et tous les éventuels accessoires se rapportant aux Produits, tels que les emballages ou notice d’utilisation à :
+* les Produits sont retournés dans un conditionnement permettant leur transport à l’adresse mentionnée sur le formulaire de retour inclus dans son colis accompagné d’un port prépayé si la commande a été livrée par voie postale; le formulaire de retour présent dans son colis devant être préalablement complété par le Client.
+* les Produits doivent être renvoyés dans leur état initial, avec l’étiquette attachée aux Produits, sans avoir été endommagés, tachés, lavés, modifiés ou portés (à l’exception de l’essayage) en y joignant l’emballage original et tous les éventuels accessoires se rapportant aux Produits, tels que les emballages ou notice d’utilisation à :
 
 **_Aigle C/O ADS_**
 
@@ -228,22 +228,22 @@ A défaut de remboursement sous ce délai, les sommes que nous vous devrions pro
 
 Le Client est, quant à lui, tenu de restituer ou de renvoyer à Aigle le(s) Produit(s), sans retard excessif. Les retours se feront :
 
-*   **En Relais Colis**: gratuitement en remplissant le bon de retour joint au colis livré ;
-*   **Par voie Postale**: gratuitement en remplissant le bon de retour et en utilisant l’étiquette de prépaiement joints au colis livré.
+* **En Relais Colis**: gratuitement en remplissant le bon de retour joint au colis livré ;
+* **Par voie Postale**: gratuitement en remplissant le bon de retour et en utilisant l’étiquette de prépaiement joints au colis livré.
 
 **ARTICLE 8. RESTRICTIONS APPLICABLES AUX PRODUITS PERSONNALISES**
 ------------------------------------------------------------------
 
 1\. Nous vous offrons la possibilité de personnaliser par une gravure sur un certain nombre de modèles de bottes Aigle listées ci-dessous : 
 
-*   Baby Flac dans les coloris marine, jaune et rouge ;
-*   Goeland dans les coloris marine/blanc, jaune/blanc ;
-*   Lolly Pop dans les coloris marine/blanc, jaune/blanc, rouge/blanc ; 
-*   Malouine dans les coloris marine/blanc, jaune/blanc, rouge/blanc ;
-*   Parcours® 2 dans le coloris brun ;
-*   Parcours® 2 Signature Classique dans le coloris brun ;
-*   Parcours® 2 Signature Pied Standard dans le coloris brun ;
-*   Parcours® 2 ISO dans le coloris bronze.
+* Baby Flac dans les coloris marine, jaune et rouge ;
+* Goeland dans les coloris marine/blanc, jaune/blanc ;
+* Lolly Pop dans les coloris marine/blanc, jaune/blanc, rouge/blanc ; 
+* Malouine dans les coloris marine/blanc, jaune/blanc, rouge/blanc ;
+* Parcours® 2 dans le coloris brun ;
+* Parcours® 2 Signature Classique dans le coloris brun ;
+* Parcours® 2 Signature Pied Standard dans le coloris brun ;
+* Parcours® 2 ISO dans le coloris bronze.
 
 2\. Le Client a le choix de personnaliser une seule botte ou les deux bottes composant la paire.
 
@@ -266,30 +266,30 @@ Le Client bénéficie des garanties énumérées au présent article 8 uniquemen
 
 Le Client bénéficie des garanties légales suivantes :
 
-*   La garantie légale de conformité (Articles L.217-4 et suivants du _Code de la consommation_),
+* La garantie légale de conformité (Articles L.217-4 et suivants du _Code de la consommation_),
 
 Lorsque le Client estime qu’un Produit n’est pas conforme, le Client bénéficie d'un délai de deux (2) ans à compter de la délivrance du bien pour contacter notre service client par courriel à l'adresse suivante ([contact@aigle.com](mailto:contact@aigle.com)). En cas de besoin d’étude du Produit par Aigle, le Client devra nous retourner le Produit estimé non conforme à l’adresse qui lui  sera communiquée par le service clients et notre service qualité examinera la demande.
 
 En cas de défaut de conformité le Client pourra alors au choix :
 
-*   Demander le remplacement du Produit non conforme ; ou
-*   Demander la réparation du Produit non conforme.
+* Demander le remplacement du Produit non conforme ; ou
+* Demander la réparation du Produit non conforme.
 
 Toutefois, Aigle se réserve la possibilité de ne pas procéder selon le choix du Client si ce choix entraîne un coût manifestement disproportionné au regard de l'autre modalité, compte tenu de la valeur du Produit ou de l'importance du défaut. Aigle procèdera alors, sauf impossibilité, selon la modalité non choisie par le Client.
 
 Si nous ne sommes pas en mesure de remplacer ou de réparer les produits non conformes dans un délai de trente (30) jours suivant la réclamation du Client, ce dernier peut au choix :
 
-*   Rendre le(s) Produit(s) et se faire restituer le prix ; ou
-*   Garder le(s) Produit(s) et se faire restituer une partie du prix.
+* Rendre le(s) Produit(s) et se faire restituer le prix ; ou
+* Garder le(s) Produit(s) et se faire restituer une partie du prix.
 
 Cette garantie légale de conformité s'applique indépendamment de toute garantie commerciale éventuellement souscrite et ainsi que de la nature du produit.
 
-*   La garantie légale contre les vices cachés (Articles L.1641 et suivants du _Code civil_).
+* La garantie légale contre les vices cachés (Articles L.1641 et suivants du _Code civil_).
 
 Si le Client parvient à prouver le vice caché d'un produit, Aigle est légalement tenue de réparer toutes les conséquences d'un tel vice caché. Le Client pourra alors choisir entre :
 
-*   Rendre le(s) Produit(s) et se faire restituer le prix ; ou
-*   Garder le(s) Produit(s) et se faire restituer une partie du prix.
+* Rendre le(s) Produit(s) et se faire restituer le prix ; ou
+* Garder le(s) Produit(s) et se faire restituer une partie du prix.
 
  En cas de remplacement des Produits ou de remboursement, Aigle prendra en charge les coûts de renvoi des produits
 
@@ -356,7 +356,7 @@ Passé un délai de trente (30) jours, et dans l’hypothèse où l’évènemen
 
 Le Site est mis à votre disposition en l'état. Aigle ne garantit notamment pas que le Site sera disponible sans interruption 24 heures sur 24 et de manière totalement opérationnelle. Par exemple, l'accès au Site peut être interrompu sans préavis en cas de problèmes techniques ou pour des raisons de maintenance.
 
-**Le service client prend vos commandes par téléphone** **du lundi au vendredi, de 10h à 19h et le samedi de 10h à 18h** **au** **+33 (0) 5 49 02 38 98****.**
+**Le service client prend vos commandes par téléphone** **du lundi au vendredi, de 10h à 19h et le samedi de 10h à 18h**  **au** **+33 (0) 5 49 02 38 98****.**
 
 Il est de la responsabilité de l’utilisateur, du Client, de protéger son ordinateur. Aigle ne saurait être tenue pour responsable des dommages qui pourraient être causés à votre ordinateur, ou de la perte de données qui pourrait résulter de l'utilisation du Site.
 
