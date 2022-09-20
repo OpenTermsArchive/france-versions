@@ -8,23 +8,23 @@ Nous mettons à jour régulièrement notre Politique de Confidentialité et nous
 
 Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute autre limite d'âge applicable dans votre juridiction et nous ne collectons pas sciemment de données relatives aux enfants.
 
-1.  **Qui sommes-nous ?**
+1. **Qui sommes-nous ?**
     
     La présente Politique de Confidentialité est publiée au nom du groupe emTransit, qui se compose de plusieurs entités juridiques différentes réparties en Europe. Bien que les différentes entités puissent, de temps à autre, agir en tant que Responsables Conjoints du Traitement de vos données personnelles, toutes les sociétés du groupe emTransit ont décidé qu'emTransit B.V., une société privée à responsabilité limitée de droit néerlandais, dont le siège social est situé à Burgerweeshuispad 101 TQ South, 1076ER, Amsterdam, Pays-Bas, enregistrée sous le numéro 72795921, est le principal responsable du traitement et l'entité responsable de tous les traitements de données personnelles décrits dans cette politique. Notre Délégué à la Protection des Données supervise la conformité de l'ensemble du groupe d'entreprises. Pour toute question concernant cette politique, y compris les questions relatives à vos droits en vertu de la loi sur la protection des données, veuillez contacter notre Délégué à l'adresse suivante : [privacy@ridedott.com](mailto:privacy@ridedott.com).
     
     Lorsque nous mentionnons « **Dott** », « **nous** » ou « **notre** » dans la présente politique de confidentialité, nous faisons référence à l’ensemble de notre groupe d’entreprises.
     
-2.  **Quelles données collectons-nous à votre sujet ?**
+2. **Quelles données collectons-nous à votre sujet ?**
     
     Nous sommes susceptibles de collecter, d’utiliser, de conserver et de transférer différents types de données à caractère personnel vous concernant (c’est-à-dire toutes informations permettant de vous identifier directement ou indirectement) que nous avons regroupés comme suit :
     
-    *   **Données liées à votre identité et vos coordonnées** : cela comprend vos prénom, nom de famille, nom d’utilisateur et mot de passe, date de naissance et sexe (si la loi l’exige), preuve d’identité telle que carte d’identité, passeport ou permis de conduit (si la loi l’exige), un selfie en temps réel (lorsque la ville l'exige), adresse de facturation, adresse de livraison, adresse électronique, numéros de téléphone et autres identifiants similaires.
-    *   **Données financières et transactionnelles** : cela comprend certaines informations liées à votre compte bancaire et votre carte de paiement ainsi que tous renseignements concernant les paiements que vous avez versés et tout autre information lié aux services que vous avez achetés auprès de nous et autres informations similaires. Veuillez noter que nous ne stockons pas les informations de votre carte de paiement complètes. Ces informations sont stockées par notre processeur de paiement tiers approuvé.
-    *   **Données techniques et d’utilisation** : cela comprend les informations concernant la façon dont vous utilisez notre Site Internet, notre Application , votre adresse IP (protocole Internet), vos données de connexion, le type et la version du navigateur utilisé, les paramètres concernant le fuseau horaire, les types et versions des modules installés sur le navigateur, le système d’exploitation et la plateforme, ainsi que tout autre identifiant technologique similaire sur les appareils que vous utilisez pour accéder au Site Internet, à l’Application et à nos Véhicules.
-    *   **Données de géolocalisation et de télémétrie** : cela comprend des informations sur la façon dont vous utilisez nos Véhicules, y compris l'historique de vos trajets et de votre géolocalisation et d'autres informations de télémétrie, notamment les freinages, les embardées, les collisions, l'état de la chaussée, la vitesse, le chemin choisi et les fluctuations de poids.
-    *   **Données de profil** : cela comprend les achats que vous avez effectués, vos intérêts, vos préférences en matière de marketing et de communication, vos commentaires et vos réponses à toute enquête ainsi que toute autre donnée similaire que vous nous fournissez.
-    *   **Le contenu utilisateur et utilisateur potentiel** comprend les informations que vous soumettez lorsque vous contactez notre service clientèle, ou que nous recueillons avec votre consentement lorsque vous participez à notre programme de recherche sur les utilisateurs ou à des événements que nous organisons. Il peut s'agir de commentaires, de photographies, d'enregistrements vidéo ou audio.
-    *   **Les données du programme d'inclusion sociale** comprennent, pour le Royaume-Uni, des informations sur l'un des éléments suivants : certificat HC2, carte DID ou carte de train pour personnes handicapées en cours de validité ; votre statut de travailleur du NHS ou des services d'urgence ou d'étudiant de l'enseignement supérieur.
+    * **Données liées à votre identité et vos coordonnées** : cela comprend vos prénom, nom de famille, nom d’utilisateur et mot de passe, date de naissance et sexe (si la loi l’exige), preuve d’identité telle que carte d’identité, passeport ou permis de conduit (si la loi l’exige), un selfie en temps réel (lorsque la ville l'exige), adresse de facturation, adresse de livraison, adresse électronique, numéros de téléphone et autres identifiants similaires.
+    * **Données financières et transactionnelles** : cela comprend certaines informations liées à votre compte bancaire et votre carte de paiement ainsi que tous renseignements concernant les paiements que vous avez versés et tout autre information lié aux services que vous avez achetés auprès de nous et autres informations similaires. Veuillez noter que nous ne stockons pas les informations de votre carte de paiement complètes. Ces informations sont stockées par notre processeur de paiement tiers approuvé.
+    * **Données techniques et d’utilisation** : cela comprend les informations concernant la façon dont vous utilisez notre Site Internet, notre Application , votre adresse IP (protocole Internet), vos données de connexion, le type et la version du navigateur utilisé, les paramètres concernant le fuseau horaire, les types et versions des modules installés sur le navigateur, le système d’exploitation et la plateforme, ainsi que tout autre identifiant technologique similaire sur les appareils que vous utilisez pour accéder au Site Internet, à l’Application et à nos Véhicules.
+    * **Données de géolocalisation et de télémétrie** : cela comprend des informations sur la façon dont vous utilisez nos Véhicules, y compris l'historique de vos trajets et de votre géolocalisation et d'autres informations de télémétrie, notamment les freinages, les embardées, les collisions, l'état de la chaussée, la vitesse, le chemin choisi et les fluctuations de poids.
+    * **Données de profil** : cela comprend les achats que vous avez effectués, vos intérêts, vos préférences en matière de marketing et de communication, vos commentaires et vos réponses à toute enquête ainsi que toute autre donnée similaire que vous nous fournissez.
+    * **Le contenu utilisateur et utilisateur potentiel** comprend les informations que vous soumettez lorsque vous contactez notre service clientèle, ou que nous recueillons avec votre consentement lorsque vous participez à notre programme de recherche sur les utilisateurs ou à des événements que nous organisons. Il peut s'agir de commentaires, de photographies, d'enregistrements vidéo ou audio.
+    * **Les données du programme d'inclusion sociale** comprennent, pour le Royaume-Uni, des informations sur l'un des éléments suivants : certificat HC2, carte DID ou carte de train pour personnes handicapées en cours de validité ; votre statut de travailleur du NHS ou des services d'urgence ou d'étudiant de l'enseignement supérieur.
     
     Nous traitons également des **Données agrégées**, telles que des données statistiques ou démographiques, à quelque fin que ce soit. Il est possible que nous obtenions les Données agrégées à partir de vos données à caractère personnel, mais elles ne sont pas considérées comme telles aux yeux du droit dans la mesure où elles ne révèlent pas votre identité, que ce soit de manière directe ou indirecte. Par exemple, il est possible que nous agrégions vos Données techniques et d’utilisation pour calculer le pourcentage d’utilisateurs se servant d’une fonctionnalité spécifique du Site Internet ou de l’Application, ou pour comprendre la façon dont nos Véhicules sont utilisés. Dans la mesure où lesdites données ne sont pas réglementées, leur traitement n’est pas soumis à la présente politique de confidentialité.
     
@@ -32,20 +32,20 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     Dans le cas où nous aurions besoin de collecter vos données à caractère personnel en vertu de nos Conditions générales et où vous ne nous communiqueriez pas les données demandées, il est possible que nous ne soyons pas en mesure d’exécuter le contrat que nous avons conclu ou tentons de conclure avec vous. Dans ce cas, nous pourrions ne pas être en mesure de vous permettre d'utiliser l'application et/ou nos Véhicules, ces informations étant nécessaires à l’utilisation de nos services
     
-3.  **Comment vos données à caractère personnel sont-elles collectées ?**
+3. **Comment vos données à caractère personnel sont-elles collectées ?**
     
     **Interactions directes**. Vous pouvez nous fournir les Données liées à votre identité et vos coordonnées ainsi que vos Données financières et transactionnelles en remplissant des formulaires ou en échangeant avec nous. Cela comprend les données à caractère personnel que vous nous communiquez lorsque vous :
     
-    *   naviguez sur notre Site Internet ;
-    *   utilisez nos Véhicules ;
-    *   utilisez notre Application ;
-    *   demandez à ce que des communications marketing vous soient envoyées ;
-    *   participez à un concours, profitez d’une promotion ou répondez à une enquête ; ou
-    *   nous faites part de vos commentaires ou nous contactez.
+    * naviguez sur notre Site Internet ;
+    * utilisez nos Véhicules ;
+    * utilisez notre Application ;
+    * demandez à ce que des communications marketing vous soient envoyées ;
+    * participez à un concours, profitez d’une promotion ou répondez à une enquête ; ou
+    * nous faites part de vos commentaires ou nous contactez.
     
     **Technologies ou interactions automatisées**. Lorsque vous interagissez avec notre Site Internet et l’Application et lorsque vous utilisez nos Véhicules, nous collectons automatiquement des Données techniques et d’utilisation concernant votre navigation, votre appareil et votre trajet à bord du Véhicule. Nous collectons lesdites données à caractère personnel en utilisant des capteurs des télémétrie, des cookies, le stockage local et d’autres technologies, qu’elles soient exclusives ou fournies par des tiers. Veuillez vous reporter à notre politique relative aux cookies [https://ridedott.com/fr/cookies](https://ridedott.com/fr/cookies) pour plus d’informations concernant la collecte de données automatisée sur notre Site Internet.
     
-4.  **Comment utilisons-nous vos données à caractère personnel ?**
+4. **Comment utilisons-nous vos données à caractère personnel ?**
     
     Vous trouverez ci-dessous une description de toutes les façons dont nous envisageons d’utiliser vos données à caractère personnel ainsi que les bases juridiques sur lesquelles nous nous appuierons à ces fins. Le cas échéant, nous avons également indiqué nos intérêts légitimes.
     
@@ -60,7 +60,7 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     | **PUBLICITÉ** | Vous proposer des contenus et publicités pertinents sur le Site Internet et l’Application, y compris des suggestions et recommandations concernant des produits ou services susceptibles de vous intéresser, évaluer ou comprendre l’efficacité des publicités que nous vous proposons et toutes autres activités similaires. Cela comprend le partage de données à caractère personnel avec nos partenaires publicitaires. | Données liées à votre identité et vos coordonnées  <br>Données techniques et d’utilisation  <br>Données de profil | Traitement nécessaire aux fins de nos intérêts légitimes (définir et identifier les types de clients actuels et futurs pour nos offres, développer notre stratégie marketing en conséquence et développer notre entreprise)  <br>Si le droit exige que nous nous basions sur votre consentement pour ce type de traitement, nous vous demanderons d’accepter le traitement à des fins de publicité. |
     | **PROSPECTION** | Pour vous permettre de profiter des promotions concernant nos produits et de bénéficier de diverses remises, pour promouvoir nos services de manière plus générale et pour toutes autres activités similaires. Cela comprend le partage de données à caractère personnel avec nos partenaires commerciaux. | Données liées à votre identité et vos coordonnées  <br>Données techniques et d’utilisation  <br>Données de profil | Traitement nécessaire aux fins de nos intérêts légitimes (pour promouvoir nos services).  <br>Si le droit exige que nous nous basions sur votre consentement pour ce type de traitement, nous vous demanderons d’accepter le traitement à des fins de prospection. |
     
-5.  **Divulgation de vos données à caractère personnel**
+5. **Divulgation de vos données à caractère personnel**
     
     **Nos fournisseurs**
     
@@ -96,9 +96,9 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     Les données qui seront partagées comprennent :
     
-    1.  Des données pseudonymisées : Détails de la longueur, de la durée et du lieu des déplacements. Veuillez noter que ni le DfT ni son contractant de recherche ne seront en mesure d'attribuer ces données à des données personnellement identifiables.
+    1. Des données pseudonymisées : Détails de la longueur, de la durée et du lieu des déplacements. Veuillez noter que ni le DfT ni son contractant de recherche ne seront en mesure d'attribuer ces données à des données personnellement identifiables.
         
-    2.  Données personnelles, dont certaines pourront être attribuées par le contractant de recherche du DfT aux coordonnées d'un utilisateur (dans le seul but d'une recherche de suivi) : Le mois et le jour de la semaine, ainsi qu'une tranche horaire (c'est-à-dire un mercredi de mars, entre 7 et 12 heures) pour le déplacement ; la durée et la distance du déplacement ; et la zone (le ONS Lower Super Output Area qui correspond au point de départ d'un déplacement). Les opérateurs, y compris Dott, partageront également les réponses que vous pourrez fournir aux questions posées après chaque voyage.
+    2. Données personnelles, dont certaines pourront être attribuées par le contractant de recherche du DfT aux coordonnées d'un utilisateur (dans le seul but d'une recherche de suivi) : Le mois et le jour de la semaine, ainsi qu'une tranche horaire (c'est-à-dire un mercredi de mars, entre 7 et 12 heures) pour le déplacement ; la durée et la distance du déplacement ; et la zone (le ONS Lower Super Output Area qui correspond au point de départ d'un déplacement). Les opérateurs, y compris Dott, partageront également les réponses que vous pourrez fournir aux questions posées après chaque voyage.
         
     
     Le DfT et Dott prennent la protection des données au sérieux et veillent à ce que la collecte de ces données soit conforme à la législation sur la protection des données.
@@ -109,28 +109,28 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     De plus amples détails à ce sujet seront fournis avec l'enquête.
     
-6.  **Cookies**
+6. **Cookies**
     
     Le plus souvent, les cookies sont utilisés par des tiers et cela implique généralement la divulgation de Données techniques et d’utilisation, qui sont souvent anonymisées. Veuillez utiliser notre bannière relative aux cookies pour accepter ou refuser tous les cookies qui ne sont pas essentiels. Pour en apprendre davantage sur les cookies que nous utilisons, veuillez vous reporter au site [https://ridedott.com/fr/cookies](https://ridedott.com/fr/cookies).
     
-7.  **Transferts internationaux**
+7. **Transferts internationaux**
     
     De nombreux tiers avec lesquels nous faisons affaire sont établis en dehors de l’Espace économique européen (EEE) ; le traitement de vos données à caractère personnel par ces derniers implique donc un transfert de données hors de l’EEE. Dès lors que nous transférons vos données à caractère personnel hors de l’EEE, nous veillons à ce qu’un niveau de protection similaire soit garanti en veillant à mettre en place au moins une des mesures suivantes :
     
-    *   Nous sommes susceptibles de transférer vos données à caractère personnel vers des pays garantissant un niveau adéquat de protection des données à caractère personnel selon la Commission européenne. Pour en apprendre davantage, veuillez vous reporter au site Internet de la Commission européenne : [Adéquation du niveau de protection des données à caractère personnel dans les pays hors de l’UE](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) ; ou
+    * Nous sommes susceptibles de transférer vos données à caractère personnel vers des pays garantissant un niveau adéquat de protection des données à caractère personnel selon la Commission européenne. Pour en apprendre davantage, veuillez vous reporter au site Internet de la Commission européenne : [Adéquation du niveau de protection des données à caractère personnel dans les pays hors de l’UE](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) ; ou
         
-    *   Nous sommes susceptibles de conclure des contrats spécifiques, approuvés par la Commission européenne, garantissant un niveau de protection des données à caractère personnel semblable à celui garanti en Europe. Pour en apprendre davantage, veuillez vous reporter au site Internet de la Commission européenne : [Modèles de contrats pour le transfert de données à caractère personnel vers des pays tiers](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
+    * Nous sommes susceptibles de conclure des contrats spécifiques, approuvés par la Commission européenne, garantissant un niveau de protection des données à caractère personnel semblable à celui garanti en Europe. Pour en apprendre davantage, veuillez vous reporter au site Internet de la Commission européenne : [Modèles de contrats pour le transfert de données à caractère personnel vers des pays tiers](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en).
         
     
     Veuillez nous contacter si vous souhaitez en apprendre davantage sur le mécanisme spécifique que nous utilisons en cas de transfert de vos données à caractère personnel hors de l’EEE.
     
-8.  **Sécurité des données**
+8. **Sécurité des données**
     
     Nous avons mis en place des mesures de sécurité appropriées afin d’éviter que vos données à caractère personnel soient accidentellement perdues, utilisées ou consultées de manière non autorisée, altérées ou divulguées. En outre, nous limitons l’accès à vos données à caractère personnel à nos employés, représentants, sous-traitants et autres tiers qui ont besoin de les connaître aux fins de l’exercice de leurs fonctions. Ces derniers ne traiteront vos données à caractère personnel que sur instruction de notre part et sont soumis à une obligation de confidentialité.
     
     Nous avons mis en place des procédures pour traiter toute violation de données à caractère personnel présumée, et nous vous informerons, ainsi que tout organisme de réglementation compétent, en cas de violation si nous sommes légalement tenus de le faire.
     
-9.  **Conservation des données**
+9. **Conservation des données**
     
     **Pendant combien de temps utilisons-nous vos données à caractère personnel ?**
     
@@ -142,7 +142,7 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     Veuillez noter que nous sommes légalement tenus de conserver des informations de base concernant nos clients pendant sept ans après le moment où ils cessent d’être des clients à des fins fiscales.
     
-10.  **Prise de décision automatisée**
+10. **Prise de décision automatisée**
     
     Nous avons recours à la prise de décision automatisée, y compris l'utilisation du profilage, lorsque nous effectuons des vérifications de l'âge. Les vérifications de l'âge ne sont demandées que lorsque les villes l'exigent; si tel est le cas, vous serez invité à les effectuer dans votre écran. Notre système vérifiera les informations figurant sur votre pièce d'identité (il peut également s'agir d'un passeport ou d'un permis de conduit) pour vérifier votre date de naissance et sa validité, tout en comparant la photo figurant sur votre pièce d'identité avec la photo réelle que vous soumettez. Ensemble, ils détermineront s'il s'agit de la même personne sur la photo que sur la pièce d'identité.
     
@@ -150,11 +150,11 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     Si vous souhaitez vous opposer à cette prise de décision automatique,veuillez contacter [privacy@ridedott.com](mailto:privacy@ridedott.com).
     
-11.  **Inscription sur liste noire**
+11. **Inscription sur liste noire**
     
     Dott peut mettre un compte ou une méthode de paiement sur liste noire lorsqu'elle détermine qu'une activité frauduleuse y est liée. Les comptes et les méthodes de paiement qui ont été mis sur liste noire sont conservés dans un fichier afin d'éviter toute transaction frauduleuse future. Cette liste n'est pas partagée avec des tiers et est uniquement destinée à un usage interne. Le but de cette activité est de prévenir les transactions frauduleuses et de protéger nos utilisateurs. Si vous souhaitez en savoir plus à ce sujet, veuillez contacter [privacy@ridedott.com](mailto:privacy@ridedott.com).
     
-12.  **Vos droits légaux**
+12. **Vos droits légaux**
     
     Dott s’engage à respecter les droits légaux dont ses clients disposent en matière de protection des données. Si vous nous envoyez une demande concernant vos droits en vertu de loi relative à la protection des données, nous vous répondrons dans un délai d’un mois à compter de la date de réception et tenterons de donner suite à ladite demande dans le même délai. Le cas échéant, il est possible que ce délai soit prolongé de deux mois au maximum si la demande est complexe. Veuillez contacter privacy@ridedott.com pour exercer les droits suivants en lien avec les informations à caractère personnel que Dott traite à votre sujet :
     
@@ -170,7 +170,7 @@ Nos services ne sont pas destinés aux enfants de moins de 18 ans ou à toute au
     
     Pour avoir toutes les informations sur vos droits obligatoires, veuillez consulter la page Web de l’autorité de protection des données dans votre pays de résidence :
     
-    *   Pour les utilisateurs de l'Espace économique européen, vous pouvez trouver votre DPA [ici](https://edpb.europa.eu/about-edpb/about-edpb/members_fr).
-    *   Pour les utilisateurs du Royaume-Uni, vous pouvez contacter l'Information Commissioner's Office [ici](https://ico.org.uk/).
+    * Pour les utilisateurs de l'Espace économique européen, vous pouvez trouver votre DPA [ici](https://edpb.europa.eu/about-edpb/about-edpb/members_fr).
+    * Pour les utilisateurs du Royaume-Uni, vous pouvez contacter l'Information Commissioner's Office [ici](https://ico.org.uk/).
     
     En cas d’éventuelle préoccupation de votre part, nous aimerions avoir la possibilité de vous répondre avant que vous ne contactiez les autorités locales compétentes. Nous vous prions donc de nous contacter en premier lieu, en envoyant un courrier électronique à l’adresse [privacy@ridedott.com](mailto:privacy@ridedott.com).
