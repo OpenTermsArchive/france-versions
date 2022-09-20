@@ -49,13 +49,13 @@ désigne un Billet émis pour vous conjointement avec un autre Billet et dont l�
 
 désigne un des instruments applicables suivants:
 
-*   la Convention pour l´unification de certaines règles relatives au transport aérien international, signée à Varsovie, le 12 octobre 1929 (dénommée ci-après Convention de Varsovie);
-*   la Convention de Varsovie comme modifiée à La Haye, le 28 septembre 1955;
-*   la Convention de Varsovie comme modifiée par le Protocole supplémentaire de Montréal n° 1 (1975);
-*   la Convention de Varsovie comme modifiée par le Protocole de La Haye et par le Protocole supplémentaire de Montréal n° 2 (1975);
-*   la Convention de Varsovie comme modifiée par le Protocole de La Haye et par le Protocole supplémentaire de Montréal n° 4 (1975);
-*   la Convention supplémentaire de Guadalajara (1961);
-*   la Convention de Montréal (1999).
+* la Convention pour l´unification de certaines règles relatives au transport aérien international, signée à Varsovie, le 12 octobre 1929 (dénommée ci-après Convention de Varsovie);
+* la Convention de Varsovie comme modifiée à La Haye, le 28 septembre 1955;
+* la Convention de Varsovie comme modifiée par le Protocole supplémentaire de Montréal n° 1 (1975);
+* la Convention de Varsovie comme modifiée par le Protocole de La Haye et par le Protocole supplémentaire de Montréal n° 2 (1975);
+* la Convention de Varsovie comme modifiée par le Protocole de La Haye et par le Protocole supplémentaire de Montréal n° 4 (1975);
+* la Convention supplémentaire de Guadalajara (1961);
+* la Convention de Montréal (1999).
 
 "COUPON" 
 
@@ -509,9 +509,9 @@ La responsabilité de chaque Transporteur impliqué dans votre voyage est fixée
 
 Les règles applicables qui dictent nos responsabilités sont fournies par:
 
-*   la Convention dans la mesure où elle s'applique;
-*   la réglementation de la CE 2027/97 comme modifiée par les réglementations de la CE 889/2002 (lorsqu'une telle modification est effective); et
-*   dans la mesure où elles ne contredisent pas la loi nationale en vigueur, mentionnée ci-dessus.
+* la Convention dans la mesure où elle s'applique;
+* la réglementation de la CE 2027/97 comme modifiée par les réglementations de la CE 889/2002 (lorsqu'une telle modification est effective); et
+* dans la mesure où elles ne contredisent pas la loi nationale en vigueur, mentionnée ci-dessus.
 
 **15.3 MORT OU BLESSURE DES PASSAGERS**
 
@@ -533,8 +533,8 @@ Les règles applicables qui dictent nos responsabilités sont fournies par:
 
 15.4.1 Excepté les actes ou les omissions d'actes avec l'intention de causer un dommage ou imprudemment et avec la conscience qu'un dommage pourrait en résulter, notre responsabilité en cas de dommage sera limitée aux dispositions stipulées dans la convention:
 
-*   Au cas où la Convention de Varsovie s'applique, la limite sera de 17 DTS/Kg pour les Bagages Enregistrés et 332 DTS pour les Bagages Non Enregistrés.
-*   Au cas où la Convention de Montréal s'applique, la limite sera de 1,288 DTP par Passager (pour les Bagages Enregistrés et les Bagages Non Enregistrés), à moins qu'une autre limite de responsabilité ne soit applicable, selon la loi en vigueur. Si le poids de votre bagage n'est pas précisé sur le Bon de Transport du Bagage, il est présumé ne pas excéder la franchise bagages autorisée pour la classe de transport concernée.
+* Au cas où la Convention de Varsovie s'applique, la limite sera de 17 DTS/Kg pour les Bagages Enregistrés et 332 DTS pour les Bagages Non Enregistrés.
+* Au cas où la Convention de Montréal s'applique, la limite sera de 1,288 DTP par Passager (pour les Bagages Enregistrés et les Bagages Non Enregistrés), à moins qu'une autre limite de responsabilité ne soit applicable, selon la loi en vigueur. Si le poids de votre bagage n'est pas précisé sur le Bon de Transport du Bagage, il est présumé ne pas excéder la franchise bagages autorisée pour la classe de transport concernée.
 
 15.4.1 Si, au moment où vos bagages sont livrés au Transporteur, vous avez fait une déclaration spéciale d'intérêt à la livraison jusqu'à destination et vous avez payé le montant supplémentaire, la responsabilité du Transporteur se limitera au montant équivalent au montant déclaré, sauf s'il est prouvé que le montant est supérieur à votre intérêt actuel à la livraison jusqu'à destination.
 
@@ -578,9 +578,9 @@ ARTICLE 17 – AUTRES CONDITIONS
 
 Votre transport et celui de vos Bagages est exécuté en conformité avec les réglementations et conditions applicables ou adoptées par nous. Ces réglementations et conditions sont sujettes à des modifications périodiques. Elles concernent, entre autres :
 
-1.  le transport de mineurs non accompagnés, de femmes enceintes, de passagers malades;
-2.  les restrictions portant sur l’utilisation d’appareils et d’articles électroniques;
-3.  la consommation de boissons alcoolisées à bord.
+1. le transport de mineurs non accompagnés, de femmes enceintes, de passagers malades;
+2. les restrictions portant sur l’utilisation d’appareils et d’articles électroniques;
+3. la consommation de boissons alcoolisées à bord.
 
 Réglementations disponibles sur demande.
 
