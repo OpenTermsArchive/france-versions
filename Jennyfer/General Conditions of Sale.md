@@ -12,7 +12,7 @@ JENNYFER se réserve le droit de modifier à tout moment et sans préavis les CG
 
 En effectuant une Commande sur le Site, le Client déclare et reconnait accepter pleinement et sans réserve les CGV. 
 
-**2. ARTICLES** 
+**2. ARTICLES**  
 
 **2.1. Caractéristiques des Articles**
 
@@ -27,7 +27,7 @@ Les Articles sont décrits et présentés avec la plus grande exactitude possibl
 
 La disponibilité des Articles ne peut être garantie. En cas d’Article devenu indisponible après la confirmation de la commande, JENNYFER informera le Client par email de l’indisponibilité d’un ou plusieurs Articles. Le Client sera remboursé du montant des Articles indisponibles, et des frais de livraison si l’intégralité de sa commande est indisponible, dans un délai maximum de quatorze (14) jours suivant l’information donnée au Client de l’indisponibilité totale ou partielle des Articles. Le remboursement des Articles achetés en utilisant la e-carte cadeau JENNYFER sera effectué conformément aux modalités de l’Article 6.  
 
-**3. COMMANDE** 
+**3. COMMANDE** 
 
 **3.1.** **Compte client**
 
@@ -55,7 +55,7 @@ Le Client garantit à JENNYFER disposer des autorisations nécessaires à l’us
 
 En cas de défaut de paiement, d’adresse de facturation erronée ou de tout problème du fait du Client se rapportant au paiement de la Commande, JENNYFER se réserve le droit de bloquer cette dernière jusqu’à la parfaite résolution du litige. 
 
-**4. PRIX DES ARTICLES** 
+**4. PRIX DES ARTICLES** 
 
 **4.1. Information sur les prix**
 
@@ -131,7 +131,7 @@ Les achats effectués en utilisant la e-carte cadeau JENNYFER font l’objet d�
 
 Pour les Articles livrés en France, le Client a également la possibilité de retourner les Articles dans l’un des magasins JENNYFER en France métropolitaine y compris la Corse (hors les magasins de Cahors et du Puy en Velay et corners en grands magasins), dans un délai de 30 (trente) jours à compter de la date de livraison. Il devra présenter l’email de confirmation de commande ainsi qu’une pièce d’identité à son nom ou au nom de la personne ayant effectuée la commande.
 
-**7. VERIFICATION DE LA COMMANDE** 
+**7. VERIFICATION DE LA COMMANDE** 
 
 Au moment de la réception de la commande, le Client doit vérifier que les Articles livrés sont conformes à la commande.
 
@@ -153,9 +153,9 @@ Lorsqu'il agit en garantie légale de conformité, le Client :
 
  
 
-*   \- bénéficie d'un délai de deux ans à compter de la délivrance de l’Article pour agir ;
-*   \- peut choisir entre la réparation ou le remplacement de l’Article, sous réserve des conditions de coût prévues par l'article L. 217-9 du code de la consommation ;
-*   \- est dispensé de rapporter la preuve de l'existence du défaut de conformité de l’Article durant les vingt-quatre mois suivant la délivrance de l’Article.
+* \- bénéficie d'un délai de deux ans à compter de la délivrance de l’Article pour agir ;
+* \- peut choisir entre la réparation ou le remplacement de l’Article, sous réserve des conditions de coût prévues par l'article L. 217-9 du code de la consommation ;
+* \- est dispensé de rapporter la preuve de l'existence du défaut de conformité de l’Article durant les vingt-quatre mois suivant la délivrance de l’Article.
 
  
 
@@ -195,7 +195,7 @@ JENNYFER informera le Client de manière claire et sans ambigüité des Données
 
 A toutes fins utiles, JENNYFER attire l’attention du Client sur le fait que les Données Personnelles communiquées dans le cadre d’une commande sont indispensables au traitement de cette commande. Par conséquent, toute Donnée Personnelle erronée ou tout refus de communication de Donnée Personnelle pourra conduire JENNYFER à ne pas confirmer la commande.
 
-**9.2. Finalité des traitements** 
+**9.2. Finalité des traitements** 
 
 Les Données Personnelles sont exclusivement collectées par JENNYFER à des fins de gestion administrative et commerciale (notamment exécution et livraison de la commande). Avec l’accord du Client, les Données Personnelles peuvent également être utilisées à des fins de prospection commerciale.
 
@@ -250,7 +250,7 @@ Le Client peut également solliciter le règlement extrajudiciaire du litige sur
 
 La confirmation de commande fait l’objet d’un archivage. Elle est enregistrée sur les registres informatisés conservés dans le système d’information de JENNYFER et/ou de ses partenaires, et peut être utilisée à titre de preuve conformément à l’article 1366 du Code civil.
 
-**14. LOI APPLICABLE** 
+**14. LOI APPLICABLE** 
 
 Les CGV et le Contrat sont exclusivement soumis au droit français 
 
