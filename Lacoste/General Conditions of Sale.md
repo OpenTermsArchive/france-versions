@@ -121,8 +121,8 @@ Création d'un compte personnel
 
 Vous pouvez au choix :
 
-*   Vous identifier via votre compte personnel si vous en possédez déjà un sur notre Site Web
-*   Renseigner les informations demandées par nos conseillers nécessaires à toute vente suivie d'une livraison et définir avec votre conseiller téléphonique un numéro client si vous n'avez pas de compte web actif. Ces informations seront conservées dans notre base de données clients. Nous utiliserons les données conformément à notre Déclaration de Protection de la Vie privée que vous pouvez consulter [ici](https://www.lacoste.com/fr/privacy.html). Nous vous remercions de faire en sorte que les informations que vous nous communiquez soient exactes et complètes et de nous informer de toute modification éventuelle.
+* Vous identifier via votre compte personnel si vous en possédez déjà un sur notre Site Web
+* Renseigner les informations demandées par nos conseillers nécessaires à toute vente suivie d'une livraison et définir avec votre conseiller téléphonique un numéro client si vous n'avez pas de compte web actif. Ces informations seront conservées dans notre base de données clients. Nous utiliserons les données conformément à notre Déclaration de Protection de la Vie privée que vous pouvez consulter [ici](https://www.lacoste.com/fr/privacy.html). Nous vous remercions de faire en sorte que les informations que vous nous communiquez soient exactes et complètes et de nous informer de toute modification éventuelle.
 
 Livraison des produits
 
@@ -156,9 +156,9 @@ Pour les Livraisons en boutique, un courriel vous sera envoyé dès l'arrivée d
 
 4\. Au cas où nous serions dans l'impossibilité de respecter le délai de livraison initialement prévu et figurant dans le Courriel de Livraison, nous vous en informerons dès que possible, en indiquant en même temps un nouveau délai de livraison estimé, sans encourir de responsabilité à votre égard, étant toutefois précisé que vous pouvez annuler votre commande si le délai total de livraison dépasse trente (30) jours. Pour annuler votre commande, vous devez nous envoyer un courriel via le formulaire de contact https://www.lacoste.com/fr/contactus. Nous recréditerons alors la carte bancaire ou le compte Paypal utilisé pour passer la commande, dans les quatorze (14) jours de la réception du courriel notifiant son annulation. Après une telle période de quatorze (14) jours, le montant de la commande sera majoré de :
 
-*   10%, si le remboursement à lieu entre le 15ème et le 30ème jour suivant la demande d'annulation ;
-*   20 % si le remboursement à lieu entre le 31ème et le 60ème jour suivant la demande d'annulation ;
-*   50% si le remboursement à lieu après le 61ème jour.
+* 10%, si le remboursement à lieu entre le 15ème et le 30ème jour suivant la demande d'annulation ;
+* 20 % si le remboursement à lieu entre le 31ème et le 60ème jour suivant la demande d'annulation ;
+* 50% si le remboursement à lieu après le 61ème jour.
 
   
 
@@ -188,12 +188,12 @@ Les prix indiqués sur le Site Web sont en euros et n'incluent pas les frais d'e
 
 Nos frais d'expédition sont les suivants :
 
-*   Livraison Standard : € 4,95 offerte dès 80€ d'achat
-*   Livraison Express : € 9,95
-*   Livraison en point relais : € 4,95
-*   Livraison en 48H en Boutique Lacoste : € 0
-*   «Retrait 1H» en Boutique Lacoste : € 0
-*   Livraison par coursier : € 12,90
+* Livraison Standard : € 4,95 offerte dès 80€ d'achat
+* Livraison Express : € 9,95
+* Livraison en point relais : € 4,95
+* Livraison en 48H en Boutique Lacoste : € 0
+* «Retrait 1H» en Boutique Lacoste : € 0
+* Livraison par coursier : € 12,90
 
   
 
@@ -313,10 +313,10 @@ Lorsque la commande est effectuée sur le site www.lacoste.com ou par téléphon
 
 Pour tout achat effectué sur le site www.lacoste.com ou par téléphone via un conseiller du Service Client, et que vous avez choisi le mode de livraison «Retrait 1H» ou « Livraison par coursier », les demandes de rétractation et produits afférents, devront être, au choix du client :
 
-*   soit retournés physiquement dans la même boutique Lacoste que celle où le Retrait/la Livraison a eu lieu physiquement,
-*   soit renvoyer votre colis par voie postale à destination de notre entrepôt, grâce à l’étiquette de retour gratuite :
-*   en effectuant votre déclaration de retour via votre compte client « mes commandes et retours web » sur le site Lacoste : www.lacoste.com
-*   ou en effectuant votre déclaration de retour via l’email d’expédition de votre commande en cliquant sur «effectuer mon retour».
+* soit retournés physiquement dans la même boutique Lacoste que celle où le Retrait/la Livraison a eu lieu physiquement,
+* soit renvoyer votre colis par voie postale à destination de notre entrepôt, grâce à l’étiquette de retour gratuite :
+* en effectuant votre déclaration de retour via votre compte client « mes commandes et retours web » sur le site Lacoste : www.lacoste.com
+* ou en effectuant votre déclaration de retour via l’email d’expédition de votre commande en cliquant sur «effectuer mon retour».
 
   
 
@@ -334,12 +334,12 @@ Pour tout achat effectué par téléphone ou visioconférence via un conseiller 
 
 A défaut de remboursement sous ce délai, les sommes que nous vous devrions produiront intérêts aux conditions suivantes :
 
-*   10 jours après l'expiration du délai : taux d'intérêt légal ;
-*   10-20 jours de retard : taux d'intérêt de 5% ;
-*   20-30 jours de retard : taux d'intérêt de 10% ;
-*   30-60 jours de retard : taux d'intérêt de 20% ;
-*   60-90 jours de retard : taux d'intérêt de 50% ;
-*   Au-delà de 90 jours : 5 points supplémentaires par nouveau mois de retard.
+* 10 jours après l'expiration du délai : taux d'intérêt légal ;
+* 10-20 jours de retard : taux d'intérêt de 5% ;
+* 20-30 jours de retard : taux d'intérêt de 10% ;
+* 30-60 jours de retard : taux d'intérêt de 20% ;
+* 60-90 jours de retard : taux d'intérêt de 50% ;
+* Au-delà de 90 jours : 5 points supplémentaires par nouveau mois de retard.
 
   
 
@@ -365,9 +365,9 @@ Restrictions applicables aux produits personnalisés et aux messages personnalis
 
 3\. Toutefois, outre les limites relatives au droit de rétractation visées à l’article 10.3, nous nous réservons le droit de refuser votre demande, si celle-ci est :
 
-*   Inappropriée ou contraire à l'ordre public ou aux bonnes mœurs,
-*   Incompatible avec l'image de marque des produits Lacoste,
-*   Constitutive d'une atteinte aux droits des marques ou aux droits d'auteur d'un tiers.
+* Inappropriée ou contraire à l'ordre public ou aux bonnes mœurs,
+* Incompatible avec l'image de marque des produits Lacoste,
+* Constitutive d'une atteinte aux droits des marques ou aux droits d'auteur d'un tiers.
 
   
 
@@ -389,9 +389,9 @@ Restrictions applicables aux produits personnalisés et aux messages personnalis
 
 2\. Toutefois, nous nous réservons le droit d’annuler votre demande si nous estimons votre message comme :
 
-*   Inapproprié ou contraire à l'ordre public ou aux bonnes mœurs,
-*   Incompatible avec l'image de marque des produits Lacoste,
-*   Constitutif d'une atteinte aux droits de tiers, aux droits des marques ou aux droits d'auteurs.
+* Inapproprié ou contraire à l'ordre public ou aux bonnes mœurs,
+* Incompatible avec l'image de marque des produits Lacoste,
+* Constitutif d'une atteinte aux droits de tiers, aux droits des marques ou aux droits d'auteurs.
 
   
 
@@ -409,8 +409,8 @@ La garantie légale de conformité (articles L.217-4 et suivants du Code de la c
 
 Si vos produits sont non conformes (par exemple s'ils ne correspondent pas à la description donnée sur le site ou à votre commande), vous bénéficiez d'un délai de deux ans à compter de la délivrance du bien pour contacter notre Service Clientèle par courriel via le formulaire de contact https://www.lacoste.com/fr/contactus, ou par courrier postal à l'adresse suivante : LACOSTE E-COMMERCE, 31-37 boulevard de Montmorency, 75016 Paris, France, et nous retourner les produits non conformes. Nous vous renverrons alors des produits de remplacement, lorsque ceux-ci sont disponibles. Si nous ne sommes pas en mesure de remplacer les produits non conformes dans un délai de trente (30) jours, vous pouvez :
 
-*   demander un remboursement intégral des produits non conformes ou
-*   conserver les produits non conformes et nous demander une réduction d'une partie du prix, qui sera déterminé au cas par cas.
+* demander un remboursement intégral des produits non conformes ou
+* conserver les produits non conformes et nous demander une réduction d'une partie du prix, qui sera déterminé au cas par cas.
 
   
 
