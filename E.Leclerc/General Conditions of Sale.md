@@ -266,35 +266,35 @@ Oney Bank se réserve le droit d’accepter ou de refuser la demande de financem
 
 Le paiement en 3 ou 4 fois par carte bancaire permet au Client de régler la commande effectuée sur le Site de la façon suivante :
 
- - un apport obligatoire, débité́ le jour de la confirmation de l’expédition de la commande correspondant à̀ un tiers ou à̀ un quart de la commande,
+    - un apport obligatoire, débité́ le jour de la confirmation de l’expédition de la commande correspondant à̀ un tiers ou à̀ un quart de la commande,
 
- - deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,45% du montant total de la commande pour un paiement en 3 fois ou à 2,2 % pour un paiement en 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un paiement en 4 fois).
+    - deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le paiement en 3 fois et à 30, 60 et 90 jours après pour le paiement en 4 fois, lesquelles comprennent le cas échéant des frais correspondants à 1,45% du montant total de la commande pour un paiement en 3 fois ou à 2,2 % pour un paiement en 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un paiement en 4 fois).
 
   
 **Exemple de paiement en 3 fois :**
 
- - sans frais : Pour un achat de 150€, apport de 50€ puis 2 mensualités de 50€. Crédit sur 2 mois au TAEG fixe de 0%. Coût du financement 0€.
+    - sans frais : Pour un achat de 150€, apport de 50€ puis 2 mensualités de 50€. Crédit sur 2 mois au TAEG fixe de 0%. Coût du financement 0€.
 
- - avec frais : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d’une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 15€ maximum.
+    - avec frais : Pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€. Crédit d’une durée de 2 mois au TAEG fixe de 19,31%. Coût du financement : 2,18€ dans la limite de 15€ maximum.
 
 **Exemple de paiement en 4 fois :**
 
- - sans frais : Pour un achat de 400€, apport de 100€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 0%. Coût du financement 0€.
+    - sans frais : Pour un achat de 400€, apport de 100€ puis 3 mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 0%. Coût du financement 0€.
 
- - avec frais : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€.
+    - avec frais : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€.
 
 Crédit sur 3 mois au TAEG fixe de 19,61%. Coût du financement : 8,80€ dans la limite de 30€ maximum.
 
   
 **Conditions particulières pour les offres promotionnelles ponctuelles :**
 
- - Pour le paiement en 3 fois sans frais, le coût du financement est de 0% du montant total de la commande.
+    - Pour le paiement en 3 fois sans frais, le coût du financement est de 0% du montant total de la commande.
 
- Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d’une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
+    Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d’une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
 
- - Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant total de la commande.
+    - Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant total de la commande.
 
- Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d’une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
+    Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d’une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
 
   
 
@@ -343,9 +343,9 @@ b. Dans le cadre d'une livraison remise avec signature, le Client recevra une no
 
 Le Client pourra planifier :
 
- - Une nouvelle livraison à la date de son choix (dans un délai de 6 jours maximum),
+    - Une nouvelle livraison à la date de son choix (dans un délai de 6 jours maximum),
 
- - Un dépôt de son colis dans un bureau de poste ou point de retrait de son choix. Dans ce cas, un e-mail lui sera envoyé pour l'informer de la mise à disposition du colis en bureau de poste et un e-mail de relance lui sera envoyé au bout de 6 jours calendaires en cas de non retrait.
+    - Un dépôt de son colis dans un bureau de poste ou point de retrait de son choix. Dans ce cas, un e-mail lui sera envoyé pour l'informer de la mise à disposition du colis en bureau de poste et un e-mail de relance lui sera envoyé au bout de 6 jours calendaires en cas de non retrait.
 
 La reprogrammation de la livraison peut être réalisée en se connectant sur colissimo.fr/monchoix.
 
@@ -367,13 +367,13 @@ Le jour de la prise en charge du colis par le transporteur, un e-mail est envoy�
 
 A cette fin le Client pourra se connecter sur le site internet de Chronopost, jusqu’à 23H59 le jour de l’expédition de la commande pour effectuer les modifications suivantes :
 
- - Un complément d’adresse et/ou des modalités d’accès à son domicile (digicode, étage, etc.)
+    - Un complément d’adresse et/ou des modalités d’accès à son domicile (digicode, étage, etc.)
 
- - Une modification de la date de livraison (dans les 6 jours à venir)
+    - Une modification de la date de livraison (dans les 6 jours à venir)
 
- - Un choix de dépôt de son colis en point relais
+    - Un choix de dépôt de son colis en point relais
 
- - Une demande de livraison chez un tiers (voisin ou gardien), il lui sera alors demandé de renseigner les noms et coordonnées de la personne à qui il confie son colis.
+    - Une demande de livraison chez un tiers (voisin ou gardien), il lui sera alors demandé de renseigner les noms et coordonnées de la personne à qui il confie son colis.
 
 Le jour de la livraison, le Client recevra un e-mail et un SMS annonçant un créneau horaire de 2h pour la livraison.
 
@@ -418,9 +418,9 @@ En cas de retard de livraison, la commande n'est pas annulée.
 
 En l'absence de livraison à la date prévue, ou à défaut, plus de trente (30) jours après la conclusion de la commande, le Client peut exiger de L COMMERCE de lui livrer le bien ou d'exécuter la prestation dans un délai supplémentaire raisonnable. Le Client peut le faire :
 
- • soit par lettre recommandée avec demande d'avis de réception,
+    • soit par lettre recommandée avec demande d'avis de réception,
 
- • soit par écrit sur un autre support durable (mail par exemple).
+    • soit par écrit sur un autre support durable (mail par exemple).
 
 Si malgré tout la livraison ou l'exécution n'a pas lieu, le Client peut annuler la commande de la même manière (c'est-à-dire par lettre recommandée avec demande d'avis de réception, ou par écrit sur un support durable).
 
@@ -534,23 +534,23 @@ Le retour d'un produit porteur d'un Ticket E.Leclerc entrainera le remboursement
 
 Conformément à la règlementation en vigueur, le droit de rétractation ne peut être exercé pour :
 
-\- les enregistrements audio, vidéo, les jeux vidéos physiques ou les logiciels informatiques descellés par le Client ; de même, le droit de rétractation ne peut être exercé pour les coffrets cadeaux descellés par le Client (pour plus d'information, voir site de l'éditeur du coffret),
+\- les enregistrements audio, vidéo, les jeux vidéos physiques ou les logiciels informatiques descellés par le Client ; de même, le droit de rétractation ne peut être exercé pour les coffrets cadeaux descellés par le Client (pour plus d'information, voir site de l'éditeur du coffret),
 
 \- les biens confectionnés selon les spécifications du client ou personnalisés,
 
-\- les biens descellés par le Client et ne pouvant être renvoyés pour des raisons d’hygiène ou de protection de la santé,
+\- les biens descellés par le Client et ne pouvant être renvoyés pour des raisons d’hygiène ou de protection de la santé,
 
-\- la fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après accord préalable exprès du Client et renoncement exprès à son droit de rétractation,
+\- la fourniture de services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après accord préalable exprès du Client et renoncement exprès à son droit de rétractation,
 
 \- la fourniture de biens susceptibles de se détériorer ou de se périmer rapidement,
 
-\- la fourniture de biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles,
+\- la fourniture de biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles,
 
-\- la fourniture de boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du professionnel,
+\- la fourniture de boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du professionnel,
 
-\- la fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications,
+\- la fourniture d'un journal, d'un périodique ou d'un magazine, sauf pour les contrats d'abonnement à ces publications,
 
-\- la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
+\- la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
 
   
 
@@ -606,11 +606,11 @@ Pour tout achat d'un produit non volumineux, le Client pourra déposer les EEE u
 
 Il est également possible pour le Client d'opter pour les différents systèmes de collecte de proximité existants tels que :
 
- - les collectes et déchetteries municipales,
+    - les collectes et déchetteries municipales,
 
- - les acteurs de l'économie sociale (Emmaüs, Envie, Les ateliers du Bocage, ressourceries et recycleries, etc.),
+    - les acteurs de l'économie sociale (Emmaüs, Envie, Les ateliers du Bocage, ressourceries et recycleries, etc.),
 
- - les points de collecte proches du domicile des Clients (https://www.ecosystem.eco/fr/recherche-point-de-collecte).
+    - les points de collecte proches du domicile des Clients (https://www.ecosystem.eco/fr/recherche-point-de-collecte).
 
 Les déchets d'EEE ne doivent pas être jetés avec les déchets municipaux non triés.
 
@@ -667,7 +667,7 @@ Pour être conforme à la commande, le produit doit répondre aux critères suiv
 
     2° de l'importance du défaut de conformité ; et
 
-    3° de la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le Client.
+    3° de la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le Client.
 
 L COMMERCE ou le Vendeur Tiers peut refuser la mise en conformité du produit si celle-ci est impossible ou entraîne des coûts disproportionnés notamment au regard des 1° et 2°.
 
@@ -679,11 +679,11 @@ Tout refus par L COMMERCE ou le Vendeur Tiers de procéder selon le choix du Cli
 
     1° lorsque L COMMERCE ou le Vendeur Tiers refuse toute mise en conformité ;
 
-    2° lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant la demande du Client ou si elle lui occasionne un inconvénient majeur ;
+    2° lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant la demande du Client ou si elle lui occasionne un inconvénient majeur ;
 
-    3° si le Client supporte définitivement les frais de reprise ou d'enlèvement du produit non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou les frais y afférents ;
+    3° si le Client supporte définitivement les frais de reprise ou d'enlèvement du produit non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou les frais y afférents ;
 
-    4° lorsque la non-conformité du produit persiste en dépit de la tentative de mise en conformité de L COMMERCE ou du Vendeur Tiers restée infructueuse.
+    4° lorsque la non-conformité du produit persiste en dépit de la tentative de mise en conformité de L COMMERCE ou du Vendeur Tiers restée infructueuse.
 
 Le Client a également droit à une réduction du prix du produit ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le Client n'est alors pas tenu de demander la réparation ou le remplacement du produit au préalable.
 
@@ -701,17 +701,17 @@ Le Client pourra obtenir les informations concernant la politique de médiation 
 
 En cas de réclamation, le Client pourra s'adresser en premier recours au service client de L COMMERCE dont voici les différents modes de contact :
 
- - Par son compte client dans la rubrique "Mon compte/Mes commandes/Retour ou réclamation".
+    - Par son compte client dans la rubrique "Mon compte/Mes commandes/Retour ou réclamation".
 
- - Par la section "besoin d'aide" dans la rubrique FAQ.
+    - Par la section "besoin d'aide" dans la rubrique FAQ.
 
- - Par téléphone au 0805 620 622 du lundi au vendredi de 9h à 19h, prix d’un appel local.
+    - Par téléphone au 0805 620 622 du lundi au vendredi de 9h à 19h, prix d’un appel local.
 
- - Par courriel : commande@serviceclients.leclerc
+    - Par courriel : commande@serviceclients.leclerc
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, L COMMERCE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de L COMMERCE, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
 
-La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici : [https://ec.europa.eu/consumers/odr/.](https://ec.europa.eu/consumers/odr/)  
+La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici :  [https://ec.europa.eu/consumers/odr/.](https://ec.europa.eu/consumers/odr/)  
 
   
 
@@ -719,11 +719,11 @@ La Commission européenne met à disposition une plateforme en ligne de résolut
 
 En cas de réclamation, le Client pourra utiliser les différents modes de contact suivants :
 
- - Par son compte client dans la rubrique "Mon compte/Mes commandes/Retour ou réclamation".
+    - Par son compte client dans la rubrique "Mon compte/Mes commandes/Retour ou réclamation".
 
- - Par la section "besoin d'aide" dans la rubrique FAQ.
+    - Par la section "besoin d'aide" dans la rubrique FAQ.
 
- - Le numéro de téléphone précisé sur la page du Vendeurs Tiers.
+    - Le numéro de téléphone précisé sur la page du Vendeurs Tiers.
 
 Les Vendeurs Tiers désignent un ou plusieurs médiateur(s) indépendant(s), auquel(s) les Vendeurs Tiers et les Acheteurs peuvent décider d’un commun accord de soumettre leur différend.
 
