@@ -114,8 +114,8 @@ Sauf exception dans le texte, les termes suivants lorsqu’ils sont utilisés av
    
 **Bagages** désigne les effets et autres objets personnels accompagnant le Passager au cours de son voyage.  Sauf disposition contraire, ce terme désigne à la fois : 
 
-*   **Les Bagages enregistrés** : les Bagages dont le Transporteur a accepté la garde et pour lesquels une Fiche d’identification a été délivrée.
-*   **Les Bagages cabine :** tout Bagage, autre que les Bagages enregistrés. Le Bagage cabine demeure sous la garde du Passager.
+* **Les Bagages enregistrés** : les Bagages dont le Transporteur a accepté la garde et pour lesquels une Fiche d’identification a été délivrée.
+* **Les Bagages cabine :** tout Bagage, autre que les Bagages enregistrés. Le Bagage cabine demeure sous la garde du Passager.
 
    
 **Bébé** désigne tout enfant n’ayant pas atteint son deuxième anniversaire à la date de son voyage.  
@@ -151,18 +151,18 @@ Sauf exception dans le texte, les termes suivants lorsqu’ils sont utilisés av
     
 **Fiche d´identification** désigne un bulletin émis par le Transporteur afin d’identifier les Bagages enregistrés et comprenant :
 
-*   **L’Etiquette de Bagages** : la partie apposée sur le Bagage enregistré ;
-*   **Le Bulletin de Bagages** : le talon d´identification délivré par le Transporteur au Passager lors de l’enregistrement des Bagages enregistrés.
+* **L’Etiquette de Bagages** : la partie apposée sur le Bagage enregistré ;
+* **Le Bulletin de Bagages** : le talon d´identification délivré par le Transporteur au Passager lors de l’enregistrement des Bagages enregistrés.
 
 **Force Majeure** désigne toutes les événements extraordinaires, imprévisibles, échappant au contrôle de celui qui l’invoque, et qui n’auraient pu être évités malgré toutes les diligences déployées.  
    
 **Frais de Services** désigne des frais facturés, le cas échéant, au Passager par Air Caraïbes ou l’Agent Accrédité notamment en contrepartie :
 
-*   De l’émission du Billet (« Frais d’émission ») ;
-*   De la réémission du Billet (« Frais de réémission ») ;
-*   De la modification du Billet (« Frais de modification ») ;
-*   Du remboursement du Billet (« Frais de remboursement ») ;
-*   De la facturation du Billet (« Frais de facturation »).
+* De l’émission du Billet (« Frais d’émission ») ;
+* De la réémission du Billet (« Frais de réémission ») ;
+* De la modification du Billet (« Frais de modification ») ;
+* Du remboursement du Billet (« Frais de remboursement ») ;
+* De la facturation du Billet (« Frais de facturation »).
 
    
 **Franchise de Bagages** désigne la quantité maximale de Bagages (en nombre et/ou en poids et/ou en dimension) fixée par le Transporteur avec laquelle chaque Passager peut voyager. Elle peut différer d’un Transporteur à un autre, d’un tronçon de voyage à un autre, et d’une classe de voyages à une autre. La Franchise de Bagages des Bagages enregistrés est mentionnée dans le Mémo Voyage.  
@@ -179,8 +179,8 @@ Sauf exception dans le texte, les termes suivants lorsqu’ils sont utilisés av
    
 **Mineurs non accompagnés** : un enfant non accompagné âgé de 4 à 16 ans (inclus) voyageant seul :
 
-*   UM : Mineurs Non Accompagnés de 4 à 11 ans (inclus) pour lesquels l’assistance du Transporteur est obligatoire ;
-*   UMZZ : Mineurs Non Accompagnés de 12 à 16 ans (inclus) pour lesquels l’assistance du Transporteur est facultative.
+* UM : Mineurs Non Accompagnés de 4 à 11 ans (inclus) pour lesquels l’assistance du Transporteur est obligatoire ;
+* UMZZ : Mineurs Non Accompagnés de 12 à 16 ans (inclus) pour lesquels l’assistance du Transporteur est facultative.
 
    
 **No show** désigne un Passager qui ne se présente pas à l’enregistrement ou après l’Heure Limite d’Enregistrement.  
@@ -352,7 +352,7 @@ Le type avion indiqué au Passager au moment de la Réservation ou ultérieureme
 
   
 **1\.     Moyens de paiement**  
-Les moyens de paiement acceptés par Air Caraïbes sont indiqués ici : [https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement](https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement%C2%A0)   
+Les moyens de paiement acceptés par Air Caraïbes sont indiqués ici : [https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement](https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement%C2%A0)   
    
 **2\.     Paiement à distance (Internet et téléphone) par Carte Bancaire**  
 (a) Air Caraïbes se réserve le droit d’effectuer à tout moment des contrôles et vérifications sur les transactions bancaires effectuées à distance.  
@@ -372,20 +372,20 @@ Le client devra fournir tout justificatif demandé par Air Caraïbes et des frai
 
 En cas de paiement en 3 fois :
 
-*   L’apport (1/3 du Tarif TTC plus les frais de dossiers) est débité lors de l’achat ;
-*   La première mensualité est débitée 30 jours après l’achat ;
-*   La dernière mensualité est débitée 60 jours après l’achat.
+* L’apport (1/3 du Tarif TTC plus les frais de dossiers) est débité lors de l’achat ;
+* La première mensualité est débitée 30 jours après l’achat ;
+* La dernière mensualité est débitée 60 jours après l’achat.
 
-En cas de paiement en 4 fois : 
+En cas de paiement en 4 fois : 
 
-*   L’apport (1/4 du Tarif TTC plus les frais de dossiers) est débité lors de l’achat,
-*   La première mensualité est débitée 30 jours après l’achat ;
-*   La seconde mensualité est débitée 60 jours après l’achat ;
-*   La dernière mensualité est débitée 90 jours après l’achat.
+* L’apport (1/4 du Tarif TTC plus les frais de dossiers) est débité lors de l’achat,
+* La première mensualité est débitée 30 jours après l’achat ;
+* La seconde mensualité est débitée 60 jours après l’achat ;
+* La dernière mensualité est débitée 90 jours après l’achat.
 
    
 En cas d’annulation, tout remboursement (s’il est possible) se fera selon les conditions tarifaires du Billet conformément aux présentes Conditions Générales de Vente et de Transport.   
- **4\.     Paiement en plusieurs fois (3 ou 4 fois) sur le site internet d’Air Caraïbes**  
+ **4\.     Paiement en plusieurs fois (3 ou 4 fois) sur le site internet d’Air Caraïbes**  
    
 Oney Bank propose sur le site internet d’Air Caraïbes une solution de financement dénommée 3x 4x Oney, qui permet de payer les achats de 100€ à 6000€\* en 3 ou 4 fois avec une carte bancaire.  
 \* Pour Cayenne le montant maximum de la commande est de 4000€  
@@ -407,8 +407,8 @@ Oney Bank se réserve le droit d’accepter ou de refuser toute demande de finan
 (c) Fonctionnement  
 Le paiement en 3 ou 4 fois par carte bancaire permet aux clients de régler la commande effectuée sur le site marchand d’Air Caraïbes de la façon suivante :
 
-*   un apport obligatoire, débité le jour de la confirmation de l’expédition de la commande ;
-*   deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,45% du montant total de la commande pour un 3 fois et à 2,2 % pour un 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un 4 fois).
+* un apport obligatoire, débité le jour de la confirmation de l’expédition de la commande ;
+* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,45% du montant total de la commande pour un 3 fois et à 2,2 % pour un 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un 4 fois).
 
    
 • Le paiement en 3 fois à partir de 100€ d’achat et jusqu’à 6000€  
@@ -697,7 +697,7 @@ Le Passager est par ailleurs tenu de permettre au Transporteur de prendre copie 
 **3\.     Refus d’entrée**  
 Si l´admission sur un territoire est refusée à un Passager, celui-ci devra acquitter tous frais ou amendes qui seraient imposés de ce fait par les autorités locales au Transporteur, ainsi que le coût du transport au cas où le Transporteur devrait par suite d´une injonction gouvernementale, le ramener à son point d´origine ou ailleurs. Le prix acquitté pour le transport jusqu´à la destination dont l´entrée sur le territoire aura été refusée ne sera pas remboursé par le Transporteur.  
     
-**4\.     Contrôles**   
+**4\.     Contrôles**   
 (a) Le Passager est tenu de se soumettre aux contrôles de sûreté (et de sécurité) exigés par les autorités gouvernementales ou aéroportuaires ainsi qu´à la demande du Transporteur.  
 (b) Le Passager peut être sollicité pour assister à l´inspection de ses Bagages (retardés, enregistrés ou cabine) sur requête de la douane ou de toute autre autorité gouvernementale. Le Transporteur ne pourra voir sa responsabilité engagée pour les Dommages ou pertes subis par le Passager qui négligerait d´observer la présente disposition.  
 (c) Le Transporteur ne peut voir sa responsabilité engagée pour avoir refusé de transporter un Passager, si ce refus est basé sur l´intime conviction que la loi, la réglementation du gouvernement et/ou les exigences applicables le nécessitaient.  
@@ -714,14 +714,14 @@ La responsabilité du Transporteur, sera déterminée par les Conditions Génér
 (b) Le Transporteur est responsable du Dommage survenu en cas de décès ou de lésion corporelle subie par un Passager, lorsque l´accident qui a causé le Dommage s´est produit à bord de l´aéronef ou au cours de toutes opérations d´embarquement et de débarquement, au sens de la Convention, et sous réserve des cas d´exonérations de responsabilité figurant au paragraphe 2 ci-après.  
 (c) Dans la mesure où ce qui suit ne fait pas échec aux autres dispositions des présentes Conditions Générales de Vente et de Transport, et que la Convention soit ou non applicable :
 
-*   La responsabilité du Transporteur est limitée au Dommage survenu au cours du/des Transport(s) aérien(s) pour lesquels son Code de Désignation apparaît sur le Coupon de Vol ou le Billet correspondant au vol. Lorsque le Transporteur émet un Billet pour une prestation de transport assurée par un autre Transporteur ou lorsqu´il enregistre un Bagage pour le compte d´un autre Transporteur, le Transporteur n´agit qu´à titre de mandataire de ce dernier.
-*   Les Bagages sont sous l’entière responsabilité du Passager jusqu’à leur enregistrement aux comptoirs du Transporteur aérien.
-*   La responsabilité du Transporteur ne pourra excéder le montant des Dommages directs prouvés et le Transporteur ne sera, en aucune manière, responsable des Dommages indirects ou de toute forme de Dommage non compensatoire.
-*   Le Transporteur n’assumera aucune responsabilité pour les Dommages résultant de l´observation par le Transporteur de toutes dispositions légales ou réglementaires (lois, règlements, décisions, exigences et dispositions) ou de l´inobservation de ces mêmes dispositions par le Passager.
-*   La responsabilité du Transporteur ne peut être recherchée en cas de Dommage aux Bagages cabine, à moins qu´un tel Dommage ne résulte directement d’une faute grave du Transporteur laquelle devra être prouvée par le Passager qui l´invoque.
-*   Le Transporteur n´est pas responsable de toute maladie, blessure ou handicap, y compris le décès d´un Passager, dus à la condition physique du Passager pas plus que de toute aggravation de ce même état.
-*   Le Contrat de Transport, y compris ces Conditions Générales de Transport et toutes les exclusions ou limitations de responsabilité qui y figurent s´appliquent et bénéficient aux Agents Accrédités du Transporteur, ses préposés et mandataires qui ont agi dans l'exercice de leurs fonctions, à ses représentants et au propriétaire de l´avion utilisé par le Transporteur, ainsi qu´aux agents, employés et représentants de ce propriétaire. Le montant global recouvrable auprès des personnes susmentionnées ne pourra excéder le montant de la responsabilité du Transporteur.
-*   Si la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits a causé le Dommage ou y a contribué, le Transporteur se verra en tout ou partie exonéré de sa responsabilité à l´égard de cette personne y compris en cas de décès ou de lésion corporelle selon le droit en vigueur.
+* La responsabilité du Transporteur est limitée au Dommage survenu au cours du/des Transport(s) aérien(s) pour lesquels son Code de Désignation apparaît sur le Coupon de Vol ou le Billet correspondant au vol. Lorsque le Transporteur émet un Billet pour une prestation de transport assurée par un autre Transporteur ou lorsqu´il enregistre un Bagage pour le compte d´un autre Transporteur, le Transporteur n´agit qu´à titre de mandataire de ce dernier.
+* Les Bagages sont sous l’entière responsabilité du Passager jusqu’à leur enregistrement aux comptoirs du Transporteur aérien.
+* La responsabilité du Transporteur ne pourra excéder le montant des Dommages directs prouvés et le Transporteur ne sera, en aucune manière, responsable des Dommages indirects ou de toute forme de Dommage non compensatoire.
+* Le Transporteur n’assumera aucune responsabilité pour les Dommages résultant de l´observation par le Transporteur de toutes dispositions légales ou réglementaires (lois, règlements, décisions, exigences et dispositions) ou de l´inobservation de ces mêmes dispositions par le Passager.
+* La responsabilité du Transporteur ne peut être recherchée en cas de Dommage aux Bagages cabine, à moins qu´un tel Dommage ne résulte directement d’une faute grave du Transporteur laquelle devra être prouvée par le Passager qui l´invoque.
+* Le Transporteur n´est pas responsable de toute maladie, blessure ou handicap, y compris le décès d´un Passager, dus à la condition physique du Passager pas plus que de toute aggravation de ce même état.
+* Le Contrat de Transport, y compris ces Conditions Générales de Transport et toutes les exclusions ou limitations de responsabilité qui y figurent s´appliquent et bénéficient aux Agents Accrédités du Transporteur, ses préposés et mandataires qui ont agi dans l'exercice de leurs fonctions, à ses représentants et au propriétaire de l´avion utilisé par le Transporteur, ainsi qu´aux agents, employés et représentants de ce propriétaire. Le montant global recouvrable auprès des personnes susmentionnées ne pourra excéder le montant de la responsabilité du Transporteur.
+* Si la négligence ou un autre acte ou omission préjudiciable de la personne qui demande réparation ou de la personne dont elle tient ses droits a causé le Dommage ou y a contribué, le Transporteur se verra en tout ou partie exonéré de sa responsabilité à l´égard de cette personne y compris en cas de décès ou de lésion corporelle selon le droit en vigueur.
 
 (d) Sauf stipulation expresse, aucune des présentes dispositions n´implique de renonciation à l´exclusion ou à la limitation de la responsabilité du Transporteur, du propriétaire dont l´appareil est utilisé par celui-ci, de leurs agents, préposés, mandataires ou représentants, conformément à la Convention et au droit applicable.  
    
@@ -788,8 +788,8 @@ Le mode de calcul du délai sera déterminé par la loi du tribunal saisi.
    
 **2\. Procédures**  
 (a) Toutes réclamations ou actions mentionnées ci-dessus à l’encontre d’Air Caraïbes doivent être faites par écrit, dans les délais indiqués :  
-\- Par Internet : [https://www.aircaraibes.com/pratique/contacts-reclamations](https://www.aircaraibes.com/pratique/contacts-reclamations%C2%A0)   
+\- Par Internet : [https://www.aircaraibes.com/pratique/contacts-reclamations](https://www.aircaraibes.com/pratique/contacts-reclamations%C2%A0)   
 \- Par courrier : Service Relations Clientèle Air Caraïbes - BP 29054 - 30971 NIMES CEDEX 9   
 (b) Après avoir saisi le service relations clientèle d’Air Caraïbes et à défaut de réponse satisfaisante dans un délai de 60 jours, le client peut saisir le Médiateur du Tourisme et du Voyage, dont les coordonnées et modalités de saisine sont disponibles sur son site : www.mtv.travel (MTV Médiation Tourisme Voyage, BP 80303 - 75823 Paris Cedex 17)  
-Pour toute information relative au règlement extra-judiciaire des litiges, le client est invité à consulter : [https://ec.europa.eu/consumers/odr/main/?event=main.home2.show](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show%C2%A0)   
+Pour toute information relative au règlement extra-judiciaire des litiges, le client est invité à consulter : [https://ec.europa.eu/consumers/odr/main/?event=main.home2.show](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show%C2%A0)   
 (c) Toute action engagée en inobservation de ces Conditions Générales de Vente et de Transport sera irrecevable.
