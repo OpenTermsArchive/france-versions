@@ -12,12 +12,12 @@ La présente politique a pour but de vous dispenser le maximum d’informations 
 
 Définitions :
 
-1.  **Internaute :** désigne toute personne qui visite le Site Internet à titre informatif, quel que soit son statut : simple visiteur ou Client de la Société.
-2.  **Client :** désigne toute personne ayant procédé à une commande ou un achat en ligne.
-3.  **Compte Client :** désigne le compte personnel créé par un futur Client en vue de procéder à une commande ou un achat en ligne, ou un compte personnel créé par un Client lors d’une commande en ligne.
-4.  **Données à caractère personnel :** désignent les informations, sous quelque forme que ce soit, se rapportant directement ou indirectement à une personne physique ou morale identifiée ou identifiable telles que le nom, prénom, date de naissance, le numéro d'adhérent, le numéro de sécurité sociale, l’adresse IP, les données de connexion….
-5.  **Responsable du traitement :** désigne la Société qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement des données à caractère personnel.
-6.  **Sous-traitant :** désigne toute entreprise qui traite des données à caractère personnel pour le compte du Responsable du traitement.
+1. **Internaute :** désigne toute personne qui visite le Site Internet à titre informatif, quel que soit son statut : simple visiteur ou Client de la Société.
+2. **Client :** désigne toute personne ayant procédé à une commande ou un achat en ligne.
+3. **Compte Client :** désigne le compte personnel créé par un futur Client en vue de procéder à une commande ou un achat en ligne, ou un compte personnel créé par un Client lors d’une commande en ligne.
+4. **Données à caractère personnel :** désignent les informations, sous quelque forme que ce soit, se rapportant directement ou indirectement à une personne physique ou morale identifiée ou identifiable telles que le nom, prénom, date de naissance, le numéro d'adhérent, le numéro de sécurité sociale, l’adresse IP, les données de connexion….
+5. **Responsable du traitement :** désigne la Société qui, seule ou conjointement avec d'autres, détermine les finalités et les moyens du traitement des données à caractère personnel.
+6. **Sous-traitant :** désigne toute entreprise qui traite des données à caractère personnel pour le compte du Responsable du traitement.
 
   
 
@@ -78,7 +78,7 @@ La plupart des Données que vous communiquez à notre Société sont nécessaire
 | Base légale | Finalités |
 | --- | --- |
 | Consentement | Gestion des inscriptions à la newsletter  <br>Attribution d’un magasin proche de chez vous  <br>Gestion des opérations de prospection commerciale à destination de personne n’ayant pas encore créé de Compte Client par divers canaux : e-mail, courrier postal, sms notification sur mobile, réseaux sociaux  <br>Gestion de la participation aux jeux concours et/ou à toutes opérations promotionnelles à destination de personnes n’ayant pas encore créé de Compte Client, y compris par le biais des réseaux sociaux  <br>Mise en œuvre d’études de produits à destination de personne n’ayant pas encore créé de Compte Client  <br>Dépôt des cookies pour proposer des contenus et de la publicité ciblée adaptés à vos centres d'intérêt, de réaliser des mesures pour améliorer votre expérience sur le site et de partage sur les réseaux sociaux (voir la politique cookies). |
-| Obligation contractuelle | Gestion de la création d’un Compte Client en ligne par un Internaute, y compris :<br><br>1.  \- Création d’un Compte par une personne en vue de procéder à un achat en ligne<br>2.  \- Création d’un Compte par une personne déjà Cliente en magasin<br>3.  \- Création d’un Compte par une personne ayant adhéré au fichier client ou/et fichier privilégié en magasin<br><br>  <br>Gestion du Compte Client et de la relation commerciale, y compris :<br><br>1.  \- Gestion du panier d’achat et des commandes ;<br>2.  \- Gestion des opérations de livraison ;<br>3.  \- Gestion des opérations de paiement ;<br>4.  \- Suivi de la relation Client ;<br>5.  \- Gestion des réclamations et de la mise en jeu des garanties liés au produit objet du contrat ;<br>6.  \- Gestion du service après-vente, des retours produits et des remboursements. |
+| Obligation contractuelle | Gestion de la création d’un Compte Client en ligne par un Internaute, y compris :<br><br>1. \- Création d’un Compte par une personne en vue de procéder à un achat en ligne<br>2. \- Création d’un Compte par une personne déjà Cliente en magasin<br>3. \- Création d’un Compte par une personne ayant adhéré au fichier client ou/et fichier privilégié en magasin<br><br>  <br>Gestion du Compte Client et de la relation commerciale, y compris :<br><br>1. \- Gestion du panier d’achat et des commandes ;<br>2. \- Gestion des opérations de livraison ;<br>3. \- Gestion des opérations de paiement ;<br>4. \- Suivi de la relation Client ;<br>5. \- Gestion des réclamations et de la mise en jeu des garanties liés au produit objet du contrat ;<br>6. \- Gestion du service après-vente, des retours produits et des remboursements. |
 | Intérêt légitime | Analyses statistiques à des fins de gestion et d’amélioration de nos offres et services  <br>Opération de prospection commerciale auprès de nos Clients à des fins de publicité de nos produits et de nos services par divers canaux : e-mail, courrier postal, sms notification sur mobile, réseaux sociaux  <br>Sélection de Clients pour réaliser des études, sondages et tests produits/avis sur nos nouveaux services (optimisation de l’expérience client)  <br>La gestion de la satisfaction Client et recueil des avis Clients sur des produits, services ou contenus (e-réputation)  <br>Prévention et lutte contre la fraude  <br>Gestion des contentieux  <br>Gestion des demandes d’exercice de droits des personnes concernées.  <br>Gestion des opérations relatives aux cessions d’entreprises |
 | Respect d’une obligation légale | Organisation des réunions avec les parties prenantes de la Société aux fins de réalisation du reporting extra-financier prévu par le Code de commerce |
 
@@ -98,9 +98,9 @@ Les Données collectées ont uniquement vocation à être utilisées par la Soci
 
 La Société peut cependant faire appel à des prestataires Sous-traitants commerciaux et techniques auxquels les Données pourraient être transmises de manière temporaire et sécurisée tels que :
 
-*   \- Ceux qui les assistent et les aident à gérer des programmes de fidélité, la gestion de la relation client (CRM) ;
-*   \- Leurs agences marketing pour réaliser leurs campagnes publicitaires, marketing et commerciales ;
-*   \- Ceux qui les assistent et les aident à fournir des services informatiques, pour la tenue de leurs bases de données et logiciels et applications corrélatifs : ces services peuvent parfois avoir accès à vos données pour réaliser les tâches demandées ;
+* \- Ceux qui les assistent et les aident à gérer des programmes de fidélité, la gestion de la relation client (CRM) ;
+* \- Leurs agences marketing pour réaliser leurs campagnes publicitaires, marketing et commerciales ;
+* \- Ceux qui les assistent et les aident à fournir des services informatiques, pour la tenue de leurs bases de données et logiciels et applications corrélatifs : ces services peuvent parfois avoir accès à vos données pour réaliser les tâches demandées ;
 
 Des garanties ont été prises pour assurer un niveau de protection suffisant des Données.
 
@@ -124,9 +124,9 @@ V. Durée de conservation de vos données
 
 Vos données personnelles sont conservées pour une durée selon les finalités de la collecte, à savoir :
 
-*   \- Prospection commerciale pour 3 ans à compter du dernier contact ou du dernier achat
-*   \- 10 ans au titre de nos obligations légales et contractuelles
-*   \- Lutte contre la fraude dans les conditions de prescription légale
+* \- Prospection commerciale pour 3 ans à compter du dernier contact ou du dernier achat
+* \- 10 ans au titre de nos obligations légales et contractuelles
+* \- Lutte contre la fraude dans les conditions de prescription légale
 
   
 
@@ -160,8 +160,8 @@ Les cookies sont de petits fichiers textes enregistrés sur votre disque dur par
 
 Parmi les cookies utilisés par la Société, deux types de cookies sont différenciés : les cookies émis par la Société, et ceux émis par des sociétés partenaires (cookies tiers). Parmi ces cookies tiers, sont distingués :
 
-*   • Les cookies tiers déposés à la demande de la Société, notamment à des fins d’analyses statistiques ; notre société agissant en qualité de Responsable de traitement et les sociétés tierces en qualité de Sous-traitant ;
-*   • Les cookies tiers déposés directement par des sociétés tierces sur autorisation de notre Société (par ex. les cookies réseaux sociaux) ; lesdites sociétés tierces agissant en qualité de Responsable de traitement et notre société en qualité de co-Responsable de traitement en vue de la transmission des données audit prestataire (unique finalité).
+* • Les cookies tiers déposés à la demande de la Société, notamment à des fins d’analyses statistiques ; notre société agissant en qualité de Responsable de traitement et les sociétés tierces en qualité de Sous-traitant ;
+* • Les cookies tiers déposés directement par des sociétés tierces sur autorisation de notre Société (par ex. les cookies réseaux sociaux) ; lesdites sociétés tierces agissant en qualité de Responsable de traitement et notre société en qualité de co-Responsable de traitement en vue de la transmission des données audit prestataire (unique finalité).
 
 Le dépôt des cookies tiers est soumis à l’obtention préalable de votre consentement. Le traitement de vos données par les sociétés émettrices de ces cookies tiers se fait sous leur propre responsabilité, conformément à leur propre politique de protection des données. Nous vous invitons à prendre connaissance desdites politiques et vous informons que vous pouvez refuser les cookies tiers par un paramétrage approprié de votre navigateur.
 
@@ -171,8 +171,8 @@ Il est précisé que le délai de validité des cookies dit strictement nécessa
 
 A titre d’exemples :
 
-*   \- Le Cookie T2S (mémorisation des produits consultés) a pour finalité la personnalisation de l’offre de cross-selling offer afin de vous proposer des articles correspondants à ce que vous recherchez dans les catégories spécifiques. Ce cookie est soumis à votre consentement.
-*   \- Les Cookies AMS V3-get dedup cookie contiennent des données techniques, et permettent aussi de vous proposer une interface spécifique en fonction de l’outil utilisé pour accéder au Site (version desktop, version mobile). Pour le dispositif d’achat, ils font partie intégrante du processus de commande et vous permettent de mener à bien vos commandes sur notre site : mémorisation du panier et des données d’identification de l’utilisateur, du moyen de paiement et du système de livraison choisi. Sans ces cookies, vous ne pourriez mener à bien votre achat. Nous n’associons pas ces cookies ni identifiant à des données sensibles telles que des données bancaires. Ces cookies sont strictement nécessaires.
+* \- Le Cookie T2S (mémorisation des produits consultés) a pour finalité la personnalisation de l’offre de cross-selling offer afin de vous proposer des articles correspondants à ce que vous recherchez dans les catégories spécifiques. Ce cookie est soumis à votre consentement.
+* \- Les Cookies AMS V3-get dedup cookie contiennent des données techniques, et permettent aussi de vous proposer une interface spécifique en fonction de l’outil utilisé pour accéder au Site (version desktop, version mobile). Pour le dispositif d’achat, ils font partie intégrante du processus de commande et vous permettent de mener à bien vos commandes sur notre site : mémorisation du panier et des données d’identification de l’utilisateur, du moyen de paiement et du système de livraison choisi. Sans ces cookies, vous ne pourriez mener à bien votre achat. Nous n’associons pas ces cookies ni identifiant à des données sensibles telles que des données bancaires. Ces cookies sont strictement nécessaires.
 
   
 
@@ -196,20 +196,20 @@ Lors de votre première visite sur le Site Internet, un bandeau vous informe de 
   
 Il vous est également possible de paramétrer votre ordinateur afin qu’il accepte ou refuse certains cookies. En effet, à tout moment et à votre libre appréciation, vous pouvez décider de configurer votre ordinateur de telle manière qu’il est possible :  
 
-*   • Soit d’enregistrer systématiquement tous les cookies émis sur le site internet visité ;
-*   • Soit de configurer votre logiciel de navigation de manière à ce qu’il vous permette d’accepter ou au contraire de refuser les différents cookies qui peuvent vous être proposés régulièrement ;
-*   • Soit de refuser systématiquement tous les cookies émis sur le site internet visité.
+* • Soit d’enregistrer systématiquement tous les cookies émis sur le site internet visité ;
+* • Soit de configurer votre logiciel de navigation de manière à ce qu’il vous permette d’accepter ou au contraire de refuser les différents cookies qui peuvent vous être proposés régulièrement ;
+* • Soit de refuser systématiquement tous les cookies émis sur le site internet visité.
 
   
 Toutefois, sachez que refuser les cookies peut entraîner une restriction des fonctionnalités. Il vous est donc recommandé d’autoriser la réception de cookies lorsque vous venez sur le Site Internet. La Société décline toute responsabilité sur les conséquences résultant du mauvais fonctionnement du site, notamment concernant la création de compte en ligne ou l’utilisation des fonctionnalités du Site Internet, en raison de l’impossibilité pour les services de la Société d’enregistrer ou de consulter les cookies émis que vous avez décidé de supprimer ou de retirer.  
   
 Selon ce que vous souhaitez, vous devez vous rendre sur la page prévue à cet effet afin de paramétrer votre ordinateur, à savoir :  
 
-*   Per Internet Explorer: https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies
-*   Per Google Chrome: https://support.google.com/chrome/answer/95647?hl=fr&ref\_topic=3421433
-*   Per Mozilla Firefox: https://support.mozilla.org/fr/kb/activer-desactiver-cookiess
-*   Per Safari: http://www.apple.com/fr/privacy/use-of-cookies/
-*   Per Opéra: http://help.opera.com/Windows/10.20/fr/cookies.html
+* Per Internet Explorer: https://support.microsoft.com/fr-fr/help/17442/windows-internet-explorer-delete-manage-cookies
+* Per Google Chrome: https://support.google.com/chrome/answer/95647?hl=fr&ref\_topic=3421433
+* Per Mozilla Firefox: https://support.mozilla.org/fr/kb/activer-desactiver-cookiess
+* Per Safari: http://www.apple.com/fr/privacy/use-of-cookies/
+* Per Opéra: http://help.opera.com/Windows/10.20/fr/cookies.html
 
   
 
