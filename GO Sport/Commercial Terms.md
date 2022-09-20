@@ -151,7 +151,7 @@ Soit par mail à l'adresse suivante :
 
 via le formulaire de contact relatif au droit de rétractation en se rendant sur le Service Client en ligne (voir modalités de contact à l’Article 15 ci-après) dans la rubrique « Besoin d’Aide » de l’espace client en cliquant sur la question « je ne veux plus de mon article, je souhaite me rétracter ».
 
-Les conditions de retour sont accessibles via [ce lien](https://www.go-sport.com/retour-et-echange-gratuit.html) 
+Les conditions de retour sont accessibles via [ce lien](https://www.go-sport.com/retour-et-echange-gratuit.html)﻿
 
 Soit par courrier à l’adresse suivante :
 
@@ -249,7 +249,7 @@ Paiement en magasin : il est possible de payer la commande en magasin GO Sport 
 
 Les modes de paiement acceptés sont les suivants : carte bleue, chèque bancaire, espèces, American Express, Avoir, bon d’achat, carte cadeau GO Sport et chèque cadeau.
 
-Paiement en 3 ou 4 X :
+Paiement en 3 ou 4 X :
 
 Le service de « paiement en 3 ou 4 X » permet à certains internautes clients du site go-sport.com de payer leurs achats en trois ou quatre fois (trois ou quatre mensualités) avec leur carte bancaire.
 
@@ -291,7 +291,7 @@ DPO
 
 Réductions applicablesIl est précisé que les réductions offertes aux salariés de la société Groupe GO Sport et toute autre société affiliée et les réductions partenaires ne sont pas valables pour les achats réalisés sur le site.
 
-Cumul d’€ fidélitéLes Clients ayant une carte de fidélité Club GO Sport pourront utiliser leur bons fidélités en magasin ou sur le site [www.go-sport.com](https://www.go-sport.com/) avec présentation de la carte de fidélité (ou connexion à l’espace fidélité sur le site [www.go-sport.com](https://www.go-sport.com/) ).
+Cumul d’€ fidélitéLes Clients ayant une carte de fidélité Club GO Sport pourront utiliser leur bons fidélités en magasin ou sur le site [www.go-sport.com](https://www.go-sport.com/) avec présentation de la carte de fidélité (ou connexion à l’espace fidélité sur le site [www.go-sport.com](https://www.go-sport.com/) ).
 
 Les bons de fidélité sont disponibles à partir de 5 euros, valables par tranche de 5€ jusqu’à 20€ et par tranche de 10€jusqu’à 100€ sans minimum d’achat dans l’ensemble des magasins GO Sport situés en France métropolitaine et sur le site GO Sport. Ils sont valables sur tous les articles, y compris les articles en soldes et en promotions. Hors coin des affaires, achat de carte cadeaux, prestations et frais de livraison.
 
@@ -510,7 +510,7 @@ L’ordonnance du 20 août 2015 et le décret n°2015-1382 du 30 octobre 2015 re
 
 Ainsi, pour tout litige qui n’aurait pas été réglé directement avec la Société, le Client est informé qu’il peut à présent recourir gratuitement au service de médiation mis en place par Médiation – Vivons mieux ensemble :
 
-\- Adresse du site : [www.mediation-vivons-mieux-ensemble.fr](https://www.mediation-vivons-mieux-ensemble.fr/)
+\- Adresse du site : [www.mediation-vivons-mieux-ensemble.fr](https://www.mediation-vivons-mieux-ensemble.fr/)
 
 \- Adresse du médiateur : MEDIATION – VIVONS MIEUX ENSEMBLE 465 avenue de la Libération 54 000 NANCY
 
