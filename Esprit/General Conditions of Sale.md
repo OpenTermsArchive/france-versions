@@ -7,7 +7,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **1. Conclusion du contrat**
+﻿**1. Conclusion du contrat**
 
 1.1 La présentation de nos marchandises sur le site de la boutique en ligne Esprit est une invitation non contraignante à commander nos produits.
 
@@ -23,7 +23,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **2. Livraison/frais d’expédition**
+﻿**2. Livraison/frais d’expédition**
 
 2.1 Le montant minimum de l´achat devrait être 24 EUR
 
@@ -33,7 +33,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **3. Mise à disposition et retour dans un magasin Esprit (« Click & Collect »)**
+﻿**3. Mise à disposition et retour dans un magasin Esprit (« Click & Collect »)**
 
 3.1 Vous avez la possibilité de faire livrer et de retourner les marchandises commandées sur l’e-shop Esprit à un magasin Esprit participant. Vous trouverez une liste des magasins participants en cliquant ici. Le choix d’un magasin Esprit n’affecte nullement la durée du droit légal de rétractation (voir paragraphe 7).
 
@@ -47,7 +47,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **4. Réservation sur la boutique Esprit (« Click & Reserve »)**
+﻿**4. Réservation sur la boutique Esprit (« Click & Reserve »)**
 
 4.1 Par ailleurs, vous avez la possibilité de choisir un article sur l’e-shop Esprit et de réserver le modèle souhaité (taille, couleur…) dans un magasin Esprit participant afin de l’essayer sur place et, le cas échéant, de l’acheter. Vous trouverez une liste des magasins participants en cliquant ici.
 
@@ -55,9 +55,9 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
 4.3. Dans la mesure où vous prévoyez d’acheter la marchandise réservée dans le magasin Esprit choisi, le contrat de vente est passé avec le gérant dudit magasin. Le prix du produit peut varier d’un magasin Esprit à un autre.
 
- **4.4 Vos données de réservation, telles que votre nom, le produit choisi et la référence de la réservation, sont transmises au magasin Esprit à des fins de vérification de votre réservation. Le magasin Esprit peut être exploité par un partenaire franchisé indépend**
+﻿**4.4 Vos données de réservation, telles que votre nom, le produit choisi et la référence de la réservation, sont transmises au magasin Esprit à des fins de vérification de votre réservation. Le magasin Esprit peut être exploité par un partenaire franchisé indépend**
 
- **ant ou par une entreprise liée à nous.**
+﻿**ant ou par une entreprise liée à nous.**
 
 4.5 Si vous n’achetez pas la marchandise réservée dans le magasin Esprit sous 48 heures à partir de l’envoi de la confirmation de réservation, votre réservation est annulée.
 
@@ -79,7 +79,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **6. Livraison et réserve de propriété**
+﻿**6. Livraison et réserve de propriété**
 
 6.1 Nous sommes autorisés à effectuer des livraisons partielles dans la mesure habituelle.
 
@@ -89,7 +89,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
- **7. Information légale relative au renvoi**
+﻿**7. Information légale relative au renvoi**
 
 7.1 Droit de rétractation
 
@@ -159,7 +159,7 @@ Il n’existe aucun droit de rétractation pour les contrats relatifs à la livr
 
   
 
- **8. Garantie**
+﻿**8. Garantie**
 
 Information sur le délai de garantie légal :
 
@@ -183,7 +183,7 @@ Allemagne
 
   
 
- **9. Droit d’auteur et marques**
+﻿**9. Droit d’auteur et marques**
 
 Le contenu intégral du site Internet, y compris les textes, graphiques, photos, images, images animées, bruitages, illustrations et logiciels, est notre propriété ou celle de nos sociétés apparentées, de nos licenciés et/ou de nos fournisseurs de contenu. Ces contenus sont protégés par des droits d’auteur et autres droits. Leur utilisation requiert impérativement notre autorisation expresse.
 
@@ -191,13 +191,13 @@ Sauf indication contraire, toutes les marques utilisées sur le site Internet no
 
   
 
- **10. Droit applicable**
+﻿**10. Droit applicable**
 
 Le présent contrat est régi par le droit de la République fédérale d’Allemagne. Les prescriptions coercitives de votre pays de résidence en sont exclues. L’application de la Convention des Nations Unies sur les contrats de vente internationale de marchandises est exclue.
 
   
 
- **11. Éditeur/exploitant de la boutique en ligne**
+﻿**11. Éditeur/exploitant de la boutique en ligne**
 
 Responsable du développement et de l’exploitation de la boutique en ligne Esprit :
 
@@ -281,7 +281,7 @@ L’Esprit Retail B.V & Co. KG n’est ni prête ni tenue de participer au proce
 
   
 
- **12. Conditions d’utilisation des cartes cadeaux**
+﻿**12. Conditions d’utilisation des cartes cadeaux**
 
   
 
@@ -337,6 +337,6 @@ Vous pouvez vérifier la date d’activation de votre carte cadeau en appelant l
 
   
 
- **13. Autres**
+﻿**13. Autres**
 
 Les présentes CGV ont été rédigées le 17.12.2020. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
