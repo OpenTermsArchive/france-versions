@@ -62,7 +62,7 @@ Dans le cas où les données personnelles sont traitées par un sous-traitant, n
 
 Nous pouvons divulguer vos données personnelles dans les cas requis par la loi ou par toute autorité compétente. Conformément à la loi n°78-17 du 6 janvier 1978, Jennyfer se réserve le droit de transmettre vos données personnelles, soit pour respecter une obligation légale, soit en application d’une décision judiciaire, administrative, ou d’une autorité administrative indépendante.
 
-**4 - Protection de vos données personnelles** 
+**4 - Protection de vos données personnelles** 
 
 Chez Jennyfer, nous protégeons les données personnelles via l’application de mesures de sécurité appropriées pour protéger les données personnelles sous notre contrôle, quelle que soit la forme sous laquelle elles sont sauvegardées.
 
