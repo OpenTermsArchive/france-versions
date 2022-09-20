@@ -22,17 +22,17 @@ Le délégué à la protection des données de Millet, Monsieur Vito Votta, peut
 
 Quand vous accédez sur nôtres sites Internet, le navigateur installé sur votre terminal envoie automatiquement des informations au serveur de notre site Internet. Ces informations sont temporairement stockées dans un fichier journal. Les informations suivantes sont collectées sans intervention de votre part et automatiquement effacées après de quatre semaines:
 
-*   Adresse IP de l'ordinateur demandeur,
-*   date et heure de l'accès,
-*   Nom et URL du fichier récupéré,
-*   site Web depuis lequel l’accès a été effectué (URL d’origine),
-*   Le type et la version du navigateur ainsi que d'autres informations transmises par le navigateur (telles que le système d'exploitation de votre ordinateur, le nom de votre fournisseur d'accès, l'origine géographique, le réglage de la langue, etc.).
+* Adresse IP de l'ordinateur demandeur,
+* date et heure de l'accès,
+* Nom et URL du fichier récupéré,
+* site Web depuis lequel l’accès a été effectué (URL d’origine),
+* Le type et la version du navigateur ainsi que d'autres informations transmises par le navigateur (telles que le système d'exploitation de votre ordinateur, le nom de votre fournisseur d'accès, l'origine géographique, le réglage de la langue, etc.).
 
 Nous traitons les données susmentionnées aux fins suivantes:
 
-*   Assurer une bonne connexion du site web,
-*   Garantir une utilisation confortable de notre site web,
-*   l'évaluation de la sécurité et de la stabilité du système, ainsi que à d'autres fins administratives.
+* Assurer une bonne connexion du site web,
+* Garantir une utilisation confortable de notre site web,
+* l'évaluation de la sécurité et de la stabilité du système, ainsi que à d'autres fins administratives.
 
 La base juridique pour le traitement des données est l'art. 6, al. 1, phrase 1, let. f RGPD. Notre intérêt légitime découle des buts susmentionnés pour la collecte de données. Nous n'utilisons en aucun cas les données collectées dans le but de pouvoir tirer des conclusions sur votre personne.
 
@@ -44,8 +44,8 @@ Vous avez la possibilité de créer un compte d'utilisateur protégé par un mot
 
 Si vous souhaitez créer un compte utilisateur protégé par mot de passe, nous nécessitons des informations suivantes:
 
-*   prénom, nom de famille,
-*   une adresse e-mail valide.
+* prénom, nom de famille,
+* une adresse e-mail valide.
 
 En outre, vous devrez entrer un mot de passe de votre choix pour créer un compte utilisateur. Ceci vous permettra d'accéder à votre compte accompagné de votre adresse e-mail. Dans votre compte d'utilisateur, vous pouvez consulter et modifier à tout moment les données stockées vous concernant.
 
@@ -61,18 +61,18 @@ Après l'effacement de votre compte d'utilisateur, vos données seront automatiq
 
 Si vous désirez commander des produits en tant qu’utilisateur doté d’un compte utilisateur sur notre site Internet, nous collectons les informations suivantes:
 
-*   prénom, nom de famille,
-*   une adresse e-mail valide,
-*   pays, code postal, ville et adresse
-*   numéro de téléphone
-*   données de paiement, selon le mode de paiement que vous avez choisi (p. ex. données de carte de crédit ou coordonnées bancaires).
+* prénom, nom de famille,
+* une adresse e-mail valide,
+* pays, code postal, ville et adresse
+* numéro de téléphone
+* données de paiement, selon le mode de paiement que vous avez choisi (p. ex. données de carte de crédit ou coordonnées bancaires).
 
 Ces données sont collectées
 
-*   pour vous identifier comme partenaire contractuel;
-*   pour vérifier la plausibilité des données saisies;
-*   pour le traitement du paiement de votre commande;
-*   pour le règlement des réclamations de garantie qui pourraient exister et l'exercice de toute revendication à votre encontre;
+* pour vous identifier comme partenaire contractuel;
+* pour vérifier la plausibilité des données saisies;
+* pour le traitement du paiement de votre commande;
+* pour le règlement des réclamations de garantie qui pourraient exister et l'exercice de toute revendication à votre encontre;
 
 Le traitement des données s'effectue à votre demande et est nécessaire conformément à l'art. 6, al. 1, phrase 1, let. b RGPD aux fins indiquées pour l'exécution du contrat et des mesures précontractuelles.
 
@@ -94,9 +94,9 @@ Vous pouvez vous désabonner à tout moment, par exemple via un lien à la fin d
 
 Si vous désirez personnaliser votre newsletter à titre volontaire, veuillez nous communiquer les informations suivantes :
 
-*   prénom, nom,
-*   pays, code postal, ville
-*   sexe et vos activités.
+* prénom, nom,
+* pays, code postal, ville
+* sexe et vos activités.
 
 Le traitement des données de ces informations fournies à titre volontaire se base sur nos intérêts légitimes en vertu de l’art. 6 alinéa 1 phrase 1 lit. f RGPD. Notre intérêt légitime résulte des objectifs ci-dessus pour la collecte de données.
 
@@ -149,11 +149,11 @@ Vous trouverez les finalités et les catégories de données correspondantes dan
 
 Dans le but de concevoir et d’optimiser notre site web, nous utilisons l’outil Google Analytics, un service d’analyse web Google LLC. (1600 Amphitheatre Parkway, Mountain View, CA 94043, USA; "Google"). En ce sens, des profils d'utilisation sont créés sous forme anonymes (voir point 4) et des cookies sont utilisés. Les informations générées par les Cookies concernent votre utilisation du site web sur:
 
-*   votre navigateur (type et version),
-*   le système d’exploitation,
-*   le référant URL (le site qui vous a amené par un lien vers notre site web),
-*   le hostname de l'ordinateur interrogeant (adresse IP),
-*   l'heure de consultation du serveur,
+* votre navigateur (type et version),
+* le système d’exploitation,
+* le référant URL (le site qui vous a amené par un lien vers notre site web),
+* le hostname de l'ordinateur interrogeant (adresse IP),
+* l'heure de consultation du serveur,
 
 et sont transmises à un serveur Google situé aux USA où elles sont enregistrées. Google est soumis à la UE-US Privacy Shield, afin de garantir un niveau de protection des données approprié.
 
@@ -282,12 +282,12 @@ Vous trouverez de plus amples informations et les dispositions en matière de pr
 
 Vos droits en tant que personne concernée sont:
 
-*   Conformément à l'art. 15 RGPD, vous avez le droit de demander des informations sur vos données personnelles que nous traitons. En particulier, vous pouvez obtenir des informations sur les finalités du traitement, la catégorie de données personnelles, les catégories de destinataires auxquels vos données ont été ou seront communiquées, la durée de conservation prévue, l'existence d'un droit de rectification, de suppression, de limitation du traitement ou d'opposition, l'existence d'un droit de recours, l'origine de vos données, si elles ne sont pas collectées auprès de nous, ainsi que l'existence d'un processus automatisé de prise de décision, y compris le profilage et, le cas échéant, des informations significatives sur les détails respectifs.
-*   Conformément à l'art. 16 RGPD, vous avez le droit d'exiger sans délai que nous corrigions ou complétions vos données personnelles que nous conservons;
-*   Conformément à l'art. 17 RGPD, vous avez le droit d'exiger l'effacement de vos données personnelles que nous conservons conformément à l'art. 17 RGPD, sauf si le traitement est nécessaire à l'exercice du droit à la liberté d'expression et d'information, à l'exécution d'une obligation légale, pour des raisons d'intérêt public ou pour faire valoir, exercer ou défendre des droits;
-*   Conformément à l'art. 18 RGPD, vous avez le droit d'exiger une limitation du traitement de vos données personnelles, dans la mesure où vous contestez l'exactitude des données, que le traitement est illégal, mais que vous refusez de les effacer et que nous n'avons plus besoin des données, mais que vous en avez besoin pour faire valoir, exercer ou défendre des droits légaux ou que vous avez déposé une opposition au traitement conformément à l'art. 21;
-*   Conformément à l'art. 20 RGPD, vous pouvez exiger vos données personnelles que vous nous avez fournies dans un format structuré, commun et lisible par machine ou exiger qu'elles soient transmises à une autre personne responsable;
-*   Conformément à l'art. 7, al. 3 RGPD, vous avez le droit de révoquer à tout moment votre accord. En conséquence, nous ne sommes plus autorisés à poursuivre le traitement des données sur la base de ce consentement pour l'avenir, et porter plainte auprès d'une autorité de surveillance conformément à l'art. 77 RGPD. En règle générale, vous pouvez contacter à cet effet l'autorité de surveillance de votre lieu de résidence ou de travail habituel ou de notre siège social.
+* Conformément à l'art. 15 RGPD, vous avez le droit de demander des informations sur vos données personnelles que nous traitons. En particulier, vous pouvez obtenir des informations sur les finalités du traitement, la catégorie de données personnelles, les catégories de destinataires auxquels vos données ont été ou seront communiquées, la durée de conservation prévue, l'existence d'un droit de rectification, de suppression, de limitation du traitement ou d'opposition, l'existence d'un droit de recours, l'origine de vos données, si elles ne sont pas collectées auprès de nous, ainsi que l'existence d'un processus automatisé de prise de décision, y compris le profilage et, le cas échéant, des informations significatives sur les détails respectifs.
+* Conformément à l'art. 16 RGPD, vous avez le droit d'exiger sans délai que nous corrigions ou complétions vos données personnelles que nous conservons;
+* Conformément à l'art. 17 RGPD, vous avez le droit d'exiger l'effacement de vos données personnelles que nous conservons conformément à l'art. 17 RGPD, sauf si le traitement est nécessaire à l'exercice du droit à la liberté d'expression et d'information, à l'exécution d'une obligation légale, pour des raisons d'intérêt public ou pour faire valoir, exercer ou défendre des droits;
+* Conformément à l'art. 18 RGPD, vous avez le droit d'exiger une limitation du traitement de vos données personnelles, dans la mesure où vous contestez l'exactitude des données, que le traitement est illégal, mais que vous refusez de les effacer et que nous n'avons plus besoin des données, mais que vous en avez besoin pour faire valoir, exercer ou défendre des droits légaux ou que vous avez déposé une opposition au traitement conformément à l'art. 21;
+* Conformément à l'art. 20 RGPD, vous pouvez exiger vos données personnelles que vous nous avez fournies dans un format structuré, commun et lisible par machine ou exiger qu'elles soient transmises à une autre personne responsable;
+* Conformément à l'art. 7, al. 3 RGPD, vous avez le droit de révoquer à tout moment votre accord. En conséquence, nous ne sommes plus autorisés à poursuivre le traitement des données sur la base de ce consentement pour l'avenir, et porter plainte auprès d'une autorité de surveillance conformément à l'art. 77 RGPD. En règle générale, vous pouvez contacter à cet effet l'autorité de surveillance de votre lieu de résidence ou de travail habituel ou de notre siège social.
 
 7\. DROIT D'OPPOSITION
 ----------------------
