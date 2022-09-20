@@ -40,13 +40,13 @@ Conformément à la réglementation sur les données à caractère personnel, no
 
 Vos données personnelles sont collectées :
 
-1.  Lors de votre navigation sur le Site par le biais de traceurs ou cookies,
-2.  Lors de la création d'un compte sur le Site et ses éventuels mises à jours et paramétrages,
-3.  Lors de l'acte d'achat sur le Site,
-4.  Lors de la création d’une carte de fidélité E.Leclerc sur le Site,
-5.  Lors de l’envoi de messages au service clients E.Leclerc,
-6.  Lors de votre publication de commentaires ou évaluations sur le Site,
-7.  Lors de la participation à des jeux concours sur le Site.
+1. Lors de votre navigation sur le Site par le biais de traceurs ou cookies,
+2. Lors de la création d'un compte sur le Site et ses éventuels mises à jours et paramétrages,
+3. Lors de l'acte d'achat sur le Site,
+4. Lors de la création d’une carte de fidélité E.Leclerc sur le Site,
+5. Lors de l’envoi de messages au service clients E.Leclerc,
+6. Lors de votre publication de commentaires ou évaluations sur le Site,
+7. Lors de la participation à des jeux concours sur le Site.
 
 Nous collectons indirectement vos données issues des avis client publiés initialement sur l'un des sites du Mouvement E.Leclerc pour des produits identiques à ceux vendus par le Site.
 
@@ -112,7 +112,7 @@ Nous vous invitons à consulter la section 12 de la présente Charte pour plus d
   
 
 **3\. Les traitements engendrés lors de l'acte d'achat ont pour objectif de :  
-**  ● Réaliser les transactions de paiement sur la base de l'exécution du contrat de vente
+** ● Réaliser les transactions de paiement sur la base de l'exécution du contrat de vente
 
 ● Fournir les produits et services achetés, ainsi que le service après-vente associé, sur la base de l'exécution du contrat de vente  
 
@@ -139,7 +139,7 @@ Nous vous invitons à consulter la section 12 de la présente Charte pour plus d
 **  
 8.** Le traitement engendré lors du partage d'un avis client initialement publié sur l'un des sites du Mouvement E.Leclerc est fondé sur l'exécution des conditions générales d'utilisation du site internet d'origine.  
 
- **6. Qui a accès à vos données personnelles ?**
+ **6. Qui a accès à vos données personnelles ?**
 
 Les Données Personnelles collectées sur le Site sont destinées dans la limite de leurs attributions, (i) aux services internes de LCOMMERCE et (ii) à ses sous-traitants, et si vous y avez consenti (iii) aux partenaires de L COMMERCE et/ou (iv) aux entités du Mouvement E.Leclerc.
 
@@ -156,25 +156,25 @@ Plus spécifiquement, les destinataires de vos Données Personnelles sont les su
 
 Dans l'hypothèse où vous consentez à recevoir de la prospection commerciale de la part des sociétés de l'enseigne E.Leclerc, ces données pourront être transmises aux destinataires suivants :
 
-*   Votre magasin E.Leclerc et ses magasins spécialisés (parapharmacie, optique, l'auto, station-service, drive, animalerie, brico, jardi, jouet, le manège à bijoux, une heure pour soi, espace culturel, location, sport, voyages, occasion)
-*   La société L Commerce, qui édite les sites E.Leclerc, maisonetloisirs.leclerc, optique.leclerc, photo.leclerc, e-librairie.leclerc et auto.leclerc
-*   Le Groupement d'Achat des Centres E.Leclerc (SC GALEC) qui réalise la communication commerciale E.Leclerc
-*   Les sociétés qui gèrent la livraison à domicile ou en point relais (E.Leclerc Chez Moi)
-*   La société E.Leclerc Voyages qui édite le site leclercvoyages.com
-*   La société Siplec spécialisée dans les métiers de l’énergie et dans l’approvisionnement de produits manufacturés pour l’enseigne E.Leclerc et l'édition des sites primes-energie.leclerc et cartecarburant.leclerc, sous la marque E.Leclerc énergies
-*   La société Sonepp qui réalise des opérations d’achats et de ventes dans le domaine des énergies et plus généralement toutes opérations de négoce et de commercialisation de tous produits et services, ainsi que l'édition du site energies.leclerc, sous la marque E.Leclerc énergies
-*   La société Devinlec qui édite le site lemanegeabijoux.com
-*   La Banque Edel qui participe notamment à la gestion des cartes cadeau E.Leclerc, des cartes de crédit REGLO finance et des produits d'assurance Garantie Remboursement Intégral
-*   La société L Telecom qui édite le site reglomobile.fr
-*   La société ConsoRégie qui est la régie publicitaire de l'enseigne E.Leclerc et met en ligne des publicités pour l'enseigne E.Leclerc
+* Votre magasin E.Leclerc et ses magasins spécialisés (parapharmacie, optique, l'auto, station-service, drive, animalerie, brico, jardi, jouet, le manège à bijoux, une heure pour soi, espace culturel, location, sport, voyages, occasion)
+* La société L Commerce, qui édite les sites E.Leclerc, maisonetloisirs.leclerc, optique.leclerc, photo.leclerc, e-librairie.leclerc et auto.leclerc
+* Le Groupement d'Achat des Centres E.Leclerc (SC GALEC) qui réalise la communication commerciale E.Leclerc
+* Les sociétés qui gèrent la livraison à domicile ou en point relais (E.Leclerc Chez Moi)
+* La société E.Leclerc Voyages qui édite le site leclercvoyages.com
+* La société Siplec spécialisée dans les métiers de l’énergie et dans l’approvisionnement de produits manufacturés pour l’enseigne E.Leclerc et l'édition des sites primes-energie.leclerc et cartecarburant.leclerc, sous la marque E.Leclerc énergies
+* La société Sonepp qui réalise des opérations d’achats et de ventes dans le domaine des énergies et plus généralement toutes opérations de négoce et de commercialisation de tous produits et services, ainsi que l'édition du site energies.leclerc, sous la marque E.Leclerc énergies
+* La société Devinlec qui édite le site lemanegeabijoux.com
+* La Banque Edel qui participe notamment à la gestion des cartes cadeau E.Leclerc, des cartes de crédit REGLO finance et des produits d'assurance Garantie Remboursement Intégral
+* La société L Telecom qui édite le site reglomobile.fr
+* La société ConsoRégie qui est la régie publicitaire de l'enseigne E.Leclerc et met en ligne des publicités pour l'enseigne E.Leclerc
 
   
-**3\. Lors de l'acte d'achat :** 
+**3\. Lors de l'acte d'achat :** 
 
 ● Les services internes de LCOMMERCE  
 ● Les sous-traitants, notamment ceux en charge de la livraison et des services de paiement  
 ● Si vous demandez un retrait en magasin, le Centre E.Leclerc concerné  
-● Les vendeurs de la Marketplace E.Leclerc auprès de qui vous effectuez un achat 
+● Les vendeurs de la Marketplace E.Leclerc auprès de qui vous effectuez un achat 
 
 **  
 4\. Lors de la création d’une carte de fidélité E.Leclerc :**  
@@ -183,14 +183,14 @@ Dans l'hypothèse où vous consentez à recevoir de la prospection commerciale d
 ● Si vous n'avez pas choisi de magasin de rattachement, la société LCOMMERCE pour la gestion de votre adhésion  
 ● Le GALEC qui consolide les données collectées par les différentes entités du mouvement E.Leclerc et qui met en œuvre la communication commerciale E.Leclerc  
 ● Les entités du mouvement E.Leclerc à qui vous fournissez votre numéro de Carte de fidélité E.Leclerc  
-● Les prestataires en charge de la gestion de la Carte de fidélité E.Leclerc   
-**5\. Lors de l’envoi de messages au service clients :** Les services internes de LCOMMERCE et ses sous-traitants.   
+● Les prestataires en charge de la gestion de la Carte de fidélité E.Leclerc   
+**5\. Lors de l’envoi de messages au service clients :** Les services internes de LCOMMERCE et ses sous-traitants.   
 **6\. Lors de votre publication de commentaires ou évaluations sur le Site :** Les services internes de LCOMMERCE et ses sous-traitants.**7\. Lors de la participation à des jeux concours sur le Site :** Les services internes de LCOMMERCE et ses sous-traitants  
   
 **8\. Lors de la publication d'un avis clients issu d'un site du Mouvement E.Leclerc :**
 
 ● Les services internes de LCOMMERCE ;  
-● Le sous-traitant en charge du traitement des avis 
+● Le sous-traitant en charge du traitement des avis 
 
 Vos Données Personnelles ne feront l'objet de communications extérieures éventuelles autres que celles prévues ci-dessus que pour satisfaire aux obligations légales et réglementaires de LCOMMERCE, notamment en cas de demande d'une administration ou d'une autorité judiciaire.  
   
@@ -246,7 +246,7 @@ Vous disposez d’un droit d’inscription sur la liste Bloctel d’opposition a
 Si vous acceptez de recevoir des offres commerciales, vous pouvez à tout moment demander à ne plus recevoir ce type d'informations :
 
 \- en modifiant vos informations personnelles dans l'espace "Mon compte" sur le Site  
-\- en cliquant sur le lien de désinscription prévu à cet effet dans chaque email que vous recevrez \- en répondant STOP au SMS que vous recevrez. 
+\- en cliquant sur le lien de désinscription prévu à cet effet dans chaque email que vous recevrez \- en répondant STOP au SMS que vous recevrez. 
 
 #### **11\. Quelles sont les mesures de sécurité et de lutte contre la fraude ?**
 
