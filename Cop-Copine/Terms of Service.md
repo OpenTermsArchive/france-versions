@@ -37,9 +37,9 @@ CONTENU DU SITE
 Le Site est accessible librement dans le monde entier à l’exclusion de la section ecommerce dont l’accès est exclusivement réservé aux utilisateurs résidant en France métropolitaine de Belgique et du Luxembourg.  
 Le site ainsi que son contenu sont la propriété exclusive de la société NEDEL qui décline toute responsabilité :
 
-*   pour toute interruption du Site ;
-*   pour survenance de bogues ;
-*   pour tout dommage résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des informations mises la disposition sur le Site; et plus généralement pour tous dommages, direct ou indirect, qu'elles qu'en soient les causes, origines, natures ou conséquences, provoqués à raison de l'accès de quiconque au Site ou de l'impossibilité d'y accéder, de même que l'utilisation du Site et/ou du crédit accordé à une quelconque information provenant directement ou indirectement de ce dernier.
+* pour toute interruption du Site ;
+* pour survenance de bogues ;
+* pour tout dommage résultant d'une intrusion frauduleuse d'un tiers ayant entraîné une modification des informations mises la disposition sur le Site; et plus généralement pour tous dommages, direct ou indirect, qu'elles qu'en soient les causes, origines, natures ou conséquences, provoqués à raison de l'accès de quiconque au Site ou de l'impossibilité d'y accéder, de même que l'utilisation du Site et/ou du crédit accordé à une quelconque information provenant directement ou indirectement de ce dernier.
 
 En particulier, la société NEDEL n'assume aucune responsabilité pour les dommages qui pourraient être causés au matériel informatique de l'internaute suite à son accès au présent Site, utilisation ou téléchargement d'un quelconque de ses éléments (données, textes, images, vidéos ou sons, etc.).  
  
