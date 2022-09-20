@@ -21,13 +21,13 @@ Ces Conditions s'appliquent si vous résidez hors des États-Unis ou si votre en
 
 Aucune personne de moins de 13 ans (ou plus, si l'âge minimum auquel quelqu'un pourrait utiliser les Services dans votre pays) n'est autorisée à créer un compte ou à utiliser les Services. Si vous avez moins de 18 ans (ou que vous n'êtes pas majeur dans votre pays), vous ne pouvez utiliser les Services qu'avec le consentement préalable de votre parent ou de votre tuteur légal. Veuillez vous assurer que votre parent ou votre tuteur légal a examiné et discuté des présentes Conditions avec vous avant de commencer à utiliser les Services. Nous pouvons proposer d'autres Services soumis à d'autres conditions et pour lesquels l'âge limite peut être plus élevé. Veuillez donc lire toutes les clauses attentivement. En utilisant les Services, vous déclarez, vous garantissez et affirmez que :
 
-*   vous avez la capacité de conclure un contrat ayant force obligatoire avec Snap ;
+* vous avez la capacité de conclure un contrat ayant force obligatoire avec Snap ;
     
-*   vous n'êtes pas une personne à qui il est interdit d'utiliser les Services en vertu des lois des États-Unis, au Royaume-Uni ou dans tout autre pays ; par exemple, vous ne figurez pas sur la liste des ressortissants spécialement désignés du département du Trésor des États-Unis ou vous ne faites l'objet d'aucune autre interdiction de ce type ;
+* vous n'êtes pas une personne à qui il est interdit d'utiliser les Services en vertu des lois des États-Unis, au Royaume-Uni ou dans tout autre pays ; par exemple, vous ne figurez pas sur la liste des ressortissants spécialement désignés du département du Trésor des États-Unis ou vous ne faites l'objet d'aucune autre interdiction de ce type ;
     
-*   vous n'avez pas été condamné pour un motif de délinquance sexuelle ; et
+* vous n'avez pas été condamné pour un motif de délinquance sexuelle ; et
     
-*   vous respecterez ces Conditions et tous les règlements, règles et lois applicables au niveau local, régional, national ou international.
+* vous respecterez ces Conditions et tous les règlements, règles et lois applicables au niveau local, régional, national ou international.
     
 
 Si vous utilisez les Services au nom d'une entreprise ou d'une autre entité, vous déclarez être autorisé à lier cette entreprise ou cette entité aux présentes Conditions et vous acceptez ces conditions au nom de cette entreprise ou de cette entité (et toutes les références à « vous » et « votre » dans les présentes Conditions signifient à la fois vous en tant qu'utilisateur final et cette entreprise ou entité).
@@ -74,31 +74,31 @@ Une grande partie du contenu sur nos Services est produite par des utilisateurs,
 
 Vous devez également respecter les droits Snap et adhérer à la [Charte de la marque Snapchat](https://snap.com/fr-FR/brand-guidelines/), la [Charte de la marque Bitmoji](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf), et à tout autre charte, page d'assistance, ou Foire aux Questions publiées par Snap ou par nos sociétés affiliées. Cela signifie, entre autres, que vous ne devez pas faire, tenter de faire, permettre ou encourager quelqu'un d'autre à faire ce qui suit :
 
-*   utiliser les marques, logos, icônes, éléments de l'interface utilisateurs, dessins, photographies, vidéos ou tout autre matériel que Snap met à disposition par nos Services, sauf si ceci est explicitement autorisé par ces Conditions, la [Charte de la marque Snap](https://snap.com/fr-FR/brand-guidelines/), la [Charte de la marque Bitmoji](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) ou toute autre charte de marque publiée par Snap, ou nos sociétés affiliées ;
+* utiliser les marques, logos, icônes, éléments de l'interface utilisateurs, dessins, photographies, vidéos ou tout autre matériel que Snap met à disposition par nos Services, sauf si ceci est explicitement autorisé par ces Conditions, la [Charte de la marque Snap](https://snap.com/fr-FR/brand-guidelines/), la [Charte de la marque Bitmoji](https://www.bitmoji.com/bitmoji_brand_guidelines.pdf) ou toute autre charte de marque publiée par Snap, ou nos sociétés affiliées ;
     
-*   violer ou enfreindre les droits d'auteur, les marques commerciales ou tout autre droit de propriété intellectuelle de Snap ou de nos affiliées ;
+* violer ou enfreindre les droits d'auteur, les marques commerciales ou tout autre droit de propriété intellectuelle de Snap ou de nos affiliées ;
     
-*   copier, modifier, archiver, télécharger, charger, divulguer, distribuer, vendre, louer, syndiquer, diffuser, exécuter, afficher, rendre disponible, faire des dérivés ou utiliser de toute autre manière les Services ou le contenu des Services, à l'exception des fichiers temporaires qui sont automatiquement mis en cache par votre navigateur Web à des fins d'affichage, comme cela est expressément autorisé dans les présentes Conditions, comme cela est expressément autorisé par nous par écrit, ou comme cela est permis par la fonctionnalité prévue du Service ;
+* copier, modifier, archiver, télécharger, charger, divulguer, distribuer, vendre, louer, syndiquer, diffuser, exécuter, afficher, rendre disponible, faire des dérivés ou utiliser de toute autre manière les Services ou le contenu des Services, à l'exception des fichiers temporaires qui sont automatiquement mis en cache par votre navigateur Web à des fins d'affichage, comme cela est expressément autorisé dans les présentes Conditions, comme cela est expressément autorisé par nous par écrit, ou comme cela est permis par la fonctionnalité prévue du Service ;
     
-*   créer plus d'un compte pour vous-même, créer un autre compte si nous avons déjà désactivé votre compte, tenter d'accéder aux Services par le biais d'applications tierces non autorisées, solliciter des identifiants de connexion auprès d'autres utilisateurs, ou acheter, vendre, louer ou donner en location l'accès à votre compte, à un nom d'utilisateur, à des Snaps ou à un lien d'ami ;
+* créer plus d'un compte pour vous-même, créer un autre compte si nous avons déjà désactivé votre compte, tenter d'accéder aux Services par le biais d'applications tierces non autorisées, solliciter des identifiants de connexion auprès d'autres utilisateurs, ou acheter, vendre, louer ou donner en location l'accès à votre compte, à un nom d'utilisateur, à des Snaps ou à un lien d'ami ;
     
-*   rétro-concevoir, dupliquer, décompiler, désassembler ou décoder les services (notamment toute idée ou algorithme sous-jacent), ou extraire de toute autre manière le code source du logiciel du service ;
+* rétro-concevoir, dupliquer, décompiler, désassembler ou décoder les services (notamment toute idée ou algorithme sous-jacent), ou extraire de toute autre manière le code source du logiciel du service ;
     
-*   utiliser de robot, spider, crawler, scraper ou tout autre moyen informatisé ou interface pour accéder aux Services ou extraire les données d'autres utilisateurs ;
+* utiliser de robot, spider, crawler, scraper ou tout autre moyen informatisé ou interface pour accéder aux Services ou extraire les données d'autres utilisateurs ;
     
-*   utiliser ou développer des applications tierces interagissant avec les Services ou le contenu ou des données d'autres utilisateurs, sans notre autorisation écrite ;
+* utiliser ou développer des applications tierces interagissant avec les Services ou le contenu ou des données d'autres utilisateurs, sans notre autorisation écrite ;
     
-*   utiliser les Services d'une manière qui pourrait déranger, perturber ou affecter négativement d'autres utilisateurs, ou les empêcher de profiter pleinement des Services, ou qui pourrait endommager, désactiver, surcharger ou altérer le fonctionnement des Services ;
+* utiliser les Services d'une manière qui pourrait déranger, perturber ou affecter négativement d'autres utilisateurs, ou les empêcher de profiter pleinement des Services, ou qui pourrait endommager, désactiver, surcharger ou altérer le fonctionnement des Services ;
     
-*   télécharger des virus ou d'autres codes malveillants, ou compromettre, contourner ou éviter la sécurité des services de toute autre manière ;
+* télécharger des virus ou d'autres codes malveillants, ou compromettre, contourner ou éviter la sécurité des services de toute autre manière ;
     
-*   tenter de détourner toute technique de filtrage de contenu que nous employons, ou tenter d'accéder à des espaces ou fonctionnalités de Services auxquels vous n'êtes pas autorisé à accéder ;
+* tenter de détourner toute technique de filtrage de contenu que nous employons, ou tenter d'accéder à des espaces ou fonctionnalités de Services auxquels vous n'êtes pas autorisé à accéder ;
     
-*   sonder, scanner ou tester la vulnérabilité de nos services ou de tout système ou réseau ;
+* sonder, scanner ou tester la vulnérabilité de nos services ou de tout système ou réseau ;
     
-*   violer toute loi ou réglementation applicable en rapport avec votre accès aux services ou leur utilisation ;
+* violer toute loi ou réglementation applicable en rapport avec votre accès aux services ou leur utilisation ;
     
-*   accéder aux services ou les utiliser d'une manière qui n'est pas expressément autorisée par les présentes Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines)
+* accéder aux services ou les utiliser d'une manière qui n'est pas expressément autorisée par les présentes Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines)
     
 
 8\. Respect des droits d'autrui
@@ -108,17 +108,17 @@ Snap respecte les droits d'autrui. Et vous devriez aussi. Vous ne pouvez donc pa
 
 Snap respecte les lois sur les droits d'auteur, y compris le Digital Millennium Copyright Act et prend des mesures raisonnables pour retirer rapidement de nos Services tout matériel en infraction dont nous avons connaissance. Lorsque Snap prend conscience qu'utilisateur a enfreint a plusieurs reprises les droits d'auteur, nous prendrons des mesures raisonnables en notre pouvoir pour résilier le compte de l'utilisateur. Si vous pensez que quoi que ce soit dans les Services enfreint un droit d'auteur que vous possédez ou contrôlez, veuillez le signaler en utilisant le formulaire accessible via cet [outil](https://support.snapchat.com/a/infringement-reporting-about). Ou vous pouvez déposer un avis auprès de notre agent désigné : Snap Inc, Attn : Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email : copyright @ snap.com. N'utilisez pas cette adresse e-mail pour autre chose que le signalement d'une violation du droit d'auteur, car de tels e-mails seront ignorés. Pour signaler d'autres formes de violation des Services, veuillez utiliser l'outil accessible [ici](https://support.snapchat.com/a/infringement-reporting-about). Si vous signalez une infraction auprès de notre Copyright Agent, votre avis doit :
 
-*   contenir la signature physique ou électronique d'une personne autorisée à agir pour le compte du titulaire du droit d'auteur ;
+* contenir la signature physique ou électronique d'une personne autorisée à agir pour le compte du titulaire du droit d'auteur ;
     
-*   identifier l'élément protégé par le droit d'auteur susceptible d'avoir été enfreint ;
+* identifier l'élément protégé par le droit d'auteur susceptible d'avoir été enfreint ;
     
-*   identifier l'élément dont la violation est alléguée ou qui est prétendument l'objet d'activités contrefaisantes et qui doit être supprimé, ou dont l'accès doit être désactivé, et fournir des renseignements raisonnablement suffisants pour nous permettre de localiser l'élément ;
+* identifier l'élément dont la violation est alléguée ou qui est prétendument l'objet d'activités contrefaisantes et qui doit être supprimé, ou dont l'accès doit être désactivé, et fournir des renseignements raisonnablement suffisants pour nous permettre de localiser l'élément ;
     
-*   fournir vos coordonnées, notamment votre adresse, numéro de téléphone et une adresse e-mail ;
+* fournir vos coordonnées, notamment votre adresse, numéro de téléphone et une adresse e-mail ;
     
-*   fournir une déclaration personnelle indiquant que vous croyez de bonne foi que l'utilisation de l'élément faisant l'objet de la demande n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi ; et
+* fournir une déclaration personnelle indiquant que vous croyez de bonne foi que l'utilisation de l'élément faisant l'objet de la demande n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi ; et
     
-*   fournir une déclaration indiquant que les informations contenues dans la notification sont exactes et que, sous peine de parjure, vous êtes autorisé à agir au nom du titulaire du droit d'auteur.
+* fournir une déclaration indiquant que les informations contenues dans la notification sont exactes et que, sous peine de parjure, vous êtes autorisé à agir au nom du titulaire du droit d'auteur.
     
 
 9\. Sécurité
