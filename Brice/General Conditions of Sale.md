@@ -28,9 +28,9 @@ Le Site Internet est ouvert à tout internaute remplissant les conditions énonc
   
 A ce titre, le Client déclare :
 
-*   Être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat ;
-*   Ne pas procéder à des achats de Produits dans le but de les revendre. Jules se réserve le droit de refuser une commande dont les quantités seraient manifestement inhabituelles pour un usage personnel ;
-*   Agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale.
+* Être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat ;
+* Ne pas procéder à des achats de Produits dans le but de les revendre. Jules se réserve le droit de refuser une commande dont les quantités seraient manifestement inhabituelles pour un usage personnel ;
+* Agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale.
 
 ARTICLE 4 – PRODUITS
 --------------------
@@ -276,9 +276,9 @@ ARTICLE 12 – RECLAMATIONS
 
 Pour toute information, réclamation ou question relative aux Conditions Générales ou aux Produits proposés à la vente sur le Site Internet, le Client est invité à s’adresser au service client :
 
-*   Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-*   Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
-*   Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
+* Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
+* Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
+* Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
 
 ##### 12.2 Médiation
 
@@ -323,10 +323,10 @@ ARTICLE 15 – RESPONSABILITÉ
 
 Jules s’engage à mettre en œuvre tous les moyens nécessaires afin d'assurer au mieux le bon fonctionnement du Site Internet. Cependant, sa responsabilité ne pourra être engagée :
 
-*   En cas d’inexécution de ses obligations (e.g. rupture de stock, indisponibilité du Produit) ou d’indisponibilité du Site Internet du fait d’un cas de force majeure telle que définie à l’article 1218 du Code civil ou imputable au fait imprévisible et insurmontable d’un tiers au contrat ;
-*   En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
-*   Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service ;
-*   Pour tout contenu de sites Internet sur lesquels des liens hypertextes peuvent renvoyer à partir du Site Internet.
+* En cas d’inexécution de ses obligations (e.g. rupture de stock, indisponibilité du Produit) ou d’indisponibilité du Site Internet du fait d’un cas de force majeure telle que définie à l’article 1218 du Code civil ou imputable au fait imprévisible et insurmontable d’un tiers au contrat ;
+* En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
+* Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service ;
+* Pour tout contenu de sites Internet sur lesquels des liens hypertextes peuvent renvoyer à partir du Site Internet.
 
 Il est précisé que le Site Internet est conforme à la législation française, et en aucun cas, Jules ne donne de garantie de conformité à la législation locale qui serait applicable au Client ayant accédé au Site Internet à partir d’un autre pays.
 
@@ -387,8 +387,8 @@ Les présentes conditions générales d’utilisation **(les « Conditions Gén�
   
 Elles visent notamment à régir :
 
-*   L’adhésion au Programme ;
-*   Les avantages fidélité associés **(les « Avantages »).**
+* L’adhésion au Programme ;
+* Les avantages fidélité associés **(les « Avantages »).**
 
 Tout Adhérent déclare avoir pris connaissance des Conditions Générales, disponibles en magasin sur demande ou sur les sites Internet de Jules. Le fait d’adhérer au Programme implique l’adhésion entière et sans réserve de l’Adhérent aux Conditions Générales.
 
@@ -399,8 +399,8 @@ En adhérant au Programme, l’Adhérent déclare (i) être une personne physiqu
   
 L’adhésion au Programme est gratuite, en communiquant toutes les informations utiles requises telles que précisées à l’article 9 :
 
-*   Sur simple demande au sein du réseau Jules/Jules comprenant les magasins Jules, Jules et multimarques Jules/Jules/Bizzbee de France Métropolitaine, Belgique, Italie et Espagne (les « Magasins ») ; ou
-*   Automatiquement sur les sites Internet :  
+* Sur simple demande au sein du réseau Jules/Jules comprenant les magasins Jules, Jules et multimarques Jules/Jules/Bizzbee de France Métropolitaine, Belgique, Italie et Espagne (les « Magasins ») ; ou
+* Automatiquement sur les sites Internet :  
     \- [www.jules.com](https://www.jules.com/fr-fr/index/)  
     \- [www.brice.fr](https://www.brice.fr/fr-fr/index/)  
     \- [www.jules.com/fr-be](http://www.jules.com/fr-be/index/)  
@@ -421,19 +421,19 @@ Le Programme permet à l’Adhérent de cumuler des points fidélité, tant sur 
   
   
 
-*   **1€ d’achat = 1 point**
+* **1€ d’achat = 1 point**
   
 Sur la base du montant TTC réellement payé par l’Adhérent, remise déduite, arrondi à l’euro supérieur (hors frais de livraison, achat de carte cadeau, retouche, réparation, emballage cadeau).  
   
-*   **1 passage en caisse / 1 commande Internet = 20 points**
+* **1 passage en caisse / 1 commande Internet = 20 points**
   
 Dans l’un des Magasins ou sur le Site Internet, sans minimum d’achat, dans la limite d’un passage en caisse ou d’une commande Internet tous les sept (7) jours glissants.  
   
-*   **1 dépôt de vêtements usagés = 10 points**
+* **1 dépôt de vêtements usagés = 10 points**
   
 Valable quel que soit le nombre, le type et la marque des produits usagés déposés en Magasin, dans la limite d’un dépôt tous les sept (7) jours glissants et jusqu’à cent (100) points fidélité cumulables maximum.  
   
-*   **1 achat / vente sur Rewear = 10 points**
+* **1 achat / vente sur Rewear = 10 points**
   
 Sur le site Internet accessible à l’adresse rewear.Jules.com (« Rewear »), sans minimum d’achat ou de vente, dans la limite d’un achat ou d’une vente tous les sept (7) jours glissants et jusqu’à cent (100) points fidélité cumulables.  
   
@@ -544,9 +544,9 @@ ARTICLE 10 – RESPONSABILITE
 Jules s’engage à mettre en œuvre tous les moyens nécessaires afin d'assurer au mieux le bon fonctionnement du Programme. Cependant, sa responsabilité ne pourra être engagée :  
   
 
-*   En cas d’indisponibilité du Programme du fait d’un cas de force majeure telle que définie à l’article 1218 du Code civil ou imputable au fait imprévisible et insurmontable d’un tiers ;
-*   En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
-*   Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service.
+* En cas d’indisponibilité du Programme du fait d’un cas de force majeure telle que définie à l’article 1218 du Code civil ou imputable au fait imprévisible et insurmontable d’un tiers ;
+* En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
+* Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service.
 
 ARTICLE 11 – CONTACT
 --------------------
@@ -554,9 +554,9 @@ ARTICLE 11 – CONTACT
 Pour toute question relative au Programme, l’Adhérent est invité à s’adresser au service client :  
   
 
-*   Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-*   Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 19h
-*   Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
+* Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
+* Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 19h
+* Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
 
 ARTICLE 12 – LITIGES
 --------------------
@@ -589,8 +589,8 @@ ARTICLE 3 – DEPÔT DES AVIS
 
 Le Client qui souhaite déposer un Avis déclare :
 
-*   Être une personne physique majeure et avoir la capacité de conclure le présent contrat ;
-*   Avoir eu personnellement une expérience de consommation du Produit sur lequel porte l’Avis.
+* Être une personne physique majeure et avoir la capacité de conclure le présent contrat ;
+* Avoir eu personnellement une expérience de consommation du Produit sur lequel porte l’Avis.
 
 Il est précisé que seuls les Clients ayant réalisé une commande sur le Site Internet ou un achat en Magasin sont susceptibles de donner leur Avis sur le Produit concerné, dans la limite de trois (3) Produits et d’un (1) Avis par Produit.  
   
@@ -605,23 +605,23 @@ Chaque Avis se compose d’un commentaire et/ou d’une note entre 0 et 5 étoil
   
 Le Client s’engage à déposer un Avis :
 
-*   Portant exclusivement sur le Produit en lui-même (taille, coloris, matière, caractéristiques essentielles, etc.) et non pas sur les services liés au Produit auquel l’Avis fait référence tels que la livraison, le paiement, le retour ou le service client ;
-*   Rédigé dans un langage compréhensible, intelligible et en langue française.
+* Portant exclusivement sur le Produit en lui-même (taille, coloris, matière, caractéristiques essentielles, etc.) et non pas sur les services liés au Produit auquel l’Avis fait référence tels que la livraison, le paiement, le retour ou le service client ;
+* Rédigé dans un langage compréhensible, intelligible et en langue française.
 
 En outre, le contenu de l’Avis ne doit pas :
 
-*   Comporter des informations fausses, mensongères ou de nature à induire en erreur les utilisateurs du Site Internet ;
-*   Comporter des informations étrangères et sans rapport avec le Produit auquel l’Avis fait référence ;
-*   Faire référence au prix payé pour le Produit évalué ou faire état d’une promotion en cours avec divulgation d’un code ou bon de réduction ;
-*   Avoir fait l’objet d’une rémunération par tout tiers ;
-*   Être contraire aux lois et règlements applicables ;
-*   Être contraire à l’ordre public et aux bonnes mœurs, violent, incitant à la haine, raciste, injurieux, dénigrant, diffamatoire, vulgaire, offensant, sans que cette liste soit limitative ;
-*   Porter atteinte à la vie privée ou aux droits privatifs d’un tiers, notamment droit à l’image des personnes et des biens, droit de propriété intellectuelle et/ou industrielle ;
-*   Être inapproprié vis-à-vis d’un autre Avis ou de son auteur ;
-*   Comporter des données à caractère personnel et/ou sensibles ;
-*   Être à caractère promotionnel ou publicitaire ;
-*   Contenir des liens hypertextes redirigeant notamment vers des sites Internet exploités par des sociétés tierces à Jules ;
-*   Contenir des virus informatiques ou fichiers malveillants.
+* Comporter des informations fausses, mensongères ou de nature à induire en erreur les utilisateurs du Site Internet ;
+* Comporter des informations étrangères et sans rapport avec le Produit auquel l’Avis fait référence ;
+* Faire référence au prix payé pour le Produit évalué ou faire état d’une promotion en cours avec divulgation d’un code ou bon de réduction ;
+* Avoir fait l’objet d’une rémunération par tout tiers ;
+* Être contraire aux lois et règlements applicables ;
+* Être contraire à l’ordre public et aux bonnes mœurs, violent, incitant à la haine, raciste, injurieux, dénigrant, diffamatoire, vulgaire, offensant, sans que cette liste soit limitative ;
+* Porter atteinte à la vie privée ou aux droits privatifs d’un tiers, notamment droit à l’image des personnes et des biens, droit de propriété intellectuelle et/ou industrielle ;
+* Être inapproprié vis-à-vis d’un autre Avis ou de son auteur ;
+* Comporter des données à caractère personnel et/ou sensibles ;
+* Être à caractère promotionnel ou publicitaire ;
+* Contenir des liens hypertextes redirigeant notamment vers des sites Internet exploités par des sociétés tierces à Jules ;
+* Contenir des virus informatiques ou fichiers malveillants.
 
 ARTICLE 5 – MODERATION DES AVIS
 -------------------------------
