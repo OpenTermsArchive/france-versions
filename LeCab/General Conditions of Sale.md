@@ -68,7 +68,7 @@ Pour effectuer une Réservation sur l’Application, le Client doit également e
 
 L’utilisation de l’Application elle-même est gratuite, seul le service réservé au moyen de l’Application fait l’objet d’une facturation.
 
-Si le Client perd ou se fait voler le mobile sur lequel l’Application est installée, ou s’il se fait dérober les Codes d’Accès, le Client doit immédiatement contacter la Société à l’adresse e-mail [contact@lecab.fr](mailto:contact@snapcar.com) La Société décline toute responsabilité des conséquences d’un vol ou d’une perte.
+Si le Client perd ou se fait voler le mobile sur lequel l’Application est installée, ou s’il se fait dérober les Codes d’Accès, le Client doit immédiatement contacter la Société à l’adresse e-mail [contact@lecab.fr](mailto:contact@snapcar.com) La Société décline toute responsabilité des conséquences d’un vol ou d’une perte.
 
 3 - Service
 -----------
@@ -91,7 +91,7 @@ La Société ne garantit pas que le Service sera disponible à l’heure et à l
 
 Après la confirmation de la Réservation, les conditions d’annulation sont prévues sans frais pour les cas suivants uniquement :
 
-– Course en immédiat : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci est effectuée dans les 5 minutes après la confirmation de réservation. 
+– Course en immédiat : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci est effectuée dans les 5 minutes après la confirmation de réservation. 
 
 – Course à l’avance : la modification ou l’annulation de la course n’entraîne pas de frais si celle-ci intervient au moins 30 minutes avant l’heure de prise en charge de la course.
 
@@ -109,7 +109,7 @@ Le Chauffeur choisira l’itinéraire qu’il considère comme étant le plus ap
 
 La Société et le Chauffeur se réservent le droit de refuser des arrêts supplémentaires pendant la course.
 
-Les frais supplémentaires s’appliquent lorsque le Service dépasse la destination prévue lors de la Réservation, lorsque le Client sollicite des arrêts ou des détours, lorsqu’il y a des temps d’attente au-delà de l’horaire prévu pour la Réservation ou lorsque la course n’était initialement pas forfaitaire, par exemple si aucune destination précise n’était spécifiée. Il n’y a pas d’obligation pour le Chauffeur d’accepter les modifications par rapport à ce qui était indiqué lors de la Réservation. 
+Les frais supplémentaires s’appliquent lorsque le Service dépasse la destination prévue lors de la Réservation, lorsque le Client sollicite des arrêts ou des détours, lorsqu’il y a des temps d’attente au-delà de l’horaire prévu pour la Réservation ou lorsque la course n’était initialement pas forfaitaire, par exemple si aucune destination précise n’était spécifiée. Il n’y a pas d’obligation pour le Chauffeur d’accepter les modifications par rapport à ce qui était indiqué lors de la Réservation. 
 
 ### Bagages – passagers
 
@@ -183,7 +183,7 @@ Toutefois, la Société ne garantit pas que l’utilisation de l’Application e
 
 – Les transactions en retard ou différées et la transmission de l’information relative à une Réservation,
 
-– Des erreurs ou des retards dans les systèmes de communication en dehors de son contrôle, 
+– Des erreurs ou des retards dans les systèmes de communication en dehors de son contrôle, 
 
 – Tout autre problème, erreur, retard, ou perte résultant de raisons techniques inhérentes à l’utilisation d’Internet et des communications électroniques ou pour toute autre raison que ce soit,
 
@@ -193,7 +193,7 @@ Bien que la Société fasse tout son possible pour assurer la ponctualité de se
 
 La Société ne sera pas responsable si, au cours de l’exécution du Service, pour une raison quelconque, la Société ne peut exercer pleinement le Service commandé par le Client. Dans ce cas, le Client ne sera pas facturé, même, pour éviter tout doute, pour la partie des Services qui aura été effectuée.
 
-Toutes les réclamations ou autres communications requises ou autorisées en vertu des présentes doivent être faites directement depuis l’Application ou signalées par email à l’adresse suivante : [contact@lecab.fr](mailto:contact@snapcar.com)
+Toutes les réclamations ou autres communications requises ou autorisées en vertu des présentes doivent être faites directement depuis l’Application ou signalées par email à l’adresse suivante : [contact@lecab.fr](mailto:contact@snapcar.com)
 
 Le Client reconnaît expressément que la responsabilité de la Société sera limitée au montant du Prix final ou, le Prix final n’est pas déterminé, au montant du Prix forfaitaire annoncé lors de la réservation ou à défaut à un maximum de 25 Euros si aucun de ces éléments n’est connu.
 
