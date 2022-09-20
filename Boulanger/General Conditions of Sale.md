@@ -1,29 +1,29 @@
 Version n° 30 du 30 septembre 2021
 
-*   [Version n° 29 du 21 août 2020](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V29_08.20.pdf)
-*   [Version n° 28 du 27 septembre 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V28_09.19.pdf)
-*   [Version n° 27 du 12 juillet 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V27_07.19.pdf)
-*   [Version n° 26 du 25 mars 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V26_03.19.pdf)
-*   [Version n° 25 - du 07 janvier 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V25_01.19.pdf)
-*   [Version n° 24 - du 04 octobre 2018](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V24_10.18.pdf)
-*   [Version n° 23 - du 06 avril 2018](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V23_04.2018.pdf)
-*   [Version n° 22 - du 19 octobre 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V22_19.10.2017.pdf)
-*   [Version n° 21 - du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V21_29.03.2017.pdf)
-*   [Version n° 20 - du 22 décembre 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V20_22.12.2016.pdf)
-*   [Version n° 19 - du 03 octobre 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V19_03.10.2016.pdf)
-*   [Version n° 18 - du 08 août 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V18_08.08.2016.pdf)
-*   [Version n° 17 - du 01 juin 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V17_01.06.2016.pdf)
-*   [Version n° 16 - du 24 novembre 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V16_24.11.2015.pdf)
-*   [Version n° 15 - du 18 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V15_%2018.05.2015.pdf)
-*   [Version n° 14 - du 06 février 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V14_06.02.2015.pdf)
-*   [Version n° 13 - du 15 septembre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V13_15.09.2014.pdf)
-*   [Version n° 12 - du 09 juillet 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V12_09.07.2014.pdf)
-*   [Version n° 11 - du 10 avril 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V11_10.04.2014.pdf)
-*   [Version n° 10 - du 26 février 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V10_26.02.2014.pdf)
-*   [Version n° 9 - du 26 février 2013](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V9_26.02.2013.pdf)
-*   [Version n° 8 - du 04 avril 2011](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V8_04.04.2011.pdf)
-*   [Version n° 7 - du 12 novembre 2010](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V7_12.11.2010.pdf)
-*   [Version n° 6 - du 30 novembre 2009](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V6_30.11.2009.pdf)
+* [Version n° 29 du 21 août 2020](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V29_08.20.pdf)
+* [Version n° 28 du 27 septembre 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V28_09.19.pdf)
+* [Version n° 27 du 12 juillet 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V27_07.19.pdf)
+* [Version n° 26 du 25 mars 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V26_03.19.pdf)
+* [Version n° 25 - du 07 janvier 2019](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V25_01.19.pdf)
+* [Version n° 24 - du 04 octobre 2018](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V24_10.18.pdf)
+* [Version n° 23 - du 06 avril 2018](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V23_04.2018.pdf)
+* [Version n° 22 - du 19 octobre 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V22_19.10.2017.pdf)
+* [Version n° 21 - du 29 mars 2017](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V21_29.03.2017.pdf)
+* [Version n° 20 - du 22 décembre 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V20_22.12.2016.pdf)
+* [Version n° 19 - du 03 octobre 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V19_03.10.2016.pdf)
+* [Version n° 18 - du 08 août 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V18_08.08.2016.pdf)
+* [Version n° 17 - du 01 juin 2016](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V17_01.06.2016.pdf)
+* [Version n° 16 - du 24 novembre 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V16_24.11.2015.pdf)
+* [Version n° 15 - du 18 mai 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V15_%2018.05.2015.pdf)
+* [Version n° 14 - du 06 février 2015](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V14_06.02.2015.pdf)
+* [Version n° 13 - du 15 septembre 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V13_15.09.2014.pdf)
+* [Version n° 12 - du 09 juillet 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V12_09.07.2014.pdf)
+* [Version n° 11 - du 10 avril 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V11_10.04.2014.pdf)
+* [Version n° 10 - du 26 février 2014](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V10_26.02.2014.pdf)
+* [Version n° 9 - du 26 février 2013](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V9_26.02.2013.pdf)
+* [Version n° 8 - du 04 avril 2011](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V8_04.04.2011.pdf)
+* [Version n° 7 - du 12 novembre 2010](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V7_12.11.2010.pdf)
+* [Version n° 6 - du 30 novembre 2009](https://www.boulanger.com/content/static/bcom/cgv/ctn/pdf/CGV%20Boulanger%20V6_30.11.2009.pdf)
 
 CHAPITRE I. CONDITIONS GÉNÉRALES DE VENTE BOULANGER.COM / TELEPHONE / TCHAT
 ---------------------------------------------------------------------------
@@ -34,19 +34,19 @@ ARTICLE 1 - CHAMP D'APPLICATION
 Les présentes conditions générales de vente s'appliquent à toutes commandes passées sur ou avec le site internet [www.boulanger.com](https://www.boulanger.com/), via la solution de tchat disponible sur le site www.boulanger.com ou par téléphone via le 3011 depuis la France ou le 0 800 30 30 11 depuis l'étranger, numéros disponibles 7J/7 de 8h à 22h (Numéros gratuits), à l’exclusion des produits vendus sur la marketplace pour lesquels ce sont les Conditions Générales de Vente Partenaires qui s’appliquent. Les présentes conditions s'appliquent à tout consommateur tel que défini par les directives européennes, à savoir « toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité commerciale, industrielle, artisanale ou libérale », et s’appliquent à l'exclusion de toutes autres conditions, notamment celles en vigueur pour les ventes en magasin.  
 Dans l'intégralité des présentes, le client (ci-après « Client ») est entendu comme celui avec lequel s'établit la relation d'achat-vente et lequel est facturé au titre de la commande.  
 Le site web de Boulanger.com propose au Client la vente de tous articles, produits ou services se rapportant à la communication, aux multimédias, au son, à l'image, à l'informatique, à la micro informatique, à l'électroménager, à l'aménagement et l'équipement de la maison, mobiliers, objets de décoration, domotique, de tout appareil et/ou produit électrique, et plus généralement de toute forme de produits ou de services existants ou à créer permettant de mieux vivre le loisir et le confort à la maison et en activité nomade.  
-Toute passation de commande sur le site [www.boulanger.com](https://www.boulanger.com/), par tchat ou par téléphone, suppose la prise de connaissance des présentes conditions générales de ventes ainsi que l'accord du Client sur l'intégralité de leur contenant. Boulanger se réserve la possibilité d'adapter ou de modifier les présentes conditions générales de vente à tout moment. En ce cas, seules les conditions générales de vente en vigueur lors de la prise de commande seront alors applicables. Boulanger conseille au Client de sauvegarder et/ou imprimer les présentes conditions générales de vente pour une conservation sûre et durable, et pouvoir ainsi les invoquer à tout moment pendant l'exécution du contrat si besoin.
+Toute passation de commande sur le site [www.boulanger.com](https://www.boulanger.com/), par tchat ou par téléphone, suppose la prise de connaissance des présentes conditions générales de ventes ainsi que l'accord du Client sur l'intégralité de leur contenant. Boulanger se réserve la possibilité d'adapter ou de modifier les présentes conditions générales de vente à tout moment. En ce cas, seules les conditions générales de vente en vigueur lors de la prise de commande seront alors applicables. Boulanger conseille au Client de sauvegarder et/ou imprimer les présentes conditions générales de vente pour une conservation sûre et durable, et pouvoir ainsi les invoquer à tout moment pendant l'exécution du contrat si besoin.
 
 ARTICLE 2 - PRIX
 ----------------
 
-**2.1.** Tous les prix des produits et services proposés à la vente sur le site [www.boulanger.com](https://www.boulanger.com/) sont exprimés en euros toutes taxes comprises hors participation aux frais de traitement et d'expédition. Ces frais de traitement et d'expédition sont ci-après consultables.  
+**2.1.** Tous les prix des produits et services proposés à la vente sur le site [www.boulanger.com](https://www.boulanger.com/) sont exprimés en euros toutes taxes comprises hors participation aux frais de traitement et d'expédition. Ces frais de traitement et d'expédition sont ci-après consultables.  
 **2.2.** Boulanger se réserve la faculté de modifier ses prix à tout moment mais s'engage à appliquer les tarifs en vigueur lors de l'enregistrement de la commande sous réserve de la disponibilité des produits à cette date.  
 **2.3.** Les produits demeurent la propriété de Boulanger jusqu'à plein et entier encaissement du prix. Toutefois à compter de l'enlèvement ou de la réception de la commande par le Client ou son représentant, les risques des marchandises retirées ou livrées sont transférés au Client.
 
 ARTICLE 3 - LA COMMANDE - VALIDATION DE COMMANDE
 ------------------------------------------------
 
-**3.1.** Les commandes sont effectuées sur le site internet [www.boulanger.com](https://www.boulanger.com/).  
+**3.1.** Les commandes sont effectuées sur le site internet [www.boulanger.com](https://www.boulanger.com/).  
 **3.2.** Les commandes peuvent également être effectuées par téléphone au 3011 depuis la France ou au 0 800 30 30 11 depuis l'étranger, numéros disponibles 7J/7 de 8h à 22h (Numéros gratuits)  
 **3.3.** Les commandes peuvent également être effectuées par tchat depuis le site internet www.boulanger.com tous les jours (hors 1er janvier, 1er mai, 25 décembre) de 8h à 20 heures.  
 **3.4.** Les informations contractuelles sont présentées en langue française.  
