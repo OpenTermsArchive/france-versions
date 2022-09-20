@@ -59,12 +59,12 @@ Le système d’information d’Air Corsica regroupe l’ensemble des moyens inf
 
 Air Corsica recueille et traite des données personnelles pour les raisons (finalités) suivantes : 
 
-*   Etablir avec ses clients, directement ou par l’intermédiaire de ses partenaires, des contrats commerciaux de transport, qui soient conformes à la réglementation en vigueur, notamment la réglementation du transport aérien.
-*   Offrir à ses clients et potentiels clients la meilleure expérience possible, notamment lors de visites sur nos sites internet ou d’utilisation de nos applications mobiles.
-*   Faire connaître notre entreprise, en informant la population des usagers d’Internet.
-*   Développer notre activité, en proposant nos services à une clientèle potentielle grâce aux possibilités aujourd’hui offertes par les outils de marketing numérique.
-*   Participer à l’effort national et européen en matière de lutte contre la criminalité et le terrorisme, en nous conformant aux obligations qui sont les nôtres en matière de collaboration avec les services de police. Particulièrement, conformément à l'article L.232-7 du code de sécurité intérieure, Air Corsica est amenée à transmettre les données de réservations, d'enregistrement et d'embarquement de leurs passagers (PNR/API) à l'administration française, selon les modalités de traitement et pour les finalités fixées par le décret n°2014-1095 du 26/09/2014, modifié par le décret n°2018-714 du 03/08/2018.
-*   Assurer la sûreté et la sécurité des vols en identifiant et en refusant l'embarquement de passagers ne pouvant être admis, entre autres pour avoir déjà enfreint les règles de discipline en vols ou lorsque ces passagers ne sont pas autorisés à quitter ou entrer sur un territoire. Le passager est également informé que tout incident survenu lors de l'exécution du contrat de transport est susceptible de porter atteinte à la sécurité ou à la sûreté d'un vol peut faire l'objet d'un enregistrement informatique.
+* Etablir avec ses clients, directement ou par l’intermédiaire de ses partenaires, des contrats commerciaux de transport, qui soient conformes à la réglementation en vigueur, notamment la réglementation du transport aérien.
+* Offrir à ses clients et potentiels clients la meilleure expérience possible, notamment lors de visites sur nos sites internet ou d’utilisation de nos applications mobiles.
+* Faire connaître notre entreprise, en informant la population des usagers d’Internet.
+* Développer notre activité, en proposant nos services à une clientèle potentielle grâce aux possibilités aujourd’hui offertes par les outils de marketing numérique.
+* Participer à l’effort national et européen en matière de lutte contre la criminalité et le terrorisme, en nous conformant aux obligations qui sont les nôtres en matière de collaboration avec les services de police. Particulièrement, conformément à l'article L.232-7 du code de sécurité intérieure, Air Corsica est amenée à transmettre les données de réservations, d'enregistrement et d'embarquement de leurs passagers (PNR/API) à l'administration française, selon les modalités de traitement et pour les finalités fixées par le décret n°2014-1095 du 26/09/2014, modifié par le décret n°2018-714 du 03/08/2018.
+* Assurer la sûreté et la sécurité des vols en identifiant et en refusant l'embarquement de passagers ne pouvant être admis, entre autres pour avoir déjà enfreint les règles de discipline en vols ou lorsque ces passagers ne sont pas autorisés à quitter ou entrer sur un territoire. Le passager est également informé que tout incident survenu lors de l'exécution du contrat de transport est susceptible de porter atteinte à la sécurité ou à la sûreté d'un vol peut faire l'objet d'un enregistrement informatique.
 
 Le RGPD identifie clairement les finalités pouvant justifier et légitimer le recueil et le traitement de données personnelles. Ces points seront précisés par la suite dans le présent document.
 
@@ -75,8 +75,8 @@ Le RGPD identifie clairement les finalités pouvant justifier et légitimer le r
 
 Dans un premier temps, on peut distinguer deux grands types de données personnelles traitées : 
 
-*   les données personnelles collectées et enregistrées automatiquement par nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/),
-*   les données personnelles saisies par vos soins via les différents formulaires présents sur nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/).
+* les données personnelles collectées et enregistrées automatiquement par nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/),
+* les données personnelles saisies par vos soins via les différents formulaires présents sur nos sites Internet, et notamment [www.aircorsica.com](https://www.aircorsica.com/).
 
 ### 2.1.1 Données personnelles collectées et enregistrées automatiquement
 
@@ -92,19 +92,19 @@ On peut distinguer les données saisies dans le cadre d’un contrat (le plus so
 
 A la date de rédaction du présent document, le site [www.aircorsica.com](https://www.aircorsica.com/) vous propose de saisir des données dans les cas suivants :
 
-*   Création d’un compte internet (cadre non-contractuel)
-*   Inscription à la Newsletter (cadre non-contractuel)
-*   Adhésion au programme de fidélité (cadre contractuel)
-*   Souscription au programme d’abonnement (cadre contractuel)
-*   Achat de billet d’avion (cadre contractuel)
-*   Location de voiture (cadre contractuel)
-*   Enregistrement en ligne (cadre contractuel)
-*   Gérer ma réservation (cadre contractuel)
-*   Litiges et réclamations (cadre contractuel)
-*   Assistance aux personnes à mobilité réduite (cadre non-contractuel)
-*   Assistance internet (cadre non-contractuel)
-*   Demande d’informations (cadre non-contractuel)
-*   Ces points seront détaillés dans la suite du document (paragraphe 2.3)
+* Création d’un compte internet (cadre non-contractuel)
+* Inscription à la Newsletter (cadre non-contractuel)
+* Adhésion au programme de fidélité (cadre contractuel)
+* Souscription au programme d’abonnement (cadre contractuel)
+* Achat de billet d’avion (cadre contractuel)
+* Location de voiture (cadre contractuel)
+* Enregistrement en ligne (cadre contractuel)
+* Gérer ma réservation (cadre contractuel)
+* Litiges et réclamations (cadre contractuel)
+* Assistance aux personnes à mobilité réduite (cadre non-contractuel)
+* Assistance internet (cadre non-contractuel)
+* Demande d’informations (cadre non-contractuel)
+* Ces points seront détaillés dans la suite du document (paragraphe 2.3)
 
 2.2 – Recueil de votre consentement pour enregistrement de données personnelles
 -------------------------------------------------------------------------------
@@ -120,13 +120,13 @@ Pour l’enregistrement de données dans un cadre non contractuel, nous recueill
 
 Afin d’améliorer constamment nos outils de relation client, et notamment le site internet de notre Compagnie, nous traitons les données mentionnées au paragraphe 3.1 du présent document afin d’obtenir les informations suivantes :
 
-*   La date et l’heure du début de votre visite de www.aircorsica.com
-*   L’adresse du site web refferer (celui que vous avez visité juste avant d’arriver sur www.aircorsica.com)
-*   La ou les pages visitées sur www.aircorsica.com.
-*   L'adresse IP de votre appareil
-*   Les caractéristiques du dispositif que vous utilisez pour visiter notre site (type d’appareil, système d’exploitation, navigateur, identifiants de l’appareil)
-*   Les services de notre site que vous avez utilisés lors de votre visite
-*   Les recherches que vous avez effectuées lors de votre visite 
+* La date et l’heure du début de votre visite de www.aircorsica.com
+* L’adresse du site web refferer (celui que vous avez visité juste avant d’arriver sur www.aircorsica.com)
+* La ou les pages visitées sur www.aircorsica.com.
+* L'adresse IP de votre appareil
+* Les caractéristiques du dispositif que vous utilisez pour visiter notre site (type d’appareil, système d’exploitation, navigateur, identifiants de l’appareil)
+* Les services de notre site que vous avez utilisés lors de votre visite
+* Les recherches que vous avez effectuées lors de votre visite 
 
 L’analyse de ces informations nous permet de déterminer de manière précise si notre site Internet [www.aircorsica.com](https://www.aircorsica.com/) répond à vos attentes, quelles sont les parties que nous devons améliorer ou mettre plus en avant ou encore quelles sont les prochaines évolutions à prévoir.
 
@@ -150,17 +150,17 @@ Afin de faciliter l’utilisation de notre site internet [www.aircorsica.com](ht
 
 Lors de la création du compte internet vous êtes invité à saisir les informations suivantes : 
 
-*   Civilité
-*   Nom, 
-*   Prénom, 
-*   Adresse de messagerie
-*   Adresse, code postal, ville, pays
-*   Téléphone
-*   Aéroport de départ favori
-*   Fréquence de voyage
-*   Raison(s) de voyage
-*   Création du mot de passe
-*   Demande d’inscription à la newsletter
+* Civilité
+* Nom, 
+* Prénom, 
+* Adresse de messagerie
+* Adresse, code postal, ville, pays
+* Téléphone
+* Aéroport de départ favori
+* Fréquence de voyage
+* Raison(s) de voyage
+* Création du mot de passe
+* Demande d’inscription à la newsletter
 
 Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs. Elles sont ensuite réutilisées pour compléter automatiquement d’autres formulaires du site sans ressaisie de votre part.
 
@@ -174,11 +174,11 @@ Afin de vous informer régulièrement de nos offres commerciales et plus génér
 
 Lors de l’inscription à notre Newsletter vous êtes invité à saisir les informations suivantes : 
 
-*   Adresse de messagerie
-*   Code postal
-*   Aéroport de départ favori
-*   Fréquence de voyage
-*   Raison(s) de voyage
+* Adresse de messagerie
+* Code postal
+* Aéroport de départ favori
+* Fréquence de voyage
+* Raison(s) de voyage
 
 Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs.
 
@@ -192,13 +192,13 @@ Afin de récompenser la fidélité de nos clients, nous proposons un programme s
 
 Le programme récompense nos clients les plus fidèles en leur offrant un billet gratuit pour 12 voyages A/R effectués sur nos lignes pendant une période de 12 mois (voir le site pour plus de détails). La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
 
-*   Civilité
-*   Prénom
-*   Nom
-*   Date de Naissance
-*   Adresse complète 
-*   Téléphone
-*   Email
+* Civilité
+* Prénom
+* Nom
+* Date de Naissance
+* Adresse complète 
+* Téléphone
+* Email
 
 Le formulaire vous propose la création d’un mot de passe pour accéder par la suite à l’espace dédié de saisie des justificatifs des vols effectués et l’acceptation des [conditions générales d’adhésion](https://www.jegagne1billet.com/Conditions-Generales.pdf) (disponibles pour lecture).
 
@@ -216,13 +216,13 @@ Ce traitement est mis en œuvre afin de vous proposer un parcours client adapté
 
 Vos Données personnelles sont collectées de manière directe lors de votre navigation, via les formulaires de saisie d’informations présentés sur le Site. Vos Données personnelles sont collectées lorsque vous :
 
-*   Remplissez les champs du formulaires (données d’identification : nom, prénom, adresse email, autres données en fonction du formulaire.) ;
-*   Chargez des pièces justificatives dans le formulaire.
+* Remplissez les champs du formulaires (données d’identification : nom, prénom, adresse email, autres données en fonction du formulaire.) ;
+* Chargez des pièces justificatives dans le formulaire.
 
 Vos Données personnelles traitées dans ce cadre relèvent des catégories suivantes :
 
-*   Les données relatives à l’identification, dont notamment les données contenues en particulier dans les
-*   documents suivants : Carte nationale d'identité ou autre document d’identification, Carte d’étudiant.
+* Les données relatives à l’identification, dont notamment les données contenues en particulier dans les
+* documents suivants : Carte nationale d'identité ou autre document d’identification, Carte d’étudiant.
 
 Certaines des données figurant dans les documents suivants : avis d'impôt sur les revenus et attestation d’assurance maladie.
 
@@ -232,20 +232,20 @@ La finalité des traitements qu’Air France et Air Corsica effectuent est la su
 
 ### Pour les adultes :
 
-*   Carte nationale d’identité, passeport ou titre de séjour, et
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) avec la domiciliation fiscale en Corse.
+* Carte nationale d’identité, passeport ou titre de séjour, et
+* Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) avec la domiciliation fiscale en Corse.
 
 ### Pour les étudiants :
 
-*   Carte nationale d’identité, passeport ou titre de séjour, et
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents ou de l'étudiant avec la domiciliation fiscale en Corse
-*   Carte d'étudiant ou certificat de scolarité en cours de validité.
+* Carte nationale d’identité, passeport ou titre de séjour, et
+* Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents ou de l'étudiant avec la domiciliation fiscale en Corse
+* Carte d'étudiant ou certificat de scolarité en cours de validité.
 
 ### Pour les enfants ou adultes à charge :
 
-*   Carte nationale d’identité, passeport ou titre de séjour
-*   Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents avec la domiciliation fiscale en Corse
-*   Attestation d'assurance maladie d'un des parents \*\* (justifiant la filiation ou attestation d'assurance maladie\*\* de l'enfant avec son adresse en Corse s'il détient sa propre carte), attestation d'assurance maladie\*\* de l'adulte à charge avec son adresse en Corse.
+* Carte nationale d’identité, passeport ou titre de séjour
+* Dernier avis d'impôt sur les revenus\* (ou avis de situation déclarative) d'un des parents avec la domiciliation fiscale en Corse
+* Attestation d'assurance maladie d'un des parents \*\* (justifiant la filiation ou attestation d'assurance maladie\*\* de l'enfant avec son adresse en Corse s'il détient sa propre carte), attestation d'assurance maladie\*\* de l'adulte à charge avec son adresse en Corse.
 
 \* Les passagers doivent  masquer les informations relatives à leurs revenus sur l'Avis d'impôt sur les revenus de même que la référence de l'avis mais le numéro fiscal doit être parfaitement visible.  
 \*\* Tous les numéros de Sécurité Sociale doivent être masqués
@@ -304,8 +304,8 @@ Si vous souhaitez en savoir plus sur les traitements réalisés par Air France e
 
 modalités d'exercice de vos droits, nous vous invitons à consulter les politiques suivantes :
 
-*   Politique de confidentialité d'Air France
-*   Politique de confidentialité d'Air Corsica
+* Politique de confidentialité d'Air France
+* Politique de confidentialité d'Air Corsica
 
 Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.)  
 
@@ -315,13 +315,13 @@ Nous proposons à nos clients réguliers une carte d’abonnement payante leur p
 
 La souscription à ce programme se fait à l’adresse Internet suivante : « [https://www.aircorsicaplus.com/](https://www.aircorsicaplus.com/) ». La personne désirant y souscrire est invitée à compléter un formulaire contenant les données suivantes : 
 
-*   Civilité
-*   Prénom
-*   Nom
-*   Date de Naissance
-*   Adresse complète 
-*   Téléphone
-*   Email
+* Civilité
+* Prénom
+* Nom
+* Date de Naissance
+* Adresse complète 
+* Téléphone
+* Email
 
 Le formulaire vous propose l’acceptation des conditions générales d’adhésion (disponibles pour lecture).
 
@@ -337,12 +337,12 @@ Pour ce qui concerne l’adhésion au programme de fidélité Air Corsica, le ca
 
 Lors de la réservation d’un ou plusieurs billets d’avion et de services associés, nous collectons les données suivantes : 
 
-*   Civilité
-*   Nom
-*   Prénom
-*   Email
-*   Téléphone
-*   Date de naissance pour les bébés, enfants, jeunes et séniors.
+* Civilité
+* Nom
+* Prénom
+* Email
+* Téléphone
+* Date de naissance pour les bébés, enfants, jeunes et séniors.
 
 Ces données sont enregistrées dans notre système de réservation opéré par notre partenaire Amadeus ([http://www.amadeus.com/](http://www.amadeus.com/)).
 
@@ -364,8 +364,8 @@ Conformément aux dispositions de l’article L34.5 du Code des postes et des co
 
 Pour ce qui concerne l’achat de billets d’avions et de services associés, les cadres juridiques de la collecte de données personnelles sont : 
 
-*   L’établissement d’un contrat par lequel Air Corsica s’engage à vous transporter sur ses lignes selon les conditions générales de vente acceptées par vos soins lors de la réservation faite sur notre site internet,
-*   Les diverses obligations légales auxquelles est soumise Air Corsica
+* L’établissement d’un contrat par lequel Air Corsica s’engage à vous transporter sur ses lignes selon les conditions générales de vente acceptées par vos soins lors de la réservation faite sur notre site internet,
+* Les diverses obligations légales auxquelles est soumise Air Corsica
 
 #### 2.3.2.7 Location de voiture
 
@@ -405,15 +405,15 @@ La constitution de votre dossier de réclamation s’effectue à l’adresse int
 
 Il vous sera proposé de compléter un formulaire comprenant les données suivantes : 
 
-*   Qualité (particulier ou professionnel du tourisme)
-*   Civilité
-*   Nom
-*   Prénom
-*   Téléphone
-*   Email
-*   Adresse complète
-*   Membre du programme de fidélité Air Corsica (Oui/Non)
-*   Membre du programme Flying Blue (Oui/Non)
+* Qualité (particulier ou professionnel du tourisme)
+* Civilité
+* Nom
+* Prénom
+* Téléphone
+* Email
+* Adresse complète
+* Membre du programme de fidélité Air Corsica (Oui/Non)
+* Membre du programme Flying Blue (Oui/Non)
 
 Ces données personnelles servent à constituer votre dossier de réclamation. Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs.
 
@@ -429,9 +429,9 @@ Pour ce qui concerne le dépôt d’une réclamation, le cadre juridique de la c
 
 Nous mettons à votre disposition des formulaires facilitant l’envoi de messages à nos différents services. Il s’agit des formulaires suivants : 
 
-*   Assistance aux personnes à mobilité réduite 
-*   Assistance internet 
-*   Demande d’informations 
+* Assistance aux personnes à mobilité réduite 
+* Assistance internet 
+* Demande d’informations 
 
 Ces formulaires, une fois complétés par vos soins, génèrent automatiquement des messages électroniques (emails) transmis à nos services.
 
@@ -463,12 +463,12 @@ Quel que soit le moyen utilisé pour acheter un billet sur un de nos vols, pour 
 
 Lors de la réservation d’un ou plusieurs billets d’avion et de services associés directement auprès de nos services, nous collectons les données suivantes : 
 
-*   Civilité
-*   Nom
-*   Prénom
-*   Email
-*   Téléphone
-*   Date de naissance pour les bébés, enfants, jeunes et séniors.
+* Civilité
+* Nom
+* Prénom
+* Email
+* Téléphone
+* Date de naissance pour les bébés, enfants, jeunes et séniors.
 
 Ces données sont enregistrées dans notre système de réservation opéré par notre partenaire Amadeus ([http://www.amadeus.com/](http://www.amadeus.com/)).
 
@@ -486,8 +486,8 @@ Air Corsica conserve par ailleurs ces données dans le cadre d’obligations r�
 
 Pour ce qui concerne l’achat de billets d’avions et de services associés, les cadres juridiques de la collecte de données personnelles sont : 
 
-*   L’établissement d’un contrat par lequel Air Corsica s’engage à vous transporter sur ses lignes selon les conditions générales de vente acceptées par vos soins lors de la réservation faite sur notre site internet,
-*   Les diverses obligations légales auxquelles est soumise Air Corsica
+* L’établissement d’un contrat par lequel Air Corsica s’engage à vous transporter sur ses lignes selon les conditions générales de vente acceptées par vos soins lors de la réservation faite sur notre site internet,
+* Les diverses obligations légales auxquelles est soumise Air Corsica
 
 ### 3.2.2 Achat d’un billet auprès d’un de nos partenaires
 
@@ -533,13 +533,13 @@ Les données traitées par nos soins sont constamment dupliquées et sauvegardé
 
 Les données personnelles pouvant être stockées sur des infrastructures tierces le sont dans le cadre de contrats totalement conformes aux dispositions du RGPD. A la date de validité du présent document, indiquée en fin de texte, Air Corsica a recours aux services des prestataires suivants : 
 
-*   AWS EMEA SARL, 31 place des Corolles, 92400 Courbevoie
-*   AMADEUS IT GROUP, S.A., a company incorporated in Spain whose registered office is at c/. Salvador de Madariaga 1, 28027 Madrid, Spain (“Amadeus”);
-*   TESSI DOCUMENTS SERVICES, SAS, 116 rue de Silly – 92100 Boulogne-Billancourt.
+* AWS EMEA SARL, 31 place des Corolles, 92400 Courbevoie
+* AMADEUS IT GROUP, S.A., a company incorporated in Spain whose registered office is at c/. Salvador de Madariaga 1, 28027 Madrid, Spain (“Amadeus”);
+* TESSI DOCUMENTS SERVICES, SAS, 116 rue de Silly – 92100 Boulogne-Billancourt.
 
 A des fins de maintenance applicative et corrective uniquement Air Corsica a recours aux services des prestataires suivants :
 
-*   MAUREVA LTD, 3rd Floor Orange Tower, 72201, Ebene Cybercity, Mauritius.
+* MAUREVA LTD, 3rd Floor Orange Tower, 72201, Ebene Cybercity, Mauritius.
 
 ### Chapitre 5 - Dispositions générales
 
@@ -561,10 +561,10 @@ Seules les données suivantes sont conservées pour une durée de 5 ans  à tit
 
 Conformément aux textes en vigueur lors de la rédaction du présent document, vous disposez des droits suivants concernant les données personnelles traitées par nos soins :
 
-*   Droit à l'information,
-*   Droit de rectification ou de suppression,
-*   Droit à la limitation du traitement,
-*   Droit à la transférabilité des données.
+* Droit à l'information,
+* Droit de rectification ou de suppression,
+* Droit à la limitation du traitement,
+* Droit à la transférabilité des données.
 
 Pour l'exercice de ces droits ou toute question relative à la protection de vos données personnelles, vous pouvez contacter notre DPO par e-mail : dpo@aircorsica.com.
 
