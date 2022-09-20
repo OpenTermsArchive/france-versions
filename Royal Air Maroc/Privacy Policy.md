@@ -8,20 +8,20 @@ ROYAL AIR MAROC collecte ou est susceptible de collecter des données à caract�
   
 Les données personnelles collectées sont susceptibles d’être traitées pour les finalités suivantes :
 
-*   Gestion des réservations et envoi de votre itinéraire ou d'autres détails liés à votre réservation.
-*   Gestion de vos transactions de paiement électronique.
-*   L'interaction avec vous à différents points de votre voyage
-*   Personnalisation des produits et services selon vos préférences et votre profil
-*   Annonce de promotions, nouveaux services et produits
-*   La fourniture d'accès à nos salons dans les aéroports
-*   Gestion de votre compte Safar Flyer
-*   Conduite des enquêtes de satisfaction
-*   Etudes de marché et statistiques
-*   Assistance et réclamations
-*   Newsletter
-*   Coopération avec les autorités compétentes dans le cadre des dispositions légales applicables
-*   L'exécution des dispositions légales, réglementaires et administratives en vigueur.
-*   Prévention des impayés et la lutte contre la fraude, la prévention et la détection des infractions, et pour des fins juridiques ainsi que pour assurer la sécurité et la sûreté des vols.
+* Gestion des réservations et envoi de votre itinéraire ou d'autres détails liés à votre réservation.
+* Gestion de vos transactions de paiement électronique.
+* L'interaction avec vous à différents points de votre voyage
+* Personnalisation des produits et services selon vos préférences et votre profil
+* Annonce de promotions, nouveaux services et produits
+* La fourniture d'accès à nos salons dans les aéroports
+* Gestion de votre compte Safar Flyer
+* Conduite des enquêtes de satisfaction
+* Etudes de marché et statistiques
+* Assistance et réclamations
+* Newsletter
+* Coopération avec les autorités compétentes dans le cadre des dispositions légales applicables
+* L'exécution des dispositions légales, réglementaires et administratives en vigueur.
+* Prévention des impayés et la lutte contre la fraude, la prévention et la détection des infractions, et pour des fins juridiques ainsi que pour assurer la sécurité et la sûreté des vols.
 
 ### 2-Destinataires de vos données
 
