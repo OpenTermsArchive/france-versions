@@ -111,7 +111,7 @@ Les données personnelles liées aux produits et services de GO Sport.
 
   
 
-Elles proviennent de votre utilisation ou de vos achats de nos produits et services, _ou de ceux de nos partenaires Marketplace_ dans le cadre de notre relation commerciale.
+Elles proviennent de votre utilisation ou de vos achats de nos produits et services, _ou de ceux de nos partenaires Marketplace_ dans le cadre de notre relation commerciale.
 
   
 
@@ -269,7 +269,7 @@ Dans le cadre d’un transfert vers un pays hors Union Européenne, des règles 
 
 Les durées de conservations des données respectent les recommandations de la CNIL et/ou les obligations légales :
 
- [ ![Image without a name](https://www.go-sport.com/dw/image/v2/BGKR_PRD/on/demandware.static/-/Sites-GoSport_FR-Library/default/dw67eef8b3/images/info/Recommandations CNIL.jpg "Image without a name") ](#) 
+  [![Image without a name](https://www.go-sport.com/dw/image/v2/BGKR_PRD/on/demandware.static/-/Sites-GoSport_FR-Library/default/dw67eef8b3/images/info/Recommandations CNIL.jpg "Image without a name")](#)
 
   
 
@@ -323,7 +323,7 @@ Au sein de GO Sport, nous nous engageons totalement pour protéger les données 
 
   
 
-Nous avons désigné un délégué à la protection des données personnelles (DPO) dont les coordonnées personnelles sont les suivantes : Nadia Kharbeche, Délégué de la protection des données à caractère personnel, 17 avenue de la Falaise - 38 360 SASSENAGE [dpo@go-sport.fr](mailto:dpo@go-sport.fr)
+Nous avons désigné un délégué à la protection des données personnelles (DPO) dont les coordonnées personnelles sont les suivantes : Nadia Kharbeche, Délégué de la protection des données à caractère personnel, 17 avenue de la Falaise - 38 360 SASSENAGE [dpo@go-sport.fr](mailto:dpo@go-sport.fr)
 
   
 
