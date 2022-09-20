@@ -12,60 +12,60 @@ Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code 
 Article 1 – Définition des termes
 ---------------------------------
 
-*   « Nous », « notre » et « nos » font référence à Austrian Airlines AG.
-*   Un « agent (autorisé) » est un agent commercial désigné par nous pour la vente de billets d’avion.  
+* « Nous », « notre » et « nos » font référence à Austrian Airlines AG.
+* Un « agent (autorisé) » est un agent commercial désigné par nous pour la vente de billets d’avion.  
     
-*   La « convention » est l’accord visant à normaliser les dispositions spécifiques du transport dans le trafic aérien international, signé à Montréal le 28 mai 1999.  
+* La « convention » est l’accord visant à normaliser les dispositions spécifiques du transport dans le trafic aérien international, signé à Montréal le 28 mai 1999.  
     
-*   Le terme « code compagnie » fait référence à un code composé de deux caractères ou trois lettres attribuées à chaque compagnie aérienne.  
+* Le terme « code compagnie » fait référence à un code composé de deux caractères ou trois lettres attribuées à chaque compagnie aérienne.  
     
-*   L’expression « vol en correspondance » concerne un vol effectué au moyen de deux billets consécutifs ou plus émis conjointement et constituant un seul contrat de transport.  
+* L’expression « vol en correspondance » concerne un vol effectué au moyen de deux billets consécutifs ou plus émis conjointement et constituant un seul contrat de transport.  
     
-*   Un « reçu électronique » est un reçu sous forme électronique ou autre document de notre base de données.  
+* Un « reçu électronique » est un reçu sous forme électronique ou autre document de notre base de données.  
     
-*   Un « billet électronique » est un itinéraire/reçu émis par nos soins : un reçu électronique ou la carte d’embarquement.  
+* Un « billet électronique » est un itinéraire/reçu émis par nos soins : un reçu électronique ou la carte d’embarquement.  
     
-*   Un « coupon de vol » est la partie du billet portant la mention « coupon de vol » ou « bon pour voyager », ou dans le cas des tickets électroniques, le reçu électronique ; il indique les sièges spécifiques sur lesquels vous avez le droit de voyager.  
+* Un « coupon de vol » est la partie du billet portant la mention « coupon de vol » ou « bon pour voyager », ou dans le cas des tickets électroniques, le reçu électronique ; il indique les sièges spécifiques sur lesquels vous avez le droit de voyager.  
     
-*   Un « segment de vol » concerne la section de transport d’un endroit à un autre, effectuée par nous ou par un autre transporteur aérien.  
+* Un « segment de vol » concerne la section de transport d’un endroit à un autre, effectuée par nous ou par un autre transporteur aérien.  
     
-*   L’expression « transporteurs successifs » correspond à une interruption de votre voyage prévue dans une ville située entre vos aéroports de départ et d’arrivée.  
+* L’expression « transporteurs successifs » correspond à une interruption de votre voyage prévue dans une ville située entre vos aéroports de départ et d’arrivée.  
     
-*   Un « bagage » est un ensemble d’effets personnels que vous transportez avec vous pendant votre voyage. Sauf indication contraire, ce terme comprend les bagages enregistrés et non enregistrés.  
+* Un « bagage » est un ensemble d’effets personnels que vous transportez avec vous pendant votre voyage. Sauf indication contraire, ce terme comprend les bagages enregistrés et non enregistrés.  
     
-*   Un « bagage enregistré » est un bagage qui nous est confié et pour lequel une étiquette bagage est émise.  
+* Un « bagage enregistré » est un bagage qui nous est confié et pour lequel une étiquette bagage est émise.  
     
-*   « Bagage non enregistré » fait référence à tout autre bagage.  
+* « Bagage non enregistré » fait référence à tout autre bagage.  
     
-*   Une « étiquette bagage » est un document que nous avons émis pour identifier votre bagage enregistré. Il s’agit d’une étiquette attachée à votre bagage, tandis qu’une étiquette de récupération du bagage vous est remise.  
+* Une « étiquette bagage » est un document que nous avons émis pour identifier votre bagage enregistré. Il s’agit d’une étiquette attachée à votre bagage, tandis qu’une étiquette de récupération du bagage vous est remise.  
     
-*   « Force majeure » fait référence à des circonstances inhabituelles et imprévisibles indépendantes de notre volonté, dont les conséquences n’auraient pas pu être évitées même en prenant toutes les précautions possibles.  
+* « Force majeure » fait référence à des circonstances inhabituelles et imprévisibles indépendantes de notre volonté, dont les conséquences n’auraient pas pu être évitées même en prenant toutes les précautions possibles.  
     
-*   « Plan de vol/Reçu » fait référence au(x) document(s) émis par nos soins, portant le nom du passager, les détails du vol et d’autres informations.  
+* « Plan de vol/Reçu » fait référence au(x) document(s) émis par nos soins, portant le nom du passager, les détails du vol et d’autres informations.  
     
-*   « Consommateur » désigne toute personne qui est un utilisateur tel que défini dans le § 1 (1) de la Loi sur la protection des consommateurs¹ dans la version actuelle telle que modifiée.  
+* « Consommateur » désigne toute personne qui est un utilisateur tel que défini dans le § 1 (1) de la Loi sur la protection des consommateurs¹ dans la version actuelle telle que modifiée.  
     
-*   « Transporteur aérien » (transporteur) fait référence à une compagnie aérienne autre que la nôtre, dont le code compagnie apparaît sur votre billet d’avion ou votre billet dont le vol est assuré par des transporteurs successifs.  
+* « Transporteur aérien » (transporteur) fait référence à une compagnie aérienne autre que la nôtre, dont le code compagnie apparaît sur votre billet d’avion ou votre billet dont le vol est assuré par des transporteurs successifs.  
     
-*   Un « passager » désigne toute personne, à l’exception des membres de l’équipage, transportée ou devant être transportée par avion, conformément à son billet d’avion (voir également les termes « vous », « votre » et « vos »).  
+* Un « passager » désigne toute personne, à l’exception des membres de l’équipage, transportée ou devant être transportée par avion, conformément à son billet d’avion (voir également les termes « vous », « votre » et « vos »).  
     
-*   Un « coupon passager » est la partie du billet qui reste toujours en votre possession.  
+* Un « coupon passager » est la partie du billet qui reste toujours en votre possession.  
     
-*   L’« heure de fin d’enregistrement » est le délai que nous, ou que le transporteur aérien, avons fixé dans lequel vous devez avoir accompli les formalités d’enregistrement et reçu votre carte d’embarquement.  
+* L’« heure de fin d’enregistrement » est le délai que nous, ou que le transporteur aérien, avons fixé dans lequel vous devez avoir accompli les formalités d’enregistrement et reçu votre carte d’embarquement.  
     
-*   « Vous », « votre » et « vos » font référence à toute personne, à l’exception des membres de l’équipage, transportée ou devant être transportée par avion, conformément à son billet d’avion (voir également la définition de « passager »).  
+* « Vous », « votre » et « vos » font référence à toute personne, à l’exception des membres de l’équipage, transportée ou devant être transportée par avion, conformément à son billet d’avion (voir également la définition de « passager »).  
     
-*   L’acronyme « DTS » fait référence au droit de tirage spécial défini par le Fonds monétaire international (1 DTS équivaut à 1,24 EUR au 11 décembre 2019).  
+* L’acronyme « DTS » fait référence au droit de tirage spécial défini par le Fonds monétaire international (1 DTS équivaut à 1,24 EUR au 11 décembre 2019).  
     
-*   « Jours » fait référence aux jours calendaires, y compris les dimanches et les jours fériés ; pour autant, en ce qui concerne la notification, le jour d’émission de l’avis ne compte pas, et en ce qui concerne la durée de validité d’un billet, le jour d’émission du billet ou du début du voyage ne compte pas.  
+* « Jours » fait référence aux jours calendaires, y compris les dimanches et les jours fériés ; pour autant, en ce qui concerne la notification, le jour d’émission de l’avis ne compte pas, et en ce qui concerne la durée de validité d’un billet, le jour d’émission du billet ou du début du voyage ne compte pas.  
     
-*   Le « tarif » est la rémunération à payer pour le transport d’un passager et des bagages, ainsi que les conditions dans lesquelles elle est applicable.  
+* Le « tarif » est la rémunération à payer pour le transport d’un passager et des bagages, ainsi que les conditions dans lesquelles elle est applicable.  
     
-*   Un « billet » est soit un document intitulé « billet et reçu passager », soit un ticket électronique ; il comprend les conditions du contrat et les avis, ainsi que le coupon de vol et les coupons passagers.  
+* Un « billet » est soit un document intitulé « billet et reçu passager », soit un ticket électronique ; il comprend les conditions du contrat et les avis, ainsi que le coupon de vol et les coupons passagers.  
     
-*   Les « arrêts autorisés » sont les endroits expressément définis comme tels ou publiés comme tels dans nos plans de vol, à l’exclusion de l’aéroport de départ et d’arrivée.  
+* Les « arrêts autorisés » sont les endroits expressément définis comme tels ou publiés comme tels dans nos plans de vol, à l’exclusion de l’aéroport de départ et d’arrivée.  
     
-*   Les « conditions du contrat » sont les extraits des conditions contenues dans (ou délivrées avec) votre billet ou plan de vol/reçu, définies comme telles en relation avec les Conditions générales de transport (passagers et bagages) faisant partie de votre contrat de transport.
+* Les « conditions du contrat » sont les extraits des conditions contenues dans (ou délivrées avec) votre billet ou plan de vol/reçu, définies comme telles en relation avec les Conditions générales de transport (passagers et bagages) faisant partie de votre contrat de transport.
 
 1 = Loi fédérale du 8 mars 1979, BGBI \[Code civil fédéral I\] 140, qui prévoit des dispositions pour la protection des consommateurs dans sa version actuellement en vigueur.
 
@@ -220,17 +220,17 @@ Selon notre appréciation légitime, nous pouvons refuser de vous transporter ou
 
 Nous pouvons également refuser de vous transporter ou de transporter vos bagages dans les cas suivants, ou si nous avons de bonnes raisons de penser qu’ils pourraient se produire :  
 
-*   **7.1.1.** à condition que cette action soit nécessaire pour se conformer aux réglementations nationales ou internationales ; ou  
+* **7.1.1.** à condition que cette action soit nécessaire pour se conformer aux réglementations nationales ou internationales ; ou  
     
-*   **7.1.2.** vous transporter ou transporter vos bagages peut compromettre ou menacer la sécurité, la santé ou le confort des passagers ou de l’équipage ; ou
-*   **7.1.3.** votre condition mentale ou physique, notamment la diminution de vos facultés due à la consommation d’alcool ou de drogues, présente un danger ou un risque pour vous-même, les autres passagers, l’équipage ou les biens matériels ; ou
-*   **7.1.4.** vous vous êtes mal conduit(e) sur un précédent vol et nous avons des raisons de penser qu’une telle conduite peut se reproduire ; ou
-*   **7.1.5.** vous avez refusé de vous soumettre à un contrôle de sécurité ; ou
-*   **7.1.6.** vous n’avez pas payé les taxes, frais ou suppléments ; ou
-*   **7.1.7.** vous ne semblez pas être en possession de documents de voyage valides, ou vous cherchez à entrer dans un pays dans lequel vous avez uniquement le droit de transiter ou pour lequel vous n’avez pas de documents de voyage valides, vous avez détruit vos documents au cours du vol, ou vous refusez de les remettre à l’équipage, contre reçu de confirmation, lorsqu’il le demande ; ou
-*   **7.1.8.** vous présentez un billet acquis de manière illicite et ayant été déclaré perdu ou volé ; ou vous ne pouvez pas prouver que vous êtes la personne nommée sur le billet ; ou
-*   **7.1.9.** vous n’avez pas respecté les exigences énoncées dans l’article 3.3 ci-dessus, concernant la séquence d’utilisation des coupons de vol, ou vous présentez un billet ayant été modifié d’une quelconque manière, autrement que par nous ou nos agents autorisés ; ou
-*   **7.1.10.** vous ne respectez pas nos instructions concernant la sécurité et les signaux d’alerte ou autres instructions.
+* **7.1.2.** vous transporter ou transporter vos bagages peut compromettre ou menacer la sécurité, la santé ou le confort des passagers ou de l’équipage ; ou
+* **7.1.3.** votre condition mentale ou physique, notamment la diminution de vos facultés due à la consommation d’alcool ou de drogues, présente un danger ou un risque pour vous-même, les autres passagers, l’équipage ou les biens matériels ; ou
+* **7.1.4.** vous vous êtes mal conduit(e) sur un précédent vol et nous avons des raisons de penser qu’une telle conduite peut se reproduire ; ou
+* **7.1.5.** vous avez refusé de vous soumettre à un contrôle de sécurité ; ou
+* **7.1.6.** vous n’avez pas payé les taxes, frais ou suppléments ; ou
+* **7.1.7.** vous ne semblez pas être en possession de documents de voyage valides, ou vous cherchez à entrer dans un pays dans lequel vous avez uniquement le droit de transiter ou pour lequel vous n’avez pas de documents de voyage valides, vous avez détruit vos documents au cours du vol, ou vous refusez de les remettre à l’équipage, contre reçu de confirmation, lorsqu’il le demande ; ou
+* **7.1.8.** vous présentez un billet acquis de manière illicite et ayant été déclaré perdu ou volé ; ou vous ne pouvez pas prouver que vous êtes la personne nommée sur le billet ; ou
+* **7.1.9.** vous n’avez pas respecté les exigences énoncées dans l’article 3.3 ci-dessus, concernant la séquence d’utilisation des coupons de vol, ou vous présentez un billet ayant été modifié d’une quelconque manière, autrement que par nous ou nos agents autorisés ; ou
+* **7.1.10.** vous ne respectez pas nos instructions concernant la sécurité et les signaux d’alerte ou autres instructions.
 
 ### 7.2. Assistance spéciale
 
@@ -251,9 +251,9 @@ Des frais vous seront facturés pour transporter des bagages excédant votre fra
 
 **8.3.1.** Vous ne pouvez pas transporter dans vos bagages les articles suivants :
 
-*   **8.3.1.1.** Articles pouvant mettre en danger l’appareil, les personnes ou les objets transportés à bord, en particulier ceux mentionnés dans les « Normes concernant les marchandises dangereuses » de l’OACI (Organisation de l’aviation civile internationale) et celles de l’IATA (Association du transport aérien international) et d’autres règlements (de plus amples informations sont disponibles sur demande) ;
-*   **8.3.1.2.** Articles dont le transport est interdit par les lois, règlements et autres dispositions en vigueur de l’État de départ, de destination ou de survol ;
-*   **8.3.1.3.** Articles dont nous ne considérons pas le transport comme approprié, car ils sont dangereux ou en raison de leur poids, taille, forme ou état, fragilité ou nature périssable ; des informations concernant les articles non acceptés sont disponibles sur demande.
+* **8.3.1.1.** Articles pouvant mettre en danger l’appareil, les personnes ou les objets transportés à bord, en particulier ceux mentionnés dans les « Normes concernant les marchandises dangereuses » de l’OACI (Organisation de l’aviation civile internationale) et celles de l’IATA (Association du transport aérien international) et d’autres règlements (de plus amples informations sont disponibles sur demande) ;
+* **8.3.1.2.** Articles dont le transport est interdit par les lois, règlements et autres dispositions en vigueur de l’État de départ, de destination ou de survol ;
+* **8.3.1.3.** Articles dont nous ne considérons pas le transport comme approprié, car ils sont dangereux ou en raison de leur poids, taille, forme ou état, fragilité ou nature périssable ; des informations concernant les articles non acceptés sont disponibles sur demande.
 
 **8.3.2.** Les armes à feu et les munitions non destinées à la chasse ou au sport ne peuvent être transportées dans vos bagages. Les armes à feu et les munitions destinées à la chasse ou au sport peuvent être acceptées en tant que bagage enregistré conformément à nos dispositions, selon lesquelles les armes à feu doivent être correctement emballées, déchargées et leur cran de sûreté engagé. Le transport de munitions est sujet aux réglementations concernant le transport de munitions, tel que mentionné dans l’article 8.3.1.1.
 
@@ -279,7 +279,7 @@ Pour raisons de sécurité, nous pouvons vous demander d’autoriser que l’on 
 
 **8.6.1.** Les bagages enregistrés doivent porter votre nom ou vos coordonnées.
 
-**8.6.2.** Votre bagage enregistré sera toujours transporté dans le même avion que vous, sauf si ce n’est pas possible pour des raisons de sécurité. Dans ce cas, votre bagage enregistré sera transporté sur un vol ultérieur par nous-même ou par l’un de nos partenaires aériens. Dans ce cas, nous vous le remettons sur le lieu de votre séjour, sauf si votre présence est requise pour une inspection douanière.  
+**8.6.2.** Votre bagage enregistré sera toujours transporté dans le même avion que vous, sauf si ce n’est pas possible pour des raisons de sécurité. Dans ce cas, votre bagage enregistré sera transporté sur un vol ultérieur par nous-même ou par l’un de nos partenaires aériens. Dans ce cas, nous vous le remettons sur le lieu de votre séjour, sauf si votre présence est requise pour une inspection douanière.  
 
 ### 8.7. Bagage à main
 
@@ -297,7 +297,7 @@ Pour raisons de sécurité, nous pouvons vous demander d’autoriser que l’on 
 
 ### 8.9. Animaux de compagnie et chiens d’assistance
 
-**8.9.1.** Le transport des chiens, chats et autres animaux domestiques est soumis à notre accord et aux conditions suivantes :
+**8.9.1.** Le transport des chiens, chats et autres animaux domestiques est soumis à notre accord et aux conditions suivantes :
 
 Les animaux doivent être convenablement installés dans une cage et accompagnés des certificats sanitaires et de vaccination, d’une autorisation d’entrée ou de tout autre document exigé par les pays d’entrée ou de transit. Nous nous réservons le droit de définir le type de transport et le nombre maximum d’animaux pouvant voyager sur un vol.
 
@@ -331,26 +331,26 @@ Article 10 – Remboursements
 
 Nous rembourserons un billet ou toute partie inutilisée conformément aux conditions du tarif applicable, comme suit :
 
-*   **10.1.1.** Nous sommes autorisés à rembourser la personne dont le nom apparaît sur le billet ou la personne ayant payé le billet, sur présentation d’une preuve satisfaisante.   
+* **10.1.1.** Nous sommes autorisés à rembourser la personne dont le nom apparaît sur le billet ou la personne ayant payé le billet, sur présentation d’une preuve satisfaisante.   
     
-*   **10.1.2.** À l’exception des billets perdus, les remboursements seront uniquement réalisés sur remise des billets et de tous les coupons de vol non utilisés.  
+* **10.1.2.** À l’exception des billets perdus, les remboursements seront uniquement réalisés sur remise des billets et de tous les coupons de vol non utilisés.  
     
 
 ### 10.2. Montant des remboursements en cas de remboursement volontaire
 
 **10.2.1.** Si vous avez le droit de demander un remboursement pour d’autres raisons que celles énoncées dans l’article 9, le montant du remboursement est calculé comme suit :
 
-*   **10.2.1.1.** si aucune partie du billet n’a été utilisée pour un vol, le tarif payé, moins les frais d’annulation en accord avec les conditions du tarif applicables, sera remboursé ;  
+* **10.2.1.1.** si aucune partie du billet n’a été utilisée pour un vol, le tarif payé, moins les frais d’annulation en accord avec les conditions du tarif applicables, sera remboursé ;  
     
-*   **10.2.1.2.** si une partie du billet a été utilisée pour un vol, le remboursement s’élèvera à la différence entre le prix payé et le tarif applicable pour la partie du trajet entre les destinations du billet utilisé, moins les frais d’annulation applicables.
+* **10.2.1.2.** si une partie du billet a été utilisée pour un vol, le remboursement s’élèvera à la différence entre le prix payé et le tarif applicable pour la partie du trajet entre les destinations du billet utilisé, moins les frais d’annulation applicables.
 
 ### 10.3. Remboursement d’un billet perdu
 
 **10.3.1.** Si vous perdez un billet ou une partie d’un billet, nous rembourserons le prix du billet après l’expiration de la période de validité du billet sur présentation d’une preuve satisfaisante de sa perte, et suite au paiement de frais de gestion raisonnables, à condition que :
 
-*   **10.3.1.1.** le billet perdu (ou une partie du billet) n’ait pas été échangé ou utilisé pour un transport, remboursement ou remplacement ;  
+* **10.3.1.1.** le billet perdu (ou une partie du billet) n’ait pas été échangé ou utilisé pour un transport, remboursement ou remplacement ;  
     
-*   **10.3.1.2.** la personne remboursée s’engage, de la manière prévue par nos soins, à nous rétribuer le montant remboursé en cas de fraude et dans l’éventualité où le billet perdu (ou une partie du billet) a été utilisé ou présenté pour faire une demande de remboursement ou d’échange par un tiers.
+* **10.3.1.2.** la personne remboursée s’engage, de la manière prévue par nos soins, à nous rétribuer le montant remboursé en cas de fraude et dans l’éventualité où le billet perdu (ou une partie du billet) a été utilisé ou présenté pour faire une demande de remboursement ou d’échange par un tiers.
 
 **10.3.2.** Si nous ou nos agents autorisés perdons le billet, il est évident que nous le remplacerons.
 
@@ -375,9 +375,9 @@ Article 11 – Comportement à bord de l’appareil
 
 Si d’après notre opinion, votre conduite à bord de l’avion :
 
-*   met en danger l’appareil, les autres personnes, les biens ou objets à bord ;
-*   entrave le personnel de bord dans la réalisation de ses fonctions ou ne respecte pas ses instructions, y compris, mais pas seulement : l’interdiction de fumer, de consommer de l’alcool ou de la drogue ;
-*   provoque de la gêne, de l’inconfort, des blessures ou des dommages à d’autres passagers ou au personnel de bord ;
+* met en danger l’appareil, les autres personnes, les biens ou objets à bord ;
+* entrave le personnel de bord dans la réalisation de ses fonctions ou ne respecte pas ses instructions, y compris, mais pas seulement : l’interdiction de fumer, de consommer de l’alcool ou de la drogue ;
+* provoque de la gêne, de l’inconfort, des blessures ou des dommages à d’autres passagers ou au personnel de bord ;
 
 nous prendrons les mesures que nous jugeons nécessaires pour empêcher la poursuite de cette conduite. Dans les cas mentionnés, nous pouvons suspendre votre voyage à n’importe laquelle de ses étapes pour vous débarquer de l’appareil, ainsi que vous refuser le transport suivant, et nous pourrions intenter une procédure en justice civile ou pénale pour votre conduite à bord.
 
