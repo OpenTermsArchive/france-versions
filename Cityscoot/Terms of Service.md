@@ -199,7 +199,7 @@ En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre l
 
 En cas d’achat de « pack minutes », l’Utilisateur a la faculté d’exercer un droit de rétractation dans un délai de quatorze (14) jours à compter de la date de l’achat.
 
-Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation disponible [ici](https://www.cityscoot.eu/wp-content/uploads/2021/03/FORMULAIRE-DE-RETRACTATION.docx), dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]ityscoot.eu](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed). 
+Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation disponible [ici](https://www.cityscoot.eu/wp-content/uploads/2021/03/FORMULAIRE-DE-RETRACTATION.docx), dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed). 
 
 Si l’utilisation du Service n’a pas commencé au moment où l’Utilisateur exerce son droit de rétractation, l’Utilisateur est intégralement remboursé du montant du « pack minutes » payé.
 
