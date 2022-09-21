@@ -29,7 +29,7 @@ Lorsque vous ouvrez une page sur un site Web ou un e-mail avec un pixel intégr�
 **2\. Catégories de technologies de suivi**
 -------------------------------------------
 
-Les technologies de suivi peuvent être soit de « première partie », soit de « tierce partie ». Les technologies de suivi de première partie font référence aux technologies de suivi que nous configurons et utilisons directement. Les technologies de suivi de tierce partie font référence aux technologies de suivi configurées par des tiers (comme nos fournisseurs de services d’analyse ou de publicité) via nos sites Web.
+Les technologies de suivi peuvent être soit « internes », soit de « tiers ». Les technologies de suivi internes font référence aux technologies de suivi que nous configurons et utilisons directement. Les technologies de suivi de tiers font référence aux technologies de suivi configurées par des tiers (comme nos fournisseurs de services d’analyse ou de publicité) via nos sites Web.
 
 Les types de technologies de suivi que nous et nos partenaires utilisons en relation avec les Sites Web peuvent être classés dans l’une des quatre catégories suivantes, à savoir (i) « Strictement nécessaire », (ii) « Fonctionnalité », (iii) « Analyses et performance » (iv) « Publicité et marketing ». Nous fournissons des informations générales supplémentaires sur chacune de ces catégories ci-dessous.
 
@@ -37,9 +37,9 @@ Les types de technologies de suivi que nous et nos partenaires utilisons en rela
 
 Ces technologies de suivi sont strictement nécessaire pour vous fournir le Site Web et les fonctionnalités que vous avez demandées, par exemple pour vous permettre de vous connecter à des zones sécurisées du site Web. Étant donné que ces technologies sont essentielles au fonctionnement du Site Web et des fonctionnalités que vous avez demandées, vous ne pouvez pas refuser ces technologies de suivi.
 
-_Technologies de suivi de première partie (configurées par TikTok):_
+_Technologies de suivi internes (configurées par TikTok):_
 
-Nous utilisons des technologies de suivi de première partie aux fins essentielles suivantes :
+Nous utilisons des technologies de suivi internes aux fins essentielles suivantes :
 
 * l’optimisation et l’amélioration de l’accès au site Web
 * la prévention de la fraude et la détection du trafic non humain (bot)
@@ -48,7 +48,7 @@ Nous utilisons des technologies de suivi de première partie aux fins essentiell
 
 Comme expliqué ci-dessus, ces technologies de suivi sont strictement nécessaires au fonctionnement de nos sites Web et ne peuvent pas être refusées. Certaines de ces technologies de suivi ont une durée maximale de 24 mois.
 
-_Technologies de suivi de tierce partie (configurées par nos partenaires):_
+_Technologies de suivi de tiers (configurées par nos partenaires):_
 
 Nous déployons également des technologies de suivi provenant des tiers suivants aux fins essentielles suivantes :
 
@@ -61,9 +61,9 @@ Nous déployons également des technologies de suivi provenant des tiers suivant
 
 Les technologies de suivi des fonctionnalités enregistrent les informations que vous saisissez ou vos choix, telles que vos identifiants de connexion, votre statut de connexion, votre identifiant, votre préférence linguistique pour le Site Web et votre choix concernant le consentement aux cookies. Ils aident à le rendre plus efficace et nous permettent de personnaliser le Site Web selon vos préférences.
 
-_Technologies de suivi de première partie (configurées par TikTok) :_
+_Technologies de suivi internes (configurées par TikTok) :_
 
-Nous utilisons des technologies de suivi de première partie aux fins fonctionnelles suivantes :
+Nous utilisons des technologies de suivi internes aux fins fonctionnelles suivantes :
 
 * Plafonnement de fréquence (limitant le nombre de fois  qu’une même vidéo vous est presentée)
 * Localisation (afin de mémoriser le pays à partir duquel vous visitez le ou les Sites Web et vos préférences linguistiques) 
@@ -71,7 +71,7 @@ Nous utilisons des technologies de suivi de première partie aux fins fonctionne
 
 Certaines de ces technologies de suivi ont une durée maximale de 24 mois.
 
-_Technologies de suivi de tierce partie (configurées par nos partenaires):_ 
+_Technologies de suivi de tiers (configurées par nos partenaires):_ 
 
 Aucune à cette fin.
 
@@ -79,11 +79,11 @@ Aucune à cette fin.
 
 Nous utilisons des technologies de suivi d’analyse et de performance pour analyser la façon dont vous utilisez le Site Web, y compris les pages que vous visualisez le plus souvent, la manière dont vous interagissez avec le contenu, pour mesurer les erreurs qui se produisent et tester différentes idées quant au design du Site Web. Les informations sont utilisées pour signaler et évaluer vos activités et modèles en tant qu’utilisateur du site Web.
 
-_Technologies de suivi de première partie (configurées par TikTok) :_
+_Technologies de suivi  internes (configurées par TikTok) :_
 
-Nous utilisons des technologies de suivi de première partie à des fins d’analyses et d’optimisation pour le  Web. Certaines de ces technologies de suivi ont une durée maximale de 13 mois.
+Nous utilisons des technologies de suivi internes à des fins d’analyses et d’optimisation pour le  Web. Certaines de ces technologies de suivi ont une durée maximale de 13 mois.
 
-_Technologies de suivi de tierce partie (configurées par nos partenaires) :_ 
+_Technologies de suivi de tiers (configurées par nos partenaires) :_ 
 
 Nous déployons également des technologies de suivi provenant des tiers suivants aux fins d’analyse et de performance suivantes :
 
@@ -94,44 +94,44 @@ Nous déployons également des technologies de suivi provenant des tiers suivant
 
 ### **(iv) Publicité et marketing**
 
-Certains de nos Sites Web utilisent des technologies de suivi de tierce partie en matière de publicité et de marketing. Ces technologies de suivi nous aident, et aident parfois les tiers, à promouvoir nos services sur d’autres plateformes et sites Web et à mesurer l’efficacité de nos campagnes.
+Certains de nos Sites Web utilisent des technologies de suivi de tiers en matière de publicité et de marketing. Ces technologies de suivi nous aident, et aident parfois les tiers, à promouvoir nos services sur d’autres plateformes et sites Web et à mesurer l’efficacité de nos campagnes.
 
-_Technologies de suivi de première partie (configurées par TikTok) :_
+_Technologies de suivi internes (configurées par TikTok) :_
 
-Nous utilisons les technologies de suivi de première partie à des fins de marketing, y compris pour suivre la conversion des publicités pour TikTok, optimiser nos publicités, créer des publics ciblés pour les futures publicités et relancer les personnes qui ont déjà effectué une action quelconque sur nos sites Web ou nos publicités.
+Nous utilisons les technologies de suivi internes à des fins de marketing, y compris pour suivre la conversion des publicités pour TikTok, optimiser nos publicités, créer des publics ciblés pour les futures publicités et relancer les personnes qui ont déjà effectué une action quelconque sur nos sites Web ou nos publicités.
 
-_Technologies de suivi de tierce partie (configurées par nos partenaires) :_ 
+_Technologies de suivi de tiers (configurées par nos partenaires) :_ 
 
-Nous déployons également des technologies de suivi provenant des tiers suivants aux fins publicitaires et marketing suivantes :
+Nous déployons également des technologies de suivi provenant des tiers ci-dessous aux fins publicitaires et marketing suivantes :
 
 * AppsFlyer ([https://www.appsflyer.com/privacy-policy/](https://www.appsflyer.com/privacy-policy/)) 
 
-* Objectif : Attribution de téléchargement d’applications, mesures de campagne et services de remarketing. Lorsque vous téléchargez TikTok via un Site Web, AppsFlyer collecte sélective données de votre appareil pour nous aider à comprendre la source du téléchargement, la publicité via laquelle vous avez accédé à TikTok et à quel moment l’installation s’est produite. Votre activité postérieure à l’installation, comme les vidéos que vous avez visualisées/comptes que vous avez suivis, sera également utilisée pour mesurer l’efficacité de la campagne. 
+* Objectif : Attribution de téléchargement d’applications, mesures de campagne et services de remarketing. Lorsque vous téléchargez TikTok via un Site Web, AppsFlyer collecte certaines données de votre appareil pour nous aider à comprendre la source du téléchargement, la publicité via laquelle vous avez accédé à TikTok et à quel moment l’installation s’est produite. Votre activité postérieure à l’installation, comme les vidéos que vous avez visualisées/comptes que vous avez suivis, sera également utilisée pour mesurer l’efficacité de la campagne. 
 * Durée : 24 mois 
 
 * Google Ads ([https://policies.google.com/privacy](https://policies.google.com/privacy))
 
-* Objectif : Relier des recherches Google à des visites sur nos Sites Web. Également, à des fins de marketing, y compris pour suivre la conversion de publicités pour les publicités TikTok affichées sur Google, optimiser nos publicités, créer des publics ciblés pour les futures publicités et relancer les personnes qui ont déjà effectué une action quelconque sur nos sites Web ou nos publicités.
+* Objectif : Pour relier des recherches Google à des visites sur nos Sites Web. Pour améliorer nos campagnes marketing, y compris pour suivre les conversions de publicités pour les publicités TikTok affichées sur Google, optimiser nos publicités, créer des publics ciblés pour les futures publicités et relancer les personnes qui ont déjà effectué une action quelconque sur nos sites Web ou nos publicités.
 * Durée : 24 mois 
 
 * Pixel Facebook ([https://www.facebook.com/policy](https://www.facebook.com/policy))
 
-* Objectif : Pour améliorer nos campagnes marketing, y compris pour le suivi de conversion des publicités pour les publicités TikTok affichées sur Facebook, la création de publics ciblés, l’optimisation des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
+* Objectif : Pour améliorer nos campagnes marketing, y compris pour suivre les conversions des publicités pour les publicités TikTok affichées sur Facebook, créer des publics ciblés, optimiser des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions quelconques sur nos sites Web ou sur les publicités TikTok.
 * Durée : 24 mois
 
 * Balise Linkedin Insight ([https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy))
 
-* Objectif : Pour améliorer nos campagnes marketing, y compris pour le suivi de conversion des publicités pour les publicités TikTok affichées sur LinkedIn, la création de publics ciblés, l’optimisation des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
+* Objectif : Pour améliorer nos campagnes marketing, y compris pour suivre les conversions des publicités pour les publicités TikTok affichées sur LinkedIn, créer des publics ciblés, optimiser des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
 * Durée : 24 mois
 
 * Pixel Bing ([https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement))
 
-* Objectif : Pour améliorer nos campagnes marketing, y compris pour le suivi de conversion des publicités pour les publicités TikTok affichées sur Bing, la création de publics ciblés, l’optimisation des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
+* Objectif : Pour améliorer nos campagnes marketing, y compris pour suivre les conversions des publicités pour les publicités TikTok affichées sur Bing, créer des publics ciblés, optimiser des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
 * Durée : 24 mois
 
 * Pixel Reddit ([https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy))
 
-* Objectif : Pour améliorer nos campagnes marketing, y compris pour le suivi de conversion des publicités pour les publicités TikTok affichées sur Reddit, la création de publics ciblés, l’optimisation des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
+* Objectif : Pour améliorer nos campagnes marketing, y compris pour suivre les conversions des publicités pour les publicités TikTok affichées sur Reddit, créer des publics ciblés, optimiser des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
 * Durée : 24 mois
 
 **3\. Comment accepter ou refuser les cookies**
