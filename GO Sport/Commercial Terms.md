@@ -1,7 +1,8 @@
 Conditions générales de vente mises à jour le 1er septembre 2022
 
+  
+
 ARTICLE 1 - OBJET
-=================
 
 Les présentes Conditions Générales de Vente sont conclues entre la société GO SPORT France, SAS au capital de 41 509 983,00 € dont le siège social est situé 17 Avenue de la Falaise, 38360 Sassenage, immatriculée au RCS de Grenoble sous le numéro 428 560 031 (ci-après dénommée « la Société ») et toute personne physique effectuant un achat (ci-après dénommée « le Client ») sur le site www.go-sport.com (ci-après désigné « le Site »).
 
