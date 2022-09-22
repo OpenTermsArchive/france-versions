@@ -404,7 +404,7 @@ Si vous avez des questions ou si vous avez besoin d’informations supplémentai
 Transferts internationaux de données personnelles
 -------------------------------------------------
 
-Dans le cadre de notre fourniture de la Plate-forme et des services associés, nous pouvons être amenés à transférer vos données personnelles vers des pays en dehors de l'EEE, y compris vers des pays qui ne peuvent pas fournir le même niveau de protection des données que celui de votre pays d’origine, tels que les États-Unis États et la Chine. Nous prenons les mesures appropriées pour nous assurer que les destinataires de vos données personnelles sont tenus à des obligations de confidentialité et nous mettons en œuvre les mesures appropriées pour garantir leur protection conformément à la présente politique de confidentialité, tels que des clauses contractuelles types.Une copie de ces clauses peut être demandée à l'adresse [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?).
+Dans le cadre de notre fourniture de la Plate-forme et des services associés, nous pouvons être amenés à transférer vos données personnelles vers des pays en dehors de l'EEE, y compris vers des pays qui ne peuvent pas fournir le même niveau de protection des données que celui de votre pays d’origine, tels que les États-Unis États et la Chine. Nous prenons les mesures appropriées pour nous assurer que les destinataires de vos données personnelles sont tenus à des obligations de confidentialité et nous mettons en œuvre les mesures appropriées pour garantir leur protection conformément à la présente politique de confidentialité, tels que des clauses contractuelles types.Une copie de ces clauses peut être demandée à l'adresse DataProtection@service.alibaba.com.
 
 Vos droits
 ----------
@@ -442,7 +442,7 @@ Si vous constatez des changements ou des inexactitudes dans vos données, vous d
 H. COMMENT NOUS CONTACTER
 =========================
 
-Si vous avez des demandes, des questions ou des interrogations au sujet de l'utilisation de vos données personnelles et concernant la présente Politique de confidentialité, veuillez nous contacter à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?).
+Si vous avez des demandes, des questions ou des interrogations au sujet de l'utilisation de vos données personnelles et concernant la présente Politique de confidentialité, veuillez nous contacter à DataProtection@service.alibaba.com.
 
 I. Langue
 =========
@@ -629,7 +629,7 @@ D. DROITS CONCERNANT LES DONNÉES PERSONNELLES
 
 Conformément à la législation en vigueur, vous disposez d’un droit d'accès aux Données personnelles que nous détenons, ainsi que d’autres droits. Si vous êtes un Visiteur de l'Union européenne, veuillez vous référer à la section I. VISITEURS DE L'UNION EUROPÉENNE, ci-dessous, pour de plus amples informations.
 
-Si vous avez des questions concernant la Politique de confidentialité ou si vous souhaitez accéder à vos Données personnelles, ou les rectifier, vous pouvez envoyer votre demande à [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
+Si vous avez des questions concernant la Politique de confidentialité ou si vous souhaitez accéder à vos Données personnelles, ou les rectifier, vous pouvez envoyer votre demande à DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
 
 Si, et dans la mesure où cela est autorisé par la législation en vigueur, nous pouvons vous facturer des frais pour le traitement de toute demande que vous faites concernant vos Données personnelles.
 
@@ -698,7 +698,7 @@ Vous trouverez de plus amples informations à ce sujet à l'adresse suivante :
 
 F. PERSONNES MINEURES
 
-Les Sites et leurs contenus ne sont pas destinés aux mineurs (les personnes ayant moins de 18 ans) et nous n'avons pas vocation à vendre nos produits ou services à des mineurs. Si un mineur nous a fourni des Données personnelles sans l’autorisation de ses parents ou de son tuteur, les parents ou le tuteur doivent contacter [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com) pour que lesdites informations soient supprimées.
+Les Sites et leurs contenus ne sont pas destinés aux mineurs (les personnes ayant moins de 18 ans) et nous n'avons pas vocation à vendre nos produits ou services à des mineurs. Si un mineur nous a fourni des Données personnelles sans l’autorisation de ses parents ou de son tuteur, les parents ou le tuteur doivent contacter DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com) pour que lesdites informations soient supprimées.
 
 G. MESURES DE SÉCURITÉ
 
@@ -734,7 +734,7 @@ Si vous avez des questions sur la base juridique du recueil et de l’utilisatio
 
 Transferts internationaux de Données personnelles
 
-Notre activité peut nous obliger à transférer vos Données personnelles vers des pays hors de l'Espace économique européen (« EEE »), y compris vers des pays qui n'offrent pas le même niveau de protection des données que votre pays d'origine, comme les États-Unis et la Chine. Nous prenons les mesures appropriées pour garantir que les destinataires de vos Données personnelles soient tenus par des obligations en matière de confidentialité et mettons en œuvre des mesures appropriées pour garantir que vos Données personnelles resteront protégées conformément à la présente Politique de confidentialité, telles que les clauses contractuelles types. Une copie de ces clauses peut être obtenue en contactant [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
+Notre activité peut nous obliger à transférer vos Données personnelles vers des pays hors de l'Espace économique européen (« EEE »), y compris vers des pays qui n'offrent pas le même niveau de protection des données que votre pays d'origine, comme les États-Unis et la Chine. Nous prenons les mesures appropriées pour garantir que les destinataires de vos Données personnelles soient tenus par des obligations en matière de confidentialité et mettons en œuvre des mesures appropriées pour garantir que vos Données personnelles resteront protégées conformément à la présente Politique de confidentialité, telles que les clauses contractuelles types. Une copie de ces clauses peut être obtenue en contactant DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
 
 Vos droits
 
@@ -758,7 +758,7 @@ Si vous êtes informé de changements ou d'inexactitudes dans vos informations, 
 
 J. COMMENT NOUS CONTACTER
 
-Si vous avez des demandes, questions ou inquiétudes concernant notre utilisation de vos Données personnelles ou la présente Politique de confidentialité, veuillez nous contacter à [DataProtection.AE@aliexpress.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’AliExpress.com) ou à [DataProtection@service.alibaba.com](https://rule.alibaba.com/rule/detail/4672.htm?)(pour les utilisateurs d’Alibaba.com).
+Si vous avez des demandes, questions ou inquiétudes concernant notre utilisation de vos Données personnelles ou la présente Politique de confidentialité, veuillez nous contacter à DataProtection.AE@aliexpress.com(pour les utilisateurs d’AliExpress.com) ou à DataProtection@service.alibaba.com(pour les utilisateurs d’Alibaba.com).
 
 A. COLLECTE DEDONNÉES
 
