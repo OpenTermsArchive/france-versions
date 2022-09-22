@@ -709,9 +709,11 @@ En cas de réclamation, le Client pourra s'adresser en premier recours au servic
 
     - Par courriel : commande@serviceclients.leclerc
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, L COMMERCE adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – http://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de L COMMERCE, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
+«Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, LCommerce adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://www.mediateurfevad.fr/).
 
-La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici :  [https://ec.europa.eu/consumers/odr/.](https://ec.europa.eu/consumers/odr/)  
+Après démarche préalable écrite des consommateurs vis-à-vis de LCommerce, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://www.mediateurfevad.fr/index.php/espace-consommateur-2/#msdynttrid=anTN6NR7wlKwtI_BfzSL1VWfUeLvR6JL_b1cRtXfhno).
+
+La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici :  [https://ec.europa.eu/consumers/odr/.](https://ec.europa.eu/consumers/odr/)
 
   
 
