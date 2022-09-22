@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 3 août 2022 - 3
+\- 16 septembre 2022 - 3
 
 
 
@@ -34,7 +34,9 @@ UN CRÉDIT VOUS ENGAGE ET DOIT ÊTRE REMBOURSÉ.VÉRIFIEZ VOS CAPACITÉS DE REMB
 
 1\. Le remboursement de la différence si vous trouvezmoins cher, même sur internet
 
-Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau (1).
+Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau
+
+ (1).
 
 2\. Des prix bas, identiques en magasin et sur internet
 
@@ -42,7 +44,7 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3) .
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
@@ -86,9 +88,9 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 
 
-\- 3 août 2022 - 4
+\- 16 septembre 2022 - 4
 
-\- 3 août 2022 - 5
+\- 16 septembre 2022 - 5
 
 
 
@@ -112,7 +114,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 3 août 2022 - 6
+\- 16 septembre 2022 - 6
 
 
 
@@ -140,7 +142,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 DURABILITÉ
 
-\- 3 août 2022 - 7
+\- 16 septembre 2022 - 7
 
 
 
@@ -162,7 +164,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 3 août 2022 - 8
+\- 16 septembre 2022 - 8
 
 
 
@@ -186,7 +188,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 3 août 2022 - 9
+\- 16 septembre 2022 - 9
 
 
 
@@ -234,7 +236,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 3 août 2022 - 10
+\- 16 septembre 2022 - 10
 
 
 
@@ -298,7 +300,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 3 août 2022 - 11
+\- 16 septembre 2022 - 11
 
 
 
@@ -318,17 +320,31 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion
 
-Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
+ 4 € TTC/mois
 
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
+ 4 € TTC/mois
+
+Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois
+
+ 2 € TTC/mois
+
+Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an
+
+ 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
 
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
+
+ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 €
+
+ 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an
+
+ 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
 
 
 
@@ -342,7 +358,7 @@ Les assurances
 
 DURABILITÉ
 
-\- 3 août 2022 - 12
+\- 16 septembre 2022 - 12
 
 
 
@@ -458,9 +474,9 @@ Montage et mise en service 59 €
 
 
 
-\- 3 août 2022 - 13
+\- 16 septembre 2022 - 13
 
-\- 3 août 2022 - 14
+\- 16 septembre 2022 - 14
 
 
 
@@ -562,7 +578,7 @@ Clause de cession du risque : Darty se réserve le droit de céder à un tiers l
 
 TABLEAUX DES GARANTIES
 
-\- 3 août 2022 - 15
+\- 16 septembre 2022 - 15
 
 
 
@@ -602,7 +618,9 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
+Hi-Fi:
+
+ Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
@@ -712,7 +730,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 3 août 2022 - 16
+\- 16 septembre 2022 - 16
 
 
 
@@ -754,7 +772,7 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 3 août 2022 - 17
+\- 16 septembre 2022 - 17
 
 
 
@@ -812,7 +830,7 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 3 août 2022 - 18
+\- 16 septembre 2022 - 18
 
 
 
@@ -880,7 +898,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 3 août 2022 - 19
+\- 16 septembre 2022 - 19
 
 
 
@@ -934,7 +952,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 3 août 2022 - 20
+\- 16 septembre 2022 - 20
 
 
 
@@ -1034,7 +1052,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 3 août 2022 - 21
+\- 16 septembre 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1098,7 +1116,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 3 août 2022 - 22
+\- 16 septembre 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1124,7 +1142,7 @@ Le professionnel peut refuser la mise en conformité si elle s'avèreimpossible 
 
 Mode de règlement des litiges
 
-Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante : Darty \& Fils -Service Consommateur - DARTY Service Consommateur - 38 avenueRoger Salengro 94120 Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
+Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante :DARTY Service Consommateur - 38 avenue Roger Salengro 94120Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
 
 
 
@@ -1134,7 +1152,7 @@ Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEME
 
 
 
-\- 3 août 2022 - 23
+\- 16 septembre 2022 - 23
 
 www.cnil.fr. La plupart des données vous concernant seront conservéespendant une durée de 5 ans à compter de votre dernière activité (ex. :achat, échéance de vos contrats), puis archivées avec un accès restreintpour une durée supplémentaire de 5 ans pour des raisons strictementlimitées et autorisées par la loi (paiement, garantie, litiges ...). Vous êtesinformés que vos données peuvent être transmises pour les besoinsdes finalités mentionnées ci-dessus à des sociétés situées en dehorsde l’Union Européenne notamment pour les activités de service client(centres d’appel situés au Maroc et à Madagascar), prestationsinformatiques, exploitation des données en lien avec les réseauxsociaux. Toute procédure requise pour sécuriser les données sera miseen œuvre avant de procéder à de tels transferts. Plus d’informations surl a p r o t e c t i o n d e s d o n n é e s p e r s o n n e l l e s s u rdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
 
@@ -1152,4 +1170,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 3 août 2022 - 24
+\- 16 septembre 2022 - 24
