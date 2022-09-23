@@ -25,20 +25,20 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 20/09/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (24)
+Necessary (27)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_cf\_bm \[x3\] | webforms.pipedrive.com  <br>cdn.eu-central-1.pipedriveassets.com  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
-| \_\_cfruid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
+| \_\_cf\_bm \[x4\] | webforms.pipedrive.com  <br>cdn.eu-central-1.pipedriveassets.com  <br>support.taxify.eu  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | \_cq\_check \[x2\] | eudevil.mcangelus.com | Determines whether the user has accepted the cookie consent box. | Session | HTTP Cookie |
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
 | \_GRECAPTCHA | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 179 days | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
-| CookieConsent \[x7\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| CookieConsent \[x8\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | debug \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. | Persistent | HTML Local Storage |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
@@ -61,7 +61,7 @@ Preference cookies enable our website to remember information that changes the w
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (31)
+Statistics (35)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -69,10 +69,10 @@ Statistic cookies help us understand how you interact with our website by collec
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_device\_id\_ | food.bolt.eu | Pending | Persistent | HTML Local Storage |
-| \_ga | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 2 years | HTTP Cookie |
-| \_ga\_# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 2 years | HTTP Cookie |
-| \_gat | fleets.bolt.eu | Used by Google Analytics to throttle request rate | 1 day | HTTP Cookie |
-| \_gid | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
+| \_ga \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 2 years | HTTP Cookie |
+| \_ga\_# \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 2 years | HTTP Cookie |
+| \_gat \[x2\] | fleets.bolt.eu  <br>support.taxify.eu | Used by Google Analytics to throttle request rate | 1 day | HTTP Cookie |
+| \_gid \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
 | \_hjIncludedInPageviewSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy "Hotjar's privacy policy") | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
