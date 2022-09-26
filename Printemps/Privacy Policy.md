@@ -1090,7 +1090,7 @@ Afin de mieux connaitre notre clientèle et de vous faire bénéficier d'offres 
 
   
 
-A l'occasion de la souscription à une offre, de l'ouverture d'une liste, d'un parrainage, de l'ouverture d'une cagnotte en ligne sur Printemps.com, la personne organisatrice peut communiquer des informations relatives aux autres personnes pour lesquelles elle réserve la prestation, ou pour qui elle ouvre la liste, la cagnotte, ou réalise le parrainage, sous réserve qu'elle ait préalablement obtenue l'accord de la part desdites personnes pour une telle communication.
+A l'occasion de l'ouverture d'une liste, d'un parrainage, de l'ouverture d'une cagnotte en ligne sur Printemps.com, la personne organisatrice peut communiquer des informations relatives aux autres personnes pour lesquelles elle réserve la prestation, ou pour qui elle ouvre la liste, la cagnotte, ou réalise le parrainage, sous réserve qu'elle ait préalablement obtenue l'accord de la part desdites personnes pour une telle communication.
 
 Lorsque nous collectons des données à caractère personnel directement auprès de vous, nous signalons les champs obligatoires, puisqu'il s'agit de données dont nous avons besoin pour assurer le service en question ou pour vous permettre d'accéder à une fonctionnalité. Si vous ne souhaitez pas renseigner ces champs, cela pourra impacter notre capacité à vous offrir les produits et services demandés ou votre faculté d'accéder à l'ensemble des fonctionnalités de nos Sites.
 
