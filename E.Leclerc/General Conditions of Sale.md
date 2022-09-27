@@ -59,7 +59,7 @@ ARTICLE 21. LOI APPLICABLE ET JURIDICTIONS COMPÉTENTES 
 ANNEXES   
   
   
-Dernière mise à jour : 31/12/2021
+Dernière mise à jour : 27/09/2022
 
   
 
@@ -620,74 +620,64 @@ Les prix comprennent le cas échéant le coût de l'éco-participation à la cha
 
 ### ARTICLE 19. GARANTIES LÉGALES
 
-19.1 Indépendamment de la garantie commerciale, L COMMERCE ou le Vendeur Tiers concerné est tenu aux défauts de conformité des produits, y compris ceux intégrant des contenus numériques, dans les conditions des articles L. 217-34 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code civil.
+19.1 Indépendamment de la garantie commerciale, L COMMERCE ou le Vendeur Tiers concerné est tenu aux défauts de conformité des produits, y compris ceux intégrant des contenus numériques, dans les conditions des articles L. 217-3 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
   
 
-Lorsqu'il agit en garantie légale de conformité sur le fondement des articles L.217-34 et suivants du Code de la consommation, le Client :  
-  
-
-\- bénéficie d'un délai de deux ans à compter de la délivrance du produit pour agir ;  
-
-\- peut choisir entre la réparation ou le remplacement du produit, sous réserve des conditions de coût prévues par l'article L. 217-12 du Code de la consommation ou, à défaut, la réduction du prix ou la résolution du contrat. Par ailleurs, le client a le droit de suspendre le paiement de tout ou partie du prix prévu au contrat jusqu'à ce que L COMMERCE ou le Vendeurs Tiers ait satisfait à ses obligations de garantie légale de conformité ;  
-
-\- s’il agit dans un délai de 24 mois à compter de la délivrance du produit, l'existence du défaut de conformité du produit au moment de la délivrance de celui-ci sera présumée, sauf pour les produits d'occasion  pour lesquels le délai de présomption de conformité est de 12 mois.
-
-Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de cette garantie de six mois. 
-
-Si le Client fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par L COMMERCE ou le Vendeurs Tiers, la mise en conformité par le remplacement du produit fait courir, au bénéfice du Client, un nouveau délai de garantie légale de conformité attaché au produit remplacé. Ce nouveau délai de garantie légale de conformité s'applique à compter du jour où le bien de remplacement est délivré au Client.
-
-Les garanties légales de conformité et de vices cachés s'appliquent indépendamment de la garantie commerciale éventuellement consentie.  
-  
-Le Client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du Code civil. Dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
+Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
   
 
-La garantie légale de conformité des produits couvre les frais de pièces et de main d'œuvre.
+Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci.
 
-Pour être conforme à la commande, le produit doit répondre aux critères suivants :
+  
 
-\- être propre à l'usage habituellement attendu d'un bien de même type,
+La garantie légale de conformité emporte obligation pour le professionnel, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien.
 
-\- correspondre à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le Client peut légitimement attendre pour des biens de même type,
+  
 
-\- le cas échéant, doit posséder les qualités que L COMMERCE ou le Vendeurs Tiers a présentées aux Clients sous forme d'échantillon ou de modèle,
+La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
-\- le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf s'il en est convenu autrement,
+  
 
-\- le cas échéant, il est délivré avec tous les accessoires et les instructions d'installation que le Client peut légitimement attendre,
+Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d'une extension de six mois de la garantie initiale.
 
-\- le cas échéant, il est fourni avec les mises à jour que le Client peut légitimement attendre, conformément aux dispositions de l'article L. 217-19.
+  
 
-19.2. Comme mentionné dans l'encadré ci-dessus, en cas de défaut de conformité, le Client choisit entre la réparation et le remplacement du bien ou, à défaut, la réduction du prix ou la résolution du contrat. Par ailleurs, le client a le droit de suspendre le paiement de tout ou partie du prix prévu au contrat jusqu'à ce que L COMMERCE ou le Vendeurs Tiers ait satisfait à ses obligations.
+Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien.
 
-19.2.1. Toutefois, L COMMERCE ou le Vendeur Tiers concerné peut ne pas procéder selon le choix opéré par le Client si la mise en conformité sollicitée est impossible ou entraîne des coûts disproportionnés au regard notamment :
+  
 
-    1° de la valeur qu'aurait le produit en l'absence de défaut de conformité ;
+Le consommateur peut obtenir une réduction du prix d'achat en conservant le bien ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :
 
-    2° de l'importance du défaut de conformité ; et
+1. Le professionnel refuse de réparer ou de remplacer le bien ;
+2. La réparation ou le remplacement du bien intervient après un délai de trente jours ;
+3. La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du bien réparé ou de remplacement ;
+4. La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse.
 
-    3° de la possibilité éventuelle d'opter pour l'autre choix sans inconvénient majeur pour le Client.
+  
 
-L COMMERCE ou le Vendeur Tiers peut refuser la mise en conformité du produit si celle-ci est impossible ou entraîne des coûts disproportionnés notamment au regard des 1° et 2°.
+Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable.
 
-Lorsque ces conditions ne sont pas respectées, le Client peut, après mise en demeure, poursuivre l'exécution forcée en nature de la solution initialement sollicitée, conformément aux articles 1221 et suivants du code civil.
+  
 
-Tout refus par L COMMERCE ou le Vendeur Tiers de procéder selon le choix du Client ou de mettre le bien en conformité, est motivé par écrit ou sur support durable.
+Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.
 
-19.2.2. Le Client a droit à une réduction du prix du bien ou à la résolution du contrat dans les cas suivants :
+  
 
-    1° lorsque L COMMERCE ou le Vendeur Tiers refuse toute mise en conformité ;
+Toute période d'immobilisation du bien en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.
 
-    2° lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant la demande du Client ou si elle lui occasionne un inconvénient majeur ;
+  
 
-    3° si le Client supporte définitivement les frais de reprise ou d'enlèvement du produit non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou les frais y afférents ;
+Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation.
 
-    4° lorsque la non-conformité du produit persiste en dépit de la tentative de mise en conformité de L COMMERCE ou du Vendeur Tiers restée infructueuse.
+  
 
-Le Client a également droit à une réduction du prix du produit ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le Client n'est alors pas tenu de demander la réparation ou le remplacement du produit au préalable.
+Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
 
-Le Client n'a pas droit à la résolution de la vente si le défaut de conformité est mineur, ce qu'il incombe à L COMMERCE ou au Vendeur Tiers de démontrer.
+  
+
+Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien.  
 
   
 
