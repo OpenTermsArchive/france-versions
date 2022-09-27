@@ -1,16 +1,23 @@
+Espace de confidentialité
+=========================
+
+[Gestion des cookies](https://www.salto.fr/parametres-cookies)
+
+[Politique de traitement des données personnelles](https://www.salto.fr/politique-de-confidentialite/politique-de-traitement-des-donnees-personnelles)
+
 SALTO est engagé dans le bon traitement de vos données à caractère personnel et prend à cet égard toutes les précautions nécessaires pour s'assurer que vos données sont traitées en toute sécurité et de manière conforme aux réglementations en vigueur.
 
 La présente _"Politique de protection des données personnelles"_ a pour objets :
 
-*   de vous permettre de comprendre quelles sont les données à caractère personnel traitées par SALTO, comment et pourquoi ces dernières sont traitées ;
-*   de vous indiquer comment vous pouvez exercer vos droits.
+* de vous permettre de comprendre quelles sont les données à caractère personnel traitées par SALTO, comment et pourquoi ces dernières sont traitées ;
+* de vous indiquer comment vous pouvez exercer vos droits.
 
 Quelles sont les principales réglementations encadrant le traitement de vos données personnelles ?
 
 Plusieurs textes européens et nationaux encadrent le traitement de données à caractère personnel. Bien que n'étant pas exhaustive, la présente liste a pour objectif de vous permettre de vous informer sur les principales réglementations applicables, et le cas échéant, de vous permettre d'accéder et de prendre connaissance de ces textes réglementaires.  
 
-*   [Le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679) ("RGPD"). Ce règlement européen a pour objectif d'assurer un niveau cohérent et élevé de protection des personnes physiques et de lever les obstacles aux flux de données à caractère personnel au sein de l'Union européenne. Il laisse cependant aux états membres de l'Union Européenne des marges de manœuvre pour préciser ses règles ;
-*   [La Loi nº 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460). Cette loi française reprend les grands principes du règlement susmentionné tout en prévoyant des droits et obligations propres à la France en matière de protection des données personnelles, conformément aux marges de manœuvres étant ouvertes par le règlement suscité. C'est également cette loi qui prévoit les missions et pouvoirs de la CNIL, la Commission Nationale de l'Informatique et des Libertés.
+* [Le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32016R0679) ("RGPD"). Ce règlement européen a pour objectif d'assurer un niveau cohérent et élevé de protection des personnes physiques et de lever les obstacles aux flux de données à caractère personnel au sein de l'Union européenne. Il laisse cependant aux états membres de l'Union Européenne des marges de manœuvre pour préciser ses règles ;
+* [La Loi nº 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000886460). Cette loi française reprend les grands principes du règlement susmentionné tout en prévoyant des droits et obligations propres à la France en matière de protection des données personnelles, conformément aux marges de manœuvres étant ouvertes par le règlement suscité. C'est également cette loi qui prévoit les missions et pouvoirs de la CNIL, la Commission Nationale de l'Informatique et des Libertés.
 
 Qui est amené à traiter mes données à caractère personnel ?
 
@@ -20,11 +27,11 @@ Dans le cadre du traitement de vos données personnelles, SALTO agit en qualité
 
 Aux fins d'assurer le bon fonctionnement de la Plateforme SALTO et de vous fournir des services en lien avec la Plateforme, SALTO s'appuie sur des produits et des services mis en œuvre par des prestataires spécialisés. Dans ce cadre, vos données à caractère personnel sont également traitées par ces prestataires spécialisés (qualifiés réglementairement de “sous-traitants” de SALTO), agissant uniquement sur instruction de SALTO. Ces sous-traitants ne déterminent pas les finalités et les moyens essentiels des traitements mis en œuvre avec vos données à caractère personnel : ils traitent vos données à caractère personnel uniquement pour le compte de SALTO. Les principaux types de sous-traitants auxquels a recours SALTO sont les suivants :  
 
-*   éditeurs de logiciel (ces éditeurs permettent notamment à SALTO de disposer de logiciels permettant d'assurer le bon fonctionnement de sa Plateforme : gestion de ses utilisateurs, gestion des abonnements, gestion des interactions avec les utilisateurs de la Plateforme, etc.) ;
-*   sociétés opérant des opérations de maintenance sur la Plateforme et/ou les logiciels étant utilisés par SALTO pour fournir ses produits et services (ces éditeurs permettent notamment à SALTO de disposer de solutions techniques à jour et exempts de dysfonctionnements) ;
-*   hébergeurs de données (ces hébergeurs permettant notamment à SALTO que le stockage des données de la Plateforme SALTO soient assurés au sein de centres de données garantissant un haut niveau de service et de sécurité) ;
-*   prestataires de paiement électronique (ces prestataires permettent notamment à SALTO d'assurer la sécurité des transactions de paiement effectuées via sa Plateforme) ;
-*   prestataires de routage (ces prestataires permettent notamment à SALTO de vous envoyer des e-mails et/ou des SMS).
+* éditeurs de logiciel (ces éditeurs permettent notamment à SALTO de disposer de logiciels permettant d'assurer le bon fonctionnement de sa Plateforme : gestion de ses utilisateurs, gestion des abonnements, gestion des interactions avec les utilisateurs de la Plateforme, etc.) ;
+* sociétés opérant des opérations de maintenance sur la Plateforme et/ou les logiciels étant utilisés par SALTO pour fournir ses produits et services (ces éditeurs permettent notamment à SALTO de disposer de solutions techniques à jour et exempts de dysfonctionnements) ;
+* hébergeurs de données (ces hébergeurs permettant notamment à SALTO que le stockage des données de la Plateforme SALTO soient assurés au sein de centres de données garantissant un haut niveau de service et de sécurité) ;
+* prestataires de paiement électronique (ces prestataires permettent notamment à SALTO d'assurer la sécurité des transactions de paiement effectuées via sa Plateforme) ;
+* prestataires de routage (ces prestataires permettent notamment à SALTO de vous envoyer des e-mails et/ou des SMS).
 
 Afin de protéger vos données personnelles, SALTO fait uniquement appel à des sous-traitants qui présentent de robustes garanties de sécurité et de conformité. Un acte juridique encadre systématiquement la relation entre SALTO et ses sous-traitants.
 
@@ -32,19 +39,19 @@ Quelles données sont collectées et traitées ?
 
 Dans le cadre de votre utilisation de la Plateforme SALTO, des données à caractère personnel vous concernant sont collectées et traitées. La nature des données collectées et traitées est susceptible de varier en fonction :  
 
-*   de vos usages de la Plateforme ;
-*   des traitements de données à caractère personnel auxquels vous avez consenti et/ou auxquels vous vous êtes opposé.
+* de vos usages de la Plateforme ;
+* des traitements de données à caractère personnel auxquels vous avez consenti et/ou auxquels vous vous êtes opposé.
 
 Le tableau ci-dessous liste l'exhaustivité des catégories de données personnelles étant susceptibles d'être traitées par SALTO dans le cadre votre usage de la Plateforme :
 
 |     |     |     |
 | --- | --- | --- |
 | **à quel moment ces données sont collectées  ?** | **Quelles sont les catégories de données collectées ?** | **Exemple de données collectées** |
-| Lors de la création de votre compte SALTO ou lors de votre abonnement ) SALTO via une plateforme tierce | Données de Compte | · Prénom   <br>· Adresse e-mail   <br>· Mot de passe (cette donnée est stockée de manière chiffrée)   <br>· Si vous avez plus de 16 ans  <br>· Civilité (optionnel)   <br>· Âge (optionnel) |
-| Lors de l’abonnement à la Plateforme SALTO | Données d’Abonnement | · Caractéristiques de l’abonnement souscrit   <br>· Vos données de paiement. |
-| Lors de l’utilisation de la Plateforme SALTO | Données Comportementales détaillées | · Historique détaillé des contenus visionnés (programme(s) visionné(s), date(s) de visionnage, durée de visionnage par programme, etc...)   <br>· Historique de navigation   <br>· Temps de présence sur les différents contenus et rubriques de la Plateforme. |
+| Lors de la création de votre compte SALTO ou lors de votre abonnement ) SALTO via une plateforme tierce | Données de Compte | · Prénom   <br>· Adresse e-mail   <br>· Mot de passe (cette donnée est stockée de manière chiffrée)   <br>· Si vous avez plus de 16 ans  <br>· Civilité (optionnel)   <br>· Âge (optionnel) |
+| Lors de l’abonnement à la Plateforme SALTO | Données d’Abonnement | · Caractéristiques de l’abonnement souscrit   <br>· Vos données de paiement. |
+| Lors de l’utilisation de la Plateforme SALTO | Données Comportementales détaillées | · Historique détaillé des contenus visionnés (programme(s) visionné(s), date(s) de visionnage, durée de visionnage par programme, etc...)    <br>· Historique de navigation   <br>· Temps de présence sur les différents contenus et rubriques de la Plateforme. |
 | Données Comportementales agrégées | · Catégorie d’appartenance (exemple : série-policier) du premier programme visionné en tant qu’abonné  <br>· Votre appétence pour certaines catégories de programmes, déterminée sur la base des Données Comportementales détaillées (exemple : les documentaires d’affaires criminelles en svod)  <br>· Statistiques mensuelles agrégées de votre consommation de contenus (exemple : la durée cumulée mensuelle de l’ensemble de vos visionnages de contenus) |
-| Données Techniques | · Identifiants d'applications ou de terminaux   <br>· Version de votre application mobile   <br>· Caractéristiques des appareils que vous utilisez pour accéder à la Plateforme (modèle de périphérique, type et version de navigateur, caractéristiques du système d'exploitation, langue d'utilisation, etc.)   <br>· Adresse IP   <br>· Type de connexion au réseau que vous utilisez (Wi-Fi, 4G, Bluetooth, etc.). |
+| Données Techniques | · Identifiants d'applications ou de terminaux   <br>· Version de votre application mobile   <br>· Caractéristiques des appareils que vous utilisez pour accéder à la Plateforme (modèle de périphérique, type et version de navigateur, caractéristiques du système d'exploitation, langue d'utilisation, etc.)   <br>· Adresse IP   <br>· Type de connexion au réseau que vous utilisez (Wi-Fi, 4G, Bluetooth, etc.). |
 
 Dans quels buts sont utilisées les données collectées et traitées ? Sur quels fondements ?
 
@@ -70,8 +77,8 @@ SALTO a déterminé et mis en œuvre des mesures visant à ce que vos données �
 
 à l'issue des délais de conservation déterminés par SALTO, les données à caractère personnel peuvent, en fonction des situations :  
 
-*   être supprimées ou effacées ;
-*   Faire l'objet d'un processus d'anonymisation des données, afin de rendre impossible la ré-identification des personnes concernées. Ces données ne sont alors plus considérées comme étant des "données à caractère personnel" et peuvent ainsi être conservées librement par SALTO.
+* être supprimées ou effacées ;
+* Faire l'objet d'un processus d'anonymisation des données, afin de rendre impossible la ré-identification des personnes concernées. Ces données ne sont alors plus considérées comme étant des "données à caractère personnel" et peuvent ainsi être conservées librement par SALTO.
 
 Le tableau ci-dessous liste les durées de conservation des données personnelles déterminées et mises en œuvre par SALTO :
 
@@ -100,13 +107,13 @@ Quels sont mes droits et comment puis-je les exercer ?
 
 En vertu des dispositions réglementaires, vous disposez de droits sur vos données à caractère personnel :
 
-*   Un droit d'accès à vos données personnelles (droit d'obtenir de SALTO la confirmation que des données à caractère personnel vous concernant sont traitées ou non par nos soins, des informations relatives aux traitements mis en œuvre ainsi que l'accès auxdites données à caractère personnel) ;
-*   **Un droit de rectification** de vos données personnelles qui s'avèreraient inexactes ;
-*   **Un droit à l'effacement** de vos données personnelles. Ce droit est conditionné à certains motifs détaillés au sein de l'[article 17 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article17) ;
-*   **Un droit à la limitation** de vos données personnelles. Ce droit est conditionné à certains motifs détaillés au sein de l'[article 18 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article18) ;
-*   **Un droit à la portabilité** de vos données personnelles (droit de recevoir les données à caractère personnel vous concernant et/ou que vous nous avez fourni à SALTO dans un format structuré, couramment utilisé et lisible par machine). Ce droit est subordonné à certaines exigences détaillées au sein de l'[article 20 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article20) ;
-*   **Un droit d'opposition** aux traitements mis en œuvre. Ce droit est subordonné à certaines exigences détaillées au sein de l'[article 21 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article21) ;
-*   **Un droit de définir le sort de vos données après votre mort** et de choisir que SALTO communique (ou non) vos données à un tiers que vous aurez préalablement désigné.
+* Un droit d'accès à vos données personnelles (droit d'obtenir de SALTO la confirmation que des données à caractère personnel vous concernant sont traitées ou non par nos soins, des informations relatives aux traitements mis en œuvre ainsi que l'accès auxdites données à caractère personnel) ;
+* **Un droit de rectification** de vos données personnelles qui s'avèreraient inexactes ;
+* **Un droit à l'effacement** de vos données personnelles. Ce droit est conditionné à certains motifs détaillés au sein de l'[article 17 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article17) ;
+* **Un droit à la limitation** de vos données personnelles. Ce droit est conditionné à certains motifs détaillés au sein de l'[article 18 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article18) ;
+* **Un droit à la portabilité** de vos données personnelles (droit de recevoir les données à caractère personnel vous concernant et/ou que vous nous avez fourni à SALTO dans un format structuré, couramment utilisé et lisible par machine). Ce droit est subordonné à certaines exigences détaillées au sein de l'[article 20 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article20) ;
+* **Un droit d'opposition** aux traitements mis en œuvre. Ce droit est subordonné à certaines exigences détaillées au sein de l'[article 21 du RGPD](https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article21) ;
+* **Un droit de définir le sort de vos données après votre mort** et de choisir que SALTO communique (ou non) vos données à un tiers que vous aurez préalablement désigné.
 
 Enfin, vous disposez du **droit d'introduire une réclamation** auprès de la Commission Nationale de l'Informatique et des Libertés (CNIL) au sujet du traitement de vos données personnelles. Nous vous encourageons à prendre contact avec SALTO avant tout dépôt de plainte afin que nous puissions répondre à vos demandes et attentes.
 
@@ -116,19 +123,19 @@ Afin de faciliter l'exercice de vos droits, SALTO a déployé des fonctionnalit�
 
 Au sein du menu [Communications](https://www.salto.fr/mon-compte/mes-communications) de votre compte utilisateur, vous pouvez :  
 
-*   Exercer votre droit d'opposition et/ou retirer votre consentement à la réception d'e-mails sur les produits et services de la plateforme SALTO.
+* Exercer votre droit d'opposition et/ou retirer votre consentement à la réception d'e-mails sur les produits et services de la plateforme SALTO.
 
 Au sein du menu [Paramètres de confidentialité](https://www.salto.fr/mon-compte/mes-donnees-personnelles) de votre compte utilisateur, vous pouvez :  
 
-*   Exercer votre droit d'opposition à ce que SALTO utilise vos données personnelles aux fins de vous communiquer des informations commerciales personnalisées ;
-*   Exercer votre droit d'opposition à ce que SALTO mette en œuvre des traitements de profilage aux fins de vous proposer des contenus personnalisés directement au sein de la Plateforme SALTO.
+* Exercer votre droit d'opposition à ce que SALTO utilise vos données personnelles aux fins de vous communiquer des informations commerciales personnalisées ;
+* Exercer votre droit d'opposition à ce que SALTO mette en œuvre des traitements de profilage aux fins de vous proposer des contenus personnalisés directement au sein de la Plateforme SALTO.
 
 ### J'exerce mes droits en effectuant une demande écrite auprès de SALTO
 
 En complément des fonctionnalités déployées au sein de la Plateforme SALTO pour vous permettre d'exercer vos droits, vous pouvez exercer l'un de vos droits en effectuant une demande par écrit :  
 
-*   par e-mail à l'adresse suivante :  dpo@salto.fr
+* par e-mail à l'adresse suivante :  dpo@salto.fr
 ou  
-*   par courrier postal à l'adresse suivante : SALTO - Data Protection Officer, 18 Quai du Point du Jour, 92100 Boulogne-Billancourt, France.
+* par courrier postal à l'adresse suivante : SALTO - Data Protection Officer, 18 Quai du Point du Jour, 92100 Boulogne-Billancourt, France.
 
 Vous êtes par ailleurs informé, conformément à l'article 13-1, b) du RGPD, que l'entité [Mon DPO externe](https://mon-dpo-externe.com/) est désignée en qualité de Délégué à la Protection des Données (“DPO”) auprès de la Commission Nationale de l'Informatique et des Libertés, pour le compte de l'entité SALTO. Vous pouvez directement contacter le DPO via le formulaire de contact mis à disposition sur son site internet.
