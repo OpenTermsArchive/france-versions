@@ -53,6 +53,8 @@ Nous échangeons ou remboursons tout article dans son état d'origine qui ne con
 
 Tout article provenant d’une erreur de livraison ne pourra être retourné en magasin. Les articles de la collection HOME devront être retournés dans un magasin H&M proposant la collection HOME. Les meubles et les luminaires H&M Home ne peuvent être retournés en boutique.
 
+Tout article acheté et expédié par une marque externe doit être retourné conformément aux instructions incluses dans votre colis. Il n'est pas possible de retourner ces articles dans un magasin H&M ou H&M HOME.
+
 Pour des raisons d'hygiène et de sécurité, le droit de rétractation et le droit de retour ne sont pas applicables aux masques de protection en tissu. Si les masques que vous avez achetés présentent des défauts, veuillez prendre contact avec notre service client pour savoir comment procéder. Vous trouverez de plus amples informations dans notre ​[politique de retour](https://www2.hm.com/fr_fr/service-clients/retours.html).
 
 **7\. Modes de paiement**  
@@ -119,4 +121,4 @@ Coordonnées : Service clients H&M
 Contactez le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html)  
  
 
-22/09/2022
+27/09/2022
