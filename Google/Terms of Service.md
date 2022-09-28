@@ -386,8 +386,11 @@ En cas de rétractation de votre part du présent contrat, nous vous remboursero
 | Pays | Numéro de téléphone |
 | --- | --- |
 | Autriche | 0800 001180 |
+| Îles Åland | 0800 526683 |
 | Belgique | 0800 58 142 |
 | Bulgarie | 0800 14 744 |
+| Îles Canaries | +34 912 15 86 27 |
+| Ceuta et Melilla | +34 912 15 86 27 |
 | Croatie | 0800 787 086 |
 | Chypre | 80 092492 |
 | Tchéquie | 800 720 070 |
@@ -395,8 +398,12 @@ En cas de rétractation de votre part du présent contrat, nous vous remboursero
 | Estonie | 8002 643 |
 | Finlande | 0800 520030 |
 | France | 0 805 98 03 38 |
+| Guyane française | 0805 98 03 38 |
+| Polynésie française | +33 1 85 14 96 65 |
+| Terres australes françaises | +33 1 85 14 96 65 |
 | Allemagne | 0800 6270502 |
-| Grèce | 00800 4920 00536 |
+| Grèce | 21 1180 9433 |
+| Guadeloupe | 0805 98 03 38 |
 | Hongrie | 06 80 200 148 |
 | Islande | 800 4177 |
 | Irlande | 1800 832 663 |
@@ -406,15 +413,25 @@ En cas de rétractation de votre part du présent contrat, nous vous remboursero
 | Lituanie | 8 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malte | 8006 2257 |
+| Martinique | 0805 98 03 38 |
+| Mayotte | +33 1 85 14 96 65 |
 | Pays-Bas | 0800 3600010 |
+| Nouvelle-Calédonie | +33 1 85 14 96 65 |
 | Norvège | 800 62 068 |
 | Pologne | 800 410 575 |
 | Portugal | 808 203 430 |
+| La Réunion | 0805 98 03 38 |
 | Roumanie | 0800 672 350 |
 | Slovaquie | 0800 500 932 |
 | Slovénie | 080 688882 |
 | Espagne | 900 906 451 |
+| Saint-Barthélemy | +33 1 85 14 96 65 |
+| Saint-Martin | +33 1 85 14 96 65 |
+| Saint-Pierre-et-Miquelon | +33 1 85 14 96 65 |
+| Svalbard et Jan Mayen | 800 62 425 |
 | Suède | 020-012 52 41 |
+| État de la Cité du Vatican | 800 599 102 |
+| Wallis-et-Futuna | +33 1 85 14 96 65 |
 
 Définitions
 ===========
