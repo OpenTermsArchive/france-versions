@@ -1,19 +1,17 @@
 Conditions Générales de Transport
 =================================
 
-Ces Conditions Générales de Transport (ci-dessous dénommées « Conditions » ou « Conditions Générales de Transport ») datent de Décembre 2017  
+Ces Conditions Générales de Transport (ci-dessous dénommées « Conditions » ou « Conditions Générales de Transport ») datent de Décembre 2017 
 
 ### 1\. CONDITIONS CONTRACTUELLES ET AUTRES AVIS IMPORTANTS
 
 **  
-Documents de voyage acceptés  
-**  
-Les Passagers doivent se présenter au départ des vols munis des documents de voyage légaux appropriés, en cours de validité lors de leur voyage, ainsi que de tout autre document requis, tels que visa d’entrée, titre de séjour ou autorisation au titre du système électronique d’autorisation de voyage (ESTA) lorsqu’ils voyagent aux Etats-Unis dans le cadre du programme d’exemption de visa. AEGEAN AIRLINES S.A. et ses filiales (« **AEGEAN** » ou « **Aegean Airlines** ») ne sont pas responsables de quelque dommage direct, indirect, fortuit, spécifique, matériel ou accessoire que ce soit, survenant en raison de l’impossibilité du Passager de se procurer les documents de voyage appropriés avant son voyage.  
+Documents de voyage acceptés**  
+Les Passagers doivent se présenter au départ des vols munis des documents de voyage légaux appropriés, en cours de validité lors de leur voyage, ainsi que de tout autre document requis, tels que visa d’entrée, titre de séjour ou autorisation au titre du système électronique d’autorisation de voyage (ESTA) lorsqu’ils voyagent aux Etats-Unis dans le cadre du programme d’exemption de visa. AEGEAN AIRLINES S.A. et ses filiales (« **AEGEAN** » ou « **Aegean Airlines** ») ne sont pas responsables de quelque dommage direct, indirect, fortuit, spécifique, matériel ou accessoire que ce soit, survenant en raison de l’impossibilité du Passager de se procurer les documents de voyage appropriés avant son voyage.  
   
 
 ### CONDITIONS CONTRACTUELLES
 
-  
 Les conditions contractuelles d’AEGEAN sont les suivantes :  
   
 **1 Définition  
@@ -54,17 +52,17 @@ Au sens des présentes conditions et sauf exception dans le texte, les termes su
   
 “Vol domestique” désigne tout vol dont le point de départ, le point de destination et tous les points d’atterrissage sont situés sur le territoire grec.  
   
-**2.** Le Transport aérien est soumis aux règles et limitations de responsabilité édictées par la Convention de Montréal.  
+**2.** Le Transport aérien est soumis aux règles et limitations de responsabilité édictées par la Convention de Montréal.  
   
-**3.** Dans la mesure où leur contenu ne fait pas échec à ce qui précède, le Transport et autres services rendus par chaque Transporteur sont soumis aux (i) dispositions stipulées sur le Billet; (ii) tarifs en vigueur; (iii) conditions de transport du Transporteur et à (iv) la Réglementation du Transporteur faisant partie des présentes (et peuvent être consultées sur demande auprès du Transporteur).  
+**3.** Dans la mesure où leur contenu ne fait pas échec à ce qui précède, le Transport et autres services rendus par chaque Transporteur sont soumis aux (i) dispositions stipulées sur le Billet; (ii) tarifs en vigueur; (iii) conditions de transport du Transporteur et à (iv) la Réglementation du Transporteur faisant partie des présentes (et peuvent être consultées sur demande auprès du Transporteur).  
   
-**4.** Le nom du Transporteur peut figurer en abrégé sur le Billet, le nom complet et son abréviation figurant sur le site internet du Transporteur; l’adresse du Transporteur sera celle de l’aéroport indiquée à côté de la première abréviation du nom du Transporteur sur le Billet; les escales prévues sont celles indiquées sur ce Billet ou qui figurent dans les horaires du Transporteur comme des escales régulières sur l'itinéraire du Passager. Le Transport à exécuter par plusieurs transporteurs successifs au titre du même Billet, ou au titre d’un Billet et de tout billet associé émis en association avec celui-ci, est censé constituer une opération unique.  
+**4.** Le nom du Transporteur peut figurer en abrégé sur le Billet, le nom complet et son abréviation figurant sur le site internet du Transporteur; l’adresse du Transporteur sera celle de l’aéroport indiquée à côté de la première abréviation du nom du Transporteur sur le Billet; les escales prévues sont celles indiquées sur ce Billet ou qui figurent dans les horaires du Transporteur comme des escales régulières sur l'itinéraire du Passager. Le Transport à exécuter par plusieurs transporteurs successifs au titre du même Billet, ou au titre d’un Billet et de tout billet associé émis en association avec celui-ci, est censé constituer une opération unique.  
   
-**5.** Les Bagages Enregistrés seront remis au détenteur du Bulletin de Bagages. En cas de dommage causé aux Bagages Enregistrés au cours d'un Transport international ou non international, votre réclamation doit être faite par écrit au Transporteur immédiatement après la découverte du dommage ou, au plus tard dans un délai de sept (7) jours à compter de la date de leur réception.  
+**5.** Les Bagages Enregistrés seront remis au détenteur du Bulletin de Bagages. En cas de dommage causé aux Bagages Enregistrés au cours d'un Transport international ou non international, votre réclamation doit être faite par écrit au Transporteur immédiatement après la découverte du dommage ou, au plus tard dans un délai de sept (7) jours à compter de la date de leur réception.  
   
-**6.** Sauf dans le cas où cela serait requis par la réglementation applicable, en cas de mort ou de blessures graves rendant impossible le Transport pour un Passager, les réservations du Passager et des personnes voyageant sous les mêmes références Billet que ledit Passager, peuvent faire l’objet, à la seule discrétion d’AEGEAN, d’un remboursement ou d’une modification sans frais de la date du vol, dès lors que les documents prouvant le décès ou les blessures graves seront envoyés à AEGEAN, au moins 30 jours avant la date de départ du vol. Dans le cas où un Passager serait dans l’impossibilité de voyager en raison d’une maladie soudaine et qu’en conséquence ce Passager ne pourrait en apporter la preuve 30 jours avant le départ du vol, AEGEAN peut à sa seule discrétion décider du remboursement du Billet ou de la modification sans frais de la date du vol.  
+**6.** Sauf dans le cas où cela serait requis par la réglementation applicable, en cas de mort ou de blessures graves rendant impossible le Transport pour un Passager, les réservations du Passager et des personnes voyageant sous les mêmes références Billet que ledit Passager, peuvent faire l’objet, à la seule discrétion d’AEGEAN, d’un remboursement ou d’une modification sans frais de la date du vol, dès lors que les documents prouvant le décès ou les blessures graves seront envoyés à AEGEAN, au moins 30 jours avant la date de départ du vol. Dans le cas où un Passager serait dans l’impossibilité de voyager en raison d’une maladie soudaine et qu’en conséquence ce Passager ne pourrait en apporter la preuve 30 jours avant le départ du vol, AEGEAN peut à sa seule discrétion décider du remboursement du Billet ou de la modification sans frais de la date du vol.  
   
-**7.** Le Transporteur peut déléguer en toute ou partie ses obligations définies dans les présentes Conditions, à quelque personne ou entité que ce soit, en ce inclus à tout autre Transporteur. AEGEAN s’engage à ne jamais déléguer tout ou partie de ses obligations à un Transporteur faisant l’objet d’une interdiction d’exploitation telle que définie par l’Union Européenne.  
+**7.** Le Transporteur peut déléguer en toute ou partie ses obligations définies dans les présentes Conditions, à quelque personne ou entité que ce soit, en ce inclus à tout autre Transporteur. AEGEAN s’engage à ne jamais déléguer tout ou partie de ses obligations à un Transporteur faisant l’objet d’une interdiction d’exploitation telle que définie par l’Union Européenne.  
   
 Pour des raisons de sécurité ou de sûreté aérienne ou en cas de demande d’une autorité gouvernementale, le Transporteur se réserve le droit d’annuler ou de retarder le vol tel que prévu sur le Billet, ainsi que de changer le type avion ou le trajet, en ce inclus modifier la destination, telle qu’indiquée sur le Billet, sans préjudice des obligations contenues dans le règlement (CE) 261/2004, dont le Passager pourra se prévaloir.  
   
@@ -72,13 +70,13 @@ Le programme de vol est sujet à modifications ; le Transporteur doit tout mettr
   
 Le Transporteur ne doit pas être tenu responsable en cas de défaut d’information d’un Passager sur les changements du programme de vol, changement d’aéroport de départ ou de destination, annulation ou changement de vol dans ses différents paramètres, si le Passager n’a pas fourni ses coordonnées (numéro de téléphone, adresse email, etc.) au moins une fois, ou s’il a fourni des coordonnées erronées. Dans un tel cas, le Transporteur ne doit pas indemniser le Passager pour les pertes engendrées par ce dernier.  
   
-**8.** Le Passager est responsable de l’obtention de tous les documents, visas, permis, etc. requis pour le voyage, de leur conformité avec les documents gouvernementaux et prescriptions gouvernementales relatifs au voyage, et à toutes les lois applicables relatives à la sortie, l’entrée and les correspondances dans les pays de départ, d’arrivée et de correspondance. Le Transporteur ne doit pas être tenu responsable vis-à-vis du Passager si ce dernier n’obtient pas ces documents ou les visas requis ou ne se conforme pas aux prescriptions légales. Les Passagers doivent arriver à l’aéroport à l’heure fixée par le Transporteur, et en tout état de cause au moins 90 minutes avant l’heure prévue de départ du vol. Le Transporteur ne pourra en aucun cas être tenu responsable des délais de contrôle et d’enregistrement, qu’il appartient au Passager seul de prendre en compte.  
+**8.** Le Passager est responsable de l’obtention de tous les documents, visas, permis, etc. requis pour le voyage, de leur conformité avec les documents gouvernementaux et prescriptions gouvernementales relatifs au voyage, et à toutes les lois applicables relatives à la sortie, l’entrée and les correspondances dans les pays de départ, d’arrivée et de correspondance. Le Transporteur ne doit pas être tenu responsable vis-à-vis du Passager si ce dernier n’obtient pas ces documents ou les visas requis ou ne se conforme pas aux prescriptions légales. Les Passagers doivent arriver à l’aéroport à l’heure fixée par le Transporteur, et en tout état de cause au moins 90 minutes avant l’heure prévue de départ du vol. Le Transporteur ne pourra en aucun cas être tenu responsable des délais de contrôle et d’enregistrement, qu’il appartient au Passager seul de prendre en compte.  
   
-**9.** Tout Transport effectué par AEGEAN est soumis aux présentes Conditions Générales de Transport.  
+**9.** Tout Transport effectué par AEGEAN est soumis aux présentes Conditions Générales de Transport.  
   
-**10.** Les passagers souhaitant faire une réclamation doivent dans un premier temps contacter AEGEAN [ici](https://fr.aegeanair.com/contact/).  
+**10.** Les passagers souhaitant faire une réclamation doivent dans un premier temps contacter AEGEAN [ici](https://fr.aegeanair.com/contact/).  
   
-**11.** Que faire si AEGEAN n’est pas en mesure de résoudre votre plainte ?  
+**11.** Que faire si AEGEAN n’est pas en mesure de résoudre votre plainte ?  
   
 Une plateforme de règlement en ligne des litiges (plateforme RLL) est mise en place par la Commission européenne [http://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage) permettant un accès facile à une procédure de Règlement Extrajudiciaire des Litiges (REL). Veuillez noter que AEGEAN n’a pas souscrit à une procédure REL en conséquence ni la plateforme RLL ni un fournisseur REL ne pourra accepter votre plainte. En matière de refus d'embarquement, d'annulation ou de retard important d'un vol, une réclamation peut être adressée à la DGAC dans les cas suivants: pour les vols partant de France, quelles que soient la destination du vol et la nationalité du Transporteur ; et pour les vols arrivant en France et partant d’Etats tiers à l’Union Européenne à la Norvège, à l’Islande ou à la Suisse, à condition que le transporteur effectif appartienne à l’UE, à la Norvège, à l’Islande ou à la Suisse. Les réclamations Passagers doivent impérativement faire l'objet de la procédure décrite sur la page du site du Ministère de la Transition Ecologique et Solidaire : [https://www.ecologique-solidaire.gouv.fr/faire-en-cas-retard-au-depart-annulation-dun-vol-refus-dembarquement](https://www.ecologique-solidaire.gouv.fr/faire-en-cas-retard-au-depart-annulation-dun-vol-refus-dembarquement). Vous y trouverez le formulaire de réclamation à compléter en ligne. Les pièces justificatives doivent obligatoirement être transmises en pièce jointe ou par courrier.  
   
@@ -132,11 +130,11 @@ Toute action en dommages et intérêts doit être intentée dans les deux ans su
   
 **1.9 Bases des règles susmentionnées  
 **  
-Les règles décrites ci-dessus reposent sur la convention de Montréal du 28 mai 1999, mise en œuvre dans l’Union Européenne par le règlement (CE) n° 2027/97 tel que modifié par le règlement (CE) n° 889/2002 et par la législation nationale des États membres.
+Les règles décrites ci-dessus reposent sur la convention de Montréal du 28 mai 1999, mise en œuvre dans l’Union Européenne par le règlement (CE) n° 2027/97 tel que modifié par le règlement (CE) n° 889/2002 et par la législation nationale des États membres.  
+ 
 
 ### 2 LIMITES DE RESPONSABILITE
 
-  
 Les limites de responsabilité applicables à votre voyage sur un vol effectué par AEGEAN sont les suivantes:  
   
 **2.1** il n’existe pas de limite financière pour des dommages prouvés en cas de blessure ou de décès causé par un accident à bord de l’avion ou durant l'embarquement ou le débarquement.  
@@ -155,7 +153,7 @@ Comme stipulé dans l'article 11 du règlement (CE) no 2111/2005 du Parlement eu
   
 **1.    CONDITIONS GÉNÉRALES DE TRANSPORT  
 **  
-**1.** Le transport en Grèce est soumis au règlement (CE) n° 2027/97, tel que modifié par le règlement (CE) n° 889/2002.  
+**1.** Le transport en Grèce est soumis au règlement (CE) n° 2027/97, tel que modifié par le règlement (CE) n° 889/2002.  
   
 **2** Tout transport est soumis aux dispositions complémentaires suivantes :  
   
@@ -181,11 +179,11 @@ Comme stipulé dans l'article 11 du règlement (CE) no 2111/2005 du Parlement eu
   
 **2.8** Le Passager doit se conformer avec toute exigence gouvernementale concernant le voyage. Le Passager doit se présenter à l’aéroport à l’heure indiquée par le Transporteur et à défaut d’information spécifique, 90 minutes au moins avant l’heure de départ prévue. Le Transporteur n’est pas responsable des pertes ou dépenses causées par une présentation du Passager tardive et n’est pas tenu de rembourser le Billet.  
   
-**2.9** Les tarifs applicables peuvent être modifiés après l’émission du Billet, uniquement en ce qui concerne les droits, taxes et redevances payés par le Transporteur à un tiers pour le compte du Passager. Toute modification du prix du Billet due aux modifications des dispositions régissant les droits, taxes ou redevances concernés donnera lieu au paiement d’un complément ou à un remboursement.
+**2.9** Les tarifs applicables peuvent être modifiés après l’émission du Billet, uniquement en ce qui concerne les droits, taxes et redevances payés par le Transporteur à un tiers pour le compte du Passager. Toute modification du prix du Billet due aux modifications des dispositions régissant les droits, taxes ou redevances concernés donnera lieu au paiement d’un complément ou à un remboursement.  
+ 
 
 ### 4 REFUS DE TRANSPORT
 
-  
 Sauf si la loi en dispose autrement, le Transporteur peut refuser le transport d'un Passager ou d'un Bagage pour des raisons de sûreté ou si, exerçant un pouvoir discrétionnaire raisonnable, le Transporteur considère que :  
   
 **4.1** Le refus de transport est nécessaire en application des lois, règlements ou ordres en vigueur dans tout Etat ou pays de départ, de destination ou de survol; ou  
@@ -219,16 +217,16 @@ Sauf si la loi en dispose autrement, le Transporteur peut refuser le transport d
   
 **4.9.2** La personne qui présente un Billet ne peut prouver qu'elle est la personne mentionnée sur le Billet : le Transporteur se réserve alors le droit de retenir un tel Billet.  
   
-**4.10** Les autorités d’immigration du pays de destination ou de transit du Passager qui ont informé le Transporteur (oralement ou par écrit) que ce Passager ne serait pas autorisé à entrer dans le pays, même si ce Passager a, ou semble avoir les documents de voyages valables.
+**4.10** Les autorités d’immigration du pays de destination ou de transit du Passager qui ont informé le Transporteur (oralement ou par écrit) que ce Passager ne serait pas autorisé à entrer dans le pays, même si ce Passager a, ou semble avoir les documents de voyages valables.  
+ 
 
 ### 5 POLITIQUE EN MATIERE DE BAGAGES
 
-  
 Politique en matière de Bagages sur tous les vols opérés par AEGEAN, cliquer sur: [https://fr.aegeanair.com/voyage-info/bagages/](https://fr.aegeanair.com/voyage-info/bagages/)
 
-### 6 MARCHANDISES DANGEREUSES
+###    
+6 MARCHANDISES DANGEREUSES
 
-  
 Il est interdit aux Passagers d’introduire les articles suivants dans la zone de sûreté à accès réglementé et dans la cabine d’un aéronef :  
   
 **6.1** Revolvers, armes à feu et armes. Tout objet capable ou apparemment capable de libérer un projectile ou d’occasionner des blessures, tel que:  
@@ -328,7 +326,8 @@ Il est interdit aux Passagers d’introduire les articles suivants dans la zone 
 **6.7.5.3** Articles achetés aux boutiques des aéroports (boutiques hors taxes) au-delà des points de contrôle de sécurité. Ces articles devront être placés dans un sac scellé spécial, fourni par les boutiques en question et que vous ne pourrez ouvrir avant de passer par le contrôle des Bagages à main, sinon son contenu pourrait être confisqué au point de contrôle. Si vous devez changer d'avion dans un autre aéroport de l'Union européenne, ainsi qu'en Norvège, en Suisse ou en Islande, n'ouvrez pas le sac avant de passer par le point de contrôle à l'aéroport de votre correspondance ou au dernier aéroport, si vous faites plusieurs escales. Tous ces liquides sont permis en plus des quantités précitées dans le sac en plastique scellé.  
 **6.7.6** Le personnel de sécurité est tenu de vous demander de vous séparer des produits liquides ne remplissant pas les conditions du nouveau règlement européen. Ces objets seront recyclés en tant que déchets.  
   
-NOUS VOUS RAPPELONS QUE LA LISTE DES MATIÈRES DANGEREUSES N'EST PAS EXHAUSTIVE. LE TRANSPORT DE MARCHANDISES DANGEREUSES DANS L'AVION EST UN DÉLIT SANCTIONNÉ PAR LA LOI. EN CAS DE DOUTES, VEUILLEZ CONTACTER VOTRE COMPAGNIE AÉRIENNE POUR DES CLARIFICATIONS.
+NOUS VOUS RAPPELONS QUE LA LISTE DES MATIÈRES DANGEREUSES N'EST PAS EXHAUSTIVE. LE TRANSPORT DE MARCHANDISES DANGEREUSES DANS L'AVION EST UN DÉLIT SANCTIONNÉ PAR LA LOI. EN CAS DE DOUTES, VEUILLEZ CONTACTER VOTRE COMPAGNIE AÉRIENNE POUR DES CLARIFICATIONS.  
+ 
 
 ### 7 DROIT DE REFUSER LE TRANSPORT
 
@@ -338,20 +337,21 @@ NOUS VOUS RAPPELONS QUE LA LISTE DES MATIÈRES DANGEREUSES N'EST PAS EXHAUSTIVE.
   
 **7.3** Sauf engagement préalable du Transporteur à transporter les Bagages sur le même vol que le Passager, celui-ci peut acheminer les Bagages en excédent de la franchise applicable sur les vols suivants.  
   
-**7.4** Le Transporteur peut refuser d'accepter des Bagages comme Bagages Enregistrés à moins qu'ils ne soient convenablement emballés dans des valises ou autres emballages pour assurer un transport sans dommage, compte tenu d'une manipulation normale.
+**7.4** Le Transporteur peut refuser d'accepter des Bagages comme Bagages Enregistrés à moins qu'ils ne soient convenablement emballés dans des valises ou autres emballages pour assurer un transport sans dommage, compte tenu d'une manipulation normale.  
+ 
 
 ### 8 DROIT D’INSPECTION
 
-Pour des raisons de sûreté ou de sécurité, le Transporteur peut demander au Passager d'autoriser une inspection de sa personne et de ses Bagages et, en son absence ou s'il n'est pas en mesure de se présenter, peut inspecter ou faire inspecter les Bagages du Passager dans le but de déterminer s'il a sur lui ou dans ses Bagages des objets décrits à la section 6 ci-dessus ou des armes ou munitions qui n'auraient pas été présentées au Transporteur. Si le Passager n'accepte pas de se conformer à cette demande, le Transporteur peut refuser de le transporter, lui et ses Bagages.
+Pour des raisons de sûreté ou de sécurité, le Transporteur peut demander au Passager d'autoriser une inspection de sa personne et de ses Bagages et, en son absence ou s'il n'est pas en mesure de se présenter, peut inspecter ou faire inspecter les Bagages du Passager dans le but de déterminer s'il a sur lui ou dans ses Bagages des objets décrits à la section 6 ci-dessus ou des armes ou munitions qui n'auraient pas été présentées au Transporteur. Si le Passager n'accepte pas de se conformer à cette demande, le Transporteur peut refuser de le transporter, lui et ses Bagages.  
+ 
 
 ### 9 INFORMATION SUR LES BAGAGES
 
-  
-Les Bagages acceptés pour transport en tant que Bagages de Passagers ne peuvent comporter que les articles, effets et autres objets personnels d'un Passager, destinés à être portés ou utilisés par lui, nécessaires à son confort et à son bien-être pour le voyage. Denrées alimentaires en état semi-solide ou liquide: assurez-vous de les avoir bien conditionnées afin d’éviter de causer des dommages à des tiers en cas de fuites éventuelles. Nous attirons également votre attention sur la réglementation de certains pays imposant des restrictions à l’importation de denrées alimentaires. Les objets suivants ne doivent pas être placés dans vos Bagages Enregistrés, mais doivent être conservés par vous à tout moment: médicaments, bijoux, devises, valeurs, titres négociables, actes notariés, documents, échantillons, matériels informatiques et électroniques, autres objets précieux et fragiles. Pour des raisons de sécurité, le Passager ne peut transporter en cabine qu’UN seul bagage non enregistré, dont les dimensions ne dépassent pas 115 cm au total.
+Les Bagages acceptés pour transport en tant que Bagages de Passagers ne peuvent comporter que les articles, effets et autres objets personnels d'un Passager, destinés à être portés ou utilisés par lui, nécessaires à son confort et à son bien-être pour le voyage. Denrées alimentaires en état semi-solide ou liquide: assurez-vous de les avoir bien conditionnées afin d’éviter de causer des dommages à des tiers en cas de fuites éventuelles. Nous attirons également votre attention sur la réglementation de certains pays imposant des restrictions à l’importation de denrées alimentaires. Les objets suivants ne doivent pas être placés dans vos Bagages Enregistrés, mais doivent être conservés par vous à tout moment: médicaments, bijoux, devises, valeurs, titres négociables, actes notariés, documents, échantillons, matériels informatiques et électroniques, autres objets précieux et fragiles. Pour des raisons de sécurité, le Passager ne peut transporter en cabine qu’UN seul bagage non enregistré, dont les dimensions ne dépassent pas 115 cm au total.  
+ 
 
 ### 10 RESPONSABILITÉ POUR DOMMAGE
 
-  
 Dans la mesure où ce qui suit ne fait pas échec à ce qui précède:  
   
 **10.1** La responsabilité du Transporteur est limitée au dommage survenu sur ses propres lignes. Le Transporteur qui émet un Billet ou qui enregistre un Bagage sur les lignes d'un autre Transporteur n'agit qu'à titre de représentant de ce dernier. Toutefois, le Passager peut former une réclamation contre le premier ou le dernier Transporteur;  
@@ -363,17 +363,15 @@ Dans la mesure où ce qui suit ne fait pas échec à ce qui précède:
 **10.4** Le Transporteur n'est pas responsable des préjudices d’un Passager ou des dommages causés à ses Bagages lorsqu'ils ont pour origine des objets contenus dans lesdits Bagages. Tout Passager, dont les biens sont à l’origine ou ont concouru à la survenance d’un dommage matériel ou corporel causé à une autre personne ou au Transporteur, devra indemniser le Transporteur pour les pertes subies et les dépenses encourues de ce fait;  
 **  
 10.5** le Transporteur n'est pas responsable des dommages subis par les objets fragiles ou périssables, devises, bijoux, métaux précieux, argenterie, titres, valeurs, matériels informatiques et électroniques ou autres objets précieux, papiers d'affaires, passeports et autres papiers d'identité, ou échantillons, qui sont placés dans les Bagages Enregistrés;  
-**10.6** En cas de transport d'un Passager dont l'âge ou l'état mental ou physique est susceptible de constituer un danger ou un risque pour lui-même, le Transporteur ne sera pas responsable de toute maladie, blessure, ou incapacité quelconque, y compris le décès du Passager, attribuable à cet état, ou à l'aggravation dudit état.
+**10.6** En cas de transport d'un Passager dont l'âge ou l'état mental ou physique est susceptible de constituer un danger ou un risque pour lui-même, le Transporteur ne sera pas responsable de toute maladie, blessure, ou incapacité quelconque, y compris le décès du Passager, attribuable à cet état, ou à l'aggravation dudit état.  
+ 
 
 ### 11\. LIVRAISON DE BAGAGES
 
-  
-
-Si vous ne retrouvez pas votre Bagage à votre arrivée, vous devez signaler immédiatement ce fait au personnel au sol d'AEGEAN. Notre personnel ouvrira un dossier et vous fournira un numéro de référence. Pour de plus amples informations, veuillez contacter le service central des objets trouvés au + 30 210 3550300. Si votre Bagage n’est pas localisé 45 jours après votre demande, la procédure de remboursement sera mise en œuvre. Veuillez suivre la même procédure, si votre Bagage est endommagé.
+Si vous ne retrouvez pas votre Bagage à votre arrivée, vous devez signaler immédiatement ce fait au personnel au sol d'AEGEAN. Notre personnel ouvrira un dossier et vous fournira un numéro de référence. Pour de plus amples informations, veuillez contacter le service central des objets trouvés au + 30 210 3550300. Si votre Bagage n’est pas localisé 45 jours après votre demande, la procédure de remboursement sera mise en œuvre. Veuillez suivre la même procédure, si votre Bagage est endommagé.  
+ 
 
 ### 12 TAXES, DROITS, COUTS ET REDEVANCES IMPOSÉS PAR UN GOUVERNEMENT OU UN AÉROPORT
-
-  
 
 Le prix de tout billet peut inclure des taxes, des droits, des coûts et des redevances, imposés sur le Transport aérien ou liés au Transport aérien par les États ou les autorités aéroportuaires. Ces taxes, coûts et redevances, qui peuvent représenter une partie significative du coût du Transport aérien, sont indiqués séparément du prix définitif à payer, juste avant la conclusion de l’acte d’achat, ainsi que dans la (les) case(s) « TAXES » du Billet.  
   
@@ -389,7 +387,8 @@ Que la demande soit envoyée par courrier ou en ligne, elle doit être accompagn
   
 Le remboursement peut se faire par virement ou en recréditant votre carte bancaire. Si le remboursement se fait par virement, veiller à joindre un relevé d’identité bancaire (RIB) à votre demande.  
   
-Ce remboursement doit intervenir dans les trente (30) jours suivant la demande.
+Ce remboursement doit intervenir dans les trente (30) jours suivant la demande.  
+ 
 
 ### 13 COMPORTEMENT À BORD DE L’AVION
 
@@ -398,23 +397,22 @@ Ce remboursement doit intervenir dans les trente (30) jours suivant la demande.
   
 **13.2** Le Passager ne doit pas se servir, à bord, de postes de radio portatifs, de jeux électroniques ou de matériels de transmission y compris des jeux sous contrôle radio et des postes transmetteurs émetteurs. Le Passager ne devra pas se servir d'autres matériels électroniques à bord, sauf autorisation du Transporteur. Toutefois les magnétophones portatifs, les appareils de surdité et les stimulateurs cardiaques peuvent être utilisés.  
 **  
-13.3** Si en raison du comportement du Passager, le Transporteur doit dévier l’avion vers un point de destination non prévu et débarquer le Passager, le Passager doit indemniser le Transporteur de cette diversion à hauteur exacte des frais ainsi engendrés.
+13.3** Si en raison du comportement du Passager, le Transporteur doit dévier l’avion vers un point de destination non prévu et débarquer le Passager, le Passager doit indemniser le Transporteur de cette diversion à hauteur exacte des frais ainsi engendrés.  
+ 
 
 ### 14 PRESTATIONS DE LA PART DU TRANSPORTEUR
 
-  
 Si dans le cadre de la conclusion d'un contrat de Transport aérien, le Transporteur accepte de prendre des dispositions pour la fourniture de services supplémentaires, il n'en sera pas responsable envers le Passager, sauf en cas de négligence de sa part dans l’accomplissement de ces services supplémentaires.  
-  
+ 
 
 ### 15 CONDITIONS TARIFAIRES
 
-  
 Les conditions tarifaires régissant votre Billet sont comprises dans les conditions contractuelles et termes généraux de contrat de transport d’AEGEAN et sont mis à disposition [ici](https://fr.aegeanair.com/PlainContent.axd?code=AmadeusFareRules&language=FR)
 
-### 16 DONNEES PERSONNELLES
+###    
+16 DONNEES PERSONNELLES
 
-**  
-16.1** L’Utilisateur accepte que ses données personnelles soient utilisées exclusivement pour la réservation et l’émission du Billet, fournissant au Passager son Transport et tout service et installation associés, décompte, facture et contrôle, vérification et contrôle du crédit et autres cartes de crédit, contrôle de douane et d’immigration, sécurité, sûreté, santé, objectifs juridiques et administratifs, analyses statistiques, analyses marketing, programmes de fidélité, essais des systèmes, maintenance et développement, relations clients, aidant AEGEAN dans le futur traitement du Passager, le marketing direct, recherche du marché (les recherches marketing et de marché ne se font qu’à la demande du Passager, avec son consentement).  
+**16.1** L’Utilisateur accepte que ses données personnelles soient utilisées exclusivement pour la réservation et l’émission du Billet, fournissant au Passager son Transport et tout service et installation associés, décompte, facture et contrôle, vérification et contrôle du crédit et autres cartes de crédit, contrôle de douane et d’immigration, sécurité, sûreté, santé, objectifs juridiques et administratifs, analyses statistiques, analyses marketing, programmes de fidélité, essais des systèmes, maintenance et développement, relations clients, aidant AEGEAN dans le futur traitement du Passager, le marketing direct, recherche du marché (les recherches marketing et de marché ne se font qu’à la demande du Passager, avec son consentement).  
   
 **16.2** De plus, le Passager reconnaît et accepte que de telles données puissent être transférées par et vers les bureaux d’AEGEAN et ses agents autorisés vers des tierces parties, qui sont directement liées aux objectifs ci-dessus mentionnés, ainsi qu’aux autorités administratives et gouvernementales impliquées dans les objectifs ci-dessus mentionnés. Conformément à l’article L.237-7 du code de sécurité intérieure, les transporteurs peuvent être amenés à transmettre les données de réservation, d’enregistrement et d’embarquement des passagers (API/PNR) à l’administration française, selon les modalités de traitement et pour les finalités définies par le décret n°2014-1095 du 26 septembre 2014. Cela peut inclure l’envoi de ces informations en dehors de la Zone Economique Européenne. Pour plus d’informations, se référer à la politique de protection des données d’AEGEAN à [https://fr.aegeanair.com/protection-des-donnees/](https://fr.aegeanair.com/privacy-notice/)  
   
@@ -426,7 +424,8 @@ Les conditions tarifaires régissant votre Billet sont comprises dans les condit
   
 Chaque Passager dispose d’un droit d’accès, de modification et d’opposition à cette transmission, qui s’exerce auprès de l’adresse suivante: [contact@aegeanair.com](mailto:contact@aegeanair.com).  
   
-Cependant, ceci peut avoir pour conséquence l’annulation du voyage ou empêcher le Passager de bénéficier des services complémentaires commandés. Les données collectées par AEGEAN sont conservées et utilisées par le Transporteur en conformité avec la législation française et européenne. Le Passager est informé qu'à défaut d'exercice de son droit d'opposition, ses données personnelles seront conservées pendant une durée de 5 ans par le Transporteur à compter de la date à laquelle elles ont été communiquées.
+Cependant, ceci peut avoir pour conséquence l’annulation du voyage ou empêcher le Passager de bénéficier des services complémentaires commandés. Les données collectées par AEGEAN sont conservées et utilisées par le Transporteur en conformité avec la législation française et européenne. Le Passager est informé qu'à défaut d'exercice de son droit d'opposition, ses données personnelles seront conservées pendant une durée de 5 ans par le Transporteur à compter de la date à laquelle elles ont été communiquées.  
+ 
 
 ### 17 LES PASSAGERS A MOBILITE REDUITE
 
@@ -538,8 +537,8 @@ Si AEGEAN place un passager dans une classe inférieure à celle pour laquelle l
    
 Si vous souhaitez faire une réclamation, veuillez contacter le service clientèle d'Aegean Airlines :
 
-*   Via le site officiel d'Aegean : www.aegeanair.com → Aide & Contact → [E-mail](https://aegeanairlines-fr.custhelp.com/app/email)
-*   Par fax : +30 2103550188
+* Via le site officiel d'Aegean : www.aegeanair.com → Aide & Contact → [E-mail](https://aegeanairlines-fr.custhelp.com/app/email)
+* Par fax : +30 2103550188
 
   
 **Coordonnées de l'organisme national d'exécution:  
@@ -609,13 +608,13 @@ Voir la politique d’AEGEAN de protection des données sur [https://fr.aegeanai
   
 **Conditions générales de tarification multi-devise (MCP)**
 
-*   Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
-*   L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
-*   Elle n'est proposée que pour les nouvelles réservations. Les ajouts ou modifications ultérieurs, le cas échéant, seront calculés sur la base de la devise d'origine (euros).
-*   L'option de conversion de devise n'est pas disponible pour les services additionnels suivants : assurance voyage, stationnement à l'aéroport et location de voiture.
-*   Les différentes devises proposées sont les suivantes : euro EUR, livre sterling GBP, dollar australien AUD, dollar canadien CAD, franc suisse CHF, couronne danoise DKK, couronne suédoise SEK, dollar américain USD, shekel israélien ILS, Dirham des Émirats arabes unis AED, Réal brésilien BRL, Couronne norvégienne NOK, Rouble russe RUB, Riyal saoudien SAR, Livre turque TRY, Zloty polonais PLN.
-*   Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
-*   Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
+* Les prix sont en EUR. Si vous souhaitez payer dans une autre devise, vous pouvez sélectionner celle que vous préférez dans le menu déroulant.
+* L'option de conversion de devise est disponible lors de la réservation sur aegeanair.com, olympicair.com ou via l'application Aegean.
+* Elle n'est proposée que pour les nouvelles réservations. Les ajouts ou modifications ultérieurs, le cas échéant, seront calculés sur la base de la devise d'origine (euros).
+* L'option de conversion de devise n'est pas disponible pour les services additionnels suivants : assurance voyage, stationnement à l'aéroport et location de voiture.
+* Les différentes devises proposées sont les suivantes : euro EUR, livre sterling GBP, dollar australien AUD, dollar canadien CAD, franc suisse CHF, couronne danoise DKK, couronne suédoise SEK, dollar américain USD, shekel israélien ILS, Dirham des Émirats arabes unis AED, Réal brésilien BRL, Couronne norvégienne NOK, Rouble russe RUB, Riyal saoudien SAR, Livre turque TRY, Zloty polonais PLN.
+* Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
+* Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
 
   
 **Réclamations  
