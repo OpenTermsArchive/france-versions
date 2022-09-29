@@ -2,7 +2,7 @@ CONDITIONS GÉNÉRALES DE VENTE | BACK MARKET
 
 
 
-AOÛT 2022
+OCTOBRE 2022
 
 
 
@@ -36,9 +36,9 @@ Qui est responsable des services et des Produits ? 8
 
 Droit applicable et juridiction compétente 8
 
-Annexe 1 : Reproduction des dispositions légales : 10
+Annexe 1 : Reproduction des dispositions légales : 9
 
-Annexe 2 : Formulaire de rétractation 25
+Annexe 2 : Formulaire de rétractation 24
 
 
 
@@ -410,225 +410,151 @@ impropre à son usage ou qui diminue très fortement cet usage.
 
 
 
-Il est rappelé que dans le cadre de la garantie légale de conformité, l’Acheteur :
-
-\- bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir à l'encontre
-
-du Vendeur ;
-
-\- peut choisir entre la réparation ou le remplacement du Produit commandé ;
-
-\- est dispensé de rapporter la preuve de l'existence du défaut de conformité du Produit
-
-durant les vingt quatre mois suivant la délivrance du Produit, sauf pour les biens
-
-d'occasion, tels que les Produits, pour lesquels ce délai est réduit à douze mois (art. 217-7
-
-du Code de la consommation).
-
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale
-
-pouvant éventuellement couvrir le Produit. L’Acheteur peut décider de mettre en œuvre la
-
-garantie contre les vices cachés Produit conformément à l'article 1641 du Code Civil ; dans
-
-ce cas, il peut choisir entre la résolution de la vente ou une réduction du prix de vente
-
-conformément à 1644 du Code Civil.
-
-La garantie des vices cachés doit être mise en œuvre dans un délai de 2 ans à compter de
-
-la découverte du vice.
+Précisions sur les garanties légales
 
 
 
-8.1.1 Précisions sur la garantie légale de conformité
+« Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien
 
-La conformité : Le Vendeur livre un Produit conforme au contrat et répond des défauts de
+pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un
 
-conformité existant lors de la délivrance et résultant de l'emballage, des instructions de
+défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence
 
-montage ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été
+du défaut de conformité et non la date d'apparition de celui-ci.
 
-réalisée sous sa responsabilité.
+« Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu numérique ou d'un
 
-● A cet égard, le Produit est considéré comme conforme au contrat lorsque (i) il
+service numérique de manière continue pendant une durée supérieure à deux ans, la
 
-correspond à la description, au type, à la quantité et à la qualité, notamment en ce
+garantie légale est applicable à ce contenu numérique ou ce service numérique tout au
 
-qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre
+long de la période de fourniture prévue. Durant ce délai, le consommateur n'est tenu
 
-caractéristique prévues au contrat, (ii) il est propre à tout usage spécial recherché
+d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le
 
-par le consommateur, porté à la connaissance du vendeur au plus tard au moment
+service numérique et non la date d'apparition de celui-ci.
+
+« La garantie légale de conformité emporte obligation pour le professionnel, le cas
+
+échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du
+
+bien.
+
+« La garantie légale de conformité donne au consommateur droit à la réparation ou au
+
+remplacement du bien dans un délai de trente jours suivant sa demande, sans frais et sans
+
+inconvénient majeur pour lui.
+
+« Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur
+
+bénéficie d'une extension de six mois de la garantie initiale.
+
+« Si le consommateur demande la réparation du bien, mais que le vendeur impose le
+
+remplacement, la garantie légale de conformité est renouvelée pour une période de deux
+
+ans à compter de la date de remplacement du bien.
+
+« Le consommateur peut obtenir une réduction du prix d'achat en conservant le bien ou
+
+mettre fin au contrat en se faisant rembourser intégralement contre restitution du bien, si :
+
+« 1° Le professionnel refuse de réparer ou de remplacer le bien ;
 
 
 
 5
 
-de la conclusion du contrat et que ce dernier a accepté (iii) il est délivré avec tous
+« 2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;
 
-les accessoires et les instructions d'installation, devant être fournis conformément
+« 3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le
 
-au contrat (iv) il est mis à jour conformément au contrat.
+consommateur, notamment lorsque le consommateur supporte définitivement les frais de
 
-● Les défauts de conformité qui apparaissent dans un délai de douze (12) mois à
+reprise ou d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du
 
-partir de la délivrance du Produit sont présumés exister au moment de la livraison,
+bien réparé ou de remplacement ;
 
-sauf preuve contraire. En effet, le Vendeur peut combattre cette présomption si
+« 4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du
 
-celle-ci n'est pas compatible avec la nature du Produit ou le défaut de conformité
+vendeur restée infructueuse.
 
-invoqué. Après cette période de 12 mois, l’Acheteur doit apporter la preuve que le
+« Le consommateur a également droit à une réduction du prix du bien ou à la résolution du
 
-défaut existait au moment de l’achat, par une expertise par exemple.
+contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou
 
-● Si l'Acheteur est en droit d'exiger la conformité du Produit au contrat, il ne peut
+la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de
 
-cependant pas contester la conformité en invoquant un défaut qu'il connaissait ou
+demander la réparation ou le remplacement du bien au préalable.
 
-ne pouvait ignorer lorsqu'il a contracté (par exemple, l’Acheteur ne peut évoquer le
+« Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est
 
-défaut de conformité résultant de micro-rayures de l’écran lorsque la Fiche Produit
+mineur.
 
-indique expressément que l’écran comporte des micro-rayures).
+« Toute période d'immobilisation du bien en vue de sa réparation ou de son remplacement
 
+suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.
 
+« Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L.
 
-En cas de défaut de conformité : L'Acheteur peut exiger la mise en conformité du bien, et
+217-32 du code de la consommation.
 
-choisit entre la réparation et le remplacement du Produit. Toutefois, le Vendeur peut ne pas
+« Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de
 
-procéder selon le choix de l'Acheteur si ce choix est impossible ou entraîne un coût
+conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut
 
-manifestement disproportionné. Le Vendeur procède alors, sauf impossibilité, selon la
+être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la
 
-modalité non choisie par l'Acheteur.
+consommation).
 
-● Lorsque le Produit est réparé dans le cadre de la garantie légale de conformité, il
+« Le consommateur bénéficie également de la garantie légale des vices cachés en
 
-bénéficie d’une extension de garantie de six (6) mois.
+application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à
 
-● L’Acheteur a droit à une réduction du prix du bien ou à la résolution du contrat dans
+compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le
 
-les cas suivants : 1° Lorsque le Vendeur refuse toute mise en conformité ; 2°
+bien est conservé ou à un remboursement intégral contre restitution du bien. »
 
-Lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant
 
-la demande de l’Acheteur ou si elle lui occasionne un inconvénient majeur ; 3° Si le
 
-consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien
+Pour faire jouer les garanties, l’Acheteur se connecte sur son compte client et clique sur le
 
-non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou
+bouton « Obtenir de l’aide » au niveau de la commande concernée, ou remplit le formulaire de
 
-les frais y afférents ; 4° Lorsque la non-conformité du bien persiste en dépit de la
+contact disponible sous ce lien. Dès sa demande complétée, l’Acheteur reçoit une étiquette de
 
-tentative de mise en conformité du vendeur restée infructueuse. L’Acheteur a
+retour pour renvoyer depuis la France métropolitaine, sans frais, le Produit défectueux. Les
 
-également droit à une réduction du prix du Produit ou à la résolution du contrat
+frais d'expédition pour le retour du Produit seront pris en charge par le Vendeur.
 
-lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou
 
-la résolution du contrat soit immédiate. La résolution de la vente ne peut toutefois
 
-être prononcée si le défaut de conformité est mineur.
+L’Acheteur doit emballer le Produit qu’il renvoie au Vendeur avec précaution afin qu’il ne soit
 
-● Lorsque la réparation du Produit est impossible ou n’est pas mise en œuvre par le
+pas abîmé lors du transport. L’Acheteur doit également veiller à la suppression de ses données
 
-Vendeur dans un délai de trente (30) jours, l’Acheteur peut demander le
+à caractère personnel avant tout renvoi du Produit et le déconnecter de tout compte qui serait
 
-remplacement du Produit. Dans ce cas, le Produit de remplacement bénéficie d’un
+connecté au Produit. L’Acheteur trouvera des instructions sur comment supprimer ses
 
-renouvellement de la garantie légale pour une durée de deux (2) ans à compter du
+données personnelles sous ce lien s’agissant des comptes Google, et sous ce lien s’agissant
 
-jour où le bien de remplacement est livré à l’Acheteur.
-
-● L'application du présent article a lieu sans aucun frais pour l'Acheteur. En outre,
-
-l’Acheteur peut toujours demander à se faire allouer des dommages et intérêts.
-
-
-
-Prescription de l'action : L’action résultant du défaut de conformité se prescrit par cinq ans
-
-à compter de la délivrance du bien. L’Acheteur est cependant informé que le report du point
-
-de départ, la suspension ou l'interruption de la prescription ne peut avoir pour effet de
-
-porter le délai de la prescription extinctive au-delà de vingt ans à compter du jour de la
-
-naissance du droit.
-
-
-
-8.1.2 Précisions sur la garantie légale des vices cachés
-
-Les vices cachés : En plus de la garantie légale de conformité, l’Acheteur bénéficie de la
-
-garantie légale des vices cachés. En effet, le vendeur est tenu de la garantie à raison des
-
-défauts cachés du Produit vendu qui le rendent impropre à l'usage auquel on le destine ou
-
-
-
-6
-
-qui diminuent tellement cet usage que l'Acheteur ne l'aurait pas acquis, ou n'en aurait
-
-donné qu'un moindre prix, s'il les avait connus.
-
-
-
-En cas de vices cachés : L'Acheteur peut soit rendre le Produit et se faire restituer le prix
-
-soit garder le Produit et se faire rendre une partie du prix. Si le Vendeur connaissait les
-
-vices de la chose, il est tenu, outre la restitution du prix qu'il en a reçu, de tous les
-
-dommages et intérêts envers l'Acheteur. Si le Vendeur ignorait les vices du Produit, il ne
-
-sera tenu qu'à la restitution du prix, et à rembourser à l'Acheteur les frais occasionnés par
-
-la vente. Si le Produit qui avait des vices a péri par suite de sa mauvaise qualité, la perte
-
-est pour le Vendeur, qui sera tenu envers l'Acheteur à la restitution du prix et aux autres
-
-dédommagements expliqués ci-dessus. Mais la perte arrivée par cas fortuit sera pour le
-
-compte de l'Acheteur.
-
-
-
-Prescription de l’action : L'action résultant des vices rédhibitoires doit être intentée par
-
-l'Acheteur dans un délai de deux ans à compter de la découverte du vice. L’Acheteur est
-
-cependant informé que le report du point de départ, la suspension ou l'interruption de la
-
-prescription ne peut avoir pour effet de porter le délai de la prescription extinctive au-delà
-
-de vingt ans à compter du jour de la naissance du droit.
-
-
-
-Pour plus de détail sur les garanties légales applicables, cf. Annexe 1.
+des comptes iCloud.
 
 
 
 8.2 Quelle garantie commerciale est applicable aux produits vendus sur la Plateforme ?
 
-La durée de la garantie commerciale (ou contractuelle) applicable au Produit est précisée
+La durée de la garantie commerciale applicable au Produit est précisée avant la vente sur
 
-avant la vente sur chaque Fiche Produite. La durée minimum est de 12 mois.
+chaque Fiche Produite. La durée minimum est de 12 mois.
 
-Aux termes de cette garantie commerciale, le Vendeur s’engage à proposer un
+Cette garantie commerciale s’applique en sus des droits dont bénéficie l’Acheteur au titre des
 
-service-après-vente conforme à des critères qualitatifs plus étendus que ceux prévus par les
+garanties légales. Les conditions de cette garantie commerciale sont précisées dans le contrat
 
-garanties légales. Les conditions de cette garantie commerciale sont précisées dans le
-
-certificat de garantie disponible sous ce lien.
+de garantie commerciale disponible sous ce lien.
 
 
 
@@ -637,6 +563,10 @@ certificat de garantie disponible sous ce lien.
 L’application des garanties est exclue dans les cas suivants :
 
 - Lorsque le Produit est oxydé, brisé ou cassé ;
+
+
+
+6
 
 - Lorsque l’un ou plusieurs des composants du Produit ont été manipulés par l’Acheteur ou
 
@@ -672,8 +602,6 @@ paiement de sa commande.
 
 
 
-7
-
 Article 9. Comment communiquer avec le Vendeur et faire une réclamation ?
 
 9.1 Communication via la Plateforme. D’une manière générale, l’Acheteur et le Vendeur
@@ -682,71 +610,47 @@ s’engagent à ne communiquer entre eux que via leur compte respectif sur la Pl
 
 L’Acheteur et le Vendeur pourront chacun suivre la réclamation depuis leur compte respectif.
 
-Back Market se charge ensuite de transmettre la réclamation de l’Acheteur au Vendeur et,
-
-inversement, de transmettre la réponse du Vendeur à l’Acheteur par courrier électronique.
-
 De manière exceptionnelle, par exemple lorsque le compte client de l’Acheteur a été clôturé,
 
 l’Acheteur adresse sa réclamation concernant un Produit à Back Market en remplissant le
 
 formulaire disponible sous ce lien.
 
-9.2 Traitement de la réclamation par le Vendeur. Le Vendeur s’engage à répondre à toute
+9.2 Traitement de la réclamation de l’Acheteur.
 
-réclamation de l’Acheteur dans un délai de 24 heures (hors week-ends et jours fériés).
+L’Acheteur obtiendra une réponse à toute réclamation de l’Acheteur dans un délai de 24
 
-L’Acheteur est informé que le Vendeur est seul responsable du traitement de sa
+heures (hors week-ends et jours fériés). L’Acheteur est informé que le Vendeur est seul
 
-réclamation ainsi que du service après-vente, des garanties et plus généralement des
+responsable des garanties et plus généralement des Produits qu’il vend sur la Plateforme.
 
-Produits qu’il vend sur la Plateforme. En aucun cas, la responsabilité de Back Market ne
+En aucun cas, la responsabilité de Back Market ne saurait être engagée au titre de la vente
 
-saurait être engagée au titre de la vente d’un Produit.
+d’un Produit.
 
-9.3 L’intervention de Back Market : Back Market propose aux Acheteurs qui rencontrent une
+9.3 L’intervention de Back Market : Back Market assiste les Vendeurs dans le traitement de
 
-difficulté avec un Vendeur, d’intervenir lorsque les conditions cumulatives suivantes sont
+leur service après-vente. Si le Vendeur ne respecte pas ses obligations à l'égard de l'Acheteur
 
-réunies : (i) l’Acheteur dispose d’un compte client actif, c’est à dire non clôturé, (ii) l’Acheteur
+aux termes de la Garantie Commerciale Vendeur (notamment si le Vendeur n’a pas proposé
 
-a formulé sa réclamation dans les délais de garanties et via son compte client, (iii) le
+de solution d’échange, de réparation ou de remboursement dans un délai de cinq jours
 
-Vendeur n’a pas apporté de réponse (ou pas de réponse satisfaisante) à l’Acheteur dans les
+ouvrés maximum à compter de la réception des Produit(s)), et si Back Market considère que
 
-24 heures suivant sa réclamation, ou le Vendeur n’a pas proposé de solution d’échange, de
+la demande de l’Acheteur est justifiée, Back Market mettra en oeuvre, au nom et pour le
 
-réparation, ou, le cas échéant de rem boursement dans un délai de cinq jours ouvrés
+compte du Vendeur et après avoir recueilli l'avis de l'Acheteur, une des solutions suivantes,
 
-maximum à compter de la réception du Produit (iv) la réclamation de l’Acheteur porte sur un
+selon l’objet de la réclamation , : (i) rembourser le prix de la commande ou du Produit litigieux
 
-défaut couvert par les garanties légales et/ou commerciales
+à l'Acheteur, (ii) renvoyer à l’Acheteur un Produit conforme au Produit commandé, (iii)
 
-Si toutes ces conditions sont réunies, l’Acheteur peut solliciter l’intervention de Back Market
+proposer une solution de réparation du Produit non conforme et, le cas échéant, (iv) mettre à
 
-qui s’engage d’abord à intervenir en tiers arbitre en remplissant le formulaire disponible sous
+disposition de l’Acheteur une étiquette prépayée pour retourner le Produit. La solution
 
-ce lien. Dans ce cas, si Back Market considère que la demande de l’Acheteur est justifiée et
-
-que le Vendeur a contrevenu à ses obligations, Back Market demande au Vendeur, selon
-
-l’objet de la réclamation de l’Acheteur, de : (i) rembourser le prix de la commande ou du
-
-Produit litigieux à l'Acheteur, (ii) renvoyer à l’Acheteur un Produit conforme au Produit
-
-commandé, (iii) proposer une solution de réparation du Produit non conforme et, le cas
-
-échéant, (iv) mettre à disposition de l’Acheteur une étiquette prépayée pour retourner le
-
-Produit. La solution proposée par Back Market, si elle convient à l’Acheteur, s’impose au
-
-Vendeur. Dans le cas où le Vendeur n’a pas mis en oeuvre la solution proposée par Back
-
-Market dans les 48 heures ouvrées suivant sa notification au Vendeur, Back Market pourra
-
-ensuite se substituer au Vendeur (c'est-à-dire implémenter la solution proposée ou une
-
-solution différente mais adaptée après avoir recueilli l’avis de l’Acheteur).
+proposée par Back Market, si elle convient à l’Acheteur, s’impose au Vendeur.
 
 L’intervention de Back Market dans ce cadre est additionnelle et indépendante des droits de
 
@@ -756,7 +660,7 @@ l’encontre du Vendeur.
 
 
 
-8
+7
 
 Article 10. Qui est responsable des services et des Produits ?
 
@@ -774,19 +678,27 @@ pour l’utilisateur d’utiliser tout ou partie d’un Service ou de la Platefo
 
 10.2. Concernant les Produits. Le Vendeur assume l'entière responsabilité en ce qui
 
-concerne les Produits qu'il met en vente par le biais la Plateforme. Back Market étant un
+concerne les Produits qu'il met en vente par le biais la Plateforme, et leur garantie. L’Acheteur
 
-intermédiaire hébergeur entre le Vendeur et l'Acheteur, Back Market décline toute
+trouvera toutes les informations relatives à l'identité du Vendeur dans la Fiche Vendeur ou
 
-responsabilité relative à la vente conclue entre le Vendeur et l'Acheteur sur la Plateforme.
+sur la facture de vente correspondante. Back Market étant un intermédiaire hébergeur entre
 
-Ainsi, l'Acheteur exonère Back Market de toute responsabilité qui pourrait survenir dans
+le Vendeur et l'Acheteur, Back Market décline toute responsabilité relative à la vente conclue
 
-l'exécution de la vente, notamment en ce qui concerne la conformité des Produits, la
+entre le Vendeur et l'Acheteur sur la Plateforme. La gestion du service après-vente par Back
 
-description et la conformité de l'offre de vente, la disponibilité des Produits la titularité des
+Market au nom et pour le compte du Vendeur n'exclut pas ni ne limite la responsabilité du
 
-droits de propriété intellectuelle et industrielle relatifs aux Produits.
+Vendeur envers l’Acheteur.
+
+L'Acheteur exonère Back Market de toute responsabilité qui pourrait survenir dans l'exécution
+
+de la vente, notamment en ce qui concerne la conformité des Produits, la description et la
+
+conformité de l'offre de vente, la disponibilité des Produits la titularité des droits de propriété
+
+intellectuelle et industrielle relatifs aux Produits.
 
 
 
@@ -834,7 +746,7 @@ facture de vente.
 
 
 
-9
+8
 
 Annexe 1 : Reproduction des dispositions légales :
 
@@ -940,7 +852,7 @@ conformément au contrat ;
 
 
 
-10
+9
 
 4° Il est mis à jour conformément au contrat.
 
@@ -1044,7 +956,7 @@ incompatible avec la nature du bien ou du défaut invoqué.
 
 
 
-11
+10
 
 Pour les biens d'occasion, ce délai est fixé à douze mois.
 
@@ -1152,7 +1064,7 @@ sollicitée est impossible ou entraîne des coûts disproportionnés au regard n
 
 
 
-12
+11
 
 1° De la valeur qu'aurait le bien en l'absence de défaut de conformité ;
 
@@ -1262,7 +1174,7 @@ bien en l'absence du défaut de conformité.
 
 
 
-13
+12
 
 Article L217-16 du Code de la Consommation
 
@@ -1364,7 +1276,7 @@ numérique ou du service numérique pendant une certaine période ;
 
 
 
-14
+13
 
 3° Durant la période pendant laquelle le contenu numérique ou le service numérique est fourni en vertu
 
@@ -1472,7 +1384,7 @@ Article L217-22 du Code de la Consommation
 
 
 
-15
+14
 
 La garantie commerciale est fournie au consommateur de manière lisible et compréhensible sur tout
 
@@ -1586,7 +1498,7 @@ difficultés d'interprétation qu'y font naître les règles relatives aux garan
 
 
 
-16
+15
 
 Section 4 : Prestations de service après-vente :
 
@@ -1688,7 +1600,7 @@ propriété intellectuelle, empêche ou limite l'utilisation du bien conforméme
 
 
 
-17
+16
 
 articles L. 217-4 et L. 217-5, la nullité du contrat ou toute autre action de nature contractuelle ou
 
@@ -1786,7 +1698,7 @@ lacunes dans les instructions que le professionnel a fournies.
 
 
 
-18
+17
 
 Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de
 
@@ -1892,7 +1804,7 @@ plusieurs caractéristiques particulières du contenu numérique ou du service n
 
 
 
-19
+18
 
 spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article,
 
@@ -1964,7 +1876,7 @@ coopérer avant la conclusion du contrat.
 
 
 
-20
+19
 
 Paragraphe 2 : Mise en oeuvre de la garantie légale de conformité :
 
@@ -2064,7 +1976,7 @@ tentative de mise en conformité du professionnel restée infructueuse.
 
 
 
-21
+20
 
 Le consommateur a également droit à une réduction de prix ou à la résolution du contrat lorsque le
 
@@ -2170,7 +2082,7 @@ contenu numérique ou le service numérique fourni par le professionnel, ou enco
 
 
 
-22
+21
 
 agrégé par le professionnel à d'autres données et ne peut être désagrégé, ou ne peut l'être que
 
@@ -2276,7 +2188,7 @@ tous les dommages et intérêts envers l'acheteur.
 
 
 
-23
+22
 
 Article 1646 du Code Civil
 
@@ -2306,7 +2218,7 @@ compter de la découverte du vice.
 
 
 
-24
+23
 
 Annexe 2 : Formulaire de rétractation
 
@@ -2356,4 +2268,4 @@ Date :..........................................................................
 
 
 
-25
+24
