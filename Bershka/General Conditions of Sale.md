@@ -66,9 +66,9 @@ au registre du commerce et des sociétés de Paris, sous le numéro 443 617 725,
 
 intracommunautaire FR 92 443 617 725, joignable à l'adresse électronique suivante
 
-contact@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé, hors coût
+contact_fr@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé, hors
 
-éventuel selon votre opérateur).
+coût éventuel selon votre opérateur).
 
 
 
@@ -83,6 +83,8 @@ aux Politiques de Protection des Données. En utilisant ce site Internet, vous a
 informations et données et vous garantissez que toutes les informations et données fournies sont
 
 véridiques et correspondent à la réalité.
+
+
 
 4. UTILISATION DE NOTRE SITE INTERNET
 
@@ -163,8 +165,6 @@ commande a bien été acceptée et expédiée (la « Confirmation d’envoi»).
 Un ticket électronique mentionnant les détails de votre commande sera joint à la Confirmation d’envoi
 
 (l“E-ticket”). Nous vous contacterons également lorsque votre commande sera disponible.
-
-
 
 7. DISPONIBILITÉ DES PRODUITS
 
@@ -262,6 +262,8 @@ possession physique des marchandises, ce qui sera justifié par la signature du 
 
 l'adresse de livraison convenue.
 
+
+
 La carte cadeau virtuelle sera considérée comme ayant été livrée conformément aux dispositions prévues
 
 dans les conditions d'utilisation de la carte cadeau et, dans tous les cas, à la date d'expédition de cette
@@ -342,8 +344,6 @@ sommes dues liées à ces produits, y compris les frais de livraison, ou au mome
 
 l'indique la clause 9 ci-dessus), si cette dernière devait avoir lieu ultérieurement.
 
-
-
 12. PRIX ET PAIEMENT
 
 
@@ -404,17 +404,15 @@ que vous avez passées est disponible dans la section « Mon compte ».
 
 Les moyens de paiement suivants sont disponibles : Carte Bancaire, Visa, Mastercard, American Express,
 
-Visa Electron, ainsi que PayPal. Apple Pay et Google Pay sont également disponibles sur l’application
+Visa Electron, ainsi que PayPal. Vous pouvez également payer l'intégralité ou une partie de vos achats à
 
-mobile BERSHKA de votre téléphone. Vous pouvez également payer l'intégralité ou une partie de vos
+l'aide d'une carte cadeau ou d'un bon d’achat de Bershka, délivré par Bershka France S.A.R.L. Les cartes
 
-achats à l'aide d'une carte cadeau ou d'un bon d’achat de Bershka, délivré par Bershka France S.A.R.L. Les
+cadeau ne peuvent pas être achetées au moyen d'une autre carte cadeau. Par ailleurs, vous pouvez payer
 
-cartes cadeau ne peuvent pas être achetées au moyen d'une autre carte cadeau. Par ailleurs, vous pouvez
+votre commande lors de la livraison en magasin, en utilisant tous moyens de paiement acceptés dans les
 
-payer votre commande lors de la livraison en magasin, en utilisant tous moyens de paiement acceptés
-
-dans les magasins BERSHKA en France.
+magasins BERSHKA en France.
 
 
 
@@ -437,6 +435,8 @@ disponibles dans certains magasins Bershka en France, vous pouvez également, da
 effectuer votre paiement par tous moyens de paiement acceptés dans ces magasins, à l’exception des
 
 cartes cadeau.
+
+
 
 Pour limiter les risques d'accès non autorisés, les informations de votre carte de crédit seront cryptées.
 
@@ -606,7 +606,7 @@ désigné à cet effet acquiert, la possession physique du dernier article.
 
 Pour exercer votre droit de rétractation, vous pouvez faire part à BERSHKA, à l'adresse électronique
 
-contact@bershka.com ou par téléphone, 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon
+contact_fr@bershka.com ou par téléphone, 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon
 
 votre opérateur), ou encore par écrit, via notre formulaire de contact, de votre décision de résilier un
 
@@ -650,33 +650,31 @@ première de ces dates étant retenue.
 
 Vous devrez nous envoyer, faire livrer ou nous remettre les articles dans l'un de nos magasins BERKSHA
 
-en France ou par l’intermédiaire d’un transporteur ou encore en les déposant dans un point relais autorisé
+en France ou en les déposant dans un point relais autorisé en France en utilisant l’étiquette
 
-en France en utilisant l’étiquette d'affranchissement prépayée que nous vous adressons sur demande de
+d'affranchissement prépayée que nous vous adressons sur demande de votre part, selon les modalités
 
-votre part, selon les modalités précisées ci-dessous, sans délai, et dans tous les cas dans un délai maximum
+précisées ci-dessous, sans délai, et dans tous les cas dans un délai maximum de 14 jours suivant la date à
 
-de 14 jours suivant la date à laquelle vous nous communiquerez votre décision de résilier le Contrat. Le
+laquelle vous nous communiquerez votre décision de résilier le Contrat. Le délai est respecté si vous
 
-délai est respecté si vous retournez les articles avant l'expiration de la période de 14 jours.
+retournez les articles avant l'expiration de la période de 14 jours.
 
 
 
-S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
+S S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
-point relais autorisé en France ou dans un magasin BERKSHA situé en France. Cependant, si vous
+magasin BERKSHA situé en France. Cependant, si vous déposez les articles dans un point relais autorisé
 
-retournez les articles par l’intermédiaire d’un transporteur, les frais afférents au renvoi des articles seront
+en France , les frais afférents au renvoi des articles seront à votre charge. Vous supporterez la somme
 
-à votre charge. Vous supporterez la somme forfaitaire figurant dans le Guide d’achat (voir la section
-
-« Commandes et Retours ».
+forfaitaire figurant dans le Guide d’Achat (voir la section « Commandes et Retours ».
 
 
 
 Dans le cas d’un retour effectué en magasin, vous devrez également présenter l’E-ticket joint à la
 
-confirmation d’envoi qui est également disponible sur vote compte sur notre site Internet ainsi que sur
+confirmation d’expédition qui est également disponible sur vote compte sur notre site web ainsi que sur
 
 notre application mobile. Vous pourrez présenter cet E-ticket soit directement sur votre téléphone
 
@@ -720,19 +718,17 @@ que les frais de livraison ne seront pas remboursés.
 
 S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
-magasin BERKSHA situé en France ou dans un point relais autorisé en France. Cependant, si vous déposez
+magasin BERKSHA situé en France. Cependant, si vous déposez les articles dans un point relais autorisé
 
-les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles seront à votre
+situé en France , les frais afférents au renvoi des articles seront à votre charge. Vous supporterez la somme
 
-charge. Vous supporterez la somme forfaitaire figurant dans le Guide d’achat (voir la section
-
-« Commandes et Retours »).
+forfaitaire figurant dans le Guide d’Achat (voir la section « Commandes et Retours ».
 
 
 
 En cas de retour en magasin, vous devez présenter le produit accompagné du E-ticket joint à la
 
-Confirmation d’envoi, qui est également sauvegardé sur votre compte sur notre site Internet et sur
+Confirmation d’expédition, qui est également sauvegardé sur votre compte sur notre site Internet et sur
 
 l’application mobile BERSHKA de votre téléphone. Vous pouvez présenter l’E-ticket sous forme digitale à
 
@@ -744,7 +740,9 @@ Vous pouvez exercer votre droit de rétraction comme le prévoit la clause 16.1 
 
 vous nous informez de votre intention de résilier le Contrat après la durée légale de rétraction, vous
 
-devrez nous retourner les articles, dans un délai de 30 jours à compter de la date de Confirmation d’envoi.
+devrez nous retourner les articles, dans un délai de 30 jours à compter de la date de Confirmation
+
+d’expédition.
 
 
 
@@ -832,37 +830,23 @@ vous recevrez un courriel avec une étiquette à coller sur le colis qui vous pe
 
 
 
-(iii) Retours par transporteur :
-
-
-
-Si vous retournez le produit par transporteur, nous nous chargerons d'organiser sa collecte. Pour cela,
-
-vous devez nous contacter via le formulaire du site Internet pour convenir d'une date de collecte des
-
-produits à votre domicile. Vous devrez envoyer le produit dans l'emballage dans lequel vous l'avez reçu
-
-en suivant les instructions de la section « RETOURS » du Guide d’achat.
-
-
-
 Les frais de retour sont plus amplement détaillés au point 16.1 en cas d’exercice de votre droit légal de
 
-rétractation et au point 16.2 en cas d’exercice de votre droit contractuel de rétractation. Les frais de retour
+rétractation et au point 16.2 en cas d’exercice de votre droit contractuel de rétractation Les frais de retour
 
-sont mentionnés dans le Guide d’achat.
+sont mentionnés dans le guide d’achat.
 
 
 
-Si vous décidez de retourner les produits par un autre moyen que ceux listés aux points (i) et (ii) ci-dessus
+Si vous décidez de retourner les produits par un autre moyen que ceux listés ci-dessus (i) et (ii), en tout
 
-, en tout état de cause, vous supporterez le coût du renvoi des produits. Dans ce dernier cas, nous vous
+état de cause, vous supporterez le coût du renvoi des produits. Dans ce dernier cas, nous vous prions de
 
-prions de retourner le produit aussi rapidement que possible, accompagné de la version imprimée de l’E-
+retourner le produit aussi rapidement que possible, accompagné de la version imprimée de l’E-ticket joint
 
-ticket joint à la Confirmation d’envoi, qui est également sauvegardé sur votre compte sur notre site
+à la Confirmation d’envoi, qui est également sauvegardé sur votre compte sur notre site Internet et sur
 
-Internet et sur notre application mobile.
+notre application mobile.
 
 
 
@@ -895,8 +879,6 @@ versé via le même moyen de paiement que vous avez utilisé pour l'achat.
 
 
 Vous devrez assumer le coût et le risque du retour des produits selon les modalités mentionnées ci-dessus.
-
-
 
 En cas de questions, vous pouvez nous joindre via notre formulaire de contact ou par téléphone au 0 800
 
@@ -970,11 +952,11 @@ livraison située en France métropolitaine.
 
 Également, nous vous informons qu’en aucun cas (à l’exception de la clause 16.4 pour laquelle la présente
 
-clause 16.5 ne s’applique pas) nous ne supporterons de frais de livraison pour des destinations autres que
+clause 16.5 ne s’applique pas) nous ne supporterons pas de frais de livraison pour des destinations autres
 
-celles correspondant à l’adresse initiale de livraison. Nous ne supporterons pas non plus de frais de retour
+que celles correspondant à l’adresse initiale de livraison. Nous ne supporterons pas non plus de frais de
 
-à partir de destinations autres que la France métropolitaine.
+retour à partir de destinations autres que la France métropolitaine.
 
 
 
@@ -987,8 +969,6 @@ celles correspondant à l’adresse initiale de livraison. Nous ne supporterons 
 l’inexécution de nos obligations serait imputable au fait d’un tiers, à votre faute ou à un évènement de
 
 force majeure tel que défini par l’article 1218 du Code Civil et par la jurisprudence.
-
-
 
 Nonobstant ce qui précède, notre responsabilité ne sera ni exclue ni limitée dans les cas suivants :
 
@@ -1076,8 +1056,6 @@ peut choisir entre la résolution de la vente ou une réduction du prix de vente
 
 l’article 1644 du Code civil.
 
-
-
 Rappel des dispositions du Code de la consommation:
 
 
@@ -1164,15 +1142,13 @@ Le contenu de cette clause ne porte aucunement atteinte à vos droits en tant qu
 
 votre droit de résilier le Contrat.
 
-
-
 17.2. Médiation
 
 
 
 En tant que consommateur, si vous estimez que vos droits ont été transgressés, vous pouvez adresser
 
-votre réclamation à l’adresse électronique suivante : contact@bershka.com afin de solliciter un
+votre réclamation à l’adresse électronique suivante : contact\_fr@bershka.com afin de solliciter un
 
 règlement à l’amiable.
 
@@ -1332,13 +1308,13 @@ Le Contrat a force obligatoire pour vous et pour nous, ainsi que pour nos succes
 
 héritiers respectifs.
 
+
+
 Vous ne pourrez ni transmettre, ni céder, ni grever, ni transférer d'une quelconque manière un Contrat
 
 ou l'un des droits ou obligations découlant de celui-ci, sans avoir obtenu notre consentement préalable
 
 par écrit.
-
-
 
 Nous pouvons transmettre, céder, grever, sous-traiter ou transférer d'une quelconque manière un
 
@@ -1510,7 +1486,7 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 16 Août 2022
+Dernière mise à jour le 26 Juillet 2022
 
 ANNEXE
 
@@ -1528,7 +1504,7 @@ A l’attention de BERSHKA FRANCE SARL, opérant sous le nom commercial BERSHKA,
 
 80 Avenue des Terroirs de France, 75012 Paris, fax : 0800 918 880, courrier électronique :
 
-contact@bershka.com
+contact\_fr@bershka.com
 
 
 
@@ -1557,6 +1533,8 @@ Date
 
 
 (\*) Rayer les mentions inutiles
+
+
 
 TERMES ET CONDITIONS D'UTILISATION DES FONCTIONNALITES DE L'APPLICATION BERSHKA
 
@@ -1594,7 +1572,7 @@ FRANCE, SARL au capital de 8.492.700 €, sise Immeuble Garonne, 80, Avenue des 
 
 portant le numéro de TVA intracommunautaire FR 92 443 617 725, joignable à l'adresse électronique
 
-suivante contact@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé,
+suivante contact_fr@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé,
 
 hors coût éventuel selon votre opérateur).
 
@@ -1645,6 +1623,8 @@ que le ticket puisse être automatiquement envoyé à l'Application.
 en utilisant ledit ticket, conformément aux Conditions d'Achat et d’Utilisation applicables, selon la
 
 politique commerciale de Bershka et, dans tous les cas, conformément à la législation en vigueur.
+
+
 
 Dans ce cas, vous ne recevrez pas de ticket sous format papier. Par conséquent, il est essentiel que vous
 
@@ -1770,8 +1750,6 @@ incorporent dans leur propriété au regard de la propriété intellectuelle ou 
 
 ©, ® et ™, etc.,).
 
-
-
 - Dispositifs techniques de protection ou d'identification que la Propriété peut contenir (par exemple,
 
 filigranes, empreintes digitales, etc.,). Les utilisateurs reconnaissent qu'en vertu des présentes
@@ -1836,4 +1814,4 @@ autres lois applicables.
 
 
 
-Dernière mise à jour : 16 Août 2022
+Dernière mise à jour : 26 Juillet 2022
