@@ -130,8 +130,9 @@ Ces deux services sont des Demandes Spécifiques et sont soumis aux stipulations
 
 Le tarif proposé pour chaque Réservation est fixé par Marcel à chaque Course et est composé :
 
-1. de frais de Réservation consistant en une somme forfaitaire dont le montant peut varier à chaque Course ; et
-2. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
+1. de frais de service d'une valeur de 1,50€ facturés pour chaque course (réservation à l'avance ou en immédiate) 
+2. de frais de Réservation consistant en une somme forfaitaire dont le montant peut varier à chaque Course ; et
+3. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
 
 * distance à parcourir ;
 * durée anticipée de la Course (au regard du créneau horaire, de l’itinéraire à emprunter et du prédictif trafic communiqué par l’outil de Marcel) ;
@@ -395,10 +396,10 @@ Annexe : Frais d’Annulation et Frais d’Attente
 | --- | --- | --- | --- |
 |     | Berline | Business | Van |
 | À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 22,5 € TTC | 40€ TTC | 40€ TTC |
-| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 35€ TTC maximum | 100% du prix de la Réservation à hauteur de 65€ TTC maximum | 100% du prix de la Réservation à hauteur de 65€ TTC maximum |
+| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC |
+| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum |
 | Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| Immédiat (plus de 5 min après la commande) | 12 € TTC | 20€ TTC | 20€ TTC |
+| Immédiat (plus de 5 min après la commande) | 13,5 € TTC | 21,5€ TTC | 21,5€ TTC |
 
 #### Frais d’Attente
 
