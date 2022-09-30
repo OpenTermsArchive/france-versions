@@ -63,7 +63,7 @@ Le Client peut utiliser lors de l’achat des bons promotionnels offerts par le 
 
 **5.1 Modalités de paiement**  
   
-Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, espèces à la livraison, paiement échelonné via Klarna.  
+Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, paiement échelonné via Klarna.  
   
 En cas de paiement avec une carte de crédit, une carte de débit et par Paypal, le débit du montant s’effectuera seulement au moment où la commande sera complète et prête à être expédiée.  
   
@@ -120,7 +120,7 @@ En cas de non-conformité du retour, le Client sera contacté par le service cli
   
 Comme prévu par l’art. 56 alinéa 3 du Décret législatif 206/2005, modifié par le Décret législatif 21/2014, le Vendeur peut suspendre le remboursement jusqu’à réception des biens ou bien jusqu’à ce que le Client démontre au Vendeur avoir en effet effectué l’expédition du retour des biens.  
   
-Le vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat. Dans le cas d’un paiement effectué en espèces et si le Client entend exercer son droit de rétractation, il devra fournir au Vendeur, en accédant à la section « nous contacter », ses cordonnées bancaires : IBAN, SWIFT et BIC nécessaires pour procéder à son remboursement.  
+Le vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat.  
   
 Il est précisé que le Client souhaitant changer la marchandise, pour quelque motif que ce soit, devra utiliser exclusivement la procédure de retour décrite ci-dessus.  
   
