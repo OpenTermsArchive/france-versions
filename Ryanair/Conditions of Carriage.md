@@ -536,6 +536,8 @@ ARTICLE 11 COMPORTEMENT À BORD
 
 S’il nous semble raisonnable de considérer que par votre comportement à bord, vous mettez en danger l’appareil, une personne ou des biens à bord, que vous empêchez l’équipage de remplir ses fonctions, que vous ne vous soumettez pas aux recommandations et instructions de l’équipage, notamment, mais non exclusivement, celles concernant la consommation de tabac, d’alcool ou de drogue, ou encore si nous estimons raisonnablement que vous vous comportez d’une manière qui peut gêner ou a dérangé l’équipage ou les autres passagers ou leur a causé un préjudice matériel ou corporel, nous pourrons prendre toutes les mesures que nous jugerons nécessaires, y compris en vous restreignant, pour vous empêcher de continuer à vous comporter de la sorte. Vous pourrez être débarqué, vous voir refuser l’accès à bord pour continuer le voyage à n’importe quel point et être poursuivi pour toute infraction que vous auriez commise à bord de l’appareil.
 
+Il est strictement interdit d’enregistrer ou de photographier notre personnel, que ce soit à l’aéroport ou à bord de l’avion, sans avoir obtenu son consentement. Seuls les enregistrements ou les photographies personnelles vous concernant sont autorisés.
+
 11.2 APPAREILS ÉLECTRONIQUES PORTABLES
 
 
