@@ -368,24 +368,24 @@ Nous conservons vos données personnelles uniquement le temps nécessaire à la 
 
 Comment nous collectons et partageons vos données
 
-#### Sources des données
+#### Sources de données
 
-Nous obtenons vos données lorsque vous vous inscrivez en tant que membre et que vous soumettez vos données dans le but de créer et gérer votre compte. Nous recueillons vos données directement auprès de vous lorsque vous achetez nos produits sur l'un de nos canaux ou que vous vous inscrivez à l'un de nos services (par exemple, lors de la réservation sur finnair.com). Vos achats seront liés à votre compte si vous vous êtes identifié en tant que membre Finnair Plus.
+Nous obtenons vos données lors de votre inscription comme adhérent et que vous soumettez des informations vous concernant, dans le but de créer et de gérer votre compte. Nous obtenons vos données directement auprès de vous lorsque vous achetez nos produits sur l’un de nos canaux, ou lorsque vous vous inscrivez à l’un de nos services (par exemple, lorsque vous effectuez une réservation sur finnair.com). Vos achats seront liés à votre compte si vous vous êtes identifié en tant qu’adhérent Finnair Plus.
 
-Nous recueillons également vos données auprès de partenaires lorsque vous utilisez leurs services avec votre compte Finnair Plus. Ce processus est nécessaire pour fournir les services du programme.
+Nous obtenons également vos données auprès de nos partenaires lorsque vous utilisez leurs services par le biais de votre compte Finnair Plus. Cela est nécessaire pour fournir les services du programme.
 
-Nous collectons automatiquement des données personnelles lorsque vous utilisez nos services, dès lors que vous êtes identifié par votre numéro Finnair Plus, tels que les services d'enregistrement et de dépôt des bagages, ou que vous utilisez des services de fidélité ou achetez des produits connexes.
+Nous collectons automatiquement des données à caractère personnel lorsque vous êtes identifié par votre numéro Finnair Plus, et que vous utilisez nos services tels que l’enregistrement et l’acheminement des bagages, lorsque vous utilisez les services de fidélité, ou lorsque vous achetez des produits auxiliaires.
 
 #### Partage de vos données
 
-Nous pouvons partager vos données personnelles avec les sociétés du groupe Finnair et d’autres tiers aux fins suivantes :
+Nous sommes susceptibles de partager vos données à caractère personnel avec des sociétés du groupe Finnair et d’autres tiers, aux fins suivantes :
 
-**Pour fournir des services liés à votre adhésion**
+**Pour fournir des services liés à votre adhésion** **et développer ces services**
 
-Nous partageons vos données personnelles avec, par exemple, d'autres compagnies aériennes, exploitants aéroportuaires, partenaires de programmes et fournisseurs de services directement impliqués dans la prestation de services liés à votre adhésion.
+Nous partageons vos données à caractère personnel avec, par exemple, d’autres compagnies aériennes, des exploitants d’aéroports, partenaires du programme et autres prestataires de services directement impliqués dans la prestation de services liés à votre adhésion ou aux activités de développement desdits services.
 
-**À des fins juridiques, de sécurité et de prévention de la fraude**
+**Pour remplir des obligations légales, d’ordre sécuritaire, ou liées à la prévention des fraudes**
 
-Nous pouvons partager vos données personnelles avec des tiers concernés si nécessaire pour détecter et prévenir les délits, les activités frauduleuses ou les problèmes de sécurité, ou pour toute autre raison légale. 
+Nous sommes susceptibles de partager vos données à caractère personnel avec les tiers concernés, si nécessaire, dans le but de détecter et empêcher toute activité criminelle ou frauduleuse, violation de la sécurité, ou pour d’autres raisons juridiques.
 
 16 Mars 2021
