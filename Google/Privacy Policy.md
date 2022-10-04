@@ -5,13 +5,15 @@ Lorsque vous utilisez nos services, vous nous faites confiance pour le traitemen
 
 Les présentes Règles de confidentialité visent à vous indiquer quelles informations nous collectons et pour quelle raison, ainsi que la façon de les mettre à jour, de les gérer, de les exporter et de les supprimer.
 
+Si la loi de l'Union européenne ou du Royaume-Uni sur la protection des données s'applique au traitement de vos informations, consultez la section [Exigences européennes](https://policies.google.com/privacy?hl=fr-FR&gl=FR#europeanrequirements) ci-dessous pour en savoir plus sur vos droits et la conformité de Google avec ces lois.
+
 Check-up Confidentialité
 
 Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 10 février 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20220210/8e0kln2a/google_privacy_policy_fr_eu.pdf)
+À compter du 4 octobre 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20221004/a2n853ky/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -33,6 +35,8 @@ Sommaire
 [Conservation de vos informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#inforetaining)
 
 [Conformité et coopération avec des organismes de réglementation](https://policies.google.com/privacy?hl=fr-FR&gl=FR#enforcement)
+
+[Exigences européennes](https://policies.google.com/privacy?hl=fr-FR&gl=FR#europeanrequirements)
 
 [À propos des présentes règles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#about)
 
@@ -62,7 +66,7 @@ Lorsque vous êtes connecté à votre compte, nous stockons les informations col
 Éléments que vous créez ou que vous nous fournissez
 ---------------------------------------------------
 
-Lorsque vous créez un compte Google, vous nous fournissez des [informations personnelles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personal-info), dont votre nom et un mot de passe. Vous avez également la possibilité d'ajouter un [numéro de téléphone](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-phone-number) ou des [informations de paiement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-payment-info) à votre compte. Même si vous n'êtes connecté à aucun compte Google, vous pouvez nous fournir des informations, telles qu'une adresse e-mail afin de recevoir des notifications relatives à nos services.
+Lorsque vous créez un compte Google, vous nous fournissez des [informations personnelles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personal-info), dont votre nom et un mot de passe. Vous pouvez aussi ajouter un [numéro de téléphone](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-phone-number) ou des [informations de paiement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-payment-info) à votre compte. Même si vous n'êtes connecté à aucun compte Google, vous pouvez nous fournir des informations, telles qu'une adresse e-mail pour communiquer avec Google ou recevoir des informations concernant nos services.
 
 Nous collectons également le contenu que vous créez, importez ou recevez de la part d'autres personnes via nos services. Cela inclut par exemple les e-mails que vous écrivez ou recevez, les photos et vidéos que vous enregistrez, les documents et feuilles de calcul que vous créez, ainsi que les commentaires que vous rédigez sur YouTube.
 
@@ -156,7 +160,7 @@ Nous utilisons les informations que nous collectons, telles que votre adresse e-
 
 ### Protéger Google, nos utilisateurs et le public
 
-Nous utilisons vos informations pour améliorer [la sécurité et la fiabilité](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-safety-reliability) de nos services. Cela inclut la détection, la prévention et le traitement des fraudes, abus, atteintes à la sécurité et problèmes techniques qui pourraient nous nuire, ainsi qu'aux utilisateurs ou au public.
+Nous utilisons vos informations pour améliorer [la sécurité et la fiabilité](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-safety-reliability) de nos services. Cela inclut la détection, la prévention et le traitement des fraudes, utilisations abusives, atteintes à la sécurité et problèmes techniques qui pourraient nuire à Google, ainsi qu'à ses utilisateurs ou au [public](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-the-public).
 
 * * *
 
@@ -249,8 +253,6 @@ Vous pouvez exporter une copie du contenu de votre compte Google si vous souhait
 
 [Exporter vos données](https://takeout.google.com/?utm_source=pp&hl=fr)
 
-Vous pouvez également formuler une [demande de suppression de contenu](https://support.google.com/legal?p=privpol_remove&hl=fr) de services Google spécifiques, sur la base de la législation en vigueur.
-
 Les options suivantes s'offrent à vous si vous souhaitez supprimer vos informations :
 
 * Supprimer votre contenu de [services Google spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-delete-specific)
@@ -260,7 +262,9 @@ Les options suivantes s'offrent à vous si vous souhaitez supprimer vos informat
 
 [Supprimer vos informations](https://myaccount.google.com/delete-services-or-account?utm_source=pp&hl=fr)
 
-Pour terminer, le [Gestionnaire de compte inactif](https://myaccount.google.com/inactive?utm_source=pp&hl=fr) vous permet d'octroyer à quelqu'un d'autre un accès à certains éléments de votre compte Google en cas d'impossibilité soudaine d'utiliser votre compte.
+Le [Gestionnaire de compte inactif](https://myaccount.google.com/inactive?utm_source=pp&hl=fr) vous permet d'octroyer à quelqu'un d'autre un accès à certains éléments de votre compte Google au cas où vous seriez soudainement dans l'impossibilité d'utiliser votre compte.
+
+Enfin, vous pouvez aussi [demander la suppression de contenu](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=fr) de services Google spécifiques en vertu de la loi applicable et de nos règles.
 
 * * *
 
@@ -286,7 +290,7 @@ Nous ne communiquons vos informations personnelles à des entreprises, des organ
 
 ### Avec votre consentement
 
-Nous ne communiquons vos informations personnelles à des tiers qu'avec votre consentement. Par exemple, si vous [utilisez Google Home pour effectuer une réservation](https://support.google.com/googlehome?p=privpol_homedata&hl=fr) via un service prévu à cet effet, nous vous demanderons votre autorisation avant de communiquer votre nom ou votre numéro de téléphone au restaurant. Nous vous demanderons votre consentement explicite pour le partage des [informations personnelles sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-info).
+Nous ne communiquerons vos informations personnelles en dehors de Google qu'avec votre consentement. Par exemple, si vous [utilisez Google Home pour réserver une table](https://support.google.com/googlehome?p=privpol_homedata&hl=fr) via un service de réservation, nous vous demanderons votre autorisation avant de communiquer votre nom ou votre numéro de téléphone au restaurant. Nous mettons aussi à votre disposition des paramètres pour [vérifier et gérer les applis et sites tiers](https://myaccount.google.com/permissions?hl=fr) que vous avez autorisés à accéder aux données de votre compte Google. Nous vous demanderons votre consentement explicite pour partager des [informations personnelles sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-info).
 
 ### Avec des administrateurs de domaines
 
@@ -310,7 +314,7 @@ Nous ne partagerons des informations personnelles avec des personnes tierces que
 * Se conformer à des obligations légales, réglementaires, [judiciaires ou administratives](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-legal). Nous partageons des informations relatives au nombre et au type de demandes que les autorités administratives nous envoient via notre service [Transparence des informations](https://transparencyreport.google.com/user-data/overview?hl=fr).
 * Faire appliquer les conditions d'utilisation en vigueur, y compris pour constater d'éventuels manquements à celles-ci.
 * Déceler, éviter ou traiter des activités frauduleuses, des atteintes à la sécurité ou tout problème d'ordre technique.
-* Se prémunir contre toute atteinte aux droits, aux biens ou à la sécurité de Google, de ses utilisateurs ou du public, en application et dans le respect de la loi.
+* Prémunissez-vous contre toute atteinte aux droits, aux biens ou à la sécurité de Google, de [ses utilisateurs](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-our-users) ou du public, en application et dans le respect de la loi.
 
 Nous pouvons être amenés à partager publiquement, ainsi qu'avec nos partenaires (éditeurs, annonceurs, développeurs ou détenteurs de droits) des [informations qui ne permettent pas d'identifier personnellement l'utilisateur](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-info). Par exemple, nous partageons publiquement des [informations relatives aux tendances](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-trends) d'utilisation de nos services. Nous autorisons également des [partenaires spécifiques](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-specific-partners) à utiliser leurs propres cookies ou technologies similaires pour collecter des informations contenues dans votre navigateur ou dans votre appareil à des fins publicitaires et d'évaluation.
 
@@ -353,7 +357,7 @@ Conservation de vos informations
 
 Nous conservons les données que nous recueillons pour des périodes plus ou moins longues en fonction de leur nature, de l'utilisation que nous en faisons et des paramètres que vous avez configurés :
 
-* Vous pouvez supprimer certaines données à tout moment, telles que les contenus que vous créez ou importez. Vous pouvez aussi [supprimer les informations relatives à votre activité](https://myactivity.google.com/myactivity?hl=fr) qui sont enregistrées dans votre compte, ou [faire en sorte qu'elles soient supprimées automatiquement](https://support.google.com/accounts/answer/465?authuser=0&hl=fr#auto-delete) après une période donnée.
+* Vous pouvez supprimer certaines données quand vous le souhaitez, telles que vos [informations personnelles](https://myaccount.google.com/personal-info?hl=fr) ou le contenu que vous créez ou importez, comme des [photos](https://support.google.com/photos/answer/6128858?hl=fr) et des [documents](https://support.google.com/docs/answer/6023494?hl=fr). Vous pouvez aussi [supprimer les informations sur votre activité](https://myactivity.google.com/myactivity?hl=fr) enregistrées dans votre compte ou [faire en sorte qu'elles soient supprimées automatiquement](https://support.google.com/accounts/answer/465?authuser=0&hl=fr#auto-delete) après une période donnée. Nous les conserverons dans votre compte Google jusqu'à ce que vous les supprimiez ou décidiez d'activer la suppression automatique.
 * D'autres données, telles que les [données publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR) dans les journaux de nos serveurs, sont automatiquement supprimées ou anonymisées selon un calendrier défini.
 * Nous conservons certaines données jusqu'à ce que vous les supprimiez de votre compte Google (par exemple, les informations sur la fréquence à laquelle vous utilisez nos services).
 * Nous conservons également certaines données plus longtemps si nécessaire, à des fins commerciales légitimes ou si la loi nous l'impose (que ce soit à des fins de sécurité, d'archivage de données financières, ou de prévention de la fraude et des abus).
@@ -375,24 +379,34 @@ Nous disposons de [serveurs aux quatre coins du monde](https://policies.google.
 Lorsque nous recevons une réclamation écrite officielle, nous y répondons en prenant contact avec l'utilisateur qui l'a formulée. Nous coopérons avec les autorités compétentes, y compris les autorités locales chargées de la protection des données, pour résoudre tout litige concernant le transfert de vos données que nous ne pouvons pas régler directement avec vous.
 
 Exigences européennes
----------------------
 
-Si la législation de l'Union européenne (UE) ou du Royaume-Uni s'applique au traitement de vos informations, nous mettons à votre disposition les outils décrits dans les présentes règles afin de vous permettre d'exercer votre droit de demande d'accès, de mise à jour, de suppression et de restriction du traitement de vos informations. Vous avez également le droit de vous opposer au traitement de vos informations ou d'exporter ces dernières vers un autre service.
+
+-----------------------
+
+### Comment exercer vos droits et contacter Google
+
+Si la loi de l'Union européenne (UE) ou du Royaume-Uni sur la protection des données s'applique au traitement de vos informations, nous mettons à votre disposition les [paramètres](https://policies.google.com/privacy?hl=fr-FR&gl=FR#infochoices) décrits dans ces règles pour vous permettre d'exercer vos droits de demande d'accès, de mise à jour, de [suppression](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-remove) et de restriction du traitement de vos informations. Vous avez aussi le droit de vous opposer au traitement de vos informations ou de les exporter vers un autre service.
+
+Pour toute autre question ou demande concernant vos droits, [vous pouvez contacter Google et son bureau de protection des données](https://support.google.com/policies/troubleshooter/7575787?hl=fr). Si vous avez des questions sur les droits qui vous sont octroyés par votre législation locale, vous pouvez contacter votre autorité locale chargée de la protection des données.
+
+### Responsable du traitement
 
 Sauf indication contraire dans un avis de confidentialité spécifique au service, le [responsable du traitement de vos informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-data-controller) dépend de votre lieu de résidence :
 
-* Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse
-* Google LLC pour les utilisateurs de services Google basés au Royaume-Uni
+* Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse, sis Gordon House, Barrow Street, Dublin 4, Irlande.
+* Google LLC pour les utilisateurs de services Google basés au Royaume-Uni, sis au 1600 Amphitheatre Parkway, Mountain View, California 94043, États-Unis.
 
 Google LLC est responsable du traitement des informations indexées et affichées dans des services tels que la [Recherche Google](https://www.google.com/search/howsearchworks/crawling-indexing/?hl=fr) et Google Maps, indépendamment de votre position.
 
-Nous traitons vos informations aux fins décrites dans les présentes règles et conformément aux fondements juridiques suivants :
+### Bases juridiques du traitement
 
-### Avec votre consentement
+Nous traitons vos informations aux [fins](https://policies.google.com/privacy?hl=fr-FR&gl=FR#whycollect) décrites dans les présentes règles et selon les fondements juridiques suivants :
 
-Nous vous demandons l'autorisation de traiter vos informations à des fins spécifiques, et vous êtes libre de revenir sur votre consentement à tout moment. Par exemple, nous demandons votre autorisation pour vous proposer des services personnalisés, tels que des annonces par centres d'intérêt. Nous vous demandons également l'autorisation de collecter les informations concernant votre activité audio et vocale pour améliorer la reconnaissance vocale. Vous pouvez gérer ces paramètres dans votre [compte Google](https://myaccount.google.com/?hl=fr).
+#### Avec votre consentement
 
-### Lorsque nous défendons des intérêts légitimes
+Nous vous demandons l'autorisation de traiter vos informations à des fins spécifiques et vous êtes libre de revenir sur votre consentement à tout moment. Par exemple, nous demandons votre autorisation pour vous proposer des services personnalisés, tels que des annonces par centres d'intérêt. Nous vous demandons aussi l'autorisation de collecter les informations sur votre activité audio et vocale pour améliorer la reconnaissance vocale. Vous pouvez gérer ces paramètres dans votre [compte Google](https://myaccount.google.com/?hl=fr). Comme décrit dans la section [Partager vos informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#infosharing), nous ne partagerons des informations personnelles en dehors de Google que si vous y consentez et nous mettrons à votre disposition les paramètres pour [vérifier et gérer les applis et sites tiers](https://myaccount.google.com/permissions?hl=fr) que vous avez autorisés à accéder aux données de votre compte Google.
+
+#### Lorsque nous défendons des intérêts légitimes
 
 Nous traitons vos informations conformément à nos intérêts légitimes, ainsi qu'à ceux de [tiers](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-third-parties), tout en appliquant des [mesures de protection appropriées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-safeguards) qui garantissent la confidentialité de vos données. Cela signifie que nous traitons vos informations notamment pour effectuer les opérations suivantes :
 
@@ -404,21 +418,17 @@ Nous traitons vos informations conformément à nos intérêts légitimes, ainsi
 * Avoir recours à la publicité, ce qui nous permet de proposer sans frais beaucoup de nos services (et lorsque les annonces sont personnalisées, nous vous demandons votre autorisation)
 * Déceler, éviter ou traiter des activités frauduleuses, des abus, des atteintes à la sécurité ou tout problème d'ordre technique rencontré par nos services.
 * Nous nous prémunissons contre toute atteinte aux droits, aux biens ou à la sécurité de Google, ainsi qu'à ceux de nos utilisateurs ou du public, en application et dans le respect de la loi. Nous pouvons par exemple divulguer des informations aux organismes gouvernementaux.
-* Effectuer des recherches qui améliorent nos services pour nos utilisateurs et profitent au public.
+* Effectuer des recherches qui améliorent nos services pour nos utilisateurs et [profitent au public](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-benefits-the-public)
 * Remplir des obligations envers nos partenaires (développeurs et détenteurs de droits, par exemple).
 * Faire respecter des décisions de justice, y compris pour constater d'éventuels cas de non-respect des conditions d'utilisation applicables.
 
-### Lorsque nous fournissons un service
+#### Lorsque nous fournissons un service
 
-Nous traitons vos données afin de vous fournir un service que vous avez demandé et faisant l'objet d'un contrat. Par exemple, nous traitons vos informations de paiement lorsque vous achetez de l'espace de stockage supplémentaire pour Google Drive.
+Nous traitons certaines données pour vous fournir un service que vous avez demandé dans le cadre d'un contrat. Par exemple, nous devons traiter vos informations de paiement lorsque vous achetez de l'espace de stockage supplémentaire pour Google Drive.
 
-### Lorsque nous nous conformons à des obligations légales
+#### Lorsque nous nous conformons à des obligations légales
 
-Nous traitons vos données lorsque nous avons l'obligation légale de le faire, par exemple pour nous conformer à des [obligations judiciaires ou administratives](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-legal).
-
-* * *
-
-Pour toute question, [vous pouvez contacter Google et notre bureau de protection des données](https://support.google.com/policies/troubleshooter/7575787?hl=fr). Si vous avez des questions relatives aux droits qui vous sont octroyés dans le cadre de votre législation locale, vous pouvez contacter votre autorité locale chargée de la protection des données.
+Nous traitons vos données lorsque nous avons l'obligation légale de le faire, par exemple pour nous [conformer à des réquisitions judiciaires ou à des demandes gouvernementales ayant force exécutoire](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-legal). Par ailleurs, les obligations légales nous astreignent parfois à conserver certaines informations à des fins d'archivage de données financières, comme les informations sur un paiement que vous avez versé à Google pour des raisons fiscales ou comptables.
 
 À propos des présentes règles
 =============================
@@ -660,6 +670,10 @@ Par exemple, lorsque vous saisissez une adresse dans le champ "À", "Cc" ou "Cci
 
 Google Analytics repose sur des cookies propriétaires, ce qui signifie que les cookies sont définis par le client Google Analytics. Grâce à nos systèmes, les données générées via Google Analytics peuvent être associées par le client Google Analytics et par Google à des cookies tiers, liés à des visites sur d'autres sites Web. Par exemple, un annonceur peut vouloir utiliser ses données Google Analytics pour créer des annonces plus pertinentes ou analyser son trafic de manière plus approfondie. [En savoir plus](https://support.google.com/analytics?p=privpol_data&hl=fr)
 
+### profitent au public
+
+Par exemple, nous traitons les informations concernant les [demandes de suppression de contenu](https://support.google.com/legal/answer/3110420?hl=fr) de nos services pour sensibiliser le public, faciliter la recherche et faire preuve de transparence concernant ces demandes.
+
 ### proposer nos services
 
 Voici quelques exemples de la façon dont nous utilisons vos informations pour proposer nos services :
@@ -673,6 +687,10 @@ Voici quelques exemples de la façon dont nous utilisons vos informations pour p
 ### protection contre les abus
 
 Par exemple, les informations sur les atteintes à la sécurité peuvent nous permettre de vous signaler tout piratage potentiel de votre compte, que nous pouvons ensuite vous aider à protéger.
+
+### public
+
+Par exemple, nous traitons les informations concernant les [demandes de suppression de contenu](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=fr) de nos services selon les règles de Google sur la suppression de contenu ou la loi applicable pour évaluer la demande, et pour faire preuve de transparence, améliorer la responsabilité et éviter les utilisations abusives ainsi que les fraudes dans ces pratiques.
 
 ### reposent sur les cookies pour fonctionner correctement
 
@@ -713,9 +731,17 @@ Voici quelques exemples de ces services :
 
 Par exemple, les annonceurs peuvent importer des données provenant de leur programme de fidélité de manière à mieux comprendre les performances de leurs campagnes publicitaires. Nous leur fournissons uniquement des rapports cumulés qui ne contiennent aucune information à propos de personnes individualisées.
 
+### ses utilisateurs
+
+Par exemple, pour éviter les utilisations abusives et accroître la transparence et la responsabilité concernant ses pratiques de modération de contenu en ligne, Google partage des données sur les demandes de suppression de contenu de ses services avec Lumen, qui recueille et analyse ces demandes pour faciliter la recherche afin d'aider les internautes à comprendre leurs droits. [En savoir plus](https://support.google.com/legal/answer/12158374?hl=fr)
+
 ### sources accessibles publiquement
 
 Par exemple, nous pouvons collecter des informations disponibles publiquement en ligne ou auprès d'autres sources publiques pour contribuer au développement des modèles linguistiques de Google et concevoir des fonctionnalités comme Google Traduction. De plus, si les informations de votre établissement figurent sur un site Web, nous pouvons les indexer et les afficher sur les services Google.
+
+### suppression
+
+Par exemple, comme décrit ci-dessus, vous pouvez [demander la suppression de contenu](https://support.google.com/legal/answer/3110420?visit_id=637939486089565735-343938859&hl=fr), y compris du contenu susceptible de comporter vos informations, de services Google spécifiques en vertu de la loi applicable (y compris la loi sur la protection des données) et de nos règles.
 
 ### synchronisé avec votre compte Google
 
