@@ -173,9 +173,9 @@ La livraison de la Commande interviendra au plus tard dans les trente (30) jours
 
 Les délais de livraison (une fois la Commande préparée) indicatifs à compter de la date d’expédition notifiée au Client sont les suivants :
 
-France, Espagne, Royaume-Uni : 1 à 2 jours ouvrés en Chronopost, 3 à 5 jours ouvrés en Colissimo
+France, Espagne : 1 à 2 jours ouvrés en Chronopost, 3 à 5 jours ouvrés en Colissimo
 
-Union Européenne ou Suisse : de 3 à 10 jours ouvrés.
+Union Européenne, Suisse, Royaume-Uni : de 3 à 10 jours ouvrés.
 
 Hors Union Européenne : de 3 à 10 jours ouvrés.
 
@@ -272,18 +272,6 @@ Avda. de Europa, 26; Edificio Ática 5 módulo 2B
 28224 Pozuelo de Alarcón, Madrid
 
 ESPAÑA
-
-**Pour les retours Royaume-Uni :**
-
-Eshop return - Kappa UK / SFD-UK
-
-Richmond House – 3rd floor
-
-15 Bloom Street
-
-Manchester M13HZ
-
-UNITED KINGDOM
 
 Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (14) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
 
