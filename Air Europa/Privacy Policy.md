@@ -18,7 +18,7 @@ Polígono Son Noguera, Llucmajor - Baleares- Espagne
 [+34 911 401 501](tel:+34%20911%20401%20501)
 
 **Courrier électronique**  
-Vous pouvez également vous adresser à notre **Délégué à la protection des données (DPD)** à l'adresse postale susmentionnée et/ou par e-mail : [elegadopd@aireuropa.com](mailto:delegadopd@aireuropa.com)
+Vous pouvez également vous adresser à notre **Délégué à la protection des données (DPD)** à l'adresse postale susmentionnée et/ou par e-mail : [delegadopd@aireuropa.com](mailto:delegadopd@aireuropa.com)
 
 Le **DPD** est la personne chargée de vérifier le respect adéquat de la réglementation sur la protection des données à caractère personnel par AIR EUROPA. Le DPD mène son travail de supervision et de contrôle de manière indépendante et confidentielle.
 
