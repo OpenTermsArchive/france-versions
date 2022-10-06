@@ -127,8 +127,8 @@ Les tarifs de livraisons ainsi que le coût des retours sont indiqués dans le t
 | BOUTIQUE | France Métropolitaine | Gratuit | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
 | RELAIS COLIS | France Métropolitaine et Monaco | 4,95€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
 | COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge |
-| DHL EXPRESS | Belgique | 12€ | 3 à 8 jours | A votre charge,  <br>transporteur au choix |
-| DHL EXPRESS | Luxembourg | 12€ | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
+| CHRONOPOST | Belgique | 6€  | 3 à 8 jours | A votre charge,  <br>transporteur au choix |
+| CHRONOPOST | Luxembourg | 6€  | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
 
   
 \* hors boutiques NAF NAF Outlet  
@@ -576,4 +576,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 14/09/22
+Dernière mise à jour des CGV : le 06/10/22
