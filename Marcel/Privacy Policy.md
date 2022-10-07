@@ -50,6 +50,12 @@ Les conditions régissant votre utilisation du service Marcel sont toujours déf
 
 * par défaut, toutes les données que nous collectons dans le cadre de sondages et questionnaires de satisfaction sont anonymes, sauf si vous nous fournissez vos coordonnées dans ce sondage (toujours facultatif)
 
+### (e) Collecte des cookies
+
+Marcel participe et est conforme à l'ensemble des Spécifications et Politiques du Transparency & Consent Framework de l'IAB Europe. Marcel utilise la Consent Management Platform n°92.
+
+Vous pouvez [modifier vos choix](javascript:Sddan.cmp.displayUI()) à tout moment.
+
 2\. Utilisation de vos données personnelles
 -------------------------------------------
 
