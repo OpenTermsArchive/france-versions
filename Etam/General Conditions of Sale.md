@@ -34,7 +34,8 @@ Les différences peuvent résulter de la qualité couleur des photographies, de 
 En cas d´erreur manifeste ou omission non significative entre les caractéristiques du Produit et sa représentation et/ou sa description, ETAM ne saurait voir sa responsabilité engagée.  
   
 2.2 Disponibilité des Produits Les Produits sont proposés à la vente dans la limite des stocks disponibles. Seuls les Produits figurant sur le Site au jour de sa consultation par le Client sont proposés à la vente. Ainsi, lors de la passation de commande, le Client est informé de la disponibilité du Produit sélectionné. En cas d´indisponibilité d´un Produit, ETAM s´engage à en informer le Client dans les plus brefs délais par courrier électronique.  
-En cas de paiement par Carte Bancaire ou Carte Cadeau, seul le montant des Produits réellement expédiés sera débité. Dans l’hypothèse d’un paiement immédiat via Paypal, le prix du Produit qui s’avérerait finalement indisponible, serait remboursé directement sur ledit compte.  
+En cas de paiement par Carte Bancaire, seul le montant des Produits réellement expédiés sera débité. Dans l’hypothèse d’un paiement immédiat via Paypal, le prix du Produit qui s’avérerait finalement indisponible, serait remboursé directement sur ledit compte.  
+En cas de paiement en carte cadeau, le prix du produit sera remboursé en Carte cadeau dématérialisée. Celle-ci sera envoyée par email sur l’adresse électronique utilisée lors de la commande Etam.  
 
 ### Article 3. Prix
 
