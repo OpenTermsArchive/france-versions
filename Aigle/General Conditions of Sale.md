@@ -118,9 +118,9 @@ Pour être enregistré, le Client devra remplir le formulaire d'enregistrement e
 
 À la suite de l'enregistrement d'un compte client, le Client recevra automatiquement un courriel confirmant que son compte a été créé. L’adresse de courriel du Client servira d'identifiant pour son compte. Au cours du processus d'enregistrement, il sera demandé au Client de créer son propre mot de passe. Le Client aura la possibilité de changer le mot de passe à chaque connexion à son compte. Le Client devra garder confidentiels ses identifiant et mot de passe à tout moment et ne pas les révéler à des tiers. Le Client devra se conformer à toutes nos instructions de sécurité ainsi qu'aux recommandations. Le Client devra également tenir Aigle immédiatement informés lorsqu’il apprend ou soupçonne que son compte fait l'objet d'une utilisation non autorisée, ou lorsque son compte est rendu accessible à un tiers. Sans préjudice des autres droits et recours, Aigle sera en droit, sous réserve de notification préalable par courriel, de suspendre l’accès du Client au Site sans engager sa responsabilité à son égard, si, selon Aigle, une telle mesure est nécessaire pour éviter les atteintes à la sécurité du Site. Le Client sera tenu pour responsable de toute utilisation abusive de ses identifiant et mot de passe, sauf en cas de perte ou de vol de ceux-ci, à condition d’en avoir averti Aigle sans délai à l'adresse figurant en tête des présentes.
 
-### 4.4. PROGRAMME DE FIDELITE « Terres d’aigle »
+### 4.4. PROGRAMME DE FIDELITE « A l'Air Libre »
 
-Aigle a mis en place un programme de fidélité dénommé « Terres d’Aigle » conçu pour récompenser les clients qui achètent fréquemment dans les boutiques et/ou sur le Site. Les conditions générales du programme de fidélité « Terres d’Aigle » disponibles à la rubrique du même nom.
+Aigle a mis en place un programme de fidélité dénommé « A l'Air Libre » conçu pour récompenser les clients qui achètent fréquemment dans les boutiques, le Site et la plateforme de seconde main Second souffle. Les conditions générales du programme de fidélité « A l'Air Libre » disponibles à la rubrique du même nom.
 
 ### 4.5. PAIEMENT ET defaut de paiement
 
