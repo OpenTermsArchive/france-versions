@@ -24,7 +24,7 @@ En cas d’erreur de prix manifeste, qui peut notamment être due à un problèm
   
 Les produits demeurent l’entière propriété de Comptoir des Cotonniers jusqu’au complet paiement du prix.  
   
-Lorsqu’une commande a été effectuée avec un code promotionnel offrant une réduction liée à l’achat simultané d’un nombre d’articles prédéterminé, le retour d’un ou plusieurs articles par le Client peut avoir pour effet de mettre fin à la réduction, lorsque le nombre d’articles nécessaires à l’application de cette réduction n’est plus atteint. Le remboursement effectué au Client prendra en compte, le cas échéant, le fait que la réduction n’est plus applicable et la différence sera donc imputée sur le montant remboursé au Client au titre des articles retournés.
+Lorsqu’une commande a été effectuée lors d’une opération commerciale offrant une réduction liée à l’achat simultané d’un nombre d’articles prédéterminé, le retour d’un ou plusieurs articles par le Client peut avoir pour effet de mettre fin à la réduction, lorsque le nombre d’articles nécessaires à l’application de cette réduction n’est plus atteint. Le remboursement effectué au Client prendra en compte, le cas échéant, le fait que la réduction n’est plus applicable et la différence sera donc imputée sur le montant remboursé au Client au titre des articles retournés.
 
 ARTICLE 3. PRODUITS
 
