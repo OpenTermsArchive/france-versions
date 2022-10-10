@@ -194,7 +194,7 @@ Afin de garantir la sécurité et la confidentialité de vos données personnell
 #### [L’alliance VALIUZ](#L_alliance_VALIUZ)
 
 Boulanger est membre de l’alliance VALIUZ. VALIUZ réunit un ensemble d’entreprises autour de la connaissance client dans le but de les aider à personnaliser leurs offres et leurs communications et de contribuer à personnaliser la publicité en ligne. VALIUZ est une société codétenue par Boulanger.  
-Pour consulter la liste des entreprises participantes de l’alliance, cliquez ici  
+Pour consulter la liste des entreprises participantes de l’alliance, [cliquez ici](https://valiuz.com/liste-des-membres/)  
 Quel est le service fourni par VALIUZ ?  
 Grâce à VALIUZ, les entreprises qui vous connaissent (par exemple parce que vous êtes déjà leur client ou inscrit à leur newsletter) peuvent partager de manière sécurisée les informations relatives à vos centres d’intérêts et vos habitudes d’achat, ce pour les finalités suivantes:
 
