@@ -1,10 +1,3 @@
-Politique de Confidentialité et Protection de la Vie Privée
-===========================================================
-
-Vous pouvez consulter la [Politique de Confidentialité et Protection de la Vie Privée, l'utilisation des Sites de Vente-privee.com](https://secure.fr.vente-privee.com/cgu/fr-FR/cgu.pdf)
-
-Vous pouvez configurer vos cookies :
-
 ### Liste des cookies
 
 Un cookie est un petit fichier de données (fichier texte) qu'un site Web, lorsqu'il est consulté par un utilisateur, demande à votre navigateur de stocker sur votre appareil afin de mémoriser des informations vous concernant, telles que vos préférences linguistiques ou informations de connexion. Nous configurons ces cookies appelés cookies internes. Nous utilisons également des cookies tiers, qui sont des cookies d'un domaine différent de celui du site Web que vous consultez, pour nos efforts de publicité et de marketing. Plus concrètement, nous utilisons des cookies et d'autres technologies de suivi selon les finalités suivantes :
