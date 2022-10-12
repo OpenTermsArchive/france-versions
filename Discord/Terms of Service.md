@@ -41,7 +41,7 @@ Services “AS IS”](#11)[13.
 
 Limitation of liability](#12)[14.
 
-Settling disputes between you and Discor](#13)[15.
+Settling disputes between you and Discord](#13)[15.
 
 More important stuff](#14)[16.
 
