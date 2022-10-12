@@ -1,5 +1,5 @@
-Conditions générales d'utilisation de l'Application Bolt
---------------------------------------------------------
+Conditions générales d’utilisation de l’Application Bolt (en vigueur jusqu'au 19 octobre 2022)
+----------------------------------------------------------------------------------------------
 
 **Veuillez télécharger ces termes et conditions [ici](https://assets.ctfassets.net/tk7rwcciwvbq/6mDbbPqgpCqqpGQIl9LxA5/28831ca06e335b108bae4942d22589e4/General_Terms_for_Passengers_-FR_2022_05_30-.docx.pdf).**
 
