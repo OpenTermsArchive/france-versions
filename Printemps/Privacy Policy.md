@@ -1,6 +1,6 @@
   
 
-_Version en date du 21 mai 2021_
+_Version en date du 11 octobre 2022_
 
   
 
@@ -14,24 +14,18 @@ Le Groupe Printemps accorde la plus grande importance et le plus grand soin à l
 
   
 
-Les sociétés PRINTEMPS\*1, PRINTEMPS.COM\*2 et BPCP (Printemps du Louvre) \*3 (ci-après, « Les sociétés Printemps »), membres du Groupe Printemps, sont Coresponsables du traitement de vos données à caractère personnel. Les termes « nous » ou « nos » que nous utilisons aux présentes désignent les sociétés PRINTEMPS, PRINTEMPS.COM, et BPCP.
+Les sociétés PRINTEMPS SAS\*1 et BPCP (Printemps du Louvre) \*2 (ci-après, « Les sociétés Printemps »), membres du Groupe Printemps, sont Coresponsables du traitement de vos données à caractère personnel. Les termes « nous » ou « nos » que nous utilisons aux présentes désignent les sociétés PRINTEMPS SAS et BPCP.
 
-  
+\*1 PRINTEMPS, SAS au capital de 50 000 000 € dont le siège social est situé 102 rue de Provence - 75009 Paris, immatriculée au Registre du Commerce et des Sociétés de PARIS sous le numéro 503 314 767, numéro de TVA : FR21503314767.
 
-\*1 PRINTEMPS, SAS au capital de 110 563 160 € dont le siège social est situé 102 rue de Provence, 75009 Paris, immatriculée au Registre du Commerce et des Sociétés de PARIS sous le numéro 503 314 767.
+\*2 BPCP, SAS au capital de 2.042.355 €, dont le siège social est sis 102, rue de Provence, 75009 Paris, immatriculée au Registre du Commerce et des Société de PARIS sous le numéro 423 681 717.
 
-\*2 PRINTEMPS.COM,SAS au capital de 41 .800 €, dont le siège social est sis 102, rue de Provence, 75009 Paris, immatriculée au Registre du Commerce et des Société de PARIS sous le numéro 430 236 695.
-
-\*3 BPCP, SAS au capital de 2.042.355 €, dont le siège social est sis 102, rue de Provence, 75009 Paris, immatriculée au Registre du Commerce et des Société de PARIS sous le numéro 423 681 717.
-
-  
-
-Dans le cadre de la carte de fidélité Printania Plus, la société CA Consumer Finance\*4, dont SOFINCO est une marque, est Responsable du traitement de vos données à caractères personnel. A ce titre, pour toute demande relative aux données à caractère personnel liées à la carte Printania Plus, vous pouvez contacter le Délégué à la protection des données aux coordonnées ci-dessous :
+Dans le cadre de la carte de fidélité Printania Plus, la société CA Consumer Finance\*3, dont SOFINCO est une marque, est Responsable du traitement de vos données à caractères personnel. A ce titre, pour toute demande relative aux données à caractère personnel liées à la carte Printania Plus, vous pouvez contacter le Délégué à la protection des données aux coordonnées ci-dessous :
 
 * Par courrier : CA Consumer Finance, Délégué à la protection des données, BP50075, 77213 AVON Cedex
-* Par email : [**dpdcacf@ca-cf.fr**](mailto:dpdcacf@ca-cf.fr)
+* Par email : [dpdcacf@ca-cf.fr](mailto:dpdcacf@ca-cf.fr)
 
-\*4 CA Consumer Finance, SA au capital de 554 482 422 € dont le siège est sis 1 Rue Victor Basch - CS 70001, 91068 MASSY Cedex, immatriculé au Registre du Commerce et des Sociétés d'Evry sous le numéro 542 097 522.
+  
 
 2\. QU'EST-CE QU'UNE DONNÉE À CARACTÈRE PERSONNEL ?
 
