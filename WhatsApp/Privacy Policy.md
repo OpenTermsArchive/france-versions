@@ -19,11 +19,11 @@ Sommaire
 * [Mises à jour de notre Politique](#privacy-policy-updates-to-our-policy)
 * [Nous contacter](#92tRTVn6cabRLFDwF)
 
-_Si vous résidez dans un pays autre que ceux de la [Région européenne](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), WhatsApp LLC vous fournit les Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/updates/terms-of-service) et [Politique de confidentialité](https://www.whatsapp.com/legal/updates/privacy-policy)._
+_Si vous résidez dans un pays autre que ceux de la [Région européenne](https://faq.whatsapp.com/1013614932324960/), WhatsApp LLC vous fournit les Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/updates/terms-of-service) et [Politique de confidentialité](https://www.whatsapp.com/legal/updates/privacy-policy)._
 
 ### Mentions légales de WhatsApp
 
-Si vous résidez dans la [Région européenne](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), WhatsApp Ireland Limited (« WhatsApp », « notre », « nos » ou « nous ») vous fournit nos Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/updates/terms-of-service-eea) et de cette [Politique de confidentialité](https://www.whatsapp.com/legal/updates/privacy-policy-eea). Si vous résidez en dehors de la [Région européenne](https://faq.whatsapp.com/general/security-and-privacy/who-is-providing-your-whatsapp-services), les Services vous sont fournis par WhatsApp LLC.
+Si vous résidez dans la [Région européenne](https://faq.whatsapp.com/1013614932324960/), WhatsApp Ireland Limited (« WhatsApp », « notre », « nos » ou « nous ») vous fournit nos Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/updates/terms-of-service-eea) et de cette [Politique de confidentialité](https://www.whatsapp.com/legal/updates/privacy-policy-eea). Si vous résidez en dehors de la [Région européenne](https://faq.whatsapp.com/1013614932324960/), les Services vous sont fournis par WhatsApp LLC.
 
 Nous sommes l'une des [entités Facebook](https://faq.whatsapp.com/general/security-and-privacy/the-facebook-companies). Notre Politique de confidentialité (« Politique de confidentialité ») expose nos pratiques en matière de données, notamment les informations que nous traitons dans le cadre de nos [Services](https://www.whatsapp.com/legal/updates/terms-of-service-eea).
 
