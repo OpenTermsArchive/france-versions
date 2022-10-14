@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 16 septembre 2022 - 3
+\- 15 octobre 2022 - 3
 
 
 
@@ -26,7 +26,9 @@ PRIX
 
 
 
-(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama,Cora, Digital, Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania,Printemps, Pro \& Cie, Pulsat, Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produitscomprenant des remises (soldes, ventes flash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une place demarché (Marketplace) ne pourront faire l’objet d’un remboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée par rapport auprix payé chez Darty et doit être constatée dans les 10 jours. Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par le client. la cartecadeau est envoyée, par email, dans un délai de 3 semaines après la demande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous les magasins Dartyde France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ou ponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de crédit accessoire à unevente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque, SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1 Rue Victor Basch – CS70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vous disposez d’un droit légal de rétractation. Cette publicité est diffuséepar établissement DARTY et FILS SAS, au capital de 23 470 382 € - 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, RCS Bobigny B 542 086 616, immatriculéeà l’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisation d’opérations de crédit sans agir en qualitéde prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Le montant se présente sous formede carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’une valeur minimalede 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produitsvolumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
+(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama, Cora, Digital,Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania, Printemps, Pro \& Cie, Pulsat,Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produits comprenant des remises (soldes, ventesflash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une place de marché (Marketplace) ne pourront faire l’objet d’unremboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée par rapport au prix payé chez Darty et doit être constatée dans les 10 jours.Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par le client. la carte cadeau est envoyée, par email, dans un délai de 3 semaines après lademande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous les magasins Darty de France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ouponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de crédit accessoire à une vente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque,SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1 Rue Victor Basch – CS 70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vousdisposez d’un droit légal de rétractation. Cette publicité est diffusée par établissement DARTY et FILS SAS, au capital de 23 470 382 € - 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, RCS Bobigny B 542 086 616, immatriculée à l’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisationd’opérations de crédit sans agir en qualité de prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Lemontant se présente sous forme de carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’unevaleur minimale de 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.
+
+La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produits volumineuxsont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
 
 
 
@@ -34,9 +36,7 @@ UN CRÉDIT VOUS ENGAGE ET DOIT ÊTRE REMBOURSÉ.VÉRIFIEZ VOS CAPACITÉS DE REMB
 
 1\. Le remboursement de la différence si vous trouvezmoins cher, même sur internet
 
-Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau
-
- (1).
+Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau (1).
 
 2\. Des prix bas, identiques en magasin et sur internet
 
@@ -44,7 +44,7 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3) .
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
@@ -84,13 +84,19 @@ Pour vérifier votre éligibilité à la livraison Darty, retrouvez toutes les Z
 
 Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gratuite et simultanée de votre ancien produit lors de la livraison par Dartyde votre nouveau produit volumineux, pour traitement ou recyclage. Si vous le souhaitez, nouspouvons aussi reprendre un second appareil d’une famille de produits vendue par Darty.• En magasin : vous pouvez déposer dans l’ensemble de nos magasins Darty des produits et desconsommables usagés : piles et batteries, ampoules, cartouches d’encre, téléphones mobiles,lampes et petits appareils électriques.
 
-(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.comavant 15h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (3) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes,Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy,Nantes, Nice, Nîmes, Orléans, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Les Zones de Confiance sont détaillées en annexe. (5) Pourtoute commande passée en magasin ou sur darty.com avant 17h30, livraison possible en 2h chrono. La prestation de livraison par coursier comprend la livraison à l’étageet dans la pièce de votre choix et exclut l’installation, la mise en service et la reprise de votre ancien produit. Elle est disponible pour les agglomérations de Aix en Provence,Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg,Toulon, Toulouse, Tours. (6) Dans le cas où le réseau électrique et de plomberie n’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendraitde prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Les appareils encastrables, les hottes et groupes filtrants,les climatiseurs fixes, les barbecues grande largeur et les vélos à assistance électrique sont livrés mais ne sont ni installés, ni mis en service. Dans le cas de produitsexceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraient pas être montés par la cage d’escalierou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreurs n’étant pas habilitésà utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5 e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.(7) Hors modèles neufs ou d’exposition livrés depuis un magasin Darty. (8) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produitsen fin de vie, en conformité avec la réglementation. Les anciens produits repris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
+
+
+(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.com
+
+avant 15h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (3) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux,Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Les Zones de Confiance sont détaillées en annexe. (5) Pour toute commande passée en magasin ou sur darty.comavant 17h30, livraison possible en 2h chrono. La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en serviceet la reprise de votre ancien produit. Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon,Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (6) Dans le cas où le réseau électrique et de plomberie n’existerait pas oune serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Lesappareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais nesont ni installés, ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraientpas être montés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreursn’étant pas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.
+
+(7) Hors modèles neufs ou d’exposition livrés depuis un magasin Darty. (8) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits enfin de vie, en conformité avec la réglementation. Les anciens produits repris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
 
 
 
-\- 16 septembre 2022 - 4
+\- 15 octobre 2022 - 4
 
-\- 16 septembre 2022 - 5
+\- 15 octobre 2022 - 5
 
 
 
@@ -112,9 +118,11 @@ sav.darty.com.
 
 Assistance pour tous les produits ou services sous garantie achetés chez Darty.Appelez-nous avant de vous déplacer en magasin : nos équipes, spécialisées par type de produits etservices, s’engagent à répondre à vos questions.
 
+
+
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 16 septembre 2022 - 6
+\- 15 octobre 2022 - 6
 
 
 
@@ -138,15 +146,19 @@ L’indice de réparabilité.
 
 Darty apporte une information sur la réparabilité des produits. Ce projet lancé en 2018 s’appuie surl’expertise technique du Labo Fnac, qui a étudié la réparabilité des ordinateurs portables et dessmartphones à partir de quatre critères, dont la disponibilité de la documentation comprenant desinstructions de démontage ou d’aide au diagnostic, la simplicité de démontage ou encore la disponibilitéet le prix des pièces détachées. L’indice sera progressivement étendu à d’autres appareils, à commencerpar les smartphones.
 
-(1) Taux comparé aux autres produits de la même famille et de la même gamme de prix du produit.(2) GEM : Gros Électroménager, PEM : Petit Électroménager
+
+
+(1) Taux comparé aux autres produits de la même famille et de la même gamme de prix du produit.
+
+(2) GEM : Gros Électroménager, PEM : Petit Électroménager
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 7
+\- 15 octobre 2022 - 7
 
 
 
-(1) Articles L.217-3 et suivants du Code de la consommation pour les biens et les biens comportant des éléments numériques. Articles L.224-25-12 et suivants du Code dela consommation pour les contenus numériques et services numériques. (2) Pour les éléments numériques, les contenus numériques et les services numériques fournis encontinue pendant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du service numérique. (3) Dartypeut privilégier l’une de ces options en fonction notamment des coûts et de la valeur du produit. (4) Uniquement si la réparation ou le remplacement sont impossibles ou n’ontpu être mis en œuvre dans le mois suivant la prise en charge du produit. (5) Uniquement si la mise en conformité est impossible ou n’a pu être mise en œuvre dans le moissuivant la prise en charge du contenu ou du service numérique. (6) Les « produits volumineux » sont détailles en annexe dans le tableau des garanties associées au Contratde Confiance. (7) Les Zones de Confiance sont détaillées en annexe. (8) Sous réserve de créneaux d’intervention disponibles au moment de l’appel. (9) Pour les téléviseursd’une taille égale ou supérieur à 40 pouces (101 cm), téléphones mobiles, lave-linges, réfrigérateurs ou congélateurs sous garantie et sur demande du client. En fonction de ladisponibilité d’appareils dans nos SAV, les appareils prêtés seront mis à votre disposition dans les 48 heures à compter de la prise en charge de votre appareil par le serviceaprès-vente Darty et jusqu’au jour de sa mise à disposition. Ils ne seront pas obligatoirement neufs ou identiques au vôtre. (10) Ce délai part du jour de prise en charge de votreappareil par Darty et prend fin le jour de sa mise à disposition. Cet engagement s’ajoute à l’obligation légale indiquée en page 20. (11) Darty vous propose un remboursementseulement si l’échange est impossible.
+(1) Articles L.217-3 et suivants du Code de la consommation pour les biens et les biens comportant des éléments numériques. Articles L.224-25-12 et suivants du Code de laconsommation pour les contenus numériques et services numériques. (2) Pour les éléments numériques, les contenus numériques et les services numériques fournis en continuependant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du service numérique. (3) Darty peut privilégierl’une de ces options en fonction notamment des coûts et de la valeur du produit. (4) Uniquement si la réparation ou le remplacement sont impossibles ou n’ont pu être mis en œuvredans le mois suivant la prise en charge du produit. (5) Uniquement si la mise en conformité est impossible ou n’a pu être mise en œuvre dans le mois suivant la prise en charge ducontenu ou du service numérique. (6) Les « produits volumineux » sont détailles en annexe dans le tableau des garanties associées au Contrat de Confiance. (7) Les Zones de Confiancesont détaillées en annexe. (8) Sous réserve de créneaux d’intervention disponibles au moment de l’appel. (9) Pour les téléviseurs d’une taille égale ou supérieur à 40 pouces (101 cm),téléphones mobiles, lave-linges, réfrigérateurs ou congélateurs sous garantie et sur demande du client. En fonction de la disponibilité d’appareils dans nos SAV, les appareils prêtésseront mis à votre disposition dans les 48 heures à compter de la prise en charge de votre appareil par le service après-vente Darty et jusqu’au jour de sa mise à disposition. Ils neseront pas obligatoirement neufs ou identiques au vôtre. (10) Ce délai part du jour de prise en charge de votre appareil par Darty et prend fin le jour de sa mise à disposition. Cetengagement s’ajoute à l’obligation légale indiquée en page 20. (11) Darty vous propose un remboursement seulement si l’échange est impossible.
 
 
 
@@ -164,7 +176,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 8
+\- 15 octobre 2022 - 8
 
 
 
@@ -188,11 +200,11 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 9
+\- 15 octobre 2022 - 9
 
 
 
-(1) Contrat de maintenance par abonnement payant avec engagement de 12 mois comprenant l’entretien et la réparation de vos appareils ayant fait l’objet d’un contrôle par Darty(quel que soit leur nombre), notamment Gros électroménagers, Petits électroménagers et Multimédia - périmètre des produits éligibles selon la formule choisie -, dont le prix d’achatétait d’un montant minimum de 50€ TTC, achetés chez Darty ou auprès d’autres vendeurs. Pour les produits non achetés auprès de Darty ou Fnac (à compter du 16 juin 2022 pourles appareils acquis à la Fnac avant ou après cette date), facturation d’un montant forfaitaire en plus de l’abonnement lors de la première réparation. Les accessoires des produitséligibles ne sont pas compris dans l’abonnement. La formule «Essentiel» à 9,99€/mois comprend les seuls produits Gros électroménagers. Voir conditions détaillées des services,produits éligibles et tarifs des formules dans les Conditions Générales disponibles auprès des vendeurs en magasin ou sur darty.com. (2) L’abonnement Darty Max consiste à confierà Fnac Darty Services l'entretien et la réparation (en cas de panne matérielle) des produits éligibles installés à votre domicile et dont vous êtes propriétaire. Afin de bénéficier desservices, les produits éligibles doivent avoir fait l’objet d’un contrôle par Darty. Si un produit acheté auprès d’autres vendeurs que Darty ou Fnac est réparé, des frais de réparationforfaitaires de 49€ ou 79€ (selon la nature du produit) seront facturés à la première réparation en plus du prix de l’abonnement. Dès lors que le produit n’est pas réparable, aucunfrais de réparation forfaitaire ne sera facturé. Déplacement à domicile uniquement pour les produits volumineux. Voir détails des produits éligibles dans les Conditions Généralesde Service de Darty Max. (3) Assistance téléphonique prioritaire, sauf jours fériés ou interdiction législative, réglementaire ou conventionnelle. Intervention à domicile prioritairepour les produits volumineux, dans les Zones de Confiance et sous réserve de créneau disponible au moment de l’appel. Voir détails dans les Conditions Générales de Service deDarty Max. (4) Remboursement en carte cadeau du prix net payé (remises déduites), sans décote ni franchise, en cas d’irréparabilité pendant la durée de disponibilité des piècesdétachées, dans la limite de 15 ans à compter de la date d’achat du produit indiquée sur la facture d’achat (à compter du 16 juin 2022 pour les appareils acquis à la Fnac avant ouaprès cette date). La carte cadeau est d’un montant maximum de 5000€ TTC, elle est valable 12 mois et est utilisable en une ou plusieurs fois dans tous les magasins Darty, Fnacet sur fnac.com (hors marketplace), en France métropolitaine. Elle ne pourra être ni échangée, ni remboursée, même partiellement, ni remplacée si elle était perdue. Voir détailsdans les Conditions Générales de Service de Darty Max. (5) Voir conditions détaillées auprès d’un vendeur ou dans les conditions de livraison disponibles sur darty.com. (6) Surles produits électroménagers et électroniques, hors réparateurs indépendants. Étude OpinionWay réalisée en ligne, du 15 au 16 décembre 2021, auprès d’un échantillon de 1 013personnes représentatif de la population française âgée de 18 ans et plus.
+(1) Contrat de maintenance par abonnement payant avec engagement de 12 mois comprenant l’entretien et la réparation de vos appareils ayant fait l’objet d’un contrôle par Darty (quelque soit leur nombre), notamment Gros électroménagers, Petits électroménagers et Multimédia - périmètre des produits éligibles selon la formule choisie -, dont le prix d’achat était d’unmontant minimum de 50 € TTC, achetés chez Darty ou auprès d’autres vendeurs. Pour les produits non achetés auprès de Darty ou Fnac (à compter du 16 juin 2022 pour les appareilsacquis à la Fnac avant ou après cette date), facturation d’un montant forfaitaire en plus de l’abonnement lors de la première réparation. Les accessoires des produits éligibles ne sontpas compris dans l’abonnement. La formule « Essentiel » à 9,99 €/mois comprend les seuls produits Gros électroménagers. Voir conditions détaillées des services, produits éligibles ettarifs des formules dans les Conditions Générales disponibles auprès des vendeurs en magasin ou sur darty.com. (2) L’abonnement Darty Max consiste à confier à Fnac Darty Servicesl'entretien et la réparation (en cas de panne matérielle) des produits éligibles installés à votre domicile et dont vous êtes propriétaire. Afin de bénéficier des services, les produits éligiblesdoivent avoir fait l’objet d’un contrôle par Darty. Si un produit acheté auprès d’autres vendeurs que Darty ou Fnac est réparé, des frais de réparation forfaitaires de 49 € ou 79 € (selonla nature du produit) seront facturés à la première réparation en plus du prix de l’abonnement. Dès lors que le produit n’est pas réparable, aucun frais de réparation forfaitaire ne serafacturé. Déplacement à domicile uniquement pour les produits volumineux. Voir détails des produits éligibles dans les Conditions Générales de Service de Darty Max. (3) Assistancetéléphonique prioritaire, sauf jours fériés ou interdiction législative, réglementaire ou conventionnelle. Intervention à domicile prioritaire pour les produits volumineux, dans les Zonesde Confiance et sous réserve de créneau disponible au moment de l’appel. Voir détails dans les Conditions Générales de Service de Darty Max. (4) Remboursement en carte cadeau duprix net payé (remises déduites), sans décote ni franchise, en cas d’irréparabilité pendant la durée de disponibilité des pièces détachées, dans la limite de 15 ans à compter de la dated’achat du produit indiquée sur la facture d’achat (à compter du 16 juin 2022 pour les appareils acquis à la Fnac avant ou après cette date). La carte cadeau est d’un montant maximumde 5 000 € TTC, elle est valable 12 mois et est utilisable en une ou plusieurs fois dans tous les magasins Darty, Fnac et sur fnac.com (hors marketplace), en France métropolitaine. Elle nepourra être ni échangée, ni remboursée, même partiellement, ni remplacée si elle était perdue. Voir détails dans les Conditions Générales de Service de Darty Max. (5) Voir conditionsdétaillées auprès d’un vendeur ou dans les conditions de livraison disponibles sur darty.com. (6) Sur les produits électroménagers et électroniques, hors réparateurs indépendants. ÉtudeOpinionWay réalisée en ligne, du 15 au 16 décembre 2021, auprès d’un échantillon de 1 013 personnes représentatif de la population française âgée de 18 ans et plus.
 
 
 
@@ -236,7 +248,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 10
+\- 15 octobre 2022 - 10
 
 
 
@@ -290,7 +302,7 @@ Autres prestationsRecharge froid pour réfrigérateur ou congélateur (hors piè
 
 
 
-(1) Sous réserve de créneau disponible au moment de l’appel. (2) Conformément à l’arrêté du 3 octobre 1983, toute prestations de service doit faire l’objet, dès qu’elle a été rendueet en tout état de cause avant le paiement du prix, de la délivrance au client d’une note si le prix de la prestation est égal ou supérieur à 25 euros (TVA comprise). Si le prix estinférieur, la note qui est en principe facultative, devient obligatoire à la demande du client. (3) Toutes les interventions à domicile sont réalisées dans les Zones de Confiance.(4) Les « produits volumineux » sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
+(1) Sous réserve de créneau disponible au moment de l’appel. (2) Conformément à l’arrêté du 3 octobre 1983, toute prestations de service doit faire l’objet, dès qu’elle a été rendue eten tout état de cause avant le paiement du prix, de la délivrance au client d’une note si le prix de la prestation est égal ou supérieur à 25 euros (TVA comprise). Si le prix est inférieur,la note qui est en principe facultative, devient obligatoire à la demande du client. (3) Toutes les interventions à domicile sont réalisées dans les Zones de Confiance. (4) Les « produitsvolumineux » sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
 
 
 
@@ -300,7 +312,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 11
+\- 15 octobre 2022 - 11
 
 
 
@@ -312,7 +324,9 @@ Assurance sans franchise
 
 Le service Bouton Multimédia est offert pour les Formules Premium en abonnement mensuel pendant toutela durée de l’abonnement.
 
-\* Valable uniquement pour les assurances en paiement mensuel. \*\* Non valable pour les téléphones mobiles faisant l’objet d’une location longue durée. \*\*\* Non valable pour lestéléphones mobiles d’une valeur supérieure à 2 000€ TTC faisant l’objet d’une location longue durée. Voir conditions et limites des garanties de l’Assurance Mobile dans la noticed’information (valant conditions générales) disponible en point de vente. Micro-ordinateur portable, ordinateur de bureau, netbook, net PC, tablette PC, tablette tactile, caméscope,appareil photo numérique, cadre photo numérique, vidéoprojecteur portatif, récepteur GPS portatif, assistant numérique personnel, baladeur (analogique, numérique, minidisques,CD), station d’accueil pour baladeur, lunette 3D, optique photo, console de jeux portable ou de salon, lecteur DVD portable, casque réalité virtuelle, liseuse, casque audio, enceintessans fil, montre connectée, disque dur externe.
+
+
+\* Valable uniquement pour les assurances en paiement mensuel. \*\* Non valable pour les téléphones mobiles faisant l’objet d’une location longue durée. \*\*\* Non valable pour lestéléphones mobiles d’une valeur supérieure à 2 000 € TTC faisant l’objet d’une location longue durée. Voir conditions et limites des garanties de l’Assurance Mobile dans la noticed’information (valant conditions générales) disponible en point de vente. Micro-ordinateur portable, ordinateur de bureau, netbook, net PC, tablette PC, tablette tactile, caméscope,appareil photo numérique, cadre photo numérique, vidéoprojecteur portatif, récepteur GPS portatif, assistant numérique personnel, baladeur (analogique, numérique, minidisques,CD), station d’accueil pour baladeur, lunette 3D, optique photo, console de jeux portable ou de salon, lecteur DVD portable, casque réalité virtuelle, liseuse, casque audio, enceintes sansfil, montre connectée, disque dur externe.
 
 
 
@@ -320,31 +334,17 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
 
- 4 € TTC/mois
+Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
 
- 4 € TTC/mois
-
-Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois
-
- 2 € TTC/mois
-
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an
-
- 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
+Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
 
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
-
- 200<400€400<600€600€et +Tarif mensuel TTC 4,00 €
-
- 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an
-
- 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
 
 
 
@@ -358,11 +358,11 @@ Les assurances
 
 DURABILITÉ
 
-\- 16 septembre 2022 - 12
+\- 15 octobre 2022 - 12
 
 
 
-(1) L’offre « Assurance Mobile » est un contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-0001 pour l’Assurance Mobile en paiement mensuel et N°AG10003- 0002 pour l’Assurance Mobile prépayée: Souscrit par ETABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capital de 23 470 382 Euros, dont lesiège social est situé à ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nomet au nom et pour le compte de ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siègesocial est situé Assurant House, 6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sousle numéro 02341082, agrée par la « Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority »et la « Financial Conduct Authority », 25 The North Colonnade, Londres E14 5HS, RoyaumeUni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biaisde sa succursale située 45 rue Denis Papin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, sociétépar actions simplifiée au capital de 392 250 euros, dont le siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481881 RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité de courtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur; et Présenté en point de vente Darty agissant au titre de la dérogation prévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle del’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr). (2) Service d’assistance téléphonique pour tous les produits multimédia d’une marque etd’une famille commercialisée par Darty qu’ils soient ou non sous garantie. Valable uniquement pour les assurances en « Formule Premium » en abonnement mensuel. (3) L’offre« Assurance Multimédia Foyer » est un contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-003: Souscrit par ÉTABLISSEMENTS DARTY ET FILSSAS, société par actions simplifiée au capital de 23 470 382 Euros, dont le siège social est situé à ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, dont lenuméro d’identification unique est le 542 086 616 RCS Bobigny en son nom et au nom et pour le compte de ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED,Société de droit anglais au capital de 71.947.766 livres sterling dont le siège social est situé Assurant House, 6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni,enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous le numéro 02341082, agrée par la « Prudential Regulation Authority », 20 Moorgate, Londres, EC2R6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » et la « Financial Conduct Authority », 25 The North Colonnade, Londres E14 5HS, Royaume-Uni(sous le numéro 202735), exerçant l’activité d’assurance en France par le biais de sa succursale située 45 rue Denis Papin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société par actions simplifiée au capital de 392 250 euros, dont le siège social se situe 45 rue DenisPapin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881 RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité de courtier en assurance sousle numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ; et Présenté en point de vente Darty agissant au titre de la dérogation prévue à l’articleR 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr).(4) Cloud illimité si Pack Sérénité souscrit avant 16/09/21.
+(1) L’offre « Assurance Mobile » est un contrat d’assurance collectif de dommage à adhésions facultatives N°AG10003-0001 pour l’Assurance Mobile en paiement mensuel et N°AG10003- 0002 pour l’Assurance Mobile prépayée: Souscrit par ETABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capital de 23 470 382 Euros, dont le siège socialest situé à ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nom et au nom et pourle compte de ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siège social est situé AssurantHouse, 6-12 Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous le numéro 02341082, agrée par la« Prudential Regulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » et la « Financial Conduct Authority », 25The North Colonnade, Londres E14 5HS, RoyaumeUni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biais de sa succursale située 45 rue Denis Papin, 13100Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société par actions simplifiée au capital de 392 250 euros, dontle siège social se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881 RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité decourtier en assurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ; et Présenté en point de vente Darty agissant au titre de la dérogationprévue à l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr). (2) Service d’assistance téléphonique pour tous les produits multimédia d’une marque et d’une famille commercialisée par Darty qu’ils soient ou non sous garantie. Valableuniquement pour les assurances en « Formule Premium » en abonnement mensuel. (3) L’offre « Assurance Multimédia Foyer » est un contrat d’assurance collectif de dommage àadhésions facultatives N°AG10003-003: Souscrit par ÉTABLISSEMENTS DARTY ET FILS SAS, société par actions simplifiée au capital de 23 470 382 Euros, dont le siège social est situéà ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, dont le numéro d’identification unique est le 542 086 616 RCS Bobigny en son nom et au nom et pour le comptede ses filiales, - auprès d’ASSURANT GENERAL INSURANCE LIMITED, Société de droit anglais au capital de 71.947.766 livres sterling dont le siège social est situé Assurant House, 6-12Victoria Street, Windsor, Berkshire, SL4 1EN, Royaume-Uni, enregistrée au registre des sociétés d’Angleterre et du Pays de Galles sous le numéro 02341082, agrée par la « PrudentialRegulation Authority », 20 Moorgate, Londres, EC2R 6DA, Royaume-Uni, et contrôlée par la « Prudential Regulation Authority » et la « Financial Conduct Authority », 25 The NorthColonnade, Londres E14 5HS, Royaume-Uni (sous le numéro 202735), exerçant l’activité d’assurance en France par le biais de sa succursale située 45 rue Denis Papin, 13100 Aix-en-Provence, RCS Aix-en-Provence 819 250 895, en qualité d’Assureur, - par l’intermédiaire de Assurant France, société par actions simplifiée au capital de 392 250 euros, dont le siègesocial se situe 45 rue Denis Papin, 13100 Aix-en-Provence, dont le numéro unique d’identification est le 493 481 881 RCS Aix-en-Provence, et inscrite à l’ORIAS en qualité de courtier enassurance sous le numéro 07 030 561 (www.orias.fr) - Géré par Assurant pour le compte de l’Assureur ; et Présenté en point de vente Darty agissant au titre de la dérogation prévueà l’article R 513-1 du Code des assurances. AGIL, Assurant et Darty sont soumis au contrôle de l’Autorité de contrôle prudentiel, 61 rue Taitbout, 75436 Paris Cedex 09 (www.acpr.fr).(4) Cloud illimité si Pack Sérénité souscrit avant 16/09/21.
 
 
 
@@ -470,13 +470,13 @@ Montage et mise en service 59 €
 
 
 
-(1) Pour toute commande passée en magasin ou sur darty.com avant 17 h 30, livraison possible en 2h chrono. Le service de livraison est disponible pour les agglomérations deAix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours. (2) Service de livraison disponible dans les Zones de Confiance détaillées en annexe du Contrat de Confiance. Dans le cas où leréseau électrique et de plomberie n’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installationavant la mise en service ou la réalisation des prestations Darty. Les appareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes et mobiles, les barbecuesgrande largeur et les vélos à assistance électrique sont livrés mais ne sont ni installés, ni mis en service. (3) Les produits volumineux sont détaillés en annexe dans le tableaudes garanties associé au Contrat de Confiance. (4) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux, Clermont-Ferrand,Caen, Cannes, Chartres, Dijon, Grenoble, Ile-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nimes, Orléans, Rennes, Rouen,Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (5) Pour toute commande passée en magasin ou sur darty.com avant 15 h, livraison possible le soir même pour lesagglomérations de Paris et Lyon. (6) Les Zones Éloignées sont détaillées en annexe. (7) Les prestations d’installation sur mesure sont garanties 3 mois pièces, main-d’œuvre etdéplacement. (8) Le prix indiqué intègre une TVA à 10 % qui s’applique dans le cas de travaux réalisés dans un logement de plus de 2 ans.
+(1) Pour toute commande passée en magasin ou sur darty.com avant 17 h 30, livraison possible en 2 h chrono. Le service de livraison est disponible pour les agglomérations deAix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen,Strasbourg, Toulon, Toulouse, Tours. (2) Service de livraison disponible dans les Zones de Confiance détaillées en annexe du Contrat de Confiance. Dans le cas où le réseau électriqueet de plomberie n’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en serviceou la réalisation des prestations Darty. Les appareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection etles vélos à assistance électrique sont livrés mais ne sont ni installés, ni mis en service. (3) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé auContrat de Confiance. (4) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon,Grenoble, Ile-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nimes, Orléans, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours,Valence, Valenciennes. (5) Pour toute commande passée en magasin ou sur darty.com avant 15 h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (6) LesZones Éloignées sont détaillées en annexe. (7) Les prestations d’installation sur mesure sont garanties 3 mois pièces, main-d’œuvre et déplacement. (8) Le prix indiqué intègre uneTVA à 10 % qui s’applique dans le cas de travaux réalisés dans un logement de plus de 2 ans.
 
 
 
-\- 16 septembre 2022 - 13
+\- 15 octobre 2022 - 13
 
-\- 16 septembre 2022 - 14
+\- 15 octobre 2022 - 14
 
 
 
@@ -570,15 +570,17 @@ pendant 3 ans parcarte-avoir DartyÉléments noninclus dansla garantie /exclusio
 
 Les garanties ne s’appliquent pas à la réparation de dommages résultant d’une cause externe au produit (par exemple d’un accident,d’un choc, de la foudre, de la tempête), d’un emploi, d’une installation ou d’un branchement non conformes aux spécifications ouprescriptions du constructeur, d’une utilisation nuisible à la bonne conservation du produit (ayant provoqué par exemple uneoxydation), d’une utilisation à caractère commercial ou collectif, de l’utilisation de périphériques, d’accessoires ou de consommablesinadaptés. Sont également exclus des garanties sur mesure Darty les éléments consommables ou consomptibles, tels que les sacsd’aspirateur, les piles et les batteries amovibles, les cartouches d’encre et les lampes, exceptées, pour ces dernières, des lampes desvidéoprojecteurs qui sont garanties pendant trois mois. Pour les ordinateurs et autres produits stockant des données, la garantie nes’applique pas, en outre, aux dommages résultant d’une modification de programme ou de paramétrage de données, ou d’un défaut delogiciel, Darty ne pouvant, de plus, être tenu pour responsable de la perte ou de la destruction des données stockées dans votreappareil, notamment sous forme de logiciel ou de fichier quelle qu’en soit sa nature, ni de dommages occasionnés par l’utilisation delogiciels acquis par des moyens illégaux (copie). Darty s’engage à appliquer les dispositions spécifiques des garanties contractuellesdes constructeurs et des importateurs sur les appareils qu’il vend ou répare. En tout état de cause, la garantie légale concernant lesdéfauts de conformité et les vices cachés s’applique à votre achat (voir p.20).
 
-Pour toute réparation sous garantie, le justificatif de l’achat sera exigé lors du dépôt de l’appareil. (1) Pour les éléments numériques, les contenus numériques et les servicesnumériques fournis en continue pendant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du servicenumérique. (2) À l’exception des jours légalement chômés ou sauf interdiction législative, réglementaire ou conventionnelle. (3) En fonction de la disponibilité d’appareilsdans nos SAV, les appareils prêtés seront mis à votre disposition sur demande du client dans les 48h à compter de la prise en charge de votre appareil par le service après-vente Darty et jusqu’au jour de sa mise à disposition. Ils ne seront pas obligatoirement neufs ou identiques au vôtre. (4) Reprise de l’ancien appareil couvert par l’Extensionde Garantie au cours de la 6 e et 7e année suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un appareil de remplacement de même fonction. Le montant de lareprise ne peut excéder 20% du prix d’achat du nouvel appareil ni 20% du prix de l’appareil initial. Cette offre de reprise est également incluse dans les extensions de garantiedes APN, caméscopes et micro-ondes pose libre. (5) Sauf pour les micro-ondes encastrables.
 
-Clause de cession du risque : Darty se réserve le droit de céder à un tiers les contrats de garantie sur mesure. Cette cession ferme et définitive entraînera le transfert des droitset obligations au cessionnaire. L’information relative à cette cession sera signalée sur le site darty.com. Il est convenu qu’en cas de cession, celle-ci n’engendrera aucunediminution de vos droits qui seront assurés par le cessionnaire.
+
+Pour toute réparation sous garantie, le justificatif de l’achat sera exigé lors du dépôt de l’appareil. (1) Pour les éléments numériques, les contenus numériques et les services numériquesfournis en continue pendant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du service numérique. (2) Àl’exception des jours légalement chômés ou sauf interdiction législative, réglementaire ou conventionnelle. (3) En fonction de la disponibilité d’appareils dans nos SAV, les appareilsprêtés seront mis à votre disposition sur demande du client dans les 48h à compter de la prise en charge de votre appareil par le service après-vente Darty et jusqu’au jour de samise à disposition. Ils ne seront pas obligatoirement neufs ou identiques au vôtre. (4) Reprise de l’ancien appareil couvert par l’Extension de Garantie au cours de la 6e et 7e année
+
+suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un appareil de remplacement de même fonction. Le montant de la reprise ne peut excéder 20% du prix d’achat dunouvel appareil ni 20% du prix de l’appareil initial. Cette offre de reprise est également incluse dans les extensions de garantie des APN, caméscopes et micro-ondes pose libre. (5)Sauf pour les micro-ondes encastrables.Clause de cession du risque : Darty se réserve le droit de céder à un tiers les contrats de garantie sur mesure. Cette cession ferme et définitive entraînera le transfert des droits etobligations au cessionnaire. L’information relative à cette cession sera signalée sur le site darty.com. Il est convenu qu’en cas de cession, celle-ci n’engendrera aucune diminutionde vos droits qui seront assurés par le cessionnaire.
 
 
 
 TABLEAUX DES GARANTIES
 
-\- 16 septembre 2022 - 15
+\- 15 octobre 2022 - 15
 
 
 
@@ -618,9 +620,7 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi:
-
- Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
+Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
@@ -638,7 +638,7 @@ Chaîne Home Cinéma, meubleHome Cinéma.
 
 Écran de Projection
 
-Les TV d’une taille égale ousupérieure à 40 pouces (101 cm)sont considérées comme desproduits volumineux.
+Les TV d'une taille égaleou supérieure à 40 pouces (101 cm)et les écrans de projectionsont considérés commedes produits volumineux.
 
 Périphériques TV.:
 
@@ -730,7 +730,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 16 septembre 2022 - 16
+\- 15 octobre 2022 - 16
 
 
 
@@ -772,7 +772,7 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 16 septembre 2022 - 17
+\- 15 octobre 2022 - 17
 
 
 
@@ -830,7 +830,7 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 16 septembre 2022 - 18
+\- 15 octobre 2022 - 18
 
 
 
@@ -898,7 +898,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 16 septembre 2022 - 19
+\- 15 octobre 2022 - 19
 
 
 
@@ -952,7 +952,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 16 septembre 2022 - 20
+\- 15 octobre 2022 - 20
 
 
 
@@ -968,7 +968,7 @@ Prix Produit (1) Tarifs extensionsde garantie à 5 ans
 
 
 
-\* Aspirateurs, y compris rechargeables. L’extension de garantie et la Garantieremboursement à neuf ne s’appliquent pas aux batteries amovibles des aspirateursrechargeables.(1) Tarifs valables en fonction du prix de vente affiché du produit avant touteapplication de remise ou offre promotionnelle.
+\* Aspirateurs, y compris rechargeables. L’extension de garantie et la Garantieremboursement à neuf ne s’appliquent pas aux batteries amovibles des aspirateursrechargeables.(1) Tarifs valables en fonction du prix de vente affiché du produit avant toute applicationde remise ou offre promotionnelle.
 
 
 
@@ -1052,7 +1052,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 16 septembre 2022 - 21
+\- 15 octobre 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1116,7 +1116,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 16 septembre 2022 - 22
+\- 15 octobre 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1142,19 +1142,19 @@ Le professionnel peut refuser la mise en conformité si elle s'avèreimpossible 
 
 Mode de règlement des litiges
 
-Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante :DARTY Service Consommateur - 38 avenue Roger Salengro 94120Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Si vous n’obtenez pas de réponse satisfaisante à votre réclamation, vouspouvez contacter le médiateur de la Fédération du e-commerce et de lavente à distance (FEVAD), selon les modalités indiquées à la page http://www.mediateurfevad.fr et dont les coordonnées sont les suivantes : 60rue La Boétie 75008 Paris.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
+Pour toute question relative à votre achat, n’hésitez pas, à nous contacterau 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf lesjours fériés et interdiction législative, réglementaire ou conventionnelle).Si vous rencontrez une difficulté, nous vous invitons à vous adresserau Service d’assistance téléphonique de Darty, qui s’efforcera de trouveravec vous une solution amiable. À défaut de trouver une solution vousdonnant satisfaction, vous pourrez nous adresser une réclamation parcourrier au Service Clients à l’adresse suivante :DARTY Service Consommateur - 38 avenue Roger Salengro 94120Fontenay-sous-BoisDarty s’engage à répondre immédiatement, et au plus tard dans les 72heures, à toute réclamation faite auprès du Service d’assistancetéléphonique, et à répondre dans un délai de 10 jours ouvrables auxréclamations faites par courrier.Conformément aux dispositions du Code de la consommation concernantle règlement amiable des litiges, DARTY adhère au Service du Médiateurdu e-commerce de la FEVAD (Fédération du e-commerce et de la vente àdistance) dont les coordonnées sont les suivantes :Médiateur de la consommation FEVAD- BP 20015 - 75362 PARIS CEDEX 8https://www.mediateurfevad.fr. Après démarche préalable écrite desconsommateurs vis-à-vis de DARTY, le Service du Médiateur peut êtresaisi pour tout litige de consommation dont le règlement n’aurait pasabouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.Conformément au Règlement (UE) n°524/2013, la CommissionEuropéenne a mis en place une plateforme de Règlement en Ligne desLitiges, facilitant le règlement indépendant par voie extrajudiciaire deslitiges en ligne entre consommateurs et professionnels de l’Unioneuropéenne. Cette plateforme est accessible au lien suivant : https://webgate.ec.europa.eu/odr/En cas de persistance d’un différend, les règles françaises de droitcommun seraient applicables.
 
 
 
 Vos données personnelles
 
-Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page ht tps://www.dar t y.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection desDonnées FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client DARTY Service Consommateur - 38 avenue RogerSalengro 94120 Fontenay-sous-Bois. Vous disposez par ailleurs, du droitd’introduire une réclamation auprès de la Commission Nationale del’Informatique et des Libertés (CNIL), notamment sur son site internet
+Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ETSERVICES, responsables de traitement. Vos données sont traitéesprincipalement pour créer et gérer votre compte, vos commandes etleur suivi, personnaliser vos services et effectuer des analysesstatistiques, ainsi qu’à des fins de marketing et publicité ciblée(connaissance client, envoi de communications électroniques etprofilage publicitaire par combinaison de données). Ces traitementspeuvent être fondés sur différentes bases légales selon les finalitésconcernées. Vous gardez la possibilité de retirer votre consentement àtout moment. Certaines informations pourront être transmises auxvendeurs marketplace si vous avez acheté un produit auprès d’eux. Lesdonnées collectées dans le cadre d’une commande sont susceptiblesd’être communiquées à notre partenaire Oney Tech à des fins d’analysede détection de la fraude. En fonction de vos choix, certainesinformations pourront également être transmises aux entités du groupeFNAC DARTY à des fins de connaissance client et personnalisation denos services, ou à des partenaires commerciaux à des fins de marketingciblé et de profilage publicitaire par combinaison de données. Pourrefuser le partage aux entités du groupe ou avec les partenaires, rendez-vous sur la page ht tps://www.dar t y.com/webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez également gérervos données personnelles et exprimer vos choix, notamment concernantles cookies, en vous rendant dans la rubrique « Mon compte » du sitewww.darty.com. Vous pouvez exercer vos droits (accès, rectification,suppression, opposition, limitation et portabilité le cas échéant) etdéfinir le sort de vos données personnelles post mortem par email(vieprivee@fnacdarty.com)ou contacter le Délégué à la Protection des
 
 
 
-\- 16 septembre 2022 - 23
+\- 15 octobre 2022 - 23
 
-www.cnil.fr. La plupart des données vous concernant seront conservéespendant une durée de 5 ans à compter de votre dernière activité (ex. :achat, échéance de vos contrats), puis archivées avec un accès restreintpour une durée supplémentaire de 5 ans pour des raisons strictementlimitées et autorisées par la loi (paiement, garantie, litiges ...). Vous êtesinformés que vos données peuvent être transmises pour les besoinsdes finalités mentionnées ci-dessus à des sociétés situées en dehorsde l’Union Européenne notamment pour les activités de service client(centres d’appel situés au Maroc et à Madagascar), prestationsinformatiques, exploitation des données en lien avec les réseauxsociaux. Toute procédure requise pour sécuriser les données sera miseen œuvre avant de procéder à de tels transferts. Plus d’informations surl a p r o t e c t i o n d e s d o n n é e s p e r s o n n e l l e s s u rdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
+Données FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client DARTY Service Consommateur - 38 avenue RogerSalengro 94120 Fontenay-sous-Bois. Vous disposez par ailleurs, du droitd’introduire une réclamation auprès de la Commission Nationale del’Informatique et des Libertés (CNIL), notamment sur son site internetwww.cnil.fr. La plupart des données vous concernant seront conservéespendant une durée de 5 ans à compter de votre dernière activité (ex. :achat, échéance de vos contrats), puis archivées avec un accès restreintpour une durée supplémentaire de 5 ans pour des raisons strictementlimitées et autorisées par la loi (paiement, garantie, litiges ...). Vous êtesinformés que vos données peuvent être transmises pour les besoinsdes finalités mentionnées ci-dessus à des sociétés situées en dehorsde l’Union Européenne notamment pour les activités de service client(centres d’appel situés au Maroc et à Madagascar), prestationsinformatiques, exploitation des données en lien avec les réseauxsociaux. Toute procédure requise pour sécuriser les données sera miseen œuvre avant de procéder à de tels transferts. Plus d’informations surl a p r o t e c t i o n d e s d o n n é e s p e r s o n n e l l e s s u rdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
 
 
 
@@ -1170,4 +1170,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 16 septembre 2022 - 24
+\- 15 octobre 2022 - 24
