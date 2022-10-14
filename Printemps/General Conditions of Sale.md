@@ -6,7 +6,7 @@ Conditions générales de vente et d'utilisation
 Préambule
 ---------
 
-L'enseigne Printemps.com SASU au capital de 41 800 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 430 236 695, numéro de TVA FR64430236695  (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
+L'enseigne PRINTEMPS SAS au capital de 50 000 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 503 314 767, numéro de TVA FR21503314767 (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
 
   
 
