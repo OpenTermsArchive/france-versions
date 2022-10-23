@@ -78,6 +78,17 @@ Lorsque vous utilisez nos services, nous collectons des données sur les types d
     * Les pages que vous avez visitées avant ou après avoir accédé à notre site internet.
         
 
+### Les données collectées auprès de tiers.
+
+Nous pouvons recueillir des informations vous concernant auprès d'autres utilisateurs, [de nos filiales](https://support.snapchat.com/a/snap-affiliates) et de tiers. Voici quelques exemples :
+
+* Si vous reliez votre compte Snapchat à un autre service (comme Bitmoji ou une application tierce), il se peut que nous recevions des informations de la part de l'autre service, par exemple concernant la façon dont vous l'utilisez.
+    
+* Les annonceurs, les développeurs d'applications, les éditeurs et d'autres tiers peuvent également partager des informations avec nous. Nous pouvons utiliser ces informations, entre autres, pour aider à cibler ou mesurer la performance des publicités. Vous pouvez en savoir plus sur notre utilisation de ce type de données tierces dans notre [Centre d'assistance](https://support.snapchat.com/a/advertising-preferences).
+    
+* Si un autre utilisateur télécharge sa liste de contacts, nous pouvons associer les informations issues de la liste de contacts de cet utilisateur à d'autres informations que nous avons collectées à votre sujet.
+    
+
 Utilisation des données
 -----------------------
 
