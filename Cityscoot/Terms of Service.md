@@ -361,7 +361,7 @@ Dans la mesure où l’Utilisateur est dans la capacité de le faire, il :
 * Reste à proximité du Scooter jusqu’à sa prise en charge par les services de secours.
 * Rédige lisiblement, même en cas de seuls dégâts matériels n’impliquant pas un tiers, un constat amiable (dont un exemplaire vierge est présent sous la selle du Scooter) détaillant les circonstances de l’accident, contresigné le cas échéant par le ou les conducteurs du ou des autres véhicules impliqués dans l’accident.
 * Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : CITYSCOOT, Service Sinistres, 8 rue Bayen, 75017 Paris.
-* Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ([\[email protected\].eu](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)) ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
+* Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ([\[email protected\]coot.eu](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)) ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
 * Collabore avec l’assureur de CITYSCOOT par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
 
 1. b) Panne du Scooter ou crevaison
