@@ -282,6 +282,8 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 * Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
 * Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
 * Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
+* Epsilon : Epsilon utilise les cookies (ou autre type de données) avoir accès / stocker des informations sur le device du consommateur (avec la possibilité pour l’utilisateur de consentir ou non à l’utilisation de ces données) au titre des finalités suivantes : Stocker et/ou accéder à des informations sur un terminal, sélectionner des publicités standard, créer un profil personnalisé de publicités, sélectionner des publicités personnalisées, créer un profil pour afficher un contenu personnalisé, sélectionner du contenu personnalisé, mesurer la performance des publicités, exploiter des études de marché afin de générer des données d’audience, développer et améliorer les produits, assurer la sécurité, prévenir la fraude et déboguer, diffuser techniquement les publicités ou le contenu, mettre en correspondance et combiner des sources de données hors ligne, relier différents terminaux, recevoir et utiliser des caractéristiques d’identification d’appareil envoyées automatiquement.  
+    Vous pouvez consulter la politique d’Epsilon/Conversant en matière de vie privée [ici](https://www.epsilon.com/emea/privacy-policy).\[[https://www.epsilon.com/emea/privacy-policy](https://www.epsilon.com/emea/privacy-policy)\]
 
 7\. Vos droits
 --------------
