@@ -195,7 +195,7 @@ La livraison des articles pourra s'effectuer :
 * **En magasin Vertbaudet :**
 
 Vous pouvez choisir de vous faire livrer gratuitement votre commande dans un de nos magasins Vertbaudet, situés en France Métropolitaine.  
-Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png) ou par un ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/treshttps://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png).  
+Toutefois, le service ne sera pas proposé dès lors qu’une commande comporte un ou des articles volumineux ou des articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) ou par un ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/treshttps://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png).  
 Enfin un magasin peut se réserver le droit de suspendre ce service momentanément (notamment en période de soldes), auquel cas il ne sera pas possible de le sélectionner sur le site Internet.  
 Vous serez informé par email dès que le colis sera disponible dans la boutique. Vous disposerez alors de 10 jours pour le retirer.  
 A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors du retrait.
@@ -203,7 +203,7 @@ A noter qu'il vous faudra obligatoirement présenter une pièce d'identité lors
 * **En Points Relais® :**
 
 Pour en bénéficier, il vous suffit de commander par téléphone ou sur le site Internet. Une liste de Points Relais® vous sera alors proposée. Pour connaître votre Point Relais® le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Le colis reste à disposition pendant sept (7) jours. Passé ce délai, il sera retourné à vertbaudet.  
-Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png) et certains articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/treshttps://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png)
+Offre valable hors articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) et certains articles signalés par un ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/treshttps://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png)
 
 * **En livraison à domicile : livré chez vous ou à une autre adresse**
 
@@ -265,11 +265,11 @@ Vous pouvez retourner l'article :
     
 * Soit en déposant gratuitement l'article directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
-    **Non valable pour les autres articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/treshttps://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png)**  .
+    **Non valable pour les autres articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/treshttps://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png)**  .
     
 * Soit en déposant gratuitement l'article directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
-    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/1052563656/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
+    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/treshttps://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png)**  .
     
 
 S'il s'agit d'un article signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
@@ -370,7 +370,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/30364/1052563656/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/30364/1052563656/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/30364/2038277332/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/30364/2038277332/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
