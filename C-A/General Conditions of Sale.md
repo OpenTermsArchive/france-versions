@@ -34,7 +34,7 @@ Conditions générales de vente C&A Mode GmbH & Co. KG
 
 1.1. Exploitant de la boutique en ligne C&A.
 
-Le site de vente en ligne www.c-et-a.com est exploité par C&A Mode GmbH & Co. KG, Wanheimer Strasse 70, D - 40468 DUESSELDORF (Allemagne), immatriculée au RCS de Duesseldorf sous le numéro HRA 6237. E-Mail : [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) L´associé personnellement responsable : C&A Retail GmbH, Siège : Zug/Suisse, UID: CHE-116.290.471, Direction : Giny Boer, Christoph Hammer
+Le site de vente en ligne www.c-et-a.com est exploité par C&A Mode GmbH & Co. KG, Wanheimer Strasse 70, D - 40468 DUESSELDORF (Allemagne), immatriculée au RCS de Duesseldorf sous le numéro HRA 6237. E-Mail : [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) L´associé personnellement responsable : C&A Retail GmbH, Siège : Baar/Suisse, UID: CHE-116.290.471, Direction : Giny Boer, Christoph Hammer
 
 1.2. Champ d'application des conditions générales de vente.
 
@@ -111,7 +111,7 @@ Toute utilisation du site www.c-et-a.com - autre que la recherche et l'achat d'a
 
 ### Article 8 : Données personnelles
 
-Voir la déclaration relative à la Confidentialité.
+Voir la déclaration relative à la " Confidentialité.
 
 ### Article 9 : Droit applicable, Tribunal compétent
 
@@ -129,9 +129,9 @@ Le tribunal compétent en cas de litige sera celui du lieu de domicile du Client
 
 **Droit de rétractation**
 
-Conformément à l’article L. 121-21 du Code de la consommation, le client a le droit de se rétracter du présent contrat sans avoir à motiver sa décision dans un délai de quatorze jours. C&A prolonge le délai de rétractation à trente jours.
+Conformément à l’article L. 121-21 du Code de la consommation, le client a le droit de se rétracter du présent contrat sans avoir à motiver sa décision dans un délai de quatorze jours.
 
-Le délai de rétractation expire trente jours à compter du jour de la livraison, étant précisé que si le délai s’achève un samedi, un dimanche ou un jour férié ou chômé, il est prolongé jusqu’au premier jour ouvrable suivant. La livraison s’entend ici comme la réception effective de l’article par le client ou par un tiers désigné par lui, autre que le transporteur.
+Le délai de rétractation expire quatorze jours à compter du jour de la livraison, étant précisé que si le délai s’achève un samedi, un dimanche ou un jour férié ou chômé, il est prolongé jusqu’au premier jour ouvrable suivant. La livraison s’entend ici comme la réception effective de l’article par le client ou par un tiers désigné par lui, autre que le transporteur.
 
 Pour que le délai de rétractation soit respecté, il suffit que le client transmette sa déclaration exprimant sa volonté de se rétracter avant l’expiration du délai de rétractation.
 
@@ -151,7 +151,7 @@ La responsabilité du client ne peut être engagée qu’en cas de dépréciatio
 
 Aussi, tous les articles peuvent faire l’objet d’une rétractation, à condition qu’ils soient dans leur emballage d’origine, dûment étiquetés, en parfait état et non utilisés. C&A attire l’attention du client sur le fait que toute marque d’usage (y compris des traces de maquillage ou de rouge à lèvre, des odeurs de parfum etc.) sur un article le rend invendable pour C&A qui, pour compenser cette perte, vous réclamera une indemnité à hauteur du prix dudit article. Dans ce cas de figure, l’article vous sera retourné et l’intégralité du montant retenu par C&A
 
-10.2. Si le Client retourne la marchandise avant l’expiration du délai de rétractation de trente jours, et quand bien même elle ne serait pas accompagnée de déclaration de rétractation, C&A Online considérera ce retour comme expression de la décision de rétractation du Client, avec toutes les conséquences sus-décrites.
+10.2. Si le Client retourne la marchandise avant l’expiration du délai de rétractation de quatorze jours, et quand bien même elle ne serait pas accompagnée de déclaration de rétractation, C&A Online considérera ce retour comme expression de la décision de rétractation du Client, avec toutes les conséquences sus-décrites.
 
 **Modèle de formulaire de rétractation**
 
