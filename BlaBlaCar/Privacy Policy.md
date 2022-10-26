@@ -190,7 +190,7 @@ En ce qui concerne la publicité ciblée :
 
 En règle générale, nous conservons vos Données Personnelles au sein de  l’Union Européenne. Cependant, dans la mesure où, par exemple,  certains de nos prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), nous transférons certaines de vos Données Personnelles dans des Pays Tiers. Cela peut notamment être le cas vers des Pays Tiers pour lesquels la Commission Européenne n’a pas pris une décision de « protection adéquate ». Dans un tel cas, nous nous assurons que ce transfert soit effectué en conformité avec la réglementation applicable et garantisse un niveau de protection suffisant de la vie privée et des droits fondamentaux des personnes (notamment par les clauses contractuelles types de la Commission Européenne).
 
-Sur simple demande formulée à notre Délégué à la Protection des Données ([dataprotection@blablacar.com](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
+Sur simple demande formulée à notre Délégué à la Protection des Données ([\[email protected\]](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
 
 8\. Quels sont vos droits sur vos données personnelles ?
 --------------------------------------------------------
@@ -218,7 +218,7 @@ Concernant les données dont le Ministère en charge de l’Énergie est destina
 
 **8.10.** Pour exercer vos droits dans le cadre de l’offre covoiturage proposée dans le cadre d’un abonnement au télépéage Ulys : vous bénéficiez d’un droit d’accès à vos informations ainsi que d’un droit de rectification et de suppression de ces informations, et d’un droit d’opposition au traitement de ces informations que vous pouvez exercer en vous adressant à ASF aux coordonnées indiquées sur son [site internet](https://ulys.vinci-autoroutes.com/politique-de-protection-des-donnees-personnelles/) ou en contactant notre délégué à la protection des données personnelles selon les modalités définies à l’article 13 ci-dessous.
 
-**8.11.** Pour exercer vos droits dans le cadre de l’utilisation de la base de données produite par la société Dataneo : sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo (cnil@dataneo.fr ou DataNeo – 6-8-10, rue Troyon – 92310 Sèvres) ou en nous contactant directement (voir article 13 ci-dessous).
+**8.11.** Pour exercer vos droits dans le cadre de l’utilisation de la base de données produite par la société Dataneo : sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo ([\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection) ou DataNeo – 6-8-10, rue Troyon – 92310 Sèvres) ou en nous contactant directement (voir article 13 ci-dessous).
 
 **8.12.** Pour exercer vos droits dans le cadre des traitements réalisés avec notre partenaire assureur L’olivier Assurance : veuillez prendre contact avec l’un des responsables conjoints du traitement des données (les coordonnées de notre délégué à la protection des données figurent à l’article 13 ci-dessous ; les coordonnées du délégué à la protection des données de L’olivier Assurance sont disponibles sur [ce site](https://www.lolivier.fr/politique-de-confidentialite/)).
 
@@ -247,7 +247,7 @@ Nous pouvons être amenés à modifier occasionnellement la présente Politique 
 13\. Contact
 ------------
 
-Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse [dataprotection@blablacar.com](mailto:dataprotection@blablacar.com)
+Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)
 
 \*\*\*
 
@@ -308,7 +308,7 @@ Ces informations contiennent notamment les données suivantes :
 **2.2.3.** Nous recueillons également des informations sur votre utilisation de notre Plateforme (telles que le nombre d’annonces publiées, votre taux de réponse aux messages, votre date d’inscription, votre moyenne d’avis reçus, etc.) qui sont susceptibles d’être affichées sur votre profil public.
 
 **2.2.4.** Enfin, nous recueillons des informations techniques relatives au modèle de votre véhicule lorsque vous nous transmettez votre numéro de plaque d’immatriculation afin de faciliter le remplissage du formulaire décrivant votre véhicule. Ces informations sont recueillies en interrogeant la base de données produite par la société Dataneo ([dataneo.fr](http://www.dataneo.fr/)) à partir des informations transmises par le Ministère de l’Intérieur dans le cadre d’une licence de réutilisation des données du Système d’Immatriculation des Véhicules en application de l’article L. 330-5 du code de la route.  
-Sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo ([cnil@dataneo.fr](mailto:cnil@dataneo.fr)ou DataNeo – [6-8-10, rue Troyon – 92310 Sèvres](https://maps.google.com/?q=6-8-10,+rue+Troyon+%E2%80%93+92310+S%C3%A8vres&entry=gmail&source=g)) ou en nous contactant directement (voir article 13 ci-dessous)
+Sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo ([\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)ou DataNeo – [6-8-10, rue Troyon – 92310 Sèvres](https://maps.google.com/?q=6-8-10,+rue+Troyon+%E2%80%93+92310+S%C3%A8vres&entry=gmail&source=g)) ou en nous contactant directement (voir article 13 ci-dessous)
 
 ### 2.3. Durée de conservation de vos données
 
@@ -417,7 +417,7 @@ En ce qui concerne la publicité ciblée :
 
 En règle générale, nous conservons vos Données Personnelles au sein de  l’Union Européenne. Cependant, dans la mesure où, par exemple,  certains de nos prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), nous transférons certaines de vos Données Personnelles dans des Pays Tiers. Cela peut notamment être le cas vers des Pays Tiers pour lesquels la Commission Européenne n’a pas pris une décision de « protection adéquate ». Dans un tel cas, , nous nous assurons de ce transfert soit effectué en conformité avec la réglementation applicable et garantisse un niveau de protection un niveau de protection suffisant de la vie privée et des droits fondamentaux des personnes (notamment par les clauses contractuelles types de la Commission Européenne).
 
-Sur simple demande formulée à notre Délégué à la Protection des Données ([dataprotection@blablacar.com](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces transferts (notamment les clauses contractuelles types de la Commission Européenne).
+Sur simple demande formulée à notre Délégué à la Protection des Données ([\[email protected\]](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces transferts (notamment les clauses contractuelles types de la Commission Européenne).
 
 8\. Quels sont vos droits sur vos données personnelles ?
 --------------------------------------------------------
@@ -470,4 +470,4 @@ Nous pouvons être amené à modifier occasionnellement la présente politique d
 
 Pour toute question relative à la présente politique de confidentialité ou pour toute demande relative à vos données personnelles, vous pouvez nous contacter en :
 
-* adressant un email à notre délégué à la protection des données à l’adresse [dataprotection@blablacar.com](mailto:dpo-france@blablacar.com)
+* adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)
