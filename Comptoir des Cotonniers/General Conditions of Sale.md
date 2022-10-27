@@ -56,7 +56,7 @@ La sécurité des transactions est assurée par Adyen par cryptage des coordonn�
   
 En cas d’utilisation frauduleuse de sa carte bancaire, après avoir fait opposition auprès de sa banque, le Client est invité à contacter le Service Relation Clients e-boutique qui lui indiquera la procédure à suivre :  
 \- soit par téléphone au numéro suivant : 09 69 39 29 97, du lundi au jeudi de 9h00 à 18h00 et le vendredi de 9h00 à 15h30  
-\- soit par e-mail : [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net)
+\- soit par e-mail : [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com)
 
 ARTICLE 6. LIVRAISON
 
@@ -113,11 +113,11 @@ Toute rétractation de commande doit être notifiée par tous moyens et notammen
   
 \- soit par téléphone au 09 69 39 29 97, du lundi au vendredi de 9h00 à 18h00,  
   
-\- soit en utilisant le formulaire-type de rétractation ci-dessous, ou en complétant le bon de rétractation disponible dans le compte Client, rubrique « Suivi de commandes ». Votre formulaire de rétractation est à renvoyer par email à : [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net) ou par courrier à : Comptoir des Cotonniers, Service Clients e-boutique 151 rue Saint Honoré - 75001 Paris
+\- soit en utilisant le formulaire-type de rétractation ci-dessous, ou en complétant le bon de rétractation disponible dans le compte Client, rubrique « Suivi de commandes ». Votre formulaire de rétractation est à renvoyer par email à : [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com) ou par courrier à : Comptoir des Cotonniers, Service Clients e-boutique 151 rue Saint Honoré - 75001 Paris
 
 À l'attention de Comptoir des Cotonniers, Service Clients e-boutique 151 rue Saint Honoré 75001 PARIS
 
-\- [serviceclient@comptoirdescotonniers.net](mailto:serviceclient@comptoirdescotonniers.net) :
+\- [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com) :
 
 Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien ci-dessous :
 
