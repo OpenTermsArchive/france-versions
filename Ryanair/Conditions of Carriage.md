@@ -1485,7 +1485,7 @@ TABLEAU DES TARIFS
 
 ### Tableau des tarifs et charges ryanair
 
-Les commissions sont sujet à la TVA sur les liaisons intérieures italiennes, françaises, espagnoles, portugaises, grècques, polonaises & roumaines et allemandes selon les taux gouvernementaux applicables.
+Les commissions sont sujettes à la TVA sur les liaisons intérieures allemandes, bulgares, espagnoles, françaises, grecques, italiennes, polonaises, portugaises, suédoises et roumaines selon les taux gouvernementaux applicables.
 
 (Livre sterling/euro) ou monnaie locale équivalente
 
@@ -1701,7 +1701,7 @@ Prix entre
 
 €/£8 - €/£30
 
-€/£8 - €/£32
+€/£8 - €/£35.99
 
 Bagages enregistrés – 10 kg
 
