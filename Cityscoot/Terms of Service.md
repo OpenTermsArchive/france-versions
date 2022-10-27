@@ -2,13 +2,11 @@ Conditions générales
 d’utilisation du service
 ===============================================
 
-Dernière mise à jour le 23 septembre 2022
+Dernière mise à jour le 27 octobre 2022
 
 Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service CITYSCOOT, tels que ces termes sont définis ci-après.
 
-CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 122 436,80      euros, immatriculée au RCS de Paris sous le numéro 800 862 021, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service.
-
-Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
+CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 122 436,80 euros, immatriculée au RCS de Paris sous le numéro 800 862 021, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
 
 Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu](http://www.cityscoot.eu/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
 
@@ -114,9 +112,9 @@ Les Locations, en fonction de leur durée, et les achats de « packs de minutes 
 
 Toute minute de Location entamée est comptabilisée et facturée comme une minute complète.
 
-Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par CITYSCOOT dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.
+Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par CITYSCOOT dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.           
 
- **ARTICLE 4 – CONDITIONS D’ACCÈS AU SERVICE**
+**ARTICLE 4 – CONDITIONS D’ACCÈS AU SERVICE**
 
 Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditions suivantes :
 
@@ -155,8 +153,8 @@ Pour s’inscrire et acquérir la qualité d’Utilisateur, le Client doit impé
 * un numéro de téléphone portable valide,
 * une adresse e-mail valide,
 * son adresse de domiciliation complète,
-* un mot de passe respectant les préconisations de sécurité de A ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
-* avoir consulté et accepté les présentes CGUS ainsi que la Politique de Confidentialité de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu](http://www.cityscoot.eu/),
+* un mot de passe respectant les préconisations de sécurité de À ce titre, l’Utilisateur est invité à choisir un mot de passe distinct de celui utilisé pour d’autres comptes ou services et à changer régulièrement de mot de passe (une à deux fois par an), afin de garantir une sécurité optimale et de se prémunir contre tout risque de fraude,
+* avoir consulté et accepté les présentes CGUS ainsi que la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT accessibles sur l’Application et sur le Site Internet [cityscoot.eu](http://www.cityscoot.eu/),
 * s’il souhaite recevoir une initiation à la prise en main d’un Scooter,
 * le numéro d’une ou plusieurs de ses cartes bancaires Visa ou Mastercard en cours de validité sur l’interface de paiement sécurisée pour le paiement ultérieur des factures.
 
@@ -164,7 +162,7 @@ Le Client doit s’assurer de la cohérence et de l’exactitude des information
 
 **5.2 Prise d’effet** 
 
-L’Inscription de l’Utilisateur prend effet à la fin du processus d’Inscription décrit ci-dessus, après vérification des informations et des documents télétransmis par l’Utilisateur, qui devra en tout état de cause être confirmée dans un délai raisonnable. L’Utilisateur est informé par e-mail de la confirmation de son inscription au Service.    
+L’Inscription de l’Utilisateur prend effet à la fin du processus d’Inscription décrit ci-dessus, après vérification des informations et des documents télétransmis par l’Utilisateur, qui devra en tout état de cause être confirmée ou rejetée dans un délai raisonnable. L’Utilisateur est informé par courrier électronique de la confirmation de son inscription au Service ou de la raison de son rejet.    
 
 **5.3 Durée** 
 
@@ -174,7 +172,7 @@ L’Inscription est sans limite de durée tant que l’Utilisateur respecte l’
 
 Le Service étant sans engagement, l’Utilisateur est libre de cesser d’utiliser le Service à tout moment.
 
-À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par e-mail à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed). Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de CITYSCOOT, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
+À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed). Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de CITYSCOOT, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
 
 La désinscription n’est effective qu’à compter de l’acquittement complet de toutes les sommes dues par l’Utilisateur à CITYSCOOT.
 
@@ -182,7 +180,7 @@ La désinscription n’est effective qu’à compter de l’acquittement comple
 
 L’Inscription est strictement personnelle au Client et incessible.
 
-Le Client  s’engage à informer dans les plus brefs délais le Service Client de Cityscoot au **09 69 36 20 26** (ou par courriel à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
+Le Client  s’engage à informer dans les plus brefs délais le Service Client de Cityscoot au **09 69 36 20 26** (ou par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
 
 **ARTICLE 6 – DROIT DE RÉTRACTATION** 
 
@@ -190,7 +188,7 @@ En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre l
 
 En cas d’achat de « pack minutes », l’Utilisateur a la faculté d’exercer un droit de rétractation dans un délai de quatorze (14) jours à compter de la date de l’achat.
 
-Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, [le formulaire de rétractation disponible ici](https://www.cityscoot.eu/wp-content/uploads/2022/10/FORMULAIRE-DE-RETRACTATION-achat-pack-minutes.pdf), dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed).
+Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation [disponible ici](https://www.cityscoot.eu/wp-content/uploads/2022/10/FORMULAIRE-DE-RETRACTATION-achat-pack-minutes.pdf), dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed).
 
 Si l’utilisation du Service n’a pas commencé au moment où l’Utilisateur exerce son droit de rétractation, l’Utilisateur est intégralement remboursé du montant du « pack minutes » payé.
 
@@ -199,9 +197,9 @@ Si l’utilisation du Service a commencé avant l’expiration du délai de rét
 * si l’Utilisateur a consommé l’intégralité des minutes de son « pack minutes », il est facturé de la totalité du « pack minutes » ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service ;
 * si l’Utilisateur a consommé partiellement les minutes de son « pack minutes », il est remboursé du prix du « pack minutes » et est facturé au prix de la location à la minute pour le nombre de minutes utilisées, ainsi que des éventuels coûts complémentaires et/ou pénalités relatifs à l’utilisation du Service. Dans ce cas, le tarif promotionnel ne bénéficie pas à l’Utilisateur.
 
- **ARTICLE 7 – MODALITÉS D’UTILISATION DU SERVICE CITYSCOOT**
+ **ARTICLE 7 – MODALITÉS D’UTILISATION DU SERVICE**
 
-Le Service CITYSCOOT n’est accessible que via l’Application. Il appartient à l’Utilisateur de prendre toutes mesures nécessaires pour assurer l’accès à et la mise à jour de l’Application via son smartphone fonctionnant sous une version Android ou iOS compatible.
+Le Service n’est accessible que _via_ l’Application. Il appartient à l’Utilisateur de s’assurer que son appareil mobile détient la dernière version de l’Application ainsi qu’un système d’exploitation compatible avec celle-ci.
 
 **7.1 Espace Personnel**
 
@@ -210,7 +208,7 @@ Le Service CITYSCOOT n’est accessible que via l’Application. Il appartient �
 * Contacter le Service Client à l’aide du formulaire dédié
 * Consulter les Questions Fréquemment Posées (FAQ)
 * Consulter les CGUS
-* Consulter la Politique de Confidentialité
+* Consulter la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite)
 * Mettre à jour ses données personnelles (adresse, mot de passe, cartes bancaires)
 * Modifier sa ville de préférence
 * Consulter son historique de Réservations et de Locations
@@ -229,7 +227,7 @@ Les Utilisateurs peuvent contacter le Service Client comme suit :
 
 Par téléphone au **09 69 36 20 26**, 24h/24 et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
 
-Par e-mail à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed) pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
+Par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed) pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
 
 **7.3 Informations sur les Scooters et la Réservation**
 
@@ -238,7 +236,7 @@ Sur l’Application, l’Utilisateur peut :
 * Visualiser le positionnement et l’autonomie des Scooters disponibles dans les Zones CITYSCOOT
 * Visualiser la présence d’un Citycase et d’un second Casque sur les Scooters
 * Procéder à la Réservation d’un Scooter
-* Annuler sa Réservation dans un délai maximum de dix (10) minutes à compter de sa Réservation
+* Annuler sa Réservation dans un délai maximal de dix (10) minutes à compter de sa Réservation
 * Restituer un Scooter loué selon les termes prévus par les présentes CGUS
 
 **7.4 Location d’un Scooter**
@@ -247,15 +245,13 @@ Sur l’Application, l’Utilisateur peut :
 
 L’Utilisateur sélectionne un Scooter disponible, puis le réserve via l’Application. Il reçoit alors le Code de Réservation à 4 chiffres, marquant le début de la période de Réservation.
 
-Il dispose alors de 10 minutes pour se rendre au Scooter réservé et le déverrouiller.
-
-Le déverrouillage du Scooter marque la fin de la période de Réservation et le démarrage de la période de Location.
+Il dispose alors de 10 minutes pour se rendre au Scooter réservé et le déverrouiller. Le déverrouillage du Scooter marque la fin de la période de Réservation et le démarrage de la période de Location.
 
 Si l’Utilisateur n’a pas déverrouillé le Scooter pendant la période de Réservation de 10 minutes, sa Réservation est automatiquement annulée.
 
 7.4.2 Déverrouillage du Scooter
 
-Le déverrouillage s’effectue via l’Application ou par la saisie du Code de Réservation sur le clavier numérique situé sur la gauche du guidon du Scooter.
+Le déverrouillage s’effectue vie l’Application ou par la saisie du Code de Réservation sur le clavier numérique situé sur la gauche du guidon du Scooter.
 
 Le Scooter se met sous tension et la selle s’ouvre automatiquement.
 
@@ -289,10 +285,10 @@ Pour démarrer le Scooter après l’avoir déverrouillé, l’Utilisateur doit�
 
 7.4.5 Procédure d’arrêt temporaire (Pause)
 
-Pour bénéficier de l’option d’arrêt temporaire du Scooter, l’Utilisateur doit a minima être en possession de la version 3.7.14 de l’Application. Pour stationner temporairement le Scooter, l’Utilisateur doit :
+Pour bénéficier de l’option d’arrêt temporaire du Scooter, l’Utilisateur doit au moins être en possession de la version 3.7.14 de l’Application. Pour stationner temporairement le Scooter, l’Utilisateur doit :
 
 * Béquiller le Scooter sur un emplacement autorisé.
-* Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon si l’Utilisateur afin de ranger le Casque.
+* Ouvrir la selle en appuyant sur le bouton « Casque » situé à gauche du guidon si l’Utilisateur afin de ranger le Casque.
 * Retirer tous Accessoires de l’Utilisateur du Scooter, CITYSCOOT ne pouvant aucunement être tenue responsable de tout effet oublié ou volé.
 * Fermer la selle et vérifier que celle-ci est verrouillée.
 * Appuyer sur le bouton “Pause” depuis l’Application.
@@ -304,8 +300,7 @@ Les minutes de Location continuent à courir pendant la période de Pause.
 
 Pour restituer le Scooter et mettre fin à sa Location, l’Utilisateur doit :
 
-S’assurer d’être dans une Zone CITYSCOOT (voyant orange « HORS ZONE » éteint).
-
+* S’assurer d’être dans une Zone CITYSCOOT (voyant orange « HORS ZONE » éteint).
 * S’assurer des conditions de stationnement autorisées dans la commune et dans la zone de restitution du Scooter et les respecter.
 * S’assurer d’avoir stationné le Scooter sur une place autorisée.
 * Béquiller le Scooter.
@@ -323,18 +318,18 @@ Il est de la responsabilité de l’Utilisateur de contrôler que la fin de sa L
 
 7.4.7 État des lieux à la restitution du Scooter
 
-L’Utilisateur s’engage à signaler au Service Client tout dégât, même mineur, inexistant lors de la Prise du Scooter et qu’il aura observé sur le Scooter au moment de la restitution, via la rubrique dédiée de l’Application, ou par téléphone. L’Utilisateur s’engage, dans la mesure du possible, à prendre des photos des dégâts constatés et les transmettre par l’intermédiaire du formulaire de Contact dans l’Application ou par e-mail au Service Client de CITYSCOOT.
+L’Utilisateur s’engage à signaler au Service Client tout dégât, même mineur, inexistant lors de la Prise du Scooter et qu’il aura observé sur le Scooter au moment de la restitution, via la rubrique dédiée de l’Application, ou par téléphone. L’Utilisateur s’engage, dans la mesure du possible, à prendre des photos des dégâts constatés et les transmettre par l’intermédiaire du formulaire de Contact dans l’Application ou par courrier électronique au Service Client de CITYSCOOT.
 
 7.4.8 Fin de Location déclenchée par CITYSCOOT
 
 CITYSCOOT se réserve le droit de suspendre l’accès au Service sans préavis et d’annuler une Réservation ou de mettre fin à une Location dans les cas suivants, sans qu’aucune indemnité ne soit due à l’Utilisateur :
 
 * Problème technique ou incident de sécurité affectant l’utilisation du Service ou la gestion des Scooters.
-* Fermeture exceptionnelle du Service sur décision d’une autorité compétente ou pour tout motif impérieux .
+* Fermeture exceptionnelle du Service sur décision d’une autorité compétente ou pour tout motif impérieux.
 * Force majeure.
 * Panne, accident ou détection automatique de choc du Scooter concerné.
 * Suspension ou désactivation du compte de l’Utilisateur ou de son accès au Service conformément à l’article 15 des présentes CGUS.
-* Pause du Scooter si CITYSCOOT n’arrive pas à contacter l’Utilisateur.
+* Pause longue du Scooter si CITYSCOOT n’arrive pas à contacter l’Utilisateur.
 * Vol du Scooter pendant une Location.
 
    
@@ -372,7 +367,7 @@ L’Utilisateur :
 
 * S’équipe du gilet jaune qui est à sa disposition sous la selle.
 * Met tout en œuvre pour limiter la gêne éventuelle causée par le Scooter en panne aux autres usagers de la voie publique et/ou véhicules.
-* Reste à proximité du Scooter jusqu’à l’accord express (appel, e-mail, SMS…) du Service Client ; à défaut, les frais de dépannage pourront lui être facturés.
+* Reste à proximité du Scooter jusqu’à l’accord express (appel, courrier électronique, SMS, etc.) du Service Client ; à défaut, les frais de dépannage pourront lui être facturés.
 
 1. c) Tentative de vol, vol du Scooter ou vandalisme
 
@@ -411,7 +406,9 @@ Les éléments dus par l’Utilisateur identifiés ci-dessus feront l’objet d�
 
 Le prix de la Location, défini conformément à l’ANNEXE 1, est exigible à la fin de chaque Location.
 
-CITYSCOOT émet une facture après que l’Utilisateur a effectué une ou plusieurs Locations. Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
+CITYSCOOT émet une facture après chaque utilisation payante (c’est-à-dire non entièrement couverte par un crédit de minutes) du Service par l’Utilisateur. Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
+
+En cas d’utilisation du Service couverte par un crédit de minutes, l’Utilisateur a accès à son solde de minutes offertes ou prépayées sur son compte dans l’Application.
 
 En cas de rejet du prélèvement, l’Utilisateur peut régler sa facture directement à CITYSCOOT depuis son Espace Personnel. La régularisation d’un incident de paiement par paiement direct permettra le déblocage de l’accès au Service de l’Utilisateur, sauf si le blocage résulte également du non-respect d’autres stipulations des présentes CGUS.
 
@@ -553,7 +550,7 @@ Une franchise de 15% s’applique sur le seul poste de préjudice « Atteinte pe
 
 10.2.3 Exclusion de la garantie
 
-Est exclu le préjudice corporel de l’Utilisateur qui :
+Est exclu le préjudice corporel de l’Utilisateur qui      :
 
 * N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.
 * Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire ») , sauf si le sinistre est sans relation avec cet état.
@@ -580,11 +577,11 @@ CITYSCOOT facturera à l’Utilisateur la somme forfaitaire prévue à l’ANNEX
 
 CITYSCOOT s’engage à fournir un Scooter comprenant les Accessoires du Scooter, notamment un Casque homologué et les Documents de Bord.
 
-CITYSCOOT ne pourra être tenue responsable de la perte ou des dommages aux Accessoires de l’Utilisateur s’ils ne sont pas dus à une faute de CITYSCOOT.
+CITYSCOOT ne pourra être tenue responsable de la perte ou des dommages aux Accessoires de l’Utilisateur.
 
-CITYSCOOT ne pourra être tenue responsable des dommages aux personnes et aux biens (en ce compris le Scooter) causés par l’utilisation      d’un Scooter par un tiers     .
+CITYSCOOT ne pourra être tenue responsable des dommages aux personnes et aux biens (en ce compris le Scooter) causés par l’utilisation d’un Scooter par un tiers.
 
-En aucun cas CITYSCOOT n’engagera sa responsabilité pour les dommages qui pourraient être causés par la non-disponibilité ou le défaut de fonctionnement du Site Internet et/ou de l’Application ou de tout ou partie du Service s’ils ne sont pas dus à une faute de CITYSCOOT. La fourniture du Service, de l’Application et du Site internet      ne constituent qu’une obligation de moyens pour CITYSCOOT.
+Il est rappelé que la fourniture du Service, de l’Application et du Site internet ne constituent qu’une obligation de moyens pour CITYSCOOT.
 
 Le Service CITYSCOOT reposant sur un principe de libre-service, CITYSCOOT ne peut être tenue responsable vis-à-vis de l’Utilisateur de l’absence ponctuelle de Scooters disponibles à la Location ou de niveau de charge de la batterie du Scooter réservé par l’Utilisateur.
 
@@ -602,23 +599,23 @@ En outre, lors de l’Inscription, de la Réservation ou de la Location, l’Uti
 * Transmission des signaux radioélectriques affectée par les contraintes ou les limites des normes techniques imposées aux opérateurs de radiotéléphonie par les autorités réglementaires ou les groupements normatifs compétents.
 * Impossibilité de fournir le Service en raison d’une panne ou d’un mauvais fonctionnement des satellites GPS ou d’une coupure d’électricité ou d’intempéries.
 * Échec de géolocalisation imputable à une dégradation du signal GSM/GPRS/3G4G ou du signal GPS, due notamment à la couverture nuageuse ou à la canopée.
-* Indisponibilité du Scooter.
+* Indisponibilité temporaire du Scooter.
 * Force majeure au sens de l’article 1218 du Code civil.
 * Tout cas mentionné à l’article 7.4.8 des CGUS.
 
-CITYSCOOT se réserve le droit d’interrompre totalement ou partiellement le Service, sans préavis et pour une durée déterminée ou indéterminée, notamment en cas d’événement exceptionnel telle qu’une avarie matérielle, une panne technique, un problème de sécurité, une manifestation sur la voie publique, une modification des règles de circulation ou des conditions climatiques défavorables, sans préavis et sans qu’aucune indemnité ne soit due à l’Utilisateur.
+CITYSCOOT se réserve le droit d’interrompre totalement ou partiellement le Service, sans préavis et pour une durée déterminée ou indéterminée en cas d’événement exceptionnel tel qu’une avarie matérielle, une panne technique, un problème de sécurité, une manifestation sur la voie publique, une modification des règles de circulation ou des conditions climatiques défavorables, sans préavis et sans qu’aucune indemnité ne soit due à l’Utilisateur.
 
-CITYSCOOT peut arrêter définitivement le Service dans une ville ou une zone géographique quelconque à tout moment, sans qu’aucune indemnité ne soit due à l’Utilisateur. Si les circonstances le permettent, l’arrêt définitif du Service sera notifié aux Utilisateurs avec un préavis raisonnable.
+CITYSCOOT peut arrêter définitivement le Service dans une ville ou une zone géographique quelconque à tout moment, sans qu’aucune indemnité autre que le remboursement des minutes prépayées ne soit due à l’Utilisateur. Si les circonstances le permettent, l’arrêt définitif du Service sera notifié aux Utilisateurs suivant un préavis raisonnable.
 
  **ARTICLE 13 – DONNÉES PERSONNELLES** **– DÉMARCHAGE TÉLÉPHONIQUE**
 
-Dans le cadre du Service, CITYSCOOT est amenée à collecter et traiter certaines données personnelles des Clients. En créant un compte CITYSCOOT et/ou en utilisant le Service, le Client reconnaît et accepte le traitement de ses données personnelles par CITYSCOOT conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite/) de CITYSCOOT.
+Dans le cadre du Service, CITYSCOOT est amenée à collecter et traiter certaines données personnelles des Clients. En créant un compte CITYSCOOT et/ou en utilisant le Service, le Client reconnaît et accepte le traitement de ses données personnelles par CITYSCOOT conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT.    
 
 Le Client dispose d’un droit à s’inscrire sur la liste d’opposition au démarchage téléphonique (article L. 223-1 du Code de la consommation).
 
-Ce droit est exerçable en se rendant sur le site internet bloctel.gouv.fr ou en écrivant à l’adresse suivante : Wordline – Service Bloctel – CS 61311 – 41013 Blois.
+Ce droit est exerçable en se rendant sur le site internet [bloctel.gouv.fr](https://www.bloctel.gouv.fr/) ou en écrivant à l’adresse suivante : Wordline – Service Bloctel – CS 61311 – 41013 Blois.
 
- **ARTICLE 14 – OFFRES PROMOTIONNELLES DE CITYSCOOT**
+**ARTICLE 14 – OFFRES PROMOTIONNELLES DE CITYSCOOT**
 
 CITYSCOOT peut proposer, à son entière discrétion, des offres promotionnelles qui sont soumises aux présentes CGUS sauf mention contraire dans les conditions spécifiques de l’offre.
 
@@ -665,7 +662,7 @@ En fonction du nombre de minutes comptabilisées par l’Utilisateur chaque mois
 
 |     |     |
 | --- | --- |
-| **NOMBRE DE MINUTES PAYANTES  <br>COMPTABILISEES PAR MOIS** | **STATUT** |
+| **NOMBRE DE MINUTES PAYANTES  <br>COMPTABILISÉES PAR MOIS** | **STATUT** |
 | **Moins de 300 min** | CityRider |
 | **Entre 300 et 499 min** | CityLover |
 | **Entre 500 et 999 min** | CityMaster |
@@ -687,7 +684,7 @@ Le statut de fidélité final obtenu à la fin du mois définit le nombre de min
 
  14.2.4 Utilisation des minutes gratuites
 
-L’Utilisateur peut utiliser ses minutes gratuites issues du programme de fidélité tout au long du mois suivant (en une ou plusieurs Locations), jusqu’à épuisement de celles-ci. Toute minute gratuite non-consommée pendant le mois suivant est perdue.
+L’Utilisateur peut utiliser ses minutes gratuites issues du programme de fidélité tout au long du mois suivant (en une ou plusieurs Locations), jusqu’à épuisement de celles-ci. Toute minute gratuite non consommée pendant le mois suivant est perdue.
 
 Les minutes gratuites créditées sur le compte de l’Utilisateur sont débitées en priorité. Si l’Utilisateur a bénéficié d’autres minutes gratuites via des opérations commerciales ou marketing (code promotionnel, code parrainage…), ce sont les minutes gratuites dont la date d’expiration est la plus proche qui sont débitées en priorité.
 
@@ -695,21 +692,21 @@ Les minutes gratuites sont attribuées personnellement à l’Utilisateur et ne 
 
  14.2.5 Informations
 
-L’Utilisateur sera informé de l’attribution des minutes gratuites par email. L’Utilisateur peut également consulter le nombre de minutes comptabilisées par lui et le solde de ses minutes gratuites dans son Espace Personnel, rubrique « Solde de minutes ».
+L’Utilisateur sera informé de l’attribution des minutes gratuites par courrier électronique. L’Utilisateur peut également consulter le nombre de minutes comptabilisées par lui et le solde de ses minutes gratuites dans son Espace Personnel, rubrique « Solde de minutes ».
 
 Il est précisé qu’en se désinscrivant du Service CITYSCOOT, l’Utilisateur perd le bénéfice de toutes ses minutes gratuites accumulées et, plus généralement, de tous les avantages du programme de fidélité.
 
  14.2.6 Responsabilité
 
-CITYSCOOT est exonérée de toute responsabilité pour les conséquences directes ou indirectes des éventuelles anomalies et dysfonctionnements du programme de fidélité CITYSCOOT, quelles que soient leurs causes. En cas de dysfonctionnement du programme de fidélité, CITYSCOOT fera néanmoins ses meilleurs efforts pour proroger, pour une durée équivalente à celle du dysfonctionnement, le bénéfice du cumul de minutes et des avantages acquis par l’Utilisateur.
+CITYSCOOT est exonérée de toute responsabilité pour les conséquences directes ou indirectes des éventuelles anomalies et dysfonctionnements du programme de fidélité CITYSCOOT, quelles que soient leurs causes. En cas de dysfonctionnement ou d’anomalie dudit programme, le bénéfice du cumul de minutes et des avantages acquis par l’Utilisateur sera prolongé d’une durée équivalente à celle du dysfonctionnement ou de l’anomalie.
 
 **ARTICLE 15 – SUSPENSION OU RÉSILIATION DE L’ACCÈS AU SERVICE CITYSCOOT**
 
-CITYSCOOT se réserve le droit de suspendre temporairement l’accès au Service à un Utilisateur en cas de suspension du Service par CITYSCOOT pour quelque cause que ce soit. Le solde de crédit « minutes » est maintenu le cas échéant pendant toute la durée de la suspension.
+CITYSCOOT se réserve le droit de suspendre temporairement l’accès au Service à un Utilisateur en cas de suspension du Service par CITYSCOOT pour quelque cause que ce soit. Le solde de crédit « minutes » est maintenu pendant toute la durée de la suspension.
 
 CITYSCOOT se réserve le droit de suspendre l’accès de l’Utilisateur au Service et/ou résilier son Inscription et ce, sans qu’aucune indemnité ne soit due à l’Utilisateur, dans les circonstances suivantes :
 
-* Utilisation ou présomption d’utilisation des Identifiants d’un Utilisateur par un tiers.
+* Utilisation avérée ou présomption d’utilisation des Identifiants d’un Utilisateur par un tiers. En cas de présomption d’utilisation par un tiers, l’accès sera seulement suspendu jusqu’à ce qu’il ait été déterminé si le compte est utilisé par un tiers ou non ; s’il s’avère que oui, le compte sera résilié ;
 * Utilisation abusive ou frauduleuse du Service ;
 * Falsification, omission ou inexactitude des informations ou documentations transmises par un Utilisateur ou par un tiers agissant pour le compte d’un Utilisateur ;
 * L’absence de mise à jour des informations concernant l’Utilisateur dans son Espace Personnel ;
@@ -718,7 +715,7 @@ CITYSCOOT se réserve le droit de suspendre l’accès de l’Utilisateur au Ser
 * Incident ou défaut de paiement de l’Utilisateur ou d’invalidité de la carte bancaire de l’Utilisateur non régularisé dans un délai de quinze (15) jours, étant précisé que l’accès au Service pourra être suspendu pendant ce délai de régularisation ;
 * Mauvaise utilisation du Scooter ;
 * Non-respect par l’Utilisateur du Code de la route ou de l’une de ses obligations essentielles, notamment relatives à la sécurité, au titre des présentes CGUS ;
-* En cas d’interruption du Service pour motif impérieux (notamment de mise à jour de l’Application ou de remplacement de la flotte de Scooters), d’interruption involontaire prolongée ou de cessation du Service , notamment dans les conditions précisées à l’article 12 des présentes. En cas d’interruption, l’accès au Service sera simplement suspendu et en cas de cessation, l’Inscription sera résiliée.
+* En cas d’interruption du Service pour motif impérieux (notamment de mise à jour de l’Application ou de remplacement de la flotte de Scooters), d’interruption involontaire prolongée ou de cessation du Service, notamment dans les conditions précisées à l’article 12 des présentes. En cas d’interruption, l’accès au Service sera simplement suspendu et en cas de cessation, l’Inscription sera résiliée après un préavis de 7 jours. 
 
 **ARTICLE 16 – DROIT APPLICABLE – RÈGLEMENT DES LITIGES**
 
@@ -744,15 +741,15 @@ Les CGUS sont soumises au Client pour acceptation lors de la création de son co
 
 Il peut à tout moment prendre connaissance des CGUS en vigueur sur le Site Internet et/ou sur l’Application.
 
-De surcroît, les CGUS sont envoyées à l’Utilisateur par e-mail à la suite de son Inscription.
+De surcroît, les CGUS sont envoyées à l’Utilisateur par courrier électronique à la suite de son Inscription.
 
 **17.2 Modification des CGUS** 
 
-Les présentes CGUS (en ce compris les tarifs et les pénalités applicables) pourront être mises à jour à la discrétion de CITYSCOOT. Leur mise à jour sera portée à la connaissance de l’Utilisateur par tout moyen, notamment par l’Application, lors de sa prochaine Réservation d’un Scooter et entrera en vigueur lors de cette réservation.
+Les présentes CGUS (en ce compris les tarifs et les pénalités applicables) pourront être mises à jour à la discrétion de CITYSCOOT. Leur mise à jour sera immédiatement portée à la connaissance de l’Utilisateur par courrier électronique et entrera en vigueur 3 jours après cette notification, date à laquelle la mise à jour sera de nouveau notifiée sur l’Application.
 
-En cas de modification des CGUS intervenant après son Inscription, l’Utilisateur sera invité à accepter les Conditions Générales d’Utilisation modifiées avant sa prochaine Réservation. S’il refuse de les accepter, l’Utilisateur est libre de ne plus utiliser le Service et de se désinscrire en suivant la procédure décrite à l’article 5.4 ci-dessus.
+Lors de la notification sur l’Application, l’Utilisateur sera invité à accepter les Conditions Générales d’Utilisation modifiées avant de pouvoir effectuer sa prochaine Réservation. S’il refuse de les accepter, l’Utilisateur sera libre de ne plus utiliser le Service à l’issue du délai de 3 jours susvisé et de se désinscrire, au plus tard à l’expiration dudit délai, en suivant la procédure décrite à l’article 5.4 ci-dessus.
 
-Toute modification des présentes CGUS sera réputée acceptée et opposable à l’Utilisateur si celui-ci, informé desdites modifications, continue à utiliser le Service.
+Toute modification des présentes CGUS sera réputée acceptée et immédiatement opposable à l’Utilisateur si celui-ci, informé desdites modifications, continue à utiliser le Service.
 
 **ARTICLE 18 – DISPOSITIONS SPÉCIFIQUES APPLICABLES AUX UTILISATEURS UBER**
 
