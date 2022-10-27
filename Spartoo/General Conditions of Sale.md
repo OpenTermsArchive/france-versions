@@ -4,9 +4,9 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 13/07/2022  
+Mise à jour le 25/07/2022  
 **Société SPARTOO**  
-Société Anonyme au capital de 363 568,56 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
+Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
 Service Client :  
 Tél : 01-85-09-79-58  
