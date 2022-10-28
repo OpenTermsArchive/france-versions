@@ -1699,9 +1699,9 @@ Priorité & 2 bagages de cabine
 
 Prix entre
 
-€/£8 - €/£30
+€/£6 - €/£30
 
-€/£8 - €/£35.99
+€/£6 - €/£35.99
 
 Bagages enregistrés – 10 kg
 
