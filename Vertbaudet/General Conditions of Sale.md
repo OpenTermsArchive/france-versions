@@ -269,7 +269,7 @@ Vous pouvez retourner l'article :
     
 * Soit en déposant gratuitement l'article directement dans un magasin Vertbaudet. Pour connaître votre magasin Vertbaudet le plus proche, [cliquez ici](https://magasin.vertbaudet.fr/?intcmpid=footer_trouver_magasin) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe).
     
-    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/treshttps://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png)**  .
+    **Service valable uniquement pour les petits articles qui ont été livrés en magasin, et expressément exclu pour les articles signalés par ![](https://media.vertbaudet.fr/medias/44/0/30364/2038277332/volumineux.png) ou par ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)**  .
     
 
 S'il s'agit d'un article signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
