@@ -96,7 +96,7 @@ En n'utilisant pas les services de notre transporteur habituel, le colis de reto
 
 Si vous rencontrez des problèmes avec vos retours (par exemple, vous avez renvoyé le produit mais nous ne l'avons pas reçu et vous n'avez donc pas été remboursé), nous vous fournirons une déclaration de retour et vous demanderons de la remplir, de la signer et de nous la renvoyer afin d'entamer une enquête sur votre retour et d'accélérer votre remboursement.
 
-Option 2 : Apportez-le dans l'un de nos magasins Levi's® (actuellement, uniquement pour les magasins sélectionnés au Royaume-Uni et en Italie)
+Option 2 : Apportez-le dans l'un de nos magasins Levi's®
 
 * Les articles achetés en ligne peuvent être retournés gratuitement dans l'un de nos magasins Levi's® sélectionnés.
 * Les articles achetés en ligne ne peuvent pas être retournés dans l'un de nos magasins d'usine Levi's® ou dans un grand magasin.
