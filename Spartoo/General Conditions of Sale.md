@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 25/07/2022  
+Mise à jour le 03/11/2022  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -449,10 +449,14 @@ Peuvent également être destinataires des données à caractère personnel les 
 
   
 
-Les données que nous collectons sont conservées pendant une durée de cinq ans à compter de la dernière transaction que vous avez effectuée sur le Site ou de la dernière mise à jour de votre compte client.  
-En l’absence de nouvelle transaction ou mise à jour de votre compte client durant le délai de cinq ans, les données vous concernant seront effacées automatiquement.  
+Les données que nous collectons à des fins de gestion de la relation client ou à des fins de prospection sont conservées pendant une durée de trois ans à compter de la dernière démarche active, à savoir : un clic sur un lien hypertexte, une commande sur le Site, une connexion au compte client, une visite du Site...  
   
-Certaines de vos données bancaires seront conservées pendant une durée de treize mois à des fins de lutte contre la fraude, à compter de la dernière transaction que vous avez effectuée sur le Site ou de la dernière mise à jour de votre compte client, tout comme dans le cadre du service Premium.  
+Sans nouvelle démarche active de votre part, au terme de cette période de conservation de trois ans, les données vous concernant seront effacées ou anonymisées et votre compte client supprimé. Cette action automatique sera définitive et irréversible.  
+  
+Dans le cadre de notre système de lutte contre la fraude, les données que nous collectons sont conservées sur un serveur interne sécurisé pendant une durée de 6 mois. A l’issue de ce délai, elles sont automatiquement supprimées.  
+  
+Pour plus d’information, veuillez-vous référer à notre politique de protection des données.  
+  
 Lorsque vous cochez la case "Mémoriser", vos données bancaires pourront être réutilisées pour vos futures commandes.
 
   
@@ -628,7 +632,7 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
 
 **Pour la France, le client peut agir en garantie légale de conformité.  
 \-Ainsi, il bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir ;  
-\-il peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l'article L. 211-9 du code de la consommation ;  
+\-il peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l'article L. 217-9 du code de la consommation ;  
 \-il est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre mois.  
 Pour rappel, la garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie. Egalement, le client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du code civil et dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du code civil.**  
   
@@ -637,7 +641,10 @@ Pour le Luxembourg, la garantie légale de conformité doit être engagée dans 
 Le remplacement ou la réparation du produit se fera sans frais sous 1 mois (pour le Luxembourg) ou dans un délai raisonnable (pour la Belgique) sauf si cela est disproportionné par rapport aux dommages ou si cela est impossible. En cas d’impossibilité, SPARTOO procèdera, sans frais, pour le Luxembourg et la Belgique, à un remboursement partiel ou total, selon le cas. Le produit en cause devra avoir été commandé sur le site SPARTOO.COM et être retourné dans l’emballage d’origine.  
   
 La garantie de conformité ne s’applique pas en cas de modification apportée sur le produit, en cas d’usure normale du produit, en cas d’un usage inapproprié du produit, en cas de non-respect des règles d’entretien du produit, et en cas de dommages causés par le transport ou le stockage du produit.  
-Cette garantie ne s’applique pas pour la Suisse, Andorre, Monaco et autres pays francophones.
+Cette garantie ne s’applique pas pour la Suisse, Andorre, Monaco et autres pays francophones.  
+  
+**Pour la France, tous les Produits Partenaires bénéficient des garanties légales dues par le vendeur en vertu du droit applicable, notamment de la garantie légale de conformité de 24 mois (Article L.217-4 et suivants du Code de la consommation) et de la garantie des vices cachés (articles 1641 et suivant du Code civil) ou toute autre garantie additionnelle proposée par le vendeur.  
+En cas question ou de doute concernant les garanties dues par le vendeur, nous vous invitons à le contacter par l’intermédiaire de SPARTOO en adressant un mail à adrianna@spartoo.com.**
 
   
 
