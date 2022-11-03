@@ -157,20 +157,6 @@ Le colis sera distribué en boite à lettres à l’adresse indiquée par le Cli
 
 En cas d’impossibilité de distribution en boite à lettres, La Poste se réserve la possibilité de procéder à plusieurs tentatives de distribution à l’adresse indiquée par le Client.  Elle peut prendre l’initiative d’une remise à toute personne présente à cette adresse, y compris le gardien ou le concierge qui accepte d’en prendre livraison. Le facteur est autorisé à rechercher un voisin qui pourrait accepter de prendre le colis pour le remettre au Client ensuite, ce qui évitera au Client d’aller le chercher dans un bureau de poste. En cas d’impossibilité de distribution, le colis est mis en instance à l’endroit indiqué sur l’avis de passage. A compter de la date mentionnée sur l’avis de passage, le Client dispose de quinze (15) jours pour retirer son colis. Passé ce délai, celui-ci sera retourné automatiquement à KOOKAÏ.
 
-* **Livraison DHL Express :**
-
-La livraison DHL Express est offerte au Client pour toute commande supérieure ou égale à 360 EUR.
-
-Le délai moyen de réception d’un colis en livraison DHL Express est de 1 à 2 jours ouvrés (hors week-end et jours fériés).
-
-Un numéro de suivi du colis sera transmis au Client par e-mail dès que le colis est pris en charge par DHL. Avec ce numéro, le Client pourra suivre son colis via le site : [www.logistics.dhl/fr](http://www.logistics.dhl/fr).
-
-Le colis sera distribué à l’adresse indiquée par le Client lors de la passation de sa commande.
-
-En cas de livraison manquée, DHL pourra offrir au Client une option de livraison alternative telle que la livraison à une autre date, une livraison sans signature, le réacheminement de l’envoi ou la livraison à un point de relais DHL.
-
-Le Client est tenu de porter une attention particulière aux coordonnées complétées dans le formulaire de commande et notamment à l’adresse de livraison. En cas d’erreur du Client dans l’adresse de livraison, le colis sera retourné par le transporteur avec la mention NPAI « n’habite pas à l’adresse indiquée ». Dans ce cas, le Client est remboursé de l’intégralité de sa commande au prix facturé hors livraison. Les frais de livraisons restent à la charge du Client. Le Client peut également demander la réexpédition du colis. La réexpédition se fera à ses frais.   
-
 **Livraison en boutique KOOKAÏ** **:**
 
 Le Client peut se faire livrer gratuitement dans la boutique KOOKAÏ de son choix en France métropolitaine (hors corners grands magasins et hors boutiques exclues de ce service par KOOKAÏ).
@@ -195,7 +181,7 @@ Le colis sera distribué à l’adresse indiquée par le Client lors de la passa
 
 En cas de livraison manquée, DHL pourra offrir au Client une option de livraison alternative telle que la livraison à une autre date, une livraison sans signature, le réacheminement de l’envoi ou la livraison à un point de relais DHL.
 
-Le Client est tenu de porter une attention particulière aux coordonnées complétées dans le formulaire de commande et notamment à l’adresse de livraison. En cas d’erreur du Client dans l’adresse de livraison, le colis sera retourné par le transporteur avec la mention NPAI « n’habite pas à l’adresse indiquée ». Dans ce cas, le Client est remboursé de l’intégralité de sa commande au prix facturé hors livraison. Les frais de livraisons restent à la charge du Client. Le Client peut également demander la réexpédition du colis. La réexpédition se fera à ses frais.   
+Le Client est tenu de porter une attention particulière aux coordonnées complétées dans le formulaire de commande et notamment à l’adresse de livraison. En cas d’erreur du Client dans l’adresse de livraison, le colis sera retourné par le transporteur avec la mention NPAI « n’habite pas à l’adresse indiquée ». Dans ce cas, le Client est remboursé de l’intégralité de sa commande au prix facturé hors livraison. Les frais de livraisons restent à la charge du Client. Le Client peut également demander la réexpédition du colis. La réexpédition se fera à ses frais.   
 
 **6.2. Délais de livraison**
 
