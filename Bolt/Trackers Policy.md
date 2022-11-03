@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 20/10/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (29)
+Necessary (30)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -37,6 +37,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | \_cq\_check \[x2\] | eudevil.mcangelus.com | Determines whether the user has accepted the cookie consent box. | Session | HTTP Cookie |
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
 | \_GRECAPTCHA | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 179 days | HTTP Cookie |
+| cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x11\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | debug | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. | Persistent | HTML Local Storage |
@@ -46,7 +47,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | test\_cookie | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (9)
+Preferences (10)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -60,6 +61,7 @@ Preference cookies enable our website to remember information that changes the w
 | CookieConsentBulkSetting-# | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | Persistent | HTML Local Storage |
 | iso\_code | static.tildacdn.com | Used by tilda for identification of the User without taking additional measures. | Persistent | HTML Local Storage |
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
+| mid | [Instagram](https://help.instagram.com/519522125107875 "Instagram's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their Instagram application for example. | 2 years | HTTP Cookie |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
 Statistics (43)
