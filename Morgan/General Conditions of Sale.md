@@ -232,7 +232,7 @@ L'Internaute a le choix entre différents modes de livraison, à savoir :
 
 France Métropolitaine
 
-Livraison à une adresse de son choix par Colissimo :  
+Livraison à domicile sur une adresse de son choix :  
 5,90€ TTC pour un montant total de commande inférieur ou égal à 49€ TTC  
 Gratuit pour un montant total de commande supérieur à 49€ TTC
 
