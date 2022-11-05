@@ -1,6 +1,6 @@
 charte de confidentialité
 
-Ce site est géré par Jennyfer, Société par Actions Simplifiée, ayant son siège social sis au 7 rue Pierre Dreyfus – 92110 CLICHY, au capital de 24 988 980 €, immatriculée au Registre du Commerce et des Sociétés de Nanterre sous le numéro 338 880 180. 
+Ce site est géré par Jennyfer, Société par Actions Simplifiée, ayant son siège social sis au 3, rue Etienne Dolet, 93 400 Saint Ouen, au capital de 47 188 991 €, immatriculée au Registre du Commerce et des Sociétés de Bobigny sous le numéro 338 880 180. 
 
 Jennyfer se soucie de la protection de vos données personnelles et souhaite vous informer sur la manière dont nous collectons, utilisons et divulguons les données personnelles. La présente Charte des données personnelles décrit les pratiques de Jennyfer relatives aux données personnelles que nous collectons via notre site internet et nos boutiques. Nous nous réservons le droit de modifier la présente Charte et ces modifications prendront effet immédiatement.
 
@@ -104,4 +104,4 @@ Pour toute question relative à la présente politique de confidentialité ou po
 
 \- en remplissant le formulaire en ligne « contactez-nous » ;
 
-\- en nous adressant un courrier à l’adresse suivante : STOCK J - CNIL, 7 rue Pierre Dreyfus, 92110 CLICHY.
+\- en nous adressant un courrier à l’adresse suivante : STOCK J - CNIL, 3, rue Etienne Dolet, 93 400 Saint Ouen.
