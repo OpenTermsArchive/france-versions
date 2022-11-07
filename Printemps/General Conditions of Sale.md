@@ -215,19 +215,19 @@ Article 3 - Expédition et livraison
 
 **3.1 EXPÉDITION DES COMMANDES**
 
-Commandes passées avant 14 heures :
+Commandes passées avant 13 heures :
 
   
 
-Les commandes validées du lundi au vendredi avant 14 heures sont expédiées le jour même (hors jours fériés).
+Les commandes validées du lundi au vendredi avant 13 heures sont expédiées le jour même (hors jours fériés).
 
   
 
-Commandes passées après 14 heures :
+Commandes passées après 13 heures :
 
   
 
-Ces commandes sont traitées en priorité le premier jour ouvré suivant. À partir du vendredi 14 heures au dimanche soir, les commandes validées sont expédiées dès le lundi soir.
+Ces commandes sont traitées en priorité le premier jour ouvré suivant. À partir du vendredi 13 heures au dimanche soir, les commandes validées sont expédiées dès le lundi soir.
 
   
 
@@ -235,7 +235,7 @@ Un email est adressé au Client lorsque sa commande est expédiée de l'entrepô
 
   
 
-Pour obtenir le détail et le suivi de la commande, le Client est invité à se rendre sur son compte dans la rubrique « Mes commandes en cours ».
+Pour obtenir le détail et le suivi de la commande, le Client est invité à se rendre sur son compte dans la rubrique « Mes achats ».
 
   
 
@@ -284,103 +284,6 @@ La Société propose au Client les modes de livraison détaillés ci-dessous.
 
   
 
-**Paris et région parisienne**
-
-Livraisons offertes dès 200€ d'achat
-
-  
-
-* **CLICK AND COLLECT**, GRATUIT, dans les magasins Printemps\*
-
-\* Service non disponible à Printemps Caen, Printemps Brest et Printemps Tours.
-
-  
-
-Ce service de livraison permet de faire livrer la commande au magasin Printemps choisi lors de votre commande. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps durant 14 jours.
-
-* Pour le Printemps Haussmann et Printemps Nation. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi après midi. Info Printemps Haussmann : la récupération de vos commandes se fera au 4ème étage du Printemps Mode.
-* Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
-
-  
-
-Le retrait de la commande est possible aux jours et heures d'ouverture du magasin sélectionné au comptoir « click and collect ».
-
-  
-
-Pour plus d'informations sur les jours et horaires d'ouverture des magasins Printemps, nous vous invitons à consulter le site [www.printemps.com/fr/fr/magasins](https://www.printemps.com/fr/fr/magasins)
-
-  
-
-* **COURSIER, 12 euros** (à Paris et petite couronne uniquement, de 8h à 22h)
-
-Livraison à Paris, Essonne, Hauts-de-Seine, Seine-Saint-Denis, Val de Marne, Val d'Oise, Seine-et-Marne et Yvelines.
-
-  
-
-Ce service propose une livraison à domicile ou sur le lieu de travail sur un créneau de 2h, selon les conditions suivantes :
-
-  
-
-\- Pour toute commande passée avant 8h du lundi au vendredi, possibilité de livraison le jour même entre 16h et 22h, sinon livraison possible entre J+1 et J+7 entre 8h et 22h du lundi au samedi et entre 9h et 13h le dimanche.
-
-  
-
-\- Les commandes passées après 8h le vendredi et jusqu'au lundi 8h seront livrées à partir de 16h le lundi
-
-  
-
-Le créneau horaire souhaité est sélectionné lors du choix du mode de livraison (sous réserve de disponibilité).
-
-  
-
-Si le Client ne reçoit pas son colis ou qu'il n'a pas de nouvelle du service de livraison, il peut contacter le service client directement au 01.71.25.26.01.
-
-  
-
-* **STANDARD COLISSIMO, 5 euros** (48 à 72 heures)
-
-  
-
-La livraison Colissimo par la Poste propose une livraison sous 48 à 72 heures en France métropolitaine et Corse. Les livraisons sont effectuées par la Poste du lundi au samedi de 8h à 19h.
-
-  
-
-Du lundi au vendredi, toutes les commandes enregistrées avant 14h sont expédiées le jour-même.
-
-  
-
-Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les commandes passées entre 14h le vendredi et 14h le lundi sont expédiées le lundi soir.
-
-  
-
-Le colis est livré à l'adresse de livraison indiquée sur le bon de commande. En tant que tel, il est important de saisir l'adresse de livraison exacte.
-
-  
-
-Un e-mail sera envoyé au Client lorsque son colis sera expédié depuis l'entrepôt. Cet e-mail confirme le mode de livraison choisi et fournit un numéro de suivi. Il est également possible de consulter et suivre sa commande dans la section « Suivre mes commandes » du compte.
-
-  
-
-* **EXPRESS CHRONOPOST, 8 euros** (en 24 heures)
-
-  
-
-Ce service de livraison « express » propose une livraison de 24 à 48 heures (hors week-end) du lundi au samedi en France métropolitaine. Les livraisons sont effectuées par Chronopost du lundi au vendredi de 7h à 13h.
-
-  
-
-Toutes les commandes passées avant 14 h sont livrées le lendemain avant 13 h (moins de 24 heures).
-
-  
-
-Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
-
-  
-
-Dès que le colis est récupéré par Chronopost, il peut être suivi sur www.chronopost.fr en utilisant le numéro de colis envoyé par e-mail lors de son expédition, ou via le lien de suivi de commande depuis le compte Printemps.com.
-
-  
-
 **France métropolitaine et Corse**
 
 Livraisons offertes dès 200 euros d'achat
@@ -397,8 +300,7 @@ Ce service de livraison permet au Client de faire livrer sa commande au Printemp
 
   
 
-* Pour le Printemps Haussmann, Printemps Nation et Printemps Italie 2. Pour les commandes passées du lundi au vendredi avant 9h, la livraison Click & Collect propose une livraison le jour même, ou le lendemain pour les commandes passées après 9h. Les commandes passées le vendredi après 9 h et le week-end seront disponibles pour la collecte le lundi matin. Info Printemps Haussmann : la récupération des commandes se fera au 4ème étage du Printemps Mode.
-* Pour tous les autres magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 14 h seront livrées le lendemain. Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 14 h et le week-end seront disponibles pour retrait le mardi matin.
+* Pour tous les magasins Printemps, le délai de livraison de Click & Collect est de 24 heures. Toutes les commandes passées avant 13 h seront livrées le lendemain. Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes. Les commandes passées le vendredi après 13 h et le week-end seront disponibles pour retrait le mardi matin.
 * Les magasins Printemps Caen, Printemps Brest, Printemps Tours et Printemps du Louvre n'offrent pas de livraison Click & Collect.
 
   
@@ -419,11 +321,11 @@ La livraison Colissimo par la Poste propose une livraison sous 48 à 72 heures e
 
   
 
-Du lundi au vendredi, toutes les commandes enregistrées avant 14h sont expédiées le jour-même.
+Du lundi au vendredi, toutes les commandes enregistrées avant 13h sont expédiées le jour-même.
 
   
 
-Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les commandes passées entre 14h le vendredi et 14h le lundi sont expédiées le lundi soir.
+Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
 
   
 
@@ -443,11 +345,11 @@ Ce service de livraison « express » propose une livraison de 24 à 48 heures (
 
   
 
-Toutes les commandes passées avant 14 h sont livrées le lendemain avant 13 h (moins de 24 heures).
+Toutes les commandes passées avant 13 h sont livrées le lendemain avant 13 h (moins de 24 heures).
 
   
 
-Toutes les commandes passées après 14 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
+Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suivant et seront livrées dans les 24 heures suivantes.
 
   
 
@@ -717,13 +619,21 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
 * Notification de la décision de rétractation :
 
-Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou présent en annexe ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Relations Clients 102 rue de provence 75009 Paris, soit par courrier électronique à l'adresse service-client@printemps.com
+Pour exercer son droit de rétractation, le Client doit informer la Société de sa décision de rétractation au moyen du [formulaire téléchargeable](https://medias.printemps.com/image/03/8/2528038.pdf) ou présent en annexe ou d'une déclaration dénuée d'ambiguïté, adressé.e soit par courrier postal à l'adresse Printemps.com Service Client 110 bis avenue du Général Leclerc 93500 Pantin, soit par courrier électronique à l'adresse service-client@printemps.com
 
   
 
 * Retour du Produit après rétractation :
 
-Le Client doit renvoyer le Produit à la Société à l'adresse 110 bis avenue du général leclerc 93500 Pantin sans retard excessif, et au plus tard 30 jours calendaires après avoir reçu sa commande
+Le Client doit renvoyer le Produit à la Société sans retard excessif, et au plus tard 30 jours calendaires après avoir reçu sa commande à l'adresse suivante :
+
+Printemps Logistique
+
+Centre de distribution Printemps
+
+ZA du Champ de l'Alouette
+
+77610 La Houssaye en Brie
 
 La procédure de retour des Produits est décrite aux paragraphes 9.1 et 9.2 ci-dessous.
 
@@ -771,6 +681,12 @@ L’échange sera validé sous réserve de disponibilité du produit souhaité a
   
 
 Cas particuliers :
+
+  
+
+* **Prêt-à-Porter**
+
+Les articles doivent être retournés non portés, non endommagés, non usé et non lavé, avec leurs étiquettes créateurs intactes.
 
   
 
@@ -844,15 +760,26 @@ Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de 
 
   
 
-1\. Le bon de retour se trouve dans votre colis. En cas de perte, il est également possible de télécharger son bon de retour dans votre espace client. Pour un échange, le bon de retour devra impérativement être émis depuis l'espace client.
-
-2\. Emballer les articles avec soin dans l'emballage d'origine, y joindre le bon de retour imprimé.
-
-3\. Coller l'étiquette transport sur le colis et le déposer dans un bureau de poste. En cas de perte de l'étiquette transport, il est également possible de la télécharger dans votre espace client.
+Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de retour à votre colis.
 
   
 
-NB : Pour faciliter le suivi de votre retour et assurer son bon traitement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par Printemps.com lors de votre retour et de conserver la preuve de dépôt tamponnée par la poste jusqu'au remboursement où jusqu'à a validation de l'échange si le Client souhaite opter pour un échange. Dans le cas contraire, la Société ne pourra garantir le remboursement ou l'échange de l'article.
+ 1. Le bon de retour et l’étiquette de retour sont téléchargeables sur le site Printemps.com.
+
+* Si vous étiez connecté à votre compte Printemps.com lors de votre commande, merci de compléter les modalités de retours dans la rubrique « Mes achats et retours / Effectuer un retour ».
+* Si vous avez passé commande en tant qu’invité, merci de cliquer sur le lien qui a été envoyé dans le mail indiquant que votre colis a bien été expédié.
+
+  
+
+ 2. Emballer les articles avec soin dans l'emballage d'origine, y joindre le bon de retour imprimé.
+
+  
+
+ 3. Coller l'étiquette transport sur le colis et le déposer dans un bureau de poste.
+
+  
+
+ NB : Pour faciliter le suivi de votre retour et assurer votre remboursement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par Printemps.com lors de votre retour et de conserver la preuve de dépôt tamponnée par la poste jusqu'au remboursement. Dans le cas contraire, nous ne pourrions garantir votre remboursement.
 
   
 
