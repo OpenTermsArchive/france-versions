@@ -1,7 +1,7 @@
-ANNEXE « DONNEES PERSONNELLES ET CONFIDENTIALITE »
+ANNEXE « DONNEES PERSONNELLES ET CONFIDENTIALITE »
 ==================================================
 
-Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société Canal+ International (R.C.S Nanterre 592 033 401, 48 Quai du Point du Jour – 92100 Boulogne-Billancourt) (ci-après désignées « Groupe Canal+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
+Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société CANAL+ International (R.C.S Nanterre 592 033 401, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) (ci-après désignées « Groupe CANAL+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
 
 Pour plus d’informations, veuillez-vous reporter à nos :* [conditions générales d’abonnement](https://static.canal-plus.net/boutique/infos-legales/CGA-Canal.pdf),
 * nos [conditions générales d’utilisation](https://static.canalplus.com/legal/cgu.html),
@@ -92,7 +92,7 @@ Un tel partage ne peut se faire que sous les conditions suivantes :
 
 En tout état de cause, vous pouvez à tout moment, exercer vos droits auprès de nous, conformément à l’article 4 ci-dessous, exprimer votre accord ou le retirer, sans que cela ne change en quoi que ce soit vos droits d’accéder à nos services.
 
-Si vous êtes abonné au service beIN SPORTS CONNECT, vos données feront l’objet d’un traitement, pour notre compte, par notre sous-traitant, la société beIN SPORTS France qui a été spécialement mandatée par Groupe Canal+ pour assurer la gestion de votre abonnement (conclusion du contrat, facturation, fourniture des services demandés, gestion des droits des personnes, hébergement de vos données).
+Enfin, les données personnelles sont également communiquées, sur demande judiciaire ou administrative et afin de se conformer à toute loi ou règlementation en vigueur, à des organismes publics, auxiliaires de justice, officiers ministériels, à qui nous sommes tenus de répondre.
 
 En cas de transfert en dehors de l’Union européenne, nous opérons ces transferts dans le strict respect des conditions de protection prévues par la règlementation applicable. En l’absence de décision de la Commission Européenne reconnaissant le pays destinataire de vos données comme ayant un niveau de protection adéquat, nous prenons les dispositions appropriées vis-à-vis de nos partenaires et sous-traitants impliqués (dont la signature des Clauses contractuelles types de la Commission européenne). Vous pouvez obtenir une copie des dispositions prises pour permettre le transfert de vos données en dehors de l’Union européenne, sur demande formulée aux points de contact figurant à l’article 4.1 ci-dessous. Conformément à la réglementation applicable et afin de respecter le secret des affaires et les obligations de confidentialité auxquelles nous sommes tenues, certaines informations pourront être occultées. Cette copie pourra également prendre la forme d’un résumé des mesures prises pour permettre le transfert de vos données.
 
@@ -111,11 +111,6 @@ Votre demande concerne vos données traitées dans le cadre de votre abonnement 
 * Si vous êtes situé en Suisse : par courrier électronique à dpo-suisse ;
 * Nous contacter aux coordonnées indiquées à l’article 6 ci-dessous : Qui contacter en cas de questions ?
 * Pour CANAL+ BUSINESS, vous pouvez exercer vos droits en écrivant à dpo.business ou SERVICE CLIENTS CANAL+ BUSINESS - TSA 76720 - 95905 CERGY PONTOISE.
-
-Votre demande concerne vos données traitées dans le cadre de votre offre beIN SPORTS CONNECT :
-
-* Ecrire par email à DPO@bein.net
-* Ecrire par courrier postal à beIN SPORTS France – Délégué à la protection des données, 53-55 avenue Emile Zola 92100 Boulogne-Billancourt
 
 Une lettre recommandée électronique n’est pas nécessaire pour exercer vos droits. Le simple envoi du formulaire par mail ou par courrier postal est suffisant. Si toutefois vous souhaitez utiliser des services de recommandés électroniques, veuillez écrire à eRecommande@canal-plus.com en justifiant de votre identité.
 
@@ -152,28 +147,28 @@ Si vous ne souhaitez plus recevoir de notifications de la part de l’applicatio
 
 Sur Android :
 
-* en faisant glisser latéralement une notification de l’application, puis en sélectionnant l’option de Réglages et enfin en appuyant sur « Arrêter les notifications » ;
-* en vous rendant sur la rubrique Réglages de l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT puis en désactivant l’option « Notifications » ;
-* en vous rendant dans les paramètres de votre appareil (rubrique Applis et notifications), puis en sélectionnant l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT et la rubrique « Notifications ». Enfin, en désactivant l’option « Afficher les notifications ».
+* en faisant glisser latéralement une notification de l’application, puis en sélectionnant l’option de Réglages et enfin en appuyant sur « Arrêter les notifications » ;
+* en vous rendant sur la rubrique Réglages de l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT puis en désactivant l’option « Notifications » ;
+* en vous rendant dans les paramètres de votre appareil (rubrique Applis et notifications), puis en sélectionnant l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT et la rubrique « Notifications ». Enfin, en désactivant l’option « Afficher les notifications ».
 
 Sur iOs :
 
 * en n’acceptant pas les notifications lorsque l’application vous le propose ;
-* en vous rendant dans les réglages de votre appareil (rubrique Notifications), puis en sélectionnant l’application myCANAL et la rubrique « Notifications ». Enfin, en désactivant l’option « Autoriser les notifications ».
+* en vous rendant dans les réglages de votre appareil (rubrique Notifications), puis en sélectionnant l’application myCANAL et la rubrique « Notifications ». Enfin, en désactivant l’option « Autoriser les notifications ».
 
-Si vous ne souhaitez plus que les informations collectées à partir de votre appareil mobile ou à propos de celui-ci dans soient utilisées dans le cadre de la publicité comportementale en ligne, vous pouvez accéder aux paramètres de votre appareil et modifier « Suivi publicitaire limité » (pour iOS), « Désactiver personnalisation des annonces » (pour Android) ou « Laisser les applications utiliser l’identifiant de publicité pour permettre l’affichage de publicités plus pertinentes en fonction votre utilisation des applications » (Windows), ce qui vous permettra de limiter les informations collectées à partir de votre appareil mobile ou à propos de celui-ci.
+Si vous ne souhaitez plus que les informations collectées à partir de votre appareil mobile ou à propos de celui-ci dans soient utilisées dans le cadre de la publicité comportementale en ligne, vous pouvez accéder aux paramètres de votre appareil et modifier « Suivi publicitaire limité » (pour iOS), « Désactiver personnalisation des annonces » (pour Android) ou « Laisser les applications utiliser l’identifiant de publicité pour permettre l’affichage de publicités plus pertinentes en fonction votre utilisation des applications » (Windows), ce qui vous permettra de limiter les informations collectées à partir de votre appareil mobile ou à propos de celui-ci.
 
 Ces réglages sont accessibles :
 
-* Sur iOS : en vous rendant sur la rubrique « Réglages », puis « Confidentialité » et enfin « Publicité » ;
-* Sur Android : en vous rendant sur la rubrique « Réglages » de Android, puis « Android », « Paramètres », « Google » et enfin « Annonces » (le parcours est susceptible de varier selon le fabriquant de téléphone et la version d’Android installée) ;
-* Sur Windows : en vous rendant sur la rubrique « Réglages », puis « Général » et enfin « Modifier les options de confidentialité ».
+* Sur iOS : en vous rendant sur la rubrique « Réglages », puis « Confidentialité » et enfin « Publicité » ;
+* Sur Android : en vous rendant sur la rubrique « Réglages » de Android, puis « Android », « Paramètres », « Google » et enfin « Annonces » (le parcours est susceptible de varier selon le fabriquant de téléphone et la version d’Android installée) ;
+* Sur Windows : en vous rendant sur la rubrique « Réglages », puis « Général » et enfin « Modifier les options de confidentialité ».
 
 ### 4.3 Désactivation de la personnalisation des recommandations de contenus
 
 Si vous ne souhaitez pas que votre expérience soit personnalisée. Pour cela, vous pouvez vous rendre dans la rubrique Réglages ou Compte de myCANAL (site web ou application myCANAL) ou écrire au service clients de Groupe Canal+.
 
-Si vous souhaitez désactiver la personnalisation de votre expérience sur beIN SPORTS CONNECT, vous pouvez vous rendre dans l’onglet Mon Compte sur le site beIN SPORTS CONNECT et cliquer sur « Personnaliser ».
+Si vous souhaitez désactiver la personnalisation de votre expérience sur beIN SPORTS CONNECT, vous pouvez vous rendre dans l’onglet Mon Compte sur le site beIN SPORTS CONNECT et cliquer sur « Personnaliser ».
 
 Enfin, vous pouvez également introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés ou pour les abonnés situés en Afrique, auprès de l’Autorité locale compétente en matière de protection des données personnelles, si vous estimez que nous ne respectons pas vos droits.
 
