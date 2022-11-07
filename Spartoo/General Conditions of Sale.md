@@ -644,7 +644,7 @@ La garantie de conformité ne s’applique pas en cas de modification apportée 
 Cette garantie ne s’applique pas pour la Suisse, Andorre, Monaco et autres pays francophones.  
   
 **Pour la France, tous les Produits Partenaires bénéficient des garanties légales dues par le vendeur en vertu du droit applicable, notamment de la garantie légale de conformité de 24 mois (Article L.217-4 et suivants du Code de la consommation) et de la garantie des vices cachés (articles 1641 et suivant du Code civil) ou toute autre garantie additionnelle proposée par le vendeur.  
-En cas question ou de doute concernant les garanties dues par le vendeur, nous vous invitons à le contacter par l’intermédiaire de SPARTOO en adressant un mail à adrianna@spartoo.com.**
+En cas question ou de doute concernant les garanties dues par le vendeur, nous vous invitons à le contacter par l’intermédiaire de SPARTOO en adressant un mail à adriana@spartoo.com.**
 
   
 
