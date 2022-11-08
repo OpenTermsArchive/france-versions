@@ -63,7 +63,7 @@ We also have a [Privacy Policy](https://discord.com/privacy), [Community Guideli
 
 Together, these rules make Discord possible, and they matter to us. If you believe others aren’t following them, please let us know: [https://dis.gd/report](https://dis.gd/report).
 
-‍**IMPORTANT NOTE:The section titled “Settling Disputes Between You and Discord” contains an arbitration clause and class-action waiver that applies to all U.S.-based Discord users. Please read this section carefully as it may significantly affect your legal rights, including your right to file a lawsuit in court.**
+‍**IMPORTANT NOTE: The section titled “Settling Disputes Between You and Discord” contains an arbitration clause and class-action waiver that applies to all U.S.-based Discord users. Please read this section carefully as it may significantly affect your legal rights, including your right to file a lawsuit in court.**
 
 Who we are
 ----------
