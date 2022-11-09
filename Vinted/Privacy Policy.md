@@ -1,7 +1,7 @@
 Vinted Politique de confidentialité
 ===================================
 
-Date de la dernière mise à jour : 18/10/2022
+Date de la dernière mise à jour : 07/11/2022
 
 Chez Vinted, dès lors qu’il s’agit de vos données à caractère personnel, la sécurité et la transparence sont des priorités absolues. Afin de vous aider à comprendre quelles sont les informations que nous collectons à votre sujet, comment nous les utilisons et quels sont vos droits, nous avons rédigé la présente Politique de confidentialité détaillée.
 
