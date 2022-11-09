@@ -218,7 +218,7 @@ Cas particuliers :
 En cas d’annulation de la carte cadeau, aucun retour ne sera accepté en magasin. Le Client devra contacter le service clients Web par email à l’adresse : retractation@camaieu.com ou par téléphone 03.61.26.10.08 (Appel non surtaxé depuis la France métropolitaine. Depuis la Belgique et le Luxembourg, l'appel sera facturé comme un appel international vers la France au tarif propre à l'opérateur).
 
 \- La collection Lingerie  
-La collection cérémonie est vendue exclusivement dans [certains magasins CAMAIEU de France](https://www.camaieu.fr/Content/conditions-generales-de-vente) et sur le site [camaieu.fr](https://www.camaieu.fr/). Les articles sont à retourner dans leur état d’origine, non portés, non lavés et etiquetés permettant leur commercialisation à l’état neuf.
+La collection cérémonie est vendue exclusivement dans certains magasins CAMAIEU de France et sur le site [camaieu.fr](https://www.camaieu.fr/). Les articles sont à retourner dans leur état d’origine, non portés, non lavés et etiquetés permettant leur commercialisation à l’état neuf.
 
 |     |     |
 | --- | --- |
@@ -658,7 +658,7 @@ Cas particuliers :
 En cas d’annulation de la carte cadeau, aucun retour ne sera accepté en magasin. Le Client devra contacter le service clients Web par email à l’adresse : retractation@camaieu.com ou par téléphone 03.61.26.10.08 (Appel non surtaxé depuis la France métropolitaine. Depuis la Belgique et le Luxembourg, l'appel sera facturé comme un appel international vers la France au tarif propre à l'opérateur).
 
 \- La collection Lingerie  
-La collection cérémonie est vendue exclusivement dans [certains magasins CAMAIEU de France](https://www.camaieu.fr/Content/conditions-generales-de-vente) et sur le site [camaieu.fr](https://www.camaieu.fr/). Les articles sont à retourner dans leur état d’origine, non portés, non lavés et etiquetés permettant leur commercialisation à l’état neuf.
+La collection cérémonie est vendue exclusivement dans certains magasins CAMAIEU de France et sur le site [camaieu.fr](https://www.camaieu.fr/). Les articles sont à retourner dans leur état d’origine, non portés, non lavés et etiquetés permettant leur commercialisation à l’état neuf.
 
 |     |     |
 | --- | --- |
