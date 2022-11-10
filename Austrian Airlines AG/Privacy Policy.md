@@ -5,7 +5,7 @@ La sécurité est une priorité absolue pour Austrian Airlines AG. Naturellement
 
 [Notre promesse concernant la protection des données](https://www.austrian.com/fr/fr/data-protection#data-protection-promise)
 
-[Informations concernant la protection des données](https://www.austrian.com/fr/fr/data-protection#data-protection-information)
+[Informations sur la protection des données](https://www.austrian.com/fr/fr/data-protection#data-protection-information)
 
 [Cookies du navigateur](https://www.austrian.com/fr/fr/browser-cookies#browser-cookies)
 
@@ -34,21 +34,20 @@ Nous promettons de traiter vos données personnelles avec soin et de manière co
 
 * * *
 
-Informations concernant la protection des données
--------------------------------------------------
+Informations sur la protection des données
+------------------------------------------
 
-**Version : 2.0  
-****À partir du : 5 novembre 2021**
+**Novembre 2022**
 
 ### Préambule
 
-Dans la politique de confidentialité suivante, Austrian Airlines AG souhaite clarifier auprès des utilisateurs du site Internet austrian.com, quelles sont les données personnelles qui y sont traitées.
+Dans la politique de confidentialité suivante, Austrian Airlines AG souhaite clarifier auprès des utilisateurs du site Internet austrian.com quelles sont les données personnelles qui y sont traitées.
 
 De plus, les [Conditions générales de transport](http://www.austrian.com/fr/fr/legal/conditions-of-carriage) pour la réalisation des vols s’appliquent.
 
 Pour faciliter la lisibilité, la présente politique de confidentialité ne fait pas de distinction entre les hommes et les femmes. Les conditions pertinentes s’appliquent dans tous les cas aux deux sexes, conformément à l’égalité des sexes.
 
-### 1\. Autorité responsable
+### 1\. Contrôleur de données
 
 Austrian Airlines AG (Office Park 2, Postbox 100, 1300 Vienna Airport, Autriche ; désigné par « nous » dans la suite du document) vous fournit ici des informations concernant le traitement de vos données personnelles qui entrent dans votre utilisation du site Internet austrian.com.
 
@@ -147,11 +146,11 @@ Lorsque vous réservez un vol via le site Internet austrian.com, les données pe
 
 Indépendamment de la destination du voyage, les données personnelles suivantes peuvent, ou doivent être indiquées :
 
-* date de naissance
+* Date de naissance
 * nationalité et informations de passeport
 * Informations de visa
 
-Nous n’accédons à vos données personnelles que dans le but d’exécuter le contrat de transport, d’émettre votre billet de vol souhaité, et de vous envoyer une confirmation de réservation. Votre confirmation de réservation sera envoyée non codée par les canaux électroniques. De plus, nous traitons vos données de réservation personnelles dans le cadre légal uniquement, ou selon votre accord. Si vous nous indiquez des informations sur votre santé lors de votre réservation de vols pour que nous puissions répondre à vos besoins médicaux en matière d’assistance, nous n’utiliserons ces données que pour vous fournir ces services. Elles pourront également être partagées avec des tiers (comme des aéroports, contrôles de sécurité, etc.) pour vous garantir ces services.
+Nous ne traitons vos données personnelles que dans le but d’exécuter le contrat de transport, d’émettre le billet de vol que vous souhaitez, et de vous envoyer un reçu passager. Votre reçu passager est non codé et envoyé électroniquement. De plus, nous traitons vos données de réservation personnelles dans le cadre légal uniquement, ou selon votre accord. Si vous nous indiquez des informations sur votre santé lors de votre réservation de vols pour que nous puissions répondre à vos besoins médicaux en matière d’assistance, nous n’utiliserons ces données que pour vous fournir ces services. Elles pourront également être partagées avec des tiers (comme des aéroports, contrôles de sécurité, etc.) pour vous garantir ces services.
 
 En cas d’utilisation d’autres services de notre site Internet concernant votre vol (ex. : téléchargement de journaux électroniques), les données personnelles collectées ne seront utilisées que pour la réalisation du contrat.
 
@@ -169,6 +168,65 @@ Lorsque vous utilisez notre enregistrement en ligne, nous traitons les données 
 
 Nous ne traitons vos données personnelles que pour l’exécution du contrat de transport. Veuillez noter que nous enregistrons vos données de passager et d’enregistrement. En principe, la durée de conservation est de trois ans, à moins que d’autres intérêts légaux ou légitimes n’empêchent la suppression de telles données.
 
+#### 4.3 Assistant virtuel
+
+Vous pouvez utiliser l’assistant virtuel d’Austrian Airlines pour nous contacter et communiquer avec nous sur notre site Internet austrian.com
+
+[Aller vers l’assistant virtuel](http://www.austrian.com/fr/fr/Zum%20Chat%20Assistant)
+
+Nous vous recommandons d’être prudent quant au partage de vos données à caractère personnel et de ne fournir des informations à l’assistant virtuel que si cela est nécessaire pour le service que vous souhaitez obtenir.
+
+#### Quelles fonctions pouvez-vous utiliser et dans quel but traitons-nous vos données ?
+
+Si vous contactez l’assistant virtuel via un webchat, un nom d’utilisateur pseudonyminé basé sur la session vous sera assigné. Ce que vous saisissez ainsi que les réponses de l’assistant virtuel seront enregistrés avec ce nom d’utilisateur.
+
+Toutes les données que vous saisissez dans le webchat au cours de la conversation avec l’assistant virtuel sont passées à un prestataire de traitement de données et traitées dans le but de répondre à vos demandes. Les données saisies dans la fonction de chat seront analysées pour gérer votre demande et seront comparées avec les fonctionnalités et les informations que nous avons fournies à notre prestataire de traitement de données. S’il est impossible de répondre à votre demande lors de cette étape avec un dialogue inclus dans le logiciel, les données que vous avez saisies seront partagées avec un autre prestataire de traitement de données qui les analysera avec un logiciel spécial et les comparera avec une base de données de connaissances dont nous fournissons également le contenu. Les données correspondant au texte que vous avez saisi vous seront envoyées en retour.
+
+La base légale permettant de traiter vos données est :
+
+* Art. 6(1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue
+* Art. 6(1)(1)(f) du RGPD afin de protéger nos intérêts légitimes pour la constatation, l’exercice et la défense de droits en justice.
+
+**b) Fonction de chat en direct**
+
+Si l’assistant virtuel ne peut pas traiter vos questions et vos demandes, la fonction de chat en direct de l’assistant virtuel vous permet de contacter les membres de notre Service Centre. Si vous utilisez ce dialogue en direct, ces derniers recevront les données que vous avez saisies durant le dialogue, et répondront à votre demande via l’assistant virtuel sur notre page Internet.
+
+La base légale permettant de traiter vos données est :
+
+* Art. 6(1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue
+* Art. 6(1)(1)(f) du RGPD afin de protéger notre intérêt légitime pour la prévention de la fraude et pour la constatation, l’exercice et la défense de droits en justice.
+
+ **c) Fonction commentaires**
+
+Vous pouvez aussi nous envoyer vos commentaires concernant les informations fournies par l’assistant virtuel en utilisant les fonctions « Pouce en l’air » et « Pouce vers le bas ». Vos commentaires seront stockés avec les informations de l’assistant virtuel. Si vous voulez faire un commentaire concernant l’assistant virtuel, vous devez en faire explicitement la demande par écrit. Vous aurez ensuite la possibilité de saisir votre commentaire par écrit dans le webchat.
+
+La base légale pour traiter vos données est l’Art. 6(1)(1)(f) du RGPD pour protéger notre intérêt légitime d’améliorer les fonctions de l’assistant virtuel sur la base de vos commentaires.
+
+**e) Amélioration de la qualité**
+
+Nous analysons tous vos dialogues et vos commentaires pour améliorer les fonctionnalités de l’assistant virtuel. Pour cela, toutes les références vous concernant sont éliminées pour que seules des données anonymisées soient utilisées à ces fins, et que vos données ne puissent pas être analysées ou reliées à vous.
+
+#### Qui sont les destinataires de vos données ?
+
+Pour traiter les demandes que vous faites via l’assistant virtuel, nous partageons vos données à caractère personnel avec d’autres compagnies affiliées au sein du Lufthansa Group, ou avec des entreprises extérieures.
+
+Nous nous réservons le droit de révéler des informations vous concernant si cela est requis par la loi ou si les autorités compétentes ou les tribunaux nous le demandent.
+
+[Previous column](#)[Next column](#)
+
+| **Entreprise** | **Activité** |
+| --- | --- |
+| **Entreprise** | **Activité** |
+| **Microsoft Ireland Operations Limited  <br>**Atrium Building Block B  <br>Carmenhall Road  <br>Sandyford Industrial Estate  <br>Dublin 18  <br>Irlande | Traitement de données autorisé.  <br>Base de données d’informations : Si votre demande ne peut être traitée de façon satisfaisante, le texte que vous avez saisi sera transféré à la compagnie de traitement de données Microsoft. Cette entreprise le soumettra à une analyse de discours et le comparera à une base de données des connaissances. Les données qui correspondent au texte saisi vous seront envoyées en retour. Microsoft reçoit uniquement le texte que vous avez saisi pendant l’échange avec l’assistant virtuel (y compris toutes les données à caractère personnel que vous avez envoyées dans ce contexte).<br><br>Traductions dans la fonction de chat en direct :  <br>Pour vous connecter plus rapidement avec un agent dans la fonction de chat en direct, nous utilisons un logiciel qui sert de traducteur entre vous et l’agent. |
+| **Lufthansa Global Tele Sales GmbH (Lufthansa InTouch)  <br>**Ullsteinstrasse 118  <br>Building 1A  <br>12109 Berlin  <br>Allemagne | Traitement de données autorisé.  <br>Lufthansa Global Tele Sales GmbH emploie des agents qui seront en contact avec vous via la fonction de chat en direct. |
+| **Mindpearl Ltd.  <br>**Caribbean Plaza, 2nd Floor, North Building  <br>878 West Bay Road  <br>Grand Cayman  <br>KY1-1003  <br>Îles Caïmans | Traitement de données autorisé.  <br>Mindpearl Ltd. emploie des agents qui seront en contact avec vous via la fonction de chat en direct. |
+| **Genesys Telecommunications Lab. GmbH  <br>**Joseph-Wild-Strasse 20  <br>80337 Munich  <br>Allemagne | Traitement de données autorisé.  <br>Genesys Telecommunications Lab. GmbH fournit le logiciel lié à Cognigy qui permet aux agents de discuter avec vous grâce à la fonction de chat en direct. |
+| **Cognigy GmbH  <br>**Speditionsstrasse 1, Sign Building  <br>40221 Düsseldorf  <br>Allemagne | Traitement de données autorisé.  <br>Cognigy GmbH fournit le NLP, qui signifie Natural Language Processing (traitement du langage naturel) et décrit les techniques et méthodes pour le traitement machine du langage naturel. Ces données sont hébergées sur les serveurs de Cognigy et ne sont pas partagées avec des tiers. |
+
+#### Quand vos données sont-elles supprimées ?
+
+Nous supprimons les données transférées via l’assistant virtuel au bout de 30 jours. La durée de conservation de 30 jours des fonctions de l’assistant virtuel n’affecte pas la durée de conservation de toutes les données à caractère personnel traitées pour remplir le contrat de transport. Veuillez vous référer à nos Conditions générales de transport et aux détails correspondants de notre politique de confidentialité.
+
 ### 5\. Correspondance avec le programme de voyageur fréquent
 
 Quand vous réservez un vol ou effectuez un enregistrement en ligne, vous pouvez indiquer un programme de voyageur fréquent en renseignant votre numéro de voyageur fréquent afin de gagner du crédit de miles.
@@ -177,26 +235,25 @@ Veuillez prendre note des informations relatives à la protection des données p
 
 #### Star Alliance Biometrics
 
-Star Alliance Biometrics est un produit de Star Alliance et permet l’identification biométrique volontaire (reconnaissance faciale) du passager à l’aéroport. Austrian Airlines propose actuellement des services biométriques aux points d’accès suivants : embarquement aux aéroports de Vienne, Francfort et Munich selon les vols choisis.
+Star Alliance Biometrics est un produit de Star Alliance et permet l’identification biométrique volontaire (reconnaissance faciale) du passager à l’aéroport. Austrian Airlines propose actuellement des prestations biométriques aux points d’accès suivants : embarquement pour certains vols aux aéroports de Vienne, Francfort, Hambourg et Munich.
 
-L’enregistrement à Star Alliance Biometrics se fait directement auprès de Star Alliance.
+L’enregistrement à Star Alliance Biometrics se fait directement auprès de Star Alliance. Pour plus de renseignements sur l’enregistrement, veuillez lire
 
-[Pour en savoir plus sur l’enregistrement, veuillez lire la politique de confidentialité de Star Alliance.](https://www.staralliance.com/en/apps-privacy-policy)
+[la politique de confidentialité de Star Alliance](https://www.staralliance.com/de/apps-privacy-policy)
 
 Austrian Airlines traite les données personnelles suivantes :
 
-* Votre numéro Miles & More ainsi que les informations figurant sur votre carte d’embarquement sont transmis à Star Alliance pour constituer un fichier d’identification spécifique au jour en question (« Galerie du jour »). Pour les utilisateurs enregistrés, cela est effectué sur la base de leur consentement, conformément à l’art. 6(1)(1)(a) du RGPD ;
-* À l’aéroport, une courte séquence vidéo est enregistrée aux points d’accès/dispositifs de la compagnie Austrian Airlines équipés du système de reconnaissance faciale Star Alliance Biometrics. Une photo en est extraite pour vous identifier.  
-    Ce traitement est effectué pour les utilisateurs enregistrés sur la base de leur consentement, conformément à l’art. 6(1)(1)(a) RGPD ; pour les passagers non enregistrés, tels ceux qui passent par hasard aux points de contact, ces données sont traitées dans l’intérêt d’un bon déroulement des opérations, conformément à l’art. 6. alinéa 1 f) du RGPD.
+* Votre numéro Miles & More ainsi que les informations figurant sur votre carte d’embarquement sont transmis à Star Alliance afin de constituer un fichier d’identification spécifique pour le jour en question (« Galerie du jour »). Pour les utilisateurs enregistrés, cette opération est effectuée sur la base de leur consentement, conformément à l’art. 6(1)(1)(a) du RGPD.
+* À l’aéroport, une courte séquence vidéo est enregistrée aux points/dispositifs d’accès de la compagnie Austrian Airlines équipés du système biométrique Star Alliance Biometrics. Une photo en est extraite pour vous identifier. Pour les utilisateurs enregistrés, cela est effectué sur la base de leur consentement conformément à l’Article 6(1)(1)(a) du RGPD ; pour les utilisateurs potentiels disposant d’un numéro Miles & More, autrement dit les passagers qui ne sont pas encore enregistrés à Star Alliance Biometrics, cette opération est effectuée conformément à l’Article 6(1)(1)(f) du RGPD, afin de garantir le bon déroulement du processus.
 
 **Catégories de bénéficiaires**
 
-* Austrian Airlines fait appel à des prestataires de services informatiques ayant l’obligation contractuelle de respecter la protection et la sécurité des données conformément au RGPD.
-* Austrian Airlines transmet les données à Star Alliance comme décrit ci-dessus.
+* Austrian Airlines fait appel à des Service Providers informatiques ayant l’obligation contractuelle de respecter la protection et la sécurité des données, conformément au RGPD.
+* Austrian Airlines transmet les données mentionnées plus haut à Star Alliance.
 
 **Durée de conservation des données**
 
-* Vos données sont supprimées dès que le processus d’identification est terminé ou que vos données ont été transmises. Les données des voyageurs non inscrits sont immédiatement supprimées.
+* Vos données sont supprimées des points/dispositifs d’accès dès que le processus d’identification est terminé ou que vos données ont été transmises. Les données des passagers non-enregistrés sont supprimées immédiatement.
 * Le fichier d’identification spécifique au jour en question (« Galerie du jour ») est généré et traité sous la responsabilité de Star Alliance et est supprimé deux heures après le départ de chaque vol.
 
 Vous pouvez à tout moment retirer votre consentement à l’utilisation de l’identification biométrique. Rendez-vous pour cela dans la section de gestion du profil de l’application Star Alliance Navigator et supprimez votre profil biométrique. Le retrait de votre consentement n’affecte en rien la légalité des traitements réalisés sur la base de ce consentement avant que ce dernier n’ait été retiré.
@@ -208,7 +265,7 @@ Aucune prise de décision automatisée (y compris le profilage) n’est effectu�
 
 Si vous avez donné votre consentement, vous recevrez des informations, offres, enquêtes de satisfaction de la clientèle et bulletins d’information, y compris de compagnies partenaires, concernant le voyage de la part d’Austrian Airlines AG par e-mail, SMS, services de messagerie et téléphone.
 
-### 7\. Transmission de données personnelles aux tiers
+### 7\. Transfert de données personnelles à des tiers
 
 Les données personnelles que vous avez communiquées lors de la réservation d’un vol ne seront partagées avec des tiers (ex. : compagnies aériennes, aéroports, etc.) que pour l’exécution d’obligations contractuelles.
 
@@ -216,7 +273,7 @@ La transmission des données personnelles à des juridictions intérieures et é
 
 #### 7.1. Transmission des données personnelles aux autorités étrangères
 
-La collecte et la transmission des données personnelles à des institutions et autorités d’État ne sauraient être appliquées qu’en accord avec les exigences réglementaires applicables.
+Si des agences ou des autorités gouvernementales nous demandent de collecter ou de partager des données personnelles, nous le ferons uniquement en respectant le cadre juridique approprié.
 
 Veuillez noter que toutes les données fournies durant un processus de réservation peuvent être sujettes à transmission.
 
@@ -224,25 +281,27 @@ Veuillez noter que toutes les données fournies durant un processus de réservat
 
 Dans plusieurs pays, les compagnies aériennes ont l’obligation légale ou réglementaire de soumettre les données du passager avant l’atterrissage dans le pays de destination, c’est-à-dire si l’aéroport de destination ou de transit se situe dans l’un des pays concernés. En règle générale, ces clauses légales comprennent la transmission des données d’identification et des documents de voyage (passeport, visa) de tous les passagers présents à bord.
 
-Nous n’avons en général pas accès à ces données, c’est pourquoi elles doivent être collectées avant le départ. Cela est de plus en plus souvent réalisé au moyen de la « zone lisible par machine » des documents de voyage récents. La collecte de ces données a pour unique but la transmission directe aux autorités du pays de destination.
+Nous n’avons en général pas accès à ces données, c’est pourquoi elles doivent être collectées avant le départ. Cela est de plus en plus souvent réalisé au moyen de la « zone lisible par machine » des documents de voyage récents. Ces informations ne sont collectées qu’à des fins de transmission immédiate aux autorités du pays.
 
 #### 7.3. Vol sécurisé
 
-Conformément aux réglementations de l’Administration pour la sécurité des transports (TSA), vous êtes dans l’obligation d’indiquer votre nom complet, votre date de naissance et votre sexe à des fins de contrôle des listes de surveillance, conformément au 49 U.S.C. section 114 de la Loi sur la réforme des renseignements et la prévention du terrorisme de 2004 et 49 C.F.R. parties 1540 et 1560. Si disponible, vous pouvez également fournir votre numéro de recours. Si vous n’indiquez pas votre nom complet, votre date de naissance et votre sexe, le transport ou le droit d’accès à la zone d’embarquement pourra vous être refusé. Dans le cadre de son système d’archives publiques, la TSA peut échanger les données que vous avez fournies avec les autorités de contrôle, les services de renseignement et d’autres organisations.
+Conformément aux réglementations de l’Administration pour la sécurité des transports (TSA), vous êtes dans l’obligation d’indiquer votre nom complet, votre date de naissance et votre sexe à des fins de contrôle des listes de surveillance, conformément au 49 U.S.C. section 114 de la Loi sur la réforme des renseignements et la prévention du terrorisme de 2004 et 49 C.F.R. parties 1540 et 1560. Le cas échéant, vous pouvez également fournir votre numéro de réparation. Dans le cas où vous ne nous indiquez pas votre nom complet, votre date de naissance et votre sexe, vous pourriez être soumis(e) à un refus de transport ou à un refus d’entrée dans la zone d’embarquement. La TSA est en droit d’échanger les informations que vous lui avez fournies et qui sont contenues dans son système d’archivage avec les forces de police, les services de renseignements et autres organisations.
 
-Vous trouverez de plus amples informations sur la Politique de confidentialité de la TSA, le système de documentation et les implications en matière de protection des données sur le site Web de la TSA à [_​_www.tsa.gov](http://www.tsa.gov/).
+Vous trouverez d’autres informations sur les directives de protection des données et le système d’archivage de la TSA, ainsi que sur les implications liées à la protection des données sur la page Internet de la TSA
+
+[​www.tsa.gov](https://www.tsa.gov/)
 
 ### 8\. Collecte des données de contact
 
 Conformément au règlement UE n° 996/2010 (Règlement UE n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l’aviation civile et abrogeant la directive 94/56/CE), nous vous offrons la possibilité de saisir sur notre site Internet le nom, le numéro de téléphone ou l’adresse email de la personne à contacter en cas d’accident aérien. Ces informations ne seront utilisées qu’à cette fin et seront supprimées après le dernier vol effectué.
 
-Veuillez noter : Ces données ne sont pas associées à votre réservation ; et si vous changez votre réservation, vous devrez saisir de nouveau ces informations.
+Veuillez noter : Ces données ne sont pas associées à votre réservation ; et si vous changez de réservation, vous devrez les saisir de nouveau.
 
 ### 9\. Intérêts légitimes
 
 Si nous traitons vos données, dans notre intérêt légitime, en dehors des objectifs mentionnés ci-dessus, ce sera pour les objectifs suivants :
 
-* pour réclamer, défendre ou faire valoir des demandes légales ;
+* pour la constatation, l’exercice ou la défense des droits en justice ;
 * pour la transparence et le développement des processus commerciaux soumis aux délais de conservation indiqués.
 
 ### 10\. Révision des transactions de paiement
@@ -251,9 +310,7 @@ Austrian Airlines AG effectue la révision des transactions de paiement en lien 
 
 ### 11\. Utilisation des cookies
 
-[Renseignez-vous sur les cookies et leur utilisation](https://www.austrian.com/fr/fr/browser-cookies)
-
-* * *
+[Découvrez ce que sont les cookies et à quoi ils servent](https://www.austrian.com/gc/de/browser-cookies)
 
 ### 12\. Utilisation des outils d’analyse Internet
 
@@ -263,15 +320,11 @@ Nous utilisons Adobe Analytics, la solution Adobe Online Marketing Cloud, pour h
 
 [Veuillez cliquer ici pour désactiver la collecte des données par Adobe Online Marketing Suite.](http://austrianairlines.122.2o7.net/optout.html?locale=de_DE)
 
-* * *
-
 #### ClickTale
 
 Nous utilisons le service d’analyse ClickTale sur notre site Internet. ClickTale peut enregistrer les clics et les mouvements de la souris ainsi que le type de défilement. De plus, ClickTale enregistre les entrées de votre formulaire de réservation, nous permettant ainsi d’optimiser le processus. Nous utilisons les informations traitées par ClickTale pour améliorer en continu notre site Internet et le rendre le plus convivial possible.
 
 [Veuillez cliquer ici pour désactiver la collecte des données par ClickTale.](http://www.clicktale.net/disable.html)
-
-* * *
 
 ### 13\. Austrian Career Cockpit
 
@@ -291,14 +344,14 @@ Si vous souhaitez retirer votre consentement pour la publication de vos photos, 
 
 Austrian Airlines AG met en œuvre des procédures techniques et organisationnelles de sécurisation des données, contre leur manipulation accidentelle et intentionnelle, leur perte ou leur destruction, ou encore contre leur accès à des personnes non-autorisées. Les mesures de protection des données d’Austrian Airlines AG sont en constante évolution, et ce pour nous assurer que nos procédures techniques en matière de sécurité restent toujours au niveau des derniers standards de développement technologique. De même, notre personnel Austrian Airlines AG en sécurité et protection des données suit une formation, et est soumis à des procédures organisationnelles conçues pour garantir un traitement des données sécurisé.
 
-### 16\. Droits des personnes concernées
+### 16\. Droits de la personne concernée
 
-Austrian Airlines AG est fermement résolu à rendre ses procédures de traitement des données claires et transparentes. Il est donc important que nos clients puissent non seulement retirer leur consentement, mais aussi exercer les droits suivants dont ils disposent :
+Austrian Airlines AG est fermement résolu à rendre ses procédures de traitement des données claires et transparentes. Il est donc important que nos clients puissent non seulement révoquer leur consentement, mais aussi exercer les droits suivants :
 
-* Droit à l’information
+* Droit d’accès aux informations
 * Droit de rectification de leurs données personnelles
 * Droit de suppression
-* Droit à la limitation du traitement
+* Droit de limitation du traitement
 * Droit à la portabilité des données
 * Cookies
 
@@ -313,18 +366,18 @@ Vous pouvez également nous envoyer ce type de demande par courrier postal :
 Austrian Airlines AG  
 Legal Office - Data Protection  
 Office Park 2  
-Postbox 100  
+PO Box 100  
 1 300 Vienna Airport
 
 Si vous avez des inquiétudes concernant la loi sur la protection des données, veuillez nous contacter par courrier à l’adresse indiquée ci-dessus, ou contacter le responsable de la protection des données de notre société en utilisant notre formulaire en ligne.
 
-Vous avez également le droit de déposer une plainte auprès de l’Autorité de protection des données en tant qu’autorité de contrôle compétente. L’autorité de protection des données compétente pour Austrian Airlines AG est :  
+En outre, si vous souhaitez faire une réclamation, vous avez le droit de contacter l’autorité de protection des données compétente pour qu’elle fasse office d’entité régulatrice. L’autorité de protection des données compétente pour Austrian Airlines AG est :  
 
 Austrian Data Protection Authority  
 Barichgasse 40-42  
-1030 Vienne
+1030 Vienne
 
-Téléphone : [_​_+43 (0) 52 152 – 0](tel:0043521520)  
+Tél. : [_​_+43 (0) 52 152 – 0](tel:0043521520)  
 E-mail : [_​_dsb@dsb.gv.at](mailto:dsb@dsb.gv.at)
 
 ### 17\. Limitation de responsabilité
@@ -333,8 +386,8 @@ Cette Politique de confidentialité s’applique au traitement des données pers
 
 * * *
 
-Que recevrez-vous via notre newsletter ?
-----------------------------------------
+Dans quel cas recevez-vous notre bulletin d’informations ?
+----------------------------------------------------------
 
 **Veuillez noter :** La notification par email que vous venez de recevoir peut contenir des informations confidentielles destinées à l’unique utilisation du destinataire mentionné dans l’en-tête de cet email. Si vous n’êtes pas le destinataire de ce message, toute utilisation, distribution ou reproduction de ce message est interdite.
 
@@ -372,10 +425,13 @@ Liens
 
 Vous trouverez de plus amples informations sur la collecte de données pour les autorités étrangères via les liens suivants :
 
-* [Conditions générales de transport d’Austrian](https://www.austrian.com/fr/fr/conditions-of-carriage)
-* [FAQ sur la Commission européenne](http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/07/294&format=HTML&aged=0&language=DE&guiLanguage=en)
-* [Accord entre l’Union européenne et les États-Unis d’Amérique sur le traitement des données relatives aux passagers](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22007A0804(01))
-* [Accord entre l’Union européenne et le gouvernement du Canada sur le traitement des données des passagers et des dossiers passagers étendus](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:22006A0321(01))
+[Conditions générales de transport d’Austrian Airlines](https://www.austrian.com/gc/de/befoerderungsbedingungen)
+
+[FAQ sur la Commission européenne](https://ec.europa.eu/commission/presscorner/detail/de/MEMO_07_294)
+
+[Accord entre l’Union européenne et les États-Unis d’Amérique sur le traitement des données relatives aux passagers](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007D0551)
+
+[Accord entre l’Union européenne et le gouvernement du Canada sur le traitement des données des passagers et des dossiers passagers étendus](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2006:082:0015:0019:DE:PDF)
 
 Collecte des données passagers pour les États-Unis
 --------------------------------------------------
@@ -389,7 +445,7 @@ Collecte des données passagers pour les États-Unis
 * Informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits, surclassements, etc.)
 * Autres noms sous le même code de réservation (accompagnants), y compris le numéro de toutes les personnes voyageant sous le même code de réservation
 * Toutes les informations de contact disponibles (y compris les informations sur le client)
-* Toutes les informations de paiement et de facturation disponibles (n’inclut pas d’autres informations de transfert en lien avec les informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage)
+* Toutes les informations de paiement et de facturation disponibles (sauf les informations de transfert en lien avec les informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage)
 * Plan de vol complet
 * Agence de voyages/Agent de voyages
 * Informations sur la compagnie aérienne exploitante
@@ -402,7 +458,9 @@ Collecte des données passagers pour les États-Unis
 * Entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API)
 * Chronologie des changements dans les champs de données 1-18
 
-Nous transmettons les données dans le cadre d’un [accord entre les gouvernements de l’Union européenne et des États-Unis](http://register.consilium.europa.eu/pdf/de/07/st11/st11595.de07.pdf).
+Nous transférons les données sur la base d’un
+
+[accord entre les gouvernements de l’Union européenne et des États-Unis.](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX%3A32007D0551)
 
 Collecte de données pour le Canada
 ----------------------------------
@@ -416,7 +474,7 @@ Collecte de données pour le Canada
 * Informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits, surclassements, etc.)
 * Autres noms sous le même code de réservation (accompagnants), y compris le numéro de toutes les personnes voyageant sous le même code de réservation
 * Toutes les informations de contact disponibles (y compris les informations sur le client)
-* Toutes les informations de paiement et de facturation disponibles (n’inclut pas d’autres informations de transfert en lien avec les informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage)
+* Toutes les informations de paiement et de facturation disponibles (sauf les informations de transfert en lien avec les informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage)
 * Plan de vol complet
 * Agence de voyages/Agent de voyages
 * Informations sur la compagnie aérienne exploitante
@@ -427,9 +485,11 @@ Collecte de données pour le Canada
 * Informations relatives au siège, y compris le numéro de siège
 * Remarques générales, y compris les données des autres informations (OSI), les données concernant des services spécifiques (SSI) et les données concernant des demandes relatives à des services spécifiques (SSR)
 * Entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API)
-* Chronologie des changements dans les champs de données 1-18
+* Chronologie des changements dans les champs de données 1-18 
 
-Nous transmettons les données dans le cadre d’un [accord entre les gouvernements de l’Union européenne et du Canada](http://www.canadainternational.gc.ca/eu-ue/index.aspx?lang=eng).
+Nous transférons les données sur la base d’un
+
+[accord entre les gouvernements de l’Union européenne et du Canada.](https://www.international.gc.ca/world-monde/international_relations-relations_internationales/eu-ue/index.aspx?lang=eng)
 
 * * *
 
@@ -446,6 +506,6 @@ Si vous souhaitez savoir en détail quelles sont les données à caractère pers
 
 Afin d’optimiser la conception de nos sites Internet et pour rendre votre navigation plus agréable, nous utilisons des cookies. Vous pouvez trouver plus d’informations sur l’utilisation des cookies dans notre politique de cookie sur notre site Internet.
 
-1 Nous prenons en charge votre demande dès que possible.  
+1 Nous traiterons votre requête dès que possible.  
 Les données fournies seront uniquement utilisées pour traiter votre demande. Austrian ne partagera vos données avec aucun tiers, sauf si des raisons légales l’y obligent.  
-Les communications par e-mail avec les compagnies aériennes du groupe Lufthansa ne sont pas cryptées. Veuillez en tenir compte, en particulier lorsque vous envoyez des données personnelles, telles que des noms, des coordonnées ou des informations de voyage et, surtout, évitez d’indiquer ces données dans l’objet du message.
+Les communications par email avec les compagnies aériennes de Lufthansa Group ne sont pas cryptées. Veuillez en tenir compte, en particulier lorsque vous envoyez des données personnelles, telles que votre nom, vos coordonnées ou vos informations de voyage et, surtout, évitez d’indiquer ces données dans l’objet du message.
