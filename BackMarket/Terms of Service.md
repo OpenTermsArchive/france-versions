@@ -2,7 +2,7 @@ CONDITIONS GÉNÉRALES D'UTILISATION | BACK MARKET
 
 
 
-OCTOBRE 2022
+Novembre 2022
 
 
 
@@ -10,59 +10,39 @@ POUR CONSULTER LES PRÉCÉDENTES CONDITIONS GÉNÉRALES D’UTILISATION, CLIQUEZ
 
 
 
-Sommaire
+Article 1. Qui sommes-nous ? Que proposons nous ? 1
 
+Article 2. Quelques définitions 2
 
+Article 3. Comment créer un compte client ? 2
 
-Qui sommes-nous ? Que proposons nous ? 2
+Article 4. Quelles sont les règles d’utilisation de la Plateforme ? 2
 
+Article 5. Quels sont les Services proposés sur la Plateforme et quel est leur prix ? 3
 
+Article 6. Comment payer sur la Plateforme ? 4
 
-Quelques définitions 2
+Article 7. Comment fonctionne le porte monnaie virtuel ? 4
 
+Article 8. Comment clôturer votre compte client ? 4
 
+Article 9. Comment communiquer avec Back Market et faire une réclamation ? 5
 
-Comment créer un compte client ? 2
+Article 10. Qui est responsable des services et des Produits ? 5
 
+Article 11. Et vos données personnelles ? 6
 
-
-Quelles sont les règles d’utilisation de la Plateforme ? 3
-
-
-
-Quels sont les Services proposés sur la Plateforme et quel est leur prix ? 3
-
-
-
-Comment payer sur la Plateforme ? 4
-
-
-
-Comment fonctionne le porte monnaie virtuel? 4
-
-
-
-Comment clôturer votre compte client ? 4
-
-
-
-Comment communiquer avec Back Market et faire une réclamation ? 5
-
-
-
-Qui est responsable des services et des Produits ? 6
-
-
-
-Et vos données personnelles ? 6
-
-
-
-Que faire si vous n’êtes pas satisfait ? 6
+Article 12. Que faire si vous n’êtes pas satisfait ? 6
 
 
 
 Annexe 1 : Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois) 7
+
+Annexe 2 : Paiement en 10 ou 12 fois avec frais 8
+
+
+
+\*\*\*\*\*\*\*\*\*\*\*\*
 
 
 
@@ -70,45 +50,45 @@ Annexe 1 : Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois)
 
 Article 1. Qui sommes-nous ? Que proposons nous ?
 
-1.1 La société JUNG SAS (“Back Market”) dont le siège social est situé 199 rue
+1.1 La société JUNG SAS (“Back Market”) dont le siège social est situé 199 rue Championnet
 
-Championnet 75018 Paris et immatriculée au Registre du Commerce et des Sociétés de
+75018 Paris et immatriculée au Registre du Commerce et des Sociétés de Paris sous le n°804
 
-Paris sous le n°804 049 476, met à la disposition de l’Utilisateur, une Plateforme sous le nom
+049 476, met à la disposition de l’Utilisateur, une Plateforme sous le nom « Back Market »
 
-« Back Market » ayant pour objet de le mettre en relation avec des Vendeurs.
+ayant pour objet de le mettre en relation avec des Vendeurs.
 
-1.2 Back Market intervient comme intermédiaire hébergeur, n’est pas Vendeur des
+1.2 Back Market intervient comme intermédiaire hébergeur, n’est pas Vendeur des Produits
 
-Produits proposés et n’est donc pas responsable des Produits vendus via la Plateforme, ce
+proposés et n’est donc pas responsable des Produits vendus via la Plateforme, ce que
 
-que l’Utilisateur reconnaît expressément. Par ailleurs, sauf mention contraire, Back Market
+l’Utilisateur reconnaît expressément. Par ailleurs, sauf mention contraire, Back Market n’est
 
-n’est pas un distributeur agréé par une marque.
+pas un distributeur agréé par une marque.
 
-1.3 Les présentes conditions d'utilisation (CGU) ont pour objet de fixer les règles d’accès
+1.3 Les présentes conditions d'utilisation (CGU) ont pour objet de fixer les règles d’accès à la
 
-à la Plateforme et d’utilisation des services proposés sur la Plateforme. Elles ne régissent
+Plateforme et d’utilisation des services proposés sur la Plateforme. Elles ne régissent pas les
 
-pas les relations entre les Utilisateurs et les Vendeurs qui sont soumises aux conditions
+relations entre les Utilisateurs et les Vendeurs qui sont soumises aux conditions générales de
 
-générales de vente, accessibles ici. Par conséquent, l’utilisateur comprend et reconnaît que
+vente, accessibles ici. Par conséquent, l’Utilisateur comprend et reconnaît que toute question
 
-toute question ou réclamation relative à l’achat d’un Produit sur la plateforme est régi par les
+ou réclamation relative à l’achat d’un Produit sur la plateforme est régi par les conditions
 
-conditions générales de vente qui sont consultables ici.
+générales de vente qui sont accessibles ici.
 
-1.4 Les CGU sont applicables à tout utilisateur qui navigue sur la Plateforme, qu’il ait ou
+1.4 Les CGU sont applicables à tout Utilisateur qui navigue sur la Plateforme, qu’il ait ou non
 
-non procédé à son inscription sur la Plateforme.
+procédé à son inscription sur la Plateforme.
 
 
 
 Article 2. Quelques définitions
 
-Toutes les fois que, dans les présentes CGU les mots ci-après seront écrits, au singulier ou
+Toutes les fois que, dans les présentes CGU les mots ci-après seront écrits, au singulier ou au
 
-au pluriel, avec une lettre majuscule, ils auront la signification suivante :
+pluriel, avec une lettre majuscule, ils auront la signification suivante :
 
 
 
@@ -118,11 +98,15 @@ pour acheter des Produits à des fins non commerciales.
 
 
 
-CGU désigne les présentes conditions générales d’utilisation qui régissent
+CGU désigne les présentes conditions générales d’utilisation qui régissent les
 
-les relations entre les Utilisateurs et Back Market
+relations entre les Utilisateurs et Back Market
 
-Fiche Produit désigne la fiche de description d’un Produit, renseignée par le Vendeur.
+
+
+Fiche Produit désigne la fiche de description d’un Produit, renseignée par le
+
+Vendeur.
 
 
 
@@ -136,13 +120,19 @@ Plateforme désigne le site Internet accessible à l’adresse www.backmarket.fr
 
 l’application correspondante.
 
-Produits désignent des produits vendus sur la Plateforme. Sauf mention
 
-contraire, les produits vendus sur la Plateforme sont des produits
 
-d’occasion qui ont été reconditionnés.
+Produits désignent des produits vendus sur la Plateforme. Sauf mention contraire,
+
+les produits vendus sur la Plateforme sont des produits d’occasion qui ont été
+
+reconditionnés.
+
+
 
 Services désignent les services proposés par Back Market sur la Plateforme.
+
+
 
 Vendeur(s) désigne(nt) tout vendeur professionnel de Produits inscrit sur la
 
@@ -152,17 +142,21 @@ Plateforme.
 
 Article 3. Comment créer un compte client ?
 
-3.1 Les CGU doivent être acceptées, sans réserve, par chaque utilisateur de la
+3.1 Les CGU doivent être acceptées, sans réserve, par chaque Utilisateur de la Plateforme.
 
-Plateforme. L’utilisateur prend le soin de lire les CGU, de les accepter et de les enregistrer sur
+L’Utilisateur prend le soin de lire les CGU, de les accepter et de les enregistrer sur support
 
-support durable. Le refus des CGU lors de la création de son compte client empêche
+durable. Le refus des CGU lors de la création de son compte client empêche l’Utilisateur de
 
-l’utilisateur de pouvoir créer son compte client et/ou donc de pouvoir passer commande sur
+pouvoir créer son compte client et/ou donc de pouvoir passer commande sur la Plateforme.
 
-la Plateforme. Les CGU étant susceptibles d’évoluer, l’Utilisateur est invité à être vigilant, les
+Les CGU étant susceptibles d’évoluer, l’Utilisateur est invité à être vigilant, les CGU ayant pu
 
-CGU ayant pu évoluer entre deux visites successives sur la Plateforme.
+
+
+2
+
+évoluer entre deux visites successives sur la Plateforme.
 
 3.2 La création d’un compte client n’est autorisée qu’aux personnes physiques majeures
 
@@ -172,17 +166,15 @@ qui n’agissent pas à des fins professionnelles.
 
 
 
-2
-
 Article 4. Quelles sont les règles d’utilisation de la Plateforme ?
 
-4.1 L’utilisateur fournit des informations exactes, complètes afin de garantir le bon
+4.1 L’Utilisateur fournit des informations exactes, complètes afin de garantir le bon
 
 déroulement des Services.
 
 4.2 Les identifiants de connexion (adresse e-mail et mot de passe) sont strictement
 
-personnels et l’utilisateur s’engage à maintenir la confidentialité de son mot de passe. Dans
+personnels et l’Utilisateur s’engage à maintenir la confidentialité de son mot de passe. Dans
 
 l’hypothèse où l’Utilisateur aurait connaissance d’un accès à son compte client par un tiers,
 
@@ -190,29 +182,29 @@ l’Utilisateur s’engage à en informer Back Market sans délai en remplissant
 
 disponible sous ce lien.
 
-4.3 L'utilisateur s’engage à ne créer et à n’utiliser qu’un seul compte client quel que soit
+4.3 L'Utilisateur s’engage à ne créer et à n’utiliser qu’un seul compte client quel que soit
 
 l’extension du site (backmarket.fr, backmarket.de, backmarket.es, backmarket.it....) depuis
 
-lequel il accède à la Plateforme, sauf autorisation expresse de Back Market. L’utilisateur dont
+lequel il accède à la Plateforme, sauf autorisation expresse de Back Market. L’Utilisateur dont
 
 le compte a été clos par Back Market a interdiction de créer un nouveau compte, sauf
 
 autorisation expresse de Back Market.
 
-4.4 L'utilisateur s’engage (i) à ne pas harceler les autres utilisateurs (clients, vendeurs) de
+4.4 L'Utilisateur s’engage (i) à ne pas harceler les autres Utilisateurs (clients, vendeurs) de la
 
-la Plateforme (ii) à ne pas tenir des propos dénigrants, calomnieux, diffamatoires,
+Plateforme (ii) à ne pas tenir des propos dénigrants, calomnieux, diffamatoires,
 
 discriminatoires ou racistes sur la Plateforme, et plus généralement contrevenant aux textes
 
 légaux ou réglementaires en vigueur, aux droits des personnes, à l'ordre public et aux bonnes
 
-mœurs (iii) à ne pas obtenir des informations concernant les autres utilisateurs, ni
+mœurs (iii) à ne pas obtenir des informations concernant les autres Utilisateurs, ni
 
 manuellement, ni à l’aide de méthodes automatisées ou accéder à un compte personnel
 
-appartenant à un autre utilisateur (iv) et à ne pas tenter de mettre en péril le bon
+appartenant à un autre Utilisateur (iv) et à ne pas tenter de mettre en péril le bon
 
 fonctionnement de la Plateforme. En particulier, lorsqu’il dépose un avis ou un commentaire
 
@@ -220,21 +212,21 @@ sur un Produit ou un Vendeur, l’Utilisateur s’engage à le faire dans le res
 
 des Vendeurs et des tiers.
 
-4.5 L’utilisateur reconnaît que tous les éléments contenus sur la Plateforme, tels que, et
+4.5 L’Utilisateur reconnaît que tous les éléments contenus sur la Plateforme, tels que, et sans
 
-sans que cette liste ne soit exhaustive, les textes, commentaires, illustrations, images,
+que cette liste ne soit exhaustive, les textes, commentaires, illustrations, images, éléments
 
-éléments sonores, dénominations sociales, marques et autres signes distinctifs, ainsi que les
+sonores, dénominations sociales, marques et autres signes distinctifs, ainsi que les éléments
 
-éléments composant la Plateforme, tels que les bases de données et toute technologie
+composant la Plateforme, tels que les bases de données et toute technologie sous-jacente
 
-sous-jacente (ci-après, les “Eléments”) sont protégés ou susceptibles d’être protégés par des
+(ci-après, les “Eléments”) sont protégés ou susceptibles d’être protégés par des droits de
 
-droits de propriété intellectuelle, tels que le droit d’auteur, le droit des marques, le droit des
+propriété intellectuelle, tels que le droit d’auteur, le droit des marques, le droit des dessins et
 
-dessins et modèles, le droit sui generis des bases de données, etc.
+modèles, le droit sui generis des bases de données, etc.
 
-En conséquence, L’utilisateur reconnaît que sont strictement interdits:
+En conséquence, L’Utilisateur reconnaît que sont strictement interdits:
 
 - toute reproduction, représentation, modification ou adaptation de la Plateforme et/ou
 
@@ -258,29 +250,29 @@ données) de la Plateforme.
 
 Article 5. Quels sont les Services proposés sur la Plateforme et quel est leur prix ?
 
-5.1 Back Market propose différents services aux utilisateurs, comme par exemple, le
+5.1 Back Market propose différents services aux Utilisateurs, comme par exemple, le service
 
-service de mise en relation avec les Vendeurs, la mise à disposition d’un compte client, le
+de mise en relation avec les Vendeurs, la mise à disposition d’un compte client, le paiement
 
-paiement sécurisé et les nombreuses démarches qualité dont le détail est fourni sur la
+sécurisé et les nombreuses démarches qualité dont le détail est fourni sur la Plateforme. Les
 
-Plateforme. Les Services de contrôle qualité sont payants pour l’Utilisateur qui passe une
+Services de contrôle qualité sont payants pour l’Utilisateur qui passe une commande sur la
 
-commande sur la Plateforme, le montant exact des services qui est payé par l'utilisateur à
-
-Back Market est indiqué avant la confirmation de commande par l’Utilisateur. Ces frais de
-
-service permettent à Back Market de s’investir dans de nombreuses démarches qualité, avec
-
-pour objectif d’assurer la meilleure expérience du reconditionné, d’offrir un service client
+Plateforme, le montant exact des services qui est payé par l'Utilisateur à Back Market est
 
 
 
 3
 
-réactif et disponible, et d’innover pour améliorer continuellement notre service et notre
+indiqué avant la confirmation de commande par l’Utilisateur. Ces frais de service permettent à
 
-qualité et pour créer de nouveaux services à l’attention des clients.
+Back Market de s’investir dans de nombreuses démarches qualité, avec pour objectif d’assurer
+
+la meilleure expérience du reconditionné, d’offrir un service client réactif et disponible, et
+
+d’innover pour améliorer continuellement notre service et notre qualité et pour créer de
+
+nouveaux services à l’attention des clients.
 
 5.2 Back Market propose également différents services aux Vendeurs sur sa Plateforme,
 
@@ -300,15 +292,15 @@ Vendeurs, et dont les conditions sont régies par des conditions générales ven
 
 applicables entre Back Market et les Vendeurs.
 
-5.3 Back Market agit toujours comme intermédiaire entre les Acheteurs et les Vendeurs,
+5.3 Back Market agit toujours comme intermédiaire entre les Acheteurs et les Vendeurs, et
 
-et n’est pas partie au contrat de vente conclu entre les Acheteurs et les Vendeurs. Back
+n’est pas partie au contrat de vente conclu entre les Acheteurs et les Vendeurs. Back Market
 
-Market n’est ni vendeur, ni revendeur, ni distributeur des Produits, et n’en n’a ni la propriété, ni
+n’est ni vendeur, ni revendeur, ni distributeur des Produits, et n’en n’a ni la propriété, ni la
 
-la possession. Aussi, Back Market ne garantit pas la sécurité, la conformité ou la régularité
+possession. Aussi, Back Market ne garantit pas la sécurité, la conformité ou la régularité des
 
-des Produits, et ne saurait être tenu responsable à cet égard.
+Produits, et ne saurait être tenu responsable à cet égard.
 
 
 
@@ -330,7 +322,7 @@ Market.
 
 6.2 Code de paiement ou de réduction. Lors de l’achat d’un Produit sur la Plateforme,
 
-l’utilisateur peut utiliser un code de paiement, de réduction ou un code promotionnel. Ces
+l’Utilisateur peut utiliser un code de paiement, de réduction ou un code promotionnel. Ces
 
 codes sont valables sur l’ensemble des Produits mis en vente sur la Plateforme jusqu’à leur
 
@@ -356,7 +348,7 @@ Annexe 1 et précisées par le partenaire avant la conclusion du contrat de prê
 
 
 
-Article 7. Comment fonctionne le porte monnaie virtuel?
+Article 7. Comment fonctionne le porte monnaie virtuel ?
 
 L'Utilisateur dispose d'un porte-monnaie électronique disponible sur son compte client. Le
 
@@ -372,17 +364,17 @@ L'Utilisateur peut, à tout moment, transférer la totalité ou une partie de so
 
 Article 8. Comment clôturer votre compte client ?
 
-8.1 Clôture du compte client par l’utilisateur : L’Utilisateur peut librement clôturer son
+8.1 Clôture du compte client par l’Utilisateur : L’Utilisateur peut librement clôturer son
+
+
+
+4
 
 compte client à tout moment et sans préavis en se rendant sur son compte client ou en
 
 écrivant à legal@backmarket.com ou par courrier à Back Market, Service Juridique, 199 rue
 
 Championnet, 75018 Paris, en indiquant ses nom, prénom, e-mail et adresse utilisée pour
-
-
-
-4
 
 créer le compte client. Dans le cas d’une commande en cours, l’Utilisateur comprend que la
 
@@ -398,7 +390,7 @@ manquement de l’Utilisateur, Back Market en informe l’Utilisateur en lui adr
 
 électronique détaillant les raisons de clôture et la date de clôture du compte.
 
-8.3 En cas de clôture, l’utilisateur est invité à télécharger les informations et factures
+8.3 En cas de clôture, l’Utilisateur est invité à télécharger les informations et factures
 
 relatives à son historique de commande afin d’en conserver une copie locale et durable. En
 
@@ -420,33 +412,25 @@ inversement, de transmettre la réponse du Vendeur à l’Acheteur par courrier 
 
 Article 9. Comment communiquer avec Back Market et faire une réclamation ?
 
-9.1 Demandes et réclamations relatives aux services : Le service clients de Back Market
+9.1 Demandes et réclamations relatives aux services : Le service clients de Back Market est
 
-est joignable au 01 70 77 24 93 ou en ligne en remplissant le formulaire disponible sous ce
+joignable au 01 70 77 24 93 ou en ligne en remplissant le formulaire disponible sous ce lien. Il
 
-lien. Il est à la disposition des utilisateurs pour toute question ou réclamation relative aux
+est à la disposition des Utilisateurs pour toute question ou réclamation relative aux Services
 
-Services ou à la Plateforme.
+ou à la Plateforme.
 
 9.2 Demandes et réclamations relative à une commande : Pour toute question ou
 
 réclamation concernant les Produits, les garanties, le droit de rétractation, la livraison etc., les
 
-demandes et réclamations peuvent être adressées aux Vendeurs par l’utilisateur via son
+demandes et réclamations peuvent être adressées aux Vendeurs par l’Utilisateur via son
 
-compte client. Le service clients Back Market fera ses meilleurs efforts pour relayer la
+compte client. Le service clients Back Market fera ses meilleurs efforts pour y répondre ou
 
-question ou réclamation au Vendeur, qui est seul responsable du traitement des réclamation
+relayer la question ou réclamation au Vendeur, qui est seul responsable du des Produits qu’il
 
-ainsi que du service après-vente et plus généralement des Produits qu’il vend sur la
-
-Plateforme. Back Market peut également intervenir, dans les conditions décrites dans les
-
-conditions générales de vente, dans le cas où l’utilisateur rencontrerait une difficulté avec un
-
-Vendeur. En aucun cas, la responsabilité de Back Market ne saurait être engagée au titre de
-
-la vente d’un Produit.
+vend sur la Plateforme.
 
 
 
@@ -462,7 +446,7 @@ l’accès aux services et à la Plateforme pour effectuer des réparations, des
 
 maintenance, et/ou ajouter et/ou faire évoluer une fonctionnalité et/ou un service. Back
 
-Market ne peut être tenue en cas d'impossibilité pour l’utilisateur d’utiliser tout ou partie d’un
+Market ne peut être tenue en cas d'impossibilité pour l’Utilisateur d’utiliser tout ou partie d’un
 
 Service ou de la Plateforme.
 
@@ -498,7 +482,19 @@ de traitement. En outre, Back Market utilise des cookies. Les politiques sur les
 
 personnelles et les cookies sont détaillées dans les documents « Protection des données
 
-personnelles » et « Cookies Policy ».
+personnelles » et « Politique de cookies ».
+
+L'Utilisateur est informé qu'il peut se désabonner des e-mails promotionnels envoyés par Back
+
+Market à tout moment en se rendant sur la rubrique “mon profil” de son compte client ou en
+
+cliquant sur le lien de désinscription figurant sur chaque e-mail promotionnel que Back
+
+Market lui envoie.
+
+Pour toute demande d’assistance relative à une commande, l'Utilisateur peut contacter le le
+
+Vendeur via son compte client.
 
 
 
@@ -514,21 +510,21 @@ mettre en œuvre les diligences nécessaires en vue de parvenir à une résoluti
 
 leur litige.
 
-12.3 L’Utilisateur est informé qu’il peut, s’il le souhaite, recourir gratuitement à un
+12.3 L’Utilisateur est informé qu’il peut, s’il le souhaite, recourir gratuitement à un médiateur
 
-médiateur de la consommation en vue de la résolution amiable du litige qui l’oppose à Back
+de la consommation en vue de la résolution amiable du litige qui l’oppose à Back Market. A
 
-Market. A cet égard, l’Utilisateur peut soit (i) utiliser gratuitement la plateforme en ligne de
+cet égard, l’Utilisateur peut soit (i) utiliser gratuitement la plateforme en ligne de résolution
 
-résolution des litiges mise en place par le Commission Européenne disponible en cliquant
+des litiges mise en place par le Commission Européenne disponible en cliquant sur ce lien
 
-sur ce lien soit (ii) prendre attache avec le médiateur du e-commerce de la FEVAD
+soit (ii) prendre attache avec le médiateur du e-commerce de la FEVAD (Fédération du e-
 
-(Fédération du e- commerce et de la vente à distance) dont les coordonnées sont les
+commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La
 
-suivantes : 60 Rue La Boétie – 75008 Paris. Pour connaître les modalités de saisine du
+Boétie – 75008 Paris. Pour connaître les modalités de saisine du Médiateur de la FEVAD,
 
-Médiateur de la FEVAD, l'Utilisateur peut cliquer ici.
+l'Utilisateur peut cliquer ici.
 
 Si l’Utilisateur n’a pas souhaité bénéficier de la médiation, si la médiation n’a pas été
 
@@ -546,10 +542,6 @@ du lieu de la livraison effective du Produit.
 
 6
 
-\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*
-
-
-
 Annexe 1 : Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois)
 
 
@@ -564,15 +556,15 @@ proposée par le prestataire de Back Market, à savoir la société Oney Bank - 
 
 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr. Cette
 
-solution de financement permet au Souscripteur de payer ses commandes d’un montant compris
+solution de financement permet au Souscripteur de payer ses commandes d’un montant compris entre
 
-entre 200 € et 3000 € TTC (frais de livraison inclus) en 3 ou 4 fois avec sa carte bancaire, étant précisé
+200 € et 3000 € TTC (frais de livraison inclus) en 3 ou 4 fois avec sa carte bancaire, étant précisé que
 
-que ces seuils de 200 et 3000€ sont amenés à évoluer.
+ces seuils de 200 et 3000€ sont amenés à évoluer.
 
-1.2 Les conditions du paiement en 3 ou 4 fois avec frais : la solution de financement en 3 ou 4 fois
+1.2 Les conditions du paiement en 3 ou 4 fois avec frais : la solution de financement en 3 ou 4 fois est
 
-est réservée aux Souscripteurs. Les cartes à autorisation systématique notamment de type Electron,
+réservée aux Souscripteurs. Les cartes à autorisation systématique notamment de type Electron,
 
 Maestro, Nickel etc... ainsi que les e-cards, les cartes Indigo et American Express ne permettent pas de
 
@@ -655,3 +647,111 @@ Le coût du financement sera de 8,80€ dans la limite de 20€ maximum.
 
 
 7
+
+Annexe 2 : Paiement en 10 ou 12 fois avec frais
+
+
+
+1.1 Le paiement en 10 ou 12 fois avec frais : Lors de l’achat d’un Produit sur la Plateforme, le
+
+Souscripteur peut utiliser la solution de financement proposée par le prestataire de Back Market, à savoir
+
+la société Oney Bank - SA au capital de 51 286 585€ - Siège social : 34 avenue de Flandre 59170 CROIX -
+
+RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr/welcome - Correspondance : CS
+
+60006 - 59 895 Lille Cedex 9 - www.oney.fr. Cette solution de financement permet au Souscripteur de
+
+payer ses commandes d’un montant compris entre 200 € et 3000 € TTC (frais de livraison inclus) en 10
+
+ou 12 fois avec sa carte bancaire, étant précisé que ces seuils de 200 et 3000€ sont amenés à évoluer.
+
+
+
+Notre partenaire Oney Bank vous propose une offre de financement par carte bancaire sans assurance
+
+valable de 200€ d’achats jusqu’à 3000€ en 10 fois ou 12 fois au TAEG fixe de 16,90% et taux débiteur fixe
+
+de 15,68% à 15,71%.
+
+
+
+1.2 Les conditions du paiement en 10 ou 12 fois avec frais : Cette offre de crédit affectée est réservée
+
+aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire
+
+Visa et MasterCard française possédant une date de validité supérieure à 3 mois à compter du
+
+financement choisi (le “Souscripteur”). Les cartes à autorisation systématique notamment de type
+
+Electron, Maestro, Nickel etc... ainsi que les e-cards, les cartes Indigo et American Express ne sont pas
+
+acceptées. Le paiement en 10 ou 12 fois n’est possible qu’à partir d’un montant total TTC de commande
+
+de 200 € et que jusqu’à 3 000€.
+
+
+
+1.3 Modalités de souscription : pour bénéficier de la solution de financement en 10 ou 12 fois, le
+
+Souscripteur clique sur le bouton « paiement en 10x 12x Oney par carte bancaire » au moment de choisir
+
+son mode de paiement. Le Souscripteur est alors redirigé vers la page internet Oney, notre partenaire,
+
+affichant le récapitulatif détaillé de votre commande et la demande de financement personnalisée, qu’il
+
+doit ensuite valider et signer. Le Souscripteur est alors invité à saisir ses informations personnelles. Le
+
+Souscripteur prend connaissance des conditions générales de paiement en plusieurs fois auquel il
+
+souhaite souscrire, qui lui sont fournies sous format PDF afin qu’il puisse en prendre connaissance,
+
+avant de les accepter. Le Souscripteur notifie ensuite son acceptation par signature électronique. Sauf
+
+preuve contraire, les données enregistrées par Oney constituent la preuve de l’ensemble des transactions
+
+passées entre vous et Oney. Si le Souscripteur a demandé à bénéficier d’une solution de financement
+
+proposée par Oney, les informations en rapport à votre commande seront transmises à Oney, qui les
+
+utilisera à des fins d’étude de votre demande pour l’octroi, la gestion et le recouvrement de crédit. Oney
+
+se réserve le droit d’accepter ou de refuser votre demande de financement en 10 ou 12 fois par carte
+
+bancaire. Le Souscripteur dispose d’un délai de rétractation de 14 jours pour renoncer à son crédit.
+
+
+
+1.4 Fonctionnement et détail des frais : Le financement en 10 ou 12 fois par carte bancaire permet au
+
+Souscripteur de régler la commande effectuée de la façon suivante :
+
+
+
+• un apport obligatoire, débité le jour de la confirmation de votre commande correspondant à
+
+pourcentage de la commande,
+
+
+
+• un échelonnement du reste du montant de la commande TTC sur le nombre de mensualités restantes;
+
+
+
+Exemple : Pour un achat de 600€ en 10 fois, vous réglez un apport de 60€ suivi de 9 mensualités de 64€.
+
+Montant du financement : 576€. Coût du financement : 36€. Montant total dû : 576€. Taux débiteur
+
+annuel fixe de 15,70%. Crédit affecté sur 9 mois au TAEG fixe de 16,90%.
+
+
+
+Conditions particulières pour les offres promotionnelles ponctuelles, signalées sur le site : Exemple pour
+
+un achat de 600€ en 10 fois, vous réglez un apport de 60€ suivi de 9 mensualités de 60€, Montant du
+
+financement : 540€. Taux débiteur annuel fixe 0%. Crédit affecté sur 9 mois au TAEG fixe de 0%.
+
+
+
+8
