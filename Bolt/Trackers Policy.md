@@ -72,8 +72,8 @@ Statistic cookies help us understand how you interact with our website by collec
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_device\_id\_ | food.bolt.eu | Pending | Persistent | HTML Local Storage |
-| \_ga \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 2 years | HTTP Cookie |
-| \_ga\_# \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 2 years | HTTP Cookie |
+| \_ga \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 399 days | HTTP Cookie |
+| \_ga\_# \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 399 days | HTTP Cookie |
 | \_gat \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to throttle request rate | 1 day | HTTP Cookie |
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
