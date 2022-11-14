@@ -161,11 +161,11 @@ Les expéditions vers des boîtes postales ne sont pas acceptées.
 
 A compter de la validation de la Commande, le délai habituel de préparation avant expédition est le suivant :
 
-\- validation de la Commande du lundi au vendredi avant 8h30 (heure française) : préparation et expédition le jour même ;
+\- validation de la Commande du lundi au vendredi avant 8h (heure française) : préparation et expédition le jour même ;
 
-\- validation de la Commande du lundi au jeudi après 8h30 (heure française) : préparation et expédition le lendemain ;
+\- validation de la Commande du lundi au jeudi après 8h (heure française) : préparation et expédition le lendemain ;
 
-\- validation de la Commande le vendredi après 8h30 (heure française) : préparation et expédition le lundi suivant.
+\- validation de la Commande le vendredi après 8h (heure française) : préparation et expédition le lundi suivant.
 
 **7.3 Délai de livraison**
 
