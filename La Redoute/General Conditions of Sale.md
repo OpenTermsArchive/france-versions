@@ -506,8 +506,9 @@ Si votre ancien produit a un poids inférieur à 40 kg, il peut être déposé d
 [Où trouver un point de collecte Equipement Electriques ou Electronique ?](https://www.ecosystem.eco/fr/recherche-point-de-collecte?gclid=Cj0KCQiA2ZCOBhDiARIsAMRfv9JN5cDc87lcczyuUfZvXUJMWH-kE51p-Dd5YvxYXausNYnu4JGK-pQaAsEdEALw_wcB)
 
 **Faire reprendre le produit à votre domicile**  
-S’il s’agit d’un produit encombrant (dont le poids est supérieur à 40 kg), il peut être repris à domicile lors de la livraison du nouveau Produit. Pour cela, vous devez en **faire la demande auprès du transporteur, lors de la livraison (aucune reprise ne pourra avoir lieu ultérieurement)**. Pour ce faire, l’ancien produit doit respecter certaines conditions et doit être "prêt-à-emporté" :  
-\- Pour les Equipements Electriques ou Electroniques : les congélateurs, réfrigérateurs, lave-linge et sèche-linge doivent être débranchés, vidés et vidangés. De façon générale, les Equipements Electriques ou Electroniques doivent être en état de propreté et pouvoir être manipulés sans danger ; - Pour les Eléments d’ameublement : les meubles doivent être en état de propreté, démontés, rangés de façon sécurisée, pouvoir être manipulés sans danger et rassemblés dans une même pièce.  
+S’il s’agit d’un produit encombrant (dont le poids est supérieur à 40 kg), il peut être repris à domicile lors de la livraison du nouveau Produit. Pour cela, contactez-nous : nous informerons le transporteur de votre choix (aucune reprise ne pourra avoir lieu ultérieurement). Pour ce faire, l’ancien produit doit respecter certaines conditions et doit être "prêt-à-emporté" :  
+\-Pour les Equipements Electriques ou Electroniques : les congélateurs, réfrigérateurs, lave-linge et sèche-linge doivent être débranchés, vidés et vidangés. De façon générale, les Equipements Electriques ou Electroniques doivent être en état de propreté et pouvoir être manipulés sans danger ;  
+\-Pour les Eléments d’ameublement : les meubles doivent être en état de propreté, démontés, rangés de façon sécurisée, pouvoir être manipulés sans danger et rassemblés dans une même pièce.  
 **Si le produit ne respecte pas ces conditions de préparation, le transporteur ne pourra pas le reprendre. Dans ce cas, Vous devrez vous tourner vers les points de collecte visés ci-dessus.**
 
 **9.2. REACH**  
