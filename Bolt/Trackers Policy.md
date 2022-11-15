@@ -23,25 +23,23 @@ Your consent ID: 0Consent date:
 
   
 
-Cookie declaration last updated on 20/10/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Cookie declaration last updated on 14/11/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (34)
+Necessary (30)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_cf\_bm \[x4\] | pipedrive.com  <br>pipedriveassets.com  <br>support.taxify.eu  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| \_\_cf\_bm \[x2\] | support.taxify.eu  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
 | \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | \_cq\_check \[x2\] | eudevil.mcangelus.com | Determines whether the user has accepted the cookie consent box. | Session | HTTP Cookie |
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
-| \_GRECAPTCHA | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 179 days | HTTP Cookie |
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
 | cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x11\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
-| debug | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to detect errors on the website - this information is sent to the website's support staff in order to optimize the visitor's experience on the website. | Persistent | HTML Local Storage |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
@@ -49,9 +47,9 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_username | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | test\_cookie | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
-| ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
+| ZD-suid | bolt.eu | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (15)
+Preferences (13)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -59,10 +57,8 @@ Preference cookies enable our website to remember information that changes the w
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | @@scroll# \[x2\] | bolt.eu | Pending | Session | HTML Local Storage |
-| @locali18nLng | bolt.eu | Pending | Persistent | HTML Local Storage |
 | \_bolt\_blog\_language | blog.bolt.eu | Pending | 1 day | HTTP Cookie |
-| boltcityname | geo.bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
-| boltcountrycode | geo.bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
+| boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
 | CookieConsentBulkSetting-# | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | Persistent | HTML Local Storage |
 | iso\_code | static.tildacdn.com | Used by tilda for identification of the User without taking additional measures. | Persistent | HTML Local Storage |
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
@@ -70,7 +66,7 @@ Preference cookies enable our website to remember information that changes the w
 | mid | [Instagram](https://help.instagram.com/519522125107875 "Instagram's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their Instagram application for example. | 2 years | HTTP Cookie |
 | taxifyDriverPortal\_locale | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
-| ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
+| ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
 Statistics (49)
 
@@ -112,7 +108,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (66)
+Marketing (57)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -123,7 +119,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_\_mpq\_#\_# \[x2\] | fleets.bolt.eu  <br>cdn.mxpnl.com | Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. | Persistent | HTML Local Storage |
 | \_\_tld\_\_ | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | Session | HTTP Cookie |
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
-| \_cq\_tuid \[x3\] | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
+| \_cq\_tuid \[x3\] | bolt.eu  <br>eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
 | \_fbp | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | \_gcl\_au \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
 | \_hjRecordingEnabled | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
@@ -136,16 +132,12 @@ Marketing cookies are used to track visitors across our website. The intention i
 | AF\_SESSION | [Google](https://policies.google.com/privacy "Google's privacy policy") | Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. | Persistent | HTML Local Storage |
 | AF\_SYNC | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Vimeo to track usage of their embedded video player. | 7 days | HTTP Cookie |
 | afUserId | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Vimeo to track usage of their embedded video player. | 400 days | HTTP Cookie |
-| ajs%3Acookies | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | 1 year | HTTP Cookie |
-| ajs%3Atest | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | 1 year | HTTP Cookie |
-| ajs\_group\_id | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Persistent | HTML Local Storage |
-| ajs\_group\_properties | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Persistent | HTML Local Storage |
-| ajs\_user\_id \[x2\] | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. | Persistent | HTML Local Storage |
-| ajs\_user\_traits | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Persistent | HTML Local Storage |
+| ajs\_user\_id | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Collects data on visitors' preferences and behaviour on the website - This information is used make content and advertisement more relevant to the specific visitor. | Persistent | HTML Local Storage |
 | bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | dismissedBanners | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
 | experiments-fingerprint | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
 | experiments-raw | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
+| fr  | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ "Meta Platforms, Inc.'s privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | IDE | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 1 year | HTTP Cookie |
 | mp\_#\_mixpanel \[x4\] | bolt.eu  <br>business.bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Pending | 1 year | HTTP Cookie |
 | NID | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. | 6 months | HTTP Cookie |
@@ -163,13 +155,12 @@ Marketing cookies are used to track visitors across our website. The intention i
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
 | VISITOR\_INFO1\_LIVE | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Tries to estimate the users' bandwidth on pages with integrated YouTube videos. | 179 days | HTTP Cookie |
 | www-claim-v2 | [Instagram](https://help.instagram.com/519522125107875 "Instagram's privacy policy") | Used for sharing content onto the social platform Instagram - This functionality is used for gathering information on visitor preferences for marketing purposes. | Session | HTML Local Storage |
-| WZRK\_ARP \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used by Clevertap | Persistent | HTML Local Storage |
+| WZRK\_ARP | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Pending | Persistent | HTML Local Storage |
 | WZRK\_G | [CleverTap](https://clevertap.com/privacy-policy/ "CleverTap's privacy policy") | Pending | 10 years | HTTP Cookie |
 | WZRK\_G | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Pending | Persistent | HTML Local Storage |
-| WZRK\_L \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used by Clevertap. This cookie contains details regarding the events (event name and properties) that are sent to CleverTap Platform. | Persistent | HTML Local Storage |
-| WZRK\_META \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Used by Clevertap.This cookie stores session related details (timestamp of previousSession, currentSession, sessionCount) and few other properties that help in determining if we have to show the popup on notification.push. | Persistent | HTML Local Storage |
+| WZRK\_L | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Pending | Persistent | HTML Local Storage |
+| WZRK\_META | [Segment](https://segment.com/docs/legal/privacy/ "Segment's privacy policy") | Pending | Persistent | HTML Local Storage |
 | WZRK\_S\_R97-779-6R5Z | [Amazon](https://www.amazon.com/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=468496 "Amazon's privacy policy") | Pending | 1 day | HTTP Cookie |
-| WZRK\_S\_W65-47W-565Z | bolt.eu | Used by Clevertap. This cookie stores the session details like last session timestamp, number of sessions etc. | 1 day | HTTP Cookie |
 | YSC | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Session | HTTP Cookie |
 | ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
 
