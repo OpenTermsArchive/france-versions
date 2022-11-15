@@ -580,33 +580,33 @@ Pour les Produits expédiés par les Galeries Lafayette en France Métropolitain
 
 a) Demande en ligne depuis l’espace « Mon compte » :
 
-Etape 1 :
+Préparation du retour :
 
-\-          Le Client se connecte à son espace Client dans la rubrique « Suivi de mes commandes et de mes retours ».
+*  - Rendez-vous dans votre espace "MON COMPTE", rubrique "MES ACHATS ET RETOURS"
+*  - Choissiez la commande sur laquelle vous souhaitez effectuer un retour
+*  - Choissisez votre mode de retour : en magasin, en bureau de poste ou en point relais
+*  - Validez les conditions générales de ventes des Galeries lafayette en cochant la case.
 
-\-          Il choisit la commande sur laquelle il souhaite effectuer un retour.
+Retour en Click 1 Collect : 
 
-\-          Il sélectionne le ou les article(s) à retourner et indique les motifs du retour.
+* \- Il n'est pas obligatoire d'imprimer le bon de retour 
+* \- Munissez-vous de votre numéro de commande et déposez votre article dans l'espace C&C  du magasin de votre choix 
+* \- Aprés vérification des artcilcels, le remboursement est déclenché immédiatement
+* \- Vous recevrez par mail la confirmation de votre remboursement
 
-\-          Il imprime le document de retour (un pour chaque commande sélectionnée). Ce document contient deux parties : le bon de retour et l’étiquette de retour.
+ 
 
-  
+Retour en point relais ou bureau de poste :
 
-Pour les Clients ayant réglé en caisse avec les modes de paiement acceptés en Magasins, le Client pourra effectuer l’Etape 1 décrite ci-dessus, néanmoins le remboursement ne pourra intervenir qu’en Magasin après d’éventuelles vérifications et/ou authentification selon la nature du produit à rembourser.
+* \- Imprimez le document de retour. Ce document contient deux parties : votre bon de retour à  insérer dans le colis et l'étiquette transport.
 
-Etape 2 :
+* \- Découpez le bon de retour et joignez-la à vos articles
+* \- Refermez votre colis, puis collez l'étiquette transport
+* \- Déposez votre colis dans un point relais, en bureau de poste
+* \- Faire signer et tamponner votre preuve de dépôt
+* \- Le remboursement est déclenché dés réception et vérification de vos articles dans nos entrepôts, dans un délai maximum de 14 jours. 
 
-\-          Il dépose le ou les Produits à retourner dans le colis.
-
-\-          Il découpe le bon de livraison et le joint à ses Produits.
-
-\-          Il referme son colis, puis colle l’étiquette de retour.
-
-Etape 3 :
-
-\- Il peut déposer son colis dans un magasin Galeries Lafayette ou LE BHV MARAIS Parly 2, ou dans un bureau de poste ou dans le point relais choisi. Il fait signer et tamponner la preuve de dépôt avec la date du jour par le magasin Galeries Lafayette ou LE BHV MARAIS Parly 2 ou par le point relais choisi.
-
-En cas de retour dans un magasin Galeries Lafayette ou LE BHV MARAIS Parly 2, le Client est invité à présenter son bon de retour. Il est conseillé de garder le colis ouvert, les conseillers Clientèle du magasin vérifieront la marchandise avant de procéder au remboursement immédiat du Client. Une authentification des produits pourra être réalisée au préalable avant remboursement selon la nature des produits. Les colis déposés en bureau de poste ou dans un point de retrait Relais Colis seront remboursés par galerieslafayette.com à compter de la réception dans l’entrepôt des Galeries Lafayette. Les Produits Chaumet et Fred doivent, être exclusivement retournés par Chronopost. Un rendez-vous devra être fixé avec le transporteur pour enlèvement du colis. Le rendez-vous devra intervenir dans les plus brefs délais à compter de la réception par le Client de l'étiquette du transporteur, sauf impossibilité imputable au transporteur.
+Les Produits Chaumet et Fred doivent, être exclusivement retournés par Chronopost. Un rendez-vous devra être fixé avec le transporteur pour enlèvement du colis. Le rendez-vous devra intervenir dans les plus brefs délais à compter de la réception par le Client de l'étiquette du transporteur, sauf impossibilité imputable au transporteur.
 
 En toute hypothèse, le retour du Produit devra intervenir au plus tard dans le délai de 30 (trente) jours à compter de la livraison. Si par le fait du Client (retard dans la prise de rendez- vous avec le transporteur notamment), l’enlèvement du Produit ne pouvait intervenir dans le délai susvisé, les Galeries Lafayette seront en droit de considérer que le Client a renoncé à exercer son droit de rétractation ou de retour. Le produit sera soumis à expertise de la marque avant tout remboursement.
 
