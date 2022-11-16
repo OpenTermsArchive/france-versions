@@ -1,5 +1,7 @@
 Terms of Service
 
+_Effective from 23 November 2022, we are updating these Terms of Service to expand the services we provide on the Platform to include TikTok Now (which is being made available in selected countries) and to change the minimum age to go LIVE from 16 to 18. Please click_ _[here](https://www.tiktok.com/legal/page/eea/terms-of-service-nov/en)_ _to read the new terms._
+
 **(If you are a user having your residence in the European Economic Area, Switzerland and the UK)**
 
 _Last updated: June 2022_
