@@ -1,8 +1,10 @@
 Conditions générales de vente mises à jour le 1er septembre 2022
+================================================================
 
   
 
 ARTICLE 1 - OBJET
+-----------------
 
 Les présentes Conditions Générales de Vente sont conclues entre la société GO SPORT France, SAS au capital de 41 509 983,00 € dont le siège social est situé 17 Avenue de la Falaise, 38360 Sassenage, immatriculée au RCS de Grenoble sous le numéro 428 560 031 (ci-après dénommée « la Société ») et toute personne physique effectuant un achat (ci-après dénommée « le Client ») sur le site www.go-sport.com (ci-après désigné « le Site »).
 
@@ -35,7 +37,7 @@ Les commandes ne peuvent être passées que par des personnes physiques majeures
   
 
 ARTICLE 2 - PRODUITS COMMERCIALISÉS
-===================================
+-----------------------------------
 
 Le Client peut sélectionner un ou plusieurs produits parmi les différentes catégories proposées sur le Site. Il est précisé que la Société est susceptible de modifier à tout moment l’assortiment de produits proposés sur le Site, sans préjudice des commandes passées par le Client.
 
@@ -48,7 +50,7 @@ L'offre de produits proposée sur le Site peut être différente de celle propos
   
 
 ARTICLE 3 - DISPONIBILITÉ ET PRIX
-=================================
+---------------------------------
 
 Les offres de produits et de prix sont valables tant qu’elles sont visibles sur le Site. En cas d’offres promotionnelles, les prix indiqués seront valables pendant la période de l’offre, sur une sélection de produits.
 
@@ -67,7 +69,7 @@ Les produits demeurent la propriété de la Société jusqu’au complet paiemen
   
 
 ARTICLE 4 - COMMANDE
-====================
+--------------------
 
 La disponibilité des produits ainsi que le délai de livraison sont affichés sur le Site.
 
@@ -110,7 +112,7 @@ A expiration de ce délai, l’avis sera publié sur le site marchand. Un e-mail
   
 
 ARTICLE 5 - MODIFICATION DE LA COMMANDE
-=======================================
+---------------------------------------
 
 Toute demande de modification de la commande effectuée ne peut être prise en compte par la Société que si elle a été formulée auprès du Service Clients et si la commande n’a pas encore eu un contrôle Adyen NV positif. (voir modalités de contact à l’Article 15 ci-après). Une fois la commande contrôlée par Adyen NV il n’est plus possible de modifier/annuler la commande.
 
@@ -121,7 +123,7 @@ Les commandes web payées en magasin ne sont pas soumises au contrôle Adyen NV 
   
 
 ARTICLE 6 - RÉCLAMATIONS
-========================
+------------------------
 
 Toute réclamation relative à la réception de la commande (produit reçu abimé, pièce manquante, …) doit être effectuée auprès du Service Clients (voir modalités de contact à l’Article 15 ci-après) avant la fin du délai de rétractation, de quinze (15) jours suivant la réception de la commande pour les clients non adhérents au CLUB GO Sport et de trente (30) jours pour les clients adhérents.
 
@@ -130,7 +132,7 @@ Passé ce délai, les réclamations ne pourront être prises en compte par la So
   
 
 ARTICLE 7 - DROIT DE RÉTRACTATION
-=================================
+---------------------------------
 
 Le Client dispose d’un délai de quinze (15) jours francs à compter de la réception de sa commande pour notifier à la Société son intention de retourner tout produit ne lui convenant pas.
 
@@ -209,7 +211,7 @@ Remboursement suite à la rétractation :Conformément au code de la consommatio
   
 
 ARTICLE 8 - RETOUR
-==================
+------------------
 
 En dehors du droit de rétractation, le produit pourra être retourné en cas de non-conformité à la commande (erreur de référence ou produit abimé) ou de défectuosité (cf Article 11 - Garantie).
 
@@ -232,7 +234,7 @@ Plus de précision sur la procédure via Mondial Relay, via le lien ci-après [
   
 
 ARTICLE 9 - PAIEMENT DU PRIX
-============================
+----------------------------
 
 Le paiement est réalisé en ligne lors de la passation de la commande.
 
@@ -301,7 +303,7 @@ Offre strictement personnelle, valable une seule fois, non échangeable, non rem
   
 
 ARTICLE 10 - LIVRAISONS
-=======================
+-----------------------
 
 GO SPORT propose à ces Clients trois modes de livraison :
 
@@ -378,7 +380,7 @@ Le Client ne sera alors débité que du montant des produits disponibles de sa c
   
 
 ARTICLE 11 - GARANTIE LÉGALE
-============================
+----------------------------
 
 Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
@@ -419,7 +421,7 @@ Pour bénéficier de la garantie légale de conformité ou de la garantie des vi
   
 
 ARTICLE 12 - CAS SPÉCIFIQUE DES VÉLOS
-=====================================
+-------------------------------------
 
 Conformément à la loi d’orientation des mobilités du 24 décembre 2019 et son décret d’application n°2020-1439 du 23 novembre 2020, à compter du 1er juillet 2021, les vélos de plus 16 pouces vendus neufs par des professionnels disposeront d’un identifiant unique auquel seront associées les coordonnées du propriétaire. Cette identification obligatoire des vélos permet d’associé un vélo à son propriétaire.
 
@@ -430,7 +432,7 @@ En cas de changement de propriétaire, les textes susvisés prévoient que l’a
 En cas de retour du vélo dans le cadre des articles 7, 8 et 11 des présentes Conditions Générales de Vente ou dans l’hypothèse d’un colis qui n’aurait pas été livré ou retiré, le remboursement, le cas échéant, ne pourra intervenir qu’à compter de la déclaration faite auprès de l’opérateur du retour du vélo.
 
 ARTICLE 13 - DONNÉES PERSONNELLES
-=================================
+---------------------------------
 
 Protection de vos données à caractère personnel
 
@@ -441,7 +443,7 @@ Conformément à la loi informatique et Libertés et à la règlementation Europ
   
 
 ARTICLE 14 - PROPRIÉTÉ INTELLECTUELLE
-=====================================
+-------------------------------------
 
 L’ensemble du Site et chacun de ses éléments relèvent de la législation sur la propriété intellectuelle, notamment droits d’auteurs, dessins et modèles, marques, noms de domaine, logiciels ou bases de données… (sans que cette liste ne soit exhaustive).
 
@@ -456,7 +458,7 @@ En toute hypothèse, les liens hypertextes renvoyant au Site devront être retir
   
 
 ARTICLE 15 - RESPONSABILITÉ
-===========================
+---------------------------
 
 La Société ne pourra être tenue responsable et aucune indemnité ne pourra lui être demandée au titre des retards de livraison ou conséquences dommageables dus à des cas de force majeure tels que définis par la jurisprudence des cours et tribunaux français.
 
@@ -469,7 +471,7 @@ Le Site contient des informations provenant de tierces personnes, la Société n
   
 
 ARTICLE 16 - SERVICE CLIENTS
-============================
+----------------------------
 
 Pour toute information ou conseil, le Client peut contacter le Service Clients,
 
@@ -496,7 +498,7 @@ Attention : afin d’optimiser le traitement de ses demandes, le Client doit ind
   
 
 ARTICLE 17 - LOI APPLICABLE
-===========================
+---------------------------
 
 Les présentes Conditions Générales de Vente sont soumises à la loi française.
 
@@ -505,7 +507,7 @@ Tout litige n'ayant pas trouvé une solution amiable sera soumis à la compéten
   
 
 ARTICLE 18 - MÉDIATION DE LITIGES DE CONSOMMATION
-=================================================
+-------------------------------------------------
 
 L’ordonnance du 20 août 2015 et le décret n°2015-1382 du 30 octobre 2015 relatifs à la médiation des litiges de la consommation et faisant application de la directive 2013/11/UE du Parlement européen du 21 mai 2013, relative au règlement extrajudiciaire des litiges de consommation, donne la possibilité au consommateur de se référer à la médiation afin de faciliter le règlement à l’amabile des litiges avec un professionnel à l’occasion d’une vente passée depuis le site [go-sport.com](https://www.go-sport.com/)
 
