@@ -134,6 +134,11 @@ Nous déployons également des technologies de suivi provenant des tiers ci-dess
 * Objectif : Pour améliorer nos campagnes marketing, y compris pour suivre les conversions des publicités pour les publicités TikTok affichées sur Reddit, créer des publics ciblés, optimiser des publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs, et pour relancer les personnes qui ont déjà effectué des actions sur nos sites Web ou sur les publicités TikTok.
 * Durée : 24 mois
 
+* Pixel Criteo ([https://www.reddit.com/fr-fr/policies/privacy-policy](https://www.reddit.com/fr-fr/policies/privacy-policy))
+
+* Finalité : améliorer nos campagnes marketing, notamment pour suivre les conversions des publicités TikTok diffusées sur Criteo, constituer des audiences ciblées, optimiser les publicités TikTok sur les sites Web et les applications de tiers pour les visiteurs actuels et futurs et effectuer un remarketing auprès des personnes qui ont déjà pris des mesures sur nos sites Web ou sur les publicités TikTok.
+* Durée : 24 mois
+
 **3\. Comment accepter ou refuser les cookies**
 -----------------------------------------------
 
