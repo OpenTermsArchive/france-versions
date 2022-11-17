@@ -65,7 +65,7 @@ Conditions d'Utilisation
     
     ### 9\. TERRITOIRE
     
-    9.1. Les produits ne seront livrés par ASICS qu'aux clients situés en Autriche, en Belgique, au Danemark, en France, en Allemagne, aux Pays-Bas, au Portugal, en Espagne et en Italie.
+    9.1. Les produits seront livrés par ASICS aux clients situés uniquement en Autriche, Belgique, Danemark, Finlande, France, Allemagne, Italie, Irlande, Pays-Bas, Pologne, Portugal, Espagne, Suède et Royaume-Uni.
     
     ### 10\. PAIEMENT
     
