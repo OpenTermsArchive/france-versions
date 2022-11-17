@@ -278,7 +278,7 @@ Le Programme NAF GOLD est ouvert à toute personne physique, ayant plus de 18 an
    
 L’adhésion est payante au prix de 24 euros par an, payable en une fois lors de la souscription.  
    
-Le Programme NAF GOLF peut être souscrit par toute personne remplissant les conditions ci-dessus exposées, en ligne sur le site nafnaf.com, ou dans toutes les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10.2, à l’exception des boutiques NAF NAF OUTLET.  
+Le Programme NAF GOLD peut être souscrit par toute personne remplissant les conditions ci-dessus exposées, en ligne sur le site nafnaf.com, ou dans toutes les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10.2, à l’exception des boutiques NAF NAF OUTLET.  
    
 **_10.2 - Territoire du Programme NAF GOLD_**   
   
