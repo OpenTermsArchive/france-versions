@@ -583,24 +583,22 @@ a) Demande en ligne depuis l’espace « Mon compte » :
 Préparation du retour :
 
 *  - Rendez-vous dans votre espace "MON COMPTE", rubrique "MES ACHATS ET RETOURS"
-*  - Choissiez la commande sur laquelle vous souhaitez effectuer un retour
+*  - Choissisez la commande sur laquelle vous souhaitez effectuer un retour
+*  - Sélectionnez le ou les articles(s) à retourner et indiquez les motifs du retour
 *  - Choissisez votre mode de retour : en magasin, en bureau de poste ou en point relais
 *  - Validez les conditions générales de ventes des Galeries lafayette en cochant la case.
 
-Retour en Click 1 Collect : 
+Retour en Click & Collect : 
 
 * \- Il n'est pas obligatoire d'imprimer le bon de retour 
-* \- Munissez-vous de votre numéro de commande et déposez votre article dans l'espace C&C  du magasin de votre choix 
-* \- Aprés vérification des artcilcels, le remboursement est déclenché immédiatement
+* \- Munissez-vous de votre numéro de commande et déposez votre article dans l'espace C&C du magasin de votre choix 
+* \- Aprés vérification des articles, le remboursement est déclenché immédiatement
 * \- Vous recevrez par mail la confirmation de votre remboursement
 
- 
+Retour en point relais ou bureau de poste:
 
-Retour en point relais ou bureau de poste :
-
-* \- Imprimez le document de retour. Ce document contient deux parties : votre bon de retour à  insérer dans le colis et l'étiquette transport.
-
-* \- Découpez le bon de retour et joignez-la à vos articles
+* \- Imprimez le document. Ce document contient deux parties : votre bon de retour à insérer dans le colis et l'étiquette transport.
+* \- Découpez le bon de retour et joignez-le à vos articles
 * \- Refermez votre colis, puis collez l'étiquette transport
 * \- Déposez votre colis dans un point relais, en bureau de poste
 * \- Faire signer et tamponner votre preuve de dépôt
