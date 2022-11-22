@@ -1,10 +1,12 @@
-Charte de protection des données personnelles des clients
-=========================================================
+**Charte de protection des données personnelles des clients**
+=============================================================
 
   
 
-1\. Nos engagements dans la protection des données personnelles
----------------------------------------------------------------
+---
+
+**1\. Nos engagements dans la protection des données personnelles**
+-------------------------------------------------------------------
 
   
 
@@ -28,7 +30,7 @@ Quel que soit le canal de vente ou de contact que vous utilisez, GO Sport s’en
 
   
 
-### Les Grands Principes
+**Les Grands Principes**
 
   
 
@@ -48,12 +50,12 @@ GO Sport s’engage sur les principes essentiels pour le respect des droits fond
 
   
 
-2\. Nos usages de vos données personnelles
-------------------------------------------
+**2\. Nos usages de vos données personnelles**
+----------------------------------------------
 
   
 
-### 2.1 A quelles occasions collectons-nous vos données personnelles ?
+**2.1 A quelles occasions collectons-nous vos données personnelles ?**
 
   
 
@@ -73,7 +75,7 @@ _\- de l’exécution d’une obligation légale_
 
   
 
-### 2.2 Quelle est la nature des données collectées ?
+**2.2 Quelle est la nature des données collectées ?**
 
   
 
@@ -137,7 +139,7 @@ Ces catégories de données personnelles particulières ne font jamais l’obj
 
   
 
-### 2.3 Comment utilisons-nous vos données ?
+**2.3 Comment utilisons-nous vos données ?**
 
   
 
@@ -159,7 +161,7 @@ Ces traitements sont mis en oeuvre en prenant en compte vos intérêts et vos dr
 
   
 
-### 2.4 Pourquoi collectons-nous vos données ?
+**2.4 Pourquoi collectons-nous vos données ?**
 
   
 
@@ -177,7 +179,7 @@ _‐_ _recueillir votre avis sur les produits achetés chez GO Sport ;_
 
 _‐ conserver et mettre à jour nos fichiers-clients ;_
 
-_‐ informer et fournir toutes les explications relatives à notre relation notamment au travers de notre service consommateur ;_
+_‐ informer et fournir toutes les explications relatives à notre relation notamment au travers de notre service clients;_
 
 _‐ proposer des services adaptés, personnalisés notamment dans le cadre de l’évolution de nos produits et services ;_
 
@@ -195,11 +197,11 @@ _‐ pour des besoins techniques (ex : accéder à votre compte client, mémoris
 
   
 
-### 2.5 Quelles analyses réalisons-nous sur vos données ?
+**2.5 Quelles analyses réalisons-nous sur vos données ?**
 
   
 
-Go Sport ainsi que son partenaire « Relevanc » (1), société du même groupe, réalisent chacun des analyses des données collectées à des fins marketing.
+GO Sport réalise des analyses de données collectées à des fins marketing.
 
   
 
@@ -211,7 +213,7 @@ Par la suite ces données sont transformées en profils détaillés anonymes p
 
   
 
-Si vous ne souhaitez pas bénéficier de publicités ciblées, en fonction de vos centres d’intérêt, de la part de notre filiale RelevanC, vous disposez de plusieurs options vous permettant de désactiver cette fonctionnalité :
+Si vous ne souhaitez pas bénéficier de publicités ciblées, en fonction de vos centres d’intérêt vous disposez de plusieurs options vous permettant de désactiver cette fonctionnalité :
 
 \- En complétant le formulaire envoyé par email à tous nos clients
 
@@ -219,21 +221,19 @@ Si vous ne souhaitez pas bénéficier de publicités ciblées, en fonction de vo
 
   
 
-À propos des publicités personnalisées
+**À propos des publicités personnalisées**
 
 Nous collaborons avec des partenaires annonceurs afin de vous proposer des contenus publicitaires toujours plus utiles et intéressants. Pour ce faire, nous utilisons par exemple les informations que nos partenaires nous communiquent. Nous pouvons ainsi vous proposer des publicités plus pertinentes.
 
   
 
-Voici un exemple. Imaginons qu'un industriel souhaite diffuser une offre spéciale de lancement pour son nouveau produit sur un de nos sites. Il souhaite cibler en priorité les amateurs de ce nouveau produit. Afin de proposer cette offre spéciale à ces clients qui disposent d'un compte ou d’une carte de fidélité dans l’une de nos enseigne, l’industriel peut communiquer à RelevanC un groupe d'adresses email cryptées tirées de sa liste de diffusion. RelevanC recoupe alors cette liste avec les adresses email cryptées associées aux comptes de nos utilisateurs, afin de leur proposer un encart publicitaire dans nos bannières contenant cette offre spéciale de lancement.
+  
+
+**2.6 Qui sont les destinataires de vos données personnelles ?**
 
   
 
-### 2.6 Qui sont les destinataires de vos données personnelles ?
-
-  
-
-Nous veillons à ce que seules des personnes habilitées au sein de Go Sport et RelevanC, puissent accéder à vos données personnelles lorsque cela est nécessaire à l’exécution de notre relation commerciale.
+Nous veillons à ce que seules des personnes habilitées au sein de Go Sport puissent accéder à vos données personnelles lorsque cela est nécessaire à l’exécution de notre relation commerciale.
 
   
 
@@ -245,7 +245,7 @@ Certaines données personnelles peuvent aussi être adressées à des tiers pour
 
   
 
-### 2.7 Où sont stockées vos données personnelles ?
+**2.7 Où sont stockées vos données personnelles ?**
 
   
 
@@ -263,7 +263,7 @@ Dans le cadre d’un transfert vers un pays hors Union Européenne, des règles 
 
   
 
-### 2.8 Combien de temps nous conservons vos données personnelles ?
+**2.8 Combien de temps nous conservons vos données personnelles ?**
 
   
 
@@ -271,14 +271,40 @@ Les durées de conservations des données respectent les recommandations de la C
 
   [![Image without a name](https://www.go-sport.com/dw/image/v2/BGKR_PRD/on/demandware.static/-/Sites-GoSport_FR-Library/default/dw67eef8b3/images/info/Recommandations CNIL.jpg "Image without a name")](#)
 
-  
+3.  Vos Droits
+--------------
 
-3\. Comment exercer vos droits d’accès ?
-----------------------------------------
+**3.1    Droit d’accès**
 
-  
+Le droit d’accès désigne votre droit à obtenir de GO Sport la communication dans un format compréhensible des données collectées et traitées, ainsi que les finalités du traitement, les destinataires y ayant accès et leur durée de conservation.
 
-Vous pouvez exercer vos droits d’accès par courrier accompagné d’une copie de tout document d’identité en s’adressant au Service DPO, Délégué de la protection des données à caractère personnel à l’adresse suivante : 17 avenue de la Falaise - 38 360 SASSENAGE ou par email : [dpo@go-sport.fr](mailto:dpo@go-sport.fr).
+**3.2    Droit de rectification**
+
+Le droit de rectification désigne votre droit à rectifier, supprimer ou compléter les données inexactes ou incomplètes vous concernant.
+
+**3.3    Droit à l’effacement, ou droit « à l’oubli »**
+
+Le droit à l’effacement désigne votre droit à obtenir de la part de GO Sport l’effacement de données à caractère personnel vous concernant.
+
+**3.4    Droit à la portabilité**
+
+Le droit à la portabilité vous offre la possibilité de récupérer tout ou partie de vos données à caractère personnel collectées par GO Sport dans le cadre du service de location, dans un format lisible permettant leur exportation, en vue d’une réutilisation à d’autres fins.
+
+**3.5    Droit d’opposition**
+
+Le droit d’opposition vous permet de vous opposer à ce que certaines de vos données à caractère personnel soient utilisées par GO Sport.
+
+**3.6    Droit à la limitation du traitemen**t
+
+Le droit à la limitation du traitement de vos données vous permet de demander à GO Sport de geler temporairement l’utilisation de certaines de vos données à caractère personnel.
+
+**3.7 Comment exercer vos Droits d’accès ?**
+
+Vous pouvez exercer vos droits en
+
+vous adressant au Service Clients, via le formulaire de contact accessible depuis [ce lien](https://service-clients.go-sport.com/hc/fr/requests/new).
+
+Pour des raisons de sécurité, GO Sport se réserve le droit de demander un justificatif d’identité en cas de doute sur l’identité de la personne à l’origine de la demande.
 
   
 
@@ -287,7 +313,7 @@ Vous pouvez exercer vos droits d’accès par courrier accompagné d’une copie
 
   
 
-### 4.1 Nos engagements de sécurité et de confidentialité
+**4.1 Nos engagements de sécurité et de confidentialité**
 
   
 
@@ -301,17 +327,17 @@ Lors de l’élaboration, de la conception, de la sélection et de l’utilisati
 
   
 
-A ce titre, par exemple nous procédons à la pseudonymisation ou à l’anonymisation, selon les cas, des données personnelles dès que cela est possible ou nécessaire.
+A ce titre, nous procédons à la pseudonymisation ou à l’anonymisation, selon les cas, des données personnelles dès que cela est possible ou nécessaire.
 
   
 
-Toutes les données personnelles étant confidentielles, leur accès est limité aux collaborateurs de Go Sport et RelevanC, ou prestataires agissant pour le compte de GO Sport, qui en ont besoin dans le cadre de l’exécution de leurs missions.
+Toutes les données personnelles étant confidentielles, leur accès est limité aux collaborateurs de Go Sport, ou prestataires agissant pour le compte de GO Sport, qui en ont besoin dans le cadre de l’exécution de leurs missions.
 
 Toutes les personnes ayant accès à vos données sont liées par un devoir de confidentialité et s’exposent à des mesures disciplinaires et/ou autres sanctions si elles ne respectent pas ces obligations.
 
   
 
-Les opérations avec un tiers destinataires font l’objet d’un contrat afin de vous assurer de la protection de vos données personnelles et du respect de vos droits.
+Les opérations avec un tiers destinataire font l’objet d’un contrat afin de vous assurer de la protection de vos données personnelles et du respect de vos droits.
 
   
 
@@ -319,11 +345,11 @@ Au sein de GO Sport, nous nous engageons totalement pour protéger les données 
 
   
 
-### 4.2 Notre délégué à la protection des données personnelles
+**4.2 Notre délégué à la protection des données personnelles**
 
   
 
-Nous avons désigné un délégué à la protection des données personnelles (DPO) dont les coordonnées personnelles sont les suivantes : Nadia Kharbeche, Délégué de la protection des données à caractère personnel, 17 avenue de la Falaise - 38 360 SASSENAGE [dpo@go-sport.fr](mailto:dpo@go-sport.fr)
+Nous avons désigné un délégué à la protection des données personnelles (DPO) dont les coordonnées personnelles sont les suivantes : Nadia, Déléguée à la protection des données à caractère personnel, 17 avenue de la Falaise - 38 360 SASSENAGE [dpo@go-sport.fr](mailto:dpo@go-sport.fr)
 
   
 
@@ -348,9 +374,7 @@ Nous avons désigné un délégué à la protection des données personnelles (D
 
   
 
-« Droit d’accès » : désigne l’ensemble des droits fondamentaux tels que décrit dans la réglementation Européenne (3), portant sur :
-
-\- le droit à l’information ;
+« Droits » : désigne l’ensemble des droits fondamentaux dont disposent les personnes sur leurs données personnelles, dès lors que celles-ci font l'objet d'un Traitement, tels que décrit dans la réglementation Européenne (3), portant sur :
 
 \- le droit d’accès ;
 
@@ -428,7 +452,7 @@ Nous avons désigné un délégué à la protection des données personnelles (D
 
   
 
-_(1) http://www.relevanc.com_
+  
 
 _(2) G29 avis 05/2014 du 10 avril 2014 sur les Techniques d’anonymisation (WP216)_
 
