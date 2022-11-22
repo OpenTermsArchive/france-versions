@@ -1,5 +1,5 @@
-Conditions générales de vente mises à jour le 1er septembre 2022
-================================================================
+Conditions générales de vente mises à jour le 22 octobre 2022
+=============================================================
 
   
 
@@ -264,7 +264,7 @@ Les cartes à autorisation systématique de type Electron ou Maestro, les e-card
 
   
 
-Sécurisation des paiements
+**Sécurisation des paiements**
 
 Les paiements effectués sur le Site sont entièrement sécurisés.
 
@@ -282,19 +282,15 @@ La non-transmission des données en rapport avec sa commande empêche la réalis
 
 La survenance d'un impayé au motif d'une utilisation frauduleuse d'une carte bancaire entraînera l'inscription des coordonnées en rapport avec la commande associée à cet impayé au sein d'un fichier incident de paiement mis en œuvre par la Société. Une déclaration irrégulière ou une anomalie pourra également faire l'objet d'un traitement spécifique.
 
-Conformément à la loi Informatique et Libertés et à la réglementation Européenne concernant la protection des données à caractère personnel , vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande accompagnée de la photocopie d’un justificatif d’identité à l’adresse e-mail suivante dpo@go-sport.fr ou l’adresse suivante postale suivante :
+  
 
-GROUPE GO SPORT
+Conformément à la loi Informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande en vous adressant au Service Clients, via le formulaire de contact accessible depuis [ce lien](https://service-clients.go-sport.com/hc/fr/requests/new).
 
-DPO
+Pour des raisons de sécurité, la Société se réserve le droit de demander un justificatif d’identité en cas de doute sur l’identité de la personne à l’origine de la demande.
 
-17 Avenue de la Falaise
+**Réductions applicables** : Il est précisé que les réductions offertes aux salariés de la société Groupe GO Sport et toute autre société affiliée et les réductions partenaires ne sont pas valables pour les achats réalisés sur le site.
 
-38360 SASSENAGE
-
-Réductions applicablesIl est précisé que les réductions offertes aux salariés de la société Groupe GO Sport et toute autre société affiliée et les réductions partenaires ne sont pas valables pour les achats réalisés sur le site.
-
-Cumul d’€ fidélitéLes Clients ayant une carte de fidélité Club GO Sport pourront utiliser leur bons fidélités en magasin ou sur le site [www.go-sport.com](https://www.go-sport.com/) avec présentation de la carte de fidélité (ou connexion à l’espace fidélité sur le site [www.go-sport.com](https://www.go-sport.com/) ).
+**Cumul d’€ fidélité** : Les Clients ayant une carte de fidélité Club GO Sport pourront utiliser leur bons fidélités en magasin ou sur le site [www.go-sport.com](https://www.go-sport.com/) avec présentation de la carte de fidélité (ou connexion à l’espace fidélité sur le site [www.go-sport.com](https://www.go-sport.com/) ).
 
 Les bons de fidélité sont disponibles à partir de 5 euros, valables par tranche de 5€ jusqu’à 20€ et par tranche de 10€jusqu’à 100€ sans minimum d’achat dans l’ensemble des magasins GO Sport situés en France métropolitaine et sur le site GO Sport. Ils sont valables sur tous les articles, y compris les articles en soldes et en promotions. Hors coin des affaires, achat de carte cadeaux, prestations et frais de livraison.
 
@@ -431,6 +427,8 @@ En cas de changement de propriétaire, les textes susvisés prévoient que l’a
 
 En cas de retour du vélo dans le cadre des articles 7, 8 et 11 des présentes Conditions Générales de Vente ou dans l’hypothèse d’un colis qui n’aurait pas été livré ou retiré, le remboursement, le cas échéant, ne pourra intervenir qu’à compter de la déclaration faite auprès de l’opérateur du retour du vélo.
 
+  
+
 ARTICLE 13 - DONNÉES PERSONNELLES
 ---------------------------------
 
@@ -438,7 +436,9 @@ Protection de vos données à caractère personnel
 
 Prenez connaissance de notre charte de protection des données personnelles des clients en [cliquant ici .](https://www.go-sport.com/charte-protection-donnees-clients.html)
 
-Conformément à la loi informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande, accompagnée de la photocopie d’un justificatif d’identité à l’adresse suivante : dpo@go-sport.fr
+Conformément à la loi Informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande en vous adressant au Service Clients, via le formulaire de contact accessible depuis [ce lien](https://service-clients.go-sport.com/hc/fr/requests/new).
+
+Pour des raisons de sécurité, la Société se réserve le droit de demander un justificatif d’identité en cas de doute sur l’identité de la personne à l’origine de la demande.
 
   
 
@@ -473,15 +473,17 @@ Le Site contient des informations provenant de tierces personnes, la Société n
 ARTICLE 16 - SERVICE CLIENTS
 ----------------------------
 
-Pour toute information ou conseil, le Client peut contacter le Service Clients,
+Pour toute information ou conseil, le Client peut contacter le Service Clients
 
-Par téléphone du lundi au vendredi de 9h à 20h et le samedi de 9h à 19h :au 0970 83 05 05 (n° non surtaxé, prix d’un appel local)
+**Par téléphone** du lundi au vendredi de 9h à 20h et le samedi de 9h à 19h :au 0970 83 05 05 (n° non surtaxé, prix d’un appel local)
 
-Par mail- pour les clients ayant réalisé un achat : sur l’espace Client dans la rubrique « Vos achats en ligne » Besoin d’aide. Les informations relatives à la commande sont également disponible dans cet espace.
+**Par mail** \- via le formulaire « Nous contacter » disponible en bas de la page d’accueil du Site.
+
+﻿\- pour les clients ayant réalisé un achat : sur l’espace Client dans la rubrique « Vos achats en ligne » Besoin d’aide. Les informations relatives à la commande sont également disponible dans cet espace.
 
 \- ou à l’adresse suivante : service.client@go-sport.fr
 
-Par courrier
+**Par courrier**
 
 Service Clients GO SPORT
 
@@ -489,11 +491,13 @@ Service Clients GO SPORT
 
 38360 SASSENAGE
 
+**Par WhatsApp** du lundi au vendredi de 9h à 20h et le samedi de 9h à 19h par message au +33 (0)7 72 72 36 04 (n° gratuit) 
+
 Conformément à la loi Informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, toutes les conversations et coordonnées clients sont supprimées dans les quinze (15) jours suivant la clôture de la demande. De plus, les messages sont chiffrés de bout en bout, c’est-à-dire que seul le Client et le Service Client peuvent avoir accès aux messages.
 
-Vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande accompagnée de la photocopie d’un justificatif d’identité ou des données permettant à GO Sport de vous identifier sans équivoque à l’adresse suivante : dpo@go-sport.fr
+Vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande en vous
 
-Attention : afin d’optimiser le traitement de ses demandes, le Client doit indiquer dans son courrier ses nom, prénom, email avec lesquels sa commande a été effectuée et le numéro de la commande concernée.
+adressant au Service Clients via le [formulaire de contact](https://service-clients.go-sport.com/hc/fr/requests/new). _Attention_ : afin d’optimiser le traitement de ses demandes, le Client doit indiquer dans son courrier ses nom, prénom, email avec lesquels sa commande a été effectuée et le numéro de la commande concernée.
 
   
 
