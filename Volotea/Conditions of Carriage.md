@@ -396,7 +396,7 @@ Lors du processus de réservation, le Passager peut accessoirement acheter le se
 >     
 > 2. Un seul animal pourra être transporté par boîte et par Passager ; cela dit, il conviendra de s’en remettre aux conditions du paragraphe (iii) ci-dessous.
 >     
-> 3. Un maximum de deux animaux sera admis à bord en cabine sur un vol simple. Le système informatisé des réservations ne permettra pas l’acquisition de ce service aux passagers qui le souhaiteraient une fois que ce nombre maximum aura été atteint.
+> 3. Un maximum de 5 animaux sera admis à bord en cabine sur un vol simple. Le système informatisé des réservations ne permettra pas l’acquisition de ce service aux passagers qui le souhaiteraient une fois que ce nombre maximum aura été atteint.
 >     
 > 4. Le Passager qui acquiert le service de transport de son animal de compagnie doit effectuer le check-in à l’Aéroport. Le Passager doit tenir compte de la période de check-in maximum prévue à la section 7.1 des présentes Conditions de Transport.
 >     
