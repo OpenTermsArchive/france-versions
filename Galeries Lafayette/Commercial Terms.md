@@ -592,7 +592,7 @@ Retour en Click & Collect : 
 
 * \- Il n'est pas obligatoire d'imprimer le bon de retour 
 * \- Munissez-vous de votre numéro de commande et déposez votre article dans l'espace C&C du magasin de votre choix 
-* \- Aprés vérification des articles, le remboursement est déclenché immédiatement
+* \- Aprés vérification des articles, le remboursement est déclenché immédiatement\*
 * \- Vous recevrez par mail la confirmation de votre remboursement
 
 Retour en point relais ou bureau de poste:
@@ -603,6 +603,8 @@ Retour en point relais ou bureau de poste:
 * \- Déposez votre colis dans un point relais, en bureau de poste
 * \- Faire signer et tamponner votre preuve de dépôt
 * \- Le remboursement est déclenché dés réception et vérification de vos articles dans nos entrepôts, dans un délai maximum de 14 jours. 
+
+\*hors produits luxe qui peuvent nécessiter une authentifiaction ou une expertise au préalable
 
 Les Produits Chaumet et Fred doivent, être exclusivement retournés par Chronopost. Un rendez-vous devra être fixé avec le transporteur pour enlèvement du colis. Le rendez-vous devra intervenir dans les plus brefs délais à compter de la réception par le Client de l'étiquette du transporteur, sauf impossibilité imputable au transporteur.
 
