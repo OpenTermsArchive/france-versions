@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 14/10/ 2022
+Date : 24/11/ 2022
 
 Bienvenue sur Showroomprive.com
 
@@ -102,11 +102,21 @@ Nous nous réservons également le droit de prendre toutes mesures utiles afin d
 
 **Article 4 - Quels prix pratiquons-nous ?**
 
-Il est important pour nous que vous ayez confiance dans les réductions que nous affichons. Le prix barré (que nous appelons « Prix constaté ») qui vous permet d'identifier la réduction dont vous bénéficiez, correspond en général au prix recommandé par une marque ou son représentant qui a été vérifié au moyen d'un échantillonnage représentatif afin de s'assurer qu'il est effectivement pratiqué par la marque ou par un ou plusieurs commerçants notoires. Parfois il s'agit du prix obtenu en appliquant à ce prix recommandé l'écart moyen que nous avons observé sur cet échantillon en le comparant avec le prix de vente effectivement pratiqué. Il arrive enfin que certains produits/offres que nous vous proposons ne soient plus en vente chez d'autres commerçants, ce qui rend plus difficile la vérification de ce prix barré. Nous pouvons alors utiliser comme prix barré le prix habituellement pratiqué par ces commerçants pour un produit/une offre de qualité et de composition comparable.
-
 Les prix de nos produits et de nos Offres Coupons sont indiqués en euros toutes taxes comprises (dont éco participation). Ils ne comprennent pas les frais de préparation et d'expédition qui vous sont indiqués lors de la validation de votre commande. Nous ne pratiquons pas de vente en détaxe.
 
 Pour une livraison à destination d'un Etat membre de l'Union Européenne, la Taxe sur la Valeur Ajoutée (TVA) sera celle en vigueur sur le territoire de livraison de votre commande. En revanche, pour une livraison à destination des DOM-TOM ou Hors Union Européenne, le montant de votre commande sera calculé Hors Taxes sur votre facture et sur votre commande. Dans ce cas, votre commande pourra être soumise à des droits de douane et à des taxes éventuelles qui sont imposées lorsque le colis parvient à destination.
+
+Il est important pour nous que vous ayez confiance dans les prix que nous affichons. Les prix affichés sous la forme de prix barrés correspondent à différents cas de figure :
+
+4.1 Prix de comparaison
+
+Le prix barré lorsque celui-ci est indiqué «**Prix conseillé** » est **un prix de comparaison** que vous pouvez comparer avec notre prix de vente et à partir duquel nous calculons la différence affichée sous forme de pourcentage. Il correspond au prix recommandé/conseillé par une marque ou son représentant, dont nous vérifions la loyauté et la réalité au moyen d'un échantillonnage représentatif, afin de s'assurer qu'il est effectivement pratiqué par la marque ou par un ou plusieurs commerçants notoires. A défaut, dans le cas où nous constaterions un écart, il s'agit du prix obtenu en appliquant à ce prix recommandé l'écart moyen que nous avons observé sur cet échantillon en le comparant avec le prix de vente effectivement pratiqué par des revendeurs représentatifs (prix moyen constaté). Il arrive enfin que certains produits/offres que nous vous proposons ne soient plus en vente chez d'autres commerçants, ce qui rend plus difficile la vérification de ce prix barré. Nous pouvons alors utiliser comme prix barré le prix habituellement pratiqué par ces commerçants pour un produit/une offre de qualité et de composition comparable.
+
+Pour les ventes Marketplace, le prix barré indiqué « **Prix conseillé** » est un prix de comparaison renseigné par le vendeur de la Marketplace, sous sa responsabilité.
+
+4.2 Réduction de prix : Collection IRL by showroomprive.com
+
+Pour toute annonce de réduction de prix d'un produit proposé lors des ventes Collection IRL by showroomprive.com, le prix de référence indiqué sous forme d'un prix barré correspond au prix antérieurement pratiqué par nos soins, conformément aux dispositions de l'article L.112-1-1 du Code de la consommation. Sauf exceptions, ce prix de référence correspond donc au prix le plus bas pratiqué sur notre Site dans les 30 derniers jours.
 
 **Article 5 - Comment régler votre commande ?**
 
@@ -440,11 +450,73 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- En cas d'annulation partielle de votre commande, le montant correspondant à l'annulation vient en déduction des sommes restant dues au jour de l'annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
-|     |
-| --- |
-| \- **Article 10 - Quelles garanties pour vos produits ?**<br><br>Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.<br><br>10.1 Les garanties légales<br><br>Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.<br><br>La garantie légale de conformité s'applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu'il ne correspond pas à la description donnée.<br><br>La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.<br><br>Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil. |
-| _10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_<br><br>**Pour les Produits achetés avant le 1 er janvier 2022** , vous :<br><br>\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;<br><br>\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation<br><br>\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est de six (6) mois.<br><br>**Pour les Produits achetés à compter du 1 er janvier 2022** , vous :<br><br>\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;<br><br>\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;<br><br>\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est désormais de douze (12) mois.<br><br>Toute réparation du bien d'origine, neuf comme d'occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.<br><br>Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.<br><br>**Pour l'élément numérique contenu dans votre Produit acheté à compter du 1 er janvier 2022** :<br><br>Dans le cas où le contrat prévoit la fourniture, avec le Produit, d'un élément numérique, ce dernier bénéficie d'une garantie légale de conformité qui lui est propre. Dès lors, vous :<br><br>\- Pouvez vous prévaloir de la garantie légale de conformité attachée à l'élément numérique :<br><br>§ Pendant deux (2) ans à compter de la fourniture de l'élément numérique **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.<br><br>Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les deux (2) années suivants la fourniture de l'élément numérique.<br><br>§ Durant toute la période de fourniture de l'élément numérique , **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.<br><br>Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant la fourniture de l'élément numérique.<br><br>\- Pouvez demander la mise en conformité de l'élément numérique inclus dans le bien. |
-| _Article 10.1.2. Garantie légale de conformité des contenus et services numériques_<br><br>Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :<br><br>\- Pouvez vous prévaloir de la garantie légale de conformité :<br><br>§ Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique , **si** votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.<br><br>Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.<br><br>§ Durant toute la période de fourniture du contenu ou service numérique , **si** votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée.<br><br>Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture.<br><br>\- Pouvez demander la mise en conformité du contenu ou service numérique. |
+\- **Article 10 - Quelles garanties pour vos produits ?**
+
+Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
+
+10.1 Les garanties légales
+
+Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
+
+La garantie légale de conformité s'applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu'il ne correspond pas à la description donnée.
+
+La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
+
+Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l'article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c'est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du Code civil.
+
+_10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
+
+**Pour les Produits achetés avant le 1er janvier 2022** , vous :
+
+\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation
+
+\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est de six (6) mois.
+
+**Pour les Produits achetés à compter du 1er janvier 2022** , vous :
+
+\- bénéficiez d'un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l'article L217-9 du Code de la consommation ;
+
+\- êtes dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d'occasion pour lesquels le délai est désormais de douze (12) mois.
+
+Toute réparation du bien d'origine, neuf comme d'occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.
+
+Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.
+
+**Pour l'élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022** :
+
+Dans le cas où le contrat prévoit la fourniture, avec le Produit, d'un élément numérique, ce dernier bénéficie d'une garantie légale de conformité qui lui est propre. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité attachée à l'élément numérique :
+
+§ Pendant deux (2) ans à compter de la fourniture de l'élément numérique **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les deux (2) années suivants la fourniture de l'élément numérique.
+
+§ Durant toute la période de fourniture de l'élément numérique, **si** votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant la fourniture de l'élément numérique.
+
+\- Pouvez demander la mise en conformité de l'élément numérique inclus dans le bien.
+
+_Article 10.1.2. Garantie légale de conformité des contenus et services numériques_
+
+Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité :
+
+§ Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, **si** votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
+
+§ Durant toute la période de fourniture du contenu ou service numérique , **si** votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée.
+
+Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture.
+
+\- Pouvez demander la mise en conformité du contenu ou service numérique.
 
 10.2 La garantie commerciale
 
@@ -474,9 +546,7 @@ Les modalités de remboursement des achats effectués avec un avantage sont acce
 
 **Article 12 - Et vos données dans tout ça ?**
 
-Lors de votre visite sur le Site, vos données sont susceptibles de faire l'objet d'un traitement informatique. Nous vous invitons à vous reporter à notre [« Politique de Confidentialité et de protection de la vie privée - Cookie ».](https://www.showroomprive.com/politique_confidentialite.aspx)
-
-**Article 13 - Liste d'opposition au démarchage téléphonique**
+Lors de votre visite sur le Site, vos données sont susceptibles de faire l'objet d'un traitement informatique. Nous vous invitons à vous reporter à notre [« Politique de Confidentialité et de protection de la vie privée - Cookie ».](https://www.showroomprive.com/politique_confidentialite.aspx) **Article 13 - Liste d'opposition au démarchage téléphonique**
 
 Comme indiqué dans notre Politique de Confidentialité, Showroomprivé.com peut être amenée à recueillir votre numéro de téléphone notamment lors du passage de votre commande ou encore lorsque que vous le renseigner dans des formulaires dédiés sur notre site. Vous disposez du droit de vous inscrire gratuitement sur la liste d'opposition au démarchage téléphonique Bloctel. Pour plus d'informations nous vous invitons à consulter directement le site [Bloctel](https://www.bloctel.gouv.fr/).
 
