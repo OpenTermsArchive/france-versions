@@ -25,14 +25,6 @@ Nous collectons trois catégories d'informations principales :
 
 Voici un peu plus d'explications sur chacune de ces catégories.
 
-### Les données que vous nous transmettez
-
-Lorsque vous interagissez avec nos services, nous recueillons les informations que vous nous fournissez. Par exemple, la plupart de nos services nécessitent que vous configuriez un compte ainsi, nous pouvons recueillir quelques informations importantes vous concernant, telles que votre nom, votre nom d'utilisateur, votre mot de passe, votre adresse e-mail, votre numéro de téléphone et votre date de naissance. Nous pouvons également vous demander de nous fournir des informations supplémentaires qui seront visibles publiquement sur nos services, telles qu'une photo de profil ou un avatar Bitmoji. Certains services, tels que les produits commerciaux, peuvent vous obliger à nous fournir un numéro de carte de débit ou de crédit et les informations de compte associées.
-
-Bien entendu, vous nous fournissez également toutes les informations que vous envoyez via nos services, telles que les Snaps et les Chats. Gardez à l'esprit que les utilisateurs qui consultent vos Snaps, Chats et tout autre contenu peuvent toujours enregistrer ce contenu ou le copier en dehors de l'application. Ainsi, le même bon sens qui s'applique à Internet en général s'applique également à nos Services : n'envoyez pas de messages ou ne partagez pas de contenu que vous ne voudriez pas que quelqu'un enregistre ou partage.
-
-Lorsque vous contactez le service clients ou communiquez avec nous de toute autre façon, nous collectons les informations que vous voulez bien nous communiquer ou dont nous avons besoin pour répondre à votre question.
-
 ### Données que nous obtenons lorsque vous utilisez nos services
 
 Lorsque vous utilisez nos services, nous collectons des données sur les types de services que vous avez utilisés et la manière dont vous les avez utilisés. Nous pourrions savoir, par exemple, que vous avez regardé une Story particulière, vu une publicité spécifique pendant un certain temps et envoyé quelques Snaps. Voici une explication plus complète des types de données que nous collectons lorsque vous utilisez nos services :
