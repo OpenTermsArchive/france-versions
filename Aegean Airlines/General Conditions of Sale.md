@@ -222,7 +222,7 @@ Sauf si la loi en dispose autrement, le Transporteur peut refuser le transport d
 
 ### 5 POLITIQUE EN MATIERE DE BAGAGES
 
-Politique en matière de Bagages sur tous les vols opérés par AEGEAN, cliquer sur: [https://fr.aegeanair.com/voyage-info/bagages/](https://fr.aegeanair.com/voyage-info/bagages/)
+Politique en matière de Bagages sur tous les vols opérés par AEGEAN, cliquer sur: [https://fr.aegeanair.com/voyage-info/bagages/](https://fr.aegeanair.com/travel-info/travelling-with-aegean/bagages/)
 
 ###    
 6 MARCHANDISES DANGEREUSES
