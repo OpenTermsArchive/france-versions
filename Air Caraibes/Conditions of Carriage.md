@@ -392,7 +392,7 @@ Oney Bank propose sur le site internet d’Air Caraïbes une solution de finance
    
 (a) Conditions  
 Cette offre est réservée aux particuliers (personnes physiques majeures, sont expressément exclues les personnes physiques agissant à des fins professionnelles) résidant en France Métropolitaine, en Guadeloupe, à Saint Martin, en Martinique, à la Réunion, en Guyane et titulaires d’une carte bancaire Visa ou MasterCard, émise par un établissement français et possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.  
-Cette solution de paiement en 3x ou 4x est accessible dès lors que le délai entre la date de Réservation du Billet et la date de début de voyage est supérieur à 15 jours.  
+Cette solution de paiement en 3x ou 4x est accessible dès lors que le délai entre la date de Réservation du Billet et la date de début de voyage est supérieur à 7 jours.  
    
 (b) Modalités de souscription  
 Après avoir terminé la commande, il suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».  
