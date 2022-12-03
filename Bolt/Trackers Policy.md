@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/11/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (30)
+Necessary (31)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -39,7 +39,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
 | cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
-| CookieConsent \[x11\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| CookieConsent \[x12\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
@@ -69,7 +69,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (46)
+Statistics (52)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -77,18 +77,18 @@ Statistic cookies help us understand how you interact with our website by collec
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_device\_id\_ | food.bolt.eu | Pending | Persistent | HTML Local Storage |
-| \_ga \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 400 days | HTTP Cookie |
-| \_ga\_# \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 400 days | HTTP Cookie |
+| \_ga \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 399 days | HTTP Cookie |
+| \_ga\_# \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 399 days | HTTP Cookie |
 | \_gat \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to throttle request rate | 1 day | HTTP Cookie |
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
-| \_hjAbsoluteSessionInProgress | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
-| \_hjFirstSeen | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x2\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
-| \_hjIncludedInSessionSample \[x4\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
+| \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
+| \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>couriers.bolt.eu | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
+| \_hjIncludedInSessionSample \[x5\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
 | \_hjRecordingLastActivity | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
-| \_hjSession\_# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
-| \_hjSessionUser\_# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
-| \_hjTLDTest | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
+| \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
+| \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
+| \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | af\_id \[x2\] | [Appsflyer](https://www.appsflyer.com/privacy-policy/ "Appsflyer's privacy policy")  <br>[AppsFlyer](https://www.appsflyer.com/privacy-policy/ "AppsFlyer's privacy policy") | Sets a unique ID that allows the website to obtain data on visitor behaviour on the website and the app for statistical purposes. | 400 days | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
@@ -99,11 +99,11 @@ Statistic cookies help us understand how you interact with our website by collec
 | HWWAFSESTIME | dtm-drcn.platform.hicloud.com | Pending | Session | HTTP Cookie |
 | jserrors/1/# | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Pending | Session | Pixel Tracker |
 | ln\_or | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
-| previousUrl \[x2\] | static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
-| tildasid \[x2\] | static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
-| tildauid \[x2\] | static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
+| previousUrl \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
+| tildasid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
+| tildauid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
 | tracker/tc\_imp.gif | potter.mcangelus.com | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | Pixel Tracker |
-| visited \[x2\] | market.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
+| visited \[x3\] | couriers.bolt.eu  <br>market.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
