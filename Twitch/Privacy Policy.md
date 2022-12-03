@@ -158,7 +158,7 @@ Consultez la page des [Déclarations relatives à la vie privée en Californie](
 
 ### Divulgations d'informations confidentielles au Japon
 
-Lisez la page [Divulgations d'informations confidentielles au Japon](https://www.twitch.tv/p/fr-fr/twitch.tv/legal/japan-privacy-notice) afin de consulter les divulgations supplémentaires requises en vertu de la Loi sur la protection des informations personnelles.
+Lisez la page [Divulgations d'informations confidentielles au Japon](https://www.twitch.tv/legal/japan-privacy-notice/) afin de consulter les divulgations supplémentaires requises en vertu de la Loi sur la protection des informations personnelles.
 
 ### Déclarations relatives à la confidentialité pour la République de Corée
 
