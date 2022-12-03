@@ -25,14 +25,14 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/11/2022 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (31)
+Necessary (32)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_cf\_bm \[x2\] | support.taxify.eu  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| \_\_cf\_bm \[x3\] | blog.bolt.eu  <br>support.taxify.eu  <br>[Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
 | \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | \_cq\_check \[x2\] | eudevil.mcangelus.com | Determines whether the user has accepted the cookie consent box. | Session | HTTP Cookie |
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
@@ -49,7 +49,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | test\_cookie | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
 | ZD-suid | bolt.eu | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (14)
+Preferences (13)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -64,7 +64,6 @@ Preference cookies enable our website to remember information that changes the w
 | iso\_code | static.tildacdn.com | Used by tilda for identification of the User without taking additional measures. | Persistent | HTML Local Storage |
 | lang \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Remembers the user's selected language version of a website | Session | HTTP Cookie |
 | lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
-| mid | [Instagram](https://help.instagram.com/519522125107875 "Instagram's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their Instagram application for example. | 2 years | HTTP Cookie |
 | taxifyDriverPortal\_locale | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
@@ -104,7 +103,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | tildauid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
 | tracker/tc\_imp.gif | potter.mcangelus.com | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | Pixel Tracker |
 | visited \[x3\] | couriers.bolt.eu  <br>market.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
-| vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
+| vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
 Marketing (49)
