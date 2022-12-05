@@ -10,7 +10,7 @@
 
 [QUI AURA ACCÈS A VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#eb22ef6ea67d42779c30e049291a4b06)
 
-[VOS DONNÉES SERONT-ELLES TRANSFERÉES EN DEHORS DE L'UE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#d94b212cc5164fed8a3ac494f7fa307a)
+[VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#d94b212cc5164fed8a3ac494f7fa307a)
 
 [QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#2e8993beb1de4bd48e083bc3cfac7bc2)
 
@@ -88,7 +88,7 @@ Les prestataires de services de PONY (tels que les prestataires de services info
 
 Les autorités judiciaires et administratives lorsque PONY est tenue de le faire en vertu de la loi applicable.
 
-VOS DONNÉES SERONT-ELLES TRANSFERÉES EN DEHORS DE L'UE ?
+VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?
 
 Pour les finalités précisées ci-dessus, PONY peut être amenée à transférer vos données à caractère personnel à d'autres entités situées en dehors de l'Espace Économique Européen, dans des pays où la législation sur la protection des données à caractère personnel n'offre pas nécessairement le même niveau de protection ou dans des pays qui ne sont pas reconnus comme offrant un niveau de protection adéquat.
 
