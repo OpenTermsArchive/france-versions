@@ -36,7 +36,7 @@ Cette Politique de Confidentialité explique la (ou les) finalité(s) et les mod
 
 QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?
 
-Vos données à caractère personnel sont collectées et traitées par la société PONY SA, dont le siège social est situé 22 Boulevard Gaston Birgé, 49000 ANGERS (ci-après dénommée "PONY").
+Vos données à caractère personnel sont collectées et traitées par la société PONY SAS, dont le siège social est situé 8 Place Monseigneur Rumeau, 49100 ANGERS (ci-après dénommée "PONY").
 
 POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?
 
