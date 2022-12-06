@@ -1,7 +1,7 @@
 Conditions générales de Vente et de Transport
 =============================================
 
-Mise à jour : Mars 2021   
+Mise à jour : février 2022   
    
 **[ARTICLE I - DEFINITIONS](#article-1)  
    
