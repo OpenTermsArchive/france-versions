@@ -1,6 +1,30 @@
 Conditions  
-_Générales de ventes_
-==================================
+Générales de ventes
+================================
+
+##### Accès rapide aux articles des CGV
+
+1. [Acceptation des CGV](https://www.kaporal.com/fr_fr/cgv#art1)
+2. [Objet](https://www.kaporal.com/fr_fr/cgv#art2)
+3. [Entrée en vigueur - Durée](https://www.kaporal.com/fr_fr/cgv#art3)
+4. [Informations & disponibilités produits](https://www.kaporal.com/fr_fr/cgv#art4)
+5. [Prix](https://www.kaporal.com/fr_fr/cgv#art5)
+6. [Commande](https://www.kaporal.com/fr_fr/cgv#art6)
+7. [Signature électronique & preuve](https://www.kaporal.com/fr_fr/cgv#art7)
+8. [Paiement](https://www.kaporal.com/fr_fr/cgv#art8)
+9. [Livraison de la commande](https://www.kaporal.com/fr_fr/cgv#art9)
+10. [Garantie des produits](https://www.kaporal.com/fr_fr/cgv#art10)
+11. [Service client](https://www.kaporal.com/fr_fr/cgv#art11)
+12. [E-Réservation (service momentanément indisponible)](https://www.kaporal.com/fr_fr/cgv#art12)
+13. [Droit de rétractation](https://www.kaporal.com/fr_fr/cgv#art13)
+14. [Retour du produit](https://www.kaporal.com/fr_fr/cgv#art14)
+15. [Remboursement ou avoir](https://www.kaporal.com/fr_fr/cgv#art15)
+16. [Responsabilité](https://www.kaporal.com/fr_fr/cgv#art16)
+17. [Non renonciation](https://www.kaporal.com/fr_fr/cgv#art17)
+18. [Interdiction des ventes hors réseau](https://www.kaporal.com/fr_fr/cgv#art18)
+19. [Dispositions générales](https://www.kaporal.com/fr_fr/cgv#art19)
+20. [Loi applicable & compétence](https://www.kaporal.com/fr_fr/cgv#art20)
+21. [Historique des CGV](https://www.kaporal.com/fr_fr/cgv#art21)
 
 Le 9 décembre 2019
 
