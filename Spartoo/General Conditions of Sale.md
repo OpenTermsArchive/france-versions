@@ -529,7 +529,7 @@ Les réclamations, remboursement et autres modalités sont définies dans le rè
 -----------------
 
 Les produits mis en vente dans le cadre des "Ventes privées de SPARTOO.COM" sont accessibles à ceux qui répondent à deux des trois conditions suivantes :  
-\- Etre client chez SPARTOO.COM en ayant ouvert un compte sur le site avec une adresse email valide et un mot de passe  
+\- Etre client Premium chez SPARTOO.COM en ayant ouvert un compte sur le site avec une adresse email valide et un mot de passe, et en ayant souscrit à Spartoo Premium  
 \- Avoir reçu une invitation par courrier éléctronique à l'adresse email du compte  
 \- Avoir reçu au moins un email de la part de SPARTOO.COM
 
