@@ -18,7 +18,7 @@ DURABILITÉ.....................................................................
 
 TABLEAUX DES SERVICES........................................................................ P. 13TABLEAUX DES GARANTIES.................................................................... P. 14ANNEXES .....................................................................................................P. 21
 
-\- 15 octobre 2022 - 3
+\- 9 novembre 2022 - 3
 
 
 
@@ -36,7 +36,9 @@ UN CRÉDIT VOUS ENGAGE ET DOIT ÊTRE REMBOURSÉ.VÉRIFIEZ VOS CAPACITÉS DE REMB
 
 1\. Le remboursement de la différence si vous trouvezmoins cher, même sur internet
 
-Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau (1).
+Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau
+
+ (1).
 
 2\. Des prix bas, identiques en magasin et sur internet
 
@@ -44,7 +46,7 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3) .
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
@@ -94,9 +96,9 @@ avant 15h, livraison possible le soir même pour les agglomérations de Paris et
 
 
 
-\- 15 octobre 2022 - 4
+\- 9 novembre 2022 - 4
 
-\- 15 octobre 2022 - 5
+\- 9 novembre 2022 - 5
 
 
 
@@ -122,7 +124,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
-\- 15 octobre 2022 - 6
+\- 9 novembre 2022 - 6
 
 
 
@@ -154,7 +156,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 7
+\- 9 novembre 2022 - 7
 
 
 
@@ -176,7 +178,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantag
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 8
+\- 9 novembre 2022 - 8
 
 
 
@@ -200,7 +202,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 9
+\- 9 novembre 2022 - 9
 
 
 
@@ -248,7 +250,7 @@ Les formules Darty Max :
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 10
+\- 9 novembre 2022 - 10
 
 
 
@@ -312,7 +314,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 11
+\- 9 novembre 2022 - 11
 
 
 
@@ -334,17 +336,31 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion
 
-Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
+ 4 € TTC/mois
 
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
+ 4 € TTC/mois
+
+Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois
+
+ 2 € TTC/mois
+
+Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an
+
+ 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
 
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
+
+ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 €
+
+ 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an
+
+ 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
 
 
 
@@ -358,7 +374,7 @@ Les assurances
 
 DURABILITÉ
 
-\- 15 octobre 2022 - 12
+\- 9 novembre 2022 - 12
 
 
 
@@ -442,29 +458,29 @@ Enlèvement à domicile de l’appareil dans le cadre des 15 jours pour changer 
 
 Pour les produits volumineux (3) Gros Electroménager encastrables
 
-Encastrement et fixation du micro-ondes dans le caisson 79 € (8)
+Encastrement et fixation du micro-ondes dans le caisson 89 € (8)
 
 
 
-Encastrement et fixation de la porte décorative du lave-vaisselle 79 € (8)
+Encastrement et fixation de la porte décorative du lave-vaisselle 89 € (8)
 
 
 
-Encastrement et fixation de la porte décorative du réfrigérateur, congélateur, lave-linge ou sèche-linge 119 € (8)
+Encastrement et fixation de la porte décorative du réfrigérateur, congélateur, lave-linge ou sèche-linge 129 € (8)
 
 
 
-Encastrement de la plaque de cuisson avec découpe et ajustement du plan de travail 119 € (8)
+Encastrement de la plaque de cuisson avec découpe et ajustement du plan de travail 129 € (8)
 
 
 
-Fixation de la hotte ou du groupe filtrant, jusqu’à 90 cm 119 € (8)Pour les produits volumineux(3) TV
+Fixation de la hotte ou du groupe filtrant, jusqu’à 90 cm 129 € (8)Pour les produits volumineux(3) TV
 
-Montage du meuble TV 59 €
+Montage du meuble TV 69 €
 
-Configuration de la Smart TV 59 €
+Configuration de la Smart TV 69 €
 
-Fixation murale et configuration de la Smart TV 149 € (8)Pour les vélos à assistance électrique
+Fixation murale et configuration de la Smart TV 169 € (8)Pour les vélos à assistance électrique
 
 Montage et mise en service 59 €
 
@@ -474,9 +490,9 @@ Montage et mise en service 59 €
 
 
 
-\- 15 octobre 2022 - 13
+\- 9 novembre 2022 - 13
 
-\- 15 octobre 2022 - 14
+\- 9 novembre 2022 - 14
 
 
 
@@ -580,7 +596,7 @@ suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un 
 
 TABLEAUX DES GARANTIES
 
-\- 15 octobre 2022 - 15
+\- 9 novembre 2022 - 15
 
 
 
@@ -620,7 +636,9 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
+Hi-Fi:
+
+ Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
@@ -730,7 +748,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 TABLEAUX DES GARANTIES
 
-\- 15 octobre 2022 - 16
+\- 9 novembre 2022 - 16
 
 
 
@@ -772,7 +790,7 @@ Garantie
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 15 octobre 2022 - 17
+\- 9 novembre 2022 - 17
 
 
 
@@ -830,7 +848,7 @@ pièces et main d’œuvreet déplacement
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 15 octobre 2022 - 18
+\- 9 novembre 2022 - 18
 
 
 
@@ -898,7 +916,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 15 octobre 2022 - 19
+\- 9 novembre 2022 - 19
 
 
 
@@ -952,7 +970,7 @@ remboursementà neuf
 
 TABLEAUX DES GARANTIESSUR MESURE
 
-\- 15 octobre 2022 - 20
+\- 9 novembre 2022 - 20
 
 
 
@@ -1052,7 +1070,7 @@ Le vendeur livre un bien conforme au contrat et répond des défauts deconformit
 
 
 
-\- 15 octobre 2022 - 21
+\- 9 novembre 2022 - 21
 
 Ancien article L. 217-5 du code de la consommation
 
@@ -1116,7 +1134,7 @@ Le contenu numérique ou le service numérique est conforme au contrats'il répo
 
 
 
-\- 15 octobre 2022 - 22
+\- 9 novembre 2022 - 22
 
 Article L .224-25-14 du Code de la consommation
 
@@ -1152,7 +1170,7 @@ Les don nées vous concer n a nt sont t ra itées pa r les sociétésETABLISSEME
 
 
 
-\- 15 octobre 2022 - 23
+\- 9 novembre 2022 - 23
 
 Données FNAC DARTY (dpo@fnacdarty.com), ou par courrier : Darty \&Fils Service Client DARTY Service Consommateur - 38 avenue RogerSalengro 94120 Fontenay-sous-Bois. Vous disposez par ailleurs, du droitd’introduire une réclamation auprès de la Commission Nationale del’Informatique et des Libertés (CNIL), notamment sur son site internetwww.cnil.fr. La plupart des données vous concernant seront conservéespendant une durée de 5 ans à compter de votre dernière activité (ex. :achat, échéance de vos contrats), puis archivées avec un accès restreintpour une durée supplémentaire de 5 ans pour des raisons strictementlimitées et autorisées par la loi (paiement, garantie, litiges ...). Vous êtesinformés que vos données peuvent être transmises pour les besoinsdes finalités mentionnées ci-dessus à des sociétés situées en dehorsde l’Union Européenne notamment pour les activités de service client(centres d’appel situés au Maroc et à Madagascar), prestationsinformatiques, exploitation des données en lien avec les réseauxsociaux. Toute procédure requise pour sécuriser les données sera miseen œuvre avant de procéder à de tels transferts. Plus d’informations surl a p r o t e c t i o n d e s d o n n é e s p e r s o n n e l l e s s u rdarty.com : https://www.darty.com/achat/informations/donnees_personnelles.html
 
@@ -1170,4 +1188,4 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 joursà compt
 
 
 
-\- 15 octobre 2022 - 24
+\- 9 novembre 2022 - 24
