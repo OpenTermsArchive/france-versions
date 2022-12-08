@@ -63,7 +63,7 @@ Le Client peut utiliser lors de l’achat des bons promotionnels offerts par le 
 
 **5.1 Modalités de paiement**  
   
-Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, virement bancaire, espèces à la livraison et paiement échelonné via Klarna ou Clearpay.  
+Le Vendeur accepte diverses modalités de paiement parmi lesquelles, par exemple, carte de crédit, carte de débit, Paypal, espèces à la livraison et paiement échelonné via Klarna ou Clearpay.  
   
 En cas de paiement avec une carte de crédit, une carte de débit et par Paypal, le débit du montant s’effectuera seulement au moment où la commande sera complète et prête à être expédiée.  
   
