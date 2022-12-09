@@ -1,6 +1,10 @@
 Conditions générales de vente
 =============================
 
+﻿-------------------------
+
+Pendant la période des fêtes de Noël, le délai de retour est prolongé jusqu’au 31 janvier 2023 minuit pour toutes les commandes effectuées entre le 15 novembre 2022 et le 06 janvier 2023 inclus.
+
 \-----------------------------------------------
 
 Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.  
