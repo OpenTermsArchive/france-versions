@@ -297,7 +297,7 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 * \- Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
 * \- Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
 * \- Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
-* \- Contacter le délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.vertbaudet.fr/cdn-cgi/l/email-protection)m
+* \- Contacter le délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.vertbaudet.fr/cdn-cgi/l/email-protection)
 * \- Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 216 rue Winoc Chocqueel – 59200 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
