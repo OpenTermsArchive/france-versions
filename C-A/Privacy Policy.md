@@ -24,7 +24,7 @@ Wanheimer Straße 70
 
 Ci-après, « nous » ou « C&A » désignent donc la société C&A Mode GmbH & Co. KG en tant qu’exploitante de l’e-shop C&A. Vous trouverez plus de détails sur notre entreprise et nos coordonnées dans les [Mentions légales.](https://www.c-and-a.com/fr/fr/shop/service/mentions-legales)
 
-Vous pouvez contacter notre délégué à la protection des données à l’adresse [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection#removed) ou à l’adresse postale susmentionnée en ajoutant « A l’att. du délégué à la protection des données ».
+Vous pouvez contacter notre délégué à la protection des données à l’adresse [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) ou à l’adresse postale susmentionnée en ajoutant « A l’att. du délégué à la protection des données ».
 
 ### 2. Quelles sont les données enregistrées par C&A ?
 
@@ -58,7 +58,7 @@ Vous pouvez évidemment acheter dans l’e-shop C&A en tant qu’invité sans co
 
 Lorsque vous vous inscrivez pour un compte client C&A, nous créons pour vous un accès direct protégé par mot de passe à vos données de base stockées chez nous (p. ex. numéro de client C&A, nom, adresse, date de naissance, numéro de téléphone, adresse électronique, données de paiement), données de commande (produits commandés, numéros d’articles, quantités) et autres informations (p. ex. produits de la liste de souhaits). Les informations obligatoires pour l’inscription sont en général marquées séparément, p. ex. par un astérisque (« \* »). Nous indiquons pourquoi nous demandons les informations facultatives. En outre, pour des raisons de sécurité, nous enregistrons temporairement l’adresse IP que vous utilisez pour l’inscription.
 
-Vous pouvez supprimer à tout moment votre compte client C&A et les données qu’il contient. Pour cela, envoyez-nous un message informel, p. ex. par courrier électronique à [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection#removed) ou utilisez notre formulaire de contact. Attention : la suppression de votre compte client ne se propage pas automatiquement aux processus de commande et aux données à caractère personnel enregistrées pour cela (voir à ce sujet point 9 : Combien de temps mes données sont-elles conservées ?).
+Vous pouvez supprimer à tout moment votre compte client C&A et les données qu’il contient. Pour cela, envoyez-nous un message informel, p. ex. par courrier électronique à [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) ou utilisez notre formulaire de contact. Attention : la suppression de votre compte client ne se propage pas automatiquement aux processus de commande et aux données à caractère personnel enregistrées pour cela (voir à ce sujet point 9 : Combien de temps mes données sont-elles conservées ?).
 
 #### 2.4 Lorsque vous passez commande sur l’e-shop C&A
 
