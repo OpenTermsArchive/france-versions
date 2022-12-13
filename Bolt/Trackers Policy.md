@@ -68,7 +68,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (52)
+Statistics (50)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -89,7 +89,6 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
 | \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
-| af\_id \[x2\] | [Appsflyer](https://www.appsflyer.com/privacy-policy/ "Appsflyer's privacy policy")  <br>[AppsFlyer](https://www.appsflyer.com/privacy-policy/ "AppsFlyer's privacy policy") | Sets a unique ID that allows the website to obtain data on visitor behaviour on the website and the app for statistical purposes. | 400 days | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
 | events/1/# | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Used to monitor website performance for statistical purposes. | Session | Pixel Tracker |
@@ -106,7 +105,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (49)
+Marketing (46)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -126,9 +125,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_trackingplan\_sample\_rate\_ts | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
 | \_ttp \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | ads/ga-audiences | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session | Pixel Tracker |
-| AF\_SESSION | [Google](https://policies.google.com/privacy "Google's privacy policy") | Tracks the conversion rate between the user and the advertisement banners on the website - This serves to optimise the relevance of the advertisements on the website. | Persistent | HTML Local Storage |
-| AF\_SYNC | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Vimeo to track usage of their embedded video player. | 7 days | HTTP Cookie |
-| afUserId | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Vimeo to track usage of their embedded video player. | 400 days | HTTP Cookie |
 | bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | cg\_uuid | potter.mcangelus.com | Pending | 11 months | HTTP Cookie |
 | dismissedBanners | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
