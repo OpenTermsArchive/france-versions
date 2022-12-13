@@ -247,7 +247,7 @@ Nous pouvons être amenés à modifier occasionnellement la présente Politique 
 13\. Contact
 ------------
 
-Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)
+Pour toute question relative à la présente Politique de Confidentialité ou pour toute demande relative à vos Données Personnelles, vous pouvez nous contacter en adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)
 
 \*\*\*
 
@@ -308,7 +308,7 @@ Ces informations contiennent notamment les données suivantes :
 **2.2.3.** Nous recueillons également des informations sur votre utilisation de notre Plateforme (telles que le nombre d’annonces publiées, votre taux de réponse aux messages, votre date d’inscription, votre moyenne d’avis reçus, etc.) qui sont susceptibles d’être affichées sur votre profil public.
 
 **2.2.4.** Enfin, nous recueillons des informations techniques relatives au modèle de votre véhicule lorsque vous nous transmettez votre numéro de plaque d’immatriculation afin de faciliter le remplissage du formulaire décrivant votre véhicule. Ces informations sont recueillies en interrogeant la base de données produite par la société Dataneo ([dataneo.fr](http://www.dataneo.fr/)) à partir des informations transmises par le Ministère de l’Intérieur dans le cadre d’une licence de réutilisation des données du Système d’Immatriculation des Véhicules en application de l’article L. 330-5 du code de la route.  
-Sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo ([\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)ou DataNeo – [6-8-10, rue Troyon – 92310 Sèvres](https://maps.google.com/?q=6-8-10,+rue+Troyon+%E2%80%93+92310+S%C3%A8vres&entry=gmail&source=g)) ou en nous contactant directement (voir article 13 ci-dessous)
+Sur justificatif de votre identité et si les conditions d’exercice de ces droits sont remplies, vous pouvez exercer vos droit d’accès, droit de rectification, droit d’effacement, droit à la limitation des traitements, droit d’opposition, droit d’introduire une réclamation auprès de la CNIL et votre droit de définir le sort de vos données après votre décès en écrivant à DataNeo ([\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)ou DataNeo – [6-8-10, rue Troyon – 92310 Sèvres](https://maps.google.com/?q=6-8-10,+rue+Troyon+%E2%80%93+92310+S%C3%A8vres&entry=gmail&source=g)) ou en nous contactant directement (voir article 13 ci-dessous)
 
 ### 2.3. Durée de conservation de vos données
 
@@ -470,4 +470,4 @@ Nous pouvons être amené à modifier occasionnellement la présente politique d
 
 Pour toute question relative à la présente politique de confidentialité ou pour toute demande relative à vos données personnelles, vous pouvez nous contacter en :
 
-* adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection#removed)
+* adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)
