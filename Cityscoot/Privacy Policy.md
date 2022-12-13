@@ -132,7 +132,7 @@ Les transferts des données hors UE
 
 Cityscoot est susceptible de recourir notamment à un service de stockage et partage de fichiers et à un prestataire de gestion des droits, dont les serveurs ou systèmes peuvent être situés en dehors de l’Espace Economique Européen (EEE), entraînant le transfert des Données en dehors du territoire de l’EEE.
 
-Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)) ou auprès de notre délégué à la protection des données ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed)).
+Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection)) ou auprès de notre délégué à la protection des données ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection)).
 
 Les Informations issues des Cookies et technologies similaires peuvent être transférées hors Union Européenne en vue de leur hébergement et de leur traitement dans le cadre des finalités publicitaires ou de mesures d’audience. Vous trouverez plus d’informations sur ce point pour chaque partenaire concerné dans la [Politique de Gestion des Cookies](https://www.cityscoot.eu/politique-de-cookies/).
 
@@ -165,7 +165,7 @@ Pour plus d’information : [https://www.cnil.fr/fr/les-droits-pour-maitriser
 
 **Exercer ses droits**
 
-L’exercice de ces droits s’effectue à tout moment, auprès de Cityscoot, à l’aide d’une pièce d’identité par voie électronique : [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection#removed).
+L’exercice de ces droits s’effectue à tout moment, auprès de Cityscoot, à l’aide d’une pièce d’identité par voie électronique : [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection).
 
 **Réclamation auprès de la CNIL**
 
