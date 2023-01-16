@@ -17,9 +17,9 @@ Il est précisé que certains des destinataires mentionnés ci-dessus sont susce
 
 6\. Les données personnelles du passager seront conservées aussi longtemps que requis pour les finalités visées ci-dessus ainsi que dans la mesure nécessaire pour se conformer aux obligations légales auxquelles est soumise Air Algérie.
 
-7\. Le passager dispose du droit d’accès, de rectification, et de suppression ou d’opposition sur les données le concernant ses droits s’exercent auprès du Délégué à la Protection des Données, par courrier postal à l’adresse suivante :  DPO Air Algérie, 1 place Maurice Audin, Alger, Algerie ; ou par email à l'adresse **[dpo@airalgerie.dz](mailto:dpo@airalgerie.dz)**  
+7\. Le passager dispose du droit d’accès, de rectification, et de suppression ou d’opposition sur les données le concernant ses droits s’exercent auprès du Délégué à la Protection des Données, par courrier postal à l’adresse suivante :  DPO Air Algérie, 1 place Maurice Audin, Alger, Algerie ; ou par email à l'adresse **[\[email protected\]](https://airalgerie.dz/cdn-cgi/l/email-protection)**  
 
-     Pour l’Italie, le Délégué à la Protection des Données peut être contacté à l’adresse Quattro Fontane no. 177/178, Rome ou  via  PEC  **[dpo.italie@airalgerie.dz](mailto:dpo.italie@airalgerie.dz)** 
+     Pour l’Italie, le Délégué à la Protection des Données peut être contacté à l’adresse Quattro Fontane no. 177/178, Rome ou  via  PEC  **[\[email protected\]](https://airalgerie.dz/cdn-cgi/l/email-protection)** 
 
 8\. Sous réserve de la réglementation en vigueur, le transporteur se réserve la possibilité d’utiliser les données du passager dans les conditions et pour les finalités définies ci-dessus.
 
