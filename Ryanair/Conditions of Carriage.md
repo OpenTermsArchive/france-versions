@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 06 Sep 2021
+### Date d’entrée en vigueur : 09 Jan 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 06 Sep 2021**
+**Date d’entrée en vigueur : 09 Jan 2023**
 
   
 
@@ -202,6 +202,8 @@ Nos tarifs n’incluent pas les frais des tiers et les coûts que nous encouro
 Si vous ne voyagez pas, vous pouvez faire une demande écrite, notamment en ligne au moyen du formulaire de remboursement en ligne accessible par les FAQ ou sous la rubrique « nous contacter », de remboursement des taxes gouvernementales. Il sera procédé gratuitement au remboursement au plus tard trente jours à compter de la date de réception de votre demande. Toutes les autres sommes versées sont non remboursables, sauf dispositions contraires figurant aux articles 10.2, 10.3 et 10.4 des présentes Conditions générales de transport.  
 
 **4.2.2** Les taxes gouvernementales sont en constante évolution et peuvent être imposées après la date à laquelle de votre réservation a été effectuée. Si ces taxes sont introduites ou augmentées après votre réservation, vous devrez vous en acquitter (ou régler la différence, dans le cas d’une augmentation) avant votre départ. Si vous choisissez de ne pas voyager, vous bénéficierez d’un remboursement intégral de votre billet. Corrélativement, si des taxes gouvernementales, sont supprimées ou réduites et ne s’appliquent plus à votre réservation vous pourrez nous réclamer le remboursement de la différence.  
+  
+**4.2.3** Si vous avez acheté un service facultatif (tel qu’un siège attribué) et embarqué sur votre vol, mais que nous ne vous avons pas fourni le service équivalent pour des raisons qui nous sont imputables (telles que le changement d’avion nous empêchant de vous attribuer un siège avec plus de place pour les jambes que vous aviez acheté), vous pouvez demander le remboursement des frais correspondants que vous avez payés pour ce service.
 
 4.3 DEVISE
 
@@ -1087,43 +1089,53 @@ Les tarifs Plus ne seront pas disponibles pour les réservations comprenant des 
 
 **Flexi Plus**  
 
-L’option Flexi Plus est disponible sur tous les vols et doit être achetée pour l’ensemble des passagers et des vols d’une même réservation.  
+Les services des tarifs Flexi Plus sont disponibles sur tous les vols et doivent être choisis pour tous les passagers et tous les vols d’une même réservation. Vous ne pouvez acheter ces tarifs qu’au moment où vous effectuez votre réservation. 
 
-Le tarif Flexi Plus n’est proposé qu’au moment de la réservation.  
+Tous les tarifs Flexi Plus sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.  
+ 
 
-Tous les tarifs Flexi Plus sont non remboursables, à l’exception des cas prévus par les articles 4.2, 10.2, 10.3 et 10.4 des présentes Conditions générales.  
+Les services suivants sont inclus dans les tarifs Flexi Plus :
 
-Prestations diverses disponibles avec l’option Flexi Plus :  
+*       Enregistrement gratuit à l’aéroport
+*       Tout siège réservé
+*       Priorité et 2 bagages cabine
+*       Flexibilité concernant les changements de billets
+*       Service de sécurité Fast Track dans les aéroports suivants  
+      
+    
 
-* Enregistrement gratuit à l’aéroport
+Londres Stansted, Bruxelles Charleroi, Milan Bergame, Barcelone, Malaga, Birmingham, Manchester, East Midlands, Glasgow, Édimbourg, Francfort Hahn, Hambourg, Stuttgart, Eindhoven, Bruxelles (Zaventum), Stockholm (Skavsta), Budapest, Varsovie Modlin, Liverpool John Lennon, Londres Gatwick, Rome Ciampino, Rome Fiumicino, Cologne/Bonn et Athènes.
 
-* Tout siège attribué
+**Tarif Flexi Plus –** 
 
-* Priorité et 2 bagages de cabine
+Modification du vol ou de l’itinéraire réservé le jour du voyage  
 
-* Service de sécurité Fast Track à l’aéroport (sous réserve de disponibilité\*)
-
-* Flexibilité sur les modifications de billet
-
-\* Disponibles à Londres Stansted, Bruxelles Charleroi, Milan Bergame, Barcelone, Malaga, Birmingham, Manchester, East Midlands, Glasgow, Edimbourg, Francfort Hahn, Hambourg, Stuttgart, Eindhoven, Bruxelles (Zaventem), Stockholm (Skavsta), Budapest, Varsovie Modlin, Liverpool, Londres Gatwick, Rome Ciampino, Rome (Fiumicino), Cologne/Bonn et Athènes.  
-
-**Changement de vol – le jour du voyage**  
-
-Le jour du voyage, le vol réservé peut être modifié (vol/itinéraire) gratuitement, en faveur d’un vol partant plus tôt ou plus tard dans la même journée (dans la limite des places disponibles). Ce changement de vol gratuit doit être effectué au plus tard 1 heure après l’heure de départ du vol initial si le changement se fait en faveur d’un vol plus tardif, ou 40 minutes\* avant le nouveau vol si le changement se fait en faveur d’un vol ayant lieu plus tôt.  
+Avec un tarif Flexi Plus, vous pouvez changer votre vol réservé le jour du voyage, sans frais, et choisir à la place un vol sur le même itinéraire que votre vol initial (s’il reste un siège disponible). Si vous changez votre vol réservé le jour du voyage et choisissez à la place un vol sur un itinéraire différent, vous n’aurez pas à payer de frais de changement de vol. Toutefois, vous devrez payer toute différence de tarif. Si vous changez pour un vol ultérieur, vous pouvez le faire jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification:  
   
-Cette modification peut être effectuée au guichet de l’aéroport ou via un centre d’appel (selon les heures d’ouverture) ou jusqu’à 1 heure avant si la modification est effectuée via un centre d’appel (selon les heures d’ouverture)
 
-**Changement de vol ou d’itinéraire – avant le jour du voyage**  
+* jusqu’à 40 minutes avant le nouveau vol si vous effectuez le changement au comptoir de l’aéroport ; ou  
+    
+* jusqu’à une heure avant le nouveau vol si vous effectuez le changement via un centre de contact.  
+    
 
-Aucune modification de vol (vol/itinéraire) effectuée avant le jour du voyage ne donnera lieu à des frais de changement de vol, mais toute différence de tarif applicable devra être réglée. Les changements d’itinéraire sont permis entre les mêmes pays de départ et de destination.  
-  
-Les clients ayant déjà effectué leur enregistrement en ligne devront nous contacter  pour annuler l’enregistrement pour ce vol avant de pouvoir faire un changement.
+Modification du vol ou de l’itinéraire réservé avant le jour du voyage  
 
-Lorsqu’un vol est modifié, les services inclus dans l’option Business Plus (listés ci-dessous) sont transférés vers le nouveau vol (selon les disponibilités) ; toutefois, si un service ne peut être transféré, aucun remboursement n’est dû.
+Si vous changez pour un vol partant un jour ou plus avant ou après le vol initial, vous n’aurez pas à payer de frais de changement de vol, mais devrez payer la différence de tarif.  Vous pouvez effectuer la modification jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification :
 
-**Changements de nom**  
+* jusqu’à 40 minutes avant le nouveau vol si vous effectuez le changement au comptoir de l’aéroport ; ou  
+    
+* jusqu’à une heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
 
-Les changements de nom restent soumis aux règles et frais applicables qui sont détaillés dans nos Règlements sur des sujets particuliers et notre Tableau des tarifs.
+Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. Avec un billet Flexi Plus, vous pouvez effectuer l’enregistrement à l’aéroport gratuitement.
+
+Vous pouvez modifier l’itinéraire de tous les vols d’une réservation en ligne dans la section « Mes réservations ». Toutefois, une fois que vous avez effectué le vol aller, vous ne pourrez modifier l’itinéraire du vol retour qu’au comptoir d’un aéroport ou par l’intermédiaire d’un centre d’appels. Vous ne pouvez modifier l’itinéraire que si le pays de départ et le pays de destination sont les mêmes.
+
+Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont transférés sur le nouveau vol (si ces services sont disponibles pour ce vol). Si un service ne peut pas être transféré, vous n’obtiendrez le remboursement d’aucune partie du tarif Flexi Plus.    
+ 
+
+**Flexi Plus** – Changements de nom
+
+Le règlement 13 s’applique toujours aux changements de nom et vous devrez payer les frais appropriés.
 
 TRANSPORT DES PERSONNES HANDICAPÉES ET DES PERSONNES À MOBILITÉ RÉDUITE
 
