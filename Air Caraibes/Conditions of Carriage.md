@@ -106,7 +106,7 @@ Sauf exception dans le texte, les termes suivants lorsqu’ils sont utilisés av
    
 **Agent Accrédité** désigne une personne physique ou morale qu’Air Caraïbes a désignée pour la représenter dans la vente de titres de Transport Aérien sur ses services ou ceux d’un autre Transporteur, si cet Agent Accrédité y est autorisé.   
    
-**Air Caraïbes** désigne la société Air Caraïbes, société anonyme à conseil d’administration au capital de 61 168 400 euros, dont le siège social est situé à 9 boulevard Daniel Marsin, Parc d’Activités de la Providence, 97139 Les Abymes, et immatriculée sous le numéro 414 800 482 RCS Pointe-à-Pitre.   
+**Air Caraïbes** désigne la société Air Caraïbes, société anonyme à conseil d’administration au capital de 101 168 400 euros, dont le siège social est situé à 9 boulevard Daniel Marsin, Parc d’Activités de la Providence, 97139 Les Abymes, et immatriculée sous le numéro 414 800 482 RCS Pointe-à-Pitre.   
    
 **Animaux de Compagnie** désigne l´animal de compagnie accompagnant, en cabine ou en soute, le Passager qui en est le propriétaire, ou qui en assume la responsabilité pour le compte du propriétaire au cours du voyage.  
    
@@ -385,14 +385,14 @@ En cas de paiement en 4 fois : 
 
    
 En cas d’annulation, tout remboursement (s’il est possible) se fera selon les conditions tarifaires du Billet conformément aux présentes Conditions Générales de Vente et de Transport.   
- **4\.     Paiement en plusieurs fois (3 ou 4 fois) sur le site internet d’Air Caraïbes**  
+ **4\.     Paiement en plusieurs fois (3 ou 4 fois) par Carte bancaire sur le site internet d’Air Caraïbes**  
    
 Oney Bank propose sur le site internet d’Air Caraïbes une solution de financement dénommée 3x 4x Oney, qui permet de payer les achats de 100€ à 6000€\* en 3 ou 4 fois avec une carte bancaire.  
 \* Pour Cayenne le montant maximum de la commande est de 4000€  
    
 (a) Conditions  
-Cette offre est réservée aux particuliers (personnes physiques majeures, sont expressément exclues les personnes physiques agissant à des fins professionnelles) résidant en France Métropolitaine, en Guadeloupe, à Saint Martin, en Martinique, à la Réunion, en Guyane et titulaires d’une carte bancaire Visa ou MasterCard, émise par un établissement français et possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.  
-Cette solution de paiement en 3x ou 4x est accessible dès lors que le délai entre la date de Réservation du Billet et la date de début de voyage est supérieur à 7 jours.  
+Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa ou MasterCard, possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.  
+Cette solution de paiement en 3x ou 4x est accessible dès lors que le délai entre la date de Réservation du Billet et la date de début de voyage est supérieur à 14 jours.  
    
 (b) Modalités de souscription  
 Après avoir terminé la commande, il suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».  
@@ -407,16 +407,18 @@ Oney Bank se réserve le droit d’accepter ou de refuser toute demande de finan
 (c) Fonctionnement  
 Le paiement en 3 ou 4 fois par carte bancaire permet aux clients de régler la commande effectuée sur le site marchand d’Air Caraïbes de la façon suivante :
 
-* un apport obligatoire, débité le jour de la confirmation de l’expédition de la commande ;
-* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,45% du montant total de la commande pour un 3 fois et à 2,2 % pour un 4 fois (dans la limite de 15€ maximum pour un paiement en 3 fois et de 30€ maximum pour un 4 fois).
+* un apport obligatoire, débité le jour de la confirmation de la commande ;
+* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,56% du montant total de la commande pour un 3 fois et à 2,3 % pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
 
    
-• Le paiement en 3 fois à partir de 100€ d’achat et jusqu’à 6000€  
-Exemple : pour un achat de 150€, apport de 52,18€ puis 2 mensualités de 50€.  
-Crédit d’une durée de 2 mois au TAEG fixe de 19,26%. Coût du financement : 2,18€ dans la limite de 15€ maximum.  
-• Le paiement en 4 fois à partir de 100€ d’achat et jusqu’à 6000€  
-Exemple : Pour un achat de 400€, apport de 108,80€ puis 3 mensualités de 100€.  
-Crédit sur 3 mois au TAEG fixe de 19,31%. Coût du financement : 8,80€ dans la limite de 30€ maximum.  
+• Le paiement en 3 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
+Exemple : pour un achat de 150€, apport de 52,30€ puis 2 mensualités de 50€.  
+Crédit d’une durée de 2 mois au TAEG fixe de 20,8%. Coût du financement : 2,3€ dans la limite de 25€ maximum.  
+• Le paiement en 4 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
+Exemple : Pour un achat de 400€, apport de 109,36€ puis 3 mensualités de 100€.  
+Crédit sur 3 mois au TAEG fixe de 21,01%. Coût du financement : 9,36€ dans la limite de 50€ maximum.
+
+\* Pour Cayenne le montant maximum de la commande est de 4000€  
    
 Conditions particulières pour les offres promotionnelles ponctuelles :  
 Pour le paiement en 3 fois sans frais : le coût du financement est de 0% du montant total de la commande.  
@@ -434,7 +436,7 @@ En cas de modification de la prestation de transport l’initiative du client : 
 **En cas d’annulation partielle (soit l’aller, soit le retour) par Air Caraïbes**, le crédit sera soit modifié au regard du nouveau montant du Billet, réduisant ainsi la durée de remboursement et/ou le montant de la dernière mensualité, ou annulé. Les intérêts échus à la date d’annulation partielle resteront dus par le client.  
 Les nouvelles conditions du crédit seront communiquées au client par courrier électronique comprenant notamment le montant de ses nouvelles mensualités et leurs dates de prélèvement. Le montant des prélèvements au moyen de la carte bancaire seront réajustés en conséquence.  
    
-Oney Bank - SA au capital de 50 601 985€ - Siège social : 40 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr -  
+Oney Bank - SA au capital de 51 286 585€ - Siège social : 34 avenue de Flandre 59170 CROIX - 546 380 197 RCS Lille Métropole - n° Orias : 07 023 261 - www.orias.fr -  
 Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr
 
 **5\.     Contestation du paiement après émission**  
