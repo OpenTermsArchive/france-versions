@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 4 octobre 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20221004/a2n853ky/google_privacy_policy_fr_eu.pdf)
+À compter du 15 décembre 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20221215/qi5mvafl/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -142,13 +142,13 @@ Nous utilisons les informations que nous collectons via nos services existants a
 
 Nous utilisons les informations que nous collectons pour personnaliser nos services en fonction de vous, notamment pour vous proposer des recommandations, du contenu personnalisé et des [résultats de recherche personnalisés](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-customized-search). Par exemple, le [Check-up Sécurité](https://myaccount.google.com/security-checkup?utm_source=pp&hl=fr) offre des astuces de sécurité adaptées à votre utilisation des produits Google. Le service Google Play exploite quant à lui des informations, telles que les applications que vous avez déjà installées et les vidéos que vous avez regardées sur YouTube pour vous proposer de nouvelles applications susceptibles de vous intéresser.
 
-Selon vos paramètres, nous pouvons également vous présenter des [annonces personnalisées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personalized-ads) sélectionnées sur la base de vos centres d'intérêt. Par exemple, si vous effectuez une recherche sur "VTT", il est possible qu'une annonce faisant la promotion d'équipement de sport s'affiche lorsque vous parcourez un site sur lequel la diffusion des annonces est assurée par Google. Vous pouvez accéder aux paramètres des annonces afin de gérer les informations que nous utilisons pour vous présenter des annonces.
+Selon vos paramètres, nous pouvons également vous présenter des [annonces personnalisées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personalized-ads) sélectionnées sur la base de vos centres d'intérêt. Par exemple, si vous recherchez "VTT", il est possible qu'une annonce faisant la promotion d'équipements de sport s'affiche lorsque vous parcourez un site qui propose des annonces diffusées par Google. Vous pouvez contrôler les informations que nous utilisons pour vous présenter des annonces dans les paramètres des annonces de [Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr).
 
 * Nous ne vous présentons pas d'annonces personnalisées en fonction de [catégories sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-categories), telles que la race, la religion, l'orientation sexuelle ou la santé.
 * Nous ne vous présentons pas d'annonces personnalisées en fonction de vos contenus sur Drive, Gmail ou Photos.
 * Sauf demande expresse de votre part, nous ne partageons pas d'informations qui permettent de vous identifier, telles que votre nom ou votre adresse e-mail, avec les annonceurs. Par exemple, si vous voyez une annonce faisant la promotion d'un fleuriste à proximité et que vous appuyez sur le bouton "Appuyer pour appeler", nous établirons la liaison téléphonique et pourrons partager votre numéro de téléphone avec le fleuriste.
 
-[Accéder aux paramètres des annonces](https://adssettings.google.com/?ref=privacy-policy&hl=fr)
+[Accéder à Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr)
 
 ### Évaluer les performances
 
@@ -200,7 +200,7 @@ Choisissez les types d'activité à enregistrer dans votre compte. Par exemple, 
 
 Gérez vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui [s'associent à Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-partner) pour diffuser des annonces. Vous avez la possibilité de modifier vos centres d'intérêt, de décider si vos informations personnelles peuvent être utilisées pour améliorer la pertinence des annonces, et d'activer ou de désactiver certains services publicitaires.
 
-[Accéder aux paramètres des annonces](https://adssettings.google.com/?ref=privacy-policy&hl=fr)
+[Accéder à Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr)
 
 ### À propos de vous
 
@@ -244,7 +244,7 @@ Lorsque vous n'êtes pas connecté à votre compte, vous pouvez gérer les infor
 
 * Personnalisation des recherches effectuées lorsque vous n'êtes pas connecté à votre compte : vous pouvez [décider](https://www.google.com/history/optout?utm_source=pp&hl=fr) de nous permettre ou non d'utiliser votre activité de recherche pour vous proposer des résultats et des recommandations plus pertinents.
 * Paramètres YouTube : vous pouvez suspendre et supprimer votre [historique des recherches YouTube](https://www.youtube.com/feed/history/search_history?utm_source=pp&hl=fr) ainsi que votre [historique des vidéos regardées sur YouTube](https://www.youtube.com/feed/history?utm_source=pp&hl=fr).
-* Paramètres des annonces : vous pouvez [gérer](https://adssettings.google.com/?ref=privacy-policy&hl=fr) vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui s'associent à Google pour diffuser des annonces.
+* Paramètres des annonces : vous pouvez [gérer](https://myadcenter.google.com/?hl=fr) vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui s'associent à Google pour diffuser des annonces.
 
 Exporter et supprimer vos informations
 --------------------------------------
@@ -482,7 +482,6 @@ Les liens suivants renvoient vers des ressources utiles qui vous permettent d'en
 * La page [Technologies](https://policies.google.com/technologies?hl=fr-FR&gl=FR) inclut davantage d'informations sur les éléments suivants :
     * [Comment Google utilise les cookies](https://policies.google.com/technologies/cookies?hl=fr-FR&gl=FR)
     * Technologies utilisées à des fins [publicitaires](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR)
-    * [Utilisation de la reconnaissance de formes par Google](https://policies.google.com/technologies/pattern-recognition?hl=fr-FR&gl=FR) pour détecter des éléments, tels que des visages sur des photos
     * [Comment utilisons-nous les informations collectées via les sites ou applications qui font appel à nos services ?](https://policies.google.com/technologies/partner-sites?hl=fr-FR&gl=FR)
 
 Termes clés
