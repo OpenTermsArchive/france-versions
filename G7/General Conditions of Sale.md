@@ -72,7 +72,7 @@ Le CLIENT s’il est un professionnel, indiquera à la SOCIETE pour les besoins 
 
 Le CLIENT garantit la véracité et l’exactitude des informations qu’il communique à la SOCIETE et reconnaît que la responsabilité de la SOCIETE ne pourra être engagée en cas d’erreur de saisie par le CLIENT de ses coordonnées de facturation.
 
-Le CLIENT devant s’identifier pour accéder au service en utilisant son identifiant et son mot de passe, toute Commande effectuée à partir de son compte G7® est réputée effectuée par lui. Par conséquent, le prix correspondant à cette commande sera débité de son compte bancaire selon les modalités et conditions tarifaires visées à l’article 4.
+Le CLIENT devant s’identifier pour accéder au service en utilisant son identifiant et son mot de passe, toute commande effectuée à partir de son compte G7® est réputée effectuée par lui. Par conséquent, le prix correspondant à cette commande sera débité de son compte bancaire selon les modalités et conditions tarifaires visées à l’article 4.
 
 **2.2. – Service « _G7_**® **_Connect_** **» : utilisation de l’application Smartphone G7**® **et du compte G7**® **du CLIENT à l’occasion de « courses rue »** **effectuées à bord de taxis parisiens affiliés G7**®
 
