@@ -2,11 +2,11 @@ Conditions générales
 d’utilisation du service
 ===============================================
 
-Dernière mise à jour le 27 octobre 2022
+Dernière mise à jour le 25 octobre 2022
 
 Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service CITYSCOOT, tels que ces termes sont définis ci-après.
 
-CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 122 436,80 euros, immatriculée au RCS de Paris sous le numéro 800 862 021, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
+CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro 800 862 021, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
 
 Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu](http://www.cityscoot.eu/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
 
