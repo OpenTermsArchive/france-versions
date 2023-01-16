@@ -1,6 +1,3 @@
-Nous avons mis à jour notre politique de confidentialité. Prenez le temps de la consulter avant qu’elle n'entre en vigueur le 15 décembre 2022.  
-Cette page contient la politique de confidentialité mise à jour ; pour la version en vigueur jusqu'au 15 décembre 2022, [cliquez ici](https://www.redditinc.com/fr-fr/policies/privacy-policy-revision-2021-09-12).
-
 Politique de Confidentialité de Reddit
 ======================================
 
