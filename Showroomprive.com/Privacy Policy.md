@@ -1,8 +1,8 @@
 **POLITIQUE DE CONFIDENTIALITE**
 
-Août 2021
+Novembre 2022
 
-La protection de vos données personnelles est l’une de nos priorités. Sur nos sites internet et notre application mobile (le « Site »), nous appliquons la présente politique de confidentialité (« Politique de Confidentialité »). Celle-ci nous permet de vous informer de l’utilisation et de la protection de vos données.
+La protection de vos données personnelles est l’une de nos priorités. Sur nos sites internet, et notre application mobile (le « Site »), nous appliquons la présente politique de confidentialité (« Politique de Confidentialité »). Celle-ci nous permet de vous informer de l’utilisation et de la protection de vos données.
 
 Dans le cadre de la Politique de Confidentialité, l’expression « Donnée(s) Personnelle(s) » ou « Données » désigne toute information vous identifiant directement ou indirectement, notamment à partir du terminal que vous utilisez, c’est-à-dire de votre ordinateur, tablette, smartphone.
 
@@ -24,13 +24,15 @@ En utilisant notre Site, vous reconnaissez avoir pris connaissance de notre Poli
 | [o Conservation du numéro de carte bancaire pour de prochains paiements](#title8) |
 | [9\. Réseaux sociaux](#title9) |
 | [10\. Confidentialité et mot de passe](#title10) |
-| [11\. Gestion des cookies, SDK et autres traceurs](#title10) |
+| [11\. Gestion des cookies, SDK et autres traceurs](#title11) |
 
 **1\. Responsable de traitement et Délégué à la Protection des Données**
 
 La société Showroomprive.com, filiale du groupe SRP GROUPE et SARL au capital de 115 481 749,68 Euros, dont le siège social est situé à ZAC de la Montjoie – 1 rue des blés – 93210 La Plaine Saint-Denis, immatriculée au Registre du commerce et des sociétés (RCS) de Bobigny sous le numéro 538 811 837 (« Showroomprive.com », « nous ») est responsable du traitement des Données Personnelles vous concernant, dans les conditions décrites au sein de la présente politique.
 
 Showroomprive.com dispose d’un délégué à la protection des données ainsi que d’une cellule « Privacy » qui peut être contactée pour toute question relative à vos Données Personnelles par email à l’adresse suivante : privacy@showroomprive.net ou par courrier à : Cellule Privacy, ZAC de la Montjoie – 1 rue des blés – 93210 La Plaine Saint-Denis.
+
+Vous pouvez exercer l’ensemble de vos droits en nous adressant un email à serviceclient.fr@showroomprive.com ou par courrier (voir article 7 ci-après).
 
 **2\. Quelles sont les Données que nous collectons et à quel moment ?**
 
@@ -68,7 +70,7 @@ Lorsque vous utilisez notre Site et nos services, nous sommes susceptibles de co
 
 \- données nous permettant de mémoriser vos préférences de contact et de communication et vos choix en matière de traitement de données et de cookies.
 
-Ces données sont collectées (i) lorsque vous les renseignez dans des formulaires dédiés sur notre Site (lors que vous créez votre compte ou le complétez ou lorsque vous renseignez certains champs par exemple à l’occasion d’un jeu concours), (ii) lorsque vous passez commande sur notre Site, (iii) lors de vos échanges avec notre service client et (iv) plus généralement lors de votre connexion et votre navigation sur notre Site, via des cookies et traceurs (cf. pour le détail de notre politique en matière de cookies ci-après à l’article 11).
+Ces données sont collectées (i) lorsque vous les renseignez dans des formulaires dédiés sur notre Site (lorsque vous créez votre compte ou le complétez ou lorsque vous renseignez certains champs par exemple à l’occasion d’un jeu concours), (ii) lorsque vous passez commande sur notre Site, (iii) lors de vos échanges avec notre service client et (iv) plus généralement lors de votre connexion et votre navigation, via des cookies et traceurs (cf. pour le détail de notre politique en matière de cookies ci-après à l’article 10).
 
 Si vous vous connectez à notre Site via l’authentification Facebook, nous aurons également accès à vos informations de profil public, et, suivant les choix que vous avez opérés via Facebook, à l’adresse électronique que vous avez renseignée sur Facebook.
 
@@ -76,7 +78,7 @@ Si vous vous connectez à notre Site via l’authentification Facebook, nous aur
 
 Sur la base du contrat qui nous lie et/ou notre intérêt légitime, vos Données sont traitées pour les finalités suivantes :
 
-\- permettre l’accès à notre site et son utilisation ;
+\- permettre l’accès à notre Site et son utilisation ;
 
 \- assurer la gestion de vos commandes et la livraison des produits et/ou des services commandés sur notre Site (auprès de Showroomprive.com ou des vendeurs indépendants de la Marketplace) ou sur les sites de nos partenaires ;
 
@@ -86,19 +88,23 @@ Sur la base du contrat qui nous lie et/ou notre intérêt légitime, vos Donnée
 
 \- gérer la relation et la satisfaction client ;
 
-\- gérer les demandes liées à l’exercice de vos droits ;
+\- gérer les demandes liées à l’exercice de vos droits relatifs à vos données personnelles ;
+
+\- gérer les éventuels contentieux et réclamations ;
 
 \- gérer les transactions et lutter contre la fraude (ex : mise en œuvre de mesures de sécurité s’agissant notamment de lutte contre la fraude à la carte bancaire).
 
 Sur la base de votre consentement, vos données sont également traitées pour les finalités suivantes :
 
-\- recevoir des offres personnalisées et exclusives ainsi que des enquêtes, fonction de votre profil et de votre navigation (par exemple : offres de bienvenues, offres d’anniversaires, exclusivités sur mesure, enquêtes de satisfaction) ;
+\- recevoir des offres personnalisées et exclusives, fonction de votre profil et de votre navigation (par exemple : offres de bienvenues, offres d’anniversaires, exclusivités sur mesure) ;
 
 \- recevoir nos bons plans ;
 
 \- réaliser des analyses et mesures afin d’améliorer l’intérêt et l’ergonomie de notre Site ;
 
-\- profiter d’une expérience de navigation personnalisée ; bénéficier d’un service de publicité personnalisée, pour notre compte ou celui de nos partenaires, sur notre Site ou des supports tiers, en fonction de votre profil et de votre navigation ;
+\- profiter d’une expérience de navigation personnalisée ;
+
+\- bénéficier d’un service de publicité personnalisée, pour notre compte ou celui de nos partenaires, sur notre Site ou des supports tiers, en fonction de votre profil et de votre navigation ;
 
 \- profiter de nos offres commerciales et publicitaires personnalisées ainsi que celles de nos partenaires, sur notre Site ou des supports tiers, en fonction de votre géolocalisation ;
 
@@ -108,7 +114,7 @@ Sur la base de votre consentement, vos données sont également traitées pour l
 
 \- partager des informations sur les réseaux sociaux.
 
-Pour paramétrer vos choix en matière de communications, cookies et données, rendez-vous sur la page « [Préférences de contact](https://www.showroomprive.com/moncompte/mespreferences.aspx) » ou « [Cookies et communications](https://www.showroomprive.com/moncompte/mescoordonnees.aspx) », accessible depuis votre compte.
+Pour paramétrer vos choix en matière de communications, cookies et données, rendez-vous sur les pages « [Préférences de contact](https://www.showroomprive.com/moncompte/mespreferences.aspx) » ou « [Cookies et Communications](https://www.showroomprive.com/moncompte/mescoordonnees.aspx) », accessibles depuis votre compte, ou en cliquant sur le lien « Gérer mes cookies » accessible dans le pied de page de l’ensemble du site internet.
 
 **4\. Combien de temps conservons-nous vos données ?**
 
@@ -122,11 +128,11 @@ Sous réserve des dispositions spécifiques aux numéros de carte bancaire et à
 
 \- de l’ouverture d’un lien hypertexte présent dans une newsletter ou un autre email commercial que nous vous avons adressé, en fonction de vos préférences de contact.
 
-Certaines de vos Données Personnelles sont toutefois conservées pour des durées réduites : (90) jours maximum pour les données de localisation, (30) jours maximum pour les enregistrements de vos échanges téléphoniques avec notre service client.
+Certaines de vos Données Personnelles sont toutefois conservées pour des durées réduites : 90 jours maximum pour les données de localisation, 30 jours maximum pour les enregistrements de vos échanges téléphoniques avec notre service client.
 
-Quelques semaines avant l’expiration de ce délai, nous pourrons être amenés à prendre contact avec vous afin que vous nous indiquiez si vous souhaitez conserver votre compte. Si ce n’est pas le cas, où à défaut de réponse de votre part, nous clôturerons votre compte et nous supprimerons vos Données de notre base active. A ce stade, vous ne pourrez plus vous connecter à votre compte avec vos anciens identifiants et devrez donc en recréer un nouveau.
+Quelques semaines avant l’expiration de ce délai de 3 ans, nous pourrons être amenés à prendre contact avec vous afin que vous nous indiquiez si vous souhaitez conserver votre compte. Si ce n’est pas le cas, où à défaut de réponse de votre part, nous clôturerons votre compte et nous supprimerons vos Données de notre base active. A ce stade, vous ne pourrez plus vous connecter à votre compte avec vos anciens identifiants et devrez donc en recréer un nouveau.
 
-La suppression de vos Données de notre base active sera suivie d’une période d’archivage intermédiaire de certaines de vos Données Personnelles afin de satisfaire à nos obligations légales, comptables et fiscales, et également pour pouvoir gérer vos réclamations et demandes de garanties éventuelles, dans la limite des délais de prescription applicable. Dans le cas où vos Données seraient amenées à être archivées ultérieurement, elles seront automatiquement anonymisées de façon irréversible.
+La suppression de vos Données de notre base active sera suivie d’une période d’archivage intermédiaire de certaines de vos Données Personnelles afin de satisfaire à nos obligations légales, comptables et fiscales, et également pour pouvoir gérer vos réclamations et demandes liées à des garanties éventuelles, dans la limite des délais de prescription applicable. Dans le cas où vos Données seraient amenées à être archivées ultérieurement, elles seront automatiquement anonymisées de façon irréversible.
 
 Conformément à l’article 7 ci-après, vous avez la possibilité à tout moment de demander la suppression de tout ou partie de vos Données, de vous opposer à leur traitement ou d’en demander la limitation. Une demande de suppression de votre compte et/ou de vos Données Personnelles entrainera la suppression de vos Données de notre base active et la conservation en base d’archivage intermédiaire de certaines de vos Données Personnelles, comme il est indiqué ci-dessus.
 
@@ -144,7 +150,7 @@ Les destinataires de vos Données Personnelles sont les suivants :
 
 \- Nos prestataires auxquels nous confions les services de stockage, de préparation, de livraison de nos produits et de gestion des retours de ces produits ;
 
-\- Nos prestataires à qui nous avons confié la gestion de notre outil de réservation de voyage et de billetterie
+\- Nos prestataires à qui nous avons confié la gestion de notre outil de réservation de voyage et de billetterie ;
 
 \- Nos prestataires en charge de la relation client ;
 
@@ -176,19 +182,19 @@ Des transferts de Données hors Union Européenne peuvent notamment avoir lieu, 
 
 Conformément à la réglementation applicable en matière de données personnelles, vous pouvez exercer les droits suivants auprès de Showroomprivé.com :
 
-\- Accéder à vos Données, en demander la rectification, la suppression ou la portabilité ;
+\- Accéder à vos Données, en demander la rectification ou la portabilité ;
 
 \- Demander la suppression de votre compte et de vos Données ;
 
 \- Retirer votre consentement pour l’avenir, pour tout ou partie des traitements concernés ;
 
-\- Vous opposer au traitement de vos Données ou en demander la limitation ;
+\- Vous opposer au traitement de vos Données ou en demander la limitation.
 
-Vous pouvez exercer vos demandes d’accès et de suppression en complétant nos [formulaires en ligne](https://www.showroomprive.com/nouscontacter/faqcontent.aspx?sectionid=68&subsectionId=294).
+Vous pouvez exercer vos demandes d’accès et de suppression en complétant nos [formulaires en ligne.](https://www.showroomprive.com/nouscontacter/form.aspx?formid=20)
 
-Vous pouvez également paramétrer vos choix en matière de communications, cookies et traitement de données, sur la page « [Préférences de contact](https://www.showroomprive.com/moncompte/mespreferences.aspx) » ou « [Cookies et communications](https://www.showroomprive.com/moncompte/mescoordonnees.aspx) », accessible depuis votre compte.
+Vous pouvez également paramétrer vos choix en matière de communications, cookies et traitement de données, sur les pages « [Préférences de contact](https://www.showroomprive.com/moncompte/mespreferences.aspx) » ou « [Cookies et Communications](https://www.showroomprive.com/moncompte/mescoordonnees.aspx) », accessibles depuis votre compte, ou en cliquant sur le lien « Gérer mes cookies » accessible dans le pied de page de l’ensemble du site internet.
 
-Vous pouvez enfin exercer l’ensemble de vos droits en nous adressant un email à serviceclient.fr@showroomprive.com ou privacy@showroomprive.net et par courrier à l’adresse suivante : Showroomprive.com 1, rue des blés 93210 La Plaine Saint Denis en précisant :
+Vous pouvez enfin exercer l’ensemble de vos droits en nous adressant un email à serviceclient.fr@showroomprive.com ou par courrier à l’adresse suivante : Showroomprive.com 1, rue des blés 93210 La Plaine Saint Denis en précisant :
 
 \- Vos nom, prénom, adresse email ;
 
@@ -200,7 +206,7 @@ Nous pourrons également vous demander de nous fournir un justificatif d’ident
 
 Nous vous répondrons dans un délai maximum de 1 mois à compter de la réception par nos services de votre demande.
 
-En cas de non réponse ou de réponse qui vous semblerait insatisfaisante, bous disposez également du droit d’introduire une réclamation auprès d’une autorité de contrôle :
+En cas de non réponse ou de réponse qui vous semblerait insatisfaisante, vous disposez également du droit d’introduire une réclamation auprès d’une autorité de contrôle :
 
 • En France, la CNIL : https://www.cnil.fr/
 
@@ -212,15 +218,15 @@ En cas de non réponse ou de réponse qui vous semblerait insatisfaisante, bous 
 
 • En Belgique, la CPVP : https://www.privacycommission.be
 
-• Aux Pays-Bas, DDPD : https://www.autoriteitpersoonsgegevens.nl/
+• Aux Pays Bas, DDPD : https://www.autoriteitpersoonsgegevens.nl/
 
 Post mortem :
 
-Vous disposez également du droit de formuler des directives concernant la conservation, l’effacement et la communication de vos données après votre décès. Vous pouvez ainsi nous communiquer vos directives post-mortem et exercer vos droits en nous adressant un email à serviceclient.fr@showroomprive.com ou à privacy@showroomprive.net par courrier à l’adresse suivante : Showroomprive.com 1, rue des blés 93210 La Plaine Saint Denis en précisant :
+Vous disposez également du droit de formuler des directives concernant la conservation, l’effacement et la communication de vos données après votre décès. Vous pouvez ainsi nous communiquer vos directives post-mortem et exercer vos droits en nous adressant un email à serviceclient.fr@showroomprive.com ou par courrier à l’adresse suivante : Showroomprive.com 1, rue des blés 93210 La Plaine Saint Denis en précisant :
 
 \- Vos nom, prénom, adresse email ;
 
-\- L’objet de votre demande ;
+\- Vos directives post-mortem ;
 
 \- L’adresse à laquelle doit vous parvenir la réponse ;
 
@@ -244,7 +250,7 @@ Vous devrez à chaque commande renseigner vos coordonnées bancaires dans les ch
 
 Vous pourrez à tout moment demander la suppression de la carte bancaire enregistrée :
 
-\- En vous rendant dans la rubrique « Mes informations personnelles » puis « Mes cartes enregistrées », et en cliquant sur la petite croix ; ou
+\- En vous rendant dans la rubrique « [Mes informations personnelles](https://www.showroomprive.com/moncompte/mescoordonnees.aspx) » puis « Mes cartes enregistrées », et en cliquant sur la petite croix ; ou
 
 \- En nous écrivant à l’adresse email suivante : paiement.fr@showroomprive.com
 
