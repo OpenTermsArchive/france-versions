@@ -2,7 +2,7 @@ CONDITIONS GÉNÉRALES D'UTILISATION | BACK MARKET
 
 
 
-Novembre 2022
+Décembre 2022
 
 
 
@@ -618,11 +618,11 @@ suivante : (i) un apport obligatoire, débité le jour de la confirmation de l�
 
 correspondant à un tiers ou à un quart de la commande, auquel sont ajoutés des frais correspondants
 
-à 1,45% TTC du montant total TTC de la commande pour un paiement en 3 fois et à 2,2 % TTC de ce
+à 1,56% TTC du montant total TTC de la commande pour un paiement en 3 fois et à 2,34 % TTC de ce
 
-même montant pour un paiement en 4 fois étant précisé que les frais n’excéderont pas 10€ pour un
+même montant pour un paiement en 4 fois étant précisé que les frais n’excéderont pas 25€ pour un
 
-paiement en 3 fois et 20€ pour un 4 fois ; plus (ii) deux ou trois mensualités, correspondant chacune à
+paiement en 3 fois et 50€ pour un 4 fois ; plus (ii) deux ou trois mensualités, correspondant chacune à
 
 un tiers ou un quart du montant total TTC de la commande, prélevées à 30 et 60 jours après pour le
 
