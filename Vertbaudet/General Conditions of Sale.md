@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 23 Septembre 2022 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 21 Décembre 2022 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
 
 Les présentes conditions générales de vente (les "CGV") régissent la vente des articles présentés sur le site www.vertbaudet.fr (le "site Internet") par la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet").
 
@@ -293,7 +293,7 @@ Si la commande d'articles a été réglée :
 * Par Carte cadeau Vertbaudet, le remboursement sera effectué par carte cadeau ou, le cas échéant, selon le mode de paiement complémentaire.
     
 
-Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 ci-dessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique Mes retours.
+Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 ci-dessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique "Mes retours".
 
 Si vous avez adhéré au Club Vertbaudet via le paiement d’une cotisation, vous disposez d’un délai de 14 jours à compter de la souscription pour nous notifier votre souhait de rétractation de votre adhésion en contactant le Service Client au 03.20.760.760 (coût d’un appel local depuis un poste fixe) pour spécifier votre choix : le retour de tous les articles achetés et un remboursement du prix d’achat et du coût éventuel de livraison, ou la conservation de tout ou partie de la commande en payant la différence de prix entre le Prix Club et le Prix Public.  
 Plus d’informations sur [le club vertbaudet](https://www.vertbaudet.fr/page/le-club.htm).
@@ -370,7 +370,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/30364/2038277332/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/30364/2038277332/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png](https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png "https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
@@ -404,7 +404,7 @@ Tous les éléments du site Internet, qu'ils soient visuels ou sonores, y compri
 
 Ainsi, aucun des documents provenant du site Internet ne peut être copié, reproduit, republié, téléchargé, posté, transmis ou distribué d'aucune manière que ce soit.
 
-Cependant, il est possible de télécharger une copie des documents sur un ordinateur pour votre utilisation personnelle et uniquement à des fins non commerciales, à condition que vous ne modifiez pas les informations contenues et que vous conserviez intacts tous les copyrights et autres mentions de propriété. La modification de ces documents ou leur utilisation dans un autre but constitue une infraction au droit de propriété intellectuelle de Vertbaudet. La modification de ces documents ou leur utilisation dans un autre but constitue une infraction au droit de propriété intellectuelle de Vertbaudet.
+Cependant, il est possible de télécharger une copie des documents sur un ordinateur pour votre utilisation personnelle et uniquement à des fins non commerciales, à condition que vous ne modifiez pas les informations contenues et que vous conserviez intacts tous les copyrights et autres mentions de propriété. La modification de ces documents ou leur utilisation dans un autre but constitue une infraction au droit de propriété intellectuelle de Vertbaudet.
 
 Si vous disposez d'un site Internet à titre personnel et que vous désirez placer, pour un usage personnel, sur votre site un lien simple renvoyant directement à la page d'accueil du site Internet, vous devez obligatoirement en demander l'autorisation à Vertbaudet. Il ne s'agira pas dans ce cas d'une convention implicite d'affiliation.
 
@@ -433,13 +433,15 @@ Le site Internet est conforme à la législation française, et en aucun cas, Ve
 
 Pour toute réclamation relative à votre commande, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe, par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 216 rue Winoc Chocqueel – 59200 Tourcoing
 
-Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, XXX adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : : Médiateur de la consommation FEVAD.
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Vertbaudet adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :
 
-BP 20015 - 75362 PARIS CEDEX 8 - https://www.mediateurfevad.fr. Après démarche préalable écrite des consommateurs vis-à-vis de XXX, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer ici.
+Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://www.mediateurfevad.fr/)
 
-Vous pouvez également présenter votre réclamation sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l'adresse suivante : http://ec.europa.eu/consumers/odr/ La Commission Européenne transférera votre réclamation aux médiateurs nationaux compétents.
+Après démarche préalable écrite des consommateurs vis-à-vis de Vertbaudet, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur).
 
-Vous pouvez recourir au service de médiation du e-commerce pour les litiges de consommation liés à un achat effectué aussi si bien sur www.vertbaudet.fr qu’en magasin.
+Vous pouvez également présenter votre réclamation sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l'adresse suivante : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). La Commission Européenne transférera votre réclamation aux médiateurs nationaux compétents.
+
+Vous pouvez recourir au service de médiation du e-commerce pour les litiges de consommation liés à un achat effectué aussi si bien sur [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) qu’en magasin.
 
 ### 15.2 Loi Applicable et compétence juridictionnelle
 
