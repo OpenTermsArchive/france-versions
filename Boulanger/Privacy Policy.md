@@ -119,7 +119,7 @@ S’agissant de l’exécution de la livraison, la responsabilité du traitement
 | Nom | Qualité | Durée de conservation du prestataire | Informations supplémentaires et transfert hors UE |
 | --- | --- | --- | --- |
 | Colissimo (La Poste) | Sous-traitant / responsable conjoint sur la gestion des litiges | Base active (durée de la livraison) Base archive 13 mois à compter de la livraison | Colissimo (La Poste) est susceptible de transférer vos données hors de l’Union Européenne dans le cadre de l’externalisation de son activité de service client (notamment Maroc, Sénégal, Ile Maurice) Pour davantage d’information https://www.laposte.fr/donnees-personnelles-et- cookies |
-| Chronopost | Sous-traitant / responsable conjoint sur la gestion des litiges | 6 mois à compter de l’instruction. Gestion des litiges : 3 ans d’archive intermédiaire à compter de la fin de la conservation en base active ( 6 mois) | Chronopost est susceptible de transférer vos données hors de l’Union Européenne dans le cadre de l’externalisation de son activité de service client (notamment Côte d’Ivoire, Sénégal, Ile Maurice) Pour davantage d’information https://www.chronopost.fr/fr/politique-informatique- et-libertes |
+| Chronopost | Destinataire des données en tant que responsable de traitement disjoint |     | Pour davantage d’information [https://www.chronopost.fr/fr/politique-informatique-et-libertes](https://www.chronopost.fr/fr/politique-informatique-et-libertes) |
 | DPD | Destinataire des données en tant que responsable de traitement disjoint |     | Pour davantage d’information [https://www.dpd.com/fr/fr/confidentialite-donnees-personnelles/](https://www.dpd.com/fr/fr/confidentialite-donnees-personnelles/) |
 | Mondial Relay | Destinataire des données en tant que responsable de traitement disjoint |     | Pour davantage d’information [https://www.mondialrelay.fr/donnees-personnelles-et-cookies-via-partenaires](https://www.mondialrelay.fr/donnees-personnelles-et-cookies-via-partenaires) |
 | Colis Privé | Destinataire des données en tant que responsable de traitement disjoint |     | Pour davantage d’information [https://www.colisprive.fr/politique-de-confidentialite](https://www.colisprive.fr/politique-de-confidentialite) |
@@ -172,13 +172,23 @@ Les données concernées sont
 \- Des données décrivant le cycle (type d'engin, marque, modèle, couleur) ;  
 \- Des données personnelles facultatives (adresse postale, date de naissance du propriétaire) ; L’opérateur d’identification agréé est responsable de traitement de la base de données répertoriant les identifiants.
 
+**Medias sociaux**  
+Médias sociaux Google et Meta (Ex Facebook) : transmission des coordonnées pseudonymisées de l’Email et N° de téléphone nécessaires à la constitution de listes d’audiences en vue de la diffusion sur ces sites de bannières publicitaires destinées aux clients de Boulanger.
+
 **Réseaux sociaux**  
-Médias sociaux Google et Meta (Ex Facebook) : transmission des coordonnées pseudonymisées de l’Email et N° de téléphone nécessaires à la constitution de listes d’audiences en vue de la diffusion sur ces sites de bannières publicitaires destinées aux clients de Boulanger.  
   
 Le site www.boulanger.com ainsi que l’application mobile BOULANGER utilisent des « plug-in » sociaux. Il s'agit notamment des boutons « j'aime », « partager » des réseaux sociaux comme Facebook, Twitter, Google+… Lorsque vous utilisez la fonction « partage », vous autorisez BOULANGER à publier le contenu sur votre profil réseau social correspondant. De même, en activant la mention « j’aime » ou « suivre », vous autorisez le suivi de nos publications dans votre flux d’actualité.
 
 **Interaction avec les réseaux sociaux dans le cadre du « Social Login »**  
 La fonction « Social Login » vous permet de vous connecter à boulanger.com et notre application mobile avec l’identifiant de compte du réseau social de votre choix (par exemple Facebook, Google...). Lorsque vous activez cette fonctionnalité, Boulanger récupère de la part du réseau social concerné vos nom, prénom et adresse Email afin de faciliter la création de votre compte chez Boulanger. Boulanger ne transmet aucune donnée au réseau social concerné. Néanmoins, le réseau social concerné aura nécessairement l'information selon laquelle vous avez utilisé la fonctionnalité « Social Login » pour créer un compte chez Boulanger. Nous vous invitons à consulter la politique de confidentialité du réseau social concerné avant toute utilisation de la fonctionnalité « Social Login »  
+  
+**Recouvrement de créances**  
+En cas d’impayé, Boulanger transfère à INTRUM vos coordonnées, la facture et le montant de la créance à recouvrer afin de procéder au recouvrement de la créance.  
+Davantage d’information sur le traitement des données personnelles par INTRUM    
+[https://www.intrum.fr/solutions-entreprises/a-propos-d-intrum/confidentialite/donnees-personnelles/](https://www.intrum.fr/solutions-entreprises/a-propos-d-intrum/confidentialite/donnees-personnelles/)  
+  
+**AIRSHIP**  
+AIRSHIP est le sous-traitant de Boulanger en charge de la gestion des push notification. AIRSHIP constitue pour le compte de Boulanger des statistiques anonymisées par le biais de données quantitatives agrégées provenant de l’utilisation du service par Boulanger. Nous vous informons qu’AIRSHIP réutilise pour son propre compte les statistiques anonymisées pour l’amélioration de ses services. Pour davantage d’information cliquez [ICI](https://www.airship.com/legal/privacy/?utm_campaign=G-S_DSA_NAM&utm_source=adwords&utm_medium=ppc&utm_content=618433159148&ad_id=618433159148&campaign_id=18152258073&gclid=CjwKCAjwh4ObBhAzEiwAHzZYUxUPSI3DLyHBKGxdv5WkZNe_M6mF8fVzeFybhzvnq2gWjs3qn0FMrRoC_tMQAvD_BwE)  
   
 **Toutes autorités administratives ou judiciaires compétentes**  
 Ces données peuvent être communiquées à toute autorité administrative ou judiciaire qui en ferait la demande.
@@ -283,7 +293,7 @@ BOULANGER peut être amenée à vous contacter par SMS et par Email pour les rai
 * Pour la réalisation d'une enquête de satisfaction suite à un évènement tel que notamment une intervention SAV, un achat, la livraison d'un produit, un appel de votre part à notre service client.
 * Communications liées à votre adhésion au programme de fidélité
 * Communications liées à votre adhésion au programme Infinity
-* Pour l’envoi de d’un Email de rappel de vos paniers abandonnés
+* En réponse à une demande de renseignement auprès de notre relation client et/ou d’un magasin
 
 #### [Exercer mes droits sur mes données](#quels_sont_mes_droits_vis_a_vis_de_mes_donnees)
 
