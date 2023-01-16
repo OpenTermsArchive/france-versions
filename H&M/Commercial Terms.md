@@ -33,29 +33,91 @@ Avant de passer votre commande, vous serez informé(e) des informations concerna
 
 Notre politique en matière [d'expédition et de livraison](https://www2.hm.com/fr_fr/service-clients/shippinganddelivery.modal.html) est disponible dans son intégralité sur le site hm.com.
 
-Si votre commande n'arrive pas à la date prévue, veuillez contacter le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html).**  
-5\. Rétractation / annulation de commande  
-**  
-Il vous est possible d'annuler ou de retourner votre commande de la date à laquelle vous avez passé votre commande jusqu'à 30 jours après la réception des articles commandés. Si vos articles ont déjà été payés, vous recevrez alors un remboursement qui inclura des frais de livraison standards mais ne comportera pas les frais de retour, 0,95 €, des articles à H&M au cas où de tels frais auraient été générés. Si vous choisissez de conserver certains articles et de n'annuler que partiellement votre commande, les frais de livraisons ne seront pas remboursés. Notre politique en matières de [retour](https://www2.hm.com/fr_fr/service-clients/retours.html) est disponible dans son intégralité sur le site hm.com.
+Si votre commande n'arrive pas à la date prévue, veuillez contacter le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html).**5. Droit de rétractation légal – Garanties légales de conformité et des vices cachés**   
+Conformément à la législation, en tant que consommateur, vous avez le droit de vous rétracter dans un délai de 14 jours sans avoir à motiver votre décision.
 
-Si vous souhaitez annuler ou retourner votre commande, veuillez nous en aviser par écrit, soit par courrier, de préférence en utilisant le formulaire de retour pré-imprimé dans votre paquet, soit en envoyant une lettre au service clients H & M Hennes & Mauritz Sarl, H&M Hennes & Mauritz, 3 rue Lafayette, FR – 75 009 Paris, France; par fax + 33 (0) 8 11 65 58 55 ; par e-mail [serviceclient.fr@hm.com](mailto:serviceclient.fr@hm.com); en remplissant et en soumettant le formulaire standard émis par l'autorité locale de protection des consommateurs; ou en appelant le : + 33 (0) 8 05 08 88 88 (appel gratuit);  dans tous les cas, ceci devra intervenir durant la période de 30 jours énoncée à la section 5.1 ci-dessus. Vous disposez ensuite d'une période additionnelle de 14 jours pour retourner les articles tel que stipulé dans la section 6 (Retours) ci-dessous et nous vous rembourserons en essayant d'utiliser le même mode de paiement que celui utilisé lors du paiement des articles (ou, si les articles n'ont pas encore été payés, de faire apparaitre ce retour d'articles au solde de votre compte) dès que possible et au plus tard dans les 14 jours après réception de votre avis d’annulation, à condition que nous ayons reçu les articles en retour ou une preuve que vous avez bien renvoyé ces mêmes articles. Un autre mode de paiement pourrait être utilisé pour le remboursement dans la mesure où vous nous donnez votre accord; dans tous les cas ceci ne générera pas de frais  à votre charge.  
+Le délai de rétractation expire au bout de 14 jours à compter de la date à laquelle vous ou un tiers autre que le transporteur que vous avez désigné entre en possession matérielle des produits ou, dans le cas de plusieurs produits faisant partie d'une même commande mais livrés séparément, au bout de 14 jours à compter de la date à laquelle vous ou un tiers autre que le transporteur que vous avez désigné entre en possession matérielle du dernier produit commandé.
+
+Pour user de votre droit de rétractation légal, veuillez nous en aviser, avant l’expiration de ce délai de 14 jours, par une déclaration écrite sans équivoque soit :
+
+\- par écrit : soit par courrier, de préférence en utilisant le formulaire de retour pré-imprimé dans votre paquet, soit en envoyant courrier postal à l’adresse suivante : Service Clients H&M Hennes & Mauritz, 3 rue La Fayette – 75009 Paris;
+
+\- par e-mail [serviceclient.fr@hm.com](mailto:serviceclient.fr@hm.com);
+
+\- en appelant le : + 33 (0) 8 05 08 88 88 (appel gratuit); 
+
+Vous avez la possibilité d'utiliser le formulaire de rétractation ci-dessous, bien que cela ne soit pas obligatoire :
+
+MODÈLE DE FORMULAIRE DE RÉTRACTATION
+
+« _A l'attention de H&M Hennes & Mauritz, 3 rue La Fayette – 75009 Paris -_ [_serviceclient.fr@hm.com_](mailto:serviceclient.fr@hm.com)
+
+_Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien ci-dessous :_
+
+_Commandé le (\*)/reçu le (\*) :_
+
+_Nom du (des) consommateur(s) :_
+
+_Adresse du (des) consommateur(s) :_
+
+_Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier) :_
+
+_Date :_
+
+_(\*) Rayez la mention inutile_. »
+
+En cas de rétractation, nous vous rembourserons la totalité des sommes versées, y compris les frais de livraison (à l'exception des frais supplémentaires si vous avez choisi un mode de livraison plus coûteux que le mode de livraison standard proposé par H&M), dès que possible et au plus tard dans les quatorze jours à compter de la date à laquelle vous nous avez informé de votre décision de vous rétracter.
+
+Le remboursement sera effectué utilisant le même moyen de paiement que celui utilisé pour l’achat. Ce remboursement n'entraînera aucun frais à votre charge. Un autre mode de paiement pourrait être utilisé pour le remboursement dans la mesure où vous nous donnez votre accord; dans tous les cas ceci ne générera pas de frais  à votre charge. Pour les achats payés avec une carte cadeau, vous trouverez [ici](https://www2.hm.com/fr_fr/service-clients/retours.html) les modalités de remboursement.
+
+Cependant, vous êtes informé que nous pourrons différer le remboursement jusqu'à ce que nous ayons reçu les produits retournés ou que vous nous ayez fourni la preuve du retour de ces derniers, la date la plus proche étant retenue.
+
+Les articles doivent nous être renvoyés ou remis en main propre dans l'un des magasins H&M situé en France dans les plus brefs délais sans retard excessif et, au plus tard, dans les 14 jours suivant la communication de votre décision de vous rétracter. Tous nos colis contiennent un bordereau de retour prépayé que vous pouvez utiliser pour renvoyer les articles. Vous supporterez le coût direct du retour des articles qui s’élève à 0,95 € (ce montant sera déduit du montant total du remboursement).
+
+Cependant, par exception à ce qui précède :
+
+\- Les articles d’une autre marque que H&M ne peuvent pas être retournés en magasin. Pour ces produits, veuillez suivre les instructions indiquées sur votre bon de livraison ou contacter le service Client.
+
+\- Les articles de la collection Home de la marque H&M peuvent être retournés uniquement dans les magasins H&M situés en France qui proposent des produits H&M Home.
+
+\- Les meubles de petite taille et les luminaires ne peuvent pas être retournés en magasin. Tous les meubles et les luminaires doivent être retournés dans leur emballage d’origine.
+
+Pour plus d'information à propos de la procédure de retour, contactez le [service client.](https://www2.hm.com/fr_fr/service-clients/contact.html)  
+
+**Garantie légale de conformité et garantie légale des vices cachés:**  
   
-Veuillez trouver [ici le modèle de formulaire de rétractation.](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032887061)
+Tous les Produits bénéficient de la garantie légale de conformité, ainsi que de la garantie des vices cachés.
 
-Si l'article que vous avez reçu est défectueux, veuillez en informer rapidement H&M et retourner l'article conformément à la section 6 (Retours) ci-dessous. Pour tout produit jugé défectueux, H&M assurera un remboursement intégral. Les dispositions énoncées dans les présentes conditions ne limitent pas tout droit légal applicable.
+Si vous estimez que le produit n'est pas conforme au Contrat au moment de la livraison ou est défectueux, vous devrez nous contacter immédiatement le Service Clients \[RV(1\] pour vous aider, en nous indiquant les caractéristiques du produit en question et la nature du défaut, nous vous indiquerons alors la marche à suivre.
 
-**6\. Retours**  
-Vous pouvez rapporter le ou les articles que vous souhaitez retourner dans n'importe quel magasin H&M ou H&M Home en France, y compris en Corse (sauf Dom-Tom et Monaco) à condition de présenter votre reçu électronique (joint au message de confirmation d'expédition) en magasin. Le remboursement sera effectué à l'aide du mode de paiement utilisé pour votre achat, conformément à la rubrique 5.3 ci-dessus.
+Nous examinerons en détail le produit retourné et vous informerons par courrier électronique, dans un délai raisonnable, si le produit peut être échangé ou si avez droit au remboursement (le cas échéant).
 
-Vous pouvez utiliser vos remboursements pour des échanges ou de nouveaux achats directement en magasin si l'achat a été payé avec une carte de crédit et/ou une carte-cadeau. Les articles défectueux peuvent également être rapportés dans n'importe quel magasin H&M ou H&M Home en France. Notez que les erreurs de commande (par ex. article erroné ou manquant) ne peuvent pas faire l'objet d'un retour ou d'un traitement en magasin, il faudra utiliser la procédure de retour en ligne. Les articles H&M Home ne peuvent être retournés que dans les magasins proposant la gamme H&M Home.
+Nous procéderons au remboursement ou à l'échange du produit dans les plus brefs délais et, dans tous les cas, dans un délai de 14 jours à compter de la date à laquelle nous vous aurons confirmé par courrier électronique que vous avez droit au remboursement ou à l'échange du produit en question.
 
-Nous échangeons ou remboursons tout article dans son état d'origine qui ne conviendrait pas. Echanges et remboursements dans tous les magasins H&M en France, dans un délai de 30 jours à partir de la date d’achat, sur présentation du ticket de caisse ou reçu on line . Les remboursements s’effectuent exclusivement par crédit de la carte bancaire utilisée lors de l'achat ou sous forme d’avoir. Les frais de livraison ne sont pas remboursables. Notez que si pour une raison ou une autre, nos magasins ne sont pas en mesure de consulter votre commande en ligne, le retour ne pourra pas être remboursé avec le mode de paiement utilisé au moment de l'achat, notamment pour les paiements via PayPal. Dans cette éventualité, deux options s'offrent à vous : vous pouvez retourner vos articles en ligne ou en magasin. Si vous choisissez le retour en magasin et que vous avez payé avec PayPal, vous serez remboursé(e) sous forme d'avoir. Les cartes et E-cards cadeaux ne sont pas remboursables et sont utilisables dans tous les magasins H&M de France ou sur notre site online (hm.com).
+Si un défaut ou un dommage est avéré, les produits retournés feront l'objet d'un remboursement intégral, y compris des frais de livraison que vous aurez versés et des frais engagés pour le retour. Le mode de remboursement sera toujours le même que le mode de paiement de vos achats.
 
-Tout article provenant d’une erreur de livraison ne pourra être retourné en magasin. Les articles de la collection HOME devront être retournés dans un magasin H&M proposant la collection HOME. Les meubles et les luminaires H&M Home ne peuvent être retournés en boutique.
+Les articles défectueux peuvent également être rapportés dans n'importe quel magasin H&M ou H&M Home en France.
 
-Tout article acheté et expédié par une marque externe doit être retourné conformément aux instructions incluses dans votre colis. Il n'est pas possible de retourner ces articles dans un magasin H&M ou H&M HOME.
+**6. Droit de retour contractuel**  
+Vous pouvez rapporter le ou les articles que vous souhaitez retourner dans n'importe quel magasin H&M ou H&M Home en France à condition de présenter votre reçu électronique (joint au message de confirmation d'expédition) en magasin. Le remboursement sera effectué à l'aide du mode de paiement utilisé pour votre achat. Pour les achats payés avec une carte cadeau, vous trouverez [](https://www2.hm.com/fr_fr/service-clients/retours.html)ici les modalités de remboursement. Pour les achats payés avec Klarna, vous trouverez [](https://www2.hm.com/fr_fr/service-clients/retours.html)ici les modalités de remboursement.
 
-Pour des raisons d'hygiène et de sécurité, le droit de rétractation et le droit de retour ne sont pas applicables aux masques de protection en tissu. Si les masques que vous avez achetés présentent des défauts, veuillez prendre contact avec notre service client pour savoir comment procéder. Vous trouverez de plus amples informations dans notre ​[politique de retour](https://www2.hm.com/fr_fr/service-clients/retours.html).
+Notez que les erreurs de commande (par ex. article erroné ou manquant) ne peuvent pas faire l'objet d'un retour ou d'un traitement en magasin, il faudra utiliser la procédure de retour en ligne. Les articles H&M Home ne peuvent être retournés que dans les magasins proposant la gamme H&M Home.
+
+Nous échangeons ou remboursons tout article dans son état d'origine qui ne conviendrait pas. Echanges et remboursements dans tous les magasins H&M en France, dans un délai de 30 jours à partir de la date d’achat, sur présentation du ticket de caisse ou reçu on line .
+
+Les remboursements s’effectuent exclusivement par crédit de la carte bancaire utilisée lors de l'achat ou sous forme d’avoir. Les frais de livraison ne sont pas remboursables. Notez que si pour une raison ou une autre, nos magasins ne sont pas en mesure de consulter votre commande en ligne, le retour ne pourra pas être remboursé avec le mode de paiement utilisé au moment de l'achat, notamment pour les paiements via PayPal. Dans cette éventualité, deux options s'offrent à vous : vous pouvez retourner vos articles en ligne ou en magasin. Si vous choisissez le retour en magasin et que vous avez payé avec PayPal, vous serez remboursé(e) sous forme d'avoir. Les cartes et E-cards cadeaux ne sont pas remboursables et sont utilisables dans tous les magasins H&M de France ou sur notre site online (hm.com).
+
+Tout article provenant d’une erreur de livraison ne pourra être retourné en magasin.
+
+Les articles de la collection H&M HOME devront être retournés dans un magasin H&M en France proposant la collection H&M HOME. Les meubles et les luminaires H&M Home ne peuvent pas être retournés en boutique. Pour plus d’information sur les retours de produits de la collection la collection H&M HOME, cliquez [ici](https://www2.hm.com/fr_fr/service-clients/retours.html).
+
+Les articles d’une autre marque que H&M ne peuvent pas être retournés en magasin. Pour ces produits, veuillez suivre les instructions indiquées sur votre bon de livraison ou contacter [le service Client.](https://www2.hm.com/fr_fr/service-clients/contact.html)
+
+Pour des raisons d'hygiène et de sécurité, le droit de rétractation et le droit de retour ne sont pas applicables aux articles de beauté si le produit a été ouvert. Si ces produits que vous avez achetés présentent des défauts, veuillez prendre contact avec notre service client pour savoir comment procéder.
+
+Cliquer [ici](https://www2.hm.com/fr_fr/service-clients/retours.html) pour enregistrer un retour en ligne.
+
+Retrouver [](https://www2.hm.com/fr_fr/service-clients/retours.html)[ici](https://www2.hm.com/fr_fr/service-clients/retours.html) plus d’informations sur les modalités de retour.
 
 **7\. Modes de paiement**  
 Vous pouvez payer vos articles des façons suivantes.
@@ -96,19 +158,16 @@ Nous faisons tous les efforts raisonnables pour afficher précisément les carac
 
 Les mesures des articles fournies sur hm.com sont des valeurs approximatives visant à vous donner une idée du modèle ou de la taille de l'article spécifique, et ne constituent en aucun cas une garantie des mesures réelles de l'article que vous recevez. Les mesures réelles d'un article peuvent varier selon la matière utilisée pour sa confection.
 
-**10\. Garantie**  
-S'il existe des défauts dans les marchandises que vous avez achetées, H&M se conforme à toutes les règlementations légales en termes de garantie. Si vous souhaitez faire une réclamation concernant des défauts de matériaux ou de fabrication évidents dans les marchandises que nous vous avons livrées, y compris des dommages intervenus durant le transport, veuillez nous le faire savoir en nous retournant immédiatement les marchandises en utilisant le formulaire de retour pré-imprimé fourni.
-
-**11\. Cession**  
+**10\. Cession**  
 H&M se réserve le droit de céder ou de donner en gage toutes demandes de paiement qui sont dues et qui sont apparues en relation avec la livraison des marchandises, y compris tout frais dûs à des tiers.
 
-**12\. Rupture**  
+**11\. Rupture**  
 Si l'une des parties aux conditions générales est interdite ou rendue inefficace devant un tribunal ou un organisme de régulation, les autres parties des conditions générales doivent continuer à s'appliquer.
 
-**13\. Détention de droits**  
+**12\. Détention de droits**  
 Tous les droits de propriété intellectuelle, tels que les marques déposées et droits d'auteur sur hm.com, demeurent la propriété de H&M Hennes & Mauritz AB et de ses filiales ou concédants de licences. Toute utilisation du site hm.com ou de son contenu, y compris la photocopie ou la conservation partielle ou intégrale d'un tel contenu, autre que par votre propre personnel et à des fins d'utilisation non-commerciales, est interdite sans la permission préalable de H&M.
 
-**14\. Infos société**  
+**13\. Infos société**  
 H & M Hennes & Mauritz Sarl  
 H&M Hennes & Mauritz  
 3 rue Lafayette  
@@ -119,6 +178,10 @@ Numéro d’enregistrement : 398979310 R.C.S. Paris
 N0 de T.V.A. : VAT FR40398979310  
 Coordonnées : Service clients H&M  
 Contactez le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html)  
- 
-
-20/10/2022
+  
+_H & M Hennes & Mauritz Sarl est détentrice d’une assurance de responsabilité professionnelle couvrant la France souscrite auprès de la compagnie d’assurance suivante : If Assurance  
+4 rue Cambon  
+75001 Paris  
+  
+_  
+04/01/2023
