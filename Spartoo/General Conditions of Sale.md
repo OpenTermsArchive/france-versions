@@ -157,7 +157,7 @@ Toute réception de documents non conformes entrainera également l'annulation d
 
   
 
-Afin d'assurer la sécurité des paiements, le site SPARTOO.COM utilise le service de paiement sécurisé de la banque CIC. Ce service intègre la norme de sécurité SSL. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d'expiration et le cryptogramme CVX) sont directement transmises cryptées sur le serveur de la banque sans transiter sur les supports physiques des serveurs de spartoo.com. Lorsque la commande est validée, la demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé. Celui-ci adresse une demande d'autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil.
+Afin d'assurer la sécurité des paiements, le site SPARTOO.COM utilise le service de paiement sécurisé de la banque CIC. Ce service intègre la norme de sécurité SSL. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d'expiration et le cryptogramme CVX) sont directement transmises cryptées sur le serveur de la banque sans transiter sur les supports physiques des serveurs de spartoo.com. Lorsque la commande est validée, la demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé. Celui-ci adresse une demande d'autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1366 et suivants du code civil.
 
 8 Identification
 ----------------
