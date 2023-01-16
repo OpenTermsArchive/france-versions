@@ -1,7 +1,7 @@
 Vinted Politique de confidentialité
 ===================================
 
-Date de la dernière mise à jour : 07/11/2022
+Date de la dernière mise à jour : 23/12/2022
 
 Chez Vinted, dès lors qu’il s’agit de vos données à caractère personnel, la sécurité et la transparence sont des priorités absolues. Afin de vous aider à comprendre quelles sont les informations que nous collectons à votre sujet, comment nous les utilisons et quels sont vos droits, nous avons rédigé la présente Politique de confidentialité détaillée.
 
@@ -100,7 +100,7 @@ Vinted transfère ou partage des données à caractère personnel avec des prest
 
 Nous menons et améliorons constamment la maintenance technique de la Plateforme afin de protéger la sécurité et la confidentialité des données à caractère personnel que nous traitons et d’effectuer certaines fonctions liées à l’entreprise qui contribuent à rendre nos services disponibles et fonctionnels. Pour cette raison, nous transférons vos données de profil aux prestataires de services qui fournissent les services de cloud et d’hébergement, la sécurité informatique, la maintenance et les services techniques, et les services de communication :
 
-Les prestataires de services suivants étant établis en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être transférées en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les prestataires de services qui s’engagent à respecter les [clauses contractuelles types](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32010D0087&from=en) de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne :
+Les prestataires de services suivants étant établis en dehors de l’Espace économique européen, vos données sont par conséquent susceptibles d’être transférées en dehors de l’Espace économique européen. Dans ces cas précis, les données à caractère personnel sont protégées par les prestataires de services qui s’engagent à respecter les [clauses contractuelles types](https://eur-lex.europa.eu/legal-content/FR/TXT/PDF/?uri=CELEX:32021D0914&from=en) de l’UE pour transférer les données, telles qu’approuvées par la Commission européenne :
 
 1. Amazon Web Services, Inc. (États-Unis) ;
 2. Google LLC (États-Unis) ;
