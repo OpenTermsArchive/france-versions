@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 21 Décembre 2022 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 13 Janvier 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
 
 Les présentes conditions générales de vente (les "CGV") régissent la vente des articles présentés sur le site www.vertbaudet.fr (le "site Internet") par la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet").
 
@@ -157,7 +157,7 @@ En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur vo
 
 #### Par carte cadeau Vertbaudet
 
-Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
+Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
 
 La facture de votre commande vous est adressée par courriel lors de la confirmation de l’expédition de votre commande et est également disponible sur votre compte client.
 
@@ -370,7 +370,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png](https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png "https://media.vertbaudet.fr/medias/44/0/32134/2077443322/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/32497/703683270/triman.png](https://media.vertbaudet.fr/medias/44/0/32497/703683270/triman.png "https://media.vertbaudet.fr/medias/44/0/32497/703683270/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
