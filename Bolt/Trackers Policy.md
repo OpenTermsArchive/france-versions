@@ -68,7 +68,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (48)
+Statistics (45)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -82,7 +82,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x4\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>couriers.bolt.eu  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Used to detect whether the user navigation and interactions are included in the website’s data analytics. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>couriers.bolt.eu  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Used to detect whether the user navigation and interactions are included in the website’s data analytics. | 1 day | HTTP Cookie |
 | \_hjIncludedInSessionSample \[x4\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
 | \_hjRecordingLastActivity | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
@@ -92,8 +92,6 @@ Statistic cookies help us understand how you interact with our website by collec
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
 | hjViewportId | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
-| HWWAFSESID | dtm-drcn.platform.hicloud.com | Pending | Session | HTTP Cookie |
-| HWWAFSESTIME | dtm-drcn.platform.hicloud.com | Pending | Session | HTTP Cookie |
 | ln\_or | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
 | previousUrl \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
 | tildasid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
@@ -103,7 +101,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (62)
+Marketing (63)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -141,6 +139,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | sp\_landing | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 day | HTTP Cookie |
 | sp\_t | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 year | HTTP Cookie |
 | tt\_appInfo | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
+| tt\_pageId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_pixel\_session\_index | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_sessionId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
@@ -162,12 +161,3 @@ Marketing cookies are used to track visitors across our website. The intention i
 | yt-remote-fast-check-period | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
 | yt-remote-session-app | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
 | yt-remote-session-name | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
-
-Unclassified (1)
-
-Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-
-    
-| Name | Provider | Purpose | Expiry | Type |
-| --- | --- | --- | --- | --- |
-| tt\_pageId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Pending | Session | HTML Local Storage |
