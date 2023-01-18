@@ -559,3 +559,9 @@ Les barèmes de prix d'un transporteur aérien sont regroupés dans un document 
 Vous pouvez consulter ce document complet en cliquant sur le lien ci-dessous, si vous êtes mandaté par les autorités compétentes.
 
 [Conditions générales de transport et tarifs pour le Canada (PDF)](https://cms.finnair.com/resource/blob/569068/7c6944ab763227cb15fe670c446a38a9/ca-conditions-of-carriage-and-tariffs-data.pdf)
+
+  
+
+### Public Fare Table (Korea)
+
+[Public Fare Table (Korea) (PDF)](https://cms.finnair.com/resource/blob/2805756/4c4299f95790e6fbb9dfd361fe0fbca3/Finnair%20fare%20table%20DEC%202022%20Korea.pdf)
