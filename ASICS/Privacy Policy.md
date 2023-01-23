@@ -184,7 +184,7 @@ Les juridictions suivantes sont associées à des règles et des droits supplém
 
 Japon
 
-États-Unis (Californie et Nevada)
+États-Unis 
 
 Brésil
 
