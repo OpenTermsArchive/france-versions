@@ -1235,7 +1235,7 @@ Conformément aux dispositions de l’article L221-18 du code de la consommation
 
 L'Abonné peut faire usage de son droit de rétractation :
 
-\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conform��ment aux présentes ;
+\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
 
 \-          et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
 
@@ -1274,7 +1274,7 @@ Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service,
 Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+            - depuis l’Italie au 800 694 130 (num��ro gratuit) ;  
             - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
             - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
             - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
@@ -1881,7 +1881,7 @@ _ARTICLE 3 :  PASSATION D'UNE COMMANDE DE PRODUITS_
 • en cas d’erreur manifeste de prix ;  
 • en cas d’absence d’information suffisante pour permettre à Cdiscount d’exécuter ladite commande.  
   
-  
+3.4    Dès lors que le Client Pro achète les produits en qualité de revendeur, il garantit Cdiscount qu'il dispose de l'agrément de la marque dans le cas où les produits feraient partie d'un réseau de distribution fermé.   
 
 _ARTICLE 4 :  PRIX_
 -------------------
