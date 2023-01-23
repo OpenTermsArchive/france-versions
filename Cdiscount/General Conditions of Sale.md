@@ -1274,7 +1274,7 @@ Au plus tard 31 jours avant la date d'anniversaire de l’Abonnement au Service,
 Si l’Abonné ne souhaite pas renouveler son Abonnement, il devra contacter le service clients de CDISCOUNT par téléphone au plus tard la veille de la date d'anniversaire de son Abonnement au Service :   
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé)  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (num��ro gratuit) ;  
+            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
             - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
             - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
             - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
