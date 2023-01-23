@@ -88,7 +88,11 @@ Pour toute question relative au suivi de votre commande, merci d'appeler le 03.2
 4\. Le paiement
 ---------------
 
+  
+
 ### Modes de paiement
+
+  
 
 #### Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard)
 
@@ -150,6 +154,10 @@ Le paiement en 3 fois sans frais par carte bancaire vous permet de régler la co
 Exemple : Pour un achat de 150€, apport de 50€ puis 2 mensualités de 50€. Crédit sur 2 mois au TAEG fixe de 0%. Coût du financement 0€.
 
 Oney Bank - SA au capital de 50 741 215€ - Siège social : 40 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr
+
+#### Avec votre compte Klarna:
+
+En choisissant le paiement via Klarna, vous serez automatiquement dirigé sur votre compte Klarna. Une fois le paiement Paypal validé, vous pourrez terminer votre commande sur le site Internet. Pour en savoir plus : [A propos de Klarna](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm?intnavid=footer_propos-de-klarna)
 
 #### Avec votre compte PAYPAL :
 
