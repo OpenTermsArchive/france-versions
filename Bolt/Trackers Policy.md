@@ -9,7 +9,7 @@ Your consent applies to the following domains: couriers.bolt.eu, business.bolt.e
 
 Your current state: Deny. 
 
-Your current state: Do Not Sell My Personal Information. 
+Your current state: Do not sell or share my personal information. 
 
 Your current state: Allow selection (Necessary, Preferences, Statistics, Marketing). 
 
@@ -19,7 +19,7 @@ Your consent ID: 0Consent date:
 
 [Change your consent](#)  |  [Withdraw your consent](#)
 
-[Do Not Sell My Personal Information](#)
+[Do not sell or share my personal information](#)
 
   
 
