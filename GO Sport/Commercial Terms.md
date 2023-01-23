@@ -1,4 +1,4 @@
-Conditions générales de vente mises à jour le 22 octobre 2022
+Conditions générales de vente mises à jour le 20 janvier 2023
 =============================================================
 
   
@@ -154,7 +154,7 @@ Soit par mail à l'adresse suivante :
 
 via le formulaire de contact relatif au droit de rétractation en se rendant sur le Service Client en ligne (voir modalités de contact à l’Article 15 ci-après) dans la rubrique « Besoin d’Aide » de l’espace client en cliquant sur la question « je ne veux plus de mon article, je souhaite me rétracter ».
 
-Les conditions de retour sont accessibles via [ce lien](https://www.go-sport.com/retour-et-echange-gratuit.html)﻿
+Les conditions de retour sont accessibles via [ce lien](https://www.go-sport.com/retour-et-echange-gratuit.html) : https://www.go-sport.com/retour-et-echange-gratuit.html ﻿
 
 Soit par courrier à l’adresse suivante :
 
@@ -184,11 +184,17 @@ Le Client est responsable du mode d’emballage choisi pour le retour de son/ses
 
 Le retour d'un colis doit être soigneusement préparé selon les indications mentionnées dans la FAQ GO SPORT, disponible à l’adresse : [clients.go-sport.com/Simple/Faq.aspx](https://www.go-sport.com/cgv/clients.go-sport.com/Simple/Faq.aspx)
 
-Produits exclus du droit de rétractation :Conformément aux dispositions de l’article L221-28 du Code de la Consommation, le droit de rétractation ne peut être exercé pour les biens confectionnés selon les spécifications du Client ou nettement personnalisés.
+Produits exclus du droit de rétractation :
 
-De plus, pour des raisons d’hygiène et parce qu’ils ne pourront être re-commercialisés, les produits suivants ne peuvent faire l’objet d’un droit de rétractation dès lors leur emballage a été descellé : protège-dents, bouchons d’oreilles couches pour bébé ou tout autre article requérant des précautions d’hygiène particulières.
+Conformément aux dispositions de l’article L221-28 du Code de la Consommation, le droit de rétractation ne peut être exercé pour 
 
-Pour les mêmes raisons, les sous-vêtements, coquilles de protection, articles de sudation et maillots de bain sans protection hygiénique, s’ils ont déjà été utilisés et/ou portés en dehors d’un essai non abusif ne pourront faire l’objet d’une rétractation.
+\-       Les biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
+
+\-       Les biens susceptibles de se détériore ou de se périmer rapidement
+
+\-       Les biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé. Cela comprend, sans que cette liste ne soit exhaustive, les biens suivants : bouchons d’oreilles, couches pour bébé ou tout autre article requérant des précautions d’hygiène particulières. Pour les mêmes raisons, les sous-vêtements, coquilles de protection, articles de sudation et maillots de bain sans protection hygiénique, s’ils ont déjà été utilisés et/ou portés en dehors d’un essai non abusif.
+
+\-       Les biens entrant dans la catégorie des Equipements de Protection Individuel tels que les casques de vélos, les casques de ski, les protège-dents, les lunettes et masques de natation et tout autre produit liste à l’annexe III-3 du Code du sport.
 
 Seuls les produits retournés complets, munis de leurs étiquettes, notices, garanties, cordons et autres accessoires en parfait état et dans leur emballage d’origine en état d’être commercialisés seront acceptés.
 
@@ -274,7 +280,9 @@ Pour des raisons de sécurité, si le Client souhaite associer sa carte de paiem
 
 Le Client est en droit de sauvegarder les informations relatives à sa carte de paiement, sous réserve de son consentement explicite.
 
-Contrôles anti FraudesLa Société, en collaboration avec Adyen NV, contrôle toutes les commandes qui ont été validées sur le Site à l’exception des commandes web payées en magasin. Dans le cadre de ces procédures, la Société pourra être amenée à demander au Client toutes les pièces nécessaires au déblocage de sa commande.
+Contrôles anti Fraudes
+
+La Société, en collaboration avec Adyen NV, contrôle toutes les commandes qui ont été validées sur le Site à l’exception des commandes web payées en magasin. Dans le cadre de ces procédures, la Société pourra être amenée à demander au Client toutes les pièces nécessaires au déblocage de sa commande.
 
 Les informations en rapport avec sa commande font l'objet d'un traitement automatisé de données. Ce traitement automatisé de données a pour finalité de définir un niveau d'analyse d'une transaction et de lutter contre la fraude à la carte bancaire.
 
@@ -436,9 +444,9 @@ Protection de vos données à caractère personnel
 
 Prenez connaissance de notre charte de protection des données personnelles des clients en [cliquant ici .](https://www.go-sport.com/charte-protection-donnees-clients.html)
 
-Conformément à la loi Informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande en vous adressant au Service Clients, via le formulaire de contact accessible depuis [ce lien](https://service-clients.go-sport.com/hc/fr/requests/new).
+Conformément à la loi Informatique et Libertés et à la règlementation Européenne concernant la protection des données à caractère personnel, vous disposez d’un droit d’accès, de rectification, d’opposition et de suppression sur les données à caractère personnel vous concernant. Vous pouvez exercer ces droits sur simple demande en vous adressant au Service Clients, via le formulaire de contact accessible depuis [ce lien](https://service-clients.go-sport.com/hc/fr/requests/new) : https://service-clients.go-sport.com/hc/fr/requests/new
 
-Pour des raisons de sécurité, la Société se réserve le droit de demander un justificatif d’identité en cas de doute sur l’identité de la personne à l’origine de la demande.
+﻿Pour des raisons de sécurité, la Société se réserve le droit de demander un justificatif d’identité en cas de doute sur l’identité de la personne à l’origine de la demande.
 
   
 
