@@ -1003,7 +1003,7 @@ Tous les passagers ont le droit d’apporter à bord un petit sac personnel qui 
 
 Les passagers bénéficiant de Priorité et 2 bagages en cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019) ou un billet avec vol en correspondance peuvent apporter 1 petit sac personnel qui doit pouvoir se ranger sous le siège devant eux (40 cm x 20 cm x 25 cm). Les clients prioritaires peuvent également apporter un bagage supplémentaire de 10 kg à bord qui doit tenir dans le gabarit de bagages (il ne doit pas dépasser 10 kg et 55 cm x 40 cm x 20 cm) et sera rangé dans le compartiment au-dessus de leur tête.
 
-Une Priorité et 2 bagages en cabine coûte entre 8 €/£ et 22 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
+Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
 
 Le transport de liquides, d'aérosols et de gels dans la zone de sécurité restreinte d'un aéroport et des aéronefs à bord est contrôlé conformément aux exigences de sécurité en vigueur dans l'UE.   
 
@@ -1434,7 +1434,7 @@ EMBARQUEMENT PRIORITAIRE
 
 **EMBARQUEMENT PRIORITAIRE** 
 
-Une Priorité et 2 bagages en cabine coûte entre 8 €/£ et 22 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
+Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
 
 Les passagers qui ont acheté l'embarquement prioritaire ne seront pas invités à placer leur sac de cabine dans la soute de l'avion, sauf si nécessaire pour des raisons opérationnelles  
 
