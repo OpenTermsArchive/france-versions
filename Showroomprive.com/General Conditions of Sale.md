@@ -45,7 +45,7 @@ Notre Site est édité et exploité par la société Showroomprive.com, SARL au 
 
 Pour toute demande d’information, vous pouvez vous adresser directement à notre Service Client :
 
-\- Par le formulaire de contact disponible [**ici**](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) ;
+\- Par le formulaire de contact disponible **[ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4)** ;
 
 \- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d’un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h) ;
 
@@ -63,7 +63,7 @@ Votre compte vous permet à tout moment :
 
 · de suivre vos commandes en cours ;
 
-· de vous inscrire et de vous désinscrire de la newsletter ou du Site en remplissant le formulaire de désinscription disponible [**ici**](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) .
+· de vous inscrire et de vous désinscrire de la newsletter ou du Site en remplissant le formulaire de désinscription disponible **[ici](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4)** .
 
 Il est également précisé que nos ventes évènementielles ne sont proposées qu’aux particuliers inscrits sur le Site (« les **Membres** »).
 
@@ -178,7 +178,7 @@ _Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flan
 
 Paiement avec KLARNA
 
-Notre partenaire Klarna vous propose une solution de financement dénommée «Payer plus tard en 3 fois» qui permet de payer, sans frais, vos achats de 35€ à 1 500€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles [**ici**](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3) , et dont l’acceptation sera nécessaire à toute souscription.
+Notre partenaire Klarna vous propose une solution de financement dénommée «Payer plus tard en 3 fois» qui permet de payer, sans frais, vos achats de 35€ à 1 500€ en 3 fois avec votre carte bancaire. Nous vous invitons à prendre connaissance des conditions générales de la solution « Payer plus tard en 3 fois» de Klarna accessibles **[ici](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3)** , et dont l’acceptation sera nécessaire à toute souscription.
 
 Nous vous précisons que, aux termes des conditions générales de Klarna :
 
@@ -192,7 +192,7 @@ La solution de financement proposée par notre partenaire Clearpay est un paieme
 
 Une fois le paiement confirmé, seul le premier versement vous sera facturé : de cette façon, votre commande passera directement à la phase de traitement et d'expédition. Pendant ce temps, Clearpay divisera le montant restant en 2 autres versements qui seront automatiquement prélevés sur votre compte tous les mois. Clearpay n'entraîne aucun coût supplémentaire si les paiements échelonnés sont effectués dans les délais, c'est-à-dire à la date d'échéance.
 
-Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles[**ici**](https://www.clearpay.com/fr-FR/terms) **,** et dont l'acceptation sera nécessaire à toute souscription. Nous vous précisons que, aux termes des conditions générales de Clearpay :
+Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles**[ici](https://www.clearpay.com/fr-FR/terms)** **,** et dont l'acceptation sera nécessaire à toute souscription. Nous vous précisons que, aux termes des conditions générales de Clearpay :
 
 · Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France, possédant une carte de crédit ou de débit Visa ou Mastercard Européenne et disposant d'un numéro de téléphone portable français.
 
@@ -228,7 +228,7 @@ Nous faisons appel à plusieurs mécanismes dans le cadre de la lutte contre la 
 
 (iii) Enfin, nous avons mis en place un traitement de lutte contre la fraude. Ainsi, nous pouvons effectuer des contrôles ayant pour but de s’assurer de l’exactitude de votre identité et domiciliation. Dans ce cadre, nos vérifications portent (i) sur les informations que vous nous fournissez telles que, nom, prénom, adresse email, adresse de livraison etc, ainsi que l’adresse IP utilisée et figurant dans l’historique de vos commandes et transactions, (ii) les caractéristiques de la commande concernée et enfin (iii) la carte bancaire utilisée (ex : pays d’émission et numéros partiels communiqués par les établissements bancaires et de paiement, composés uniquement des six premiers chiffres et des quatre derniers, ainsi que de sa date d’expiration). Le cas échéant, nous pouvons vous demander de nous transmettre par email une copie recto de votre pièce d’identité ainsi qu’un justificatif de domicile datant de moins de trois (3) mois. Ces documents ne seront pas conservés au-delà de la durée nécessaire aux vérifications.
 
-Nous nous réservons le droit de procéder à l’annulation de la commande concernée et au blocage du compte si les vérifications menées établissent la fourniture de données inexactes, ou en cas de non réception des justificatifs demandés dans le délai imparti. Vous serez informé de ce qui précède par email. Dans le cadre de ce traitement, nous vous rappelons que vous disposez de l’ensemble des droits listés à l’article 1-6 de notre Politique de confidentialité, disponible [**ici**](https://www.showroomprive.com/politique_confidentialite.aspx) .
+Nous nous réservons le droit de procéder à l’annulation de la commande concernée et au blocage du compte si les vérifications menées établissent la fourniture de données inexactes, ou en cas de non réception des justificatifs demandés dans le délai imparti. Vous serez informé de ce qui précède par email. Dans le cadre de ce traitement, nous vous rappelons que vous disposez de l’ensemble des droits listés à l’article 1-6 de notre Politique de confidentialité, disponible **[ici](https://www.showroomprive.com/politique_confidentialite.aspx)** .
 
 **Article 6 - Quand vos produits vous seront-ils livrés ?**
 
@@ -240,7 +240,7 @@ Pour des raisons logistiques et de sécurité, la livraison de certains produit 
 
 |     |     |
 | --- | --- |
-| La livraison à domicile<br><br>Lors de la passation de votre commande, choisissez la livraison « Standard » ou « Express ».<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées chez vous entre 24h et 72h après leur expédition grâce à la livraison « Express ».<br><br>· Pour les livraisons d’ **articles volumineux**, notre transporteur vous contactera pour planifier un rendez-vous de livraison.<br><br>· Nous pouvons livrer les entrepôts de **Colisexpat** sous réserve du respect de leurs conditions générales disponibles [**ici**](https://www.colisexpat.com/pages/conditions-generales-de-vente/) .<br><br>· Pour des raisons logistiques et de sécurité, nous ne sommes pas en mesure de livrer aux adresses de site militaire.<br><br>En cas d’absence à votre domicile, le transporteur en charge de la livraison de votre commande vous informera des modalités de récupération de votre commande via un avis de passage. | La livraison en point de retrait<br><br>Lors de la passation de votre commande, choisissez la livraison en point de retrait. En renseignant votre adresse, vous pourrez identifier les différents points de retrait disponibles autour de chez vous.<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées dans le point de retrait entre 24h et 72h après leur expédition.<br><br>· Pour vos **articles volumineux**, des points de retrait sont disponibles mais ils sont moins nombreux. Vous retrouverez la liste sur le Site en renseignant votre adresse.<br><br>· Dans le cas où le point de retrait du colis est saturé ou fermé, le colis est automatiquement mis à disposition dans le point de retrait le plus proche en fonction de ses disponibilités.<br><br>· Vous avez un délai de 10 jours pour retirer votre colis dans votre point de retrait. |
+| La livraison à domicile<br><br>Lors de la passation de votre commande, choisissez la livraison « Standard » ou « Express ».<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées chez vous entre 24h et 72h après leur expédition grâce à la livraison « Express ».<br><br>· Pour les livraisons d’ **articles volumineux**, notre transporteur vous contactera pour planifier un rendez-vous de livraison.<br><br>· Nous pouvons livrer les entrepôts de **Colisexpat** sous réserve du respect de leurs conditions générales disponibles **[ici](https://www.colisexpat.com/pages/conditions-generales-de-vente/)** .<br><br>· Pour des raisons logistiques et de sécurité, nous ne sommes pas en mesure de livrer aux adresses de site militaire.<br><br>En cas d’absence à votre domicile, le transporteur en charge de la livraison de votre commande vous informera des modalités de récupération de votre commande via un avis de passage. | La livraison en point de retrait<br><br>Lors de la passation de votre commande, choisissez la livraison en point de retrait. En renseignant votre adresse, vous pourrez identifier les différents points de retrait disponibles autour de chez vous.<br><br>A noter :<br><br>· Les **commandes _« Livraison rapide »_** peuvent être réceptionnées dans le point de retrait entre 24h et 72h après leur expédition.<br><br>· Pour vos **articles volumineux**, des points de retrait sont disponibles mais ils sont moins nombreux. Vous retrouverez la liste sur le Site en renseignant votre adresse.<br><br>· Dans le cas où le point de retrait du colis est saturé ou fermé, le colis est automatiquement mis à disposition dans le point de retrait le plus proche en fonction de ses disponibilités.<br><br>· Vous avez un délai de 10 jours pour retirer votre colis dans votre point de retrait. |
 
 Nous attirons votre attention sur les points suivants :
 
@@ -252,7 +252,7 @@ Nous attirons votre attention sur les points suivants :
 
 6.2 Combien coûte la livraison ?
 
-Avec le service Infinity, profitez de la livraison gratuite ! Pour consulter les Conditions Générales d’Abonnement du Service Infinity [**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/CGV_Infinity.pdf) .
+Avec le service Infinity, profitez de la livraison gratuite ! Pour consulter les Conditions Générales d’Abonnement du Service Infinity **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/CGV_Infinity.pdf)** .
 
 Si vous n’êtes pas abonnés au service Infinity, le montant des frais de livraison de votre commande vous sera annoncé lors de la l’étape du choix de votre mode de livraison. Les tarifs pour la livraison à domicile ou en point de retrait vous seront proposés afin de faire votre choix en toute connaissance de cause !
 
@@ -262,11 +262,11 @@ Nous vous rappelons que pour les ventes de coupons, aucun frais de port ne vous 
 
 6.3 Que faire en cas d’absence, de retard de livraison, ou de livraison non conforme ?
 
-En cas d’absence ou de retard de livraison, nous vous invitons à consulter nos FAQ [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
+En cas d’absence ou de retard de livraison, nous vous invitons à consulter nos FAQ **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
 Nous souhaitons attirer votre attention sur le fait qu’en cas d’absence de livraison, vous disposez d’un délai de 30 jours à compter de la date de livraison annoncée ou estimée, pour en informer notre service client, afin que ce dernier puisse notamment procéder à l’ouverture d’une enquête auprès de notre transporteur. A cette fin, Showroomprive.com se réserve le droit de vous demander l’envoi de documents justificatifs (exemple : attestation sur l’honneur signée etc.) nécessaires à l’ouverture de ladite enquête. Au-delà du délai de 30 jours susmentionné, votre commande sera réputée livrée et aucune contestation relative à l’absence de livraison ne sera possible.
 
-En cas de livraison non conforme, nous vous invitons à consulter nos FAQ [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
+En cas de livraison non conforme, nous vous invitons à consulter nos FAQ **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
 Dans l’hypothèse où votre colis aurait été endommagé lors du transport, et si vous n’avez émis aucune réserve lors de la livraison, nous vous conseillons de le déclarer au plus vite. Pour cela nous vous invitons à contacter notre service client sous 72h à compter de la livraison afin qu’une enquête soit ouverte auprès de notre transporteur. Les délais pour signaler un produit endommagé par le transport étant courts, pensez à accompagner votre contestation notamment d’une photographie du colis et/ou du produit abimé afin de faciliter sa prise en charge:
 
@@ -358,11 +358,11 @@ Vous pouvez vous rétracter :
 
 \- Un renvoi libre, par vos propres moyens, en sélectionnant l'option ""Choisir un renvoi libre";
 
-• Ou en **remplissant le formulaire de rétractation** disponible [**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf) et en nous le retournant :
+• Ou en **remplissant le formulaire de rétractation** disponible **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf)** et en nous le retournant :
 
 \- A l’adresse email suivante : serviceclientfr@showroomprive.com ou ;
 
-\- Via le formulaire de contact accessible [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) ; ou
+\- Via le formulaire de contact accessible **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** ; ou
 
 \- A l’adresse suivante : Showroomprive.com, Service client, 1 rue des Blés, 93210, La Plaine Saint Denis.
 
@@ -392,7 +392,7 @@ nos entrepôts aux adresses précitées.
 
 • Les produits soient retournés complets et accompagnés de tous les accessoires éventuels, non abîmés, non endommagés ou salis ;
 
-• Les produits high tech connectés ( _ex. smartphones, montres connectées, tablettes, ordinateurs portables etc_ .) soient débloqués et réinitialisés (cliquez [**ici**](https://www.showroomprive.com/nouscontacter/faqcontent.aspx?sectionid=67&subsectionId=77) pour trouver le protocole de réinitialisation de vos produits).
+• Les produits high tech connectés ( _ex. smartphones, montres connectées, tablettes, ordinateurs portables etc_ .) soient débloqués et réinitialisés (cliquez **[ici](https://www.showroomprive.com/nouscontacter/faqcontent.aspx?sectionid=67&subsectionId=77)** pour trouver le protocole de réinitialisation de vos produits).
 
 Pensez aussi à accompagner vos produits de l’ensemble des informations nous permettant d’identifier votre fiche client et la commande concernée par votre retour (nom, prénom, adresse, numéro de commande).
 
@@ -418,9 +418,9 @@ Pour exercer votre droit de rétractation, vous devez notifier votre intention d
 
 · Directement depuis votre compte personnel en accédant à l’onglet « Vos commandes ».
 
-· En vous adressant directement à notre service client à l’adresse email suivante [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) et/ou via le formulaire de contact accessible [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
+· En vous adressant directement à notre service client à l’adresse email suivante [serviceclientfr@showroomprive.com](mailto:serviceclientfr@showroomprive.com) et/ou via le formulaire de contact accessible **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
-· En nous retournant le formulaire de rétractation complété, téléchargeable [**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf) .
+· En nous retournant le formulaire de rétractation complété, téléchargeable **[ici](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf)** .
 
 9.3 Les exceptions au droit de rétractation
 
@@ -462,41 +462,63 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- **Article 10 - Quelles garanties pour vos produits ?**
 
-![Zone de Texte: 10.1 Les garanties légales 
-Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l’article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil. 
-La garantie légale de conformité s’applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu’il ne correspond pas à la description donnée. 
-La garantie légale de conformité s’applique indépendamment de la garantie commerciale éventuellement consentie.
-Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l’article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c’est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil.
-10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)
-Pour les Produits achetés avant le 1er janvier 2022, vous : 
--	bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
--	pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation
--	êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est de six (6) mois. 
-Pour les Produits achetés à compter du 1er janvier 2022, vous : 
--	bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
--	pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation ;
--	êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est désormais de douze (12) mois. 
-Toute réparation du bien d’origine, neuf comme d’occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie. 
-Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l’objet d’un renouvellement.
-](file:///C:/Users/K6D9D~1.TRA/AppData/Local/Temp/msohtmlclip1/01/clip_image001.png) Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d’entre eux bénéficient également d’une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
+Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d’entre eux bénéficient également d’une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
 
-![Zone de Texte: Pour l’élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022 :
-Dans le cas où le contrat prévoit la fourniture, avec le Produit, d’un élément numérique, ce dernier bénéficie d’une garantie légale de conformité qui lui est propre. Dès lors, vous : 
--	Pouvez vous prévaloir de la garantie légale de conformité attachée à l’élément numérique : 
-§	Pendant deux (2) ans à compter de la fourniture de l’élément numérique si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans.
-Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les deux (2) années suivants la fourniture de l’élément numérique. 
-§	Durant toute la période de fourniture de l’élément numérique, si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans.
-Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant la fourniture de l’élément numérique. 
--	Pouvez demander la mise en conformité de l’élément numérique inclus dans le bien. 
-Article 10.1.2. Garantie légale de conformité des contenus et services numériques
-Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous : 
--	Pouvez vous prévaloir de la garantie légale de conformité :
-§	Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique.
-Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
-§	Durant toute la période de fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée. 
-Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture. 
--	Pouvez demander la mise en conformité du contenu ou service numérique.
-](file:///C:/Users/K6D9D~1.TRA/AppData/Local/Temp/msohtmlclip1/01/clip_image002.png)
+10.1 Les garanties légales
+
+Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l’article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
+
+La garantie légale de conformité s’applique lorsque votre produit présente un défaut de conformité, par exemple lorsque votre produit ne fonctionne pas conformément aux usages auxquels servent habituellement ce produit, ou encore lorsqu’il ne correspond pas à la description donnée.
+
+La garantie légale de conformité s’applique indépendamment de la garantie commerciale éventuellement consentie.
+
+Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens de l’article 1641 du code civil. La garantie des vices cachés vous couvre lorsque votre produit comporte un vice caché, c’est-à-dire un vice non apparent au moment de la vente qui rend le produit impropre à son usage ou qui diminue très fortement cet usage. Dans cette hypothèse, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l’article 1644 du Code civil.
+
+10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)
+
+**Pour les Produits achetés avant le 1er janvier 2022,** vous :
+
+\- bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation
+
+\- êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est de six (6) mois.
+
+**Pour les Produits achetés à compter du 1er janvier 2022,** vous :
+
+\- bénéficiez d’un délai de deux (2) ans à compter de la délivrance du Produit pour agir ;
+
+\- pouvez choisir entre la réparation ou le remplacement du Produit, sous réserve des conditions de coût prévues par l’article L217-9 du Code de la consommation ;
+
+\- êtes dispensé de rapporter la preuve de l’existence du défaut de conformité du bien durant les vingt-quatre (24) mois suivant la délivrance du bien, sauf pour les biens d’occasion pour lesquels le délai est désormais de douze (12) mois.
+
+Toute réparation du bien d’origine, neuf comme d’occasion, intervenant dans le cadre de la présente garantie, entraînera un prolongement de six (6) mois de ladite garantie.
+
+Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l’objet d’un renouvellement.
+
+**Pour l’élément numérique contenu dans votre Produit acheté à compter du 1er janvier 2022 :**
+
+Dans le cas où le contrat prévoit la fourniture, avec le Produit, d’un élément numérique, ce dernier bénéficie d’une garantie légale de conformité qui lui est propre. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité attachée à l’élément numérique :
+
+\- Pendant deux (2) ans à compter de la fourniture de l’élément numérique si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période indéterminée ou inférieure ou égale à deux (2) ans. Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les deux (2) années suivants la fourniture de l’élément numérique.
+
+\- Durant toute la période de fourniture de l’élément numérique, si votre contrat prévoit que ledit élément est fourni de manière continue pendant une période supérieure à deux (2) ans. Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant la fourniture de l’élément numérique.
+
+\- Pouvez demander la mise en conformité de l’élément numérique inclus dans le bien.
+
+**Article 10.1.2. Garantie légale de conformité des contenus et services numériques**
+
+Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors, vous :
+
+\- Pouvez vous prévaloir de la garantie légale de conformité :
+
+\- Pendant deux (2) ans à compter de la fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière ponctuelle ou unique. Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité durant les douze (12) mois suivants la fourniture du contenu/ service.
+
+\- Durant toute la période de fourniture du contenu ou service numérique, si votre contrat prévoit que ledit contenu/service est fourni de manière continue pendant une période donnée. Vous êtes ici dispensé de rapporter la preuve de l’existence du défaut de conformité qui apparaitrait pendant toute la période de fourniture.
+
+\- Pouvez demander la mise en conformité du contenu ou service numérique.
 
 10.2 La garantie commerciale
 
@@ -504,7 +526,7 @@ Dans certains cas, une garantie commerciale peut vous être proposée directemen
 
 10.3 Comment mettre en œuvre mes garanties ?
 
-Si vous souhaitez bénéficier de l’une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) , ou le cas échéant en nous contactant à l’adresse suivante : serviceclient.fr@showroomprive.com. N’oubliez pas d’y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
+Si vous souhaitez bénéficier de l’une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** , ou le cas échéant en nous contactant à l’adresse suivante : serviceclient.fr@showroomprive.com. N’oubliez pas d’y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
 
 Vous recevrez alors une étiquette prépayée à apposer sur le colis pour nous renvoyer votre produit non conforme. Au retour de votre produit, la non-conformité sera contrôlée par nos équipes. En cas de fausse déclaration, une somme forfaitaire de 6.50€ sera déduite de votre remboursement. En cas de produits volumineux non conformes, nous vous invitons à contacter notre service client.
 
@@ -518,11 +540,11 @@ Pour vous remercier de votre fidélité, Showroomprive vous propose de nombreux 
 
 Vous pouvez consulter tous ces avantages et leurs modalités d’utilisation dans votre compte, rubrique « Mes avantages ».
 
-Profitez également de notre offre parrainage ! N’hésitez pas à faire profiter à vos amis de nos ventes évènementielles. Pour plus d’informations, rendez-vous sur nos pages d’aide [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) , consultez la rubrique « Mon compte » puis « Je souhaite effectuer un parrainage et gagner des avantages ».
+Profitez également de notre offre parrainage ! N’hésitez pas à faire profiter à vos amis de nos ventes évènementielles. Pour plus d’informations, rendez-vous sur nos pages d’aide **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** , consultez la rubrique « Mon compte » puis « Je souhaite effectuer un parrainage et gagner des avantages ».
 
 A noter : Vos avantages parrainage sont des moyens de paiement. A ce titre, lorsque vous exercez votre droit de rétractation, le remboursement associé sera effectué par transaction inversée c’est-à-dire en avantage du même montant (si toutefois les conditions de cet avantage prévoient qu’il est remboursable).
 
-Les modalités de remboursement des achats effectués avec un avantage sont accessibles [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
+Les modalités de remboursement des achats effectués avec un avantage sont accessibles **[ici](https://www.showroomprive.com/nouscontacter/faq.aspx)** .
 
 **Article 12 – Et vos données dans tout ça ?**
 
@@ -536,7 +558,7 @@ Comme indiqué dans notre Politique de Confidentialité, Showroomprivé.com peut
 
 Nos conditions générales de vente sont soumises au droit français, Chaque commande est soumise aux CGV en vigueur au jour de sa passation. En cas de litige, nous vous invitons à nous contacter afin de trouver ensemble une solution amiable :
 
-\- Par le formulaire de contact disponible [**ici**](https://www.showroomprive.com/nouscontacter/faqp.aspx?res=6) ;
+\- Par le formulaire de contact disponible **[ici](https://www.showroomprive.com/nouscontacter/faqp.aspx?res=6)** ;
 
 \- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d’un appel local) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
 
@@ -550,7 +572,7 @@ Dans le cas où aucune solution amiable ne serait trouvée, les tribunaux franç
 
 **Article 15 – Mentions légales**
 
-Showroomprive.com est titulaire de la licence d’agent de voyage n° IM093110007 délivrée par la Préfecture de Seine Saint-Denis et dispose de la garantie financière auprès de la compagnie Groupama Assurance-crédit & Caution, 8-10 rue d’Astorg – 75008 Paris (entreprise régie par le Code des assurances). Pour consulter nos Conditions Générales de Vente Voyage, cliquez [**ici**](https://www.showroomprive.com/contratcgvvoyage.aspx) .
+Showroomprive.com est titulaire de la licence d’agent de voyage n° IM093110007 délivrée par la Préfecture de Seine Saint-Denis et dispose de la garantie financière auprès de la compagnie Groupama Assurance-crédit & Caution, 8-10 rue d’Astorg – 75008 Paris (entreprise régie par le Code des assurances). Pour consulter nos Conditions Générales de Vente Voyage, cliquez **[ici](https://www.showroomprive.com/contratcgvvoyage.aspx)** .
 
 La responsabilité civile professionnelle de Showroomprive.com est couverte par la compagnie d’assurances GAN Eurocourtage (7 place du Dôme- TSA 59876 – 92 099 La Défense cedex – Tel : 01.70.96.60.00), sous la police d’assurance n° 186212201.
 
