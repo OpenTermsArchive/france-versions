@@ -297,7 +297,9 @@ XVI - BONS D’ACHAT RE-CYCLE
 
 \- Les bons d’achat sont valables jusqu’au 15 juin 2023, sur toute commande d'articles réalisée sur le site cop-copine.com ou en boutique pour régler le prix des articles avec un panier minimum de 150€.
 
-\- Le bon d’achat est cumulable aux promotions en cours, hors outlet et périodes de soldes.
+\- Le bon d’achat est cumulable aux promotions en cours, hors outlet et petits prix   
+  
+\- Le bon d’achat n’est pas cumulable avec un autre code promotionnel
 
 \- Si la valeur de la commande est supérieure au montant du bon d’achat, la différence doit être réglée par le Client par l’un des autres moyens de paiement proposé sur le site ou en boutiques.
 
@@ -313,7 +315,7 @@ XVI - BONS D’ACHAT RE-CYCLE
 
 \- Un bon d’achat n’est pas utilisable pour une commande déjà validée.
 
-\- Un achat payé avec un bon d’achat en totalité ou en complément d’un autre moyen de paiement ne peut pas faire l’objet d’un remboursement, sauf dans le cadre des garanties légales de conformité et de vices cachés tels que définis par le Code de la consommation et le Code civil.
+**\-**  Dans le cas d'un achat payé avec un bon d’achat en totalité ou en complément d’un autre moyen de paiement, le bon d'achat ne peut pas faire l’objet d’un remboursement sauf dans le cadre des garanties légales de conformité et de vices cachés tels que définis par le Code de la consommation et le Code civil.
 
 \- Le bon d’achat est également non remboursable en espèces, ni totalement, ni partiellement. Le bon d’achat n’est pas valable sur les frais de port.
 
