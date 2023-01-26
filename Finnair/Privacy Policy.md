@@ -13,6 +13,7 @@ Le respect de votre vie privée est notre priorité.
 --------------------------------------------------
 
 À propos de nous
+----------------
 
 #### Responsable du traitement
 
@@ -29,6 +30,7 @@ Gérez vos paramètres de confidentialité et demandez vos données personnelles
 Dans le cas où vous ne trouveriez pas ce que vous cherchez dans cette politique ou auprès du service de confidentialité en ligne que vous pouvez consulter en cliquant sur le lien ci-dessus, vous pouvez également contacter le Délégué à la protection des données du Groupe Finnair à l'adresse électronique  [privacy@finnair.com](mailto:privacy@finnair.com) ou à l'adresse postale Délégué à la protection des données Finnair, P.O. BOX 15, 01053 FINNAIR, FINLANDE.
 
 Vos données, vos droits
+-----------------------
 
 #### Comment exercer vos droits
 
@@ -67,6 +69,7 @@ Vous avez le droit de recevoir les données personnelles que vous nous avez comm
 Si vous pensez que nous n'avons pas traité correctement vos données personnelles, vous pouvez contacter l'autorité de contrôle de la protection des données et déposer une plainte officielle.
 
 Sauvegarde de vos données
+-------------------------
 
 #### Comment nous protégeons vos données
 
@@ -92,6 +95,7 @@ Données clients et partenaires
 ------------------------------
 
 Quelles données nous traitons
+-----------------------------
 
 #### Données d'identification et de contact
 
@@ -158,6 +162,7 @@ Finnair stocke une liste de passagers ayant déjà mis en danger la sécurité d
 Nous traitons les données relatives aux réservations, aux paiements et aux bagages afin d’évaluer les performances et de prévenir les comportements frauduleux (pour de plus amples informations, voir la section Comment nous utilisons vos données > Aux fins de nos intérêts légitimes > Processus d’arrière-plan).
 
 Comment nous utilisons vos données
+----------------------------------
 
 #### Sur la base de notre contrat avec vous :
 
@@ -242,6 +247,7 @@ Conformément à la législation comptable, nous sommes tenus d'enregistrer nos 
 Nous conservons vos données personnelles uniquement le temps nécessaire à la réalisation des fins pour lesquelles elles ont été collectées ou dans la mesure où le stockage des données est nécessaire au respect d’obligations légales et au règlement de litiges ou revendications éventuel(le)s.
 
 Comment nous collectons et partageons vos données
+-------------------------------------------------
 
 #### Sources des données
 
@@ -277,6 +283,7 @@ Membre Finnair Plus et données de compte Finnair
 ------------------------------------------------
 
 Quelles données nous traitons
+-----------------------------
 
 #### Données de profil
 
@@ -313,6 +320,7 @@ Votre profil contient également les données sur vos vols en tant que membre Fi
 * informations sur le compagnon de voyage - nom du compagnon.
 
 Comment nous utilisons vos données
+----------------------------------
 
 #### Sur la base de notre contrat avec vous :
 
@@ -367,6 +375,7 @@ Conformément à la législation comptable, nous sommes tenus d'enregistrer nos 
 Nous conservons vos données personnelles uniquement le temps nécessaire à la réalisation des fins pour lesquelles elles ont été collectées ou dans la mesure où le stockage des données est nécessaire au respect d’obligations légales et au règlement de litiges ou revendications éventuel(le)s.
 
 Comment nous collectons et partageons vos données
+-------------------------------------------------
 
 #### Sources de données
 
