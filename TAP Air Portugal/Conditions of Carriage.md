@@ -10,7 +10,7 @@ Votre contrat de transport avec la TAP est régi par :
 * Les dispositions figurant sur votre billet de transport ;
 * La réglementation tarifaire applicable ;
 * Les autres réglementations en vigueur ;
-* Les **[Conditions générales de transport (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2022/Mercado-FR/JUL22/CONDITIONS-GENERALES-DE-TRANSPORT-FR-FR-JUL22.pdf?la=fr&hash=1BE4EB148306EAB19C21F33C69105E31830F2ECC)** (passagers et bagages).
+* Les **[Conditions générales de transport (PDF, 0.32MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2022/Mercado-FR/CONDITIONS-GENERALES-DE-TRANSPORT-FR-FR-JUL22.pdf?la=fr&hash=066990F807098C064D7B4CC31F54BC606EC8C6F7)** (passagers et bagages).
 
 **Responsabilité des compagnies aériennes vis-à-vis des passagers et de leurs bagages**
 
@@ -22,202 +22,244 @@ La présente notice d’information est exigée par le [Règlement (CE) nº 261/
 
 Les coordonnées des entités chargées de faire respecter les droits des passagers dans le transport aérien se trouvent [ici](https://transport.ec.europa.eu/system/files/2022-04/2004_261_national_enforcement_bodies.pdf "Ce lien s'ouvre dans une nouvelle fenêtre").
 
-**En Cas d'Annulation  
-  
-**Les règles suivantes s'appliquent : 
+**En Cas d'Annulation**
 
-1. En cas d'annulation d'un vol préalablement prévu pour être opéré par TAP Air Portugal et pour lequel au moins une place avait été réservée ;
-2. aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ;
-3. dès lors qu'ils disposent d'une réservation confirmée pour le vol concerné ou qu'ils ont été transférés, par un transporteur aérien ou un opérateur touristique, du vol pour lequel ils possédaient une réservation vers un autre vol, quelle qu'en soit la raison ;
-4. uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ;
-5. orsque TAP Air Portugal est le transporteur aérien effectif.  
+Les règles suivantes s'appliquent :
 
- **Règles en matière d’indemnisation et d’assistance**
+1. En cas d'annulation d'un vol préalablement prévu pour être opéré par TAP Air Portugal et pour lequel au moins une place avait été réservée ;  
+    
+2. aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ;  
+    
+3. dès lors qu'ils disposent d'une réservation confirmée pour le vol concerné ou qu'ils ont été transférés, par un transporteur aérien ou un opérateur touristique, du vol pour lequel ils possédaient une réservation vers un autre vol, quelle qu'en soit la raison ;  
+    
+4. uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ;  
+    
+5. orsque TAP Air Portugal est le transporteur aérien effectif.
 
-**1.** En cas d'annulation de votre vol, TAP Air Portugal vous offrira l'assistance décrite ci-dessous : 
+**Règles en matière d’indemnisation et d’assistance**
 
-**1.1** Vous pourrez choisir entre : 
-
-1. le remboursement, dans un délai de sept jours (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou d’autres services) du prix total du billet, au prix auquel il a été acheté, pour la ou les parties du voyage non effectuées et, lorsque le vol est devenu inutile par rapport à votre plan de voyage initialement prévu, pour la ou les parties déjà effectuées du voyage ainsi que, dans ce dernier cas et le cas échéant, un vol retour (dans les meilleurs délais) vers votre point de départ initial ;
-2. le réacheminement, dans des conditions de transport comparables, vers votre destination finale, dans les meilleurs délais ;
-3. un réacheminement, dans des conditions de transport comparables, vers votre destination finale à une date ultérieure, à votre convenance, sous réserve de la disponibilité de sièges.
-
-**Remarque 1**: les dispositions du point (a) ci-dessus s'appliquent également aux passagers dont les vols font partie d'un voyage à forfait, hormis en ce qui concerne le droit au remboursement si un tel droit découle de la directive 90/314/CEE. 
-
-**Remarque 2**: dès lors qu'une ville ou une région est desservie par plusieurs aéroports et que TAP Air Portugal vous propose un vol à destination d'un aéroport autre que celui qui était initialement prévu, TAP Air Portugal prendra à sa charge les frais de votre transfert entre l'aéroport d'arrivée et l'aéroport initialement prévu ou une autre destination proche convenue avec vous.
-
-**1.2** En outre, TAP Air Portugal vous proposera à titre gratuit : 
-
-1. des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ; 
-2. une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).
-
-**1.3** En cas de réacheminement résultant de l'annulation de votre vol, si l'heure de départ raisonnablement attendue est au moins le jour suivant le départ planifié pour le vol annulé, TAP Air Portugal vous offrira également : 
-
-1. un hébergement à l’hôtel, au cas où :   
-    un séjour d'une ou plusieurs nuits est nécessaire ;   
-    un séjour s'ajoutant à celui que vous aviez prévu est nécessaire ; 
-2. le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre). 
-
-**Remarque:** toutes les dépenses relatives à ce dont il est fait référence aux paragraphes 1.2, points (a) et (b), et 1.3 ci-dessus et effectuées moins de trois heures avant l'heure de départ du vol retour visé au paragraphe 1.1, point (a) ci-dessus ou du vol de réacheminement visé au paragraphe 1.1., points (b) ou (c) ci-dessus, seront à votre charge.
-
-**1.4** Vous aurez droit à l'indemnisation suivante, qui sera versée conformément aux dispositions du paragraphe 1.1, point (a) :
-
-1. 250 € pour tous les vols de 1 500 kilomètres ou moins ; 
-2. 400 € pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ; 
-3. 600 € pour tous les vols qui ne relèvent pas des points (a) ou (b).
-
-**Remarque:** pour déterminer la distance à prendre en considération, il sera tenu compte de la dernière destination où le passager arrivera après l'heure prévue du fait de l'annulation. Les distances seront mesurées selon la méthode de la route orthodromique.
-
-**Sauf si :**
-
-Vous avez été informé(e) de l'annulation au moins deux semaines avant l'heure de départ prévue.  
-  
-Vous avez été informé(e) de l'annulation de deux semaines à sept jours avant l'heure de départ prévue et si on vous propose un réacheminement vous permettant de partir au plus tôt deux heures avant l'heure de départ prévue et d'atteindre votre destination finale moins de quatre heures après l'heure d'arrivée prévue.  
-  
-Vous avez été informé(e) de l'annulation moins de sept jours avant l'heure de départ prévue et si on vous propose un réacheminement vous permettant de partir au plus tôt une heure avant l'heure de départ prévue et d'atteindre votre destination finale moins de deux heures après l'heure d'arrivée prévue.  
-  
-TAP PORTUGAL est en mesure de prouver que l'annulation est due à des circonstances extraordinaires qui n'auraient pas pu être évitées même si toutes les mesures raisonnables avaient été prises.  
-  
-**2\.** Lorsqu'on vous propose un réacheminement vers votre destination finale sur un vol de remplacement aux termes du paragraphe 1.1, points (b) ou (c), dont l'heure d'arrivée ne dépasse pas l'heure prévue du vol initialement réservé :
-
-i) de deux heures (pour tous les vols de 1 500 kilomètres ou moins) ;
-
-ii) de trois heures (pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres) ;
-
-iii) de quatre heures (pour tous les vols qui ne relèvent pas des points (i) et (ii), TAP Air Portugal pourra réduire de 50 % l'indemnisation prévue au paragraphe 1.4, points (a), (b) et (c) ci-dessus.
-
-**3\.** L'assistance prévue dans la présente notice d'information s'applique sans préjudice de votre droit, aux termes de la législation applicable (notamment de la directive 90/314/CEE concernant les voyages à forfait), à une indemnisation complémentaire. L'assistance accordée en vertu du présent règlement peut être déduite d'une telle indemnisation. 
-
-**4\.** Les personnes à mobilité réduite et toutes les personnes qui les accompagnent, ainsi que les enfants non accompagnés, ont le droit de bénéficier d'une prise en charge, qui leur est fournie dès que possible, aux termes des paragraphes 1.2, points (a) et (b) et 1.3 ci-dessus et TAP Air Portugal veillera tout particulièrement à leurs besoins.
-
-**5\.** Tout bon de voyage / bon d'achat émis par TAP Air Portugal à titre de remboursement ou de paiement ne pourra être utilisé que pour des voyages / services de TAP Air Portugal et uniquement lorsque ceux-ci sont directement assurés par cette dernière. 
-
-**6\.** Aux fins du présent règlement, on entend par :
-
-* **Transporteur communautaire :** un transporteur aérien titulaire d’une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92 du Conseil, du 23 juillet 1992, concernant les licences des transporteurs aériens.
-* **Transporteur aérien effectif :** un transporteur aérien qui réalise ou a l'intention de réaliser un vol dans le cadre d'un contrat conclu avec un passager, ou au nom d'une autre personne, morale ou physique, qui a conclu un contrat avec ce passager. 
-* **« Destination finale » :** la destination figurant sur le billet présenté au comptoir d'enregistrement, ou dans le cas des vols avec correspondances, la destination du dernier vol ; les vols avec correspondances disponibles comme solution de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée.
-* **Personne à mobilité réduite :** toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d'une déficience intellectuelle, de son âge ou de toute autre cause de handicap et dont la situation exige une attention spéciale et l'adaptation à ses besoins des services mis à la disposition de tous les passagers.
+* **1)** En cas d'annulation de votre vol, TAP Air Portugal vous offrira l'assistance décrite ci-dessous :  
+    
+    * **1.1)** Vous pourrez choisir entre :  
+        
+        * **1)** le remboursement, dans un délai de sept jours (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou d’autres services) du prix total du billet, au prix auquel il a été acheté, pour la ou les parties du voyage non effectuées et, lorsque le vol est devenu inutile par rapport à votre plan de voyage initialement prévu, pour la ou les parties déjà effectuées du voyage ainsi que, dans ce dernier cas et le cas échéant, un vol retour (dans les meilleurs délais) vers votre point de départ initial ;  
+            
+        * **2)** le réacheminement, dans des conditions de transport comparables, vers votre destination finale, dans les meilleurs délais ;  
+            
+        * **3)** un réacheminement dans des conditions similaires vers votre destination finale, à une date ultérieure à votre convenance, dans la limite des places disponibles.
+        
+    
+      
+    **Remarque 1:** les dispositions énoncées au point 1. s'appliquent également aux passagers dont les vols sont inclus dans un voyage organisé, à l'exception du droit au remboursement lorsqu'il découle de la directive (UE) 2015/2302.**Remarque 2:** dès lors qu'une ville ou une région est desservie par plusieurs aéroports et que TAP Air Portugal vous propose un vol à destination d'un aéroport autre que celui qui était initialement prévu, TAP Air Portugal prendra à sa charge les frais de votre transfert entre l'aéroport d'arrivée et l'aéroport initialement prévu ou une autre destination proche convenue avec vous.  
+      
+    
+    * **1.2)** En outre, TAP Air Portugal vous proposera à titre gratuit :  
+        
+        * **1)** des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ;   
+            
+        * **2)** une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).
+        
+    * **1.3)** En cas de réacheminement résultant de l'annulation de votre vol, si l'heure de départ raisonnablement attendue est au moins le jour suivant le départ planifié pour le vol annulé, TAP Air Portugal vous offrira également :  
+        
+        * **1)** un hébergement à l’hôtel, au cas où :  
+            
+            * un séjour d'une ou plusieurs nuits est nécessaire ;
+            * un séjour s'ajoutant à celui que vous aviez prévu est nécessaire ;
+            
+        * **2)** le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre).
+        
+    
+      
+    **Remarque:** toute dépense liée aux points 1.2 et 1.3 ci-dessus et engagée après la troisième heure avant l'heure de départ du vol de retour mentionné au point 1.1.1 ci-dessus, ou du vol de réacheminement mentionné aux points 1.1.2 et 1.1.3 ci-dessus, sera à votre charge.  
+    
+    * **1.4)** Vous aurez droit à la compensation suivante, qui sera versée conformément au point 1.1.1 ci-dessus :
+        
+        * **1)** 250 € pour tous les vols de 1 500 kilomètres ou moins ;   
+            
+        * **2)** 400 € pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;  
+            
+        * **3)** 600 € pour tous les vols qui ne relèvent pas des points (a) ou (b).  
+            **Remarque:** pour déterminer la distance à prendre en considération, il sera tenu compte de la dernière destination où le passager arrivera après l'heure prévue du fait de l'annulation. Les distances seront mesurées selon la méthode de la route orthodromique.  
+            **  
+            Sauf si :**  
+            
+            * Vous avez été informé(e) de l'annulation au moins deux semaines avant l'heure de départ prévue.
+            * Vous avez été informé(e) de l'annulation de deux semaines à sept jours avant l'heure de départ prévue et si on vous propose un réacheminement vous permettant de partir au plus tôt deux heures avant l'heure de départ prévue et d'atteindre votre destination finale moins de quatre heures après l'heure d'arrivée prévue; ou
+            * Vous avez été informé(e) de l'annulation moins de sept jours avant l'heure de départ prévue et si on vous propose un réacheminement vous permettant de partir au plus tôt une heure avant l'heure de départ prévue et d'atteindre votre destination finale moins de deux heures après l'heure d'arrivée prévue.
+            * TAP PORTUGAL est en mesure de prouver que l'annulation est due à des circonstances extraordinaires qui n'auraient pas pu être évitées même si toutes les mesures raisonnables avaient été prises.  
+                  
+                
+            
+        
+    
+* **2)** Lorsque l'on vous propose un réacheminement vers votre destination finale sur un autre vol conformément aux points 1.1.2 et 1.1.3 ci-dessus, et que son heure d'arrivée ne dépasse pas l'heure d'arrivée prévue du vol initial de :
+    
+    * **i)** de deux heures (pour tous les vols de 1 500 kilomètres ou moins) ;
+    * **ii)** de trois heures (pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres) ;
+    * **iii)** quatre heures (dans le cas de vols non couverts par les articles (i) ou (ii), TAP Air Portugal peut réduire de 50 % la compensation mentionnée aux points 1.4.1, 1.4.2 et 1.4.3 ci-dessus).
+    
+* **3)** L'assistance prévue par le présent avis n'affecte pas les droits accordés en vertu de la directive (UE) 2015/2302.
+* **4)** Les personnes à mobilité réduite et les passagers qui les accompagnent, ainsi que les enfants non accompagnés, recevront, dès que possible, l'assistance prévue aux points 1.2.1, 1.2.2, 1.3.1 et 1.3.2 ci-dessus, et TAP Air Portugal accordera une attention particulière à leurs besoins.
+* **5)** Tout bon de voyage / bon d'achat émis par TAP Air Portugal à titre de remboursement ou de paiement ne pourra être utilisé que pour des voyages / services de TAP Air Portugal et uniquement lorsque ceux-ci sont directement assurés par cette dernière.
+* **6)** Aux fins du présent règlement, on entend par :  
+    
+    * **Transporteur communautaire :** un transporteur aérien titulaire d’une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92 du Conseil, du 23 juillet 1992, concernant les licences des transporteurs aériens.
+    * **Fournisseur effectif :** un fournisseur qui assure ou a l'intention d'assurer un vol dans le cadre d'un contrat avec un passager, ou pour le compte d'une personne physique ou morale qui a un contrat avec ce passager.
+    * **Destination finale :** la destination figurant sur le billet présenté au comptoir d'enregistrement, ou dans le cas des vols avec correspondances, la destination du dernier vol ; les vols avec correspondances disponibles comme solution de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée.
+    * **Personne à mobilité réduite :** toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d'une déficience intellectuelle, de son âge ou de toute autre cause de handicap et dont la situation exige une attention spéciale et l'adaptation à ses besoins des services mis à la disposition de tous les passagers.
+    
 
 **En Cas de Retard**
 
-Les règles suivantes s'appliquent : 
+Les règles suivantes s'appliquent :
 
-* aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ;
-* dès lors qu'ils disposent d'une réservation confirmée pour le vol et se présentent à l'enregistrement comme spécifié et à l'heure indiquée à l'avance et par écrit (ou par voie électronique) ou, en l'absence d'indication d'heure, au plus tard 45 minutes avant l'heure de départ publiée ou dès lors qu'ils ont été transférés par un transporteur aérien ou par un opérateur touristique, du vol pour lequel ils ont une réservation vers un autre vol, quelle qu'en soit la raison ;  
-    unique ;
-* uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ;
-* lorsque TAP Air Portugal est le transporteur aérien effectif.
+1. aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ;  
+    
+2. dès lors qu'ils disposent d'une réservation confirmée pour le vol et se présentent à l'enregistrement comme spécifié et à l'heure indiquée à l'avance et par écrit (ou par voie électronique) ou, en l'absence d'indication d'heure, au plus tard 45 minutes avant l'heure de départ publiée ou dès lors qu'ils ont été transférés par un transporteur aérien ou par un opérateur touristique, du vol pour lequel ils ont une réservation vers un autre vol, quelle qu'en soit la raison ;  
+    
+3. uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ;  
+    
+4. lorsque TAP Air Portugal est le transporteur aérien effectif.
 
-**Remarque:** les règles ne s'appliquent pas si TAP Air Portugal est en mesure de prouver que le retard est dû à des circonstances extraordinaires qui n'auraient pas pu être évitées même si toutes les mesures raisonnables avaient été prises.  
-  
-Règles en matière d’indemnisation et d’assistance 
+**Règles en matière d’indemnisation et d’assistance**
 
-**1\.** Lorsque TAP Air Portugal prévoit raisonnablement qu'un vol sera retardé par rapport à l'heure de départ prévue : 
+* **1)** Lorsque TAP Air Portugal prévoit raisonnablement qu'un vol sera retardé par rapport à l'heure de départ prévue :  
+    
+    * **i)** de deux heures ou plus pour tous les vols de 1 500 kilomètres ou moins ; 
+    * **ii)** de trois heures ou plus pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;
+    * **iii)** de quatre heures ou plus pour tous les vols qui ne relèvent pas des points (i) et (ii).  
+        **Remarque:** les distances seront mesurées selon la méthode de la route orthodromique.
+    
 
-i) de deux heures ou plus pour tous les vols de 1 500 kilomètres ou moins ; 
+**TAP Air Portugal vous proposera à titre gratuit :**
 
-ii) de trois heures ou plus pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;
-
-iii) de quatre heures ou plus pour tous les vols qui ne relèvent pas des points (i) et (ii).
-
-**Remarque:** les distances seront mesurées selon la méthode de la route orthodromique. 
-
-**TAP Air Portugal vous proposera à titre gratuit :** 
-
-1. des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ; 
-2. une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).
-
-**1.1** Lorsque l'heure de départ raisonnablement attendue est au moins le jour suivant le départ planifié, TAP Air Portugal vous proposera également à titre gratuit, en plus de l'assistance décrite au paragraphe 1 ci-dessus : 
-
-1. un hébergement à l'hôtel, au cas où :   
-    un séjour d'une ou plusieurs nuits est nécessaire ; ou   
-    un séjour s'ajoutant à celui que vous aviez prévu est nécessaire ; et 
-2. le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre). 
-
-**1.2** Lorsque le retard est d'au moins 5 heures et que vous décidez de ne pas voyager sur le vol retardé, TAP Air Portugal vous proposera aussi, et en plus de l'assistance prévue aux paragraphes 1 et 1.1 ci-dessus : le remboursement dans un délai de sept jours (en espèces, par virement bancaire électronique, par virement bancaire ou par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou d'autres services) du prix total de votre billet, au prix auquel il a été acheté, pour la ou les parties du voyage non effectuées et, lorsque le vol est devenu inutile par rapport à votre plan de voyage initialement prévu, pour la ou les parties déjà effectuées du voyage ainsi que, dans ce dernier cas et le cas échéant, un vol retour (dans les meilleurs délais) vers votre point de départ initial.  
-
-**Remarque:** les dispositions ci-dessus s'appliquent également aux passagers dont les vols font partie d'un voyage à forfait, hormis en ce qui concerne le droit au remboursement si un tel droit découle de la directive 90/314/CEE. 
-
-**2\.** Toutes les dépenses relatives à ce dont il est fait référence aux paragraphes 1, points (a) et (b) et 1.1 ci-dessus et effectuées moins de trois heures avant l'heure de départ du vol retardé ou du vol retour visé au paragraphe 1.2 ci-dessus seront à votre charge. 
-
-**3\.** Vous vous verrez proposer par TAP Air Portugal l'assistance décrite dans la présente notice d'information dans les limites fixées au paragraphe 1, points (i), (ii) et (iii) ci-dessus, compte tenu de la distance du vol. 
-
-**4\.** L'assistance prévue dans la présente notice d'information s'applique sans préjudice de votre droit, aux termes de la législation applicable (notamment de la directive 90/314/CEE concernant les voyages à forfait), à une indemnisation complémentaire. L'assistance accordée en vertu du présent règlement peut être déduite d'une telle indemnisation. 
-
-**5.** En cas de retard, et quelle que soit la durée de celui-ci, les personnes à mobilité réduite et toutes les personnes qui les accompagnent, ainsi que les enfants non accompagnés, ont le droit de bénéficier d'une prise en charge, qui leur est fournie dès que possible, aux termes des paragraphes 1 et 1.1 ci-dessus et TAP Air Portugal veillera tout particulièrement à leurs besoins. 
-
-**6\.** Aux fins du présent règlement, on entend par : 
-
-* **Transporteur communautaire :** un transporteur aérien titulaire d'une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92, du 23 juillet 1992, concernant les licences des transporteurs aériens. 
-* **Transporteur aérien effectif :** un transporteur aérien qui réalise ou a l'intention de réaliser un vol dans le cadre d'un contrat conclu avec un passager, ou au nom d'une autre personne, morale ou physique, qui a conclu un contrat avec ce passager. 
-* **Destination finale :** la destination figurant sur le billet présenté au comptoir d'enregistrement, ou dans le cas des vols avec correspondances, la destination du dernier vol ; les vols avec correspondances disponibles comme solution de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée. 
-* **Personne à mobilité réduite :** toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d'une déficience intellectuelle, de son âge ou de toute autre cause de handicap et dont la situation exige une attention spéciale et l'adaptation à ses besoins des services mis à la disposition de tous les passagers. ion de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée. 
+* **1)** des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ;
+* **2)** une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).  
+    
+    * **1.1)** Lorsque l'heure de départ raisonnablement attendue est au moins le jour suivant le départ planifié, TAP Air Portugal vous proposera également à titre gratuit, en plus de l'assistance décrite au paragraphe 1 ci-dessus :  
+        
+        * **1)** un hébergement à l'hôtel, au cas où :  
+            
+            * un séjour d'une ou plusieurs nuits est nécessaire ; ou
+            * yun séjour s'ajoutant à celui que vous aviez prévu est nécessaire ; et
+            
+        * **2)** le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre).
+        
+    
+    * **1.2)** Si le retard est d'au moins 5 heures et que vous décidez de ne pas voyager sur le vol retardé, TAP vous offrira, dans un délai de sept jours, un remboursement (en espèces, par virement bancaire électronique, par virement bancaire, par chèques bancaires ou, avec votre autorisation écrite, par des bons de vol et/ou d'autres services) du prix total du billet correspondant au(x) segment(s) du vol qui n'ont pas été effectués et, si le vol ne convient plus à votre projet de voyage initial, le remboursement correspondant au(x) segment(s) déjà réalisé(s) ; dans ce dernier cas et chaque fois que cela sera possible, TAP vous proposera également un vol de retour (dans les meilleurs délais) vers votre point de départ d'origine.**Remarque:** les dispositions ci-dessus s'appliquent également aux passagers dont les vols sont inclus dans un voyage organisé, à l'exception du droit au remboursement lorsqu'il découle de la directive (UE) 2015/2302.
+    
+* **2)** Toute dépense liée aux points 1,1, 1,2, 1.1.1 et 1.1.2 ci-dessus et engagée après la troisième heure avant l'heure de départ du vol retardé ou du vol de retour mentionné à l'article 1.2 ci-dessus sera à votre charge.
+* **3)** Vous vous verrez proposer par TAP Air Portugal l'assistance décrite dans la présente notice d'information dans les limites fixées au paragraphe 1, points (i), (ii) et (iii) ci-dessus, compte tenu de la distance du vol.
+* **4)** L'assistance décrite dans le présent avis n'affecte pas les droits accordés en vertu de la directive (UE) 2015/2302.
+* **5)** En cas de retard, et quelle que soit la durée de celui-ci, les personnes à mobilité réduite et toutes les personnes qui les accompagnent, ainsi que les enfants non accompagnés, ont le droit de bénéficier d'une prise en charge, qui leur est fournie dès que possible, aux termes des paragraphes 1 et 1.1 ci-dessus et TAP Air Portugal veillera tout particulièrement à leurs besoins.
+* **6)** Si l'arrivée de votre vol à votre destination finale est retardée de 3 heures ou plus, vous pouvez avoir droit à la compensation suivante :  
+    
+    * **1)** 250 EUR, pour tous les vols jusqu'à 1 500 kilomètres ;
+    * **2)** 400 EUR, pour tous les vols intra-UE de plus de 1 500 kilomètres et tous les vols entre 1 500 et 3 500 kilomètres 
+    * **3)** 600 EUR, pour tous les vols non couverts par les articles (a) ou (b).**  
+        Remarque 1 :** non applicable si TAP Air Portugal peut prouver que le retard a été causé par des circonstances de force majeure qui n'auraient pas pu être évitées même si toutes les mesures raisonnables avaient été adoptées.**Remarque 2 :** La compensation peut être réglée en espèces, par virement bancaire électronique, par chèques bancaires ou, avec votre autorisation écrite, sous forme de bons de vols et/ou d'autres services),**Remarque 3 :** la distance à prendre en compte sera calculée sur la base de la dernière destination à laquelle le passager arrive avec un retard par rapport à l'heure prévue. Les distances doivent être mesurées selon la méthode de l'itinéraire orthodromique.
+    
+* **7)** Aux fins du présent règlement, on entend par :  
+    
+    * **Transporteur communautaire :** un transporteur aérien titulaire d'une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92, du 23 juillet 1992, concernant les licences des transporteurs aériens. **Transporteur aérien effectif :** un transporteur aérien qui réalise ou a l'intention de réaliser un vol dans le cadre d'un contrat conclu avec un passager, ou au nom d'une autre personne, morale ou physique, qui a conclu un contrat avec ce passager. **Destination finale :** la destination figurant sur le billet présenté au comptoir d'enregistrement, ou dans le cas des vols avec correspondances, la destination du dernier vol ; les vols avec correspondances disponibles comme solution de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée. **Personne à mobilité réduite :** toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d'une déficience intellectuelle, de son âge ou de toute autre cause de handicap et dont la situation exige une attention spéciale et l'adaptation à ses besoins des services mis à la disposition de tous les passagers. ion de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée.
+    
 
 **En Cas de Refus d'Embarquement**
 
-**Les règles suivantes s'appliquent :**
+Les règles suivantes s'appliquent :
 
-* aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ; et
-* dès lors qu'ils disposent d'une réservation confirmée pour le vol et se présentent à l'enregistrement comme spécifié et à l'heure indiquée à l'avance et par écrit (ou par voie électronique) ou, en l'absence d'indication d'heure, au plus tard 45 minutes avant l'heure de départ publiée ou dès lors qu'ils ont été transférés par un transporteur aérien ou par un opérateur touristique, du vol pour lequel ils ont une réservation vers un autre vol, quelle qu'en soit la raison ; et
-* uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ; et
-* lorsque TAP Air Portugal est le transporteur aérien effectif.
+1. aux passagers voyageant sur des vols au départ d'un aéroport situé sur le territoire d'un État membre de l'UE et aux passagers voyageant sur des vols opérés par un transporteur communautaire et au départ d'un aéroport situé dans un pays tiers à destination d'un aéroport situé sur le territoire d'un État membre de l'UE (sauf s'ils ont reçu des avantages ou une indemnisation ou encore ont bénéficié d'une prise en charge dans le pays de l'aéroport situé dans un pays tiers) ; et  
+    
+2. dès lors qu'ils disposent d'une réservation confirmée pour le vol et se présentent à l'enregistrement comme spécifié et à l'heure indiquée à l'avance et par écrit (ou par voie électronique) ou, en l'absence d'indication d'heure, au plus tard 45 minutes avant l'heure de départ publiée ou dès lors qu'ils ont été transférés par un transporteur aérien ou par un opérateur touristique, du vol pour lequel ils ont une réservation vers un autre vol, quelle qu'en soit la raison ; et  
+    
+3. uniquement aux passagers voyageant à des tarifs directement ou indirectement accessibles au public, ou avec des billets délivrés dans le cadre d'un programme de fidélisation ou d'un autre programme commercial ; et  
+    
+4. lorsque TAP Air Portugal est le transporteur aérien effectif.
 
+  
 **Règles en matière d'indemnisation et d'assistance**
 
-**1.** Le refus d'embarquement désigne le refus par un transporteur aérien de transporter un(e) passager(ère) sur un vol, bien que ce (cette) passager(ère) se soit présenté(e) à l'embarquement dans les conditions fixées ci-dessus dans le « Champ d'application », sauf s'il est raisonnablement justifié de refuser l'embarquement, notamment pour des raisons de santé, de sécurité ou de documents de voyages inadéquats.
+* **1)** Refus d'embarquement, refus par un fournisseur de transporter un passager bien qu'il ait été présent à l'embarquement, dans les conditions décrites ci-dessus dans la rubrique « Demande », sauf s'il existe un motif raisonnable de le faire, tel que des raisons de santé et de sécurité ou l'absence des documents nécessaires au voyage.
+* **2)** Avant d'empêcher un passager d'embarquemer sur un vol, TAP Air Portugal demandera aux autres clients de renoncer à leurs réservations en échange d'avantages à convenir, et fournira l'assistance nécessaire.TAP vous proposera, sans frais, l'une des solutions suivantes :  
+    
+    * **1)** un remboursement dans un délai de sept jours (en espèces, par virement bancaire électronique, virement bancaire, chèques bancaires ou, avec votre accord écrit, bons de vol et/ou autres services) du prix total du billet correspondant au(x) segment(s) de vol non réalisé(s), et, si le vol ne convient plus à votre itinéraire initial, un remboursement correspondant au(x) segment(s) déjà réalisé(s) ; dans ce dernier cas et chaque fois que cela sera possible, TAP vous proposera également un vol de retour (dans les meilleurs délais) vers votre point de départ d'origine.
+    * **2)** un réacheminement dans des conditions similaires vers votre destination finale, dans les meilleurs délais ;
+    * **3)** un réacheminement dans des conditions similaires vers votre destination finale, à une date ultérieure à votre convenance, sous réserve de la disponibilité des places**.  
+        **Conformément aux dispositions énoncées dans les formulaires « refus d'embarquement-Volontaire » qui seront signés par les passagers qui acceptent de renoncer à leurs réservations.
+    
+* **3)** Si le nombre de volontaires n'est pas suffisant et que TAP Air Portugal vous refuse à l'embarquement contre votre volonté, TAP Air Portugal vous versera immédiatement :  
+    
+    * **3.1)** Une indemnisation (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et/ou d'autres services), dont le montant est fixé à : 
+        
+        * **1)** 250 € pour tous les vols de 1 500 kilomètres ou moins ;  
+            
+        * **2)** 400 € pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;  
+            **3)** 600 € pour tous les vols qui ne relèvent pas des points (a) ou (b).
+        
+    
+    **Remarque 1:** pour déterminer la distance à prendre en considération, il sera tenu compte de la dernière destination où le passager arrivera après l'heure prévue du fait du refus d'embarquement. Les distances seront mesurées selon la méthode de la route orthodromique.  
+    **Remarque 2:** lorsqu'on vous propose un réacheminement vers votre destination finale sur un autre vol, conformément aux points 3.2.2 et 3.2.3 ci-dessous, et que l'heure d'arrivée ne dépasse pas l' heure d'arrivée prévue du vol d'origine de (i) deux heures (pour tout vol jusqu'à 1 500 kilomètres), (ii) trois heures (pour tout vol intra-UE de plus de 1 500 kilomètres, ou tout vol de 1 500 à 3 500 kilomètres) ou (iii) quatre heures (pour tout vol non couvert par les articles (i) ou (ii)), TAP Air Portugal peut réduire de 50 % la compensation mentionnée aux points 3.1.1, 3.1.2 et 3.1.3 ci-dessus.**Remarque 3:** Pour les passagers qui se voient refuser l'embarquement aux **États-Unis**, le tableau de compensation suivant s'applique.
 
-**2\.** Avant de refuser l'embarquement sur un vol, TAP Air Portugal fera appel aux volontaires acceptant de renoncer à leur réservation en échange de certaines prestations, suivant des modalités à convenir, et d'une assistance aux termes du paragraphe 3.2, points (a) à (c) ci-dessous, le tout en conformité avec ce qui figure sur les formulaires « Refus d'embarquement - volontaire » qui seront signés par les passagers acceptant de renoncer à leur réservation.
+|     |     |     |     |
+| --- | --- | --- | --- |
+| Décalage horaire à l'arrivée | Compensation en espèces | Limite de la compensation en espèces | Compensation sous forme de coupon pour l'achat de billets ou de services sur les vols de TAP Air Portugal |
+| <1h | Non applicable | Non applicable | Non applicable |
+| \>1h <4h | 200% du tarif aller simple du passager | $775 | Montant de 200 % du tarif aller simple du passager avec un bonus de 75 % |
+| \>4h | 400% du tarif aller simple du passager | $1550 | Montant de 400 % du tarif aller simple du passager avec un bonus de 75 % |
 
-**3\.** Si le nombre de volontaires n'est pas suffisant et que TAP Air Portugal vous refuse à l'embarquement contre votre volonté, TAP Air Portugal vous versera immédiatement :
+**Remarque 4 :** pour les passagers qui se voient refuser l'embarquement au **Canada**, le tableau de compensation suivant s'applique.
 
-**3.1** Une indemnisation (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et/ou d'autres services), dont le montant est fixé à :
+|     |     |     |
+| --- | --- | --- |
+| Décalage horaire à l'arrivée | Compensation en espèces | Limite de la compensation en espèces |
+| \>6h | $900 | $1575 |
+| \>6h <9h | $1800 | $3150 |
+| \>9h | $2400 | $4200 |
 
-1. 250 € pour tous les vols de 1 500 kilomètres ou moins ;
-2. 400 € pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;
-3. 600 € pour tous les vols qui ne relèvent pas des points (a) ou (b).
+* **3.2)** En outre, TAP Air Portugal vous proposera à titre gratuit le choix entre : 
+    
+    * **(a)** le remboursement dans un délai de sept jours (en espèces, par virement bancaire électronique, par virement bancaire ou par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou d'autres services) du prix total de votre billet, au prix auquel il a été acheté, pour la ou les parties du voyage non effectuées et, lorsque le vol est devenu inutile par rapport à votre plan de voyage initialement prévu, pour la ou les parties déjà effectuées du voyage ainsi que, dans ce dernier cas et le cas échéant, un vol retour (dans les meilleurs délais) vers votre point de départ initial ; ou
+    * **(b)** le réacheminement, dans des conditions de transport comparables, vers votre destination finale, dans les meilleurs délais ; ou
+    * **(c)** un réacheminement dans des conditions similaires vers votre destination finale, à une date ultérieure à votre convenance, sous réserve des places disponibles.
+    
+* **3.3)** Alors que en attendant le vol de réacheminement, TAP vous offre sans frais : 
+    
+    * **(a)** des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ;
+    * **(b)** un hébergement à l'hôtel aux cas où :  
+        
+        * un séjour d'une ou plusieurs nuits est nécessaire ;
+        * un séjour s'ajoutant à celui que vous aviez prévu est nécessaire.
+        
+    * **(c)** le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre) ;
+    * **(d)** une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).
+    
 
-**Remarque 1:** pour déterminer la distance à prendre en considération, il sera tenu compte de la dernière destination où le passager arrivera après l'heure prévue du fait du refus d'embarquement. Les distances seront mesurées selon la méthode de la route orthodromique.
+**Remarque 1:** Les dispositions prévues au point 3.2. ci-dessus s'appliquent également aux passagers dont les vols sont inclus dans un voyage organisé, à l'exception du droit à un remboursement lorsqu'il découle de la directive (UE) 2015/2302.
 
-**Remarque 2:** lorsque vous vous verrez proposer un réacheminement vers votre destination finale sur un vol alternatif aux termes du paragraphe 3.2, points (b) et (c) ci-dessous, dont l'heure d'arrivée ne dépasse pas l'heure prévue d'arrivée du vol initialement réservé (i) de deux heures (pour tous les vols de 1 500 kilomètres ou moins), (ii) de trois heures (pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres) ou (iii) de quatre heures (pour tous les vols qui ne relèvent pas des points (i) et (ii), TAP Air Portugal pourra réduire de 50 % l'indemnisation prévue au paragraphe 3.1, points (a), (b) et (c) ci-dessus.
+**Remarque 2:** toute dépense liée aux points 3.3.1 et 3.3.2 ci-dessus et engagée après la troisième heure avant l'heure de départ du vol de retour mentionné au point 3.2.1 ci-dessus ou du vol de réacheminement mentionné aux points 3.2.2 et 3.2.3 ci-dessus, sera à votre charge.
 
-En outre, TAP Air Portugal vous proposera à titre gratuit le choix entre :
-
-1. le remboursement dans un délai de sept jours (en espèces, par virement bancaire électronique, par virement bancaire ou par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou d'autres services) du prix total de votre billet, au prix auquel il a été acheté, pour la ou les parties du voyage non effectuées et, lorsque le vol est devenu inutile par rapport à votre plan de voyage initialement prévu, pour la ou les parties déjà effectuées du voyage ainsi que, dans ce dernier cas et le cas échéant, un vol retour (dans les meilleurs délais) vers votre point de départ initial ;
-2. le réacheminement, dans des conditions de transport comparables, vers votre destination finale, dans les meilleurs délais ;
-3. le réacheminement, dans des conditions de transport comparables, vers votre destination finale à une date ultérieure, à votre convenance, sous réserve de la disponibilité de sièges ;
-4. des repas et des rafraîchissements en suffisance compte tenu du délai d'attente ;
-5. un hébergement à l'hôtel aux cas où :  
-    un séjour d'une ou plusieurs nuits est nécessaire ;  
-    un séjour s'ajoutant à celui que vous aviez prévu est nécessaire ;
-6. le transport depuis l'aéroport jusqu'au lieu de votre hébergement (hôtel ou autre) ;
-7. une carte de téléphone, la possibilité d'effectuer deux appels téléphoniques ou d'utiliser d'autres moyens de communication (par exemple, d'envoyer deux télécopies ou deux télex).
-
-**Remarque 1:** Les dispositions du point (a) ci-dessus s'appliquent également aux passagers dont les vols font partie d'un voyage à forfait, hormis en ce qui concerne le droit au remboursement si un tel droit découle de la directive 90/314/CEE.
-
-**Remarque 2:** Toutes les dépenses relatives à ce dont il est fait référence aux points (w) à (z) ci-dessus et effectuées moins de trois heures avant l'heure de départ du vol retour visé au point (a) ci-dessus ou du vol de réacheminement visé aux points (b) ou (c) ci-dessus seront à votre charge.
-
-**Remarque 3:** dès lors qu'une ville ou une région est desservie par plusieurs aéroports et que TAP Air Portugal vous propose un vol à destination d'un aéroport autre que celui qui était initialement prévu, TAP Air Portugal prendra à sa charge les frais de votre transfert entre l'aéroport d'arrivée et l'aéroport initialement prévu ou une autre destination proche convenue avec vous.
-
-**4\.** Si TAP Air Portugal vous place dans une classe supérieure à celle pour laquelle le billet a été acheté, elle ne pourra vous réclamer aucun supplément. Si TAP Air Portugal vous place dans une classe inférieure à celle pour laquelle le billet a été acheté, elle vous remboursera, dans un délai de sept jours (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou services) :
-
-1. 30 % du prix du billet pour tous les vols de 1 500 kilomètres ou moins ;
-2. 50 % du prix du billet pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;
-3. 75 % du prix du billet pour tous les vols qui ne relèvent pas des points (a) ou (b).
-
-**5\.** À moins que vous n'ayez renoncé volontairement à votre réservation, au cas où vous acceptez, par accord écrit, que l'indemnisation vous soit versée sous forme de bons de voyage et / ou d'autres services, le montant de l'indemnisation sera majoré de 20 %.
-
-**6\.** À moins que vous n'ayez renoncé volontairement à votre réservation, l'assistance prévue dans la présente notice d'information s'applique sans préjudice de votre droit, aux termes de la législation applicable (notamment de la directive 90/314/CEE concernant les voyages à forfait), à une indemnisation complémentaire. L'assistance accordée en vertu de ce règlement peut être déduite d'une telle indemnisation.
-
-**7\.** Les personnes à mobilité réduite et toutes les personnes qui les accompagnent, ainsi que les enfants non accompagnés, ont le droit de bénéficier d'une prise en charge, qui leur est fournie dès que possible, aux termes du paragraphe 3, points (w) à (z) ci-dessus, et TAP Air Portugal veillera tout particulièrement à leurs besoins.
-
-**8\.** Tout bon de voyage / bon d'achat émis par TAP Air Portugal à titre de remboursement ou de paiement ne pourra être utilisé que pour des voyages / services de TAP Air Portugal et uniquement lorsque ceux-ci sont directement assurés par cette dernière.
-
-**9\.** Aux fins du présent règlement, on entend par :
-
-**Transporteur communautaire :** un transporteur aérien titulaire d'une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92, du 23 juillet 1992, concernant les licences des transporteurs aériens.  
+**Remarque 3:** dès lors qu'une ville ou une région est desservie par plusieurs aéroports et que TAP Air Portugal vous propose un vol à destination d'un aéroport autre que celui qui était initialement prévu, TAP Air Portugal prendra à sa charge les frais de votre transfert entre l'aéroport d'arrivée et l'aéroport initialement prévu ou une autre destination proche convenue avec vous.  
   
-**Transporteur aérien effectif :** un transporteur aérien qui réalise ou a l'intention de réaliser un vol dans le cadre d'un contrat conclu avec un passager, ou au nom d'une autre personne, morale ou physique, qui a conclu un contrat avec ce passager.
+
+* **4)** Si TAP Air Portugal vous place dans une classe supérieure à celle pour laquelle le billet a été acheté, elle ne pourra vous réclamer aucun supplément. Si TAP Air Portugal vous place dans une classe inférieure à celle pour laquelle le billet a été acheté, elle vous remboursera, dans un délai de sept jours (en espèces, par virement bancaire électronique, par chèque ou, avec votre accord écrit, sous forme de bons de voyage et / ou services) :  
+    
+    * **(a)** 30 % du prix du billet pour tous les vols de 1 500 kilomètres ou moins ;  
+        
+    * **(b)** 50 % du prix du billet pour tous les vols intracommunautaires de plus de 1 500 kilomètres et pour tous les autres vols de 1 500 à 3 500 kilomètres ;  
+        
+    * **(c)** 75 % du prix du billet pour tous les vols qui ne relèvent pas des points (a) ou (b).
+    
+* **5)** À moins que vous n'ayez renoncé volontairement à votre réservation, au cas où vous acceptez, par accord écrit, que l'indemnisation vous soit versée sous forme de bons de voyage et / ou d'autres services, le montant de l'indemnisation sera majoré de 20 %.
+* **6)** Sauf si vous avez volontairement renoncé à votre réservation, l'assistance décrite dans le présent avis n'affecte pas les droits accordés en vertu de la directive (UE) 2015/2302. 
+* **7)** Les personnes à mobilité réduite et les passagers qui les accompagnent, ainsi que les enfants non accompagnés, recevront, dès que possible, l'assistance prévue aux points 3.3.1, 3.3.2 et 3.3.3 ci-dessus, et TAP Air Portugal accordera une attention particulière à leurs besoins.
+* **8)** Tout bon de voyage / bon d'achat émis par TAP Air Portugal à titre de remboursement ou de paiement ne pourra être utilisé que pour des voyages / services de TAP Air Portugal et uniquement lorsque ceux-ci sont directement assurés par cette dernière.
+* **9)** Aux fins du présent règlement, on entend par : 
+    
+    * **Transporteur communautaire :** un transporteur aérien titulaire d'une licence d'exploitation en cours de validité délivrée par un État membre conformément aux dispositions du Règlement (CEE) nº 2407/92, du 23 juillet 1992, concernant les licences des transporteurs aériens.
+    * **Transporteur aérien effectif :** un transporteur aérien qui réalise ou a l'intention de réaliser un vol dans le cadre d'un contrat conclu avec un passager, ou au nom d'une autre personne, morale ou physique, qui a conclu un contrat avec ce passager. 
+    * **Destination finale :** la destination figurant sur le billet présenté au comptoir d'enregistrement, ou dans le cas des vols avec correspondances, la destination du dernier vol ; les vols avec correspondances disponibles comme solution de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée. 
+    * **Personne à mobilité réduite :** toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d'une déficience intellectuelle, de son âge ou de toute autre cause de handicap et dont la situation exige une attention spéciale et l'adaptation à ses besoins des services mis à la disposition de tous les passagers. ion de remplacement ne sont pas pris en compte si l'heure d'arrivée initialement prévue est respectée. 
+    
 
 Mesures de Sécurité
 
@@ -302,7 +344,7 @@ Transports spéciaux
 
 **Assistance spéciale**  
   
-Consulter le règlement concernant les droits des personnes handicapées ou à mobilité réduite sur les transports aériens [ici (PDF, 0.1 MB, EN).](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/REG1107-2006EN.pdf?la=fr&hash=2AD9D3FFECAA417AD29C45BBC9FAF200D6BB8187)  
+Consulter le règlement concernant les droits des personnes handicapées ou à mobilité réduite sur les transports aériens [ici (PDF, 0.1 MB, FR).](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/REG1107-2006FR.pdf?la=fr&hash=3739E46B6008999BCC8F05E653DD097776C39A92)  
 
 Règlement en ligne des litiges
 
