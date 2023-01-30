@@ -245,7 +245,7 @@ La présente Politique de confidentialité s’applique à tous les utilisateurs
 
 Cookies et autres technologies de traçage
 
-Pour plus d’informations sur les cookies et sur la manière dont TAP Air Portugal en fait usage sur ses sites Internet et applications, consultez la [Politique de cookies et autres technologies de traçage](https://www.flytap.com/fr-fr/termes-et-conditions#ui-id-26).
+Pour plus d'informations sur les cookies et sur la manière dont TAP Air Portugal les utilise sur ses sites internet ou ses applications, consultez la [Politique relative aux Cookies](https://www.flytap.com/fr-fr/politique-de-cookie).
 
 Quelles mesures de sécurité avons-nous prévu ?
 
@@ -289,4 +289,4 @@ TAP Air Portugal se réserve le droit, à tout moment, de procéder à des modif
 
 Comment contacter la TAP pour obtenir des informations concernant vos données ?
 
-Vous pourrez contacter le Responsable de la protection des données (« DPO ») de TAP Air Portugal pour en savoir plus sur le traitement de vos données à caractère personnel, ainsi que pour toute question concernant l’exercice de vos droits dans le cadre de la législation en remplissant le formulaire [« Exercice des droits en vertu du Règlement général sur la protection des données » (PDF, 1.2MB, EN)](https://www.flytap.com/-/media/Flytap/PDF/GDPR/2021/a4-form-rgpd-request-form-for-the-exercise-of-rights-under-gdpr-2021.pdf?la=fr&hash=C447D033085F55EB6C51F2983942B91C02736859) et en l’envoyant à l’adresse e-mail [dpo@tap.pt](mailto:dpo@tap.pt). En cas de doute sur la façon dont vous pouvez remplir le formulaire, [suivez les instructions (PDF, 1.2MB, EN)](https://www.flytap.com/-/media/Flytap/PDF/GDPR/2021/a4-formulario-rgpd-instructions-to-fill-out-the-form-for-the-exercise-of-rights-under-gdpr-2021.pdf?la=fr&hash=4CB1845440DD140C36BB232F58A9AAB2EA32E223).
+Vous pourrez contacter le Responsable de la protection des données (« DPO ») de TAP Air Portugal pour en savoir plus sur le traitement de vos données à caractère personnel, ainsi que pour toute question concernant l’exercice de vos droits dans le cadre de la législation en remplissant le formulaire [« Exercice des droits en vertu du Règlement général sur la protection des données » (PDF, 1.2MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/GDPR/2023/A4_FR_Formulario_RGPD_Formulaire_de_demande_JAN23.pdf?la=fr&hash=90E881F89FF32626B61A37FD3DAA85F759D62F25) et en l’envoyant à l’adresse e-mail [dpo@tap.pt](mailto:dpo@tap.pt). En cas de doute sur la façon dont vous pouvez remplir le formulaire, [suivez les instructions (PDF, 1.2MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/GDPR/2023/A4_FR_Formulario_RGPD_Instructions_JAN23.pdf?la=fr&hash=84E054BB34839619C9F3677EAF645B62591140D5).
