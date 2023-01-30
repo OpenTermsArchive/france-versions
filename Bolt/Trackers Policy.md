@@ -5,7 +5,7 @@ This website uses cookies. We use cookies to ensure that we offer you the best e
 
 Use the tick-boxes to confirm that you’re happy for us to use your data for the following purposes.
 
-Your consent applies to the following domains: couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
+Your consent applies to the following domains: boltfood.formaloo.net, couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
 
 Your current state: Deny. 
 
@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/01/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (35)
+Necessary (36)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -40,7 +40,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
 | cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
-| CookieConsent \[x12\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| CookieConsent \[x13\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
