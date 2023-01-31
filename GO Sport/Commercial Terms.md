@@ -1,4 +1,4 @@
-Conditions générales de vente mises à jour le 20 janvier 2023
+Conditions générales de vente mises à jour le 30 janvier 2023
 =============================================================
 
   
@@ -75,11 +75,21 @@ La disponibilité des produits ainsi que le délai de livraison sont affichés s
 
 Toute commande sur le Site suppose l’acceptation expresse et sans réserve des présentes Conditions Générales de Vente, sans toutefois que cette acceptation soit conditionnée par une signature manuscrite de la part du Client.
 
-Toute passation de commande nécessite la création d’un compte client. Une fois le compte crée, le Client aura accès à son espace client. L’accès à cet espace client est conditionné à l’identification du Client à l’aide de son adresse mail indiquée lors de la création du compte ainsi que du mot de passe secret et personnel choisi. La Société ne saurait être tenue responsable de toute action réalisée sur l’espace client par un tiers auquel le Client aurait communiqué ses identifiants ou qui aurait eu accès au compte suite à une négligence du Client.
+**4.1 Commande avec un compte client**
+
+﻿Le Client peut choisir de créer un compte client sur le Site. Une fois le compte crée, le Client aura accès à son espace client. L’accès à cet espace client est conditionné à l’identification du Client à l’aide de son adresse mail indiquée lors de la création du compte ainsi que du mot de passe secret et personnel choisi. La Société ne saurait être tenue responsable de toute action réalisée sur l’espace client par un tiers auquel le Client aurait communiqué ses identifiants ou qui aurait eu accès au compte suite à une négligence du Client.
 
 Toutes les informations relatives à la commande seront consultables dans la rubrique « Le suivi de commande » de l’espace client.
 
 Le Client s’engage à ce que les informations communiquées lors de sa commande soient complètes, exactes et à jour. Dans le cas contraire, la Société se réserve le droit d’annuler purement et simplement la commande.
+
+**4.2 Commande sans création de compte client**
+
+Le Client peut également passer commande sans créer de compte client. Il lui suffit pour cela, lors de la validation du panier, de choisir l’option « Commander en tant qu’invité(e) ». En choisissant cette option, le Client devra renseigner ses nom et prénom, adresse postale, adresse mail, numéro de téléphone.
+
+Toutes les informations relatives à la commande seront consultables dans la rubrique « Vérifier la commande » sur le page de connexion au compte client, en indiquant le numéro de la commande qui aura été adressé par email, l’email renseigné lors de la commande ainsi que le code postal de facturation.
+
+**4.3 Règles communes à toutes les commandes**
 
 La commande peut être effectuée pour une adresse de livraison distincte de l’adresse de facturation.
 
@@ -89,7 +99,9 @@ Suite à la réception de la commande, la Société adressera au Client un email
 
 La Société se réserve le droit de refuser ou d’annuler une commande si elle estime que le Client se livre à de la distribution ou exerce une activité économique grâce aux produits ainsi commandés ou pour tout autre motif.
 
-Cas de commande web payée en magasin :Les commandes web payées en magasin comprennent les commandes du client passées chez lui depuis son compte e-commerce et payées en caisse, les commandes du client passées dans le magasin depuis son compte e-commerce et payées en caisse et enfin les commandes du client passées dans le magasin depuis le compte e-commerce du magasin et payées en caisse.
+_Cas de commande web payée en magasin_ :
+
+Les commandes web payées en magasin comprennent les commandes du client passées chez lui depuis le Site, via le compte client ou en tant qu’invité, et payées en caisse, les commandes du client passées dans le magasin depuis le Site, via le compte client ou en tant qu’invité, et payées en caisse et enfin les commandes du client passées dans le magasin depuis le compte e-commerce du magasin et payées en caisse.
 
 Une fois la commande passée, elle est en statut « en attente de paiement ». Le client dispose alors de trois jours (du lundi au samedi) pour venir payer sa commande en magasin. Au-delà de ce délai, la commande sera automatiquement annulée.
 
@@ -102,12 +114,6 @@ Le mode de paiement en caisse n’est pas disponible pour les clients souhaitant
 Service d’e-réservation :Le service d’e-réservation proposé sur le Site par la Société permet au Client de réserver un produit en magasin de son choix, sous réserve de la disponibilité du produit choisi dans le magasin en question.
 
 Les modalités de fonctionnement de ce service sont accessibles au Client dès lors qu’il utilise le Service d’e-réservation.
-
-**Avis fiche produits** : GO Sport propose à ses clients par l’intermédiaire de son partenaire « Avis Vérifiés » la possibilité de laisser un avis à l’issu de son expérience sur le site go-sport.com. Vingt (20) jours après avoir passé sa commande sur le site marchand, le Client reçoit un email de demande d’avis. Le Client a alors la possibilité de laisser un avis sur son expérience achat.
-
-Le service Client de Go Sport dispose de 14 jours pour prendre connaissance de l’avis et vérifier qu’il respecte les critères de modération mis en place par Avis Vérifiés eu égard aux règlementations en vigueur applicable (non discriminatoire, non injurieux etc.).
-
-A expiration de ce délai, l’avis sera publié sur le site marchand. Un e-mail sera adressé au Client en cas de refus de publication de l’avis laissé ne respectant les règlementations en vigueur applicables.
 
   
 
