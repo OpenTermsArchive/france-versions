@@ -1235,7 +1235,7 @@ Conformément aux dispositions de l’article L221-18 du code de la consommation
 
 L'Abonné peut faire usage de son droit de rétractation :
 
-\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conform��ment aux présentes ;
+\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volont��, conformément aux présentes ;
 
 \-          et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
 
@@ -2006,7 +2006,7 @@ _ARTICLE 7 :  PRODUITS - CONFORMITE - GARANTIE_
   
 Cdiscount se réserve ainsi la possibilité de cesser la commercialisation de tout Produit proposé au Client Pro figurant sur le Site ou les documents commerciaux et/ou de modifier à tout moment les caractéristiques de ces Produits, sans que le Client Pro ne puisse engager la responsabilité de Cdiscount à cet égard et/ou réclamer le paiement de dommages-intérêts.   
   
-7.1.4. Il appartient au Client Pro de lire attentivement le descriptif des Produits et ses caractéristiques techniques détaillées sur le Site et de vérifier que le(s) Produit(s) qu’il souhaite commander correspond (ent) à ses besoins et attentes. En aucun cas, la responsabilité de Cdiscount ne saurait être engagée par le Client Pro lorsque ce dernier aura commandé un Produit qui ne correspondrait pas à ses besoins et attentes dont Cdiscount n’aurait pas eu connaissance. L’attention du Client Pro est attirée sur le fait que Cdiscount propose des gammes de Produits destinées à un équipement professionnel et d’autres Produits qui ne présentent pas les caractéristiques d’un équipement professionnel et sont destinés à un usage courant non intensif. Ainsi, le Client Pro ne saurait reprocher à Cdiscount une quelconque non-conformité ou invoquer le bénéfice d’une garantie dès lors que ce dernier aurait acheté un bien de consommation courante pour un usage industriel.  
+7.1.4. Il appartient au Client Pro de lire attentivement le descriptif des Produits et ses caractéristiques techniques détaillées sur le Site et de vérifier que le(s) Produit(s) qu’il souhaite commander correspond (ent) à ses besoins et attentes. En aucun cas, la responsabilité de Cdiscount ne saurait ��tre engagée par le Client Pro lorsque ce dernier aura commandé un Produit qui ne correspondrait pas à ses besoins et attentes dont Cdiscount n’aurait pas eu connaissance. L’attention du Client Pro est attirée sur le fait que Cdiscount propose des gammes de Produits destinées à un équipement professionnel et d’autres Produits qui ne présentent pas les caractéristiques d’un équipement professionnel et sont destinés à un usage courant non intensif. Ainsi, le Client Pro ne saurait reprocher à Cdiscount une quelconque non-conformité ou invoquer le bénéfice d’une garantie dès lors que ce dernier aurait acheté un bien de consommation courante pour un usage industriel.  
    
 7.1.5. En aucun cas les invendus ne peuvent être repris par Cdiscount.  
    
