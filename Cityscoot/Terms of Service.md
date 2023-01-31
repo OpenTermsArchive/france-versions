@@ -2,7 +2,7 @@ Conditions générales
 d’utilisation du service
 ===============================================
 
-Dernière mise à jour le 25 octobre 2022
+Dernière mise à jour le 1 février 2023
 
 Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service CITYSCOOT, tels que ces termes sont définis ci-après.
 
@@ -14,7 +14,7 @@ Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le
 
 **« Accessoires de l’Utilisateur »**
 
-désigne les objets et effets personnels de l’Utilisateur et des personnes transportées dans le Scooter au cours d’une Location.
+désigne les choses (y compris les marchandises et fluides) et effets personnels (y compris les vêtements) que l’Utilisateur et les passagers portent ou détiennent à bord du Scooter durant la Location.
 
 **« Accessoires du Scooter »**
 
@@ -104,22 +104,25 @@ désigne une zone géographique définie par CITYSCOOT à l’intérieur de laqu
 
 Les présentes CGUS ont pour objet de définir les conditions et modalités d’accès et d’utilisation du Service. Tout accès et toute utilisation du Service sont subordonnés au respect des CGUS par l’Utilisateur.
 
- **ARTICLE 3 – MODALITÉS TARIFAIRES D’ACCÈS AU SERVICE**
+ **ARTICLE 3 – MODALITÉS TARIFAIRES ET DURÉE DE VALIDITÉ DES MINUTES DE PACKS ET D’ABONNEMENT**
 
-Le Service est facturé à la minute. Le prix à la minute est indiqué en ANNEXE 1.
-
-Les Locations, en fonction de leur durée, et les achats de « packs de minutes », font l’objet d’une facturation.
+Le Service est facturé à la minute et après consommation des minutes, sauf en cas d’achat de « packs de minutes » ou d’abonnement, où la facturation est indépendante de la consommation.
 
 Toute minute de Location entamée est comptabilisée et facturée comme une minute complète.
 
-Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par CITYSCOOT dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.           
+Le prix à la minute, le prix des packs et le prix de l’abonnement sont indiqués en ANNEXE 1.
+
+Les prix et les pénalités applicables sont ceux en vigueur au jour de la Réservation. Ils peuvent être modifiés à tout moment par CITYSCOOT dans les conditions (notamment de consentement) fixées à l’article 17.2 des présentes CGUS.
+
+Les packs de minutes sont valables 365 jours à compter de leur achat.
+
+Les minutes créditées dans le cadre d’un abonnement sont valables durant la période mensuelle sur laquelle elles sont créditées, expirant donc à la fin de ladite période, comme prévu aux conditions générales d’abonnement, disponibles [ici](https://www.cityscoot.eu/cga).
 
 **ARTICLE 4 – CONDITIONS D’ACCÈS AU SERVICE**
 
 Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditions suivantes :
 
 * Être majeur (avoir au moins 18 ans).
-
 * Transmettre par voie électronique une copie des documents suivants dont il est titulaire :
 * Permis de conduire européen de type AM, A1, A2, A ou B en cours de validité ou un permis de conduire voiture non-européen, quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin et qu’il comporte une photo d’identité ; ou
 * Brevet de sécurité routière (BSR) ;
@@ -130,9 +133,7 @@ Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditio
  (iii) titre de séjour français (uniquement pour des personnes résidant en France).
 
 * Ne pas être débiteur auprès de CITYSCOOT de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de CITYSCOOT.
-
 * Disposer d’un smartphone fonctionnant sous une version Android ou iOS compatible avec l’Application.
-
 * Transmettre par voie électronique les informations relatives à une ou plusieurs cartes bancaires Visa ou Mastercard en cours de validité.
 
 CITYSCOOT se réserve la possibilité d’effectuer des contrôles périodiques afin de s’assurer du respect des conditions d’accès au Service susvisées.
@@ -188,7 +189,7 @@ En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre l
 
 En cas d’achat de « pack minutes », l’Utilisateur a la faculté d’exercer un droit de rétractation dans un délai de quatorze (14) jours à compter de la date de l’achat.
 
-Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation [disponible ici](https://www.cityscoot.eu/wp-content/uploads/2022/10/FORMULAIRE-DE-RETRACTATION-achat-pack-minutes.pdf), dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection).
+Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation disponible ici, dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection).
 
 Si l’utilisation du Service n’a pas commencé au moment où l’Utilisateur exerce son droit de rétractation, l’Utilisateur est intégralement remboursé du montant du « pack minutes » payé.
 
@@ -225,7 +226,7 @@ Le Service n’est accessible que _via_ l’Application. Il appartient à l’Ut
 
 Les Utilisateurs peuvent contacter le Service Client comme suit :
 
-Par téléphone au **09 69 36 20 26**, 24h/24 et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
+Par téléphone au **09 69 36 20 26**, de 8h à 23h et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
 
 Par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection) pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
 
@@ -404,9 +405,9 @@ Les éléments dus par l’Utilisateur identifiés ci-dessus feront l’objet d�
 
 **8.2 Paiement de la Location**
 
-Le prix de la Location, défini conformément à l’ANNEXE 1, est exigible à la fin de chaque Location.
+Le prix de la Location, défini conformément à l’ANNEXE 1, est exigible à la fin de chaque Location, sauf en cas de pack de minutes (paiement lors de l’achat) ou d’abonnement (paiement le premier jour de chaque période mensuelle).
 
-CITYSCOOT émet une facture après chaque utilisation payante (c’est-à-dire non entièrement couverte par un crédit de minutes) du Service par l’Utilisateur. Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
+CITYSCOOT émet une facture après chaque achat et après chaque utilisation du Service non entièrement couverte par un crédit de minutes (donc supposant un nouveau paiement). Le prélèvement sera effectué sur la carte bancaire de l’Utilisateur dont les coordonnées ont été saisies au moment de l’Inscription, dans l’intervalle de temps indiqué sur la facture.
 
 En cas d’utilisation du Service couverte par un crédit de minutes, l’Utilisateur a accès à son solde de minutes offertes ou prépayées sur son compte dans l’Application.
 
@@ -495,7 +496,7 @@ Il est rappelé que les Utilisateurs titulaires d’un permis de conduire déliv
 
 **9.5 Capacité de conduite**
 
-L’Utilisateur s’engage au moment de l’utilisation d’un Scooter à ne pas se trouver sous l’emprise de l’alcool, de la drogue, ni de médicaments (notamment comportant le pictogramme « niveau 2 » ou « niveau 3 » régi par l’article R. 5121-139 du code de la santé publique), traitement ou toute autre substance licite ou illicite, qui pourrait altérer ses facultés ou sa capacité à maîtriser le Scooter. À défaut, l’Utilisateur perdra le bénéfice de la garantie individuelle conducteur visée à l’article 10.2 ci-dessous. Il continuera toutefois à bénéficier de la garantie d’assurance responsabilité civile automobile obligatoire prévue à l’article L. 211-1 du code des assurances.
+L’Utilisateur s’engage au moment de l’utilisation d’un Scooter à ne pas se trouver sous l’emprise de l’alcool, de la drogue, ni de médicaments (notamment comportant le pictogramme « niveau 2 » ou « niveau 3 » régi par l’article R. 5121-139 du code de la santé publique), traitement ou toute autre substance licite ou illicite, qui pourrait altérer ses facultés ou sa capacité à maîtriser le Scooter. À défaut, l’Utilisateur perdra le bénéfice de la garantie individuelle conducteur visée à l’article 10.3 ci-dessous. Il continuera toutefois à bénéficier de la garantie d’assurance responsabilité civile automobile obligatoire prévue à l’article L. 211-1 du code des assurances.
 
 **9.6 Restriction de circulation**
 
@@ -505,7 +506,7 @@ Le Scooter ne pourra circuler que sur les voies autorisées aux véhicules de ca
 
 L’Utilisateur est seul et entier responsable des dommages aux personnes et aux biens (en ce compris au Scooter) causés par l’utilisation qui est faite du Scooter durant toute la durée de la Location.
 
-L’Utilisateur est tenu de restituer le Scooter dans le même état que celui où il était avant la Location. En cas de perte ou de dommages survenus pendant la période de Location, l’Utilisateur devra indemniser CITYSCOOT des préjudices et frais encourus dans la limite d’une franchise forfaitaire de 350 euros (hors casque), sauf si la perte ou les dommages sont imputables à un tiers, qui pourra être prélevée sur la carte bancaire de l’Utilisateur. Cette évaluation sera faite sur la base du prix des pièces détachées accessible [ici](https://www.cityscoot.eu/prix-des-pieces-detachees). Cette liste de prix est fournie à titre indicatif, seul fait foi le prix communiqué à l’Utilisateur lors de la réparation.
+L’Utilisateur est tenu de restituer le Scooter dans le même état que celui où il était avant la Location. En cas de perte ou de dommages survenus pendant la période de Location, l’Utilisateur devra indemniser CITYSCOOT des préjudices et frais encourus dans la limite d’une franchise forfaitaire de 500 euros (hors casque), sauf si la perte ou les dommages sont imputables à un tiers, qui pourra être prélevée sur la carte bancaire de l’Utilisateur. Cette évaluation sera faite sur la base du prix des pièces détachées accessible [ici](https://www.cityscoot.eu/prix-des-pieces-detachees). Cette liste de prix est fournie à titre indicatif, seul fait foi le prix communiqué à l’Utilisateur lors de la réparation.
 
  **9.8 Non-respect des présentes CGUS**
 
@@ -513,30 +514,294 @@ En cas de non-respect des obligations de l’Utilisateur des présentes CGUS, de
 
  **ARTICLE 10 – ASSURANCES**
 
-Durant la durée de la Location, l’Utilisateur bénéfice, sous réserve des cas d’exclusion visés au présent article, de l’assurance souscrite par CITYSCOOT couvrant la responsabilité civile, la garantie individuelle conducteur, l’incendie, le vol ou tentative de vol du Scooter, le vandalisme, ainsi que les dommages et assistance au Scooter.  Le coût de l’assurance est pris en compte dans le prix de la Location.
+Durant la durée de la Location, l’Utilisateur bénéfice, sous réserve des cas d’exclusion visés au présent article, de l’assurance souscrite par CITYSCOOT couvrant la responsabilité civile, la garantie individuelle du conducteur et la garantie Défense Pénale et Recours Suite à Accident, l’incendie, le vol ou tentative de vol du Scooter, le vandalisme, ainsi que les dommages et assistance au Scooter.  Le coût de l’assurance est pris en compte dans le prix de la Location.
 
 L’ensemble des garanties et des franchises applicables est détaillé en ANNEXE 3.
+
+Les garanties d’assurance sont proposées par ALLIANZ IARD, Entreprise régie par le Code des assurances – Société Anonyme au capital de 991 967 200 € – 1 cours Michelet – CS 30051 – 92076 Paris La Défense Cedex – 542 110 291 RCS Nanterre – Société soumise à l’Autorité de Contrôle Prudentiel et de Résolution – 4, Place de Budapest -CS 92459- 75436 Paris cedex 09, ci-après dénommée « l’Assureur ».
+
+**Lexique relatif au présent article :**
+
+**« Accident (ou événement accidentel) » :**
+
+Évènement soudain, fortuit, imprévu.
+
+**« Atteinte à l’environnement » :**
+
+–  L’émission, la dispersion, le rejet ou le dépôt de toute substance solide, liquide ou gazeuse diffusée par l’atmosphère, le sol ou les eaux,
+
+– La production d’odeurs, bruits, vibrations, ondes, radiations, rayonnements ou variations de température excédant la mesure des obligations de voisinage.
+
+L’atteinte à l’environnement est dite « accidentelle » lorsqu’un événement soudain et imprévu l’a provoquée et qu’elle ne se réalise pas de façon lente, graduelle, progressive ou chronique.
+
+**« Déchéance »**
+
+Perte du droit à garantie pour le sinistre en cause.
+
+**« Dépens » :**
+
+Les honoraires de l’expert judiciaire, la rémunération de l’huissier pour assigner, signifier et faire exécuter une décision de justice, les émoluments du postulant, les droits de timbres et les frais de greffe. Plus généralement, les frais de justice engendrés par le procès, distincts des frais et honoraires de l’avocat.
+
+**« Dommage corporel » :**
+
+Toute atteinte corporelle subie par une personne physique.
+
+**« Dommage immatériel » :**
+
+Préjudice pécuniaire directement consécutif à la survenance d’un dommage corporel ou matériel garanti, résultant de la privation de jouissance d’un droit, de l’interruption d’un service rendu par une personne ou par un bien, ou de la perte d’un bénéfice, à l’exception des bénéfices collectifs tirés par l’homme de l’environnement.
+
+**« Dommage matériel » :**
+
+Toute destruction, détérioration ou disparition d’une chose ou substance, toute atteinte physique aux animaux
+
+**« Exclusion de garantie » :**
+
+Clause qui vous prive du bénéfice d’une ou plusieurs garanties. C’est à l’Assureur de rapporter la preuve de l’exclusion.
+
+**« Explosion – Implosion » :**
+
+Action subite et violente de la pression ou de la dépression de gaz ou vapeur.
+
+**« Franchise » :**
+
+Somme toujours déduite du montant de l’indemnité en cas de sinistre et restant à votre charge.
+
+**« Incendie » :**
+
+Combustion avec flammes.
+
+**« Nullité » :**
+
+Annulation de votre contrat, qui est considéré comme n’ayant jamais existé.
+
+**« Préjudice écologique » :**
+
+Atteinte non négligeable aux éléments ou aux fonctions des écosystèmes ou aux bénéfices collectifs tirés par l’homme de l’environnement. Ce préjudice écologique ne peut être qualifié de dommage corporel, de dommage matériel, ni de dommage immatériel, qui ont leurs propres définitions.
+
+Le préjudice écologique est dit « accidentel » lorsqu’un événement soudain et imprévu l’a provoqué et qu’il ne se réalise pas de façon lente, graduelle, progressive ou chronique.
+
+**« Prescription » :**
+
+Écoulement d’un délai à l’expiration duquel une action ne peut plus être exercée.
+
+**« Sinistre de responsabilité civile » :**
+
+Constitue un sinistre de responsabilité civile, tout dommage ou ensemble de dommages engageant la responsabilité de l’assuré, résultant d’un fait dommageable et ayant donné lieu à une ou plusieurs réclamations. Le fait dommageable est celui qui constitue la cause génératrice du dommage. Un ensemble de faits dommageables ayant la même cause technique est assimilé à un fait dommageable unique y compris en cas d’action de groupe en matière environnementale visée à l’article L142-3-1 du Code de l’environnement.
+
+En cas d’action de groupe en matière environnementale visée à l’article L142-3-1 du Code de l’environnement, constitue un seul et même sinistre, l’action de groupe de personnes, placées dans une situation similaire et la somme des actions individuelles engagées contre vous, subissant des préjudices résultant d’un dommage dans les domaines mentionnées à l’article L142-2 du même code, ayant pour cause commune un manquement de même nature à vos obligations légales ou contractuelles à l’origine de leurs préjudices.
+
+**« Vous/l’Utilisateur » :**
+
+Désigne le bénéficiaire des garanties d’assurance telles que décrites à l’article 10 des présentes Conditions Générales. 
 
 **10.1 Assurance Responsabilité Civile**
 
 10.1.1 En s’inscrivant au Service, l’Utilisateur bénéficie de l’assurance responsabilité civile obligatoire conformément aux articles L.211-1 à L.211-8 du Code des assurances.
 
-10.1.2 L’assurance responsabilité civile prend en charge les dommages corporels causés à des tiers par l’Utilisateur, sans limitation de montant, et les dommages matériels à concurrence de 100.000.000 euros.
+10.1.2 L’assurance responsabilité civile prend en charge les dommages corporels causés à des tiers par l’Utilisateur, sans limitation de montant, et les dommages matériels à concurrence de 100 000 000 euros, dont 1 500 000 euros (1 500 000 €) pour les dommages matériels résultant d’une atteinte à l’environnement accidentelle ou d’un préjudice écologique.
 
-10.1.3 Sont exclus de la garantie :
+**10.1.3 Sont exclus de la garantie :**
 
 * Le fait volontaire.
 * Les dommages causés aux marchandises et objets transportés par le Scooter.
 * La réparation des dommages subis par les auteurs, coauteurs ou complices d’un vol du Scooter.
 * Le paiement des amendes et des indemnités fourrières.
+* Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;
+* Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
+* Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;
+* Les dommages ou le vol des Accessoires de l’Utilisateur ;
+* Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;
+* Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.
+* Les rallyes de régularité et les concentrations touristiques ne sont pas concernés par cette exclusion pour autant qu’ils répondent aux conditions ci-dessous :
+    * Rallye de régularité : Participation du véhicule assuré à un roulage sur voie de circulation n’excédant pas 50km/h, dans le respect des dispositions du code la route.
+    * Concentrations touristiques : Rassemblement de véhicules terrestres à moteur, qui se déroule sur la voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement ou tout caractère compétitif.
 
-     **10.2 Garantie Individuelle Conducteur**
+**10.2 Garantie « défense pénale et recours suite à accident »**
 
-10.2.1 Objet de la garantie
+L’Assureur a confié la gestion des sinistres « Défense pénale et recours suite à accident » à un service autonome et distinct, dont les coordonnées sont :
 
-L’Utilisateur, en sa qualité de conducteur du Scooter, dispose d’une garantie conducteur. Cette couverture a pour objet d’indemniser l’Utilisateur pour les dommages corporels qu’il pourrait subir.
+Allianz IARD
 
-10.2.2 Champ d’application de la garantie
+Service Défense pénale et recours
+
+TSA 71016
+
+92076 Paris La Défense Cedex
+
+ou tout autre organisme qui lui serait substitué et qui vous aura été signalé par tout moyen.
+
+Votre interlocuteur Allianz habituel est également à votre entière disposition pour vous apporter toute assistance dans le cadre de cette garantie.
+
+1. Qui bénéficie de la garantie ?
+
+On entend par « vous » :
+
+ – L’utilisateur,
+
+ – toute personne transportée,
+
+2. Quel est le rôle de l’Assureur ?
+
+En cas d’accident de la circulation impliquant le véhicule loué auprès de Cityscoot, nous vous apportons aide et assistance pour :
+
+1. Assurer votre défense
+
+Lorsque vous faites l’objet de poursuites pénales devant les tribunaux répressifs alors que le véhicule loué auprès de Cityscoot est utilisé dans les conditions prévues par ce contrat.
+
+1. Exercer votre recours
+
+Lorsque vous êtes victime de dommages imputables à un tiers.
+
+Nous nous engageons :
+
+ – à vous informer sur l’étendue de vos droits, et vous donner tous avis et conseils afin de les faire valoir,
+
+ – à mettre en œuvre tous les moyens amiables ou judiciaires de nature à obtenir l’indemnisation de votre préjudice.
+
+3. Mise en œuvre de la garantie
+
+1. Modalités d’application
+
+Afin de faire valoir vos droits, vous devez :
+
+ – déclarer votre litige à l’Assureur par écrit, dès que vous en avez connaissance,
+
+ – transmettre à l’Assureur, en même temps que la déclaration du sinistre, tous les documents et justificatifs prouvant la réalité de votre préjudice ; à défaut l’Assureur ne pourrait instruire votre dossier.
+
+L’Assureur ne prend pas en charge les éventuels frais exposés par vous et destinés à apporter ces éléments de preuve de votre préjudice, sauf accord préalable de la part de l’Assureur,
+
+ –adresser à l’Assureur, dès réception, tous avis, lettres, convocations, actes d’huissier, assignations et pièces de procédure qui vous seraient adressés, remis ou signifiés.
+
+Vous devez recueillir l’accord préalable de l’Assureur :
+
+ – avant de confier la défense de vos intérêts à un avocat ou à une personne qualifiée par la législation ou la réglementation en vigueur ou avant d’engager une procédure judiciaire ou une nouvelle étape de celle-ci.
+
+À défaut, les frais en découlant resteront à votre charge.
+
+Cette exception ne s’applique pas si vous justifier d’une urgence à les avoir engagés. Si le sinistre nécessite des mesures conservatoires urgentes, vous pourrez les prendre, à charge pour vous d’en avertir l’Assureur dans les 48 heures,
+
+ – avant d’accepter de la partie adverse une indemnité qui vous serait offerte directement,
+
+À défaut, si l’Assureur avait engagé des frais, ils seraient mis à votre charge dans la mesure où l’Assureur serait dans l’impossibilité de les récupérer.
+
+1. Frais pris en charge
+
+L’Assureur prend en charge, dans la limite de 10 000 euros TTC par sinistre :
+
+ – les honoraires d’expertise,
+
+ – les frais et/ou honoraires des auxiliaires de justice pour faire valoir vos droits,
+
+ – les dépens sauf si vous succombez à l’action et que vous devez les rembourser à votre adversaire.
+
+Si l’assistance d’un avocat (ou toute personne qualifiée par la législation en vigueur) est nécessaire, vous avez la liberté de son choix. Sur demande écrite de votre part, l’Assureur peut vous mettre en relation avec un avocat qu’il connaît.
+
+L’Assureur prendra en charge les frais et honoraires de votre avocat dans la limite des montants figurant dans le tableau ci-après et ce, pour chaque assistance à mesure d’instruction ou expertise, protocole de transaction, ordonnance, jugement ou arrêt.
+
+Ces montants comprennent les frais habituels inhérents à la gestion d’un dossier (frais de copie, de téléphone, de déplacement, etc.), la préparation du dossier, la plaidoirie éventuelle et constituent la limite de notre prise en charge même si vous changez d’avocat.
+
+Protocole de transaction, arbitrage, médiation pénale et civile                                                                                                   500 € TTC
+
+Démarches amiables                                                                                                                                                                            350 € TTC
+
+Assistance à mesure d’instruction ou expertise                                                                                                                             350 € TTC
+
+Commissions administratives                                                                                                                                                            350 € TTC
+
+Référé et juge de l’exécution                                                                                                                                                             500 € TTC
+
+Juge de proximité                                                                                                                                                                                 500 € TTC
+
+Tribunal de police
+
+ – sans constitution de partie civile                                                                                                                                                  350 € TTC
+
+ – avec constitution de partie civile et 5e classe                                                                                                                             500 € TTC
+
+Tribunal correctionnel                                                                                        
+
+       – sans constitution de partie civile                                                                                                                                            700 € TTC
+
+ – avec constitution de partie civile                                                                                                                                                  800 € TTC
+
+Tribunal judiciaire :
+
+enjeu<10 000 € (dont Chambre de proximité et Juge du contentieux de la protection)                                                    700 € TTC
+
+CIVI (Commission d’Indemnisation des Victimes d’Infractions)                                                                                                    700 € TTC
+
+Tribunal judiciaire : enjeu > 10 000 € ou demande indéterminée, de commerce :
+
+Tribunal des affaires de Sécurité sociale, tribunal administratif                                                                                              1 000 € TTC
+
+Cour d’appel                                                                                                                                                                                       1 000 € TTC
+
+Cour d’assises                                                                                                                                                                                    1 500 € TTC
+
+Cour de Cassation, Conseil d’État, juridictions européennes                                                                                                   1 700 € TTC
+
+Les frais et honoraires d’expertise judiciaire sont pris en charge à concurrence de 3 050 euros TTC par litige (ce budget expertise judiciaire est pris en compte dans le calcul du plafond maximum par litige).
+
+1. Que faire en cas de désaccord entre vous et l’Assureur ?
+
+En vertu de l’article L127-4 du Code des assurances, en cas de désaccord entre vous et l’Assureur au sujet des mesures à prendre pour régler le différend, cette difficulté peut être soumise à l’appréciation d’une tierce personne désignée d’un commun accord par les parties ou, à défaut, par le président du Tribunal Judiciaire statuant en la forme des référés.
+
+Les frais exposés pour la mise en œuvre de cette faculté sont à la charge de l’Assureur.
+
+Toutefois, le président du Tribunal Judiciaire, statuant en la forme des référés, peut en décider autrement lorsque vous avez mis en œuvre cette faculté dans des conditions abusives.
+
+Si vous engagez à vos frais une procédure contentieuse et obtenez une solution plus favorable que celle qui vous avait été proposée par la tierce personne ou l’Assureur, l’Assureur vous indemnisera des frais exposés pour l’exercice de cette action, dans les limites prévues au paragraphe « Frais pris en charge ».
+
+1. Que faire en cas de conflits d’intérêts ?
+
+Dès que vous avez déclaré votre litige à l’Assureur, vous avez la liberté de faire appel à un avocat de votre choix (ou à toute autre personne qualifiée par la législation ou la réglementation en vigueur), si vous estimez qu’un conflit d’intérêts peut survenir entre vous et l’Assureur (par exemple, si l’Assureur est amené à défendre simultanément les intérêts de la personne contre laquelle vous avez demandé à l’Assureur d’exercer votre recours).
+
+Dans cette éventualité, l’Assureur prend en charge les frais et honoraires d’un avocat dans les limites prévues au paragraphe « Frais pris en charge ».
+
+1. La subrogation
+
+En vertu des dispositions des articles L121-2 du Code des assurances, l’Assureur se  substitue à vous dans vos droits et actions pour le recouvrement des sommes qui pourraient vous être allouées au titre des dépens et des indemnités versées en vertu des articles 700 du Code de Procédure civile, 475-1 et 375 du Code de Procédure pénale, L761-1 du Code de justice administrative et 75-1 de la loi du 10 juillet 1991 (ou leurs équivalents devant des juridictions autres que françaises), à concurrence des sommes que l’Assureur a  payées et après vous avoir prioritairement désintéressé si des  frais et honoraires sont restés à votre charge.
+
+1. L’étendue de vos garanties dans le temps
+
+L’Assureur prend en charge les litiges :
+
+ – dont le fait générateur (fait, événement ou situation source du litige) est postérieur à la date de prise d’effet de votre garantie.
+
+L’Assureur prend néanmoins en charge les litiges dont le fait générateur est antérieur à la date de prise d’effet de votre garantie, si vous apportez la preuve à l’Assureur que vous ne pouviez avoir connaissance de ce fait avant cette date,
+
+ – et que vous déclarez à l’Assureur entre la date de prise d’effet et de fin de votre garantie
+
+1. **Ce qui n’est pas garanti :**
+
+ – Les enquêtes pour identifier ou retrouver l’adversaire.
+
+ – Les accidents survenus :
+
+* lorsque vous êtes en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente, susceptible d’être sanctionné pénalement,
+* ou lorsque vous avez refusé de vous soumettre aux vérifications destinées à établir la preuve de ces états, sauf s’il est établi que l’accident est sans relation avec l’un de ces états.
+
+ – Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.
+
+ – Les frais et honoraires engendrés par une initiative prise sans accord préalable de l’Assureur.
+
+ – Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.
+
+ – Les frais et honoraires engendrés par une initiative prise sans notre accord préalable, sauf si vous justifiez d’une urgence à les avoir engagés,
+
+ – Les honoraires de résultat.
+
+ – Les droits proportionnels.
+
+ – Les recours judiciaires pour des réclamations dont le montant est inférieur à 230 euros TTC.
+
+     **10.3 Garantie Individuelle Conducteur**
+
+**10.3.1 Objet de la garantie**
+
+L’Utilisateur, en sa qualité de conducteur du Scooter, dispose d’une garantie « conducteur ». Cette couverture a pour objet d’indemniser l’Utilisateur pour les dommages corporels qu’il pourrait subir.
+
+**10.3.2 Champ d’application de la garantie**
 
 En cas d’accident de la circulation, dont l’Utilisateur est responsable ou non, d’incendie, d’explosion ou de phénomène naturel, dans lequel le Scooter est impliqué, l’Utilisateur ou ses ayants droit en cas de décès sont indemnisés de tous les préjudices résultant des dommages corporels subis.
 
@@ -548,22 +813,412 @@ En cas de décès, la garantie s’applique, dans la limite de 250 000 euros, �
 
 Une franchise de 15% s’applique sur le seul poste de préjudice « Atteinte permanente à l’Intégrité Physique et Psychique », les autres postes de préjudice sont donc indemnisés sans franchise. Aucune indemnité ne sera versée au titre du poste de préjudice « Atteinte permanente à l’Intégrité Physique et Psychique » si le taux déterminé est inférieur ou égal à 15%.
 
-10.2.3 Exclusion de la garantie
+**10.3.3 Exclusion de la garantie**
 
-Est exclu le préjudice corporel de l’Utilisateur qui      :
+Est exclu le préjudice corporel de l’Utilisateur qui :
 
 * N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.
-* Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire ») , sauf si le sinistre est sans relation avec cet état.
+* Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire »), sauf si le sinistre est sans relation avec cet état.
 * Ou a refusé de se soumettre aux vérifications destinées à établir la preuve de ces états.
 * Participe en qualité de concurrent à des épreuves, courses ou compétitions (ou à leurs essais) sportives ou automobiles.
 * Circule dans un lieu non règlementé par le Code de la Route.
 * N’est pas autorisé à conduire le Scooter.
 
-**ARTICLE 11** **–** **PÉAGES – CONTRAVENTIONS – AMENDES – DÉLITS**
+**Ne sont pas couverts :**
+
+* Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre;
+* Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;
+* Les aggravations d’atteinte permanente à l’intégrité physique et psychique dues à la négligence de la part de l´Utilisateur10.2 dans son traitement médical ;
+
+**10.4 Exclusions générales**
+
+L’assurance ne couvre pas :
+
+* les dommages causés aux accessoires (casque, coffre etc.),
+* les dommages et le vol d’effets personnels (y compris les téléphones portables), les crevaisons de pneus dans tous les cas,
+* les dommages résultant de la conduite du véhicule dans des conditions contraires aux règles de la circulation et de la sécurité routière, ainsi que ceux résultants de la conduite du véhicule par un tiers autre que l’Utilisateur.
+* Les biens et/ou les activités assurés lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à l’assureur du fait de sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.
+* Les biens et/ou les activités assurés lorsqu’ils sont soumis à une quelconque sanction, restriction, embargo total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.
+
+Il est entendu que cette disposition ne s’applique que dans le cas où le contrat d’assurance, les biens et/ou activités assurés entrent dans le champ d’application de la décision de sanction restriction, embargo total ou partiel ou prohibition.
+
+* Les dommages ou l’aggravation des dommages, les pertes, les réclamations résultant :
+    * de la guerre civile ou étrangère,
+    * d’un conflit armé international ou non international, tels que définis par les Conventions de Genève et les jugements et décisions des Tribunaux internationaux
+    * d’invasion,
+    * de l’explosion de munitions de guerre.
+
+Sont toutefois garantis les dommages subis sur le territoire national, lorsque l’explosion de munitions de guerre est un acte d’attentat ou un acte de terrorisme tel que défini par le code pénal; la garantie s’applique alors dans les conditions, limites et exclusions prévues au contrat au titre de la garantie Attentat et acte de terrorisme.
+
+On entend par :
+
+* Conflit armé international : Existe chaque fois qu’il y a recours à la force armée entre deux ou plusieurs États.
+* Conflit armé non international : Existe chaque fois qu’il y a recours à la force armée entre États ou un conflit armé prolongé entre les autorités gouvernementales et des groupes armés organisés ou entre de tels groupes au sein d’un État.
+* Invasion : Action militaire qui menace directement l’autonomie d’une nation ou territoire.
+* Les dommages subis par le véhicule assuré lorsque ce dernier a fait l’objet modification de sa puisance en Kw, qui ne nous a pas été déclaré, par rapport au modèle constructeur
+
+**10.5 Vos obligations en cas de sinistre**
+
+* Vous devez déclarer votre sinistre par tous moyens, dès que vous en avez connaissance, dans les 5 jours ouvrés.
+
+Si vous ne respectez pas les délais de déclaration et si nous prouvons que ce retard nous a causé un préjudice, vous perdrez votre droit à indemnité (déchéance), sauf si votre retard résulte d’un cas fortuit ou de force majeure.
+
+* Vous devez nous fournir avec la déclaration : le constat amiable, la description exacte de l’événement, tous les renseignements utiles à l’identification des personnes lésées, du conducteur, des victimes, des témoins éventuels, des tiers responsables.
+* Transmettre, dès réception, à l’Assureur tous documents, renseignements, convocations, assignations, actes extrajudiciaires et pièces de procédure, en rapport avec le sinistre, qui vous seraient adressés, remis ou signifiés, ou encore demandés par l’Assureur.
+* Fournir à l’Assureur les pièces utiles à l’appréciation du dommage dans les plus brefs délais
+
+Vous perdrez le bénéfice des garanties du contrat, pour la totalité des conséquences découlant du sinistre si, vous ou le bénéficiaire de la garantie faites intentionnellement de fausses déclarations sur la date, la nature, les causes, les circonstances ou conséquences du sinistre.
+
+Il en sera de même si vous, ou le bénéficiaire de la garantie, exagérez intentionnellement le montant ou la gravité du préjudice ou utilisez sciemment des documents inexacts.
+
+C’est à l’Assureur d’apporter la preuve de la fausse déclaration, de l’exagération, de l’utilisation de documents inexacts.
+
+Si des indemnités ont déjà été payées, elles doivent être remboursées à l’Assureur et vous vous exposez à des poursuites pénales.
+
+Si votre responsabilité est mise en cause et si la garantie de votre contrat vous est acquise, l’Assureur assume votre défense. Ainsi, l’Assureur prend en charge les frais de procès, de quittance, et autres frais de règlement.
+
+L’Assureur a seul le droit de transiger avec les victimes ou leurs ayants droit, dans la limite de sa garantie.
+
+Aucune transaction ou reconnaissance de responsabilité n’est opposable à l’Assureur si elle intervient en dehors de lui. N’est cependant pas considéré comme une reconnaissance de responsabilité, l’aveu de la matérialité d’un fait, ni le seul fait d’avoir procuré à la victime un secours urgent, lorsqu’il s’agit d’un acte d’assistance que toute personne est normalement portée à accomplir.
+
+* Sauvegarde des droits des victimes :
+
+Ne sont pas opposables aux victimes ou à leurs ayants droit :
+
+* la nullité du contrat d’assurances ( article L. 211-7-1 du Code des assurances) ;
+* les franchises prévues au contrat ;
+* les déchéances, à l’exception de la suspension régulière de garantie pour non-paiement de la cotisation ;
+* la réduction de l’indemnité prévue par le Code des assurances en cas de déclaration inexacte ou incomplète du risque, faite de bonne foi ( article L 113-9 du Code des assurances) ;
+* les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11 du code des assurances :
+    * le conducteur n’a pas l’âge requis ou ne possède pas les certificats, en état de validité, exigés par la réglementation en vigueur pour la conduite du véhicule, sauf en cas de vol, de violence ou d’utilisation du véhicule à l’insu de l’assuré ;
+    * inobservation des conditions suffisantes de sécurité fixées par arrêté pour le transport des passagers (Art. A 211.3 du Code des assurances) ;
+    * du fait des dommages causés par le véhicule lorsqu’il transporte des sources de rayonnements ionisants destinés à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
+    * du fait des dommages causés par le véhicule, lorsqu’il transporte des matières inflammables, explosives, corrosives ou comburantes et à l’occasion desquels lesdites matières auraient provoqué ou aggravé le sinistre ; toutefois la non-assurance ne saurait être invoquée du chef de transports d’huiles, d’essences minérales ou de produits similaires, ne dépassant pas 500 kilogrammes ou 600 litres, y compris l’approvisionnement de carburant liquide ou gazeux nécessaire au moteur ,
+    * de dommages survenus au cours d’épreuves, courses, compétitions, ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.
+
+**Important**
+
+Nous procéderons au paiement de l’indemnité pour votre compte dans la limite du maximum garanti.
+
+Si vous êtes responsable, nous exercerons contre vous une action en remboursement des sommes ainsi avancées par nos soins.
+
+Nous sommes également tenus, lorsque nous invoquons une exception de garantie légale ou contractuelle, de présenter à la victime une offre d’indemnité telle que prévue par les articles L211-9 à L211-17 du Code des assurances.
+
+**10.6 Prescription des actions dérivant du contrat d’assurance**
+
+Les dispositions relatives à la prescription des actions dérivant du contrat d’assurance sont fixées par les articles L114-1 à L114-3 du Code des assurances reproduits ci-après :
+
+Article L114-1 du Code des assurances :
+
+Toutes actions dérivant d’un contrat d’assurance sont prescrites par deux ans à compter de l’événement qui y donne naissance. Par exception, les actions dérivant d’un contrat d’assurance relatives à des dommages résultant de mouvements de terrain consécutifs à la sécheresse-réhydratation des sols, reconnus comme une catastrophe naturelle dans les conditions prévues à l’article L. 125-1, sont prescrites par cinq ans à compter de l’événement qui y donne naissance.
+
+Toutefois, ce délai ne court :
+
+1° En cas de réticence, omission, déclaration fausse ou inexacte sur le risque couru, que du jour où l’assureur en a eu connaissance ;
+
+2° En cas de sinistre, que du jour où les intéressés en ont eu connaissance, s’ils prouvent qu’ils l’ont ignoré jusque-là.
+
+Quand l’action de l’assuré contre l’assureur a pour cause le recours d’un tiers, le délai de la prescription ne court que du jour où ce tiers a exercé une action en justice contre l’assuré ou a été indemnisé par ce dernier.
+
+La prescription est portée à dix ans dans les contrats d’assurance sur la vie lorsque le bénéficiaire est une personne distincte du souscripteur et, dans les contrats d’assurance contre les accidents atteignant les personnes, lorsque les bénéficiaires sont les ayants droit de l’assuré décédé.
+
+Pour les contrats d’assurance sur la vie, nonobstant les dispositions du 2, les actions du bénéficiaire sont prescrites au plus tard trente ans à compter du décès de l’assuré.
+
+Article L114-2 du Code des assurances :
+
+La prescription est interrompue par une des causes ordinaires d’interruption de la prescription et par la désignation d’experts à la suite d’un sinistre. L’interruption de la prescription de l’action peut, en outre, résulter de l’envoi d’une lettre recommandée ou d’un envoi recommandé électronique, avec accusé de réception, adressés par l’assureur à l’assuré en ce qui concerne l’action en paiement de la prime et par l’assuré à l’assureur en ce qui concerne le règlement de l’indemnité.
+
+Article L114-3 du Code des assurances :
+
+Par dérogation à l’article 2254 du Code civil, les parties au contrat d’assurance ne peuvent, même d’un commun accord, ni modifier la durée de la prescription, ni ajouter aux causes de suspension ou d’interruption de celle-ci.
+
+Information complémentaire :
+
+Les causes ordinaires d’interruption de la prescription visées à l’article L114-2 du Code des assurances sont énoncées aux articles 2240 à 2246 du Code civil reproduits ci-après.
+
+Article 2240 du Code civil :
+
+La reconnaissance par le débiteur du droit de celui contre lequel il prescrivait interrompt le délai de prescription.
+
+Article 2241 du Code civil :
+
+La demande en justice, même en référé, interrompt le délai de prescription ainsi que le délai de forclusion. Il en est de même lorsqu’elle est portée devant une juridiction incompétente ou lorsque l’acte de saisine de la juridiction est annulé par l’effet d’un vice de procédure.
+
+Article 2242 du Code civil :
+
+L’interruption résultant de la demande en justice produit ses effets jusqu’à l’extinction de l’instance.
+
+Article 2243 du Code civil :
+
+L’interruption est non avenue si le demandeur se désiste de sa demande ou laisse périmer l’instance, ou si sa demande est définitivement rejetée.
+
+Article 2244 du Code civil :
+
+Le délai de prescription ou le délai de forclusion est également interrompu par une mesure conservatoire prise en application du Code des procédures civiles d’exécution ou un acte d’exécution forcée.
+
+Article 2245 du Code civil :
+
+L’interpellation faite à l’un des débiteurs solidaires par une demande en justice ou par un acte d’exécution forcée ou la reconnaissance par le débiteur du droit de celui contre lequel il prescrivait interrompt le délai de prescription contre tous les autres, même contre leurs héritiers. En revanche, l’interpellation faite à l’un des héritiers d’un débiteur solidaire ou la reconnaissance de cet héritier n’interrompt pas le délai de prescription à l’égard des autres cohéritiers, même en cas de créance hypothécaire, si l’obligation est divisible. Cette interpellation ou cette reconnaissance n’interrompt le délai de prescription, à l’égard des autres codébiteurs, que pour la part dont cet héritier est tenu. Pour interrompre le délai de prescription pour le tout, à l’égard des autres codébiteurs, il faut l’interpellation faite à tous les héritiers du débiteur décédé ou la reconnaissance de tous ces héritiers.
+
+Article 2246 du Code civil :
+
+L’interpellation faite au débiteur principal ou sa reconnaissance interrompt le délai de prescription contre la caution.
+
+Pour prendre connaissance de toute mise à jour éventuelle des dispositions précitées, nous vous invitons à consulter le site officiel « www.legifrance.gouv.fr ».
+
+**10.7 Lutte anti-blanchiment**
+
+Les contrôles que nous sommes légalement tenus d’effectuer au titre de la lutte contre le blanchiment d’argent et contre le financement du terrorisme, notamment sur les mouvements de capitaux transfrontaliers, peuvent nous conduire à tout moment à vous demander des explications ou des justificatifs, y compris sur l’acquisition des biens assurés.
+
+Conformément à la loi Informatique et Libertés du 6 janvier 1978 modifiée et au Code monétaire et financier, vous bénéficiez d’un droit d’accès aux données vous concernant en adressant un courrier à la Commission Nationale de l’Informatique et des Libertés (CNIL).
+
+**10.8 Relations Clients et Médiation**
+
+Votre réclamation doit nous être adressée par écrit (courrier postal ou courriel) à moins que la réclamation que vous avez formulée par oral ou via une messagerie instantanée n’ait été résolue entièrement et immédiatement.
+
+En cas de difficultés, nous vous invitons à consulter d’abord votre interlocuteur commercial habituel.
+
+Si sa réponse ne vous satisfait pas, il vous suffit :
+
+* d’effectuer votre réclamation directement sur le site allianz.fr,
+* ou d’adresser un courrier à Allianz relations Clients – Case Courrier S1803 – 1 cours Michelet – CS 30051 – 92076 Paris La Défense Cedex.
+
+Nous accuserons réception de votre réclamation écrite dans les 10 jours ouvrables à compter de son envoi et nous vous apporterons une réponse écrite dans un délai maximal de 2 mois.
+
+Vous pouvez en tout état de cause saisir le Médiateur indépendant de l’assurance à l’issue d’un délai de deux mois à compter de l’envoi de votre première réclamation écrite :
+
+Par courrier : La Médiation de l’Assurance – TSA 50110 – 75441 Paris Cedex 09
+
+Par voie électronique : [www.mediation-assurance.org](http://www.mediation-assurance.org/)
+
+Votre demande auprès du Médiateur de l’assurance doit, le cas échéant, être formulée au plus tard dans le délai d’un an à compter de votre première réclamation écrite auprès de nos services.
+
+Vous avez toujours la possibilité d’intenter toute action en justice.
+
+En cas de souscription de votre contrat d’assurance en ligne, vous avez la possibilité en qualité de consommateur, de recourir à la plateforme de Règlement en Ligne des Litiges (RLL) de la Commission Européenne en utilisant le lien suivant : [http://ec.europa.eu/consumers/odr](http://ec.europa.eu/consumers/odr)
+
+**10.9 Droit d’opposition des consommateurs au démarchage téléphonique :**
+
+Si vous ne souhaitez pas faire l’objet de prospection commerciale par téléphone, vous pouvez gratuitement vous inscrire sur la liste d’opposition au démarchage téléphonique (Bloctel).
+
+Ces dispositions sont applicables à tout consommateur c’est-à-dire à toute personne physique qui agit à des fins qui n’entrent pas dans le cadre de son activité professionnelle.
+
+**10.10 Protection des données personnelles**
+
+1. Qui est responsable de vos données ?
+
+Allianz IARD. Entreprise régie par le Code des assurances. Société anonyme au capital de 991 967 200 €. Siège social :1, cours Michelet-CS 30051- 92076 Paris la Défense cedex. 542 110 291 RCS Nanterre
+
+[\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection)
+
+2. Pourquoi recueillons-nous vos données personnelles ?
+
+Nous recueillons et traitons vos données personnelles dans le cadre de l’exécution du   contrat d’assurance pour compte dont vous bénéficiez. Pourquoi ? Tout simplement parce qu’elles nous sont nécessaires pour respecter nos obligations légales et réglementaires, gérer le contrat d’assurance et mieux vous connaître.
+
+Gérer le contrat et respecter nos obligations légales et réglementaires
+
+Vos données personnelles nous sont indispensables pour vous identifier et exécuter le contrat d’assurance pour compte dont vous bénéficiez.
+
+Vos données de santé font l’objet d’un traitement spécifique lié au respect du secret médical.
+
+En outre, nous avons besoin de vos données pour respecter en tout point les dispositions légales et administratives applicables à notre profession, entre autres dans le cadre de la lutte contre le blanchiment, la lutte anti-terrorisme et la fraude à l’assurance.
+
+Vous trouverez ci-dessous les bases juridiques correspondant aux finalités de traitement.
+
+|     |     |
+| --- | --- |
+| **Finalités des traitements** | **Base légale** |
+| Passation, gestion et exécution du contrat d’assurance (y compris indemnisation en cas de sinistres). | ·       Exécution du contrat<br><br>·        Consentement, pour le traitement des données d’état de santé nécessaire à l’exécution de ses finalités. |
+| Exécution des obligations légales réglementaires et administratives en vigueur | Obligations réglementaires |
+| Lutte anti-blanchiment et lutte contre le financement du terrorisme | Obligations réglementaires |
+| Lutte anti-fraude | Exécution du contrat |
+| Opérations relatives à la gestion commerciale et à la prospection commerciale | Intérêt légitime du Responsable de Traitement<br><br>Consentement pour la prospection commerciale par voie électronique |
+
+Mieux vous connaître… et vous servir
+
+En nous permettant de mieux vous connaître, vos données nous aident à vous présenter et/ou vous proposer des produits et des services adaptés à vos seuls besoins. Avec votre accord express, vos données peuvent servir également un objectif commercial. Elles serviront pour des actions de prospection, de fidélisation, de promotion ou de recueil de votre satisfaction.
+
+Profilage
+
+Nous pouvons être amenés à mettre en place des actions de profilage, dans le cadre de l’exécution du contrat pour notamment lutter contre la fraude à l’assurance ou vous proposer des garanties plus adaptées. Pour cela, nous pouvons traiter certaines de vos données personnelles liées notamment à vos habitudes de vie, à votre comportement ou à votre localisation.
+
+3. Qui peut consulter ou utiliser vos données personnelles ?
+
+Prioritairement les entreprises du groupe Allianz, le souscripteur du présent contrat  et son intermédiaire en assurance (agent, courtier, mandataire d’assurance), mais aussi les différents organismes publics et partenaires directement impliqués dans la conclusion, la gestion, l’exécution de votre adhésion ou dans un objectif commercial : délégataires de gestion, prestataires, réassureurs, coassureurs, organismes d’assurance.
+
+Ces destinataires se situent parfois en dehors de l’Union européenne. En ce cas, nous mettons en œuvre des garanties spécifiques pour assurer la protection complète de vos données. Si vous souhaitez des informations sur ces garanties, écrivez-nous à l’adresse indiquée au paragraphe « Vos contacts ».
+
+4. Combien de temps sont conservées vos données personnelles ?
+
+Nous conservons vos données tout au long de la période d’assurance.  À son terme, elles sont conservées pendant le délai de prescription.
+
+5. Données personnelles : quels sont vos droits ?
+
+Consulter, modifier, effacer… Vous disposez de nombreux droits pour l’utilisation qui est faite de vos données :
+
+– le droit d’opposition au traitement de vos données personnelles, lorsque celui-ci n’est pas contradictoire avec l’intérêt légitime du responsable de traitement ;
+
+– le droit d’accès à vos données personnelles et aux traitements de ces données par le responsable de traitement ;
+
+– le droit de rectification de vos données personnelles quand vous le souhaitez, notamment en cas d’erreurs ou de changements ;
+
+– le droit à l’effacement de vos données personnelles, lorsque leur conservation n’est plus nécessaire à la poursuite des finalités et que les délais de prescription réglementaires sont échus ;
+
+– le droit à une utilisation restreinte, lorsque les données ne sont pas nécessaires pour certains traitements ou en cas de litiges avec le responsable de traitement ;
+
+– le droit à la portabilité, c’est-à-dire la possibilité de communiquer vos données personnelles à la personne de votre choix, sur simple demande ;
+
+– le droit de changer d’avis, notamment pour annuler le consentement que vous avez donné pour l’utilisation commerciale de vos données ;
+
+– le droit de décider de l’utilisation de vos données personnelles après votre mort. Conservation, communication ou effacement… : vous désignez un proche, lui indiquez votre volonté et il la mettra en œuvre sur simple demande.
+
+Pour exercer votre droit d’accès aux données collectées dans le cadre de la lutte anti-blanchiment et anti-terroriste, adressez-vous directement à la CNIL.
+
+De manière générale, vous pourrez lire toutes les précisions sur les cookies ainsi que sur le recueil et l’utilisation de vos données sur le site allianz.fr ou le site de l’entité juridique mentionnée au paragraphe « Qui est responsable de vos données ? ».
+
+Enfin, le site de la CNIL vous renseignera en détail sur vos droits et tous les aspects légaux liés à vos données personnelles : www.cnil.fr.
+
+6. Comment exercer vos droits ?
+
+Pour exercer vos droits, vous devez vous adresser à l’adresse  indiquées à la rubrique « Vos Contacts .
+
+Pour envoyer une réclamation concernant le traitement de vos données personnelles, vous pouvez également écrire au DPO (Délégué à la Protection des Données Personnelles) de l’assureur responsable de traitement à l’adresse de l’assureur indiquée à la rubrique « Vos Contacts ».
+
+En cas de réclamation et si notre réponse ne vous satisfait pas, vous pouvez vous adresser à la CNIL.
+
+7. Vos Contacts
+
+Question, réclamation, demande de modification… Pour toutes ces situations, c’est très simple : il vous suffit d’écrire :
+
+par mail à [\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection),
+
+ par courrier à l’adresse Allianz – Informatique et Libertés – Case courrier S1805 – 1 cours Michelet – CS 30051 –
+
+92076 Paris La Défense Cedex.
+
+Pour toutes vos demandes, n’oubliez pas de joindre un justificatif d’identité.
+
+**Loi applicable – Tribunaux compétents**
+
+Les relations précontractuelles et contractuelles sont régies par la loi française et principalement par le Code des assurances. Toute action judiciaire relative au présent contrat sera de la seule compétence des tribunaux français.
+
+Toutefois si vous êtes domicilié dans la Principauté de Monaco, les tribunaux monégasques seront seuls compétents en cas de litige entre vous et l’Assureur.
+
+**Annexe : Fiche d’information relative au fonctionnement des garanties Responsabilité civile dans le temps**
+
+**Annexe de l’article A112 du Code des assurances**
+
+Créé par Arrêté 2003-10-31 annexe JORF 7 novembre 2003
+
+**Avertissement :**
+
+La présente fiche d’information vous est délivrée en application de l’article L112-2 du Code des assurances. Elle a pour objet d’apporter les informations nécessaires à une bonne compréhension du fonctionnement de la garantie de Responsabilité civile dans le temps. Elle concerne les contrats souscrits ou reconduits postérieurement à l’entrée en vigueur le 3 novembre 2003 de l’article 80 de la loi n° 2003-706. Les contrats souscrits antérieurement font l’objet de Dispositions particulières précisées dans la même loi.
+
+Comprendre les termes
+
+Fait dommageable :
+
+Fait, acte ou événement à l’origine des dommages subis par la victime et faisant l’objet d’une réclamation.
+
+Réclamation :
+
+Mise en cause de votre responsabilité, soit par lettre adressée à l’assuré ou à l’assureur, soit par assignation devant un tribunal civil ou administratif. Un même sinistre peut faire l’objet de plusieurs réclamations, soit d’une même victime, soit de plusieurs victimes.
+
+Période de validité de la garantie :
+
+Période comprise entre la date de prise d’effet de la garantie et, après d’éventuelles reconductions, sa date de résiliation ou d’expiration.
+
+Période subséquente :
+
+Période se situant après la date de résiliation ou d’expiration de la garantie. Sa durée est précisée par le contrat. Elle ne peut être inférieure à cinq ans.
+
+Si votre contrat garantit exclusivement votre Responsabilité civile vie privée, reportez-vous au I. Sinon, reportez-vous au I et au II.
+
+Dès la validation des informations fournies et le paiement effectif par internet de l’acompte, Allianz IARD vous confirme la prise en compte de votre souscription par un courrier électronique de confirmation à l’adresse mail que vous avez fournie lors de la souscription, comprenant les Dispositions générales et les Dispositions particulières du contrat.
+
+**Le contrat garantit votre Responsabilité civile vie privée.**
+
+En dehors de toute activité professionnelle, la garantie est déclenchée par le fait dommageable. L’assureur apporte sa garantie lorsqu’une réclamation consécutive à des dommages causés à autrui est formulée et que votre responsabilité ou celle des autres personnes garanties par le contrat est engagée, dès lors que le fait à l’origine de ces dommages est survenu entre la date de prise d’effet et la date de résiliation ou d’expiration de la garantie.
+
+La déclaration de sinistre doit être adressée à l’assureur dont la garantie est ou était en cours de validité au moment où le fait dommageable s’est produit. En cas de réclamation mettant en jeu votre Responsabilité civile en raison d’un préjudice écologique, la garantie n’est pas applicable aux préjudices ayant donné lieu à une action en justice introduite avant la publication de la loi n° 2016-1087 au Journal officiel de la République française le 09 août 2016.
+
+Le contrat garantit la Responsabilité civile (encourue du fait d’une activité professionnelle)
+
+Le contrat d’assurance doit préciser si la garantie est déclenchée par le « fait dommageable » ou si elle l’est par « la réclamation ». Lorsque le contrat contient à la fois des garanties couvrant votre Responsabilité civile du fait d’activité professionnelle et des garanties couvrant votre Responsabilité civile vie privée, ces dernières sont déclenchées par le fait dommageable (cf. I).
+
+Certains contrats, pour lesquels la loi prévoit des Dispositions particulières dérogent cependant à cette disposition ; c’est le cas par exemple en matière d’assurance décennale obligatoire des activités de construction.
+
+1. Comment fonctionne le mode de déclenchement « par le fait dommageable » ?
+
+L’assureur apporte sa garantie lorsqu’une réclamation consécutive à des dommages causés à autrui est formulée et que votre responsabilité ou celle des autres personnes garanties par le contrat est engagée, dès lors que le fait à l’origine de ces dommages est survenu entre la date de prise d’effet et la date de résiliation ou d’expiration de la garantie.
+
+La déclaration de sinistre doit être adressée à l’assureur dont la garantie est ou était en cours de validité au moment où le fait dommageable s’est produit.
+
+2. Comment fonctionne le mode de déclenchement « par la réclamation » ?
+
+Quel que soit le cas, la garantie de l’assureur n’est pas due si l’assuré avait connaissance du fait dommageable au jour de la souscription de celle-ci.
+
+Premier cas : la réclamation du tiers est adressée à l’assuré ou à l’assureur pendant la période de validité de la garantie souscrite.
+
+L’assureur apporte sa garantie, même si le fait à l’origine du sinistre s’est produit avant la souscription de la garantie.
+
+Second cas : la réclamation est adressée à l’assuré ou à l’assureur pendant la période subséquente.
+
+Cas 2.2.1 : l’assuré n’a pas souscrit de nouvelle garantie de responsabilité déclenchée par la réclamation couvrant le même risque. L’assureur apporte sa garantie.
+
+Cas 2.2.2 : l’assuré a souscrit une nouvelle garantie de responsabilité déclenchée par la réclamation auprès d’un nouvel assureur couvrant le même risque. C’est la nouvelle garantie qui est mise en oeuvre, sauf si l’assuré avait connaissance du fait dommageable au jour de la souscription de celle-ci, auquel cas, c’est la garantie précédente qui intervient.
+
+Aussi, dès lors qu’il n’y a pas d’interruption entre deux garanties successives et que la réclamation est adressée à l’assuré ou à son assureur avant l’expiration du délai subséquent de la garantie initiale, l’un des deux assureurs est nécessairement compétent et prend en charge la réclamation.
+
+Lorsque la garantie initiale est déclenchée pendant la période subséquente, le plafond de l’indemnisation ne peut être inférieur à celui de la garantie déclenchée pendant l’année précédant la date de sa résiliation ou de son expiration.
+
+3. En cas de changement d’assureur.
+
+Si vous avez changé d’assureur et si un sinistre, dont le fait dommageable est intervenu avant la souscription de votre nouveau contrat, n’est l’objet d’une réclamation qu’au cours de votre nouveau contrat, il faut déterminer l’assureur qui vous indemnisera. Selon le type de contrats, l’ancien ou le nouvel assureur pourra être valablement saisi. Reportez-vous aux cas types ci-dessous :
+
+3.1 L’ancienne et la nouvelle garantie sont déclenchées par le fait dommageable.
+
+La garantie qui est activée par la réclamation est celle qui est ou était en cours de validité à la date de survenance du fait dommageable.
+
+3.2 L’ancienne et la nouvelle garantie sont déclenchées par la réclamation.
+
+Votre ancien assureur devra traiter la réclamation si vous avez eu connaissance du fait dommageable avant la souscription de votre nouvelle garantie.
+
+Aucune garantie n’est due par votre ancien assureur si la réclamation vous est adressée ou l’est à votre ancien assureur après l’expiration du délai subséquent.
+
+Si vous n’avez pas eu connaissance du fait dommageable avant la souscription de votre nouvelle garantie, c’est votre nouvel assureur qui accueillera votre réclamation.
+
+3.3 L’ancienne garantie est déclenchée par le fait dommageable et la nouvelle garantie est déclenchée par la réclamation.
+
+Si le fait dommageable s’est produit pendant la période de validité de l’ancienne garantie, c’est l’ancien assureur qui doit traiter les réclamations portant sur les dommages qui résultent de ce fait dommageable.
+
+Dans l’hypothèse où le montant de cette garantie serait insuffisant, la garantie nouvelle déclenchée par la réclamation sera alors amenée à compléter cette insuffisance pour autant que vous n’ayez pas eu connaissance du fait dommageable avant la date de souscription de votre nouvelle garantie.
+
+Si le fait dommageable s’est produit avant la prise d’effet de l’ancienne garantie et est demeuré inconnu de l’assuré à la date de souscription de la nouvelle garantie, c’est le nouvel assureur qui doit traiter les réclamations portant sur les dommages qui résultent de ce fait dommageable.
+
+3.4 L’ancienne garantie est déclenchée par la réclamation et la nouvelle garantie est déclenchée par le fait dommageable.
+
+Si le fait dommageable s’est produit avant la date de souscription de la nouvelle garantie, c’est l’ancien assureur qui doit traiter les réclamations.
+
+Aucune garantie n’est due par votre ancien assureur si la réclamation est adressée à l’assuré ou à votre ancien assureur après l’expiration du délai subséquent.
+
+Si le fait dommageable s’est produit pendant la période de validité de la nouvelle garantie, c’est bien entendu l’assureur de cette dernière qui doit traiter la réclamation.
+
+4. En cas de réclamations multiples relatives au même fait dommageable.
+
+Un même fait dommageable peut être à l’origine de dommages multiples qui interviennent ou se révèlent à des moments différents. Plusieurs réclamations ont alors vocation à être successivement adressées par les différents tiers concernés. Dans ce cas, le sinistre est considéré comme unique. En conséquence, c’est le même assureur qui prend en charge l’ensemble des réclamations.
+
+Si le fait dommageable s’est produit alors que votre contrat était déclenché sur la base du fait dommageable, c’est donc votre assureur à la date où le fait dommageable s’est produit qui doit traiter les réclamations.
+
+Si vous n’étiez pas couvert sur la base du fait dommageable à la date du fait dommageable, l’assureur qui doit être désigné est celui qui est compétent, dans les conditions précisées aux paragraphes II-1, II-2 et II-3 ci-dessus, au moment de la formulation de la première réclamation.
+
+Dès lors que cet assureur est compétent au titre de la première réclamation, les réclamations ultérieures seront alors traitées par ce même assureur quelle que soit la date à laquelle ces réclamations sont formulées, même si la période subséquente est dépassée.
+
+**ARTICLE 11 – PÉAGES – CONTRAVENTIONS – AMENDES – DÉLITS**
 
 L’Utilisateur est tenu de s’acquitter des péages, amendes, contraventions et procès-verbaux établis à son encontre et qui sont légalement à sa charge. Conformément au principe de personnalité des peines, l’Utilisateur est légalement responsable du Scooter et prend en charge les conséquences de toute infraction au Code de la Route, aux règles de stationnement et de circulation, ou à toute autre loi ou règlement, survenue pendant la durée d’utilisation du Scooter  ou en cas de stationnement non autorisé du Scooter jusqu’à la Location du Scooter par le prochain Utilisateur (notamment en cas de stationnement sur une place provisoire telle qu’une place livraison).
 
-Pour plus d’informations sur les procédures légales applicables en cas d’infraction du Code de la Route détectée par voie automatisée, les Utilisateurs sont invités à consulter le site web [www.antai.gouv.fr](http://www.antai.gouv.fr/) .
+Pour plus d’informations sur les procédures légales applicables en cas d’infraction du Code de la Route détectée par voie automatisée, les Utilisateurs sont invités à consulter le site web [www.antai.gouv.fr](http://www.antai.gouv.fr/).
 
 **11.1** **Processus applicable en cas d’infraction au Code de la Route**
 
@@ -607,7 +1262,7 @@ CITYSCOOT se réserve le droit d’interrompre totalement ou partiellement le Se
 
 CITYSCOOT peut arrêter définitivement le Service dans une ville ou une zone géographique quelconque à tout moment, sans qu’aucune indemnité autre que le remboursement des minutes prépayées ne soit due à l’Utilisateur. Si les circonstances le permettent, l’arrêt définitif du Service sera notifié aux Utilisateurs suivant un préavis raisonnable.
 
- **ARTICLE 13 – DONNÉES PERSONNELLES** **– DÉMARCHAGE TÉLÉPHONIQUE**
+ **ARTICLE 13 – DONNÉES PERSONNELLES – DÉMARCHAGE TÉLÉPHONIQUE**
 
 Dans le cadre du Service, CITYSCOOT est amenée à collecter et traiter certaines données personnelles des Clients. En créant un compte CITYSCOOT et/ou en utilisant le Service, le Client reconnaît et accepte le traitement de ses données personnelles par CITYSCOOT conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.cityscoot.eu/politique-de-confidentialite) de CITYSCOOT.    
 
@@ -628,7 +1283,7 @@ En cas de mise à disposition par CITYSCOOT d’un code promotionnel ouvrant dro
 * est utilisable une (1) seule fois et uniquement sur le Site Internet et/ou sur l’Application de CITYSCOOT (sauf indication contraire) ;
 * n’est pas cumulable avec d’autres codes promotionnels ;
 * est valable pendant une durée déterminée qui sera communiquée en même temps que le code promotionnel ;
-* peut expirer avant son utilisation si un délai d’expiration est indiqué lors de l’attribution du code;
+* peut expirer avant son utilisation si un délai d’expiration est indiqué lors de l’attribution du code ;
 * ne peut être mis à disposition du public sauf autorisation expresse de CITYSCOOT ;
 * ne peut faire l’objet d’un marchandage, se monnayer ou encore être converti en espèce.
 
@@ -753,7 +1408,7 @@ Toute modification des présentes CGUS sera réputée acceptée et immédiatemen
 
 **ARTICLE 18 – DISPOSITIONS SPÉCIFIQUES APPLICABLES AUX UTILISATEURS UBER**
 
-**Le Service est accessible via l’application Uber dans les villes de Paris, Nice, Bordeaux et Barcelone.**
+**Le Service est accessible via l’application Uber dans les villes de Paris et Nice (et les villes limitrophes appartenant à la Zone Cityscoot).**
 
 Les dispositions spécifiques suivantes s’appliquent à tout Utilisateur remplissant l’ensemble des conditions énoncées à l’article 4 des présentes et accédant au Service CITYSCOOT via l’application d’Uber (l’« **Utilisateur Uber** »), conformément aux conditions générales d’Uber et aux présentes CGUS.
 
@@ -803,19 +1458,32 @@ Les dispositions de l’article 17.2 ne s’appliquent pas aux Utilisateurs Uber
 
 L’Utilisateur Uber sera invité à accepter les présentes CGUS selon les modalités déterminées par Uber. La preuve de cette acceptation sera conservée par Uber conformément aux conditions générales et à la politique de confidentialité d’Uber.
 
-**ANNEXE 1 : CONDITIONS TARIFAIRES** 
+**ANNEXE 1 : CONDITIONS TARIFAIRES**
 
-PARIS :  
-– 0,39€ PAR MINUTE
+**PARIS** :
 
-NICE :  
-– 0,35€ PAR MINUTE
+|     |     |
+| --- | --- |
+| **Prix à la minute (sans pack ni abonnement)** | **0,46€** |
+| **Abonnement (500 minutes par mois)** | **129€/mois, soit 0,26€/min** |
+| **CityPack250** | **75€, soit 0,30€/min** |
+| **CityPack100** | **34€, soit 0,34€/min** |
+| **CityPack50** | **18€, soit 0,36€/min** |
+| **CityYoung** | **14€, soit 0,28€/min** |
+| **CityPass24** | **30€** |
+| **CityPack30** | **11€, soit 0,37€/min** |
 
-BORDEAUX :
+**NICE** :
 
-* 0,29€ PAR MINUTE
-
- Le prix des Pack de minutes est celui proposé sur l’Application au moment de l’achat.
+|     |     |
+| --- | --- |
+| **Prix à la minute (sans pack ni abonnement)** | **0,39€** |
+| **Abonnement (500 minutes par mois)** | **129€/mois, soit 0,26€/min** |
+| CityPack250 | 65€, soit 0,26€/min |
+| CityPack100 | 30€, soit 0,30€/min |
+| CityYoung | 12€, soit 0,24€/min |
+| CityPass24 | 25€ |
+| **CityPack30** | **10€, soit 0,33€/min** |
 
 **ANNEXE 2 : TABLEAU RÉCAPITULATIF DES PÉNALITÉS**
 
@@ -829,53 +1497,63 @@ Les montants des pénalités ci-dessous, contraventions exceptées, sont tous TV
 
 La Location reste effective sans plafonnement de facturation jusqu’à la restitution du Scooter par l’Utilisateur ou, si ce dernier refuse, jusqu’à sa récupération par CITYSCOOT. En sus de la Location consommée jusqu’à la prise en charge effective du Scooter par CITYSCOOT ou par un dépanneur mandaté par CITYSCOOT (effectuée dans un délai maximum de 48heures), l’Utilisateur sera facturé des frais de rapatriement du Scooter au sein de la Zone CITYSCOOT (ou à l’atelier) établis en fonction de localisation du scooter :
 
-– Dans les villes limitrophes non incluses dans la zone : 100€
+– Dans les villes limitrophes non incluses dans la zone : 100 €
 
-– Ailleurs : 200€
+– Ailleurs : 200 €
 
 **Restitution du Scooter dans une zone privée non accessible au public**
 
-L’Utilisateur responsable de la restitution du Scooter dans la zone privée non accessible au public sera facturé 20€ par heure à compter de la fin de sa Location (y compris pendant les heures de fermeture du service) jusqu’au dépôt du Scooter dans une zone accessible au public au sein de la Zone CITYSCOOT + 50€ de frais de déplacement.
+L’Utilisateur responsable de la restitution du Scooter dans la zone privée non accessible au public sera facturé 20 € par heure à compter de la fin de sa Location (y compris pendant les heures de fermeture du service) jusqu’au dépôt du Scooter dans une zone accessible au public au sein de la Zone CITYSCOOT
+
+\+ 150€ de frais de déplacement.
 
 \+ Suspension immédiate de l’accès au Service.
 
-**Défaut de Paiement**  
-Non-paiement des sommes dues à CITYSCOOT par l’Utilisateur.
+**Stationnement violant le Code de la route (scooter mal garé)**
 
-Suspension de l’accès au Service jusqu’au paiement des sommes dues.
+30€ de frais de déplacement
+
+**Défaut de Paiement**  
+Défaut de paiement des sommes dues à CITYSCOOT par l’Utilisateur.
+
+Frais de gestion de 30 €
+
+\+ Suspension de l’accès au Service jusqu’au paiement des sommes dues.
 
 **Panne de batterie** due à la négligence de l’Utilisateur et entrainant l’intervention de CITYSCOOT ou d’un dépanneur mandaté par CITYSCOOT.
 
 Frais de rapatriement du Scooter au sein de la Zone CITYSCOOT (ou à l’atelier) établis en fonction de localisation du scooter :
 
-– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50€
+– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
 
-– Dans les villes limitrophes non incluses dans la zone : 100€
+– Dans les villes limitrophes non incluses dans la zone : 100 €
 
-– Ailleurs : 200€
+– Ailleurs : 200 €
 
 **Perte ou dégradation du Casque**
 
-Facturation de 150€ couvrant le remplacement du casque et les frais d’intervention
+Facturation de 150 € couvrant le remplacement du casque et les frais d’intervention
 
-Non-respect par l’Utilisateur de la procédure d’assistance définie en 7.5 Sinistre non déclaré par l’Utilisateur. Documentation et/ou évènement non communiqué(s) à CITYSCOOT dans les 48h suivant le sinistre ou suivant la demande de CITYSCOOT. Vol non déclaré aux autorités de Police.
+**Non-respect par l’Utilisateur de la procédure d’assistance définie en 7.5 / Sinistre non déclaré par l’Utilisateur / Documentation et/ou évènement non communiqué(s) à CITYSCOOT dans les 48h suivant le sinistre ou suivant la demande de CITYSCOOT / Vol non déclaré aux autorités de Police**
 
-Frais de gestion de 200€
+Frais de gestion de 250 €
 
 \+ Frais de rapatriement du scooter :
 
-●       Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50€
+– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
 
-●       Dans les villes limitrophes non incluses dans la zone : 100€
+– Dans les villes limitrophes non incluses dans la zone : 100 €
 
-●       Ailleurs : 200€
+– Ailleurs : 200 €
 
 \+ Suspension immédiate de l’accès au Service.
 
 **Omission ou inexactitude des renseignements fournis par l’Utilisateur**  
 au moment de l’Inscription au Service ou de l’accès au Service pouvant conduire à une modification des garanties apportées par le contrat d’assurance ou pouvant résulter en un préjudice subi par CITYSCOOT.
 
-Réparation par l’Utilisateur du préjudice subi par CITYSCOOT ou tout autre tiers résultant directement de l’inexactitude ou de l’omission des données fournies par l’Utilisateur.
+Frais de gestion de 30 €
+
+\+ Réparation par l’Utilisateur du préjudice subi par CITYSCOOT ou tout autre tiers résultant directement de l’inexactitude ou de l’omission des données fournies par l’Utilisateur.
 
 \+ Suspension immédiate de l’accès au Service
 
@@ -884,7 +1562,9 @@ dû à un stationnement non-autorisé.
 
 Facturation au dernier Utilisateur ayant stationné le scooter :
 
-– Des frais de déplacement d’un de nos agents ou prestataire mandaté pour aller chercher le scooter en fourrière et l’en sortir : 50€
+– De 30 € de frais de gestion
+
+– Des frais de déplacement d’un de nos agents ou prestataire mandaté pour aller chercher le scooter en fourrière et l’en sortir : 90 €
 
 – Des frais de fourrière réels plafonnées à une journée de garde.
 
@@ -893,22 +1573,24 @@ Facturation au dernier Utilisateur ayant stationné le scooter :
 **Contraventions**  
 Infraction pour Stationnement, Mauvaise conduite, Excès de vitesse, Non-respect du Code de la Route.
 
-La contravention sera traitée conformément à l’article 11 des CGUS. En sus de l’amende applicable, l’Utilisateur se verra également facturer 15€ de frais de gestion.
+La contravention sera traitée conformément à l’article 11 des CGUS, en sus de l’amende applicable.
+
+L’Utilisateur se verra également facturer 30 € de frais de gestion.
 
 **Sinistre sans tiers responsable ou vol du Scooter**   
-(plus généralement tous les cas pour lesquels la franchise vol ou dommages est applicable)
+(plus généralement tous les cas pour lesquels la franchise « vol » ou « dommages tous accidents » est applicable)
 
-Sommes dues au titre de la Franchise (voir Annexe 2) :
+Sommes dues au titre de la Franchise (voir Annexe 3) :
 
 \+ Frais de rapatriement du Scooter :
 
-●       Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50€
+– Dans les villes incluses (partiellement ou totalement) dans la zone Cityscoot : 50 €
 
-●       Dans les villes limitrophes non incluses dans la zone : 100€
+– Dans les villes limitrophes non incluses dans la zone : 100 €
 
-●       Ailleurs : 200€
+– Ailleurs : 200 €
 
-\+ Frais de gestion de 100€ couvrant les démarches auprès de l’assureur et du cabinet mandaté pour l’expertise seront facturées à l’Utilisateur.
+\+ Frais de gestion de 100 € couvrant les démarches auprès de l’assureur et du cabinet mandaté pour l’expertise seront facturées à l’Utilisateur.
 
    
  
@@ -922,8 +1604,8 @@ Sommes dues au titre de la Franchise (voir Annexe 2) :
 | **Garantie du conducteur** | Franchise Atteinte Permanente à l’Intégrité Physique et Psychique de 15% |
 | **Catastrophes Naturelles** | Franchise légale de 380 € |
 | **Catastrophes Technologiques** | –   |
-| **Vol** | Franchise : 350 € (hors casque) |
-| **Incendie – Forces de la nature** | Franchise : 350 € (hors casque) |
+| **Vol** | Franchise : 500 € (hors casque) |
+| **Incendie – Forces de la nature** | Franchise : 500 € (hors casque) |
 | **Attentats** | –   |
-| **Dommages Tous Accidents** | Franchise : 350 € (hors casque) |
+| **Dommages Tous Accidents** | Franchise : 500 € (hors casque) |
 | **Assistance** | –   |
