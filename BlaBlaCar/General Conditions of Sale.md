@@ -475,37 +475,46 @@ Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et fi
 
 Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
 
-17\. Carte « TotalEnergies»
----------------------------
+17\. Bonus Covoiturage
+----------------------
 
 ### 17.1. Description de l’opération
 
-Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 Euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’une carte carburant ou d’une carte lavage, dans la limite des stocks disponibles.
+Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 Euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’un Bonus Covoiturage dans les conditions prévues notamment par les arrêtés du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie et du 2 décembre 2022 créant une bonification pour les fiches d’opérations standardisées relatives au covoiturage dans le cadre du dispositif des certificats d’économies d’énergie et les conditions ci-après.
 
-Afin d’avoir un rôle actif et incitatif relatif à l’utilisation du covoiturage de façon régulière, TotalEnergies Marketing France vous offre, sous réserve que vous remplissiez les conditions de l’offre (voir 17.2.ci-dessous), une carte carburant utilisable dans les stations-service du réseau accepteur aux marques TotalEnergies, TotalEnergies Access et ELAN en France métropolitaine et en Corse ou une carte lavage utilisable dans les stations-service du réseau accepteur à la marque TotalEnergies Wash en France métropolitaine, hors Corse. La liste à jour des stations-service qui acceptent la carte carburant et la carte lavage ainsi que les conditions générales d’utilisation des cartes sont disponibles sur le site de TotalEnergies à l’adresse suivante : https://services.totalenergies.fr/pro/produits-services/cartes-carburant/carte-jubileo/carte-cadeau-carburant
+Afin d’avoir un rôle actif et incitatif relatif à l’utilisation du covoiturage de façon régulière, TotalEnergies Marketing France vous offre, sous réserve que vous remplissiez les conditions de l’offre (voir 17.2.ci-dessous), une prime en numéraire d’un montant de 25 euros minimum et pouvant être porté à 100 euros sous les conditions précisées ci-dessous.
 
 BlaBlaCar et/ou TotalEnergies Marketing France se réservent la possibilité à tout moment de modifier, suspendre ou mettre fin à cette offre sous réserve de vous en informer.
 
 ### 17.2. Conditions pour bénéficier de l’opération
 
-L’opération est valable jusqu’au 31 décembre 2025. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
+Le Bonus Covoiturage est valable jusqu’au 31 décembre 2025, la bonification à hauteur de 100 euros est valable jusqu’au 31 décembre 2023. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-* (i) vous résidez en France ;
-* (ii) vous être inscrit sur le site www.blablacar.fr ;
-* (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation, dont au moins le point de départ ou le point d’arrivée est situé en France ;
+* (i) vous êtes inscrit sur le site www.blablacar.fr ;
+* (ii) vous êtes titulaire d’un permis de conduire valable en France ;
+* (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation pour une distance supérieure à 80 km en France, dont au moins le point de départ ou le point d’arrivée est situé en France ;
 * (iv) vous avez effectué tout ou partie du Trajet avec un Passager (que vous ne connaissiez pas avant le Trajet) ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
 * (v) vous avez renseigné sur votre profil votre adresse postale en France ;
-* (vi) vous avez renseigné et verifié votre numéro de téléphone portable ;
-* (vii) vous avez reçu, sur votre compte bancaire, le paiement la Participation aux Frais ; et
-* (viii) vous n’avez reçu aucune carte carburant ou carte lavage par l’intermédiaire de la Plateforme précédemment.
+* (vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
+* (vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
+* (viii) vous avez complété vos coordonnées bancaires et reçu le paiement de la Participation aux Frais ;
+* (ix) vous avez validé lors de votre inscription les conditions de l’offre Bonus Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;et
+* (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ;
+* (xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
 
-L’ensemble de ces conditions doivent être remplies dans un délai de 10 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la carte carburant ou à la carte lavage.
+L’ensemble de ces conditions doivent être remplies dans un délai de 8 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre au Bonus Covoiturage.
+
+Le Bonus Covoiturage de 25 euros est porté, dans les conditions réglementaires, à 100 euros pour tout Conducteur réalisant 3 Trajets éligibles supplémentaires via la Plateforme dans un délai de trois (3) mois à compter de la réalisation du premier trajet éligible. Ce bonus vous est attribué sous forme de virement bancaire.
 
 ### 17.3. Contrôle du respect des conditions de l’opération
 
 Les dispositions relatives à l’offre liée aux CEE ne sont applicables qu’une seule fois par Conducteur. Vous acceptez de répondre avec diligence à toute demande de BlaBlaCar en cas de contrôle du respect de cette condition.
 
 En absence de réponse satisfaisante à ces demandes, BlaBlaCar se réserve la possibilité de prendre toute mesure appropriée à votre encontre, notamment de suspendre votre Compte, limiter votre accès aux Services ou résilier les présentes CGU.
+
+De plus, dans le cadre de la réglementation relative aux certificats d’économie d’énergie, vous êtes susceptible d’être contacté par TotalEnergies Marketing France ou l’un de ses partenaires aux fins de vérifications des données, notamment de trajet, contenues dans votre dossier.
+
+Enfin, des informations et données supplémentaires peuvent être sollicitées par notre intermédiaire de la part des organismes chargés du contrôle des CEE et notamment, le Pôle National des Certificats d’Economie d’Energie.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -979,43 +988,34 @@ Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et fi
 
 Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
 
-17\. Bonus Covoiturage
-----------------------
+17\. Carte « TotalEnergies»
+---------------------------
 
 ### 17.1. Description de l’opération
 
-Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 Euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’un Bonus Covoiturage dans les conditions prévues notamment par les arrêtés du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie et du 2 décembre 2022 créant une bonification pour les fiches d’opérations standardisées relatives au covoiturage dans le cadre du dispositif des certificats d’économies d’énergie et les conditions ci-après.
+Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 Euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’une carte carburant ou d’une carte lavage, dans la limite des stocks disponibles.
 
-Afin d’avoir un rôle actif et incitatif relatif à l’utilisation du covoiturage de façon régulière, TotalEnergies Marketing France vous offre, sous réserve que vous remplissiez les conditions de l’offre (voir 17.2.ci-dessous), une prime en numéraire d’un montant de 25 euros minimum et pouvant être porté à 100 euros sous les conditions précisées ci-dessous.
+Afin d’avoir un rôle actif et incitatif relatif à l’utilisation du covoiturage de façon régulière, TotalEnergies Marketing France vous offre, sous réserve que vous remplissiez les conditions de l’offre (voir 17.2.ci-dessous), une carte carburant utilisable dans les stations-service du réseau accepteur aux marques TotalEnergies, TotalEnergies Access et ELAN en France métropolitaine et en Corse ou une carte lavage utilisable dans les stations-service du réseau accepteur à la marque TotalEnergies Wash en France métropolitaine, hors Corse. La liste à jour des stations-service qui acceptent la carte carburant et la carte lavage ainsi que les conditions générales d’utilisation des cartes sont disponibles sur le site de TotalEnergies à l’adresse suivante : https://services.totalenergies.fr/pro/produits-services/cartes-carburant/carte-jubileo/carte-cadeau-carburant
 
 BlaBlaCar et/ou TotalEnergies Marketing France se réservent la possibilité à tout moment de modifier, suspendre ou mettre fin à cette offre sous réserve de vous en informer.
 
 ### 17.2. Conditions pour bénéficier de l’opération
 
-Le Bonus Covoiturage est valable jusqu’au 31 décembre 2025, la bonification à hauteur de 100 euros est valable jusqu’au 31 décembre 2023. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
+L’opération est valable jusqu’au 31 décembre 2025. Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-* (i) vous êtes inscrit sur le site www.blablacar.fr ;
-* (ii) vous êtes titulaire d’un permis de conduire valable en France ;
-* (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation pour une distance supérieure à 80 km en France, dont au moins le point de départ ou le point d’arrivée est situé en France ;
+* (i) vous résidez en France ;
+* (ii) vous être inscrit sur le site www.blablacar.fr ;
+* (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation, dont au moins le point de départ ou le point d’arrivée est situé en France ;
 * (iv) vous avez effectué tout ou partie du Trajet avec un Passager (que vous ne connaissiez pas avant le Trajet) ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
 * (v) vous avez renseigné sur votre profil votre adresse postale en France ;
-* (vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
-* (vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
-* (viii) vous avez complété vos coordonnées bancaires et reçu le paiement de la Participation aux Frais ;
-* (ix) vous avez validé lors de votre inscription les conditions de l’offre Bonus Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;et
-* (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ;
-* (xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
+* (vi) vous avez renseigné et verifié votre numéro de téléphone portable ;
+* (vii) vous avez reçu, sur votre compte bancaire, le paiement la Participation aux Frais ; et
+* (viii) vous n’avez reçu aucune carte carburant ou carte lavage par l’intermédiaire de la Plateforme précédemment.
 
-L’ensemble de ces conditions doivent être remplies dans un délai de 8 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre au Bonus Covoiturage.
-
-Le Bonus Covoiturage de 25 euros est porté, dans les conditions réglementaires, à 100 euros pour tout Conducteur réalisant 3 Trajets éligibles supplémentaires via la Plateforme dans un délai de trois (3) mois à compter de la réalisation du premier trajet éligible. Ce bonus vous est attribué sous forme de virement bancaire.
+L’ensemble de ces conditions doivent être remplies dans un délai de 10 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la carte carburant ou à la carte lavage.
 
 ### 17.3. Contrôle du respect des conditions de l’opération
 
 Les dispositions relatives à l’offre liée aux CEE ne sont applicables qu’une seule fois par Conducteur. Vous acceptez de répondre avec diligence à toute demande de BlaBlaCar en cas de contrôle du respect de cette condition.
 
 En absence de réponse satisfaisante à ces demandes, BlaBlaCar se réserve la possibilité de prendre toute mesure appropriée à votre encontre, notamment de suspendre votre Compte, limiter votre accès aux Services ou résilier les présentes CGU.
-
-De plus, dans le cadre de la réglementation relative aux certificats d’économie d’énergie, vous êtes susceptible d’être contacté par TotalEnergies Marketing France ou l’un de ses partenaires aux fins de vérifications des données, notamment de trajet, contenues dans votre dossier.
-
-Enfin, des informations et données supplémentaires peuvent être sollicitées par notre intermédiaire de la part des organismes chargés du contrôle des CEE et notamment, le Pôle National des Certificats d’Economie d’Energie.
