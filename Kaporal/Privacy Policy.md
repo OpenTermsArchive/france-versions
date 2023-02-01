@@ -142,3 +142,15 @@ Ces demandes d’accès, de rectification ou d’opposition lorsqu’elles sont 
 **ARTICLE 11 : Droit applicable – litiges**
 
 La présente Politique de Confidentialité est régie et interprétée conformément au droit français. Les juridictions françaises de Marseille sont territorialement compétentes pour connaître de tout litige à l'exception des règles de compétence spéciale, notamment en cas de litige avec un consommateur. En cas de contestation concernant la manière dont Kaporal collecte et traite les Données Personnelles, les Clients ont la possibilité d'introduire une réclamation auprès d’une autorité de contrôle compétente.
+
+**ARTICLE 12 : Opération de partenariat JO KO-KAPORAL** 
+
+Dans le cadre du partenariat entre l’application JO KO et l’enseigne KAPORAL, et pour respecter de la règlementation RGPD en matière de traitement des données, veuillez trouver ci-dessous les données suivantes :
+
+* Rôle de Kaporal : responsable de traitement conjoint avec la société Wylr (société exploitant le service de cashback JO-KO) uniquement lors de l’achat sur Kaporal.com par le consommateur.
+* Description du traitement : opération commerciale éphémère de cashback en partenariat avec les services de JO-KO
+* Base légale : consentement
+* Données traitées :  nom, prénom, adresse email, coordonnées bancaires, points de fidélité cumulés, statistiques commerciales fournies par le prestataire
+* Finalités : permettre aux clients d’obtenir un cashback après un achat chez KAPORAL, en fonction des modalités de l’offre
+* Durée de conservation : 36 mois à compter du dernier contact pour les données de prospection commerciale. Le temps de l’opération commerciale pour les autres données.  
+* Les principes essentiels de l’accord de responsabilité conjointe signé entre KAPORAL et le prestataire pourront être fournis à la personne concernée sur demande. »
