@@ -1,10 +1,8 @@
-California Residents: Please see our California Privacy Statement and Notice at Collection here. 
+Résidents de l'État de Californie : veuillez consulter ici notre Déclaration de confidentialité et notre Avis relatif à la collecte des données pour la Californie. 
 
 Résumé des modifications
 
-Nous avons ajouté davantage de détails concernant les données que nous collectons et leur utilisation, ainsi qu'un nouveau moyen de contrôler si elles sont utilisées dans le but d'établir des rapports sur la performance des annonces.
-
-Nous avons ajouté de nouvelles informations pour les résidents de la Californie.
+Nous avons mis à jour la façon dont nous expliquons certaines de nos activités en fonction des modifications apportées à la loi, notamment en ajoutant une Déclaration de confidentialité et un Avis relatif à la collecte des données pour la Californie, et en expliquant certains des choix que nous vous proposons à la lumière des mises à jour concernant la loi de l'État de Virginie.
 
 Merci d’utiliser Pinterest !
 
@@ -34,6 +32,8 @@ Nous pouvons également obtenir des informations à propos de vous et de votre a
 * Certains sites Web ou applications utilisent les fonctionnalités de Pinterest telles que notre bouton « Enregistrer », et il vous est également possible d’installer ce bouton pour votre navigateur. Dans ce cas, nous collectons des données de journal depuis ces sites ou applications. En savoir plus sur ces fonctionnalités dans notre Centre d'aide.
 * Les annonceurs en ligne ou autres tierces parties partagent des informations avec nous pour mesurer, améliorer ou générer des rapports sur l’efficacité des publicités sur Pinterest, ou pour identifier les types d'annonces qu’il convient de vous proposer sur Pinterest ou ailleurs. Ces informations incluent vos visites sur le site d’un annonceur ou les achats que vous avez effectués auprès d’eux, ou des renseignements recueillis depuis un service tiers sur vos centres d’intérêt, dont nous pourrions nous servir pour vous proposer de la publicité. En savoir plus sur les types de données que les annonceurs ou tierces parties partagent avec nous.
 
+Vous pouvez contrôler la façon dont nous utilisons ces informations pour personnaliser votre expérience et les annonces que vous voyez sur Pinterest dans vos paramètres de confidentialité et de partage des données. 
+
 Que faisons-nous des informations que nous collectons
 
 Nous nous engageons à vous proposer du contenu pertinent, intéressant et adapté à votre profil. Pour ce faire, nous nous servons de vos informations pour vous fournir une expérience et l'améliorer, notamment :* Vous identifier lorsque vous utilisez Pinterest.
@@ -50,13 +50,13 @@ Nous avons également un intérêt légitime à sécuriser Pinterest et à amél
 * Examiner vos messages sur Pinterest afin de détecter toute activité présentant un risque pour votre sécurité, celle de votre communauté et/ou celle des membres du public.
 * Effectuer des analyses et des recherches portant sur les utilisateurs de Pinterest et leurs activités sur le site. Par exemple, nous pouvons identifier à quelle fréquence les gens utilisent deux versions différentes d’une fonctionnalité sur Pinterest pour nous aider à comprendre quelle version est la meilleure.
 * Améliorer Pinterest et offrir de nouvelles fonctionnalités.
-* Promouvoir les produits et services Pinterest sur d’autres sites. Vous pouvez choisir de ne pas partager vos informations avec d'autres sites afin de personnaliser ces annonces, comme indiqué dans la section « Choix qui s’offrent à vous concernant vos informations » ci-dessous.
+* Vous faire la promotion des produits et services Pinterest sur d'autres sites Web.Vous pouvez choisir de ne pas nous autoriser à partager vos informations avec d'autres sites Web à des fins de personnalisation de ces annonces en suivant les instructions indiquées ici. Pour en savoir plus, consultez la section « Vos options » ci-dessous.
 * Vous envoyer des mises à jour (notamment lorsque certaines activités telles que des enregistrements ou des commentaires interviennent sur Pinterest), et des actualités par e-mail ou des notifications push, en fonction des paramètres que vous avez définis. Par exemple, nous envoyons chaque semaine des mises à jour incluant des Épingles que vous pourriez apprécier. Vous pouvez décider de ne plus recevoir ces notifications en modifiant vos paramètres.
 
 Nous avons un intérêt légitime à proposer des publicités pertinentes, intéressantes et adaptées à votre profil pour générer du profit. Pour promouvoir ces intérêts, nous utilisons les informations collectées afin de :
 
 * Déterminer quelles publicités vous présenter. Par exemple, si vous montrez de l’intérêt pour les tentes de camping sur Pinterest, nous allons peut-être vous présenter des publicités pour d’autres articles de plein air. Nous personnalisons le contenu de la publicité que nous vous présentons en identifiant vos centres d’intérêt sur la base de vos activités sur le site et en dehors du site, ainsi qu’en exploitant les informations que nous recevons de la part de partenaires publicitaires ou d’autres tierces parties. Si nous utilisons des cookies pour identifier vos centres d’intérêt en dehors du site, nous solliciterons votre consentement au besoin. Si des partenaires publicitaires ou d’autres tierces parties partagent des informations avec nous à votre sujet, nous nous appuyons sur le consentement qu’ils ont déjà obtenu.
-* Dire à nos partenaires publicitaires comment se portent leurs annonces sur Pinterest et comment les améliorer. Certaines de ces informations sont agrégées. Par exemple, nous pourrions rapporter à un annonceur qu’un certain pourcentage d’internautes qui ont vu une annonce sont allés consulter son site. Dans d’autres cas, ces informations ne sont pas agrégées. Par exemple, nous pourrions indiquer à un annonceur qu’une annonce particulière a été enregistrée par certains internautes. Pour en savoir plus sur les rapports concernant les annonces, veuillez consulter le Centre d’aide.
+* Dire à nos partenaires publicitaires comment se portent leurs annonces sur Pinterest et comment les améliorer. Certaines de ces informations sont agrégées. Par exemple, nous pourrions rapporter à un annonceur qu’un certain pourcentage d’internautes qui ont vu une Épingle sponsorisée sont allés consulter son site. En fonction de l'endroit où vous vivez et de vos paramètres, il se peut également que nous divulguions ces informations à un niveau individuel ; ces informations ne sont pas agrégées. Par exemple, nous pourrions indiquer à un annonceur qu’une Épingle sponsorisée particulière a été enregistrée par certains internautes. Pour en savoir plus sur les rapports concernant les annonces, veuillez consulter le Centre d’aide.
 
 Nous avons un intérêt légitime à utiliser les informations que nous collectons pour personnaliser votre expérience sur Pinterest en fonction de votre comportement en dehors du site. Par exemple, si vous visitez des sites Web qui vendent des guitares électriques, nous pouvons vous suggérer des Épingles de guitares. Pour identifier vos centres d’intérêt au moyen de cookies sur la base de votre comportement en dehors du site, nous (ou nos partenaires) solliciterons tous les consentements nécessaires. Pour de plus amples informations concernant la façon dont nous utilisons les cookies, veuillez lire notre Politique d’usage des cookies.
 
@@ -64,10 +64,10 @@ En plus des circonstances spécifiques citées ci-dessus, nous n’utiliserons v
 
 * Permettre la recherche à l’aide de photos. Par exemple, si vous prenez une photo d’une paire de chaussures ou d’un meuble qui vous plait, vous pouvez nous demander de vous montrer des articles similaires. Vous pouvez accepter cette option dans les paramètres du système d’exploitation de votre appareil.
 * Vous envoyer des documents marketing par e-mail, SMS, notifications push ou appel téléphonique, en fonction des paramètres définis dans votre compte ou votre système d’exploitation. Chaque fois que nous vous envoyons des documents marketing, nous vous donnons la possibilité de vous désinscrire.
-* Identifier votre localisation précise et personnaliser le contenu que nous vous présentons. Par exemple, si nous savons que vous vous situez à proximité d'un détaillant, nous pouvons vous montrer certaines de ses Épingles qui pourraient vous intéresser. Vous pouvez accepter cette option dans les paramètres du système d’exploitation de votre appareil.
-* Indiquer à nos partenaires publicitaires comment se portent leurs annonces à l’aide de la balise Pinterest. La balise Pinterest (une portion de code que l'annonceur ajoute à son site) donne des indications à nos partenaires publicitaires et à nous-mêmes sur les actions mises en œuvre par un internaute sur le site Web après qu’il a vu une publicité sur Pinterest. Pour en savoir plus sur la balise Pinterest, veuillez consulter le Centre d’aide.
+* Identifier votre localisation précise et personnaliser les recommandations et les annonces que nous vous montrons. Par exemple, si nous savons que vous vous situez à proximité d'un détaillant, nous pouvons vous montrer certaines de ses Épingles qui pourraient vous intéresser. Vous pouvez accepter cette option dans les paramètres du système d’exploitation de votre appareil.
+* En fonction de l'endroit où vous vivez et de vos paramètres, informer nos partenaires publicitaires des performances de leurs annonces à l'aide la balise Pinterest. La balise Pinterest (une partie de code ajoutée par un annonceur à son site) nous fournit des informations, à nous et à nos partenaires publicitaires, sur les actions qu'une personne réalise sur son site Web après avoir vu une annonce sur Pinterest. Pour en savoir plus sur la balise Pinterest, nous vous invitons à consulter le centre d'aide.
 
-Nous comptons également sur votre consentement lorsque nous utilisons des cookies pour vous présenter des annonces qui pourraient vous intéresser. Nous utilisons des cookies pour identifier vos centres d’intérêt sur la base de votre activité en dehors du site. La démarche s’applique aux utilisateurs existants et nouveaux de Pinterest, et nous aide à personnaliser votre démarrage sur Pinterest.
+Si besoin est, nous nous fierons également à votre consentement lors de l'utilisation de cookies, afin de vous présenter des annonces susceptibles de vous intéresser. Nous utilisons des cookies pour identifier vos intérêts en fonction de votre activité en dehors du site. Nous le faisons pour les membres actuels de Pinterest ainsi que pour les nouveaux membres : cela nous aide à personnaliser vos premiers pas sur Pinterest.
 
 Pour en savoir plus sur la manière dont nous utilisons les cookies et sur les choix qui s’offrent à vous quant à la façon dont nous les utilisons, veuillez consulter notre Politique d’usage des cookies.
 
@@ -84,12 +84,9 @@ Notre objectif est de vous proposer des options simples et utiles concernant les
 * Modifier à tout moment les informations figurant dans votre profil, décider si vous souhaitez rendre votre profil accessible sur les moteurs de recherche, ou choisir si d’autres peuvent trouver votre compte Pinterest en utilisant votre adresse électronique.
 * Associer votre compte Pinterest à d’autres services (Facebook, Google ou Twitter) ou l’en dissocier. Pour certains services (notamment Facebook), vous pouvez également choisir de publier ou non votre activité Pinterest sur le service en question.
 * Modifier les paramètres des tableaux secrets. Les tableaux secrets sont uniquement visibles par vous et les autres collaborateurs du tableau, et tout collaborateur peut choisir de rendre le tableau accessible aux autres. Par exemple, un collaborateur peut inviter une autre personne à participer au tableau, rendre le tableau accessible sur une application qu’il utilise pour consulter Pinterest, ou même simplement prendre une image du tableau et l’envoyer par e-mail à ses amis.
-* Choisir si Pinterest doit être personnalisé pour vous sur la base des informations recueillies depuis d'autres sites Web ou applications. Si vous possédez un compte Pinterest et souhaitez contrôler comment vos données externes à Pinterest sont utilisées pour personnaliser votre expérience, vous pouvez accéder à vos paramètres et mettre à jour vos préférences de personnalisation.
 * Indiquez si les annonces Pinterest qui vous sont livrées sur d'autres plates-formes, sites ou applications sont personnalisées à l'aide d'informations relatives aux activités de votre compte. Vous pouvez contrôler cet élément en consultant vos paramètres et en mettant à jour vos préférences de personnalisation.
-* Choisir si Pinterest partage des informations concernant votre activité sur Pinterest pour le rapport de performance des annonces. Vous pouvez contrôler cet élément en consultant vos paramètres et en mettant à jour vos préférences de personnalisation.
+* Déterminer si Pinterest partage des informations sur votre activité sur Pinterest pour établir des rapports de performance des annonces. Vous pouvez contrôler cela en consultant vos paramètres et en mettant à jour vos préférences de « Personnalisation des données ».
 * Clôturer votre compte à tout moment. Lorsque vous clôturez votre compte, nous le désactivons et supprimons vos Épingles et vos tableaux de Pinterest, ainsi que les données de votre compte. Veuillez noter qu'il peut exister des raisons légales pour que nous conservions vos données, par exemple si nous recevons une demande d'un organisme judiciaire nous demandant de les conserver. Nous pouvons également conserver certaines informations dans nos systèmes de sauvegarde pendant une période limitée ou dans les conditions prévues par la loi.
-
-Nous bénéficions également de paramètres tels que le Suivi publicitaire limité sous iOS, la personnalisation des annonces sur les appareils Android ainsi que la fonction « Ne pas suivre » dans les navigateurs. En savoir plus sur la manière dont « Ne pas suivre » affecte la façon dont nous recueillons et utilisons les données collectées à partir de Pinterest.
 
 Certaines options peuvent aussi vous être proposées via l’appareil ou le logiciel avec lequel vous accédez à Pinterest. Par exemple :
 
@@ -111,7 +108,7 @@ Tout le monde peut voir les tableaux et Épingles publics que vous créez, ains
 
 Combien de temps nous conservons vos informations
 
-Nous conservons vos données aussi longtemps que nécessaire pour vous offrir Pinterest et pour atteindre les objectifs décrits dans la présente politique. C'est également le cas pour tout individu avec lequel nous partageons vos informations personnelles et qui fournit des services pour notre compte. Si nous n'avons plus besoin d'utiliser vos informations et ne devons plus les conserver pour respecter nos obligations légales ou réglementaires, nous les supprimerons de nos systèmes ou les rendrons anonymes afin de ne pas pouvoir vous identifier.
+Nous conservons vos informations uniquement le temps dont nous en avons besoin pour vous fournir les services Pinterest et pour répondre aux fins décrites dans cette politique. Lorsque nous n'aurons plus besoin d'utiliser vos informations ni de les conserver à des fins de respect de nos obligations légales ou réglementaires, nous les supprimerons de nos systèmes ou les anonymiserons afin de ne plus pouvoir vous identifier.
 
 Notre politique relative aux données concernant les enfants
 
@@ -123,11 +120,12 @@ Vous disposez de certaines options par rapport aux informations que nous déteno
 
 * Demander l'accès aux informations que nous collectons et détenons à votre sujet. En principe, nous vous les communiquerons dans les 30 jours suivant votre demande via notre Centre d'aide.
 * Demander la correction ou la suppression de vos informations. Vous pouvez mettre à jour vos informations dans votre profil ou supprimer vos données en fermant votre compte.
+* Désactiver les publicités ciblées. Certaines des activités décrites dans cette politique peuvent être considérées comme des « publicités ciblées » selon certaines lois. Vous pouvez contrôler la façon dont nous utilisons et divulguons des informations pour vous présenter des annonces sur et en dehors de Pinterest en suivant les instructions indiquées dans vos paramètres de confidentialité et de partage des données. Nous prenons également en charge des paramètres tels que le suivi publicitaire limité dans iOS, la personnalisation des annonces sur les appareils Android ainsi que Do Not Track dans les navigateurs. Découvrez comment Do Not Track affecte la collecte et l'utilisation des données collectées en dehors de Pinterest.
 * Vous opposer à ce que nous traitions vos informations. Vous pouvez nous demander de ne plus utiliser vos informations, y compris dans le cas où nous les utilisons pour vous envoyer des e-mails de marketing ou des notifications push. Si vous vous désabonnez de nos communications marketing, vous continuerez à recevoir des messages de notre part concernant des mises à jour de votre compte, notamment lorsqu'un membre commente l'une de vos Épingles.
 * Faire en sorte que les informations que vous nous avez fournies soient envoyées à une autre organisation, à condition que nous détenions ces informations avec votre consentement ou qu'elles nous soient utiles à l'exécution d'un contrat avec vous, dans la mesure des possibilités techniques.
 * Demander plus de détails sur les informations que nous recueillons, ainsi que comment et pourquoi nous les utilisons et les partageons.
 
-Nous ne ferons aucune discrimination à votre encontre si vous choisissez d'exercer une des options en rapport avec vos informations personnelles. Nous nous efforçons de définir clairement vos options ainsi que les conséquences de l’exercice de certaines options. Si vous avez des questions, veuillez nous contacter. 
+Nous ne ferons aucune discrimination à votre encontre si vous choisissez d'exercer une des options en rapport avec vos informations personnelles. Si nous rejetons votre demande, n'hésitez pas à nous contacter pour vérifier si vous pouvez faire appel de notre décision. Nous nous efforçons de définir clairement vos options ainsi que les conséquences de l’exercice de certaines options. Si vous avez des questions, veuillez nous contacter. 
 
 Résidents de l'EEE
 
@@ -145,5 +143,4 @@ Nous contacter
 
 Le meilleur moyen de nous contacter ou d'exercer les options décrites ci-dessus consiste à utiliser le Centre d’aide . Si vous vivez aux États-Unis, Pinterest Inc. est responsable de vos informations. Vous pouvez contacter Pinterest Inc. au 651 Brannan Street, à San Francisco, CA 94107, États-Unis.
 
-Entrée en vigueur le 2 septembre 2020  
-Dernière mise à jour le 1er juillet 2021
+En vigueur depuis le 16 décembre 2022
