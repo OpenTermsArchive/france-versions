@@ -1237,7 +1237,7 @@ _Lorsque le professionnel n'a pas procédé au remboursement dans les conditions
   
 **ARTICLE 6 - RETRACTATION**
 
-Conformément aux dispositions de l’article L221-18 du code de la consommation, l’Abonné dispose d’un délai de quatorze (14) jours suivants la Date de souscription au Service pour se rétracter.
+Conformément aux dispositions de l’article L221-18 du code de la consommation, l’Abonné dispose d’un d’lai de quatorze (14) jours suivants la Date de souscription au Service pour se rétracter.
 
 L'Abonné peut faire usage de son droit de rétractation :
 
