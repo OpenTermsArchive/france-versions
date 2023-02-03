@@ -1,194 +1,190 @@
-Last modified on 02/02/2023
+Dernière modification le 25/11/2022
 
-**Twitch.tv****Privacy Notice**
-===============================
+**Notice sur la Protection de vos informations personnelles**
+=============================================================
 
-Last updated: February 2, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/).
+Le présent Avis de confidentialité Twitch s'applique à votre utilisation de www.twitch.tv, et de tous les autres sites Web, applications, services ou événements live (en personne) fournis, détenus ou exploités par Twitch Interactive, Inc. (avec ses filiales, « Twitch ») qui renvoient au présent Avis de confidentialité (collectivement, les « Services Twitch »). Twitch respecte la vie privée des utilisateurs, abonnés, éditeurs, membres et autres personnes qui visitent et utilisent les Services Twitch (collectivement ou individuellement, « vous » ou « utilisateurs ») et souhaite vous indiquer comment nous recueillons, utilisons et divulguons les informations personnelles vous concernant et transmises par vos soins. En visitant [www.twitch.tv](http://www.twitch.tv/), en configurant votre compte Twitch ou en utilisant les Services Twitch, vous acceptez les pratiques décrites dans le présent Avis de confidentialité, dans la mesure permise par la loi.
 
-Twitch Interactive Inc. and its affiliates are subsidiaries of Amazon.com, Inc. (“Amazon”).
+Aux fins des lois sur la protection des données, Twitch Interactive, Inc. situé au 350 Bush Street, 2nd Floor, San Francisco, CA 94104, est le « responsable de traitement des données » de vos informations collectées en relation avec les Services Twitch.
 
-This Twitch Privacy Notice applies to your use of www.twitch.tv, and any other websites, applications, services, or live (in-person) events provided, owned, or operated by Twitch Interactive, Inc. (with its affiliates, “Twitch”) that link to this Privacy Notice (collectively, the “Twitch Services”). Twitch values the privacy of users, subscribers, publishers, members, and others who visit and use the Twitch Services (collectively or individually, “you” or “users”) and wants you to be familiar with how we collect, use, and disclose personal information from and about you. By visiting [www.twitch.tv](http://www.twitch.tv/), setting up your Twitch account, or using the Twitch Services, you are accepting the practices described in this Privacy Notice, to the extent permitted by law.
+Vous pouvez partager des informations personnelles lorsque vous utilisez les Services Twitch : par exemple, lorsque vous fournissez des informations vous concernant dans le cadre de la procédure de création d'un compte Twitch, ou encore lorsque vous effectuez certaines actions sur les Services Twitch à caractère public ou destinées à revêtir un caractère public, comme lorsque vous diffusez du contenu, participez à un salon de discussion, postez des informations sur votre profil, suivez une chaîne ou que vous vous abonnez à une chaîne. Étant donné le caractère social de certains Services Twitch, ces informations peuvent être collectées, utilisées ou divulguées par d'autres personnes qui font partie de cette interaction sociale. En outre, certaines fonctionnalités des Services Twitch sont conçues pour fournir à autrui des informations sur l'activité de l'utilisateur, comme l'identification de l'utilisateur qui a créé un clip vidéo précis ou le statut d'abonnement des utilisateurs d'une chaîne donnée. Nous vous encourageons à en tenir compte lorsque vous envisagez votre activité sur les Services Twitch.
 
-For purposes of data protection laws, Twitch Interactive, Inc. located at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, is the “data controller” of your information collected in connection with the Twitch Services.
+Le stockage et l'accès aux cookies qui peuvent être définis en relation avec les Services Twitch sont régis par l'[Avis relatif aux cookies](https://www.twitch.tv/p/en/legal/cookie-notice/) de Twitch (« Avis relatif aux cookies »).
 
-You may share personal information when using the Twitch Services. One example is when you provide information about yourself as part of the Twitch account creation process. Another is when you take certain actions on the Twitch Services that are public or intended to be public in nature, such as when you broadcast content, participate in a chat room, post profile information, follow a channel, or subscribe to a channel. Given the social nature of some of the Twitch Services, that information may be collected, used, or disclosed by others who are part of that social interaction. In addition, some features of the Twitch Services are designed to provide others with information about user activity, such as identifying the user who created a particular Clip or the subscription status of users for a given channel. We encourage you to be mindful of this when considering your activity on the Twitch Services.
+Sommaire
+--------
 
-Storage and access to cookies that may be set in connection with the Twitch Services are governed by the Twitch [Cookie Notice](https://www.twitch.tv/p/en/legal/cookie-notice/) (“Cookie Notice”).
+1. [Informations personnelles recueillies par Twitch vous concernant](#personal-information-twitch-collects-about-you)
+2. [Utilisation des informations personnelles par Twitch](#how-twitch-uses-personal-information)
+3. [Twitch et la divulgation de renseignements personnels](#when-twitch-discloses-personal-information)
+4. [Droits des personnes concernées et vos choix](#data-subject-rights-and-your-choices)
+5. [Fermeture et suppression de compte](#account-closure-and--deletion)
+6. [Sites Web et services tiers](#third-party-services-and-websites)
+7. [Extensions et applications](#extensions-and-applications)
+8. [Annonceurs et fournisseurs de services analytiques](#advertisers-and-analytics-providers)
+9. [Ne pas suivre](#do-not-track)
+10. [Sécurité des données](#data-security)
+11. [Conservation de vos données](#retention-of-your-information)
+12. [Protection de la vie privée des enfants](#childrens-privacy)
+13. [Fusion ou vente](#merger-or-sale)
+14. [Transferts de données internationaux](#international-data-transfers)
+15. [Modifications et mises à jour de la présente Notice sur la Protection de vos informations personnelles](#changes-and-updates-to-this-privacy-notice)
+16. [Informations de contact Twitch](#twitch-contact-information)
+17. [Informations supplémentaires pour certaines juridictions](#additional-information-for-certain-jurisdictions)
 
-Table of Contents
------------------
+Informations personnelles recueillies par Twitch vous concernant
+----------------------------------------------------------------
 
-1. [Personal Information Twitch Collects About You](#personal-information-twitch-collects-about-you)
-2. [How Twitch Uses Personal Information](#how-twitch-uses-personal-information)
-3. [When Twitch Discloses Personal Information](#when-twitch-discloses-personal-information)
-4. [Data Subject Rights and Your Choices](#data-subject-rights-and-your-choices)
-5. [Account Closure and Deletion](#account-closure-and--deletion)
-6. [Third-Party Websites and Services](#third-party-services-and-websites)
-7. [Extensions and Applications](#extensions-and-applications)
-8. [Advertisers and Analytics Providers](#advertisers-and-analytics-providers)
-9. [Do Not Track](#do-not-track)
-10. [Data Security](#data-security)
-11. [Retention of Your Information](#retention-of-your-information)
-12. [Children’s Privacy](#childrens-privacy)
-13. [Merger or Sale](#merger-or-sale)
-14. [International Data Transfers](#international-data-transfers)
-15. [Changes and Updates to This Privacy Notice](#changes-and-updates-to-this-privacy-notice)
-16. [Twitch Contact Information](#twitch-contact-information)
-17. [Additional Information for Certain Jurisdictions](#additional-information-for-certain-jurisdictions)
+Nous obtenons des informations vous concernant par le biais des moyens évoqués ci-après lorsque nous fournissons les Services Twitch. Veuillez noter que nous avons besoin de certains types d’informations afin de pouvoir vous fournir les Services Twitch. Si vous ne nous fournissez pas ces informations ou si vous nous demandez de les supprimer, il se peut que vous ne puissiez plus accéder ou utiliser les Services Twitch.
 
-Personal Information Twitch Collects About You
-----------------------------------------------
+Informations fournies par l'utilisateur : lorsque vous vous inscrivez à des services Twitch ; chargez, achetez, consultez ou téléchargez certains contenus ou produits des Services Twitch ; participez à des concours ou des tirages au sort ; inscrivez-vous à des événements en direct (en personne) ou participez à ces derniers ; ou utilisez les fonctionnalités les Services Twitch d'une autre façon, vous pouvez nous fournir une variété d'informations vous concernant, telles que votre nom, votre voix ou votre image (dans tout contenu que vous téléchargez, diffusez ou auquel vous participez), votre nom d’utilisateur Twitch, votre adresse e-mail, votre adresse postale, votre numéro de téléphone, votre numéro de carte bancaire et toute information relative à la facturation.
 
-We obtain information about you through the means discussed below when we provide the Twitch Services. Please note that we need certain types of information so that we can provide the Twitch Services to you. If you do not provide us with such information, or ask us to delete it, you may no longer be able to access or use the Twitch Services.
+Informations collectées automatiquement : lorsque vous accédez aux Services Twitch ou que vous ouvrez l'un de nos courriels, nous pouvons automatiquement enregistrer et stocker certaines informations concernant votre système à l'aide de cookies et d'autres types de technologies. Les cookies sont de petits fichiers texte contenant une chaîne de caractères alphanumériques qui sont envoyés à votre navigateur. Pour plus d'informations sur les cookies, leur fonctionnement, la façon dont Twitch les utilise et leur suppression, veuillez consulter notre [Avis relatif aux cookies](https://www.twitch.tv/p/legal/cookie-notice/). Les informations que nous recueillons automatiquement peuvent comprendre par exemple l'adresse de protocole Internet (« Adresse IP »), un identifiant d'utilisateur unique, les types et identifiants des appareils et des navigateurs, les adresses de page référentes et de sortie, le type de logiciel et de système, et des informations sur votre utilisation des Services Twitch. Voici quelques exemples de la façon dont Twitch utilise les informations recueillies automatiquement : (a) mettre automatiquement à jour l'application Twitch sur votre système ; (b) enregistrer vos informations afin que vous n'ayez pas à les saisir à nouveau pendant votre visite ou la prochaine fois que vous accédez aux Services Twitch ; (c) fournir des publicités, contenus et informations personnalisés ; (d) surveiller l'efficacité des campagnes de marketing ; (e) surveiller et stocker des mesures globales d'utilisation du site telles que le nombre total de visiteurs et de pages consultées ; et (f) suivre vos entrées, soumissions et statuts dans les promotions ou autres activités.
 
-User-provided Information: When you register for Twitch Services; upload, purchase, view, or download certain content or products from the Twitch Services; enter contests or sweepstakes; register for or attend a live (in-person) event; or otherwise use the features and functionality of the Twitch Services, you may provide a variety of information about yourself to us, such as your name, voice, or image (in any content you upload, stream, or participate in), Twitch username, email address, postal mailing address, telephone number, credit card number, and billing information.
+Événements Twitch Live (en personne) : Twitch organise des événements live (en personne) qui peuvent inclure des créateurs, des orateurs et des exposants. Ces événements seront photographiés, enregistrés et diffusés, à la fois par Twitch et par d'autres, et ces supports peuvent être utilisés à des fins promotionnelles. De plus, les badges des participants peuvent être scannés avec leur autorisation. À certains endroits ou dans le cadre de certaines expériences, vous aurez parfois la possibilité de scanner votre badge. Si vous scannez votre badge ou si vous acceptez que votre badge soit scanné par le personnel des événements Twitch, les données seront utilisées à diverses fins telles que les analyses, les produits promotionnels ou le traitement des prix conformément à cet Avis. Les exposants peuvent vous proposer de scanner votre badge lorsque vous visitez leur espace ou leurs événements. En autorisant les exposants à scanner votre badge, vous comprenez que Twitch peut transférer vos informations personnelles à l'exposant et qu'une fois transférés, vos informations personnelles sont soumises à l'avis de confidentialité de l'exposant et que ce dernier peut être amené à vous contacter directement.
 
-Automatically Collected Information: When you access the Twitch Services or open one of our emails, we automatically record and store certain information about your system by using cookies and other types of technologies. Cookies are small text files containing a string of alphanumeric characters that are sent to your browser. For information about what cookies are, how they work, how Twitch uses them, and how to remove them, please see our [Cookie Notice](https://www.twitch.tv/p/legal/cookie-notice/) . Examples of such information we automatically collect include Internet Protocol address (“IP Address”), a unique user ID, device and browser types and identifiers, referring and exit page addresses, software and system type, and information about your usage of Twitch Services. Examples of how Twitch uses automatically collected information include to: (a) automatically update the Twitch application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Twitch Services; (c) provide customized advertisements, content, and information; (d) monitor the effectiveness of marketing campaigns; (e) monitor and store aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities.
+Informations d'autres sources : nous pouvons obtenir des informations supplémentaires auprès de tiers et de sources autres que les Services Twitch. Par exemple, nous pouvons obtenir des informations supplémentaires auprès des annonceurs, des jeux ou des services que vous utilisez, ou des réseaux sociaux (tels que Discord, Steam ou YouTube) pour lesquels vous avez approuvé notre accès. Lorsque vous accédez aux Services Twitch via les réseaux de médias sociaux ou lorsque vous connectez les Services Twitch aux réseaux de médias sociaux, vous autorisez Twitch à collecter, à stocker et à utiliser ces informations et contenus supplémentaires conformément à la présente Notice sur la protection de vos informations personnelles. Nous pouvons également obtenir des informations auprès de services tiers tels que Riot ou Steam concernant votre utilisation de ces services, y compris sur votre utilisation du contenu que vous choisissez de diffuser par l'intermédiaire des Services Twitch. Nous utilisons ces informations pour compléter les informations que nous collectons vous concernant afin de vous fournir des expériences plus pertinentes et plus sûres avec les Services Twitch et afin d'améliorer les Services Twitch, les analyses et la publicité. Si nous combinons ou associons des informations provenant d'autres sources avec des informations que nous collectons par le biais des Services Twitch, nous traiterons les informations combinées conformément à la présente Notice sur la protection de vos informations personnelles.
 
-Twitch Live (in-person) Events: Twitch holds live (in-person) events that may include creators, speakers, and exhibitors. These events will be photographed, recorded, and streamed, both by Twitch and by others, and these materials may be used for promotional purposes. In addition, attendees’ badges may be scanned with their permission. There will be various places where you may be given the option to, or experiences for which you may be required to, scan your badge. If you scan your badge or agree to have your badge scanned by Twitch events staff, the data will be used for various purposes such as analytics, promotional products, or prize fulfillment consistent with this Notice. Exhibitors may offer to scan your badge when you visit their area or events. By allowing exhibitors to scan your badge, you understand that Twitch may transfer your personal information to the exhibitor and that, once transferred, your personal information is subject to the exhibitor’s privacy notice and the exhibitor may contact you directly afterwards.
+Utilisation des informations personnelles par Twitch
+----------------------------------------------------
 
-Information from Other Sources: We may obtain additional information from third parties and sources other than the Twitch Services. For example, we may obtain additional information from advertisers, games or services you use, or social media networks (such as Discord, Steam, or YouTube) for which you have approved our access. When you access the Twitch Services through social media networks or when you connect the Twitch Services to social media networks, you are authorizing Twitch to collect, store, and use such additional information and content in accordance with this Privacy Notice. We may also obtain information from third-party services (such as Riot or Steam) regarding your use of such services, including about your use of the content you choose to broadcast through the Twitch Services. We use this information to supplement the information we collect about you in order to provide more relevant, safer experiences for you with the Twitch Services and improve the Twitch Services, analytics, and advertising. If we combine or associate information from other sources with information that we collect through the Twitch Services, we will treat the combined information in accordance with this Privacy Notice.
+Twitch utilise ces informations pour exploiter, maintenir, améliorer, fournir, créer et développer toutes les caractéristiques, fonctionnalités et services (nouveaux ou existants) trouvés sur les Services Twitch ; assurer la sécurité de nos sites Web, produits, logiciels, applications ou événements live (en personne) ; gérer les relations avec les titulaires de comptes Twitch (par exemple, les partenaires, les affiliés), y compris effectuer ou recevoir des paiements ; améliorer l'expérience des utilisateurs avec Twitch en fournissant des recommandations de contenu et en fournissant du contenu qui nous semble pertinent et intéressant pour les utilisateurs, y compris des messages publicitaires et marketing ; vous permettre de commenter le contenu et de participer à des jeux en ligne, des concours ou des programmes de récompenses; prévenir la fraude et les abus ; et comprendre les tendances d'utilisation de nos utilisateurs.
 
-How Twitch Uses Personal Information
-------------------------------------
+Nous utilisons votre adresse e-mail et/ou votre numéro de téléphone pour communiquer avec vous, y compris pour vous informer des mises à jour majeures des Services Twitch, à des fins de service client, ou pour vous contacter au sujet de tout contenu que vous avez publié ou téléchargé à partir des Services Twitch. Si vous souhaitez ne plus recevoir de notifications par téléphone, répondez STOP à l'un de nos SMS. Notez que nous pouvons toujours vous envoyer des notifications supplémentaires d'information ou de transaction.
 
-Twitch uses such information to operate, maintain, enhance, provide, create, and develop all of the features, functionality, and services (new or existing) found on the Twitch Services; provide security for our websites, products, software, applications, or live (in-person) events; manage relationships with Twitch account holders (e.g., Partners, Affiliates), including making or receiving payment; improve users’ experience with Twitch by providing content recommendations and by delivering content that we hope users will find relevant and interesting, including advertising and marketing messages; allow you to comment on content, and participate in online games, contests, or rewards programs; prevent fraud and abuse; and understand the usage trends of our users.
+Twitch peut périodiquement vous envoyer du matériel promotionnel ou des notifications relatives aux Services Twitch. Si vous ne souhaitez plus recevoir de matériel promotionnel, connectez-vous aux Services Twitch et accédez aux paramètres de votre compte, ou suivez les instructions de désabonnement au bas d'un de nos e-mails. Si vous avez installé une application mobile et ne souhaitez plus recevoir de notifications push, vous pouvez modifier les paramètres sur votre appareil mobile ou via l'application.
 
-We use your email address and/or telephone number to communicate with you, including to notify you of major Twitch Services updates, for customer service purposes, or to contact you regarding any content that you have posted to or downloaded from the Twitch Services. If you want to stop receiving notifications by telephone, reply STOP to any text message from us. Note that we may still send you additional informational or transactional notifications.
+Afin de respecter les obligations légales, Twitch peut collecter et traiter des informations utilisateur si nous pensons de bonne foi que cette collecte et ce traitement sont nécessaires afin de se conformer aux lois fédérales et d'État américaines ou à d'autres lois applicables dans le monde entier (par exemple, dans votre pays de résidence), ou répondre à une ordonnance d'un tribunal, judiciaire, ou toute autre demande, assignation à comparaître ou mandat du gouvernement de la manière tel que requis par la loi.
 
-Twitch may periodically send promotional materials or notifications to you related to the Twitch Services. If you want to stop receiving promotional materials, you can go to your account settings once you have logged in to the Twitch Services or follow the unsubscribe instructions at the bottom of any email from us. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+Nous pouvons également vous demander votre consentement pour traiter vos informations personnelles à des fins précises que nous vous communiquons. Lorsque vous consentez à ce que nous traitions vos informations personnelles dans un but précis, vous pouvez retirer votre consentement à tout moment et nous cesserons de traiter vos données à cette fin.
 
-In order to meet legal obligations, Twitch may collect and process user information if we believe in good faith that such collection and processing is necessary to comply with U.S. state and federal laws or other applicable laws around the world (for example, in the country of your residence), or respond to a court order, judicial, or other government request, subpoena, or warrant in the manner legally required.
+Twitch s'appuiera sur des motifs juridiques pour traiter vos informations personnelles dans la mesure permise par la loi applicable, qui peut inclure, sans s'y limiter : honorer les engagements contractuels, documenter votre consentement et accepter les intérêts légitimes de Twitch. Ces intérêts légitimes incluent notamment : surveiller et analyser l'utilisation des services Twitch, communiquer avec les utilisateurs enregistrés par le biais de notifications ou d'e-mails concernant les produits et services Twitch, faire de la publicité, répondre aux demandes ou plaintes des utilisateurs potentiels ou réels de Twitch, prendre les mesures appropriées ou nécessaires pour protéger Twitch contre une responsabilité potentielle ou des utilisations frauduleuses, abusives ou illégales ; enquêter et nous défendre contre les réclamations ou allégations de tiers ; protéger la sécurité ou l’intégrité des Services Twitch ; ou protéger les droits, la propriété ou la sécurité de Twitch, de nos utilisateurs ou d'autres personnes.
 
-We may also ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop the processing of your data for that purpose.
+Twitch et la divulgation de renseignements personnels
+-----------------------------------------------------
 
-Twitch will rely on legal grounds to process your personal information to the extent permitted by applicable law, which may include, without limitation: to honor contractual commitments, to take steps in anticipation of entering into contract, to fulfill legal obligations, to document your consent, and to support Twitch’s legitimate interests. Some examples of these legitimate interests include: monitoring and analyzing the use of Twitch services, communicating with registered users through notifications or emails regarding Twitch products and services, advertising, responding to inquiries or complaints from potential or actual Twitch users, taking appropriate or necessary actions to protect Twitch from potential liability or from fraudulent, abusive, or unlawful uses; investigating and defending ourselves against third-party claims, or allegations; protecting the security or integrity of the Twitch Services; or protecting the rights, property, or safety of Twitch, our users, or others.
+Nous partageons ces informations comme décrit ci-après :
 
-When Twitch Discloses Personal Information
-------------------------------------------
+Nous divulguons ces informations à des fournisseurs de services travaillant en notre nom, notamment pour les tâches suivantes : fournir des services d’hébergement, de maintenance et de sécurité de sites Web ; exécuter les commandes ; effectuer l'analyse des données et créer des rapports ; offrir certaines fonctionnalités; assurer l'organisation d'événements live (en personne); ou aider Twitch à améliorer les Services Twitch et à créer de nouveaux services et fonctionnalités. Nous exigeons que ces parties traitent ces informations conformément à la présente Notice sur la Protection de vos informations personnelles, nous les autorisons à utiliser les informations uniquement aux fins pour lesquelles elles leur sont fournies, et nous exigeons qu'elles aient recours à des mesures de confidentialité raisonnables.
 
-Information about Twitch users is an important part of our business and our work to provide the best experience across Twitch services. We take seriously the responsibility of safeguarding your personal information and honor the trust you place in Twitch. Twitch is not in the business of selling our users’ personal information to others. Twitch shares personal data only as described below and with our parent company, Amazon.com, Inc., and the subsidiaries that Amazon.com, Inc. controls, that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+Twitch peut mettre des informations à la disposition de nos sociétés affiliées (c'est-à-dire des entités contrôlées par, contrôlant ou sous contrôle commun avec Twitch), y compris Amazon.com, Inc. et ses filiales qui sont soumises à la présente Notice sur la Protection de vos informations personnelles ou qui suivent des pratiques au moins aussi protectrices que celles décrites dans la présente Notice sur la Protection de vos informations personnelles.
 
-We disclose such information to service providers working on our behalf, such as, to: provide website hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; or assist Twitch in improving the Twitch Services and creating new services and features. We require that these parties process such information in compliance with this Privacy Notice, we authorize them to use the information only for the purposes for which it is provided to them, and we require them to use reasonable confidentiality measures.
+Twitch peut divulguer des informations sur les utilisateurs si nous pensons de bonne foi qu'une telle divulgation est nécessaire au respect des lois fédérales et des États américains ou à d'autres lois applicables dans le monde entier (par exemple, dans votre pays de résidence), ou satisfaire à une décision de justice, une demande judiciaire ou administrative, une citation à comparaître ou un mandat dans les formes exigées par la loi.
 
-Twitch may share personal information with, and receive personal information from, our affiliates (meaning entities controlled by, controlling, or under common control with Twitch), including Amazon.com, Inc. and its subsidiaries that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. Personal information collected by Twitch may be combined with personal information about Amazon customers, and that combined information may be used by both Twitch and Amazon to operate, provide, develop, and improve Amazon’s and Twitch’s products and services.
+Twitch se réserve également le droit de divulguer des informations que nous estimons, de bonne foi, appropriées ou nécessaires pour protéger Twitch d'une responsabilité éventuelle ou d'utilisations frauduleuses, abusives ou illégales ; enquêter et nous défendre contre les réclamations ou allégations de tiers ; protéger la sécurité ou l'intégrité des Services Twitch ; ou protéger les droits, la propriété ou la sécurité de Twitch, de nos utilisateurs ou d'autres personnes.
 
-Twitch may disclose user information if we believe in good faith that such disclosure is necessary to comply with U.S. state and federal laws or other applicable laws around the world (for example, in the country of your residence), or respond to a court order, judicial or other government request, subpoena, or warrant in the manner legally required.
+À l'exception de ce qui est indiqué dans la présente Notice sur la Protection de vos informations personnelles, vous recevrez un avis lorsque des informations personnelles vous concernant pourraient être partagées avec des tiers et vous aurez la possibilité de choisir de ne pas partager ces informations.
 
-Twitch also reserves the right to disclose information that we believe, in good faith, is appropriate or necessary to protect Twitch from potential liability or from fraudulent, abusive, or unlawful uses; investigate and defend ourselves against third-party claims, or allegations; protect the security or integrity of the Twitch Services; or protect the rights, property, or safety of Twitch, our users, or others.
+Droits des personnes concernées et vos choix
+--------------------------------------------
 
-Other than as set out in this Privacy Notice, you will receive notice when personal information about you might be shared with third parties and you will have an opportunity to choose not to share the information.
+La page des Choix de confidentialité de Twitch décrit vos options en ce qui concerne les services de Twitch, y compris des informations sur les façons dont vous pouvez consulter, modifier ou supprimer des informations que Twitch peut avoir sur vous. Vous pouvez refuser de partager certaines informations avec Twitch, auquel cas Twitch peut ne pas être en mesure de vous fournir certaines fonctions et fonctionnalités des Services Twitch. Si vous avez créé un compte de services Twitch, en fonction du service, vous pouvez mettre à jour les informations et préférences de votre profil ou désactiver votre compte en vous connectant et en accédant à la page des paramètres : www.twitch.tv.
 
-Data Subject Rights and Your Choices
-------------------------------------
+Pour toute autre demande de révision, de mise à jour, de suppression ou de limitation de l'utilisation par Twitch des informations que vous avez transmises directement à Twitch, contactez-nous [ici](https://help.twitch.tv/s/contactsupport) dans la catégorie « Questions de confidentialité ». Pour protéger votre vie privée et votre sécurité, nous pouvons prendre des mesures afin de vérifier votre identité avant de vous accorder l'accès ou d'apporter des corrections à vos informations. Vous êtes responsable du maintien de la confidentialité de votre mot de passe unique et des informations relatives à votre compte en tout temps.
 
-Twitch’s [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices) page describes your privacy options with respect to the Twitch services, including information about how you may be able to review, update, or delete information that Twitch may have about you. You may decline to share certain information with Twitch, in which case Twitch may not be able to provide to you some of the features and functionality found on the Twitch Services. If you have created a Twitch Services account, depending on the service, you may be able to update your profile information and preferences or disable your account by logging in and going to the settings page – for example, www.twitch.tv.
+Nous nous conformerons aux demandes valides d'exercer vos droits de personne concernée conformément aux lois applicables dans votre région. Veuillez noter que dans certaines circonstances, il se peut que nous ayons besoin de continuer à traiter vos informations pour certains intérêts légitimes ou pour nous conformer à une obligation légale. Si ces droits s’appliquent à vous, ils peuvent vous permettre de faire les demandes suivantes :
 
-For other requests to review, update, delete, or otherwise limit Twitch’s use of information that you have provided directly to Twitch, contact us [here](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category. To protect your privacy and security, we may take steps to verify your identity before granting you access or making corrections to your information. You are responsible for maintaining the secrecy of your unique password and account information at all times.
+* Obtenir l'accès à ou une copie de certaines informations personnelles que nous détenons vous concernant.
+* Empêcher le traitement de vos informations personnelles à des fins de prospection (y compris tout traitement de prospection fondée sur le profilage).
+* Mettre à jour les informations personnelles qui sont obsolètes ou inexactes.
+* La suppression de certaines informations personnelles que nous détenons vous concernant.
+* Limiter la façon dont nous traitons et divulguons des informations personnelles spécifiques vous concernant.
+* Le transfert de vos informations personnelles à un fournisseur de services tiers.
+* Révoquer le consentement que vous avez fourni précédemment pour le traitement de vos informations personnelles.
 
-We will comply with valid requests to exercise your data subject rights in accordance with the applicable laws in your region. Please note that in some circumstances, we may need to keep processing your information for certain legitimate interests or to comply with a legal obligation. If these rights apply to you, they may permit you to request that we:
+Pour en savoir plus sur la façon d'exercer ces droits, cliquez ici. Le cas échéant, vous pouvez déposer une plainte auprès de l'autorité de contrôle de la protection des données du pays dans lequel vous êtes établi. Vous pouvez également vous adresser aux tribunaux locaux si vous estimez que vos droits ont été violés.
 
-* Obtain access to or a copy of certain personal information we hold about you.
-* Prevent the processing of your personal information for direct marketing purposes (including any direct marketing processing based on profiling).
-* Update personal information that is out of date or incorrect.
-* Delete certain personal information we hold about you.
-* Restrict the way that we process and disclose specific personal information about you.
-* Transfer your personal information to a third-party provider of services.
-* Revoke consent that you previously provided for the processing of your personal information.
+Fermeture et suppression de compte
+----------------------------------
 
-For more information on how to exercise these rights, click [here](https://www.twitch.tv/p/legal/privacy-choices/). If applicable, you may make a complaint to the data protection supervisory authority in the country where you are based. Alternatively, you may seek a remedy through local courts if you believe your rights have been breached.
+Si vous souhaitez clôturer votre compte et supprimer les informations de votre profil sur [www.twitch.tv](http://www.twitch.tv/), allez à l'adresse [https://www.twitch.tv/user/delete\_account](https://www.twitch.tv/user/delete_account). Pour les Services Twitch autres que [twitch.tv](http://twitch.tv/), vous pouvez mettre à jour ou supprimer les informations liées à votre compte, ou fermer un compte, [Contactez le support](https://help.twitch.tv/s/contactsupport) dans la catégorie « Questions de confidentialité ». Si vous fermez votre compte, Twitch peut conserver certaines informations vous concernant pour les activités décrites dans cette Notice sur la protection de vos informations personnelles, ou selon ce qui est permis ou requis par la loi applicable.
 
-Account Closure and Deletion
-----------------------------
-
-If you would like to close your account and delete your profile information on [www.twitch.tv](http://www.twitch.tv/) go to [https://www.twitch.tv/user/delete\_account.](https://www.twitch.tv/user/delete_account) For Twitch Services other than [twitch.tv](http://twitch.tv/), you may update or delete information tied to your account, or close an account, [Contact Support](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category. If you close your account, Twitch may retain certain information about you for the activities described in this Privacy Notice, or as permitted or required by applicable law.
-
-Third-Party Services and Websites
----------------------------------
-
-The Twitch Services may link to third-party websites or services. The privacy practices of those third parties are not governed by this Privacy Notice. We encourage you to review the privacy policies of these third-party websites and services to understand their practices.
-
-If you connect to a third-party service (such as Discord, Riot Games, or Xbox) through the Twitch Services or otherwise link your Twitch account with a third-party service, you are requesting and authorizing us to share or grant access to information on your behalf (such as your username, the fact that your connection originated from the Twitch Services, and other relevant usage and diagnostic information) with such third party. We may also send information about the content you watch or your activities on the Twitch Services to such third parties. For example, we may make information available to app developers, game developers, and game publishers to facilitate purchases and awards of digital goods, such as games and in-game items.
-
-Extensions and Applications
+Sites Web et services tiers
 ---------------------------
 
-The [Twitch Extensions](https://dev.twitch.tv/extensions) program allows creators to embed interactive, custom, third-party content and applications on their channel pages. You can find out more about the specific Extension(s) operating on a given channel by clicking on the attribution links or icons that Twitch will make available on the channel page, for example, on the Twitch video player or at the bottom of an Extension’s panel.
+Les Services Twitch peuvent établir des liens vers des sites Web ou des services tiers. Les pratiques en matière de vie privée de ces tiers ne sont pas régies par la présente Notice sur la Protection de vos informations personnelles. Nous vous encourageons à examiner les politiques de confidentialité de ces sites Web et services tiers pour en comprendre les pratiques.
 
-Interaction by a viewer with an Extension or with the channel on which the Extension is activated will provide the developer that operates the Extension with viewer information of the nature described above in “Automatically Collected Information.” Twitch does not provide access to your user name or ID to third-party Extension developers as part of the Twitch Extensions program unless you click “Grant Access” within the Extension or you install an Extension on your channel. You are responsible for any information you provide to the developer independently, for example, through a web form on the Extension or visiting that developer’s website.
+Si vous vous connectez à un service tiers (comme Discord, Riot Games ou Xbox) par le biais des Services Twitch ou si vous liez votre compte Twitch à un service tiers, vous demandez et vous nous autorisez à partager ou à accorder l'accès aux informations relatives à votre compte (comme votre nom d’utilisateur, le fait que votre connexion provienne des services Twitch, et d'autres informations pertinentes d'utilisation et de diagnostic) avec ce tiers. Nous pouvons également envoyer des informations sur le contenu que vous regardez ou vos activités sur les Services Twitch à ces tiers. Par exemple, nous pouvons mettre des informations à la disposition des développeurs d'applications, des développeurs de jeux et des éditeurs de jeux pour faciliter l'achat et l'attribution de biens numériques, tels que des jeux et des objets au sein des jeux.
 
-Developers may also create Applications that are not located on channel pages or on Twitch. We require Extension and Application developers to process data about you only for the purposes set forth in our [Developer Services Agreement](https://www.twitch.tv/p/legal/developer-agreement/). We encourage you to visit an Application’s website or Extension’s detail page to review any privacy policy posted by the developer, which may include additional information on their privacy practices.
-
-Advertisers and Analytics Providers
------------------------------------
-
-Twitch may use third-party Web analytics services in connection with the Twitch Services. These service providers use a variety of tracking technologies such as cookies to analyze how users use the Twitch Services. The information collected (described above in “Automatically Collected Information”) may be shared with or collected directly by these services and processed to evaluate your use of the Twitch Services.
-
-Twitch may also work with third-party ad networks, advertisers, and advertising analytics providers to target (and measure the performance of) ads to you both on and off the Twitch Services. We may share with these third parties (or they may directly collect) data such as cookie and mobile ad identifiers in order to engage in advertising activity (including to understand how you respond to advertisements and to serve relevant ads). Twitch also works with third parties to serve ads to you off Twitch’s Services. When we do so, we may share information such as your email address or resettable device identifier for that advertising partner to “match” to other information that may have about you.
-
-Advertisers on Twitch, or representatives or service providers working on their behalf (“Twitch Advertisers”), sometimes use technology to serve ads that appear on our services directly to your device. They automatically receive certain data, such as your IP address, when this happens. They may also use cookies (or similar technologies) to measure the effectiveness of their ads and to personalize ad content. This Privacy Notice does not apply to, and we cannot control the tracking technologies and activities of Twitch Advertisers and you should consult their respective privacy policies. For more information about Twitch Advertisers and similar entities that use these technologies, and to opt-out of their advertising practices, go to our [Privacy Choices](https://www.twitch.tv/p/legal/privacy-choices/) page.
-
-Do Not Track
-------------
-
-Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information collected on our website for third-party purposes, and that is why we provide the Network Advertising Initiative, Your Online Choices and the Digital Advertising Alliance opt-out links above. However, Twitch does not recognize or respond to browser-initiated DNT signals.
-
-Data Security
--------------
-
-Twitch uses a variety of managerial, technical, and physical measures to protect the integrity and security of your information. These measures may vary based on the sensitivity of your information. However, no security precautions or systems can be completely secure. We cannot ensure or warrant the security of any information you transmit to Twitch, and you do so at your own risk. We cannot guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-
-Retention of Your Information
------------------------------
-
-Twitch maintains data related to your usage of Twitch for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required (or permitted) by law such as for tax and accounting purposes, or as otherwise communicated to you. Once you have asked us to close your account and delete your profile information, we will delete all information that we are not required or permitted to retain by law.
-
-Children’s Privacy
-------------------
-
-IF YOU ARE UNDER 13 YEARS OF AGE, THEN YOU MAY NOT USE OR ACCESS THE TWITCH SERVICES AT ANY TIME OR IN ANY MANNER.
-
-Protecting the privacy of young children is especially important. For that reason, Twitch does not knowingly collect or maintain personal information (as defined by the United States Children’s Online Privacy Protection Act) from persons under 13 years-of-age. If Twitch learns that personal information of persons under 13 has been collected on or through the Twitch Services, Twitch will take appropriate steps to delete this information.
-
-If you are the parent or legal guardian of a child under 13 who has created an account on the Twitch Services, then please [Contact Support](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category to have that child’s account terminated and personal information deleted.
-
-For residents of countries and regions where the processing of personal information is based on consent, Twitch will not knowingly engage in that processing for users under the age of consent established by applicable data protection law. If we learn that we are engaged in that processing with such users, we will halt such processing and will take reasonable measures to promptly remove applicable information from our records
-
-Merger or Sale
---------------
-
-In the event that Twitch, or some or all assets related to the Twitch Services are acquired by or merged with a third-party entity or in connection with a contemplated change-of-ownership transaction, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from users as part of that merger, acquisition, sale, or other change-of-control event, including in the course of diligence.
-
-International Data Transfers
-----------------------------
-
-Information collected by Twitch may be stored and processed in your region, in the United States (for instance in our major data centers), or in any other country where Twitch or its affiliates, subsidiaries, partners, or service providers are located or maintain facilities. If we provide any information about you to any such entities, we will take appropriate measures to ensure such companies protect your information adequately in accordance with this Privacy Notice and applicable law.
-
-Changes and Updates to This Privacy Notice
-------------------------------------------
-
-Twitch reserves the right to change, modify, add, or remove portions of this Privacy Notice at any time (for example to reflect updates to the Twitch Services or to reflect changes in the law). Please check this Privacy Notice periodically for those changes. Your continued use of the Twitch Services after the posting of changes constitutes your binding acceptance of such changes.
-
-We will not materially change our policies and practices to make them less protective of personal information collected in the past under a prior version of the Privacy Notice without the consent of affected individuals.
-
-Twitch Contact Information
+Extensions et applications
 --------------------------
 
-Please contact Twitch with any questions or comments about this Privacy Notice at 350 Bush Street, 2nd Floor, San Francisco, CA 94104, visit the [Twitch Support Portal](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or send an email to privacy@twitch.tv. Our Data Protection Officer (DPO) can also be contacted at privacy@twitch.tv. We will respond to your inquiry within 30 days of its receipt. If you are a California resident, you may have information emailed to you by sending a letter to the foregoing address with your email address and your request for information.
+Le programme [Twitch Extensions](https://dev.twitch.tv/extensions) permet aux créateurs d'intégrer du contenu et des applications interactifs, personnalisés et tiers sur les pages de leurs chaînes. Vous pouvez obtenir davantage d'informations sur la ou les extensions spécifiques fonctionnant sur une chaîne donnée en cliquant sur les liens ou les icônes d'attribution que Twitch rendra disponibles sur la page de la chaîne, par exemple, dans le lecteur vidéo de Twitch ou en bas du volet d'une extension.
 
-Twitch UK Limited has been designated by Twitch Interactive, Inc. as its representative under the UK General Data Protection Regulation (UK GDPR) for residents of the UK. Please contact Twitch UK with any questions (including questions about your rights) or comments about this Privacy Notice at Twitch UK Limited, 1 New Oxford Street WC1A 1BA, UK, visit the [Twitch Support Portal](https://help.twitch.tv/s/contactsupport) under the ‘Privacy Questions’ category, or send an email to privacy@twitch.tv.
+L'interaction d'un spectateur avec une extension ou avec la chaîne sur laquelle l’extension est activée fournira au développeur qui exploite l’extension des informations sur le spectateur de la nature décrite ci-dessus dans « Informations recueillies automatiquement. » Twitch ne donne pas accès à votre nom d'utilisateur ou votre identifiant aux développeurs d'extension tiers dans le cadre du programme Twitch Extensions à moins que vous ne cliquiez sur « Accorder l'accès » dans l'extension ou que vous installiez une extension sur votre chaîne. Vous êtes responsable des informations que vous fournissez au développeur de manière indépendante, par exemple, par le biais d'un formulaire Web sur l'extension ou en visitant le site Web de ce développeur.
 
-Additional Information for Certain Jurisdictions
-------------------------------------------------
+Les développeurs peuvent également créer des applications qui ne se trouvent pas sur les pages de chaînes ni sur Twitch. Nous exigeons des développeurs d'extensions et d'applications qu'ils traitent les données vous concernant uniquement aux fins énoncées dans notre [Contrat de services de développement](https://www.twitch.tv/p/legal/developer-agreement/). Nous vous encourageons à visiter le site Web d'une Application ou la page de détail d'une Extension pour consulter toute politique de confidentialité publiée par le développeur, qui peut inclure des informations supplémentaires sur ses pratiques en matière de confidentialité.
 
-### **Additional State-Specific Privacy Disclosures**
+Annonceurs et fournisseurs de services analytiques
+--------------------------------------------------
 
-Visit the [State-Specific Privacy Disclosures](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) page to read additional disclosures required under applicable laws.
+Twitch peut utiliser des services d'analyse Web tiers en relation avec les Services Twitch. Ces fournisseurs de services utilisent diverses technologies de pistage telles que les cookies pour analyser la façon dont les utilisateurs utilisent les Services Twitch. Les informations recueillies (décrites ci-dessus dans la section « Informations recueillies automatiquement ») peuvent être partagées ou collectées directement par ces services et traitées pour évaluer votre utilisation des Services Twitch.
 
-### Japan Privacy Disclosures
+Twitch peut également travailler avec des réseaux publicitaires tiers, des annonceurs et des fournisseurs d'analyses publicitaires pour proposer (et mesurer les performances) des publicités ciblées en fonction de vos intérêts, à la fois sur et en dehors des Services Twitch. Nous pouvons partager avec ces tiers (ou ils peuvent directement collecter) des données telles que les identifiants de cookies et de publicités mobiles afin de s'engager dans une activité publicitaire (notamment pour comprendre la manière dont vous répondez aux publicités et pour diffuser des publicités pertinentes). Twitch travaille également avec des tiers pour vous diffuser des publicités en dehors des Services Twitch. Lorsque nous le faisons, nous pouvons partager des informations telles que votre adresse e-mail ou l'identifiant d'appareil réinitialisable pour que ce partenaire publicitaire puisse les « faire correspondre » aux autres informations qu'il pourrait avoir sur vous.
 
-Visit the [Japan Privacy Disclosures](https://www.twitch.tv/legal/japan-privacy-notice/) page to read additional disclosures required under the Act on Protection of Personal Information.
+Les annonceurs sur Twitch, ou les représentants ou les fournisseurs de service travaillant pour leur compte (« Annonceurs Twitch »), utilisent parfois la technologie pour diffuser des publicités qui s'affichent sur nos services directement sur votre Lorsque cela se produit, ils reçoivent automatiquement certaines données, telles que votre adresse IP. Ils peuvent également utiliser des cookies (ou technologies similaires) pour mesurer l'efficacité de leurs publicités et personnaliser le contenu publicitaire. La présente Notice sur la protection de vos informations personnelles ne s'applique pas aux Annonceurs Twitch, et nous ne pouvons pas contrôler les technologies de suivi et les activités de ces derniers ; vous devez consulter leurs politiques de confidentialité respectives. Pour plus d'informations sur les Annonceurs Twitch et les entités similaires utilisant ces technologies, et pour vous désinscrire de leurs pratiques publicitaires, consultez la page [Choix de confidentialité](https://www.twitch.tv/p/legal/privacy-choices/).
 
-### Republic of Korea Privacy Disclosures
+Ne pas suivre
+-------------
 
-Visit the [Republic of Korea Privacy Disclosures](https://www.twitch.tv/p/legal/republic-of-korea-privacy-disclosures/) page to read additional disclosures required under the Personal Information Protection Act.
+Ne pas pister (« Ne pas pister ») est une préférence en matière de confidentialité que les utilisateurs peuvent définir sur certains navigateurs Web. Interdire le suivi est un moyen pour les utilisateurs d'informer les sites Web et les services qu'ils ne veulent pas que certaines informations sur les visites de leurs pages Web soient recueillies au fil du temps et sur des sites Web ou des services en ligne. Nous nous engageons à vous fournir des choix significatifs concernant les informations collectées sur notre site Web à des fins de tiers, c'est pourquoi nous fournissons les liens de désactivation du pistage Network Advertising Initiative et Digital Advertising Alliance ci-dessus. Cependant, Twitch ne reconnaît pas ou ne répond pas aux signaux « Ne pas pister » émis par les navigateurs.
+
+Sécurité des données
+--------------------
+
+Twitch utilise diverses mesures de gestion, techniques et physiques pour protéger l'intégrité et la sécurité de vos informations. Ces mesures peuvent varier en fonction de la sensibilité de vos informations. Cependant, aucune précaution ou système de sécurité ne peut être complètement sécurisé. Nous ne pouvons pas assurer ou garantir la sécurité des informations que vous transmettez à Twitch, et vous le faites à vos risques et périls. Nous ne pouvons garantir que ces informations ne peuvent être consultées, divulguées, modifiées ou détruites par la violation de nos mesures de protection physiques, techniques ou de gestion.
+
+Conservation de vos données
+---------------------------
+
+Twitch conserve les données relatives à votre utilisation de Twitch aussi longtemps que cela est nécessaire pour répondre aux objectifs décrits dans la présente Notice sur la Protection de vos informations personnelles, dans la mesure où cela est requis (ou autorisé) par la loi, notamment à des fins fiscales et comptables, ou selon qu'il vous est par ailleurs communiqué. Une fois que vous nous avez demandé de fermer votre compte et de supprimer les informations de votre profil, nous supprimerons toutes les informations que nous ne sommes pas tenus ou autorisés à conserver par la loi.
+
+Protection de la vie privée des enfants
+---------------------------------------
+
+SI VOUS AVEZ MOINS DE 13 ANS, VOUS NE POUVEZ PAS UTILISER OU ACCÉDER AUX SERVICES TWITCH À TOUT MOMENT OU DE QUELQUE MANIÈRE QUE CE SOIT.
+
+La protection de la vie privée des jeunes enfants est particulièrement importante. Pour cette raison, Twitch ne collecte ni ne conserve sciemment les informations personnelles des personnes âgées de moins de 13 ans (conformément à la loi américaine de protection de la vie privée des enfants). Si Twitch apprend que les informations personnelles concernant des personnes de moins de 13 ans ont été recueillies sur ou par le biais des Services Twitch, Twitch prendra les mesures appropriées pour supprimer ces informations.
+
+Si vous êtes le parent ou le tuteur légal d'un enfant de moins de 13 ans qui a créé un compte sur les Services Twitch, veuillez [contacter le support](https://help.twitch.tv/s/contactsupport) dans la catégorie « Questions de confidentialité » pour que le compte de cet enfant soit résilié et que les informations personnelles soient supprimées.
+
+Pour les résidents des pays et régions où le traitement des informations personnelles est basé sur le consentement, Twitch ne s'engagera pas sciemment dans ce traitement pour les utilisateurs n'ayant pas atteint l'âge de consentement établi par la loi applicable en matière de protection des données. Si nous apprenons que nous sommes impliqués dans ce traitement avec ces utilisateurs, nous arrêterons ce traitement et prendrons des mesures raisonnables pour supprimer rapidement les informations applicables de nos dossiers.
+
+Fusion ou vente
+---------------
+
+Dans l'éventualité où Twitch, ou une partie ou la totalité des actifs liés aux Services Twitch sont acquis par ou fusionnés avec une entité tierce ou dans le cadre d'une transaction de changement de propriété envisagée, nous nous réservons le droit, dans toutes ces circonstances, de transférer ou de céder les informations que nous avons collectées auprès des utilisateurs dans le cadre de cette fusion, acquisition, vente ou autre changement de contrôle, y compris dans le cadre de la diligence.
+
+Transferts de données internationaux
+------------------------------------
+
+Les informations collectées par Twitch peuvent être stockées et traitées dans votre région, aux États-Unis (par exemple dans nos principaux centres de données), ou dans tout autre pays où Twitch ou ses sociétés affiliées, filiales, partenaires ou fournisseurs de services sont situés ou maintiennent des installations. Si nous fournissons des informations vous concernant à l'une de ces entités, nous prendrons les mesures appropriées pour nous assurer que ces sociétés protègent vos informations conformément à la présente Notice sur la Protection de vos informations personnelles et aux lois applicables.
+
+Modifications et mises à jour de la présente Notice sur la Protection de vos informations personnelles
+------------------------------------------------------------------------------------------------------
+
+Twitch se réserve le droit de changer, modifier, ajouter ou supprimer des parties de la présente Notice sur la Protection de vos informations personnelles à tout moment (par exemple, pour refléter les mises à jour des Services Twitch ou pour refléter des changements dans la loi). Veuillez consulter périodiquement la présente Notice sur la Protection de vos informations personnelles pour prendre connaissance de ces modifications. Votre utilisation continue des Services Twitch après l'affichage des modifications constitue votre acceptation de fait de ces modifications.
+
+Nous ne modifierons pas matériellement nos politiques et pratiques pour les rendre moins protectrices des informations personnelles collectées par le passé en vertu d'une version antérieure de l'Avis de confidentialité sans le consentement des personnes concernées
+
+Informations de contact Twitch
+------------------------------
+
+Veuillez contacter Twitch pour toute question ou commentaire concernant le présent Avis de de confidentialité au 350 Bush Street, 2nd Floor, San Francisco, CA 94104, visitez le [portail de support de Twitch](https://help.twitch.tv/s/contactsupport) sous la catégorie « Questions sur la confidentialité » ou envoyez un e-mail à privacy@twitch.tv. Notre Délégué à la protection des données (DPO) peut également être contacté par e-mail à l'adresse privacy@twitch.tv. Nous répondrons à votre demande dans les 30 jours suivant sa réception. Si vous êtes résident californien, vous pouvez recevoir ces informations par e-mail en envoyant une lettre à l'adresse susmentionnée avec votre adresse électronique et votre demande d'informations.
+
+Twitch UK Limited a été désigné par Twitch Interactive, Inc. comme son représentant en vertu du Règlement général sur la protection des données du Royaume-Uni (RGPD du Royaume-Uni) pour les résidents du Royaume-Uni. Veuillez contacter Twitch UK pour toute question (y compris toute question concernant vos droits) ou tout commentaire concernant le présent Avis de confidentialité à l'adresse suivante : Twitch UK Limited, 1 New Oxford Street WC1A 1BA, Royaume-Uni, visitez le [portail de support deTwitch](https://help.twitch.tv/s/contactsupport) dans la catégorie « Questions de confidentialité » ou envoyez un e-mail à privacy@twitch.tv.
+
+Informations supplémentaires pour certaines juridictions
+--------------------------------------------------------
+
+### Déclarations relatives à la vie privée en Californie
+
+Consultez la page des [Déclarations relatives à la vie privée en Californie](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) pour lire les déclarations additionnelles requises par le California Consumer Privacy Act et d'autres lois californiennes.
+
+### Divulgations d'informations confidentielles au Japon
+
+Lisez la page [Divulgations d'informations confidentielles au Japon](https://www.twitch.tv/legal/japan-privacy-notice/) afin de consulter les divulgations supplémentaires requises en vertu de la Loi sur la protection des informations personnelles.
+
+### Déclarations relatives à la confidentialité pour la République de Corée
+
+Consultez la page des [Déclarations relatives à la confidentialité pour la République de Corée](https://www.twitch.tv/p/legal/republic-of-korea-privacy-disclosures/) pour lire les déclarations additionnelles requises par la loi sur la protection des données personnelles (Personal Information Protection Act).
