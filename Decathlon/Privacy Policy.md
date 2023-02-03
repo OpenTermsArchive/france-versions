@@ -22,38 +22,61 @@ VALIUZ réunit un ensemble d’entreprises autour de la connaissance client, dan
 
 VALIUZ est une société codétenue par Decathlon.
 
-Pour consulter la liste des entreprises participantes de l’alliance, cliquez [ici](https://valiuz.com/liste-des-membres/).
+Pour consulter la liste des entreprises participantes de l’alliance, cliquez [ici](https://valiuz.com/liste-des-membres/) .
+
+  
 
 **Quel est le service fourni par VALIUZ ?**
 
 Grâce à VALIUZ, les entreprises qui vous connaissent (par exemple parce que vous êtes déjà leurs clients ou inscrit à leur newsletter) peuvent partager de manière sécurisée les informations relatives à vos centres d’intérêts et vos habitudes d’achat pour les finalités listées ci-dessous :
 
-Chez Decathlon, ces finalités ne peuvent être mises en oeuvre que si et seulement si les personnes concernées ont consenti à recevoir nos communications commerciales.
+  
 
-* **\- Statistiques**  
+* Statistiques :  
+    
     VALIUZ effectue des traitements statistiques permettant à chaque entreprise de l’alliance de mieux connaître les attentes de ses clients et ainsi faire évoluer son activité et son offre. Ces analyses sont anonymes et agrégées (le résultat porte sur un ensemble de clients et non un individu ) . Par exemple : grâce à une meilleure connaissance du territoire et des attentes locales, une entreprise membre de l’alliance peut identifier le meilleur emplacement pour ouvrir un nouveau magasin et adapter sa gamme en conséquence. La base légale de ce traitement est l’intérêt légitime.
-* **\- Profilage publicitaire à des fins de personnalisation des communications et publicités**  
-    Sur la base des informations que vous avez transmises aux entreprises de l’alliance dont vous êtes client (et uniquement celles-ci), et de vos données de navigation, Valiuz établit votre profil publicitaire, ce qui permet aux membres de vous adresser des communications et publicités correspondant à vos centres d’intérêt : votre mode d’achat préféré, le moment de la journée où vous préférez consulter les nouveautés, les produits qui vous intéressent… Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
-* **\- Personnalisation de la publicité en ligne d’annonceurs tiers**  
-    VALIUZ contribue à personnaliser les bannières publicitaires diffusées en ligne sur des sites promouvant les produits et services d’annonceurs tiers (extension d’audience). Vos données d’achat ou de navigation sur internet ne sont jamais transmises aux annonceurs concernés (c'est-à-dire les entreprises qui souhaitent faire la promotion de leurs produits et services) ou aux sites tiers partenaires (c’est-à-dire les sites que vous consultez et qui permettent aux annonceurs d’afficher leurs publicités). Seule l'audience à laquelle Valiuz vous estime correspondre est partagée aux sites tiers.
     
-    Cette personnalisation ne peut avoir lieu que si les 3 conditions suivantes sont réunies :
-    
-    * \- Vous avez consenti au dépôt d’un cookie Valiuz (finalité publicitaire) lors de la navigation sur notre site internet
-    * \- Vous avez consenti au dépôt d’un cookie à finalité publicitaire sur un site tiers partenaire de Valiuz
-    * \- Vous ne vous êtes pas opposé au partage de vos données personnelles à Valiuz
+  
+* Profilage publicitaire à des fins de personnalisation des communications et publicités : Sur la base des informations que vous avez transmises aux entreprises de l’alliance dont vous êtes client (et uniquement celles-ci), et de vos données de navigation, Valiuz établit votre profil publicitaire, ce qui permet aux membres de vous adresser des communications et publicités correspondant à vos centres d’intérêt : votre mode d’achat préféré, le moment de la journée où vous préférez consulter les nouveautés, les produits qui vous intéressent…Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
 
   
 
-Concrètement, si les 3 conditions sont réunies, le site tiers que vous consultez pourra permettre à ses annonceurs partenaires de vous afficher la publicité la plus pertinente compte tenu de l'audience à laquelle Valiuz vous a associée.  
-Les bases légales de ce traitement sont : Intérêt légitime pour le profilage publicitaire et le consentement pour la collecte des données de navigation.
+Ces finalités ne seront mises en oeuvre avec notre partenaire Valiuz que si vous avez consenti préalablement à la réception de nos communications commerciales et que vous ne vous êtes pas opposés au partage de vos données avec Valiuz.
+
+  
+
+* Personnalisation de la publicité en ligne d’annonceurs tiers :  
+    
+    VALIUZ contribue à personnaliser les bannières publicitaires diffusées en ligne sur des sites promouvant les produits et services d’annonceurs tiers (extension d’audience). Vos données d’achat ou de navigation sur internet ne sont jamais transmises aux annonceurs concernés (c'est-à-dire les entreprises qui souhaitent faire la promotion de leurs produits et services) ou aux sites tiers partenaires (c’est-à-dire les sites que vous consultez et qui permettent aux annonceurs d’afficher leurs publicités). Seule l'audience à laquelle Valiuz vous estime correspondre est partagée aux sites tiers. La définition de votre profil peut-être enrichie par les données partagées au travers des traitements cités ci-dessus.Cette personnalisation ne peut avoir lieu que si les 2 conditions suivantes sont réunies :
+    
+    * Vous avez consenti au dépôt d’un cookie Valiuz (finalité publicitaire) lors de la navigation sur notre site internet
+    * Vous avez consenti au dépôt d’un cookie à finalité publicitaire sur un site tiers partenaire de Valiuz
+    
+    La base légale de ce traitement est : le consentement pour la collecte des données de navigation (au travers de l’acceptation d’un cookie Valiuz)
+    
+
+  
+
+Pour vous opposer à ce partage :
+
+Si vous souhaitez vous opposer spécifiquement au partage à Valiuz de vos données par Decathlon vous pouvez :  
+  
+
+* Paramétrer votre opposition depuis votre [compte](http://account.decathlon.com/) dans le menu Paramètres/Utilisation des données/Partage avec Valiuz
+* Nous envoyer un email à l’adresse [non\_a\_valiuz@decathlon.com](mailto:non_a_valiuz@decathlon.com)
+* Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés
+* Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
+* Vous pouvez de plus refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites.
+* Si vous souhaitez vous opposer au service VALIUZ d’une manière globale et pour toutes les entreprises membres, vous pouvez vous rendre sur le site VALIUZ et renseigner votre adresse Email, en cliquant ici. Dans ce cas, les données transmises à Valiuz et liées à l’adresse Email utilisée, ne seront plus traitées par VALIUZ.
+
+  
 
 **Quelques exemples de communications mises en oeuvre par decathlon selon votre profil :**  
 
 * \- En fonction de votre âge ou votre genre :  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email1.png)
 * \- Selon vos aspirations de consommation saine et durable (bio par ex.)  
-    ![](/static/LP/Services/donnees-personnelles/assets/img/email2.png)![](/static/LP/Services/donnees-personnelles/assets/img/email3.png)
+    ![](/static/LP/Services/donnees-personnelles/assets/img/email2.png) ![](/static/LP/Services/donnees-personnelles/assets/img/email3.png)
 * \- Selon les caractéristiques de votre famille (Ex : avec ou sans enfant…)  
     ![](/static/LP/Services/donnees-personnelles/assets/img/email4.png)
 * \- Selon votre type d’habitat (Ex: avec ou sans jardin)  
@@ -77,22 +100,9 @@ Pour faire le rapprochement entre vos données détenues par les membres de l’
 **Combien de temps les données sont-elles conservées par VALIUZ ?**  
 Les données utilisées par VALIUZ reposent sur un historique de 3 ans maximum. Les données sont conservées par VALIUZ le temps nécessaire à la réalisation des finalités visées ci-dessus et supprimées conformément à la politique de conservation définie par l’entreprise ayant collecté vos données. Les données de navigation collectées par le cookie VALIUZ sont conservées 12 mois maximum.
 
-**Opposition au partage de mes données Decathlon à VALIUZ**  
-Si vous souhaitez vous opposer spécifiquement au partage à Valiuz de vos données par Decathlon vous pouvez :
+Pour toute question concernant VALIUZ, rendez-vous sur [https://valiuz.com](https://valiuz.com/) .
 
-* \- Paramétrer votre opposition depuis votre [compte](http://account.decathlon.com/) dans le menu Paramètres/Utilisation des données/Partage avec Valiuz
-* \- Nous envoyer un email à l’adresse [non\_a\_valiuz@decathlon.com](mailto:non_a_valiuz@decathlon.com)
-* \- Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés
-* \- Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
-
-Vous pouvez de plus refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites.
-
-Si vous souhaitez vous opposer au service VALIUZ d’une manière globale et pour toutes les entreprises membres, vous pouvez vous rendre sur le site VALIUZ et renseigner votre adresse Email, en [cliquant ici](https://valiuz.com/mes-droits/).  
-Dans ce cas, les données transmises à Valiuz et liées à l’adresse Email utilisée, ne seront plus traitées par VALIUZ.
-
-Pour toute question concernant VALIUZ, rendez-vous sur [https://valiuz.com](https://valiuz.com/).
-
-Envie d'en savoir plus sur nos communications ? C'est par [Ici](https://www.decathlon.fr/communication_opt_in_lp-H9IZ0L).
+Envie d'en savoir plus sur nos communications ? C'est par [Ici](https://www.decathlon.fr/communication_opt_in_lp-H9IZ0L) .
 
 ### Comment utilisons-nous vos données ?
 
@@ -762,7 +772,7 @@ Vous pouvez consulter et rectifier vos données personnelles. Il vous suffit de 
 Destinataires des données
 
 Dans le cadre de la prévention contre les moyens de paiement frauduleux en ligne, certains de nos services peuvent accéder à vos données : la direction administrative et financière et l’informatique. Nous utilisons également des sous-traitants pour la réalisation de certaines prestations techniques.  
-Certaines données sont également transmises à notre partenaire de paiement afin de répondre à ses obligations légales ainsi que la directive européenne sur les services de paiement. Sur réquisition judiciaire, ces données peuvent également être transférées aux autorités (police, gendarmerie etc...)
+Certaines données sont également transmises à notre partenaire de paiement afin de répondre à ses obligations légales ainsi que la directive européenne sur les services de paiement.Sur réquisition judiciaire, ces données peuvent également être transférées aux autorités (police, gendarmerie etc...)
 
 Transfert hors UE
 
