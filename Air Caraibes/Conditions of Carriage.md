@@ -408,15 +408,15 @@ Oney Bank se réserve le droit d’accepter ou de refuser toute demande de finan
 Le paiement en 3 ou 4 fois par carte bancaire permet aux clients de régler la commande effectuée sur le site marchand d’Air Caraïbes de la façon suivante :
 
 * un apport obligatoire, débité le jour de la confirmation de la commande ;
-* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,56% du montant total de la commande pour un 3 fois et à 2,3 % pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
+* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,54% du montant total de la commande pour un 3 fois et à 2,3 % pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
 
    
 • Le paiement en 3 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
-Exemple : pour un achat de 150€, apport de 52,30€ puis 2 mensualités de 50€.  
-Crédit d’une durée de 2 mois au TAEG fixe de 20,8%. Coût du financement : 2,3€ dans la limite de 25€ maximum.  
+Exemple : pour un achat de 150€, apport de 52,31€ puis 2 mensualités de 50€.  
+Crédit d’une durée de 2 mois au TAEG fixe de 20,59%. Coût du financement : 2,31€ dans la limite de 25€ maximum.  
 • Le paiement en 4 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
-Exemple : Pour un achat de 400€, apport de 109,36€ puis 3 mensualités de 100€.  
-Crédit sur 3 mois au TAEG fixe de 21,01%. Coût du financement : 9,36€ dans la limite de 50€ maximum.
+Exemple : Pour un achat de 400€, apport de 109,20€ puis 3 mensualités de 100€.  
+Crédit sur 3 mois au TAEG fixe de 20,61%. Coût du financement : 9,20€ dans la limite de 50€ maximum.
 
 \* Pour Cayenne le montant maximum de la commande est de 4000€  
    
