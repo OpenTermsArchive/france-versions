@@ -90,7 +90,7 @@ Pour les services de code partagé sur des vols opérés par d’autres transpor
 
 Si le vol est effectué par un autre transporteur aérien ou une autre compagnie de transport, vous devez vous familiariser avec les caractéristiques particulières, par exemple les heures d’enregistrement, les dispositions relatives à la reconfirmation des réservations, les exigences et les politiques concernant le transport de mineurs non accompagnés, le transport d’animaux, le refus de transport, les dispositifs d’oxygène, les irrégularités opérationnelles, et le volume de la franchise bagage du transporteur aérien ou de la compagnie qui effectue le vol.
 
-[​Vous trouverez ici des liens vers les sites Web de nos partenaires de partage de code.](https://www.austrian.com/fr/fr/partner)
+[​Vous trouverez ici des liens vers les sites Web de nos partenaires de partage de code.](https://www.austrian.com/fr/fr/lhg-staralliance-partner)
 
 ### 2.4. Informations sur l’identité des compagnies opérant le vol²
 
