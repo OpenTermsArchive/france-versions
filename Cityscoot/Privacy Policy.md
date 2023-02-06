@@ -134,7 +134,7 @@ Cityscoot est susceptible de recourir notamment à un service de stockage et par
 
 Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection)) ou auprès de notre délégué à la protection des données ([\[email protected\]](https://www.cityscoot.eu/cdn-cgi/l/email-protection)).
 
-Les Informations issues des Cookies et technologies similaires peuvent être transférées hors Union Européenne en vue de leur hébergement et de leur traitement dans le cadre des finalités publicitaires ou de mesures d’audience. Vous trouverez plus d’informations sur ce point pour chaque partenaire concerné dans la [Politique de Gestion des Cookies](https://www.cityscoot.eu/politique-de-cookies/).
+Les Informations issues des Cookies et technologies similaires peuvent être transférées hors Union Européenne en vue de leur hébergement et de leur traitement dans le cadre des finalités publicitaires ou de mesures d’audience. Vous trouverez plus d’informations sur ce point pour chaque partenaire concerné dans la [Politique de Gestion des Cookies](https://www.cityscoot.eu/gestion-des-cookies).
 
 **Vos données sont-elles sécurisées ?**
 ---------------------------------------
