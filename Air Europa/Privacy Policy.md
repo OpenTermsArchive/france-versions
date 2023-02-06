@@ -205,7 +205,7 @@ La réglementation vous octroie un certain nombre de droits en lien avec les don
 * Droits de ne pas faire l'objet de décisions individualisées automatisées. Ce droit vise à garantir que vous n'êtes pas soumis à une décision fondée uniquement sur le traitement de vos données, y compris le profilage, qui produise des effets juridiques sur vous ou vous affecte significativement de la même manière.
 
 Vous pouvez envoyer une communication par écrit au siège social d'AIR EUROPA ou à l'adresse e-mail delegadopd@aireuropa.com pour demander à exercer vos droits.  
-Dans tous les cas, nous mettons à votre disposition un formulaire en ligne qui vous permettra d'exercer les droits susmentionnés de manière facile et rapide.  
+Dans tous les cas, nous mettons à votre disposition un [formulaire en ligne](https://www.aireuropa.com/fr/FR/privacy-policy-form) qui vous permettra d'exercer les droits susmentionnés de manière facile et rapide.  
 Pour les traitements dont la légitimité est basée sur le consentement, puis-je retirer ce consentement ?  
 Si le consentement a été donné pour une finalité spécifique, vous avez le droit de retirer votre consentement à tout moment, sans que cela affecte la légalité du traitement fondé sur le consentement préalable à son retrait.
 
@@ -245,3 +245,7 @@ Tableau des collaborateurs
 Révisions précédentes de la politique de confidentialité
 
 [Politique de confidentialité jusqu'à juillet 2022](https://www.aireuropa.com/fr/fr/aea/informations-pour-voler/conditions/politique-de-confidentialite/politique-de-confidentialite-2022.html)
+
+Formulario de derechos
+
+[Haznos llegar tu comentario a través de nuestros formularios](https://www.aireuropa.com/fr/FR/privacy-policy-form)
