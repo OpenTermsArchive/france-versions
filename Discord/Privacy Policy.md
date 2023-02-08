@@ -43,7 +43,7 @@ Information for California Users](#12)[14.
 
 Changes to this Privacy Policy](#13)[15.
 
-Contact us](#14)[16.](#15)
+Contact us](#14)[16.](#15)[17.](#15)
 
 Welcome!
 ========
