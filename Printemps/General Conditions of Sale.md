@@ -452,7 +452,7 @@ Le Client peut effectuer le paiement de sa commande à l'aide des moyens suivant
 
   
 
-* Par cartes bancaires suivantes : Visa, Mastercard, American Express.
+* Par cartes bancaires suivantes : Visa, Mastercard, American Express et Visa Printemps
 
 Les transactions effectuées sur le Site sont confiées à une plateforme de paiement en ligne sécurisée INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : support.ecom@ingenico.com.
 
@@ -469,10 +469,6 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
   
 
 * Par bon d'achat valable 6 mois sur le Site ou par e-carte cadeau valable 1 an sur le Site dont les conditions figurent ci-après l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
-
-  
-
-* Printania Plus
 
   
 
@@ -500,7 +496,7 @@ Afin de prévenir les impayés, la Société a mis en place un dispositif qui pe
 
 **4.3 FACTURE ÉLECTRONIQUE**
 
-Une facture sous format électronique sera mise à disposition du Client sur le Site dans la rubrique « Mon compte », « Mon historique d'achats » ce que le Client accepte.
+Une facture sous format électronique sera mise à disposition du Client sur le Site dans la rubrique « Mon compte », « Mes achats » ce que le Client accepte.
 
   
 
