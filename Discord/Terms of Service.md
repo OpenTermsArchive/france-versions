@@ -45,7 +45,7 @@ Settling disputes between you and Discord](#13)[15.
 
 More important stuff](#14)[16.
 
-Contacting each other](#15)
+Contacting each other](#15)[17.](#15)
 
 ‍
 
