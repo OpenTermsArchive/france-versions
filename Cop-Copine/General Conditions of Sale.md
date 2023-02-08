@@ -295,9 +295,9 @@ XVI - BONS D’ACHAT RE-CYCLE
 
 \- Les bons d’achats pourront être utilisés sur le site internet de la marque www.cop-copine.com ou dans les boutiques cop.copine de France métropolitaine, hors boutiques outlet et affiliées (liste ci-dessous)
 
-\- Les bons d’achat sont valables jusqu’au 15 juin 2023, sur toute commande d'articles réalisée sur le site cop-copine.com ou en boutique pour régler le prix des articles avec un panier minimum de 150€.
+\- Les bons d’achat sont valables jusqu’au 11 février 2023, sur toute commande d'articles réalisée sur le site cop-copine.com ou en boutique pour régler le prix des articles avec un panier minimum de 150€.
 
-\- Le bon d’achat est cumulable aux promotions en cours, hors outlet et petits prix 
+\- Le bon d’achat est cumulable aux promotions en cours (dont braderie) mais hors outlet et petits prix 
 
 \- Le bon d’achat n’est pas cumulable avec un autre code promotionnel
 
@@ -323,47 +323,26 @@ XVI - BONS D’ACHAT RE-CYCLE
 
 **\- boutiques cop.copine (hors boutiques outlet et affiliées) :**    
   
-\- cop.copine Aix-en-Provence - 6 bis Rue Aude, 13100 - France  
 \- cop.copine Angers - 56 rue Saint Aubin, 49100 - France  
-\- cop.copine Annecy - 9, Rue Vaugelas, 74000 - France  
 \- cop.copine Avignon - 26 Rue des Marchands, 84000 -  France  
 \- cop.copine Bègles - Rue Gustave Eiffel, 33130 - France  
 \- cop.copine Besançon - 2, Rue Morand, 25000 - France  
 \- cop.copine Blagnac - 2 allée Emile Zola, 31700 - France  
-\- cop.copine Brest - 53, Rue Jean Jaurès, 29200 - France  
-\- cop.copine Caen - 111, Rue Saint-Pierre, 14000 - France  
-\- cop.copine Charleville-Mézières - 8 Rue de la République, 08000 - France  
-\- cop.copine Chartres - 2-4 Rue Marceau, 28000 - France  
 \- cop.copine Cherbourg - 42, Rue des Portes, 50100 - France  
-\- cop.copine Clermont-Ferrand - 3 Rue Blatin, 63000 - France  
-\- cop.copine Colmar - 20 Rue des Clefs, 68000 - France  
 \- cop.copine Dijon - 12 bis Rue du Chapeau Rouge, 21000 - France  
-\- cop.copine La Rochelle - 15 Rue Saint-Yon, 17000 - France  
-\- cop.copine Laval - 27, Rue de la Paix, 53000 - France  
 \- cop.copine Le Havre - 109, Rue Victor Hugo, 76600 - France  
 \- cop.copine Le Mans - 5 Rue de l'Étoile, 72000 - France  
 \- cop.copine Lille - 18 Rue du Sec Arembault, 59800 - France  
 \- cop.copine Lorient - 23 Rue Liège, 56100 - France  
-\- cop.copine Lyon - rue de Brest39 Rue de Brest, 69002 - France  
-\- cop.copine Mâcon - 17, Rue Sigorgne, 71000 - France  
 \- cop.copine Mérignac - Centre Commercial Mérignac Soleil, 33700 - France  
-\- cop.copine Metz - 12 Rue des Clercs, 57000 - France  
 \- cop.copine Montpellier - 2 Place de Lisbonne, 34000 - France  
 \- cop.copine Mont-Saint-Martin - 1 Boulevard de l'Europe, 54350 - France  
-\- cop.copine Mulhouse - 27 Rue des Maréchaux, 68100 - France  
-\- cop.copine Nancy - 37, Rue des Dominicains, 54000 - France  
-\- cop.copine Nantes Centre ville - 4 Rue Contrescarpe, 44000 - France  
 \- cop.copine Niort - 12 Rue Sainte-Marthe, 79000 - France  
 \- cop.copine Orléans - 29 Rue République, 45000 - France  
-\- cop.copine Paris Rue du Four - 16 Rue du Four, 75006 - France  
 \- cop.copine Paris Rambuteau - 80, Rue Rambuteau, 75001 - France  
 \- cop.copine Poitiers - 27 Rue Cordeliers, 86000 - France  
-\- cop.copine Rennes - 4 Rue de Rohan, 35000 - France  
 \- cop.copine Rouen - C.Cial Docks 76, 76000 - France  
 \- cop.copine Saint-Herblain - Centre Commercial Atlantis, 44800 - France  
-\- cop.copine Saint-Nazaire - 43 Avenue de la République, 44600 - France  
-\- cop.copine St-Etienne - 7 Rue Général Foy, 42000 - France  
-\- cop.copine Strasbourg - 48, Rue des Hallebardes, 67000 - France  
 \- cop.copine Thionville - Centre Commercial La Cour des Capucins, 57100 - France  
 \- cop.copine Tours - 36 Rue Nationale, 37000 - France  
 \- cop.copine Valenciennes - 16 Place d'Armes, 59300 - France  
