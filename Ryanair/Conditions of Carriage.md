@@ -1096,7 +1096,7 @@ Tous les tarifs Flexi Plus sont non remboursables, à l’exception des cas pour
 
 Les services suivants sont inclus dans les tarifs Flexi Plus :
 
-*       Enregistrement gratuit à l’aéroport
+*       Enregistrement gratuit à l’aéroport. L’enregistrement gratuit à l’aéroport ne sera disponible que pour les passagers ayant réservé un tarif Flexi Plus via le site Internet ou l’application officiels Ryanair. Les réservations effectuées par l’intermédiaire d’agents de voyages en ligne sont expressément exclues de ce service.
 *       Tout siège réservé
 *       Priorité et 2 bagages cabine
 *       Flexibilité concernant les changements de billets
