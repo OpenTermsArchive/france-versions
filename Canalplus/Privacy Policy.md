@@ -4,7 +4,7 @@ Données personnelles et confidentialité
 30/06/2022
 ==========
 
-Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société Canal+ International (R.C.S Nanterre 592 033 401, 48 Quai du Point du Jour – 92100 Boulogne-Billancourt) (ci-après désignées « Groupe Canal+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
+Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société Canal+ International (R.C.S Nanterre sous le numéro 592 033 401 - 50 rue Camille Desmoulins 92863 Issy-les-Moulineaux Cedex 9) (ci-après désignées « Groupe Canal+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
 
 Pour plus d’informations, veuillez-vous reporter à nos :* [conditions générales d’abonnement](https://static.canal-plus.net/boutique/infos-legales/CGA-Canal.pdf) (valables uniquement pour la France Métropolitaine et Monaco). Pour les autres territoires, vous trouverez les conditions générales d’abonnement sur le site internet de votre offre,
 * nos [conditions générales d’utilisation](https://static.canalplus.com/legal/cgu.html),
@@ -188,11 +188,19 @@ Enfin, vous pouvez également introduire une réclamation auprès de la Commissi
 
 Vos données personnelles sont conservées selon des durées déterminées au regard de nos finalités et des obligations légales, fiscales et comptables nous incombant.
 
-Les données liées à votre abonnement font l’objet d’un archivage électronique pendant toute la durée de souscription à l’abonnement et pendant les durées légales de prescription.
+Les données liées à votre Abonnement font l’objet d’un archivage électronique pendant toute la durée de souscription à l’Abonnement et pendant les durées légales de prescription.
 
-Quant aux cookies déposés sur votre terminal, ils sont conservés pour une durée maximale de treize (13) mois à compter du premier dépôt sur le terminal. Pour en savoir plus concernant la gestion des cookies, nous vous invitons à vous référer à notre [Politique Cookies](https://www.canalplus.com/cookies/).
+Elles sont conservées sur une durée maximale de cinq ans à compter de la date de résiliation du contrat, pouvant être étendue jusqu’à l’épuisement des voies de recours en cas de contentieux.
 
-Pour les abonnés à beIN SPORTS CONNECT, nous vous invitons à vous référer à la Politique Cookies de beIN SPORTS CONNECT.
+Les données collectées dans le cadre de la création d’un compte sur les sites du Groupe pour accéder à des offres live ou en replay sont conservées pendant une durée maximale de trois ans à compter de la dernière date d’utilisation dudit compte.
+
+Les enregistrements téléphoniques avec nos conseillers à des fins de suivi de qualité, réalisés sur la base d’un échantillon aléatoire et dans le cas où vous ne vous y êtes pas opposé, sont conservés pour une durée maximale d’un mois.
+
+Les données des journaux (logs) sont, quant à elles, conservées pour une durée maximale de douze mois.
+
+Quant aux cookies déposés sur votre terminal, ils sont conservés pour une durée maximale de treize mois à compter du premier dépôt sur le terminal. Pour en savoir plus concernant la gestion des cookies, nous vous invitons à vous référer à notre [Politique Cookies](https://www.canalplus.com/cookies/).
+
+Pour les abonnées à beIN SPORTS CONNECT, nous vous invitons à vous référer à la Politique Cookies de beIN SPORTS CONNECT.
 
 Qui contacter en cas de questions ?
 -----------------------------------
