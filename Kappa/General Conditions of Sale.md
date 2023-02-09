@@ -1,22 +1,21 @@
 Conditions générales de vente
 =============================
 
-Pendant la période des fêtes de Noël, le délai de retour est prolongé jusqu’au 31 janvier 2023 minuit pour toutes les commandes effectuées entre le 15 novembre et le 06 janvier 2022 inclus.
+Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.
 
-Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.  
   
-Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappastore.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
+Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappa.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
   
 Kappa a procédé au signalement de cette activité d'usurpation d'identité frauduleuse auprès des autorités.  
 \-----------------------------------------------
 
- Les présentes Conditions Générales définissent les conditions de vente des produits proposés par la société **KAPPA FRANCE**, SARL, au capital de 3 090 000 Euros, immatriculée au Répertoire du Commerce et de l’Industrie de NANTES sous le numéro 423 146 372, située au 41, rue de Bobby Sands, 44800 SAINT-HERBLAIN – numéro de TVA Intracommunautaire FR 31423146372 (ci-après définis et désignés les « Produits ») aux Clients (ci-après définis), sur le site internet accessible à l’adresse suivante : https://www.kappastore.fr/ (ci-après le « Site »).
+ Les présentes Conditions Générales définissent les conditions de vente des produits proposés par la société **KAPPA FRANCE**, SARL, au capital de 3 090 000 Euros, immatriculée au Répertoire du Commerce et de l’Industrie de NANTES sous le numéro 423 146 372, située au 41, rue de Bobby Sands, 44800 SAINT-HERBLAIN – numéro de TVA Intracommunautaire FR 31423146372 (ci-après définis et désignés les « Produits ») aux Clients (ci-après définis), sur le site internet accessible à l’adresse suivante : https://www.kappa.fr/ (ci-après le « Site »).
 
 Les Conditions Générales peuvent être modifiées par KAPPA FRANCE, la version en vigueur étant celle affichée dans la rubrique dédiée sur le site internet et/ou l’application. Chaque utilisateur du Site s’engage à prendre connaissance de la dernière version des Conditions Générales avant toute utilisation et achat.
 
 **ARTICLE 1 – SITE INTERNET**
 
-L’hébergement du site internet www.kappastore.fr est effectué par : Shopify Inc.,
+L’hébergement du site internet www.kappa.fr est effectué par : Shopify Inc.,
 
 Entreprise canadienne enregistrée au TSX et NYSE
 
@@ -37,7 +36,7 @@ A chaque fois qu’ils seront utilisés dans les Conditions Générales, les ter
 
 « **Conditions Générales** » : désigne les présentes conditions générales d’utilisation et de service ;
 
-« **Site** » : désigne le site de e-commerce permettant aux Clients d’accéder à l’achat des Produits vendus par KAPPA FRANCE, et accessible depuis le site internet https://www.kappastore.fr/.
+« **Site** » : désigne le site de e-commerce permettant aux Clients d’accéder à l’achat des Produits vendus par KAPPA FRANCE, et accessible depuis le site internet https://www.kappa.fr/.
 
 « **Produits** » : désigne l’ensemble des produits textiles et accessoires proposés par KAPPA FRANCE aux Clients, par l’intermédiaire du Site.
 
@@ -60,7 +59,7 @@ Une seule ouverture de Compte Client par personne est autorisée. KAPPA FRANCE s
 
 **4.1 Clôture du Compte Client**
 
-Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappastore.fr/pages/contact](https://www.kappastore.fr/pages/contact). Ou par email : [service.clients@kappa.com](https://www.kappastore.fr/pages/service.clients@kappa.com).
+Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappa.fr/pages/contact](https://www.kappastore.fr/pages/contact). Ou par email : [service.clients@kappa.com](https://www.kappastore.fr/pages/service.clients@kappa.com).
 
 **ARTICLE 5 – COMMANDE DES PRODUITS**
 
@@ -235,9 +234,9 @@ Le Client est informé que le présent droit de rétractation n'est pas applicab
 
 **8.3 Retour – remboursement**
 
-Pour un Client en France Métropolitaine et à Monaco, les retours sont gratuits et un bordereau de retour prépayé est joint dans chaque colis. Pour les autres pays, le Client devra renvoyer le colis de façon sécurisée et avec suivi en s’acquittant des frais de retour lui-même.
+Tout article qui ne vous conviendrait pas peut vous être remboursé, vous disposez de 14 jours à compter de la réception du colis pour effectuer le retour.
 
-Les Produits doivent être renvoyés par le Client dans un délai de quatorze (14) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
+Les frais de retour des articles sont à votre charge. Les Produits doivent être renvoyés par le Client dans un délai de quatorze (14) jours suivant la date de notification de la rétractation ou la date de la confirmation par KAPPA FRANCE de l’accord de retour en cas de non-conformité, et dans les conditions suivantes :
 
 * Dans leur emballage d’origine ;
 * Complets (accessoires, notices) ;
@@ -301,7 +300,7 @@ Le Client s’interdit également de reproduire tout élément du Site et des Pr
 
 L’ensemble des informations à caractère personnel pouvant être recueillies sur le Site lors des Commandes ou à l’occasion de la création du Compte Client fait l’objet d’un traitement informatique automatisé. KAPPA FRANCE s’engage à collecter, traiter et à conserver toutes informations personnelles des Clients dans le respect des dispositions du Règlement UE n° 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la Protection des Personnes Physique à l’égard du traitement des Données à caractère personnel et à la libre circulation de ces Données (RGPD) et avec l’ensemble de la réglementation française applicable en la matière notamment la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée (LIL).
 
-Pour consulter notre politique de protection des données personnelles : [https://www.kappastore.fr/pages/privacy-policy](https://www.kappastore.fr/pages/privacy-policy).
+Pour consulter notre politique de protection des données personnelles : [https://www.kappa.fr/pages/privacy-policy](https://www.kappastore.fr/pages/privacy-policy).
 
 **ARTICLE 12 - LIENS**
 
