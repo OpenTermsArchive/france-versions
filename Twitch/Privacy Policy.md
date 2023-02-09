@@ -1,7 +1,11 @@
-Dernière modification le 25/11/2022
+Dernière modification le 02/02/2023
 
-**Notice sur la Protection de vos informations personnelles**
-=============================================================
+**Avis de confidentialité** – **Twitch.tv**
+===========================================
+
+Dernière mise à jour : 2 février 2023. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
+
+Twitch Interactive Inc. et ses sociétés affiliées sont des filiales d'Amazon.com, Inc. (« Amazon »).
 
 Le présent Avis de confidentialité Twitch s'applique à votre utilisation de www.twitch.tv, et de tous les autres sites Web, applications, services ou événements live (en personne) fournis, détenus ou exploités par Twitch Interactive, Inc. (avec ses filiales, « Twitch ») qui renvoient au présent Avis de confidentialité (collectivement, les « Services Twitch »). Twitch respecte la vie privée des utilisateurs, abonnés, éditeurs, membres et autres personnes qui visitent et utilisent les Services Twitch (collectivement ou individuellement, « vous » ou « utilisateurs ») et souhaite vous indiquer comment nous recueillons, utilisons et divulguons les informations personnelles vous concernant et transmises par vos soins. En visitant [www.twitch.tv](http://www.twitch.tv/), en configurant votre compte Twitch ou en utilisant les Services Twitch, vous acceptez les pratiques décrites dans le présent Avis de confidentialité, dans la mesure permise par la loi.
 
@@ -63,11 +67,11 @@ Twitch s'appuiera sur des motifs juridiques pour traiter vos informations person
 Twitch et la divulgation de renseignements personnels
 -----------------------------------------------------
 
-Nous partageons ces informations comme décrit ci-après :
+Les informations sur les utilisateurs de Twitch constituent une partie importante de notre activité et de notre travail pour offrir la meilleure expérience à travers les services de Twitch. Nous prenons au sérieux la responsabilité de protéger vos informations personnelles et nous honorons la confiance que vous accordez à Twitch. Twitch n'a pas pour vocation de vendre les informations personnelles de ses utilisateurs à des tiers. Twitch partage les données personnelles uniquement comme décrit ci-dessous et avec notre société mère, Amazon.com, Inc., et les filiales contrôlées par Amazon.com, Inc., qui sont soumises à cet Avis de confidentialité ou qui suivent des pratiques au moins aussi protectrices que celles décrites dans cet Avis de confidentialité.
 
-Nous divulguons ces informations à des fournisseurs de services travaillant en notre nom, notamment pour les tâches suivantes : fournir des services d’hébergement, de maintenance et de sécurité de sites Web ; exécuter les commandes ; effectuer l'analyse des données et créer des rapports ; offrir certaines fonctionnalités; assurer l'organisation d'événements live (en personne); ou aider Twitch à améliorer les Services Twitch et à créer de nouveaux services et fonctionnalités. Nous exigeons que ces parties traitent ces informations conformément à la présente Notice sur la Protection de vos informations personnelles, nous les autorisons à utiliser les informations uniquement aux fins pour lesquelles elles leur sont fournies, et nous exigeons qu'elles aient recours à des mesures de confidentialité raisonnables.
+Nous pouvons divulguer ces informations aux fournisseurs de services travaillant pour notre compte, par exemple, pour : fournir des services d'hébergement de site Web, de maintenance et de sécurité ; exécuter des commandes ; effectuer des analyses de données et établir des rapports ; proposer certaines fonctionnalités ; ou aider Twitch à améliorer les Services Twitch et à créer de nouveaux services et de nouvelles fonctionnalités. Nous exigeons que ces parties traitent ces informations conformément à la présente Notice sur la Protection de vos informations personnelles, nous les autorisons à utiliser les informations uniquement aux fins pour lesquelles elles leur sont fournies, et nous exigeons qu'elles aient recours à des mesures de confidentialité raisonnables.
 
-Twitch peut mettre des informations à la disposition de nos sociétés affiliées (c'est-à-dire des entités contrôlées par, contrôlant ou sous contrôle commun avec Twitch), y compris Amazon.com, Inc. et ses filiales qui sont soumises à la présente Notice sur la Protection de vos informations personnelles ou qui suivent des pratiques au moins aussi protectrices que celles décrites dans la présente Notice sur la Protection de vos informations personnelles.
+Twitch peut partager des informations personnelles avec et recevoir des informations personnelles de la part de nos affiliés (c'est-à-dire des entités contrôlées par, contrôlant ou sous contrôle commun avec Twitch), y compris Amazon.com, Inc. et ses filiales qui sont soumises à cet Avis de confidentialité ou qui suivent des pratiques au moins aussi protectrices que celles décrites dans cet Avis de confidentialité. Les informations personnelles recueillies par Twitch peuvent être combinées avec les informations personnelles des clients d'Amazon, et ces informations combinées peuvent être utilisées à la fois par Twitch et Amazon pour exploiter, fournir, développer et améliorer les produits et services d'Amazon et de Twitch.
 
 Twitch peut divulguer des informations sur les utilisateurs si nous pensons de bonne foi qu'une telle divulgation est nécessaire au respect des lois fédérales et des États américains ou à d'autres lois applicables dans le monde entier (par exemple, dans votre pays de résidence), ou satisfaire à une décision de justice, une demande judiciaire ou administrative, une citation à comparaître ou un mandat dans les formes exigées par la loi.
 
@@ -177,9 +181,9 @@ Twitch UK Limited a été désigné par Twitch Interactive, Inc. comme son repr�
 Informations supplémentaires pour certaines juridictions
 --------------------------------------------------------
 
-### Déclarations relatives à la vie privée en Californie
+### **Divulgations de confidentialité supplémentaires spécifiques à l'État**
 
-Consultez la page des [Déclarations relatives à la vie privée en Californie](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) pour lire les déclarations additionnelles requises par le California Consumer Privacy Act et d'autres lois californiennes.
+Consultez la page [Divulgations de confidentialité spécifiques à l'État](https://www.twitch.tv/p/legal/state-specific-privacy-disclosures/) pour lire les divulgations supplémentaires requises par les lois applicables.
 
 ### Divulgations d'informations confidentielles au Japon
 
