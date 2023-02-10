@@ -1081,7 +1081,7 @@ Les services suivants sont inclus dans les tarifs Plus :
 * Un petit bagage
 * Un bagage en soute de 20 kg
 * Un siège standard réservé
-* Enregistrement gratuit à l’aéroport
+* Enregistrement gratuit à l’aéroport. L’enregistrement gratuit à l’aéroport ne sera disponible que pour les passagers ayant réservé un tarif Flexi Plus via le site Internet ou l’application officiels Ryanair. Les réservations effectuées par l’intermédiaire d’agents de voyages en ligne sont expressément exclues de ce service.
 
 Les tarifs Plus ne peuvent pas être réservés avec la réduction Erasmus. 
 
