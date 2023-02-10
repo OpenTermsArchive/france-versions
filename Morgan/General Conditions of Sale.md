@@ -233,16 +233,16 @@ L'Internaute a le choix entre différents modes de livraison, à savoir :
 France Métropolitaine
 
 Livraison à domicile sur une adresse de son choix :  
-5,90€ TTC pour un montant total de commande inférieur ou égal à 49€ TTC  
-Gratuit pour un montant total de commande supérieur à 49€ TTC
+5,90€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
+Gratuit pour un montant total de commande supérieur à 69€ TTC
 
 Livraison en Point Retrait Colissimo :  
-3,50€ TTC pour un montant total de commande inférieur ou égal à 49€ TTC  
-Gratuit pour un montant total de commande supérieur à 49€ TTC
+3,50€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
+Gratuit pour un montant total de commande supérieur à 69€ TTC
 
 Livraison dans l'un des points relais Mondial Relay, figurant sur la liste accessible sur le Site :  
-3,00€ TTC pour un montant total de commande inférieur ou égal à 49€ TTC  
-Gratuit pour un montant total de commande supérieur à 49€ TTC
+3,00€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
+Gratuit pour un montant total de commande supérieur à 69€ TTC
 
 Livraison dans l'un des Magasins, figurant sur la liste accessible sur le Site :  
 Gratuit
