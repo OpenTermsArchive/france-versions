@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 09 Jan 2023
+### Date d’entrée en vigueur : 13 Feb 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 09 Jan 2023**
+**Date d’entrée en vigueur : 13 Feb 2023**
 
   
 
@@ -1048,10 +1048,10 @@ Si les sièges standards au tarif de €4 des rangées 18 à 33 sont indisponibl
 
 Si aucun siège côte à côte n’est disponible, un vol différent peut être sélectionné.   
 
-REGULAR, PLUS & FLEXI PLUS
+REGULAR, PLUS, FAMILY PLUS & FLEXI PLUS
 
 
-============================
+=========================================
 
 **Tarifs Regular**
 
@@ -1086,6 +1086,24 @@ Les services suivants sont inclus dans les tarifs Plus :
 Les tarifs Plus ne peuvent pas être réservés avec la réduction Erasmus. 
 
 Les tarifs Plus ne seront pas disponibles pour les réservations comprenant des vols en correspondance.
+
+**Family Plus**
+
+Les tarifs Family Plus sont disponibles sur tous les vols pour les réservations de six passagers maximum avec au moins un enfant ou adolescent.
+
+Vous pouvez obtenir un surclassement en Family Plus après avoir effectué votre réservation jusqu’à deux heures avant l’heure de départ prévue.
+
+Les tarifs Family Plus sont disponibles après avoir effectué votre réservation uniquement si vous n’avez pas encore acheté au moins deux produits du forfait.
+
+Tous les tarifs Family Plus sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
+
+Les services suivants sont inclus dans les tarifs Family Plus :
+
+* Un bagage enregistré de 20 kg
+* Un siège standard réservé pour 4 € pour tous les adultes et adolescents de la réservation qui ne sont pas tenus de réserver un siège
+* Un bagage enregistré de 10 kg pour tous les passagers de la réservation
+
+Les tarifs Family Plus ne sont pas disponibles sur les itinéraires espagnols subventionnés.
 
 **Flexi Plus**  
 
