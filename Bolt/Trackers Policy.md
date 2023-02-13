@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/01/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (39)
+Necessary (47)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -38,16 +38,22 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | \_cq\_suid | eudevil.mcangelus.com | This cookie is used to distinguish between humans and bots. | Session | HTTP Cookie |
 | \_GRECAPTCHA | [Google](https://policies.google.com/privacy "Google's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 179 days | HTTP Cookie |
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
+| bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
 | CONSENT \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x14\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
-| deviceId | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
+| deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
+| hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
+| platform-viewer | [Wix](https://www.wix.com/about/privacy "Wix's privacy policy") | Preserves the visitor's session state across page requests. | Session | Pixel Tracker |
+| ssr-caching | bolt.eu | This cookie is necessary for the cache function. A cache is used by the website to optimize the response time between the visitor and the website. The cache is usually stored on the visitor’s browser. | 1 day | HTTP Cookie |
+| svSession | bolt.eu | This cookie is necessary for the login function on the website. | 400 days | HTTP Cookie |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_username | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | test\_cookie | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to check if the user's browser supports cookies. | 1 day | HTTP Cookie |
+| XSRF-TOKEN | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
 Preferences (13)
@@ -69,7 +75,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (48)
+Statistics (46)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -83,39 +89,43 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x4\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>couriers.bolt.eu  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Used to detect whether the user navigation and interactions are included in the website’s data analytics. | 1 day | HTTP Cookie |
-| \_hjIncludedInSessionSample \[x6\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
-| \_hjRecordingLastActivity | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
+| \_hjIncludedInPageviewSample \[x2\] | couriers.bolt.eu  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Used to detect whether the user navigation and interactions are included in the website’s data analytics. | 1 day | HTTP Cookie |
+| \_hjIncludedInSessionSample \[x5\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
 | \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
-| hjViewportId | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
+| fedops.logger.defaultOverrides | bolt.eu | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
+| fedops.logger.sessionId | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Persistent | HTML Local Storage |
 | ln\_or | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
-| previousUrl \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
-| tildasid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
-| tildauid \[x3\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
+| previousUrl \[x2\] | couriers.bolt.eu  <br>static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
+| survi::#::allvisitor | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Persistent | HTML Local Storage |
+| survi::#::statusrequestHandler | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Persistent | HTML Local Storage |
+| survi::#::visitInitialUrl | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Session | HTML Local Storage |
+| survi::#::visitReferrerUrl | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Session | HTML Local Storage |
+| survi::#::visitViews | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Session | HTML Local Storage |
+| tildasid \[x2\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
+| tildauid \[x2\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
 | tracker/tc\_imp.gif | potter.mcangelus.com | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Session | Pixel Tracker |
-| visited \[x3\] | couriers.bolt.eu  <br>market.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
+| visited \[x2\] | couriers.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (66)
+Marketing (65)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_ddg1\_ | market.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
+| \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
 | \_\_mpq\_#\_# \[x3\] | bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. | Persistent | HTML Local Storage |
 | \_cq\_duid | eudevil.mcangelus.com | Used by the website to protect against fraud in relation to its referral system. | 3 months | HTTP Cookie |
-| \_cq\_tuid \[x2\] | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
+| \_cq\_tuid | eudevil.mcangelus.com | Collects data on visitors. This information is used to assign visitors into segments, making website advertisement more efficient. | Session | HTML Local Storage |
 | \_fbp | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | \_gcl\_au \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
-| \_hjRecordingEnabled | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
 | \_trackingplan\_initial | [Google](https://policies.google.com/privacy "Google's privacy policy") | Pending | Persistent | HTML Local Storage |
 | \_trackingplan\_is\_sampled\_user | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
 | \_trackingplan\_sample\_rate | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
@@ -134,7 +144,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | NID | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. | 6 months | HTTP Cookie |
 | pagead/1p-conversion/# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
 | pagead/1p-user-list/# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. | Session | Pixel Tracker |
-| pagead/landing \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
+| pagead/landing \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
 | pagead/viewthroughconversion/699781999 | [Google](https://policies.google.com/privacy "Google's privacy policy") | Pending | Session | Pixel Tracker |
 | sessionInitiated | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Session | HTML Local Storage |
 | sp\_landing | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 day | HTTP Cookie |
