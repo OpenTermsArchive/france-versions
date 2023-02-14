@@ -695,7 +695,7 @@ En cas de réclamation, le Client pourra s'adresser en premier recours au servic
 
     - Par la section "besoin d'aide" dans la rubrique FAQ.
 
-    - Par téléphone au 0805 620 622 du lundi au vendredi de 9h à 19h, prix d’un appel local.
+    - Par téléphone au 09 69 32 42 52  du lundi au samedi de 9h à 19h, prix d’un appel local.
 
     - Par courriel : commande@serviceclients.leclerc
 
