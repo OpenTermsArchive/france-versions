@@ -266,9 +266,11 @@ FRANCE
 
 Devolucion Seller Kappa Iberia
 
-Avda. de Europa, 26; Edificio Ática 5 módulo 2B
+KSI
 
-28224 Pozuelo de Alarcón, Madrid
+Vía Dos Castillas 9A – Portal 3
+
+28224 Pozuelo de Alarcon, Madrid  
 
 ESPAÑA
 
