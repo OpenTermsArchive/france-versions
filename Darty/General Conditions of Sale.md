@@ -22,7 +22,9 @@ PRIX
 
 
 
-(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama, Cora, Digital,Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania, Printemps, Pro \& Cie, Pulsat,Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produits comprenant des remises (soldes, ventesflash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une place de marché (Marketplace) ne pourront faire l’objet d’unremboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée par rapport au prix payé chez Darty et doit être constatée dans les 10 jours.Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par le client. la carte cadeau est envoyée, par email, dans un délai de 3 semaines après lademande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous les magasins Darty de France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ouponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de crédit accessoire à une vente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque,SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1 Rue Victor Basch – CS 70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vousdisposez d’un droit légal de rétractation. Cette publicité est diffusée par établissement DARTY et FILS SAS, au capital de 23 470 382 € - 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, RCS Bobigny B 542 086 616, immatriculée à l’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisationd’opérations de crédit sans agir en qualité de prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Lemontant se présente sous forme de carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’unevaleur minimale de 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produits volumineuxsont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
+(1) Concurrents éligibles au remboursement de la différence : Amazon, Apple Store, Auchan, BHV, Boulanger, BUT, Carrefour, Casino, Castorama, Cdiscount, Cobra, Conforama, Cora, Digital,Électro Dépôt, Expert, Fnac, Galeries Lafayette, Géant Casino, Gitem, Grosbill, Intermarché, La Redoute, LDLC, Leclerc, Leroy Merlin, Magma, MDA, Pixmania, Printemps, Pro \& Cie, Pulsat,Rue du Commerce, U Hyper-Supermarchés, Ubaldi, webdistrib. Ces dispositions ne s’appliquent pas aux produits d’expositions, ni aux produits comprenant des remises (soldes, ventesflash, prix barrés...) ni aux produits d’occasion. Les prix constatés sur des produits vendus lors de ventes privées ou sur une place de marché (Marketplace) ne pourront faire l’objet d’unremboursement, de même que les prix manifestement erronés ou déloyaux. La différence de prix est calculée par rapport au prix payé chez Darty et doit être constatée dans les 10 jours.Un justificatif peut être demandé dans l’hypothèse où Darty ne pourrait vérifier le prix indiqué par le client. la carte cadeau est envoyée, par email, dans un délai de 3 semaines après lademande. Elle est valable pendant 6 mois, utilisable en une ou plusieurs fois dans tous les magasins Darty de France métropolitaine (hors darty.com). (2) Excepté dispositif de prix local ouponctuel et hors magasins Darty franchisés ou licenciés. (3) Offre de crédit accessoire à une vente sous réserve d’acceptation par CA Consumer Finance prêteur dont Sofinco est une marque,SA au capital de 554 482 422 €, 542 097 522 RCS Evry, 1 Rue Victor Basch – CS 70001 – 91068 MASSY Cedex. Intermédiaire d’assurance inscrit à l’ORIAS N° 07 008 079 (www.orias.fr). Vousdisposez d’un droit légal de rétractation. Cette publicité est diffusée par établissement DARTY et FILS SAS, au capital de 23 470 382 € - 1ZAC Port d'Ivry - 9 rue des Bateaux Lavoirs - 94200 IVRY-SUR-SEINE, RCS Bobigny B 542 086 616, immatriculée à l’ORIAS N° 11 064 233 (www.orias.fr) qui est mandataire bancaire de CA Consumer Finance, et apporte son concours à la réalisationd’opérations de crédit sans agir en qualité de prêteur. Etablissements DARTY et FILS est aussi mandataire d’intermédiaire d’assurance. (4) Offre réservée aux personnes majeures. Lemontant se présente sous forme de carte cadeau etest utilisable dans tous les magasins Darty participants (hors darty.com) dans un délai d’un an à compter de la reprise. Carte cadeau d’unevaleur minimale de 10 euros ; le client pourra compléter le prix de cession crédité pour atteindre ce seuil. La carte cadeau n’est ni échangeable, ni remboursable en totalité ou partiellement.
+
+La délivrance de l’avoir entraîne le transfert de propriété du produit au bénéfice de Darty. Le transfert est définitif et le produit repris ne pourra être rendu. (5) Les produits volumineuxsont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.
 
 
 
@@ -38,45 +40,45 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en nançant vos produits (3).
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
-Recevez jusqu’à 400 € en échange de votre smartphone ou tablette avec leurs accessoires directementen magasin. Avec Darty : recyclez, choisissez, économisez. Sont exclus de l’offre de reprise, les produitsbrisés ou en morceaux, dont certaines parties sont arrachées ou manquantes, les produits dont la technologieest dépassée, les produits trop anciens, les imitations et contrefaçons. Le montant de la reprise est décidé enfonction du barème de prix de reprise proposé par Darty à la date de la reprise (une fois l’éligibilité de votreproduit vériée). Ce barème de prix est librement consultable auprès d’un vendeur et est susceptible d’évolution.
+Recevez jusqu’à 400 € en échange de votre smartphone ou tablette avec leurs accessoires directementen magasin. Avec Darty : recyclez, choisissez, économisez. Sont exclus de l’offre de reprise, les produitsbrisés ou en morceaux, dont certaines parties sont arrachées ou manquantes, les produits dont la technologieest dépassée, les produits trop anciens, les imitations et contrefaçons. Le montant de la reprise est décidé enfonction du barème de prix de reprise proposé par Darty à la date de la reprise (une fois l’éligibilité de votreproduit vérifiée). Ce barème de prix est librement consultable auprès d’un vendeur et est susceptible d’évolution.
 
 5\. 15 jours pour changer d’avis
 
-Vous disposez d’un délai de 15 jours suivant votre achat en magasin ou la date de réception de votrecommande darty.com pour changer d’avis. Le produit devra être dans son état d’origine et dans son emballageavec ses accessoires. Pour les produits techniques (informatique, son, image, téléphonie, robot, drone...),le produit pourra faire l’objet d’un envoi en atelier pour vérication de son état avant remboursement ouéchange.Gratuité du retour ? Le retour est gratuit en magasin ou à vos frais par voie postale (sauf commande nonconforme, abimé transport...). Pour un produit volumineux (5) livré et installé par un livreur Darty, des fraisd’enlèvement seront facturés uniquement si vous ne passez pas de nouvelle commande.Des exceptions ?Nous ne pouvons pas reprendre les produits suivants si vous les avez déballés :• les produits qui ne peuvent pas être recommercialisés pour des raisons d’hygiène : contact avec la peau(rasoir, tondeuse, épilation, soin du visage, manucure/pédicure, électrostimulation, appareil anti cellulite,tensiomètre, thermomètre, thalasso pieds, dispositif médical...), contact avec les cheveux (brosse, lisseur,fer à boucler...), hygiène dentaire (brosse à dents, jet dentaire...), casques audio et écouteurs• les consommables (cartouche d’encre, recharge de gaz, papier photo,...)• les jeux vidéo, logiciels informatiques, contenus téléchargeables...Les coffrets cadeaux et cartes cadeaux ne sont ni repris, ni échangés (même si non déballés).Les scooters électriques et leurs accessoires proposés en magasin ne sont ni repris, ni échangés.Échange ou remboursement ?
+Vous disposez d’un délai de 15 jours suivant votre achat en magasin ou la date de réception de votrecommande darty.com pour changer d’avis. Le produit devra être dans son état d’origine et dans son emballageavec ses accessoires. Pour les produits techniques (informatique, son, image, téléphonie, robot, drone...),le produit pourra faire l’objet d’un envoi en atelier pour vérification de son état avant remboursement ouéchange.Gratuité du retour ? Le retour est gratuit en magasin ou à vos frais par voie postale (sauf commande nonconforme, abimé transport...). Pour un produit volumineux (5) livré et installé par un livreur Darty, des fraisd’enlèvement seront facturés uniquement si vous ne passez pas de nouvelle commande.Des exceptions ?Nous ne pouvons pas reprendre les produits suivants si vous les avez déballés :• les produits qui ne peuvent pas être recommercialisés pour des raisons d’hygiène : contact avec la peau(rasoir, tondeuse, épilation, soin du visage, manucure/pédicure, électrostimulation, appareil anti cellulite,tensiomètre, thermomètre, thalasso pieds, dispositif médical...), contact avec les cheveux (brosse, lisseur,fer à boucler...), hygiène dentaire (brosse à dents, jet dentaire...), casques audio et écouteurs• les consommables (cartouche d’encre, recharge de gaz, papier photo,...)• les jeux vidéo, logiciels informatiques, contenus téléchargeables...Les coffrets cadeaux et cartes cadeaux ne sont ni repris, ni échangés (même si non déballés).Les scooters électriques et leurs accessoires proposés en magasin ne sont ni repris, ni échangés.Échange ou remboursement ?
 
 Un achat sur darty.com (livré, expédié ou retiré en magasin) vous sera remboursé dans le cas d’unerétractation conformément à nos obligations légales.
 
 Un achat en magasin sera remboursé si l’emballage n’est pas ouvert. S’il est ouvert et que le produit n’a pasété utilisé, il sera échangé. Les produits utilisés ne seront pas repris.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 3
+\- 7 février 2023 - 3
 
 SERVICE
 
 6\. Le retrait 1 h gratuit en magasin
 
-Pour les commandes passées sur darty.com ou par téléphone, nous mettons votre produit à dispositiondans le magasin Darty de votre choix, gratuitement et seulement 1 h après votre achat, s’il est en stock.
+Pour les commandes passées sur darty.com ou par téléphone, nous mettons votre produit à dispositiondans le magasin Darty de votre choix, gratuitement et seulement 1h après votre achat, s’il est en stock.
 
 
 
 7\. La livraison sur rendez-vous en 2 h chrono ousur un créneau de 2 h le jour de votre choix
 
-Pour les produits volumineux (1), Darty peut vous livrer le soir même (2), le lendemain (3) ou le jour de votrechoix sur un créneau de 2 h, du lundi au samedi, dès 7 h et jusqu’à 21 h, dans les Zones de Conance (4).Pour les produits jusqu’à 30 kg, vous pouvez aussi être livré le jour même en 2 h chrono ou sur uncréneau de 2 h le jour de votre choix, du lundi au samedi, dès 10 h et jusqu’à 22 h (5).
+Pour les produits volumineux (1), Darty peut vous livrer le soir même (2), le lendemain (3) ou le jour de votrechoix sur un créneau de 2 h, du lundi au samedi, dès 7 h et jusqu’à 21 h, dans les Zones de Confiance (4).Pour les produits jusqu’à 30 kg, vous pouvez aussi être livré le jour même en 2 h chrono ou sur uncréneau de 2 h le jour de votre choix, du lundi au samedi, dès 10 h et jusqu’à 22 h (5).
 
 
 
 8\. La livraison sur rendez-vous avec installation sur mesure
 
-Pour les produits volumineux (1), Darty vous livre, vous installe et vous met en service votre produitdans la pièce de votre choix (6). La livraison a lieu le jour de votre choix sur un créneau de 5 h, du lundiau samedi, entre 8 h et 17 h, dans les Zones de Conance.La livraison avec installation est gratuite pour les produits volumineux(1) à partir de 399 € (7).Lors de votre commande en magasin ou sur darty.com, vous pouvez aussi choisir une livraison avecune prestation d’installation sur mesure de votre produit : xation de la porte décorative sur votrenouvel électroménager encastrable, pose murale de votre nouvelle TV...
+Pour les produits volumineux (1), Darty vous livre, vous installe et vous met en service votre produitdans la pièce de votre choix (6). La livraison a lieu le jour de votre choix sur un créneau de 5 h, du lundiau samedi, entre 8 h et 17 h, dans les Zones de Confiance.La livraison avec installation est gratuite pour les produits volumineux(1) à partir de 399 € (7).Lors de votre commande en magasin ou sur darty.com, vous pouvez aussi choisir une livraison avecune prestation d’installation sur mesure de votre produit : fixation de la porte décorative sur votrenouvel électroménager encastrable, pose murale de votre nouvelle TV...
 
-Les Zones de Conance
+Les Zones de Confiance
 
-Pour vérier votre éligibilité à la livraison Darty, retrouvez toutes les Zones de Conance surbit.ly/contratdeconance et téléchargez le PDF en bas de page, ou renseignez-vous auprès d’unvendeur en magasin.
+Pour vérifier votre éligibilité à la livraison Darty, retrouvez toutes les Zones de Confiance surbit.ly/contratdeconfiance et téléchargez le PDF en bas de page, ou renseignez-vous auprès d’unvendeur en magasin.
 
 9\. La reprise gratuite pour recyclage de vos anciensappareils
 
@@ -84,11 +86,15 @@ Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gra
 
 
 
-(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.comavant 15h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (3) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux,Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Les Zones de Confiance sont détaillées en annexe. (5) Pour toute commande passée en magasin ou sur darty.comavant 17h30, livraison possible en 2h chrono. La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en serviceet la reprise de votre ancien produit. Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon,Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (6) Dans le cas où le réseau électrique et de plomberie n’existerait pas oune serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Lesappareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais nesont ni installés, ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraientpas être montés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreursn’étant pas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.(7) Hors modèles neufs ou d’exposition livrés depuis un magasin Darty. (8) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits enfin de vie, en conformité avec la réglementation. Les anciens produits repris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
+(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.com
 
+avant 15h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (3) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux,Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Les Zones de Confiance sont détaillées en annexe. (5) Pour toute commande passée en magasin ou sur darty.comavant 17h30, livraison possible en 2h chrono. La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en serviceet la reprise de votre ancien produit. Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon,Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (6) Dans le cas où le réseau électrique et de plomberie n’existerait pas oune serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Lesappareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais nesont ni installés, ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraientpas être montés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreursn’étant pas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.
 
+(7) Hors modèles neufs ou d’exposition livrés depuis un magasin Darty. (8) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits enfin de vie, en conformité avec la réglementation. Les anciens produits repris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 4
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 4
 
 CONSEIL
 
@@ -112,17 +118,17 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 (1) Prix d’un appel local. Sauf jours fériés (1er janvier, 1er mai, et 25 décembre).
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 5
+\- 7 février 2023 - 5
 
 13\. L’information sur les produits durablesLe choix durable
 
-Darty vous aide grâce à la sélection le choix durable. L’étiquette le choix durable sera placée sur lesproduits ayant la meilleure abilité du moment constatée par le SAV Darty et une disponibilité despièces détachées de 10 ans minimum.
+Darty vous aide grâce à la sélection le choix durable. L’étiquette le choix durable sera placée sur lesproduits ayant la meilleure fiabilité du moment constatée par le SAV Darty et une disponibilité despièces détachées de 10 ans minimum.
 
 Pourquoi ?
 
-Le choix durable est attribué par Fnac Darty à une sélection d’appareils électroménager jugés plusrobustes sur la base du score de durabilité calculé sur les 12 derniers mois. Le score de durabilités’appuie notamment sur des critères• de abilité, calculée à partir du taux de panne (1),• et de la réparabilité qui prend en compte la disponibilité des pièces détachées et la capacité àréparer plutôt qu’à échanger le produit.Ainsi, pour chaque catégorie de produit et chaque tranche de prix, le produit sélectionné est le plusdurable, c’est-à-dire à la fois able et réparable. Darty s’engage et vous guide vers le bon choix.
+Le choix durable est attribué par Fnac Darty à une sélection d’appareils électroménager jugés plusrobustes sur la base du score de durabilité calculé sur les 12 derniers mois. Le score de durabilités’appuie notamment sur des critères• de fiabilité, calculée à partir du taux de panne (1),• et de la réparabilité qui prend en compte la disponibilité des pièces détachées et la capacité àréparer plutôt qu’à échanger le produit.Ainsi, pour chaque catégorie de produit et chaque tranche de prix, le produit sélectionné est le plusdurable, c’est-à-dire à la fois fiable et réparable. Darty s’engage et vous guide vers le bon choix.
 
 Quand est-ce attribué ?
 
@@ -130,7 +136,7 @@ Chaque trimestre, ce palmarès des produits « les plus durables » sera actuali
 
 Le Baromètre du SAV
 
-Cette étude donne en toute transparence la durée d’usage moyenne de quinze catégories de produits(GEM, PEM, High-Tech)(2) et permet notamment de reconnaître les produits les plus ables. Elle s’appuiesur des enquêtes post-achat réalisées auprès des clients, sur l’engagement pris par les fabricantsde fournir des pièces pendant une période donnée et sur l’analyse de près de 600 000 réparationsréalisées par le SAV Darty.
+Cette étude donne en toute transparence la durée d’usage moyenne de quinze catégories de produits(GEM, PEM, High-Tech)(2) et permet notamment de reconnaître les produits les plus fiables. Elle s’appuiesur des enquêtes post-achat réalisées auprès des clients, sur l’engagement pris par les fabricantsde fournir des pièces pendant une période donnée et sur l’analyse de près de 600 000 réparationsréalisées par le SAV Darty.
 
 L’indice de réparabilité.
 
@@ -138,13 +144,13 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 
 
-(1) Taux comparé aux autres produits de la même famille et de la même gamme de prix du produit.(2) GEM : Gros Électroménager, PEM : Petit Électroménager
+(1) Taux comparé aux autres produits de la même famille et de la même gamme de prix du produit.
 
+(2) GEM : Gros Électroménager, PEM : Petit Électroménager
 
+Tous nos magasins Tous nos services
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 6
-
-
+\- 7 février 2023 - 6
 
 DURABILITÉ
 
@@ -154,21 +160,19 @@ DURABILITÉ
 
 14\. La réparation de tous vos produits
 
-Tous vos achats bénécient de la garantie légale de conformité (1) dans les conditions décrites enAnnexe 1. En cas de non-conformité (panne, dysfonctionnement ...), vos produits sont garantispendant 2 ans à compter de la délivrance (2). Pour vos biens et vos biens comportant des élémentsnumériques, la garantie permet d’obtenir gratuitement la réparation ou l’échange du produit (3),ou à défaut le remboursement (4) . Pour vos contenus numériques et vos services numériques,la garantie permet d’obtenir gratuitement la mise en conformité de ce contenu ou servicenumérique, ou à défaut la réduction du prix ou la résolution du contrat (5) .
+Tous vos achats bénéficient de la garantie légale de conformité (1) dans les conditions décrites enAnnexe 1. En cas de non-conformité (panne, dysfonctionnement ...), vos produits sont garantispendant 2 ans à compter de la délivrance (2). Pour vos biens et vos biens comportant des élémentsnumériques, la garantie permet d’obtenir gratuitement la réparation ou l’échange du produit (3),ou à défaut le remboursement (4) . Pour vos contenus numériques et vos services numériques,la garantie permet d’obtenir gratuitement la mise en conformité de ce contenu ou servicenumérique, ou à défaut la réduction du prix ou la résolution du contrat (5) .
 
 La garantie 2 ans par le SAV Darty
 
-Et lorsque vous achetez chez Darty, vous bénéciez en plus des avantages du SAV DartyL’intervention à domicile d’un technicien Darty, du lundi au samedi de 8 h à 17 h, pour les « produitsvolumineux » (6) dans les Zones de Conance (7) après un diagnostic par téléphone. Cette interventionpeut avoir lieu dans les 24 h qui suivent votre appel (8). Pour les autres produits, conformément à laréglementation, réparation en atelier après dépôt au comptoir SAV du magasin.Le prêt d’un produit de remplacement en cas de panne de certains appareils, pendant la durée deréparation (9).Conformément à nos obligations légales, la prolongation de la garantie en cours, du tempsd’immobilisation de votre appareil suite à une intervention après-vente (10).Si votre produit est défectueux à la première utilisation, dans les 15 jours suivant l’achat, nouspouvons vous proposer un échange ou un remboursement (11).Les conditions des garanties sont détaillées en annexe dans le tableau des garanties.
+Et lorsque vous achetez chez Darty, vous bénéficiez en plus des avantages du SAV DartyL’intervention à domicile d’un technicien Darty, du lundi au samedi de 8h à 17 h, pour les « produitsvolumineux » (6) dans les Zones de Confiance (7) après un diagnostic par téléphone. Cette interventionpeut avoir lieu dans les 24 h qui suivent votre appel (8). Pour les autres produits, conformément à laréglementation, réparation en atelier après dépôt au comptoir SAV du magasin.Le prêt d’un produit de remplacement en cas de panne de certains appareils, pendant la durée deréparation (9).Conformément à nos obligations légales, la prolongation de la garantie en cours, du tempsd’immobilisation de votre appareil suite à une intervention après-vente (10).Si votre produit est défectueux à la première utilisation, dans les 15 jours suivant l’achat, nouspouvons vous proposer un échange ou un remboursement (11).Les conditions des garanties sont détaillées en annexe dans le tableau des garanties.
 
 Les garanties sur-mesure
 
-Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénécier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en annexe.
+Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en annexe.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 7
-
-
+\- 7 février 2023 - 7
 
 DURABILITÉ
 
@@ -180,19 +184,19 @@ Le service Darty Max inclut :
 
 quel que soit l’âge des produits achetés chez Darty ou ailleurs :• la réparation prise en charge à 100% (2), diagnostic, déplacement à domicile, pièces détachéeset main-d’œuvre, quel que soit le nombre d’appareils ou de pannes• l’accès prioritaire à l’assistance téléphonique et aux interventions à domicile (3)
 
-• le contrôle annuel en visio des appareils• les conseils d’entretien et l’aide à l’usagepour les appareils achetés chez Darty ou à la Fnac, le remboursement en carte cadeau Fnac Dartyà la valeur d’achat en cas d’impossibilité de réparer (4), jusque 15 ans à compter de la date d’achatdu produit et dans la limite de 5 000 € TTC par appareilla livraison gratuite et illimitée (5), sur créneau au choix, avec installation comprise, sur les achatseffectués en magasins Darty ou sur darty.comles remises et offres promotionnelles sur les produits et services, réservées aux abonnés tout aulong de l’année, avec notamment -30% sur les prestations d’installation sur mesure à la livraisonréalisées par Darty (équipement encastrable, xation murale TV, mise en route de vélo électrique).Pour les produits qui n’ont pas été achetés chez Darty ou à la Fnac et selon le type d’appareil,la première réparation est facturée d’un montant forfaitaire de 49 € ou 79 € TTC, les réparations suivantessont incluses dans l’abonnement (3).
+• le contrôle annuel en visio des appareils• les conseils d’entretien et l’aide à l’usagepour les appareils achetés chez Darty ou à la Fnac, le remboursement en carte cadeau Fnac Dartyà la valeur d’achat en cas d’impossibilité de réparer (4), jusque 15 ans à compter de la date d’achatdu produit et dans la limite de 5 000 € TTC par appareilla livraison gratuite et illimitée (5), sur créneau au choix, avec installation comprise, sur les achatseffectués en magasins Darty ou sur darty.comles remises et offres promotionnelles sur les produits et services, réservées aux abonnés tout aulong de l’année, avec notamment -30% sur les prestations d’installation sur mesure à la livraisonréalisées par Darty (équipement encastrable, fixation murale TV, mise en route de vélo électrique).Pour les produits qui n’ont pas été achetés chez Darty ou à la Fnac et selon le type d’appareil,la première réparation est facturée d'un montant forfaitaire de 49 € ou 79 € TTC, les réparations suivantessont incluses dans l’abonnement (3).
 
-Pour répondre aux besoins de chaque foyer, Darty Max propose trois formules :Darty Max Essentiel : couvre pour 9,99€ TTC par mois, l’entretien et la réparation de la catégoriegros électroménager (lave-linge, sèche-linge, lave-vaisselle, four, table de cuisson, cuisinière, hotte,réfrigérateur, congélateur, cave à vin, machine à café encastrable, micro-ondes et climatiseurs).
+Pour répondre aux besoins de chaque foyer, Darty Max propose trois formules :
 
-Darty Max Évolution à 14,99 € TTC par mois, qui couvre la catégorie gros électroménager, à laquelles’ajoutent le petit électroménager (aspirateur, fer à repasser, machine expresso, robots cuiseur etpâtissier, blender, grille-pain...) et la catégorie TV home cinéma (téléviseur, hi-, home cinéma,vidéoprojecteur, récepteur et périphérique TV), Son (casque audio, enceinte nomade, baladeurnumérique, radio).Une dernière formule, Darty Max Intégral, à 19,99 € TTC par mois, qui couvre les catégories grosélectroménager, petit électroménager, TV, Son, Photo (appareil photo, caméscope, complémentappareil photo) et Multimédia (ordinateur, tablette, moniteur, imprimante et scanner, téléphone xe,console de jeux). Cette formule permet aussi à ses abonnés de bénécier de 30% de réductionsur toutes les réparations de smartphones effectuées dans le réseau WeFix, liale du groupeFnac Darty.
+Darty Max Essentiel : couvre pour 9,99€ TTC par mois, l’entretien et la réparation de la catégoriegros électroménager (lave-linge, sèche-linge, lave-vaisselle, four, table de cuisson, cuisinière, hotte,réfrigérateur, congélateur, cave à vin, machine à café encastrable, micro-ondes et climatiseurs).
+
+Darty Max Évolution à 14,99 € TTC par mois, qui couvre la catégorie gros électroménager, à laquelles’ajoutent le petit électroménager (aspirateur, fer à repasser, machine expresso, robots cuiseur etpâtissier, blender, grille-pain...) et la catégorie TV home cinéma (téléviseur, hi-fi, home cinéma,vidéoprojecteur, récepteur et périphérique TV), Son (casque audio, enceinte nomade, baladeurnumérique, radio).Une dernière formule, Darty Max Intégral, à 19,99 € TTC par mois, qui couvre les catégories grosélectroménager, petit électroménager, TV, Son, Photo (appareil photo, caméscope, complémentappareil photo) et Multimédia (ordinateur, tablette, moniteur, imprimante et scanner, téléphone fixe,console de jeux). Cette formule permet aussi à ses abonnés de bénéficier de 30% de réductionsur toutes les réparations de smartphones effectuées dans le réseau WeFix, filiale du groupeFnac Darty.
 
 Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engagement initial de12 mois. Au-delà, l’abonné peut résilier chaque mois sans frais.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 8
-
-
+\- 7 février 2023 - 8
 
 DURABILITÉ
 
@@ -202,15 +206,15 @@ DURABILITÉ
 
 Un service complet d’assistance, de maintenance et de réparation
 
-Darty Max inclut dans chacune de ses trois formules un service de maintenance préventive, adosséà un service de visio. Il permet d’identier les produits à risques et de mieux les entretenir, and’allonger leur durée de vie en prévenant les pannes.
+Darty Max inclut dans chacune de ses trois formules un service de maintenance préventive, adosséà un service de visio. Il permet d’identifier les produits à risques et de mieux les entretenir, afind’allonger leur durée de vie en prévenant les pannes.
 
-Avec ce service de maintenance préventive, chaque abonné sera contacté une fois par an par lestechniciens experts SAV de Fnac Darty, an de vérier de façon individualisée l’état des produitsréférencés dans son abonnement, de faire un point sur les maintenances réalisées ou à opérer etde déclencher une intervention si nécessaire. Grâce à l’expertise des techniciens SAV Fnac Darty,ces derniers peuvent facilement identier le ou les produits qui mériteraient un entretien plus régulier.Le client bénécie d’une interface personnalisée, regroupant des conseils et ches pratiques pourentretenir ses produits. À partir de celle-ci, il pourra également prendre contact avec les technicienspour organiser une visio ainsi qu’accéder à son historique d’opérations de maintenance et deréparations éventuelles.
+Avec ce service de maintenance préventive, chaque abonné sera contacté une fois par an par lestechniciens experts SAV de Fnac Darty, afin de vérifier de façon individualisée l’état des produitsréférencés dans son abonnement, de faire un point sur les maintenances réalisées ou à opérer etde déclencher une intervention si nécessaire. Grâce à l’expertise des techniciens SAV Fnac Darty,ces derniers peuvent facilement identifier le ou les produits qui mériteraient un entretien plus régulier.Le client bénéficie d’une interface personnalisée, regroupant des conseils et fiches pratiques pourentretenir ses produits. À partir de celle-ci, il pourra également prendre contact avec les technicienspour organiser une visio ainsi qu’accéder à son historique d’opérations de maintenance et deréparations éventuelles.
 
 
 
 Des techniciens experts formés en interne qui font vivre Darty Max
 
-Premier réparateur de France (6), le Groupe Fnac Darty forme jusqu’à 300 techniciens par ansur l’ensemble du territoire, au sein de sa Tech Académie. La formation, qui s’adresse tant àdes collaborateurs du Groupe qu’à des candidats externes, s’articule autour de quatre blocs– sécurité, bases techniques, maintenance et réparation, relation client – et alterne des périodesde quinze jours en entreprise et quinze jours dans le centre de formation, sur une durée d’un an.À l’issue de leur formation, les apprenants se voient remettre un diplôme de Technicien Servicesde l’Électroménager Connecté, une certication professionnelle de niveau 4 inscrite au Répertoirenational des certications professionnelles (RNCP).
+Premier réparateur de France (6), le Groupe Fnac Darty forme jusqu’à 300 techniciens par ansur l’ensemble du territoire, au sein de sa Tech Académie. La formation, qui s’adresse tant àdes collaborateurs du Groupe qu’à des candidats externes, s’articule autour de quatre blocs– sécurité, bases techniques, maintenance et réparation, relation client – et alterne des périodesde quinze jours en entreprise et quinze jours dans le centre de formation, sur une durée d’un an.À l’issue de leur formation, les apprenants se voient remettre un diplôme de Technicien Servicesde l’Électroménager Connecté, une certification professionnelle de niveau 4 inscrite au Répertoirenational des certifications professionnelles (RNCP).
 
 
 
@@ -238,11 +242,9 @@ Intégral
 
 Les formules Darty Max :
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 9
-
-
+\- 7 février 2023 - 9
 
 DURABILITÉ
 
@@ -290,7 +292,7 @@ Réparation hors pièces
 
 Comprend la main d’oeuvre de réparation, hors pièces détachées qui seront facturées en sus. Les frais de réparation de 39 € s’ajoutent au diagnosticsi une réparation est réalisée. La réparation est effectuée si les pièces sont disponibles et si le montant total de la réparation est inférieur à 150 €.
 
-Un devis est établi systématiquement si le montant total de la réparation (forfait + pièces) est supérieur à 150€ et soumis au client pour validation avant exécutiondes travaux. Pour les produits téléphonie, consoles de jeux, appareils photo Reex, imprimantes, mobilité urbaine, la réparation se fait sur devis.39 €
+Un devis est établi systématiquement si le montant total de la réparation (forfait + pièces) est supérieur à 150€ et soumis au client pour validation avant exécutiondes travaux. Pour les produits téléphonie, consoles de jeux, appareils photo Reflex, imprimantes, mobilité urbaine, la réparation se fait sur devis.39 €
 
 Autres prestationsRecharge froid pour réfrigérateur ou congélateur (hors pièces détachées)En atelier (main d’œuvre) 99 €À domicile (main d’œuvre, frais et temps de déplacement) 129 €
 
@@ -304,17 +306,19 @@ WeFix
 
 Un partenaire au service de l’allongement de la durée de vie des smartphones qui vous propose :\- Un service de réparation rapide pour vos smartphones,\- Une solution XFORCE de protection d’écran sur mesure pour tous vos appareils (smartphone, tablette,montre connectée, ordinateur, console de jeu) inférieurs à 13 pouces,\- La vente de smartphones reconditionnés.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 10
-
-
+\- 7 février 2023 - 10
 
 DURABILITÉ
 
 Assurance mobile
 
-Tous les téléphones achetés neufs d’origine sont couverts (achetés en magasin Darty ou sur le site www.darty.com).Assurance sans franchiseLe service Bouton Multimédia est offert pour les Formules Premium en abonnement mensuel pendant toutela durée de l’abonnement.
+Tous les téléphones achetés neufs d’origine sont couverts (achetés en magasin Darty ou sur le site www.darty.com).
+
+Assurance sans franchise
+
+Le service Bouton Multimédia est offert pour les Formules Premium en abonnement mensuel pendant toutela durée de l’abonnement.
 
 
 
@@ -326,67 +330,17 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de délité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
 
 Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
 
 Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
 
-
-
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200
-
-<400€
-
-400
-
-<600€
-
-600€
-
-et + <200€ 200
-
-<400€
-
-400
-
-<600€
-
-600€
-
-et +
-
-Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €
-
-1er mois offert
-
-Offre de bienvenue 30 €
-
-Offre de délité 30 € 40 € 60 € 80 €
-
-Option accessoires 2 € TTC/mois 2 € TTC/mois
-
-Plafond d’indemnisation 2 000 €/an 2 000 €/an
-
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol max
-
-Dommage et oxydation toutes causes
-
-Vol toutes causes (avec agression,
-
-effraction, à la tire, à la sauvette,
-
-par introduction clandestine)par introduction clandestine)
-
-Garantie communications frauduleuses 1 500 € TTC / année d’adhésion
-
-Service Bouton Multimédia
-
-Tarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
 
 
 
@@ -398,11 +352,9 @@ Tous les équipements multimédia suivants sont couverts, jusqu’à 3 ans aprè
 
 Les assurances
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 11
-
-
+\- 7 février 2023 - 11
 
 DURABILITÉ
 
@@ -414,7 +366,7 @@ Protection de vos appareils multimédia
 
 
 
-La solution Darty pour protéger efcacement vos PC,MAC, Smartphones et Tablettes contre :Le vol de vos données bancairesLa perte de vos photosLe piratage de vos appareils
+La solution Darty pour protéger efficacement vos PC,MAC, Smartphones et Tablettes contre :Le vol de vos données bancairesLa perte de vos photosLe piratage de vos appareils
 
 Une protection jusqu’à 5 appareils (Windows, macOS,Android, iOS) :Antivirus (inclus un contrôle parental)Cloud 2To de stockage en France (4)Gestionnaire de mots de passe
 
@@ -440,11 +392,9 @@ Pack Sérénité Pack Sérénité Premium
 
 15\. Intervention possible en 24 h à domicilepour vos produits volumineux en panne.Voir détail en annexe.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 12
-
-
+\- 7 février 2023 - 12
 
 DURABILITÉ
 
@@ -460,13 +410,13 @@ Rapide en 2 à 5 jours GratuitLivraison près de chez vous en point de retraitPo
 
 
 
-Rapide en 2 à 3 jours 3,99 €Gratuit à partir de 20 € d’achats
+Rapide en 2 à 3 jours 3,99 €Gratuit à partir de 35 € d’achats
 
 Express dès le lendemain, avant 18 h 4,99 €Livraison à domicilePour les petits produits jusqu’à 30 kg
 
 
 
-Rapide en 2 à 3 jours 4,99 €Gratuit à partir de 20 € d’achats
+Rapide en 2 à 3 jours 4,99 €Gratuit à partir de 35 € d’achats
 
 Express dès le lendemain, avant 18 h 7,99 €
 
@@ -492,15 +442,15 @@ Enlèvement à domicile de l’appareil dans le cadre des 15 jours pour changer 
 
 Pour les produits volumineux (3) Gros Electroménager encastrables
 
-Encastrement et xation du micro-ondes dans le caisson 89 € (8)
+Encastrement et fixation du micro-ondes dans le caisson 89 € (8)
 
 
 
-Encastrement et xation de la porte décorative du lave-vaisselle 89 € (8)
+Encastrement et fixation de la porte décorative du lave-vaisselle 89 € (8)
 
 
 
-Encastrement et xation de la porte décorative du réfrigérateur, congélateur, lave-linge ou sèche-linge 129 € (8)
+Encastrement et fixation de la porte décorative du réfrigérateur, congélateur, lave-linge ou sèche-linge 129 € (8)
 
 
 
@@ -508,13 +458,13 @@ Encastrement de la plaque de cuisson avec découpe et ajustement du plan de trav
 
 
 
-Fixation de la hotte ou du groupe ltrant, jusqu’à 90 cm 129 € (8)Pour les produits volumineux(3) TV
+Fixation de la hotte ou du groupe filtrant, jusqu’à 90 cm 129 € (8)Pour les produits volumineux(3) TV
 
 Montage du meuble TV 69 €
 
-Conguration de la Smart TV 69 €
+Configuration de la Smart TV 69 €
 
-Fixation murale et conguration de la Smart TV 169 € (8)Pour les vélos à assistance électrique
+Fixation murale et configuration de la Smart TV 169 € (8)Pour les vélos à assistance électrique
 
 Montage et mise en service 59 €
 
@@ -522,9 +472,9 @@ Montage et mise en service 59 €
 
 (1) Pour toute commande passée en magasin ou sur darty.com avant 17 h 30, livraison possible en 2 h chrono. Le service de livraison est disponible pour les agglomérations deAix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen,Strasbourg, Toulon, Toulouse, Tours. (2) Service de livraison disponible dans les Zones de Confiance détaillées en annexe du Contrat de Confiance. Dans le cas où le réseau électriqueet de plomberie n’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en serviceou la réalisation des prestations Darty. Les appareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection etles vélos à assistance électrique sont livrés mais ne sont ni installés, ni mis en service. (3) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé auContrat de Confiance. (4) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon,Grenoble, Ile-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nimes, Orléans, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours,Valence, Valenciennes. (5) Pour toute commande passée en magasin ou sur darty.com avant 15 h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (6) LesZones Éloignées sont détaillées en annexe. (7) Les prestations d’installation sur mesure sont garanties 3 mois pièces, main-d’œuvre et déplacement. (8) Le prix indiqué intègre uneTVA à 10 % qui s’applique dans le cas de travaux réalisés dans un logement de plus de 2 ans.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 13
+\- 7 février 2023 - 13
 
 Famillesde produitsGrosélectroménagerPetitélectroménagerAspirateurset micro-ondesMicro-informatique
 
@@ -538,7 +488,7 @@ ProduitsConcernés
 
 
 
-Lave-linge, sèche-linge,lave-vaisselle, cuisinière,four (à l’exception desrôtissoires ou appareilsassimilés), table de cuisson,hotte, groupe ltrant,réfrigérateur, congélateur,cave à vin, barbecuegrande largeur, fourencastrable, micro-ondesencastrable et tous lesappareils en formatencastrable.
+Lave-linge, sèche-linge,lave-vaisselle, cuisinière,four (à l’exception desrôtissoires ou appareilsassimilés), table de cuisson,hotte, groupe filtrant,réfrigérateur, congélateur,cave à vin, barbecuegrande largeur, fourencastrable, micro-ondesencastrable et tous lesappareils en formatencastrable.
 
 Hygiène, beauté,puériculture, entretien dulinge, entretien du sol,chauffage, ventilationet traitement de l’air,traitement de l’eau, petitappareil de cuisson et decuisine, mini-four,barbecue.
 
@@ -554,7 +504,7 @@ Tout accessoiremicro-informatique.
 
 Garantie légalede conformité
 
-Tous vos produits bénécient gratuitement de la garantie légale de conformité.
+Tous vos produits bénéficient gratuitement de la garantie légale de conformité.
 
 La garantie est valable sur toutes les pièces du produit : pièces majeures, accessoires...En cas de non-conformité (panne, dysfonctionnement...), les produits Darty sont garantis pendant 2 ans à compterde leur délivrance (1).Pour vos biens et vos biens comportant des éléments numériques, la garantie permet d’obtenir gratuitement laréparation ou l’échange du produit, ou à défaut le remboursement.Pour vos contenus numériques et vos services numériques, la garantie permet d’obtenir gratuitement la mise enconformité de ce contenu ou service numérique, ou à défaut la réduction du prix ou la résolution du contrat.
 
@@ -562,13 +512,13 @@ Garantie2 ans gratuite,par le SAV Darty
 
 
 
-Vous bénéciez de lagarantie légale, mais aussi:\- D’une assistancetéléphonique permanente (2).\- d’un technicien Darty quiintervient gratuitement àdomicile dans les Zones deConance.\- pour les lave-linge,réfrigérateurs etcongélateurs, Darty vousprête un appareil deremplacement (3).
+Vous bénéficiez de lagarantie légale, mais aussi:\- D’une assistancetéléphonique permanente (2).\- d’un technicien Darty quiintervient gratuitement àdomicile dans les Zones deConfiance.\- pour les lave-linge,réfrigérateurs etcongélateurs, Darty vousprête un appareil deremplacement (3).
 
-Vous bénéciez de lagarantie légale, mais aussi:\- d’une assistancetéléphonique permanente (2).\- d’une facilité d’accès à nosexperts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
+Vous bénéficiez de lagarantie légale, mais aussi:\- d’une assistancetéléphonique permanente (2).\- d’une facilité d’accès à nosexperts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
 
-Vous bénéciez de lagarantie légale, mais aussi:\- d’une assistancetéléphonique permanente (2).\- d’une facilité d’accès à nosexperts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
+Vous bénéficiez de lagarantie légale, mais aussi:\- d’une assistancetéléphonique permanente (2).\- d’une facilité d’accès à nosexperts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
 
-Vous bénéciez de lagarantie légale, mais aussi:\- d’une assistancetéléphoniquepermanente (2).\- d’une facilité d’accèsà nos experts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
+Vous bénéficiez de lagarantie légale, mais aussi:\- d’une assistancetéléphoniquepermanente (2).\- d’une facilité d’accèsà nos experts (près de 400magasins).\- d’un savoir-faire reconnudans le service après-vente.
 
 
 
@@ -614,7 +564,7 @@ Pour les tablettes,les moniteurs,les imprimantes etles scanners:Garantie rembour
 
 pendant 3 ans parcarte-avoir DartyÉléments noninclus dansla garantie /exclusions
 
-Les garanties ne s’appliquent pas à la réparation de dommages résultant d’une cause externe au produit (par exemple d’un accident,d’un choc, de la foudre, de la tempête), d’un emploi, d’une installation ou d’un branchement non conformes aux spécications ouprescriptions du constructeur, d’une utilisation nuisible à la bonne conservation du produit (ayant provoqué par exemple uneoxydation), d’une utilisation à caractère commercial ou collectif, de l’utilisation de périphériques, d’accessoires ou de consommablesinadaptés. Sont également exclus des garanties sur mesure Darty les éléments consommables ou consomptibles, tels que les sacsd’aspirateur, les piles et les batteries amovibles, les cartouches d’encre et les lampes, exceptées, pour ces dernières, des lampes desvidéoprojecteurs qui sont garanties pendant trois mois. Pour les ordinateurs et autres produits stockant des données, la garantie nes’applique pas, en outre, aux dommages résultant d’une modication de programme ou de paramétrage de données, ou d’un défaut delogiciel, Darty ne pouvant, de plus, être tenu pour responsable de la perte ou de la destruction des données stockées dans votreappareil, notamment sous forme de logiciel ou de chier quelle qu’en soit sa nature, ni de dommages occasionnés par l’utilisation delogiciels acquis par des moyens illégaux (copie). Darty s’engage à appliquer les dispositions spéciques des garanties contractuellesdes constructeurs et des importateurs sur les appareils qu’il vend ou répare. En tout état de cause, la garantie légale concernant lesdéfauts de conformité et les vices cachés s’applique à votre achat (voir p.20).
+Les garanties ne s’appliquent pas à la réparation de dommages résultant d’une cause externe au produit (par exemple d’un accident,d’un choc, de la foudre, de la tempête), d’un emploi, d’une installation ou d’un branchement non conformes aux spécifications ouprescriptions du constructeur, d’une utilisation nuisible à la bonne conservation du produit (ayant provoqué par exemple uneoxydation), d’une utilisation à caractère commercial ou collectif, de l’utilisation de périphériques, d’accessoires ou de consommablesinadaptés. Sont également exclus des garanties sur mesure Darty les éléments consommables ou consomptibles, tels que les sacsd’aspirateur, les piles et les batteries amovibles, les cartouches d’encre et les lampes, exceptées, pour ces dernières, des lampes desvidéoprojecteurs qui sont garanties pendant trois mois. Pour les ordinateurs et autres produits stockant des données, la garantie nes’applique pas, en outre, aux dommages résultant d’une modification de programme ou de paramétrage de données, ou d’un défaut delogiciel, Darty ne pouvant, de plus, être tenu pour responsable de la perte ou de la destruction des données stockées dans votreappareil, notamment sous forme de logiciel ou de fichier quelle qu’en soit sa nature, ni de dommages occasionnés par l’utilisation delogiciels acquis par des moyens illégaux (copie). Darty s’engage à appliquer les dispositions spécifiques des garanties contractuellesdes constructeurs et des importateurs sur les appareils qu’il vend ou répare. En tout état de cause, la garantie légale concernant lesdéfauts de conformité et les vices cachés s’applique à votre achat (voir p.20).
 
 
 
@@ -622,9 +572,11 @@ Pour toute réparation sous garantie, le justificatif de l’achat sera exigé l
 
 suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un appareil de remplacement de même fonction. Le montant de la reprise ne peut excéder 20% du prix d’achat dunouvel appareil ni 20% du prix de l’appareil initial. Cette offre de reprise est également incluse dans les extensions de garantie des APN, caméscopes et micro-ondes pose libre. (5)Sauf pour les micro-ondes encastrables.Clause de cession du risque : Darty se réserve le droit de céder à un tiers les contrats de garantie sur mesure. Cette cession ferme et définitive entraînera le transfert des droits etobligations au cessionnaire. L’information relative à cette cession sera signalée sur le site darty.com. Il est convenu qu’en cas de cession, celle-ci n’engendrera aucune diminutionde vos droits qui seront assurés par le cessionnaire.
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 14
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 14
 
 TABLEAUX DES GARANTIES
 
@@ -664,11 +616,11 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans l, multiroom.
+Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
-GPS, aide à la conduite, téléphonemobile, téléphone avec et sans l,répondeur.Tout accessoire d’image nomade,de HiFi, de navigation ou detéléphonie
+GPS, aide à la conduite, téléphonemobile, téléphone avec et sans fil,répondeur.Tout accessoire d’image nomade,de HiFi, de navigation ou detéléphonie
 
 
 
@@ -682,7 +634,7 @@ Chaîne Home Cinéma, meubleHome Cinéma.
 
 Écran de Projection
 
-Les TV d’une taille égaleou supérieure à 40 pouces (101 cm)et les écrans de projectionsont considérés commedes produits volumineux.
+Les TV d'une taille égaleou supérieure à 40 pouces (101 cm)et les écrans de projectionsont considérés commedes produits volumineux.
 
 Périphériques TV.:
 
@@ -698,19 +650,25 @@ Vidéo-Projecteur
 
 Garantie légalede conformité
 
-Tous vos produits bénécient gratuitement de la garantie légale de conformité.
+Tous vos produits bénéficient gratuitement de la garantie légale de conformité.
 
 
 
-La garantie est valable sur toutes les pièces du produit : pièces majeures, accessoires...En cas de non-conformité (panne, dysfonctionnement ...), les produits Darty sont garantis pendant 2 ans à compterde leur délivrance.Pour vos biens et vos biens comportant des éléments numériques, la garantie permet d’obtenir gratuitement laréparation ou l’échange du produit , ou à défaut le remboursementPour vos contenus numériques et vos services numériques, la garantie permet d’obtenir gratuitement la miseen conformité de ce contenu ou service numérique, ou à défaut la réduction du prix ou la résolution du contrat.Garantie 2 ansgratuite, parle SAV Darty
+La garantie est valable sur toutes les pièces du produit : pièces majeures, accessoires...
 
-Vous bénéciez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accès ànos experts (près de 400magasins)\- d’un savoir-faire reconnu dansle service après-vente.
+En cas de non-conformité (panne, dysfonctionnement ...), les produits Darty sont garantis pendant 2 ans à compterde leur délivrance.
 
-Vous bénéciez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accès à nosexperts (près de 400 magasins)\- d’un savoir-faire reconnu dansle Service après-vente\- pour les téléphones mobiles,Darty vous prête un appareilde remplacement (2).
+Pour vos biens et vos biens comportant des éléments numériques, la garantie permet d’obtenir gratuitement laréparation ou l’échange du produit , ou à défaut le remboursement
 
-Vous bénéciez de la garantielégale, mais aussi :\- d’une assistance téléphoniquepermanente(1).\- d’un technicien Darty quiintervient gratuitement à domicile,uniquement pourles produits volumineux,dans les Zones de Conance.\- pour les autres produits, d’unefacilité d’accès à nos experts (prèsde 400 magasins)\- pour les TV d’une taille égale ousupérieure à 40 pouces (101 cm),Darty vous prête un appareil deremplacement(2).
+Pour vos contenus numériques et vos services numériques, la garantie permet d’obtenir gratuitement la miseen conformité de ce contenu ou service numérique, ou à défaut la réduction du prix ou la résolution du contrat.Garantie 2 ansgratuite, parle SAV Darty
 
-Vous bénéciez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accèsà nos experts (près de 400magasins).\- d’un savoir-faire reconnu dansle service après-vente.
+Vous bénéficiez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accès ànos experts (près de 400magasins)\- d’un savoir-faire reconnu dansle service après-vente.
+
+Vous bénéficiez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accès à nosexperts (près de 400 magasins)\- d’un savoir-faire reconnu dansle Service après-vente\- pour les téléphones mobiles,Darty vous prête un appareilde remplacement (2).
+
+Vous bénéficiez de la garantielégale, mais aussi :\- d’une assistance téléphoniquepermanente(1).\- d’un technicien Darty quiintervient gratuitement à domicile,uniquement pourles produits volumineux,dans les Zones de Confiance.\- pour les autres produits, d’unefacilité d’accès à nos experts (prèsde 400 magasins)\- pour les TV d’une taille égale ousupérieure à 40 pouces (101 cm),Darty vous prête un appareil deremplacement(2).
+
+Vous bénéficiez de la garantielégale, mais aussi:\- d’une assistance téléphoniquepermanente (1).\- d’une facilité d’accèsà nos experts (près de 400magasins).\- d’un savoir-faire reconnu dansle service après-vente.
 
 Garantiessur mesure(tarifset produitséligiblesen annexe) Garantieremboursement à neuf
 
@@ -730,7 +688,7 @@ Hi-Fi:3 ans de garantie
 
 par le SAV Darty, soit 5 ans autotal
 
-Téléphonie xe:Garantie remboursement à neuf
+Téléphonie fixe:Garantie remboursement à neuf
 
 pendant 3 ans par carte-avoir Darty
 
@@ -758,15 +716,17 @@ pendant 3 ans parcarte-avoir Darty
 
 Extensionde Garantie
 
-Prolongation de la garantie 2 ans par le SAV Darty d’1 ou 3 ans supplémentaires, portant la durée totale de votre garantie a 3 ou 5 ans. L’Extension deGarantie inclut également, pendant toute la durée de votre garantie : si l’Extension de Garantie est souscrite en magasin, l’Assistance prioritaire surles produits électroménagers, image et son de votre foyer (et sur vos produits multimédia lorsque l’Extension de Garantie est souscrite pour unordinateur). L’Assistance prioritaire n’est pas incluse dans une Extension de Garantie souscrite en ligne sur darty.com - la garantie d’une réparationde votre produit dans les 30 jours maximum. À défaut, vous pourrez demander son échange - la possibilité de demander l’échange de votre produitsi la même panne survient plus de 3 fois pendant la durée de garantie. Pour les « produits volumineux », votre Extension de Garantie inclut également: Une offre de reprise jusqu’à 20% de son prix d’achat si vous renouvelez votre appareil chez Darty au cours de la 6e ou 7e année ; son montant estlimité à 20% du prix du nouveau produit. (3) et, si elle a été souscrite en magasin : une vérication annuelle de votre produit par visio-assistance, surles points de contrôle principaux, accompagnée de conseils d’entretien (4), et l’intervention SAV sur mesure pour votre produit en panne, avecconrmation la veille du créneau de 2 h. La visio-assistance et l’intervention SAV sur créneau de 2h ne sont pas incluses dans une Extension deGarantie souscrite en ligne sur darty.com.GarantieRemboursementà neuf
+Prolongation de la garantie 2 ans par le SAV Darty d’1 ou 3 ans supplémentaires, portant la durée totale de votre garantie a 3 ou 5 ans. L’Extension deGarantie inclut également, pendant toute la durée de votre garantie : si l’Extension de Garantie est souscrite en magasin, l’Assistance prioritaire surles produits électroménagers, image et son de votre foyer (et sur vos produits multimédia lorsque l’Extension de Garantie est souscrite pour unordinateur). L’Assistance prioritaire n’est pas incluse dans une Extension de Garantie souscrite en ligne sur darty.com - la garantie d’une réparationde votre produit dans les 30 jours maximum. À défaut, vous pourrez demander son échange - la possibilité de demander l’échange de votre produitsi la même panne survient plus de 3 fois pendant la durée de garantie. Pour les « produits volumineux », votre Extension de Garantie inclut également: Une offre de reprise jusqu’à 20% de son prix d’achat si vous renouvelez votre appareil chez Darty au cours de la 6e ou 7e année ; son montant estlimité à 20% du prix du nouveau produit. (3) et, si elle a été souscrite en magasin : une vérification annuelle de votre produit par visio-assistance, surles points de contrôle principaux, accompagnée de conseils d’entretien (4), et l’intervention SAV sur mesure pour votre produit en panne, avecconfirmation la veille du créneau de 2 h. La visio-assistance et l’intervention SAV sur créneau de 2h ne sont pas incluses dans une Extension deGarantie souscrite en ligne sur darty.com.GarantieRemboursementà neuf
 
-En cas de panne incluse dans la garantie et constatée par Darty, remboursement de votre produit, dès le 16 e jour suivant l’achat du produitet pendant une durée de 3 ans (et jusqu’à 5 ans pour les micro-ondes non-encastrables). Le remboursement s’effectue par la remise d’une carte-avoirDarty d’une valeur égale au prix d’achat initial de votre produit garanti (remises éventuelles déduites). La carte est valable 12 mois et utilisable enune ou plusieurs fois dans tous les magasins Darty de France métropolitaine, (hors darty.com). Elle ne pourra être ni échangée, ni remboursée, mêmepartiellement ou remplacée si elle était perdue. Pour en bénécier, présentez-vous au comptoir Darty avec votre produit en panne pour obtenir sonremboursement. Pour les produits de la famille micro-informatique, vous devez d’abord effectuer un pré-diagnostic par téléphone au 0 978 970 970(tarif local) avec enregistrement de votre produit. Votre Garantie Remboursement à Neuf prend n dès lors que votre produit garanti est remboursé.Si elle est souscrite en magasin, la Garantie Remboursement à neuf inclut l’application Mon Bouton pour vos produits électroménagers, multimédia,image et son de votre foyer pendant toute la durée de votre garantie. L’application Mon Bouton n’est pas incluse dans une Garantie Remboursementà neuf souscrite sur le site internet darty.com.GarantieDirect Échange
+En cas de panne incluse dans la garantie et constatée par Darty, remboursement de votre produit, dès le 16 e jour suivant l’achat du produitet pendant une durée de 3 ans (et jusqu’à 5 ans pour les micro-ondes non-encastrables). Le remboursement s’effectue par la remise d’une carte-avoirDarty d’une valeur égale au prix d’achat initial de votre produit garanti (remises éventuelles déduites). La carte est valable 12 mois et utilisable enune ou plusieurs fois dans tous les magasins Darty de France métropolitaine, (hors darty.com). Elle ne pourra être ni échangée, ni remboursée, mêmepartiellement ou remplacée si elle était perdue. Pour en bénéficier, présentez-vous au comptoir Darty avec votre produit en panne pour obtenir sonremboursement. Pour les produits de la famille micro-informatique, vous devez d’abord effectuer un pré-diagnostic par téléphone au 0 978 970 970(tarif local) avec enregistrement de votre produit. Votre Garantie Remboursement à Neuf prend fin dès lors que votre produit garanti est remboursé.Si elle est souscrite en magasin, la Garantie Remboursement à neuf inclut l’application Mon Bouton pour vos produits électroménagers, multimédia,image et son de votre foyer pendant toute la durée de votre garantie. L’application Mon Bouton n’est pas incluse dans une Garantie Remboursementà neuf souscrite sur le site internet darty.com.GarantieDirect Échange
 
-En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pendant une durée de 3 ans. Le remplacement s’effectue en cas de panneincluse dans la garantie et constatée par Darty. Présentez-vous au comptoir Darty avec votre produit en panne pour obtenir son remplacement. Votreproduit de remplacement sera un appareil neuf identique ou techniquement équivalent commercialisé par Darty. Il bénéciera de la Garantie DirectEchange pendant la durée restant à courir depuis l’achat initial.
+En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pendant une durée de 3 ans. Le remplacement s’effectue en cas de panneincluse dans la garantie et constatée par Darty. Présentez-vous au comptoir Darty avec votre produit en panne pour obtenir son remplacement. Votreproduit de remplacement sera un appareil neuf identique ou techniquement équivalent commercialisé par Darty. Il bénéficiera de la Garantie DirectEchange pendant la durée restant à courir depuis l’achat initial.
+
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 15
 
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 15
 
 TABLEAUX DES GARANTIES
 
@@ -804,9 +764,11 @@ ans5
 
 Garantie
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 16
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 16
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -860,9 +822,11 @@ Garantie
 
 pièces et main d’œuvreet déplacement
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 17
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 17
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -926,9 +890,11 @@ Garantie
 
 remboursementà neuf
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 18
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 18
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -978,9 +944,11 @@ Garantie
 
 remboursementà neuf
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 19
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 19
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -1028,9 +996,11 @@ Garantie
 
 pièces et main d’œuvreet déplacement
 
+Tous nos magasins Tous nos services
+
+\- 7 février 2023 - 20
 
 
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 20
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -1038,269 +1008,43 @@ Garanties légales1- La garantie légale de conformité applicable pour lescontr
 
 Conformément à nos obligations légales, DARTY répond des défauts deconformité apparaissant sur votre bien ou bien comportant des élémentsnumériques (biens neufs et biens d’occasion et reconditionnés) dans lesconditions suivantes :
 
-Le consommateur dispose d’un délai de deux ans à compter de ladélivrance du bien pour obtenir la mise en œuvre de la garantie légalede conformité en cas d’apparition d’un défaut de conformité. Durant cedélai, le consommateur n’est tenu d’établir que l’existence du défaut deconformité et non la date d’apparition de celui-ci.Lorsque le contrat de vente du bien prévoit la fourniture d’un contenunumérique ou d’un service numérique de manière continue pendantune durée supérieure à deux ans, la garantie légale est applicable à cecontenu numérique ou ce service numérique tout au long de la périodede fourniture prévue. Durant ce délai, le consommateur n’est tenud’établir que l’existence du défaut de conformité affectant le contenunumérique ou le service numérique et non la date d’apparition de celui-ci.La garantie légale de conformité emporte obligation pour leprofessionnel, le cas échéant, de fournir toutes les mises à journécessaires au maintien de la conformité du bien.La garantie légale de conformité donne au consommateur droit à laréparation ou au remplacement du bien dans un délai de trente jourssuivant sa demande, sans frais et sans inconvénient majeur pour lui.Si le bien est réparé dans le cadre de la garantie légale de conformité,le consommateur bénéficie d’une extension de six mois de la garantieinitiale.Si le consommateur demande la réparation du bien, mais que le vendeurimpose le remplacement, la garantie légale de conformité est renouveléepour une période de deux ans à compter de la date de remplacement dubien.Le consommateur peut obtenir une réduction du prix d’achat enconservant le bien ou mettre fin au contrat en se faisant rembourserintégralement contre restitution du bien, si :
+Le consommateur dispose d'un délai de deux ans à compter de ladélivrance du bien pour obtenir la mise en œuvre de la garantie légalede conformité en cas d'apparition d'un défaut de conformité. Durant cedélai, le consommateur n'est tenu d'établir que l'existence du défaut deconformité et non la date d'apparition de celui-ci.Lorsque le contrat de vente du bien prévoit la fourniture d'un contenunumérique ou d'un service numérique de manière continue pendantune durée supérieure à deux ans, la garantie légale est applicable à cecontenu numérique ou ce service numérique tout au long de la périodede fourniture prévue. Durant ce délai, le consommateur n'est tenud'établir que l'existence du défaut de conformité affectant le contenunumérique ou le service numérique et non la date d'apparition de celui-ci.La garantie légale de conformité emporte obligation pour leprofessionnel, le cas échéant, de fournir toutes les mises à journécessaires au maintien de la conformité du bien.La garantie légale de conformité donne au consommateur droit à laréparation ou au remplacement du bien dans un délai de trente jourssuivant sa demande, sans frais et sans inconvénient majeur pour lui.Si le bien est réparé dans le cadre de la garantie légale de conformité,le consommateur bénéficie d'une extension de six mois de la garantieinitiale.Si le consommateur demande la réparation du bien, mais que le vendeurimpose le remplacement, la garantie légale de conformité est renouveléepour une période de deux ans à compter de la date de remplacement dubien.Le consommateur peut obtenir une réduction du prix d'achat enconservant le bien ou mettre fin au contrat en se faisant rembourserintégralement contre restitution du bien, si :
 
-1\. Le professionnel refuse de réparer ou de remplacer le bien ;2\. La réparation ou le remplacement du bien intervient après un délaide trente jours ;3\. La réparation ou le remplacement du bien occasionne uninconvénient majeur pour le consommateur, notamment lorsque leconsommateur supporte définitivement les frais de reprise oud’enlèvement du bien non conforme, ou s’il supporte les fraisd’installation du bien réparé ou de remplacement ;4\. La non-conformité du bien persiste en dépit de la tentative de miseen conformité du vendeur restée infructueuse.
+1\. Le professionnel refuse de réparer ou de remplacer le bien ;2\. La réparation ou le remplacement du bien intervient après un délaide trente jours ;3\. La réparation ou le remplacement du bien occasionne uninconvénient majeur pour le consommateur, notamment lorsque leconsommateur supporte définitivement les frais de reprise oud'enlèvement du bien non conforme, ou s'il supporte les fraisd'installation du bien réparé ou de remplacement ;4\. La non-conformité du bien persiste en dépit de la tentative de miseen conformité du vendeur restée infructueuse.
 
-Le consommateur a également droit à une réduction du prix du bien ouà la résolution du contrat lorsque le défaut de conformité est si gravequ’il justifie que la réduction du prix ou la résolution du contrat soitimmédiate. Le consommateur n’est alors pas tenu de demander laréparation ou le remplacement du bien au préalable.Le consommateur n’a pas droit à la résolution de la vente si le défaut deconformité est mineur.Toute période d’immobilisation du bien en vue de sa réparation ou deson remplacement suspend la garantie qui restait à courir jusqu’à ladélivrance du bien remis en état.Les droits mentionnés ci-dessus résultent de l’application des articlesL. 217-1 à L. 217-32 du code de la consommation.Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de lagarantie légale de conformité encourt une amende civile d’un montantmaximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffred’affaires moyen annuel (article L. 241-5 du code de la consommation).Le consommateur bénéficie également de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le bien est conservé ouà un remboursement intégral contre restitution du bien.
+Le consommateur a également droit à une réduction du prix du bien ouà la résolution du contrat lorsque le défaut de conformité est si gravequ'il justifie que la réduction du prix ou la résolution du contrat soitimmédiate. Le consommateur n'est alors pas tenu de demander laréparation ou le remplacement du bien au préalable.Le consommateur n'a pas droit à la résolution de la vente si le défaut deconformité est mineur.Toute période d'immobilisation du bien en vue de sa réparation ou deson remplacement suspend la garantie qui restait à courir jusqu'à ladélivrance du bien remis en état.Les droits mentionnés ci-dessus résultent de l'application des articlesL. 217-1 à L. 217-32 du code de la consommation.Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de lagarantie légale de conformité encourt une amende civile d'un montantmaximal de 300 000 euros, qui peut être porté jusqu'à 10% du chiffred'affaires moyen annuel (article L. 241-5 du code de la consommation).Le consommateur bénéficie également de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le bien est conservé ouà un remboursement intégral contre restitution du bien.
 
-Pour faire jouer la garantie légale de conformité, les produits doivent nousêtre retournés ou rapportés en magasin dans l’état dans lequel vous les avezreçus avec l’ensemble des éléments (accessoires, notice...), ainsi qu’unecopie de la facture d’achat. Les produits retournés par voie postale doiventl’être dans un emballage permettant un transport dans de bonnes conditions.Dans ce cas les frais de renvoi du produit vous seront remboursés sur labase du tarif facturé et sur présentation des justicatifs.
+Pour faire jouer la garantie légale de conformité, les produits doivent nousêtre retournés ou rapportés en magasin dans l'état dans lequel vous les avezreçus avec l'ensemble des éléments (accessoires, notice...), ainsi qu'unecopie de la facture d'achat. Les produits retournés par voie postale doiventl'être dans un emballage permettant un transport dans de bonnes conditions.Dans ce cas les frais de renvoi du produit vous seront remboursés sur labase du tarif facturé et sur présentation des justificatifs.
 
 Pour les contenus numériques et services numériques :Les dispositions suivantes concernent uniquement les contenus
 
-et services numériques ne faisant pas l’objet de conditions spéciques.
+et services numériques ne faisant pas l’objet de conditions spécifiques.
 
-Lorsque le contrat prévoit une opération de fourniture ponctuelle ducontenu numérique ou du service numérique, ou une série d’opérationsde fourniture distinctes :
+Lorsque le contrat prévoit une opération de fourniture ponctuelle ducontenu numérique ou du service numérique, ou une série d'opérationsde fourniture distinctes :
 
-Le consommateur dispose d’un délai de deux ans à compter de lafourniture du contenu numérique ou du service numérique pour obtenirla mise en œuvre de la garantie légale de conformité en cas d’apparitiond’un défaut de conformité. Durant un délai d’un an à compter de la datede fourniture, le consommateur n’est tenu d’établir que l’existence dudéfaut de conformité et non la date d’apparition de celui-ci.La garantie légale de conformité emporte obligation de fournir toutesles mises à jour nécessaires au maintien de la conformité du contenunumérique ou du service numérique.La garantie légale de conformité donne au consommateur droit à la miseen conformité du contenu numérique ou du service numérique sansretard injustifié suivant sa demande, sans frais et sans inconvénientmajeur pour lui.Le consommateur peut obtenir une réduction du prix en conservant lecontenu numérique ou le service numérique ou il peut mettre fin aucontrat en se faisant rembourser intégralement contre renoncement aucontenu numérique ou au service numérique, si :
+Le consommateur dispose d'un délai de deux ans à compter de lafourniture du contenu numérique ou du service numérique pour obtenirla mise en œuvre de la garantie légale de conformité en cas d'apparitiond'un défaut de conformité. Durant un délai d'un an à compter de la datede fourniture, le consommateur n'est tenu d'établir que l'existence dudéfaut de conformité et non la date d'apparition de celui-ci.La garantie légale de conformité emporte obligation de fournir toutesles mises à jour nécessaires au maintien de la conformité du contenunumérique ou du service numérique.La garantie légale de conformité donne au consommateur droit à la miseen conformité du contenu numérique ou du service numérique sansretard injustifié suivant sa demande, sans frais et sans inconvénientmajeur pour lui.Le consommateur peut obtenir une réduction du prix en conservant lecontenu numérique ou le service numérique ou il peut mettre fin aucontrat en se faisant rembourser intégralement contre renoncement aucontenu numérique ou au service numérique, si :
 
 1\. Le professionnel refuse de mettre le contenu numérique ou leservice numérique en conformité ;2\. La mise en conformité du contenu numérique ou du servicenumérique est retardée de manière injustifiée ;3\. La mise en conformité du contenu numérique ou du servicenumérique ne peut intervenir sans frais imposés au consommateur ;4\. La mise en conformité du contenu numérique ou du servicenumérique occasionne un inconvénient majeur pour leconsommateur ;5\. La non-conformité du contenu numérique ou du service numériquepersiste en dépit de la tentative de mise en conformité duprofessionnel restée infructueuse.
 
-Le consommateur a également droit à une réduction du prix ou à larésolution du contrat lorsque le défaut de conformité est si grave qu’iljustifie que la réduction du prix ou la résolution du contrat soit immédiate.Le consommateur n’est alors pas tenu de demander la mise en conformitédu contenu numérique ou du service numérique au préalable.Dans les cas où le défaut de conformité est mineur, le consommateur n’adroit à l’annulation du contrat que si le contrat ne prévoit pas le paiementd’un prix.Toute période d’indisponibilité du contenu numérique ou du servicenumérique en vue de sa remise en conformité suspend la garantie quirestait à courir jusqu’à la fourniture du contenu numérique ou du servicenumérique de nouveau conforme.Les droits mentionnés ci-dessus résultent de l’application des articlesL. 224-25-1 à L. 224-25-31 du code de la consommation.Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre dela garantie légale de conformité encourt une amende civile d’un montantmaximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffred’affaires moyen annuel (article L. 242-18-1 du code de la consommation).Le consommateur bénéficie, en outre, de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le contenu numériqueou le service numérique est conservé ou à un remboursement intégralcontre renonciation au contenu numérique ou au service numérique.
+Le consommateur a également droit à une réduction du prix ou à larésolution du contrat lorsque le défaut de conformité est si grave qu'iljustifie que la réduction du prix ou la résolution du contrat soit immédiate.Le consommateur n'est alors pas tenu de demander la mise en conformitédu contenu numérique ou du service numérique au préalable.Dans les cas où le défaut de conformité est mineur, le consommateur n'adroit à l'annulation du contrat que si le contrat ne prévoit pas le paiementd'un prix.Toute période d'indisponibilité du contenu numérique ou du servicenumérique en vue de sa remise en conformité suspend la garantie quirestait à courir jusqu'à la fourniture du contenu numérique ou du servicenumérique de nouveau conforme.Les droits mentionnés ci-dessus résultent de l'application des articlesL. 224-25-1 à L. 224-25-31 du code de la consommation.Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre dela garantie légale de conformité encourt une amende civile d'un montantmaximal de 300 000 euros, qui peut être porté jusqu'à 10% du chiffred'affaires moyen annuel (article L. 242-18-1 du code de la consommation).Le consommateur bénéficie, en outre, de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le contenu numériqueou le service numérique est conservé ou à un remboursement intégralcontre renonciation au contenu numérique ou au service numérique.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 21
-
-Garanties légales1- La garantie légale de conformité applicable pour lescontrats conclus à compter du1er janvier 2022er janvier 2022er
-
-Pour les biens et biens comportant des éléments numériques :
-
-Conformément à nos obligations légales, DARTY répond des défauts de
-
-conformité apparaissant sur votre bien ou bien comportant des éléments
-
-numériques (biens neufs et biens d’occasion et reconditionnés) dans les
-
-conditions suivantes :
-
-
-
-Le consommateur dispose d’un délai de deux ans à compter de la
-
-délivrance du bien pour obtenir la mise en œuvre de la garantie légale
-
-de conformité en cas d’apparition d’un défaut de conformité. Durant ce
-
-délai, le consommateur n’est tenu d’établir que l’existence du défaut de
-
-conformité et non la date d’apparition de celui-ci.
-
-Lorsque le contrat de vente du bien prévoit la fourniture d’un contenu
-
-numérique ou d’un service numérique de manière continue pendant
-
-une durée supérieure à deux ans, la garantie légale est applicable à ce
-
-contenu numérique ou ce service numérique tout au long de la période
-
-de fourniture prévue. Durant ce délai, le consommateur n’est tenu
-
-d’établir que l’existence du défaut de conformité affectant le contenu
-
-numérique ou le service numérique et non la date d’apparition de celui-
-
-ci.
-
-La garantie légale de conformité emporte obligation pour le
-
-professionnel, le cas échéant, de fournir toutes les mises à jour
-
-nécessaires au maintien de la conformité du bien.
-
-La garantie légale de conformité donne au consommateur droit à la
-
-réparation ou au remplacement du bien dans un délai de trente jours
-
-suivant sa demande, sans frais et sans inconvénient majeur pour lui.
-
-Si le bien est réparé dans le cadre de la garantie légale de conformité,
-
-le consommateur bénéficie d’une extension de six mois de la garantie
-
-initiale.
-
-Si le consommateur demande la réparation du bien, mais que le vendeur
-
-impose le remplacement, la garantie légale de conformité est renouvelée
-
-pour une période de deux ans à compter de la date de remplacement du
-
-bien.
-
-Le consommateur peut obtenir une réduction du prix d’achat en
-
-conservant le bien ou mettre fin au contrat en se faisant rembourser
-
-intégralement contre restitution du bien, si :1\. Le professionnel refuse de réparer ou de remplacer le bien ;2\. La réparation ou le remplacement du bien intervient après un délaide trente jours ;3\. La réparation ou le remplacement du bien occasionne uninconvénient majeur pour le consommateur, notamment lorsque leconsommateur supporte définitivement les frais de reprise oud’enlèvement du bien non conforme, ou s’il supporte les fraisd’installation du bien réparé ou de remplacement ;4\. La non-conformité du bien persiste en dépit de la tentative de miseen conformité du vendeur restée infructueuse.
-
-Le consommateur a également droit à une réduction du prix du bien ou
-
-à la résolution du contrat lorsque le défaut de conformité est si grave
-
-qu’il justifie que la réduction du prix ou la résolution du contrat soit
-
-immédiate. Le consommateur n’est alors pas tenu de demander la
-
-réparation ou le remplacement du bien au préalable.
-
-Le consommateur n’a pas droit à la résolution de la vente si le défaut de
-
-conformité est mineur.
-
-Toute période d’immobilisation du bien en vue de sa réparation ou de
-
-son remplacement suspend la garantie qui restait à courir jusqu’à la
-
-délivrance du bien remis en état.
-
-Les droits mentionnés ci-dessus résultent de l’application des articles
-
-L. 217-1 à L. 217-32 du code de la consommation.
-
-Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la
-
-garantie légale de conformité encourt une amende civile d’un montant
-
-maximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffre
-
-d’affaires moyen annuel (article L. 241-5 du code de la consommation).
-
-Le consommateur bénéficie également de la garantie légale des vices
-
-cachés en application des articles 1641 à 1649 du code civil, pendant
-
-une durée de deux ans à compter de la découverte du défaut. Cette
-
-garantie donne droit à une réduction de prix si le bien est conservé ou
-
-à un remboursement intégral contre restitution du bien.
-
-
-
-Pour faire jouer la garantie légale de conformité, les produits doivent nous
-
-être retournés ou rapportés en magasin dans l’état dans lequel vous les avez
-
-reçus avec l’ensemble des éléments (accessoires, notice...), ainsi qu’une
-
-copie de la facture d’achat. Les produits retournés par voie postale doivent
-
-l’être dans un emballage permettant un transport dans de bonnes conditions.
-
-Dans ce cas les frais de renvoi du produit vous seront remboursés sur la
-
-base du tarif facturé et sur présentation des justicatifs.Pour les contenus numériques et services numériques :Les dispositions suivantes concernent uniquement les contenus
-
-et services numériques ne faisant pas l’objet de conditions spéciques.
-
-Lorsque le contrat prévoit une opération de fourniture ponctuelle du
-
-contenu numérique ou du service numérique, ou une série d’opérations
-
-de fourniture distinctes :
-
-
-
-Le consommateur dispose d’un délai de deux ans à compter de la
-
-fourniture du contenu numérique ou du service numérique pour obtenir
-
-la mise en œuvre de la garantie légale de conformité en cas d’apparition
-
-d’un défaut de conformité. Durant un délai d’un an à compter de la date
-
-de fourniture, le consommateur n’est tenu d’établir que l’existence du
-
-défaut de conformité et non la date d’apparition de celui-ci.
-
-La garantie légale de conformité emporte obligation de fournir toutes
-
-les mises à jour nécessaires au maintien de la conformité du contenu
-
-numérique ou du service numérique.
-
-La garantie légale de conformité donne au consommateur droit à la mise
-
-en conformité du contenu numérique ou du service numérique sans
-
-retard injustifié suivant sa demande, sans frais et sans inconvénient
-
-majeur pour lui.
-
-Le consommateur peut obtenir une réduction du prix en conservant le
-
-contenu numérique ou le service numérique ou il peut mettre fin au
-
-contrat en se faisant rembourser intégralement contre renoncement au
-
-contenu numérique ou au service numérique, si :1\. Le professionnel refuse de mettre le contenu numérique ou leservice numérique en conformité ;2\. La mise en conformité du contenu numérique ou du servicenumérique est retardée de manière injustifiée ;3\. La mise en conformité du contenu numérique ou du servicenumérique ne peut intervenir sans frais imposés au consommateur ;4\. La mise en conformité du contenu numérique ou du servicenumérique occasionne un inconvénient majeur pour leconsommateur ;5\. La non-conformité du contenu numérique ou du service numériquepersiste en dépit de la tentative de mise en conformité duprofessionnel restée infructueuse.
-
-Le consommateur a également droit à une réduction du prix ou à la
-
-résolution du contrat lorsque le défaut de conformité est si grave qu’il
-
-justifie que la réduction du prix ou la résolution du contrat soit immédiate.
-
-Le consommateur n’est alors pas tenu de demander la mise en conformité
-
-du contenu numérique ou du service numérique au préalable.
-
-Dans les cas où le défaut de conformité est mineur, le consommateur n’a
-
-droit à l’annulation du contrat que si le contrat ne prévoit pas le paiement
-
-d’un prix.
-
-Toute période d’indisponibilité du contenu numérique ou du service
-
-numérique en vue de sa remise en conformité suspend la garantie qui
-
-restait à courir jusqu’à la fourniture du contenu numérique ou du service
-
-numérique de nouveau conforme.
-
-Les droits mentionnés ci-dessus résultent de l’application des articles
-
-L. 224-25-1 à L. 224-25-31 du code de la consommation.
-
-Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de
-
-la garantie légale de conformité encourt une amende civile d’un montant
-
-maximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffre
-
-d’affaires moyen annuel (article L. 242-18-1 du code de la consommation).
-
-Le consommateur bénéficie, en outre, de la garantie légale des vices
-
-cachés en application des articles 1641 à 1649 du code civil, pendant
-
-une durée de deux ans à compter de la découverte du défaut. Cette
-
-garantie donne droit à une réduction de prix si le contenu numérique
-
-ou le service numérique est conservé ou à un remboursement intégral
-
-contre renonciation au contenu numérique ou au service numérique.
-
-
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 21
+\- 7 février 2023 - 21
 
 Lorsque le contrat prévoit que le contenu numérique ou le service numériqueest fourni de manière continue :
 
-Le consommateur a droit à la mise en œuvre de la garantie légale deconformité en cas d’apparition d’un défaut de conformité durant un délaide X à compter de la fourniture du contenu numérique ou du servicenumérique. Durant ce délai, le consommateur n’est tenu d’établir quel’existence du défaut de conformité et non la date d’apparition de celui-ci.La garantie légale de conformité emporte obligation de fournir toutesles mises à jour nécessaires au maintien de la conformité du contenunumérique ou du service numérique durant X.La garantie légale de conformité donne au consommateur droit à la miseen conformité du contenu numérique ou du service numérique sansretard injustifié suivant sa demande, sans frais et sans inconvénientmajeur pour lui.Le consommateur peut obtenir une réduction du prix en conservant lecontenu numérique ou le service numérique, ou il peut mettre fin aucontrat en se faisant rembourser intégralement contre renoncement aucontenu numérique ou au service numérique, si :
+Le consommateur a droit à la mise en œuvre de la garantie légale deconformité en cas d'apparition d'un défaut de conformité durant un délaide X à compter de la fourniture du contenu numérique ou du servicenumérique. Durant ce délai, le consommateur n'est tenu d'établir quel'existence du défaut de conformité et non la date d'apparition de celui-ci.La garantie légale de conformité emporte obligation de fournir toutesles mises à jour nécessaires au maintien de la conformité du contenunumérique ou du service numérique durant X.La garantie légale de conformité donne au consommateur droit à la miseen conformité du contenu numérique ou du service numérique sansretard injustifié suivant sa demande, sans frais et sans inconvénientmajeur pour lui.Le consommateur peut obtenir une réduction du prix en conservant lecontenu numérique ou le service numérique, ou il peut mettre fin aucontrat en se faisant rembourser intégralement contre renoncement aucontenu numérique ou au service numérique, si :
 
 1\. Le professionnel refuse de mettre le contenu numérique ou leservice numérique en conformité ;2\. La mise en conformité du contenu numérique ou du servicenumérique est retardée de manière injustifiée ;3\. La mise en conformité du contenu numérique ou du servicenumérique ne peut intervenir sans frais imposés au consommateur;4\. La mise en conformité du contenu numérique ou du servicenumérique occasionne un inconvénient majeur pour leconsommateur ;5\. La non-conformité du contenu numérique ou du service numériquepersiste en dépit de la tentative de mise en conformité duprofessionnel restée infructueuse.
 
-Le consommateur a également droit à une réduction du prix ou à larésolution du contrat lorsque le défaut de conformité est si grave qu’iljustifie que la réduction du prix ou la résolution du contrat soit immédiate.Le consommateur n’est alors pas tenu de demander la mise en conformitédu contenu numérique ou du service numérique au préalable.Dans les cas où le défaut de conformité est mineur, le consommateur n’adroit à l’annulation du contrat que si le contrat ne prévoit pas le paiementd’un prix.Toute période d’indisponibilité du contenu numérique ou du servicenumérique en vue de sa remise en conformité suspend la garantie quirestait à courir jusqu’à la fourniture du contenu numérique ou du servicenumérique de nouveau conforme.Ces droits résultent de l’application des articles L. 224-25-1 à L. 224-25-31 du code de la consommation.Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre dela garantie légale de conformité encourt une amende civile d’un montantmaximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffred’affaires moyen annuel (article L. 242-18-1 du code de la consommation).Le consommateur bénéficie également de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le contenu numériqueou le service numérique est conservé, ou à un remboursement intégralcontre renonciation au contenu numérique ou au service numérique.
+Le consommateur a également droit à une réduction du prix ou à larésolution du contrat lorsque le défaut de conformité est si grave qu'iljustifie que la réduction du prix ou la résolution du contrat soit immédiate.Le consommateur n'est alors pas tenu de demander la mise en conformitédu contenu numérique ou du service numérique au préalable.Dans les cas où le défaut de conformité est mineur, le consommateur n'adroit à l'annulation du contrat que si le contrat ne prévoit pas le paiementd'un prix.Toute période d'indisponibilité du contenu numérique ou du servicenumérique en vue de sa remise en conformité suspend la garantie quirestait à courir jusqu'à la fourniture du contenu numérique ou du servicenumérique de nouveau conforme.Ces droits résultent de l'application des articles L. 224-25-1 à L. 224-25-31 du code de la consommation.Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre dela garantie légale de conformité encourt une amende civile d'un montantmaximal de 300 000 euros, qui peut être porté jusqu'à 10% du chiffred'affaires moyen annuel (article L. 242-18-1 du code de la consommation).Le consommateur bénéficie également de la garantie légale des vicescachés en application des articles 1641 à 1649 du code civil, pendantune durée de deux ans à compter de la découverte du défaut. Cettegarantie donne droit à une réduction de prix si le contenu numériqueou le service numérique est conservé, ou à un remboursement intégralcontre renonciation au contenu numérique ou au service numérique.
 
 
 
 2- Garantie légale contre les vices cachés.
 
-Lorsque votre bien présente un défaut, vous pouvez également mettre enœuvre la garantie contre les vices cachés dans un délai de deux ans àcompter de la découverte du vice. Il vous reviendra alors de prouvernotamment que le défaut existait au moment de l’achat, qu’il était caché etqu’il rend le produit inutilisable. Les dispositions de cet article ne vousempêchent pas de bénéficier du droit de rétractation prévu à l’article 8.
+Lorsque votre bien présente un défaut, vous pouvez également mettre enœuvre la garantie contre les vices cachés dans un délai de deux ans àcompter de la découverte du vice. Il vous reviendra alors de prouvernotamment que le défaut existait au moment de l'achat, qu'il était caché etqu'il rend le produit inutilisable. Les dispositions de cet article ne vousempêchent pas de bénéficier du droit de rétractation prévu à l'article 8.
 
 
 
@@ -1320,311 +1064,9 @@ Marquage des cycles
 
 Conformément à la réglementation en vigueur, Darty est tenue de procéderà l’identification des vélos neufs et par conséquent est également tenue àla collecte de vos coordonnées pour l’enregistrement de votre vélo.L’identifiant unique de votre vélo permet son enregistrement dans leFichier national des cycles identifiés (FNUCI).Les informations nécessaires au marquage de votre vélo sont collectéesFNAC DARTY PARTICIPATIONS ET SERVICES et ETABLISSEMENTS DARTYET FILS agissant en tant que co-responsables de traitement. Cesinformations sont transmises à l’opérateur agréé qui agit en tant queresponsable de la mise à jour de vos informations sur le FNUCI pourpermettre l’identification de votre vélo en cas de perte ou vol. Ce traitementobligatoire est fondé sur le Décret no 2020-1439 du 23 novembre 2020relatif à l’identification des cycles.Le droit d’opposit ion n’est pas applica ble à ce t ra itement, ca rl’identification est nécessaire pour la vente du vélo.Vous pouvez exercer vos droits (accès, rectification, limitation) et définirle sort de vos données personnelles « post mortem » directement auprèsde l’opérateur agréé.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 22
-
-
-
-Lorsque le contrat prévoit que le contenu numérique ou le service numérique
-
-est fourni de manière continue :
-
-
-
-Le consommateur a droit à la mise en œuvre de la garantie légale de
-
-conformité en cas d’apparition d’un défaut de conformité durant un délai
-
-de X à compter de la fourniture du contenu numérique ou du service
-
-numérique. Durant ce délai, le consommateur n’est tenu d’établir que
-
-l’existence du défaut de conformité et non la date d’apparition de celui-ci.
-
-La garantie légale de conformité emporte obligation de fournir toutes
-
-les mises à jour nécessaires au maintien de la conformité du contenu
-
-numérique ou du service numérique durant X.
-
-La garantie légale de conformité donne au consommateur droit à la mise
-
-en conformité du contenu numérique ou du service numérique sans
-
-retard injustifié suivant sa demande, sans frais et sans inconvénient
-
-majeur pour lui.
-
-Le consommateur peut obtenir une réduction du prix en conservant le
-
-contenu numérique ou le service numérique, ou il peut mettre fin au
-
-contrat en se faisant rembourser intégralement contre renoncement au
-
-contenu numérique ou au service numérique, si :1\. Le professionnel refuse de mettre le contenu numérique ou leservice numérique en conformité ;2\. La mise en conformité du contenu numérique ou du servicenumérique est retardée de manière injustifiée ;3\. La mise en conformité du contenu numérique ou du servicenumérique ne peut intervenir sans frais imposés au consommateur;4\. La mise en conformité du contenu numérique ou du servicenumérique occasionne un inconvénient majeur pour leconsommateur ;5\. La non-conformité du contenu numérique ou du service numériquepersiste en dépit de la tentative de mise en conformité duprofessionnel restée infructueuse.
-
-Le consommateur a également droit à une réduction du prix ou à la
-
-résolution du contrat lorsque le défaut de conformité est si grave qu’il
-
-justifie que la réduction du prix ou la résolution du contrat soit immédiate.
-
-Le consommateur n’est alors pas tenu de demander la mise en conformité
-
-du contenu numérique ou du service numérique au préalable.
-
-Dans les cas où le défaut de conformité est mineur, le consommateur n’a
-
-droit à l’annulation du contrat que si le contrat ne prévoit pas le paiement
-
-d’un prix.
-
-Toute période d’indisponibilité du contenu numérique ou du service
-
-numérique en vue de sa remise en conformité suspend la garantie qui
-
-restait à courir jusqu’à la fourniture du contenu numérique ou du service
-
-numérique de nouveau conforme.
-
-Ces droits résultent de l’application des articles L. 224-25-1 à L. 224-25-
-
-31 du code de la consommation.
-
-Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de
-
-la garantie légale de conformité encourt une amende civile d’un montant
-
-maximal de 300 000 euros, qui peut être porté jusqu’à 10% du chiffre
-
-d’affaires moyen annuel (article L. 242-18-1 du code de la consommation).
-
-Le consommateur bénéficie également de la garantie légale des vices
-
-cachés en application des articles 1641 à 1649 du code civil, pendant
-
-une durée de deux ans à compter de la découverte du défaut. Cette
-
-garantie donne droit à une réduction de prix si le contenu numérique
-
-ou le service numérique est conservé, ou à un remboursement intégral
-
-contre renonciation au contenu numérique ou au service numérique.
-
-2- Garantie légale contre les vices cachés.
-
-Lorsque votre bien présente un défaut, vous pouvez également mettre en
-
-œuvre la garantie contre les vices cachés dans un délai de deux ans à
-
-compter de la découverte du vice. Il vous reviendra alors de prouver
-
-notamment que le défaut existait au moment de l’achat, qu’il était caché et
-
-qu’il rend le produit inutilisable. Les dispositions de cet article ne vous
-
-empêchent pas de bénéficier du droit de rétractation prévu à l’article 8.
-
-Mode de règlement des litiges
-
-Pour toute question relative à votre achat, n’hésitez pas, à nous contacter
-
-au 0 978 970 970 (tarif local), 7 jours sur 7 et 24 heures sur 24 (sauf les
-
-jours fériés et interdiction législative, réglementaire ou conventionnelle).
-
-Si vous rencontrez une difficulté, nous vous invitons à vous adresser au
-
-Service d’assistance téléphonique de Darty, qui s’efforcera de trouver avec
-
-vous une solution amiable. À défaut de trouver une solution vous donnant
-
-satisfaction, vous pourrez nous adresser une réclamation par courrier au
-
-Service Clients à l’adresse suivante :
-
-DARTY Service Consommateur - 38 avenue Roger Salengro 94120
-
-Fontenay-sous-Bois
-
-Darty s’engage à répondre immédiatement, et au plus tard dans les 72
-
-heures, à toute réclamation faite auprès du Service d’assistance
-
-téléphonique, et à répondre dans un délai de 10 jours ouvrables aux
-
-réclamations faites par courrier.
-
-Conformément aux dispositions du Code de la consommation concernant le
-
-règlement amiable des litiges, DARTY adhère au Service du Médiateur du
-
-
-
-e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance)
-
-dont les coordonnées sont les suivantes :
-
-Médiateur de la consommation FEVAD- BP 20015 - 75362 PARIS CEDEX 8
-
-https://www.mediateurfevad.fr. Après démarche préalable écrite des
-
-consommateurs vis-à-vis de DARTY, le Service du Médiateur peut être saisi
-
-pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour
-
-connaître les modalités de saisine du Médiateur, cliquer ici.cliquer ici.
-
-Conformément au Règlement (UE) n°524/2013, la Commission Européenne
-
-a mis en place une plateforme de Règlement en Ligne des Litiges, facilitant
-
-le règlement indépendant par voie extrajudiciaire des litiges en ligne entre
-
-consommateurs et professionnels de l’Union européenne. Cette plateforme
-
-est accessible au lien suivant : https://webgate.ec.europa.eu/odr/
-
-En cas de persistance d’un différend, les règles françaises de droit commun
-
-seraient applicables.
-
-Vos données personnelles
-
-L e s d o n n é e s v o u s c o n c e r n a n t s o n t t r a i t é e s p a r l e s s o c i é t é s
-
-ETABLISSEMENTS DARTY ET FILS et FNAC DARTY PARTICIPATIONS ET
-
-SERVICES, responsables de traitement. Vos données sont traitées
-
-principalement pour créer et gérer votre compte, vos commandes et leur
-
-suivi, personnaliser vos services et effectuer des analyses statistiques,
-
-ainsi qu’à des fins de marketing et publicité ciblée (connaissance client,
-
-envoi de communications électroniques et profilage publicitaire par
-
-combinaison de données). Ces traitements peuvent être fondés sur
-
-différentes bases légales selon les finalités concernées. Vous gardez la
-
-possibilité de retirer votre consentement à tout moment. Certaines
-
-informations pourront être transmises aux vendeurs marketplace si vous
-
-avez acheté un produit auprès d’eux. Les données collectées dans le cadre
-
-d’une commande sont susceptibles d’être communiquées à notre
-
-partenaire Oney Tech à des fins d’analyse de détection de la fraude. En
-
-fonction de vos choix, certaines informations pourront également être
-
-transmises aux entités du groupe FNAC DARTY à des fins de connaissance
-
-client et personnalisation de nos services, ou à des par tenaires
-
-commerciaux à des fins de marketing ciblé et de profilage publicitaire par
-
-combinaison de données. Pour refuser le partage aux entités du groupe
-
-ou avec les partenaires, rendez-vous sur la page https://www.darty.com/
-
-webapp/wcs/stores/controllerDartyFormulaireContact View. Vous pouvez
-
-également gérer vos données personnelles et exprimer vos choix,
-
-notamment concernant les cookies, en vous rendant dans la rubrique
-
-« Mon compte » du site www.darty.com. Vous pouvez exercer vos droits
-
-(accès, rectification, suppression, opposition, limitation et portabilité le
-
-cas échéant) et définir le sort de vos données personnelles post mortem
-
-par email (vieprivee@fnacdarty.com)ou contacter le Délégué à la
-
-Protection des Données FNAC DARTY (dpo@fnacdarty.com), ou par
-
-courrier : Darty \& Fils Service Client DARTY Service Consommateur - 38
-
-avenue Roger Salengro 94120 Fontenay-sous-Bois. Vous disposez par
-
-ailleurs, du droit d’introduire une réclamation auprès de la Commission
-
-Nationale de l’Informatique et des Libertés (CNIL), notamment sur son site
-
-internet www.cnil.fr. La plupart des données vous concernant seront
-
-conservées pendant une durée de 5 ans à compter de votre dernière
-
-activité (ex. : achat, échéance de vos contrats), puis archivées avec un
-
-accès restreint pour une durée supplémentaire de 5 ans pour des raisons
-
-strictement limitées et autorisées par la loi (paiement, garantie, litiges ...).
-
-Vous êtes informés que vos données peuvent être transmises pour les
-
-besoins des finalités mentionnées ci-dessus à des sociétés situées en
-
-dehors de l’Union Européenne notamment pour les activités de service
-
-client (centres d’appel situés au Maroc et à Madagascar), prestations
-
-informatiques, exploitation des données en lien avec les réseaux sociaux.
-
-Toute procédure requise pour sécuriser les données sera mise en œuvre
-
-avant de procéder à de tels transferts. Plus d’informations sur la protection
-
-d e s d o n n é e s p e r s o n n e l l e s s u r
-
-darty.com : https://www.darty.com/achat/informations/donnees_https://www.darty.com/achat/informations/donnees_
-
-personnelles.htmlpersonnelles.htmlMarquage des cycles
-
-Conformément à la réglementation en vigueur, Darty est tenue de procéder
-
-à l’identification des vélos neufs et par conséquent est également tenue à
-
-la collecte de vos coordonnées pour l’enregistrement de votre vélo.
-
-L’identifiant unique de votre vélo permet son enregistrement dans le
-
-Fichier national des cycles identifiés (FNUCI).
-
-Les informations nécessaires au marquage de votre vélo sont collectées
-
-FNAC DARTY PARTICIPATIONS ET SERVICES et ETABLISSEMENTS DARTY
-
-ET FILS agissant en tant que co-responsables de traitement. Ces
-
-informations sont transmises à l’opérateur agréé qui agit en tant que
-
-responsable de la mise à jour de vos informations sur le FNUCI pour
-
-permettre l’identification de votre vélo en cas de perte ou vol. Ce traitement
-
-obligatoire est fondé sur le Décret no 2020-1439 du 23 novembre 2020
-
-relatif à l’identification des cycles.
-
-Le droit d’opposit ion n’est pas applica ble à ce t ra itement, ca r
-
-l’identification est nécessaire pour la vente du vélo.
-
-Vous pouvez exercer vos droits (accès, rectification, limitation) et définir
-
-le sort de vos données personnelles « post mortem » directement auprès
-
-de l’opérateur agréé.
-
-
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 22
+\- 7 février 2023 - 22
 
 Droit de rétractation
 
@@ -1634,48 +1076,8 @@ Pour vos achats sur internet vous bénéficiez d’un délai de 15 jours àcompt
 
 Numéros d’identification unique au registre national des producteurs
 
-En application de l’article L.541-10-13 du code de l’environnement, DARTY s’estvu attribuer les numéros uniques suivants :DEEE (déchets d’équipements électriques et électroniques): FR001361_05AOFE/ Ameublement : FR036208_10LDH0 / ABJ (Articles de bricolage et de jardinagehors équipements électriques et électroniques) : FR231817_14NXLV / Jouet :FR231817_12ROWP / Corepile (piles et batteries) : FR006641_063SVS / Papiersgraphiques : FR231817_03KWFL / Emballage : FR219493_01JZYK / ASL (articlesde sport et de loisir) : FR231817_13IJBK / Ces identifiants démontrent que la Fnacs’est acquittée de ses obligations d’enregistrement au registre des producteurspour chacun de ces produits ainsi que, le cas échéant, de ses obligations dedéclaration de mise sur le marché auprès des éco organismes concernés.
+En application de l’article L.541-10-13 du code de l’environnement, DARTY s’estvu attribuer les numéros uniques suivants :DEEE (déchets d’équipements électriques et électroniques): FR001361_05AOFE/ Ameublement : FR036208_10LDH0 / ABJ (Articles de bricolage et de jardinagehors équipements électriques et électroniques) : FR231817_14NXLV / Jouet :FR231817_12ROWP / Corepile (piles et batteries) : FR006641_063SVS / Papiersgraphiques : FR231817_03KWFL / Emballage : FR219493_01JZYK / ASL (articlesde sport et de loisir) : FR231817_13IJBK / Ces identifiants démontrent que Dartys’est acquitté de ses obligations d’enregistrement au registre des producteurspour chacun de ces produits ainsi que, le cas échéant, de ses obligations dedéclaration de mise sur le marché auprès des éco organismes concernés.
 
+Tous nos magasins Tous nos services
 
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 23
-
-Droit de rétractation
-
-Pour vos achats sur internet vous bénéficiez d’un délai de 15 jours à
-
-compter de la réception du produit pour vous rétracter. Pour plus
-
-d’informations sur l’exercice de ce droit et afin de télécharger le
-
-formulaire de rétractation, rendez-vous sur la page : https://www.
-
-darty.com/retour-et-remboursement
-
-Numéros d’identification unique au registre national des producteurs
-
-En application de l’article L.541-10-13 du code de l’environnement, DARTY s’est
-
-vu attribuer les numéros uniques suivants :
-
-DEEE (déchets d’équipements électriques et électroniques): FR001361_05AOFE
-
-/ Ameublement : FR036208_10LDH0 / ABJ (Articles de bricolage et de jardinage
-
-hors équipements électriques et électroniques) : FR231817_14NXLV / Jouet :
-
-FR231817_12ROWP / Corepile (piles et batteries) : FR006641_063SVS / Papiers
-
-graphiques : FR231817_03KWFL / Emballage : FR219493_01JZYK / ASL (articles
-
-de sport et de loisir) : FR231817_13IJBK / Ces identifiants démontrent que la Fnac
-
-s’est acquittée de ses obligations d’enregistrement au registre des producteurs
-
-pour chacun de ces produits ainsi que, le cas échéant, de ses obligations de
-
-déclaration de mise sur le marché auprès des éco organismes concernés.
-
-
-
-Tous nos magasins Tous nos services\- 30 décembre 2022 - 23
+\- 7 février 2023 - 23
