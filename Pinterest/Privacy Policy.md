@@ -1,4 +1,4 @@
-Résidents de l'État de Californie : veuillez consulter ici notre Déclaration de confidentialité et notre Avis relatif à la collecte des données pour la Californie. 
+**Résidents de l'État de Californie : veuillez consulter ici notre Déclaration de confidentialité et notre Avis relatif à la collecte des données pour la Californie.** 
 
 Résumé des modifications
 
