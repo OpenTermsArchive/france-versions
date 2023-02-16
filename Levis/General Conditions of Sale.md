@@ -390,6 +390,4 @@ Soyez le premier à être informé des offres spéciales, des nouveautés et bie
 
 En vous abonnant, vous acceptez que le [groupe de sociétés](https://www.levi.com/FR/fr_FR/legal/lsco-group-of-companies) LS&Co. vous envoie des informations et des offres par e-mail. Je peux me [désabonner](https://www.levi.com/FR/fr_FR/unsubscribe) à tout moment. J’ai lu la [Politique de confidentialité](https://www.levi.com/FR/fr_FR/legal/privacy-policy) de LS&Co.  
 
-Inscrivez-vous
-
-Non merci
+Inscrivez-vousNon merci
