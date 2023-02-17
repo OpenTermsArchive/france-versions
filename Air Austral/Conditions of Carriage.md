@@ -13,7 +13,7 @@ En cas de retard au départ, annulation d’un vol, refus d’embarquement
 
 Si vous êtes refusé à l'embarquement ou si votre vol est annulé ou retardé d'au moins deux heures, demandez au comptoir d'enregistrement ou à la porte d'embarquement le texte énonçant vos droits, notamment en matière d'indemnisation et d'assistance.
 
-[Règlement CE 261/2004](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32004R0261 "CE 261/2004")
+[Règlement CE 261/2004](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32004R0261 "CE 261/2004")
 
 ### Calculateur d'émission de CO2
 
