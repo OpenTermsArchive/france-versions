@@ -60,10 +60,10 @@ SPARTOO traite les données personnelles dans le but de fournir et d'améliorer 
 Ces finalités incluent notamment :  
   
 \- Les commandes, la livraison des produits  
-SPARTOOtraite les données personnelles principalement dans le but de : traiter les commandes, de permettre la livraison des produits, de procéder aux paiements et de communiquer avec les clients s’agissant de leurs commandes, les produits, les services et les offres promotionnelles.  
+SPARTOO traite les données personnelles principalement dans le but de : traiter les commandes, de permettre la livraison des produits, de procéder aux paiements et de communiquer avec les clients s’agissant de leurs commandes, les produits, les services et les offres promotionnelles.  
   
 \- La personnalisation de votre expérience client SPARTOO  
-Nous utilisons vos informations personnelles afin de vous recommander des produits et des qui pourraient vous intéresser en identifiant vos préférences et en personnalisant votre expérience SPARTOO.  
+Nous utilisons vos informations personnelles afin de vous recommander des produits et des services qui pourraient vous intéresser en identifiant vos préférences et en personnalisant votre expérience SPARTOO.  
   
 \- La conformité à nos obligations légales.  
 Dans certains cas, nous avons une obligation légale de collecter et traiter vos informations personnelles.  
@@ -242,7 +242,9 @@ Vous pouvez manifester votre consentement ou vous opposer à l'utilisation de co
   
 Certains cookies appelés "cookie de publicité" nous permettent de suivre votre navigation et enregistrer les produits vus, puis dans un délai maximum de 90 jours de vous présenter des bannières publicitaires en rapport, ou non, avec votre navigation passée. Ces cookies sont liés à votre profil internet (mais ne permettent pas de vous identifier). Ils requièrent également votre consentement exprès de la même façon qu'indiqué ci-dessus. Si vous ne désirez pas ou plus recevoir ces "cookies de publicité", cliquez sur le lien ci-après:  
   
-Désactiver les cookies de publicité sur mon profil \*Nous sommes parallèlement en cours de mise à jour de notre Politique de confidentialité s’agissant des cookies et traceurs.
+Désactiver les cookies de publicité sur mon profil  
+  
+\*Nous sommes parallèlement en cours de mise à jour de notre Politique de confidentialité s’agissant des cookies et traceurs.
 
 11Droit d’accès et de rectification
 -----------------------------------
