@@ -384,10 +384,10 @@ Pour de plus amples informations concernant nos politiques et nos pratiques en m
 
 [Print This Page](javascript:window.print())
 
-Bienvenue ! Inscrivez-vous pour recevoir des e-mails de Levi's et profitez de 10 % de réduction + livraison offerte sur votre prochain achat.
+Welcome! Sign up for Levi's® emails and get 20% off your next order.
 
-Soyez le premier à être informé des offres spéciales, des nouveautés et bien plus encore.
+Be the first to hear about special offers, new arrivals and more.
 
-En vous abonnant, vous acceptez que le [groupe de sociétés](https://www.levi.com/FR/fr_FR/legal/lsco-group-of-companies) LS&Co. vous envoie des informations et des offres par e-mail. Je peux me [désabonner](https://www.levi.com/FR/fr_FR/unsubscribe) à tout moment. J’ai lu la [Politique de confidentialité](https://www.levi.com/FR/fr_FR/legal/privacy-policy) de LS&Co.  
+By signing up, I agree that the LS&Co. Group of Companies may email me news and offers. I can [unsubscribe](https://www.levi.com/FR/fr_FR/unsubscribe) at any time. I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy). Offer details, financial incentives and exclusions available [here](https://www.levi.com/FR/fr_FR/features/terms-and-conditions).
 
 Inscrivez-vousNon merci
