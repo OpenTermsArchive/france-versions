@@ -123,6 +123,7 @@ Les minutes créditées dans le cadre d’un abonnement sont valables durant la 
 Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditions suivantes :
 
 * Être majeur (avoir au moins 18 ans).
+
 * Transmettre par voie électronique une copie des documents suivants dont il est titulaire :
 * Permis de conduire européen de type AM, A1, A2, A ou B en cours de validité ou un permis de conduire voiture non-européen, quelle que soit la langue, sous réserve qu’il soit libellé en alphabet latin et qu’il comporte une photo d’identité ; ou
 * Brevet de sécurité routière (BSR) ;
@@ -133,7 +134,9 @@ Pour utiliser le Service, l’Utilisateur doit remplir l’ensemble des conditio
  (iii) titre de séjour français (uniquement pour des personnes résidant en France).
 
 * Ne pas être débiteur auprès de CITYSCOOT de sommes dont il ne se serait pas acquitté au titre d’une précédente inscription ou Location auprès de CITYSCOOT.
+
 * Disposer d’un smartphone fonctionnant sous une version Android ou iOS compatible avec l’Application.
+
 * Transmettre par voie électronique les informations relatives à une ou plusieurs cartes bancaires Visa ou Mastercard en cours de validité.
 
 CITYSCOOT se réserve la possibilité d’effectuer des contrôles périodiques afin de s’assurer du respect des conditions d’accès au Service susvisées.
@@ -602,19 +605,19 @@ Désigne le bénéficiaire des garanties d’assurance telles que décrites à l
 
 **10.1.3 Sont exclus de la garantie :**
 
-* Le fait volontaire.
-* Les dommages causés aux marchandises et objets transportés par le Scooter.
-* La réparation des dommages subis par les auteurs, coauteurs ou complices d’un vol du Scooter.
-* Le paiement des amendes et des indemnités fourrières.
-* Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;
-* Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;
-* Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;
-* Les dommages ou le vol des Accessoires de l’Utilisateur ;
-* Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;
-* Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.
-* Les rallyes de régularité et les concentrations touristiques ne sont pas concernés par cette exclusion pour autant qu’ils répondent aux conditions ci-dessous :
-    * Rallye de régularité : Participation du véhicule assuré à un roulage sur voie de circulation n’excédant pas 50km/h, dans le respect des dispositions du code la route.
-    * Concentrations touristiques : Rassemblement de véhicules terrestres à moteur, qui se déroule sur la voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement ou tout caractère compétitif.
+* **Le fait volontaire.**
+* **Les dommages causés aux marchandises et objets transportés par le Scooter.**
+* **La réparation des dommages subis par les auteurs, coauteurs ou complices d’un vol du Scooter.**
+* **Le paiement des amendes et des indemnités fourrières.**
+* **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
+* **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre ;**
+* **Les dommages subis par le détenteur du Scooter en cas de vol, d’abus de confiance ou de conduite sans l´autorisation de CITYSCOOT ;**
+* **Les dommages ou le vol des Accessoires de l’Utilisateur ;**
+* **Les dommages subis par les garagistes, les courtiers, les vendeurs et dépanneurs de véhicules automobiles, les personnes pratiquant le contrôle de leur bon fonctionnement, ainsi que leurs préposés lors des réparations, remorquages, dépannages, contrôles ou vente du Scooter ;**
+* **Les dommages engageant votre responsabilité et survenus au cours d’épreuves, courses, compétitions ou leurs essais, soumis par la réglementation en vigueur à l’autorisation préalable des pouvoirs publics.**
+* **Les rallyes de régularité et les concentrations touristiques ne sont pas concernés par cette exclusion pour autant qu’ils répondent aux conditions ci-dessous :**
+    * **Rallye de régularité : Participation du véhicule assuré à un roulage sur voie de circulation n’excédant pas 50km/h, dans le respect des dispositions du code la route.**
+    * **Concentrations touristiques : Rassemblement de véhicules terrestres à moteur, qui se déroule sur la voie publique ou ouverte à la circulation publique dans le respect du code de la route, qui impose aux participants un ou plusieurs points de rassemblement ou de passage et qui est dépourvu de tout classement ou tout caractère compétitif.**
 
 **10.2 Garantie « défense pénale et recours suite à accident »**
 
@@ -660,7 +663,7 @@ Nous nous engageons :
 
 3. Mise en œuvre de la garantie
 
-1. Modalités d’application
+A. Modalités d’application
 
 Afin de faire valoir vos droits, vous devez :
 
@@ -684,7 +687,7 @@ Cette exception ne s’applique pas si vous justifier d’une urgence à les avo
 
 À défaut, si l’Assureur avait engagé des frais, ils seraient mis à votre charge dans la mesure où l’Assureur serait dans l’impossibilité de les récupérer.
 
-1. Frais pris en charge
+B. Frais pris en charge
 
 L’Assureur prend en charge, dans la limite de 10 000 euros TTC par sinistre :
 
@@ -742,7 +745,7 @@ Cour de Cassation, Conseil d’État, juridictions européennes        �
 
 Les frais et honoraires d’expertise judiciaire sont pris en charge à concurrence de 3 050 euros TTC par litige (ce budget expertise judiciaire est pris en compte dans le calcul du plafond maximum par litige).
 
-1. Que faire en cas de désaccord entre vous et l’Assureur ?
+C. Que faire en cas de désaccord entre vous et l’Assureur ?
 
 En vertu de l’article L127-4 du Code des assurances, en cas de désaccord entre vous et l’Assureur au sujet des mesures à prendre pour régler le différend, cette difficulté peut être soumise à l’appréciation d’une tierce personne désignée d’un commun accord par les parties ou, à défaut, par le président du Tribunal Judiciaire statuant en la forme des référés.
 
@@ -752,17 +755,17 @@ Toutefois, le président du Tribunal Judiciaire, statuant en la forme des réfé
 
 Si vous engagez à vos frais une procédure contentieuse et obtenez une solution plus favorable que celle qui vous avait été proposée par la tierce personne ou l’Assureur, l’Assureur vous indemnisera des frais exposés pour l’exercice de cette action, dans les limites prévues au paragraphe « Frais pris en charge ».
 
-1. Que faire en cas de conflits d’intérêts ?
+D. Que faire en cas de conflits d’intérêts ?
 
 Dès que vous avez déclaré votre litige à l’Assureur, vous avez la liberté de faire appel à un avocat de votre choix (ou à toute autre personne qualifiée par la législation ou la réglementation en vigueur), si vous estimez qu’un conflit d’intérêts peut survenir entre vous et l’Assureur (par exemple, si l’Assureur est amené à défendre simultanément les intérêts de la personne contre laquelle vous avez demandé à l’Assureur d’exercer votre recours).
 
 Dans cette éventualité, l’Assureur prend en charge les frais et honoraires d’un avocat dans les limites prévues au paragraphe « Frais pris en charge ».
 
-1. La subrogation
+E. La subrogation
 
 En vertu des dispositions des articles L121-2 du Code des assurances, l’Assureur se  substitue à vous dans vos droits et actions pour le recouvrement des sommes qui pourraient vous être allouées au titre des dépens et des indemnités versées en vertu des articles 700 du Code de Procédure civile, 475-1 et 375 du Code de Procédure pénale, L761-1 du Code de justice administrative et 75-1 de la loi du 10 juillet 1991 (ou leurs équivalents devant des juridictions autres que françaises), à concurrence des sommes que l’Assureur a  payées et après vous avoir prioritairement désintéressé si des  frais et honoraires sont restés à votre charge.
 
-1. L’étendue de vos garanties dans le temps
+F. L’étendue de vos garanties dans le temps
 
 L’Assureur prend en charge les litiges :
 
@@ -772,28 +775,28 @@ L’Assureur prend néanmoins en charge les litiges dont le fait générateur es
 
  – et que vous déclarez à l’Assureur entre la date de prise d’effet et de fin de votre garantie
 
-1. **Ce qui n’est pas garanti :**
+**G. Ce qui n’est pas garanti :**
 
- – Les enquêtes pour identifier ou retrouver l’adversaire.
+ – **Les enquêtes pour identifier ou retrouver l’adversaire.**
 
- – Les accidents survenus :
+ **– Les accidents survenus :**
 
-* lorsque vous êtes en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente, susceptible d’être sanctionné pénalement,
-* ou lorsque vous avez refusé de vous soumettre aux vérifications destinées à établir la preuve de ces états, sauf s’il est établi que l’accident est sans relation avec l’un de ces états.
+* **lorsque vous êtes en état d’ivresse ou sous l’emprise d’une drogue ou d’un stupéfiant non prescrit par une autorité médicale compétente, susceptible d’être sanctionné pénalement,**
+* **ou lorsque vous avez refusé de vous soumettre aux vérifications destinées à établir la preuve de ces états, sauf s’il est établi que l’accident est sans relation avec l’un de ces états.**
 
- – Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.
+ **– Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.**
 
- – Les frais et honoraires engendrés par une initiative prise sans accord préalable de l’Assureur.
+ **– Les frais et honoraires engendrés par une initiative prise sans accord préalable de l’Assureur.**
 
- – Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.
+ **– Les sommes de toute nature que vous pouvez être condamné à payer : condamnation au principal, amende, dommages et intérêts, dépens (si vous devez les rembourser à votre adversaire), indemnités allouées en vertu de l’article 700 du Code de Procédure Civile et ses équivalents.**
 
- – Les frais et honoraires engendrés par une initiative prise sans notre accord préalable, sauf si vous justifiez d’une urgence à les avoir engagés,
+ **– Les frais et honoraires engendrés par une initiative prise sans notre accord préalable, sauf si vous justifiez d’une urgence à les avoir engagés,**
 
- – Les honoraires de résultat.
+ **– Les honoraires de résultat.**
 
- – Les droits proportionnels.
+ **– Les droits proportionnels.**
 
- – Les recours judiciaires pour des réclamations dont le montant est inférieur à 230 euros TTC.
+ **– Les recours judiciaires pour des réclamations dont le montant est inférieur à 230 euros TTC.**
 
      **10.3 Garantie Individuelle Conducteur**
 
@@ -815,47 +818,47 @@ Une franchise de 15% s’applique sur le seul poste de préjudice « Atteinte pe
 
 **10.3.3 Exclusion de la garantie**
 
-Est exclu le préjudice corporel de l’Utilisateur qui :
+**Est exclu le préjudice corporel de l’Utilisateur qui :**
 
-* N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.
-* Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire »), sauf si le sinistre est sans relation avec cet état.
-* Ou a refusé de se soumettre aux vérifications destinées à établir la preuve de ces états.
-* Participe en qualité de concurrent à des épreuves, courses ou compétitions (ou à leurs essais) sportives ou automobiles.
-* Circule dans un lieu non règlementé par le Code de la Route.
-* N’est pas autorisé à conduire le Scooter.
+* **N’a pas l’âge requis par les présentes CGUS pour procéder à une Inscription ou ne possède pas les certificats ou permis en état de validité exigés par la règlementation en vigueur pour la conduite du Scooter.**
+* **Au moment du sinistre, conduisait sous l’empire d’un état alcoolique tel que défini par la législation en vigueur, de stupéfiants non prescrits médicalement ou de médicaments interdisant la conduite (médicaments, comportant le pictogramme « niveau 3 : Attention, danger : ne pas conduire »), sauf si le sinistre est sans relation avec cet état.**
+* **Ou a refusé de se soumettre aux vérifications destinées à établir la preuve de ces états.**
+* **Participe en qualité de concurrent à des épreuves, courses ou compétitions (ou à leurs essais) sportives ou automobiles.**
+* **Circule dans un lieu non règlementé par le Code de la Route.**
+* **N’est pas autorisé à conduire le Scooter.**
 
 **Ne sont pas couverts :**
 
-* Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre;
-* Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;
-* Les aggravations d’atteinte permanente à l’intégrité physique et psychique dues à la négligence de la part de l´Utilisateur10.2 dans son traitement médical ;
+* **Les dommages causés par le Scooter lorsqu’il transporte des sources de rayonnements ionisants destinées à être utilisées hors d’une installation nucléaire, dès lors que lesdites sources auraient provoqué ou aggravé le sinistre;**
+* **Les dommages provoqués ou aggravés par le transport avec le Scooter de matières inflammables, explosives, corrosives ou comburantes ;**
+* **Les aggravations d’atteinte permanente à l’intégrité physique et psychique dues à la négligence de la part de l´Utilisateur10.2 dans son traitement médical ;**
 
 **10.4 Exclusions générales**
 
-L’assurance ne couvre pas :
+**L’assurance ne couvre pas :**
 
-* les dommages causés aux accessoires (casque, coffre etc.),
-* les dommages et le vol d’effets personnels (y compris les téléphones portables), les crevaisons de pneus dans tous les cas,
-* les dommages résultant de la conduite du véhicule dans des conditions contraires aux règles de la circulation et de la sécurité routière, ainsi que ceux résultants de la conduite du véhicule par un tiers autre que l’Utilisateur.
-* Les biens et/ou les activités assurés lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à l’assureur du fait de sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.
-* Les biens et/ou les activités assurés lorsqu’ils sont soumis à une quelconque sanction, restriction, embargo total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.
+* **les dommages causés aux accessoires (casque, coffre etc.),**
+* **les dommages et le vol d’effets personnels (y compris les téléphones portables), les crevaisons de pneus dans tous les cas,**
+* **les dommages résultant de la conduite du véhicule dans des conditions contraires aux règles de la circulation et de la sécurité routière, ainsi que ceux résultants de la conduite du véhicule par un tiers autre que l’Utilisateur.**
+* **Les biens et/ou les activités assurés lorsqu’une interdiction de fournir un contrat ou un service d’assurance s’impose à l’assureur du fait de sanction, restriction ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
+* **Les biens et/ou les activités assurés lorsqu’ils sont soumis à une quelconque sanction, restriction, embargo total ou partiel ou prohibition prévues par les conventions, lois ou règlements, y compris celles décidées par le Conseil de sécurité des Nations Unies, le Conseil de l’Union européenne, ou par tout autre droit national applicable.**
 
-Il est entendu que cette disposition ne s’applique que dans le cas où le contrat d’assurance, les biens et/ou activités assurés entrent dans le champ d’application de la décision de sanction restriction, embargo total ou partiel ou prohibition.
+**Il est entendu que cette disposition ne s’applique que dans le cas où le contrat d’assurance, les biens et/ou activités assurés entrent dans le champ d’application de la décision de sanction restriction, embargo total ou partiel ou prohibition.**
 
-* Les dommages ou l’aggravation des dommages, les pertes, les réclamations résultant :
-    * de la guerre civile ou étrangère,
-    * d’un conflit armé international ou non international, tels que définis par les Conventions de Genève et les jugements et décisions des Tribunaux internationaux
-    * d’invasion,
-    * de l’explosion de munitions de guerre.
+* **Les dommages ou l’aggravation des dommages, les pertes, les réclamations résultant :**
+    * **de la guerre civile ou étrangère,**
+    * **d’un conflit armé international ou non international, tels que définis par les Conventions de Genève et les jugements et décisions des Tribunaux internationaux**
+    * **d’invasion,**
+    * **de l’explosion de munitions de guerre.**
 
-Sont toutefois garantis les dommages subis sur le territoire national, lorsque l’explosion de munitions de guerre est un acte d’attentat ou un acte de terrorisme tel que défini par le code pénal; la garantie s’applique alors dans les conditions, limites et exclusions prévues au contrat au titre de la garantie Attentat et acte de terrorisme.
+**Sont toutefois garantis les dommages subis sur le territoire national, lorsque l’explosion de munitions de guerre est un acte d’attentat ou un acte de terrorisme tel que défini par le code pénal; la garantie s’applique alors dans les conditions, limites et exclusions prévues au contrat au titre de la garantie Attentat et acte de terrorisme.**
 
-On entend par :
+**On entend par :**
 
-* Conflit armé international : Existe chaque fois qu’il y a recours à la force armée entre deux ou plusieurs États.
-* Conflit armé non international : Existe chaque fois qu’il y a recours à la force armée entre États ou un conflit armé prolongé entre les autorités gouvernementales et des groupes armés organisés ou entre de tels groupes au sein d’un État.
-* Invasion : Action militaire qui menace directement l’autonomie d’une nation ou territoire.
-* Les dommages subis par le véhicule assuré lorsque ce dernier a fait l’objet modification de sa puisance en Kw, qui ne nous a pas été déclaré, par rapport au modèle constructeur
+* **Conflit armé international : Existe chaque fois qu’il y a recours à la force armée entre deux ou plusieurs États.**
+* **Conflit armé non international : Existe chaque fois qu’il y a recours à la force armée entre États ou un conflit armé prolongé entre les autorités gouvernementales et des groupes armés organisés ou entre de tels groupes au sein d’un État.**
+* **Invasion : Action militaire qui menace directement l’autonomie d’une nation ou territoire.**
+* **Les dommages subis par le véhicule assuré lorsque ce dernier a fait l’objet modification de sa puisance en Kw, qui ne nous a pas été déclaré, par rapport au modèle constructeur**
 
 **10.5 Vos obligations en cas de sinistre**
 
