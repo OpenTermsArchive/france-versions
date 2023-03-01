@@ -30,6 +30,8 @@ Vous avez besoin d'une adresse e-mail pour passer une commande, et vous pouvez �
 
 Lorsque vous passez une commande, nous vous enverrons un e-mail vous en accusant réception. Notre acceptation de la commande à lieu lorsque les Produits vous sont expédiés – nous vous enverrons un e-mail confirmant que les produits ont été expédiés (« Confirmation de Commande »). À ce stade, un contrat, contenant les présentes Conditions de Vente, est conclu et vous lie à nous (le « Contra t»). Nous vous recommandons d'imprimer ou de télécharger une copie de ces Conditions de Vente et de la Confirmation de Commande pertinente pour référence ultérieure. Si nous sommes dans l'impossibilité de vous fournir un produit, nous vous en informerons par écrit et ne traiterons pas la commande. 
 
+\[**Voir les conditions de la** [**Pologne**](#POLAND).\]
+
 NOTRE DROIT DE REJETER VOTRE COMMANDE OU D'ANNULER UN CONTRAT
 
 L'exécution de toutes les commandes sur la Plateforme est soumise à la disponibilité des produits. Nous nous réservons expressément le droit de refuser votre commande pour quelque raison que ce soit. Nous nous réservons également le droit d'annuler un contrat par notification écrite, sans pouvoir être tenus responsable de tout dommage ou coût autre que le remboursement de tout somme versée par vous en relation avec le Contrat que nous avons annulé dans les situations suivantes:
@@ -286,4 +288,12 @@ Sauf interdiction et sans limitation des droits reconnus aux consommateurs, vous
 
 Dans le cas où vous avez une plainte ou estimez qu'il y a un différend entre vous et NIKE, veuillez nous contactez via [\[contact us page](https://help-fr-fr.nike.com/app/contact)\] d'abord. Dans le cas où le différend entre vous et NIKE n'est pas résolu, vous pouvez – sans y être obligé – utiliser la plate-forme de résolution en ligne des litiges accessible via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) »
 
-Date de la dernière révision: septembre 2021
+La section ci-dessus intitulée « COMMENT COMMANDER » est modifiée par l’ajout de ce qui suit :
+
+« En acceptant les présentes Conditions de vente, vous :
+
+(a) demandez à ce qu’une facture soit établie au titre de votre achat et
+
+(b) acceptez que ladite facture soit établie au format électronique et vous soit transmise par e-mail. »
+
+Date de la dernière révision: Mars 2023
