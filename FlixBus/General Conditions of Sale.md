@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 08/11/2022
+Version : 01/03/2023
 
 ### 1 Champ d’application
 
@@ -157,23 +157,19 @@ Si des dispositions individuelles des présentes Conditions générales de vente
 * ****Concernant le point 5.4 :**** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
 * ****Concernant le point 6 :**** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
-****4\. Fédération de Russie****
-
-* ****Concernant le point 6 :**** La juridiction compétente pour tout litige éventuel entre LLC FlixBus Rus et un passager est le siège de LLC FlixBus Rus, c’est-à-dire la ville de Moscou.
-
-****5\. Royaume-Uni****
+****4\. Royaume-Uni****
 
 * ****Concernant 5.6 :**** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
 
-****6\. France****
+****5\. France****
 
 * **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
 
-****7\. Portugal****
+****6\. Portugal****
 
 * **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
 
-**8\. Ukraine**
+**7\. Ukraine**
 
 * **Concernant 4.5.1 :** Le prix total du billet indiqué sur la boutique en ligne comprend tous les frais de paiement qui sont facturés par des fournisseurs tiers (du côté de FlixBus) concernant le mode de paiement que vous avez choisi et que vous devez payer, ainsi que la taxe de vente légale.  
     Nonobstant toute disposition contraire énoncée dans les présentes, le prix total indiqué sur la boutique en ligne dû par le client ne peut inclure aucun frais bancaire et/ou de l’institution financière du client, qui peuvent être facturés en plus en vertu des politiques ou lois pertinentes liées à cette banque/institution financière sans que FlixBus en ait connaissance et soit impliqué, causés par, y compris, mais de façon non limitative, la double conversion appliquée par la banque/institution financière concernée du client. Ainsi, les Parties aux présentes conviennent et confirment que le prix total à payer par le client peut être facturé en sus et que FlixBus n’a aucun lien et ne sera pas responsable de ces frais supplémentaires.
