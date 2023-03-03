@@ -284,14 +284,12 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(a)** Sauf dispositions contraires contenues dans le Billet, ces Conditions Générales de Transport ou les Tarifs, tels que définis à l'Article 2 ci-dessus, (en cas de Tarifs affectant la validité d'un Billet, tel qu'indiqué sur le Billet lui-même), un Billet est valable au transport :
 
-* un an, à compter de la date d'émission ou,
-* un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission.
+* un an, à compter de la date d'émission du billet initial ou,
+* un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission du billet initial.
 
-**(b)** Lorsque vous êtes empêché(e) de voyager pendant la durée de validité de votre Billet parce qu'au moment où vous demandez une réservation sur un vol, nous ne sommes pas en mesure de confirmer cette réservation, la validité de ce Billet sera prorogée ou le Billet pourra donner lieu à remboursement, dans les conditions prévues à l'Article 13 ci-dessous.
+**(b)** Lorsque votre voyage n’a pu être effectué pour des raisons volontaires ou involontaires, vous pouvez obtenir le remboursement tout ou partiel de votre billet (hors frais de service (Voir Article 5.7) conformément aux conditions tarifaires souscrites lors de votre achat, sans préjudice de la réglementation applicable le cas échéant, selon les raisons de l’annulation de votre voyage, en formulant votre demande auprès d’air Corsica le transporteur, dans la limite de la validité du billet, à savoir 1 an à compter de la date d’émission du billet initial.
 
-**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet, nous pourrons, après réception de votre part d’un certificat médical approprié et à condition que les raisons de santé n'aient pas été connues lors de la réservation, proroger la validité du Billet jusqu'à la date où vous serez apte à voyager, ou bien jusqu'à la date de notre premier vol disponible.
-
-Cette prorogation concerne le parcours commençant au point où le voyage a été interrompu et vaut pour un transport dans la classe du tarif acquitté. Lorsque les Coupons de Vol restant dans le Billet ou, en cas de Billet électronique, dans le Coupon électronique, comportent un ou plusieurs Arrêts volontaires, la validité de ce Billet pourra être prorogée de trois mois au plus, à compter de la date portée sur ledit certificat. De même, nous prorogerons la validité des Billets des membres de votre famille proche vous accompagnant, sous réserve qu'il soit satisfait aux conditions de preuve.
+**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet , 1 an à compter de la date d’émission du billet initial), vous pourrez obtenir le remboursement tout ou partiel de votre billet selon les conditions tarifaires souscrites lors de l’achat et obtenir un remboursement complémentaire auprès de l’assurance voyage souscrite lors de l’achat du billet selon les garanties précisées au contrat d’assurance. Dans tous les cas, vous être en droit d'obtenir le remboursement, sous trente (30) jours, des taxes et redevances individualisées correspondant à la portion de voyage non effectuées, en application de l'article L.224-66 du Code de la consommation. Vous pouvez effectuer votre demande en ligne à l'adresse suivante : [**https://support.aircorsica.com/**](https://support.aircorsica.com/).
 
 **(d)** En cas de décès d'un Passager au cours du voyage, les Billets des personnes accompagnant le défunt pourront être modifiés, soit en écartant la notion de séjour minimum, soit en prorogeant la validité de ces Billets. En cas de décès survenu dans la famille proche d'un Passager dont le voyage est commencé, la validité des Billets du Passager et de ceux des membres de sa famille proche voyageant avec lui pourra être modifiée de la même façon.
 
@@ -345,7 +343,7 @@ Des services complémentaires sont proposés au passager lors de l’achat de so
 
 **5.7. Frais d'émission ou de dossier**
 
-Des frais d’émission ou de dossier sont facturés lors de chaque achat sur les lignes d’Air Corsica. Les Frais d’émission ou de dossier sont d'un montant différent selon le type de voyage, le Tarif et le canal de distribution du Billet. Ces Frais s'ajoutent au Tarif TTC.   
+Des frais d’émission ou de dossier sont facturés lors de chaque achat sur les lignes d’Air Corsica. Les Frais d’émission ou de dossier sont d'un montant différent (De 1€ à 20€ par billet selon le point de vente Air Corsica, les agences de voyage appliquent les frais de service de leur choix) selon le type de voyage, le Tarif et le canal de distribution du Billet. Ces Frais s'ajoutent au Tarif TTC.   
 Les Frais d’Émission ou de dossier facturés, le cas échéant, par le Transporteur ne sont pas remboursables, excepté lorsqu'il s’agit d'une annulation du Billet due à une faute du Transporteur.   
 Le Passager est informé avant la finalisation de sa Réservation, du montant des Frais d'Émission qui lui sont facturés par le Transporteur. Le montant des Frais d'Émission facturés par Air Corsica est consultable auprès de ses services et sur son Site Internet.
 
