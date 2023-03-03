@@ -40,7 +40,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | CookieConsent \[x15\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 13456 days | HTTP Cookie |
 | deviceId \[x3\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
-| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
+| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
 | platform-viewer | [Wix](https://www.wix.com/about/privacy "Wix's privacy policy") | Preserves the visitor's session state across page requests. | Session | Pixel Tracker |
@@ -72,7 +72,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (47)
+Statistics (49)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -86,8 +86,8 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x3\] | couriers.bolt.eu  <br>partners.bolt.eu  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Used to detect whether the user navigation and interactions are included in the website’s data analytics. | 1 day | HTTP Cookie |
-| \_hjIncludedInSessionSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x4\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>couriers.bolt.eu  <br>partners.bolt.eu | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
+| \_hjIncludedInSessionSample \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers data on visitors' website-behaviour. This is used for internal analysis and website optimization. | 1 day | HTTP Cookie |
 | \_hjIncludedInSessionSample\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
@@ -95,8 +95,10 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
+| events/1/# | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Used to monitor website performance for statistical purposes. | Session | Pixel Tracker |
 | fedops.logger.defaultOverrides | bolt.eu | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
 | fedops.logger.sessionId | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Persistent | HTML Local Storage |
+| jserrors/1/# | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Pending | Session | Pixel Tracker |
 | ln\_or | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | 1 day | HTTP Cookie |
 | previousUrl \[x2\] | couriers.bolt.eu  <br>static.tildacdn.com | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | 1 day | HTTP Cookie |
 | survi::#::allvisitor | [Survicate](http://survicate.com/wp-content/uploads/2015/10/Polityka-prywatnosci-ENG-1.pdf "Survicate's privacy policy") | Pending | Persistent | HTML Local Storage |
@@ -110,7 +112,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (56)
+Marketing (55)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -128,7 +130,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_ttp \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | ads/ga-audiences | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session | Pixel Tracker |
 | bcookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | 1 year | HTTP Cookie |
-| DEVICE\_INFO | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | 179 days | HTTP Cookie |
 | dismissedBanners | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
 | experiments-fingerprint | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
 | experiments-raw | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
