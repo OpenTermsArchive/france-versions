@@ -199,7 +199,7 @@ En ce qui concerne la publicité ciblée :
 
 En règle générale, nous conservons vos Données Personnelles au sein de  l’Union Européenne. Cependant, dans la mesure où, par exemple,  certains de nos prestataires de service sont situés dans des pays en dehors de l’Union Européenne (« Pays Tiers »), nous transférons certaines de vos Données Personnelles dans des Pays Tiers. Cela peut notamment être le cas vers des Pays Tiers pour lesquels la Commission Européenne n’a pas pris une décision de « protection adéquate ». Dans un tel cas, nous nous assurons que ce transfert soit effectué en conformité avec la réglementation applicable et garantisse un niveau de protection suffisant de la vie privée et des droits fondamentaux des personnes (notamment par les clauses contractuelles types de la Commission Européenne).
 
-Sur simple demande formulée à notre Délégué à la Protection des Données ([datapro\[email protected\]](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
+Sur simple demande formulée à notre Délégué à la Protection des Données ([\[email protected\]](http://dataprotection@blablacar.com/?)), nous pouvons vous fournir davantage d’informations quant à ces garanties (notamment les clauses contractuelles types de la Commission Européenne).
 
 9\. Quels sont vos droits sur vos données personnelles ?
 --------------------------------------------------------
