@@ -32,7 +32,9 @@ UN CRÉDIT VOUS ENGAGE ET DOIT ÊTRE REMBOURSÉ.VÉRIFIEZ VOS CAPACITÉS DE REMB
 
 1\. Le remboursement de la différence si vous trouvezmoins cher, même sur internet
 
-Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau (1).
+Si pendant les 10 jours qui suivent votre achat, vous trouvez un produit de même marque et de mêmeréférence, disponible à la vente en magasin ou sur internet (hors achats effectués sur la Marketplace),chez nos principaux concurrents, en France métropolitaine dans les mêmes conditions de services, à unprix de référence plus bas, nous vous remboursons la différence en Carte Cadeau
+
+ (1).
 
 2\. Des prix bas, identiques en magasin et sur internet
 
@@ -40,7 +42,7 @@ Nos experts sélectionnent une large gamme de produits aux meilleurs prix. Le pr
 
 3\. Des solutions pour accompagner vos projets
 
-Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3).
+Nos conseillers Darty peuvent vous proposer des solutions pour gérer votre budget en finançant vos produits (3) .
 
 4\. La reprise de votre ancien smartphone ou tablette (4)
 
@@ -56,7 +58,7 @@ Un achat en magasin sera remboursé si l’emballage n’est pas ouvert. S’il 
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 3
+\- 7 mars 2023 - 3
 
 SERVICE
 
@@ -68,33 +70,35 @@ Pour les commandes passées sur darty.com ou par téléphone, nous mettons votre
 
 7\. La livraison sur rendez-vous en 2 h chrono ousur un créneau de 2 h le jour de votre choix
 
-Pour les produits volumineux (1), Darty peut vous livrer le soir même (2), le lendemain (3) ou le jour de votrechoix sur un créneau de 2 h, du lundi au samedi, dès 7 h et jusqu’à 21 h, dans les Zones de Confiance (4).Pour les produits jusqu’à 30 kg, vous pouvez aussi être livré le jour même en 2 h chrono ou sur uncréneau de 2 h le jour de votre choix, du lundi au samedi, dès 10 h et jusqu’à 22 h (5).
+Pour les produits volumineux (1), Darty peut vous livrer le soir même (2), le lendemain (3) ou le jour de votrechoix sur un créneau de 2 h, du lundi au samedi, dès 7 h et jusqu’à 21 h, dans les Zones de Confiance.Pour les produits jusqu’à 30 kg, vous pouvez aussi être livré le jour même en 2 h chrono ou sur uncréneau de 2 h le jour de votre choix, du lundi au samedi, dès 10 h et jusqu’à 22 h (4).
 
 
 
 8\. La livraison sur rendez-vous avec installation sur mesure
 
-Pour les produits volumineux (1), Darty vous livre, vous installe et vous met en service votre produitdans la pièce de votre choix (6). La livraison a lieu le jour de votre choix sur un créneau de 5 h, du lundiau samedi, entre 8 h et 17 h, dans les Zones de Confiance.La livraison avec installation est gratuite pour les produits volumineux(1) à partir de 399 € (7).Lors de votre commande en magasin ou sur darty.com, vous pouvez aussi choisir une livraison avecune prestation d’installation sur mesure de votre produit : fixation de la porte décorative sur votrenouvel électroménager encastrable, pose murale de votre nouvelle TV...
+Pour les produits volumineux (1), Darty vous livre, vous installe et vous met en service votre produitdans la pièce de votre choix (5). La livraison a lieu le jour de votre choix sur un créneau de 5 h, du lundiau samedi, entre 8 h et 17 h, dans les Zones de Confiance.Lors de votre commande en magasin ou sur darty.com, vous pouvez aussi choisir une livraison avecune prestation d’installation sur mesure de votre produit : fixation de la porte décorative sur votrenouvel électroménager encastrable, pose murale de votre nouvelle TV...
 
 Les Zones de Confiance
 
-Pour vérifier votre éligibilité à la livraison Darty, retrouvez toutes les Zones de Confiance surbit.ly/contratdeconfiance et téléchargez le PDF en bas de page, ou renseignez-vous auprès d’unvendeur en magasin.
+Pour vérifier votre éligibilité à la livraison Darty, cliquez depuis la fiche article sur le lien « Voir tous lescréneaux de livraison » et sélectionnez votre lieu de livraison, ou renseignez-vous auprès d’un vendeuren magasin.
+
+
 
 9\. La reprise gratuite pour recyclage de vos anciensappareils
 
-Darty reprend et recycle vos anciens produits (8) :• À domicile : reprise gratuite et simultanée de votre ancien produit lors de la livraison par Dartyde votre nouveau produit volumineux, pour traitement ou recyclage. Si vous le souhaitez, nouspouvons aussi reprendre un second appareil d’une famille de produits vendue par Darty.• En magasin : vous pouvez déposer dans l’ensemble de nos magasins Darty des produits et desconsommables usagés : piles et batteries, ampoules, cartouches d’encre, téléphones mobiles,lampes et petits appareils électriques.
+Darty reprend et recycle vos anciens produits (6) :• À domicile : reprise gratuite et simultanée de votre ancien produit lors de la livraison par Dartyde votre nouveau produit volumineux, pour traitement ou recyclage. Si vous le souhaitez, nouspouvons aussi reprendre un second appareil d’une famille de produits vendue par Darty.• En magasin : vous pouvez déposer dans l’ensemble de nos magasins Darty des produits et desconsommables usagés : piles et batteries, ampoules, cartouches d’encre, téléphones mobiles,lampes et petits appareils électriques.
 
 
 
 (1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.com
 
-avant 15h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (3) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux,Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Les Zones de Confiance sont détaillées en annexe. (5) Pour toute commande passée en magasin ou sur darty.comavant 17h30, livraison possible en 2h chrono. La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en serviceet la reprise de votre ancien produit. Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon,Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (6) Dans le cas où le réseau électrique et de plomberie n’existerait pas oune serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Lesappareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais nesont ni installés, ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraientpas être montés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreursn’étant pas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.
+avant 15h, livraison possible le soir même pour l'agglomération de Paris. (3) Livraison possible dès le lendemain pour les agglomérations de Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Pour toute commande passée en magasin ou sur darty.com avant 17h30, livraison possible en 2h chrono.La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en service et la reprise de votre ancien produit.Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier,Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (5) Dans le cas où le réseau électrique et de plomberie n’existerait pas ou ne serait pas conforme auxnormes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Les appareils encastrables,les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais ne sont ni installés,ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraient pas êtremontés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreurs n’étantpas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.
 
-(7) Hors modèles neufs ou d’exposition livrés depuis un magasin Darty. (8) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits enfin de vie, en conformité avec la réglementation. Les anciens produits repris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
+(6) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits en fin de vie, en conformité avec la réglementation. Les anciens produitsrepris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 4
+\- 7 mars 2023 - 4
 
 CONSEIL
 
@@ -120,7 +124,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 5
+\- 7 mars 2023 - 5
 
 13\. L’information sur les produits durablesLe choix durable
 
@@ -150,11 +154,11 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 6
+\- 7 mars 2023 - 6
 
 DURABILITÉ
 
-(1) Articles L.217-3 et suivants du Code de la consommation pour les biens et les biens comportant des éléments numériques. Articles L.224-25-12 et suivants du Code de laconsommation pour les contenus numériques et services numériques. (2) Pour les éléments numériques, les contenus numériques et les services numériques fournis en continuependant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du service numérique. (3) Darty peut privilégierl’une de ces options en fonction notamment des coûts et de la valeur du produit. (4) Uniquement si la réparation ou le remplacement sont impossibles ou n’ont pu être mis en œuvredans le mois suivant la prise en charge du produit. (5) Uniquement si la mise en conformité est impossible ou n’a pu être mise en œuvre dans le mois suivant la prise en charge ducontenu ou du service numérique. (6) Les « produits volumineux » sont détailles en annexe dans le tableau des garanties associées au Contrat de Confiance. (7) Les Zones de Confiancesont détaillées en annexe. (8) Sous réserve de créneaux d’intervention disponibles au moment de l’appel. (9) Pour les téléviseurs d’une taille égale ou supérieur à 40 pouces (101 cm),téléphones mobiles, lave-linges, réfrigérateurs ou congélateurs sous garantie et sur demande du client. En fonction de la disponibilité d’appareils dans nos SAV, les appareils prêtésseront mis à votre disposition dans les 48 heures à compter de la prise en charge de votre appareil par le service après-vente Darty et jusqu’au jour de sa mise à disposition. Ils neseront pas obligatoirement neufs ou identiques au vôtre. (10) Ce délai part du jour de prise en charge de votre appareil par Darty et prend fin le jour de sa mise à disposition. Cetengagement s’ajoute à l’obligation légale indiquée en page 20. (11) Darty vous propose un remboursement seulement si l’échange est impossible.
+(1) Articles L.217-3 et suivants du Code de la consommation pour les biens et les biens comportant des éléments numériques. Articles L.224-25-12 et suivants du Code de laconsommation pour les contenus numériques et services numériques. (2) Pour les éléments numériques, les contenus numériques et les services numériques fournis en continuependant une durée supérieure à 2 ans, la durée de la garantie sera équivalente à celle de la fourniture de l’élément, du contenu ou du service numérique. (3) Darty peut privilégierl’une de ces options en fonction notamment des coûts et de la valeur du produit. (4) Uniquement si la réparation ou le remplacement sont impossibles ou n’ont pu être mis en œuvredans le mois suivant la prise en charge du produit. (5) Uniquement si la mise en conformité est impossible ou n’a pu être mise en œuvre dans le mois suivant la prise en charge ducontenu ou du service numérique. (6) Les « produits volumineux » sont détailles en annexe dans le tableau des garanties associées au Contrat de Confiance. (7) Sous réserve decréneaux d’intervention disponibles au moment de l’appel. (8) Pour les téléviseurs d’une taille égale ou supérieur à 40 pouces (101 cm), téléphones mobiles, lave-linges, réfrigérateursou congélateurs sous garantie et sur demande du client. En fonction de la disponibilité d’appareils dans nos SAV, les appareils prêtés seront mis à votre disposition dans les 48 heuresà compter de la prise en charge de votre appareil par le service après-vente Darty et jusqu’au jour de sa mise à disposition. Ils ne seront pas obligatoirement neufs ou identiques auvôtre. (9) Ce délai part du jour de prise en charge de votre appareil par Darty et prend fin le jour de sa mise à disposition. Cet engagement s’ajoute à l’obligation légale indiquée enpage 20. (10) Darty vous propose un remboursement seulement si l’échange est impossible.
 
 
 
@@ -164,15 +168,15 @@ Tous vos achats bénéficient de la garantie légale de conformité (1) dans les
 
 La garantie 2 ans par le SAV Darty
 
-Et lorsque vous achetez chez Darty, vous bénéficiez en plus des avantages du SAV DartyL’intervention à domicile d’un technicien Darty, du lundi au samedi de 8h à 17 h, pour les « produitsvolumineux » (6) dans les Zones de Confiance (7) après un diagnostic par téléphone. Cette interventionpeut avoir lieu dans les 24 h qui suivent votre appel (8). Pour les autres produits, conformément à laréglementation, réparation en atelier après dépôt au comptoir SAV du magasin.Le prêt d’un produit de remplacement en cas de panne de certains appareils, pendant la durée deréparation (9).Conformément à nos obligations légales, la prolongation de la garantie en cours, du tempsd’immobilisation de votre appareil suite à une intervention après-vente (10).Si votre produit est défectueux à la première utilisation, dans les 15 jours suivant l’achat, nouspouvons vous proposer un échange ou un remboursement (11).Les conditions des garanties sont détaillées en annexe dans le tableau des garanties.
+Et lorsque vous achetez chez Darty, vous bénéficiez en plus des avantages du SAV DartyL’intervention à domicile d’un technicien Darty, du lundi au samedi de 8h à 17 h, pour les « produitsvolumineux » (6) dans les Zones de Confiance après un diagnostic par téléphone. Cette interventionpeut avoir lieu dans les 24 h qui suivent votre appel (7). Pour les autres produits, conformément à laréglementation, réparation en atelier après dépôt au comptoir SAV du magasin.Le prêt d’un produit de remplacement en cas de panne de certains appareils, pendant la durée deréparation (8).Conformément à nos obligations légales, la prolongation de la garantie en cours, du tempsd’immobilisation de votre appareil suite à une intervention après-vente (9).Si votre produit est défectueux à la première utilisation, dans les 15 jours suivant l’achat, nouspouvons vous proposer un échange ou un remboursement (10).Les conditions des garanties sont détaillées en annexe dans le tableau des garanties.
 
 Les garanties sur-mesure
 
-Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en annexe.
+Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénéficier d’avantages exclusifs, vous pouvezsouscrire à une garantie complémentaire au moment de l’achat ou dans les 15 jours suivants, selonles familles de produits. Voir détails en magasin ou sur darty.com.
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 7
+\- 7 mars 2023 - 7
 
 DURABILITÉ
 
@@ -196,7 +200,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 8
+\- 7 mars 2023 - 8
 
 DURABILITÉ
 
@@ -244,7 +248,7 @@ Les formules Darty Max :
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 9
+\- 7 mars 2023 - 9
 
 DURABILITÉ
 
@@ -308,11 +312,11 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 10
+\- 7 mars 2023 - 10
 
 DURABILITÉ
 
-Assurance mobile
+Assurance mobile hors Apple
 
 Tous les téléphones achetés neufs d’origine sont couverts (achetés en magasin Darty ou sur le site www.darty.com).
 
@@ -330,17 +334,31 @@ Assurances Multimédia Mono-Produit Assurances Multimédia FoyerClasse 1 Classe 
 
 Valeur de l’appareil au moment de l’achat ≤ 399€ \> 399 € et ≤ 699 € N/A N/ATarif mensuel TTC 4 € 7,50 € 10,50 € 14 €Offre de bienvenue 30 €1er mois offert
 
-Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion 4 € TTC/mois 4 € TTC/mois
+Offre de fidélité 60 € remboursésen carte cadeauOption Plafond de garantie étendu de2 000 € à 5 000 € TTC par année d’adhésion
 
-Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois 2 € TTC/mois
+ 4 € TTC/mois
 
-Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 15 jours 15 jours 15 jours 30 jours
+ 4 € TTC/mois
+
+Option Ancienneté des appareils garantisétendue de 3 à 5 ans à la date du sinistre 2 € TTC/mois
+
+ 2 € TTC/mois
+
+Plafond sinistres 2 sinistres max/an 2 sinistres max/an 2 sinistres max/an2 sinistres max/andont un seul sinistrevolPlafond indemnisation 800 €/an
+
+ 1 400 €/an 2 000 €/an 2 000 €/anDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Service Bouton multimédiaDélai de rétractation 30 jours 30 jours 30 jours 30 jours
 
 Formule Essentielle \* Formule Premium\*\*
 
 
 
-Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 € 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton MultimédiaTarif annuel TTC (prépayé 12 mois) 49,99 € 89,99 € 129,99 € 169,99 € 89,99 € 109,99 € 149,99 € 189,99 €
+Valeur téléphone mobile <200€ 200<400€400<600€600€et + <200€
+
+ 200<400€400<600€600€et +Tarif mensuel TTC 4,00 €
+
+ 7,50 € 10,50 € 14,00 € 7,50 € 10,50 € 14,00 € 17,50 €1 er mois offertOffre de bienvenue 30 €Offre de fidélité 30 € 40 € 60 € 80 €Option accessoires 2 € TTC/mois 2 € TTC/moisPlafond d’indemnisation 2 000 €/an
+
+ 2 000 €/anPlafond sinistres 2 sinistres max/an 2 sinistres max/an dont 1 sinistre vol maxDommage et oxydation toutes causesVol toutes causes (avec agression,effraction, à la tire, à la sauvette,par introduction clandestine)Garantie communications frauduleuses 1 500 € TTC / année d’adhésionService Bouton Multimédia
 
 
 
@@ -354,7 +372,7 @@ Les assurances
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 11
+\- 7 mars 2023 - 11
 
 DURABILITÉ
 
@@ -394,87 +412,81 @@ Pack Sérénité Pack Sérénité Premium
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 12
+\- 7 mars 2023 - 12
 
 DURABILITÉ
 
 TABLEAU DES SERVICESDE LIVRAISON
 
-Pour les produits vendus par Darty hors Marketplace
+Pour les produits vendus par Darty hors MarketplaceRetrait en magasin Prix Abonnés Darty Max (1)Pour tous les produits stockés dans le magasin sélectionné
 
-Retrait en magasin PrixPour tous les produits stockés dans le magasin sélectionné
+En 1h GratuitPour tous les autres produits
 
-En 1 h GratuitPour tous les autres produits
-
-Rapide en 2 à 5 jours GratuitLivraison près de chez vous en point de retraitPour les petits produits jusqu’à 20 kg
+Rapide en 2 à 5 jours GratuitLivraison près de chez vous en point de retraitPour les petits produits jusqu'à 20 kg
 
 
 
-Rapide en 2 à 3 jours 3,99 €Gratuit à partir de 35 € d’achats
-
-Express dès le lendemain, avant 18 h 4,99 €Livraison à domicilePour les petits produits jusqu’à 30 kg
+Rapide en 2 à 3 jours 3,99 €Offert dès 35 € d'achat Gratuit
 
 
 
-Rapide en 2 à 3 jours 4,99 €Gratuit à partir de 35 € d’achats
-
-Express dès le lendemain, avant 18 h 7,99 €
-
-En 2 h chrono le jour même ou sur un créneau de 2 h le jour de votre choix (1) 14,99 €Livraison avec installation, mise en service et reprise des anciens produits (2)
-
-Pour les produits volumineux (3) à partir de 399 €
-
-Dès le lendemain (4), sur un créneau de 5 h Gratuit
-
-Dès le jour même (5), sur un créneau de 2 h 29 €Pour les produits volumineux (3) de moins de 399 € et les modèles neufs ou d’exposition livrés depuis un magasin Darty
-
-Dès le lendemain (4) , sur un créneau de 5 h 29 €
-
-Dès le jour même (5), sur un créneau de 2 h 58 €Cas particuliers
-
-Seconde présentation en cas d’absence lors de la première livraison 29 €
-
-Livraison en Zones Éloignées (6) 49 €
-
-Nouvelle intervention pour mise en service, à la demande du client 49 €
-
-Enlèvement à domicile de l’appareil dans le cadre des 15 jours pour changer d’avis, sans nouvelle commande 69 €Prestations d’installation sur mesure réalisées lors de la livraison (7)
-
-Pour les produits volumineux (3) Gros Electroménager encastrables
-
-Encastrement et fixation du micro-ondes dans le caisson 89 € (8)
+Livraison express dès le lendemain, avant 18h 4,99 € Offert dès 20 € d'achatLivraison à domicile simple déposePour les petits produits jusqu'à 30 kg
 
 
 
-Encastrement et fixation de la porte décorative du lave-vaisselle 89 € (8)
+Livraison rapide en 2 à 3 jours 4,99 €Offert dès 35 € d'achat Gratuit
 
 
 
-Encastrement et fixation de la porte décorative du réfrigérateur, congélateur, lave-linge ou sèche-linge 129 € (8)
+Livraison express dès le lendemain, avant 18h(pour les achats web, effectués sur www.darty.com) 7,99 € Offert dès 20€ d'achat
 
 
 
-Encastrement de la plaque de cuisson avec découpe et ajustement du plan de travail 129 € (8)
+Livraison en 2h chrono le jour même ou sur un créneau de 2h le jour de votre choix (2) 14,99 € Offert dès 30€ d'achatLivraison à domicile avec installation, mise en serviceet reprise des anciens produits (3)Pour les produits volumineux (4)
 
 
 
-Fixation de la hotte ou du groupe filtrant, jusqu’à 90 cm 129 € (8)Pour les produits volumineux(3) TV
+Livraison depuis un magasin Darty d'un modèle neuf ou d'exposition 39 € Gratuit
 
-Montage du meuble TV 69 €
+Livraison dès le lendemain (5), sur un créneau de 5 h 39 € Gratuit
 
-Configuration de la Smart TV 69 €
+Livraison dès le jour même (6), sur un créneau de 2 h 49 € GratuitCas particuliers
 
-Fixation murale et configuration de la Smart TV 169 € (8)Pour les vélos à assistance électrique
+Seconde présentation en cas d'absence lors de la première livraison 29 €
 
-Montage et mise en service 59 €
+Nouvelle intervention pour mise en service, à la demande du client 29 €
+
+Livraison en Zones Éloignées 69 € 30 €
+
+Enlèvement à domicile de l’appareil dans le cadre des 15 jours pour changer d’avis,sans nouvelle commande 69 €Prestations d’installation sur mesure réaliséeslors de la livraison (7)Pour les produits volumineux (4) Gros Electroménager encastrables
+
+Encastrement et fixation du micro-ondes dans le caisson 89 € (8) À partir de 62 €
+
+Encastrement et fixation de la porte décorative du lave-vaisselle 89 € (8) À partir de 62 €
+
+Encastrement et fixation de la porte décorative du réfrigérateur, congélateur,lave-linge ou sèche-linge 129 € (8) À partir de 89 €
 
 
 
-(1) Pour toute commande passée en magasin ou sur darty.com avant 17 h 30, livraison possible en 2 h chrono. Le service de livraison est disponible pour les agglomérations deAix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes, Nice, Reims, Rennes, Rouen,Strasbourg, Toulon, Toulouse, Tours. (2) Service de livraison disponible dans les Zones de Confiance détaillées en annexe du Contrat de Confiance. Dans le cas où le réseau électriqueet de plomberie n’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en serviceou la réalisation des prestations Darty. Les appareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection etles vélos à assistance électrique sont livrés mais ne sont ni installés, ni mis en service. (3) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé auContrat de Confiance. (4) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon,Grenoble, Ile-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nimes, Orléans, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours,Valence, Valenciennes. (5) Pour toute commande passée en magasin ou sur darty.com avant 15 h, livraison possible le soir même pour les agglomérations de Paris et Lyon. (6) LesZones Éloignées sont détaillées en annexe. (7) Les prestations d’installation sur mesure sont garanties 3 mois pièces, main-d’œuvre et déplacement. (8) Le prix indiqué intègre uneTVA à 10 % qui s’applique dans le cas de travaux réalisés dans un logement de plus de 2 ans.
+Encastrement de la plaque de cuisson avec découpe et ajustement du plan de travail 129 € (8) À partir de 89 €
+
+Fixation de la hotte ou du groupe filtrant, jusqu’à 90 cm 129 € (8) À partir de 89 €Pour les produits volumineux(4) TV
+
+Montage du meuble TV 69 € 48 €
+
+Configuration de la Smart TV 69 € 48 €
+
+Fixation murale et configuration de la Smart TV 169 € (8) À partir de 118 €Pour les vélos à assistance électrique
+
+Montage et mise en service 59 € 39 €
+
+
+
+(1) Contrat de maintenance par abonnement payant avec engagement de 12 mois comprenant l’entretien et la réparation de vos appareils ayant fait l’objet d’un contrôle par Darty (quelque soit leur nombre), notamment Gros électroménagers, Petits électroménagers et Multimédia - périmètre des produits éligibles selon la formule choisie -, dont le prix d’achat étaitd’un montant minimum de 50 € TTC, achetés chez Darty ou auprès d’autres vendeurs. Pour les produits non achetés auprès de Darty ou Fnac, facturation d’un montant forfaitaire enplus de l’abonnement lors de la première réparation. Les accessoires des produits éligibles ne sont pas compris dans l’abonnement. La formule « Essentiel » à 9,99 €/mois comprend lesseuls produits Gros électroménagers. Voir conditions détaillées des services, produits éligibles et tarifs des formules dans les Conditions Générales disponibles auprès des vendeursen magasin ou sur darty.com (2) Pour toute commande passée en magasin ou sur darty.com avant 17 h 30, livraison possible en 2 h chrono. Le service de livraison est disponiblepour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier, Nancy, Nantes,Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (3) Service de livraison disponible dans les Zones de Confiance. Dans le cas où le réseau électrique et de plomberien’existerait pas ou ne serait pas conforme aux normes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation desprestations Darty. Les appareils encastrables, les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistanceélectrique sont livrés mais ne sont ni installés, ni mis en service. (4) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance.(5) Livraison possible dès le lendemain pour les agglomérations de Annecy, Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Ile-de-France,La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nimes, Orléans, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes.(6) Pour toute commande passée en magasin ou sur darty.com avant 15 h, livraison possible le soir même pour l'agglomération de Paris. (7) Les prestations d’installation sur mesuresont garanties 3 mois pièces, main-d’œuvre et déplacement. (8) Le prix indiqué intègre une TVA à 10 % qui s’applique dans le cas de travaux réalisés dans un logement de plus de 2 ans.
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 13
+\- 7 mars 2023 - 13
 
 Famillesde produitsGrosélectroménagerPetitélectroménagerAspirateurset micro-ondesMicro-informatique
 
@@ -574,7 +586,7 @@ suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un 
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 14
+\- 7 mars 2023 - 14
 
 
 
@@ -616,7 +628,9 @@ Image Nomade:
 
 Appareil photo, caméscope, lecteurDVD portable, mini-téléviseur LCD
 
-Hi-Fi: Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
+Hi-Fi:
+
+ Chaîne Hi-Fi®, platine CD,vinyle ou cassette, ampli,enceintes, ampli et enceintes homecinéma, barre de son, musiquesans fil, multiroom.
 
 Navigation et Téléphonie:
 
@@ -724,7 +738,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 15
+\- 7 mars 2023 - 15
 
 
 
@@ -766,7 +780,7 @@ Garantie
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 16
+\- 7 mars 2023 - 16
 
 
 
@@ -824,7 +838,7 @@ pièces et main d’œuvreet déplacement
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 17
+\- 7 mars 2023 - 17
 
 
 
@@ -892,7 +906,7 @@ remboursementà neuf
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 18
+\- 7 mars 2023 - 18
 
 
 
@@ -946,7 +960,7 @@ remboursementà neuf
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 19
+\- 7 mars 2023 - 19
 
 
 
@@ -998,7 +1012,7 @@ pièces et main d’œuvreet déplacement
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 20
+\- 7 mars 2023 - 20
 
 
 
@@ -1030,7 +1044,7 @@ Le consommateur a également droit à une réduction du prix ou à larésolution
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 21
+\- 7 mars 2023 - 21
 
 Lorsque le contrat prévoit que le contenu numérique ou le service numériqueest fourni de manière continue :
 
@@ -1066,7 +1080,7 @@ Conformément à la réglementation en vigueur, Darty est tenue de procéderà l
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 22
+\- 7 mars 2023 - 22
 
 Droit de rétractation
 
@@ -1080,4 +1094,4 @@ En application de l’article L.541-10-13 du code de l’environnement, DARTY s�
 
 Tous nos magasins Tous nos services
 
-\- 7 février 2023 - 23
+\- 7 mars 2023 - 23
