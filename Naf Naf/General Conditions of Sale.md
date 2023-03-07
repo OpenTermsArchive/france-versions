@@ -131,7 +131,7 @@ Les tarifs de livraisons ainsi que le coût des retours sont indiqués dans le t
 | CHRONOPOST | Luxembourg | 6€  | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
 
   
-\* hors boutiques NAF NAF Outlet  
+\* hors boutiques NAF NAF Outlet, Exclu Web et capsule Héritage  
   
 Le Client peut à tout moment suivre sa commande à l’aide du numéro de commande qui lui est communiqué dans l’email enregistrant formellement sa commande, dans son espace « Mon Compte » sur le site NafNaf.com sauf lorsqu’il s’agit d’une livraison en boutique.  
 Cet espace permet un suivi précis pour chaque mode de transport prévu, de la commande et de son statut, relatif notamment à l’expédition ou à sa livraison.  
@@ -346,7 +346,7 @@ L’adhésion au Programme NAF GOLD donne le droit à l’Adhérent à des avant
 
  
 
-_\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion ou en soldes, opérations NAF DAYS, et non utilisable sur les produits suivants : bijoux, collants, parfums, carte cadeau et chèques-cadeau. Abonnement non-utilisable dans les boutiques OUTLET._
+_\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion ou en soldes, opérations NAF DAYS, et non utilisable sur les produits suivants : bijoux, collants, parfums, carte cadeau et chèques-cadeau. Abonnement non-utilisable dans les boutiques OUTLET et sur la capsule Héritage._
 
  
 
@@ -356,7 +356,7 @@ _\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion 
 
  _ATTENTION :_ _offre valable uniquement_ _dans les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10 .2, à l’exception des boutiques NAF NAF OUTLET._
 
-* Livraison gratuite en Point Relais (Relais Colis) uniquement, pour toute Commande réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
+* Livraison gratuite en Point Relais (Relais Colis) uniquement, pour toute Commande comprenant des articles éligibles à l'offre NAF GOLD, réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
 
  
 
@@ -435,7 +435,7 @@ Au moment du paiement, le client se verra automatiquement appliquer les réducti
    
 **_10.7.2 - Livraison_** **_NAF GOLD_**    
   
-Livraison gratuite via Relais Colis pour toute commande GOLD expédiée en France métropolitaine  (Corse incluse) et Monaco.  
+Livraison gratuite via Relais Colis pour toute commande GOLD comprenant des références éligibles à l'offre NAF GOLD, expédiée en France métropolitaine  (Corse incluse) et Monaco.  
    
 Mode de transport éligible : Relais Colis  
    
@@ -487,7 +487,7 @@ Le calcul du montant de l’avoir est réalisé comme énoncé à l’article 10
    
 **_10.9 - Réserves, fraudes et spam_**   
   
-Toute fraude, ou tentative de fraude fera l’objet de poursuites conformément aux dispositions des articles 313-1 et suivants du Code pénal.  
+Toute fraude ou tentative de fraude fera l’objet de poursuites conformément aux dispositions des articles 313-1 et suivants du Code pénal.  
  
 
 ARTICLE 11. DROITS DE PROPRIÉTÉ INTELLECTUELLE
@@ -576,4 +576,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 06/10/22
+Dernière mise à jour des CGV : le 07/03/23
