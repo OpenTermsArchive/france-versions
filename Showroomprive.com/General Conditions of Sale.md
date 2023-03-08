@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 23/02/2023
+Date : 08/03/2023
 
 Bienvenue sur Showroomprive.com
 
@@ -160,11 +160,13 @@ Oney Bank se réserve le droit d'accepter ou de refuser votre demande de finance
 
 \- un apport obligatoire, débité le jour de la confirmation de l'expédition de votre commande ;
 
-\- deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,56%du montant total de la commande pour un 3 fois et à 2,34% pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
+\- deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,52%du montant total de la commande pour un 3 fois et à 2,27% pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
 
-_Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 4000€ :_ Exemple : Pour un achat de 150€, apport de 52,34€ puis 2 mensualités de 50€.​ Crédit d'une durée de 2 mois au TAEG fixe de 20,89%. Coût du financement : 2,34€ dans la limite de 25€ maximum.​
+_Le paiement en 3 fois à partir de 40€ d'achat et jusqu'à 4000€ :_ Exemple : Pour un achat de 150€, apport de 52,28€ puis 2 mensualités de 50€.​ Crédit d'une durée de 2 mois au TAEG fixe de 20,29%. Coût du financement : 2,284€ dans la limite de 25€ maximum.​
 
-_• Le paiement en 4 fois à partir de 40€ d'achat et jusqu'à 4000€_ : Exemple : Pour un achat de 400€, apport de 109,36€ puis 3 mensualités de 100€.​ Crédit sur 3 mois au TAEG fixe de 21,01%. Coût du financement : 9,36€ dans la limite de 50€ maximum.​
+_• Le paiement en 4 fois à partir de 40€ d'achat et jusqu'à 4000€_ : Exemple : Pour un achat de 400€, apport de 109,08€ puis 3 mensualités de 100€.​ Crédit sur 3 mois au TAEG fixe de 20,31%. Coût du financement : 9,08€ dans la limite de 50€ maximum.​
+
+Conditions au 01/03/2023 susceptibles de révisions. Pour plus d'informations rdv sur oney.fr
 
 **Conditions particulières pour les offres promotionnelles ponctuelles** :
 
@@ -173,6 +175,8 @@ Pour le paiement en 3 fois sans frais : le coût du financement est de 0% du mon
 Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant total de la commande. Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d'une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€
 
 • Le paiement différé de 30 jours par carte bancaire vous permet de régler la commande effectuée sur notre site marchand de la façon suivante : Remboursement par carte bancaire en une seule mensualité à J+30, à laquelle sont ajoutés des frais correspondants à 1,56% du montant total de la commande. Pour un achat de 300€, apport de 0€, puis une seule mensualité de 304,68€ prélevée à 30 jours. Crédit sur un mois au TAEG fixe de 20,41%. Coût de financement : 4,68€.
+
+Conditions au 01/03/2023 susceptibles de révisions. Pour plus d'informations rdv sur oney.fr
 
 _Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 -_ [www.oney.fr](http://www.oney.fr/)
 
@@ -462,7 +466,7 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- **Article 10 - Quelles garanties pour vos produits ?**
 
-Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
+Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions
 
 10.1 Les garanties légales
 
