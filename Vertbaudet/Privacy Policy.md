@@ -170,6 +170,8 @@ Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, 
 
 ### 6.2. Les cookies tiers
 
+Pour modifier votre consentement, [cliquez-ici](#)
+
 Lorsque vous accédez à notre site, un ou plusieurs cookies sont susceptibles d’être placés dans votre ordinateur via les pages de notre site ou via des contenus diffusés dans nos espaces publicitaires soit par l'annonceur à l'origine du contenu publicitaire concerné, soit par une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
 
 * De comptabiliser le nombre d'affichages des contenus publicitaires diffusés via nos espaces publicitaires, d'identifier les publicités ainsi affichées, le nombre d'utilisateurs ayant cliqué sur chaque publicité, leur permettant de calculer les sommes dues de ce fait et d'établir des statistiques (cookies analytiques);
