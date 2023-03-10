@@ -44,7 +44,7 @@
 
 **« Vol »** se réfère à un vol depuis un point de départ jusqu’à un point d’arrivée sans escale programmée pendant le vol.
 
-**« Réservation »** se réfère à la réservation fait par le Passager par laquelle il acquiert un ou plusieurs Billets correspondant à des vols exploités par Volotea et des services auxiliaires, à laquelle attribues un certain nombre de confirmation alphanumérique une fois confirmé par Volotea selon ces Conditions Générales de Transport.
+**« Réservation »** se réfère à la réservation Faite par le Passager par laquelle il acquiert un ou plusieurs Billets correspondant à des vols exploités par Volotea et des services auxiliaires, à laquelle sont attribués un certain nombre de confirmations alphanumérique une fois confirmé par Volotea selon ces Conditions Générales de Transport.
 
 * * *
 
@@ -117,7 +117,7 @@ Volotea ne permettra pas au Passager d’embarquer si les documents présentés 
 >     
 >     Les Passagers désirant modifier leur Billet, si le tarif choisi permet d’effectuer ses modifications, devront prendre en considération que
 >     
->     1. En cas de changement de Vol vers/depuis une destination non bonifiée contre un autre faisant l’objet d’une réduction, le statut de résident sera pris en compte pour le nouveau tronçon bonifié, et;
+>     1. En cas de changement de Vol vers/depuis une destination non bonifiée contre un autre faisant l’objet d’une réduction, le statut de résident sera pris en compte pour le nouveau tronçon bonifié.
 >         
 >     2. En cas de modification d’un Vol bonifié contre un trajet qui ne l’est pas, l’intégralité du montant du nouveau Vol devra être payée, sans réduction. Lesdites modifications ne pourront être effectuées qu’à travers le Service clientèle et peuvent entraîner des frais d’administration supplémentaires.
 >         
@@ -173,7 +173,7 @@ Le prix du Billet, les impôts, droits, taxes et autres frais supplémentaires s
 
 ### 5\. Réservation et places
 
-#### 5.1 CONDITIONS DE réservation
+#### 5.1 Réservation
 
 La réservation d’une place sur un Vol est confirmée lorsque le Transporteur émet le Billet, sans aucun besoin de confirmer ultérieurement la place.
 
@@ -181,11 +181,11 @@ La réservation d’une place sur un Vol est confirmée lorsque le Transporteur 
 
 Les tarifs de Volotea excluent par défaut la possibilité de modifier la réservation. Sans préjudice de ce qui précède, les Billets achetés sur le site web de Volotea ou auprès du Service Clientèle seront susceptibles de modification, sous réserve de disponibilité, pour ce qui est de la date, la route et l’heure du vol, ainsi que du nom de passager, contre paiement d’une certaine somme par Passager et par trajet, plus, le cas échéant, la somme résultant de l’éventuelle différence entre le tarif du Billet original et le tarif du nouveau Billet (avec ajout quoi qu’il en soit des impôts et taxes correspondants).
 
-Les modifications de la réservation à travers le site web ou à travers le Service Clientèle (différent del Plan Flex) devront être effectuées au moins sept (7) jours d’avance par rapport au départ du Vol, sauf que vous aviez contractez Plan Flex, dont le délai de préavis serait de moins quatre (4) heures d'avance par rapport au départ du Vol. Les Billets délivrés par d’autres canaux de vente peuvent être soumis à des conditions différentes pour ce qui est de leur éventuelle modification.
+Les modifications de la réservation à travers du site web ou à travers du Service Clientèle (hors Plan Flex) devront être effectuées au moins sept (7) jours à l’avance par rapport au départ du Vol, sauf si vous avez souscrit au Plan Flex, dont le délai de préavis est de moins de quatre (4) à l’avance par rapport au départ du Vol. Les Billets délivrés par d’autres canaux de vente peuvent être soumis à des conditions différentes pour ce qui est de leur éventuelle modification.
 
-#### 5.3 CONFIRMATION DE LA RÉSERVATION ET Paiement
+#### 5.3 Paiement
 
-Les Tarifs sont sujets à changements jusqu’au moment de la confirmation de la Réservation. Une fois celle-ci confirmée, aucune annulation n’est possible, sauf que vous aviez contractez Plan Flex. Le prix du Billet devra être intégralement versé au moment de la confirmation de la Réservation. Au cas où ce paiement ne serait pas vérifié dans un délai de 24 heures, il sera entendu que le contrat de transport n’a pas été passé, que la réservation est perdue et que par conséquent les présentes Conditions ne sont pas applicables.
+Les Tarifs sont sujets à changements jusqu’au moment de la confirmation de la Réservation. Une fois celle-ci confirmée, aucune annulation n’est possible, sauf si vous avez souscrit au Plan Flex. Le prix du Billet devra être intégralement versé au moment de la confirmation de la Réservation. Au cas où ce paiement ne serait pas vérifié dans un délai de 24 heures, il sera entendu que le contrat de transport n’a pas été passé, que la réservation est perdue et que par conséquent les présentes Conditions ne sont pas applicables.
 
 #### 5.4 Changement de siège
 
@@ -217,19 +217,19 @@ Cependant, si le Passager a souscrit un équipement sportif, un bagage facturé 
 
 **5.5.2 Annulation de la Réservation avec le Plan Flex**
 
-Qui a contracté le Plan Flex pourra annuler un vol sans avoir besoin d'alléguer une quelconque cause. L'annulation devra toujours être effectuée au plus tard quatre (4) heures avant l'heure programmée de départ du premier des trajets. Si l'un des trajets compris dans la Réservation a été réalisé, il ne sera pas possible d'annuler l'autre.
+Toute personne ayant souscrit au Plan Flex pourra annuler un vol sans avoir besoin d'alléguer une quelconque cause. L'annulation devra toujours être effectuée au plus tard quatre (4) heures avant l'heure programmée de départ du premier des trajets. Si l'un des trajets compris dans la Réservation a été réalisé, il ne sera pas possible d'annuler l'autre.
 
 Si le Passager exerce ce droit, le prix de la Réservation sera réintégré sur le compte de crédits associé au profil d'utilisateur de la Réservation, conformément aux dispositions du paragraphe Conditions du Service d’Echange de Crédits. Le Passager récupérera ainsi un montant de Crédits égal à la somme totale de la réservation annulée, déduction faite du prix du service Plan Flex souscrit et, le cas échéant, du montant correspondant aux frais de paiement par carte bancaire. Le prix de la Réservation annulée ne sera en aucun cas remboursé en argent.
 
-Le montant de la Réservation annulée, réintégré sur le compte de Crédits, pourra être échangé par le Passager lui-même durant un délai maximal (1) d'un an à partir de l'annulation de la Réservation en question, après cette date limite les Crédits seront expiré. Ce Crédit pourra être échangé contre des billets sur des vols réalisés par Volotea. Les Crédits ne sont en aucun cas échangeables contre de l'argent.
+Le montant de la Réservation annulée, réintégré sur le compte de Crédits, pourra être échangé par le Passager lui-même dans un délai maximum d’un (1) an à partir de l'annulation de la Réservation en question, après cette date limite les Crédits seront expiré. Ce Crédit pourra être échangé contre des billets sur des vols réalisés par Volotea. Les Crédits ne sont en aucun cas échangeables contre de l'argent.
 
 **5.5.3.- CONDITIONS DU SERVICE D'ÉCHANGE DE CRÉDITS**
 
 **5.5.3.1 Définitions**
 
-**« Service d'échange de Crédits »**: Le service d'échange de crédits dérivant du Plan Flex comprend (i) toute l'information opérationnelle sur le crédit qui peut être obtenu en ayant souscrit le Plan Flex durant la procédure de réservation, (ii) les services qui peuvent être obtenus avec l'échange du crédit, et (iii) la quantité nécessaire de crédits pour chaque opération d'échange ou de rachat.
+**« Service d'échange de Crédits »**: Le service d'échange de crédits dérivant du Plan Flex comprend (i) toute l'information opérationnelle sur le crédit qui peut être obtenu en ayant souscrit au Plan Flex durant la procédure de réservation, (ii) les services qui peuvent être obtenus avec l'échange du crédit, et (iii) la quantité nécessaire de crédits pour chaque opération d'échange ou de rachat.
 
-**«** **Crédits »** : ce sont ceux que reçoivent les utilisateurs qui sont identifiés comme tels en raison, exclusivement, du fait que qu'ils ont souscrit le Plan Flex durant la procédure de réservation et qui ont décidé, parmi les services que ce dernier offre, d'annuler la réservation, tout cela conformément aux conditions du Plan Flex.
+**«** **Crédits »** : ce sont ceux que reçoivent les utilisateurs qui sont identifiés comme tels en raison, exclusivement, du fait qu’ils aient souscrit au Plan Flex durant la procédure de réservation et qui ont décidé, parmi les services que ce dernier offre, d'annuler la réservation, tout cela conformément aux conditions du Plan Flex.
 
 **5.5.3.2. Participation au profil d'utilisateur**
 
@@ -320,7 +320,7 @@ Conformément aux dispositions du Programme National de Sécurité Aérienne pou
 
 #### 6.6 Poids du bagage par Passager
 
-Le bagage que le Passager souhaite enregistrer et pour lequel il devra payer un supplément ne pourra excéder 20 kg.
+Le bagage que le Passager souhaite enregistrer et pour lequel il devra payer un supplément ne pourra excéder 25 kg.
 
 #### 6.7 Excédent de bagages
 
@@ -461,7 +461,7 @@ Si le Passager achète deux ou plusieurs vols avec des horaires consécutifs, il
 
 #### 7.1 Délai maximum d’enregistrement
 
-Le Passager doit arriver à l’aéroport suffisamment à l’avance par rapport à l’heure de départ du vol, afin de se conformer à toutes les obligations et formalités et, le cas échéant, à l’enregistrement de ses bagages. Les comptoirs d’enregistrement ouvriront deux heures avant et fermeront 35 minutes avant le départ du vol prévu (même en cas de retard du vol). Dans tous les aéroports italians _et grecs_, le comptoir d’enregistrement ferme 40 minutes avant le départ du vol. À l’aéroport de Palma de Majorque, le comptoir d’enregistrement ferme 45 minutes avant le départ du vol. L'heure limite d'**enregistrement pour les vols internationaux (destination Algérie et Maroc) est fixée à 60 minutes avant** l'heure du départ.
+Le Passager doit arriver à l’aéroport suffisamment à l’avance par rapport à l’heure de départ du vol, afin de se conformer à toutes les obligations et formalités et, le cas échéant, à l’enregistrement de ses bagages. Les comptoirs d’enregistrement ouvriront deux heures avant et fermeront 35 minutes avant le départ du vol prévu (même en cas de retard du vol). Dans tous les aéroports Italiens _et grecs_, le comptoir d’enregistrement ferme 40 minutes avant le départ du vol. À l’aéroport de Palma de Majorque, le comptoir d’enregistrement ferme 45 minutes avant le départ du vol. L'heure limite d'**enregistrement pour les vols internationaux (destination Algérie et Maroc) est fixée à 60 minutes avant** l'heure du départ.
 
 Au-delà de ce délai, aucun bagage ne sera accepté ni aucune carte d’embarquement ne sera délivrée. Au-delà du délai maximum d’enregistrement, le Transporteur pourra céder les sièges des Passagers ayant une réservation et sans carte d’embarquement préalable sans avoir été identifié au comptoir d’enregistrement aux Passagers en attente de confirmation présents sur la liste d’attente.
 
@@ -768,7 +768,7 @@ Quantité limitée à une utilisation personnelle
 
 En cas d’accident, la responsabilité de Volotea sera la suivante :
 
-> 1. La responsabilité se limitera aux dommages démontrés. Volotea ne répondra des dommages indirects ou insuffisamment certifiés, ainsi que toute forme de dommage non compensatoire.
+> 1. La responsabilité se limitera aux dommages démontrés. Volotea ne répondra pas des dommages indirects ou insuffisamment certifiés, ainsi que toute forme de dommage non compensatoire.
 >     
 > 2. Volotea ne sera pas responsable en cas de dommage émanant (i) de l’exécution de la règlementation ou (ii) l’exécution par le Passager de la Réglementation et/ou de ces Conditions générales.
 >     
@@ -853,7 +853,7 @@ L’utilisateur peut s’inscrire gratuitement sur la liste d’opposition au d�
 
 * * *
 
-### 20\. CHOIX DU DROIT RÉGISSANT LE CONTRAT ET DE LA JURIDICTION COMPETENTE
+### 20\. Choix du droit régissant le contrat et de la juridiction competente
 
 Les présentes Conditions de Transport et votre contrat de transport avec Volotea seront régis par le droit espagnol et interprétés selon ce droit, sous réserve de l’application impérative de toute autre norme ou traité prévalent sur les présentes Conditions de Transport.
 
@@ -1045,7 +1045,7 @@ Ces maximums peuvent être augmentés en fonction des circonstances, et toujours
 
 En cas de limitations opérationnelles, par exemple, une porte de cabine inopérante, le nombre maximum de personnes à mobilité réduite admises à bord sera réduit de 50% de la limitation générique pour chaque flotte.
 
-Les sièges attribués aux personnes à mobilité réduite sont de préférence dans la fenêtre.
+Les sièges attribués aux personnes à mobilité réduite sont de préférence à côté du hublot.
 
 Les dimensions maximales admissibles des équipements à mobilité réduite dans les compartiments cargo des aéronefs de notre flotte seront les suivantes :
 
