@@ -38,7 +38,7 @@ l'utilisation de ce site Internet seront celles qui s'appliqueront.
 
 Pour toute question concernant les Conditions ou les Politiques de Protection des Données, vous pouvez
 
-nous contacter au moyen du formulaire de contact.
+nous contacter en utilisant les différents moyens listés dans la section besoin d’aide de ce site internet.
 
 
 
@@ -266,7 +266,7 @@ La carte cadeau virtuelle sera considérée comme ayant été livrée conformém
 
 dans les conditions d'utilisation de la carte cadeau et, dans tous les cas, à la date d'expédition de cette
 
-carte à l'adresse électronique que vous nous avez indiquée.
+carte à l'adresse électronique que vous nous aurez indiquée.
 
 
 
@@ -340,7 +340,7 @@ Vous deviendrez propriétaire des produits lorsque nous aurons reçu le paiement
 
 sommes dues liées à ces produits, y compris les frais de livraison, ou au moment de la livraison (comme
 
-l'indique la clause 9 ci-dessus), si cette dernière devait avoir lieu ultérieurement.
+l'indique la clause 9 ci-dessus), si cette dernière devait avoir lieu postérieurement au paiement.
 
 
 
@@ -374,7 +374,7 @@ auriez raisonnablement pu reconnaître que le prix était incorrect.
 
 Les prix indiqués sur le site Internet incluent la TVA, mais excluent les frais de livraison, lesquels sont
 
-ajoutés au prix total comme cela est indiqué dans notre Guide d'achat - Livraison.
+ajoutés au prix total comme cela est indiqué sur notre site internet, rubrique Besoin d’aide Envoi.
 
 
 
@@ -394,11 +394,11 @@ ajoutés à votre panier. L'étape suivante consistera alors à traiter la comma
 
 informations requises à tout moment. En outre, tout au long du processus d'achat, avant le paiement,
 
-vous pourrez modifier les détails de votre commande. Le Guide d'achat contient une description détaillée
+vous pourrez modifier les détails de votre commande. Notre site internet contient une description
 
-du processus d'achat. De plus, si vous êtes un utilisateur inscrit, un historique de toutes les commandes
+détaillée du processus d'achat. De plus, si vous êtes un utilisateur inscrit, un historique de toutes les
 
-que vous avez passées est disponible dans la section « Mon compte ».
+commandes que vous avez passées est disponible dans la rubrique besoin d’aide « Mon compte ».
 
 
 
@@ -410,7 +410,7 @@ mobile BERSHKA de votre téléphone. Vous pouvez également payer l'intégralit�
 
 achats à l'aide d'une carte cadeau ou d'un bon d’achat de Bershka, délivré par Bershka France S.A.R.L. Les
 
-cartes cadeau ne peuvent pas être achetées au moyen d'une autre carte cadeau. Par ailleurs, vous pouvez
+cartes cadeaux ne peuvent pas être achetées au moyen d'une autre carte cadeau. Par ailleurs, vous pouvez
 
 payer votre commande lors de la livraison en magasin, en utilisant tous moyens de paiement acceptés
 
@@ -436,7 +436,7 @@ disponibles dans certains magasins Bershka en France, vous pouvez également, da
 
 effectuer votre paiement par tous moyens de paiement acceptés dans ces magasins, à l’exception des
 
-cartes cadeau.
+cartes cadeaux.
 
 Pour limiter les risques d'accès non autorisés, les informations de votre carte de crédit seront cryptées.
 
@@ -476,75 +476,13 @@ en mesure de formaliser quelque Contrat que ce soit avec vous.
 
 
 
-Une facture sous format électronique sera mise à votre disposition sur notre site Internet dans la rubrique
+Une facture sous format électronique sera mise à votre disposition sur notre site Internet dans la dans la
 
-« Mon compte », ce que vous acceptez.
-
-
-
-13. PAIEMENT EXPRESS
+rubrique besoin d’aide « Mon compte »ce que vous acceptez.
 
 
 
-L'option Paiement express (ci-après « Paiement express ») vous permet de faire vos achats plus facilement
-
-sur ce site Internet. Elle vous dispense en effet de devoir saisir les informations de livraison, facturation
-
-et paiement à chaque achat. L’option Paiement express est disponible dans la section « Voir panier ».
-
-
-
-Pour utiliser l’option Paiement express, vous devrez enregistrer les informations de votre carte de crédit.
-
-Vous pourrez le faire lorsque au moment de payer avec l'un des types de cartes acceptés par ce site
-
-Internet en cliquant sur l'option « Enregistrer les informations de ma carte ». Les informations suivantes
-
-seront alors enregistrées : numéro et date d'expiration de la carte.
-
-
-
-Pour enregistrer les informations de votre carte et utiliser l’option Paiement express, vous devrez accepter
-
-la Politique de confidentialité et les présentes Conditions d’utilisation.
-
-
-
-En acceptant d’utiliser l’option Paiement express, vous acceptez que les achats payés via cette fonction
-
-soient débités sur la carte enregistrée pour cette option. L'utilisation de la carte sera dans tous les cas
-
-régie par le contrat qui vous lie avec l’établissement bancaire émetteur de la carte
-
-
-
-Vous pouvez enregistrer dans l’option Paiement express les informations d'autant de cartes que vous le
-
-souhaitez ; pour ce faire, il suffit de réaliser au moins un paiement avec l’une d'elles. Si vous souhaitez
-
-enregistrer les informations de plusieurs cartes, la carte dont les informations ont été enregistrées le plus
-
-récemment sera considérée comme votre « Carte favorite » et débitée par défaut lors des achats via
-
-l’option Paiement express. Vous pouvez à tout moment modifier votre Carte favorite dans la section Mon
-
-compte de ce site Internet.
-
-
-
-Pour utiliser l’option Paiement express, il suffit de cliquer sur le bouton « Paiement express » qui se trouve
-
-dans le panier. Un écran s'affichera immédiatement avec les informations d'expédition, de facturation et
-
-de paiement de vos achats. Les informations disponibles sur cet écran ne peuvent être modifiées. Si
-
-certaines d'entre-elles sont incorrectes, ne poursuivez pas le processus d'achat. Pour faire des achats en
-
-utilisant une carte différente, n'utilisez pas le service de Paiement express.
-
-
-
-14. ACHETER EN TANT QU'INVITÉ
+13. ACHETER EN TANT QU'INVITÉ
 
 
 
@@ -560,11 +498,11 @@ qu'utilisateur ou de continuer en tant qu'utilisateur non inscrit.
 
 Une facture sous format électronique sera disponible en cliquant sur le document PDF figurant dans le
 
-courriel de confirmation de votre commande.
+courriel de confirmation d’envoi de votre commande.
 
 
 
-15. TAXE SUR LA VALEUR AJOUTÉE
+14.TAXE SUR LA VALEUR AJOUTÉE
 
 
 
@@ -574,11 +512,11 @@ en vigueur au jour de la vente.
 
 
 
-16. POLITIQUE D'ÉCHANGE ET DE RETOURS
+15. POLITIQUE D'ÉCHANGE ET DE RETOURS
 
 
 
-16.1 Droit légal de rétractation
+15.1 Droit légal de rétractation
 
 
 
@@ -589,8 +527,6 @@ Droit de rétractation
 Si vous contractez en tant que consommateur, vous avez le droit de résilier le Contrat, pendant 14 jours,
 
 sans donner aucune raison.
-
-
 
 La période de rétractation expirera passé le délai de 14 jours à compter de la date à laquelle vous
 
@@ -613,6 +549,8 @@ votre opérateur), ou encore par écrit, via notre formulaire de contact, de vot
 Contrat par déclaration non équivoque (par exemple, une lettre envoyée par courrier ou par e-mail). Vous
 
 pouvez utiliser le formulaire de rétractation type joint en annexe, mais cela n'est pas obligatoire.
+
+
 
 Afin de respecter le délai de rétractation, il vous suffit de nous informer de votre décision d’exercer votre
 
@@ -654,11 +592,11 @@ en France ou par l’intermédiaire d’un transporteur ou encore en les déposa
 
 en France en utilisant l’étiquette d'affranchissement prépayée que nous vous adressons sur demande de
 
-votre part, selon les modalités précisées ci-dessous, sans délai, et dans tous les cas dans un délai maximum
+votre part, selon les modalités précisées aux présentes, sans délai, et dans tous les cas dans un délai
 
-de 14 jours suivant la date à laquelle vous nous communiquerez votre décision de résilier le Contrat. Le
+maximum de 14 jours suivant la date à laquelle vous nous communiquerez votre décision de résilier le
 
-délai est respecté si vous retournez les articles avant l'expiration de la période de 14 jours.
+Contrat. Le délai est respecté si vous retournez les articles avant l'expiration de la période de 14 jours.
 
 
 
@@ -668,7 +606,7 @@ point relais autorisé en France ou dans un magasin BERKSHA situé en France. Ce
 
 retournez les articles par l’intermédiaire d’un transporteur, les frais afférents au renvoi des articles seront
 
-à votre charge. Vous supporterez la somme forfaitaire figurant dans le Guide d’achat (voir la section
+à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la section
 
 « Commandes et Retours ».
 
@@ -676,7 +614,7 @@ retournez les articles par l’intermédiaire d’un transporteur, les frais aff
 
 Dans le cas d’un retour effectué en magasin, vous devrez également présenter l’E-ticket joint à la
 
-confirmation d’envoi qui est également disponible sur vote compte sur notre site Internet ainsi que sur
+confirmation d’envoi qui est également disponible sur votre compte sur notre site Internet ainsi que sur
 
 notre application mobile. Vous pourrez présenter cet E-ticket soit directement sur votre téléphone
 
@@ -692,17 +630,19 @@ fonctionnement de ces articles.
 
 
 
-16.2 Droit contractuel de rétraction
+15.2 Droit contractuel de rétraction
 
 
 
-En sus du droit de rétraction que la loi reconnaît aux consommateurs, mentionné dans la clause 16.1 ci-
+En sus du droit de rétraction que la loi reconnaît aux consommateurs, mentionné dans la clause 15.1 ci-
 
 dessus, nous vous accordons une période de 30 jours à compter de la date de Confirmation d’envoi pour
 
-retourner les produits (sauf ceux qui sont mentionnés dans la clause 16.3 ci-dessous, pour lesquels le droit
+retourner les produits (sauf ceux qui sont mentionnés dans la clause 15.3 ci-dessous, pour lesquels le droit
 
 de rétractation est exclu).
+
+
 
 En outre, le retour de la carte cadeau est régi par les dispositions prévues dans les conditions d'utilisation
 
@@ -724,7 +664,7 @@ magasin BERKSHA situé en France ou dans un point relais autorisé en France. Ce
 
 les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles seront à votre
 
-charge. Vous supporterez la somme forfaitaire figurant dans le Guide d’achat (voir la section
+charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la section
 
 « Commandes et Retours »).
 
@@ -740,7 +680,7 @@ partir de votre téléphone mobile, ou en apportant en magasin la version imprim
 
 
 
-Vous pouvez exercer votre droit de rétraction comme le prévoit la clause 16.1 ci-dessus ; cependant, si
+Vous pouvez exercer votre droit de rétraction comme le prévoit la clause 15.1 ci-dessus ; cependant, si
 
 vous nous informez de votre intention de résilier le Contrat après la durée légale de rétraction, vous
 
@@ -748,7 +688,7 @@ devrez nous retourner les articles, dans un délai de 30 jours à compter de la 
 
 
 
-16.3 Dispositions communes
+15.3 Dispositions communes
 
 
 
@@ -763,8 +703,6 @@ ii. CD/DVD de musique sans leur emballage d'origine ;
 iii. Les biens que vous avez descellés après la livraison et qui ne peuvent être renvoyés pour des
 
 raisons d’hygiène ou de protection de la santé.
-
-
 
 Votre droit de rétractation du Contrat s'applique exclusivement aux produits qui sont retournés dans l'état
 
@@ -842,15 +780,15 @@ vous devez nous contacter via le formulaire du site Internet pour convenir d'une
 
 produits à votre domicile. Vous devrez envoyer le produit dans l'emballage dans lequel vous l'avez reçu
 
-en suivant les instructions de la section « RETOURS » du Guide d’achat.
+en suivant les instructions de la section « RETOURS » du site internet.
 
 
 
-Les frais de retour sont plus amplement détaillés au point 16.1 en cas d’exercice de votre droit légal de
+Les frais de retour sont plus amplement détaillés au point 15.1 en cas d’exercice de votre droit légal de
 
-rétractation et au point 16.2 en cas d’exercice de votre droit contractuel de rétractation. Les frais de retour
+rétractation et au point 15.2 en cas d’exercice de votre droit contractuel de rétractation. Les frais de retour
 
-sont mentionnés dans le Guide d’achat.
+sont mentionnés dans la section « RETOURS » sur notre site internet.
 
 
 
@@ -910,79 +848,83 @@ magasin doivent toujours être effectués dans les magasins BERSHKA en France.
 
 
 
-16.4 Retours de produits défectueux
-
-
-
-Si vous considérez qu'au moment de la livraison le produit n'est pas tel qu'il est stipulé dans le Contrat,
-
-vous devez nous contacter immédiatement via notre formulaire de contact, en nous fournissant les
-
-informations détaillées du produit et la nature des défauts, ou en nous appelant au 0 800 918 880 (Appel
-
-non surtaxé, hors coût éventuel selon votre opérateur). Nous vous indiquerons la marche à suivre.
-
-
-
-Vous pouvez alors retourner le produit en vous rendant dans n'importe quel magasin BERKSHA en France,
-
-ou par retour en point relais dans l’un des points relais autorisés en France accompagné du E-ticket en
-
-version imprimée ou digitale à partir de votre téléphone. Nous examinerons attentivement le produit
-
-retourné et vous indiquerons par courriel, dans un délai raisonnable, si le produit peut être remboursé ou
-
-échangé (le cas échéant). Le remboursement ou l'échange de l'article devra avoir lieu le plus rapidement
-
-possible et dans tous les cas dans les 14 jours suivant la date à laquelle nous vous enverrons un courriel
-
-confirmant que le remboursement ou l'échange du produit a été accepté.
-
-
-
-Dans le cas d'un défaut avéré, les produits défectueux feront l'objet d'un remboursement intégral, y
-
-compris les coûts de livraison versés lors de l'envoi de l'article et les frais que vous avez engagés pour nous
-
-le retourner. Le remboursement sera toujours effectué via le même moyen de paiement que celui que
-
-vous avez utilisé pour l'achat.
-
-
-
-Ceci sans préjudice de vos droits légaux.
-
-
-
-16.5. Droit de rétractation et retour des commandes depuis un autre pays
+15.4. Droit de rétractation et retour des commandes depuis un autre pays
 
 
 
 Si vous avez commandé des produits à partir d’un pays membre de l’Union Européenne autre que la
 
-France via ce site Internet, les clauses 16.1, 16.2 et 16.3 ci-dessus s’appliquent sous réserve que le retrait
+France via ce site Internet, les clauses 15.1, 15.2 et 15.3 ci-dessus s’appliquent sous réserve que le retrait
 
-par un coursier mandaté par nos soins puisse uniquement être effectué à partir de l’adresse initiale de
+par un coursier mandaté par nos soins puisse être effectué uniquement à partir de l’adresse initiale de
 
 livraison située en France métropolitaine.
 
 
 
-Également, nous vous informons qu’en aucun cas (à l’exception de la clause 16.4 pour laquelle la présente
+Également, nous vous informons qu’en aucun cas nous ne supporterons de frais de livraison pour des
 
-clause 16.5 ne s’applique pas) nous ne supporterons de frais de livraison pour des destinations autres que
+destinations autres que celles correspondant à l’adresse initiale de livraison. Nous ne supporterons pas
 
-celles correspondant à l’adresse initiale de livraison. Nous ne supporterons pas non plus de frais de retour
-
-à partir de destinations autres que la France métropolitaine.
+non plus de frais de retour à partir de destinations autres que la France métropolitaine.
 
 
 
-17. RESPONSABILITÉ ET EXCLUSION DE RESPONSABILITÉ
+16. PRODUITS PERSONNALISES
 
 
 
-17.1. Notre responsabilité, au titre des présentes Conditions, ne saurait être engagée dans le cas où
+L'application mobile Bershka vous permet de personnaliser certains des produits en incluant des textes et
+
+des caractères que vous pouvez sélectionner parmi les options qui vous sont proposées pour chaque
+
+produit. Les produits qui sont personnalisables seront indiqués comme tels. Vous trouverez de plus
+
+amples informations sur cette option sur notre site internet. Vous devez savoir que, pour des raisons
+
+techniques ou autres indépendantes de notre volonté, les couleurs, textures et tailles réelles peuvent
+
+différer de celles affichées sur votre écran. En outre, vous devez garder à l'esprit que, comme il s'agit de
+
+vêtements personnalisés, il ne sera pas possible de retourner ou d'échanger ces produits. Vous garantissez
+
+que vous êtes autorisé à utiliser les textes et autres éléments qui font partie de la personnalisation des
+
+produits. Bien que nous nous réservions le droit de refuser votre personnalisation ou d'annuler les
+
+commandes de produits personnalisés en cas de violation de ces conditions, vous serez seul responsable
+
+de la personnalisation que vous demandez. Nous pouvons refuser votre personnalisation ou annuler les
+
+commandes de produits personnalisés dans le cas où nous détectons que la personnalisation consiste en,
+
+ou inclut, des éléments inappropriés, appartenant à des tiers ou autrement illicites. Nous n’avons pas
+
+l'obligation de vérifier, ni la responsabilité des textes ou autres éléments qui font partie de la
+
+personnalisation créée par les utilisateurs de ce service. Nous ne garantissons pas la licéité de ces textes,
+
+ou autres éléments, et, par conséquent, nous n'assumons aucune responsabilité pour les dommages
+
+et/ou les pertes qui peuvent survenir pour tout utilisateur (s) et / ou tout autre tiers, ceci qu'il s'agisse de
+
+particuliers ou d'entités publiques ou privées - découlant directement ou indirectement de l'utilisation de
+
+la personnalisation ou en lien de quelque manière que ce soit avec ladite personnalisation et/ou ses
+
+produits.
+
+
+
+17. RESPONSABILITÉ ET EXCLUSION DE RESPONSABILITÉ /GARANTIES
+
+
+
+17.1 Responsabilité
+
+
+
+Notre responsabilité, au titre des présentes Conditions, ne saurait être engagée dans le cas où
 
 l’inexécution de nos obligations serait imputable au fait d’un tiers, à votre faute ou à un évènement de
 
@@ -1014,119 +956,171 @@ indiqué autrement.
 
 
 
+17.2 Garanties
+
+
+
 Toutes les descriptions de produits, les informations et les matériels affichés sur ce site Internet sont
 
 fournis en l'état, sans garantie expresse ou implicite quant à ces derniers, sauf lorsque cela est prévu par
 
-la loi. En ce sens, si vous êtes partie au Contrat en qualité de consommateur, nous sommes tenus de vous
+la loi.
 
-livrer des articles conformes au Contrat, et sommes responsables envers vous de tout défaut de
 
-conformité existant au moment de la livraison.
 
+BERSHKA FRANCE SARL, dont les coordonnées figurent au point 2 des présentes Conditions, garantit les
 
+consommateurs des défauts de conformité et des vices cachés pour les produits en vente sur ce site
 
-Il est entendu que les articles sont conformes au Contrat s'ils : (i) sont conformes à la description que nous
+Internet conformément à la garantie légale de conformité prévue aux articles L217-3 et suivants du Code
 
-en donnons et possèdent les qualités que nous avons indiquées sur ce site Internet ; (ii) sont adaptés pour
+de la consommation et à la garantie contre les vices cachés au sens des articles 1641 et suivants du Code
 
-les fins pour lesquelles les articles de ce type sont normalement utilisés ; et (iii) présentent les qualités et
+civil.
 
-performances qui sont normales pour des articles de ce type et que l'on peut raisonnablement attendre.
 
-Dans la limite autorisée par la loi, nous excluons toutes les garanties, hormis celles qui ne peuvent pas
 
-être légalement exclues en faveur des consommateurs.
+Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la
 
+mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité.
 
+Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non
 
-En effet, BERSHKA FRANCE SARL garantit les consommateurs des défauts de conformité et des vices
+la date d'apparition de celui-ci.
 
-cachés pour les produits en vente sur ce site Internet conformément à la garantie légale de conformité
+Lorsque le contrat de vente du bien prévoit la fourniture d'un contenu numérique ou d'un service
 
-prévue aux articles L217-4 et suivants du Code de la consommation et à la garantie contre les vices cachés
+numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est
 
-au sens des articles 1641 et suivants du Code civil, vous permettant de retourner les produits livrés
+applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture
 
-défectueux ou non conformes.
+prévue. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité
 
+affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci.
 
+La garantie légale de conformité emporte obligation pour le professionnel, le cas échéant, de fournir
 
-▪ Il est rappelé que le consommateur qui décide d’agir en garantie légale de conformité :
+toutes les mises à jour nécessaires au maintien de la conformité du bien.
 
-- Bénéficie d’un délai de deux ans à compter de la délivrance du bien pour agir ;
+La garantie légale de conformité donne au consommateur droit à la réparation ou au remplacement du
 
-- Peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions
+bien dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
-de coût prévues par l’article L217-9 du Code de la consommation;
+Si le bien est réparé dans le cadre de la garantie légale de conformité, le consommateur bénéficie d'une
 
-- Est dispensé de rapporter la preuve de l’existence du défaut de conformité du bien
+extension de six mois de la garantie initiale.
 
-durant les vingt-quatre mois suivant la délivrance du bien. La garantie légale de
+Si le consommateur demande la réparation du bien, mais que le vendeur impose le remplacement, la
 
-conformité s’applique indépendamment de la garantie commerciale éventuellement
+garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de
 
-consentie.
+remplacement du bien.
 
-▪ Le consommateur peut décider de mettre en œuvre la garantie contre les défauts cachés de la
+Le consommateur peut obtenir une réduction du prix d'achat en conservant le bien ou mettre fin au
 
-chose vendue au sens de l’article 1641 du Code civil. Dans cette hypothèse, le consommateur
+contrat en se faisant rembourser intégralement contre restitution du bien, si :
 
-peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à
+1° Le professionnel refuse de réparer ou de remplacer le bien ;
 
-l’article 1644 du Code civil.
+2° La réparation ou le remplacement du bien intervient après un délai de trente jours ;
 
+3° La réparation ou le remplacement du bien occasionne un inconvénient majeur pour le
 
+consommateur, notamment lorsque le consommateur supporte définitivement les frais de reprise ou
 
-Rappel des dispositions du Code de la consommation:
+d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du bien réparé ou de
 
+remplacement ;
 
+4° La non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée
 
-- Article L217-4 du Code de la consommation : Le vendeur est tenu de livrer un bien conforme au contrat
+infructueuse.
 
-et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de
+Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat
 
-conformité résultant de l'emballage, des instructions de montage ou de l'installation lorsque celle-ci a été
+lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du
 
-mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
+contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le
 
+remplacement du bien au préalable.
 
+Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.
 
-- Article L217-5 du Code de la consommation : Pour être conforme au contrat, le bien doit :
+Toute période d'immobilisation du bien en vue de sa réparation ou de son remplacement suspend la
 
+garantie qui restait à courir jusqu'à la délivrance du bien remis en état.
 
+Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de
 
-1) Être propre à l'usage habituellement attendu d'un bien semblable et, le cas échéant :
+la consommation.
 
+Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité
 
+encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 %
 
-- correspondre à la description donnée par le vendeur et posséder les qualités que celui-ci a présentées à
+du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
 
-l'acheteur sous forme d'échantillon ou de modèle ;
+Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles
 
+1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette
 
+garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral
 
-- présenter les qualités qu'un acheteur peut légitimement attendre eu égard aux déclarations publiques
+contre restitution du bien.
 
-faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou
 
-l'étiquetage ;
 
+Mise en œuvre de la garantie légale de conformité et des vices cachés :
 
 
-2) Ou présenter les caractéristiques définies d'un commun accord par les parties ou être propre à tout
 
-usage spécial recherché par l'acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
+En cas de mise en œuvre de la garantie légale de conformité et des vices cachés, vous pouvez nous
 
+contacter en utilisant les différents moyens listés dans la section contact de ce site Internet et notamment
 
+en appelant le 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur). Nous vous
 
-- Article L217-12 du Code de la consommation : L'action résultant du défaut de conformité se prescrit par
+indiquerons alors la marche à suivre.
 
-deux ans à compter de la délivrance du bien.
 
 
+Rappel de certaines dispositions du Code de la consommation relatives à la garantie légale de conformité
 
-Rappel des dispositions du Code civil :
+des biens (hors contenus et services numériques) :
+
+
+
+- Article L217- 3 alinéa 1 et 2 du Code de la consommation : Le vendeur délivre un bien conforme au
+
+contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des défauts de conformité existant au
+
+moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans
+
+à compter de celle-ci.
+
+
+
+- Article L217-4 du Code de la consommation : Le bien est conforme au contrat s'il répond notamment, le
+
+cas échéant, aux critères suivants :
+
+
+
+1° Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la
+
+fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ;
+
+2° Il est propre à tout usage spécial recherché par le consommateur, porté à la connaissance du vendeur
+
+au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;
+
+3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis
+
+conformément au contrat ; (...).
+
+
+
+Rappel de certaines dispositions du Code civil relatives à la garantie des vices cachés :
 
 
 
@@ -1158,15 +1152,13 @@ caractéristiques naturelles sont inévitables et doivent être acceptées comme
 
 l'apparence individuelle du produit.
 
-
-
 Le contenu de cette clause ne porte aucunement atteinte à vos droits en tant que consommateur ni à
 
 votre droit de résilier le Contrat.
 
 
 
-17.2. Médiation
+17.3. Médiation
 
 
 
@@ -1200,7 +1192,29 @@ Saint Jean 75017 Paris.
 
 
 
-18. PROPRIÉTÉ INTELLECTUELLE
+18. NUMEROS D’IDENTIFICATION UNIQUE AU REGISTRE NATIONAL DES PRODUCTEURS
+
+
+
+Conformément aux dispositions du Code de l’environnement, la société BERSHKA FRANCE a adhéré à
+
+plusieurs éco-organismes afin de s’acquitter de ses obligations et dispose, à ce titre, d’un identifiant
+
+unique (ci-après « IDU ») pour chaque filière relevant de la responsabilité élargie des producteurs la
+
+concernant. Ces IDU sont les suivants :
+
+
+
+- IDU filière « textiles d'habillement, chaussures, linge de maison, produits textiles neufs pour la
+
+maison » : FR212790_11RSZB
+
+- IDU filière « emballages ménagers » : FR212790_01VOIB
+
+
+
+19. PROPRIÉTÉ INTELLECTUELLE
 
 
 
@@ -1220,7 +1234,7 @@ contact.
 
 
 
-19. VIRUS, PIRATAGE ET AUTRES ATTAQUES INFORMATIQUES
+20. VIRUS, PIRATAGE ET AUTRES ATTAQUES INFORMATIQUES
 
 
 
@@ -1260,7 +1274,7 @@ contenu sur ce dernier ou de sites vers lesquels ce site vous redirige.
 
 
 
-20. LIENS À PARTIR DE NOTRE SITE INTERNET
+21. LIENS À PARTIR DE NOTRE SITE INTERNET
 
 
 
@@ -1274,29 +1288,29 @@ préjudice pouvant en découler.
 
 
 
-21. COMMUNICATION ÉCRITE
+22. COMMUNICATION ÉCRITE
 
 
 
 La réglementation en vigueur exige que certaines des informations ou notifications que nous vous
 
-envoyons soient effectuées par écrit. En utilisant ce site, vous acceptez que votre communication avec
+envoyons soient effectuées par écrit. En utilisant ce site, vous acceptez que notre communication
 
-nous s'effectue principalement par voie électronique. Nous vous contacterons par courriel ou vous
+s'effectue principalement par voie électronique. Nous vous contacterons par courriel ou vous informerons
 
-informerons en affichant des messages sur le site Internet. Pour des raisons contractuelles, vous acceptez
+en affichant des messages sur le site Internet. Pour des raisons contractuelles, vous acceptez d'utiliser ce
 
-d'utiliser ce moyen de communication électronique et reconnaissez que tous les contrats, notifications,
+moyen de communication électronique et reconnaissez que tous les contrats, notifications, informations
 
-informations et autres communications que nous vous envoyons par voie électronique satisfont aux
+et autres communications que nous vous envoyons par voie électronique satisfont aux exigences légales
 
-exigences légales de transmission par écrit. Cette condition ne portera aucunement atteinte aux droits
+de transmission par écrit. Cette condition ne portera aucunement atteinte aux droits qui vous sont
 
-qui vous sont légalement reconnus.
+légalement reconnus.
 
 
 
-22. NOTIFICATIONS
+23. NOTIFICATIONS
 
 
 
@@ -1324,13 +1338,15 @@ et correctement remise au bureau de poste ou dans une boîte aux lettres ; et po
 
 
 
-23. CESSION DE DROITS ET OBLIGATIONS
+24. CESSION DE DROITS ET OBLIGATIONS
 
 
 
 Le Contrat a force obligatoire pour vous et pour nous, ainsi que pour nos successeurs, cessionnaires et
 
 héritiers respectifs.
+
+
 
 Vous ne pourrez ni transmettre, ni céder, ni grever, ni transférer d'une quelconque manière un Contrat
 
@@ -1354,7 +1370,7 @@ nous aurons pu vous accorder.
 
 
 
-24. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
+25. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
 
 
 
@@ -1378,7 +1394,7 @@ nos obligations contractuelles malgré le cas de force majeure.
 
 
 
-25. DROITS DE RENONCIATION
+26. DROITS DE RENONCIATION
 
 
 
@@ -1410,7 +1426,7 @@ ci-dessus.
 
 
 
-26. NULLITÉ PARTIELLE
+27. NULLITÉ PARTIELLE
 
 
 
@@ -1420,7 +1436,9 @@ nulle et non avenue en vertu d'une décision irrévocable émanant d'une autorit
 
 conditions générales resteront en vigueur et ne seront aucunement affectées par cette décision.
 
-27. INTÉGRALITÉ DU CONTRAT
+
+
+28. INTÉGRALITÉ DU CONTRAT
 
 
 
@@ -1452,7 +1470,7 @@ sur la rupture de Contrat, comme cela est stipulé dans les présentes Condition
 
 
 
-28. NOTRE DROIT DE MODIFIER CES CONDITIONS
+29. NOTRE DROIT DE MODIFIER CES CONDITIONS
 
 
 
@@ -1470,7 +1488,7 @@ s'appliquera également aux commandes que vous aurez passées préalablement.
 
 
 
-29. LÉGISLATION APPLICABLE ET JURIDICTION
+30. LÉGISLATION APPLICABLE ET JURIDICTION
 
 
 
@@ -1492,9 +1510,7 @@ que consommateur en vertu de la législation applicable en la matière.
 
 
 
-30. COMMENTAIRES ET SUGGESTIONS
-
-
+31. COMMENTAIRES ET SUGGESTIONS
 
 Vos commentaires et suggestions sont toujours appréciés. N'hésitez pas à nous en faire part via notre
 
@@ -1510,53 +1526,55 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 16 Août 2022
-
-ANNEXE
+Dernière mise à jour le 02Janvier 2023
 
 
 
-Modèle de formulaire de rétractation
+ANNEXE - Modèle de formulaire de rétractation
+
+(Formulaire à compléter et à nous renvoyer uniquement si vous souhaitez vous rétracter du Contrat)
 
 
 
-(Veuillez compléter et renvoyer ce formulaire uniquement si vous souhaitez vous rétracter)
+A l’attention de BERSHKA FRANCE SARL, exerçant ses activités sous le nom commercial BERSHKA, 80,
+
+Avenue des Terroirs de France 75012 Paris, France
 
 
 
-A l’attention de BERSHKA FRANCE SARL, opérant sous le nom commercial BERSHKA, Immeuble Garonne,
-
-80 Avenue des Terroirs de France, 75012 Paris, fax : 0800 918 880, courrier électronique :
-
-contact@bershka.com
+Adresse électronique : contact@bershka.com
 
 
 
-Je déclare par la présente me rétracter du contrat de vente concernant les biens suivants :
+Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du Contrat portant sur
+
+la vente du bien ci-dessous :
 
 
 
-Commande du/livraison du (\*)
+Commandé le (\*)[.....................................] / reçu le [.....................................] (\*)
 
 
 
-Nom du consommateur
+Nom du (des) consommateur(s) : [.....................................]
 
 
 
-Adresse du consommateur
+Adresse du (des) consommateur(s) : [.....................................]
 
 
 
-Signature du consommateur (uniquement si la demande est effectuée sur papier)
+Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur
+
+papier)
 
 
 
-Date
+Date : [.....................................]
 
 
 
-(\*) Rayer les mentions inutiles
+(\*) Rayez la mention inutile
 
 TERMES ET CONDITIONS D'UTILISATION DES FONCTIONNALITES DE L'APPLICATION BERSHKA
 
@@ -1570,7 +1588,7 @@ Conditions constituent l'accord entre vous et Bershka France SARL pour l'accès 
 
 et des fonctionnalités. Ces conditions viennent en complément et sans préjudice des Conditions d'Achat
 
-et d’Utilisation de www.bershka.com.
+et d’Utilisation de www.bershka.com
 
 
 
@@ -1624,7 +1642,7 @@ devez accepter avant d'acheter un produit.
 
 Les reçus des achats effectués sur le Site internet de Bershka seront stockés sur l'Application, plus
 
-précisément dans la section «Mes achats»
+précisément dans la section «Mes commandes»
 
 
 
@@ -1826,14 +1844,14 @@ par les utilisateurs qui:
 
 
 
-- ne respecte pas les conditions énoncées dans les présentes;
+- ne respectent pas les conditions énoncées dans les présentes;
 
-- viole ou enfreint les droits de propriété intellectuelle et industrielle ou d'autres droits
+- violent ou enfreignent les droits de propriété intellectuelle et industrielle ou d'autres droits
 
-équivalents de la Société ou de tout autre tiers détenteur de droits légaux, ou viole toutes
+équivalents de la Société ou de tout autre tiers détenteur de droits légaux, ou violent toutes
 
 autres lois applicables.
 
 
 
-Dernière mise à jour : 16 Août 2022
+Dernière mise à jour : 02 janvier 2023
