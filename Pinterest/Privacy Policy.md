@@ -135,14 +135,6 @@ Si vous pensez que nous n'avons pas respecté les lois de protection des donnée
 
 Pinterest étant un service mondial, il se peut que nous transférions les données personnelles des résidents de l'EEE à un pays hors EEE. Si nous transférons des informations depuis l'EEE vers un pays qui n'offre pas un niveau de protection adéquat, nous ne transférerons les données que si des mesures de sécurité adéquates sont mises en place pour protéger vos informations telles que les clauses contractuelles types.
 
-대한민국 거주자
-
-Pinterest 데이터 처리 활동에 관해 궁금한 점이 있는 경우 회원님이 문의해야 하는 데이터 관리자는 아일랜드에 위치한 Pinterest Europe Ltd.이며, 주소지는 Palmerston House, 2nd Floor, Fenian Street, Dublin 2, Ireland입니다. Pinterest 데이터 보호 책임자에게 문의할 수도 있습니다.
-
-Pinterest가 데이터 보호법을 준수하지 않았다고 생각되는 경우 회원님에게는 대한민국 감독 당국에 불만을 제기할 권리가 있습니다.
-
-Pinterest는 전 세계적인 서비스이므로 한국 거주자의 개인 데이터를 한국 외부로 이전할 수 있습니다. 
-
 Comment nous apportons des modifications à la présente politique
 
 Nous pouvons être amenés à apporter des modifications à la présente politique. Celles-ci seront alors publiées sur cette page. Si vous continuez à utiliser Pinterest après l'entrée en vigueur des ces modifications, vous acceptez de fait la nouvelle politique. Si les modifications sont importantes, nous pouvons vous en aviser préalablement ou obtenir votre consentement dans les conditions prévues par la loi.
