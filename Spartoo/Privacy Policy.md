@@ -4,7 +4,7 @@ Politique de protection des données
 1La collecte de données à caractère personnel
 ---------------------------------------------
 
-Lors de la création de votre compte et de vos commandes sur le site www.spartoo.com (ci-après dénommé le Site), SPARTOO SAS recueille des données à caractère personnel. La protection de vos données personnelles est au cœur des préoccupations de SPARTOO SAS, qui s’attache à l’amélioration constante de sa conformité au Règlement Général sur la Protection des Données (RGPD), ainsi qu’à la loi Informatique et Libertés n°78-17 du 6 janvier 1978 (LIL).  
+Lors de la création de votre compte et de vos commandes sur le site www.spartoo.com (ci-après dénommé le Site), SPARTOO recueille des données à caractère personnel. La protection de vos données personnelles est au cœur des préoccupations de SPARTOO , qui s’attache à l’amélioration constante de sa conformité au Règlement Général sur la Protection des Données (RGPD), ainsi qu’à la loi Informatique et Libertés n°78-17 du 6 janvier 1978 (LIL).  
 Le terme **« données personnelles »** est défini par la CNIL comme « toute information relative à une personne physique susceptible d'être identifiée, directement ou indirectement ».
 
 2Le responsable du traitement des données personnelles
@@ -13,7 +13,7 @@ Le terme **« données personnelles »** est défini par la CNIL comme « toute 
 Le responsable du traitement des données personnelles est défini comme une société déterminant les finalités et les moyens d’un traitement.  
 Les données personnelles qui sont collectées sur le Site sont traitées par :  
   
-**SPARTOO SAS** Société par Actions Simplifiée  
+**SPARTOO** Société Anonyme  
 Immatriculée au RCS de Grenoble sous le n° 489 895 821,  
 Dont le siège social est situé 16 rue Henri Barbusse 38100 Grenoble (ci-après : SPARTOO)  
   
@@ -21,7 +21,7 @@ SPARTOO a désigné un délégué à la protection des données personnelles (ci
   
 Vous pouvez vous adresser au DPO par :  
 \- Courrier électronique : à dpo@spartoo.com  
-\- Courrier postal : SPARTOO SAS - DPO -16 rue Henri Barbusse 38100 Grenoble
+\- Courrier postal : SPARTOO - DPO -16 rue Henri Barbusse 38100 Grenoble
 
 3Exemples de catégories de données personnelles collectées
 ----------------------------------------------------------
@@ -83,8 +83,8 @@ Si vous souhaitez naviguer anonymement sur nos sites internet, vous pourrez le f
 
 Les catégories de destinataires de vos données personnelles sont :  
   
-\- Les Services internes de SPARTOO SAS  
-L’accès à vos données à caractère personnel au sein de la société SPARTOO SAS sera limité aux catégories de collaborateurs dans la limite de leurs attributions et en fonction de la finalité du traitement de ces données.  
+\- Les Services internes de SPARTOO  
+L’accès à vos données à caractère personnel au sein de la société SPARTOO sera limité aux catégories de collaborateurs dans la limite de leurs attributions et en fonction de la finalité du traitement de ces données.  
   
 (Les données que nous collectons peuvent être transmises à certaines de nos filiales et à certains de nos prestataires externes, elles concernent notamment : le traitement des commandes de produits, la livraison des produits, le traitement des paiements. Ces prestataires de services tiers ont accès aux informations personnelles nécessaires à l'exécution de leurs prestations et ne sont pas autorisés à les utiliser à d'autres fins et sont en outre tenus de respecter les lois applicables à la protection des données personnelles.  
   
@@ -257,7 +257,7 @@ Conformément au règlement UE 2016/679, vous bénéficiez de plusieurs droits, 
   
 Vous pouvez également adresser vos demandes :  
 \- par courrier électronique : à dpo@spartoo.com  
-\- par courrier postal : SPARTOO SAS – DPO - 16 rue Henri Barbusse 38 100 Grenoble  
+\- par courrier postal : SPARTOO – DPO - 16 rue Henri Barbusse 38 100 Grenoble  
 
 12Droit d’introduire une réclamation auprès d’une autorité compétente
 ---------------------------------------------------------------------
