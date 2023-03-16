@@ -27,6 +27,8 @@ Une fois que vous avez passé votre commande, vous recevrez un e-mail de confirm
 **4\. Livraison**  
 H&M fait preuve de la plus grande diligence en acceptant et en traitant les commandes et fera tous les efforts pour livrer votre commande à une adresse résidentielle, un bureau de poste, un site où un colis peut être récupéré ou une autre adresse en France ou en Corse, conformément l’option de livraison sélectionnée. Malheureusement, nous ne sommes pas en mesure de livrer dans les départements et territoires d'outre-mer et à Monaco. Dû à la politique de restriction des transports de certains produits cosmétiques, ces produits ne peuvent être livrés à votre adresse personnelle en Corse (la livraison en points Pick –up est néanmoins possible). En savoir plus [ici.](https://www2.hm.com/fr_fr/service-clients/transportation-restrictions-link.html)
 
+Pour la livraison de produits de grande taille, tels que des tapis et meubles de notre collection d'extérieur H&M HOME, veuillez compter 5 à 14 jours ouvrables. Vous trouverez l'intégralité de notre politique d'expédition et de livraison [ici.](https://www2.hm.com/fr_fr/customer-service/shippinganddelivery.html)
+
 H&M met tout en œuvre pour expédier vos commandes de la manière la plus rapide possible et dans l'ordre où elles ont été passées. Bien que nous fassions le maximum pour vous livrer dans les délais communiqués, la livraison peut parfois prendre plus de temps en raison d'événements imprévus. Dans le cas peu probable où le délai de livraison dépasserait 30 jours, vous seriez alors habilité(e) à annuler votre commande.
 
 Avant de passer votre commande, vous serez informé(e) des informations concernant les délais de livraison prévus. Une fois que vous avez passé votre commande, vous recevrez un e-mail de confirmation comportant les délais de livraison prévus (à condition de nous avoir préalablement communiqué votre adresse e-mail).
@@ -184,4 +186,4 @@ _H & M Hennes & Mauritz Sarl est détentrice d’une assurance de responsabilit�
 75001 Paris  
   
 _  
-04/01/2023
+16/03/2023
