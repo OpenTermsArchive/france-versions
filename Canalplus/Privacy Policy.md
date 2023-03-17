@@ -6,19 +6,19 @@ Données personnelles et confidentialité
 
 Dans le cadre de votre Abonnement aux offres CANAL+, en créant un compte CANAL+, en participant à des évènements (jeux, concours, inscription à des newsletters) ou de votre Abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins - 92863 Issy-les-Moulineaux Cedex 9) des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d'opérations ponctuelles, des données personnelles d'identification et de contact recueillies auprès de vous, en conformité avec la réglementation applicable à la protection des données personnelles.  
 
-Pour plus d’informations, veuillez-vous reporter à nos :* [conditions générales d’abonnement](https://static.canal-plus.net/boutique/infos-legales/CGA-Canal.pdf) (valables uniquement pour la France Métropolitaine et Monaco). Pour les autres territoires, vous trouverez les conditions générales d’abonnement sur le site internet de votre offre,
-* nos [conditions générales d’utilisation](https://static.canalplus.com/legal/cgu.html),
-* Pour les abonnés à beIn SPORTS CONNECT : Conditions générales d’abonnement à beIn SPORTS CONNECT et Conditions générales d’utilisation du site beIN SPORTS CONNECT accessibles en pied de page de https://connect.beinsports.com/france/.
+Pour plus d’informations, veuillez-vous reporter à nos :*   [conditions générales d’abonnement](https://static.canal-plus.net/boutique/infos-legales/CGA-Canal.pdf) (valables uniquement pour la France Métropolitaine et Monaco). Pour les autres territoires, vous trouverez les conditions générales d’abonnement sur le site internet de votre offre,
+*   nos [conditions générales d’utilisation](https://static.canalplus.com/legal/cgu.html),
+*   Pour les abonnés à beIn SPORTS CONNECT : Conditions générales d’abonnement à beIn SPORTS CONNECT et Conditions générales d’utilisation du site beIN SPORTS CONNECT accessibles en pied de page de https://connect.beinsports.com/france/.
 
 Vos questions :
 ===============
 
-* [Pourquoi vos données sont-elles utilisées et pour quelles finalités ?](#Q1)
-* [Quelles données collectons-nous?](#Q2)
-* [A qui peuvent être destinées vos données personnelles ?](#Q3)
-* [Quels sont vos droits et comment les exercer ?](#Q4)
-* [Combien de temps vos données personnelles sont-elles conservées ?](#Q5)
-* [Qui contacter en cas de questions ?](#Q6)
+*   [Pourquoi vos données sont-elles utilisées et pour quelles finalités ?](#Q1)
+*   [Quelles données collectons-nous?](#Q2)
+*   [A qui peuvent être destinées vos données personnelles ?](#Q3)
+*   [Quels sont vos droits et comment les exercer ?](#Q4)
+*   [Combien de temps vos données personnelles sont-elles conservées ?](#Q5)
+*   [Qui contacter en cas de questions ?](#Q6)
 
 1\. POURQUOI VOS DONNEES SONT-ELLES UTILISEES ET POUR QUELLES FINALITES ?
 -------------------------------------------------------------------------
@@ -29,34 +29,34 @@ Nous utilisons ainsi vos données notamment en vue des finalités et sur le fond
 
 ### 1/ Traitements opérés sur le fondement légal du contrat :
 
-* Vous offrir les services et contenus liés à l’Abonnement que vous avez souscrit ou au compte que vous avez créé.
-* Gérer la souscription et le suivi de votre Abonnement.
-* Gérer votre participation à des jeux-concours ou des offres promotionnelles.
-* Gérer les impayés.
+*   Vous offrir les services et contenus liés à l’Abonnement que vous avez souscrit ou au compte que vous avez créé.
+*   Gérer la souscription et le suivi de votre Abonnement.
+*   Gérer votre participation à des jeux-concours ou des offres promotionnelles.
+*   Gérer les impayés.
 
 ### 2/ Traitements opérés sur le fondement légal des obligations légales ou contractuelles auxquelles Groupe CANAL+ est soumis :
 
-* Gérer les contentieux, les procédures contentieuses de recouvrement, les procédures judiciaires ou administratives.
-* Répondre à vos demandes et à nos obligations légales et réglementaires.
-* Gérer et justifier du paiement des ayants droit en fonction de la consommation des contenus par nos utilisateurs.
+*   Gérer les contentieux, les procédures contentieuses de recouvrement, les procédures judiciaires ou administratives.
+*   Répondre à vos demandes et à nos obligations légales et réglementaires.
+*   Gérer et justifier du paiement des ayants droit en fonction de la consommation des contenus par nos utilisateurs.
 
 ### 3/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à gérer les atteintes à nos droits, améliorer nos services et comprendre vos attentes :
 
-* Détecter et prévenir la fraude et gérer les contentieux.
-* Établir des statistiques et des études relatives à l’utilisation de nos services notamment à des fins de mesures d’audience et de suivi de qualité.
-* Enregistrer les échanges téléphoniques avec nos conseillers à des fins de suivi de qualité.
+*   Détecter et prévenir la fraude et gérer les contentieux.
+*   Établir des statistiques et des études relatives à l’utilisation de nos services notamment à des fins de mesures d’audience et de suivi de qualité.
+*   Enregistrer les échanges téléphoniques avec nos conseillers à des fins de suivi de qualité.
 
 ### 4/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à personnaliser des services et des offres, mesurer la performance des campagnes publicitaires que nous diffusons, comprendre vos attentes et améliorer nos services, promouvoir nos services et ceux des tiers, sous réserve de vos droits détaillés à l’article 4 ou dans notre Politique cookies :
 
-* Créer et partager des segments d’audience ou des profils utilisateurs en fonction de votre utilisation de nos services et/ou de vos centres d’intérêts.
-* Mesurer votre intérêt pour les publicités qui vous sont présentées.
-* Mesurer votre intérêt pour nos services et nos sites et les améliorer.
-* Recommander du contenu en fonction de vos centres d’intérêt.
-* Personnaliser la publicité qui vous est présentée en fonction de votre utilisation de nos services ou de celles de services tiers.
+*   Créer et partager des segments d’audience ou des profils utilisateurs en fonction de votre utilisation de nos services et/ou de vos centres d’intérêts.
+*   Mesurer votre intérêt pour les publicités qui vous sont présentées.
+*   Mesurer votre intérêt pour nos services et nos sites et les améliorer.
+*   Recommander du contenu en fonction de vos centres d’intérêt.
+*   Personnaliser la publicité qui vous est présentée en fonction de votre utilisation de nos services ou de celles de services tiers.
 
 ### 5/ Traitements opérés sur le fondement légal de l’intérêt légitime de Groupe CANAL+ à promouvoir nos services et ceux de nos partenaires, sous réserve de vos droits détaillés à l’article 4 ci-dessous :
 
-* Vous adresser par tout moyen (courrier postal, email, téléphone, SMS, notifications de l’application myCANAL ou beIN SPORTS CONNECT), des informations vous permettant de mieux connaître nos services ainsi que des offres commerciales relatives à nos services ou à ceux de nos partenaires.
+*   Vous adresser par tout moyen (courrier postal, email, téléphone, SMS, notifications de l’application myCANAL ou beIN SPORTS CONNECT), des informations vous permettant de mieux connaître nos services ainsi que des offres commerciales relatives à nos services ou à ceux de nos partenaires.
 
 ### Anonymisation des données personnelles
 
@@ -71,10 +71,10 @@ Les données anonymes issues de ces techniques sont susceptibles d’être utili
 
 Nous collectons les données personnelles suivantes :
 
-* Vos données d’identification et d’inscription à nos services (nom, prénom, numéro d’abonné, coordonnées, moyens de paiement)
-* Vos données d’utilisation de nos services
-* Les données d’identification des terminaux utilisés pour accéder à nos services (identifiant de la box d’accès, du décodeur ou du terminal de lecture)
-* Les données de réaction aux publicités ciblées qui vous sont proposées
+*   Vos données d’identification et d’inscription à nos services (nom, prénom, numéro d’abonné, coordonnées, moyens de paiement)
+*   Vos données d’utilisation de nos services
+*   Les données d’identification des terminaux utilisés pour accéder à nos services (identifiant de la box d’accès, du décodeur ou du terminal de lecture)
+*   Les données de réaction aux publicités ciblées qui vous sont proposées
 
 3\. A QUI PEUVENT ETRE DESTINEES VOS DONNEES PERSONNELLES ?
 -----------------------------------------------------------
@@ -95,8 +95,8 @@ Par ailleurs, nous sommes amenés à partager avec nos partenaires commerciaux e
 
 Un tel partage ne peut se faire que sous les conditions suivantes :
 
-* Soit sous réserve de votre accord libre, spécifique et préalable que vous pouvez fournir ou retirer à tout moment ;
-* Soit, lorsque la règlementation applicable ne requiert pas votre accord, en garantissant d’autres mesures de protection de ces données : confidentialité, pseudonymisation, cryptage, durée de conservation limitée au strict nécessaire, etc.
+*   Soit sous réserve de votre accord libre, spécifique et préalable que vous pouvez fournir ou retirer à tout moment ;
+*   Soit, lorsque la règlementation applicable ne requiert pas votre accord, en garantissant d’autres mesures de protection de ces données : confidentialité, pseudonymisation, cryptage, durée de conservation limitée au strict nécessaire, etc.
 
 En tout état de cause, vous pouvez à tout moment, exercer vos droits auprès de nous, conformément à l’article 4 ci-dessous, exprimer votre accord ou le retirer, sans que cela ne change en quoi que ce soit vos droits d’accéder à nos services.
 
@@ -113,12 +113,12 @@ En cas de transfert en dehors de l’Union européenne, nous opérons ces transf
 
 Votre demande concerne vos données traitées dans le cadre de votre abonnement aux offres CANAL+, vous pouvez :
 
-* Renseigner [ce formulaire](https://static.canal-plus.net/boutique/infos-legales/formulaire-donnees-personnelles.pdf "Formulaire sur les données personnelles") en justifiant de votre identité,
-* Nous écrire par e-mail à dpo
-* Nous écrire par courrier postal à l’adresse DPO de Groupe C+ - TSA 16723 96905 CERGY PONTOISE CEDEX 9. ;
-* Si vous êtes situé en Suisse : par courrier électronique à contact ;
-* Nous contacter aux coordonnées indiquées à l’article 6 ci-dessous : Qui contacter en cas de questions ?
-* Pour CANAL+ BUSINESS, vous pouvez exercer vos droits en écrivant à dpo.business ou SERVICE CLIENTS CANAL+ BUSINESS - TSA 76720 - 95905 CERGY PONTOISE.
+*   Renseigner [ce formulaire](https://static.canal-plus.net/boutique/infos-legales/formulaire-donnees-personnelles.pdf "Formulaire sur les données personnelles") en justifiant de votre identité,
+*   Nous écrire par e-mail à dpo
+*   Nous écrire par courrier postal à l’adresse DPO de Groupe C+ - TSA 16723 96905 CERGY PONTOISE CEDEX 9. ;
+*   Si vous êtes situé en Suisse : par courrier électronique à contact ;
+*   Nous contacter aux coordonnées indiquées à l’article 6 ci-dessous : Qui contacter en cas de questions ?
+*   Pour CANAL+ BUSINESS, vous pouvez exercer vos droits en écrivant à dpo.business ou SERVICE CLIENTS CANAL+ BUSINESS - TSA 76720 - 95905 CERGY PONTOISE.
 
 Une lettre recommandée électronique n’est pas nécessaire pour exercer vos droits. Le simple envoi du formulaire par mail ou par courrier postal est suffisant. Si toutefois vous souhaitez utiliser des services de recommandés électroniques, veuillez écrire à eRecommande (at) canal-plus.com en justifiant de votre identité.
 
@@ -126,11 +126,11 @@ Une lettre recommandée électronique n’est pas nécessaire pour exercer vos d
 
 Votre demande concerne vos données traitées dans le cadre de votre abonnement aux offres CANAL+ :
 
-* Nous écrire par mail à : dpo.outremer;
-* Renseigner le formulaire dédié selon le territoire concerné :
-* * Pour les Antilles/Guyane : [https://www.canalplus-caraibes.com/gp/contacts/aiguillage](https://www.canalplus-caraibes.com/gp/contacts/aiguillage)
-    * Pour la Réunion : [https://www.canalplus-reunion.com/re/contacts/aiguillage](https://www.canalplus-reunion.com/re/contacts/aiguillage)
-    * Pour la Nouvelle-Calédonie : [https://www.canalplus-caledonie.com/nc/contacts/aiguillage](https://www.canalplus-caledonie.com/nc/contacts/aiguillage)
+*   Nous écrire par mail à : dpo.outremer;
+*   Renseigner le formulaire dédié selon le territoire concerné :
+*   *   Pour les Antilles/Guyane : [https://www.canalplus-caraibes.com/gp/contacts/aiguillage](https://www.canalplus-caraibes.com/gp/contacts/aiguillage)
+    *   Pour la Réunion : [https://www.canalplus-reunion.com/re/contacts/aiguillage](https://www.canalplus-reunion.com/re/contacts/aiguillage)
+    *   Pour la Nouvelle-Calédonie : [https://www.canalplus-caledonie.com/nc/contacts/aiguillage](https://www.canalplus-caledonie.com/nc/contacts/aiguillage)
 
 #### Si vous êtes situé en Afrique :
 
@@ -158,22 +158,22 @@ Si vous ne souhaitez plus recevoir de notifications de la part de l’applicatio
 
 Sur Android :
 
-* en faisant glisser latéralement une notification de l’application, puis en sélectionnant l’option de Réglages et enfin en appuyant sur « Arrêter les notifications » ;
-* en vous rendant sur la rubrique Réglages de l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT puis en désactivant l’option « Notifications » ;
-* en vous rendant dans les paramètres de votre appareil (rubrique Applis et notifications), puis en sélectionnant l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT et la rubrique « Notifications ». Enfin, en désactivant l’option « Afficher les notifications ».
+*   en faisant glisser latéralement une notification de l’application, puis en sélectionnant l’option de Réglages et enfin en appuyant sur « Arrêter les notifications » ;
+*   en vous rendant sur la rubrique Réglages de l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT puis en désactivant l’option « Notifications » ;
+*   en vous rendant dans les paramètres de votre appareil (rubrique Applis et notifications), puis en sélectionnant l’application myCANAL et/ou à partir du site beIN SPORTS CONNECT et la rubrique « Notifications ». Enfin, en désactivant l’option « Afficher les notifications ».
 
 Sur iOs :
 
-* en n’acceptant pas les notifications lorsque l’application vous le propose ;
-* en vous rendant dans les réglages de votre appareil (rubrique Notifications), puis en sélectionnant l’application myCANAL et la rubrique « Notifications ». Enfin, en désactivant l’option « Autoriser les notifications ».
+*   en n’acceptant pas les notifications lorsque l’application vous le propose ;
+*   en vous rendant dans les réglages de votre appareil (rubrique Notifications), puis en sélectionnant l’application myCANAL et la rubrique « Notifications ». Enfin, en désactivant l’option « Autoriser les notifications ».
 
 Si vous ne souhaitez plus que les informations collectées à partir de votre appareil mobile ou à propos de celui-ci dans soient utilisées dans le cadre de la publicité comportementale en ligne, vous pouvez accéder aux paramètres de votre appareil et modifier « Suivi publicitaire limité » (pour iOS), « Désactiver personnalisation des annonces » (pour Android) ou « Laisser les applications utiliser l’identifiant de publicité pour permettre l’affichage de publicités plus pertinentes en fonction votre utilisation des applications » (Windows), ce qui vous permettra de limiter les informations collectées à partir de votre appareil mobile ou à propos de celui-ci.
 
 Ces réglages sont accessibles :
 
-* Sur iOS : en vous rendant sur la rubrique « Réglages », puis « Confidentialité » et enfin « Publicité » ;
-* Sur Android : en vous rendant sur la rubrique « Réglages » de Android, puis « Android », « Paramètres », « Google » et enfin « Annonces » (le parcours est susceptible de varier selon le fabriquant de téléphone et la version d’Android installée) ;
-* Sur Windows : en vous rendant sur la rubrique « Réglages », puis « Général » et enfin « Modifier les options de confidentialité ».
+*   Sur iOS : en vous rendant sur la rubrique « Réglages », puis « Confidentialité » et enfin « Publicité » ;
+*   Sur Android : en vous rendant sur la rubrique « Réglages » de Android, puis « Android », « Paramètres », « Google » et enfin « Annonces » (le parcours est susceptible de varier selon le fabriquant de téléphone et la version d’Android installée) ;
+*   Sur Windows : en vous rendant sur la rubrique « Réglages », puis « Général » et enfin « Modifier les options de confidentialité ».
 
 ### 4.3 Désactivation de la personnalisation des recommandations de contenus
 
