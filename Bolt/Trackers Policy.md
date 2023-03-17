@@ -72,7 +72,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (49)
+Statistics (48)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -86,7 +86,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_gid \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 1 day | HTTP Cookie |
 | \_hjAbsoluteSessionInProgress | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to count how many times a website has been visited by different visitors - this is done by assigning the visitor an ID, so the visitor does not get registered twice. | 1 day | HTTP Cookie |
 | \_hjFirstSeen | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | This cookie is used to determine if the visitor has visited the website before, or if it is a new visitor on the website. | 1 day | HTTP Cookie |
-| \_hjIncludedInPageviewSample \[x4\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>couriers.bolt.eu  <br>partners.bolt.eu | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
+| \_hjIncludedInPageviewSample \[x3\] | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy")  <br>couriers.bolt.eu | Determines if the user's navigation should be registered in a certain statistical place holder. | 1 day | HTTP Cookie |
 | \_hjIncludedInSessionSample\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjRecordingLastActivity | bolt.eu | Sets a unique ID for the session. This allows the website to obtain data on visitor behaviour for statistical purposes. | Session | HTML Local Storage |
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
@@ -163,12 +163,3 @@ Marketing cookies are used to track visitors across our website. The intention i
 | yt-remote-fast-check-period | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
 | yt-remote-session-app | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
 | yt-remote-session-name | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
-
-Unclassified (1)
-
-Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
-
-    
-| Name | Provider | Purpose | Expiry | Type |
-| --- | --- | --- | --- | --- |
-| \_hjIncludedInSessionSample\_2109142 | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Pending | 1 day | HTTP Cookie |
