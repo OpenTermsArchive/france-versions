@@ -11,8 +11,8 @@ Ces cookies sont nécessaires pour assurer votre navigation sur le Site et vous 
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
 | club.veepee.fr | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm) | Cookies internes |
-| www.veepee.fr | [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop), [dataContext](https://cookiepedia.co.uk/cookies/dataContext), [infoMember](https://cookiepedia.co.uk/cookies/infoMember), [CheckAutologin](https://cookiepedia.co.uk/cookies/CheckAutologin), [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [FromPartner](https://cookiepedia.co.uk/cookies/FromPartner), [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js), [.ASPXBrowserOverride](https://cookiepedia.co.uk/cookies/.ASPXBrowserOverride) | Cookies internes |
-| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | b1pi, b1pi2, CI\_session, inpsession\_$distributor\_id\_$language, inptime\_$distributor\_id\_$language, context, OptanonConsent, OptanonAlertBoxClosed, .ASPXAUTH, datadome | Cookies tiers |
+| www.veepee.fr | [infoMember](https://cookiepedia.co.uk/cookies/infoMember), [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop), [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js), [CheckAutologin](https://cookiepedia.co.uk/cookies/CheckAutologin), [context](https://cookiepedia.co.uk/cookies/context), [.ASPXBrowserOverride](https://cookiepedia.co.uk/cookies/.ASPXBrowserOverride), [dataContext](https://cookiepedia.co.uk/cookies/dataContext), [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [FromPartner](https://cookiepedia.co.uk/cookies/FromPartner) | Cookies internes |
+| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | b1pi, b1pi2, CI\_session, inpsession\_$distributor\_id\_$language, inptime\_$distributor\_id\_$language, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent | Cookies tiers |
 
 #### Cookies d’analyses et de personnalisation
 
@@ -22,8 +22,8 @@ Ces Cookies nous permettent de mesurer l’audience et la fréquentation du Site
 | --- | --- | --- |Cookies d’analyses et de personnalisation
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| veepee.fr | [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx), [\_gid](https://cookiepedia.co.uk/cookies/_gid), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_ga](https://cookiepedia.co.uk/cookies/_ga), [mp\_eae7ed6b6420b0befde82c2e721ae890\_mixpanel](https://cookiepedia.co.uk/cookies/mp_eae7ed6b6420b0befde82c2e721ae890_mixpanel), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [mp\_a3cb8bb25549b48e7409f1211fc04976\_mixpanel](https://cookiepedia.co.uk/cookies/mp_a3cb8bb25549b48e7409f1211fc04976_mixpanel) | Cookies internes |
-| www.veepee.fr | [\_hjIncludedInSessionSample](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample), [mp\_eec18415882a56d874801dc7cfa3ed12\_mixpanel](https://cookiepedia.co.uk/cookies/mp_eec18415882a56d874801dc7cfa3ed12_mixpanel), [homeApplicationScenario](https://cookiepedia.co.uk/cookies/homeApplicationScenario), [\_hjIncludedInPageviewSample](https://cookiepedia.co.uk/cookies/_hjIncludedInPageviewSample), [seq](https://cookiepedia.co.uk/cookies/seq) | Cookies internes |
+| veepee.fr | [\_gid](https://cookiepedia.co.uk/cookies/_gid), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [mp\_eec18415882a56d874801dc7cfa3ed12\_mixpanel](https://cookiepedia.co.uk/cookies/mp_eec18415882a56d874801dc7cfa3ed12_mixpanel), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_ga](https://cookiepedia.co.uk/cookies/_ga), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment) | Cookies internes |
+| www.veepee.fr | [\_hjIncludedInPageviewSample](https://cookiepedia.co.uk/cookies/_hjIncludedInPageviewSample), [homeApplicationScenario](https://cookiepedia.co.uk/cookies/homeApplicationScenario), [seq](https://cookiepedia.co.uk/cookies/seq), [\_hjIncludedInSessionSample](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample), [mp\_eae7ed6b6420b0befde82c2e721ae890\_mixpanel](https://cookiepedia.co.uk/cookies/mp_eae7ed6b6420b0befde82c2e721ae890_mixpanel), [mp\_a3cb8bb25549b48e7409f1211fc04976\_mixpanel](https://cookiepedia.co.uk/cookies/mp_a3cb8bb25549b48e7409f1211fc04976_mixpanel) | Cookies internes |
 | [vente-privee.com](https://cookiepedia.co.uk/host/vente-privee.com) | mp\_eae7ed6b6420b0befde82c2e721ae890\_mixpanel, mp\_eec18415882a56d874801dc7cfa3ed12\_mixpanel | Cookies tiers |
 | [cdn.mxpnl.com](https://cookiepedia.co.uk/host/cdn.mxpnl.com) | mp\_a3cb8bb25549b48e7409f1211fc04976\_mixpanel, mp\_eae7ed6b6420b0befde82c2e721ae890\_mixpanel, mp\_eec18415882a56d874801dc7cfa3ed12\_mixpanel | Cookies tiers |
 | [commander1.com](https://cookiepedia.co.uk/host/commander1.com) | TCID | Cookies tiers |
@@ -47,21 +47,21 @@ Ces Cookies peuvent être déposés, sous réserve de votre consentement, par de
 | --- | --- | --- |Cookies publicitaires
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| [yahoo.com](https://cookiepedia.co.uk/host/yahoo.com) | A1S, A3, A1, B | Cookies tiers |
-| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | CONSENT, VISITOR\_INFO1\_LIVE, DEVICE\_INFO, YSC | Cookies tiers |
-| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | flixgvid, sio\_t, pt\_, \_gat\_gtag\_xxxxxxxxxxxxxxxxxxxxxxxxxxx | Cookies tiers |
+| [yahoo.com](https://cookiepedia.co.uk/host/yahoo.com) | A1, A1S, A3, B | Cookies tiers |
+| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | CONSENT, DEVICE\_INFO, VISITOR\_INFO1\_LIVE, YSC | Cookies tiers |
+| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | flixgvid, sio\_t, \_gat\_gtag\_xxxxxxxxxxxxxxxxxxxxxxxxxxx, pt\_ | Cookies tiers |
 | [mathtag.com](https://cookiepedia.co.uk/host/mathtag.com) | uuid | Cookies tiers |
 | [entitytag.co.uk](https://cookiepedia.co.uk/host/entitytag.co.uk) | abid | Cookies tiers |
 | [rezync.com](https://cookiepedia.co.uk/host/rezync.com) | zync-uuid | Cookies tiers |
 | [1rx.io](https://cookiepedia.co.uk/host/1rx.io) | \_rxuuid | Cookies tiers |
-| [mookie1.com](https://cookiepedia.co.uk/host/mookie1.com) | id, ov, mdata | Cookies tiers |
-| [google.com](https://cookiepedia.co.uk/host/google.com) | CONSENT, \_\_Secure-ENID, AEC | Cookies tiers |
+| [mookie1.com](https://cookiepedia.co.uk/host/mookie1.com) | id, mdata, ov | Cookies tiers |
+| [google.com](https://cookiepedia.co.uk/host/google.com) | \_\_Secure-ENID, AEC, CONSENT | Cookies tiers |
 | [targeting.unrulymedia.com](https://cookiepedia.co.uk/host/targeting.unrulymedia.com) | \_rxuuid | Cookies tiers |
-| [id5-sync.com](https://cookiepedia.co.uk/host/id5-sync.com) | cnac, cip, car, gdpr, cf, callback | Cookies tiers |
-| [ads.stickyadstv.com](https://cookiepedia.co.uk/host/ads.stickyadstv.com) | uid-bp-xxxxx, UID | Cookies tiers |
+| [id5-sync.com](https://cookiepedia.co.uk/host/id5-sync.com) | callback, car, cf, cip, cnac, gdpr | Cookies tiers |
+| [ads.stickyadstv.com](https://cookiepedia.co.uk/host/ads.stickyadstv.com) | UID, uid-bp-xxxxx | Cookies tiers |
 | [mmtro.com](https://cookiepedia.co.uk/host/mmtro.com) | RUID | Cookies tiers |
 | [bidr.io](https://cookiepedia.co.uk/host/bidr.io) | bito, bitoIsSecure, checkForPermission | Cookies tiers |
-| [amazon-adsystem.com](https://cookiepedia.co.uk/host/amazon-adsystem.com) | ad-privacy, ad-id | Cookies tiers |
+| [amazon-adsystem.com](https://cookiepedia.co.uk/host/amazon-adsystem.com) | ad-id, ad-privacy | Cookies tiers |
 | [everesttech.net](https://cookiepedia.co.uk/host/everesttech.net) | everest\_g\_v2 | Cookies tiers |
 | [adfarm1.adition.com](https://cookiepedia.co.uk/host/adfarm1.adition.com) | UserID1 | Cookies tiers |
 | [dpm.demdex.net](https://cookiepedia.co.uk/host/dpm.demdex.net) | dpm | Cookies tiers |
@@ -74,17 +74,17 @@ Ces Cookies peuvent être déposés, sous réserve de votre consentement, par de
 | [demdex.net](https://cookiepedia.co.uk/host/demdex.net) | demdex | Cookies tiers |
 | [turn.com](https://cookiepedia.co.uk/host/turn.com) | uid | Cookies tiers |
 | [rlcdn.com](https://cookiepedia.co.uk/host/rlcdn.com) | pxrc, rlas3 | Cookies tiers |
-| [adotmob.com](https://cookiepedia.co.uk/host/adotmob.com) | uid, uuid, partners | Cookies tiers |
+| [adotmob.com](https://cookiepedia.co.uk/host/adotmob.com) | partners, uid, uuid | Cookies tiers |
 | [eyeota.net](https://cookiepedia.co.uk/host/eyeota.net) | SERVERID | Cookies tiers |
-| [casalemedia.com](https://cookiepedia.co.uk/host/casalemedia.com) | CMPS, CMID, CMPRO, CMTS | Cookies tiers |
-| [w55c.net](https://cookiepedia.co.uk/host/w55c.net) | wfivefivec, matchliveramp | Cookies tiers |
+| [casalemedia.com](https://cookiepedia.co.uk/host/casalemedia.com) | CMID, CMPRO, CMPS, CMTS | Cookies tiers |
+| [w55c.net](https://cookiepedia.co.uk/host/w55c.net) | matchliveramp, wfivefivec | Cookies tiers |
 | [agkn.com](https://cookiepedia.co.uk/host/agkn.com) | ab  | Cookies tiers |
 | [weborama.fr](https://cookiepedia.co.uk/host/weborama.fr) | AFFICHE\_W | Cookies tiers |
-| [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | test\_cookie, IDE | Cookies tiers |
-| [adnxs.com](https://cookiepedia.co.uk/host/adnxs.com) | uuid2, anj | Cookies tiers |
-| [bluekai.com](https://cookiepedia.co.uk/host/bluekai.com) | bkdc, bku, bkpa | Cookies tiers |
-| [rfihub.com](https://cookiepedia.co.uk/host/rfihub.com) | euds, eud, rud, ruds | Cookies tiers |
-| [tapad.com](https://cookiepedia.co.uk/host/tapad.com) | TapAd\_TS, TapAd\_3WAY\_SYNCS, TapAd\_DID | Cookies tiers |
+| [doubleclick.net](https://cookiepedia.co.uk/host/doubleclick.net) | IDE, test\_cookie | Cookies tiers |
+| [adnxs.com](https://cookiepedia.co.uk/host/adnxs.com) | anj, uuid2 | Cookies tiers |
+| [bluekai.com](https://cookiepedia.co.uk/host/bluekai.com) | bkdc, bkpa, bku | Cookies tiers |
+| [rfihub.com](https://cookiepedia.co.uk/host/rfihub.com) | eud, euds, rud, ruds | Cookies tiers |
+| [tapad.com](https://cookiepedia.co.uk/host/tapad.com) | TapAd\_3WAY\_SYNCS, TapAd\_DID, TapAd\_TS | Cookies tiers |
 | [totaljobs.com](https://cookiepedia.co.uk/host/totaljobs.com) | \_abck | Cookies tiers |
 
 #### Cookies de lutte contre la fraude
