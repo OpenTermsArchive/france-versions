@@ -15,7 +15,7 @@ La sécurité est une priorité absolue pour Austrian Airlines AG. Naturellement
 
 [Information sur le traitement de vos données personnelles](https://www.austrian.com/fr/fr/data-protection#processing-of-personal-data)
 
-[Politique de confidentialité relative à votre profil Austrian.com](https://www.austrian.com/fr/fr/privacy-policy-airmanager)
+[Politique de confidentialité relative à votre profil Austrian.com](https://www.austrian.com/fr/fr/legal/data-protection/privacy-policy-airmanager)
 
 [Vos droits en matière de protection des données](https://www.austrian.com/fr/fr/data-protection-rights)
 
