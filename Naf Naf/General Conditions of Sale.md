@@ -346,7 +346,7 @@ L’adhésion au Programme NAF GOLD donne le droit à l’Adhérent à des avant
 
  
 
-_\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion ou en soldes, opérations NAF DAYS, et non utilisable sur les produits suivants : bijoux, collants, parfums, carte cadeau et chèques-cadeau. Abonnement non-utilisable dans les boutiques OUTLET et sur la capsule Héritage._
+_\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion ou en soldes, opérations NAF DAYS, et non utilisable sur les produits suivants : bijoux, collants, parfums, carte cadeau et chèques-cadeau, étoiles noires, capsule Héritage. Abonnement non-utilisable dans les boutiques OUTLET._
 
  
 
@@ -576,4 +576,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 07/03/23
+Dernière mise à jour des CGV : le 22/03/23
