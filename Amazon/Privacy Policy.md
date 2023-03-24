@@ -1,7 +1,7 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
-Dernière mise à jour le 5 octobre 2022. [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
+Dernière mise à jour le 23 mars 2023. [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de la confiance que vous nous accordez pour les traiter scrupuleusement, avec précaution, et à bon escient. Cette Notice décrit nos procédés de collecte et de traitement de vos informations personnelles via les sites, appareils, produits, services, points de vente physiques, magasins en ligne et applications d'Amazon faisant référence à la présente Notice (ci-après ensemble les "Services Amazon").
 
@@ -89,7 +89,7 @@ Nous pourrons également être amenés à requérir votre consentement pour le t
 Qu'en est-il des cookies et des autres identificateurs ?
 --------------------------------------------------------
 
-Nous utilisons des cookies et des outils similaires afin d'améliorer votre expérience d'achat, fournir nos services, comprendre comment les clients utilisent nos services afin de pouvoir apporter des améliorations, et afficher des publicités. Des tiers approuvés utilisent également ces outils en relation avec l'affichage de nos publicités. Pour plus d'informations concernant les cookies et l'usage que nous en faisons, veuillez vous référer à notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). Vous pouvez modifier vos préférences en matière de Cookies sur [Personnaliser les préférences sur les cookies](https://www.amazon.fr/cookieprefs?ref_=cookies_notice_cpp).
+Nous utilisons des cookies et des outils similaires afin d'améliorer votre expérience d'achat, fournir nos services, comprendre comment les clients utilisent nos services afin de pouvoir apporter des améliorations, et afficher des publicités. Des tiers approuvés utilisent également ces outils en relation avec l'affichage de nos publicités. Pour plus d'informations concernant les cookies et l'usage que nous en faisons, veuillez vous référer à notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). Vous pouvez modifier vos préférences en matière de Cookies sur [Personnaliser les préférences sur les cookies](https://www.amazon.fr/gp/help/customer/www.amazon./privacyprefs/retail).
 
 Amazon Europe partage-t-elle vos informations personnelles ?
 ------------------------------------------------------------
@@ -164,7 +164,7 @@ Veuillez [contacter notre Service Clientèle](https://www.amazon.fr/contact-us) 
 
 * La section Aide de la barre d'outils de la plupart des navigateurs et appareils vous indique comment refuser les nouveaux "cookies" ou recevoir de votre navigateur un message signalant leur réception ou comment désactiver tous les "cookies". Dans la mesure où les "cookies" vous permettent de bénéficier de certaines fonctionnalités essentielles des Services Amazon, nous vous conseillons de les laisser actifs. Par exemple si vous choisissez de bloquer ou de refuser nos cookies, vous ne pourrez pas ajouter de produits à votre panier de commande, finaliser votre commande ou utiliser les Services Amazon qui nécessitent l'ouverture d'un compte. Pour plus d'informations sur les cookies, veuillez consulter notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GVASXV5UZ64R4Y25).
 
-* Vous pouvez consentir ou retirer votre consentement aux cookies publicitaires de tiers [ici](https://www.amazon.fr/cookieprefs/partners).
+* Vous pouvez consentir ou retirer votre consentement aux cookies publicitaires de tiers [ici](https://www.amazon.fr/gp/help/customer/www.amazon./privacyprefs/retail).
 
 * Si vous souhaitez naviguer anonymement sur nos sites internet, sans relier l'activité de navigation à votre compte, vous pourrez le faire en vous [déconnectant](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C) de votre compte et en désactivant les cookies sur votre navigateur.
 
