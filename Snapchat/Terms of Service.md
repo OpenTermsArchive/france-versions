@@ -59,11 +59,6 @@ Nous sommes toujours ravis de connaître l'avis de nos utilisateurs. Mais si vou
 
 Des termes et conditions supplémentaires figurant sur la page [Conditions et politiques de Snap](https://snap.com/fr-FR/policies) ou qui sont autrement mis à votre disposition peuvent s'appliquer à des services spécifiques. Si vous utilisez ces Services, alors ces conditions supplémentaires deviennent parties des présentes Conditions. Si l'une des conditions supplémentaires applicables est en contradiction avec les présentes Conditions, les conditions supplémentaires prévaudront pendant que vous utilisez les Services auxquels elles s'appliquent.
 
-5\. Confidentialité
--------------------
-
-Votre confidentialité est importante pour nous. Vous pouvez en savoir plus sur la manière dont vos informations sont traitées lorsque vous utilisez nos Services en consultant notre [Politique de confidentialité](https://snap.com/fr-FR/privacy/privacy-policy/).
-
 6\. **Les Contenus des Tiers**
 ------------------------------
 
@@ -101,26 +96,6 @@ Vous devez également respecter les droits Snap et adhérer à la [Charte de la 
 * accéder aux services ou les utiliser d'une manière qui n'est pas expressément autorisée par les présentes Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines)
     
 
-8\. Respect des droits d'autrui
--------------------------------
-
-Snap respecte les droits d'autrui. Et vous devriez aussi. Vous ne pouvez donc pas utiliser les Services ou inciter quelqu'un d'autre à utiliser les Services de manière à enfreindre ou violer le droit de publicité, de confidentialité, de droit d'auteur, de marque déposée ou tout autre de droit de propriété intellectuelle de quelqu'un d'autre. Lorsque vous soumettez du contenu au Service, vous êtes seul responsable et vous devez vous assurer que vous êtes propriétaire de ce contenu, ou que vous avez reçu toutes les permissions et autorisations nécessaires afin de le soumettre au Service (y compris, le cas échéant, le droit de faire des reproductions mécaniques des œuvres musicales incorporées dans tout enregistrement sonore, de synchroniser toutes les compositions avec tous les contenus, d’interpréter publiquement des compositions ou tout enregistrement sonore, ou tout autre droit applicable pour toute musique non fournie par Snap que vous incluez dans votre contenu) et de concéder les droits et les licences contenus dans ces Conditions pour votre contenu. Vous acceptez également de ne pas utiliser ou tenter d'utiliser le compte d'un autre utilisateur à moins que Snap ou ses sociétés affiliées ne l'autorise.
-
-Snap respecte les lois sur les droits d'auteur, y compris le Digital Millennium Copyright Act et prend des mesures raisonnables pour retirer rapidement de nos Services tout matériel en infraction dont nous avons connaissance. Lorsque Snap prend conscience qu'utilisateur a enfreint a plusieurs reprises les droits d'auteur, nous prendrons des mesures raisonnables en notre pouvoir pour résilier le compte de l'utilisateur. Si vous pensez que quoi que ce soit dans les Services enfreint un droit d'auteur que vous possédez ou contrôlez, veuillez le signaler en utilisant le formulaire accessible via cet [outil](https://support.snapchat.com/a/infringement-reporting-about). Ou vous pouvez déposer un avis auprès de notre agent désigné : Snap Inc, Attn : Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email : copyright @ snap.com. N'utilisez pas cette adresse e-mail pour autre chose que le signalement d'une violation du droit d'auteur, car de tels e-mails seront ignorés. Pour signaler d'autres formes de violation des Services, veuillez utiliser l'outil accessible [ici](https://support.snapchat.com/a/infringement-reporting-about). Si vous signalez une infraction auprès de notre Copyright Agent, votre avis doit :
-
-* contenir la signature physique ou électronique d'une personne autorisée à agir pour le compte du titulaire du droit d'auteur ;
-    
-* identifier l'élément protégé par le droit d'auteur susceptible d'avoir été enfreint ;
-    
-* identifier l'élément dont la violation est alléguée ou qui est prétendument l'objet d'activités contrefaisantes et qui doit être supprimé, ou dont l'accès doit être désactivé, et fournir des renseignements raisonnablement suffisants pour nous permettre de localiser l'élément ;
-    
-* fournir vos coordonnées, notamment votre adresse, numéro de téléphone et une adresse e-mail ;
-    
-* fournir une déclaration personnelle indiquant que vous croyez de bonne foi que l'utilisation de l'élément faisant l'objet de la demande n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi ; et
-    
-* fournir une déclaration indiquant que les informations contenues dans la notification sont exactes et que, sous peine de parjure, vous êtes autorisé à agir au nom du titulaire du droit d'auteur.
-    
-
 9\. Sécurité
 ------------
 
@@ -129,11 +104,6 @@ Nous veillons particulièrement à ce que nos Services constituent un espace sé
 Si vous ne vous conformez pas à ces règles, nous nous réservons le droit de supprimer tout contenu offensant, de supprimer, ou de limiter la visibilité de votre compte, et de le notifier aux tiers — y compris les forces de l'ordre — et de fournir à ces tiers des informations relatives à votre compte. Cette mesure peut s'avérer nécessaire pour protéger la sécurité de nos utilisateurs et d'autres personnes, pour enquêter sur d'éventuelles violations des Conditions, y remédier et les faire respecter, et pour détecter et résoudre toute fraude ou problème de sécurité.
 
 Votre sécurité physique quand vous utilisez nos Services est importante pour nous. N'utilisez donc pas nos Services d'une manière qui pourrait vous mettre dans une situation où vous enfreindriez le code de la route ou les lois sur la sécurité. Par exemple, il vous est interdit d'utiliser les Services quand vous conduisez. Ne mettez jamais non plus votre sécurité, ou celle des autres, en danger juste pour prendre un Snap.
-
-10\. Votre compte
------------------
-
-Pour utiliser certains Services, vous devez créer un compte. Vous acceptez de nous fournir des informations exactes, complètes et à jour pour votre compte. Vous êtes responsable de toute activité sur votre compte. Il est donc important de veiller à préserver la sécurité de votre compte. Une des manières de le faire est de choisir un mot de passe fiable que vous n'utilisez pas pour d'autres comptes. Si vous pensez que quelqu'un a accédé à votre compte, veuillez contacter immédiatement l'[assistance](https://support.snapchat.com/a/hacked-howto/). Tout logiciel que nous vous fournissons peut télécharger et installer automatiquement des mises à niveau, des mises à jour ou d'autres nouvelles fonctionnalités. Vous pouvez régler et ajuster ces téléchargements automatiques dans les réglages de votre appareil. Vous acceptez de ne pas créer de compte si nous vous avons précédemment retiré ou banni, vous ou votre compte, de l'un de nos services, sauf accord contraire de notre part.
 
 11\. Memories
 -------------
@@ -174,19 +144,6 @@ Quelle que soit la personne qui résilie ces conditions, vous et Snap continuez 
 
 Dans la mesure permise par la loi, vous acceptez d'indemniser, de défendre et dégager Snap, nos sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licences et mandataires de toute responsabilité et contre toutes plaintes, accusation, réclamations, dommages-intérêts, pertes, coûts, dettes, et dépenses (y compris les honoraires d'avocat) dues ou liées de quelque manière que ce soit : (a) à votre accès aux Services ou à leur utilisation ; (b) à votre contenu, y compris les plaintes relatives à sa violation ; (c) votre violation des présentes conditions ou de toute loi ou réglementation applicable ; ou (d) votre négligence ou votre faute intentionnelle.
 
-16\. Clause de non-responsabilité
----------------------------------
-
-Nous nous efforcerons de maintenir les Services opérationnels et exempts de désagréments. Mais nous ne promettons pas d'y parvenir.
-
-Les services sont fournis « tels quels » et « sous réserve de disponibilité », dans la limite autorisée par la loi et à l'exception de ce qui est indiqué ci-dessus, sans garantie d'aucune sorte, expresse ou implicite, y compris, sans que cela soit exhaustif, les garanties, conditions ou autres termes implicites liés à la valeur marchande, au niveau de qualité satisfaisant, à l'adéquation à une finalité particulière, au droit de propriété, à la jouissance paisible et à l'absence de contrefaçon, ou découlant de pratiques commerciales établies. **En outre, bien que Snap Group Limited s'efforce de fournir une bonne expérience utilisateur, nous ne garantissons, ni ne déclarons : a) que les Services seront entièrement sécurisés, sans erreur ou en temps voulu ; b) que les Services fonctionneront toujours sans retards, perturbation ou imperfections ;** ou c) que tout contenu ou informations que vous obtenez par l'intermédiaire des Services sera toujours ponctuel ou exact.
-
-**SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS LES EXONÉRATIONS PRÉVUES DANS CETTE CLAUSE, ELLES NE DOIVENT PAS S'APPLIQUER**
-
-**En vertu de la loi, Snap Group Limited, Snap Inc. et nos sociétés affiliées ne prennent aucune responsabilité et n'assument aucune responsabilité pour tout contenu que vous, un autre utilisateur ou un tiers, créez, téléchargez, affichez, envoyez, recevez, visualisez, ou stockez sur ou via nos Services et vous comprenez que vous pouvez être exposé à un contenu offensant, illégal, trompeur ou inapproprié, dont ni Snap Group Limited, ni Snap Inc, encore moins nos sociétés affiliées n'en seront responsables.**
-
-**Rien dans ces conditions n'exclura ni ne limitera toute responsabilité que nous pourrions avoir pour supprimer du contenu, si la loi du pays dans lequel vous vivez l'exige.**
-
 17\. Limitation de responsabilité
 ---------------------------------
 
@@ -197,15 +154,6 @@ Les services sont fournis « tels quels » et « sous réserve de disponibilité
 **En outre, aucune disposition contenue dans les présentes Conditions n'affecte vos droits statutaires en tant que consommateur**
 
 **SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS UNE LIMITATION DE RESPONSABILITÉ PRÉVUE DANS CETTE CLAUSE, CELLE-CI NE S'APPLIQUERA PAS.**
-
-18\. Règlement des différends et arbitrage
-------------------------------------------
-
-Si vous avez un problème, nous pouvons en discuter. [Contactez-nous](https://support.snapchat.com/) et nous ferons de notre mieux pour résoudre le problème.
-
-Certains de nos Services sont susceptibles de disposer de conditions supplémentaires comportant des clauses de règlement des différends spécifique au Service concerné ou à votre lieu de résidence.
-
-**Si vous utilisez les Services au nom d'une entreprise (plutôt que pour votre usage personnel), vous et Snap Group Limited convenez, dans la limite autorisée par la loi, que l'ensemble des réclamations et litiges susceptibles de surgir entre nous au regard des présentes Conditions ou de l'utilisation des Services seront définitivement réglés sur la base des** [**Règles d'arbitrage contraignantes de la LCIA**](http://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)**, qui sont incorporés par référence dans la présente clause. La mission d'arbitrage sera confiée à un seul arbitre (devant être désigné par la LCIA), l'arbitrage se déroulera à Londres et l'arbitrage sera mené en anglais. Si vous ne voulez pas accepter cette clause, vous ne devez pas utiliser les Services.**
 
 19\. Lieu exclusif
 ------------------
@@ -221,11 +169,6 @@ Les lois d'Angleterre et du pays de Galle régissent les présentes Conditions e
 -----------------
 
 Si l'une ou plusieurs dispositions des présentes Conditions devait s'avérer inapplicable, elle serait séparée des présentes Conditions et n’affecterait en rien la validité et le caractère exécutoire des autres dispositions.
-
-22\. Conditions finales
------------------------
-
-Ces Conditions finales, y compris les conditions supplémentaires précisées dans l'Article 4, constituent l'intégralité de l'accord entre Snap et vous, et remplace tout précédents accord. Les présentes Conditions ne créent ni ne confèrent de droits à aucun tiers. Si nous ne nous prévalons pas une des dispositions contenues dans les présentes Conditions, cela ne sera pas considéré comme une renonciation. Nous nous réservons le droit de transférer nos droits en vertu des présentes Conditions et de fournir les Services en utilisant une autre entité, à condition que cette entité respecte ces Conditions. Vous ne pouvez céder aucun de vos droits ou vos obligations en vertu des présentes Conditions sans notre consentement. Nous nous réservons tous les droits qui ne vous ont pas été expressément octroyés.
 
 Contactez-nous
 --------------
