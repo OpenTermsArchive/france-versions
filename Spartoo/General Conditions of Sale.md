@@ -183,11 +183,11 @@ Les délais de livraisons indiqués ont comme référence la date de commande et
 
 **Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
 Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
-Coût de la livraison : gratuite  
-  
+Coût de la livraison si la commande est inférieur à 30 € : 2.99 €  
+Coût de la livraison si la commande est supérieur à 30 € : gratuite  
 **Livraison à domicile standard (Colissimo ou Colis Privé):**  
 Délai : 4 jours garantis  
-Coût de la livraison:
+Coût de la livraison:  
 
   
   
@@ -195,36 +195,43 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5€ si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 3 € si inférieur à 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
+| 4.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 2.99 € si inférieur à 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
 
   
 
 **Livraison à domicile Express (Chronopost ou Colis Privé Express) :**  
 livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour toute commande effectuée avant 13h  
-Coût de la livraison : 7€
+Coût de la livraison : 6.99 €
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-Coût de la livraison : 3€
+Coût de la livraison : 2.99 €
 
   
 9.2.Belgique  
 
 **Livraison à domicile BPOST :**  
-Délai: 5 jours ouvrés  
-Coût de la livraison : gratuite  
+Délai : 5 jours ouvrés  
+
+|     |     |     |
+| --- | --- | --- |
+| Commandes de <40€ | Commandes de 40 € a 60 € | Commandes de >60 € |
+| Coût de la livraison 4.99 € | Coût de la livraison 2.99 € | Livraison gratuite |
+
+  
 
 **Livraison en relais Mondial Relay**  
 Délai : 4 jours garantis pour Mondial Relay  
-Coût de la livraison : gratuite  
+Coût de la livraison si la commande est inférieur à 30 € : 2.99 €  
+Coût de la livraison si la commande est supérieur à 30 € : gratuite  
 
 **Livraison à domicile UPS STANDARD :**  
-Délai:3 jours ouvrés  
-Coût de la livraison : 7€
+Délai: 3 jours ouvrés  
+Coût de la livraison : 6.99 €
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
-Coût de la livraison : 10 €
+Coût de la livraison : 9.99 €
 
   
 9.3.Luxembourg  
@@ -238,7 +245,7 @@ Coût de la livraison :
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5€ si inférieur à 100 € d'achats  <br>Gratuit à partir de 100 € d'achats | 7 € si inférieur à 40 €  <br>3 € si inférieur à 60 €  <br>Gratuit à partir de 60 € d'achats |
+| 4.99 € si inférieur à 100 € d'achats  <br>Gratuit à partir de 100 € d'achats | 6.99 € si inférieur à 40 €  <br>2.99 € si compris entre 40 € et 60 €  <br>Gratuit à partir de 60 € d'achats |
 
   
 9.4.DROM-COM  
@@ -279,7 +286,9 @@ Le client recevra son colis avec une liasse jointe comprenant la facture et le d
   
 **Livraison à domicile standard :**  
 Délai : 5 jours environ.  
-Coût de la livraison : Gratuite  
+Coût de la livraison si la commande est inférieur à 30 € : 2.99€  
+Coût de la livraison si la commande est supérieur à 30 € : gratuite  
+  
 
   
 9.6. Andorre  
@@ -299,8 +308,8 @@ Le client recevra son colis avec une liasse jointe comprenant la facture et le d
 **Livraison standard :**  
 Délai : indiqué sur la page de paiement en fonction du pays de livraison (généralement compris entre 10 et 20 jours ouvrés)  
 Coût de la livraison :  
-10€ si inférieur à 50€ d'achats  
-Gratuit au dessus de 50€ d'achats  
+10 € si inférieur à 50 € d'achats  
+Gratuit au dessus de 50 € d'achats  
 
   
 
