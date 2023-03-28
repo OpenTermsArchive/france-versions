@@ -49,7 +49,7 @@ Lorsque la commande est confirmée par JENNYFER, un email récapitulatif de comm
 
 **3****.4. Paiement de la Commande**
 
-Le Client peut régler la commande en ligne par carte bancaire (Visa, Mastercard), par Paypal ou en utilisant la e-carte cadeau JENNYFER (la carte cadeau magasin n’est pas utilisable sur [le](http://www.jennyfer.com/) Site – pour plus de renseignements sur les cartes cadeaux JENNYFER, le Client est invité à consulter la rubrique « faq – aide » du Site).
+Le Client peut régler la commande en ligne par carte bancaire (Visa, Mastercard), par Paypal ou en utilisant la e-carte cadeau JENNYFER (la carte cadeau magasin n’est pas utilisable sur [le](https://www.jennyfer.com/) Site – pour plus de renseignements sur les cartes cadeaux JENNYFER, le Client est invité à consulter la rubrique « faq – aide » du Site).
 
 Le Client garantit à JENNYFER disposer des autorisations nécessaires à l’usage du mode de paiement choisi. En cas de paiement par carte bancaire, les informations de facturation que le Client déclare lors de la Commande doivent correspondre à celles du titulaire de la carte de paiement utilisée, afin de permettre à JENNYFER de contacter ce dernier directement si nécessaire, notamment aux fins de vérifications ou de demande d’informations complémentaires.
 
@@ -137,7 +137,7 @@ Au moment de la réception de la commande, le Client doit vérifier que les Arti
 
 Dans l’hypothèse où, après réception de la commande, le Client constate qu’un ou plusieurs Articles commandés n’ont pas été livrés ou ne correspondent pas aux Articles commandés, il doit en informer JENNYFER, dans un délai de sept (7) jours ouvrés suivant la livraison de la commande par l’un des moyens de contact suivant  :
 
-\- en utilisant le formulaire de contact accessible sur le lien [https://www.jennyfer.com/fr-fr/contact-us](https://www.jennyfer.com/fr-fr/contact-us) ; ou
+\- en utilisant le formulaire de contact accessible sur le lien [de contact](https://jennyfer.my.salesforce-sites.com/) ; ou
 
 \- par email à l’adresse [serviceclients@jennyfer.com](mailto:serviceclients@jennyfer.com).
 
@@ -165,7 +165,7 @@ Dans l’hypothèse où le Client constate un défaut de conformité et/ou vice 
 
 **9. DONNEES A CARACTERE PERSONNEL**
 
-JENNYFER accorde une importance fondamentale à la vie privée de tout un chacun. En conséquence, les traitements effectués par JENNYFER sont strictement limités et encadrés par le présent Article. Sauf disposition contraire des CGV, les dispositions des conditions générales d’utilisation (les **« CGU »)** accessibles en suivant le lien [https://www.jennyfer.com/fr-fr/mentions-legales-legalnotices.html](https://www.jennyfer.com/fr-fr/mentions-legales-legalnotices.html) sont applicables aux données à caractère personnel du Client.
+JENNYFER accorde une importance fondamentale à la vie privée de tout un chacun. En conséquence, les traitements effectués par JENNYFER sont strictement limités et encadrés par le présent Article. Sauf disposition contraire des CGV, les dispositions des conditions générales d’utilisation (les **« CGU »)** accessibles en suivant le lien [de nos mentions légales](https://www.jennyfer.com/fr-fr/mentions-legales-conditions-generales-d%E2%80%99utilisation-legalnotices.html) sont applicables aux données à caractère personnel du Client.
 
 **9.1. Types de données pouvant être collectées**
 
@@ -238,7 +238,7 @@ Pour toute réclamation, le Client peut contacter le service client de JENNYFER 
 
 \- par email à l’adresse [serviceclients@jennyfer.com](mailto:serviceclients@jennyfer.com)  ;
 
-\- en remplissant le formulaire disponible à l’adresse [https://www.jennyfer.com/fr-fr/faq-covid-mageshop.html](http://www.jennyfer.com/fr-fr/contact-us).
+\- en remplissant le formulaire disponible à l’adresse [https://www.jennyfer.com/fr-fr/faq-covid-mageshop.html](https://jennyfer.my.salesforce-sites.com/).
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, JENNYFER adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :[60 Rue La Boétie – 75008 Paris](https://maps.google.com/?q=60+Rue+La+Bo%C3%A9tie+%E2%80%93+75008+Paris&entry=gmail&source=g) – [https://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de JENNYFER, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur-2/). 
 
