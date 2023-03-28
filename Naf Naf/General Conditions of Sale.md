@@ -103,7 +103,7 @@ La procédure décrite aux articles 5.1 à 5.4 s’applique de la même manière
 ARTICLE 6. LIVRAISON
 --------------------
 
-Dès 69 euros d'achat, la livraison est offerte en Relais Colis et Colissimo en France Métropolitaine.  
+Dès 89 euros d'achat, la livraison est offerte via Mondial Relay en France Métropolitaine.  
   
 Le site livre la France Métropolitaine, la Belgique, le Luxembourg, Monaco et Andorre.  
   
@@ -124,9 +124,9 @@ Les tarifs de livraisons ainsi que le coût des retours sont indiqués dans le t
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | MODE DE LIVRAISON | PAYS DE LIVRAISON | COÛTS | DELAIS | COÛT DU RETOUR |
-| BOUTIQUE | France Métropolitaine | Gratuit | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
-| RELAIS COLIS | France Métropolitaine et Monaco | 4,95€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Relais Colis (pas de retour en boutique) |
-| COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€ et Gratuit dès 69€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge |
+| BOUTIQUE | France Métropolitaine | Gratuit | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Mondial Relay (pas de retour en boutique) |
+| MONDIAL RELAY | France Métropolitaine et Monaco | 4,5€ et Gratuit dès 89€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Mondial Relay (pas de retour en boutique) |
+| COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€  | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge en Colissimo |
 | CHRONOPOST | Belgique | 6€  | 3 à 8 jours | A votre charge,  <br>transporteur au choix |
 | CHRONOPOST | Luxembourg | 6€  | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
 
@@ -270,11 +270,11 @@ Le Client pourra exercer ces garanties en adressant sa demande au Service Client
 ARTICLE 10. PROGRAMME DE FIDELITE « NAF GOLD »
 ----------------------------------------------
 
-**_Par dérogation aux présentes CGV, les modalites prevues relativement a l’abonnement au programme naf gold lui sont propres et ne peuvent beneficier qu’aux clients abonnes naf gold._**  
+**_Par dérogation aux présentes CGV, les modalites prevues relativement a l’abonnement au programme naf gold lui sont propres et ne peuvent beneficier qu’aux clients abonnés NAF GOLD avant le 31 mars 2023 exclusivement et suivant les conditions ci-après._**  
    
 **_10.1 - Conditions d’adhésion_**   
   
-Le Programme NAF GOLD est ouvert à toute personne physique, ayant plus de 18 ans, le Client devant, au moment de l’adhésion, renseigner son nom, prénom, adresse mail et numéro de téléphone.  
+Le Programme NAF GOLD est ouvert jusqu'au 31 mars 2023 à toute personne physique, ayant plus de 18 ans, le Client devant, au moment de l’adhésion, renseigner son nom, prénom, adresse mail et numéro de téléphone. Il ne sera toutefois plus possible d'adhérer au programme NAF GOLD d'une quelconque manière après le 31 mars 2023.  
    
 L’adhésion est payante au prix de 24 euros par an, payable en une fois lors de la souscription.  
    
@@ -356,7 +356,7 @@ _\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion 
 
  _ATTENTION :_ _offre valable uniquement_ _dans les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10 .2, à l’exception des boutiques NAF NAF OUTLET._
 
-* Livraison gratuite en Point Relais (Relais Colis) uniquement, pour toute Commande comprenant des articles éligibles à l'offre NAF GOLD, réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
+* Livraison gratuite en Point Relais (Mondial Relay) uniquement, pour toute Commande comprenant des articles éligibles à l'offre NAF GOLD, réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
 
  
 
@@ -435,18 +435,14 @@ Au moment du paiement, le client se verra automatiquement appliquer les réducti
    
 **_10.7.2 - Livraison_** **_NAF GOLD_**    
   
-Livraison gratuite via Relais Colis pour toute commande GOLD comprenant des références éligibles à l'offre NAF GOLD, expédiée en France métropolitaine  (Corse incluse) et Monaco.  
+Livraison gratuite via Mondial Relay pour toute commande GOLD comprenant des références éligibles à l'offre NAF GOLD, expédiée en France métropolitaine  (Corse incluse) et Monaco.  
    
-Mode de transport éligible : Relais Colis  
+Mode de transport éligible : Mondial Relay  
    
 _Disposition non valable pour le Luxembourg, la Belgique et Andorre._  
    
    
 Il est par ailleurs rappelé que :  
- 
-
-* la livraison en Colissimo est déjà offerte pour tout achat supérieur à 69€, à destination de la France (Corse incluse), Monaco et Andorre ;
-
  
 
 * la livraison en boutique est également gratuite, sans minimum d’achat, en France métropolitaine (hors Corse) et Monaco.
@@ -576,4 +572,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 22/03/23
+Dernière mise à jour des CGV : le 28/03/23
