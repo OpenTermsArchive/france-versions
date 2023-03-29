@@ -121,7 +121,7 @@ Le Canada est reconnu adéquat par l’UE pour les traitements réalisés dans l
 **9\. Pour exercer vos droits**  
   
 9.1 - KAPPA FRANCE peut vous adresser des offres relatives à ses produits et services par e-mail ou par SMS, ainsi que des offres pour les produits et services de sociétés partenaires, sous réserve, dans ce dernier cas, de votre consentement. Vous pouvez le retirer à tout moment.  
-Vous restez libre de vous opposer à tout moment à recevoir ces offres par email en vous désabonnant de la Newsletter depuis votre compte client sur le site kappastore.fr ou en cliquant sur le lien de désabonnement figurant dans chaque e-mail ou en contactant le Service Clients (via notre site internet : https://www.kappastore.fr/pages/contact ou par email service.clients@kappa.com).  
+Vous restez libre de vous opposer à tout moment à recevoir ces offres par email en vous désabonnant de la Newsletter depuis votre compte client sur le site kappastore.fr ou en cliquant sur le lien de désabonnement figurant dans chaque e-mail ou en contactant le Service Clients (via notre site internet : https://www.kappastore.fr/pages/contact ou par email serviceclients@kappa.fr).  
 Vous restez libre de vous opposer à tout moment à recevoir ces offres par SMS en répondant « STOP SMS » au numéro figurant dans chaque SMS ou en contactant le Service Clients.  
   
 9.2 - Vous pouvez de plein droit accéder aux Données que nous détenons sur vous et corriger, mettre à jour, rectifier, supprimer, effacer ou modifier de toute autre façon vos Données dès lors qu’elles sont inexactes ou ont été traitées en violation des réglementations en vigueur en matière de protection des Données.  
