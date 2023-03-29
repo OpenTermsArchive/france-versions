@@ -59,7 +59,7 @@ Une seule ouverture de Compte Client par personne est autorisée. KAPPA FRANCE s
 
 **4.1 Clôture du Compte Client**
 
-Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappa.fr/pages/contact](https://www.kappastore.fr/pages/contact). Ou par email : [service.clients@kappa.com](https://www.kappastore.fr/pages/service.clients@kappa.com).
+Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappa.fr/pages/contact](https://www.kappastore.fr/pages/contact). Ou par email : serviceclients@kappa.fr
 
 **ARTICLE 5 – COMMANDE DES PRODUITS**
 
@@ -188,7 +188,7 @@ Le Client recevra, lors de la livraison, une facture détaillant le prix de chac
 
 Le Client est expressément informé qu’il lui appartient, lors de la livraison du Produit, de vérifier son état général (avarie, colis endommagé, etc.) ainsi que son contenu et de s’assurer que celui-ci est conforme à sa Commande (désignation, quantité, etc.). Si tel n’est pas le cas le Client doit impérativement faire valoir ses remarques ou ses réserves expresses et écrites sur le bon de livraison.
 
-Toute anomalie concernant les Produits (avarie, Produit manquant par rapport au bon de commande, colis endommagé ou ouvert, article cassé, défectueux...) devra être impérativement notifiée à KAPPA FRANCE dans les trois (3) jours suivant la date de livraison par e-mail à l’adresse suivante : service.clients@kappa.com. Il appartient au Client de fournir toute justification quant à la réalité des vices ou anomalies constatés.
+Toute anomalie concernant les Produits (avarie, Produit manquant par rapport au bon de commande, colis endommagé ou ouvert, article cassé, défectueux...) devra être impérativement notifiée à KAPPA FRANCE dans les trois (3) jours suivant la date de livraison par e-mail à l’adresse suivante : serviceclients@kappa.fr. Il appartient au Client de fournir toute justification quant à la réalité des vices ou anomalies constatés.
 
 KAPPA FRANCE indiquera au Client les démarches à effectuer, notamment concernant le retour du Produit. En cas de défaut avéré et constaté par KAPPA FRANCE, il sera procédé à ses frais, à un remplacement du Produit vicié ou endommagé, selon ses stocks disponibles ou au choix du Client à son remboursement. En cas d'impossibilité de remplacer le Produit défectueux, KAPPA FRANCE procédera au remboursement du Produit.
 
@@ -208,7 +208,7 @@ Les remboursements se feront selon les modalités prévues au 8.3.
 
 Le Client ayant la qualité de consommateur, dispose d'un délai de rétractation de quatorze (14) jours à compter de la réception du ou des Produit(s) commandé(s), sans avoir à justifier de motifs.
 
-Dans ce cas, le Client informe KAPPA FRANCE de sa décision au moyen d'une déclaration écrite dénuée d'ambiguïté, par exemple en renvoyant le formulaire ci-dessous par email (service.clients@kappa.com) ou par courrier (à l’adresse 41 rue de Bobby Sands, 44800 SAINT-HERBLAIN) :
+Dans ce cas, le Client informe KAPPA FRANCE de sa décision au moyen d'une déclaration écrite dénuée d'ambiguïté, par exemple en renvoyant le formulaire ci-dessous par email (serviceclients@kappa.fr) ou par courrier (à l’adresse 41 rue de Bobby Sands, 44800 SAINT-HERBLAIN) :
 
 **Modèle de formulaire de rétractation**
 
@@ -312,7 +312,7 @@ Le Client est informé que lors de l’utilisation du Site, un lien peut le cond
 
 Les Conditions Générales, ainsi que les Commandes sont exclusivement soumises à la loi française.
 
-Le Client est invité à informer KAPPA FRANCE par email ([service.clients@kappa.com](mailto:service.clients@kappa.com)) de toute réclamation.
+Le Client est invité à informer KAPPA FRANCE par email (serviceclients@kappa.fr) de toute réclamation.
 
 Si aucune solution n’est trouvée avec le service client de KAPPA France et conformément à l’article L612-1 du Code de la Consommation, le Client peut recourir gratuitement au service de médiation.
 
