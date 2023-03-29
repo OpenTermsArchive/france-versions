@@ -4,7 +4,7 @@ Conditions générales de vente des produits vendus et expédiés par Rue du Com
 [**  
 Mentions légales**](https://www.rueducommerce.fr/info/mentions-legales)[](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
 
-1\. Préambule
+1\. PRÉAMBULE
 -------------
 
 ### 1.1 La société Rue du Commerce : informations légales
@@ -13,7 +13,7 @@ La société Rue du Commerce est **une société par actions simplifiée** au ca
 
 ### 1.2 La boutique Rue du Commerce : quelles informations y figurent ?
 
-La société Rue du Commerce a mis en place et exploite les sites "[www.RueduCommerce.com](https://www.rueducommerce.fr/)", "[www.RueduCommerce.fr](https://www.rueducommerce.fr/)" et les applications et services mobiles Rue du Commerce, ci-après dénommés « **Rue du Commerce** ».
+La société Rue du Commerce a mis en place et exploite les sites "[www.rueducommerce.com](https://www.rueducommerce.fr/)", "[www.rueducommerce.fr](https://www.rueducommerce.fr/)" et les applications et services mobiles Rue du Commerce, ci-après dénommés « **Rue du Commerce** ».
 
 Le site Rue du Commerce est présenté en langue française. Sont notamment indiquées les informations suivantes :
 
@@ -58,7 +58,7 @@ Aussi, nous vous invitons à prendre connaissance de la version en vigueur au jo
 A cette fin, vous nous invitons à sauvegarder les conditions générales de vente valables au moment de la passation de votre commande.
 
    
-2\. Les offres de Rue du Commerce
+2\. LES OFFRES DE RUE DU COMMERCE
 -------------------------------------
 
 ### 2.1 Les conditions des offres : la disponibilité des produits ?
@@ -140,9 +140,9 @@ Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »*
 
 **Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
-**A noter que l’offre vendue directement par RUE DU COMMERCE sera toujours proposée en premier.  
+**A noter que l’offre vendue directement par Rue du Commerce sera toujours proposée en premier.  
 
-Ensuite, pour les offres proposées par les marchands de la Galerie marchande, RUE DU COMMERCE va opérer une agrégation pondérée de différents éléments :
+Ensuite, pour les offres proposées par les marchands de la Galerie marchande, Rue du Commerce va opérer une agrégation pondérée de différents éléments :
 
 \- Le prix du produit ;
 
@@ -187,7 +187,7 @@ Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétra
   
 Pour en savoir plus sur les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf).
 
-3\. Le traitement de la commande
+3\. LE TRAITEMENT DE LA COMMANDE
 --------------------------------
 
 ### 3.1 Informations lors de la commande : renseignements à fournir ?
@@ -210,7 +210,7 @@ Le délai de livraison ne commence à courir qu'à compter de la date d'expédit
 
 Veuillez également noter que tout document justificatif ou d’identité sont conservés uniquement pour la durée du contrôle et sont immédiatement détruits une fois le contrôle effectué. Par ailleurs, les opérateurs de contrôle font l’objet d’une habilitation spécifique permettant la consultation de vos documents qui ne sont pas consultables par le reste des équipes Rue Du Commerce dans un souci de confidentialité.
 
-4\. Le paiement du prix
+4\. LE PAIEMENT DU PRIX
 -----------------------
 
 ### 4.1 Description des moyens de paiement acceptés par Rue Du Commerce
@@ -279,7 +279,7 @@ Nous aurons le droit de refuser d'effectuer une livraison ou d'honorer une comma
 
 Nous conservons la pleine propriété des produits en vente, jusqu'au parfait encaissement de la totalité des sommes dues à l'occasion de votre commande (frais et taxes compris).
 
-5\. La livraison
+5\. LA LIVRAISON
 ----------------
 
 ### 5.1 Mode de transport : quels choix ?
@@ -314,7 +314,7 @@ Si le transport a déclaré votre colis livré mais que vous contestez cette liv
 
 Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effectué avant la clôture de l'enquête.
 
-6\. La réception de la commande
+6\. LA RÉCEPTION DE LA COMMANDE
 -------------------------------
 
 ### 6.1 La personne qui reçoit le colis : le soin à apporter ?
@@ -378,7 +378,7 @@ Il vous sera demandé de décrire précisément les motifs justifiant la non-con
 
 Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le cas où vous recevez une commande qui ne vous est pas destinée, vous êtes alors dans l'obligation de la rendre. A défaut, Rue du Commerce sera en droit de vous facturer le produit que vous avez indûment reçu.
 
-7\. Les modalités générales du retour
+7\. LES MODALITÉS GÉNÉRALES DU RETOUR
 -------------------------------------
 
 ### 7.1 Une gestion efficace des retours : l'attribution d'un numéro de traitement.
@@ -395,7 +395,7 @@ Nous vous informons que certains documents liés au(x) colis pourront vous être
 
 En cas de retour reçu au siège social de notre société et non à l'adresse de notre SAV, le colis sera refusé et retourné automatiquement à l'expéditeur. Si ce dernier n'a pas pu être refusé, nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
-A NOTER : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
+**A NOTER** : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
 Aussi, en cas de réception d’un produit non conforme (produit ne correspondant pas au produit qui devait être retourné), les frais de retour resteront à la charge du client.  
 Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
@@ -434,7 +434,7 @@ En présence d'une étiquette prépayée, les retours sont alors à adresser rap
   
 Pour des raisons d’hygiène, les colis retour devront également être propres et ne pas faire courir de risque sanitaire au personnel traitant le retour. Ainsi, la présence de déchets, détritus ou tous autres éléments que les emballages, produits et éléments complémentaires demandés dans le colis retour et qui représentent un risque sanitaire pour le personnel, fera l’objet d’un refus de prise en charge. Des photos seront réalisées et la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
 
-8\. Les modalités particulières d'un retour pour rétractation
+8\. LES MODALITÉS PARTICULIÈRES D'UN RETOUR POUR RÉTRACTATION
 -------------------------------------------------------------
 
 ### 8.1La durée du droit de rétractation : dans quels délais ?
@@ -455,7 +455,7 @@ Pour tous les produits commandés via la Galerie Marchande, les frais de retour 
 
 La rétractation de tout ou partie d’une commande annule la validité d’un code de réduction obtenu lors du passage de cette commande. Si le code de réduction a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
-### 8.2L´exercice du droit de rétractation : de quelle manière ?
+### 8.2 L´exercice du droit de rétractation : de quelle manière ?
 
 Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, via le formulaire de rétractation disponible depuis votre espace client.
 
@@ -486,7 +486,7 @@ En cas d'exercice du droit de rétractation, nous vous remboursons dans un déla
 
 Une fois votre colis retour arrivé à notre entrepôt, vous serez alors remboursé, selon le cas, par système de re-crédit (transaction sécurisée) en cas de paiement par carte bancaire, par un nouveau bon d'achat en cas de paiement par bon d'achat.
 
-9\. Les garanties des produits
+9\. LES GARANTIES DES PRODUITS
 ------------------------------
 
 ### 9.1 La garantie des produits : de quoi s'agit-il ?
@@ -624,12 +624,13 @@ Il est rappelé que la société Rue du Commerce ne saurait être tenue responsa
 
 En toute hypothèse, la garantie constructeur et la souscription d'une garantie complémentaire ne prive pas l'acheteur et/ou le consommateur des dispositions des garanties légales (notamment la garantie des vices cachés ou la garantie légale de conformité).
 
-10\. Les taxes & exportations
+10\. LES TAXES & EXPORTATIONS
 -----------------------------
 
 ### 10.1 Calcul du prix : quelles taxes ?
 
-Toute commande sera facturée toutes taxes comprises (TTC).
+Toute commande sera facturée toutes taxes comprises (TTC).  
+  
 
 ### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
 
@@ -652,7 +653,7 @@ Les droits de douanes, taxes locales, droits d'importation, ou taxes d'Etat susc
 
 Vous devez vous renseigner auprès des autorités locales de votre résidence sur les conditions d'entrée des produits commandés et vous devez effectuer toute déclaration et/ou paiement correspondants auprès des organismes compétents du pays concerné.
 
-11\. Produits de destockage
+11\. PRODUITS DE DESTOCKAGE
 ---------------------------
 
 ### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
@@ -687,8 +688,8 @@ A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **off
 
 Ils bénéficient d'une garantie 3 mois Rue du Commerce ou d'une garantie constructeur selon les cas.
 
-12. Mobilier et produits électriques et électroniques en fin de vie/usages
---------------------------------------------------------------------------
+12\. MOBILIER ET PRODUITS ÉLECTRIQUES ET ÉLECTRONIQUES EN FIN DE VIE/USAGES
+---------------------------------------------------------------------------
 
 ### 12.1 Les devoirs généraux de l'acheteur
 
@@ -698,7 +699,7 @@ Les équipements électriques et électroniques en fin de vie, obsolètes ou qui
 
 Pour les équipements électriques et électroniques et le mobilier, vous avez le choix entre soit déposer l'équipement ou le mobilier usagé auprès des déchèteries ou points de collecte de proximité mis en place par les collectivités locales, soit donner l'équipement ou le mobilier usagé à une association à vocation sociale, soit les faire reprendre par Rue du commerce en cas de livraison à domicile à condition d’en avoir fait la demande lors de la commande du produit ou auprès du service clients de Rue du commerce et dans la limite de la quantité et du type de produit acheté (ex : 1 article de mobilier vendu = 1 article de mobilier repris ; 1 équipement électrique et électronique vendu = 1 équipement électrique et électronique repris ; etc…). (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
 
-13\. Numéros d'identification unique au Registre National des Producteurs  
+13\. NUMÉROS D'IDENTIFICATION UNIQUE AU REGISTRE NATIONAL DES PRODUCTEURS  
 
 ----------------------------------------------------------------------------
 
@@ -717,7 +718,7 @@ En application des dispositions du Code de l’environnement, Rue du commerce s�
 Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
 
   
-14\. Les mentions légales & responsabilité
+14\. LES MENTIONS LÉGALES & RESPONSABILITÉ
 ---------------------------------------------
 
 ### 14.1 Exonération de responsabilité : les cas de force majeure.
@@ -760,7 +761,7 @@ Cette plateforme est accessible au lien suivant : [https://webgate.ec.europa.eu/
 
 Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-15\. Les conseils divers
+15\. LES CONSEILS DIVERS
 ------------------------
 
 ### 15.1 Attention aux risques de perte de données !
@@ -799,7 +800,7 @@ Veuillez noter que pour ces avis :
   
 \- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
-16\. Annexes
+16\. ANNEXES
 ------------
 
 ### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
@@ -836,7 +837,7 @@ Le vendeur est tenu de la garantie a raison des défauts cachés de la chose ven
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-17\. Vous avez une question ?
+17\. VOUS AVEZ UNE QUESTION ?
 -----------------------------
 
 **Pour vous aider dans votre choix des produits les plus adaptés à vos besoins, notre Service Conseil Avant-Vente est à votre disposition :**
@@ -860,7 +861,7 @@ L'action résultant des vices rédhibitoires doit être intentée par l'acquére
 [**  
 Mentions légales**](https://www.rueducommerce.fr/info/mentions-legales)[](https://www.rueducommerce.fr/info/mentions-legales/cgv)\- [Sécurité des données](https://www.rueducommerce.fr/info/mentions-legales/securite-des-donnees)\- [Conditions générales de vente de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgv-gm)\- [Conditions générales d'utilisation de la Galerie Marchande](https://www.rueducommerce.fr/info/mentions-legales/cgu-gm)\- [Reprise de l'ancien matériel](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel)\- [Protection des données personnelles](https://www.rueducommerce.fr/info/mentions-legales/confidentialite)
 
-1\. Préambule
+1\. PRÉAMBULE
 -------------
 
 ### 1.1 La société Rue du Commerce : informations légales
@@ -869,7 +870,7 @@ La société Rue du Commerce est **une société par actions simplifiée** au ca
 
 ### 1.2 La boutique Rue du Commerce : quelles informations y figurent ?
 
-La société Rue du Commerce a mis en place et exploite les sites "[www.RueduCommerce.com](https://www.rueducommerce.fr/)", "[www.RueduCommerce.fr](https://www.rueducommerce.fr/)" et les applications et services mobiles Rue du Commerce, ci-après dénommés « **Rue du Commerce** ».
+La société Rue du Commerce a mis en place et exploite les sites "[www.rueducommerce.com](https://www.rueducommerce.fr/)", "[www.rueducommerce.fr](https://www.rueducommerce.fr/)" et les applications et services mobiles Rue du Commerce, ci-après dénommés « **Rue du Commerce** ».
 
 Le site Rue du Commerce est présenté en langue française. Sont notamment indiquées les informations suivantes :
 
@@ -914,7 +915,7 @@ Aussi, nous vous invitons à prendre connaissance de la version en vigueur au jo
 A cette fin, vous nous invitons à sauvegarder les conditions générales de vente valables au moment de la passation de votre commande.
 
    
-2\. Les offres de Rue du Commerce
+2\. LES OFFRES DE RUE DU COMMERCE
 -------------------------------------
 
 ### 2.1 Les conditions des offres : la disponibilité des produits ?
@@ -996,9 +997,9 @@ Certaines offres peuvent apparaître accompagnées du terme **« sponsorisé »*
 
 **Lorsqu'un même produit est proposé sur le site Internet par Rue du Commerce et/ou par plusieurs marchands de la Galerie marchande, sa fiche produit regroupera plusieurs offres.  
   
-**A noter que l’offre vendue directement par RUE DU COMMERCE sera toujours proposée en premier.  
+**A noter que l’offre vendue directement par Rue du Commerce sera toujours proposée en premier.  
 
-Ensuite, pour les offres proposées par les marchands de la Galerie marchande, RUE DU COMMERCE va opérer une agrégation pondérée de différents éléments :
+Ensuite, pour les offres proposées par les marchands de la Galerie marchande, Rue du Commerce va opérer une agrégation pondérée de différents éléments :
 
 \- Le prix du produit ;
 
@@ -1043,7 +1044,7 @@ Le service Pack Reprise ne fait pas obstacle à l'application du droit de rétra
   
 Pour en savoir plus sur les conditions du Pack Reprise, rendez-vous [ici](https://www.media-rdc.com/document/ef46601c93a9342ca9eb2d600cba9d7a/cgu-pack-reprise-v1-1-13-02.pdf).
 
-3\. Le traitement de la commande
+3\. LE TRAITEMENT DE LA COMMANDE
 --------------------------------
 
 ### 3.1 Informations lors de la commande : renseignements à fournir ?
@@ -1066,7 +1067,7 @@ Le délai de livraison ne commence à courir qu'à compter de la date d'expédit
 
 Veuillez également noter que tout document justificatif ou d’identité sont conservés uniquement pour la durée du contrôle et sont immédiatement détruits une fois le contrôle effectué. Par ailleurs, les opérateurs de contrôle font l’objet d’une habilitation spécifique permettant la consultation de vos documents qui ne sont pas consultables par le reste des équipes Rue Du Commerce dans un souci de confidentialité.
 
-4\. Le paiement du prix
+4\. LE PAIEMENT DU PRIX
 -----------------------
 
 ### 4.1 Description des moyens de paiement acceptés par Rue Du Commerce
@@ -1135,7 +1136,7 @@ Nous aurons le droit de refuser d'effectuer une livraison ou d'honorer une comma
 
 Nous conservons la pleine propriété des produits en vente, jusqu'au parfait encaissement de la totalité des sommes dues à l'occasion de votre commande (frais et taxes compris).
 
-5\. La livraison
+5\. LA LIVRAISON
 ----------------
 
 ### 5.1 Mode de transport : quels choix ?
@@ -1170,7 +1171,7 @@ Si le transport a déclaré votre colis livré mais que vous contestez cette liv
 
 Il est rappelé qu'aucun remboursement ou renvoi du produit ne pourra être effectué avant la clôture de l'enquête.
 
-6\. La réception de la commande
+6\. LA RÉCEPTION DE LA COMMANDE
 -------------------------------
 
 ### 6.1 La personne qui reçoit le colis : le soin à apporter ?
@@ -1234,7 +1235,7 @@ Il vous sera demandé de décrire précisément les motifs justifiant la non-con
 
 Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le cas où vous recevez une commande qui ne vous est pas destinée, vous êtes alors dans l'obligation de la rendre. A défaut, Rue du Commerce sera en droit de vous facturer le produit que vous avez indûment reçu.
 
-7\. Les modalités générales du retour
+7\. LES MODALITÉS GÉNÉRALES DU RETOUR
 -------------------------------------
 
 ### 7.1 Une gestion efficace des retours : l'attribution d'un numéro de traitement.
@@ -1251,7 +1252,7 @@ Nous vous informons que certains documents liés au(x) colis pourront vous être
 
 En cas de retour reçu au siège social de notre société et non à l'adresse de notre SAV, le colis sera refusé et retourné automatiquement à l'expéditeur. Si ce dernier n'a pas pu être refusé, nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
-A NOTER : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
+**A NOTER** : en cas de retour demandé sur un produit acheté auprès d'un partenaire marchand, la demande devra être faite directement auprès du vendeur concerné. En cas de retour reçu au siège social ou à l'adresse du SAV Rue du Commerce et non auprès du marchand, la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l'état.  
   
 Aussi, en cas de réception d’un produit non conforme (produit ne correspondant pas au produit qui devait être retourné), les frais de retour resteront à la charge du client.  
 Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
@@ -1290,7 +1291,7 @@ En présence d'une étiquette prépayée, les retours sont alors à adresser rap
   
 Pour des raisons d’hygiène, les colis retour devront également être propres et ne pas faire courir de risque sanitaire au personnel traitant le retour. Ainsi, la présence de déchets, détritus ou tous autres éléments que les emballages, produits et éléments complémentaires demandés dans le colis retour et qui représentent un risque sanitaire pour le personnel, fera l’objet d’un refus de prise en charge. Des photos seront réalisées et la prise en charge sera refusée. Un mail vous sera adressé afin de vous informer du refus de prise en charge. Nous vous demanderons de nous fournir une étiquette prépayée afin de pouvoir vous renvoyer le produit en l’état.
 
-8\. Les modalités particulières d'un retour pour rétractation
+8\. LES MODALITÉS PARTICULIÈRES D'UN RETOUR POUR RÉTRACTATION
 -------------------------------------------------------------
 
 ### 8.1La durée du droit de rétractation : dans quels délais ?
@@ -1311,7 +1312,7 @@ Pour tous les produits commandés via la Galerie Marchande, les frais de retour 
 
 La rétractation de tout ou partie d’une commande annule la validité d’un code de réduction obtenu lors du passage de cette commande. Si le code de réduction a déjà été utilisé au moment de la rétractation, son montant sera déduit du remboursement qui vous sera versé.
 
-### 8.2L´exercice du droit de rétractation : de quelle manière ?
+### 8.2 L´exercice du droit de rétractation : de quelle manière ?
 
 Afin d'assurer la bonne gestion des retours, nous vous invitons à signaler préalablement votre retour à notre service client, via le formulaire de rétractation disponible depuis votre espace client.
 
@@ -1342,7 +1343,7 @@ En cas d'exercice du droit de rétractation, nous vous remboursons dans un déla
 
 Une fois votre colis retour arrivé à notre entrepôt, vous serez alors remboursé, selon le cas, par système de re-crédit (transaction sécurisée) en cas de paiement par carte bancaire, par un nouveau bon d'achat en cas de paiement par bon d'achat.
 
-9\. Les garanties des produits
+9\. LES GARANTIES DES PRODUITS
 ------------------------------
 
 ### 9.1 La garantie des produits : de quoi s'agit-il ?
@@ -1480,12 +1481,13 @@ Il est rappelé que la société Rue du Commerce ne saurait être tenue responsa
 
 En toute hypothèse, la garantie constructeur et la souscription d'une garantie complémentaire ne prive pas l'acheteur et/ou le consommateur des dispositions des garanties légales (notamment la garantie des vices cachés ou la garantie légale de conformité).
 
-10\. Les taxes & exportations
+10\. LES TAXES & EXPORTATIONS
 -----------------------------
 
 ### 10.1 Calcul du prix : quelles taxes ?
 
-Toute commande sera facturée toutes taxes comprises (TTC).
+Toute commande sera facturée toutes taxes comprises (TTC).  
+  
 
 ### 10.2 Vous êtes un ressortissant intracommunautaire : vous est-il possible de récupérer la TVA ?
 
@@ -1508,7 +1510,7 @@ Les droits de douanes, taxes locales, droits d'importation, ou taxes d'Etat susc
 
 Vous devez vous renseigner auprès des autorités locales de votre résidence sur les conditions d'entrée des produits commandés et vous devez effectuer toute déclaration et/ou paiement correspondants auprès des organismes compétents du pays concerné.
 
-11\. Produits de destockage
+11\. PRODUITS DE DESTOCKAGE
 ---------------------------
 
 ### 11.1 Qu'est-ce que le Déstockage chez Rue du Commerce ?
@@ -1543,8 +1545,8 @@ A l'instar du Déstockage 48h Chrono, le Déstockage Immédiat propose des **off
 
 Ils bénéficient d'une garantie 3 mois Rue du Commerce ou d'une garantie constructeur selon les cas.
 
-12. Mobilier et produits électriques et électroniques en fin de vie/usages
---------------------------------------------------------------------------
+12\. MOBILIER ET PRODUITS ÉLECTRIQUES ET ÉLECTRONIQUES EN FIN DE VIE/USAGES
+---------------------------------------------------------------------------
 
 ### 12.1 Les devoirs généraux de l'acheteur
 
@@ -1554,7 +1556,7 @@ Les équipements électriques et électroniques en fin de vie, obsolètes ou qui
 
 Pour les équipements électriques et électroniques et le mobilier, vous avez le choix entre soit déposer l'équipement ou le mobilier usagé auprès des déchèteries ou points de collecte de proximité mis en place par les collectivités locales, soit donner l'équipement ou le mobilier usagé à une association à vocation sociale, soit les faire reprendre par Rue du commerce en cas de livraison à domicile à condition d’en avoir fait la demande lors de la commande du produit ou auprès du service clients de Rue du commerce et dans la limite de la quantité et du type de produit acheté (ex : 1 article de mobilier vendu = 1 article de mobilier repris ; 1 équipement électrique et électronique vendu = 1 équipement électrique et électronique repris ; etc…). (Pour plus de détails, [cliquez ici](https://www.rueducommerce.fr/info/mentions-legales/reprise-ancien-materiel "cliquez ici")).
 
-13\. Numéros d'identification unique au Registre National des Producteurs  
+13\. NUMÉROS D'IDENTIFICATION UNIQUE AU REGISTRE NATIONAL DES PRODUCTEURS  
 
 ----------------------------------------------------------------------------
 
@@ -1573,7 +1575,7 @@ En application des dispositions du Code de l’environnement, Rue du commerce s�
 Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
 
   
-14\. Les mentions légales & responsabilité
+14\. LES MENTIONS LÉGALES & RESPONSABILITÉ
 ---------------------------------------------
 
 ### 14.1 Exonération de responsabilité : les cas de force majeure.
@@ -1616,7 +1618,7 @@ Cette plateforme est accessible au lien suivant : [https://webgate.ec.europa.eu/
 
 Vous restez libre d’accepter ou de refuser le recours à la médiation et, en cas de recours à la médiation, chaque partie est libre d’accepter ou de refuser la solution proposée par le médiateur.
 
-15\. Les conseils divers
+15\. LES CONSEILS DIVERS
 ------------------------
 
 ### 15.1 Attention aux risques de perte de données !
@@ -1655,7 +1657,7 @@ Veuillez noter que pour ces avis :
   
 \- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
-16\. Annexes
+16\. ANNEXES
 ------------
 
 ### 16.1 Annexe 1 : Dispositions du Code de la consommation concernant la garantie légale de conformité
@@ -1692,7 +1694,7 @@ Le vendeur est tenu de la garantie a raison des défauts cachés de la chose ven
 
 L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-17\. Vous avez une question ?
+17\. VOUS AVEZ UNE QUESTION ?
 -----------------------------
 
 **Pour vous aider dans votre choix des produits les plus adaptés à vos besoins, notre Service Conseil Avant-Vente est à votre disposition :**
