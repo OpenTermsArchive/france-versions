@@ -498,13 +498,13 @@ Le Bonus Covoiturage est valable jusqu’au 31 décembre 2025, la bonification �
 * (vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
 * (vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
 * (viii) vous avez complété vos coordonnées bancaires et reçu le paiement de la Participation aux Frais ;
-* (ix) vous avez validé lors de votre inscription les conditions de l’offre Bonus Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;et
-* (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ;
+* (ix) vous avez validé lors de votre inscription les conditions de l’offre Bonus Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;
+* (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ; et
 * (xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
 
 L’ensemble de ces conditions doivent être remplies dans un délai de 8 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre au Bonus Covoiturage.
 
-Le Bonus Covoiturage de 25 euros est porté, dans les conditions réglementaires, à 100 euros pour tout Conducteur réalisant 2 Trajets éligibles supplémentaires via la Plateforme dans un délai de trois (3) mois à compter de la réalisation du premier trajet éligible. Ce bonus vous est attribué sous forme de virement bancaire.
+Le Bonus Covoiturage de 25 euros est porté, dans les conditions réglementaires, à 100 euros pour tout Conducteur réalisant 2 Trajets éligibles supplémentaires via la Plateforme dans un délai de trois (3) mois à compter de la réalisation du premier trajet éligible. Ce bonus vous est attribué sous forme de virement bancaire ou sur votre compte PayPal, selon votre choix.
 
 ### 17.3. Contrôle du respect des conditions de l’opération
 
