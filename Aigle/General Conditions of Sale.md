@@ -231,7 +231,7 @@ Le Client est, quant à lui, tenu de restituer ou de renvoyer à Aigle le(s) Pro
 * **En Relais Colis**: gratuitement en remplissant le bon de retour joint au colis livré ;
 * **Par voie Postale**: gratuitement en remplissant le bon de retour et en utilisant l’étiquette de prépaiement joints au colis livré.
 
-[Formulaire de retractation](https://www.aigle.com/on/demandware.static/-/Library-Sites-Librarie-shard-aigle/default/va450a37fc953a148ca63091ec7052381240e3612/documents/FORMULAIRE_DE_RETRACTATION_Aigle.pdf?version=1,680,098,925,000)
+[Formulaire de rétractation](https://www.aigle.com/on/demandware.static/-/Library-Sites-Librarie-shard-aigle/default/va450a37fc953a148ca63091ec7052381240e3612/documents/FORMULAIRE_DE_RETRACTATION_Aigle.pdf?version=1,680,098,925,000)
 
 **ARTICLE 8. RESTRICTIONS APPLICABLES AUX PRODUITS PERSONNALISES**
 ------------------------------------------------------------------
