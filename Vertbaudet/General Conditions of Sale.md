@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 13 Janvier 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 30 Avril 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
 
 Les présentes conditions générales de vente (les "CGV") régissent la vente des articles présentés sur le site www.vertbaudet.fr (le "site Internet") par la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet").
 
@@ -88,11 +88,7 @@ Pour toute question relative au suivi de votre commande, merci d'appeler le 03.2
 4\. Le paiement
 ---------------
 
-  
-
 ### Modes de paiement
-
-  
 
 #### Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard)
 
@@ -154,10 +150,6 @@ Le paiement en 3 fois sans frais par carte bancaire vous permet de régler la co
 Exemple : Pour un achat de 150€, apport de 50€ puis 2 mensualités de 50€. Crédit sur 2 mois au TAEG fixe de 0%. Coût du financement 0€.
 
 Oney Bank - SA au capital de 50 741 215€ - Siège social : 40 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr
-
-#### Avec votre compte Klarna:
-
-En choisissant le paiement via Klarna, vous serez automatiquement dirigé sur votre compte Klarna. Une fois le paiement Paypal validé, vous pourrez terminer votre commande sur le site Internet. Pour en savoir plus : [A propos de Klarna](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm?intnavid=footer_propos-de-klarna)
 
 #### Avec votre compte PAYPAL :
 
@@ -378,7 +370,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Tri sélectif
 
-![https://media.vertbaudet.fr/medias/44/0/32497/1845448363/triman.png](https://media.vertbaudet.fr/medias/44/0/32497/1845448363/triman.png "https://media.vertbaudet.fr/medias/44/0/32497/1845448363/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/33803/1651775968/triman.png](https://media.vertbaudet.fr/medias/44/0/33803/1651775968/triman.png "https://media.vertbaudet.fr/medias/44/0/33803/1651775968/triman.png") Le logo Triman apposé sur un article signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des articles de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les articles ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
 
