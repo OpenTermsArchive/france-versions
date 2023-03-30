@@ -7,7 +7,7 @@ _Date de dernière mise à jour : 24/08/2021_
   
 KAPPA FRANCE, tel que défini ci-dessous a toujours été soucieux de la protection de vos données à caractère personnel (ci-après « Données »).  
 C’est pourquoi vos Données telles que définies ci-dessous sont traitées de manière sécurisée et en conformité avec le Règlement UE n° 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la Protection des Personnes Physique à l’égard du traitement des Données à caractère personnel et à la libre circulation de ces Données (RGPD) et avec l’ensemble de la réglementation française applicable en la matière notamment la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée (LIL).  
-Le présent document est destiné à vous présenter les traitements que KAPPA FRANCE réalise sur vos Données notamment dans le cadre de vos commandes de produits sur le site Internet www.kappastore.fr.  
+Le présent document est destiné à vous présenter les traitements que KAPPA FRANCE réalise sur vos Données notamment dans le cadre de vos commandes de produits sur le site Internet [https://www.kappa.fr](https://www.kappa.fr/).  
   
 **2\. Responsable du traitement et contact**  
   
@@ -21,14 +21,14 @@ Il vous répondra dans les meilleurs délais et dans le délai maximum de 30 jou
   
 **3\. Fondements légaux du traitement et Finalités**  
   
-Les Données dépendent de vos interactions avec KAPPA FRANCE : achat de produits, création d’un compte client sur www.kappastore.fr, commande en ligne, inscription à la newsletter, contact avec le Service Client, relations contractuelles avec les distributeurs et/ou fournisseurs et/ou prestataires, etc.  
+Les Données dépendent de vos interactions avec KAPPA FRANCE : achat de produits, création d’un compte client sur [https://www.kappa.fr](https://www.kappa.fr/), commande en ligne, inscription à la newsletter, contact avec le Service Client, relations contractuelles avec les distributeurs et/ou fournisseurs et/ou prestataires, etc.  
 KAPPA FRANCE procède aux traitements sur les Données, principalement la collecte, l’enregistrement, l’organisation, la structuration, la conservation, l’utilisation et la diffusion.  
 Vous trouverez ci-dessous le tableau des finalités et des fondements légaux autorisant KAPPA FRANCE à traiter ainsi vos Données (article 6 du RGPD). Les finalités décrites ci-dessous pourront évoluer en restant néanmoins cohérentes avec les finalités initiales.  
 
 |     |     |
 | --- | --- |
 | **FINALITES** | **FONDEMENTS LEGAUX**<br><br>**Article 6 du RGPD** |
-| Exécuter le contrat de vente des produits<br><br>Gérer les commandes<br><br>Gérer l’espace client au sein du site Internet [www.kappastore.fr](https://www.kappastore.fr/) | en exécution d’un contrat dont le contrat de vente pour les produits |
+| Exécuter le contrat de vente des produits<br><br>Gérer les commandes<br><br>Gérer l’espace client au sein du site Internet [https://www.kappa.fr](https://www.kappa.fr/) | en exécution d’un contrat dont le contrat de vente pour les produits |
 | Optimiser votre navigation dans votre espace client et sur le site Internet | en exécution d’un contrat |
 | Répondre à vos demandes de renseignements notamment via les différents formulaires de contact | \- pour les clients : en exécution d’un contrat <br><br>\- pour les prospects : consentement préalable |
 | Promouvoir et faire rayonner les activités de KAPPA France :<br><br>organiser des événements et des conférences, organiser la prospection, organiser des jeux-concours, vous adresser les informations/actualités sur les événements et nouveaux produits, etc.<br><br>inscription aux Newsletters | Intérêts légitimes |
@@ -56,7 +56,7 @@ IMPORTANT - Le caractère obligatoire ou facultatif de la communication des Donn
 
 b) Données collectées automatiquement  
   
-KAPPA FRANCE est susceptible de collecter automatiquement les Données relatives à votre connexion dès lors que vous utilisez le site Internet www.kappastore.fr :  
+KAPPA FRANCE est susceptible de collecter automatiquement les Données relatives à votre connexion dès lors que vous utilisez le site Internet www.kappa.fr :  
 \- Les traces de connexion (login, adresse IP, date et heure)  
 \- Les informations d’usage du site (modules, menus).  
   
@@ -76,7 +76,7 @@ Les Données collectées sont destinées à :
 Notamment :  
 \- Hébergement : Shopify  
 \- Infogérance du système informatique : Shopify  
-\- Les prestataires de la solution de paiement en ligne tels qu’indiqués sur le site Internet kappastore.fr  
+\- Les prestataires de la solution de paiement en ligne tels qu’indiqués sur le site Internet [https://www.kappa.fr](https://www.kappa.fr/)  
 \- Les transporteurs  
   
 KAPPA FRANCE veille au respect par son personnel et ses sous-traitants de la règlementation en vigueur relative aux Données ainsi qu’à la présente politique de protection des Données.  
@@ -100,9 +100,9 @@ Vous trouverez ci-dessous les durées de conservation de vos Données.
 | Gestion du client | Données du client (voir article 4 ci-dessus) | Toute la durée de la relation contractuelle |
 | Gestion des interlocuteurs chez les distributeurs, fournisseurs et/ou prestataires | Données des interlocuteurs (voir article 4 ci-dessus) | Toute la durée de la relation contractuelle ou de la durée de la présence de l’interlocuteur chez son employeur |
 | Gestion des prospects | Données des prospects (voir article 4 ci-dessus) | 3 ans à compter de la fin de la relation commerciale ou du dernier contact[\[1\]](#_ftn1) |
-| Données de connexion au site Internet www.kappastore.fr | Adresse IP, date, heure et durée de chaque connexion ou encore des informations permettant d’identifier le destinataire d’une communication. | 13 mois à compter de la collecte |
+| Données de connexion au site Internet [https://www.kappa.fr](https://www.kappa.fr/) | Adresse IP, date, heure et durée de chaque connexion ou encore des informations permettant d’identifier le destinataire d’une communication. | 13 mois à compter de la collecte |
 
-[\[1\]](#_ftnref1) La notion de « dernier contact » pris en considération pour les clients est un clic dans un email ou une visite sur le site [www.kappastore.fr](https://www.kappastore.fr/)
+[\[1\]](#_ftnref1) La notion de « dernier contact » pris en considération pour les clients est un clic dans un email ou une visite sur le site [https://www.kappa.fr](https://www.kappa.fr/)
 
 Lorsque vous avez mis fin à l’utilisation de nos services, nous sommes susceptibles de stocker vos Données sous un format agrégé ou anonymisé.  
 Nonobstant ce qui précède, nous pourrons également conserver vos Données comme raisonnablement nécessaire pour nous conformer à nos obligations juridiques, nous permettre de résoudre et de plaider des litiges, et faire appliquer nos accords.  
@@ -121,7 +121,7 @@ Le Canada est reconnu adéquat par l’UE pour les traitements réalisés dans l
 **9\. Pour exercer vos droits**  
   
 9.1 - KAPPA FRANCE peut vous adresser des offres relatives à ses produits et services par e-mail ou par SMS, ainsi que des offres pour les produits et services de sociétés partenaires, sous réserve, dans ce dernier cas, de votre consentement. Vous pouvez le retirer à tout moment.  
-Vous restez libre de vous opposer à tout moment à recevoir ces offres par email en vous désabonnant de la Newsletter depuis votre compte client sur le site kappastore.fr ou en cliquant sur le lien de désabonnement figurant dans chaque e-mail ou en contactant le Service Clients (via notre site internet : https://www.kappastore.fr/pages/contact ou par email service.clients@kappa.fr  
+Vous restez libre de vous opposer à tout moment à recevoir ces offres par email en vous désabonnant de la Newsletter depuis votre compte client sur le site kappastore.fr ou en cliquant sur le lien de désabonnement figurant dans chaque e-mail ou en contactant le Service Clients (via notre site internet : [https://www.kappa.fr/pages/contact](https://www.kappa.fr/pages/contact) ou par email service.clients@kappa.fr  
 Vous restez libre de vous opposer à tout moment à recevoir ces offres par SMS en répondant « STOP SMS » au numéro figurant dans chaque SMS ou en contactant le Service Clients.  
   
 9.2 - Vous pouvez de plein droit accéder aux Données que nous détenons sur vous et corriger, mettre à jour, rectifier, supprimer, effacer ou modifier de toute autre façon vos Données dès lors qu’elles sont inexactes ou ont été traitées en violation des réglementations en vigueur en matière de protection des Données.  
@@ -141,7 +141,7 @@ Pour plus d’informations sur les données à caractère personnel, vous pouvez
 **10\. Modification de la politique de confidentialité**  
   
 KAPPA FRANCE se réserve le droit de modifier le présent document notamment pour respecter les dispositions légales et réglementaires applicables en cette matière. KAPPA FRANCE le mettra à jour sur le site Internet kappastore.fr, dès son entrée en vigueur.  
-KAPPA FRANCE déploiera des efforts commercialement raisonnables pour informer en général tous les utilisateurs de modifications substantielles de la présente politique de protection des Données personnelles, notamment par l'intermédiaire d'un avis sur le site Internet kappastore.fr.  
+KAPPA FRANCE déploiera des efforts commercialement raisonnables pour informer en général tous les utilisateurs de modifications substantielles de la présente politique de protection des Données personnelles, notamment par l'intermédiaire d'un avis sur le site Internet [https://www.kappa.fr](https://www.kappa.fr/ "Kappa France").  
   
 Néanmoins, vous devrez consulter régulièrement la présente politique. Pour vous faciliter le suivi, nous mettrons à jour la date de « Dernière mise à jour » indiquée au début du présent document, qui traduit la date de prise d’effet de notre politique de protection des Données.  
 Votre poursuite de l'accès à nos services ou de l'utilisation de ceux-ci après la date de mise à jour vaut acceptation de votre part. Si vous n'acceptez pas la politique de protection des Données mise à jour, vous devez cesser d'accéder à nos services ou de les utiliser.
