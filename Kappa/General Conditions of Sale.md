@@ -4,7 +4,7 @@ Conditions générales de vente
 Kappa a reçu des plaintes de d'utilisateurs concernant la non-livraison de produits achetés en ligne sur des sites prétendants vendre du Kappa.
 
   
-Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que www.kappa.fr / www.kappa.fr est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
+Ces sites web n'ont aucun lien avec Kappa France ni avec aucune entreprise directement ou indirectement liée à Kappa France ou aux propriétaires légitimes de la marque, ils ne sont pas autorisés à utiliser le nom commercial Kappa ou ses marques, son image graphique ou ses logos et, en général, à vendre des produits Kappa. Toute activité d'offre ou de vente de produits Kappa sur et par d'autres sites que [https://www.kappa.fr](https://www.kappa.fr/) est frauduleuse et n'a aucun lien avec Kappa France et ses entreprises associées.  
   
 Kappa a procédé au signalement de cette activité d'usurpation d'identité frauduleuse auprès des autorités.  
 \-----------------------------------------------
@@ -15,7 +15,7 @@ Les Conditions Générales peuvent être modifiées par KAPPA FRANCE, la version
 
 **ARTICLE 1 – SITE INTERNET**
 
-L’hébergement du site internet www.kappa.fr est effectué par : Shopify Inc.,
+L’hébergement du site internet [https://www.kappa.fr](https://www.kappa.fr/) est effectué par : Shopify Inc.,
 
 Entreprise canadienne enregistrée au TSX et NYSE
 
@@ -36,7 +36,7 @@ A chaque fois qu’ils seront utilisés dans les Conditions Générales, les ter
 
 « **Conditions Générales** » : désigne les présentes conditions générales d’utilisation et de service ;
 
-« **Site** » : désigne le site de e-commerce permettant aux Clients d’accéder à l’achat des Produits vendus par KAPPA FRANCE, et accessible depuis le site internet https://www.kappa.fr/.
+« **Site** » : désigne le site de e-commerce permettant aux Clients d’accéder à l’achat des Produits vendus par KAPPA FRANCE, et accessible depuis le site internet [https://www.kappa.fr/](https://www.kappa.fr/).
 
 « **Produits** » : désigne l’ensemble des produits textiles et accessoires proposés par KAPPA FRANCE aux Clients, par l’intermédiaire du Site.
 
@@ -59,7 +59,7 @@ Une seule ouverture de Compte Client par personne est autorisée. KAPPA FRANCE s
 
 **4.1 Clôture du Compte Client**
 
-Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappa.fr/pages/contact](https://www.kappastore.fr/pages/contact). Ou par email : service.clients@kappa.fr
+Le Client peut à tout moment clôturer son Compte client sur le Site en contactant notre service client via la page contact : [https://www.kappa.fr/pages/contact](https://www.kappa.fr/pages/contact). Ou par email : service.clients@kappa.fr
 
 **ARTICLE 5 – COMMANDE DES PRODUITS**
 
@@ -302,7 +302,7 @@ Le Client s’interdit également de reproduire tout élément du Site et des Pr
 
 L’ensemble des informations à caractère personnel pouvant être recueillies sur le Site lors des Commandes ou à l’occasion de la création du Compte Client fait l’objet d’un traitement informatique automatisé. KAPPA FRANCE s’engage à collecter, traiter et à conserver toutes informations personnelles des Clients dans le respect des dispositions du Règlement UE n° 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la Protection des Personnes Physique à l’égard du traitement des Données à caractère personnel et à la libre circulation de ces Données (RGPD) et avec l’ensemble de la réglementation française applicable en la matière notamment la loi n° 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés modifiée (LIL).
 
-Pour consulter notre politique de protection des données personnelles : [https://www.kappa.fr/pages/privacy-policy](https://www.kappastore.fr/pages/privacy-policy).
+Pour consulter notre politique de protection des données personnelles : [https://www.kappa.fr/pages/privacy-policy](https://www.kappa.fr/pages/privacy-policy).
 
 **ARTICLE 12 - LIENS**
 
