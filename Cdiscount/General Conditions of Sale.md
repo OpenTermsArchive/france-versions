@@ -909,7 +909,7 @@ Si vous souhaitez faire jouer la Garantie Fabricant, nous vous remercions de nou
 
 Pour faire jouer votre Garantie Fabricant, il vous appartient de consulter les modalités d’application de la Garantie Fabricant généralement présentes dans la boite contenant le produit.
 
-**IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
+**IL EST RAPPELÉ QUE LE BÉN��FICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
 
 _Article 10 :  ECO-PARTICIPATIONS, REPRISE 1 POUR 1 ET REDEVANCE POUR COPIE PRIVEE_
 -----------------------------------------------------------------------------------
@@ -1420,7 +1420,7 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
 
-Le montant du cr��dit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
+Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
 
 \- d’un montant en euros ; ou
 
