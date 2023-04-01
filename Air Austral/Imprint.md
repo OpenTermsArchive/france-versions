@@ -6,7 +6,10 @@ Responsable du contenu du site
 ------------------------------
 
 Raison sociale : Air Austral  
-  
+
+SA à Directoire et Conseil de surveillance au capital de 30 859 657,10€ RCS de Saint-Denis de la Réunion sous le n° B 323 650 945
+
+Siège social : Zone Aéroportuaire, 97438 Sainte-Marie  
 Email : suggestion(@)air-austral.com  
 Tel : 0262 93 10 10
 
