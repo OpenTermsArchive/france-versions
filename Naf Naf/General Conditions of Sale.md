@@ -103,7 +103,7 @@ La procédure décrite aux articles 5.1 à 5.4 s’applique de la même manière
 ARTICLE 6. LIVRAISON
 --------------------
 
-Dès 89 euros d'achat, la livraison est offerte via Mondial Relay en France Métropolitaine.  
+Dès 89 euros d'achat, la livraison est offerte via Mondial Relay en France Métropolitaine, en Belgique et au Luxembourg.  
   
 Le site livre la France Métropolitaine, la Belgique, le Luxembourg, Monaco et Andorre.  
   
@@ -125,13 +125,13 @@ Les tarifs de livraisons ainsi que le coût des retours sont indiqués dans le t
 | --- | --- | --- | --- | --- |
 | MODE DE LIVRAISON | PAYS DE LIVRAISON | COÛTS | DELAIS | COÛT DU RETOUR |
 | BOUTIQUE | France Métropolitaine | Gratuit | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Mondial Relay (pas de retour en boutique) |
-| MONDIAL RELAY | France Métropolitaine et Monaco | 4,5€ et Gratuit dès 89€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Mondial Relay (pas de retour en boutique) |
+| MONDIAL RELAY | France Métropolitaine, Monaco, Belgique, Luxembourg | 4,5€ et Gratuit dès 89€ d'achat | 2 à 3 jours | Echange gratuit en boutique\* ou retour gratuit via Mondial Relay (pas de retour en boutique) |
 | COLISSIMO 48H | France Métropolitaine, Monaco, Corse et Andorre | 6€  | 2 à 3 jours | Echange gratuit en boutique\* et retour à votre charge en Colissimo |
 | CHRONOPOST | Belgique | 6€  | 3 à 8 jours | A votre charge,  <br>transporteur au choix |
 | CHRONOPOST | Luxembourg | 6€  | 3 à 8 jours | A votre charge,  <br>​transporteur au choix |
 
   
-\* hors boutiques NAF NAF Outlet, Exclu Web et capsule Héritage  
+\* Echange possible uniquement dans le pays de livraison de la commande, hors boutiques Outlet, Exclu Web et capsule Héritage. Liste des boutiques sur www.nafnaf.com  
   
 Le Client peut à tout moment suivre sa commande à l’aide du numéro de commande qui lui est communiqué dans l’email enregistrant formellement sa commande, dans son espace « Mon Compte » sur le site NafNaf.com sauf lorsqu’il s’agit d’une livraison en boutique.  
 Cet espace permet un suivi précis pour chaque mode de transport prévu, de la commande et de son statut, relatif notamment à l’expédition ou à sa livraison.  
@@ -572,4 +572,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 28/03/23
+Dernière mise à jour des CGV : le 31/03/23
