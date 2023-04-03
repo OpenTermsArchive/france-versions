@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/03/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (43)
+Necessary (45)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -36,11 +36,12 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
+| cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x15\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 13428 days | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
-| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
+| JSESSIONID \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")  <br>[New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
 | platform-viewer | [Wix](https://www.wix.com/about/privacy "Wix's privacy policy") | Preserves the visitor's session state across page requests. | Session | Pixel Tracker |
@@ -53,7 +54,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | XSRF-TOKEN | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (10)
+Preferences (12)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -66,6 +67,8 @@ Preference cookies enable our website to remember information that changes the w
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
 | CookieConsentBulkSetting-# | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | Persistent | HTML Local Storage |
 | iso\_code | static.tildacdn.com | Used by tilda for identification of the User without taking additional measures. | Persistent | HTML Local Storage |
+| lang | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Necessary for maintaining language-settings across subpages on the website. | Session | HTTP Cookie |
+| li\_alerts | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used to determine when and where certain pop-ups on the website should be presented for the user and remember whether the user has closed these, to keep them from showing multiple times. | 1 year | HTTP Cookie |
 | lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Registers which server-cluster is serving the visitor. This is used in context with load balancing, in order to optimize user experience. | 1 day | HTTP Cookie |
 | taxifyDriverPortal\_locale | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
