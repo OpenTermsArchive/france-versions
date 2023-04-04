@@ -1420,7 +1420,7 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
 
-Le montant du cr��dit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
+Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
 
 \- d’un montant en euros ; ou
 
