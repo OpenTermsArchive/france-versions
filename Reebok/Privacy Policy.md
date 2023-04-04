@@ -1,6 +1,12 @@
 **POLITIQUE DE PROTECTION DES DONNEES PERSONNELLES**
 
-MISE À JOUR LE : 2021-11-02
+MISE À JOUR LE : 2023-04-04
+
+**_IMPORTANT : MISE À JOUR DE L'AVIS DE CONFIDENTIALITÉ_**
+
+**_L'avis de confidentialité du site Reebok sera actualisé le 26 avril 2023. Cette mise à jour comprend des modifications concernant : a) les contrôleurs de données/entités responsables du site Reebok, et b) le traitement des données personnelles par lesdits contrôleurs de données/entités responsables à partir du 26 avril 2023._**
+
+**_QUE PUIS-JE FAIRE ? Si tu possèdes un compte Reebok ou que tu es abonné.e aux newsletters Reebok et que tu ne souhaites pas que tes données personnelles soient traitées selon l'avis de confidentialité actualisé, tu peux gérer tes données et exercer tes droits via la fonction "Gérer les données" située en bas du site ou bien en modifiant les paramètres de ton compte._**
 
 **_Reebok est une marque d'adidas._**
 
