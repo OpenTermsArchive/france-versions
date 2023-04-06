@@ -153,6 +153,22 @@ En nous fournissant votre numéro de téléphone mobile, vous acceptez de recevo
 
 Si vous changez ou désactivez le numéro de téléphone mobile que vous avez utilisé pour créer un compte Snapchat, vous devez mettre à jour les informations de votre compte dans les Réglages sous 72 heures, afin de nous éviter d'envoyer à quelqu'un d'autre des messages vous étant adressés.
 
+13\. Services tiers
+-------------------
+
+Certains Services peuvent afficher, inclure ou mettre à disposition du contenu, des données, des informations, des fonctionnalités ou des matériels provenant de tiers (ci-après dénommé « Supports de tiers »), ou fournir des liens vers certains sites web de tiers. Si vous utilisez du matériel de tiers mis à disposition par le biais de nos Services (y compris les Services que nous proposons conjointement avec le tiers), les conditions de chaque partie régissent la relation entre la partie respective et vous. Ni Snap ni nos sociétés affiliées ne sauraient être tenus responsables des conditions ou mesures prises par un tiers dans le cadre de ses conditions. En outre, en utilisant les Services vous reconnaissez et convenez de ce que Snap n'est pas responsable de l'examen ou de l'évaluation du contenu, de sa précision, de son exhaustivité, de sa disponibilité, de son exactitude, de sa validité, des droits d'auteur, de sa conformité, de sa légalité, de sa décence, de sa qualité ou de tout autre aspect de ces matériels ou sites web tiers. Nous ne garantissons ni n'approuvons, n'assumons et n'aurons aucune responsabilité envers vous ou toute autre personne pour les services de tiers, le matériel de tiers ou les sites web de tiers, ou pour tout autre matériel, produit ou service de tiers. Les matériel de tiers et les liens vers d'autres sites web sont fournis uniquement pour votre commodité.
+
+14\. Modification des Services et Résiliation.
+----------------------------------------------
+
+Nous améliorons sans cesse nos Services et en créons de nouveaux en permanence. Cela signifie que nous pouvons ajouter ou supprimer des fonctions, fonctionnalités ou produits et que nous pouvons également suspendre temporairement ou définitivement l'ensemble des Services. Nous pouvons prendre l'une de ces mesures à tout moment ; dans ce cas, nous nous efforcerons de vous informer à l'avance mais cela ne sera pas toujours possible.
+
+Nous espérons que vous resterez un Snapchatter tout au long de votre vie, mais vous pouvez résilier ces Conditions à tout moment en supprimant votre compte Snapchat (ou, dans certains cas, le compte Snapchat associé à la partie applicable des Services que vous utilisez).
+
+Nous pouvons résilier ou suspendre temporairement votre accès aux Services si vous ne respectez pas les présentes Conditions, nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines) ou la loi, pour toute raison indépendante de notre volonté, ou pour toute autre raison, et sans préavis. Cela signifie que nous pouvons résilier les présentes Conditions, cesser de vous fournir tout ou partie des Services, ou imposer des limites nouvelles ou supplémentaires à votre capacité à utiliser nos Services. Et bien que nous nous efforcions de vous donner un préavis raisonnable, nous ne pouvons pas garantir que ce préavis sera possible dans toutes les circonstances. Par exemple, nous pouvons désactiver votre compte en raison d'une inactivité prolongée et pouvons récupérer votre nom d'utilisateur à tout moment pour quelque raison que ce soit.
+
+Quelle que soit la personne qui résilie ces conditions, vous et Snap continuez à être liés par les sections 3, 4 (dans la mesure où toute condition supplémentaire survivrait, par ses termes), et 6 - 22 des Conditions.
+
 15\. Indemnité
 --------------
 
@@ -195,6 +211,11 @@ Certains de nos Services sont susceptibles de disposer de conditions supplément
 ------------------
 
 Dans la mesure où ces Conditions vous autorisent, ainsi qu'à Snap, à porter une action en justice devant un tribunal, aussi bien vous que Snap Group Limited convenez que tous les différends et réclamations (qu'ils soient de nature contractuelle ou autre) découlant de ou liés aux Conditions ou à l'utilisation des Services seront exclusivement réglés par les tribunaux d'Angleterre (Royaume-Uni), sauf si la loi du pays dans lequel vous résidez ne l'autorise pas. Vous et Snap consentez à la compétence exclusive de ces tribunaux.
+
+20\. Choix de la loi applicable
+-------------------------------
+
+Les lois d'Angleterre et du pays de Galle régissent les présentes Conditions et l'ensemble des différends et réclamations (qu'ils soient de nature contractuelle ou délictuelle ou autre) découlant directement ou indirectement de ces Conditions ou de leur objet. Il se peut que les tribunaux de certains pays n'appliquent pas les lois d'Angleterre et du pays de Galle dans le cadre de certains différends liés aux présentes conditions. Si vous résidez dans l'un de ces pays, les lois de votre pays de résidence peuvent s'appliquer dans le cadre de ces différends.
 
 21\. Séparabilité
 -----------------
