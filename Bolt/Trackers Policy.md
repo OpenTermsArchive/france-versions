@@ -5,7 +5,7 @@ This website uses cookies. We use cookies to ensure that we offer you the best e
 
 Use the tick-boxes to confirm that you’re happy for us to use your data for the following purposes.
 
-Your consent applies to the following domains: formaloo.net, bestbreakups.com, boltfood.formaloo.net, couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
+Your consent applies to the following domains: courier.bolt.eu, formaloo.net, bestbreakups.com, boltfood.formaloo.net, couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
 
 Your current state: Deny. 
 
