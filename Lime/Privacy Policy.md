@@ -82,16 +82,16 @@ Nous ne vendons pas ni ne partageons vos données à caractère personnel avec d
 
 **Notre base légale justifiant l'utilisation de vos informations**
 
-En Europe, nous sommes tenus de préciser les finalités pour lesquelles nous traitons vos données à caractère personnel et les bases légales sur lesquelles nous nous appuyons pour ce faire. Lime se fonde sur un certain nombre de [bases légales](https://www.li.me/fr-fr/legal/legal-bases) pour collecter, utiliser, partager et traiter vos informations pour les finalités décrites dans le présent Avis de confidentialité, y compris :
+En Europe, nous sommes tenus de préciser les finalités pour lesquelles nous traitons vos données à caractère personnel et les bases légales sur lesquelles nous nous appuyons pour ce faire. Lime se fonde sur un certain nombre de [bases légales](https://www.li.me/legal-bases) pour collecter, utiliser, partager et traiter vos informations pour les finalités décrites dans le présent Avis de confidentialité, y compris :
 
 * lorsque cela est nécessaire pour fournir les Services et exécuter nos obligations conformément au [Contrat d'utilisateur](https://www.li.me/user-agreement). Par exemple, nous ne pouvons pas fournir le Service à moins de recueillir et de traiter des informations de base sur vous et votre localisation ;
 * lorsque vous nous avez donné votre consentement au traitement de vos informations (auquel cas vous pouvez révoquer votre consentement à tout moment) ;
 * lorsque cela est nécessaire pour nous conformer à une obligation légale, y compris, par exemple, pour répondre à des demandes d'information d'organismes publics ou des forces de l'ordre ou pour établir, exercer ou défendre des droits en justice ;
 * pour protéger les intérêts vitaux de nos utilisateurs, de nos Juicers, de notre personnel et des membres du public, tant dans le cadre des Services qu'en dehors ;
 * si la loi le permet, nous pouvons traiter des données dans l'intérêt public ; et/ou
-* lorsque le traitement est nécessaire pour servir les [intérêts légitimes](https://www.li.me/fr-fr/legal/legal-bases) de Lime ou de tiers, sous réserve de la prise en compte de vos droits et intérêts fondamentaux.
+* lorsque le traitement est nécessaire pour servir les [intérêts légitimes](https://www.li.me/legal-bases) de Lime ou de tiers, sous réserve de la prise en compte de vos droits et intérêts fondamentaux.
 
-Davantage d'informations sur notre base légale pour le traitement de vos données à caractère personnel sont disponibles [ici](https://www.li.me/fr-fr/legal/legal-bases).
+Davantage d'informations sur notre base légale pour le traitement de vos données à caractère personnel sont disponibles [ici](http://li.me/legal-bases).
 
 **Comment nous transférons vos informations ?**
 
@@ -127,7 +127,7 @@ Si vous êtes habituellement situé dans l'EEE, en Suisse ou au Royaume-Uni, vou
 
 **Droit d'opposition (marketing)** - Vous avez le droit de vous opposer au traitement pour des finalités de marketing direct à tout moment.
 
-**Droit d'opposition (intérêt légitime)** - Lorsque nous traitons vos informations sur la base d'[intérêts légitimes](https://www.li.me/fr-fr/legal/legal-bases), vous pouvez vous opposer à ce traitement dans certaines circonstances. En cas d'opposition de votre part, nous cesserons de traiter vos informations sauf si nous avons des raisons légitimes impérieuses ou si cela est nécessaire pour des raisons légales.
+**Droit d'opposition (intérêt légitime)** - Lorsque nous traitons vos informations sur la base d'[intérêts légitimes](https://www.li.me/legal-bases), vous pouvez vous opposer à ce traitement dans certaines circonstances. En cas d'opposition de votre part, nous cesserons de traiter vos informations sauf si nous avons des raisons légitimes impérieuses ou si cela est nécessaire pour des raisons légales.
 
 **Droit d'accès** - Vous pouvez accéder à la plupart de vos informations en vous connectant à votre compte. Vous pouvez également demander une copie des informations que nous détenons à votre sujet et des renseignements expliquant comment ces données sont utilisées.
 
