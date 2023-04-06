@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/03/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (45)
+Necessary (46)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -38,7 +38,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
 | cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
-| CookieConsent \[x15\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 13428 days | HTTP Cookie |
+| CookieConsent \[x16\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 13428 days | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | JSESSIONID \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")  <br>[New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
@@ -54,7 +54,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | XSRF-TOKEN | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (12)
+Preferences (13)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -65,7 +65,7 @@ Preference cookies enable our website to remember information that changes the w
 | \_bolt\_blog\_language | blog.bolt.eu | Pending | 1 day | HTTP Cookie |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
-| CookieConsentBulkSetting-# | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | Persistent | HTML Local Storage |
+| CookieConsentBulkSetting-# \[x2\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | Persistent | HTML Local Storage |
 | iso\_code | static.tildacdn.com | Used by tilda for identification of the User without taking additional measures. | Persistent | HTML Local Storage |
 | lang | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Necessary for maintaining language-settings across subpages on the website. | Session | HTTP Cookie |
 | li\_alerts | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used to determine when and where certain pop-ups on the website should be presented for the user and remember whether the user has closed these, to keep them from showing multiple times. | 1 year | HTTP Cookie |
@@ -74,7 +74,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (48)
+Statistics (49)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -94,6 +94,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
 | \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
+| \_opt\_expid | www.googleoptimize.com | This cookie is set in order to make split-tests on the website, which optimizes the website's relevance towards the visitor. The cookie functions by making smaller alterations on the website and measuring the results. | 1 day | HTTP Cookie |
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
@@ -115,7 +116,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (58)
+Marketing (59)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -125,7 +126,8 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
 | \_\_mpq\_#\_# \[x3\] | bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. | Persistent | HTML Local Storage |
 | \_fbp | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ " Meta Platforms, Inc.'s privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
-| \_gaexp | www.googleoptimize.com | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 29 days | HTTP Cookie |
+| \_gaexp | food.bolt.eu | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 13 days | HTTP Cookie |
+| \_gaexp\_rc | food.bolt.eu | Determines whether the user is assigned to a specific content-experiment to optimize website content and advertisement efforts. | 1 day | HTTP Cookie |
 | \_gcl\_au \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
 | \_hjRecordingEnabled | bolt.eu | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
 | \_trackingplan\_initial | [Google](https://policies.google.com/privacy "Google's privacy policy") | Pending | Persistent | HTML Local Storage |
