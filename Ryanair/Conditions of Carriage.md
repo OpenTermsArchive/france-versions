@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 13 Feb 2023
+### Date d’entrée en vigueur : 13 Apr 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 13 Feb 2023**
+**Date d’entrée en vigueur : 13 Apr 2023**
 
   
 
@@ -249,23 +249,41 @@ Une fois qu’un passager s’est enregistré en ligne, il peut réimprimer sa c
 
 **6.2.7** Vous ne pourrez peut-être pas vous enregistrer en ligne si vous avez acheté votre vol par l’intermédiaire d’un tiers que nous n’avons pas autorisé à utiliser notre site Web ou notre application pour proposer nos vols à la vente, et qui de fait est en violation des Conditions d’utilisation de notre site Web (y compris l’application mobile et toute page Web et/ou données qui passent par le domaine Web de ryanair.com) (« Intermédiaire non autorisé »).  
 
-**6.2.8** Lorsque vous avez réservé par l’intermédiaire d’un tiers non autorisé, vous devez vous soumettre à notre procédure de vérification client (la « Procédure de vérification »).  La procédure de vérification peut être effectuée en ligne, ici, jusqu’à 120 minutes avant le départ prévu moyennant des frais de 0,35 € pour couvrir le coût.  Vous pouvez également effectuer la procédure de vérification au comptoir de billetterie de l’aéroport concerné gratuitement en vous présentant au moins 120 minutes avant le départ.  Consultez notre FAQ pour obtenir des réponses rapides aux questions fréquemment posées que nous recevons sur la procédure de vérification.
+**6.2.8** Lorsque vous avez réservé via un Intermédiaire tiers qui n’a aucune relation commerciale avec Ryanair pour vendre nos vols, vous devez vous identifier en remplissant l'une de nos procédures de vérification des clients (« Vérification »).  La vérification peut être effectuée en ligne ici jusqu’à 120 minutes avant le départ prévu. 
 
-6.2.9.1 Si vous choisissez d’utiliser la procédure de vérification en ligne, vous serez invité(e) à effectuer les étapes suivantes :
+Dans le cas où vous ne compléteriez pas la vérification en ligne, vous pourrez également le faire au comptoir de l’aéroport concerné 60 minutes avant le départ. 
 
-  i.         fournir votre code de référence de réservation (PNR) et le(s) nom(s) du ou des passager(s) ;
+Dans ce cas, les passagers seront facturés pour les frais d’enregistrement à l’aéroport. Consultez notre FAQ pour obtenir des réponses rapides aux questions fréquentes que nous recevons concernant la vérification.
 
-ii.         fournir une photographie de vos documents de voyage (c.-à-d. passeport ou carte d’identité) ; 
+**6.2.9** Si vous choisissez la Vérification en ligne, deux options sont disponibles : la vérification express et la vérification standard. 
 
-iii.         fournir une vidéo en temps réel de votre visage pour vérifier les documents de voyage que vous avez fournis à l’étape 2 ; 
+**La vérification express** exige que vous effectuiez les étapes suivantes :
 
- iv.          fournir votre adresse e-mail personnelle ; et
+i. payer les frais de 0,59 €
 
- v.          payer les frais de 0,35 €. 
+ii. fournir votre code de référence de réservation (PNR) et le(s) nom(s) du ou des passager(s) ;
 
-**6.2.9.2** Dès que l’un des passagers nommés sur votre réservation aura terminé la procédure de vérification en ligne, alors tous les passagers nommés sur la réservation pourront s’enregistrer en ligne comme d’habitude.  
+iii. fournir une photographie de vos documents de voyage (c.-à-d. passeport ou carte d’identité) ;
 
-**6.2.10** Afin que nous puissions vous joindre directement en cas de besoin, l’adresse e-mail que vous fournissez pendant la procédure de vérification remplacera l’adresse e-mail fournie à l’origine par l’Intermédiaire tiers non autorisé.  
+iv. fournir une photo de votre visage pour vérifier les documents de voyage que vous avez fournis à l’étape iii ;
+
+v. effectuer une vérification en direct de votre visage en réalisant certaines actions que l’on vous demandera de faire ; et
+
+vi. fournir votre adresse e-mail personnelle.
+
+**La vérification standard** exige que vous effectuiez les étapes suivantes :
+
+i. fournir un formulaire de Vérification dûment signé et rempli ;
+
+ii. fournir votre code de référence de réservation (PNR) et le(s) nom(s) du ou des passager(s) ;
+
+iii. fournir une photographie de vos documents de voyage (c.-à-d. passeport ou carte d’identité) ; et
+
+iv. fournir votre adresse e-mail personnelle.
+
+**6.2.10** Dès que l’un des passagers nommés sur votre réservation aura complété la procédure de Vérification en ligne, tous les passagers nommés sur la réservation pourront s’enregistrer en ligne comme d’habitude.  
+
+**6.2.11** Afin que nous puissions vous joindre directement en cas de besoin, l’adresse e-mail que vous fournirez pendant la vérification remplacera l’adresse e-mail fournie à l’origine par l’Intermédiaire tiers.  
 
 **6.3** Si vous ne parvenez pas à présenter une carte d’embarquement valide (sur papier ou téléphone portable) à la sécurité de l’aéroport ou à la porte d’embarquement et qu’il y a suffisamment de temps pour vous fournir une carte d’embarquement sous une autre forme, vous serez facturé pour les frais de réimpression de la carte d’embarquement au taux indiqué dans notre tableau de prix consolidé.
 
