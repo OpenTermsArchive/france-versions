@@ -64,11 +64,6 @@ Des termes et conditions supplémentaires figurant sur la page [Conditions et po
 
 Votre confidentialité est importante pour nous. Vous pouvez en savoir plus sur la manière dont vos informations sont traitées lorsque vous utilisez nos Services en consultant notre [Politique de confidentialité](https://snap.com/fr-FR/privacy/privacy-policy/).
 
-6\. **Les Contenus des Tiers**
-------------------------------
-
-Une grande partie du contenu sur nos Services est produite par des utilisateurs, des éditeurs et d'autres tiers. Que ce contenu soit publié publiquement ou envoyé de manière privée, le contenu est la seule responsabilité de l'utilisateur ou de l'entité qui l'a envoyé. Bien que Snap se réserve le droit de consulter ou de supprimer tout contenu qui apparaît sur les Services, nous ne l'examinons pas nécessairement en totalité. Nous ne pouvons donc pas garantir que d'autres utilisateurs ou le contenu qu'ils fournissent par les Services respecteront nos Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines).
-
 7\. Respect des Services et des droits Snap
 -------------------------------------------
 
