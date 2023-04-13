@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 14/03/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (46)
+Necessary (47)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -39,7 +39,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | cf\_use\_ob | blog.bolt.eu | Used to detect if the website is inaccessible, in case of maintenance of content updates - The cookie allows the website to present the visitor with a notice on the issue in question. | 1 day | HTTP Cookie |
 | CONSENT \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
 | CookieConsent \[x16\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 13428 days | HTTP Cookie |
-| deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
+| deviceId \[x3\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | JSESSIONID \[x2\] | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy")  <br>[New Relic](https://newrelic.com/termsandconditions/services-notices "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
@@ -54,14 +54,14 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | XSRF-TOKEN | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (13)
+Preferences (14)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| @@scroll# | bolt.eu | Pending | Session | HTML Local Storage |
+| @@scroll# \[x2\] | bolt.eu | Pending | Session | HTML Local Storage |
 | \_bolt\_blog\_language | blog.bolt.eu | Pending | 1 day | HTTP Cookie |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
@@ -116,7 +116,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (59)
+Marketing (58)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -141,11 +141,11 @@ Marketing cookies are used to track visitors across our website. The intention i
 | experiments-fingerprint | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
 | experiments-raw | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
 | IDE | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 1 year | HTTP Cookie |
-| mp\_#\_mixpanel \[x4\] | business.bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Pending | 1 year | HTTP Cookie |
+| mp\_#\_mixpanel \[x4\] | bolt.eu  <br>business.bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Pending | 1 year | HTTP Cookie |
 | NID | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. | 6 months | HTTP Cookie |
 | pagead/1p-conversion/# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
 | pagead/1p-user-list/# | [Google](https://policies.google.com/privacy "Google's privacy policy") | Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. | Session | Pixel Tracker |
-| pagead/landing \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
+| pagead/landing \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement - This also allows the website to limit the number of times that they are shown the same advertisement. | Session | Pixel Tracker |
 | pagead/viewthroughconversion/699781999 | [Google](https://policies.google.com/privacy "Google's privacy policy") | Pending | Session | Pixel Tracker |
 | sessionInitiated | [Google](https://policies.google.com/privacy "Google's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Session | HTML Local Storage |
 | sp\_landing | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 day | HTTP Cookie |
