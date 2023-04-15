@@ -23,16 +23,16 @@ Your consent ID: 0Consent date:
 
   
 
-Cookie declaration last updated on 14/03/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Cookie declaration last updated on 14/04/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (47)
+Necessary (49)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_\_cf\_bm \[x5\] | signup.bolt.eu  <br>driverregistration.live.boltsvc.net  <br>support.taxify.eu  <br>geo.taxify.eu  <br>[Vimeo](https://vimeo.com/features/video-privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
+| \_\_cf\_bm \[x7\] | signup.bolt.eu  <br>driverregistration.live.boltsvc.net  <br>webforms.pipedrive.com  <br>cdn.eu-central-1.pipedriveassets.com  <br>support.taxify.eu  <br>geo.taxify.eu  <br>[Vimeo](https://vimeo.com/features/video-privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
 | \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | This cookie is used to identify the visitor through an application. This allows the visitor to login to a website through their LinkedIn application for example. | 1 year | HTTP Cookie |
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
@@ -74,7 +74,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (49)
+Statistics (48)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -114,9 +114,8 @@ Statistic cookies help us understand how you interact with our website by collec
 | tildauid \[x2\] | couriers.bolt.eu  <br>static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
 | visited \[x2\] | couriers.bolt.eu  <br>partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits. | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
-| ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (58)
+Marketing (59)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -140,6 +139,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | dismissedBanners | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | Persistent | HTML Local Storage |
 | experiments-fingerprint | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
 | experiments-raw | [Typeform](https://admin.typeform.com/to/dwk6gt/ "Typeform's privacy policy") | Collects user data through quiz/survey-like content. This allows the website to promote relevant products or services. | 6 months | HTTP Cookie |
+| fr  | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ "Meta Platforms, Inc.'s privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
 | IDE | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used by Google DoubleClick to register and report the website user's actions after viewing or clicking one of the advertiser's ads with the purpose of measuring the efficacy of an ad and to present targeted ads to the user. | 1 year | HTTP Cookie |
 | mp\_#\_mixpanel \[x4\] | bolt.eu  <br>business.bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Pending | 1 year | HTTP Cookie |
 | NID | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers a unique ID that identifies a returning user's device. The ID is used for targeted ads. | 6 months | HTTP Cookie |
