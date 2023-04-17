@@ -247,7 +247,7 @@ Une fois qu’un passager s’est enregistré en ligne, il peut réimprimer sa c
 
 **6.2.6** Pour votre sécurité, ainsi que pour celle des autres passagers et de notre équipage, le processus d’enregistrement doit être effectué par vous-même, par un passager figurant sur votre réservation ou par un agent individuel ayant une connaissance personnelle de vous et du contenu de vos bagages. Cette exigence vise à garantir que vous êtes informé(e) et que vous, un passager de votre réservation ou un agent individuel ayant une connaissance personnelle de vous et du contenu de vos bagages, avez confirmé la conformité aux protocoles de sécurité, de sûreté et de santé publique requis, y compris ceux définis par les instructions techniques de l’OACI, le règlement (UE) 2015/1998 et le protocole de sécurité sanitaire de l’aviation EASA/ECDC Covid-19. 
 
-**6.2.7** Vous ne pourrez peut-être pas vous enregistrer en ligne si vous avez acheté votre vol par l’intermédiaire d’un tiers que nous n’avons pas autorisé à utiliser notre site Web ou notre application pour proposer nos vols à la vente, et qui de fait est en violation des Conditions d’utilisation de notre site Web (y compris l’application mobile et toute page Web et/ou données qui passent par le domaine Web de ryanair.com) (« Intermédiaire non autorisé »).  
+**6.2.7** Vous ne pourrez peut-être pas vous enregistrer en ligne si vous avez acheté votre vol par l’intermédiaire d’un tiers qui n’a pas de relation commerciale avec nous, pour utiliser notre site Internet ou notre application pour proposer nos vols à la vente, et qui de fait est en violation des Conditions d’utilisation de notre site Web (y compris l’application mobile et toute page Web et/ou données qui passent par le domaine Web de ryanair.com) (**« Intermédiaire tiers »**).   
 
 **6.2.8** Lorsque vous avez réservé via un Intermédiaire tiers qui n’a aucune relation commerciale avec Ryanair pour vendre nos vols, vous devez vous identifier en remplissant l'une de nos procédures de vérification des clients (« Vérification »).  La vérification peut être effectuée en ligne ici jusqu’à 120 minutes avant le départ prévu. 
 
@@ -259,7 +259,7 @@ Dans ce cas, les passagers seront facturés pour les frais d’enregistrement à
 
 **La vérification express** exige que vous effectuiez les étapes suivantes :
 
-i. payer les frais de 0,59 €
+i. payer les frais de £/€0.59
 
 ii. fournir votre code de référence de réservation (PNR) et le(s) nom(s) du ou des passager(s) ;
 
