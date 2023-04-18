@@ -31,9 +31,7 @@ La création d'un compte est obligatoire pour bénéficier de toutes les offres 
 
   
 
-L'adhésion au club de fidélité « Printania » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le lien suivant : [www.printemps.com/fr/fr/printania](https://www.printemps.com/fr/fr/www.printemps.com/fr/fr/printania)
-
-  
+L'adhésion à notre club de fidélité « Club Printemps » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le lien suivant : [https://www.printemps.com/club-printemps](https://www.printemps.com/club-printemps)
 
 En créant son compte, le Client accepte notre Politique de Protection des Données et déclare que l'ensemble des informations fournies sont véridiques et exactes.
 
@@ -41,81 +39,37 @@ En créant son compte, le Client accepte notre Politique de Protection des Donn�
 
 **Comment créer un compte ?**
 
-1\. Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
-
-  
-
-2\. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran puis sur « Créer un Compte »
-
-  
-
-3\. Renseignez votre adresse mail et cliquez sur « Valider »
-
-  
-
-4\. Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquer sur le lien dans le corps du mail.
-
-  
-
-5\. Renseignez l'ensemble des champs obligatoires, indiqués par un astérisque.
-
-  
-
-6\. Cliquez sur « Créer mon Compte »
+1. Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
+2. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran puis sur « Créer un Compte »
+3. Renseignez votre adresse mail et cliquez sur « Valider »
+4. Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquer sur le lien dans le corps du mail.
+5. Renseignez l'ensemble des champs obligatoires, indiqués par un astérisque.
+6. Cliquez sur « Créer mon Compte ».
 
   
 
 **Comment me connecter à mon compte ?**
 
-1\. Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
+1. Rendez-vous sur www.printemps.com
+2. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran
+3. Remplissez votre adresse email et votre mot de passe
+4. Cliquez sur « Continuer »
 
   
 
-2\. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran
+**Vous avez oublié votre mot de passe :**
 
-  
-
-3\. Remplissez votre adresse email et votre mot de passe
-
-  
-
-4\. Cliquez sur « Continuer »
-
-  
-
-**J'ai oublié mon mot de passe**
-
-Vous avez oublié votre mot de passe :
-
-  
-
-1\. Cliquez sur « mot de passe oublié ? » dans la partie « j'ai déjà un compte »
-
-  
-
-2\. Indiquez votre e-mail, validez et vous recevrez un lien de réinitialisation de votre mot de passe dans votre boîte e-mail dans les minutes qui suivent.
+1. Cliquez sur « mot de passe oublié ? » dans la partie « Me connecter »
+2. Indiquez votre e-mail, validez et vous recevrez un lien de réinitialisation de votre mot de passe dans votre boîte e-mail dans les minutes qui suivent.
 
   
 
 **Comment modifier mon mot de passe ?**
 
-1\. Identifiez-vous à votre compte
-
-  
-
-2\. Une fois identifié, cliquez dans votre compte sur « Mes informations personnelles »
-
-  
-
-3\. Cliquez sur « modifier mon mot de passe ».
-
-  
-
-4\. Renseignez votre ancien mot de passe puis le nouveau mot de passe, confirmez-le à nouveau et validez.
-
-  
-
-Le Client est informé que son identifiant et son mot de passe sont personnels et confidentiels et à ce titre, il s'engage à conserver son mot de passe secret et à ne pas le divulguer à un tiers, à quelque titre que ce soit.
+1. Identifiez-vous à votre compte
+2. Une fois identifié, cliquez dans votre compte sur « Mes informations personnelles »
+3. Cliquez sur « modifier mon mot de passe ».
+4. Renseignez votre ancien mot de passe puis le nouveau mot de passe, confirmez-le à nouveau et validez. Le Client est informé que son identifiant et son mot de passe sont personnels et confidentiels et à ce titre, il s'engage à conserver son mot de passe secret et à ne pas le divulguer à un tiers, à quelque titre que ce soit.
 
 Article 2 - commande
 --------------------
