@@ -133,20 +133,6 @@ La société Redoute est amenée à collecter et à enregistrer des données à 
 | * Accessibilité du site internet pour les personnes ayant un handicap | * Obligation légale issue du décret n° 2019-768 du 24 juillet 2019 relatif à l'accessibilité aux personnes handicapées des services de communication au public en ligne |
 | * Transmission de données aux autorités administratives et aux forces de l’ordre | * Obligations légales /  Réquisitions judiciaires et administratives |
 
-2.3 **LES TRAITEMENTS DE DONNEES LA REBOUCLE**
-----------------------------------------------
-
-Dans le cadre de vente de produits d’occasion, la société Redoute est amenée à collecter et à enregistrer des données à caractère personnel de ses clients pour effectuer les traitements suivants :
-
-|     |     |
-| --- | --- |
-| * Publication des produits d’occasion par le vendeur | * Exécution du contrat passé entre un Client et LA REDOUTE ([CONDITIONS GENERALES LA REBOUCLE)](https://lareboucle.fr/cms/conditions-generales-dutilisation) |
-| * Enregistrement des paiements entre vendeur et acheteur et détection des fraudes | * Exécution du contrat passé entre un Client et LA REDOUTE ([CONDITIONS GENERALES LA REBOUCLE)](https://lareboucle.fr/cms/conditions-generales-dutilisation)<br>* Intérêt légitime |
-| * Mise en relation entre acheteurs et vendeurs (messagerie privée) | * Exécution du contrat passé entre un Client et LA REDOUTE (CONDITIONS GENERALES LA REBOUCLE) |
-| * Mesure d’audience du service Reboucle | * Intérêt légitime de La Redoute de connaître la fréquentation de son service |
-
-Pour les traitements nécessitant le recueil du consentement, la personne concernée à la faculté de retirer son consentement en effectuant une demande en [cliquant ici.](https://www.laredoute.fr/privacy_center.aspx)
-
 3\. ORIGINE DES DONNEES COLLECTEES PAR LA REDOUTE
 -------------------------------------------------
 
