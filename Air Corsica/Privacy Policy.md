@@ -4,7 +4,7 @@ Politique de confidentialité d'Air Corsica
 **Le présent document vise à vous donner toute l’information disponible sur les traitements de données personnelles que peut mettre en œuvre Air Corsica dans le cadre de son activité de transporteur aérien.**
 
 ### Politique de Confidentialité en matière de traitement des données personnelles.  
-Air Corsica. Version 1.6 temporaire du jeudi 18 novembre 2021. Mise en ligne le 18 novembre 2021.
+Air Corsica. Version 1.8 temporaire du mardi 18 avril 2023. Mise en ligne le 18 avril 2023.
 
 ### Chapitre 1 – Généralités
 
