@@ -11,7 +11,7 @@ Conditions générales de transport
 
 **1.2.** Dans la mesure où leur contenu ne fait pas échec à ce qui précède, tout transport effectué et tout autre service rendu par le Transporteur sont régis par les stipulations figurant aux présentes conditions, les tarifs applicables, la réglementation applicable, lesquelles sont réputées faire partie intégrante des présentes et peuvent être consultées par le Passager sur simple demande.
 
-**1.3_._** Le nom du Transporteur peut être inscrit en abrégé sur le Billet, le nom entier et son abréviation figurant dans les tarifs, les **Conditions de Transport**, la réglementation ou les horaires du Transporteur ; l’adresse du Transporteur est celle de l’aéroport de départ figurant sur le Billet à côté de la première abréviation du nom du Transporteur ; les arrêts prévus (susceptibles d’être modifiés par le Transporteur en cas de nécessité) sont ceux qui sont indiqués sur ce Billet ou qui figurent sur les horaires du Transporteur comme des arrêts réguliers sur l’itinéraire du Passager ; le transport à exécuter par plusieurs Transporteurs successifs est censé constituer une opération unique.
+**1.3.** Le nom du Transporteur peut être inscrit en abrégé sur le Billet, le nom entier et son abréviation figurant dans les tarifs, les Conditions de Transport, la réglementation ou les horaires du Transporteur ; l’adresse du Transporteur est celle de l’aéroport de départ figurant sur le Billet à côté de la première abréviation du nom du Transporteur ; les arrêts prévus (susceptibles d’être modifiés par le Transporteur en cas de nécessité) sont ceux qui sont indiqués sur ce Billet ou qui figurent sur les horaires du Transporteur comme des arrêts réguliers sur l’itinéraire du Passager ; le transport à exécuter par plusieurs Transporteurs successifs est censé constituer une opération unique.
 
 **1.4.** Les exclusions ou limitations de responsabilité du Transporteur s’appliqueront et profiteront à ses agents, préposés ou représentants ainsi qu’à toute personne dont l’avion est utilisé par le Transporteur pour effectuer le transport, de même qu’aux agents, préposés ou représentants de ladite personne.
 
@@ -19,9 +19,7 @@ Conditions générales de transport
 
 **1.6.** Sauf disposition contraire dudit Billet ou des tarifs, des conditions de transport et des règlements applicables du Transporteur, la validité du Billet est strictement limitée au voyage prévu et ne peut en aucun cas excéder un an. Le Transporteur est en droit de refuser le transport si le tarif applicable n’a pas été payé.
 
-**1.7.** Toute modification concernant l’identité du Transporteur sera portée à la connaissance du Passager, au plus tard lors de l’enregistrement ou de l’embarquement. En cas de non-respect de cette obligation d’information, le Passager pourra résilier le contrat de transport et sera en mesure d’obtenir le remboursement de la somme versée sans pénalités de notre part.
-
-De plus, si le Transporteur notifié au Passager est inscrit sur la liste communautaire, et fait l’objet d’une interdiction après la conclusion du contrat, nous prendrons les mesures nécessaires pour vous proposer un autre vol dans la mesure du possible. Si, toutefois, nous ne sommes pas en mesure de trouver un nouveau Transporteur, nous procéderons au remboursement de votre Billet conformément aux dispositions de l’Article 12.3 des présentes conditions.
+**1.7.** Toute modification concernant l’identité du Transporteur sera portée à la connaissance du Passager, au plus tard lors de l’enregistrement ou de l’embarquement. En cas de non-respect de cette obligation d’information, le Passager pourra résilier le contrat de transport et sera en mesure d’obtenir le remboursement de la somme versée sans pénalités de notre part. De plus, si le Transporteur notifié au Passager est inscrit sur la liste communautaire, et fait l’objet d’une interdiction après la conclusion du contrat, nous prendrons les mesures nécessaires pour vous proposer un autre vol dans la mesure du possible. Si, toutefois, nous ne sommes pas en mesure de trouver un nouveau Transporteur, nous procéderons au remboursement de votre Billet conformément aux dispositions de l’Article 12.3 des présentes conditions.
 
 ### Article 2 - Définitions
 
@@ -55,17 +53,17 @@ voir «Personne ayant droit à indemnisation».
 
 désignent vos effets et autres objets personnels vous accompagnant au cours de votre voyage. Sauf disposition contraire, ce terme désigne à la fois votre Bagage enregistré et votre Bagage non enregistré.
 
-**Bagage enregistré**
+Bagage enregistré
 
-désigne le Bagage dont nous avons accepté la garde en soute et pour lesquels nous avons délivré un Bulletin de Bagages/fiche d'identification.
+désigne le Bagage dont nous avons accepté la garde en soute et pour lesquels nous avons délivré un Bulletin de Bagages/fiche d’identification.
 
-**Bagage non enregistré ou "Bagage cabine"**
+Bagage non enregistré ou "Bagage cabine"
 
 désigne tout Bagage, autre que les bagages enregistrés. Ce Bagage demeure sous votre garde et entière responsabilité.
 
 **Billet**
 
-désigne le document en cours de validité établissant le droit au transport et intitulé «Billet de passage»  sous forme électronique délivré par Air Corsica ou bien par notre agent agréé par nous ou en notre nom. Il constitue le Contrat de Transport, comprend les Coupons de Vol, les avis au Passager et inclut, par renvoi, les **Conditions Générales de Transport.**
+désigne le document en cours de validité établissant le droit au transport et intitulé «Billet de passage»  sous forme électronique délivré par Air Corsica ou bien par notre agent agréé par nous ou en notre nom. Il constitue le Contrat de Transport, comprend les Coupons de Vol, les avis au Passager et inclut, par renvoi, les Conditions Générales de Transport.
 
 **Billet complémentaire**
 
@@ -79,15 +77,15 @@ désigne le Coupon de Vol électronique ou tout autre document de même valeur �
 
 désigne les parties du Billet afférentes au transport de votre Bagage enregistré.
 
-**Code de Désignation du Transporteur**
+Code de Désignation du Transporteur
 
 désigne le code  Attribué par IATA, identifiant chaque transporteur membre de cet organisme en deux ou plusieurs caractères alphabétiques, numériques ou alphanumériques et figurant sur le Billet accolé au numéro de vol.
 
 **Contrat de Transport**
 
-désigne les déclarations contenues dans votre Billet, ou encore dans l'Itinéraire-Reçu (Mémo-Voyage), et qui incorporent les présentes **Conditions Générales de Transport**, ainsi que les avis au Passager.
+désigne les déclarations contenues dans votre Billet, ou encore dans l'Itinéraire-Reçu (Mémo-Voyage), et qui incorporent les présentes Conditions Générales de Transport, ainsi que les avis au Passager.
 
-**Convention** désigne selon les cas :
+**Convention désigne selon les cas :**
 
 (a) la Convention pour l'unification de certaines règles relatives au transport aérien international, signée à Varsovie, le 12 octobre 1929 (la Convention de Varsovie).
 
@@ -115,7 +113,7 @@ désigne le coupon électronique comportant le nom du passager et indiquant les 
 
 désigne un Coupon de Vol électronique ou tout autre document de même valeur, détenu dans notre banque de données.
 
-**Déclaration Spéciale d'intérêt**
+**Déclaration Spéciale d’intérêt**
 
 désigne la déclaration effectuée par le Passager au moment de la remise des Bagages à enregistrer, spécifiant une valeur supérieur à celle fixée comme limite de responsabilité édictée par la Convention, et moyennant le paiement d'une somme supplémentaire.
 
@@ -162,7 +160,7 @@ désigne la quantité maximale de Bagages (en nombre et/ou en poids et/ou en dim
 
 **Itinéraire-Reçu**
 
-(voir "Mémo-Voyage")
+(voir « Mémo-Voyage")
 
 **Heure Limite d'Enregistrement (HLE)**
 
@@ -172,9 +170,9 @@ désigne la imite horaire (heure limite d’enregistrement), telle qu’indiqué
 
 désignent les jours du calendrier comprenant les sept jours de la semaine, étant entendu que dans le cas d'une notification, le jour d'envoi n'est pas compté et que, pour déterminer la durée de validité d'un Billet, le jour d'émission du Billet ou le jour du commencement du vol n'est pas compté.
 
-**Mémo-Voyage (voir aussi "Billet Electronique" ou "Itinéraire-Reçu")**
+**Mémo-Voyage (voir aussi "Billet Electronique" ou « Itinéraire-Reçu »)**
 
-désigne un ou plusieurs documents que le Transporteur émet à l’attention du Passager, lorsque ce dernier utilise un billet électronique, et qui comporte, son nom, des informations sur le vol et les avis aux Passagers (reçu de paiement). Il peut également être appelé "Itinéraire-Reçu".
+désigne un ou plusieurs documents que le Transporteur émet à l’attention du Passager, lorsque ce dernier utilise un billet électronique, et qui comporte, son nom, des informations sur le vol et les avis aux Passagers (reçu de paiement). Il peut également être appelé « Itinéraire-Reçu".
 
 **Nous, nous même, notre**
 
@@ -184,13 +182,13 @@ désigne la Compagnie Air Corsica.
 
 désigne tout objet qui, pour des raisons de sécurité ou de sûreté, ne peut être transporté, du fait du droit en vigueur.
 
-**Passager**, **vous, vous-même, votre**
+**Passager, vous, vous-même, votre**
 
 désigne toute personne, en dehors des membres de l'équipage, transportée ou devant être transportée par avion,  en possession d'un Billet.
 
 **Passager à Mobilité Réduite**
 
-désigne toute personne dont la mobilité est réduite lorsqu´elle utilise un moyen de transport en raison d´un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d´une déficience intellectuelle, de son âge ou de tout autre cause de handicap et dont la situation exige une attention spéciale ainsi que l´adaptation à ses besoins des services mis à la disposition de tous les Passagers.
+désigne toute personne dont la mobilité est réduite lorsqu'elle utilise un moyen de transport en raison d’un handicap physique (sensoriel ou locomoteur, permanent ou temporaire), d’une déficience intellectuelle, de son âge ou de tout autre cause de handicap et dont la situation exige une attention spéciale ainsi que l'adaptation à ses besoins des services mis à la disposition de tous les Passagers.
 
 **Personne ayant droit à indemnisation**
 
@@ -198,7 +196,7 @@ désigne vous-même ou toute personne pouvant prétendre à réparation au titre
 
 **Réservation**
 
-désigne le fait pour un Passager d´être en possession d´un Billet, ou d´une autre preuve, indiquant que la Réservation a été acceptée et enregistrée par le Transporteur Aérien, son agent accrédité ou l´organisateur de voyages.
+désigne le fait pour un Passager d’être en possession d’un Billet, ou d’une autre preuve, indiquant que la Réservation a été acceptée et enregistrée par le Transporteur Aérien, son agent accrédité ou l’organisateur de voyages.
 
 **Tarifs**
 
@@ -224,13 +222,9 @@ désigne nous-mêmes (AIR CORSICA) ou tout autre Transporteur, dont le Code de D
 
 désigne un Transporteur aérien titulaire d'une licence d'exploitation valable délivrée par  un Etat Membre de l'Union Européenne, conformément à la règlementation européenne applicable.
 
-**Vol intérieur ou "vol national"**
+Vol intérieur ou "vol national »
 
 désigne tout vol dont la ville de départ et la ville de destination sont situées à l'intérieur d'un même Etat, en continuité territoriale.
-
-**Vol international** **ou** **Transport International**
-
-désigne, au sens de la Convention, tout vol pour lequel le point de départ et le point de destination et, éventuellement, le point d'escale sont situés sur le territoire d'au moins deux Etats parties à la Convention nonobstant les escales intermédiaires ou changements d'appareils, ou dans un  seul Etat partie si une escale intermédiaire est prévue sur le territoire d’un autre Etat qu'il soit ou non partie à la Convention.
 
 ### Article 3 - Domaine d'application
 
@@ -256,7 +250,7 @@ Ces Conditions Générales de Transport sont applicables dans la mesure où elle
 
 **3.5. Prédominance des Conditions sur notre Réglementation**
 
-Sauf dispositions contraires, en cas de contradiction entre ces Conditions Générales de Transport et toute autre réglementation d’Air Corsica relatives à des sujets particuliers, ces Conditions prévaudront sauf si le Contrat de transport ne pouvait subsister sans cette stipulation déclarée nulle et sans effet et qui serait déterminante et essentielle à l'existence dudit Contrat.
+Sauf dispositions contraires, en cas de contradiction entre ces Conditions Générales de Transport et toute autre réglementation d’Air Corsica relatives à des sujets particuliers, ces Conditions prévaudront sauf si le Contrat de transport ne pouvait subsister sans cette stipulation déclarée nulle et sans effet et qui serait déterminante et essentielle à l'existence dudit Contrat
 
 ### Article 4 - Billets électroniques
 
@@ -274,11 +268,11 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(f)** A l'exception d'un Billet électronique, vous ne pourrez être transporté(e) que si vous êtes en mesure de présenter un Billet en cours de validité, contenant le Coupon correspondant à ce vol et tous les autres Coupons de vol inutilisés, ainsi que le Coupon Passager. En outre, vous ne serez pas transporté(e) si votre Billet a été détérioré ou s'il a été modifié par quelqu'un d'autre que nous ou notre Agent Accrédité. Dans le cas d'un Billet électronique, vous serez transporté(e) sur un vol seulement si vous produisez une identification satisfaisante et si un Billet électronique en cours de validité a été émis à votre nom.
 
-**(g)** Si la preuve mentionnée au **(f)** ci-dessus n'est pas rapportée ou si vous refusez de vous engager à nous indemniser, le Transporteur émetteur du Billet pourra vous faire payer le prix total du Billet de remplacement, étant entendu qu'un tel paiement vous sera remboursé dès lors que ce Transporteur aura la preuve que le Billet perdu ou mutilé n'a pas été utilisé pendant sa période de validité ou qu'après l'avoir retrouvé, vous avez remis le Billet à ce Transporteur, au cours de cette même période de validité.
+**(g)** Si la preuve mentionnée au (f) ci-dessus n'est pas rapportée ou si vous refusez de vous engager à nous indemniser, le Transporteur émetteur du Billet pourra vous faire payer le prix total du Billet de remplacement, étant entendu qu'un tel paiement vous sera remboursé dès lors que ce Transporteur aura la preuve que le Billet perdu ou mutilé n'a pas été utilisé pendant sa période de validité ou qu'après l'avoir retrouvé, vous avez remis le Billet à ce Transporteur, au cours de cette même période de validité.
 
 **(h)** Un Billet est un objet de valeur et il vous appartient de prendre toutes les mesures nécessaires pour qu'il ne soit ni perdu ni volé.
 
-**(i)** Si vous bénéficiez d’une réduction tarifaire ou d’un tarif à conditions particulières, vous devez être en mesure de présenter les pièces justificatives vous donnant droit à ce tarif à tout moment de votre voyage.
+**(i)** Si vous bénéficiez d’une réduction tarifaire ou d’un tarif à conditions particulières, vous devez être en mesure de présenter les pièces justificatives vous donnant droit à ce tarif à tout moment de votre voyage.
 
 **4.2. Durée de validité**
 
@@ -289,11 +283,11 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(b)** Lorsque votre voyage n’a pu être effectué pour des raisons volontaires ou involontaires, vous pouvez obtenir le remboursement tout ou partiel de votre billet (hors frais de service (Voir Article 5.7) conformément aux conditions tarifaires souscrites lors de votre achat, sans préjudice de la réglementation applicable le cas échéant, selon les raisons de l’annulation de votre voyage, en formulant votre demande auprès d’air Corsica le transporteur, dans la limite de la validité du billet, à savoir 1 an à compter de la date d’émission du billet initial.
 
-**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet , 1 an à compter de la date d’émission du billet initial), vous pourrez obtenir le remboursement tout ou partiel de votre billet selon les conditions tarifaires souscrites lors de l’achat et obtenir un remboursement complémentaire auprès de l’assurance voyage souscrite lors de l’achat du billet selon les garanties précisées au contrat d’assurance. Dans tous les cas, vous être en droit d'obtenir le remboursement, sous trente (30) jours, des taxes et redevances individualisées correspondant à la portion de voyage non effectuées, en application de l'article L.224-66 du Code de la consommation. Vous pouvez effectuer votre demande en ligne à l'adresse suivante : [**https://support.aircorsica.com/**](https://support.aircorsica.com/).
+**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet , 1 an à compter de la date d’émission du billet initial), vous pourrez obtenir le remboursement tout ou partiel de votre billet selon les conditions tarifaires souscrites lors de l’achat et obtenir un remboursement complémentaire auprès de l’assurance voyage souscrite lors de l’achat du billet selon les garanties précisées au contrat d’assurance. Dans tous les cas, vous être en droit d'obtenir le remboursement, sous trente (30) jours, des taxes et redevances individualisées correspondant à la portion de voyage non effectuées, en application de l'article L.224-66 du Code de la consommation. Vous pouvez effectuer votre demande en ligne à l'adresse suivante : [https://support.aircorsica.com/](https://support.aircorsica.com/).
 
 **(d)** En cas de décès d'un Passager au cours du voyage, les Billets des personnes accompagnant le défunt pourront être modifiés, soit en écartant la notion de séjour minimum, soit en prorogeant la validité de ces Billets. En cas de décès survenu dans la famille proche d'un Passager dont le voyage est commencé, la validité des Billets du Passager et de ceux des membres de sa famille proche voyageant avec lui pourra être modifiée de la même façon.
 
-**(e)** Toute modification mentionnée au point **(d)** ci-dessus ne pourra être effectuée qu'après réception d'un certificat de décès en bonne et due forme, et toute extension prévue à cet article ne pourra excéder quarante-cinq (45) jours à compter de la date du décès.
+**(e)** Toute modification mentionnée au point (d) ci-dessus ne pourra être effectuée qu'après réception d'un certificat de décès en bonne et due forme, et toute extension prévue à cet article ne pourra excéder quarante-cinq (45) jours à compter de la date du décès.
 
 **4.3. Utilisation des Coupons**
 
@@ -317,9 +311,11 @@ Les tarifs applicables sont ceux qui sont publiés par le Transporteur ou calcul
 
 Les prix sont publiés toutes taxes comprises – y compris les taxes et les redevances perçues pour le compte d’un tiers (gouvernement, administration, aéroport, sûreté…), la surcharge carburant et les frais de service – à l’exception de certaines taxes d'aéroport perçues localement.
 
-Tous frais, taxes ou redevances imposés par un gouvernement, par toute autre autorité ou par le gestionnaire d'un aéroport seront à votre charge. Lors de l'achat du Billet, le Passager est avisé de ces frais, taxes ou redevances, qui s'ajoutent aux Tarifs et apparaissent séparément sur le Billet. Ils sont en constante évolution et peuvent être créés (ou augmentés) après la date d'achat du Billet, auquel cas vous serez obligé(e) d'acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances, acquittées lors de l’achat en ligne sont réduits ou supprimés, vous aurez le droit d’être remboursé. En ce qui concerne les modalités de remboursement, nous vous renvoyons à l’Article 13 des présentes conditions.
+Tous frais, taxes ou redevances imposés par un gouvernement, par toute autre autorité ou par le gestionnaire d'un aéroport seront à votre charge. Lors de l'achat du Billet, le Passager est avisé de ces frais, taxes ou redevances, qui s'ajoutent aux Tarifs et apparaissent séparément sur le Billet. Ils sont en constante évolution et peuvent être
 
-**5.3_._ Tarifs**
+créés (ou augmentés) après la date d'achat du Billet, auquel cas vous serez obligé(e) d'acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances, acquittées lors de l’achat en ligne sont réduits ou supprimés, vous aurez le droit d’être remboursé. En ce qui concerne les modalités de remboursement, nous vous renvoyons à l’Article 13 des présentes conditions.
+
+**5.3. Tarifs**
 
 A chaque tarif sont associées des particularités correspondant aux conditions particulières de vente du contrat de transport telles que : Plein tarif ; Abonné ; Résident Corse ; Etudiant résident Corse ; Sénior ; Famille ; Couple ; Jeune (- de 25ans) ; Etudiant (- de 27 ans) ; Evasion ; Week-end, Semaine.
 
@@ -329,7 +325,7 @@ Selon les conditions particulières applicables au moment de la réservation et 
 
 Sur certains des tarifs proposés, Air Corsica accorde des réductions (typologiques) à une certaine catégorie de passagers :
 
-\- les Bébés de moins de 2 ans et les enfants de moins de 12 ans, les jeunes (- de 25 ans), les étudiants (- de 27 ans), les séniors, les résidents corses, les étudiants résidents corses, les voyageurs en couple ou en famille, les passagers abonnés.
+* les Bébés de moins de 2 ans et les enfants de moins de 12 ans, les jeunes (- de 25 ans), les étudiants (- de 27 ans), les séniors, les résidents corses, les étudiants résidents corses, les voyageurs en couple ou en famille, les passagers abonnés.
 
 Ces réductions sont applicables sur présentation des pièces justificatives suivantes : livret de famille, passeport, pièce d’identité, justificatif de résidence en Corse, carte d’étudiant, carte d’abonné.
 
@@ -345,11 +341,11 @@ Des services complémentaires sont proposés au passager lors de l’achat de so
 
 Des frais d’émission ou de dossier sont facturés lors de chaque achat sur les lignes d’Air Corsica. Les Frais d’émission ou de dossier sont d'un montant différent (De 1€ à 20€ par billet selon le point de vente Air Corsica, les agences de voyage appliquent les frais de service de leur choix) selon le type de voyage, le Tarif et le canal de distribution du Billet. Ces Frais s'ajoutent au Tarif TTC.   
 Les Frais d’Émission ou de dossier facturés, le cas échéant, par le Transporteur ne sont pas remboursables, excepté lorsqu'il s’agit d'une annulation du Billet due à une faute du Transporteur.   
-Le Passager est informé avant la finalisation de sa Réservation, du montant des Frais d'Émission qui lui sont facturés par le Transporteur. Le montant des Frais d'Émission facturés par Air Corsica est consultable auprès de ses services et sur son Site Internet.
+Le Passager est informé avant la finalisation de sa Réservation, du montant des Frais d'Émission qui lui sont facturés par le Transporteur. Le montant des Frais d'Émission facturés par Air Corsica est consultable auprès de ses services et sur son Site Internet
 
 **5.8. Frais d’annulation et de modification**
 
-En cas d’annulation volontaire de votre part, des frais d’annulation seront facturés, en supplément d’éventuels frais d’annulation liés aux conditions d’application de certains tarifs.
+En cas d’annulation volontaire de votre part, des frais de modifications qui sont associés au tarif du billet que vous avez acheté seront facturés, en supplément d’éventuels frais d’annulation liés aux conditions d’application de certains tarifs.
 
 **5.9. Itinéraire**
 
@@ -381,7 +377,7 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 
 **6.5. Annulation des réservations sur un vol en continuation ou en retour**
 
-Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annuler vos réservations pour vos parcours en continuation ou en retour, sauf si vous nous avez préalablement prévenus.
+Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annuler vos réservations pour vos parcours en continuation ou en retour, sauf si vous nous avez préalablement prévenus et dans ce cas des frais supplémentaires de modification de billet et de modifications de classe de réservation pourront être appliqués, qui seront liés aux conditions d’application de certains tarifs En cas de "no-show" le passager a droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation. Cette mention devrait également figurer ici pour la parfaite information du passage
 
 ### Article 7 - Enregistrement / Embarquement
 
@@ -395,7 +391,7 @@ Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annul
 
 **7.5.** Si vous n’êtes pas présent dans les délais impartis au comptoir d'enregistrement ou à la porte d'embarquement (30 minutes avant le départ d'un vol domestique et 40 minutes avant le départ d'un vol international), ou bien si vous ne présentez pas les documents de voyage requis conformément à l’Article 8 ci-dessous , et que vous êtes par conséquent dans l'impossibilité de voyager, nous pourrons annuler votre réservation et attribuer votre siège à un autre Passager, sans que cela n’engage notre responsabilité envers vous.
 
-**7.6.** Quand un Coupon de Vol n'est pas retiré au comptoir d'enregistrement, au moment où vous recevez votre carte d'embarquement, le Coupon en question reste sous votre garde et vous devrez nous le remettre au moment de l'embarquement.
+**7.6.** Quand un Coupon de Vol n'est pas retiré au comptoir d'enregistrement, au moment où vous recevez votre carte d'embarquement, le Coupon en question reste sous votre garde et vous devrez nous le remettre au moment de l’embarquement.
 
 ### Article 8 - Refus, limitations au transport et Assistance particulière
 
@@ -452,17 +448,13 @@ Les conditions particulières visées au paragraphe 8.4 ne font pas partie du Co
 
 ### Article 9 - Droits des personnes à mobilité réduite
 
-**9.1.** En application du Règlement n°1107/2006 du « Parlement Européen » et du « Conseil » du 5 Juillet 2006, Air Corsica n’est pas en mesure de refuser l’embarquement à un Passager à mobilité réduite si cette personne dispose d’un Billet et d’une réservation valables, au sens dudit règlement qui stipule d’accepter une réservation pour un vol au départ ou à destination d’un aéroport auquel le règlement s’applique.
-
-Cependant, la personne à mobilité réduite doit être accompagnée par une autre personne capable de lui fournir l’assistance requise.
-
-Afin de permettre à Air Corsica de mettre en œuvre et/ou de procéder (par Air Corsica et/ou par le gestionnaire de l’aéroport) à la mise en place de l’assistance nécessaire au Passager à mobilité réduite, le Passager doit faire parvenir à Air Corsica au plus tard quarante-huit heures (48h) avant le départ publié du vol, une notification écrite d’assistance.
+**9.1.** En application du Règlement n°1107/2006 du « Parlement Européen » et du « Conseil » du 5 Juillet 2006, Air Corsica n’est pas en mesure de refuser l’embarquement à un Passager à mobilité réduite si cette personne dispose d’un Billet et d’une réservation valables, au sens dudit règlement qui stipule d’accepter une réservation pour un vol au départ ou à destination d’un aéroport auquel le règlement s’applique. Cependant, la personne à mobilité réduite doit être accompagnée par une autre personne capable de lui fournir l’assistance requise. Afin de permettre à Air Corsica de mettre en œuvre et/ou de procéder (par Air Corsica et/ou par le gestionnaire de l’aéroport) à la mise en place de l’assistance nécessaire au Passager à mobilité réduite, le Passager doit faire parvenir à Air Corsica au plus tard quarante-huit heures (48h) avant le départ publié du vol, une notification écrite d’assistance.
 
 **9.2.** Nonobstant ce principe, Air Corsica pourra refuser d’accepter la réservation du Passager, ou lui refuser l’embarquement dans les cas suivants :
 
-a) afin de respecter les exigences de sécurité applicables, qu’elles soient prévues par le droit international, communautaire, national ou établies par l’autorité qui a délivré son certificat de Transporteur aérien à Air Corsica.
+**a)** afin de respecter les exigences de sécurité applicables, qu’elles soient prévues par le droit international, communautaire, national ou établies par l’autorité qui a délivré son certificat de Transporteur aérien à Air Corsica.
 
-b) si la taille de l’aéronef ou de ses portes rend physiquement impossible l’embarquement ou le transport du Passager à mobilité réduite.
+**b)** si la taille de l’aéronef ou de ses portes rend physiquement impossible l’embarquement ou le transport du Passager à mobilité réduite.
 
 **9.3.** En cas de refus d’acceptation d’une réservation pour les motifs mentionnés aux 9.2.point a) ou b), Air Corsica s’efforce dans la limite du raisonnable, de proposer une autre solution acceptable pour le Passager concerné.
 
@@ -476,7 +468,7 @@ b) si la taille de l’aéronef ou de ses portes rend physiquement impossible l�
 
 Tout enfant n'ayant pas atteint son deuxième anniversaire au moment du commencement du Transport Aérien (bébé), peut voyager accompagné d'une personne valide âgée de 18 ans au moins, sauf parents plus jeunes.
 
-2 bébés peuvent être transportés par accompagnateur à la seule condition que l'un des 2 bébés occupe un siège individuel au tarif enfant et soit installé à l'aide d'un dispositif de retenue homologué (siège auto, harnais).
+2 bébés peuvent être transportés par accompagnateur à la seule condition que l'un des 2 bébés occupe un siège **individuel au tarif enfant et soit installé à l'aide d'un dispositif de retenue homologué (siège auto, harnais).**
 
 **10.2. Enfants de plus de 2 ans et de moins de 4 ans**
 
@@ -484,7 +476,9 @@ Les enfants âgés de plus de 2 ans et de moins de 4 ans doivent être obligatoi
 
 **10.3. Enfants de plus de 4 ans jusqu'à l'âge de 11 ans**
 
-A compter de l'âge de 4 ans et jusqu'à l'âge de 11 ans, les enfants peuvent voyager sans être accompagnés par un adulte. Ils sont pris en charge par la compagnie et sont qualifiés d'UM (mineurs non accompagnés). Les UM doivent être signalés auprès de la compagnie par une demande écrite préalablement aux vols. Un nombre limité d'UM est accepté par vol. Il incombe à cet égard aux parents ou aux responsables de l'enfant de se renseigner préalablement.
+A compter de l'âge de 4 ans et jusqu'à l'âge de 11 ans, les enfants peuvent voyager sans être accompagnés par un adulte. Ils sont pris en charge par la compagnie et sont qualifiés d'UM (mineurs non accompagnés). Les UM doivent être signalés auprès de la compagnie par une demande écrite préalablement aux vols. Un nombre limité d'UM est accepté par vol. Il incombe à cet égard aux parents ou aux responsables de l'enfant de
+
+se renseigner préalablement.
 
 Les personnes accompagnant un UM doivent attendre le décollage de l'avion avant de quitter l'aéroport de manière, à les reprendre en charge si besoin. A l'arrivée à destination, les UM ne pourront être remis qu'à la personne désignée par un des titulaires de l'autorité parentale. La personne désignée devra à cet égard justifier de son identité par un document d'identité officiel.
 
@@ -544,11 +538,11 @@ Pour des raisons de sécurité/sûreté, nous pouvons vous demander d'accepter, 
 
 La franchise correspond au transport en soute  d'une quantité de Bagages limitée par Passager en nombre et/ou en poids et/ou dimension, déterminée en fonction de la destination, du Tarif acquitté et est indiquée sur le Billet.
 
-Vous pouvez faire transporter des Bagages en franchise selon les dispositions et sous réserve des conditions et figurant sur la page Internet de notre rubrique « **Infos bagages** » que nous vous invitons à lire régulièrement.
+Vous pouvez faire transporter des Bagages en franchise selon les dispositions et sous réserve des conditions et figurant sur la page Internet de notre rubrique « Infos bagages » que nous vous invitons à lire régulièrement.
 
 **11.4.3. Excédents de bagages**
 
-Vous devrez payer un supplément pour le transport des Bagages excédant la franchise, aux conditions figurant sur la page Internet de notre rubrique « **Infos bagages** » que nous vous invitons à lire régulièrement.
+Vous devrez payer un supplément pour le transport des Bagages excédant la franchise, aux conditions figurant sur la page Internet de notre rubrique « Infos bagages » que nous vous invitons à lire régulièrement.
 
 **11.4.4. DSI : Déclaration Spéciale d’Intérêt de frais supplémentaires**
 
@@ -586,11 +580,11 @@ Vous devrez payer un supplément pour le transport des Bagages excédant la fran
 
 Sauf refus de notre part pour des raisons valables (quota d’animaux atteint, état de santé, législation relative aux animaux dangereux, règlementation du pays de destination, etc…) nous acceptons de transporter vos animaux dans les conditions suivantes :
 
-**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « **Transport des animaux** » que nous vous invitons à consulter régulièrement.
+**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « Transport des animaux » que nous vous invitons à consulter régulièrement.
 
 **b)** S'il est accepté comme Bagage, l'animal et sa caisse ne seront pas compris dans votre franchise de bagages, mais constitueront un excédent de bagages, pour lequel vous devrez acquitter un tarif en vigueur communiqué à votre demande.
 
-**c)** Les chiens guides ainsi que leur caisse accompagnant les Passagers à Mobilité ou Vue Réduite seront transportés gratuitement, en sus de la franchise de bagages normale, conformément à la réglementation en vigueur, disponible sur notre page « **Transport des animaux** » que nous vous invitons à lire régulièrement.
+**c)** Les chiens guides ainsi que leur caisse accompagnant les Passagers à Mobilité ou Vue Réduite seront transportés gratuitement, en sus de la franchise de bagages normale, conformément à la réglementation en vigueur, disponible sur notre page « Transport des animaux » que nous vous invitons à lire régulièrement.
 
 **d)** Nous acceptons de transporter les animaux à condition que le Passager en assume la pleine responsabilité. Nous n'assumons aucune responsabilité dans le cas où l’animal se verrait refuser l’entrée ou le passage dans un pays, Etat ou territoire du fait de la non observation de la part de son propriétaire des règles sanitaires ou d’entrée en vigueur. Les Passagers voyageant avec de tels animaux devront nous rembourser les amendes, pertes, réparations et toutes sortes de coûts que nous aurions engagés du fait d'une telle situation.
 
@@ -602,7 +596,7 @@ La Compagnie accepte que certains animaux voyagent en cabine. Toutefois :
 
 Les chiens d´assistance seront acceptés en cabine, sous réserve de la réglementation applicable et de leur taille.
 
-**b)** L´Animal de Compagnie doit être impérativement placé dans un bagage prévu à cet effet, fermé, contenant intégralement l´animal et dans lequel il pourra se lever, se retourner et respirer aisément et librement.
+**b)** L´Animal de Compagnie doit être impérativement placé dans un bagage prévu à cet effet, fermé, contenant intégralement l´animal et dans lequel il pourra se lever, se retourner et respirer aisément et librement.
 
 **c)** Le Passager s´engage à ne pas laisser sortir l´animal, même partiellement, de son contenant pendant toute la durée du vol.
 
@@ -628,11 +622,24 @@ Le Passager est invité à vérifier auprès du Transporteur l’horaire figuran
 
 Si le Transporteur notifié au Passager, est inscrit sur la liste communautaire et fait l’objet d’une interdiction après de la conclusion du contrat, nous vous proposerons un nouveau Transporteur. Si cela n’est pas possible, nous procèderons au remboursement de votre Billet conformément aux dispositions de l’article 13.3 des présentes conditions.
 
-**b)** En cas d’annulation de vol et conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, une assistance immédiate et une indemnisation sont prévues, sauf si l’annulation est due à des circonstances extraordinaires.
+**b)** En cas d’annulation de vol et conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, il est possible pour le passager de :
 
-**c)** Conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, en cas de retard important d’un vol programmé par rapport à l’heure de départ inscrite sur le Billet, une assistance immédiate au passager est prévue, sauf si l’annulation est due à des circonstances extraordinaires. En tout état de cause, aucune indemnisation n'est due au Passager en cas de retard.
+* reporter son voyage dans les meilleurs délais ou à une date ultérieure (selon les disponibilités), dans des conditions de transport similaires; ou
+* obtenir le remboursement du billet.
 
-**12.3. Refus d'embarquement en cas de surréservation programmée**
+Une assistance immédiate est prévue:  selon les cas et le temps d'attente, vous avez le droit à un repas / collation, une boisson, un hébergement (liaison comprise) ainsi qu'à l'accès à un moyen de télécommunication.
+
+Vous pouvez également solliciter une indemnisation sauf (i) si l’annulation est due à des circonstances extraordinaires ou (ii) si vous avez été prévenu suffisamment tôt de l'annulation, c'est-à-dire :
+
+* Au moins deux semaines avant le départ;
+* De deux semaines à sept jours avant le départ s'il est offert un réacheminement permettant de partir au plus tôt deux heures avant l'heure de départ prévue et d'arriver à destination finale moins de quatre heures après l'heure d'arrivée prevue; ou
+* Moins de sept jours avant le départ s'il est offert un réacheminement permettant de partir une heure au plus avant l'heure de départ prévue et d'arriver à la destination finale moins de deux heures après l'heure prévue d'arrivée.
+
+**c)** Conformément aux dispositions du Règlement (CE) N° 261/2004 du Parlement Européen et du Conseil, en cas de retard important (supérieur à deux heures) d’un vol programmé par rapport à l’heure de départ inscrite sur le Billet, une assistance immédiate (similaire à celle décrite ci-avant) au passager est prévue. En cas de retard de plus de cinq heures, si vous ne souhaitez pas poursuivre votre voyage, vous pouvez solliciter le remboursement de votre billet dans les conditions prévues à l'article 13 des Conditions Générales de Transport.
+
+En cas de retard de plus de trois heures, vous avez également le droit à une indemnisation sauf si le retard est dû à des circonstances extraordinaires.  
+
+**12.3.** Refus d'embarquement en cas de surréservation programmée
 
 Si, du fait d'une surréservation programmée, nous ne sommes pas en mesure de vous attribuer un siège, alors que vous possédez une réservation confirmée, nous vous accorderons l’assistance et la compensation prévues par le droit en vigueur. Si plusieurs compensations sont possibles, vous bénéficierez de la plus favorable.
 
@@ -650,18 +657,20 @@ En conformité avec la réglementation tarifaire, nous vous rembourserons tout o
 
 **d)** un remboursement fait à une personne nous remettant le Coupon Passager ou le Reçu Passager ainsi que tous les Coupons de Vol inutilisés et se présentant comme la personne ayant droit au remboursement, conformément aux sous-paragraphes a) et b) ci-dessus, sera considéré comme valable et nous déchargera de toute responsabilité et de toute réclamation ultérieure de remboursement.
 
-**13\. 2. Remboursements pour retard important ou refus d’embarquement**
+**13.2. Remboursements pour annulation, retard important ou refus d’embarquement**
 
 En cas d’annulation, de retard important d’un vol, ou encore de refus d’embarquement au sens du Règlement (CE) N°261/2004, le remboursement se fera dans un délai de sept jours selon les modalités visées au Règlement, au prix indiqué sur le Billet, pour la ou les parties du voyage non effectuées, ainsi que pour la ou les parties du voyage déjà effectuées.
 
 **13.3. Autres remboursements**
 
-**a)** le Passager est en droit de réclamer le remboursement de son Billet pour des raisons autres que celles mentionnées au paragraphe 2 du présent Article et seulement dans les cas où sa responsabilité ne peut être engagée pour justifier de la non utilisation de son billet aux dates indiquées sur son billet ; le montant du remboursement sera alors d’un montant équivalent :
+**a)** le Passager est en droit de réclamer le remboursement de son Billet pour des raisons autres que celles mentionnées au paragraphe 2 du présent Article et seulement dans les cas où sa responsabilité ne peut être engagée pour justifier de la non utilisation de son Billet aux dates indiquées sur son Billet ; le montant du remboursement sera alors d’un montant équivalent :
 
 * au tarif acquitté, moins les frais de dossier ou d’annulation applicables, si aucune partie du Billet n'a été utilisée.
 * à la différence entre le tarif acquitté et le tarif applicable au parcours prévu pour lequel le Billet a été utilisé, moins les frais de dossier ou d’annulation applicables, si une partie du Billet a été utilisée.
 
 **b)** Les remboursements visés à ce paragraphe 3 ne pourront être effectués quand les prescriptions gouvernementales ou tout autre document contractuel entre vous et nous les excluent. C'est notamment le cas des Billets portant la mention "non remboursable".
+
+**c)** En tout état de cause, conformément à l'article L.224-66 du Code de la consommation, le Passager peut solliciter le remboursement des taxes et redevances individualisées et affichées comme telles dans le prix du billet, dues à raison de l'embarquement effectif du Passager, lorsque le Billet n'est plus valable et n'a pas donné lieu à un transport, dans les conditions de l'article 4.2 des Conditions Générales de Transport.
 
 **13.4. Remboursement des Billets déclarés perdus ou volés**
 
@@ -673,7 +682,9 @@ En cas d’annulation, de retard important d’un vol, ou encore de refus d’em
 
 **13.5. Droit de refuser le remboursement**
 
-Nous pouvons refuser le remboursement : **(a)** de tout Billet, après l'expiration de sa validité.
+Nous pouvons refuser le remboursement :
+
+**(a)** de tout Billet, après l'expiration de sa validité.
 
 **(b)** d'un Billet qui sera présenté, à nous-mêmes ou aux autorités d'un pays, comme preuve d'intention de départ de ce pays, à moins que vous nous fournissiez une preuve, satisfaisante à nos yeux, que vous avez la permission de séjourner dans ledit pays ou que vous en repartirez par l'intermédiaire d'un Transporteur, selon l'Article I ci-dessus, ou par un autre moyen de transport.
 
@@ -697,19 +708,19 @@ Les remboursements sont effectués seulement par le Transporteur qui a initialem
 
 ### Article 14 - Comportement à bord
 
-**14.1**. Si nous estimons, de manière raisonnable, que par votre comportement à bord, vous gênez, incommodez, menacez ou mettez en danger l'appareil, une personne ou des biens, ou que vous empêchez l'équipage de remplir ses fonctions, ou bien que vous ne vous soumettez pas aux recommandations et instructions de ce dernier, notamment si celles-ci concernent l'usage du tabac, de l'alcool ou de la drogue, ou encore que votre comportement entraîne ou peut entraîner, pour les autres Passagers, pour l'équipage, une gêne à leur confort ou leur commodité, un Dommage ou une blessure, nous pourrons prendre envers vous toutes les mesures, y compris de contrainte, que nous jugerons nécessaires pour stopper la poursuite d'un tel comportement. Vous pourrez être débarqué(e), vous voir refuser le transport pour des voyages ultérieurs à n'importe quel point du réseau et être poursuivi(e) pour délits ou tout acte répréhensible que vous auriez commis à bord de l'avion.
+**14.1.** Si nous estimons, de manière raisonnable, que par votre comportement à bord, vous gênez, incommodez, menacez ou mettez en danger l'appareil, une personne ou des biens, ou que vous empêchez l'équipage de remplir ses fonctions, ou bien que vous ne vous soumettez pas aux recommandations et instructions de ce dernier, notamment si celles-ci concernent l'usage du tabac, de l'alcool ou de la drogue, ou encore que votre comportement entraîne ou peut entraîner, pour les autres Passagers, pour l'équipage, une gêne à leur confort ou leur commodité, un Dommage ou une blessure, nous pourrons prendre envers vous toutes les mesures, y compris de contrainte, que nous jugerons nécessaires pour stopper la poursuite d'un tel comportement. Vous pourrez être débarqué(e), vous voir refuser le transport pour des voyages ultérieurs à n'importe quel point du réseau et être poursuivi(e) pour délits ou tout acte répréhensible que vous auriez commis à bord de l'avion.
 
 **14.2**. Pour des raisons de sécurité, nous pouvons interdire ou limiter l'utilisation à bord de l'avion, d'équipements électroniques tels que, sans caractère limitatif, les téléphones portables, les ordinateurs portatifs, les postes de radio, les jeux électroniques, les matériels de transmission, les jeux sous contrôle radio et les postes de transmetteurs/émetteurs, ainsi que de tout autre matériel électronique ou d'enregistrement. Sauf pour les appareils de surdité et les stimulateurs cardiaques.
 
 ### Article 15 - Dispositions pour les Prestations Annexes
 
-**15.1**. Si, dans le cadre d'un Contrat de Transport et sous réserve du droit applicable, nous acceptons de prendre des dispositions, par le biais d’un tiers, pour vous fournir des services supplémentaires autres que le transport par air, ou si nous émettons un Billet ou un bon d'échange concernant un transport ou des services (autres qu'un voyage aérien), tels que, par exemple, des réservations d'hôtels ou encore des locations de voiture, les conditions de transport ou de vente de ces tiers sont applicables.
+**15.1.** Si, dans le cadre d'un Contrat de Transport et sous réserve du droit applicable, nous acceptons de prendre des dispositions, par le biais d’un tiers, pour vous fournir des services supplémentaires autres que le transport par air, ou si nous émettons un Billet ou un bon d'échange concernant un transport ou des services (autres qu'un voyage aérien), tels que, par exemple, des réservations d'hôtels ou encore des locations de voiture, les conditions de transport ou de vente de ces tiers sont applicables.
 
-**15.2**. Si nous fournissons des prestations de transport terrestre, d'autres conditions de transport et, en particulier, d'autres régimes de responsabilité, peuvent s'appliquer à ces transports de surface. Ces conditions et régimes sont disponibles, sur demande, auprès de nous ou du Transporteur assurant le transport de surface, selon les cas.
+**15.2.** Si nous fournissons des prestations de transport terrestre, d'autres conditions de transport et, en particulier, d'autres régimes de responsabilité, peuvent s'appliquer à ces transports de surface. Ces conditions et régimes sont disponibles, sur demande, auprès de nous ou du Transporteur assurant le transport de surface, selon les cas.
 
 ### Article 16 - Formalités administratives
 
-**16.1_._ Généralités**
+**16.1. Généralités**
 
 Vous êtes responsable de l'obtention de tous les documents nécessaires à votre voyage, y compris les visas et tout permis particulier qui seraient exigibles par le droit en vigueur dans les Etats de départ, de destination ou de transit. Les exigences des autorités de ces Etats en matière d'immigration et de contrôle aux frontières sont incontournables. Le passager a aussi la responsabilité de procurer les documents de ses enfants mineurs et/ou des passagers dont il a la responsabilité et/ou des Animaux de compagnie avec lesquels il voyage.
 
@@ -741,7 +752,7 @@ Pour de tels remboursements, nous pourrons utiliser les sommes qui nous ont ét�
 
 **16.6. Contrôle de sûreté**
 
-Vous devrez vous soumettre à tous les contrôles de sûreté exigés par les autorités gouvernementales ou aéroportuaires, par nous-mêmes ou par un Transporteur, au sens de l'Article 2 ci-dessus.
+Vous devrez vous soumettre à tous les contrôles de sûreté exigés par les autorités gouvernementales ou aéroportuaires, par nous-mêmes ou par un Transporteur, au sens de l'Article 2 ci-dessus
 
 ### Article 17 - Transporteurs successifs
 
@@ -801,7 +812,7 @@ Nous nous réservons tout droit de recours et de subrogation contre tout tiers.
 
 Sans préjudice du paragraphe précédent, l’avance n’est pas inférieure à l’équivalent en Euros de 16 000 DTS par Passager en cas de décès.
 
-Conformément aux textes en vigueur, le versement d’une avance ne constitue pas une reconnaissance de responsabilité, et l’avance peut être déduite de toute somme payée ultérieurement en fonction de notre responsabilité ; cette avance n’est pas remboursable, sauf dans les cas visés à l’Article 20 de la Convention de Montréal, ou lorsque la personne à laquelle la somme a été versée, n’a pas droit à indemnisation.
+Conformément aux textes en vigueur, le versement d’une avance ne constitue pas une reconnaissance de responsabilité, et l’avance peut être déduite de toute somme payée ultérieurement en fonction de notre responsabilité ; cette avance n’est pas remboursable, sauf dans les cas visés à l’Article 20 de la Convention de Montréal, ou lorsque la **personne à laquelle la somme a été versée, n’a pas droit à indemnisation.**
 
 **18.2.2 Retard**
 
@@ -841,13 +852,13 @@ Notre responsabilité en cas de destruction, perte ou avarie Bagage est limitée
 
 **(a)** Notification des protestations pour les Bagages
 
-**1\.** La réception du Bagage enregistré par le Passager sans contestation de sa part constituera présomption, sauf preuve du contraire, que le Bagage a été livré en bon état et conformément au titre de transport, ou aux indications consignées par les autres moyens visés à l’Article 3, paragraphe 2, et à l’Article 4, paragraphe 2 de la Convention de Montréal.
+**1.** La réception du Bagage enregistré par le Passager sans contestation de sa part constituera présomption, sauf preuve du contraire, que le Bagage a été livré en bon état et conformément au titre de transport, ou aux indications consignées par les autres moyens visés à l’Article 3, paragraphe 2, et à l’Article 4, paragraphe 2 de la Convention de Montréal.
 
-**2\.** En cas d’avarie, le Passager doit adresser au Transporteur une protestation immédiatement après la découverte de l’avarie, et au plus tard, dans un délai de sept jours pour un Bagage enregistré à compter de sa date de réception. En cas de retard, la protestation devra être faite au plus tard dans un délai de vingt et un jours à compter du jour ou le Bagage sera mis à disposition.
+**2.** En cas d’avarie, le Passager doit adresser au Transporteur une protestation immédiatement après la découverte de l’avarie, et au plus tard, dans un délai de sept jours pour un Bagage enregistré à compter de sa date de réception. En cas de retard, la protestation devra être faite au plus tard dans un délai de vingt et un jours à compter du jour ou le Bagage sera mis à disposition.
 
 **3\.** A défaut de protestation dans les délais prévus, toutes les actions contre le Transporteur sont irrecevables, sauf le cas de fraude de celui-ci.
 
-**4\.** Dès réception de la protestation, nous établirons un "Constat de Dommage ou de Perte", éventuellement assorti de réserves.
+**4.** Dès réception de la protestation, nous établirons un "Constat de Dommage ou de Perte", éventuellement assorti de réserves.
 
 **(b)** Action en responsabilité pour les passagers
 
@@ -855,7 +866,7 @@ Toute action en dommages et intérêts doit être intentée, sous peine de presc
 
 **(c)** Forme
 
-Toutes réclamations ou actions mentionnées aux paragraphes **(a)** et **(b)** ci-dessus doivent être faites par écrit, dans les délais indiqués.
+Toutes réclamations ou actions mentionnées aux paragraphes (a) et (b) ci-dessus doivent être faites par écrit, dans les délais indiqués.
 
 **(d)** Modification et suppression
 
