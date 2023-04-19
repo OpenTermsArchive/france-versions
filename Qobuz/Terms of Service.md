@@ -273,34 +273,33 @@ La période d'essai est réservée à tout nouvel abonné et chaque utilisateur 
 
 Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-dessous et avoir la capacité de conclure un contrat ayant force exécutoire avec XANDRIE SA : 
 
-  
-
 |     |     |     |
 | --- | --- | --- |
 | **Pays** | **Création d’un compte, sans souscription d’abonnement** | **Souscription à une offre d’abonnement Qobuz** |
-| **France** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Allemagne** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Argentine** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Australie** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Autriche** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Belgique** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Brésil** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Colombie** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Chili** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Danemark** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Espagne** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **États-Unis** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Finlande** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Irlande** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Italie** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Luxembourg** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Mexique** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Norvège** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Nouvelle-Zélande** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Pays-Bas** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Royaume-Uni** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Suède** | **A partir de 16 ans** | **A partir de 18 ans** |
-| **Suisse** | **A partir de 16 ans** | **A partir de 18 ans** |
+| Allemagne | A partir de 16 ans | A partir de 18 ans |
+| Argentine | A partir de 16 ans | A partir de 18 ans |
+| Australie | A partir de 16 ans | A partir de 18 ans |
+| Autriche | A partir de 16 ans | A partir de 18 ans |
+| Belgique | A partir de 16 ans | A partir de 18 ans |
+| Brésil | A partir de 16 ans | A partir de 18 ans |
+| Canada | A partir de 16 ans | A partir de 18 ans |
+| Colombie | A partir de 16 ans | A partir de 18 ans |
+| Chili | A partir de 16 ans | A partir de 18 ans |
+| Danemark | A partir de 16 ans | A partir de 18 ans |
+| Espagne | A partir de 16 ans | A partir de 18 ans |
+| États-Unis | A partir de 16 ans | A partir de 18 ans |
+| Finlande | A partir de 16 ans | A partir de 18 ans |
+| France | A partir de 16 ans | A partir de 18 ans |
+| Irlande | A partir de 16 ans | A partir de 18 ans |
+| Italie | A partir de 16 ans | A partir de 18 ans |
+| Luxembourg | A partir de 16 ans | A partir de 18 ans |
+| Mexique | A partir de 16 ans | A partir de 18 ans |
+| Norvège | A partir de 16 ans | A partir de 18 ans |
+| Nouvelle-Zélande | A partir de 16 ans | A partir de 18 ans |
+| Pays-Bas | A partir de 16 ans | A partir de 18 ans |
+| Royaume-Uni | A partir de 16 ans | A partir de 18 ans |
+| Suède | A partir de 16 ans | A partir de 18 ans |
+| Suisse | A partir de 16 ans | A partir de 18 ans |
 
 3. Description des offres QOBUZ
 
