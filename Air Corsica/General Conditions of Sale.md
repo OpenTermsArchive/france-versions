@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Nous vous rappelons que le transport aérien de personnes est soumis aux **Conditions Générales de Vente et de Transport** consultables sur notre site. Nous vous recommandons d'en prendre connaissance. Pour l'ensemble des autres biens et services décrits sur notre site et non soumis aux Conditions Générales de Vente et de Transport, la responsabilité d’Air Corsica ne saurait être retenue en cas de survenance d'un événement de force majeure tel que la défaillance des prestataires de services par exemple.
+**Nous vous rappelons que le transport aérien de personnes est soumis aux Conditions Générales de Vente et de Transport consultables sur notre site. Nous vous recommandons d'en prendre connaissance. Pour l'ensemble des autres biens et services décrits sur notre site et non soumis aux Conditions Générales de Vente et de Transport, la responsabilité d’Air Corsica ne saurait être retenue en cas de survenance d'un événement de force majeure tel que la défaillance des prestataires de services par exemple.**
 
 ### **Conditions Générales de Vente Air Corsica**
 
