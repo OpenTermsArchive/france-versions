@@ -16,6 +16,22 @@ Ces Conditions s'appliquent si vous résidez hors des États-Unis ou si votre en
 
 **AVIS CONCERNANT L'ARBITRAGE : SI VOUS UTILISEZ LES SERVICES POUR LE COMPTE D'UNE ENTREPRISE, CETTE DERNIÈRE SERA LIÉE PAR LA CLAUSE D'ARBITRAGE DÉFINIE ULTÉRIEUREMENT DANS LES PRÉSENTES CONDITIONS.**
 
+1\. Qui peut utiliser les Services
+----------------------------------
+
+Aucune personne de moins de 13 ans (ou plus, si l'âge minimum auquel quelqu'un pourrait utiliser les Services dans votre pays) n'est autorisée à créer un compte ou à utiliser les Services. Si vous avez moins de 18 ans (ou que vous n'êtes pas majeur dans votre pays), vous ne pouvez utiliser les Services qu'avec le consentement préalable de votre parent ou de votre tuteur légal. Veuillez vous assurer que votre parent ou votre tuteur légal a examiné et discuté des présentes Conditions avec vous avant de commencer à utiliser les Services. Nous pouvons proposer d'autres Services soumis à d'autres conditions et pour lesquels l'âge limite peut être plus élevé. Veuillez donc lire toutes les clauses attentivement. En utilisant les Services, vous déclarez, vous garantissez et affirmez que :
+
+* vous avez la capacité de conclure un contrat ayant force obligatoire avec Snap ;
+    
+* vous n'êtes pas une personne à qui il est interdit d'utiliser les Services en vertu des lois des États-Unis, au Royaume-Uni ou dans tout autre pays ; par exemple, vous ne figurez pas sur la liste des ressortissants spécialement désignés du département du Trésor des États-Unis ou vous ne faites l'objet d'aucune autre interdiction de ce type ;
+    
+* vous n'avez pas été condamné pour un motif de délinquance sexuelle ; et
+    
+* vous respecterez ces Conditions et tous les règlements, règles et lois applicables au niveau local, régional, national ou international.
+    
+
+Si vous utilisez les Services au nom d'une entreprise ou d'une autre entité, vous déclarez être autorisé à lier cette entreprise ou cette entité aux présentes Conditions et vous acceptez ces conditions au nom de cette entreprise ou de cette entité (et toutes les références à « vous » et « votre » dans les présentes Conditions signifient à la fois vous en tant qu'utilisateur final et cette entreprise ou entité).
+
 2\. Vos droits
 --------------
 
@@ -37,6 +53,11 @@ Bien que nous ne soyons pas tenus de le faire, nous nous réservons le droit d'a
 Nous, Snap Inc, nos affiliés et nos partenaires tiers pouvons placer des publicités sur les Services, y compris des publicités personnalisées - avec votre consentement, le cas échéant - sur la base des informations que vous nous fournissez, que nous collectons ou que nous obtenons sur vous. La publicité peut parfois apparaître à proximité, entre, sur ou dans votre contenu.
 
 Nous sommes toujours ravis de connaître l'avis de nos utilisateurs. Mais si vous fournissez des commentaires ou des suggestions, sachez simplement que nous pouvons les utiliser sans vous rémunérer, et sans aucune restriction ou obligation à votre égard. Vous acceptez que nous détenions tous les droits sur tout matériel ou tout élément que nous développons sur la base de ces commentaires ou suggestions.
+
+4\. **Conditions supplémentaires applicables aux Services spécifiques**
+-----------------------------------------------------------------------
+
+Des termes et conditions supplémentaires figurant sur la page [Conditions et politiques de Snap](https://snap.com/fr-FR/policies) ou qui sont autrement mis à votre disposition peuvent s'appliquer à des services spécifiques. Si vous utilisez ces Services, alors ces conditions supplémentaires deviennent parties des présentes Conditions. Si l'une des conditions supplémentaires applicables est en contradiction avec les présentes Conditions, les conditions supplémentaires prévaudront pendant que vous utilisez les Services auxquels elles s'appliquent.
 
 5\. Confidentialité
 -------------------
@@ -108,6 +129,11 @@ Nous veillons particulièrement à ce que nos Services constituent un espace sé
 Si vous ne vous conformez pas à ces règles, nous nous réservons le droit de supprimer tout contenu offensant, de supprimer, ou de limiter la visibilité de votre compte, et de le notifier aux tiers — y compris les forces de l'ordre — et de fournir à ces tiers des informations relatives à votre compte. Cette mesure peut s'avérer nécessaire pour protéger la sécurité de nos utilisateurs et d'autres personnes, pour enquêter sur d'éventuelles violations des Conditions, y remédier et les faire respecter, et pour détecter et résoudre toute fraude ou problème de sécurité.
 
 Votre sécurité physique quand vous utilisez nos Services est importante pour nous. N'utilisez donc pas nos Services d'une manière qui pourrait vous mettre dans une situation où vous enfreindriez le code de la route ou les lois sur la sécurité. Par exemple, il vous est interdit d'utiliser les Services quand vous conduisez. Ne mettez jamais non plus votre sécurité, ou celle des autres, en danger juste pour prendre un Snap.
+
+10\. Votre compte
+-----------------
+
+Pour utiliser certains Services, vous devez créer un compte. Vous acceptez de nous fournir des informations exactes, complètes et à jour pour votre compte. Vous êtes responsable de toute activité sur votre compte. Il est donc important de veiller à préserver la sécurité de votre compte. Une des manières de le faire est de choisir un mot de passe fiable que vous n'utilisez pas pour d'autres comptes. Si vous pensez que quelqu'un a accédé à votre compte, veuillez contacter immédiatement l'[assistance](https://support.snapchat.com/a/hacked-howto/). Tout logiciel que nous vous fournissons peut télécharger et installer automatiquement des mises à niveau, des mises à jour ou d'autres nouvelles fonctionnalités. Vous pouvez régler et ajuster ces téléchargements automatiques dans les réglages de votre appareil. Vous acceptez de ne pas créer de compte si nous vous avons précédemment retiré ou banni, vous ou votre compte, de l'un de nos services, sauf accord contraire de notre part.
 
 11\. Memories
 -------------
