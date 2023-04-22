@@ -130,6 +130,11 @@ Si vous ne vous conformez pas à ces règles, nous nous réservons le droit de s
 
 Votre sécurité physique quand vous utilisez nos Services est importante pour nous. N'utilisez donc pas nos Services d'une manière qui pourrait vous mettre dans une situation où vous enfreindriez le code de la route ou les lois sur la sécurité. Par exemple, il vous est interdit d'utiliser les Services quand vous conduisez. Ne mettez jamais non plus votre sécurité, ou celle des autres, en danger juste pour prendre un Snap.
 
+10\. Votre compte
+-----------------
+
+Pour utiliser certains Services, vous devez créer un compte. Vous acceptez de nous fournir des informations exactes, complètes et à jour pour votre compte. Vous êtes responsable de toute activité sur votre compte. Il est donc important de veiller à préserver la sécurité de votre compte. Une des manières de le faire est de choisir un mot de passe fiable que vous n'utilisez pas pour d'autres comptes. Si vous pensez que quelqu'un a accédé à votre compte, veuillez contacter immédiatement l'[assistance](https://support.snapchat.com/a/hacked-howto/). Tout logiciel que nous vous fournissons peut télécharger et installer automatiquement des mises à niveau, des mises à jour ou d'autres nouvelles fonctionnalités. Vous pouvez régler et ajuster ces téléchargements automatiques dans les réglages de votre appareil. Vous acceptez de ne pas créer de compte si nous vous avons précédemment retiré ou banni, vous ou votre compte, de l'un de nos services, sauf accord contraire de notre part.
+
 11\. Memories
 -------------
 
@@ -181,6 +186,26 @@ Les services sont fournis « tels quels » et « sous réserve de disponibilité
 **En vertu de la loi, Snap Group Limited, Snap Inc. et nos sociétés affiliées ne prennent aucune responsabilité et n'assument aucune responsabilité pour tout contenu que vous, un autre utilisateur ou un tiers, créez, téléchargez, affichez, envoyez, recevez, visualisez, ou stockez sur ou via nos Services et vous comprenez que vous pouvez être exposé à un contenu offensant, illégal, trompeur ou inapproprié, dont ni Snap Group Limited, ni Snap Inc, encore moins nos sociétés affiliées n'en seront responsables.**
 
 **Rien dans ces conditions n'exclura ni ne limitera toute responsabilité que nous pourrions avoir pour supprimer du contenu, si la loi du pays dans lequel vous vivez l'exige.**
+
+17\. Limitation de responsabilité
+---------------------------------
+
+**Snap Group Limited, Snap Inc. et ses sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licence, fournisseurs et agents ne seront pas responsables de dommages indirects, accessoires, spéciaux, consécutifs, punitifs ou multiples dommages-intérêts ou de tout manque à gagner ou pertes de revenus, qu'ils soient encourus directement ou indirectement, ou de pertes de données, d'utilisation, de bonne volonté ou de pertes immatérielles, résultant : a) de votre utilisation des Services ou de votre incapacité d'utiliser ces Services ; b) de votre accès aux Services ou votre incapacité d'accéder aux Services** ; c) la conduite ou le contenu d'autres utilisateurs ou tiers sur ou via ces Services ; ou d) l'accès, l'utilisation ou la modification non autorisés de votre contenu. Sauf dans la mesure où il est spécifié autrement dans toute autre condition applicable de Snap Group Limited, Snap Inc. ou nos sociétés affiliées, en aucun cas la responsabilité globale de Snap Group Limited, Snap Inc. ou nos sociétés affiliées pour toutes les réclamations liées aux Services n'excédera : (a) 100 EUR, et (b) le montant que vous avez payé à Snap Group Limited au cours des 12 derniers mois pour tous les Services.
+
+**Aucune disposition des présentes Conditions (ou pour éviter toute ambiguïté, d'autres conditions dont vous faites l'objet relativement à la fourniture de Services par Snap Group Limited, Snap Inc. ou nos sociétés affiliées) ne doit exclure ou limiter la responsabilité de Snap Group Limited, de Snap Inc. ou de nos sociétés affiliées : au regard (a) du décès ou du dommage corporel résultant de leur intention ou négligence respective ; (b) de la fraude ou la fausse déclaration frauduleuse ; ou (c) de toute autre responsabilité dans la mesure où cette responsabilité ne peut être exclue ou limitée en droit.**
+
+**En outre, aucune disposition contenue dans les présentes Conditions n'affecte vos droits statutaires en tant que consommateur**
+
+**SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS UNE LIMITATION DE RESPONSABILITÉ PRÉVUE DANS CETTE CLAUSE, CELLE-CI NE S'APPLIQUERA PAS.**
+
+18\. Règlement des différends et arbitrage
+------------------------------------------
+
+Si vous avez un problème, nous pouvons en discuter. [Contactez-nous](https://support.snapchat.com/) et nous ferons de notre mieux pour résoudre le problème.
+
+Certains de nos Services sont susceptibles de disposer de conditions supplémentaires comportant des clauses de règlement des différends spécifique au Service concerné ou à votre lieu de résidence.
+
+**Si vous utilisez les Services au nom d'une entreprise (plutôt que pour votre usage personnel), vous et Snap Group Limited convenez, dans la limite autorisée par la loi, que l'ensemble des réclamations et litiges susceptibles de surgir entre nous au regard des présentes Conditions ou de l'utilisation des Services seront définitivement réglés sur la base des** [**Règles d'arbitrage contraignantes de la LCIA**](http://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)**, qui sont incorporés par référence dans la présente clause. La mission d'arbitrage sera confiée à un seul arbitre (devant être désigné par la LCIA), l'arbitrage se déroulera à Londres et l'arbitrage sera mené en anglais. Si vous ne voulez pas accepter cette clause, vous ne devez pas utiliser les Services.**
 
 19\. Lieu exclusif
 ------------------
