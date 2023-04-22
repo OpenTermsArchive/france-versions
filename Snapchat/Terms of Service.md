@@ -64,11 +64,6 @@ Des termes et conditions supplémentaires figurant sur la page [Conditions et po
 
 Votre confidentialité est importante pour nous. Vous pouvez en savoir plus sur la manière dont vos informations sont traitées lorsque vous utilisez nos Services en consultant notre [Politique de confidentialité](https://snap.com/fr-FR/privacy/privacy-policy/).
 
-6\. **Les Contenus des Tiers**
-------------------------------
-
-Une grande partie du contenu sur nos Services est produite par des utilisateurs, des éditeurs et d'autres tiers. Que ce contenu soit publié publiquement ou envoyé de manière privée, le contenu est la seule responsabilité de l'utilisateur ou de l'entité qui l'a envoyé. Bien que Snap se réserve le droit de consulter ou de supprimer tout contenu qui apparaît sur les Services, nous ne l'examinons pas nécessairement en totalité. Nous ne pouvons donc pas garantir que d'autres utilisateurs ou le contenu qu'ils fournissent par les Services respecteront nos Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines).
-
 7\. Respect des Services et des droits Snap
 -------------------------------------------
 
@@ -101,26 +96,6 @@ Vous devez également respecter les droits Snap et adhérer à la [Charte de la 
 * accéder aux services ou les utiliser d'une manière qui n'est pas expressément autorisée par les présentes Conditions ou nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines)
     
 
-8\. Respect des droits d'autrui
--------------------------------
-
-Snap respecte les droits d'autrui. Et vous devriez aussi. Vous ne pouvez donc pas utiliser les Services ou inciter quelqu'un d'autre à utiliser les Services de manière à enfreindre ou violer le droit de publicité, de confidentialité, de droit d'auteur, de marque déposée ou tout autre de droit de propriété intellectuelle de quelqu'un d'autre. Lorsque vous soumettez du contenu au Service, vous êtes seul responsable et vous devez vous assurer que vous êtes propriétaire de ce contenu, ou que vous avez reçu toutes les permissions et autorisations nécessaires afin de le soumettre au Service (y compris, le cas échéant, le droit de faire des reproductions mécaniques des œuvres musicales incorporées dans tout enregistrement sonore, de synchroniser toutes les compositions avec tous les contenus, d’interpréter publiquement des compositions ou tout enregistrement sonore, ou tout autre droit applicable pour toute musique non fournie par Snap que vous incluez dans votre contenu) et de concéder les droits et les licences contenus dans ces Conditions pour votre contenu. Vous acceptez également de ne pas utiliser ou tenter d'utiliser le compte d'un autre utilisateur à moins que Snap ou ses sociétés affiliées ne l'autorise.
-
-Snap respecte les lois sur les droits d'auteur, y compris le Digital Millennium Copyright Act et prend des mesures raisonnables pour retirer rapidement de nos Services tout matériel en infraction dont nous avons connaissance. Lorsque Snap prend conscience qu'utilisateur a enfreint a plusieurs reprises les droits d'auteur, nous prendrons des mesures raisonnables en notre pouvoir pour résilier le compte de l'utilisateur. Si vous pensez que quoi que ce soit dans les Services enfreint un droit d'auteur que vous possédez ou contrôlez, veuillez le signaler en utilisant le formulaire accessible via cet [outil](https://support.snapchat.com/a/infringement-reporting-about). Ou vous pouvez déposer un avis auprès de notre agent désigné : Snap Inc, Attn : Copyright Agent, 3000 31st Street, Santa Monica, CA 90405, email : copyright @ snap.com. N'utilisez pas cette adresse e-mail pour autre chose que le signalement d'une violation du droit d'auteur, car de tels e-mails seront ignorés. Pour signaler d'autres formes de violation des Services, veuillez utiliser l'outil accessible [ici](https://support.snapchat.com/a/infringement-reporting-about). Si vous signalez une infraction auprès de notre Copyright Agent, votre avis doit :
-
-* contenir la signature physique ou électronique d'une personne autorisée à agir pour le compte du titulaire du droit d'auteur ;
-    
-* identifier l'élément protégé par le droit d'auteur susceptible d'avoir été enfreint ;
-    
-* identifier l'élément dont la violation est alléguée ou qui est prétendument l'objet d'activités contrefaisantes et qui doit être supprimé, ou dont l'accès doit être désactivé, et fournir des renseignements raisonnablement suffisants pour nous permettre de localiser l'élément ;
-    
-* fournir vos coordonnées, notamment votre adresse, numéro de téléphone et une adresse e-mail ;
-    
-* fournir une déclaration personnelle indiquant que vous croyez de bonne foi que l'utilisation de l'élément faisant l'objet de la demande n'est pas autorisée par le titulaire du droit d'auteur, son agent ou la loi ; et
-    
-* fournir une déclaration indiquant que les informations contenues dans la notification sont exactes et que, sous peine de parjure, vous êtes autorisé à agir au nom du titulaire du droit d'auteur.
-    
-
 9\. Sécurité
 ------------
 
@@ -135,15 +110,6 @@ Votre sécurité physique quand vous utilisez nos Services est importante pour n
 
 Pour utiliser certains Services, vous devez créer un compte. Vous acceptez de nous fournir des informations exactes, complètes et à jour pour votre compte. Vous êtes responsable de toute activité sur votre compte. Il est donc important de veiller à préserver la sécurité de votre compte. Une des manières de le faire est de choisir un mot de passe fiable que vous n'utilisez pas pour d'autres comptes. Si vous pensez que quelqu'un a accédé à votre compte, veuillez contacter immédiatement l'[assistance](https://support.snapchat.com/a/hacked-howto/). Tout logiciel que nous vous fournissons peut télécharger et installer automatiquement des mises à niveau, des mises à jour ou d'autres nouvelles fonctionnalités. Vous pouvez régler et ajuster ces téléchargements automatiques dans les réglages de votre appareil. Vous acceptez de ne pas créer de compte si nous vous avons précédemment retiré ou banni, vous ou votre compte, de l'un de nos services, sauf accord contraire de notre part.
 
-11\. Memories
--------------
-
-Memories est notre service de stockage de données qui vous permet de consulter vos souvenirs plus facilement partout et à tout moment. En acceptant ces Conditions, vous activez automatiquement Memories. Une fois que vous avez activé Memories, cette option restera activée aussi longtemps que vous conserverez votre compte Snapchat. Néanmoins, vous pouvez toujours désactiver certaines fonctionnalités Memories dans les Réglages.
-
-Une des options que nous fournissons avec Memories est la possibilité de créer un espace privé, accessible uniquement par un code d'accès, qui peut être un code PIN, une phrase secrète ou un autre mécanisme. Le principe est similaire à l'option de verrouillage de l'appareil que vous utilisez peut-être sur votre appareil mobile ; en définissant un code secret, vous évitez qu'une personne ayant accès à votre appareil puisse voir ce que vous avez enregistré dans cet espace réservé de Memories. Mais nous vous avertissons que **si vous perdez ou oubliez votre code d'accès Memories, ou si vous saisissez trop souvent un mauvais code, vous perdrez l'accès à tout le contenu que vous avez enregistré dans l'espace privé de Memories**. Nous ne proposons aucune fonctionnalité de récupération du code d'accès de cet espace privé. Vous seul êtes responsable de votre code d'accès. Allez sur notre [Site d'assistance](https://support.snapchat.com/) pour en savoir plus sur les codes secret.
-
-Il se peut que vos contenus Memories ne soient plus disponibles pour un certain nombre de raisons, notamment en cas de dysfonctionnement opérationnel ou du fait de notre décision de fermer votre compte. Comme nous ne pouvons pas vous promettre que vos contenus seront toujours accessibles, nous vous recommandons de conserver une copie séparée des contenus que vous enregistrez dans Memories. Nous ne pouvons pas vous promettre que Memories sera en mesure de répondre précisément à tous vos besoins de stockage. Nous nous réservons le droit de définir des limites de stockage pour Memories, et nous pourrons, à notre entière discrétion, modifier ces limites de temps à autre. Comme pour nos autres Services, votre utilisation de Memories peut occuper de l'espace sur votre appareil et peut augmenter vos frais de données mobiles.
-
 12\. Téléphones mobiles et frais facturés par les opérateurs
 ------------------------------------------------------------
 
@@ -152,27 +118,6 @@ Vous êtes responsable de tous les frais de téléphonie mobile que vous pouvez 
 En nous fournissant votre numéro de téléphone mobile, vous acceptez de recevoir des SMS de Snap relatifs aux Services, y compris sur les promotions, votre compte et votre relation avec Snap Ces SMS peuvent être envoyés à votre numéro de téléphone et ce, même si ce dernier est enregistré sur n'importe quel type de liste « Ne pas appeler » ou l'équivalent international.
 
 Si vous changez ou désactivez le numéro de téléphone mobile que vous avez utilisé pour créer un compte Snapchat, vous devez mettre à jour les informations de votre compte dans les Réglages sous 72 heures, afin de nous éviter d'envoyer à quelqu'un d'autre des messages vous étant adressés.
-
-13\. Services tiers
--------------------
-
-Certains Services peuvent afficher, inclure ou mettre à disposition du contenu, des données, des informations, des fonctionnalités ou des matériels provenant de tiers (ci-après dénommé « Supports de tiers »), ou fournir des liens vers certains sites web de tiers. Si vous utilisez du matériel de tiers mis à disposition par le biais de nos Services (y compris les Services que nous proposons conjointement avec le tiers), les conditions de chaque partie régissent la relation entre la partie respective et vous. Ni Snap ni nos sociétés affiliées ne sauraient être tenus responsables des conditions ou mesures prises par un tiers dans le cadre de ses conditions. En outre, en utilisant les Services vous reconnaissez et convenez de ce que Snap n'est pas responsable de l'examen ou de l'évaluation du contenu, de sa précision, de son exhaustivité, de sa disponibilité, de son exactitude, de sa validité, des droits d'auteur, de sa conformité, de sa légalité, de sa décence, de sa qualité ou de tout autre aspect de ces matériels ou sites web tiers. Nous ne garantissons ni n'approuvons, n'assumons et n'aurons aucune responsabilité envers vous ou toute autre personne pour les services de tiers, le matériel de tiers ou les sites web de tiers, ou pour tout autre matériel, produit ou service de tiers. Les matériel de tiers et les liens vers d'autres sites web sont fournis uniquement pour votre commodité.
-
-14\. Modification des Services et Résiliation.
-----------------------------------------------
-
-Nous améliorons sans cesse nos Services et en créons de nouveaux en permanence. Cela signifie que nous pouvons ajouter ou supprimer des fonctions, fonctionnalités ou produits et que nous pouvons également suspendre temporairement ou définitivement l'ensemble des Services. Nous pouvons prendre l'une de ces mesures à tout moment ; dans ce cas, nous nous efforcerons de vous informer à l'avance mais cela ne sera pas toujours possible.
-
-Nous espérons que vous resterez un Snapchatter tout au long de votre vie, mais vous pouvez résilier ces Conditions à tout moment en supprimant votre compte Snapchat (ou, dans certains cas, le compte Snapchat associé à la partie applicable des Services que vous utilisez).
-
-Nous pouvons résilier ou suspendre temporairement votre accès aux Services si vous ne respectez pas les présentes Conditions, nos [Règles communautaires](https://snap.com/fr-FR/community-guidelines) ou la loi, pour toute raison indépendante de notre volonté, ou pour toute autre raison, et sans préavis. Cela signifie que nous pouvons résilier les présentes Conditions, cesser de vous fournir tout ou partie des Services, ou imposer des limites nouvelles ou supplémentaires à votre capacité à utiliser nos Services. Et bien que nous nous efforcions de vous donner un préavis raisonnable, nous ne pouvons pas garantir que ce préavis sera possible dans toutes les circonstances. Par exemple, nous pouvons désactiver votre compte en raison d'une inactivité prolongée et pouvons récupérer votre nom d'utilisateur à tout moment pour quelque raison que ce soit.
-
-Quelle que soit la personne qui résilie ces conditions, vous et Snap continuez à être liés par les sections 3, 4 (dans la mesure où toute condition supplémentaire survivrait, par ses termes), et 6 - 22 des Conditions.
-
-15\. Indemnité
---------------
-
-Dans la mesure permise par la loi, vous acceptez d'indemniser, de défendre et dégager Snap, nos sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licences et mandataires de toute responsabilité et contre toutes plaintes, accusation, réclamations, dommages-intérêts, pertes, coûts, dettes, et dépenses (y compris les honoraires d'avocat) dues ou liées de quelque manière que ce soit : (a) à votre accès aux Services ou à leur utilisation ; (b) à votre contenu, y compris les plaintes relatives à sa violation ; (c) votre violation des présentes conditions ou de toute loi ou réglementation applicable ; ou (d) votre négligence ou votre faute intentionnelle.
 
 16\. Clause de non-responsabilité
 ---------------------------------
@@ -198,38 +143,7 @@ Les services sont fournis « tels quels » et « sous réserve de disponibilité
 
 **SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS UNE LIMITATION DE RESPONSABILITÉ PRÉVUE DANS CETTE CLAUSE, CELLE-CI NE S'APPLIQUERA PAS.**
 
-18\. Règlement des différends et arbitrage
-------------------------------------------
-
-Si vous avez un problème, nous pouvons en discuter. [Contactez-nous](https://support.snapchat.com/) et nous ferons de notre mieux pour résoudre le problème.
-
-Certains de nos Services sont susceptibles de disposer de conditions supplémentaires comportant des clauses de règlement des différends spécifique au Service concerné ou à votre lieu de résidence.
-
-**Si vous utilisez les Services au nom d'une entreprise (plutôt que pour votre usage personnel), vous et Snap Group Limited convenez, dans la limite autorisée par la loi, que l'ensemble des réclamations et litiges susceptibles de surgir entre nous au regard des présentes Conditions ou de l'utilisation des Services seront définitivement réglés sur la base des** [**Règles d'arbitrage contraignantes de la LCIA**](http://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)**, qui sont incorporés par référence dans la présente clause. La mission d'arbitrage sera confiée à un seul arbitre (devant être désigné par la LCIA), l'arbitrage se déroulera à Londres et l'arbitrage sera mené en anglais. Si vous ne voulez pas accepter cette clause, vous ne devez pas utiliser les Services.**
-
-19\. Lieu exclusif
-------------------
-
-Dans la mesure où ces Conditions vous autorisent, ainsi qu'à Snap, à porter une action en justice devant un tribunal, aussi bien vous que Snap Group Limited convenez que tous les différends et réclamations (qu'ils soient de nature contractuelle ou autre) découlant de ou liés aux Conditions ou à l'utilisation des Services seront exclusivement réglés par les tribunaux d'Angleterre (Royaume-Uni), sauf si la loi du pays dans lequel vous résidez ne l'autorise pas. Vous et Snap consentez à la compétence exclusive de ces tribunaux.
-
-20\. Choix de la loi applicable
--------------------------------
-
-Les lois d'Angleterre et du pays de Galle régissent les présentes Conditions et l'ensemble des différends et réclamations (qu'ils soient de nature contractuelle ou délictuelle ou autre) découlant directement ou indirectement de ces Conditions ou de leur objet. Il se peut que les tribunaux de certains pays n'appliquent pas les lois d'Angleterre et du pays de Galle dans le cadre de certains différends liés aux présentes conditions. Si vous résidez dans l'un de ces pays, les lois de votre pays de résidence peuvent s'appliquer dans le cadre de ces différends.
-
-21\. Séparabilité
------------------
-
-Si l'une ou plusieurs dispositions des présentes Conditions devait s'avérer inapplicable, elle serait séparée des présentes Conditions et n’affecterait en rien la validité et le caractère exécutoire des autres dispositions.
-
 22\. Conditions finales
 -----------------------
 
 Ces Conditions finales, y compris les conditions supplémentaires précisées dans l'Article 4, constituent l'intégralité de l'accord entre Snap et vous, et remplace tout précédents accord. Les présentes Conditions ne créent ni ne confèrent de droits à aucun tiers. Si nous ne nous prévalons pas une des dispositions contenues dans les présentes Conditions, cela ne sera pas considéré comme une renonciation. Nous nous réservons le droit de transférer nos droits en vertu des présentes Conditions et de fournir les Services en utilisant une autre entité, à condition que cette entité respecte ces Conditions. Vous ne pouvez céder aucun de vos droits ou vos obligations en vertu des présentes Conditions sans notre consentement. Nous nous réservons tous les droits qui ne vous ont pas été expressément octroyés.
-
-Contactez-nous
---------------
-
-Snap Group Limited vous invite à lui faire part de vos commentaires, questions, doutes ou suggestions. Vous pouvez nous contacter ou obtenir une assistance en utilisant [ce formulaire en ligne](https://support.snapchat.com/i-need-help).
-
-Snap Group Limited, la société en charge des Services à l'extérieur des États-Unis, est située au 77 Shaftesbury Avenue, London, W1D 5DU, Royaume-Uni. Numéro d'immatriculation de la société : 09763672. Numéro de TVA : GB 237218316.
