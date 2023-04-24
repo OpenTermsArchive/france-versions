@@ -86,6 +86,13 @@ ARTICLE 1 - DÉFINITIONS
 
 « **CONVENTION** » désigne la Convention de Montréal de 1999.
 
+**Règlements sur les droits des passagers**
+
+Le cas échéant :
+
+* Règlement (CE) n° 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière de compensation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le règlement (CEE) n° 295/91 et
+* Règlement de 2019 sur les droits des passagers aériens et les licences des organisateurs de voyages aériens (amendement) (sortie de l’UE).
+
 « **CARTE D’EMBARQUEMENT** » désigne le document en ligne intitulé « Carte d’embarquement » imprimé par vous ou en votre nom avant tout vol, ou tout document d’un format différent qui pourrait être émis par nous ou nos représentants dans un aéroport desservi par nous.
 
 « **DOMMAGE** » recouvre le décès, les blessures ou les lésions corporelles occasionnées à un passager, ainsi que la perte totale ou partielle, le vol ou toute autre détérioration occasionnés aux bagages, survenant dans le cadre du transport aérien ou en relation avec le transport aérien ou d’autres services qui s’y rapportent et que nous avons fournis.
@@ -224,9 +231,16 @@ La TVA ne s’applique pas aux tarifs et frais relatifs aux trajets internationa
 ARTICLE 5 ASSISTANCE SPÉCIALE
 =============================
 
-**5.1** Sans préjudice de l’article 5.2, les passagers handicapés ou à mobilité réduite ne doivent pas se voir refuser un transport en raison de leur handicap ou de leur manque de mobilité. L’acceptation du transport de personnes en bas âge voyageant seules, de personnes handicapées, de femmes enceintes, de personnes souffrant de maladies, de passagers malvoyants ou non-voyants ou d’autres personnes nécessitant une assistance spéciale est soumise à des dispositions prises préalablement avec nous selon nos Règlements (cliquer ici pour accéder au Règlement à ce sujet).
+**5.1** Sans préjudice de l’article 5.2, les passagers handicapés ou à mobilité réduite ne doivent pas se voir refuser un transport en raison de leur handicap ou de leur manque de mobilité. L’acceptation du transport de personnes en bas âge voyageant seules, de personnes handicapées, de femmes enceintes, de personnes souffrant de maladies, de passagers malvoyants ou non-voyants ou d’autres personnes nécessitant une assistance spéciale est soumise à des dispositions prises préalablement avec nous selon nos Règlements (cliquer ici pour accéder au Règlement à ce sujet).
 
-**5.2** Les passagers handicapés ou à mobilité réduite ou leurs représentants doivent nous contacter concernant les détails des besoins en assistance spéciale le jour de la réservation ou aussitôt que ces besoins sont connus mais en tout cas au moins quarante-huit (48) heures avant le voyage. Nous nous efforcerons, dans la mesure du raisonnable, de vérifier s’il existe un motif de sécurité justifié qui empêcherait lesdites personnes d’être embarquées sur le(s) vol(s) concerné(s) et, le cas échéant, nous efforcerons dans les limites du raisonnable, de proposer une autre solution acceptable. Conformément au Règlement (CE) No. 1107/2006 nous pouvons, pour cause de handicap ou de mobilité réduite, refuser d’embarquer une personne handicapée ou une personne à mobilité réduite uniquement afin de respecter les exigences de sécurité applicables ou si la taille de l’aéronef ou de ses portes rend physiquement impossible l’embarquement ou le transport de cette personne handicapée ou à mobilité réduite. Une fois que nous avons pris en charge les besoins en assistance spéciale, nous fournirons l’assistance à l’embarquement et en vol conformément au Règlement (CE) No. 1107/2006 et une personne handicapée ou une personne à mobilité réduite à laquelle l’embarquement est refusé sur la base de son handicap ou de sa mobilité réduite, et toute personne qui l’accompagne, bénéficient du droit au remboursement ou au réacheminement prévu au Règlement (CE) no 261/2004 (cliquer ici pour accéder au Texte énonçant ces droits) pour autant que toutes les conditions de sécurité soient réunies (cliquer ici pour accéder au Règlement concernant le transport de passagers à mobilité réduite, malvoyants ou non-voyants).
+**5.2.1** Si vous avez besoin d’une assistance spéciale en raison d’un handicap ou d’une mobilité réduite, vous devez nous informer de vos besoins lorsque vous effectuez votre réservation, ou dès que vous apprenez que vous aurez besoin d’une assistance spéciale. Cela doit être effectué au moins 48 heures avant l’heure de départ prévue.  Nous ferons alors tout ce qui est raisonnablement possible pour vérifier si, pour des raisons de sécurité, nous n’avons pas pu vous autoriser sur le vol et, le cas échéant, si nous pouvons vous proposer une alternative acceptable.
+
+**5.2.2** En vertu du règlement (CE) 1107/2006, nous pouvons refuser d’autoriser une personne handicapée ou à mobilité réduite à bord de l’avion uniquement si :
+
+* cela est nécessaire pour répondre aux exigences de sécurité qui s’appliquent ; ou
+* la taille de l’avion ou de ses portes rend physiquement impossible l’accès à ce vol à la personne. 
+
+**5.2.3** Si, après avoir été informé de toute assistance spéciale dont vous avez besoin, nous acceptons que vous preniez le vol, nous fournirons l’assistance spéciale conformément au règlement (CE) 1107/2006. Si nous ne vous autorisons pas à prendre le vol réservé, nous vous proposerons, ainsi qu’à toute personne qui voyagerait avec vous, un remboursement ou d’autres arrangements, conformément aux règlements applicables en matière de droits des passagers, pour autant que toutes les exigences de sécurité pertinentes soient respectées.
 
 ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 ========================================
@@ -489,7 +503,7 @@ Vous aurez droit à un remboursement intégral de tous les montants que vous nou
 
 ===========================
 
-**9.2.1** Si nous annulons un vol que vous avez réservé ou ne pouvons pas raisonnablement respecter l’horaire de vol ou que nous cessons d’opérer une liaison, vous pourriez bénéficier des droits prévus par la Convention de Montréal (1999) et le Règlement(CE) n°261/2004.
+**9.2.1** Si nous avons annulé un vol que vous avez réservé, si nous n’avons pas exploité le vol de manière raisonnablement conforme au programme ou si nous avons annulé l’itinéraire, vous pouvez bénéficier des droits énoncés dans la Convention de Montréal de 1999 ou dans les règlements applicables en matière de droits des passagers.
 
 **9.2.2** Si votre vol est annulé ou retardé de plus de deux heures nous vous fournirons les informations relatives à vos droits, y compris vos droits à une indemnisation et une assistance.
 
@@ -780,14 +794,26 @@ Vous pouvez également déposer une plainte via la plateforme de Résolution des
 
 **15.4.2** Dans tous les autres cas, la cession d’un droit à indemnisation, aux dommages et intérêts ou au remboursement à l’encontre du Transporteur à une tierce partie est nulle. Cette interdiction de cession ne s’applique pas lorsque la cession ou la subrogation de la réclamation est requise par la loi. 
 
-15.5 PRESCRIPTION DES ACTIONS
+15.5 Délai pour les réclamations
 
 
-===============================
+==================================
 
-Tout droit à des dommages et intérêts prévu au titre de la Convention expirera si aucune action n’est intentée dans un délai de deux ans à compter de la date d’arrivée à destination, ou de la date prévue d’arrivée de l’aéronef, ou de la date à laquelle le transport a pris fin. La méthode de calcul du délai de prescription sera déterminée par la loi applicable dans le pays de la juridiction saisie.
+**15.5.1** Tout droit à des dommages en vertu de la Convention de Montréal de 1999 prendra fin si vous ne faites pas de réclamation dans les deux ans suivant la date à laquelle :
 
-La prescription de l’action ouverte au titre de la Directive UE 261/2004 sera déterminée conformément à la loi applicable dans le pays de la juridiction saisie.  
+* vous êtes arrivé à destination ;
+* l’avion devait arriver à votre destination ; ou
+* le transport indiqué dans votre réservation a pris fin ;
+* tel que décidé par la jurisprudence de la Cour où le dossier est instruit.
+
+**15.5.2** Le délai pour réclamer une compensation en vertu des règlements applicables en matière de droits des passagers sera décidé conformément à la loi du tribunal où l’affaire est entendue (par exemple, six ans pour les tribunaux d’Angleterre et du Pays de Galles).
+
+15.6 Taux de change
+
+
+=====================
+
+**15.6** Si vous demandez une compensation (soit directement auprès de nous, soit par l’intermédiaire des tribunaux) en vertu des règlements applicables en matière de droits des passagers dans une devise autre que l’euro, vous devez utiliser le taux de change qui s’appliquait à la date de départ prévue du vol auquel la demande de compensation se rapporte. Cette date est indiquée sur le site Internet www.xe.com. Si vous utilisez un taux de change différent, nous utiliserons toujours le taux approprié sur le site Internet www.xe.com. 
 
 ARTICLE 16 – RÉGLEMENTS DIVERS
 ==============================
