@@ -47,7 +47,7 @@ Vous trouverez dans les onglets ci-dessous les informations suivantes : 
 
 (ci-après, les « Sites »),
 
-* Le programme de fidélité Printania (PRINTANIA) et les Magasins Printemps.
+* Le programme de fidélité Club Printemps et les Magasins Printemps.
 * Les données à caractère personnel que nous collectons afin de réaliser nos traitements ;
 * Les bases légales sur lesquelles repose le traitement de vos données à caractère personnel, c'est-à-dire le fondement qui nous autorise à traiter vos données ;
 * La durée de conservation de vos données à caractère personnel dans nos systèmes.
@@ -473,7 +473,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-LA GESTION DE L'INSCRIPTION AU PROGRAMME DE FIDELITE PRINTANIA SUR PRINTEMPS.COM
+LA GESTION DE L'INSCRIPTION AU PROGRAMME DE FIDELITE CLUB PRINTEMPS SUR PRINTEMPS.COM
 
   
 
@@ -528,7 +528,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 * 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Les données traitées dans le cadre du recouvrement sont conservées 15 jours après la clôture du dossier.
 
-LA GESTION DE L'INSCRIPTION A LA NEWSLETTER SUR PRINTEMPS.COM, PRINTEMPS LISTES, PRINTANIA
+LA GESTION DE L'INSCRIPTION A LA NEWSLETTER SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS
 
   
 
@@ -725,7 +725,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 * Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
 * Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*6
 
-LE SUIVI DE LA RELATION CLIENT AVEC PRINTEMPS.COM, PRINTEMPS LISTES, PRINTANIA, MAGASINS PRINTEMPS
+LE SUIVI DE LA RELATION CLIENT AVEC PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
   
 
@@ -775,7 +775,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-L'AMELIORATION DE L'EXPERIENCE CLIENT PRINTEMPS.COM, PRINTANIA
+L'AMELIORATION DE L'EXPERIENCE CLIENT PRINTEMPS.COM, CLUB PRINTEMPS
 
   
 
@@ -818,7 +818,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 * Durée de conservation des enquêtes de satisfaction : 24 mois
 * Cookies : 13 mois après le dépôt
 
-L'AMELIORATION DE LA CONNAISSANCE CLIENT PRINTEMPS.COM, PRINTEMPS LISTES, PRINTANIA, MAGASINS PRINTEMPS
+L'AMELIORATION DE LA CONNAISSANCE CLIENT PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
   
 
@@ -875,7 +875,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
 
-LA GESTION DES DROITS SUR PRINTEMPS.COM, PRINTEMPS LISTES, PRINTANIA, MAGASINS PRINTEMPS
+LA GESTION DES DROITS SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
   
 
@@ -923,7 +923,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
 * 3 ans à compter de la réponse définitive à la demande
 
-LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM, PRINTEMPS LISTES, MAGASINS PRINTEMPS, PRINTANIA
+LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM, PRINTEMPS LISTES, MAGASINS PRINTEMPS, CLUB PRINTEMPS
 
   
 
@@ -1063,7 +1063,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
 Vos données à caractère personnel peuvent être recueillies : 
 
-* **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Printania (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
+* **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Club Printemps (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
 * **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com et Printemps Listes, sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps (lors de l'appairage de votre carte fidélité sur le site Internet [**www.placedestendances.com**](http://www.placedestendances.com/) par exemple), ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
 
   
@@ -1100,7 +1100,7 @@ Lorsque nous collectons des données à caractère personnel directement auprès
 * les personnes habilitées au sein de la Direction Juridique.
 * dans le cadre de Printemps Listes : les personnes habilitées au sein de l'équipe Printemps Listes Siège et magasins, Printemps Affiliés et les personnes habilitées au sein de la direction financière
 
-En utilisant le compte PRINTEMPS.COM, vous pourrez bénéficier des services PRINTANIA afin de profiter des nombreux avantages résultant des interactions entre les deux enseignes. Nous vous informons également que Placedestendances.com, société filiale du Groupe Printemps, est également destinataire de données à caractère personnel dans le cadre du programme de fidélité lorsque vous renseignez votre numéro de carte PRINTANIA sur le site Internet www.placedestendances.com pour appairer votre compte Place des tendances et votre carte PRINTANIA..
+En utilisant le compte PRINTEMPS.COM, vous pourrez bénéficier des services Club Printemps afin de profiter des nombreux avantages résultant des interactions entre les deux enseignes. Nous vous informons également que Placedestendances.com, société filiale du Groupe Printemps, est également destinataire de données à caractère personnel dans le cadre du programme de fidélité lorsque vous renseignez votre numéro de carte Club Printemps sur le site Internet www.placedestendances.com pour appairer votre compte Place des tendances et votre carte Club Printemps.
 
 * Vos données à caractère personnel peuvent être transmises **aux prestataires auxquels les sociétés Printemps font appel** pour la réalisation de services dans le cadre des finalités mentionnées ci-dessus, par exemple:
 * Nos prestataires d'hébergement, dont nous avons besoin pour stocker l'ensemble de vos données, de maintenance et de support technique
@@ -1129,7 +1129,7 @@ Par ailleurs, d'autres destinataires peuvent avoir accès à tout ou partie de v
 
   
 
-Les données à caractère personnel collectées sur nos Sites ou dans le cadre du programme de fidélité Printania peuvent être traitées de façon automatisée afin de sécuriser les transactions passées sur nos Sites contre la fraude et les malversations, et ainsi de vous assurer une qualité de service optimale et sécuriser vos moyens de paiement. A cet effet, nous utilisons une solution développée par un fournisseur tiers qui détermine par un algorithme le niveau de risque de fraude associé à chaque commande. Ce traitement peut impliquer une intervention humaine dans laquelle la décision finale est prise par une personne. Nous utilisons également un algorithme nous permettant d'identifier les comportements suspects de la part des clients dans le cadre de l'utilisation du programme de fidélité Printania. Ce traitement implique une intervention humaine dans laquelle la décision finale est prise par une personne.
+Les données à caractère personnel collectées sur nos Sites ou dans le cadre du programme de fidélité Club Printemps peuvent être traitées de façon automatisée afin de sécuriser les transactions passées sur nos Sites contre la fraude et les malversations, et ainsi de vous assurer une qualité de service optimale et sécuriser vos moyens de paiement. A cet effet, nous utilisons une solution développée par un fournisseur tiers qui détermine par un algorithme le niveau de risque de fraude associé à chaque commande. Ce traitement peut impliquer une intervention humaine dans laquelle la décision finale est prise par une personne. Nous utilisons également un algorithme nous permettant d'identifier les comportements suspects de la part des clients dans le cadre de l'utilisation du programme de fidélité Club Printemps. Ce traitement implique une intervention humaine dans laquelle la décision finale est prise par une personne.
 
 7\. PROFILAGE
 
@@ -1216,7 +1216,7 @@ Vous pouvez exercer votre droit à la rectification de la façon suivante :
 
 * vous pouvez nous contacter aux coordonnées ci-dessous.
 * si vous avez un compte, vous pouvez modifier vos données dans l'onglet « Mon Compte » sur le site Printemps.com.
-* vous pouvez vous présenter en magasin Printemps pour demander la modification de vos données sur votre compte Printania
+* vous pouvez vous présenter en magasin Printemps pour demander la modification de vos données sur votre compte Club Printemps
 
   
 
