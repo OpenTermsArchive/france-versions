@@ -265,7 +265,7 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 * Ividence : [http://www.ividence.com/legal/](http://www.ividence.com/legal/)
 * Microsoft Advertising : [https://privacy.microsoft.com/fr-fr/privacystatement](https://privacy.microsoft.com/fr-fr/privacystatement)
 * MediaMath : [http://www.mediamath.com/fr/politique-de-confidentialite/](http://www.mediamath.com/fr/politique-de-confidentialite/)
-* Target2Sell : [\[email protected\]ll.com](https://www.vertbaudet.fr/page/contact@target2sell.com)
+* Target2Sell : [\[email protected\]](https://www.vertbaudet.fr/page/contact@target2sell.com)
 * iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
 * Bazaarvoice : [https://www.bazaarvoice.com/legal/privacy-policy/](https://www.bazaarvoice.com/legal/privacy-policy/)
 * GlobalSign : [https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf](https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf)
