@@ -999,6 +999,49 @@ PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force ma
 
   
 
+Article 16 – Classement des Produits
+------------------------------------
+
+Les offres de Produits sur le Site sont présentées par le biais d’une barre de recherche thématique fonctionnant grâce à des mots clefs. 
+
+  
+
+L’Utilisateur peut également accéder aux Produits en visitant les différentes rubriques proposées (prêt à porter, chaussures, etc).
+
+  
+
+Le classement des Produits dépend de la navigation de l’Utilisateur et peut donc varier d’un Utilisateur à l’autre. 
+
+  
+
+Par défaut, les Produits proposés sur le Site internet sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
+
+  
+
+Les Produits proposés sur le Site internet peuvent être triés selon plusieurs critères en cliquant sur l’onglet « trier par » par le Client :
+
+  
+
+* Recommandés : les Produits sont alors classés en fonction de la navigation et de l’historique d’achat du Client dans le cas où celui-ci a accepté la politique de cookies ou à défaut, les produits sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
+
+  
+
+* Nouveautés : les nouveaux Produits sont alors mis en avant en premier. 
+
+  
+
+* Prix croissant : les Produits sont classés du prix le plus bas au prix le plus élevé ;
+
+  
+
+* Prix décroissant : les Produits sont classés du prix le plus élevé au prix le plus bas
+
+  
+
+* Remises : les plus gros pourcentages de remise apparaissent en premier.
+
+  
+
 Annexe : Modèle de formulaire de droit de rétractation
 ------------------------------------------------------
 
