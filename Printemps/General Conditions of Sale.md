@@ -1,7 +1,9 @@
+Mise à jour du 26/04/2023
+
 Conditions générales d'utilisation et de vente Printemps.com
 
 
-================================================================
+===========================================================================================
 
 Préambule
 ---------
@@ -22,7 +24,21 @@ La Société se réserve le droit de mettre à jour ou de réviser les présente
 
   
 
-La Société propose à la vente des articles de prêt-à-porter et accessoires, uniquement de marques renommées. Ces produits proviennent directement des producteurs et revendeurs autorisés (« **les Produits** »)
+La Société propose à la vente des articles de prêt-à-porter et accessoires, uniquement de marques renommées. Ces produits proviennent directement des producteurs et revendeurs autorisés (« **les Produits** »).
+
+  
+
+Conformément à l’article R.541-173 du Code de l’environnement, les identifiants uniques pour chaque éco-organisme auquel PRINTEMPS a adhéré sont les suivants :
+
+\- REFASHION / Eco TLC : FR218675\_11OTBM
+
+\- CITEO / ECO EMBALLAGE : FR218675\_01FRVU
+
+\- CITEO / ECO PAPIER : FR218675\_03VKFV
+
+\- ECO SYSTEM: FR005623\_05MTEN
+
+  
 
 Article 1 - Création de compte
 ------------------------------
@@ -31,7 +47,9 @@ La création d'un compte est obligatoire pour bénéficier de toutes les offres 
 
   
 
-L'adhésion à notre club de fidélité « Club Printemps » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le lien suivant : [https://www.printemps.com/club-printemps](https://www.printemps.com/club-printemps)
+L'adhésion à notre club de fidélité « Club Printemps » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le [lien suivant](https://www.printemps.com/club-printemps).
+
+  
 
 En créant son compte, le Client accepte notre Politique de Protection des Données et déclare que l'ensemble des informations fournies sont véridiques et exactes.
 
@@ -42,7 +60,7 @@ En créant son compte, le Client accepte notre Politique de Protection des Donn�
 1. Rendez-vous sur [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com)
 2. Cliquez sur l'onglet « se connecter » en haut à droite de votre écran puis sur « Créer un Compte »
 3. Renseignez votre adresse mail et cliquez sur « Valider »
-4. Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquer sur le lien dans le corps du mail.
+4. Un email de confirmation va vous être envoyé. Pour confirmer vos informations et poursuivre votre inscription cliquez sur le lien dans le corps du mail.
 5. Renseignez l'ensemble des champs obligatoires, indiqués par un astérisque.
 6. Cliquez sur « Créer mon Compte ».
 
@@ -125,7 +143,7 @@ Conformément à l'article L.111-1 du code de la consommation, le Client peut pr
 
 **2.4 PRIX**
 
-Les prix affichés sur le Site sont exprimés en euro (€), en livre sterling (£) ou en Riyal Qatarien, selon la devise du pays de commande du Client et d'accès au Site.  Ces prix comprennent la TVA applicable au jour de la commande mais s'entendent hors frais de livraison à la charge du Client.
+Les prix affichés sur le Site sont exprimés en euro (€), en livre sterling (£) ou autre monnaie locale applicable au pays.  Ces prix comprennent la TVA applicable au jour de la commande mais s'entendent hors frais de livraison à la charge du Client.
 
   
 
@@ -241,11 +259,11 @@ Livraisons offertes dès 200 euros d'achat
 
 **CLICK AND COLLECT, GRATUIT**, dans les magasins Printemps\*
 
-\* Service non disponible à Printemps Caen, Printemps Brest, Printemps Tours et Printemps Miramas.
+\* Service non disponible à Printemps Caen, Printemps Brest, Printemps Tours et Printemps Outlet Miramas.
 
   
 
-* Ce service de livraison permet au Client de faire livrer sa commande au magasin Printemps choisi parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
+* Ce service de livraison permet au Client de faire livrer sa commande au magasin Printemps choisi lors de sa commande parmi ceux proposant ce service. Une fois la commande arrivée au Click & Collect, un email contenant un code de retrait sera envoyé. Pour retirer la commande, le Client devra se présenter au Click & Collect muni de ce code ainsi que de sa pièce d'identité. La commande est disponible dans l'espace Click & Collect du magasin Printemps choisi durant 14 jours à compter de la date d'arrivée de la commande dans le magasin sélectionné.
 
   
 
@@ -299,7 +317,7 @@ Toutes les commandes passées après 13 h sont expédiées le jour ouvrable suiv
 
   
 
-Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.chronopost.fr](https://www.printemps.com/fr/fr/www.chronopost.fr) en utilisant le numéro de colis envoyé par e-mail lors de son expédition, ou via le lien de suivi de commande depuis le compte du client sur le Site.
+Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.chronopost.fr](https://www.printemps.com/fr/fr/www.chronopost.fr) en utilisant le numéro de colis envoyé par e-mail lors de son expédition, ou via le lien de suivi de commande depuis le compte du Client sur le Site.
 
   
 
@@ -394,7 +412,7 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
-* Par bon d'achat valable 6 mois sur le Site ou par e-carte cadeau valable 1 an sur le Site dont les conditions figurant dans l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
+* Par bon d'achat valable 6 mois sur le Site dont les conditions figurant dans l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
 
   
 
@@ -599,7 +617,7 @@ Cas particuliers :
 
 * **Prêt-à-Porter**
 
-Les articles doivent être retournés non portés, non endommagés, non usé et non lavés, avec leurs étiquettes créateurs intactes.
+Les articles doivent être retournés non portés, non endommagés, non usés et non lavés, avec leurs étiquettes créateurs intactes.
 
   
 
@@ -645,17 +663,15 @@ Les articles de beauté doivent être impérativement retournés dans leur embal
 
   
 
-Le client dispose de 30 jours pour retourner sa commande à compter de la date de réception de son colis.
+Le Client dispose de 30 jours pour retourner sa commande à compter de la date de réception de son colis.
 
   
 
-Sous ces conditions, les retours sont offerts en France, en Belgique, au Luxembourg, en Allemagne et au Royaume-Uni.
-
-En dehors de ces conditions, les frais d'expédition sont à la charge du client, et cela pour tous les pays.
+Sous ce délais, les retours sont offerts en France, en Belgique, au Luxembourg, au Pays Bas, en Allemagne et au Royaume-Uni.
 
   
 
-Pour les retours depuis l'international (hors pays cités ci-dessous), un montant de 12€ sera déduit du remboursement.
+Pour les autres pays non listés ci-dessous), un montant de 12€ sera déduit du remboursement.
 
   
 
@@ -679,7 +695,7 @@ Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de 
 
   
 
- NB : Pour faciliter le suivi de votre retour et assurer vil est nécessaire d'utiliser l'étiquette Colissimo fournie par la Société lors du retour et de conserver la preuve de dépôt tamponnée par la Poste jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement.
+ NB : Pour faciliter le suivi de votre retour et assurer un bon traitement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par la Société lors du retour et de conserver la preuve de dépôt tamponnée par la Poste jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement.
 
   
 
@@ -725,7 +741,7 @@ Si la taille souhaitée est disponible au même tarif, la Société recommande a
 
   
 
-Le remboursement est déclenché dès la récupération du Produit par la Société ou la fourniture par le Client de la preuve de l'expédition du Produit, la date retenue étant celle du premier de ces faits. Il sera traité et /ou remboursé dans les 48 à 72 heures. Le Client est informé que ce délai peut être prolongé si le retour nécessite un contrôle complémentaire.
+Le remboursement est déclenché dès la récupération du Produit par la Société ou la fourniture par le Client de la preuve de l'expédition du Produit, la date retenue étant celle du premier de ces faits. Il sera traité et /ou remboursé dans les 48 à 72 heures. Le Client est informé que ce délai peut être prolongé si le retour nécessite un contrôle complémentaire, notamment si la preuve d'expédition du Produit n'est pas authentique.
 
   
 
@@ -853,6 +869,8 @@ Le délai de garantie est également suspendu lorsque le consommateur et le gara
 
   
 
+**Biens :**
+
 **Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.**
 
   
@@ -915,7 +933,37 @@ Le délai de garantie est également suspendu lorsque le consommateur et le gara
 
   
 
-  
+**Contenu / service numérique :**
+
+**Le consommateur dispose d'un délai de deux ans à compter de la fourniture du contenu numérique ou du service numérique pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant un délai d'un an à compter de la date de fourniture, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.**
+
+**« La garantie légale de conformité emporte obligation de fournir toutes les mises à jour nécessaires au maintien de la conformité du contenu numérique ou du service numérique.**
+
+**« La garantie légale de conformité donne au consommateur droit à la mise en conformité du contenu numérique ou du service numérique sans retard injustifié suivant sa demande, sans frais et sans inconvénient majeur pour lui.**
+
+**« Le consommateur peut obtenir une réduction du prix en conservant le contenu numérique ou le service numérique ou il peut mettre fin au contrat en se faisant rembourser intégralement contre renoncement au contenu numérique ou au service numérique, si :**
+
+**« 1° Le professionnel refuse de mettre le contenu numérique ou le service numérique en conformité ;**
+
+**« 2° La mise en conformité du contenu numérique ou du service numérique est retardée de manière injustifiée ;**
+
+**« 3° La mise en conformité du contenu numérique ou du service numérique ne peut intervenir sans frais imposés au consommateur ;**
+
+**« 4° La mise en conformité du contenu numérique ou du service numérique occasionne un inconvénient majeur pour le consommateur ;**
+
+**« 5° La non-conformité du contenu numérique ou du service numérique persiste en dépit de la tentative de mise en conformité du professionnel restée infructueuse.**
+
+**« Le consommateur a également droit à une réduction du prix ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la mise en conformité du contenu numérique ou du service numérique au préalable.**
+
+**« Dans les cas où le défaut de conformité est mineur, le consommateur n'a droit à l'annulation du contrat que si le contrat ne prévoit pas le paiement d'un prix.**
+
+**« Toute période d'indisponibilité du contenu numérique ou du service numérique en vue de sa remise en conformité suspend la garantie qui restait à courir jusqu'à la fourniture du contenu numérique ou du service numérique de nouveau conforme.**
+
+**« Les droits mentionnés ci-dessus résultent de l'application des articles L. 224-25-1 à L. 224-25-31 du code de la consommation.**
+
+**« Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 242-18-1 du code de la consommation).**
+
+**« Le consommateur bénéficie, en outre, de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique.** 
 
   
 
