@@ -174,19 +174,6 @@ Quelle que soit la personne qui résilie ces conditions, vous et Snap continuez 
 
 Dans la mesure permise par la loi, vous acceptez d'indemniser, de défendre et dégager Snap, nos sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licences et mandataires de toute responsabilité et contre toutes plaintes, accusation, réclamations, dommages-intérêts, pertes, coûts, dettes, et dépenses (y compris les honoraires d'avocat) dues ou liées de quelque manière que ce soit : (a) à votre accès aux Services ou à leur utilisation ; (b) à votre contenu, y compris les plaintes relatives à sa violation ; (c) votre violation des présentes conditions ou de toute loi ou réglementation applicable ; ou (d) votre négligence ou votre faute intentionnelle.
 
-16\. Clause de non-responsabilité
----------------------------------
-
-Nous nous efforcerons de maintenir les Services opérationnels et exempts de désagréments. Mais nous ne promettons pas d'y parvenir.
-
-Les services sont fournis « tels quels » et « sous réserve de disponibilité », dans la limite autorisée par la loi et à l'exception de ce qui est indiqué ci-dessus, sans garantie d'aucune sorte, expresse ou implicite, y compris, sans que cela soit exhaustif, les garanties, conditions ou autres termes implicites liés à la valeur marchande, au niveau de qualité satisfaisant, à l'adéquation à une finalité particulière, au droit de propriété, à la jouissance paisible et à l'absence de contrefaçon, ou découlant de pratiques commerciales établies. **En outre, bien que Snap Group Limited s'efforce de fournir une bonne expérience utilisateur, nous ne garantissons, ni ne déclarons : a) que les Services seront entièrement sécurisés, sans erreur ou en temps voulu ; b) que les Services fonctionneront toujours sans retards, perturbation ou imperfections ;** ou c) que tout contenu ou informations que vous obtenez par l'intermédiaire des Services sera toujours ponctuel ou exact.
-
-**SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS LES EXONÉRATIONS PRÉVUES DANS CETTE CLAUSE, ELLES NE DOIVENT PAS S'APPLIQUER**
-
-**En vertu de la loi, Snap Group Limited, Snap Inc. et nos sociétés affiliées ne prennent aucune responsabilité et n'assument aucune responsabilité pour tout contenu que vous, un autre utilisateur ou un tiers, créez, téléchargez, affichez, envoyez, recevez, visualisez, ou stockez sur ou via nos Services et vous comprenez que vous pouvez être exposé à un contenu offensant, illégal, trompeur ou inapproprié, dont ni Snap Group Limited, ni Snap Inc, encore moins nos sociétés affiliées n'en seront responsables.**
-
-**Rien dans ces conditions n'exclura ni ne limitera toute responsabilité que nous pourrions avoir pour supprimer du contenu, si la loi du pays dans lequel vous vivez l'exige.**
-
 17\. Limitation de responsabilité
 ---------------------------------
 
@@ -207,25 +194,10 @@ Certains de nos Services sont susceptibles de disposer de conditions supplément
 
 **Si vous utilisez les Services au nom d'une entreprise (plutôt que pour votre usage personnel), vous et Snap Group Limited convenez, dans la limite autorisée par la loi, que l'ensemble des réclamations et litiges susceptibles de surgir entre nous au regard des présentes Conditions ou de l'utilisation des Services seront définitivement réglés sur la base des** [**Règles d'arbitrage contraignantes de la LCIA**](http://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)**, qui sont incorporés par référence dans la présente clause. La mission d'arbitrage sera confiée à un seul arbitre (devant être désigné par la LCIA), l'arbitrage se déroulera à Londres et l'arbitrage sera mené en anglais. Si vous ne voulez pas accepter cette clause, vous ne devez pas utiliser les Services.**
 
-19\. Lieu exclusif
-------------------
-
-Dans la mesure où ces Conditions vous autorisent, ainsi qu'à Snap, à porter une action en justice devant un tribunal, aussi bien vous que Snap Group Limited convenez que tous les différends et réclamations (qu'ils soient de nature contractuelle ou autre) découlant de ou liés aux Conditions ou à l'utilisation des Services seront exclusivement réglés par les tribunaux d'Angleterre (Royaume-Uni), sauf si la loi du pays dans lequel vous résidez ne l'autorise pas. Vous et Snap consentez à la compétence exclusive de ces tribunaux.
-
 20\. Choix de la loi applicable
 -------------------------------
 
 Les lois d'Angleterre et du pays de Galle régissent les présentes Conditions et l'ensemble des différends et réclamations (qu'ils soient de nature contractuelle ou délictuelle ou autre) découlant directement ou indirectement de ces Conditions ou de leur objet. Il se peut que les tribunaux de certains pays n'appliquent pas les lois d'Angleterre et du pays de Galle dans le cadre de certains différends liés aux présentes conditions. Si vous résidez dans l'un de ces pays, les lois de votre pays de résidence peuvent s'appliquer dans le cadre de ces différends.
-
-21\. Séparabilité
------------------
-
-Si l'une ou plusieurs dispositions des présentes Conditions devait s'avérer inapplicable, elle serait séparée des présentes Conditions et n’affecterait en rien la validité et le caractère exécutoire des autres dispositions.
-
-22\. Conditions finales
------------------------
-
-Ces Conditions finales, y compris les conditions supplémentaires précisées dans l'Article 4, constituent l'intégralité de l'accord entre Snap et vous, et remplace tout précédents accord. Les présentes Conditions ne créent ni ne confèrent de droits à aucun tiers. Si nous ne nous prévalons pas une des dispositions contenues dans les présentes Conditions, cela ne sera pas considéré comme une renonciation. Nous nous réservons le droit de transférer nos droits en vertu des présentes Conditions et de fournir les Services en utilisant une autre entité, à condition que cette entité respecte ces Conditions. Vous ne pouvez céder aucun de vos droits ou vos obligations en vertu des présentes Conditions sans notre consentement. Nous nous réservons tous les droits qui ne vous ont pas été expressément octroyés.
 
 Contactez-nous
 --------------
