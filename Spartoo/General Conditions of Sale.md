@@ -205,7 +205,7 @@ Coût de la livraison : 6.99 €
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-Coût de la livraison : 2.99 €
+Coût de la livraison : 3.99 €
 
   
 9.2.Belgique  
