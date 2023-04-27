@@ -1,4 +1,4 @@
-ANNEXE « DONNEES PERSONNELLES ET CONFIDENTIALITE » 02/05/2023
+ANNEXE « DONNEES PERSONNELLES ET CONFIDENTIALITE » 01/02/2023
 =============================================================
 
 Dans le cadre de votre abonnement aux offres Canal+, en créant un compte Canal+ ou en participant à des évènements (jeux, concours, inscription à des newsletters...) ou de votre abonnement à l’offre beIN SPORTS CONNECT, vous êtes amenés à fournir à [Groupe Canal +](http://www.canalplusgroupe.com/actionnariat.html) (RCS Nanterre 420 624 777, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) et ses filiales, dont la société CANAL+ International (R.C.S Nanterre 592 033 401, 50 rue Camille Desmoulins – 92863 Issy-les-Moulineaux Cedex 9) (ci-après désignées « Groupe CANAL+), des données personnelles vous concernant. Dans le cadre de nos relations commerciales, nos partenaires nous communiquent également, lors d’opérations ponctuelles, des données personnelles d’identification et de contact recueillies auprès de vous, en conformité avec la règlementation applicable à la protection des données personnelles.  
