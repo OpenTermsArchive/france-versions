@@ -481,6 +481,14 @@ Si vous ne souhaitez pas que Microsoft utilise des informations sur votre compor
 
 Pour plus d’informations sur la confidentialité et les cookies utilisés par Microsoft et Bing ads, veuillez consulter le site Web de Microsoft [https://privacy.microsoft.com/en-gb/privacystatement](https://privacy.microsoft.com/en-gb/privacystatement).
 
+### 2.1.8 Apprentissage automatique :
+
+Nous avons recours à l’apprentissage automatique afin d’optimiser et d’automatiser nos processus. Cela implique d’enseigner une logique décisionnelle système fondée sur des cas pratiques. Autrement dit, le système peut tirer les enseignements du passé et utiliser des algorithmes afin de concevoir des modèles statistiques applicables à des tâches similaires à l’avenir.
+
+Nous avons par exemple recours à l’apprentissage automatique dans un modèle sécurisé et haché afin de créer rapidement et facilement des offres de voyage personnalisées pour vous. À cette fin, nous utilisons des données de référentiel, notamment le domain\_userid, l’historique de recherche et des voyages et l’adresse IP correspondants. Nous avons fondé ce traitement de données sur notre intérêt légitime en application de l’article 6, paragraphe 1, alinéa (f) du RGPD, car nous avons un intérêt financier à vous proposer les voyages les plus adaptés. Ce traitement va également dans votre intérêt, car vous recevrez des offres de voyage adaptées à vos besoins plutôt que des recommandations génériques.
+
+Vous pouvez à tout moment nous aviser de votre opposition au traitement de vos données réalisé à des fins d’apprentissage automatique conformément aux dispositions légales à l’adresse électronique « [data.protection@flixbus.com](mailto:data.protection@flixbus.com) ». Sachez toutefois que vous ne recevrez dès lors que des recommandations génériques.
+
 ### 2.2 Service à la clientèle
 
 Lorsque vous contactez notre service client, nous collectons les données à caractère personnel que vous nous fournissez de votre propre initiative. Par exemple, vous pouvez nous les envoyer par e-mail, téléphone ou courrier. Vos données à caractère personnel seront uniquement utilisées afin de vous contacter ou aux fins pour lesquelles vous nous les avez fournies, par exemple pour le traitement de vos demandes, l’administration technique ou l’administration client.
