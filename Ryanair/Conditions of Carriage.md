@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 13 Apr 2023
+### Date d’entrée en vigueur : 3 May 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 13 Apr 2023**
+**Date d’entrée en vigueur : 3 May 2023**
 
   
 
@@ -490,13 +490,7 @@ ARTICLE 9 HORAIRES, ANNULATIONS, RETARDS ET DÉROUTEMENTS
 
 **9.1.1** Lorsque nous acceptons votre réservation, les horaires et les numéros de vol prévus en vigueur sont indiqués dans votre confirmation de réservation ou votre itinéraire. Les horaires et les numéros de vol indiqués dans votre confirmation de réservation ou itinéraire peuvent changer avant le départ prévu.
 
-**9.1.2** Si nous changeons les horaires ou les numéros de vol avant le départ prévu, nous vous informerons de ces changements par e-mail et SMS (si vous nous avez donné un numéro de téléphone à cette fin). Sauf si la clause 9.2 ci-dessous s’applique, si, avant la date du voyage:
-
-* nous modifions l’heure de départ prévue d’au moins 5 heures ;
-* cela ne vous convient pas ; et
-* nous ne pouvons pas réserver un autre vol qui vous convient ;
-
-Vous aurez droit à un remboursement intégral de tous les montants que vous nous avez payés en relation avec ce vol.
+**9.1.2** Si nous changeons les horaires ou les numéros de vol avant le départ prévu, nous vous informerons de ces changements par e-mail. Nous pouvons également vous informer par notification push et SMS (si vous nous avez donné un numéro de téléphone à cette fin) lorsque ces changements se produisent peu de temps avant le départ prévu. Vous serez informé de vos droits conformément à la clause 9.2 ci-dessous.
 
 9.2 ANNULATION ET RETARDS
 
@@ -823,7 +817,7 @@ Votre transport et le transport de vos Bagages sont également soumis à nos Rè
 ARTICLE 17 - TRANSPORTEUR DE POINT A POINT
 ==========================================
 
-Nous sommes une compagnie aérienne qui n’offre que des vols directs. Nous proposons des vols en correspondance uniquement pour de simples escales (par exemple de A à C, avec escale en B) ; ces vols sont identifiés comme vol en correspondance dans la réservation. De ce fait, nous n’offrons pas, ni ne facilitons, le transfert des passagers ou des bagages sur d’autres vols, que ce soit sur un vol opéré par nous-mêmes ou par une autre compagnie aérienne, à moins que vous ayez réservé un vol en correspondance (merci de cliquer ici pour plus d’informations)
+Nous sommes une compagnie aérienne de vols directs. Nous ne transférons pas de passagers ou de bagages sur d’autres vols, qu’ils soient ou non opérés par nous.
 
 ARTICLE 18 - MOYEN DE PAIEMENT
 ==============================
