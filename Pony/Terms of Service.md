@@ -62,6 +62,8 @@ Pour pouvoir bénéficier des fonctionnalités de l'Application, vous devez :
 
 Créer un compte Pony. Pour ce faire, vous devez télécharger l'Application et renseigner votre numéro de téléphone, ou d'autres données à caractère personnel. PONY vérifiera vos données de contact en vous adressant un code de vérification par SMS vous permettant de finaliser votre inscription et d'activer votre compte (le "Compte Pony"). Vous vous engagez à fournir des informations correctes et à jour. Votre Compte Pony vous est personnel et vous ne devez pas le partager avec des tiers. Vos données à caractère personnel seront traitées par PONY, pour la fourniture des services décrit dans les présentes Conditions Générales d'Utilisation, dans les [Conditions Générales de Location des Ponies](https://www.notion.so/ponybikes/Conditions-g-n-rales-de-location-19f364cb061940fd82bf03e86c9fd2fc) et dans les [Conditions Générales d'Adoption des Ponies](https://www.notion.so/ponybikes/Conditions-d-adoption-024faf1426654a2ebc2826ef6ec91d91) et ce, conformément à notre .
 
+Politique de Confidentialité
+
 Lire et accepter les présentes Conditions Générales d'utilisation.
 
 L'usage de l'Application par l'Utilisateur est gratuite en ce sens que :
