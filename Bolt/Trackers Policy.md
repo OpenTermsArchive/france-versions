@@ -112,7 +112,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | visited | partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 
-Marketing (59)
+Marketing (58)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -148,7 +148,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | sp\_landing | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 day | HTTP Cookie |
 | sp\_t | [Spotify](https://www.spotify.com/uk/legal/privacy-policy/ "Spotify's privacy policy") | Used to implement audio-content from Spotify on the website. Can also be used to register user interaction and preferences in context with audio-content - This can serve statistics and marketing purposes. | 1 year | HTTP Cookie |
 | tt\_appInfo \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
-| tt\_pageId \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
+| tt\_pageId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_pixel\_session\_index \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_sessionId \[x2\] | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
