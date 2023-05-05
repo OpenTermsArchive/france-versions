@@ -167,21 +167,27 @@ Article 3 : Billets
 
 3.3.1. L’ordre séquentiel des coupons et leur utilisation constituent une partie essentielle du contrat que nous avons conclu avec vous. Le Billet ne sera pas honoré et perdra sa validité si tous les Coupons ne sont pas utilisés dans l’ordre séquentiel indiqué sur le Billet, à moins de nous en informer dûment à l’avance.
 
-3.3.2. Si vous souhaitez modifier un quelconque aspect de votre transport, et à condition que les conditions tarifaires de votre Billet autorise cette modification, vous devez nous contacter au préalable.
+3.3.2. Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans un ordre séquentiel de réservation fixe, veuillez noter que si le transport correspondant à une étape prédéfinie n’est pas utilisé, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculons le prix du billet conformément au nouvel itinéraire. Le prix sera ainsi déterminé en fonction de ce que vous auriez dû payer pour votre itinéraire en question dans le même groupe tarifaire que le jour de votre réservation. Ce prix peut être supérieur ou inférieur au prix d’origine payé.
 
-Si le transport correspondant à un itinéraire prédéfini n’est pas effectué, ou s’il n’est pas effectué dans l’ordre séquentiel établi par les coupons de vols, nous recalculons le prix du billet conformément au nouvel itinéraire. Le billet est alors facturé au prix qui aurait été applicable pour votre itinéraire effectif, dans votre catégorie de prix, le jour de l’émission du billet original. Ce prix peut être supérieur au prix d’origine payé.
+Si le groupe tarifaire que vous avez réservé à l’origine n’est pas disponible pour le changement d’itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de calcul.
 
-Si la catégorie de prix initialement réservée n’est plus disponible le jour de la réservation d’origine, le nouveau calcul prend en compte la catégorie de prix la plus basse qui était disponible à cette date pour votre nouvel itinéraire.
+Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé a été déterminé, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons effectuer le transport selon que vous avez payé ou non cette différence de prix.
 
-Si le prix du nouveau billet est plus élevé que celui du billet payé à la date de votre réservation d’origine, nous vous facturons la différence. Veuillez noter que nous sommes en droit de refuser le transport tant que ce montant n’aura pas été payé.
+Si vous disposez d’un billet remboursable, comme défini dans les conditions tarifaires, et n’avez toujours pas pu effectuer un segment de ce billet, vous pouvez demander un remboursement du prix du billet conformément aux conditions tarifaires. Cela signifie que vous renoncez à votre droit de transport
+
+Le présent Article 3.3.2. ne s’applique pas au transport de passagers résidant en Autriche.
+
+3.3.2.1 Les conditions suivantes s’appliquent au transport de passagers résidant en Autriche :  
+Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans l’ordre séquentiel de réservation, veuillez noter que si le transport correspondant à une étape prédéfinie n’est pas utilisé, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculons le prix du billet conformément au nouvel itinéraire. La présente disposition ne s'applique pas si vos projets de voyage changent simplement ou si vous êtes empêché, en raison d'un cas de force majeure, d'une maladie ou pour une autre raison dont vous n'êtes pas responsable, de commencer le transport sur toutes les étapes ou sur des étapes individuelles dans l'ordre indiqué sur le billet d'avion. Dans la mesure du possible, veuillez nous informer des raisons de ces changements dès que vous en avez connaissance. Si le prix est recalculé, le prix du voyage sera déterminé en fonction de ce que vous auriez dû payer pour votre itinéraire dans le même groupe tarifaire que le jour de votre réservation. Ce prix peut être supérieur ou inférieur au prix d’origine payé.
+
+Si le groupe tarifaire que vous avez réservé à l’origine n’est pas disponible pour le changement d’itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de calcul.
+
+  
+Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé a été déterminé, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons effectuer le transport selon que vous avez payé ou non cette différence de prix.
 
 ### Non-présentation
 
 3.3.3. Sachez que si vous ne vous présentez pas pour un vol sans nous en avoir averti, nous pouvons annuler votre vol de retour ou de correspondance. Une différence de prix peut être appliquée pour sauvegarder vos vols ultérieurs. Si vous disposez d’un billet dont les conditions tarifaires permettent le remboursement et si vous n’avez pas encore commencé votre voyage, vous avez la possibilité de demander le remboursement du billet conformément aux conditions tarifaires applicables. Vous perdez ainsi votre droit au transport.
-
-### Récupération des bagages après l’interruption de votre voyage
-
-3.3.4 Si vous décidez de finaliser votre voyage dans un lieu d’arrêt convenu (après une correspondance) et si vous ne prenez pas le vol suivant vers votre destination finale, qui est indiquée sur votre billet, sans respecter l’Article 3.3.2 et à condition que cela ne soit pas de notre fait ou dû à des raisons de force majeur, cet acte sera considéré comme une violation du contrat. Vous n’aurez le droit que de récupérer votre Bagage enregistré au Lieu d’arrêt convenu, après paiement (1) de la différence de prix potentielle résultant du recalcul du tarif de votre itinéraire modifié ; et (2) d’une indemnité de 150 EUR.
 
 ### Nom et adresse du transporteur
 
