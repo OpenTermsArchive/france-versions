@@ -1,7 +1,7 @@
 Conditions générales de Vente et de Transport
 =============================================
 
-Mise à jour : février 2022   
+Mise à jour : Mai 2023  
    
 **[ARTICLE I - DEFINITIONS](#article-1)  
    
@@ -388,56 +388,7 @@ En cas d’annulation, tout remboursement (s’il est possible) se fera selon le
  **4\.     Paiement en plusieurs fois (3 ou 4 fois) par Carte bancaire sur le site internet d’Air Caraïbes**  
    
 Oney Bank propose sur le site internet d’Air Caraïbes une solution de financement dénommée 3x 4x Oney, qui permet de payer les achats de 100€ à 6000€\* en 3 ou 4 fois avec une carte bancaire.  
-\* Pour Cayenne le montant maximum de la commande est de 4000€  
-   
-(a) Conditions  
-Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France et titulaires d’une carte bancaire Visa ou MasterCard, possédant une date de validité supérieure à la durée du financement choisie. Les cartes à autorisation systématique notamment de type Electron, Maestro, Nickel etc… ainsi que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.  
-Cette solution de paiement en 3x ou 4x est accessible dès lors que le délai entre la date de Réservation du Billet et la date de début de voyage est supérieur à 14 jours.  
-   
-(b) Modalités de souscription  
-Après avoir terminé la commande, il suffit de cliquer sur le « bouton paiement en 3x 4x Oney par carte bancaire ».  
-Le client sera alors redirigé vers la page internet 3x 4x Oney affichant le récapitulatif détaillé de la commande et la demande de financement personnalisée, que le client doit ensuite valider.  
-Le client doit saisir ses informations personnelles ou, s’il dispose d’un compte 3x 4x Oney, s’identifier au moyen des identifiants de connexion liés à son compte 3x 4x Oney. Le client doit prendre connaissance des conditions générales de paiement en plusieurs fois auxquelles il souhaite souscrire qui sont fournies sous format PDF afin qu’il puisse les lire, les imprimer et les enregistrer avant de les accepter.  
-Le client doit notifier ensuite son acceptation électronique par la case à cocher correspondante.  
-Le « double clic » associé à la case à cocher sur la prise de connaissance des conditions générales vaut consentement à contracter et constitue une acceptation irrévocable et sans réserve des conditions générales du produit.  
-Sauf preuve contraire, les données enregistrées par Oney Bank constituent la preuve de l’ensemble des transactions passées entre le client et Oney Bank.  
-Si le client demande à bénéficier d’une solution de financement proposée par Oney Bank, les informations en rapport à sa commande seront transmises à Oney Bank, qui les utilisera à des fins d’étude de la demande pour l’octroi, la gestion et le recouvrement de crédit.  
-Oney Bank se réserve le droit d’accepter ou de refuser toute demande de financement en 3x 4x Oney. Le client dispose d’un délai de rétractation de 14 jours pour renoncer à son crédit.  
-   
-(c) Fonctionnement  
-Le paiement en 3 ou 4 fois par carte bancaire permet aux clients de régler la commande effectuée sur le site marchand d’Air Caraïbes de la façon suivante :
-
-* un apport obligatoire, débité le jour de la confirmation de la commande ;
-* deux ou trois mensualités, correspondant chacune à un tiers ou un quart de la commande, prélevées à 30 et 60 jours après pour le 3 fois, et à 30, 60 et 90 jours après pour le 4 fois, lesquelles comprennent des frais correspondants à 1,54% du montant total de la commande pour un 3 fois et à 2,3 % pour un 4 fois (dans la limite de 25€ maximum pour un paiement en 3 fois et de 50€ maximum pour un 4 fois).
-
-   
-• Le paiement en 3 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
-Exemple : pour un achat de 150€, apport de 52,31€ puis 2 mensualités de 50€.  
-Crédit d’une durée de 2 mois au TAEG fixe de 20,59%. Coût du financement : 2,31€ dans la limite de 25€ maximum.  
-• Le paiement en 4 fois à partir de 100€ d’achat et jusqu’à 6000€\*  
-Exemple : Pour un achat de 400€, apport de 109,20€ puis 3 mensualités de 100€.  
-Crédit sur 3 mois au TAEG fixe de 20,61%. Coût du financement : 9,20€ dans la limite de 50€ maximum.
-
-\* Pour Cayenne le montant maximum de la commande est de 4000€  
-   
-Conditions particulières pour les offres promotionnelles ponctuelles :  
-Pour le paiement en 3 fois sans frais : le coût du financement est de 0% du montant total de la commande.  
-Exemple : Pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit d’une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€   
-Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant total de la commande.   
-Exemple pour un achat de 400€, apport de 100€, suivi de 3 mensualités de 100€. Crédit d’une durée de 3 mois au TAEG fixe de 0%. Coût du financement :0€  
-   
-(d) Rétractation :  
-Pour un paiement ONEY en 3 ou 4 fois par carte bancaire, le client dispose d’un délai légal de rétractation de 14 jours calendaires à compter de son acceptation des conditions générales d’Oney. Si le client renonce à son crédit, le prix du Billet sera dû à Air Caraïbes. Le client devra alors régler son dossier de voyage directement à Air Caraïbes dans les conditions et selon les modalités stipulées dans les présentes Conditions Générales de Vente et de Transport.  
-   
-En cas de modification de la prestation de transport l’initiative du client : le client sera tenu de régler au comptant les éventuels Frais de Services directement à Air Caraïbes et/ou à son Agent Accrédité, et ce conformément aux conditions tarifaires prévues par Air Caraïbes. Dans cette hypothèse, le montant des mensualités restant dues continueront à être prélevées aux dates d’échéance initialement prévues.  
-   
-(e) En cas d’annulation de tout ou partie du voyage :  
-**En cas d’annulation totale du voyage (l’aller et le retour) par Air Caraïbes** dans le respect des Conditions Générales de Vente et de Transport d’Air Caraïbes, le crédit sera annulé. Oney Bank remboursera au client alors l’intégralité des sommes perçues conformément aux Conditions Générales de Vente et de Transport et aux modalités de remboursement d’Air Caraïbes.  
-**En cas d’annulation partielle (soit l’aller, soit le retour) par Air Caraïbes**, le crédit sera soit modifié au regard du nouveau montant du Billet, réduisant ainsi la durée de remboursement et/ou le montant de la dernière mensualité, ou annulé. Les intérêts échus à la date d’annulation partielle resteront dus par le client.  
-Les nouvelles conditions du crédit seront communiquées au client par courrier électronique comprenant notamment le montant de ses nouvelles mensualités et leurs dates de prélèvement. Le montant des prélèvements au moyen de la carte bancaire seront réajustés en conséquence.  
-   
-Oney Bank - SA au capital de 51 286 585€ - Siège social : 34 avenue de Flandre 59170 CROIX - 546 380 197 RCS Lille Métropole - n° Orias : 07 023 261 - www.orias.fr -  
-Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr
+Les conditions de cette solution de paiement se trouvent sous : [https://www.aircaraibes.com/conditions-generales-oney](https://www.aircaraibes.com/conditions-generales-oney)
 
 **5\.     Contestation du paiement après émission**  
 En cas de rejet, défaut ou contestation du paiement d’une partie ou de l’intégralité des sommes dues à Air Caraïbes et ce, postérieurement à l’émission du Billet, ledit Billet sera automatiquement annulé et le Passager refusé au transport. Air Caraïbes se réserve le droit d’intenter toute action en justice à l’encontre du Passager ayant acquis frauduleusement son Billet.  
