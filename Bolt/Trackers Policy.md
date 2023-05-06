@@ -15,7 +15,7 @@ Your current state: Allow selection (Necessary, Preferences, Statistics, Market
 
 Your current state: Allow all. 
 
-Your consent ID: 0Consent date:
+Your consent ID: Consent date:
 
 [Change your consent](#)  |  [Withdraw your consent](#)
 
@@ -73,14 +73,13 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (41)
+Statistics (39)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
     
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
-| \_device\_id\_ | food.bolt.eu | Pending | Persistent | HTML Local Storage |
 | \_ga \[x4\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 2 years | HTTP Cookie |
 | \_ga\_# \[x4\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to collect data on the number of times a user has visited the website as well as dates for the first and most recent visit. | 2 years | HTTP Cookie |
 | \_gat \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>support.taxify.eu | Used by Google Analytics to throttle request rate | 1 day | HTTP Cookie |
@@ -93,7 +92,6 @@ Statistic cookies help us understand how you interact with our website by collec
 | \_hjSession\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 day | HTTP Cookie |
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "Hotjar's privacy policy") | Collects statistics on the visitor's visits to the website, such as the number of visits, average time spent on the website and what pages have been read. | 1 year | HTTP Cookie |
 | \_hjTLDTest | [Google](https://policies.google.com/privacy "Google's privacy policy") | Registers statistical data on users' behaviour on the website. Used for internal analytics by the website operator. | Session | HTTP Cookie |
-| \_opt\_expid | www.googleoptimize.com | This cookie is set in order to make split-tests on the website, which optimizes the website's relevance towards the visitor. The cookie functions by making smaller alterations on the website and measuring the results. | 1 day | HTTP Cookie |
 | \_tt\_enable\_cookie | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | 1 year | HTTP Cookie |
 | AnalyticsSyncHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Used in connection with data-synchronization with third-party analysis service. | 30 days | HTTP Cookie |
 | collect | [Google](https://policies.google.com/privacy "Google's privacy policy") | Used to send data to Google Analytics about the visitor's device and behavior. Tracks the visitor across devices and marketing channels. | Session | Pixel Tracker |
@@ -112,7 +110,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | visited | partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 399 days | HTTP Cookie |
 
-Marketing (58)
+Marketing (56)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -122,8 +120,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | \_\_ddg1\_ | partners.food.bolt.eu | Used to track visitors on multiple websites, in order to present relevant advertisement based on the visitor's preferences. | 1 year | HTTP Cookie |
 | \_\_mpq\_#\_# \[x3\] | bolt.eu  <br>fleets.bolt.eu  <br>cdn.mxpnl.com | Collects data on user behaviour and interaction in order to optimize the website and make advertisement on the website more relevant. | Persistent | HTML Local Storage |
 | \_fbp | [Meta Platforms, Inc.](https://www.facebook.com/policy.php/ " Meta Platforms, Inc.'s privacy policy") | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | 3 months | HTTP Cookie |
-| \_gaexp | food.bolt.eu | This cookie is used by Google Analytics to determine if the visitor is involved in their marketing experiments. | 13 days | HTTP Cookie |
-| \_gaexp\_rc | food.bolt.eu | Determines whether the user is assigned to a specific content-experiment to optimize website content and advertisement efforts. | 1 day | HTTP Cookie |
 | \_gcl\_au \[x3\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Used by Google AdSense for experimenting with advertisement efficiency across websites using their services. | 3 months | HTTP Cookie |
 | \_hjRecordingEnabled | bolt.eu | This cookie is used to identify the visitor and optimize ad-relevance by collecting visitor data from multiple websites – this exchange of visitor data is normally provided by a third-party data-center or ad-exchange. | Session | HTML Local Storage |
 | \_trackingplan\_initial | [Google](https://policies.google.com/privacy "Google's privacy policy") | Pending | Persistent | HTML Local Storage |
