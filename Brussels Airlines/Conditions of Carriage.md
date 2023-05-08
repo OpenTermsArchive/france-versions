@@ -182,7 +182,6 @@ Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans l�
 
 Si le groupe tarifaire que vous avez réservé à l’origine n’est pas disponible pour le changement d’itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de calcul.
 
-  
 Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé a été déterminé, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons effectuer le transport selon que vous avez payé ou non cette différence de prix.
 
 ### Non-présentation
@@ -293,7 +292,7 @@ Brussels Airlines ne pourra être tenu responsable si nous avons exercé notre d
 
 ### Enfants
 
-7.2.2. Les enfants de moins de 5 ans ne peuvent voyager que s’ils sont accompagnés d’une personne adulte (c’est-à-dire une personne d’au moins 18 ans) ou d’une personne d’au moins 16 ans faisant partie de la même famille (frère/sœur) ou ayant le même tuteur que le/la mineur(e) en question. Les mineurs n’ayant pas encore atteint l’âge de deux ans ne peuvent voyager qu’accompagnés d’au moins un adulte. Les enfants âgés de 5 à 12 ans ne peuvent voyager seuls qu’en tant que « mineurs non accompagnés » ou ne peuvent voyager que s’ils sont accompagnés d’une personne d’au moins 12 ans, qui est totalement capable de prendre en charge l’enfant durant la totalité du voyage. Le transport d’enfants non accompagnés exige un accord avec le Transporteur et est soumis à nos règlements pertinents, ainsi qu’au paiement des frais complémentaires pertinents et aux dispositions applicables que vous pouvez demander dans nos bureaux de vote et à nos agents agréés (pour tout complément d’informations, [_​_cliquez ici](https://www.brusselsairlines.com/fr/fr/special-care/families-and-children)).
+7.2.2. Les enfants de moins de 5 ans ne peuvent voyager que s’ils sont accompagnés d’une personne adulte (c’est-à-dire une personne d’au moins 18 ans) ou d’une personne d’au moins 16 ans faisant partie de la même famille (frère/sœur) ou ayant le même tuteur que le/la mineur(e) en question. Les mineurs n’ayant pas encore atteint l’âge de deux ans ne peuvent voyager qu’accompagnés d’au moins un adulte. Les enfants âgés de 5 à 12 ans ne peuvent voyager seuls qu’en tant que « mineurs non accompagnés » ou ne peuvent voyager que s’ils sont accompagnés d’une personne d’au moins 12 ans, qui est totalement capable de prendre en charge l’enfant durant la totalité du voyage. Le transport d’enfants non accompagnés exige un accord avec le Transporteur et est soumis à nos règlements pertinents, ainsi qu’au paiement des frais complémentaires pertinents et aux dispositions applicables que vous pouvez demander dans nos bureaux de vote et à nos agents agréés (pour tout complément d’informations, cliquez ici).
 
 7.2.3. Les jeunes enfants peuvent également voyager dans un siège pour enfant, fixé sur le siège de l’avion ; pour les enfants de moins de 2 ans, il est nécessaire dans ce cas de réserver un siège supplémentaire. Le siège enfant doit être fixé au siège de l’avion, au moyen des ceintures de sécurité, pendant toute la durée du vol. Il doit être adapté pour une utilisation à bord d’avions, ce qui signifie qu’il exige une ceinture à trois points d’ancrage. Dans le cas contraire, nous sommes en droit de refuser le transport d’un siège enfant en cabine. Nous n’assumons aucune responsabilité suite aux conséquences d’une mauvaise fixation d’un siège enfant en cabine, d’un mauvais fonctionnement ou du non-respect des consignes d’utilisation.
 
@@ -501,7 +500,7 @@ Article 11 : Comportement à bord
 
 11.6.1. Les enfants jusqu'à l'âge de six ans sont exemptés de cette obligation, ainsi que les personnes dont il est prouvé qu'elles ne peuvent pas porter de masque pour des raisons de santé, uniquement si elles fournissent un certificat médical valide en utilisant le formulaire de Brussels Airlines et un test Covid19 (PCR) négatif officiellement reconnu endéans les 48 heures précédant l'heure de départ prévue.
 
-11.6.2. De plus amples informations, notamment sur le [_​_formulaire de Brussels Airlines](https://webv4.brusselsairlines.com/prod/content/v3assets/pdf/SN_COVID19_medical_certificate_mask.pdf), l'admissibilité des différents types de masques et les coordonnées de contact, sont disponibles [_​_ici](https://www.brusselsairlines.com/fr/fr/travel-safely). Les personnes qui, pour des raisons factuelles, ne peuvent pas présenter un test Covid19 négatif répondant aux exigences énoncées au point 11.6.1., veuillez cliquer [_​_ici](https://www.lufthansa.com/xx/en/exemption-mouth-nose-cover).
+11.6.2. De plus amples informations, notamment sur le [_​_formulaire de Brussels Airlines](https://webv4.brusselsairlines.com/prod/content/v3assets/pdf/SN_COVID19_medical_certificate_mask.pdf), l'admissibilité des différents types de masques et les coordonnées de contact, sont disponibles ici. Les personnes qui, pour des raisons factuelles, ne peuvent pas présenter un test Covid19 négatif répondant aux exigences énoncées au point 11.6.1., veuillez cliquer ici.
 
 Article 12 : Dispositions pour les prestations de service supplémentaires
 -------------------------------------------------------------------------
@@ -644,4 +643,4 @@ Article 18 : Intitulés abrégés
 
 18.1. Les intitulés abrégés de chaque Article des présentes Conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
 
-**Dernière mise-à-jour : juillet 2021**
+**Dernière mise-à-jour : mai 2023**
