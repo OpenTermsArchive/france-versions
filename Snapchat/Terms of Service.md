@@ -59,11 +59,6 @@ Nous sommes toujours ravis de connaître l'avis de nos utilisateurs. Mais si vou
 
 Des termes et conditions supplémentaires figurant sur la page [Conditions et politiques de Snap](https://snap.com/fr-FR/policies) ou qui sont autrement mis à votre disposition peuvent s'appliquer à des services spécifiques. Si vous utilisez ces Services, alors ces conditions supplémentaires deviennent parties des présentes Conditions. Si l'une des conditions supplémentaires applicables est en contradiction avec les présentes Conditions, les conditions supplémentaires prévaudront pendant que vous utilisez les Services auxquels elles s'appliquent.
 
-5\. Confidentialité
--------------------
-
-Votre confidentialité est importante pour nous. Vous pouvez en savoir plus sur la manière dont vos informations sont traitées lorsque vous utilisez nos Services en consultant notre [Politique de confidentialité](https://snap.com/fr-FR/privacy/privacy-policy/).
-
 6\. **Les Contenus des Tiers**
 ------------------------------
 
@@ -186,17 +181,6 @@ Les services sont fournis « tels quels » et « sous réserve de disponibilité
 **En vertu de la loi, Snap Group Limited, Snap Inc. et nos sociétés affiliées ne prennent aucune responsabilité et n'assument aucune responsabilité pour tout contenu que vous, un autre utilisateur ou un tiers, créez, téléchargez, affichez, envoyez, recevez, visualisez, ou stockez sur ou via nos Services et vous comprenez que vous pouvez être exposé à un contenu offensant, illégal, trompeur ou inapproprié, dont ni Snap Group Limited, ni Snap Inc, encore moins nos sociétés affiliées n'en seront responsables.**
 
 **Rien dans ces conditions n'exclura ni ne limitera toute responsabilité que nous pourrions avoir pour supprimer du contenu, si la loi du pays dans lequel vous vivez l'exige.**
-
-17\. Limitation de responsabilité
----------------------------------
-
-**Snap Group Limited, Snap Inc. et ses sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licence, fournisseurs et agents ne seront pas responsables de dommages indirects, accessoires, spéciaux, consécutifs, punitifs ou multiples dommages-intérêts ou de tout manque à gagner ou pertes de revenus, qu'ils soient encourus directement ou indirectement, ou de pertes de données, d'utilisation, de bonne volonté ou de pertes immatérielles, résultant : a) de votre utilisation des Services ou de votre incapacité d'utiliser ces Services ; b) de votre accès aux Services ou votre incapacité d'accéder aux Services** ; c) la conduite ou le contenu d'autres utilisateurs ou tiers sur ou via ces Services ; ou d) l'accès, l'utilisation ou la modification non autorisés de votre contenu. Sauf dans la mesure où il est spécifié autrement dans toute autre condition applicable de Snap Group Limited, Snap Inc. ou nos sociétés affiliées, en aucun cas la responsabilité globale de Snap Group Limited, Snap Inc. ou nos sociétés affiliées pour toutes les réclamations liées aux Services n'excédera : (a) 100 EUR, et (b) le montant que vous avez payé à Snap Group Limited au cours des 12 derniers mois pour tous les Services.
-
-**Aucune disposition des présentes Conditions (ou pour éviter toute ambiguïté, d'autres conditions dont vous faites l'objet relativement à la fourniture de Services par Snap Group Limited, Snap Inc. ou nos sociétés affiliées) ne doit exclure ou limiter la responsabilité de Snap Group Limited, de Snap Inc. ou de nos sociétés affiliées : au regard (a) du décès ou du dommage corporel résultant de leur intention ou négligence respective ; (b) de la fraude ou la fausse déclaration frauduleuse ; ou (c) de toute autre responsabilité dans la mesure où cette responsabilité ne peut être exclue ou limitée en droit.**
-
-**En outre, aucune disposition contenue dans les présentes Conditions n'affecte vos droits statutaires en tant que consommateur**
-
-**SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS UNE LIMITATION DE RESPONSABILITÉ PRÉVUE DANS CETTE CLAUSE, CELLE-CI NE S'APPLIQUERA PAS.**
 
 18\. Règlement des différends et arbitrage
 ------------------------------------------
