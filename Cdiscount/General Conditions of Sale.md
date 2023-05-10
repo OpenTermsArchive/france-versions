@@ -909,7 +909,7 @@ Si vous souhaitez faire jouer la Garantie Fabricant, nous vous remercions de nou
 
 Pour faire jouer votre Garantie Fabricant, il vous appartient de consulter les modalités d’application de la Garantie Fabricant généralement présentes dans la boite contenant le produit.
 
-**IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L��APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
+**IL EST RAPPELÉ QUE LE BÉNÉFICE DE LA GARANTIE FABRICANT NE FAIT PAS OBSTACLE A L’APPLICATION DES DISPOSITIONS LÉGALES RELATIVES a la GARANTIE LÉGALE DE CONFORMITÉ TELLES QUE FIGURANT AUX ARTICLES L217-3 À L217-20 DU CODE DE LA CONSOMMATION ET A LA GARANTIE DES VICES CACHES TELLES QUE FIGURANT AUX ARTICLES 1641 À 1648 DU CODE CIVIL AINSI QU’A L’ARTICLE 2232 DU MÊME CODE  ET REPRODUITES A L’ARTICLE 9.1.**
 
 _Article 10 :  ECO-PARTICIPATIONS, REPRISE 1 POUR 1 ET REDEVANCE POUR COPIE PRIVEE_
 -----------------------------------------------------------------------------------
@@ -1889,7 +1889,7 @@ _ARTICLE 3 :  PASSATION D'UNE COMMANDE DE PRODUITS_
 • qui présenterait un caractère anormal (en termes de quantités commandées notamment) ;  
 • en cas de manquement du Client Pro à ses obligations ;  
 • en cas d’erreur manifeste de prix ;  
-�� en cas d’absence d’information suffisante pour permettre à Cdiscount d’exécuter ladite commande.  
+• en cas d’absence d’information suffisante pour permettre à Cdiscount d’exécuter ladite commande.  
   
 3.4    Dès lors que le Client Pro achète les produits en qualité de revendeur, il garantit Cdiscount qu'il dispose de l'agrément de la marque dans le cas où les produits feraient partie d'un réseau de distribution fermé.   
 
