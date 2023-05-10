@@ -543,37 +543,129 @@ A des fins de maintenance applicative et corrective uniquement Air Corsica a rec
 
 ### Chapitre 5 - Dispositions générales
 
-5.1 – Durée de conservation des données
+5.1 – DURÉE DE CONSERVATION DES DONNÉES
 ---------------------------------------
 
-Les données enregistrées automatiquement (paragraphe 2.1 du présent document), seront effacées ou rendues anonymes après 14 mois.
-
+Nous conservons vos données à caractère personnel pour une durée n'excédant pas celle nécessaire aux finalités pour lesquelles elles sont collectées et traitées.  
 Les données enregistrées après complétude par vos soins d’un formulaire seront conservées au maximum 60 mois, sauf obligation légale contraire.
 
-Les données enregistrées dans le cadre de l’abonnement à notre lettre d’information seront conservées jusqu’à désinscription de votre part.
+1. Gestion des prospects (emailings, appels téléphoniques, SMS, etc.)
 
-Dans le cadre de l'accréditation "Résident" (paragraphe 2.3.2.4 du présent document), la totalité des pièces téléchargées sur le site par le passager est détruit des systèmes d’informations à l’issue de l’acceptation ou du refus de la demande de l’accréditation.
+* Finalités du traitement
+    * Identifier de nouveaux clients potentiels
+* Durée de conservation
+    * Archives (base active) pendant 3 ans maximum à compter de la fin de la relation commerciale ou après la collecte des données ou du dernier contact avec le prospect.
+* Archives (base intermédiaire) pendant 13 mois si le prospect donne son consentement explicite pour continuer à être sollicité.
+* Fondement juridique
+    * Intérêt légitime
+
+2. Gestion des cookies et autres traceurs
+
+* Finalités du traitement
+    * Générer des statistiques de fréquentation du site internet
+    * Améliorer les performances de navigation sur le site
+    * Personnalisation et ciblage publicitaire
+* Durée de conservation
+    * Conservation pendant 13 mois des données (Norme simplifiée n°48 de la CNIL)
+* Fondement juridique
+    * Consentement
+
+3. Gestion du fichier clients
+
+* Finalités du traitement
+    * Connaître et fidéliser la clientèle
+    * Adapter les offres
+    * Proposer des services adaptés (personnalisés)
+    * Gestion de la relation clientèle (modification de la réservation, assistance …)
+    * Démarches légales et fiscales
+* Durée de conservation
+    * Conservation en base active pour la durée de la relation contractuelle
+* * Conservation en base intermédiaire pendant 5 ans à compter de la fin de la relation commerciale.
+
+Toutefois, la conservation en base intermédiaire pourra être rallongée en tenant compte des délais de prescription applicables au regard des obligations légales et fiscales. En effet, des dispositions légales imposent de recueillir et de partager les données d’identification, les informations de réservation et de voyage avec les autorités publiques ou des organisations gouvernementales à des fins de contrôle des frontières, d’immigration, d’entrée sur le territoire d’un État, de sécurité ou de lutte contre le terrorisme.
+
+* Fondement juridique
+    * Contrat
+    * Obligation légale
+
+4.Gestion des abonnements à la lettre d'information (newsletter)
+
+* Finalités du traitement
+    * Gestion des abonnements ;
+    * Gestion des envois électroniques (offres)
+    * Élaboration de statistiques liées au service
+* Durée de conservation
+    * Conservation jusqu’au désabonnement de la personne concernée (via le lien de désinscription intégré aux newsletters)
+* Fondement juridique
+    * Consentement
+
+5.Paiements par carte bancaire
+
+* Finalités du traitement
+    * Paiement unique pour achat ou réservation de voyage
+* Durée de conservation
+    * Jusqu’au paiement effectif (suppression dès la transaction réalisée)
+    * Archive intermédiaire pour une finalité de preuve en cas d’éventuelle contestation de la transaction pour une durée de 13 mois suivant la date de débit ou 15 mois en cas de cartes de paiement à débit différé.
+* Fondement juridique
+    * Contrat
+
+6.Gestion des contentieux et réclamations des clients
+
+* Finalités du traitement
+* * Traitement des réclamations (procédure de médiation)
+    * Recouvrement des sommes dues
+    * Amélioration de la qualité de service
+    * Assurer la constatation, l’exercice ou la défense de ses droits en justice
+* Durée de conservation
+
+* Réclamations commerciales :
+* Les données nécessaires à l’exécution d’un contrat sont conservées pendant la durée de la relation contractuelle.
+* Conservation en base intermédiaire pendant 5 ans à compter de la fin de la relation commerciale.
+
+* Dossiers contentieux :
+* Archives intermédiaires des dossiers contentieux : conservation pendant le temps nécessaire à la gestion du contentieux (délais de recours inclus) après la connaissance d’un litige, jusqu’à la prescription de l’action.
+* Fondement juridique
+    * Contrat
+    * Obligation légale
+
+7.Gestion du programme d’abonnement
+
+* Finalités du traitement
+    * Gestion des abonnements ;
+    * Gestion des envois électroniques (offres)
+    * Élaboration de statistiques liées au service
+* Durée de conservation
+    * Conservation jusqu’au désabonnement de la personne concernée
+* Fondement juridique
+    * Consentement
+
+8.Gestion accréditation “Résident”
+
+Dans le cadre de l'accréditation "Résident" (paragraphe 2.3.2.4 du présent document), la totalité des pièces téléchargées sur le site par le passager sont détruites  au bout de 24h des systèmes d’informations à l’issue de l’acceptation ou du refus de la demande de l’accréditation.
 
 Seules les données suivantes sont conservées pour une durée de 5 ans  à titre probatoire, dans un coffre-fort numérique sécurisé, dans le seul but de pouvoir justifier en cas de contrôle a posteriori par un organisme habilité, de l’attribution d’un tarif résident à un passager, à savoir :  le (s) nom (s) de naissance et marital-  le (s)  prénom(s)  / la  date de naissance /  le code postal et le millésime de l’avis d’imposition du passager / le (s) nom(s) et prénom (s) des enfants mineurs / nom(s) et prénom(s) des étudiants et millésime de l’année d’étude.
 
-5.2 – Vos droits
+5.2 – VOS DROITS
 ----------------
 
 Conformément aux textes en vigueur lors de la rédaction du présent document, vous disposez des droits suivants concernant les données personnelles traitées par nos soins :
 
-* Droit à l'information,
-* Droit de rectification ou de suppression,
-* Droit à la limitation du traitement,
-* Droit à la transférabilité des données.
+Droit à l'information,
+
+Droit de rectification ou de suppression,
+
+Droit à la limitation du traitement,
+
+Droit à la transférabilité des données.
 
 Pour l'exercice de ces droits ou toute question relative à la protection de vos données personnelles, vous pouvez contacter notre DPO par e-mail : dpo@aircorsica.com.
 
 Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment).
 
-5.3 – Transfert des données
+5.3 – TRANSFERT DES DONNÉES
 ---------------------------
 
-Si des données personnelles sont transmises à des tiers aux fins d'exécution du contrat de transport et des services annexes, nous nous assurons au préalable que nos partenaires respectent la réglementation applicable et soient conformes au RGPD.
+Si des données personnelles sont transmises à des tiers aux fins d'exécution du contrat de transport et des services annexes, nous nous assurons au préalable que nos partenaires respectent la réglementation applicable et sont conformes au RGPD.
 
 5.4 – DONNEES A CARACTERE PERSONNEL CONCERNANT LES MINEURS DE MOINS DE 15 ANS
 -----------------------------------------------------------------------------
