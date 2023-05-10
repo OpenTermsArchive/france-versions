@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 03/11/2022  
+Mise à jour le 10/05/2023  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -183,7 +183,7 @@ Les délais de livraisons indiqués ont comme référence la date de commande et
 
 **Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
 Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
-Coût de la livraison si la commande est inférieur à 30 € : 2.99 €  
+Coût de la livraison si la commande est inférieur à 30 € : 3.99 €  
 Coût de la livraison si la commande est supérieur à 30 € : gratuite  
 **Livraison à domicile standard (Colissimo ou Colis Privé):**  
 Délai : 4 jours garantis  
@@ -195,17 +195,17 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 4.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 2.99 € si inférieur à 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
+| 5.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 3.99 € si inférieur à 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
 
   
 
 **Livraison à domicile Express (Chronopost ou Colis Privé Express) :**  
 livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour toute commande effectuée avant 13h  
-Coût de la livraison : 6.99 €
+Coût de la livraison : 7.99 €
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-Coût de la livraison : 3.99 €
+Coût de la livraison : 4.99 €
 
   
 9.2.Belgique  
@@ -216,22 +216,22 @@ Délai : 5 jours ouvrés
 |     |     |     |
 | --- | --- | --- |
 | Commandes de <40€ | Commandes de 40 € a 60 € | Commandes de >60 € |
-| Coût de la livraison 4.99 € | Coût de la livraison 2.99 € | Livraison gratuite |
+| Coût de la livraison 5.99 € | Coût de la livraison 3.99 € | Livraison gratuite |
 
   
 
 **Livraison en relais Mondial Relay**  
 Délai : 4 jours garantis pour Mondial Relay  
-Coût de la livraison si la commande est inférieur à 30 € : 2.99 €  
+Coût de la livraison si la commande est inférieur à 30 € : 3.99 €  
 Coût de la livraison si la commande est supérieur à 30 € : gratuite  
 
 **Livraison à domicile UPS STANDARD :**  
 Délai: 3 jours ouvrés  
-Coût de la livraison : 6.99 €
+Coût de la livraison : 7.99 €
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
-Coût de la livraison : 9.99 €
+Coût de la livraison : 10.99 €
 
   
 9.3.Luxembourg  
