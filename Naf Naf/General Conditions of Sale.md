@@ -516,10 +516,10 @@ Dans l'année qui suivra la demande du Client auprès des services de NAF NAF, e
   
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, NEW NAF NAF adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://eu-west-1.protection.sophos.com/?d=dynamics.com&u=aHR0cHM6Ly82MjAyMWEyZTk0NDI0ZGE3OTk1ZTJkYTk2MDZhMjk1Yi5zdmMuZHluYW1pY3MuY29tL3QvdC80eTdWQ2NCemdkN3JnM0NieG5XVEQ4MWtJZHZ4aUY0Y3h3SFJ1UFNGeG44eC9vVUc2bVhjT2xVU2YwSTh1WXFMQ3RoVG00THhMeGdjbk9ySU1nODRaWWc0eA==&i=NjIwNTdmZWM4ZTgzZjAwZjU0MmJlNjQ4&t=QS9sMmVURUdtNjAzWXE3UGtzbG0zck1JZnAxUlZqZElyZlM3SUJOWnBkaz0=&h=3c23b870b0cb4f599b7f930f929719c4 "https://www.mediateurfevad.fr/"). Après démarche préalable écrite des consommateurs vis-à-vis de NEW NAF NAF, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://eu-west-1.protection.sophos.com/?d=dynamics.com&u=aHR0cHM6Ly82MjAyMWEyZTk0NDI0ZGE3OTk1ZTJkYTk2MDZhMjk1Yi5zdmMuZHluYW1pY3MuY29tL3QvdC9FNkdxeGpJNWl2MDB3ZGFuWTYwVkZSSGdHSlV4NzhycFoyTXNHejQ2QzFVeC9vVUc2bVhjT2xVU2YwSTh1WXFMQ3RoVG00THhMeGdjbk9ySU1nODRaWWc0eA==&i=NjIwNTdmZWM4ZTgzZjAwZjU0MmJlNjQ4&t=MFFrR0xCSWlWcEh3T0cyOWVEeXJZY2w5eDdpcmtrbERYQ2ZFS1JZNXRyVT0=&h=3c23b870b0cb4f599b7f930f929719c4 "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
   
+De surcroît, conformément aux dispositions de l’article 14.5 du Règlement ODR du 21 mai 2013, NEW NAF NAF informe le consommateur de l’existence de la plateforme en ligne de règlement des litiges de la commission européenne. Tout consommateur concerné par un litige issu d’un achat en ligne (national ou transfrontalier), peut se rendre sur le lien suivant : [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). La plateforme a pour but de faciliter aux consommateurs de l’Union européenne les modalités de réclamation et de règlement amiable des litiges.  
   
 Pour tout litige transfrontalier :  
-Centre européen des consommateurs France :  
-europe-consommateurs.eu  
+Centre européen des consommateurs France : europe-consommateurs.eu  
 Le Client pourra, à ses frais, se faire assister par un conseil.  
  
 
@@ -572,4 +572,4 @@ Tout litige résultant de la formation, de l'interprétation ou de l'exécution 
   
   
   
-Dernière mise à jour des CGV : le 31/03/23
+Dernière mise à jour des CGV : le 10/05/23
