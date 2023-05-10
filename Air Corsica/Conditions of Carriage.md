@@ -11,7 +11,7 @@ Conditions générales de transport
 
 **1.2.** Dans la mesure où leur contenu ne fait pas échec à ce qui précède, tout transport effectué et tout autre service rendu par le Transporteur sont régis par les stipulations figurant aux présentes conditions, les tarifs applicables, la réglementation applicable, lesquelles sont réputées faire partie intégrante des présentes et peuvent être consultées par le Passager sur simple demande.
 
-**1.3.** Le nom du Transporteur peut être inscrit en abrégé sur le Billet, le nom entier et son abréviation figurant dans les tarifs, les Conditions de Transport, la réglementation ou les horaires du Transporteur ; l’adresse du Transporteur est celle de l’aéroport de départ figurant sur le Billet à côté de la première abréviation du nom du Transporteur ; les arrêts prévus (susceptibles d’être modifiés par le Transporteur en cas de nécessité) sont ceux qui sont indiqués sur ce Billet ou qui figurent sur les horaires du Transporteur comme des arrêts réguliers sur l’itinéraire du Passager ; le transport à exécuter par plusieurs Transporteurs successifs est censé constituer une opération unique.
+**1.3.** Le nom du Transporteur peut être inscrit en abrégé sur le Billet, le nom entier et son abréviation figurant dans les tarifs, **les Conditions de Transport**, la réglementation ou les horaires du Transporteur ; l’adresse du Transporteur est celle de l’aéroport de départ figurant sur le billet à côté de la première abréviation du nom du Transporteur ; les arrêts prévus (susceptibles d’être modifiés par le Transporteur en cas de nécessité) sont ceux qui sont indiqués sur ce Billet ou qui figurent sur les horaires du Transporteur comme des arrêts réguliers sur l’itinéraire du Passager ; le transport à exécuter par plusieurs Transporteurs successifs est censé constituer une opération unique.
 
 **1.4.** Les exclusions ou limitations de responsabilité du Transporteur s’appliqueront et profiteront à ses agents, préposés ou représentants ainsi qu’à toute personne dont l’avion est utilisé par le Transporteur pour effectuer le transport, de même qu’aux agents, préposés ou représentants de ladite personne.
 
@@ -53,11 +53,11 @@ voir «Personne ayant droit à indemnisation».
 
 désignent vos effets et autres objets personnels vous accompagnant au cours de votre voyage. Sauf disposition contraire, ce terme désigne à la fois votre Bagage enregistré et votre Bagage non enregistré.
 
-Bagage enregistré
+**Bagage enregistré**
 
 désigne le Bagage dont nous avons accepté la garde en soute et pour lesquels nous avons délivré un Bulletin de Bagages/fiche d’identification.
 
-Bagage non enregistré ou "Bagage cabine"
+**Bagage non enregistré ou "Bagage cabine"**
 
 désigne tout Bagage, autre que les bagages enregistrés. Ce Bagage demeure sous votre garde et entière responsabilité.
 
@@ -77,7 +77,7 @@ désigne le Coupon de Vol électronique ou tout autre document de même valeur �
 
 désigne les parties du Billet afférentes au transport de votre Bagage enregistré.
 
-Code de Désignation du Transporteur
+**Code de Désignation du Transporteur**
 
 désigne le code  Attribué par IATA, identifiant chaque transporteur membre de cet organisme en deux ou plusieurs caractères alphabétiques, numériques ou alphanumériques et figurant sur le Billet accolé au numéro de vol.
 
@@ -311,9 +311,7 @@ Les tarifs applicables sont ceux qui sont publiés par le Transporteur ou calcul
 
 Les prix sont publiés toutes taxes comprises – y compris les taxes et les redevances perçues pour le compte d’un tiers (gouvernement, administration, aéroport, sûreté…), la surcharge carburant et les frais de service – à l’exception de certaines taxes d'aéroport perçues localement.
 
-Tous frais, taxes ou redevances imposés par un gouvernement, par toute autre autorité ou par le gestionnaire d'un aéroport seront à votre charge. Lors de l'achat du Billet, le Passager est avisé de ces frais, taxes ou redevances, qui s'ajoutent aux Tarifs et apparaissent séparément sur le Billet. Ils sont en constante évolution et peuvent être
-
-créés (ou augmentés) après la date d'achat du Billet, auquel cas vous serez obligé(e) d'acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances, acquittées lors de l’achat en ligne sont réduits ou supprimés, vous aurez le droit d’être remboursé. En ce qui concerne les modalités de remboursement, nous vous renvoyons à l’Article 13 des présentes conditions.
+Tous frais, taxes ou redevances imposés par un gouvernement, par toute autre autorité ou par le gestionnaire d'un aéroport seront à votre charge. Lors de l'achat du Billet, le Passager est avisé de ces frais, taxes ou redevances, qui s'ajoutent aux Tarifs et apparaissent séparément sur le Billet. Ils sont en constante évolution et peuvent être créés (ou augmentés) après la date d'achat du Billet, auquel cas vous serez obligé(e) d'acquitter le montant correspondant. Inversement, si les frais, taxes ou redevances, acquittées lors de l’achat en ligne sont réduits ou supprimés, vous aurez le droit d’être remboursé. En ce qui concerne les modalités de remboursement, nous vous renvoyons à l’Article 13 des présentes conditions.
 
 **5.3. Tarifs**
 
@@ -468,7 +466,7 @@ Les conditions particulières visées au paragraphe 8.4 ne font pas partie du Co
 
 Tout enfant n'ayant pas atteint son deuxième anniversaire au moment du commencement du Transport Aérien (bébé), peut voyager accompagné d'une personne valide âgée de 18 ans au moins, sauf parents plus jeunes.
 
-2 bébés peuvent être transportés par accompagnateur à la seule condition que l'un des 2 bébés occupe un siège **individuel au tarif enfant et soit installé à l'aide d'un dispositif de retenue homologué (siège auto, harnais).**
+2 bébés peuvent être transportés par accompagnateur à la seule condition que l'un des 2 bébés occupe un siège individuel au tarif enfant et soit installé à l'aide d'un dispositif de retenue homologué (siège auto, harnais).
 
 **10.2. Enfants de plus de 2 ans et de moins de 4 ans**
 
@@ -476,9 +474,7 @@ Les enfants âgés de plus de 2 ans et de moins de 4 ans doivent être obligatoi
 
 **10.3. Enfants de plus de 4 ans jusqu'à l'âge de 11 ans**
 
-A compter de l'âge de 4 ans et jusqu'à l'âge de 11 ans, les enfants peuvent voyager sans être accompagnés par un adulte. Ils sont pris en charge par la compagnie et sont qualifiés d'UM (mineurs non accompagnés). Les UM doivent être signalés auprès de la compagnie par une demande écrite préalablement aux vols. Un nombre limité d'UM est accepté par vol. Il incombe à cet égard aux parents ou aux responsables de l'enfant de
-
-se renseigner préalablement.
+A compter de l'âge de 4 ans et jusqu'à l'âge de 11 ans, les enfants peuvent voyager sans être accompagnés par un adulte. Ils sont pris en charge par la compagnie et sont qualifiés d'UM (mineurs non accompagnés). Les UM doivent être signalés auprès de la compagnie par une demande écrite préalablement aux vols. Un nombre limité d'UM est accepté par vol. Il incombe à cet égard aux parents ou aux responsables de l'enfant de se renseigner préalablement.
 
 Les personnes accompagnant un UM doivent attendre le décollage de l'avion avant de quitter l'aéroport de manière, à les reprendre en charge si besoin. A l'arrivée à destination, les UM ne pourront être remis qu'à la personne désignée par un des titulaires de l'autorité parentale. La personne désignée devra à cet égard justifier de son identité par un document d'identité officiel.
 
@@ -508,9 +504,7 @@ Vous ne devez pas inclure dans vos Bagages tout objet dont le transport est inte
 
 **f)** des armes tranchantes, armes d'estoc, aérosols pouvant être utilisées comme armes d'attaque ou de défense, des armes de collection, des épées, des couteaux et autres armes de ce type, si elles sont transportées en cabine. Ces objets peuvent néanmoins être acceptés comme Bagages enregistrés, à la discrétion du Transporteur.
 
-**g)** des animaux vivants, excepté les animaux domestiques et sous réserve que les conditions du paragraphe 7 du présent article soient respectées.
-
-Dans le cas où de tels objets seraient contenus dans vos Bagages malgré l’interdiction prévue au présent article, les règles de responsabilité édictées à l’Article 18 ne trouveraient pas application.
+**g)** des animaux vivants, excepté les animaux domestiques et sous réserve que les conditions du paragraphe 7 du présent article soient respectées. Dans le cas où de tels objets seraient contenus dans vos Bagages malgré l’interdiction prévue au présent article, les règles de responsabilité édictées à l’Article 18 ne trouveraient pas application.
 
 **11.2. Restrictions à l’acceptation des Bagages**
 
@@ -536,7 +530,7 @@ Pour des raisons de sécurité/sûreté, nous pouvons vous demander d'accepter, 
 
 **11.4.2. Franchise de Bagages**
 
-La franchise correspond au transport en soute  d'une quantité de Bagages limitée par Passager en nombre et/ou en poids et/ou dimension, déterminée en fonction de la destination, du Tarif acquitté et est indiquée sur le Billet.
+La franchise correspond au transport en soute d'une quantité de Bagages limitée par Passager en nombre et/ou en poids et/ou dimension, déterminée en fonction de la destination, du Tarif acquitté et est indiquée sur le Billet.
 
 Vous pouvez faire transporter des Bagages en franchise selon les dispositions et sous réserve des conditions et figurant sur la page Internet de notre rubrique « Infos bagages » que nous vous invitons à lire régulièrement.
 
@@ -580,7 +574,7 @@ Vous devrez payer un supplément pour le transport des Bagages excédant la fran
 
 Sauf refus de notre part pour des raisons valables (quota d’animaux atteint, état de santé, législation relative aux animaux dangereux, règlementation du pays de destination, etc…) nous acceptons de transporter vos animaux dans les conditions suivantes :
 
-**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « Transport des animaux » que nous vous invitons à consulter régulièrement.
+**a)** Les chiens et les chats doivent être convenablement placés dans une caisse à claire-voie. Selon les destinations, le transport de ces animaux peut être soumis à des conditions, dont vous pouvez prendre connaissance sur notre page « **Transport des animaux** » que nous vous invitons à consulter régulièrement.
 
 **b)** S'il est accepté comme Bagage, l'animal et sa caisse ne seront pas compris dans votre franchise de bagages, mais constitueront un excédent de bagages, pour lequel vous devrez acquitter un tarif en vigueur communiqué à votre demande.
 
@@ -836,9 +830,7 @@ La responsabilité en cas de retard dans la livraison des Bagages enregistrés e
 
 Nous serons responsables du dommage survenu en cas de destruction, perte ou avarie de Bagage enregistré, dès lors que la perte, l’avarie ou la destruction s’est produite à bord de l’avion, ou au cours de toute période durant laquelle le Bagage enregistré est sous notre garde.
 
-Nous ne serons pas responsables du Dommage survenu à votre Bagage, lorsque ce Dommage résulte de la nature ou du vice propre du Bagage.
-
-Si vos biens sont la cause de préjudice causé à une autre personne ou à nous-mêmes, vous devrez nous indemniser pour toutes les pertes subies, et les dépenses encourues par nous de ce fait.
+Nous ne serons pas responsables du Dommage survenu à votre Bagage, lorsque ce Dommage résulte de la nature ou du vice propre du Bagage. Si vos biens sont la cause de préjudice causé à une autre personne ou à nous-mêmes, vous devrez nous indemniser pour toutes les pertes subies, et les dépenses encourues par nous de ce fait.
 
 **(b)** Bagage non enregistré
 
