@@ -479,7 +479,7 @@ L’abonnement NAF GOLD n’ouvre aucun droit à remboursement en boutique.
    
 Néanmoins, si un échange n’est pas possible, le Client pourra obtenir un avoir.  
    
-Le calcul du montant de l’avoir est réalisé comme énoncé à l’article 10.8.3.  
+Le calcul du montant de l’avoir est réalisé comme énoncé à l’article 10.7.4.  
    
 **_10.9 - Réserves, fraudes et spam_**   
   
