@@ -3,7 +3,7 @@ Conditions de Service Snap Group Limited
 
 (Si vous résidez en dehors des États-Unis)
 
-Entrée en vigueur : 12 mai 2023
+Entrée en vigueur : 30 septembre 2021
 
 Bienvenue !
 -----------
@@ -58,8 +58,6 @@ Nous sommes toujours ravis de connaître l'avis de nos utilisateurs. Mais si vou
 -----------------------------------------------------------------------
 
 Des termes et conditions supplémentaires figurant sur la page [Conditions et politiques de Snap](https://snap.com/fr-FR/policies) ou qui sont autrement mis à votre disposition peuvent s'appliquer à des services spécifiques. Si vous utilisez ces Services, alors ces conditions supplémentaires deviennent parties des présentes Conditions. Si l'une des conditions supplémentaires applicables est en contradiction avec les présentes Conditions, les conditions supplémentaires prévaudront pendant que vous utilisez les Services auxquels elles s'appliquent.
-
-Lorsque vous utilisez l'un de nos services d'assistant d'achat sur un site Web de détaillants tiers (comme Fit Finder et Virtual Try On), vous acceptez que nous vous fournissions ces services en échange du droit de collecte et de traitement de données relatives à vos achats et retours, afin que nous puissions facturer une commission au revendeur tiers, comme cela est expliqué dans notre [déclaration de confidentialité de Shopping Suite](https://snap.com/fr-FR/privacy/shopping-suite-privacy-notice). En outre, certains de ces services sont conçus pour vous fournir des recommandations personnalisées. Si vous les utilisez, il sera nécessaire et une condition de votre utilisation que nous recueillions et traitions vos données d'achat pour fournir ces recommandations personnalisées, comme expliqué également dans la [déclaration de confidentialité de Shopping Suite](https://snap.com/fr-FR/privacy/shopping-suite-privacy-notice).
 
 5\. Confidentialité
 -------------------
@@ -232,6 +230,6 @@ Ces Conditions finales, y compris les conditions supplémentaires précisées da
 Contactez-nous
 --------------
 
-Snap Group Limited vous invite à lui faire part de vos commentaires, questions, inquiétudes ou suggestions. Vous pouvez nous contacter ou obtenir une assistance en utilisant [ce formulaire en ligne](https://support.snapchat.com/i-need-help).
+Snap Group Limited vous invite à lui faire part de vos commentaires, questions, doutes ou suggestions. Vous pouvez nous contacter ou obtenir une assistance en utilisant [ce formulaire en ligne](https://support.snapchat.com/i-need-help).
 
-Snap Group Limited, la société en charge des Services à l'extérieur des États-Unis, est située au 50 Cowcross Street, Floor 2, London, EC1M 6AL. Numéro d'immatriculation de la société : 09763672. Numéro de TVA : GB 237218316.
+Snap Group Limited, la société en charge des Services à l'extérieur des États-Unis, est située au 77 Shaftesbury Avenue, London, W1D 5DU, Royaume-Uni. Numéro d'immatriculation de la société : 09763672. Numéro de TVA : GB 237218316.
