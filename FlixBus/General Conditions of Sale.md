@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 01/03/2023
+Version : 16/05/2023
 
 ### 1 Champ d’application
 
@@ -173,5 +173,9 @@ Si des dispositions individuelles des présentes Conditions générales de vente
 
 * **Concernant 4.5.1 :** Le prix total du billet indiqué sur la boutique en ligne comprend tous les frais de paiement qui sont facturés par des fournisseurs tiers (du côté de FlixBus) concernant le mode de paiement que vous avez choisi et que vous devez payer, ainsi que la taxe de vente légale.  
     Nonobstant toute disposition contraire énoncée dans les présentes, le prix total indiqué sur la boutique en ligne dû par le client ne peut inclure aucun frais bancaire et/ou de l’institution financière du client, qui peuvent être facturés en plus en vertu des politiques ou lois pertinentes liées à cette banque/institution financière sans que FlixBus en ait connaissance et soit impliqué, causés par, y compris, mais de façon non limitative, la double conversion appliquée par la banque/institution financière concernée du client. Ainsi, les Parties aux présentes conviennent et confirment que le prix total à payer par le client peut être facturé en sus et que FlixBus n’a aucun lien et ne sera pas responsable de ces frais supplémentaires.
+
+**8\. Danemark**
+
+* **Concernant 4.1 :** Les ventes à bord ne sont pas disponibles au Danemark.
 
 * * *
