@@ -32,6 +32,10 @@ Sauf disposition contraire, les Conditions générales peuvent être modifiées 
 Si vous éprouvez des difficultés à comprendre les présentes Conditions générales ou si vous n’êtes pas d’accord avec le contenu de celles-ci, nous vous demandons de bien vouloir contacter notre Service client dont vous trouverez les coordonnées dans la section « Aide » du site Web.  
   
 
+INTERDICTION D’ACHAT POUR REVENTE  
+  
+Le site Web est destiné à Levi's pour vendre des produits Levi's aux consommateurs finaux ; l'achat de produits pour la revente est strictement interdit. Si nous avons des raisons de croire que vous utilisez le site Web dans le but de revendre à d'autres, nous nous réservons le droit de prendre des mesures à votre encontre, y compris l'annulation de votre commande et/ou la fermeture de votre compte RedTab.
+
 LIVRAISON
 ---------
 
