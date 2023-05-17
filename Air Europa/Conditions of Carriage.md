@@ -432,6 +432,8 @@ Pour des raisons de sécurité, Air Europa peut demander aux passagers de lui pe
 
 (d) Quelle que soit la limite maximale autorisée en franchise ou l'excédent de bagages qu'il transporte, la mesure maximale autorisée par pièce est de 158 cm cumulés (longueur + largeur + hauteur, sauf exceptions pour certains bagages spéciaux) et le poids maximal par pièce est de 32 kg.
 
+(e) Certains bagages enregistrés considérés comme spéciaux ou irréguliers peuvent faire l'objet de frais, dont la quantité peut être  consultée sur : [bagages](https://www.aireuropa.com/fr/fr/aea/informations-pour-voler/bagages.html)
+
 **7.** **Bagages non enregistrés**
 
 (a) Air Europa peut spécifier les dimensions maximales ou le poids des bagages transportés par les passagers en cabine ou limiter la quantité de bagages, sachant que les limitations fixent actuellement le poids maximal à 10 kg. et des dimensions n'excédant pas 55 cm de long x 35 cm de large x 25 cm de haut. (ou que la somme de la longueur, de la largeur et de la hauteur ne dépasse pas 115 cm). Si Air Europa ne le fait pas, les bagages que le passager emporte en cabine doivent être placés sous le siège qui se trouve devant lui ou dans un compartiment fermé dans la cabine de l'avion. Si les bagages du passager ne peuvent être rangés de cette manière ou si leur poids est excessif ou est considéré comme dangereux pour une raison quelconque, ils doivent être transportés comme bagages enregistrés. Ces bagages peuvent être enregistrés à tout moment avant le départ du vol.
