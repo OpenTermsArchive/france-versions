@@ -165,11 +165,17 @@ Nous traitons également vos données à caractère personnel pour vous permettr
 
 Par chat
 
-Nous vous fournissons des conseils en ligne sur notre site web par le biais d'un service de chat. Les conversations simples - telles que la résolution des questions simples de notre FAQ, ou celles liées aux informations sur les vols en temps réel - sont alimentées par un processus automatisé d'intelligence artificielle par l'un de nos processeurs de données mandatés. Si vous avez des questions plus complexes, la fonction de tchat en direct vous permet de contacter l'un de nos agents du service clientèle, à qui le contenu du chat est transmis.
+Nous vous fournissons des conseils en ligne sur notre site web par le biais d'un service de chat.
+
+Les conversations simples - telles que la résolution des questions simples de notre FAQ, ou celles liées aux informations sur les vols en temps réel - sont alimentées par un processus automatisé d'intelligence artificielle par l'un de nos processeurs de données mandatés.
+
+Si vous avez des questions plus complexes, la fonction de tchat en direct vous permet de contacter l'un de nos agents du service clientèle, à qui le contenu du chat est transmis.
 
 **Les informations sensibles telles que les données des cartes de crédit ne doivent donc pas être saisies dans le chat.**
 
-Veuillez noter que vos entrées de chat peuvent être vues par l'agent avec lequel vous êtes en train de chatter. En cas de dysfonctionnements techniques et pour l'amélioration de la qualité, le prestataire de services peut également y accéder en temps réel. Si vous entrez dans le chat dans une autre langue que l'anglais, votre conversation sera traduite automatiquement par l'un de nos responsables du traitement des données. Les chats des clients sont supprimés ou anonymisés par nos soins après 30 jours. Ce traitement est basé sur notre intérêt légitime.
+Veuillez noter que vos entrées de chat peuvent être vues par l'agent avec lequel vous êtes en train de chatter. En cas de dysfonctionnements techniques et pour l'amélioration de la qualité, le prestataire de services peut également y accéder en temps réel. Si vous entrez dans le chat dans une autre langue que l'anglais, votre conversation sera traduite automatiquement par l'un de nos responsables du traitement des données.
+
+Les chats des clients sont supprimés ou anonymisés par nos soins après 30 jours. Ce traitement est basé sur notre intérêt légitime.
 
 **C. Lorsque vous achetez nos produits ou services** 
 
