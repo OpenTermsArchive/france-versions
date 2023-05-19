@@ -157,6 +157,8 @@ Pour plus d'informations à ce sujet, veuillez consulter notre avis concernant l
 
 Veuillez noter que si vous êtes un utilisateur enregistré de la plateforme TikTok, il est possible que nos publicités vous soient présentées en fonction de votre engagement de contenu sur la plateforme. Nous ne sommes pas responsables de la manière dont vos données à caractère personnel sont collectées et traitées sur cette plateforme. Nous vous conseillons donc de vous familiariser avec la politique de confidentialité de TikTok avant d'utiliser ses services.
 
+ 
+
 **B. Lorsque vous nous contactez** 
 
 Nous traitons vos données à caractère personnel afin de répondre à vos demandes et de les gérer (par exemple, demande d'information, inscription à notre newsletter, etc.). Ce traitement est fondé sur votre consentement.   
