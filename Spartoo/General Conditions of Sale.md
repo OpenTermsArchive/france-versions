@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 10/05/2023  
+Mise à jour le 19/05/2023  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -117,12 +117,12 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
     Le paiement par carte cadeau est possible. Le Client devra renseigner dans Coupon de réduction le numéro de la carte. Si le montant de la commande est supérieur au montant de la carte cadeau, le Client devra compléter le règlement par un autre moyen de paiement. Si le montant de la commande est inférieur au montant de la carte cadeau, le Client pourra utiliser le solde pour une prochaine commande dans le délai de validité de la carte cadeau.
 * Paiement en 3 fois  
     Spartoo se laisse le choix de proposer le paiement en 3 mensualités aux clients. Ce mode de paiement est alors disponible pour les commandes supérieures à 50€. Un tiers du montant de l'achat est débité immédiatement, le second tiers un mois après l'achat et le solde 2 mois après l'achat.  
-    Cette prestation sera facturée 3€ lors du premier débit.  
+    Cette prestation sera facturée 3.99€ lors du premier débit.  
       
     **Les commandes comportant des Produits Partenaires ne peuvent être réglées par le paiement en 3 fois.**  
       
     En cas de retour de produits d’une commande réglée par paiement en 3 fois, et si la vérification des produits ne fait pas apparaître une quelconque anomalie, il sera procédé comme suit :  
-    \- En cas de retour de la totalité des produits, le remboursement se fera sur la totalité des échéances prélevées et la ou les échéances non réglées seront annulées. Les frais de dossier de 5 € ne sont pas remboursés hors droit de rétractation.  
+    \- En cas de retour de la totalité des produits, le remboursement se fera sur la totalité des échéances prélevées et la ou les échéances non réglées seront annulées. Les frais de dossier de 3.99 € ne sont pas remboursés hors droit de rétractation.  
     \- En cas de retour d’un produit sur une commande, le montant des échéances à venir seront modifiées par déduction du prix du produit retourné.  
       
     Dans tous les cas d’impayés, les échéances restantes sont annulées et le montant demandé en recouvrement est égal à la totalité de la somme restante due par le Client avec des pénalités et frais de recouvrement comme prévus dans l’article 7.3.  
