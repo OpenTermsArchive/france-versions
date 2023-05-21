@@ -16,6 +16,22 @@ Ces Conditions s'appliquent si vous résidez hors des États-Unis ou si votre en
 
 **AVIS CONCERNANT L'ARBITRAGE : SI VOUS UTILISEZ LES SERVICES POUR LE COMPTE D'UNE ENTREPRISE, CETTE DERNIÈRE SERA LIÉE PAR LA CLAUSE D'ARBITRAGE DÉFINIE ULTÉRIEUREMENT DANS LES PRÉSENTES CONDITIONS.**
 
+1\. Qui peut utiliser les Services
+----------------------------------
+
+Aucune personne de moins de 13 ans (ou plus, si l'âge minimum auquel quelqu'un pourrait utiliser les Services dans votre pays) n'est autorisée à créer un compte ou à utiliser les Services. Si vous avez moins de 18 ans (ou que vous n'êtes pas majeur dans votre pays), vous ne pouvez utiliser les Services qu'avec le consentement préalable de votre parent ou de votre tuteur légal. Veuillez vous assurer que votre parent ou votre tuteur légal a examiné et discuté des présentes Conditions avec vous avant de commencer à utiliser les Services. Nous pouvons proposer d'autres Services soumis à d'autres conditions et pour lesquels l'âge limite peut être plus élevé. Veuillez donc lire toutes les clauses attentivement. En utilisant les Services, vous déclarez, vous garantissez et affirmez que :
+
+* vous avez la capacité de conclure un contrat ayant force obligatoire avec Snap ;
+    
+* vous n'êtes pas une personne à qui il est interdit d'utiliser les Services en vertu des lois des États-Unis, au Royaume-Uni ou dans tout autre pays ; par exemple, vous ne figurez pas sur la liste des ressortissants spécialement désignés du département du Trésor des États-Unis ou vous ne faites l'objet d'aucune autre interdiction de ce type ;
+    
+* vous n'avez pas été condamné pour un motif de délinquance sexuelle ; et
+    
+* vous respecterez ces Conditions et tous les règlements, règles et lois applicables au niveau local, régional, national ou international.
+    
+
+Si vous utilisez les Services au nom d'une entreprise ou d'une autre entité, vous déclarez être autorisé à lier cette entreprise ou cette entité aux présentes Conditions et vous acceptez ces conditions au nom de cette entreprise ou de cette entité (et toutes les références à « vous » et « votre » dans les présentes Conditions signifient à la fois vous en tant qu'utilisateur final et cette entreprise ou entité).
+
 2\. Vos droits
 --------------
 
@@ -119,6 +135,15 @@ Votre sécurité physique quand vous utilisez nos Services est importante pour n
 
 Pour utiliser certains Services, vous devez créer un compte. Vous acceptez de nous fournir des informations exactes, complètes et à jour pour votre compte. Vous êtes responsable de toute activité sur votre compte. Il est donc important de veiller à préserver la sécurité de votre compte. Une des manières de le faire est de choisir un mot de passe fiable que vous n'utilisez pas pour d'autres comptes. Si vous pensez que quelqu'un a accédé à votre compte, veuillez contacter immédiatement l'[assistance](https://support.snapchat.com/a/hacked-howto/). Tout logiciel que nous vous fournissons peut télécharger et installer automatiquement des mises à niveau, des mises à jour ou d'autres nouvelles fonctionnalités. Vous pouvez régler et ajuster ces téléchargements automatiques dans les réglages de votre appareil. Vous acceptez de ne pas créer de compte si nous vous avons précédemment retiré ou banni, vous ou votre compte, de l'un de nos services, sauf accord contraire de notre part.
 
+11\. Memories
+-------------
+
+Memories est notre service de stockage de données qui vous permet de consulter vos souvenirs plus facilement partout et à tout moment. En acceptant ces Conditions, vous activez automatiquement Memories. Une fois que vous avez activé Memories, cette option restera activée aussi longtemps que vous conserverez votre compte Snapchat. Néanmoins, vous pouvez toujours désactiver certaines fonctionnalités Memories dans les Réglages.
+
+Une des options que nous fournissons avec Memories est la possibilité de créer un espace privé, accessible uniquement par un code d'accès, qui peut être un code PIN, une phrase secrète ou un autre mécanisme. Le principe est similaire à l'option de verrouillage de l'appareil que vous utilisez peut-être sur votre appareil mobile ; en définissant un code secret, vous évitez qu'une personne ayant accès à votre appareil puisse voir ce que vous avez enregistré dans cet espace réservé de Memories. Mais nous vous avertissons que **si vous perdez ou oubliez votre code d'accès Memories, ou si vous saisissez trop souvent un mauvais code, vous perdrez l'accès à tout le contenu que vous avez enregistré dans l'espace privé de Memories**. Nous ne proposons aucune fonctionnalité de récupération du code d'accès de cet espace privé. Vous seul êtes responsable de votre code d'accès. Allez sur notre [Site d'assistance](https://support.snapchat.com/) pour en savoir plus sur les codes secret.
+
+Il se peut que vos contenus Memories ne soient plus disponibles pour un certain nombre de raisons, notamment en cas de dysfonctionnement opérationnel ou du fait de notre décision de fermer votre compte. Comme nous ne pouvons pas vous promettre que vos contenus seront toujours accessibles, nous vous recommandons de conserver une copie séparée des contenus que vous enregistrez dans Memories. Nous ne pouvons pas vous promettre que Memories sera en mesure de répondre précisément à tous vos besoins de stockage. Nous nous réservons le droit de définir des limites de stockage pour Memories, et nous pourrons, à notre entière discrétion, modifier ces limites de temps à autre. Comme pour nos autres Services, votre utilisation de Memories peut occuper de l'espace sur votre appareil et peut augmenter vos frais de données mobiles.
+
 12\. Téléphones mobiles et frais facturés par les opérateurs
 ------------------------------------------------------------
 
@@ -144,6 +169,11 @@ Nous pouvons résilier ou suspendre temporairement votre accès aux Services si 
 
 Quelle que soit la personne qui résilie ces conditions, vous et Snap continuez à être liés par les sections 3, 4 (dans la mesure où toute condition supplémentaire survivrait, par ses termes), et 6 - 22 des Conditions.
 
+15\. Indemnité
+--------------
+
+Dans la mesure permise par la loi, vous acceptez d'indemniser, de défendre et dégager Snap, nos sociétés affiliées, administrateurs, dirigeants, actionnaires, salariés, concédants de licences et mandataires de toute responsabilité et contre toutes plaintes, accusation, réclamations, dommages-intérêts, pertes, coûts, dettes, et dépenses (y compris les honoraires d'avocat) dues ou liées de quelque manière que ce soit : (a) à votre accès aux Services ou à leur utilisation ; (b) à votre contenu, y compris les plaintes relatives à sa violation ; (c) votre violation des présentes conditions ou de toute loi ou réglementation applicable ; ou (d) votre négligence ou votre faute intentionnelle.
+
 16\. Clause de non-responsabilité
 ---------------------------------
 
@@ -168,6 +198,15 @@ Les services sont fournis « tels quels » et « sous réserve de disponibilité
 
 **SI LA LOI DU PAYS DANS LEQUEL VOUS VIVEZ NE PERMET PAS UNE LIMITATION DE RESPONSABILITÉ PRÉVUE DANS CETTE CLAUSE, CELLE-CI NE S'APPLIQUERA PAS.**
 
+18\. Règlement des différends et arbitrage
+------------------------------------------
+
+Si vous avez un problème, nous pouvons en discuter. [Contactez-nous](https://support.snapchat.com/) et nous ferons de notre mieux pour résoudre le problème.
+
+Certains de nos Services sont susceptibles de disposer de conditions supplémentaires comportant des clauses de règlement des différends spécifique au Service concerné ou à votre lieu de résidence.
+
+**Si vous utilisez les Services au nom d'une entreprise (plutôt que pour votre usage personnel), vous et Snap Group Limited convenez, dans la limite autorisée par la loi, que l'ensemble des réclamations et litiges susceptibles de surgir entre nous au regard des présentes Conditions ou de l'utilisation des Services seront définitivement réglés sur la base des** [**Règles d'arbitrage contraignantes de la LCIA**](http://www.lcia.org/Dispute_Resolution_Services/lcia-arbitration-rules-2014.aspx)**, qui sont incorporés par référence dans la présente clause. La mission d'arbitrage sera confiée à un seul arbitre (devant être désigné par la LCIA), l'arbitrage se déroulera à Londres et l'arbitrage sera mené en anglais. Si vous ne voulez pas accepter cette clause, vous ne devez pas utiliser les Services.**
+
 19\. Lieu exclusif
 ------------------
 
@@ -182,3 +221,15 @@ Les lois d'Angleterre et du pays de Galle régissent les présentes Conditions e
 -----------------
 
 Si l'une ou plusieurs dispositions des présentes Conditions devait s'avérer inapplicable, elle serait séparée des présentes Conditions et n’affecterait en rien la validité et le caractère exécutoire des autres dispositions.
+
+22\. Conditions finales
+-----------------------
+
+Ces Conditions finales, y compris les conditions supplémentaires précisées dans l'Article 4, constituent l'intégralité de l'accord entre Snap et vous, et remplace tout précédents accord. Les présentes Conditions ne créent ni ne confèrent de droits à aucun tiers. Si nous ne nous prévalons pas une des dispositions contenues dans les présentes Conditions, cela ne sera pas considéré comme une renonciation. Nous nous réservons le droit de transférer nos droits en vertu des présentes Conditions et de fournir les Services en utilisant une autre entité, à condition que cette entité respecte ces Conditions. Vous ne pouvez céder aucun de vos droits ou vos obligations en vertu des présentes Conditions sans notre consentement. Nous nous réservons tous les droits qui ne vous ont pas été expressément octroyés.
+
+Contactez-nous
+--------------
+
+Snap Group Limited vous invite à lui faire part de vos commentaires, questions, doutes ou suggestions. Vous pouvez nous contacter ou obtenir une assistance en utilisant [ce formulaire en ligne](https://support.snapchat.com/i-need-help).
+
+Snap Group Limited, la société en charge des Services à l'extérieur des États-Unis, est située au 77 Shaftesbury Avenue, London, W1D 5DU, Royaume-Uni. Numéro d'immatriculation de la société : 09763672. Numéro de TVA : GB 237218316.
