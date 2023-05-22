@@ -20,12 +20,14 @@ Les sociétés PRINTEMPS SAS\*1 et BPCP (Printemps du Louvre) \*2 (ci-après,
 
 \*2 BPCP, SAS au capital de 2.042.355 €, dont le siège social est sis 102, rue de Provence, 75009 Paris, immatriculée au Registre du Commerce et des Société de PARIS sous le numéro 423 681 717.
 
-Dans le cadre de la carte de fidélité Printania Plus, la société CA Consumer Finance\*3, dont SOFINCO est une marque, est Responsable du traitement de vos données à caractères personnel. A ce titre, pour toute demande relative aux données à caractère personnel liées à la carte Printania Plus, vous pouvez contacter le Délégué à la protection des données aux coordonnées ci-dessous :
+Dans le cadre de la carte de paiement Printemps , la société CA Consumer Finance\*3, dont SOFINCO est une marque, est Responsable du traitement de vos données à caractères personnel. A ce titre, pour toute demande relative aux données à caractère personnel liées à la carte Visa Printemps, vous pouvez contacter le Délégué à la protection des données aux coordonnées ci-dessous :
 
 * Par courrier : CA Consumer Finance, Délégué à la protection des données, BP50075, 77213 AVON Cedex
 * Par email : [dpdcacf@ca-cf.fr](mailto:dpdcacf@ca-cf.fr)
 
   
+
+\*3 CA Consumer Finance, SA au capital de 554 482 422 € dont le siège est sis 1 Rue Victor Basch - CS 70001, 91068 MASSY Cedex, immatriculé au Registre du Commerce et des Sociétés d'Evry sous le numéro 542 097 522.
 
 2\. QU'EST-CE QU'UNE DONNÉE À CARACTÈRE PERSONNEL ?
 
@@ -56,7 +58,7 @@ Vous trouverez dans les onglets ci-dessous les informations suivantes : 
 
   
 
-LA CRÉATION ET LA GESTION DE COMPTE SUR PRINTEMPS.COM
+LA CRÉATION ET LA GESTION DE COMPTE
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -65,7 +67,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Email (et sms) pour Printemps.com
 * Email, sms ou courrier pour les Magasins Printemps.
 * **Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications adaptées à vos préférences et centres d'intérêt.**
-* **Intervenir sur vos inscriptions à nos services en ligne si besoin :** Personal stylist, RDV en magasin, Cagnotte, e-carte cadeau
+* **Gérer vos inscriptions à nos services en ligne :** Personal stylist, RDV en magasin, Cagnotte, e-carte cadeau
 * **Réaliser des études et statistiques dédiées aux services souscris en ligne**
 * **Vous permettre de gérer vos identifiants et votre mot de passe**
 
@@ -78,11 +80,11 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Numéro de téléphone
 * Pays de résidence
 * Adresse email
-* Date de naissance (si vous adhérez au programme de fidélité Printania)
-* Vos points statut (si vous avez adhéré au programme de fidélité Printania)
-* Vos points shopping (si vous avez adhéré au programme de fidélité Printania)
-* Vos bons de réduction (si vous avez adhéré au programme de fidélité Printania)
-* Vos journées Printania (si vous avez adhéré au programme de fidélité Printania)
+* Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
+* Vos points statut (si vous avez adhéré au programme de fidélité Club Printemps)
+* Vos points shopping (si vous avez adhéré au programme de fidélité Club Printemps)
+* Vos bons de réduction (si vous avez adhéré au programme de fidélité Club Printemps)
+* Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
 * Date de création de compte
 * Modes de paiement
 * Adresse de livraison
@@ -106,12 +108,13 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-LA GESTION ET LE SUIVI DES COMMANDES REALISEES SUR NOTRE SITE PRINTEMPS.COM
+LA GESTION ET LE SUIVI DE VOS COMMANDES
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
 * Vous permettre de réaliser votre commande
+* Gérer le paiement de votre commande dans les conditions décrites au paragraphe suivant
 * Traiter votre commande et assurer son suivi et sa finalisation (si vous avez placé des produits dans votre panier d'achat sans finaliser la commande et procéder au paiement), ainsi que la livraison du produit à l'adresse indiquée
 * Gérer les retours de produits
 * Gérer tout contact que vous avez avec nous concernant votre commande
@@ -125,6 +128,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
 * Civilité, nom, prénom
 * Adresse email
+* Numéro de téléphone
 * Numéro de commande
 * Montant de la commande
 * Détail des articles achetés : Marque, Date d'achat, Modèle, Taille
@@ -138,7 +142,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 ----------------------------------------------------------------------------------
 
 * Exécution d'un contrat
-* Votre consentement (pour vous adresser des communications commerciales en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
+* Votre consentement (pour vous adresser des communications commerciales, y compris des communications de rappel, en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*5
 -----------------------------------------------------------------------
@@ -148,7 +152,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
   
 
-GERER LE PAIEMENT DE VOTRE COMMANDE ET VOUS GARANTIR L'UTILISATION DES DIVERS MOYENS DE PAIEMENT DISPONIBLES SUR LE SITE PRINTEMPS.COM
+GERER LE PAIEMENT DE VOTRE COMMANDE
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
@@ -161,7 +165,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
 * Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
-* Modalités de paiement (carte bancaire, carte cadeau, bon d'achat, compte PayPal, carte de paiement PRINTANIA, cagnotte en ligne Cadeau Commun)
+* Modalités de paiement (carte bancaire, carte cadeau, bon d'achat, compte PayPal, carte de paiement Visa Printemps, cagnotte en ligne Cadeau Commun)
 
   
 
@@ -269,7 +273,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Gérer l'animation commerciale à la suite de l'ouverture de la liste
 * Vous permettre de personnaliser votre compte et vos offres
 * Gérer l'offre de parrainage d'une liste de mariage ou de naissance
-* Vous permettre de remercier les donateurs
+* Vous permettre de remercier les participants
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -288,10 +292,10 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Contrat Printemps Listes
 * Options de personnalisation de la liste (visuel et texte)
 * Liste des cadeaux présélectionnés
-* Liste des dons
+* Liste des participations
 * Date d'adhésion
 * Date de fin de contrat
-* Relevés de compte (dons, achats, versements, virements dons, remboursements)
+* Relevés de compte (participations, achats, versements, virements participations, remboursements)
 * Solde du compte
 * Reste-du sur voyage de noces en cas d'acompte
 * Numéro de carte Printemps Listes et statut
@@ -318,8 +322,8 @@ Données spécifiques traitées par Printemps Listes pour la liste 50/50 shoppin
 * Choix de la liste 50/50
 * Canal d'ouverture de la liste
 * Statut liste chez Zankyou/dates associées
-* Virements/remboursements de don
-* Informations sur le don (Identifiant opération Zankyou, canal, date, détails d'un don, nom des donateurs et éventuellement, montant du don)
+* Virements/remboursements de participation
+* Informations sur la participation (Identifiant opération Zankyou, canal, date, détails d'une participation, nom des participants et éventuellement, montant de la participation)
 * Les données relatives à l'approbation ou au refus de prospection commerciale Printemps Listes par mail avec préférences de communications
 
   
@@ -335,23 +339,56 @@ Combien de temps conservons-nous vos données à caractère personnel ? \*5
 
 Un compte est ouvert jusqu'au premier anniversaire de l'évènement. Il peut être reconduit d'une année supplémentaire après étude du dossier. Les comptes dont le solde est équilibré par les opérations réalisées par les bénéficiaires de listes sont anonymisés 3 ans après la dernière date d'activité
 
-GERER VOS DONS PRINTEMPS LISTES
+GERER LA COMMANDE D’UNE EXPERIENCE LE TEMPS PRINTEMPS
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-* Gérer les dons des participants à une liste
-* Permettre au(x) bénéficiaire(s) de la liste de remercier les donateurs
+• Vous permettre de créer une expérience Le Temps Printemps
+
+• Vous permettre de gérer votre compte client
+
+• Traiter votre commande et assurer son suivi et sa finalisation : personnaliser vos expériences, réserver votre journée 
+
+• Gérer tout contact que vous avez avec nous concernant votre commande
+
+• Gérer, le cas échéant, l’envoi d’offres commerciales
+
+• Vous permettre de remercier les participants
+
+  
+
+Sur quelle base légale repose le traitement de vos données à caractère personnel ?
+----------------------------------------------------------------------------------
+
+• Exécution d'un contrat
+
+• Votre consentement pour la prospection commerciale 
+
+  
+
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
+
+Pendant toute la durée de validité de votre compte et 3 ans après sa fermeture qui intervient 18 mois après sa date de création.
+
+GERER VOS PARTICIPATIONS A UNE LISTE OU A UNE EXPERIENCE LE TEMPS PRINTEMPS
+
+Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
+----------------------------------------------------------------------------------------------
+
+* Gérer les participations à une liste ou à une expérience Le Temps Printemps
+* Permettre au(x) bénéficiaire(s) de la liste ou de l'expérience Le Temps Printemps de remercier les participants
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
 
-* Civilité, nom, prénom du donateur
+* Civilité, nom, prénom du participant
 * Adresse email
 * Pays
-* Message du donateur à destination du bénéficiaire
-* Les données permettant la gestion du don (date et heure du don, produit réservé, montant du don)
-* Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement)
+* Message du participant à destination du bénéficiaire de la liste / message de l'organisateur à destination du bénéficiaire d'une expérience Le Temps Printemps
+* Les données permettant la gestion de la participation à une liste ou à une expérience Le Temps Printemps (date et heure de la participation, produit réservé pour une liste, montant de la participation par exemple)
+* Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement pour plus d’informations, vous pouvez consulter la rubrique « Gérer le paiement de votre commande » ci-dessus)
 * Adresse IP de la connexion
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
@@ -364,7 +401,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 Combien de temps conservons-nous vos données à caractère personnel ?\*
 ----------------------------------------------------------------------
 
-* **Donateur :** 3 ans après la réalisation du don
+* **Participant :** 3 ans après la participation à une liste ou à une expérience Le Temps Printemps
 
 VOUS INVITER AU GRAND DEFILE MARIAGE - PRINTEMPS LISTES
 
