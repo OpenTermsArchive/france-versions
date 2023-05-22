@@ -484,10 +484,10 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Date de création de compte de vente à distance
 * Historique des commandes
 * Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
-* Les données permettant la gestion du compte fidélité Printania (date d'adhésion, type de carte, numéro de compte Printania, numéro de carte Printania)
-* Les données relatives aux achats à distance effectués par la personne ayant adhéré au programme Printania
-* Vos points statut (si vous avez adhéré au programme de fidélité Printania)
-* Vos points shopping (si vous avez adhéré au programme de fidélité Printania)
+* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, numéro de compte Club Printemps, numéro de carte Visa Printemps)
+* Les données relatives aux achats à distance effectués par la personne ayant adhéré au programme Club Printemps
+* Vos points statut (si vous avez adhéré au programme de fidélité Club Printemps)
+* Vos points statut, vos avantages et le montant de votre cagnotte (si vous avez adhéré au programme de fidélité Club Printemps)
 
   
 
@@ -505,7 +505,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 Combien de temps conservons-nous vos données à caractère personnel ?\*5
 -----------------------------------------------------------------------
 
-* **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce
+* **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
 * **Clients non titulaires d'une carte fidélité :** le temps nécessaire à la réalisation des finalités
 
   
@@ -524,7 +524,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Gérer l'animation, l'amélioration, la personnalisation de vos offres et services ainsi que le suivi de la relation client dans le cadre de l'adhésion au programme
 * Gérer vos avantages et services dans le cadre du programme de fidélité
 * Normalisation des données
-* Le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Printania Plus en cas de rejet du dossier de crédit pour cause de pièces justificatives manquantes ou erronées, ou en cas d'exercice du droit à la rétraction
+* Le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps en cas de rejet du dossier de crédit pour cause de pièces justificatives manquantes ou erronées, ou en cas d'exercice du droit à la rétraction
 
   
 
@@ -538,14 +538,14 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Adresse email
 * Date de naissance
 * Données de paiement (date et montant de la transaction, type de moyen de paiement) Il est précisé que les informations relatives au paiement (numéro de carte bancaire/coordonnées bancaires) ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement.
-* Les données permettant la gestion du compte fidélité Printania (date d'adhésion, type de carte, réclamation client, numéro de compte Printania, numéro de carte Printania)
-* Les données relatives aux achats effectués par la personne ayant adhéré au programme Printania en magasin Printemps ou sur les sites Internet www.placedestendances.com et www.printemps.com (numéro de commande ou de réservation, date de commande, type de produits)
+* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps, numéro de carte Visa Printemps)
+* Les données relatives aux achats effectués par la personne ayant adhéré au programme Club Printemps
 * Les données relatives aux éventuels retours (date de retour, montant du retour) et données relatives à l'escompte (montant de l'escompte)
-* L'historique des points et des avantages
+* L'historique des points statut, des montants cumulés et des avantages
 * Les données de préférence avec le choix des 3 marques préférées du titulaire
 * Les données relatives à l'approbation ou le refus de prospection commerciale et les préférences d'abonnement
-* Les données justificatives permettant la résiliation du programme ou du compte Printania par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
-* Les données permettant l'opposition au programme Printania en cas de perte ou vol de la carte (document d'identité)
+* Les données justificatives permettant la résiliation du programme ou du compte Club Printemps par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
+* Les données permettant l'opposition au programme Club Printemps en cas de perte ou vol de la carte (document d'identité)
 * Le numéro de passeport (pour l'adhésion au programme de fidélité et pour l'inscription à l'offre Welcome réservée à notre clientèle internationale)
 
   
@@ -555,7 +555,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * **Exécution d'un contrat** (pour la gestion de votre inscription au programme de fidélité)
 * **Votre consentement** (pour vous adresser des communications commerciales)
-* **Intérêt légitime des sociétés Printemps** (pour le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Printania Plus)
+* **Intérêt légitime des sociétés Printemps** (pour le recouvrement des achats effectués au Printemps et réglés au moyen de la carte de paiement Visa Printemps)
 
   
 
@@ -607,7 +607,135 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
   
 
-LA REALISATION D'OFFRES COMMERCIALES PRINTEMPS
+LA GESTION DE L'INSCRIPTION AU LIVE SHOPPING
+
+  
+
+Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
+----------------------------------------------------------------------------------------------
+
+• Vous envoyer la confirmation de votre inscription
+
+• Vous permettre d’accéder à la session de live shopping
+
+• Vous adresser nos offres commerciales avec votre accord 
+
+  
+
+Quelles données à caractère personnel pouvons-nous traiter ?
+------------------------------------------------------------
+
+• Civilité, nom, prénom
+
+• Adresse email
+
+  
+
+Sur quelle base légale repose le traitement de vos données à caractère personnel ?
+----------------------------------------------------------------------------------
+
+**• Votre consentement**
+
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
+
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+
+  
+
+DIAGNOSTIC BEAUTE
+
+  
+
+  
+
+Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
+----------------------------------------------------------------------------------------------
+
+• Vous faire bénéficier d’un diagnostic beauté et vous adresser votre routine beauté associée
+
+• Vous adresser nos offres commerciales et/ou vous contacter pour une enquête de satisfaction avec votre accord 
+
+Quelles données à caractère personnel pouvons-nous traiter ?
+------------------------------------------------------------
+
+• Nom, prénom, genre, tranche d’âge
+
+• Adresse email et/ou numéro de téléphone
+
+  
+
+Sur quelle base légale repose le traitement de vos données à caractère personnel ?
+----------------------------------------------------------------------------------
+
+* **Votre consentement**
+
+  
+
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
+
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5
+
+  
+
+VENTE DE PRODUITS DE SECONDE MAIN
+
+  
+
+Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
+----------------------------------------------------------------------------------------------
+
+• La vente de votre produit de seconde main, 
+
+• Le suivi de la relation client, 
+
+• L'amélioration de la connaissance client 
+
+• Vous adresser nos offres commerciales avec votre accord 
+
+  
+
+Quelles données à caractère personnel pouvons-nous traiter ?
+------------------------------------------------------------
+
+• Civilité, nom, prénom
+
+• E-mail et/ou téléphone :
+
+• Adresse 
+
+• Date de naissance 
+
+• Nationalité : 
+
+• Document d’identité numéro, date et autorité de délivrance
+
+  
+
+Sur quelle base légale repose le traitement de vos données à caractère personnel ?
+----------------------------------------------------------------------------------
+
+• Exécution d'un contrat (la vente de votre produit de seconde main, le suivi de la relation client)
+
+• Votre consentement pour l’envoi de communication
+
+• Intérêt légitime des Sociétés Printemps (pour améliorer notre connaissance client)
+
+  
+
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
+
+• Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+
+• Prospect : 3 ans après la dernière activité mail/sms\*5
+
+  
+
+ENVOI D'OFFRES COMMERCIALES
 
   
 
@@ -616,7 +744,8 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
 * Réaliser des actions promotionnelles (informations sur les temps forts commerciaux, les offres spéciales, invitations aux évènements et salons)
 * Vous adresser par email, par SMS ou par animation/affichage sur le site des communications commerciales pouvant être adaptées à votre profil et à vos préférences (non applicable pour Printemps Listes)
-* Organiser des jeux concours et loteries
+
+  
 
   
 
@@ -627,28 +756,73 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
 * Civilité, nom, prénom
 * Adresse email
-* Type et date d'évènement (dans le cadre des jeux Printemps Listes)
-* Données relatives à l'adhésion au programme Printania (non applicable pour Printemps Listes)
+* Données relatives à l'adhésion au programme Club Printemps (non applicable pour Printemps Listes)
 * Données relatives à l'approbation ou au refus de prospection commerciale et aux préférences d'abonnement (sms ou email)
 * Code postal
-* Numéro de téléphone (dans le cadre des jeux Printemps Listes)
-* Données relatives à l'organisation et au traitement des jeux concours, de loterie et de toute opération promotionnelle (date de participation, réponses apportées, nature des lots offerts etc.)
+
+  
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
 * **Consentement**
-* **Intérêt légitime des Sociétés Printemps** (pour adresser des communications commerciales aux personnes déjà clientes des sociétés Printemps\*7)
-* \*7 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en pquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
+* **Intérêt légitime des Sociétés Printemps** (pour adresser des communications commerciales aux personnes déjà clientes des sociétés Printemps\*6)
+* \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
 * **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*5
 -----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms\*6
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
+
+JEUX-CONCOURS ET LOTERIES
+
+  
+
+Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
+----------------------------------------------------------------------------------------------
+
+• Organiser des jeux concours et loteries
+
+• Vous adresser des offres commerciales 
+
+  
+
+Quelles données à caractère personnel pouvons-nous traiter ?
+------------------------------------------------------------
+
+• Civilité, nom, prénom
+
+• Adresse email
+
+• Type et date d'évènement (dans le cadre des jeux Printemps Listes)
+
+• Données relatives à l'approbation ou au refus de prospection commerciale et aux préférences d'abonnement (sms ou email)
+
+• Code postal
+
+• Numéro de téléphone (dans le cadre des jeux Printemps Listes)
+
+• Données relatives à l'organisation et au traitement des jeux concours, de loterie et de toute opération promotionnelle (date de participation, réponses apportées, nature des lots offerts etc.)
+
+  
+
+Sur quelle base légale repose le traitement de vos données à caractère personnel ?
+----------------------------------------------------------------------------------
+
+* **Exécution d’un contrat** (pour la participation aux jeux concours et loteries)
+* **Consentement (**pour vous adresser des communications commerciales\*6)
+
+\*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « _quels sont vos droits et comment les exercer ?_ »
+
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
+
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
 CIBLAGE PUBLICITAIRE SUR PRINTEMPS.COM
 
@@ -680,12 +854,12 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
 * Pour les cookies : 13 mois après le dépôt des cookies
 * Pour l'adresse mail :
-* Client : 3 ans après la dernière activité en magasin ou activité mail/sms\*6, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*6
+* Client : 3 ans après la dernière activité en magasin ou activité mail/sms\*5, ou activité e-commerce.
+* Prospect : 3 ans après la dernière activité mail/sms\*5
 
   
 
-LA GESTION DE VOS RENDEZ-VOUS EN LIGNE PRINTEMPS LISTES, PRINTEMPS.COM
+LA GESTION DE VOS RENDEZ-VOUS EN LIGNE
 
   
 
@@ -693,9 +867,10 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 ----------------------------------------------------------------------------------------------
 
 * Gérer le service en ligne de prise de rendez-vous beauté (à l'exception de l'Atelier du sourcil et Coiffirst) sur printemps.com
-* Gérer le service de prise de rendez-vous en ligne avec nos experts vente sur printemps.com et vous informer par email des services et sessions shopping organisés par nos experts
-* Gérer le service de prise de rendez-vous en ligne pour l'essayage de votre tenue de mariage sur listes.printemps.com
-* Gérer le service de prise de rendez-vous avec nos Personal Stylists sur printemps.com
+* Gérer le service de prise de rendez-vous en ligne avec nos Personal Shoppers sur printemps.com et vous informer par email des services et sessions shopping organisés par nos experts
+* Gérer le service de prise de rendez-vous en ligne pour l'essayage de votre tenue de mariage sur Printemps Listes et printemps.com
+
+  
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -737,11 +912,9 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Numéro de téléphone
 * Pays de résidence
 * Adresse email
-* Date de naissance (si vous adhérez au programme de fidélité Printania)
-* Vos points statut (si vous avez adhéré au programme de fidélité Printania)
-* Vos points shopping (si vous avez adhéré au programme de fidélité Printania)
-* Vos bons de réduction (si vous avez adhéré au programme de fidélité Printania)
-* Vos journées Printania (si vous avez adhéré au programme de fidélité Printania)
+* Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
+* Votre évolution des points statut (si vous avez adhéré au programme de fidélité Club Printemps)
+* Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
 * Date de création de compte
 * Modes de paiement
 * Adresse de livraison
@@ -754,7 +927,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 ----------------------------------------------------------------------------------
 
 * Exécution d'un contrat
-* Consentement (pour vous adresser des communications relatives aux sessions shopping organisées par nos experts vente)
+* Consentement (pour vous adresser des offres commerciales)
 
 Combien de temps conservons-nous vos données à caractère personnel ?\*5
 -----------------------------------------------------------------------
@@ -762,7 +935,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 * Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
 * Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*6
 
-LE SUIVI DE LA RELATION CLIENT AVEC PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
+LE SUIVI DE LA RELATION CLIENT
 
   
 
@@ -775,9 +948,9 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Gérer les échanges en magasin
 * Gérer toute réclamation
 * Vous apporter tout renseignement sur nos Sites, les articles et sur les commandes
-* Vous apporter tout renseignement sur le programme de fidélité Printania
-* Gérer les échanges en ligne avec nos personal stylists
-* Gérer le suivi d'une liste de cadeaux avec Printemps Listes, d'un don, d'un gagnant à un jeu concours, d'un rendez-vous en ligne ou d'une retouche
+* Vous apporter tout renseignement sur le programme de fidélité Club Printemps
+* Gérer les échanges en ligne avec nos personal shoppers
+* Gérer le suivi d'une liste de cadeaux avec Printemps Listes, d'un don, d'un gagnant à un jeu concours, d'un rendez-vous en ligne, d'une retouche ou de l'utilisation d'une expérience Le Temps Printemps
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -789,6 +962,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Magasin concerné
 * Votre message à l'attention de notre service client
 * Date de création de compte
+* Date de visite souhaitée ou date de prise de contact avec votre bénéficiaire d’une expérience Le Temps Printemps
 * Historique des réclamations (dates et échanges avec notre service client)
 * Numéro de commande ou référence de réservation
 * Historique des commandes (web et magasins)
@@ -806,8 +980,8 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
-* Durée de conservation des appels enregistrés : 3 mois (non applicable pour Printania)
-* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois (non applicable pour Printania)
+* Durée de conservation des appels enregistrés : 3 mois
+* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
 * Durée de conservation des messages vocaux laissés sur le répondeur téléphonique du service client Printemps.com : 1 semaine pour les messages vocaux écoutés par le service client, 2 semaines pour les messages vocaux qui n'ont pas pu être traités par le service client
 
   
@@ -850,8 +1024,8 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*5
 
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
-* Durée de conservation des appels enregistrés : 3 mois (non applicable pour Printania)
-* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois (non applicable pour Printania)
+* Durée de conservation des appels enregistrés : 3 mois
+* Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
 * Durée de conservation des enquêtes de satisfaction : 24 mois
 * Cookies : 13 mois après le dépôt
 
@@ -894,7 +1068,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Marque commandée
 * Montant de la commande
 * Données de navigation (cookies de navigation et de performance)
-* Données Printania (statut, nombre de points, achats avec bons de réduction)
+* Données CLub Printemps (statut, montant de la cagnotte)
 * Données d'utilisation des emails et des sms (date d'envoi, ouverture email, clic)
 
   
@@ -920,7 +1094,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 ----------------------------------------------------------------------------------------------
 
 * Gérer toute demande d'information, de suppression, de rectification de vos données, d'accès à vos données, d'opposition ou de limitation aux traitements sur vos données, ainsi que toute demande de portabilité de vos données
-* Gérer vos demandes de résiliation et opposition au programme de fidélité PRINTANIA, à la prospection commerciale, à nos newsletters
+* Gérer vos demandes de résiliation et opposition au programme de fidélité Club Printemps, à la prospection commerciale, à nos newsletters
 
   
 
@@ -934,12 +1108,12 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Adresse postale
 * Adresse email
 * Date de naissance
-* Les données permettant la gestion du compte fidélité Printania (si encartés) : date d'adhésion, type de carte, numéro de carte, statut
+* Les données permettant la gestion du compte fidélité Club Printemps (si encartés) : date d'adhésion, type de carte, numéro de carte, statut
 * Les données relatives aux achats effectués : données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte de fidélité afin de permettre le calcul des points statut et shopping (si encartés), données collectées à l'occasion d'un acte d'achat de la part du titulaire de la carte Printemps Listes
 * Les identifiants et les informations collectées sur l'espace privé (si encartés)
 * Les données de préférence avec le choix des 3 marques préférées (si encartés)
 * Les services statutaires souscrits (si encartés)
-* Les données liées aux avantages acquis par les clients encartés (Journées Printania, bon de réduction Printania)
+* Les données liées aux avantages acquis par les clients encartés (Journées Club Printemps)
 * Les données relatives à l'approbation ou le refus de la sollicitation commerciale
 * Les problématiques rencontrées par le client et la réponse apportée par le service client
 * Les données relatives au compte Printemps Listes (Carte Printemps Listes/statut, date d'évènement, prolongation/fermeture de compte, atout liberté : remboursement 10% des dons)
@@ -969,7 +1143,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
 * Assurer la sécurité de nos Sites
 * Protéger les transactions contre la fraude. A ce titre, nous utilisons une solution fournie par un prestataire tiers afin de détecter toute fraude et de nous assurer que le paiement sera effectué par vos soins ou toute personne que vous aurez autorisée à cet effet
-* Gérer la prévention de la fraude dans le cadre de l'utilisation du programme de fidélité Printania
+* Gérer la prévention de la fraude dans le cadre de l'utilisation du programme de fidélité Club Printemps
 * Assurer le contrôle des avantages accordés à nos clients et/ou partenaires commerciaux dans le cadre de nos différents programmes de fidélisation ou de nos partenariats
 
   
@@ -983,18 +1157,18 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
   
 
-**Pour la gestion de la fraude Printania :**
+**Pour la gestion de la fraude Club Printemps :**
 
 * Nom, prénom
 * Adresse email
 * Historique des transactions du titulaire de la carte de fidélité (date et montant des transactions, produits favoris, moyens de paiement, achats détaxe, achats Welcome, utilisation des offres liées à la carte de fidélité)
-* Les données permettant la gestion du compte fidélité Printania (date d'adhésion, type de carte, réclamation client, numéro de compte Printania et/ou CACF, numéro de carte Printania)
-* L'historique des points bonus et statut et des avantages, niveau de fidélité
+* Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps et/ou CACF, numéro de carte Visa Printemps)
+* L'historique des points statut, de la cagnotte et des avantages, niveau de fidélité
 * Magasin principal
 
   
 
-**Pour la gestion des avantages pour la clientèle internationale :**
+**Pour la gestion des avantages :**
 
 * Nom, prénom
 * Numéro de passeport
@@ -1010,7 +1184,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 --------------------------------------------------------------------
 
 * Conservation des données par notre prestataire de paiement pour la durée nécessaire à l'accomplissement de cette finalité par ce dernier
-* Pour la gestion de la fraude Printania : conservation des données pendant le temps nécessaire à la réalisation de la finalité
+* Pour la gestion de la fraude Club Printemps : conservation des données pendant le temps nécessaire à la réalisation de la finalité
 
 UTILISATION DU CONTENU GENERE SUR LES RESEAUX SOCIAUX RELATIF A PRINTEMPS.COM, PRINTEMPS LISTES
 
@@ -1052,7 +1226,7 @@ NAVIGATION EN LIGNE ET COOKIES SUR PRINTEMPS.COM, PRINTEMPS LISTES
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ----------------------------------------------------------------------------------------------
 
-Nous utilisons des cookies ou des technologies similaires (ci-après des « Cookies »\*8) lors de votre navigation sur nos Sites pour :
+Nous utilisons des cookies ou des technologies similaires (ci-après des « Cookies »\*7) lors de votre navigation sur nos Sites pour :
 
 * Faciliter votre navigation
 * Connaître votre façon d'interagir avec nous
@@ -1061,7 +1235,7 @@ Nous utilisons des cookies ou des technologies similaires (ci-après des « Cook
 
 Pour plus d'informations sur les Cookies et pour gérer les Cookies que nous déposons, veuillez consulter notre centre de gestion des cookies.
 
-\*8 Les cookies sont des petits fichiers textes qui sont enregistrés sur votre appareil (ordinateur, tablette ou mobile) lorsque vous naviguez sur les sites Internet.
+\*7 Les cookies sont des petits fichiers textes qui sont enregistrés sur votre appareil (ordinateur, tablette ou mobile) lorsque vous naviguez sur les sites Internet.
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -1137,7 +1311,7 @@ Lorsque nous collectons des données à caractère personnel directement auprès
 * les personnes habilitées au sein de la Direction Juridique.
 * dans le cadre de Printemps Listes : les personnes habilitées au sein de l'équipe Printemps Listes Siège et magasins, Printemps Affiliés et les personnes habilitées au sein de la direction financière
 
-En utilisant le compte PRINTEMPS.COM, vous pourrez bénéficier des services Club Printemps afin de profiter des nombreux avantages résultant des interactions entre les deux enseignes. Nous vous informons également que Placedestendances.com, société filiale du Groupe Printemps, est également destinataire de données à caractère personnel dans le cadre du programme de fidélité lorsque vous renseignez votre numéro de carte Club Printemps sur le site Internet www.placedestendances.com pour appairer votre compte Place des tendances et votre carte Club Printemps.
+  
 
 * Vos données à caractère personnel peuvent être transmises **aux prestataires auxquels les sociétés Printemps font appel** pour la réalisation de services dans le cadre des finalités mentionnées ci-dessus, par exemple:
 * Nos prestataires d'hébergement, dont nous avons besoin pour stocker l'ensemble de vos données, de maintenance et de support technique
@@ -1186,7 +1360,7 @@ Vous pouvez vous désabonner de la Newsletter à tout moment et sans aucun coût
 
   
 
-Printemps est présent sur de nombreux réseaux sociaux comme Facebook, Twitter, Pinterest et Instagram et WeChat (pour notre clientèle internationale).
+Printemps est présent sur de nombreux réseaux sociaux comme Facebook, Twitter, Pinterest, Tiktok, Instagram et WeChat (pour notre clientèle internationale).
 
   
 
