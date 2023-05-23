@@ -667,7 +667,7 @@ Le Client dispose de 30 jours pour retourner sa commande à compter de la date d
 
   
 
-Sous ce délais, les retours sont offerts en France, en Belgique, au Luxembourg, au Pays Bas, en Allemagne et au Royaume-Uni.
+Sous ce délais, les retours sont offerts en France.
 
   
 
