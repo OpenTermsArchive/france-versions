@@ -1,5 +1,5 @@
 Déclaration sur les cookies
----------------------------
+===========================
 
 This website uses cookies. We use cookies to ensure that we offer you the best experience while browsing our website. Check our [Cookie Declaration](https://bolt.eu/en/cookie-declaration/) for more information.
 
