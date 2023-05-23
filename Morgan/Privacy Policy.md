@@ -1,3 +1,9 @@
+##### 2\. Sociétés en charge des traitements au sein du Groupe
+
+Les Marques effectuent chacune des traitements qui leur sont propres dans le but de fournir à leurs Client/Prospects l’ensemble des services proposés tels que l’accès à leur site web respectif, la vente de leurs produits ou encore la souscription à des programmes de fidélité.
+
+Chacune des Marques est, par conséquent, responsable de ses propres traitements de Données. A titre d’exemple, lorsqu’un Client/Prospect achète un produit dans un point de vente Bonobo, seule cette marque sera en charge du traitement des Données nécessaires à la vente du produit.
+
 ##### CHARTE DE CONFIDENTIALITE DES DONNEES A CARACTERE PERSONNEL
 
 MISE A JOUR LE 1/04/2022
