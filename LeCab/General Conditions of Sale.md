@@ -23,7 +23,7 @@ Voiture désigne la voiture qui sera utilisée lors de l’exécution du service
 
 Client désigne toute personne ayant installé ou utilisant l’Application et / ou en ayant commandé le Service, pour lui-même et / ou pour un tiers, et qui bénéficie des droits et obligations prévus par les Conditions Générales.
 
-Société désigne SnapCar une SAS (Société par Action Simplifiée) au capital de 47 804,30 euros, dont le Siège Social est situé au 91 rue Jean Jaurès 92800 Puteaux Cedex, immatriculée au Tribunal de Commerce de Nanterre sous le numéro 749 816 328.
+Société désigne SnapCar une SAS (Société par Action Simplifiée) au capital de 117 972,20 euros, dont le Siège Social est situé au 91 rue Jean Jaurès 92800 Puteaux Cedex, immatriculée au Tribunal de Commerce de Nanterre sous le numéro 749 816 328.
 
 Chauffeur désigne le chauffeur qui exécutera le service et qui dispose de toutes les autorisations requises par la loi française pour conduire une voiture.
 
