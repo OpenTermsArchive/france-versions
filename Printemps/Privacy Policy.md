@@ -100,8 +100,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * **Votre consentement** (pour vous adresser des communications commerciales)
 * **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client et pour la réalisation de statistiques)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * **Prospect :** 3 ans après la dernière activité mail/sms\*6.
@@ -144,8 +144,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Votre consentement (pour vous adresser des communications commerciales, y compris des communications de rappel, en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * **Client en tant qu'invité :** le temps nécessaire pour la réalisation des services.
@@ -235,8 +235,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * **Exécution d'un contrat**
 
-Combien de temps conservons-nous vos données à caractère personnel ? \*5
-------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * Pour l'organisateur et le bénéficiaire clients : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Pour l'organisateur et le bénéficiaire prospects : 3 ans après la dernière activité mail/sms\*6
@@ -334,8 +334,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Votre consentement (Vous disposez d'un droit de désabonnement pour les communications commerciales envoyées dans le cadre de votre liste)
 
-Combien de temps conservons-nous vos données à caractère personnel ? \*5
-------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 Un compte est ouvert jusqu'au premier anniversaire de l'évènement. Il peut être reconduit d'une année supplémentaire après étude du dossier. Les comptes dont le solde est équilibré par les opérations réalisées par les bénéficiaires de listes sont anonymisés 3 ans après la dernière date d'activité
 
@@ -502,8 +502,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
 * **Clients non titulaires d'une carte fidélité :** le temps nécessaire à la réalisation des finalités
@@ -559,8 +559,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Les données traitées dans le cadre du recouvrement sont conservées 15 jours après la clôture du dossier.
@@ -770,8 +770,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
 * **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
 * **Prospect :** 3 ans après la dernière activité mail/sms\*5
@@ -929,8 +929,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Consentement (pour vous adresser des offres commerciales)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
 * Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*6
@@ -975,8 +975,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Consentement (pour l'enregistrement de vos échanges téléphoniques avec notre service client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
@@ -1019,8 +1019,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Intérêt légitime des sociétés Printemps
 * Consentement (pour l'enregistrement de vos échanges avec notre service client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
@@ -1080,8 +1080,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * Intérêt légitime des sociétés Printemps
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*5
------------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?
+--------------------------------------------------------------------
 
 * Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
 * Prospect : 3 ans après la dernière activité mail/sms\*6
