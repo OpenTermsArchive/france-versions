@@ -47,7 +47,7 @@ La création d'un compte est obligatoire pour bénéficier de toutes les offres 
 
   
 
-L'adhésion à notre club de fidélité « Club Printemps » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le [lien suivant](https://www.printemps.com/club-printemps).
+L'adhésion à notre club de fidélité « Club Printemps » nécessite également la création d'un compte. Pour plus d'informations sur le programme fidélité Printemps, cliquez sur le [lien suivant](https://www.printemps.com/fr/fr/club-printemps).
 
   
 
@@ -417,6 +417,10 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
   
 
 * Paiement en 3x sans frais possible pour toutes les commandes allant de 150 euros à 2 000 euros promotions incluses.
+
+  
+
+* Paiement e-carte cadeau dans les conditions de l'article 5.
 
   
 
