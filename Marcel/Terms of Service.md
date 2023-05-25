@@ -6,25 +6,25 @@ Conditions générales d’utilisation
 
 Les définitions suivantes sont applicables à l’intégralité des présentes conditions générales d’utilisation. Sauf exigence contraire résultant du contexte, les termes et définitions déclinés au singulier incluent le pluriel.
 
-* « Application » : désigne l’application mobile exploitée par Marcel disponible sur iOS ou Android.
-* « Centrale d’Appel » : désigne la centrale d’appel téléphonique exploitée par Marcel permettant notamment de faire une Réservation.
-* « CGU » : désigne les présentes conditions générales d’utilisation du Service Marcel, conclues entre Marcel et le Client.
-* « Chauffeur » : désigne un professionnel du transport de personnes exploitant un véhicule de tourisme avec chauffeur, qui a recours au Service Marcel pour être mis en relation avec des Clients, en vue de la réalisation de prestations de transport au bénéfice des Clients.
-* « Client » : désigne toute personne physique qui dispose d’un Compte.
-* « Client Entreprise » : désigne une personne morale qui a conclu un contrat spécifique avec Marcel pour faire bénéficier du Service Marcel à ses collaborateurs.
-*  « Code Promo » : désigne un code promotionnel émis par Marcel ou par un tiers sur autorisation de Marcel.
-*  « Compte » : désigne l’espace numérique dédié et individualisé du Client, accessible avec un identifiant et un mot de passe, depuis le Site ou l’Application.
-* « Contenu Utilisateur » : désigne toute donnée ou information, autre que (i) des données à caractère personnel au sens de la législation relative à la protection des données personnelles ou (ii) des éléments de propriété intellectuelle protégés, communiquée par le Chauffeur à Marcel par tout moyen sur le Site ou l’Application.
-* « Course » : désigne une prestation de transport effectuée par un Chauffeur au bénéfice du Client par l’intermédiation du Service Marcel.
-* « Demande Spécifique » : désigne toute demande spécifique formulée par un Client dans le cadre d’une Réservation, comme la présence d’un animal.
-* « Frais d’Annulation » : désigne les frais d’annulation ou de non-présentation dus par le Client tel que précisé dans la grille tarifaire figurant en Annexe.
-* « Frais d’Attente » : désigne les frais d’attente dus par le Client lorsque celui-ci se présente au-delà de 5 minutes (hors aéroports) après une Réservation. Les Frais d’Attente sont précisés dans la grille tarifaire figurant en Annexe.
-* « Marcel » : désigne la société par actions simplifiée Marcel, au capital de 8 606 350 euros, immatriculée au registre du commerce et des sociétés de Paris sous le numéro 817 646 375 et dont le siège social est situé au 21 rue d’Uzès, 75002 Paris.
-* « Option » : désigne une option payante souscrite par le Client auprès d’un Partenaire au moyen du Service Marcel, tel qu’un accueil avec une pancarte.
-* « Réservation » : désigne toute demande de prestation de transport faite par un Client par l’intermédiaire du Service Marcel.
-* « Service Marcel » : désigne la plateforme de mise en relation et la centrale de réservation au sens de l’article L.3142-1 du Code des transports, mise à disposition par Marcel. Le Service Marcel est accessible depuis l’Application, la Centrale d’Appel ou le Site.
-* « Site » : désigne le site internet exploité par Marcel à l’adresse [www.marcel.cab](http://www.marcel.cab/) ainsi que l’ensemble de ses sous-domaines.
-* « Territoire » : désigne le(s) territoire(s) sur lesquels le Service Marcel est mis à disposition, tel qu’indiqué dans l’Application.
+* « Application » : désigne l’application mobile exploitée par Marcel disponible sur iOS ou Android.
+* « Centrale d’Appel » : désigne la centrale d’appel téléphonique exploitée par Marcel permettant notamment de faire une Réservation.
+* « CGU » : désigne les présentes conditions générales d’utilisation du Service Marcel, conclues entre Marcel et le Client.
+* « Chauffeur » : désigne un professionnel du transport de personnes exploitant un véhicule de tourisme avec chauffeur, qui a recours au Service Marcel pour être mis en relation avec des Clients, en vue de la réalisation de prestations de transport au bénéfice des Clients.
+* « Client » : désigne toute personne physique qui dispose d’un Compte.
+* « Client Entreprise » : désigne une personne morale qui a conclu un contrat spécifique avec Marcel pour faire bénéficier du Service Marcel à ses collaborateurs.
+*  « Code Promo » : désigne un code promotionnel émis par Marcel ou par un tiers sur autorisation de Marcel.
+*  « Compte » : désigne l’espace numérique dédié et individualisé du Client, accessible avec un identifiant et un mot de passe, depuis le Site ou l’Application.
+* « Contenu Utilisateur » : désigne toute donnée ou information, autre que (i) des données à caractère personnel au sens de la législation relative à la protection des données personnelles ou (ii) des éléments de propriété intellectuelle protégés, communiquée par le Chauffeur à Marcel par tout moyen sur le Site ou l’Application.
+* « Course » : désigne une prestation de transport effectuée par un Chauffeur au bénéfice du Client par l’intermédiation du Service Marcel.
+* « Demande Spécifique » : désigne toute demande spécifique formulée par un Client dans le cadre d’une Réservation, comme la présence d’un animal.
+* « Frais d’Annulation » : désigne les frais d’annulation ou de non-présentation dus par le Client tel que précisé dans la grille tarifaire figurant en Annexe.
+* « Frais d’Attente » : désigne les frais d’attente dus par le Client lorsque celui-ci se présente au-delà de 5 minutes (hors aéroports) après une Réservation. Les Frais d’Attente sont précisés dans la grille tarifaire figurant en Annexe.
+* « Marcel » : désigne la société par actions simplifiée Marcel, au capital de 8 606 350 euros, immatriculée au registre du commerce et des sociétés de Paris sous le numéro 817 646 375 et dont le siège social est situé au 21 rue d’Uzès, 75002 Paris.
+* « Option » : désigne une option payante souscrite par le Client auprès d’un Partenaire au moyen du Service Marcel, tel qu’un accueil avec une pancarte.
+* « Réservation » : désigne toute demande de prestation de transport faite par un Client par l’intermédiaire du Service Marcel.
+* « Service Marcel » : désigne la plateforme de mise en relation et la centrale de réservation au sens de l’article L.3142-1 du Code des transports, mise à disposition par Marcel. Le Service Marcel est accessible depuis l’Application, la Centrale d’Appel ou le Site.
+* « Site » : désigne le site internet exploité par Marcel à l’adresse [www.marcel.cab](http://www.marcel.cab/) ainsi que l’ensemble de ses sous-domaines.
+* « Territoire » : désigne le(s) territoire(s) sur lesquels le Service Marcel est mis à disposition, tel qu’indiqué dans l’Application.
 
 2\. Objet et portée des CGU
 ---------------------------
@@ -46,7 +46,7 @@ En toutes hypothèses, toute personne physique souhaitant s’inscrire doit four
 
 ### 3.2 Acceptation des CGU 
 
-Lors du processus de création du Compte, toute personne souhaitant s’inscrire s’engage à lire les CGU et doit matérialiser son consentement en cochant la case «j’ai lu et j’accepte les conditions générales d’utilisation» sur l’Application ou «j’accepte les CGU » sur le Site.
+Lors du processus de création du Compte, toute personne souhaitant s’inscrire s’engage à lire les CGU et doit matérialiser son consentement en cochant la case «j’ai lu et j’accepte les conditions générales d’utilisation» sur l’Application ou «j’accepte les CGU » sur le Site.
 
 Lorsque la création du Compte se fait par la Centrale d’Appel, les CGU sont réputées acceptées dès que la création du Compte est finalisée.
 
@@ -60,7 +60,7 @@ Pour améliorer son fonctionnement et sa qualité, Marcel fait évoluer les cara
 
 Marcel peut modifier unilatéralement les CGU dès lors qu’il n’en résulte pour le Client, ni augmentation de prix, ni altération de la qualité du Service Marcel et que les caractéristiques essentielles du Service Marcel ne sont pas modifiées. Ces modifications peuvent par exemple porter sur l’évolution technique du Service Marcel.
 
-Marcel informera le Client des modifications faites sur les CGU en temps utile et par tout moyen, au moins 7 jours avant leur entrée en vigueur. La dernière version des CGU est accessible à l’adresse : [www.marcel.cab/cgu](http://www.marcel.cab/cgu). En l’absence d’objection par le Client dans ce délai, les modifications seront considérées comme étant lues et acceptées. En cas d’objection ou de refus, les CGU seront immédiatement résiliées et le Client devra cesser d’utiliser le Service Marcel.
+Marcel informera le Client des modifications faites sur les CGU en temps utile et par tout moyen, au moins 7 jours avant leur entrée en vigueur. La dernière version des CGU est accessible à l’adresse : [www.marcel.cab/cgu](http://www.marcel.cab/cgu). En l’absence d’objection par le Client dans ce délai, les modifications seront considérées comme étant lues et acceptées. En cas d’objection ou de refus, les CGU seront immédiatement résiliées et le Client devra cesser d’utiliser le Service Marcel.
 
 4\. Accès, usage et sécurité du compte 
 ---------------------------------------
@@ -84,9 +84,9 @@ En présence d’une menace potentielle ou avérée pour la sécurité ou la con
 
 ### 5.1 Réservation 
 
-Après connexion à son Compte, le Client peut faire une Réservation via l’Application, le Site ou la Centrale d’Appel.
+Après connexion à son Compte, le Client peut faire une Réservation via l’Application, le Site ou la Centrale d’Appel.
 
-Afin de faire une Réservation, le Client doit choisir s’il souhaite une Réservation immédiate ou à l’avance (pour un départ dans plus d’une heure). Le Client doit fournir l’ensemble des informations requises et notamment le lieu de prise en charge (ainsi que la date et l’heure si la Réservation a été faite à l’avance), la destination et la catégorie de véhicule souhaitée. A défaut, la Réservation ne pourra pas être traitée par Marcel.
+Afin de faire une Réservation, le Client doit choisir s’il souhaite une Réservation immédiate ou à l’avance (pour un départ dans plus de 30 minutes en Île de France, 1h à Nice et Lyon et 2h pour les autres villes de France). Le Client doit fournir l’ensemble des informations requises et notamment le lieu de prise en charge (ainsi que la date et l’heure si la Réservation a été faite à l’avance), la destination et la catégorie de véhicule souhaitée. A défaut, la Réservation ne pourra pas être traitée par Marcel.
 
 Le Client peut également formuler une Demande Spécifique ou souscrire à une Option au moment de la Réservation, que Marcel transmettra au Chauffeur, qui est libre de l’accepter ou de la refuser.
 
@@ -98,16 +98,30 @@ En cliquant sur la fonctionnalité correspondante sur le Site ou l’Application
 
 Dès confirmation ou 20 minutes avant la prise en charge si la Réservation a été faite à l’avance, le Client reçoit une confirmation par SMS et / ou par email lui confirmant qu’un Chauffeur est en approche (ou que celui-ci se présentera à la date ou l’horaire convenu si la Réservation a été faite à l’avance) ainsi que les coordonnées de celui-ci.
 
-Le Client s’engage à se présenter au lieu et, dans le cas d’une Réservation à l’avance, à l’horaire convenus. Si le Client ne se présente pas dans les 5 minutes (hors aéroports) à compter de l’arrivée du Chauffeur matérialisée par l’envoi du SMS de confirmation ou de l’heure convenue dans le cadre d’une Réservation à l’avance, des Frais d’Attente seront dus, conformément à la grille tarifaire figurant en Annexe.
+Le Client s’engage à se présenter au lieu et, dans le cas d’une Réservation à l’avance, à l’horaire convenu.
+
+**Pour les courses en Île de France, Nice et Lyon** 
+
+Si le Client ne se présente pas dans les 5 minutes (et 20 minutes aux aéroports) à compter de l’arrivée du Chauffeur matérialisée par l’envoi du SMS de confirmation ou de l’heure convenue dans le cadre d’une Réservation à l’avance, des Frais d’Attente seront dus, conformément à la grille tarifaire figurant en Annexe.
 
 Au-delà de 15 minutes d’attente (hors aéroports) à compter de l’arrivée du Chauffeur, la Réservation sera considérée comme annulée, et des Frais d’Annulation seront dus, à moins que le Client et le Chauffeur ne conviennent de prolonger l’attente, ce qui entraînera la perception de Frais d’Attente supplémentaires.
 
+**Pour les autres villes de France**
+
+Le temps d’attente est de 10 minutes (et 10 minutes aux aéroports), si le Client ne se présente pas dans les 10 minutes à compter de l’heure de début de la course, la course sera considérée comme annulée.
+
 ### 5.3 Annulation d’une Réservation 
 
-Le Client peut annuler sans frais une Réservation par l’intermédiaire de l’Application, du Site ou en contactant la Centrale d’Appel dans les deux cas suivants :
+Le Client peut annuler sans frais une Réservation par l’intermédiaire de l’Application, du Site ou en contactant la Centrale d’Appel dans les cas suivants :
 
-* l’annulation intervient moins de 5 minutes (hors aéroports) après la Réservation ; ou
-* l’annulation intervient au moins une heure avant l’horaire de prise en charge, si la Réservation a été faite à l’avance.
+**Pour les courses en Île de France, Nice et Lyon** 
+
+* l’annulation intervient moins de 5 minutes (hors aéroports) après la Réservation ; ou
+* l’annulation intervient au moins une heure avant l’horaire de prise en charge, si la Réservation a été faite à l’avance
+
+**Pour les autres villes de France**
+
+* l’annulation intervient au moins deux heures avant l’horaire de prise en charge, si la Réservation a été faite à l’avance
 
 Toute annulation intervenant en dehors de ces deux cas entraînera des Frais d’Annulation, conformément à la grille tarifaire figurant en Annexe.
 
@@ -117,7 +131,7 @@ A l’issue de la Course, Marcel adresse au Client par email une facture émise 
 
 ### 5.5 Spécificités des prises en charge dans les gares et les aéroports 
 
-Le Client peut inclure dans les caractéristiques d’une Réservation l’heure estimée d’arrivée d’un train ou d’un avion, ceci afin de permettre au Chauffeur de prendre en charge le Client dans les meilleures conditions. Ce service ne fonctionne qu’à la condition que les données soient exactes et aient été renseignées dans les cases prévues à cet effet sur l’Application ou sur le Site, ou communiquées viala Centrale d’Appel.
+Le Client peut inclure dans les caractéristiques d’une Réservation l’heure estimée d’arrivée d’un train ou d’un avion, ceci afin de permettre au Chauffeur de prendre en charge le Client dans les meilleures conditions. Ce service ne fonctionne qu’à la condition que les données soient exactes et aient été renseignées dans les cases prévues à cet effet sur l’Application ou sur le Site, ou communiquées via la Centrale d’Appel.
 
 Dans cette situation, Marcel transmettra les informations au Chauffeur et adaptera l’horaire de prise en charge convenu entre le Chauffeur et le Client en fonction de l’horaire prévu d’arrivée du train ou du vol. Le Client peut également demander au Chauffeur de prévoir un service d’accueil avec pancarte à la sortie d’une gare ou d’un aéroport, par l’intermédiation de Marcel.
 
@@ -128,26 +142,26 @@ Ces deux services sont des Demandes Spécifiques et sont soumis aux stipulations
 
 ### 6.1 Critères de fixation du prix d’une Course
 
-Le tarif proposé pour chaque Réservation est fixé par Marcel à chaque Course et est composé :
+Le tarif proposé pour chaque Réservation est fixé par Marcel à chaque Course et est composé :
 
 1. de frais de service d'une valeur de 1,50€ facturés pour chaque course (réservation à l'avance ou en immédiate) 
-2. de frais de Réservation consistant en une somme forfaitaire dont le montant peut varier à chaque Course ; et
-3. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
+2. de frais de Réservation consistant en une somme forfaitaire dont le montant peut varier à chaque Course ; et
+3. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
 
-* distance à parcourir ;
-* durée anticipée de la Course (au regard du créneau horaire, de l’itinéraire à emprunter et du prédictif trafic communiqué par l’outil de Marcel) ;
-* catégorie de véhicule choisie ;
-* existence d’une Option et nature de celle-ci (par exemple, un accueil avec une pancarte) ; et
+* distance à parcourir ;
+* durée anticipée de la Course (au regard du créneau horaire, de l’itinéraire à emprunter et du prédictif trafic communiqué par l’outil de Marcel) ;
+* catégorie de véhicule choisie ;
+* existence d’une Option et nature de celle-ci (par exemple, un accueil avec une pancarte) ; et
 * la date et l’heure de la Réservation.
 
 En tout état de cause, le montant total du prix de la Course est fixé préalablement à celle-ci. Il peut varier au cours de la Course conformément aux stipulations ci-dessous.
 
 ### 6.2 Modification du prix d’une Réservation une fois la Course achevée
 
-Le prix d’une Course peut être différent du prix initialement proposé pour une Réservation lorsque le Client modifie les caractéristiques d’une Réservation avant l’heure de prise en charge ou d’une Course pendant celle-ci, par exemple dans les cas suivants :
+Le prix d’une Course peut être différent du prix initialement proposé pour une Réservation lorsque le Client modifie les caractéristiques d’une Réservation avant l’heure de prise en charge ou d’une Course pendant celle-ci, par exemple dans les cas suivants :
 
-* le Client fait attendre le Chauffeur plus de 5 minutes (hors aéroports) et des Frais d’Attente sont dus conformément aux conditions stipulées à l’article 5.2 et aux conditions tarifaires figurant en Annexe ;
-* le Client ajoute une étape intermédiaire à la Course ;
+* le Client fait attendre le Chauffeur plus de 5 minutes (hors aéroports) et des Frais d’Attente sont dus conformément aux conditions stipulées à l’article 5.2 et aux conditions tarifaires figurant en Annexe ;
+* le Client ajoute une étape intermédiaire à la Course ;
 * le Client modifie la destination initialement choisie.
 
 ### 6.2 Pénalités dues en cas de dégradations
@@ -190,9 +204,9 @@ Le Code Promo vient directement en déduction du prix d’une Course une fois re
 
 Ces réductions font l’objet de restrictions d’usages particulières précisées et librement modifiables par Marcel. En particulier, le Client comprend et accepte que les Codes Promo et les crédits fournis par Marcel :
 
-* ne peuvent n’être utilisés que conformément aux conditions spécifiques établies pour chacun d’entre eux ;
-* peuvent expirer avant que le Client ait pu en faire usage ;
-* ne permettent pas de recevoir des espèces ; et
+* ne peuvent n’être utilisés que conformément aux conditions spécifiques établies pour chacun d’entre eux ;
+* peuvent expirer avant que le Client ait pu en faire usage ;
+* ne permettent pas de recevoir des espèces ; et
 * peuvent être annulés à tout moment, voir leur montant réduit ou refusé, en particulier si l’utilisation du code ou du crédit s’est faite de façon erronée, frauduleuse, illicite ou de façon contraire aux règles applicables audit code ou crédit.
 
 9\. Engagements de marcel
@@ -225,13 +239,13 @@ Marcel s’engage à assurer la sécurité, la confidentialité et l’intégrit
 
 En tout état de cause, la responsabilité de Marcel est limitée à son statut de centrale de réservation et d’opérateur de plateforme de mise en relation.
 
-La responsabilité de Marcel ne pourra en aucun cas être engagée pour des causes qui lui sont extérieures, notamment dans les cas suivants :
+La responsabilité de Marcel ne pourra en aucun cas être engagée pour des causes qui lui sont extérieures, notamment dans les cas suivants :
 
-* la Réservation faite par le Client n’a pas abouti à une Course en raison de l’absence de chauffeurs disponibles ;
-* une Demande Spécifique ou une Option transmise au Chauffeur n’a pas été honorée par celui-ci ;
-* le Client a violé une stipulation des CGU ou n’a pas suivi les instructions figurant sur le Site ou l’Application ;
-* le Client n’a pas respecté le contrat de transport conclu avec le Chauffeur après avoir été mis en relation avec celui-ci ;
-* en présence d’un fait imprévisible et insurmontable d’un tiers et notamment dans le cas où le Chauffeur a un comportement imprévisible ou ne respecte pas les stipulations essentielles des conditions générales de partenariat le liant à Marcel ;
+* la Réservation faite par le Client n’a pas abouti à une Course en raison de l’absence de chauffeurs disponibles ;
+* une Demande Spécifique ou une Option transmise au Chauffeur n’a pas été honorée par celui-ci ;
+* le Client a violé une stipulation des CGU ou n’a pas suivi les instructions figurant sur le Site ou l’Application ;
+* le Client n’a pas respecté le contrat de transport conclu avec le Chauffeur après avoir été mis en relation avec celui-ci ;
+* en présence d’un fait imprévisible et insurmontable d’un tiers et notamment dans le cas où le Chauffeur a un comportement imprévisible ou ne respecte pas les stipulations essentielles des conditions générales de partenariat le liant à Marcel ;
 * en cas de force majeure.
 
 En outre, Marcel ne pourra en aucun cas être tenu responsable des conséquences d’une utilisation frauduleuse des identifiants du Client, sauf défaillance technique imputable à Marcel, ainsi que de tout préjudice subi par le Client lié au renseignement d’informations personnelles erronées dans le Compte.
@@ -243,35 +257,35 @@ En cas de mauvaise exécution du contrat de transport liant le Chauffeur et le C
 11\. Engagements du client
 --------------------------
 
-Le Client s’engage expressément à ;
+Le Client s’engage expressément à ;
 
-* respecter les lois et règlements en vigueur et à ne pas porter atteinte à l’ordre public, aux bonnes mœurs ou aux droits de tiers, et à n’enfreindre aucune disposition législative ou réglementaire ;
-* respecter, en particulier, les dispositions du Code de la route (par exemple, l’obligation de se munir d’un siège enfant s’il voyage avec des passagers âgés de moins de 10 ans) ;
-* être majeur et avoir la capacité de contracter avec Marcel ;
-* fournir à Marcel toutes les informations nécessaires à la bonne exécution du Service Marcel ;
-* utiliser le Service Marcel conformément à sa destination et à son objet, et en faire une utilisation loyale ;
-* renseigner des informations, sincères, exactes et dénuées d’erreur lors de la création du Compte, et à maintenir ces informations à jour, notamment sur sa civilité et son identité, ainsi qu’à utiliser un moyen de paiement à son nom ;
-* faire un usage strictement personnel de son Compte et ne pas créer de faux comptes ou sous une fausse identité, ne pas transférer ou céder le Compte à un tiers  ;
+* respecter les lois et règlements en vigueur et à ne pas porter atteinte à l’ordre public, aux bonnes mœurs ou aux droits de tiers, et à n’enfreindre aucune disposition législative ou réglementaire ;
+* respecter, en particulier, les dispositions du Code de la route (par exemple, l’obligation de se munir d’un siège enfant s’il voyage avec des passagers âgés de moins de 10 ans) ;
+* être majeur et avoir la capacité de contracter avec Marcel ;
+* fournir à Marcel toutes les informations nécessaires à la bonne exécution du Service Marcel ;
+* utiliser le Service Marcel conformément à sa destination et à son objet, et en faire une utilisation loyale ;
+* renseigner des informations, sincères, exactes et dénuées d’erreur lors de la création du Compte, et à maintenir ces informations à jour, notamment sur sa civilité et son identité, ainsi qu’à utiliser un moyen de paiement à son nom ;
+* faire un usage strictement personnel de son Compte et ne pas créer de faux comptes ou sous une fausse identité, ne pas transférer ou céder le Compte à un tiers  ;
 * ne pas dupliquer, vendre, transférer ou mettre à disposition du public des Codes Promo ou des crédits fournis par Marcel ;
-* informer Marcel en cas de complication de toute nature avec un Chauffeur ou un autre Client ;
-* se présenter au lieu de prise en charge convenu avec le Chauffeur par l’intermédiation de Marcel, à moins de s’exposer à des Frais d’Attente ou des Frais d’Annulation  ;
-* avoir un comportement approprié, poli et respectueux avec le Chauffeur et à éviter tout comportement qui pourrait mettre en péril sa propre sécurité ou celle du Chauffeur et / ou des tiers ;
+* informer Marcel en cas de complication de toute nature avec un Chauffeur ou un autre Client ;
+* se présenter au lieu de prise en charge convenu avec le Chauffeur par l’intermédiation de Marcel, à moins de s’exposer à des Frais d’Attente ou des Frais d’Annulation  ;
+* avoir un comportement approprié, poli et respectueux avec le Chauffeur et à éviter tout comportement qui pourrait mettre en péril sa propre sécurité ou celle du Chauffeur et / ou des tiers ;
 * ne pas dégrader le véhicule du Chauffeur sous réserve de devoir rembourser les dégradations causées.
 
-Le Client comprend et accepte qu’il est strictement interdit :
+Le Client comprend et accepte qu’il est strictement interdit :
 
-* tout comportement de nature à interrompre, suspendre, ralentir ou empêcher la continuité du Service Marcel ;
-* toute intrusion ou tentative d’intrusion dans les systèmes informatiques de Marcel ;
-* toute action de nature à imposer une charge disproportionnée sur les infrastructures numériques de Marcel ;
-* toute atteinte aux mesures de sécurité et d’authentification  ;
-* toute acte de nature à porter atteinte aux droits et intérêts financiers, commerciaux ou moraux de Marcel ;
-* toute copie et ou détournement du Site, de l’Application et / ou de l’infrastructure numérique de Marcel ;
+* tout comportement de nature à interrompre, suspendre, ralentir ou empêcher la continuité du Service Marcel ;
+* toute intrusion ou tentative d’intrusion dans les systèmes informatiques de Marcel ;
+* toute action de nature à imposer une charge disproportionnée sur les infrastructures numériques de Marcel ;
+* toute atteinte aux mesures de sécurité et d’authentification  ;
+* toute acte de nature à porter atteinte aux droits et intérêts financiers, commerciaux ou moraux de Marcel ;
+* toute copie et ou détournement du Site, de l’Application et / ou de l’infrastructure numérique de Marcel ;
 * plus généralement toute pratique détournant le Service Marcel à des fins autres que celles pour lesquelles il a été conçu.
 
 12. Suspension de l’accès au service marcel
 -------------------------------------------
 
-L’accès du Client au Service Marcel pourra être suspendu dans les cas suivants ;
+L’accès du Client au Service Marcel pourra être suspendu dans les cas suivants ;
 
 * Le Client, ou l’un des passagers accompagnant le Client pendant une Course, ne respecte pas l’une des stipulations des CGU.
 * Le moyen de paiement renseigné par le Client ou le Client Entreprise n’est pas approvisionné ou ne fonctionne pas.
@@ -353,7 +367,7 @@ Votre position géographique peut être déterminée avec des degrés de précis
 Marcel met à la disposition du Client un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d’information concernant le Service Marcel, le Client peut contacter Marcel de la façon suivante :
 
 * en envoyant un email à l’adresse : [contact@marcel.cab](mailto:contact@marcel.cab);
-* en suivant ce lien : [https://assistance.marcel.cab/hc/fr/requests/new](https://assistance.marcel.cab/hc/fr/requests/new); ou
+* en suivant ce lien : [https://www.marcel.cab/contact-client/](https://www.marcel.cab/contact-client/) ou
 * en utilisant les fonctionnalités correspondantes dans l’Application.
 
 18\. Divers
@@ -392,6 +406,8 @@ Annexe : Frais d’Annulation et Frais d’Attente
 
 #### Frais d’Annulation
 
+**Pour les courses en Île de France, Nice et Lyon**
+
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | Berline | Business | Van |
@@ -413,3 +429,25 @@ Annexe : Frais d’Annulation et Frais d’Attente
 | --- | --- |
 | Toutes les gammes | Berline/Van/Business |
 | 5 minutes | 20 minutes |
+
+**Pour les autres villes de France** 
+
+#### **Frais d’Annulation pour les courses**
+
+|     |     |
+| --- | --- |
+|     | **Berline** |
+| À l’avance (plus de 2h avant le début de la Réservation) | Pas de frais d’annulation |
+| À l’avance (moins de 2h avant le début de la Réservation) | 15 TTC |
+| Client absent ou annulation après l’heure de prise en charge | 100% du prix de la Réservation |
+
+#### **Récapitulatif des temps d’attente offerts**
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     |     |     |     |
+| Gamme Berline | 10 minutes gratuites |     |     |
+
+Aucun frais d’attente n’est facturé.
+
+Au-delà de ce délai d’attente, le chauffeur est en droit d’annuler la course pour non présentation du client.
