@@ -1,11 +1,11 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
-Dernière mise à jour le 18 novembre 2022. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
+Dernière mise à jour le 25 mai 2023. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
 
 Bienvenue sur Amazon.fr.
 
-Amazon Europe Core SARL, Amazon EU SARL et/ou leurs sociétés affiliées (« Amazon ») vous fournissent des fonctionnalités de site internet et d'autres produits et services quand vous visitez le site internet Amazon.fr (le « site internet »), effectuez des achats sur le site Internet, utilisez des appareils, produits et services d'Amazon, utilisez des applications Amazon pour mobile, utilisez des logiciels fournis par Amazon dans le cadre de tout ce qui précède (ensemble ci-après, les « Services Amazon »). Veuillez consulter notre [Notice Protection de vos Informations Personnelles](https://www.amazon.fr/gp/help/customer/display.html/ref=footer_privacy?ie=UTF8&nodeId=201909010), notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=201890250) et notre [Notice Annonces publicitaires basées sur vos centres d'intérêt](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=201909150) pour comprendre comment nous collectons et traitons vos informations personnelles dans le cadre des Services Amazon. Amazon fournit les Services Amazon et vend des produits selon les conditions définies sur cette page. Amazon.fr est le nom commercial utilisé par Amazon.
+Amazon Europe Core SARL, Amazon EU SARL et/ou leurs sociétés affiliées (« Amazon ») vous fournissent des fonctionnalités de site internet et d'autres produits et services quand vous visitez le site internet Amazon.fr (le « site internet »), effectuez des achats sur le site Internet, utilisez des appareils, produits et services d'Amazon, utilisez des applications Amazon pour mobile, utilisez des logiciels fournis par Amazon dans le cadre de tout ce qui précède (ensemble ci-après, les « Services Amazon »). Veuillez consulter notre [Notice de Protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ), notre [Notice de Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=201890250) et notre [Notice de Publicités basées sur vos centres d'intérêt](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=201909150) pour comprendre comment nous collectons et traitons vos informations personnelles dans le cadre des Services Amazon. Amazon fournit les Services Amazon et vend des produits selon les conditions définies sur cette page. Amazon.fr est le nom commercial utilisé par Amazon.
 
 [Conditions d'utilisation](#GUID-602FA6E8-D724-4317-89F6-E78834F9BA58__SECTION_E43AAFC78C1543548F6B3D44AC4D5D20)
 
@@ -20,27 +20,29 @@ CONDITIONS D'UTILISATION
 
 [Procédure et Formulaire de notification en vue de notifier un contenu injurieux ou diffamatoire](https://www.amazon.fr/gp/help/reports/infringement).
 
-**1\. COMMUNICATIONS ELECTRONIQUES**
+**1\. COMMUNICATIONS ÉLECTRONIQUES**
 
 Quand vous utilisez un quelconque Service Amazon ou que vous nous envoyez des courriers électroniques, SMS ou autres communications depuis vos équipements fixes ou mobiles, vous communiquez avec nous électroniquement. Nous communiquerons avec vous électroniquement par divers moyens, tels que par courrier électronique, SMS, messages de notification dans l'application ou en postant des courriers électroniques ou des communications sur le site internet ou à travers les autres Services Amazon, tels que notre Gestionnaire de communication. A des fins contractuelles, vous acceptez que tous les accords, informations, divulgations et autres communications que nous vous enverrons électroniquement remplissent toutes les obligations légales des communications par écrit, à moins qu'une loi impérative spécifique impose un autre mode de communication.
+
+Vous avez la possibilité d'inscrire vos coordonnées téléphoniques sur la liste d'opposition au démarchage téléphonique accessible sur le site [www.bloctel.gouv.fr](https://www.bloctel.gouv.fr/).
 
 **2\. RECOMMANDATIONS ET PERSONNALISATION**
 
 Dans le cadre des Services Amazon, nous vous recommanderons des fonctionnalités, des produits et des services, comprenant des publicités de tiers, qui sont susceptibles de vous intéresser, nous identifierons vos préférences et nous personnaliserons votre expérience.
 
-**3\. PROPRIETE INTELLECTUELLE, DROIT D'AUTEUR, ET PROTECTION DES BASES DE DONNEES**
+**3\. PROPRIÉTE INTELLECTUELLE, DROIT D'AUTEUR, ET PROTECTION DES BASES DE DONNÉES**
 
 Tout le contenu présent ou rendu disponible à travers les Services Amazon, tels que les textes, les graphiques, les logos, les boutons, les images, les morceaux de musique, les téléchargements numériques, et les compilations de données, est la propriété d'Amazon, de ses sociétés affiliées ou de ses fournisseurs de contenu et est protégé par le droit luxembourgeois et international de la propriété intellectuelle, d'auteur et de protection des bases de données. La compilation de tout le contenu présent ou rendu disponible à travers les Services Amazon est la propriété exclusive d'Amazon et est protégé par le droit luxembourgeois et international de la propriété intellectuelle et de protection des bases de données.
 
 Vous ne devez pas extraire et/ou réutiliser de façon systématique des parties du contenu de tout Service Amazon sans notre autorisation expresse et écrite. En particulier, vous ne devez pas utiliser de robot d'aspiration de données, ou tout autre outil similaire de collecte ou d'extraction de données pour extraire (en une ou plusieurs fois), pour réutiliser une partie substantielle d'un quelconque Service Amazon, sans notre accord express et écrit. Vous ne devez pas non plus créer et/ou publier vos propres bases de données qui comporteraient des parties substantielles (ex : nos prix et nos listes de produits) d'un Service Amazon sans notre accord express et écrit.
 
-**4\. MARQUES DEPOSEES**
+**4\. MARQUES DEPOSÉES**
 
 Consultez [une liste non exhaustive des marques déposées par Amazon](#GUID-602FA6E8-D724-4317-89F6-E78834F9BA58__SECTION_64DE0ED1D744420E933ED292E5A7B3D3). Par ailleurs, les graphiques, logos, en-têtes de page, boutons, scripts et noms de services inclus ou rendus disponibles à travers un Service Amazon sont des marques ou visuels d'Amazon. Les marques et visuels d'Amazon ne peuvent pas être utilisés pour des produits ou services qui n'appartiennent pas à Amazon, ou d'une quelconque manière qui pourrait provoquer une confusion parmi les clients, ou d'une quelconque manière qui dénigre ou discrédite Amazon. Toutes les autres marques qui n'appartiennent pas à Amazon et qui apparaissent sur un quelconque Service Amazon sont la propriété de leurs propriétaires respectifs, qui peuvent, ou non, être affiliés, liés ou parrainés par Amazon.
 
-**5\. LICENCE ET ACCES**
+**5\. LICENCE ET ACCÈS**
 
-Sous réserve du respect des présentes Conditions d'Utilisation et des Conditions des Services et du paiement de tous les sommes applicables, Amazon ou ses fournisseurs de contenu vous accorde une licence limitée, non exclusive, non transférable, non sous licenciable pour l'accès et à l'utilisation personnelle et non commerciale des Services Amazon. Cette licence n'inclut aucun droit d'utilisation d'un Service Amazon ou de son contenu pour la vente ou tout autre utilisation commerciale ; de collecte et d'utilisation d'un listing produit, descriptions, ou prix de produits ; de toute utilisation dérivée d'un Service Amazon ou de son contenu ; de tout téléchargement ou copie des informations d'un compte pour un autre commerçant ; ou de toute utilisation de robot d'aspiration de données, ou autre outil similaire de collecte ou d'extraction de données.
+Sous réserve du respect des présentes Conditions d'utilisation et des Conditions des Services et du paiement de toutes les sommes applicables, Amazon ou ses fournisseurs de contenu vous accorde une licence limitée, non exclusive, non transférable, non sous licenciable pour l'accès et à l'utilisation personnelle et non commerciale des Services Amazon. Cette licence n'inclut aucun droit d'utilisation d'un Service Amazon ou de son contenu pour la vente ou toute autre utilisation commerciale ; de collecte et d'utilisation d'un listing produit, descriptions, ou prix de produits ; de toute utilisation dérivée d'un Service Amazon ou de son contenu ; de tout téléchargement ou copie des informations d'un compte pour un autre commerçant ; ou de toute utilisation de robot d'aspiration de données, ou autre outil similaire de collecte ou d'extraction de données.
 
 Tous les droits qui ne vous ont pas été expressément accordés dans ces Conditions d'Utilisation ou dans les Conditions d'un Service sont réservés et restent à Amazon ou à ses licenciés, fournisseurs, éditeurs, titulaires de droits, ou tout autre fournisseur de contenu. Aucun Service Amazon ou tout ou partie de celui-ci ne doit être reproduit, copié, vendu, revendu, visité ou exploité pour des raisons commerciales sans notre autorisation expresse et écrite.
 
@@ -50,7 +52,7 @@ Vous ne devez pas faire un mauvais usage d'un Service Amazon. Vous devez utilise
 
 **6\. VOTRE COMPTE**
 
-Vous pouvez avoir besoin d'un compte personnel Amazon pour utiliser certain Services Amazon, et il peut vous être demandé de vous connecter au compte et d'avoir une méthode de paiement valide associée à celui-ci. En cas de problème pour utiliser la méthode de paiement que vous avez sélectionnée, nous pourrons utiliser toute autre méthode de paiement valide associée à votre compte. Accédez à Votre compte pour [gérer vos options de paiement](https://www.amazon.fr/cpe/managepaymentmethods).
+Vous pouvez avoir besoin d'un compte personnel Amazon pour utiliser certains Services Amazon, et il peut vous être demandé de vous connecter au compte et d'avoir une méthode de paiement valide associée à celui-ci. En cas de problème pour utiliser la méthode de paiement que vous avez sélectionnée, nous pourrons utiliser toute autre méthode de paiement valide associée à votre compte. Accédez à Votre compte pour [gérer vos options de paiement](https://www.amazon.fr/cpe/managepaymentmethods).
 
 Si vous utilisez un quelconque Service Amazon, vous êtes responsable du maintien de la confidentialité de votre compte et mot de passe, des restrictions d'accès à votre ordinateur et autres équipements, et dans la limite de ce qui est autorisé par la loi applicable, vous acceptez d'être responsable de toutes les activités qui ont été menées depuis de votre compte ou avec votre mot de passe. Vous devez prendre toutes les mesures nécessaires pour vous assurer que votre mot de passe reste confidentiel et sécurisé, et devez nous informer immédiatement si vous avez des raisons de croire que votre mot de passe est connu de quelqu'un d'autre, ou si le mot de passe est utilisé ou susceptible d'être utilisé de manière non autorisée. Vous êtes responsable de la validité et du caractère complets des informations que vous nous avez fournies, et devez nous informer de tout changement concernant ces informations. Vous pouvez accéder à vos informations dans la section [Votre compte](https://www.amazon.fr/votre-compte) du site internet. Veuillez consulter nos pages d'aide relatives à la Protection de vos informations personnelles pour accéder à vos informations personnelles.
 
@@ -62,11 +64,11 @@ Nous nous réservons le droit de refuser de fournir un quelconque Service Amazon
 
 Les visiteurs peuvent mettre en ligne des revues, des commentaires ou tout autre contenu ; envoyer des cartes électroniques ou autres communications, et soumettre des suggestions, des idées, des questions ou toute autre information tant que ce contenu n'est pas illégal, obscène, abusif, menaçant, diffamatoire, calomnieux, contrevenant aux droits de propriété intellectuelle, ou préjudiciable à des tiers ou répréhensible et ne consiste pas ou ne contient pas de virus informatiques, de militantisme politique, de sollicitations commerciales, de chaînes de courriers électroniques, de mailing de masse ou toute autre forme de « spam ». Vous ne devez pas utiliser une fausse adresse e-mail, usurper l'identité d'une personne ou d'une entité, ni mentir sur l'origine d'une carte de crédit ou d'un contenu. Nous nous réservons le droit (sans aucune obligation en l'absence d'un Formulaire de Notification valide), de retirer ou de modifier tout contenu. Si vous pensez qu'un contenu ou une annonce de vente sur un quelconque Service Amazon contient un message diffamatoire, ou que vos droits de propriété intellectuelle ont été enfreints par un article ou une information sur le site internet, merci de nous le notifier en complétant le Formulaire de Notification adéquat, et nous y répondrons.
 
-Si vous publiez des commentaires clients, , des questions / réponses ou tout autre contenu généré par vous pour être publié sur le site internet (incluant toute image, vidéo ou enregistrement audio, ensemble le « contenu ») , vous accordez à Amazon, (i) une licence non-exclusive et gratuite pour utiliser, reproduire, , publier, rendre disponible, traduire et modifier ce contenu dans le monde entier(incluant le droit de sous-licencier ces droits à des tiers); et (b) le droit d'utiliser le nom que vous avez utilisé en lien avec ce contenu. Aucuns droits moraux ne sont transférés par l'effet de cette clause.
+Si vous publiez des commentaires clients, des questions / réponses ou tout autre contenu généré par vous pour être publié sur le site internet (incluant toute image, vidéo ou enregistrement audio, ensemble le « contenu ») , vous accordez à Amazon, (i) une licence non exclusive et gratuite pour utiliser, reproduire, , publier, rendre disponible, traduire et modifier ce contenu dans le monde entier(incluant le droit de sous-licencier ces droits à des tiers); et (b) le droit d'utiliser le nom que vous avez utilisé en lien avec ce contenu. Aucuns droits moraux ne sont transférés par l'effet de cette clause.
 
 Vous pouvez supprimer votre contenu de la vue du public ou, lorsque cette fonctionnalité est offerte, modifier les paramètres pour qu'il ne soit visible que par les personnes auxquelles vous en avez donné l'accès. Vous déclarez et garantissez être propriétaire ou avoir les droits nécessaires sur le contenu que vous publiez ; que, à la date de publication du contenu ou du matériel : (i) le contenu et le matériel est exact, (ii) l'utilisation du contenu et du matériel que vous avez fourni ne contrevient pas à l'une des procédures ou lignes directrices d'Amazon et ne portera pas atteinte à toute personne physique ou morale (notamment que le contenu ou le matériel ne sont pas diffamatoires). Vous acceptez d'indemniser Amazon en cas d'action d'un tiers contre Amazon en lien avec le contenu ou le matériel que vous avez fourni, sauf dans le cas où l'éventuelle responsabilité d'Amazon pourrait être recherchée pour ne pas avoir retiré un contenu dont le caractère illicite lui aurait été notifié (Formulaire de Notification), dès lors que cette action aurait pour cause, fondement ou origine le contenu que vous nous avez communiqué.
 
-**8\. REVENDICATIONS DE PROPRIETE INTELLECTUELLE**
+**8\. REVENDICATIONS DE PROPRIÉTE INTELLECTUELLE**
 
 Amazon respecte la propriété intellectuelle d'autrui. Si vous pensez qu'un de vos droits de propriété intellectuelle a été utilisé d'une manière qui puisse faire naître une crainte de violation desdits droits, merci de suivre notre [Procédure et formulaire de notification de violation de droits](https://www.amazon.fr/report/infringement).
 
@@ -78,7 +80,7 @@ S'ajoutent à ces Conditions d'Utilisation, [les conditions suivantes](#GUID-602
 
 Des tiers autres qu'Amazon gèrent des boutiques, proposent des services et vendent des lignes de produits sur ce site internet. De surcroît, nous fournissons des liens vers des sites internet de société affiliées et d'un certain nombre d'entreprises. Nous ne sommes pas responsables de l'examen ou de l'évaluation, et nous ne garantissons pas les offres de ces entreprises ou de ces particuliers, ou le contenu de leurs sites internet. Sauf mention contraire explicite dans les présentes Conditions d'utilisation, les Conditions de vente ci-dessous ou les Conditions de service, Amazon n'assume aucune responsabilité ou obligation pour les actes, produits ou contenus de ces entreprises ou de ces particuliers ou d'autres tiers. Vous êtes informé quand un tiers est impliqué dans votre transaction, et nous pouvons partager vos informations en lien avec cette transaction avec ce tiers. Vous devez examiner leurs politiques de confidentialité et autres conditions d'utilisation avec attention.
 
-**11\. VENDEURS TIERS ET ROLE D'AMAZON**
+**11\. VENDEURS TIERS ET RÔLE D'AMAZON**
 
 Amazon permet à des vendeurs tiers de lister et de vendre leurs produits sur Amazon.fr. Dans chacun de ces cas, ceci est indiqué sur la page respective de détail du produit. Bien qu'Amazon, en tant qu'hébergeur, facilite les transactions réalisées sur la place de marché (ou Marketplace) d'Amazon, Amazon n'est ni l'acheteur ni le vendeur des produits des vendeurs tiers. Amazon fournit un lieu de rencontre dans lequel les acheteurs et vendeurs complètent et finalisent leurs transactions. En conséquence, pour la vente de ces produits de vendeurs tiers, un contrat de vente est formé uniquement entre l'acheteur et le vendeur tiers. Amazon n'est pas partie à un tel contrat et n'assume aucune responsabilité ayant pour origine un tel contrat ou découlant de ce contrat de vente. Amazon n'est ni l'agent ni le mandataire des vendeurs tiers. Sauf dans les cas mentionnés ci-dessous dans cette section, le vendeur tiers est responsable des ventes de produits et des réclamations ou tout autre problème survenant ou lié au contrat de vente entre lui et l'acheteur. Parce qu'Amazon souhaite que l'acheteur bénéficie d'une expérience d'achat la plus sûre, Amazon offre la [Garantie A à Z](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201889250) en plus de tout droit contractuel ou autre.
 
@@ -88,7 +90,7 @@ Si les articles du vendeur tiers sont indiqués comme Expédié par Amazon, Amaz
 
 Si les articles du vendeur tiers ne sont pas indiqués comme Expédié par Amazon, le vendeur gérera la livraison de votre commande. Plus d’informations sur notre page d’aide [Commande auprès d'un vendeur Marketplace](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GEF528GN65XSJ7V8). Le vendeur traitera également toutes les demandes destinées au service client, sauf s’il est indiqué que le service client est fourni par Amazon ou si votre commande est marquée du badge Amazon Prime.
 
-**12\. NOTRE RESPONSABILITE**
+**12\. NOTRE RESPONSABILITÉ**
 
 Nous ferons de notre mieux pour assurer la disponibilité des Services Amazon et que les transmissions se feront sans erreurs. Toutefois, du fait de la nature d'internet, ceci ne peut être garanti. De plus, votre accès aux Services Amazon peut occasionnellement être suspendu ou limité pour permettre des réparations, la maintenance, ou ajouter une nouvelle fonctionnalité ou un nouveau service. Nous nous efforcerons de limiter la fréquence et la durée de ces suspensions ou limitations.
 
@@ -102,9 +104,9 @@ Rien dans ces conditions ne vise à limiter ou n'exclure notre responsabilité e
 
 **13\. DROIT APPLICABLE**
 
-Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de loi), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficiez également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions d'utilisation, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Si vous souhaitez attirer notre attention sur un sujet, merci de [nous contacter](https://www.amazon.fr/contactez-nous).
+Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de lois), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficiez également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions d'utilisation, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Si vous souhaitez attirer notre attention sur un sujet, merci de [nous contacter](https://www.amazon.fr/contactez-nous).
 
-**14\. CONTROLES A L'EXPORTATION**
+**14\. CÔNTROLES À L'EXPORTATION**
 
 Vous acceptez de ne pas exporter, réexporter ou transférer tous produits (y compris les logiciels ou autres produits numériques) que vous avez achetés sur le site internet vers un pays, à un individu, une société, une organisation ou une entité pour lesquels une telle exportation est limitée ou interdite par la loi. Par exemple, les sanctions économiques et les embargos imposés par l'Union européenne, les Nations Unies, les départements d'État, du Trésor ou du Commerce des États-Unis et par d'autres autorités gouvernementales (tels que les embargos imposés à des pays spécifiques ou les sanctions économiques imposées à des individus ou des sociétés pour des infractions de terrorisme ou de blanchiment d'argent) peuvent vous interdire d'emporter des produits dans d'autres pays, même pour votre usage personnel, et/ou d'envoyer des produits (que ce soit physiquement par courrier ou numériquement par courrier électronique ou par partage de fichiers) à des individus, sociétés, organisations ou entités particuliers. En outre, vous acceptez de ne pas acheter de produits ou de services sur le site internet si vous êtes soumis à des mesures restrictives (sanctions).
 
@@ -120,7 +122,7 @@ Si vous enfreignez ces Conditions d'utilisation et que nous ne prenons aucune ac
 
 Nous ne vendons pas de produits aux mineurs. Nous vendons des produits pour enfants pour des achats par des adultes. Si vous avez moins de 18 ans, vous ne pouvez utiliser un Service Amazon que sous la surveillance d'un parent ou d'un tuteur. Les offres de produits contenant de l'alcool sont destinées à des personnes majeures. Vous devez avoir au moins 18 ans pour acheter de l'alcool ou utiliser toute fonctionnalité du site concernant de l'alcool.
 
-**18\. NOS COORDONNEES**
+**18\. NOS COORDONNÉES**
 
 Le site internet Amazon.fr appartient à, et sa maintenance est effectuée par, Amazon Europe Core SARL. Des conditions spécifiques d'utilisation et de vente pour d'autres Services Amazon, par exemple le service Musique MP3 géré par Amazon Media EU SARL, peuvent être trouvées sur le site internet.
 
@@ -140,9 +142,9 @@ Amazon Europe Core SARL, _Société à responsabilité limitée_, 38 avenue John
 
 Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
-**19\. PROCEDURE ET FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS**
+**19\. PROCÉDURE ET FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS**
 
-Si vous pensez que vos droits ont été violés et que vous êtes éligible aux Registre des Marques, veuillez vous inscrire au service et soumettre votre plainte via le Registre des Marques. Sinon, merci d'utiliser notre [Formulaire de Notification](https://www.amazon.fr/report/infringement). Ce formulaire peut être utilisé pour nous soumettre toute sorte de plainte de propriété intellectuelle y compris, sans toutefois s'y limiter, les plaintes liées aux droits d'auteur, de marques, de dessins et modèles et de brevets. Dès réception d'un Formulaire de Notification, nous pouvons prendre certaines mesures, notamment la suppression d'informations ou d'un article et mettre fin aux infractions répétées dans des circonstances appropriées. Ces mesures seront toutefois prises sous toutes réserves, sans reconnaissance de notre part d'une responsabilité quelconque et sans préjudice de l'exercice de nos droits, actions et moyens de défense. Ceci comprend également le transfert de ce formulaire aux parties concernées par l'infraction alléguée. Vous acceptez d'indemniser Amazon contre toute réclamation de tiers contre Amazon, découlant de, ou dans le cadre de cette notification.
+Si vous pensez que vos droits ont été violés et que vous êtes éligible au Registre des Marques, veuillez vous inscrire au service et soumettre votre plainte via le Registre des Marques. Sinon, merci d'utiliser notre [Formulaire de Notification](https://www.amazon.fr/report/infringement). Ce formulaire peut être utilisé pour nous soumettre toute sorte de plainte de propriété intellectuelle y compris, sans toutefois s'y limiter, les plaintes liées aux droits d'auteur, de marques, de dessins et modèles et de brevets. Dès réception d'un Formulaire de Notification, nous pouvons prendre certaines mesures, notamment la suppression d'informations ou d'un article et mettre fin aux infractions répétées dans des circonstances appropriées. Ces mesures seront toutefois prises sous toutes réserves, sans reconnaissance de notre part d'une responsabilité quelconque et sans préjudice de l'exercice de nos droits, actions et moyens de défense. Ceci comprend également le transfert de ce formulaire aux parties concernées par l'infraction alléguée. Vous acceptez d'indemniser Amazon contre toute réclamation de tiers contre Amazon, découlant de, ou dans le cadre de cette notification.
 
 **Note concernant les offres des vendeurs tiers** : merci de garder à l'esprit que les offres des vendeurs tiers sont seulement hébergées sur Amazon.fr et sont publiées uniquement sous la direction des vendeurs tiers qui peuvent être contactés par leur page « Informations sur le vendeur », accessible depuis toutes leurs offres.
 
@@ -154,7 +156,7 @@ Si vous pensez que vos droits ont été violés et que vous êtes éligible aux 
 
 [Formulaire de Notification](https://www.amazon.fr/report/infringement)
 
-**20\. PROCEDURE ET FORMULAIRE DE NOTIFICATION EN VUE DE NOTIFIER UN CONTENU INJURIEUX OU DIFFAMATOIRE**
+**20\. PROCÉDURE ET FORMULAIRE DE NOTIFICATION EN VUE DE NOTIFIER UN CONTENU INJURIEUX OU DIFFAMATOIRE**
 
 Parce que des millions de produits sont listés et que des milliers de commentaires sont hébergés sur Amazon.fr, il ne nous est pas possible de connaître le contenu de tous les produits offerts à la vente, ou de tous les commentaires ou critiques qui sont affichés. En conséquence, nous opérons sous un système de « notice and action » soit « notifier et action ». Si vous pensez qu'un contenu ou une annonce de vente sur le site internet contient un message diffamatoire, merci de nous le notifier immédiatement en complétant la Procédure et le Formulaire de notification en vue de notifier un contenu injurieux ou diffamatoire. Suivez les instructions dans le formulaire de la Notification.
 
@@ -164,9 +166,9 @@ Parce que des millions de produits sont listés et que des milliers de commentai
 
 **Formulaire de notification :**
 
-**D E C L A R A T I O N**
+**D É C L A R A T I O N**
 
-**Je soussigné,** Nom et prénom : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Nom Société : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Adresse et Adresse e-mail : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ETRE JOINT DURANT LA JOURNEE) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+**Je soussigné,** Nom et prénom : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Nom Société : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Adresse et Adresse e-mail : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ Numéro de téléphone (SUR LEQUEL VOUS POUVEZ ÊTRE JOINT DURANT LA JOURNÉE) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Déclare sur l'honneur ce qui suit :** 1. Je fais référence au site www.amazon.fr. Ce dernier affiche ou contribue à l'affichage de commentaires injurieux ou diffamatoires à mon sujet. 2. Les propos injurieux ou diffamatoires (RAYEZ LE PARAGRAPHE INUTILE) : (a) apparaissent dans un livre vendu sur le site www.amazon.fr :
 
@@ -174,7 +176,7 @@ Parce que des millions de produits sont listés et que des milliers de commentai
 * **Numéro ASIN (1) ou ISBN-13 (2) du livre :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 * **Numéro(s) de la (des) page(s) qui comporterai(en)t des propos diffamatoires :** \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-(b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB) (b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.2.) Ces propos sont injurieux car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME INJURIEUX) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.3.) Les propos que je considère comme **DIFFAMATOIRES** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.4.) Ces propos sont diffamatoires car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDEREZ CES PROPOS COMME DIFFAMATOIRES) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
+(b) apparaissent sur le site www.amazon.fr à l'adresse suivante: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (ADRESSE EXACTE DE LA PAGE WEB) (b.1.) Les propos que je considère comme **INJURIEUX** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.2.) Ces propos sont injurieux car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDÉREZ CES PROPOS COMME INJURIEUX) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.3.) Les propos que je considère comme **DIFFAMATOIRES** sont les suivants (VEUILLEZ REPRODUIRE LES PROPOS EXACTS DONT VOUS VOUS PLAIGNEZ) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (b.4.) Ces propos sont diffamatoires car (VEUILLEZ EXPLIQUER LA RAISON POUR LAQUELLE VOUS CONSIDÉREZ CES PROPOS COMME DIFFAMATOIRES) : \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ 3. Je reconnais que la présente déclaration peut être produite au cours de toute procédure judiciaire découlant des, ou dans le cadre des, propos injurieux et diffamatoires contre lesquels je porte plainte.
 
 **Déclaration de vérité** Je déclare que les faits déclarés ci-dessus sont exacts.
 
@@ -202,14 +204,14 @@ Vous ne pouvez et vous n'encouragerez pas, ni n'assisterez ou n'autoriserez qui 
 
 Sauf indication contraire dans les conditions de service concernant certains logiciels Amazon, Amazon peut publier des mises à jour et des mises à niveau du logiciel Amazon de temps à autre. Veuillez également consulter les Conditions de vente pour les mises à jour logicielles spécifiques aux biens physiques contenant des éléments numériques.
 
-CONDITIONS GENERALES DE VENTE
+CONDITIONS GÉNÉRALES DE VENTE
 -----------------------------
 
 Bienvenue sur le site Amazon.fr.
 
 Amazon EU SARL et/ou ses sociétés affiliées **(« Amazon »)** vous fournissent des fonctionnalités de site internet et d'autres produits et services quand vous visitez ou achetez sur le site internet Amazon.fr **(le « Site Internet »)**, utilisez des produits et services d'Amazon, utilisez des applications Amazon pour mobile, ou utilisez des logiciels fournis par Amazon dans le cadre de tout ce qui précède (ensemble ci-après, les « Services Amazon »). Amazon fournit les Services Amazon selon les conditions définies dans cette page.
 
-Ces Conditions Générales de Vente régissent la vente de produits entre Amazon EU SARL et vous. Pour les conditions relatives à la vente entre vous et des vendeurs tiers sur le Site Internet Amazon.fr, veuillez prendre connaissance du [Contrat Amazon Services Europe Business Solutions](https://www.amazon.fr/gp/help/customer/display.html?nodeId=10398651). Nous offrons un large panel de Services Amazon et il se peut que des conditions additionnelles s'appliquent. Par ailleurs, lorsque vous utilisez un Service Amazon (par exemple votre Profil, les Chèques-Cadeaux, les applications pour mobile ou le Gestionnaire de communication), vous êtes également soumis aux termes, lignes directrices et conditions applicables à ce Service Amazon (les « Conditions du Service »). Si ces Conditions Générales de Ventes entrent en contradiction avec les Conditions du Service, les Conditions du Service prévaudront.
+Ces Conditions générales de vente régissent la vente de produits entre Amazon EU SARL et vous. Pour les conditions relatives à la vente entre vous et des vendeurs tiers sur le Site Internet Amazon.fr, veuillez prendre connaissance du [Contrat Amazon Services Europe Business Solutions](https://www.amazon.fr/gp/help/customer/display.html?nodeId=10398651). Nous offrons un large panel de Services Amazon et il se peut que des conditions additionnelles s'appliquent. Par ailleurs, lorsque vous utilisez un Service Amazon (par exemple votre Profil, les Chèques-Cadeaux, les applications pour mobile ou le Gestionnaire de communication), vous êtes également soumis aux termes, lignes directrices et conditions applicables à ce Service Amazon (les « Conditions du Service »). Si ces Conditions Générales de Ventes entrent en contradiction avec les Conditions du Service, les Conditions du Service prévaudront.
 
 Merci de lire ces conditions attentivement avant d'effectuer une commande avec Amazon EU SARL. En commandant avec Amazon EU SARL, vous nous notifiez votre accord d'être soumis aux présentes conditions.
 
@@ -217,7 +219,7 @@ Merci de lire ces conditions attentivement avant d'effectuer une commande avec A
 
 Si vous souhaitez acheter un ou plusieurs produit(s) figurant sur le Site Internet, vous devez sélectionner chaque produit que vous souhaitez acheter et l'ajouter à votre panier. Lorsque vous avez sélectionné tous les produits que vous voulez acheter, vous pouvez confirmer le contenu de votre panier et passer la commande.
 
-A ce stade, vous serez redirigé vers une page récapitulant les détails des produits que vous avez sélectionnés, leur prix et les options de livraisons (avec les frais de livraison concernés). Vous devrez alors choisir les options de livraison ainsi que les méthodes d'envoi et de paiement qui vous conviennent le mieux.
+À ce stade, vous serez redirigé vers une page récapitulant les détails des produits que vous avez sélectionnés, leur prix et les options de livraisons (avec les frais de livraison concernés). Vous devrez alors choisir les options de livraison ainsi que les méthodes d'envoi et de paiement qui vous conviennent le mieux.
 
 En haut de cette page, se situe le bouton d'achat. Vous devez cliquer sur ce bouton pour confirmer et passer votre commande.
 
@@ -227,15 +229,15 @@ Veuillez noter que nous vendons des produits seulement en quantités corresponda
 
 Vous acceptez d'obtenir les factures de vos achats par voie électronique. Les factures électroniques seront mises à votre disposition au format .pdf dans l'espace [Votre compte](https://www.amazon.fr/gp/css/homepage.html) sur notre Site Internet. Pour chaque livraison, nous vous indiquerons dans le message de confirmation d'envoi si une facture électronique est disponible. Pour plus d'informations sur les factures électroniques et pour savoir comment recevoir une copie papier, merci de consulter nos [pages d'Aide](https://www.amazon.fr/gp/help/customer/display.html/ref=hp_gw_iufourdc/?nodeId=201268160).
 
-**2\. DROIT DE RETENTION**
+**2\. DROIT DE RÉTENTION**
 
 Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au transporteur.
 
-**3\. DROIT DE RETRACTATION DE 14 JOURS, EXCEPTIONS AU DROIT DE RETRACTATION, NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS**
+**3\. DROIT DE RÉTRACTATION DE 14 JOURS, EXCEPTIONS AU DROIT DE RÉTRACTATION, NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS**
 
-**DROIT LEGAL DE RETRACTATION**
+**DROIT LEGAL DE RÉTRACTATION**
 
-A moins que l'une des exceptions listées ci-dessous ne soit applicable, vous pouvez vous rétracter de votre commande sans donner de motif dans un délai de 14 jours courant à compter de la date à laquelle vous-même, ou un tiers désigné par vous (autre que le transporteur), a pris physiquement possession des biens achetés (ou du dernier bien, lot ou pièce si le contrat porte sur la livraison de plusieurs biens ou plusieurs lots ou pièces livrés séparément) ou de la date à laquelle vous avez conclu le contrat pour les prestations de services.
+À moins que l'une des exceptions listées ci-dessous ne soit applicable, vous pouvez vous rétracter de votre commande sans donner de motif dans un délai de 14 jours courant à compter de la date à laquelle vous-même, ou un tiers désigné par vous (autre que le transporteur), a pris physiquement possession des biens achetés (ou du dernier bien, lot ou pièce si le contrat porte sur la livraison de plusieurs biens ou plusieurs lots ou pièces livrés séparément) ou de la date à laquelle vous avez conclu le contrat pour les prestations de services.
 
 Vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre centre de retours en ligne, en utilisant ce [formulaire](https://www.amazon.fr/formulaire-retractation), ou par courrier. Dans le cas où vous utiliseriez le [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
 
@@ -243,7 +245,7 @@ Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre d
 
 Pour toute information complémentaire sur l'étendue, le contenu et les instructions quant à l'exercice de votre droit de rétractation, merci de contacter notre [Service Client](https://www.amazon.fr/contact-us).
 
-EFFETS DE LA RETRACTATION
+EFFETS DE LA RcTRACTATION
 
 Nous vous rembourserons tous les paiements que nous avons reçus de votre part, y compris les frais de livraison standards (c'est-à-dire correspondant à la livraison la moins onéreuse que nous proposons) au plus tard 14 jours à compter de la réception de votre demande de rétractation. Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous. Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droit.
 
@@ -251,10 +253,10 @@ Veuillez noter que vous devez renvoyer le(s) produit(s) en suivant les instructi
 
 Vous devez prendre à votre charge les frais directs de renvoi du (des) produit(s). Vous serez responsable de la dépréciation de la valeur du(s) produit(s) résultant de manipulations (autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce(s) produit(s))
 
-EXCEPTIONS AU DROIT DE RETRACTATION
+EXCEPTIONS AU DROIT DE RÉTRACTATION
 
 * Le droit de rétractation ne s'applique pas à :
-* la livraison de produits qui ne peuvent pas être retournés pour des raisons d'hygiène ou de protection de la santé, si vous les avez descellés ou bien, qui ont, après avoir été livrés, été mélangés de manière indissociables avec d'autres articles ;
+* la livraison de produits qui ne peuvent pas être retournés pour des raisons d'hygiène ou de protection de la santé, si vous les avez descellés ou bien, qui ont, après avoir été livrés, été mélangés de manière indissociable avec d'autres articles ;
 * la livraison d'enregistrements audio ou vidéos ou de logiciels informatiques lorsque vous les avez descellés après la livraison ;
 * la livraison de produits qui ont été confectionnés selon vos spécifications ou nettement personnalisés ;
 * la fourniture de produits susceptibles de se détériorer ou de se périmer rapidement ;
@@ -266,7 +268,7 @@ NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS
 
 Sans préjudice des droits qui vous sont reconnus par la loi, Amazon vous propose la politique de retours suivante :
 
-Tous les produits en provenance des sites d'Amazon peuvent être retournés dans les 30 jours suivant la réception des produits par Amazon si les produits sont complets et dans un état neuf et intact. S'agissant des supports de données emballés sous plastique ou scellés (par exemple, les CDs, cassettes audio, vidéos VHS, DVD, jeux PC, jeux vidéo et logiciels, articles de la boutique Hygiène, Beauté et Santé Animale), nous ne les reprendrons que s'ils sont toujours dans leur emballage plastique ou qu'ils n'ont pas été descellés. Les produits doivent être retournés par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/). Cette politique de retours n'est pas applicable aux contenus numériques ou logiciels informatiques qui ne sont pas fournis sur un support matériel (ex : sur un CD ou un DVD). Les frais de retour sont remboursés pour les retours de vêtements ou de chaussures achetés sur les boutiques Amazon et relevant de la politique de retour gratuit des articles de mode.
+Tous les produits en provenance des sites d'Amazon peuvent être retournés dans les 30 jours suivant la réception des produits par Amazon si les produits sont complets et dans un état neuf et intact. S'agissant des supports de données emballés sous plastique ou scellés (par exemple, les CD, cassettes audio, vidéos VHS, DVD, jeux PC, jeux vidéo et logiciels, articles de la boutique Hygiène, Beauté et Santé Animale), nous ne les reprendrons que s'ils sont toujours dans leur emballage plastique ou qu'ils n'ont pas été descellés. Les produits doivent être retournés par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/). Cette politique de retours n'est pas applicable aux contenus numériques ou logiciels informatiques qui ne sont pas fournis sur un support matériel (ex : sur un CD ou un DVD). Les frais de retour sont remboursés pour les retours de vêtements ou de chaussures achetés sur les boutiques Amazon et relevant de la politique de retour gratuit des articles de mode.
 
 Si vous renvoyez un (des) produit(s) conformément à notre politique de retour, nous vous rembourserons le prix que vous avez payé mais pas les frais de livraison de votre achat initial. De même, les risques liés au transport et les frais de livraison de retour seront à votre charge. Les frais de livraison et de retour ne sont remboursés que pour les vêtements et les chaussures achetés sur l'un de nos sites. Cette politique de retours n'affecte pas vos droits reconnus par la loi, y compris votre droit légal de rétractation décrit ci-dessus.
 
@@ -274,7 +276,7 @@ Consultez notre [politique de retours](https://www.amazon.fr/gp/help/customer/di
 
 Vous bénéficiez par ailleurs des garanties légales de conformité et des vices cachés mentionnées à l'article 7 des présentes Conditions Générales de Vente (« Notre responsabilité Garanties »).
 
-**4\. PRIX ET DISPONIBILITE**
+**4\. PRIX ET DISPONIBILITÉ**
 
 Tous les prix sont toutes taxes françaises comprises (TVA française et autres taxes applicables) sauf indication contraire.
 
@@ -284,15 +286,15 @@ En dépit de tous nos efforts, un petit nombre des produits présents dans notre
 
 **5\. DOUANES**
 
-Lorsque vous commandez des produits sur Amazon pour être livrés en dehors de l'Union Européenne, vous pouvez être soumis à des obligations et des taxes sur l'importation, qui sont perçues lorsque le colis arrive à destination. Tout frais supplémentaire de dédouanement sera à votre charge ; nous n'avons aucun contrôle sur ces frais. Les politiques douanières varient fortement d'un pays à l'autre, vous devez donc contacter le service local des douanes pour plus d'informations. Par ailleurs, veuillez noter que lorsque vous passez commande sur Amazon, vous êtes considéré comme l'importateur officiel et devez respecter toutes les lois et règlements du pays dans lequel vous recevez les produits. La protection de votre vie privée est importante pour nous et nous attirons l'attention de nos clients internationaux sur le fait que les livraisons transfrontalières sont susceptibles d'être ouvertes et inspectées par les autorités douanières. Pour plus d'informations, consultez la page [Informations douanières](https://www.amazon.fr/gp/help/customer/display.html?nodeId=548586).
+Lorsque vous commandez des produits sur Amazon pour être livrés en dehors de l'Union européenne, vous pouvez être soumis à des obligations et des taxes sur l'importation, qui sont perçues lorsque le colis arrive à destination. Tout frais supplémentaire de dédouanement sera à votre charge ; nous n'avons aucun contrôle sur ces frais. Les politiques douanières varient fortement d'un pays à l'autre, vous devez donc contacter le service local des douanes pour plus d'informations. Par ailleurs, veuillez noter que lorsque vous passez commande sur Amazon, vous êtes considéré comme l'importateur officiel et devez respecter toutes les lois et règlements du pays dans lequel vous recevez les produits. La protection de votre vie privée est importante pour nous et nous attirons l'attention de nos clients internationaux sur le fait que les livraisons transfrontalières sont susceptibles d'être ouvertes et inspectées par les autorités douanières. Pour plus d'informations, consultez la page [Informations douanières](https://www.amazon.fr/gp/help/customer/display.html?nodeId=548586).
 
 **6\. COMMANDE 1-CLICK**
 
 La commande en 1-Click est la façon la plus rapide et la plus simple pour commander des produits en toute sécurité sur le site. Si vous utilisez un ordinateur public ou partagé, nous vous recommandons fortement de [désactiver la commande 1-Click](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201889370) quand vous n'êtes pas devant l'ordinateur.
 
-**7\. NOTRE RESPONSABILITE - GARANTIES**
+**7\. NOTRE RESPONSABILITÉ - GARANTIES**
 
-Vous bénéficiez de la garantie légale de conformité dans les conditions des articles L.217-4 et suivants du code de la consommation et de la garantie des vices cachés dans les conditions prévues aux articles 1641 et suivants du code civil. Consultez notre [page d'aide sur ces garanties](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201310960) pour plus d'informations.
+Vous bénéficiez de la garantie légale de conformité dans les conditions des articles L.217-4 et suivants du code de la consommation et de la garantie des vices cachés dans les conditions prévues aux articles 1641 et suivants du Code civil. Consultez notre [page d'aide sur ces garanties](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201310960) pour plus d'informations.
 
 Vous bénéficiez d'un délai de deux ans à compter de la délivrance du produit pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, vous n’êtes tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
@@ -302,7 +304,7 @@ Vous avez le droit de choisir entre la réparation ou le remplacement du produit
 
 Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d’une extension de cette garantie de six (6) mois.
 
-Si vous demandez la réparation du bien, mais que son remplacement vous ait imposé, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du produit.
+Si vous demandez la réparation du bien, mais que son remplacement vous est imposé, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du produit.
 
 Vous pouvez obtenir une réduction du prix d'achat en conservant le produit ou mettre fin au contrat en vous faisant rembourser intégralement contre restitution du produit, si :
 
@@ -346,13 +348,13 @@ Pour les biens comportant des éléments numériques, Amazon (ou un tiers concer
 
 **9\. DROIT APPLICABLE**
 
-Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de loi), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions Générales de Vente, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficier également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence.
+Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (à l'exception de ses dispositions concernant les conflits de loi), et l'application de la Convention de Vienne sur les contrats de vente internationale de marchandises est expressément exclue. Vous, comme nous, acceptons de soumettre tous les litiges occasionnés par la relation commerciale existant entre vous et nous à la compétence non exclusive des juridictions de la ville de Luxembourg, ce qui signifie que pour l'application des présentes Conditions Générales de Vente, vous pouvez intenter une action pour faire valoir vos droits de consommateur, au Luxembourg ou dans le pays de l'Union européenne dans lequel vous résidez. Si vous êtes un consommateur et que votre résidence habituelle est située dans un pays de l'Union européenne, vous bénéficiez également de droits vous protégeant en vertu des dispositions obligatoires de la loi applicable dans votre pays de résidence.
 
 Notre entreprise adhère à la Fédération du e-commerce et de la vente à distance (FEVAD) et [au service de médiation du e-commerce](https://www.fevad.com/espace-consommateurs/les-reclamations-et-les-recours#topContent) (60 rue la Boétie, 75008 Paris) – relationconso@fevad.com.
 
 La Commission européenne met à disposition une plateforme en ligne de résolution des différends à laquelle vous pouvez accéder ici: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Si vous souhaitez attirer notre attention sur un sujet, merci de [nous contacter](https://www.amazon.fr/contactez-nous).
 
-**10\. MODIFICATION DU SERVICE OU DES CONDITIONS GENERALES DE VENTE**
+**10\. MODIFICATION DU SERVICE OU DES CONDITIONS GÉNÉRALES DE VENTE**
 
 Nous nous réservons le droit de faire des changements à notre Site Internet, nos procédures, et à nos termes et conditions, y compris les présentes Conditions Générales de Vente à tout moment. Vous êtes soumis aux termes et conditions, procédures et Conditions Générales de Vente en vigueur au moment où vous nous commandez un produit, sauf si un changement à ces termes et conditions, ou les présentes Conditions Générales de Vente est exigé par une autorité administrative ou gouvernementale (dans ce cas, cette modification peut s'appliquer aux commandes antérieures que vous avez effectuées). Si l'une des stipulations de ces Conditions Générales de Vente est réputée non valide, nulle ou inapplicable, quelle qu'en soit la raison, cette stipulation sera réputée divisible et n'affectera pas la validité et l'effectivité des stipulations restantes.
 
@@ -370,7 +372,7 @@ Amazon.fr est une marque commerciale utilisée par Amazon EU SARL. Nos informati
 
 Amazon EU SARL, Société à responsabilité limitée, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 125.000 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 134248 Numéro de TVA intracommunautaire : LU 20260743
 
-**Succursale en France :** Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France Enregistrée en France Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre Numéro de TVA intracommunautaire : FR 12487773327
+**Succursale en France :** Amazon EU SARL, succursale française, 67 Boulevard du Général Leclerc, Clichy 92110, France Enregistrée en France Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre Numéro de TVA intracommunautaire : FR 12487773327
 
 Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
