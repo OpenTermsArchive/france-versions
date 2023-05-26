@@ -6,7 +6,7 @@ Préambule
 
 Définitions
 
-1. Description du servicea
+1. Description du service
 
 2. Conditions d’accès
 
