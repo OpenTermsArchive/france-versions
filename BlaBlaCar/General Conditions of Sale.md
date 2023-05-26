@@ -473,7 +473,13 @@ L’assurance de responsabilité civile professionnelle est souscrite auprès de
 
 Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et finance sous le numéro d’immatriculation (Orias) : 15003890.
 
-Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
+Conformément à l’article 24, paragraphe 2, du règlement du Parlement européen et du Conseil concernant le marché intérieur des services numériques et modifiant la Directive 2000/31/CE (« **DSA**« ), les fournisseurs de plateformes en ligne sont tenus de publier des informations sur la moyenne mensuelle des destinataires actifs de leur service dans l’Union, calculée en moyenne sur les six derniers mois. L’objectif de cette publication est de déterminer si un fournisseur de plateforme en ligne remplit le critère des « très grandes plateformes en ligne » en vertu de du DSA, et de vérifier s’il dépasse le seuil de 45 millions de destinataires actifs mensuels moyens dans l’Union Européenne.
+
+Au 17 février 2023, le nombre mensuel moyen de destinataires actifs de BlaBlaCar pour la période du 1er août 2022 au 31 janvier 2023, a été calculé en tenant compte du considérant 77 et de l’article 3 de du DSA, avant l’adoption d’un acte délégué spécifique. Ce nombre est inférieur à 45 millions de destinateurs actifs dans l’UE.
+
+Ces informations sont publiées uniquement dans le but de se conformer aux exigences du DSA et ne doivent pas être utilisées à d’autres fins. Elles seront mises à jour au moins une fois tous les six mois. Notre approche pour produire ce calcul peut évoluer ou nécessiter des modifications au fil du temps, notamment en raison de changements dans la législation.
+
+Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
 
 17\. Bonus Covoiturage
 ----------------------
