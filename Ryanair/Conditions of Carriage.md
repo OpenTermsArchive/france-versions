@@ -1246,7 +1246,7 @@ Le chef de cabine reste le seul à pouvoir prendre la décision finale eu égard
 
 **Réservation d’une assistance aérienne spéciale**  
 
-Les passagers ayant besoin d’une assistance spéciale peuvent réserver ces services à l’avance sur notre site Web jusqu’à 48 heures avant le vol. Après ce délai et jusqu’à 12 heures avant le départ du vol prévu, les passagers doivent contacter notre  Ligne d’assistance spéciale (aux horaires d’ouverture). Si le passager ne réserve pas l’assistance requise au moins 48 heures à l’avance, le service peut ne pas être disponible. L’équipe d’assistance de l’aéroport fera toutefois tout son possible pour assurer le service demandé.  
+Les passagers ayant besoin d’une assistance spéciale peuvent réserver ces services à l’avance sur notre site Web jusqu’à 48 heures avant le vol. Après ce délai et jusqu’à 12 heures avant le départ du vol prévu, les passagers doivent contacter notre Ligne d’assistance spéciale (aux horaires d’ouverture). Si le passager ne réserve pas l’assistance requise au moins 48 heures à l’avance, le service peut ne pas être disponible. L’équipe d’assistance de l’aéroport fera toutefois tout son possible pour assurer le service demandé.  
 
 Afin de bénéficier du service d’assistance réservé, les passagers doivent se présenter au guichet d’assistance spéciale 1 heure 40 avant le départ du vol.  
 
@@ -1407,7 +1407,7 @@ OXYGÈNE
 
 =========
 
-Pour des raisons de sécurité, nous n’autorisons pas les passagers à apporter leur propre oxygène à bord. Si l’utilisation d’oxygène est nécessaire pendant le vol, le passager doit en faire la demande trois jours au plus tard avant le vol pour voyager directement avec nous par l’intermédiaire de votre  centre d’appel local ou en écrivant un message électronique à notre équipe d’Assistance spéciale , de préférence le jour de la réservation pour un tarif indiqué dans le Tableau des  Tarifs.\*
+Pour des raisons de sécurité, nous n’autorisons pas les passagers à apporter leur propre oxygène à bord. Si l’utilisation d’oxygène est nécessaire pendant le vol, le passager doit en faire la demande trois jours au plus tard avant le vol pour voyager directement avec nous par l’intermédiaire de votre centre d’appel local ou en écrivant un message électronique à notre équipe d’Assistance spéciale , de préférence le jour de la réservation pour un tarif indiqué dans le Tableau des Tarifs.\*
 
 Les passagers ayant besoin d’oxygène doivent être munis d’une lettre en anglais de leur médecin (datée de moins de 2 semaines avant la date de vol prévue) confirmant qu’ils sont aptes à voyager, qu’ils n’ont pas besoin d’un approvisionnement continu en oxygène pendant plus de 250 minutes à 2 litres par minute et que l’oxygène que nous fournissons est adapté à leurs besoins.  
 
