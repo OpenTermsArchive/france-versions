@@ -57,7 +57,7 @@ Le seul mode de mise à disposition du Billet est le Billet Electronique. Celui-
 
 Pour être accepté au transport, tout Billet doit être intégralement utilisé, conformément à l’Article 4.3 des Conditions Générales de Transport.
 
-Nous vous informons que dans le cas où votre billet n'est plus valide et n'a pas donné lieu à transport, vous bénéficiez d'un droit au remboursement des taxes et redevances, dont l'exigibilité dépend de votre embarquement. Pour obtenir le remboursement de ces sommes, vous pouvez nous adresser gratuitement votre demande **[sur notre site dédié](https://support.aircorsica.com/)**.
+Nous vous informons que dans le cas où votre billet n'est plus valide et n'a pas donné lieu à transport, vous bénéficiez d'un droit au remboursement des taxes et redevances, dont l'exigibilité dépend de votre embarquement. Pour obtenir le remboursement de ces sommes, vous pouvez nous adresser gratuitement votre demande **[sur notre site dédié](https://serviceclient.aircorsica.com/)**.
 
 Le remboursement interviendra dans les 30 jours suivant la demande.
 
