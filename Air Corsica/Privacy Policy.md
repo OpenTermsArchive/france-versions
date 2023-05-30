@@ -401,7 +401,7 @@ Le traitement effectué par nos soins s’intègre complètement dans le process
 
 Nous vous offrons la possibilité de déposer un dossier de réclamation suite à une difficulté rencontrée lors d’un vol Air Corsica. Nous mettons pour cela un site Internet spécifique dédié au recueil de vos demandes. Pour plus d’informations : [https://www.aircorsica.com/litiges-reclamations.html](https://www.aircorsica.com/litiges-reclamations.html)
 
-La constitution de votre dossier de réclamation s’effectue à l’adresse internet suivante : [https://support.aircorsica.com/formulaire/identification/](https://support.aircorsica.com/formulaire/identification/)
+La constitution de votre dossier de réclamation s’effectue à l’adresse internet suivante : [https://support.aircorsica.com/formulaire/identification/](https://serviceclient.aircorsica.com/)
 
 Il vous sera proposé de compléter un formulaire comprenant les données suivantes : 
 
@@ -417,7 +417,7 @@ Il vous sera proposé de compléter un formulaire comprenant les données suivan
 
 Ces données personnelles servent à constituer votre dossier de réclamation. Ces données sont stockées de manière sécurisée par nos soins sur nos propres serveurs.
 
-Le dépôt d’une réclamation entraîne l’acceptation des conditions générales d’utilisations du service disponibles à l’adresse internet suivante : [https://support.aircorsica.com/cgu/](https://support.aircorsica.com/cgu/)
+Le dépôt d’une réclamation entraîne l’acceptation des conditions générales d’utilisations du service disponibles à l’adresse internet suivante : [https://serviceclient.aircorsica.com/](https://serviceclient.aircorsica.com/)
 
 Si votre réclamation devait aboutir à une indemnisation de notre part, vous seriez alors invités dans un second temps à saisir vos coordonnées bancaires pour versement.
 
