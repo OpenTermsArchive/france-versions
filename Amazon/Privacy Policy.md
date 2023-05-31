@@ -89,7 +89,7 @@ Nous pourrons également être amenés à requérir votre consentement pour le t
 Qu'en est-il des cookies et des autres identificateurs ?
 --------------------------------------------------------
 
-Nous utilisons des cookies et des outils similaires afin d'améliorer votre expérience d'achat, fournir nos services, comprendre comment les clients utilisent nos services afin de pouvoir apporter des améliorations, et afficher des publicités. Des tiers approuvés utilisent également ces outils en relation avec l'affichage de nos publicités. Pour plus d'informations concernant les cookies et l'usage que nous en faisons, veuillez vous référer à notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). Vous pouvez modifier vos préférences en matière de Cookies sur [Personnaliser les préférences sur les cookies](https://www.amazon.fr/gp/help/customer/www.amazon./privacyprefs/retail).
+Nous utilisons des cookies et des outils similaires afin d'améliorer votre expérience d'achat, fournir nos services, comprendre comment les clients utilisent nos services afin de pouvoir apporter des améliorations, et afficher des publicités. Des tiers approuvés utilisent également ces outils en relation avec l'affichage de nos publicités. Pour plus d'informations concernant les cookies et l'usage que nous en faisons, veuillez vous référer à notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html/?nodeId=GVASXV5UZ64R4Y25). Vous pouvez modifier vos préférences en matière de Cookies sur [Personnaliser les préférences sur les cookies](https://www.amazon.fr/privacyprefs/retail).
 
 Amazon Europe partage-t-elle vos informations personnelles ?
 ------------------------------------------------------------
@@ -164,7 +164,7 @@ Veuillez [contacter notre Service Clientèle](https://www.amazon.fr/contact-us) 
 
 * La section Aide de la barre d'outils de la plupart des navigateurs et appareils vous indique comment refuser les nouveaux "cookies" ou recevoir de votre navigateur un message signalant leur réception ou comment désactiver tous les "cookies". Dans la mesure où les "cookies" vous permettent de bénéficier de certaines fonctionnalités essentielles des Services Amazon, nous vous conseillons de les laisser actifs. Par exemple si vous choisissez de bloquer ou de refuser nos cookies, vous ne pourrez pas ajouter de produits à votre panier de commande, finaliser votre commande ou utiliser les Services Amazon qui nécessitent l'ouverture d'un compte. Pour plus d'informations sur les cookies, veuillez consulter notre [Notice Cookies](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GVASXV5UZ64R4Y25).
 
-* Vous pouvez consentir ou retirer votre consentement aux cookies publicitaires de tiers [ici](https://www.amazon.fr/gp/help/customer/www.amazon./privacyprefs/retail).
+* Vous pouvez consentir ou retirer votre consentement aux cookies publicitaires de tiers [ici](https://www.amazon.fr/cookieprefs/partners).
 
 * Si vous souhaitez naviguer anonymement sur nos sites internet, sans relier l'activité de navigation à votre compte, vous pourrez le faire en vous [déconnectant](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GQL359FK7DM8294C) de votre compte et en désactivant les cookies sur votre navigateur.
 
@@ -271,7 +271,7 @@ Quelques exemples d'informations que nous collectons et analysons :
 * les principaux indicateurs pour les Services Amazon (ex. la survenance d'erreurs techniques, vos interactions avec les fonctionnalités et les contenus du service, vos préférences de paramètres et informations relatives à vos sauvegardes, la localisation de votre appareil utilisant une application, les informations relatives aux images et fichiers téléchargés (ex. fichiers, dates, temps et emplacement de vos images) ;
 * les réglages de votre version de navigateur et des fuseaux horaires ;
 * l'historique de vos commandes et d'utilisation des contenus, que nous associons parfois à des informations provenant d'autres clients sous une forme anonyme pour créer des fonctions telles que "Nos meilleures ventes",
-* le cheminement URL complet vers, via et depuis notre site Internet, y compris les date et heure, les numéros de "cookies", les produits et/ou contenus que vous avez consultés ou recherchés, les temps de réponse d'une page, les erreurs de téléchargement, les informations concernant les interactions sur une page (« scrolling »(défilement sur une page), clics, mouvements de souris) ;
+* le cheminement URL complet vers, via et depuis notre site Internet, y compris les date et heure, les numéros de "cookies", les produits et/ou contenus que vous avez consultés ou recherchés, les temps de réponse d'une page, les erreurs de téléchargement, les informations concernant les interactions sur une page (« scrolling » (défilement sur une page), clics, mouvements de souris) ;
 * les numéros de téléphone utilisés pour appeler notre service client, et ;
 * les image sou les vidéos lorsque vous faites vos achats dans nos boutiques en utilisant les Services Amazon.
 
