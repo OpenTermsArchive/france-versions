@@ -286,7 +286,7 @@ Si le service Amazon Pay est disponible sur le Site : Pour tout paiement par Ama
 Le Vendeur pourra annuler la commande, en cas de difficultés dans le processus de paiement (anomalie dans le paiement), en cas de non-conformité aux modalités de paiement mentionnées ci- dessus, en cas de non-paiement, total ou partiel, d'une commande précédente ou en cours.  
   
 Afin d’optimiser la sécurité des paiements, le Vendeur utilise la procédure 3Dsecure, par laquelle l’Internaute reçoit sur son téléphone portable un code à reporter sur la page de paiement après avoir communiqué toutes les références de sa carte bancaire. Le Vendeur pourra également, dans cette perspective, procéder à des demandes de justificatifs complémentaires (copie carte nationale d’identité, justificatif de domicile) dont les seuls destinataires sont les membres de son service client habilités à traiter la lutte contre la fraude. En cas de défaut de réponse, le Vendeur se réserve la possibilité d’annuler la commande. L’Internaute dispose d’un droit d’accès, de rectification et de suppression de ses données personnelles auprès du service client du Vendeur et dans les conditions précisées à l’article 13 « Charte de confidentialité des données à caractère personnel et politique relative aux cookies » des présentes conditions générales de vente.  
-Le service clients est joignable via le formulaire de contact : [Disponible ici](https://www.morgandetoi.fr/aide/contact/)
+Le service clients est joignable via le formulaire de contact : [Disponible ici](https://www.morgandetoi.fr/aide/)
 
 ##### 11\. Clause de réserve de propriété et transfert de risques
 
