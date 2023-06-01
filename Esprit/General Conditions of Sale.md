@@ -229,7 +229,7 @@ Associé personnellement responsable : Esprit Nederland B.V., sise à Amsterdam
 
 Registre du commerce n° : 34176024
 
-Représentants légaux : Man Yi Yip
+Représentants légaux : Man Yi Yip, Michael Christopher Frenzel
 
   
 
