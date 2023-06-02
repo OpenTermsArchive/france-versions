@@ -18,7 +18,7 @@ et l’établissement principal 104 avenue du Président Kennedy, 75016 PARIS,
 
 Téléphone : + 33 (0)9.69.32.00.31 (coût d'un appel local en France métropolitaine, tarif indicatif depuis un poste fixe, susceptible d'être modulé en fonction des opérateurs ; pour les internautes localisés hors de France métropolitaine, coût selon les tarifs pratiqués par les opérateurs locaux). Tout contact se fera en langue française.
 
-Formulaire de contact : [disponible ici](https://www.morgandetoi.fr/aide/contact/).
+Formulaire de contact : [disponible ici](https://www.morgandetoi.fr/aide/).
 
 (ci-après dénommée « le Vendeur »).
 
@@ -184,19 +184,23 @@ Pour toute passation de commande sur le Site, l’Internaute aura le choix entre
 
 En passant commande auprès du Vendeur, l’Internaute devient un client du Vendeur. Par conséquent, l’Internaute est susceptible de recevoir des newsletters de la part du Vendeur. Le client peut se désabonner à tout moment de cette newsletter en activant le lien de désabonnement contenu dans chaque newsletter, en caisse sur simple demande, sur le web dans son [espace client](https://www.morgandetoi.fr/mon-espace-personnel/) ou via une demande auprès du [Service clients](https://www.morgandetoi.fr/aide/contact/).
 
-##### 8\. Accès au programme de fidélité «Morgan de Vous »
+##### 8\. Accès au programme de fidélité Morgan
 
-La création du Compte-Client permet à l’Internaute d’adhérer automatiquement au Programme et lui permet de cumuler d’obtenir des avantages et de cumuler des points dès la passation de sa première commande.
-
-  
-L’Internaute peut également bénéficier des avantages du Programme en y adhérant via l’opt-in. 
+En passant commande auprès du Vendeur, l’Internaute bénéficie automatiquement du Programme fidélité Morgan (le « Programme »). Le Programme permet au client de cumuler des points et d’obtenir des avantages. Les avantages peuvent être notamment :
 
   
-Il est précisé que l’Internaute pourra à tout moment et sans justification se désinscrire du Programme directement via son Espace Client. 
+\- des réductions personnelles, des accès aux ventes privées, 
 
-Les conditions générales d’utilisation du Programme sont accessibles au [lien suivant](https://www.morgandetoi.fr/conditions-generales-espace-client).
+  
+\- des invitations aux évènements privés (aux soirées VIP, soirée shopping, petits déjeuners des soldes),
 
-L’Internaute peut à tout moment demander à ne plus bénéficier du Programme en formulant une demande en ce sens directement en caisse en magasin, sur le web dans son [Espace client](https://www.morgandetoi.fr/mon-espace-personnel/) ou via une demande auprès du [Service clients](https://www.morgandetoi.fr/aide/contact/).
+  
+\- la garantie échange ou retour sans ticket, - une surprise pour l’anniversaire,
+
+  
+\- des avantages pour les étudiants, etc.
+
+Les conditions générales d’utilisation du Programme sont accessibles au [lien suivant](https://www.morgandetoi.fr/conditions-generales-utilisation). L’Internaute peut à tout moment demander à ne plus bénéficier du Programme en formulant une demande en ce sens directement en caisse en magasin, sur le web dans son [Espace client](https://www.morgandetoi.fr/mon-espace-personnel) ou via une demande auprès du [Service clients](https://www.morgandetoi.fr/aide/contact/).
 
 ##### 9\. Livraison
 
@@ -453,7 +457,7 @@ Les présentes CGV sont soumises à la loi française. L’Internaute bénéfici
 
 ##### 20\. Litiges
 
-En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une commande, l'Internaute peut porter toute réclamation auprès du Vendeur par téléphone (+ 33 (0)9.69.32.00.31) du lundi au vendredi de 9h30 à 13h et de 14h à 18h,  ou par mail en remplissant [le formulaire de contact](https://www.morgandetoi.fr/on/demandware.store/Sites-M2T_FR_SFRA-Site/fr_FR/Faq-Home).  
+En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une commande, l'Internaute peut porter toute réclamation auprès du Vendeur par téléphone (+ 33 (0)9.69.32.00.31) du lundi au vendredi de 9h30 à 13h et de 14h à 18h,  ou par mail en remplissant [le formulaire de contact](https://www.morgandetoi.fr/aide/).  
   
 Faute de parvenir à un accord amiable avec le Vendeur, et conformément aux dispositions de l’article L 152-2 du Code de la Consommation, l’Internaute pourra initier gratuitement une procédure de médiation auprès :
 
