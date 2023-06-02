@@ -331,7 +331,7 @@ Livraisons standard offertes dès 200 euros d'achat
 
 Livraison standard à domicile pour les pays suivants :
 
-Allemagne (8 euros), Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie (10 euros).
+Allemagne (8 euros), Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal (10 euros).
 
   
 
@@ -349,7 +349,7 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
 **CHRONO EXPRESS INTERNATIONAL**, 15 euros (en 24h)
 
-La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal, Slovaquie et Slovénie.
+La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
 Le délai de livraison est de 1 jour ouvré.
 
