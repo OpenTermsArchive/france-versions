@@ -1,30 +1,30 @@
-[Politique de Confidentialité](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#5123c5694cc94ca7b3e666387ce5bd98)
+[Politique de Confidentialité](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#5123c5694cc94ca7b3e666387ce5bd98)
 
-[QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#8a91c27a327848958252bbca7eababd9)
+[QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#8a91c27a327848958252bbca7eababd9)
 
-[POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#0aed2621ea2f4e78ae5d112606b90670)
+[POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#0aed2621ea2f4e78ae5d112606b90670)
 
-[QUELLES DONNÉES À CARACTÈRE PERSONNEL SERONT COLLECTÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#20dc66d46c234716951ad30e8ded40db)
+[QUELLES DONNÉES À CARACTÈRE PERSONNEL SERONT COLLECTÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#20dc66d46c234716951ad30e8ded40db)
 
-[QUELLE EST LA DURÉE DE CONSERVATION DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#007fb5c70ae24a68abb00f88812fd742)
+[QUELLE EST LA DURÉE DE CONSERVATION DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#007fb5c70ae24a68abb00f88812fd742)
 
-[QUI AURA ACCÈS A VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#eb22ef6ea67d42779c30e049291a4b06)
+[QUI AURA ACCÈS A VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#eb22ef6ea67d42779c30e049291a4b06)
 
-[VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#d94b212cc5164fed8a3ac494f7fa307a)
+[VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#d94b212cc5164fed8a3ac494f7fa307a)
 
-[QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#2e8993beb1de4bd48e083bc3cfac7bc2)
+[QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#2e8993beb1de4bd48e083bc3cfac7bc2)
 
-[A QUI S'ADRESSER POUR TOUTE QUESTION ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#b57b1d61f1664c8da0e83fc34f48f992)
+[A QUI S'ADRESSER POUR TOUTE QUESTION ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#b57b1d61f1664c8da0e83fc34f48f992)
 
-[INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#e13e5cadcbdf4f1fae7291fae7864eda)
+[INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#e13e5cadcbdf4f1fae7291fae7864eda)
 
-[MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#bd7d328c37244d45a27e2f6e254f2a23)
+[MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#bd7d328c37244d45a27e2f6e254f2a23)
 
-[Qu'est-ce qu'un cookie ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#bec925bfbd71471faecd832091b6aefd)
+[Qu'est-ce qu'un cookie ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#bec925bfbd71471faecd832091b6aefd)
 
-[Pourquoi utilisons-nous des cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#a12b529850cf4471823512959cf38be5)
+[Pourquoi utilisons-nous des cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#a12b529850cf4471823512959cf38be5)
 
-[Comment gérer vos préférences en matière de cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62#00ae3493250a44289f7f2ea280e6e018)
+[Comment gérer vos préférences en matière de cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#00ae3493250a44289f7f2ea280e6e018)
 
 Politique de Confidentialité
 
