@@ -63,7 +63,7 @@ Ces données ne sont collectées qu'avec votre consentement (en sélectionnant l
 
 Il convient de souligner que, pour certaines destinations et tandis que les réglementations se rapportant à la lutte contre les épidémies ou les pandémies (par exemple : COVID-19) nous y obligent, nous pourrons vous demander de nous présenter vos données, telles que les certificats de vaccination ou les preuves diagnostiques (antigènes, PCR, etc.), requises par les autorités sanitaires du pays de destination.  
 
-Si vous participez au programme SKYCLEARED, vous pouvez valider vos certificats de vaccination/passeport covid (données sensibles), si les autorités de votre pays de destination l'exigent, dans le cadre de l'enregistrement en ligne (appli ou site internet), afin d'améliorer votre expérience à l'aéroport en la rendant plus rapide et sûre (sans avoir à présenter vos documents au moment de l'enregistrement ni de l'embarquement, car vous serez enregistré dans nos systèmes comme un passager apte à voyager).
+Si vous participez au programme SKYCLEARED, vous pouvez valider  vos documents personnels tels que : Passeport, Visas,certificats de vaccination/passeport covid (données sensibles), si les autorités de votre pays de destination l'exigent, dans le cadre de l'enregistrement en ligne (appli ou site internet), afin d'améliorer votre expérience à l'aéroport en la rendant plus rapide et sûre (sans avoir à présenter vos documents au moment de l'enregistrement ni de l'embarquement, car vous serez enregistré dans nos systèmes comme un passager apte à voyager).
 
 Dans les aéroports qui ont installé des dispositifs de contrôle biométrique (données sensibles), en cas d'enrôlement (facultatif), nous ne recueillerons que la confirmation de la vérification d'identité aux différentes étapes du circuit à l'aéroport (enregistrement, dépôt des bagages de soute, embarquement), ainsi que les données qui nous permettent d'associer automatiquement ces données à la réservation correspondante et de réaliser correctement l'embarquement. Nous ne recueillons ni ne traitons les données biométriques de nos passagers, nous indiquons que ce service est proposé par le gestionnaire aéroportuaire, par exemple AENA (https://www.aena.es/es/nota-adicional/politica-privacidad-sistema-biometrico-mad), de sorte que le traitement des données est effectué directement par eux.
 
@@ -94,12 +94,14 @@ Les différentes finalités pour lesquelles AIR EUROPA traite vos données sont 
 * Gestion des formalités d'immigration et/ou d'entrée ou de sortie du territoire d'un État, assurer votre sécurité et satisfaire à d'autres exigences légales applicables à toute compagnie aérienne (données PNR).
 * Gestion du programme de fidélité AIR EUROPA SUMA.
 * Gestion de l'envoi d'informations commerciales.
-* Gestion de travaux d'analyse et d'études de marché.
+* Gestion du travail analytique et des études de marché, par le biais de cookies et d'autres technologies et outils similaires.
+* Gestion du suivi des clients utilisant le site Web/l'application, afin d'identifier les moyens d'améliorer l'expérience de navigation.
 * Gestion des communications de données à caractère personnel aux fournisseurs et/ou collaborateurs recrutés de manière complémentaire.
 * Gestion des situations d'urgence, des catastrophes ou, en général, des cas de force majeure.
 * Gestion de sites internet, application, réseaux sociaux et blog.
 * Gestion de la sécurité des vols.
 * Gestion et prévention de la fraude et respect des obligations légales.
+* Gestion de votre demande de localisation d'un objet perdu dans les installations d'AIR EUROPA.
 
 #### 
 
@@ -133,8 +135,9 @@ Le règlement sur la **protection des données (article 6 RGPD)** prévoit des c
 * Pour l'envoi de communications commerciales, lorsque le client s'abonne au programme de fidélité AIR EUROPA SUMA.
 * Pour effectuer des cessions de données personnelles à certains de nos fournisseurs et/ou collaborateurs.
 * Pour traiter des données sensibles (santé, croyances ou informations biométriques) fournies par le client et/ou le passager.
-* Pour accepter les cookies et d'autres outils sur le site internet.
+* Pour accepter les cookies et autres technologies et outils similaires sur le site web.
 * Pour interagir sur nos réseaux sociaux ou blog, y compris s'abonner à la newsletter.
+* Pour gérer votre demande de localisation et d'envoi d'un objet perdu dans les locaux d'AIR EUROPA, en remplissant le formulaire web du fournisseur FOUNDSPOT S.L.
 
 Refuser de fournir les données à caractère personnel demandées ou refuser la présente **Politique de confidentialité** implique l'impossibilité de s'abonner et de profiter des services que nous proposons.
 
@@ -152,7 +155,7 @@ Destinataires
 
 1.  AIR EUROPA collabore avec des entreprises du groupe d'entreprises auquel elle appartient (Air Europa Líneas Aéreas, S.A.U. ; Air Europa Holding, S.L.U.; Air Europa Suma Miles, S.L.U.; Aeronova, S.L.U), ainsi qu'avec certains tiers prestataires de services qui ont accès à vos données à caractère personnel et qui traitent lesdites données au nom et pour le compte d'AIR EUROPA dans le cadre de leur prestation de services (chargés du traitement).  
       
-    De manière concrète, principalement mais pas uniquement, lesdits prestataires offrent leurs services dans les secteurs suivants : services de logistique/manutention (assistance bagages et passagers, opérations sur piste) ; agences de voyage ou métamoteurs (modifications des horaires de vol, annulations) ; compagnies aériennes (transbordement d'un vol d'Air Europa à un autre opérateur pour une compagnie aérienne différente) ; conseils juridiques (défendre nos intérêts légitimes dans le cadre d'actions et de procédures légales, administratives, judiciaires ou extrajudiciaires) ; compagnies d'assurance, agents intermédiaires, mais aussi experts (incidents) ; entreprises de services technologiques (tout ce qui concerne les IT) ; entreprises de sécurité physique et opérationnelle (agents aéroportuaires) ; entreprise de sécurité aéroportuaire (contrôles) ; entreprises de services de centre d'appel (service client) ; entreprises de services professionnels multidisciplinaires ; entreprises liées à la maintenance ; ainsi que les entreprises du groupe d'entreprises indiquées ou les entreprises de prévention de la fraude (achat de billets sur Internet, traitement des paiements, passerelle de paiement).   
+    De manière concrète, principalement mais pas uniquement, lesdits prestataires offrent leurs services dans les secteurs suivants : services de logistique/manutention (assistance bagages et passagers, opérations sur piste) ; agences de voyage ou métamoteurs (modifications des horaires de vol, annulations) ; compagnies aériennes (transbordement d'un vol d'Air Europa à un autre opérateur pour une compagnie aérienne différente) ; conseils juridiques (défendre nos intérêts légitimes dans le cadre d'actions et de procédures légales, administratives, judiciaires ou extrajudiciaires) ; compagnies d'assurance, agents intermédiaires, mais aussi experts (incidents) ; entreprises de services technologiques (tout ce qui concerne les IT, suivi des sites Web/App) ; entreprises de sécurité physique et opérationnelle (agents aéroportuaires) ; entreprise de sécurité aéroportuaire (contrôles) ; entreprises de services de centre d'appel (service client) ; entreprises de services professionnels multidisciplinaires ; entreprises liées à la maintenance ; ainsi que les entreprises du groupe d'entreprises indiquées ou les entreprises de prévention de la fraude (achat de billets sur Internet, traitement des paiements, passerelle de paiement).   
      
 2. Nous fournirons vos données à caractère personnel en réponse aux demandes d'informations (obligation légale) des organismes de sécurité de l'État (protection de nos droits, de nos biens ou de la sécurité de nos passagers, employés et actifs) ; juges ou tribunaux (défendre nos intérêts légitimes) ; autorités sanitaires (enquêtes sur les infections éventuelles à bord, afin de détecter les contacts éventuels avec des personnes infectées et d'endiguer la propagation des maladies), ou toute autre administration publique ou autorité espagnole ou autre.  
      
@@ -241,11 +244,12 @@ Tableau des collaborateurs
 | En estos casos, y siempre que haya comprado el billete en la página web, en la aplicación, así como en el centro de atención telefónica o en las oficinas de los distintos aeropuertos, Amadeus actúa como responsable de tratamiento, por lo que Air Europa le cederá sus datos personales para poder proporcionar el servicio. |
 | Sherpa | [https://www.joinsherpa.com/legal/privacy-policy](https://www.joinsherpa.com/legal/privacy-policy) | Información y gestión de la documentación requerida para viajar. | N/A |
 | Bag on Board | [https://bob.io/politica-de-privacidad/](https://bob.io/politica-de-privacidad/) | Gestión del equipaje | N/A |
+| FOUNDSPOT, S.L. | [https://www.foundspot.com/es/politica-privacidad/](https://www.foundspot.com/es/politica-privacidad/) | Entidad contratada para facilitar la búsqueda de objetos extraviados. | N/A |
 
 Révisions précédentes de la politique de confidentialité
 
 [Politique de confidentialité jusqu'à juillet 2022](https://www.aireuropa.com/fr/fr/aea/informations-pour-voler/conditions/politique-de-confidentialite/politique-de-confidentialite-2022.html)
 
-Formulario de derechos
+ Formulaire de droits
 
-[Haznos llegar tu comentario a través de nuestros formularios](https://www.aireuropa.com/fr/FR/privacy-policy-form)
+[Envoyez-nous vos commentaires via nos formulaires](https://www.aireuropa.com/fr/FR/privacy-policy-form)
