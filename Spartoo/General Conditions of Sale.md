@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 19/05/2023  
+Mise à jour le 06/06/2023  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -134,6 +134,30 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
 * Paiement par Bancontact/Mistercash (Belgique)  
     Le paiement se fait en ligne, en indiquant votre numéro de carte et sa date d’expiration dans la fenêtre dédié Bancontact/Mistercash. Ensuite, le Client n’a plus qu’à suivre les instructions pour sécuriser son paiement. Ainsi, les informations financières du Client ne sont jamais communiquées à SPARTOO.
   
+  
+* Paiement par Klarna  
+    Le paiement peut se faire par Klarna. Klarna est un fournisseur de services, offrant au client un service de crédit pour ses achats. Klarna propose un paiement en trois fois sans frais.  
+      
+    Ce mode de paiement permet au client de répartir le paiement de ses achats sur 3 versements. Ainsi, les paiements sont automatiquement prélevés sur la carte de débit/crédit enregistrée par le client jusqu’à ce que la totalité du montant de la commande soit payée. Le premier paiement sera prélevé lors de la passation de la commande. Les deux autres paiements seront prélevés tous les 30 jours, une fois le premier paiement réalisé.  
+      
+    Si le Client effectue un retour dans les 14 jours suivant l’achat, le montant du premier prélèvement lui est remboursé et les deux prélèvements suivants sont annulés.  
+    Ce mode de paiement est disponible uniquement en ligne et pour les commandes d’un montant minimum de 35€ et d’un montant maximum de 1 500€.  
+      
+    Une fois le mode de paiement par Klarna sélectionné, un échéancier des prélèvements apparait. Le Client devra alors accepter les conditions générales d’utilisation ainsi que l’avis de confidentialité et la politique d’utilisation de cookies de Klarna.  
+      
+    Le Client devra ensuite confirmer son numéro de téléphone. Un code de vérification lui sera envoyé sur ce numéro. Le Client devra inscrire le code de vérification dans l’encadré prévu  
+    à cet effet.  
+      
+    Le Client devra par la suite confirmer son adresse électronique puis compléter les informations demandées afin de créer un compte Klarna.  
+      
+    Une fois le compte Klarna créé, le Client doit rentrer les coordonnées de sa carte bancaire sur ce compte afin de procéder au paiement de la commande. **Afin que la carte bancaire soit prise en compte, le pays dans lequel la carte bancaire du client a été émise doit correspondre au pays du site internet sur lequel la commande est effectuée.**  
+      
+    Une fois le paiement effectué, le client reçoit un mail de confirmation de Klarna et un mail de confirmation de Spartoo. Le Client peut suivre les paiements effectués et l’échéancier des paiements via l’application KLARNA.  
+      
+    Pour toutes questions supplémentaires, le service client de Klarna est à la disposition du Client.  
+      
+      
+    
 
 ### 7.3 : Défaut de paiement
 
