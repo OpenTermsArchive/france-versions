@@ -138,7 +138,7 @@ L'offre de paiement report est réservée aux clients membres du club Vertbaudet
 
 Vous pouvez vérifier votre éligibilité lorsque vous passez votre commande, au moment du choix du paiement.
 
-Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de pré-autorisation. Celle-ci est conservée par notre partenaire INGERICO jusqu'à la date du débit sur votre compte.
+Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de pré-autorisation. Celle-ci est conservée par notre partenaire INGENICO jusqu'à la date du débit sur votre compte.
 
 Effectuer un règlement en différé peut entraîner des risques d'incidents de paiement. Il vous faudra toujours veiller à avoir les fonds suffisants lors du débit.
 
