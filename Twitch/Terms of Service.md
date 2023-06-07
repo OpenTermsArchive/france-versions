@@ -187,7 +187,7 @@ Pour les résidents de l'Union européenne ou de l'Espace économique européen,
 
 #### **11\. Diffusion en simultané**
 
-Lorsque vous streamez live sur les Services Twitch, vous ne pouvez pas streamer live et diffuser en simultané (« Diffusion en simultané ») en même temps sur tout autre « Service similaire à Twitch », c'est-à-dire tout réseau, plateforme ou service Web qui prend en charge le streaming live de contenus générés par l'utilisateur, sans l'autorisation écrite préalable de Twitch. Pour plus de clarté, vous ne pouvez pas Diffuser en simultané sur les services mobile-first qui prennent en charge le streaming live. Cet article ne s'applique pas aux entités à but non lucratif ou gouvernementales qui effectuent un streaming live à des fins non commerciales.
+Lorsque vous streamez live sur les Services Twitch, vous ne pouvez pas streamer live et diffuser en simultané (« Diffusion en simultané ») en même temps sur tout autre « Service similaire à Twitch », c'est-à-dire tout réseau, plateforme ou service Web qui prend en charge le streaming live de contenus générés par l'utilisateur, sans l'autorisation écrite préalable de Twitch. Pour plus de clarté, vous pouvez diffuser en simultané sur les services mobile-first qui prennent en charge le streaming live. Cet article ne s'applique pas aux entités à but non lucratif ou gouvernementales qui effectuent un streaming live à des fins non commerciales.
 
 #### **12\. Publicités**
 
