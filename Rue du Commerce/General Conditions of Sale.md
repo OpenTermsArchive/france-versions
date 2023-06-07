@@ -71,7 +71,7 @@ Pour les produits non stockés dans nos entrepôts, nos offres sont valables sou
 
 Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous avertirons par email dès réception des informations transmises par les fournisseurs.
 
-A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'insponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
+A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'indisponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
 
 ### 2.2 L'identification des produits : les informations fournies ?
 
@@ -385,7 +385,7 @@ Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le
 
 Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais.
 
-Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulataire retour disponible dans votre espace client.
+Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulaire retour disponible dans votre espace client.
 
 La prise en compte de votre demande de retour sera alors confirmé par mail avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement).  
   
@@ -792,11 +792,11 @@ En passant commande sur le site et en acceptant les conditions générales de ve
 
 Veuillez noter que pour ces avis :  
   
-\- Aucune contrepartie na été fournie en échange des avis ;  
+\- Aucune contrepartie n'a été fournie en échange des avis ;  
   
 \- Les avis sont publiés et conservés pendant une durée de cinq ans ;  
   
-\- Les avis publiés font l’objet dune modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
+\- Les avis publiés font l’objet d'une modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
   
 \- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
@@ -928,7 +928,7 @@ Pour les produits non stockés dans nos entrepôts, nos offres sont valables sou
 
 Dans l'éventualité d'une indisponibilité de produits non stockés après passation de votre commande, nous vous avertirons par email dès réception des informations transmises par les fournisseurs.
 
-A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'insponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
+A moins que vous ne désiriez une solution de remplacement pour un produit équivalent, votre commande indisponible pourra être annulée sur simple demande de votre part depuis votre espace client et vous serez remboursé(e)s si votre compte bancaire a été débité. Rue du Commerce se réserve le droit de procéder également à l'annulation totale ou partielle de la commande en cas d'indisponibilité d'un ou plusieurs produits. Vous serez alors averti par email de cette annulation.
 
 ### 2.2 L'identification des produits : les informations fournies ?
 
@@ -1242,7 +1242,7 @@ Nous vous rappelons que conformément à l'article 1302-1 du Code civil, dans le
 
 Nous mettrons tout en œuvre afin de régulariser le problème que vous rencontrerez dans les meilleurs délais.
 
-Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulataire retour disponible dans votre espace client.
+Pour garantir un meilleur traitement du retour, l'efficacité du diagnostic et la rapidité de l'intervention des fabricants, une demande de retour devra être faite directement en indiquant les motifs de retour via notre formulaire retour disponible dans votre espace client.
 
 La prise en compte de votre demande de retour sera alors confirmé par mail avec l'éventuel envoi d'une étiquette prépayée à joindre (en cas d'erreur ou de non-conformité uniquement).  
   
@@ -1649,11 +1649,11 @@ En passant commande sur le site et en acceptant les conditions générales de ve
 
 Veuillez noter que pour ces avis :  
   
-\- Aucune contrepartie na été fournie en échange des avis ;  
+\- Aucune contrepartie n'a été fournie en échange des avis ;  
   
 \- Les avis sont publiés et conservés pendant une durée de cinq ans ;  
   
-\- Les avis publiés font l’objet dune modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
+\- Les avis publiés font l’objet d'une modération depuis la plateforme Avis Vérifiés labellisée AFNOR garantissant l’authenticité et la transparence des avis publiés (positifs ou négatifs) ;  
   
 \- Les avis ne sont pas modifiables : si un client souhaite modifier son avis, il doit contacter notre partenaire Avis Vérifiés afin de supprimer l’avis existant, et en publier un nouveau.
 
