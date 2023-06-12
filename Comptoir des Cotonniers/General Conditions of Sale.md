@@ -118,7 +118,9 @@ Le Client dispose d’un droit de rétractation de quatorze (14) jours suivant l
 Toute rétractation de commande doit être notifiée par tous moyens et notamment :  
   
 \- par téléphone au 09 69 39 29 97 (depuis la France) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00,  
-**7.2 Modalités de retour**
+\- soit en utilisant le formulaire-type de rétractation en cliquant sur le lien [ici](https://www.comptoirdescotonniers.com/on/demandware.store/Sites-CDC-FR-Site/fr_FR/Page-CGV)  
+  
+Votre formulaire de rétractation est à renvoyer selon les modalités prévues dans le formulaire. **7.2 Modalités de retour**
 
 Après avoir notifié Comptoir des Cotonniers de sa rétractation, le Client doit retourner les produits concernés dans un délai maximum de 14 jours à compter de cette notification, accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’étiquette prépayée disponible dans l’espace « Suivi de commandes ».  
   
