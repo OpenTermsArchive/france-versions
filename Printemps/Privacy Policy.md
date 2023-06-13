@@ -358,6 +358,20 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
   
 
+Quelles données à caractère personnel pouvons-nous traiter ?
+------------------------------------------------------------
+
+* Civilité, nom, prénom
+* Adresses email et postale
+* Numéro de téléphone
+* Type d'évènement / Nom de l’expérience
+* Liste des participations
+* Relevés de compte (participations, achats, versements, virements participations, remboursements)
+* Solde du compte
+* Les données relatives à l'approbation ou au refus de prospection commerciale par mail
+
+  
+
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
