@@ -219,7 +219,7 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 3.99 € si inférieur à 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
+| 5.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 4.99 € si inférieur à 40 € d'achats  <br>3.99 € entre 40 € et 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
 
   
 
@@ -229,7 +229,9 @@ Coût de la livraison : 7.99 €
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-Coût de la livraison : 4.99 €
+Coût de la livraison :  
+\- 4.99 € si inférieur à 30€ d'achats  
+\- 3,99€ à partir de 30€ d'achats  
 
   
 9.2.Belgique  
@@ -255,7 +257,7 @@ Coût de la livraison : 7.99 €
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
-Coût de la livraison : 10.99 €
+Coût de la livraison : 15.99 €
 
   
 9.3.Luxembourg  
@@ -308,10 +310,19 @@ Coût de la livraison:
 
 Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client (cf point 6).  
   
-**Livraison à domicile standard :**  
+**Livraison à domicile par PostPac Eco :**  
 Délai : 5 jours environ.  
-Coût de la livraison si la commande est inférieur à 30 € : 2.99€  
-Coût de la livraison si la commande est supérieur à 30 € : gratuite  
+Pour les produits dont le prix est barré (Soldes, Bons plans, ...) :  
+\- 2,99 CHF si la commande est inférieur à 30 €  
+\- Gratuit si la commande est supérieur à 30 €  
+  
+Pour les produits dont le prix n'est pas barré :  
+\- 2,99 CHF si inférieur à 30€ d'achats  
+\- Gratuit à partir de 30 € d'achats  
+  
+**Livraison à domicile par PostPac Prio Express :**  
+Délai : 1 jours ouvré  
+Prix : 7,99 CHF  
   
 
   
