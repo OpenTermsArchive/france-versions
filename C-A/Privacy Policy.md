@@ -310,6 +310,16 @@ Nous avons recours à l’outil Contentsquare fourni par Content Square Ltd, [16
 
 Pour obtenir de plus amples informations relatives à Contentsquare et à sa politique de confidentialité, veuillez vous rendre sur le [Centre de protection](https://contentsquare.com/privacy-center/) des données de Contentsquare où vous trouverez sa [politique de confidentialité](https://contentsquare.com/privacy-policy/) ainsi [qu’une page sur les “10 points à connaître”](https://contentsquare.com/privacy-center/10-things-to-know-cs-data-processing/) en matière de confidentialité.
 
+#### 5.5 mParticle
+
+Nous avons également recours au service d’analyse de site web de mParticle Inc, 257 Park Avenue South Floor 9, New York, NY 10010, USA. Nous tenons toutefois compte de votre vie privée, car la plateforme de données client reçoit uniquement les données que vous avez partagées avec nous. Si vous utilisez notre e-shop en tant qu’invité.e, vos données à caractère personnel sont uniquement traitées sur la base de données réduites (p. ex., adresse e-mail) ou de données complètement anonymes.
+
+Nous enregistrons sur la plateforme de données client de mParticle des informations relatives aux préférences en fonction des habitudes de navigation sur nos e-shops et/ou des achats dans nos magasins. Nous enregistrons également les consentements dont nous avons connaissance (p. ex., un accord, des cookies ou l’abonnement à la newsletter). Nous souhaitons avec ces données vous proposer une expérience d’achat améliorée ainsi que de meilleurs services.
+
+Vous trouverez de plus amples informations sur mParticle et sur la politique de confidentialité associée ici : [https://www.mparticle.com/privacypolicy/](https://www.mparticle.com/privacypolicy/)
+
+Le régime juridique du présent traitement des données est l'article 6, alinéa 1, lettre a) du RGPD (votre consentement).
+
 ### 6 Publicité en ligne
 
 Nous utilisons différents réseaux publicitaires partenaires en association avec l’e-shop C&A pour pouvoir vous proposer de la publicité en rapport avec vos centres d’intérêt, y compris sur des sites Web externes. Pour cela, nous avons intégré différentes technologies dans notre e-shop C&A qui permettent une reconnaissance (p. ex., un cookie installé et reconnu ensuite lors d’une consultation de la boutique). Dans ce cadre, nous ne transmettons à aucun moment de données à nos partenaires leur permettant de vous identifier directement. Les partenaires ne reçoivent donc aucun nom ou aucune coordonnée, mais uniquement certains identifiants permettant une nouvelle approche. Cela nous permet, ainsi qu’à nos partenaires, d’afficher de la publicité qui repose sur notre estimation de vos centres d’intérêt. Vous voyez donc aussi sur les sites Web de notre réseau de partenaires de la publicité pour des produits ou des catégories de produits auxquels vous vous êtes intéressé dans notre boutique ou dont nous pensons qu’ils pourraient vous intéresser. 
