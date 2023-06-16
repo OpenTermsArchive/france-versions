@@ -1,363 +1,363 @@
-Contrat d’Utilisation de Reddit
-===============================
+Acuerdo de Usuario de Reddit
+============================
 
 Effectif depuis le 19 juin 2023. Relu le 18 avril 2023
 
-****Reddit alimente des centaines de milliers de communautés différentes en lignes. Ces conditions d’utilisation et votre conduite rendent cela possible.****
+**R**eddit hace funcionar a cientos de miles de comunidades de Internet distintas. Este Acuerdo del usuario y tu comportamiento hacen que eso sea posible.****
 
-* Si vous vivez en dehors de l’Espace Économique Européen (« **EEE** »), le Royaume-Uni ou la Suisse, vos conditions sont [ici](#US).
-* Si vous vivez dans l’EEE, le Royaume-Uni ou la Suisse, vos conditions sont [ici](#EEA).
+* Si resides fuera del Espacio Económico Europeo ("**EEE**"), del Reino Unido o de Suiza, puedes encontrar tus términos [aquí](#US).
+* Si resides dentro del Espacio Económico Europeo, del Reino Unido o de Suiza, puedes encontrar tus términos [aquí](#EEA).
 
-  
-
-* * *
-
-  
-
-### Contrat d’Utilisation de Reddit si vous vivez en dehors de l’EEE, du Royaume-Uni ou de la Suisse, y compris si vous vivez aux États-Unis
-
-Bonjour aux utilisateurs de Reddit et aux internautes ! Le présent Contrat d’Utilisation de Reddit (« **Conditions** ») s’applique à votre accès et votre utilisation des sites internet, applications mobiles, widgets, API, courriels et autres produits et services en ligne (ensemble, les « **Services** ») fournis par Reddit, Inc. (« **Reddit** », « **nous** », « **notre** », ou « **nos** »).  
-  
-N’oubliez pas que Reddit est un espace ludique et qui a pour objectif votre divertissement, mais nous avons tout de même besoin de quelques règles élémentaires. En accédant à nos Services ou en les utilisant, vous acceptez d’être lié par les présentes Conditions. Si vous n’acceptez pas les présentes Conditions, vous ne pouvez pas accéder à nos Services ni les utiliser.  
-
-**1\. Votre accès aux Services**
-
-Les moins de 13 ans ne sont pas autorisés à utiliser les Services ni à y accéder. Nous pouvons proposer des Services supplémentaires qui nécessitent que vous soyez plus âgé pour les utiliser, veuillez donc lire attentivement tous les avis et toutes les Conditions Supplémentaires lorsque vous accédez aux Services.  
-  
-En utilisant les Services, vous déclarez que :
-
-* Vous êtes âgé d’au moins 13 ans et avez dépassé l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
-* Vous pouvez conclure un contrat contraignant avec Reddit, ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepte les présentes Conditions ;
-* Il ne vous est pas interdit d’utiliser les Services en vertu de toutes les lois applicables ; et
-* Vous n’avez pas été suspendu ou retiré définitivement des Services.
-
-Si vous acceptez les présentes Conditions pour le compte d’une autre entité juridique, y compris une entreprise ou une entité gouvernementale, vous déclarez que vous disposez de l'autorité légale pour lier cette entité aux présentes Conditions.
-
-**2\. Confidentialité**
-
-La [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy) de Reddit explique la manière dont et les raisons pour lesquelles nous collectons, utilisons et partageons des informations vous concernant lorsque vous accédez à nos Services ou que vous les utilisez. Vous comprenez que par votre utilisation des Services, vous consentez à la collecte et à l’utilisation de ces informations comme indiqué dans la [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy).  
-
-**3\. Votre utilisation des Services**
-
-Sous réserve de votre respect complet et ininterrompu des présentes Conditions, Reddit vous accorde une licence personnelle, non transférable, non exclusive, révocable et limitée pour : (a) installer et utiliser une copie de notre application mobile associée aux Services, obtenue sur une place de marché légitime, sur un appareil mobile dont vous êtes propriétaire ou que vous contrôlez ; et (b) accéder aux Services et les utiliser. Nous nous réservons tous les droits qui ne vous sont pas expressément accordés par les présentes Conditions.  
-  
-Sauf et uniquement dans la mesure où une telle restriction est illicite en vertu de la loi applicable, vous ne pouvez pas, sans notre accord écrit :
-
-* concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
-* modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
-* accéder aux Services ou au Contenu afin de construire un site Internet, un produit ou un service similaire ou concurrentiel, sauf dans les cas autorisés ci-dessous
-
-Nous améliorons constamment nos Services. Cela signifie que nous pouvons ajouter ou retirer des caractéristiques, des produits ou des fonctionnalités ; nous nous efforcerons de vous en informer au préalable, mais cela ne sera pas toujours possible. Nous nous réservons le droit de modifier, suspendre ou interrompre les Services (en tout ou en partie) à tout moment, avec ou sans préavis. Tout(e) version, mise à jour ou autre ajout de fonctionnalité futur(e) des Services sera soumis(e) aux présentes Conditions, qui pourront être mises à jour occasionnellement. Vous acceptez que nous ne serons pas responsables envers vous ou envers tout tiers de toute modification, suspension ou interruption des Services ou de toute partie de ceux-ci.
-
-**4\. Votre Compte Reddit et sa Sécurité**
-
-Pour utiliser certaines fonctionnalités de nos Services, il peut vous être demandé de créer un compte Reddit (un « **Compte** ») et de nous fournir un nom d’utilisateur, un mot de passe et certaines autres informations vous concernant, comme indiqué dans la [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy).  
-  
-Vous êtes seul responsable des informations associées à votre Compte et de tout ce qui se passe en relation avec votre Compte. Vous devez veiller à la sécurité de votre Compte et immédiatement [notifier Reddit](https://www.reddithelp.com/en/submit-request) si vous découvrez ou soupçonnez que quelqu’un a accédé à votre Compte sans votre permission. Nous vous recommandons d’utiliser un mot de passe fort qui n’est utilisé qu’avec votre Compte et d’[activer l’authentification à deux facteurs](https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication).  
-  
-Vous ne pourrez pas accorder de licence, vendre ou transférer votre Compte sans notre accord écrit préalable.
-
-**5\. Votre Contenu**
-
-Les Services peuvent contenir des informations, des textes, des liens, des graphiques, des photos, des vidéos, des sons, des flux ou d’autres éléments (le (« **Contenu** »), y compris le Contenu créé ou soumis aux Services par vous ou par l’intermédiaire de votre compte (« **Votre Contenu** »). Nous n’assumons aucune responsabilité et nous n'approuvons, ne soutenons ni ne garantissons, expressément ou implicitement, l’exhaustivité, la véracité, l’exactitude ou la fiabilité de Votre Contenu.  
-  
-En soumettant Votre Contenu aux Services, vous déclarez et garantissez que vous disposez de tous les droits, pouvoirs et autorités nécessaires pour accorder les droits sur Votre Contenu précisés dans les présentes Conditions. Étant donné que vous êtes seul responsable de Votre Contenu, vous pouvez engager votre responsabilité si vous publiez ou partagez un Contenu sans en détenir tous les droits nécessaires.  
-  
-Vous conservez tous les droits de propriété que vous possédez sur Votre Contenu, mais vous accordez à Reddit la licence suivante pour utiliser ce Contenu :  
-  
-Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre Contenu et tout nom, nom d’utilisateur, voix ou image fournis en relation avec Votre Contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre Contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre Contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre Contenu.  
-  
-Toutes idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.  
-  
-Bien que nous n’ayons aucune obligation de filtrer, modifier ou surveiller Votre Contenu, nous pouvons, à notre seule appréciation, supprimer ou retirer Votre Contenu à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de violation de notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy) ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité pour nous.
-
-**6\. Contenu de Tiers, Publicités et Promotions**
-
-Les Services peuvent contenir des liens vers des sites Internet, des produits ou des services de tiers, qui peuvent être publiés par des annonceurs, nos sociétés affiliées, nos partenaires ou d’autres utilisateurs (le « **Contenu de Tiers** »). Le Contenu de Tiers n’est pas sous notre contrôle et nous ne sommes pas responsables des sites Internet, produits ou services de tout tiers. Votre utilisation du Contenu de Tiers est à vos propres risques et vous devez effectuer toutes les recherches que vous jugez nécessaires avant de procéder à toute transaction en rapport avec ce Contenu de Tiers.  
-  
-Les Services peuvent également contenir du Contenu de Tiers sponsorisé ou des publicités sponsorisées. Le type, le degré et le ciblage des publicités sont susceptibles d’être modifiés et vous reconnaissez et acceptez que nous puissions placer des publicités en relation avec l’affichage de tout Contenu ou information sur les Services, y compris Votre Contenu.  
-  
-Si vous choisissez d’utiliser les Services pour mener une promotion, y compris un concours ou une loterie (une « **Promotion** »), vous êtes seul responsable de la conduite de la Promotion dans le respect de toutes les lois et réglementations applicables, y compris, notamment, la création de règles officielles, les conditions de l’offre, les exigences d’admissibilité et la conformité aux lois, règles et réglementations applicables qui régissent la Promotion (telles que les licences, les enregistrements, les obligations et les autorisations réglementaires). Votre Promotion doit indiquer qu’elle n’est pas parrainée par, approuvée par ou associée à Reddit., et les règles de votre Promotion doivent exiger que chaque participant dégage Reddit de toute responsabilité liée à la Promotion. Vous reconnaissez et convenez que nous ne vous aiderons en aucune façon dans le cadre de votre Promotion et vous acceptez de mener votre Promotion à vos propres risques.
-
-**7\. Ce que vous ne pouvez pas faire**
-
-Lorsque vous utilisez Reddit ou que vous y accédez, vous devez vous conformer aux présentes Conditions et à toutes les lois, règles et réglementations applicables. Veuillez consulter la [Politique de Contenu](https://www.redditinc.com/policies/content-policy), qui sont incorporées aux présentes Conditions par le présent renvoi et en font partie intégrante, et qui contiennent les règles de Reddit concernant les contenus et les comportements interdits. En sus de ce qui est interdit dans la [Politique de Contenu](https://www.redditinc.com/policies/content-policy), ous n’êtes pas autorisé à faire ce qui suit :
-
-* Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d'altérer de quelque manière que ce soit les Services ;
-* Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
-* Télécharger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctions en lien avec la sécurité ;
-* Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
-* Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition l’autorisation d’explorer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (scraping) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
-* Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l'égard de Reddit ou de tout système de paiement.
-
-Nous vous encourageons à [signaler](https://reddit.zendesk.com/hc/en-us/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).
-
-**8\. Modérateurs**
-
-La modération d’un subreddit est une fonction non officielle et volontaire qui peut être proposée aux utilisateurs des Services. Nous ne sommes pas responsables des mesures prises par les modérateurs. Nous nous réservons le droit d’annuler ou de limiter la capacité d’un utilisateur à modérer à tout moment et pour quelque raison que ce soit ou sans raison, y compris en cas de violation des présentes Conditions.  
-  
-Si vous choisissez de modérer un subreddit :
-
-* Vous vous engagez à suivre le [Code de conduite de la modération](https://www.redditinc.com/policies/moderator-code-of-conduct) (Moderator Code of Conduct) ;
-* Vous convenez que, lorsque vous recevez des signalements relatifs à un subreddit que vous modérez, vous prendrez les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou sa transmission rapide à Reddit pour examen ;
-* Vous n’êtes pas, et ne pouvez pas déclarer que vous êtes, autorisé à agir pour le compte de Reddit ;
-* Vous ne pouvez pas conclure d’accord avec un tiers pour le compte de Reddit, ou de tout subreddit que vous modérez, sans notre approbation écrite ;
-* Vous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
-* Si vous avez accès à des informations non publiques suite à la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de votre action en tant que modérateur ; et
-* Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de Contenu](https://www.redditinc.com/policies/content-policy), ou le [Code de conduite de la modération](https://www.redditinc.com/policies/moderator-code-of-conduct) (Moderator Code of Conduct)[](https://www.reddit.com/help/healthycommunities/).
-
-Reddit se réserve le droit, sans y être tenue, d’annuler toute action ou décision d’un modérateur si Reddit estime, à sa seule appréciation, que cette action ou décision n’est pas dans l’intérêt de Reddit ou de la communauté Reddit.
-
-**9\. Droits d’auteur, Marques, DMCA et Retraits**
-
-Reddit respecte la propriété intellectuelle d’autrui et exige que les utilisateurs de ses Services fassent de même. Nous avons mis en place une politique qui prévoit le retrait des Services de tout élément contrevenant ainsi que la suppression, dans des circonstances appropriées, d’utilisateurs de nos Services qui sont des contrevenants récidivistes. Si vous pensez que tout élément de nos Services enfreint un droit d’auteur ou une marque dont vous êtes propriétaire ou que vous contrôlez, vous pouvez en informer l’Agent Désigné de Reddit en remplissant notre [Formulaire de Signalement relatif aux Droits d’Auteur](https://www.reddithelp.com/en/submit-request/copyright-infringement-dmca) ou notre [Formulaire de Signalement relatif aux Marques](https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=106573), ou en contactant :  
-  
-Agent en matière de Droits d’Auteur  
-Reddit, Inc.  
-1455 Market Street, Suite 1600  
-San Francisco, CA 94103  
-[copyright@reddit.com](mailto:copyright@reddit.com)  
-  
-Veuillez également noter que si vous faites sciemment une fausse déclaration indiquant qu’une activité ou un élément de nos Services est contrevenant, vous pouvez être redevable de certains coûts et dommages à Reddit.  
-  
-Si nous supprimons Votre Contenu en réponse à une notification de violation de droits d’auteur ou d’une marque, nous vous en informerons via le système de messagerie privée de Reddit. Si vous pensez que Votre Contenu a été retiré à tort en raison d’une erreur ou d’une mauvaise identification dans un avis de droits d’auteur, vous pouvez envoyer une notification de contestation via notre [Formulaire de Contre-notification de Droits d’Auteur](https://www.reddithelp.com/en/submit-request/copyright-counter-notice) ou à notre Agent en matière de Droits d’Auteur (coordonnées fournies ci-dessus). Veuillez consulter l’article [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) pour connaître les conditions d’une contre-notification correcte.
-
-**10\. Services Payants et Informations de Paiement**
-
-L’utilisation de nombreux aspects des Services est gratuite. Cependant, certains services, y compris Reddit Premium et les Biens Virtuels, peuvent être disponibles à l’achat (les « **Services Payants** »). En sus des présentes Conditions, en achetant ou en utilisant Reddit Premium ou nos Biens Virtuels, vous acceptez également le [Contrat Reddit Premium et Biens Virtuels](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).  
-  
-Reddit pourra modifier les frais ou les avantages associés aux Services Payants occasionnellement, moyennant un préavis raisonnable en cas de changements importants ; il est, toutefois, précisé qu’aucun préavis ne sera requis pour les promotions temporaires, y compris les réductions temporaires des frais associés aux Services Payants. Nonobstant ce qui précède, toute modification des prix ou de vos régimes d’abonnement s’appliquera au plus tôt 30 jours après la notification qui vous sera adressée.  
-  
-Vous pouvez soumettre votre carte de débit, votre carte de crédit ou d’autres informations de paiement (les « **Informations de Paiement** ») via nos Services pour acheter les Services Payants. Nous faisons appel à des prestataires de services tiers pour traiter vos Informations de Paiement. Si vous soumettez vos Informations de Paiement, vous acceptez de payer tous les frais que vous engagez et vous nous autorisez à vous facturer, à l’échéance du paiement, un montant comprenant ces frais et toutes les taxes et redevances applicables. Toutes les transactions sont définitives et nous ne remboursons ni ne créditons les périodes de facturation partiellement utilisées.
-
-**11\. Propriété Intellectuelle**
-
-Les Services sont détenus et exploités par Reddit. Les interfaces visuelles, les graphiques, la conception, la compilation, les informations, les données, le code informatique, les produits, les services, les marques et tous les autres éléments des Services (les « **Éléments »**) fournis par Reddit sont protégés par les lois relatives à la propriété intellectuelle et d’autres lois. Tous les Éléments inclus dans les Services sont la propriété de Reddit ou de ses concédants de licence tiers. Vous reconnaissez et convenez que vous n’obtenez aucun droit de propriété, quel qu’il soit, en téléchargeant des Éléments ou en achetant Reddit Premium ou des Biens Virtuels. Sauf autorisation expresse de Reddit, et sous réserve des [Directives relatives aux Marques](https://www.redditinc.com/assets/press-resources/reddit_brand_guidelines_202009-3.pdf) de Reddit, vous ne pouvez pas utiliser les Éléments. Reddit se réserve tous les droits sur les Éléments qui ne sont pas expressément accordés dans les présentes Conditions.
-
-**12\. Indemnisation**
-
-Sauf dans la mesure où la loi l’interdit, vous acceptez de défendre, d'indemniser et de dégager Reddit, ses sociétés affiliées et leurs administrateurs, dirigeants, employés, sociétés affiliées, agents, contractuels, prestataires de services tiers et concédants de licence respectifs (les « **Entités Reddit** ») de toute responsabilité à l’égard de toute réclamation ou demande formulée par tout tiers, et de toute responsabilité, dommage, perte et dépense connexe (y compris les dépens et les honoraires d’avocat) dus à, découlant de ou en relation avec : (a) votre utilisation des Services, (b) votre violation des présentes Conditions, (c) votre violation des lois ou règlements applicables ou (d) Votre Contenu. Nous nous réservons le droit de contrôler la défense de toute affaire pour laquelle vous êtes tenu de nous indemniser et vous acceptez de coopérer avec notre défense de ces réclamations.
-
-**13\. Clause de non-responsabilité et Limitation de responsabilité**
-
-Aucune stipulation des présentes Conditions ne porte atteinte aux droits légaux que vous pouvez avoir en tant qu’utilisateur des Services. Certains pays, états, provinces ou autres juridictions n’autorisent pas l’exclusion de certaines garanties ou la limitation de responsabilité comme indiquées dans cette section, de sorte que les conditions ci-dessous peuvent ne pas vous être pleinement applicables. En revanche, dans ces juridictions, les exclusions et limitations ci-dessous ne s’appliquent que dans la mesure autorisée par les lois de ces juridictions.  
-  
-LES SERVICES SONT FOURNIS « EN L’ÉTAT » ET « EN FONCTION DE LEUR DISPONIBILITÉ » SANS DÉCLARATION, GARANTIE OU CONDITION D’AUCUNE SORTE, QU’ELLE SOIT EXPRESSE, IMPLICITE, LÉGALE OU STATUTAIRE, Y COMPRIS, NOTAMMENT, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, DE PROPRIÉTÉ, D’APTITUDE À UN USAGE DONNÉ ET D’ABSENCE DE CONTREFAÇON. LES ENTITÉS REDDIT NE GARANTISSENT PAS QUE LES SERVICES SOIENT EXACTS, COMPLETS, FIABLES, ACTUELS OU EXEMPTS D’ERREUR. REDDIT NE CONTRÔLE PAS, N’APPROUVE PAS ET N’ASSUME PAS LA RESPONSABILITÉ DE TOUT CONTENU DISPONIBLE SUR OU LIÉ AUX SERVICES OU DES ACTES DE TOUT TIERS OU UTILISATEUR, Y COMPRIS LES MODÉRATEURS. BIEN QUE REDDIT S’EFFORCE DE SÉCURISER VOTRE ACCÈS ET VOTRE UTILISATION DE NOS SERVICES, NOUS NE DÉCLARONS NI NE GARANTISSONS QUE NOS SERVICES OU SERVEURS SOIENT EXEMPTS DE VIRUS OU D’AUTRES ÉLÉMENTS NUISIBLES.  
-  
-LES ENTITÉS REDDIT NE SERONT EN AUCUN CAS RESPONSABLES ENVERS VOUS POUR TOUT DOMMAGE INDIRECT, CONSÉCUTIF, EXEMPLAIRE, ACCESSOIRE, SPÉCIAL OU PUNITIF, OU D’UN MANQUE À GAGNER DÉCOULANT DES PRÉSENTES CONDITIONS OU DES SERVICES OU S’Y RAPPORTANT, Y COMPRIS CEUX DÉCOULANT DU CONTENU MIS À DISPOSITION SUR LES SERVICES QUI EST PRÉSUMÉ ÊTRE DIFFAMATOIRE, INSULTANT OU ILLÉGAL OU S’Y RAPPORTANT. L’ACCÈS AUX SERVICES ET LEUR UTILISATION SE FONT À VOTRE APPRÉCIATION ET À VOS RISQUES, ET VOUS SEREZ SEUL RESPONSABLE DE TOUT DOMMAGE À VOTRE APPAREIL OU SYSTÈME INFORMATIQUE, OU DE TOUTE PERTE DE DONNÉES EN RÉSULTANT. LA RESPONSABILITÉ GLOBALE DES ENTITÉS REDDIT NE DÉPASSERA PAS, EN AUCUN CAS, LE PLUS ÉLEVÉ DES DEUX MONTANTS SUIVANTS : CENT DOLLARS AMÉRICAINS (100 $) OU TOUT MONTANT QUE VOUS AVEZ PAYÉ À REDDIT AU COURS DES SIX MOIS PRÉCÉDENTS POUR LES SERVICES DONNANT LIEU À LA RÉCLAMATION. LES LIMITATIONS DE CETTE SECTION S’APPLIQUERONT À TOUTE DOCTRINE DE RESPONSABILITÉ, Y COMPRIS CELLES FONDÉES SUR UNE GARANTIE, SUR LE CONTRAT, LES STATUTS, LES DÉLITS, LA NÉGLIGENCE, LA RESPONSABILITÉ SANS FAUTE OU AUTRE, MÊME SI LES ENTITÉS REDDIT ONT ÉTÉ INFORMÉES DE LA POSSIBILITÉ D’UN TEL DOMMAGE ET MÊME SI TOUT RECOURS EXERCÉ ÉNONCÉ DANS LES PRÉSENTES CONDITIONS S'AVÈRE AVOIR ÉCHOUÉ DANS SON OBJECTIF ESSENTIEL.
-
-**14\. Droit applicable et Compétence territoriale**
-
-Nous voulons que vous appréciiez Reddit, donc si vous avez un problème ou un litige, vous acceptez de le soulever et d’essayer de le résoudre avec nous de manière informelle. Vous pouvez nous contacter pour nous faire part de vos commentaires et de vos préoccupations [ici](https://www.reddithelp.com/en/submit-request).  
-  
-Dans toute la mesure autorisée par la loi applicable, toute réclamation découlant des présentes Conditions ou des Services ou s’y rapportant sera régie par les lois de l’État de Californie, sans recours à l’application de ses règles de conflit de lois ; tous les litiges liés aux présentes Conditions ou aux Services seront portés uniquement devant les tribunaux fédéraux ou d’État situés à San Francisco, en Californie, et vous vous soumettez, et Reddit se soumet, à la compétence personnelle de ces tribunaux.  
-  
-Si vous êtes une entité gouvernementale d’une ville, d’un comté ou d’un État des États-Unis, la présente Section 14 ne s'applique pas à vous. Si vous êtes une entité du gouvernement fédéral des États-Unis, toute réclamation découlant des présentes Conditions ou des Services ou s’y rapportant sera régie par les lois des États-Unis d’Amérique, sans recours à l’application de leurs règles de conflit de lois. Dans la mesure où la loi fédérale le permet, les lois de la Californie (autres que ses règles de conflit de lois) s’appliqueront en l’absence de loi fédérale applicable. Tous les litiges liés aux présentes Conditions ou aux Services seront portés uniquement devant les tribunaux fédéraux ou d’État situés à San Francisco, en Californie.
-
-**15\. Modifications des présentes Conditions**
-
-Nous pouvons apporter des modifications aux présentes Conditions à tout moment. Si nous apportons des modifications, nous publierons les Conditions révisées et mettrons à jour la Date d’Effet ci-dessus. Si les modifications, selon notre seule appréciation, sont importantes, nous vous en informerons en envoyant un courriel à l’adresse associée à votre Compte (si vous avez choisi de fournir une adresse électronique) ou en vous fournissant de toute autre manière une notification par le biais de nos Services au moins 30 jours avant la date à laquelle elles entrent en vigueur. En continuant à accéder aux Services ou à les utiliser à compter de la Date d’Effet des Conditions révisées, vous acceptez d’être lié par les Conditions révisées. Si vous n’acceptez pas les Conditions révisées, vous devez cesser d’accéder à nos Services et de les utiliser avant que les modifications ne prennent effet.
-
-**16\. Conditions Supplémentaires**
-
-Parce que nous offrons une variété de Services, il peut vous être demandé d’accepter des conditions, politiques, directives ou règles supplémentaires avant d’utiliser un produit ou service spécifique proposé par Reddit (collectivement, les « **Conditions Supplémentaires »**). Toutes les Conditions Supplémentaires sont incorporées aux présentes Conditions par le présent renvoi et en font partie intégrante. En cas de conflit entre les Conditions Supplémentaires et les présentes Conditions, les Conditions Supplémentaires prévalent en ce qui concerne votre utilisation des Services correspondants.
-
-* Si vous utilisez Reddit Premium ou des Biens Virtuels, vous devez également accepter le [Contrat Reddit Premium et Biens Virtuels](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
-* Si vous utilisez la plateforme en libre-service pour la publicité, vous devez également accepter les [Conditions de la Plateforme Publicitaire Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
-* Si vous utilisez un de nos Services dédiés au développement (y compris nos interfaces de programmation API), vous devez également accepter les [Conditions pour le développement sur Reddit](https://www.redditinc.com/policies/developer-terms) (Reddit Developer Terms).
-
-**17\. Résiliation**
-
-Vous pouvez résilier les présentes Conditions à tout moment et pour quelque raison que ce soit en supprimant votre Compte et en cessant d’utiliser tous les Services. Si vous cessez d’utiliser les Services sans désactiver votre Compte, votre Compte peut être désactivé en raison d’une inactivité prolongée.  
-  
-Dans toute la mesure autorisée par la loi applicable, nous pouvons suspendre ou résilier votre Compte, votre statut de modérateur ou votre capacité à accéder aux Services ou à les utiliser à tout moment, pour quelque raison que ce soit ou sans raison, y compris en cas de violation des présentes Conditions ou de notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy).  
-  
-Les clauses suivantes resteront en vigueur après la résiliation des présentes Conditions ou de votre Compte : 5 (Votre Contenu), 7 (Ce que vous ne pouvez pas faire), 12 (Indemnisation), 13 (Clauses de non-responsabilité et Limitation de responsabilité), 17 (Résiliation) et 18 (Stipulations diverses).
-
-**18\. Stipulations diverses**
-
-Les présentes Conditions, ainsi que la [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy) et tous autres accords expressément incorporés par renvoi dans les présentes Conditions, constituent l’intégralité de l’accord entre vous et nous concernant votre accès aux Services et leur utilisation. Le fait de ne pas exercer un droit ou de ne pas faire valoir une stipulation des présentes Conditions ne saurait valoir renonciation de notre part à ce droit ou à cette stipulation. Si une partie des présentes Conditions est jugée invalide ou inapplicable, la partie inapplicable sera appliquée dans toute la mesure du possible et les autres parties resteront pleinement en vigueur. Vous ne pouvez pas céder ou transférer les droits ou obligations découlant des présentes Conditions sans l’accord écrit préalable de Reddit. Nous pouvons, sans restriction, céder l’un de nos droits et obligations en vertu des présentes Conditions.  
-  
-Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions sur les présentes Conditions, veuillez [nous contacter](https://www.reddithelp.com/hc/en-us/requests/new).  
-  
-Reddit, Inc.  
-1455 Market Street, Suite 1600  
-San Francisco, CA 94103  
-États-Unis  
   
 
 * * *
 
 ###   
-Contrat d’Utilisation de Reddit si vous vivez dans l’EEE, au Royaume-Uni ou en Suisse
+Acuerdo de Usuario de Reddit si vives fuera del EEE, Reino Unido o Suiza, incluyendo si vives en los Estados Unidos
 
+¡Hola, redditors y gentes de Internet! Este Acuerdo de Usuario de Reddit ("**Términos**") se aplica a tu acceso y uso de los sitios web, aplicaciones móviles, widgets, API, correos electrónicos y otros productos y servicios en línea (denominados conjuntamente los "**Servicios**") proporcionados por Reddit, Inc. ("**Reddit**", "**nosotros**", "**nuestro**" o análogo).  
   
-Bonjour aux utilisateurs de Reddit et aux internautes ! Le présent Contrat d’Utilisation de Reddit (les « **Conditions** ») s’applique à votre accès et votre utilisation des sites internet, applications mobiles, widgets, API, courriels et autres produits et services en ligne (ensemble, les « Services ») fournis par Reddit, Inc. (« **Reddit** », « **nous** », « **notre** » ou « **nos** »).  
+Recuerda que Reddit ha sido creado para divertirse y está destinado a ser un lugar de entretenimiento, pero aun así, necesitamos algunas reglas básicas. Al acceder a nuestros Servicios o utilizarlos, aceptas estar sujeto a los presentes Términos. En caso de no aceptarlos, puede que no tengas acceso o no puedas usar nuestros Servicios.
+
+**1\. Tu acceso a los Servicios**
+
+Los menores de 13 años no pueden usar los Servicios ni acceder a ellos. Algunos de nuestros Servicios adicionales pueden requerir que seas mayor de 13 años para usarlos, así que lee detenidamente todos los avisos y los Términos Adicionales cuando accedas a los Servicios.  
   
-N’oubliez pas que Reddit est un espace ludique et qui a pour objectif votre divertissement, mais nous avons tout de même besoin de quelques règles élémentaires. Pour pouvoir utiliser les Services, vous devez avoir accepté les présentes Conditions, qui : (a) vous sont présentées lorsque vous créez un Compte et (b) sont disponibles à tout moment lorsque vous accédez aux Services. Si vous ne les acceptez pas, vous ne pouvez pas accéder à nos Services ni les utiliser.
+Al utilizar los Servicios, declaras que:
 
-**1\. Votre accès aux Services**
+* Tienes al menos 13 años y superas la edad mínima requerida por las leyes de tu país de residencia para acceder a los Servicios y utilizarlos;
+* Puedes establecer un contrato vinculante con Reddit o, si eres mayor de 13 años pero menor de la mayoría de edad en tu jurisdicción, tu tutor legal ha revisado y está de acuerdo con estos Términos;
+* No recae sobre ti prohibición alguna de usar los Servicios según las leyes aplicables; y
+* No has sido suspendido o eliminado permanentemente de los Servicios.
 
-Les moins de 13 ans ne sont pas autorisés à utiliser les Services ni à y accéder. Nous pouvons proposer des Services supplémentaires qui nécessitent que vous soyez plus âgé pour les utiliser, veuillez donc lire attentivement tous les avis et toutes les Conditions Supplémentaires lorsque vous accédez aux Services.  
+Si aceptas estos Términos en nombre de otra entidad legal, incluida una entidad comercial o gubernamental, declaras que tienes plena autoridad legal para vincular a dicha entidad a estos Términos.
+
+**2\. Privacidad**
+
+La [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy) de Reddit explica cómo y por qué recopilamos, usamos y compartimos información sobre ti cuando accedes a nuestros Servicios o los usas. Al usar los Servicios, aceptas que recopilemos y usemos esta información tal y como se establece en la [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy).
+
+**3\. Tu uso de los Servicios**
+
+Sujeto a tu cumplimiento absoluto y continuo de estos Términos, Reddit te otorga una licencia personal, intransferible, no exclusiva, revocable y limitada para: (a) instalar y utilizar una copia de nuestra aplicación móvil asociada con los Servicios, obtenida de una tienda de aplicaciones legítima, en un dispositivo móvil de tu propiedad o controlado por ti; y (b) acceder a los Servicios y utilizarlos. Nos reservamos todos los derechos que estos Términos no te otorgan expresamente.  
   
-En utilisant les Services, vous déclarez que :
+Excepto y únicamente en la medida en que dicha restricción sea inadmisible según la ley aplicable, no puedes, sin nuestro acuerdo por escrito:
 
-* Vous êtes âgé d’au moins 13 ans et avez dépassé l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
-* Vous pouvez conclure un contrat contraignant avec Reddit, ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepte les présentes Conditions ;
-* Il ne vous est pas interdit d’utiliser les Services en vertu de toutes les lois applicables ; et
-* Vous n’avez pas été suspendu ou retiré définitivement des Services.  
-    
+* otorgar licencias, vender, transferir, ceder, distribuir, alojar o explotar comercialmente los Servicios o el Contenido;
+* modificar, elaborar trabajos derivados, desensamblar, descompilar o realizar ingeniería inversa de cualquier parte de los Servicios o Contenido; o
+* acceder a los Servicios o Contenido para crear un sitio web, producto o servicio similar o competitivo, excepto según lo permitido a continuación.
 
-Si vous acceptez les présentes Conditions pour le compte d’une autre entité juridique, y compris une entreprise ou une entité gouvernementale, vous déclarez que vous disposez de l'autorité légale pour lier cette entité aux présentes Conditions.
+Siempre estamos mejorando nuestros Servicios. Lo cual significa que podemos añadir o eliminar características, productos o funcionalidades; intentaremos avisarte de antemano, aunque no siempre será posible. Nos reservamos el derecho de modificar, suspender o interrumpir los Servicios (en su totalidad o en parte) en cualquier momento, con o sin previo aviso. Cualquier versión futura, actualización u otra adición a la funcionalidad de los Servicios estará sujeta a estos Términos, que pueden actualizarse ocasionalmente. Aceptas que no seremos responsables ante ti ni ante ningún tercero por ninguna modificación, suspensión o interrupción de los Servicios o de cualquier parte de los mismos.
 
-**2\. Confidentialité**
+**4\. Tu cuenta de Reddit y Seguridad de la cuenta**
 
-La [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy) de Reddit explique la manière dont et les raisons pour lesquelles nous collectons, utilisons et partageons des informations vous concernant lorsque vous accédez à nos Services ou que vous les utilisez. Vous comprenez que par votre utilisation des Services, vous consentez à la collecte et à l’utilisation de ces informations comme indiqué dans la [Politique de Confidentialité.](https://www.redditinc.com/policies/privacy-policy)
-
-**3\. Votre utilisation des Services**
-
-Sous réserve de votre respect complet et ininterrompu des présentes Conditions, Reddit vous accorde une licence personnelle, non transférable, non exclusive, révocable et limitée pour : (a) installer et utiliser une copie de notre application mobile associée aux Services, obtenue sur une place de marché légitime, sur un appareil mobile dont vous êtes propriétaire ou que vous contrôlez ; et (b) accéder aux Services et les utiliser. Nous nous réservons tous les droits qui ne vous sont pas expressément accordés par les présentes Conditions.  
-
-Sauf et uniquement dans la mesure où une telle restriction est illicite en vertu de la loi applicable, vous ne pouvez pas, sans notre accord écrit :
-
-* concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
-* modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
-* accéder aux Services ou au Contenu afin de construire un site Internet, un produit ou un service similaire ou concurrentiel, sauf dans les cas autorisés ci-dessous.
-
-Nous ne garantissons pas que les Services seront toujours disponibles ou ininterrompus. Nous améliorons constamment nos Services. Cela signifie que nous pouvons ajouter ou retirer des caractéristiques, des produits ou des fonctionnalités ; nous nous efforcerons de vous en informer au préalable, mais cela ne sera pas toujours possible. Nous nous réservons le droit de modifier, suspendre ou interrompre les Services (en tout ou en partie) à tout moment, avec ou sans préavis. Tout(e) version, mise à jour ou autre ajout de fonctionnalité futur(e) des Services sera soumis(e) aux présentes Conditions, qui pourront être mises à jour occasionnellement. Vous acceptez que nous ne serons pas responsables envers vous ou envers tout tiers de toute modification, suspension ou interruption des Services ou de toute partie de ceux-ci.
-
-**4\. Votre Compte Reddit et sa Sécurité**
-
-Pour utiliser certaines fonctionnalités de nos Services, il peut vous être demandé de créer un compte Reddit (un « **Compte** ») et de nous fournir un nom d’utilisateur, un mot de passe et certaines autres informations vous concernant, comme indiqué dans la [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy).  
+Para utilizar determinadas funciones de nuestros Servicios, es posible que debas crear una cuenta de Reddit (una "**Cuenta**") y proporcionar un nombre de usuario, contraseña y otra información sobre ti tal y como se establece en la [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy).  
   
-Vous êtes seul responsable des informations associées à votre Compte et de tout ce qui se passe en relation avec votre Compte. Vous devez veiller à la sécurité de votre Compte et immédiatement [notifier Reddit](https://www.reddithelp.com/en/submit-request) si vous découvrez ou soupçonnez que quelqu’un a accédé à votre Compte sans votre permission. Nous vous recommandons d’utiliser un mot de passe fort qui n’est utilisé qu’avec votre Compte et d'[activer l’authentification à deux facteurs](https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication).  
+Eres el único responsable de la información asociada con tu Cuenta y de todo lo que suceda en relación con la misma. Debes mantener la seguridad de tu Cuenta e [informar a Reddit](https://www.reddithelp.com/en/submit-request) de inmediato si descubres o sospechas que alguien ha accedido a tu Cuenta sin tu permiso. Te recomendamos que utilices una contraseña segura que se utilice solo con tu Cuenta y [habilites la autenticación de dos factores](https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication).  
   
-Vous ne pourrez pas accorder de licence, vendre ou transférer votre Compte sans notre accord écrit préalable.
+No otorgarás licencia, venderás ni transferirás tu Cuenta sin nuestra aprobación previa por escrito.
 
-**5\. Votre Contenu**
+**5\. Tu contenido**
 
-Les Services peuvent contenir des informations, des textes, des liens, des graphiques, des photos, des vidéos, des sons, des flux ou d’autres éléments (le « **Contenu** »), y compris le Contenu créé ou soumis aux Services par vous ou par l’intermédiaire de votre compte (« **Votre Contenu** »). Nous n’assumons aucune responsabilité et nous n'approuvons, ne soutenons ni ne garantissons, expressément ou implicitement, l’exhaustivité, la véracité, l’exactitude ou la fiabilité de Votre Contenu.  
+Los Servicios pueden contener información, texto, enlaces, gráficos, fotos, vídeos, audio, transmisiones u otros materiales ("**Contenido**"), incluido el Contenido creado con los Servicios o enviado a ellos por ti o mediante tu Cuenta ("**Tu Contenido**"). No asumimos ninguna responsabilidad y no respaldamos, apoyamos ni garantizamos, expresa o implícitamente, la integridad, veracidad, precisión o fiabilidad de Tu Contenido.  
   
-En soumettant Votre Contenu aux Services, vous déclarez et garantissez que vous disposez de tous les droits, pouvoirs et autorités nécessaires pour accorder les droits sur Votre Contenu précisés dans les présentes Conditions. Étant donné que vous êtes seul responsable de Votre Contenu, vous pouvez engager votre responsabilité si vous publiez ou partagez un Contenu sans en détenir tous les droits nécessaires.  
+Al enviar Tu Contenido a los Servicios, declaras y garantizas que tienes todos los derechos, la facultad y la autoridad necesarios para otorgar los derechos sobre Tu Contenido incluidos en los presentes Términos. Debido a que eres el único responsable de Tu Contenido, serás responsable si publicas o compartes contenido sin todos los derechos necesarios.  
   
-Vous conservez tous les droits de propriété que vous possédez sur Votre Contenu, mais vous accordez à Reddit la licence suivante pour utiliser ce Contenu :  
+Conservas todos los derechos de propiedad que tengas sobre Tu Contenido, pero le otorgas a Reddit la siguiente licencia para usar dicho Contenido:  
   
-Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre Contenu et tout nom, nom d’utilisateur, voix ou image fournis en relation avec Votre Contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre Contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre Contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre Contenu.  
+Cuando Tu Contenido se crea con o se envía a los Servicios, nos otorgas una licencia mundial, exenta de regalías, perpetua, irrevocable, no exclusiva, transferible y sublicenciable para usar, copiar, modificar, adaptar, preparar trabajos derivados de, distribuir, almacenar, ejecutar y mostrar Tu Contenido y cualquier nombre, nombre de usuario, voz o imagen proporcionados en relación con Tu Contenido en todos los formatos de medios y canales ahora conocidos o desarrollados posteriormente en cualquier parte del mundo. Esta licencia incluye el derecho para que hagamos que Tu Contenido esté disponible para su reproducción, transmisión, distribución o publicación por parte de otras empresas, organizaciones o personas que se asocian con Reddit. También aceptas que podemos eliminar los metadatos asociados con Tu Contenido, y renuncias irrevocablemente a cualquier reclamación y reivindicación de derechos morales o atribución con respecto a Tu Contenido.  
   
-Toutes idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.  
+Cualquier idea, sugerencia y comentario sobre Reddit o nuestros Servicios que nos brindes es completamente voluntario, y aceptas que Reddit puede usar tales ideas, sugerencias y comentarios sin compensación u obligación alguna hacia ti.  
   
-Bien que nous nous réservions le droit d’examiner, de filtrer, de modifier ou de surveiller Votre Contenu, nous ne l’examinons pas nécessairement dans son intégralité au moment où il est soumis aux Services. Toutefois, nous pouvons, à notre seule appréciation, supprimer ou retirer Votre Contenu à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de violation de notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy) ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité pour nous.
+Aunque no tenemos la obligación de filtrar, editar o monitorizar Tu Contenido, podemos, a nuestra entera discreción, eliminar o retirar Tu Contenido en cualquier momento y por cualquier motivo, incluso por infringir estos Términos, infringir nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy), o si de alguna otra manera genera o es probable que genere responsabilidad para nosotros.
 
-**6\. Contenu de Tiers, Publicités et Promotions**
+**6\. Contenido de terceros, Anuncios y Promociones**
 
-Les Services peuvent contenir des liens vers des sites Internet, des produits ou des services de tiers, qui peuvent être publiés par des annonceurs, nos sociétés affiliées, nos partenaires ou d’autres utilisateurs (le « **Contenu de Tiers** »). Le Contenu de Tiers n’est pas sous notre contrôle et nous ne sommes pas responsables des sites Internet, produits ou services de tout tiers. Votre utilisation du Contenu de Tiers est à vos propres risques et vous devez effectuer toutes les recherches que vous jugez nécessaires avant de procéder à toute transaction en rapport avec ce Contenu de Tiers.  
+Los Servicios pueden contener enlaces a sitios web, productos o servicios de terceros, que pueden ser publicados por anunciantes, nuestras empresas asociadas, nuestros socios u otros usuarios ("**Contenido de Terceros**"). El Contenido de Terceros no está bajo nuestro control y no somos responsables de los sitios web, productos o servicios de terceros. El uso que hagas del Contenido de Terceros es por tu cuenta y riesgo y debes realizar cualquier investigación que consideres necesaria antes de proceder con cualquier transacción relacionada con dicho Contenido de Terceros.  
   
-Les Services peuvent également contenir du Contenu de Tiers sponsorisé ou des publicités sponsorisées. Le type, le degré et le ciblage des publicités sont susceptibles d’être modifiés et vous reconnaissez et acceptez que nous puissions placer des publicités en relation avec l’affichage de tout Contenu ou information sur les Services, y compris Votre Contenu.  
+Los Servicios también pueden contener Contenido de Terceros patrocinado o anuncios. El tipo, el grado y la orientación de los anuncios están sujetos a cambios, y reconoces y aceptas que podemos colocar anuncios en relación con la visualización de cualquier Contenido o información en los Servicios, incluido Tu Contenido.  
   
-Si vous choisissez d’utiliser les Services pour mener une promotion, y compris un concours ou une loterie (une « **Promotion »**), vous êtes seul responsable de la conduite de la Promotion dans le respect de toutes les lois et réglementations applicables, y compris, notamment, la création de règles officielles, les conditions de l’offre, les exigences d’admissibilité et la conformité aux lois, règles et réglementations applicables qui régissent la Promotion (telles que les licences, les enregistrements, les obligations et les autorisations réglementaires). Votre Promotion doit indiquer qu’elle n’est pas parrainée par, approuvée par ou associée à Reddit., et les règles de votre Promotion doivent exiger que chaque participant dégage Reddit de toute responsabilité liée à la Promotion. Vous reconnaissez et convenez que nous ne vous aiderons en aucune façon dans le cadre de votre Promotion et vous acceptez de mener votre Promotion à vos propres risques.
+Si decides utilizar los Servicios para realizar una promoción, incluido un concurso o sorteo ("**Promoción**"), eres el único responsable de llevar a cabo la Promoción de conformidad con todas las leyes y reglamentos aplicables, incluyendo a título enunciativo y no exhaustivo, la creación de reglas oficiales, los términos de la oferta, los requisitos de elegibilidad y el cumplimiento de las leyes, normas y reglamentos aplicables que rigen la Promoción (tales como licencias, registros, fianzas y aprobación normativa). Tu Promoción debe indicar que la Promoción no tiene el patrocinio ni el respaldo de Reddit ni está asociada con Reddit, y las reglas de tu Promoción deben requerir que cada participante o concursante exima a Reddit de cualquier responsabilidad relacionada con la Promoción. Reconoces y aceptas que no recibirás ayuda de ningún tipo para la Promoción por nuestra parte, y aceptas realizar tu Promoción por tu cuenta y riesgo.
 
-**7\. Ce que vous ne pouvez pas faire**
+**7\. Cosas que no puedes hacer**
 
-Lorsque vous utilisez Reddit ou que vous y accédez, vous devez vous conformer aux présentes Conditions et à toutes les lois, règles et réglementations applicables. Veuillez consulter la [Politique de Contenu](https://www.redditinc.com/policies/content-policy), qui sont incorporées aux présentes Conditions par le présent renvoi et en font partie intégrante, et qui contiennent les règles de Reddit concernant les contenus et les comportements interdits. En sus de ce qui est interdit dans la [Politique de Contenu](https://www.redditinc.com/policies/content-policy), vous n’êtes pas autorisé à faire ce qui suit :  
+Al usar o acceder a Reddit, debes cumplir con estos Términos y con todas las leyes, normas y reglamentos aplicables. Revisa la [Política de Contenido](https://www.redditinc.com/policies/content-policy), que se incorporan por referencia a estos Términos y forman parte de los mismos, y contienen las reglas de Reddit sobre contenido y conducta prohibidos. Además de lo prohibido en la [Política de Contenido](https://www.redditinc.com/policies/content-policy), no puedes realizar ninguna de las siguientes acciones:
 
-* Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d'altérer de quelque manière que ce soit les Services ;
-* Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
-* Télécharger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctions en lien avec la sécurité ;
-* Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
-* Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition l’autorisation d’explorer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (_scraping_) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
-* Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l'égard de Reddit ou de tout système de paiement.
+* Usar los Servicios de cualquier manera que pueda interferir, deshabilitar, interrumpir, sobrecargar o deteriorar de alguna otra manera los Servicios;
+* Obtener acceso a (o intentar obtener acceso a) la Cuenta de otro usuario o cualquier parte no pública de los Servicios, incluidos los sistemas o redes informáticos conectados o utilizados junto con los Servicios;
+* Cargar, transmitir o distribuir hacia o a través de los Servicios cualquier virus, gusano, código malicioso u otro software destinado a interferir con los Servicios, incluidas las funciones relacionadas con la seguridad;
+* Usar los Servicios para infringir la ley aplicable o infringir los derechos de propiedad intelectual de cualquier persona o entidad o cualquier otro derecho de propiedad;
+* Acceder, buscar o recopilar datos de los Servicios por cualquier medio (automatizado o de otro tipo) excepto según lo permitido en estos Términos o en un acuerdo aparte con Reddit (otorgamos permiso condicionalmente para rastrear los Servicios de acuerdo con los parámetros establecidos en nuestro archivo robots.txt, si bien queda prohibido recopilar los Servicios sin el consentimiento previo por escrito de Reddit); o
+* Usar los Servicios de cualquier manera que consideremos un abuso o fraude en Reddit o cualquier sistema de pago.
 
-Nous vous encourageons à [signaler](https://reddit.zendesk.com/hc/en-us/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).
+Te animamos a que [denuncies](https://reddit.zendesk.com/hc/en-us/requests/new) contenidos o conductas que creas que violan estos Términos o nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy). También apoyamos las denuncias responsables de vulnerabilidades de seguridad. Para informar sobre un problema de seguridad, envía un correo electrónico a [security@reddit.com](mailto:security@reddit.com).
 
-**8\. Modérateurs**
+**8\. Moderadores**
 
-La modération d’un subreddit est une fonction non officielle et volontaire qui peut être proposée aux utilisateurs des Services. Nous ne sommes pas responsables des mesures prises par les modérateurs. Nous nous réservons le droit d’annuler ou de limiter la capacité d’un utilisateur à modérer à tout moment et pour quelque raison que ce soit ou sans raison, y compris en cas de violation des présentes Conditions.  
+La labor de moderar un subreddit es un puesto voluntario no oficial que puede estar disponible para los usuarios de los Servicios. No nos hacemos responsables de las acciones llevadas a cabo por los moderadores. Nos reservamos el derecho de revocar o limitar la capacidad de un usuario para moderar en cualquier momento y por cualquier motivo o sin motivo, incluido el incumplimiento de estos Términos.  
   
-Si vous choisissez de modérer un subreddit :  
+Si decides moderar un subreddit:
 
-* Vous vous engagez à suivre le [Code de conduite de la modération](https://www.redditinc.com/policies/moderator-code-of-conduct) (Moderator Code of Conduct);
-* Vous convenez que, lorsque vous recevez des signalements relatifs à un subreddit que vous modérez, vous prendrez les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou sa transmission rapide à Reddit pour examen ;
-* Vous n’êtes pas, et ne pouvez pas déclarer que vous êtes, autorisé à agir pour le compte de Reddit ;
-* Vous ne pouvez pas conclure d’accord avec un tiers pour le compte de Reddit, ou de tout subreddit que vous modérez, sans notre approbation écrite ;
-* YVous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
-* Si vous avez accès à des informations non publiques suite à la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de votre action en tant que modérateur ; et
-* Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de Contenu](https://www.reddit.com/help/healthycommunities/), ou le [Code de conduite de la modération](https://www.redditinc.com/policies/moderator-code-of-conduct) (Moderator Code of Conduct)[](https://www.reddit.com/help/healthycommunities/).
+* Aceptas seguir el [Código de conducta de moderación](https://www.reddit.com/help/healthycommunities/);
+* Aceptas que cuando recibas informes relacionados con un subreddit que moderes, tomarás las medidas adecuadas, que pueden incluir eliminar contenido que infrinja la política y/o derivar rápidamente el asunto a Reddit para su revisión;
+* No estás autorizado a actuar en nombre de Reddit, y no puedes manifestar que sí lo estás;
+* No puedes celebrar ningún acuerdo con un tercero en nombre de Reddit, o cualquier subreddit que moderes, sin nuestra aprobación por escrito;
+* No puedes realizar acciones de moderación a cambio de ninguna forma de compensación, retribución, obsequio o favor de terceros;
+* Si tienes acceso a información no pública como resultado de moderar un subreddit, usarás dicha información solo en relación con tu función como moderador; y
+* Puedes crear y hacer cumplir reglas para los subreddit que moderes, siempre que dichas reglas no entren en conflicto con los presentes Términos, la [Política de Contenido](https://www.redditinc.com/policies/content-policy), o el [Código de conducta de moderación](https://www.reddit.com/help/healthycommunities/)[](https://www.reddit.com/help/healthycommunities/).
 
-Reddit se réserve le droit, sans y être tenue, d’annuler toute action ou décision d’un modérateur si Reddit estime, à sa seule appréciation, que cette action ou décision n’est pas dans l’intérêt de Reddit ou de la communauté Reddit.
+Reddit se reserva el derecho, pero no tiene la obligación, de revocar cualquier acción o decisión de un moderador si Reddit, a su absoluta discreción, cree que dicha acción o decisión no beneficia a Reddit ni a la comunidad de Reddit.
 
-**9\. Droits d’auteur, Marques, DMCA et Retraits**
+**9\. Derechos de autor, Marca comercial, DMCA y Eliminaciones**
 
-Reddit respecte la propriété intellectuelle d’autrui et exige que les utilisateurs de ses Services fassent de même. Nous avons mis en place une politique qui prévoit le retrait des Services de tout élément contrevenant ainsi que la suppression, dans des circonstances appropriées, d’utilisateurs de nos Services qui sont des contrevenants récidivistes. Si vous pensez que tout élément de nos Services enfreint un droit d’auteur ou une marque dont vous êtes propriétaire ou que vous contrôlez, vous pouvez en informer l’Agent Désigné de Reddit en remplissant notre [Formulaire de Signalement relatif aux Droits d’Auteur](https://www.reddithelp.com/en/submit-request/copyright-infringement-dmca) ou notre [Formulaire de Signalement relatif aux Marques](https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=106573), ou en contactant :  
+Reddit respeta la propiedad intelectual de otros y requiere que los usuarios de nuestros Servicios hagan lo mismo. Tenemos una política que incluye la eliminación de cualquier material infractor de los Servicios y la eliminación, en circunstancias apropiadas, de los usuarios de nuestros Servicios que sean infractores reincidentes. Si crees que algo en nuestros Servicios infringe un derecho de autor o una marca comercial de la cual eres titular o controlas, puedes informar de ello al Agente Designado de Reddit y completar nuestro [Formulario de Reporte de Derechos de Autor](https://www.reddithelp.com/en/submit-request/copyright-infringement-dmca) o [Formulario de Reporte de Marca Comercial](https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=106573), o poniéndote en contacto con:  
   
-Agent en matière de Droits d’Auteur  
+  
+Agente de derechos de autor  
 Reddit, Inc.  
 1455 Market Street, Suite 1600  
 San Francisco, CA 94103  
 [copyright@reddit.com](mailto:copyright@reddit.com)  
   
-Veuillez également noter que si vous faites sciemment une fausse déclaration indiquant qu’une activité ou un élément de nos Services est contrevenant, vous pouvez être redevable de certains coûts et dommages à Reddit.  
+Además, ten en cuenta que si, a sabiendas, declaras erróneamente que cualquier actividad o material en nuestros Servicios está infringiendo derechos de autor, puedes ser responsable ante Reddit por ciertos costes y daños.  
   
-Si nous supprimons Votre Contenu en réponse à une notification de violation de droits d’auteur ou d’une marque, nous vous en informerons via le système de messagerie privée de Reddit. Si vous pensez que Votre Contenu a été retiré à tort en raison d’une erreur ou d’une mauvaise identification dans un avis de droits d’auteur, vous pouvez envoyer une notification de contestation via notre [Formulaire de Contre-notification de Droits d’Auteur](https://www.reddithelp.com/en/submit-request/copyright-counter-notice) ou à notre Agent en matière de Droits d’Auteur (coordonnées fournies ci-dessus). Veuillez consulter l’article [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) pour connaître les conditions d’une contre-notification correcte.
+Si eliminamos Tu Contenido en respuesta a un aviso de derechos de autor o marca comercial, te lo notificaremos a través del sistema de mensajería privada de Reddit. Si crees que Tu Contenido se eliminó por error debido a una equivocación o una identificación errónea en un aviso de derechos de autor, puedes enviar una contranotificación a través de nuestro [Formulario de Contranotificación de Derechos de Autor](https://www.reddithelp.com/en/submit-request/copyright-counter-notice) o ponerte en contacto con nuestro Agente de derechos de autor (información de contacto proporcionada anteriormente). Puedes leer el artículo [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) para conocer los requisitos de cómo hacer una contranotificación adecuada.
 
-**10\. Services Payants et Informations de Paiement**
+**10\. Servicios de Pago e Información de Pago**
 
-L’utilisation de nombreux aspects des Services est gratuite. Cependant, certains services, y compris Reddit Premium et les Biens Virtuels, peuvent être disponibles à l’achat (les « **Services Payants** »). En sus des présentes Conditions, en achetant ou en utilisant Reddit Premium ou nos Biens Virtuels, vous acceptez également le [Contrat Reddit Premium et Biens Virtuels](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).  
+No existen cargos por el uso de muchos aspectos de los Servicios. No obstante, algunos Servicios, incluidos Reddit Premium y Bienes Virtuales, pueden estar disponibles para su compra ("**Servicios de Pago**"). Además de estos Términos, al comprar o usar Reddit Premium o nuestros Bienes Virtuales, también aceptas el [Acuerdo de Reddit Premium y Bienes Virtuales](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).  
   
-Reddit pourra modifier les frais ou les avantages associés aux Services Payants occasionnellement, moyennant un préavis raisonnable en cas de changements importants ; il est, toutefois, précisé qu’aucun préavis ne sera requis pour les promotions temporaires, y compris les réductions temporaires des frais associés aux Services Payants. Nonobstant ce qui précède, toute modification des prix ou de vos régimes d’abonnement s’appliquera au plus tôt 30 jours après la notification qui vous sera adressée.  
+Reddit puede cambiar las tarifas o los beneficios asociados con los Servicios de Pago ocasionalmente con un aviso previo razonable de los cambios sustanciales; siempre que, sin embargo, no se requiera notificación previa para promociones temporales, incluidas las reducciones temporales en las tarifas asociadas con los Servicios de Pago. No obstante lo anterior, cualquier cambio de precio o cambio en tus planes de suscripción se aplicará no antes de los 30 días posteriores a la notificación.  
   
-Vous pouvez soumettre votre carte de débit, votre carte de crédit ou d’autres informations de paiement (les « **Informations de Paiement** ») via nos Services pour acheter les Services Payants. Nous faisons appel à des prestataires de services tiers pour traiter vos Informations de Paiement. Si vous soumettez vos Informations de Paiement, vous acceptez de payer tous les frais que vous engagez et vous nous autorisez à vous facturer, à l’échéance du paiement, un montant comprenant ces frais et toutes les taxes et redevances applicables.
+Puedes enviar tu tarjeta de débito, tarjeta de crédito u otra información de pago ("**Información de Pago**") a través de nuestros Servicios para adquirir los Servicios de Pago. Usamos proveedores de servicios externos para procesar tu Información de Pago. Si envías tu Información de Pago, aceptas pagar todos los gastos en los que incurras y nos das permiso para cobrarte cuando venza el pago por una cantidad que incluye estos costes y los impuestos y tarifas aplicables. Todas las transacciones son definitivas y no reembolsamos ni ofrecemos períodos de facturación parciales.
 
-**11\. Propriété Intellectuelle**
+**11\. Propiedad intelectual**
 
-Les Services sont détenus et exploités par Reddit. Les interfaces visuelles, les graphiques, la conception, la compilation, les informations, les données, le code informatique, les produits, les services, les marques et tous les autres éléments des Services (les « **Éléments »**) fournis par Reddit sont protégés par les lois relatives à la propriété intellectuelle et d’autres lois. Tous les Éléments inclus dans les Services sont la propriété de Reddit ou de ses concédants de licence tiers. Vous reconnaissez et convenez que vous n’obtenez aucun droit de propriété, quel qu’il soit, en téléchargeant des Éléments ou en achetant Reddit Premium ou des Biens Virtuels. Sauf autorisation expresse de Reddit, et sous réserve des [Directives relatives aux Marques](https://www.redditinc.com/assets/press-resources/reddit_brand_guidelines_202009-3.pdf) de Reddit, vous ne pouvez pas utiliser les Éléments. Reddit se réserve tous les droits sur les Éléments qui ne sont pas expressément accordés dans les présentes Conditions.
+Los Servicios son propiedad de y están operados por Reddit. Las interfaces visuales, los gráficos, el diseño, la compilación, la información, los datos, el código informático, los productos, los servicios, las marcas comerciales y todos los demás elementos de los Servicios ("**Materiales**") proporcionados por Reddit están protegidos por las leyes de propiedad intelectual y otras leyes aplicables. Todos los Materiales incluidos en los Servicios son propiedad de Reddit o sus terceros licenciatarios. Reconoces y aceptas que no adquirirás ningún derecho de propiedad al descargar los Materiales o al comprar Reddit Premium o Bienes Virtuales. Excepto lo autorizado expresamente por Reddit, y sujeto a las [Directrices de Marca](https://www.redditinc.com/assets/press-resources/reddit_brand_guidelines_202009-3.pdf), no puedes hacer uso de los Materiales. Reddit se reserva todos los derechos sobre los Materiales que no se otorgan expresamente en estos Términos.
 
-**12\. Indemnisation**
+**12\. Indemnidad**
 
-Sauf dans la mesure où la loi l’interdit, vous acceptez de défendre, d'indemniser et de dégager Reddit, ses sociétés affiliées et leurs administrateurs, dirigeants, employés, sociétés affiliées, agents, contractuels, prestataires de services tiers et concédants de licence respectifs (les « **Entités Reddit** ») de toute responsabilité à l’égard de toute réclamation ou demande formulée par tout tiers, et de toute responsabilité, dommage, perte et dépense connexe (y compris les dépens et les honoraires d’avocat) dus à, découlant de ou en relation avec : (a) votre utilisation des Services, (b) votre violation des présentes Conditions, (c) votre violation des lois ou règlements applicables ou (d) Votre Contenu. Nous nous réservons le droit de contrôler la défense de toute affaire pour laquelle vous êtes tenu de nous indemniser et vous acceptez de coopérer avec notre défense de ces réclamations.
+Excepto en la medida en que lo prohíba la ley, aceptas defender, compensar y mantener indemne a Reddit, sus empresas asociadas y sus respectivos directores, gestores, empleados, afiliados, agentes, contratistas, proveedores de Servicios externos y otorgantes de licencias (las "**Entidades de Reddit**") de y contra cualquier reclamación o demanda hecha por un tercero, y cualquier responsabilidad, daño, pérdida y gasto relacionado (incluidos los costes y honorarios de abogados) debidos a, que surjan de, o guarden relación con: (a) tu uso de los Servicios, (b) tu violación de estos Términos, (c) tu violación de las leyes o reglamentos aplicables, o (d) Tu Contenido. Nos reservamos el derecho de controlar la defensa legal de cualquier asunto por el que debas indemnizarnos, y aceptas cooperar con nuestra defensa legal con respecto a estas reclamaciones.
 
-**13\. Limitation de responsabilité**
+**13\. Exenciones y Limitación de Responsabilidad**
 
-En utilisant les Services, vous convenez que la responsabilité des Entités Reddit est limitée à l’étendue maximale autorisée dans votre pays de résidence. La responsabilité sera limitée aux dommages prévisibles résultant d’une violation des obligations contractuelles matérielles habituelles pour ce type de contrat. Reddit n’est pas responsable des dommages résultant d’une violation non matérielle de tout autre devoir de diligence applicable. Cette limitation de responsabilité ne s’appliquera pas à toute responsabilité légale qui ne peut être limitée, à la responsabilité en cas de décès ou de dommage corporel causé par notre négligence ou notre faute intentionnelle ou encore pour exclure notre responsabilité pour quelque chose que nous vous avons spécifiquement promis.
-
-**14\. Modifications des présentes Conditions**
-
-Nous pouvons apporter des modifications aux présentes Conditions occasionnellement. Si nous apportons des modifications, nous publierons les Conditions révisées et mettrons à jour la Date d’Effet ci-dessus. Si les modifications, à notre appréciation raisonnable, sont importantes, nous vous en informerons en envoyant un courriel à l’adresse associée à votre Compte (si vous avez choisi de fournir une adresse électronique) ou en vous fournissant de toute autre manière une notification par le biais de nos Services au moins 30 jours avant la date à laquelle elles entrent en vigueur. En continuant à accéder aux Services ou à les utiliser à compter de la Date d’Effet des Conditions révisées, vous acceptez d’être lié par les Conditions révisées. Si vous n’acceptez pas les Conditions révisées, vous devez cesser d’accéder à nos Services et de les utiliser avant que les modifications entrent en vigueur.
-
-**15\. Conditions Supplémentaires**
-
-Parce que nous offrons une variété de Services, il peut vous être demandé d’accepter des conditions, politiques, directives ou règles supplémentaires avant d’utiliser un produit ou service spécifique proposé par Reddit (collectivement, les « **Conditions Supplémentaires** »). Toutes les Conditions Supplémentaires sont incorporées aux présentes Conditions par le présent renvoi et en font partie intégrante. En cas de conflit entre les Conditions Supplémentaires et les présentes Conditions, les Conditions Supplémentaires prévalent en ce qui concerne votre utilisation des Services correspondants.
-
-* Si vous utilisez Reddit Premium ou des Biens Virtuels, vous devez également accepter le [Contrat Reddit Premium et Biens Virtuels](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
-* Si vous utilisez la plateforme en libre-service pour la publicité, vous devez également accepter les [Conditions de la Plateforme Publicitaire Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
-* Si vous utilisez un de nos Services dédiés au développement (y compris nos interfaces de programmation API), vous devez également accepter les [Conditions pour le développement sur Reddit](https://www.redditinc.com/policies/developer-terms) (Reddit Developer Terms).
-
-**16\. Résiliation**
-
-Vous pouvez résilier les présentes Conditions à tout moment et pour quelque raison que ce soit en supprimant votre Compte et en cessant d’utiliser tous les Services. Si vous cessez d’utiliser les Services sans désactiver votre Compte, votre Compte peut être désactivé en raison d’une inactivité prolongée.  
+Nada de lo dispuesto en estos Términos perjudicará los derechos legales que puedas tener como usuario de los Servicios. Algunos países, estados, provincias u otras jurisdicciones no permiten la exclusión de ciertas garantías o la limitación de responsabilidad como se indica en esta sección, por lo que es posible que no estés sujeto por completo a los Términos que se exponen a continuación. En su lugar, en dichas jurisdicciones, las exclusiones y limitaciones expuestas a continuación se aplicarán solo en la medida permitida por las leyes de dichas jurisdicciones.  
   
-Dans toute la mesure autorisée par la loi applicable, nous pouvons suspendre ou résilier votre Compte, votre statut de modérateur ou votre capacité à accéder aux Services ou à les utiliser à tout moment, pour quelque raison que ce soit ou sans raison, y compris en cas de violation des présentes Conditions ou de notre [Politique de Contenu](https://www.redditinc.com/policies/content-policy).  
+LOS SERVICIOS SE PROPORCIONAN "COMO TAL" Y «SEGÚN DISPONIBILIDAD» SIN DECLARACIONES, GARANTÍAS O CONDICIONES DE NINGÚN TIPO, YA SEAN EXPRESAS, IMPLÍCITAS, LEGALES O ESTATUTARIAS, INCLUYENDO, ENTRE OTRAS, GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, TÍTULO, ADECUACIÓN PARA UN PROPÓSITO PARTICULAR Y DE NO INFRACCIÓN. LAS ENTIDADES DE REDDIT NO GARANTIZAN QUE LOS SERVICIOS SEAN EXACTOS, COMPLETOS, FIABLES, ACTUALES O QUE ESTÉN LIBRES DE ERRORES. REDDIT NO CONTROLA, APRUEBA NI SE HACE RESPONSABLE DE NINGÚN CONTENIDO DISPONIBLE O VINCULADO A LOS SERVICIOS O LAS ACCIONES DE CUALQUIER TERCERO O USUARIO, INCLUIDOS LOS MODERADORES. SI BIEN REDDIT INTENTA QUE TU ACCESO Y USO DE NUESTROS SERVICIOS SEA SEGURO, NO DECLARAMOS NI GARANTIZAMOS QUE NUESTROS SERVICIOS O SERVIDORES ESTÉN LIBRES DE VIRUS U OTROS COMPONENTES DAÑINOS.  
   
-Les clauses suivantes resteront en vigueur après la résiliation des présentes Conditions ou de votre Compte : 5 (Votre Contenu), 7 (Ce que vous ne pouvez pas faire), 12 (Indemnisation), 13 (Limitation de responsabilité), 16 (Résiliation) et 17 (Stipulations diverses).
+EN NINGÚN CASO NINGUNA DE LAS ENTIDADES DE REDDIT SERÁ RESPONSABLE ANTE TI POR CUALQUIER DAÑO INDIRECTO, CONSECUENTE, EJEMPLAR, FORTUITO, ESPECIAL O PUNITIVO, O POR LA PÉRDIDA DE BENEFICIOS DERIVADA DE ESTOS TÉRMINOS O DE LOS SERVICIOS, INCLUYENDO LA DERIVADA DE O RELACIONADA CON CONTENIDO DISPONIBLE EN LOS SERVICIOS QUE SE SUPONGA DIFAMATORIO, OFENSIVO O ILEGAL. EL ACCESO Y EL USO DE LOS SERVICIOS ES A TU PROPIA DISCRECIÓN Y RIESGO, Y SERÁS EL ÚNICO RESPONSABLE DE CUALQUIER DAÑO QUE PUEDA SUFRIR TU DISPOSITIVO O SISTEMA INFORMÁTICO, O POR LA PÉRDIDA DE DATOS. EN NINGÚN CASO LA RESPONSABILIDAD TOTAL DE LAS ENTIDADES DE REDDIT EXCEDERÁ LA SUMA QUE RESULTE MAYOR DE CIEN DÓLARES ESTADOUNIDENSES (100 $) O CUALQUIER IMPORTE QUE HAYAS PAGADO A REDDIT EN LOS SEIS MESES ANTERIORES POR LOS SERVICIOS QUE DEN LUGAR A LA RECLAMACIÓN. LAS LIMITACIONES DE ESTA SECCIÓN SE APLICARÁN A CUALQUIER TIPO DE RESPONSABILIDAD, INCLUYENDO LAS BASADAS EN GARANTÍA, CONTRATO, LEY, AGRAVIO, NEGLIGENCIA, RESPONSABILIDAD ESTRICTA O DE OTRO TIPO, INCLUSO SI LAS ENTIDADES DE REDDIT HAN SIDO ADVERTIDAS DE LA POSIBILIDAD DE TALES DAÑOS, INCLUSO SI SE CONSIDERA QUE CUALQUIER RECURSO ESTABLECIDO EN ESTOS TÉRMINOS NO CUMPLE CON SU PROPÓSITO FUNDAMENTAL.
 
-**17\. Stipulations diverses**
+**14\. Legislación aplicable y jurisdicción**
 
-Les présentes Conditions, ainsi que la [Politique de Confidentialité](https://www.redditinc.com/policies/privacy-policy) et tous autres accords expressément incorporés par renvoi dans les présentes Conditions, constituent l’intégralité de l’accord entre vous et nous concernant votre accès aux Services et leur utilisation. Le fait de ne pas exercer un droit ou de ne pas faire valoir une stipulation des présentes Conditions ne saurait valoir renonciation de notre part à ce droit ou à cette stipulation. Si une partie des présentes Conditions est jugée invalide ou inapplicable, la partie inapplicable sera appliquée dans toute la mesure du possible, et les autres parties resteront pleinement en vigueur. Vous ne pouvez pas céder ou transférer les droits ou obligations découlant des présentes Conditions sans l’accord écrit préalable de Reddit. Reddit peut, sans restriction, céder l’un de ses droits et obligations en vertu des présentes Conditions, à sa seule appréciation, moyennant un préavis de 30 jours. Votre droit de résiliation des présentes Conditions à tout moment, conformément à la Section 16, n’est pas remis en cause.  
+Queremos que disfrutes de Reddit, por lo que si tienes un problema o una disputa, aceptas plantearlo y tratar de resolverlo con nosotros de manera informal. Puedes ponerte en contacto con nosotros y dejar tus comentarios e inquietudes [aquí](https://www.reddithelp.com/en/submit-request).  
   
-Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions sur les présentes Conditions, veuillez [nous contacter](https://www.reddithelp.com/hc/en-us/requests/new).
+Hasta el grado máximo que permita la ley correspondiente, cualquier reclamación que se derive de o esté relacionada con estos Términos o los Servicios se regirá por las leyes del estado de California, sin tener en cuenta sus normas de conflicto de leyes; todas las disputas relacionadas con estos Términos o los Servicios se someterán exclusivamente a los tribunales federales o estatales ubicados en San Francisco, California, y tanto tú como Reddit aceptáis la jurisdicción personal en estos tribunales.  
+  
+Si eres una entidad gubernamental de una ciudad, condado o estado de EE. UU., esta Sección 14 no te afecta. Si eres una entidad del Gobierno federal de los EE. UU., cualquier reclamación que se derive de o esté relacionada con estos Términos o los Servicios se regirá por las leyes de los Estados Unidos de América sin tener en cuenta sus normas de conflicto de leyes. En la medida en que lo permita la legislación federal, se aplicarán las leyes de California (salvo sus normas de conflicto de leyes) en ausencia de la legislación federal aplicable. Todas las disputas relacionadas con estos Términos o los Servicios se someterán exclusivamente a los tribunales federales o estatales ubicados en San Francisco, California.
 
-**18\. Coordonnées**
+**15\. Cambios a estos Términos**
+
+Es posible que realicemos cambios a estos Términos ocasionalmente. Si realizamos cambios, publicaremos los Términos revisados y actualizaremos la Fecha de Entrada en Vigor indicada más arriba. Si los cambios, a nuestro exclusivo criterio, son sustanciales, también podremos notificártelo enviando un correo electrónico a la dirección asociada a tu Cuenta (si has elegido proporcionar una dirección de correo electrónico) o enviándote un aviso a través de nuestros Servicios. Si continúas accediendo o utilizando los Servicios en o después de la Fecha de Entrada en Vigor de los Términos revisados, expresas tu conformidad con estar sujeto a los Términos revisados. Si no estás de acuerdo con los Términos revisados, debes dejar de acceder y utilizar nuestros Servicios antes de que los cambios entren en vigor.
+
+**16\. Términos Adicionales**
+
+Debido a que ofrecemos diversos Servicios, es posible que solicitemos que aceptes términos, políticas, pautas o reglas adicionales antes de usar un producto o servicio específico ofrecido por Reddit (conjuntamente, "**Términos Adicionales**"). Todos los Términos Adicionales se incorporan por esta referencia a los presentes Términos y forman parte de ellos, y en la medida en que los Términos Adicionales entren en conflicto con los presentes Términos, los Términos Adicionales rigen tu uso de los Servicios correspondientes.
+
+* Si usas Reddit Premium o Bienes virtuales, también debes aceptar el [Acuerdo de Reddit Premium y Bienes Virtuales](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
+* Si usas la plataforma de autoservicio para publicidad, también debes aceptar los [Términos de Publicidad de Plataforma de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+* Si utilizas cualquiera de nuestros Servicios para desarrolladores (incluyendo nuestras API), también deberás aceptar los [Términos para desarrolladores de Reddit](https://www.redditinc.com/policies/developer-terms).
+
+**17\. Resolución**
+
+Puedes resolver estos Términos en cualquier momento y por cualquier motivo eliminando tu Cuenta y dejando de usar todos los Servicios. Si dejas de usar los Servicios sin desactivar tu Cuenta, tu Cuenta puede desactivarse debido a inactividad prolongada.  
+  
+En la medida en que lo permita la ley, podemos suspender o cancelar tu Cuenta, estado de moderador o capacidad de acceder o utilizar los Servicios en cualquier momento por cualquier motivo o sin él, inclusive por infringir estos Términos o nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy).  
+  
+Las siguientes secciones permanecerán en vigor después de la terminación de estos Términos o de tu Cuenta: 5 (Tu Contenido), 7 (Cosas que no puedes hacer), 12 (Indemnidad), 13 (Exenciones y Limitación de Responsabilidad), 14 (Legislación aplicable y jurisdicción) y 18 (Varios).
+
+**18\. Disposiciones varias**
+
+Estos Términos, junto con la [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy) y cualquier otro acuerdo incorporado expresamente por referencia en estos Términos, constituyen el acuerdo completo entre tú y nosotros con respecto a tu acceso y uso de los Servicios. El hecho de que no ejerzamos o hagamos cumplir cualquier derecho o disposición de estos Términos no implica una renuncia a dicho derecho o disposición. Si alguna parte de estos Términos se considerase inválida o inaplicable, la parte inaplicable tendrá efecto en la mayor medida posible, y las partes restantes permanecerán en pleno vigor y efecto. No podrás ceder ni transferir ninguno de tus derechos u obligaciones en virtud de estos Términos sin nuestro consentimiento. Podremos ceder libremente cualquiera de nuestros derechos y obligaciones en virtud de estos Términos.  
+  
+Estos Términos son un acuerdo legalmente vinculante entre tú y Reddit, Inc. Si tienes alguna pregunta sobre estos Términos, por favor, [ponte en contacto con nosotros](https://www.reddithelp.com/hc/en-us/requests/new).  
+  
+Reddit, Inc.  
+1455 Market Street, Suite 1600  
+San Francisco, CA 94103  
+Estados Unidos  
+  
+
+* * *
+
+###   
+Acuerdo de Usuario de Reddit si vives en el EEE, Reino Unido o Suiza
+
+  
+¡Hola, redditors y gentes de Internet! Este Acuerdo de Usuario de Reddit ("**Términos**") se aplica a tu acceso y uso de los sitios web, aplicaciones móviles, widgets, API, correos electrónicos y otros productos y servicios en línea (denominados conjuntamente, los "**Servicios**") proporcionados por Reddit, Inc. ("**Reddit**", "**nosotros**", "**nuestro**" o análogo).  
+  
+Recuerda que Reddit ha sido creado para divertirse y está destinado a ser un lugar de entretenimiento, pero aun así, necesitamos algunas reglas básicas. Para usar nuestros Servicios, debes aceptar los Términos, que: (a) puedes ver cuando creas una Cuenta; y (b) están disponibles en todo momento cuando accedes a los Servicios. En caso de no aceptarlos, puede que no tengas acceso o no puedas usar nuestros Servicios.
+
+**1\. Tu acceso a los Servicios**
+
+Los menores de 13 años no pueden usar los Servicios ni acceder a ellos. Algunos de nuestros Servicios adicionales pueden requerir que seas mayor de 13 años para usarlos, así que lee detenidamente todos los avisos y los Términos Adicionales cuando accedas a los Servicios.  
+  
+Al utilizar los Servicios, declaras que:
+
+* Tienes al menos 13 años y superas la edad mínima requerida por las leyes de tu país de residencia para acceder a los Servicios y utilizarlos;
+* Puedes establecer un contrato vinculante con Reddit o, si eres mayor de 13 años pero menor de la mayoría de edad en tu jurisdicción, tu tutor legal ha revisado y está de acuerdo con estos Términos;
+* No recae sobre ti prohibición alguna de usar los Servicios según las leyes aplicables; y
+* No has sido suspendido o eliminado permanentemente de los Servicios.  
+    
+
+Si aceptas estos Términos en nombre de otra entidad legal, incluida una entidad comercial o gubernamental, declaras que tienes plena autoridad legal para vincular a dicha entidad a estos Términos.
+
+**2\. Privacidad**
+
+La [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy) de Reddit explica cómo y por qué recopilamos, usamos y compartimos información sobre ti cuando accedes a nuestros Servicios o los usas. Al usar los Servicios, aceptas que recopilemos y usemos esta información tal y como se establece en la [Política de Privacidad.](https://www.redditinc.com/policies/privacy-policy)
+
+**3\. Tu uso de los Servicios**
+
+Sujeto a tu cumplimiento absoluto y continuo de estos Términos, Reddit te otorga una licencia personal, intransferible, no exclusiva, revocable y limitada para: (a) instalar y utilizar una copia de nuestra aplicación móvil asociada con los Servicios, obtenida de una tienda de aplicaciones legítima, en un dispositivo móvil de tu propiedad o controlado por ti; y (b) acceder a los Servicios y utilizarlos. Nos reservamos todos los derechos que estos Términos no te otorgan expresamente.  
+  
+Excepto y únicamente en la medida en que dicha restricción sea inadmisible según la ley aplicable, no puedes, sin nuestro acuerdo por escrito:
+
+* otorgar licencias, vender, transferir, ceder, distribuir, alojar o explotar comercialmente los Servicios o el Contenido;
+* modificar, elaborar trabajos derivados, desensamblar, descompilar o realizar ingeniería inversa de cualquier parte de los Servicios o Contenido; o
+* acceder a los Servicios o Contenido para crear un sitio web, producto o servicio similar o competitivo, excepto según lo permitido a continuación.
+
+No garantizamos que los Servicios estén siempre disponibles o que sean ininterrumpidos. Siempre estamos mejorando nuestros Servicios. Lo cual significa que podemos añadir o eliminar características, productos o funcionalidades; intentaremos avisarte de antemano, aunque no siempre será posible. Nos reservamos el derecho de modificar, suspender o interrumpir los Servicios (en su totalidad o en parte) en cualquier momento, con o sin previo aviso. Cualquier versión futura, actualización u otra adición a la funcionalidad de los Servicios estará sujeta a estos Términos, que pueden actualizarse ocasionalmente. Aceptas que no seremos responsables ante ti ni ante ningún tercero por ninguna modificación, suspensión o interrupción de los Servicios o de cualquier parte de los mismos.
+
+**4\. Tu cuenta de Reddit y Seguridad de la cuenta**
+
+Para utilizar determinadas funciones de nuestros Servicios, es posible que debas crear una cuenta de Reddit (una "**Cuenta**") y proporcionar un nombre de usuario, contraseña y otra información sobre ti tal y como se establece en la [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy).  
+  
+Eres el único responsable de la información asociada con tu Cuenta y de todo lo que suceda en relación con la misma. Debes mantener la seguridad de tu Cuenta e [informar a Reddit](https://www.reddithelp.com/en/submit-request) de inmediato si descubres o sospechas que alguien ha accedido a tu Cuenta sin tu permiso. Te recomendamos que utilices una contraseña segura que se utilice solo con tu Cuenta y [habilites la autenticación de dos factores](https://www.reddithelp.com/en/categories/using-reddit/your-reddit-account/how-set-two-factor-authentication).  
+  
+No otorgarás licencia, venderás ni transferirás tu Cuenta sin nuestra aprobación previa por escrito.
+
+**5\. Tu Contenido**
+
+Los Servicios pueden contener información, texto, enlaces, gráficos, fotos, vídeos, audio, transmisiones u otros materiales ("**Contenido**"), incluido el Contenido creado con los Servicios o enviado a ellos por ti o mediante tu Cuenta ("**Tu Contenido**"). No asumimos ninguna responsabilidad y no respaldamos, apoyamos ni garantizamos, expresa o implícitamente, la integridad, veracidad, precisión o fiabilidad de Tu Contenido.  
+  
+Al enviar Tu Contenido a los Servicios, declaras y garantizas que tienes todos los derechos, la facultad y la autoridad necesarios para otorgar los derechos sobre Tu Contenido incluidos en los presentes Términos. Debido a que eres el único responsable de Tu Contenido, serás responsable si publicas o compartes contenido sin todos los derechos necesarios.  
+  
+Conservas todos los derechos de propiedad que tengas sobre Tu Contenido, pero le otorgas a Reddit la siguiente licencia para usar dicho Contenido:  
+  
+Cuando Tu Contenido se crea con o se envía a los Servicios, nos otorgas una licencia mundial, exenta de regalías, perpetua, irrevocable, no exclusiva, transferible y sublicenciable para usar, copiar, modificar, adaptar, preparar trabajos derivados de, distribuir, almacenar, ejecutar y mostrar Tu Contenido y cualquier nombre, nombre de usuario, voz o imagen proporcionados en relación con Tu Contenido en todos los formatos de medios y canales ahora conocidos o desarrollados posteriormente en cualquier parte del mundo. Esta licencia incluye el derecho para que hagamos que Tu Contenido esté disponible para su reproducción, transmisión, distribución o publicación por parte de otras empresas, organizaciones o personas que se asocian con Reddit. También aceptas que podemos eliminar los metadatos asociados con Tu Contenido, y renuncias irrevocablemente a cualquier reclamación y reivindicación de derechos morales o atribución con respecto a Tu Contenido.  
+  
+Cualquier idea, sugerencia y comentario sobre Reddit o nuestros Servicios que nos brindes es completamente voluntario, y aceptas que Reddit puede usar tales ideas, sugerencias y comentarios sin compensación u obligación alguna hacia ti.  
+  
+Aunque nos reservamos el derecho de revisar, filtrar, editar o monitorear Tu Contenido, no lo revisamos necesariamente todo en el momento en que se envía a los Servicios. Sin embargo, podemos, a nuestra absoluta discreción, eliminar o retirar Tu Contenido en cualquier momento y por cualquier motivo, incluso por infringir estos Términos, infringir nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy), o si de alguna otra manera genera o es probable que genere responsabilidad para nosotros.
+
+**6\. Contenido de terceros, Anuncios y Promociones**
+
+Los Servicios pueden contener enlaces a sitios web, productos o servicios de terceros, que pueden ser publicados por anunciantes, nuestras empresas asociadas, nuestros socios u otros usuarios ("**Contenido de Terceros**"). El Contenido de Terceros no está bajo nuestro control y no somos responsables de los sitios web, productos o servicios de terceros. El uso que hagas del Contenido de Terceros es por tu cuenta y riesgo, y debes realizar cualquier investigación que consideres necesaria antes de proceder con cualquier transacción relacionada con dicho Contenido de Terceros.  
+  
+Los Servicios también pueden contener Contenido de Terceros patrocinado o anuncios. El tipo, el grado y la orientación de los anuncios están sujetos a cambios, y reconoces y aceptas que podemos colocar anuncios en relación con la visualización de cualquier Contenido o información en los Servicios, incluido Tu Contenido.  
+  
+Si decides utilizar los Servicios para realizar una promoción, incluido un concurso o sorteo ("**Promoción**"), eres el único responsable de llevar a cabo la Promoción de conformidad con todas las leyes y reglamentos aplicables, incluyendo, a título enunciativo y no exhaustivo, la creación de reglas oficiales, los términos de la oferta, los requisitos de elegibilidad y el cumplimiento de las leyes, normas y reglamentos aplicables que rigen la Promoción (tales como licencias, registros, fianzas y aprobación normativa). Tu Promoción debe indicar que la Promoción no tiene el patrocinio ni el respaldo de Reddit ni está asociada con Reddit, y las reglas de tu Promoción deben requerir que cada participante o concursante exima a Reddit de cualquier responsabilidad relacionada con la Promoción. Reconoces y aceptas que no recibirás ayuda de ningún tipo para la Promoción por nuestra parte, y aceptas realizar tu Promoción por tu cuenta y riesgo.
+
+**7\. Cosas que no puedes hacer**
+
+Al usar o acceder a Reddit, debes cumplir con estos Términos y con todas las leyes, normas y reglamentos aplicables. Revisa la [Política de Contenido](https://www.redditinc.com/policies/content-policy), que se incorporan por referencia a estos Términos y forman parte de los mismos, y contienen las reglas de Reddit sobre contenido y conducta prohibidos Además de lo prohibido en la [Política de Contenido](https://www.redditinc.com/policies/content-policy), no puedes realizar ninguna de las siguientes acciones:  
+
+* Usar los Servicios de cualquier manera que pueda interferir, deshabilitar, interrumpir, sobrecargar o deteriorar de alguna otra manera los Servicios;
+* Obtener acceso a (o intentar obtener acceso a) la Cuenta de otro usuario o cualquier parte no pública de los Servicios, incluidos los sistemas o redes informáticos conectados o utilizados junto con los Servicios;
+* Cargar, transmitir o distribuir hacia o a través de los Servicios cualquier virus, gusano, código malicioso u otro software destinado a interferir con los Servicios, incluidas las funciones relacionadas con la seguridad;
+* Usar los Servicios para infringir la ley aplicable o infringir los derechos de propiedad intelectual de cualquier persona o entidad o cualquier otro derecho de propiedad;
+* Acceder, buscar o recopilar datos de los Servicios por cualquier medio (automatizado o de otro tipo) excepto según lo permitido en estos Términos o en un acuerdo aparte con Reddit (otorgamos permiso condicionalmente para rastrear los Servicios de acuerdo con los parámetros establecidos en nuestro archivo robots.txt, si bien queda prohibido recopilar los Servicios sin el consentimiento previo por escrito de Reddit); o
+* Usar los Servicios de cualquier manera que consideremos un abuso o fraude en Reddit o cualquier sistema de pago.
+
+Te animamos a que [report](https://reddit.zendesk.com/hc/en-us/requests/new) contenidos o conductas que creas que violan estos Términos o nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy). También apoyamos las denuncias responsables de vulnerabilidades de seguridad. Para informar sobre un problema de seguridad, envía un correo electrónico a [security@reddit.com](mailto:security@reddit.com).
+
+**8\. Moderadores**
+
+La labor de moderar un subreddit es un puesto voluntario no oficial que puede estar disponible para los usuarios de los Servicios. No nos hacemos responsables de las acciones llevadas a cabo por los moderadores. Nos reservamos el derecho de revocar o limitar la capacidad de un usuario para moderar en cualquier momento y por cualquier motivo o sin motivo, incluido el incumplimiento de estos Términos.  
+  
+Si decides moderar un subreddit:  
+
+* Aceptas seguir el [Código de conducta de moderación](https://www.reddit.com/help/healthycommunities/);
+* Aceptas que cuando recibas informes relacionados con un subreddit que moderes, tomarás las medidas adecuadas, que pueden incluir eliminar contenido que infrinja la política y/o derivar rápidamente el asunto a Reddit para su revisión;
+* No estás autorizado a actuar en nombre de Reddit, y no puedes manifestar que sí lo estás;
+* No puedes celebrar ningún acuerdo con un tercero en nombre de Reddit, o cualquier subreddit que moderes, sin nuestra aprobación por escrito;
+* No puedes realizar acciones de moderación a cambio de ninguna forma de compensación, retribución, obsequio o favor de terceros;
+* Si tienes acceso a información no pública como resultado de moderar un subreddit, usarás dicha información solo en relación con tu función como moderador; y
+* Puedes crear y hacer cumplir reglas para los subreddit que moderes, siempre que dichas reglas no entren en conflicto con los presentes Términos, la [Política de Contenido](https://www.reddit.com/help/healthycommunities/), o el [Código de conducta de moderación](https://www.reddit.com/help/healthycommunities/)[](https://www.reddit.com/help/healthycommunities/).
+
+Reddit se reserva el derecho, pero no tiene la obligación, de revocar cualquier acción o decisión de un moderador si Reddit, a su absoluta discreción, cree que dicha acción o decisión no beneficia a Reddit ni a la comunidad de Reddit.
+
+**9\. Derechos de autor, Marca comercial, DMCA y Eliminaciones**
+
+Reddit respeta la propiedad intelectual de otros y requiere que los usuarios de nuestros Servicios hagan lo mismo. Tenemos una política que incluye la eliminación de cualquier material infractor de los Servicios y la eliminación, en circunstancias apropiadas, de los usuarios de nuestros Servicios que sean infractores reincidentes. Si crees que algo en nuestros Servicios infringe un derecho de autor o una marca comercial de la cual eres titular o controlas, puedes informar de ello al Agente Designado de Reddit y completar nuestro [Formulario de Reporte de Derechos de Autor](https://www.reddithelp.com/en/submit-request/copyright-infringement-dmca) o [Formulario de Reporte de Marca Comercial](https://reddit.zendesk.com/hc/en-us/requests/new?ticket_form_id=106573), o poniéndote en contacto con:  
+  
+Agente de derechos de autor  
+Reddit, Inc.  
+1455 Market Street, Suite 1600  
+San Francisco, CA 94103  
+[copyright@reddit.com](mailto:copyright@reddit.com)  
+  
+Además, ten en cuenta que si, a sabiendas, declaras erróneamente que cualquier actividad o material en nuestros Servicios está infringiendo derechos de autor, puedes ser responsable ante Reddit por ciertos costes y daños.  
+  
+Si eliminamos Tu Contenido en respuesta a un aviso de derechos de autor o marca comercial, te lo notificaremos a través del sistema de mensajería privada de Reddit. Si crees que Tu contenido se eliminó por error debido a una equivocación o una identificación errónea en un aviso de derechos de autor, puedes enviar una contranotificación a través de nuestro [Formulario de Contranotificación de Derechos de Autor](https://www.reddithelp.com/en/submit-request/copyright-counter-notice) o ponerte en contacto con nuestro Agente de derechos de autor (información de contacto proporcionada anteriormente). Puedes leer el artículo [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) para conocer los requisitos de cómo hacer una contranotificación adecuada.
+
+**10\. Servicios de Pago e Información de Pago**
+
+No existen cargos por el uso de muchos aspectos de los Servicios. No obstante, algunos Servicios, incluidos Reddit Premium y Bienes Virtuales, pueden estar disponibles para su compra ("**Servicios de Pago**"). Además de estos Términos, al comprar o usar Reddit Premium o nuestros Bienes Virtuales, también aceptas el [Acuerdo de Reddit Premium y Bienes Virtuales](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).  
+  
+Reddit puede cambiar las tarifas o los beneficios asociados con los Servicios de Pago ocasionalmente con un aviso previo razonable de los cambios sustanciales; siempre que, sin embargo, no se requiera notificación previa para promociones temporales, incluidas las reducciones temporales en las tarifas asociadas con los Servicios de Pago. No obstante lo anterior, cualquier cambio de precio o cambio en tus planes de suscripción se aplicará no antes de los 30 días posteriores a la notificación.  
+  
+Puedes enviar tu tarjeta de débito, tarjeta de crédito u otra información de pago ("**Información de Pago**") a través de nuestros Servicios para adquirir los Servicios de Pago. Usamos proveedores de servicios externos para procesar tu Información de Pago. Si envías tu Información de Pago, aceptas pagar todos los gastos en los que incurras y nos das permiso para cobrarte cuando venza el pago por una cantidad que incluye estos costes y los impuestos y tarifas aplicables.
+
+**11\. Propiedad intelectual**
+
+Los Servicios son propiedad de y están operados por Reddit. Las interfaces visuales, los gráficos, el diseño, la compilación, la información, los datos, el código informático, los productos, los Servicios, las marcas comerciales y todos los demás elementos de los Servicios ("**Materiales**") proporcionados por Reddit están protegidos por las leyes de propiedad intelectual y otras leyes aplicables. Todos los Materiales incluidos en los Servicios son propiedad de Reddit o sus terceros licenciatarios. Reconoces y aceptas que no adquirirás ningún derecho de propiedad al descargar los Materiales o al comprar Reddit Premium o Bienes Virtuales. Excepto lo autorizado expresamente por Reddit, y sujeto a las [Directrices de Marca](https://www.redditinc.com/assets/press-resources/reddit_brand_guidelines_202009-3.pdf), no puedes hacer uso de los Materiales. Reddit se reserva todos los derechos sobre los Materiales que no se otorgan expresamente en estos Términos.
+
+**12\. Indemnidad**
+
+Excepto en la medida en que lo prohíba la ley, aceptas defender, compensar y mantener indemne a Reddit, sus empresas asociadas y sus respectivos directores, gestores, empleados, afiliados, agentes, contratistas, proveedores de Servicios externos y otorgantes de licencias (las "**Entidades de Reddit**") de y contra cualquier reclamación o demanda hecha por un tercero, y cualquier responsabilidad, daño, pérdida y gasto relacionado (incluidos los costes y honorarios de abogados) debidos a, que surjan de, o guarden relación con: (a) tu uso de los Servicios, (b) tu violación de estos Términos, (c) tu violación de las leyes o reglamentos aplicables, o (d) Tu Contenido. Nos reservamos el derecho de controlar la defensa legal de cualquier asunto por el que debas indemnizarnos, y aceptas cooperar con nuestra defensa legal con respecto a estas reclamaciones.
+
+**13\. Limitación de Responsabilidad**
+
+Al utilizar los Servicios, aceptas que la responsabilidad de las Entidades de Reddit se limita al máximo permitido en tu país de residencia. La responsabilidad se limitará a los daños y perjuicios previsibles que se produzcan por el incumplimiento de las obligaciones contractuales materiales típicas de este tipo de contratos. Reddit no se hace responsable de los daños que resulten de un incumplimiento no material de cualquier otro deber de diligencia aplicable. Esta limitación de responsabilidad no se aplicará a ninguna responsabilidad legal que no pueda limitarse, a la responsabilidad por muerte o lesiones personales causadas por negligencia o mala conducta intencional por nuestra parte, o para excluir nuestra responsabilidad por algo que te hayamos prometido específicamente.
+
+**14\. Cambios a estos Términos**
+
+Es posible que realicemos cambios a estos Términos ocasionalmente. Si realizamos cambios, publicaremos los Términos revisados y actualizaremos la Fecha de Entrada en Vigor indicada más arriba. Si los cambios, a nuestro razonable criterio, son sustanciales, te lo notificaremos enviando un correo electrónico a la dirección asociada a tu Cuenta (si has elegido proporcionar una dirección de correo electrónico) o enviándote un aviso a través de nuestros Servicios al menos 30 días antes de la fecha en que entren en vigor. Si continúas accediendo o utilizando los Servicios en o después de la Fecha de Entrada en Vigor de los Términos revisados, expresas tu conformidad con estar sujeto a los Términos revisados. Si no estás de acuerdo con los Términos revisados, debes dejar de acceder y utilizar nuestros Servicios antes de que los cambios entren en vigor.
+
+**15\. Términos Adicionales**
+
+Debido a que ofrecemos diversos Servicios, es posible que solicitemos que aceptes términos, políticas, pautas o reglas adicionales antes de usar un producto o servicio específico ofrecido por Reddit (conjuntamente, "**Términos Adicionales**"). Todos los Términos Adicionales se incorporan por esta referencia a los presentes Términos y forman parte de ellos, y en la medida en que los Términos Adicionales entren en conflicto con los presentes Términos, los Términos Adicionales rigen tu uso de los Servicios correspondientes.
+
+* Si usas Reddit Premium o Bienes Virtuales, también debes aceptar el [Acuerdo de Reddit Premium y Bienes Virtuales](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement).
+* Si usas la plataforma de autoservicio para publicidad, también debes aceptar los [Términos de Publicidad de Plataforma de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+* Si utilizas cualquiera de nuestros Servicios para desarrolladores (incluyendo nuestras API), también deberás aceptar los [Términos para desarrolladores de Reddit](https://www.redditinc.com/policies/developer-terms).
+
+**16\. Resolución**
+
+Puedes resolver estos Términos en cualquier momento y por cualquier motivo eliminando tu Cuenta y dejando de usar todos los Servicios. Si dejas de usar los Servicios sin desactivar tu Cuenta, tu Cuenta puede desactivarse debido a inactividad prolongada.  
+  
+En la medida en que lo permita la ley, podemos suspender o cancelar tu Cuenta, estado de moderador o capacidad de acceder o utilizar los Servicios en cualquier momento por cualquier motivo o sin él, inclusive por infringir estos Términos o nuestra [Política de Contenido](https://www.redditinc.com/policies/content-policy).  
+  
+Las siguientes secciones permanecerán en vigor después de la terminación de estos Términos o de tu Cuenta: 5 (Tu Contenido), 7 (Cosas que no puedes hacer), 12 (Indemnidad), 13 (Limitación de responsabilidad), 16 (Terminación) y 17 (Disposiciones varias).
+
+**17\. Disposiciones varias**
+
+Estos Términos, junto con la [Política de Privacidad](https://www.redditinc.com/policies/privacy-policy) y cualquier otro acuerdo incorporado expresamente por referencia en estos Términos, constituyen el acuerdo completo entre tú y nosotros con respecto a tu acceso y uso de los Servicios. El hecho de que no ejerzamos o hagamos cumplir cualquier derecho o disposición de estos Términos no implica una renuncia a dicho derecho o disposición. Si alguna parte de estos Términos se considerase inválida o inaplicable, la parte inaplicable tendrá efecto en la mayor medida posible, y las partes restantes permanecerán en pleno vigor y efecto. No cederás ni transferirás ningún derecho u obligación en virtud de estos Términos sin el consentimiento previo por escrito de Reddit. Reddit puede, sin restricción, ceder cualquiera de nuestros derechos y obligaciones en virtud de estos Términos, a su discreción, con 30 días de antelación. Tu derecho a rescindir estos Términos en cualquier momento de conformidad con la Sección 16 no se ve afectado.  
+  
+Estos Términos son un acuerdo legalmente vinculante entre tú y Reddit, Inc. Si tienes alguna pregunta sobre estos Términos, por favor, [ponte en contacto con nosotros](https://www.reddithelp.com/hc/en-us/requests/new).
+
+**18\. Información de contacto**
 
 Reddit, Inc.  
 1455 Market Street, Suite 1600  
 San Francisco, CA 94103  
-États-Unis  
+Estados Unidos  
   
-Le représentant suivant est autorisé à recevoir des significations en Allemagne au nom de Reddit, Inc. pour les procédures administratives et judiciaires au sens de l’article 5(1) de la loi _Network Enforcement Act_ :  
+El siguiente representante está autorizado a ser notificado en Alemania en nombre de Reddit, Inc. para procedimientos administrativos y judiciales en virtud del artículo 5 (1) de la ley alemana de redes sociales (_Network Enforcement Act_, NetzDG):  
   
 Taylor Wessing PartG mbB  
 \- NetzDG-Zustellungen -  
 Am Sandtorkai 41  
 20457 Hamburg  
-Allemagne  
+Alemania  
   
-Cette autorisation de recevoir des significations concerne exclusivement une signification se rapportant à des contenus illicites au sens de l’article 1(3) de la _loi Network Enforcement Act_.
+La presente autorización para recibir notificaciones se refiere exclusivamente al servicio con respecto al contenido ilegal en virtud del artículo 1 (3) de la ley alemana de redes sociales (_Network Enforcement Act_, NetzDG).
