@@ -1,9 +1,9 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 23 mai 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 16 juin 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
 
-Les présentes conditions générales de vente (les "CGV") régissent les contrats conclus sur le site www.vertbaudet.fr (le "Site") avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet").
+Les présentes conditions générales de vente (les "CGV") régissent les contrats conclus sur le site www.vertbaudet.fr (le "Site") avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet"), »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
 Vous pouvez nous contacter :
 
@@ -36,7 +36,7 @@ Préambule
 
 Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le "Client").
 
-Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet (ci-après les "Produits").
+Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet(ci-après les « Produits »).
 
 L'expédition des Produits (ou la fourniture de services liés aux Produits) ne pourra territorialement s'effectuer qu'en France métropolitaine et en Corse (voir article 5 pour une livraison dans une autre région).
 
@@ -67,6 +67,8 @@ Les prix des Produits sont indiqués en Euros toutes taxes comprises. Ils tienne
 3\. La commande
 ---------------
 
+  
+
 ### 3.1 Identification préalable du Client
 
 Pour passer une commande, vous vous identifiez avec votre adresse email ou votre numéro de Client et votre mot de passe. Pour toute première commande, vous devrez suivre une procédure de création de compte indiquée sur le Site. Le numéro de Client est personnel. Toute perte ou oubli devra être dénoncé au Service Clients de Vertbaudet en téléphonant au 03.20.760.760 (coût d’un appel local depuis un poste fixe) du lundi au vendredi de 9h à 18h ou le samedi de 9h à 16h.
@@ -87,6 +89,8 @@ Pour toute question relative au suivi de votre commande, merci d'appeler le 03.2
 
 4\. Le paiement
 ---------------
+
+  
 
 ### Modes de paiement
 
