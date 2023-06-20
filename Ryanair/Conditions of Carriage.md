@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 3 May 2023
+### Date d’entrée en vigueur : 20th June 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 3 May 2023**
+**Date d’entrée en vigueur : 20th June 2023**
 
   
 
@@ -1469,19 +1469,13 @@ Les frais de modification de vol s’appliquent pour chaque vol/passager et vari
 
 **Changement de nom**
 
-Les clients qui ont réservé leur vol directement sur le site Internet Ryanair.com disposent d’une période de grâce de 48 heures à compter de la réservation initiale, pour corriger gratuitement toute erreur mineure (par exemple, les fautes d’orthographe dans les noms).
+Vous pouvez modifier les noms figurant sur la réservation jusqu’à 24  heures avant l’heure de départ prévue en ligne dans la section « Mes réservations » de notre site Internet ou jusqu’à 2 heures avant l’heure de départ prévue en appelant un centre de réservation ou au guichet de l’aéroport. Les changements de nom doivent être effectués pour tous les vols de votre réservation. 
 
-Après cette période de grâce, vous pouvez corriger gratuitement toute éventuelle faute d’orthographe, dans la limite de 3 caractères par nom dans la rubrique Mes réservations jusqu’à 48 heures avant le départ prévu. Si vous ne parvenez pas à effectuer les modifications en ligne, veuillez contacter notre centre d’appel jusqu’à 2 heures avant le départ prévu ou vous rendre au comptoir à l’aéroport. Ces corrections ne vous seront pas facturées, tant que nous croyons que vous corrigez une erreur légitime et n’essayez pas d’attribuer la réservation à une autre personne. Les corrections ne peuvent être effectuées qu’une fois par réservation. 
+Les frais de modification sont facturés par passager/par réservation, veuillez consulter notre tableau des frais pour plus de détails. 
 
-Si vous modifiez votre date, heure ou itinéraire de vol dans les **24 heures** suivant votre réservation, nous ne vous facturerons pas les frais de modification de vol figurant dans notre tableau de tarifs. Cependant, vous devrez payer toute différence de prix entre le tarif d’origine et le tarif du nouveau vol (si le tarif du nouveau vol est inférieur, nous ne vous rembourserons pas la différence.)
+Vous pouvez échanger votre prénom et votre nom dans les 48 heures suivant votre réservation. Vous pouvez corriger gratuitement toute faute d’orthographe éventuelle, dans la limite de 3 caractères par nom dans la rubrique Mes réservations jusqu’à 48 heures avant le départ prévu. Les corrections ne peuvent être effectuées qu’une seule fois par passager sur une réservation.    
 
-Les frais de modification de nom s’appliquent pour chaque passager/réservation. Pour plus d’informations, consultez notre Tableau récapitulatif des frais.
-
-Les dates et horaires des vols peuvent être modifiés (en fonction des disponibilités des sièges). Ces modifications peuvent être apportées jusqu’à 2 h 30 avant l’horaire de départ du vol prévu, soit en ligne soit via notre  centre de réservation (aux heures d’ouverture). Des remises s’appliquent lors des réservations en ligne.  
-
-La modification du nom d’un passager sur une réservation doit s’appliquer à l’ensemble de l’itinéraire de vol.
-
- \* Les passagers qui se sont enregistrés en ligne mais qui souhaitent changer la date de leur vol, l’itinéraire ou le nom du passager doivent contacter un centre de réservation jusqu’à la veille du départ (voir les horaires d’ouverture) afin que le(s) vol(s) requis soient décoché(s). Une fois le(s) vol(s) décoché(s), la réservation peut être modifiée via Gérer ma réservation. Les changements de nom ne sont pas possibles si un vol de la réservation a été utilisé. Ce service n’est pas disponible à l’aéroport.
+Si vous modifiez la date ou l’heure de votre vol ou si vous devez inverser l’itinéraire de vos vols dans les 24 heures suivant votre réservation, nous ne vous facturerons pas les frais de changement de vol indiqués dans notre tableau des frais, mais vous devrez payer toute différence de prix entre le tarif initial et le tarif du nouveau vol (si le tarif du nouveau vol est moins élevé, la différence ne vous sera pas remboursée). 
 
 EMBARQUEMENT PRIORITAIRE
 
