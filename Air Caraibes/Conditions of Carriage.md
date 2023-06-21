@@ -352,7 +352,7 @@ Le type avion indiqué au Passager au moment de la Réservation ou ultérieureme
 
   
 **1\.     Moyens de paiement**  
-Les moyens de paiement acceptés par Air Caraïbes sont indiqués ici : [https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement](https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement%C2%A0)   
+Les moyens de paiement acceptés par Air Caraïbes sont indiqués ici : [https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement](https://www.aircaraibes.com/pratique/mentions-legales/reservations-moyens-paiement)   
    
 **2\.     Paiement à distance (Internet et téléphone) par Carte Bancaire**  
 (a) Air Caraïbes se réserve le droit d’effectuer à tout moment des contrôles et vérifications sur les transactions bancaires effectuées à distance.  
@@ -741,7 +741,7 @@ Le mode de calcul du délai sera déterminé par la loi du tribunal saisi.
    
 **2\. Procédures**  
 (a) Toutes réclamations ou actions mentionnées ci-dessus à l’encontre d’Air Caraïbes doivent être faites par écrit, dans les délais indiqués :  
-\- Par Internet : [https://www.aircaraibes.com/pratique/contacts-reclamations](https://www.aircaraibes.com/pratique/contacts-reclamations%C2%A0)   
+\- Par Internet : [https://www.aircaraibes.com/pratique/contacts-reclamations](https://www.aircaraibes.com/pratique/mentions-legales/politique-de-confidentialite)   
 \- Par courrier : Service Relations Clientèle Air Caraïbes - BP 29054 - 30971 NIMES CEDEX 9   
 (b) Après avoir saisi le service relations clientèle d’Air Caraïbes et à défaut de réponse satisfaisante dans un délai de 60 jours, le client peut saisir le Médiateur du Tourisme et du Voyage, dont les coordonnées et modalités de saisine sont disponibles sur son site : www.mtv.travel (MTV Médiation Tourisme Voyage, BP 80303 - 75823 Paris Cedex 17)  
 Pour toute information relative au règlement extra-judiciaire des litiges, le client est invité à consulter : [https://ec.europa.eu/consumers/odr/main/?event=main.home2.show](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show%C2%A0)   
