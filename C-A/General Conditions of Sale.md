@@ -70,7 +70,7 @@ Dans certains cas, notamment en cas d'incident de paiement, de difficulté prév
 
 3.1. Délai de livraison
 
-Si les articles commandés par le Client sont disponibles, la livraison interviendra dans les 5 (cinq) à 10 (dix) jours ouvrés à compter de la commande, passée en semaine avant 14 heures. La livraison s’entend ici comme la réception effective de l’article/du dernier article objet d’une même commande par le Client ou par un tiers désigné par lui à l'adresse indiquée par le Client.
+Si les articles commandés par le Client sont disponibles, la livraison interviendra dans les 5 (cinq) à 8 (dix) jours ouvrés à compter de la commande, passée en semaine avant 14 heures. La livraison s’entend ici comme la réception effective de l’article/du dernier article objet d’une même commande par le Client ou par un tiers désigné par lui à l'adresse indiquée par le Client.
 
 3.2. Zone de livraison
 
