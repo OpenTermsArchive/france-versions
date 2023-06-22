@@ -570,8 +570,8 @@ Dans le cas où, après acceptation du colis, vous constateriez que le produit c
 
 et ce, au plus tard dans les quatorze (14) jours calendaires après réception de votre commande.
 
-_Article 8 : RETRACTION_
-------------------------
+_Article 8 : RETRACTATION_
+--------------------------
 
 **8.1 Principe**
 
