@@ -474,4 +474,4 @@ Nous pouvons être amené à modifier occasionnellement la présente politique d
 
 Pour toute question relative à la présente politique de confidentialité ou pour toute demande relative à vos données personnelles, vous pouvez nous contacter en :
 
-* adressant un email à notre délégué à la protection des données à l’adresse dataprotectio[\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)
+* adressant un email à notre délégué à la protection des données à l’adresse [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)
