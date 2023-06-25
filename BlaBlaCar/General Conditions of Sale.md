@@ -461,7 +461,7 @@ Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter 
 16\. Mentions légales
 ---------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 154.803,017 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (email : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tel : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 154.803,017 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (email : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)lacar.com, tel : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform au Pays-Bas.
 
