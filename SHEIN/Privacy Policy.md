@@ -1,8 +1,8 @@
 POLITIQUE DE CONFIDENTIALITÉ DE SHEIN
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
@@ -192,9 +192,9 @@ Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
 
 POLITIQUE DE CONFIDENTIALITÉ DE SHEIN
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
@@ -382,9 +382,9 @@ Los Angeles, CA 90021, États-Unis
 
 Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
@@ -572,9 +572,9 @@ Los Angeles, CA 90021, États-Unis
 
 Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
@@ -603,9 +603,9 @@ Cliquez sur les liens ci-dessous pour accéder à une section spécifique de cet
 * [**9\. Transfert de vos données personnelles >**](javascript:;)
 * [**10\. Nous contacter >**](javascript:;)
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
@@ -619,9 +619,9 @@ Veuillez lire [nos conditions générales](https://fr.shein.com/Terms-and-Condit
 
 **Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
 
-Avec effet au 21 juin 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
+Avec effet au 3 juillet 2023 (les « Données effectives »), la politique de confidentialité du site et de l'application SHEIN a été modifiée (voir [ici](https://fr.shein.com/Privacy-Security-Policy-a-282.html) pour plus d'informations). Infinite Styles Services Co., Limited exploitera le site et l'application SHEIN sur lesquels vous avez un compte, et permettra aux vendeurs tiers de répertorier leurs produits sur le site et l'application à vendre. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles avec des vendeurs tiers afin d'effectuer des transactions, qui seront responsables du traitement de vos informations conformément aux lois applicables et aux limitations imposées par notre accord avec eux.
 
-Date d’entrée en vigueur : 21er juin 2023
+Date d’entrée en vigueur : 3 juillet 2023
 
 Introduction et aperçu
 
