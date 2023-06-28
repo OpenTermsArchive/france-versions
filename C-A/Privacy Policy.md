@@ -3,28 +3,26 @@ Traduit avec www.DeepL.com/Translator (version gratuite)
 Sécurité des données
 ====================
 
-Politique de confidentialité
-----------------------------
+Protection des données et politique de confidentialité
+------------------------------------------------------
 
-La protection des données est une affaire de confiance et nous voudrions vous donner l’assurance que vos données sont entre de bonnes mains avec nous. La protection et la collecte, le traitement et l’utilisation de vos données conformément à la loi nous tiennent à cœur, afin que votre vie privée et vos données personnelles soient respectées.
+La protection des données est une question de confiance et nous souhaiterions vous assurer de nouveau que vos données sont entre de bonnes mains avec nous. Nous accordons une importance capitale à la protection et à ce que la collecte, le traitement et l’utilisation de vos données à caractère personnel soient en conformité avec la législation, vous pouvez donc être assuré.e que votre vie privée est respectée.
 
-Pour que vous puissiez vous sentir en sécurité lors de votre consultation de l’e-shop C&A, vous découvrirez dans la présente politique de confidentialité : 
+Le présent avis de confidentialité est applicable aux clients du C&A Group, la société affiliée de C&A AG, y compris les actuels, passés et potentiels clients, utilisateurs et bénéficiaires d’un produit ou d’un service offert par nos soins, les visiteurs de nos sites Internet officiels, de nos magasins ou les membres de notre programme de fidélité.
 
-* les données que nous enregistrons lorsque vous utilisez l’e-shop C&A.
-* À quelles fins nous traitons vos données
-* Quels sont vos droits et possibilités de paramétrage, notamment comment vous pouvez vous opposer au traitement de vos données et révoquer vos consentements éventuellement accordés.
+### 1. Quelle société C&A est responsable?
 
-### 1. Qui est le responsable de traitement de l’e-shop C&A ?
+C&A Group consiste en différentes entités légales. La société responsable du traitement de vos données à caractère personnel dépend de la finalité de la collection des données. Vous serez informé.e de manière claire et transparente de la société responsable pour chaque finalité de traitement. Il s’agira soit de C&A Mode GmbH & Co. KG ou de l’une de nos filiales locales.
 
-Le responsable de traitement, au sens du règlement général européen sur la protection des données (RGPD), pour le traitement des données en lien avec votre utilisation de l’e-shop C&A, est la société:
+Le contrôleur responsable du traitement de vos données dans le sens du Règlement général européen sur la protection des données (RGPD), lorsque vous utilisez l’e-shop de C&A, est:
 
 **C&A Mode GmbH & Co. KG  
 Wanheimer Straße 70  
 40468 Düsseldorf**
 
-Ci-après, « nous » ou « C&A » désignent donc la société C&A Mode GmbH & Co. KG en tant qu’exploitante de l’e-shop C&A. Vous trouverez plus de détails sur notre entreprise et nos coordonnées dans les [Mentions légales.](https://www.c-and-a.com/fr/fr/shop/service/mentions-legales)
+Par conséquent, « nous » ou « C&A » utilisés ci-après désigne C&A Mode GmbH & Co. KG en tant qu’opérateur de l’e-shop C&A. Veuillez consulter nos [informations légales](https://www.c-and-a.com/fr/fr/shop/service/mentions-legales) pour obtenir de plus amples informations sur notre société ainsi que nos informations de contact.
 
-Vous pouvez contacter notre délégué à la protection des données à l’adresse [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) ou à l’adresse postale susmentionnée en ajoutant « A l’att. du délégué à la protection des données ».
+Vous pouvez écrire à notre délégué à la protection des données à l’adresse [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) ou à l’adresse postale susmentionnée en ajoutant « À l’attention du délégué à la protection des données » dans la ligne réservée à l’objet.
 
 ### 2. Quelles sont les données enregistrées par C&A ?
 
