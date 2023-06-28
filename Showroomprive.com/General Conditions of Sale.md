@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 10/05/2023
+Date : 28/06/2023
 
 Bienvenue sur Showroomprive.com
 
@@ -122,7 +122,7 @@ Pour toute annonce de réduction de prix d'un produit proposé lors des ventes C
 
 5.1 Modes de paiement
 
-Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney, Klarna, Clearpay ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
+Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney, Klarna, ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
 
@@ -191,20 +191,6 @@ Nous vous précisons que, aux termes des conditions générales de Klarna :
 · Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France métropolitaine et titulaires d'une carte bancaire de débit ou de crédit valide et ne possédant pas une date d'expiration proche. Les e-cards et les cartes American Express ne sont pas acceptées. Klarna se réserve toutefois le droit de refuser votre moyen de paiement et/ou de modifier les cartes bancaires autorisées. En cas de refus de votre moyen de paiement, vous serez averti par Klarna avant la fin de votre achat.
 
 · Vous disposez d'un délai de rétractation de 14 jours pour renoncer, auprès de notre partenaire, à votre solution de financement Klarna.
-
-Paiement avec CLEARPAY
-
-· La solution de financement proposée par notre partenaire Clearpay est un paiement en 3 fois sans frais. Le mode de paiement Clearpay vous permet d'acheter sans frais des produits de 4€ à 250€ (frais de port inclus) en 3 versements (d'un montant égal et prélevés tous les mois). Il suffit de choisir Clearpay comme mode de paiement au moment du paiement et de remplir un court formulaire pour accéder à votre compte Clearpay ou en créer un.
-
-· Une fois le paiement confirmé, seul le premier versement vous sera facturé : de cette façon, votre commande passera directement à la phase de traitement et d'expédition. Pendant ce temps, Clearpay divisera le montant restant en 2 autres versements qui seront automatiquement prélevés sur votre compte tous les mois. Clearpay n'entraîne aucun coût supplémentaire si les paiements échelonnés sont effectués dans les délais, c'est-à-dire à la date d'échéance.
-
-Nous vous invitons à prendre connaissance des conditions générales de la solution de Clearpay accessibles [ici](https://www.clearpay.com/fr-FR/terms) , et dont l'acceptation sera nécessaire à toute souscription. Nous vous précisons que, aux termes des conditions générales de Clearpay :
-
-· Cette offre est réservée aux particuliers (personnes physiques majeures) résidant en France, possédant une carte de crédit ou de débit Visa ou Mastercard Européenne et disposant d'un numéro de téléphone portable français.
-
-· En cas de refus de votre moyen de paiement, vous serez averti par Clearpay avant la fin de votre achat.
-
-· Les produits marketplace et l'abonnement infinity ne peuvent pas être payés via Clearpay.
 
 Paiement avec Fintecture
 
