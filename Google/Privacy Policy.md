@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 15 décembre 2022 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20221215/qi5mvafl/google_privacy_policy_fr_eu.pdf)
+À compter du 1 juillet 2023 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20230701/4jko9ma5/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -142,7 +142,7 @@ Nous utilisons les informations que nous collectons via nos services existants a
 
 Nous utilisons les informations que nous collectons pour personnaliser nos services en fonction de vous, notamment pour vous proposer des recommandations, du contenu personnalisé et des [résultats de recherche personnalisés](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-customized-search). Par exemple, le [Check-up Sécurité](https://myaccount.google.com/security-checkup?utm_source=pp&hl=fr) offre des astuces de sécurité adaptées à votre utilisation des produits Google. Le service Google Play exploite quant à lui des informations, telles que les applications que vous avez déjà installées et les vidéos que vous avez regardées sur YouTube pour vous proposer de nouvelles applications susceptibles de vous intéresser.
 
-Selon vos paramètres, nous pouvons également vous présenter des [annonces personnalisées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personalized-ads) sélectionnées sur la base de vos centres d'intérêt. Par exemple, si vous recherchez "VTT", il est possible qu'une annonce faisant la promotion d'équipements de sport s'affiche lorsque vous parcourez un site qui propose des annonces diffusées par Google. Vous pouvez contrôler les informations que nous utilisons pour vous présenter des annonces dans les paramètres des annonces de [Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr).
+En fonction de vos paramètres, nous pouvons également vous proposer des [annonces personnalisées](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-personalized-ads) sur la base de vos centres d'intérêt. Par exemple, si vous recherchez "vélos tout-terrain", vous verrez peut-être des annonces pour des équipements sportifs sur YouTube. Vous pouvez contrôler les informations que nous utilisons pour vous présenter des annonces en accédant aux paramètres des annonces dans [Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr).
 
 * Nous ne vous présentons pas d'annonces personnalisées en fonction de [catégories sensibles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensitive-categories), telles que la race, la religion, l'orientation sexuelle ou la santé.
 * Nous ne vous présentons pas d'annonces personnalisées en fonction de vos contenus sur Drive, Gmail ou Photos.
@@ -736,7 +736,7 @@ Par exemple, pour éviter les utilisations abusives et accroître la transparenc
 
 ### sources accessibles publiquement
 
-Par exemple, nous pouvons collecter des informations disponibles publiquement en ligne ou auprès d'autres sources publiques pour contribuer au développement des modèles linguistiques de Google et concevoir des fonctionnalités comme Google Traduction. De plus, si les informations de votre établissement figurent sur un site Web, nous pouvons les indexer et les afficher sur les services Google.
+Par exemple, nous pouvons collecter des informations disponibles publiquement en ligne ou auprès d'autres sources publiques pour contribuer à l'entraînement des modèles d'IA de Google, et concevoir des produits et des fonctionnalités comme Google Traduction, Bard et les capacités d'IA de Cloud. De plus, si les informations de votre établissement figurent sur un site Web, nous pouvons les indexer et les afficher sur les services Google.
 
 ### suppression
 
