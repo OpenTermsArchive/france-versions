@@ -17,13 +17,13 @@ Le respect de votre vie privée est notre priorité.
 
 #### Responsable du traitement
 
-FINNAIR Oyj  
+Finnair Plc  
 Business ID: 0108023-3  
 Address: Tietotie 9 01530 VANTAA, FINLAND
 
 #### Service de confidentialité en ligne
 
-Gérez vos paramètres de confidentialité et demandez vos données personnelles sur le site Web de Finnair :  [https://privacy.finnair.com](https://privacy.finnair.com/).
+Gérez vos paramètres de confidentialité et demandez vos données personnelles sur le site Web de Finnair :  [https://privacy.finnair.com](https://privacy.finnair.com/).
 
 #### Délégué à la protection des données
 
