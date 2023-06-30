@@ -253,11 +253,9 @@ La Société propose au Client les modes de livraison aux prix détaillés ci-de
 
 **France métropolitaine et Corse**
 
-Livraisons offertes dès 200 euros d'achat
-
   
 
-**CLICK AND COLLECT, GRATUIT**, dans les magasins Printemps\*
+**CLICK AND COLLECT - GRATUIT**, dans les magasins Printemps\*
 
 \* Service non disponible à Printemps Caen, Printemps Brest, Printemps Tours et Printemps Outlet Miramas.
 
@@ -279,7 +277,11 @@ Pour plus d'informations sur les jours et horaires d'ouverture des magasins Prin
 
   
 
-**STANDARD COLISSIMO**, 5 euros (48 à 72 heures)
+**STANDARD COLISSIMO -** 5,90 euros (48 à 72 heures)
+
+  
+
+Livraisons offertes dès 200 euros d'achat
 
   
 
@@ -301,7 +303,7 @@ Un e-mail sera envoyé au Client lorsque son colis sera expédié depuis l'entre
 
   
 
-**EXPRESS CHRONOPOST**, 8 euros (en 24 heures)
+**EXPRESS CHRONOPOST** - 9,90 euros (en 24 heures)
 
   
 
@@ -361,7 +363,9 @@ Le délai de livraison est de 1 jour ouvré.
 
   
 
-Livraisons offertes
+Conditions de livraison identiques à la France.
+
+  
 
 La création d'un compte sur le site du partenaire ColisExpat, accessible à l'adresse [https://www.colisexpat.com](https://www.colisexpat.com/), permet de livrer le Client à une adresse française depuis laquelle la commande sera ré-expédiée vers le pays choisi par le Client. Colis Expat prenant en charge l'acheminement du colis depuis cette adresse quel que soit le pays de destination.
 
