@@ -1,9 +1,9 @@
-Dernière modification le 02/02/2023
+Dernière modification le 30/06/2023
 
 **Avis de confidentialité** – **Twitch.tv**
 ===========================================
 
-Dernière mise à jour : 2 février 2023. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
+Dernière mise à jour : 30 juin 2023. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
 Twitch Interactive Inc. et ses sociétés affiliées sont des filiales d'Amazon.com, Inc. (« Amazon »).
 
