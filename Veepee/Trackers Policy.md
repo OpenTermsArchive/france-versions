@@ -11,8 +11,9 @@ Ces cookies sont nécessaires pour assurer votre navigation sur le Site et vous 
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
 | club.veepee.fr | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm) | Cookies internes |
-| www.veepee.fr | [infoMember](https://cookiepedia.co.uk/cookies/infoMember), [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js), [CheckAutologin](https://cookiepedia.co.uk/cookies/CheckAutologin), [context](https://cookiepedia.co.uk/cookies/context), [.ASPXBrowserOverride](https://cookiepedia.co.uk/cookies/.ASPXBrowserOverride), [dataContext](https://cookiepedia.co.uk/cookies/dataContext), [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop) | Cookies internes |
-| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | inpsession\_$distributor\_id\_$language, b1pi2, inptime\_$distributor\_id\_$language, CI\_session, b1pi, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent | Cookies tiers |
+| www.veepee.fr | [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop), [context](https://cookiepedia.co.uk/cookies/context) | Cookies internes |
+| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | inpsession\_$distributor\_id\_$language, inptime\_$distributor\_id\_$language, b1pi2, CI\_session, b1pi, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent | Cookies tiers |
+| [uk.cdn-net.com](https://cookiepedia.co.uk/host/uk.cdn-net.com) | \_cc-x | Cookies tiers |
 
 #### Cookies d’analyses et de personnalisation
 
@@ -23,11 +24,20 @@ Ces Cookies nous permettent de mesurer l’audience et la fréquentation du Site
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
 | club.veepee.fr | [mp\_optout](https://cookiepedia.co.uk/cookies/mp_optout) | Cookies internes |
-| www.veepee.fr | [\_hjIncludedInPageviewSample](https://cookiepedia.co.uk/cookies/_hjIncludedInPageviewSample), [homeApplicationScenario](https://cookiepedia.co.uk/cookies/homeApplicationScenario), [seq](https://cookiepedia.co.uk/cookies/seq), [\_hjHasCachedUserAttributes](https://cookiepedia.co.uk/cookies/_hjHasCachedUserAttributes) | Cookies internes |
-| veepee.fr | [mp\_xxxxxxx\_mixpanel](https://cookiepedia.co.uk/cookies/mp_xxxxxxx_mixpanel), [\_\_mp\_opt\_in\_out\_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/__mp_opt_in_out_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx), [\_gid](https://cookiepedia.co.uk/cookies/_gid), [\_hjIncludedInSessionSample\_2515452](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_2515452), [\_hjIncludedInSessionSample\_1831623](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_1831623), [\_hjIncludedInSessionSample\_153440](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_153440), [OTVariant](https://cookiepedia.co.uk/cookies/OTVariant), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_ga](https://cookiepedia.co.uk/cookies/_ga), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment), [\_ga\_xxxxxxx](https://cookiepedia.co.uk/cookies/_ga_xxxxxxx) | Cookies internes |
-| [vente-privee.com](https://cookiepedia.co.uk/host/vente-privee.com) | mp\_xxxxxxx\_mixpanel | Cookies tiers |
+| www.veepee.fr | [seq](https://cookiepedia.co.uk/cookies/seq), [lastClickPartnerId](https://cookiepedia.co.uk/cookies/lastClickPartnerId) | Cookies internes |
+| veepee.fr | [mp\_xxxxxxx\_mixpanel](https://cookiepedia.co.uk/cookies/mp_xxxxxxx_mixpanel), [\_\_mp\_opt\_in\_out\_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/__mp_opt_in_out_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx), [\_gid](https://cookiepedia.co.uk/cookies/_gid), [OTVariant](https://cookiepedia.co.uk/cookies/OTVariant), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_hjIncludedInSessionSample\_xxx](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_xxx), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [\_ga](https://cookiepedia.co.uk/cookies/_ga), [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment), [\_ga\_xxxxxxx](https://cookiepedia.co.uk/cookies/_ga_xxxxxxx) | Cookies internes |
 | [cdn.mxpnl.com](https://cookiepedia.co.uk/host/cdn.mxpnl.com) | mp\_xxxxxxx\_mixpanel | Cookies tiers |
-| [script.hotjar.com](https://cookiepedia.co.uk/host/script.hotjar.com) | \_hjHasCachedUserAttributes, \_hjIncludedInPageviewSample | Cookies tiers |
+| [typeform.com](https://cookiepedia.co.uk/host/typeform.com) | attribution\_user\_id | Cookies tiers |
+
+#### Cookies de statistiques
+
+Ces Cookies permettent à Vente-Privee.com d’analyser la navigation de nos membres sur différentes pages de son Site, d’identifier les zones de clics sur nos pages et de recueillir les avis de nos membres sur certaines pages afin d’optimiser l’ergonomie de notre Site. Les données collectées sont anonymes et ne permettent pas d’identifier un Membre. Ces cookies sont exemptés de consentement.
+
+|     |     |     |
+| --- | --- | --- |Cookies de statistiques
+| Sous-groupe de cookies | Cookies | Cookies utilisés |
+| --- | --- | --- |
+| veepee.fr | [\_qta\_rum](https://cookiepedia.co.uk/cookies/_qta_rum) | Cookies internes |
 
 #### Cookies publicitaires
 
@@ -37,11 +47,9 @@ Ces Cookies peuvent être déposés, sous réserve de votre consentement, par de
 | --- | --- | --- |Cookies publicitaires
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | CONSENT, VISITOR\_INFO1\_LIVE, YSC | Cookies tiers |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | flixgvid, sio\_t, \_gat\_gtag\_xxxxxxxxxxxxxxxxxxxxxxxxxxx | Cookies tiers |
 | [google.com](https://cookiepedia.co.uk/host/google.com) | CONSENT | Cookies tiers |
-| [adotmob.com](https://cookiepedia.co.uk/host/adotmob.com) | uid, uuid, partners | Cookies tiers |
-| [www.facebook.com](https://cookiepedia.co.uk/host/www.facebook.com) |     | Cookies tiers |
+| [adotmob.com](https://cookiepedia.co.uk/host/adotmob.com) | partners | Cookies tiers |
 
 #### Cookies de lutte contre la fraude
 
@@ -61,5 +69,5 @@ Ces Cookies ne sont pas indispensables à la navigation mais facilitent l’util
 | --- | --- | --- |Cookies fonctionnels
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | FLIX\_tracker\_$product\_id\_$distributor\_ id\_$product\_type\_id\_$mpn\_$ean, cookieOptinBanner | Cookies tiers |
-| [careers.veepee.com](https://cookiepedia.co.uk/host/careers.veepee.com) | pll\_language | Cookies tiers |
+| www.veepee.fr | [FromPartner](https://cookiepedia.co.uk/cookies/FromPartner), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner) | Cookies internes |
+| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | FLIX\_tracker\_$product\_id\_$distributor\_ id\_$product\_type\_id\_$mpn\_$ean | Cookies tiers |
