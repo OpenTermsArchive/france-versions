@@ -1,9 +1,9 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 16 juin 2023 [(Télécharger nos conditions générales de vente)](https://securemedia.vertbaudet.fr/Pdf/3-0-0/CGV-VB.pdf)
+#### Mise à jour du 03 juillet 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/CGV_VB_2023.pdf)
 
-Les présentes conditions générales de vente (les "CGV") régissent les contrats conclus sur le site www.vertbaudet.fr (le "Site") avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397 555 327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68 397 555 327 (ci-après dénommée "Vertbaudet"), »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
+Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
 Vous pouvez nous contacter :
 
@@ -34,9 +34,9 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 Préambule
 ---------
 
-Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le "Client").
+Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le « Client »).
 
-Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet(ci-après les « Produits »).
+Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet (ci-après les « Produits »).
 
 L'expédition des Produits (ou la fourniture de services liés aux Produits) ne pourra territorialement s'effectuer qu'en France métropolitaine et en Corse (voir article 5 pour une livraison dans une autre région).
 
@@ -186,6 +186,51 @@ Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu d
 Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par Internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains Produits.
 
 Les délais de services peuvent varier pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour certains Produits (ex. articles brodés et personnalisés) et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.
+
+**Les frais de livraison sont :**
+
+Client ClubClient non membre du ClubPetit Produit
+
+|     |
+| --- |
+| Livré en magasin |
+| Livré en Points Relais® |
+| Livré à domicile |
+
+|     |
+| --- |
+| Offert |
+| Gratuit dès 39€ d’achats  <br>Sinon 3,99€ |
+| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
+
+|     |
+| --- |
+| Offert |
+| Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
+| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
+
+Produit signalé par![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
+\*certains Produits ne peuvent bénéficier de la livraison en Points Relais
+
+|     |
+| --- |
+| Livré en Points Relais® |
+| Livré à domicile |
+
+|     |
+| --- |
+| Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
+| Gratuit dès 99€ d’achats  <br>Sinon 7,99€ |
+
+|     |
+| --- |
+| Gratuit dès 69€ d’achats  <br>Sinon 6,99€ |
+| Gratuit dès 99€ d’achats  <br>Sinon 7,99€ |
+
+Produit signalé par![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
+\*certains Produits ne peuvent bénéficier de la livraison en Points RelaisLivré à domicile19,90€38,80€
+
+**Tarif en vigueur au 01/05/2023, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
@@ -391,35 +436,40 @@ La durée de la disponibilité des pièces détachées de nos Produits est égal
 10\. Environnement
 ------------------
 
-### 10.1 Article d’ameublement et Appareils électriques et électroniques
+### 10.1 Eco-participation
 
-Dans un souci de protection environnementale, pour l’achat d’un Produit d’ameublement ou d’un appareil électrique ou électronique neuf, une éco-participation est incluse dans le prix des Produits. Cette contribution permet de participer au financement de la collecte, du tri et du recyclage des articles électriques ou électroniques ou d’ameublement usagés. En tant que contribution, elle ne peut bénéficier d’aucune réduction. Cette participation est financée exclusivement par le consommateur à l'achat d'un nouvel appareil neuf. En contrepartie, les procédures d'élimination et de recyclage sont prises en charge par les producteurs ou distributeurs.
+Dans le cadre de la Responsabilité Elargie du Producteur (R.E.P), pour l’achat d’un article dans les catégories de produits telles que les équipements électriques et électroniques, le papier, les emballages, les ampoules, les piles, le textile d’habillement, etc. une éco-contribution est reversée aux éco-organismes. Celle-ci permet de participer financièrement à la collecte, au tri et au recyclage de ces produits en fin de vie. En tant que contribution, elle ne peut bénéficier d’aucune réduction. Cette participation est financée exclusivement par le consommateur à l'achat d'un nouveau produit neuf. En contrepartie, les procédures d'élimination et de recyclage sont prises en charge par les producteurs ou distributeurs.
 
-Lorsque vous achetez un Produit éligible à la reprise sur le site Internet, nous vous invitons à vous rapprocher de notre service Relation Clients afin d’envisager les modalités de cette reprise.
+Pour les catégories de produit ameublement et appareil électrique ou électronique, l’éco-participation est visible et précisée proche du prix de vente.
+
+Lorsque vous achetez un article éligible à la reprise sur le Site, nous vous invitons à vous rapprocher de notre service Relation Clients afin d’envisager les modalités de cette reprise.
 
 ### 10.2 REACH
 
 Pour toute question relative à la norme Européenne REACH, veuillez nous contacter : par courrier à l'adresse suivante : Vertbaudet, Service Correspondance 216, rue Winoc Chocqueel, 59200 Tourcoing.
 
-### 10.3 Triman
+### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/34762/348492768/triman.png](https://media.vertbaudet.fr/medias/44/0/34762/348492768/triman.png "https://media.vertbaudet.fr/medias/44/0/34762/348492768/triman.png") Le logo Triman apposé sur un Produit signifie que ce dernier est soumis à une consigne de tri, et qu’il doit être jeté dans un container de recyclage. Il est apposé sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée, et notamment catalogues papiers, prospectus commerciaux ainsi que les équipements d’ameublements, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
-
-Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques sont également soumis à des consignes de tri, mais ont des marquages spécifiques.
+![https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png](https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png "https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
+La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
 
 Conformément aus dispositions de la Loi n°2020-105 Anti-gaspillage et économie circulaire du 10 février 2020, vous trouverez ci-dessous nos différents identifiants uniques en fonction des éco-organismes :
 
-Eco mobilier : FR002966\_10O8AY
+Ecomaison (Mobilier et textile décoration) : FR214080\_10BJIV
 
-Citeo (Emballages) 510604 : FR214080\_01FLRD
+Ecomaison (Jouets) : FR214080\_12ZGDF
 
-Screlec (Piles et Accumulateurs) : FR022547\_06LR23
+Citeo (Emballage) : FR214080\_01FLRD
 
-Eco TLC (Textile et Linge de maison : FR214080\_11GGFA
+Citeo (Papier) : FR214080\_03ARBA
 
-Eco système (DEEE) : FR006461\_05O7BT
+Screlec (Pile et Accumulateur) : FR022547\_06LR23
+
+Refashion (Textile prêt à porter/chaussures et linge de maison) : FR214080\_11GGFA
+
+Ecosystem (DEEE) : FR022547\_0565EG
 
 11\. Données personnelles
 -------------------------
@@ -439,7 +489,7 @@ Ainsi, aucun des documents provenant du Site ne peut être copié, reproduit, re
 
 Cependant, il est possible de télécharger une copie des documents sur un ordinateur pour votre utilisation personnelle et uniquement à des fins non commerciales, à condition que vous ne modifiez pas les informations contenues et que vous conserviez intacts tous les copyrights et autres mentions de propriété. La modification de ces documents ou leur utilisation dans un autre but constitue une infraction au droit de propriété intellectuelle de Vertbaudet.
 
-Si vous disposez d'un site Internet à titre personnel et que vous désirez placer, pour un usage personnel, sur votre site un lien simple renvoyant directement à la page d'accueil du Site, vous devez obligatoirement en demander l'autorisation à Vertbaudet. Il ne s'agira pas dans ce cas d'une convention implicite d'affiliation.
+Si vous disposez d'un site à titre personnel et que vous désirez placer, pour un usage personnel, sur votre site un lien simple renvoyant directement à la page d'accueil du Site, vous devez obligatoirement en demander l'autorisation à Vertbaudet. Il ne s'agira pas dans ce cas d'une convention implicite d'affiliation.
 
 En revanche, tout lien hypertexte renvoyant au Site et utilisant la technique du framing ou du in-line linking est formellement interdit. Dans tous les cas, tout lien, même tacitement autorisé, devra être retiré sur simple demande de Vertbaudet.
 
@@ -464,7 +514,7 @@ Le Site est conforme à la législation française, et en aucun cas, Vertbaudet 
 
 ### 15.1 Médiation
 
-Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET,, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe, par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 216 rue Winoc Chocqueel – 59200 Tourcoing
+Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 216 rue Winoc Chocqueel – 59200 Tourcoing
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Vertbaudet adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :
 
@@ -475,6 +525,8 @@ Après démarche préalable écrite des consommateurs vis-à-vis de Vertbaudet, 
 Vous pouvez également présenter votre réclamation sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l'adresse suivante : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/). La Commission Européenne transférera votre réclamation aux médiateurs nationaux compétents.
 
 Vous pouvez recourir au service de médiation du e-commerce pour les litiges de consommation liés à un achat effectué aussi si bien sur [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) qu’en magasin.
+
+Concernant les autres produits achetés via la Marketplace, merci de contacter le vendeur concerné.
 
 ### 15.2 Loi Applicable et compétence juridictionnelle
 
