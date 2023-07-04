@@ -1,10 +1,35 @@
 Protection de la vie privée & Cookies
 =====================================
 
+Cette page comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr).  
+  
+
+DEFINITIONS
+-----------
+
+**Client :** acheteur en magasins, via le Site et ce compris via la Marketplace.  
+  
+**Co-responsable de traitement :** RGPD  
+  
+**Marketplace :** plateforme mettant en relation Utilisateurs et Vendeurs  
+  
+**Responsable de traitement :** RGPD  
+  
+**Site :** Site internet incluant la Marketplace.  
+  
+**Sous-traitant :** RGPD  
+  
+**Utilisateur :** tout personne naviguant sur le Site, acheteur, vendeur, ou simple visiteur.  
+  
+**Vendeur :** Tout professionel proposant ses produits via la Martketplace  
+  
+  
+
 Informations personnelles
 -------------------------
 
-**VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son site web et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
+**VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son site et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
+  
 • le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018,  
 • le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
 • les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
@@ -31,38 +56,99 @@ RCS Lille Métropole 397 555 327
 
 S.A.S. au capital de 32 352 340 Euros
 
-Président : Société VERTBAUDET GROUP INTERNATIONAL S.A.S., représentée par Mathieu HAMELLE
+Président : Société VERTBAUDET GROUP INTERNATIONAL S.A.S., représentée par Mathieu HAMELLE  
+  
+
+**VERTBAUDET est Responsable de traitement :**  
+  
+Lors de la mise en œuvre des traitements de données à caractère personnel vous concernant en magasin et/ou par le biais du Site pour les produits vendus et expédiés par VERTBAUDET.
+
+**VERTBAUDET est Co-responsable de traitement :**  
+  
+Lors de la mise en œuvre des traitements de données à caractère personnel vous concernant pour l’exécution des commandes passées via la Marketplace (voir détail les CC et CGU) ou dans le cadre de la personnalisation de l’expérience client.  
+  
+Les conditions de traitement de ces données et informations personnelles par les Vendeurs présents sur la Marketplace sont accessibles sur la fiche/page spécifique propre à chaque Vendeur en cliquant sur le nom de ce dernier indiqué par le lien « Vendu et expédié par X ».   
+  
+Conformément à l’article 26 du RGPD, VERTBAUDET a conclu un accord de responsabilité avec les Vendeurs présents sur la Marketplace qui permet notamment de définir les obligations respectives de chaque Co-responsable de traitement.  
+  
+La présente Politique de Traitement des Données Personnelles est applicable aux situations dans lesquelles VERTBAUDET est Responsable de traitement ou Co-responsable de traitement.
 
 2\. Collecte et traitement de vos données
 -----------------------------------------
 
-### 2.1. Collecte
+### 2.1. Finalités
+
+Conformément à la réglementation applicable, tous nos traitements de données à caractère personnel reposent sur une base légale énoncée à l’article 6 du RGPD.
 
 Les informations personnelles que vous nous transmettez dans le cadre de la création de compte ou d’une commande sont utilisées pour les traitements suivants :
 
-* Pour l’exécution du contrat, afin d’assurer le bon traitement de votre commande :  
-    Commande, Livraison des produits, facturation, opération de paiements, informations sur le suivi de commande, service après-vente, gestion des retours et des remboursements. Partage d’informations avec des partenaires commerciaux pour l’exécution du contrat
+* Pour la gestion des commandes en magasin et en ligne (à l'exception des produits de la Marketplace) : le traitement, le suivi, la livraison, la facturation, le service après-vente et la garantie des commandes.  
+    Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
     
-* Lorsque vous nous avez donné votre consentement  
-    Personnalisation votre expérience de navigation sur notre site  
-    Envoi d’offres VERTBAUDET adaptées à vos goûts et à vos habitudes, via notamment des offres ciblées par email et des bannières sur des sites tiers  
-    Partage d’informations avec des partenaires commerciaux
+* Pour la gestion des commandes via la Marketplace : la gestion des paiements et des réclamations.  
+    Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
     
-* Lorsque cela est dans l’intérêt légitime de VERTBAUDET  
-    Prévention de la fraude  
-    Connaissance client et d’études statistiques : enquête de satisfaction, Opérations de statistiques, d’analyse, de sélection et de segmentation des clients afin d’améliorer la connaissance des clients  
-    Mise en place de jeux concours et publicitaires.
+* Pour la mise à disposition de la Marketplace et ses fonctionnalités : l'inscription des vendeurs, la mise en relation entre les acheteurs et les vendeurs.  
+    Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
+    
+* Pour le suivi des commandes initiées en magasin : la relance et le suivi des commandes par mail ou téléphone.  
+    Le fondement juridique est l'exécution d'une mesure précontractuelle.
+    
+* Pour la gestion des demandes de renseignements : le traitement et le suivi de vos demandes.  
+    Le fondement juridique est l'exécution d'un contrat ou une mesure précontractuelle à votre demande, ou l'intérêt légitime de VERTBAUDET, selon les circonstances.
+    
+* Pour la prospection commerciale par VERTBAUDET : l'envoi de communications commerciales, le contact pour finaliser des achats, la gestion de jeux-concours et événements.  
+    Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
+    
+* Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
+    Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
+    
+* Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
+    Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
+    
+* Pour la gestion des réclamations, impayés, précontentieux et contentieux (hors litiges de la Marketplace).  
+    Le fondement juridique est l'intérêt légitime de VERTBAUDET.
+    
+* Pour la prévention et la lutte contre la fraude.  
+    Le fondement juridique est l'intérêt légitime de VERTBAUDET.
+    
+* Pour la gestion de vos droits.  
+    Le fondement juridique est le respect des obligations légales de VERTBAUDET.
+    
+* Pour la gestion de la comptabilité.  
+    Le fondement juridique est le respect des obligations légales de VERTBAUDET.
+    
+* Pour la prospection commerciale par les partenaires de VERTBAUDET.  
+    Le fondement juridique est votre consentement.
+    
+* Pour le bon fonctionnement et l'amélioration du site : la réalisation de statistiques, d'analyses marketing, l'amélioration de la navigation, l'adaptation du site à votre terminal.  
+    Le fondement juridique est votre consentement lorsque nécessaire, ou l'intérêt légitime de VERTBAUDET.
     
 
 Lors de vos visites sur notre site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires, notamment lors de la création de votre compte client.  
+  
 Les informations demandées, signalées par un astérisque, sont requises aux fins de la réalisation de la prestation fournie par VERTBAUDET. Elles sont nécessaires au traitement de vos demandes. En cas de non réponse, VERTBAUDET ne pourra réaliser la prestation.  
+  
 Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libre de ne pas y répondre.
 
-### 2.2. Sous-traitants
+### 2.2. Sous-traitants & destinataires
 
-Certaines données, notamment personnelles, pourront éventuellement être communiquées de manière sécurisée à des partenaires techniques liés à VERTBAUDET par contrat pour l'exécution de tâches sous-traitées nécessaires à la gestion de votre compte, à l’exécution de vos commandes, à la livraison de biens et la réalisation de prestations, à la lutte contre la fraude, à la réalisation des paiements, pour certains aspects du service après-vente ou encore pour réaliser des enquêtes de satisfaction.
+#### 2.2.1 Personnel
 
-Les sous-traitants de VERTBAUDET prennent notamment les engagements suivants :
+Seul le personnel de VERTBAUDET spécifiquement habilité est légitime à mettre en œuvre des traitements sur vos données à caractère personnel.
+
+#### 2.2.2 Prestataires
+
+Certaines données, notamment personnelles, pourront être communiquées de manière sécurisée aux partenaires techniques actuels ou futurs de VERTBAUDET pour l'exécution de tâches sous-traitées strictement nécessaires à la réalisation des prestations et obligations de VERTBAUDET selon les finalités définies précédemment, telles que :  
+  
+la gestion de votre compte,  
+l’exécution de vos commandes,  
+la livraison de biens et la réalisation de prestations,  
+la lutte contre la fraude,  
+la réalisation des paiements,  
+pour certains aspects du service après-vente ou encore pour réaliser des enquêtes de satisfaction.
+
+Les sous-traitants et prestataires de VERTBAUDET sont soumis à des obligations de confidentialité et de sécurité et prennent notamment les engagements suivants :
 
 1. traiter les données uniquement pour la ou les seule(s) finalité(s) qui fait/font l’objet de la sous-traitance ;
     
@@ -70,21 +156,32 @@ Les sous-traitants de VERTBAUDET prennent notamment les engagements suivants :
     
 3. garantir la confidentialité des données à caractère personnel traitées dans le cadre des présentes ;
     
-4. veiller à ce que le personnel VERTBAUDET autorisé à traiter les données à caractère personnel :  
+4. veiller à ce que leur personnel VERTBAUDET autorisé à traiter les données à caractère personnel :  
     \- s’engage à respecter la confidentialité ou soit soumise à une obligation légale appropriée de confidentialité  
     \- reçoive la formation nécessaire en matière de protection des données à caractère personnel
     
 5. prendre en compte, s’agissant de ses outils, produits, applications ou services, les principes de protection des données dès la conception et de protection des données par défaut
     
+  
+  
 
-### 2.3. Destinataires des données
+### 2.3. Tiers
 
-Seul le personnel de VERTBAUDET spécifiquement habilité est légitime à mettre en œuvre des traitements sur vos données à caractère personnel.  
-Sauf opposition de votre part lors du recueil de vos données, les informations vous concernant pourront être communiquées aux partenaires commerciaux de VERTBAUDET SAS (y compris les autres enseignes du groupe CYRILLUS-VERTBAUDET GROUP) qui pourront vous envoyer leurs offres commerciales par courrier (nous ne communiquons pas à des partenaires commerciaux le numéro de téléphone fixe). Ils pourront vous envoyer leurs offres par email si vous l'avez explicitement accepté.
+Sauf opposition de votre part lors du recueil de vos données, VERTBAUDET peut également partager vos données personnelles à des tiers :  
+  
+
+Si vous achetez des produits sur la Marketplace, vos données seront partagées avec les Vendeurs afin d’exécuter votre commande. Nous vous invitons à consulter la Politique de Confidentialité du Vendeur mentionné par « vendu et expédié par » ;  
+Avec les partenaires commerciaux de VERTBAUDET (y compris les autres enseignes du groupe VERTBAUDET) qui pourrons vous envoyer leurs offres commerciales par courrier ou par mail, si vous l’avez explicitement accepté ;  
+Avec des tiers susceptibles de déposer des cookies sur vos appareils, avec votre consentement. Pour plus d’informations, veuillez consulter l’Article 6 de la présente ;  
+Avec les autorités, sur demande et dans les limites permises par la loi.  
+Avec ses ayants droit.
 
 ### 2.4. Hébergement de vos données personnelles
 
+#### Sont-elles transférées en dehors de l’Union Européenne ?
+
 VERTBAUDET est présent à travers différents pays mais vos données personnelles ne sont stockées que sur des serveurs sécurisés situés en France. Néanmoins, afin d'opérer certaines prestations, il se peut que VERTBAUDET soit amené à faire transiter vos données à travers des serveurs qui peuvent être situés dans le monde entier ou donne accès aux données personnelles à des prestataires situés à l’étranger.  
+  
 VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir la sécurité des informations personnelles pendant le transfert et à la réception de ces informations. Les sous-traitants et prestataires seront liés par contrat avec VERTBAUDET, qui intègrera les clauses contractuelles types (telles que publiées par la Commission Européenne). VERTBAUDET exige par ailleurs de ses sous-traitants et prestataires qu’ils garantissent un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.
 
 ### 2.5. Durée de conservation des données personnelles
@@ -123,7 +220,7 @@ Afin de pouvoir débiter le compte lors de la facturation ou de la créditer sui
 4\. Offres commerciales
 -----------------------
 
-### 4.1. Lutte contre la fraude
+### 4.1. Généralités
 
 VERTBAUDET vous adressera ses offres commerciales par email, sms, mms si vous l'avez accepté et par voie postale ou téléphonique, si vous ne vous y êtes pas opposé lors du recueil de vos données, mais également par des bannières sur des sites partenaires (via l’installation de cookies, sous réserve de votre consentement selon les modalités expliquées ci-après), etc.
 
@@ -140,8 +237,8 @@ Grâce à l’installation de cookies publicitaires, et sous réserve que vous y
 5\. Les réseaux sociaux
 -----------------------
 
-Notre Site Internet utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site Internet avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que Facebook, « Google+ », « Twitter », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
-S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte. Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de VERTBAUDET à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter le site de VERTBAUDET.  
+Notre Site utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que Facebook, « Google+ », « Twitter », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
+S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte. Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de VERTBAUDET à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter le site.  
 Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.
 
 6\. Cookies ou témoins de connexion
@@ -152,7 +249,7 @@ Ces technologies sont multiples et en constante évolution. Il existe notamment,
 
 Lors de la consultation de notre site, et sous réserve que vous y ayez consenti, des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers « Cookies » installés sur votre terminal (ordinateur, tablette, smartphone, etc.), afin de nous permettre de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts.  
 Lors de votre première navigation sur le site, nous demandons votre autorisation pour l’installation de cookies. Vous pouvez revenir sur votre décision selon la procédure décrite ci-après.  
-Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de notre site web.
+Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de notre site.
 
 ### 6.1. Les cookies Vertbaudet
 
@@ -244,7 +341,7 @@ La configuration de chaque navigateur est différente. Elle est décrite dans le
 
 Vous pouvez vous connecter au site Youronlinechoices, proposé par les professionnels de la publicité digitale regroupés au sein de l’association européenne EDAA (European Digital Advertising Alliance) et géré en France par l’Interactive Advertising Bureau France.
 
-Cette plate-forme européenne est partagée par des centaines de professionnels de la publicité sur Internet et constitue une interface centralisée vous permettant d'exprimer votre refus ou votre acceptation des cookies utilisés afin d'adapter les publicités à la navigation de votre terminal ( [http://www.youronlinechoices.com/fr/controler-ses-cookies/](http://www.youronlinechoices.com/fr/controler-ses-cookies/) ).
+Cette plate-forme européenne est partagée par des centaines de professionnels de la publicité sur Internet et constitue une interface centralisée vous permettant d'exprimer votre refus ou votre acceptation des cookies utilisés afin d'adapter les publicités à la navigation de votre terminal ( [http://www.youronlinechoices.com/fr/controler-ses-cookies/](http://www.youronlinechoices.com/fr/controler-ses-cookies/)).
 
 Notez que cette procédure n'empêchera pas l'affichage de publicités sur les sites Internet que vous visitez. Elle ne bloquera que les technologies qui permettent d'adapter des publicités à vos centres d'intérêts.
 
@@ -287,9 +384,19 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 7\. Vos droits
 --------------
 
-Conformément aux dispositions légales et réglementaires, notamment le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données), vous disposez d’un droit d’accès, de rectification, de suppression et d’opposition pour motif légitime, ainsi que d’un droit à l’oubli et d’un droit à la portabilité de vos données. Vous avez également la possibilité de nous faire part du sort que vous souhaitez réserver à vos données post-mortem.
+Conformément aux dispositions légales et réglementaires, notamment le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données), vous disposez de plusieurs droits relatifs à vos données :  
+  
 
-Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justificative d’identité, par les différents moyens suivants :
+Droit d’accès : Vous pouvez vérifier si vos données personnelles et, si c’est le cas, consulter ces données ;  
+Droit de rectification : Vous avez la possibilité de corriger vos informations personnelles si elles sont incorrectes ou incomplètes ;  
+Droit d’opposition pour motif légitime : Dans certaines circonstances spécifiques à votre situation, vous pouvez vous opposer au traitement de vos informations personnelles ;  
+Droit à la limitation : Vous pouvez demander une restriction sur le traitement de vos données par VERTBAUDET ;  
+Droit d’effacement et Droit à l’oubli : Dans certains cas, vous pouvez demander l’effacement de vos données personnelles. Cependant, VERTBAUDET pourra toutefois les conserver dans ses archives et ce pour la durée nécessaire à satisfaire aux obligations légales, comptables et fiscales ;  
+Droit à la portabilité de vos données : Vous pouvez demander à recevoir vos informations personnelles dans un format lisible par machine, ou demander leur transfert à un autre responsable du traitement, lorsque le traitement est basé sur votre consentement ou un contrat et est effectué automatiquement.  
+Vous avez également la possibilité de nous faire part du sort que vous souhaitez réserver à vos données post-mortem.  
+
+Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justificative d’identité, par les différents moyens suivants :  
+  
 
 * Procéder directement à la mise à jour de vos données personnelles et préférences dans la rubrique « Mon compte » de notre site
 * Nous contacter via le formulaire dédié en cliquant sur ce lien « Contactez-nous », rubrique « Mes données personnelles »
@@ -301,6 +408,6 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
 
-En cas de demande de suppression de vos Données, nous pourrons toutefois les conserver dans nos archives et ce pour la durée nécessaire à satisfaire à nos obligations légales, comptables et fiscales.
+VERTBAUDET s’engage à donner suite à vos demandes dans les délais fixés par la réglementation en vigueur. Vous pouvez également introduire une réclamation auprès de l’autorité de contrôle compétente en vous adressant à la CNIL.
 
 Pour plus d’informations concernant l’exercice de vos droits : [www.cnil.fr/comprendre vos droits](https://www.cnil.fr/fr/comprendre-vos-droits/)
