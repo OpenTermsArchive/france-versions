@@ -388,10 +388,10 @@ Pour de plus amples informations concernant nos politiques et nos pratiques en m
 
 [Print This Page](javascript:window.print())
 
-Welcome! Sign up for Levi's® emails and get 20% off your next order.
+Welcome! Sign up for Levi's® emails and get 10% + free shipping off on your next order.
 
 Be the first to hear about special offers, new arrivals and more.
 
-By signing up, I agree that the LS&Co. Group of Companies may email me news and offers. I can [unsubscribe](https://www.levi.com/FR/fr_FR/unsubscribe) at any time. I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy). Offer details, financial incentives and exclusions available [here](https://www.levi.com/FR/fr_FR/features/terms-and-conditions).
+By subscribing, I agree that the LS&Co. [Group of Companies](https://www.levi.com/FR/fr_FR/legal/lsco-group-of-companies) may email me news and offers. I can [unsubscribe](https://www.levi.com/FR/fr_FR/unsubscribe) at any time. I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
 
 Inscrivez-vousNon merci
