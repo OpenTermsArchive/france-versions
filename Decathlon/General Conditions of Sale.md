@@ -46,6 +46,10 @@ filières suivantes
 
 
 
+IUD ASL : communication à venir
+
+
+
 IUD textile, linges, chaussures (Refashion) :
 
 FR209351_11GEPK
@@ -102,12 +106,6 @@ Services des Partenaires et/ou proposés par
 
 DECATHLON .
 
-
-
-IUD ASL : communication à venir
-
-
-
 IUD Copie France : communication à venir
 
 
@@ -146,9 +144,9 @@ Produits Seconde Vie : désigne les produits
 
 reconditionnés vendus par DECATHLON ou par un
 
-Partenaire et ayant fait l’objet d’un contrôle et/ou
+Partenaire et ayant fait l’objet d’un contrôle et/ou d’une
 
-d’une remise en état avant d’être remis en vente.
+remise en état avant d’être remis en vente.
 
 
 
@@ -340,11 +338,11 @@ PARTENAIRE , sont classés selon des catégories générales telles que :
 
 
 
-- Sports, classés par ordre alphabétique ;
+\- Sports, classés par ordre alphabétique ;
 
-- Les catégories de personnes concernées : Femmes, Hommes, Enfants ou Bébés ;
+\- Les catégories de personnes concernées : Femmes, Hommes, Enfants ou Bébés ;
 
-- Accessoires ou équipements, produits de nutrition, promotions, marques, seconde vie ;
+\- Accessoires ou équipements, produits de nutrition, promotions, marques, seconde vie ;
 
 
 
@@ -358,11 +356,11 @@ calculés sur les 21 derniers jours :
 
 
 
-- l’importance du nombre de vues de la fiche Produit
+\- l’importance du nombre de vues de la fiche Produit
 
-- la performance commerciale du Produit au sein des canaux de vente (magasins Decathlon, sites Internet...)
+\- la performance commerciale du Produit au sein des canaux de vente (magasins Decathlon, sites Internet...) -
 
-- la disponibilité des Produits
+la disponibilité des Produits
 
 
 
@@ -395,8 +393,6 @@ Par ailleurs, DECATHLON peut privilégier des produits spécifiques dans le clas
 Ces produits sont proposés par des Partenaires ayant soit signé un partenariat privilégié avec DECATHLON, soit
 
 bénéficié d'un éventuel service de parrainage mis en place par DECATHLON.
-
-
 
 Ce classement préférentiel est justifié par des considérations économiques et commerciales, notamment l'existence
 
@@ -436,7 +432,7 @@ selon un critère de pertinence déterminé comme suit :
 
 
 
-- Les Produits correspondant le mieux aux mots clés saisis par L’ Acheteur et/ou l’Internaute sont affichés en
+\- Les Produits correspondant le mieux aux mots clés saisis par L’ Acheteur et/ou l’Internaute sont affichés en
 
 priorité.
 
@@ -448,19 +444,19 @@ critère de tri différent selon :
 
 
 
-- nouveaux Produits (du plus récent au plus ancien) ou
+\- nouveaux Produits (du plus récent au plus ancien) ou
 
-- vendeurs
+\- vendeurs
 
-- prix bas à élevé (du moins cher au plus cher) ou
+\- prix bas à élevé (du moins cher au plus cher) ou
 
-- prix élevé à bas (du plus cher au moins cher),
+\- prix élevé à bas (du plus cher au moins cher),
 
-- remises (du plus élevé au plus bas) ou
+\- remises (du plus élevé au plus bas) ou
 
-- les notes des clients (des Produits les mieux notés aux produits les moins notés), ou
+\- les notes des clients (des Produits les mieux notés aux produits les moins notés), ou -
 
-- articles abandonnés.
+articles abandonnés.
 
 
 
@@ -516,13 +512,11 @@ La passation de commande vaut acceptation de l’offre d’un Vendeur au regard 
 
 Toutefois :
 
-\- Si le Produit commandé n’est plus en stock au moment où la commande est traitée, ou - Si
+\- Si le Produit commandé n’est plus en stock au moment où la commande est traitée, ou - Si DECATHLON et/ou
 
-DECATHLON et/ou le Partenaire estiment que le Produit a été commandé par un professionnel , ou
+le Partenaire estiment que le Produit a été commandé par un professionnel , ou - Si, l'Acheteur n’a pas réglé, retourné
 
-\- Si, l'Acheteur n’a pas réglé, retourné suite à remboursement ou indemnisation, un ou plusieurs Produits d’une ou
-
-de plusieurs commandes précédentes,
+suite à remboursement ou indemnisation, un ou plusieurs Produits d’une ou de plusieurs commandes précédentes,
 
 4
 
@@ -572,11 +566,11 @@ s'engagent à appliquer les tarifs en vigueur lors de l'enregistrement de la com
 
 des Produits à cette date. Les prix affichés sur le Site sont applicables aux commandes passées par l'Acheteur, sous
 
-réserve, de d’erreur du fait d’un problème technique, d’erreurs matérielles ou d’indications manifestement erronées.
+réserve, de d’erreur du fait d’un problème technique, d’erreurs matérielles ou d’indications manifestement erronées. En
 
-En aucun cas, la responsabilité de DECATHLON ou d’un PARTENAIRE ne pourra être engagée pour une erreur
+aucun cas, la responsabilité de DECATHLON ou d’un PARTENAIRE ne pourra être engagée pour une erreur matérielle
 
-matérielle relative au prix d’un de ses produits.
+relative au prix d’un de ses produits.
 
 
 
@@ -636,11 +630,7 @@ compris et non exclusivement sur les frais d'envoi et les frais administratifs ;
 
 de produits disponibles en magasin.
 
-
-
-Toute commande ne respectant pas les CGV ne sera pas exécutée. DECATHLON en informera l'Acheteur.
-
-5
+Toute commande ne respectant pas les CGV ne sera pas exécutée. DECATHLON en informera l'Acheteur. 5
 
 
 
@@ -664,9 +654,13 @@ bleue)
 
 
 
-Cartes cadeau DECATHLON et
+Cartes cadeau
 
-carte Trocathlon ● ●
+DECATHLON et carte
+
+Trocathlon
+
+● ●
 
 
 
@@ -674,13 +668,17 @@ Cartes cadeau Illicado ● ●
 
 
 
-Paiement différé 15 jours par
+Paiement différé 15 jours
 
-carte bancaire, pour une
+par carte bancaire, pour
 
-commande allant jusqu’à 3500
+une
 
-euros, proposé par notre
+commande allant jusqu’à
+
+3500 euros, proposé par
+
+notre
 
 partenaire Pledg\* (soumis à
 
@@ -696,33 +694,31 @@ Paypal ●
 
 
 
-Paiement en 3X ou 4X par carte
+Paiement en 3X ou 4X par
 
-bancaire proposé en partenariat
+carte bancaire proposé en
 
-avec la société Oney. Ce service est
+partenariat avec la société Oney.
 
-disponible à partir de 100€
+Ce service est disponible à
 
-d’achats et jusqu’à 4000€ avec
+partir de 100€
 
-3x 4x Oney (soumis à conditions
+d’achats et jusqu’à 4000€
 
-disponibles ici) .
+avec 3x 4x Oney (soumis à
 
-
-
-●
+conditions disponibles ici) .
 
 
 
 Crédit amortissable : pour un
 
-financement en plusieurs fois pour
+financement en plusieurs fois
 
-les achats dont les montants sont
+pour les achats dont les montants
 
-compris entre 200 et 6000€
+sont compris entre 200 et 6000€
 
 remboursables sur une période
 
@@ -736,15 +732,17 @@ disponibles ici)
 
 
 
-Nous attirons votre attention quant
+Nous attirons votre attention
 
-au fait qu’un crédit vous engage et
+quant au fait qu’un crédit vous
 
-doit être remboursé. Vérifiez vos
+engage et doit être remboursé.
 
-capacités de remboursement avant
+Vérifiez vos capacités de
 
-de vous engager.
+remboursement avant de vous
+
+engager.
 
 
 
@@ -752,11 +750,15 @@ de vous engager.
 
 
 
-(Pour plus de détails sur les conditions applicables rendez-vous sur la page “Moyens de paiement”du Site)
+●
+
+(Pour plus de détails sur les conditions applicables rendez-vous sur la page “Moyens de paiement”du Site) Le
 
 
 
-Le paiement des commandes se fait exclusivement sur le Site. Le Site garantit la sécurité du paiement par carte
+paiement des commandes se fait exclusivement sur le Site. Le Site garantit la sécurité du paiement par carte
+
+
 
 bancaire en utilisant le système de cryptage du protocole SSL (Secure Socket Layer) permettant ainsi la
 
@@ -764,9 +766,9 @@ confidentialité et la sécurité des données transmises, dans le cadre d’un 
 
 
 
-Pour le paiement des Produits Partenaire, le Site appel fait à la société LEMONWAY établissement de paiement
+Pour le paiement des Produits Partenaire, le Site appel fait à la société LEMONWAY établissement de paiement agréé
 
-agréé par l’ACPR (société française dont le siège social est situé 8, rue du Sentier - 75002 Paris, France, et enregistrée
+par l’ACPR (société française dont le siège social est situé 8, rue du Sentier - 75002 Paris, France, et enregistrée
 
 auprès du Registre du commerce et des sociétés de Bobigny sous le numéro 500 486 915).
 
@@ -792,11 +794,9 @@ L’Acheteur accepte de ne recevoir sa facture d’achat qu’en format électro
 
 
 
-Sauf démonstration du contraire, les registres informatiques de DECATHLON et ceux de ses sous-traitants
+Sauf démonstration du contraire, les registres informatiques de DECATHLON et ceux de ses sous-traitants fournissent
 
-fournissent la preuve de toutes les transactions entre DECATHLON et l’Acheteur. La communication de votre numéro
-
-6
+la preuve de toutes les transactions entre DECATHLON et l’Acheteur. La communication de votre numéro 6
 
 
 
@@ -1042,17 +1042,47 @@ Tout Produit Partenaire retourné sans l’accord du Partenaire ne fera l’obje
 
 
 
-7.7. Reprise des anciens produits électriques et électroniques lors de la commande d’un Produit DECATHLON
+7.7. Reprise de certains produits usagés lors de la commande d’un Produit DECATHLON
 
 
 
-Conformément aux articles L.541-10-2 et R. 543-180 du Code de l’environnement, DECATHLON s'engage à vous
+Dans le cadre de la vente en ligne avec livraison, conformément aux articles L.541-10-1, L. 541-10-2, L. 541-10-8 et R.
 
-reprendre vos équipements électriques et électroniques usagés dans la limite de la quantité et du type de Produit
+541-160 du Code de l’environnement, une solution de reprise gratuite "1 pour 1" est proposée par DECATHLON afin de
 
-DECATHLON vendu (principe du “1 pour 1”), dès lors que vous en avez fait la demande auprès de notre centre de
+reprendre sans frais vos produits usagés appartenant aux catégories suivantes :
 
-relation clients sous un délai de 15 jours suivant la commande.
+\- équipements électriques et électroniques,
+
+\- articles de sport et loisirs
+
+\- contenus et contenants de produits chimiques,
+
+\- éléments d'ameublement,
+
+\- cartouche de gaz combustible à usage unique,
+
+\- jouets.
+
+
+
+La solution de reprise gratuite “1 pour 1” signifie que DECATHLON reprend ou fait reprendre gratuitement un appareil
+
+usagé lors de l’achat d’un appareil neuf du même type dès lors que vous en avez fait la demande auprès de notre
+
+centre de relation clients sous un délai de 15 jours suivant la commande.
+
+Vous pouvez contacter notre centre de relation clients en appelant au 09 69 32 33 22 (numéro cristal non surtaxé) ou
+
+via les autres moyens de communication disponibles sur la page de contact du site.
+
+
+
+En application de l'article R. 541-164 du Code de l'environnement, il est précisé que DECATHLON peut refuser de
+
+reprendre le produit usagé, qui à la suite d'une contamination ou d'une mauvaise manipulation, présente un risque
+
+pour la sécurité et la santé du personnel chargé de la reprise qui ne peut être évité.
 
 
 
@@ -1061,8 +1091,6 @@ relation clients sous un délai de 15 jours suivant la commande.
 
 
 La livraison n'inclut ni l’installation ni la mise en service, sauf si expressément prévu par le Vendeur.
-
-
 
 ARTICLE 8 - RESERVE DE PROPRIETE ET TRANSFERT DES RISQUES
 
@@ -1112,15 +1140,15 @@ moment de la livraison ou de la remise des produits..
 
 
 
-En acceptant les CGV, vous consentez à ce que la livraison de la commande puisse être réceptionnée par des tiers,
+En acceptant les CGV, vous consentez à ce que la livraison de la commande puisse être réceptionnée par des
 
-mais à vos risques exclusivement.
+tiers, mais à vos risques exclusivement.
 
 Lorsque l’Acheteur reste en défaut de réception ou de paiement, il est convenu que le risque de perte des produits
 
-repose sur l’Acheteur. Cette même règle s’applique lorsque l’Acheteur reste d’une autre manière en défaut d’assurer
+repose sur l’Acheteur. Cette même règle s’applique lorsque l’Acheteur reste d’une autre manière en défaut d’assurer sa
 
-sa collaboration dans le cadre des prestations à effectuer par DECATHLON et/ou le PARTENAIRE.
+collaboration dans le cadre des prestations à effectuer par DECATHLON et/ou le PARTENAIRE.
 
 
 
@@ -1174,8 +1202,6 @@ Pour les commandes prévoyant la livraison régulière de biens pendant une pér
 
 la réception du premier bien.
 
-
-
 Ce droit est réservé aux Clients en qualité de consommateur.
 
 
@@ -1214,9 +1240,9 @@ Votre décision de rétractation visée au présent article doit toujours être 
 
 
 
-A compter du jour de la notification de sa volonté de se rétracter, l’Acheteur devra sans délai et, en tout état de cause,
+A compter du jour de la notification de sa volonté de se rétracter, l’Acheteur devra sans délai et, en tout état de
 
-au plus tard dans un délai de quatorze jours à renvoyer le(s) Produit(s) au Vendeur.
+cause, au plus tard dans un délai de quatorze jours à renvoyer le(s) Produit(s) au Vendeur.
 
 Pour les Produits DECATHLON : L'Acheteur renvoie le
 
@@ -1228,8 +1254,6 @@ d'activités du Grand Lassus - Rue Pasteur - 59840
 
 Lompret, ou simplement coller l’étiquette prépayée, ou,
 
-
-
 \- rendre son ou ses produit(s) DECATHLON dans l’un
 
 des magasins DECATHLON en France
@@ -1240,9 +1264,11 @@ Métropolitaine.
 
 A titre commercial, DECATHLON prend à sa charge les
 
-frais de retour des Produits dans le cadre de l’exercice
+frais de retour des Produits dans le cadre de
 
-valable de son droit de rétractation par l'Acheteur.
+l’exercice valable de son droit de rétractation par
+
+l'Acheteur.
 
 
 
@@ -1252,9 +1278,11 @@ rubrique "mes achats" de son compte pour faire sa
 
 déclaration de retour en ligne. Il doit ensuite
 
-télécharger, imprimer et coller l'étiquette prépayée sur
+télécharger, imprimer et coller l'étiquette prépayée
 
-son colis de retour.
+sur son colis de retour.
+
+
 
 Pour les Produits PARTENAIRE : L'Acheteur devra
 
@@ -1264,37 +1292,35 @@ Vendeur.
 
 
 
-A titre commercial, le PARTENAIRE prend à sa charge
+A titre commercial, le PARTENAIRE prend à sa
 
-les frais de retour des Produits dans le cadre de
+charge les frais de retour des Produits dans le cadre
 
-l’exercice valable de son droit de rétractation par
+de l’exercice valable de son droit de rétractation par
 
 l'Acheteur.
 
 
 
-Pour ce faire, l'Acheteur devra suivre la procédure qui
+Pour ce faire, l'Acheteur devra suivre la procédure
 
-lui a été communiquée dans le (s) colis incluant une
+qui lui a été communiquée dans le (s) colis incluant
 
-étiquette d’affranchissement prépayée. Si la procédure
+une étiquette d’affranchissement prépayée. Si la
 
-et ou l’étiquette prépayée ne figuraient pas dans le
+procédure et ou l’étiquette prépayée ne figuraient
 
-colis ou si l'Acheteur les a égarés, il peut s’adresser au
+pas dans le colis ou si l'Acheteur les a égarés, il peut
 
-service client de DECATHLON afin que les documents
+s’adresser au service client de DECATHLON afin que
 
-lui soient renvoyés.
+les documents lui soient renvoyés.
 
 
 
 En cas de non respect des procédures de renvoi communiquées à l’Acheteur, notamment l’utilisation de l’étiquette de
 
-renvoi prépayée, ce dernier ne pourra pas bénéficier de la prise en charge des frais de retour par le Vendeur.
-
-10
+renvoi prépayée, ce dernier ne pourra pas bénéficier de la prise en charge des frais de retour par le Vendeur. 10
 
 
 
@@ -1326,9 +1352,9 @@ appropriés pour être renvoyés après l'ouverture ou la modification de l'emba
 
 périodique ou magazine, sauf pour les contrats d'abonnement à ces publications ; ● prestations de services
 
-d'hébergement, autres que d'hébergement résidentiel, de services de transport de biens, de locations de voitures,
+d'hébergement, autres que d'hébergement résidentiel, de services de transport de biens, de locations de
 
-de restauration ou d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée ;
+voitures, de restauration ou d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée ;
 
 ● contenu numérique non fourni sur un support matériel dont l'exécution a commencé après votre accord
 
@@ -1438,8 +1464,6 @@ manipulations autres que celles qui sont nécessaires pour s’assurer de la nat
 
 fonctionnement correct du produit.
 
-
-
 10\. GARANTIES LÉGALES ET COMMERCIALES
 
 
@@ -1470,7 +1494,7 @@ Ces garanties sont les suivantes :
 
 
 
-- La garantie légale de conformité selon laquelle le bien fournit au client doit :
+\- La garantie légale de conformité selon laquelle le bien fournit au client doit :
 
 1- posséder les qualités annoncées par le vendeur
 
@@ -1486,7 +1510,7 @@ Ces garanties sont les suivantes :
 
 
 
-- La garantie légale vice caché entendue au sens de l’article 1641 du Code civil selon laquelle le vendeur est
+\- La garantie légale vice caché entendue au sens de l’article 1641 du Code civil selon laquelle le vendeur est
 
 tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage
 
@@ -1518,9 +1542,9 @@ conformité”. Dans ces conditions, le Client n’aura pas à apporter la preuv
 
 
 
-- élément(s) contraire(s) apporté(s) par DECATHLON ;
+\- élément(s) contraire(s) apporté(s) par DECATHLON ;
 
-- si cette présomption est incompatible avec la nature du bien ou le défaut invoqué.
+\- si cette présomption est incompatible avec la nature du bien ou le défaut invoqué.
 
 
 
@@ -1546,19 +1570,17 @@ Tout produit réparé dans le cadre de la garantie légale de conformité béné
 
 mois.
 
-
-
 Dans le cadre de la garantie légale de vice caché, le client :
 
 
 
-- Dispose d’un délai de deux ans à compter de la découverte du vice pour agir auprès du vendeur. Attention,
+\- Dispose d’un délai de deux ans à compter de la découverte du vice pour agir auprès du vendeur. Attention,
 
 cette garantie est limitée à cinq ans après l’achat du Produit
 
 
 
-- Pourra agir si le défaut :
+\- Pourra agir si le défaut :
 
 1- existait et n’était pas visible au moment de l’achat
 
@@ -1568,15 +1590,15 @@ cette garantie est limitée à cinq ans après l’achat du Produit
 
 
 
-- Aura la possibilité SOIT de rendre le Produit et de se faire rembourser SOIT de garder le Produit et d’obtenir
+\- Aura la possibilité SOIT de rendre le Produit et de se faire rembourser SOIT de garder le Produit et d’obtenir
 
 une remise sur le prix d’achat
 
 
 
-\*Pour toute information complémentaire vous pouvez nous joindre du lundi au samedi de 9h à 20h (appel non
+\*Pour toute information complémentaire vous pouvez nous joindre du lundi au samedi de 9h à 20h (appel
 
-surtaxé) au numéro suivant : 0969 32 33 22
+non surtaxé) au numéro suivant : 0969 32 33 22
 
 
 
@@ -1634,11 +1656,15 @@ par voie postale, DECATHLON prend à sa charge les
 
 frais de retours dès lors que l’Acheteur suit la
 
-procédure de retour à effectuer sur le Site à partir de
-
-la rubrique “Mes achats” de “Mon compte”.
+procédure de retour à effectuer sur le Site à partir de la
 
 
+
+rubrique “Mes achats” de “Mon compte”.
+
+
+
+● Garanties commerciales marques DECATHLON
 
 Ce droit de retour ne s’applique pas aux produits
 
@@ -1658,12 +1684,6 @@ Les détails de la Politique Retour et Échange sont
 
 disponibles ici.
 
-
-
-● Garanties commerciales marques DECATHLON
-
-
-
 En plus de la garantie commerciale 365 jours, certains produits de marque “sports passion’ DECATHLON peuvent
 
 bénéficier d’une garantie commerciale particulière dont la durée est mentionnée directement sur la fiche produit, le site
@@ -1682,7 +1702,7 @@ Ainsi, le client pourra bénéficier notamment et non limitativement des garanti
 
 - Garantie à vie cycle (https://support.decathlon.fr/cycle-btwin-garantie-a-vie)
 
-- Garantie 10 ans sur les sacs à dos Quechua
+\- Garantie 10 ans sur les sacs à dos Quechua
 
 (https://www.quechua.fr/les-coulisses-de-la-garantie-10-ans-sacs-a-dos-quechua)
 
@@ -1758,8 +1778,6 @@ le Produit afin de déterminer si le défaut ou dysfonctionnement allégué est 
 
 commerciale.
 
-
-
 Dans l’hypothèse où le retour est jugé conforme par DECATHLON, cette dernière procédera :
 
 
@@ -1822,9 +1840,9 @@ métropolitaine) de 9h à 20h du lundi au samedi, hors jours fériés.
 
 
 
-Par internet : aide/contact Par voie postale à’adresse suivante : Decathlon France – Service clients Decathlon.fr
+Par internet : aide/contact Par voie postale à’adresse suivante : Decathlon France – Service clients Decathlon.fr -
 
-\- 4, boulevard de Mons 59665 VILLENEUVE D’ASCQSi l’Internaute dispose déjà d’un compte client sur le Site, il peut
+4, boulevard de Mons 59665 VILLENEUVE D’ASCQSi l’Internaute dispose déjà d’un compte client sur le Site, il peut
 
 se rendre sur la rubrique « Mon compte ». Lorsque vous prenez contact avec le Service Clients pour un problème
 
@@ -1976,9 +1994,9 @@ ANNEXE : MODÈLE DE FORMULAIRE TYPE DE RETRACTATION
 
 Si l’internaute souhaite faire valoir son droit de rétractation - dans le respect des conditions
 
-prévues à l’article 9 et conformément à la règlementation en vigueur, il a la possibilité d’utiliser
+prévues à l’article 9 et conformément à la règlementation en vigueur, il a la possibilité d’utiliser le
 
-le formulaire ci-dessous
+formulaire ci-dessous
 
 
 
