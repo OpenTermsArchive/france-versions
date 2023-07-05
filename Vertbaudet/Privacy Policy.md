@@ -30,10 +30,9 @@ Informations personnelles
 
 **VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son site et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
   
-• le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018,  
-• le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
-• les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
-• tout texte relevant de la vie privée et du secret professionnel.  
+le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018, le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
+les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
+tout texte relevant de la vie privée et du secret professionnel.  
 
 1. [1\. Identité du responsable de traitement](#identite-du-responsable-de-traitement)
 2. [2\. Collecte et hébergement de vos données](#collecte-et-traitement-de-vos-donnees)
