@@ -14,7 +14,7 @@ Les présentes CGV régissent l'ensemble des modalités et conditions de vente �
 CAFAN, SAS  
 immatriculée sous le n°493 983 431 RCS SAINT MALO,  
 dont le siège social est sis 10 impasse du Grand jardin, ZAC de la Moinerie, 35400 SAINT MALO,  
-et l’établissement principal 104 avenue du Président Kennedy, 75016 PARIS,
+et l’établissement principal 61-69 RUE DE BERCY, 75012 PARIS,
 
 Téléphone : + 33 (0)9.69.32.00.31 (coût d'un appel local en France métropolitaine, tarif indicatif depuis un poste fixe, susceptible d'être modulé en fonction des opérateurs ; pour les internautes localisés hors de France métropolitaine, coût selon les tarifs pratiqués par les opérateurs locaux). Tout contact se fera en langue française.
 
