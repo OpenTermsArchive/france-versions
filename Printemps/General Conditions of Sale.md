@@ -175,7 +175,7 @@ A défaut de disponibilité d'un ou plusieurs Produit(s) après passation de la 
 
 **2.6 MODIFICATION DE COMMANDE**
 
-Une fois validé par le Client, le contenu de la commande n'est plus modifiable. Le Client peut toutefois modifier l'adresse de livraison ou annuler la commande si celle-ci n'a pas encore été préparée en contactant le service client au 01 71 25 26 01. En cas d'annulation réussie, le Client ne sera pas débité.
+Une fois validé par le Client, le contenu de la commande n'est plus modifiable. Le Client peut toutefois modifier l'adresse de livraison ou annuler la commande si celle-ci n'a pas encore été préparée en contactant le service client. En cas d'annulation réussie, le Client ne sera pas débité.
 
 Article 3 - Expédition et livraison
 -----------------------------------
@@ -1016,7 +1016,6 @@ Article 12 - Service client
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
-* par téléphone au 01.71.25.26.01., du lundi au samedi de 9h à 19h (UTC+1, Paris)
 * par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
 * via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
 
