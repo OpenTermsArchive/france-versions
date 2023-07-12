@@ -325,15 +325,15 @@ Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.c
 
 **Union Européenne**
 
-Livraisons standard offertes dès 200 euros d'achat
+Livraisons standard offertes dès 300 euros d'achat
 
   
 
-**CHRONO STANDARD INTERNATIONAL** (sous 2 à 4 jours)
+**CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 4 jours)
 
 Livraison standard à domicile pour les pays suivants :
 
-Allemagne (8 euros), Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal (10 euros).
+Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
   
 
@@ -349,11 +349,18 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
   
 
-**CHRONO EXPRESS INTERNATIONAL**, 15 euros (en 24h)
+**CHRONO EXPRESS INTERNATIONAL** (en 24h)
 
-La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
+La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Irlande, Luxembourg et Pays-Bas.
 
 Le délai de livraison est de 1 jour ouvré.
+
+Le prix varie selon le pays de destination :
+
+* 19€ pour l'Allemagne
+* 17€ pour la Belgique, le Luxembourg et les Pays-Bas
+* 15€ pour l'Irlande
+* 22€ pour l'Autriche
 
   
 
