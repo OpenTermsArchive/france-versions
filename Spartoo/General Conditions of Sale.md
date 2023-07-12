@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 06/06/2023  
+Mise à jour le 12/07/2023  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -379,7 +379,7 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
 
 ### 10.1 : Les moyens pour faire un retour sont les suivants :
 
-\- France Métropolitaine, Corse et Monaco : retour gratuit par Colissimo ou réseau Relais Colis ou Mondial Relay. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
+\- France Métropolitaine, Corse et Monaco : retour gratuit par réseau Relais Colis ou Mondial Relay. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Belgique : retour gratuit avec BPost. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Luxembourg : Le mode de retour seront à la charge du client.  
 \- Andorre, Suisse et DROM-COM : transporteur au choix du client. Retour à la charge du client.  
