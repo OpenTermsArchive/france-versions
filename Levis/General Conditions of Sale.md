@@ -5,6 +5,8 @@ CONDITIONS GÉNÉRALES CONSOMMATEURS
 
 [](javascript:void(0))[LIVRAISON](javascript:void(0))[RETOURS](javascript:void(0))[LIVRAISON](javascript:void(0))[PAIEMENT](javascript:void(0))[VOTRE COMMANDE](javascript:void(0))[VOTRE COMPTE](javascript:void(0))[CONTACTEZ-NOUS](javascript:void(0))
 
+[Print This Page](javascript:window.print())
+
 Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Airport Plaza - Rio Building, Leonardo Da Vincilaan 19, 1831 DIEGEM, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
    
 
@@ -77,37 +79,7 @@ Vous avez deux possibilités pour retourner vos articles. Veuillez noter que l'o
 
 Option 1 : nous le renvoyer par la poste
 
-* Afin de faciliter cette procédure, vous trouverez dans votre colis une étiquette pré-adressée et pré-payée qu'il conviendra d'apposer sur le paquet utilisé pour le retour de marchandise.
-* Veillez à emballer soigneusement le ou les articles, si possible dans l'emballage d'origine. Veuillez accompagner l'article renvoyé de tous les documents de retour, éléments et accessoires qui se trouvaient dans l'emballage d'origine. Une commande ayant bénéficié d'une offre promotionnelle doit nous être retournée dans son intégralité. Tous les articles retournés font l'objet d'un examen attentif avant qu'un remboursement ne puisse être effectué. Les articles doivent donc être dans leur état d'origine, afin que le remboursement applicable soit assuré.
-* Veuillez joindre à votre colis le questionnaire qui explique les raisons de votre retour (notez que vous n'êtes pas obligé(e) de vous justifier). Il se trouve sur le bordereau d'expédition, à joindre lui aussi. Suivez les instructions figurant sur le colis.
-* Si vous avez des questions, contactez notre Service client au numéro suivant : 00800 53847 501. N'oubliez pas de conserver la facture de votre commande et votre numéro de commande.
-
-Dès que nous accusons réception de votre retour de marchandise, vous recevrez un courrier électronique d'information. C'est alors que nous effectuerons la vérification et la validation du retour. Une fois votre retour de marchandise accepté, le remboursement sera effectué dans un délai de cinq jours ouvrés. Veuillez noter que les délais de remboursement relèvent directement de la banque émettrice, de la société de la carte de crédit ou du prestataire du service de paiement (par ex. PayPal) et qu’ils sont indépendants de notre volonté. Veuillez noter que le processus de remboursement ne sera déclenché qu’après la réception du produit à l’entrepôt. Nous ne sommes pas en mesure de traiter un remboursement si vous avez en même temps demandé une rétrofacturation à votre société de carte de crédit, à votre banque ou à votre prestataire de services de paiement. Cette mesure vise à prévenir les fraudes.  
-  
-
-Veuillez utiliser le bordereau de retour de marchandise. Dans les cas où vous auriez égaré le bordereau de retour, ne l'auriez pas reçu ou souhaiteriez expédier le colis sans étiquette pré-payée, veuillez utiliser l'adresse suivante pour votre retour de marchandise :
-
-Levi’s® eShop Returns Department
-
-Schleefstr. 560
-
-D-44287 Dortmund
-
-Allemagne  
-  
-
-En n'utilisant pas les services de notre transporteur habituel, le colis de retour de marchandise sera expédié à vos propres frais. Dans ce cas, nous vous conseillons d'envoyer le colis en recommandé et d'en conserver le récépissé. Veuillez-vous assurer de joindre à votre colis de retour l'ensemble des articles dans leur emballage d'origine. Nous nous dégageons de toute responsabilité quant à l'acheminement de ces colis jusqu'à nos entrepôts.  
-
-Si vous rencontrez des problèmes avec vos retours (par exemple, vous avez renvoyé le produit mais nous ne l'avons pas reçu et vous n'avez donc pas été remboursé), nous vous fournirons une déclaration de retour et vous demanderons de la remplir, de la signer et de nous la renvoyer afin d'entamer une enquête sur votre retour et d'accélérer votre remboursement.
-
 Option 2 : Apportez-le dans l'un de nos magasins Levi's®
-
-* Les articles achetés en ligne peuvent être retournés gratuitement dans l'un de nos magasins Levi's® sélectionnés.
-* Les articles achetés en ligne ne peuvent pas être retournés dans l'un de nos magasins d'usine Levi's® ou dans un grand magasin.
-* Visitez notre site Web pour trouver un magasin près de chez vous et vérifier les heures d'ouverture et l'adresse du magasin.
-* Toutes les règles et restrictions standard s'appliquent. Tous les achats promotionnels doivent être retournés dans leur intégralité, par exemple dans le cadre d'une promotion "un article acheté, un article gratuit". Tous les articles retournés sont inspectés avant qu'un remboursement ne soit effectué et doivent être retournés dans leur état d'origine, afin de garantir un crédit applicable.
-* Les remboursements sont effectués sur le mode de paiement original ou sur une carte cadeau électronique envoyée par e-mail et utilisable dans tous les magasins Levi's® participants. Le traitement des remboursements effectués sur la forme de paiement originale peut prendre de 2 à 5 jours. Veuillez noter que les délais de remboursement sont dictés par la banque émettrice, la société de carte de crédit ou le prestataire de paiement (par exemple, Paypal) et que nous n'avons aucun contrôle sur ces délais. Les remboursements effectués sur une carte cadeau électronique peuvent être utilisés immédiatement et n'ont pas de date d'expiration.
-* En cas de questions, appelez notre service clientèle au 00800 53847 501. N'oubliez pas de conserver votre facture de commande avec votre numéro de commande. Une fois le retour traité dans l'un de nos magasins Levi's®, vous recevrez un e-mail de confirmation.
 
 #### Colis endommagés ou produits défectueux  
 
@@ -208,32 +180,11 @@ PayPal constitue une autre méthode de paiement pour acheter des produits sur no
 
 Pour le Royaume-Uni, la Suède, la Suisse et la Finlande:
 
-**Klarna**
-
-Klarna est un mode de paiement qui permet l'achat sur compte, ce qui, sous réserve de l'examen et de l'autorisation de Klarna, vous permet d'acheter maintenant et de payer plus tard. Vous devez vous assurer que l'adresse de facturation fournie correspond à l'adresse à laquelle vous et vos cartes bancaires et de crédit sont enregistrés. Vous pouvez payer vos achats avec une carte de crédit, une carte de débit ou par le biais de votre compte bancaire. Votre numéro de carte ou de compte ne sera pas transmis au vendeur ou au concessionnaire.  
-  
-
-**Spécifique au Royaume-Uni:**
-
-Klarna est un mode de paiement qui, sous réserve de l'examen et de l'autorisation de Klarna, permet d'effectuer un achat sur compte, d'acheter maintenant et de payer plus tard ; ou pour les commandes supérieures à 35 £, d'acheter en 3 versements égaux, via une carte de crédit ou de débit. Vous devez vous assurer que l'adresse de facturation fournie correspond à l'adresse à laquelle vous et vos cartes bancaires et de crédit sont enregistrés. Vous pouvez régler vos achats par carte de crédit, carte de débit ou par l'intermédiaire de votre compte bancaire. Votre numéro de carte ou de compte ne sera pas transmis au vendeur ou au concessionnaire.
-
 Pour l'Autriche:
-
-**EPS (uniquement pour les titulaires de comptes bancaires autrichiens)**
-
-EPS (electronic payment standard) est un système de transfert en ligne développé conjointement par les banques et le gouvernement autrichiens. Il est pris en charge par toutes les banques autrichiennes et offre un processus simple et sécurisé pour les paiements en ligne.
 
 Pour la Belgique:
 
-**Bancontact** (uniquement pour les titulaires de comptes bancaires belges)
-
-Bancontact est un système de paiement en ligne développé conjointement par le secteur bancaire belge. Tout client ayant reçu une carte Bancontact de toute banque belge participante peut payer par Bancontact.
-
 Pour la Pologne:
-
-**DotPay** (uniquement pour les titulaires de comptes bancaires polonais)
-
-Avec DotPay, vous pouvez payer vos achats en ligne en toute sécurité et en toute simplicité avec votre banque en ligne. DotPay vous relie directement à votre programme bancaire en ligne, ce qui vous permet de payer dans l'environnement de paiement familier de votre propre banque en ligne. Plus de 20 grandes marques de banques en Pologne sont couvertes par le mode de paiement DotPay. Si vous utilisez les services bancaires en ligne de l'une de ces banques, vous pouvez payer directement et rapidement via DotPay.
 
 VOTRE COMMANDE
 --------------
@@ -388,10 +339,24 @@ Pour de plus amples informations concernant nos politiques et nos pratiques en m
 
 [Print This Page](javascript:window.print())
 
-Welcome! Sign up for Levi's® emails and get 10% + free shipping off on your next order.
+LA VIE EST PLUS SYMPA QUAND ON EST MEMBRE DU PROGRAMME LEVI’S® RED TAB™
 
-Be the first to hear about special offers, new arrivals and more.
+Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
 
-By subscribing, I agree that the LS&Co. [Group of Companies](https://www.levi.com/FR/fr_FR/legal/lsco-group-of-companies) may email me news and offers. I can [unsubscribe](https://www.levi.com/FR/fr_FR/unsubscribe) at any time. I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+Les mots de passe doivent contenir au moins 8 caractères et être difficiles à deviner - les mots de passe couramment utilisés ou risqués ne sont pas autorisés.
 
-Inscrivez-vousNon merci
+Surprise d’anniversaire (facultatif)
+------------------------------------
+
+Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
+
+10 %, ça vous tente ?
+---------------------
+
+10 % sur votre prochaine commande si vous vous abonnez à notre newsletter. Uniquement pour les nouveaux abonnés. Désabonnement possible à tout moment.
+
+Je m’abonne !Non, merci !
+
+By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+
+Nous rejoindre[Se connecter avec un compte existant](javascript:;)
