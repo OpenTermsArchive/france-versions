@@ -76,8 +76,6 @@ Nous vous informons que vous avez le droit de demander au Titulaire du traitemen
   
 Vous avez également le droit de révoquer le consentement donné aux fins de traitement qui l'exigent, sans préjudice de la licéité du traitement effectué jusqu'au moment de la révocation.  
   
-Conformément à l'article 17 du RGPD, vos données personnelles seront supprimées ou vous pourrez demander leur suppression complète en nous contactant à l'adresse e-mail suivante : rpd@benetton.it.  
-  
 Vous pourrez exercer ces droits en contactant le Titulaire, aux adresses indiquées au point 1, en indiquant le motif de votre demande et le droit que vous souhaitez exercer. Si nous le jugeons nécessaire pour votre identification, nous pourrons vous demander de nous fournir une copie de votre pièce d'identité.  
   
 Veuillez noter que si vous vous êtes inscrit aux services en tant qu'utilisateur, vous pouvez également accéder à la section correspondante de vos données personnelles dans votre compte pour tout changement ou mise à jour. Dans tous les cas, veuillez noter qu'en nous fournissant activement vos données personnelles par quelque moyen que ce soit, vous garantissez leur véracité et leur exactitude et vous vous engagez à nous informer de tout changement. Toute perte ou dommage causé au Titulaire ou à un tiers en raison d'informations incorrectes, inexactes ou incomplètes contenues dans les formulaires d'inscription, sera la responsabilité exclusive de l'utilisateur. En général, vous êtes tenu de nous fournir uniquement vos données personnelles, et non celles de tiers, sans préjudice des dispositions de la politique de confidentialité et des cookies.
