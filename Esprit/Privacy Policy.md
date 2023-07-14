@@ -295,6 +295,16 @@ Nous traitons les données sur la base de votre consentement que vous avez donn�
 
   
 
+**jj) Autres modules du site web**
+
+Nous, Esprit Retail B.V. & Co. KG utilisons des cookies sur notre site Web pour des fonctions que nous avons développées nous-mêmes.
+
+Nous utilisons sur le site web, pour certaines périodes promotionnelles, ce que l'on appelle une "Discount Wheel". Dans ce cadre, les Esprit Friends peuvent participer à un tirage au sort en cliquant sur un bouton et reçoivent au hasard un code de bon d'achat comme prix. Ce module utilise le cookie "hasSpun" pour enregistrer si une participation à l'action a déjà eu lieu. Le cookie n'est activé que lorsque vous cliquez sur le bouton de participation.
+
+  
+
+  
+
 ﻿**2. Base légale pour le traitement des données**
 
 La base légale pour le traitement des données personnelles en utilisant des cookies est l’article 6, alinéa 1, lettre f du RGPD.
