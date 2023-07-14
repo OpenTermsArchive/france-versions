@@ -458,25 +458,46 @@ Le transport de liquides, d’aérosols et de gels dans la zone de sécurité d�
 
 ========================
 
-**Il est interdit aux passagers de transporter les articles suivants dans les zones de sécurité réglementées de l’aéroport ou dans les bagages à main ou enregistrés :**
+Vous ne devez transporter aucun des objets suivants dans les bagages enregistrés ou les bagages à main, ni passer le contrôle de sécurité avec ces objets sur vous (p. ex. : dans vos poches).
 
-**8.9.1** Substances et engins explosifs ou incendiaires susceptibles, ou paraissant susceptibles, d’être utilisés pour occasionner des blessures graves ou pour menacer la sécurité d’un aéronef, notamment : munitions, amorces, détonateurs et mèches, copies ou imitations d’engins explosifs, mines, grenades et autres explosifs militaires, feux d’artifice et autres produits pyrotechniques, cartouches fumigènes, dynamite, poudre et explosif plastique. Gaz et récipients à gaz, p. ex. : propane, butane. Liquides inflammables, y compris l’essence et le méthanol, solides inflammables et substances réactives, y compris le magnésium, les allume-feu, les feux d’artifice, les fusées/cartouches de signalisation, autres produits pyrotechniques, bombes de peinture en aérosol, essence de térébenthine et diluants pour peinture, boissons alcoolisées titrant plus de 70 % en volume (« 140% proof »). Oxydants et peroxydes organiques, y compris eau de Javel et kits de réparation de carrosserie. Substances toxiques ou infectieuses, y compris le raticide, le sang infecté, les matières radioactives, p. ex. : les isotopes médicaux ou commerciaux. Substances corrosives, y compris le mercure, les batteries de véhicules, composants de systèmes d’alimentation des véhicules ayant contenu du carburant, de l’huile comestible (p. ex. : l’huile d’olive) dépassant 1 litre de volume. Cigarettes électroniques. Les véhicules alimentés par une batterie au lithium-ion intégrée (y compris les segways et les hoverboards) autres que les fauteuils roulants/équipements de mobilité conformes à nos Règlements quant aux Sujets particuliers (cliquez ici), les appareils alimentés par une batterie au lithium-ion intégrée qui dépassent les 160 wattheures, les sacs connectés dont on ne peut pas retirer les batteries au lithium.  
+**8.9.1** Tout objet susceptible de présenter un danger pour l’avion, les personnes ou les biens, y compris les objets suivants.
 
-**8.9.2** Revolvers, armes à feu et armes : tout objet capable ou apparemment capable de libérer un projectile ou d’occasionner des blessures, tel que : armes à feu de toutes sortes (pistolets, revolvers, carabines, fusils, etc.), copies et imitations d’armes à feu, pièces détachées d’armes à feu (à l’exception des dispositifs de visée et des lunettes télescopiques), pistolets et carabines à air comprimé et fusils à plomb. Pistolets lance-fusées, pistolets de départ, pistolets jouets de tous types, pistolets à air comprimé et à CO2, tels que pistolets à peinture, pistolets, fusils, carabines à plombs et pistolets et fusils à barillet, pistolets lance-fusées et pistolets starter, arcs, arbalètes et flèches, catapultes, harpons et fusils à harpon, frondes et lance-pierres. Pistolets d’abattage des animaux et dispositifs d’étouffement, p. ex. : armes à feu, tasers, matraques électriques, aiguillons électriques, armes à décharge électrique (laser), briquets en forme d’arme à feu.  
+* Explosifs, substances et dispositifs capables, ou semblant capables, de causer des blessures graves ou de menacer la sécurité de l’avion, y compris les détonateurs et les fusibles, les répliques ou imitations d’engins explosifs, les mines et les grenades.
+* Détonateurs
+* Autres magasins d’explosifs militaires
+* Dynamite, poudre à canon et explosifs plastiques
+* Gaz et récipients à gaz
+* Liquides inflammables
+* Solides inflammables et substances provoquant une réaction chimique
+* Feux d’artifice, fusées éclairantes, bombes ou cartouches fumigènes et autres articles pyrotechniques
+* Peinture, térébenthine, white spirit et diluant pour peinture
+* Alcool ayant un titre alcoométrique de plus de 70 % (« 140 % proof »)
+* Produits chimiques, substances toxiques ou infectieuses (p. ex. : acides et alcalis, batteries « humides », eau de Javel, gaz lacrymogène, sprays répulsifs pour animaux, poisons, sang infecté, bactéries et virus)
+* Matières radioactives, y compris les isotopes médicaux ou commerciaux
+* Corrosifs, y compris le mercure, les batteries de véhicules et les pièces ayant contenu du carburant
+* Plus d’un litre au total d’huile alimentaire (p. ex. : d’huile d’olive)
+* Véhicules alimentés par des batteries au lithium-ion (y compris les segways et les hoverboards) autres que tout fauteuil roulant ou équipement de mobilité conforme à nos réglementations 
+* Appareils alimentés par des batteries au lithium-ion qui dépassent 160 wattheures.
+* Sacs intelligents dont la batterie au lithium n’a pas été retirée.  
+* Pistolets, armes à feu, munitions et armes, réelles ou factices, y compris les pistolets de départ, les pistolets-jouets ou les pistolets de loisir (tels que les pistolets à billes de peinture), les pistolets à clous, les arcs, les lance-pierres, les catapultes, les harpons, les pistolets paralysants, les tasers, les aiguillons à bétail et les lasers.
+* Parties d’armes à feu (à l’exception des dispositifs de visée et des viseurs)
+* Extincteurs d’incendie (à l’exception des extincteurs autorisés par les procédures d’incendie et du matériel d’urgence à bord de l’avion)
+* Briquets et allume-feu
+* Crackers de Noël
+* Ampoules à économie d’énergie
+* Objets équipés d’un moteur à combustion interne
 
-**8.9.3** Substances chimiques et toxiques : toute substance chimique ou toxique représentant un risque pour la santé des passagers et de l’équipage ou pour la sécurité/sûreté de l’aéronef ou des biens, telle que : acides et alcaloïdes, p. ex. : les piles et batteries à électrolyte susceptibles de couler, substances corrosives et produits de blanchiment, p. ex. : le mercure, le chlore, vaporisateurs de substances neutralisantes ou incapacitantes, tels que les vaporisateurs Mace, les vaporisateurs à gaz poivré et les vaporisateurs à gaz lacrymogène, les matières radioactives, p. ex. : les isotopes médicaux ou commerciaux, poisons, substances dangereuses infectieuses ou biologiques, p. ex. : le sang infecté, les bactéries et les virus, les matières présentant un risque d’inflammation ou de combustion spontanée, les extincteurs d’incendie (sauf si autorisés par les protocoles d’incendie et des équipements d’urgence des aéronefs).  
+**8.9.2** Les articles interdits par une loi, un règlement ou une ordonnance d’un pays ou d’un état vers lequel ou à partir duquel votre avion vole.
 
-**8.9.4** Les peintures, les Christmas Crackers (pétards de Noël), les ampoules à économie d’énergie, les articles avec moteurs à combustion interne, y compris, mais sans s’y limiter, les tronçonneuses, les modèles d’avions et les tondeuses.  
+**8.9.3** Les articles dont nous avons de bonnes raisons de penser qu’ils ne conviennent pas au transport parce que :
 
-**8.9.5** Les articles susceptibles de mettre en danger l’avion, les personnes ou les biens à bord.  
+* ils sont dangereux ou peu sûrs ;
+* en raison de leur poids, de leur taille, de leur forme ou de leur nature ; ou
+* sont fragiles ou périssables.
 
-**8.9.6** Les articles dont le transport est interdit par les lois, les règlements ou directives applicables dans tout État qui doit être survolé ou qui se trouve au point de départ ou d’arrivée du vol.  
+**8.9.4** Les poissons, les oiseaux ou tous les animaux tués et conservés comme trophées de chasse.
 
-**8.9.7** Les articles que nous estimons ne pas être adaptés au transport, parce qu’ils sont dangereux, peu sûrs ou en raison de leur poids, leur dimension, leur forme ou leur nature, ou encore parce qu’ils sont fragiles ou périssables eu égard, entre autres, au type d’avion utilisé.  
-
-**8.9.8** Les trophées de chasse ou de pêche.  
-
-**8.9.9.** Si, en dépit de l’interdiction ci-dessus, l’un des articles visés dans le présent article sont inclus dans votre bagage en cabine ou vos bagages enregistrés, nous ne serons pas responsables des pertes ou des dommages causés à ces articles, sauf si la Convention de Montréal en dispose autrement.
+**8.9.5** Si, bien qu’interdit, un article visé dans la présente clause 8.9 se trouve dans votre bagage à main ou votre bagage enregistré, nous ne serons pas responsables de la perte ou de l’endommagement de cet article.
 
 ARTICLE 9 HORAIRES, ANNULATIONS, RETARDS ET DÉROUTEMENTS
 ========================================================
