@@ -361,7 +361,7 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 * Ividence : [http://www.ividence.com/legal/](http://www.ividence.com/legal/)
 * Microsoft Advertising : [https://privacy.microsoft.com/fr-fr/privacystatement](https://privacy.microsoft.com/fr-fr/privacystatement)
 * MediaMath : [http://www.mediamath.com/fr/politique-de-confidentialite/](http://www.mediamath.com/fr/politique-de-confidentialite/)
-* Target2Sell : [\[email protected\]](https://www.vertbaudet.fr/page/contact@target2sell.com)
+* Target2Sell : [contact@target2sell.com](https://www.vertbaudet.fr/page/contact@target2sell.com)
 * iAdvize : [https://www.iadvize.com/fr/vie-privee/](https://www.iadvize.com/fr/vie-privee/)
 * Bazaarvoice : [https://www.bazaarvoice.com/legal/privacy-policy/](https://www.bazaarvoice.com/legal/privacy-policy/)
 * GlobalSign : [https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf](https://downloads.globalsign.com/acton/attachment/2674/f-0a47/1/-/-/-/-/GlobalSign-Privacy-Policy.pdf)
@@ -402,7 +402,7 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 * Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
 * Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
 * Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
-* Contacter le délégué à la protection des données à l’adresse suivante : [\[email protected\]](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
+* Contacter le délégué à la protection des données à l’adresse suivante : [dpo@vertbaudet.com](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
 * Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 216 rue Winoc Chocqueel – 59700 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
