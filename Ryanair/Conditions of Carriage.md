@@ -663,7 +663,9 @@ Avant le voyage, vous devez présenter tous les documents d’entrée, de sortie
 
 =====================
 
-Si l'entrée dans un pays vous est refusée en raison des conditions d’admission sur le territoire, vous serez tenu de payer les amendes imposées contre nous par le gouvernement ou l'autorité d'immigration concernés ainsi que les coûts de votre transport de ce pays à votre point d'origine ou ailleurs. Sauf pour ce qui est prévu à l’article 4.2.1, nous ne fournirons aucun remboursement pour des vols que vous ne seriez pas en mesure d'utiliser à la suite du refus de votre admission sur le territoire. Tous les frais engagés par nous pour votre compte seront recouvrés par déduction de la carte de crédit/débit utilisée pour effectuer la réservation.
+Si l’autorité d’immigration d’un pays ne vous laisse pas entrer sur son territoire, vous devez payer toutes les amendes ou une partie raisonnable de l’amende, décidée par Ryanair, que le gouvernement ou l’autorité d’immigration de ce pays nous réclame. Vous devez également payer les frais de transport pour vous ramener à votre point de départ ou à une autre destination. 
+
+Nous ne remboursons pas les frais liés à un vol que vous ne pouvez pas emprunter en raison d’un refus d’entrée sur le territoire. Si nous prenons en charge des frais en votre nom, ces derniers seront débités sur la carte de crédit ou de débit que vous avez utilisée pour effectuer la réservation.
 
 13.4 Responsabilité des passagers en cas d’amendes, dettes, coûts, etc.
 
@@ -1494,7 +1496,7 @@ Vous pouvez modifier les noms figurant sur la réservation jusqu’à 24  heure
 
 Les frais de modification sont facturés par passager/par réservation, veuillez consulter notre tableau des frais pour plus de détails. 
 
-Vous pouvez échanger votre prénom et votre nom dans les 48 heures suivant votre réservation. Vous pouvez corriger gratuitement toute faute d’orthographe éventuelle, dans la limite de 3 caractères par nom dans la rubrique Mes réservations jusqu’à 48 heures avant le départ prévu. Les corrections ne peuvent être effectuées qu’une seule fois par passager sur une réservation.    
+Vous pouvez échanger votre prénom et votre nom dans les 48 heures suivant votre réservation. Vous pouvez corriger gratuitement toute faute d’orthographe éventuelle, dans la limite de 3 caractères par nom dans la rubrique Mes réservations jusqu’à 48 heures avant le départ prévu. Les corrections ne peuvent être effectuées qu’une seule fois par passager sur une réservation. Ces corrections ne vous seront pas facturées, tant que nous croyons que vous corrigez une erreur légitime et n’essayez pas d’attribuer la réservation à une autre personne.    
 
 Si vous modifiez la date ou l’heure de votre vol ou si vous devez inverser l’itinéraire de vos vols dans les 24 heures suivant votre réservation, nous ne vous facturerons pas les frais de changement de vol indiqués dans notre tableau des frais, mais vous devrez payer toute différence de prix entre le tarif initial et le tarif du nouveau vol (si le tarif du nouveau vol est moins élevé, la différence ne vous sera pas remboursée). 
 
