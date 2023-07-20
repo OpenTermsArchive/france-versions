@@ -7,7 +7,6 @@ Terms of Use
 * [Terms of Use and Sale for the Deezer Web Service](#cgu_web)
 * [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service](#cgu_premium)
 * [Terms of Use and Sale for the Deezer HiFi Service](#cgu_hifi)
-* [Terms of Use of the Radio by Deezer Service](#cgu_radiobydeezer)
 * [Terms of Use for Deezer for Developers](#cgu_developers)
 
 ﻿
@@ -1072,121 +1071,6 @@ Any claim relating to the application of these Terms of Use must be emailed to C
 For Subscribers residing in a member state of the European Union, should a claim made by a Subscriber not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the Subscriber may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
 
 In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Subscriber has his/her habitual residence.
-
-﻿
-
-Terms of Use of the Radio by Deezer Service
--------------------------------------------
-
-### Article 1 – General
-
-Welcome to the Terms of Use of the Radio by Deezer Service, a software application for tablets, mobiles, set-top boxes and other consumer electronic devices, offering access to radio stations.
-
-The Radio by Deezer Service is created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register as number 511 716 573, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
-
-To access and use the Radio by Deezer Service, the User must (i) be at least 16 years old and (ii) accept without any reserve, at the time of download and installation of the Radio by Deezer Service, the conditions of use including the Privacy Policy included in these Terms of Use (hereinafter the “Terms”).
-
-The use of the Application is only authorised for personal and private use, therefore any other use, particularly in public premises and for businesses, is strictly prohibited.
-
-### Article 2 – Description of the Radio by Deezer Service
-
-The Radio by Deezer Service is a no-login software application offering access to radio stations (hereinafter the “Radio Content”) for the purposes of unlimited live radio streaming on portable devices (the “Radio by Deezer Service” or “Service”) to each User for his/her personal and private use (hereinafter the “User”). The User has the ability to create a DEEZER account and/or log in to his/her existing DEEZER account via the Radio by Deezer Service (hereinafter the “Registered User”) to access certain features only available to Registered Users.
-
-### Article 3 – Access and use of the Radio by Deezer Service
-
-The use of the Radio by Deezer Service requires an Internet service for portable devices. Such connections are not provided by DEEZER, therefore the User must first subscribe to a broadband Internet service in order to use the Radio by Deezer Service. The User is solely responsible for checking with his/her mobile provider to determine if the Service is available or if any restrictions or costs are applicable to his/her use of the Service.
-
-A mobile Internet connection via third or fourth generation (3G or 4G) mobile technology is highly recommended.
-
-### Article 4 – Availability and modification of the Radio by Deezer Service
-
-DEEZER has sole discretion from time to time to change, add, or remove features, content and functionality made available through the Radio by Deezer Service without prior notice or compensation.
-
-In addition, DEEZER reserves the right, without prior notice or compensation, at any time and at its sole discretion to temporarily discontinue access to the Radio by Deezer Service or any part thereof. DEEZER is also entitled to shut the Service down permanently with no compensation payable. Notice of any permanent shutdown of the Radio by Deezer Service will be given via the Application.
-
-The radio stations available as part of the Radio by Deezer Service are linked to the availability of the Radio Content on their respective platforms and may therefore change. DEEZER cannot guarantee the availability of any given radio stations in the Radio by Deezer Service.
-
-Moreover, DEEZER cannot guarantee that any given track, album, artist or group in the Radio by Deezer Service will be available indefinitely. DEEZER assumes no liability for the withdrawal of any part of the Radio Content made available.
-
-### Article 5 – User liability
-
-i) The User agrees not to use any automated system such as scripts for the purpose of adding Users to his/her User account.
-
-ii) The User recognises that if his/her use of the Application is in breach of the Terms and more broadly any third-party rights, laws and regulations in force, DEEZER has the right immediately to suspend or remove him/her from the Radio by Deezer Service and/or block his/her access to the Radio by Deezer Service without notice.
-
-iii) Should the User be in breach of the legislation or infringe any third parties’ rights, DEEZER would be within its rights to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities, and police forces).
-
-### Article 6 – Disclaimer of warranties
-
-The User declares that he/she has been informed of the scope and limitations of the Internet network.
-
-As a result, DEEZER disclaims all liability for any malfunction in access to the Radio by Deezer Service, the speed at which the pages of the Application open and can be read, the listening speed of the Radio Content, the temporary or permanent inaccessibility of the Radio by Deezer Service, and the fraudulent use by third parties of the information provided on the Radio by Deezer Service.
-
-It is therefore the User’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER may never be held liable. DEEZER may never be held liable for any malfunction of or damage caused to the User’s equipment.
-
-More broadly, DEEZER disclaims any liability if a breach of any of its obligations results from acts of nature, forces, or causes beyond its reasonable control, including but not limited to Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
-
-DEEZER disclaims all liability in the event of the Service proving incompatible with certain items of equipment and/or features of the User’s equipment.
-
-Finally, the User is solely liable for his/her use of the Service and may not hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The User shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the User’s use of the Radio by Deezer Service in breach of the present Terms.
-
-### Article 7 – Intellectual property
-
-The general structure of the Radio by Deezer Service and elements composing it such as but not limited to the logos, domain names, the photos, images, texts are the exclusive property of DEEZER and/or third-party providers (hereinafter the “Third Parties”), in particular, the Radio Content and its associated elements such as but not limited to the logos, domain names, audio and their associated elements such as the photos, images, texts (hereinafter the “Third-Party Content”) are the exclusive property of Third Parties. These elements are protected by intellectual property law and other laws, particularly copyright. You may only use these elements for the purpose of using the Radio by Deezer Service in accordance with the Terms.
-
-Any representation of the Radio by Deezer Service and/or the elements composing it (as described above) by any means without the express consent of DEEZER and/or said Third Parties is therefore prohibited and constitutes an infringement punishable by law.
-
-You may not reproduce, modify, distribute, display, publish, transmit, communicate to the public, make available, broadcast, create derivative works from, publicly perform and otherwise use and exploit (hereinafter, collectively “Use”) any part, element or content of the Radio by Deezer Service.
-
-The Third-Party Content is owned and controlled by third-party transmitting entities and DEEZER gives access to the Third-Party Content through the Service by using information location tools such as directory, index, references, pointers and/or hypertext links. DEEZER therefore has no control over the Third-Party Content and is not responsible for any part of such content made available by Third Parties.
-
-### Article 8 – Suspension and/or cancellation initiated by DEEZER or a User
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Radio by Deezer Service of a User without notice or compensation, in the event that the User:
-
-\- Does not comply with the Terms and especially:
-
-* Infringes DEEZER’s or Third Parties’ intellectual property rights;
-* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER.
-
-\- Carries on activities prejudicial to DEEZER’s commercial interests.
-
-### Article 9 – Amendments of the Terms
-
-DEEZER has the right to amend the Terms at its sole discretion (hereinafter the “Updated and Applicable Terms”). To use the Radio by Deezer Service the User will be notified of the Updated and Applicable Terms and must accept them in order to continue using the Radio By Deezer Service. The Updated and Applicable Terms will always be made available and accessible to the User within the Radio by Deezer Service.
-
-### Article 10 – Customer Service department
-
-As part of his/her access to and use of the Radio by Deezer Service, DEEZER also provides the Registered User with a customer support service that can answer any questions the Registered User might have about his/her account and the Service provided by DEEZER (the “Customer Service”).
-
-The Registered User will be able to request information about but not limited to:
-
-\- his/her access to and use of the Service provided by DEEZER;
-
-\- his/her account and changing his/her account information.
-
-The Registered User can contact DEEZER through the Site by clicking on the “[Contact us](https://www.deezer.com/support)” link or by writing to the following address:
-
-Deezer  
-Customer Service  
-24 rue de Calais 75009 Paris  
-France  
-
-Customer Service will make every effort to respond to such requests within a reasonable timeframe, but can make no guarantees or warranties of any kind that such requests will be handled within a timeframe compatible with the Registered User’s expectations, or that the Registered User will be fully satisfied with the response.
-
-### Article 11 – Invalidity of any clause
-
-Should any of the clauses of the Terms be declared void or voidable for any reason, the other clauses will still apply without any modification.
-
-### Article 12 – Jurisdiction – Claims and disputes
-
-These Terms are governed by the law of the country where the User has his/her habitual residence.
-
-Any claim relating to the application of these Terms must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE, for prompt processing.
-
-For Users residing in a member state of the European Union, should a claim made by a User not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the User may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution via the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
-
-In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the User has his/her habitual residence.
 
 Terms of use of Deezer for Developers
 -------------------------------------
