@@ -499,7 +499,9 @@ Les Passagers devront se soumettre à la règlementation du contrôle de sécuri
 
 #### 10.1 Embarquement
 
-L'embarquement au départ des aéroports d'Italie et de Grèce commencera 40 minutes avant le départ de votre vol et se terminera 20 minutes avant celui-ci. Dans tous les autres aéroports, lorsque cela n’est pas spécifié, l’embarquement commencera 35 minutes avant le départ du vol et la porte d’embarquement sera fermée 15 minutes avant le départ.
+L'embarquement au départ des aéroports d'Italie et de Grèce commencera 40 minutes avant le départ de votre vol et se terminera 20 minutes avant celui-ci. Pour les vols à **destination de l'Algérie, la porte d'embarquement ferme 20 minutes** avant le départ du vol.
+
+Dans tous les autres aéroports, lorsque cela n’est pas spécifié, l’embarquement commencera 35 minutes avant le départ du vol et la porte d’embarquement sera fermée 15 minutes avant le départ.
 
 Les Passagers arrivant au-delà du délai mentionné dans le paragraphe précédent au comptoir d’embarquement ne seront pas admis à bord, ne pourront prétendre à aucune compensation pour refus d’embarquement et devront répondre en cas de préjudices occasionnés à Volotea si les bagages doivent être localisés et retirés de l’avion en cas d’enregistrement sans la présentation du Passager à la porte d’embarquement dans les délais impartis.
 
