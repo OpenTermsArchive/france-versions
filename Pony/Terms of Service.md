@@ -17,6 +17,7 @@
 [8\. CESSION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407?pvs=25#bb9210ec38b34841bbab82165efb8acb)
 
 Conditions Générales d’Utilisation de l'Application mobile Pony
+---------------------------------------------------------------
 
 VEUILLEZ LIRE ATTENTIVEMENT CES CONDITIONS GÉNÉRALES D'UTILISATION. ELLES ÉNONCENT LES TERMES ET CONDITIONS D’UTILISATION DE L'APPLICATION MOBILE PONY.
 
@@ -24,7 +25,7 @@ Les présentes Conditions Générales d'Utilisation définissent les conditions 
 
 Pour toutes réclamations ou demandes d'informations au sujet de ces Conditions Générales d'Utilisation qui ne peuvent pas être réglées par le biais de notre application mobile Pony, vous pouvez vous nous joindre par téléphone au 02 52 33 18 95 ou par email [aide@getapony.com](mailto:aide@getapony.com).
 
-1\. FONCTIONNALITÉS DE l'APPLICATION
+### 1\. FONCTIONNALITÉS DE l'APPLICATION
 
 PONY est un professionnel dont les activités principales (ci-après, les "Services") sont :
 
@@ -56,7 +57,7 @@ Nous pouvons également cesser de proposer certaines des fonctionnalités offert
 
 PONY s’efforce de proposer l'Application 365 jours par an, mais ne garantit pas qu'elle sera disponible à tout moment, car des événements de force majeure ou d’autres circonstances (telles que des opérations de maintenance) peuvent empêcher PONY de fournir ou d'assurer le fonctionnement de l'Application.
 
-2\. MODALITÉS D'ACCÈS AUX FONCTIONNALITÉS DE L'APPLICATION
+### 2\. MODALITÉS D'ACCÈS AUX FONCTIONNALITÉS DE L'APPLICATION
 
 Pour pouvoir bénéficier des fonctionnalités de l'Application, vous devez :
 
@@ -72,7 +73,7 @@ Elle ne nécessite le paiement d'aucun prix pour pouvoir être téléchargée ;
 
 Ni son téléchargement, ni la création d'un Compte Pony n'impliquent un engagement de l'Utilisateur de contracter avec PONY en vue de louer, acheter ou mettre en location des Véhicules.
 
-3\. RESTRICTIONS DE L'USAGE
+### 3\. RESTRICTIONS DE L'USAGE
 
 Vous ne devez pas utiliser l'Application :
 
@@ -82,7 +83,7 @@ Si vous êtes un Pony Rider, en dehors du cadre de la conclusion et de l'exécut
 
 Vous ne devez pas altérer, nuire, ou perturber le fonctionnement normal de l'Application, en détourner la finalité, tenter d’y accéder sans autorisation, ni utiliser ceux-ci d’une quelconque manière autrement que comme stipulé dans les présentes Conditions d'utilisation.
 
-4\. RÉSILIATION
+### 4\. RÉSILIATION
 
 PONY peut suspendre ou fermer votre Compte Pony et mettre fin à votre droit d'utiliser l'Application si vous ne respectez pas les présentes Conditions Générales d'utilisation, les [Conditions Générales de Location des Ponies](https://www.notion.so/ponybikes/Conditions-g-n-rales-de-location-19f364cb061940fd82bf03e86c9fd2fc), ou les [Conditions Générales d'Adoption des Ponies](https://www.notion.so/ponybikes/Conditions-d-adoption-024faf1426654a2ebc2826ef6ec91d91).
 
@@ -90,11 +91,11 @@ Si vous n'êtes pas d'accord avec notre décision de suspendre ou de fermer votr
 
 L'Utilisateur peut mettre fin à son utilisation de l'Application, ou la désinstaller à tout moment, étant précisé toutefois qu'il demeure responsable des actes commis avant la résiliation.
 
-5\. PROPRIÉTÉ INTELLECTUELLE
+### 5\. PROPRIÉTÉ INTELLECTUELLE
 
 Tous les droits de propriété intellectuelle afférents à l'Application sont détenus par PONY. Ces droits comprennent les droits sur les bases de données, les droits d’auteur, les droits rattachés aux dessins ou modèles (déposés ou non) et aux marques (déposées ou non), les informations relatives au fonctionnement des Véhicules, aux procédures de maintenance et de charge Pony, au contenu de l'Application et à son fonctionnement. Toutes les autres marques, logos, marques de service, tous noms d’entreprises ou de produits mentionnés dans l'Application sont la propriété de leurs détenteurs respectifs.
 
-6\. NOTIFICATIONS ET COMMUNICATIONS
+### 6\. NOTIFICATIONS ET COMMUNICATIONS
 
 PONY peut être contactée par e-mail à [aide@getapony.com](mailto:aide@getapony.com)
 
@@ -102,7 +103,7 @@ Vous autorisez PONY à vous envoyer des notifications et des messages de service
 
 Vous pouvez paramétrer vos préférences dans la rubrique [Paramètres de mon Compte Pony](http://link/) accessible sur notre site internet et dans l'application mobile Pony.
 
-7\. DROIT APPLICABLE; RÈGLEMENT DES DIFFÉRENDS
+### 7\. DROIT APPLICABLE; RÈGLEMENT DES DIFFÉRENDS
 
 Les présentes Conditions Générales d'Utilisation, leur interprétation et leur application sont régies par le droit français.
 
@@ -110,6 +111,6 @@ Une assistance à l'Utilisateur est disponible depuis l’Application pour trait
 
 Si la réponse apportée par PONY ne vous semble pas satisfaisante, vous pouvez saisir les tribunaux compétents. Si vous êtes un consommateur résidant dans l'Espace Économique Européen, vous pouvez aussi utiliser la [plateforme de Règlement en ligne des litiges de la Commission européenne](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR), ce que nous acceptons par avance si la loi l'exige et que vous remplissez les conditions requises.
 
-8\. CESSION
+### 8\. CESSION
 
 PONY peut céder ou transférer ses droits ou déléguer l’exécution de l’une quelconque de ses obligations à toute société affiliée, y compris toute filiale existante ou nouvellement constituée.
