@@ -813,7 +813,7 @@ I.-En plus des critères de conformité au contrat, le bien est conforme s'il r�
 5° Le cas échéant, il est fourni avec les mises à jour que le consommateur peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;  
 6° Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des biens de même type, eu égard à la nature du bien ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage.  
   
-II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques mentionnées à l'alinéa qui précède s'il démontre :  
+II.-Toutefois, le vendeur n'est pas tenu par toutes d’clarations publiques mentionnées à l'alinéa qui précède s'il démontre :  
   
 1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;  
  2° Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou  
@@ -1236,7 +1236,7 @@ Conformément aux dispositions de l’article L221-18 du code de la consommation
 
 L'Abonné peut faire usage de son droit de rétractation :
 
-\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bén��ficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
+\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
 
 \-          et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
 
