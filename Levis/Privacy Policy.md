@@ -23,24 +23,183 @@ Nous recueillons des données lorsque vous interagissez avec nous à différents
 
 COORDONNÉES :
 
+Il s’agit d’informations d’identification comme les noms, les adresses électroniques, les numéros de téléphone, les adresses de livraison/facturation/physiques, les identifiants en ligne que vous partagez dans un forum public (comme vos noms d’utilisateur sur les réseaux sociaux) ou les pseudonymes.  
+  
+
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous lorsque vous créez un compte, que vous adhérez à un programme de fidélité (le cas échéant), que vous vous inscrivez à des e-mails, que vous vous inscrivez ou participez à un événement, que vous commandez des produits en ligne ou que vous achetez des produits en magasin
+* Auprès de tiers, y compris nos franchisés ou d’autres personnes qui gèrent des sites ou des fournisseurs de produits ou de listes marketing (lorsque les lois applicables l’autorisent)
+* Par le biais de technologies (par exemple, lorsque vous vous adressez à l’intelligence artificielle (« IA ») qui alimente notre chatbot)
+
+**Pourquoi recueillons-nous ces informations :**
+
+* Pour vous contacter, par exemple pour vous envoyer des communications relationnelles, transactionnelles et commerciales et d’autres actions de marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)
+* Pour administrer des loteries, des enquêtes ou des concours
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les plates-formes de médias sociaux de tiers (y compris pour la publicité par le biais de plates-formes telles que Meta ou Amazon en utilisant des pixels ou des audiences personnalisées) (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)
+* Les prestataires de services marketing et publicitaires
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
 INFORMATIONS FINANCIÈRES :
 
+Il s’agit d’informations comme les quatre derniers chiffres de votre numéro de carte de crédit/débit, les données utilisées pour authentifier vos transactions et les informations relatives à l’utilisation de méthodes de paiement alternatives ou de plates-formes de paiement tierces pour effectuer votre transaction.  
+  
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous lorsque vous effectuez un achat
+* Auprès de tiers, si nécessaire, afin de contribuer au traitement sécurisé de la transaction que vous demandez
+
+**Pourquoi recueillons-nous ces informations :**  
+
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les processeurs de paiement
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
 AUTRES INFORMATIONS D’IDENTIFICATION :
+
+Il s’agit d’informations qui pourraient raisonnablement être utilisées pour vous identifier, soit en elles-mêmes, soit lorsqu’elles sont combinées à d’autres données comme des données démographiques générales ou spécifiques, une description physique telle que vos tailles de vêtements préférées, des informations que vous partagez dans un forum public ouvert, y compris les médias sociaux, ou d’autres informations que nous recueillons auprès de vous après avoir obtenu votre consentement préalable.  
+  
+
+**How we collect this information:**
+
+* Directement auprès de vous lorsque vous créez un compte en ligne ou que vous adhérez à notre programme de fidélité (le cas échéant), lorsque vous utilisez une application mobile proposée ou lorsque vous effectuez des achats en magasin
+* Lorsque vous répondez à une offre d’emploi et à partir de vos références et d’autres sources (voir notre [Politique de confidentialité à l’attention des candidats](https://www.levistrauss.com/candidate-privacy-notice/) pour plus d’informations).
+* Comme décrit dans un avis ou un consentement séparé, tel qu’une notification contextuelle pour une fonction spéciale de notre application mobile ou des conditions d’inscription pour un événement spécial
+* Auprès de tiers, y compris des plates-formes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires
+
+**Pourquoi recueillons-nous ces informations :**
+
+* Pour proposer et gérer des offres spéciales, des concours, des enquêtes et des loteries publicitaires
+* Pour vous envoyer des communications relationnelles, transactionnelles et commerciales, ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les prestataires de services marketing et publicitaires
+* Les prestataires de services à la clientèle
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
 
 INFORMATIONS ISSUES DE NOTRE RELATION COMMERCIALE :
 
 Cela inclut les informations que vous partagez sur notre site Web, dans nos applications, avec le Service client, les stylistes en magasin ou d’autres représentants, y compris les données d’achat et de retour, les réponses aux enquêtes, les services de personnalisation, les commentaires, les communications ou les informations que vous partagez dans un forum public comme les médias sociaux, les choix que vous faites concernant les communications que nous vous envoyons ou la façon dont nous utilisons vos données (_par ex_, pour accepter ou refuser), les informations relatives au compte ou au programme de fidélité, y compris les informations d’identification ou les informations que vous renseignez dans votre compte, les préférences en matière de taille, d’ajustement et de produits, les échanges avec notre agent conversationnel alimenté par l’IA, les magasins que vous visitez et les données induites associées comme les tendances et les préférences d’achat.  
   
 
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous
+* Auprès de tiers, y compris des plates-formes de médias sociaux, des partenaires commerciaux et des prestataires de services publicitaires
+* Par le biais de technologies (telles que l’IA qui alimente notre agent conversationnel)
+
+**Pourquoi recueillons-nous ces informations :**
+
+* Pour administrer, promouvoir et améliorer notre présence et notre expérience en ligne et en magasin
+* Pour nous aider à comprendre vos intérêts, à personnaliser nos interactions avec vous et à développer notre relation commerciale
+* Pour proposer et gérer des offres spéciales, des concours, des enquêtes et des loteries publicitaires
+* Pour vous envoyer des communications relationnelles, transactionnelles et commerciales, ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**  
+
+* Les prestataires de services marketing et publicitaires
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
 INFORMATIONS AUDIO, VISUELLES, SENSORIELLES ET BIOMÉTRIQUES :
+
+Il s’agit de données telles que des enregistrements audio, des films ou des images fixes, des caractéristiques physiques et comportementales ou des modèles. Dans certains endroits, les informations biométriques sont considérées comme des informations personnelles sensibles et font l’objet d’une protection supplémentaire.  
+  
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous si vous passez un appel téléphonique enregistré à notre numéro de Service client, si vous publiez des images ou des fichiers audio/vidéo et si vous nous identifiez ou identifiez nos marques, si vous choisissez d’interagir avec des fonctions facultatives sur nos plates-formes, comme la capture et l’envoi d’un selfie ou d’un scan corporel pour des évaluations d’ajustement numérique ou un essayage virtuel, ou si vous utilisez des fonctions à commande vocale.
+* Auprès des caméras de vidéosurveillance dans nos locaux
+* Comme décrit dans un avis ou un consentement séparé, tel qu’une notification contextuelle pour une fonction spéciale de notre application mobile ou des conditions d’inscription pour un événement spécial
+
+**Pourquoi recueillons-nous ces informations :**  
+
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessou
+s
+
+**Nous les partageons avec :**  
+
+Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
 
 INFORMATIONS EN LIGNE ET TECHNIQUES :
 
+Il s’agit notamment des données de navigation, des données relatives à la manière dont vous interagissez avec nos plates-formes et nos outils (y compris les publicités en ligne, les messages textuels et les e-mails) et des activités de réseau similaires, de votre adresse IP et des identifiants de votre appareil (par exemple, les identifiants publicitaires, le modèle de l’appareil, le système d’exploitation, la localisation de l’appareil, la plate-forme mobile, la durée de la session, l’identifiant du développeur et autres) ainsi que des reproductions et des enregistrements des interactions avec le site Web capturés pendant les sessions de navigation.
+
+**  
+Comment recueillons-nous ces informations :**
+
+* À partir de votre ordinateur ou de votre appareil lorsque vous interagissez avec nos plates-formes, par exemple, lorsque vous visitez un site Web Levi’s®, nos journaux de serveur enregistrent votre adresse IP et recueillent des informations sur la manière dont vous naviguez sur le site.
+* Par le biais de cookies, de balises Web, de pixels, de pixels invisibles et de technologies de suivi similaires (lorsque vous avez choisi de le faire, si la loi applicable l’exige, à moins que le recueil ne se fasse par le biais de cookies strictement nécessaires)
+* À partir des actions que vous entreprenez en réponse à des e-mails marketing, notamment si vous ouvrez un courriel, si vous vous désabonnez ou si vous achetez un produit dont la promotion est faite dans celui-ci
+* Auprès de tiers, y compris des partenaires de collaboration qui aident à développer de nouvelles solutions comme l’essai virtuel
+
+**Pourquoi recueillons-nous ces informations :**  
+
+* Pour rendre votre interaction avec nous plus pratique, par exemple en vous reconnaissant, vous et vos appareils, ou en nous permettant de conserver les sélections de votre panier d’achat lorsque vous naviguez ailleurs et revenez ensuite à la page de commande
+* Pour vous envoyer des communications relationnelles, transactionnelles et commerciales, ainsi que d’autres actions marketing et publicitaires, notamment par le biais de la publicité comportementale et du suivi inter-appareils. On parle de suivi inter-appareils lorsque les données sont utilisées pour déduire qu’un utilisateur d’un appareil, tel qu’un ordinateur, est la même personne qui utilise un autre appareil, tel qu’un téléphone mobile. Nous pouvons alors diffuser des publicités sur les navigateurs des deux appareils. Ces utilisations sont soumises aux choix que vous faites en matière d’acceptation ou de refus.
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les prestataires de services marketing et publicitaires
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
 DONNÉES DE GÉOLOCALISATION :
+
+Il s’agit notamment de données telles que la latitude et la longitude GPS (lorsque vous avez donné votre accord), par exemple en utilisant une application mobile pour laquelle vous avez accepté le partage de la localisation, ou en utilisant un service de cartographie tel que Google Maps pour trouver l’emplacement d’un magasin, l’emplacement approximatif (tel que votre code postal ou votre État/province/territoire) et, dans certains cas, les emplacements de magasins que vous avez visités.  
+  
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous
+* Par le biais de technologies, telles qu’une adresse IP
+* Comme décrit dans un avis ou un consentement séparé, tel qu’une notification contextuelle pour une fonction spéciale de notre application mobile ou des conditions d’inscription pour un événement spécial
+
+**Pourquoi recueillons-nous ces informations :**
+
+* Pour vous permettre de localiser les magasins à proximité
+* Pour vous envoyer des communications relationnelles, transactionnelles et commerciales, ainsi que d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications)
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les prestataires de services marketing et publicitaires
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**REMARQUE :** Le service Google Maps est régi par les règles de confidentialité de Google, disponibles à l’adresse [www.google.com/policies/privacy](https://policies.google.com/privacy).
 
 INFORMATIONS DÉDUITES ET DÉRIVÉES :
 
+Il s’agit notamment de profils basés sur des tendances d’achat, des modèles et préférences de transaction, des caractéristiques, des prédispositions, des comportements ou des attitudes.  
+  
+**Comment recueillons-nous ces informations :**
+
+* Directement auprès de vous
+* Par le biais de technologies, telles qu’une adresse IP
+* Pour créer des résumés, des profils et des segments à l’aide d’informations recueillies auprès de diverses sources qui sont décrites dans la présente Politique de confidentialité
+* Auprès de tiers, y compris des partenaires commerciaux et des prestataires de services publicitaires
+
+**Pourquoi recueillons-nous ces informations :**  
+
+* Pour vous envoyer des communications relationnelles, transactionnelles et commerciales, pour des offres spéciales et d’autres actions marketing et publicitaires (sous réserve des choix que vous pouvez faire pour recevoir ou non ces communications), y compris par le biais de publicités basées sur les centres d’intérêt et en utilisant le suivi inter-appareils
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
+**Nous les partageons avec :**
+
+* Les prestataires de services marketing et publicitaires
+* Plates-formes de médias sociaux
+* Voir la section « **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES** » ci-dessous
+
 INFORMATIONS RELATIVES AUX ENFANTS ET AUX MINEURS :
+
+Nous ne recueillons pas sciemment les Informations personnelles d’un utilisateur de moins de 13 ans sur nos Plates-formes. Ces offres sont destinées aux utilisateurs âgés de 13 ans ou plus. Si un utilisateur ou son parent ou tuteur légal pense que nous avons recueilli les Informations personnelles d’un mineur (moins de 18 ans), veuillez nous contacter à l’adresse suivante : [privacy@levi.com](mailto:privacy@levi.com) pour demander la suppression de ces données.
 
 **FINALITÉ COMMERCIALE ET PARTAGE POUR TOUS LES TYPES DE DONNÉES**  
   
@@ -108,11 +267,31 @@ COOKIES, SUIVI ET PUBLICITÉ
 
 À PROPOS DES COOKIES :
 
+Nous pouvons placer ou autoriser le placement de cookies, de balises Web et de technologies similaires sur nos Plates-formes afin de vous offrir la meilleure expérience, d’effectuer des analyses, d’analyser le trafic, de personnaliser le contenu, d’offrir un éventail de caractéristiques et de fonctionnalités et de proposer des publicités qui correspondent à vos intérêts (comme indiqué ci-dessus). Ces technologies comprennent Google Analytics et des prestataires similaires. Vous pouvez en savoir plus sur la manière dont Google utilise les informations collectées par le biais de ce service à l’adresse suivante : [www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/).
+
+  
+Les cookies et les balises Web sont des technologies qui permettent généralement de recueillir des informations de navigation. Un « cookie » est un fichier informatique qui fait office de carte d’identité pour votre ordinateur. Lorsque vous visitez un site, des cookies uniques sont placés sur votre navigateur. L’objectif du cookie est de distinguer votre navigateur, et les activités associées, de tous les autres navigateurs. Les « pixels invisibles » interagissent avec les cookies pour « lire » les informations qu’ils contiennent. Lorsque vous visitez un site, les balises Web reconnaissent les cookies spécifiques qui ont été placés sur votre navigateur. En reconnaissant votre navigateur, le propriétaire du site est en mesure de mieux vous servir. Bien que nous puissions reconnaître votre navigateur grâce aux cookies que nous plaçons, cela ne signifie pas que nous pouvons vous identifier par référence à votre nom, votre adresse électronique ou toute autre Information personnelle spécifiquement identifiable.
+
+  
+Nous et nos partenaires utilisons des cookies, des balises Web, des identificateurs d’appareils et d’autres technologies pour collecter des informations lorsque vous utilisez nos sites Web et notre application mobile, comme votre adresse IP, votre navigateur Web, des informations sur le réseau mobile, des informations sur la navigation et la conversion, afin de créer une expérience d’achat améliorée - par exemple, en nous permettant de conserver les sélections de votre panier lorsque vous naviguez ailleurs puis revenez à la page de commande, ou de sauvegarder un article pour plus tard lorsque vous hésitez encore à acheter. Les cookies nous permettent également de vous reconnaître en tant que titulaire d’un compte lorsque vous revenez sur nos sites. Nous considérons que ces types de cookies sont nécessaires au bon fonctionnement de notre activité. Notre utilisation des cookies change régulièrement en fonction de nos besoins commerciaux et de nos opérations.
+
+  
+La plupart des navigateurs acceptent automatiquement les cookies, mais vous pouvez les bloquer ou les supprimer à tout moment pour empêcher la collecte de vos informations de navigation à des fins de diffusion d’annonces basées sur les intérêts et de suivi du comportement des visiteurs. Sachez que le blocage ou la suppression des cookies peut également désactiver ou interférer avec les fonctions d’achat sur nos sites et d’autres sites que vous pourriez consulter.
+
 PUBLICITÉ COMPORTEMENTALE OU BASÉE SUR LES CENTRES D’INTÉRÊTS :
+
+Nous autorisons nos partenaires commerciaux de confiance et les sociétés de publicité tierces (y compris les serveurs publicitaires, les agences publicitaires, les prestataires de technologie ou les prestataires de contenu sponsorisé) à collecter vos informations de navigation et les identifiants numériques associés à votre navigateur ou à votre appareil afin de fournir des publicités en notre nom qui correspondent à vos centres d’intérêt. Ces publicités peuvent apparaître sur notre site Web et sur d’autres sites Web de tiers. Grâce aux technologies de suivi, les sociétés de technologie publicitaire collectent des données à partir d’un navigateur ou d’un appareil particulier sur les comportements de consultation Web d’un utilisateur au fil du temps, sur des sites Web non apparentés et, dans certains cas, combinent ces données avec des données collectées à partir d’autres navigateurs ou appareils associés au même utilisateur ou au même foyer, et utilisent ces données pour prédire les préférences de l’utilisateur et diffuser des publicités à cet utilisateur qui sont calculées pour cibler les préférences prédites de cet utilisateur sur les appareils. Si vous prenez des mesures pour bloquer les cookies publicitaires ou refuser la publicité basée sur vos centres d’intérêt, notez que cela ne signifie pas que vous ne recevrez plus de publicités de LS&Co, car ces publicités ne constituent qu’une forme parmi d'autres de publicité numérique.
 
 NE PAS SUIVRE :
 
+Nos systèmes ne reconnaissent pas les signaux « Ne pas suivre » des navigateurs, mais plusieurs des sociétés de publicité tierces qui utilisent des cookies sur nos sites Web pour fournir des publicités basées sur vos centres d’intérêt vous permettent de refuser ces pratiques.
+
 ACCEPTER/REFUSER/BLOQUER LES COOKIES :
+
+Vous pouvez bloquer ou refuser les cookies ou le recueil de données pour la publicité basée sur les intérêts en réglant les paramètres de votre navigateur. Consultez les instructions dans les informations techniques de votre navigateur. Si vous utilisez un appareil mobile, celui-ci peut également inclure une fonction (« Limiter le suivi des publicités » sur iOS ou « Désactiver la personnalisation des publicités » sur Android) qui vous permet de refuser la collecte de certaines informations par des applications mobiles à des fins de publicité comportementale. Si vous bloquez les cookies au niveau du navigateur ou si vous utilisez un ordinateur ou un navigateur différent pour accéder à nos Plates-formes, vous devrez revoir vos paramètres de cookies.
+
+  
+Le placement de cookies, pixels, gifs ou balises Web peut être soumis à des exigences supplémentaires par la loi en fonction de l’endroit où vous vous trouvez. Il peut s’agir de nous demander de partager des informations techniques spécifiques, de vous demander d’accepter leur utilisation ou de mettre en place des mécanismes spécifiques pour que vous puissiez refuser. Vous trouverez des informations supplémentaires spécifiques à votre situation géographique, le cas échéant, dans nos **NOTICES COMPLÉMENTAIRES**.
 
 LIENS ET FONCTIONNALITÉS DE TIERS
 ---------------------------------
