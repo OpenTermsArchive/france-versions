@@ -431,7 +431,7 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
-* Paiement e-carte cadeau dans les conditions de l'article 5.
+* Paiement par carte cadeaux Printemps dans les conditions précisées dans les CGU de la carte cadeaux Printemps disponibles ici
 
   
 
@@ -457,102 +457,22 @@ Une facture sous format électronique sera mise à disposition du Client sur le 
 
   
 
-Article 5 - La e-carte cadeau
------------------------------
-
-**5.1 ACHAT D'UNE E-CARTE CADEAU**
-
-Le Client peut acheter une ou plusieurs e-cartes cadeaux sur le Site, qui sera(ont) exclusivement utilisable(s) sur le Site [www.printemps.com](https://www.printemps.com/fr/fr/www.printemps.com). Les e-cartes cadeaux achetées sur le Site ne seront pas valables dans les magasins Printemps.
-
-  
-
-Les e-cartes cadeaux ne peuvent bénéficier d'aucun code promotionnel lors de leur achat. Le montant minimal d'une e-carte cadeau est de 10 euros et peut aller jusqu'à 1000 euros.
-
-  
-
-**Comment acheter une e-carte cadeau ?**
-
-1\. Rendez-vous sur [www.printemps.com/fr/fr/carte-cadeau](https://www.printemps.com/fr/fr/carte-cadeau)
-
-2\. Choisissez un modèle de carte cadeau
-
-3\. Sélectionnez le mode d'envoi. Vous avez deux possibilités :
-
-* Envoi par e-mail au destinataire de la carte cadeau
-* Envoi par e-mail à votre adresse électronique au format PDF à imprimer
-
-4\. Vous pouvez personnaliser votre e-carte cadeau en renseignant les champs « Saisir le montant de votre choix », « De la part de », « Pour » « Événement » et « Saisir votre message ».
-
-5\. Cliquez sur « Ajouter au panier »
-
-6\. Puis commandez
-
-  
-
-Lors de la création d'une e-carte cadeau, le Client devra saisir l'adresse e-mail du bénéficiaire (« Le Bénéficiaire ») de la e-carte cadeau. Cette adresse e-mail ne pourra être modifiée par la suite.
-
-  
-
-En cas d'erreur de saisie de l'adresse e-mail du ou des bénéficiaires d'une e-carte cadeau, le Client émetteur pourra demander l'annulation de sa commande. Le montant correspondant aux e-cartes cadeaux annulées lui sera alors intégralement remboursé selon le mode de règlement qu'il avait choisi lors de son achat. Aucune demande d'annulation ne pourra être acceptée si la e-carte cadeau a été utilisée par son bénéficiaire.
-
-  
-
-La Société n'encourt aucune responsabilité en cas d'erreur dans l'adresse e-mail du destinataire d'une e-carte cadeau. La e-carte cadeau est valable un an à compter de sa date d'achat. Elle ne peut être échangée contre des espèces.
-
-  
-
-A défaut d'utilisation de la e-carte cadeau dans un délai d'un an à compter de sa date d'achat, le montant correspondant sera considéré comme définitivement acquis à la Société.
-
-  
-
-**5.2 PAIEMENT PAR E-CARTE CADEAU**
-
-Le Bénéficiaire de la e-carte cadeau recevra sa carte cadeau sous forme d'un code par e-mail ou sur une carte cadeau imprimée (via le format PDF à imprimer).
-
-  
-
-Utiliser une e-carte cadeau sur [www.printemps.com](https://www.printemps.com/)
-
-  
-
-1\. Vous devez vous créer un compte et être connecté pour pouvoir utiliser votre e-carte cadeau.
-
-2\. Effectuez vos achats sur le Site [www.printemps.com](https://www.printemps.com/). Validez votre panier
-
-3\. Pour utiliser votre e-carte cadeau, entrez votre code puis validez sur la page de paiement.
-
-  
-
-La e-carte cadeau peut être utilisée sur le Site, en une seule fois ou plusieurs fois. Elle est valable 1 an.
-
-  
-
-Si le montant de la e-carte cadeau est supérieur à celui du panier, le montant restant reste disponible sur la carte e-cadeau qui vous sera proposé sur la page « mon paiement sécurisé » lors de votre prochaine commande et disponible sur la page « Ma e-carte cadeau » dans votre compte. Dans le cas contraire, vous pourrez compléter votre paiement avec un autre moyen de paiement ou une autre carte cadeau.
-
-  
-
-Si le Client retourne un article payé avec une e-carte cadeau alors le remboursement se fera sous la forme d'un bon d'achat qui sera valable 6 mois à partir de la date de sa création.
-
-  
-
-La carte cadeau et le bon d'achat sont deux moyens de paiement cumulables.
-
-Article 6 - Transfert des risques et de la propriété
+Article 5 - Transfert des risques et de la propriété
 ----------------------------------------------------
 
 La Société conserve la propriété des Produits jusqu'au règlement complet de la commande, c'est-à-dire à l'encaissement par la Société du prix intégral et des frais associés. Ces dispositions ne font pas obstacle au transfert au Client, à compter de leur réception, des risques de perte et de détérioration des Produits achetés ainsi que des dommages qu'ils pourraient occasionner.
 
-Article 7 - Propriété intellectuelle
+Article 6 - Propriété intellectuelle
 ------------------------------------
 
 Tous les textes, commentaires, photos, marques, illustrations et images reproduits sur le Site sont protégés tant au titre du droit d'auteur qu'au titre de la propriété intellectuelle. Ces éléments sont et demeurent la propriété exclusive de la Société ou du titulaire des droits de propriété intellectuelle concerné.
 
 Toute reproduction totale ou partielle du Site ou de l'un de ses éléments, sur quelque support que ce soit et pour quelque motif que ce soit, est strictement interdite.
 
-Article 8 - Droit de rétractation
+Article 7 - Droit de rétractation
 ---------------------------------
 
-**8.1 DÉLAI DE RÉTRACTATION**
+**7.1 DÉLAI DE RÉTRACTATION**
 
 Conformément à l'article L 221-18 du Code de la Consommation, le Client dispose d'un délai de quatorze (14) jours calendaires à compter de la date de réception de sa commande pour exercer sa faculté de rétractation, sans avoir à motiver sa décision.
 
@@ -566,7 +486,7 @@ Si le dernier jour tombe un samedi, un dimanche ou un jour férié, le délai es
 
   
 
-**8.2 EXERCICE DU DROIT DE RÉTRACTATION**
+**7.2 EXERCICE DU DROIT DE RÉTRACTATION**
 
 * Notification de la décision de rétractation :
 
@@ -598,10 +518,10 @@ Pour plus d'informations sur les frais et modalités de retour, consultez la pag
 
   
 
-Article 9 - Retour, échange et remboursement
+Article 8 - Retour, échange et remboursement
 --------------------------------------------
 
-**9.1 MODALITÉS DE RETOUR DES PRODUITS**
+**8.1 MODALITÉS DE RETOUR DES PRODUITS**
 
 Les retours doivent remplir les conditions ci-dessous pour être acceptés :
 
@@ -674,7 +594,7 @@ Les articles de beauté doivent être impérativement retournés dans leur embal
 
   
 
-**9.2 PROCÉDURE DE RETOUR**
+**8.2 PROCÉDURE DE RETOUR**
 
   
 
@@ -752,7 +672,7 @@ Si la taille souhaitée est disponible au même tarif, la Société recommande a
 
   
 
-**9.3 REMBOURSEMENT**
+**8.3 REMBOURSEMENT**
 
   
 
@@ -787,8 +707,8 @@ Si le Client a payé sa commande avec deux modes de paiement dont un bon d'achat
 
 En cas de réception d'un colis retour dont le contenu ne serait pas conforme à la demande de retour ou dont les articles ne respecteraient pas les conditions de retour mentionnées ci-dessus, la Société se réserve le droit d'exercer toutes actions de recouvrement correspondantes auprès du Client.
 
-Article 10 - Garanties
-----------------------
+Article 9 - Garanties
+---------------------
 
 Tous les Produits bénéficient de la garantie légale de conformité (articles L217-43 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes. Le Client est invité à ce titre à prendre contact avec la Société aux coordonnées mentionnées au sein de l’article 12.
 
@@ -796,7 +716,7 @@ Tous les Produits bénéficient de la garantie légale de conformité (articles 
 
   
 
-**10.1 GARANTIE LÉGALE DE CONFORMITÉ**
+**9.1 GARANTIE LÉGALE DE CONFORMITÉ**
 
   
 
@@ -982,7 +902,7 @@ Le délai de garantie est également suspendu lorsque le consommateur et le gara
 
   
 
-**10.2 GARANTIE CONTRE LES VICES CACHÉS**
+**9.2 GARANTIE CONTRE LES VICES CACHÉS**
 
 **Article 1641 du Code Civil :**
 
@@ -1011,14 +931,14 @@ La disponibilité ou la non-disponibilité des pièces détachées indispensable
 
   
 
-Article 11 - Politique de protection des données personnelles
+Article 10 - Politique de protection des données personnelles
 -------------------------------------------------------------
 
 La Société s'engage à être aussi ouverte et transparente que possible et à fournir au Client toutes les informations nécessaires sur la manière dont ses Données Personnelles (tel que ce terme est défini dans la Politique de Protection des Données) sont recueillies, utilisées et protégées lors de ses visites sur le Site.
 
 Pour plus d'information, le client est invité à prendre connaissance de notre [**Politique de Protection des Données**](https://www.printemps.com/fr/fr/protection-donnees-personnelles).
 
-Article 12 - Service client
+Article 11 - Service client
 ---------------------------
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
@@ -1030,7 +950,7 @@ En cas de difficulté survenant à l'occasion de la commande ou de la livraison 
 
 Le Client est informé qu’il peut s'inscrire sur une liste d'opposition au démarchage téléphonique sur le site bloctel.gouv.fr s’il ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique.
 
-Article 13 - Médiation
+Article 12 - Médiation
 ----------------------
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, la Société adhère au Service du Médiateur de la consommation de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - https://www.mediateurfevad.fr. 
@@ -1045,12 +965,12 @@ En conformité avec le règlement européen n°524/2013, le Client a également 
 
   
 
-Article 14 - Droit applicable et juridiction compétente
+Article 13 - Droit applicable et juridiction compétente
 -------------------------------------------------------
 
 Les présentes Conditions sont soumises au droit français. A défaut de règlement amiable, les litiges sont de la compétence exclusive des tribunaux français compétents, nonobstant pluralité de défendeurs et/ou appel en garantie, même pour les procédures d'urgence ou les procédures conservatoires en référé ou par requête.
 
-Article 15 - Force majeure
+Article 14 - Force majeure
 --------------------------
 
 L'exécution par PRINTEMPS de toute ou partie de ses obligations, notamment d’expédition, sera suspendue en cas de survenance d'un cas fortuit ou de force majeure qui en gênerait ou en retarderait l'exécution.
@@ -1061,7 +981,7 @@ PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force ma
 
   
 
-Article 16 – Classement des Produits
+Article 15 – Classement des Produits
 ------------------------------------
 
 Les offres de Produits sur le Site sont présentées par le biais d’une barre de recherche thématique fonctionnant grâce à des mots clefs. 
