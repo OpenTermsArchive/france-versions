@@ -438,7 +438,7 @@ Annexe : Frais d’Annulation et Frais d’Attente
 | --- | --- |
 |     | **Berline** |
 | À l’avance (plus de 2h avant le début de la Réservation) | Pas de frais d’annulation |
-| À l’avance (moins de 2h avant le début de la Réservation) | 15 TTC |
+| À l’avance (moins de 2h avant le début de la Réservation) | 15€ TTC |
 | Client absent ou annulation après l’heure de prise en charge | 100% du prix de la Réservation |
 
 #### **Récapitulatif des temps d’attente offerts**
