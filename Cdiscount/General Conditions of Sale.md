@@ -1236,7 +1236,7 @@ Conformément aux dispositions de l’article L221-18 du code de la consommation
 
 L'Abonné peut faire usage de son droit de rétractation :
 
-\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bén��ficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
+\-          sur un ou plusieurs produits commandé(s) simultanément à son Abonnement Cdiscount à volonté. Le cas échéant, l'Abonné peut alors continuer à bénéficier de son abonnement Cdiscount à volonté, conformément aux présentes ;
 
 \-          et/ou sur son abonnement Cdiscount à volonté, conformément aux présentes.
 
