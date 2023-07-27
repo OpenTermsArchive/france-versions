@@ -1,231 +1,417 @@
-CONDITIONS D'ACHAT SHEIN POUR LES PAYS EUROPÉENS
+CONDITIONS GÉNÉRALES DE VENTE
 
-**Date d'entrée en vigueur : 26 septembre 2022**
+**Version du 27 juillet 2023**
 
-Les présentes Conditions d'achat pour les pays européens ( **“ Conditions d'achat de l'UE ”** ) constituent la base contractuelle de tout achat ou autre transaction que vous effectuez sur ou par le biais de notre site web ou de nos applications, si vous êtes situé dans l'Union européenne (les **“ Pays de l'Union européenne ”** ). Les Conditions de l'UE se composent des Conditions générales (sections A. 1 - A. 14) et des Conditions particulières d'achat (sections B. 1 - B. 11).
+Bienvenue sur le marché en ligne de Shein France.
 
-SOMMAIRE
+Infinite Styles Services Co., Ltd (adresse : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland, numéro de la société : 732881) exploite le site web [https://fr.shein.com/](https://fr.shein.com/) et/ou sur l'application mobile correspondante (la **"Marketplace"** ) ( **"Shein"** ou **"l'Opérateur"** ).
 
-* [**A. 1. CHAMP D'APPLICATION.**](javascript:;)
-* [**A. 2. DÉFINITIONS.**](javascript:;)
-* [**A. 3. CONDITIONS D'ÂGE ET ACCEPTATION.**](javascript:;)
-* [**A. 4. MISES À JOUR.**](javascript:;)
-* [**A. 5. DES ÉVÉNEMENTS INDÉPENDANTS DE NOTRE VOLONTÉ.**](javascript:;)
-* [**A. 6. LIMITATION DE LA RESPONSABILITÉ.**](javascript:;)
-* [**A. 7. AFFECTATION.**](javascript:;)
-* [**A. 8. INTÉGRALITÉ DE L'ACCORD ; AUCUNE RENONCIATION.**](javascript:;)
-* [**A. 9. INDEMNISATION.**](javascript:;)
-* [**A. 10. LA LÉGISLATION ET LA JURIDICTION APPLICABLES.**](javascript:;)
-* [**A. 11. PLATE-FORME DE RÉSOLUTION DES LITIGES EN LIGNE.**](javascript:;)
-* [**A. 12. VIOLATION DU DROIT D'AUTEUR.**](javascript:;)
-* [**A. 13. TRANSFERTS D'ENTREPRISES.**](javascript:;)
-* [**A. 14. CONTACTEZ-NOUS.**](javascript:;)
-* [**B. 1. PRIX ET PAIEMENT.**](javascript:;)
-* [**B. 2. PROCESSUS DE COMMANDE.**](javascript:;)
-* [**B. 3 ERREURS.**](javascript:;)
-* [**B. 4. DOUANES.**](javascript:;)
-* [**B. 5. COULEURS.**](javascript:;)
-* [**B. 6. EMBALLAGE.**](javascript:;)
-* [**B. 7. EXPÉDITION ET LIVRAISON.**](javascript:;)
-* [**B. 8. TITRE ET RISQUE DE PERTE.**](javascript:;)
-* [**B. 9. GARANTIE ET RETOUR DES PRODUITS.**](javascript:;)
-* [**B. 10. DROIT DE RÉTRACTATION.**](javascript:;)
+Votre utilisation de la Marketplace et des services de facilitation de la Marketplace fournis par l'Opérateur ( **"Services"** ) est régie par nos [conditions générales d'utilisation](javascript:;) . Veuillez-vous assurer que vous les avez lues et acceptées avant d'utiliser ou de continuer à utiliser la Marketplace.
 
-A. 1. CHAMP D'APPLICATION.
+Shein, en tant qu'Opérateur de la Marketplace, fournit ses Services en tant qu'intermédiaire et ne participe donc pas aux transactions effectuées sur la Marketplace. Tous les produits disponibles à la vente ( **" Produits "** ) sur la Marketplace sont vendus par le Vendeur indiqué sur la page du Produit concerné.
 
-Ces conditions d'achat de l'UE s'appliquent à toute transaction (y compris les achats) que vous effectuez sur ou à travers le site web situé à eur.SHEIN.com (le **" Site "** , qui inclut les versions locales du Site, comme fr.shein.com ou de.shein.com), ou via les applications mobiles SHEIN (les **" Apps "** ).
+Les présentes conditions générales de vente ( **"CGV"** ) régissent la relation contractuelle et les conditions de vente entre :
 
-A. 2. DEFINITIONS.
+(A) le Vendeur du Produit que vous achetez, tel qu'il figure sur la page d'information du Produit avant que vous ne confirmiez votre achat (le **"Vendeur"** ) et
 
-Les termes **"Société"** , **"nous"** , **"notre"** ou **"nos"** seront utilisés pour décrire votre partenaire contractuel qui sera le vendeur respectif de votre produit, qui varie en fonction de votre propre emplacement : Si vous vous trouvez dans les pays de l'Union européenne, le vendeur et votre partenaire contractuel est Infinite Styles Ecommerce Co., Ltd, G01 & 101, T/A Grafter Offices, 55 Percy Place, Dublin, 4 D04 E1W7 Ireland, [legal@shein.com](mailto:legal@shein.com) .
+(B) vous (ci-après **"Vous"** ou le **"Client"** )
 
-Lorsque vous achetez un produit ou plusieurs produits par l'intermédiaire de notre site ou de nos applications, nous parlons d **“Achats”** .
+pour les ventes effectuées par l'intermédiaire de la Marché en ligne, dans France (ci-après, le **"Territoire"** ).
 
-**“Accord”** désigne le contrat d'achat conclu entre vous et la Société sur la base des présentes conditions d'achat européennes.
+Veuillez noter que:
 
-**"Pays européen”** ou **“Pays européens"** désigne chacun et tous les États membres de l'Union européenne.
+* Tous les Vendeurs sur la Marketplace agissent en qualité de vendeurs professionnels.
+* Dans certains cas, des sociétés du groupe SHEIN peuvent agir en tant que Vendeurs - et en tant que tels seront liés par ces CGV - cependant, la société Infinite Styles Services Co. Limited est l'Opérateur et ne fait pas partie de la relation contractuelle entre Vous et les Vendeurs.
 
-**"Force Majeure"** désigne les événements qui sont hors de notre contrôle raisonnable.
+Si Vous souhaitez passer une commande vers un autre pays Européen Vous serez redirigé vers le site Shein approprié et vos achats via ce site local seront soumis à ses conditions générales de vente et d’utilisation.
 
-A. 3. CONDITIONS D'ÂGE ET ACCEPTATION.
+Pour pouvoir effectuer une commande sur le Site, le Client déclare être âgé d’au moins 18 ans. Il est précisé que les Produits sont destinés à une utilisation personnelle du Client, sans aucun rapport direct avec son activité professionnelle. Le Client s’engage à ne pas procéder à des achats de Produits en vue de les revendre.
 
-(1) Pour faire des achats chez nous, vous devez être âgé d'au moins 16 ans.
+Avant d'effectuer un achat, le Client sera invité à lire attentivement les présentes CGV, à les [imprimer](https://shein.ltwebstatic.com/advertise/shein/fr/2023-07-27-FR-TC.pdf) ou à les sauvegarder électroniquement et à les accepter. Le fait pour un Client de passer une commande implique son acceptation expresse et sans réserve tant des présentes Conditions Générales de Vente que des Conditions Générales d'Utilisation applicables à l'utilisation de la Marketplace (ci-après dénommées conjointement **" T&Cs "** ), sauf dans la mesure où cela serait contraire à la loi. Les CGV peuvent être modifiées à tout moment par SHEIN. En tout état de cause, les CGV applicables sont celles en vigueur au moment de la passation de la commande par le Client. . Il incombe au Client de vérifier les CGV en cas de modification à chaque fois qu'il utilise la Marketplace.
 
-(2) En achetant des biens via notre Site ou nos Apps, vous comprenez, reconnaissez et acceptez expressément d'être lié par les Conditions d'achat de l'UE. Vous n'êtes autorisé à effectuer un achat auprès de nous que si vous acceptez de vous conformer à toutes les lois applicables et aux présentes Conditions d'achat de l'UE. En outre, vous pouvez lire notre [Politique de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) à tout moment pour plus d'informations sur la façon dont la Société collecte, stocke et protège vos données personnelles lorsque vous effectuez un achat.
+Le Client comprend et accepte que les conditions suivantes de la Marketplace font partie intégrale des présentes :
 
-A. 4. MISES À JOUR.
+\- [Politique concernant les coupons](https://fr.shein.com/Coupon-Policy-a-1302.html)
 
-(1) Sous réserve des conditions de la loi applicable, nous nous réservons le droit de modifier les Conditions d'achat européennes, y compris la Politique de confidentialité.
+\- [Politique concernant les points bonus](https://fr.shein.com/bonus-point-program-a-371.html)
 
-(2) Nonobstant ce qui précède, votre contrat d'achat sera régi par les Conditions d'achat de l'UE en vigueur au moment où vous passez votre commande comme décrit dans l'Ensemble B.
+\- [Politique concernant la livraison](https://fr.shein.com/Shipping-Info-a-280.html)
 
-A. 5. DES ÉVÉNEMENTS INDÉPENDANTS DE NOTRE VOLONTÉ.
+\- [Politique concernant les retours](https://fr.shein.com/Return-Policy-a-281.html)
 
-Nous ne serons pas responsables du non-respect ou du retard dans le respect de l'une des obligations que nous assumons en vertu des Conditions d'achat de l'UE ou d'autres contrats lorsqu'il est causé par des événements qui échappent à notre contrôle raisonnable ( **"Force Majeure"** ). La force majeure comprend tout acte, événement, défaut d'exercice, omission ou accident qui échappe à notre contrôle raisonnable, y compris, entre autres, les éléments suivants :
+\- [Politique concernant les avis clients](https://fr.shein.com/Review-Guidance-a-478.html)
 
-* Grève, lock-out ou autres formes de protestation.
-* Troubles civils, révolte, invasion, attaque ou menace terroriste, guerre (déclarée ou non) ou menace ou préparation de guerre.
-* Incendie, explosion, tempête, inondation, tremblement de terre, effondrement, épidémie ou toute autre catastrophe naturelle.
-* Incapacité d'utiliser les trains, les navires, les avions, les transports motorisés ou tout autre moyen de transport, public ou privé.
-* Incapacité d'utiliser les systèmes de télécommunication publics ou privés.
-* Actes, décrets, lois, règlements ou restrictions de tout gouvernement ou autorité publique.
-* Grève, défaillance ou accident dans le transport maritime ou fluvial, le transport postal ou tout autre type de transport.
+\- Politique concernant le classement des offres
 
-Il est entendu que nos obligations découlant des conditions d'achat de l'UE ou d'autres contrats sont suspendues pendant la période où la force majeure reste en vigueur et nous bénéficierons d'une prolongation du délai d'exécution de ces obligations d'une durée égale à celle de la situation de force majeure. Nous mettrons en œuvre tous les moyens raisonnables pour mettre fin à la situation de Force Majeure ou pour trouver une solution nous permettant de remplir nos obligations en vertu des Conditions Générales d'Achat ou d'autres contrats malgré la situation de Force Majeure.
+LE FAIT DE PASSER COMMANDE IMPLIQUE L'ACCEPTATION EXPRESSE DES PRÉSENTES CONDITIONS GÉNÉRALES DE VENTE. EN L'ABSENCE D'UNE TELLE ACCEPTATION, LE CLIENT NE DOIT PAS PASSER DE COMMANDE.
 
-A. 6. LIMITATION DE LA RESPONSABILITÉ.
+CONTENU
 
-(1) Vos demandes de dommages-intérêts sont exclues, à l'exception des demandes de dommages-intérêts résultant d'une atteinte à la vie, au corps, à la santé ou de la violation d'obligations contractuelles essentielles (obligations cardinales) et à l'exception de la responsabilité pour d'autres dommages fondés sur une violation intentionnelle ou par négligence grave des obligations par la société, ses représentants légaux, ses employés ou ses auxiliaires d'exécution. Les obligations contractuelles matérielles sont celles dont l'exécution est nécessaire pour atteindre le but du contrat.
+* [**1\. FONCTIONNEMENT DE LA MARKETPLACE**](javascript:;)
+* [**2\. CARACTÉRISTIQUES DES PRODUITS**](javascript:;)
+* [**3\. PRIX DES PRODUITS ET FRAIS**](javascript:;)
+* [**4\. COMMENT PASSER UNE COMMANDE**](javascript:;)
+* [**5\. LIVRAISON**](javascript:;)
+* [**6\. VÉRIFICATION DE LA COMMANDE À SON ARRIVÉE**](javascript:;)
+* [**7\. GARANTIE LÉGALE DE CONFORMITÉ**](javascript:;)
+* [**8\. DROIT DE RÉTRACTATION**](javascript:;)
+* [**9\. EXTENSION DU DÉLAI DE RÉTRACTATION**](javascript:;)
+* [**10\. RESPONSABILITÉ**](javascript:;)
+* [**11\. DONNÉES PERSONNELLES**](javascript:;)
+* [**12\. CONTACT**](javascript:;)
+* [**13\. RÈGLEMENT DES LITIGES**](javascript:;)
+* [**14\. DROIT APPLICABLE ET JURIDICTION**](javascript:;)
 
-(2) En cas de violation d'obligations contractuelles matérielles, la société n'est responsable que des dommages prévisibles et typiques du type de contrat si ces dommages ont été causés par simple négligence, à moins que les demandes de dommages et intérêts ne soient fondées sur une atteinte à la vie, au corps ou à la santé.
+1\. FONCTIONNEMENT DU MARCHÉ
 
-(3) Les limitations de responsabilité s'appliquent également en faveur des représentants légaux, des employés et des auxiliaires d'exécution de la société si des réclamations sont faites directement contre eux.
+1.1 L'Opérateur n'est propriétaire d'aucun des Produits figurant sur la Marketplace. Tous ces Produits sont répertoriés, achetés et vendus directement par le(s) Vendeur(s) concerné(s), comme indiqué sur la page du Produit et sur la page récapitulative avant que le Client ne confirme sa commande.
 
-(4) Les dispositions légales impératives applicables, en particulier les dispositions de la directive européenne 85/374/CEE relative à la responsabilité du fait des produits défectueux, ne sont pas affectées.
+1.2 L'Opérateur n'est donc pas partie à l'achat ou à la vente des Produits et, par conséquent, n'est pas partie au contrat d'achat des Produits qui est conclu directement entre le Client et le Vendeur concerné, comme indiqué dans les présentes CGV.
 
-A. 7. AFFECTATION.
+1.3 Bien que l'Opérateur puisse faciliter l'achat de Produits par le biais des Services, qu'il effectue des contrôles de diligence raisonnable sur les Vendeurs et qu'il supprime rapidement les Produits illégaux dès qu'il en a connaissance conformément à la loi applicable, l'Opérateur n'a aucun contrôle et ne garantit pas l'existence, la qualité, la date, l'état, la sécurité ou la légalité des Produits mis en vente par les Vendeurs ; la véracité ou l'exactitude des listes de Produits vendus par les Vendeurs ; l'intégrité, la responsabilité ou toute autre action des Vendeurs ; la capacité des Vendeurs à vendre des Produits ; ou le fait qu'un Vendeur conclura une transaction. L'Opérateur n'est pas un commissaire-priseur, un Vendeur, un revendeur ou un transporteur des Produits mis en vente par les Vendeurs.
 
-Vous ne pouvez pas céder ou transférer le Contrat (ou l'un de vos droits ou obligations en vertu du Contrat) sans notre consentement écrit préalable. Toute tentative de cession ou de transfert non conforme à ce qui précède sera nulle. Nous pouvons librement céder ou transférer le Contrat. Le Contrat s'applique au profit des parties et de leurs représentants légaux, successeurs et cessionnaires respectifs et les lie.
+2\. CARACTÉRISTIQUES DES PRODUITS
 
-A. 8. INTÉGRALITÉ DE L'ACCORD ; AUCUNE RENONCIATION.
+2.1 Dans la mesure où la loi le permet, le Client déclare avoir eu connaissance des caractéristiques essentielles des Produits qui figurent sur le Marketplace. Ces caractéristiques comprennent les mentions d'information présentées sur le Site.
 
-(1) Les présentes Conditions d'achat de l'UE, ainsi que les avis juridiques publiés sur le Site ou les Apps, constituent l'intégralité et le seul accord entre vous et nous concernant l'achat, et remplacent tous les termes, accords, discussions et écrits antérieurs concernant le sujet.
+2.2 Les photographies, qui ne sont pas contractuelles, ont vocation à éclairer au mieux le Client. Ce dernier reconnait toutefois qu'il peut exister, du fait de la qualité couleur des photographies, des différences sensibles entre la présentation du Produit qui est faite sur la Marketplace et le Produit livré notamment, de la calibration du moniteur utilisé. Une fois que le Produit est reçu par le Client et qu'il n'est pas satisfait du Produit, le Client peut procéder au retour du Produit conformément à la [politique concernant le retour](https://fr.shein.com/Return-Policy-a-281.html) .
 
-(2) Toutes les conditions que vous incluez dans tout bon de commande, confirmation de commande ou autre document sont expressément exclues.
+**2.3 Risque et titre de propriété.** Sous réserve de l’article 6.2 ci-dessous et du Code de la Consommation, les Produits achetés sont aux risques et périls du Client à compter de la livraison. Le titre de propriété des Produits achetés est transféré du Vendeur au Client à la livraison à l’adresse de livraison fournie par le Client ou lorsque le Vendeur reçoit le paiement intégral de toutes les sommes dues au titre de la commande, y compris les frais de livraison, la date la plus tardive étant retenue.
 
-(3) Si une disposition des conditions d'achat de l'UE est jugée inapplicable, cette disposition n'affectera pas la validité des autres dispositions des conditions d'achat de l'UE, qui resteront pleinement en vigueur.
+3\. PRIX ET REDEVANCES
 
-(4) Aucune renonciation à un quelconque terme des Conditions d'achat européennes ne sera considérée comme une renonciation supplémentaire ou continue à ce terme ou à tout autre terme. Le fait que nous ne fassions pas valoir un droit ou une disposition en vertu des Conditions d'achat européennes ne constitue pas une renonciation à ce droit ou à cette disposition.
+3.1 Prix des Produits
 
-A. 9. INDEMNISATION.
+(1) Le prix des Produits est celui qui est affiché sur la Marketplace, à l'exclusion des frais de livraison et des frais supplémentaires qui s’ajouteront au montant total à payer (le **"Prix"** ). Ce Prix s’entend du prix net toutes taxes comprises et est susceptible d’être modifié à tout moment avant que le Client ne passe une commande.
 
-Vous acceptez de libérer, d'indemniser et de défendre la Société et ses filiales, sociétés affiliées, sociétés apparentées, fournisseurs, concédants de licence et partenaires, ainsi que les dirigeants, administrateurs, employés, agents et représentants de chacun d'entre eux, de toutes les réclamations et coûts de tiers (y compris les frais d'avocat raisonnables) découlant de ou liés à votre violation des présentes Conditions d'achat de l'UE. Nous vous informerons rapidement de toute réclamation de ce type et nous vous fournirons (à vos frais) une assistance raisonnable pour la défense de la réclamation. Nous nous réservons le droit, à nos propres frais, d'assumer la défense exclusive de toute affaire autrement soumise à votre indemnisation. Dans ce cas, et si nécessaire, vous nous permettrez de participer à la défense et ne réglerez pas une telle réclamation sans notre consentement écrit préalable, et vous n'aurez aucune autre obligation de nous défendre dans cette affaire.
+(2) En passant commande, dans la mesure où la loi le permet, le Client déclare avoir pris connaissance du prix des Produits sur la Marketplace, ainsi que des frais de livraison et des frais supplémentaires éventuels indiqués dans le récapitulatif de la commande avant que le Client ne confirme sa commande. La durée de validité des offres et du Prix des Produits est fixée par leur Vendeur respectif qui est libre de les modifier à tout moment. Par conséquent, seul le prix des Produits indiqué au moment de l'achat sur la Marketplace est applicable.
 
-A. 10. LA LÉGISLATION ET LA JURIDICTION APPLICABLES.
+(3) si le prix d'un Produit est réduit ou fait l'objet de remises de temps à autre, cela sera clairement indiqué sur la Marketplace.
 
-(1) Les présentes conditions d'achat de l'UE sont régies et interprétées conformément aux lois de l'Irlande, et l'application de la Convention des Nations unies sur les contrats de vente internationale de marchandises est expressément exclue. Si vous êtes un consommateur et que vous avez votre résidence habituelle dans un autre pays européen, vous bénéficiez en outre de la protection que vous accordent les dispositions obligatoires de la loi de votre pays de résidence.
+3.2 Frais de livraison
 
-(2) Nous acceptons tous deux de nous soumettre à la juridiction non exclusive des tribunaux irlandais, ce qui signifie que vous pouvez introduire une plainte pour faire valoir vos droits de protection des consommateurs en rapport avec les présentes conditions d'achat européennes en Irlande ou dans le pays de l'UE dans lequel vous résidez.
+(1) Le montant des frais de livraison dépend du montant de la commande et du type d'Option de livraison sélectionnés par le Client au moment où il sélectionne un Produit. Les options de livraison sont les suivantes (a) la livraison express au sein de l'Union européenne, appelée "livraison express" ou **"quickship"** ou (b) la livraison internationale.
 
-A. 11. PLATE-FORME DE RÉSOLUTION DES LITIGES EN LIGNE.
+(2) Il est précisé que pour certains Produits, le choix de l'Option de livraison n'est pas disponible.
 
-La Commission européenne prévoit une plate-forme de résolution des litiges en ligne, à laquelle vous pouvez accéder ici : [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr) . Nous ne sommes ni obligés ni disposés à participer à une procédure de règlement des litiges devant une commission d'arbitrage des consommateurs.
+3.3 Frais supplémentaires
 
-A. 12. VIOLATION DES DROITS D'AUTEUR.
+Pour les commandes avec livraison internationale supérieures dépassant certains montants, des frais de traitement seront appliqués. Le montant exact de ces frais de traitement variera en fonction de la valeur totale de la commande. Les frais de traitement applicables à chaque commande seront clairement affichés avant que la commande ne soit passée (et seront inclus dans le montant du "Prix" affiché sur la page récapitulative de la commande).
 
-Comme nous demandons aux autres de respecter nos droits de propriété intellectuelle, nous respectons les droits de propriété intellectuelle des autres. Si vous pensez que le matériel situé sur ou lié à la Société viole vos droits d'auteur, nous vous encourageons à envoyer un courriel à [copyright@shein.com](mailto:copyright@shein.com) .
+3.4 Généralités
 
-A. 13. TRANSFERTS D'ENTREPRISES.
+(1) En tout état de cause, le montant des frais de livraison et des frais supplémentaires sera indiqué au Client avant la "Validation" de la commande.
 
-Si la Société ou la quasi-totalité de ses actifs étaient acquis, ou dans le cas improbable où la Société ou ses affiliés feraient faillite, les informations sur les utilisateurs et les relations contractuelles en cours seraient des actifs transférés ou acquis par un tiers. Vous reconnaissez que de tels transferts peuvent se produire, et que tout acquéreur de la société ou de ses actifs substantiels peut continuer (i) à utiliser vos informations personnelles comme indiqué dans l'accord et notre politique de confidentialité, et (ii) à communiquer avec vous dans la mesure où la société était autorisée à le faire. Pour plus d'informations, veuillez consulter notre [Politique de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) .
+(2) Le Vendeur se réserve le droit de ne pas facturer les frais de livraison en fonction du montant de la commande.
 
-A. 14. CONTACTEZ-NOUS.
+4\. COMMENT PASSER UNE COMMANDE
 
-Vos questions et commentaires concernant nos pratiques en matière de confidentialité ou les présentes conditions d'achat de l'UE sont les bienvenus. Vous pouvez nous contacter à tout moment par courrier électronique à l'adresse [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) ou par le biais de notre [plate-forme de service à la clientèle](https://fr.shein.com/robot) .
+4.1 Enregistrement et identification sur le marché en ligne
 
-B. 1. PRIX ET PAIEMENT.
+Afin de passer une commande ou accéder à certaines fonctionnalités ou Services disponibles sur la Marketplace, le Client doit obligatoirement créer un compte utilisateur via le formulaire d'inscription accessible en page d'accueil, en fournissant une adresse Internet valide, ses coordonnées personnelles ainsi qu’un mot de passe qu'il aura défini ( **" Compte Utilisateur "** ). Pour en savoir plus sur l'inscription sur la Marketplace, veuillez consulter les [GCU](javascript:;) .
 
-(1) Tous les prix incluent la TVA applicable et toute autre taxe (le cas échéant). Tous les prix s'entendent hors frais de livraison. En fonction du produit que vous avez sélectionné sur notre Site et notre App, le produit peut être expédié à partir d'un emplacement en Europe ou à l'International (les Malls, tels que définis ci-dessous). Les frais de livraison peuvent varier si vous achetez des produits dans différents Malls. Les frais de livraison sont toujours accessibles via le lien "Infos sur la livraison" sur le Site ou les Apps. Ils sont également spécifiés individuellement pour votre commande au cours du processus de paiement. Le coût total de la commande est constitué du prix des produits commandés et des frais de livraison. Pour plus de clarté, le coût total d'une commande comportant plusieurs articles peut également inclure des frais de manutention.
+4.2. Passation de commandes
 
-(2) Les prix peuvent changer à tout moment, mais les changements n'affecteront pas les commandes pour lesquelles nous avons confirmé, comme décrit dans la section [B. 2. PROCESSUS DE COMMANDE](javascript:;) ci-dessous.
+(1) La sélection des Produits s’opère sur la Marketplace une fois le Client connecté à son compte utilisateur. Les Produits sélectionnés, en vue de leur achat, sont ajoutés au panier ( **"Panier"** ) en cliquant sur "Ajouter au panier". Le Client est alors invité à suivre les étapes du processus d'achat, en indiquant ou en vérifiant les informations demandées à chaque étape. En outre, tout au long du processus d'achat, et avant que le paiement ne soit effectué, le Client peut modifier le détail de sa commande.
 
-B. 2 PROCESSUS DE COMMANDE.
+(2) Une fois les Produits sélectionnés, il sera demandé au Client de vérifier son panier et de le valider en cliquant sur " Passer à la caisse ". Le Client est invité à saisir une adresse de livraison, un mode de livraison ainsi qu’un mode de paiement.
 
-(1) Notre affichage des produits via le Site ou l'App constitue une offre sans engagement. Une fois que vous avez sélectionné un article que vous souhaitez acheter, celui-ci sera ajouté à votre panier ( **" Panier "** ). Pour traiter la commande et effectuer le paiement, vous devez suivre les étapes du processus d'achat, en indiquant ou en vérifiant les informations demandées à chaque étape. En outre, tout au long du processus d'achat, avant le paiement, vous pouvez modifier les détails de votre commande, et il peut vous être demandé de vous connecter à votre compte ou de vous inscrire auprès de nous, de saisir une adresse de livraison, de sélectionner un mode de paiement et une option d'expédition. Une description détaillée du processus d'achat vous est fournie à la page ["Comment commander"](https://fr.shein.com/How-to-order-a-276.html) . Si votre commande déclenche une alerte de fraude dans notre système de sécurité, un courriel de vérification peut être envoyé à votre adresse électronique.
+(3) Différents moyens de paiement sont proposés, lesquels peuvent varier en fonction de la région associée à la Marketplace (Visa, Mastercard, JCB, Diners' Club, Paypal, Klarna, Afterpay, Discover, Diners Club, banque en ligne, etc.) Les avoirs du Porte-monnaie, tels que prévus dans les CGU, pourront également être utilisés.
 
-(2) Vous pouvez utiliser les méthodes de paiement spécifiées sur le site local, qui peuvent inclure Visa, Mastercard, JCB, Diners' Club, Paypal, Klarna, Afterpay, Discover, Diners Club et la banque en ligne, etc. Selon la méthode choisie, vous pouvez entrer des détails supplémentaires et être dirigé vers le site web du fournisseur de paiement afin d'être identifié comme utilisateur autorisé avant de pouvoir passer votre commande. Vous pouvez également utiliser vos avoirs Wallet comme expliqué dans nos conditions d'utilisation. Lorsque vous cliquez sur "Autoriser le paiement", vous confirmez que vous êtes l'utilisateur autorisé du mode de paiement et que, le cas échéant, la carte de crédit est la vôtre. Si le prestataire de paiement, par exemple l'émetteur de la carte de crédit, n'autorise pas le paiement, nous ne serons pas responsables de tout retard ou défaut de livraison et nous ne pourrons pas conclure de contrat avec vous.
+(4) Le Client est ensuite invité à finaliser son achat en :
 
-(3) Une fois que vous avez terminé le processus de paiement, vous pouvez passer une commande en cliquant sur le bouton "Acheter maintenant", en nous soumettant une offre d'achat pour le ou les produits figurant dans votre panier (votre **"commande"** ). Si vous êtes un utilisateur enregistré, un enregistrement de toutes les commandes que vous avez passées est disponible dans la zone "Mon compte" du site ou des applications. Pour minimiser le risque d'accès non autorisé, les données de votre carte de crédit seront cryptées. Dès que nous recevons votre Commande, nous demandons une pré-autorisation sur votre carte afin de nous assurer que les fonds sont suffisants pour effectuer la transaction.
+a) Tout d'abord, fournissant ses données de carte bancaire et en appuyant sur le bouton "Validation" afin de finaliser sa commande. Le nombre d'informations à renseigner ou les vérifications complémentaires demandées dépendront du moyen de paiement choisi.
 
-(4) Nous traiterons alors votre Commande et vous enverrons un message à l'adresse électronique que vous avez fournie lors de la commande, confirmant la réception de votre Commande et contenant les détails de votre Commande ( **“Confirmation de la Commande”** ). La Confirmation de la commande et/ou le débit de votre carte de crédit ou autre mode de paiement constitue la confirmation que nous avons reçu votre Commande.
+b) Ensuite, le Client valide définitivement la commande en cliquant sur le bouton "Payer" ou "Procéder au paiement" qui apparaîtra une fois que les informations relatives au paiement auront été remplies.
 
-(5) L'acceptation de votre commande et la conclusion du contrat entre nous auront lieu lorsque nous vous enverrons le(s) produit(s). Votre carte sera débitée au moment de la commande, sauf si vous avez sélectionné un service de paiement ultérieur (qui n'est disponible que dans certains pays), auquel cas votre carte sera débitée au moment de l'expédition. Si vous choisissez la banque en ligne, la passation de la commande contient le mandat de débit pour débiter votre compte.
+(5) Le Client confirme qu’il est le seul propriétaire et utilisateur autorisé du moyen de paiement choisi. Une fois le paiement effectué, l'Opérateur enverra une confirmation et un récapitulatif de la commande au Client par email à l'adresse email associée au Compte Utilisateur du Client. Le contrat est formé au moment de l'envoi de l'email de confirmation au Client comme preuve de l'acceptation de la commande par le Vendeur, ou au moment de la livraison de la commande, si la livraison est effectuée avant la réception de l'email de confirmation par le Client.
 
-B. 3. ERREURS.
+(6) Pour minimiser le risque d'accès non autorisé, les données relatives aux cartes de crédit sont cryptées.
 
-(1) Vous pourrez corriger les erreurs liées aux données personnelles fournies au cours du processus d'achat en nous contactant, ainsi qu'en exerçant le droit de rectification envisagé dans notre [Politique de confidentialité](https://fr.shein.com/Privacy-Security-Policy-a-282.html) à travers le Site et les Apps. Le Site et les Apps affichent des cases de confirmation dans diverses sections du processus d'achat qui ne permettent pas de poursuivre la commande si les informations de ces sections n'ont pas été correctement fournies. De même, le Site et les Apps offrent les détails de tous les articles que vous avez ajoutés à votre panier pendant le processus d'achat, de sorte qu'avant d'effectuer le paiement, vous pouvez modifier les détails de votre commande.
+(7) Si la commande déclenche une alerte à la fraude dans le système de sécurité de l'Opérateur, un courriel de vérification peut être envoyé à l'adresse électronique associée au compte.
 
-(2) Si vous détectez une erreur dans votre commande après l'achèvement du processus de paiement, vous devez immédiatement contacter notre service clientèle pour corriger l'erreur.
+(8) Dans le cas où le débit du Prix total de la commande serait impossible, la vente sera immédiatement résiliée de plein droit et la commande serait annulée.
 
-(3) Bien que nous nous efforcions de fournir des informations précises sur les produits et les prix, des erreurs de prix ou des erreurs typographiques peuvent se produire. Nous ne pouvons confirmer le prix d'un article qu'après votre commande. Dans le cas où un article est listé à un prix incorrect ou avec des informations incorrectes en raison d'une erreur de prix ou d'informations sur le produit, nous aurons le droit, à notre seule discrétion, de refuser ou d'annuler toute commande passée pour cet article. Dans le cas où le prix d'un article est erroné, nous pouvons, à notre discrétion, soit vous contacter pour obtenir des instructions, soit annuler votre commande et vous informer de cette annulation.
+(9) L'Opérateur se réserve le droit de refuser la commande pour tout autre motif légitime, et notamment en cas de suspicion de fraude ou de litige avec le Client concernant le paiement d'une commande antérieure.
 
-B. 4. DOUANES.
+(10) La carte sera débitée au moment de la commande, sauf si le Client a choisi un service de paiement ultérieur (qui n'est disponible que dans certains pays), auquel cas la carte sera débitée au moment de l'expédition.
 
-Lorsque vous utilisez nos Services, y compris pour passer des commandes de produits, vous acceptez et devez fournir des données valides et exactes et respecter toutes les lois applicables. Tous les noms des destinataires, adresses et noms des payeurs doivent être valides. Certains pays demandent que le destinataire présente sa carte d'identité ou son passeport pour dédouaner le colis ou à des fins de vérification du paiement. Il est de votre seule responsabilité que les données que vous nous fournissez soient complètes et exactes. Si des informations manquent ou sont incorrectes et empêchent toute expédition ou livraison ou tout dédouanement, nous ne serons pas responsables et n'offrirons aucune compensation dans de tels cas.
+(11) En tout état de cause, la commande ne sera définitivement validée qu'après paiement de la commande et confirmation par email à l'adresse électronique associée au compte utilisateur.
 
-Pour les commandes d'achat que vous avez effectuées sur notre Site via le centre commercial international, dont la valeur intrinsèque est égale ou inférieure à 150 euros, vous serez l'importateur officiel pour l'importation des produits dans l'UE. Lorsque vous êtes l'importateur officiel, et dans la mesure où la loi applicable le permet, vous autorisez par les présentes la Société et ses sociétés affiliées à agir en tant que votre mandataire pour payer tous les droits et taxes exigibles, faire des déclarations, soumettre, modifier et invalider toutes les déclarations et documents nécessaires ou utiles à l'importation des produits que vous avez commandés en votre nom et pour votre compte. Cette procuration comprend le pouvoir d'effectuer et de recevoir des services et des livraisons, de demander le remboursement de tous les prélèvements, taxes et redevances relatifs à l'importation de marchandises, de mener des procédures administratives de recours et judiciaires ainsi que des procédures d'exécution et des recours et remèdes à toutes les instances, d'introduire des demandes, des plaintes, etc. auprès des autorités publiques, des tribunaux et d'autres institutions, d'introduire, de retirer et/ou de renoncer à des recours et des appels contre des jugements, des ordonnances, des sentences arbitrales, des ordres de paiement ou tout autre ordre et décision de quelque nature que ce soit, de recevoir des fonds, des objets de valeur et des documents et/ou actes. Cela inclut également le droit de donner des instructions aux agents en douane en votre nom et pour votre compte et d'accorder des sous-autorisations aux agents en douane et/ou autres représentants impliqués dans le traitement des questions relatives à l'importation de marchandises et au respect des réglementations concernant l'importation de marchandises.
+(12) Le Client est tenu de s'assurer que toutes les informations fournies au cours du processus de commande sont correctes. Si le Client détecte une erreur dans sa commande après la fin du processus de paiement, il doit immédiatement contacter le [service clientèle](https://fr.shein.com/robot) pour corriger l cette erreur.
 
-Pour les commandes d'achat que vous avez effectuées sur notre site via le centre commercial international, avec une valeur intrinsèque supérieure à 150 euros, Infinite Styles Ecommerce Co., Ltd. agira en tant qu'importateur officiel pour l'importation de produits dans l'UE, le cas échéant.
+(13) La langue du contrat est français.
 
-B. 5. COULEURS.
+5\. LIVRAISON
 
-Nous avons fait tous les efforts possibles pour afficher, aussi précisément que possible, les couleurs de nos produits qui apparaissent sur le Site et les Apps. Cependant, comme les couleurs réelles que vous voyez dépendent de votre moniteur, nous ne pouvons pas garantir que l'affichage d'une couleur sur votre moniteur sera exact.
+5.1 Modalités de livraison
 
-B. 6. EMBALLAGE.
+(1) Options de livraison : En fonction des Produits commandés et, si disponible, de l'option de livraison choisie par le Client, la livraison sera organisée sur une base locale ( **"Quickship"** ) ou internationale, selon le lieu où se trouvent les Produits lors de la commande passer par le Client.
 
-Sauf disposition contraire, nous nous conformerons uniquement aux normes d'emballage minimales pour le mode de transport choisi. Le coût de tout emballage, chargement ou calage spécial demandé par vous sera payé par vous. Les frais de manutention (c'est-à-dire les coûts réellement encourus par nous pour les services auxiliaires servant directement au transport, tels que les coûts de main-d'œuvre associés à l'assemblage des marchandises dans l'entrepôt, à l'emballage des produits dans une boîte avec les matériaux d'emballage appropriés, à la création d'une étiquette d'expédition, au chargement de l'envoi sur un camion et à d'autres services liés au transport) seront également payés par vous. Ces coûts vous seront affichés au moment du paiement.
+(a) Mode de livraison : Le Client choisit l'un des modes de livraison proposés sur la Marketplace (voir la [politique concernant la livraison](https://fr.shein.com/Shipping-Info-a-280.html) ) lorsqu'il passe sa commande. Le service de livraison à domicile est disponible en France.
 
-B. 7. EXPÉDITION ET LIVRAISON.
+(b) Adresse de livraison : Le Client choisit une adresse de livraison. Le Client est seul responsable de tout défaut de livraison dû à une erreur d'adresse lors de la commande.
 
-Nos produits vous seront expédiés depuis un lieu situé en Europe (le "centre commercial européen") et/ou hors d'Europe (le "centre commercial international" et, avec le centre commercial européen, les "centres commerciaux"). Sous réserve des lois applicables, les conditions de votre achat (y compris, mais sans s'y limiter, les délais d'expédition et les taux de fret, les taxes et droits encourus, les actifs de l'utilisateur, les méthodes de paiement, les remises et promotions applicables et les autres conditions liées aux achats) peuvent varier en fonction du Mall que vous sélectionnez sur notre Site et notre App, en ce qui concerne les produits spécifiques, et votre paiement réel concernant ce produit peut être différent en conséquence.
+5.2 Délais de livraison
 
-Pour les commandes comportant plus d'un article, nous pouvons fractionner votre commande en plusieurs colis en fonction des niveaux de stock, à notre propre discrétion. Nous nous efforçons de livrer les commandes aussi rapidement que possible. Toutefois, il arrive que pendant les périodes de vente intense, les livraisons prennent plus de temps. Le délai de livraison prévu est de 30 jours, cependant, en cas d'expédition depuis des pays autres que les pays européens, il peut être plus long, conformément aux informations fournies lors du processus de commande. Si vous n'avez pas reçu votre livraison dans les 30 jours ouvrables, veuillez contacter notre [plateforme de services à la clientèle](https://fr.shein.com/robot) .
+(1) Les délais de livraison sont indiqués sur la Marketplace et peuvent varier en fonction de la disponibilité des Produits commandés. Les délais de livraison s’entendent en jours ouvres (hors week-ends et jours fériés) et correspondent aux délais moyens de préparation et d’acheminement de la commande vers l'adresse de livraison.
 
-B. 8. TITRE ET RISQUE DE PERTE.
+(2) Le délai de livraison courent à compter de la confirmation de la commande et de son paiement ( **"date d'achat"** ).
 
-Sauf accord contraire, l'expédition sera effectuée à l'adresse de livraison indiquée par vous.
+5.3 Retard de livraison
 
-Pour les commandes d'achat que vous avez effectuées sur notre Site et App avec une valeur intrinsèque égale ou inférieure à 150 euros via le centre commercial international,, le titre et le risque de dommage ou de perte des produits vous sont transférés lors de la livraison de votre commande au transporteur international hors de l'UE pour une livraison dans votre pays.
+(1) En cas de retard de livraison, la commande n'est pas automatiquement annulée et les dispositions suivantes s'appliquent.
 
-Pour les commandes d'achat que vous avez effectuées sur notre Site et notre Application via le centre commercial international et dont la valeur intrinsèque est supérieure à 150 euros, le titre de propriété et le risque de dommage ou de perte des produits vous sont transférés à l'issue du dédouanement à l'importation dans l'UE.
+(2) Le Vendeur, par l'intermédiaire de l'Opérateur, informe le Client par courrier électronique que la livraison sera retardée. Le Client peut annuler la commande si, après avoir mis le Vendeur en demeure de livrer le Produit ou de le livrer dans un délai supplémentaire raisonnable, le Vendeur ne l'a pas fait. La commande sera considérée comme annulée si le Vendeur ne fait pas droit à cette demande. Le Vendeur remboursera alors la totalité des sommes versées, au plus tard dans les quatorze (14) jours suivant la date à laquelle le contrat a été résilié.
 
-Pour les commandes d'achat que vous avez effectuées sur notre Site et App via European Mall, le titre et le risque de dommage ou de perte des produits vous sont transférés à la livraison de votre commande au transporteur au sein de l'UE.
+(3) Si la commande n'a pas encore été expédiée au moment où le Vendeur reçoit l'avis d'annulation du Client, la livraison est bloquée et le Client est remboursé des sommes éventuellement débitées dans un délai de quatorze (14) jours à compter de la réception de l'avis d'annulation.
 
-Nous vous indemnisons en cas de dommages ou de perte du produit lors de la livraison de votre commande par le transporteur à votre adresse de livraison, à notre discrétion soit en vous livrant un nouvel article comme celui endommagé ou perdu (sous réserve de disponibilité et en utilisant la même méthode d'expédition sans frais d'expédition supplémentaires, et sous réserve des mêmes conditions générales que celles énoncées dans les présentes), soit en remboursant le prix d'achat et les frais d'expédition payés (à condition que les frais d'expédition n'aient pas inclus d'autres articles qui ont été livrés sans dommages).
+(4) Dans le cas où la commande a déjà été expédiée lors de la réception par le Vendeur de la notification d'annulation du Client, ce dernier peut encore annuler la commande en refusant le colis. Le Vendeur procèdera alors aux remboursement des sommes débitées et des frais de retour déboursés par le Client dans les quatorze (14) jours suivant la réception du retour du colis (complet et dans son état d'origine) refusé. Le Vendeur procédera au remboursement en utilisant le même moyen de paiement que celui utilisé par le Client pour la transaction initiale, sauf si les parties conviennent expressément d'un moyen différent.
 
-B. 9. GARANTIE ET RETOUR DES PRODUITS.
+6\. VÉRIFICATION DE LA COMMANDE À L'ARRIVÉE
 
-(1) Si vous êtes un consommateur résidant dans les pays européens, vous bénéficiez des droits de garantie légaux. Nonobstant ces droits de garantie légale ou votre droit de rétractation conformément à la section B. 10, les articles de mauvaise taille et les articles présentant des problèmes de qualité peuvent également être échangés conformément à cette disposition ( **“politique de retour volontaire”** ) afin de faciliter votre retour.Dans un délai de 45 jours à compter de la date d'achat, vous pouvez retourner votre commande en nous informant de votre décision via la fonction respective du Site ou des Apps. En fonction de vos souhaits, nous échangerons le produit ou nous vous rembourserons le prix d'achat et les frais d'expédition le cas échéant (l'expédition gratuite n'est disponible que pour un seul retour par commande).
+6.1 Vérification de la commande à l'arrivée.
 
-Le remboursement sera versé soit sur votre portefeuille dans votre compte utilisateur, soit sur le mode de paiement initial, à votre choix. Vous pouvez toujours faire usage de vos droits de garantie légale après cette période, le cas échéant.
+Le Client est tenu de vérifier l'état des Produits à réception de la livraison.
 
-En dehors des cas de garantie, les articles suivants ne peuvent pas être retournés ou échangés conformément à notre politique de retour volontaire : bodys, lingerie et vêtements de nuit, maillots de bain, bijoux et accessoires (à l'exception des écharpes, sacs et couvertures de sirène).
+6.2 Colis endommagé à la réception de la livraison
 
-(2) Pour exercer vos droits de garantie légale ou faire usage de notre politique de retour volontaire, vous devez nous en informer en suivant les instructions de notre page de [retour](https://fr.shein.com/Return-Policy-a-281.html) ou en contactant notre [plateforme de services à la clientèle](https://fr.shein.com/robot) .
+(1) Tout risque de perte ou d'endommagement des Produits est transféré au Client au moment où celui-ci prend physiquement possession des Produits.
 
-B. 10. DROIT DE RÉTRACTATION.
+(2) Il appartient au Client de refuser le colis s'il est manifestement endommagé ou d'émettre les réserves et réclamations sur l'endommagement du colis jugées nécessaires dans les 24 heures de la réception des Produits, sans que cela n'affecte ses droits statutaires. Lesdites réserves et réclamations doivent être adressées par écrit au transporteur sélectionné par le Client lors du choix du mode de livraison. Le transporteur choisi sera également indiqué sur le récapitulatif de commande envoyé au Client une fois la commande passée. Le Client doit également envoyer une copie de cette lettre ou de ce document au [service clientèle](https://fr.shein.com/robot) ( **"Service clientèle"** ).
 
-En plus de votre droit en vertu de notre politique de retour volontaire, si vous êtes un consommateur résidant dans le pays européen, vous disposez également du droit légal suivant de rétractation du contrat.
+6.3 Articles non-conformes à la commande.
 
-Le droit de rétractation légal n'existe pas ou s'éteint, selon le cas, dans le cas d'accords concernant la fourniture de produits scellés qui ne peuvent être retournés pour des raisons de protection de la santé ou d'hygiène (par exemple, les bodys, la lingerie et les vêtements de nuit, les maillots de bain) et qui ont été descellés après la livraison.
+(1) Le Client doit s'assurer que les Produits qui lui ont été livrés correspondent à la commande passée. En cas de non-conformité Produits erronés (différents de ceux achetés par le Client) ou d'erreur sue les quantités, le Client doit informer le [service clientèle](https://fr.shein.com/robot) conformément au présent article.
 
-**Droit de rétractation**
+(2) Le Client devra formuler auprès du Vendeur, via le [Service Client](https://fr.shein.com/robot) , dans les 48 jours après réception du colis, toute réclamation d'erreur de livraison et/ou d'erreur et/ou de non-conformité des Produits en nature ou en qualité par rapport à la commande, ceci n'affectant pas les droits statutaires du Client.
 
-Vous avez le droit de vous rétracter du présent contrat dans un délai de 14 jours sans donner de motif.
+(3) Les frais de renvoi des Produits sont à la charge du Vendeur, qui remboursera le Client dans les quatorze (14) jours suivant la réception des Produits renvoyés.
 
-Le délai de rétractation expire après 14 jours à compter du jour où vous acquérez, ou qu'un tiers autre que le transporteur et indiqué par vous acquiert, la possession physique des biens.
+6.4 Articles endommagés
 
-Pour exercer le droit de rétractation, vous devez nous informer, en contactant notre [Plateforme de Service Clientèle](https://fr.shein.com/robot) , de votre décision de rétractation du présent contrat par une déclaration non équivoque. Vous pouvez utiliser le modèle de formulaire de rétractation ci-joint, mais ce n'est pas obligatoire.
+Pour toute question concernant les Produits endommagés et la garantie des Produits, veuillez-vous référer à l’article 7 ci-dessous.
 
-Pour respecter le délai de rétractation, il suffit que vous envoyiez votre communication concernant votre exercice du droit de rétractation avant l'expiration du délai de rétractation.
+6.5. Comportement frauduleux
 
-**Effets de la rétractation**
+Comme indiqué dans les présentes CGV, tout comportement ou manœuvre frauduleuse liée aux réclamations ou réserves effectuées s’agissant des colis reçus (manquants, Produits endommagés notamment) sera passible de poursuites pénales ou d’autre l'actions judiciaires appropriés.
 
-Si vous vous rétractez du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (à l'exception des frais supplémentaires résultant de votre choix d'un type de livraison autre que le type de livraison standard le moins cher que nous proposons), sans retard excessif et, en tout état de cause, au plus tard 14 jours à compter du jour où nous sommes informés de votre décision de vous rétracter du présent contrat. Nous effectuerons ce remboursement en utilisant le même moyen de paiement que celui que vous avez utilisé pour la transaction initiale, à moins que vous n'en ayez expressément convenu autrement ; en tout état de cause, vous n'encourrez aucun frais du fait de ce remboursement. Nous pouvons retenir le remboursement jusqu'à ce que nous ayons reçu les produits en retour ou que vous ayez fourni la preuve que vous avez renvoyé les produits, la date la plus proche étant retenue.
+7\. GARANTIE LÉGALE DE CONFORMITÉ
 
-Vous devez renvoyer les produits ou nous les remettre sans retard excessif et, en tout état de cause, au plus tard 14 jours à compter du jour où vous nous communiquez votre rétractation du présent contrat. Le délai est respecté si vous renvoyez les produits avant l'expiration du délai de 14 jours. Les frais de renvoi des produits sont à votre charge.
+(1) Le Vendeur est responsable des défauts de conformité des Produits livrés dans les conditions de l'article L.217-3 et suivants du Code de la consommation et des défauts cachés des Produits vendus par lui dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
-Vous n'êtes responsable que de la dépréciation des biens résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le fonctionnement des biens.
+(2) Les Produits vendus doivent être conformes au contrat et exempts de défauts au moment de la livraison.
 
-**Formulaire de retrait du modèle**
+(3) Le Vendeur répond également des défauts de conformité résultant de l'emballage, des instructions de montage ou de l'installation, le cas échéant, si celle-ci a été mise à la charge du Vendeur en vertu du contrat ou a été effectuée sous sa responsabilité, ou si l'installation incorrecte effectuée par le Client conformément au contrat est due à des lacunes ou à des erreurs dans les instructions d'installation fournies par le Vendeur.
 
-Si vous résidez dans l'Union européenne :
+(4) Conformément à l'article L. 217-4 du Code de la consommation, le Produit est conforme au contrat s'il répond aux critères suivants, le cas échéant :
 
-* 1.à : Infinite Styles Ecommerce Co., Ltd, G01 & 101, T/A Grafter Offices, 55 Percy Place, Dublin, 4 D04 E1W7 Ireland,
-* 2.Je / nous (\*) notifie / notifions par la présente que je / nous (\*) résilie / résilions mon / notre (\*) contrat de vente des biens (\*) suivants / pour la prestation du service (\*) suivant :
-* 3.Commandé le (\*) / reçu le (\*) :
-* 4.Nom du (des) consommateur(s) :
-* 5.Adresse du (des) consommateur(s) :
-* 6.Signature du (des) consommateur(s) (uniquement pour la notification sur papier). 7 :
-* 7\. date :
-* (\*) Rayer les mentions inutiles
+1.Il correspond à la description, au type, à la quantité et à la qualité, notamment en ce qui concerne la fonctionnalité, la compatibilité, l'interopérabilité, ou toute autre caractéristique prévues au contrat ;
+
+2.Il est propre à tout usage spécial recherché par le Client, porté à la connaissance du Vendeur au plus tard au moment de la conclusion du contrat et que ce dernier a accepté ;
+
+3.Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;
+
+4.Il est mis à jour conformément au contrat.
+
+(5) En plus des critères de conformité au contrat, le Produit est conforme s'il répond aux critères suivants, conformément à l'article L. 217-5 du Code de la consommation :
+
+1\. Il est propre à l'usage habituellement attendu d'un Produit de même type, compte tenu, s'il y a lieu, de toute disposition du droit de l'Union européenne et du droit national ainsi que de toutes les normes techniques ou, en l'absence de telles normes techniques, des codes de conduites spécifiques applicables au secteur concerné ;
+
+2\. Le cas échéant, il possèdes les qualités que le Vendeur a présentées au Client sous forme d'échantillon ou de modèle, avant la conclusion du contrat ;
+
+3\. Le cas échéant, les éléments numériques qu'il comporte sont fournis selon la version la plus récente qui est disponible au moment de la conclusion du contrat, sauf si les parties en conviennent autrement ;
+
+4\. Le cas échéant, il est délivré avec tous les accessoires, y compris l'emballage, et les instructions d'installation que le consommateur peut légitimement attendre ;
+
+5\. Le cas échéant, il est fourni avec les mises à jour que le Client peut légitimement attendre, conformément aux dispositions de l'article L. 217-19 ;
+
+6\. Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des Produits de même type, eu égard à la nature du Produit ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage.
+
+(6) Le Vendeur ne sera toutefois pas tenu par les déclarations publiques précitées s'il démontre :
+
+1\. Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;
+
+2\. Qu'au moment de la conclusion du contrat, les déclarations publiques avaient été rectifiées dans des conditions comparables aux déclarations initiales ; ou
+
+3\. Que les déclarations publiques n'ont pas pu avoir d'influence sur la décision d'achat.
+
+(7) Le Client ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du Produit, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti.
+
+(8) Conformément à l'article L. 217-7 du Code de la consommation, les défauts de conformité qui apparaissent dans un délai de vingt-quatre (24) mois à compter de la délivrance du Produit, sont, sauf preuve contraire, présumés exister au moment de la délivrance.
+
+Le Client dispose d'un délai de deux ans à compter de la délivrance du Produit pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le Client n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
+
+Lorsque le contrat de vente du Produit prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, le Client n'est tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci.
+
+La garantie légale de conformité emporte obligation pour le Vendeur, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité du Produit.
+
+La garantie légale de conformité donne au Client droit à la réparation ou au remplacement du Produit dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
+
+Si le Produit est réparé dans le cadre de la garantie légale de conformité, le Client bénéficie d'une extension de six mois de la garantie initiale.  
+Si le Client demande la réparation du Produit, mais que le Vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du Produit.
+
+Le Client peut obtenir une réduction du prix d'achat en conservant le Produit ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du Produit, si :
+
+1° Le Vendeur refuse de réparer ou de remplacer le Produit ;
+
+2° La réparation ou le remplacement du Produit intervient après un délai de trente jours
+
+3° La réparation ou le remplacement du Produit occasionne un inconvénient majeur pour le Client, notamment lorsque le Client supporte définitivement les frais de reprise ou d'enlèvement du Produit non conforme, ou s'il supporte les frais d'installation du Produit réparé ou de remplacement ;
+
+4° La non-conformité du Produit persiste en dépit de la tentative de mise en conformité du Vendeur restée infructueuse.
+
+Le Client a également droit à une réduction du prix du Produit ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le Client n'est alors pas tenu de demander la réparation ou le remplacement du Produit au préalable.
+
+Le Client n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.  
+Toute période d'immobilisation du Produit en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du Produit remis en état.  
+Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation.
+
+Le Vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+Le Client bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le Produit est conservé ou à un remboursement intégral contre restitution du Produit.
+
+8\. DROIT DE RÉTRACTATION
+
+(1) Conformément aux dispositions des articles L. 221-18 et suivants du Code de la consommation, le Client, qui est un consommateur, dispose d'un droit de rétractation de tout ou partie de sa commande, sans motif, et qui expire quatorze (14) jours à compter de la réception de la commande (date de livraison ou de retrait de la commande, selon les Produits et l'option qui aura été choisie par le Client).
+
+(2) Pour que le délai de rétractation soit respecté, il suffit que le Client transmette la communication relative à l'exercice de ce droit avant l'expiration du délai de quatorze (14) jours après la réception des Produits commandés.
+
+(3) Si le Client use de ce droit de rétractation, le retour des Produits doit s'effectuer dans un délai de quatorze (14) jours après la communication de l'exercice du droit de rétractation, dans leur emballage d'origine, en parfait état, non utilisés et accompagnés de tous les accessoires et notices d'utilisation, ainsi que du [bordereau de retour](https://fr.shein.com/orders/orderRevokePower) (imprimé à partir de votre compte dans « Mes Commandes »), dûment rempli. Les Produits retournés doivent ne pas avoir été utilisés d'une quelconque manière ou manipulées autrement que pour établir la nature, les caractéristiques et le bon fonctionnement du ou des biens. Les Produits incomplets, abîmés, endommagés ou salis par le Client ne seront pas repris.
+
+(4) Certains Produits ne peuvent faire l'objet du droit de rétractation. C'est le cas des Produits qui ont été descellés par le Client après la livraison et qui ne peuvent être revendus, notamment pour des raisons d'hygiène ou de protection de la santé (par exemple, les bodys, la lingerie et pyjamas, les maillots de bain, les produits cosmétiques, les bijoux et accessoires (excepté les écharpes, les sacs et les couvertures sirène)).
+
+(5) Le colis de retour devra être retourné au point de retour le plus proche selon la société de logistique correspondant à l'étiquette de retour, au plus tard quatorze (14) jours après la demande de rétractation. Attention, le colis ne doit pas être retourné à l'adresse de l'envoyeur qui ne correspond pas à l'adresse retour. A défaut, le colis sera perdu. Le Client doit envoyer le colis de retour à l'adresse indiquée par l'Opérateur.
+
+(6) Si la commande est retournée intacte et sans avoir été utilisée, le Client sera remboursé du prix des Produits et des frais de livraison standard payés, sauf indication contraire. Si le Client a expressément choisi un mode de livraison plus coûteux que le mode de livraison standard proposé par le Vendeur, ces frais de livraison ne seront pas remboursés. Il en est de même pour les frais supplémentaires facturés pour toute commande supérieure à 180 euros (TVA comprise) (droits de douane, frais de stockage et de dédouanement) qui ne seront pas remboursés. Ceci n'affecte pas les droits statutaires du Client. Il est à noter qu'en cas de retrait d'une partie seulement de la commande, le remboursement des frais de livraison et des frais supplémentaires sera égal au montant des frais qui n'auraient pas été facturés au Client si lesdits Produits n'avaient pas été achetés.
+
+(7) Les frais de retour des Produits sont pris en charge par le Vendeur à condition que le Client suive les instructions de retour figurant dans la Politique concernant les retours.
+
+(8) Le Vendeur effectuera le remboursement par virement sur la carte utilisée pour le paiement de la commande, et au plus tard quatorze (14) jours à compter de la réception des Produits.
+
+(9) Veuillez noter que le Client peut également choisir de recevoir un remboursement sous forme de crédits Portefeuille. Ces crédits peuvent donner lieu à un remboursement du solde via le mode de paiement initial utilisé lors de la passation d'une nouvelle commande. Un crédit de portefeuille numérique accordé par l'Opérateur par d'autres moyens, tels que décrits dans les CGU, qui n'est pas lié à un article retourné, ne peut toutefois pas donner lieu à un remboursement en espèces.
+
+(10) Conformément aux CGU, les crédits Portefeuille ne peuvent être utilisés que sur le site web où le crédit a été accordé (par exemple, si le Client a commandé puis retourné un Produit sur le site web https://fr.shein.com/ et a choisi de recevoir un crédit, ce crédit ne peut être utilisé que sur le site web https://fr.shein.com/).
+
+(11) Pour exercer le droit de rétractation, le Client doit notifier au Vendeur, par l'intermédiaire de la Marketplace indiquée ci-dessous, sa décision de rétractation du présent contrat au moyen d'une déclaration dénuée d'ambiguïté.
+
+Le Client peut exercer son droit de rétractation :
+
+\- via le compte Client, en cliquant sur "Mes commandes", puis "Retourner l'article". L'étiquette de retour doit alors être imprimée et collée sur le colis de retour, qui doit être envoyé au point de retour le plus proche selon la société de logistique correspondant à l'étiquette de retour.
+
+\- via le formulaire de rétractation ci-dessous. À compléter et à envoyer [ici](https://fr.shein.com/orders/orderRevokePower)
+
+Formulaire de rétractation pour les Clients  
+A l'attention de :
+
+Service de commerce électronique
+
+\[INSÉRER LE NOM DU VENDEUR\] aux soins de Infinite Styles Services Co, Ltd, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.  
+Je vous notifie/nous vous notifions par la présente ma/notre rétractation du contrat de vente du Produit et/ou service suivant :
+
+Numéro de commande :  
+Code de l'article :  
+Commandé le :  
+Reçu le :  
+Nom du Client :  
+Adresse du Client :
+
+Signature du/des Client(s) (en cas de notification du présent formulaire sur papier) :  
+Date :
+
+(12) Si le Client utilise le formulaire de rétractation, le Vendeur, par l'intermédiaire de la Marketplace, adressera sans délai un accusé de réception de la rétractation sur support durable, ainsi qu'un bordereau de retour que le Client doit impérativement joindre au Produit retourné. En l'absence de ce bon, le retour du Produit ne pourra être traité dans les délais normaux.
+
+9\. EXTENSION DU DÉLAI DE RÉTRACTATION
+
+(1) Au-delà du délai légal de rétractation mentionné à l'article 8, les Vendeurs offrent au Client la possibilité de retourner les Produits commandés jusqu'à quarante-cinq (45) jours, à compter de la date d'achat.
+
+(2) Dans les cas où le Client souhaite bénéficier de l’EXTENSION du délai de rétractation, il est informé que le retour des Produits doit se faire dans les mêmes conditions que celles prévues à l'article 8 ci-dessus. En particulier, le Client est invité à suivre les instructions mentionnées ci-dessus.
+
+(3) A moins qu’il en ait été convenu autrement avec le Service clientèle, si un retour est effectué durant l’extension du délai de rétractation, le remboursement sera effectué sous forme de crédit Portefeuille.
+
+(4) En cas de difficulté liée à la mise en œuvre de cette extension du droit de rétractation, le Client est invité à contacter le Service clientèle sans délai, et au plus tard dans les 45 jours à compter de la date d'achat, ceci n'affectant pas les droits statutaires du Client.
+
+10\. RESPONSABILITÉ
+
+10.1 Le Client a l’obligation de prendre connaissance des caractéristiques des Produits, telles qu'elles figurent sur la Marketplace, afin de s'assurer notamment qu'il est en mesure d'utiliser ou de porter les Produits. Le Vendeur s'efforce de son cote de veiller à ce que les informations sur la Marketplace soient mises à jour.
+
+10.2 Le Vendeur ne peut être tenu responsable en cas de mauvaise utilisation des Produits, d'utilisation non conforme aux contre-indications mentionnées dans la Fiche Produit ou d'utilisation faite par le Client que le Vendeur ne pouvait raisonnablement pas prévoir.
+
+10.3 Sauf accord contraire, l'expédition est effectué à l'adresse de livraison indiquée par le Client. En cas de mauvaise adresse communiquée, le Vendeur ne sera en aucun cas tenu pour responsable des colis égarés.
+
+10.4 Le Vendeur n'exclut ni ne limite d'aucune manière sa responsabilité à l'égard du Client lorsqu'il serait contraire à la loi applicable de le faire. Le Vendeur n’exclut donc passa responsabilité en cas de décès ou de dommages corporels causés par la négligence du Vendeur ou la négligence de ses employés, agents ou sous-traitants, ainsi qu'en cas de fraude ou de déclaration frauduleuse. La Marketplace est uniquement destinée à un usage domestique et privé. Le Vendeur n'est pas responsable, en vertu des présentes CGV, de toute perte de revenus, perte de bénéfices, perte de données, interruption d'activité (que celles-ci soient directes ou indirectes) ni de toute perte indirecte ou consécutive, de quelque nature que ce soit, résultant de l'achat d'un Produit.
+
+10.5 A l'exception de la responsabilité liée à la vente des Produits, ou en cas de dol ou de faute lourde, le Vendeur ne peut être tenu responsable de tout dommage direct ou indirect, quelle qu'en soit la cause, l'origine, la nature ou la conséquence, résultant de l'utilisation de la Marketplace. Notamment, en cas d'interruption ou d'inaccessibilité de la Marketplace, de virus, ou d'inexactitude des informations contenues sur la Marketplace ou de tout dommage résultant d'actes frauduleux de tiers commis sur la Marketplace.
+
+10.6 Lorsque la loi le permet, le Vendeur ne sera pas responsable dans le cas où l'inexécution de ses obligations est imputable soit au fait imprévisible et insurmontable d'un, soit à un cas de force majeure (tel que défini par la loi applicable) et qui comprend, sans s'y limiter :
+
+* les grèves et autres formes de manifestations ou de blocages qui affectent la production et la livraison des Produits ;
+* troubles civils, révolte, invasion, attaque ou menace terroriste, guerre (déclarée ou non) ou menace ou préparation de guerre.
+* incendie, explosion, tempête, inondation, tremblement de terre, effondrement, épidémie ou toute autre catastrophe naturelle.
+* l'impossibilité d'utiliser le train, le bateau, l'avion, le transport motorisé ou tout autre moyen de transport, public ou privé.
+* l'impossibilité d'utiliser les systèmes de télécommunication publics ou privés.
+* les actes, décrets, lois, règlements ou restrictions de tout gouvernement ou autorité publique.
+
+Les obligations du Vendeur au titre des CGV sont suspendues pendant la durée de la situation de force majeure. Le Vendeur a droit à une prolongation de la période d'exécution de ces obligations égale à la durée de la situation de force majeure. Toutefois, tous les moyens raisonnables seront mis en œuvre pour mettre fin à la situation de force majeure ou pour trouver une solution permettant au Vendeur de remplir ses obligations contractuelles.
+
+10.7 Sous réserve du respect de la procédure décrite dans les présentes et dans la mesure permise par la loi applicable, le Vendeur indemnisera le Client en cas d'endommagement ou de perte du Produit lors de la livraison de la commande par le transporteur à l'adresse de livraison du Client, soit en livrant au Client un nouvel article correspondant à l'article endommagé ou perdu (sous réserve de disponibilité et en utilisant le même mode d'expédition sans frais d'expédition supplémentaires, et sous réserve des mêmes conditions que celles applicables au moment de la commande initiale), soit en remboursant au Client le Prix d'achat et les frais d'expédition payés (à condition que les frais d'expédition n'aient pas inclus d'autres Produits livrés intacts), à sa discrétion.
+
+10.8 Tout comportement ou manœuvre frauduleuse concernant les réclamations ou réserves faites sur les colis reçus (manquants, Produits endommagés notamment) pourra faire l'objet de poursuites civiles et/ou pénales.
+
+10.9 Les présentes CGV expriment l'intégralité des obligations des parties. En ce sens, le Client est réputé les accepter sans réserve.
+
+10.10 Si une ou plusieurs stipulations des présentes CGV sont tenues pour non valides ou déclarées comme tel en application d'une loi, d'un règlement ou d'une décision définitive d'une juridiction compétente, les autres stipulations garderont toute leur force et toute leur portée.
+
+10.11 Le fait pour le Vendeur de ne pas faire valoir un droit ou une disposition des CGV ne constitue pas une renonciation à ce droit ou à cette disposition.
+
+11\. DONNÉES PERSONNELLES
+
+Le Client confirme qu'il a lu et compris la [politique de confidentialité de Marketplaces](https://fr.shein.com/Privacy-Security-Policy-a-282.html) qui explique comment ses données personnelles sont collectées et traitées.
+
+12\. CONTACT
+
+12.1 **Vendeurs :** Le nom et les coordonnées de chaque Vendeur sont affichés dans les spécifications de chaque Produit sur le site avant que le Client ne confirme sa commande.
+
+12.2 **Opérateur :** Infinite Styles Services Co, Ltd dont l'adresse est la suivante : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.  
+Courriel : frcsteam@shein.com  
+Numéro d'entreprise : 732881
+
+12.3 Pour tout problème lié aux Services, le Client peut contacter SHEIN à tout moment par email notre centre de confidentialité à [Privacy Center](https://fr.shein.com/Privacy-Center-a-1045.html) ou par le biais de notre [plateforme de Service Client](https://fr.shein.com/robot) .
+
+12.4 Pour tout problème concernant les Produits, le Client peut à tout moment contacter le Vendeur via SHEIN par le biais de la [plateforme du Service Client](https://fr.shein.com/robot) .
+
+13\. RÈGLEMENT DES LITIGES
+
+13.1 **Réclamations**
+
+En cas de litige, le Client doit d'abord contacter le Service Clientèle de SHEIN par les moyens suivants via le site web en se rendant dans la [rubrique Service Clientèle](https://fr.shein.com/robot) .
+
+La plainte sera analysée et fera l'objet d'une réponse dans un délai raisonnable à compter de la date de dépôt de la réclamation.
+
+13.2 **Médiation**
+
+(1) En vertu de l'article L. 612-1 du Code de la consommation, « tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résiliation amiable du litige qui l'oppose à un professionnel. »
+
+(2) Les litiges entrant dans le champ d'application de l'article L. 612-1 du Code de la consommation sont les litiges définis à l'article L. 611-1 du Code de la consommation à savoir les litiges de nature contractuelle, portant sur l'exécution d'un contrat de vente ou de fournitures de services, opposant un consommateur à un professionnel.
+
+(3) En cas d'échec de la demande de réclamation auprès du Client de service ou en l'absence de réponse de ce service dans un délai d'un (1) mois, le Client peut soumettre le différend au médiateur, dans un délai maximal d'un (1) an à compter de la date de réclamation écrite. Le médiateur, le Centre de Médiation et d'Arbitrage de Paris (CMAP) tentera, en toute indépendance et impartialité, de rapprocher les parties en vue d'aboutir à une solution amiable. Ses coordonnées sont les suivantes :
+
+CMAP  
+www.cmap.fr  
+consommation@cmap.fr  
+39 rue Avenue Franklin Delano Roosevelt – 75008 Paris  
+Tel : 01 44 95 11 40
+
+(4) Pour présenter sa demande de médiation, le Client dispose d'un formulaire de réclamation accessible sur le site du médiateur.
+
+13.3 Conformément au règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation, le Client consommateur peut demander la résolution du litige sur la plateforme européenne de résolution en ligne des litiges de consommation, accessible sur le lien suivant : https://ec.europa.eu/consumers/odr .
+
+13.4 Les parties restent libres d'accepter ou de refuser le recours à la médiation ainsi que, en cas de recours à la médiation, d'accepter ou de refuser la solution proposée par le médiateur. En cas de refus de recours à la médiation, ou d'échec de cette dernière, les parties conservent la faculté de saisir la juridiction compétente.
+
+14\. DROIT APPLICABLE ET JURIDICTION
+
+14.1 Les présentes CGV sont régies et interprétées conformément au droit irlandais, et l'application de la Convention des Nations Unies sur les contrats de vente internationale de marchandises est expressément exclue. Le Client, qui a sa résidence habituelle dans un autre pays européen, bénéficie en outre de la protection qui lui est accordée par les dispositions impératives de la loi du France.
+
+14.2 Tout litige résultant de la formation, de l'interprétation ou de l'exécution des présentes CGV relève de la compétence exclusive des tribunaux du français ou des tribunaux du domicile du Client, conformément à la loi applicable.
+
+\[Conformément à la loi applicable, le Client déclare accepter expressément les clauses suivantes : 6. VÉRIFICATION DE LA COMMANDE À L'ARRIVÉE, 10. RESPONSABILITÉ et 14. LOI APPLICABLE\]
