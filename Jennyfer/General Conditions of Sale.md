@@ -74,7 +74,7 @@ JENNYFER se réserve le droit de modifier à tout moment le prix des Articles. L
 
 **5.1. Zones de livraison**
 
-JENNYFER livre les Articles présentés sur le Site exclusivement dans les pays suivants : Allemagne – Autriche – Belgique – Bulgarie – Chypre – Croatie – Danemark – Espagne – Estonie – Finlande - France métropolitaine Corse incluse - Grèce – Hongrie – Irlande - Italie - Lettonie – Lituanie - Luxembourg – Malte - Monaco - Pays-Bas - Pologne – Portugal - République Tchèque - Roumanie - Royaume-Uni – Slovaquie – Slovénie – Suède.
+JENNYFER livre les Articles présentés sur le Site exclusivement dans les pays suivants : France, Italie et Belgique.
 
 Les Articles sont exclusivement livrés à l’adresse de livraison indiquée par le Client lors de la commande. Aucune modification de l’adresse de livraison ne pourra intervenir après que la commande ait été confirmée par JENNYFER.
 
