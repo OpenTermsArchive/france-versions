@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 20th June 2023
+### Date d’entrée en vigueur : 31 July 2023
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 20th June 2023**
+**Date d’entrée en vigueur : 31 July 2023**
 
   
 
@@ -556,22 +556,44 @@ Sauf disposition contraire de la Convention ou du Règlement (CE) No. 261/2004 (
 
 ==================================================================
 
-En cas de décès survenu dans la famille la plus proche (conjoint/conjointe, partenaire civil, enfants, enfants adoptifs, parents, frères et sœurs (y compris les demi-frères et demi-sœurs), grands-parents et petits-enfants, beau-père/belle-mère, beau-frère/belle-sœur, gendre/belle-fille) dans les 28 jours du voyage prévu, un remboursement peut être offert sur demande à présenter aussitôt qu’il est raisonnablement possible et en tout cas avant la date de voyage et sur présentation d’une copie du certificat de décès, conformément à l’article 10.2. Veuillez cliquer ici pour les demandes de remboursement.
+Si un membre de votre famille immédiate qui ne voyage pas avec vous décède dans les 28 jours précédant le vol que vous avez réservé, vous pouvez demander un remboursement égal au tarif que vous avez payé pour le ou les vols que vous n’avez pas pris en conséquence, plus les taxes, frais et charges associés que vous avez payés. Vous devez faire votre demande avant la date du vol et fournir une copie du certificat de décès.
 
-10.4 DÉCÈS OU MALADIE GRAVE D’UN PASSAGER ENREGISTRÉ
+Aux fins de la présente clause, un membre de la famille immédiate est :
+
+* votre mari, épouse ou partenaire civil.
+* un enfant ou un(e) beau-fils, belle-fille.
+* un parent ou un beau-parent.
+* un frère, une sœur, un demi-frère ou une demi-sœur.
+* un grand-parent ou petit-enfant ; ou
+* votre belle-mère, beau-père, belle-sœur, beau-frère, belle-fille ou gendre 
+
+10.4 Décès d’un passager ayant fait l’objet d’une réservation
 
 
-======================================================
+===============================================================
 
-Si quelqu’un sur votre réservation tombe gravement malade et n’est pas en mesure de voyager, ou décède avant votre voyage, Ryanair :  
-  
+Si une personne figurant sur votre réservation décède dans les 28 jours précédant le vol que vous avez réservé, Ryanair peut :
 
 * peut rembourser  le montant total pour toute personne voyageant sur votre réservation ; ou, le cas échéant,
 * renoncera aux frais de changement de vol, ainsi qu’aux restrictions associées au changement de vos vols.
 
-Vous devez fournir des preuves appropriées de la maladie grave ou du décès avant la date à laquelle vous deviez voyager.
+Vous devez fournir une preuve appropriée du décès avant la date à laquelle vous deviez voyager.
 
 Pour soumettre une demande de remboursement, veuillez cliquer ici.
+
+10.5 Maladie grave d’un passager ayant fait l’objet d’une réservation
+
+
+=======================================================================
+
+Si une personne figurant sur votre réservation tombe gravement malade et n’est pas en mesure de voyager avant le voyage, et que la date du diagnostic se situe dans les 6 semaines précédant votre vol réservé, Ryanair peut :
+
+* vous créditer le montant total pour toutes les personnes voyageant sur votre réservation ; ou, le cas échéant,
+* renoncer aux frais de changement de vol, ainsi qu’à toute restriction liée à la modification de vos vols.
+
+Vous devez fournir une preuve appropriée de la maladie grave avant la date à laquelle vous deviez voyager.
+
+Pour soumettre une demande de remboursement, veuillez cliquer ici.  
 
 ARTICLE 11 COMPORTEMENT À BORD
 ==============================
