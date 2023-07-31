@@ -4,7 +4,7 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 12/07/2023  
+Mise à jour le 31/07/2023  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
@@ -207,8 +207,8 @@ Les délais de livraisons indiqués ont comme référence la date de commande et
 
 **Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
 Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
-Coût de la livraison si la commande est inférieur à 30 € : 3.99 €  
-Coût de la livraison si la commande est supérieur à 30 € : gratuite  
+Coût de la livraison si la commande est inférieure à 30 € : 3.99 €  
+Coût de la livraison si la commande est supérieure à 30 € : gratuit  
 **Livraison à domicile standard (Colissimo ou Colis Privé):**  
 Délai : 4 jours garantis  
 Coût de la livraison:  
@@ -291,17 +291,17 @@ Coût de la livraison:
 |     |     |     |
 | --- | --- | --- |
 | **Nb produits** | **Tarif Zone 1** | **Tarif Zone 2** |
-| **1** | 18 € | 35 € |
-| **2** | 28 € | 70 € |
-| **3** | 32 € | 100 € |
-| **4** | 34 € | 100 € |
-| **5** | 35 € | 100 € |
-| **6** | 37 € | 150 € |
-| **7** | 39 € | 150 € |
-| **8** | 50 € | 150 € |
-| **9** | 55 € | 150 € |
-| **10** | 60 € | 175 € |
-| **11+** | 65 € | 175 € |
+| **1** | 29 € | 49 € |
+| **2** | 39 € | 69 € |
+| **3** | 49 € | 99 € |
+| **4** | 49 € | 99 € |
+| **5** | 59 € | 119 € |
+| **6** | 69 € | 149 € |
+| **7** | 69 € | 149 € |
+| **8** | 79 € | 159 € |
+| **9** | 89 € | 179 € |
+| **10** | 119 € | 269 € |
+| **11+** | 149 € | 339 € |
 
 \>\>>  
   
