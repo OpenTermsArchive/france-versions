@@ -34,7 +34,7 @@ Conditions générales de vente C&A Mode GmbH & Co. KG
 
 1.1. Exploitant de la boutique en ligne C&A.
 
-Le site de vente en ligne www.c-et-a.com est exploité par C&A Mode GmbH & Co. KG, Wanheimer Strasse 70, D - 40468 DUESSELDORF (Allemagne), immatriculée au RCS de Duesseldorf sous le numéro HRA 6237. E-Mail : [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) L´associé personnellement responsable : C&A Retail GmbH, Siège : Baar/Suisse, UID: CHE-116.290.471, Direction : Giny Boer, Christoph Hammer
+Le site de vente en ligne www.c-et-a.com est exploité par C&A Mode GmbH & Co. KG, Wanheimer Strasse 70, D - 40468 DUESSELDORF (Allemagne), immatriculée au RCS de Duesseldorf sous le numéro HRA 6237. E-Mail : [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection). L´associé personnellement responsable : C&A Retail GmbH, Siège : Baar/Suisse, UID: CHE-116.290.471, Direction : Giny Boer, Christoph Hammer
 
 1.2. Champ d'application des conditions générales de vente.
 
@@ -135,7 +135,7 @@ Le délai de rétractation expire quatorze jours à compter du jour de la livrai
 
 Pour que le délai de rétractation soit respecté, il suffit que le client transmette sa déclaration exprimant sa volonté de se rétracter avant l’expiration du délai de rétractation.
 
-Pour exercer son droit de rétractation, le client doit notifier sa décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté ou en remplissant le modèle ci-dessous, envoyée par lettre recommandée avec accusé de réception ou par email. Sa déclaration doit être adressée à : C&A Mode GmbH & Co. KG, Postfach 210 110, 46268 Dorsten, Allemagne, Téléphone 01 73 44 32 99 ou [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection) Si le client utilise cette dernière option, C&A lui enverra sans délai un accusé réception de la rétractation par email.
+Pour exercer son droit de rétractation, le client doit notifier sa décision de rétractation du présent contrat au moyen d’une déclaration dénuée d’ambiguïté ou en remplissant le modèle ci-dessous, envoyée par lettre recommandée avec accusé de réception ou par email. Sa déclaration doit être adressée à : C&A Mode GmbH & Co. KG, Postfach 210 110, 46268 Dorsten, Allemagne, Téléphone 01 73 44 32 99 ou [\[email protected\]](https://www.c-and-a.com/cdn-cgi/l/email-protection). Si le client utilise cette dernière option, C&A lui enverra sans délai un accusé réception de la rétractation par email.
 
 **Effets de la rétractation**
 
