@@ -1,47 +1,117 @@
-Date de modification: 20/05/2021
+Date de modification: 31/07/2023
 
   
 
-POLITIQUE MONDIALE EN MATIÈRE DE COOKIES
-========================================
+AVIS CONCERNANT LES COOKIES (MONDE)
+-----------------------------------
 
-Uber, ses sociétés affiliées, des tiers et d'autres partenaires utilisent des cookies et d'autres technologies d'identification sur leurs sites Web, sur leurs applications mobiles, dans leurs communications par e-mail, dans leurs publicités et sur d'autres services en ligne (appelés collectivement les « Services ») à différentes fins, notamment pour : authentifier des utilisateurs, se souvenir des préférences et des paramètres des utilisateurs, établir la popularité d'un contenu, délivrer et mesurer l'efficacité des campagnes publicitaires, analyser le trafic du site et les tendances et, d'une manière générale, comprendre les comportements en ligne et les intérêts des personnes qui interagissent avec les Services. Rendez-vous ici pour en apprendre davantage sur les types de cookies que nous utilisons, sur la manière dont nous les utilisons et sur vos moyens d'exercer vos choix.
+Uber et ses partenaires tiers utilisent des « cookies » et d'autres technologies de suivi (collectivement, les « Technologies de suivi »), y compris des Technologies de suivi tierces, sur les sites Web, applications, communications par e-mail, annonces et autres services en ligne d'Uber (collectivement, « Propriétés en ligne »). Ceux-ci sont utilisés pour permettre, améliorer, personnaliser et analyser l'utilisation des services d'Uber (les « Services ») et des Propriétés en ligne, ainsi qu'à des fins de publicité personnalisée.
 
-### Présentation des cookies et des technologies associées
+Le présent Avis décrit les Technologies de suivi que nous et nos partenaires utilisons, la manière dont nous les utilisons et vos choix concernant ces Technologies de suivi. Pour en savoir plus sur la collecte et l'utilisation des données personnelles par Uber, consultez notre [Déclaration de confidentialité de l'utilisateur](https://www.uber.com/legal/en/document/?country=united-states&lang=en&name=privacy-notice#kix.dzzjyotewir0).
 
-Les cookies sont de petits fichiers textes qui sont stockés dans votre navigateur ou votre appareil par les sites Web, les applications, les médias en ligne et les publicités, et utilisés pour mémoriser votre navigateur ou votre appareil durant et entre vos visites. Nous utilisons également d'autres technologies pouvant vous identifier ou identifier les appareils que vous utilisez. Par exemple, les « pixels espions » sont de petits blocs de code installés sur (ou appelés par) une page Web, une application ou une publicité qui peuvent récupérer certaines informations sur votre appareil ou votre navigateur, telles que : le type d'appareil, le système d'exploitation, le type et la version du navigateur, le site Web visité, l'heure de visite, le site Web référent, l'adresse IP, les identifiants de publicité et d'autres informations similaires comme le petit fichier texte (cookie) qui identifie l'appareil de façon unique. Les pixels fournissent les moyens par lesquels les tiers peuvent définir et lire des cookies HTTP à partir d'un domaine qu'ils n'exploitent pas eux-mêmes, et récolter des informations sur les visiteurs de ce domaine, en général avec la permission du propriétaire du domaine. Le « stockage local » fait généralement référence à un autre emplacement sur un navigateur ou un appareil, où les informations peuvent être stockées par des sites Web, des publicités ou des tiers (comme le stockage local HTML5 et le cache du navigateur). Les « kits de développement logiciel » (SDK) fonctionnent comme les pixels et les cookies, mais dans des contextes d'application mobile, ce qui n'est pas toujours le cas des pixels et des cookies. Le développeur original de l'application peut installer des morceaux de code (SDK) de partenaires dans l'application et ainsi autoriser ces partenaires à récolter certaines informations sur les interactions avec les utilisateurs, ainsi que sur leur appareil et sur le réseau.
+### Les technologies de suivi que nous utilisons
 
-### Synchronisation et pertinence des publicités
+Nous utilisons les Technologies de suivi suivantes aux fins décrites dans le présent Avis :
 
-Afin de proposer des publicités aussi pertinentes que possible, Uber travaille avec différents prestataires de services qui nous aident à fournir aux utilisateurs finaux des publicités similaires sur l'ensemble des appareils et plateformes. Par exemple, nous travaillons avec des services de publicité sur les réseaux sociaux afin de vous proposer des publicités pertinentes basées sur votre activité Uber via leurs canaux. Nous pouvons également avoir recours à des prestataires de services pour vous proposer, sur un site Web mobile ou une application mobile, des publicités similaires à celles d'un site Web traditionnel. Vous trouverez ci-dessous les choix dont vous disposez pour limiter ces types de publicités.
+Les «**cookies**» sont de petits fichiers texte qui sont placés et stockés dans votre navigateur lorsque vous visitez un site Web ou sur votre appareil lorsque vous utilisez une application. Ils peuvent être créés et placés par le site Web ou l'application que vous consultez (auquel cas ils sont appelés cookies « propriétaires »), ou par d'autres sites Web ou applications que celui que vous consultez (auquel cas ils sont référencés en tant que « cookies tiers »). Nous utilisons à la fois des « cookies de session », qui expirent lorsque vous fermez votre navigateur, et des « cookies persistants », qui expirent après une période définie (même si vous fermez votre navigateur).
+
+Les «**pixels invisibles**» (également appelés balises) sont de petits blocs de code placés sur des pages Web, des applications, des e-mails ou des annonces qui nous permettent d'identifier les utilisateurs lorsqu'ils fournissent nos Services et de suivre les interactions avec nos Sites en ligne.
+
+Les «**kits de développement logiciel**» (également appelés SDK pour Software Development Kits) sont des blocs de code dont les fonctionnalités sont similaires aux cookies et aux pixels invisibles, à l'exception des applications mobiles. Les SDK permettent à leurs développeurs de collecter des informations sur l'appareil et le réseau que vous utilisez pour accéder à nos applications, ainsi que sur votre interaction avec les nôtres.
+
+Le terme «**stockage local**» fait référence aux fichiers créés par des applications ou des sites Web, et stockés sur votre appareil ou votre navigateur. Ces fichiers fonctionnent de la même manière que les cookies.
+
+### Utilisation des technologies de suivi
+
+Le tableau suivant décrit les catégories de Technologies de suivi (y compris les cookies, les pixels invisibles, les SDK et les fichiers de stockage local) qui sont placées sur les Sites en ligne, les finalités pour lesquelles elles sont utilisées et si elles sont placées par Uber ou des tiers.  
+  
+La liste des tiers qui utilisent ces Technologies de suivi est susceptible d'évoluer et n'est peut-être pas exhaustive. En outre, les Technologies de suivi utilisées et les tiers qui les utilisent peuvent varier en fonction des juridictions et des Sites en ligne.
+
+Les données recueillies par des tiers via les Technologies de suivi qu'ils placent sur les Sites en ligne sont soumises aux déclarations de confidentialité de ces tiers. Pour plus d'informations sur leurs pratiques, cliquez sur les liens figurant dans le tableau ci-dessous.
+
+Sauf en ce qui concerne les Technologies de suivi strictement nécessaires, vous pouvez contrôler la façon dont nous utilisons les Technologies de suivi ci-dessous, comme décrit dans la section « Vos choix » du présent Avis.
+
+| **Catégorie de technologie de suivi** | **Objectifs** | **Placé par** |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+| **Strictement nécessaires** | Ils sont utilisés pour permettre et protéger votre utilisation des Services et des Sites en ligne d'Uber.<br><br>Par exemple, nous les utilisons pour vous permettre de vous connecter à votre compte Uber, de vous fournir l'expérience et les fonctionnalités appropriées, telles que les informations de votre compte et l'historique de vos courses, et d'activer et de conserver vos préférences de confidentialité concernant l'application ou le site Web.<br><br>Celles-ci sont dites « strictement nécessaires » ou « essentielles », car elles sont nécessaires à l'activation de nos Services et ne peuvent pas être désactivées. | Uber<br><br>[Tealium](https://tealium.com/privacy-notice/) |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+| **Fonctionnalité** | Ceux-ci sont utilisés pour fournir des fonctionnalités améliorées et personnalisées qui nous aident à fournir nos Services. Par exemple, Uber les utilise pour enregistrer vos paramètres et préférences afin de vous aider à vous connecter à votre compte en remplissant des champs à l'avance, et de vous proposer un contenu et une expérience personnalisés. | Uber |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+| **Analyses et performances** | Ces Technologies de suivi sont utilisées pour comprendre comment vous interagissez avec nos Services ou Propriétés en ligne et pour surveiller les performances de nos Propriétés en ligne. Ils nous aident également à analyser, améliorer et développer nos Services et nos publicités. Par exemple, les cookies peuvent nous aider à comprendre comment vous utilisez les fonctionnalités du site et à tester ces dernières en segmentant les publics. | [Google](https://tools.google.com/dlpage/gaoptout)<br><br>[Qualtrics](https://www.qualtrics.com/privacy-statement/)<br><br>[Fullstory](https://www.fullstory.com/optout/) |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+| **Publicité** | Nous utilisons les technologies de suivi pour afficher et mesurer l'efficacité des publicités personnalisées pour les Services Uber sur des applications ou des sites Web tiers, y compris sur les réseaux sociaux. Par exemple, nous utilisons les informations que nous recueillons via les technologies de suivi pour nous aider à afficher des publicités personnalisées pour Uber sur les réseaux sociaux et pour mesurer vos interactions avec ces publicités. Pour permettre cet affichage, nous pouvons partager certaines informations (telles que les données de votre navigateur et des cookies, ainsi que d'autres données relatives à votre utilisation de nos Services et de nos Sites en ligne) avec nos partenaires publicitaires.<br><br>Nous utilisons également des technologies de suivi pour afficher et mesurer l'efficacité des annonces personnalisées pour les produits et services d'autres entreprises sur les Sites en ligne d'Uber. Il s'agit notamment des SDK qui nous permettent, ainsi qu'à nos partenaires, d'analyser vos interactions avec nos Services et nos Propriétés en ligne. | Uber<br><br>[Google Analytics](https://tools.google.com/dlpage/gaoptout)<br><br>[Google SA360 Natural Floodlight](https://policies.google.com/technologies/partner-sites)<br><br>[Google Ads](https://policies.google.com/technologies/partner-sites)<br><br>[Google DoubleClick Floodlight](https://policies.google.com/technologies/partner-sites)<br><br>[Microsoft/Bing](https://account.microsoft.com/privacy/ad-settings/signedout?refd=www.bing.com&ru=https:%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%3Frefd%3Dwww.bing.com)<br><br>[Twitter](https://twitter.com/en/privacy)<br><br>[Facebook](https://www.facebook.com/help/109378269482053/?helpref=hc_fnav)<br><br>[LinkedIn](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=)<br><br>[Hotjar](https://help.hotjar.com/hc/en-us/articles/360045420794)<br><br>[Yahoo](https://legal.yahoo.com/us/en/yahoo/privacy/dashboard/index.html)<br><br>[Reddit](https://www.reddit.com/settings/privacy)<br><br>[Joveo](https://www.joveo.com/privacy-policy/)<br><br>[Atwave](https://atwave.com/privacy-policy)<br><br>[TikTok](https://www.tiktok.com/legal/page/us/privacy-policy/en?lang=en)<br><br>[Amazon](https://www.amazon.com/adprefs)<br><br>[Demandbase](https://www.demandbase.com/privacy/)<br><br>[Snap](https://help.snapchat.com/hc/en-us/articles/7012345515796-How-to-Adjust-My-Advertising-Interest-Preferences-on-Snapchat)<br><br>[iSpot TV](https://www.ispot.tv/privacy/opt-out)<br><br>[6sense](https://6sense.com/privacy-policy/)<br><br>[Pinterest](https://help.pinterest.com/en/article/personalization-and-data)<br><br>[Criteo](https://www.criteo.com/privacy/)<br><br>[Recruitics](https://www.recruitics.com/privacy-policy)<br><br>[Index Exchange](https://www.indexexchange.com/privacy/index-exchange-platform-cookie-notice/)<br><br>[Tremor Video](https://www.tremorvideo.com/privacy-policy/)<br><br>À destination des appareils mobiles :<br><br>[Google](https://policies.google.com/technologies/ads)<br><br>[Branch Metrics](https://branch.app.link/optout)<br><br>[Rokt](https://www.rokt.com/privacy-policy/#opt-out)<br><br>[Snap](https://help.snapchat.com/hc/en-us/articles/7012345515796-How-to-Adjust-My-Advertising-Interest-Preferences-on-Snapchat)<br><br>[Google Firebase](https://firebase.google.com/support/privacy)<br><br>[Singular](https://www.singular.net/privacy-policy/) |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
+| **Plugins de réseaux sociaux** | Ceux-ci sont définis par les services de réseaux sociaux et vous permettent de partager du contenu sur nos Sites en ligne via votre ou vos comptes de réseaux sociaux et/ou de partager facilement des informations avec d'autres personnes. | [Facebook](https://www.facebook.com/help/109378269482053/?helpref=hc_fnav)<br><br>[Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)<br><br>[Google](https://policies.google.com/technologies/ads) |
+| --- | --- | --- |
+|     |     |     |
+| --- | --- | --- |
 
 ### Vos choix
 
-Vous avez le droit de choisir d'accepter ou non les cookies. Cependant, vous devez savoir qu'ils jouent un rôle important dans le fonctionnement de nos Services. Par conséquent, si vous refusez ou supprimez des cookies, cela pourrait affecter la disponibilité et le fonctionnement des Services.
+Vous pouvez contrôler la façon dont Uber et ses partenaires tiers utilisent des technologies de suivi non essentielles sur nos Sites en ligne comme suit :
 
-La plupart des navigateurs Web sont paramétrés pour accepter les cookies par défaut. Si vous le souhaitez, vous pouvez choisir de paramétrer votre navigateur pour supprimer ou rejeter des cookies. Pour cela, reportez-vous aux instructions fournies par votre navigateur, généralement disponibles dans le menu « Aide » ou « Préférences ». Certains tiers offrent également la possibilité de refuser leurs cookies directement en cliquant sur un lien de désinscription. Vous trouverez plus de détails sur cette possibilité dans le tableau ci-dessous.
+#### A. Technologies de suivi des sites Web
 
-Pour plus d'informations sur les cookies, et notamment pour connaître les cookies qui ont été installés sur votre appareil et savoir comment les gérer ou les supprimer, rendez-vous sur [https://www.youradchoices.com/](https://www.youradchoices.com/) ou [https://www.youronlinechoices.eu](https://www.youronlinechoices.eu/) pour les visiteurs européens.
+Selon votre pays, une « bannière de cookie » peut s'afficher lorsque vous visitez nos sites Web, qui divulgue notre utilisation des technologies de suivi et vous permet d'accepter ou de refuser des technologies de suivi non essentielles. Veuillez noter que le refus de Technologies de suivi non essentielles peut limiter la disponibilité et les fonctionnalités de nos Services.
 
-Pour les utilisateurs mobiles, certains paramètres du système d'exploitation de votre appareil vous permettent d'autoriser ou non les cookies et de partager votre identifiant de publicité avec des entreprises comme Uber ou nos prestataires de services de publicité. Pour plus d'informations à propos du paramétrage de vos choix sur votre appareil mobile, rendez-vous sur [https://www.networkadvertising.org/mobile-choices](https://www.networkadvertising.org/mobile-choices)
+#### B. Paramètres du navigateur
 
-Pour vous aider à contrôler ou à bloquer certaines publicités dans vos applications mobiles, vous pouvez télécharger et utiliser l'[application mobile DAA](https://www.youradchoices.com/appchoices).
+Votre navigateur peut vous permettre de refuser les cookies. Pour cela, reportez-vous aux instructions fournies par votre navigateur, généralement disponibles dans le menu « Aide » ou « Préférences ».
 
-### Types de cookies et leurs finalités
+#### C. Liens de désinscription de tiers
 
-Le tableau suivant répertorie les différentes catégories de cookies que nos services utilisent et les raisons pour lesquelles nous nous en servons. Les listes de fournisseurs de cookies tiers sont données à titre indicatif et ne doivent pas être considérées comme exhaustives.
+Certains fournisseurs tiers de technologies de suivi vous permettent de refuser leurs technologies de suivi à l'aide d'un lien de désinscription. Le cas échéant, nous avons fourni ces liens de désinscription dans le tableau ci-dessus.
 
-|     |     |     |
-| --- | --- | --- |
-| **Types de cookies** | **Finalité** | **Exemples de fournisseurs** |
-| **Strictement nécessaires** | Ces cookies (y compris leur stockage local et les technologies similaires) sont essentiels à votre utilisation du site ou des Services, notamment à l'accès à votre compte, car ils nous permettent de vous proposer l'expérience et les fonctionnalités appropriées, telles que les informations de votre compte ainsi que l'historique de vos courses, et de modifier les paramètres de votre compte. Ils peuvent également assurer l'authentification, contribuer à la sécurité du site et faciliter la localisation de la langue d'affichage en fonction de la zone géographique correspondant à votre visite. | * Uber<br>* Tealium |
-| **Fonctionnalités du site et Services** | Ils permettent des fonctionnalités grâce auxquelles nous vous proposons des produits et des Services. En préremplissant les champs, les cookies vous aident par exemple à vous connecter. Nous pouvons également utiliser des cookies et des technologies similaires afin de vous fournir, à vous et à d'autres personnes, des plug-ins sociaux ainsi que d'autres expériences et contenus personnalisés, en vous faisant par exemple des suggestions. | * Uber<br>* [Facebook](https://www.facebook.com/help/109378269482053/?helpref=hc_fnav)<br>* [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)<br>* [Google](https://policies.google.com/technologies/ads) |
-| **Analyse, performances et recherche** | Ils servent à analyser, améliorer et rechercher des produits et Services, y compris lorsque vous accédez au site Web d'Uber ainsi qu'aux applications et sites Web associés depuis un ordinateur ou un appareil mobile. Par exemple, les cookies peuvent nous aider à comprendre comment vous utilisez les fonctionnalités du site et à tester ces dernières en segmentant les publics. Nos partenaires et nous-mêmes pouvons exploiter ces technologies et les informations que nous recevons afin d'améliorer et de mieux analyser votre utilisation des sites Web, applications, produits, services et publicités. | * Google<br>* Optimizely<br>* Qualtrics |
-| **Publicité** | Ces cookies et pixels sont utilisés pour proposer des publicités pertinentes, ainsi que pour suivre les performances et l'efficacité des campagnes publicitaires ou des opérations marketing effectuées par e-mail. Par exemple, nos partenaires publicitaires et nous-mêmes pouvons utiliser les informations recueillies grâce à ces cookies afin de vous proposer des publicités susceptibles de vous intéresser sur d'autres sites Web. De même, nos partenaires peuvent utiliser un cookie, un service d'attribution ou une autre technologie similaire pour vérifier si nous avons diffusé une publicité et évaluer ses performances, ou pour obtenir des informations sur la façon dont vous interagissez avec eux. | * Uber<br>* [Google](https://policies.google.com/technologies/ads)<br>* [Facebook](https://www.facebook.com/help/109378269482053/?helpref=hc_fnav)<br>* [Instagram](https://www.facebook.com/help/instagram/2885653514995517)<br>* [Mediamath](http://www.mediamath.com/ad-choices-opt-out/)<br>* [Verizon/AOL/Yahoo](https://www.verizonmedia.com/policies/us/en/verizonmedia/privacy/dashboard/index.html)<br>* [Twitter](https://help.twitter.com/en/rules-and-policies/twitter-cookies)<br>* [LinkedIn](https://www.linkedin.com/psettings/guest-controls/retargeting-opt-out?trk=)<br>* [Outbrain](https://www.outbrain.com/legal/privacy#the_site)<br>* [Microsoft/Bing](https://account.microsoft.com/privacy/ad-settings/signedout?refd=www.bing.com&ru=https:%2F%2Faccount.microsoft.com%2Fprivacy%2Fad-settings%3Frefd%3Dwww.bing.com)<br>* [Quantcast](https://www.quantcast.com/opt-out/)<br>* [Moat](https://moat.com/privacy)<br>* [Liveramp](https://liveramp.com/opt_out/)<br>* [Indeed](https://www.indeed.com/legal#indeedTargetedAdsTerms)<br>* [Snap](https://support.snapchat.com/en-US/a/advertising-preferences) |
-| **À destination des appareils mobiles** | Ces fournisseurs de services utilisent diverses technologies pour proposer des publicités pertinentes, ainsi que pour suivre les performances et l'efficacité des campagnes publicitaires ou des opérations marketing effectuées via un appareil mobile. | * [Google](https://policies.google.com/technologies/ads)<br>* [Branch](https://branch.app.link/optout) |
+#### D. Choix du système d'exploitation
 
-#### 
+Vous pouvez choisir la manière dont nous utilisons les technologies de suivi sur votre appareil mobile en fonction des choix proposés par le système d'exploitation de votre appareil.
 
-### Contactez-nous
+Pour les utilisateurs d'iOS, Uber fournit une déclaration de confidentialité de l'application située dans l'App Store d'iOS, qui décrit comment Uber peut, avec votre autorisation, suivre vos activités sur les applications, les sites Web ou les propriétés hors ligne d'autres entreprises à des fins de publicité ciblée ou de mesure. Si vous autorisez Uber à « Autoriser le suivi » via iOS, Uber sera autorisé à suivre vos activités, comme décrit dans la Déclaration de confidentialité de l'application. Pour modifier ce paramètre sur votre appareil iOS, accédez à Paramètres/Confidentialité/Suivi et utilisez les boutons associés aux applications Uber.
 
-Si vous souhaitez en savoir plus ou poser des questions au sujet de notre utilisation des cookies, consultez la section de la FAQ intitulée « Questions juridiques, de confidentialité et autres » [ici](https://help.uber.com/h/e1f427a1-c1ab-4c6a-a78a-864f47877558).
+Pour les appareils mobiles Android, Uber fournit une déclaration de « Sécurité des données » sur le Google Play Store, qui inclut les données partagées, les données collectées et les pratiques de sécurité. Vous trouverez l'Avis de sécurité des données pour l'application Android Uber Rides [ici](https://play.google.com/store/apps/datasafety?id=com.ubercab)et l'Avis de sécurité des données pour l'application Android Uber Eats [ici](https://play.google.com/store/apps/datasafety?id=com.ubercab.eats). Vous pouvez contrôler si des tiers peuvent suivre vos activités et la façon dont ils peuvent suivre vos activités en modifiant ou en supprimant l'identifiant publicitaire de votre appareil Android. Pur cela, rendez-vous dans les Paramètres/Confidentialité/Annonces et sélectionnez « Réinitialiser l'identifiant publicitaire » ou « Supprimer l’identifiant publicitaire ».
+
+#### E. Paramètres Uber relatifs au partage et à la collecte de données pour les annonces
+
+Vous pouvez choisir si Uber peut partager vos données avec des tiers (tels que des partenaires publicitaires) ou collecter des données concernant vos interactions avec des applications et des sites Web tiers à des fins de publicité personnalisée [ici](https://privacy.uber.com/privacy/ads?show_header=true).
+
+Si vous résidez aux États-Unis, vous pouvez également vous désinscrire de la « vente » ou du « partage » de vos données personnelles à des fins publicitaires personnalisées [ici](https://privacy.uber.com/privacy/california) ou en communiquant vos préférences de désinscription via votre navigateur Web à l'aide de Global Privacy Control (GPC).
+
+### Plus d’informations
+
+Pour plus d'informations sur les cookies, et notamment pour connaître les cookies qui ont été installés sur votre appareil et savoir comment les gérer ou les supprimer, rendez-vous sur [http://youradchoices.com/](http://youradchoices.com/) ou [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) pour les visiteurs européens.
+
+Si vous souhaitez en savoir plus ou poser des questions au sujet de notre utilisation des cookies, consultez la section de la FAQ intitulée « Questions juridiques, de confidentialité et autres » [ici](https://help.uber.com/riders/section/data-and-privacy?nodeId=8e6d6912-6614-4c62-a39c-1db528ae1bf8).
+
+### Mises à jour de cette déclaration
+
+Nous pouvons mettre à jour cette déclaration de manière occasionnelle. Nous vous recommandons de consulter cette page de temps à autre pour obtenir des informations à jour concernant notre utilisation des technologies de suivi.
