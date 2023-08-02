@@ -53,4 +53,4 @@ Cette politique en matière de cookies a été mise à jour pour la dernière fo
 6\. Des questions supplémentaires concernant notre Politique en matière de cookies ?
 ------------------------------------------------------------------------------------
 
-Si vous avez des questions concernant notre Politique en matière de cookies, n’hésitez pas à nous contacter par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection)
+Si vous avez des questions concernant notre Politique en matière de cookies, n’hésitez pas à nous contacter par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
