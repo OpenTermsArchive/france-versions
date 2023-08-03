@@ -63,7 +63,7 @@ Si vous souhaitez vous opposer spécifiquement au partage à Valiuz de vos donn�
   
 
 * Paramétrer votre opposition depuis votre [compte](http://account.decathlon.com/) dans le menu Paramètres/Utilisation des données/Partage avec Valiuz
-* Nous envoyer un email à l’adresse [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection)
+* Nous envoyer un email à l’adresse [non\_a\_valiuz@decathlon.com](mailto:non_a_valiuz@decathlon.com)
 * Vous opposer en cliquant dans le lien prévu en bas des emails commerciaux qui ont pu vous être adressés
 * Supprimer le cookie VALIUZ (« cookie publicitaire ») en paramétrant vos cookies
 * Vous pouvez de plus refuser que les publicités diffusées sur les sites tiers soient personnalisées en refusant les cookies publicitaires déposés par ces sites.
@@ -533,7 +533,7 @@ Nous conservons vos données liées à votre candidature durant une période de 
 
 Vos droits
 
-Vous pouvez consulter, rectifier voire effacer vos données personnelles. Il vous suffit d'envoyer un email à Stéphanie à cette adresse : [\[email protected\]](https://www.decathlon.fr/cdn-cgi/l/email-protection)  
+Vous pouvez consulter, rectifier voire effacer vos données personnelles. Il vous suffit d'envoyer un email à Stéphanie à cette adresse : JoinUs@decathlon.com  
 [Plus d’informations sur vos droits](https://www.decathlon.fr/donnees-personnelles.html#savoirdroits)
 
 Destinataires des données
