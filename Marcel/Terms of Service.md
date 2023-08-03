@@ -156,7 +156,15 @@ Le tarif proposé pour chaque Réservation est fixé par Marcel à chaque Course
 
 En tout état de cause, le montant total du prix de la Course est fixé préalablement à celle-ci. Il peut varier au cours de la Course conformément aux stipulations ci-dessous.
 
-### 6.2 Modification du prix d’une Réservation une fois la Course achevée
+### 6.2 Options payantes
+
+* Accueil personnalisé : option payante à hauteur de 10€ à l’aéroport.
+* Option siège bébé / réhausseur : option payante à hauteur de 10€/ siège bébé / réhausseur. Si vous ne possédez pas de siège enfant lors de votre trajet, le chauffeur sera susceptible de refuser de vous prendre en charge. Le trajet pourra être annulé et des frais d’annulation seront facturés pour dédommager le chauffeur.
+* Option chiens de moyennes tailles : option payante à hauteur de 20€ / chien
+
+Pour profiter des options payantes mises en place par Marcel, vous devez impérativement faire la demande 24h avant le début de votre course par email à l’adresse [contact@marcel.cab](mailto:contact@marcel.cab) (du lundi au vendredi de 9h30 à 17h30) ou appeler notre service client au [01 70 95 14 15](tel:0170951415) disponible 24h/24 et 7j/7. Toute demande réalisée par un autre canal ou après ce délai, ne sera pas prise en compte.
+
+### 6.3 Modification du prix d’une Réservation une fois la Course achevée
 
 Le prix d’une Course peut être différent du prix initialement proposé pour une Réservation lorsque le Client modifie les caractéristiques d’une Réservation avant l’heure de prise en charge ou d’une Course pendant celle-ci, par exemple dans les cas suivants :
 
@@ -164,7 +172,7 @@ Le prix d’une Course peut être différent du prix initialement proposé pour 
 * le Client ajoute une étape intermédiaire à la Course ;
 * le Client modifie la destination initialement choisie.
 
-### 6.3 Pénalités dues en cas de dégradations
+### 6.4 Pénalités dues en cas de dégradations
 
 En cas de dégradations du véhicule du Partenaire imputable au Client, le prestataire de services de paiement de Marcel pourra prélever pour le compte du Partenaire un montant forfaitaire de 100 € TTC en cas de salissure ou un montant correspondant aux frais de réparation ou de remise en état du véhicule sur la base des justificatifs présentés par le Partenaire (par exemple, des frais de nettoyage).
 
