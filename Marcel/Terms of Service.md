@@ -164,7 +164,7 @@ Le prix d’une Course peut être différent du prix initialement proposé pour 
 * le Client ajoute une étape intermédiaire à la Course ;
 * le Client modifie la destination initialement choisie.
 
-### 6.2 Pénalités dues en cas de dégradations
+### 6.3 Pénalités dues en cas de dégradations
 
 En cas de dégradations du véhicule du Partenaire imputable au Client, le prestataire de services de paiement de Marcel pourra prélever pour le compte du Partenaire un montant forfaitaire de 100 € TTC en cas de salissure ou un montant correspondant aux frais de réparation ou de remise en état du véhicule sur la base des justificatifs présentés par le Partenaire (par exemple, des frais de nettoyage).
 
