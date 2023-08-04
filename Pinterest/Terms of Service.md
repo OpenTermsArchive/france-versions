@@ -244,4 +244,4 @@ En d'autres termes :
 
 Selon l'endroit où vous vivez, vous n'interagirez pas avec les mêmes personnes.
 
-En vigueur à 1er août 2023
+En vigueur dès le 1er août 2023
