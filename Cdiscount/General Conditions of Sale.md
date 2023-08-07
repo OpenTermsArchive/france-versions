@@ -1593,7 +1593,7 @@ Le Client s’engage à ne pas porter atteinte aux marques et / ou logo et /ou �
 
 **7.**          **RECLAMATION**
 
-Toute réclamation liée à l’utilisation du Service doit être faite par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org.  
+Toute réclamation liée à l’utilisation du Service doit être faite par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier ��lectronique à l’adresse suivante : contact@unriencesttout.org.  
   
            **8.     DROIT DE RETRACTATION**           
   
