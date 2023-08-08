@@ -518,7 +518,7 @@ Air Europa rembourse tout billet ou partie de billet non utilisé conformément 
 
 (e) Les passagers auront droit au remboursement des taxes imposées par les gouvernements ou autres autorités ou exploitants de l'aéroport correspondant à la partie du billet non utilisé , sauf si celles-ci ont déjà été réglées ou doivent être réglées, malgré la non-utilisation ou usage, auxdits gouvernements, autorités ou exploitants de l'aéroport. Les remboursements ne seront effectués qu'à la demande des passagers par le transporteur qui a initialement émis le billet ou par son agent, s'il est autorisé à le faire.
 
-(f) Tout remboursement, y compris celui des taxes visées au paragraphe e), sauf en cas de remboursement involontaire ou de tout autre remboursement pour des causes expressément prévues dans la législation en vigueur, sera soumis au règlement de frais dont le montant sera mis à la disposition du passager par Air Europa ou ses Agents Autorisés.
+(f) Tout remboursement, y compris celui des taxes visées au paragraphe e), sauf en cas de remboursement involontaire ou de tout autre remboursement pour des causes expressément prévues dans la législation en vigueur, sera soumis au règlement de frais (18€/billet).
 
 (g) Air Europa, sous réserve de la législation applicable sur chaque territoire, peut proposer au passager, en remplacement du remboursement, le changement de réservation du billet ou l'émission d'un bon ou d'un avoir, notamment lorsque le droit à remboursement résulte de circonstances exceptionnelles indépendantes du contrôle de la compagnie telles qu'un cas fortuit ou de force majeure.
 
