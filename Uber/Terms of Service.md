@@ -1,4 +1,4 @@
-Date de modification: 09/08/2022
+Date de modification: 09/08/2023
 
   
 
@@ -18,7 +18,7 @@ Date de modification: 16 août 2022
 
 **À PROPOS DE NOUS** 
 
-Nous sommes Uber B.V., société à responsabilité limitée établie aux Pays-Bas au capital de 1 euros, immatriculée à la Chambre de commerce d’Amsterdam sous le numéro 56317441 et ayant ses bureaux à Meester Treublaan 7, 1097 DP Amsterdam (Pays-Bas). Vous pouvez nous contacter sur help.uber.com. Le numéro d’identification à la TVA de la société est NL852071589B01.
+Nous sommes Uber B.V., société à responsabilité limitée établie aux Pays-Bas au capital de 1 euros, immatriculée à la Chambre de commerce d’Amsterdam sous le numéro 56317441 et ayant ses bureaux à Burgerweeshuispad 301, 1076 HR Amsterdam (Pays-Bas). Vous pouvez nous contacter sur help.uber.com. Le numéro d’identification à la TVA de la société est NL852071589B01.
 
 **DÉFINITIONS**
 
