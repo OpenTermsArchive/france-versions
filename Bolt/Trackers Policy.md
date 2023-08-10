@@ -23,7 +23,7 @@ Your consent ID: 0Consent date:
 
   
 
-Cookie declaration last updated on 09/07/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Cookie declaration last updated on 09/08/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
 Necessary (44)
 
@@ -33,14 +33,14 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | Name | Provider | Purpose | Expiry | Type |
 | --- | --- | --- | --- | --- |
 | \_\_cf\_bm \[x5\] | bolt.eu  <br>static.bolt.eu  <br>support.taxify.eu  <br>fleets.bolt.eu  <br>[Vimeo](https://vimeo.com/features/video-privacy "Vimeo's privacy policy") | This cookie is used to distinguish between humans and bots. This is beneficial for the website, in order to make valid reports on the use of their website. | 1 day | HTTP Cookie |
-| \_\_cfruid \[x3\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>[Medium](https://medium.com/policy/medium-privacy-policy-f03bf92035c9 "Medium's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
+| \_\_cfruid \[x2\] | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy")  <br>support.taxify.eu | This cookie is a part of the services provided by Cloudflare - Including load-balancing, deliverance of website content and serving DNS connection for website operators. | Session | HTTP Cookie |
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | Pending | Persistant | HTML Local Storage |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | Pending | Persistant | HTML Local Storage |
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
-| CookieConsent \[x18\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| CONSENT \[x2\] | [Google](https://policies.google.com/privacy "Google's privacy policy")  <br>[YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | 2 years | HTTP Cookie |
+| CookieConsent \[x18\] | bestbreakups.com  <br>[Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")  <br>boltfood.formaloo.net  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.food.bolt.eu | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
-| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Determines whether the visitor has accepted the cookie consent box. This ensures that the cookie consent box will not be presented again upon re-entry. | 1 year | HTTP Cookie |
 | platform-viewer | [Wix](https://www.wix.com/about/privacy "Wix's privacy policy") | Preserves the visitor's session state across page requests. | Session | Pixel Tracker |
@@ -52,7 +52,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | XSRF-TOKEN | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | ZD-suid | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "Zendesk's privacy policy") | Unique id that identifies the user's session. | Persistent | HTML Local Storage |
 
-Preferences (12)
+Preferences (9)
 
 Preference cookies enable our website to remember information that changes the way it behaves or looks, e.g. your preferred language or the region that you’re in.
 
@@ -62,7 +62,7 @@ Preference cookies enable our website to remember information that changes the w
 | @@scroll# | bolt.eu | Pending | Session | HTML Local Storage |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | 1 day | HTTP Cookie |
-| CookieConsentBulkSetting-# \[x5\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | 1 year | HTML Local Storage |
+| CookieConsentBulkSetting-# \[x2\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy") | Enables cookie consent across multiple websites | 1 year | HTML Local Storage |
 | iso\_code | static.tildacdn.com | The cookie determines the preferred language and country-setting of the visitor - This allows the website to show content most relevant to that region and language. | Persistent | HTML Local Storage |
 | taxifyDriverPortal\_locale | partners.bolt.eu | Pending | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
@@ -105,7 +105,7 @@ Statistic cookies help us understand how you interact with our website by collec
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
 | ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (49)
+Marketing (59)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -150,6 +150,16 @@ Marketing cookies are used to track visitors across our website. The intention i
 | tt\_pixel\_session\_index | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_sessionId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
+| yt.innertube::nextId | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| yt.innertube::requests | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
+| ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-cast-available | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-cast-installed | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-connected-devices | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-device-id | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Persistent | HTML Local Storage |
+| yt-remote-fast-check-period | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-app | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
+| yt-remote-session-name | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
 
 Unclassified (2)
 
