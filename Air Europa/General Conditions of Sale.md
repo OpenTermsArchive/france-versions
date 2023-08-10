@@ -12,7 +12,7 @@ Conditions générales
 * Si vous êtes résident et que la vérification (à travers le Système de certification de résident automatique du Ministère du développement) n'a pas abouti, vous devez présenter les justificatifs nécessaires lors de l'enregistrement ainsi qu'à la porte d'embarquement : si vous ne pouvez pas prouver votre statut de résident, vous devez acheter un nouveau billet.
 * Air Europa se réserve le droit de demander les documents que vous avez inclus dans votre réservation afin de vérifier l'authenticité des données.
 * En raison de l'augmentation des formalités de sécurité aéroportuaire et afin de garantir la ponctualité du vol, le délai limite d'acceptation à l'enregistrement à partir du 1er mars 2006 sera de **60 minutes** avant le départ prévu pour les vols intercontinentaux et de **45 minutes** pour tous les vols nationaux et européens.
-* Pour consulter la franchise de bagages qui vous est autorisée, accédez à notre rubrique [BAGAGES](http://www.aireuropa.com/es/fr/aea/informacion-para-volar/equipaje.html).
+* Pour consulter la franchise de bagages qui vous est autorisée, accédez à notre rubrique [BAGAGES](https://www.aireuropa.com/fr/fr/aea/informations-pour-voler/bagages.html).
 
 #### 
 
@@ -38,142 +38,30 @@ Conditions de réservation
 
 #### 
 
-Conditions tarifs des vols intérieurs
+Conditions tarifaires
 
-**Tarifs BUSINESS FLEX**
-
-* Modifications d'heure ou de date autorisés avant le départ sans majoration, sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées avant le départ en classe J/C.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs BUSINESS STANDARD**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 60 €/USD par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations non autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs FLEX**
-
-* Modifications d'heure ou de date sans pénalité sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs ECONOMY STANDARD**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 45 €/USD par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations NON autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs LITE**
-
-* Modifications autorisées en versant une pénalité de 60 €/USD plus la différence de tarif si elle existe.
-* Annulations NON autorisées.
+Consultez les conditions et les frais [ici](https://www.aireuropa.com/fr/fr/aea/aexperience/nos-tarifs.html). 
 
 #### 
 
-Conditions tarifaires vols inter-îles
+Conditions applicables aux services supplémentaires
 
-**Tarifs A, Q, P, T**
+CONDITIONS
 
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 45 € par passager et trajet sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées en versant une pénalité à partir de 50 €.
-* Non remboursable en cas de non-utilisation du billet.
-* Sujet à des frais d'émission éventuels.
+L'utilisation de tout service est personnelle et non transférable.
 
-**Tarifs Y, B, S, R, U**
+CHANGEMENTS
 
-* Modifications d'heure ou de date autorisées sans pénalité sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations et remboursements autorisés.
-* Sujet à des frais d'émission éventuels.
+Les services supplémentaires souscrits ne peuvent pas être modifiés, sauf dans les cas suivants :
 
-#### 
+* En cas de changement de la part d'Air Europa, le service souscrit pourra être échangé, sans frais, contre un service équivalent ou de catégorie inférieure en l'absence de disponibilité d'un service présentant les caractéristiques initialement souscrites.
 
-Conditions tarifaires vols Europe et Afrique
+REMBOURSEMENTS
 
-**TARIFS BUSINESS FLEX**
+Les services souscrits ne sont pas remboursables, sauf dans les cas suivants :
 
-* Modifications d'heure ou de date autorisés avant le départ sans majoration, pour autant que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées avant le départ en classe J/C.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs BUSINESS STANDARD**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 60 €/USD par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations non autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs FLEX**
-
-* Modifications d'heure ou de date sans pénalité sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs ECONOMY STANDARD**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 45 €/USD par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations NON autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs LITE**
-
-* Modifications autorisées en versant une pénalité de 60 €/USD plus la différence de tarif si elle existe.
-* Annulations NON autorisées.
-
-#### 
-
-Conditions tarifs vols transocéaniques
-
-**Tarifs BUSINESS FLEX**
-
-* Modifications d'heure ou de date sans pénalité sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées en classe J/C.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs Business standard**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 175 € (ou 200 USD) par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations non autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs FLEX**
-
-* Modifications d'heure ou de date sans pénalité sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations autorisées.
-* Sujet à des frais d'émission éventuels.
-
-**Tarifs ECONOMY STANDARD/LITE**
-
-* Modifications d'heure ou de date autorisés avant le départ en versant une pénalité à partir de 150 € (ou 175 USD) par passager sous réserve que des places soient disponibles sur le même tarif. En cas de modifications sur un tarif différent, la différence, si elle existe, doit être versée.
-* Les modifications peuvent être effectuées dans n'importe quel [Bureau de vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa à l'aéroport, en appelant le [Service après-vente](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) d'Air Europa ou via le [site Web](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html).
-* Modifications de nom et d'itinéraire non autorisées.
-* Annulations NON autorisées.
-* Sujet à des frais d'émission éventuels.
+* En cas de changement de la part d'Air Europa et de l'impossibilité de fournir un service conforme aux conditions initialement souscrites.
+* Les remboursements seront toujours effectués en utilisant le même moyen de paiement que celui employé pour l'achat.
 
 #### 
 
@@ -194,52 +82,3 @@ Le certificat de résidence doit être émis selon le modèle défini à l'annex
 * Dans le cas des ressortissants non communautaires : certificat d'inscription au registre de la commune pour voyage émis par la Mairie, ainsi que la carte de résident espagnol sur laquelle doit figurer leur condition de proche d'un ressortissant de l'UE ou de résident longue durée ou permanent.
 * Dans tous les cas, espagnols ou étrangers, les passagers devront présenter leur document justificatif aux comptoirs d'enregistrement ainsi qu'à la porte d'embarquement, faute de quoi ils ne pourront pas utiliser le billet avec la réduction appliquée et ils devront acheter un nouveau billet.
 * Ces documents ne sont efficaces aux fins de prouver la résidence que lorsqu'ils sont en vigueur.
-
-#### 
-
-Conditions de sélection des sièges
-
-**Conditions**
-
-* La réservation du siège moyennant le paiement préalable est facultative et soumise à la disponibilité des sièges au moment de la demande et s'applique uniquement sur les vols opérés par Air Europa et Air Europa Express aux passagers individuels détenant un billet d'avion préalablement émis.
-* Le droit d'utilisation du siège sélectionné n'est pas unilatéralement transférable d'un passager à un autre.
-
-**Modifications**
-
-* Les modifications des sièges sélectionnés sont autorisées à condition que le tarif du billet d'avion payé par le client les autorise. Si le passager, conformément aux conditions dudit tarif, décide de changer de vol, il pourra choisir un siège équivalent (normal ou XL) sur le nouveau vol. Cependant, s'il n'y a pas de siège équivalent, le montant versé ne sera pas remboursé.
-* Une fois réalisés la sélection du siège et le paiement du service, le passager aura le droit de modifier la sélection du siège pour le même vol jusqu'à 4 heures avant le départ prévu de celui-ci, et devra demander ce service à travers le [Centre d'assistance client](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) ou en s'adressant au comptoir d'enregistrement de l'aéroport.
-
-**Remboursements**
-
-* Les frais du service de sélection de siège ne sont pas remboursables, sauf dans les circonstances suivantes :
-* Il y a un changement d'avion de la part d'Air Europa et celle-ci ne peut fournir un siège alternatif conformément aux conditions souscrites par le passager.
-* Il y a une interruption du vol exigeant un changement d'avion et Air Europa ne peut fournir un siège alternatif conformément aux conditions souscrites par le passager.
-* Lorsque le passager a sélectionné un siège au niveau des issues de secours et une contrainte lui empêche de l'occuper.
-* Les remboursements seront toujours réalisés en utilisant le même moyen de paiement que celui employé pour la réservation du siège.
-
-**Sièges XL**
-
-* Les sièges XL (ou Extra Large) sont plus spacieux et confortables et offrent plus d’espacement entre les jambes et le siège avant. Le reste des sièges disposent d'une distance de confort normale.
-* Pour consulter les Tarifs de ce service, veuillez accéder à cette **[rubrique](http://www.aireuropa.com/es/fr/aea/aexperience/servicios.html)**.
-
-#### 
-
-Conditions applicables à l'embarquement prioritaire
-
-* Air Europa propose un service qui vous offre, moyennant le paiement préalable du tarif correspondant mis à la disposition du passager sur le site web, la possibilité d'embarquer en priorité avant l'arrivée des autres passagers n'ayant pas souscrit ce service. Ce droit est établi sans préjudice du droit à l'embarquement prioritaire détenu par les passagers voyageant en classe affaires ou détenant la carte SUMA Gold ou Platinum.
-* Ce service n'est pas remboursable.
-* Le service d'Embarquement prioritaire est disponible lors de l'enregistrement en ligne.
-* L'utilisation du service n'est pas transférable d'un passager à un autre. Les modifications du service d'Embarquement prioritaire sont autorisées à condition que le tarif du billet d'avion payé par le client les autorise. Si le passager, conformément aux conditions dudit tarif décide de changer de vol et sur ce vol ce service n'est pas disponible, le montant versé sera remboursé.
-* Si le client souhaite réaliser un deuxième changement, il devra payer la pénalité correspondante au tarif.
-
-#### 
-
-Conditions applicables aux bagages supplémentaires
-
-Air Europa vous offre la possibilité de réserver des bagages supplémentaires que vous ayez un bagage inclus ou que vous ayez bénéficié d'un tarif sans bagage. Vous pouvez consulter votre franchise de bagages [ici](http://www.aireuropa.com/es/fr/aea/informacion-para-volar/equipaje.html) et vérifier s'il existe une limite de bagages supplémentaires pour votre vol.
-
-* Vous pouvez souscrire des bagages supplémentaires jusqu'à 2 h avant le départ de votre vol au cours du processus d'achat ou depuis la page de [gestion de la réservation](http://www.aireuropa.com/es/fr/aea/gestiona-tu-reserva.html) en saisissant le numéro de réservation et le(s) nom(s) du passager ainsi qu'à travers notre [service client](http://www.aireuropa.com/es/fr/aea/atencion-al-cliente.html) en appelant le +34 911 401 501 ou si vous préférez, vous pouvez nous contacter à travers les profils de nos réseaux sociaux sur [Facebook](https://www.facebook.com/AirEuropa/) ou [Twitter](https://twitter.com/AirEuropa).
-* Les prix des bagages supplémentaires sur les vols intérieurs sont à partir de 30 € ou 15 € dans le cas des résidents des Îles Baléares ou des Îles Canaries.
-* Sur tous les vols long-courriers d'Air Europa, vous pouvez demander des bagages supplémentaires à partir de 100 € si vous réalisez votre demande à travers le canal en ligne.
-* Les bagages supplémentaires souscrits ne sont pas remboursables.
-* Les pièces supplémentaires souscrites doivent peser un maximum de 23 kg et si elles dépassent ce poids, vous devrez payer l'excédent de bagages de cette valise à l'aéroport. Dans tous les cas, le poids maximal autorisé est de 32 kg. Aucun bagage ne peut peser plus de 32 kg. Si cette limite est dépassée, le poids excédent devra être emballé dans un nouveau bagage soumis au prix de l'excédent de bagages correspondant.
