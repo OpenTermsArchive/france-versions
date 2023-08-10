@@ -7,30 +7,30 @@ Cette page comprend l’ensemble des engagements pris par VERTBAUDET pour proté
 DEFINITIONS
 -----------
 
-**Client :** acheteur en magasins, via le Site et ce compris via la Marketplace.  
+**Client :** désigne toute personne non commerçante inscrite qui achète des produits auprès de Vertbaudet ou d’un Vendeur via la Marketplace.  
   
-**Co-responsable de traitement :** RGPD  
+**Co-responsable de traitement :** Lorsque deux responsables du traitement ou plus déterminent conjointement les finalités et les moyens du traitement, ils sont les responsables conjoints du traitement. (Art 26 – RGPD)  
   
-**Marketplace :** plateforme mettant en relation Utilisateurs et Vendeurs  
+**Marketplace :** désigne la plateforme en ligne accessible à l’adresse suivante : https://www.vertbaudet.fr/ et constituée des pages web, Services et fonctionnalités proposés aux Utilisateurs  
   
-**Responsable de traitement :** RGPD  
+**Responsable de traitement :** Au sens du RGPD, le responsable de traitement est la personne morale (entreprise, commune, etc.) ou physique qui détermine les finalités et les moyens d’un traitement.  
   
-**Site :** Site internet incluant la Marketplace.  
+**Site :** désigne le site internet de VERTBAUDET, au sein duquel la MARKETPLACE VERTBAUDET est intégrée, accessible à partir de l’adresse https://www.vertbaudet.fr/.  
   
-**Sous-traitant :** RGPD  
+**Sous-traitant :** Au sens du RGPD, le sous-traitant est une personne qui réalise des traitements de données à caractère personnel sous l'autorité et sur instruction du responsable du traitement.  
   
-**Utilisateur :** tout personne naviguant sur le Site, acheteur, vendeur, ou simple visiteur.  
+**Utilisateur :** tout désigne toute personne qui accède au Site, acheteur, vendeur, ou simple visiteur.  
   
-**Vendeur :** Tout professionel proposant ses produits via la Martketplace  
+**Vendeur :** désigne tout professionnel mettant ses produits en vente sur la Marketplace et ayant souscrit aux services proposés par l’opérateur. Il met donc en vente ses propres produits en son nom sur le site vertbaudet.fr.  
   
   
 
 Informations personnelles
 -------------------------
 
-**VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son site et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
+**VERTBAUDET** s'engage à protéger la vie privée des personnes utilisant son Site et la confidentialité des informations personnelles fournies, conformément aux règles suivantes :  
   
-le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018, le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
+le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 (règlement européen sur la protection des données) abrogeant la Directive 95/46/CE et applicable à partir du 25 mai 2018, ci-après « RGPD », le cas échéant, les textes adoptés au sein de l’Union européenne et les lois locales susceptibles de s’appliquer aux données à caractère personnel traitées dans le cadre de l’activité de VERTBAUDET,  
 les textes et décisions émanant d’autorités européennes de supervision indépendantes,  
 tout texte relevant de la vie privée et du secret professionnel.  
 
@@ -44,8 +44,6 @@ tout texte relevant de la vie privée et du secret professionnel.
 
 1\. Identité du responsable de traitement
 -----------------------------------------
-
-Les traitements de données à caractère personnel vous concernant sont mis en œuvre par la société
 
 VERTBAUDET SAS
 
@@ -136,7 +134,7 @@ Les autres informations sont destinées à mieux vous connaître et sont, par co
 
 Seul le personnel de VERTBAUDET spécifiquement habilité est légitime à mettre en œuvre des traitements sur vos données à caractère personnel.
 
-#### 2.2.2 Prestataires
+#### 2.2.2 Sous-traitants
 
 Certaines données, notamment personnelles, pourront être communiquées de manière sécurisée aux partenaires techniques actuels ou futurs de VERTBAUDET pour l'exécution de tâches sous-traitées strictement nécessaires à la réalisation des prestations et obligations de VERTBAUDET selon les finalités définies précédemment, telles que :  
   
@@ -185,11 +183,11 @@ VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir l
 
 ### 2.5. Durée de conservation des données personnelles
 
-VERTBAUDET a fixé la durée de conservation de vos données personnelles à 5 ans à compter :
+VERTBAUDET a fixé la durée de conservation de vos données personnelles :
 
-* Pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), de la date du dernier contact avec notre marque
+* 1\. 3 ans pour les prospects (n’ayant jamais effectué d’achat auprès de VERTBAUDET et de ses partenaires), à compter de la date du dernier contact avec notre marque
     
-* Pour les clients (ayant déjà effectué un achat), de la date du dernier achat
+* 2\. 5 ans pour les clients (ayant déjà effectué un achat), à compter de la date du dernier achat
     
 
 Néanmoins, pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques (par exemple, l’enregistrement des conversations téléphoniques au service relation client sont conservés pendant une durée de 6 jours, les factures liées aux achats sont conservées 10 ans).
