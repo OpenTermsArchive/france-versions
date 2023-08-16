@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 03 juillet 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/CGV_VB_2023.pdf)
+#### Mise à jour du 14 août 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/CGV_VB_2023.pdf)
 
 Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
@@ -122,13 +122,19 @@ Les cartes de paiement notamment de type Electron, Maestro, Nickel, Viabuy et N�
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
+Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
+
 #### 4.3 Avec votre compte PAYPAL :
 
 En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement Paypal validé, vous pourrez terminer votre commande sur le site Internet.
 
+Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
+
 #### 4.4 Par carte cadeau Vertbaudet
 
 Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
+
+Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
 
 La facture de votre commande vous est adressée par courriel lors de la confirmation de l’expédition de votre commande et est également disponible sur votre compte client.
 
@@ -137,6 +143,8 @@ Sur simple demande, la facture peut vous être adressée sur support papier.
 #### 4.5 Paiement report
 
 Le paiement report consiste à régler la totalité de votre achat 30 jours après la date de votre commande
+
+Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
 
 L'offre de paiement report est réservée aux clients membres du club Vertbaudet réalisant une commande sur le site vertbaudet.fr (dès la 2ème commande) d'un montant minimum de 60€ et d'un montant maximum de 380€, sous réserve de validation de la commande par nos services financiers.
 
@@ -454,7 +462,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png](https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png "https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
+![https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
 La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
