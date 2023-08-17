@@ -1,7 +1,3 @@
-This website **www.li.me/fr-fr/legal/privacy-policy/** is currently offline. [Cloudflare's Always Online™](https://www.cloudflare.com/always-online/) shows a snapshot of this web page from the [Internet Archive's Wayback Machine](https://archive.org/web/). To check for the live version, click **Refresh**.
-
-[](javascript:void(null);)
-
 Avis de confidentialité
 
 À compter du : 1 mars 2021
