@@ -27,7 +27,7 @@ En ce qui concerne FlixTrain :
 
 Pour les candidats à un emploi :
 
-[Informations sur la protection des données pour les candidats à un emploi](https://www.flixbus.com/company/jobs/privacy-policy)
+[Informations sur la protection des données pour les candidats à un emploi](https://global.flixbus.com/company/jobs/privacy-policy)
 
 1\. Informations générales
 --------------------------
