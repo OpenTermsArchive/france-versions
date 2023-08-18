@@ -251,3 +251,6 @@ Conditions d'Utilisation
      ASICS collecte vos données personnelles afin d'assurer le bon déroulement du Sweepstakes. Les données personnelles collectées par ASICS dans le cadre de votre participation au Sweepstakes comprennent votre nom, sexe, adresse, numéro de téléphone et adresse e-mail.
     
      Veuillez vous reporter à la politique de confidentialité d'ASICS pour en savoir plus sur le traitements de vos données personnelles https://legal.asics.com/fr-fr/legal/privacy-policy.
+    
+
+[OneASICS™ Conditions générales](https://www.asics.com/fr/fr-fr/mk/oneasics-terms-and-conditions)
