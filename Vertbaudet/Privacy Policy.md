@@ -47,7 +47,7 @@ tout texte relevant de la vie privée et du secret professionnel.
 
 VERTBAUDET SAS
 
-Siège social : 216 rue Winoc Chocqueel – 59700 TOURCOING
+Siège social : 36, avenue Alfred Lefrançois – 59700 TOURCOING
 
 RCS Lille Métropole 397 555 327
 
@@ -401,7 +401,7 @@ Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justifica
 * Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
 * Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
 * Contacter le délégué à la protection des données à l’adresse suivante : [dpo@vertbaudet.com](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
-* Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 216 rue Winoc Chocqueel – 59700 Tourcoing
+* Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 36, avenue Alfred Lefrançois – 59700 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
 
