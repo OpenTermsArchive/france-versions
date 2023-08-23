@@ -3,7 +3,7 @@ Conditions générales de vente
 
 #### Mise à jour du 14 août 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/CGV_VB_2023.pdf)
 
-Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 216 rue Winoc Chocqueel – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
+Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
 Vous pouvez nous contacter :
 
@@ -268,7 +268,7 @@ MODELE DE FORMULAIRE DE RETRACTATION
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat)
 
-A l'attention de VERTBAUDET, 216 rue Winoc Chocqueel - 59200 TOURCOING - France, [contactclient@vertbaudet.com](https://www.vertbaudet.fr/page/contactclient@vertbaudet.com)  
+A l'attention de VERTBAUDET, 36 avenue Alfred Lefrançois - 59200 TOURCOING - France, [contactclient@vertbaudet.com](https://www.vertbaudet.fr/page/contactclient@vertbaudet.com)  
 Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien ci-dessous :  
 Commandé le (\*)/reçu le (\*) :  
 Nom du (des) consommateur(s) :  
@@ -458,7 +458,7 @@ Lorsque vous achetez un article éligible à la reprise sur le Site, nous vous i
 
 ### 10.2 REACH
 
-Pour toute question relative à la norme Européenne REACH, veuillez nous contacter : par courrier à l'adresse suivante : Vertbaudet, Service Correspondance 216, rue Winoc Chocqueel, 59200 Tourcoing.
+Pour toute question relative à la norme Européenne REACH, veuillez nous contacter : par courrier à l'adresse suivante : Vertbaudet, Service Correspondance 36, avenue Alfred Lefrançois, 59200 Tourcoing.
 
 ### 10.3 Consignes de tri
 
@@ -526,7 +526,7 @@ Le Site est conforme à la législation française, et en aucun cas, Vertbaudet 
 
 ### 15.1 Médiation
 
-Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 216 rue Winoc Chocqueel – 59200 Tourcoing
+Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 36, avenue Alfred Lefrançois – 59200 Tourcoing
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Vertbaudet adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :
 
