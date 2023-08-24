@@ -54,7 +54,7 @@ Un achat en magasin sera remboursé si l’emballage n’est pas ouvert. S’il 
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 3
+Tous nos magasins Tous nos services\- 9 août 2023 - 3
 
 SERVICE
 
@@ -62,13 +62,9 @@ SERVICE
 
 Pour les commandes passées sur darty.com ou par téléphone, nous mettons votre produit à dispositiondans le magasin Darty de votre choix, gratuitement et seulement 1 h après votre achat, s’il est en stock.
 
-
-
 7\. La livraison sur rendez-vous en 2 h chrono ousur un créneau de 2 h le jour de votre choix
 
 Pour les produits volumineux (1), Darty peut vous livrer le soir même (2), le lendemain (3) ou le jour de votrechoix sur un créneau de 2 h, du lundi au samedi, dès 7 h et jusqu’à 21 h, dans les Zones de Conance.Pour les produits jusqu’à 30 kg, vous pouvez aussi être livré le jour même en 2 h chrono ou sur uncréneau de 2 h le jour de votre choix, du lundi au samedi, dès 10 h et jusqu’à 22 h (4).
-
-
 
 8\. La livraison sur rendez-vous avec installation sur mesure
 
@@ -78,19 +74,23 @@ Les Zones de Conance
 
 Pour vérier votre éligibilité à la livraison Darty, cliquez depuis la che article sur le lien « Voir tous lescréneaux de livraison » et sélectionnez votre lieu de livraison, ou renseignez-vous auprès d’un vendeuren magasin.
 
-
-
 9\. La reprise gratuite pour recyclage de vos anciensappareils
 
-Darty reprend et recycle vos anciens produits (6) :• À domicile : reprise gratuite et simultanée de votre ancien produit lors de la livraison par Dartyde votre nouveau produit volumineux, pour traitement ou recyclage. Si vous le souhaitez, nouspouvons aussi reprendre un second appareil d’une famille de produits vendue par Darty.• En magasin : vous pouvez déposer dans l’ensemble de nos magasins Darty des produits et desconsommables usagés : piles et batteries, ampoules, cartouches d’encre, téléphones mobiles,lampes et petits appareils électriques.
+Darty reprend et recycle vos anciens produits (6) :
+
+• À domicile :
+
+\- Multi-reprise avec achat : un produit livré, un ou plusieurs repris Protez du service de reprisegratuite, pour traitement ou recyclage, de votre ancien produit lors de la livraison par Darty devotre nouveau produit volumineux. Si vous le souhaitez, nous pouvons aussi reprendre jusqu’àtrois autres appareils d’une famille de produits vendue par Darty.
+
+\- Reprise gratuite non conditionnée à un achat : Darty vient récupérer gratuitement à votre domicile,un ou plusieurs appareils gros électroménagers usagés. Appelez le 09 72 72 72 17 (7) pour prendrerendez-vous.• En magasin : Vous pouvez déposer dans l’ensemble de nos magasins Darty, dans des bacs de collecteou au comptoir SAV, des cartouches BRITA, des produits et des consommables usagés (piles etbatteries, ampoules, cartouches d’encre, téléphones mobiles, lampes et petits appareils électriques...).
 
 
 
-(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.comavant 15h, livraison possible le soir même pour l'agglomération de Paris. (3) Livraison possible dès le lendemain pour les agglomérations de Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Pour toute commande passée en magasin ou sur darty.com avant 17h30, livraison possible en 2h chrono.La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en service et la reprise de votre ancien produit.Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier,Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (5) Dans le cas où le réseau électrique et de plomberie n’existerait pas ou ne serait pas conforme auxnormes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Les appareils encastrables,les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais ne sont ni installés,ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraient pas êtremontés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreurs n’étantpas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.(6) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits en fin de vie, en conformité avec la réglementation. Les anciens produitsrepris à domicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement.
+(1) Les produits volumineux sont détaillés en annexe dans le tableau des garanties associé au Contrat de Confiance. (2) Pour toute commande passée en magasin ou sur darty.comavant 15h, livraison possible le soir même pour l'agglomération de Paris. (3) Livraison possible dès le lendemain pour les agglomérations de Antibes, Avignon, Bordeaux, Clermont-Ferrand, Caen, Cannes, Chartres, Dijon, Grenoble, Île-de-France, La Rochelle, Lille, Lyon, Marseille, Metz, Montpellier, Mulhouse, Nancy, Nantes, Nice, Nîmes, Orléans, Rennes,Rouen, Strasbourg, Toulon, Toulouse, Tours, Valence, Valenciennes. (4) Pour toute commande passée en magasin ou sur darty.com avant 17h30, livraison possible en 2h chrono.La prestation de livraison par coursier comprend la livraison à l’étage et dans la pièce de votre choix et exclut l’installation, la mise en service et la reprise de votre ancien produit.Elle est disponible pour les agglomérations de Aix en Provence, Avignon, Bordeaux, Caen, Cannes, Clermont Ferrand, Dijon, Grenoble, Paris, Lille, Lyon, Marseille, Metz, Montpellier,Nancy, Nantes, Nice, Reims, Rennes, Rouen, Strasbourg, Toulon, Toulouse, Tours. (5) Dans le cas où le réseau électrique et de plomberie n’existerait pas ou ne serait pas conforme auxnormes applicables, il vous appartiendrait de prendre en charge les travaux d’installation avant la mise en service ou la réalisation des prestations Darty. Les appareils encastrables,les hottes et groupes filtrants, les climatiseurs fixes, les barbecues grande largeur, les écrans de projection et les vélos à assistance électrique sont livrés mais ne sont ni installés,ni mis en service. Dans le cas de produits exceptionnellement lourds et volumineux, notamment les réfrigérateurs américains ou les pianos de cuisson, qui ne pourraient pas êtremontés par la cage d’escalier ou l’ascenseur, il vous appartiendrait de prendre à votre charge la location d’un monte-charge pour accéder jusqu’à votre logement, nos livreurs n’étantpas habilités à utiliser ce type d’engin. Pour une livraison par les escaliers au-delà du 5e étage, une participation supplémentaire aux frais de livraison pourrait vous être appliquée.(6) Les équipements repris seront mis à disposition d’organismes spécialisés dans le traitement des produits en fin de vie, en conformité avec la réglementation. Les anciens produits repris àdomicile doivent être disponibles dans les mêmes conditions d’accessibilité et d’encombrement. (7) Ligne accessible du lundi au samedi de 9h à 18h. Tarif local non surtaxé. Hors jours fériés.
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 4
+Tous nos magasins Tous nos services\- 9 août 2023 - 4
 
 CONSEIL
 
@@ -116,7 +116,7 @@ Assistance pour tous les produits ou services sous garantie achetés chez Darty.
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 5
+Tous nos magasins Tous nos services\- 9 août 2023 - 5
 
 13\. L’information sur les produits durablesLe choix durable
 
@@ -144,7 +144,7 @@ Darty apporte une information sur la réparabilité des produits. Ce projet lanc
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 6
+Tous nos magasins Tous nos services\- 9 août 2023 - 6
 
 
 
@@ -168,7 +168,7 @@ Pour prolonger ces avantages Darty jusqu’à 5 ans, et bénécier d’avantage
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 7
+Tous nos magasins Tous nos services\- 9 août 2023 - 7
 
 
 
@@ -192,7 +192,7 @@ Quelle que soit la formule souscrite, l’abonnement Darty Max comporte un engag
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 8
+Tous nos magasins Tous nos services\- 9 août 2023 - 8
 
 
 
@@ -242,7 +242,7 @@ Les formules Darty Max :
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 9
+Tous nos magasins Tous nos services\- 9 août 2023 - 9
 
 
 
@@ -308,7 +308,7 @@ Un partenaire au service de l’allongement de la durée de vie des smartphones 
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 10
+Tous nos magasins Tous nos services\- 9 août 2023 - 10
 
 
 
@@ -432,7 +432,7 @@ Nouveauté : l’avantagereprise garantie70% de reprise pour la 1ère année, 35
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 11
+Tous nos magasins Tous nos services\- 9 août 2023 - 11
 
 
 
@@ -484,7 +484,7 @@ Pack Sérénité Duo
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 12
+Tous nos magasins Tous nos services\- 9 août 2023 - 12
 
 
 
@@ -548,9 +548,9 @@ Fixation de la hotte ou du groupe ltrant, jusqu’à 90 cm 129 € (9) À parti
 
 Montage du meuble TV 69 € 48 €
 
-Conguration de la Smart TV 69 € 48 €
+Conguration de la Smart TV 119 € 83 €
 
-Fixation murale et conguration de la Smart TV 169 € (9) À partir de 118 €Pour les vélos à assistance électrique
+Fixation murale et conguration de la Smart TV 189 € (9) À partir de 132 €Pour les vélos à assistance électrique
 
 Montage et mise en service 59 € 39 €
 
@@ -560,7 +560,7 @@ Montage et mise en service 59 € 39 €
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 13
+Tous nos magasins Tous nos services\- 9 août 2023 - 13
 
 Famillesde produitsGrosélectroménagerPetitélectroménagerAspirateurset micro-ondesMicro-informatique
 
@@ -660,7 +660,7 @@ suivant la date d’achat, à l’occasion de l’acquisition chez Darty d’un 
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 14
+Tous nos magasins Tous nos services\- 9 août 2023 - 14
 
 TABLEAUX DES GARANTIES
 
@@ -802,7 +802,7 @@ En cas de panne, remplacement à neuf de votre produit, dès le 1er jour et pend
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 15
+Tous nos magasins Tous nos services\- 9 août 2023 - 15
 
 TABLEAUX DES GARANTIES
 
@@ -842,7 +842,7 @@ Garantie
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 16
+Tous nos magasins Tous nos services\- 9 août 2023 - 16
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -898,7 +898,7 @@ pièces et main d’œuvreet déplacement
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 17
+Tous nos magasins Tous nos services\- 9 août 2023 - 17
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -964,7 +964,7 @@ remboursementà neuf
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 18
+Tous nos magasins Tous nos services\- 9 août 2023 - 18
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -1016,7 +1016,7 @@ remboursementà neuf
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 19
+Tous nos magasins Tous nos services\- 9 août 2023 - 19
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -1066,7 +1066,7 @@ pièces et main d’œuvreet déplacement
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 20
+Tous nos magasins Tous nos services\- 9 août 2023 - 20
 
 TABLEAUX DES GARANTIESSUR MESURE
 
@@ -1096,7 +1096,7 @@ Le consommateur a également droit à une réduction du prix ou à larésolution
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 21
+Tous nos magasins Tous nos services\- 9 août 2023 - 21
 
 Garanties légales1- La garantie légale de conformité applicable pour lescontrats conclus à compter du1er janvier 2022er janvier 2022er
 
@@ -1322,7 +1322,7 @@ contre renonciation au contenu numérique ou au service numérique.
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 21
+Tous nos magasins Tous nos services\- 9 août 2023 - 21
 
 Lorsque le contrat prévoit que le contenu numérique ou le service numériqueest fourni de manière continue :
 
@@ -1358,7 +1358,7 @@ Conformément à la réglementation en vigueur, Darty est tenue de procéderà l
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 22
+Tous nos magasins Tous nos services\- 9 août 2023 - 22
 
 
 
@@ -1660,7 +1660,7 @@ de l’opérateur agréé.
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 22
+Tous nos magasins Tous nos services\- 9 août 2023 - 22
 
 Droit de rétractation
 
@@ -1674,7 +1674,7 @@ En application de l’article L.541-10-13 du code de l’environnement, DARTY s�
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 23
+Tous nos magasins Tous nos services\- 9 août 2023 - 23
 
 Droit de rétractation
 
@@ -1714,4 +1714,4 @@ déclaration de mise sur le marché auprès des éco organismes concernés.
 
 
 
-Tous nos magasins Tous nos services\- 26 juillet 2023 - 23
+Tous nos magasins Tous nos services\- 9 août 2023 - 23
