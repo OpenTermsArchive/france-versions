@@ -110,7 +110,180 @@ Si vous nous contactez par le biais du formulaire de contact de notre site Web, 
 
 Nous utilisons aussi les offres des réseaux sociaux, par exemple, Facebook, Instagram et Twitter pour échanger avec nos clients. Veuillez noter que C&A n’a pas d’influence sur les conditions d’utilisation des réseaux sociaux et leurs pratiques en matière de traitement des données. Veuillez vérifier précisément les données personnelles que vous nous communiquez par le biais des réseaux sociaux.
 
-#### Règles de confidentialité de Google et les [Conditions d’utilisation supplémentaires de Google Maps.](https://www.google.com/intl/fr/help/terms_maps.html)
+#### 2.8 Si vous vous inscrivez à  la lettre d'information personnalisée de C&A 
+
+Si vous vous êtes inscrit à la newsletter de C&A, nous traitons les données que vous avez fournies à cette fin pour l'élaboration et l'envoi de la newsletter personnalisée. 
+
+Vous trouverez de plus amples informations sur l'utilisation de vos  données, le désabonnement et vos droits dans les notices sur la protection des données et la confidentialité accessibles sur notre site.
+
+#### 3 A quelles fins C&A utilise-t-elle mes données ? 
+
+#### 3.1 Mise à disposition de l’e-shop C&A 
+
+Lorsque vous consultez le site Web de l’e-shop C&A, nous traitons les données d’accès afférentes, les fichiers journaux du serveur et les cookies pour mettre à votre disposition notre site Web et les contenus et fonctionnalités que vous consultez et pour garantir la stabilité et la sécurité de nos systèmes informatiques et bases de données. 
+
+Bases légales: 
+
+Lorsque vous utilisez l’e-shop C&A avec votre compte client C&A, l’article 6, paragraphe 1, point b, RGPD (exécution d’un contrat et mesures précontractuelles) constitue la base légale. 
+
+Lorsque vous utilisez l’e-shop C&A sans inscription, l’article 6, paragraphe 1, point f, RGPD (évaluation des intérêts sur la base de nos intérêts légitimes susmentionnés) constitue la base légale. 
+
+Dans la mesure où vous avez consenti au traitement des données, la principale base légale est votre consentement (article 6, paragraphe 1, point a, RGPD).
+
+#### 3.2 Exécution d’un contrat, notamment traitement d’un achat 
+
+Nous traitons vos données pour exécuter les contrats conclus avec vous et pour fournir des prestations à votre demande. Les finalités sont définies principalement en fonction du contenu concret du contrat ou de la finalité des prestations que vous avez demandées. Vous pouvez consulter les détails des finalités du traitement, le cas échéant, dans les documents contractuels et conditions de vente, par exemple, dans nos conditions générales de vente. Quelques exemples : 
+
+* Création et mise à disposition de votre compte client 
+* Exécution de contrats d’achat 
+* Organisation de jeux-concours et promotions 
+* Communication non publicitaire avec vous (p. ex., consignes de sécurité et modifications concernant le contrat) 
+
+Bases légales: 
+
+L’article 6, paragraphe 1, point b, RGPD (exécution d’un contrat et mesures précontractuelles) constitue la base légale de ce traitement des données. 
+
+#### 3.3 Personnalisation de la boutique en ligne de C&A 
+
+Les informations que vous nous communiquez nous aident à améliorer en permanence votre expérience d’achat et notre service, et à veiller à ce qu’ils vous soient plus conviviaux et adaptés à vos besoins. Les informations que vous transmettez et qui sont générées automatiquement (p. ex. des données d’accès, de base et de commande, ainsi que les recherches saisies et les produits figurant sur  la liste de souhaits) sont donc utilisées pour personnaliser les contenus de la boutique en ligne C&A en fonction de vos intérêts et besoins déduits à partir de ces données. Ainsi, nous pouvons par exemple vous permettre de trouver plus facilement et plus rapidement des produits qui vous sont adaptés  (p. ex. lors d’une recherche, nous pouvons afficher en premier dans les résultats les produits qui correspondent aux produits enregistrés dans votre liste de souhaits ou aux rubriques que vous consultez particulièrement souvent). 
+
+Nous exploitons également ces informations pour des recommandations de produits personnalisées, dans la mesure où celles-ci font partie de notre offre de services personnalisés (p. ex. un compte client C&A, la newsletter C&A et les services de conseil, notamment dans le cadre des guides de style C&A et de notre système Click&Collect) ou sont l’objet de la publicité que nous vous adressons directement. 
+
+Par exemple, dans le cadre permis par l’organe législatif, nous adressons régulièrement à nos clients existants de la publicité par e-mail contenant des offres personnalisées que nous sélectionnons en fonction de vos commandes passées (en l’absence d’opposition). 
+
+Fondements juridiques: 
+
+Lorsque vous utilisez la boutique en ligne C&A ou un autre service personnalisé avec votre compte client C&A, l’article 6, paragraphe 1, point b du RGPD (exécution d’un contrat et mesures précontractuelles) constitue le fondement juridique. 
+
+Si vous utilisez la boutique en ligne C&A ou un autre service personnalisé sans inscription, la personnalisation repose sur l’article 6, paragraphe 1, point f du RGPD (équilibre des intérêts en tenant compte de notre intérêt légitime à mettre à votre disposition des contenus et recommandations de produits personnalisés). 
+
+Dans la mesure où la personnalisation repose sur votre consentement, celui-ci constitue le fondement juridique prépondérant (article 6, paragraphe 1, point a du RGPD).a 
+
+Vous ne souhaitez pas de personnalisation? 
+
+Si vous ne souhaitez pas que nous utilisions vos données de base et de commande pour personnaliser votre visite de la boutique en ligne C&A, vous pouvez vous déconnecter à tout moment de votre compte client personnel et utiliser la boutique en ligne  C&A en tant qu’invité(e). Ensuite, les données de votre compte client C&A ne sont plus prises en compte pour la personnalisation. Celle-ci est effectuée exclusivement en fonction  de vos données d’accès, que vous enregistrons dans le cadre de l’analyse Web (point 5) pendant votre visite. 
+
+Si vous ne souhaitez pas cela non plus, vous pouvez désactiver la personnalisation en fonction de vos données d’accès à tout moment, en désactivant les services d’analyse Web mentionnés au point 5. 
+
+Vous trouverez des informations complètes sur vos droits à la protection des données au point 9 (Vos droits à la protection des données) et au point 10 (Droit de révocation et d’opposition).
+
+#### 3.4 Service client et communication dans le cadre des relations client existantes 
+
+Nous traitons vos données pour fournir notre service client. Cela comprend, par exemple: 
+
+* Traitement de vos demandes et questions par le service client de C&A, 
+* Communication non publicitaire avec vous (p. ex., consignes de sécurité et support technique). 
+
+Bases légale: 
+
+L’article 6, paragraphe 1, point b, RGPD (exécution d’un contrat et mesures précontractuelles) constitue la base légale de ce traitement des données.
+
+#### 3.5 Traitement des paiements 
+
+En fonction des modalités de paiement convenues, nous transmettons les données nécessaires au traitement du paiement (p. ex., virement ou données de carte de crédit) au prestataire de paiement chargé du paiement. Les prestataires de paiement collectent en partie ces données eux-mêmes sous leur propre responsabilité. Les politiques de confidentialité du prestataire de paiement concerné s’appliquent dans ce cas. 
+
+La transmission de vos données aux prestataires externes de paiement a lieu sur la base de l’article 6, paragraphe 1, point b, RGPD (exécution d’un contrat). 
+
+Si vous choisissez de payer par carte de crédit pendant la validation de la commande, la société émettrice de votre carte de crédit effectuera un contrôle en deux étapes du risque et de l'authentification. 
+
+Dans un premier temps, vos données suivantes seront transmises à la société émettrice de la carte de crédit : 
+
+* Votre nom (civilité, prénom, nom) 
+* Votre adresse 
+* si l'adresse de livraison est différente, celle-ci sera transmise également (y compris Click & Collect et relais colis) 
+* Votre adresse e-mail. 
+
+Si les données transmises présentent des divergences pouvant indiquer un risque accru, un deuxième niveau de contrôle est effectué pour lequel le titulaire de la carte doit en outre interagir (demande d'un deuxième facteur tel que saisie du mot de passe ou du code PIN). 
+
+1\. Destinataire des données 
+
+La société Computop Paygate GmbH, Schwarzenbergstr. 4, en tant que notre sous-traitante, est chargée conformément à l'article 28 RGPD du contrôle technique des opérations de paiement, y compris l'exécution de l'authentification des clients. Les autres destinataires sont les banques concernées (d'une part la banque émettrice de la carte - l'émetteur - et d'autre part notre banque en tant que banque qui accepte la carte de crédit - l'acquéreur). 
+
+2\. Objectifs et bases légales du traitement des données 
+
+La transmission est effectuée aux fins suivantes et repose sur les bases légales suivantes : 
+
+a) Exécution du contrat 
+
+Vous avez conclu avec nous un contrat à titre onéreux et avez choisi un certain mode de paiement lors de la validation de votre commande qui rend la transmission de certaines données nécessaire pour l'exécution de ce paiement. 
+
+Base légale : art. 6 alinéa 1 phrase 1 lettre b RGPD. 
+
+b) Obligation d'authentification des clients
+
+En cas de paiement par carte de crédit, nous sommes obligés de transmettre les données mentionnées ci-dessus. 
+
+Base légale : art. 6 alinéa 1 phrase 1 lettre c RGPD en lien avec les dispositions correspondantes de la directive UE 2015/2366 (PSD 2) et de la loi sur la surveillance des services de paiement (Zahlungsdiensteaufsichtsgesetz - ZAG). 
+
+c) Prévention de l'utilisation abusive des cartes 
+
+Dans le cas de contrats comportant un risque de crédit ou lorsque le partenaire contractuel présente un risque potentiel de défaillance de paiement, il y a un intérêt légitime à minimiser ce risque par une authentification supplémentaire. 
+
+Base légale : art. 6 alinéa 1 phrase 1 lettre f RGPD 
+
+3\. Intention du responsable concernant la transmission de données à caractère personnel à un pays tiers ou à une organisation internationale 
+
+Le traitement des données sur Computop Paygate, la plateforme de paiement de Computop Paygate GmbH, a lieu en Allemagne. Les données peuvent potentiellement être transférées vers des pays tiers lorsque les banques concernées (d'une part la banque émettrice de la carte - l'émetteur - et d'autre part la banque du commerçant qui accepte la carte de crédit - l'acquéreur) sont sises dans des pays tiers. 
+
+Cette transmission est autorisée par l'art. 49 RGPD. 
+
+4\. Durée pendant laquelle les données à caractère personnel seront conservées ou, si cela n'est pas possible, les critères permettant de déterminer cette durée 
+
+Computop Paygate met en œuvre les périodes de suppression standard suivantes pour les opérations de paiement, y compris les contrôles d'authentification (sauf si une suppression individuelle a été commandée au préalable) : 
+
+a) Base de données Computop Paygate et Computop Analytics 
+
+Suppression des opérations de paiement après 12 mois. 
+
+b) Base de données Computop Reporter 
+
+Suppression des opérations de paiement après 24 mois.
+
+c) Conservation des sauvegardes des bases de données 
+
+Suppression des sauvegardes après 12 mois supplémentaires. 
+
+5\. Informations indiquant si la mise à disposition des données à caractère personnel est exigée par la loi ou un contrat ou si elle est nécessaire à la conclusion d'un contrat, si la personne concernée est tenue de fournir les données à caractère personnel et les conséquences éventuelles de la non-communication de ces données 
+
+Nous sommes tenus dans le cadre du mode de paiement sélectionné de mettre à disposition les données à caractère personnel requises par la loi pour l'authentification du client. Si ces données ne sont pas fournies, le mode de paiement sélectionné ne peut pas être exécuté. 
+
+6\. Existence d'un processus décisionnel automatisé, y compris le profilage, conformément à l'article 22, alinéa 1 et 4, et, au moins dans ces cas, informations utiles sur la logique impliquée ainsi que sur la portée et l'impact prévu d'un tel traitement pour la personne concernée  
+
+Un contrôle automatisé de l'authentification et/ou du risque a lieu. Un logiciel d'analyse calcule un score pour chaque transaction, sur la base des données transmises. Si une transaction est classée à faible risque, elle est validée sans que le titulaire de la carte soit invité à saisir un code supplémentaire. L'impact potentiel peut être que l'authentification peut échouer et que le mode de paiement choisi ne peut pas être utilisé dans le cas particulier. 
+
+Vous souhaitez vous opposer au stockage des données de votre carte de crédit? 
+
+Si vous ne le souhaitez pas, vous pouvez vous opposer à l’enregistrement de vos données de carte de crédit, en nous faisant parvenir une déclaration informelle à l’adresse postale ou à l’adresse électronique indiquées au point 1. Dans ce cas, vous devrez saisir à nouveau manuellement les données de carte de crédit à chaque achat.
+
+#### 3.6 Étude de marché interne, optimisation et développement de notre offre 
+
+Nous utilisons vos données d’accès ainsi que les données que vous nous communiquez (p. ex. données de base, données de commande, données de retour) à des fins de statistiques internes et d’étude de marché. Nous rendons vos données pseudonymes ou anonymes au préalable, p. ex. en échangeant votre nom et les autres données permettant l’identification par des informations au hasard. 
+
+Ainsi, nous pouvons, par exemple, déterminer les pages et produits de notre e-shop qui plaisent particulièrement, les appareils que nos clients utilisent en général ou dans quelles régions notre site Web est consulté. Ces informations nous aident à optimiser en permanence notre offre existante et à développer de nouvelles fonctionnalités et de nouveaux services. 
+
+Base légale: 
+
+L’article 6, paragraphe 1, point f, RGPD (évaluation des intérêts sur la base de notre intérêt légitime susmentionné) constitue la base juridique de ces traitements des données.
+
+#### 3.7 Traitement à des fins autorisées 
+
+Dans la mesure où vous nous avez autorisés à traiter vos données à des fins particulières, la base légale des traitements de données à ces fins est principalement votre consentement (article 6, paragraphe 1, point a, RGPD). 
+
+Révocation de consentements 
+
+Conformément à l’article 7, paragraphe 2, RGPD, vous avez le droit de révoquer à tout moment un consentement que vous nous avez accordé. En conséquence, nous ne pourrons pas poursuivre à l’avenir le traitement des données reposant sur ce consentement. En révoquant votre consentement, la conformité du traitement effectué sur la base du consentement jusqu’à sa révocation n’est pas affectée.
+
+### 4 Recherche de magasins C&A (Google Maps) 
+
+Notre site Web utilise le service de cartographie Google Maps de Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis (« Google ») pour la fonction « Store Finder ». Pour que le matériel cartographique de Google que nous utilisons puisse être intégré et s’afficher dans votre navigateur, votre navigateur doit établir une connexion avec un serveur de Google qui peut se trouver aux États-Unis, lors de la consultation de la page de contact. Au cas où des données à caractère personnel seraient transférées aux États-Unis, Google s’est soumis au Standard Contractual Clauses. Google reçoit l’information que la page de contact de notre site Web a été consultée par l’adresse IP de votre appareil. 
+
+Dans Store Finder, vous pouvez aussi rechercher des magasins C&A dans les environs à l’aide de votre localisation et les faire s’afficher dans Google Maps. Vous pouvez saisir les données d’adresse que vous souhaitez dans le champ de recherche (pays, CP, lieu et/ou nom de rue). Si vous ne souhaitez rechercher que des magasins dans votre environnement actuel, vous pouvez aussi utiliser la fonction de localisation automatique de Store Finder en cliquant sur le bouton « Magasins dans les environs ». Vous activez ainsi la fonction HTML5 « Géolocalisation » pour la localisation automatique, qui est supportée par tous les navigateurs courants. Avant que votre navigateur procède à la localisation, vous devez encore une fois l’autoriser expressément par un nouveau clic pour des raisons de protection des données. En fonction du navigateur et de l’appareil que vous utilisez, votre adresse IP, les signaux reçus des réseaux Wifi et, notamment si vous utilisez un appareil mobile, les signaux GPS et de téléphonie mobile, sont ensuite utilisés pour la localisation. Les données d’adresse que vous indiquez dans le champ de recherche d’un magasin ou la localisation automatique effectuée par votre navigateur sont transmises à Google par une interface afin que les magasins C&A trouvés dans les environs puissent s’afficher sur la carte de Google Maps. 
+
+L’article 6, paragraphe 1, point f, RGPD constitue ici la base légale du traitement de ces données, sur le fondement de notre intérêt légitime à proposer la recherche de magasins décrite ci-dessus. 
+
+Si vous consultez le service cartographique de Google sur notre site Web alors que vous êtes connecté à votre profil Google, Google peut relier cet événement à votre profil Google. Si vous ne souhaitez pas d’attribution à votre profil Google, il faut impérativement que vous vous déconnectiez de Google avant d’utiliser notre recherche de magasins. Google enregistre vos données et les utilise à des fins de publicité, d’étude de marché et de présentation personnalisée de Google Maps. Vous pouvez vous opposer à cette collecte de données vis-à-vis de Google.   
+
+Vous trouverez plus d’informations à ce sujet dans les [Règles de confidentialité](https://www.google.com/intl/fr/policies/privacy/index.html) de Google et les [Conditions d’utilisation supplémentaires de Google Maps.](https://www.google.com/intl/fr/help/terms_maps.html)
 
 ### 5 Analyse Web 
 
