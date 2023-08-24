@@ -1,7 +1,9 @@
 Conditions générales de vente
 =============================
 
-#### Mise à jour du 14 août 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/CGV_VB_2023.pdf)
+#### (Hors produits qui ne sont pas vendus et expédiés par VERTBAUDET)
+
+#### Mise à jour du 24 août 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/cgv-082023.pdf)
 
 Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
@@ -94,7 +96,7 @@ Pour toute question relative au suivi de votre commande, merci d'appeler le 03.2
 
 ### Modes de paiement
 
-#### 4.1 Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard)
+#### 4.1 Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard) (Mode de paiement valable pour tout type de commande) :
 
 Votre compte sera débité lors de la validation de votre commande notamment par le service de paiements sécurisés (cf ci-dessous).
 
@@ -104,7 +106,7 @@ Service de paiements sécurisés :
 
 Les informations en rapport avec votre commande font l'objet d'un traitement automatisé de données dans les conditions exposées ci-dessous dans le but de renforcer le niveau de sécurité des opérations réalisées sur le site Internet et de protéger Vertbaudet et ses clients contre d'éventuels phénomènes d'usurpation d'identité ou de tentative de fraude.
 
-Oneytrust traite les données en rapport avec votre navigation pour sécuriser les transactions réalisées sur le Site. En savoir plus sur la gestion de vos données par Oneytrust et vos droits [ici](https://oneytrust.com/mention-information-score-et-review/).
+Oneytrust traite les données en rapport avec votre navigation pour sécuriser les transactions réalisées sur le Site. En savoir plus sur la gestion de vos données par Oneytrust et vos droits [cliquez ici](https://oneytrust.com/mention-information-score-et-review/).
 
 Afin d'assurer la sécurité des paiements, Vertbaudet utilise en outre le service de paiements sécurisés d’un prestataire : INGENICO ePAYMENTS. Ce service intègre la norme de sécurité SSL3.0. (les données confidentielles sont cryptées sur le serveur INGENICO et ne sont à aucun moment transmises sur le serveur informatique Vertbaudet). INGENICO assure ainsi la plus grande sécurité aux données concernant les moyens de paiement de nos clients. Votre demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé INGENICO qui procède aux diverses vérifications pour éviter les abus et les fraudes.
 
@@ -118,19 +120,19 @@ Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à 
 
 Les cartes de paiement notamment de type Electron, Maestro, Nickel, Viabuy et Néocash, etc, ne sont pas acceptées dans le cadre du paiement report.
 
-#### 4.2 Paiement en 3 fois sans frais avec Klarna :
+#### 4.2 Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
 Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
 
-#### 4.3 Avec votre compte PAYPAL :
+#### 4.3 Avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement Paypal validé, vous pourrez terminer votre commande sur le site Internet.
 
 Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
 
-#### 4.4 Par carte cadeau Vertbaudet
+#### 4.4 Par carte cadeau Vertbaudet (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
 
@@ -140,7 +142,7 @@ La facture de votre commande vous est adressée par courriel lors de la confirma
 
 Sur simple demande, la facture peut vous être adressée sur support papier.
 
-#### 4.5 Paiement report
+#### 4.5 Paiement report (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Le paiement report consiste à régler la totalité de votre achat 30 jours après la date de votre commande
 
@@ -462,7 +464,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/1601582178/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
+![https://media.vertbaudet.fr/medias/44/0/35448/1008202218/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/1008202218/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
 La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
