@@ -7,7 +7,7 @@ Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code 
 
 [Conditions générales de transport au départ et à destination des États-Unis (Anglais)](https://www.austrian.com/us/fr/legal/conditions-of-carriage)
 
-[Conditions générales de transport au départ et à destination du Canada (PDF, anglais, 1,9 Mo)](https://www.austrian.com/content/dam/austrian/local/ca/conditions-of-carriage-canada-fr-20200505.pdf)
+[Conditions générales de transport au départ et à destination du Canada (PDF, anglais, 1,9 Mo)](https://www.austrian.com/content/dam/austrian/local/ca/conditions-of-carriage-canada-en-20200505.pdf)
 
 Article 1 – Définition des termes
 ---------------------------------
