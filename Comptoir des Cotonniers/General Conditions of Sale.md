@@ -254,8 +254,8 @@ Comptoir des Cotonniers se réserve le droit de changer, modifier, ajouter ou su
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, le Client a le droit de recourir gratuitement à un service de médiation. Comptoir des Cotonniers adhère au service de médiation du Centre de Médiation de la Consommation de Conciliateurs justice (CM2C). Le CM2C peut être joint soit :  
   
 • Par courrier, à l’adresse suivante : 14 rue Saint-Jean - 75017 Paris,  
-• Par mail à l’adresse suivante : [cm2c@cm2c.net](mailto:cm2c@cm2c.net)  
-• En ligne, en cliquant sur le lien suivant : [https://www.cm2c.net/declarer-un-litige.php](https://www.cm2c.net/declarer-un-litige.php) et en remplissant le formulaire accompagné des pièces justificatives.  
+• Par mail à l’adresse suivante : [cm2c@cm2c.com](mailto:cm2c@cm2c.com)  
+• En ligne, en cliquant sur le lien suivant : [https://www.cm2c.com/declarer-un-litige.php](https://www.cm2c.com/declarer-un-litige.php) et en remplissant le formulaire accompagné des pièces justificatives.  
   
 En outre, la Commission Européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible en cliquant sur le lien suivant : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)  
   
