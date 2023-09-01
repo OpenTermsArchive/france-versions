@@ -1,7 +1,7 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
-Dernière mise à jour le 25 mai 2023. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
+Dernière mise à jour le 23 août 2023. Consultez la [version précédente des Conditions d'utilisation et générales de vente](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q) .
 
 Bienvenue sur Amazon.fr.
 
@@ -29,6 +29,8 @@ Vous avez la possibilité d'inscrire vos coordonnées téléphoniques sur la lis
 **2\. RECOMMANDATIONS ET PERSONNALISATION**
 
 Dans le cadre des Services Amazon, nous vous recommanderons des fonctionnalités, des produits et des services, comprenant des publicités de tiers, qui sont susceptibles de vous intéresser, nous identifierons vos préférences et nous personnaliserons votre expérience.
+
+Dans le cadre des Services Amazon, nous vous recommanderons des fonctionnalités, des produits et des services, comprenant des publicités de tiers, qui sont susceptibles de vous intéresser, nous identifierons vos préférences et nous personnaliserons votre expérience. Pour en savoir plus, accédez à la page aide pour y consulter la rubrique « [Recherche d'articles dans la boutique Amazon](https://www.amazon.fr/hz/cs/help?nodeId=GSUNWNFT2ALMPR3L) ».
 
 **3\. PROPRIÉTE INTELLECTUELLE, DROIT D'AUTEUR, ET PROTECTION DES BASES DE DONNÉES**
 
@@ -142,19 +144,21 @@ Amazon Europe Core SARL, _Société à responsabilité limitée_, 38 avenue John
 
 Vous pouvez également nous contacter via [notre service client](https://www.amazon.fr/hz/contact-us?ref_=hp_gt_comp_cu&language=fr-FR&ie=UTF8&nodeId=508510) et nous pourrons vous joindre par e-mail ou par téléphone.
 
-**19\. PROCÉDURE ET FORMULAIRE DE NOTIFICATION DE VIOLATION DE DROITS**
+**19\. PROCÉDURE ET FORMULAIRE DE NOTIFICATION DE CONTENU ILLÉGAL**
 
 Si vous pensez que vos droits ont été violés et que vous êtes éligible au Registre des Marques, veuillez vous inscrire au service et soumettre votre plainte via le Registre des Marques. Sinon, merci d'utiliser notre [Formulaire de Notification](https://www.amazon.fr/report/infringement). Ce formulaire peut être utilisé pour nous soumettre toute sorte de plainte de propriété intellectuelle y compris, sans toutefois s'y limiter, les plaintes liées aux droits d'auteur, de marques, de dessins et modèles et de brevets. Dès réception d'un Formulaire de Notification, nous pouvons prendre certaines mesures, notamment la suppression d'informations ou d'un article et mettre fin aux infractions répétées dans des circonstances appropriées. Ces mesures seront toutefois prises sous toutes réserves, sans reconnaissance de notre part d'une responsabilité quelconque et sans préjudice de l'exercice de nos droits, actions et moyens de défense. Ceci comprend également le transfert de ce formulaire aux parties concernées par l'infraction alléguée. Vous acceptez d'indemniser Amazon contre toute réclamation de tiers contre Amazon, découlant de, ou dans le cadre de cette notification.
 
 **Note concernant les offres des vendeurs tiers** : merci de garder à l'esprit que les offres des vendeurs tiers sont seulement hébergées sur Amazon.fr et sont publiées uniquement sous la direction des vendeurs tiers qui peuvent être contactés par leur page « Informations sur le vendeur », accessible depuis toutes leurs offres.
 
-**Définition d'ASIN et de ISBN-10 :** « ASIN » signifie Amazon Standard Item (or Identification) Number (Numéro d'identification ou d'article standard d'Amazon) et est un identifiant composé de dix (10) caractères. Ce numéro figure dans toute fiche descriptive d'un produit sous le titre « Détails sur le produit ». « ISBN-10 » signifie International Standard Book Number (Numéro de livre standard international) et est un identifiant composé de dix (10) chiffres figurant sur certaines fiches descriptives de livres dans la catégorie « Détails sur le produit ».
+**Définition d'ASIN et de ISBN-10 :** « ASIN » signifie Amazon Standard Item (or Identification) Number (Numéro d'identification ou d'article standard d'Amazon) et est un identifiant composé de dix (10) caractères. Ce numéro figure dans toute fiche descriptive d'un produit sous le titre cDétails sur le produit ». « ISBN-10 » signifie International Standard Book Number (Numéro de livre standard international) et est un identifiant composé de dix (10) chiffres figurant sur certaines fiches descriptives de livres dans la catégorie « Détails sur le produit ».
 
 **Avertissement important :** fournir des informations inexactes, trompeuses ou fausses dans un Formulaire de Notification adressé à Amazon engage sa responsabilité civile et/ou pénale. En cas de doute, veuillez contacter un conseiller juridique.
 
 **Formulaire de notification :** Si vous souhaitez nous notifier la violation de vos droits en relation avec une offre de produit disponible sur le site www.amazon.fr, nous vous invitons à remplir le Formulaire de notification disponible en cliquant sur le lien ci-dessous :
 
 [Formulaire de Notification](https://www.amazon.fr/report/infringement)
+
+Si vous souhaitez nous informer d'un problème rencontré par rapport à un produit, un contenu ou une page d'un produit quand, par exemple, vous pensez que le produit ou le contenu est illégal, vous pouvez déposer un rapport. Pour plus d'informations, il convient de consulter « [Signalez un problème posé par un produit, un contenu ou une page d'un produit](https://www.amazon.fr/gp/help/customer/display.html?nodeId=TLtMJsPGBmJPpN3hvy) » sur la page aide.
 
 **20\. PROCÉDURE ET FORMULAIRE DE NOTIFICATION EN VUE DE NOTIFIER UN CONTENU INJURIEUX OU DIFFAMATOIRE**
 
@@ -245,7 +249,7 @@ Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre d
 
 Pour toute information complémentaire sur l'étendue, le contenu et les instructions quant à l'exercice de votre droit de rétractation, merci de contacter notre [Service Client](https://www.amazon.fr/contact-us).
 
-EFFETS DE LA RcTRACTATION
+EFFETS DE LA RÉTRACTATION
 
 Nous vous rembourserons tous les paiements que nous avons reçus de votre part, y compris les frais de livraison standards (c'est-à-dire correspondant à la livraison la moins onéreuse que nous proposons) au plus tard 14 jours à compter de la réception de votre demande de rétractation. Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous. Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droit.
 
@@ -381,3 +385,5 @@ Liste non exhaustive des marques déposées Amazon :1-CLIC, 1-CLICK, 1-CLICK COM
 Liste non exhaustive des brevets Amazon ou affiliés et des brevets sous licence applicables:
 
 Un ou plusieurs brevets détenus par Amazon ou ses sociétés affiliées s'appliquent à ce site et aux fonctionnalités et services accessibles via ce site.Numéros de brevets des Etats-Unis:5,715,399; 5,727,163; 5,826,258; 5,960,411; 5,963,949; 5,999,924; 6,003,024; 6,006,225; 6,029,141; 6,064,980; 6,144,958; 6,169,986; 6,175,823; 6,185,558; 6,185,556; 6,199,079; 6,233,573; 6,266,649; 6,269,369; 6,317,722; 6,324,535; 6,360,254; 6,366,910; 6,401,084; 6,427,175; 6,442,543; 6,449,601; 6,460,038; 6,466,918; 6,489,968; 6,525,747; 6,539,378; 6,546,393; 6,549,904; 6,564,213; 6,571,243; 6,594,644; 6,606,619; 6,606,608; 6,615,226; 6,625,609; 6,629,079; 6,643,624; 6,675,196; 6,714,926; 6,714,916; 6,760,470; 6,772,150; 6,785,671; 6,851,089; 6,853,993; 6,853,982; 6,865,546; 6,882,981; 6,889,250; 6,907,315; 6,912,505; 6,917,922; 6,941,374; 6,952,715; 6,963,867; 6,963,848; 6,963,850; 6,973,429; 6,999,941; 7,006,989; 7,050,992; 7,058,599; 7,080,124; 7,080,070; 7,082,407; 7,107,227; 7,113,917; 7,117,167; 7,124,129; 7,130,820; 7,139,771; 7,149,353; 7,155,336; 7,174,054; 7,194,419; 7,194,437; 7,210,102; 7,216,103; 7,222,087; 7,246,308; et 7,254,552.Des parties de ce site opèrent sous licence des numéros de brevets des Etats-Unis:5,708,780; 5,715,314; 5,909,492; 6,205,437; 6,195,649; 5,717,860; 5,712,979; 5,819,285; 6,782,370; 5,812,769; 5,528,490; 5,761,649; 6,029,142; et 6,330,592.Révisé le 21 janvier 2011.
+
+_Cliquez [ici](https://www.amazon.fr/gp/help/customer/display.html?ref_=hp_left_v4_sib&nodeId=ThS1wcdQfywfAoh278) pour voir un résumé des principaux éléments des présentes Conditions d'Utilisation d'Amazon._
