@@ -156,7 +156,7 @@ BERSHKA (ci-dessous, « BERSHKA FRANCE ») :
 
 
 
-o Adresse postale: 22 Rue Bergère, 75 009 Paris, France.
+o Adresse postale: 80, Avenue des Terroirs de France, 75012 Paris, France.
 
 o E-mail du Délégué à la protection des données : dataprotection@bershka.com
 
@@ -1024,7 +1024,7 @@ supprimer votre compte d’utilisateur).
 
 
 
-2. La mise en œuvre,
+2\. La mise en œuvre,
 
 l’application et l’exécution du
 
