@@ -430,7 +430,7 @@ L’acheminement du colis jusqu’à l’intérieur de votre domicile reste à v
 
 Le déballage du colis et le traitement des emballages restent à votre charge.
 
-Les zones de livraison concernées par la livraison éco sont : France métropolitaine hors Corse. Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont d’posés à la gare maritime.  
+Les zones de livraison concernées par la livraison éco sont : France métropolitaine hors Corse. Pour les îles, la livraison est réalisable sur l’île d’Oléron, l’île de Ré, l’île de Noirmoutier et la presqu’île de Quiberon. Pour toutes les autres îles, les colis sont déposés à la gare maritime.  
   
 Les conditions complètes applicables à ce mode de livraison sont accessibles [ici](https://www.cdiscount.com/shipping/shippinginfo.html?shippingpartnerorigin=ft#Livraison_devant_chez_vous).
 
