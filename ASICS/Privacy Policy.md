@@ -183,29 +183,30 @@ En cas de question ou de réclamation sur la manière dont nous traitons vos don
 
 Les juridictions suivantes sont associées à des règles et des droits supplémentaires ou divergents de ceux énoncés dans la section « Vos droits » ci-dessus. Veuillez cliquer sur votre juridiction pour voir la réglementation applicable :
 
-[**Japon**](https://legal.asics.com/en-us/legal/local-deviations#Japan)
+[**Japon**](https://legal.asics.com/jp-jp/legal/local-deviations)
 
 [**États-Unis**](https://legal.asics.com/en-us/legal/local-deviations#US)
 
-[**Brésil**](https://legal.asics.com/en-us/legal/local-deviations#Brazil)
+[**Brésil**](https://legal.asics.com/pt-bz/legal/local-deviations)
 
-[**Australie**](https://legal.asics.com/en-us/legal/local-deviations#Australia)
+[**Australie**](https://legal.asics.com/en-aop/legal/local-deviations)
 
-[**Nouvelle-Zélande**](https://legal.asics.com/en-us/legal/local-deviations#NewZealand)
+[**Nouvelle-Zélande**](https://legal.asics.com/en-aop/legal/local-deviations)
 
-[**Chine continentale**](https://legal.asics.com/en-us/legal/local-deviations#China)
+[**Chine continentale**](https://legal.asics.com/cn-cn/legal/local-deviations)
 
-[**Corée du Sud**](https://legal.asics.com/en-us/legal/local-deviations#SouthKorea)
+[**Corée du Sud**](https://legal.asics.com/kr-ko-kr/legal/local-deviations)
 
-[**Singapour**](https://legal.asics.com/en-us/legal/local-deviations#Singapore)
+[**Singapour**](https://legal.asics.com/en-aap-sg/legal/local-deviations)
 
-[**Thaïlande**](https://legal.asics.com/en-us/legal/local-deviations#Thailand)
+[**Thaïlande**](https://legal.asics.com/th-th/legal/local-deviations)
 
-[**Malaisie**](https://legal.asics.com/en-us/legal/local-deviations#Malaysia)
+[**Malaisie**](https://legal.asics.com/ms-my/legal/local-deviations)
 
-[**Afrique du Sud**](https://legal.asics.com/en-us/legal/local-deviations#SouthAfrica)
+[**Afrique du Sud**](https://legal.asics.com/en-sf/legal/local-deviations)
 
-**AUTRES SITES WEB**
+  
+**AUTRES SITES WEB**  
 
 Nos sites web et applications mobiles contiennent des liens vers des sites web tiers ; en suivant ces liens, vous quittez nos sites web et applications mobiles. Bien que ces sites web tiers soient sélectionnés avec soin, ASICS décline toute responsabilité pour l'utilisation de vos données personnelles par ces entreprises. Pour plus d'informations, veuillez vous référer à la déclaration de confidentialité du site Web que vous consultez (si celle-ci est disponible).
 
