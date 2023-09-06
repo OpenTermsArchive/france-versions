@@ -295,6 +295,8 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 
 **(b)** Si vous désirez changer tout ou partie de votre voyage, vous devrez nous contacter au préalable. Le tarif sera recalculé et vous aurez alors la possibilité d'accepter le nouveau prix ou de maintenir le transport d’origine, tel qu'inscrit sur le Billet.
 
+**(c)** Les modifications de billets ne sont possibles que sur les vols qui sont accessibles et disponibles au moment de la demande de modification.
+
 **4.4. Identification du Transporteur**
 
 Notre nom peut figurer en abrégé sur le Billet, par le biais de notre Code de Désignation ou sous toute autre forme. Notre adresse est considérée comme étant celle de l'aéroport de départ indiqué en face de notre nom, figurant dans la case "Transporteur" du Billet ou, en cas de Billet électronique, comme indiqué pour le premier tronçon de notre vol, dans le Mémo-Voyage (ou Itinéraire-Reçu).
