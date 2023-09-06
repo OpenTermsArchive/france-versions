@@ -159,7 +159,7 @@ En tout état de cause, le montant total du prix de la Course est fixé préalab
 ### 6.2 Options payantes
 
 * Accueil personnalisé : option payante à hauteur de 10€ à l’aéroport.
-* Option siège bébé / réhausseur : option payante à hauteur de 10€/ siège bébé / réhausseur. Si vous ne possédez pas de siège enfant lors de votre trajet, le chauffeur sera susceptible de refuser de vous prendre en charge. Le trajet pourra être annulé et des frais d’annulation seront facturés pour dédommager le chauffeur.
+* Option siège bébé / réhausseur : option payante à hauteur de 10€/ siège bébé / réhausseur. Si vous ne possédez pas de siège enfant lors de votre trajet, le chauffeur sera susceptible de refuser de vous prendre en charge. Le trajet pourra être annulé et des frais d’annulation seront facturés pour dédommager le chauffeur. 
 * Option chiens de moyennes tailles : option payante à hauteur de 20€ / chien
 
 Pour profiter des options payantes mises en place par Marcel, vous devez impérativement faire la demande 24h avant le début de votre course par email à l’adresse [contact@marcel.cab](mailto:contact@marcel.cab) (du lundi au vendredi de 9h30 à 17h30) ou appeler notre service client au [01 70 95 14 15](tel:0170951415) disponible 24h/24 et 7j/7. Toute demande réalisée par un autre canal ou après ce délai, ne sera pas prise en compte.
@@ -416,18 +416,18 @@ Annexe : Frais d’Annulation et Frais d’Attente
 
 **Pour les courses en Île de France, Nice et Lyon**
 
-|     |     |     |     |
-| --- | --- | --- | --- |
-|     | Berline | Business | Van |
-| À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC |
-| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum |
-| Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| Immédiat (plus de 5 min après la commande) | 13,5 € TTC | 21,5€ TTC | 21,5€ TTC |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+|     | Berline | Business | Van | Cyclocab |
+| À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
+| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC | 100% du prix de la course |
+| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la course |
+| Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation | \-  |
+| Immédiat (plus de 5 min après la commande) | 13,5 € TTC | 21,5€ TTC | 21,5€ TTC | \-  |
 
 #### Frais d’Attente
 
-| Berline | Business | Van |
+| Berline / Cyclocab | Business | Van |
 | --- | --- | --- |
 | 0,65€ TTC / minute | 0,85€ TTC / minute | 0,85€ TTC / minute |
 
