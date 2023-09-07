@@ -456,7 +456,6 @@ Services Google spécifiques
 
 Les avis de confidentialité suivants fournissent des informations supplémentaires sur certains services Google :
 
-* [Chrome et le système d'exploitation Chrome](https://www.google.com/chrome/intl/fr/privacy.html)
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=fr)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
