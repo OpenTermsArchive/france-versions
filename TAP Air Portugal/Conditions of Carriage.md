@@ -10,7 +10,7 @@ Votre contrat de transport avec la TAP est régi par :
 * Les dispositions figurant sur votre billet de transport ;
 * La réglementation tarifaire applicable ;
 * Les autres réglementations en vigueur ;
-* Les **[Conditions générales de transport (PDF, 0.32MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2023/market-fr/Conditions-Generales-de-Transport-FR-FR-ABR23.pdf?la=fr&hash=59A81967666DFD63F8EEC1F6BFB09C4EA15194DB)** (passagers et bagages).
+* Les **[Conditions générales de transport (PDF, 0.32MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2023/market-fr/SET23/Conditions-Generales-de-Transport-FR-FR-SET23.pdf?la=fr&hash=C5E72676DDCDC465CC4689BF4BD159154C750974)** (passagers et bagages).
 
 **Responsabilité des compagnies aériennes vis-à-vis des passagers et de leurs bagages**
 
