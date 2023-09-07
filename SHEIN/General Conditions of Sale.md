@@ -1,6 +1,6 @@
 CONDITIONS GÉNÉRALES DE VENTE
 
-**Version du 27 juillet 2023**
+Version du 1er août 2023
 
 Bienvenue sur le marché en ligne de Shein France.
 
@@ -248,7 +248,8 @@ La garantie légale de conformité emporte obligation pour le Vendeur, le cas é
 
 La garantie légale de conformité donne au Client droit à la réparation ou au remplacement du Produit dans un délai de trente jours suivant sa demande, sans frais et sans inconvénient majeur pour lui.
 
-Si le Produit est réparé dans le cadre de la garantie légale de conformité, le Client bénéficie d'une extension de six mois de la garantie initiale.  
+Si le Produit est réparé dans le cadre de la garantie légale de conformité, le Client bénéficie d'une extension de six mois de la garantie initiale.
+
 Si le Client demande la réparation du Produit, mais que le Vendeur impose le remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du Produit.
 
 Le Client peut obtenir une réduction du prix d'achat en conservant le Produit ou mettre fin au contrat en se faisant rembourser intégralement contre restitution du Produit, si :
@@ -263,8 +264,10 @@ Le Client peut obtenir une réduction du prix d'achat en conservant le Produit o
 
 Le Client a également droit à une réduction du prix du Produit ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le Client n'est alors pas tenu de demander la réparation ou le remplacement du Produit au préalable.
 
-Le Client n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.  
-Toute période d'immobilisation du Produit en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du Produit remis en état.  
+Le Client n'a pas droit à la résolution de la vente si le défaut de conformité est mineur.
+
+Toute période d'immobilisation du Produit en vue de sa réparation ou de son remplacement suspend la garantie qui restait à courir jusqu'à la délivrance du Produit remis en état.
+
 Les droits mentionnés ci-dessus résultent de l'application des articles L. 217-1 à L. 217-32 du code de la consommation.
 
 Le Vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité encourt une amende civile d'un montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre d'affaires moyen annuel (article L. 241-5 du code de la consommation).
@@ -301,22 +304,30 @@ Le Client peut exercer son droit de rétractation :
 
 \- via le formulaire de rétractation ci-dessous. À compléter et à envoyer [ici](https://fr.shein.com/orders/orderRevokePower)
 
-Formulaire de rétractation pour les Clients  
+Formulaire de rétractation pour les Clients
+
 A l'attention de :
 
 Service de commerce électronique
 
-\[INSÉRER LE NOM DU VENDEUR\] aux soins de Infinite Styles Services Co, Ltd, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.  
+\[INSÉRER LE NOM DU VENDEUR\] aux soins de Infinite Styles Services Co, Ltd, 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.
+
 Je vous notifie/nous vous notifions par la présente ma/notre rétractation du contrat de vente du Produit et/ou service suivant :
 
-Numéro de commande :  
-Code de l'article :  
-Commandé le :  
-Reçu le :  
-Nom du Client :  
+Numéro de commande :
+
+Code de l'article :
+
+Commandé le :
+
+Reçu le :
+
+Nom du Client :
+
 Adresse du Client :
 
-Signature du/des Client(s) (en cas de notification du présent formulaire sur papier) :  
+Signature du/des Client(s) (en cas de notification du présent formulaire sur papier) :
+
 Date :
 
 (12) Si le Client utilise le formulaire de rétractation, le Vendeur, par l'intermédiaire de la Marketplace, adressera sans délai un accusé de réception de la rétractation sur support durable, ainsi qu'un bordereau de retour que le Client doit impérativement joindre au Produit retourné. En l'absence de ce bon, le retour du Produit ne pourra être traité dans les délais normaux.
@@ -372,8 +383,10 @@ Le Client confirme qu'il a lu et compris la [politique de confidentialité de Ma
 
 12.1 **Vendeurs :** Le nom et les coordonnées de chaque Vendeur sont affichés dans les spécifications de chaque Produit sur le site avant que le Client ne confirme sa commande.
 
-12.2 **Opérateur :** Infinite Styles Services Co, Ltd dont l'adresse est la suivante : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.  
-Courriel : frcsteam@shein.com  
+12.2 **Opérateur :** Infinite Styles Services Co, Ltd dont l'adresse est la suivante : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland.
+
+Courriel : frcsteam@shein.com
+
 Numéro d'entreprise : 732881
 
 12.3 Pour tout problème lié aux Services, le Client peut contacter SHEIN à tout moment par email notre centre de confidentialité à [Privacy Center](https://fr.shein.com/Privacy-Center-a-1045.html) ou par le biais de notre [plateforme de Service Client](https://fr.shein.com/robot) .
@@ -396,10 +409,14 @@ La plainte sera analysée et fera l'objet d'une réponse dans un délai raisonna
 
 (3) En cas d'échec de la demande de réclamation auprès du Client de service ou en l'absence de réponse de ce service dans un délai d'un (1) mois, le Client peut soumettre le différend au médiateur, dans un délai maximal d'un (1) an à compter de la date de réclamation écrite. Le médiateur, le Centre de Médiation et d'Arbitrage de Paris (CMAP) tentera, en toute indépendance et impartialité, de rapprocher les parties en vue d'aboutir à une solution amiable. Ses coordonnées sont les suivantes :
 
-CMAP  
-www.cmap.fr  
-consommation@cmap.fr  
-39 rue Avenue Franklin Delano Roosevelt – 75008 Paris  
+CMAP
+
+www.cmap.fr
+
+consommation@cmap.fr
+
+39 rue Avenue Franklin Delano Roosevelt – 75008 Paris
+
 Tel : 01 44 95 11 40
 
 (4) Pour présenter sa demande de médiation, le Client dispose d'un formulaire de réclamation accessible sur le site du médiateur.
