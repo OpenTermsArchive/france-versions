@@ -222,6 +222,8 @@ Nous partageons vos données personnelles avec d’autres sociétés affiliées 
 
 Nous nous réservons le droit de révéler des informations vous concernant si cela est requis par la loi ou si les autorités compétentes ou les tribunaux nous le demandent.
 
+[Previous column](#)[Next column](#)
+
 | **Entreprise** | **Activité** |
 | --- | --- |
 | **Entreprise** | **Activité** |
