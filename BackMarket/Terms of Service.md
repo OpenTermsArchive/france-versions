@@ -155,3 +155,44 @@ Annexe 2 : Paiement en 10 ou 12 fois avec frais
     
 
 Exemple : Pour un achat de 600€ en 10 fois, vous réglez un apport de 60€ suivi de 9 mensualités de 64€. Montant du financement : 576€. Coût du financement : 36€. Montant total dû : 576€. Taux débiteur annuel fixe de 15,70%. Crédit affecté sur 9 mois au TAEG fixe de 16,90%. Conditions particulières pour les offres promotionnelles ponctuelles, signalées sur le site : Exemple pour un achat de 600€ en 10 fois, vous réglez un apport de 60€ suivi de 9 mensualités de 60€, Montant du financement : 540€. Taux débiteur annuel fixe 0%. Crédit affecté sur 9 mois au TAEG fixe de 0%.
+
+* [Qui sommes nous ?](https://www.backmarket.fr/fr-fr/about-us)
+* [Revendre votre appareil](https://www.backmarket.fr/fr-fr/buyback/home)
+* [Back Market pour les entreprises](https://pro.backmarket.fr/)
+* [Offre étudiante](https://www.backmarket.fr/fr-fr/student-discount)
+* [On recrute !](https://jobs.backmarket.com/)
+* [Presse](mailto:press@backmarket.com)
+
+* [Devenir vendeur sur Back Market](https://backmarket.fr/fr-fr/seller/home)
+* [Connexion au Back Office marchand](https://www.backmarket.fr/bo_merchant)
+* [Paiement](https://help.backmarket.com/hc/fr-fr/articles/360026643854-Quels-sont-les-moyens-de-paiement-accept%C3%A9s-sur-Back-Market)
+* [Livraison](https://help.backmarket.com/hc/fr-fr/articles/360026646054-Dans-quel-pays-puis-je-me-faire-livrer-et-combien-cela-me-co%C3%BBte)
+* [Retours & Remboursements](https://help.backmarket.com/hc/fr-fr/categories/360002106194-Retours-Remboursements)
+* [Assurances](https://www.backmarket.fr/fr-fr/e/backup)
+* [Aide et Assistance](https://www.backmarket.fr/fr-fr/help)
+* [Guides d'achat et conseils](https://www.backmarket.fr/fr-fr/c)
+* [Comparer nos produits](https://www.backmarket.fr/fr-fr/compare/home)
+* [Blog](https://story.backmarket.fr/)
+
+* [Conditions générales d'utilisation](https://www.backmarket.fr/fr-fr/legal/terms-of-use/)
+* [Conditions générales de vente](https://www.backmarket.fr/fr-fr/legal/terms-of-sale/)
+* [Termes et Conditions des reprises](https://www.backmarket.fr/fr-fr/legal/terms-of-trade-in/)
+* [Contrat de garantie commerciale](https://www.backmarket.fr/fr-fr/legal/warranty/)
+* [Protection des données](https://www.backmarket.fr/fr-fr/legal/data-protection/)
+* [Cookies](https://www.backmarket.fr/fr-fr/cookies)
+* [Autres infos légales](https://www.backmarket.fr/fr-fr/legal/other-information/)
+* [Mentions légales](https://www.backmarket.fr/fr-fr/legal/legal-mentions/)
+* Achats 100% sécurisés
+    
+    ![Cartes Bancaires](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/cb.svg)![Visa](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/visa.svg)![Mastercard](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/mastercard.svg)![American Express](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/amex.svg)![Oney](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/oney.svg)![PayPal](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/methods-v2/paypal.svg)![Apple Pay](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/methods-v2/apple_pay.svg)![Klarna](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/payment/networks-v2/klarna.svg)
+    
+
+* [Trustpilot](https://fr.trustpilot.com/review/www.backmarket.fr)
+* [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Back-Market-EI_IE1780208.11,22.htm)
+* [Welcome to the Jungle](https://www.welcometothejungle.co/fr/companies/back-market)
+* [Medium](https://medium.com/@BackMarket)
+* [Nana Mouskouri](https://fr.wikipedia.org/wiki/Nana_Mouskouri)
+* [![twitter](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/socials/twitter-light.svg)](https://www.twitter.com/back_market "Back Market - twitter")[![linkedin](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/socials/linkedin-light.svg)](https://fr.linkedin.com/company/back-market "Back Market - linkedin")[![facebook](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/socials/facebook-light.svg)](https://www.facebook.com/pages/Back-Market/1497704560478521 "Back Market - facebook")[![instagram](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/socials/instagram-light.svg)](https://www.instagram.com/backmarket_fr/ "Back Market - instagram")
+    
+
+* ![BCorp Logo](https://d1eh9yux7w8iql.cloudfront.net/front/public/statics/pastrami/29bd9b6bdeb3c7bff36f50078e16439b2a1a91d7/img/b-corp/B-Corp-Logo-Black.svg)
