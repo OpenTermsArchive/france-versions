@@ -37,11 +37,11 @@ ARTICLE 5. COMMANDES
   
 Le Client matérialise sa commande en remplissant les 5 étapes suivantes :
 
-* **Etape 1 :** le Client sélectionne les Produits choisis et les ajoute à son panier après avoir sélectionné la taille et la couleur désirées.Le panier situé en haut à droite de l’écran informe le Client qu’il a pris en compte les sélections en indiquant le nombre de Produits qu’il contient.
-* **Etape 2 :** le Client vérifie le contenu de son panier en cliquant sur « Voir ma commande » afin d’avoir accès au récapitulatif de sa commande. Le Client peut alors modifier sa commande (Produit, taille, quantité). Le montant total TTC de la commande, distinguant d’une part le prix dû au titre des Produits, et d’autre part les frais de livraison, est alors indiqué dans le récapitulatif.
-* **Etape 3 :** Une fois la commande vérifiée et le cas échéant modifiée, le Client valide son panier afin de finaliser sa commande en cliquant de nouveau sur « Valider».​ 
-* **Etape 4 :** Le Client saisit ses coordonnées de facturation et de livraison. Le Client vérifie alors l’ensemble des informations et clique sur " valider " pour poursuivre sa commande. En cas d'erreur de saisie, notamment d'adresse de livraison erronée ou incomplète, NAF NAF ne saurait être tenue responsable des conséquences en termes de retard ou d'impossibilité de livraison. Tous les frais liés à la réexpédition des produits faisant suite à une erreur de saisie du Client seront à la charge exclusive de ce dernier.
-* **Etape 5 :** Le Client choisit son mode de paiement : carte bleue, carte Mastercard, carte Visa, Paypal ou Alma.
+*   **Etape 1 :** le Client sélectionne les Produits choisis et les ajoute à son panier après avoir sélectionné la taille et la couleur désirées.Le panier situé en haut à droite de l’écran informe le Client qu’il a pris en compte les sélections en indiquant le nombre de Produits qu’il contient.
+*   **Etape 2 :** le Client vérifie le contenu de son panier en cliquant sur « Voir ma commande » afin d’avoir accès au récapitulatif de sa commande. Le Client peut alors modifier sa commande (Produit, taille, quantité). Le montant total TTC de la commande, distinguant d’une part le prix dû au titre des Produits, et d’autre part les frais de livraison, est alors indiqué dans le récapitulatif.
+*   **Etape 3 :** Une fois la commande vérifiée et le cas échéant modifiée, le Client valide son panier afin de finaliser sa commande en cliquant de nouveau sur « Valider».​ 
+*   **Etape 4 :** Le Client saisit ses coordonnées de facturation et de livraison. Le Client vérifie alors l’ensemble des informations et clique sur " valider " pour poursuivre sa commande. En cas d'erreur de saisie, notamment d'adresse de livraison erronée ou incomplète, NAF NAF ne saurait être tenue responsable des conséquences en termes de retard ou d'impossibilité de livraison. Tous les frais liés à la réexpédition des produits faisant suite à une erreur de saisie du Client seront à la charge exclusive de ce dernier.
+*   **Etape 5 :** Le Client choisit son mode de paiement : carte bleue, carte Mastercard, carte Visa, Paypal ou Alma.
 
 **Pour le paiement par carte bancaire :**  
 Le Client accède alors à l'écran de paiement sécurisé tel que précisé à l'article 5.3 ci-après.  
@@ -65,10 +65,10 @@ La validation de la commande par le Client et la confirmation de commande envoy�
 Le Client ayant effectué une commande aura la possibilité d’imprimer sa facture en se connectant sur le Site dans l’espace suivi de commande prévu à cet effet après création de son compte.  
 NAF NAF se réserve le droit de ne pas valider la commande en cas de :
 
-* réclamations anormales ou abusives,
-* commandes anormales au regard des quantités commandées,
-* échanges et retours anormaux ou abusifs,
-* litige(s) existant(s) avec le client.
+*   réclamations anormales ou abusives,
+*   commandes anormales au regard des quantités commandées,
+*   échanges et retours anormaux ou abusifs,
+*   litige(s) existant(s) avec le client.
 
 Le Service Client de la société NAF NAF est à la disposition du Client pour toutes questions relatives à sa commande.  
 Le Service Client est joignable via le formulaire de contact disponible sur le site à l’adresse https://www.nafnaf.com/contact\_faq.php, et par téléphone au 09 71 00 64 26 du lundi au vendredi, de 11H à 13H et de 14H à 16H  
@@ -93,12 +93,12 @@ La confirmation de commande est enregistrée sur les registres de NAF NAF, eux-m
 La procédure décrite aux articles 5.1 à 5.4 s’applique de la même manière aux commandes Click & Collect. Le Client ayant fait usage de l’option Click & Collect est informé de ce que :  
  
 
-1. Une confirmation de mise à disposition de la commande sera envoyée, par email, au Client ;
-2. Le délai de conservation du produit en boutique est de 15 (quinze) jours à compter de la réception du colis par la boutique du réseau NAF NAF. A défaut de retrait dans ce délai, le colis sera retourné en entrepôt et le Client recevra remboursement du prix de sa commande ;
-3. Le Client devra obligatoirement se présenter en Boutique muni d’une pièce d’identité, sans quoi NAF NAF se réserve le droit de refuser la livraison ;
-4. Le Client peut toutefois faire retirer sa commande par une personne de son choix, sous réserve que celle-ci se présente avec sa carte d’identité et de celle du Client. A défaut, NAF NAF se réserve le droit de refuser la livraison ;
-5. Une fois la commande validée et en cas de sélection de ce mode de commande, le Client ne pourra pas solliciter la livraison à une autre adresse que celle de la Boutique sélectionnée ; 
-6. La sélection de ce mode de commande n’est possible que dans les boutiques du réseau NAF NAF, à l’exception des boutiques NAF NAF Outlet décrites à l’article 7.  
+1.  Une confirmation de mise à disposition de la commande sera envoyée, par email, au Client ;
+2.  Le délai de conservation du produit en boutique est de 15 (quinze) jours à compter de la réception du colis par la boutique du réseau NAF NAF. A défaut de retrait dans ce délai, le colis sera retourné en entrepôt et le Client recevra remboursement du prix de sa commande ;
+3.  Le Client devra obligatoirement se présenter en Boutique muni d’une pièce d’identité, sans quoi NAF NAF se réserve le droit de refuser la livraison ;
+4.  Le Client peut toutefois faire retirer sa commande par une personne de son choix, sous réserve que celle-ci se présente avec sa carte d’identité et de celle du Client. A défaut, NAF NAF se réserve le droit de refuser la livraison ;
+5.  Une fois la commande validée et en cas de sélection de ce mode de commande, le Client ne pourra pas solliciter la livraison à une autre adresse que celle de la Boutique sélectionnée ; 
+6.  La sélection de ce mode de commande n’est possible que dans les boutiques du réseau NAF NAF, à l’exception des boutiques NAF NAF Outlet décrites à l’article 7.  
 
 ARTICLE 6. LIVRAISON
 --------------------
@@ -149,8 +149,8 @@ ARTICLE 7. BOUTIQUES
 NAF NAF dispose de plusieurs types de boutiques décrits ci-dessous :  
 Les Boutiques du réseau NAF NAF sont variées, certaines disposant de spécificités commerciales propres et décrites ci-dessous :
 
-1. **NAF NAF Boutique** :  les boutiques du réseau NAF NAF proposant tous les produits mis en vente par l’entreprise ;
-2. **NAF NAF Outlet** : ces boutiques disposent de stocks composés des anciennes collections remisées, et sont répertoriées selon le tableau suivant:
+1.  **NAF NAF Boutique** :  les boutiques du réseau NAF NAF proposant tous les produits mis en vente par l’entreprise ;
+2.  **NAF NAF Outlet** : ces boutiques disposent de stocks composés des anciennes collections remisées, et sont répertoriées selon le tableau suivant:
 
 |     |     |
 | --- | --- |
@@ -179,12 +179,12 @@ Seuls les articles commandés sur notre site et faisant l’objet d’une même 
 Pour tout retour dans le cadre du droit de rétractation, la procédure ci-dessous doit être intégralement et scrupuleusement respectée :  
  
 
-* Le Client doit joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
+*   Le Client doit joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
     Aucun retour ne pourra être accepté sans ledit bon de retour dûment complété.
 
  
 
-*  Les articles doivent être renvoyés dans leur emballage d'origine, avec leur étiquette et leurs éventuels accessoires, dans un état permettant leur commercialisation immédiate à l’adresse suivante, selon les modalités de transport prévues à l’article 6 des présentes CGV :
+*    Les articles doivent être renvoyés dans leur emballage d'origine, avec leur étiquette et leurs éventuels accessoires, dans un état permettant leur commercialisation immédiate à l’adresse suivante, selon les modalités de transport prévues à l’article 6 des présentes CGV :
 
    
 NEW NAF NAF  
@@ -197,11 +197,11 @@ En tout état de cause, la procédure de retour est systématiquement vérifiée
 En cas de retour de Produit(s) ayant fait l’objet d'un achat sous offre promotionnelle tel qu’un code promo à valeur faciale fixée en euros (offre commerciale spécifique ou dédommagement exceptionnel offert par le vendeur), les conditions ci-après s’appliquent :   
  
 
-* En cas de retour par l’Internaute de tout ou partie des Produits lui ayant permis de bénéficier d’une des offres promotionnelles décrites ci-avant, l’Internaute sera remboursé du prix du Produit retourné, duquel sera déduit la réduction appliquée initialement (réduction calculée au prorata des prix de vente des Produits faisant partie de la commande) et à laquelle le Client ne pourra plus prétendre.
+*   En cas de retour par l’Internaute de tout ou partie des Produits lui ayant permis de bénéficier d’une des offres promotionnelles décrites ci-avant, l’Internaute sera remboursé du prix du Produit retourné, duquel sera déduit la réduction appliquée initialement (réduction calculée au prorata des prix de vente des Produits faisant partie de la commande) et à laquelle le Client ne pourra plus prétendre.
 
  
 
-* De même, en cas de retour sur un Produit(s) ayant bénéficié d’une remise suite à l’utilisation d’un code de bienvenue, ce même code de bienvenue ne pourra être restitué au Client pour une prochaine utilisation. 
+*   De même, en cas de retour sur un Produit(s) ayant bénéficié d’une remise suite à l’utilisation d’un code de bienvenue, ce même code de bienvenue ne pourra être restitué au Client pour une prochaine utilisation. 
 
    
 Les risques et frais de retour (cf. article 6 selon les modalités de retour choisies par le Client) sont à la charge exclusive du Client lorsqu'ils ne sont pas offerts par NAF NAF.  
@@ -235,12 +235,12 @@ A défaut, si le remplacement de l’article ou sa réparation n’est pas possi
 Pour tout retour d’article non-conforme, le Client devra respecter la procédure suivante:  
  
 
-* Le Client devra joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
+*   Le Client devra joindre à son colis le bon de retour préalablement complété et imprimé à l'aide du formulaire de retour accessible depuis l'espace Client - Rubrique “Mes Commandes”.  
     Aucun retour ne pourra être accepté sans ledit bon de retour dûment complété.
 
  
 
-* Les articles devront être renvoyés soit dans leur emballage d'origine, soit dans un emballage les protégeant contre toute détérioration avec leur étiquette et leurs éventuels accessoires permettant leur nouvelle commercialisation à l'adresse mentionnée ci-après.
+*   Les articles devront être renvoyés soit dans leur emballage d'origine, soit dans un emballage les protégeant contre toute détérioration avec leur étiquette et leurs éventuels accessoires permettant leur nouvelle commercialisation à l'adresse mentionnée ci-après.
 
    
 NAF NAF  
@@ -285,21 +285,21 @@ Le Programme NAF GOLD peut être souscrit par toute personne remplissant les con
 Le Programme NAF GOLD n’est valable que pour les achats :  
  
 
-*  physiquement réalisés dans les pays suivants :
+*    physiquement réalisés dans les pays suivants :
 
  
 
-* France métropolitaine (Corse et Monaco compris), à l’exception des boutiques OUTLET ;
+*   France métropolitaine (Corse et Monaco compris), à l’exception des boutiques OUTLET ;
 
  
 
-* ou commandés en ligne et livrés dans les pays suivants  :
+*   ou commandés en ligne et livrés dans les pays suivants  :
 
  
 
-* France métropolitaine (Corse, Monaco et Andorre\* compris) ;
-* Luxembourg\* ;
-* Belgique\*.
+*   France métropolitaine (Corse, Monaco et Andorre\* compris) ;
+*   Luxembourg\* ;
+*   Belgique\*.
 
    
         _\* Andorre, Luxembourg et Belgique non éligible à l’avantage NAF GOLD livraison gratuite._  
@@ -309,7 +309,7 @@ Le Programme NAF GOLD n’est valable que pour les achats :
 L’adhésion au Programme NAF GOLD est proposée au Client selon la formule suivante :  
  
 
-* Engagement de 12 mois, au prix de 24 euros par an payable au moment de la souscription, sans reconduction tacite, valable en ligne et en boutique.
+*   Engagement de 12 mois, au prix de 24 euros par an payable au moment de la souscription, sans reconduction tacite, valable en ligne et en boutique.
 
    
 **_10.3.1 - Durée d’engagement_**    
@@ -321,8 +321,8 @@ Le Client souhaitant adhérer (ci-après « **l’Adhérent** ») souscrit à 
 L’adhésion au Programme NAF GOLD est payable en une fois par :  
  
 
-* carte bancaire ou espèces en boutique ;
-* carte bancaire ou Paypal sur le site internet ;
+*   carte bancaire ou espèces en boutique ;
+*   carte bancaire ou Paypal sur le site internet ;
 
   
 L'adhésion au Programme NAF GOLD ne donne pas lieu, ni à la remise d'une carte physique, ni à une carte dématérialisée.  
@@ -336,13 +336,13 @@ Le paiement du montant de l’adhésion au Programme NAF GOLD, conformément à 
 L’adhésion au Programme NAF GOLD donne le droit à l’Adhérent à des avantages supplémentaires, notamment :  
  
 
-* Une offre GOLD valable, en ligne et en boutique, toute l’année sur tous les articles\*, permettant de bénéficier des réductions suivantes :
+*   Une offre GOLD valable, en ligne et en boutique, toute l’année sur tous les articles\*, permettant de bénéficier des réductions suivantes :
 
  
 
-* \-20% sur le prix de la Commande dès 2 articles achetés ;
-* \-30% sur le prix de la Commande dès 3 articles achetés ;
-* \-40% sur le prix de la Commande dès 4 articles achetés ou plus ;
+*   \-20% sur le prix de la Commande dès 2 articles achetés ;
+*   \-30% sur le prix de la Commande dès 3 articles achetés ;
+*   \-40% sur le prix de la Commande dès 4 articles achetés ou plus ;
 
  
 
@@ -350,21 +350,21 @@ _\* ATTENTION :_ _offre non cumulable avec des produits indiqués en promotion 
 
  
 
-* Pass Duo : A chaque passage en caisse, l’Adhérent peut faire bénéficier à **une** personne de son choix, des réductions de prix offertes par la carte GOLD (« OFFRE GOLD »), sous réserve d’être lui-même physiquement présent lors de ces achats.
+*   Pass Duo : A chaque passage en caisse, l’Adhérent peut faire bénéficier à **une** personne de son choix, des réductions de prix offertes par la carte GOLD (« OFFRE GOLD »), sous réserve d’être lui-même physiquement présent lors de ces achats.
 
  
 
  _ATTENTION :_ _offre valable uniquement_ _dans les boutiques physiques NAF NAF présentes sur le territoire défini à l’article 10 .2, à l’exception des boutiques NAF NAF OUTLET._
 
-* Livraison gratuite en Point Relais (Mondial Relay) uniquement, pour toute Commande comprenant des articles éligibles à l'offre NAF GOLD, réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
+*   Livraison gratuite en Point Relais (Mondial Relay) uniquement, pour toute Commande comprenant des articles éligibles à l'offre NAF GOLD, réalisée sur le site nafnaf.com, sans minimum d’achat, en France métropolitaine, Corse et Monaco ;
 
  
 
-* Découverte des collections en avant-première ;
+*   Découverte des collections en avant-première ;
 
  
 
-* Invitations à des Evènements exclusifs (dans la limite des places disponibles et selon les modalités précisées au moment de l’invitation), et des surprises, tout au long de l’année ;
+*   Invitations à des Evènements exclusifs (dans la limite des places disponibles et selon les modalités précisées au moment de l’invitation), et des surprises, tout au long de l’année ;
 
  
 
@@ -372,11 +372,11 @@ _ATTENTION :_ _transport et hébergement non pris en charge par NAF NAF_.
 
  
 
-* Pour toute nouvelle adhésion, souscrite en boutique NAF NAF : un shopping-bag offert et remis au moment du paiement en boutique.
+*   Pour toute nouvelle adhésion, souscrite en boutique NAF NAF : un shopping-bag offert et remis au moment du paiement en boutique.
 
  
 
-* Sacherie offerte, pour tout achat effectué en boutique, sur demande, à chaque passage en caisse.
+*   Sacherie offerte, pour tout achat effectué en boutique, sur demande, à chaque passage en caisse.
 
    
 **_10.5 - Le droit de rétractation_**   
@@ -445,7 +445,7 @@ _Disposition non valable pour le Luxembourg, la Belgique et Andorre._
 Il est par ailleurs rappelé que :  
  
 
-* la livraison en boutique est également gratuite, sans minimum d’achat, en France métropolitaine (hors Corse) et Monaco.
+*   la livraison en boutique est également gratuite, sans minimum d’achat, en France métropolitaine (hors Corse) et Monaco.
 
  **_10.7.3 - Annulation de commande avant expédition_**    
   
@@ -460,11 +460,11 @@ Le droit à rétractation (article 10.5) n’est pas impacté.
 En cas de retour de Commande ayant bénéficié des avantages du Programme NAF GOLD, le remboursement sera réalisé comme suit :  
  
 
-* En cas de retour total de la Commande, le prix intégral de la commande sera remboursé à l’Adhérent ;
+*   En cas de retour total de la Commande, le prix intégral de la commande sera remboursé à l’Adhérent ;
 
  
 
-* En cas de retour partiel de Commande l’offre validée pour l’achat sera révisée et recalculée au prorata des articles rendus.
+*   En cas de retour partiel de Commande l’offre validée pour l’achat sera révisée et recalculée au prorata des articles rendus.
 
    
 Il sera procédé au remboursement sur le moyen de paiement utilisé au moment du paiement de la Commande initiale.  
@@ -501,8 +501,8 @@ La politique de confidentialité fait partie intégrante des CGV ; elle informe 
 La politique de confidentialité et la charte relative aux cookies sont consultables à l’adresse suivante : [https://www.nafnaf.com/donnees-personnelles.php](https://www.nafnaf.com/donnees-personnelles.php)   
 Afin d’exercer les droits prévus par la règlementation relative aux données à caractère personnel telle qu’expliquée dans ladite politique, chaque Utilisateur peut contacter NAF NAF :
 
-* par courrier : NEW NAF NAF – 2 rue Sarah Bernhardt – 92600 ASNIERES SUR SEINE
-* Ou en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php
+*   par courrier : NEW NAF NAF – 2 rue Sarah Bernhardt – 92600 ASNIERES SUR SEINE
+*   Ou en utilisant le formulaire de contact à l’adresse suivante : https://www.nafnaf.com/contact\_faq.php
 
 ARTICLE 13. RÈGLEMENT AMIABLE DES LITIGES
 -----------------------------------------
@@ -544,24 +544,24 @@ ARTICLE 17. SERVICE CLIENT
 Pour tout conseil, information ou question, notre Service Client est à votre disposition :  
  
 
-* par mail : service.relationclient@nafnaf.com
-* par courrier : NEW NAF NAF - 2 Rue Sarah Bernhardt CS 20047 - 92601 Asnières Cedex
-* par téléphone : 09 71 00 64 26 du lundi au vendredi de 11H à 13H et de 14H à 16H
+*   par mail : service.relationclient@nafnaf.com
+*   par courrier : NEW NAF NAF - 2 Rue Sarah Bernhardt CS 20047 - 92601 Asnières Cedex
+*   par téléphone : 09 71 00 64 26 du lundi au vendredi de 11H à 13H et de 14H à 16H
 
 ARTICLE 18. RESPONSABILITE
 --------------------------
 
 NAF NAF ne saurait être tenue pour responsable de l'inexécution du contrat conclu en cas de:
 
-* rupture de stock ou indisponibilité du produit,
-* perturbation, pandémie ou épidémie ayant un impact sur les services et notamment le traitement et la livraison de la commande, grève totale ou partielle, notamment des services postaux ou moyens de transport et/ou communications.
-* inondations, incendies, tout cas de force majeure et tout autre évènement imprévisible ou indépendant de NAF NAF.
+*   rupture de stock ou indisponibilité du produit,
+*   perturbation, pandémie ou épidémie ayant un impact sur les services et notamment le traitement et la livraison de la commande, grève totale ou partielle, notamment des services postaux ou moyens de transport et/ou communications.
+*   inondations, incendies, tout cas de force majeure et tout autre évènement imprévisible ou indépendant de NAF NAF.
 
 D’autre part, NAF NAF décline toute responsabilité :
 
-* pour toute interruption du Site, survenance de bugs, dommage résultant d’une intrusion frauduleuse d’un tiers ayant entrainé une modification des informations mises à la disposition sur le Site,
-* pour les erreurs non substantielles relatives aux produits,
-* pour l’impossibilité de joindre le service clientèle et/ou d’accéder au Site.
+*   pour toute interruption du Site, survenance de bugs, dommage résultant d’une intrusion frauduleuse d’un tiers ayant entrainé une modification des informations mises à la disposition sur le Site,
+*   pour les erreurs non substantielles relatives aux produits,
+*   pour l’impossibilité de joindre le service clientèle et/ou d’accéder au Site.
 
 ARTICLE 19. DROIT APPLICABLE
 ----------------------------
