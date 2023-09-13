@@ -195,7 +195,7 @@ En cas de contestation du Statut acquis par l’Adhérent, seules les informatio
 **9.2 Offres du Programme de fidélité**
 
 Les Offres sont classées en fonction du Statut de l’Adhérent.  
-Vous trouverez les offres sur le lien suivant : [OFFRE DU PROGRAMME DE FIDÉLITÉ](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwe3bbbd97/SS23/PAGE-FIDELITE/files/Benefits_Grid_CDC_FR.pdf).  
+Vous trouverez les offres sur le lien suivant : [OFFRE DU PROGRAMME DE FIDÉLITÉ](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw3aa39e6e/SS23/PAGE-FIDELITE/files/Benefits_Grid_CDC_FR_AW23.pdf).  
 Les cadeaux offerts dans le cadre du Programme ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
 
 **9.2 Modification du Programme de fidélité**
