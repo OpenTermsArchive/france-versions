@@ -252,8 +252,7 @@ Nous utilisons également certaines de ces données pour les recommandations de 
 Lors de la réservation de billets pour des services de transport international, les catégories suivantes de données à caractère personnel sont également collectées en fonction du lieu de départ et d’arrivée :
 
 * informations sur le sexe,
-* pièce d’identité, passeport ou numéro d’identification,
-* informations relatives aux mesures visant à contenir la pandémie de COVID-19 (coronavirus) (plus d’informations à ce lien [https://www.flixbus.fr/confidentialite-covid-19).](https://www.flixbus.fr/confidentialite-covid-19)
+* pièce d’identité, passeport ou numéro d’identification.
 
 Ces données sont traitées pour la réservation, la fourniture et le traitement des services de transport, y compris le service client, ainsi que pour l’exécution des obligations légales.
 
