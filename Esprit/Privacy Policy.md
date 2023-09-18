@@ -433,6 +433,102 @@ Vous trouverez de plus amples informations sur la protection des données chez M
 
   
 
+**g) Airship**
+
+L’application affiche le consentement standard aux notifications push : en sélectionnant « Recevoir du contenu et des informations pertinentes », l’application active les notifications push et partage les jetons de notification avec Airship.
+
+L’application ESPRIT active la collecte de données Airship (quelle que soit la fonction activée et l’automatisation In-App activée) et transmet les données suivantes à Airship :
+
+·   ID du canal, localité, fuseau horaire, plate-forme, statut de consentement (push et notifications), version du SDK, ID de l’appareil Accengage (module Accengage de migration), version de l’application
+
+·   Les champs suivants, personnalisés pour Esprit, sont également transmis : app\_country, app\_language, language, country, countryCode, model, login\_status
+
+L’application active l’analyse, les balises et les attributs, puis contacte et transmet les données suivantes à Airship :
+
+·   Événements, identifiants associés, types de notification enregistrés, heure de l’application, version de l’application, modèle de l’appareil, fabricant de l’appareil, version du système d’exploitation, opérateur, type de connexion, utilisation du framework, balises de canal et de contact, attributs de canal et de contact, identifiants externes (utilisateur nommé)
+
+·   Les champs suivants, personnalisés pour Esprit, sont également transmis : product\_line\_preferences
+
+Les données personnalisées sont activées selon le statut de connexion :
+
+·   L’application permet de personnaliser les données et de transmettre les données suivantes à Airship : birthdate, card\_number, epoints, firstname, friendid, friend\_id, friend\_level, points\_gold, points\_platin, postal\_code
+
+·   Outre Airship, ces données sont sauvegardées sur SFMC
+
+Les consentements sont mémorisés dans les paramètres de l’application sous « Paramètres de consentement », de sorte que l’utilisateur puisse revenir sur ces paramètres s’il le souhaite.
+
+  
+
+**h) Firebase**
+
+L’application affiche le consentement à Google Analytics for Firebase (GA4F) SDK. En sélectionnant « Hilf uns die Esprit App noch besser zu machen! », l’application démarre la collecte de données de base sur l’utilisation de l’application. Une fois le SDK Firebase en place, un certain nombre d’événements sont collectés automatiquement.
+
+Sont collectés par défaut les événements suivants :
+
+·   app\_exception
+
+·   app\_update
+
+·   first\_open
+
+·   os\_update
+
+·   screen\_view
+
+·   session\_start
+
+Les paramètres suivants sont collectés par défaut avec chaque événement, y compris les événements personnalisés. 
+
+·   Language, page\_location, page\_referrer, page\_title, screen\_resolution
+
+Toute autre donnée collectée afin d’établir les diagnostics techniques liés à l’application. Nous déclenchons un événement lorsqu’un utilisateur reçoit un code d’erreur de l’API.
+
+Les consentements sont enregistrés dans les paramètres de l’application sous « Paramètres de consentement » afin que l’utilisateur puisse revenir sur ces paramètres s’il le souhaite.
+
+  
+
+**i) Tealium in App**
+
+Implémentation de l’événement « page view », sur la base de l’extrait de code suivant pour les pages suivantes (<description de la page> - <valeur du nom de la page> :
+
+·   Page d’accueil - page de démarrage (nous effectuons un suivi via la vue web WKScriptMessage, voir le dernier point)
+
+·   Page de présentation du produit (PLP) - plp
+
+·   Vue individuelle du produit (PDP) - pdp
+
+·   Liste de souhaits - wishlist
+
+·   Panier - basket
+
+·   Vue de recherche 
+
+·   Vue scanner (vue de base, vue d’aide, vue d’historique, vue résultats) 
+
+·   Vue sélection locale
+
+·   Vue boîte de réception Airship 
+
+·   Chaque fois que nous recevons un événement de la vue web de type trackView (que nous transmettons à Tealium) → WKScriptMessage
+
+  
+
+**j) Autorisations des caméras**
+
+Pour protéger la vie privée de l’utilisateur, l’application doit obtenir l’autorisation de l’utilisateur avant d’accéder à sa caméra. L’utilisateur doit explicitement autoriser l’application à accéder aux caméras et aux microphones. Avant de pouvoir utiliser le système de captation pour la première fois, l’application affiche une alerte demandant à l’utilisateur d’autoriser l’accès à la caméra, comme indiqué ci-dessous. L’application mémorise la réponse de l’utilisateur à cette alerte, de sorte que les utilisations ultérieures du système de captation n’entraînent pas la réapparition de l’alerte. L’utilisateur peut modifier les paramètres d’autorisation de l’application dans Réglages > Confidentialité.
+
+Demande d’autorisation de captation de médias via l’application :
+
+·   Microphone
+
+·   Galerie photos
+
+·   Caméra
+
+  
+
+  
+
 ﻿**III. Traitement des données dans le cadre de l’utilisation de notre boutique en ligne**
 
   
@@ -444,8 +540,6 @@ Vous trouverez de plus amples informations sur la protection des données chez M
 **a) Achat dans la boutique en ligne**
 
 Lorsque vous faites des achats dans la boutique en ligne Esprit via notre site Internet ou notre application, les données personnelles suivantes vous concernant peuvent être collectées, exploitées et utilisées pour traiter votre commande, en plus des informations sur les articles commandés :
-
-  
 
 • nom
 
@@ -464,8 +558,6 @@ Lorsque vous faites des achats dans la boutique en ligne Esprit via notre site I
 • numéro de client
 
 • données de paiement (« données de base des clients »)
-
-  
 
 Lors de leur transmission, vos données sont cryptées par les normes de sécurité techniques les plus récentes, un cryptage SSL 256 bit (SSL = Secure Socket Layer).
 
@@ -905,4 +997,4 @@ Par ailleurs, si cela s’avérait nécessaire d’un point de vue légal ou jur
 
 **E. Version**
 
-Ces informations relatives à la protection des données ont été actualisées la dernière fois le 17.12.2021. La société Esprit se réserve le droit de mettre à jour ponctuellement les présentes informations relatives à la protection des données.
+Ces informations relatives à la protection des données ont été actualisées la dernière fois le 15.09.2023. La société Esprit se réserve le droit de mettre à jour ponctuellement les présentes informations relatives à la protection des données.
