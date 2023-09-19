@@ -298,7 +298,7 @@ ARTICLE 13 –TRI ET GESTION DES DECHETS
 
 Le logo Triman reproduit ci-après signifie que le produit est soumis à une règle de tri et qu’il doit être jeté dans un container de recyclage ou déposé en point d’apport volontaire (selon le pictogramme associé) :
 
-![Triman](https://www.jules.com/on/demandware.static/-/Sites-Jules-SFRA-Library/default/dwe52ec53f/cgv/Logo-Triman.png)
+![Triman](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 Il est apposé sur l’ensemble des produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Pour Jules, ses Produits textiles et chaussants ainsi que ses prospectus commerciaux sont notamment concernés. Ils doivent donc être triés par chaque Client.  
 Il est précisé que le logo Triman peut figurer sur le produit, son emballage, ou, à défaut, dans les autres documents fournis avec le produit (notice, etc.).
