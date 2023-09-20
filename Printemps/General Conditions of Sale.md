@@ -323,6 +323,32 @@ Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.c
 
   
 
+**CHRONOPOST SHOP2SHOP -** 4,90 euros (48h)
+
+  
+
+Livraisons offertes dès 200 euros d'achat
+
+  
+
+La livraison standard en relais Shop2Shop par Chronopost propose une livraison sous 48 heures dans les points relais partenaires. 
+
+  
+
+Le colis restera 7 jours calendaires au point relais, avant de faire retour le 8ème jour.
+
+  
+
+Du lundi au vendredi, toutes les commandes enregistrées avant 13h sont expédiées le jour-même.
+
+  
+
+Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les commandes passées entre 13h le vendredi et 13h le lundi sont expédiées le lundi soir.
+
+  
+
+  
+
 **Union Européenne**
 
 Livraisons standard offertes dès 300 euros d'achat
@@ -361,6 +387,32 @@ Le prix varie selon le pays de destination :
 * 17€ pour la Belgique, le Luxembourg et les Pays-Bas
 * 15€ pour l'Irlande
 * 22€ pour l'Autriche
+
+  
+
+**CHRONOPOST SHOP2SHOP** (48 à 72 heures)
+
+  
+
+Livraisons offertes dès 300 euros d'achat
+
+  
+
+La livraison standard en relais Shop2Shop par Chronopost est disponible pour les pays suivants : Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas, Portugal.
+
+  
+
+Le délai de livraison est en moyenne de 2 à 3 jours.
+
+  
+
+Le prix varie selon le pays de destination : 
+
+  
+
+* 5,90€ en Belgique, Pays-Bas, Luxembourg, Portugal et Italie
+* 7,90€ en Espagne
+* 10€ en Autriche et Irlande
 
   
 
