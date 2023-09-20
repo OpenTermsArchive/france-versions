@@ -120,7 +120,7 @@ Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à 
 
 Les cartes de paiement notamment de type Electron, Maestro, Nickel, Viabuy et Néocash, etc, ne sont pas acceptées dans le cadre du paiement report.
 
-#### 4.2 Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### 4.2 Paiement sous 30 jours ou en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
