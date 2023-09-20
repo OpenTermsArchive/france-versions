@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 25 juillet 2022
-=======================================================================================================================================
+Mise à jour du 21 août 2023
+====================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -12,12 +12,17 @@ Par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr
 Conformément aux articles R. 541-167 et suivants du Code de l’Environnement, LA REDOUTE dispose des identifiants uniques, ci-après :  
   
 
-| Eco-organisme | Filière | Identifiant unique |
+|     |     |     |
 | --- | --- | --- |
-| REFASHION  <br>(Eco TLC) | Textile - linge de maison - chaussures | FR218618\_11UNYX |
-| Eco-emballages | Emballages (de livraison) | FR218618\_01GYJM |
-| Eco-folio | Catalogues papier | FR218618\_03BTAT |
-| Eco-mobilier | Meubles | FR001914\_1028QB |
+| **Eco-organisme** | **Filière** | **Identifiant unique** |
+| REFASHION (Eco TLC) | Textile - linge de maison - chaussures | **FR218618\_11UNYX** |
+| Eco-emballages | Emballages (de livraison) | **FR218618\_01GYJM** |
+| Eco-folio | Catalogues papier | **FR218618\_03BTAT** |
+| Ecomaison | Eléments d’ameublement | **FR001914\_1028QB** |
+| Ecomaison | Jouets | **FR218618\_12ETHZ** |
+| Ecomaison | Articles de bricolage et de jardin | **FR218618\_14DTRY** |
+| Ecosystem | DEEE (déchets d’équipements électriques et électroniques) | **FR001914\_05YWMS** |
+| Ecologic | Articles de sport et loisirs | **FR001914\_13CNVF** |
 
 01 - Préambule
 --------------
@@ -80,11 +85,24 @@ Pour toute question relative au suivi d'une commande, Vous pouvez consulter votr
 
 Vous pouvez régler votre commande :
 
-\- par carte bancaire : Carte Bleue, e-carte bleue, Visa, Mastercard, carte American Express. Votre compte sera débité à l'expédition des Produits (sauf paiement 3 - 4 X dont les modalités sont détaillées [ici](https://www.laredoute.fr/espace-mention_paiement_3x)). En cas de Produits épuisés ou indisponibles, le montant de ces Produits ne sera pas débité.  
-\- Avec la Mastercard® La Redoute et le crédit renouvelable Premium : La « Mastercard® La Redoute » et le crédit renouvelable « Premium » donnent à tout possesseur la possibilité de payer au comptant ou à crédit les Produits : soit au moment de la validation de commande, soit à réception du relevé de compte. Ils donnent également accès à d'autres facilités de paiement. Pour connaître les conditions d'attribution de la « Mastercard® La Redoute » et du crédit renouvelable Premium, vous pouvez vous connecter au site Internet www.sofinco.fr, contacter notre partenaire financier au 0 974 502 504 (du lundi au vendredi de 9h à 18h30 et le samedi de 9h à 13h, appel non surtaxé) ou remplir le formulaire en ligne de demande de la carte « Mastercard® La Redoute » à partir du Site Internet.  
-\- avec les cartes Printania Plus ou Kangourou (uniquement disponibles si Vous habitez en France continentale, Corse ou Monaco).  
-\- avec votre compte PAYPAL (uniquement disponible pour une livraison en France et Monaco). En choisissant le paiement via PayPal, Vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, Vous pourrez terminer votre commande sur le Site Internet. La carte cadeau LA REDOUTE ne peut être achetée avec PayPal.  
-\- avec une carte cadeau illicado, Spirit of Cadeau, CA DO Carte, Pacifica ou la carte cadeau LA REDOUTE ou La Brand Boutique : Le montant de vos achats sera débité immédiatement, même en cas d'articles en différé de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire ou une des cartes Printania Plus ou Kangourou. Reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec ces cartes cadeaux.  
+**\- par carte bancaire** : Carte Bleue, e-carte bleue, Visa, Mastercard, carte American Express.
+
+Le paiement par carte bancaire s’effectue en totalité à la commande sauf :
+
+• En cas de paiement 3 - 4 X dont les modalités sont détaillées [ici](https://www.laredoute.fr/espace-mention_paiement_3x)).
+
+• Si votre panier contient un ou plusieurs produits vendus et expédiés par un vendeur tiers de la Marketplace ou un abonnement à La Redoute +, votre compte sera alors débité à l’expédition des Produits
+
+En cas de Produits épuisés ou indisponibles, le montant de ces Produits ne sera pas débité.
+
+**\- Avec la Mastercard® La Redoute et le crédit renouvelable Premium** : La « Mastercard® La Redoute » et le crédit renouvelable « Premium » donnent à tout possesseur la possibilité de payer au comptant ou à crédit les Produits : soit au moment de la validation de commande, soit à réception du relevé de compte. Ils donnent également accès à d'autres facilités de paiement. Pour connaître les conditions d'attribution de la « Mastercard® La Redoute » et du crédit renouvelable Premium, vous pouvez vous connecter au site Internet www.sofinco.fr, contacter notre partenaire financier au 0 974 502 504 (du lundi au vendredi de 9h à 18h30 et le samedi de 9h à 13h, appel non surtaxé) ou remplir le formulaire en ligne de demande de la carte « Mastercard® La Redoute » à partir du Site Internet.
+
+**\- avec les cartes Printania Plus ou Kangourou** (uniquement disponibles si Vous habitez en France continentale, Corse ou Monaco).
+
+**\- avec votre compte PAYPAL** (uniquement disponible pour une livraison en France et Monaco). En choisissant le paiement via PayPal, Vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, Vous pourrez terminer votre commande sur le Site Internet. La carte cadeau LA REDOUTE ne peut être achetée avec PayPal.
+
+**\- avec une carte cadeau illicado, Spirit of Cadeau, CA DO Carte, Pacifica ou la carte cadeau LA REDOUTE ou La Brand Boutique** : Le montant de vos achats sera débité immédiatement, même en cas d'articles en différé de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire ou une des cartes Printania Plus ou Kangourou. Reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec ces cartes cadeaux.
+
 L’utilisation d’une carte cadeau illicado, Spirit of Cadeau, CA DO Carte, Pacifica achetée en magasin ou sur Internet sera plafonnée à hauteur de 50€ par commande. Pour toute information complémentaire, vous pouvez vous rapprocher du service client de votre Carte Cadeau.
 
 Pour davantage d’informations, reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec ces cartes cadeaux.
@@ -151,25 +169,31 @@ L’impossibilité d’acheminer les Produits livrés à votre étage ou à l’
 
 S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.
 
-**Livraison dans un point Relais Colis ® Max » (uniquement pour la France Métropolitaine)**  
+**Livraison dans un point Relais Colis ® Max » ou Relais Colis ® Drive (uniquement pour la France Métropolitaine, en Corse et à Monaco)**  
   
 
 |     |     |     |
 | --- | --- | --- |
 | Livraison | Délai moyen | Tarif |
-| En point Relais Colis® Max | En 4 à 5 jours ouvrés | **Gratuit** |
+| En point Relais Colis® Max ou Relais Colis® Drive | En 4 à 7 jours ouvrés | **De 9,90€ à 59,90€**  <br>en fonction de l'article |
 
-Les Produits peuvent être mis à disposition gratuitement dans l’un des 1 000 points Relais Colis ® Max.
+Le tarif de la livraison des Produits volumineux en point Relais Colis ® Max ou Relais Colis ® Drive est indiqué au moment du choix de la livraison.
 
-Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis. Vous devrez assurer vous-même le chargement des Produits dans votre véhicule, ainsi que leur transport.
+**Avec Relais Colis® Max**, le retrait se fait sans rendez-vous, le chargement est à effectuer par vos soins. Uniquement pour les produits jusqu’à 40 kg et 2,50m de développé (L+l+h).
 
-Le Produit ne sera disponible dans le point Relais Colis ® Max choisi que pendant quatorze (14) jours calendaires à partir de son arrivée.
+**Avec Relais Colis® Drive**, le colis est mis à disposition au pied de votre véhicule. Le retrait se fait avec ou sans rendez-vous en fonction du point de retrait sélectionné. Uniquement pour les produits jusqu’à 130Kg (80kg max par paquets & 3,5m de développé (L+l+h)).
 
-\- **Reprise gratuite de votre ancien Equipement Electrique ou Electronique ou de votre Elément d’ameublement**détaillée à l’article 9.
+Pour le retrait de la commande de Produits, une pièce d'identité en vigueur sera exigée. Par ailleurs, en fonction du point de retrait Relais Colis ® Drive sélectionné, un QR code pourra être demandé en complément.  
+A défaut, les Produits commandés ne pourront vous être remis. Vous devrez assurer vous-même le chargement des Produits dans votre véhicule, ainsi que leur transport.
+
+Votre commande sera disponible dans :  
+\-**Le point Relais Colis ® Max** entre dix à douze (10 à 12) jours calendaires en fonction du point Relais Colis ® Max sélectionné à partir de son arrivée,  
+\-**Le Relais Colis ® Drive** pendant quinze (15) jours calendaires à partir de son arrivée.  
+\-**Reprise gratuite de votre ancien Equipement** **Electrique ou Electronique ou de votre Elément d’ameublement, Jouet**, **Article de Sport et Loisirs,** **Article de Bricolage et de Jardin**, détaillée à l’article 9.
 
   
 **6.2. Livraison dans les DOM TOM**  
-Vous êtes invité à vous reporter à l'onglet [« Livraison dans les DOM-TOM »](https://www.laredoute.fr/espace-help_domtom_commande.aspx) du Site Internet pour obtenir toutes les informations relatives à ce point.
+Pour obtenir toutes les informations relatives à une livraison dans les DOM-TOM, nous vous invitons à consulter la page suivante au sein de la rubrique « Livraison » de notre Aide en Ligne en cliquant ici : [Comment me faire livrer dans les DOM TOM ? | La Redoute Aide en ligne](https://aide.laredoute.fr/contents/comment-me-faire-livrer-dans-les-dom-tom?t=r).
 
 07 - Retour des Produits
 ------------------------
@@ -293,73 +317,39 @@ Vous êtes informé que la société LA REDOUTE, dont le siège social est 110, 
 
 « Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le bien est conservé ou à un remboursement intégral contre restitution du bien. »
 
-  
-
 8.1.2 Mise en œuvre des garanties légales
-
-  
 
 Afin de mettre en œuvre ces garanties légales, Vous pouvez au choix :
 
-  
-
 \- Vous connecter sur votre espace client et compléter le formulaire à disposition dans la rubrique « Déclarer un SAV »,
-
-  
 
 \- contacter le Service Client par téléphone 0969 323 515 7J/7 de 8h à 21h (Service gratuit + prix d’un appel local)
 
-  
-
 \- contacter le Service Client par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)
-
-  
 
 \- Messagerie In app ou Business Chat
 
-  
-
 LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. Vous êtes invité à vous reporter à l'onglet « Aide en ligne » du Site Internet, puis à la rubrique "[SAV & Garanties](https://aide.laredoute.fr/categories/sav-garanties)" dans les thématiques proposées pour obtenir toutes les informations relatives à ce point.
 
-  
-
 8.1.3 Extraits du code de la consommation et du code civil français :
-
-  
 
 **Garantie légale de conformité**
 
 _**\-Article L. 217-3 du code de la consommation** : Le vendeur délivre un bien conforme au contrat ainsi qu'aux critères énoncés à l'article L. 217-5._
 
-  
-
 _Il répond des défauts de conformité existant au moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans à compter de celle-ci._
-
-  
 
 _Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :_
 
-  
-
 _1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;_
-
-  
 
 _2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat._
 
-  
-
 _Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article L. 217-19._
-
-  
 
 _Le vendeur répond également, durant les mêmes délais, des défauts de conformité résultant de l'emballage, des instructions de montage, ou de l'installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité, ou encore lorsque l'installation incorrecte, effectuée par le consommateur comme prévu au contrat, est due à des lacunes ou erreurs dans les instructions d'installation fournies par le vendeur._
 
-  
-
 _Ce délai de garantie s'applique sans préjudice des articles 2224 et suivants du code civil. Le point de départ de la prescription de l'action du consommateur est le jour de la connaissance par ce dernier du défaut de conformité._
-
-  
 
 _**\- Article L217-4 du Code de la consommation** : Le bien est conforme au contrat s'il répond notamment, le cas échéant, aux critères suivants :_
 
@@ -370,8 +360,6 @@ _2° Il est propre à tout usage spécial recherché par le consommateur, porté
 _3° Il est délivré avec tous les accessoires et les instructions d'installation, devant être fournis conformément au contrat ;_
 
 _4° Il est mis à jour conformément au contrat._
-
-  
 
 _**\- Article L217-5 du Code de la consommation** : I.- En plus des critères de conformité au contrat, le bien est conforme s'il répond aux critères suivants :_
 
@@ -387,8 +375,6 @@ _5° Le cas échéant, il est fourni avec les mises à jour que le consommateur 
 
 _6° Il correspond à la quantité, à la qualité et aux autres caractéristiques, y compris en termes de durabilité, de fonctionnalité, de compatibilité et de sécurité, que le consommateur peut légitimement attendre pour des biens de même type, eu égard à la nature du bien ainsi qu'aux déclarations publiques faites par le vendeur, par toute personne en amont dans la chaîne de transactions, ou par une personne agissant pour leur compte, y compris dans la publicité ou sur l'étiquetage._
 
-  
-
 _II.-Toutefois, le vendeur n'est pas tenu par toutes déclarations publiques mentionnées à l'alinéa qui précède s'il démontre :_
 
 _1° Qu'il ne les connaissait pas et n'était légitimement pas en mesure de les connaître ;_
@@ -399,27 +385,15 @@ _3° Que les déclarations publiques n'ont pas pu avoir d'influence sur la déci
 
 _III.-Le consommateur ne peut contester la conformité en invoquant un défaut concernant une ou plusieurs caractéristiques particulières du bien, dont il a été spécifiquement informé qu'elles s'écartaient des critères de conformité énoncés au présent article, écart auquel il a expressément et séparément consenti lors de la conclusion du contrat._
 
-  
-
 _**\-Article L217-7 du Code de la consommation** : Les défauts de conformité qui apparaissent dans un délai de vingt-quatre mois à compter de la délivrance du bien, y compris du bien comportant des éléments numériques, sont, sauf preuve contraire, présumés exister au moment de la délivrance, à moins que cette présomption ne soit incompatible avec la nature du bien ou du défaut invoqué._
-
-  
 
 _Pour les biens d'occasion, ce délai est fixé à douze mois._
 
-  
-
 _Lorsque le contrat de vente d'un bien comportant des éléments numériques prévoit la fourniture continue d'un contenu numérique ou d'un service numérique, sont présumés exister au moment de la délivrance du bien les défauts de conformité qui apparaissent :_
-
-  
 
 _1° Durant un délai de deux ans à compter de la délivrance du bien, lorsque le contrat prévoit cette fourniture pendant une durée inférieure ou égale à deux ans ou lorsque le contrat ne détermine pas la durée de fourniture ;_
 
-  
-
 _2° Durant la période durant laquelle le contenu numérique ou le service numérique est fourni en vertu du contrat, lorsque celui-ci prévoit cette fourniture pendant une durée supérieure à deux ans._
-
-  
 
 _**\-Article L 217-12 du Code de la consommation** : Le vendeur peut ne pas procéder selon le choix opéré par le consommateur si la mise en conformité sollicitée est impossible ou entraîne des coûts disproportionnés au regard notamment :_
 
@@ -435,15 +409,9 @@ _Lorsque ces conditions ne sont pas respectées, le consommateur peut, après mi
 
 _Tout refus par le vendeur de procéder selon le choix du consommateur ou de mettre le bien en conformité, est motivé par écrit ou sur support durable._
 
-  
-
 _**\-Article L217-13 du Code de la consommation** : Tout bien réparé dans le cadre de la garantie légale de conformité bénéficie d'une extension de cette garantie de six mois._
 
-  
-
 _Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur._
-
-  
 
 _**\- Article L217-28 du Code de la consommation :**_
 
@@ -451,19 +419,11 @@ _Lorsque le consommateur demande au garant, pendant le cours de la garantie lég
 Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
 Le délai de garantie est également suspendu lorsque le consommateur et le garant entrent en négociation en vue d'un règlement à l'amiable_
 
-  
-
 **Garantie des vices cachés**
-
-  
 
 _**\- Article 1641 du Code civil :** Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l'usage auquel on la destine, ou qui diminuent tellement cet usage, que l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'il les avait connus._
 
-  
-
 _**\- Article 1648 al 1er du Code civil :** L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._
-
-  
 
 **8.2. Garanties commerciales**  
   
@@ -482,12 +442,7 @@ L’étendue et la durée de cette garantie varie selon les fabricants. Vous pou
 \- contacter le Service Client par email [https://www.laredoute.fr/contact-email.aspx](https://www.laredoute.fr/contact-email.aspx)  
 \- Messagerie In app ou Business Chat
 
-  
-
 LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. Vous êtes invité à vous reporter à l'onglet « Aide en ligne » du Site Internet, puis à la rubrique ["SAV & Garanties"](https://aide.laredoute.fr/categories/sav-garanties) dans les thématiques proposées pour obtenir toutes les informations relatives à ce point.
-
-[![](https://cdn.laredoute.com/marketing/StudioFR/Structure/pages-services/CGV/btn-backTopPage.gif "Retour en haut de page")](#top)
------------------------------------------------------------------------------------------------------------------------------------
 
 09 - Environnement
 ------------------
@@ -496,19 +451,25 @@ LA REDOUTE met également à votre disposition une rubrique d’aide en ligne. V
 
 LA REDOUTE vous informe que la présence de substances dangereuses dans les équipements électriques et électroniques peut avoir des effets potentiels sur l'environnement et la santé humaine. Ainsi Vous ne devez pas vous en débarrasser avec les déchets municipaux non triés. C'est une des raisons pour lesquelles LA REDOUTE met à votre disposition, en vertu de l’article L541-10-8 du Code de l’environnement, un système de collecte spécifique pour :  
 \- Les équipements électriques et électroniques, tels que mentionnés au 5° de l'article L. 541-10-1 du Code de l'environnement (le ou les « **Equipement(s) Electrique(s) ou Electronique(s)** ») ;  
-\- Les éléments d'ameublement tels que mentionnés au 10° de l'article L. 541-10-1 (le ou les « **Elément(s) d’ameublement** »).
+\- Les éléments d'ameublement tels que mentionnés au 10° de l'article L. 541-10-1 (le ou les « **Elément(s) d’ameublement** »).  
+\- Les jouets tels que mentionnés au 12° de l’article L. 541-10-1 du Code de l’environnement (les « **Jouets** »)  
+\- Les articles de sport et loisirs, tels que mentionnés au 13° de l’article L. 541-10-1 du Code de l’environnement (les « **Articles de Sport et Loisirs** ») ;  
+\- Les articles de bricolage et de jardin, tels que mentionnés au 14° de l’article L. 541-10-1 du Code de l’environnement (les « **Articles de Bricolage et de Jardin** »)
 
-Pour tout achat d’un Eléments d’ameublement ou d’un Equipement Electrique ou Electronique vendu et expédié par LA REDOUTE, il est proposé un système de collecte gratuit pour votre ancien produit. Celui-ci doit présenter des caractéristiques similaires au Produit acheté (nature et dimensions équivalentes). Par exemple : un ancien canapé 2 places sera repris pour l’achat d’un nouveau canapé 2 places. En fonction de la typologie du produit à reprendre, Vous pouvez :
+Pour tout achat d’un Eléments d’ameublement ou d’un Equipement Electrique ou Electronique, d’un Jouet, d’un article de Bricolage et de Jardin vendu et expédié par LA REDOUTE, il est proposé un système de collecte gratuit pour votre ancien produit. Celui-ci doit présenter des caractéristiques similaires au Produit acheté (nature et dimensions équivalentes). Par exemple : un ancien canapé 2 places sera repris pour l’achat d’un nouveau canapé 2 places. En fonction de la typologie du produit à reprendre, Vous pouvez :
 
 **Déposer le produit en point de collecte**  
-Si votre ancien produit a un poids inférieur à 40 kg, il peut être déposé dans un point de collecte de l’un de nos partenaires Ecosystem (pour les Equipements Electriques ou Electroniques) ou Ecomobilier (pour les Eléments d’ameublement).  
-[Où trouver un point de collecte Eléments d’ameublement ?](https://www.maisondutri.fr/livraison-et-reprise-de-votre-meuble/)  
-[Où trouver un point de collecte Equipement Electriques ou Electronique ?](https://www.ecosystem.eco/fr/recherche-point-de-collecte?gclid=Cj0KCQiA2ZCOBhDiARIsAMRfv9JN5cDc87lcczyuUfZvXUJMWH-kE51p-Dd5YvxYXausNYnu4JGK-pQaAsEdEALw_wcB)
+Si votre ancien produit a un poids inférieur à 40 kg, il peut être déposé dans un point de collecte de l’un de nos partenaires Ecosystem (pour les Equipements Electriques ou Electroniques) ou Ecomaison (pour les Eléments d’ameublement, pour les Jouets et pour les Articles de Bricolage et de Jardin), et Ecologic (pour les Articles de sport et loisirs).
+
+  
+[Où trouver un point de collecte Eléments d’ameublement/ Jouets/ Articles de Bricolage et de jardin ?](https://www.maisondutri.fr/livraison-et-reprise-de-votre-meuble/)  
+[Où trouver un point de collecte Equipement Electriques ou Electronique ?](https://www.ecosystem.eco/fr/recherche-point-de-collecte?gclid=Cj0KCQiA2ZCOBhDiARIsAMRfv9JN5cDc87lcczyuUfZvXUJMWH-kE51p-Dd5YvxYXausNYnu4JGK-pQaAsEdEALw_wcB)  
+[Où déposer ses articles de Sport et Loisirs?](https://www.ecologic-france.com/citoyens/ou-deposer-asl-uses.html)
 
 **Faire reprendre le produit à votre domicile**  
 S’il s’agit d’un produit encombrant (dont le poids est supérieur à 40 kg), il peut être repris à domicile lors de la livraison du nouveau Produit. Pour cela, contactez-nous : nous informerons le transporteur de votre choix (aucune reprise ne pourra avoir lieu ultérieurement). Pour ce faire, l’ancien produit doit respecter certaines conditions et doit être "prêt-à-emporté" :  
-\-Pour les Equipements Electriques ou Electroniques : les congélateurs, réfrigérateurs, lave-linge et sèche-linge doivent être débranchés, vidés et vidangés. De façon générale, les Equipements Electriques ou Electroniques doivent être en état de propreté et pouvoir être manipulés sans danger ;  
-\-Pour les Eléments d’ameublement : les meubles doivent être en état de propreté, démontés, rangés de façon sécurisée, pouvoir être manipulés sans danger et rassemblés dans une même pièce.  
+\- Pour les Equipements Electriques ou Electroniques, Articles de Bricolage et de jardin : les congélateurs, réfrigérateurs, lave-linge et sèche-linge doivent être débranchés, vidés et vidangés. De façon générale, les Equipements Electriques ou Electroniques doivent être en état de propreté et pouvoir être manipulés sans danger ;  
+\- Pour les Eléments d’ameublement, Jouets : les meubles et produits doivent être en état de propreté, démontés, rangés de façon sécurisée, pouvoir être manipulés sans danger et rassemblés dans une même pièce.  
 **Si le produit ne respecte pas ces conditions de préparation, le transporteur ne pourra pas le reprendre. Dans ce cas, Vous devrez vous tourner vers les points de collecte visés ci-dessus.**
 
 **9.2. REACH**  
@@ -521,9 +482,9 @@ Pour toute question relative à la norme Européenne REACH, Vous pouvez contacte
   
 Le logo Triman est issu d’une règlementation du Code de l’environnement. Le logo signifie que le produit recyclable est soumis à une consigne de tri. Il va être apposé sur l’ensemble des produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Pour LA REDOUTE, il s’agit notamment de ses catalogues papiers, ses prospectus commerciaux ainsi que se équipements d’ameublements, ses textiles et ses chaussures. Ils doivent donc être triés par vos soins. Le Triman peut figurer sur les produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé. Les piles, accumulateurs usagés, déchets d’équipements électriques et électroniques, déchets ménagers des produits chimiques disposent de leur propre signalétique et ne sont donc pas concernés.![](https://cdn.laredoute.com/marketing/StudioFR/Structure/CGV/triman.png)
 
-**9.4. Eco-mobilier**  
+**9.4. Ecomaison**  
   
-LA REDOUTE est enregistrée au Registre national des metteurs sur le marché d’éléments d’ameublement sous le numéro FR001914. Ce numéro garantit que LA REDOUTE, en adhérant à Eco-mobilier, se met en conformité avec les obligations réglementaires qui lui incombent en application de l’article L 541-10-1 10° du Code de l’Environnement.
+LA REDOUTE est enregistrée au Registre national des metteurs sur le marché d’éléments d’ameublement sous le numéro FR001914. Ce numéro garantit que LA REDOUTE, en adhérant à Ecomaison, se met en conformité avec les obligations réglementaires qui lui incombent en application de l’article L 541-10-1 10° du Code de l’Environnement.
 
 10 - Litiges et Médiation
 -------------------------
