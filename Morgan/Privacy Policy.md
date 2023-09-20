@@ -84,7 +84,7 @@ Le tableau ci-dessous présente les durées de conservation mises en œuvre par 
 | Données relatives à l’utilisation du « Compte Client/Prospect », à l’organisation des jeux concours, à la gestion des newsletters | Durée d’exercice du contrat et durée légale de prescription si applicable |
 | Données relatives à la prospection commerciale | 3 ans à compter de la fin de la relation commerciale |
 | Données de géolocalisation | 1 an |
-| « Cookies » | 13 mois à compter de leur dépôt sur le terminal du Client/Prospect à compter de la dernière utilisation du site web ou de l’application mobile |
+| « Cookies » | Cookies statistiques : 13 mois à compter de leur dépôt sur le terminal du Client/Prospect à compter de la dernière utilisation du site web ou de l’application mobile  <br>  <br>Conservation du choix utilisateur (acceptation ou refus des cookies soumis à consentement) : 6 mois |
 | Données de connexion et d’utilisation des sites web et applications mobiles | 1 an |
 | Données relatives à la gestion de l’offre « Alerte stock » | Adresse email conservée pendant 60 jours |
 | Images de vidéo protection | 1 mois |
