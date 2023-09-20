@@ -60,13 +60,15 @@ lesquelles les Conditions sont disponibles sur ce site Internet.
 
 La vente de produits via ce site Internet est réalisée sous le nom de BERSHKA par BERSHKA FRANCE, SARL
 
-au capital de 8.492.700 €, sise 22 Rue Bergère, 75009 Paris, inscrite au registre du commerce et des
+au capital de 8.492.700 €, sise Immeuble Garonne, 80, Avenue des Terroirs de France, 75012 Paris, inscrite
 
-sociétés de Paris, sous le numéro 443 617 725, portant le numéro de TVA intracommunautaire FR 92
+au registre du commerce et des sociétés de Paris, sous le numéro 443 617 725, portant le numéro de TVA
 
-443 617 725, joignable à l'adresse électronique suivante contact@bershka.com et au numéro de
+intracommunautaire FR 92 443 617 725, joignable à l'adresse électronique suivante
 
-téléphone suivant : 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur).
+contact@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé, hors coût
+
+éventuel selon votre opérateur).
 
 
 
@@ -82,13 +84,13 @@ informations et données et vous garantissez que toutes les informations et donn
 
 véridiques et correspondent à la réalité.
 
-
-
 4. UTILISATION DE NOTRE SITE INTERNET
 
 
 
 En utilisant ce site Internet et en passant des commandes via ce dernier, vous acceptez :
+
+
 
 i. de n'utiliser ce site Internet que pour faire des demandes et passer des commandes licites;
 
@@ -178,6 +180,8 @@ et que vous pourrez commander. Si vous ne souhaitez pas commander de produit de 
 
 vous rembourserons la somme que vous avez versée.
 
+
+
 8. REFUS DE TRAITER UNE COMMANDE
 
 
@@ -258,13 +262,13 @@ possession physique des marchandises, ce qui sera justifié par la signature du 
 
 l'adresse de livraison convenue.
 
-
-
 La carte cadeau virtuelle sera considérée comme ayant été livrée conformément aux dispositions prévues
 
 dans les conditions d'utilisation de la carte cadeau et, dans tous les cas, à la date d'expédition de cette
 
 carte à l'adresse électronique que vous nous aurez indiquée.
+
+
 
 En cas de commande faite en utilisant l’option du paiement à la livraison, si votre commande n’a pas été
 
@@ -398,7 +402,7 @@ commandes que vous avez passées est disponible dans la rubrique besoin d’aide
 
 
 
-Les moyens de paiement suivants sont disponibles : Carte Bleue, Visa, Mastercard, American Express,
+Les moyens de paiement suivants sont disponibles : Carte Bancaire, Visa, Mastercard, American Express,
 
 Visa Electron, ainsi que PayPal. Apple Pay et Google Pay sont également disponibles sur l’application
 
@@ -433,8 +437,6 @@ disponibles dans certains magasins Bershka en France, vous pouvez également, da
 effectuer votre paiement par tous moyens de paiement acceptés dans ces magasins, à l’exception des
 
 cartes cadeaux.
-
-
 
 Pour limiter les risques d'accès non autorisés, les informations de votre carte de crédit seront cryptées.
 
@@ -526,8 +528,6 @@ Si vous contractez en tant que consommateur, vous avez le droit de résilier le 
 
 sans donner aucune raison.
 
-
-
 La période de rétractation expirera passé le délai de 14 jours à compter de la date à laquelle vous
 
 acquérez, ou un tiers autre que le transporteur et que vous avez désigné à cet effet acquiert, la possession
@@ -602,37 +602,13 @@ Contrat. Le délai est respecté si vous retournez les articles avant l'expirati
 
 S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
-magasin BERKSHA situé en France métropolitaine.
+point relais autorisé en France ou dans un magasin BERKSHA situé en France. Cependant, si vous
 
+retournez les articles par l’intermédiaire d’un transporteur, les frais afférents au renvoi des articles seront
 
+à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la section
 
-Vous ne supporterez pas non plus de frais de retour si vous retournez les articles dans un point relais
-
-autorisé en France dans les 14 premiers jours suivant le courriel de Confirmation de commande. A
-
-compter du 15ème jour, les frais de retour dans le point relais autorisé seront à votre charge, comme
-
-indiqué dans la section « Retours » de notre site Internet. Ces frais seront immédiatement déduits du
-
-montant qui vous sera remboursé.
-
-
-
-Par ailleurs, en cas de retour dans un point relais autorisé en France, nous ne supporterons que le coût du
-
-premier retour des articles d’une même commande, le coût des retours ultérieurs de la même commande
-
-restant à votre charge, et ce même si les articles sont retournés dans les 14 premiers jours suivant le
-
-courriel de Confirmation de commande.
-
-
-
-Si vous retournez les articles par l’intermédiaire d’un transporteur, les frais afférents au renvoi des articles
-
-seront à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la
-
-section « Commandes et Retours »).
+« Commandes et Retours ».
 
 
 
@@ -684,35 +660,13 @@ que les frais de livraison ne seront pas remboursés.
 
 S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
-magasin BERKSHA situé en France métropolitaine.
+magasin BERKSHA situé en France ou dans un point relais autorisé en France. Cependant, si vous déposez
 
+les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles seront à votre
 
+charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la section
 
-Vous ne supporterez pas non plus de frais de retour si vous retournez les articles dans un point relais
-
-autorisé en France dans les 14 premiers jours suivant le courriel de Confirmation de commande. A
-
-compter du 15ème jour, les frais de retour dans le point relais autorisé seront à votre charge, comme
-
-indiqué dans la section « Retours » de notre site Internet. Ces frais seront immédiatement déduits du
-
-montant qui vous sera remboursé.
-
-
-
-Par ailleurs, en cas de retour dans un point relais autorisé en France, nous ne supporterons que le coût du
-
-premier retour des articles d’une même commande, le coût des retours ultérieurs de la même commande
-
-restant à votre charge et ce même si les articles sont retournés dans les 14 premiers jours suivant le
-
-courriel de Confirmation de commande.
-
-Si vous déposez les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles
-
-seront à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la
-
-section « Commandes et Retours »).
+« Commandes et Retours »).
 
 
 
@@ -749,8 +703,6 @@ ii. CD/DVD de musique sans leur emballage d'origine ;
 iii. Les biens que vous avez descellés après la livraison et qui ne peuvent être renvoyés pour des
 
 raisons d’hygiène ou de protection de la santé.
-
-
 
 Votre droit de rétractation du Contrat s'applique exclusivement aux produits qui sont retournés dans l'état
 
@@ -840,9 +792,9 @@ sont mentionnés dans la section « RETOURS » sur notre site internet.
 
 
 
-Si vous décidez de retourner les produits par un autre moyen que ceux listés aux points (i) et (ii) ci-dessus,
+Si vous décidez de retourner les produits par un autre moyen que ceux listés aux points (i) et (ii) ci-dessus
 
-en tout état de cause, vous supporterez le coût du renvoi des produits. Dans ce dernier cas, nous vous
+, en tout état de cause, vous supporterez le coût du renvoi des produits. Dans ce dernier cas, nous vous
 
 prions de retourner le produit aussi rapidement que possible, accompagné de la version imprimée de l’E-
 
@@ -887,6 +839,8 @@ Vous devrez assumer le coût et le risque du retour des produits selon les modal
 En cas de questions, vous pouvez nous joindre via notre formulaire de contact ou par téléphone au 0 800
 
 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur).
+
+
 
 Les retours des commandes faites en utilisant l’option du paiement à la livraison et payées en caisse du
 
@@ -968,6 +922,8 @@ produits.
 
 17.1 Responsabilité
 
+
+
 Notre responsabilité, au titre des présentes Conditions, ne saurait être engagée dans le cas où
 
 l’inexécution de nos obligations serait imputable au fait d’un tiers, à votre faute ou à un évènement de
@@ -1008,9 +964,13 @@ Toutes les descriptions de produits, les informations et les matériels affiché
 
 fournis en l'état, sans garantie expresse ou implicite quant à ces derniers, sauf lorsque cela est prévu par
 
-la loi. BERSHKA FRANCE SARL, dont les coordonnées figurent au point 2 des présentes Conditions, garantit
+la loi.
 
-les consommateurs des défauts de conformité et des vices cachés pour les produits en vente sur ce site
+
+
+BERSHKA FRANCE SARL, dont les coordonnées figurent au point 2 des présentes Conditions, garantit les
+
+consommateurs des défauts de conformité et des vices cachés pour les produits en vente sur ce site
 
 Internet conformément à la garantie légale de conformité prévue aux articles L217-3 et suivants du Code
 
@@ -1138,6 +1098,8 @@ moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent
 
 à compter de celle-ci.
 
+
+
 - Article L217-4 du Code de la consommation : Le bien est conforme au contrat s'il répond notamment, le
 
 cas échéant, aux critères suivants :
@@ -1190,8 +1152,6 @@ caractéristiques naturelles sont inévitables et doivent être acceptées comme
 
 l'apparence individuelle du produit.
 
-
-
 Le contenu de cette clause ne porte aucunement atteinte à vos droits en tant que consommateur ni à
 
 votre droit de résilier le Contrat.
@@ -1216,7 +1176,7 @@ conformité avec le règlement européen n°524/2013, vous avez le droit de soll
 
 litige sur la plateforme dédiée à la résolution en ligne des litiges de la consommation accessible via
 
-l’adresse électronique suivante : http://ec.europa.eu/consumers/odr/.
+l’adresse électronique suivante: http://ec.europa.eu/consumers/odr/.
 
 
 
@@ -1316,6 +1276,8 @@ contenu sur ce dernier ou de sites vers lesquels ce site vous redirige.
 
 21. LIENS À PARTIR DE NOTRE SITE INTERNET
 
+
+
 Si notre site Internet contient des liens vers d'autres sites Internet et des matériels de tiers, ces liens sont
 
 fournis à titre informatif uniquement et nous n'avons aucun contrôle sur le contenu de ces sites Internet
@@ -1406,6 +1368,8 @@ porteront pas préjudice aux droits qui vous sont reconnus par la loi en tant qu
 
 nous aurons pu vous accorder.
 
+
+
 25. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
 
 
@@ -1494,6 +1458,8 @@ les négociations menées par les deux parties avant le Contrat, hormis celles q
 
 mentionnées dans ces Conditions.
 
+
+
 Les parties renoncent à exercer un recours contre d’éventuelles fausses déclarations orales ou écrites
 
 émises par l'autre partie, avant la date de la conclusion du Contrat (sauf si ces fausses déclarations ont
@@ -1546,8 +1512,6 @@ que consommateur en vertu de la législation applicable en la matière.
 
 31. COMMENTAIRES ET SUGGESTIONS
 
-
-
 Vos commentaires et suggestions sont toujours appréciés. N'hésitez pas à nous en faire part via notre
 
 formulaire de contact.
@@ -1562,7 +1526,7 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 15 juin 2023
+Dernière mise à jour le 02Janvier 2023
 
 
 
@@ -1570,9 +1534,11 @@ ANNEXE - Modèle de formulaire de rétractation
 
 (Formulaire à compléter et à nous renvoyer uniquement si vous souhaitez vous rétracter du Contrat)
 
-A l’attention de BERSHKA FRANCE SARL, exerçant ses activités sous le nom commercial BERSHKA, 22 Rue
 
-Bergère - 75009 Paris, France
+
+A l’attention de BERSHKA FRANCE SARL, exerçant ses activités sous le nom commercial BERSHKA, 80,
+
+Avenue des Terroirs de France 75012 Paris, France
 
 
 
@@ -1610,57 +1576,49 @@ Date : [.....................................]
 
 (\*) Rayez la mention inutile
 
-CONDITIONS GENERALES D'UTILISATION DE L'APPLICATION BERSHKA ET DES FONCTIONNALITES
+TERMES ET CONDITIONS D'UTILISATION DES FONCTIONNALITES DE L'APPLICATION BERSHKA
 
 
 
-Les présentes Conditions Générales d'Utilisation (les « Conditions ») régissent spécifiquement l'accès et
+Ces Conditions Générales d'Utilisation (les «Conditions») régissent l'accès et l'utilisation des services et
 
-l'utilisation des services sur l'application Bershka (l’« Application ») et diverses fonctionnalités, toutes
+des diverses fonctionnalités disponibles sur l'Application Bershka (telles que définies ci-dessous). Ces
 
-disponibles sur l'Application, et, pour certaines d'entre elles, également disponibles sur d'autres
+Conditions constituent l'accord entre vous et Bershka France SARL pour l'accès et l'utilisation des services
 
-plateformes (les « Fonctionnalités »). Ces conditions viennent en complément et sans préjudice des
+et des fonctionnalités. Ces conditions viennent en complément et sans préjudice des Conditions d'Achat
 
-Conditions d'Achat et d’Utilisation de www.bershka.com, le cas échéant.
-
-
-
-Les fonctionnalités comprennent: (i) la possibilité d'acheter des articles via l'Application Bershka, ceci
-
-étant considéré comme un achat effectué sur le Site internet, et donc soumis aux Conditions d'Achat et
-
-d’Utilisation de www.bershka.com ; (ii) la possibilité de gérer les tickets pour les achats effectués sur le
-
-Site internet de Bershka (le «Site Internet») ; (iii) la possibilité d'utiliser votre QR Code pour vous identifier
-
-en tant qu'utilisateur Bershka et (iv) la possibilité d’opter pour la réception d’un ticket de caisse sous
-
-format papier plutôt qu’un ticket ou une preuve d’achat sous format électronique (E-ticket), ceci en
-
-sélectionnant au préalable l’option « Ticket Papier » sur votre application et en présentant dans les
-
-magasins Bershka (ci-après le « Magasin Physique » ou les « Magasins Physiques ») votre QR ID à cette
-
-fin. Vous pourrez ainsi, pour chacun de vos achats, choisir de recevoir un ticket sous format papier plutôt
-
-qu'un ticket sous format électronique.
+et d’Utilisation de www.bershka.com
 
 
 
-Le Site Internet ainsi que les Magasins Physiques sont exploités en France par la Société BERSHKA FRANCE,
+Les fonctionnalités disponibles sur l'Application comprennent: (i) la possibilité d'acheter des articles via
 
-SARL au capital de 8.492.700 €, sise 22 Rue Bergère 75009 Paris, inscrite au registre du commerce et des
+l'Application Bershka, ceci étant considéré comme un achat effectué sur le Site internet, et donc soumis
 
-sociétés de Paris, sous le numéro 443 617 725, portant le numéro de TVA intracommunautaire FR 92 443
+aux Conditions d'Achat et d’Utilisation de www.bershka.com ; (ii) la possibilité de gérer les tickets pour
 
-617 725, joignable à l'adresse électronique suivante contact@bershka.com et au numéro de téléphone
+les achats effectués sur le Site internet de Bershka (le «Site internet»); et (iii) la possibilité de recevoir un
 
-suivant : 0 800 918 880 (appel non surtaxé, hors coût éventuel selon votre opérateur).
+ticket électronique (E-ticket) ou une preuve d'achat électronique, en présentant dans les magasins
+
+Bershka (soit le «magasin physique» ou les «magasins physiques») le QR code unique attribué à cette fin.
+
+Tous deux («Site internet» et «magasin physique») sont exploités en France par la Société BERSHKA
+
+FRANCE, SARL au capital de 8.492.700 €, sise Immeuble Garonne, 80, Avenue des Terroirs de France,
+
+75012 Paris, inscrite au registre du commerce et des sociétés de Paris, sous le numéro 443 617 725,
+
+portant le numéro de TVA intracommunautaire FR 92 443 617 725, joignable à l'adresse électronique
+
+suivante contact@bershka.com et au numéro de téléphone suivant : 0 800 918 880 (Appel non surtaxé,
+
+hors coût éventuel selon votre opérateur).
 
 
 
-1. DESCRIPTION GÉNÉRALE DES FONCTIONNALITES
+1. DESCRIPTION GÉNÉRALE DU SERVICE
 
 
 
@@ -1672,123 +1630,83 @@ Les clients peuvent acheter des produits sur www.bershka.com via l'Application B
 
 les achats effectués à l'aide de l'Application sont considérés comme des achats effectués sur le Site
 
-Internet et, à ce titre, sont soumis aux Conditions d'Achat et d’Utilisation de www.bershka.com, que vous
+internet et, à ce titre, sont soumis aux Conditions d'Achat et d’Utilisation de www.bershka.com, que vous
 
 devez accepter avant d'acheter un produit.
 
 
 
-1.2 Gestion des reçus pour les achats effectués sur le Site Internet
+1.2 Gestion des reçus pour les achats effectués sur le Site internet
 
 
 
 Les reçus des achats effectués sur le Site internet de Bershka seront stockés sur l'Application, plus
 
-précisément dans la section « Mes commandes ».
+précisément dans la section «Mes commandes»
 
 
 
-1.3 Identifiez-vous en tant qu'utilisateur Bershka en montrant votre QR ID
+1.3 Obtention d'un E-ticket
 
 
 
-Votre QR ID est valable pour vous identifier dans le Magasin Physique, simplifier les formalités et vous
+Lors du paiement d'un achat dans les magasins physiques, vous pouvez demander un ticket au format
 
-permettre de bénéficier d’une meilleure expérience. Votre QR pourra également vous permettre de
+électronique. Pour ce faire, le QR code sur l'Application qui sera affiché à cet effet doit être présenté afin
 
-participer à des actions promotionnelles et d'obtenir d'autres avantages, qui seront soumis aux conditions
+que le ticket puisse être automatiquement envoyé à l'Application.
 
-générales afférentes.
 
 
+À partir de ce moment, vous pouvez effectuer des échanges ou des retours dans les Magasins Physiques
 
-1.4 Demande d'un E-ticket pour les achats effectués dans les Magasins Physiques
+en utilisant ledit ticket, conformément aux Conditions d'Achat et d’Utilisation applicables, selon la
 
+politique commerciale de Bershka et, dans tous les cas, conformément à la législation en vigueur.
 
+Dans ce cas, vous ne recevrez pas de ticket sous format papier. Par conséquent, il est essentiel que vous
 
-Conformément à la législation et à la réglementation applicables, et sous réserve des dispositions de
+compreniez qu'en utilisant ce QR code, vous demandez expressément l’E-ticket ou la preuve d'achat
 
-l’article D. 541-371 du Code de l’environnement français, il est mis fin à l’impression et à la distribution
+sous format électronique, refusant ainsi de le recevoir sous forme papier. Dans tous les cas, vous pouvez
 
-systématiques des tickets dans les Magasins Physiques.
+toujours demander le ticket sous format papier lorsque cela est nécessaire en contactant notre Service
 
+Client, via l'un des moyens de communication mentionnés sur le site Bershka.
 
 
-Lors du paiement d'un achat dans les Magasins Physiques, vous pourrez tout de même obtenir un ticket
 
-au format papier à la place d’un ticket au format électronique. Pour ce faire, vous devrez soit en faire la
+Dans tous les cas, la réglementation en vigueur sur les E-tickets ou toute autre réglementation applicable,
 
-demande en caisse, soit activer préalablement l’option « Ticket Papier » sur l’Application et présenter le
+ainsi que celles liées aux Termes et Conditions prévaudront toujours.
 
-QR ID code afin que le ticket puisse être imprimé et vous être remis.
 
 
+Si vous choisissez de vous désinscrire en tant qu'utilisateur, vous pouvez demander, pendant le processus
 
-Il est essentiel que vous compreniez que lorsque l’option « Ticket Electronique » est active sur
+de désinscription, que tous les tickets stockés dans l'Application soient envoyés par courriel à l’adresse
 
-l’Application et lorsque vous présentez votre QR ID en Magasin Physique, vous acceptez expressément de
+transmise.
 
-recevoir un E-ticket ou une preuve d'achat sous format électronique et vous refusez ainsi de recevoir votre
 
-ticket sous format papier.
 
+1.4 Numérisation des tickets
 
 
-Vous pouvez, avant tout achat, choisir de recevoir un ticket sous format électronique ou un ticket sous
 
-format papier, à votre convenance.
+Si votre ticket original est au format papier, vous pouvez générer une version numérique du même ticket
 
+en scannant le QR code qui se trouve imprimé sur le ticket. Dès cet instant, vous pouvez utiliser ce ticket
 
+électronique pour effectuer des retours dans les magasins physiques, mais veuillez noter que tout retour
 
-Dans tous les cas, la législation et la réglementation en vigueur ainsi que les Conditions d'Achat et
+devra toujours être conforme aux Conditions d'Achat et d’Utilisation, aux politiques commerciales de
 
-d’Utilisation applicables prévaudront toujours.
+Bershka et à la législation applicable.
 
 
 
-Si vous choisissez de vous désinscrire en tant qu'utilisateur de l’Application, vous pouvez demander,
-
-pendant le processus de désinscription, que tous les tickets électroniques stockés dans l'Application soient
-
-envoyés par courriel à l’adresse transmise.
-
-
-
-1.5 Remboursements / échanges
-
-
-
-Veuillez noter qu’aucun remboursement ou échange pourra être accepté en l’absence de ticket
-
-(électronique ou papier).
-
-
-
-Dans le cas où un ticket vous est remis sous format électronique, vous pouvez effectuer un échange ou
-
-un retour dans un Magasin Physique en utilisant votre QR ID, conformément aux Conditions d'Achat et
-
-d’Utilisation applicables, selon la politique commerciale de Bershka et, dans tous les cas, conformément
-
-à la législation et/ou à la réglementation en vigueur.
-
-
-
-1.6 Numérisation des tickets
-
-
-
-Si votre ticket original est au format papier, vous pouvez générer une version électronique du même ticket
-
-en scannant le QR code qui se trouve imprimé sur le ticket. Dès cet instant, vous pouvez effectuer des
-
-retours dans les Magasins Physiques, mais veuillez noter que tout retour devra toujours être conforme
-
-aux Conditions d'Achat et d’Utilisation, aux politiques commerciales de Bershka et à la législation
-
-applicable.
-
-2. DISPONIBILITÉ DES SERVICES ET DES FONCTIONNALITES
+2. DISPONIBILITÉ DES SERVICES PROPOSES VIA L'APPLICATION
 
 
 
@@ -1796,11 +1714,11 @@ Conformément aux lois applicables, Bershka se réserve le droit de modifier, de
 
 supprimer, à tout moment, à sa seule discrétion et sans préavis, que ce soit de manière générale ou
 
-particulière pour un ou plusieurs utilisateurs, la disponibilité de l’Application Bershka ou tout ou partie
+particulière pour un ou plusieurs utilisateurs, une ou toutes les fonctionnalités de l'Application Bershka,
 
-des Fonctionnalités, et de modifier, de suspendre ou de supprimer, dans les mêmes conditions, la
+et de modifier, de suspendre ou de supprimer, dans les mêmes conditions, la disponibilité de tout ou
 
-disponibilité de l’Application / de tout ou partie des Fonctionnalités.
+partie du Service. Il est de votre responsabilité de vérifier et accepter les services proposés.
 
 
 
@@ -1810,19 +1728,19 @@ disponibilité de l’Application / de tout ou partie des Fonctionnalités.
 
 Sauf dans les cas où l'exclusion de responsabilité est légalement limitée, nous ne sommes pas
 
-responsables des dommages que vous pourriez subir en utilisant l'Application Bershka / les différentes
+responsables des dommages que vous pourriez subir en utilisant l'Application Bershka dans ses
 
-Fonctionnalités.
+différentes fonctionnalités.
 
 
 
-Vous acceptez d'utiliser l'Application Bershka / les Fonctionnalités exclusivement aux fins pour lesquelles
+Vous acceptez d'utiliser l'Application Bershka exclusivement aux fins pour lesquelles elle est destinée et,
 
-elles sont destinées et, par conséquent, de ne pas en faire une utilisation abusive ou frauduleuse, et vous
+par conséquent, de ne pas en faire une utilisation abusive ou frauduleuse, et vous serez responsable
 
-serez responsable envers la Société et/ou tout tiers pour tout dommage pouvant résulter d’une mauvaise
+envers la Société et/ou tout tiers pour tout dommage pouvant résulter d’une mauvaise utilisation de
 
-utilisation de l'Application Bershka / des Fonctionnalités.
+l'Application Bershka.
 
 
 
@@ -1830,35 +1748,31 @@ Vous serez responsable dans les cas suivants :
 
 
 
-a) lorsque, le cas échéant, votre équipement ou vos terminaux associés à l'Application, les cartes
+a) lorsque, le cas échéant, votre équipement ou vos terminaux associés à l'Application, les cartes SIM, les
 
-SIM, les adresses e-mail et / ou les mots de passe sont utilisés par un tiers autorisé par vous à
-
-notre insu;
+adresses e-mail et / ou les mots de passe sont utilisés par un tiers autorisé par vous à notre insu;
 
 
 
-b) quand des erreurs ou des dysfonctionnements se produisent lorsque vous utilisez les
+b) quand des erreurs ou des dysfonctionnements se produisent lorsque vous utilisez les différentes
 
-différentes Fonctionnalités en raison d'un matériel, des logiciels, des appareils ou des terminaux
+fonctionnalités de l'Application en raison d'un matériel, des logiciels, des appareils ou des terminaux
 
-défectueux ou d'un manque de mesures de sécurité nécessaires installées sur l'appareil sur lequel
+défectueux ou d'un manque de mesures de sécurité nécessaires installées sur l'appareil sur lequel vous
 
-vous utilisez l'Application / les Fonctionnalités.
-
-
-
-4. PROPRIÉTÉ INDUSTRIELLE ET INTELLECTUELLE ET AUTRES DROITS ASSOCIÉS À L'APPLICATION ET
-
-AUX FONCTIONNALITES
+utilisez l'Application.
 
 
 
-Tous les éléments qui font partie ou sont inclus dans l'Application / les Fonctionnalités sont la propriété
+4. PROPRIÉTÉ INDUSTRIELLE ET INTELLECTUELLE ET AUTRES DROITS ASSOCIÉS À L'APPLICATION
 
-ou sont sous le contrôle de la Société ou de tiers ayant autorisé leur utilisation. Tout ce qui précède sera
 
-ci-après dénommé la « Propriété ».
+
+Tous les éléments qui font partie ou sont inclus dans l'Application ou le Portefeuille sont la propriété ou
+
+sont sous le contrôle de la Société ou de tiers ayant autorisé leur utilisation. Tout ce qui précède sera ci-
+
+après dénommé la «Propriété».
 
 
 
@@ -1873,6 +1787,8 @@ modifier:
 incorporent dans leur propriété au regard de la propriété intellectuelle ou industrielle (ex: copyright,
 
 ©, ® et ™, etc.,).
+
+
 
 - Dispositifs techniques de protection ou d'identification que la Propriété peut contenir (par exemple,
 
@@ -1938,4 +1854,4 @@ autres lois applicables.
 
 
 
-Dernière mise à jour : 15 juin 2023
+Dernière mise à jour : 02 janvier 2023
