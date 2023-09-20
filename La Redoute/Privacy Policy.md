@@ -1,4 +1,4 @@
-(Mise à jour du 17 décembre 2021 )
+(Mise à jour du 18 juillet 2023 )
 
 POLITIQUE DE CONFIDENTIALITÉ
 ----------------------------
@@ -320,13 +320,13 @@ Pour certains types de traitement, la conservation des données fait l’objet d
 8.3. Règles spécifiques concernant la conservation des données bancaires :
 --------------------------------------------------------------------------
 
-Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne. Elles sont enregistrées chez les prestataires de paiement OGONE ou MONEXT de façon sécurisée. Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ». Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes.
+Afin de vous éviter de saisir à nouveau vos coordonnées bancaires lors de prochaines commandes, vous pouvez choisir, en cochant la case d’acceptation prévue à cet effet, que vos cartes bancaires soient associées à votre compte en ligne. Elles sont enregistrées chez les prestataires de paiement STRIPE, OGONE ou MONEXT de façon sécurisée. Vous pouvez consulter la liste de vos cartes enregistrées (en mode masqué), mais également supprimer tout ou partie de son contenu, dans la partie « Moyens de paiement » de la rubrique « Mes achats » de « Mon Compte ». Dans ce cas, vos cartes supprimées n’apparaîtront plus dans votre compte en ligne ni lors de futures commandes.
 
 Si vous avez fait le choix d’enregistrer vos cartes bancaires, celles-ci sont désactivées automatiquement à l’expiration de la date de validité de  la carte.
 
 Afin de pouvoir débiter le compte lors de la facturation ou de la créditer suite à un retour, le prestataire de paiement garde les données bancaires associées au n° d’autorisation, le temps nécessaire à la réalisation de la transaction (paiements après expédition de la marchandise) et au traitement des éventuelles réclamations (retours, litiges).  
   
-Lors de la souscription à un abonnement La Redoute et Moi, vos données bancaires sont conservées par les prestataires OGONE ou MONEXT de façon sécurisée. Vous avez la possibilité de vous y opposer lors de la souscription de votre abonnement et à tout moment en exerçant vos droits.
+Lors de la souscription à un abonnement La Redoute et Moi, vos données bancaires sont conservées par les prestataires STRIPE, OGONE ou MONEXT de façon sécurisée. Vous avez la possibilité de vous y opposer lors de la souscription de votre abonnement et à tout moment en exerçant vos droits.
 
 Lors de l’utilisation du service La Reboucle et de la marketplace, vos données bancaires sont traitées par le prestataire Mangopay de façon sécurisée.
 
@@ -349,9 +349,11 @@ Enfin, lorsque la Redoute détecte une violation de données à caractère perso
 9.2. Règles applicables aux données bancaires et à la carte bancaire
 --------------------------------------------------------------------
 
-Afin d´assurer la sécurité des paiements, La Redoute utilise les services des prestataire, OGONE, MONEXT et MANGOPAY.  
-Ces prestataires sont certifiés PCI-DSS. Cette norme est un standard de sécurité international dont les objectifs sont d’assurer la confidentialité et l’intégrité des données des porteurs de cartes, et ainsi de sécuriser la protection des données cartes et de transaction.    
-Lorsque vous passez une commande en  paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système de paiement qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes. Les données sont stockées sur les serveurs du prestataire de paiement et ne sont à aucun moment transmises sur les serveurs de La Redoute. Le prestataire de paiement fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.  
+Afin d´assurer la sécurité des paiements, La Redoute utilise les services des prestataires Stripe, Payline, Ingenico (Ogone), Monext, Mangopay et Paypal.
+
+Lorsque vous passez une commande en paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système de paiement qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes (cf paragraphe ci-dessous « Lutte contre la fraude en ligne »). Les données sont stockées sur les serveurs du prestataire de paiement et ne sont à aucun moment transmises sur les serveurs de La Redoute. Le prestataire de paiement fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
+
+Lorsque vous passez une commande en paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système de paiement qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes (cf paragraphe ci-dessous « Lutte contre la fraude en ligne »). Les données sont stockées sur les serveurs du prestataire de paiement et ne sont à aucun moment transmises sur les serveurs de La Redoute. Le prestataire de paiement fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
 
 10 LUTTE CONTRE LA FRAUDE
 -------------------------
@@ -374,6 +376,8 @@ Cette analyse anti-fraude repose sur les données à caractère personnel suivan
 Toute commande considérée comme suspicieuse sera l’objet d’une vérification par le service anti-fraude qui pourra moduler les conditions d’exécution de celle-ci.
 
 En cas de détection d’une commande frauduleuse, les données sont suspcetibles d’être transmises aux forces de l’ordre dans le cadre de leur pouvoir d’enquête.
+
+Pour plus d’informations sur le mécanisme de lutte contre la fraude de Stripe Inc ; utilisé par la Redoute, veuillez prendre connaissance de la politique de confidentialité de Stripe [accessible ici.](https://stripe.com/fr/legal/privacy-center#from-where-does-stripe-collect-information-used-for-fraud-prevention-and-security-purposes)
 
 11\. QUE FAUT-IL SAVOIR DES DONNÉES COLLECTEES PAR LES RÉSEAUX SOCIAUX ?
 ------------------------------------------------------------------------
