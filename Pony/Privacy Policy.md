@@ -29,11 +29,11 @@
 Politique de Confidentialité
 ----------------------------
 
-Pour vous permettre d'accéder à ses services décrits dans les [Conditions Générales d'adoption des Ponies](https://www.notion.so/ponybikes/Conditions-d-adoption-024faf1426654a2ebc2826ef6ec91d91), les [Conditions générales de location des Ponies,](https://www.notion.so/ponybikes/Conditions-g-n-rales-de-location-19f364cb061940fd82bf03e86c9fd2fc) les [Conditions Générales d'Utilisation de l'application mobile Pony](https://www.notion.so/ponybikes/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407) et/ou accessibles depuis son site internet et son application mobile Pony (ci-après, les "Services"), la société PONY SA a besoin de collecter et traiter vos données à caractère personnel.
+Pour vous permettre d'accéder à ses services décrits dans les [Conditions Générales d'adoption des Ponies](https://www.notion.so/ponybikes/Conditions-d-adoption-024faf1426654a2ebc2826ef6ec91d91), les [Conditions générales de location des Ponies,](https://www.notion.so/ponybikes/Conditions-g-n-rales-de-location-19f364cb061940fd82bf03e86c9fd2fc) les [Conditions Générales d'Utilisation de l'application mobile Pony](https://www.notion.so/ponybikes/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407) et/ou accessibles depuis son site internet et son application mobile Pony (ci-après, les "Services"), la société PONY SAS a besoin de collecter et traiter vos données à caractère personnel.
 
-Dans ce cadre, la société PONY SA s'engage à protéger vos données à caractère personnel et votre vie privée, et met en œuvre toutes les mesures appropriées pour assurer cette protection, conformément aux lois applicables.
+Dans ce cadre, la société PONY SAS s'engage à protéger vos données à caractère personnel et votre vie privée, et met en œuvre toutes les mesures appropriées pour assurer cette protection, conformément aux lois applicables.
 
-Cette Politique de Confidentialité explique la (ou les) finalité(s) et les modalités selon lesquelles la société PONY SA traitera vos données à caractère personnel par l'intermédiaire de ses Services.
+Cette Politique de Confidentialité explique la (ou les) finalité(s) et les modalités selon lesquelles la société PONY SAS traitera vos données à caractère personnel par l'intermédiaire de ses Services.
 
 ### QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?
 
@@ -115,7 +115,7 @@ Veuillez également noter que, l'exercice de ces droits étant soumis à certain
 
 ### A QUI S'ADRESSER POUR TOUTE QUESTION ?
 
-Pour toute autre question concernant le traitement de vos données à caractère personnel ou l'exercice de vos droits tels que définis ci-dessus, vous pouvez contacter Paul-Adrien Cormerais, Délégué à la Protection des Données de PONY, à cette adresse : [help@getapony.com](mailto:help@getapony.com)
+Pour toute autre question concernant le traitement de vos données à caractère personnel ou l'exercice de vos droits tels que définis ci-dessus, vous pouvez contacter le Délégué à la Protection des Données de PONY, à cette adresse : [help@getapony.com](mailto:help@getapony.com)
 
 ### INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ
 
