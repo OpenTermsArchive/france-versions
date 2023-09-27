@@ -1,12 +1,12 @@
 conditions générales de vente
 =============================
 
-Mises à jour le 17/06/2022
+Mises à jour le 26/09/2023
 
 ARTICLE 1 – PREAMBULE
 ---------------------
 
-JULES, Société par Actions Simplifiée au capital de 32 960 825 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, dont le numéro de TVA intracommunautaire est FR 78 305 154 262, représentée par Franck Poillon, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« **Jules** ») édite le site Internet [www.jules.com/fr-fr](https://www.jules.com/) (le « **Site Internet** ») par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Brice en France (les « **Produits** »).  
+JULES, Société par Actions Simplifiée au capital de 106 400 450,00 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, dont le numéro de TVA intracommunautaire est FR 78 305 154 262, représentée par Joannes Soënen, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« **Jules** ») édite le site Internet [www.jules.com/fr-fr](https://www.jules.com/) (le « **Site Internet** ») par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous sa marque Jules en France (les « **Produits** »).  
   
 Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [support@support-jules.zendesk.com](mailto:support@support-jules.zendesk.com)  
   
@@ -71,9 +71,9 @@ ARTICLE 6 – PRIX DES PRODUITS
 
 Le prix des Produits proposés à la vente sur le Site Internet est exprimé en euros, toutes taxes applicables en France comprises et s'entend hors frais de livraison.  
   
-Les frais de préparation et de livraison sont en sus et à la charge du Client, sauf condition contraire mentionnée à [l’article 9 « Livraison »](#headingNine).  
+Les frais de préparation et de livraison sont en sus et à la charge du Client, sauf condition contraire mentionnée à [l’article 8 « Livraison »](#headingNine).  
   
-Il est précisé que les prix sont valables uniquement sur le Site Internet et ne peuvent en aucun cas être exigés pour un achat en magasins Jules ou Brice.  
+Il est précisé que les prix sont valables uniquement sur le Site Internet et ne peuvent en aucun cas être exigés pour un achat en magasins Jules ou Brice by Jules.  
   
 Jules se réserve le droit de modifier le prix des Produits à tout moment et sans information préalable du Client en cas notamment d’erreur manifeste ou de modification du taux de TVA.  
   
@@ -86,20 +86,15 @@ Il est précisé que quel que soit le moyen de paiement choisi, le paiement a li
 
 ##### 7.1 Par carte bancaire
 
-Les cartes bancaires acceptées sont les suivantes : Carte Bleue, Visa, Mastercard et Electron.  
+Les cartes bancaires acceptées sont les suivantes : Carte Bleue, Visa, Mastercard et Electron et e-carte bleue.  
 Lors de la finalisation de sa commande, le Client est invité à saisir son numéro de carte bancaire, la date d’expiration de sa carte bancaire ainsi que les 3 derniers chiffres du cryptogramme visuel figurant au dos de la carte.  
 
 ##### 7.2 Avec son compte Paypal
 
-Lors de la validation de sa commande, le Client doit entrer son adresse e-mail liée à Paypal ainsi que son mot de passe Paypal.  
+Cette possibilité implique la détention d'un compte Paypal par le Client. Le Client sera alors redirigé vers une page sécurisée de Paypal, lors de la validation de sa commande.  
+Le Client devra entrer son adresse e-mail ou son numéro de mobile lié à son compte Paypal ainsi que son mot de passe Paypal.  
 
-##### 7.3 Avec son compte Google Pay
-
-Pour bénéficier de ce mode de paiement, le Client doit disposer d’un compte Google Pay.  
-En choisissant ce mode de paiement, le Client est redirigé vers le serveur sécurisé de Google Pay (par le biais de notre prestataire de paiement Payzen) et doit entrer son adresse e-mail liée à son compte Google Pay ainsi que son mot de passe. La commande sera enregistrée lorsque le Client aura validé son paiement Google Pay.  
-En cas de paiement par Google Pay, nous vous invitons à prendre connaissance au préalable des conditions d'utilisation de Google Payments.  
-
-##### 7.4 Par carte cadeau Jules et carte cadeau Illicado
+##### 7.3 Par carte cadeau Jules et carte cadeau Illicado
 
 _(délivrées en France uniquement)_ Pour plus d'information sur la carte Illicado, [cliquez-ici](https://www.illicado.com/).  
 Il est possible de régler tout ou partie de la commande par carte cadeau (jusqu'à 3 cartes cadeau différentes par commande).  
@@ -109,11 +104,11 @@ Une carte ou e-carte cadeau ne peut pas être utilisée pour l’achat d’une a
 Dans le cas d'un règlement partiel de la commande par carte cadeau, le Client devra payer le solde par tout autre moyen de paiement accepté par Jules.  
 En cas d'annulation ou de retour pour remboursement de toute ou partie de la commande, les cartes cadeau Illicado ne pourront être re-créditées. Une nouvelle carte cadeau Jules du montant exact à rembourser sera alors envoyée au Client conformément à l’article 9.5.  
 
-##### 7.5 Sécurité des paiements
+##### 7.4 Sécurité des paiements
 
 Les transactions effectuées sur le Site Internet sont sécurisées par la plateforme de paiement en ligne PayZen. Cette solution est une marque du groupe Lyra Network, opérateur monétique reconnu dans le milieu bancaire. PayZen assure aux Clients la sécurité optimale de leurs données grâce à sa certification PCI DSS et l’utilisation du protocole SSL qui crypte toutes les informations liées à la commande. A aucun moment, les coordonnées bancaires des Clients n’apparaissent en clair ou sont remises à Jules. Pour toute information complémentaire sur la plateforme de paiement nous vous invitons à visiter le site Internet : [www.payzen.eu](https://payzen.eu/) ou à contacter le 0811 708 709 (coût d’un appel local depuis un poste fixe).  
 
-##### 7.6 Mesures contre les défauts de paiement et la fraude bancaire
+##### 7.5 Mesures contre les défauts de paiement et la fraude bancaire
 
 Jules se réserve le droit de refuser toute commande d’un Client avec lequel il existerait un litige relatif au paiement d’une commande antérieure tant que ce litige n’est pas résolu.  
 Jules se réserve la possibilité de vérifier les données personnelles fournies par le Client et d’adopter les mesures qu’il juge nécessaires (demande de justificatifs, et/ou annulation de la commande) pour vérifier que la personne dont le compte bancaire est débité est bien celle qui a passé la commande et ainsi éviter toute utilisation frauduleuse de numéros de cartes sur le Site Internet.  
@@ -131,18 +126,19 @@ _(en France continentale ainsi qu’en Corse)_ Coût de 3,95 € TTC.
 La commande est livrée par La Poste en Colissimo Access à l’adresse de livraison saisie par le Client dans un délai de 4 à 5 jours ouvrés à compter de la confirmation de la commande (étant précisé que ce délai peut être rallongé pour les zones géographiques éloignées comme la Corse).  
 Le Client est informé de l’expédition de son colis par courrier électronique.  
 
-##### 8.2 En points relais La Poste
+##### 8.2 Livraison express
+
+Coût de 8,90€ TTC.  
+La commande passée par le Client avant 10h, est livrée par Chronopost le lendemain avant 18h, à l'adresse de livraison saisie par le Client.  
+La commande express ne pourra être choisie par le Client lorsque sa commande est passée un jour férié ou durant un week-end.  
+Le Client est informé de l'expédition de son colis par courrier électronique.
+
+##### 8.3 En points relais La Poste
 
 Coût de 3,45 € TTC.  
 Le délai de livraison en points relais La Poste est de 4 à 5 jours ouvrés à compter de la confirmation de la commande.  
 Le Client est informé par courrier électronique de l’arrivée de son colis en points relais La Poste.  
 Il dispose d’un délai de 10 jours ouvrés à compter de la date d’envoi du courrier électronique pour venir retirer la commande, sur présentation d’une pièce d’identité en vigueur. A l’expiration de ce délai, le colis sera considéré comme abandonné et ne pourra plus faire l’objet d’aucune réclamation par le Client. Jules remboursera le Client du montant des Produits commandés sur la base du prix facturé, hors frais de livraison.  
-
-##### 8.3 Chronopost
-
-Coût de 9,95 € TTC.  
-La commande est livrée par La Poste avec Chronopost à l’adresse de livraison saisie par le Client dans un délai de 2 jours ouvrés à compter de la confirmation de la commande.  
-Le Client est informé de l’expédition de son colis par courrier électronique.  
 
 ##### 8.4 En magasins Jules et Brice
 
@@ -176,8 +172,8 @@ Le Client bénéficie alors d’un délai de quatorze (14) jours à compter de l
 
 ##### 9.2 Droit de rétractation conventionnel
 
-Jules permet aux Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de quatre-vingt-dix (90) jours à compter de la date de réception de la commande (ce délai inclut le délai de rétractation légal).  
-  
+Jules permet aux Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de trente (30) jours à compter de la date de réception de la commande (ce délai inclut le délai de rétractation légal).  
+Ce délai est porté à 90 jours lorsque la commande est passée par un Client détenant un compte client Jules "GOLD" (c'est à dire crédité d'au moins 200 points de fidélité au moment de la commande.)  
 
 ##### 9.3 Produits exclus
 
@@ -190,8 +186,10 @@ De même, les Produits retournés ne devront pas souffrir de dépréciations qui
 
 ###### 9.4.1 En magasins
 
-Le Client peut se rendre dans l’un des magasins Jules ou Brice de France métropolitaine afin de retourner sa commande.  
+Le Client peut se rendre dans l’un des magasins Jules ou Brice by Jules de France métropolitaine afin de retourner sa commande.  
 Pour se faire, le Client devra déposer son Produit et le bon de retour imprimé en renseignant la quantité et le motif de son retour pour chaque Produit à retourner dans le magasin Jules ou Brice de son choix.  
+Le bon de retour et l'étiquette sont disponibles dans l'espace compte du client, en ligne.  
+  
 
 ###### 9.4.2 En points relais Colissimo ou bureau de poste
 
@@ -214,7 +212,7 @@ Pour se faire, le Client devra remplir entièrement le bon de retour, l’insér
 
 ##### 9.5 Remboursement
 
-Le Client sera remboursé à la réception du colis par Jules dans ses entrepôts ou dès réception de la preuve d’expédition du colis par le Client (la date retenue étant celle du premier de ces faits) ou immédiatement en magasin dans le cas d’un retour en magasin. Etant précisé qu’il faut généralement compter plusieurs jours pour que les fonds soient effectivement recrédités au Client à compter du remboursement par Jules compte tenu des délais interbancaires.  
+Le Client sera remboursé dans un délai de 14 jours à compter de la réception du colis par Jules dans ses entrepôts ou de la réception par Jules de la preuve d’expédition du colis par le Client (la date retenue étant celle du premier de ces faits) ou immédiatement en magasin dans le cas d’un retour en magasin. Etant précisé qu’il faut généralement compter plusieurs jours pour que les fonds soient effectivement recrédités au Client à compter du remboursement par Jules compte tenu des délais interbancaires.  
 Le remboursement est effectué sur la base du prix du produit facturé figurant sur le récapitulatif de la commande, effectivement payé par le Client.  
 Les frais de préparation et de livraison ne sont remboursés que si l’ensemble de la commande est retournée ; lesdits frais resteront donc à la charge du Client si le retour ne porte que sur une partie de la commande.  
 Le Client sera remboursé sur le moyen de paiement utilisé lors de la commande.  
@@ -225,7 +223,7 @@ Les commandes contenant un emballage cadeau seront remboursées dans les mêmes 
 ARTICLE 10 – POLITIQUE D’ECHANGE
 --------------------------------
 
-L’échange d’un Produit est possible dans les magasins Jules ou Brice de France Métropolitaine dans un délai de quatre-vingt-dix (90) jours à compter de la réception de la commande.  
+L’échange d’un Produit est possible dans les magasins Jules ou Brice by Jules de France Métropolitaine dans un délai de quatre-vingt-dix (90) jours à compter de la réception de la commande.  
 L’échange est gratuit dès lors qu’il porte sur un produit proposé au même prix que le Produit retourné. En revanche, si le prix du nouveau produit choisi par le Client est inférieur au prix du Produit retourné, la différence sera remboursée au Client au choix de ce dernier sur sa carte bancaire ou en espèces. Si le prix du nouveau produit est supérieur au prix du Produit retourné, le Client règlera la différence par le mode de paiement de son choix accepté en magasin.
 
 ARTICLE 11 – GARANTIES
