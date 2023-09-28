@@ -345,25 +345,38 @@ L’article 6, paragraphe 1, point f, RGPD constitue ici la base légale du trai
 
 Vous avez la possibilité d’empêcher l’enregistrement de cookies de fournisseurs tiers qui sont utilisés pour mettre en œuvre les traitements de données décrits ci-après en réglant votre navigateur de façon correspondante (comme expliqué au point 2.2). Les descriptions suivantes comprennent également d’autres possibilités d’opposition. Nous vous informons que nous collaborons éventuellement et parfois avec des partenaires qui ne sont pas répertoriés ci-après.
 
-#### 6.1 Facebook 
-
-Nos sites Web utilisent à des fins de marketing des balises de conversion et de reciblage du réseau social Facebook (ou « pixels Facebook »), un service de Facebook Inc., 1601 Willow Road, Menlo Park, California 94025, États-Unis (« Facebook »). Nous utilisons les pixels Facebook pour analyser l’utilisation générale de nos sites Web et suivre l’efficacité de la publicité Facebook (« conversion »). En outre, nous utilisons les pixels Facebook pour vous proposer des messages publicitaires personnalisés à l’aide de votre intérêt pour nos produits (« reciblage »). Facebook traite pour cela des données que le service collecte par le biais de cookies et de technologies similaires sur nos sites Web. 
-
-Les données acquises dans ce contexte peuvent être transmises par Facebook pour analyse à un serveur aux États-Unis et stockées là-bas. Au cas où des données à caractère personnel seraient transférées aux États-Unis, Facebook s’est soumis au Standard Contractual Clauses. 
-
-Si vous êtes membre de Facebook et que vous y avez autorisé Facebook par le biais des paramètres de confidentialité de votre compte, Facebook peut relier les informations enregistrées par nos soins lors de votre visite avec votre compte de membre et les utiliser pour des annonces ciblées dans Facebook. Vous pouvez consulter et modifier à tout moment les [paramètres de confidentialité](https://www.facebook.com/settings/?tab=ads) de votre profil Facebook. Si vous n’êtes pas membre de Facebook, vous pouvez interdire le traitement des données par Facebook en cliquant sur le bouton de désactivation pour le fournisseur « Facebook » sur le [site Web externe d’opposition TrustArc](http://preferences-mgr.truste.com/). Vous pouvez continuer à interdire le traitement des données en actionnant les boutons suivants. 
-
-Si vous désactivez le traitement des données par Facebook, Facebook n’affichera plus que des annonces Facebook générales qui ne seront pas sélectionnées en fonction des informations que vous avez saisies. 
-
-Vous trouverez plus d’informations à ce sujet dans la [Politique d’utilisation](https://www.facebook.com/about/privacy/) des données de Facebook.
-
-#### 6.2 Partenariats d'affiliation 
+#### 6.1 Partenariats d'affiliation 
 
 Coupons proposés par Sovendus GmbH : Pour la sélection d’un coupon proposé actuellement, nous transmettons de manière cryptée et pseudonymisée la valeur de hachage de votre adresse e-mail et votre adresse IP à la société Sovendus GmbH, Hermann-Veit-Str. 6, 76135 Karlsruhe (Sovendus) (art. 6 alinéa 1 f du Règlement général sur la protection des données \[RGPD\]). La valeur de hachage pseudonymisée de l’adresse e-mail est utilisée pour la prise en compte d’une éventuelle opposition contre la publicité de Sovendus (art. 21 alinéa 3, art. 6 alinéa 1 c du Règlement général sur la protection des données). L’adresse IP est utilisée par Sovendus, et ce, uniquement à des fins de protection des données, avant d’être anonymisée, en règle générale au bout de sept jours (art. 6 alinéa 1 f du Règlement général sur la protection des données). De plus, à des fins de facturation, nous transmettons de manière pseudonymisée à Sovendus le numéro de commande, le montant de la commande avec la devise utilisée, l’identifiant de session, le code du coupon et le pointeur temporel (art. 6 alinéa 1 f du Règlement général sur la protection des données). Si vous êtes intéressé par un coupon proposé par Sovendus, que votre adresse e-mail n’est pas pourvue d’un dispositif de blocage de publicités et que vous cliquez sur la bannière du coupon affichée uniquement cette fois-ci, votre titre, votre nom, votre code postal, votre pays et votre adresse e-mail sont envoyés, cryptés par nos soins, à Sovendus pour préparer le bon de réduction (art. 6 alinéa 1 b, f du Règlement général sur la protection des données). 
 
 Pour en savoir plus sur le traitement de vos données par Sovendus, veuillez consulter notre déclaration en ligne sur la protection des données à l’adresse [https://www.sovendus.fr/declaration\_sur\_la\_protection\_des\_donnees](https://www.sovendus.fr/declaration_sur_la_protection_des_donnees).
 
-#### 6.3 Google Adwords et remarketing Adwords  
+#### 6.2 QUALTRICS
+
+Nous utilisons les services d'analyse de Qualtrics LLC, 333 W. River Park Drive, Provo, UT 84604, États-Unis d'Amérique ("Qualtrics").  Qualtrics est une application web qui nous permet de créer des enquêtes pour recueillir les commentaires des clients, d'analyser et de stocker les données produites par ces enquêtes. Nous utilisons le retour d'information de la communauté pour améliorer nos services et notre engagement des parties prenantes externes et internes.   
+Nous recueillons des données personnelles et des réponses aux enquêtes uniquement dans le but d'améliorer nos services et l'expérience des utilisateurs. Ces données peuvent inclure des informations de contact, des détails démographiques et des réponses à des enquêtes. Les données collectées sont utilisées à des fins de recherche, d'analyse et d'amélioration des services. 
+
+Si les transferts se font vers un pays pour lequel la Commission européenne n'a pas émis de décision d'adéquation, Qualtrics utilise les clauses contractuelles types de l'UE pour exiger contractuellement que vos données personnelles bénéficient d'un niveau de protection des données conforme à celui de l'EEE.   
+De plus amples informations sur Qualtrics et la politique de confidentialité associée sont disponibles à l'adresse suivante : [https://www.qualtrics.com/privacy-statement/](https://www.qualtrics.com/privacy-statement/)  
+La base juridique de ce type de traitement de données est l'article 6 para. 1 lit. a GDPR (votre consentement).
+
+#### 6.3 USER ZOOM
+
+Nous utilisons les services de Userzoom/User Testing qui nous permettent de créer des enquêtes pour recueillir les commentaires des clients, d'analyser et de stocker les données produites à partir de ces enquêtes, ainsi que des entretiens. Nous utilisons ce retour d'information de la communauté pour améliorer notre boutique en ligne, nos services et notre engagement pour les parties prenantes externes et internes. Nous recueillons des données personnelles et des réponses aux enquêtes dans le seul but d'améliorer notre boutique en ligne, nos services et l'expérience des utilisateurs. Ces données peuvent inclure des informations de contact, des détails démographiques et des réponses à des enquêtes. Les données collectées sont utilisées à des fins de recherche, d'analyse et d'amélioration des services.  De plus amples informations sur les tests utilisateurs et la politique de confidentialité associée sont disponibles à l'adresse suivante : [https://www.usertesting.com/privacy-center](https://www.usertesting.com/privacy-center)
+
+#### 6.4 Facebook 
+
+Nos sites Web utilisent à des fins de marketing des balises de conversion et de reciblage du réseau social Facebook (ou « pixels Facebook »), un service de Facebook Inc., 1601 Willow Road, Menlo Park, California 94025, États-Unis (« Facebook »). Nous utilisons les pixels Facebook pour analyser l’utilisation générale de nos sites Web et suivre l’efficacité de la publicité Facebook (« conversion »). En outre, nous utilisons les pixels Facebook pour vous proposer des messages publicitaires personnalisés à l’aide de votre intérêt pour nos produits (« reciblage »). Facebook traite pour cela des données que le service collecte par le biais de cookies et de technologies similaires sur nos sites Web. 
+
+Les données acquises dans ce contexte peuvent être transmises par Facebook pour analyse à un serveur aux États-Unis et stockées là-bas. Au cas où des données à caractère personnel seraient transférées aux États-Unis, Facebook s’est soumis au Standard Contractual Clauses. 
+
+Si vous êtes membre de Facebook et que vous y avez autorisé Facebook par le biais des paramètres de confidentialité de votre compte, Facebook peut relier les informations enregistrées par nos soins lors de votre visite avec votre compte de membre et les utiliser pour des annonces ciblées dans Facebook. Vous pouvez consulter et modifier à tout moment les [paramètres de confidentialité](https://www.facebook.com/settings/?tab=ads) de votre profil Facebook. Si vous n’êtes pas membre de Facebook, vous pouvez interdire le traitement des données par Facebook en cliquant sur le bouton de désactivation pour le fournisseur « Facebook » sur le [site Web externe d’opposition TrustArc](http://preferences-mgr.truste.com/). Vous pouvez continuer à interdire le traitement des données en actionnant les boutons suivants. 
+
+Si vous désactivez le traitement des données par Facebook, Facebook n’affichera plus que des annonces Facebook générales qui ne seront pas sélectionnées en fonction des informations que vous avez saisies. 
+
+Vous trouverez plus d’informations à ce sujet dans la [Politique d’utilisation](https://www.facebook.com/about/privacy/) des données de Facebook.
+
+#### 6.5 Google Adwords et remarketing Adwords  
 
 Notre site Web utilise les services « AdWords Conversion-Tracking » et « Remarketing AdWords » de Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, États-Unis (« Google »). Les actions du client que nous avons définies sont enregistrées grâce à « AdWords Conversion-Tracking » (par exemple, le fait de cliquer sur une annonce, la consultation de page, les téléchargements) et analysées. Nous utilisons « AdWords Conversion-Tracking » pour vous proposer des messages publicitaires personnalisés pour nos produits sur les sites Web partenaires de Google. Les deux services utilisent pour cela des cookies et technologies similaires. Les données acquises dans ce contexte peuvent être transmises par Google pour analyse à un serveur aux États-Unis et stockées là-bas. Au cas où des données à caractère personnel seraient transférées aux États-Unis, Google s’est soumis au Standard Contractual Clauses. 
 
@@ -379,11 +392,11 @@ c) Par ailleurs, vous pouvez aussi désactiver la publicité personnalisée de G
 
 Veuillez noter que Google continuera à vous présenter uniquement de la publicité générale qui n’aura pas été choisie à l’aide des données d’accès enregistrées en cas de désactivation de la publicité personnalisée.
 
-#### 6.4 Google Customer Match 
+#### 6.6 Google Customer Match 
 
 SCe n'est qu'avec votre consentement exprès (art. 6 (1) lit. DSGVO), nous utilisons l'outil d'analyse Google Customer Match. À cette fin, nous importons des listes d'e-mails cryptées qui sont comparées par Google avec les utilisateurs enregistrés. Après le téléchargement, le système vérifie quelles données sont déjà connues et classe ces utilisateurs dans une liste. Une fois que les listes Customer Match ont été créées, les données cryptées des clients sont automatiquement supprimées. Grâce à Google Customer Match, nous pouvons vous montrer des contenus publicitaires ciblés via le réseau d'affichage de Google lorsque vous vous trouvez sur un site partenaire du réseau d'affichage de Google. Google fait également correspondre votre comportement d'utilisation avec le comportement d'utilisation de clients similaires (appelés "clients similaires") afin d'afficher également la publicité de C&A à ces clients dans le réseau d'affichage de Google. En l'absence de correspondance et si vous n'avez pas expressément donné votre accord, votre adresse électronique ne sera pas utilisée et sera supprimée. Vous ne recevrez alors pas non plus de publicité C&A personnalisée sur le Réseau Display de Google. Pour plus d'informations, veuillez consulter les sites [http://www.google.com/intl/en/policies/privacy/](https://www.google.com/intl/en/policies/privacy/) e hhttps://support.google.com/adwords/answer/6379332?hl=fr.
 
-#### 6.5 Hotjar  
+#### 6.7 Hotjar  
 
 Nous utilisons le service d'analyse de l'entreprise Hotjar Limited, Level 2, St Julian's Business Centre, 3, Elia Zammit Street, St Julian's STJ 1000, Malte ("Hotjar"). Hotjar installe en notre nom des cookies d'une validité de 6 mois pour collecter des données d'accès pseudonymes afin de pouvoir analyser et améliorer régulièrement notre site web sur la base des rapports fournis par Hotjar. Votre adresse IP est bien sûr rendue anonyme avant l'évaluation. Cela signifie qu'aucune adresse IP ne peut être reliée à une personne. Vous pouvez toutefois vous opposer à l'analyse web par Hotjar à tout moment en cliquant sur le lien "objet" sur [https://www.hotjar.com/legal/compliance/opt-out](https://www.hotjar.com/legal/compliance/opt-out). La base juridique de ce traitement de données est l'article 6 (1) (f) RGPD (mise en relation des intérêts sur la base de notre intérêt légitime à évaluer le comportement général d'utilisation).
 
