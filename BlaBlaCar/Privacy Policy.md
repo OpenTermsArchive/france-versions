@@ -3,7 +3,7 @@ Politique de confidentialité
 
 [Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | Politique de Confidentialité | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
-Version applicable à compter du 21 Septembre 2023, sauf dans le cas où vous avez accepté cette politique de confidentialité avant sur la plateforme.
+Version applicable à compter du 21 Septembre 2023
 
 1\. Généralités
 ---------------
@@ -39,21 +39,21 @@ Ces informations contiennent notamment les données suivantes :
 
 **2.1.8.** Le détail des opérations financières ou comptables effectuées sur notre Plateforme ou par tout autre moyen, contenant notamment les informations relatives à votre carte de paiement, vos données bancaires, les informations relatives aux trajets réservés ou pour lesquels vous avez publié une annonce sur notre Plateforme. Ces informations peuvent inclure vos préférences de voyage ;
 
-**2.1.10.** Le détail de vos visites sur notre Plateforme et des contenus auxquels vous avez accédé ;
+**2.1.9.** Le détail de vos visites sur notre Plateforme et des contenus auxquels vous avez accédé ;
 
-**2.1.11.** Le cas échéant, vos réponses à nos sondages et questionnaires et les avis que vous avez laissés pour évaluer un trajet effectué par le biais de notre Plateforme, ces informations étant notamment susceptibles d’être utilisées dans le cadre de recherches et d’analyses du comportement utilisateur ;
+**2.1.10.** Le cas échéant, vos réponses à nos sondages et questionnaires et les avis que vous avez laissés pour évaluer un trajet effectué par le biais de notre Plateforme, ces informations étant notamment susceptibles d’être utilisées dans le cadre de recherches et d’analyses du comportement utilisateur ;
 
-**2.1.12.** Les données que nous pouvons vous demander de fournir lorsque vous nous signalez un problème relatif à notre Plateforme ou à nos services, comme par exemple l’objet de votre demande d’assistance ;
+**2.1.11.** Les données que nous pouvons vous demander de fournir lorsque vous nous signalez un problème relatif à notre Plateforme ou à nos services, comme par exemple l’objet de votre demande d’assistance ;
 
-**2.1.13.** Les données liées à votre localisation afin que nous puissions répondre à votre recherche de trajets proches de vous ou pour faciliter la publication d’un trajet ;
+**2.1.12.** Les données liées à votre localisation afin que nous puissions répondre à votre recherche de trajets proches de vous ou pour faciliter la publication d’un trajet ;
 
-**2.1.14.** Une copie de votre passeport, votre carte d’identité ou tout autre document similaire que vous avez accepté de nous fournir dans le cadre de Profil Vérifié ; 
+**2.1.13.** Une copie de votre passeport, votre carte d’identité ou tout autre document similaire que vous avez accepté de nous fournir dans le cadre de Profil Vérifié ; 
 
-**2.1.15.** Une photo de votre permis de conduire, une photographie spontanée via un selfie dans le cadre de la vérification d’identité et un contrôle de correspondance automatisé ou manuel, conformément aux exigences légales et réglementaires applicables à la prime covoiturage ;
+**2.1.14.** Une photo de votre permis de conduire, une photographie spontanée via un selfie dans le cadre de la vérification d’identité et un contrôle de correspondance automatisé ou manuel, conformément aux exigences légales et réglementaires applicables à la prime covoiturage ;
 
-**2.1.16.** Le certificat de signature électronique utilisé le cas échéant à la signature d’une attestation sur l’honneur requise en cas de bénéfice d’une prime covoiturage ;
+**2.1.15.** Le certificat de signature électronique utilisé le cas échéant à la signature d’une attestation sur l’honneur requise en cas de bénéfice d’une prime covoiturage ;
 
-**2.1.17.** Les données relatives à votre souscription d’assurances, ainsi qu’à vos renonciations à ces souscriptions, le cas échéant, et une copie des déclarations effectuées et formulaires complétés aux fins de souscriptions ou de gestion des contrats.
+**2.1.16.** Les données relatives à votre souscription d’assurances, ainsi qu’à vos renonciations à ces souscriptions, le cas échéant, et une copie des déclarations effectuées et formulaires complétés aux fins de souscriptions ou de gestion des contrats.
 
 ### 2.2. Les données que nous recueillons automatiquement
 
