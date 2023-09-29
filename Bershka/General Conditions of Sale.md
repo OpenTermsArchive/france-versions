@@ -82,13 +82,13 @@ informations et données et vous garantissez que toutes les informations et donn
 
 véridiques et correspondent à la réalité.
 
+
+
 4. UTILISATION DE NOTRE SITE INTERNET
 
 
 
 En utilisant ce site Internet et en passant des commandes via ce dernier, vous acceptez :
-
-
 
 i. de n'utiliser ce site Internet que pour faire des demandes et passer des commandes licites;
 
@@ -162,6 +162,8 @@ Un ticket électronique mentionnant les détails de votre commande sera joint à
 
 (l“E-ticket”). Nous vous contacterons également lorsque votre commande sera disponible.
 
+
+
 7. DISPONIBILITÉ DES PRODUITS
 
 
@@ -175,8 +177,6 @@ vous proposer des produits de substitution possédant une qualité et une valeur
 et que vous pourrez commander. Si vous ne souhaitez pas commander de produit de substitution, nous
 
 vous rembourserons la somme que vous avez versée.
-
-
 
 8. REFUS DE TRAITER UNE COMMANDE
 
@@ -266,8 +266,6 @@ dans les conditions d'utilisation de la carte cadeau et, dans tous les cas, à l
 
 carte à l'adresse électronique que vous nous aurez indiquée.
 
-
-
 En cas de commande faite en utilisant l’option du paiement à la livraison, si votre commande n’a pas été
 
 récupérée et payée en magasin dans un délai de 8 jours à compter de sa disponibilité pour des causes
@@ -321,6 +319,8 @@ avoir un coût supplémentaire et que ce dernier pourra vous être facturé.
 La présente clause ne s'applique pas à la carte cadeau virtuelle, dont la livraison est régie par les
 
 dispositions prévues dans les conditions d'utilisation de la carte cadeau.
+
+
 
 11. TRANSFERT DES RISQUES ET DE LA PROPRIÉTÉ DES PRODUITS
 
@@ -412,6 +412,8 @@ payer votre commande lors de la livraison en magasin, en utilisant tous moyens d
 
 dans les magasins BERSHKA en France.
 
+
+
 Veuillez noter que Fashion Retail, SA dont le siège social est situé Avenida de la Diputación, Edificio Inditex,
 
 Arteixo, A Coruña (Espagne) immatriculée au Registre des Sociétés de la Corogne, Volume 3425, feuille
@@ -495,6 +497,8 @@ qu'utilisateur ou de continuer en tant qu'utilisateur non inscrit.
 Une facture sous format électronique sera disponible en cliquant sur le document PDF figurant dans le
 
 courriel de confirmation d’envoi de votre commande.
+
+
 
 14.TAXE SUR LA VALEUR AJOUTÉE
 
@@ -676,6 +680,8 @@ délai légal, vous serez remboursé uniquement des paiements versés pour lesdi
 
 que les frais de livraison ne seront pas remboursés.
 
+
+
 S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
 magasin BERKSHA situé en France métropolitaine.
@@ -701,8 +707,6 @@ premier retour des articles d’une même commande, le coût des retours ultéri
 restant à votre charge et ce même si les articles sont retournés dans les 14 premiers jours suivant le
 
 courriel de Confirmation de commande.
-
-
 
 Si vous déposez les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles
 
@@ -765,6 +769,8 @@ de la carte cadeau.
 
 
 En cas de rétractation, les produits concernés devront être retournés comme suit :
+
+
 
 (i) Retours effectués dans un magasin BERSHKA :
 
@@ -852,6 +858,8 @@ certains magasins Bershka en France et payés à la caisse du magasin doivent s�
 
 dans un magasin Bershka en France.
 
+
+
 Après examen des produits, nous vous indiquerons si vous avez le droit de bénéficier du remboursement
 
 des sommes payées. Les frais de livraison seront remboursés si le droit de rétraction est exercé dans la
@@ -879,8 +887,6 @@ Vous devrez assumer le coût et le risque du retour des produits selon les modal
 En cas de questions, vous pouvez nous joindre via notre formulaire de contact ou par téléphone au 0 800
 
 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur).
-
-
 
 Les retours des commandes faites en utilisant l’option du paiement à la livraison et payées en caisse du
 
@@ -962,8 +968,6 @@ produits.
 
 17.1 Responsabilité
 
-
-
 Notre responsabilité, au titre des présentes Conditions, ne saurait être engagée dans le cas où
 
 l’inexécution de nos obligations serait imputable au fait d’un tiers, à votre faute ou à un évènement de
@@ -1013,6 +1017,8 @@ Internet conformément à la garantie légale de conformité prévue aux article
 de la consommation et à la garantie contre les vices cachés au sens des articles 1641 et suivants du Code
 
 civil.
+
+
 
 Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la
 
@@ -1102,6 +1108,8 @@ garantie donne droit à une réduction de prix si le bien est conservé ou à un
 
 contre restitution du bien.
 
+
+
 Mise en œuvre de la garantie légale de conformité et des vices cachés :
 
 
@@ -1129,8 +1137,6 @@ contrat ainsi qu'aux critères énoncés à l'article L. 217-5. Il répond des d
 moment de la délivrance du bien au sens de l'article L. 216-1, qui apparaissent dans un délai de deux ans
 
 à compter de celle-ci.
-
-
 
 - Article L217-4 du Code de la consommation : Le bien est conforme au contrat s'il répond notamment, le
 
@@ -1190,6 +1196,8 @@ Le contenu de cette clause ne porte aucunement atteinte à vos droits en tant qu
 
 votre droit de résilier le Contrat.
 
+
+
 17.3. Médiation
 
 
@@ -1238,17 +1246,11 @@ concernant. Ces IDU sont les suivants :
 
 
 
-- IDU pour la filière « textiles d'habillement, chaussures, linge de maison, produits textiles neufs
+- IDU filière « textiles d'habillement, chaussures, linge de maison, produits textiles neufs pour la
 
-pour la maison » : FR212790_11RSZB
+maison » : FR212790_11RSZB
 
-- IDU pour la filière « jouets » : FR212790_12LBEH
-
-- IDU pour la filière « articles de bricolage et de jardin » : FR212790_14GQCX
-
-- IDU pour la filière « papier » : FR351011_03LXRK
-
-- IDU pour la filière « emballages ménagers » : FR212790_01VOIB
+- IDU filière « emballages ménagers » : FR212790_01VOIB
 
 
 
@@ -1313,8 +1315,6 @@ contenu sur ce dernier ou de sites vers lesquels ce site vous redirige.
 
 
 21. LIENS À PARTIR DE NOTRE SITE INTERNET
-
-
 
 Si notre site Internet contient des liens vers d'autres sites Internet et des matériels de tiers, ces liens sont
 
@@ -1406,8 +1406,6 @@ porteront pas préjudice aux droits qui vous sont reconnus par la loi en tant qu
 
 nous aurons pu vous accorder.
 
-
-
 25. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
 
 
@@ -1496,8 +1494,6 @@ les négociations menées par les deux parties avant le Contrat, hormis celles q
 
 mentionnées dans ces Conditions.
 
-
-
 Les parties renoncent à exercer un recours contre d’éventuelles fausses déclarations orales ou écrites
 
 émises par l'autre partie, avant la date de la conclusion du Contrat (sauf si ces fausses déclarations ont
@@ -1546,6 +1542,8 @@ Les dispositions de cette clause ne portent aucunement atteinte aux droits dont 
 
 que consommateur en vertu de la législation applicable en la matière.
 
+
+
 31. COMMENTAIRES ET SUGGESTIONS
 
 
@@ -1564,15 +1562,13 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 1er septembre 2023
+Dernière mise à jour le 15 juin 2023
 
 
 
 ANNEXE - Modèle de formulaire de rétractation
 
 (Formulaire à compléter et à nous renvoyer uniquement si vous souhaitez vous rétracter du Contrat)
-
-
 
 A l’attention de BERSHKA FRANCE SARL, exerçant ses activités sous le nom commercial BERSHKA, 22 Rue
 
@@ -1693,6 +1689,8 @@ précisément dans la section « Mes commandes ».
 
 
 1.3 Identifiez-vous en tant qu'utilisateur Bershka en montrant votre QR ID
+
+
 
 Votre QR ID est valable pour vous identifier dans le Magasin Physique, simplifier les formalités et vous
 
@@ -1868,13 +1866,13 @@ Les utilisateurs s'engagent à ne pas retirer, supprimer, modifier, manipuler ou
 
 modifier:
 
+
+
 - Les notes, légendes, signes ou symboles, que soit (i) la Société, soit (ii) les ayants droit légaux
 
 incorporent dans leur propriété au regard de la propriété intellectuelle ou industrielle (ex: copyright,
 
 ©, ® et ™, etc.,).
-
-
 
 - Dispositifs techniques de protection ou d'identification que la Propriété peut contenir (par exemple,
 
@@ -1940,4 +1938,4 @@ autres lois applicables.
 
 
 
-Dernière mise à jour : 1er septembre 2023
+Dernière mise à jour : 15 juin 2023
