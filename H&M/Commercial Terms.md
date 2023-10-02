@@ -106,7 +106,9 @@ Vous pouvez rapporter le ou les articles que vous souhaitez retourner dans n'imp
 
 Notez que les erreurs de commande (par ex. article erroné ou manquant) ne peuvent pas faire l'objet d'un retour ou d'un traitement en magasin, il faudra utiliser la procédure de retour en ligne. Les articles H&M Home ne peuvent être retournés que dans les magasins proposant la gamme H&M Home.
 
-Nous échangeons ou remboursons tout article dans son état d'origine qui ne conviendrait pas. Echanges et remboursements dans tous les magasins H&M en France, dans un délai de 30 jours à partir de la date d’achat, sur présentation du ticket de caisse ou reçu on line .
+Nous échangeons ou remboursons tout article dans son état d'origine qui ne conviendrait pas. Echanges et remboursements dans tous les magasins H&M en France, dans un délai de 30 jours à partir de la date d’achat, sur présentation du ticket de caisse ou reçu on line.
+
+_Les articles des collections spéciales ( par exemple collections Studio, collections de créateurs) achetés sur [hm.com](https://www2.hm.com/fr_fr/index.html "http://hm.com/") ne pourront pas être échangés ou remboursés en magasin_
 
 Les remboursements s’effectuent exclusivement par crédit de la carte bancaire utilisée lors de l'achat ou sous forme d’avoir. Les frais de livraison ne sont pas remboursables. Notez que si pour une raison ou une autre, nos magasins ne sont pas en mesure de consulter votre commande en ligne, le retour ne pourra pas être remboursé avec le mode de paiement utilisé au moment de l'achat, notamment pour les paiements via PayPal. Dans cette éventualité, deux options s'offrent à vous : vous pouvez retourner vos articles en ligne ou en magasin. Si vous choisissez le retour en magasin et que vous avez payé avec PayPal, vous serez remboursé(e) sous forme d'avoir. Les cartes et E-cards cadeaux ne sont pas remboursables et sont utilisables dans tous les magasins H&M de France ou sur notre site online (hm.com).
 
@@ -189,4 +191,4 @@ _H & M Hennes & Mauritz Sarl est détentrice d’une assurance de responsabilit�
 75001 Paris  
   
 _  
-23/05/2023
+02/10/2023
