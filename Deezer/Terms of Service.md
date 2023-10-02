@@ -1077,7 +1077,7 @@ Terms of use of Deezer for Developers
 
 The web site http://www.deezer.com (hereinafter the “Site”) is an interactive and social musical website, edited by Deezer.
 
-Deezer SA is a French corporation with a share capital of 289,942.45 euros, registered under number 511 716 573, with its principal offices located at 24 rue de Calais 75009 Paris, FRANCE.
+Deezer SA is a French corporation with a share capital of 1 216 372,48 euros, registered under number 898 969 852, with its principal offices located at 24 rue de Calais 75009 Paris, FRANCE.
 
 Deezer is hereinafter referred to as “DEEZER” for these terms (hereinafter the “Terms”).
 
