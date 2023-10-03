@@ -93,42 +93,43 @@ Si le Client manque la livraison du colis (à l'exception des livraisons « Driv
 
 ### ARTICLE 6 - DROIT DE RETRACTATION
 
-Conformément à l’art. 52 du Décret Législatif du 06/09/2005 - N. 206, le Client dispose de 14 jours à partir de la réception de la marchandise pour exercer son droit de rétractation.  
+Conformément à l’art. 52 du Décret Législatif du 06/09/2005 - N. 206, le Client dispose de 14 jours à partir de la réception de la marchandise pour exercer son droit de rétractation. Seul un retour est autorisé par commande.  
   
-Pour exercer ce droit, le Client devra le communiquer en remplissant le formulaire de Retour trouvable en ligne dans la section « [Retours](https://fr.benetton.com/order-return) ». La remise au livreur devra être effectuée sous 14 jours à partir du moment où la demande de retour aura été remplie en ligne.  
+Pour exercer ce droit, le Client devra le communiquer en remplissant le formulaire de Retour disponible en ligne dans la section « Retours ». La remise au livreur devra être effectuée sous 14 jours à partir du moment où la demande de retour aura été remplie en ligne.  
   
 Les articles retournés doivent être expédiés depuis le pays où ils ont été commandés et livrés.  
   
-Dans le colis reçu, les instructions sur support papier pour effectuer une demande de Retour sont aussi toujours présentes. Pour des raisons techniques de gestion et de traçage des opérations, qui peuvent impliquer un nombre très élevé de demandes, les demandes de retour non présentées selon les modalités décrites ci-dessus ne seront pas acceptées.  
+Des instructions sur support papier pour effectuer une demande de Retour sont également présentes à l'intérieur du colis.  
   
-La marchandise devra être renvoyée au Vendeur **en utilisant uniquement l’étiquette adhésive prépayée** que le client trouvera à l’intérieur du colis dans lequel la marchandise lui aura été envoyée. En utilisant cette étiquette, les coûts directs de la restitution des produits sont à la charge du Vendeur.  
-En cas de perte de l’étiquette prépayée, il est nécessaire de contacter le service client pour en recevoir une nouvelle. Si le client décide de réexpédier le retour sans utiliser l’étiquette prépayée du Vendeur et/ou un livreur différent de celui indiqué :  
-\- les frais de retour seront entièrement à la charge du client ;  
-\- le Vendeur ne sera en aucun cas tenu responsable en cas de dégradation ou de vol du colis et il n’est pas tenu d’émettre le moindre remboursement.  
+La marchandise devra être restituée dans son intégralité. Les articles ne doivent pas avoir été utilisés, portés ni lavés. Ils doivent être retournés dans leur colis d'origine et être complets (c’est-à-dire prix et étiquettes intacts et attachés à l’article, matériel d’emballage, documentation et accessoires éventuels compris).  
   
-Le client a l’obligation de suivre correctement les instructions contenues dans le colis dans lequel il a reçu les marchandises et celles indiquées sur le Site (à la page suivante [Retour gratuit](https://fr.benetton.com/order-return)) pour le retour.  
+Le client est conscient et accepte que les demandes de Retour doivent être présentées selon les modalités décrites ci-après.  
+1\. Le client est tenu de remplir la demande de retour en cliquant sur le lien suivant ([order-return](https://fr.benetton.com/order-return)) dans un délai de 14 jours suivant la date de réception de la commande. Il doit y sélectionner les articles à retourner et le motif de retour. Les articles qui ne figurent pas dans la demande de retour ne seront ni acceptés ni remboursés.  
+2\. Une fois le formulaire rempli, le client devra imprimer l'étiquette et l’apposer sur le colis à remettre au transporteur. Le client reste libre d’expédier les articles retournés sans utiliser l'étiquette prépayée du Vendeur et/ou de faire un appel à un transporteur différent de celui indiqué. Dans ce cas :  
+\- les frais de retour sont entièrement à la charge du client ;  
+\- le Vendeur ne sera en aucun cas responsable de la détérioration ou du vol éventuel du colis et n’effectuera aucun remboursement si de tels événements se produisent.  
   
-La marchandise devra être retournée intacte, les produits ne doivent pas avoir été utilisés, portés, lavés et doivent être restitués dans leur emballage d’origine. La marchandise doit être complète dans les éléments la composant (y compris les étiquettes de prix et les étiquettes indicatives intactes et attachées au produit, matériel d’emballage et éventuelle documentation et autre équipement accessoire) **ainsi que toute la documentation fiscale annexe**.  
+Le Client a pour obligation de suivre correctement les instructions fournies dans le colis contenant la marchandise et indiquées sur le Site (sur la page Retours gratuits) pour effectuer un retour. En cas de dépôt du colis dans un centre de collecte, le Client devra fournir son numéro de téléphone, nécessaire comme preuve de livraison et pour suivre le colis.  
   
-Sauf la possibilité de vérifier le respect de ce qui est indiqué ci-dessus, le Vendeur effectuera le remboursement du montant des produits faisant l’objet d’une rétractation dans un délai maximum de 14 jours.  
-Si le produit montre des signes d’usure ou s’il a été utilisé ou altéré par rapport à sa condition d’origine d’une quelque façon, le Vendeur se réserve le droit de ne pas accepter le retour. Plus particulièrement, si le retour ne pouvait être accepté, car non conforme aux conditions ci-dessus, le Client pourra choisir de réobtenir les produits achetés à ses frais. Dans le cas où le Client refuserait cette expédition, le Vendeur se réserve le droit de conserver les produits et le montant correspondant à leur prix d’achat.  
+Si le produit montre des signes d’usure ou s’il a été utilisé ou altéré par rapport à sa condition d’origine de quelque façon que ce soit, le Vendeur se réserve le droit de ne pas accepter le retour. Plus particulièrement, si le retour ne pouvait être accepté, car non conforme aux conditions ci-dessus, le Client pourra choisir de réobtenir les produits achetés à ses frais. Dans le cas où le Client refuserait cette expédition, le Vendeur se réserve le droit de conserver les produits et le montant correspondant à leur prix d’achat.  
   
-Le Client est responsable de la diminution de la valeur des biens résultante d’une manipulation différente de celle strictement nécessaire pour en établir la nature, les caractéristiques et le fonctionnement des biens. Par conséquent, si les Produits restitués résultaient endommagés (par exemple avec des signes d’usure, abrasion, griffure, retrait des étiquettes, retrait des pendentifs, déformations, etc.), non complets de tous leurs éléments et accessoires (y compris les étiquettes et labels inaltérés et attachés au produit), non accompagnés des instructions/notes/manuels joints, des boîtes et emballages originaux et du certificat de garantie, s’il en est accompagné, le Client devra répondre de la diminution patrimoniale de la valeur du bien, et aura droit au remboursement du montant équivalent à la valeur résiduelle du Produit. En cas de non-conformité du retour, le Client sera contacté par le service client pour en connaître les raisons. Le Client dispose de 14 jours pour répondre à nos demandes. Passé ce délai sans réponse de la part du Client, le Vendeur procédera à l’élimination de l’article et aucun remboursement ne sera consenti.  
-Le Vendeur n’a aucune responsabilité dans le cas de Produits retournés par erreur ou d’objets oubliés dans les colis ou dans les Produits rendus.  
+Le Client est responsable de la diminution de la valeur des biens résultant d’une manipulation différente de celle strictement nécessaire pour en établir la nature, les caractéristiques et le fonctionnement. Par conséquent, si les Articles restitués se révèlent endommagés (par exemple signes d’usure, abrasion, griffure, retrait des étiquettes, retrait des pendentifs, déformations, etc.), ne présentent pas tous leurs éléments et accessoires (y compris les étiquettes inaltérées et attachées à l’article), ne sont pas accompagnés des instructions/notes/manuels joints, des boîtes et emballages originaux et du certificat de garantie, s’il en est accompagné, le Client devra répondre de la diminution patrimoniale de la valeur du bien, et aura droit au remboursement du montant équivalent à la valeur résiduelle de l’Article. Le Vendeur n’engage aucune responsabilité dans le cas d’Articles retournés par erreur ou d’objets oubliés dans les colis ou dans les Articles retournés.  
   
-En cas de non-conformité du retour, le Client sera contacté par le service client pour en connaître les raisons. Le Client dispose de 14 jours pour répondre à nos demandes. Passé ce délai sans réponse de la part du Client, le Vendeur procédera à l’élimination de l’article et aucun remboursement ne sera consenti.  
+Une fois les conditions précédentes vérifiées, le Vendeur procèdera au remboursement du montant des articles faisant l'objet d’une rétractaction dans un délai maximum de 14 jours ouvrables.  
   
-Comme prévu par l’art. 56 alinéa 3 du Décret législatif 206/2005, modifié par le Décret législatif 21/2014, le Vendeur peut suspendre le remboursement jusqu’à réception des biens ou bien jusqu’à ce que le Client démontre au Vendeur avoir en effet effectué l’expédition du retour des biens.  
+En cas de non-conformité du retour, le client pourra être contacté par le service client pour en connaître les raisons. Le client dispose de 14 jours pour répondre à ses demandes. Passé ce délai et sans réponse de la part du client, le Vendeur procédera à l’élimination de l’article et aucun remboursement ne sera consenti.  
   
-Le vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat.  
+Comme prévu par l’art. 56 alinéa 3 du Décret législatif 206/2005, modifié par le Décret législatif 21/2014, le Vendeur peut suspendre le remboursement jusqu’à réception des biens ou jusqu’à ce que le Client démontre au Vendeur avoir effectivement procédé à l’expédition du retour des biens.  
   
-Il est précisé que le Client souhaitant changer la marchandise, pour quelque motif que ce soit, devra utiliser exclusivement la procédure de retour décrite ci-dessus.  
+Le Vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat. Dans le cas d'un paiement en espèces, et dans la mesure où le Client a l'intention d’utiliser son délai de rétractation, celui-ci devra fournir ses coordonnées bancaires au Vendeur, en se rendant dans la section « Nous contacter » : l’IBAN, le code SWIFT et le BIC sont nécessaires pour effectuer le remboursement.  
   
-Aucun retour ne sera accepté s’il est expédié après la date autorisée. Dans le cas contraire, le colis sera réexpédié au client.  
+Les échanges ne sont pas possibles. Si le Client souhaite échanger les articles achetés, il devra procéder à un retour et effectuer une nouvelle commande.  
   
-Dans le cas d’un article reçu différent de celui commandé, si le client souhaite procéder à un retour, il a l’obligation de retourner l’article dans les temps standards pour un retour.  
+Aucun retour ne sera accepté s'il est envoyé après la date autorisée. Dans le cas contraire, le colis sera réexpédié au client à ses propres frais.  
   
-Les articles personnalisés ne peuvent être retournés ou remplacés, exception faite des droits liés à la garantie du produit
+Lorsque l’article reçu est différent de celui commandé, si le client souhaite procéder à un retour, il a l’obligation de retourner l’article dans les délais impartis pour effectuer un retour.  
+  
+Les articles personnalisés ne peuvent être retournés ni échangés, exception faite des droits liés à la garantie du produit.
 
 ### ARTICLE 7 – GARANTIE LEGALE DE CONFORMITÉ – PROCEDURE POUR SON APPLICATION
 
