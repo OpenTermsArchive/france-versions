@@ -306,7 +306,7 @@ En cas de retard de livraison dans les huit jours ouvrés suivant la date d'exp�
 
 Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à  21 jours à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile ou en point de retrait (en fonction du mode de livraison sélectionné à la commande). Au-delà, le colis sera considéré comme perdu.
 
-Tout retard de livraison doit nous être indiqué dans un délai de  jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
+Tout retard de livraison doit nous être indiqué dans un délai de 7 jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
 
 A la clôture de l'enquête pour perte, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.  
   
@@ -1167,7 +1167,7 @@ En cas de retard de livraison dans les huit jours ouvrés suivant la date d'exp�
 
 Une enquête transporteur sera ouverte auprès du transporteur à la demande de Rue du Commerce afin de localiser votre colis. Cette enquête peut durer jusqu'à  21 jours à compter de la date d'ouverture. Si durant cette période, le colis est retrouvé, il sera réacheminé dans les plus brefs délais à votre domicile ou en point de retrait (en fonction du mode de livraison sélectionné à la commande). Au-delà, le colis sera considéré comme perdu.
 
-Tout retard de livraison doit nous être indiqué dans un délai de  jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
+Tout retard de livraison doit nous être indiqué dans un délai de 7 jours ouvrés après l'expédition, pour permettre au transporteur de mener une enquête fiable.
 
 A la clôture de l'enquête pour perte, nous vous renverrons un produit de remplacement (renvoi à nos frais) ou nous procéderons au remboursement de celui-ci sur demande. Si le ou les produits commandés venaient à ne plus être disponibles, vous serez remboursé du montant des produits concernés par la déclaration de perte confirmée du transporteur.  
   
