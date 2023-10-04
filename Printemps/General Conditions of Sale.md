@@ -654,35 +654,30 @@ Le Client dispose de 30 jours pour retourner sa commande à compter de la date d
 
   
 
-Sous ce délais, les retours sont offerts en France.
+Sous ce délai, depuis la France, les retours sont gratuits (sous conditions du mode de retour).
+
+Pour les autres pays, un montant sera déduit du remboursement suivant le mode de retour choisi. 
+
+*   
+    
+
+Afin de réaliser votre retour, il vous suffit de suivre les étapes suivantes : 
 
   
 
-Pour les autres pays non listés ci-dessous), un montant de 12€ sera déduit du remboursement.
+1. Connectez vous à votre compte client et accédez à la rubrique "Mes Achats et Retours" puis "Effectuer un retour/échange". Si vous avez passé votre commande en mode Invité, vous trouverez un lien vous permettant d'accéder au retour sur votre email de confirmation de commande.
+2. Effectuez la procédure de retour/échange et imprimez le bon de retour ainsi que l'étiquette de retour. 
+3. Emballez soigneusement votre article pour qu'il soit bien protégé pendant le transport. Si l'état du carton ne vous permet pas de le réutiliser pour votre retour, vous pouvez utiliser un autre emballage approprié. 
+4. Insérez le bon de retour dans votre colis, et collez l'étiquette de retour sur votre emballage.
+5. Déposez votre colis dans un bureau de poste, relais Chrono 2Shop ou dans le magasin Printemps de votre choix. Pensez à l'empreinte carbone ! Le retour en magasin, un petit pas pour vous mais un grand pas pour la planète 
 
   
 
-Si l'état du colis ouvert ne permet pas de le réutiliser pour le retour, le Client doit utiliser un autre emballage approprié et emballer soigneusement les articles pour qu'ils soient bien protégés pendant le transport.
-
-Les retours prennent 3 à 4 jours depuis un bureau de poste.
+Si l'état du colis ouvert ne permet pas de le réutiliser pour le retour, le Client doit utiliser un autre emballage approprié et emballer soigneusement les articles pour qu'ils soient bien protégés pendant le transport. 
 
   
 
-Pour renvoyer un ou plusieurs articles, il est nécessaire de joindre le bon de retour à votre colis.
-
-1. Le bon de de retour et l’étiquette de retour sont téléchargeables sur le site Printemps.com.
-
-* Si vous étiez connecté à votre compte Printemps.com lors de votre commande, merci de compléter les modalités de retours dans la rubrique « Mes achats et retours / Effectuer un retour ».
-* Si vous avez passé commande en tant qu’invité, merci de cliquer sur le lien qui a été envoyé dans le mail indiquant que votre colis a bien été expédié.
-
-* 2\. Emballer les articles avec soin dans l'emballage d'origine, y joindre le bon de retour imprimé.
-* 3\. Coller l'étiquette transport sur le colis et le déposer dans un bureau de poste.
-
-  
-
-  
-
- NB : Pour faciliter le suivi de votre retour et assurer un bon traitement, il est nécessaire d'utiliser l'étiquette Colissimo fournie par la Société lors du retour et de conserver la preuve de dépôt tamponnée par la Poste jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement.
+NB : Pour faciliter le suivi de votre retour et assurer un bon traitement, il est nécessaire d'utiliser l'étiquette de transport fournie par la Société et de conserver la preuve de dépôt tamponnée jusqu'au remboursement. Dans le cas contraire, la Société ne pourra garantir le remboursement. 
 
   
 
