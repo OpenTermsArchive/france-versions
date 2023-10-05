@@ -48,8 +48,8 @@ Aigle se réserve le droit de modifier ses prix à tout moment mais s’engage �
 Les frais de livraison sont communiqués au Client sur le récapitulatif de la commande avant la validation de cette dernière et sont exprimés toutes taxes comprises. Ces frais sont à la charge du Client et sont facturés en supplément du prix de vente des Produits. Nos frais de livraison sont les suivants :
 
 * **Retrait en boutique Aigle** (remise contre signature) : offerte
-* **Livraison en Relais Colis** (remise contre signature) : offerte
-* **Livraison par voie postale** : 4,95€ 
+* **Livraison en Relais Colis** : 3,95€ - livraison offerte dès 30€ d'achat pour les produits de la catégorie enfant et dès 120€ d'achat pour les produits de la catégorie adulte
+* **Livraison par voie postale à domicile** : 5,95€ - livraison offerte dès 120€ d'achat
 * **Livraison express 24H** (remise contre signature) : 13€
 
 Il est précisé que pour les produits personnalsés, les frais de livraison sont offerts au Client. Les frais de livraison sont également offerts au Client lorsqu'il achète à la fois un ou des produit(s) personnalisé(s) et un ou des produit(s) personnalisé(s).
