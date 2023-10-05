@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 1 juillet 2023 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20230701/4jko9ma5/google_privacy_policy_fr_eu.pdf)
+À compter du 4 octobre 2023 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20231004/npj9cw7o/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -456,7 +456,6 @@ Services Google spécifiques
 
 Les avis de confidentialité suivants fournissent des informations supplémentaires sur certains services Google :
 
-* [Chrome et le système d'exploitation Chrome](https://www.google.com/chrome/intl/fr/privacy.html)
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=fr)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
