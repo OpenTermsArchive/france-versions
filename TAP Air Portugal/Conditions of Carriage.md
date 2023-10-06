@@ -14,7 +14,7 @@ Votre contrat de transport avec la TAP est régi par :
 
 **Responsabilité des compagnies aériennes vis-à-vis des passagers et de leurs bagages**
 
-En vigueur depuis le 30 décembre 2009, la note d'information sous format PDF concerne l'[ensemble des règles appliquées par les transporteurs aériens (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/Questions_Answers_new-rules-for-carry-on-luggage_FR.pdf?la=fr&hash=CB8119C1F3D46B0E2E7C2650AF5715B0442529A3) communautaires en matière de responsabilité, conformément aux dispositions de la législation communautaire et de la Convention de Montréal.  
+En vigueur depuis le 30 décembre 2009, la note d'information sous format PDF concerne l'[ensemble des règles appliquées par les transporteurs aériens (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/Questions_Answers_new-rules-for-carry-on-luggage_FR.pdf?la=fr&hash=CB8119C1F3D46B0E2E7C2650AF5715B0442529A3) communautaires en matière de responsabilité, conformément aux dispositions de la législation communautaire et de la Convention de Montréal. Plus d'informations sur les droits des passagers [ici (PDF, 0,1 MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2023/Passageiros-e-Bagagem/Passagers-et-leur-Bagage-Reg889-FR.pdf?la=fr&hash=BE26DC465B4550ACEAE01DF385484FBEEB025743).  
 
 Règlement 261/04
 
