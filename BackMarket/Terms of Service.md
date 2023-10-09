@@ -1,6 +1,36 @@
 CONDITIONS GÉNÉRALES D'UTILISATION
 ==================================
 
+Janvier 2023
+
+Article 1 - Qui sommes-nous ? Que proposons nous ?
+
+Article 2 - Quelques définitions
+
+Article 3 - Comment créer un compte client ? 
+
+Article 4 - Quelles sont les règles d’utilisation de la Plateforme ? 
+
+Article 5 - Quels sont les Services proposés sur la Plateforme et quel est leur prix ?
+
+Article 6 - Comment payer sur la Plateforme ? 
+
+Article 7 - Comment fonctionne le porte monnaie virtuel ? 
+
+Article 8 - Comment clôturer votre compte client ? 
+
+Article 9 - Comment communiquer avec Back Market et faire une réclamation ?
+
+Article 10 - Qui est responsable des services et des Produits ? 
+
+Article 11 - Et vos données personnelles ? 
+
+Article 12 - Que faire si vous n’êtes pas satisfait ? 
+
+Annexe 1 - Paiement en 3 ou 4 fois avec frais (financement inférieur à 3 mois) 
+
+Annexe 2 - Paiement en 10 ou 12 fois avec frais 
+
 ### Article 1. Qui sommes-nous ? Que proposons nous ?
 
 1.1 La société JUNG SAS (“Back Market”) dont le siège social est situé 199 rue Championnet 75018 Paris et immatriculée au Registre du Commerce et des Sociétés de Paris sous le n°804 049 476, met à la disposition de l’Utilisateur, une Plateforme sous le nom « Back Market » ayant pour objet de le mettre en relation avec des Vendeurs.
