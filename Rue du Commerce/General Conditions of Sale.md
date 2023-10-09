@@ -719,6 +719,8 @@ En application des dispositions du Code de l’environnement, Rue du commerce s�
   
 • IDU FR001416\_F04PBNF attestant de l’enregistrement au registre de la filière Bâtiment catégorie 2 (non inertes).  
   
+• IDU FR001416\_12OQAR attestant de l’enregistrement au registre de la filière jouets.  
+  
 Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
 
   
@@ -1579,6 +1581,8 @@ En application des dispositions du Code de l’environnement, Rue du commerce s�
 • IDU FR001416\_14ZDKX attestant de l’enregistrement au registre de la filière articles de bricolage et de jardin.  
   
 • IDU FR001416\_F04PBNF attestant de l’enregistrement au registre de la filière Bâtiment catégorie 2 (non inertes).  
+  
+• IDU FR001416\_12OQAR attestant de l’enregistrement au registre de la filière jouets.  
   
 Ces identifiants attestent que Rue du commerce s’est acquitté de ses obligations d’enregistrement aux registres des producteurs des catégories de produits précitées ainsi que de ses obligations de déclarations de mise en marché auprès des éco-organismes agréés, pour chacune de ces catégories de produits.
 
