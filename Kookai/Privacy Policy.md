@@ -11,7 +11,7 @@ Quel que soit le canal d’achat ou de contact que vous utilisez, Kookaï s’en
 
 **Responsable de traitement**
 
-Les données personnelles collectées sur le Site ou lors de vos commandes en boutiques sont traitées par Kookaï, dont le siège est situé à PARIS (75002),12 rue d’Uzès.
+Les données personnelles collectées sur le Site ou lors de vos commandes en boutiques sont traitées par Kookaï, dont le siège est situé à PARIS (75010),42 rue de Paradis.
 
 **Finalités du traitement**
 
@@ -66,7 +66,7 @@ Vous pouvez accéder aux données vous concernant, les rectifier ou les faire ef
 Pour exercer ces droits ou pour toute question sur le traitement de vos données dans ce dispositif, vous pouvez contacter notre DPO.
 
 * Contacter notre DPO par voie électronique : [dpo@kookai.fr](mailto:dpo@kookai.fr)
-* Contacter notre DPO par courrier postal : 12 rue d’Uzès 75002 Paris
+* Contacter notre DPO par courrier postal : 42 rue de Paradis 75010 Paris
 
 Si vous estimez, après avoir contacté la société Kookaï, que vos droits « Informatique et Libertés » ne sont pas respectés, vous pouvez adresser une réclamation en ligne à la CNIL.
 
