@@ -7,7 +7,7 @@ Date de la dernière modification : 25/05/2021
 
 **PREAMBULE  
   
-**Le site marchand [www.kookai.fr](http://www.kookai.fr/) (ci-après dénommé le « **Site** ») est édité par la société KOOKAI SAS, société par actions simplifiée au capital de 53 553 987,53 EUR, dont le siège social est sis 12, rue d'Uzès - 75002 PARIS, immatriculée au Registre du Commerce et de Sociétés de Paris sous le numéro 399 292 994, dont le numéro de TVA intra-communautaire est : FR95399292994 (ci-après dénommée « **KOOKAÏ** »).
+**Le site marchand [www.kookai.fr](http://www.kookai.fr/) (ci-après dénommé le « **Site** ») est édité par la société KOOKAI SAS, société par actions simplifiée au capital de 53 553 987,53 EUR, dont le siège social est sis 42 rue de Paradis - 75010 PARIS, immatriculée au Registre du Commerce et de Sociétés de Paris sous le numéro 399 292 994, dont le numéro de TVA intra-communautaire est : FR95399292994 (ci-après dénommée « **KOOKAÏ** »).
 
 Les présentes conditions générales de vente (ci-après les « **CVG** ») s’appliquent à toutes les commandes des produits offerts à la vente sur le Site.
 
@@ -267,7 +267,7 @@ Tous les Produits bénéficient de la garantie légale de conformité (article L
 
 Le Client pourra contacter KOOKAÏ via le formulaire de contact situé sur la page de contact du Site pour recueillir toute information relative à l’exercice de ces garanties.
 
-KOOKAÏ dont le siège social est sis 12, rue d'Uzès - 75002 PARIS, agit en tant que garant au sens des dispositions des articles L. 217-5 et suivants du Code de la consommation et 1641 et suivants du Code civil.
+KOOKAÏ dont le siège social est sis  42 rue de Paradis\- 75010 PARIS, agit en tant que garant au sens des dispositions des articles L. 217-5 et suivants du Code de la consommation et 1641 et suivants du Code civil.
 
 Ainsi, le Client :
 
@@ -356,7 +356,7 @@ Suite à validation de sa demande de réservation, le Client reçoit dans un dé
 
 Les informations recueillies font l’objet d’un traitement informatique dont le responsable est KOOKAI SAS et sont destinées à KOOKAÏ afin d’informer le Client sur les offres produits et services de KOOKAÏ.
 
-Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, le Client dispose d’un droit d’accès, de modification, de rectification et de suppression des données le concernant. Pour exercer ce droit, le Client en fait la demande par e-mail à l’adresse [relationclient@kookai.fr](mailto:relationclient@kookai.tm.fr) ou par courrier en s’adressant à KOOKAÏ Service Client, 12, rue d'Uzès, 75002 PARIS.
+Conformément à la loi « informatique et libertés » du 6 janvier 1978 modifiée, le Client dispose d’un droit d’accès, de modification, de rectification et de suppression des données le concernant. Pour exercer ce droit, le Client en fait la demande par e-mail à l’adresse [relationclient@kookai.fr](mailto:relationclient@kookai.tm.fr) ou par courrier en s’adressant à KOOKAÏ Service Client, 42, rue de Paradis, 75010 PARIS.
 
 **12.2** Le Client peut s’inscrire à la newsletter de KOOKAÏ et ainsi choisir d’être régulièrement informé des offres proposées par la marque. Il a à tout moment, la possibilité de se désabonner en cliquant sur le lien prévu à cet effet sur chacune des newsletters.
 
