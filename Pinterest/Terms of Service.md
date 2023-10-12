@@ -244,4 +244,8 @@ En d'autres termes :
 
 Selon l'endroit où vous vivez, vous n'interagirez pas avec les mêmes personnes.
 
+Plaintes individuelles en application de la loi no 2021-1109 confortant le respect des principes de la République
+
+Les plaintes relatives au contenu de Pinterest qui, selon vous, tombe sous le coup de la loi n° 2021-1109, doivent être envoyées à l'aide du formulaire suivant: https://www.pinterest.com/about/loi\_fr/ . L'utilisation de ce formulaire pour soumettre les réclamations garantit que votre plainte sera traitée par l'équipe appropriée.
+
 En vigueur dès le 1er août 2023
