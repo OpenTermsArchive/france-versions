@@ -91,6 +91,8 @@ Pour commander sur notre Site :
 
 Veuillez noter que nos offres d'Articles sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des Coupons alloués par les partenaires de Showroomprivé. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de Coupons ou de prestations de loisirs et billetterie ait été dépassé. Vous en serez informé par mail, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité de l'Article. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
 
+Il est précisé que les codes promos ne peuvent pas s'appliquer sur certains produits lorsqu'ils sont vendus en lot (bundles).
+
 Par ailleurs, nous nous réservons le droit d'annuler votre commande pour un motif légitime notamment dans les cas suivants :
 
 1. Lorsque qu'une erreur manifeste s'est glissée sur la description de l'Article/ou le prix (par exemple lorsqu'un prix manifestement dérisoire s'affiche et/ou lorsqu'il existe une erreur sur une des caractéristiques essentielles du produit ou du contenu des Coupons) ;
