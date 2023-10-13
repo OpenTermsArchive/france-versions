@@ -23,7 +23,7 @@ Your consent ID: 0Consent date:
 
   
 
-Cookie declaration last updated on 09/10/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Cookie declaration last updated on 13/10/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
 Necessary (44)
 
@@ -68,7 +68,7 @@ Preference cookies enable our website to remember information that changes the w
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | Pending | Persistent | HTML Local Storage |
 | ZD-store | bolt.eu | Registers whether the self-service-assistant Zendesk Answer Bot has been displayed to the website user. | Persistent | HTML Local Storage |
 
-Statistics (42)
+Statistics (41)
 
 Statistic cookies help us understand how you interact with our website by collecting and reporting information anonymously.
 
@@ -104,9 +104,8 @@ Statistic cookies help us understand how you interact with our website by collec
 | tildauid | static.tildacdn.com | Registers a unique ID that is used to generate statistical data on how the visitor uses the website. | 3 months | HTTP Cookie |
 | visited | partners.food.bolt.eu | Unique user ID that recognizes the user on returning visits | Session | HTML Local Storage |
 | vuid | [Vimeo](https://vimeo.com/privacy "Vimeo's privacy policy") | Collects data on the user's visits to the website, such as which pages have been read. | 2 years | HTTP Cookie |
-| ZD-buid | bolt.eu | Unique id that identifies the user on recurring visits. | Persistent | HTML Local Storage |
 
-Marketing (66)
+Marketing (65)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -156,7 +155,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | tt\_pixel\_session\_index | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | tt\_sessionId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
-| yt.innertube::nextId | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Registers a unique ID to keep statistics of what videos from YouTube the user has seen. | Persistent | HTML Local Storage |
 | ytidb::LAST\_RESULT\_ENTRY\_KEY | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | HTML Local Storage |
 | YtIdbMeta#databases | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Used to track user’s interaction with embedded content. | Persistent | IndexedDB |
 | yt-remote-cast-available | [YouTube](https://policies.google.com/privacy "YouTube's privacy policy") | Stores the user's video player preferences using embedded YouTube video | Session | HTML Local Storage |
@@ -189,4 +187,4 @@ Unclassified cookies are cookies that we are in the process of classifying, toge
 | WZRK\_META | bolt.eu | Pending | Persistent | HTML Local Storage |
 | WZRK\_P | bolt.eu | Pending | Session | HTTP Cookie |
 | WZRK\_S\_W65-47W-565Z | bolt.eu | Pending | 1 day | HTTP Cookie |
-| X-Experiment-Drive | bolt.eu | Pending | 23 days | HTTP Cookie |
+| X-Experiment-Drive | bolt.eu | Pending | 19 days | HTTP Cookie |
