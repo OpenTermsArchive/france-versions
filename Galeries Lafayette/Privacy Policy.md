@@ -79,7 +79,7 @@ Le tableau ci-dessous présente les données que nous sommes susceptibles de col
 | **Données personnelles** | **Finalités** | **Bases légales** |
 | **Civilité /Nom / prénom** | \- Fournir le produit ou le service à la personne nommément éligible (ex: programme de fidélité, conseiller de vente personnalisé, commande, service de cagnotte).<br><br>\- Améliorer nos services et votre expérience client<br><br>\- Personnaliser nos communications<br><br>\- Établir un document nominatif : une facture ou une garantie... <br><br>\- Participation à un jeu concours<br><br>\- Réaliser des analyses statistiques | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services |
 | **Adresse postale** | \- Vous identifier<br><br>\- Expédier et livrer vos commandes<br><br>\- Établir un document nominatif : une facture ou une garantie...<br><br>\- Vous contacter et vous adresser des documents vous concernant<br><br>\- Gérer votre participation à un jeu concours: envoi des dotations.<br><br>\- Le cas échéant, vérification du domicile par l'organisme de crédit ou par toute autorité administrative compétente ( détaxe).<br><br>\- Réaliser des analyses statistiques | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services<br><br>\- Obligation légale |
-| **Adresse e-mail** | \-- Vous identifier<br><br>\- Vous contacter<br><br>\- Vous informer<br><br>\- Vous inviter à des événements<br><br>\- Vous adresser des sollicitations commerciales si vous y avez consent | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services<br><br>\- Consentement |
+| **Adresse e-mail** | \-- Vous identifier<br><br>\- Vous contacter<br><br>\- Vous informer<br><br>\- Vous inviter à des événements<br><br>\- Vous adresser vos documents de vente.<br><br>\- Vous adresser des sollicitations commerciales si vous y avez consent | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services<br><br>\- Consentement |
 | **Opt in via case à cocher ou optin réseaux sociaux** | \- Vous adresser des sollicitations commerciales si vous y avez consenti .<br><br>\- recevoir des sollicitations commerciales de la part de nos marques partenaires si vous y avez consenti.<br><br>\- Échanger avec vous via la messagerie instantanée | \- Consentement |
 | **N° de téléphone mobile et/ou fixe** | \- - Vous identifier<br><br>\- Vous contacter, vous informer<br><br>\- Améliorer votre expérience client<br><br>\- Vous adresser des sollicitations commerciales si vous y avez consenti | \- Exécuter un contrat<br><br>\- Intérêt légitime, améliorer nos services<br><br>\- Consentement |
 | **Date de naissance / Age** | \- Identifier les clients homonymes<br><br>\-Déterminer votre minorité/majorité<br><br>pour la délivrance de produit ou<br><br>service<br><br>\- Améliorer votre expérience client<br><br>\- Réaliser des analyses statistiques<br><br>\- Vous connaître | \- Intérêt légitime, améliorer nos services<br><br>\- Obligation légale<br><br>\- Exécuter une obligation légale |
@@ -109,25 +109,13 @@ Ces Tiers sont :
 
 Afin de mieux connaître notre clientèle et de vous faire bénéficier d'offres commerciales appropriées, vos données personnelles peuvent être transmises à d’autres entités du Groupe Galeries Lafayette tel que lesautres Sociétés du Groupe Galeries Lafayette qui regroupe notamment :
 
-o Société Anonyme des Galeries Lafayette
-
-o BHV Exploitation
-
 o 1001 Listes
 
 o Louis Pion Royal Quartz
 
 o BazarChic
 
-o Galeries Lafayette DEUTSCHLAND
-
-o Galeries Lafayette Luxembourg
-
 o La Redoute
-
-o Bape France o Mauboussin
-
-o Eataly Paris Marais
 
 3.2 Partenaires commerciaux
 ---------------------------
@@ -138,8 +126,8 @@ Nos partenaires commerciaux sont également susceptibles de vous adresser des so
 
 Nos partenaires commerciaux ne sont pas autorisés à utiliser ces données à d’autres fins.
 
-3.3 Sous-traitants
-------------------
+3.3 Partenaires financiers
+--------------------------
 
 Vos données personnelles peuvent être transmises à des prestataires externes qui les traitent pour notre compte, selon nos instructions, notamment dans le cadre du paiement en ligne, de l’expédition des commandes, de publicité, programme de fidélité et/ou parrainage, de la sécurité des systèmes informatiques ou encore dans le cadre de statistiques et d’enquêtes.
 
@@ -147,8 +135,8 @@ La transmission de vos données à nos sous-traitants est encadrée afin de gara
 
 Il s’agit notamment des sociétés tierces fournissant des services de support, des établissements financiers, des entités luttant contre la fraude, des prestataires de services technologiques, logistiques, de transport et de livraison, services clientèle et/ou services analysant les transactions réalisées dans les magasins Galeries Lafayette ou sur nos sites internet afin d'offrir aux utilisateurs les garanties nécessaires pour des opérations commerciales.
 
-3.4 Autorités étatiques
------------------------
+3.4 Prestataires
+----------------
 
 Afin de nous conformer à des obligations légales, réglementaires, judiciaires ou administratives ou de répondre à des demandes des autorités administratives et judiciaires, nous pouvons être amenés à communiquer vos données à ces autorités à chaque fois que nous sommes juridiquement tenus de le faire.
 
@@ -199,7 +187,7 @@ Lorsque vous ne disposez pas de compte client sur notre site mais que vous êtes
 
 Vous pouvez exercer votre droit d'accès, de portabilité, de rectification et de suppression des données vous concernant dans les conditions prévues par les dispositions légales et réglementaires en faisant la demande par courrier auprès de :
 
-GALERIES LAFAYETTE - Correspondant CNIL - TSA 23 000 27 rue Châteaudun - 75 009 PARIS ou par e-mail à l'adresse : [re](mailto:relaiscil@galerieslafayette.com)[laiscil@galerieslafayette.com](mailto:relaiscil@galerieslafayette.com) .
+GALERIES LAFAYETTE - Délégué à la protection des données, 27 rue de châteaudun - TSA 56 000 - 75009 PARIS ou par e-mail à l'adresse : [re](mailto:relaiscil@galerieslafayette.com)[laiscil@galerieslafayette.com](mailto:relaiscil@galerieslafayette.com) .
 
 Vous pouvez également vous opposer, pour des motifs légitimes, à ce que vos données personnelles soient traitées ou conservées dans nos fichiers.
 
@@ -246,7 +234,7 @@ Nous pouvons être amenés à modifier la présente politique. S’il s’avéra
 
 Pour toutes questions, vous pouvez vous adresser à notre service client joignable au : relaiscil@galerieslafayette.com
 
-Par ailleurs, le Groupe Galeries Lafayette a nommé un délégué à la protection des données. Ce dernier est joignable à l’adresse suivante :  [dpo@galerieslafayette.com](mailto:dataprotectionofficer@galerieslafayette.com)  et est propre à traiter les sujets suivants :
+Par ailleurs, le Groupe Galeries Lafayette a nommé un délégué à la protection des données. Ce dernier est joignable à l’adresse suivante : GALERIES LAFAYETTE - Délégué à la protection des données, 27 rue de châteaudun - TSA 56 000 - 75009 PARIS  et est propre à traiter les sujets suivants :
 
 \- déposer une réclamation
 
@@ -255,11 +243,12 @@ Par ailleurs, le Groupe Galeries Lafayette a nommé un délégué à la protecti
 [10\. Gestion des cookies](#)
 -----------------------------
 
-**10.1 Qu'est-ce qu'un "cookie"**  
+10.1 Qu'est-ce qu'un "cookie" ?
+-------------------------------
 
 Un cookie est un fichier déposé sur votre terminal (ordinateur, mobile ou tablette) lors de la visite d'un site ou la consultation d'une publicité. Il a pour but de collecter des informations relatives à votre navigation, afin de vous adresser des services et offres adaptés à votre terminal et à vos centres d’intérêts.
 
-Le choix du client sur le dépôt des cookies est conservé 6 mois. Les Cookies déposés sur le site ont une durée de vie maximale de treize mois.
+Votre choix concernant le dépôt des cookies est conservé 6 mois. Les cookies déposés sur le site ont une durée de vie maximale de treize mois.
 
 Lorsque vous visitez notre site internet pour la première fois des cookies sont susceptibles d’être déposés, sous réserve des choix que vous auriez exprimés concernant les cookies.
 
@@ -267,9 +256,8 @@ Nous vous informons du dépôt de ces cookies via le bandeau informatif qui s’
 
 Vos choix ne sont pas définitifs et peuvent à tout moment être modifiés en adaptant vos paramètres de dépôt des cookies.
 
-Le choix du client sur le dépôt des cookies est conservé 6 mois. Les Cookies déposés sur le site ont une durée de vie maximale de treize mois.
-
-**10.2 Quelles informations collectent les cookies ?**  
+10.2 Pourquoi le site Galeries Lafayette utilise des cookies ?
+--------------------------------------------------------------
 
 Les cookies enregistrent et/ou lisent des fichiers afin d’obtenir des informations qui sont relatives à votre interaction avec le site, et notamment à votre navigation et votre comportement. Ces informations peuvent être : votre adresse IP, les pages visitées, les marques qui vous intéressent, les achats réalisés, etc.
 
@@ -285,53 +273,62 @@ Ces cookies sont automatiquement déposés et il n’est pas possible de paramé
 
 Nous sommes susceptibles de faire appel à des sociétés partenaires, pour permettre l’affichage de publicités, de contenus ciblées proposés en fonction de vos centres d’intérêt, des produits que vous aimez qui vous seront affichés sur d’autres sites lors de votre navigation sur Internet (bannières publicitaires).
 
-\> Cookies d'analyse et de performance :
+Ces partenaires sont :
+
+● Google Ads: utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation et mesurer la performance des campagnes publicitaires sur les outils Google.
+
+  
+● Bing: utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires
+
+  
+● Criteo : utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation et mesurer la performance des campagnes publicitaires. 
+
+  
+● Awin : utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation. 
+
+  
+● RemailMe utilise des traceurs afin d’afficher de la Kwanko : utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation. -publicité personnalisée en fonction de votre navigation.  
+
+● Avent media : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires. 
+
+  
+● Radverstising : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires. 
+
+  
+● Adventure Conseil : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires. 
+
+● Facebook :utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires sur les outils facebook. 
+
+● Snapchat : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires sur les outils Snapchat. 
+
+● Pinterest : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires. 
+
+● Dataiads : utilise des traceurs afin de proposer aux utilisateurs Google shopping un parcours de navigation optimisé. 
+
+● TikTok : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes
+
+\> Cookies d'analyse et de performance :
 
 Nous sommes susceptibles de faire appel à des sociétés partenaires, afin d’analyser, de mesurer les audiences et visites de nos sites internet, établir des statistiques et effectuer des contrôles dans le but notamment d’optimiser nos services et / ou améliorer la connaissance client.
+
+Ces partenaires sont :
+
+● Google Analytics : utilise des traceurs afin de mesurer la performance. 
+
+  
+● Content Square : utilise des traceurs afin de mesurer la performance d'audience.
 
 \> Cookies de personnalisation :
 
 Nous sommes susceptibles de déposer des cookies permettant de vous recommander des produits ou services que vous êtes susceptible d'apprécier.
 
-Nos partenaires récurrents déposant des cookies sont :
+Ces partenaires sont :
 
-\- Google utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation et mesurer la performance des campagnes publicitaires sur les outils Google.
+● AB Tasty : utilise des traceurs afin d’afficher des tests personnalisés et mesurer la performance des campagnes de personnalisation. 
 
-\- Bing : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires
+● Target 2 Sell : utilise des traceurs afin d’afficher des recommandations personnalisées sur les produits . 
 
-\- Criteo utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation et mesurer la performance des campagnes publicitaires.
-
-\- RTB House utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation.
-
-\- Kwanko utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation.
-
-\- RemailMe utilise des traceurs afin d’afficher de la publicité personnalisée en fonction de votre navigation.
-
-\- Content square : utilise des traceurs afin de mesurer la performance d'audience.
-
-\- AB TASTY : utilise des traceurs afin d’afficher des tests personnalisés et mesurer la performance des campagnes de personnalisation.
-
-\- Target to sell : utilise des traceurs afin d’afficher des recommandations personnalisées sur les produits .
-
-\- Avent media : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\- Radvertising : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\-Adventure Conseil : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\- TF1 : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\- Advertise Me: utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\-Facebook utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires sur les outils facebook.
-
-\- Snapchat : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\- Pinterest : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires.
-
-\- TikTok : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes publicitaires
-
-Il est également possible que nous faisions appel à des partenaires ponctuels suivants les opérations commerciales des Galeries Lafayette dont les finalités sont l'affichage de publicités personnalisées et l’analyse des performances des campagnes publicitaires.
+● TikTok : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes
 
 **10.3 Comment paramétrer les cookies ?**  
 
@@ -343,6 +340,6 @@ Vous pouvez paramétrer les cookies par les moyens suivants :
 
 \- en cliquant sur « je personnalise mes choix » sur le bandeau cookies qui s’affiche lors de votre première visite sur notre site ;
 
-\- en cliquant sur « paramétrage cookies » en bas de page de notre site internet.
+\- en cliquant sur « Gestion des cookies » en bas de page de notre site internet.
 
 [](#)
