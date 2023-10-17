@@ -1,6 +1,13 @@
 Conditions d’utilisation
 ========================
 
+Service Clients
+---------------
+
+### Email
+
+[support@li.me](mailto:support@li.me)
+
 _Dernière mise à jour : 04 Octobre 2021_
 
   
