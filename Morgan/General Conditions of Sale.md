@@ -11,45 +11,44 @@ Afin de conserver un exemplaire des CGV, le lien suivant permet de les imprimer 
 
 Les présentes CGV régissent l'ensemble des modalités et conditions de vente à distance à des internautes via le Site, des produits définis en article 2 des présentes, distribués par la société :
 
-CAFAN, SAS  
+CAFAN  
 immatriculée sous le n°493 983 431 RCS SAINT MALO,  
 dont le siège social est sis 10 impasse du Grand jardin, ZAC de la Moinerie, 35400 SAINT MALO,  
-et l’établissement principal 61-69 RUE DE BERCY, 75012 PARIS,
+et l’établissement principal 61-69 RUE DE BERCY, 75012 PARIS  
+  
+N° de TVA Intracommunautaire : FR19493983431
 
 Téléphone : + 33 (0)9.69.32.00.31 (coût d'un appel local en France métropolitaine, tarif indicatif depuis un poste fixe, susceptible d'être modulé en fonction des opérateurs ; pour les internautes localisés hors de France métropolitaine, coût selon les tarifs pratiqués par les opérateurs locaux). Tout contact se fera en langue française.
 
 Formulaire de contact : [disponible ici](https://www.morgandetoi.fr/aide/).
 
-(ci-après dénommée « le Vendeur »).
+(ci-après dénommée « le **Vendeur** »).
 
-L'« Internaute » s'entend de toute personne majeure, ou mineure avec l'accord de son représentant légal, et visitant ou effectuant un achat sur le Site.
+L'« **Internaute** » s'entend de toute personne majeure, ou mineure avec l'accord de son représentant légal, et visitant ou effectuant un achat sur le Site.
 
 L'Internaute et le Vendeur conviennent que leurs relations seront régies exclusivement par les présentes CGV, qui s'appliquent à l'exclusion de toutes autres conditions ou contrat, et notamment celles applicables pour toutes autres ventes, notamment en points de vente.
 
 Le Vendeur se réserve la possibilité d'adapter ou de modifier, à tout moment, les présentes CGV. En cas de modification, les CGV applicables seront celles en ligne au jour de la commande.  
  
 
-Le « Point de vente »    désigne les points de vente qui vendent exclusivement les Produits sous la marque MORGAN en tant qu’enseigne sur le Territoire.   
-Le « Territoire » désigne la France Métropolitaine. 
+Le « **Point de vente** »    désigne les points de vente qui vendent exclusivement les Produits sous la marque MORGAN en tant qu’enseigne sur le Territoire.   
+Le « **Territoire** » désigne la France Métropolitaine. 
 
   
-Il est précisé que le Vendeur distribue également les Produits en Belgique, au Luxembourg, en Suisse, au Portugal ou encore en Espagne dont l’adresse figure sur le Site.
+Le « **Compte-Client** » est un compte créé par chaque Internaute conformément aux Conditions Générales d’Utilisation du Compte-Client regroupant l’ensemble de ses données  à caractère personnel (en ce compris notamment les données de commande, de transaction…), lui permettant d’accéder à son Espace Client et de bénéficier des avantages du Programme de fidélité Morgan.  Les Conditions Générales d’Utilisation du Compte-Client fixant les conditions de création du Compte-Client, l’accès et l’utilisation de l’Espace Client sur le Site et aux avantages du Programme sont accessibles [ici](https://www.morgandetoi.fr/conditions-generales-espace-client).
 
   
-Le « Compte-Client » est un compte créé par chaque Internaute conformément aux Conditions Générales d’Utilisation du Compte-Client regroupant l’ensemble de ses données  à caractère personnel (en ce compris notamment les données de commande, de transaction…), lui permettant d’accéder à son Espace Client et de bénéficier des avantages du Programme de fidélité Morgan.  Les Conditions Générales d’Utilisation du Compte-Client fixant les conditions de création du Compte-Client, l’accès et l’utilisation de l’Espace Client sur le Site et aux avantages du Programme sont accessibles [ici](https://www.morgandetoi.fr/conditions-generales-espace-client).
+L’ « **Espace Client** »   est l’espace individuel intitulé « Espace Personnel » réservé à tout Internaute titulaire d’un Compte-Client accessible depuis le Site via ses login et mot de passe confidentiels.
 
   
-L’ « Espace Client »   est l’espace individuel intitulé « Espace Personnel » réservé à tout Internaute titulaire d’un Compte-Client accessible depuis le Site via ses login et mot de passe confidentiels.
-
-  
-Le « Programme » est le programme fidélité « Morgan de Vous » tel que plus amplement décrit sur la page de présentation du Programme (accessible [ici](https://www.morgandetoi.fr/programme-fidelite)), ayant pour objet de faire bénéficier l’Internaute titulaire d’un Compte-Client, sous réserve des conditions énoncées aux Conditions de Générales d’Utilisation du Compte-Client (accessible [ici](https://www.morgandetoi.fr/conditions-generales-espace-client)).  
+Le « **Programme** » est le programme fidélité « Morgan de Vous » tel que plus amplement décrit sur la page de présentation du Programme (accessible [ici](https://www.morgandetoi.fr/programme-fidelite)), ayant pour objet de faire bénéficier l’Internaute titulaire d’un Compte-Client, sous réserve des conditions énoncées aux Conditions de Générales d’Utilisation du Compte-Client (accessible [ici](https://www.morgandetoi.fr/conditions-generales-espace-client)).  
  
 
 ##### 2\. Produits
 
 Les « Produits » s'entendent (i) des articles de prêt-à-porter, (ii) des chaussures, (iii) des accessoires et (iv) des cartes cadeaux présentés sur le Site en vue de leur commercialisation auprès des Internautes.
 
-Pour chaque Produit, une fiche est disponible sur le Site (ci-après la « Fiche »).  
+Pour chaque Produit, une fiche est disponible sur le Site (ci-après la « **Fiche** »).  
   
   2.1. Articles de prêt-à-porter et accessoires  
   
@@ -62,6 +61,10 @@ Les Produits proposés sur le Site sont décrits et présentés avec la plus gra
 La Fiche contient notamment les caractéristiques du Produit sélectionné, et notamment, s’agissant des articles de prêt-à-porter : les tailles, les différents coloris, la disponibilité du Produit, la composition, les conditions d’entretien, le prix (prix unitaire TTC, total remise si le Produit est concerné par une offre commerciale, et le cas échéant le prix total TTC après remise).  
   
 Le Vendeur pourra, toutefois, notamment du fait de ses fournisseurs, être amené à proposer à l'Internaute des Produits de composition légèrement différente de celle décrite sur le Site, mais en tout état de cause de qualité égale ou supérieure au Produit commandé.  
+  
+Le Vendeur utilise la RFID (technologie d'identification par radio fréquence) à des fins de gestion et contrôle de stocks. Une étiquette électronique contenant un numéro de série est intégrée aux articles de prêt-à-porter et accessoires commercialisés sur le Site.  
+  
+Les composants électroniques seront détruits à l'usage (3 à 5 lavages). L'Internaute peut également découper cette étiquette après achat. Une étude d'impact sur la vie privée a été réalisée et déposée à la Commission Nationale Informatique et Libertés. L’Internaute peut avoir accès à son résumé en cliquant [ici.](https://www.cache-cache.fr/on/demandware.static/-/Library-Sites-SharedLibraryCacheCache/default/dw720fe426/PDF/resume-EIVP-PIA%20EL20150421.pdf)  
   
 2.2 Cartes Cadeaux   
   
@@ -112,13 +115,13 @@ Pour valider son panier et confirmer sa commande, l’Internaute devra (a) coche
 L'Internaute doit s'identifier, soit en indiquant le nom d'utilisateur et le mot de passe de son compte- client, soit, s'il n'a pas créé de compte précédemment, en choisissant l’une des options figurant à l’article 6 des présentes CGV.  
   
 (iii) Choix du mode et du lieu de livraison  
-Une fois son identification effectuée, l’Internaute choisira le lieu et le mode de livraison de sa commande conformément aux dispositions de l’article 7 ci-après.  
+Une fois son identification effectuée, l’Internaute choisira le lieu et le mode de livraison de sa commande conformément aux dispositions de l’article 9 ci-après.  
   
 (iv) Choix du mode de paiement  
-Une fois le mode et le lieu de livraison définis par l’Internaute, celui-ci validera le mode de règlement parmi ceux proposés sur le Site, conformément aux dispositions de l’article 8 ci-après.  
+Une fois le mode et le lieu de livraison définis par l’Internaute, celui-ci validera le mode de règlement parmi ceux proposés sur le Site, conformément aux dispositions de l’article 10 ci-après.  
   
 (v) Confirmation de la commande  
-Après validation du paiement, l'Internaute recevra automatiquement un premier courriel confirmant l'enregistrement et le détail de sa commande, (ci-après dénommée la « Confirmation de commande »). La Confirmation de commande constituera le contrat de vente entre l'Internaute et le Vendeur.
+Après validation du paiement, l'Internaute recevra automatiquement un premier courriel confirmant l'enregistrement et le détail de sa commande, (ci-après dénommée la « **Confirmation de commande** »). La Confirmation de commande constituera le contrat de vente entre l'Internaute et le Vendeur.
 
 Un e-mail récapitulatif concernant les Produits commandés et expédiés sera adressé dans un second temps. Si la commande fait l’objet de plusieurs expéditions, un e-mail récapitulatif par colis expédié, reprenant le contenu de chaque envoi, sera adressé.
 
