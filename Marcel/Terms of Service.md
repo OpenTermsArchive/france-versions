@@ -162,7 +162,7 @@ En tout état de cause, le montant total du prix de la Course est fixé préalab
 * Option siège bébé / réhausseur : option payante à hauteur de 10€/ siège bébé / réhausseur. Si vous ne possédez pas de siège enfant lors de votre trajet, le chauffeur sera susceptible de refuser de vous prendre en charge. Le trajet pourra être annulé et des frais d’annulation seront facturés pour dédommager le chauffeur. 
 * Option chiens de moyennes tailles : option payante à hauteur de 20€ / chien
 
-Pour profiter des options payantes mises en place par Marcel, vous devez impérativement faire la demande 24h avant le début de votre course par email à l’adresse [contact@marcel.cab](mailto:contact@marcel.cab) (du lundi au vendredi de 9h30 à 17h30) ou appeler notre service client au [01 70 95 14 15](tel:0170951415) disponible 24h/24 et 7j/7. Toute demande réalisée par un autre canal ou après ce délai, ne sera pas prise en compte.
+Pour profiter des options payantes mises en place par Marcel, vous devez impérativement faire la demande 24h avant le début de votre course par téléphone au [01 70 95 14 15](tel:0170951415) ,notre service clients est disponible 24h/24 et 7j/7. Toute demande réalisée par un autre canal ou après ce délai, ne sera pas prise en compte.
 
 ### 6.3 Modification du prix d’une Réservation une fois la Course achevée
 
@@ -374,7 +374,7 @@ Votre position géographique peut être déterminée avec des degrés de précis
 
 Marcel met à la disposition du Client un service de support pour répondre aux questions et fournir une assistance en cas de difficulté. Pour toute question ou demande d’information concernant le Service Marcel, le Client peut contacter Marcel de la façon suivante :
 
-* en envoyant un email à l’adresse : [contact@marcel.cab](mailto:contact@marcel.cab);
+* en appelant le : [01 70 95 14 15](tel:0170951415)
 * en suivant ce lien : [https://www.marcel.cab/contact-client/](https://www.marcel.cab/contact-client/) ou
 * en utilisant les fonctionnalités correspondantes dans l’Application.
 
