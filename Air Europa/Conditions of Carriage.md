@@ -184,6 +184,34 @@ Sauf indication contraire, ces conditions de transport prévalent même si elles
 
 Air Europa informe les passagers de l'identité de la ou des compagnies aériennes effectives dans les services de transport aérien souscrits. 
 
+**1.** **Généralités**
+
+(a) Ces Conditions de Transport ne s'appliquent qu'aux vols ou segments de vols, pour lesquels notre Code de désignation est indiqué dans la case du transporteur du billet pour ce vol ou ce segment de vol.
+
+(b) Ces Conditions de Transport s'appliquent également aux tarifs réduits et au transport gratuit, sauf si Air Europa a prévu autre chose dans le Contrat de Transport ou dans un autre document contractuel.
+
+(c) Ces Conditions de Transport doivent être interprétées conformément à la loi applicable et, sauf si elles sont contraires à la loi applicable, aux accords de l'IATA.
+
+**2.** **Opérations d'affrètement**
+
+Si le transport est effectué selon un accord d'affrètement, les présentes Conditions de Transport s'appliquent selon les termes indiqués, par référence ou de toute autre manière, dans l'accord d'affrètement ou sur le billet.
+
+**3.** **Partage de codes**
+
+Dans certains services, Air Europa a des accords avec d'autres transporteurs, conformément à l'Article 1, appelés « partage de codes ». En vertu de ces accords, même si les passagers ont une réservation avec Air Europa et que le nom ou le code de désignation d'Air Europa figure dans la case du billet correspondant au transporteur, le vol peut être effectué par un autre transporteur.
+
+**4.** **Loi d'application obligatoire**
+
+Ces conditions de transport sont applicables sauf si elles sont en contradiction avec la Loi ou les tarifs applicables par Air Europa, auquel cas cette loi ou ces tarifs prévalent. Si certaines dispositions de ces conditions de transport sont invalidées par l'application de certaines dispositions de ladite Loi, les autres dispositions resteront valables.
+
+**5.** **Les conditions prévalent sur les réglementations**
+
+Sauf indication contraire, ces conditions de transport prévalent même si elles sont en contradiction avec toute autre réglementation qu'Air Europa pourrait avoir sur certaines questions.
+
+**6.** **Informations sur l'identité de la compagnie aérienne effective**
+
+Air Europa informe les passagers de l'identité de la ou des compagnies aériennes effectives dans les services de transport aérien souscrits. 
+
 #### 
 
 Article 3. Billets
@@ -308,7 +336,7 @@ Article 6. Enregistrement de bagages et embarquement
 
 Air Europa ne sera pas responsable de la perte ou des frais résultant du non-respect par le passager des dispositions de cet article.
 
-2\. Si le passager n'arrive pas à temps aux comptoirs d'enregistrement des bagages ou à la porte d'embarquement ou s'il ne dispose pas des documents appropriés conformément à l'Article 13 et donc ne peut pas voyager, Air Europa peut annuler la place réservée à son nom et en disposer sans aucune responsabilité pour Air Europa.
+2\. Si le passager n'arrive pas à temps aux comptoirs d'enregistrement des bagages ou à la porte d'embarquement ou s'il ne dispose pas des documents appropriés conformément à l'Article 13 et donc ne peut pas voyager, Air Europa peut annuler la place réservée à son nom et en disposer sans aucune responsabilité pour Air Europa, à moins que des réglementations locales applicables ne prévoient le contraire.
 
 3\. Lorsque le coupon de vol n'a pas été retiré du billet au moment où le passager reçoit sa carte d'embarquement au comptoir d'enregistrement des bagages, ce coupon de vol reste en possession du passager, qui doit le présenter lors de son embarquement.
 
@@ -514,11 +542,11 @@ Air Europa rembourse tout billet ou partie de billet non utilisé conformément 
 
 (c) Sauf en cas de perte du billet, les remboursements sont soumis à la présentation à Air Europa du coupon passager et de tous les coupons de vol non utilisés ;
 
-(d) Si un remboursement est effectué à une personne présentant un coupon passager et tous les coupons de vol non utilisés qui n'est pas la personne à qui le remboursement doit être effectué conformément aux dispositions des paragraphes a) ou b) ci-dessus, le remboursement est considéré comme un approprié et Air Europa sera exonérée de toute responsabilité et de toute réclamation ultérieure de remboursement.
+(d) Si un remboursement est effectué à une personne présentant un coupon passager et tous les coupons de vol non utilisés conformément aux dispositions des paragraphes a) ou b) ci-dessus, le remboursement est considéré comme un approprié et Air Europa sera exonérée de toute responsabilité et de toute réclamation ultérieure de remboursement.
 
 (e) Les passagers auront droit au remboursement des taxes imposées par les gouvernements ou autres autorités ou exploitants de l'aéroport correspondant à la partie du billet non utilisé , sauf si celles-ci ont déjà été réglées ou doivent être réglées, malgré la non-utilisation ou usage, auxdits gouvernements, autorités ou exploitants de l'aéroport. Les remboursements ne seront effectués qu'à la demande des passagers par le transporteur qui a initialement émis le billet ou par son agent, s'il est autorisé à le faire.
 
-(f) Tout remboursement, y compris celui des taxes visées au paragraphe e), sauf en cas de remboursement involontaire ou de tout autre remboursement pour des causes expressément prévues dans la législation en vigueur, sera soumis au règlement de frais (18€/billet).
+(f) Tout remboursement, y compris celui des taxes visées au paragraphe e), sauf en cas de remboursement involontaire ou de tout autre remboursement pour des causes expressément prévues dans la législation en vigueur, sera soumis au règlement de frais dont le montant sera mis à la disposition du passager par Air Europa ou ses Agents Autorisés.
 
 (g) Air Europa, sous réserve de la législation applicable sur chaque territoire, peut proposer au passager, en remplacement du remboursement, le changement de réservation du billet ou l'émission d'un bon ou d'un avoir, notamment lorsque le droit à remboursement résulte de circonstances exceptionnelles indépendantes du contrôle de la compagnie telles qu'un cas fortuit ou de force majeure.
 
