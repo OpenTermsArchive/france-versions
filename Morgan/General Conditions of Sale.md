@@ -302,7 +302,7 @@ Les Produits demeurent la propriété du Vendeur jusqu'au complet paiement du pr
 
 ##### 12\. Rétractation et retour des produits
 
-L'Internaute dispose d'un délai de 30 (trente) jours (ci-après dénommé “Délai de rétractation”) à compter de la Réception des produits telle que définie à l'article 9.3 ci-avant, pour (i) exercer son droit de rétractation sans avoir à justifier d’un motif, et (ii) retourner au Vendeur le(s) Produit(s) concerné(s) (ci-après dénommé “Droit de rétractation”).
+L'Internaute dispose d'un délai de 30 (trente) jours (ci-après dénommé “**Délai de rétractation**”) à compter de la Réception des produits telle que définie à l'article 9.3 ci-avant, pour (i) exercer son droit de rétractation sans avoir à justifier d’un motif, et (ii) retourner au Vendeur le(s) Produit(s) concerné(s) (ci-après dénommé “**Droit de rétractation**”).
 
 Les sous-vêtements et la lingerie pourront faire l’objet d’un retour sous réserve de ne pas avoir été portés, lavés et que les étiquettes produits n’aient pas été enlevés.
 
@@ -339,7 +339,11 @@ L’Internaute devra retourner le(s) Produit(s) :
 
 Quel que soit le mode de retour choisi, l’Internaute doit impérativement accompagner son produit retourné du bon de retour dument complété et téléchargé à partir de son Espace Client ou de la déclaration libre de rétractation reprenant les références de la commande et de l’expédition.  
   
+La charge de la preuve du retour des Produits incombe à l'Internaute. A ce titre, l'Internaute devra conserver la preuve de dépôt du colis qui lui sera remise par le transporteur qu'il aura choisi. En cas de perte du colis, aucun remboursement ne pourra être effectué sans cette preuve de dépôt.  
+  
 En cas d'exercice de son Droit de rétractation par l'Internaute, le Vendeur remboursera l’Internaute de tous les paiements reçus relatifs à l’achat du/des Produit(s) pour lequel (lesquels) le Droit de rétractation est exercé, y compris les frais de livraison initiaux éventuellement payés par l’Internaute, sous réserve que la rétractation porte sur l’intégralité de la commande. A défaut de porter sur l’intégralité de la commande, l’exercice du Droit de rétractation ne donnera pas lieu au remboursement des frais de livraison initiaux éventuellement payés par l’Internaute.  
+  
+En cas de retour de Produit(s) ayant fait l’objet d’offres promotionnelles, comme les ventes en lot, les offres commerciales du type « 1 produit acheté, le 2ème à 1 euros », les offres promotionnelles conditionnelles permettant d’obtenir une réduction en fonction du volume de produits achetés ou l’octroi d’un cadeau pour l’achat d’un ou plusieurs produits les conditions ci-après s’appliquent.  
   
 Le remboursement du(es) Produit(s) retourné(s) et, le cas échéant les éventuels frais de livraison initiaux payés par l’Internaute lors de la commande, se fera au plus tard dans un délai de 14 (quatorze) jours à compter de la date à laquelle le Vendeur aura récupéré le/les Produit/s retourné/s.  
 Le remboursement de l’Internaute se fera selon le même moyen de paiement utilisé par l’Internaute pour le paiement de sa commande.  
