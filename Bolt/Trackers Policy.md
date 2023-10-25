@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 24/10/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (44)
+Necessary (45)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -39,6 +39,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
 | CookieConsent \[x19\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")  <br>boltfood.formaloo.net  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
+| fleet-visitor-id | bolt.eu | Pending | Session | HTTP Cookie |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "New Relic's privacy policy") | Preserves users states across page requests. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Stores the user's cookie consent state for the current domain | 180 days | HTTP Cookie |
@@ -153,7 +154,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | tt\_sessionId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "Tiktok's privacy policy") | Used by the social networking service, TikTok, for tracking the use of embedded services. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "LinkedIn's privacy policy") | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | 30 days | HTTP Cookie |
 
-Unclassified (18)
+Unclassified (17)
 
 Unclassified cookies are cookies that we are in the process of classifying, together with the providers of individual cookies.
 
@@ -163,7 +164,6 @@ Unclassified cookies are cookies that we are in the process of classifying, toge
 | \_\_mp\_opt\_in\_out\_16b2ba60f4d49b1f69fcf78aea1521a3 | cdn.mxpnl.com | Pending | Session | HTTP Cookie |
 | \_\_mp\_opt\_in\_out\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | Pending | Session | HTTP Cookie |
 | \_\_mp\_opt\_in\_out\_d0e3bd4d1ffc64788a623168f2486bb3 | foodpartner.bolt.eu | Pending | Session | HTTP Cookie |
-| fleet-visitor-id | bolt.eu | Pending | Session | HTTP Cookie |
 | lo\_di \[x2\] | cdn-public.liftoffintl.io | Pending | Session | HTTP Cookie |
 | lo\_uid | cdn-public.liftoffintl.io | Pending | 1 year | HTTP Cookie |
 | lo\_uid | cdn-public.liftoffintl.io | Pending | Persistent | HTML Local Storage |
