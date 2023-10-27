@@ -356,3 +356,10 @@ BP 20015 - 75362 PARIS CEDEX 8 -
 Après démarche préalable écrite des consommateurs vis-à-vis de BZB, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti.
 
 ([haut de page](#haut))
+
+19\. Identifiant Unique (IDU)
+-----------------------------
+
+« Conformément à l’Article L.541-10-13 du Code de l’environnement, BZB dispose d’un identifiant unique (IDU) pour chaque filière relevant de la REP (Responsabilité Elargie du Producteur) la concernant. Cet IDU garantit que BZB est à jour dans ses écocontributions, comme l’y oblige la loi. IDU pour la Filière Textile d'habillement, Linge de maison et Chaussure : FR214322\_11CKSJ IDU pour la Filière Emballages : FR214322\_01EQHR IDU pour la Filière Papiers : FR214322\_03IBQG »
+
+([haut de page](#haut))
