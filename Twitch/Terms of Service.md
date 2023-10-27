@@ -1,4 +1,4 @@
-Dernière modification : 08/06/2023
+Dernière modification le 27/10/2023
 
 **Conditions d'utilisation**
 ----------------------------
@@ -187,7 +187,13 @@ Pour les résidents de l'Union européenne ou de l'Espace économique européen,
 
 #### **11\. Diffusion en simultané**
 
-Lorsque vous streamez live sur les Services Twitch, vous ne pouvez pas streamer live et diffuser en simultané (« Diffusion en simultané ») en même temps sur tout autre « Service similaire à Twitch », c'est-à-dire tout réseau, plateforme ou service Web qui prend en charge le streaming live de contenus générés par l'utilisateur, sans l'autorisation écrite préalable de Twitch. Pour plus de clarté, vous pouvez diffuser en simultané sur les services mobile-first qui prennent en charge le streaming live. Cet article ne s'applique pas aux entités à but non lucratif ou gouvernementales qui effectuent un streaming live à des fins non commerciales.
+Lorsque vous streamez live sur les Services Twitch, vous pouvez streamer live et diffuser simultanément (« Diffusion en simultané ») sur tout autre réseau, plateforme ou service qui prend en charge la streaming live de contenu généré par l'utilisateur, uniquement si :
+
+* Vous garantissez que la qualité de l'expérience des utilisateurs de Twitch sur votre diffusion en simultané est au moins égale à celle proposée sur d'autres plateformes ou services, notamment en ce qui concerne votre implication auprès de la communauté Twitch (via le chat, par exemple).
+* Vous ne devez pas inciter, de quelque manière que ce soit, votre communauté à quitter Twitch au profit de votre diffusion en simultané sur d'autres services. La communauté Twitch et le rôle essentiel qu'elle joue auprès des utilisateurs de Twitch sont très importants à nos yeux.
+* Vous ne devez pas utiliser d'outils tiers qui combinent l'activité d'autres plateformes ou services lors de votre diffusion en simultané sur Twitch (une fonctionnalité de fusion du chat, par exemple), et ce afin que la communauté Twitch puisse profiter de l'intégralité de l'expérience sur votre stream live.
+
+Collectivement, ces directives sont appelées « Directives de diffusion en simultané ».
 
 #### **12\. Publicités**
 
