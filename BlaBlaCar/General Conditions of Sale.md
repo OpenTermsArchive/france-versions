@@ -499,7 +499,7 @@ La Prime Covoiturage est valable jusqu’au 31 décembre 2025, la bonification �
 * (i) vous êtes inscrit sur le site www.blablacar.fr ;
 * (ii) vous êtes titulaire d’un permis de conduire valable en France ;
 * (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation pour une distance supérieure à 80 km en France, dont au moins le point de départ ou le point d’arrivée est situé en France ;
-* (iv) vous avez effectué tout ou partie du Trajet avec un Passager (que vous ne connaissiez pas avant le Trajet) ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
+* (iv) vous avez effectué tout ou partie du Trajet avec un Passager ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
 * (v) vous avez renseigné sur votre profil votre adresse postale en France ;
 * (vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
 * (vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
