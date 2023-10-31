@@ -460,7 +460,7 @@ Les avis de confidentialité suivants fournissent des informations supplémentai
 * [Fiber](https://fiber.google.com/legal/privacy.html)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
-* [Read Along](https://readalong.google/intl/fr_FR/privacy)
+* [Read Along](https://ssl.gstatic.com/seekh/intl/fr/privacy)
 * [YouTube Kids](https://kids.youtube.com/privacynotice)
 * [Comptes Google gérés avec Family Link, pour les enfants de moins de 13 ans (ou l'âge légal de consentement dans votre pays)](https://families.google.com/familylink/privacy/child-policy/)
 * [Guide de confidentialité Family Link destiné aux enfants et aux adolescents](https://families.google.com/familylink/privacy/child-disclosure/?hl=fr)
