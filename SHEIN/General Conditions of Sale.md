@@ -417,8 +417,6 @@ consommation@cmap.fr
 
 39 rue Avenue Franklin Delano Roosevelt – 75008 Paris
 
-Tel : 01 44 95 11 40
-
 (4) Pour présenter sa demande de médiation, le Client dispose d'un formulaire de réclamation accessible sur le site du médiateur.
 
 13.3 Conformément au règlement (UE) n° 524/2013 du Parlement européen et du Conseil du 21 mai 2013 relatif au règlement en ligne des litiges de consommation, le Client consommateur peut demander la résolution du litige sur la plateforme européenne de résolution en ligne des litiges de consommation, accessible sur le lien suivant : https://ec.europa.eu/consumers/odr .
