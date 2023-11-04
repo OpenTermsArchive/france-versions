@@ -67,7 +67,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Email (et sms) pour Printemps.com
 * Email, sms ou courrier pour les Magasins Printemps.
 * **Améliorer la connaissance client grâce à des reportings et statistiques afin de vous envoyer des communications adaptées à vos préférences et centres d'intérêt.**
-* **Gérer vos inscriptions à nos services en ligne :** Personal stylist, RDV en magasin, Cagnotte, e-carte cadeau
+* **Gérer vos inscriptions à nos services en ligne :** Personal shopper, RDV en magasin, Cagnotte, e-carte cadeau
 * **Réaliser des études et statistiques dédiées aux services souscris en ligne**
 * **Vous permettre de gérer vos identifiants et votre mot de passe**
 
@@ -100,11 +100,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * **Votre consentement** (pour vous adresser des communications commerciales)
 * **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client et pour la réalisation de statistiques)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
-* **Prospect :** 3 ans après la dernière activité mail/sms\*6.
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5.
 
   
 
@@ -119,7 +119,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 * Gérer les retours de produits
 * Gérer tout contact que vous avez avec nous concernant votre commande
 * Mettre à disposition vos factures dans votre compte
-* Organiser et gérer vos échanges avec notre équipe du Personal Stylists (recherche des commandes antérieures pour assurer une proposition de produits cohérente avec vos achats antérieurs, en magasin ou sur notre site)
+* Organiser et gérer vos échanges avec notre équipe du Personal Shopper (recherche des commandes antérieures pour assurer une proposition de produits cohérente avec vos achats antérieurs, en magasin ou sur notre site)
 
   
 
@@ -144,10 +144,10 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Votre consentement (pour vous adresser des communications commerciales, y compris des communications de rappel, en lien avec les produits placés dans votre panier d'achat et dont la commande n'a pas été finalisée)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
 * **Client en tant qu'invité :** le temps nécessaire pour la réalisation des services.
 
   
@@ -159,7 +159,10 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
 Il est précisé que les informations relatives au paiement (numéro de carte bancaire/informations Paypal/coordonnées bancaires) ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement.
 
-**Gérer le paiement de votre commande** et vous garantir l'utilisation des divers moyens de paiement, notamment de votre cagnotte en ligne.                     
+  
+
+* Gérer le paiement de votre commande et vous garantir l'utilisation des divers moyens de paiement, notamment de votre cagnotte en ligne.             
+* Prévenir et gérer la fraude et les impayés dans les conditions décrites au paragraphe ci-après et intitulé « La prévention et la gestion de la fraude et des impayés sur Printemps.com et Printemps Listes, dans les Magasins Printemps et pour le Club Printemps ».  
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ------------------------------------------------------------
@@ -175,8 +178,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * **Exécution d'un contrat**
 * **Votre consentement** (pour la conservation de votre carte bancaire dans votre portefeuille électronique pour faciliter vos achats ultérieurs)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * **Le cryptogramme** n'est pas conservé par notre prestataire de service de paiement après la réalisation de la transaction.
 * **Le numéro de carte, la date de validité et le nom du titulaire de la carte** sont conservés par notre prestataire de paiement pour une durée maximum de 15 mois afin de permettre la gestion des réclamations du titulaire de la carte bancaire.
@@ -235,11 +238,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * **Exécution d'un contrat**
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* Pour l'organisateur et le bénéficiaire clients : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
-* Pour l'organisateur et le bénéficiaire prospects : 3 ans après la dernière activité mail/sms\*6
+* Pour l'organisateur et le bénéficiaire clients : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+* Pour l'organisateur et le bénéficiaire prospects : 3 ans après la dernière activité mail/sms\*5
 * Pour le participant : 1 an après la réalisation de la participation
 
   
@@ -258,8 +261,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 Le temps nécessaire pour la réalisation des services
 
@@ -334,8 +337,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Votre consentement (Vous disposez d'un droit de désabonnement pour les communications commerciales envoyées dans le cadre de votre liste)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 Un compte est ouvert jusqu'au premier anniversaire de l'évènement. Il peut être reconduit d'une année supplémentaire après étude du dossier. Les comptes dont le solde est équilibré par les opérations réalisées par les bénéficiaires de listes sont anonymisés 3 ans après la dernière date d'activité
 
@@ -412,8 +415,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?\*
-----------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * **Participant :** 3 ans après la participation à une liste ou à une expérience Le Temps Printemps
 
@@ -464,8 +467,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * 3 ans à partir de la date d'inscription au défilé
 
@@ -500,8 +503,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Coordonnées bancaires (titulaire de la carte, numéro de carte, date de fin de validité, cryptogramme)
 * Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, numéro de compte Club Printemps, numéro de carte Visa Printemps)
 * Les données relatives aux achats à distance effectués par la personne ayant adhéré au programme Club Printemps
-* Vos points statut (si vous avez adhéré au programme de fidélité Club Printemps)
-* Vos points statut, vos avantages et le montant de votre cagnotte (si vous avez adhéré au programme de fidélité Club Printemps)
+* Votre statut, vos avantages et le montant de votre cagnotte (si vous avez adhéré au programme de fidélité Club Printemps)
 
   
 
@@ -516,15 +518,15 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * **Clients titulaires d'une carte fidélité :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
 * **Clients non titulaires d'une carte fidélité :** le temps nécessaire à la réalisation des finalités
 
   
 
-LA GESTION DE L'INSCRIPTION AU PROGRAMME DE FIDELITE CLUB PRINTEMPS SUR PRINTEMPS.COM
+LA GESTION DE L'INSCRIPTION AU PROGRAMME DE FIDELITE CLUB PRINTEMPS
 
   
 
@@ -555,7 +557,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps, numéro de carte Visa Printemps)
 * Les données relatives aux achats effectués par la personne ayant adhéré au programme Club Printemps
 * Les données relatives aux éventuels retours (date de retour, montant du retour) et données relatives à l'escompte (montant de l'escompte)
-* L'historique des points statut, des montants cumulés et des avantages
+* L'historique des statuts, des montants cumulés et des avantages
 * Les données de préférence avec le choix des 3 marques préférées du titulaire
 * Les données relatives à l'approbation ou le refus de prospection commerciale et les préférences d'abonnement
 * Les données justificatives permettant la résiliation du programme ou du compte Club Printemps par un tiers agissant pour le compte du titulaire (décès, mise sous tutelle, etc.)
@@ -573,10 +575,10 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
+* 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
 * Les données traitées dans le cadre du recouvrement sont conservées 15 jours après la clôture du dossier.
 
 LA GESTION DE L'INSCRIPTION A LA NEWSLETTER SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS
@@ -611,11 +613,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * **Votre consentement**
 * **Intérêt légitime des Sociétés Printemps** (pour améliorer notre connaissance client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms, ou activité e-commerce
-* **Prospect :** 3 ans après la dernière activité mail/sms
+* **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
+* **Prospect :** 3 ans après la dernière activité mail/sms\*5
 
   
 
@@ -784,8 +786,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « quels sont vos droits et comment les exercer € »
 * **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * **Client :** 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce
 * **Prospect :** 3 ans après la dernière activité mail/sms\*5
@@ -863,8 +865,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * Pour les cookies : 13 mois après le dépôt des cookies
 * Pour l'adresse mail :
@@ -927,7 +929,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Pays de résidence
 * Adresse email
 * Date de naissance (si vous adhérez au programme de fidélité Club Printemps)
-* Votre évolution des points statut (si vous avez adhéré au programme de fidélité Club Printemps)
+* Votre évolution de statut (si vous avez adhéré au programme de fidélité Club Printemps)
 * Vos journées Club Printemps (si vous avez adhéré au programme de fidélité Club Printemps)
 * Date de création de compte
 * Modes de paiement
@@ -937,17 +939,25 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
   
 
+**Pour la prise de rendez-vous aux évènement Printemps :** 
+
+* Nom, prénom
+* Numéro de téléphone
+* Adresse email
+
+  
+
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ----------------------------------------------------------------------------------
 
 * Exécution d'un contrat
 * Consentement (pour vous adresser des offres commerciales)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * Clients n'ayant pas donné leur consentement à la prospection commerciale : Les données sont conservées 3 ans après la prise de rendez-vous.
-* Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*6
+* Clients ayant donné leur consentement à la prospection commerciale : 3 ans après la dernière activité mail/sms\*5
 
 LE SUIVI DE LA RELATION CLIENT
 
@@ -989,11 +999,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Exécution d'un contrat
 * Consentement (pour l'enregistrement de vos échanges téléphoniques avec notre service client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*6
+* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+* Prospect : 3 ans après la dernière activité mail/sms\*5
 * Durée de conservation des appels enregistrés : 3 mois
 * Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
 * Durée de conservation des messages vocaux laissés sur le répondeur téléphonique du service client Printemps.com : 1 semaine pour les messages vocaux écoutés par le service client, 2 semaines pour les messages vocaux qui n'ont pas pu être traités par le service client
@@ -1033,11 +1043,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 * Intérêt légitime des sociétés Printemps
 * Consentement (pour l'enregistrement de vos échanges avec notre service client)
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*6
+* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+* Prospect : 3 ans après la dernière activité mail/sms\*5
 * Durée de conservation des appels enregistrés : 3 mois
 * Durée de conservation des échanges avec notre service client par mail et par Chat : 24 mois
 * Durée de conservation des enquêtes de satisfaction : 24 mois
@@ -1082,7 +1092,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Marque commandée
 * Montant de la commande
 * Données de navigation (cookies de navigation et de performance)
-* Données CLub Printemps (statut, montant de la cagnotte)
+* Données CLub Printemps (statut, montant de la cagnotte, avantages)
 * Données d'utilisation des emails et des sms (date d'envoi, ouverture email, clic)
 
   
@@ -1094,11 +1104,11 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * Intérêt légitime des sociétés Printemps
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
-* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*6, ou activité e-commerce.
-* Prospect : 3 ans après la dernière activité mail/sms\*6
+* Client : 3 ans après la dernière activité en magasin, ou activité mail/sms\*5, ou activité e-commerce.
+* Prospect : 3 ans après la dernière activité mail/sms\*5
 
 LA GESTION DES DROITS SUR PRINTEMPS.COM, PRINTEMPS LISTES, CLUB PRINTEMPS, MAGASINS PRINTEMPS
 
@@ -1143,12 +1153,12 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * 3 ans à compter de la réponse définitive à la demande
 
-LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM, PRINTEMPS LISTES, MAGASINS PRINTEMPS, CLUB PRINTEMPS
+LA PREVENTION ET LA GESTION DE LA FRAUDE ET DES IMPAYES SUR PRINTEMPS.COM ET PRINTEMPS LISTES, DANS LES MAGASINS PRINTEMPS ET POUR CLUB PRINTEMPS
 
   
 
@@ -1156,7 +1166,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 ----------------------------------------------------------------------------------------------
 
 * Assurer la sécurité de nos Sites
-* Protéger les transactions contre la fraude. A ce titre, nous utilisons une solution fournie par un prestataire tiers afin de détecter toute fraude et de nous assurer que le paiement sera effectué par vos soins ou toute personne que vous aurez autorisée à cet effet
+* Protéger les transactions contre la fraude. Nous utilisons ainsi notamment une solution fournie par un prestataire tiers afin de détecter toute fraude et de nous assurer que le paiement sera effectué par vos soins ou toute personne que vous aurez autorisée à cet effet. Nous pouvons par ailleurs dans ce cadre être amenés à transmettre certaines données traitées à des prestataires tiers afin de permettre à la transaction d'aboutir
 * Gérer la prévention de la fraude dans le cadre de l'utilisation du programme de fidélité Club Printemps
 * Assurer le contrôle des avantages accordés à nos clients et/ou partenaires commerciaux dans le cadre de nos différents programmes de fidélisation ou de nos partenariats
 
@@ -1168,6 +1178,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Titulaire de la carte bancaire
 * Numéro de carte bancaire
 * IP de la transaction
+* Adresse e-mail
 
   
 
@@ -1177,7 +1188,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Adresse email
 * Historique des transactions du titulaire de la carte de fidélité (date et montant des transactions, produits favoris, moyens de paiement, achats détaxe, achats Welcome, utilisation des offres liées à la carte de fidélité)
 * Les données permettant la gestion du compte fidélité Club Printemps (date d'adhésion, type de carte, réclamation client, numéro de compte Club Printemps et/ou CACF, numéro de carte Visa Printemps)
-* L'historique des points statut, de la cagnotte et des avantages, niveau de fidélité
+* L'historique de statut, de la cagnotte et des avantages, niveau de fidélité
 * Magasin principal
 
   
@@ -1194,8 +1205,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 * Intérêt légitime des sociétés Printemps
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * Conservation des données par notre prestataire de paiement pour la durée nécessaire à l'accomplissement de cette finalité par ce dernier
 * Pour la gestion de la fraude Club Printemps : conservation des données pendant le temps nécessaire à la réalisation de la finalité
@@ -1228,8 +1239,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * 1 an
 
@@ -1269,8 +1280,8 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
   
 
-Combien de temps conservons-nous vos données à caractère personnel ?
---------------------------------------------------------------------
+Combien de temps conservons-nous vos données à caractère personnel ?\*4
+-----------------------------------------------------------------------
 
 * 13 mois après le dépôt des cookies
 
@@ -1278,9 +1289,9 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 
   
 
-\*5 Indépendamment du traitement de vos données à caractère personnel pendant la durée strictement nécessaire pour remplir la finalité correspondante comme indiquée dans le tableau ci-dessus, nous pouvons conserver certaines données à caractère personnel vous concernant pendant une durée plus longue pour satisfaire nos obligations légales (par exemple, nous devons conserver les factures et tickets de caisse pendant 10 ans). Par ailleurs, certaines de vos données à caractère personnel pourront occasionnellement être conservées plus longtemps si lesdites données sont nécessaires pour l'exercice de droits en justice, ou pendant le temps duquel toute responsabilité pourrait être engagée suite au traitement, en exécution de la réglementation en vigueur. Dans ce cas, les données seront sauvegardées et protégées avec un accès restreint. Il sera procédé à la suppression desdites données une fois que les éventuelles actions de chaque cas seront prescrites ou lorsque le délai de conservation légale de certaines données sera épuisé.
+\*4 Indépendamment du traitement de vos données à caractère personnel pendant la durée strictement nécessaire pour remplir la finalité correspondante comme indiquée dans le tableau ci-dessus, nous pouvons conserver certaines données à caractère personnel vous concernant pendant une durée plus longue pour satisfaire nos obligations légales (par exemple, nous devons conserver les factures et tickets de caisse pendant 10 ans). Par ailleurs, certaines de vos données à caractère personnel pourront occasionnellement être conservées plus longtemps si lesdites données sont nécessaires pour l'exercice de droits en justice, ou pendant le temps duquel toute responsabilité pourrait être engagée suite au traitement, en exécution de la réglementation en vigueur. Dans ce cas, les données seront sauvegardées et protégées avec un accès restreint. Il sera procédé à la suppression desdites données une fois que les éventuelles actions de chaque cas seront prescrites ou lorsque le délai de conservation légale de certaines données sera épuisé.
 
-\*6 L'activité mail ou sms signifie la non-réponse à une sollicitation par mail ou par sms, c'est-à-dire, le fait de ne pas cliquer sur un lien hypertexte contenu dans un mail ou un sms.
+\*5 L'activité mail ou sms signifie la non-réponse à une sollicitation par mail ou par sms, c'est-à-dire, le fait de ne pas cliquer sur un lien hypertexte contenu dans un mail ou un sms.
 
 4\. COMMENT COLLECTONS-NOUS OU RECEVONS-NOUS VOS DONNÉES À CARACTÈRE PERSONNEL ?
 
@@ -1289,7 +1300,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?
 Vos données à caractère personnel peuvent être recueillies : 
 
 * **directement** auprès de vous lorsque vous complétez nos formulaires de collecte, questionnaires, en salon externe en magasin ou sur nos Sites printemps.com, listes.printemps.com et dans le cadre de l'adhésion au programme de fidélité Club Printemps (par exemple lorsque vous procédez à la création d'un compte, lorsque vous contactez notre Service Client, lorsque vous participez à un jeu concours, lorsque vous répondez à une enquête de satisfaction, lorsque vous ouvrez une liste ou réalisez un don sur une liste que ce soit au Printemps ou sur le site de zankyou.fr pour la liste 50/50 Shopping & Cash, ou lorsque vous effectuez un achat sur nos Sites ou en magasin, ou lorsque vous prenez un rendez-vous en ligne).
-* **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com et Printemps Listes, sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps (lors de l'appairage de votre carte fidélité sur le site Internet [**www.placedestendances.com**](http://www.placedestendances.com/) par exemple), ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
+* **indirectement**, via les données de navigation sur vos appareils (par exemple en utilisant des cookies afin de comprendre votre navigation sur nos Sites), sur les pages consacrées à Printemps, Printemps.com et Printemps Listes, sur les réseaux sociaux, lorsque lesdites données nous sont transmises par les sociétés Printemps, ou par les sociétés organisatrices de salons auxquels les sociétés Printemps peuvent participer (lesdites sociétés organisatrices s'étant engagées à recueillir le consentement des personnes concernées).
 
   
 
