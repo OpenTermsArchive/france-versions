@@ -5,7 +5,7 @@ This website uses cookies. We use cookies to ensure that we offer you the best e
 
 Use the tick-boxes to confirm that you’re happy for us to use your data for the following purposes.
 
-Your consent applies to the following domains: promotions.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, boltfood.formaloo.net, couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
+Your consent applies to the following domains: beta.web-app.bolt-food.eu, promotions.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, boltfood.formaloo.net, couriers.bolt.eu, business.bolt.eu, market.bolt.eu, signup.bolt.eu, ridewithbolt.typeform.com, support.taxify.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, careers.bolt.eu, bolt.eu
 
 Your current state: Deny. 
 
@@ -25,7 +25,7 @@ Your consent ID: 0Consent date:
 
 Cookie declaration last updated on 24/10/2023 by [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Necessary (45)
+Necessary (46)
 
 Necessary cookies help make our website usable by enabling basic functions, e.g. page navigation. The website cannot function properly without these cookies.
 
@@ -37,7 +37,7 @@ Necessary cookies help make our website usable by enabling basic functions, e.g.
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | Pending | Persistant | HTML Local Storage |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | Pending | Persistant | HTML Local Storage |
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "Wix.com's privacy policy")  <br>[Google](https://policies.google.com/privacy "Google's privacy policy") | Necessary for measuring and reporting of website performance. | 1 day | HTTP Cookie |
-| CookieConsent \[x19\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")  <br>boltfood.formaloo.net  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
+| CookieConsent \[x20\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "Cookiebot's privacy policy")  <br>boltfood.formaloo.net  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stores the user's cookie consent state for the current domain | 1 year | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifies the logged in user. A unique session ID is linked to the user so that he/she is identified while navigating the website. The user is logged out when the cookie expires. | Persistent | HTML Local Storage |
 | fleet-visitor-id | bolt.eu | Pending | Session | HTTP Cookie |
 | hs  | bolt.eu | Ensures visitor browsing-security by preventing cross-site request forgery. This cookie is essential for the security of the website and visitor. | Session | HTTP Cookie |
