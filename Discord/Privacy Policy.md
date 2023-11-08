@@ -17,11 +17,11 @@ Discord is your place to find community](#2)[3.
 
 The information we collect](#3)[•
 
-Information you provide to us](#3)[•
+3.1 Information you provide to us](#3)[•
 
-Information we collect automatically](#3)[•
+3.2 Information we collect automatically](#3)[•
 
-Information we receive from other sources](#3)[4.
+3.3 Information we receive from other sources](#3)[4.
 
 How we use your information](#4)[5.
 
@@ -31,21 +31,21 @@ Data retention](#6)[7.
 
 How we protect your information](#7)[8.
 
-How to control your privacy](#paid-services)[9.
+How to control your privacy](#8)[9.
 
-International data transfers](#8)[10.
+International data transfers](#9)[10.
 
-Services offered by third parties](#9)[11.
+Services offered by third parties](#10)[11.
 
-Data Protection Officer](#10)[12.
+Data Protection Officer](#11)[12.
 
-Information for Users in the EEA, United Kingdom, Switzerland, and Brazil](#11)[13.
+Information for Users in the EEA, United Kingdom, Switzerland, and Brazil](#12)[13.
 
-Information for Users in Certain U.S. States](#12)[14.
+Information for Users in Certain U.S. States](#13)[14.
 
-Changes to this Privacy Policy](#13)[15.
+Changes to this Privacy Policy](#14)[15.
 
-Contact us](#14)[16.](#15)[17.](#15)
+Contact us](#15)[16.](#15)[17.](#15)
 
 **Welcome!**
 ============
