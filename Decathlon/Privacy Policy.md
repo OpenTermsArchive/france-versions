@@ -1466,7 +1466,7 @@ Nous traitons les données nécessaires à la bonne exécution du service de rep
 
 Durée de conservation
 
-Vos données seront anonymisées au bout de 6 mois après le remplissage du questionnaire en ligne si le rachat n'a pas été finalisé puis supprimées au bout de 3 ans. L'historique de vos rachats sera disponible pendant 5 ans sur votre compte [occasions.decathlon.fr](https://occasions.decathlon.fr/) . Vos données bancaires quant à elle sont anonymisées dès la fin de la transaction et sont conservées pendant une durée de 18 mois puis supprimées.
+Vos données seront anonymisées au bout de 6 mois après le remplissage du questionnaire en ligne si le rachat n'a pas été finalisé puis supprimées au bout de 3 ans. L'historique de vos rachats sera disponible pendant 5 ans sur votre compte [decathlon.fr](https://account.decathlon.com/) . Vos données bancaires quant à elle sont anonymisées dès la fin de la transaction et sont conservées pendant une durée de 18 mois puis supprimées.
 
 Vos droits
 
