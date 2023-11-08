@@ -264,7 +264,7 @@ Information for Users in the EEA, United Kingdom, Switzerland, and Brazil
 
 Certain local laws, such as the European Union’s General Data Protection Regulation (GDPR) and Brazil’s Lei Geral de Proteção de Dados (LGPD), require services to provide information about the information they collect, how they use it, and the lawful basis for processing it. We’ve described most of that already in the earlier portions of this Policy.
 
-**‍Exercising your rights:** As described in the “[How to control your privacy”](https://discord.com/privacy#control) section above, all our users have control over their information and can directly edit or delete information from their account and limit what data we process. If you are located in certain regions, including the European Union, you may have additional rights that you can exercise through the Discord app directly or by contacting us:
+**‍Exercising your rights:** As described in the “[How to control your privacy”](https://discord.com/privacy#8) section above, all our users have control over their information and can directly edit or delete information from their account and limit what data we process. If you are located in certain regions, including the European Union, you may have additional rights that you can exercise through the Discord app directly or by contacting us:
 
 * Right of access to your personal data
 * Right to rectify your personal data if they are incorrect
