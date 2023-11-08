@@ -31,21 +31,21 @@ Software in Discord’s services](#6)[7.
 
 Copyright](#7)[8.
 
-Discord’s paid services](#paid-services)[9.
+Discord’s paid services](#8)[9.
 
-Restrictions on your use of Discord’s services](#8)[10.
+Restrictions on your use of Discord’s services](#9)[10.
 
-Termination](#9)[11.
+Termination](#10)[11.
 
-Appeals](#10)[12.
+Appeals](#11)[12.
 
-Indemnity](#11)[13.
+Indemnity](#12)[13.
 
-Services “AS IS”](#12)[14.
+Services “AS IS”](#13)[14.
 
-Limitation of liability](#13)[15.
+Limitation of liability](#14)[15.
 
-Settling disputes between you and Discord](#14)[16.
+Settling disputes between you and Discord](#15)[16.
 
 More important stuff](#15)[17.
 
