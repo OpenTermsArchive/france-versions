@@ -39,7 +39,7 @@ Nous collectons les données que vous fournissez lorsque vous avez recours à no
 
 ● Effectuez une commande ou une demande de retour sur nos sites ;
 
-● Vous inscrivez aux newsletters ou aux alertes des Galeries Lafayette / BHV ;
+● Vous inscrivez aux newsletters ou aux alertes des Galeries Lafayette ;
 
 ● Contactez notre service client ;
 
@@ -329,6 +329,9 @@ Ces partenaires sont :
 ● Target 2 Sell : utilise des traceurs afin d’afficher des recommandations personnalisées sur les produits . 
 
 ● TikTok : utilise des traceurs afin d’afficher de la publicité personnalisée et mesurer la performance des campagnes
+
+10.3 Comment paramétrer les cookies ?
+-------------------------------------
 
 **10.3 Comment paramétrer les cookies ?**  
 
