@@ -47,9 +47,9 @@ Limitation of liability](#14)[15.
 
 Settling disputes between you and Discord](#15)[16.
 
-More important stuff](#15)[17.
+More important stuff](#16)[17.
 
-Contacting each other](#15)
+Contacting each other](#17)
 
 Welcome! Discord is a platform that brings people together over shared experiences and gives everyone a place to belong. We’re happy you’re here.
 
