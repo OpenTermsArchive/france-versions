@@ -45,7 +45,7 @@ Information for Users in Certain U.S. States](#13)[14.
 
 Changes to this Privacy Policy](#14)[15.
 
-Contact us](#15)[16.](#15)[17.](#15)
+Contact us](#15)[16.](#16)[17.](#17)
 
 **Welcome!**
 ============
