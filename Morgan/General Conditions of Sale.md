@@ -1,6 +1,6 @@
 **CONDITIONS GÉNÉRALES DE VENTES**
 
-Version du 23 Mai 2023
+Version du 20 septembre 2023
 
 Toute commandes passée sur le site internet [https://morgandetoi.fr](https://morgandetoi.fr/) (ci-après dénommé le « Site ») vaut acceptation expresse de l'internaute aux présentes conditions générales de vente (ci-après, dénommées les « CGV » ).
 
