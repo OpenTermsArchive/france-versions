@@ -236,15 +236,14 @@ Tableau des collaborateurs
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| EMPRESA | POLÍTICADE PRIVACIDAD | FINALIDAD | TRANSFERENCIA INTERNACIONAL DE DATOS |
-| Riskified Ltd | [https://www.riskified.com/terms/](https://www.riskified.com/terms/) | Detección y prevención del fraude para Air Europa y otros clientes de Riskified. | Israel, Nepal y Estados Unidos |
-| Worldpay B.V.  <br>Worldpay (UK) Ltd  <br>Worldpay Ltd  <br>Worldpay AP Ltd | [https://online.worldpay.com/terms/privacy](https://online.worldpay.com/terms/privacy) | Procesador de pagos. | Reino Unido |
-| Amadeus IT Group, S.A. | [https://amadeus.com/es/politicas/politicas-de-amadeus](https://amadeus.com/es/politicas/politicas-de-amadeus) | Entidad que proporciona el Sistema Global de Distribución (GDS), donde: se consulta la información del viaje; se emiten los billetes; se procesan las tarjetas de crédito, se realiza la autenticación y prevención del fraude; etc. | N/A |
-| En estos casos, y siempre que haya comprado el billete en la página web, en la aplicación, así como en el centro de atención telefónica o en las oficinas de los distintos aeropuertos, Amadeus actúa como responsable de tratamiento, por lo que Air Europa le cederá sus datos personales para poder proporcionar el servicio. |
-| Sherpa | [https://www.joinsherpa.com/legal/privacy-policy](https://www.joinsherpa.com/legal/privacy-policy) | Información y gestión de la documentación requerida para viajar. | N/A |
-| Bag on Board | [https://bob.io/politica-de-privacidad/](https://bob.io/politica-de-privacidad/) | Gestión del equipaje | N/A |
-| FOUNDSPOT, S.L. | [https://www.foundspot.com/es/politica-privacidad/](https://www.foundspot.com/es/politica-privacidad/) | Entidad contratada para facilitar la búsqueda de objetos extraviados. | N/A |
-| SkyTeam | [https://www.skyteam.com/en/joint-privacy-notice](https://www.skyteam.com/en/joint-privacy-notice) | SkyTeam es la Alianza, de la que AIR EUROPA es miembro, que trata datos personales para proporcionar a los pasajeros una mejor experiencia de viaje en cada etapa del viaje. | Depende del miembro de SkyTeam y de los destinos de viaje seleccionados. |
+| ENTREPRISE | POLITIQUE DE CONFIDENTIALITÉ | FINALITÉ | TRANSFERT INTERNATIONAL DE DONNÉES |
+| Riskified Ltd | [https://www.riskified.com/terms/](https://www.riskified.com/terms/) | Détection et lutte contre les fraudes pour Air Europa et autres clients de Riskified. | Israël, Népal et États-Unis |
+| Worldpay B.V.  <br>Worldpay (UK) Ltd  <br>Worldpay Ltd  <br>Worldpay AP Ltd | [https://online.worldpay.com/terms/privacy](https://online.worldpay.com/terms/privacy) | Processeur de paiement. | Royaume-Uni |
+| Amadeus IT Group, S.A. | [https://amadeus.com/es/politicas/politicas-de-amadeus](https://amadeus.com/es/politicas/politicas-de-amadeus) | Entité fournissant le Système mondial de distribution (GDS), dans lequel : il est possible de consulter les informations du voyage ; les billets sont émis ; les cartes de crédit sont traitées, l'authentification et la lutte contre les fraudes sont appliquées ; Etc.  <br>  <br>Dans ces cas, et à condition d'avoir acheté le billet sur le site Web, sur l'application, au centre d'appels téléphoniques ou aux guichets des différents aéroports, Amadeus agit en tant que responsable du traitement, Air Europa lui transfert donc vos données à caractère personnel pour pouvoir vous prêter le service. | SO  |
+| Sherpa | [https://www.joinsherpa.com/legal/privacy-policy](https://www.joinsherpa.com/legal/privacy-policy) | Informations et gestion des documents exigés pour voyager. | SO  |
+| Bag on Board | [https://bob.io/politica-de-privacidad/](https://bob.io/politica-de-privacidad/) | Gestion des bagages | SO  |
+| FOUNDSPOT, S.L. | [https://www.foundspot.com/es/politica-privacidad/](https://www.foundspot.com/es/politica-privacidad/) | Établissement recruté pour faciliter la recherche d'objets perdus. | SO  |
+| SkyTeam | [https://www.skyteam.com/en/joint-privacy-notice](https://www.skyteam.com/en/joint-privacy-notice) | SkyTeam est l'alliance dont AIR EUROPA est membre, qui traite des données à caractère personnel pour offrir aux passagers une meilleure expérience de déplacement à chaque étape de leur voyage. | En fonction du membre de SkyTeam et des destinations de voyage sélectionnées. |
 
 Révisions précédentes de la politique de confidentialité
 
