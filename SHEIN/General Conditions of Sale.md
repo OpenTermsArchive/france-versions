@@ -76,7 +76,7 @@ CONTENU
 
 2.2 Les photographies, qui ne sont pas contractuelles, ont vocation à éclairer au mieux le Client. Ce dernier reconnait toutefois qu'il peut exister, du fait de la qualité couleur des photographies, des différences sensibles entre la présentation du Produit qui est faite sur la Marketplace et le Produit livré notamment, de la calibration du moniteur utilisé. Une fois que le Produit est reçu par le Client et qu'il n'est pas satisfait du Produit, le Client peut procéder au retour du Produit conformément à la [politique concernant le retour](https://fr.shein.com/Return-Policy-a-281.html) .
 
-**2.3 Risque et titre de propriété.** Sous réserve de l’article 6.2 ci-dessous et du Code de la Consommation, les Produits achetés sont aux risques et périls du Client à compter de la livraison. Le titre de propriété des Produits achetés est transféré du Vendeur au Client à la livraison à l’adresse de livraison fournie par le Client ou lorsque le Vendeur reçoit le paiement intégral de toutes les sommes dues au titre de la commande, y compris les frais de livraison, la date la plus tardive étant retenue.
+**2.3 Risque et titre de propriété.** Sous réserve de la section 6.2 ci-dessous, les Produits achetés sont aux risques du Client à partir du moment de la livraison. Le titre de propriété des Produits achetés est transféré du Vendeur au Client dans les « eaux internationales » (c.-à-d. en dehors de la juridiction d’un pays). Veuillez noter qu’en commandant sur ce Site, les Clients sont considérés comme l’importateur officiel et doivent se conformer à toutes les lois et réglementations du pays dans lequel le Client reçoit les Produits.
 
 3\. PRIX ET REDEVANCES
 
@@ -167,6 +167,10 @@ b) Ensuite, le Client valide définitivement la commande en cliquant sur le bout
 (3) Si la commande n'a pas encore été expédiée au moment où le Vendeur reçoit l'avis d'annulation du Client, la livraison est bloquée et le Client est remboursé des sommes éventuellement débitées dans un délai de quatorze (14) jours à compter de la réception de l'avis d'annulation.
 
 (4) Dans le cas où la commande a déjà été expédiée lors de la réception par le Vendeur de la notification d'annulation du Client, ce dernier peut encore annuler la commande en refusant le colis. Le Vendeur procèdera alors aux remboursement des sommes débitées et des frais de retour déboursés par le Client dans les quatorze (14) jours suivant la réception du retour du colis (complet et dans son état d'origine) refusé. Le Vendeur procédera au remboursement en utilisant le même moyen de paiement que celui utilisé par le Client pour la transaction initiale, sauf si les parties conviennent expressément d'un moyen différent.
+
+5.4. Autorisation douanière.
+
+En commandant sur ce Site, le Client est considéré comme « l’importateur officiel » et accepte que SHEIN agisse en son nom dans le seul et unique but d’effectuer les déclarations douanières, y compris, par exemple, la désignation d’un courtier en douane (qui agira au nom du Client), si cela s’avère nécessaire pour assurer le dédouanement et la livraison des produits dans les délais impartis.
 
 6\. VÉRIFICATION DE LA COMMANDE À L'ARRIVÉE
 
