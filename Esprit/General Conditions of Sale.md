@@ -27,7 +27,7 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
 2.1 Le montant minimum de l´achat devrait être 24 EUR
 
-2.2 Le coût de la livraison standard est de 2,99 EUR.
+2.2 Le coût de la livraison standard est de 0,00 EUR.
 
 2.3 L’expédition de la marchandise a lieu 1 à 3 jours ouvrables à compter de la date de commande et sous réserve de l’exactitude des données communiquées (vérification de la solvabilité et de l’identité).
 
