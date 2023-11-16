@@ -1,6 +1,6 @@
 CONDITIONS GÉNÉRALES DE VENTE
 
-Version du 1er août 2023
+Version du 16 Novembre 2023
 
 Bienvenue sur le marché en ligne de Shein France.
 
