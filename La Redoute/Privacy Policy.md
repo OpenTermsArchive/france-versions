@@ -191,7 +191,6 @@ Galeries Lafayette qui regroupent :
 
 * Société Anonyme des Galeries Lafayette
 * 44 Galeries Lafayette
-* BHV Exploitation
 * 1001 Listes
 * Louis Pion Royal Quartz
 * GUERIN Joaillerie
