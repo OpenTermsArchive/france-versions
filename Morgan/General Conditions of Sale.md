@@ -468,7 +468,7 @@ En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une com
   
 Faute de parvenir à un accord amiable avec le Vendeur, et conformément aux dispositions de l’article L 152-2 du Code de la Consommation, l’Internaute pourra initier gratuitement une procédure de médiation auprès :
 
-* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
+* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [\[email protected\]](https://www.morgandetoi.fr/cdn-cgi/l/email-protection), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
      
 * Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
     [https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
