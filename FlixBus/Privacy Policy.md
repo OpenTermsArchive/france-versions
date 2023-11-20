@@ -502,7 +502,7 @@ Pour notre service client, nous faisons appel à des prestataires de service cli
 
 ### 2.3 Présence sur les canaux des réseaux sociaux
 
-Nous avons une présence sur les réseaux sociaux (actuellement : Facebook, Instagram, LinkedIn et Twitter). Dans la mesure où nous avons le contrôle du traitement de vos données, nous nous assurons que les réglementations en vigueur en matière de protection des données sont respectées.
+Nous avons une présence sur les réseaux sociaux (actuellement : Facebook, Instagram, LinkedIn, Twitter, TikTok). Dans la mesure où nous avons le contrôle du traitement de vos données, nous nous assurons que les réglementations en vigueur en matière de protection des données sont respectées.
 
 En plus de nous, les personnes suivantes sont responsables de la présence de l’entreprise selon les termes du RGPD et d’autres réglementations sur la protection des données :
 
@@ -513,6 +513,8 @@ Instagram (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dub
 Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irlande)
 
 LinkedIn (LinkedIn Ireland Unlimited Company, Gardner House Wilton Place, Dublin 2, Irlande)
+
+TikTok (TikTok Technology Limited, 10 Earlsfort Terrace, Dublin, D02 T380, Irlande)
 
 Nous voudrions souligner que vos données peuvent être traitées en dehors de l’Union européenne.
 
@@ -525,6 +527,8 @@ Facebook : [https://www.facebook.com/notes/flixbus/facebook-fanpage-datenschutzr
 Instagram : [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)
 
 LinkedIn : [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
+
+TikTok: [https://www.tiktok.com/i18n/Privacy/](https://www.tiktok.com/i18n/Privacy/)
 
 ### 2.4 Signalement sur Speakout@Flix (portail de dénonciation)
 
