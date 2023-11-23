@@ -488,6 +488,14 @@ Nous avons par exemple recours à l’apprentissage automatique dans un modèle 
 
 Vous pouvez à tout moment nous aviser de votre opposition au traitement de vos données réalisé à des fins d’apprentissage automatique conformément aux dispositions légales à l’adresse électronique « [data.protection@flixbus.com](mailto:data.protection@flixbus.com) ». Sachez toutefois que vous ne recevrez dès lors que des recommandations génériques.
 
+### 2.1.9 Prévention de la fraude
+
+Afin d’éviter les réservations frauduleuses, nous traitons les données relatives aux commandes, notamment l’adresse IP, le nom et l’adresse mail.
+
+Ce traitement est licite en vertu de l’art. 6 paragraphe 1 point f du RGPD. Notre intérêt légitime est d’éviter d’être victime de fraude et de subir des pertes financières.
+
+Dans certains cas, une décision d’annulation est susceptible d’intervenir après la réservation en fonction d’une décision automatisée. Cette logique repose sur un ensemble d’algorithmes internes qui traitent les points de données pertinents et nous fournissent des résultats sur les correspondances avec différents modèles frauduleux, ou comparent les points de données avec les seuils et valeurs typiques des modèles frauduleux afin de détecter les réservations frauduleuses. Si vous souhaitez contester cette décision, exprimer votre point de vue ou bénéficier d’une intervention humaine de la part du responsable du traitement, veuillez contacter [data.protection@flixbus.com](mailto:data.protection@flixbus.com).
+
 ### 2.2 Service à la clientèle
 
 Lorsque vous contactez notre service client, nous collectons les données à caractère personnel que vous nous fournissez de votre propre initiative. Par exemple, vous pouvez nous les envoyer par e-mail, téléphone ou courrier. Vos données à caractère personnel seront uniquement utilisées afin de vous contacter ou aux fins pour lesquelles vous nous les avez fournies, par exemple pour le traitement de vos demandes, l’administration technique ou l’administration client.
