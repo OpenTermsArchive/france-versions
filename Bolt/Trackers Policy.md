@@ -35,9 +35,9 @@ Identifiant de votre consentement: 0Date de consentement:
 
   
 
-Déclaration relative aux cookies mise à jour le 24/10/2023 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Déclaration relative aux cookies mise à jour le 24/11/2023 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Nécessaires (46)
+Nécessaires (45)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies.
 
@@ -49,11 +49,11 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | bSession \[x2\] | [Wix.com](http://parastorage.com/ "la politique de confidentialité de Wix.com")  <br>[Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | Nécessaire pour mesurer et rendre compte des performances du site Web. | 1 jour | HTTP Cookie |
+| cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
 | CookieConsent \[x20\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>boltfood.formaloo.net  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistent | HTML Local Storage |
-| fleet-visitor-id | bolt.eu | En attente | Session | HTTP Cookie |
+| fleet-visitor-id | bolt.eu | En attente | 1 année | HTTP Cookie |
 | hs  | bolt.eu | Assure la sécurité de la navigation des visiteurs en empêchant la falsification des requêtes entre sites. Ce cookie est essentiel pour la sécurité du site Web et du visiteur. | Session | HTTP Cookie |
-| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "la politique de confidentialité de New Relic") | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | HTTP Cookie |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 180 jours | HTTP Cookie |
 | OptanonConsent | cdn.cookielaw.org | Détermine si le visiteur a accepté la boîte de consentement du cookie. Cela évite que la boîte de consentement de cookie réapparaisse lors de la nouvelle entrée. | 1 année | HTTP Cookie |
 | platform-viewer | [Wix](https://www.wix.com/about/privacy "la politique de confidentialité de Wix") | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | Pixel Tracker |
@@ -63,9 +63,8 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | test\_cookie | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | 1 jour | HTTP Cookie |
 | XSRF-TOKEN | bolt.eu | Assure la sécurité de la navigation des visiteurs en empêchant la falsification des requêtes entre sites. Ce cookie est essentiel pour la sécurité du site Web et du visiteur. | Session | HTTP Cookie |
-| ZD-suid | bolt.eu | Identifiant unique qui identifie la session de l'utilisateur. | Persistent | HTML Local Storage |
 
-Préférences (9)
+Préférences (8)
 
 Les cookies de préférences permettent à notre site web de retenir des informations qui modifient la manière dont le site se comporte ou s’affiche, comme votre langue préférée ou la région dans laquelle vous vous situez.
 
@@ -79,9 +78,8 @@ Les cookies de préférences permettent à notre site web de retenir des informa
 | iso\_code | static.tildacdn.com | Le cookie détermine la langue préférée et le pays du visiteur - Cela permet au site Web d'afficher le contenu le plus pertinent pour cette région et cette langue. | Persistent | HTML Local Storage |
 | taxifyDriverPortal\_locale | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | En attente | Persistent | HTML Local Storage |
-| ZD-store | bolt.eu | Enregistre si l'assistant de self-service Zendesk Answer Bot a été affiché à l'utilisateur du site Web. | Persistent | HTML Local Storage |
 
-Statistiques (41)
+Statistiques (43)
 
 Les cookies statistiques nous aident à comprendre comment les visiteurs interagissent avec notre site web par la collecte et la communication d'informations de manière anonyme.
 
@@ -109,6 +107,8 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | collect | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | Utilisé pour envoyer des données à Google Analytics sur le périphérique et le comportement du visiteur. Suit l'internaute à travers les appareils et les canaux de marketing. | Session | Pixel Tracker |
 | fedops.logger.defaultOverrides | [Wix.com](http://parastorage.com/ "la politique de confidentialité de Wix.com") | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 1 jour | HTTP Cookie |
 | fedops.logger.sessionId \[x2\] | [Wix.com](http://parastorage.com/ "la politique de confidentialité de Wix.com") | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | Persistent | HTML Local Storage |
+| FPID | bolt.eu | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 400 jours | HTTP Cookie |
+| FPLC | bolt.eu | Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site. | 1 jour | HTTP Cookie |
 | hc:#:recently\_visited\_articles | [Zendesk](https://www.zendesk.com/company/customers-partners/privacy-policy/ "la politique de confidentialité de Zendesk") | Enregistre quels articles l'utilisateur a visité dans une base de connaissances Zendesk. | Persistent | HTML Local Storage |
 | personalization\_id | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Ce cookie est défini par Twitter - Le cookie permet a l'internaute de partager le contenu du site web sur son profil Twitter. | 400 jours | HTTP Cookie |
 | previousUrl | static.tildacdn.com | Définit un identifiant unique pour la session. Cela permet au site Web d'obtenir des données sur le comportement des visiteurs à des fins statistiques. | 1 jour | HTTP Cookie |
@@ -166,7 +166,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | tt\_sessionId | [Tiktok](https://www.tiktok.com/legal/privacy-policy?lang=en "la politique de confidentialité de Tiktok") | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | HTML Local Storage |
 | UserMatchHistory | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Garantit la sécurité de navigation du visiteur en empêchant la contrefaçon de requête inter-site. Ce cookie est essentiel pour la sécurité du site web et du visiteur. | 30 jours | HTTP Cookie |
 
-Non classés (17)
+Non classés (22)
 
 Les cookies non classés sont les cookies qui sont en cours de classification, ainsi que les fournisseurs de cookies individuels.
 
@@ -176,11 +176,17 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | \_\_mp\_opt\_in\_out\_16b2ba60f4d49b1f69fcf78aea1521a3 | cdn.mxpnl.com | En attente | Session | HTTP Cookie |
 | \_\_mp\_opt\_in\_out\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | En attente | Session | HTTP Cookie |
 | \_\_mp\_opt\_in\_out\_d0e3bd4d1ffc64788a623168f2486bb3 | foodpartner.bolt.eu | En attente | Session | HTTP Cookie |
+| com.adsmeasurement.pubsuite.ConversionQueue | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | Persistent | HTML Local Storage |
+| com.adsmeasurement.pubsuite.FirstStartDate | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | Persistent | HTML Local Storage |
+| com.adsmeasurement.pubsuite.LastConfigDate | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | Persistent | HTML Local Storage |
+| com.adsmeasurement.pubsuite.LastServerConfig | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | Persistent | HTML Local Storage |
+| com.adsmeasurement.pubsuite.SessionCount | [Google](https://policies.google.com/privacy "la politique de confidentialité de Google") | En attente | Persistent | HTML Local Storage |
 | lo\_di \[x2\] | cdn-public.liftoffintl.io | En attente | Session | HTTP Cookie |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | 1 année | HTTP Cookie |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | Persistent | HTML Local Storage |
 | persist:account-selected-provider | foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
 | persist:session | foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
+| test\_WZRK\_G0 | bolt.eu | En attente | Session | HTTP Cookie |
 | WZRK\_ARP | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_G | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_G | bolt.eu | En attente | 10 années | HTTP Cookie |
@@ -188,4 +194,3 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | WZRK\_META | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_P | bolt.eu | En attente | Session | HTTP Cookie |
 | WZRK\_S\_W65-47W-565Z | bolt.eu | En attente | 1 jour | HTTP Cookie |
-| X-Experiment-Drive | bolt.eu | En attente | 7 jours | HTTP Cookie |
