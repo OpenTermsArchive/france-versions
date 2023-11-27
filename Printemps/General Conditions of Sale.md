@@ -1,3 +1,5 @@
+ ![Image d'illustration](https://media-cdn.printemps.com/image/66/6/5308666.png)
+
 Mise à jour du 26/04/2023
 
 Conditions générales d'utilisation et de vente Printemps.com
