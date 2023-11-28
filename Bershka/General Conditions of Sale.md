@@ -1242,10 +1242,6 @@ concernant. Ces IDU sont les suivants :
 
 pour la maison » : FR212790_11RSZB
 
-- IDU pour la filière « jouets » : FR212790_12LBEH
-
-- IDU pour la filière « articles de bricolage et de jardin » : FR212790_14GQCX
-
 - IDU pour la filière « papier » : FR351011_03LXRK
 
 - IDU pour la filière « emballages ménagers » : FR212790_01VOIB
@@ -1374,8 +1370,6 @@ et correctement remise au bureau de poste ou dans une boîte aux lettres ; et po
 
 été envoyés à l'adresse électronique indiquée par le destinataire.
 
-
-
 24. CESSION DE DROITS ET OBLIGATIONS
 
 
@@ -1461,8 +1455,6 @@ Contrat ne produira d'effet tant qu'elle ne sera pas expressément qualifiée co
 sera pas communiquée conformément aux dispositions prévues dans la clause consacrée aux notifications
 
 ci-dessus.
-
-
 
 27. NULLITÉ PARTIELLE
 
@@ -1564,7 +1556,7 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 1er septembre 2023
+Dernière mise à jour le 15 Novembre 2023
 
 
 
@@ -1693,6 +1685,8 @@ précisément dans la section « Mes commandes ».
 
 
 1.3 Identifiez-vous en tant qu'utilisateur Bershka en montrant votre QR ID
+
+
 
 Votre QR ID est valable pour vous identifier dans le Magasin Physique, simplifier les formalités et vous
 
@@ -1868,13 +1862,13 @@ Les utilisateurs s'engagent à ne pas retirer, supprimer, modifier, manipuler ou
 
 modifier:
 
+
+
 - Les notes, légendes, signes ou symboles, que soit (i) la Société, soit (ii) les ayants droit légaux
 
 incorporent dans leur propriété au regard de la propriété intellectuelle ou industrielle (ex: copyright,
 
 ©, ® et ™, etc.,).
-
-
 
 - Dispositifs techniques de protection ou d'identification que la Propriété peut contenir (par exemple,
 
@@ -1940,4 +1934,4 @@ autres lois applicables.
 
 
 
-Dernière mise à jour : 1er septembre 2023
+Dernière mise à jour : 28 Novembre 2023
