@@ -1,30 +1,32 @@
-[Politique de Confidentialité](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#5123c5694cc94ca7b3e666387ce5bd98)
+[Politique de Confidentialité](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#efb8972c46d5492d8b7df771b02c8921)
 
-[QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#8a91c27a327848958252bbca7eababd9)
+[QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#b94b23bc78114b8a8422537a64aa553f)
 
-[POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#0aed2621ea2f4e78ae5d112606b90670)
+[POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#5e00f4f08e2e40d28439d9b900ff3f6f)
 
-[QUELLES DONNÉES À CARACTÈRE PERSONNEL SERONT COLLECTÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#20dc66d46c234716951ad30e8ded40db)
+[QUELLES DONNÉES À CARACTÈRE PERSONNEL SERONT COLLECTÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#180ef178d68b49e8bb6f168f1427c170)
 
-[QUELLE EST LA DURÉE DE CONSERVATION DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#007fb5c70ae24a68abb00f88812fd742)
+[QUELLE EST LA DURÉE DE CONSERVATION DE VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#bf69d0f7f5b4498bbedaa7e2706604d4)
 
-[QUI AURA ACCÈS A VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#eb22ef6ea67d42779c30e049291a4b06)
+[QUI AURA ACCÈS A VOS DONNÉES ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#204f9d9c19034dc3a38a2c45ae22f7e3)
 
-[VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#d94b212cc5164fed8a3ac494f7fa307a)
+[VOS DONNÉES SERONT-ELLES TRANSFERÉES EN DEHORS DE L'UE ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#adec3dba75244c0ba44b8e15d0e14097)
 
-[QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#2e8993beb1de4bd48e083bc3cfac7bc2)
+[QUELS SONT VOS DROITS CONCERNANT VOS DONNÉES A CARACTÈRE PERSONNEL ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#2c2d6dc400864b9fa6e500910677fc3f)
 
-[A QUI S'ADRESSER POUR TOUTE QUESTION ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#b57b1d61f1664c8da0e83fc34f48f992)
+[A QUI S'ADRESSER POUR TOUTE QUESTION ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#f1133239928c4ea59d10128ec7077a72)
 
-[INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#e13e5cadcbdf4f1fae7291fae7864eda)
+[INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#ebfb72e3612b4851b633b04dc517fd48)
 
-[MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#bd7d328c37244d45a27e2f6e254f2a23)
+[MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#058262aad0c34404a7c14d85b07d2a8e)
 
-[Qu'est-ce qu'un cookie ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#bec925bfbd71471faecd832091b6aefd)
+[Qu'est-ce qu'un cookie ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#8eea8cd1a12d4438b04499cb839eae82)
 
-[Pourquoi utilisons-nous des cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#a12b529850cf4471823512959cf38be5)
+[Pourquoi utilisons-nous des cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#2598d70ab02f48068fe9cf59ae53376f)
 
-[Comment gérer vos préférences en matière de cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#00ae3493250a44289f7f2ea280e6e018)
+[Comment gérer vos préférences en matière de cookies ?](https://ponybikes.notion.site/Politique-de-Confidentialit-43ae2b3a92da4952913b41e5e75b5c62?pvs=25#0321cc1a849e451ebaa863e95954b471)
+
+Version à la date du : 28.11.2023
 
 Politique de Confidentialité
 ----------------------------
@@ -37,7 +39,7 @@ Cette Politique de Confidentialité explique la (ou les) finalité(s) et les mod
 
 ### QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES ?
 
-Vos données à caractère personnel sont collectées et traitées par la société PONY SAS, dont le siège social est situé 8 Place Monseigneur Rumeau, 49100 ANGERS (ci-après dénommée "PONY").
+Vos données à caractère personnel sont collectées et traitées par la société PONY SAS, dont le siège social est situé 8 place Monseigneur Rumeau, 49100 ANGERS (ci-après dénommée "PONY").
 
 ### POURQUOI VOS DONNÉES SONT-ELLES COLLECTÉES / TRAITÉES ?
 
@@ -49,7 +51,7 @@ créer votre compte personnel, qui vous permet d'accéder à l'application mobil
 
 procéder à vos paiements ;
 
-reconnaître et suivre votre position géographique ou la position de votre bicyclette ou de votre trottinette électrique Pony (le "Véhicule" ou les "Véhicules") ;
+reconnaître et suivre votre position géographique ou la position de votre bicyclette ou de votre trottinette électrique Pony (le "Véhicule" ou les "Véhicules") ;
 
 fournir un support aux utilisateurs et communiquer avec vous.
 
@@ -68,6 +70,8 @@ Pour les finalités précisées ci-avant, PONY peut procéder au traitement des 
 vos nom et prénom ;
 
 vos coordonnées (adresse, numéro de téléphone, adresse e-mail) ;
+
+votre date de naissance ;
 
 vos données de localisation par l'intermédiaire de votre smartphone ou via des "trackers" installés sur les Véhicules. Par exemple, pour vous proposer les Véhicules près de votre emplacement, il est nécessaire de collecter et d'enregistrer l'emplacement physique de votre appareil. Des données complémentaires telles que l'emplacement du Véhicule, les itinéraires empruntés par le Véhicule et son statut de location sont également nécessaires pour fournir les Services.
 
@@ -89,7 +93,7 @@ Les prestataires de services de PONY (tels que les prestataires de services info
 
 Les autorités judiciaires et administratives lorsque PONY est tenue de le faire en vertu de la loi applicable.
 
-### VOS DONNÉES SERONT-ELLES TRANSFÉRÉES EN DEHORS DE L'UNION EUROPÉENNE ?
+### VOS DONNÉES SERONT-ELLES TRANSFERÉES EN DEHORS DE L'UE ?
 
 Pour les finalités précisées ci-dessus, PONY peut être amenée à transférer vos données à caractère personnel à d'autres entités situées en dehors de l'Espace Économique Européen, dans des pays où la législation sur la protection des données à caractère personnel n'offre pas nécessairement le même niveau de protection ou dans des pays qui ne sont pas reconnus comme offrant un niveau de protection adéquat.
 
@@ -115,7 +119,7 @@ Veuillez également noter que, l'exercice de ces droits étant soumis à certain
 
 ### A QUI S'ADRESSER POUR TOUTE QUESTION ?
 
-Pour toute autre question concernant le traitement de vos données à caractère personnel ou l'exercice de vos droits tels que définis ci-dessus, vous pouvez contacter le Délégué à la Protection des Données de PONY, à cette adresse : [help@getapony.com](mailto:help@getapony.com)
+Pour toute autre question concernant le traitement de vos données à caractère personnel ou l'exercice de vos droits tels que définis ci-dessus, vous pouvez contacter le Délégué à la Protection des Données de PONY, à cette adresse : help@getapony.com
 
 ### INFORMATIONS SPÉCIFIQUES SELON LE PAYS CONCERNÉ
 
@@ -129,7 +133,7 @@ PONY peut mettre à jour la présente Politique de Confidentialité à tout mome
 
 Un cookie est une information envoyé par un serveur Internet à votre navigateur Internet, ce qui permet au serveur de recueillir des informations à partir du navigateur. Un cookie ne peut pas lire les données du disque dur de votre ordinateur.
 
-Si vous naviguez sur notre site internet getapony.com, des cookies seront placés sur votre appareil. Vous consentez à ces cookies si vous utilisez notre site internet.
+Si vous naviguez sur notre site internet [getapony.com](http://getapony.com/), des cookies seront placés sur votre appareil. Vous consentez à ces cookies si vous utilisez notre site internet.
 
 #### Pourquoi utilisons-nous des cookies ?
 
