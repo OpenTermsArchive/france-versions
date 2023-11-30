@@ -1,9 +1,9 @@
 Politique de confidentialité
 ============================
 
-Dernière mise à jour le 26 janvier 2022
+Dernière mise à jour le 30 novembre 2023
 
-Le Site www.cityscoot.eu, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro 800 862 021 dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L., domiciliée à Milan (Italie), Via Spezia 1 CAP 20142, enregistré sous le N° MI – 2525958 pour l’Italie (ci-après « Cityscoot » ou « Nous »). 
+Le Site www.cityscoot.eu, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro 800 862 021 dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington 52, CAP 20142, enregistré sous le N° MI – 2525958 pour l’Italie (ci-après « Cityscoot » ou « Nous »). 
 
 Cityscoot s’engage à protéger la vie privée de tous les visiteurs, Clients et Utilisateurs de ses Services. Elle s’engage à ce que la collecte et le traitement de vos données soient effectués conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi dite « Informatique et Libertés ».
 
