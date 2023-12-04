@@ -151,7 +151,7 @@ Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans un 
 
 Si le groupe tarifaire que vous avez réservé initialement n’est pas disponible pour le nouvel itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre nouvel itinéraire sera utilisé comme base de calcul. Si, à la date de la réservation de votre nouvel itinéraire, un tarif plus élevé aurait été appliqué, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons refuser de vous transporter si vous n’avez pas payé cette différence de prix.
 
-Le prix supplémentaire peut être demandé à tout moment en contactant notre [_​_call centre](https://www.austrian.com/fr/fr/help-and-contact) ou votre service de réservation.  
+Le prix supplémentaire peut être demandé à tout moment en contactant notre [_​_call centre](https://www.austrian.com/fr/fr/contact) ou votre service de réservation.  
 
 Veuillez envoyer vos demandes écrites à travers [_​_notre formulaire de contact](http://www.austrian.com/fr/fr/footer-pages/help-and-contact)  
 
@@ -180,7 +180,7 @@ Article 5 – Réservation des sièges
 ### 5.1. Conclusion du contrat de transport
 
 **5.1.1. Généralités  
-**Les réservations peuvent être effectuées en ligne sur notre site Internet www.austrian.com, via notre application officielle, par téléphone en appelant notre centre de réservation en composant le[_​_ +43 5 1766 1000](tel:0043517661000) (du lundi au samedi, de 8 h 00 à 20 h 00) ou sur place dans nos [_​_guichets](https://www.austrian.com/fr/fr/help-and-contact). Le contrat de transport qui nous lie est conclu une fois que vous nous avez proposé une offre ayant force d’obligation et que nous l’avons acceptée. Selon le type de réservation effectuée, des frais de gestion différents peuvent s’appliquer. Ils sont présentés à titre informatif uniquement sur la page des [_​_Frais de gestion](https://www.austrian.com/fr/fr/service-charges) et ne font pas partie du contrat.
+**Les réservations peuvent être effectuées en ligne sur notre site Internet www.austrian.com, via notre application officielle, par téléphone en appelant notre centre de réservation en composant le[_​_ +43 5 1766 1000](tel:0043517661000) (du lundi au samedi, de 8 h 00 à 20 h 00) ou sur place dans nos [_​_guichets](https://www.austrian.com/fr/fr/contact). Le contrat de transport qui nous lie est conclu une fois que vous nous avez proposé une offre ayant force d’obligation et que nous l’avons acceptée. Selon le type de réservation effectuée, des frais de gestion différents peuvent s’appliquer. Ils sont présentés à titre informatif uniquement sur la page des [_​_Frais de gestion](https://www.austrian.com/fr/fr/service-charges) et ne font pas partie du contrat.
 
 **5.1.2. Caractéristiques spécifiques lors de la réservation en ligne  
 **Lorsque vous effectuez une réservation sur le site www.austrian.com ou via notre application officielle, et que vous appuyez sur le bouton « Acheter maintenant » ou un champ à la désignation similaire, vous faites une offre ayant force d’obligation de conclusion du contrat de transport. Le présent Contrat de transport est conclu une fois la réservation de confirmation reçue. Le contrat est conclu lorsque la confirmation de réservation Austrian imprimable et enregistrable apparaît sur votre écran, ou lorsque la confirmation de réservation est envoyée à l’adresse e-mail que vous avez fournie (quelle que soit la première action).
