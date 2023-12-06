@@ -297,7 +297,7 @@ Nous ne transmettons pas vos données à caractère personnel à des tiers, sauf
 * les opérateurs de chats d'aide en direct et de centres d'appels ; 
 * les agences et autorités gouvernementales (par exemple, les données APIS (Advance Passenger Information System) à transmettre aux autorités compétentes des pays de vol respectifs ; TSA (Transportation Security Administration) pour échanger les données que vous avez fournies avec les autorités policières, les services de renseignement et d'autres organisations ; les autorités sanitaires belges pour fournir des données en réponse à leurs demandes, etc. 
 
-Conformément à la loi belge relative à l'utilisation des données des passagers, nous sommes obligés de transférer certaines données des passagers au gouvernement belge. De plus amples informations sont disponibles ici : [_​_https://crisiscentrum.be/nl/inhoud/belpiu-collection-and-processing-passenger-data](https://crisiscentrum.be/nl/inhoud/belpiu-collection-and-processing-passenger-data)   
+Conformément à la loi belge relative à l'utilisation des données des passagers, nous sommes obligés de transférer certaines données des passagers au gouvernement belge. De plus amples informations sont disponibles ici : [_​_https://centredecrise.be/fr/declaration-de-confidentialite​](https://centredecrise.be/fr/declaration-de-confidentialite)  
 
 * Les compagnies aériennes extérieures à Lufthansa Group, lorsqu'il existe un intérêt légitime poursuivi par nous ou par un tiers. Nous ne partagerons vos informations personnelles avec d'autres compagnies aériennes que si vos intérêts ou vos droits et libertés fondamentaux ne sont pas prépondérants et vous en serez toujours informé(e) de manière transparente (sauf en cas d'exceptions légales). 
 
