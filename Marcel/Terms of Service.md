@@ -423,7 +423,7 @@ Annexe : Frais d’Annulation et Frais d’Attente
 | À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC | 100% du prix de la course |
 | A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la course |
 | Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation | \-  |
-| Immédiat (plus de 5 min après la commande) | 13,5 € TTC | 21,5€ TTC | 21,5€ TTC | \-  |
+| Immédiat (plus de 5 min après la commande) | 15 € TTC | 21,5€ TTC | 21,5€ TTC | \-  |
 
 #### Frais d’Attente
 
