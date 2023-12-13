@@ -494,7 +494,7 @@ BlaBlaCar et/ou TotalEnergies Marketing France se réservent la possibilité à 
 
 ### 17.2. Conditions pour bénéficier de l’opération
 
-La Prime Covoiturage de 25 euros est valable jusqu’au 31 décembre 2024.
+La Prime Covoiturage de 25 euros est valable jusqu’au 31 décembre 2025.
 
 La Bonification à hauteur de 100 euros est valable uniquement pour les premiers Trajets éligibles publiés sur la Plateforme jusqu’au 31 décembre 2023, réalisés jusqu’au 28 janvier 2024 et dont le montant de la Participation aux Frais a pu être réglé au Conducteur le 31 janvier 2024 au plus tard. Les premiers Trajets éligibles publiés après le 31 décembre 2023, réalisés après le 28 janvier 2024 ou dont la date de règlement de la Participation aux Frais est postérieure au 31 janvier 2024 (y compris du fait de l’absence de coordonnées bancaires renseignées dans le compte ou d’une erreur menant à un rejet du paiement) ne pourront pas bénéficier de la Bonification à hauteur de 100 euros.
 
