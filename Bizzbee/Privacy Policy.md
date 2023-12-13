@@ -83,6 +83,10 @@ BZB s’engage à prendre toutes les mesures nécessaires pour assurer la protec
 
 Vous disposez à tout moment des droits d’accès, de rectification, d’effacement ou de portabilité de vos données personnelles, ainsi que des droits de limitation et d’objection au traitement de celles-ci. Vous pouvez également retirer votre consentement à tout moment.
 
+Avant d’envoyer de la publicité électronique par mail et SMS, nous nous assurons d’avoir obtenu votre consentement au préalable. Vous pouvez à tout moment vous désabonner des mails en bas de ce dernier et des campagnes SMS en répondant STOP au 36200.
+
+L'ajout de votre carte BZB à votre application Wallet génère l'envoi de notifications push afin de vous informer de votre solde de points, ainsi que de nos offres et promotions commerciales. Vous pouvez changer d'avis à tout moment, en désactivant les notifications directement dans les réglages de votre téléphone ou en supprimant votre carte BZB de l'application mobile.
+
 Vous pouvez également à tout moment nous fournir des instructions sur le sort que vous souhaitez réserver à vos données après votre décès.
 
 Vous pouvez exercer vos droits en nous écrivant à l’adresse suivante : BZB - Service Clients -152 Avenue Alfred Motte, 59100 Roubaix ou via notre formulaire de contact en ligne disponible en cliquant [ici](https://www.b-z-b.com/nous-contacter/) (rubrique « Protection des données personnelles »).
