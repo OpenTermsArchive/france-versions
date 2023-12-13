@@ -1,3 +1,5 @@
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
+
 Mise à jour du 26/04/2023
 
 Conditions générales d'utilisation et de vente Printemps.com
@@ -6,7 +8,7 @@ Conditions générales d'utilisation et de vente Printemps.com
 ===========================================================================================
 
 Préambule
----------
+=========
 
 PRINTEMPS SAS au capital de 50 000 000 € dont le siège social est situé 102 rue de Provence 75009 PARIS, immatriculée au RCS de Paris sous le numéro 503 314 767, numéro de TVA FR21503314767 (« **la Société** ») dispose d'un site internet de e-commerce, accessible à l'adresse [**www.printemps.com**](https://www.printemps.com/fr/fr) (« **le Site** »).
 
@@ -41,7 +43,7 @@ Conformément à l’article R.541-173 du Code de l’environnement, les identif
   
 
 Article 1 - Création de compte
-------------------------------
+==============================
 
 La création d'un compte est obligatoire pour bénéficier de toutes les offres privées, ventes privées ou toutes autres opérations commerciales réservées à la clientèle du Site.
 
@@ -90,7 +92,7 @@ En créant son compte, le Client accepte notre Politique de Protection des Donn�
 4. Renseignez votre ancien mot de passe puis le nouveau mot de passe, confirmez-le à nouveau et validez. Le Client est informé que son identifiant et son mot de passe sont personnels et confidentiels et à ce titre, il s'engage à conserver son mot de passe secret et à ne pas le divulguer à un tiers, à quelque titre que ce soit.
 
 Article 2 - commande
---------------------
+====================
 
 **2.1 PASSATION DE COMMANDE**
 
@@ -178,7 +180,7 @@ A défaut de disponibilité d'un ou plusieurs Produit(s) après passation de la 
 Une fois validé par le Client, le contenu de la commande n'est plus modifiable. Le Client peut toutefois modifier l'adresse de livraison ou annuler la commande si celle-ci n'a pas encore été préparée en contactant le service client. En cas d'annulation réussie, le Client ne sera pas débité.
 
 Article 3 - Expédition et livraison
------------------------------------
+===================================
 
 **3.1 EXPÉDITION DES COMMANDES**
 
@@ -451,7 +453,7 @@ Si l'anomalie est avérée et confirmée par la Société, le Client recevra, so
 Le cas échéant, le remboursement du Produit, des frais de livraison et des frais engagés pour le retour interviendront dans un délai de 14 jours à compter de la date à laquelle la Société aura confirmé au Client qu'il a droit audit remboursement conformément aux Garanties décrites à l'article 10.
 
 Article 4 - Paiement
---------------------
+====================
 
 **4.1 MOYENS DE PAIEMENT DISPONIBLES**
 
@@ -510,19 +512,19 @@ Une facture sous format électronique sera mise à disposition du Client sur le 
   
 
 Article 5 - Transfert des risques et de la propriété
-----------------------------------------------------
+====================================================
 
 La Société conserve la propriété des Produits jusqu'au règlement complet de la commande, c'est-à-dire à l'encaissement par la Société du prix intégral et des frais associés. Ces dispositions ne font pas obstacle au transfert au Client, à compter de leur réception, des risques de perte et de détérioration des Produits achetés ainsi que des dommages qu'ils pourraient occasionner.
 
 Article 6 - Propriété intellectuelle
-------------------------------------
+====================================
 
 Tous les textes, commentaires, photos, marques, illustrations et images reproduits sur le Site sont protégés tant au titre du droit d'auteur qu'au titre de la propriété intellectuelle. Ces éléments sont et demeurent la propriété exclusive de la Société ou du titulaire des droits de propriété intellectuelle concerné.
 
 Toute reproduction totale ou partielle du Site ou de l'un de ses éléments, sur quelque support que ce soit et pour quelque motif que ce soit, est strictement interdite.
 
 Article 7 - Droit de rétractation
----------------------------------
+=================================
 
 **7.1 DÉLAI DE RÉTRACTATION**
 
@@ -571,7 +573,7 @@ Pour plus d'informations sur les frais et modalités de retour, consultez la pag
   
 
 Article 8 - Retour, échange et remboursement
---------------------------------------------
+============================================
 
 **8.1 MODALITÉS DE RETOUR DES PRODUITS**
 
@@ -755,7 +757,7 @@ Si le Client a payé sa commande avec deux modes de paiement dont un bon d'achat
 En cas de réception d'un colis retour dont le contenu ne serait pas conforme à la demande de retour ou dont les articles ne respecteraient pas les conditions de retour mentionnées ci-dessus, la Société se réserve le droit d'exercer toutes actions de recouvrement correspondantes auprès du Client.
 
 Article 9 - Garanties
----------------------
+=====================
 
 Tous les Produits bénéficient de la garantie légale de conformité (articles L217-43 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes. Le Client est invité à ce titre à prendre contact avec la Société aux coordonnées mentionnées au sein de l’article 12.
 
@@ -979,14 +981,14 @@ La disponibilité ou la non-disponibilité des pièces détachées indispensable
   
 
 Article 10 - Politique de protection des données personnelles
--------------------------------------------------------------
+=============================================================
 
 La Société s'engage à être aussi ouverte et transparente que possible et à fournir au Client toutes les informations nécessaires sur la manière dont ses Données Personnelles (tel que ce terme est défini dans la Politique de Protection des Données) sont recueillies, utilisées et protégées lors de ses visites sur le Site.
 
 Pour plus d'information, le client est invité à prendre connaissance de notre [**Politique de Protection des Données**](https://www.printemps.com/fr/fr/protection-donnees-personnelles).
 
 Article 11 - Service client
----------------------------
+===========================
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
@@ -998,7 +1000,7 @@ En cas de difficulté survenant à l'occasion de la commande ou de la livraison 
 Le Client est informé qu’il peut s'inscrire sur une liste d'opposition au démarchage téléphonique sur le site bloctel.gouv.fr s’il ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique.
 
 Article 12 - Médiation
-----------------------
+======================
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, la Société adhère au Service du Médiateur de la consommation de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - https://www.mediateurfevad.fr. 
 
@@ -1013,12 +1015,12 @@ En conformité avec le règlement européen n°524/2013, le Client a également 
   
 
 Article 13 - Droit applicable et juridiction compétente
--------------------------------------------------------
+=======================================================
 
 Les présentes Conditions sont soumises au droit français. A défaut de règlement amiable, les litiges sont de la compétence exclusive des tribunaux français compétents, nonobstant pluralité de défendeurs et/ou appel en garantie, même pour les procédures d'urgence ou les procédures conservatoires en référé ou par requête.
 
 Article 14 - Force majeure
---------------------------
+==========================
 
 L'exécution par PRINTEMPS de toute ou partie de ses obligations, notamment d’expédition, sera suspendue en cas de survenance d'un cas fortuit ou de force majeure qui en gênerait ou en retarderait l'exécution.
 
@@ -1029,7 +1031,7 @@ PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force ma
   
 
 Article 15 – Classement des Produits
-------------------------------------
+====================================
 
 Les offres de Produits sur le Site sont présentées par le biais d’une barre de recherche thématique fonctionnant grâce à des mots clefs. 
 
@@ -1072,7 +1074,7 @@ Les Produits proposés sur le Site internet peuvent être triés selon plusieurs
   
 
 Annexe : Modèle de formulaire de droit de rétractation
-------------------------------------------------------
+======================================================
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat.)
 
