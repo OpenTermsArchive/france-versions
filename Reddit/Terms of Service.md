@@ -104,7 +104,7 @@ Lorsque vous utilisez les Services ou y accédez, vous devez vous conformer aux 
 * Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
     
 
-Nous vous encourageons à [signaler](https://reddit.zendesk.com/hc/fr/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).
+Nous vous encourageons à [signaler](https://support.reddithelp.com/hc/fr/sections/360008810132-Reporting) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).
 
 ### 8\. Modérateurs
 
@@ -204,7 +204,7 @@ Les présentes Conditions, ainsi que la [Politique de confidentialité](https://
 
 Les titres utilisés dans les présentes Conditions le sont à titre de référence uniquement et ne seront pas pris en considération pour l’interprétation. Aux fins des présentes Conditions : a) les mots « inclut », « incluent » et « y compris » seront réputés être suivis des mots « sans limitation » ; b) les mots « tel que », « par exemple », « par ex. » et tout dérivé de ces mots signifieront à titre d’exemple et les éléments qui suivent ces mots ne seront pas réputés constituer une liste exhaustive ; et c) le mot « ou » est utilisé dans le sens inclusif de « et/ou » et les termes « ou », « tout » et « l’un ou l’autre » ne sont pas exclusifs. Aucune ambiguïté ne sera interprétée en défaveur d’une partie sur la base d’une allégation selon laquelle la partie a rédigé le texte.  
   
-Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions concernant ces Conditions, [contactez-nous](https://support.reddithelp.com/hc/fr/requests/new) :  
+Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions concernant ces Conditions, [contactez-nous](https://support.reddithelp.com/hc/fr/requests/new?ticket_form_id=20794104097300) :  
   
 Reddit, Inc.  
 303 2nd Street, Suite 500S  
@@ -303,7 +303,7 @@ Lorsque vous utilisez Reddit ou que vous y accédez, vous devez vous conformer a
 * Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
     
 
-Nous vous encourageons à [signaler](https://support.reddithelp.com/hc/fr/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).  
+Nous vous encourageons à [signaler](https://support.reddithelp.com/hc/fr/sections/360008810132-Reporting) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un courriel à [security@reddit.com](mailto:security@reddit.com).  
 
 ### 8\. Modérateurs
 
@@ -391,7 +391,7 @@ Les présentes Conditions, ainsi que la [Politique de confidentialité](https://
 
 Les titres utilisés dans les présentes Conditions le sont à titre de référence uniquement et ne seront pas pris en considération pour l’interprétation. Aux fins des présentes Conditions : a) les mots « inclut », « incluent » et « y compris » seront réputés être suivis des mots « sans limitation » ; b) les mots « tel que », « par exemple », « par ex. » et tout dérivé de ces mots signifieront à titre d’exemple et les éléments qui suivent ces mots ne seront pas réputés constituer une liste exhaustive ; et c) le mot « ou » est utilisé dans le sens inclusif de « et/ou » et les termes « ou », « tout » et « l’un ou l’autre » ne sont pas exclusifs. Aucune ambiguïté ne sera interprétée en défaveur d’une partie sur la base d’une allégation selon laquelle la partie a rédigé le texte.  
   
-Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions concernant ces Conditions, [contactez-nous](https://support.reddithelp.com/hc/fr/requests/new).
+Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions concernant ces Conditions, [contactez-nous](https://support.reddithelp.com/hc/fr/requests/new?ticket_form_id=20794104097300).
 
 ### 18\. Coordonnées
 
