@@ -512,7 +512,7 @@ Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous rés
 * (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ; et
 * (xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
 
-L’ensemble de ces conditions doivent être remplies dans un délai de 8 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la Prime Covoiturage.
+L’ensemble de ces conditions doivent être remplies dans un délai de 6 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la Prime Covoiturage.
 
 Dans le cadre de la Bonification mentionnée ci-dessus, la Prime Covoiturage de 25 euros est portée, dans les conditions réglementaires, à 100 euros pour tout Conducteur réalisant 2 Trajets éligibles supplémentaires via la Plateforme dans un délai de trois (3) mois à compter de la réalisation du premier Trajet éligible. Cette prime vous est attribuée sous forme de virement bancaire ou sur votre compte PayPal, selon votre choix.
 
