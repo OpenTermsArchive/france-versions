@@ -18,7 +18,7 @@ Terms of Use for the Deezer Free Service
 
 Welcome to the Terms of Use for the Deezer Free Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”).
 
-The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 511 716 573, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
+The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
 To access and use the Deezer Free Service, the user must (i) be at least 16 years old (ii) register and create a personal account and (iii) at the time of registration, accept these conditions of use (including the Privacy Policy) (hereinafter the “Terms”) without reservation.
 
@@ -199,7 +199,7 @@ Terms of Use and Sale for the Deezer Web Service
 
 Welcome to the Terms of Use and Sale for the Deezer Web Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”).
 
-The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 511 716 573, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
+The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
 These conditions of use and sale (hereinafter the “Terms”) govern exclusively the Deezer Web Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site.
 
@@ -471,7 +471,7 @@ Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and 
 
 ### Article 1 – General
 
-Welcome to the Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 511 716 573, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
+Welcome to the Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
 These conditions of use and sale (hereinafter the “Terms”) govern exclusively the Deezer Premium Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site or the Application.
 
@@ -799,7 +799,7 @@ Terms of Use and Sale for the Deezer HiFi Service
 
 ### Article 1 – General
 
-Welcome to the Terms of Use and Sale for the Deezer HiFi Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 511 716 573, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
+Welcome to the Terms of Use and Sale for the Deezer HiFi Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
 These conditions of use and sale (hereinafter the “Terms”) alone govern the Deezer HiFi Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site or the Application.
 
