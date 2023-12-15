@@ -1,8 +1,8 @@
 Politique de protection des données personnelles
 ================================================
 
-En vigueur depuis le 30 Juin 2023
----------------------------------
+En vigueur depuis le 15 Décembre 2023
+-------------------------------------
 
 Politique de protection des données personnelles pour clients et passagers
 
@@ -346,7 +346,7 @@ Il est également possible que nous divulguions vos données personnelles aux en
     
 * Si vous êtes membre des programmes ON BUSINESS ou IBERIA PLUS ou d'un autre programme de fidélité associé, comme ceux appartenant à d'autres compagnies aériennes de l'ALLIANCE ONEWORLD, nous partagerons des informations avec nos partenaires pour la gestion conjointe du programme de fidélité auquel vous avez droit. Pour en savoir plus sur les membres de OneWorld, rendez-vous sur le site web officiel [www.oneworld.com](https://fr.oneworld.com/ "www.oneworld.com").
     
-* Des sociétés de cartes de crédit et de débit, des agences de rapports de crédit et des fournisseurs de services de prévention et de contrôle des fraudes, pour le traitement des paiements et pour effectuer ces tâches de prévention et de contrôle.
+* Des sociétés de cartes de crédit et de débit, des banques et des institutions financières, des agences de rapports de crédit et des fournisseurs de services de prévention et de contrôle des fraudes, pour le traitement des paiements et pour effectuer ces tâches de prévention et de contrôle. Dans certains cas, ils peuvent agir en tant que responsables du traitement des données indépendants. De plus amples informations sur chacun d'eux peuvent être obtenues sur demande.
     
 * Parmi ces derniers, sur la base de notre intérêt commercial légitime, nous pouvons partager les données collectées lors de votre processus d'achat ou de réservation de produits ou services sur notre site web avec Riskified Ltd., une entité de nationalité israélienne qui traitera vos données en tant que contrôleur de données indépendant, et conformément à sa propre politique de confidentialité, [www.riskified.com](https://www.riskified.com/terms/#privacy "Ir a: Riskified[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]") pour
     
@@ -426,6 +426,8 @@ Pour le reste des pays, vous pouvez envoyer un e-mail à notre Bureau de protect
 Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence espagnole de protection des données, en particulier si vous n'avez pas obtenu satisfaction dans l'exercice de vos droits, sur le site Web [www.aepd.es](https://www.aepd.es/es "Ir a: aepd[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").
 
 #### Versions précédentes
+
+[Politique de confidentialité en vigueur du 30/06/2023 au 15/12/2023](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477837959319&origin=6477837959319&modalTitle=Versi%C3%B3n+del+30-06-2023&url=%23&d= "Versión del 30-06-2023")
 
 [Politique de confidentialité en vigueur du 22/07/2022 au 30/06/2023](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477718873822&origin=6477718873822&modalTitle=Versi%C3%B3n+del+27-07-2022&url=%23&d= "Versión del 27-07-2022")
 
