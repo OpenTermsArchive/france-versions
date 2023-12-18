@@ -121,7 +121,7 @@ En cas de non-conformité du retour, le client pourra être contacté par le ser
   
 Comme prévu par l’art. 56 alinéa 3 du Décret législatif 206/2005, modifié par le Décret législatif 21/2014, le Vendeur peut suspendre le remboursement jusqu’à réception des biens ou jusqu’à ce que le Client démontre au Vendeur avoir effectivement procédé à l’expédition du retour des biens.  
   
-Le Vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat. Dans le cas d'un paiement en espèces, et dans la mesure où le Client a l'intention d’utiliser son délai de rétractation, celui-ci devra fournir ses coordonnées bancaires au Vendeur, en se rendant dans la section « Nous contacter » : l’IBAN, le code SWIFT et le BIC sont nécessaires pour effectuer le remboursement.  
+Le Vendeur procèdera au remboursement en utilisant le même moyen de paiement choisi par le Client lors de l’achat.  
   
 Les échanges ne sont pas possibles. Si le Client souhaite échanger les articles achetés, il devra procéder à un retour et effectuer une nouvelle commande.  
   
