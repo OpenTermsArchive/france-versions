@@ -156,7 +156,7 @@ BERSHKA (ci-dessous, « BERSHKA FRANCE ») :
 
 
 
-o Adresse postale: 22 Rue Bergère, 75 009 Paris, France.
+o Adresse postale: 80, Avenue des Terroirs de France, 75012 Paris, France.
 
 o E-mail du Délégué à la protection des données : dataprotection@bershka.com
 
@@ -220,17 +220,21 @@ localisation, le numéro d’identification du dispositif ou l’identifiant pub
 
 
 
-Quand nous vous demandons de saisir vos données personnelles pour permettre votre accès à l’une des
+des catégories spéciales de données pourraient s’avérer nécessaires (ex. : des données relatives à la santé
 
-fonctionnalités ou l’un des services de la Plateforme, n’oubliez pas que certaines cases seront marquées comme
+dans les cas où il serait nécessaire de gérer certains incidents tels que ceux en lien avec des produits
 
-obligatoires, puisqu’il s’agit de données dont nous avons besoin pour assurer le service en question ou pour vous
+cosmétiques).Quand nous vous demandons de fournir vos données personnelles pour permettre votre accès à
 
-permettre d’accéder à cette fonctionnalité. Ainsi, si vous décidez de ne pas nous fournir ces données, il est possible
+l’une des fonctionnalités ou l’un des services de la Plateforme, n’oubliez pas que certaines cases seront marquées
 
-que votre enregistrement comme utilisateur ne puisse pas être conclu avec succès ou que vous ne pourrez pas
+comme obligatoires, puisqu’il s’agit de données dont nous avons besoin pour assurer le service en question ou
 
-profiter de ces services ou de ces fonctionnalités.
+pour vous permettre d’accéder à cette fonctionnalité. Ainsi, si vous décidez de ne pas nous fournir ces données, il
+
+est possible que votre enregistrement comme utilisateur ne puisse pas être conclu avec succès ou que vous ne
+
+pourrez pas profiter de ces services ou de ces fonctionnalités.
 
 
 
@@ -264,9 +268,9 @@ FINALITÉ En savoir plus
 
 1. Pour gérer votre inscription
 
-comme utilisateur de la
+et votre identification comme
 
-Plateforme
+utilisateur de la Plateforme
 
 
 
@@ -298,10 +302,6 @@ Vous pouvez vous connecter ou vous identifier par l’intermédiaire d’un
 
 réseau social ou d’un autre partenaire qui active ce service (login social)
 
-lorsque cette option est disponible sur notre page de connexion, soit pour
-
-lier la connexion à votre compte soit pour créer un nouveau compte. Dans
-
 4
 
 
@@ -309,6 +309,10 @@ lier la connexion à votre compte soit pour créer un nouveau compte. Dans
 FINALITÉ En savoir plus
 
 
+
+lorsque cette option est disponible sur notre page de connexion, soit pour
+
+lier la connexion à votre compte soit pour créer un nouveau compte. Dans
 
 ce cas, vos identifiants de connexion, ainsi que votre nom et votre e-
 
@@ -339,6 +343,16 @@ paramètres de confidentialité et les politiques de confidentialité du
 partenaire ou réseau social afin de savoir comment ces tiers traitent vos
 
 données.
+
+
+
+En ce qui concerne votre identification sur notre Plateforme, plusieurs
+
+méthodes peuvent être disponibles. Cependant il peut être nécessaire que
+
+vous passiez par un processus qui vérifie que vous êtes le propriétaire des
+
+données de contact que vous utilisez.
 
 
 
@@ -412,6 +426,14 @@ fraudes contre vous-mêmes et/ou contre nous, par exemple). Si
 
 nous pensons que la transaction peut être frauduleuse ou si nous
 
+5
+
+
+
+FINALITÉ En savoir plus
+
+
+
 décelons un comportement inhabituel qui indique une tentative
 
 d’utilisation frauduleuse de nos fonctionnalités, produits ou
@@ -425,14 +447,6 @@ transaction ou de supprimer votre compte d’utilisateur.
 ▪ Gérer d’éventuels échanges ou retours après l’achat et gérer des
 
 demandes d’information sur la disponibilité d’articles, la
-
-5
-
-
-
-FINALITÉ En savoir plus
-
-
 
 réservation de produits par le biais de la Plateforme, ou vous
 
@@ -460,15 +474,21 @@ clients dans les magasins physiques.
 
 
 
-▪ Pour être en mesure de vous proposer, par le biais de l’Appli, des
+▪ Pour être en mesure de vous proposer des services personnalisés
 
-services spécifiques (tels que la recherche d’articles, la réservation
+spécifiques (tels que la recherche d’articles, la réservation d’une
 
-d’une cabine d’essayage, etc.) disponibles dans certains magasins
+cabine d’essayage, etc.) disponibles dans certains magasins
 
 physiques, nous pouvons traiter vos données de localisation et de
 
 contact.
+
+
+
+▪ Enfin, nous pouvons traiter vos données afin de respecter des
+
+obligations légales qui pourraient être applicables.
 
 
 
@@ -530,6 +550,12 @@ votre profil utilisateur (en fonction de votre historique d’achat et de
 
 navigation, par exemple).
 
+6
+
+
+
+FINALITÉ En savoir plus
+
 
 
 ▪ Si vous êtes abonné à notre Newsletter, nous traiterons vos
@@ -551,14 +577,6 @@ votre dispositif mobile.
 ▪ Nous voulons donc attirer votre attention sur le fait que ce
 
 traitement de données comporte l’analyse de votre profil
-
-6
-
-
-
-FINALITÉ En savoir plus
-
-
 
 d’utilisateur ou de client pour déterminer quelles sont vos
 
@@ -642,6 +660,14 @@ nos partenaires. À cet effet nous collaborons avec ces tiers qui
 
 nous offrent la technologie nécessaire (comme par exemple,
 
+7
+
+
+
+FINALITÉ En savoir plus
+
+
+
 cookies, pixels, SDK (kit de développement logiciel)) pour utiliser
 
 ces services. Sachez que nous pouvons avoir besoin de leur
@@ -657,14 +683,6 @@ renseignements à ce sujet, veuillez consulter notre Politique sur
 les cookies. De même, vous pouvez réinitialiser votre identifiant
 
 publicitaire ou désactiver les publicités personnalisées sur votre
-
-7
-
-
-
-FINALITÉ En savoir plus
-
-
 
 dispositif en réglant vos préférences dans la section Paramètres
 
@@ -696,21 +714,21 @@ cas, par exemple, lorsque nous combinons vos informations, si
 
 vous avez un compte enregistré et, en utilisant la même adresse e-
 
-mail associée à votre compte, vous effectuez un achat en tant
+mail ou le numéro de téléphone associés à votre compte, vous
 
-qu’invité, ou lorsque nous associons les informations qui sont
+effectuez un achat en tant qu’invité, ou lorsque nous associons les
 
-collectées automatiquement (comme les adresses IP et MAC ou les
+informations qui sont collectées automatiquement (comme les
 
-métadonnées) avec les informations que vous nous avez fournies
+adresses IP et MAC ou les métadonnées) avec les informations que
 
-directement par le biais de votre activité sur la Plateforme ou dans
+vous nous avez fournies directement par le biais de votre activité
 
-l’un de nos magasins (par exemple, des informations liées à vos
+sur la Plateforme ou dans l’un de nos magasins (par exemple, des
 
-achats, aussi bien dans des magasins physiques qu’en ligne, vos
+informations liées à vos achats, aussi bien dans des magasins
 
-préférences, etc.)
+physiques qu’en ligne, vos préférences, etc.)
 
 
 
@@ -744,6 +762,12 @@ manière publique, si vous nous donnez votre consentement pour le
 
 faire.
 
+8
+
+
+
+FINALITÉ En savoir plus
+
 
 
 5\. Analyse d’utilisabilité et de
@@ -756,9 +780,9 @@ services
 
 Si vous accédez à notre Plateforme, vous êtes informé que nous traiterons
 
-vos données de navigation à des fins d’analyse et statistiques, c’est-à-
+vos données à des fins d’analyse et statistiques, c’est-à-dire pour
 
-dire pour comprendre la façon dont les utilisateurs interagissent avec notre
+comprendre la façon dont les utilisateurs interagissent avec notre
 
 Plateforme et avec les actions mises en œuvre sur d'autres sites et applis,
 
@@ -773,8 +797,6 @@ De même, nous réalisons parfois des actions et des enquêtes de qualité
 destinées à connaître le degré de satisfaction de nos clients et utilisateurs
 
 et pour détecter les domaines dans lesquels améliorer nos performances.
-
-8
 
 
 
@@ -794,21 +816,23 @@ Finalité Fondement
 
 
 
-1\. Gérer votre inscription
+1\. Gérer votre inscription et
 
-comme utilisateur de la
+votre identification comme
 
-Plateforme
+utilisateur de la Plateforme
 
 
 
 Le traitement de vos données est nécessaire pour l’exécution des termes
 
-régissant l’utilisation de la Plateforme. Autrement dit, le traitement de vos
+régissant l’utilisation de l’Appli et du Site Internet. Autrement dit, le
 
-données personnelles est nécessaire pour vous inscrire comme utilisateur
+traitement de vos données personnelles est nécessaire pour vous inscrire
 
-de la Plateforme, sinon cette inscription ne pourrait pas être gérée.
+comme utilisateur de la Plateforme, sinon cette inscription ne pourrait pas
+
+être gérée.
 
 
 
@@ -828,6 +852,12 @@ consentement donné au moment d’autoriser la cession de vos données
 
 depuis le réseau social.
 
+9
+
+
+
+Finalité Fondement
+
 
 
 2\. Mise en œuvre, application
@@ -842,7 +872,11 @@ Le traitement de vos données personnelles est nécessaire pour l’exécution
 
 du contrat d’achat ou de prestation de services à travers lequel nous
 
-sommes liés.
+sommes liés. Cela comprend les données de contact que nous traitons afin
+
+de vous fournir les tickets électroniques de vos achats dans les Magasins
+
+physiques et de vous faciliter les opérations avec ces tickets.
 
 
 
@@ -854,21 +888,19 @@ autorisez, comme dans le cas de la conservation des données de paiement
 
 pour de futurs achats ou le traitement de données nécessaire pour scanner
 
-les tickets d’achats à travers la section Wallet de l’appli ou pour vous fournir
+les tickets d’achats à travers la section Wallet de l’appli ou pour vous
 
-les fonctionnalités Bientôt disponible / Prochainement, lorsque ces
+informer de la disponibilité de nos produits, lorsque ces fonctionnalités sont
 
-fonctionnalités sont disponibles. Dans ces cas, la base sur laquelle nous
+disponibles. Dans ces cas, la base sur laquelle nous traitons vos données
 
-traitons vos données personnelles est votre propre consentement. En
+personnelles est votre propre consentement. En outre, nous traitons vos
 
-outre, nous traitons vos données de localisation lorsque vous nous
+données de localisation lorsque vous nous fournissez votre consentement,
 
-fournissez votre consentement, afin de vous proposer des services
+afin de vous proposer des services spécifiques via l’Appli lors de la visite de
 
-spécifiques via l’Appli lors de la visite de certains de nos magasins
-
-physiques.
+certains de nos magasins physiques.
 
 
 
@@ -893,12 +925,6 @@ nos clients et la société en général, car il protège aussi leur intérêt e
 garantissant que les activités frauduleuses sont découragées et détectées
 
 lorsqu'elles surviennent.
-
-9
-
-
-
-Finalité Fondement
 
 
 
@@ -932,7 +958,21 @@ base du respect des obligations juridiques qui nous engage.
 
 
 
-4\. Marketing La base légitime pour traiter vos données à des fins de marketing est le
+Dans certains cas, en lien avec des réclamations de produit, le traitement
+
+de données pourrait être nécessaire afin de garantir l’intérêt public au sein
+
+de la santé publique.
+
+10
+
+
+
+Finalité Fondement
+
+
+
+4. Marketing La base légitime pour traiter vos données à des fins de marketing est le
 
 consentement que vous nous donnez, par exemple en acceptant de
 
@@ -988,7 +1028,7 @@ votre intérêt puisque sa finalité est d’améliorer l’expérience d’util
 
 d’offrir un service de meilleure qualité.
 
-10
+11
 
 
 
@@ -1008,11 +1048,11 @@ Finalité Durée de conservation
 
 
 
-1\. Gérer votre inscription
+1\. Gérer votre inscription et
 
-comme utilisateur de la
+votre identification comme
 
-Plateforme
+utilisateur de la Plateforme
 
 
 
@@ -1024,7 +1064,7 @@ supprimer votre compte d’utilisateur).
 
 
 
-2. La mise en œuvre,
+2\. La mise en œuvre,
 
 l’application et l’exécution du
 
@@ -1034,11 +1074,11 @@ contrat d’achat ou de services
 
 Nous traiterons vos données pendant le temps nécessaire pour gérer
 
-l’achat des produits ou des services que vous avez achetés, y compris tous
+l’achat des produits ou des services, y compris tous éventuels retours,
 
-éventuels retours, plaintes ou réclamations associés à l’achat du produit ou
+plaintes ou réclamations associés à l’achat du produit ou du service en
 
-du service en particulier.
+particulier.
 
 
 
@@ -1054,7 +1094,9 @@ futurs achats (lorsque cette fonction est disponible).
 
 3\. Service client Nous traiterons vos données pendant le temps nécessaire pour répondre à
 
-votre requête ou votre demande.
+votre requête ou votre demande, ainsi que durant la durée établie dans les
+
+textes réglementaires qui pourraient être applicables dans chaque cas.
 
 
 
@@ -1100,7 +1142,7 @@ suite au traitement, en exécution de la réglementation en vigueur à chaque mo
 
 suppression des données personnelles une fois que les éventuelles actions de chaque cas seront prescrites.
 
-11
+12
 
 
 
@@ -1133,6 +1175,10 @@ et/ou leurs établissements partenaires,
 agences de publicité, des partenaires publicitaires ou des réseaux sociaux qui, dans certains cas,
 
 peuvent agir comme des responsables conjoints.
+
+
+
+▪ autorités publiques
 
 
 
@@ -1188,7 +1234,7 @@ objectifs décrits au paragraphe 2. Nous considérons que cela est nécessaire c
 
 à nos intérêts communs.
 
-12
+13
 
 
 
@@ -1298,7 +1344,7 @@ format structuré, d’utilisation courante et lisible par une machine, afin de 
 
 autre entité, pour autant que cela soit techniquement possible.
 
-13
+14
 
 
 
