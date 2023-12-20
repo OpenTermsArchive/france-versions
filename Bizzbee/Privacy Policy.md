@@ -17,16 +17,12 @@ BZB collecte, traite et conserve vos données personnelles pour les différents 
     \- De l’exécution des commandes en ligne ou encore des réservations magasin : livraison, retour, remboursement ;  
     \- De l’organisation de jeux concours ;  
     \- De la publication de vos posts instagram sur la galerie BZBXME.
-* A des fins d’intérêts légitimes d’amélioration constante de la pertinence des messages qui vous sont adressés et de la qualité de ses produits et services, dans le cadre :  
-    \- De la gestion de nos communications relatives aux produits, offres et événements BZB afin de vous proposer des communications adaptées à vos centres d’intérêts ;  
+* A des fins d’intérêts légitimes d’amélioration constante de la pertinence des messages qui vous sont adressés et de la qualité de ses produits et services,sur la base de votre consentement dans le cadre :  
+    \- De la gestion de nos communications relatives aux produits, offres et événements BZB afin de vous proposer des communications adaptées à vos centres d’intérêts  
     \- De la réalisation d’études statistiques et l’analyse de vos habitudes d’achats afin de mieux cerner vos centres d’intérêts ;  
     \- De la mesure du niveau de satisfaction des clients, afin de satisfaire vos attentes ;  
-    \- Du traitement de vos demandes adressées au service client, afin de pouvoir vous répondre.
-* A des fins d’intérêts légitimes d’amélioration constante de la pertinence des messages qui vous sont adressés et de la qualité de ses produits et services, dans le cadre :  
-    \- De la gestion de nos communications relatives aux produits, offres et événements BZB afin de vous proposer des communications adaptées à vos centres d’intérêts ;  
-    \- De la réalisation d’études statistiques et l’analyse de vos habitudes d’achats afin de mieux cerner vos centres d’intérêts ;  
-    \- De la mesure du niveau de satisfaction des clients, afin de satisfaire vos attentes ;  
-    \- Du traitement de vos demandes adressées au service client, afin de pouvoir vous répondre.
+    \- Du traitement de vos demandes adressées au service client, afin de pouvoir vous répondre.  
+    \- certains traitements sont fondés sur le consentement.
 * Pour assurer le respect de nos obligations légales et réglementaires telles que définies par la législation en vigueur notamment dans le cadre de la gestion des demandes d’exercice des droits en matière de protection des données personnelles.
 
 **2\. Quelles données personnelles sont collectées ?**  
@@ -53,7 +49,7 @@ Vos données peuvent également être accessibles à des prestataires externes o
 * Nos sous-traitants logistiques (préparation des commandes, livraison, e-réservation…) ;
 * Nos sous-traitants de paiement (prévention de la fraude, prise en charge du paiement…) ;
 * Nos sous-traitants en charge de la relation client (réponse à vos demandes, avis produit, enquête de satisfaction…) ;
-* Nos sous-traitants marketing (opérations de prospections, gestion des jeux concours, régies publicitaires, recommandations & personnalisation...).
+* Nos sous-traitants marketing (opérations de prospections, gestion des jeux concours, régies publicitaires, recommandations & personnalisation, dématérialisation de la carte de fidélité...).
 
 Les sous-traitants de BZB agissent pour le compte de BZB et conformément à nos instructions. Certains d’entre eux sont susceptibles d’être situés dans des pays qui n’offrent pas le même niveau de protection des données personnelles que les pays de l’Union Européenne. BZB s’assure que ces transferts sont encadrés par des mécanismes de garanties appropriées notamment par la signature de clauses contractuelles types de protection des données adoptées par la Commission européenne.  
   
