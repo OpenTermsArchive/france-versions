@@ -306,7 +306,7 @@ En cas de demande de la part des autorités, le passager doit fournir ou faire p
   
 Bien qu’aucune déclaration spéciale ne soit exigée pour le transport de médicaments injectables, il est conseillé au passager de se faire accompagner de documents (déclaration médicale ou tout autre document pertinent) attestant de la nécessité de transporter des LAG (liquides, aérosols et gels) pendant le voyage afin que le contrôle de sûreté soit plus aisé et plus rapide.   
   
-**Pour plus d’informations, veuillez contacter :** Courriel: [falsec@inac.pt](mailto:falsec@inac.pt)  
+**Pour plus d’informations, veuillez contacter :** Courriel: [\[email protected\]](https://www.flytap.com/cdn-cgi/l/email-protection)  
 Fax : (+351) 21 842 35 87   
 Adresse : Rua B, Edifício 4 - Aeroporto da Portela 4   
 1749-034 Lisbonne - PORTUGAL
