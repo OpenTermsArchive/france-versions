@@ -666,7 +666,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
  A réception de votre demande de rétractation et si celle-ci est conforme aux CGV, CDISCOUNT vous proposera :  
   
-\-          un bon prépayé pour retourner le produit concerné. Le cas échéant, le montant de ce bon prépayé sera déduit du remboursement opéré par CDISCOUNT au titre de la rétractation.  
+\-          un bon prépayé pour retourner le produit concerné. Le cas échéant, le montant de ce bon prépayé sera déduit du remboursement opéré par CDISCOUNT au titre de la r��tractation.  
   
 \-          soit de retourner le produit concerné par vos soins.
 
@@ -1762,7 +1762,7 @@ ARTICLE 1 – CHAMP D’APPLICATION**
   
 Les présentes conditions générales de précommande s’appliquent à toute commande passée à distance comprenant un ou plusieurs produits en précommande par une personne physique disposant de la capacité juridique et agissant à titre personnel en qualité de consommateur auprès de CDISCOUNT, soit directement sur le site internet de CDISCOUNT accessible à l’adresse suivante : www.cidscount.com, soit par l’intermédiaire d'une application CDISCOUNT pour smartphones ou tablettes (ci-après, ensemble le « Site »), soit par téléphone au 3979 (0.70cts€/ min + prix de l'appel).  
   
-Les produits en précommande sont les produits identifi��s comme tels sur le Site dans le magasin Jeux Vidéos (ci-après les « Produits Jeux Vidéos ») et dans le magasin Téléphonie (ci-après les « Produits Téléphonie ») du Site et vendus uniquement par Cdiscount (hors produits vendus sur la Marketplace de Cdiscount) (ci-après ensemble les « Produits en Précommande »).  
+Les produits en précommande sont les produits identifiés comme tels sur le Site dans le magasin Jeux Vidéos (ci-après les « Produits Jeux Vidéos ») et dans le magasin Téléphonie (ci-après les « Produits Téléphonie ») du Site et vendus uniquement par Cdiscount (hors produits vendus sur la Marketplace de Cdiscount) (ci-après ensemble les « Produits en Précommande »).  
   
 Les présentes conditions générales de précommande font parties intégrantes des CGV, l’acceptation entière, sans réserve et sans condition des CGV entraîne l’acceptation dans les mêmes conditions des présentes.  
   
