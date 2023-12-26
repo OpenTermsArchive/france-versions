@@ -1,6 +1,6 @@
 CONDITIONS GÉNÉRALES DE VENTE
 
-Version du 16 Novembre 2023
+Version du 7 décembre 2023
 
 Bienvenue sur le marché en ligne de Shein France.
 
@@ -27,7 +27,7 @@ Si Vous souhaitez passer une commande vers un autre pays Européen Vous serez re
 
 Pour pouvoir effectuer une commande sur le Site, le Client déclare être âgé d’au moins 18 ans. Il est précisé que les Produits sont destinés à une utilisation personnelle du Client, sans aucun rapport direct avec son activité professionnelle. Le Client s’engage à ne pas procéder à des achats de Produits en vue de les revendre.
 
-Avant d'effectuer un achat, le Client sera invité à lire attentivement les présentes CGV, à les [imprimer](https://shein.ltwebstatic.com/advertise/shein/fr/2023-07-27-FR-TC.pdf) ou à les sauvegarder électroniquement et à les accepter. Le fait pour un Client de passer une commande implique son acceptation expresse et sans réserve tant des présentes Conditions Générales de Vente que des Conditions Générales d'Utilisation applicables à l'utilisation de la Marketplace (ci-après dénommées conjointement **" T&Cs "** ), sauf dans la mesure où cela serait contraire à la loi. Les CGV peuvent être modifiées à tout moment par SHEIN. En tout état de cause, les CGV applicables sont celles en vigueur au moment de la passation de la commande par le Client. . Il incombe au Client de vérifier les CGV en cas de modification à chaque fois qu'il utilise la Marketplace.
+Avant d'effectuer un achat, le Client sera invité à lire attentivement les présentes CGV, à les [imprimer](https://shein.ltwebstatic.com/advertise/shein/fr/2023-12-07-French-site-FR-TC.pdf) ou à les sauvegarder électroniquement et à les accepter. Le fait pour un Client de passer une commande implique son acceptation expresse et sans réserve tant des présentes Conditions Générales de Vente que des Conditions Générales d'Utilisation applicables à l'utilisation de la Marketplace (ci-après dénommées conjointement **" T&Cs "** ), sauf dans la mesure où cela serait contraire à la loi. Les CGV peuvent être modifiées à tout moment par SHEIN. En tout état de cause, les CGV applicables sont celles en vigueur au moment de la passation de la commande par le Client. . Il incombe au Client de vérifier les CGV en cas de modification à chaque fois qu'il utilise la Marketplace.
 
 Le Client comprend et accepte que les conditions suivantes de la Marketplace font partie intégrale des présentes :
 
