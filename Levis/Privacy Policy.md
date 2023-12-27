@@ -327,30 +327,4 @@ Si vous avez des questions ou des préoccupations concernant la Politique de con
   
   
   
-Pour demander une copie de la dernière version remplacée de notre politique de confidentialité, envoyez un e-mail à [privacy@levi.com](mailto:privacy@levi.com).  
-
-Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
-
-LA VIE EST PLUS SYMPA QUAND ON EST MEMBRE DU PROGRAMME LEVI’S® RED TAB™
-
-Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
-
-Hide PasswordHide Password
-
-Les mots de passe doivent contenir au moins 8 caractères et être difficiles à deviner - les mots de passe couramment utilisés ou risqués ne sont pas autorisés.
-
-Surprise d’anniversaire (facultatif)
-------------------------------------
-
-Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
-
-10 %, ça vous tente ?
----------------------
-
-10 % sur votre prochaine commande si vous vous abonnez à notre newsletter. Uniquement pour les nouveaux abonnés. Désabonnement possible à tout moment.
-
-Je m’abonne !Non, merci !
-
-By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
-
-Nous rejoindre[Se connecter avec un compte existant](javascript:;)
+Pour demander une copie de la dernière version remplacée de notre politique de confidentialité, envoyez un e-mail à [privacy@levi.com](mailto:privacy@levi.com).
