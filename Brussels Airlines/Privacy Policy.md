@@ -342,7 +342,7 @@ La période de conservation peut également être plus longue, par exemple pour 
 
 Tous les détails concernant les informations sur la protection des données de Travel ID sont énumérés sur la page suivante.
 
-[En savoir plus sur Travel ID](https://www.brusselsairlines.com/fr/fr/legal-notices/travel-id/terms-of-use)
+[En savoir plus sur Travel ID](https://www.brusselsairlines.com/fr/fr/legal-notices/travel-id)
 
 **Date de dernière mise à jour : Mai 2023  
 **
