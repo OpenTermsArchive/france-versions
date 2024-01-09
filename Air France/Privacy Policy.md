@@ -1,6 +1,11 @@
 Air France privacy policy
 =========================
 
+Our commitment to privacy protection
+------------------------------------
+
+Air France is committed to offering its customers a unique travel experience all while respecting their right to privacy. Our privacy policy is designed to give you a better understanding of how we use your personal data, what safeguards we have in place, and how you can exercise your rights. • We always process your data in accordance with EU data protection rules and other applicable privacy legislation in order to protect it from unauthorized access and ensure the security of data transfers. • We are transparent about how we use the data we collect. • We clearly explain the benefits of sharing your data and we tailor our communication to your needs and preferences. • We do it in easy-to-understand language all along your journey with Air France and its partner airlines. • We put you in control of your data and use your feedback to continuously improve. • We guarantee the security of your data. In the unlikely event that your data has been breached, we will stop the leak as soon as possible and inform your immediately. • If we need to share your data outside of our organization to help us improve our services and better understand your needs, we will indicate it explicitly in our privacy policy. We will not sell or lend any of your personal data to any external organization without your consent. • We can be trusted with your data and we take measures to protect your personal information and ensure its security.
+
 Protection of your personal data
 --------------------------------
 
