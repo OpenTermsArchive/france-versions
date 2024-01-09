@@ -5,7 +5,7 @@ Terms of Use
 
 * [Terms of Use for the Deezer Free Service](#cgu_free)
 * [Terms of Use and Sale for the Deezer Web Service](#cgu_web)
-* [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service](#cgu_premium)
+* [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service](#cgu_premium)
 * [Terms of Use and Sale for the Deezer HiFi Service](#cgu_hifi)
 * [Terms of Use for Deezer for Developers](#cgu_developers)
 
@@ -466,20 +466,20 @@ In the event of a dispute, the parties will try to reach an amicable agreement b
 
 ﻿
 
-Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service
-------------------------------------------------------------------------------------------------------
+Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service
+------------------------------------------------------------------------------------------------------------------------------
 
 ### Article 1 – General
 
-Welcome to the Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service and Deezer Student Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
+Welcome to the Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
 These conditions of use and sale (hereinafter the “Terms”) govern exclusively the Deezer Premium Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site or the Application.
 
-The purpose of these Terms is to define the contractual and commercial relationship between DEEZER, on the one hand, and any subscriber to the Deezer Premium Service, Deezer Family Service and Deezer Student Service (hereinafter the “Subscriber”), on the other hand.
+The purpose of these Terms is to define the contractual and commercial relationship between DEEZER, on the one hand, and any subscriber to the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service (hereinafter the “Subscriber”), on the other hand.
 
-The use of the Site and of the Deezer Premium Service, Deezer Family Service and Deezer Student Service is authorised for personal and private use only, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
+The use of the Site and of the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service is authorised for personal and private use only, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
 
-Subscription and access to the Deezer Premium Service, Deezer Family Service and Deezer Student Service are strictly dependent on prior acceptance of all of these Terms (including the Privacy Policy) without restriction or reservation.
+Subscription and access to the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service are strictly dependent on prior acceptance of all of these Terms (including the Privacy Policy) without restriction or reservation.
 
 ### Article 2 – Presentation of the Deezer Premium Service
 
@@ -791,6 +791,28 @@ Finally, the holder of a Deezer Family Service master account is not eligible to
 The Deezer Student Service is available for a maximum of twelve consecutive months and can be renewed up to three times per Subscriber; each renewal period is limited to twelve consecutive months. If the Deezer Student Service is cancelled for whatever reason at any time, such cancellation is permanent and the Subscriber will no longer be eligible for the Deezer Student Service.
 
 At the end of the Deezer Student Service (including if the subscription is not renewed by the Subscriber), the Deezer Student Service shall be automatically converted into a full price Deezer Premium subscription. As a result, the Subscriber will be charged for the full price of the monthly Deezer Premium Service until cancellation of his/her subscription; the Subscriber is hereby informed that he/she can cancel his/her subscription at any time, as per the cancellation terms hereunder.
+
+### Article 20 – Specific conditions for the Deezer Duo Service
+
+These Terms, which govern the Deezer Premium Service provided by DEEZER, also apply in full to the Deezer Duo Service (as defined below), except for the specific provisions below. The Deezer Duo Service may only be accessible to certain users and/or within certain territories. You may not be offered to subscribe to this offer in your country.
+
+The Deezer Duo Service enables the members of the same household to access the Deezer Duo Service by creating a master account to which another account or a profile can be linked. The linked profile will be created by the Subscriber, who shall have parental authority or parental authorisation in order to create a profile for a minor under 16. The linked account will be invited by the master account via email. The user of such a linked account or profile benefits from the same features as provided by the Deezer Premium Service, except for the community features. All users of the Deezer Duo Service can access and use the service simultaneously.
+
+However, it is hereby specified that in accordance with the agreements in effect between DEEZER and the rights-holders, some tracks available in the Deezer Premium Service music catalogue may not be available through the Deezer Duo Service. As a result, the Subscriber who has signed up for the Deezer Duo Service would lose access to such tracks on all his/her accounts including the one created to access his/her Deezer Premium Service subscription.
+
+The Deezer Duo Service subscription and its use are restricted to members of the same household residing at the same address. Therefore, DEEZER reserves the right, at its discretion, to ask the Subscriber at any time for proof that this requirement is fulfilled.
+
+Subscription to the Deezer Duo Service is not available for any person who uses as means of payment an old version of the Paypal app.
+
+Deezer Premium subscribers who wish to subscribe to the Deezer Duo Service are informed that by subscribing to the Deezer Duo Service, they will be charged immediately for the amount of the monthly subscription fee for the Deezer Duo Service and at the same time, their subscription to the Deezer Premium Service will be cancelled automatically by DEEZER. Any current monthly subscription to the Deezer Premium Service already paid for will not be refunded.
+
+In respect of the Deezer Duo Service, the Subscriber who holds the master account is liable for compliance by the other user of the linked account or profile with the Terms.
+
+In respect of the Deezer Duo Service, temporary downloading is available for the master account on up to three (3) authorised devices and on up to two (2) authorised devices for each linked account or profile.
+
+The Deezer Duo Service is available through only one connection per account or profile at a time. DEEZER implements technical measures to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections. The linked account can be created and deleted through the “Settings” page of the master account. Access to the Deezer Duo Service for the user of the linked account or profile is available through the “Settings” page of the master account.
+
+Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend and/or cancel, without notice or compensation, access to the Deezer Duo Service by a Subscriber as provided for in Article 13 of the Terms, if the Subscriber or one the user of a linked account or profile does not comply with the Terms.
 
 ﻿
 
