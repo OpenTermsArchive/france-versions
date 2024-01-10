@@ -1,7 +1,7 @@
 Protection de la vie privée & Cookies
 =====================================
 
-Cette page comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr).  
+Cette page comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [vertbaudet.fr](https://www.vertbaudet.fr/).  
   
 
 DEFINITIONS
