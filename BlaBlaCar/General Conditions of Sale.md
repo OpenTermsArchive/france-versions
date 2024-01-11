@@ -221,7 +221,7 @@ Lorsque vous utilisez la Plateforme pour des Trajets transfrontaliers ou hors de
 
 ### 5.3. Arrondis
 
-Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, arrondir au chiffre inférieur ou supérieur les Frais de Service et la Participation aux Frais.
+Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, arrondir au chiffre entier ou décimal inférieur ou supérieur les Frais de Service et la Participation aux Frais.
 
 ### 5.4. Modalités de paiement et de reversement de la Participation aux Frais au Conducteur ou du Prix au Autocaristes
 
