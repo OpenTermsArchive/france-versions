@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 16/05/2023
+Version : 11/01/2024
 
 ### 1 Champ d’application
 
@@ -124,7 +124,7 @@ Cet avoir, non remboursable, sera valable 12 mois et pourra être utilisé pour 
   
 **5.6** L'ensemble des [frais d’annulation](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) ou de modification n'est pas applicable lorsque le remboursement est demandé en raison de circonstances qui relèvent de la responsabilité de la société Flix ou de ses filiales
 
-**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à Flix ou FlixBus DACH, adresse postale Flix SE, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Karl-Liebknecht-Straße 33, 10178 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est Flix SE ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
+**5.7** Si un billet pour lequel les filiales de FlixBus sont des transporteurs n’est pas utilisé pour le voyage, le prix du billet sera remboursé sur présentation du billet moins les [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) par voyage et par passager, sauf si ce dernier peut prouver qu’il a subi un ou des préjudices d’un montant inférieur. La charge de la preuve de la non-utilisation du billet incombe au passager. Un ticket est généré pour chaque personne et chaque trajet. Les correspondances avec transferts (interconnexions) sont traitées comme un seul voyage. La demande peut être faite de manière informelle sous 3 mois. Elle doit être envoyée à Flix ou FlixBus DACH, adresse postale Flix SE, Friedenheimer Brücke 16, 80639 München ou FlixBus DACH GmbH, Warschauer Platz 11-13, 10245 Berlin. Les frais de traitement seront réduits à un montant de 2 € (ou le montant correspondant à la devise respective) par passager et par voyage, plus les frais de virement bancaire, si le transporteur est Flix SE ou FlixBus DACH GmbH et si la demande est faite rapidement au plus tard une semaine après l’expiration du billet. Par conséquent, le montant des [frais de traitement](https://www.flixbus.fr/entreprise/prix/frais-de-traitement) est calculé en fonction du délai écoulé après le départ jusqu’au moment où la demande de remboursement est faite. Le point 5.7 ne s’applique pas aux billets émis par FlixTrain GmbH et aux voyages en France effectués par FlixBus France S.A.R.L.
 
 **5.8** Les politiques d’annulation différentes dans les Conditions générales du transporteur ne s’appliquent pas.
 
@@ -142,30 +142,30 @@ Si des dispositions individuelles des présentes Conditions générales de vente
 **II Dispositions dérogatoires des pays**
 -----------------------------------------
 
-****1.  Suède****
+**1.  Suède**
 
-* ****Concernant 4.1 :**** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
+* **Concernant 4.1 :** En Suède, seuls les paiements par carte sont acceptés à bord des véhicules (MasterCard, Visa, American Express, Maestro, Visa Électron, V Pay, JCB, Diners Club, China Union Pay). En outre, en Suède, le billet de transport peut être acquis auprès du conducteur de bus via des systèmes de paiement mobiles, basés sur la technologie NFC. (par ex., Swish, Mobile Pay, Apple Pay, Android Pay).
 
-****2.  Pologne****
+**2.  Pologne**
 
-* ****Concernant 4.4.1 et 4.4.2 :**** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
-* ****Concernant 5.4 :**** Une annulation ne peut pas être effectuée en n’utilisant pas le billet et en obtenant un remboursement ultérieur pour les liaisons effectuées par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège social en Pologne.
-* ****Concernant 5.6 :**** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
+* **Concernant 4.4.1 et 4.4.2 :** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
+* **Concernant 5.4 :** Une annulation ne peut pas être effectuée en n’utilisant pas le billet et en obtenant un remboursement ultérieur pour les liaisons effectuées par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège social en Pologne.
+* **Concernant 5.6 :** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
 
-****3. République tchèque****
+**3. République tchèque**
 
-* ****Concernant le point 5.4 :**** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
-* ****Concernant le point 6 :**** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
+* **Concernant le point 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
+* **Concernant le point 6 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
-****4\. Royaume-Uni****
+**4\. Royaume-Uni**
 
-* ****Concernant 5.6 :**** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
+* **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons exploitées par FlixBus UK Limited ou par tout autre transporteur ayant son siège social au Royaume-Uni.
 
-****5\. France****
+**5\. France**
 
 * **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
 
-****6\. Portugal****
+**6\. Portugal**
 
 * **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées au Portugal par FlixBus Portugal Unipessoal LDA ou tout autre Transporteur ayant son siège social au Portugal.
 
