@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 21 août 2023
-====================================================================================================================================
+Mise à jour du 16 janvier 2024
+=======================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -116,12 +116,14 @@ Pour les besoins du présent article :
 
 \- les **petits Produits** sont les produits de moins de 30 kg et produits dont la somme de la largeur, la hauteur et la longueur est inférieure à 170cm.
 
-\- les **Produits volumineux** sont les produits de plus de 30 kg et produits dont la somme de la largeur, la hauteur et la longueur est supérieure à 170cm.
+\- les **Produits volumineux** sont les produits de plus de 30 kg et/ou dont la somme de la largeur, la hauteur et la longueur est supérieure à 170cm.
 
-**6.1. Livraison en France continentale, Corse et Monaco**  
   
-**6.1.1. Pour les petits Produits disponibles  
-**  
+**6.1. Livraison en France continentale, Corse et Monaco**
+
+  
+**6.1.1. Pour les petits Produits disponibles**  
+  
 Les délais de services indiqués ci-après ne sont pas garantis pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.  
   
 **Mode et linge de maison**
@@ -142,19 +144,21 @@ Les délais de services indiqués ci-après ne sont pas garantis pendant certain
 | En 24 à 48h ouvrés | 9,95 € |
 
   
-Pour le retrait de la commande de Produits en point de retrait, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis.  
-Les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande seront uniquement livrés à votre domicile (France continentale, Corse et Monaco uniquement), en 8 à 18 jours à partir de l'expédition.
+Pour le retrait de la commande de Produits en point de retrait, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis.
+
+Les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande seront uniquement livrés à votre domicile (France continentale, Corse et Monaco uniquement), en 8 à 18 jours à partir de la commande.
 
   
 **6.1.2. Pour les Produits volumineux (signalés par une camionnette de couleur)**  
   
-**\- « Livraison à domicile »**  
-  
+**\- « Livraison à domicile »**
 
-|     |     |     |
-| --- | --- | --- |
-| Livraison | Délai moyen | Tarif |
-| A domicile, dans la pièce de votre choix | En 8 à 12 jours ouvrés | **De 22€ à 139€** |
+| Caractéristiques du produit | Livraison | Délai moyen | Tarif |
+| --- | --- | --- | --- |
+| Produit de + de 30kg et/ou L+l+h > 2m | A domicile, dans la pièce de votre choix | En 8 à 12 jours ouvrés | **De 22€ à 139€**  <br>En fonction de l'article |
+| Produit de – de 30kg et L+l+h < 2m | A domicile, livraison pas de porte\* | En 8 à 12 jours ouvrés | **De 22€ à 49€**  <br>En fonction de l'article |
+
+\*Si vous habitez un appartement, la livraison pas de porte s’entend comme la livraison au pied de l’immeuble et non devant la porte de votre appartement.
 
 Le tarif de la livraison des Produits volumineux est indiqué directement sur les fiches produits.
 
@@ -169,13 +173,13 @@ L’impossibilité d’acheminer les Produits livrés à votre étage ou à l’
 
 S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.
 
+  
 **Livraison dans un point Relais Colis ® Max » ou Relais Colis ® Drive (uniquement pour la France Métropolitaine, en Corse et à Monaco)**  
   
 
-|     |     |     |
-| --- | --- | --- |
 | Livraison | Délai moyen | Tarif |
-| En point Relais Colis® Max ou Relais Colis® Drive | En 4 à 7 jours ouvrés | **De 9,90€ à 59,90€**  <br>en fonction de l'article |
+| --- | --- | --- |
+| En point Relais Colis® Max ou Relais Colis® Drive | En 4 à 10 jours ouvrés | **De 9,90€ à 59,90€**  <br>En fonction de l'article |
 
 Le tarif de la livraison des Produits volumineux en point Relais Colis ® Max ou Relais Colis ® Drive est indiqué au moment du choix de la livraison.
 
@@ -188,8 +192,9 @@ A défaut, les Produits commandés ne pourront vous être remis. Vous devrez ass
 
 Votre commande sera disponible dans :  
 \-**Le point Relais Colis ® Max** entre dix à douze (10 à 12) jours calendaires en fonction du point Relais Colis ® Max sélectionné à partir de son arrivée,  
-\-**Le Relais Colis ® Drive** pendant quinze (15) jours calendaires à partir de son arrivée.  
-\-**Reprise gratuite de votre ancien Equipement** **Electrique ou Electronique ou de votre Elément d’ameublement, Jouet**, **Article de Sport et Loisirs,** **Article de Bricolage et de Jardin**, détaillée à l’article 9.
+\-**Le Relais Colis ® Drive** pendant quinze (15) jours calendaires à partir de son arrivée.
+
+\-**Reprise gratuite de votre ancien Equipement Electrique ou Electronique ou de votre Elément d’ameublement, Jouet, Article de Sport et Loisirs, Article de Bricolage et de Jardin**, détaillée à l’article 9.
 
   
 **6.2. Livraison dans les DOM TOM**  
@@ -202,18 +207,20 @@ Pour obtenir toutes les informations relatives à une livraison dans les DOM-TOM
   
 Vous disposez d'un droit de rétraction de trente (30) jours calendaires à compter de la date de réception ou de retrait de l'ensemble de votre commande (soit seize (16) jours supplémentaires par rapport au délai légal de rétractation).
 
-Pendant ces délais, Vous pourrez retourner les Produits non endommagés, sans avoir à justifier de motifs, ni à payer de pénalité. En cas de Produits reçus endommagés, la procédure de l’article 7.3 s’appliquera.  
-  
-Tous les Produits peuvent faire l'objet d'une rétractation, excepté ceux exclus par la loi à l'article L221-28 du Code de la consommation, par exemple les Produits ayant fait l'objet d'une personnalisation sur votre demande, les Produits ayant été descellés et qui ne peuvent être renvoyés pour des raisons d'hygiène (ex : collants portés), les Produits d'enregistrement audio ou vidéo ou les logiciels informatiques descellés etc…  
-  
-Les Produits retournés doivent être intacts et complets et ne doivent pas avoir fait l'objet d'un port prolongé. S’agissant des cartes cadeaux, si celles-ci ont été utilisées en tout ou partie avant l’expiration des délais mentionnés au premier paragraphe, elles ne pourront plus faire l’objet d’une rétractation.  
-  
-Attention, pour faciliter la bonne reprise de votre matelas/sommier, ce dernier devra être muni, de sa housse de protection intérieure intacte, ni trouée, ni déchirée.  
-  
-Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2022.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).  
-  
-LA REDOUTE accusera réception de votre rétractation, par email.  
-  
+Pendant ces délais, Vous pourrez retourner les Produits non endommagés, sans avoir à justifier de motifs, ni à payer de pénalité. En cas de Produits reçus endommagés, la procédure de l’article 7.3 s’appliquera.
+
+Tous les Produits peuvent faire l'objet d'une rétractation, excepté ceux exclus par la loi à l'article L221-28 du Code de la consommation, par exemple les Produits ayant fait l'objet d'une personnalisation sur votre demande, les Produits ayant été descellés et qui ne peuvent être renvoyés pour des raisons d'hygiène (ex : collants portés), les Produits d'enregistrement audio ou vidéo ou les logiciels informatiques descellés etc…
+
+Les Produits retournés doivent être intacts et complets et ne doivent pas avoir fait l'objet d'un port prolongé. S’agissant des cartes cadeaux, si celles-ci ont été utilisées en tout ou partie avant l’expiration des délais mentionnés au premier paragraphe, elles ne pourront plus faire l’objet d’une rétractation.
+
+Attention, pour faciliter la bonne reprise de votre matelas/sommier, ce dernier devra être muni, de sa housse de protection intérieure intacte, ni trouée, ni déchirée.
+
+Pour exercer votre droit de rétractation, Vous pouvez utiliser le formulaire type de rétractation à remplir [ici](http://media.laredoute.com/marketing/StudioFR/Structure/CGV/retractation_laredoute2022.pdf), soit effectuer toute déclaration dénuée d'ambiguïté indiquant votre intention de retourner le Produit à LA REDOUTE notamment en déclarant votre retour en ligne depuis votre compte, rubrique « Retourner un article et se faire rembourser » (à l’exclusion des cartes cadeaux).
+
+**Il est porté à votre attention que pour certaines catégories de produits (électroménagers, produits de marques, etc…), pour exercer votre droit de rétractation et nous retourner le produit, afin de lutter contre les fraudes nous vous demandons de contacter au préalable le service clients par téléphone au numéro 09 69 32 35 15 de 8h à 21h (Service gratuit + prix d’un appel local).**
+
+LA REDOUTE accusera réception de votre rétractation, par email.
+
 Vous devez ensuite retourner les Produits à LA REDOUTE, au plus tard dans les quatorze (14) jours suivant votre rétractation, soit :
 
 * par La Poste à l'adresse suivante : LA REDOUTE Quai 30, 30 rue Chardonnet, 59150 Wattrelos. Les frais de retour via La Poste sont à votre charge (à l'exception d'un Produit défectueux à réception, ou d'une erreur de LA REDOUTE lors de l'envoi du Produit).
