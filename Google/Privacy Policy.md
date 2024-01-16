@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 15 novembre 2023 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20231115/sh7gs0by/google_privacy_policy_fr_eu.pdf)
+À compter du 15 janvier 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf//google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -102,20 +102,20 @@ Vous pouvez accéder à votre compte Google pour consulter et gérer les informa
 
 ### Informations relatives à votre position géographique
 
-Nous collectons des informations sur votre position lorsque vous utilisez nos services, car ces données nous permettent de proposer des fonctionnalités telles que des itinéraires, des résultats de recherche concernant des éléments à proximité, ainsi que des annonces en fonction de votre position générale.
+Nous collectons des informations de localisation quand vous utilisez nos services, car ces données nous permettent de proposer des fonctionnalités comme des itinéraires, des résultats de recherche concernant des lieux à proximité, et des annonces en fonction de votre position.
 
-Votre position géographique peut être déterminée avec des degrés de précision différents à l'aide des éléments suivants :
+En fonction de vos paramètres et des produits que vous utilisez, Google peut exploiter différents types d'informations de localisation pour que certains services et produits dont vous vous servez vous soient plus utiles. En voici quelques-uns :
 
 * GPS et autres [données des capteurs de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sensor-data)
 * [Adresse IP](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-ip)
-* Activité sur les services Google, comme vos recherches et les lieux auxquels vous ajoutez un libellé (domicile ou travail, par exemple)
+* [Activité sur les services Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-activity-on-services), comme vos recherches ou les [lieux auxquels vous ajoutez un libellé (domicile ou travail, par exemple)](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-places-you-label)
 * Des [informations relatives à des éléments à proximité de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-near-device), tels que des points d'accès Wi-Fi, des antennes-relais et des appareils sur lesquels le Bluetooth est activé
 
 Le type de données de localisation que nous collectons et la durée pendant laquelle nous les conservons dépendent en partie des paramètres définis sur votre appareil et dans votre compte. Vous pouvez par exemple [activer ou désactiver la localisation de votre appareil Android](https://support.google.com/accounts?p=privpol_location&hl=fr) dans les paramètres de ce dernier. Vous pouvez également activer l'[historique des positions](https://support.google.com/accounts?p=privpol_lochistory&hl=fr) si vous voulez créer une carte privée des lieux où vous vous rendez avec les appareils sur lesquels vous êtes connecté(e) à votre compte Google. Et si le paramètre "Activité sur le Web et les applications" est activé, vos recherches et autres activités sur les services Google, y compris les informations de localisation éventuelles, sont enregistrées dans votre compte Google. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
 
 * * *
 
-Dans certains cas, Google collecte aussi des informations sur vous auprès de [sources accessibles publiquement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sources). Par exemple, si votre nom est mentionné dans un journal local, le moteur de recherche Google peut indexer l'article concerné et l'afficher si des utilisateurs recherchent votre nom. Nous pouvons aussi recueillir des informations sur vous auprès de partenaires de confiance, comme des services d'annuaire qui nous donnent des informations commerciales à afficher sur les services Google, des partenaires marketing qui nous fournissent des données sur des clients potentiels susceptibles de faire appel à nos services professionnels, et des partenaires de sécurité qui nous fournissent des données afin que nous puissions vous [protéger contre les abus](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-against-abuse). Nous recevons aussi des informations de la part d'annonceurs partenaires pour proposer des [services publicitaires et de recherche en leur nom](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-ad-services).
+Dans certains cas, Google collecte aussi des informations sur vous auprès de [sources accessibles publiquement](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-sources). Par exemple, si votre nom est mentionné dans un journal local, le moteur de recherche Google est susceptible d'indexer l'article en question et de l'afficher si des utilisateurs recherchent votre nom. Nous pouvons aussi recueillir des informations vous concernant auprès de partenaires de confiance, comme des services d'annuaire qui nous donnent des informations commerciales à afficher sur les services Google, des partenaires marketing qui nous fournissent des données sur des clients potentiels susceptibles de faire appel à nos services professionnels, et des partenaires de sécurité qui nous fournissent des données afin que nous puissions vous [protéger contre les abus](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-against-abuse). Nous recevons aussi des informations de la part de partenaires pour proposer des [services publicitaires et de recherche en leur nom](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-ad-services).
 
 Nous avons recours à plusieurs technologies pour collecter et stocker des informations, notamment les [cookies](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-cookies), les [tags de pixel](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-pixel), les éléments stockés en local (tels que le [stockage sur les navigateurs Web](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-browser-storage) ou les [caches de données d'application](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-application-data-cache)), les bases de données et les [fichiers journaux de serveur](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-server-logs).
 
@@ -152,7 +152,7 @@ En fonction de vos paramètres, nous pouvons également vous proposer des [annon
 
 ### Évaluer les performances
 
-Nous utilisons vos informations à des fins d'analyse et d’évaluation pour comprendre la façon dont nos services sont utilisés. Par exemple, l'analyse des données concernant vos visites sur nos sites nous permet d'optimiser la conception de nos produits. Nous utilisons aussi les informations se rapportant aux annonces avec lesquelles vous interagissez pour aider les annonceurs à analyser les performances de leurs campagnes publicitaires. Pour ce faire, nous nous servons de plusieurs outils, parmi lesquels Google Analytics. Lorsque vous visitez des sites ou utilisez des applis ayant recours à Google Analytics, un client Google Analytics peut choisir d'autoriser Google à [associer des informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-link-info) concernant votre activité sur ce site ou cette appli à une activité sur d'autres sites ou applis utilisant nos services publicitaires.
+Nous utilisons vos informations à des fins d'analyse et de mesure pour comprendre la façon dont nos services sont utilisés. Par exemple, l'analyse des données concernant vos visites sur nos sites nous permet d'optimiser la conception de nos produits. Nous utilisons aussi les informations se rapportant aux annonces avec lesquelles vous interagissez (y compris votre activité de recherche Google correspondante) pour aider les annonceurs à analyser les performances de leurs campagnes publicitaires. Pour ce faire, nous nous servons de plusieurs outils, parmi lesquels Google Analytics. Lorsque vous visitez des sites ou utilisez des applis ayant recours à Google Analytics, un client Google Analytics peut choisir d'autoriser Google à [associer des informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-link-info) concernant votre activité sur ce site ou cette appli à une activité sur d'autres sites ou applis utilisant nos services publicitaires.
 
 ### Communiquer avec vous
 
@@ -396,7 +396,7 @@ Sauf indication contraire dans un avis de confidentialité spécifique au servic
 * Google Ireland Limited pour les utilisateurs de services Google basés dans l'Espace économique européen ou en Suisse, sis Gordon House, Barrow Street, Dublin 4, Irlande.
 * Google LLC pour les utilisateurs de services Google basés au Royaume-Uni, sis au 1600 Amphitheatre Parkway, Mountain View, California 94043, États-Unis.
 
-Google LLC est responsable du traitement des informations indexées et affichées dans des services tels que la [Recherche Google](https://www.google.com/search/howsearchworks/crawling-indexing/?hl=fr) et Google Maps, indépendamment de votre position.
+Google LLC est responsable du traitement des informations indexées et affichées dans des services tels que la [recherche Google](https://www.google.com/search/howsearchworks/crawling-indexing/?hl=fr) et Google Maps, indépendamment de votre position. Google Ireland Limited est responsable du traitement des informations destiné à entraîner les modèles d'IA de Google en vue de les déployer dans les services que Google Ireland Limited fournit au sein de l'Espace économique européen ou en Suisse.
 
 ### Bases juridiques du traitement
 
@@ -478,7 +478,7 @@ Termes clés
 
 ### Adresse IP
 
-Chaque appareil connecté à Internet est identifié par un numéro, appelé "adresse IP" (Internet Protocol). Ces numéros sont généralement attribués par groupe géographique. Une adresse IP permet donc souvent d’identifier la position géographique de l'appareil connecté à Internet.
+Chaque appareil connecté à Internet est identifié par un numéro, appelé "adresse IP" (Internet Protocol). Ces numéros sont généralement attribués par groupe géographique. Une adresse IP permet donc souvent d’identifier la position géographique de l'appareil connecté à Internet. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
 
 ### Affiliés
 
@@ -524,13 +524,13 @@ Voici à quoi ressemble une entrée de journal classique pour une recherche port
 
 123.45.67.89 - 25/Mar/2003 10:15:32 -  
 http://www.google.com/search?q=cars -  
-Firefox 1.0.7; Windows NT 5.1 -  
+Chrome 112; OS X 10.15.7 -  
 740674ce2123e969
 
 * `123.45.67.89` correspond à l'adresse IP attribuée à l'utilisateur par son fournisseur d'accès Internet. Selon le type d'accès de l'utilisateur, le fournisseur peut lui attribuer une adresse IP différente à chaque connexion à Internet.
 * `25/Mar/2003 10:15:32` correspond à la date et à l'heure de la requête.
 * `http://www.google.com/search?q=cars` correspond à l'URL demandée incluant la requête de recherche.
-* `Firefox 1.0.7; Windows NT 5.1` correspond au navigateur et au système d'exploitation utilisés.
+* `Chrome 112; OS X 10.15.7` correspond au navigateur et au système d'exploitation utilisés.
 * `740674ce2123a969` correspond à l'ID de cookie unique attribué à cet ordinateur lors de son premier accès à Google. (Les utilisateurs peuvent supprimer les cookies. Si l'utilisateur a supprimé le cookie de l'ordinateur depuis sa dernière visite de Google, un ID de cookie unique est attribué à l'appareil la prochaine fois qu'il accède au site Google depuis cet appareil).
 
 ### Identifiants uniques
@@ -555,6 +555,14 @@ Une URL (abréviation de Uniform Resource Locator) de provenance est une informa
 
 Contexte supplémentaire
 -----------------------
+
+### Activité sur les services Google
+
+Si vous êtes connecté à votre compte Google et que l'option "Activité sur le Web et les applications" est activée, vos données d'activité sur les sites, les applis et les services Google peuvent être enregistrées dans l'activité sur le Web et les applications de votre compte. Certaines activités peuvent inclure des informations sur la zone géographique générale dans laquelle vous vous trouviez lorsque vous avez utilisé le service Google. Lorsque vous effectuez une recherche en utilisant une zone géographique générale, nous utilisons une zone d'au moins 3 km² ou l'étendons jusqu'à ce qu'elle représente une zone d'au moins 1 000 personnes. Cela permet de protéger votre confidentialité.
+
+Dans certains cas, nous utilisons les zones depuis lesquelles vous avez déjà fait des recherches pour estimer la pertinence d'un lieu. Par exemple, si vous recherchez des cafés à Paris, il est possible que Google affiche des résultats correspondant à Paris pour de prochaines recherches.
+
+Vous pouvez consulter et contrôler l'activité sur le Web et les applications via [Mon activité](https://myactivity.google.com/activitycontrols?hl=fr).
 
 ### annonces personnalisées
 
@@ -624,7 +632,13 @@ Voici quelques exemples de la façon dont nous utilisons vos informations pour g
 
 ### Les données des capteurs de votre appareil
 
-Il se peut que votre appareil soit équipé de capteurs permettant de déterminer votre position géographique et de reconnaître vos mouvements. Par exemple, un accéléromètre permet de mesurer votre vitesse, et un gyroscope permet de connaître le sens dans lequel vous vous déplacez.
+Il se peut que votre appareil soit équipé de capteurs permettant de déterminer votre position géographique et de reconnaître vos mouvements. Par exemple, un accéléromètre permet de mesurer votre vitesse, et un gyroscope permet de connaître le sens dans lequel vous vous déplacez. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
+
+### Lieux auxquels vous ajoutez un libellé (domicile et travail, par exemple)
+
+Vous pouvez choisir d'enregistrer dans votre compte Google des lieux importants pour vous, tels que votre domicile ou votre lieu de travail. Si vous définissez l'adresse de votre domicile ou lieu de travail, celle-ci sera utilisée pour vous faciliter les choses, quand vous demanderez un itinéraire ou pour obtenir des résultats plus proches de cette adresse et voir des annonces plus pertinentes, par exemple.
+
+Vous pouvez modifier ou supprimer l'adresse de votre domicile ou lieu de travail à tout moment dans votre [compte Google](https://myaccount.google.com/personal-info?hl=fr).
 
 ### mesures de protection appropriées
 
@@ -668,7 +682,7 @@ Voici quelques exemples de la façon dont nous utilisons vos informations pour p
 
 * Nous utilisons l'adresse IP attribuée à votre appareil afin de vous envoyer les informations que vous avez demandées, pour charger une vidéo YouTube, par exemple.
 * Nous utilisons des identifiants uniques stockés dans des cookies sur votre appareil pour vous authentifier comme la personne ayant accès à votre compte Google.
-* Nous utilisons les photos et vidéos que vous importez dans Google Photos pour créer des albums, des animations et d'autres éléments que vous pouvez partager. [En savoir plus](https://support.google.com/photos?p=privpol_manage&hl=fr)
+* Nous utilisons les photos et vidéos que vous importez dans Google Photos pour vous permettre de créer des albums, des montages et d'autres éléments que vous pouvez partager. [En savoir plus](https://support.google.com/photos?p=privpol_manage&hl=fr)
 * Nous pouvons nous servir d'un e-mail de confirmation de vol que vous recevez pour créer un bouton d'enregistrement dans votre compte Gmail.
 * Lorsque vous achetez des services ou des produits physiques auprès de nous, vous pouvez être amené à nous fournir des informations telles que votre adresse de livraison ou des instructions concernant la livraison. Ces informations nous servent à traiter, honorer et livrer votre commande, ainsi qu'à fournir une assistance en lien avec le produit ou le service que vous achetez.
 
@@ -717,7 +731,7 @@ Voici quelques exemples de ces services :
 
 ### services publicitaires et de recherche en leur nom
 
-Par exemple, les annonceurs peuvent importer des données provenant de leur programme de fidélité de manière à mieux comprendre les performances de leurs campagnes publicitaires. Nous leur fournissons uniquement des rapports cumulés qui ne contiennent aucune information à propos de personnes individualisées.
+Par exemple, les marchands peuvent importer des données provenant de leur programme de fidélité de sorte à inclure les informations concernant la fidélité dans les résultats de recherche ou d'achat, ou pour mieux comprendre les performances de leurs campagnes publicitaires. Nous leur fournissons uniquement des rapports agrégés qui ne contiennent aucune information à propos de personnes individualisées.
 
 ### ses utilisateurs
 
