@@ -666,7 +666,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
  A réception de votre demande de rétractation et si celle-ci est conforme aux CGV, CDISCOUNT vous proposera :  
   
-\-          un bon prépayé pour retourner le produit concerné. Le cas échéant, le montant de ce bon prépayé sera déduit du remboursement opéré par CDISCOUNT au titre de la r��tractation.  
+\-          un bon prépayé pour retourner le produit concerné. Le cas échéant, le montant de ce bon prépayé sera déduit du remboursement opéré par CDISCOUNT au titre de la rétractation.  
   
 \-          soit de retourner le produit concerné par vos soins.
 
