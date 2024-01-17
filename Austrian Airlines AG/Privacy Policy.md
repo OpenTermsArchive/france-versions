@@ -75,10 +75,10 @@ Nous utilisons également les services de certains [systèmes de traitement de d
 
 Le site Internet austrian.com a pour but de rendre les services en ligne d’Austrian Airlines AG plus faciles et plus pratiques à utiliser. Ce service comprend :
 
-* la réservation de vols ;
-* l’utilisation de services de réservation supplémentaires tels que la réservation de sièges, l’enregistrement en ligne, les divertissements à bord, etc. ;
-* les changements de réservation ou les annulations ;
-* l’appréciation des offres de [Lufthansa Group](http://www.austrian.com/fr/fr/legal/lufthansa-group) et de nos entreprises partenaires (il s’agit d’entreprises avec lesquelles Austrian Airlines coopère) afin que nous puissions vous proposer d’autres offres.
+*   la réservation de vols ;
+*   l’utilisation de services de réservation supplémentaires tels que la réservation de sièges, l’enregistrement en ligne, les divertissements à bord, etc. ;
+*   les changements de réservation ou les annulations ;
+*   l’appréciation des offres de [Lufthansa Group](http://www.austrian.com/fr/fr/legal/lufthansa-group) et de nos entreprises partenaires (il s’agit d’entreprises avec lesquelles Austrian Airlines coopère) afin que nous puissions vous proposer d’autres offres.
 
 Les informations sur les partenaires sont fournies par les partenaires suivants d’Austrian Airlines AG :
 --------------------------------------------------------------------------------------------------------
@@ -136,19 +136,19 @@ Les informations sur les partenaires sont fournies par les partenaires suivants 
 
 Nous traitons les données personnelles suivantes lorsque vous réservez un billet d’avion sur le site austrian.com :
 
-* titre, prénom et nom ;
-* date de naissance ;
-* adresse e-mail, adresse postale (rue, ville et code postal) et numéro de téléphone ;
-* programme voyageur fréquent ;
-* préférences en matière de restauration (choix de menu) ;
-* vos demandes de service spécifiques (comme l’aide au transport et à l’accompagnement, etc.) ; et
-* les données de carte de crédit.
+*   titre, prénom et nom ;
+*   date de naissance ;
+*   adresse e-mail, adresse postale (rue, ville et code postal) et numéro de téléphone ;
+*   programme voyageur fréquent ;
+*   préférences en matière de restauration (choix de menu) ;
+*   vos demandes de service spécifiques (comme l’aide au transport et à l’accompagnement, etc.) ; et
+*   les données de carte de crédit.
 
 Les données personnelles suivantes peuvent ou doivent être indiquées en fonction de la destination :
 
-* date de naissance ;
-* nationalité et informations de passeport ;
-* données du visa.
+*   date de naissance ;
+*   nationalité et informations de passeport ;
+*   données du visa.
 
 Nous ne traitons vos données personnelles que pour exécuter le contrat de transport, émettre le billet d’avion que vous avez demandé et vous envoyer un reçu passager. Votre reçu passager est non codé et envoyé électroniquement. De plus, nous traitons vos données de réservation personnelles dans le cadre légal uniquement, ou selon votre accord. Si vous nous indiquez des informations personnelles relatives à votre santé lors de la réservation de vos vols afin que nous puissions vous fournir l’assistance nécessaire en fonction de vos besoins médicaux, ces données ne seront traitées et/ou partagées avec des tiers (par ex. aéroports et contrôles de sécurité, etc.) que pour la fourniture de ces services.
 
@@ -162,9 +162,9 @@ Veuillez également noter que nous enregistrons vos données de passager. La dur
 
 Nous traitons les données personnelles suivantes vous concernant lorsque vous utilisez notre système d’enregistrement en ligne :
 
-* nom et code de réservation ;
-* coordonnées (adresse e-mail et numéro de téléphone) ;
-* vos demandes de services spécifiques (par ex., vos préférences concernant la restauration, les aides au transport, l’assistance et l’accompagnement, etc.).
+*   nom et code de réservation ;
+*   coordonnées (adresse e-mail et numéro de téléphone) ;
+*   vos demandes de services spécifiques (par ex., vos préférences concernant la restauration, les aides au transport, l’assistance et l’accompagnement, etc.).
 
 Nous ne traitons vos données personnelles que pour l’exécution du contrat de transport. Veuillez noter que nous enregistrons vos données de passager et d’enregistrement. La durée de conservation est en principe de trois ans, à moins que d’autres intérêts légaux ou légitimes n’empêchent la suppression de ces données.
 
@@ -184,8 +184,8 @@ Toutes les données que vous saisissez dans le webchat au cours de la conversati
 
 La base légale permettant de traiter vos données est :
 
-* Art. 6 (1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue ;
-* Art. 6 (1)(1)(f) du RGPD afin de protéger nos intérêts légitimes pour la constatation, l’exercice et la défense de droits en justice.
+*   Art. 6 (1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue ;
+*   Art. 6 (1)(1)(f) du RGPD afin de protéger nos intérêts légitimes pour la constatation, l’exercice et la défense de droits en justice.
 
 **b) Fonction de chat en direct**
 
@@ -193,8 +193,8 @@ Si l’assistant virtuel ne peut pas traiter vos questions et vos demandes, la f
 
 La base légale permettant de traiter vos données est :
 
-* Art. 6 (1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue ;
-* Art. 6(1)(1)(f) du RGPD afin de protéger notre intérêt légitime pour la prévention de la fraude et pour la constatation, l’exercice et la défense de droits en justice.
+*   Art. 6 (1)(1)(b) du RGPD si votre demande concerne une réservation existante ou prévue ;
+*   Art. 6(1)(1)(f) du RGPD afin de protéger notre intérêt légitime pour la prévention de la fraude et pour la constatation, l’exercice et la défense de droits en justice.
 
  **c) Fonction commentaires**
 
@@ -254,18 +254,18 @@ L’enregistrement à Star Alliance Biometrics se fait directement auprès de St
 
 Austrian Airlines traite les données personnelles suivantes :
 
-* Votre numéro Miles & More ainsi que les informations figurant sur votre carte d’embarquement sont transmis à Star Alliance afin de constituer un fichier d’identification spécifique pour le jour en question (« Galerie du jour »). Cette opération est effectuée pour les utilisateurs enregistrés sur la base de leur consentement, conformément à l’article 6, paragraphe 1, point a), du RGPD.
-* À l’aéroport, une courte séquence vidéo est enregistrée aux points/dispositifs d’accès de la compagnie Austrian Airlines équipés du système biométrique Star Alliance Biometrics. Une photo en est extraite pour vous identifier. Pour les utilisateurs enregistrés, cela est effectué sur la base de leur consentement conformément à l’Article 6 (1)(1)(a) du RGPD ; pour les utilisateurs potentiels disposant d’un numéro Miles & More, autrement dit les passagers qui ne sont pas encore enregistrés à Star Alliance Biometrics, cette opération est effectuée conformément à l’Article 6(1)(1)(f) du RGPD, afin de garantir le bon déroulement du processus.
+*   Votre numéro Miles & More ainsi que les informations figurant sur votre carte d’embarquement sont transmis à Star Alliance afin de constituer un fichier d’identification spécifique pour le jour en question (« Galerie du jour »). Cette opération est effectuée pour les utilisateurs enregistrés sur la base de leur consentement, conformément à l’article 6, paragraphe 1, point a), du RGPD.
+*   À l’aéroport, une courte séquence vidéo est enregistrée aux points/dispositifs d’accès de la compagnie Austrian Airlines équipés du système biométrique Star Alliance Biometrics. Une photo en est extraite pour vous identifier. Pour les utilisateurs enregistrés, cela est effectué sur la base de leur consentement conformément à l’Article 6 (1)(1)(a) du RGPD ; pour les utilisateurs potentiels disposant d’un numéro Miles & More, autrement dit les passagers qui ne sont pas encore enregistrés à Star Alliance Biometrics, cette opération est effectuée conformément à l’Article 6(1)(1)(f) du RGPD, afin de garantir le bon déroulement du processus.
 
 **Catégories de bénéficiaires**
 
-* Austrian Airlines fait appel à des Service Providers informatiques ayant l’obligation contractuelle de respecter la protection et la sécurité des données, conformément au RGPD.
-* Austrian Airlines transmet les données mentionnées plus haut à Star Alliance.
+*   Austrian Airlines fait appel à des Service Providers informatiques ayant l’obligation contractuelle de respecter la protection et la sécurité des données, conformément au RGPD.
+*   Austrian Airlines transmet les données mentionnées plus haut à Star Alliance.
 
 **Durée de conservation des données**
 
-* Vos données sont supprimées des points/dispositifs d’accès dès que le processus d’identification est terminé ou que vos données ont été transmises. Les données des passagers non-enregistrés sont supprimées immédiatement.
-* Le fichier d’identification spécifique au jour en question (« Galerie du jour ») est généré et traité sous la responsabilité de Star Alliance et est supprimé deux heures après le départ de chaque vol.
+*   Vos données sont supprimées des points/dispositifs d’accès dès que le processus d’identification est terminé ou que vos données ont été transmises. Les données des passagers non-enregistrés sont supprimées immédiatement.
+*   Le fichier d’identification spécifique au jour en question (« Galerie du jour ») est généré et traité sous la responsabilité de Star Alliance et est supprimé deux heures après le départ de chaque vol.
 
 Vous pouvez à tout moment retirer votre consentement à l’utilisation de l’identification biométrique. Rendez-vous pour cela dans la section de gestion du profil de l’application Star Alliance Navigator et supprimez votre profil biométrique. Le retrait de votre consentement n’affecte en rien la légalité des traitements réalisés sur la base de ce consentement avant que ce dernier n’ait été retiré.
 
@@ -320,8 +320,8 @@ Veuillez noter : Ces données ne sont pas liées à votre réservation et doive
 
 De plus, lorsque nous traitons vos données dans notre intérêt légitime, nous le faisons aux fins suivantes :
 
-* pour la constatation, l’exercice ou la défense des droits en justice ;
-* à des fins de transparence et de développement des processus commerciaux soumis aux délais de conservation indiqués.
+*   pour la constatation, l’exercice ou la défense des droits en justice ;
+*   à des fins de transparence et de développement des processus commerciaux soumis aux délais de conservation indiqués.
 
 ### 11\. Révision des transactions de paiement
 
@@ -367,12 +367,12 @@ Austrian Airlines AG met en œuvre des mesures techniques et organisationnelles 
 
 Austrian Airlines AG est résolue à rendre ses procédures de traitement des données claires et transparentes. Il est donc important que nos clients puissent non seulement retirer leur consentement, mais aussi exercer les droits suivants :
 
-* droit d’accès aux informations ;
-* droit de rectification de leurs données personnelles ;
-* droit à l’effacement ;
-* droit à la limitation du traitement ;
-* droit à la portabilité des données.
-* Cookies
+*   droit d’accès aux informations ;
+*   droit de rectification de leurs données personnelles ;
+*   droit à l’effacement ;
+*   droit à la limitation du traitement ;
+*   droit à la portabilité des données.
+*   Cookies
 
 Vous devez présenter votre demande de droits de la personne concernée par écrit en utilisant le formulaire en ligne avec une preuve de votre identité (scan ou copie d’une pièce d’identité officielle avec photo).
 
@@ -457,25 +457,25 @@ Collecte des données passagers pour les États-Unis
 
 **Nous envoyons les données suivantes aux autorités américaines en rapport avec votre réservation au départ/à destination des États-Unis :**
 
-* code de réservation ;
-* date de la réservation/date d’émission du billet ;
-* date du voyage prévu ;
-* nom(s) ;
-* informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits et surclassements, etc.) ;
-* d’autres noms sous le même code de réservation (personnes vous accompagnant), y compris le nombre de toutes les personnes voyageant sous le même code de réservation ;
-* toute information de contact disponible (y compris les informations sur le client) ;
-* toute information disponible sur le paiement et la facturation (ne comprend pas d’autres détails de transfert en rapport avec des informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage) ;
-* itinéraire complet ;
-* agence de voyages/Agent de voyages ;
-* informations sur la compagnie aérienne exploitante ;
-* informations sur la distribution de la réservation ;
-* statut du voyageur (y compris la confirmation et le statut d’enregistrement) ;
-* informations d’émission, y compris les numéros de billet, les billets aller simple et la spécification du code de réservation automatique ;
-* toutes informations relatives aux bagages ;
-* informations relatives au siège, y compris le numéro de siège ;
-* remarques générales, y compris les données des autres informations (OSI), les données concernant des services d’accompagnement (SSI) et les données concernant des demandes relatives aux services d’accompagnement (SSR) ;
-* entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API) ;
-* chronologie des changements dans les champs de données 1-18.
+*   code de réservation ;
+*   date de la réservation/date d’émission du billet ;
+*   date du voyage prévu ;
+*   nom(s) ;
+*   informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits et surclassements, etc.) ;
+*   d’autres noms sous le même code de réservation (personnes vous accompagnant), y compris le nombre de toutes les personnes voyageant sous le même code de réservation ;
+*   toute information de contact disponible (y compris les informations sur le client) ;
+*   toute information disponible sur le paiement et la facturation (ne comprend pas d’autres détails de transfert en rapport avec des informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage) ;
+*   itinéraire complet ;
+*   agence de voyages/Agent de voyages ;
+*   informations sur la compagnie aérienne exploitante ;
+*   informations sur la distribution de la réservation ;
+*   statut du voyageur (y compris la confirmation et le statut d’enregistrement) ;
+*   informations d’émission, y compris les numéros de billet, les billets aller simple et la spécification du code de réservation automatique ;
+*   toutes informations relatives aux bagages ;
+*   informations relatives au siège, y compris le numéro de siège ;
+*   remarques générales, y compris les données des autres informations (OSI), les données concernant des services d’accompagnement (SSI) et les données concernant des demandes relatives aux services d’accompagnement (SSR) ;
+*   entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API) ;
+*   chronologie des changements dans les champs de données 1-18.
 
 Nous transférons les données sur la base d’un
 
@@ -486,25 +486,25 @@ Collecte de données pour le Canada
 
 **Nous transmettons aux autorités canadiennes les données suivantes concernant votre réservation au départ, via ou à destination du Canada :**
 
-* code de réservation ;
-* date de la réservation/date d’émission du billet ;
-* date du voyage prévu ;
-* nom(s) ;
-* informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits et surclassements, etc.) ;
-* d’autres noms sous le même code de réservation (personnes vous accompagnant), y compris le nombre de toutes les personnes voyageant sous le même code de réservation ;
-* toute information de contact disponible (y compris les informations sur le client) ;
-* toute information disponible sur le paiement et la facturation (ne comprend pas d’autres détails de transfert en rapport avec des informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage) ;
-* itinéraire complet ;
-* agence de voyages/Agent de voyages ;
-* informations sur la compagnie aérienne exploitante ;
-* informations sur la distribution de la réservation ;
-* statut du voyageur (y compris la confirmation et le statut d’enregistrement) ;
-* informations d’émission, y compris les numéros de billet, les billets aller simple et la spécification du code de réservation automatique ;
-* toutes informations relatives aux bagages ;
-* informations relatives au siège, y compris le numéro de siège ;
-* remarques générales, y compris les données des autres informations (OSI), les données concernant des services d’accompagnement (SSI) et les données concernant des demandes relatives aux services d’accompagnement (SSR) ;
-* entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API) ;
-* chronologie des changements dans les champs de données 1-18. 
+*   code de réservation ;
+*   date de la réservation/date d’émission du billet ;
+*   date du voyage prévu ;
+*   nom(s) ;
+*   informations disponibles sur les voyageurs fréquents et les avantages (par ex. : billets gratuits et surclassements, etc.) ;
+*   d’autres noms sous le même code de réservation (personnes vous accompagnant), y compris le nombre de toutes les personnes voyageant sous le même code de réservation ;
+*   toute information de contact disponible (y compris les informations sur le client) ;
+*   toute information disponible sur le paiement et la facturation (ne comprend pas d’autres détails de transfert en rapport avec des informations de carte de crédit ou de compte bancaire qui ne sont pas liées à ce voyage) ;
+*   itinéraire complet ;
+*   agence de voyages/Agent de voyages ;
+*   informations sur la compagnie aérienne exploitante ;
+*   informations sur la distribution de la réservation ;
+*   statut du voyageur (y compris la confirmation et le statut d’enregistrement) ;
+*   informations d’émission, y compris les numéros de billet, les billets aller simple et la spécification du code de réservation automatique ;
+*   toutes informations relatives aux bagages ;
+*   informations relatives au siège, y compris le numéro de siège ;
+*   remarques générales, y compris les données des autres informations (OSI), les données concernant des services d’accompagnement (SSI) et les données concernant des demandes relatives aux services d’accompagnement (SSR) ;
+*   entrées agrégées relatives à la collecte de données à partir de documents de voyage (APP et/ou API) ;
+*   chronologie des changements dans les champs de données 1-18. 
 
 Nous transférons les données sur la base d’un
 
