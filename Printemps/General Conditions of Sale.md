@@ -30,7 +30,7 @@ La Société propose à la vente des articles de prêt-à-porter et accessoires,
 
   
 
-Conformément à l’article R.541-173 du Code de l’environnement, les identifiants uniques pour chaque éco-organisme auquel PRINTEMPS a adhéré sont les suivants :
+Conformément à l'article R.541-173 du Code de l'environnement, les identifiants uniques pour chaque éco-organisme auquel PRINTEMPS a adhéré sont les suivants :
 
 \- REFASHION / Eco TLC : FR218675\_11OTBM
 
@@ -592,11 +592,11 @@ Conformément à l'article L 221-23 du Code de la Consommation, le Client sera r
 
   
 
-Un contrôle de conformité sera effectué pour chaque demande de remboursement ou d'échange. Les retours qui ne respectent pas les conditions énoncées ne seront pas acceptés et seront renvoyés au Client. Le remboursement sera effectué dans les conditions de l’article 9.3. 
+Un contrôle de conformité sera effectué pour chaque demande de remboursement ou d'échange. Les retours qui ne respectent pas les conditions énoncées ne seront pas acceptés et seront renvoyés au Client. Le remboursement sera effectué dans les conditions de l'article 9.3. 
 
   
 
-L’échange sera validé sous réserve de disponibilité du produit souhaité au moment de la réception du retour. À défaut, le remboursement sera émis dans les conditions de l’article 9.3. 
+L'échange sera validé sous réserve de disponibilité du produit souhaité au moment de la réception du retour. À défaut, le remboursement sera émis dans les conditions de l'article 9.3. 
 
   
 
@@ -705,9 +705,9 @@ Pour procéder à un échange :
 
 2\. Dans la rubrique "MES COMMANDES ET RETOURS" cliquez sur "Effectuer un retour ou échange"
 
-3\. Choisissez l’article à échanger ainsi que le produit souhaité en échange. Seul un échange de taille ou de coloris est possible. Dans le cas où vous auriez reçu un produit défectueux, vous pouvez demander le même produit en échange. 
+3\. Choisissez l'article à échanger ainsi que le produit souhaité en échange. Seul un échange de taille ou de coloris est possible. Dans le cas où vous auriez reçu un produit défectueux, vous pouvez demander le même produit en échange. 
 
-4\. Sélectionnez le motif du retour ainsi que le mode de remboursement dans l’hypothèse où l’échange ne serait pas réalisable (re-crédit sur le mode de paiement utilisé ou bon d'achat). Si le produit n’est pas disponible à réception, le remboursement sera émis sur le moyen sélectionné. 
+4\. Sélectionnez le motif du retour ainsi que le mode de remboursement dans l'hypothèse où l'échange ne serait pas réalisable (re-crédit sur le mode de paiement utilisé ou bon d'achat). Si le produit n'est pas disponible à réception, le remboursement sera émis sur le moyen sélectionné. 
 
 5\. Imprimez le bon, et insérez-le dans le colis retour, et collez l'étiquette transporteur sur le colis.
 
@@ -715,7 +715,7 @@ Pour procéder à un échange :
 
 7\. À réception du colis, la Société procédera à l'échange dans la limite des stocks disponibles au moment de la réception. 
 
-Si la taille souhaitée est disponible au même tarif, la Société recommande au Client de faire une demande de remboursement pour la commande initiale et de renouveler la commande avec le produit désiré sans attendre le retour de l’article. 
+Si la taille souhaitée est disponible au même tarif, la Société recommande au Client de faire une demande de remboursement pour la commande initiale et de renouveler la commande avec le produit désiré sans attendre le retour de l'article. 
 
   
 
@@ -759,7 +759,7 @@ En cas de réception d'un colis retour dont le contenu ne serait pas conforme à
 Article 9 - Garanties
 =====================
 
-Tous les Produits bénéficient de la garantie légale de conformité (articles L217-43 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes. Le Client est invité à ce titre à prendre contact avec la Société aux coordonnées mentionnées au sein de l’article 12.
+Tous les Produits bénéficient de la garantie légale de conformité (articles L217-43 et suivant du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil) permettant au Client de renvoyer sans frais les Produits livrés défectueux ou non conformes. Le Client est invité à ce titre à prendre contact avec la Société aux coordonnées mentionnées au sein de l'article 12.
 
   
 
@@ -976,7 +976,7 @@ Dans le cadre de la garantie des vices cachés, la Société s'engage au choix d
 
 **10.3 PIECES DETACHEES**
 
-La disponibilité ou la non-disponibilité des pièces détachées indispensables à l’utilisation d'un bien acheté et le cas échéant, leur période de disponibilité sont déterminées par le fabricant du bien ou son importateur. Lorsque cette information n'est pas fournie par le fabricant ou son importateur, les pièces détachées indispensables à l'utilisation des biens sont réputées non disponibles.
+La disponibilité ou la non-disponibilité des pièces détachées indispensables à l'utilisation d'un bien acheté et le cas échéant, leur période de disponibilité sont déterminées par le fabricant du bien ou son importateur. Lorsque cette information n'est pas fournie par le fabricant ou son importateur, les pièces détachées indispensables à l'utilisation des biens sont réputées non disponibles.
 
   
 
@@ -997,7 +997,7 @@ En cas de difficulté survenant à l'occasion de la commande ou de la livraison 
 
   
 
-Le Client est informé qu’il peut s'inscrire sur une liste d'opposition au démarchage téléphonique sur le site bloctel.gouv.fr s’il ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique.
+Le Client est informé qu'il peut s'inscrire sur une liste d'opposition au démarchage téléphonique sur le site bloctel.gouv.fr s'il ne souhaite pas faire l'objet de prospection commerciale par voie téléphonique.
 
 Article 12 - Médiation
 ======================
@@ -1006,7 +1006,7 @@ Conformément aux dispositions du Code de la consommation concernant le règleme
 
   
 
-Après démarches préalables écrites des consommateurs vis-à-vis de la Société, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur/#msdynttrid=ZZasM4y8rBGKR2nuQ--n_rkMTLrd1ByCc5qF7MCB1pc)
+Après démarches préalables écrites des consommateurs vis-à-vis de la Société, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur/#msdynttrid=ZZasM4y8rBGKR2nuQ--n_rkMTLrd1ByCc5qF7MCB1pc)
 
   
 
@@ -1022,9 +1022,9 @@ Les présentes Conditions sont soumises au droit français. A défaut de règlem
 Article 14 - Force majeure
 ==========================
 
-L'exécution par PRINTEMPS de toute ou partie de ses obligations, notamment d’expédition, sera suspendue en cas de survenance d'un cas fortuit ou de force majeure qui en gênerait ou en retarderait l'exécution.
+L'exécution par PRINTEMPS de toute ou partie de ses obligations, notamment d'expédition, sera suspendue en cas de survenance d'un cas fortuit ou de force majeure qui en gênerait ou en retarderait l'exécution.
 
-Sont considérés comme cas de force majeure ceux tels que définis par les textes en vigueur à savoir l’article 1218 du code civil et par la jurisprudence.
+Sont considérés comme cas de force majeure ceux tels que définis par les textes en vigueur à savoir l'article 1218 du code civil et par la jurisprudence.
 
 PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force majeure dans les sept (7) jours de sa survenance. Au cas où cette suspension se poursuivrait au-delà d'un délai de quinze (15) jours, le Client aura la possibilité de résilier la commande en cours, et il sera alors procédé au remboursement du prix des Produits commandés et des frais de livraison payés.
 
@@ -1033,15 +1033,15 @@ PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force ma
 Article 15 – Classement des Produits
 ====================================
 
-Les offres de Produits sur le Site sont présentées par le biais d’une barre de recherche thématique fonctionnant grâce à des mots clefs. 
+Les offres de Produits sur le Site sont présentées par le biais d'une barre de recherche thématique fonctionnant grâce à des mots clefs. 
 
   
 
-L’Utilisateur peut également accéder aux Produits en visitant les différentes rubriques proposées (prêt à porter, chaussures, etc).
+L'Utilisateur peut également accéder aux Produits en visitant les différentes rubriques proposées (prêt à porter, chaussures, etc).
 
   
 
-Le classement des Produits dépend de la navigation de l’Utilisateur et peut donc varier d’un Utilisateur à l’autre. 
+Le classement des Produits dépend de la navigation de l'Utilisateur et peut donc varier d'un Utilisateur à l'autre. 
 
   
 
@@ -1049,11 +1049,11 @@ Par défaut, les Produits proposés sur le Site internet sont classés par cumul
 
   
 
-Les Produits proposés sur le Site internet peuvent être triés selon plusieurs critères en cliquant sur l’onglet « trier par » par le Client :
+Les Produits proposés sur le Site internet peuvent être triés selon plusieurs critères en cliquant sur l'onglet « trier par » par le Client :
 
   
 
-* Recommandés : les Produits sont alors classés en fonction de la navigation et de l’historique d’achat du Client dans le cas où celui-ci a accepté la politique de cookies ou à défaut, les produits sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
+* Recommandés : les Produits sont alors classés en fonction de la navigation et de l'historique d'achat du Client dans le cas où celui-ci a accepté la politique de cookies ou à défaut, les produits sont classés par cumul des critères suivants : stock disponibles, date de mise en ligne et quantités vendues. 
 
   
 
@@ -1084,7 +1084,7 @@ A l'attention de PRINTEMPS.COM, Adresse postale : Printemps.com Service Relation
 
   
 
-Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien/des biens ci-dessous (préciser la référence et la quantité de chaque produit faisant l’objet de la rétractation) : ……………………………….
+Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien/des biens ci-dessous (préciser la référence et la quantité de chaque produit faisant l'objet de la rétractation) : ……………………………….
 
   
 
