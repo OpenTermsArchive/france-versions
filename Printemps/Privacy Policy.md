@@ -344,7 +344,7 @@ Combien de temps conservons-nous vos données à caractère personnel ?\*4
 
 Un compte est ouvert jusqu'au premier anniversaire de l'évènement. Il peut être reconduit d'une année supplémentaire après étude du dossier. Les comptes dont le solde est équilibré par les opérations réalisées par les bénéficiaires de listes sont anonymisés 3 ans après la dernière date d'activité
 
-GERER LA COMMANDE D’UNE EXPERIENCE LE TEMPS PRINTEMPS
+GERER LA COMMANDE D'UNE EXPERIENCE LE TEMPS PRINTEMPS
 
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ==============================================================================================
@@ -357,7 +357,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
 • Gérer tout contact que vous avez avec nous concernant votre commande
 
-• Gérer, le cas échéant, l’envoi d’offres commerciales
+• Gérer, le cas échéant, l'envoi d'offres commerciales
 
 • Vous permettre de remercier les participants
 
@@ -369,7 +369,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Civilité, nom, prénom
 * Adresses email et postale
 * Numéro de téléphone
-* Type d'évènement / Nom de l’expérience
+* Type d'évènement / Nom de l'expérience
 * Liste des participations
 * Relevés de compte (participations, achats, versements, virements participations, remboursements)
 * Solde du compte
@@ -407,7 +407,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Pays
 * Message du participant à destination du bénéficiaire de la liste / message de l'organisateur à destination du bénéficiaire d'une expérience Le Temps Printemps
 * Les données permettant la gestion de la participation à une liste ou à une expérience Le Temps Printemps (date et heure de la participation, produit réservé pour une liste, montant de la participation par exemple)
-* Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement pour plus d’informations, vous pouvez consulter la rubrique « Gérer le paiement de votre commande » ci-dessus)
+* Mode de paiement et coordonnées bancaires (Il est précisé que les informations relatives au paiement et coordonnées bancaires ne sont pas collectées par nos soins mais directement par nos prestataires de service de paiement pour plus d'informations, vous pouvez consulter la rubrique « Gérer le paiement de votre commande » ci-dessus)
 * Adresse IP de la connexion
 
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
@@ -634,7 +634,7 @@ Pour quelles finalités vos données à caractère personnel peuvent être fourn
 
 • Vous envoyer la confirmation de votre inscription
 
-• Vous permettre d’accéder à la session de live shopping
+• Vous permettre d'accéder à la session de live shopping
 
 • Vous adresser nos offres commerciales avec votre accord 
 
@@ -671,14 +671,14 @@ DIAGNOSTIC BEAUTE
 Pour quelles finalités vos données à caractère personnel peuvent être fournies ou collectées ?
 ==============================================================================================
 
-• Vous faire bénéficier d’un diagnostic beauté et vous adresser votre routine beauté associée
+• Vous faire bénéficier d'un diagnostic beauté et vous adresser votre routine beauté associée
 
 • Vous adresser nos offres commerciales et/ou vous contacter pour une enquête de satisfaction avec votre accord 
 
 Quelles données à caractère personnel pouvons-nous traiter ?
 ============================================================
 
-• Nom, prénom, genre, tranche d’âge
+• Nom, prénom, genre, tranche d'âge
 
 • Adresse email et/ou numéro de téléphone
 
@@ -729,7 +729,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 
 • Nationalité : 
 
-• Document d’identité numéro, date et autorité de délivrance
+• Document d'identité numéro, date et autorité de délivrance
 
   
 
@@ -738,7 +738,7 @@ Sur quelle base légale repose le traitement de vos données à caractère perso
 
 • Exécution d'un contrat (la vente de votre produit de seconde main, le suivi de la relation client)
 
-• Votre consentement pour l’envoi de communication
+• Votre consentement pour l'envoi de communication
 
 • Intérêt légitime des Sociétés Printemps (pour améliorer notre connaissance client)
 
@@ -831,7 +831,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 Sur quelle base légale repose le traitement de vos données à caractère personnel ?
 ==================================================================================
 
-* **Exécution d’un contrat** (pour la participation aux jeux concours et loteries)
+* **Exécution d'un contrat** (pour la participation aux jeux concours et loteries)
 * **Consentement (**pour vous adresser des communications commerciales\*6)
 
 \*6 Même si nous serons déçus de vous voir partir, nous vous rappelons que vous pouvez vous opposer à tout moment à la réception de communications commerciales en cliquant sur le lien de désinscription en bas de nos emails, ou en vous référent à la rubrique « _quels sont vos droits et comment les exercer ?_ »
@@ -988,7 +988,7 @@ Quelles données à caractère personnel pouvons-nous traiter ?
 * Magasin concerné
 * Votre message à l'attention de notre service client
 * Date de création de compte
-* Date de visite souhaitée ou date de prise de contact avec votre bénéficiaire d’une expérience Le Temps Printemps
+* Date de visite souhaitée ou date de prise de contact avec votre bénéficiaire d'une expérience Le Temps Printemps
 * Historique des réclamations (dates et échanges avec notre service client)
 * Numéro de commande ou référence de réservation
 * Historique des commandes (web et magasins)
