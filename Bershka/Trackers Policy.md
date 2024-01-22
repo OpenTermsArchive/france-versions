@@ -226,20 +226,6 @@ fonctionnement de la plateforme.
 
 
 
-Lorsque vous désactivez les cookies, chaque fois que possible, les cookies concernés sont supprimés de
-
-votre navigateur et, en tout état de cause, lorsque vous refusez un cookie mais qu’il n’est pas possible de
-
-le supprimer, nous faisons toujours en sorte qu’il soit bloqué. Nous n’utiliserons donc en aucun cas les
-
-cookies que vous refusez et nous ferons tout notre possible pour les supprimer (veuillez noter que certains
-
-mécanismes de suppression échappent à notre contrôle, étant donné qu’ils dépendent du tiers responsable
-
-du cookie).
-
-
-
 Enfin, si vous naviguez sur Internet, vous pouvez désactiver les cookies dans votre navigateur. Nous vous
 
 indiquons comment le faire dans les navigateurs les plus populaires :
