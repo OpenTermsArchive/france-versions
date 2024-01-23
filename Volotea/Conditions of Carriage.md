@@ -301,9 +301,11 @@ Il est interdit de transporter dans les bagages :
 >     
 > 5. Animaux vivants, exceptés ceux mentionnés dans ces Conditions.
 >     
-> 6. Objets dont le Transporteur estime que leur poids, configuration, dimension, forme ou caractère les rendent impropres au transport.
+> 6. Les trophées de chasse ou les produits d'origine animale qui résultent de la chasse, y compris (des parties de) animaux, sont interdits dans les bagages enregistrés ou les bagages à main. Cette politique vise à protéger la faune de l'extinction et des dommages directs, reflétant l'engagement de Volotea à minimiser l'impact environnemental et sa dévotion à des pratiques responsables. Nous ne transportons pas de marchandises.
 >     
-> 7. Articles ou objets dont le transport est interdit par la législation d’un pays de départ ou de destination du transport.
+> 7. Objets dont le Transporteur estime que leur poids, configuration, dimension, forme ou caractère les rendent impropres au transport.
+>     
+> 8. Articles ou objets dont le transport est interdit par la législation d’un pays de départ ou de destination du transport.
 >     
 
 #### 6.3 Articles considérés comme des marchandises dangereuses
