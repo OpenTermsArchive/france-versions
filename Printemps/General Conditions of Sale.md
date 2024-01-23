@@ -283,7 +283,7 @@ Pour plus d'informations sur les jours et horaires d'ouverture des magasins Prin
 
   
 
-Livraisons offertes dès 200 euros d'achat
+Livraisons offertes dès 200 euros d'achat hors produits Braderie
 
   
 
@@ -329,7 +329,7 @@ Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.c
 
   
 
-Livraisons offertes dès 200 euros d'achat
+Livraisons offertes dès 200 euros d'achat hors produits Braderie
 
   
 
@@ -353,7 +353,7 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
 **Union Européenne**
 
-Livraisons standard offertes dès 300 euros d'achat
+Livraisons standard offertes dès 300 euros d'achat hors produits Braderie
 
   
 
@@ -396,7 +396,7 @@ Le prix varie selon le pays de destination :
 
   
 
-Livraisons offertes dès 300 euros d'achat
+Livraisons offertes dès 300 euros d'achat hors produits Braderie
 
   
 
