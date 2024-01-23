@@ -1030,7 +1030,7 @@ PRINTEMPS informera les Clients de la survenance d'un cas fortuit ou de force ma
 
   
 
-Article 15 – Classement des Produits
+Article 15 - Classement des Produits
 ====================================
 
 Les offres de Produits sur le Site sont présentées par le biais d'une barre de recherche thématique fonctionnant grâce à des mots clefs. 
@@ -1084,19 +1084,19 @@ A l'attention de PRINTEMPS.COM, Adresse postale : Printemps.com Service Relation
 
   
 
-Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien/des biens ci-dessous (préciser la référence et la quantité de chaque produit faisant l'objet de la rétractation) : ……………………………….
+Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien/des biens ci-dessous (préciser la référence et la quantité de chaque produit faisant l'objet de la rétractation) : .....................................
 
   
 
-Commandé le ………………….. et reçu le ………….. :
+Commandé le ....................... et reçu le .............. :
 
   
 
-Nom du (des) consommateur(s) :……………
+Nom du (des) consommateur(s) :...............
 
   
 
-Adresse du (des) consommateur(s) :……………
+Adresse du (des) consommateur(s) :...............
 
   
 
