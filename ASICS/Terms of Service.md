@@ -25,11 +25,11 @@ Conditions d'Utilisation
     
     4.1. Un client peut passer commande à condition de :
     
-    ○      a) fournir avec exactitude ses nom, adresse, numéro de téléphone, adresse e-mail, détailsde paiement et autres informations requises ;
+    a) fournir avec exactitude ses nom, adresse, numéro de téléphone, adresse e-mail, détailsde paiement et autres informations requises ;
     
-    ○      b) fournir une adresse de livraison ou choisir un magasin du territoire \[RH1\] , tel que défini ci-dessous, pour y retirer sa commande ; et
+    b) fournir une adresse de livraison ou choisir un magasin du territoire \[RH1\] , tel que défini ci-dessous, pour y retirer sa commande ; et
     
-    ○      c) être le propriétaire ou le titulaire agréé d'une carte de débit / crédit valide lui permettant d'acheter les produits en cas de paiement par carte de débit / crédit.
+    c) être le propriétaire ou le titulaire agréé d'une carte de débit / crédit valide lui permettant d'acheter les produits en cas de paiement par carte de débit / crédit.
     
     4.2. Toute commande en ligne est passée en cliquant sur le bouton «PASSER AU PAIEMENT» qui redirige le client vers la page de paiement.
     
@@ -91,13 +91,13 @@ Conditions d'Utilisation
     
     12.4. Pour l'option « Retrait en magasin », les conditions suivantes s'appliquent :
     
-    ●      Le client recevra une notification par e-mail une fois que la commande sera disponible pour retrait dans le magasin sélectionné.
+    a) Le client recevra une notification par e-mail une fois que la commande sera disponible pour retrait dans le magasin sélectionné.
     
-    ●      La commande sera conservée dans le magasin sélectionné pendant 14 jours.
+    b) La commande sera conservée dans le magasin sélectionné pendant 14 jours.
     
-    ●      Si la commande n'est pas récupérée sous 14 jours calendaires, celle-ci sera annulée par ASICS et un remboursement sera effectué via la méthode de paiement initialement utilisée par le client.
+    c) Si la commande n'est pas récupérée sous 14 jours calendaires, celle-ci sera annulée par ASICS et un remboursement sera effectué via la méthode de paiement initialement utilisée par le client.
     
-    ●      Le client est tenu de se munir d'une pièce d'identité officielle avec photo et du numéro ou de l'e-mail de confirmation de sa commande pour la retirer.
+    c)  Le client est tenu de se munir d'une pièce d'identité officielle avec photo et du numéro ou de l'e-mail de confirmation de sa commande pour la retirer.
     
     ### 13\. POLITIQUE DE RETOUR ET DROIT DE RÉTRACTATION
     
@@ -178,6 +178,82 @@ Conditions d'Utilisation
     ### 17\. RÉCLAMATIONS
     
     17.1. Si A﻿SICS a commis une erreur concernant une commande, en cas de réclamation ou pour toute autre demande, veuillez contacter ASICS immédiatement par téléphone au +33411950679 ou par e-mail à l'adresse consommateur-fr@asics.com. Nous serons ravis de vous aider. Nous sommes disponibles de 09h00 à 18h00 du lundi au vendredi.
+    
+    h3>18.PROCESSUS DE PRÉCOMMANDE
+    
+    Sous réserve de la disponibilité du service, les conditions générales suivantes s'appliquent.
+    
+    18.1. La précommande est un processus qui permet de commander un produit avant sa date de commercialisation prévue. En raison de la nature d'une précommande, les conditions spéciales suivantes s'appliquent aux produits précommandés :
+    
+    a) Date de sortie du produit. La date de commercialisation prévue (sortie du produit) pour le produit précommandé est indiquée sur la page de description du produit, sur le site web.
+    
+    b) En précommandant le produit, vous effectuez une offre d'achat. L'acceptation de cette offre est soumise à la disponibilité du produit.
+    
+    c) Nous nous réservons le droit de refuser ou d'annuler toute précommande pour quelque raison que ce soit, à notre seule discrétion. Dans une telle éventualité, nous rembourserons tout paiement reçu pour la précommande.
+    
+    18.2. Tarification et paiement
+    
+    Le prix du produit précommandé correspond à celui indiqué sur le site web au moment de la précommande. Le paiement de la précommande est traité à l'expédition de la commande.
+    
+    Vous acceptez le prix du produit lorsque vous le précommandez. Ainsi, toute modification subséquente du prix du produit après votre précommande doit être ignorée.
+    
+    18.3. Livraison
+    
+    La livraison des produits précommandés est prévue avant la date de commercialisation. Les délais de livraison standard s'appliquent à partir du moment où le produit précommandé parvient à nos entrepôts. Cette information constitue uniquement une estimation du meilleur délai, lequel est non contraignant.
+    
+    Date de sortie du produit. La date de commercialisation prévue (sortie du produit) pour le produit précommandé est indiquée sur la page de description du produit, sur le site web. Une estimation du délai de livraison des produits précommandés est disponible sur le site web. Elle est toutefois susceptible de changer.
+    
+    Nous ne saurons être tenus responsables d'un retard ou d'un non-respect du délai de livraison estimé. Vous recevrez une notification lorsque le produit sera prêt à être envoyé. Il sera expédié à l'adresse indiquée au cours du processus de précommande.
+    
+    18.4. Modifications et annulations
+    
+    Vous pouvez annuler votre précommande à tout moment avant les trois (3) jours qui précèdent la date de livraison estimée. Si le montant vous a déjà été débité lorsque vous annulez votre commande, vous recevrez un remboursement total. Le remboursement total est traité au maximum 14 jours après qu'ASICS prend connaissance de votre souhait d'annuler le contrat.
+    
+    Après la réception de votre produit, notre politique de retours et notre droit de rétraction généraux s'appliquent.
+    
+    18.5. Conformité
+    
+    Notre politique de conformité standard, telle qu'énoncée dans nos conditions générales, s'applique aux précommandes.
+    
+    Nous nous réservons le droit de modifier ces conditions d'utilisation à tout moment. Toute modification prendra effet dès sa publication sur le site web. Il vous appartient de consulter ces conditions d'utilisation régulièrement pour vous informer sur les modifications.
+    
+    En précommandant, vous reconnaissez avoir lu, compris et accepté ces conditions générales.
+    
+    ### 19\. PROCESSUS DE COMMANDE DIFFÉRÉE
+    
+    Sous réserve de la disponibilité du service, les conditions générales suivantes s'appliquent.
+    
+    19.1. En passant une commande différée, vous exprimez votre intention d'acheter un produit momentanément en rupture de stock. L'acceptation de cette commande différée est soumise à la disponibilité du produit.
+    
+    Nous nous réservons le droit de refuser ou d'annuler toute commande différée pour quelque raison que ce soit, à notre seule discrétion. Dans une telle éventualité, nous rembourserons tout paiement reçu pour la commande différée.
+    
+    19.2. Tarification et paiement
+    
+    Le prix du produit concerné par la commande différée correspond à celui indiqué sur le site web au moment de la commande différée. Le paiement de la commande différée est traité à l'expédition de la commande.
+    
+    Vous acceptez le prix du produit lorsque vous passez la commande différée. Ainsi, toute modification subséquente du prix du produit après votre commande différée doit être ignorée.
+    
+    19.3. Disponibilité et livraison
+    
+    Une estimation de la disponibilité des produits concernés par la commande différée est disponible sur le site web. Elle est toutefois susceptible de changer. Nous ne saurons être tenus responsables d'un retard ou d'un non-respect du délai de livraison estimé.
+    
+    Vous recevrez une notification lorsque le produit concerné par la commande différée sera prêt à être envoyé. Il sera expédié à l'adresse indiquée au cours du processus de commande différée.
+    
+    19.4. Modifications et annulations
+    
+    Vous pouvez annuler votre commande différée à tout moment avant les trois (3) jours qui précèdent la date de livraison estimée. Si le montant vous a déjà été débité lorsque vous annulez votre commande, vous recevrez un remboursement total. Le remboursement total est traité au maximum 14 jours après qu'ASICS prend connaissance de votre souhait d'annuler le contrat.
+    
+    Nous pouvons apporter des changements au produit avant son envoi, notamment en ce qui concerne ses caractéristiques et ses particularités. En cas de changement important, nous vous enverrons une notification et vous donnerons la possibilité d'annuler votre commande différée. Vous recevrez alors un remboursement total.
+    
+    Après la réception de votre produit, notre politique de retours et notre droit de rétraction généraux s'appliquent.
+    
+    19.5. Conformité
+    
+    Notre politique de conformité standard, telle qu'énoncée dans nos conditions générales, s'applique aux commandes différées.
+    
+    Nous nous réservons le droit de modifier ces conditions d'utilisation à tout moment. Toute modification prendra effet dès sa publication sur le site web. Il vous appartient de consulter ces conditions d'utilisation régulièrement pour vous informer sur les modifications.
+    
+    En passant une commande différée, vous reconnaissez avoir lu, compris et accepté ces conditions générales.
     
 * [PROMOTIONS](# "Open <span style="color:#001e63;">PROMOTIONS</span>")
     
