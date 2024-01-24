@@ -52,7 +52,7 @@ Les destinataires de vos données en interne sont :
 * le data analyste de Xandrie ;
 * le service client de Xandrie.
 
-Les destinataires externes de vos données sont :
+Les destinataires de vos données en interne sont :
 
 * les sous-traitants de Xandrie (les prestataires techniques en charge de l’hébergement des données ou des développements informatiques, les prestataire de services de paiement…) ;
 * les partenaires et tiers que vous aurez autorisés.
