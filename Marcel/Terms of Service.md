@@ -416,18 +416,18 @@ Annexe : Frais d’Annulation et Frais d’Attente
 
 **Pour les courses en Île de France, Nice et Lyon**
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-|     | Berline - Électrique/Hybride | Business | Van | Cyclocab |
-| À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC | 100% du prix de la course |
-| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la course |
-| Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation | \-  |
-| Immédiat (plus de 5 min après la commande) | 15 € TTC | 21,5€ TTC | 21,5€ TTC | \-  |
+|     |     |     |     |
+| --- | --- | --- | --- |
+|     | Berline - Électrique/Hybride | Business | Van |
+| À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
+| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC |
+| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum |
+| Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
+| Immédiat (plus de 5 min après la commande) | 15 € TTC | 21,5€ TTC | 21,5€ TTC |
 
 #### Frais d’Attente
 
-| Berline - Électrique/Hybride - Cyclocab | Business | Van |
+| Berline - Électrique/Hybride | Business | Van |
 | --- | --- | --- |
 | 0,65€ TTC / minute | 0,85€ TTC / minute | 0,85€ TTC / minute |
 
