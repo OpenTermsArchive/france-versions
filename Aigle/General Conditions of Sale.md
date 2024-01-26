@@ -6,7 +6,7 @@ Conditions Générales de Vente
 
 Les présentes Conditions Générales de Vente (ci-après les « CGV ») ont vocation à définir les règles applicables dans le cadre de la vente de produits commercialisés (ci-après le ou les « Produit(s)»)  sur la boutique en ligne Aigle, [www.aigle.com](http://www.aigle.com/)/fr (ci-après le « Site »).
 
-Toute référence à « Aigle », « nous » ou « notre » dans le cadre de ces CGV désigne la société Aigle International SA, Société anonyme  au capital de 34 004 000,00 euros, dont le siège social est au 57 boulevard de Montmorency 75016 Paris, immatriculée au R.C.S. de Paris sous le numéro 314 397 712.
+Toute référence à « Aigle », « nous » ou « notre » dans le cadre de ces CGV désigne la société Aigle International SA, Société anonyme  au capital de 20 488 340,00 euros, dont le siège social est au 57 boulevard de Montmorency 75016 Paris, immatriculée au R.C.S. de Paris sous le numéro 314 397 712.
 
 N° TVA INTRACOM: FR68 314 397 712.
 
