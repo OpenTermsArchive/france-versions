@@ -494,14 +494,6 @@ Article 11 : Comportement à bord
 
 11.5. En principe, obligation est faite aux passagers de rester à leur place et d'attacher leur ceinture pendant toute la durée du vol.
 
-### Port du masque obligatoire
-
-11.6. Vous êtes tenu de porter un masque qui couvre entièrement la bouche et le nez pendant l'embarquement, tout au long du vol et à la sortie de l'avion.
-
-11.6.1. Les enfants jusqu'à l'âge de six ans sont exemptés de cette obligation, ainsi que les personnes dont il est prouvé qu'elles ne peuvent pas porter de masque pour des raisons de santé, uniquement si elles fournissent un certificat médical valide en utilisant le formulaire de Brussels Airlines et un test Covid19 (PCR) négatif officiellement reconnu endéans les 48 heures précédant l'heure de départ prévue.
-
-11.6.2. De plus amples informations, notamment sur le [_​_formulaire de Brussels Airlines](https://webv4.brusselsairlines.com/prod/content/v3assets/pdf/SN_COVID19_medical_certificate_mask.pdf), l'admissibilité des différents types de masques et les coordonnées de contact, sont disponibles ici. Les personnes qui, pour des raisons factuelles, ne peuvent pas présenter un test Covid19 négatif répondant aux exigences énoncées au point 11.6.1., veuillez cliquer ici.
-
 Article 12 : Dispositions pour les prestations de service supplémentaires
 -------------------------------------------------------------------------
 
