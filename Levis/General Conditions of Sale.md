@@ -405,11 +405,6 @@ Surprise d’anniversaire (facultatif)
 
 Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
 
-10 %, ça vous tente ?
----------------------
-
-10 % sur votre prochaine commande si vous vous abonnez à notre newsletter. Uniquement pour les nouveaux abonnés. Désabonnement possible à tout moment.
-
 Je m’abonne !Non, merci !
 
 By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
