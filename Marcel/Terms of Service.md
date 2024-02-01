@@ -158,7 +158,7 @@ En tout état de cause, le montant total du prix de la Course est fixé préalab
 
 ### 6.2 Options payantes
 
-* Accueil personnalisé : option payante à hauteur de 10€ à l’aéroport.
+* Accueil pancarte personnalisé : option payante à hauteur de 10€ à l’aéroport pour les gammes Berline, Électrique/hybride et Van.
 * Option siège bébé / réhausseur : option payante à hauteur de 10€/ siège bébé / réhausseur. Si vous ne possédez pas de siège enfant lors de votre trajet, le chauffeur sera susceptible de refuser de vous prendre en charge. Le trajet pourra être annulé et des frais d’annulation seront facturés pour dédommager le chauffeur. 
 * Option chiens de moyennes tailles : option payante à hauteur de 20€ / chien
 
@@ -419,24 +419,32 @@ Annexe : Frais d’Annulation et Frais d’Attente
 |     |     |     |     |
 | --- | --- | --- | --- |
 |     | Berline - Électrique/Hybride | Business | Van |
-| À l’avance (plus de 1h avant le début de la Réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
-| À l’avance (entre 1h et 30 min avant le début de la Réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC |
-| A l’avance (moins de 30 min avant le début de la Réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum |
+| À l’avance (plus de 1h avant le début de la réservation) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
+| À l’avance (entre 1h et 30 min avant le début de la réservation) | 24 € TTC | 41,5€ TTC | 41,5€ TTC |
+| A l’avance (moins de 30 min avant le début de la réservation) | 100% du prix de la Réservation à hauteur de 36,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum | 100% du prix de la Réservation à hauteur de 66,5€ TTC maximum |
 | Immédiat (moins de 5 min après la commande) | Pas de frais d’annulation | Pas de frais d’annulation | Pas de frais d’annulation |
 | Immédiat (plus de 5 min après la commande) | 15 € TTC | 21,5€ TTC | 21,5€ TTC |
 
+|     |     |     |
+| --- | --- | --- |
+|     | **Prestige** |     |
+|     | _Trajets hors aéroports_ | _Trajets hors aéroports_ |
+| Plus de 24h avant le début de la réservation | Pas de frais d’annulation | Pas de frais d’annulation |
+| Entre 1h et 2h avant le début de la réservation | 50% du prix de la course | 40€ TTC |
+| Moins de 1h avant le début de la réservation | 100% du prix de la course | 95€ TTC |
+
 #### Frais d’Attente
 
-| Berline - Électrique/Hybride | Business | Van |
-| --- | --- | --- |
-| 0,65€ TTC / minute | 0,85€ TTC / minute | 0,85€ TTC / minute |
+| **Berline - Électrique/Hybride** | **Business** | **Van** | **Prestige** |
+| --- | --- | --- | --- |
+| 0,65€ TTC / minute | 0,85€ TTC / minute | 0,85€ TTC / minute | 1€ TTC / minute |
 
 #### Récapitulatif des temps d’attente offerts
 
-| Hors aéroport | Aéroport |     |     |
-| --- | --- |
-| Toutes les gammes | Berline - Électrique/Hybride - Business - Van |
-| 5 minutes | 20 minutes |
+| **Hors aéroport** | **Aéroport** | **Hors aéroport** | **Aéroport** |
+| --- | --- | --- | --- |
+| Berline - Électrique/Hybride - Business - Van | Berline - Électrique/Hybride - Business - Van | Prestige | Prestige |
+| 5 minutes | 20 minutes | 10 minutes | 1 heure |
 
 **Pour les autres villes de France** 
 
@@ -453,7 +461,6 @@ Annexe : Frais d’Annulation et Frais d’Attente
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-|     |     |     |     |
 | Gamme Berline | 10 minutes gratuites |     |     |
 
 Aucun frais d’attente n’est facturé.
