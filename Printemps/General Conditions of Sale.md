@@ -992,7 +992,6 @@ Article 11 - Service client
 
 En cas de difficulté survenant à l'occasion de la commande ou de la livraison des Produits, afin de solliciter un règlement à l'amiable, le Client peut contacter le service client :
 
-* par email à l'adresse [**service-client@printemps.com**](mailto:service-client@printemps.com)
 * via le formulaire accessible en ligne à l'adresse suivante [**https://support.printemps.com/hc/fr-fr/requests/new**](https://support.printemps.com/hc/fr-fr/requests/new)
 
   
