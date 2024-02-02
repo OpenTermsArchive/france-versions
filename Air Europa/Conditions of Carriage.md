@@ -628,11 +628,15 @@ Article 11. Comportement à bord de l'avion, lors de l'enregistrement et des op�
 
 #### 
 
-Article 12. Accords relatifs à la fourniture de services supplémentaires
+Article 12. Services supplémentaires et Air Europa Holidays
 
-1\. En vertu de la loi applicable et si, au cours de la conclusion du Contrat de Transport aérien Air Europa accepte également de conclure des accords avec des tiers pour que ces derniers offrent aux passagers d'autres services que ceux du transport aérien, ou si Air Europa émet un billet ou un bon avec le transport ou les services (autres que le transport aérien) à fournir par des tiers, tels que les réservations d'hôtel ou la location de voitures, ce faisant Air Europa agit uniquement en qualité d'agent. Les conditions générales des tiers fournissant ces services sont applicables et Air Europa déclinera toute responsabilité pour le manquement à ces obligations.
+1\. En cas de souscription d'un service autre que le transport aérien, promu via le site internet d'Air Europa, vous conclurez un contrat avec un tiers, et ce contrat sera donc régi par les conditions générales établies par celui-ci, qui sera le responsable exclusif de la prestation de ce service.
 
-2\. Si Air Europa fournit des transports de surface, d'autres conditions de transport et, en particulier, d'autres régimes de responsabilité peuvent s'appliquer. Si elles sont demandées, ces conditions de transport ou ces régimes de responsabilité sont fournis par le transporteur chargé du service de transport de surface.
+2\. En cas de souscription d'une assurance via le site internet d'Air Europa, celle-ci sera régie conformément aux conditions générales établies par l'assureur, et toutes les questions relatives à ce service devront lui être adressées.
+
+3\. En cas de souscription de services offerts par Air Europa Holidays, vous conclurez un contrat avec un tiers, et Air Europa Líneas Aéreas S.A.U. ne sera donc pas responsable de la bonne exécution de ces services qui, le cas échéant, seront  régis par les conditions générales établies à cet effet sur son site internet et disponibles via le lien suivant : [https://holidays.aireuropa.com/byl/aviso-legal/](https://holidays.aireuropa.com/byl/aviso-legal/)
+
+4\. En cas d'insolvabilité de l'entité chargée de l'offre des services proposés par Air Europa Holidays, Air Europa Líneas Aéreas S.A.U. ne sera pas responsable, la garantie devant être constituée par ladite entité, conformément aux dispositions du décret royal législatif 1/2007 du 16 novembre et de la directive (UE) 2015/2302 du Parlement européen et du Conseil, du 25 novembre 2015, relative aux voyages à forfait et aux prestations de voyage liées.
 
 #### 
 
