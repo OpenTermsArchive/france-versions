@@ -51,7 +51,7 @@ Ces informations contiennent notamment les données suivantes :
 
 **2.1.14.** Une photo de votre permis de conduire, une photographie spontanée via un selfie dans le cadre de la vérification d’identité et un contrôle de correspondance automatisé ou manuel, conformément aux exigences légales et réglementaires applicables à la prime covoiturage ;
 
-**2.1.15.** Le certificat de signature électronique utilisé le cas échéant à la signature d’une attestation sur l’honneur requise en cas de bénéfice d’une prime covoiturage ;
+**2.1.15.** Les données personnelles relatives à votre attestation sur l’honneur requise en cas de bénéfice d’une prime covoiturage ;
 
 **2.1.16.** Les données relatives à votre souscription d’assurances, ainsi qu’à vos renonciations à ces souscriptions, le cas échéant, et une copie des déclarations effectuées et formulaires complétés aux fins de souscriptions ou de gestion des contrats.
 
