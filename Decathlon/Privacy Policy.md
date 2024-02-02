@@ -1533,7 +1533,7 @@ Les données que vous nous confiez sont traitées par DECATHLON France SAS, 4 bo
 
 Données traitées
 
-Nous traitons les données nécessaires à votre participation au programme de fidélité : vos informations personnelles (nom/prénom, adresse email, date de naissance, etc), vos activités sportives, vos avis déposés après achat, vos achats en ligne ou en magasin. De manière plus générique, vos interactions avec Décathlon et ses partenaires.
+Nous traitons les données nécessaires à votre participation au programme de fidélité : vos informations personnelles (nom/prénom, adresse email, date de naissance, téléphone, etc), vos activités sportives, vos avis déposés après achat, vos achats en ligne ou en magasin. De manière plus générique, vos interactions avec Décathlon et ses partenaires.
 
 Durée de conservation
 
@@ -1541,17 +1541,17 @@ Vos données personnelles sont conservées tant que vous interagissez avec le pr
 
 Vos droits
 
-Vous pouvez demander à consulter, rectifier voire supprimer vos données personnelles via le retrait de consentement. Sous certaines condifitions, vous pouvez aussi demander à ce que vos données soient transférées à une autre entité que DECATHLON. Il vous suffit de nous envoyer un message en cliquant juste [ici](https://www.decathlon.fr/help/app/ask/cat_id/920) .  
+Vous pouvez demander à consulter, rectifier voire supprimer vos données personnelles via le retrait de consentement. Sous certaines conditions, vous pouvez aussi demander à ce que vos données soient transférées à une autre entité que DECATHLON. Il vous suffit de nous envoyer un message en cliquant juste [ici](https://www.decathlon.fr/help/app/ask/cat_id/920) .  
 Sous certaines conditions, vous pouvez aussi demander le transfert de vos données à une autre entité que DECATHLON.  
 [Plus d’informations sur vos droits](https://www.decathlon.fr/donnees-personnelles.html#savoirdroits)
 
 Destinataires des données
 
-Vos données sont destinées aux équipes de DECATHLON. Des sous-traitants techniques en charge de l’hébergement des données, des règles relatives au programme de fidélité, ou l’envoi de notifications et d’emails peuvent traiter vos données personnelles. Leur accès est strictement encadré par DECATHLON. Ils n'ont pas la possibilité d'utiliser vos données à d'autres fins que l'exécution de la prestation. Sur réquisition judiciaire, ces données peuvent également être transférées aux autorités (police, gendarmerie etc...)
+Vos données sont destinées aux équipes de DECATHLON. Des sous-traitants techniques en charge de l’hébergement des données, des règles relatives au programme de fidélité, ou l’envoi de notifications, d’emails et de sms peuvent traiter vos données personnelles. Leur accès est strictement encadré par DECATHLON. Ils n'ont pas la possibilité d'utiliser vos données à d'autres fins que l'exécution de la prestation. Sur réquisition judiciaire, ces données peuvent également être transférées aux autorités (police, gendarmerie etc...)
 
 Transfert hors UE
 
-Chez DECATHLON, nous mettons tout en oeuvre pour protéger vos données personnelles en suivant la réglementation européenne. Vos données sont stockées sur des serveurs. Dans le cadre de la réalisation du programme de fidélité, certaines de vos données sont transférées en dehors de l’UE. Plus d’informations sur les transferts de données
+Chez DECATHLON, nous mettons tout en oeuvre pour protéger vos données personnelles en suivant la réglementation européenne. Vos données sont stockées sur des serveurs. Dans le cadre de la réalisation du programme de fidélité, certaines de vos données sont transférées en dehors de l’UE. [Plus d’informations sur les transferts de données](https://www.decathlon.fr/donnees-personnelles.html#savoirtransfert)
 
 Base légale du traitement
 
