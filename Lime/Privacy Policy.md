@@ -1,7 +1,3 @@
-This website **www.li.me/fr-fr/legal/privacy-policy/** is currently offline. [Cloudflare's Always Online™](https://www.cloudflare.com/always-online/) shows a snapshot of this web page from the [Internet Archive's Wayback Machine](https://archive.org/web/). To check for the live version, click **Refresh**.
-
-[](javascript:void(null);)
-
 À compter du : 2 janvier 2024
 
 Chez Neutron Holdings, Inc. dba Lime et ses sociétés affiliées (collectivement « **Lime** », « **nous** », « **notre** », ou « **nos** ») nous sommes fortement engagés envers la transparence, et nous tenons à ce que vous (« **vous** » ou « **vos** ») compreniez comment nous collectons, utilisons, partageons et protégeons vos données. Le présent avis de confidentialité (« **Avis de confidentialité** ») décrit comment Lime traite les données relatives aux sites Web de Lime, aux véhicules possédés par Lime et aux applications et services mobiles connexes (collectivement, les « **Services** »), et quand vous interagissez autrement avec nous. Lorsque cela est spécifié, la présente politique décrit également nos pratiques en matière de données relatives aux Prestataires logistiques ou membres du personnel des Prestataires logistiques.
