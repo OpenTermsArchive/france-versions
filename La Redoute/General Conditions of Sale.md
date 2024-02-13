@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 16 janvier 2024
-=======================================================================================================================================
+Mise à jour du 8 février 2024
+======================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -149,14 +149,14 @@ Pour le retrait de la commande de Produits en point de retrait, une pièce d'ide
 Les Produits sur-mesure, les Produits brodés et personnalisés et les cadeaux gratuits demandés sans commande seront uniquement livrés à votre domicile (France continentale, Corse et Monaco uniquement), en 8 à 18 jours à partir de la commande.
 
   
-**6.1.2. Pour les Produits volumineux (signalés par une camionnette de couleur)**  
+**6.1.2. Pour les Produits volumineux**  
   
 **\- « Livraison à domicile »**
 
 | Caractéristiques du produit | Livraison | Délai moyen | Tarif |
 | --- | --- | --- | --- |
-| Produit de + de 30kg et/ou L+l+h > 2m | A domicile, dans la pièce de votre choix | En 8 à 12 jours ouvrés | **De 22€ à 139€**  <br>En fonction de l'article |
-| Produit de – de 30kg et L+l+h < 2m | A domicile, livraison pas de porte\* | En 8 à 12 jours ouvrés | **De 22€ à 49€**  <br>En fonction de l'article |
+| Produit de + de 30kg et/ou L+l+h > 2m | A domicile, dans la pièce de votre choix | En 8 à 12 jours ouvrés | **De 29€ à 139€**  <br>En fonction de l'article |
+| Produit de – de 30kg et L+l+h < 2m | A domicile, livraison pas de porte\* | En 8 à 12 jours ouvrés | **De 29€ à 49€**  <br>En fonction de l'article |
 
 \*Si vous habitez un appartement, la livraison pas de porte s’entend comme la livraison au pied de l’immeuble et non devant la porte de votre appartement.
 
@@ -227,7 +227,7 @@ Vous devez ensuite retourner les Produits à LA REDOUTE, au plus tard dans les q
 * en point Relais Colis ® avec le bordereau de réexpédition qui vous sera envoyé par email.
 
   
-Pour les Produits volumineux signalés par une camionnette, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 362 950 (coût d'un appel local).
+Pour les Produits volumineux, les Produits retirés en Drive ou pour les Produits ne pouvant pas être retournés par la Poste ou en point Relais Colis ®, LA REDOUTE organisera gratuitement leur reprise à domicile, si Vous appelez au 0969 362 950 (coût d'un appel local).
 
 Pour les cartes cadeaux, Vous devez simplement envoyer par email à LA REDOUTE, dans le délai de quatorze (14) jours susvisés, le code à 19 chiffres associé à la carte cadeau (ce code figure soit sur la carte cadeau physique soit dans l’email contenant la carte dématérialisée), à l’adresse email suivante : [contact\_retractation@redoute.fr](mailto:contact_retractation@redoute.fr). A la réception du code de la carte cadeau, LA REDOUTE procèdera à la désactivation à distance de la carte.  
   
@@ -260,7 +260,7 @@ Vous pouvez retourner le Produit à échanger à LA REDOUTE par La Poste ou en p
   
 Pour rappel, les frais de port retour sont gratuits en point Relais Colis ® ou en reprise à domicile pour les Produits volumineux, à l'exception des retours par La Poste qui restent à votre charge.  
   
-Pour les Produits volumineux signalés par une camionnette, La Redoute organisera gratuitement leur reprise à domicile, si vous en faites la demande au 09 69 32 35 15 (coût d'un appel local). Le Produit à reprendre doit être intact, complet, emballé et le cas échéant, débranché. La reprise du Produit pourra éventuellement se faire en même temps que la livraison du nouveau Produit, sous réserve de l'organisation des transporteurs et de la disponibilité du Produit.
+Pour les Produits volumineux, La Redoute organisera gratuitement leur reprise à domicile, si vous en faites la demande au 09 69 32 35 15 (coût d'un appel local). Le Produit à reprendre doit être intact, complet, emballé et le cas échéant, débranché. La reprise du Produit pourra éventuellement se faire en même temps que la livraison du nouveau Produit, sous réserve de l'organisation des transporteurs et de la disponibilité du Produit.
 
 **7.3. Cas particulier d’un Produit non conforme**  
   
