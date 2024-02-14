@@ -47,9 +47,9 @@ La présente politique de confidentialité est basée sur les définitions suiva
 
 La personne responsable du traitement de vos données à caractère personnel (art. 4(7) du RGPD) est :
 
-Flix SE  
-Friedenheimer Brücke 16  
-80639 Munich  
+Flix SE    
+Friedenheimer Brücke 16    
+80639 Munich    
 Téléphone : +49 (0)30 300 137 300
 
 E-mail : [service@flixbus.fr](mailto:service@flixbus.fr)
@@ -62,8 +62,8 @@ Le délégué à la protection des données de notre société est à votre disp
 
 Ses coordonnées sont :
 
-Flix SE  
-Friedenheimer Brücke 16  
+Flix SE    
+Friedenheimer Brücke 16    
 80639 Munich
 
 E-mail : [data.protection@flixbus.com](mailto:data.protection@flixbus.com)
@@ -149,8 +149,8 @@ Nous serons heureux de vous fournir de plus amples informations à ce sujet sur 
 
 Ses coordonnées sont les suivantes :
 
-Flix SE  
-Friedenheimer Brücke 16  
+Flix SE    
+Friedenheimer Brücke 16    
 80639 Munich
 
 E-mail : [it-security@flixbus.com](mailto:it-security@flixbus.com)
@@ -159,30 +159,30 @@ E-mail : [it-security@flixbus.com](mailto:it-security@flixbus.com)
 
 Vous pouvez à tout moment faire valoir vos droits en tant que personne concernée au sujet de vos données à caractère personnel, en particulier en nous contactant à l’aide des coordonnées indiquées dans la clause 1.2. Les personnes concernées disposent des droits suivants en vertu du RGPD :
 
-**Droit d’accès**  
+**Droit d’accès**    
 Vous pouvez demander des informations conformément à l’article 15 du RGPD concernant vos données à caractère personnel que nous traitons. Dans votre demande d’informations, vous devez indiquer clairement votre question afin de nous permettre de rassembler plus facilement les données nécessaires. Sur demande, nous vous fournirons une copie des données qui font l’objet du traitement. Veuillez noter que votre droit à l’information peut être limité dans certaines circonstances, conformément aux dispositions réglementaires.
 
-**Droit de rectification**  
+**Droit de rectification**    
 Si les informations vous concernant ne sont pas (ou plus) exactes, vous pouvez demander une rectification conformément à l’article 16 du RGPD. Si vos données sont incomplètes, vous pouvez demander qu’elles soient complétées.
 
-**Droit à l’effacement**  
+**Droit à l’effacement**    
 Vous pouvez demander l’effacement de vos données à caractère personnel conformément aux dispositions de l’article 17 du RGPD. Votre droit à l’effacement dépend, entre autres choses, de la question de savoir si les données vous concernant nous sont encore nécessaires à l’exécution de nos obligations légales.
 
-**Droit à la limitation du traitement**  
+**Droit à la limitation du traitement**    
 Conformément aux dispositions de l’article 18 du RGPD, vous avez le droit de demander une limitation du traitement des données vous concernant.
 
-**Droit à la portabilité des données**  
+**Droit à la portabilité des données**    
 Conformément aux dispositions de l’article 20 du RGPD, vous avez le droit de recevoir les données que vous nous avez fournies dans un format structuré, couramment utilisé et lisible par machine, ou de demander la transmission à un autre responsable du traitement.
 
-**Droit d’opposition**  
+**Droit d’opposition**    
 **Conformément à l’article 21 paragraphe 1 du RGPD, vous avez le droit de vous opposer à tout moment au traitement de vos données pour des raisons liées à votre situation particulière. Vous pouvez vous opposer à recevoir de la publicité à tout moment avec effet pour l’avenir, conformément à l’article 21 paragraphe 2 du RGPD (opposition à la publicité dans le cas du marketing direct).**
 
-**Droit de faire appel**  
+**Droit de faire appel**    
 Si vous estimez que nous n’avons pas respecté les dispositions des réglementations relatives à la protection des données lors du traitement de vos données, vous pouvez vous plaindre auprès d’une autorité de contrôle de la protection des données du traitement de vos données à caractère personnel, notamment auprès de l’autorité de contrôle de la protection des données envers qui nous sommes responsables :
 
 Bureau d’État bavarois pour la supervision de la protection des données, Promenade 18, 91522 Ansbach
 
-**Droit de retirer son consentement**  
+**Droit de retirer son consentement**    
 Vous pouvez à tout moment retirer votre consentement au traitement de vos données avec effet futur. Cela s’applique également aux déclarations de consentement qui ont été émises avant l’entrée en vigueur du RGPD, c’est-à-dire avant le 25/05/2018.
 
 2\. Informations spéciales
@@ -266,10 +266,10 @@ Nos prestataires de services de paiement sont les suivants :
 
 | **Prestataires de services de paiement** | **Modes de paiement** |
 | --- | --- |
-| Adyen N.V.  <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Pays-Bas  <br>Politique de confidentialité :  <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy). | Carte de crédit  <br>Swish  <br>Google Pay  <br>Apple Pay  <br>iDeal  <br>Dotpay  <br>Sofort/Klarna |
-| PayU Bilgi Teknolojileri A.S.  <br>Otakcilar Cad. No: 78, Flat Ofis D-Blok 34050, Eyup - ISTANBUL  <br>Politique de confidentialité :  <br>[https://payu.in/privacy-policy](https://payu.in/privacy-policy) | Carte de crédit |
-| Paymill Plus GmbH  <br>St.-Martin-Straße 63, 81669 Munich  <br>Politique de confidentialité :  <br>[https://www.paymill.com/en/privacy-policy/](https://www.paymill.com/en/privacy-policy/) | Postfinance |
-| PayPal (Europe) S.à r.l. et Cie, S.C.A.  <br>22-24 Boulevard Royal 2449 Luxembourg  <br>Politique de confidentialité :  <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
+| Adyen N.V.    <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Pays-Bas    <br>Politique de confidentialité :    <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy). | Carte de crédit    <br>Swish    <br>Google Pay    <br>Apple Pay    <br>iDeal    <br>Dotpay    <br>Sofort/Klarna |
+| PayU Bilgi Teknolojileri A.S.    <br>Otakcilar Cad. No: 78, Flat Ofis D-Blok 34050, Eyup - ISTANBUL    <br>Politique de confidentialité :    <br>[https://payu.in/privacy-policy](https://payu.in/privacy-policy) | Carte de crédit |
+| Paymill Plus GmbH    <br>St.-Martin-Straße 63, 81669 Munich    <br>Politique de confidentialité :    <br>[https://www.paymill.com/en/privacy-policy/](https://www.paymill.com/en/privacy-policy/) | Postfinance |
+| PayPal (Europe) S.à r.l. et Cie, S.C.A.    <br>22-24 Boulevard Royal 2449 Luxembourg    <br>Politique de confidentialité :    <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
 
 La base juridique est l’article 6, paragraphe 1(b) ou (f) du RGPD.
 
@@ -480,13 +480,19 @@ Si vous ne souhaitez pas que Microsoft utilise des informations sur votre compor
 
 Pour plus d’informations sur la confidentialité et les cookies utilisés par Microsoft et Bing ads, veuillez consulter le site Web de Microsoft [https://privacy.microsoft.com/en-gb/privacystatement](https://privacy.microsoft.com/en-gb/privacystatement).
 
-### 2.1.8 Apprentissage automatique :
+### 2.1.8 Apprentissage automatique et adaptation dynamique du site Web/de l’application
 
 Nous avons recours à l’apprentissage automatique afin d’optimiser et d’automatiser nos processus. Cela implique d’enseigner une logique décisionnelle système fondée sur des cas pratiques. Autrement dit, le système peut tirer les enseignements du passé et utiliser des algorithmes afin de concevoir des modèles statistiques applicables à des tâches similaires à l’avenir.
 
-Nous avons par exemple recours à l’apprentissage automatique dans un modèle sécurisé et haché afin de créer rapidement et facilement des offres de voyage personnalisées pour vous. À cette fin, nous utilisons des données de référentiel, notamment le domain\_userid, l’historique de recherche et des voyages et l’adresse IP correspondants. Nous avons fondé ce traitement de données sur notre intérêt légitime en application de l’article 6, paragraphe 1, alinéa (f) du RGPD, car nous avons un intérêt financier à vous proposer les voyages les plus adaptés. Ce traitement va également dans votre intérêt, car vous recevrez des offres de voyage adaptées à vos besoins plutôt que des recommandations génériques.
+Nous avons par exemple recours à l’apprentissage automatique dans un modèle sécurisé et haché afin de créer rapidement et facilement des offres de voyage personnalisées pour vous. À cette fin, nous utilisons des données de référentiel, notamment l’identifiant utilisateur, l’historique de recherche et des voyages et l’adresse IP correspondants. 
 
-Vous pouvez à tout moment nous aviser de votre opposition au traitement de vos données réalisé à des fins d’apprentissage automatique conformément aux dispositions légales à l’adresse électronique « [data.protection@flixbus.com](mailto:data.protection@flixbus.com) ». Sachez toutefois que vous ne recevrez dès lors que des recommandations génériques.
+De plus, nous utilisons les données afin d’adapter automatiquement notre site Web et notre application dans le but de vous proposer la meilleure expérience possible. Nous pouvons utiliser par exemple votre historique d’achat afin de vous proposer des services supplémentaires (par ex. : l’ajout d’une réservation de siège, l’achat de bagages supplémentaires, etc.) ou vous aider dans votre parcours utilisateur (par ex. : si vous avez un voyage prévu prochainement, nous pourrions vous indiquer le suivi en temps réel de votre bus).
+
+À cette fin, outre les données de référentiel énumérées ci-dessus, nous utilisons également l’historique d’achat et les discussions échangées avec Flix via le service client. Les données sont salées et hachées afin de fournir un niveau de protection supplémentaire.     
+
+Nous avons fondé ce traitement de données sur notre intérêt légitime en application de l’article 6, paragraphe 1, alinéa (f) du RGPD, car nous avons un intérêt financier à vous proposer les voyages les plus adaptés. Ce traitement va également dans votre intérêt, car vous recevrez des offres de voyage adaptées à vos besoins plutôt que des recommandations génériques, ou alors nous vous redirigerons vers des services qui bénéficieraient à votre expérience de planification, de voyage et d’après-voyage.
+
+Vous pouvez à tout moment nous aviser de votre opposition au traitement de vos données réalisé à des fins d’apprentissage automatique ou d’adaptation dynamique du site Web/de l’application conformément aux dispositions légales à l’adresse électronique [data.protection@flixbus.com](mailto:data.protection@flixbus.com). Sachez toutefois que vous ne recevrez dès lors que des services génériques.
 
 ### 2.1.9 Prévention de la fraude
 
