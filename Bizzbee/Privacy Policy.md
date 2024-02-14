@@ -87,7 +87,7 @@ Vous pouvez également à tout moment nous fournir des instructions sur le sort 
 
 Vous pouvez exercer vos droits en nous écrivant à l’adresse suivante : BZB - Service Clients -152 Avenue Alfred Motte, 59100 Roubaix ou via notre formulaire de contact en ligne disponible en cliquant [ici](https://www.b-z-b.com/nous-contacter/) (rubrique « Protection des données personnelles »).
 
-Vous pouvez également nous adresser toute question relative à la protection de vos données personnelles en nous écrivant à l’adresse suivant : [dpo@happychicgroup.com](mailto:dpo@happychicgroup.com).
+Vous pouvez également nous adresser toute question relative à la protection de vos données personnelles en nous écrivant à l’adresse suivant : [dpobzbz@b-z-b.com](mailto:dpobzbz@b-z-b.com).
 
 Enfin, vous bénéficiez également du droit de déposer une plainte auprès d’une autorité de contrôle (en France la CNIL) en cas de violation des règles applicables en matière de protection des données.
 
