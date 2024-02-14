@@ -389,3 +389,24 @@ Pour consulter la Politique de confidentialité de Levi Strauss & Co., [**clique
 Pour de plus amples informations concernant nos politiques et nos pratiques en matière de cookies et de navigation des consommateurs, [**cliquez ici**](https://www.levi.com/FR/fr_FR/legal/privacy-policy#cookies) et lisez notre Politique relative aux cookies.
 
 [Print This Page](javascript:window.print())
+
+Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
+
+LA VIE EST PLUS SYMPA QUAND ON EST MEMBRE DU PROGRAMME LEVI’S® RED TAB™
+
+Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
+
+Hide PasswordHide Password
+
+Les mots de passe doivent contenir au moins 8 caractères et être difficiles à deviner - les mots de passe couramment utilisés ou risqués ne sont pas autorisés.
+
+Surprise d’anniversaire (facultatif)
+------------------------------------
+
+Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
+
+Je m’abonne !Non, merci !
+
+By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+
+Nous rejoindre[Se connecter avec un compte existant](javascript:;)
