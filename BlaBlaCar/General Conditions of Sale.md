@@ -3,7 +3,7 @@ Conditions générales
 
 [Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Droits des Passagers Autocar](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32011R0181) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
-Conditions Générales d’Utilisation applicables à compter du 17 février 2024.
+Conditions Générales d’Utilisation applicables à compter du 17 février 2024, à l’exception des articles 5.4.1, 5.4.2 a et b applicables à compter du 26 février 2024.
 
 **1\. Objet**
 -------------
@@ -283,7 +283,7 @@ Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou au
 
 À compter de cette confirmation expresse ou tacite, vous disposez, en tant que Conducteur, d’un crédit exigible sur votre Compte. Ce crédit correspond au montant total payé par le Passager au moment de la confirmation de la Réservation diminué des Frais de Service, c’est-à-dire au montant de la Participation aux Frais payée par le Passager.
 
-a. Solution de Paiement Hyperwallet
+**a. Solution de Paiement Hyperwallet**
 
 La Solution de Paiement Hyperwallet est un service de paiement proposé par le Fournisseur de la Solution de Paiement Hyperwallet. Pour lever toute ambiguïté, BlaBlaCar ne fournit aucun service de traitement des paiements aux Membres et n’est jamais en possession des fonds des Membres.
 
@@ -297,7 +297,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 À l’issue des délais applicables tels que définis dans les lois applicables, toute Participation aux Frais que vous, en tant que Conducteur, n’avez pas réclamée par le biais de la Solution de Paiement Hyperwallet sera réputée être la propriété de BlaBlaCar.
 
-b. Vérifications au tire de la Connaissance du Client (KYC)
+**b. Vérifications au tire de la Connaissance du Client (KYC)**
 
 En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses [Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
 
@@ -563,7 +563,7 @@ BlaBlaCar pourra être amenée à modifier les présentes CGU afin de s’adapte
 
 Les présentes CGU sont rédigées en anglais et soumises au droit anglais.
 
-15.1 Système interne de traitement des réclamations
+**15.1 Système interne de traitement des réclamations**
 
 Vous pouvez contester les décisions que nous sommes susceptibles de prendre concernant :
 
@@ -572,7 +572,7 @@ Vous pouvez contester les décisions que nous sommes susceptibles de prendre con
 
 si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite ici \[LIEN VERS ARTICLE CONTESTATION DU CA\].
 
-15.2 Règlement extrajudiciaire des litiges
+**15.2 Règlement extrajudiciaire des litiges**
 
 Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
 
@@ -605,7 +605,7 @@ Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et fi
 **17\. Digital Services Act (Règlement sur les services numériques)**
 ---------------------------------------------------------------------
 
-17.1. Informations relatives au nombre mensuel moyen de destinataires actifs du service dans l’Union
+**17.1. Informations relatives au nombre mensuel moyen de destinataires actifs du service dans l’Union**
 
 Conformément à l’article 24, paragraphe 2, du règlement du Parlement européen et du Conseil relatif à un marché intérieur des services numériques et modifiant la directive 2000/31/CE (le « DSA » ou « Règlement sur les services numériques »), les fournisseurs de plateformes en ligne sont tenus de publier des informations relatives à la moyenne mensuelle des destinataires actifs du service dans l’Union, calculée sous forme de moyenne au cours des six derniers mois. Cette publication vise à déterminer si le fournisseur d’une plateforme en ligne répond au critère des « très grandes plateformes en ligne » en vertu du DSA, c’est-à-dire s’il dépasse le seuil de 45 millions de destinataires actifs mensuels moyens dans l’Union.
 
@@ -613,7 +613,7 @@ Au 31 janvier 2024, le nombre mensuel moyen de destinataires actifs de BlaBlaCa
 
 Ces informations ont uniquement vocation à se conformer aux exigences du DSA et ne doivent pas être utilisées à une quelconque autre fin. Elles seront mises à jour au moins une fois par semestre. L’approche que nous avons adoptée pour réaliser ce calcul peut évoluer ou nécessiter des modifications au fil du temps, par exemple du fait d’une évolution des produits ou de l’arrivée sur le marché de nouvelles technologies.
 
-17.2. Points de contact pour les autorités
+**17.2. Points de contact pour les autorités**
 
 Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
 
