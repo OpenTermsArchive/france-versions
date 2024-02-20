@@ -276,6 +276,7 @@ Ces mesures de sécurité s'appliquent :
 * à tous les passagers ;
 * aux points d'inspection / filtrage de tous les aéroports de l'Union européenne ;
 * pour toutes les destinations.
+  
 
 Les passagers ne sont pas autorisés à transporter des liquides dans leurs bagages à main, à l'exception de ceux contenus dans des récipients individuels dont la capacité est inférieure à 100 millilitres ou équivalent (100 g / 3 Oz), disposés dans un sac en plastique fermé, transparent et refermable, d'une capacité maximale de 1 litre (par passager).  
   
@@ -291,12 +292,13 @@ Sont considérés comme liquides :
 * les autres articles de consistance similaire ;
 * les lotions, y compris les parfums et les crèmes à raser ;
 * aérosols et autres récipients sous pression. 
+  
 
 **Exceptions:**
 
 * les liquides à but thérapeuthique, nécessaires pendant tout le voyage\*, et accompagnés d'une ordonnance et d'une preuve de leur authenticité ;
 * les liquides, nécessaires pendant tout le voyage\*, destinés à répondre à des besoins diététiques spéciaux moyennant la présentation d'une ordonnance ;
-* les aliments pour bébés;
+* les aliments pour bébés.
 
 \* Nécessaires pour une consommation pendant les vols et le séjour.  
   
@@ -328,8 +330,9 @@ Les ordinateurs portables et autres appareils électriques de grande taille doiv
 * éviter le transport de liquides dans les bagages à main ;
 * présenter aux agents des points d'inspection / filtrage et avant de passer aux rayons X tous les liquides transportés ;
 * exiger que tous les liquides achetés au-delà du point de contrôle de la carte d'embarquement ou à bord d'un avion d'une compagnie aérienne européenne soient de préférence séparés des autres articles achetés en même temps et qu'ils soient placés dans un sac inviolable avec le ticket de caisse ;
-* ne pas ouvrir le sac inviolable jusqu'à l'arrivée à la destination finale, en particulier lorsque le voyage comprend des vols de correspondance sous peine de voir les liquides confisqués à un autre point d'inspection / filtrage.
-* **[Plus d' information (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/Questions_Answers_new-rules-for-carry-on-luggage_FR.pdf?la=fr&hash=CB8119C1F3D46B0E2E7C2650AF5715B0442529A3)**
+* ne pas ouvrir le sac inviolable jusqu'à l'arrivée à la destination finale, en particulier lorsque le voyage comprend des vols de correspondance sous peine de voir les liquides confisqués à un autre point d'inspection / filtrage;
+* **[Plus d' information (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/Questions_Answers_new-rules-for-carry-on-luggage_FR.pdf?la=fr&hash=CB8119C1F3D46B0E2E7C2650AF5715B0442529A3).**
+  
 
 **Brésil  
   
