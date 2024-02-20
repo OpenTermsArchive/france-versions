@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 11/01/2024
+Version : 20/02/2024
 
 ### 1 Champ d’application
 
@@ -128,19 +128,25 @@ Cet avoir, non remboursable, sera valable 12 mois et pourra être utilisé pour 
 
 **5.8** Les politiques d’annulation différentes dans les Conditions générales du transporteur ne s’appliquent pas.
 
-### **6 Juridiction compétente**
+### 6 Frais de service
+
+Des frais de service à hauteur de 0,99 € (ou le montant correspondant à la devise respective) seront appliqués à chaque réservation. Il s’agit de frais par commande (non par billet) pour l'utilisation du site Web ou de l'application, ainsi que d'autres outils destinés à optimiser l'expérience de la clientèle. Parmi ces outils, on retrouve par exemple la plateforme Gérer ma réservation depuis laquelle vous pouvez modifier un trajet ou encore ajouter un bagage.
+
+En cas d’annulation par le client, les frais de service ne seront pas remboursés. En cas de réservations par téléphone (service client) ou dans l’une de nos agences et chez l’un de nos revendeurs hors ligne, des frais supplémentaires peuvent s’appliquer.
+
+### 7 Juridiction compétente
 
 La juridiction territorialement compétente est, sauf disposition contraire, celle du lieu où demeure le défendeur ou du lieu de survenance du fait dommageable.
 
 La juridiction compétente pour les commerçants, les personnes morales et les personnes physiques qui n’ont pas de juridiction générale compétente dans leur pays, ainsi que pour les personnes physiques qui, suite à la conclusion d’un contrat de transport, ont déménagé leur domicile principal ou leur lieu de domiciliation habituel à l’étranger, dont le domicile principal ou le lieu de domiciliation habituel n’est pas connu au moment de l’action en justice, est Munich.
 
-### **7 Invalidité de certaines dispositions**
+### 8 Invalidité de certaines dispositions
 
 Si des dispositions individuelles des présentes Conditions générales de vente et des Conditions de réservation spéciales devaient être ou devenir totalement ou partiellement inexécutoires ou nulles, cela ne compromettra pas, en principe, l’exécutabilité du contrat dans son ensemble.  
  
 
-**II Dispositions dérogatoires des pays**
------------------------------------------
+II Dispositions dérogatoires des pays
+-------------------------------------
 
 **1.  Suède**
 
@@ -155,7 +161,7 @@ Si des dispositions individuelles des présentes Conditions générales de vente
 **3. République tchèque**
 
 * **Concernant le point 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
-* **Concernant le point 6 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
+* **Concernant le point 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
 **4\. Royaume-Uni**
 
