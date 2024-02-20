@@ -3,8 +3,6 @@ Politique de Confidentialité TAP Air Portugal
 
 Nous prenons très au sérieux la confidentialité de vos données.
 
-En savoir plus sur l'utilisation et la protection de vos données
-
 Dans le cadre de notre activité, nous avons besoin de recueillir certaines de vos données à caractère personnel. Par ailleurs, dans le cadre de la communication établie avec vous à travers nos sites Internet, nos applications, nos produits et autres services numériques (que nous désignerons ici sous l’appellation « plateformes »), il nous arrive aussi d’enregistrer :   
 
 * **Des informations à caractère personnel**, pour vous permettre de bénéficier des services offerts par TAP Air Portugal ;
