@@ -307,7 +307,7 @@ modalités d'exercice de vos droits, nous vous invitons à consulter les politiq
 * Politique de confidentialité d'Air France
 * Politique de confidentialité d'Air Corsica
 
-Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.)  
+Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/adresser-une-plainte](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment.)  
 
 #### 2.3.2.5 Souscription au programme d’abonnement
 
@@ -549,7 +549,7 @@ A des fins de maintenance applicative et corrective uniquement Air Corsica a rec
 Nous conservons vos données à caractère personnel pour une durée n'excédant pas celle nécessaire aux finalités pour lesquelles elles sont collectées et traitées.  
 Les données enregistrées après complétude par vos soins d’un formulaire seront conservées au maximum 60 mois, sauf obligation légale contraire.
 
-1. Gestion des prospects (emailings, appels téléphoniques, SMS, etc.)
+### 1\. Gestion des prospects (emailings, appels téléphoniques, SMS, etc.)
 
 * Finalités du traitement
     * Identifier de nouveaux clients potentiels
@@ -559,7 +559,7 @@ Les données enregistrées après complétude par vos soins d’un formulaire se
 * Fondement juridique
     * Intérêt légitime
 
-2. Gestion des cookies et autres traceurs
+### 2\. Gestion des cookies et autres traceurs
 
 * Finalités du traitement
     * Générer des statistiques de fréquentation du site internet
@@ -570,7 +570,7 @@ Les données enregistrées après complétude par vos soins d’un formulaire se
 * Fondement juridique
     * Consentement
 
-3. Gestion du fichier clients
+### 3\. Gestion du fichier clients
 
 * Finalités du traitement
     * Connaître et fidéliser la clientèle
@@ -588,7 +588,7 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
     * Contrat
     * Obligation légale
 
-4.Gestion des abonnements à la lettre d'information (newsletter)
+### 4.Gestion des abonnements à la lettre d'information (newsletter)
 
 * Finalités du traitement
     * Gestion des abonnements ;
@@ -599,7 +599,7 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
 * Fondement juridique
     * Consentement
 
-5.Paiements par carte bancaire
+### 5.Paiements par carte bancaire
 
 * Finalités du traitement
     * Paiement unique pour achat ou réservation de voyage
@@ -609,7 +609,7 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
 * Fondement juridique
     * Contrat
 
-6.Gestion des contentieux et réclamations des clients
+### 6.Gestion des contentieux et réclamations des clients
 
 * Finalités du traitement
 * * Traitement des réclamations (procédure de médiation)
@@ -628,7 +628,7 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
     * Contrat
     * Obligation légale
 
-7.Gestion du programme d’abonnement
+### 7.Gestion du programme d’abonnement
 
 * Finalités du traitement
     * Gestion des abonnements ;
@@ -639,7 +639,7 @@ Toutefois, la conservation en base intermédiaire pourra être rallongée en ten
 * Fondement juridique
     * Consentement
 
-8.Gestion accréditation “Résident”
+### 8.Gestion accréditation “Résident”
 
 Dans le cadre de l'accréditation "Résident" (paragraphe 2.3.2.4 du présent document), la totalité des pièces téléchargées sur le site par le passager sont détruites  au bout de 24h des systèmes d’informations à l’issue de l’acceptation ou du refus de la demande de l’accréditation.
 
@@ -660,7 +660,7 @@ Droit à la transférabilité des données.
 
 Pour l'exercice de ces droits ou toute question relative à la protection de vos données personnelles, vous pouvez contacter notre DPO par e-mail : dpo@aircorsica.com.
 
-Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment).
+Vous avez de plus le droit de déposer une plainte auprès de la Commission nationale de l'informatique et des libertés ("CNIL") concernant le traitement de vos données personnelles. Vous pouvez notamment adresser votre réclamation sur le site web de la CNIL, ou par courrier postal en écrivant à : CNIL - Service des Plaintes - 3 Place de Fontenoy - TSA 80715 - 75334 PARIS CEDEX 07. Les modalités pour effectuer une réclamation auprès de la CNIL sont détaillées sur ce lien : [https://www.cnil.fr/fr/adresser-une-plainte](https://www.cnil.fr/fr/cnil-direct/question/adresser-une-reclamation-plainte-la-cnil-quelles-conditions-et-comment).
 
 5.3 – TRANSFERT DES DONNÉES
 ---------------------------
