@@ -17,7 +17,7 @@ En savoir plus sur qui nous sommes, comment vous pouvez nous contacter et commen
   
 Veuillez indiquer l'identifiant de votre consentement et la date à laquelle vous nous avez contactés concernant votre consentement.
 
-Votre consentement s'applique aux domaines suivants : city.bolt.eu, beta.web-app.bolt-food.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, bolt.eu
+Votre consentement s'applique aux domaines suivants : littlebigthinktank.com, city.bolt.eu, beta.web-app.bolt-food.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, bolt.eu
 
 Votre état ​​actuel: Refuser. 
 
@@ -37,7 +37,7 @@ Identifiant de votre consentement: 0Date de consentement:
 
 Déclaration relative aux cookies mise à jour le 15/02/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Nécessaires (35)
+Nécessaires (36)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies.
 
@@ -51,7 +51,7 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | bugsnag-anonymous-id \[x2\] | fleets.bolt.eu  <br>food.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistent | HTML Local Storage |
 | cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
 | CONSENT | static.blog.bolt.eu | Utilisé pour détecter si le visiteur a accepté la catégorie marketing dans la bannière de cookie. Ce cookie est nécessaire pour la conformité du site Web avec le RGPD. | 2 années | HTTP Cookie |
-| CookieConsent \[x16\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>city.bolt.eu  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>tracking.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | HTTP Cookie |
+| CookieConsent \[x17\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>city.bolt.eu  <br>courier.bolt.eu  <br>littlebigthinktank.com  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>tracking.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | HTTP Cookie |
 | deviceId \[x2\] | static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistent | HTML Local Storage |
 | fleet-visitor-id | bolt.eu | En attente | Session | HTTP Cookie |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "la politique de confidentialité de New Relic") | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | HTTP Cookie |
