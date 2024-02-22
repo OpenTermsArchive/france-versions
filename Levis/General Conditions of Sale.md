@@ -392,9 +392,15 @@ Pour de plus amples informations concernant nos politiques et nos pratiques en m
 
 Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
 
-LA VIE EST PLUS SYMPA QUAND ON EST MEMBRE DU PROGRAMME LEVI’S® RED TAB™
-
 Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
+
+\- 10% sur votre commande en vous inscrivant à notre newsletter
+
+Livraison et retours GRATUITS
+
+Accès EXCLUSIF aux réductions et aux nouveautés
+
+Une PETITE surprise d'anniversaire chaque année
 
 Hide PasswordHide Password
 
