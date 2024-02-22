@@ -325,7 +325,7 @@ Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.c
 
   
 
-**CHRONOPOST SHOP2SHOP -** 4,90 euros (48h)
+**CHRONOPOST SHOP2SHOP -** 4,90 euros (48h) (hors Corse)
 
   
 
