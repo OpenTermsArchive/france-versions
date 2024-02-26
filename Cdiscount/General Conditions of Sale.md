@@ -652,7 +652,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [droit.retractation@cdiscount.com](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ………………………���…………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
@@ -814,7 +814,7 @@ Il répond des défauts de conformité existant au moment de la délivrance du b
   
 Dans le cas d'un contrat de vente d'un bien comportant des éléments numériques :  
   
-1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformit�� de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;  
+1° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée inférieure ou égale à deux ans, ou lorsque le contrat ne détermine pas la durée de fourniture, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent dans un délai de deux ans à compter de la délivrance du bien ;  
 2° Lorsque le contrat prévoit la fourniture continue d'un contenu numérique ou d'un service numérique pendant une durée supérieure à deux ans, le vendeur répond des défauts de conformité de ce contenu numérique ou de ce service numérique qui apparaissent au cours de la période durant laquelle celui-ci est fourni en vertu du contrat.  
   
 Pour de tels biens, le délai applicable ne prive pas le consommateur de son droit aux mises à jour conformément aux dispositions de l'article L. 217-19.  
