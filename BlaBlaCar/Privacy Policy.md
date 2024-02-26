@@ -3,7 +3,7 @@ Politique de confidentialité
 
 [Conditions Générales](https://www.blablacar.fr/about-us/terms-and-conditions) | Politique de Confidentialité | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
-**Version applicable à compter du 26 Février 2024**
+**Version applicable à compter du 6 mars 2024**
 
 1\. Généralités
 ---------------
