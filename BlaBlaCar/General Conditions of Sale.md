@@ -3,7 +3,7 @@ Conditions générales
 
 [Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Droits des Passagers Autocar](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32011R0181) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
 
-Conditions Générales d’Utilisation applicables à compter du 17 février 2024, à l’exception des articles 5.4.1, 5.4.2 et 7.1 applicables à compter du 26 février 2024.
+Conditions Générales d’Utilisation applicables à compter du 17 février 2024, à l’exception des articles 5.4.1, 5.4.2 et 7.1 applicables à compter du 6 mars 2024.
 
 **1\. Objet**
 -------------
