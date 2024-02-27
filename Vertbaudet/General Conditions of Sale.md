@@ -249,6 +249,8 @@ Tous les Produits proposés à la vente, achetés sur le site [www.vertbaudet.fr
 
 Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés, lavés, utilisés, endommagés, ou être des biens indissociables d'autres articles (lot), et doivent être retournés intactes dans leur emballage d'origine avec leurs éventuels accessoires, manuels d'utilisation et autre documentation.
 
+Le bon de retour et la facture doivent impérativement être joints au colis retour.
+
 En cas de non-respect des conditions de retour prévues au présent article, Vertbaudet se réserve le droit :
 
 * de ne pas rembourser les Produits retournés;
@@ -283,7 +285,7 @@ Date :
 
 Si vous n’avez pas exercé votre droit de rétractation dans les délais visés au 6.1, Vertbaudet acceptera à titre commercial de reprendre votre article, dès lors qu'il nous est retourné dans les 30 jours à compter de la livraison du dernier colis de votre commande, et que les conditions de retour visées au présent article ont été respectées.
 
-Pour retourner un Produit, il vous suffit de vous connecter à votre compte client sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) et de déclarer votre retour dans la rubrique "Mes retours". Après avoir imprimé votre bon de retour, vous le glisserez dans le colis à nous renvoyer.
+Pour retourner un Produit, il vous suffit de vous connecter à votre compte client sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) et de déclarer votre retour dans la rubrique "Mes retours". Après avoir imprimé votre bon de retour, vous le glisserez dans le colis à nous renvoyer. Accompagné de la facture.
 
 Vous pouvez retourner le Produit :
 
@@ -464,7 +466,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/35448/1008202218/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/1008202218/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
+![https://media.vertbaudet.fr/medias/44/0/35448/2102385105/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/2102385105/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
 La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
