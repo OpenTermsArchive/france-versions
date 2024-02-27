@@ -730,7 +730,10 @@ Pour toute information, notes Service Clients est à votre disposition via :  
 
 \- La [FAQ](https://help.qobuz.com/hc/fr) Qobuz
 
-\- La messagerie instantanée en ligne présente sur [le site](https://www.qobuz.com/store-router/discover), ouverte de 9h30 à 12h et de 14h30 à 17h30, GMT +1.  
+\- La messagerie instantanée en ligne présente sur [le site](https://www.qobuz.com/store-router/discover), ouverte de 9h30 à 12h et de 14h30 à 17h30, GMT +1
+
+\- L'adresse [support-help@qobuz.com](mailto:contact@fevad.com)
+
 \- Le [formulaire de contact](https://www.qobuz.com/store-router/help/contact/process) en ligne  
 
 En cas de souscription d'un Abonnement par l'intermédiaire d'un magasin d'application tiers, le Client devra contacter le Service Clients du magasin.
