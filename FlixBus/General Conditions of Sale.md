@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 20/02/2024
+Version : 27/02/2024
 
 ### 1 Champ d’application
 
@@ -110,7 +110,7 @@ Dans ce cas, le remboursement des titres de transports achetés au-delà de ceux
 Les annulations et modifications peuvent être effectuées sur le site Internet de FlixBus, par téléphone ou par l’une des agences ou points de vente partenaires des filiales de FlixBus jusqu'à 15 minutes avant l'heure de départ prévue. Un trajet aller-retour est considéré comme une seule réservation.  
 Il est précisé qu’un aller-retour correspond à deux trajets mais qu’un trajet avec correspondances ne correspond qu’à un seul trajet.  
   
-**5.2** En cas de modification du billet (nom du voyageur, date ou heure du trajet) si le coût du nouveau trajet est supérieur au coût du trajet initial, le client devra immédiatement régler la différence pour valider sa modification. Si le coût du nouveau trajet est inférieur au trajet initial, le client recevra un avoir non remboursable, et valable 12 (douze) mois à partir de la date de délivrance. Il pourra être utilisé pour régler tout ou partie d'un prochain trajet.  
+**5.2** En cas de modification du billet (nom du voyageur, date ou heure du trajet) si le coût du nouveau trajet est supérieur au coût du trajet initial, le client devra immédiatement régler la différence pour valider sa modification. Si le coût du nouveau trajet est inférieur au trajet initial, le client recevra un bon d’achat non remboursable, et valable 12 (douze) mois à partir de la date de délivrance. Il pourra être utilisé pour régler tout ou partie d'un prochain trajet.  
   
 **5.3** Pour chaque modification du billet (à l’exception du changement de numéro de téléphone du client qui est gratuit), des [frais de modification](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) seront appliqués par trajet annulé et par passager.
 
@@ -118,9 +118,9 @@ Il est précisé qu’un aller-retour correspond à deux trajets mais qu’un tr
 
 **5.5** Le client peut procéder à l'annulation de son billet sur le site internet ou sur l'application.
 
-En échange, le client recevra un avoir du montant du billet initial, réduit des frais d'annulation par passager et par trajet détaillés à l'article 5.3.
+En échange, le client recevra un bon d’achat d’annulation du montant du billet initial, réduit des frais d'annulation par passager et par trajet détaillés à l'article 5.3.
 
-Cet avoir, non remboursable, sera valable 12 mois et pourra être utilisé pour régler entièrement ou partiellement les prochains voyages du client.  
+Ce bon d’achat d’annulation, non remboursable, sera valable 12 mois et pourra être utilisé pour régler entièrement ou partiellement les prochains voyages du client.  
   
 **5.6** L'ensemble des [frais d’annulation](https://www.flixbus.fr/services/modifier-annuler-reservation/frais-annulation) ou de modification n'est pas applicable lorsque le remboursement est demandé en raison de circonstances qui relèvent de la responsabilité de la société Flix ou de ses filiales
 
