@@ -266,10 +266,11 @@ Nos prestataires de services de paiement sont les suivants :
 
 | **Prestataires de services de paiement** | **Modes de paiement** |
 | --- | --- |
-| Adyen N.V.    <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Pays-Bas    <br>Politique de confidentialité :    <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy). | Carte de crédit    <br>Swish    <br>Google Pay    <br>Apple Pay    <br>iDeal    <br>Dotpay    <br>Sofort/Klarna |
+| Adyen N.V.    <br>Simon Carmiggeltstraat 6-50, 1011 DJ, Pays-Bas    <br>Politique de confidentialité :    <br>[https://www.adyen.com/policies-and-disclaimer/privacy-policy](https://www.adyen.com/policies-and-disclaimer/privacy-policy) | Carte de crédit    <br>Swish    <br>Google Pay    <br>Apple Pay    <br>iDeal    <br>Dotpay    <br>Sofort/Klarna |
 | PayU Bilgi Teknolojileri A.S.    <br>Otakcilar Cad. No: 78, Flat Ofis D-Blok 34050, Eyup - ISTANBUL    <br>Politique de confidentialité :    <br>[https://payu.in/privacy-policy](https://payu.in/privacy-policy) | Carte de crédit |
 | Paymill Plus GmbH    <br>St.-Martin-Straße 63, 81669 Munich    <br>Politique de confidentialité :    <br>[https://www.paymill.com/en/privacy-policy/](https://www.paymill.com/en/privacy-policy/) | Postfinance |
-| PayPal (Europe) S.à r.l. et Cie, S.C.A.    <br>22-24 Boulevard Royal 2449 Luxembourg    <br>Politique de confidentialité :    <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
+| PayPal (Europe) S.à r.l. et Cie, S.C.A.    <br>22-24 Boulevard Royal, 2449 Luxembourg    <br>Politique de confidentialité :    <br>[https://www.paypal.com/us/webapps/mpp/ua/privacy-full](https://www.paypal.com/us/webapps/mpp/ua/privacy-full) | PayPal |
+| Satispay Europe S.A.  <br>53 Boulevard Royal, 2449 Luxembourg  <br>Politique de confidentialité :   <br>[https://www.satispay.com/fr-lu/donnees-personnelles/privacy-policy/](https://www.satispay.com/fr-lu/donnees-personnelles/privacy-policy/) | Satispay |
 
 La base juridique est l’article 6, paragraphe 1(b) ou (f) du RGPD.
 
