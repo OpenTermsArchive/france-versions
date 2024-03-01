@@ -89,7 +89,17 @@ Le Client qui accepte sous réserve le colis doit contacter exclusivement le ser
 Le Client qui déplore l'altération du colis et/ou de la marchandise, ou dont certains articles sont manquants, doit contacter le Service Client du Vendeur dans les 24 heures suivant la date de livraison et conserver l'emballage d'expédition pour permettre la vérification de sa plainte.  
 Le non-respect des termes ci-dessus entraînera l'impossibilité pour le Vendeur d'approuver la plainte et, par conséquent, de garantir un dédommagement au Client.  
   
-Si le Client manque la livraison du colis (à l'exception des livraisons « Driver release »), celui-ci devra contacter le Service Client du Vendeur dans les 24 heures suivant la date de livraison indiquée dans le mail reçu. Si l'option « Driver release » est choisie, le Client sera tenu pour seul responsable du manquement de la livraison du colis.
+Si le Client manque la livraison du colis (à l'exception des livraisons « Driver release »), celui-ci devra contacter le Service Client du Vendeur dans les 24 heures suivant la date de livraison indiquée dans le mail reçu. Si l'option « Driver release » est choisie, le Client sera tenu pour seul responsable du manquement de la livraison du colis.  
+  
+Le transporteur ne peut pas livrer à:  
+Guyane Française  
+Cayenne, Kourou, Roura, Saint-Élie, Saint-Georges, Saül, Sinnamary, Papaïchton, Apatou, Mana, Awala-Yalimapo, Saint-Laurent-du-Maroni, Camopi, Grand-Santi, Iracoubo, Matoury, Roura, Régina, Rémire-Montjoly, Macouria, Montsinéry-Tonnegrande, Mana, Maripasoula, Ouanary, Régina  
+  
+Martinique  
+L'Ajoupa-Bouillon, Les Anses-d'Arlet, Basse-Pointe, Bellefontaine, Le Carbet, Case-Pilote, Le Diamant, Ducos, Fonds-Saint-Denis, Fort-de-France, Fort-de-France, Fort-de-France, Le François, Grand'Rivière, Gros-Morne, Le Lamentin, Le Lorrain, Macouba, Le Marigot, Le Marin, Le Morne-Rouge, Le Morne-Vert, Le Prêcheur, Rivière-Pilote, Rivière-Salée, Le Robert, Sainte-Anne, Sainte-Luce, Sainte-Marie, Saint-Esprit, Saint-Joseph, Saint-Pierre, Schœlcher, Schœlcher, La Trinité, Les Trois-Îlets, Le Vauclin  
+  
+Guadeloupe  
+Les Abymes, Anse-Bertrand, Baie-Mahault, Baillif, Basse-Terre, Bouillante, Capesterre-Belle-Eau, Capesterre-de-Marie-Galante, Deshaies, La Désirade, Le Gosier, Gourbeyre, Goyave, Grand-Bourg, Lamentin, Morne-à-l'Eau, Le Moule, Petit-Bourg, Petit-Canal, Pointe-à-Pitre, Pointe-Noire, Port-Louis, Saint-Claude, Saint-François, Saint-Louis, Sainte-Anne, Sainte-Rose, Terre-de-Bas, Terre-de-Haut, Trois-Rivières, Vieux-Fort, Vieux-Habitants
 
 ### ARTICLE 6 - DROIT DE RETRACTATION
 
