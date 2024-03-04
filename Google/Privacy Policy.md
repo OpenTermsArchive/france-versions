@@ -198,7 +198,7 @@ Choisissez les types d'activité à enregistrer dans votre compte. Par exemple, 
 
 ### Paramètres des annonces
 
-Gérez vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui [s'associent à Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-partner) pour diffuser des annonces. Vous avez la possibilité de modifier vos centres d'intérêt, de décider si vos informations personnelles peuvent être utilisées pour améliorer la pertinence des annonces, et d'activer ou de désactiver certains services publicitaires.
+Gérez vos préférences relatives aux annonces que vous voyez sur Google, ainsi que sur les sites et dans les applications qui [s'associent à Google](https://policies.google.com/technologies/partner-sites?hl=fr-FR&gl=FR) pour diffuser des annonces. Vous avez la possibilité de modifier vos centres d'intérêt, de décider si vos informations personnelles peuvent être utilisées pour améliorer la pertinence des annonces, et d'activer ou de désactiver certains services publicitaires.
 
 [Accéder à Mes préférences publicitaires](https://myadcenter.google.com/?hl=fr)
 
