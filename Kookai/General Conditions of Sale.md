@@ -1,7 +1,5 @@
 Conditions Générales de Vente
-=============================
-
-* * *
+-----------------------------
 
 Date de la dernière modification : 25/05/2021
 
