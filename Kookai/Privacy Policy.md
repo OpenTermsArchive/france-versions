@@ -1,7 +1,5 @@
 Politique de confidentialité
-============================
-
-* * *
+----------------------------
 
 **POLITIQUE DE CONFIDENTIALITE**
 
