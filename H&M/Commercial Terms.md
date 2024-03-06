@@ -6,7 +6,7 @@ Les conditions générales suivantes s'appliquent à toutes les commandes passé
 
 En utilisant hm.com et/ou en passant une commande, vous vous engagez à respecter toutes les clauses et conditions présentées dans ce document (les « conditions générales »). Veuillez vous assurer d'avoir bien lu et compris les conditions générales avant de passer votre commande.
 
-Seules les personnes âgées d'au moins dix-huit ans, non placées sous tutelle ou sous curatelle, n'agissant pas en tant que société et ayant une adresse de facturation et de livraison en France ou en Corse (excluant DOM-TOM et Monaco), peuvent passer commande.
+Seules les personnes âgées d'au moins dix-huit ans, non placées sous tutelle ou sous curatelle, n'agissant pas en tant que société et ayant une adresse de livraison en France ou en Corse (excluant DOM-TOM et Monaco), peuvent passer commande.
 
 La présentation de produits ou services sur le site hm.com à un instant donné n'implique pas et ne garantit pas que ces produits ou services seront à tout moment disponibles. Nous nous réservons en effet le droit d'interrompre la vente de tout produit à tout moment.
 
@@ -191,4 +191,4 @@ _H & M Hennes & Mauritz Sarl est détentrice d’une assurance de responsabilit�
 75001 Paris  
   
 _  
-20/02/2024
+06/03/2024
