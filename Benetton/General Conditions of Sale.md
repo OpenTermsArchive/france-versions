@@ -71,14 +71,37 @@ Les communications relatives au paiement et aux données communiquées par le Cl
   
 Les paiements peuvent être effectués aussi par l’utilisation de Bons promotionnels. Plus particulièrement, pourront être utilisés :  
   
-\- **BONS DE VALEUR** (de valeur absolue) : Les bons de **valeur** sont des codes personnalisés qui permettent de profiter d’une réduction de valeur sur les achats effectués sur le Site. Dans le panier, le bon s’applique dans la zone « Insérez votre code promotionnel ou le numéro de votre Family Card (facultatif) » et ce code s’appliquera à la commande en cliquant sur la flèche. Le code de réduction s’applique à toute la commande et est utilisable une seule fois, sauf pour les retours. Le bon de réduction de valeur ne peut pas être échangé contre le même montant en argent. Il n’est pas possible d’utiliser plusieurs bons pour la même commande. En cas de retour complet d’une commande, un nouveau bon sera émis de la valeur initiale. Dans le cas d’un retour partiel, puisque la valeur du bon est répartie proportionnellement sur chaque article, un bon de la valeur résiduelle sera émis. Pour des questions techniques, le bon de réduction pourra être utilisé seulement sur des commandes dont le montant est supérieur d’au moins 1 euro à la valeur du bon même.  
+\- **BONS AVEC VALEUR** (d’une somme absolue) : les bons avec valeur sont des codes personnalisés qui permettent de bénéficier d'une baisse de prix sur les achats effectués sur le site. Dans le panier, le code du bon est saisi dans le champ « Saisissez un code promotionnel ou un numéro Family Card », suivi d'un clic sur la flèche pour l’appliquer à la commande.  
+Il est précisé que le bon avec valeur :  
+\- s’applique à toute la commande ;  
+\- ne s’applique pas lors de l’achat d’articles en soldes ou faisant l'objet d’autres promotions ;  
+\- pour des raisons techniques, le bon avec valeur pourra être utilisé uniquement sur les commandes dont la valeur est au moins supérieure à un euro par rapport au bon.  
+\- n’est utilisable qu'une seule fois ;  
+\- n’est pas cumulable avec d’autres bons ;  
+\- ne peut être converti dans une somme équivalente en monnaie ;  
+\- en cas de retour total ou partiel de la commande, aucune émission d'un nouveau bon n’est prévue à hauteur de la valeur initiale ou partielle ;  
+\- ne dispose d’aucune date limite d'utilisation.  
   
-\- **CODES DE REDUCTION** : Les codes de réduction sont des codes personnalisés qui permettent de profiter d’une réduction en pourcentage sur les achats effectués sur le Site. Dans le panier, il faut insérer le code de réduction dans la zone « Insérez votre code promotionnel ou le numéro de votre Family Card (facultatif) » et ce code s’appliquera à la commande en cliquant sur la flèche. Le code promotionnel ne peut être utilisé qu’une seule fois et n’est pas cumulable avec d’autres codes promotionnels. **En cas de retour il n’est pas remboursé**. Dans le cas d'un **remboursement partiel** (la valeur de la réduction étant appliquée de manière variable sur certains articles), la somme remboursée correspondra au prix réduit de ces derniers. Le code de réduction ne peut pas être utilisé pour l’achat de produits déjà en promotion.  
+  
+  
+\- **CODES DE REDUCTION** : Les codes de réduction sont des codes personnalisés qui permettent de profiter d’une réduction en pourcentage sur les achats effectués sur le Site. Dans le panier, il faut insérer le code de réduction dans la zone « Insérez votre code promotionnel ou le numéro de votre Family Card (facultatif) » et ce code s’appliquera à la commande en cliquant sur la flèche. Le code promotionnel ne peut être utilisé qu’une seule fois et n’est pas cumulable avec d’autres codes promotionnels. En cas de retour il n’est pas remboursé. Dans le cas d'un remboursement partiel (la valeur de la réduction étant appliquée de manière variable sur certains articles), la somme remboursée correspondra au prix réduit de ces derniers. Le code de réduction ne peut pas être utilisé pour l’achat de produits déjà en promotion.  
   
 En revanche les Cartes Cadeaux (même celles achetées en ligne, fournies par de tierces personnes ou achetées en boutique physiques) sont utilisables seulement et exclusivement dans les boutiques physiques.  
   
 Les commandes d’articles personnalisés peuvent être payées seulement par Paypal et Carte de crédit.  
   
+\- **BONS DE RÉDUCTION FIDÉLITÉ** : ces bons, qui font partie des récompenses du programme Family Card, permettent de bénéficier d'une réduction à valoir sur les achats effectués sur le site ou dans les points de vente United Colors of Benetton et Undercolors of Benetton participants. Dans le panier, si un bon de réduction fidélité est disponible, la mention « Sélectionnez un bon pour l’appliquer à la commande » apparaît ; sélectionner le bon de réduction correspondant et cliquer sur la flèche pour l’appliquer à la commande.  
+Il est précisé que le bon de réduction fidélité :  
+\- ne peut être utilisé lors de l’achat d’articles en soldes ou faisant l'objet d’autres promotions ;  
+\- n’est utilisable qu'une seule fois ;  
+\- n’est pas fractionnable ;  
+\- n’est pas convertible en espèces ;  
+\- ne donne pas droit au rendu de la monnaie ;  
+\- est cumulable sur le même ticket de caisse avec d’autres bons de réduction standards ;  
+\- n’est pas cumulable avec d’autres promotions Family Card ;  
+\- possède une date limite d'utilisation de 60 jours à partir de la date d’émission.  
+  
+Si un utilisateur réalise un achat avec un bon de réduction fidélité, puis effectue un retour, le remboursement sera réalisé sur la valeur nette de réduction et le bon ne pourra pas être réaffecté (il sera ainsi considéré comme consommé).  
   
 **5.2 Livraison  
   
@@ -139,7 +162,9 @@ Aucun retour ne sera accepté s'il est envoyé après la date autorisée. Dans l
   
 Lorsque l’article reçu est différent de celui commandé, si le client souhaite procéder à un retour, il a l’obligation de retourner l’article dans les délais impartis pour effectuer un retour.  
   
-Les articles personnalisés ne peuvent être retournés ni échangés, exception faite des droits liés à la garantie du produit.
+Les articles personnalisés ne peuvent être retournés ni échangés, exception faite des droits liés à la garantie du produit.  
+  
+Il est précisé que le retour effectué en ligne comporte la restitution de la somme correspondante tandis que le retour effectué dans les points de vente (si disponibles dans le pays en question) comporte, à la discrétion du point de vente, soit l’échange avec un article de valeur équivalente, soit l'émission d'un bon de valeur équivalente à utiliser en magasin et non en ligne.
 
 ### ARTICLE 7 – GARANTIE LEGALE DE CONFORMITÉ – PROCEDURE POUR SON APPLICATION
 
