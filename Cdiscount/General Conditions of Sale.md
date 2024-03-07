@@ -109,7 +109,7 @@ Les CGV ne sont pas applicables :
 
 \- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Vous pouvez consulter les conditions générales d’utilisation de la Marketplace Cdiscount sur notre site.
 
-\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
+\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activit�� commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
 
 Les présentes CGV sont susceptibles d’être modifiées à tout moment par CDISCOUNT. Il vous appartient de les consulter et de les accepter formellement avant toute commande.
 
@@ -652,7 +652,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [droit.retractation@cdiscount.com](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ………………………………��…………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
