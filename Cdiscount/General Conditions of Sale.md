@@ -109,7 +109,7 @@ Les CGV ne sont pas applicables :
 
 \- aux commandes passées sur la Marketplace Cdiscount auprès de vendeurs professionnels. Vous pouvez consulter les conditions générales d’utilisation de la Marketplace Cdiscount sur notre site.
 
-\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activit�� commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
+\- aux professionnels. Est considéré comme professionnel, toute personne physique ou morale, publique ou privée, qui agit à des fins entrant dans le cadre de son activité commerciale, industrielle, artisanale, libérale ou agricole, y compris lorsqu'elle agit au nom ou pour le compte d'un autre professionnel.
 
 Les présentes CGV sont susceptibles d’être modifiées à tout moment par CDISCOUNT. Il vous appartient de les consulter et de les accepter formellement avant toute commande.
 
