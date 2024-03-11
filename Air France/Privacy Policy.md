@@ -68,3 +68,74 @@ If you have any further questions about this policy or the way we process your d
 12\. Modifications
 
 This version is applicable as from May 15th,  2021. It replaces the version of March 1st, 2021. We reserve the right to change this Policy from time to time. All changes are published on our website. We invite you to read it regularly, especially when you book new flights with our company.
+
+#### Help and Contacts
+
+Help and Contacts
+
+* [Contact us](https://wwws.airfrance.fr/en/contact)
+* [Claims](https://wwws.airfrance.fr/en/information/legal/reclamation)
+* [Refund](https://wwws.airfrance.fr/en/information/legal/remboursement)
+* [Passengers with disabilities](https://wwws.airfrance.fr/en/contact/booking/information_assistance)
+
+#### Online payment and shopping
+
+Online payment and shopping
+
+* [Booking fees - Service fees](https://wwws.airfrance.fr/en/information/legal/frais-emission-et-service)
+* [Payment methods](https://wwws.airfrance.fr/en/information/legal/moyens-de-paiement)
+* [Air France shopping](https://shopping.airfrance.com/?)
+
+#### About Air France and partners
+
+About Air France and partners
+
+* [Flying Blue](https://www.flyingblue.com/index.html)
+* [Transavia](https://www.transavia.com/)
+* [KLM](http://www.klm.com/)
+* [SkyTeam](http://www.skyteam.com/)
+* [Air France corporate](http://corporate.airfrance.com/)
+* [Worldwide sites](https://wwws.airfrance.fr/en/splash)
+* [Travel destinations](https://wwws.airfrance.fr/en/travel-guide/destinations)
+* [Affiliate program](https://wwws.airfrance.fr/en/information/prepare/services/affiliation)
+
+#### Air France app
+
+Air France app
+
+[![](https://img.static-af.com/images/media/9D55C68A-D87B-4B21-B7F43E7B76A99E9A/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/718E33D6-4636-411F-839A07629E5B96F4/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/9FE3B888-7858-4E4D-8390C7E41A4982B7/)](https://appgallery.huawei.com/app/C104134763)
+
+#### Fly From
+
+Fly From
+
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
+
+#### Fly to France
+
+Fly to France
+
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
+
+#### Fly Worldwide
+
+Fly Worldwide
+
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
+
+* [Site Map](https://wwws.airfrance.fr/en/information/site-map)
+* [Legal notices](https://wwws.airfrance.fr/en/information/legal)
+* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
+* [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
+* [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
+* Cookie settings
