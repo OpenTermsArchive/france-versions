@@ -1,7 +1,42 @@
-Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
-===========================================================================================
+**Résumé des Conditions Générales de Vente**
 
-[PDF Download](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/cac5213a-1bae-43c0-b642-750268072afc.pdf)  
+Les Conditions Générales de Vente vous donnent un aperçu de nos prestations sur Zalando.de. Nos offres s’adressent exclusivement aux consommateurs qui effectuent un achat à des fins privées. Nous vous offrons une expérience de shopping et de service personnalisée pour les articles Zalando, les articles partenaires Zalando et les articles Zalando Pre-owned. Les articles partenaires de Zalando sont signalés comme tels et proviennent de commerçants professionnels, tandis que les articles Zalando Pre-owned sont des articles d’occasion et sont également signalés de manière spécifique.
+
+**1\. Concernant la conclusion du contrat :**  
+en passant une commande sur le site Internet de Zalando, vous déclarez agir exclusivement à des fins privées. Votre partenaire contractuel est soit Zalando SE, soit le partenaire Zalando concerné, selon le type de produits que vous commandez. Le contrat prend effet lorsque tu cliques sur le bouton d’achat et que tu reçois la confirmation de commande. Nous nous réservons le droit de refuser ou d’annuler les commandes générées par des programmes automatiques ou des services de tiers.
+
+**2\. Concernant les prix, les frais d’expédition et les conditions de livraison :**Les prix indiqués au moment de la commande sont des prix finaux, incluant la TVA en vigueur. Les frais de livraison sont pris en charge par Zalando, sauf s’il s’agit de modes de livraison spécifiques indiqués lors de la commande, comme par exemple la livraison express. En outre, des frais de livraison peuvent être facturés pour les commandes inférieures au montant minimum. Vous serez informé(e) du montant avant de passer votre commande et recevrez de plus amples informations à ce sujet dans les CGV détaillées.
+
+**3\. Concernant les différentes méthodes de paiement :**différentes options de paiement sont proposées, par exemple paiement anticipé, carte de crédit, facture ou Paypal. Les modes de paiement effectivement possibles au moment concret de la commande peuvent varier et vous serez informé(e) des modes de paiement concrètement proposés avant de passer votre commande.
+
+**4\. Concernant l’utilisation des bons d’achat :**  
+Les bons promotionnels émis dans le cadre de campagnes publicitaires ou les bons cadeaux achetés peuvent également être utilisés dans le cadre du processus de commande. Les conditions respectives du bon s’appliquent alors.
+
+**5\. Concernant le droit de rétractation :**  
+en tant que consommateur, vous disposez d’un droit de rétractation légal. Cela signifie que vous pouvez annuler ce contrat en ligne dans un délai de 14 jours à compter de la réception de la marchandise sans donner de raison, en 1) nous informant (par ex. par e-mail ou par courrier) que vous ne souhaitez plus maintenir le contrat et 2) en nous envoyant une lettre de rétractation Nous renvoyer votre commande ou à notre partenaire. Vous trouverez toutes les autres informations concernant la rétractation dans les CGV.
+
+**6\. Concernant le droit de retour volontaire :**  
+nous vous proposons un droit de retour supplémentaire que nous vous accordons volontairement et indépendamment du droit de rétractation de 14 jours. Votre droit de rétraction légal n’en est pas affecté. Pour plus d’informations sur les conditions et la durée du droit de retour volontaire, veuillez consulter les conditions générales de vente.
+
+**7\. Concernant les remboursements :**  
+Les éventuels remboursements se font automatiquement selon la manière dont vous avez payé à l’origine.
+
+**8\. Concernant le service à la clientèle :**  
+si vous avez des questions, n’hésitez pas à consulter nos [pages d’aide](https://www.zalando.fr/aide/) ou à nous [contacter](https://www.zalando.fr/aide/).
+
+**9\. Concernant les réclamations potentielles :**  
+Nous avons mis en place une procédure de signalement et de plainte pour examiner les contenus potentiellement illicites. Si vous n’êtes pas d’accord avec notre décision, vous disposez de plusieurs voies de recours
+
+**10\. Autres :**  
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [télécharger](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf) et d’archiver les CGV.  
+
+* * *
+
+  
+Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
+==============================================================================================
+
+[PDF Download](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf)  
   
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.  
   
@@ -57,15 +92,16 @@ notre formulaire de contact accessibles depuis notre rubrique d'Aide & Contact :
 **5.4** Pour appliquer un bon de réduction à une commande, vous devez saisir le code du bon de réduction avant l’envoi de la commande. L’application de bons de réduction à des commandes déjà envoyées est exclue. Sauf indication contraire, il n’est pas possible de combiner plusieurs bons de réduction.  
 **5.5** Si vous avez utilisé un bon de réduction lors de votre achat, nous nous réservons le droit de vous facturer le prix non réduit de la marchandise lorsque, en raison d'une rétractation partielle, le montant total de la commande résiduelle est inférieur ou égal à la valeur du bon de réduction.
 
-**6\. CARTES CADEAUX ET UTILISATION DE CELLES-CI**
+**6\. Conditions d’utilisation des cartes cadeaux Zalando**
 
-**6.1** Les cartes cadeaux peuvent être utilisées pour acheter des produits qualifiés qui sont proposés par Zalando SE ou par d’autres vendeurs via le site Internet et l’application. Les produits qualifiés sont des produits ayant trait à l’apparence d’une personne (par ex. vêtements, chaussures). Il n’est pas possible d’utiliser des cartes cadeaux pour acheter d’autres cartes cadeaux. Le montant maximal d’une carte cadeau s’élève à 200,00 € par carte cadeau. Il est possible d’utiliser plusieurs cartes cadeaux par achat, pour un montant maximal de 200,00 €. La somme éventuellement restante sur une carte cadeau sera laissée à disposition pour de futurs achats. Si le montant d’une carte cadeau ne suffit pas à régler le montant total de la commande, la différence devra être réglée via l’un des autres moyens de paiements disponibles.
-
-**6.2** Les cartes cadeaux ne peuvent être utilisées que pour exécuter la procédure de commande. Le montant d’une carte cadeau ne saurait être remboursé en espèces, et ne fera pas l’objet d’intérêts.
-
-**6.3** Il est possible d’utiliser les cartes cadeaux dans les cinq (5) ans à compter de la date d’achat de la carte cadeau correspondante.
-
-**6.4** Si vous annulez la commande ou que vous retournez la marchandise pour laquelle vous avez utilisé une carte cadeau, ce montant payé via une carte cadeau sera mis de côté pour de futurs achats.
+**6.1** Les cartes cadeaux Zalando sont émises par Zalando Payments GmbH Zalando Payments GmbH est un établissement de monnaie électronique agréé en Allemagne. **Cependant, les cartes cadeaux Zalando ne sont pas de la monnaie électronique.**  
+Les cartes cadeaux Zalando ne sont pas de la monnaie électronique mais des valeurs stockées non réglementées. Cela signifie que les cartes cadeauxZalando ne sont pas contrôlées par l’autorité de surveillance compétente et que la protection légale de l’argent électronique ne s’applique pas. En particulier, vous n’avez pas le droit de demander un remboursement en espèces.  
+**6.2** Les cartes cadeaux Zalando peuvent être échangées sur [www.zalando.fr](http://www.zalando.fr/) et sur l’application Zalando pour l’achat de produits éligibles, proposés par Zalando SE ou d’autres vendeurs (Partenaires Zalando). Les biens et services éligibles sont les produits qui servent à l’apparence d’une personne (par ex., les vêtements, les chaussures)**.** Les détails sont disponibles [ici.](https://www.zalando.fr/aide/Promotions-and-cartes-cadeaux/what-can-i-use-my-gift-card-for.html) Une carte cadeau Zalando ne peut pas être utilisée pour acheter une autre carte cadeau Zalando.  
+**6.3** Les cartes cadeaux Zalando sont valables pour une période limitée de 5 ans à compter de la date d’achat. Le remboursement en espèces ou en cas de perte ou de détérioration n’est pas possible.  
+**6.4** Les cartes cadeaux Zalando sont limitées à une valeur maximale de € 200,- par carte cadeau Zalando et à une valeur maximale de € 200,- par carte cadeau Zalando par achat. Il est possible d’utiliser plusieurs cartes cadeaux Zalando par achat jusqu’à un montant maximum de € 200,-. Le montant restant sur vos cartes cadeaux Zalando peut être utilisé pour des achats ultérieurs, la valeur maximale des cartes cadeaux pouvant être utilisée par mois est limitée à € 5.000,-. La valeur maximale des cartes cadeaux qui peuvent être connectées à votre compte client par mois est limitée à € 5.000,-.  
+**6.5** La carte cadeau Zalando est généralement activée dans les 24 heures suivant l’achat.  
+**6.6** Les cartes cadeaux Zalando ne peuvent être utilisées qu’avant votre commande et non rétroactivement.  
+**6.7** Si vous annulez votre commande ou retournez des marchandises pour lesquelles vous avez échangé une carte cadeau Zalando, le montant payé sera remboursé sur votre carte cadeau Zalando et mis à disposition pour de futurs achats. Si vous retournez des marchandises qui ont été partiellement payées avec une carte cadeau Zalando, le prix d’achat de toute marchandise éligible conservée ayant pu être achetée avec la carte cadeau Zalando sera d’abord payé par le remboursement de la carte cadeau Zalando et tout montant de remboursement restant, le cas échéant, sera remboursé sur l’autre méthode de paiement appliquée.
 
 **7\. DROIT DE RETRACTATION LEGAL LORS DE L’ACHAT D’UN ARTICLE ZALANDO**
 
@@ -205,7 +241,7 @@ Le vendeur est tenu de la garantie à raison des défauts cachés de la chose ve
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site www.zalando.fr. Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également télécharger et archiver ce document au format PDF en cliquant [ici](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/cac5213a-1bae-43c0-b642-750268072afc.pdf). Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site www.zalando.fr. Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également télécharger et archiver ce document au format PDF en cliquant [ici](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf). Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
 **14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme : [https://www.zalando.fr/myaccount/recommendation-preferences/](https://www.zalando.fr/myaccount/recommendation-preferences/).
 
@@ -225,7 +261,8 @@ Capital social : EUR 246.297.493
 Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de Charlottenburg Berlin, sous le numéro HRB 158855 B  
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
-Version: 05.09.2023  
+  
+Version: 01.01.2024  
   
 
   
