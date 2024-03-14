@@ -51,7 +51,7 @@ Pour connaître le montant minimal de commande nécessaire pour bénéficier de 
 RETOURS
 -------
 
-**Les retours de marchandise sont facilités :**Dans votre colis, vous trouverez à cet effet des instructions vous indiquant comment renvoyer un produit gratuitement. Nous échangeons ou remboursons les articles renvoyés dans un délai maximum de 90 jours calendaires (100 jours pour la Pologne) après la date de livraison (« Période de retour »). Vous pouvez également utiliser le formulaire de retour fourni avec votre commande, mais ce n'est pas obligatoire.  
+**Les retours de marchandise sont facilités :**Dans votre colis, vous trouverez à cet effet des instructions vous indiquant comment renvoyer un produit gratuitement. Nous échangeons ou remboursons les articles renvoyés dans un délai maximum de 28 jours calendaires après la date de livraison (« Période de retour »). Vous pouvez également utiliser le formulaire de retour fourni avec votre commande, mais ce n'est pas obligatoire.  
   
 
 Si vous perdez votre formulaire et/ou étiquette de retour, vous pouvez vous rendre dans la section « Aide » et les télécharger.  
