@@ -145,8 +145,7 @@ Ces deux services sont des Demandes Spécifiques et sont soumis aux stipulations
 Le tarif proposé pour chaque Réservation est fixé par Marcel à chaque Course et est composé :
 
 1. de frais de service d'une valeur de 1,50€ facturés pour chaque course (réservation à l'avance ou en immédiate) 
-2. de frais de Réservation consistant en une somme forfaitaire dont le montant peut varier à chaque Course ; et
-3. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
+2. du prix de la Course consistant en une somme variable dont le montant varie à chaque Course en fonction des paramètres suivants :
 
 * distance à parcourir ;
 * durée anticipée de la Course (au regard du créneau horaire, de l’itinéraire à emprunter et du prédictif trafic communiqué par l’outil de Marcel) ;
@@ -171,6 +170,8 @@ Le prix d’une Course peut être différent du prix initialement proposé pour 
 * le Client fait attendre le Chauffeur plus de 5 minutes (hors aéroports) et des Frais d’Attente sont dus conformément aux conditions stipulées à l’article 5.2 et aux conditions tarifaires figurant en Annexe ;
 * le Client ajoute une étape intermédiaire à la Course ;
 * le Client modifie la destination initialement choisie.
+
+Si le client modifie un trajet réservé à l'avance moins d'une heure avant l'heure de départ programmée, des frais d'annulation seront automatiquement appliqués.
 
 ### 6.4 Pénalités dues en cas de dégradations
 
@@ -428,7 +429,7 @@ Annexe : Frais d’Annulation et Frais d’Attente
 |     |     |     |
 | --- | --- | --- |
 |     | **Prestige** |     |
-|     | _Trajets hors aéroports_ | _Trajets hors aéroports_ |
+|     | _Trajets hors aéroports_ | _Trajets aéroports_ |
 | Plus de 24h avant le début de la réservation | Pas de frais d’annulation | Pas de frais d’annulation |
 | Entre 1h et 2h avant le début de la réservation | 50% du prix de la course | 40€ TTC |
 | Moins de 1h avant le début de la réservation | 100% du prix de la course | 95€ TTC |
