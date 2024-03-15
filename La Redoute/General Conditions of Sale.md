@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 8 février 2024
-======================================================================================================================================
+Mise à jour du 14 mars 2024
+====================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -85,13 +85,11 @@ Pour toute question relative au suivi d'une commande, Vous pouvez consulter votr
 
 Vous pouvez régler votre commande :
 
-**\- par carte bancaire** : Carte Bleue, e-carte bleue, Visa, Mastercard, carte American Express.
+**\- par carte bancaire** : Visa, Mastercard, carte American Express, CB, e-carte bancaire, carte Printemps.
 
-Le paiement par carte bancaire s’effectue en totalité à la commande sauf :
+Le paiement par carte bancaire s’effectue en totalité à la commande sauf en cas de paiement 3 - 4 X dont les modalités sont détaillées [ici](https://www.laredoute.fr/espace-mention_paiement_3x).
 
-• En cas de paiement 3 - 4 X dont les modalités sont détaillées [ici](https://www.laredoute.fr/espace-mention_paiement_3x)).
-
-• Si votre panier contient un ou plusieurs produits vendus et expédiés par un vendeur tiers de la Marketplace ou un abonnement à La Redoute +, votre compte sera alors débité à l’expédition des Produits
+En cas de Produits épuisés ou indisponibles, le montant de ces Produits vous sera remboursé
 
 En cas de Produits épuisés ou indisponibles, le montant de ces Produits ne sera pas débité.
 
@@ -99,13 +97,13 @@ En cas de Produits épuisés ou indisponibles, le montant de ces Produits ne ser
 
 **\- avec les cartes Printania Plus ou Kangourou** (uniquement disponibles si Vous habitez en France continentale, Corse ou Monaco).
 
-**\- avec votre compte PAYPAL** (uniquement disponible pour une livraison en France et Monaco). En choisissant le paiement via PayPal, Vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, Vous pourrez terminer votre commande sur le Site Internet. La carte cadeau LA REDOUTE ne peut être achetée avec PayPal.
+**\- avec la carte de paiement Mille et une Listes** (en sélectionnant le mode de paiement carte bancaire Visa).
 
-**\- avec une carte cadeau illicado, Spirit of Cadeau, CA DO Carte, Pacifica ou la carte cadeau LA REDOUTE ou La Brand Boutique** : Le montant de vos achats sera débité immédiatement, même en cas d'articles en différé de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire ou une des cartes Printania Plus ou Kangourou. Reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec ces cartes cadeaux.
+**\- avec votre compte PAYPAL** (uniquement disponible pour une livraison en France et Monaco). En choisissant le paiement via PayPal, Vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, Vous pourrez terminer votre commande sur le Site Internet.
 
-L’utilisation d’une carte cadeau illicado, Spirit of Cadeau, CA DO Carte, Pacifica achetée en magasin ou sur Internet sera plafonnée à hauteur de 50€ par commande. Pour toute information complémentaire, vous pouvez vous rapprocher du service client de votre Carte Cadeau.
+**\- avec une carte cadeau illicado, Cadhoc, Spirit of Cadeau, CA DO Carte, ou la carte cadeau LA REDOUTE** : Le montant de vos achats sera débité immédiatement, même en cas d'articles en différé de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire ou une des cartes Printemps, Mille et une listes ou Kangourou. Reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec des cartes cadeaux.
 
-Pour davantage d’informations, reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec ces cartes cadeaux.
+L’utilisation d’une carte cadeau illicado, Cadhoc, Spirit of Cadeau, CA DO Carte, achetée en magasin ou sur Internet sera plafonnée à hauteur de 250€ par commande. Pour toute information complémentaire, vous pouvez vous rapprocher du service client de votre Carte Cadeau.
 
 06 - Livraison
 --------------
