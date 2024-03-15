@@ -352,8 +352,6 @@ Afin d´assurer la sécurité des paiements, La Redoute utilise les services des
 
 Lorsque vous passez une commande en paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système de paiement qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes (cf paragraphe ci-dessous « Lutte contre la fraude en ligne »). Les données sont stockées sur les serveurs du prestataire de paiement et ne sont à aucun moment transmises sur les serveurs de La Redoute. Le prestataire de paiement fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
 
-Lorsque vous passez une commande en paiement carte bancaire à La Redoute, notre système de prise de commande se connecte en temps réel avec le système de paiement qui collecte vos données et procède aux diverses vérifications pour éviter les abus et les fraudes (cf paragraphe ci-dessous « Lutte contre la fraude en ligne »). Les données sont stockées sur les serveurs du prestataire de paiement et ne sont à aucun moment transmises sur les serveurs de La Redoute. Le prestataire de paiement fait la demande d’autorisation auprès de la banque et nous transmet un n° de transaction qui permet des opérations à hauteur du montant de l’autorisation.
-
 10 LUTTE CONTRE LA FRAUDE
 -------------------------
 
