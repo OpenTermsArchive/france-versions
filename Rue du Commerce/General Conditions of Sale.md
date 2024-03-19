@@ -331,7 +331,7 @@ Nous vous demandons d'être particulièrement vigilant lors de la réception de 
 
 Nous vous invitons à vérifier (ou à faire vérifier par le mandataire qui reçoit) l'état apparent des produits à la livraison avec le livreur. Quel que soit le transporteur et en présence d'une anomalie apparente (avarie, produit manquant par rapport au bon de livraison, colis endommagé extérieurement, bruit anormal, produits cassés, etc…), vous devez refuser le colis.
 
-A défaut, vous devez obligatoirement :
+A défaut, et si les conditions de livraison le permettent, vous devez obligatoirement :
 
 \- Déballer le colis en présence du livreur, et
 
@@ -356,7 +356,7 @@ En tout état de cause, ces précautions ne font pas obstacle au bénéfice des 
 
 **Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou avec une nouvelle bande adhésive (notamment avec la présence de la bande adhésive jaune " La Poste ") nous vous invitons à le refuser.
 
-Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
+Si vous ou votre mandataire décidez d'accepter la marchandise et si les conditions de livraison le permettent, vous devez être attentif à :
 
 \- Inscrire des réserves manuscrites circonstanciées sur l'anomalie constatée (cf. §6.2), et
 
@@ -1194,7 +1194,7 @@ Nous vous demandons d'être particulièrement vigilant lors de la réception de 
 
 Nous vous invitons à vérifier (ou à faire vérifier par le mandataire qui reçoit) l'état apparent des produits à la livraison avec le livreur. Quel que soit le transporteur et en présence d'une anomalie apparente (avarie, produit manquant par rapport au bon de livraison, colis endommagé extérieurement, bruit anormal, produits cassés, etc…), vous devez refuser le colis.
 
-A défaut, vous devez obligatoirement :
+A défaut, et si les conditions de livraison le permettent, vous devez obligatoirement :
 
 \- Déballer le colis en présence du livreur, et
 
@@ -1219,7 +1219,7 @@ En tout état de cause, ces précautions ne font pas obstacle au bénéfice des 
 
 **Dans le cadre d'une livraison effectuée par la Poste**, si le colis arrive ouvert et/ou endommagé et/ou avec une nouvelle bande adhésive (notamment avec la présence de la bande adhésive jaune " La Poste ") nous vous invitons à le refuser.
 
-Si vous ou votre mandataire décide d'accepter la marchandise, vous devez être attentif à :
+Si vous ou votre mandataire décidez d'accepter la marchandise et si les conditions de livraison le permettent, vous devez être attentif à :
 
 \- Inscrire des réserves manuscrites circonstanciées sur l'anomalie constatée (cf. §6.2), et
 
