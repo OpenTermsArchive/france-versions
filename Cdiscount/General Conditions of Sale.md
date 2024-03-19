@@ -154,11 +154,9 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _Prix moyen constaté sur notre Marketplace_ » : est la moyenne des prix de vente que les vendeurs professionnels – qui doivent être au minimum 2 – pratiquent sur notre Marketplace Cdiscount pour le même produit. Ce prix est calculé de manière automatique une fois par semaine. 
 
-\- Le «_prix moyen constaté sur une sélection allant jusqu’à 37 sites_ » : est la moyenne des prix de vente à laquelle ce même produit est vendu par un panel de site Internet de e-commerce concurrents au nôtre, lequel peut comprendre entre 2 et 37 sites Internet. Ce prix est établi par un prestataire professionnel, indépendant de notre société, la société WORKIT ; il est actualisé une fois par mois.
-
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
-.
+.   
 
 _Article 3 : COMMANDES_
 -----------------------
