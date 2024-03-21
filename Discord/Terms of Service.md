@@ -61,7 +61,7 @@ When we say “services” in these terms, we mean Discord’s services, apps, w
 
 When we say “you” or “your,” we mean you. If you’re accessing our services on behalf of a legal entity (like your employer), you agree that you have the authority to bind that entity to these terms, and “you” and “your” will refer to that entity.
 
-We also have a [Privacy Policy](https://discord.com/privacy), [Community Guidelines](https://discord.com/guidelines), and these [other policies](https://support.discord.com/hc/articles/4420312247575) that apply to your use of our services and are incorporated into these terms. You should read these policies—we’ve worked hard to make them simple and clear, and they contain important information about your use of our services. If you use our API, Discord’s [Developer Terms of Service](https://discord.com/developers/docs/legal) and [Developer Policy](https://discord.com/developers/docs/policy) apply to that use. Discord’s [Paid Services Terms](https://support.discord.com/hc/articles/4410339366295) apply to any purchase you make through Discord, and Discord’s [Monetization Terms](https://support.discord.com/hc/en-us/articles/5330075836311-Monetization-Terms) apply to any sales you make through Discord.
+We also have a [Privacy Policy](https://discord.com/privacy), [Community Guidelines](https://discord.com/guidelines), and these [other policies](https://support.discord.com/hc/articles/4420312247575) that apply to your use of our services and are incorporated into these terms. You should read these policies—we’ve worked hard to make them simple and clear, and they contain important information about your use of our services. If you use our API, Discord’s [Developer Terms of Service](https://discord.com/developers/docs/legal) and [Developer Policy](https://discord.com/developers/docs/policy) apply to that use. Discord’s [Paid Services Terms](https://discord.com/terms/paid-services-terms) apply to any purchase you make through Discord, and Discord’s [Monetization Terms](https://support.discord.com/hc/en-us/articles/5330075836311-Monetization-Terms) apply to any sales you make through Discord.
 
 Together, these rules make Discord possible, and they matter to us. If you believe others aren’t following them, please let us know [by reporting it to us](https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord).
 
@@ -158,7 +158,7 @@ We respect the intellectual property of others and expect our users to do the sa
 Discord’s paid services
 -----------------------
 
-We won’t charge you a fee to use the basic functionality of our services, but you may be able to pay for additional features and products. Discord’s [Paid Services Terms](https://support.discord.com/hc/articles/4410339366295) also apply to any purchase you make using Discord’s supported purchase flows, and you may also be asked to agree to separate terms such as our Monetization Terms before purchasing or selling new offerings through Discord.
+We won’t charge you a fee to use the basic functionality of our services, but you may be able to pay for additional features and products. Discord’s [Paid Services Terms](https://discord.com/terms/paid-services-terms) also apply to any purchase you make using Discord’s supported purchase flows, and you may also be asked to agree to separate terms such as our Monetization Terms before purchasing or selling new offerings through Discord.
 
 Restrictions on your use of Discord’s services
 ----------------------------------------------
