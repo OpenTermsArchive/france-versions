@@ -49,7 +49,7 @@ Settling disputes between you and Discord](#16)[17.
 
 More important stuff](#17)
 
-Welcome! Discord is the best place to talk, hang out and have fun with friends online.. We’re happy you’re here.
+Welcome! Discord is the best place to talk, hang out and have fun with friends online. We’re happy you’re here.
 
 These terms set forth our legal obligations to each other. They apply to your use of our services.
 
@@ -68,7 +68,7 @@ Together, these rules make Discord possible, and they matter to us. If you belie
 Who we are
 ----------
 
-We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://support.discord.com/hc/en-us/articles/4410339366295-Paid-Services-Terms) may apply to those purchases.
+We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://discord.com/terms/paid-services-terms) may apply to those purchases.
 
 Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
 
@@ -80,7 +80,7 @@ By accessing our services, you confirm that you’re at least 13 years old and m
 What you can expect from us
 ---------------------------
 
-Discord is the best place to talk, hang out and have fun with friends online.. To do that, we provide different digital spaces where you can connect with other Discord users and communities. Discord users communicate primarily via “servers,” which are digital spaces made up of different types of channels. Text channels allow users to interact via text-based messages, as well as images, GIFs, emoji, and other uploadable media. Voice channels allow users to communicate by voice and/or streaming video. Users can also communicate one-to-one using direct messages, or communicate with a limited number of users via group direct messages. We’re always evolving our services, and we may create other types of spaces in the future!
+Discord is the best place to talk, hang out and have fun with friends online. To do that, we provide different digital spaces where you can connect with other Discord users and communities. Discord users communicate primarily via “servers,” which are digital spaces made up of different types of channels. Text channels allow users to interact via text-based messages, as well as images, GIFs, emoji, and other uploadable media. Voice channels allow users to communicate by voice and/or streaming video. Users can also communicate one-to-one using direct messages, or communicate with a limited number of users via group direct messages. We’re always evolving our services, and we may create other types of spaces in the future!
 
 Users create servers, and users choose which servers to join and who their “friends” are. All users must follow our [Community Guidelines](http://discord.com/guidelines) and [other policies](https://support.discord.com/hc/en-us/articles/4420312247575-Additional-Terms-and-Policies), but in Servers, the server owners and server admins control the server permissions and additional rules, including establishing membership requirements and creating custom roles and what those roles can do within the server. Server owners and admins also control whether to make their server available in Server Discovery, whether to publish their server invite link on public websites, whether to enable community growth and safety features, and whether to add bots or other apps. These permissions, like the size of a server, may change over time.
 
