@@ -210,16 +210,16 @@ Client ClubClient non membre du ClubPetit Produit
 |     |
 | --- |
 | Offert |
-| Gratuit dès 39€ d’achats  <br>Sinon 3,99€ |
-| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
+| Gratuit dès 29€ d’achats  <br>Sinon 3,99€ |
+| Gratuit dès 69€ d’achats  <br>Sinon 6,99€ |
 
 |     |
 | --- |
 | Offert |
-| Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
-| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
+| Gratuit dès 29€ d’achats  <br>Sinon 3,99€ |
+| Gratuit dès 79€ d’achats  <br>Sinon 7,99€ |
 
-Produit signalé par![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
+Produit encombrant  
 \*certains Produits ne peuvent bénéficier de la livraison en Points Relais
 
 |     |
@@ -234,13 +234,13 @@ Produit signalé par![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041
 
 |     |
 | --- |
-| Gratuit dès 69€ d’achats  <br>Sinon 6,99€ |
-| Gratuit dès 99€ d’achats  <br>Sinon 7,99€ |
+| Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
+| Gratuit dès 99€ d’achats  <br>Sinon 8,99€ |
 
-Produit signalé par![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png)  
-\*certains Produits ne peuvent bénéficier de la livraison en Points RelaisLivré à domicile19,90€38,80€
+Produit très encombrant  
+\*certains Produits ne peuvent bénéficier de la livraison en Points RelaisLivré à domicile (prix à partir de)24,99€24,99€
 
-**Tarif en vigueur au 01/05/2023, susceptible de modification.**
+**Tarif en vigueur au 25/03/2024, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
