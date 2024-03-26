@@ -7,7 +7,7 @@ Lorsque vous achetez un billet pour un vol opéré par Austrian Airlines (code 
 
 [Conditions générales de transport au départ et à destination des États-Unis (Anglais)](https://www.austrian.com/us/en/conditions-of-carriage)
 
-[Conditions générales de transport au départ et à destination du Canada (PDF, anglais, 1,9 Mo)](https://www.austrian.com/content/dam/aua/images/local-pages/nyc/ca/conditions-of-carriage-canada-en-20200505.pdf "Ce lien dirige vers un site Web externe dont la sécurité et l’accessibilité ne peuvent être influencées par Austrian Airlines.")
+[Conditions générales de transport au départ et à destination du Canada (PDF, anglais, 1,9 Mo)](https://www.austrian.com/content/dam/aua/images/local-pages/nyc/ca/conditions-of-carriage-canada-en-20200505.pdf)
 
 Article 1 – Définition des termes
 ---------------------------------
@@ -100,7 +100,7 @@ Les canaux indirects de vente comme les agents de voyages ou différents fournis
 
 Vous trouverez la liste des transporteurs aériens de l’Union européenne faisant l’objet d’une interdiction d’exploitation dans la Communauté européenne sur le site
 
-[https://eur-lex.europa.eu/](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32005R2111 "Ce lien dirige vers un site Web externe dont la sécurité et l’accessibilité ne peuvent être influencées par Austrian Airlines.")
+[https://eur-lex.europa.eu/](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32005R2111)
 
 2 = Conformément au règlement (CE) no 2111/2005 du Parlement européen et du Conseil du 14 décembre 2005 relatif à l’établissement d’une liste européenne des transporteurs aériens soumis à une interdiction d’exploitation au sein de la Communauté, ainsi que l’obligation d’informer les passagers de l’identité des compagnies aériennes opérant le vol, et l’abrogation de l’article 9 de la directive 2004/36/CE.
 
