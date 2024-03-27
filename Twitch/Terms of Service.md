@@ -1,4 +1,4 @@
-Dernière modification le 27/10/2023
+Last modified on 03/26/2024
 
 **Conditions d'utilisation**
 ----------------------------
@@ -27,23 +27,25 @@ Dernière modification le 27/10/2023
 
 [12\. Publicités](#12-advertisements)
 
-[13\. Respect du droit d'auteur](#13-respecting-copyright)
+[13\. Recommandations](#13-recommendations)
 
-[14\. Marques déposées](#14-trademarks)
+[14\. Respect du droit d'auteur](#14-respecting-copyright)
 
-[15\. Contenus tiers](#15-third-party-content)
+[15\. Marques de commerce](#15-trademarks)
 
-[16\. Soumission d'idées](#16-idea-submission)
+[16\. Contenus tiers](#16-third-party-content)
 
-[17\. Résiliation](#17-termination)
+[17\. Soumission d'idées](#17-idea-submission)
 
-[18\. Litiges](#18-disputes)
+[18\. Résiliation](#18-termination)
 
-[19\. Divers](#19-miscellaneous)
+[19\. Litiges](#19-disputes)
 
-[20\. Coordonnées](#20-contact-information)
+[20\. Divers](#20-miscellaneous)
 
-[21\. Demandes de renseignements et signification d'une citation à comparaître](#21-requests-for-information-and-how-to-serve-a-subpoena)
+[21\. Coordonnées](#21-contact-information)
+
+[22\. Demandes d'informations et ordonnances judiciaires](#22-requests-for-information-and-subpoenas)
 
 #### 1\. Introduction ; Votre accord aux présentes Conditions d'utilisation
 
@@ -89,8 +91,6 @@ L'accès aux Services Twitch peut nécessiter l'utilisation de votre ordinateur 
 
 Twitch peut modifier l'une de ces Conditions d'utilisation en publiant les conditions modifiées et en mettant à jour la date de « Dernière modification » ci-dessus. Si vous continuez d'utiliser les Services Twitch après la date d'entrée en vigueur des Conditions d'utilisation modifiées, cela signifie que vous acceptez les conditions.
 
-Twitch fournira aux résidents de la République de Corée un préavis raisonnable pour toute modification matérielle de ses Conditions d'utilisation.  Toutes les modifications entrent en vigueur au plus tôt 30 jours civils après leur publication ; toutefois, toute modification concernant de nouvelles fonctionnalités du service, des fonctionnalités du service qui sont bénéfiques pour l'utilisateur ou des modifications apportées pour des raisons juridiques peut entrer en vigueur immédiatement.
-
 Pour les résidents de l'Union européenne, de l'Espace économique européen, du Royaume-Uni ou de la Suisse agissant en tant que client (c'est-à-dire dans un but qui peut être considéré comme étant en dehors de votre commerce, art ou profession) (« Client ») et qui se sont inscrits à un compte Twitch, Twitch fournira un préavis raisonnable des modifications apportées aux présentes Conditions d'utilisation. Dans la mesure permise par la loi applicable, le fait de ne pas annuler votre accord d'utilisation des Services Twitch en vertu des présentes Conditions d'utilisation avant leur date d'entrée en vigueur sera considéré comme votre consentement aux conditions modifiées. Lorsque la loi applicable l'exige, Twitch vous demandera votre consentement aux Conditions modifiées.
 
 #### 7\. Licence
@@ -102,8 +102,6 @@ Twitch se réserve tous les droits qui ne sont pas expressément accordés dans 
 #### 8\. Contenu Utilisateur
 
 Twitch vous permet de diffuser en continu des œuvres audiovisuelles en direct et préenregistrées, d'utiliser des services tels que le chat, les forums, les contributions sur wiki, les services interactifs vocaux, et de participer à d'autres activités dans lesquelles vous pouvez créer, publier, transmettre, exécuter ou stocker du contenu, des messages, du texte, du son, des images, des applications, des codes ou d'autres données ou documents sur les services Twitch (« contenu utilisateur »).
-
-Pour les résidents de la République de Corée, la distribution d'œuvres audiovisuelles préenregistrées, ainsi que de fonctionnalités et fonctions liées aux vidéos à la demande (y compris, mais sans s'y limiter, les clips, les temps forts et autres contenus mis en ligne) peut ne pas être disponible.
 
 ##### **a. Licence de Twitch**
 
@@ -181,8 +179,6 @@ Dans les limites permises par les lois applicables, Twitch n'assume aucune respo
 
 Twitch n'est pas responsable des déclarations ou représentations incluses dans le Contenu utilisateur. Twitch n'approuve pas le Contenu utilisateur, l'opinion, la recommandation ou les conseils qui y sont exprimés et, dans la mesure permise par la loi applicable, Twitch décline expressément toute responsabilité en lien avec le Contenu utilisateur. Dans toute la mesure permise par la loi applicable, Twitch se réserve le droit de supprimer, de filtrer ou de modifier tout Contenu utilisateur publié ou stocké sur les Services Twitch à tout moment et sans préavis, y compris lorsque ce Contenu utilisateur enfreint les présentes Conditions d'utilisation ou la loi applicable, et vous êtes seul responsable de la création de copies de sauvegarde et du remplacement de tout Contenu utilisateur que vous publiez ou stockez sur les Services Twitch, à vos seuls frais et dépens. Toute utilisation des Services Twitch en infraction avec ce qui précède porte atteinte aux présentes Conditions d'utilisation et peut entraîner, entre autres, la résiliation ou la suspension de vos droits d'utilisation des Services Twitch.
 
-Pour les résidents de la République de Corée, excepté dans le cas où Twitch considère raisonnablement que vous prévenir est légalement interdit (par exemple, lorsque la notification (i) enfreindrait les lois, règlements ou ordonnances applicables des autorités réglementaires ou (ii) compromettrait une enquête en cours menée par une autorité réglementaire) ou que toute notification peut causer un préjudice à vous, à des tiers, à Twitch ou à ses affiliées (par exemple, lorsque la notification nuit à la sécurité des services Twitch), Twitch vous informera sans délai de la raison pour laquelle la mesure appropriée a été prise.
-
 Pour les résidents de l'Union européenne ou de l'Espace économique européen, du Royaume-Uni ou de la Suisse qui agissent en tant que Client, (i) Twitch ne supprimera, filtrera ou modifiera le Contenu utilisateur que pour des raisons justifiées, y compris, sans s'y limiter, lorsque ce Contenu utilisateur enfreint les présentes Conditions d'utilisation ou la loi applicable, et (ii) sauf si un tel avis est déraisonnable ou légalement interdit compte tenu des circonstances spécifiques du cas individuel, Twitch vous informera sans délai de la raison pour laquelle il a pris la mesure concernée.
 
 #### **11\. Diffusion en simultané**
@@ -199,27 +195,31 @@ Collectivement, ces directives sont appelées « Directives de diffusion en sim
 
 Twitch a le droit exclusif de monétiser les Services Twitch, y compris, sans s'y limiter, le droit exclusif de vendre, de servir et d'afficher des publicités sur les Services Twitch. Les réseaux publicitaires tiers ne sont pas autorisés à diffuser de la publicité par le biais des services Twitch. Vous pouvez en revanche publier du contenu promotionnel en utilisant les services Twitch comme indiqué dans la section 9 ci-dessus.
 
-#### 13\. Respect du droit d'auteur
+#### 13\. Recommandations
+
+Dans le cadre des Services Twitch, nous vous recommanderons du contenu susceptible de vous intéresser. Pour plus d'informations, veuillez consulter la section [Recommandations sur Twitch](https://www.twitch.tv/p/legal/recommendations-on-twitch/).
+
+#### 14\. Respect du droit d'auteur
 
 Twitch respecte la propriété intellectuelle d'autrui et se conforme aux exigences du Digital Millennium Copyright Act (« DMCA » et des autres lois applicables. Si vous êtes propriétaire d'un droit d'auteur ou un agent de celui-ci et que vous pensez que le contenu affiché sur les services Twitch porte atteinte à votre droit d'auteur, veuillez nous en aviser en suivant nos [Directives du DMCA](https://www.twitch.tv/p/legal/dmca-guidelines), qui comprennent des informations supplémentaires sur nos politiques, ce que vous devez mentionner dans votre avis, et où le soumettre.
 
-#### 14\. Marques déposées
+#### 15\. Marques de commerce
 
 TWITCH, les logos Twitch et tout autre nom de produit ou de service, logo ou slogan utilisé par Twitch, ainsi que l'aspect et le comportement des services Twitch, y compris tous les en-têtes de page, les graphismes personnalisés, les icônes de boutons et les scripts, sont des marques de commerce ou l'habillage commercial de Twitch, et ne peuvent être utilisés en tout ou en partie en relation avec tout produit ou service qui n'est pas celui de Twitch, d'une manière susceptible de créer de la confusion parmi les clients, ou d'une manière qui dénigre ou discrédite Twitch, sans notre autorisation écrite préalable. Toute utilisation de ces marques de commerce doit être conforme aux [Directives pour les marques déposées](https://www.twitch.tv/p/legal/trademark/) de Twitch.
 
 Toutes les autres marques de commerce citées dans les services Twitch sont la propriété de leurs propriétaires respectifs. La référence sur les services Twitch à tout produit, service, processus ou autre information, par la dénomination commerciale, la marque de commerce, le fabricant, le fournisseur ou autre ne constitue pas ou n'implique pas une approbation, un parrainage ou une recommandation de notre part ou une quelconque autre affiliation.
 
-#### 15\. Contenus tiers
+#### 16\. Contenus tiers
 
 Outre le Contenu utilisateur, Twitch peut fournir d'autres contenus tiers sur les Services Twitch (collectivement le « Contenu tiers »). Twitch ne contrôle et n'approuve aucun Contenu tiers et ne fait aucune déclaration ou garantie de quelque nature que ce soit concernant le Contenu tiers, y compris, sans s'y limiter, en ce qui concerne son exactitude ou son exhaustivité. Sachez que nous ne créons pas, ne mettons pas à jour et ne surveillons pas tout Contenu tiers. Par conséquent, dans la mesure permise par la loi applicable, nous ne sommes pas responsables de tout Contenu de tiers sur les Services Twitch.
 
 Il vous incombe de décider si vous voulez accéder ou utiliser les sites internet ou applications tiers qui proposent des liens à partir des services Twitch (« sites de référence »). Twitch ne contrôle et n'approuve pas ces sites de référence ou les informations, les éléments, les produits ou services contenus sur ou accessibles sur les sites de référence, et ne fait aucune déclaration ou garantie de quelque nature que ce soit concernant les sites de référence. En outre, votre correspondance ou vos relations d'affaires avec, ou votre participation à des promotions d'annonceurs trouvés sur ou par le biais des services Twitch ne concernent que vous et cet annonceur. L'accès et l'utilisation des sites de référence y compris les informations, les éléments, les produits et les services disponibles sur ou par l'intermédiaire des sites de référence sont à vos risques et périls.
 
-#### 16\. Soumission d'idées
+#### 17\. Soumission d'idées
 
 En soumettant des idées, des suggestions, des documents ou des propositions (« soumissions ») à Twitch ou à ses employés, vous reconnaissez et acceptez que Twitch a le droit d'utiliser ou de divulguer de telles soumissions à quelque fin que ce soit, de quelque manière que ce soit, sans vous accorder de rémunération ou de crédit.
 
-#### 17\. Résiliation
+#### 18\. Résiliation
 
 Vous pouvez résilier votre licence d'utilisation des Services Twitch et ces Conditions d'utilisation à votre discrétion, à tout moment, en cessant d'utiliser les Services Twitch ou, si vous êtes un utilisateur enregistré, en supprimant votre compte Twitch. Pour les résidents de l'Union européenne ou de l'Espace économique européen, ou du Royaume-Uni, qui agissent en tant que Client, vous pouvez avoir un droit de rétractation ou d'annulation du contrat d'utilisation des Services Twitch en vertu des présentes Conditions d'utilisation dans un délai de réflexion spécifique. Le moment et le mode d'utilisation de ce droit est expliqué dans nos [Informations sur le droit de rétractation des consommateurs de l'UE, de l'EEE et du Royaume-Uni](https://www.twitch.tv/legal/eu-eea-uk-right-of-withdrawal/).
 
@@ -227,7 +227,7 @@ Dans toute la mesure permise par la loi applicable, Twitch se réserve le droit,
 
 Pour les résidents de la République de Corée et de l'Union européenne ou de l'Espace économique européen, du Royaume-Uni ou de la Suisse qui agissent en tant que Client, sauf dans le cas où Twitch considère raisonnablement que donner un avis est légalement interdit (par exemple, lorsque donner un avis serait soit (i) en infraction avec les lois applicables, les règlements ou les ordres des autorités de réglementation ou (ii) compromettrait une enquête en cours menée par une autorité de réglementation) ou que tout avis peut causer un préjudice à vous, à des tiers, à Twitch, et/ou à ses affiliés (par exemple, lorsque le fait de donner un avis nuit à la sécurité des Services Twitch), Twitch vous informera sans délai de la raison de son action.
 
-#### 18\. Litiges
+#### 19\. Litiges
 
 ##### a. Indemnisation
 
@@ -267,21 +267,21 @@ VOUS RECONNAISSEZ ET ACCEPTEZ QUE TWITCH A PROPOSÉ LES SERVICES TWITCH, LE CONT
 
 VEUILLEZ LIRE ATTENTIVEMENT CE QUI SUIT CAR CECI VOUS OBLIGE À ARBITRER LES LITIGES AVEC TWITCH ET LIMITE LA MANIÈRE DONT VOUS POUVEZ DEMANDER RÉPARATION À TWITCH.
 
-(a) Twitch et vous-même acceptez d'arbitrer tout litige découlant des présentes Conditions d'utilisation ou de votre utilisation des Services Twitch, mais vous-même et Twitch n'êtes pas tenus d'arbitrer un litige dans lequel chaque partie cherche à obtenir une compensation équitable et une autre forme de réparation pour l'utilisation illicite présumée de droits d'auteur, marques déposées, noms commerciaux, logos, secrets commerciaux ou brevets. L'ARBITRAGE VOUS EMPÊCHE D'INTENTER UN PROCÈS EN TRIBUNAL OU DEVANT UN JURY. Twitch et vous-même acceptez d'informer l'autre partie par écrit de tout litige dans les trente (30) jours suivant la date à laquelle il survient. L'avis destiné à Twitch doit être envoyé à l'adresse suivante : Twitch Interactive, Inc., Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104. En outre, Twitch et vous-même convenez : de tenter de régler le différend de façon informelle avant toute demande d'arbitrage ; que tout arbitrage se produira dans le comté de Santa Clara, en Californie ; que cet arbitrage sera effectué de manière confidentielle par un seul arbitre conformément aux règles de JAMS ; et que les tribunaux étatiques ou fédéraux du comté de Santa Clara, en Californie, ont la compétence exclusive sur tout appel d'une décision arbitrale et sur tout recours entre les parties ne faisant pas l'objet d'un arbitrage. Outre les procédures et recours collectifs évoqués ci-dessous, l'arbitre a le pouvoir d'accorder un recours qui serait autrement accessible au tribunal. 
+(a) Twitch et vous-même acceptez d'arbitrer tout litige découlant des présentes Conditions d'utilisation ou de votre utilisation des Services Twitch, mais vous-même et Twitch n'êtes pas tenus d'arbitrer un litige dans lequel chaque partie cherche à obtenir une compensation équitable et une autre forme de réparation pour l'utilisation illicite présumée de droits d'auteur, marques déposées, noms commerciaux, logos, secrets commerciaux ou brevets. L'ARBITRAGE VOUS EMPÊCHE D'INTENTER UN PROCÈS EN TRIBUNAL OU DEVANT UN JURY. Twitch et vous-même acceptez d'informer l'autre partie par écrit de tout litige dans les trente (30) jours suivant la date à laquelle il survient. L'avis destiné à Twitch doit être envoyé à l'adresse suivante : Twitch Interactive, Inc., Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104. En outre, Twitch et vous-même convenez : de tenter de régler le différend de façon informelle avant toute demande d'arbitrage ; que tout arbitrage se produira dans le comté de Santa Clara, en Californie ; que cet arbitrage sera effectué de manière confidentielle par un seul arbitre conformément aux règles de JAMS ; et que les tribunaux étatiques ou fédéraux du comté de Santa Clara, en Californie, ont la compétence exclusive sur tout appel d'une décision arbitrale et sur tout recours entre les parties ne faisant pas l'objet d'un arbitrage. Outre les procédures et recours collectifs évoqués ci-dessous, l’arbitre a le pouvoir d’accorder un recours qui serait autrement accessible en tribunal.
 
-(b) Tout litige entre les parties sera régi par le présent Accord, les lois de l'État de Californie et la législation des États-Unis, sans donner effet à des principes de conflits de lois pouvant prévoir l'application du droit des lois d'une autre juridiction. 
+(b) Tout litige entre les parties sera régi par le présent Accord, les lois de l'État de Californie et la législation des États-Unis, sans donner effet à des principes de conflits de lois pouvant prévoir l'application du droit des lois d'une autre juridiction.
 
 (c) Si le litige est présenté en arbitrage ou au tribunal, vous-même et Twitch n'intenterez pas contre l'autre un recours collectif, un arbitrage de portée générale ou toute autre action ou procédure représentative.
 
 (ii) Pour les résidents de l'Union européenne ou de l'Espace économique européen, du Royaume-Uni ou de la Suisse qui agissent en tant que Client, les présentes Conditions d'utilisation et tout litige, réclamation ou cause d'action découlant de ou en relation avec elles seront régis par les lois de l'État de Californie et les lois américaines applicables, à condition que ce choix de la loi applicable ne vous prive pas de la protection que vous confèrent les dispositions auxquelles il ne peut être dérogé par accord en vertu des lois applicables là où vous résidez habituellement. Dans ce cas, les litiges seront résolus devant les tribunaux civils compétents, tels que déterminés par la loi applicable.
 
-(iii) Si vous résidez dans une juridiction autre que celles nommées dans (ii) dans laquelle la disposition d'arbitrage de l'article (i)(a) ci-dessus est jugée inapplicable, alors tous les litiges, réclamations ou causes d'action découlant de ou en relation avec ces Conditions d'utilisation seront présentés aux et résolus par les tribunaux d'État ou fédéraux du comté de San Francisco, en Californie ou, si la loi applicable l'exige, par les tribunaux civils compétents dans votre juridiction de résidence. Si la disposition relative à la loi applicable en (i)(b) est jugée inapplicable, ce sont les lois de votre juridiction de résidence qui s'appliqueront. 
+(iii) Si vous résidez dans une juridiction autre que celles nommées dans (ii) dans laquelle la disposition d'arbitrage de l'article (i)(a) ci-dessus est jugée inapplicable, alors tous les litiges, réclamations ou causes d'action découlant de ou en relation avec ces Conditions d'utilisation seront présentés aux et résolus par les tribunaux d'État ou fédéraux du comté de San Francisco, en Californie ou, si la loi applicable l'exige, par les tribunaux civils compétents dans votre juridiction de résidence. Si la disposition relative à la loi applicable en (i)(b) est jugée inapplicable, ce sont les lois de votre juridiction de résidence qui s'appliqueront.
 
 ##### e. Réclamations
 
 DANS LA MESURE PERMISE PAR LA LOI APPLICABLE, VOUS-MÊME ET TWITCH CONVENEZ QUE TOUTE CAUSE D'ACTION DÉCOULANT DE OU LIÉE AUX SERVICES TWITCH DOIT COMMENCER DANS UN DÉLAI D'UN (1) AN APRÈS LA CONSTATATION DE LA CAUSE DE L'ACTION. DANS LE CAS CONTRAIRE, CETTE ACTION EST DÉFINITIVEMENT EXCLUE.
 
-#### 19\. Divers
+#### 20\. Divers
 
 ##### **a. Renonciation**
 
@@ -303,7 +303,7 @@ Lors de la résiliation des présentes Conditions d'utilisation, toute dispositi
 
 Les Conditions d'utilisation, qui intègrent les Directives, constituent l'intégralité de l'accord entre vous et Twitch concernant l'objet des présentes et ne seront pas modifiées, sauf par un écrit signé par les représentants autorisés des deux parties, ou par une modification de ces Conditions d'utilisation effectuée par Twitch, comme indiqué à l'article 6 ci-dessus.
 
-#### 20\. Coordonnées
+#### 21\. Coordonnées
 
 Les Services Twitch sont proposés par :
 
@@ -317,22 +317,12 @@ Les Services Twitch sont proposés par :
 
 Si vous êtes un résident californien, vous pouvez recevoir ces mêmes informations par courriel en envoyant une lettre à l'adresse susmentionnée avec votre adresse email et une demande relative à ces informations.
 
-Twitch Interactive, Inc. est une société enregistrée dans l'État américain du Delaware sous le n° de fichier 4221511. 
+Twitch Interactive, Inc. est une société enregistrée dans l'État américain du Delaware sous le n° de fichier 4221511.
 
 Pour toute question ou pour obtenir plus d'informations, adressez-vous à notre [Centre d'assistance](http://help.twitch.tv/) ou écrivez-nous à l'adresse ci-dessus, à l'attention du Service client.
 
 La Commission européenne fournit une plate-forme pour le règlement en ligne des litiges sur [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Veuillez noter que Twitch n'est pas obligé de participer à une telle résolution de litige.
 
-#### 21\. Demandes de renseignements et signification d'une citation à comparaître
+#### 22\. Demandes d'informations et ordonnances judiciaires
 
-Toutes les demandes d'informations ou de documents liés à des procédures judiciaires, des enquêtes ou des litiges potentiels, prévus ou en cours doivent être faites en utilisant le niveau approprié de procédure judiciaire et être dûment signifiées à Twitch par l'intermédiaire de la Corporation Service Company (CSC), l'agent national enregistré de Twitch. Veuillez trouver ci-dessous l'adresse californienne de la CSC (le bureau de la CSC dans votre juridiction peut être trouvé sur le site internet du secrétaire d'État) :
-
-> Twitch Interactive, Inc.
-> 
-> c/o Corporation Service Company
-> 
-> 2710 Gateway Oaks Drive, Suite 150N
-> 
-> Sacramento, CA 95833
-
-Veuillez noter que, dans la mesure permise par la loi applicable, Twitch n'accepte pas les demandes d'informations ou de documents, ni la signification d'un acte de procédure, par e-mail ou par télécopie, et ne répondra pas à ces demandes. Toutes les demandes doivent inclure les informations dont vous disposez et qui nous aideront à identifier les dossiers pertinents (en particulier, le Service Twitch concerné et l'identifiant Twitch concerné, par exemple, http://www.twitch.tv/username), les informations spécifiques demandées et leur relation avec votre enquête. Veuillez également noter que le fait de limiter votre demande aux documents pertinents (par exemple une durée limitée) facilitera le traitement efficace de votre demande.
+Toutes les demandes d'informations ou de documents liés à des procédures judiciaires, des enquêtes ou des différends potentiels, anticipés ou en cours doivent être faites en utilisant le niveau approprié de procédure juridique. Veuillez consulter notre page [Service de procédure](https://www.twitch.tv/p/legal/service-of-process/) pour plus d'informations.
