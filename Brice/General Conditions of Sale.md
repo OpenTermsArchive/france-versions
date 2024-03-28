@@ -1,7 +1,7 @@
 conditions générales de vente
 =============================
 
-Mises à jour le 26/09/2023
+Mises à jour le 28/03/2024
 
 ARTICLE 1 – PREAMBULE
 ---------------------
