@@ -134,7 +134,7 @@ Fly Worldwide
 * [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
 * [Site Map](https://wwws.airfrance.fr/en/information/site-map)
-* [Legal notices](https://wwws.airfrance.fr/en/information/legal)
+* [Legal information](https://wwws.airfrance.fr/en/information/legal)
 * [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
