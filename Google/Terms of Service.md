@@ -410,7 +410,7 @@ En cas de rétractation de votre part du présent contrat, nous vous remboursero
 | Italie | 800 598 905 |
 | Lettonie | 80 205 391 |
 | Liechtenstein | 0800 566 814 |
-| Lituanie | 8 800 00 163 |
+| Lituanie | 0 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malte | 8006 2257 |
 | Martinique | 0805 98 03 38 |
