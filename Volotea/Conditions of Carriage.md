@@ -1037,7 +1037,7 @@ Sur la base des conditions indiquées ci-dessus, Volotea peut exiger un accompag
 * Un passager à mobilité réduite si grave que la personne est incapable de s'aider physiquement dans sa propre évacuation de l'avion.
 * Un passager souffrant de déficiences auditives et visuelles sévères qui l'empêchent de communiquer avec le personnel de l'entreprise, à la fois pour permettre la transmission des consignes de sécurité requises par la réglementation en vigueur, et pour permettre au passager de s'aider lui-même dans sa propre évacuation de l’avion en cas d'urgence.
 
-Si vous avez besoin d'un compagnon, celui-ci doit être âgé de plus de 18 ans, être disposé et capable de comprendre les consignes de sécurité et assister physiquement la personne à mobilité réduite en cas d'urgence.
+Si vous avez besoin d'un compagnon, celui-ci doit être âgé de plus de 16 ans, être disposé et capable de comprendre les consignes de sécurité et assister physiquement la personne à mobilité réduite en cas d'urgence.
 
 **Limitations et restrictions de sécurité**
 
