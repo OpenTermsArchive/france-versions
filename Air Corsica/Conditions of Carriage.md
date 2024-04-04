@@ -286,11 +286,13 @@ Sauf dispositions contraires, en cas de contradiction entre ces Conditions Gén�
 **(a)** Sauf dispositions contraires contenues dans le Billet, ces Conditions Générales de Transport ou les Tarifs, tels que définis à l'Article 2 ci-dessus, (en cas de Tarifs affectant la validité d'un Billet, tel qu'indiqué sur le Billet lui-même), un Billet est valable au transport :
 
 * un an, à compter de la date d'émission du billet initial ou,
+    
 * un an à compter de la date d'utilisation du premier Coupon, si celle-ci intervient dans l'année de la date d'émission du billet initial.
+    
 
 **(b)** Lorsque votre voyage n’a pu être effectué pour des raisons volontaires ou involontaires, vous pouvez obtenir le remboursement tout ou partiel de votre billet (hors frais de service (Voir Article 5.7) conformément aux conditions tarifaires souscrites lors de votre achat, sans préjudice de la réglementation applicable le cas échéant, selon les raisons de l’annulation de votre voyage, en formulant votre demande auprès d’air Corsica le transporteur, dans la limite de la validité du billet, à savoir 1 an à compter de la date d’émission du billet initial.
 
-**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet , 1 an à compter de la date d’émission du billet initial), vous pourrez obtenir le remboursement tout ou partiel de votre billet selon les conditions tarifaires souscrites lors de l’achat et obtenir un remboursement complémentaire auprès de l’assurance voyage souscrite lors de l’achat du billet selon les garanties précisées au contrat d’assurance. Dans tous les cas, vous être en droit d'obtenir le remboursement, sous trente (30) jours, des taxes et redevances individualisées correspondant à la portion de voyage non effectuées, en application de l'article L.224-66 du Code de la consommation. Vous pouvez effectuer votre demande en ligne à l'adresse suivante : [https://serviceclient.aircorsica.com/](https://serviceclient.aircorsica.com/)[.](https://serviceclient.aircorsica.com/)
+**(c)** Lorsque, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet , 1 an à compter de la date d’émission du billet initial), vous pourrez obtenir le remboursement tout ou partiel de votre billet selon les conditions tarifaires souscrites lors de l’achat et obtenir un remboursement complémentaire auprès de l’assurance voyage souscrite lors de l’achat du billet selon les garanties précisées au contrat d’assurance. Dans tous les cas, vous être en droit d'obtenir le remboursement, sous trente (30) jours, des taxes et redevances individualisées correspondant à la portion de voyage non effectuées, en application de l'article L.224-66 du Code de la consommation. Vous pouvez effectuer votre demande en ligne à l'adresse suivante : [https://serviceclient.aircorsica.com/.](https://serviceclient.aircorsica.com/)
 
 **(d)** En cas de décès d'un Passager au cours du voyage, les Billets des personnes accompagnant le défunt pourront être modifiés, soit en écartant la notion de séjour minimum, soit en prorogeant la validité de ces Billets. En cas de décès survenu dans la famille proche d'un Passager dont le voyage est commencé, la validité des Billets du Passager et de ceux des membres de sa famille proche voyageant avec lui pourra être modifiée de la même façon.
 
@@ -360,7 +362,7 @@ Des frais d’émission ou de dossier sont facturés lors de chaque achat sur le
 Les Frais d’Émission ou de dossier facturés, le cas échéant, par le Transporteur ne sont pas remboursables, excepté lorsqu'il s’agit d'une annulation du Billet due à une faute du Transporteur.   
 Le Passager est informé avant la finalisation de sa Réservation, du montant des Frais d'Émission qui lui sont facturés par le Transporteur. Le montant des Frais d'Émission facturés par Air Corsica est consultable auprès de ses services et sur son Site Internet
 
-**5.8. Frais d’annulation et de modification**
+**5.8. Frais d****’****annulation et de modification**
 
 En cas d’annulation volontaire de votre part, des frais de modifications qui sont associés au tarif du billet que vous avez acheté seront facturés, en supplément d’éventuels frais d’annulation liés aux conditions d’application de certains tarifs.
 
@@ -412,7 +414,7 @@ Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annul
 
 ### Article 8 - Refus, limitations au transport et Assistance particulière
 
-**8.1. Refus d’embarquement**
+**8.1. Refus d****’****embarquement**
 
 Lorsqu’Air Corsica prévoit raisonnablement de refuser l’embarquement à un Passager sur un vol, cette dernière peut faire appel dans un premier temps aux volontaires acceptant de renoncer à leur réservation en échange de certaines prestations suivant des modalités à convenir entre les passagers concernés et Air Corsica. Les volontaires bénéficient, en plus des prestations mentionnées au présent paragraphe, d’une assistance conformément à l’article 8 du règlement n° 261/2004.
 
@@ -513,19 +515,21 @@ Vous ne devez pas inclure dans vos Bagages tout objet dont le transport est inte
 
 **a)** des matières périssables, des fonds, devises, bijoux, objets d'art, métaux précieux, argenterie, valeurs ou autres objets précieux, vêtements de prix, appareils d'optique ou de photo, matériels ou appareils électroniques et/ou de télécommunication, instruments de musique, passeports et pièces d'identité, échantillons, papiers d'affaires, manuscrits ou titres, individualisés ou fongibles, etc…
 
-**b)** Des objets susceptibles de constituer un danger pour l'aéronef, les personnes ou les biens à bord, comme ceux qui sont spécifiés dans les Instructions techniques pour la sécurité du transport aérien, des marchandises dangereuses de l'Organisation de l'Aviation Civile Internationale (OACI) et dans la Règlementation, pour le transport des marchandises dangereuses de l'Association Internationale des Transporteurs Aériens (IATA), ainsi que dans notre propre règlementation telle qu'elle vous est applicable sous réserve des normes communautaires et françaises (des informations supplémentaires sont disponibles auprès de nos services, sur demande); il s'agit notamment des explosifs, gaz sous pression, substances oxydantes, radioactives ou magnétisées, substances inflammables, substances toxiques ou corrosives, substances liquides de toute sorte.
+**b)** des appareils médicaux (sauf accord du service Transport Exceptionnel dans le dossier de réservation)
 
-**c)** des objets dont le transport est interdit par le droit en vigueur dans tout Etat de départ, de destination, de survol ou de transit programmé.
+**c)** des objets susceptibles de constituer un danger pour l'aéronef, les personnes ou les biens à bord, comme ceux qui sont spécifiés dans les Instructions techniques pour la sécurité du transport aérien, des marchandises dangereuses de l'Organisation de l'Aviation Civile Internationale (OACI) et dans la Règlementation, pour le transport des marchandises dangereuses de l'Association Internationale des Transporteurs Aériens (IATA), ainsi que dans notre propre règlementation telle qu'elle vous est applicable sous réserve des normes communautaires et françaises (des informations supplémentaires sont disponibles auprès de nos services, sur demande); il s'agit notamment des explosifs, gaz sous pression, substances oxydantes, radioactives ou magnétisées, substances inflammables, substances toxiques ou corrosives, substances liquides de toute sorte.
 
-**d)** des objets dont nous estimons raisonnablement que leur poids, leur dimension, leur configuration ou leur nature, fragile ou périssable, les rendent impropres au transport, compte tenu, entre autres, du type d'avion utilisé. Une information sur ces objets est disponible sur demande.
+**d)** des objets dont le transport est interdit par le droit en vigueur dans tout Etat de départ, de destination, de survol ou de transit programmé.
 
-**e)** des armes à feu et les munitions autres que celles destinées à la chasse ou au sport, lesquelles, pour être admises comme Bagages enregistrés, doivent être déchargées, convenablement emballées et avoir le cran de sûreté engagé. Le transport des munitions est soumis aux Réglementations sur les Matières Dangereuses de l'OACI et de l'IATA, ainsi qu’au droit communautaire et français.
+**e)** des objets dont nous estimons raisonnablement que leur poids, leur dimension, leur configuration ou leur nature, fragile ou périssable, les rendent impropres au transport, compte tenu, entre autres, du type d'avion utilisé. Une information sur ces objets est disponible sur demande.
 
-**f)** des armes tranchantes, armes d'estoc, aérosols pouvant être utilisées comme armes d'attaque ou de défense, des armes de collection, des épées, des couteaux et autres armes de ce type, si elles sont transportées en cabine. Ces objets peuvent néanmoins être acceptés comme Bagages enregistrés, à la discrétion du Transporteur.
+**f)** des armes à feu et les munitions autres que celles destinées à la chasse ou au sport, lesquelles, pour être admises comme Bagages enregistrés, doivent être déchargées, convenablement emballées et avoir le cran de sûreté engagé. Le transport des munitions est soumis aux Réglementations sur les Matières Dangereuses de l'OACI et de l'IATA, ainsi qu’au droit communautaire et français.
 
-**g)** des animaux vivants, excepté les animaux domestiques et sous réserve que les conditions du paragraphe 7 du présent article soient respectées. Dans le cas où de tels objets seraient contenus dans vos Bagages malgré l’interdiction prévue au présent article, les règles de responsabilité édictées à l’Article 18 ne trouveraient pas application.
+**g)** des armes tranchantes, armes d'estoc, aérosols pouvant être utilisées comme armes d'attaque ou de défense, des armes de collection, des épées, des couteaux et autres armes de ce type, si elles sont transportées en cabine. Ces objets peuvent néanmoins être acceptés comme Bagages enregistrés, à la discrétion du Transporteur.
 
-**11.2. Restrictions à l’acceptation des Bagages**
+**h)** des animaux vivants, excepté les animaux domestiques et sous réserve que les conditions du paragraphe 7 du présent article soient respectées. Dans le cas où de tels objets seraient contenus dans vos Bagages malgré l’interdiction prévue au présent article, les règles de responsabilité édictées à l’Article 18 ne trouveraient pas application.
+
+**11.2. Restrictions à l****’****acceptation des Bagages**
 
 **a)** A tout point d’embarquement intermédiaire, nous pourrons refuser de transporter comme Bagages les objets énumérés au paragraphe 1 du présent article ci-dessus, ou refuser de continuer à les transporter, si nous les découvrons en cours de voyage, si le bagage présente un risque pour la salubrité, la sécurité ou le bon ordre de l’aéronef.
 
@@ -557,7 +561,7 @@ Vous pouvez faire transporter des Bagages en franchise selon les dispositions et
 
 Vous devrez payer un supplément pour le transport des Bagages excédant la franchise, aux conditions figurant sur la page Internet de notre rubrique « Infos bagages » que nous vous invitons à lire régulièrement.
 
-**11.4.4. DSI : Déclaration Spéciale d’Intérêt de frais supplémentaires**
+**11.4.4. DSI : Déclaration Spéciale d****’****Intérêt de frais supplémentaires**
 
 **a)** La Déclaration Spéciale d’Intérêt concerne un Bagage enregistré dont la valeur estimée par le Passager est supérieure à un certain montant. Les conditions d’application de la Déclaration Spéciale d’Intérêt sont valables sur les vols d’Air Corsica à savoir : Ajaccio, Bastia, Calvi et Figari vers Marseille, Nice, Rome et Lyon. La Déclaration Spéciale d’Intérêt doit être faite par le Passager à l’aéroport le jour du départ, et avant l’Heure Limite d’Enregistrement. Conformément à ce qui est prévu à l’article 18 « Responsabilité pour dommages » paragraphe 2.3 des présentes conditions, vous pourrez, pour votre Bagage enregistré, déclarer par écrit une valeur supérieure à la limite de responsabilité indiquée dans cet article moyennant le règlement d’une somme supplémentaire en cas de destruction, perte, détérioration ou retard.
 
@@ -670,7 +674,7 @@ En conformité avec la réglementation tarifaire, nous vous rembourserons tout o
 
 **d)** un remboursement fait à une personne nous remettant le Coupon Passager ou le Reçu Passager ainsi que tous les Coupons de Vol inutilisés et se présentant comme la personne ayant droit au remboursement, conformément aux sous-paragraphes a) et b) ci-dessus, sera considéré comme valable et nous déchargera de toute responsabilité et de toute réclamation ultérieure de remboursement.
 
-**13.2. Remboursements pour annulation, retard important ou refus d’embarquement**
+**13.2. Remboursements pour annulation, retard important ou refus d****’****embarquement**
 
 En cas d’annulation, de retard important d’un vol, ou encore de refus d’embarquement au sens du Règlement (CE) N°261/2004, le remboursement se fera dans un délai de sept jours selon les modalités visées au Règlement, au prix indiqué sur le Billet, pour la ou les parties du voyage non effectuées, ainsi que pour la ou les parties du voyage déjà effectuées.
 
