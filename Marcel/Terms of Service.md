@@ -1,3 +1,5 @@
+TEST
+
 Conditions générales d’utilisation
 ==================================
 
