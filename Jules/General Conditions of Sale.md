@@ -104,11 +104,15 @@ Une carte ou e-carte cadeau ne peut pas être utilisée pour l’achat d’une a
 Dans le cas d'un règlement partiel de la commande par carte cadeau, le Client devra payer le solde par tout autre moyen de paiement accepté par Jules.  
 En cas d'annulation ou de retour pour remboursement de toute ou partie de la commande, les cartes cadeau Illicado ne pourront être re-créditées. Une nouvelle carte cadeau Jules du montant exact à rembourser sera alors envoyée au Client conformément à l’article 9.5.  
 
-##### 7.4 Sécurité des paiements
+##### 7.4 Le paiement peut également s'effectuer en 2x ou 3x sans frais avec Alma
+
+Le paiement en plusieurs fois est disponible via notre partenaire Alma. La sécurisation des paiements est assurée par Alma ses prestataires. Tous les paiements sont protégés par le 3D Secure. Ce mode de paiement est conditionné par l'acceptation par le Client des CGU ou du contrat de crédit proposé par Alma. Tout refus d'octroi de crédit par Alma pour une commande pourra entraîner l'annulation de celle-ci. Montant des achats: - P2X: Seuls les achats entre 40€ et 2 000€ sont éligibles au paiement avec Alma. - P3X: Seuls les achats entre 40e et 2 000e sont éligibles au paiement avec Alma. Frais: En payant en plusieurs fois avec Alma vous ne payez pas de frais. Alma est gestionnaire de télé-paiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du Code Civil. Résiliation: Toute résiliation des CGV qui lient le Vendeur et le client, entraine la résiliation des CGU entre Alma et le client.  
+
+##### 7.5 Sécurité des paiements
 
 Les transactions effectuées sur le Site Internet sont sécurisées par la plateforme de paiement en ligne PayZen. Cette solution est une marque du groupe Lyra Network, opérateur monétique reconnu dans le milieu bancaire. PayZen assure aux Clients la sécurité optimale de leurs données grâce à sa certification PCI DSS et l’utilisation du protocole SSL qui crypte toutes les informations liées à la commande. A aucun moment, les coordonnées bancaires des Clients n’apparaissent en clair ou sont remises à Jules. Pour toute information complémentaire sur la plateforme de paiement nous vous invitons à visiter le site Internet : [www.payzen.eu](https://payzen.eu/) ou à contacter le 0811 708 709 (coût d’un appel local depuis un poste fixe).  
 
-##### 7.5 Mesures contre les défauts de paiement et la fraude bancaire
+##### 7.6 Mesures contre les défauts de paiement et la fraude bancaire
 
 Jules se réserve le droit de refuser toute commande d’un Client avec lequel il existerait un litige relatif au paiement d’une commande antérieure tant que ce litige n’est pas résolu.  
 Jules se réserve la possibilité de vérifier les données personnelles fournies par le Client et d’adopter les mesures qu’il juge nécessaires (demande de justificatifs, et/ou annulation de la commande) pour vérifier que la personne dont le compte bancaire est débité est bien celle qui a passé la commande et ainsi éviter toute utilisation frauduleuse de numéros de cartes sur le Site Internet.  
