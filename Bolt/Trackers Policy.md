@@ -33,7 +33,7 @@ Identifiant de votre consentement: 0Date de consentement:
 
 [Ne pas vendre ou partager mes informations personnelles](#)
 
-Nécessaires (33)
+Nécessaires (37)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies.
 
@@ -41,14 +41,17 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
 | \_\_cf\_bm \[x4\] | bolt.eu  <br>boltsvc.net  <br>taxify.eu  <br>vimeo.com | Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site. | 1 jour | HTTP Cookie |
+| \_cfuvid | vimeo.com | Ce cookie fait partie des services fournis par Cloudflare - notamment l’équilibrage de la charge, la fourniture du contenu du site web et la connexion DNS au service des exploitants de sites web. | Session | HTTP Cookie |
 | 1.gif | imgsct.cookiebot.com | Utilisé pour compter le nombre de sessions sur le site web, nécessaire pour optimiser la livraison des produits CMP. | Session | Pixel Tracker |
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | bugsnag-anonymous-id \[x2\] | fleets.bolt.eu  <br>food.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistent | HTML Local Storage |
-| cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
+| cf\_clearance \[x2\] | formaloo.me  <br>vimeo.com | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
 | CookieConsent \[x16\] | bestbreakups.com  <br>blog.bolt.eu  <br>bolt.eu  <br>bolt-food-partners.formaloo.net  <br>business.bolt.eu  <br>city.bolt.eu  <br>courier.bolt.eu  <br>couriers.bolt.eu  <br>fleets.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu  <br>littlebigthinktank.com  <br>makecitiesforpeople.com  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>signup.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | HTTP Cookie |
 | deviceId \[x2\] | bolt.eu  <br>static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistent | HTML Local Storage |
 | fleet-visitor-id | bolt.eu | En attente | Session | HTTP Cookie |
+| JSESSIONID | nr-data.net | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | HTTP Cookie |
+| sessionId | bolt.eu | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | HTML Local Storage |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | test\_cookie | doubleclick.net | Utilisé pour vérifier si le navigateur de l'utilisateur accepte les cookies. | 1 jour | HTTP Cookie |
@@ -61,7 +64,7 @@ Les cookies de préférences permettent à notre site web de retenir des informa
     
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
-| @@scroll# \[x2\] | bolt.eu  <br>cities-and-airports.bolt.eu | En attente | Session | HTML Local Storage |
+| @@scroll# \[x2\] | assets.blog.bolt.eu  <br>bolt.eu | En attente | Session | HTML Local Storage |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | HTTP Cookie |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | HTTP Cookie |
 | CookieConsentBulkSetting-# \[x2\] | consentcdn.cookiebot.com  <br>consentcdn.cookiebot.com | Active le consentement aux cookies sur plusieurs sites | 1 année | HTML Local Storage |
@@ -112,7 +115,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
 | \_\_ddg1\_ | bolt.eu | Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur. | 1 année | HTTP Cookie |
-| \_\_mpq\_#\_# \[x4\] | bolt.eu  <br>cdn.mxpnl.com  <br>city.bolt.eu  <br>foodpartner.bolt.eu | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Persistent | HTML Local Storage |
+| \_\_mpq\_#\_# \[x5\] | bolt.eu  <br>cdn.mxpnl.com  <br>city.bolt.eu  <br>fleets.bolt.eu  <br>foodpartner.bolt.eu | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Persistent | HTML Local Storage |
 | \_fbp \[x2\] | bolt.eu  <br>makecitiesforpeople.com | Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers. | 3 mois | HTTP Cookie |
 | \_gcl\_au \[x3\] | bestbreakups.com  <br>bolt.eu  <br>makecitiesforpeople.com | Utilisé par Google AdSense pour expérimenter l'efficacité de la publicité sur de divers sites Web en utilisant leurs services. | 3 mois | HTTP Cookie |
 | \_ttp \[x2\] | bolt.eu  <br>tiktok.com | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | 1 année | HTTP Cookie |
@@ -122,7 +125,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | guest\_id | twitter.com | Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et les pages qui ont été chargées, afin de personnaliser et d'améliorer le service Twitter. | 400 jours | HTTP Cookie |
 | guest\_id\_ads | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
 | guest\_id\_marketing | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
-| IDE | doubleclick.net | En attente | 1 année | HTTP Cookie |
+| IDE | doubleclick.net | Utilisé par Google DoubleClick pour enregistrer et signaler les actions de l'utilisateur du site après qu'il ait vu ou cliqué sur une des pubs de l'annonceur dans le but de mesurer l'efficacité et de présenter des annonces publicitaires ciblées à l'utilisateur. | 1 année | HTTP Cookie |
 | LAST\_RESULT\_ENTRY\_KEY | youtube.com | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Session | HTTP Cookie |
 | lastExternalReferrer | connect.facebook.net | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistent | HTML Local Storage |
 | lastExternalReferrerTime | connect.facebook.net | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistent | HTML Local Storage |
@@ -136,7 +139,6 @@ Marketing cookies are used to track visitors across our website. The intention i
 | pagead/landing \[x3\] | doubleclick.net  <br>google.com  <br>googlesyndication.com | Collecte des données sur le comportement des visiteurs à partir de plusieurs sites web afin de présenter des publicités plus pertinentes. Cela permet également au site web de limiter le nombre de fois où la même publicité est présentée au visiteur. | Session | Pixel Tracker |
 | pagead/viewthroughconversion/699781999 | doubleclick.net | En attente | Session | Pixel Tracker |
 | remote\_sid | youtube.com | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Session | HTTP Cookie |
-| ServiceWorkerLogsDatabase#SWHealthLog | youtube.com | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Persistent | IndexedDB |
 | SM  | c.clarity.ms | Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées. | Session | HTTP Cookie |
 | SRM\_B | bing.com | Suit l'interaction de l'utilisateur avec la fonction de barre de recherche du site web. Ces données peuvent être utilisées pour présenter à l'utilisateur des produits ou des services pertinents. | 1 année | HTTP Cookie |
 | TESTCOOKIESENABLED | youtube.com | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 1 jour | HTTP Cookie |
@@ -154,7 +156,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | yt-remote-session-app | youtube.com | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | HTML Local Storage |
 | yt-remote-session-name | youtube.com | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | HTML Local Storage |
 
-Non classés (28)
+Non classés (30)
 
 Les cookies non classés sont les cookies qui sont en cours de classification, ainsi que les fournisseurs de cookies individuels.
 
@@ -165,6 +167,8 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | \_\_mp\_opt\_in\_out\_16b2ba60f4d49b1f69fcf78aea1521a3 | bolt.eu | En attente | Session | HTTP Cookie |
 | \_\_mp\_opt\_in\_out\_d34cbdea4b58a3b884e4b999930076ef | food.bolt.eu | En attente | Persistent | HTML Local Storage |
 | BoltDeliveryClient.languageLocale | food.bolt.eu | En attente | Persistent | HTML Local Storage |
+| foodlat | bolt.eu | En attente | Session | HTTP Cookie |
+| foodlng | bolt.eu | En attente | Session | HTTP Cookie |
 | FOP\_ip\_location\_data | fleets.bolt.eu | En attente | Persistent | HTML Local Storage |
 | lo\_di \[x2\] | bolt.eu  <br>eu | En attente | Session | HTTP Cookie |
 | lo\_uid | bolt.eu | En attente | 1 année | HTTP Cookie |
@@ -179,7 +183,6 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | mp\_optout | food.bolt.eu | En attente | Session | HTTP Cookie |
 | persist:account-selected-provider | foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
 | persist:session \[x2\] | city.bolt.eu  <br>foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
-| test\_WZRK\_G0 | bolt.eu | En attente | Session | HTTP Cookie |
 | WZRK\_ARP | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_G | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_G | bolt.eu | En attente | 1 année | HTTP Cookie |
@@ -187,5 +190,6 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | WZRK\_META | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_P | bolt.eu | En attente | Session | HTTP Cookie |
 | WZRK\_S\_W65-47W-565Z | bolt.eu | En attente | 1 jour | HTTP Cookie |
+| X-Experiment-Food | bolt.eu | En attente | 208 jours | HTTP Cookie |
 
-Déclaration relative aux cookies mise à jour le 11/03/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Déclaration relative aux cookies mise à jour le 10/04/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
