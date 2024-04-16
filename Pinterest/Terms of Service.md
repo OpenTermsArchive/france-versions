@@ -252,6 +252,6 @@ Plaintes individuelles en application de la loi no 2021-1109 confortant le respe
 
 Les plaintes relatives au contenu de Pinterest qui, selon vous, tombe sous le coup de la loi n° 2021-1109, doivent être envoyées à l'aide du formulaire suivant: https://www.pinterest.com/about/loi\_fr/ . L'utilisation de ce formulaire pour soumettre les réclamations garantit que votre plainte sera traitée par l'équipe appropriée.
 
-Date d’entrée en vigueur en dehors de l’EEE et du Royaume-Uni : 13 mars 2024  
+Date d’entrée en vigueur en dehors de l’EEE, du Royaume-Uni et de la Suisse : 13 mars 2024  
   
-Date d’entrée en vigueur dans l’EEE et au Royaume-Uni : 30 avril 2024
+Date d’entrée en vigueur dans l’EEE, au Royaume-Uni et en Suisse : 30 avril 2024
