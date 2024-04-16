@@ -22,7 +22,7 @@ Les présentes conditions d'utilisation traduisent le [fonctionnement de Google]
 * La section [Contenu dans les services Google](https://policies.google.com/terms?hl=fr-FR&gl=FR#toc-content), présente les droits de propriété intellectuelle associés aux contenus que vous trouvez dans nos services, que ces contenus vous appartiennent ou soient la propriété de Google ou de tiers.
 * La section [En cas de problèmes ou de désaccords](https://policies.google.com/terms?hl=fr-FR&gl=FR#toc-problems) présente d'autres droits dont vous jouissez et décrit les conséquences d'une violation des présentes conditions d'utilisation.
 
-Il est essentiel de bien comprendre ces conditions, car vous devez obligatoirement les accepter pour utiliser nos services. Nous vous encourageons à télécharger ces conditions pour pouvoir vous y référer ultérieurement. Ces conditions, ainsi que toutes les versions précédentes, sont consultables à tout moment sur [cette page](https://policies.google.com/archive?hl=fr-FR&gl=FR).
+Il est essentiel de bien comprendre ces conditions, car vous devez obligatoirement les accepter pour utiliser nos services.
 
 Outre les présentes conditions, nous avons également publié des [Règles de confidentialité](https://policies.google.com/privacy?hl=fr-FR&gl=FR). Même si ces règles ne font pas partie de ces conditions, nous vous invitons à les lire attentivement afin de mieux comprendre comment [modifier, gérer, exporter et supprimer vos données](https://myaccount.google.com/?hl=fr).
 
@@ -73,9 +73,7 @@ Sommaire
 Votre relation avec Google
 ==========================
 
-Les présentes conditions d'utilisation contribuent à déterminer la nature de votre relation avec Google. Par les termes "Google", "nous", "nos" et "notre", nous désignons Google Ireland Limited et ses [sociétés affiliées](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-affiliates).
-
-D'une manière générale, nous vous autorisons à accéder à nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-services) et à les utiliser si vous acceptez de respecter ces conditions, qui reflètent le fonctionnement des activités de Google. Nous mettons à disposition du public et sans contrepartie financière bon nombre de nos produits, comme le moteur de recherche, Google Maps et Gmail. Cela ne serait pas possible sans la publicité. Nous générons des revenus en vendant des espaces publicitaires aux entreprises, et nous utilisons vos données pour diffuser des publicités pertinentes, en fonction de vos paramètres. Lorsque nous diffusons des annonces, nous le faisons en toute transparence et nous vous donnons les moyens de prendre des décisions éclairées, par exemple concernant les informations utilisées pour vous présenter ces annonces. Nous utilisons également vos informations personnelles pour vous proposer des produits plus utiles. Par exemple, c'est ainsi que vous bénéficiez de la saisie automatique lors de vos recherches, rejoignez votre domicile plus rapidement avec Google Maps, etc.). Pour en savoir plus, découvrez [comment fonctionne Google](https://about.google/intl/fr_FR/how-our-business-works).
+Les présentes conditions d'utilisation contribuent à déterminer la nature de votre relation avec Google. D'une manière générale, nous vous autorisons à utiliser nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) si vous acceptez de respecter ces conditions, qui reflètent le [fonctionnement des activités de Google et la façon dont nous nous rémunérons](https://about.google/intl/fr_FR/how-our-business-works). Par les termes "Google", "nous", "nos" et "notre", nous désignons Google Ireland Limited et ses [sociétés affiliées](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-affiliates).
 
 Ce que vous pouvez attendre de notre part
 -----------------------------------------
@@ -87,7 +85,7 @@ Nous fournissons une variété de services qui sont soumis aux présentes condit
 * des applications et des sites (comme Maps et la recherche Google) ;
 * des plates-formes (comme Google Shopping) ;
 * des services intégrés (comme Google Maps qui peut être incorporé dans les applications ou sites d'autres sociétés) ;
-* des appareils (comme Google Nest et Pixel).
+* des appareils (comme Google Nest).
 
 Un grand nombre de ces services comprennent également des contenus que vous pouvez lire en streaming ou avec lesquels vous pouvez interagir.
 
@@ -99,7 +97,7 @@ Nous utilisons le terme "services" au sens large dans l'ensemble des présentes 
 
 Nous développons en permanence de nouvelles technologies et fonctionnalités en vue d'améliorer nos services. Par exemple, nous utilisons l'intelligence artificielle et le machine learning (apprentissage automatique) pour vous proposer des traductions simultanées, ainsi que pour mieux détecter et bloquer le spam et les logiciels malveillants.
 
-Dans le cadre de l'évolution constante de nos contenus, services et biens numériques, nous apportons des modifications consistant, par exemple, à ajouter ou supprimer des fonctionnalités, à modifier les limites d'utilisation, à proposer de nouveaux services ou contenus numériques, ou à en abandonner d'autres plus anciens. Nous pouvons également modifier nos contenus, services ou biens numériques pour les raisons suivantes :
+Dans le cadre de l'évolution constante de nos contenus numériques et de nos biens et services, nous apportons des modifications consistant, par exemple, à ajouter ou supprimer des fonctionnalités, à modifier les limites d'utilisation, à proposer de nouveaux contenus numériques ou services, ou à en abandonner d'autres plus anciens. Nous pouvons également modifier nos contenus numériques ou nos services pour les raisons suivantes :
 
 * Nous adapter à de nouvelles technologies
 * Tenir compte de l'évolution du nombre d'utilisateurs d'un service particulier
@@ -111,21 +109,21 @@ Plus particulièrement, nous effectuons parfois des mises à jour découlant d'o
 
 Nous poursuivons un programme d'études rigoureux sur les produits. Par conséquent, avant de modifier un service ou de ne plus le proposer, nous examinons attentivement vos centres d'intérêt en tant qu'utilisateur, vos attentes raisonnables, ainsi que leur impact potentiel sur vous et autrui. Nous ne modifions des services ou cessons de les proposer que pour de bonnes raisons.
 
-En cas de modification ayant un impact négatif sur votre accès à nos contenus numériques, à nos services ou à nos biens, ou sur leur utilisation, ou en cas de suppression d'un service, nous vous adresserons un préavis par e-mail dans un délai raisonnable, sauf dans des situations urgentes, telles que la prévention de tout préjudice ou de toute utilisation abusive, ou la réponse à des obligations légales, ou en cas d'impératifs liés à des questions de sécurité ou de fonctionnalité. Ledit préavis comprendra une description des modifications en question, indiquera leur date d'entrée en vigueur et vous informera de votre droit de mettre fin au contrat que vous avez conclu avec nous si l'impact négatif des modifications est important. Nous vous offrirons également la possibilité d'exporter [vos contenus](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-your-content) à partir de votre compte Google en utilisant l'outil [Google Takeout](https://takeout.google.com/settings/takeout?hl=fr), sous réserve des lois et règles applicables.
+En cas de modification ayant un impact négatif sur votre accès à nos contenus numériques ou à nos services, ou sur leur utilisation, ou en cas de suppression d'un service, nous vous adresserons un préavis par e-mail dans un délai raisonnable, sauf dans des situations urgentes, telles que la prévention de tout préjudice ou de toute utilisation abusive, ou la réponse à des obligations légales, ou en cas d'impératifs liés à des questions de sécurité ou de fonctionnalité. Ledit préavis comprendra une description des modifications en question, indiquera leur date d'entrée en vigueur et vous informera de votre droit de mettre fin au contrat que vous avez conclu avec nous si l'impact négatif des modifications est important. Nous vous offrirons également la possibilité d'exporter [vos contenus](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-your-content) à partir de votre compte Google en utilisant l'outil [Google Takeout](https://takeout.google.com/settings/takeout?hl=fr), sous réserve des lois et règles applicables.
 
 Ce que nous attendons de votre part
 -----------------------------------
 
 ### Respecter les présentes conditions et les conditions supplémentaires spécifiques à certains services
 
-L'autorisation que nous vous donnons d'utiliser nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-services) et d'y accéder reste valable tant que vous respectez :
+L'autorisation que nous vous donnons d'utiliser nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) reste valable tant que vous respectez :
 
 * **les présentes conditions d'utilisation** ;
 * les **[Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR)** qui peuvent, par exemple, inclure des limites d'âge supplémentaires.
 
 Vous pouvez afficher, copier et stocker ces conditions dans un [fichier PDF](https://www.gstatic.com/policies/terms/pdf/20220105/it7r24p9/google_terms_of_service_fr_fr.pdf). Vous pouvez accepter ces conditions d'utilisation et toute [Condition supplémentaire spécifique à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) lorsque vous êtes connecté à votre compte Google.
 
-Nous mettons également à votre disposition divers règlements, centres d'aide et autres ressources pour répondre à vos questions courantes et vous donner une idée des conditions dans lesquelles vous pouvez utiliser nos services. Ces ressources comprennent nos [Règles de confidentialité](https://policies.google.com/privacy?hl=fr-FR&gl=FR), notre [Centre d'aide relatif aux droits d'auteur](https://support.google.com/legal/topic/4558877?hl=fr), notre [Centre de sécurité](https://safety.google/?hl=fr), notre [Centre pour la transparence](https://transparency.google/?hl=fr) ainsi que d'autres pages accessibles depuis le [site dédié à nos Règles](https://policies.google.com/?hl=fr-FR&gl=FR). Enfin, nous pouvons être amenés à fournir des instructions et des avertissements spécifiques dans nos services (par exemple, des boîtes de dialogue qui vous alertent sur des informations importantes).
+Nous mettons également à votre disposition diverses règles, centres d'aide et autres ressources pour répondre à vos questions courantes et vous donner une idée des conditions dans lesquelles vous pouvez utiliser nos services. Ces ressources comprennent nos [Règles de confidentialité](https://policies.google.com/privacy?hl=fr-FR&gl=FR), notre [Centre d'aide relatif aux droits d'auteur](https://support.google.com/legal/topic/4558877?hl=fr), notre [Centre de sécurité](https://safety.google/?hl=fr), ainsi que d'autres pages accessibles depuis le [site dédié à nos Règles](https://policies.google.com/?hl=fr-FR&gl=FR).
 
 Même si nous vous autorisons à utiliser nos services, sachez que nous conservons l'ensemble des [droits de propriété intellectuelle](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-intellectual-property-rights) qui y sont associés.
 
@@ -133,34 +131,12 @@ Même si nous vous autorisons à utiliser nos services, sachez que nous conservo
 
 Nous souhaitons maintenir un environnement respectueux pour tous. Pour cela, vous devez suivre les règles de conduite élémentaires suivantes :
 
-* Respecter les lois applicables, y compris celles sur le contrôle des exportations, les sanctions et la traite des êtres humains
-* Respecter les droits d'autrui, y compris les droits de propriété intellectuelle et les droits au respect de la confidentialité
-* Ne pas nuire ou faire du mal à autrui ou à soi-même (ni menacer ou encourager de telles pratiques), que ce soit par la tromperie, l'escroquerie, l'usurpation d'identité, la diffamation, l'intimidation, le harcèlement ou des persécutions
+* Respecter les lois applicables, y compris celles sur le contrôle des exportations, les sanctions et la traite des êtres humains.
+* Respecter les droits d'autrui, y compris les droits de propriété intellectuelle et le droit au respect de la vie privée.
+* Ne pas nuire ou faire du mal à autrui ou à soi-même (ni menacer ou encourager de telles pratiques), que ce soit par la tromperie, l'escroquerie, l'usurpation d'identité, la diffamation, l'intimidation, le harcèlement ou des persécutions.
+* Ne pas utiliser les services de manière abusive, ne pas y nuire, ne pas les perturber ni interférer avec ceux-ci, par exemple en y accédant ou en les utilisant de manière frauduleuse ou trompeuse, en y introduisant des logiciels malveillants ou du spam, ou en piratant ou contournant nos systèmes ou nos mesures de protection. Lorsque nous indexons le Web afin de vous fournir des résultats de recherche, nous respectons les restrictions d'utilisation standards indiquées dans le code des sites Web par leurs propriétaires. Par conséquent, nous attendons des utilisateurs de nos services qu'ils fassent de même.
 
-Les [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR), comme le [Règlement sur les utilisations interdites de l'IA générative](https://policies.google.com/terms/generative-ai/use-policy?hl=fr-FR&gl=FR), fournissent des informations additionnelles concernant les comportements appropriés que tous les utilisateurs de ces services doivent adopter. Si vous constatez des infractions à ces règles, la plupart de nos services vous permettent de les [signaler](https://support.google.com/groups/answer/81275?hl=fr). Toute mesure prise à la suite d'un signalement fait l'objet de la procédure décrite dans la section _[Mesures prises en cas de problèmes](https://policies.google.com/terms?hl=fr-FR&gl=FR#taking-action)_.
-
-### Ne pas utiliser nos services de façon abusive
-
-La plupart des personnes qui accèdent à nos services ou les utilisent comprennent les règles générales qui maintiennent Internet comme un espace ouvert et sécurisé. Malheureusement, quelques personnes ne respectent pas ces règles que nous décrivons donc ici afin de protéger nos services et nos utilisateurs contre les utilisations abusives. En conséquence :
-
-Vous ne devez pas utiliser nos services ni nos systèmes de manière abusive, ni les perturber, interférer avec eux ou y nuire. Par exemple :
-
-* En introduisant des logiciels malveillants
-* En piratant ou en contournant nos systèmes ou mesures de protection, ou en y envoyant du spam
-* En les débridant, en envoyant des requêtes hostiles ou en y injectant des requêtes, sauf dans le cadre de nos [programmes de sécurité et de test de bugs](https://bughunters.google.com/?hl=fr)
-* En accédant à nos services ou contenus, ou en les utilisant, de manière frauduleuse ou trompeuse, que ce soit, par exemple :
-
-* En recourrant à l'hameçonnage
-* En créant de faux comptes ou contenus, y compris de faux avis
-* En induisant les autres en erreur en leur faisant croire qu'un contenu d'IA générative a été créé par un humain
-* En fournissant des services qui semblent provenir de vous (ou de quelqu'un d'autre) alors qu'ils proviennent en réalité de nous
-
-* En fournissant des services qui semblent provenir de nous alors que ce n'est pas le cas
-* En utilisant nos services (y compris les contenus qu'ils fournissent) pour enfreindre les droits légaux d'autrui, tels que les droits de propriété intellectuelle ou les droits au respect de la confidentialité
-* En procédant à la rétro-ingénierie de nos services ou de la technologie sous-jacente telle que nos modèles de machine learning (apprentissage automatique) pour soutirer des secrets commerciaux ou d'autres informations exclusives, sauf dans le cadre permis par la loi applicable
-* En utilisant des moyens automatisés pour accéder au contenu de l'un de nos services sans respecter les instructions lisibles par machine sur nos pages Web (par exemple, les fichiers robots.txt qui interdisent l'exploration, la formation ou d'autres activités)
-* En cachant ou en déformant qui vous êtes afin d'enfreindre les présentes conditions
-* En fournissant des services qui encouragent autrui à enfreindre ces conditions
+Les [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) fournissent des informations additionnelles concernant les comportements appropriés que chaque utilisateur des services doit suivre. Si vous constatez des infractions à ces règles, la plupart de nos services vous permettent de les [signaler](https://support.google.com/groups/answer/81275?hl=fr). Toute mesure prise à la suite d'un signalement fait l'objet de la procédure décrite dans la section _[Mesures prises en cas de problèmes](https://policies.google.com/terms?hl=fr-FR&gl=FR#taking-action)_.
 
 ### Autorisation d'utiliser votre contenu
 
@@ -255,8 +231,6 @@ Contenu dans les services Google
 Votre contenu
 -------------
 
-Certains de nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-services) vous permettent de générer des contenus originaux. Google ne revendiquera pas la propriété de ces contenus.
-
 Certains de nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) vous donnent la possibilité de rendre vos contenus accessibles au public (par exemple, vous pouvez publier un commentaire que vous avez rédigé sur un produit ou un restaurant, ou encore mettre en ligne un article de blog dont vous êtes l'auteur).
 
 * Consultez la section _[Autorisation d'utiliser votre contenu](https://policies.google.com/terms?hl=fr-FR&gl=FR#toc-permission)_ pour en savoir plus sur vos droits liés à [votre contenu](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-your-content), ainsi que sur la façon dont celui-ci est utilisé dans nos services.
@@ -277,7 +251,7 @@ Enfin, certains de nos [services](https://policies.google.com/terms?hl=fr-FR&gl=
 Logiciels dans les services Google
 ==================================
 
-Certains de nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-services) incluent des logiciels téléchargeables ou préchargés. Nous vous autorisons à les utiliser dans le cadre de ces services.
+Certains de nos [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) incluent des logiciels téléchargeables. Nous vous autorisons à les utiliser dans le cadre de ces services.
 
 La licence que nous vous octroyons est :
 
@@ -299,96 +273,19 @@ Les présentes conditions d'utilisation, ainsi que la loi, vous donnent droit (1
 Garantie légale
 ---------------
 
-Garanties légales applicables aux biens
----------------------------------------
+Si vous êtes un [consommateur](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-consumer) basé dans l'EEE et que vous avez accepté nos conditions d'utilisation, les lois de protection des consommateurs de l'EEE vous confèrent une [garantie légale](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-legal-guarantee) couvrant les contenus numériques, les services ou les biens que nous vous fournissons. En vertu de cette garantie, nous sommes [responsables](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-liability) de tout [défaut de conformité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-lack-conformity) que vous constatez :
 
-**En tant que consommateur, vous bénéficiez d'une garantie légale de conformité de vos biens, ainsi que d'une garantie légale liée aux vices cachés des biens, selon les conditions définies ci-dessous.**
+* dans les deux ans qui suivent la livraison de biens (tels qu'un téléphone) ou la fourniture ponctuelle de contenus numériques ou de services (tels que l'achat d'un film) ;
+* à tout moment au cours de la fourniture "continue" de contenus numériques ou de services (tels que Maps ou Gmail).
 
-### Garantie légale de conformité
-
-En cas de défaut de conformité, le consommateur dispose d'un délai de deux ans à compter de la date de délivrance des biens pour faire appliquer la garantie légale de conformité. Au cours de cette période, le consommateur est uniquement tenu d'établir l'existence du défaut de conformité et non la date de son apparition.
-
-Si le contrat de vente du bien prévoit la fourniture d'un contenu ou service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale s'applique audit contenu ou service pendant toute la durée de fourniture. Au cours de cette période, le consommateur est uniquement tenu d'établir l'existence du défaut de conformité du contenu numérique ou du service, et non la date de son apparition.
-
-En vertu de la garantie légale de conformité, le professionnel est tenu, le cas échéant, de fournir toutes les mises à jour nécessaires au maintien de la conformité des biens.
-
-La garantie légale de conformité donne droit au consommateur à la réparation ou au remplacement des biens dans un délai de trente jours à compter de sa demande, sans frais et sans désagrément majeur pour lui.
-
-Si les biens sont réparés dans le cadre de la garantie légale de conformité, la garantie initiale est prolongée de six mois pour le consommateur. Si le consommateur demande que le bien soit réparé, mais que le professionnel impose un remplacement, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du bien.
-
-Le consommateur peut obtenir une réduction du prix en conservant le bien ou la résolution du contrat avec remboursement total contre restitution du bien, si :
-
-1. le professionnel refuse de réparer ou remplacer le bien ;
-2. la réparation ou le remplacement du bien intervient après une période de trente jours ;
-3. la réparation ou le remplacement du bien cause un désagrément majeur au consommateur, en particulier si le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte les frais d'installation du bien réparé ou remplacé ;
-4. le bien n'est toujours pas conforme après la tentative infructueuse du professionnel pour le mettre en conformité.
-
-Le consommateur a également droit à la réduction du prix ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il peut justifier immédiatement la réduction du prix ou la résolution du contrat. Dans ce cas, le consommateur n'est pas tenu de demander au préalable la réparation ou le remplacement du bien.
-
-Le consommateur n'a pas droit à la résolution du contrat si le défaut de conformité est mineur.
-
-Toute période d'immobilisation du bien à des fins de réparation ou de remplacement suspend la période de garantie restante jusqu'à la délivrance du bien réparé.
-
-Les droits mentionnés ci-dessus découlent de l'application des articles L217-1 à L217-32 du Code de la consommation français.
-
-Un vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité est passible d'une amende civile pouvant atteindre 300 000 euros, qui pourra être portée à 10 % du chiffre d'affaires moyen annuel (article L241-5 du Code de la consommation français).
-
-### Garantie légale des vices cachés
-
-Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du Code civil français, pendant une durée de deux ans à compter de la découverte du vice. Cette garantie donne droit au consommateur à une réduction du prix si le bien est conservé ou à un remboursement total contre la restitution du bien.
-
-Garanties légales applicables aux contenus et services numériques
------------------------------------------------------------------
-
-**En tant que consommateur, vous bénéficiez d'une garantie légale de conformité et d'une garantie légale des vices cachés sur votre contenu ou service numérique.**
-
-### Garantie légale de conformité
-
-Lorsque le contenu ou service numérique est fourni de manière ponctuelle : en cas de défaut de conformité, le consommateur dispose d'un délai de deux (2) ans à compter de la date de fourniture du contenu ou service numérique pour obtenir la mise en œuvre de la garantie légale de conformité. Pendant une période d'un (1) an à compter de la date de fourniture, le consommateur est seulement tenu d'établir l'existence du défaut de conformité et non la date de son apparition.
-
-La garantie légale de conformité implique l'obligation de fournir toutes les mises à jour nécessaires au maintien de la conformité du contenu ou service numérique.
-
-Si le contenu ou service numérique est fourni de manière continue : vous avez le droit de faire appliquer la garantie légale de conformité en cas de défaut de conformité pendant toute la durée de fourniture du contenu ou service numérique, conformément au contrat, dès le début de la fourniture dudit contenu ou service. Au cours de cette période, le consommateur est uniquement tenu d'établir l'existence du défaut de conformité et non la date de son apparition.
-
-La garantie légale de conformité implique l'obligation de fournir toutes les mises à jour nécessaires au maintien de la conformité du contenu ou service numérique pendant toute la durée de fourniture dudit contenu ou service, conformément au contrat.
-
-La garantie légale de conformité donne droit au consommateur à la mise en conformité du contenu ou service numérique sans retard injustifié suite à sa demande, sans frais et sans désagrément majeur pour lui.
-
-Le consommateur peut obtenir une réduction du prix en conservant le contenu ou service numérique, ou une résolution du contrat avec remboursement total en échange de la renonciation audit contenu ou service si :
-
-1. le professionnel refuse de mettre en conformité le contenu ou service numérique ;
-2. la mise en conformité du contenu ou service numérique est retardée de manière injustifiée ;
-3. la mise en conformité du contenu ou service numérique n'est pas possible sans frais pour le consommateur ;
-4. la mise en conformité du contenu ou service numérique cause un désagrément majeur au consommateur ;
-5. le contenu ou service numérique n'est toujours pas conforme après la tentative infructueuse du professionnel pour le mettre en conformité.
-
-Le consommateur a également droit à la réduction du prix ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il peut justifier immédiatement la réduction du prix ou la résolution du contrat. Dans ce cas, le consommateur n'est pas tenu de demander au préalable la mise en conformité du contenu ou service numérique.
-
-Dans les cas où le défaut de conformité est mineur, le consommateur a le droit de résilier le contrat uniquement si ledit contrat ne prévoit pas le paiement d'un prix.
-
-Toute période d'indisponibilité du contenu ou service numérique à une fin de mise en conformité suspend la période de garantie restante jusqu'à la fourniture du contenu ou service numérique de nouveau conforme.
-
-Les droits mentionnés ci-dessus découlent de l'application des articles L224-25-1 à L224-25-31 du Code de la consommation français.
-
-Un professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie légale de conformité est passible d'une amende civile pouvant atteindre 300 000 EUR, qui pourra être portée à 10 % du chiffre d'affaires moyen annuel (article L.242-18-1 du Code de la consommation français).
-
-### Garantie légale des vices cachés
-
-Le consommateur bénéficie également de la garantie légale des vices cachés en application des articles 1641 à 1649 du Code civil français, pendant une durée de deux (2) ans à compter de la découverte du vice. Cette garantie donne droit au consommateur à une réduction du prix si le contenu ou service numérique est conservé, ou à un remboursement total en échange d'une renonciation audit contenu ou service.
-
-Vos droits en vertu de ces garanties légales ne sont limités par aucune autre [garantie commerciale](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-commercial-guarantee) que nous pouvons fournir pour des biens, services ou contenus numériques spécifiques (par exemple, la Garantie limitée de matériel Google pour les consommateurs, qui n'est pas applicable aux achats en France). Si vous souhaitez effectuer une réclamation au titre de la garantie, veuillez [nous contacter](https://about.google/contact-google/?hl=fr).
+Il se peut que les lois de votre pays prévoient une durée de garantie encore plus longue. Vos droits en vertu de ces garanties légales ne sont limités par aucune autre [garantie commerciale](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-commercial-guarantee) que nous proposons. Si vous souhaitez effectuer une réclamation au titre de la garantie, veuillez [nous contacter](https://about.google/contact-google/?hl=fr).
 
 Responsabilités
 ---------------
 
 ### Pour tous les utilisateurs
 
-Les présentes conditions d'utilisation ne limitent pas la [responsabilité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-liability) en cas de :
-
-* fraude, ou déclarations trompeuses ou déceptives à caractère frauduleux ;
-* décès ou dommages corporels dus à une négligence ;
-* négligence grave ;
-* faute délibérée.
+Nos responsabilités ne sont limitées par les présentes conditions d'utilisation que dans le cadre des lois applicables. Les présentes conditions d'utilisation ne limitent pas la [responsabilité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-liability) en cas de fraude, de déclarations trompeuses à caractère frauduleux ou de décès ou dommages corporels dus à une négligence ou à une faute délibérée.
 
 Hormis les responsabilités décrites ci-dessus, Google est seulement responsable de ses violations des présentes conditions d'utilisation ou des [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) applicables, sous réserve des lois applicables.
 
@@ -396,17 +293,17 @@ Hormis les responsabilités décrites ci-dessus, Google est seulement responsabl
 
 Si vous êtes un [utilisateur professionnel](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-business-user) ou une [organisation](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-organization) :
 
-* Dans les limites autorisées par la loi applicable, vous vous engagez à [indemniser](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-indemnify) Google et ses administrateurs, dirigeants, employés et sous-traitants en cas de procédure juridique engagée par un tiers (y compris en cas d'action émanant d'autorités administratives), lorsqu'une telle procédure résulte de votre utilisation illégale des [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) ou de la violation des présentes conditions d'utilisation ou des [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR). Cette indemnisation couvre toute responsabilité ou dépense découlant de réclamations, pertes, dommages-intérêts, décisions de justice, amendes, honoraires d'avocats et autres frais de justice, sauf si un passif ou une dépense résulte d'une violation, d'une négligence ou d'une faute délibérée de Google.
+* Dans les limites autorisées par la loi applicable, vous vous engagez à [indemniser](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-indemnify) Google et ses administrateurs, dirigeants, employés et sous-traitants en cas de procédure judiciaire engagée par un tiers (y compris en cas d'action émanant d'autorités publiques), lorsqu'une telle procédure résulte de votre utilisation illégale des [services](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-services) ou de la violation des présentes conditions d'utilisation ou des [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR). Cette indemnisation couvre toute responsabilité ou dépense découlant des demandes, pertes, dommages, jugements, amendes, frais de justice et frais juridiques.
 * Si vous êtes légalement exempté de certaines responsabilités, y compris en matière d'[indemnisation](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-indemnify), ces responsabilités ne s'appliquent pas à vous en vertu des présentes conditions. Par exemple, les Nations Unies jouissent d'immunités vis-à-vis de certaines obligations légales, et les présentes conditions ne prévalent pas sur ces immunités.
 * La [responsabilité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-liability) de Google ne saurait être engagée dans les cas suivants :
     * Perte imprévisible de profits, de revenus, d'opportunités commerciales, de clients ou d'économies anticipées
     * Perte indirecte ou dépassant toutes prévisions raisonnables
-* Sauf indication contraire dans la section _[Pour tous les utilisateurs](https://policies.google.com/terms?hl=fr-FR&gl=FR#for-all)_ ci-dessus, la responsabilité totale de Google au titre des présentes conditions d'utilisation ne saurait excéder le plus élevé des deux montants suivants : (1) 500 € ou (2) 125 % des frais que vous avez payés pour utiliser les services concernés au cours des 12 mois précédant la violation.
+* La responsabilité totale de Google au titre des présentes conditions d'utilisation ne saurait excéder le plus élevé des deux montants suivants : (1) 500 € ou (2) 125 % des frais que vous avez payés pour utiliser les services concernés au cours des 12 mois précédant la violation.
 
 Mesures prises en cas de problèmes
 ----------------------------------
 
-Avant de prendre une des mesures ci-dessous, nous vous en informerons dans un délai raisonnable avant son application. Nous vous préciserons le motif de notre action, tout en vous offrant la possibilité de clarifier et régler le problème, sauf si des raisons objectives et concrètes laissent penser que cela pourrait :
+Avant de prendre une des mesures ci-dessous, nous vous en informerons dans un délai raisonnable avant son application, et nous vous préciserons le motif de notre action, tout en vous offrant la possibilité de régler le problème, sauf si des raisons objectives et concrètes laissent penser que cela pourrait :
 
 * nuire ou engager la [responsabilité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-liability) d'un utilisateur, d'un tiers ou de Google ;
 * violer la loi ou une instruction émanant d'une autorité chargée de l'appliquer ;
@@ -419,7 +316,7 @@ S'il y a des raisons objectives et concrètes d'estimer que l'un de [vos contenu
 
 ### Suspendre ou bloquer votre accès aux services Google
 
-Sans limiter aucun de ses autres droits, Google peut suspendre votre accès aux services ou y mettre fin, ou supprimer votre compte Google si l'une des situations suivantes se présentent :
+Google se réserve le droit de suspendre ou de bloquer votre accès aux services, ou de supprimer votre compte Google si l'un des cas suivants se présente :
 
 * Vous enfreignez substantiellement ou de manière répétée ces conditions, ou les [conditions ou règles supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR)
 * Nous sommes tenus de procéder ainsi pour respecter une obligation légale ou une ordonnance du tribunal.
@@ -450,12 +347,12 @@ Nous tenons à ce que ces conditions soient faciles à comprendre et avons donc 
 
 Nous pouvons modifier ces conditions et les [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) (1) pour tenir compte des changements concernant nos services ou notre façon de mener nos activités (par exemple, lorsque nous ajoutons de nouveaux services et d'autres fonctionnalités, technologies, prix ou avantages, ou que nous en supprimons des anciens), (2) pour des raisons juridiques, réglementaires ou de sécurité, ou (3) pour prévenir tout préjudice ou toute utilisation abusive.
 
-Nous vous avertirons de toute modification apportée aux présentes conditions d'utilisation ou aux [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) dans un délai d'au moins 30 jours avant leur application (par e-mail ou tout autre moyen approprié), afin de vous donner le temps d'en prendre connaissance et d'accepter les modifications, sauf si la loi nous oblige à appliquer immédiatement ces modifications sans attendre la fin du délai de préavis. Si vous n'acceptez pas ces nouvelles conditions, supprimez [vos contenus](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-your-content) et cessez toute utilisation de nos services. Vous pouvez également mettre un terme à votre relation avec nous à tout moment, sans pénalité, en [clôturant votre compte Google](https://support.google.com/accounts/answer/32046?hl=fr).
+Nous vous avertirons de toute modification apportée aux présentes conditions d'utilisation ou aux [Conditions supplémentaires spécifiques à certains services](https://policies.google.com/terms/service-specific?hl=fr-FR&gl=FR) dans un délai d'au moins 30 jours avant leur application (par e-mail ou tout autre moyen approprié), afin de vous donner le temps d'en prendre connaissance et d'accepter les modifications, sauf si la loi nous oblige à appliquer immédiatement ces modifications sans attendre la fin du délai de préavis. Si vous n'acceptez pas ces nouvelles conditions, supprimez [vos contenus](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-your-content) et cessez toute utilisation de nos services. Vous pouvez également mettre un terme à votre relation avec nous à tout moment en clôturant votre compte Google.
 
 Instructions de rétractation pour l'EEE
 =======================================
 
-Si vous êtes un [consommateur](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-consumer) basé dans l'EEE, la loi de protection des consommateurs de l'EEE vous confère le droit de vous rétracter du présent contrat, de la façon décrite dans les _Informations standardisées sur la rétractation_ de l'UE fournies ci-dessous.
+Si vous êtes un [consommateur](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-consumer) basé dans l'EEE, la loi de protection des consommateurs de l'EEE vous confère, à compter du 28 mai 2022, le droit de vous rétracter du présent contrat de la façon décrite dans les "Informations standardisées sur la rétractation" de l'UE, fournies ci-dessous.
 
 ### Droit de rétractation
 
@@ -574,11 +471,11 @@ Droits relatifs à votre contenu, autres que les droits de propriété intellect
 
 ### Garantie commerciale
 
-Une garantie commerciale est un engagement volontaire, qui s'ajoute à la [garantie légale](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-legal-guarantee) de conformité, où l'entreprise concernée accepte de (a) fournir certains services ou de (b) rembourser le consommateur, ou réparer ou remplacer l'article s'il est défectueux.
+Engagement volontaire d'une entreprise à respecter certaines normes de qualité et, dans le cas où elles ne seraient pas respectées, à assumer la responsabilité de la réparation, du remplacement ou du remboursement des articles défectueux auprès du consommateur.
 
 ### Garantie légale
 
-Une garantie légale est une obligation légale selon laquelle un vendeur ou professionnel est responsable si ses contenus numériques, ses services ou ses biens sont défectueux (c'est-à-dire s'ils présentent un [défaut de conformité](https://policies.google.com/terms?hl=fr-FR&gl=FR#footnote-toc-terms-lack-conformity) ou des vices cachés).
+Obligation légale selon laquelle un vendeur ou fournisseur est responsable si ses contenus numériques, ses services ou ses biens sont défectueux (c'est-à-dire s'ils présentent un [défaut de conformité](https://policies.google.com/terms/definitions?hl=fr-FR&gl=FR#toc-terms-lack-conformity)).
 
 ### indemniser ou indemnisation
 
