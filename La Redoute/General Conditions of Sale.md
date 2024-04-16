@@ -91,9 +91,9 @@ Le paiement par carte bancaire s’effectue en totalité à la commande sauf en
 
 En cas de Produits épuisés ou indisponibles, le montant de ces Produits vous sera remboursé
 
-**\- Avec la Mastercard® La Redoute et le crédit renouvelable Premium** : La « Mastercard® La Redoute » et le crédit renouvelable « Premium » donnent à tout possesseur la possibilité de payer au comptant ou à crédit les Produits : soit au moment de la validation de commande, soit à réception du relevé de compte. Ils donnent également accès à d'autres facilités de paiement. Pour connaître les conditions d'attribution de la « Mastercard® La Redoute » et du crédit renouvelable Premium, vous pouvez vous connecter au site Internet www.sofinco.fr, contacter notre partenaire financier au 0 974 502 504 (du lundi au vendredi de 9h à 18h30 et le samedi de 9h à 13h, appel non surtaxé) ou remplir le formulaire en ligne de demande de la carte « Mastercard® La Redoute » à partir du Site Internet.
+**\- Avec la Mastercard® La Redoute et le crédit renouvelable Premium** : La « Mastercard® La Redoute » et le crédit renouvelable « Premium » donnent à tout possesseur la possibilité de payer au comptant ou à crédit les Produits : soit au moment de la validation de commande, soit à réception du relevé de compte. Pour connaître les conditions d'attribution de la « Mastercard® La Redoute » et du crédit renouvelable Premium, vous pouvez vous connecter au site Internet www.sofinco.fr ou remplir le formulaire en ligne de demande de la carte « Mastercard® La Redoute » à partir du Site Internet.
 
-**\- avec les cartes Printania Plus ou Kangourou** (uniquement disponibles si Vous habitez en France continentale, Corse ou Monaco).
+**\- avec la carte Kangourou**.
 
 **\- avec la carte de paiement Mille et une Listes** (en sélectionnant le mode de paiement carte bancaire Visa).
 
