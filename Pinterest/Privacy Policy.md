@@ -426,6 +426,6 @@ Le meilleur moyen de nous contacter ou d'exercer les options décrites ci-dessus
 
 Vous pouvez également contacter notre délégué à la protection des données.
 
-Date d’entrée en vigueur en dehors de l’EEE et du Royaume-Uni : 13 mars 2024   
+Date d’entrée en vigueur en dehors de l’EEE, du Royaume-Uni et de la Suisse : 13 mars 2024   
   
-Date d’entrée en vigueur dans l’EEE et au Royaume-Uni : 30 avril 2024
+Date d’entrée en vigueur dans l’EEE, au Royaume-Uni et en Suisse : 30 avril 2024
