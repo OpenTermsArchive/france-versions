@@ -380,7 +380,7 @@ We are fully committed to enable you to exercise your rights on your data, some 
 
 ### Data access and portability
 
-You can access and get a copy of your data by contacting our Customer Care via this [form](https://support.deezer.com/hc/en-gb/requests/new?ticket_form_id=360000057869).
+You can access and get a copy of your data in your [account settings](https://www.deezer.com/account) (Account settings / My information / My personal data).
 
 ### Data modification
 
