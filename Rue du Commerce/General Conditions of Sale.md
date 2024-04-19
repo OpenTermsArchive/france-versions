@@ -268,6 +268,14 @@ Sur la version mobile du site, sont acceptés les moyens de paiements suivants 
 \- 4X CB  
   
   
+**• KWENTA  
+  
+**Si vous choisissez de payer votre commande avec Kwenta, 2 solutions s'offres à vous :  
+  
+\- Paiement à plusieurs personnes :   
+Vous avez la possibilité de payer une commande à plusieurs. Fini les avances, chacun paie sa part. En choisissant cette option de paiement, vous devrez entrer le nom des différents payeurs et le montant à payer associé. Vous payez ensuite votre part et envoyez le lien de paiement aux autres payeurs. S’il manque des payeurs à la fin du panier, tout le monde sera remboursé.   
+  
+**\-** Paiement à plusieurs cartes bancaires Vous avez la possibilité de payer votre commande avec plusieurs cartes. En choisissant cette option, vous devrez entrer le montant à payer avec votre première carte et répéter l’opération sur autant de cartes que vous souhaitez jusqu’à ce que le montant total soit payé. 
 
 ### 4.2 Le paiement en ligne
 
@@ -1131,6 +1139,14 @@ Sur la version mobile du site, sont acceptés les moyens de paiements suivants 
 \- 4X CB  
   
   
+**• KWENTA  
+  
+**Si vous choisissez de payer votre commande avec Kwenta, 2 solutions s'offres à vous :  
+  
+\- Paiement à plusieurs personnes :   
+Vous avez la possibilité de payer une commande à plusieurs. Fini les avances, chacun paie sa part. En choisissant cette option de paiement, vous devrez entrer le nom des différents payeurs et le montant à payer associé. Vous payez ensuite votre part et envoyez le lien de paiement aux autres payeurs. S’il manque des payeurs à la fin du panier, tout le monde sera remboursé.   
+  
+**\-** Paiement à plusieurs cartes bancaires Vous avez la possibilité de payer votre commande avec plusieurs cartes. En choisissant cette option, vous devrez entrer le montant à payer avec votre première carte et répéter l’opération sur autant de cartes que vous souhaitez jusqu’à ce que le montant total soit payé. 
 
 ### 4.2 Le paiement en ligne
 
