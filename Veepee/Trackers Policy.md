@@ -12,7 +12,7 @@ Ces cookies sont nécessaires pour assurer votre navigation sur le Site et vous 
 | --- | --- | --- |
 | club.veepee.fr | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm) | Cookies internes |
 | www.veepee.fr | [\_cid\_cc](https://cookiepedia.co.uk/cookies/_cid_cc), [context](https://cookiepedia.co.uk/cookies/context), [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop), [newform\_uuid](https://cookiepedia.co.uk/cookies/newform_uuid), [.ASPXBrowserOverride](https://cookiepedia.co.uk/cookies/.ASPXBrowserOverride), [dataContextFb](https://cookiepedia.co.uk/cookies/dataContextFb), [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [dataContext](https://cookiepedia.co.uk/cookies/dataContext), [\_cc](https://cookiepedia.co.uk/cookies/_cc), [infoMember](https://cookiepedia.co.uk/cookies/infoMember), [CheckAutologin](https://cookiepedia.co.uk/cookies/CheckAutologin) | Cookies internes |
-| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | b1pi, b1pi2, CI\_session, inpsession\_$distributor\_id\_$language, inptime\_$distributor\_id\_$language, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent, \_\_apex\_test\_\_ | Cookies tiers |
+| [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | inpsession\_$distributor\_id\_$language, b1pi2, inptime\_$distributor\_id\_$language, CI\_session, b1pi, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent, \_\_apex\_test\_\_ | Cookies tiers |
 | [uk.cdn-net.com](https://cookiepedia.co.uk/host/uk.cdn-net.com) | \_cc, \_cc-x, \_cid\_cc | Cookies tiers |
 | [tokywoky.com](https://cookiepedia.co.uk/host/tokywoky.com) | \_\_cf\_bm | Cookies tiers |
 
@@ -43,12 +43,14 @@ Ces Cookies permettent à Vente-Privee.com d’analyser la navigation de nos mem
 
 #### Cookies publicitaires
 
-Ces Cookies peuvent être déposés, sous réserve de votre consentement, par des partenaires de Vente-privee.com, dont la société Adot. Ces Cookies vous permettent de voir s’afficher des offres promotionnelles et des publicités pertinentes pour vous dans les emplacements publicitaires réservés à la publicité sur des sites tiers. A cette fin, la technologie des Cookies permet d’afficher, en temps réel, le contenu le plus adaptée à vos centres d’intérêt déduits de votre navigation sur le Site ou sur d’autres sites. Les données collectées par l’intermédiaire de ces Cookies sur le Site peuvent être croisées ou combinées avec d’autres données personnelles dont disposent nos partenaires et/ou Adot et/ou collectées par l’intermédiaire de ces Cookies lorsque vous naviguez sur d’autres sites internet. Certains Cookies permettent également à certaines marques partenaires de Vente-privee.com, pendant le temps d’une vente, de collecter des données à des fins d’analyse et de statistique de fréquentation de leurs ventes et de tracer l’origine des visiteurs de leur site lorsque ceux-ci sont redirigés depuis un site tiers. A noter: Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer de manière certaine que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de celui-ci et non à celle d'un autre utilisateur de ce terminal. Le partage de votre terminal avec d’autres utilisateurs et la configuration des paramètres de votre navigateur à l'égard des Cookies, relèvent de votre responsabilité.
+Ces Cookies ou Traceurs peuvent être déposés, sous réserve de votre consentement, par des partenaires de Vente-privee.com, dont la société Adot, afin de vous afficher des offres promotionnelles et des publicités pertinentes dans les emplacements publicitaires réservés à la publicité sur des sites tiers. A cette fin, la technologie des Cookies permet d’afficher, en temps réel, le contenu le plus adapté à vos centres d’intérêt déduits de votre navigation sur le Site ou sur d’autres sites. Les données collectées par l’intermédiaire de ces Cookies sur le Site peuvent être croisées ou combinées avec d’autres données personnelles dont disposent nos partenaires et/ou Adot et/ou collectées par l’intermédiaire de ces Cookies lorsque vous naviguez sur d’autres sites internet. Certains Traceurs permettent également à certaines marques partenaires de Vente-privee.com, pendant le temps d’une vente, de collecter des données à des fins d’analyse et de statistique de fréquentation de leurs ventes et de tracer l’origine des visiteurs de leur site lorsque ceux-ci sont redirigés depuis un site tiers. Dans ce cadre, Veepee est amené à agir en qualité de Responsable Conjoint de traitement avec Meta Platforms Ireland Limited pour certaines campagnes de prospection commerciale Veepee lancées depuis les plateformes Facebook et Instagram et au sein desquelles des Traceurs Meta peuvent être déposés à des fins d’analyses et de statistiques de fréquentation publicitaires. L’accord de responsabilité conjointe conclu entre les parties est disponible sur le site Facebook sur la page suivante : https://www.facebook.com/legal/controller\_addendum. A noter: Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons pas nous assurer de manière certaine que les services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de celui-ci et non à celle d'un autre utilisateur de ce terminal. Le partage de votre terminal avec d’autres utilisateurs et la configuration des paramètres de votre navigateur à l'égard des Cookies, relèvent de votre responsabilité.
 
 |     |     |     |
 | --- | --- | --- |Cookies publicitaires
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
+| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | VISITOR\_INFO1\_LIVE, VISITOR\_PRIVACY\_METADATA, YSC | Cookies tiers |
+| [www.youtube.com](https://cookiepedia.co.uk/host/www.youtube.com) | TESTCOOKIESENABLED | Cookies tiers |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | flixgvid, sio\_t | Cookies tiers |
 | [google.com](https://cookiepedia.co.uk/host/google.com) | CONSENT | Cookies tiers |
 | [www.facebook.com](https://cookiepedia.co.uk/host/www.facebook.com) |     | Cookies tiers |
@@ -63,6 +65,7 @@ Dans le cadre de la lutte contre la fraude, Vente-privee.com collecte par le bia
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
 | https://staging-uk.cdn-net.com | [Accertify Fingerprint](https://cookiepedia.co.uk/cookies/Accertify%20Fingerprint) | Cookies internes |
+| www.veepee.fr | [dd\_testcookie](https://cookiepedia.co.uk/cookies/dd_testcookie) | Cookies internes |
 
 #### Cookies fonctionnels
 
@@ -72,8 +75,8 @@ Ces Cookies ne sont pas indispensables à la navigation mais facilitent l’util
 | --- | --- | --- |Cookies fonctionnels
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| www.veepee.fr | [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js) | Cookies internes |
 | aide.recycle.veepee.fr | [PLAY\_SESSION](https://cookiepedia.co.uk/cookies/PLAY_SESSION) | Cookies internes |
+| www.veepee.fr | [MemberDevice](https://cookiepedia.co.uk/cookies/MemberDevice), [FromPartner](https://cookiepedia.co.uk/cookies/FromPartner), [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner) | Cookies internes |
 | club.veepee.fr | [cf\_clearance](https://cookiepedia.co.uk/cookies/cf_clearance) | Cookies internes |
 | [careers.veepee.com](https://cookiepedia.co.uk/host/careers.veepee.com) | pll\_language | Cookies tiers |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | FLIX\_tracker\_$product\_id\_$distributor\_ id\_$product\_type\_id\_$mpn\_$ean, cookieOptinBanner | Cookies tiers |
