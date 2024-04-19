@@ -1,7 +1,7 @@
 conditions générales de vente
 =============================
 
-Mises à jour le 28/03/2024
+Mises à jour le 19/04/2024
 
 ARTICLE 1 – PREAMBULE
 ---------------------
@@ -279,7 +279,7 @@ ARTICLE 12 – RECLAMATIONS
 Pour toute information, réclamation ou question relative aux Conditions Générales ou aux Produits proposés à la vente sur le Site Internet, le Client est invité à s’adresser au service client :
 
 * Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-* Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
+* Par téléphone au [+33 3 59 55 38 75 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
 * Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
 
 ##### 12.2 Médiation
@@ -376,9 +376,9 @@ DU PROGRAMME DE FIDELITE JULES CLUB
 ARTICLE 1 – PREAMBULE
 ---------------------
 
-Jules, Société par Actions Simplifiée au capital de 32 732 042,76 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, représentée par Jean-Christophe Garbino, Directeur Général et en cette qualité Directeur de la publication (**"Jules"**) édite le site Internet www.Jules.com (**Le "Site Internet "**) par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Jules (**Les "Produits"**)») a mis en place un programme de fidélité réservé à ses clients et prospects particuliers (les « Adhérents ») dénommé « Jules Club » (le « Programme »). .  
+JULES, Société par Actions Simplifiée au capital de 106 400 450,00 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, représentée par Joannes SOENEN , Directeur Général et en cette qualité Directeur de la publication ("Jules") édite le site Internet www.jules.com (Le "Site Internet ") par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Brice (Les "Produits")») a mis en place un programme de fidélité réservé à ses clients et prospects particuliers (les « Adhérents ») dénommé « Le Club » (le « Programme »). .  
   
-Téléphone : [0800301527](tel:0800301527) / E-mail : [support@support-jules.zendesk.com](mailto:support@support-jules.zendesk.com)  
+Téléphone : [33 (0)3 20 99 36 36](tel:+33320993636) / E-mail : [service-clients@jules.fr](mailto:service-clients@jules.fr)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
@@ -397,19 +397,17 @@ Tout Adhérent déclare avoir pris connaissance des Conditions Générales, disp
 ARTICLE 3 – ADHESION
 --------------------
 
-En adhérant au Programme, l’Adhérent déclare (i) être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat (ii) agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale, (iii) ne pas être membre du personnel des sociétés du Groupe Happychic auquel appartient Jules.  
+En adhérant au Programme, l’Adhérent déclare (i) être une personne physique majeure ou titulaire d'une autorisation parentale et avoir la capacité de conclure le présent contrat (ii) agir à des fins strictement personnelles et qui n’entrent pas dans le cadre d’une activité commerciale, industrielle, artisanale ou libérale.  
   
+L’Adhérent est informé que les avantages du programme de fidélité ne peuvent pas être cumulés avec les avantages de remise personnel.  
 L’adhésion au Programme est gratuite, en communiquant toutes les informations utiles requises telles que précisées à l’article 9 :
 
-* Sur simple demande au sein du réseau Jules/Jules comprenant les magasins Jules, Jules et multimarques Jules/Jules/Bizzbee de France Métropolitaine, Belgique, Italie et Espagne (les « Magasins ») ; ou
+* • Sur simple demande au sein du réseau Jules comprenant les magasins Jules, Brice by Jules et multimarques Jules/Brice by Jules/BZB de France Métropolitaine, Belgique (les « Magasins ») ; ou
 * Automatiquement sur les sites Internet :  
     \- [www.jules.com](https://www.jules.com/fr-fr/index/)  
-    \- [www.brice.fr](https://www.brice.fr/fr-fr/index/)  
-    \- [www.jules.com/fr-be](http://www.jules.com/fr-be/index/)  
-    \- [www.jules.com/nl-be](http://www.jules.com/nl-be/index/)  
-    \- [www.jules.com/it-it](http://www.jules.com/it-it/index/)  
-      
-    (ensemble et indifféremment le « Site Internet ») lors de la première commande.
+    \- [www.jules.com/fr-be/](https://www.jules.com/fr-be/index/)  
+    \- [www.jules.com/nl-be/](https://www.jules.com/nl-be/index/)  
+    (ensemble et indifféremment le « Site Internet ») lors de la création du compte client.
 
 Sans préjudice de ce qui précède, tout Adhérent peut, à tout moment, se désinscrire du Programme dans les conditions indiquées à l’article 7.  
 L’adhésion au Programme est totalement dématérialisée. A ce titre, il est précisé qu’aucune carte physique ne sera remise à l’Adhérent.  
@@ -423,147 +421,148 @@ Le Programme permet à l’Adhérent de cumuler des points fidélité, tant sur 
   
   
 
-* **1€ d’achat = 1 point**
+* **10€ d’achat = 10 points**
   
 Sur la base du montant TTC réellement payé par l’Adhérent, remise déduite, arrondi à l’euro supérieur (hors frais de livraison, achat de carte cadeau, retouche, réparation, emballage cadeau).  
   
-* **1 passage en caisse / 1 commande Internet = 20 points**
+* **10 points pour la création du compte client web, l’Adhérent peut être client magasin ou nouveau client.**
+* **• 10 points pour l’ajout de la carte fidélité JULES à un portefeuille numérique.**
   
-Dans l’un des Magasins ou sur le Site Internet, sans minimum d’achat, dans la limite d’un passage en caisse ou d’une commande Internet tous les sept (7) jours glissants.  
+Les points fidélité ont une durée de validité de douze (12) mois glissants à compter de la date de l’action ayant permis l’obtention desdits points fidélité.  
   
-* **1 dépôt de vêtements usagés = 10 points**
+En cas de demande de remboursement des produits Jules achetés en Magasin ou sur le Site Internet (les « Produits ») par l’Adhérent, les points fidélité afférents aux Produits remboursés seront décomptés du total des points fidélité de l’Adhérent. Les points fidélité associés au passage en caisse ou à la commande Internet seront décomptés en cas de retour de l’intégralité des Produits de la commande. Le compteur de points fidélité ne peut pas être négatif.  
   
-Valable quel que soit le nombre, le type et la marque des produits usagés déposés en Magasin, dans la limite d’un dépôt tous les sept (7) jours glissants et jusqu’à cent (100) points fidélité cumulables maximum.  
-  
-* **1 achat / vente sur Rewear = 10 points**
-  
-Sur le site Internet accessible à l’adresse rewear.Jules.com (« Rewear »), sans minimum d’achat ou de vente, dans la limite d’un achat ou d’une vente tous les sept (7) jours glissants et jusqu’à cent (100) points fidélité cumulables.  
-  
+Il est précisé que les points fidélité n'ont aucune valeur marchande. Ils ne peuvent être ni repris, ni échangés contre de l’argent ou leur valeur en espèces. En tout état de cause, l’Adhérent peut utiliser uniquement les points fidélité cumulés disponibles sur son solde.
 
-L’Adhérent cumule des points fidélité à condition de s’être identifié en caisse dans l’un des Magasins ou en se connectant à son compte client sur le Site Internet. En outre, pour cumuler des points via Rewear, l’Adhérent doit être identifié avec la même adresse email que celle de son compte client Jules et avoir renseigné son numéro fidélité.  
+L’Adhérent peut consulter librement et gratuitement le solde de ses points fidélité ainsi que le statut fidélité associé sur demande en Magasin, sur son ticket de caisse après chaque achat en Magasin, depuis son compte client sur le Site Internet ainsi que dans son wallet (portefeuille électronique) téléchargeable dans l’App Store ou sur Google Play.  
   
-Les points fidélité ont une durée de validité de dix-huit (18) mois glissants à compter de la date de l’action ayant permis l’obtention desdits points fidélité.  
-  
-En cas de demande de remboursement des produits Jules et/ou Brice achetés en Magasin ou sur le Site Internet **(les « Produits »)** par l’Adhérent, les points fidélité afférents aux Produits remboursés seront décomptés du total des points fidélité de l’Adhérent. Les points fidélité associés au passage en caisse ou à la commande Internet seront décomptés en cas de retour de l’intégralité des Produits de la commande. En cas d’annulation ou de résiliation d’un achat / vente sur Rewear, les points fidélité afférents seront décomptés du total des points fidélité de l’Adhérent. Le compteur de points fidélité ne peut pas être négatif.  
-  
-Il est précisé que les points fidélité n'ont aucune valeur marchande. Ils ne peuvent être ni repris, ni échangés contre de l’argent ou leur valeur en espèces.  
-En tout état de cause, l’Adhérent peut utiliser uniquement les points fidélité cumulés disponibles sur son solde.  
-  
-L’Adhérent peut consulter librement et gratuitement le solde de ses points fidélité ainsi que le statut fidélité associé sur demande en Magasin, sur son ticket de caisse après chaque achat en Magasin, depuis son compte client sur le Site Internet ainsi que dans son wallet (portefeuille électronique) téléchargeable dans l’App Store ou sur Google Play.
+L’Adhérent est informé que Jules pourra modifier, annuler ou ajouter les avantages présents ou à venir du programme de Fidélité.
 
 ARTICLE 5 – STATUTS FIDELITE ET AVANTAGES
 -----------------------------------------
 
 Jules distingue deux (2) statuts fidélité selon le nombre de points fidélité cumulés :  
   
-\- Le statut Jules Club, obtenu dès l’adhésion au Programme ; - Le statut Jules Club Gold, accessible sous réserve du cumul d’un certain nombre de points fidélité.  
+\- Le statut Jules Club, obtenu dès l’adhésion au Programme ; - Le statut Le Club +, accessible sous réserve du cumul d’un certain nombre de points fidélité.  
   
 
 ##### 5.1 Statut Jules Club
 
   
   
-Tout Adhérent nouvellement inscrit ayant effectué un 1er achat ou cumulant moins de deux cents (200) points peut bénéficier des Avantages suivants :  
+Tout Adhérent nouvellement inscrit, ayant effectué un 1er achat ou cumulant moins de trois cents (300) points peut bénéficier des Avantages suivants :  
   
 **Offre de bienvenue**  
   
-L’Adhérent Jules Club Gold nouvellement inscrit ayant effectué un 1er achat bénéficie d’un bon de réduction de 8€ valable quarante-cinq (45) jours à compter de sa date de réception, en Magasin (hors magasins d’usine) ou sur le Site Internet, sur tous les Produits (hors cartes et e-cartes cadeaux). Non cumulable avec tout autre avantage du Club Jules, les soldes et les Jours Jules. Offre personnelle, utilisable une seule fois, non fractionnable, non cessible, non échangeable et non remboursable. Ne peut être remplacé en cas de perte ou de vol.  
+L’Adhérent Club nouvellement inscrit ayant effectué un 1er achat bénéficie d’un bon de réduction de -15% valable six (6) mois à compter de sa date de réception. Dans le cas d’un achat sur le web, le bon de réduction ne sera valable qu’en Magasin (hors magasins d’usine) à l’inverse en cas d’achat en magasin, le bon de réduction ne pourra être utilisé que sur le web. Chacun de ces bons seront utilisables sur tous les Produits (hors cartes et e-cartes cadeaux). Non cumulable avec tout autre avantage du Club, les soldes et les Jours Jules. Offre personnelle, utilisable une seule fois, non fractionnable, non cessible, non échangeable et non remboursable. Ne peut être remplacé en cas de perte ou de vol.  
   
-L’offre de bienvenue est automatiquement émise par Jules dans les quarante-cinq (45) jours suivant l’adhésion au Programme, par email ou courrier ainsi que dans le compte client de l’Adhérent.  
+L’offre de bienvenue est automatiquement émise par Jules dans les six (6) mois suivant l’adhésion au Programme, par email ainsi que dans le compte client de l’Adhérent.  
   
-**Echange et remboursement sans ticket de caisse**  
-Tout Produit peut être échangé ou remboursé dans l’un des Magasins (hors magasins d’usine) ou sur le Site Internet dans un délai de trois (3) mois à compter de l’achat ou de la commande, même pendant les soldes, sans ticket de caisse, à la condition que lors de son achat, l’Adhérent se soit identifié en caisse ou connecté à son compte client, permettant ainsi l’enregistrement du Produit. Sont exclus de l’échange et du remboursement les Produits portés, lavés, retouchés, sans étiquette ainsi que les chaussettes et sous-vêtements, par mesure d’hygiène.  
+**Bon d’achat fidélité**  
+  
+Déclenchement de bon d’achat fidélité à chaque palier de 100 points.  
+  
+5€ de remise fidélité sans minimum d’achat, cumulable avec les promos et tout autre bon d’achat fidélité. Ces bons ne sont pas applicables avec d’autres avantages du programme de fidélité (journée privilège, offre anniversaire et offre de bienvenue). Les bons d’achat fidélité ont une durée de validité de 60 jours à compter de la date d’émission du bon.  
+  
+Echange et remboursement sans ticket de caisse Tout Produit peut être échangé ou remboursé dans l’un des Magasins (hors magasins d’usine) ou sur le Site Internet dans un délai de trois (3) mois à compter de l’achat ou de la commande, même pendant les soldes, sans ticket de caisse, à la condition que lors de son achat, l’Adhérent se soit identifié en caisse ou connecté à son compte client, permettant ainsi l’enregistrement du Produit. Sont exclus de l’échange et du remboursement les Produits portés, lavés, retouchés, sans étiquette ainsi que les chaussettes et sous-vêtements, par mesure d’hygiène.  
+  
+**Offre Anniversaire**  
+  
+\-30% sur l’article préféré, offre valable pendant 30 jours à compter de la date d’émission de l’offre.  
+  
+**Retour 6 mois**  
+  
+L’Adhérent dispose de six (6) mois pour effectuer le retour d’un achat réalisé sur le site internet ou en magasin. A l’exception des retours réalisés sur ces catégories de produits : Sous-vêtements, chaussettes, boucles d’oreilles et uniquement pour les produits non portés, non lavés, non endommagés et porteur d’une étiquette.  
   
   
 
-##### 5.2 Statut Jules Club Gold
+##### 5.2 Statut Club +
 
   
-Lorsque l’Adhérent a cumulé deux cents (200) points, ceux-ci sont décomptés sous sept (7) jours (sous réserve que l’Adhérent ne repasse pas en-deçà du seuil pendant ce délai) et l’Adhérent accède au statut Jules Club Gold.  
+Lorsque l’Adhérent a cumulé trois cents (300) points  
+L’Adhérent en est informé soit immédiatement par le vendeur en Magasin soit par email, sms. Le changement de statut fidélité est également indiqué dans le compte client de l’Adhérent.  
   
-L’Adhérent en est informé soit immédiatement par le vendeur en Magasin soit par email, sms ou courrier. Le changement de statut fidélité est également indiqué dans le compte client de l’Adhérent.  
-L’accès au statut Jules Club Gold est valable pour une durée de douze (12) mois, à compter du jour du changement de statut fidélité. Pendant cette durée, l’Adhérent bénéficie des Avantages spécifiques du statut Jules Club Gold tels que décrits ci-après, en plus des Avantages associés au statut Jules Club.  
-Pour conserver le statut Jules Club Gold, l’Adhérent doit cumuler, au minimum chaque année, deux cents (200) points fidélité. Dans le cas où ce cumul ne serait pas réalisé, l’Adhérent retrouvera automatiquement au terme des douze (12) mois, le statut Jules Club. Jules informera l’Adhérent au moins un (1) mois avant l’expiration de son statut Jules Club Gold  
+L’accès au statut Club + est valable tant que le compte client possède un minimum de 300 points, à compter du jour du changement de statut fidélité. Pendant cette durée, l’Adhérent bénéficie des Avantages spécifiques du statut Club + tels que décrits ci-après, en plus des Avantages associés au statut Club.  
   
-**Journée privilège**  
+Pour conserver le statut Club +, l’Adhérent doit cumuler, au minimum chaque année, trois cents (300) points fidélité. Dans le cas où ce cumul ne serait pas réalisé, l’Adhérent retrouvera automatiquement au terme des douze (12) mois, le statut Club.  
   
-L’Adhérent Jules Club Gold bénéficie d’une réduction de 20% le jour de son choix (utilisable plusieurs fois sur une même journée civile) en Magasin (hors magasins d’usine) ou sur le Site Internet, sur tous les Produits de la nouvelle collection (hors cartes et e-cartes cadeaux), quel que soit le montant d’achats facturés et le nombre de Produits commandés. Remise valable douze (12) mois à compter de sa date d’émission, déduite en caisse ou dans le panier sur identification. Non cumulable avec tout autre avantage du Club Jules, les soldes, les Jours Jules et toute autre offre promotionnelle en cours.  
+**Bon d’achat fidélité** Déclenchement de bon d’achat fidélité à chaque palier de 100 points.  
   
-La réduction de 20% est automatiquement émise par Jules dès l’accès au statut Jules Club Gold, par email ou courrier ainsi que dans le compte client de l’Adhérent.  
-  
-**Livraison à domicile offerte**  
-  
-L’Adhérent Jules Club Gold bénéficie des frais de préparation et de livraison offerts jusqu’à trois (3) fois par an, pour les Produits vendus en Magasin (hors magasins d’usine) et sur le Site Internet, quel que soit le mode de livraison sélectionné, le montant d’achats facturés et le nombre de Produits commandés.  
+10€ de remise fidélité sans minimum d’achat, cumulable avec les promos et tout autre bon d’achat fidélité. Ces bons ne sont pas applicables avec d’autres avantages du programme de fidélité (journée privilège, offre anniversaire et offre de bienvenue). Les bons d’achat fidélité ont une durée de validité de 60 jours à compter de la date d’émission du bon.  
   
 **Retouches offertes**  
   
-L’Adhérent Jules Club Gold bénéficie de deux (2) retouches offertes par an, sur le Produit Jules ou Brice de son choix acheté pendant la durée d’adhésion au Programme, quel que soit le type de retouche. Utilisable uniquement dans le mois suivant l’achat du Produit concerné.  
+L’Adhérent Club + bénéficie de deux (2) ourlets simple offerts par an, sur le Produit Jules ou Brice by Jules de son choix acheté pendant la durée d’adhésion au Programme, quel que soit le type de retouche. Utilisable uniquement dans le mois suivant l’achat du Produit concerné.  
   
-Cet Avantage est uniquement valable dans les Magasins situés en France métropolitaine (hors magasins d’usine)  
-  
-**Réparation offerte**  
-  
-L’Adhérent Jules Club Gold bénéficie d’une (1) réparation offerte en Magasin sur le Produit Jules ou Brice de son choix ou sur un produit d’une marque tierce. Liste des réparations éligibles détaillée dans chaque Magasin concerné. Cet Avantage est valable uniquement dans les Magasins suivants : Tours les Atlantes, La Roche-sur-Yon, Bordeaux St Catherine, Gand et Bruges
+Cet Avantage est uniquement valable dans les Magasins situés en France métropolitaine (hors magasins d’usine)
 
 ARTICLE 6 – DUREE DE VALIDITE
 -----------------------------
 
 L’adhésion au Programme est illimitée dans le temps.  
   
-Toutefois, l’Adhérent perd le bénéfice des points fidélité acquis et Avantages associés dans un délai de dix-huit (18) mois glissants à compter de la date de l’action ayant permis l’obtention desdits points fidélité. Tout nouvel achat au-delà des dix-huit (18) mois, réactivera automatiquement le cumul des points fidélité et le droit au bénéfice des Avantages.  
+Toutefois, l’Adhérent perd le bénéfice des points fidélité acquis et Avantages associés dans un délai de douze (12) mois glissants à compter de la date de l’action ayant permis l’obtention desdits points fidélité.  
   
 Dans tous les cas, les données personnelles collectées seront conservées durant toute la relation commerciale entre l’Adhérent et Jules ainsi que pour une durée de trente-six (36) mois à compter du dernier acte volontaire et positif de sa part. Par la suite, les données seront anonymisées.
 
-ARTICLE 7 – RESILIATION - RADIATION
+ARTICLE 7 – UTILISATION FRAUDULEUSE
 -----------------------------------
 
-Si l’Adhérent souhaite sortir définitivement du Programme, il lui suffit d’en faire la demande par e-mail à l’adresse suivante :[« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/). Dans ce cas, l’adhésion sera désactivée dans les meilleurs délais et l’Adhérent ne pourra plus bénéficier des Avantages. Il perdra notamment tous les points fidélité accumulés sans possibilité de récupération ultérieure. En outre, tout manquement aux Conditions Générales, toute utilisation abusive ou frauduleuse des Avantages, tout agissement visant à perturber le Programme, toute falsification des informations transmises par l’Adhérent, tout achat effectué au moyen de titres de paiement volés, détournées ou sans provision ou encore tout comportement préjudiciable aux intérêts de Jules entraînera de plein droit la radiation de l’Adhérent, l'annulation de ses points fidélité et des Avantages obtenus, sans compensation ni indemnisation d'aucune sorte et sans information préalable.
+Dans l’hypothèse où l’Adhérent ne respecterait pas les présentes conditions du Programme, utiliserait le Programme de mauvaise foi, ou si Jules détecte une utilisation frauduleuse du Programme notamment via les identifiants de l’adhérent, Jules se réserve le droit d’annuler la participation au Programme et l’Adhérent ne pourrait plus bénéficier des points de fidélité acquis sans que Jules ne soit tenu à aucune compensation à son égard.  
+  
+Si l’Adhérent constate une activité frauduleuse sur son compte fidélité, il doit en avertir Jules sans délai, à défaut toute activité observée sur le compte lui sera imputable.
 
-ARTICLE 8 – MODIFICATION, SUSPENSION OU ARRET DU PROGRAMME
+ARTICLE 8 – RESILIATION – RADIATION
+-----------------------------------
+
+Si l’Adhérent souhaite sortir définitivement du Programme, il lui suffit d’en faire la demande par e-mail à l’adresse suivante :« Contactez-nous ». Dans ce cas, l’adhésion sera désactivée dans les meilleurs délais et l’Adhérent ne pourra plus bénéficier des Avantages. Il perdra notamment tous les points fidélité accumulés sans possibilité de récupération ultérieure. En outre, tout manquement aux Conditions Générales, toute utilisation abusive ou frauduleuse des Avantages, tout agissement visant à perturber le Programme, toute falsification des informations transmises par l’Adhérent, tout achat effectué au moyen de titres de paiement volés, détournées ou sans provision ou encore tout comportement préjudiciable aux intérêts de Jules entraînera de plein droit la radiation de l’Adhérent, l'annulation de ses points fidélité et des Avantages obtenus, sans compensation ni indemnisation d'aucune sorte et sans information préalable.
+
+ARTICLE 9 – MODIFICATION, SUSPENSION ou ARRET DU PROGRAMME
 ----------------------------------------------------------
 
-Le Programme, les Avantages ainsi que les Conditions Générales y afférentes sont susceptibles d’être modifiés, suspendus ou supprimés à tout moment par Jules qui en informera les Adhérents par le moyen le plus adéquat (courrier, email, SMS, affichage sur le Site Internet ou en Magasin, etc.) en respectant un préavis d’un (1) mois.  
+Le Programme, les Avantages ainsi que les Conditions Générales y afférentes sont susceptibles d’être modifiés, suspendus ou supprimés à tout moment par Jules qui en informera les Adhérents par le moyen le plus adéquat ( email, SMS, affichage sur le Site Internet ou en Magasin, etc.) en respectant un préavis d’un (1) mois.  
   
 Toutefois, en cas d’enrichissement du Programme ou d’avantage supplémentaire en faveur de l’Adhérent, celui-ci sera applicable immédiatement.  
   
 Aucune modification ou suppression du Programme ne pourra donner droit à une quelconque indemnité au bénéfice de l’Adhérent.
 
-ARTICLE 9 – DONNEES A CARACTERE PERSONNEL
------------------------------------------
+ARTICLE 10 – DONNEES A CARACTERE PERSONNEL
+------------------------------------------
 
-Pour adhérer au Programme, l’Adhérent doit transmettre à Jules les coordonnées suivantes : civilité, nom, prénom, date de naissance et adresse e-mail.  
-Ces informations sont nécessaires à la prise en compte de l’adhésion de l’Adhérent au Programme et lui permettent de bénéficier des Avantages.  
+Pour adhérer au Programme, l’Adhérent doit transmettre à Jules les coordonnées suivantes : civilité, nom, prénom, date de naissance et adresse e-mail. Ces informations sont nécessaires à la prise en compte de l’adhésion de l’Adhérent au Programme et lui permettent de bénéficier des Avantages.  
   
 En cas de changement dans ses coordonnées, l’Adhérent devra en informer Jules directement dans l’un des Magasins ou sur le Site Internet dans son compte client.  
   
-La collecte et l’utilisation des dites informations par Jules se fait dans le respect de la politique de confidentialité de Jules, disponible sur [politique de confidentialité](https://www.jules.com/fr-fr/static/politique-de-confidentialite.html) .  
+La collecte et l’utilisation des dites informations par Jules se fait dans le respect de la politique de confidentialité de Jules, disponible sur politique de confidentialité .  
   
-Conformément aux lois et règlementations françaises et européennes en vigueur relatives aux données à caractère personnel, l’Adhérent dispose d’un droit d’accès, de rectification, de limitation de traitement, d’opposition, de portabilité et d’effacement de ses données. L’Adhérent peut également contacter Jules pour lui fournir des instructions sur le sort qu’il souhaite réserver à ses données après son décès. Ces droits peuvent s’exercer sur simple demande à l’adresse suivante :[« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
+Conformément aux lois et règlementations françaises et européennes en vigueur relatives aux données à caractère personnel, l’Adhérent dispose d’un droit d’accès, de rectification, de limitation de traitement, d’opposition, de portabilité et d’effacement de ses données. L’Adhérent peut également contacter Jules pour lui fournir des instructions sur le sort qu’il souhaite réserver à ses données après son décès. Ces droits peuvent s’exercer sur simple demande à l’adresse suivante :« Contactez-nous »
 
-ARTICLE 10 – RESPONSABILITE
+ARTICEL 11 – RESPONSABILITE
 ---------------------------
 
-Jules s’engage à mettre en œuvre tous les moyens nécessaires afin d'assurer au mieux le bon fonctionnement du Programme. Cependant, sa responsabilité ne pourra être engagée :  
-  
+Jules s’engage à mettre en œuvre tous les moyens nécessaires afin d'assurer au mieux le bon fonctionnement du Programme. Cependant, sa responsabilité ne pourra être engagée :
 
 * En cas d’indisponibilité du Programme du fait d’un cas de force majeure telle que définie à l’article 1218 du Code civil ou imputable au fait imprévisible et insurmontable d’un tiers ;
-* En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
-* Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service.
 
-ARTICLE 11 – CONTACT
---------------------
+En cas d’interruption momentanée pour des raisons techniques ou de maintenance ;
 
-Pour toute question relative au Programme, l’Adhérent est invité à s’adresser au service client :  
   
 
-* Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-* Par téléphone au [+33 3 59 55 41 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 19h
-* Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
+* Pour tous dommages ou inconvénients résultant de l’utilisation du réseau internet tel que perte de données, intrusion extérieure, virus informatiques, rupture de service.
 
-ARTICLE 12 – LITIGES
+ARTICLE 12 – CONTACT
 --------------------
 
-Les Conditions Générales sont soumises à la loi française, sous réserve, le cas échéant, des dispositions légales plus favorables pour les Adhérents domiciliés dans un autre pays du réseau Jules/Brice tels que listés à l’article 3.  
+Pour toute question relative au Programme, l’Adhérent est invité à s’adresser au service client :
+
+* Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
+* Par téléphone au +33 3 59 55 38 75 (appel non-surtaxé) du lundi au samedi de 10h à 19h
+* Par courrier électronique depuis la rubrique « Contactez-nous »
+
+ARTICLE 13 – LITIGES
+--------------------
+
+Les Conditions Générales sont soumises à la loi française, sous réserve, le cas échéant, des dispositions légales plus favorables pour les Adhérents domiciliés dans un autre pays du réseau Jules/Brice by Jules tels que listés à l’article 3.  
   
 Tous différends relatifs à l’utilisation du Programme qui ne pourraient être réglés à l’amiable seront portés devant les tribunaux compétents du domicile de l’Adhérent ou du ressort du siège social de Jules.
 
