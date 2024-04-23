@@ -20,7 +20,7 @@ Règlement 261/04
 
 La présente notice d’information est exigée par le [Règlement (CE) nº 261/2004 (PDF, 0.1MB, FR)](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/Regulation-261_2004_FR.pdf?la=fr&hash=A3FBC06A0ADB8971675658E1B41146077744FD2E) du Parlement européen et du Conseil de l’Union européenne, du 11 février 2004. Veuillez vous adresser à l’organisme chargé de faire appliquer ce règlement.
 
-Les coordonnées des entités chargées de faire respecter les droits des passagers dans le transport aérien se trouvent [ici](https://transport.ec.europa.eu/system/files/2022-04/2004_261_national_enforcement_bodies.pdf "Ce lien s'ouvre dans une nouvelle fenêtre").
+Les coordonnées des entités chargées de faire respecter les droits des passagers dans le transport aérien se trouvent [ici](https://www.flytap.com/-/media/Flytap/PDF/Condicoes-de-Transporte/2004_261_national_enforcement_bodies.pdf?la=fr&hash=E7B86F030A8FAB0DD974E67304E729BF2ABB2E22).
 
 **En Cas d'Annulation**
 
