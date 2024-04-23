@@ -54,7 +54,7 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | sessionId | bolt.eu | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | HTML Local Storage |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
-| test\_cookie | doubleclick.net | Utilisé pour vérifier si le navigateur de l'utilisateur accepte les cookies. | 1 jour | HTTP Cookie |
+| test\_cookie | doubleclick.net | En attente | 1 jour | HTTP Cookie |
 | VISITOR\_PRIVACY\_METADATA | youtube.com | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 180 jours | HTTP Cookie |
 
 Préférences (9)
@@ -72,15 +72,15 @@ Les cookies de préférences permettent à notre site web de retenir des informa
 | taxifyDriverPortal\_locale | partners.bolt.eu | En attente | Persistent | HTML Local Storage |
 | taxifyFleetOwnerPortal\_locale | fleets.bolt.eu | En attente | Persistent | HTML Local Storage |
 
-Statistiques (33)
+Statistiques (35)
 
 Les cookies statistiques nous aident à comprendre comment les visiteurs interagissent avec notre site web par la collecte et la communication d'informations de manière anonyme.
 
     
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
-| \_clck | bolt.eu | Collecte des données concernant la navigation et le comportement de l'utilisateur sur le site web - Cela est utilisé pour compiler des rapports statistiques et des cartes thermiques pour le propriétaire du site web. | 1 année | HTTP Cookie |
-| \_clsk | bolt.eu | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 1 jour | HTTP Cookie |
+| \_clck \[x2\] | bolt.eu  <br>littlebigthinktank.com | Collecte des données concernant la navigation et le comportement de l'utilisateur sur le site web - Cela est utilisé pour compiler des rapports statistiques et des cartes thermiques pour le propriétaire du site web. | 1 année | HTTP Cookie |
+| \_clsk \[x2\] | bolt.eu  <br>littlebigthinktank.com | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 1 jour | HTTP Cookie |
 | \_cltk | www.clarity.ms | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | Session | HTML Local Storage |
 | \_ga \[x4\] | bestbreakups.com  <br>bolt.eu  <br>makecitiesforpeople.com  <br>littlebigthinktank.com | Enregistre un identifiant unique utilisé pour générer des données statistiques sur la façon dont le visiteur utilise le site. | 2 années | HTTP Cookie |
 | \_ga\_# \[x4\] | bestbreakups.com  <br>bolt.eu  <br>makecitiesforpeople.com  <br>littlebigthinktank.com | Utilisé par Google Analytics our recueillir des données sur le nombre de fois qu'un utilisateur a visité le site web ainsi que les dates de la première et de la plus récente visite. | 2 années | HTTP Cookie |
@@ -94,7 +94,7 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | \_hjTLDTest | bolt.eu | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | Session | HTTP Cookie |
 | \_tt\_enable\_cookie | bolt.eu | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | 1 année | HTTP Cookie |
 | c.gif | c.clarity.ms | Collecte des données concernant la navigation et le comportement de l'utilisateur sur le site web - Cela est utilisé pour compiler des rapports statistiques et des cartes thermiques pour le propriétaire du site web. | Session | Pixel Tracker |
-| CLID | www.clarity.ms | Collecte des données concernant la navigation et le comportement de l'utilisateur sur le site web - Cela est utilisé pour compiler des rapports statistiques et des cartes thermiques pour le propriétaire du site web. | 1 année | HTTP Cookie |
+| CLID | www.clarity.ms | En attente | 1 année | HTTP Cookie |
 | collect | google-analytics.com | Utilisé pour envoyer des données à Google Analytics sur le périphérique et le comportement du visiteur. Suit l'internaute à travers les appareils et les canaux de marketing. | Session | Pixel Tracker |
 | FPAU | bolt.eu | Attribue un identifiant spécifique au visiteur - Cela permet au site Web de déterminer le nombre de visites d'utilisateurs spécifiques à des fins d'analyse et de statistique. | 3 mois | HTTP Cookie |
 | FPID | bolt.eu | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 400 jours | HTTP Cookie |
@@ -107,7 +107,7 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | visited | partners.food.bolt.eu | Identifiant unique de l'utilisateur permettant de le reconnaître aux visites suivantes | Session | HTML Local Storage |
 | vuid | vimeo.com | Recueille des données sur les visites de l'utilisateur sur le site web, telles que les pages qui ont été consultées. | 2 années | HTTP Cookie |
 
-Marketing (59)
+Marketing (61)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -116,12 +116,12 @@ Marketing cookies are used to track visitors across our website. The intention i
 | --- | --- | --- | --- | --- |
 | \_\_ddg1\_ | bolt.eu | Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur. | 1 année | HTTP Cookie |
 | \_\_mpq\_#\_# \[x5\] | bolt.eu  <br>cdn.mxpnl.com  <br>city.bolt.eu  <br>fleets.bolt.eu  <br>foodpartner.bolt.eu | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Persistent | HTML Local Storage |
-| \_fbp \[x2\] | bolt.eu  <br>makecitiesforpeople.com | Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers. | 3 mois | HTTP Cookie |
-| \_gcl\_au \[x3\] | bestbreakups.com  <br>bolt.eu  <br>makecitiesforpeople.com | Utilisé par Google AdSense pour expérimenter l'efficacité de la publicité sur de divers sites Web en utilisant leurs services. | 3 mois | HTTP Cookie |
+| \_fbp \[x3\] | bolt.eu  <br>littlebigthinktank.com  <br>makecitiesforpeople.com | Utilisé par Facebook pour fournir une série de produits publicitaires tels que les offres en temps réel d'annonceurs tiers. | 3 mois | HTTP Cookie |
+| \_gcl\_au \[x4\] | bestbreakups.com  <br>bolt.eu  <br>littlebigthinktank.com  <br>makecitiesforpeople.com | Utilisé par Google AdSense pour expérimenter l'efficacité de la publicité sur de divers sites Web en utilisant leurs services. | 3 mois | HTTP Cookie |
 | \_ttp \[x2\] | bolt.eu  <br>tiktok.com | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | 1 année | HTTP Cookie |
 | 1/i/adsct \[x2\] | t.co  <br>twitter.com | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | Session | Pixel Tracker |
 | ads/ga-audiences | google.com | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session | Pixel Tracker |
-| ANONCHK | c.clarity.ms | Enregistre des données sur les visiteurs de plusieurs visites et sur plusieurs sites Web. Cette information est utilisée pour mesurer l'efficacité de la publicité sur les sites Web. | 1 jour | HTTP Cookie |
+| ANONCHK | c.clarity.ms | En attente | 1 jour | HTTP Cookie |
 | guest\_id | twitter.com | Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et les pages qui ont été chargées, afin de personnaliser et d'améliorer le service Twitter. | 400 jours | HTTP Cookie |
 | guest\_id\_ads | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
 | guest\_id\_marketing | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
@@ -131,16 +131,16 @@ Marketing cookies are used to track visitors across our website. The intention i
 | lastExternalReferrerTime | connect.facebook.net | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistent | HTML Local Storage |
 | LogsDatabaseV2:V#\|LogsRequestsStore | youtube.com | En attente | Persistent | IndexedDB |
 | mp\_#\_mixpanel \[x6\] | bolt.eu  <br>city.bolt.eu  <br>fleets.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu  <br>partners.bolt.eu | En attente | 1 année | HTTP Cookie |
-| MR \[x2\] | bing.com  <br>c.clarity.ms | Utilisé pour suivre les visiteurs sur plusieurs sites Web, afin de présenter des publicités pertinentes en fonction des préférences du visiteur. | 7 jours | HTTP Cookie |
+| MR \[x2\] | bing.com  <br>c.clarity.ms | En attente | 7 jours | HTTP Cookie |
 | muc\_ads | t.co | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | 400 jours | HTTP Cookie |
-| MUID \[x2\] | bing.com  <br>clarity.ms | Largement utilisé par Microsoft comme un identifiant utilisateur unique. Ce cookie permet le suivi des utilisateurs en synchronisant l'identifiant dans de nombreux domaines Microsoft. | 1 année | HTTP Cookie |
+| MUID \[x2\] | bing.com  <br>clarity.ms | En attente | 1 année | HTTP Cookie |
 | pagead/1p-conversion/# | google.com | Collecte des données sur le comportement des visiteurs à partir de plusieurs sites web afin de présenter des publicités plus pertinentes. Cela permet également au site web de limiter le nombre de fois où la même publicité est présentée au visiteur. | Session | Pixel Tracker |
 | pagead/1p-conversion/#/ | google.com | En attente | Session | Pixel Tracker |
 | pagead/landing \[x3\] | doubleclick.net  <br>google.com  <br>googlesyndication.com | Collecte des données sur le comportement des visiteurs à partir de plusieurs sites web afin de présenter des publicités plus pertinentes. Cela permet également au site web de limiter le nombre de fois où la même publicité est présentée au visiteur. | Session | Pixel Tracker |
 | pagead/viewthroughconversion/699781999 | doubleclick.net | En attente | Session | Pixel Tracker |
 | remote\_sid | youtube.com | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Session | HTTP Cookie |
-| SM  | c.clarity.ms | Enregistre un identifiant unique qui reconnaît l'appareil de l'utilisateur au cours des visites récurrentes de sites web utilisant le même réseau de publicité. L'identifiant est utilisé pour permettre des annonces ciblées. | Session | HTTP Cookie |
-| SRM\_B | bing.com | Suit l'interaction de l'utilisateur avec la fonction de barre de recherche du site web. Ces données peuvent être utilisées pour présenter à l'utilisateur des produits ou des services pertinents. | 1 année | HTTP Cookie |
+| SM  | c.clarity.ms | En attente | Session | HTTP Cookie |
+| SRM\_B | bing.com | En attente | 1 année | HTTP Cookie |
 | TESTCOOKIESENABLED | youtube.com | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 1 jour | HTTP Cookie |
 | tt\_appInfo | analytics.tiktok.com | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | HTML Local Storage |
 | tt\_pixel\_session\_index | analytics.tiktok.com | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | HTML Local Storage |
