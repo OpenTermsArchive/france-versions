@@ -8,7 +8,7 @@ ARTICLE 1 – PREAMBULE
 
 JULES, Société par Actions Simplifiée au capital de 106 400 450,00 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, dont le numéro de TVA intracommunautaire est FR 78 305 154 262, représentée par Joannes Soënen, Directeur Général et en cette qualité Directeur de la publication, appartenant au Groupe Happychic (« **Jules** ») édite le site Internet [www.jules.com/fr-fr](https://www.jules.com/) (le « **Site Internet** ») par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous sa marque Jules en France (les « **Produits** »).  
   
-Téléphone : [03 59 55 41 29](tel:03%2059%2055%2041%2029) / E-mail : [support@support-jules.zendesk.com](mailto:support@support-jules.zendesk.com)  
+Téléphone : [+333 59 55 38 75](tel:+33359553875) / E-mail : [service-clients@jules.com](mailto:service-clients@jules.com)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
@@ -177,7 +177,6 @@ Le Client bénéficie alors d’un délai de quatorze (14) jours à compter de l
 ##### 9.2 Droit de rétractation conventionnel
 
 Jules permet aux Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de trente (30) jours à compter de la date de réception de la commande (ce délai inclut le délai de rétractation légal).  
-Ce délai est porté à 90 jours lorsque la commande est passée par un Client détenant un compte client Jules "GOLD" (c'est à dire crédité d'au moins 200 points de fidélité au moment de la commande.)  
 
 ##### 9.3 Produits exclus
 
@@ -279,7 +278,7 @@ ARTICLE 12 – RECLAMATIONS
 Pour toute information, réclamation ou question relative aux Conditions Générales ou aux Produits proposés à la vente sur le Site Internet, le Client est invité à s’adresser au service client :
 
 * Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-* Par téléphone au [+33 3 59 55 38 75 29](tel:+33359554129) (numéro vert) du lundi au samedi de 10h à 12h30 et de 14h30 à 18h
+* Par téléphone au [+333 59 55 38 75](tel:+33359553875) (numéro vert) du lundi au samedi de 10h à 18h00
 * Par courrier électronique depuis la rubrique [« Contactez-nous »](https://www.jules.com/fr-fr/nous-contacter/)
 
 ##### 12.2 Médiation
@@ -378,7 +377,7 @@ ARTICLE 1 – PREAMBULE
 
 JULES, Société par Actions Simplifiée au capital de 106 400 450,00 € dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 305 154 262, représentée par Joannes SOENEN , Directeur Général et en cette qualité Directeur de la publication ("Jules") édite le site Internet www.jules.com (Le "Site Internet ") par le biais duquel elle propose à la vente des produits dans l’univers masculin principalement sous ses marques Jules et Brice (Les "Produits")») a mis en place un programme de fidélité réservé à ses clients et prospects particuliers (les « Adhérents ») dénommé « Le Club » (le « Programme »). .  
   
-Téléphone : [33 (0)3 20 99 36 36](tel:+33320993636) / E-mail : [service-clients@jules.fr](mailto:service-clients@jules.fr)  
+Téléphone : [+333 59 55 38 75](tel:+33359553875) / E-mail : [service-clients@jules.com](mailto:service-clients@jules.com)  
   
 Le Site Internet est hébergé par la société EMEA Private Limited Company (Ltd), située Village 9, Floor 26 Salesforce Tower; 110 Bishopsgate, Londres, UK EC2N 4AY. Téléphone: +44(0)203 1477600.
 
@@ -556,7 +555,7 @@ ARTICLE 12 – CONTACT
 Pour toute question relative au Programme, l’Adhérent est invité à s’adresser au service client :
 
 * Par courrier à l’adresse suivante : Jules - Service Relation Client, 152 avenue Alfred Motte, 59100 Roubaix
-* Par téléphone au +33 3 59 55 38 75 (appel non-surtaxé) du lundi au samedi de 10h à 19h
+* Par téléphone au +333 59 55 38 75 (appel non-surtaxé) du lundi au samedi de 10h à 19h
 * Par courrier électronique depuis la rubrique « Contactez-nous »
 
 ARTICLE 13 – LITIGES
