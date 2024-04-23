@@ -686,7 +686,9 @@ Article 15. Responsabilité pour dommages
 
 **1.** **Considérations générales**
 
-La responsabilité d'Air Europa et de tout transporteur, conformément à l'Article 1, est déterminée par les Conditions de Transport du transporteur qui délivre le billet, sauf dispositions contraires. Les droits correspondant aux passagers seront personnels et ne pourront être transférés à des tiers. En ce qui concerne Air Europa, la responsabilité est la suivante :
+La responsabilité d'Air Europa et celle de tout transporteur sont déterminées par les conditions de transport du transporteur émetteur, sauf indication contraire conformément à l'article 1.
+
+En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (a) Le transport est soumis aux règles et limitations de responsabilité prévues par la loi applicable.
 
