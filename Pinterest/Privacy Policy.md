@@ -406,6 +406,14 @@ Nous identifions et utilisons également des mesures protectrices supplémentair
 
 Pour obtenir une copie de ces décisions d’adéquation ou des CCT, contactez-nous à l’aide des informations fournies dans la section « Nous contacter » ci-dessous.
 
+| 개인정보를 제공받는 자  <br>(연락처) | 개인정보가 이전되는 국가 | 이전 시기 및 방법 | 이전되는 개인정보 항목 | 개인정보를 제공받는 자의  <br>수집 및 이용 목적 | 개인정보를 제공받는 자의 개인정보 보유 및 이용기간 | 이전 근거 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Pinterest Inc.<br><br>651 Brannan Street, San Francisco, CA 94107, USA.<br><br>([정보보호책임](https://help.pinterest.com/data-protection-officer-contact-form)자에게 연락할 수 있습니다) | 미국  | 필요에 따라 수시로 통신망을 통해 전송 | 상기 열거된 정보 일체 | **이용자에게 관련성 있고 흥미로운 개인 맞춤형 콘텐츠 제공**<br><br>**Pinterest 서비스의 개선, 이용자 및 공공의 안전 유지 및 법익 보호**<br><br>**Pinterest서비스에 개인 맞춤형 광고 게재** | **관계 법령상 달리 요구되지 않는 한, 회원님의 개인정보는  목적 달성 시까지 보유됩니다** | 정보주체의 동의 |
+| Meta Platforms, Inc.<br><br>([여기](https://www.facebook.com/help/contact/303167347230180)를 통해서도 Meta에게 연락할 수 있습니다) | 미국  | 필요에 따라 수시로 통신망을 통해 전송 | 핀 미디어<br><br>핀 설명<br><br>핀 링크 | **Pinterest 상에 존재하는 회원님의 콘텐츠를 Instagram에 게시할 때, 회원님은 Instagram에 대하여 특정 정보의 공개를 지시하게 됩니다.** | **관계 법령상 달리 요구되지 않는 한, 회원님의 개인정보는  목적 달성 시까지 보유됩니다** | 정보주체의 동의 |
+
+Pinterest Europe Limited는 아일랜드에 위치해 있으며, 회원님의 개인정보는 아일랜드에서 수집 및 처리됩니다.  
+개인정보의 국외이전을 거부하기 위해서는 Pinterest의 [고객센터](https://help.pinterest.com/contact)로 연락하여 주시기 바랍니다. 다만, 국외이전에 동의하지 않을 경우 Pinterest 서비스 이용이 제한될 수 있습니다.
+
 Combien de temps nous conservons vos informations
 
 Nous conservons vos informations uniquement pendant la durée nécessaire pour que nous vous fournissions les services Pinterest et pour remplir les finalités décrites dans cette politique. Une fois que nous n’avons plus besoin d’utiliser vos informations ni de les conserver pour nous conformer à nos obligations légales ou réglementaires, nous les supprimons de nos systèmes ou les anonymisons afin de ne plus pouvoir les utiliser pour vous identifier.
