@@ -165,7 +165,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-* [Carhartt WIP](https://www.printemps.com/fr/fr/carhartt-wip-homme)
+*  [![](https://media-cdn.printemps.com/image/72/4/5766724.jpg) Carhartt WIP](https://www.printemps.com/fr/fr/homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
