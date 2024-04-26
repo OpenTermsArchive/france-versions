@@ -45,8 +45,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
