@@ -474,13 +474,13 @@ Disponible, sauf pour certains objets de valeur.
 
 **9.** **Collecte et livraison de bagages enregistrés**
 
-(a) Conformément au point 6 paragraphe (c), les passagers doivent récupérer leurs bagages dès que ceux-ci sont disponibles au lieu de destination ou d'escale. Si le passager ne récupère pas ses bagages dans un délai raisonnable, Air Europa peut lui facturer un montant raisonnable au titre de consigne. Si les bagages ne sont pas réclamés au bout de six (6) mois à compter du moment où ils sont disponibles, Air Europa peut en disposer sans assumer de responsabilité vis-à-vis du passager.
+(a) Conformément au point 6 paragraphe (c), les passagers doivent récupérer leurs bagages dès que ceux-ci sont disponibles au lieu de destination ou d'escale. Si le passager ne récupère pas ses bagages dans un délai raisonnable, Air Europa peut lui facturer un montant raisonnable au titre de consigne. Si les bagages ne sont pas réclamés au bout de trois (3) mois à compter du moment où ils sont disponibles, Air Europa peut en disposer sans assumer de responsabilité vis-à-vis du passager.
 
 (b) Seul la personne qui détient le bordereau et l'étiquette d'identification des bagages est autorisée à récupérer les bagages enregistrés.
 
-(c) Si une personne qui réclame des bagages n'est pas en mesure de présenter le bordereau des bagages et
+(c) Si une personne qui réclame des bagages n'est pas en mesure de présenter le bordereau des bagages et de prouver leur appartenance par la carte d'identité correspondante, Air Europa ne remet les bagages à cette personne qu'à condition qu'elle démontre, à la satisfaction complète d'Air Europa, le droit de les retirer. Si Air Europa le demande, cette personne doit fournir la couverture adéquate pour l'indemniser pour toute perte, dommage ou frais pouvant incomber à la compagnie à cause de cette livraison.
 
-de prouver leur appartenance par la carte d'identité correspondante, Air Europa ne remet les bagages à cette personne qu'à condition qu'elle démontre, à la satisfaction complète d'Air Europa, le droit de les retirer. Si Air Europa le demande, cette personne doit fournir la couverture adéquate pour l'indemniser pour toute perte, dommage ou frais pouvant incomber à la compagnie à cause de cette livraison.
+(d) Le Passager autorise le Transporteur, en cas de perte de ses bagages, à effectuer, par lui-même ou par des tiers, les recherches nécessaires pour retrouver le détenteur, à l'aide d'objets ou d'éléments existant tant à l'intérieur qu'à l'extérieur des bagages, et dans le respect de la confidentialité des données personnelles obtenues.
 
 **10.** **Animaux**
 
