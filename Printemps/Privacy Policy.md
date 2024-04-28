@@ -20,10 +20,10 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
-    * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
+    * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-femme)
     * [Mules](https://www.printemps.com/fr/fr/mules-femme)
