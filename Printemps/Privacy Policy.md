@@ -20,8 +20,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
@@ -72,8 +72,6 @@
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/femme)
-    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
@@ -143,9 +141,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-*  [![](https://media-cdn.printemps.com/image/72/4/5766724.jpg) Carhartt WIP](https://www.printemps.com/fr/fr/homme)
-    
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/homme)
+* [![](https://media-cdn.printemps.com/image/72/4/5766724.jpg)](https://www.printemps.com/fr/fr/carhartt-wip-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
