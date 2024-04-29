@@ -42,10 +42,10 @@
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-femme)
     * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
-    * [Sacs De Voyage](https://www.printemps.com/fr/fr/sacs-voyage-femme)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs Bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs De Voyage](https://www.printemps.com/fr/fr/sacs-voyage-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -113,8 +113,8 @@
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-homme)
     * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs De Voyage](https://www.printemps.com/fr/fr/sacs-voyage-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
@@ -150,11 +150,11 @@
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+    * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -187,8 +187,6 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-*  [![](https://media-cdn.printemps.com/image/53/7/5926537.png) Parfums de Marly](https://www.printemps.com/fr/fr/beaute)
-    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver Mon Magasin](https://www.printemps.com/fr/fr/magasins)
