@@ -28,7 +28,13 @@ si vous avez des questions, n’hésitez pas à consulter nos [pages d’aide](h
 Nous avons mis en place une procédure de signalement et de plainte pour examiner les contenus potentiellement illicites. Si vous n’êtes pas d’accord avec notre décision, vous disposez de plusieurs voies de recours
 
 **10\. Autres :**  
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [télécharger](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf) et d’archiver les CGV.  
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [télécharger](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/6fa45ff7-503d-4fb7-a3e2-dffdf8e16dfe.pdf) et d’archiver les CGV.**Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
+
+Via notre site, nous vous offrons la possibilité de nous signaler les produits ou bien les contenus qui, selon vous, ne sont pas conformes avec les lois en vigueur ou avec nos conditions d’utilisation (signalement). Nous étudierons le contenu de ces signalements et nous vous informerons du résultat. Si jamais nous décidions de ne prendre aucune mesure à cet égard, vous avez la possibilité de faire examiner cette décision (réclamation). En outre, vous avez également la possibilité de régler des litiges à l’amiable, ou bien d’utiliser les voies de droit ordinaires.
+
+En cas d’utilisation abusive de ce mécanisme, le traitement de vos signalements et réclamations sera suspendu temporairement ou définitivement. Il y a utilisation abusive si vous formulez fréquemment des signalements ou des réclamations manifestement sans motif. Pour évaluer la portée de ce type d’abus, et également pour décider si et combien de temps le traitement des signalements et des réclamations va être suspendu, nous prendrons en compte l’ensemble des faits et des circonstances correspondants dont nous avons connaissance. On examinera notamment le nombre absolu de signalements ou de réclamations manifestement sans motif, la proportion relative de signalements et de réclamations sans motif par rapport au nombre total de signalements et de réclamations, le degré de gravité de ce comportement abusif, et, si possible, les objectifs suivis par les auteurs.
+
+Avant de suspendre le traitement des signalements et des plaintes, nous enverrons un message de mise en garde. Dans ce message, nous vous informerons également de la durée de la suspension éventuelle.  
 
 * * *
 
@@ -36,7 +42,7 @@ Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous t
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[PDF Download](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf)  
+[PDF Download](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/6fa45ff7-503d-4fb7-a3e2-dffdf8e16dfe.pdf)  
   
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.  
   
@@ -241,7 +247,7 @@ Le vendeur est tenu de la garantie à raison des défauts cachés de la chose ve
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site www.zalando.fr. Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également télécharger et archiver ce document au format PDF en cliquant [ici](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1c67dd8c-ce7d-49a3-be43-7af7fb9726cd.pdf). Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site www.zalando.fr. Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également télécharger et archiver ce document au format PDF en cliquant [ici](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/6fa45ff7-503d-4fb7-a3e2-dffdf8e16dfe.pdf). Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
 **14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme : [https://www.zalando.fr/myaccount/recommendation-preferences/](https://www.zalando.fr/myaccount/recommendation-preferences/).
 
@@ -262,7 +268,7 @@ Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de 
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 01.01.2024  
+Version: 24.04.2024  
   
 
   
