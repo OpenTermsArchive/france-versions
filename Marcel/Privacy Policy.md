@@ -56,12 +56,12 @@ Les conditions régissant votre utilisation du service Marcel sont toujours déf
 
 Marcel participe et est conforme à l'ensemble des Spécifications et Politiques du Transparency & Consent Framework de l'IAB Europe. Marcel utilise la Consent Management Platform n°92.
 
-Vous pouvez [modifier vos choix](javascript:Sddan.cmp.displayUI()) à tout moment.
+Vous pouvez modifier vos choix à tout moment.
 
 2\. Utilisation de vos données personnelles
 -------------------------------------------
 
-Marcel s’engage à pratiquer une utilisation raisonnée de vos données personnelles conformément au Règlement Général de Protection des Données (RGPD).
+Marcel en tant que responsable de traitement s’engage à pratiquer une utilisation raisonnée de vos données personnelles conformément au Règlement Général de Protection des Données (RGPD).
 
 Voici les traitements qui sont effectués, les données personnelles qui sont utilisées pour chacun des traitements et le cadre dans lequel nous effectuons ces traitements (fondement juridique) :
 
