@@ -15,7 +15,7 @@ CIF (code d'identification fiscale) : A07129430.
 Polígono Son Noguera, Llucmajor - Baleares- Espagne
 
 **Téléphone**  
-[+34 911 401 501](tel:+34%20911%20401%20501)
+[+34 911 401 501](tel:+34 911 401 501)
 
 **Courrier électronique**  
 Vous pouvez également vous adresser à notre **Délégué à la protection des données (DPD)** à l'adresse postale susmentionnée et/ou par e-mail : [delegadopd@aireuropa.com](mailto:delegadopd@aireuropa.com)
