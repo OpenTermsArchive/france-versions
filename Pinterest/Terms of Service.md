@@ -1,5 +1,3 @@
-Si vous résidez dans l’EEE, au Royaume-Uni et en Suisse, vous pouvez consulter vos Conditions d’utilisation actuelles ici. Les Conditions d’utilisation ci-dessous entreront en vigueur le 30 avril 2024 dans l’EEE, au Royaume-Uni et en Suisse.
-
 Merci d’utiliser Pinterest !
 
 Les présentes Conditions d’utilisation (les « Conditions ») régissent votre accès et votre utilisation de tout site Web, application, service, technologie, API, widget, plateforme, canal, ou à tout autre produit ou à toute autre fonctionnalité que Pinterest (« Pinterest » ou le « Service ») détient, opère, propose sous son nom ou offre, sauf dans les cas où nous indiquons expressément que des conditions distinctes (et non les présentes Conditions) s’appliquent. Aux fins des présentes Conditions, les termes « nous », « notre » ou « nos » font référence à la partie avec laquelle vous concluez le présent contrat, conformément à l’Article 13(e) (Parties). Nous vous invitons à lire attentivement les présentes Conditions et à nous contacter en cas de questions. 
