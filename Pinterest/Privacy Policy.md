@@ -1,5 +1,3 @@
-Si vous résidez dans l’EEE, au Royaume-Uni et en Suisse, vous pouvez consulter votre Politique de confidentialité actuelle ici. La Politique de confidentialité ci-dessous entrera en vigueur le 30 avril 2024 dans l’EEE, au Royaume-Uni et en Suisse.
-
 Déclaration de confidentialité pour la Californie
 
 **Résidents de l'État de Californie : veuillez consulter ici notre Déclaration de confidentialité et notre Avis relatif à la collecte des données pour la Californie.** 
