@@ -72,7 +72,7 @@
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr)
+*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/tout-vetement-femme)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -143,7 +143,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr)
+*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/tout-vetement-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
