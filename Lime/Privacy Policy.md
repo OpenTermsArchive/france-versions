@@ -1,24 +1,26 @@
-À compter du : 2 janvier 2024
+À compter du : 1er mai 2024  
 
 Chez Neutron Holdings, Inc. dba Lime et ses sociétés affiliées (collectivement « **Lime** », « **nous** », « **notre** », ou « **nos** ») nous sommes fortement engagés envers la transparence, et nous tenons à ce que vous (« **vous** » ou « **vos** ») compreniez comment nous collectons, utilisons, partageons et protégeons vos données. Le présent avis de confidentialité (« **Avis de confidentialité** ») décrit comment Lime traite les données relatives aux sites Web de Lime, aux véhicules possédés par Lime et aux applications et services mobiles connexes (collectivement, les « **Services** »), et quand vous interagissez autrement avec nous. Lorsque cela est spécifié, la présente politique décrit également nos pratiques en matière de données relatives aux Prestataires logistiques ou membres du personnel des Prestataires logistiques.
 
-Nous pouvons modifier le présent Avis de confidentialité à tout moment. Nous vous informerons à l’avance de tout changement important.
+Nous pouvons modifier le présent Avis de confidentialité à tout moment. Nous vous informerons de tout changement important.
 
 **Les types de données que nous recueillons**
 
-Les types de données que nous recueillons ou recevons dépendent de la manière dont vous utilisez nos Services et interagissez avec eux. Dans de nombreux cas, vous pouvez choisir les données que vous nous fournissez, bien que certaines données (comme les données de compte) soient requises pour que nous fournissions les Services et que, si elles ne sont pas fournies, nous ne serons pas en mesure d'offrir les Services. Nous utilisons et divulguons ces données pour accomplir les finalités décrites ci-dessous. Les types de données que nous recueillons comprennent :
+Les types de données que nous recueillons ou recevons dépendent de la manière dont vous utilisez nos Services et interagissez avec eux. Dans de nombreux cas, vous pouvez choisir les informations que vous nous fournissez, bien que si vous choisissez de ne pas fournir certaines informations (telles que les informations relatives à votre compte), nous ne serons pas en mesure de vous fournir les services. Nous utilisons et divulguons ces informations pour accomplir les finalités décrites ci-dessous. Les types de données que nous recueillons comprennent :
 
-* **Des données de compte** telles que vos nom, adresse électronique, numéro de téléphone, date de naissance, sexe, adresse et vos informations de paiement, notamment les informations de votre carte de paiement. Afin d’utiliser certains produits, nous pouvons également vous demander de fournir des photos de votre pièce d’identité officielle (comme votre permis de conduire), à partir de laquelle nous collectons des données, notamment numéro d’identification, date de naissance, sexe, ville et code postal. Dans le cadre de [Lime Access](https://www.li.me/why/community/lime-access), nous collectons également des pièces d’identité officielles et des preuves de faible revenu à des fins de vérification.
+* **Des informations de compte** telles que vos nom, numéro ID, adresse électronique, numéro de téléphone, date de naissance, sexe, adresse et vos informations de paiement, notamment les informations de votre carte de crédit.
+    
+* **Documentation d’identification :** afin d’utiliser certains services, nous pouvons également vous demander de fournir des photos de votre pièce d’identité officielle (comme votre carte d’identité nationale, votre permis de conduire ou votre passeport). Dans le cadre de [Lime Access](https://www.li.me/why/community/lime-access), nous collectons également des preuves de faible revenu à des fins de vérification. Si vous refusez de fournir une telle identification, nous pourrions ne pas être en mesure de vous fournir ces services.
     
 * Nous collectons et traitons des **données de localisation** lorsque vous vous inscrivez et utilisez les Services. Par exemple, afin de vous montrer avec précision les véhicules Lime à proximité, il est nécessaire de collecter et enregistrer l’emplacement physique de votre appareil mobile. Lime collecte également des données de localisation directement à partir des véhicules Lime, y compris lorsqu’un utilisateur de Lime est aux commandes du véhicule.
     
-* Lorsque vous utilisez certains produits qui requièrent un permis de conduire officiel, la vérification de l’âge, l’utilisation d’un casque ou d’autres équipements de protection exigés par la loi, nous sommes susceptibles de vous demander (et à votre ou vos passagers, le cas échéant) de prendre un selfie que nous collectons.
+* Lorsque vous utilisez certains produits qui requièrent un permis de conduire officiel, la vérification de l’âge, l’utilisation d’un casque ou d’autres équipements de protection, nous sommes susceptibles de vous demander (et à votre ou vos passager(s), le cas échéant) de prendre un selfie que nous collectons.
     
 * Si vous reliez votre compte ou vous connectez à Lime avec un **service tiers** (par exemple Facebook), le service tiers peut nous envoyer des informations telles que les données de votre profil de ce service.
     
 * Lorsque vous sollicitez le service client, le support ou toute autre assistance, vous pouvez choisir de nous fournir vos **coordonnées** afin de nous permettre de mieux répondre à vos demandes et de conserver des données sur votre interaction avec nos services de support.
     
-* Lime et des tiers (comme Facebook) collectent des **données à partir de votre navigateur, de votre ordinateur ou de votre appareil mobile**, qui nous apportent des données techniques telles que l’adresse IP et le jeton de votre appareil, lorsque vous accédez aux Services ou les utilisez. Nous utilisons des cookies et des technologies de suivi similaires (comme les pixels et les balises) pour fournir nos Services, y compris pour protéger la sécurité du Service, mémoriser vos paramètres et pour recueillir des données statistiques vous concernant. Les tierces parties peuvent utiliser les données techniques pour fournir des services d’évaluation et des publicités ciblées. Notre [Politique sur les Cookies](https://www.li.me/cookies-policy) vous donnera davantage d’informations sur la façon dont nous (et certains tiers) utilisons des cookies et technologies similaires et sur la façon dont vous pouvez refuser l’utilisation des données à des fins publicitaires.
+* Lime et des tiers (comme Facebook) collectent des **informations à partir de votre navigateur, de votre ordinateur ou appareil mobile**, qui nous fournissent des informations techniques telles que l’adresse IP de votre appareil et le jeton de celui-ci lorsque vous accédez aux services ou les utilisez. Nous utilisons des cookies et des technologies de suivi similaires (comme les pixels et les balises) pour fournir nos Services, y compris pour protéger la sécurité du Service, mémoriser vos paramètres et pour recueillir des données statistiques vous concernant. Les tierces parties peuvent utiliser les données techniques pour fournir des services d’évaluation et des publicités ciblées. Notre [Politique sur les Cookies](https://www.li.me/cookies-policy) vous donnera davantage d’informations sur la façon dont nous (et certains tiers) utilisons des cookies et technologies similaires et sur la façon dont vous pouvez refuser l’utilisation des données à des fins publicitaires.
     
 * Nous collectons les **information que vous partagez** sur les Services, par exemple lorsque vous participez à des groupes ou autres forums, ou lorsque vous commentez sur nos comptes de réseaux sociaux ou nos entrées de blog.
     
@@ -47,13 +49,13 @@ Nous utilisons vos données, y compris les données relatives à votre localisat
 
 * vous fournir les Services à votre demande, y compris pour gérer votre compte et l’historique de vos déplacements. Ceci inclut l’endroit où vous avez accès aux Services via les services d’un Partenaire intégré, comme Uber. Lime est le responsable de ce traitement ; pour davantage d’informations sur la répartition des responsabilités entre Lime et Uber, vous pouvez contacter Lime [ici](https://help.li.me/hc/en-us/requests/new) ;
     
-* confirmer que votre permis de conduire officiel (s’il est fourni) est valide, non actuellement lié à un autre compte Lime et qu’il n’est pas expiré ;
+* confirment que votre pièce d’identité officielle (si elle est fournie) n’est pas actuellement liée à un autre compte Lime et qu’elle n’a pas expiré ;
     
-* confirmer que vous avez l’âge requis afin d’utiliser nos produits en vérifiant que votre selfie correspond à votre pièce d’identité officielle (par exemple, permis de conduire), notamment via la technologie de reconnaissance faciale ;
+* confirment que vous avez l’âge requis afin d’utiliser nos produits en vérifiant que votre selfie correspond à votre pièce d’identité officielle (par exemple permis de conduire), notamment via la technologie de reconnaissance faciale ;
     
 * surveiller, suivre et entretenir les véhicules Lime, y compris lorsque vous les utilisez. Le cas échéant, cela inclut la collecte d’images et/ou de séquence vidéo de votre déplacement ;
     
-* confirmer que les utilisateurs portent un casque et les autres équipements de protection légalement exigés, le cas échéant ;
+* confirment que les utilisateurs portent un casque et autres équipements de protection, le cas échéant ;
     
 * traiter les paiements, abonnements ou [dons](https://www.li.me/blog/lime-hero-donation-module-lets-riders-give-back-to-community) et tous les rabais ou offres spéciales telles que les déblocages gratuits ;
     
@@ -65,7 +67,7 @@ Nous utilisons vos données, y compris les données relatives à votre localisat
     
 * le cas échéant, nous conformer à nos obligations légales, y compris satisfaire aux exigences réglementaires ou légales locales ;
     
-* détecter, enquêter sur, et prévenir les activités susceptibles d’enfreindre les politiques ou [conditions](https://www.li.me/user-agreement) de Lime ou d’être illégales, y compris en cas d’infractions au code de la route ou d’accidents, ce qui peut inclure le partage d’informations avec des organismes publics pouvant se situer en dehors de votre pays d’origine, notamment les services de police et les autorités municipales ; et
+* détectent, enquêtent sur, et préviennent les activités susceptibles d’enfreindre les politiques ou [conditions](https://www.li.me/user-agreement) de Lime ou d’être illégales, y compris en cas d’infractions au code de la route ou du parking ou d’accidents, ce qui peut inclure le partage d’informations avec des organismes publics pouvant se situer en dehors de votre pays d’origine, notamment les services de police et les autorités municipales ; et
     
 * partager et collaborer avec des tiers tels que les universités, les autorités locales et d’autres tiers afin de construire ou améliorer des infrastructures de transport, comme décrit dans la rubrique « Avec qui partageons-nous vos informations ? » ci-dessous.
     
@@ -104,7 +106,7 @@ Nous ne vendons pas ni ne partageons vos données à caractère personnel avec d
 
 **Notre base légale justifiant l’utilisation de vos informations**
 
-Lime se fonde sur un certain nombre de [bases juridiques](https://www.li.me/legal/legal-bases) afin de collecter, utiliser, partager et traiter vos informations aux fins décrites dans le présent Avis de confidentialité, y compris :
+Si vous résidez dans l’Espace économique européen (« EEE »), au Royaume-Uni ou en Suisse, Lime se fonde sur un certain nombre de [bases juridiques](https://www.li.me/legal/legal-bases) afin de collecter, d’utiliser, de partager et de traiter d’autre manière vos informations aux fins décrites dans le présent Avis de confidentialité, y compris :
 
 * lorsque cela est nécessaire à la fourniture des Services et la satisfaction de nos obligations conformément à nos conditions. Par exemple, nous ne pouvons pas fournir les Services à moins de collecter et traiter des informations sur vous et votre localisation ;
     
@@ -114,16 +116,18 @@ Lime se fonde sur un certain nombre de [bases juridiques](https://www.li.me/lega
     
 * il est nécessaire de protéger les intérêts vitaux de nos utilisateurs et prestataires logistiques ainsi que des membres du personnel de nos prestataires logistiques, de notre personnel et des membres du public tant lors des Services qu’en dehors ; et/ou
     
-* lorsque le traitement est nécessaire pour servir les [intérêts](https://www.li.me/legal-bases) légitimes de Lime ou de tiers, sous réserve de la prise en compte de vos droits et intérêts fondamentaux.
+* lorsque le traitement est nécessaire pour servir les intérêts légitimes de Lime ou de tiers, sous réserve de la prise en compte de vos droits et intérêts fondamentaux.
     
 
-Davantage d’informations sur notre base légale au traitement de vos données à caractère personnel sont disponibles [ici](https://www.li.me/legal/legal-bases).
+Vous trouverez plus d’informations sur notre base légale pour le traitement de vos informations personnelles dans l’Espace économique européen, au Royaume-Uni et en Suisse [ici](https://www.li.me/legal/legal-bases).
+
+En Israël, Lime s’appuie sur votre consentement pour collecter, utiliser, partager et traiter d’autre manière vos informations aux fins décrites dans le présent Avis de confidentialité, et votre consentement au présent Avis de confidentialité et à l’utilisation de nos services en fonction de celui-ci, constitue un consentement valide tel qu’indiqué. Vous savez que vous n’avez pas l’obligation de fournir les informations à Lime, mais si vous ne les fournissez pas, vous ne pourrez pas utiliser les services.
 
 **Comment nous transférons vos informations**
 
 Étant donné que nous proposons nos Services dans le monde entier, nous pouvons transférer vos informations vers ou à partir de différents endroits dans le but de vous fournir des Services.
 
-Concernant les résidents de l’Espace économique européen (« EEE »), de la Suisse ou du Royaume-Uni : veuillez noter que certains pays en dehors de l’EEE, de la Suisse ou du Royaume-Uni peuvent ne pas offrir le même niveau de protection des données que votre pays d’origine. Lorsque la Commission européenne a reconnu un pays comme fournissant un niveau approprié de protection des données, Lime peut se fonder sur la décision d’adéquation de la Commission, selon le cas, pour transférer les données.
+Concernant les résidents de l’Espace économique européen, de la Suisse ou du Royaume-Uni : veuillez noter que certains pays en dehors de l’EEE, de la Suisse ou du Royaume-Uni peuvent ne pas offrir le même niveau de protection des données que votre pays d’origine. Lorsque la Commission européenne a reconnu un pays comme fournissant un niveau approprié de protection des données, Lime peut se fonder sur la décision d’adéquation de la Commission, selon le cas, pour transférer les données.
 
 Lime se fonde également sur des Clauses contractuelles types approuvées par la Commission européenne, ou d’autres mécanismes de transfert appropriés, afin de transférer des données depuis l’EEE, la Suisse et le Royaume-Uni vers les États-Unis et d’autres pays hors de votre pays de résidence. Vous pouvez demander un exemplaire des Clauses contractuelles types en nous contactant à l’adresse [dpo@li.me](mailto:dpo@li.me).
 
@@ -138,7 +142,7 @@ Nous conservons vos informations aussi longtemps que raisonnablement nécessaire
 * Nous conservons les informations relatives aux demandes de support client pendant toute la durée de vie du compte.
     
 
-Lorsque vous supprimez votre compte, il se peut que nous ayons besoin d’un délai pour supprimer complètement vos informations de nos bases de données et nos journaux système. Nous pouvons également conserver des informations provenant de comptes supprimés afin de prévenir la fraude, recouvrer des frais, faire appliquer le [Contrat d’utilisateur](https://www.li.me/user-agreement), nous conformer à nos obligations légales ou faire respecter nos droits légaux.
+Lorsque vous supprimez votre compte, il se peut que nous ayons besoin d’un délai pour supprimer complètement vos informations de nos bases de données et nos journaux système. Nous pouvons également conserver des informations provenant de comptes supprimés afin de prévenir la fraude, recouvrer des frais, faire appliquer le [Contrat d’utilisateur](https://www.li.me/user-agreement), nous conformer à nos obligations légales, ou faire respecter nos droits légaux.
 
 De plus, si vous êtes un prestataire logistique ou membre du personnel d’un prestataire logistique, Lime conserve certaines informations dans la mesure nécessaire afin de respecter ses obligations légales. Par exemple, Lime peut conserver certaines de vos informations afin de se conformer aux obligations fiscales, juridiques, de déclaration et d’audit applicables, ainsi qu’à d’autres exigences dans les pays dans lesquels nous exerçons nos activités.
 
