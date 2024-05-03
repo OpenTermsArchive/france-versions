@@ -130,9 +130,10 @@ Article 20 - Time limitation on claims and action
 Help and Contacts
 
 * [Contact us](https://wwws.airfrance.fr/en/contact)
-* [Claims](https://wwws.airfrance.fr/en/information/legal/reclamation)
 * [Refund](https://wwws.airfrance.fr/en/information/legal/remboursement)
-* [Passengers with disabilities](https://wwws.airfrance.fr/en/contact/booking/information_assistance)
+* [Claims](https://wwws.airfrance.fr/en/information/legal/reclamation)
+* [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
+* [Passengers with disabilities](https://wwws.airfrance.fr/en/contact/special-assistance)
 
 #### Online payment and shopping
 
@@ -141,19 +142,26 @@ Online payment and shopping
 * [Booking fees - Service fees](https://wwws.airfrance.fr/en/information/legal/frais-emission-et-service)
 * [Payment methods](https://wwws.airfrance.fr/en/information/legal/moyens-de-paiement)
 * [Air France shopping](https://shopping.airfrance.com/?)
+* [AIR FRANCE KLM – AMERICAN EXPRESS cards](https://wwws.airfrance.fr/en/information/amex-afkl-perso-pro)
+* [Why book on the official Air France website?](https://wwws.airfrance.fr/en/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
-#### About Air France and partners
+#### Loyalty program and partners
 
-About Air France and partners
+Loyalty program and partners
 
 * [Flying Blue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](http://www.skyteam.com/)
+* [Worldwide sites](http://www.airfrance.com/?)
+
+#### About Air France
+
+About Air France
+
 * [Air France corporate](http://corporate.airfrance.com/)
-* [Worldwide sites](https://wwws.airfrance.fr/en/splash)
-* [Travel destinations](https://wwws.airfrance.fr/en/travel-guide/destinations)
 * [Affiliate program](https://wwws.airfrance.fr/en/information/prepare/services/affiliation)
+* [Travel destinations](https://wwws.airfrance.fr/en/travel-guide/destinations)
 
 #### Air France app
 
