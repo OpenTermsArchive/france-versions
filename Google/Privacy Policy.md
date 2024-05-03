@@ -740,6 +740,10 @@ Par exemple, les marchands peuvent importer des données provenant de leur progr
 
 Par exemple, pour éviter les utilisations abusives et accroître la transparence et la responsabilité concernant ses pratiques de modération de contenu en ligne, Google partage des données sur les demandes de suppression de contenu de ses services avec Lumen, qui recueille et analyse ces demandes pour faciliter la recherche afin d'aider les internautes à comprendre leurs droits. [En savoir plus](https://support.google.com/legal/answer/12158374?hl=fr)
 
+### similar information related to your physical or mental health
+
+If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.
+
 ### sources accessibles publiquement
 
 Par exemple, nous pouvons collecter des informations disponibles publiquement en ligne ou issues d'autres sources publiques pour contribuer à l'entraînement des modèles d'IA de Google, et concevoir des produits et des fonctionnalités comme Google Traduction, les applications Gemini et les capacités d'IA de Cloud. De plus, si les informations de votre établissement figurent sur un site Web, nous pouvons les indexer et les afficher sur les services Google.
