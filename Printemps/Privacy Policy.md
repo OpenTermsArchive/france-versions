@@ -185,6 +185,8 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+*  [![](https://media-cdn.printemps.com/image/12/2/6091122.jpg) KEVIN MURPHY](https://www.printemps.com/fr/fr/kevin-murphy-beaute)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver Mon Magasin](https://www.printemps.com/fr/fr/magasins)
