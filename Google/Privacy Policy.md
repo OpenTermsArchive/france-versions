@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 4 mars 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20240304/a0z6wy2x/google_privacy_policy_fr_eu.pdf)
+À compter du 28 mars 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20240328/kqt85t47/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -618,6 +618,10 @@ Votre utilisation des services de localisation de Google sur un appareil Android
 
 Le fait qu'un grand nombre de personnes se mettent à effectuer une recherche particulière peut fournir des informations utiles sur des tendances spécifiques à un instant donné. Google Trends échantillonne des recherches sur le Web Google pour estimer la popularité de recherches effectuées sur une période précise et partage publiquement ces résultats cumulés. [En savoir plus](https://support.google.com/trends?p=privpol_about&hl=fr)
 
+### informations similaires liées à votre santé physique ou mentale
+
+Si vous utilisez des applis et produits de fitness que nous proposons, comme Fitbit, Pixel Watch, Nest ou Google Fit, nous collectons les données que vous fournissez, comme votre taille et votre poids. Nous recueillons aussi des informations issues de ces applis et appareils, comme votre rythme de sommeil, votre fréquence cardiaque, votre température cutanée, votre nombre de pas et les calories brûlées.
+
 ### l'activité sur des applications et sites tiers qui utilisent nos services
 
 Les sites Web et les applications qui intègrent des services Google, tels que les annonces et les données analytiques, partagent des informations avec nous.
@@ -739,10 +743,6 @@ Par exemple, les marchands peuvent importer des données provenant de leur progr
 ### ses utilisateurs
 
 Par exemple, pour éviter les utilisations abusives et accroître la transparence et la responsabilité concernant ses pratiques de modération de contenu en ligne, Google partage des données sur les demandes de suppression de contenu de ses services avec Lumen, qui recueille et analyse ces demandes pour faciliter la recherche afin d'aider les internautes à comprendre leurs droits. [En savoir plus](https://support.google.com/legal/answer/12158374?hl=fr)
-
-### similar information related to your physical or mental health
-
-If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.
 
 ### sources accessibles publiquement
 
