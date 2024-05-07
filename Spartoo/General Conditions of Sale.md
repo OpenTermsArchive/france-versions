@@ -29,6 +29,7 @@ Tout utilisateur du site doit respecter les conditions générales de vente.
 ---------------------
 
 Les offres ne s'adressent qu'à des Clients disposant d'une adresse de livraison en France métropolitaine, en Andorre, en Corse, Monaco, dans les DROM-COM, en Belgique, en Suisse et au Luxembourg et autres pays francophones.  
+Les offres s'adressent exclusivement aux consommateurs qui effectuent un achat à des fins privées.  
 Les articles visibles sur le site sont disponibles dans la limite des stocks disponibles.  
 SPARTOO s'engage à prévenir par courrier électronique le Client qui aurait passé commande d'un article indisponible. En cas de débit ou d'encaissement visant la commande d'un article indisponible, SPARTOO s'engage à proposer un avoir ou à rembourser le Client dans un délai de 15 jours. La commande est automatiquement annulée.
 
@@ -592,6 +593,7 @@ Les avantages du Spartoo Premium sont les suivants:
 \- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
 \- Livraison express gratuite le lendemain, pour toute commande passée avant 13h.  
 \- Le Paiement en 3 fois sans frais dès 60€ d'achat  
+\- L'ASSURTOO : assurance contre le dommage matériel accidentel de vos chaussures  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
 
 * DROM-COM :
