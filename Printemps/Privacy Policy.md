@@ -7,14 +7,13 @@
     * [Sandales](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Sandales)
     * [Bijoux](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Bijoux)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
+    * [Voir Tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
 * [TOP MARQUES](#)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/TOMMY+HILFIGER)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/MARC+JACOBS)
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/J%C3%89R%C3%94ME+DREYFUSS)
     * [Saison 1865](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/SAISON+1865)
     * [Levi's](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/LEVI%27S)
-* [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-    
 
 * [HOMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
     * [Sélection -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/sld/-45%25/-40%25/-50%25)
@@ -23,14 +22,13 @@
     * [T-Shirts Et Polos](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
     * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Vestes)
     * [Sweats Et Hoodies](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Sweats+et+hoodies)
+    * [Voir Tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
 * [TOP MARQUES](#)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/POLO+RALPH+LAUREN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/TOMMY+HILFIGER)
     * [Alexander Mcqueen](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/ALEXANDER+MCQUEEN)
     * [Saison 1865](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/SAISON+1865)
     * [Calvin Klein](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/CALVIN+KLEIN)
-* [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-femme)
