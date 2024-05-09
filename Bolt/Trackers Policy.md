@@ -27,7 +27,7 @@ Votre état ​​actuel: Autoriser la sélection (Nécessaires, Préférences,
 
 Votre état ​​actuel: Tout autoriser. 
 
-Identifiant de votre consentement: 0Date de consentement:
+Identifiant de votre consentement: Date de consentement:
 
 [Modifiez consentement](#)  |  [Retirez consentement](#)
 
