@@ -33,7 +33,7 @@ Identifiant de votre consentement: 0Date de consentement:
 
 [Ne pas vendre ou partager mes informations personnelles](#)
 
-Nécessaires (36)
+Nécessaires (35)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies.
 
@@ -46,7 +46,7 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | HTML Local Storage |
 | bugsnag-anonymous-id \[x2\] | fleets.bolt.eu  <br>food.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistent | HTML Local Storage |
-| cf\_clearance \[x2\] | formaloo.me  <br>vimeo.com | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
+| cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | HTTP Cookie |
 | CookieConsent \[x16\] | bestbreakups.com  <br>blog.bolt.eu  <br>bolt.eu  <br>bolt-food-partners.formaloo.net  <br>business.bolt.eu  <br>city.bolt.eu  <br>courier.bolt.eu  <br>couriers.bolt.eu  <br>fleets.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu  <br>littlebigthinktank.com  <br>makecitiesforpeople.com  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>signup.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | HTTP Cookie |
 | deviceId \[x2\] | bolt.eu  <br>static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistent | HTML Local Storage |
 | fleet-visitor-id | bolt.eu | En attente | Session | HTTP Cookie |
@@ -56,14 +56,14 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | test\_cookie | doubleclick.net | En attente | 1 jour | HTTP Cookie |
 | VISITOR\_PRIVACY\_METADATA | youtube.com | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 180 jours | HTTP Cookie |
 
-Préférences (9)
+Préférences (8)
 
 Les cookies de préférences permettent à notre site web de retenir des informations qui modifient la manière dont le site se comporte ou s’affiche, comme votre langue préférée ou la région dans laquelle vous vous situez.
 
     
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
-| @@scroll# \[x2\] | assets.blog.bolt.eu  <br>bolt.eu | En attente | Session | HTML Local Storage |
+| @@scroll# | bolt.eu | En attente | Session | HTML Local Storage |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | HTTP Cookie |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | HTTP Cookie |
 | CookieConsentBulkSetting-# \[x2\] | consentcdn.cookiebot.com  <br>consentcdn.cookiebot.com | Active le consentement aux cookies sur plusieurs sites | 1 année | HTML Local Storage |
@@ -106,7 +106,7 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | visited | partners.food.bolt.eu | Identifiant unique de l'utilisateur permettant de le reconnaître aux visites suivantes | Session | HTML Local Storage |
 | vuid | vimeo.com | Recueille des données sur les visites de l'utilisateur sur le site web, telles que les pages qui ont été consultées. | 2 années | HTTP Cookie |
 
-Marketing (61)
+Marketing (64)
 
 Marketing cookies are used to track visitors across our website. The intention is to display ads that are more relevant and engaging for each individual user.
 
@@ -124,6 +124,7 @@ Marketing cookies are used to track visitors across our website. The intention i
 | guest\_id | twitter.com | Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et les pages qui ont été chargées, afin de personnaliser et d'améliorer le service Twitter. | 400 jours | HTTP Cookie |
 | guest\_id\_ads | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
 | guest\_id\_marketing | twitter.com | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | HTTP Cookie |
+| i/jot/embeds | twitter.com | Définit un identifiant unique pour le visiteur, qui permet aux annonceurs tiers de cibler le visiteur avec une publicité pertinente. Ce service de couplage est fourni par des centres publicitaires tiers, ce qui facilite les enchères en temps réel pour les annonceurs. | Session | Pixel Tracker |
 | IDE | doubleclick.net | Utilisé par Google DoubleClick pour enregistrer et signaler les actions de l'utilisateur du site après qu'il ait vu ou cliqué sur une des pubs de l'annonceur dans le but de mesurer l'efficacité et de présenter des annonces publicitaires ciblées à l'utilisateur. | 1 année | HTTP Cookie |
 | LAST\_RESULT\_ENTRY\_KEY | youtube.com | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Session | HTTP Cookie |
 | lastExternalReferrer | connect.facebook.net | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistent | HTML Local Storage |
@@ -137,7 +138,9 @@ Marketing cookies are used to track visitors across our website. The intention i
 | pagead/1p-conversion/#/ | google.com | En attente | Session | Pixel Tracker |
 | pagead/landing \[x3\] | doubleclick.net  <br>google.com  <br>googlesyndication.com | Collecte des données sur le comportement des visiteurs à partir de plusieurs sites web afin de présenter des publicités plus pertinentes. Cela permet également au site web de limiter le nombre de fois où la même publicité est présentée au visiteur. | Session | Pixel Tracker |
 | pagead/viewthroughconversion/699781999 | doubleclick.net | En attente | Session | Pixel Tracker |
+| PREF | youtube.com | Enregistre un identifiant unique utilisé par Google pour conserver des statistiques sur la façon dont le visiteur utilise des vidéos YouTube dans différents sites web. | 8 mois | HTTP Cookie |
 | remote\_sid | youtube.com | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Session | HTTP Cookie |
+| RichHistory | twitter.com | Collecte des données sur les préférences et le comportement des visiteurs sur le site Web - Ces informations sont utilisées pour rendre le contenu et la publicité plus pertinents pour le visiteur en question. | Session | HTML Local Storage |
 | SM  | c.clarity.ms | En attente | Session | HTTP Cookie |
 | SRM\_B | bing.com | En attente | 1 année | HTTP Cookie |
 | TESTCOOKIESENABLED | youtube.com | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 1 jour | HTTP Cookie |
@@ -183,12 +186,12 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | persist:account-selected-provider | foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
 | persist:session \[x2\] | city.bolt.eu  <br>foodpartner.bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_ARP | bolt.eu | En attente | Persistent | HTML Local Storage |
-| WZRK\_G | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_G | bolt.eu | En attente | 1 année | HTTP Cookie |
+| WZRK\_G | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_L | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_META | bolt.eu | En attente | Persistent | HTML Local Storage |
 | WZRK\_P | bolt.eu | En attente | Session | HTTP Cookie |
 | WZRK\_S\_W65-47W-565Z | bolt.eu | En attente | 1 jour | HTTP Cookie |
-| X-Experiment-Food | bolt.eu | En attente | 208 jours | HTTP Cookie |
+| X-Experiment-Food-courier | bolt.eu | En attente | 178 jours | HTTP Cookie |
 
-Déclaration relative aux cookies mise à jour le 10/04/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Déclaration relative aux cookies mise à jour le 10/05/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
