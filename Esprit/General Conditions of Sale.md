@@ -327,14 +327,6 @@ La carte cadeau peut être utilisée dans tous les magasins de vente au détail 
 
   
 
-12.8 Conditions particulières pour l’achat / l’utilisation de votre carte cadeau Esprit auprès des boutiques en ligne participantes.
-
-L’achat d’une carte cadeau auprès d’une boutique en ligne participante s’effectue à partir du menu. Un lien « carte cadeau » figure en bas de page de la boutique en ligne. Si vous souhaitez procéder à un paiement (partiel) en utilisant la carte cadeau, veuillez choisir le mode de paiement « carte cadeau » lors de l’enregistrement, à la fin de la commande. Les sommes restants dues pourront être payées par un autre moyen de paiement. En outre, si en principe la carte cadeau utilisée sur une boutique en ligne sera désactivée une fois le solde dépensé, tel ne sera pas le cas en cas de retours. En effet, en cas de retours, le montant payé avec la carte cadeau sera recrédité sur la carte cadeau utilisée initialement. Avant le paiement, le solde de votre carte cadeau sera automatiquement affiché au moment du paiement sur la boutique en ligne.
-
-  
-
-Vous pouvez vérifier la date d’activation de votre carte cadeau en appelant le service d’assistance téléphonique (hotline) de votre boutique en ligne. En cas de perte de votre carte cadeau, vous pourrez également en informer le service clients d’une boutique en ligne participante (dans ce cas, la boutique en ligne appliquera la procédure décrite à la section « perte de la carte cadeau »).
-
   
 
 ﻿**13. Autres**
