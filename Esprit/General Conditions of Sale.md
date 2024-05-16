@@ -281,54 +281,8 @@ L’Esprit Retail B.V & Co. KG n’est ni prête ni tenue de participer au proce
 
   
 
-﻿**12. Conditions d’utilisation des cartes cadeaux**
-
   
 
-12.1 Qu’est-ce que la carte cadeau Esprit?
-
-La carte-cadeau Esprit, c’est pour vous comme de l’argent liquide. Elle est délivrée par l’Esprit Card Services GmbH, Esprit-Allee, 40882 Ratingen en Allemagne. Elle est disponible dans tous les magasins et boutiques en ligne (que vous trouverez sur www.esprit.com/storefinder sous la mention « Carte-cadeau ») participant au système de carte-cadeau Esprit de votre pays. Ceux-ci acceptent la carte-cadeau comme moyen de paiement pour tous les articles Esprit sauf ceux faisant partie de la catégorie MAISON (à l’exception des peignoirs). En versant une somme d’argent, vous acquérez un droit de créance du même montant envers la société Esprit Card Services GmbH, qui est matérialisé par la carte-cadeau. La créance ne génère pas d’intérêts.
-
-  
-
-12.2 Comment activer votre carte cadeau Esprit?
-
-Si vous souhaitez créditer une carte cadeau, veuillez présenter une carte cadeau dans un magasin participant et verser la somme que vous souhaitez créditer sur ladite carte cadeau. Nous acceptons les versements de 5,- à 150,- EURO/20,- à 700,- PLN/200,- à 4.000,-CZK/10,- à 250,-CHF/50,- à 1.500,- SEK/50,- à 1.300 DKK. Chaque carte cadeau ne peut être activée qu’une seule fois et ne peut être recréditée. Si vous souhaitez verser un autre montant, vous devrez utiliser une nouvelle carte cadeau.
-
-  
-
-12.3 Comment utiliser votre carte cadeau Esprit?
-
-La carte-cadeau Esprit peut être validée pour l’achat d’articles Esprit (comme définis dans la clause 12.1) dans tous les magasins et boutiques en ligne participants. Vous devez simplement présenter la carte cadeau dans un magasin participant avant de payer. Le prix d’achat sera alors débité du solde de la carte cadeau. Tout dépassement devra être réglé en espèces, par Euro Chèque ou par carte de crédit au magasin participant ou être débité d’une autre carte cadeau. Si le solde de la carte cadeau est dépensé, le magasin de vente au détail participant désactivera la carte cadeau utilisée.
-
-  
-
-12.4 Pour quelle utilisation la carte cadeau n’est-elle pas valable?
-
-L’utilisation de la carte cadeau Esprit est limitée aux achats privés non professionnels dans les magasins de vente au détail participants. Une utilisation à des fins autres, notamment pro-fessionnelles, de revente à but lucratif ou de tirage au sort à usage professionnel, doit systématiquement faire l’objet d’un consentement préalable d’Esprit.
-
-  
-
-12.5 Considérez votre carte cadeau Esprit comme des espèces!
-
-La carte cadeau est la propriété de la personne qui la détient et pourra être utilisée par quiconque la présentera. Esprit ne vérifiera pas que le détenteur de la carte cadeau est autorisé à l’utiliser.
-
-  
-
-12.6 Comment consulter le solde de ma carte cadeau?
-
-Vous pouvez consulter le solde de votre carte cadeau à tout moment en la présentant au vendeur d’un magasin de vente au détail participant.
-
-  
-
-12.7 Validité et perte de la carte cadeau
-
-La carte cadeau peut être utilisée dans tous les magasins de vente au détail et boutiques en ligne participants sans limite de temps. En cas de perte de votre carte cadeau, veuillez en informer sans délai un magasin participant, qui prendra les mesures nécessaires pour bloquer la carte cadeau. Après avoir bloqué la carte cadeau, Esprit Card Services GmbH en émettra une nouvelle et la créditera, sur présentation du bordereau d’achat, du solde dûment justifié de la carte perdue.
-
-  
-
-  
-
-﻿**13. Autres**
+﻿**14. Autres**
 
 Les présentes CGV ont été rédigées le 17.12.2020. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
