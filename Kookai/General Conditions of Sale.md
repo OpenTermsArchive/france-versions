@@ -374,7 +374,3 @@ En cas de réclamation non résolue amiablement par le Service Client, et confor
 Le Client peut également entrer en contact avec la plateforme de résolution des litiges mise en ligne par la Commission Européenne à l’adresse suivante : [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
 
 A défaut de résolution amiable, tout litige qui pourrait naitre entre le Client et KOOKAÏ en raison de la formation, de l'interprétation et/ou de l'exécution des présentes relèvera de la compétence exclusive des tribunaux français du lieu de domicile du Client.
-
-Access Denied
-
-**IMPORTANT!** If you’re a store owner, please make sure you have [Customer accounts enabled in your Store Admin](https://admin.shopify.com/store//settings/checkout), as you have customer based locks set up with EasyLockdown app. [Enable Customer Accounts](https://admin.shopify.com/store//settings/checkout)
