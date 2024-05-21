@@ -262,14 +262,3 @@ Ces droits peuvent être exercés auprès du DPO de Kookai, par simple demande p
 
   
 Vous pouvez également adresser une réclamation ou une plainte auprès des autorités de contrôle et notamment de la Commission nationale de l’Informatique et des Libertés (CNIL) si vous estimez que nous n’avons pas satisfait dans les conditions et délais légaux à l’une de vos demandes.
-
-  
-  
-  
-  
-  
-  
-
-Access Denied
-
-**IMPORTANT!** If you’re a store owner, please make sure you have [Customer accounts enabled in your Store Admin](https://admin.shopify.com/store//settings/checkout), as you have customer based locks set up with EasyLockdown app. [Enable Customer Accounts](https://admin.shopify.com/store//settings/checkout)
