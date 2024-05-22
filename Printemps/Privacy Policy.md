@@ -1,39 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [FEMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-    * [Sélection -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/sld/-45%25/-40%25/-50%25)
-    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/Sacs)
-    * [Sandales](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Sandales)
-    * [Bijoux](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Bijoux)
-    * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
-    * [Voir Tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-* [TOP MARQUES](#)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/TOMMY+HILFIGER)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/MARC+JACOBS)
-    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/J%C3%89R%C3%94ME+DREYFUSS)
-    * [Saison 1865](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/SAISON+1865)
-    * [Levi's](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/LEVI%27S)
-
-* [HOMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    * [Sélection -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/sld/-45%25/-40%25/-50%25)
-    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Baskets)
-    * [Chemises](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Chemises)
-    * [T-Shirts Et Polos](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
-    * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Vestes)
-    * [Sweats Et Hoodies](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Sweats+et+hoodies)
-    * [Voir Tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-* [TOP MARQUES](#)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/POLO+RALPH+LAUREN)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/TOMMY+HILFIGER)
-    * [Alexander Mcqueen](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/ALEXANDER+MCQUEEN)
-    * [Saison 1865](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/SAISON+1865)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/CALVIN+KLEIN)
-
-* [OUTLET](https://www.printemps.com/fr/fr/outlet-braderie)
-    * [Femme](https://www.printemps.com/fr/fr/outlet-braderie-femme)
-    * [Homme](https://www.printemps.com/fr/fr/outlet-braderie-homme)
-
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-femme)
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
@@ -106,8 +72,6 @@
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-*  [![](https://media-cdn.printemps.com/image/21/2/6099212.jpg) Jusqu'à -40%\*](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
@@ -177,8 +141,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-*  [![](https://media-cdn.printemps.com/image/21/2/6099212.jpg) Jusqu'à -40%\*](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
