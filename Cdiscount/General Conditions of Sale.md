@@ -559,7 +559,7 @@ La présente stipulation ne fait pas obstacle à une réclamation ultérieure du
 
 Lors de la réception ou du retrait de votre commande, vous devez vérifier l’état du (des) colis reçus et signaler toute non-conformité sur le bon de livraison ou refuser la livraison.
 
-Dans le cas où, après acceptation du colis, vous constateriez que le produit commandé est abîmé, vous pouvez nous le signaler :
+Dans le cas où, après acceptation du colis, vous constateriez que le produit commandé est ab��mé, vous pouvez nous le signaler :
 
 \- en contactant le Service Client de CDISCOUNT ; ou
 
