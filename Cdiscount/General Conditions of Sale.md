@@ -38,7 +38,7 @@ Depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h 
   
 Depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
-Depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
+Depuis les Pays-Bas au 0800 251 21 24 (num��ro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
 Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
    
