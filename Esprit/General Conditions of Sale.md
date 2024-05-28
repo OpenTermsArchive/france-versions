@@ -33,65 +33,35 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
   
 
-﻿**3. Mise à disposition et retour dans un magasin Esprit (« Click & Collect »)**
+﻿**3. Prix et modes de paiement**
 
-3.1 Vous avez la possibilité de faire livrer et de retourner les marchandises commandées sur l’e-shop Esprit à un magasin Esprit participant. Vous trouverez une liste des magasins participants en cliquant ici. Le choix d’un magasin Esprit n’affecte nullement la durée du droit légal de rétractation (voir paragraphe 7).
+3.1 Les prix en vigueur sont ceux indiqués au moment de la commande. Tous les prix incluent la taxe sur la valeur ajoutée en vigueur.
 
-3.2 Si vous avez décidé de faire livrer les marchandises commandées dans un magasin Esprit de votre choix, celles-ci seront mises à votre disposition sur place. Vous recevrez un e-mail de notre part pour vous avertir de la mise à disposition des marchandises.
+3.2 Le paiement de la marchandise s’effectue au choix selon les modes de paiement proposés lors du processus de commande et dans les conditions qui y sont précisées. Nous nous réservons le droit d’exclure certains modes de paiement en fonction du résultat de la vérification de vos données (vérification d’identité et de solvabilité).
 
-3.3 Si vous ne récupérez pas les marchandises mises à disposition sous 10 jours après notre message, les marchandises seront renvoyées à l’e-shop Esprit par le magasin Esprit.
+3.3 En cas de livraison sur facture, vous vous engagez à payer le montant de la facture dans les 14 jours suivant la réception de la marchandise. Dans le cas d’un retour d’articles effectué avant ce délai, le montant de la facture peut être réduit en conséquence.
 
-3.4 Nous transmettons votre nom et la référence du colis au magasin Esprit concerné à des fins de vérification lorsque vous venez cherchez le colis. Un collaborateur du magasin Esprit dans lequel vous avez choisi de faire mettre à disposition les marchandises commandées ouvre le paquet avant de vous remettre les articles, afin que les marchandises commandées vous soient remises non emballées pour que vous puissiez les essayer sans attendre.
+3.4 En cas de retard de paiement, nous nous réservons le droit de vous facturer des frais forfaitaires de recouvrement à hauteur de 5,99 EUR € à partir de la deuxième lettre de relance ainsi que pour toutes les suivantes, indépendamment du fait que la première lettre de relance vous soit parvenue par courrier ou par e-mail. Vous avez cependant le droit d’apporter la preuve que le dommage qui nous a été occasionné est moins important que le forfait susmentionné. En cas de retard de paiement, vous vous engagez à nous rembourser tous les frais, dépenses et décaissements que nous avons encourus en raison de la poursuite de nos réclamations. Cela inclut également, sans préjudice d’une obligation procédurale de remboursement des frais, tous les frais extrajudiciaires d’une agence de recouvrement ou d’un avocat mandaté.
 
-3.5 Vous pouvez faire usage de votre droit de rétractation conformément au paragraphe 7, en déposant les marchandises commandées sur l’e-shop Esprit dans un magasin Esprit participant sous réserve de présenter le bon de retour joint à la commande. Les marchandises sont considérées comme retournées sous réserve du respect du délai de retour.
+3.5 Vous avez la possibilité de faire valoir des droits de rétention contre notre créance de paiement, droits qui vous reviennent ou qui résultent d’une autre manière de la même relation contractuelle. Vous ne disposez d’aucun autre droit de rétention.
 
-  
-
-﻿**4. Réservation sur la boutique Esprit (« Click & Reserve »)**
-
-4.1 Par ailleurs, vous avez la possibilité de choisir un article sur l’e-shop Esprit et de réserver le modèle souhaité (taille, couleur…) dans un magasin Esprit participant afin de l’essayer sur place et, le cas échéant, de l’acheter. Vous trouverez une liste des magasins participants en cliquant ici.
-
-4.2 Après avoir saisi votre réservation sur l’e-shop Esprit, vous recevez un e-mail confirmant la réception de votre réservation, dans lequel sont listées les caractéristiques principales de la marchandise réservée. Un e-mail ultérieur vous annoncera si la marchandise a pu être réservée dans votre magasin souhaité (« confirmation de réservation ») ou si la marchandise n’y était plus disponible.
-
-4.3. Dans la mesure où vous prévoyez d’acheter la marchandise réservée dans le magasin Esprit choisi, le contrat de vente est passé avec le gérant dudit magasin. Le prix du produit peut varier d’un magasin Esprit à un autre.
-
-﻿**4.4 Vos données de réservation, telles que votre nom, le produit choisi et la référence de la réservation, sont transmises au magasin Esprit à des fins de vérification de votre réservation. Le magasin Esprit peut être exploité par un partenaire franchisé indépend**
-
-﻿**ant ou par une entreprise liée à nous.**
-
-4.5 Si vous n’achetez pas la marchandise réservée dans le magasin Esprit sous 48 heures à partir de l’envoi de la confirmation de réservation, votre réservation est annulée.
+3.6 Vous avez le droit de compenser une créance incontestée ou légalement établie avec notre créance de paiement. En outre, vous avez le droit de compenser une créance résultant du fait que nous n’avons pas rempli nos obligations ou que nous ne les avons pas remplies correctement, si ces obligations sont dans une relation d’exécution/contre-exécution avec notre créance devant être compensée. Toute autre compensation est exclue.
 
   
 
-**5\. Prix et modes de paiement**
+**4\. Livraison et réserve de propriété**
 
-5.1 Les prix en vigueur sont ceux indiqués au moment de la commande. Tous les prix incluent la taxe sur la valeur ajoutée en vigueur.
+4.1 Nous sommes autorisés à effectuer des livraisons partielles dans la mesure habituelle.
 
-5.2 Le paiement de la marchandise s’effectue au choix selon les modes de paiement proposés lors du processus de commande et dans les conditions qui y sont précisées. Nous nous réservons le droit d’exclure certains modes de paiement en fonction du résultat de la vérification de vos données (vérification d’identité et de solvabilité).
+4.2 La marchandise reste notre propriété jusqu’au paiement intégral du prix.
 
-5.3 En cas de livraison sur facture, vous vous engagez à payer le montant de la facture dans les 14 jours suivant la réception de la marchandise. Dans le cas d’un retour d’articles effectué avant ce délai, le montant de la facture peut être réduit en conséquence.
-
-5.4 En cas de retard de paiement, nous nous réservons le droit de vous facturer des frais forfaitaires de recouvrement à hauteur de 5,99 EUR € à partir de la deuxième lettre de relance ainsi que pour toutes les suivantes, indépendamment du fait que la première lettre de relance vous soit parvenue par courrier ou par e-mail. Vous avez cependant le droit d’apporter la preuve que le dommage qui nous a été occasionné est moins important que le forfait susmentionné. En cas de retard de paiement, vous vous engagez à nous rembourser tous les frais, dépenses et décaissements que nous avons encourus en raison de la poursuite de nos réclamations. Cela inclut également, sans préjudice d’une obligation procédurale de remboursement des frais, tous les frais extrajudiciaires d’une agence de recouvrement ou d’un avocat mandaté.
-
-5.5 Vous avez la possibilité de faire valoir des droits de rétention contre notre créance de paiement, droits qui vous reviennent ou qui résultent d’une autre manière de la même relation contractuelle. Vous ne disposez d’aucun autre droit de rétention.
-
-5.6 Vous avez le droit de compenser une créance incontestée ou légalement établie avec notre créance de paiement. En outre, vous avez le droit de compenser une créance résultant du fait que nous n’avons pas rempli nos obligations ou que nous ne les avons pas remplies correctement, si ces obligations sont dans une relation d’exécution/contre-exécution avec notre créance devant être compensée. Toute autre compensation est exclue.
+4.3 Si l’emballage est endommagé au moment de la livraison au point d’en endommager le contenu, vous êtes tenu(e) de vous plaindre immédiatement au livreur, de refuser la réception et de nous en informer afin que nous puissions faire valoir nos droits auprès de l’expéditeur. Vos droits de révocation, de garantie ainsi que tous les autres droits ne sont pas affectés par cette disposition.
 
   
 
-﻿**6. Livraison et réserve de propriété**
+**5\. Information légale relative au renvoi**
 
-6.1 Nous sommes autorisés à effectuer des livraisons partielles dans la mesure habituelle.
-
-6.2 La marchandise reste notre propriété jusqu’au paiement intégral du prix.
-
-6.3 Si l’emballage est endommagé au moment de la livraison au point d’en endommager le contenu, vous êtes tenu(e) de vous plaindre immédiatement au livreur, de refuser la réception et de nous en informer afin que nous puissions faire valoir nos droits auprès de l’expéditeur. Vos droits de révocation, de garantie ainsi que tous les autres droits ne sont pas affectés par cette disposition.
-
-  
-
-﻿**7. Information légale relative au renvoi**
-
-7.1 Droit de rétractation
+5.1 Droit de rétractation
 
 Vous avez le droit de résilier le présent contrat dans un délai de quatorze jours sans en indiquer le motif. Le délai de rétractation est de quatorze jours à compter du jour où vous, ou un tiers désigné par vous qui n’est pas transporteur, avez pris possession de la marchandise.
 
@@ -143,7 +113,7 @@ Pour respecter le délai de rétractation, il vous suffit d’envoyer la notific
 
   
 
-7.2 Conséquences d’une rétractation
+5.2 Conséquences d’une rétractation
 
 Si vous révoquez le présent contrat, nous devons vous rembourser tous les paiements que nous avons reçus de votre part, y compris les frais de livraison (à l’exception des frais qui résultent du fait que vous avez choisi un autre type de livraison que la livraison standard la plus avantageuse que nous proposons), dans les plus brefs délais et au plus tard quatorze jours à compter de la date à laquelle la signification de votre révocation du présent contrat ou l’objet est réceptionné chez nous. Pour ce remboursement, nous utilisons le même moyen de paiement que vous avez utilisé lors de la transaction initiale, sauf accord exprès contraire passé avec vous ; en aucun cas ce remboursement n’entrainera le calcul d’indemnités en votre faveur.
 
@@ -159,7 +129,7 @@ Il n’existe aucun droit de rétractation pour les contrats relatifs à la livr
 
   
 
-﻿**8. Garantie**
+**6\. Garantie**
 
 Information sur le délai de garantie légal :
 
@@ -183,7 +153,7 @@ Allemagne
 
   
 
-﻿**9. Droit d’auteur et marques**
+**7\. Droit d’auteur et marques**
 
 Le contenu intégral du site Internet, y compris les textes, graphiques, photos, images, images animées, bruitages, illustrations et logiciels, est notre propriété ou celle de nos sociétés apparentées, de nos licenciés et/ou de nos fournisseurs de contenu. Ces contenus sont protégés par des droits d’auteur et autres droits. Leur utilisation requiert impérativement notre autorisation expresse.
 
@@ -191,13 +161,13 @@ Sauf indication contraire, toutes les marques utilisées sur le site Internet no
 
   
 
-﻿**10. Droit applicable**
+**8\. Droit applicable**
 
 Le présent contrat est régi par le droit de la République fédérale d’Allemagne. Les prescriptions coercitives de votre pays de résidence en sont exclues. L’application de la Convention des Nations Unies sur les contrats de vente internationale de marchandises est exclue.
 
   
 
-﻿**11. Éditeur/exploitant de la boutique en ligne**
+**9\. Éditeur/exploitant de la boutique en ligne**
 
 Responsable du développement et de l’exploitation de la boutique en ligne Esprit :
 
@@ -283,6 +253,6 @@ L’Esprit Retail B.V & Co. KG n’est ni prête ni tenue de participer au proce
 
   
 
-﻿**14. Autres**
+**10\. Autres**
 
-Les présentes CGV ont été rédigées le 17.12.2020. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
+Les présentes CGV ont été rédigées le 28.05.2024. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
