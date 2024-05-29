@@ -38,7 +38,7 @@ Depuis l'Autriche au 0800 70 10 07 (numéro gratuit) du lundi au vendredi de 9h 
   
 Depuis l'Irlande au 1 800 83 22 86 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
-Depuis les Pays-Bas au 0800 251 21 24 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
+Depuis les Pays-Bas au 0800 251 21 24 (num��ro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
   
 Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9h à 19h et le samedi de 9h à 18h.  
    
@@ -559,7 +559,7 @@ La présente stipulation ne fait pas obstacle à une réclamation ultérieure du
 
 Lors de la réception ou du retrait de votre commande, vous devez vérifier l’état du (des) colis reçus et signaler toute non-conformité sur le bon de livraison ou refuser la livraison.
 
-Dans le cas où, après acceptation du colis, vous constateriez que le produit commandé est ab��mé, vous pouvez nous le signaler :
+Dans le cas où, après acceptation du colis, vous constateriez que le produit commandé est abîmé, vous pouvez nous le signaler :
 
 \- en contactant le Service Client de CDISCOUNT ; ou
 
