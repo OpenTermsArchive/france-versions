@@ -85,7 +85,6 @@
     * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
-    * [Robes](https://www.printemps.com/fr/fr/robes-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
     * [Sous-Vêtements Et Pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
     * [Sweats Et Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
