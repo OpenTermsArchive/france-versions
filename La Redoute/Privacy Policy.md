@@ -5,7 +5,7 @@ POLITIQUE DE CONFIDENTIALITÉ
 
 Soucieuse de la protection de votre vie privée, la Redoute s’engage à assurer le meilleur niveau de protection de vos données à caractère personnel.
 
-Dans le cadre de ses activités, la Redoute mets à disposition de ses clients un service de e-commerce (ci a-près le « Service ») accessible depuis les sites internet [www.laredoute.fr](http://www.laredoute.fr/), un site mobile m.laredoute.fr et depuis une application compatible pour smartphone et tablette sur iOS et Android.
+Dans le cadre de ses activités, la Redoute mets à disposition de ses clients un service de e-commerce (ci a-près le « Service ») accessible depuis les sites internet [www.laredoute.fr](https://www.laredoute.fr/), un site mobile m.laredoute.fr et depuis une application compatible pour smartphone et tablette sur iOS et Android.
 
 Pour délivrer son Service, la Redoute traite des données à caractère personnel de ses clients. La collecte de données s’effectue sur le site internet de la Redoute, sur les applications mobiles, par téléphone, en magasin ou lors de la réception de commande papier.
 
@@ -236,7 +236,7 @@ En cas de l’exercice d’un droit d’opposition au profilage marketing, l’u
 5.4. Que faire ensuite ?
 ------------------------
 
-En cas de non réponse ou de réponse non satisfaisante, la personne concernée à la faculté de saisir la Commission Nationale de l’Informatique et des Libertés (CNIL) à l’adresse : [www.cnil.fr](https://www.laredoute.fr/www.cnil.fr)
+En cas de non réponse ou de réponse non satisfaisante, la personne concernée à la faculté de saisir la Commission Nationale de l’Informatique et des Libertés (CNIL) à l’adresse : [www.cnil.fr](https://cnil.fr/fr)
 
 5.5. Quel est le sort de mes donnees après mon décès ?
 ------------------------------------------------------
@@ -460,7 +460,7 @@ Vous pouvez à tout moment désactiver ces notifications dans les réglages de v
 
 La Redoute est susceptible de transmettre vos coordonnées téléponiques à des partenaires (liste des partenaires au Point 4 de la présente politique).
 
-Si vous ne souhaitez pas être sollicité, vous avez la possibilité d’exercer vos droits conformément au Point 5 « Mes droits » et vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site [www.bloctel.gouv.fr](https://www.laredoute.fr/www.bloctel.gouv.fr) ou d’exercer votre droit d’opposition auprès de la Redoute en suivant les instructions de la rubrique « Quels sont mes droits sur les données ? ».
+Si vous ne souhaitez pas être sollicité, vous avez la possibilité d’exercer vos droits conformément au Point 5 « Mes droits » et vous inscrire sur la liste d’opposition au démarchage téléphonique accessible sur le site [www.bloctel.gouv.fr](https://www.bloctel.gouv.fr/) ou d’exercer votre droit d’opposition auprès de la Redoute en suivant les instructions de la rubrique « Quels sont mes droits sur les données ? ».
 
 12.7. Prospection commerciale par voie postale
 ----------------------------------------------
@@ -583,7 +583,7 @@ Pour vous y opposer, [cliquez ici](https://liveramp.fr/retirer-votre-consentemen
     Vous bénéficiez d’un droit d’accès, de rectification, de portabilité, d’effacement de vos données personnelles, d’un droit de définir des directives relatives au sort de vos données post-mortem ou de limitation du traitement vous concernant.  
     Vous pouvez exercer ces droits en respectant les instructions dans la rubrique « Mes Droits sur les Données ».
 
-Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet [http://www.youronlinechoices.com/fr/controler-ses-cookies/](http://www.youronlinechoices.com/fr/controler-ses-cookies/).
+Vous avez également la possibilité de vous opposer au dépôt des cookies en accédant au site internet [https://www.youronlinechoices.com/fr/controler-ses-cookies/](https://www.youronlinechoices.com/fr/controler-ses-cookies/).
 
 14\. COMMENT CONTACTER LE DELEGUE A LA PROTECTION DES DONEES ?
 --------------------------------------------------------------
@@ -592,7 +592,7 @@ Le délégué à la protection des données nommé au sein de la Redoute a pour 
 
 Vous avez la possibilité de contacter le délégué à la protection des données à l’adresse dpo@redoute.fr
 
-Pour mieux connaître vos droits, rendez-vous sur le site [www.cnil.fr](https://www.laredoute.fr/www.cnil.fr)
+Pour mieux connaître vos droits, rendez-vous sur le site [www.cnil.fr](https://cnil.fr/)
 
 mise a jour du 18 juillet 2023 : [consulter](https://www.laredoute.fr/espace-mentions_legales_18_juillet_2023.aspx)
 
