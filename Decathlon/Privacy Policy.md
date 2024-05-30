@@ -591,7 +591,7 @@ Vos avis sont publiés pour une durée de 12 mois, anonymisés au bout de 3 ans 
 
 Base légale
 
-Le traitement de vos données personnelles est mis en œuvre uniquement après le recueil de votre consentement.
+Les demandes d'avis sur vos expériences avec Decathlon (Achat/Livraison etc...) reposent sur l'intérêt légitime du responsable de traitement (DECATHLON).
 
 Finalités
 
