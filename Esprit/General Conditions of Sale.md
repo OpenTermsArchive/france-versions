@@ -25,9 +25,9 @@ Pour tous les contrats de vente conclus via la boutique en ligne Esprit ou via l
 
 ﻿**2. Livraison/frais d’expédition**
 
-2.1 Le montant minimum de l´achat devrait être 24 EUR
+2.1 Le montant minimum de l´achat devrait être 29 EUR
 
-2.2 Le coût de la livraison standard est de 2,99 EUR.
+2.2 Le coût de la livraison standard est de 5,99 EUR.
 
 2.3 L’expédition de la marchandise a lieu 1 à 3 jours ouvrables à compter de la date de commande et sous réserve de l’exactitude des données communiquées (vérification de la solvabilité et de l’identité).
 
@@ -255,4 +255,4 @@ L’Esprit Retail B.V & Co. KG n’est ni prête ni tenue de participer au proce
 
 **10\. Autres**
 
-Les présentes CGV ont été rédigées le 28.05.2024. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
+Les présentes CGV ont été rédigées le 30.05.2024. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
