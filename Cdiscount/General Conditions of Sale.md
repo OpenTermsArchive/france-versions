@@ -696,7 +696,7 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 \-          Les biens qui ont été descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d'hygiène ou de protection de la santé : c’est par exemple le cas des articles textiles livrés avec des scellés d’hygiène (sous-vêtements, maillots de bain, etc.) lorsque ceux-ci auront été retirés, les produits du rayon Bijoux tels que les piercings et boucles d'oreilles, etc...  
   
-\-          Les biens qui, après avoir ��té livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
+\-          Les biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
   
 \-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
 \-          La fourniture de journaux, de périodiques ou de magazines ;
