@@ -1,7 +1,8 @@
 Protection de la vie privée & Cookies
 =====================================
 
-Cette page comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [vertbaudet.fr](https://www.vertbaudet.fr/).  
+Ce document comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [www.vertbaudet.fr](https://www.vertbaudet.fr/) (ci-après « le Site »).  
+Par ailleurs, VERTBAUDET intervient en qualité de sous-traitant de Envie de Fraise pour tous les traitements de données personnelles. A ce titre, les présentes dispositions s’appliquent aux données personnelles des Clients de la société Envie de Fraise.  
   
 
 DEFINITIONS
@@ -47,7 +48,7 @@ tout texte relevant de la vie privée et du secret professionnel.
 
 VERTBAUDET SAS
 
-Siège social : 36, avenue Alfred Lefrançois – 59700 TOURCOING
+Siège social : 36, avenue Alfred Lefrançois – 59200 TOURCOING
 
 RCS Lille Métropole 397 555 327
 
@@ -70,6 +71,10 @@ Conformément à l’article 26 du RGPD, VERTBAUDET a conclu un accord de respon
   
 La présente Politique de Traitement des Données Personnelles est applicable aux situations dans lesquelles VERTBAUDET est Responsable de traitement ou Co-responsable de traitement.
 
+**VERTBAUDET est Sous-traitant :**  
+  
+VERTBAUDET met en œuvre des traitements de données à caractère personnel vous concernant pour l’exécution des commandes de produits ENVIE DE FRAISE qu’elle traite en qualité de sous-traitant pour le compte de ENVIE DE FRAISE, Responsable de Traitement.
+
 2\. Collecte et traitement de vos données
 -----------------------------------------
 
@@ -82,7 +87,7 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
 * Pour la gestion des commandes en magasin et en ligne (à l'exception des produits de la Marketplace) : le traitement, le suivi, la livraison, la facturation, le service après-vente et la garantie des commandes.  
     Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
     
-* Pour la gestion des commandes via la Marketplace : la gestion des paiements et des réclamations.  
+* Pour la gestion des commandes via la Marketplace : la gestion des paiements et des réclamations, la transmission au vendeur des informations nécessaires à l’exécution de la commande.  
     Le fondement juridique est l'exécution d'un contrat auquel vous êtes partie.
     
 * Pour la mise à disposition de la Marketplace et ses fonctionnalités : l'inscription des vendeurs, la mise en relation entre les acheteurs et les vendeurs.  
@@ -95,9 +100,6 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
     Le fondement juridique est l'exécution d'un contrat ou une mesure précontractuelle à votre demande, ou l'intérêt légitime de VERTBAUDET, selon les circonstances.
     
 * Pour la prospection commerciale par VERTBAUDET : l'envoi de communications commerciales, le contact pour finaliser des achats, la gestion de jeux-concours et événements.  
-    Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
-    
-* Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
     
 * Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
@@ -122,11 +124,11 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
     Le fondement juridique est votre consentement lorsque nécessaire, ou l'intérêt légitime de VERTBAUDET.
     
 
-Lors de vos visites sur notre site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires, notamment lors de la création de votre compte client.  
+Lors de vos visites sur notre Site, nous pouvons vous demander des informations par le biais de questionnaires, formulaires, notamment lors de la création de votre compte client.  
   
 Les informations demandées, signalées par un astérisque, sont requises aux fins de la réalisation de la prestation fournie par VERTBAUDET. Elles sont nécessaires au traitement de vos demandes. En cas de non réponse, VERTBAUDET ne pourra réaliser la prestation.  
   
-Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libre de ne pas y répondre.
+Les autres informations sont destinées à mieux vous connaître et sont, par conséquent, facultatives. Vous êtes libres de ne pas y répondre.
 
 ### 2.2. Sous-traitants & destinataires
 
@@ -177,7 +179,7 @@ Avec ses ayants droit.
 
 #### Sont-elles transférées en dehors de l’Union Européenne ?
 
-VERTBAUDET est présent à travers différents pays mais vos données personnelles ne sont stockées que sur des serveurs sécurisés situés en France. Néanmoins, afin d'opérer certaines prestations, il se peut que VERTBAUDET soit amené à faire transiter vos données à travers des serveurs qui peuvent être situés dans le monde entier ou donne accès aux données personnelles à des prestataires situés à l’étranger.  
+VERTBAUDET est présent à travers différents pays mais vos données personnelles ne sont stockées que sur des serveurs sécurisés situés dans l’Union Européenne. Néanmoins, afin d'opérer certaines prestations, il se peut que VERTBAUDET soit amené à faire transiter vos données à travers des serveurs qui peuvent être situés dans le monde entier ou donne accès aux données personnelles à des prestataires situés à l’étranger.  
   
 VERTBAUDET prendra alors naturellement des mesures appropriées pour maintenir la sécurité des informations personnelles pendant le transfert et à la réception de ces informations. Les sous-traitants et prestataires seront liés par contrat avec VERTBAUDET, qui intègrera les clauses contractuelles types (telles que publiées par la Commission Européenne). VERTBAUDET exige par ailleurs de ses sous-traitants et prestataires qu’ils garantissent un niveau de sécurité, de confidentialité et de protection suffisant de la vie privée et des droits fondamentaux.
 
@@ -234,8 +236,8 @@ Grâce à l’installation de cookies publicitaires, et sous réserve que vous y
 5\. Les réseaux sociaux
 -----------------------
 
-Notre Site utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que Facebook, « Google+ », « Twitter », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
-S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte. Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de VERTBAUDET à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter le site.  
+Notre Site utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que « Facebook», « Instagram », « Twitter », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
+S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte. Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de VERTBAUDET à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter le Site.  
 Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.
 
 6\. Cookies ou témoins de connexion
@@ -244,13 +246,13 @@ Nous vous invitons à consulter les politiques de protection de la vie privée d
 Le terme cookie englobe plusieurs technologies permettant d’opérer un suivi de navigation ou une analyse comportementale de l’internaute. Un fichier Cookie permet à son émetteur d'identifier le terminal dans lequel il est enregistré, pendant la durée de validité ou d'enregistrement du Cookie.  
 Ces technologies sont multiples et en constante évolution. Il existe notamment, les cookies, tag, pixel, code Javascript etc.
 
-Lors de la consultation de notre site, et sous réserve que vous y ayez consenti, des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers « Cookies » installés sur votre terminal (ordinateur, tablette, smartphone, etc.), afin de nous permettre de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts.  
-Lors de votre première navigation sur le site, nous demandons votre autorisation pour l’installation de cookies. Vous pouvez revenir sur votre décision selon la procédure décrite ci-après.  
-Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de notre site.
+Lors de la consultation de notre Site, et sous réserve que vous y ayez consenti, des informations relatives à votre navigation sont susceptibles d'être enregistrées par l’intermédiaire de fichiers « Cookies » installés sur votre terminal (ordinateur, tablette, smartphone, etc.), afin de nous permettre de vous proposer des offres personnalisés, adaptées à vos centres d’intérêts.  
+Lors de votre première navigation sur le Site, nous demandons votre autorisation pour l’installation de cookies. Vous pouvez revenir sur votre décision selon la procédure décrite ci-après.  
+Ces cookies sont émis par nous-même dans le but de faciliter votre navigation sur notre site. Ils peuvent être émis par nos partenaires afin de personnaliser l’offre publicitaire qui vous est adressée en dehors de notre Site.
 
 ### 6.1. Les cookies Vertbaudet
 
-Lorsque vous vous connectez à notre Site Internet, nous pouvons être amenés, sous réserve de vos choix à installer divers cookies dans votre terminal
+Lorsque vous vous connectez à notre Site, nous pouvons être amenés, sous réserve de vos choix à installer divers cookies dans votre terminal
 
 * Cookies analytiques dont l'objectif d’établir des statistiques de fréquentation (nombre de visites, de pages vues, d’abandon dans le processus de commande,etc.) afin de suivre et d’améliorer la qualité de nos services.
     
@@ -375,7 +377,7 @@ Les partenaires de Vertbaudet, ci-dessous listés, déposent des cookies dans le
 * Pinterest : [https://policy.pinterest.com/fr/cookies](https://policy.pinterest.com/fr/cookies)
 * Commander Acts : [https://www.commandersact.com/fr/vie-privee/](https://www.commandersact.com/fr/vie-privee/)
 * Powerspace : [https://powerspace.com/privacy/](https://powerspace.com/privacy/)
-* Epsilon : Epsilon utilise les cookies (ou autre type de données) avoir accès / stocker des informations sur le device du consommateur (avec la possibilité pour l’utilisateur de consentir ou non à l’utilisation de ces données) au titre des finalités suivantes : Stocker et/ou accéder à des informations sur un terminal, sélectionner des publicités standard, créer un profil personnalisé de publicités, sélectionner des publicités personnalisées, créer un profil pour afficher un contenu personnalisé, sélectionner du contenu personnalisé, mesurer la performance des publicités, exploiter des études de marché afin de générer des données d’audience, développer et améliorer les produits, assurer la sécurité, prévenir la fraude et déboguer, diffuser techniquement les publicités ou le contenu, mettre en correspondance et combiner des sources de données hors ligne, relier différents terminaux, recevoir et utiliser des caractéristiques d’identification d’appareil envoyées automatiquement.  
+* Epsilon : Epsilon utilise les cookies (ou autre type de données) avoir accès / stocker des informations sur l'appareil du consommateur (avec la possibilité pour l’utilisateur de consentir ou non à l’utilisation de ces données) au titre des finalités suivantes : Stocker et/ou accéder à des informations sur un terminal, sélectionner des publicités standard, créer un profil personnalisé de publicités, sélectionner des publicités personnalisées, créer un profil pour afficher un contenu personnalisé, sélectionner du contenu personnalisé, mesurer la performance des publicités, exploiter des études de marché afin de générer des données d’audience, développer et améliorer les produits, assurer la sécurité, prévenir la fraude et déboguer, diffuser techniquement les publicités ou le contenu, mettre en correspondance et combiner des sources de données hors ligne, relier différents terminaux, recevoir et utiliser des caractéristiques d’identification d’appareil envoyées automatiquement.  
     Vous pouvez consulter la politique d’Epsilon/Conversant en matière de vie privée [ici](https://www.epsilon.com/emea/privacy-policy).
 
 7\. Vos droits
@@ -395,13 +397,13 @@ Vous avez également la possibilité de nous faire part du sort que vous souhait
 Vous pouvez les exercer, sous réserve de la fourniture d’une pièce justificative d’identité, par les différents moyens suivants :  
   
 
-* Procéder directement à la mise à jour de vos données personnelles et préférences dans la rubrique « Mon compte » de notre site
+* Procéder directement à la mise à jour de vos données personnelles et préférences dans la rubrique « Mon compte » de notre Site
 * Nous contacter via le formulaire dédié en cliquant sur ce lien « Contactez-nous », rubrique « Mes données personnelles »
 * Vous désabonner des offres commerciales envoyées par email en cliquant sur le lien de désabonnement figurant en bas de chaque email publicitaire envoyé,
 * Vous désabonner des offres commerciales envoyées par SMS en répondant répondre « STOP» sur un numéro non surtaxé
 * Déterminer vos préférences en matière de Cookies selon les modalités décrites ci-dessus
 * Contacter le délégué à la protection des données à l’adresse suivante : [dpo@vertbaudet.com](https://www.vertbaudet.fr/page/dpo@vertbaudet.com).
-* Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 36, avenue Alfred Lefrançois – 59700 Tourcoing
+* Nous écrire à l’adresse postale suivante VERTBAUDET – Relations Clients – 36, avenue Alfred Lefrançois – 59200 Tourcoing
 
 N'oubliez pas de mentionner toutes vos coordonnées (nom, prénom, adresse, email et si possible n° de client...) afin que nous puissions faire le nécessaire dans les meilleurs délais.
 
