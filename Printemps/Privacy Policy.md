@@ -73,8 +73,6 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-*  [![](https://media-cdn.printemps.com/image/88/2/6213882.jpg) LIPAULT PARIS](https://www.printemps.com/fr/fr/lipaultparis-femme)
-    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
@@ -145,20 +143,18 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-*  [![](https://media-cdn.printemps.com/image/88/1/6213881.jpg) SAMSONITE](https://www.printemps.com/fr/fr/samsonite-homme)
-    
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
+    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
+    * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
-    * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
     * [Eaux De Cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
+    * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
     * [Extrait De Parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
     * [Soins Parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
     * [Voir tout](https://www.printemps.com/fr/fr/parfum)
