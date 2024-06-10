@@ -1,6 +1,6 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 14 mars 2024
+Mise à jour du 10 juin 2024
 ====================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
@@ -16,8 +16,7 @@ Conformément aux articles R. 541-167 et suivants du Code de l’Environnement, 
 | --- | --- | --- |
 | **Eco-organisme** | **Filière** | **Identifiant unique** |
 | REFASHION (Eco TLC) | Textile - linge de maison - chaussures | **FR218618\_11UNYX** |
-| Eco-emballages | Emballages (de livraison) | **FR218618\_01GYJM** |
-| Eco-folio | Catalogues papier | **FR218618\_03BTAT** |
+| Citéo (EMPG) | Emballages ménagers et papiers graphiques | **FR218618\_01GYJM** |
 | Ecomaison | Eléments d’ameublement | **FR001914\_1028QB** |
 | Ecomaison | Jouets | **FR218618\_12ETHZ** |
 | Ecomaison | Articles de bricolage et de jardin | **FR218618\_14DTRY** |
@@ -101,7 +100,7 @@ En cas de Produits épuisés ou indisponibles, le montant de ces Produits vous s
 
 **\- avec une carte cadeau illicado, Cadhoc, Spirit of Cadeau, CA DO Carte, ou la carte cadeau LA REDOUTE** : Le montant de vos achats sera débité immédiatement, même en cas d'articles en différé de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire ou une des cartes Printemps, Mille et une listes ou Kangourou. Reportez-vous aux conditions d'utilisation et restrictions éventuelles applicables à votre carte cadeau. La carte cadeau LA REDOUTE ne peut être achetée avec des cartes cadeaux.
 
-L’utilisation d’une carte cadeau illicado, Cadhoc, Spirit of Cadeau, CA DO Carte, achetée en magasin ou sur Internet sera plafonnée à hauteur de 250€ par commande. Pour toute information complémentaire, vous pouvez vous rapprocher du service client de votre Carte Cadeau.
+L’utilisation d’une carte cadeau illicado, Cadhoc, Spirit of Cadeau, CA DO Carte, achetée en magasin ou sur Internet sera plafonnée à hauteur de 50€ par commande et celle émise ou transmise par un Comité d’Entreprise sera plafonnée à hauteur de 250€ par commande. Pour toute information complémentaire, vous pouvez vous rapprocher du service client de votre Carte Cadeau.
 
 06 - Livraison
 --------------
@@ -137,7 +136,7 @@ Les délais de services indiqués ci-après ne sont pas garantis pendant certain
 | --- | --- | --- |
 | En point de retrait | En 2 à 3 jours ouvrés | **Gratuit dès 39€ d'achats**  <br>Sinon 5,95€ |
 | A domicile | En 3 à 7 jours ouvrés | 6,95 € |
-| En 24 à 48h ouvrés | 9,95 € |
+| En 24 à 48h ouvrés | 12,95 € |
 
   
 Pour le retrait de la commande de Produits en point de retrait, une pièce d'identité en vigueur sera exigée. A défaut, les Produits commandés ne pourront vous être remis.
