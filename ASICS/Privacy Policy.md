@@ -187,6 +187,8 @@ Les juridictions suivantes sont associées à des règles et des droits supplém
 
 [**États-Unis**](https://legal.asics.com/en-us/legal/local-deviations#US)
 
+[**Canada**](https://legal.asics.com/en-ca/legal/local-deviations)
+
 [**Brésil**](https://legal.asics.com/pt-bz/legal/local-deviations)
 
 [**Australie**](https://legal.asics.com/en-aop/legal/local-deviations)
