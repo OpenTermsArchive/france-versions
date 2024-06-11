@@ -1,5 +1,42 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
+* [Femme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/V%C3%AAtements)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Accessoires)
+
+* [Homme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Chaussures)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Sacs)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Accessoires)
+
+* [Beauté](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Maquillage)
+
+* [Top catégories](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/esp/Sacs)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/cat0/Baskets)
+    * [Robes](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/cat0/Robes)
+    * [Chemises](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/cat0/Chemises)
+    * [Tops et T-shirts](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/cat0/Tops+et+t-shirts)
+
+* [Top marques](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/POLO+RALPH+LAUREN)
+    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/TOMMY+HILFIGER)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/CALVIN+KLEIN)
+    * [Veja](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/VEJA)
+    * [New Balance](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/NEW+BALANCE)
+    * [Marc Jacobs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/MARC+JACOBS)
+* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+    
+
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-femme)
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
@@ -22,8 +59,8 @@
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
-    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
+    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-femme)
     * [Mules](https://www.printemps.com/fr/fr/mules-femme)
@@ -35,17 +72,17 @@
 * [Sacs](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-femme)
     * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-femme)
-    * [Bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Cabas](https://www.printemps.com/fr/fr/cabas-femme)
     * [Mini Sacs](https://www.printemps.com/fr/fr/mini-sacs-femme)
     * [Paniers](https://www.printemps.com/fr/fr/paniers-femme)
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs Bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -64,15 +101,20 @@
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 
+* [Avant-premières](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    
 * [Top marques](https://www.printemps.com/fr/fr/marques-femme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme)
     * [Autry](https://www.printemps.com/fr/fr/autry-femme)
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/tout-vetement-femme)
+* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    
+*  [![](https://media-cdn.printemps.com/image/98/8/6347988.jpg) Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -80,8 +122,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-homme)
     * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
+    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
@@ -93,10 +135,10 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
-    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-homme)
+    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme)
     * [Mules](https://www.printemps.com/fr/fr/mules-homme)
     * [Sandales](https://www.printemps.com/fr/fr/sandales-homme)
@@ -106,15 +148,15 @@
 * [Sacs](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
-    * [Bananes](https://www.printemps.com/fr/fr/bananes-homme)
     * [Cabas](https://www.printemps.com/fr/fr/cabas-homme)
     * [Mini Sacs](https://www.printemps.com/fr/fr/mini-sacs-homme)
     * [Paniers](https://www.printemps.com/fr/fr/paniers-homme)
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
@@ -135,6 +177,8 @@
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
 
+* [Avant-premières](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    
 * [Top marques](https://www.printemps.com/fr/fr/marques-homme)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
@@ -143,16 +187,19 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-*  [![](https://media-cdn.printemps.com/image/95/1/6073951.jpg) \-15% sur tout\*](https://www.printemps.com/fr/fr/tout-vetement-homme)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    
+*  [![](https://media-cdn.printemps.com/image/98/7/6347987.jpg) STONE ISLAND](https://www.printemps.com/fr/fr/stone-island-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
-    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -177,18 +224,22 @@
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
 
+* [Avant-premières](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    
 * [Top marques](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
     * [Hermès](https://www.printemps.com/fr/fr/hermes-beaute)
-    * [Parfums De Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
+    * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
-    * [Trouver Mon Magasin](https://www.printemps.com/fr/fr/magasins)
-    * [Actualités Magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
     * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
     * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
@@ -199,21 +250,22 @@
     * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Voir Tout](https://www.printemps.com/fr/fr/magasins)
+    * [Voir tout](https://www.printemps.com/fr/fr/magasins)
 
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
     * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
-    * [Click & Collect, Livraison Et Retours](https://www.printemps.com/fr/fr/livraisons-retours)
-    * [Shopping À Distance](https://www.printemps.com/fr/fr/shopping-a-distance)
-    * [La Carte Cadeau](https://cartescadeaux.printemps.com/)
-    * [Offre De Parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
+    * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
+    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+    * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+    * [La carte cadeau](https://cartescadeaux.printemps.com/)
+    * [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
     * [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
-    * [Conférences Et Ateliers](https://evenements.printemps.com/)
-    * [Voir Tout](https://www.printemps.com/fr/fr/a-votre-service)
+    * [Conférences et ateliers](https://evenements.printemps.com/)
+    * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
 
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    * [Voir Tous Nos Restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 Mise à jour du 26/04/2023
 
@@ -544,7 +596,7 @@ Dès que le colis est récupéré par Chronopost, il peut être suivi sur [www.c
 
   
 
-Livraisons offertes dès 200 euros d'achat hors produits Braderie
+Livraisons offertes dès 200 euros d'achat (hors produits Braderie)
 
   
 
@@ -568,15 +620,13 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
 **Union Européenne**
 
-Livraisons standard offertes dès 300 euros d'achat hors produits Braderie
+Livraisons standard offertes dès 200 euros d'achat (hors produits Braderie)
 
   
 
 **CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 4 jours)
 
-Livraison standard à domicile pour les pays suivants :
-
-Allemagne, Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
+Livraison standard à domicile pour les pays suivants : Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
   
 
@@ -594,13 +644,12 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 
 **CHRONO EXPRESS INTERNATIONAL** (en 24h)
 
-La livraison express à domicile est disponible pour les pays suivants : Allemagne, Autriche, Belgique, Irlande, Luxembourg et Pays-Bas.
+La livraison express à domicile est disponible pour les pays suivants : Autriche, Belgique, Irlande, Luxembourg et Pays-Bas.
 
 Le délai de livraison est de 1 jour ouvré.
 
 Le prix varie selon le pays de destination :
 
-* 19€ pour l'Allemagne
 * 17€ pour la Belgique, le Luxembourg et les Pays-Bas
 * 15€ pour l'Irlande
 * 22€ pour l'Autriche
@@ -611,7 +660,7 @@ Le prix varie selon le pays de destination :
 
   
 
-Livraisons offertes dès 300 euros d'achat hors produits Braderie
+Livraisons offertes dès 200 euros d'achat (hors produits Braderie)
 
   
 
