@@ -187,8 +187,6 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-*  [![](https://media-cdn.printemps.com/image/69/3/6335693.jpg) SOINS SOLAIRES](https://www.printemps.com/fr/fr/soins-solaires)
-    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
