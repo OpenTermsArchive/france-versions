@@ -90,18 +90,18 @@ En revanche les Cartes Cadeaux (même celles achetées en ligne, fournies par de
   
 Les commandes d’articles personnalisés peuvent être payées seulement par Paypal et Carte de crédit.  
   
-\- **BONS DE RÉDUCTION FIDÉLITÉ** : ces bons, qui font partie des récompenses du programme Family Card, permettent de bénéficier d'une réduction à valoir sur les achats effectués sur le site ou dans les points de vente United Colors of Benetton et Undercolors of Benetton participants. Dans le panier, si un bon de réduction fidélité est disponible, la mention « Sélectionnez un bon pour l’appliquer à la commande » apparaît ; sélectionner le bon de réduction correspondant et cliquer sur la flèche pour l’appliquer à la commande.  
+\- **BONS DE RÉDUCTION FIDÉLITÉ INDIQUANT UNE VALEUR** : ces bons de réduction, qui font partie des récompenses du programme The Colors Club, permettent de bénéficier d’une réduction à valoir sur les achats effectués sur le site ou dans les points de vente United Colors of Benetton et Undercolors of Benetton participants. Dans le panier, si un bon de réduction fidélité est disponible, la mention « Sélectionnez le bon de réduction que vous souhaitez utiliser pour cette commande » apparaît. Sélectionnez le bon de réduction correspondant et cliquez sur « Appliquez » pour l’appliquer à la commande.  
 Il est précisé que le bon de réduction fidélité :  
 \- ne peut être utilisé lors de l’achat d’articles en soldes ou faisant l'objet d’autres promotions ;  
 \- n’est utilisable qu'une seule fois ;  
 \- n’est pas fractionnable ;  
 \- n’est pas convertible en espèces ;  
 \- ne donne pas droit au rendu de la monnaie ;  
-\- est cumulable sur le même ticket de caisse avec d’autres bons de réduction standards ;  
-\- n’est pas cumulable avec d’autres promotions Family Card ;  
+\- est cumulable sur le même ticket de caisse avec d’autres bons de réduction The Colors Club indiquant une valeur de la même typologie (mais pas avec des bons de réduction en pourcentage);  
+\- non cumulable avec d’autres promotions ou bons de réduction du précédent programme de fidélité Family Card ;  
 \- possède une date limite d'utilisation de 60 jours à partir de la date d’émission.  
   
-Si un utilisateur réalise un achat avec un bon de réduction fidélité, puis effectue un retour, le remboursement sera réalisé sur la valeur nette de réduction et le bon ne pourra pas être réaffecté (il sera ainsi considéré comme consommé).  
+Si un utilisateur réalise un achat avec un bon de réduction fidélité, puis effectue un retour, le remboursement sera réalisé sur la valeur nette de réduction et le bon de réduction ne pourra pas être réaffecté (il sera ainsi considéré comme consommé).  
   
 **5.2 Livraison  
   
