@@ -670,7 +670,10 @@ Conformément aux dispositions relatives à la responsabilité élargie du produ
 21 Médiation
 ------------
 
-Si un litige survient, tout client peut adresser une demande écrite auprès de SPARTOO, qui fera son maximum pour le résoudre. Si la tentative amiable de résolution échoue, une demande auprès d’un médiateur devra être adressée dans un délai d’un an à compter de la réclamation amiable. Le client pourra saisir la plateforme suivante de « règlement des litiges » pour régler tous litiges : [https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR)  
+Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, SPARTOO adhère au Service du Médiateur de la consommation FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - https://www.mediateurfevad.fr. Après démarches préalables écrites des consommateurs vis-à-vis de SPARTOO, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](https://www.mediateurfevad.fr/index.php/espace-consommateur/)  
+  
+  
+Au niveau européen, si un litige survient, tout client peut adresser une demande écrite auprès de SPARTOO, qui fera son maximum pour le résoudre. Si la tentative amiable de résolution échoue, une demande auprès d’un médiateur devra être adressée dans un délai d’un an à compter de la réclamation amiable. Le client pourra saisir la plateforme suivante de « règlement des litiges » pour régler tous litiges : [https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR)  
 Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco et autres pays francophones.
 
 22 Garantie
