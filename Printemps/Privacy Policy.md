@@ -78,11 +78,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs Bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
