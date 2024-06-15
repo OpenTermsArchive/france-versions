@@ -28,12 +28,12 @@
     * [Tops et T-shirts](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/cat0/Tops+et+t-shirts)
 
 * [Top marques](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+    * [Alexander McQueen](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/ALEXANDER+MCQUEEN)
+    * [Jacquemus](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/JACQUEMUS)
+    * [Jimmy Choo](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/JIMMY+CHOO)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/POLO+RALPH+LAUREN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/TOMMY+HILFIGER)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/CALVIN+KLEIN)
     * [Veja](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/VEJA)
-    * [New Balance](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/NEW+BALANCE)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/MARC+JACOBS)
 * [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
     
 
@@ -57,8 +57,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
@@ -135,8 +135,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
     * [Chaussures Plates](https://www.printemps.com/fr/fr/chaussures-plates-homme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme)
@@ -154,10 +154,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-homme)
+    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
-    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -195,11 +195,11 @@
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
