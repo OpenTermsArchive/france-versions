@@ -34,7 +34,7 @@
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/POLO+RALPH+LAUREN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/TOMMY+HILFIGER)
     * [Veja](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/VEJA)
-* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+* [![](https://media-cdn.printemps.com/image/74/5/6489745.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -42,8 +42,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
-    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
+    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme)
@@ -79,10 +79,10 @@
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-femme)
     * [Sacs Bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
-    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-femme)
-    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme)
+    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -112,7 +112,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+* [![](https://media-cdn.printemps.com/image/74/5/6489745.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     
 *  [![](https://media-cdn.printemps.com/image/98/8/6347988.jpg) Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     
@@ -154,10 +154,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs À Dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    * [Sacs Bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -188,7 +188,7 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/05/6/6423056.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+* [![](https://media-cdn.printemps.com/image/74/5/6489745.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
     
 *  [![](https://media-cdn.printemps.com/image/98/7/6347987.jpg) STONE ISLAND](https://www.printemps.com/fr/fr/stone-island-homme)
     
@@ -196,10 +196,10 @@
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Soins Du Visage](https://www.printemps.com/fr/fr/soins-visage)
+    * [Soins Du Corps](https://www.printemps.com/fr/fr/soins-corps)
     * [Soins De La Barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins Cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -266,6 +266,9 @@
 
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+
+* [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    
 
   
 
