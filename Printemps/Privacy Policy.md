@@ -161,7 +161,6 @@
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
-    * [Accessoires Cheveux](https://www.printemps.com/fr/fr/accessoires-cheveux-homme)
     * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
     * [Bretelles](https://www.printemps.com/fr/fr/bretelles-homme)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
@@ -268,7 +267,10 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    
+    * [La terrasse de l’été : Veuve Clicquot Sun Club Printemps](https://www.printemps.com/fr/fr/edito-magasins-sun-club-veuve-clicquot-printemps-haussmann-2024)
+    * [L’atrium de l’été Havaianas](https://www.printemps.com/fr/fr/edito-magasins-atrium-haussmann-havaianas-2024)
+    * [La marque Typology arrivée en exclusivité au Printemps](https://www.printemps.com/fr/fr/edito-magasins-typology-2024)
+    * [Le 7ème Ciel](https://www.printemps.com/fr/fr/edito-magasins-pop-up-7eciel-fevrier-2023)
 
   
 
