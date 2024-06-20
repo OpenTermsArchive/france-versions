@@ -133,8 +133,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-homme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme)
@@ -152,10 +152,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
