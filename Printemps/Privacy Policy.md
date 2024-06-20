@@ -229,7 +229,7 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-*  [![](https://media-cdn.printemps.com/image/42/8/6419428.jpg) DRIES VAN NOTEN](https://www.printemps.com/fr/fr/dries-van-noten-beaute?ap_source=anico&ap_medium=vignette_nav&ap_campaign=dries_van_noten)
+*  [![](https://media-cdn.printemps.com/image/42/8/6419428.jpg) DRIES VAN NOTEN](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=vignette_nav&ap_campaign=dries_van_noten)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
