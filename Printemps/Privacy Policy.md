@@ -78,9 +78,9 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
@@ -133,8 +133,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-homme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme)
@@ -229,8 +229,6 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-*  [![](https://media-cdn.printemps.com/image/42/8/6419428.jpg) DRIES VAN NOTEN](https://www.printemps.com/fr/fr/dries-van-noten-beaute?ap_source=anico&ap_medium=vignette_nav&ap_campaign=dries_van_noten)
-    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
