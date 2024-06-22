@@ -1185,7 +1185,7 @@ Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il 
 
 \-          se rendre dans la rubrique "Cdiscount à volonté" de son Espace Client, accessible via l'URL [www.cdiscount.com](https://www.cdiscount.com/) sur PC et tablette, à l'exception du site mobile, ainsi que sur les applications Android et iOS associées, et cliquer sur le bouton "Se désabonner" ;
 
-\-     ou contacter notre Service Client, disponible par téléphone, aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :  
+\-     ou contacter notre Service Client, disponible par téléphone, aux horaires indiqu��s sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :  
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
             - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
