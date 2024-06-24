@@ -1,7 +1,3 @@
-POLITIQUE DE CONFIDENTIALITÉ BZB
-================================
-
-  
 BZB SAS (ci-après « BZB » ou « Nous ») appartenant au Groupe Happychic, dont le siège social est situé 152 Avenue Alfred Motte, 59100 Roubaix, accorde la plus grande importance à la protection de vos données personnelles.  
   
 BZB s’engage, en qualité de responsable de traitement, à collecter et traiter vos données personnelles de manière transparente conformément au Règlement Général sur la Protection des Données (« RGPD ») et à la loi « Informatique et Libertés ».  
