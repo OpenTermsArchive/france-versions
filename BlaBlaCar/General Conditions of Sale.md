@@ -623,6 +623,8 @@ Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres
 **17\. Prime Covoiturage**
 --------------------------
 
+**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
+
 ### **17.1. Description de l’opération**
 
 Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’une Prime Covoiturage dans les conditions prévues notamment par les arrêtés du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie et du 2 décembre 2022 créant une bonification pour les fiches d’opérations standardisées relatives au covoiturage dans le cadre du dispositif des certificats d’économies d’énergie et les conditions ci-après.
