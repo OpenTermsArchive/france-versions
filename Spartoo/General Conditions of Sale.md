@@ -306,28 +306,9 @@ Coût de la livraison:
 
 \>\>>  
   
-  
-9.5 .Suisse  
-
-Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client (cf point 6).  
-  
-**Livraison à domicile par PostPac Eco :**  
-Délai : 5 jours environ.  
-Pour les produits dont le prix est barré (Soldes, Bons plans, ...) :  
-\- 2,99 CHF si la commande est inférieur à 30 €  
-\- Gratuit si la commande est supérieur à 30 €  
-  
-Pour les produits dont le prix n'est pas barré :  
-\- 2,99 CHF si inférieur à 30€ d'achats  
-\- Gratuit à partir de 30 € d'achats  
-  
-**Livraison à domicile par PostPac Prio Express :**  
-Délai : 1 jours ouvré  
-Prix : 7,99 CHF  
-  
 
   
-9.6. Andorre  
+9.5. Andorre  
 
 Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client (cf point 6).  
   
@@ -337,7 +318,7 @@ Coût de la livraison : 13 €
 
   
   
-9.7.Autres pays francophones :  
+9.6.Autres pays francophones :  
 
 Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client(cf point 6).  
   
