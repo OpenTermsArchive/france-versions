@@ -1,7 +1,8 @@
 CONDITIONS GÉNÉRALES
---------------------
+====================
 
-**1\. Principes généraux**  
+**1\. Principes généraux  
+**  
 Les conditions générales suivantes s'appliquent à toutes les commandes passées par le client (ci-après dénommé « vous ») à H & M Hennes & Mauritz Sarl, 398979310 R.C.S. Paris, ci-après dénommé « H&M » ou « nous », sur le site Internet de H&M, le site Internet ou l'application mobile (désignés ci-après collectivement « hm.com »).
 
 En utilisant hm.com et/ou en passant une commande, vous vous engagez à respecter toutes les clauses et conditions présentées dans ce document (les « conditions générales »). Veuillez vous assurer d'avoir bien lu et compris les conditions générales avant de passer votre commande.
