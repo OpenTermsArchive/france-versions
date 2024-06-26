@@ -28,7 +28,7 @@
     * [Robes - Femme](https://www.printemps.com/fr/fr/soldes-ete-femme/cat0/Robes)
     * [T-shirts et polos - Homme](https://www.printemps.com/fr/fr/soldes-ete-homme/cat0/Tops+et+t-shirts)
 
-* [TOP MARQUES](https://www.printemps.com/fr/fr/soldes-ete)
+* [Top marques](https://www.printemps.com/fr/fr/soldes-ete)
     * [Jacquemus](https://www.printemps.com/fr/fr/soldes-ete/mrk/JACQUEMUS/)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/soldes-ete/mrk/POLO+RALPH+LAUREN)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/soldes-ete/mrk/MARC+JACOBS)
