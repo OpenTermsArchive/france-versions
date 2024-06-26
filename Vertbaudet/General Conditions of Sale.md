@@ -142,20 +142,6 @@ La facture de votre commande vous est adressée par courriel lors de la confirma
 
 Sur simple demande, la facture peut vous être adressée sur support papier.
 
-#### 4.5 Paiement report (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
-
-Le paiement report consiste à régler la totalité de votre achat 30 jours après la date de votre commande
-
-Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
-
-L'offre de paiement report est réservée aux clients membres du club Vertbaudet réalisant une commande sur le site vertbaudet.fr (dès la 2ème commande) d'un montant minimum de 60€ et d'un montant maximum de 380€, sous réserve de validation de la commande par nos services financiers.
-
-Vous pouvez vérifier votre éligibilité lorsque vous passez votre commande, au moment du choix du paiement.
-
-Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de pré-autorisation. Celle-ci est conservée par notre partenaire INGENICO jusqu'à la date du débit sur votre compte.
-
-Effectuer un règlement en différé peut entraîner des risques d'incidents de paiement. Il vous faudra toujours veiller à avoir les fonds suffisants lors du débit.
-
 5\. La livraison
 ----------------
 
