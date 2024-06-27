@@ -35,7 +35,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/soldes-ete/mrk/ALEXANDER+MCQUEEN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/soldes-ete/mrk/TOMMY+HILFIGER)
     * [Prada](https://www.printemps.com/fr/fr/soldes-ete/mrk/PRADA)
-* [![](https://media-cdn.printemps.com/image/97/1/6519971.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
+* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -79,11 +79,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -113,7 +113,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-* [![](https://media-cdn.printemps.com/image/97/1/6519971.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
+* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -153,9 +153,9 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
@@ -186,16 +186,16 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/97/1/6519971.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
+* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
     * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
+    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
+    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -230,7 +230,7 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-* [![](https://media-cdn.printemps.com/image/97/1/6519971.jpg)](https://www.printemps.com/fr/fr/soldes-ete-beaute)
+* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-beaute)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
