@@ -1,7 +1,7 @@
 Dernière modification le 30/06/2023
 
-**Avis de confidentialité** – **Twitch.tv**
-===========================================
+**Twitch.tv Privacy Notice**
+============================
 
 Dernière mise à jour : 30 juin 2023. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
@@ -188,7 +188,3 @@ Consultez la page [Divulgations de confidentialité spécifiques à l'État](htt
 ### Divulgations d'informations confidentielles au Japon
 
 Lisez la page [Divulgations d'informations confidentielles au Japon](https://www.twitch.tv/legal/japan-privacy-notice/) afin de consulter les divulgations supplémentaires requises en vertu de la Loi sur la protection des informations personnelles.
-
-### Déclarations relatives à la confidentialité pour la République de Corée
-
-Consultez la page des [Déclarations relatives à la confidentialité pour la République de Corée](https://www.twitch.tv/p/legal/republic-of-korea-privacy-disclosures/) pour lire les déclarations additionnelles requises par la loi sur la protection des données personnelles (Personal Information Protection Act).
