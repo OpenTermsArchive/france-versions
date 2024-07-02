@@ -1,8 +1,8 @@
 Conditions générales de transport
 =================================
 
-**VOLS CORSE SOUS DSP (Délégation de Service Public)  
-_En vigueur exclusivement pour des transports à compter du 1er janvier 2024_**
+**VOLS CORSE SOUS DSP (Délégation de Service Public)**  
+_**En vigueur exclusivement pour des transports à compter du 1er janvier 2024**_
 
 Toute réservation effectuée pour un vol entre les aéroports de Bastia, Ajaccio, Calvi et Figari et l’aéroport de Paris Orly à compter du 1er janvier 2024 est acceptée et enregistrée par Air Corsica sous réserve de l’attribution de la délégation de service public qui est déterminante pour la validité du billet.
 
@@ -408,7 +408,7 @@ Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annul
 
 **7.4.** En cas de non-respect des conditions du présent article, notre responsabilité pour toute perte, dommage ou dépense ne pourra être recherchée.
 
-**7.5.** Si vous n’êtes pas présent dans les délais impartis au comptoir d'enregistrement ou à la porte d'embarquement (30 minutes avant le départ d'un vol domestique et 40 minutes avant le départ d'un vol international), ou bien si vous ne présentez pas les documents de voyage requis conformément à l’Article 8 ci-dessous , et que vous êtes par conséquent dans l'impossibilité de voyager, nous pourrons annuler votre réservation et attribuer votre siège à un autre Passager, sans que cela n’engage notre responsabilité envers vous.
+**7.5.** Si vous n’êtes pas présent dans les délais impartis au comptoir d'enregistrement ou à la porte d'embarquement (30 minutes avant le départ d'un vol domestique et 40 minutes avant le départ d'un Paris Orly et d'un vol international), ou bien si vous ne présentez pas les documents de voyage requis conformément à l’Article 8 ci-dessous , et que vous êtes par conséquent dans l'impossibilité de voyager, nous pourrons annuler votre réservation et attribuer votre siège à un autre Passager, sans que cela n’engage notre responsabilité envers vous.
 
 **7.6.** Quand un Coupon de Vol n'est pas retiré au comptoir d'enregistrement, au moment où vous recevez votre carte d'embarquement, le Coupon en question reste sous votre garde et vous devrez nous le remettre au moment de l’embarquement.
 
