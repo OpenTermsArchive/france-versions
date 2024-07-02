@@ -34,8 +34,8 @@
     * [Marc Jacobs](https://www.printemps.com/fr/fr/soldes-ete/mrk/MARC+JACOBS)
     * [Alexander McQueen](https://www.printemps.com/fr/fr/soldes-ete/mrk/ALEXANDER+MCQUEEN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/soldes-ete/mrk/TOMMY+HILFIGER)
-    * [Prada](https://www.printemps.com/fr/fr/soldes-ete/mrk/PRADA)
-* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
+    * [Saison 1865](https://www.printemps.com/fr/fr/soldes-ete/mrk/SAISON+1865)
+* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -113,7 +113,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
+* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -186,7 +186,7 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
+* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
@@ -230,7 +230,7 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-* [![](https://media-cdn.printemps.com/image/60/0/6523600.jpg)](https://www.printemps.com/fr/fr/soldes-ete-beaute)
+* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-beaute)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
