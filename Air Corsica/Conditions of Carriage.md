@@ -358,13 +358,52 @@ Des services complémentaires sont proposés au passager lors de l’achat de so
 
 **5.7. Frais d'émission ou de dossier**
 
-Des frais d’émission ou de dossier sont facturés lors de chaque achat sur les lignes d’Air Corsica. Les Frais d’émission ou de dossier sont d'un montant différent (De 1€ à 20€ par billet selon le point de vente Air Corsica, les agences de voyage appliquent les frais de service de leur choix) selon le type de voyage, le Tarif et le canal de distribution du Billet. Ces Frais s'ajoutent au Tarif TTC.   
-Les Frais d’Émission ou de dossier facturés, le cas échéant, par le Transporteur ne sont pas remboursables, excepté lorsqu'il s’agit d'une annulation du Billet due à une faute du Transporteur.   
-Le Passager est informé avant la finalisation de sa Réservation, du montant des Frais d'Émission qui lui sont facturés par le Transporteur. Le montant des Frais d'Émission facturés par Air Corsica est consultable auprès de ses services et sur son Site Internet
+Des frais d’émission sont facturés lors de chaque achat d'un billet Air Corsica pour la gestion de l'émission du billet. Les frais d’émission sont d'un montant différent selon le type de voyage, le tarif et le point de vente du billet. Il est précisé que les agences de voyage appliquent de manière indépendante les frais de service de leur choix. 
+
+Si le billet est acheté auprès d'Air Corsica, les frais d'émission sont les suivants, selon le canal de distribution :  
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Billets achetés auprès d'Air Corsica** | **Acheté sur le site internet** [**www.aircorsica.com**](http://www.aircorsica.com/) | **Acheté à l'aéroport** | **Acheté par téléphone** |
+| **Frais d'émission** | 1 à 10€ en fonction du Tarif | 20€ | 15€ |
+
+Il est précisé que les frais d'émission ci-dessus ne s'appliquent pas pour les billets réservés au tarif résident, pour lesquels les frais d'émission seront de 3 euros, en application des obligations de service public.
+
+Ces frais s'ajoutent au Tarif TTC.
+
+ Les frais d’émission facturés par le Transporteur, le cas échéant, ne sont pas remboursables en cas d'annulation du billet, excepté lorsqu'il s’agit d'une annulation du billet imputable au Transporteur.
+
+Le passager est informé avant la finalisation de sa réservation, du montant des frais d'émission qui lui sont facturés par le Transporteur. 
 
 **5.8. Frais d****’****annulation et de modification**
 
-En cas d’annulation volontaire de votre part, des frais de modifications qui sont associés au tarif du billet que vous avez acheté seront facturés, en supplément d’éventuels frais d’annulation liés aux conditions d’application de certains tarifs.
+* Frais de modification ou d'annulation et de remboursement
+
+En fonction du tarif de votre billet, celui-ci peut être modifiable sous certaines conditions. En cas de modification volontaire de votre part du billet, des frais de modifications associés au tarif du billet que vous avez acheté seront facturés.
+
+Les frais de modification seront facturés sur la base de ce qui suit, en fonction du tarif applicable, du point de vente d'achat du billet et du canal par lequel le billet est modifié :
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Frais de modification** | **Modifié sur le site internet** [**www.aircorsica.com**](http://www.aircorsica.com/) | **Modifié auprès d'Air Corsica à l'aéroport** | **Modifié par téléphone** |
+| **Billet acheté auprès d'Air Corsica** | De 1 à 10 € | 20 € | 20 € |
+| **Billet acheté en agence ou sur un site internet tiers** | 10 € | 30€ | 30€ |
+
+Il est précisé que ces frais ne s'appliquent pas pour les billets réservés au tarif résident, ces billets étant modifiables sans frais supplémentaires, en application des obligations de service public, si la demande de modification est réalisée au plus tard deux heures avant le vol. Si la modification est réclamée moins de deux heures avant le vol jusqu'à l'heure d'embarquement, le passager s'expose au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon modifié hors taxes.
+
+En fonction du tarif applicable à votre billet, celui-ci peut être annulé et remboursé sous certaines conditions. Le billet peut également être remboursé dans les conditions prévues à l'article 13 des CGT dans certains cas d'annulation, de retard du vol ou de refus d'embarquement. 
+
+Le cas échéant, lorsqu'il s'agit d'un billet acheté auprès d'Air Corsica, le passager peut introduire une demande de remboursement sur le site [www.aircorsica.com](http://www.aircorsica.com/), sans frais de dossier. Pour un billet acheté en agence ou sur un site internet, la demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet.
+
+* Frais d'annulation et de remboursement
+    
+    |     |     |
+    | --- | --- |
+    | **Billet acheté auprès d'Air Corsica** | La demande de remboursement doit être réalisée sur le site internet [www.aircorsica.com](http://www.aircorsica.com/) et sera traitée **sans frais de dossier** |
+    | **Billet acheté en agence ou sur un site internet tiers** | La demande initiale de remboursement doit être effectuée auprès de l'agence ou du site où a été acheté le billet |
+    
+
+Il est précisé que ces frais ne s'appliquent pas pour les billets réservés au tarif résident, ces billets étant remboursables sans frais supplémentaires, en application des obligations de service public, si la demande d'annulation est réalisée au plus tard deux heures avant le vol. Si l'annulation est réclamée moins de deux heures avant le vol, le passager s'expose au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon modifié hors taxes.
 
 **5.9. Itinéraire**
 
@@ -397,6 +436,14 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 **6.5. Annulation des réservations sur un vol en continuation ou en retour**
 
 Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annuler vos réservations pour vos parcours en continuation ou en retour, sauf si vous nous avez préalablement prévenus et dans ce cas des frais supplémentaires de modification de billet et de modifications de classe de réservation pourront être appliqués, qui seront liés aux conditions d’application de certains tarifs En cas de "no-show" le passager a droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation. Cette mention devrait également figurer ici pour la parfaite information du passage
+
+* **S'agissant du traitement des no show**
+
+Pour les billets qui n'ont pas été réservés au tarif résident corse, les coupons de vols doivent être utilisés dans l'ordre séquentiel réservé (notamment pour les billets aller/retour ou avec escale), conformément à l'article 4.3 ci-dessus. Si vous ne vous présentez pas à l'enregistrement d'un vol et ne respectez pas l'ordre séquentiel des billets, un supplément tarifaire forfaitaire de \[100\] euros sera appliqué sur la partie du voyage réalisé.
+
+Pour les billets réservés au tarif résident corse, les passagers qui souhaitent annuler leur vol sont tenus d'informer au préalable le Transporteur au moins deux (2) heures avant le départ du vol. A défaut d'information préalable au moins 2 heures avant le départ du vol, les passagers qui ne se présentent pas à l'embarquement ou qui annuleraient ou modifieraient leur billet tardivement s'exposent au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon non utilisé hors taxes, faute d'avoir respecté l'ordre séquentiel des coupons.
+
+En cas de non-présentation du passager à l'enregistrement, le passager a droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation".
 
 ### Article 7 - Enregistrement / Embarquement
 
@@ -456,6 +503,7 @@ A titre d’exemple, nous pourrons exercer ce type de refus dans les cas suivant
 * vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
 * vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
 * vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
+* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus
 
 Dans les cas prévus ci-dessus, nous nous réservons le droit de conserver votre Billet.
 
