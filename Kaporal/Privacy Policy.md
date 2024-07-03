@@ -1,145 +1,223 @@
-Politique  
-_de confidentialité_
-================================
+Politique de confidentialité
+============================
 
-**ARTICLE 1 : Informations générales**
+###### Table des matières
 
-Kaporal, ayant son siège social au 20 Boulevard Ampère – 13014 MARSEILLE, immatriculée au RCS de Marseille sous le numéro 499 454 874, édite le site Internet www.kaporal.com (ci-après dénommé le « Site ») ce qui inclut le traitement et le stockage de toutes les données collectées sur le Site ou par son intermédiaire. Kaporal a créé cette Politique de Confidentialité, afin de communiquer sa politique et ses pratiques en matière de collecte, d'utilisation et de divulgation des informations ou des données qui auront été obtenues sur le Site (ci-après dénommé les « Données Personnelles »).
+1. [Informations générales – Responsable de traitement](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article1)
+2. [Traitements des Données Personnelles sur le Site](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article2)
+3. [Destinataires des Données Personnelles](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article3)
+4. [Transfert des Données Personnelles à l’étranger](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article4)
+5. [Sécurité](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article5)
+6. [Droit des personnes sur les données collectées](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article6)
 
-Kaporal, en tant que responsable de traitement, respecte la règlementation applicable en vigueur relative à la collecte et le traitement des Données Personnelles de toute personne physique majeure à l’occasion de la visite ou de l’achat de produits proposés sur le Site (ci-après dénommé le « Clients »). Le traitement des données personnelles a fait l’objet de déclarations à la CNIL sous le numéro 1243196.
+ARTICLE 1 : Informations générales – Responsable de traitement
 
-Kaporal peut modifier la Politique de confidentialité des données à tout moment (voir l’article 9 : « Modifications et mises à jour de la Politique de Confidentialité »). La version la plus récente de la Politique de Confidentialité est consultable en cliquant sur le lien « Politique de confidentialité » figurant dans le pied de page de l’accueil du Site.
+Kaporal, ayant son siège social au 20 Boulevard Ampère – 13014 MARSEILLE, immatriculée au RCS de Marseille sous le numéro 499 454 874, édite le site Internet www.kaporal.com (ci-après dénommé le « Site ») à travers lequel elle collecte et traite des données à caractère personnel.
 
-En utilisant le Site, le Client accepte que Kaporal collecte, utilise et transmette des informations le concernant, dans les conditions définies dans la présente Politique de Confidentialité. Si le Client n'accepte pas les termes de cette Politique de Confidentialité ou toute modification apportée à ces termes, Kaporal demande au Client concerné de bien vouloir quitter le Site et de n'acheter aucun produit Kaporal proposé à la vente sur ce Site.
+Kaporal, en tant que responsable de traitement, respecte la règlementation applicable en vigueur relative à la collecte et le traitement des Données Personnelles de toute personne physique majeure à l’occasion de la visite ou de l’achat de produits proposés sur le Site (ci-après dénommé le « Visiteur » ou le « Client »).
 
-**ARTICLE 2 : Finalité de la collecte des Données Personnelles sur le Site** 
+Cette Politique de Confidentialité permet d’informer les Visiteurs et Clients sur la collecte, utilisation et divulgation des informations ou des données les concernant qui auront été obtenues sur le Site (ci-après dénommé les « Données Personnelles »).
 
-Les Données Personnelles ne seront traitées ou utilisées qu’en cas de nécessité :
+Kaporal peut modifier la Politique de confidentialité des données à tout moment. Les personnes concernées en seront informées et la version la plus récente de la Politique de Confidentialité est consultable en cliquant sur le lien « Politique de confidentialité » figurant dans le pied de page de l’accueil du Site.
 
-Pour l’exécution du contrat de vente entre Kaporal et le Client et plus particulièrement pour :  
-Vous permettre de créer un espace personnel dans la rubrique « Mon Compte », d’adhérer au programme de fidélité Le Klub sous réserve du consentement, et ainsi acheter nos produits en ligne et de bénéficier d’avantages personnels et ainsi acheter les produits disponibles sur le Site;  
-Gérer vos éventuelles commandes et leur livraison, vos éventuelles ventes ainsi que les garanties applicables ;  
-Gérer tout autre service, actuel ou futur en relation avec les services et inscrit dans les conditions générales d’utilisation afférentes.
+Kaporal a désigné un DPO (délégué à la protection des données) dont les coordonnées figurent à la fin de la présente politique de confidentialité.
 
-Pour répondre à une obligation légale, réglementaire et/ou conventionnelle et plus particulièrement :  
-La livraison des produits commandés en ligne ;  
-Vous assurer un suivi de votre activité commerciale.
+ARTICLE 2 - Traitements des Données Personnelles sur le Site : quelles données, pourquoi et pendant combien de temps ?
 
-Pour satisfaire un intérêt légitime dans la limite des intérêts et des libertés et droits fondamentaux des utilisateurs du Site et plus particulièrement pour :  
-Répondre aux demandes adressées par mail ou directement par le formulaire « Contactez-nous » ;  
-Gérer et optimiser la relation clientèle ;  
-Assurer la sécurité des transactions en ligne, prévenir les fraudes et les incidents de paiement ;  
-Réaliser des statistiques anonymes.
+Kaporal collecte et traite des Données Personnelles dans différents cadres.
 
-Pour répondre aux demandes que vous formulez et/ou sur la base de votre consentement explicite et notamment :  
-Vous adresser des informations sur nos offres, actualités et évènements par email (newsletters, invitation et autres publications) ;  
-Améliorer le fonctionnement du Site, personnaliser l’affichage du site selon vos préférences dans le respect de notre politique d’utilisation des cookies ;  
-Offrir des services personnalisés ;  
-La géolocalisation pour vous proposer le point relais le plus proche (limitée à la ville).
+Les Données Personnelles indispensables à Kaporal pour remplir les finalités décrites ci-dessous sont signalées dans les différentes pages du Site par un astérisque.
 
-Les Données Personnelles indispensables à Kaporal pour remplir les finalités décrites ci-dessus sont signalées dans les différentes pages du Site par un astérisque. Si ces champs obligatoires ne sont pas renseignés, Kaporal ne pourra pas répondre aux demandes du Client et/ou fournir les produits et services demandés. Les autres informations ont un caractère facultatif et permettent à Kaporal de mieux connaître sa clientèle et d'améliorer ses communications et services.
+Si ces champs obligatoires ne sont pas renseignés, Kaporal ne pourra pas répondre aux demandes du Client et/ou fournir les produits et services demandés. Les autres informations ont un caractère facultatif et permettent à Kaporal de mieux connaître sa clientèle et d'améliorer ses communications et services.
 
-**ARTICLE 3 : Données Personnelles collectées sur le Site** 
+* **Création d’un compte et achat en ligne**
 
-Les Données Personnelles que Kaporal est susceptible de collecter et de traiter sont les suivantes :
+**Données collectées** : adresse e-mail, données relatives à l’identité (civilité, nom, prénom, date de naissance), adhésion au Klub, préférences applicables aux communications
 
-\- Données relatives à l’identité notamment la civilité, le nom, le prénom, la date de naissance, le pseudo sur les réseaux sociaux, l’adresse de livraison, l’adresse de facturation, le numéro de téléphone, le courrier électronique, la pointure et la taille, les photos ;
+En cas d’adhésion au Klub : pays, code postal, ville, adresse, numéro de téléphone. Il est possible de s’opposer au démarchage téléphonique en s’inscrivant sur le site Bloctel.
 
-\- Données relatives à la « Tribu » notamment le prénom, la date de naissance, la pointure et la taille ;
+De manière facultative : adresse de livraison, adresse de facturation, adresses supplémentaires, moyen de paiement, historique des achats, numéro de commande (obligatoires en cas d’achat), retours et avoir (si applicable), liste de souhaits, membres de la Tribu, préférences et intérêts du Client, magasins favoris, pseudo sur les réseaux sociaux, pointure et taille, photos, demandes ou des correspondances avec le Service Client et toute autre information communiquée par le Client.
 
-\- Données relatives aux moyens de paiement sous réserve du consentement, notamment le numéro partiel de carte de crédit et sa date d’expiration ;
+Dans le cadre de la Tribu, les informations collectées sont le prénom, la date de naissance, la pointure et la taille des membres de la Tribu.
 
-\- Données relatives au suivi de la relation commerciale, notamment le numéro de commande, l’historique des achats, des demandes ou des correspondances avec le Service Client,
+Les données relatives aux moyens de paiement peuvent être conservées sous réserve du consentement pour les achats futurs (numéro partiel de carte de crédit et sa date d’expiration).
 
-\- Préférences et intérêts des Clients
+Le Site contient un lien de connexion à partir de votre compte Facebook si vous le souhaitez. Dans ce cas, Kaporal collecte uniquement les champs par défaut communiqués et rendus disponibles par Facebook. Les Données Personnelles traitées par Facebook le sont sous sa responsabilité.
 
-\- Données techniques, notamment l’adresse IP ou des informations de navigation.
+**Finalités et bases légales** : concernant les données obligatoires, la collecte de Données Personnelles a pour finalité de permettre la création et la gestion du compte, et si applicable l’adhésion au programme de fidélité Le Klub et l’exécution des commandes passées sur le Site.
 
-Les informations obligatoires sont indiquées lors de leur collecte par un astérisque.
+Ce traitement est basé sur l’exécution du contrat entre Kaporal et le Client pour la création du compte, la gestion du programme de fidélité et l’exécution des commandes. Les Données Personnelles liées aux commandes et à la facturation sont également conservées par Kaporal pour le respect de ses obligations légales comptables, fiscales et d’archivage (au-delà de 120 euros).
 
-**ARTICLE 4 : Destinataire des Données Personnelles** 
+Les Données Personnelles facultatives permettent à Kaporal de personnaliser l’expérience du Client et de lui faire bénéficier de promotions.
 
-Les Données Personnelles sont traitées par Kaporal.
+Kaporal réalise également des statistiques anonymes sur la base des données fournies par le Client.
+
+Le traitement de ces données est basé sur l’intérêt légitime de Kaporal de proposer des avantages et des offres personnalisées à ses Clients et de faire des statistiques anonymes, dans le cadre de son activité marketing et commerciale.
+
+Les Données Personnelles sont également traitées afin d’assurer la sécurité des transactions en ligne, révenir les fraudes et les incidents de paiement, sur le fondement des intérêts légitimes de Kaporal de sécuriser l’utilisation du Site et les commandes.
+
+**Durée de conservation** : les Données Personnelles collectées dans le cadre du compte Client et des commandes sont conservées et consultables sur le compte Client tant que celui-ci reste actif.
+
+Le compte Client et en cas d’adhésion, Le Klub resteront actifs pendant une durée de trois ans à compter du dernier contact émanant du Client notamment par une demande de documentation, un clic sur un lien hypertexte contenu dans un courriel ou un SMS, une connexion sur le Site (via le compte client ou Le Klub), un achat chez Kaporal ou jusqu’à ce que le Client en demande leur clôture.
+
+Les données d’identification du Client (ou du Visiteur) utilisées à des fins d’envoi de newsletters et autres publications de Kaporal, seront conservées pendant un délai de 3 ans à compter du dernier contact émanant du Client ou du Visiteur, notamment par une demande de documentation, un clic sur un lien hypertexte contenu dans un courriel ou un SMS, une connexion sur le Site (via le compte Client ou Le Klub), un achat chez Kaporal ou jusqu’à ce que le Client ou Visiteur en fasse la suppression.
+
+Avant le terme de ce délai de 3 ans, Kaporal pourra reprendre contact avec le Client ou Visiteur concerné afin de savoir s’il souhaite ou non (i) continuer à recevoir les newsletters et autres publications de Kaporal et/ou (ii) conserver son compte Client et Le Klub. Ces Données Personnelles seront anonymisées à l’issue de ce délai ou sur demande du Client ou Visiteur.
+
+Les Données Personnelles liées aux achats et commandes du Client (i) feront l’objet d’un archivage à des fins comptables et probatoires (aux fins de la constatation, l'exercice ou la défense de droits en justice) pendant 5 ans (durée portée à 10 ans pour les commandes de plus de 120 euros et les données liées à la facturation pour le respect des obligations légales de Kaporal) puis (ii) seront détruites si lesdits délais ont expiré.
+
+* **Inscription à la newsletter**
+
+**Données collectées** : adresse e-mail et, en cas de création d’un compte Client, préférences applicables aux communications.
+
+**Finalité et base légale** : nous collectons, avec votre consentement, votre adresse électronique pour vous adresser des informations sur nos offres, actualités et évènements par email (newsletters, invitation et autres publications) et, si vous l’autorisez, permettre à nos partenaires de vous adresser également des communications.
+
+**Durée de conservation** : voir ci-dessus (délai de 3 ans à compter du dernier contact ou suppression sur demande).
+
+* **Formulaire de contact**
+
+**Données collectées** : si applicable, numéro de commande, prénom, nom, adresse électronique, numéro de téléphone, commentaire du Visiteur ou Client.
+
+**Finalité et base légale** : nous collectons ces données pour répondre aux demandes adressées par mail ou directement par les formulaires « Contactez-nous » et pour gérer et optimiser la relation avec les Visiteurs ou Clients. La base légale du traitement est l’intérêt légitime de Kaporal de répondre aux demandes de renseignement dans le cadre de son activité commerciale.
+
+**Durée de conservation** : les Données Personnelles sont archivées après le traitement de la demande et archivées pendant 5 ans (délai de prescription). Pour les personnes disposant d’un compte Client, les données sont traitées pendant la même durée que les Données Personnelles attachées au Compte Client.
+
+* **Cookies et traceurs**
+
+**Données collectées :** si applicable, adresse électronique, création de compte, identifiant CRM, consentement aux services tiers, numéro de commande, indicateurs de navigation, comportement d’achat, géolocalisation
+
+**Finalité et base légale** : la finalité de chaque service est détaillée dans le paragraphe “**Fonctionnalités du Site”**.
+
+* **Logs de connexion :** Assurer la sécurité du Site en surveillant les tentatives d’accès, les activités suspectes et en gérant les incidents de sécurité.
+
+* **Assurer le bon fonctionnement du Site :** Garantir que toutes les fonctionnalités essentielles du site opèrent correctement, telles que la navigation sur le site, l’accès aux comptes utilisateur, et l’utilisation des services de base.
+
+En complément, les finalités spécifiques des cookies nécessaires et fonctionnels utilisées par nos partenaires de premier niveau (nécessaire au bon fonctionnement du site) sont :
+
+**Fonctionnalités du Site**
+
+* **APIs :** Charger des scripts nécessaires pour des fonctionnalités telles que la géolocalisation, les moteurs de recherche, et les traductions. Ces scripts assurent l’interactivité et la personnalisation des services offerts sur le site.
+
+**Sécurité et Gestion**
+
+* **Sécurisation des accès :** Utiliser des cookies pour vérifier l’authenticité des utilisateurs, prévenir les fraudes, et protéger les données des utilisateurs.
+
+* **Gestion des incidents :** Collecter des données pour détecter, signaler et résoudre les problèmes techniques et les pannes, garantissant ainsi une expérience utilisateur fluide.
+
+Ces cookies et données sont essentiels pour garantir une expérience utilisateur optimale et sécurisée, permettant une utilisation harmonieuse et protégée de notre site.
+
+**Cookies marketing et de performance : les Données Personnelles sont collectées pour les finalités suivantes :**
+
+* **Géolocalisation :** Vous proposer le point relais le plus proche (limitée à la ville).
+
+* **Mesure d’audience et de performance :** Améliorer le fonctionnement du Site en analysant les comportements des utilisateurs et en générant des statistiques de fréquentation.
+
+* **Offrir des services personnalisés :** Adapter les services et les contenus proposés en fonction de vos préférences et de votre historique de navigation.
+
+* **Personnaliser l’affichage du site selon vos préférences :** Rendre votre expérience de navigation plus pertinente en personnalisant le contenu et les offres affichées.
+
+En complément, les finalités spécifiques des cookies marketing et de performance utilisés par nos partenaires sont :
+
+**Marketing**
+
+* **Bing :** Collecter des données pour afficher des publicités personnalisées en fonction de vos précédentes visites et de vos recherches.
+
+* **Criteo :** Utiliser des cookies pour vous montrer des annonces personnalisées basées sur votre historique de navigation sur notre site et ailleurs sur Internet.
+
+* **Facebook Pixel :** Aider à mesurer, optimiser et construire des audiences pour des campagnes publicitaires sur Facebook en fonction des pages que vous avez visitées.
+
+* **Google Ads :** Utiliser des cookies pour afficher des publicités basées sur vos visites précédentes sur notre site et d’autres sites web.
+
+* **TikTok Ads :** Collecter des données sur votre interaction avec notre site pour vous proposer des publicités personnalisées sur la plateforme TikTok.
+
+**Performance & Analyse Web**
+
+* **Google Analytics :** Recueillir des informations anonymes sur la façon dont les visiteurs utilisent notre site, nous aidant à comprendre les comportements des utilisateurs et à améliorer notre site.
+
+* **Actito :** Collecter des données de performance pour personnaliser l’expérience utilisateur et améliorer l’efficacité des campagnes marketing.
+
+* **Adobe Products Recommendation Event :** Utiliser des cookies pour analyser vos préférences et comportements d’achat afin de vous recommander des produits susceptibles de vous intéresser.
+
+Dans ce cadre, ces Données Personnelles sont traitées sur la base de votre consentement, exprimé via la console de gestion des cookies.
+
+**Durée de conservation** : les logs de connexion sont conservés pendant une durée de 12 mois.
+
+Les logs de monitoring sont conservés pendant une durée de 15 jours. 
+
+Les autres Données Personnelles sont conservées pendant une durée de 36 mois.
+
+ARTICLE 3 : Destinataires des Données Personnelles
+
+Les Données Personnelles sont traitées par Kaporal en qualité de responsable de traitement.
 
 Elles ne seront ni traitées ni rendues accessibles à aucun tiers à l’exception :
 
-\-        Des sous-traitants de Kaporal pour des raisons exclusivement techniques, de gestion des opérations marketing (sous réserve du consentement) et logistiques (transporteurs, prestataires d’hébergement et de maintenance du Site.)
+\-        Des prestataires de Kaporal pour des raisons exclusivement techniques (prestataires d’hébergement et de maintenance du Site, prestataires informatiques et applications), de gestion des opérations marketing (prestataires marketing, d’envoi d’emails) et logistiques (transporteurs, établissements bancaires et prestataires de paiement) ainsi que des prestataires déposant des cookies tiers, tels que listés sur la console de gestion des cookies.
 
-\-        De toute restructuration du groupe Kaporal, y compris cession totale ou partielle d’actifs, fusion, absorption acquisition, scission et plus généralement toute opération de réorganisation
+\-        Tout repreneur de l’activité dans le cadre d’une restructuration éventuelle du groupe Kaporal, y compris cession totale ou partielle d’actifs, fusion, absorption acquisition, scission et plus généralement toute opération de réorganisation
 
-\-        Des autres sociétés du groupe Kaporal à des fins de gestion et d’optimisation de la relation client
+\-        Des autres sociétés du groupe Kaporal en qualité de responsable conjoint de traitement à des fins de gestion et d’optimisation de la relation client (vous pouvez demander les grandes lignes de l’accord de traitement des données sur demande)
 
-\-        Du cas où cette communication est requise par la loi, une disposition réglementaire ou une décision judiciaire, ou si cette communication est nécessaire pour assurer la protection et la défense de ses droits
+\-        Dans le cas où cette communication est requise par la loi, une disposition réglementaire ou une décision judiciaire, ou si cette communication est nécessaire pour assurer la protection et la défense de ses droits (tiers autorisés).
 
-**ARTICLE 5 : Transfert des Données Personnelles à l’étranger**
+ARTICLE 4 : Transfert des Données Personnelles à l’étranger
 
-Kaporal ne transfère aucune Donnée Personnelle en dehors de l’Union Européenne.
+\>Kaporal ne transfère aucune Donnée Personnelle en dehors de l’Union Européenne.
 
-**ARTICLE 6 : Durée de conservation des Données Personnelles** 
+ARTICLE 5 : Sécurité
 
-Kaporal s’engage à n’utiliser les Données Personnelles que pendant la durée nécessaire à la réalisation des finalités décrites ci-dessus.
-
-Les Données Personnelles collectées et traitées dans le cadre de la rubrique «Contactez-nous », seront archivées à compter du traitement de votre demande.
-
-Les données relatives aux commandes du Client seront archivées par Kaporal pour une durée n’excédant pas les délais de prescription légale applicables. Ces données seront consultables sur le compte client tant que celui-ci reste actif. Dès clôture d’un compte client, ces données (i) feront l’objet d’un archivage à des fins comptables et probatoires (aux fins de la constatation, l'exercice ou la défense de droits en justice)  pendant les délais de prescription précités ou (ii) seront détruites si lesdits délais ont expiré. 
-
-Les données d’identification du client, utilisées à des fins d’envoi de newsletters et autres publications de Kaporal, seront conservées pendant un délai de trois ans à compter de leur collecte ou du dernier contact émanant du Client, notamment par une demande de documentation, un clic sur un lien hypertexte contenu dans un courriel ou un SMS, une connexion sur le Site (via le compte client ou Le Klub), un achat chez Kaporal ou jusqu’à ce que le Client en fasse la demande.
-
-Le compte Client et/ou Le Klub resteront actifs pendant une durée de trois ans à compter du dernier contact émanant du Client notamment par une demande de documentation, un clic sur un lien hypertexte contenu dans un courriel ou un SMS, une connexion sur le Site (via le compte client ou Le Klub), un achat chez Kaporal ou jusqu’à ce que le Client en demande leur clôture.
-
-Avant le terme de ce délai de trois ans, Kaporal pourra reprendre contact avec le Client concerné afin de savoir s’il souhaite ou non (i) continuer à recevoir les newsletters et autres publications de Kaporal et/ou (ii) conserver son compte Client et Le Klub. Les données seront archivées dans les conditions prévues ci-dessus dans les meilleurs délais à compter de la demande de désinscription.
-
-Enfin, les logs de connexion collectés, dans le cadre des cookies et autres traceurs mis en place sur le Site et préalablement acceptés par le Client, seront conservés conformément à la réglementation applicable pour une durée n’excédant pas treize (13) mois. Pour plus de détails, voir notre Politique d’utilisation des cookies.
-
-**ARTICLE 7 : Connexion via un compte Facebook** 
-
-Le Site contient un lien de connexion à partir de votre compte Facebook. Kaporal n'a aucun contrôle sur le contenu du site Facebook, sur sa politique de protection des données personnelles. Kaporal collecte uniquement les champs par défaut communiqués et rendus disponibles par Facebook.
-
-**ARTICLE 8 : Sécurité** 
-
-Kaporal fait ses meilleurs efforts pour protéger les Données Personnelles de ses Clients contre les dommages, pertes, détournements, intrusions, divulgations, altérations ou destructions.
+Kaporal prend les mesures de sécurité techniques et organisationnelles appropriées afin de protéger les Données Personnelles de ses Clients contre les dommages, pertes, détournements, intrusions, divulgations, altérations ou destructions.
 
 Les systèmes informatiques de Kaporal font l’objet d’une protection physique et électronique conforme à l’état de l’art. Des procédures de sauvegarde physique et électronique des Données collectées sur le Site sont mises en œuvre, conformément à la législation française en vigueur relative à la protection des données personnelles.
 
 Les salariés de Kaporal qui, du fait de leur fonction, auraient accès aux Données Personnelles de ses Clients s'engagent à la plus grande confidentialité à cet égard.
 
-Malgré les mesures mises en place par Kaporal, aucune transmission de données sur internet n’est sécurisée de manière infaillible. Toutes les informations en ligne peuvent potentiellement être interceptées et utilisées par d’autres personnes que le destinataire souhaité. Ces faits, résultant de cas de force majeur, ne relèvent pas de la responsabilité de Kaporal. 
+ARTICLE 6 : Droit des personnes sur les données collectées
 
-**ARTICLE 9 : Modifications et mises à jour de la politique de confidentialité** 
+Les Clients et Visiteurs disposent des droits suivants sur les Données Personnelles :
 
-Kaporal est susceptible de modifier à tout moment la Politique de Confidentialité. Si Kaporal souhaite utiliser les Données Personnelles de ses Clients d’une manière différente de celle stipulée dans la Politique de Confidentialité en vigueur au moment de la collecte, ces modifications seront publiées dans une nouvelle version.
+* **Droit d’accès**: obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des données personnelles ;
 
-**ARTICLE 10 : Droit des personnes sur les données collectées** 
+* **Droit de rectification**: obtenir la rectification de ses données personnelles lorsqu’elles sont inexactes ou incomplètes ;
 
-Les Clients disposent d’un droit général d’accès, de modification, de rectification et de suppression des Données Personnelles qui les concernent, ainsi que de droit à obtenir une limitation du traitement, du droit de s'opposer au traitement, du droit à la portabilité des données. Lorsque le traitement est fondé sur le consentement, les Clients ont le droit de retirer leur consentement à tout moment, sans porter atteinte à la licéité du traitement fondé sur le consentement effectué avant le retrait de celui-ci. Enfin, les Clients ont le droit d'introduire une réclamation auprès d'une autorité de contrôle, notamment la CNIL (Commission Nationale Informatique et Libertés) en France. Ces droits pourront être exercés dans les conditions prévus par la règlementation applicable.
+En particulier, pour une simple rectification des données relatives à l’identité (adresse mail, numéro de téléphone, adresse postale), le Client pourra le signaler :
 
-Les Clients peuvent aussi faire part à Kaporal de leurs directives concernant la conservation, l’effacement et la communication de leurs Données Personnelles après leur décès et modifier ces directives à tout moment. 
+* En boutique physique
 
-Pour une simple rectification des données relatives à l’identité (adresse mail, numéro de téléphone, adresse postale), le Client pourra le signaler :
+* Sur le Site dans l’espace « Mon compte » / « Mes informations »
 
-·       En boutique physique
+* Par courrier électronique à l’adresse dpo@kaporal.com
 
-·       Sur le Site dans l’espace « Mon compte » / « Mes informations »
+* **Droit à l’effacement** (« droit à l’oubli ») : obtenir l’effacement de ses données personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou en cas d’opposition au traitement de leurs données personnelles.
 
-·       Par courrier électronique à l’adresse dpo@kaporal.com
+Le droit à l’effacement n’est pas opposable dans les cas prévus à l’article 17.3 du RGPD. En particulier, ce droit n’est pas ouvert tant qu’un contrat est en cours d’exécution, ni dans le cas de l’archivage pour la constatation, l’exercice ou la défense d’un droit en justice ;
 
-Pour ne plus recevoir de communications de la part de Kaporal et/ou ses partenaires, le Client a la possibilité de se désabonner par l’un des moyens suivants :
+* **Droit à la limitation du traitement** : obtenir la limitation du traitement de ses Données Personnelles notamment en cas de contestation de l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la personne dont les données sont traitées a encore besoin de conserver ces données personnelles pour la constatation, l’exercice ou la défense d’un droit en justice ;
 
-Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.  
-En remplissant le formulaire contactez-nous et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.  
-En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »  
-Pour toute autre demande, le Client pourra exercer ses droits en adressant sa demande au Service Client par l’un des moyens suivants :
+* **Droit à la portabilité** : obtenir la communication des Données Personnelles communiquées à Kaporal dans un format lisible, ou demander à Kaporal qu’elle transmette les données personnelles communiquées à un autre responsable de traitement ;
 
-·       Par courrier électronique à l'adresse dpo@kaporal.com
+* **Droit d’opposition** : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, aux traitements de ses Données Personnelles basés sur l’intérêt légitime de Kaporal, sauf motif impérieux de Kaporal ;
 
-·       Par courrier à l’adresse suivante :
+En particulier, pour ne plus recevoir de communications de la part de Kaporal et/ou ses partenaires, le Client ou Visiteur a la possibilité de se désabonner par l’un des moyens suivants :
 
-o   Pour le compte client : Kaporal– Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
+* Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.
+* En remplissant le formulaire contactez-nous et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.
+* En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »
 
-o   Pour le compte Le Klub : Kaporal– Service Marketing – 20 Boulevard Ampère – 13014 Marseille - France
+* **Droit de retirer son consentement**: retirer son consentement pour les traitements de données basés sur celui-ci pour l’avenir ;
 
-Ces demandes d’accès, de rectification ou d’opposition lorsqu’elles sont faites par le biais d’un courrier ou d’un email, devront être accompagnées d’un justificatif permettant de s’assurer de l’identité de la personne qui exerce son droit.
+* **Droit d’introduire une réclamation** : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL) si le Client ou Visiteur considère que le traitement opéré par Kaporal constitue une violation de ses droits sur ses Données Personnelles ;
 
-**ARTICLE 11 : Droit applicable – litiges** 
+* **Droit de définir les directives relatives au sort de ses données personnelles après sa mort :** Les Clients et Visiteurs peuvent aussi faire part à Kaporal de leurs directives concernant la conservation, l’effacement et la communication de leurs Données Personnelles après leur décès et modifier ces directives à tout moment.
 
-La présente Politique de Confidentialité est régie et interprétée conformément au droit français. Les juridictions françaises de Marseille sont territorialement compétentes pour connaître de tout litige à l'exception des règles de compétence spéciale, notamment en cas de litige avec un consommateur. En cas de contestation concernant la manière dont Kaporal collecte et traite les Données Personnelles, les Clients ont la possibilité d'introduire une réclamation auprès d’une autorité de contrôle compétente.
+Le Client a également la faculté de s’inscrire sur la liste Bloctel pour s’opposer à la prospection téléphonique.
+
+Ces droits pourront être exercés dans les conditions prévus par la règlementation applicable.
+
+Pour toute demande, le Client ou Visiteur pourra exercer ses droits en adressant sa demande par l’un des moyens suivants :
+
+* Par courrier électronique à l'adresse dpo@kaporal.com
+* Par courrier à l’adresse suivante :
+* Pour le compte client : Kaporal– Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
+* Pour le compte Le Klub : Kaporal– Service Marketing – 20 Boulevard Ampère – 13014 Marseille – France
+* D’une manière générale, pour les demandes concernant les Données Personnelles : Kaporal– DPO – 20 Boulevard Ampère – 13014 Marseille – France
