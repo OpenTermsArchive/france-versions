@@ -53,13 +53,13 @@ Sur notre site [www.aircorsica.com](https://www.aircorsica.com/), vous pouvez r�
 
 Le seul mode de mise à disposition du Billet est le Billet Electronique. Celui-ci est disponible jusqu’à deux heures avant le départ.
 
-### Article 12 - Utilisation du Billet
+### Article 12 - Pour être accepté au transport
 
-Pour être accepté au transport, tout Billet doit être intégralement utilisé, conformément à l’Article 4.3 des Conditions Générales de Transport.
+Tout Billet doit être intégralement utilisé dans l'ordre séquentiel réservé, conformément à ce que prévoit l’Article 4.3, au risque de s'exposer à des suppléments tarifaires forfaitaires décrits à l'article 6.5 des Conditions Générales de Transport.
 
-Nous vous informons que dans le cas où votre billet n'est plus valide et n'a pas donné lieu à transport, vous bénéficiez d'un droit au remboursement des taxes et redevances, dont l'exigibilité dépend de votre embarquement. Pour obtenir le remboursement de ces sommes, vous pouvez nous adresser gratuitement votre demande **[sur notre site dédié](https://serviceclient.aircorsica.com/)**.
+Nous vous informons que dans le cas où votre billet n'est plus valide et n'a pas donné lieu à transport, vous bénéficiez d'un droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation. Pour obtenir le remboursement de ces sommes, vous pouvez nous adresser gratuitement votre demande sur notre site dédié.
 
-Le remboursement interviendra dans les 30 jours suivant la demande.
+Le remboursement interviendra dans les 30 jours suivant la demande
 
 ### Article 13 - Politique de Sécurité et de Confidentialité
 
@@ -100,7 +100,6 @@ Par les choix que vous faites et par les informations que nous conservons, vous 
 Les informations que nous vous demandons sur notre site sont les suivantes :
 
 * votre état civil (civilité, nom, prénom, date de naissance, adresse postale, téléphone)
-
 * votre adresse de courrier électronique (personnelle ou professionnelle) utile pour recevoir une confirmation de réservation, pour toute correspondance et abonnement à notre lettre d'information, pour recevoir votre mot de passe perdu ou votre identifiant perdu.
 
 Plus globalement, nous conserverons aussi :
