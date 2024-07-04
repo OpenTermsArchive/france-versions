@@ -55,7 +55,7 @@ En cas de paiement par carte bancaire, le débit est effectué au moment de l’
 La sécurité des transactions est assurée par Adyen par cryptage des coordonnées bancaires grâce au protocole SSL. Lorsque le Client enregistre sa carte bancaire pour de futurs achats, les données sont également cryptées. A aucun moment, les données bancaires du Client ne transitent par le système informatique de Comptoir des Cotonniers.  
   
 En cas d’utilisation frauduleuse de sa carte bancaire, après avoir fait opposition auprès de sa banque, le Client est invité à contacter le Service Relation Clients qui lui indiquera la procédure à suivre :  
-\- soit par téléphone au numéro suivant : 09 69 39 29 97 (depuis la France) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00  
+\- soit par téléphone au numéro suivant : 01 43 12 03 33 (depuis la France, prix d’un appel local) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00  
 \- soit via le formulaire de contact sur notre site  
 \- soit par e-mail : [service.client@comptoirdescotonniers.com](mailto:service.client@comptoirdescotonniers.com)
 
@@ -117,7 +117,7 @@ Le Client dispose d’un droit de rétractation de quatorze (14) jours suivant l
   
 Toute rétractation de commande doit être notifiée par tous moyens et notamment :  
   
-\- par téléphone au 09 69 39 29 97 (depuis la France) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00,  
+\- par téléphone au 01 43 12 03 33 (depuis la France, prix d’un appel local) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00,  
 \- soit en utilisant le formulaire-type de rétractation en cliquant sur le lien [ici](https://www.comptoirdescotonniers.com/on/demandware.store/Sites-CDC-FR-Site/fr_FR/Page-CGV)  
   
 Votre formulaire de rétractation est à renvoyer selon les modalités prévues dans le formulaire. **7.2 Modalités de retour**
