@@ -230,7 +230,7 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-*  [ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
+*  [![](https://media-cdn.printemps.com/image/68/5/6543685.jpeg) ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
