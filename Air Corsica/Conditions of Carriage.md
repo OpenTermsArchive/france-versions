@@ -435,7 +435,11 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 
 **6.5. Annulation des réservations sur un vol en continuation ou en retour**
 
-Si vous ne vous présentez pas à l'enregistrement d'un vol, nous pourrons annuler vos réservations pour vos parcours en continuation ou en retour, sauf si vous nous avez préalablement prévenus et dans ce cas des frais supplémentaires de modification de billet et de modifications de classe de réservation pourront être appliqués, qui seront liés aux conditions d’application de certains tarifs En cas de "no-show" le passager a droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation. Cette mention devrait également figurer ici pour la parfaite information du passage
+"Pour les billets qui n'ont pas été réservés au tarif résident corse, les coupons de vols doivent être utilisés dans l'ordre séquentiel réservé (notamment pour les billets aller/retour ou avec escale), conformément à l'article 4.3 ci-dessus. Si vous ne vous présentez pas à l'enregistrement d'un vol et ne respectez pas l'ordre séquentiel des billets, un supplément tarifaire de \[100\] euros sera appliqué sur la partie du voyage réalisé. 
+
+Pour les billets réservés au tarif résident corse, les passagers qui souhaitent annuler leur vol sont tenus d'informer au préalable le Transporteur au moins deux (2) heure avant le départ du vol. A défaut d'information préalable au moins 2 heures avant le départ du vol, les passagers qui ne se présentent pas à l'embarquement ou qui annuleraient ou modifieraient leur billet tardivement s'exposent au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon non utilisé hors taxes, faute d'avoir respecté l'ordre séquentiel des coupons. 
+
+En cas de non-présentation du passager à l'enregistrement, le passager a droit au remboursement des taxes d'aéroport et à la redevance passager en application de l'article L.224-66 du Code de la Consommation".
 
 * **S'agissant du traitement des no show**
 
@@ -503,7 +507,7 @@ A titre d’exemple, nous pourrons exercer ce type de refus dans les cas suivant
 * vous nous réclamez, lors de l'enregistrement ou de l'embarquement, une assistance particulière que vous n’avez pas signalée au moment de la réservation de votre voyage ;
 * vous n'observez pas les instructions et les réglementations concernant la sécurité ou la sûreté ;
 * vous n'êtes pas en mesure de prouver que vous êtes la personne désignée dans la case "nom du Passager" du Billet.
-* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus
+* vous n'avez pas utilisé les Coupons de Vol dans l'ordre d'émission, selon les dispositions de l'article 4.3 ci-dessus".
 
 Dans les cas prévus ci-dessus, nous nous réservons le droit de conserver votre Billet.
 
