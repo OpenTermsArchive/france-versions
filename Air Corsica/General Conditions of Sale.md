@@ -59,7 +59,7 @@ Tout Billet doit être intégralement utilisé dans l'ordre séquentiel réserv�
 
 Nous vous informons que dans le cas où votre billet n'est plus valide et n'a pas donné lieu à transport, vous bénéficiez d'un droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation. Pour obtenir le remboursement de ces sommes, vous pouvez nous adresser gratuitement votre demande sur notre site dédié.
 
-Le remboursement interviendra dans les 30 jours suivant la demande
+Le remboursement interviendra dans les 30 jours suivant la demande".
 
 ### Article 13 - Politique de Sécurité et de Confidentialité
 
