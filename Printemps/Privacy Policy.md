@@ -58,8 +58,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
@@ -79,11 +79,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -155,8 +155,8 @@
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -191,11 +191,11 @@
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
     * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
+    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Voir tout](https://www.printemps.com/fr/fr/soin)
 * [Parfums](https://www.printemps.com/fr/fr/parfum)
     * [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -230,7 +230,7 @@
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
-* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-beaute)
+*  [ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
