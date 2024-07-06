@@ -43,8 +43,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
     * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
+    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme)
@@ -80,10 +80,10 @@
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -190,7 +190,6 @@
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
-    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
     * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
     * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
