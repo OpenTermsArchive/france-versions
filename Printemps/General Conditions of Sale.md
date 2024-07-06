@@ -190,7 +190,6 @@
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
-    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
     * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
     * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
     * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
