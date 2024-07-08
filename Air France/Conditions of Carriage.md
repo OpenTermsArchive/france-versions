@@ -108,7 +108,6 @@ Achat en ligne
 * [Frais d'émission - Frais de service](https://wwws.airfrance.fr/fr/information/legal/frais-emission-et-service)
 * [Moyens de paiement](https://wwws.airfrance.fr/fr/information/legal/moyens-de-paiement)
 * [Air France Shopping](https://shopping.airfrance.com/?)
-* [Cartes AIR FRANCE KLM – AMERICAN EXPRESS](https://wwws.airfrance.fr/fr/information/amex-afkl-perso-pro)
 * [Pourquoi réserver sur le site officiel Air France ?](https://wwws.airfrance.fr/fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
 #### Programme de fidélité et partenaires
@@ -119,6 +118,7 @@ Programme de fidélité et partenaires
 * [Transavia](https://www.transavia.com/fr-FR/accueil/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/fr)
+* [AIR FRANCE KLM – AMERICAN EXPRESS cards](https://wwws.airfrance.fr/fr/information/amex-afkl-perso-pro)
 * [Tous les sites airfrance.com](https://wwws.airfrance.fr/fr/splash)
 
 #### À propos d'Air France
