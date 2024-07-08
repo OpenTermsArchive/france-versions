@@ -267,6 +267,7 @@
     * [L’atrium de l’été Havaianas](https://www.printemps.com/fr/fr/edito-magasins-atrium-haussmann-havaianas-2024)
     * [La marque Typology arrivée en exclusivité au Printemps](https://www.printemps.com/fr/fr/edito-magasins-typology-2024)
     * [Le 7ème Ciel](https://www.printemps.com/fr/fr/edito-magasins-pop-up-7eciel-fevrier-2023)
+    * [Mention Trop bien !](https://www.printemps.com/fr/fr/edito-magasins-mention-trop-bien-diplomes-2024)
 
   
 
