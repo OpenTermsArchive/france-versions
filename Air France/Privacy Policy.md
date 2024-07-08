@@ -105,7 +105,6 @@ Programme de fidélité et partenaires
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/fr)
 * [AIR FRANCE KLM – AMERICAN EXPRESS cards](https://wwws.airfrance.fr/fr/information/amex-afkl-perso-pro)
-* [Tous les sites airfrance.com](https://wwws.airfrance.fr/fr/splash)
 
 #### À propos d'Air France
 
@@ -114,6 +113,7 @@ Programme de fidélité et partenaires
 * [Air France corporate](http://corporate.airfrance.com/)
 * [Affiliation](https://wwws.airfrance.fr/fr/information/prepare/services/affiliation)
 * [Destination-voyage](https://wwws.airfrance.fr/fr/travel-guide/destinations)
+* [Tous les sites airfrance.com](https://wwws.airfrance.fr/fr/splash)
 
 #### Application Mobile Air France
 
