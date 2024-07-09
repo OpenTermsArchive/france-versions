@@ -35,7 +35,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/soldes-ete/mrk/ALEXANDER+MCQUEEN)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/soldes-ete/mrk/TOMMY+HILFIGER)
     * [Saison 1865](https://www.printemps.com/fr/fr/soldes-ete/mrk/SAISON+1865)
-* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
+* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -113,7 +113,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
+* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
     
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -186,7 +186,7 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/30/3/6540303.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
+* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
@@ -224,7 +224,7 @@
     
 * [Top marques](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent)
+    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
     * [Hermès](https://www.printemps.com/fr/fr/hermes-beaute)
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
