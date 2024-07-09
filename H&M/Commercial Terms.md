@@ -37,7 +37,11 @@ Avant de passer votre commande, vous serez informé(e) des informations concerna
 
 Notre politique en matière [d'expédition et de livraison](https://www2.hm.com/fr_fr/service-clients/shippinganddelivery.modal.html) est disponible dans son intégralité sur le site hm.com.
 
-Si votre commande n'arrive pas à la date prévue, veuillez contacter le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html).**5. Droit de rétractation légal – Garanties légales de conformité et des vices cachés**   
+Si votre commande n'arrive pas à la date prévue, veuillez contacter le [Service client](https://www2.hm.com/fr_fr/service-clients/contact.html).
+
+Si votre commande contient des articles de nos marques partenaires et nécessite une livraison séparée, des frais de livraison de 4,99€ ou 29,99€ pour les articles volumineux) peuvent également s'appliquer pour chaque marque. Les coûts liés au mode de livraison choisi sont clairement indiqués lors du paiement.
+
+**5. Droit de rétractation légal – Garanties légales de conformité et des vices cachés**   
 Conformément à la législation, en tant que consommateur, vous avez le droit de vous rétracter dans un délai de 14 jours sans avoir à motiver votre décision.
 
 Le délai de rétractation expire au bout de 14 jours à compter de la date à laquelle vous ou un tiers autre que le transporteur que vous avez désigné entre en possession matérielle des produits ou, dans le cas de plusieurs produits faisant partie d'une même commande mais livrés séparément, au bout de 14 jours à compter de la date à laquelle vous ou un tiers autre que le transporteur que vous avez désigné entre en possession matérielle du dernier produit commandé.
@@ -127,6 +131,8 @@ Retrouver [ici](https://www2.hm.com/fr_fr/service-clients/retours.html) plus d�
 
 Les articles périssables tels que les plantes et les fleurs ne peuvent pas être retournés.
 
+Les frais supplémentaires pour les articles volumineux, s'ils sont facturés, ne sont pas remboursables.
+
 **7\. Modes de paiement**  
 Vous pouvez payer vos articles des façons suivantes.
 
@@ -192,4 +198,4 @@ _H & M Hennes & Mauritz Sarl est détentrice d’une assurance de responsabilit�
 75001 Paris  
   
 _  
-06/03/2024
+09/07/2024
