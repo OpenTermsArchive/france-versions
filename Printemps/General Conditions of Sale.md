@@ -190,6 +190,7 @@
     
 
 * [Soins](https://www.printemps.com/fr/fr/soin)
+    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
     * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
     * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
     * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
