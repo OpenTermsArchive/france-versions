@@ -224,7 +224,7 @@
     
 * [Top marques](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent)
     * [Hermès](https://www.printemps.com/fr/fr/hermes-beaute)
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
