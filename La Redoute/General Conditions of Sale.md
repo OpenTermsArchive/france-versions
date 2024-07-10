@@ -1,7 +1,7 @@
 Conditions Générales de Vente www.laredoute.fr  
 (hors produits vendus par le biais de la Marketplace)  
-Mise à jour du 10 juin 2024
-====================================================================================================================================
+Mise à jour du 4 juillet2024
+=====================================================================================================================================
 
 Le présent site Internet [www.laredoute.fr](http://www.laredoute.fr/) (le "**Site Internet**") est édité par la société LA REDOUTE, Société par Actions Simplifiée au capital de 181 362 300 Euros, dont le siège social est situé 110, rue de Blanchemaille, 59100 Roubaix, immatriculée au Registre du Commerce et des Sociétés de Lille-Métropole sous le numéro 477 180 186, et dont le numéro de TVA intracommunautaire est FR 20 477 180 186 ("**LA REDOUTE**").  
   
@@ -166,7 +166,7 @@ L’impossibilité d’acheminer les Produits livrés à votre étage ou à l’
 * • De demander au transporteur de reprendre le Produit en application de votre droit de rétractation ;
 * • D’accepter la livraison, qui se fera uniquement devant votre domicile ou au pied de votre immeuble.
 
-S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge. Pour l'île d'Oléron et l'île de Ré, les livraisons sont effectuées à l'adresse de livraison que vous nous aurez indiquée.
+S’agissant des livraisons réalisées par le transporteur sur les îles métropolitaines (hors Corse), celles-ci ont lieu à quai sur le continent, à l'embarcadère de la gare maritime. Les frais d'acheminement entre l'embarcadère et le domicile sont à votre charge.
 
   
 **Livraison dans un point Relais Colis ® Max » ou Relais Colis ® Drive (uniquement pour la France Métropolitaine, en Corse et à Monaco)**  
@@ -458,7 +458,7 @@ LA REDOUTE vous informe que la présence de substances dangereuses dans les équ
 \- Les articles de sport et loisirs, tels que mentionnés au 13° de l’article L. 541-10-1 du Code de l’environnement (les « **Articles de Sport et Loisirs** ») ;  
 \- Les articles de bricolage et de jardin, tels que mentionnés au 14° de l’article L. 541-10-1 du Code de l’environnement (les « **Articles de Bricolage et de Jardin** »)
 
-Pour tout achat d’un Eléments d’ameublement ou d’un Equipement Electrique ou Electronique, d’un Jouet, d’un article de Bricolage et de Jardin vendu et expédié par LA REDOUTE, il est proposé un système de collecte gratuit pour votre ancien produit. Celui-ci doit présenter des caractéristiques similaires au Produit acheté (nature et dimensions équivalentes). Par exemple : un ancien canapé 2 places sera repris pour l’achat d’un nouveau canapé 2 places. En fonction de la typologie du produit à reprendre, Vous pouvez :
+Pour tout achat d’un Eléments d’ameublement ou d’un Equipement Electrique ou Electronique, d’un Jouet, d’un article de Bricolage et de Jardin vendu et expédié par LA REDOUTE, il est proposé un système de collecte gratuit pour votre ancien produit. Celui-ci doit présenter des caractéristiques similaires au Produit acheté (produits équivalents). Par exemple : un ancien canapé 2 places sera repris pour l’achat d’un nouveau canapé 2 places. En fonction de la typologie du produit à reprendre, Vous pouvez :
 
 **Déposer le produit en point de collecte**  
 Si votre ancien produit a un poids inférieur à 40 kg, il peut être déposé dans un point de collecte de l’un de nos partenaires Ecosystem (pour les Equipements Electriques ou Electroniques) ou Ecomaison (pour les Eléments d’ameublement, pour les Jouets et pour les Articles de Bricolage et de Jardin), et Ecologic (pour les Articles de sport et loisirs).
