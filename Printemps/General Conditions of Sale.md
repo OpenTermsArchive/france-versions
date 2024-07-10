@@ -187,47 +187,70 @@
 * [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
     
 
-* [Soins](https://www.printemps.com/fr/fr/soin)
-    * [Compléments Alimentaires](https://www.printemps.com/fr/fr/complements-alimentaires)
-    * [Soins cheveux](https://www.printemps.com/fr/fr/soins-cheveux)
-    * [Soins solaires](https://www.printemps.com/fr/fr/soins-solaires)
-    * [Soins du corps](https://www.printemps.com/fr/fr/soins-corps)
-    * [Soins de la barbe](https://www.printemps.com/fr/fr/soins-barbe)
-    * [Soins du visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Voir tout](https://www.printemps.com/fr/fr/soin)
-* [Parfums](https://www.printemps.com/fr/fr/parfum)
-    * [Eaux de cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
-    * [Eaux de toilette et parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
-    * [Extrait de parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
-    * [Soins parfumés](https://www.printemps.com/fr/fr/soins-parfumes)
-    * [Voir tout](https://www.printemps.com/fr/fr/parfum)
-
-* [Maquillage](https://www.printemps.com/fr/fr/maquillage)
-    * [Lèvres](https://www.printemps.com/fr/fr/levres)
-    * [Ongles](https://www.printemps.com/fr/fr/ongles)
-    * [Palettes](https://www.printemps.com/fr/fr/palettes)
+* [PARFUMS](https://www.printemps.com/fr/fr/parfum)
+    * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
+    * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
+    * [Eaux De Cologne](https://www.printemps.com/fr/fr/eaux-de-cologne)
+    * [Extraits De Parfum](https://www.printemps.com/fr/fr/extrait-de-parfum)
+    * [Soins ParfumÉS](https://www.printemps.com/fr/fr/soins-parfumes)
+* [MAQUILLAGE](https://www.printemps.com/fr/fr/maquillage)
+    * [Voir Tout](https://www.printemps.com/fr/fr/maquillage)
     * [Teint](https://www.printemps.com/fr/fr/teint)
+    * [LÈVres](https://www.printemps.com/fr/fr/levres)
     * [Yeux](https://www.printemps.com/fr/fr/yeux)
-    * [Voir tout](https://www.printemps.com/fr/fr/maquillage)
-* [Accessoires](https://www.printemps.com/fr/fr/accessoires)
+    * [Palettes](https://www.printemps.com/fr/fr/palettes)
+    * [Ongles](https://www.printemps.com/fr/fr/ongles)
+
+* [SOINS](https://www.printemps.com/fr/fr/soin)
+    * [Voir Tout](https://www.printemps.com/fr/fr/soin)
+    * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
+    * [Soins Visage](https://www.printemps.com/fr/fr/soins-visage)
+    * [Soins Corps](https://www.printemps.com/fr/fr/soins-corps)
+    * [ComplÉMents Alimentaires](https://www.printemps.com/fr/fr/bien-etre)
+* [SOINS CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
+    * [Voir Tout](https://www.printemps.com/fr/fr/soins-cheveux)
+    * [Shampoing & AprÈS-Shampoing](https://www.printemps.com/fr/fr/soins-cheveux/sct/Shampoing+%26+Apr%C3%A8s+shampoing)
+    * [Soins](https://www.printemps.com/fr/fr/soins-cheveux/sct/Masque+cheveux/Lotion+%26+tonique+cheveux/Hydratant+%26+nourrissant+cheveux/Soin+cibl%C3%A9+cheveux/S%C3%A9rum+cheveux/Huile+cheveux/Exfoliant+%26+gommage+cheveux)
+    * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant)
+    * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser)
+
+* [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
-* [Coffrets](https://www.printemps.com/fr/fr/coffret-palette)
+* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires)
     
-* [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
+* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
 
-* [Soldes](https://www.printemps.com/fr/fr/soldes-ete-beaute)
+* [INSPIRATIONS](#)
+    * Préparer sa peau au soleil
+    * Formats voyage
+    * Parfums d'été
+    * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
+* [SÉLECTIONS](#)
+    * Parfums best-sellers
+    * Parfums d'exception
+    * Soins hydratants
+    * Soins anti-imperfections
+    * [Soins Anti-ÂGe](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
+
+* [Maison Francis Kurkdjian](#)
     
-* [Top marques](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Hermès](https://www.printemps.com/fr/fr/hermes-beaute)
-    * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
-    * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
-    * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+* [Parfums de Marly](#)
+    
+* [Rituals](#)
+    
+* [Aesop](https://www.printemps.com/fr/fr/aesop)
+    
+* [Leonor Greyl](#)
+    
+* [Oribe](#)
+    
+* [Hermès](#)
+    
+* [Nars](#)
+    
 *  [![](https://media-cdn.printemps.com/image/68/5/6543685.jpeg) ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
     
 
