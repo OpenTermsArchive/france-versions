@@ -43,8 +43,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
     * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme)
@@ -79,10 +79,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
+    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
@@ -120,8 +120,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-homme)
     * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
     * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
@@ -151,10 +151,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
-    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -224,33 +224,27 @@
     
 
 * [INSPIRATIONS](#)
-    * Préparer sa peau au soleil
-    * Formats voyage
-    * Parfums d'été
+    * [Préparer sa peau au soleil](https://www.printemps.com/fr/fr/plein-soleil)
+    * [Formats voyage](https://www.printemps.com/fr/fr/petits-formats)
+    * [Parfums d'été](https://www.printemps.com/fr/fr/parfums-ete)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
 * [SÉLECTIONS](#)
-    * Parfums best-sellers
-    * Parfums d'exception
-    * Soins hydratants
-    * Soins anti-imperfections
+    * [Parfums best-sellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
+    * [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
+    * [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
+    * [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
     * [Soins Anti-ÂGe](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
-* [Maison Francis Kurkdjian](#)
-    
-* [Parfums de Marly](#)
-    
-* [Rituals](#)
-    
-* [Aesop](https://www.printemps.com/fr/fr/aesop)
-    
-* [Leonor Greyl](#)
-    
-* [Oribe](#)
-    
-* [Hermès](#)
-    
-* [Nars](#)
-    
+* [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
+    * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
+    * [Aesop](https://www.printemps.com/fr/fr/aesop-beaute)
+    * [Leonor Greyl](https://www.printemps.com/fr/fr/leonor-greyl-beaute)
+    * [Oribe](https://www.printemps.com/fr/fr/oribe-beaute)
+    * [Hermès](https://www.printemps.com/fr/fr/hermes-beaute)
+    * [Nars](https://www.printemps.com/fr/fr/nars-beaute)
+    * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
 *  [![](https://media-cdn.printemps.com/image/68/5/6543685.jpeg) ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
     
 
