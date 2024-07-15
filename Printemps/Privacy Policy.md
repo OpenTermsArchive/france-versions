@@ -246,7 +246,7 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/68/5/6543685.jpeg) ORIBE](https://www.printemps.com/fr/fr/oribe-beaute)
+*  [![](https://media-cdn.printemps.com/image/68/1/6497681.jpg) MAISON VIOLET](https://www.printemps.com/fr/fr/maison-violet-beaute)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
