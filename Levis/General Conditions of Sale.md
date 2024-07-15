@@ -3,6 +3,8 @@
 CONDITIONS GÉNÉRALES CONSOMMATEURS
 ==================================
 
+[](javascript:void(0))[LIVRAISON](javascript:void(0))[RETOURS](javascript:void(0))[LIVRAISON](javascript:void(0))[PAIEMENT](javascript:void(0))[VOTRE COMMANDE](javascript:void(0))[VOTRE COMPTE](javascript:void(0))[CONTACTEZ-NOUS](javascript:void(0))
+
 [Print This Page](javascript:window.print())
 
 Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Airport Plaza - Rio Building, Leonardo Da Vincilaan 19, 1831 DIEGEM, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
@@ -387,3 +389,30 @@ Pour consulter la Politique de confidentialité de Levi Strauss & Co., [**clique
 Pour de plus amples informations concernant nos politiques et nos pratiques en matière de cookies et de navigation des consommateurs, [**cliquez ici**](https://www.levi.com/FR/fr_FR/legal/privacy-policy#cookies) et lisez notre Politique relative aux cookies.
 
 [Print This Page](javascript:window.print())
+
+Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
+
+Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
+
+\- 10% sur votre commande en vous inscrivant à notre newsletter
+
+Livraison et retours GRATUITS
+
+Accès EXCLUSIF aux réductions et aux nouveautés
+
+Une PETITE surprise d'anniversaire chaque année
+
+Hide PasswordHide Password
+
+Les mots de passe doivent contenir au moins 8 caractères et être difficiles à deviner - les mots de passe couramment utilisés ou risqués ne sont pas autorisés.
+
+Surprise d’anniversaire (facultatif)
+------------------------------------
+
+Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
+
+Je m’abonne !Non, merci !
+
+By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+
+Nous rejoindre[Se connecter avec un compte existant](javascript:;)
