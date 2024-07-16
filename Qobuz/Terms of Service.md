@@ -6,7 +6,7 @@ Préambule
 
 Définitions
 
-1.            Description du service
+1.            Description du Service
 
 2.            Conditions d’accès
 
@@ -228,9 +228,9 @@ Au sens des présentes CGUV, s'appliqueront les définitions suivantes :
 
   
 
-**1.         Description du service**
+**1.         Description du Service**
 
-Le Site propose au Client des services audio/vidéo en ligne, dont les conditions précises sont détaillées dans les présentes CGUV.
+Le Site propose au Client un Service audio/vidéo en ligne, dont les conditions précises sont détaillées dans les présentes CGUV.
 
 Le Service QOBUZ est réservé aux particuliers majeurs ou mineurs titulaires d'une autorisation parentale, et ne peut être utilisé à des fins professionnelles. A cet égard, les présentes dispositions s'entendent sans préjudice des dispositions légales protectrices du consommateur, notamment prévues au Code de la consommation.
 
@@ -294,15 +294,15 @@ Le Client doit satisfaire aux exigences relatives à l'âge dans le tableau ci-d
 
 **3.         Description des offres QOBUZ**
 
-XANDRIE SA propose au Client une offre de Téléchargement d'enregistrements musicaux (titres ou albums) disponibles en différentes qualités audio, notamment en Vraie Qualité CD et en Qualité Hi-Res 24-bit. Ce service est accessible 24 heures sur 24 et 7 jours sur 7.
+XANDRIE SA propose au Client une offre de Téléchargement d'enregistrements musicaux (titres ou albums) disponibles en différentes qualités audio, notamment en Vraie Qualité CD et en Qualité Hi-Res 24-bit. Ce Service est accessible 24 heures sur 24 et 7 jours sur 7.
 
 L’offre de Téléchargement est actuellement indisponible dans les pays d’Amérique Latine et au Portugal.
 
-Les offres de streaming QOBUZ sont des offres d’abonnement payants à un service d’écoute de musique en ligne sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical sur les appareils d’écoutes autorisés (ordinateur personnel, tablette, smartphone, appareil audio connecté).
+Les offres de streaming QOBUZ sont des offres d’abonnement payants à un service d’écoute de musique en ligne sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical sur les Périphériques d’écoutes autorisés (ordinateur personnel, tablette, smartphone, appareil audio connecté).
 
 Le service de streaming QOBUZ propose également au Client d'accéder aux fichiers numériques sur tout Périphérique d'écoute en Mode déconnecté via la fonction d'Importation.
 
-Le Mode déconnecté permet au Client d'écouter les titres, albums, playlists qu'il aura préalablement chargés via la fonction d'Importation sur tout Périphérique d'écoute grâce aux Applications QOBUZ. Pour ce faire, le Client devra préalablement importer les pistes, albums et playlists concernés sur les appareils désirés et sélectionner le Mode déconnecté.
+Le Mode déconnecté permet au Client d'écouter les titres, albums, playlists qu'il aura préalablement chargés via la fonction d'Importation sur tout Périphérique d'écoute grâce aux Applications QOBUZ. Pour ce faire, le Client devra préalablement importer les pistes, albums et playlists concernés sur les Périphériquess désirés et sélectionner le Mode déconnecté.
 
 L’écoute de la musique importée sera alors possible sans connexion internet active pendant une période de 30 jours. A l’issue de ces 30 jours, une reconnexion au service sera nécessaire pour réactiver l’écoute de la musique importée en mode déconnecté.
 
@@ -314,21 +314,21 @@ Le service de streaming QOBUZ est accessible 24 heures sur 24 et 7 jours sur 7.
 
 Néanmoins, en raison de la complexité du réseau Internet, des interruptions de service imprévues peuvent se produire (problèmes dus au fournisseur d'accès Internet, maintenance externe...) sans que la responsabilité de XANDRIE SA puisse se trouver engagée en pareil cas. XANDRIE SA s'engage néanmoins, dans la mesure du possible, à informer ses Clients de toute interruption prévisible de ses services par le biais d'un message affiché sur son Site.
 
-De même, XANDRIE SA se réserve le droit d'interrompre définitivement un service ou l'ensemble des services proposés sur le site, sans préavis ni indemnité en cas de comportement frauduleux ou abusif du client constituant une violation manifeste des CGV et sous réserve d'un préavis de 8 jours dans les autres cas et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, à l'exception des livraisons de fichiers défectueux.
+De même, XANDRIE SA se réserve le droit d'interrompre définitivement une partie ou l'ensemble du Service proposé sur le site, sans préavis ni indemnité en cas de comportement frauduleux ou abusif du client constituant une violation manifeste des CGV et sous réserve d'un préavis de 8 jours dans les autres cas et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, à l'exception des livraisons de fichiers défectueux.
 
   
 
 **4.         Conditions d’utilisation des offres d’abonnements QOBUZ**  
 
-Le Service de streaming QOBUZ sera accessible par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
+Le service de streaming QOBUZ sera accessible par le Client sur son ordinateur personnel (PC ou Mac) via le Site, le Player QOBUZ, ou l'application QOBUZ Desktop.
 
 Le Streaming et l'Importation sur les Périphériques d’écoute mobiles nécessitent le téléchargement et l'installation préalables des applications mobiles QOBUZ sur ces supports (liste des applications mobiles disponibles à l’adresse suivante : [https://www.qobuz.com/fr-fr/applications](https://www.qobuz.com/fr-fr/applications)).
 
-L'utilisation du Service d'écoute illimitée en streaming nécessite une connexion internet haut-débit et éventuellement une connexion sans fil (Wifi et réseaux radiotéléphoniques mobiles) pour les Périphériques d’écoute mobiles.   
+L'utilisation du service de streaming QOBUZ nécessite une connexion internet haut-débit et éventuellement une connexion sans fil (Wifi et réseaux radiotéléphoniques mobiles) pour les Périphériques d’écoute mobiles.   
   
 Les frais de connexion et de communication relatifs à l'utilisation d'un service de vente en ligne ne sont pas pris en charge par XANDRIE SA conformément à l'Article 5 des présentes CGUV.
 
-L’accès au Service de streaming QOBUZ est strictement personnel et ne peut pas être utilisé sur plusieurs Périphériques d’écoute à la fois, à l’exception des offres DUO et FAMILLE. 
+L’accès au service de streaming QOBUZ est strictement personnel et ne peut pas être utilisé sur plusieurs Périphériques d’écoute à la fois, à l’exception des offres DUO et FAMILLE. 
 
 QOBUZ accorde aux abonnés de son Service de streaming une licence limitée, non-exclusive et révocable les autorisant à écouter en temps réel, sans autorisation de téléchargement, dans leur pays de résidence le contenu multimédia disponible sur QOBUZ à travers leur offre d’abonnement. Cette utilisation doit être faite dans un cadre personnel et non-commercial. Les abonnés ne sont pas autorisés à céder ou à sous-licencier leurs droits au terme de leur abonnement.
 
@@ -385,7 +385,7 @@ Le Client reconnaît expressément que toute utilisation des fichiers musicaux s
 
 Le Client reconnaît expressément que toute utilisation dans ce cadre est de nature à causer des préjudices aux ayants droit concernés et à porter atteinte au droit moral de l'auteur.
 
-Le Client s'engage expressément à ne pas utiliser le Site ou ses Services à des fins illégales.
+Le Client s'engage expressément à ne pas utiliser le Site ou le Service à des fins illégales.
 
 Le client s’engage expressément à ne pas faire un usage inapproprié et déloyal de son compte afin d'augmenter artificiellement (soit manuellement, soit via un processus automatisé) le nombre de streams sur un nombre restreint de titres. XANDRIE SA se réservant le droit de suspendre le compte de cet utilisateur.
 
@@ -407,7 +407,7 @@ Ces CGUV n'emportent en aucun cas autorisation de représenter, reproduire, modi
 
 Toute reproduction totale ou partielle, à d'autres fins qu'une utilisation conforme à sa/leur destination, est strictement interdite : toute revente, échange, louage des fichiers ou transfert à des tiers sont strictement interdits. 
 
-A l’exception des offres d’abonnement STUDIO DUO, SUBLIME DUO, STUDIO FAMILLE et SUBLIME FAMILLE, le Client bénéficie d'un droit d'utilisation personnel et non-commercial des Applications QOBUZ. QOBUZ n'est accessible qu’à partir d’un (1) seul appareil à la fois.  
+A l’exception des offres d’abonnement STUDIO DUO, SUBLIME DUO, STUDIO FAMILLE et SUBLIME FAMILLE, le Client bénéficie d'un droit d'utilisation personnel et non-commercial des Applications QOBUZ. QOBUZ n'est accessible qu’à partir d’un (1) seul Périphérique d'écoute à la fois.  
 
 Toute utilisation des Applications QOBUZ par le Client sortant du cadre des présentes est prohibée, et expose le Client à des poursuites judiciaires civiles et pénales. 
 
@@ -490,7 +490,7 @@ Il est recommandé au Client de consulter régulièrement son compte et de conta
 
 Le moyen de paiement utilisé pour souscrire aux offres d’abonnement sera réutilisé lors du renouvellement automatique de l'abonnement, à moins que l'utilisateur ne change ce moyen de paiement dans la rubrique « Mon compte ». Ce changement de moyen de paiement peut être réalisé à tout moment. 
 
-Les offres d’essai et de découvertes du service que XANDRIE SA peut proposer peuvent également être subordonnées à la saisie d’un moyen de paiement, sans que ces offres n'entraînent aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celles-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
+Les offres d’essai et de découvertes du Service que XANDRIE SA peut proposer peuvent également être subordonnées à la saisie d’un moyen de paiement, sans que ces offres n'entraînent aucun prélèvement du Client pendant la durée spécifiée dans l’offre. Au terme de celles-ci, le moyen de paiement qui aura été renseigné par le Client sera réutilisé pour le renouvellement automatique de l’abonnement du Client au tarif de l’offre d’abonnement en vigueur au moment de la souscription de l’offre d’essai et de découverte. Pendant la durée de ces offres d’essai et de découverte du service de streaming QOBUZ, le Client peut résilier à tout moment son abonnement en cours.
 
   
 
@@ -641,7 +641,7 @@ Conformément aux dispositions de l'Article L221-28-13° du Code de la consommat
 
 En conséquence, aucune demande de rétractation, d'annulation ou de remboursement ne sera recevable après chaque Téléchargement. 
 
-De la même façon, le Client reconnaît et accepte expressément en acceptant les présentes CGUV lors de son inscription (i) que la fourniture du Service d’écoute de musique en ligne commence immédiatement après la validation de son abonnement à l’une des offres de streaming QOBUZ et (ii) reconnaît et accepte en conséquence de ne pas bénéficier du droit de rétractation et du délai de quatorze jours francs lié à la vente en ligne ou à distance tels que prévus dans le Code de la Consommation. 
+De la même façon, le Client reconnaît et accepte expressément en acceptant les présentes CGUV lors de son inscription (i) que la fourniture du service de streaming QOBUZ commence immédiatement après la validation de son abonnement à l’une des offres de streaming QOBUZ et (ii) reconnaît et accepte en conséquence de ne pas bénéficier du droit de rétractation et du délai de quatorze jours francs lié à la vente en ligne ou à distance tels que prévus dans le Code de la Consommation. 
 
 En conséquence, aucune demande de rétractation, d'annulation ou de remboursement ne sera recevable pour la période souscrite. 
 
@@ -720,7 +720,7 @@ De même, les diverses possibilités de gravure ou de transfert proposées au Cl
 
 Le Client s'engage par les présentes à ne pas porter atteinte (modification, suppression...) à toutes mesures techniques de protection des droits, à ne pas faire obstacle, modifier, ou supprimer toute information relative au régime des droits sur les produits, ni à encourager ou aider des tiers à effectuer de tels actes. De même, il s'engage à ne pas essayer de contourner ou de modifier les logiciels nécessaires à l'utilisation des services.
 
-Le Client bénéficie d'un droit d'utilisation personnel du service, limité aux conditions décrites à l'Article 4, dans un cadre strictement cadre personnel et non-commercial. Toute utilisation du service par le Client sortant du cadre des présentes CGUV est prohibée, et expose le Client à des poursuites judiciaires civiles et pénales.
+Le Client bénéficie d'un droit d'utilisation personnel du Service, limité aux conditions décrites à l'Article 4, dans un cadre strictement cadre personnel et non-commercial. Toute utilisation du Service par le Client sortant du cadre des présentes CGUV est prohibée, et expose le Client à des poursuites judiciaires civiles et pénales.
 
   
 
@@ -766,7 +766,7 @@ Toutes les autres dispositions demeureront en vigueur et applicables, sauf les c
 
           **21.1 QOBUZ PREMIUM** 
 
-Les présentes CGUV régissent l’offre d’abonnement payant PREMIUM (ci-après dénommée « l’offre PREMIUM ») sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en qualité 320 kbps (Mp3) sur un seul appareil d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté). 
+Les présentes CGUV régissent l’offre d’abonnement payant PREMIUM (ci-après dénommée « l’offre PREMIUM ») sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en qualité 320 kbps (Mp3) sur un seul Périphérique d'écoute d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté). 
 
 Pour bénéficier de l’offre PREMIUM, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.              
 
@@ -807,7 +807,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
        **21.2 QOBUZ STUDIO SOLO**
 
-Les présentes CGUV régissent les offres d’abonnement payant STUDIO SOLO ou STUDIO PREMIER ou HI-FI (ci-après dénommées « l’offre STUDIO SOLO ») sans publicité permettant au Client d'écouter l'ensemble du catalogue STUDIO PREMIER en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur un seul appareil d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté).
+Les présentes CGUV régissent les offres d’abonnement payant STUDIO SOLO ou STUDIO PREMIER ou HI-FI (ci-après dénommées « l’offre STUDIO SOLO ») sans publicité permettant au Client d'écouter l'ensemble du catalogue STUDIO PREMIER en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur un seul Périphérique d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté).
 
 Pour bénéficier de l’offre STUDIO SOLO, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
@@ -853,7 +853,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
            **21.3 QOBUZ STUDIO DUO**
 
-Les présentes CGUV portent sur l‘abonnement payant STUDIO DUO (ci-après dénommé "l’offre STUDIO DUO"), sans publicité permettant au Client, d'écouter l'ensemble des titres présents au catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté).
+Les présentes CGUV portent sur l‘abonnement payant STUDIO DUO (ci-après dénommé "l’offre STUDIO DUO"), sans publicité permettant au Client, d'écouter l'ensemble des titres présents au catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) Périphériques d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté).
 
 Pour bénéficier de l’offre STUDIO DUO, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
@@ -861,7 +861,7 @@ Pour bénéficier de l’offre STUDIO DUO, tout Client du Site devra avoir préa
 
              21.3.1   Description et disponibilité de l’offre STUDIO DUO
 
-QOBUZ propose l’offre STUDIO DUO permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) appareils d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).         
+QOBUZ propose l’offre STUDIO DUO permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) Périphériques d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).         
 
 La souscription à l’offre STUDIO DUO est accessible uniquement sur le site de QOBUZ.
 
@@ -890,9 +890,9 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
 L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ. 
 
-Dans le cadre de l’offre STUDIO DUO, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
+Dans le cadre de l’offre STUDIO DUO, il ne peut y avoir plus de trois (3) Périphériques associés à chaque sous compte : deux (2) Périphériques d'écoute mobiles, en plus de l'accès par ordinateur.
 
-L’offre STUDIO DUO permet l’écoute de musique en ligne sur un maximum de deux (2) appareils utilisés en simultané par abonnement STUDIO DUO.
+L’offre STUDIO DUO permet l’écoute de musique en ligne sur un maximum de deux (2) Périphériques d'écoute utilisés en simultané par abonnement STUDIO DUO.
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre STUDIO DUO est exclusivement destinée aux abonnés résidant à une même adresse.
 
@@ -940,13 +940,13 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
        **21.4 QOBUZ STUDIO FAMILLE**
 
-Les présentes CGUV portent sur les abonnements payants STUDIO FAMILLE (ci-après dénommés "l’offre STUDIO FAMILLE"), sans publicité permettant au Client, d'écouter l'ensemble des titres présents au catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté). 
+Les présentes CGUV portent sur les abonnements payants STUDIO FAMILLE (ci-après dénommés "l’offre STUDIO FAMILLE"), sans publicité permettant au Client, d'écouter l'ensemble des titres présents au catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) Périphériques d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté). 
 
 Pour bénéficier de l’offre STUDIO FAMILLE, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
 
              21.4.1   Description et disponibilité de l’offre STUDIO FAMILLE
 
-QOBUZ propose l’offre STUDIO FAMILLE permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) appareils d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).     
+QOBUZ propose l’offre STUDIO FAMILLE permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) Périphériques d'écoute d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).     
 
 La souscription à l’offre STUDIO FAMILLE est accessible uniquement sur le site de QOBUZ.
 
@@ -970,9 +970,9 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
 L’offre STUDIO FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à cinq (5) personnes. Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
-Dans le cadre de l’offre STUDIO FAMILLE, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
+Dans le cadre de l’offre STUDIO FAMILLE, il ne peut y avoir plus de trois (3) Périphériques d'écoute associés à chaque sous compte : deux (2) Périphériques d'écoute mobiles, en plus de l'accès par ordinateur.
 
-L’offre STUDIO FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) appareils utilisés en simultané par famille.
+L’offre STUDIO FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) Périphériques d'écoute utilisés en simultané par famille.
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre STUDIO FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
 
@@ -1066,7 +1066,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
 Les présentes CGUV portent sur l‘abonnement payant SUBLIME DUO (ci-après dénommé "l’offre SUBLIME DUO"), donnant accès :
 
-* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
+* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur trois (3) Périphériques d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
 
 * aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ. 
 
@@ -1074,7 +1074,7 @@ Pour bénéficier de l’offre SUBLIME DUO, tout Client du Site devra avoir pré
 
            21.6.1   Description et disponibilité de l’offre SUBLIME DUO
 
-XANDRIE SA propose l’offre SUBLIME DUO permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) appareils d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).     
+XANDRIE SA propose l’offre SUBLIME DUO permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) Périphériques d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).     
 
 La souscription à l’offre SUBLIME DUO est accessible uniquement sur le site de QOBUZ.
 
@@ -1104,9 +1104,9 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
 L’offre DUO permet au titulaire d'un compte authentifié comme compte principal d'inviter un (1) abonné secondaire. Chacun aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ. 
 
-Dans le cadre de l’offre SUBLIME DUO, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
+Dans le cadre de l’offre SUBLIME DUO, il ne peut y avoir plus de trois (3) Périphériques d'écoute associés à chaque sous compte : deux (2) Périphériques d'écoute mobiles, en plus de l'accès par ordinateur.
 
-L’offre SUBLIME DUO permet l’écoute de musique en ligne sur un maximum de deux (2) appareils utilisés en simultané par abonnement SUBLIME DUO.
+L’offre SUBLIME DUO permet l’écoute de musique en ligne sur un maximum de deux (2) Périphériques d'écoute utilisés en simultané par abonnement SUBLIME DUO.
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre SUBLIME DUO est exclusivement destinée aux abonnés résidant à une même adresse.
 
@@ -1152,7 +1152,7 @@ Si le Client a souscrit une période d’essai ou un Abonnement payant par l’i
 
 Les présentes CGUV portent sur les abonnements payants SUBLIME FAMILLE (ci-après dénommés "l’offre SUBLIME FAMILLE") donnant accès :
 
-* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) appareils d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
+* au service de streaming QOBUZ sans publicité permettant au Client d'écouter l'ensemble des titres du catalogue musical du Site en vraie qualité CD et en qualité Hi-Res (24-bits et jusqu’à 192 kHz) sur six (6) Périphériques d’écoute à la fois (ordinateur personnel, tablette, smartphone, appareil audio connecté) ;
 * aux Albums en qualité CD et Hi-Res 24-bit en téléchargement permanent, à un tarif préférentiel, selon les conditions prévues dans les CGUV Téléchargement QOBUZ. 
 
 Pour bénéficier de l’offre SUBLIME FAMILLE, tout Client du Site devra avoir préalablement consulté et accepté sans restriction ni réserves les présentes CGUV.
@@ -1161,7 +1161,7 @@ Pour bénéficier de l’offre SUBLIME FAMILLE, tout Client du Site devra avoir 
 
              21.7.1   Description et disponibilité de l’offre SUBLIME FAMILLE
 
-XANDRIE SA propose l’offre SUBLIME FAMILLE permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) appareils d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, appareils audio connectés).     
+XANDRIE SA propose l’offre SUBLIME FAMILLE permettant au client d'écouter les titres de qualité haute résolution du catalogue musical du site web sur trois (3) Périphériques d'écoute spécifiques non mobiles ou mobiles (ordinateur personnel, tablettes, smartphones, s audio connectés).     
 
 La souscription à l’offre SUBLIME FAMILLE est accessible uniquement sur le site de QOBUZ.
 
@@ -1187,9 +1187,9 @@ XANDRIE SA se réserve le droit de résilier ou de suspendre l'accès immédiate
 
 L’offre SUBLIME FAMILLE permet au titulaire d'un compte authentifié comme compte familial principal d'inviter jusqu'à cinq (5) personnes. Chaque membre de la famille aura un compte individuel avec un accès individuel au contenu musical proposé par QOBUZ.
 
-Dans le cadre de l’offre SUBLIME FAMILLE, il ne peut y avoir plus de trois (3) appareils associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
+Dans le cadre de l’offre SUBLIME FAMILLE, il ne peut y avoir plus de trois (3) Périphériques d'écoute associés à chaque sous compte : deux (2) appareils mobiles, en plus de l'accès par ordinateur.
 
-L’offre SUBLIME FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) appareils utilisés en simultané par famille.
+L’offre SUBLIME FAMILLE permet l’écoute de musique en ligne sur un maximum de six (6) Périphériques d'écoute utilisés en simultané par famille.
 
 Aucun partage de compte ou d'abonnement n'est accepté ou autorisé comme indiqué dans les présentes CGUV. L'offre SUBLIME FAMILLE est exclusivement destinée aux membres de la famille résidant à une même adresse.
 
@@ -1245,7 +1245,7 @@ XANDRIE SA propose au Client une offre de Téléchargement d'enregistrements mus
 
 Néanmoins, en raison de la complexité du réseau Internet, des interruptions de service imprévues peuvent se produire (problèmes dus au fournisseur d'accès Internet, maintenance externe, etc...) sans que la responsabilité de XANDRIE SA puisse se trouver engagée en pareil cas, sauf en cas de faute intentionnelle ou de négligence grave de la part de XANDRIE SA. XANDRIE SA s'engage néanmoins, dans la mesure du possible, à informer ses Clients de toute interruption prévisible de ses services par le biais d'un message affiché sur son Site.
 
-XANDRIE SA se réserve le droit d'apporter à ses services toute modification ou amélioration qu'il jugerait nécessaire et utile, et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, sauf en cas de faute intentionnelle ou de négligence grave de la part de XANDRIE SA.
+XANDRIE SA se réserve le droit d'apporter au service toute modification ou amélioration qu'il jugerait nécessaire et utile, et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, sauf en cas de faute intentionnelle ou de négligence grave de la part de XANDRIE SA.
 
 De même, XANDRIE SA se réserve le droit, sans préavis ni indemnité, d'arrêter définitivement un service ou l'ensemble des services proposés sur le Site, et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, à l'exception des livraisons de fichiers défectueux.
 
@@ -1255,7 +1255,7 @@ L’offre de Téléchargement est actuellement indisponible dans les pays d’Am
 
              21.8.2   Conditions d’accès à l’offre de téléchargement
 
-Pour pouvoir bénéficier des Services, le Client doit obligatoirement procéder à la création de son compte. Pour ce faire, il clique simplement sur le bouton « Mon compte », disponible sur la page d'accueil du Site. Il suit ensuite les instructions qui lui sont indiquées par le Site.
+Pour pouvoir bénéficier du Service, le Client doit obligatoirement procéder à la création de son compte. Pour ce faire, il clique simplement sur le bouton « Mon compte », disponible sur la page d'accueil du Site. Il suit ensuite les instructions qui lui sont indiquées par le Site.
 
 Il est demandé au Client de choisir un identifiant (pseudo) et un mot de passe. Ces éléments sont strictement confidentiels, et le Client est invité à les conserver avec la plus grande prudence. Le Client reste en effet seul responsable des conséquences de l'utilisation de son compte, jusqu'à la désactivation de ce dernier.
 
