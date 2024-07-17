@@ -1,11 +1,11 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 12/04/2024
+Date : 17/07/2024
 
 Bienvenue sur Showroomprive.com
 
-Nous vous invitons à lire attentivement nos conditions générales de vente (les « **CGV**») avant d'utiliser le site Showroomprive.com et son application mobile (le « **Site** »). Celles-ci peuvent être amenées à évoluer pour tenir compte de la réglementation applicable. Il est précisé que ces CGV s'appliquent à la vente de produits (prêt à porter, chaussures, cosmétiques, petits électroménagers, accessoires etc.) à la vente de coupons valables auprès de nos partenaires (ci-après, le(s) « Coupon(s) ») ainsi qu'à la vente de prestations de loisirs et billetterie, sauf lorsque ces dernières sont proposées par des partenaires de SRP (identifiées par la mention « en partenariat avec » ou « \[nom du partenaire\] x showroomprive.com qui sont alors soumises aux conditions générales de vente du partenaire, présentes sur le site de la vente concernée (ci-après « **les Ventes Partenaires** »).
+Nous vous invitons à lire attentivement nos conditions générales de vente (les « **CGV**») avant d'utiliser le site Showroomprive.com et son application mobile (le « **Site** »). Celles-ci peuvent être amenées à évoluer pour tenir compte de la réglementation applicable. Il est précisé que ces CGV s'appliquent à la vente de produits (prêt à porter, chaussures, cosmétiques, petits électroménagers, accessoires etc.) et à la vente de coupons valables auprès de nos partenaires (ci-après, le(s) « Coupon(s) »)
 
 **Table des matières**
 
@@ -20,8 +20,6 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 \- Article 5 - Comment régler votre commande ?
 
 \- Article 6 - Quand vos produits vous seront-ils livrés ?
-
-\- Article 7 - Quelles sont les modalités dans le cas de ventes de prestations de loisirs ou billetterie ?
 
 \- Article 8 - Quand vais-je recevoir mon coupon ?
 
@@ -43,7 +41,7 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 
 **Article 1 - Qui sommes-nous ?**
 
-Notre Site est édité et exploité par la société Showroomprive.com, SARL au capital de 115 481 749,68 euros, dont le siège social est situé à ZAC de la Montjoie - 1 rue des blés - 93210 La Plaine Saint-Denis, immatriculée au Registre du commerce et des sociétés de Bobigny sous le numéro 538 811 837, TVA Intracommunautaire FR72 538 811 837.
+Notre Site est édité et exploité par la société Showroomprive.com, SAS au capital de 104.254.357,35 € euros, dont le siège social est situé à ZAC de la Montjoie - 1 rue des blés - 93210 La Plaine Saint-Denis, immatriculée au Registre du commerce et des sociétés de Bobigny sous le numéro 538 811 837, TVA Intracommunautaire FR72 538 811 837.
 
 Pour toute demande d'information, vous pouvez vous adresser directement à notre Service Client :
 
@@ -82,14 +80,14 @@ Vous vous engagez à créer et utiliser un seul compte. A défaut, en cas de cr�
 Pour commander sur notre Site :
 
 1. Connectez-vous à votre compte personnel ;
-2. Profitez de nos ventes en sélectionnant les produits, les Coupons de votre choix, ou encore les prestations de loisirs ou de billetterie (les produits, les Coupons et les prestations de loisirs et de billetterie étant définis ensemble les « **Articles** ») ;
+2. Profitez de nos ventes en sélectionnant les produits et/ou les Coupons de votre choix étant définis ensemble les « **Articles** ») ;
 3. Prenez connaissance des intitulés et caractéristiques essentielles des différents Articles en consultant les fiches-produits correspondantes ;
 4. Une fois votre shopping terminé vous accédez à une page récapitulant l'ensemble des Articles choisis, ainsi que le prix total de votre commande. Avant de valider votre panier veuillez vérifier que les caractéristiques des Articles correspondent bien à votre choix. Aucune modification ne pourra être effectuée après la passation de votre commande !
 5. Ensuite, si vous commandez des Articles, une fois votre panier validé, choisissez l'adresse et le mode de livraison de votre commande ;
 6. Choisissez votre mode de paiement, acceptez l'intégralité de nos CGV et procédez au paiement sécurisé de votre commande ;
 7. Votre commande est terminée ! Vous recevrez alors un mail de confirmation de votre commande. Si vous avez commandé des Coupons, ils vous seront directement envoyés par mail et seront également téléchargeables dans votre espace client.
 
-Veuillez noter que nos offres d'Articles sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des Coupons alloués par les partenaires de Showroomprivé. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de Coupons ou de prestations de loisirs et billetterie ait été dépassé. Vous en serez informé par mail, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité de l'Article. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
+Veuillez noter que nos offres d'Articles sont valables pendant la durée de la vente évènementielle et dans la limite des stocks disponibles et/ou des quotas des Coupons alloués par les partenaires de Showroomprivé. Il arrive parfois qu'un produit commandé ne soit plus en stock ou que le quota de Coupons ait été dépassé. Vous en serez informé par mail, et serez remboursé du montant correspondant dans un délai maximum de quatorze (14) jours après avoir été averti de l'indisponibilité de l'Article. Le remboursement s'effectuera par transaction inversée via le mode de paiement utilisé lors de votre achat initial (bon d'achat et/ou carte bancaire).
 
 Il est précisé que les codes promos et les bons d'achats ne peuvent pas s'appliquer sur certains produits lorsqu'ils sont vendus en lot (bundles).
 
@@ -134,8 +132,6 @@ Pour toute annonce de réduction de prix d'un produit proposé lors des ventes C
 Le paiement s'effectue en ligne par carte bancaire, Paypal ou via les solutions Oney, Klarna, ou Fintecture. Les cartes bancaires acceptées sont les suivantes : Visa / CB / CPay/ Mastercard, American Express et, en cas de livraison en Belgique, Bancontact.
 
 Après confirmation du paiement par notre centre de paiement, votre compte bancaire ou compte Paypal sera débité à l'issue d'un délai maximum de 4 jours suivant la date de la commande.
-
-Attention, il est à noter que l'acompte ne pourra pas être proposé pour les ventes de prestations de loisirs et de billetterie.
 
 Paiement par carte CPay
 
@@ -303,51 +299,13 @@ o Produits volumineux dits non transportables sans équipement (à savoir : _pro
 
 \- La literie doit être emballée dans une sache ou housse d'origine.
 
-**Article 7 - Quelles sont les modalités encadrant les prestations de loisirs ou de billetterie**
-
-Il est rappelé en tant que de besoin que les Ventes Partenaires sont soumises aux conditions particulières et aux conditions générales de vente des prestataires partenaires de SRP éventuellement applicables.
-
-**7.1** **Remise des documents**
-
-Dans le cas de ventes de prestations de loisirs ou billetterie, plusieurs modes de retrait des billets sont proposés : retrait en magasin, impression d'e-ticket, bon d'échange électronique ou, lorsqu'il s'agit d'un coffret physique, par voie postale et dont les modalités, tarifs et dates de livraison seront mentionnés dans la fiche-produit.
-
-**7.2** **Conditions financières**
-
-Des frais de livraison ou d'émission de billet peuvent également être perçus pour les ventes de loisirs et billetterie. Ces montants figurent donc au moment du devis et correspondent aux frais de location ou d'envoi appliqués par notre partenaire, prestataire ou fournisseur.
-
-Il est à noter que Showroomprivé est en partenariat avec TicketMaster pour la billetterie concernant les spectacles. Or, TicketMaster ne proposant pas le paiement par chèques vacances, ce moyen de paiement pour l'achat d'une prestation de billetterie est refusé sur le Site.
-
-**7.3** **Absence du droit de rétractation**
-
-Conformément à l'article L221-28 du Code de la consommation, les billets de spectacles fournis à une date ou à une période déterminée ne peuvent pas faire l'objet de l'exercice du droit de rétractation.
-
-Un billet de spectacle ne peut être remboursé même en cas de perte ou de vol, ni repris, ni échangé sauf en cas d'annulation d'un spectacle.
-
-En cas d'annulation du spectacle, seul le prix du billet sera remboursé. Ce remboursement n'interviendra qu'en faveur de l'acquéreur initial contre remise du billet. Dans tous les cas, aucun frais de quelque nature que ce soit, ne sera remboursé ou dédommagé.
-
-Un billet ne peut également être revendu à un prix supérieur à celui porté au recto dudit billet.
-
-Aucun duplicata du billet ne pourra être délivré y compris en cas de perte ou de vol.
-
-Lors du contrôle à l'entrée du lieu de l'événement, une pièce d'identité, avec photo, en cours de validité pourra vous être demandée et elle devra correspondre au nom inscrit sur le billet si celui-ci est nominatif.
-
-Un droit de rétractation s'applique pour les offres de coffrets cadeaux et activités de loisirs (stage de pilotage, vol en ULM, soins et massages cours de cuisine …). Le délai est de quatorze (14) jours à réception soit du coffret physique soit du bon d'échange / voucher, et à condition qu'il ne soit ni utilisé, ni activé. Cette mention est stipulée sur les fiches produits des offres concernées. L'activité ou le coffret cadeau doit être utilisé avant la date de fin de validité mentionnée ou à la date choisie. Aucun remboursement ne pourra être fait en cas de non-utilisation du bon dans les délais impartis. Pour les annulations/modifications/ cession d'activité à l'initiative du Membre, cela dépend du partenaire, prestataire ou fournisseur.
-
-**7.4** **Responsabilité au titre des prestations de loisirs et de billetterie**
-
-SRP accorde toute son attention au respect par ses partenaires des engagements contractuels pris à l'égard du Membre pour toute commande réalisée sur le Site. Toutefois, SRP n'est pas en mesure de s'assurer que les prestations réalisées par des tiers, quels qu'ils soient, le sont de manière correcte et complète, conformément aux stipulations contractuelles les liant au Membre.
-
-Une grande partie de nos partenaires appliquent alors des conditions particulières aux activités proposées. Il convient au Membre de respecter les règlements intérieures et conditions appliquées par les partenaires, prestataires ou fournisseurs. Pour des raisons de sécurité et météorologique, des activités peuvent être écourtées sans que cela fasse l'objet d'un remboursement quelconque de la part de SRP.
-
-Certaines activités sont accessibles selon des critères d'âge, de taille, de poids, de condition physique ou de santé. Durant les activités, la plupart des partenaires, prestataires ou fournisseurs acceptent la présence de spectateurs mais il incombe au Membre de s'assurer que cela est possible au moment de la réservation de l'activité, ainsi que de régler les éventuels frais complémentaires. Les spectateurs se doivent de respecter les règles de sécurité et se conformer aux conditions générales du partenaire, prestataire ou fournisseur.
-
-**Article 8 - Quand vais-je recevoir mon Coupon ?**
+**Article 7 - Quand vais-je recevoir mon Coupon ?**
 
 Après avoir procédé au paiement de votre commande, vos Coupon vous sera directement envoyé à l'adresse mail enregistrée sur votre compte client. Aucun Coupon ne sera envoyé par courrier.
 
 Vous pourrez également télécharger votre Coupon à tout moment dans la rubrique « Mes commandes » accessible dans votre espace client.
 
-**Article 9 - Comment utiliser mon Coupon ?**
+**Article 8 - Comment utiliser mon Coupon ?**
 
 Les Coupons proposés sur notre Site ont une durée de validité définie et limitée. Les Coupons doivent être utilisés auprès de notre partenaire dans les conditions définies dans le descriptif des Coupon et reproduites sur votre Coupon.
 
@@ -365,11 +323,11 @@ Il est précisé que :
 
 · Toute reproduction, revente ou autre utilisation frauduleuse d'un Coupon est interdite. En plus du blocage et/ou de la suppression de votre compte client, Showroomprivé se réserve le droit d'engager des poursuites à votre encontre.
 
-**Article 10 - Comment faire si vous avez changé d'avis ?**
+**Article 9 - Comment faire si vous avez changé d'avis ?**
 
 Vous avez changé d'avis ? Votre Article ne correspond pas à vos attentes ?
 
-Vous disposez d'un délai de quatorze (14) jours calendaires pour exercer votre droit de rétractation (sauf exception mentionnée à l'article 7.3 ci-dessus et ci-dessous) à compter :
+Vous disposez d'un délai de quatorze (14) jours calendaires pour exercer votre droit de rétractation à compter :
 
 \- de la réception des produits ;
 
@@ -460,8 +418,6 @@ Pour exercer votre droit de rétractation, vous devez notifier votre intention d
 10.4 Les exceptions au droit de rétractation
 
 Vous ne pourrez pas exercer votre droit de rétractation pour :
-
-\- Loisirs et billetterie tels que mentionnés au 7.3 ci-dessus ;
 
 \- les services pleinement exécutés avant la fin du délai de rétractation et dont l'exécution a commencé après votre accord exprès et votre reconnaissance de la perte du droit de rétractation attaché au service une fois ce dernier pleinement exécuté ;
 
