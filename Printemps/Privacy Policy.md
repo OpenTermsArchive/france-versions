@@ -213,7 +213,7 @@
     * [Shampoing & AprÈS-Shampoing](https://www.printemps.com/fr/fr/soins-cheveux/sct/Shampoing+%26+Apr%C3%A8s+shampoing)
     * [Soins](https://www.printemps.com/fr/fr/soins-cheveux/sct/Masque+cheveux/Lotion+%26+tonique+cheveux/Hydratant+%26+nourrissant+cheveux/Soin+cibl%C3%A9+cheveux/S%C3%A9rum+cheveux/Huile+cheveux/Exfoliant+%26+gommage+cheveux)
     * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant)
-    * Appareils ÉLectroniques
+    * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
