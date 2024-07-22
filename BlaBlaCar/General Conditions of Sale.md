@@ -580,6 +580,8 @@ Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire
 **17\. Prime Covoiturage**
 --------------------------
 
+**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
+
 ### **17.1. Description de l’opération**
 
 Dans le cadre de la réglementation relative aux certificats d’économie d’énergie (CEE), BlaBlaCar et TotalEnergies Marketing France (société par actions simplifiée au capital de 390 553 839,00 euros, dont le siège social est situé au 562, avenue du parc de l’île, 92000 Nanterre, inscrite sous le numéro 531 680 445 au RCS Nanterre), vous permettent de participer à une opération vous faisant bénéficier d’une Prime Covoiturage dans les conditions prévues notamment par les arrêtés du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie et du 2 décembre 2022 créant une bonification pour les fiches d’opérations standardisées relatives au covoiturage dans le cadre du dispositif des certificats d’économies d’énergie et les conditions ci-après.
@@ -596,17 +598,27 @@ La Bonification à hauteur de 100 euros est valable uniquement pour les premier
 
 Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-* (i) vous êtes inscrit sur le site www.blablacar.fr ;
-* (ii) vous êtes titulaire d’un permis de conduire valable en France ;
-* (iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation pour une distance supérieure à 80 km en France, dont au moins le point de départ ou le point d’arrivée est situé en France ;
-* (iv) vous avez effectué tout ou partie du Trajet avec un Passager ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
-* (v) vous avez renseigné sur votre profil votre adresse postale en France ;
-* (vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
-* (vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
-* (viii) vous avez complété vos coordonnées bancaires et reçu le paiement de la Participation aux Frais ;
-* (ix) vous avez validé lors de votre inscription les conditions de l’offre Prime Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;
-* (x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ; et
-* (xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
+(i) vous êtes inscrit sur le site [www.blablacar](http://www.blablacar/).fr ;
+
+(ii) vous êtes titulaire d’un permis de conduire valable en France ;
+
+(iii) vous avez publié, en tant que Conducteur, une Annonce pour un Trajet avec Réservation pour une distance supérieure à 80 km en France, dont au moins le point de départ ou le point d’arrivée est situé en France ;
+
+(iv) vous avez effectué tout ou partie du Trajet avec un Passager ayant réglé le montant de la Participation aux Frais par l’intermédiaire de la Plateforme ;
+
+(v) vous avez renseigné sur votre profil votre adresse postale en France ;
+
+(vi) vous avez renseigné et vérifié votre numéro de téléphone portable ;
+
+(vii) vous avez transmis une copie et vérifié l’authenticité de votre permis de conduire et vérifié votre identité grâce à une prise de photo spontanée. Il est précisé que vos noms et prénoms doivent être renseignés de la même manière qu’ils figurent sur votre permis de conduire aux fins de vérification de votre permis de conduire et de votre éligibilité ;
+
+(viii) vous avez complété vos coordonnées bancaires et reçu le paiement de la Participation aux Frais ;
+
+(ix) vous avez validé lors de votre inscription les conditions de l’offre Prime Covoiturage, en ce compris les présentes CGU, la politique de confidentialité ;
+
+(x) vous avez complété et signé en ligne, selon le procédé de signature électronique mis à votre disposition comportant un système d’authentification par SMS au numéro renseigné lors de votre inscription, l’attestation sur l’honneur requise au titre de la réglementation susvisée ; et
+
+(xi) vous n’avez bénéficié au 1er janvier 2023 d’aucun dispositif incitatif au titre du programme de certificats d’économie d’énergie, reçu aucune carte par l’intermédiaire de la Plateforme, ou dans les douze ans à compter de votre trajet si celui-ci est effectué après le 1er janvier 2023.
 
 L’ensemble de ces conditions doivent être remplies dans un délai de 6 mois maximum à compter de la date du premier Trajet réalisé avec le service de Réservation en ligne de la Plateforme et avant le 31 décembre 2025. Passé ce délai, vous perdez tout droit à prétendre à la Prime Covoiturage.
 
@@ -618,7 +630,7 @@ Les dispositions relatives à l’offre liée aux CEE ne sont applicables qu’u
 
 En absence de réponse satisfaisante à ces demandes, BlaBlaCar se réserve la possibilité de prendre toute mesure appropriée à votre encontre, notamment de suspendre votre Compte, limiter votre accès aux Services ou résilier les présentes CGU.
 
-De plus, dans le cadre de la réglementation relative aux certificats d’économie d’énergie, vous êtes susceptible d’être contacté par Total Energies Marketing France ou l’un de ses partenaires aux fins de vérifications des données, notamment de trajet, contenues dans votre dossier.
+De plus, dans le cadre de la réglementation relative aux certificats d’économie d’énergie, vous êtes susceptible d’être contacté par TotalEnergies Marketing France ou l’un de ses partenaires aux fins de vérifications des données, notamment de trajet, contenues dans votre dossier.
 
 Enfin, des informations et données supplémentaires peuvent être sollicitées par notre intermédiaire de la part des organismes chargés du contrôle des CEE et notamment, le Pôle National des Certificats d’Économie d’Énergie.
 
