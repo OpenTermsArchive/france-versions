@@ -58,10 +58,10 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
-    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
+    * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-femme)
     * [Mules](https://www.printemps.com/fr/fr/mules-femme)
@@ -79,11 +79,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
+    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -120,8 +120,8 @@
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-homme)
     * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
+    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
@@ -133,8 +133,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme)
-    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-homme)
+    * [Bottes](https://www.printemps.com/fr/fr/bottes-homme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-homme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme)
@@ -152,10 +152,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -213,7 +213,7 @@
     * [Shampoing & AprÈS-Shampoing](https://www.printemps.com/fr/fr/soins-cheveux/sct/Shampoing+%26+Apr%C3%A8s+shampoing)
     * [Soins](https://www.printemps.com/fr/fr/soins-cheveux/sct/Masque+cheveux/Lotion+%26+tonique+cheveux/Hydratant+%26+nourrissant+cheveux/Soin+cibl%C3%A9+cheveux/S%C3%A9rum+cheveux/Huile+cheveux/Exfoliant+%26+gommage+cheveux)
     * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant)
-    * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser)
+    * Appareils ÉLectroniques
 
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
