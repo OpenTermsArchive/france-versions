@@ -196,7 +196,7 @@ BlaBlaCar attire votre attention sur le fait qu’il peut advenir que certaines 
 
 En vertu du [Règlement UE 2021/782](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782), les Passagers ferroviaires bénéficient de droits et obligations étendus.
 
-Les informations mentionnées ci-dessous au présent article 4.2.3.4 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/hc/fr](https://support.blablacar.com/hc/fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
+Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/hc/fr](https://support.blablacar.com/hc/fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
 
 **4.2.4.2 Informations avant le voyage :**
 
@@ -309,7 +309,7 @@ Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou au
 
 À compter de cette confirmation expresse ou tacite, vous disposez, en tant que Conducteur, d’un crédit exigible sur votre Compte. Ce crédit correspond au montant total payé par le Passager au moment de la confirmation de la Réservation diminué des Frais de Service, c’est-à-dire au montant de la Participation aux Frais payée par le Passager.
 
-* **Solution de Paiement Hyperwallet**
+**a. Solution de Paiement Hyperwallet**
 
 La Solution de Paiement Hyperwallet est un service de paiement proposé par le Fournisseur de la Solution de Paiement Hyperwallet. Pour lever toute ambiguïté, BlaBlaCar ne fournit aucun service de traitement des paiements aux Membres et n’est jamais en possession des fonds des Membres.
 
@@ -323,7 +323,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 À l’issue des délais applicables tels que définis dans les lois applicables, toute Participation aux Frais que vous, en tant que Conducteur, n’avez pas réclamée par le biais de la Solution de Paiement Hyperwallet sera réputée être la propriété de BlaBlaCar.
 
-* **Vérifications au titre de la Connaissance du Client (KYC)**
+**b. Vérifications au titre de la Connaissance du Client (KYC)**
 
 En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses Conditions Générales.
 
@@ -341,12 +341,12 @@ Le paiement de toute Commande réalisée par le biais de la Plateforme s’effec
 
 Les moyens de paiements autorisés sont les suivants :
 
-* – carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
-* – PayPal
-* – bon d’achat
-* – iDEAL
-
-– Apple Pay, Google Pay
+* carte de crédit (les marques acceptées sont indiquées sur la Plateforme. Si vous disposez d’une carte co-marquée, vous pouvez sélectionner une marque spécifique à l’étape du paiement)
+* PayPal
+* bon d’achat
+* iDEAL
+* Apple Pay
+* Google Pay
 
 Aucune validation de Commande n’intervient avant le paiement effectif et intégral du prix des Prestations sélectionnées par le Client. Si le paiement présente une irrégularité, est incomplet ou s’il n’est pas effectué pour une quelconque raison imputable au Client, la Commande est immédiatement annulée.
 
@@ -408,36 +408,59 @@ Vous reconnaissez être seul responsable du respect de l’ensemble des lois, r�
 
 Par ailleurs, en utilisant la Plateforme et lors des Trajets, vous vous engagez à :
 
-* (i) ne pas utiliser la Plateforme à des fins professionnelles, commerciales ou lucratives si vous n’êtes pas un Autocariste  ;
-* (ii) ne transmettre à BlaBlaCar (notamment lors de la création ou la mise à jour de votre Compte) ou aux autres Membres ou Autocaristes aucune information fausse, trompeuse, mensongère ou frauduleuse ;
-* (iii) ne tenir aucun propos, n’avoir aucun comportement ou ne publier sur la Plateforme aucun contenu à caractère diffamatoire, injurieux, obscène, pornographique, vulgaire, offensant, agressif, déplacé, violent, menaçant, harcelant, raciste, xénophobe, à connotation sexuelle, incitant à la violence, à la discrimination ou à la haine, encourageant les activités ou l’usage de substances illégales ou, plus généralement, contraires aux finalités de la Plateforme, de nature à porter atteinte aux droits de BlaBlaCar ou d’un tiers ou contraires aux bonnes mœurs ;
-* (iv) ne pas porter atteinte aux droits et à l’image de BlaBlaCar, notamment à ses droits de propriété intellectuelle ;
-* (v) ne pas ouvrir plus d’un Compte sur la Plateforme et ne pas ouvrir de Compte au nom d’un tiers ;
-* (vi) ne pas tenter de contourner le système de réservation en ligne de la Plateforme, notamment en tentant de communiquer à un autre Membre ou un Autocariste vos coordonnées afin de réaliser la réservation en dehors de la Plateforme et ne pas payer les Frais de Service ;
-* (vii) ne pas contacter un autre Membre ou Autocariste, notamment par l’intermédiaire de la Plateforme, à une autre fin que celle de définir les modalités du covoiturage ;
-* (viii) ne pas accepter ou effectuer un paiement en dehors de la Plateforme ou de la Solution de Paiement Hyperwallet ;
-* (ix) vous conformer aux présentes CGU et à la Politique de Confidentialité.
+(i) ne pas utiliser la Plateforme à des fins professionnelles, commerciales ou lucratives si vous n’êtes pas un Autocariste  ;
+
+(ii) ne transmettre à BlaBlaCar (notamment lors de la création ou la mise à jour de votre Compte) ou aux autres Membres ou Autocaristes aucune information fausse, trompeuse, mensongère ou frauduleuse ;
+
+(iii) ne tenir aucun propos, n’avoir aucun comportement ou ne publier sur la Plateforme aucun contenu à caractère diffamatoire, injurieux, obscène, pornographique, vulgaire, offensant, agressif, déplacé, violent, menaçant, harcelant, raciste, xénophobe, à connotation sexuelle, incitant à la violence, à la discrimination ou à la haine, encourageant les activités ou l’usage de substances illégales ou, plus généralement, contraires aux finalités de la Plateforme, de nature à porter atteinte aux droits de BlaBlaCar ou d’un tiers ou contraires aux bonnes mœurs ;
+
+(iv) ne pas porter atteinte aux droits et à l’image de BlaBlaCar, notamment à ses droits de propriété intellectuelle ;
+
+(v) ne pas ouvrir plus d’un Compte sur la Plateforme et ne pas ouvrir de Compte au nom d’un tiers ;
+
+(vi) ne pas tenter de contourner le système de réservation en ligne de la Plateforme, notamment en tentant de communiquer à un autre Membre ou un Autocariste vos coordonnées afin de réaliser la réservation en dehors de la Plateforme et ne pas payer les Frais de Service ;
+
+(vii) ne pas contacter un autre Membre ou Autocariste, notamment par l’intermédiaire de la Plateforme, à une autre fin que celle de définir les modalités du covoiturage ;
+
+(viii) ne pas accepter ou effectuer un paiement en dehors de la Plateforme ou de la Solution de Paiement Hyperwallet ;
+
+(ix) vous conformer aux présentes CGU et à la Politique de Confidentialité.
 
 ### **8.2. Engagements des Conducteurs**
 
 En outre, lorsque vous utilisez la Plateforme en tant que Conducteur, vous vous engagez à :
 
-* (i) respecter l’ensemble des lois, règles, codes applicables à la conduite et au véhicule, notamment à disposer d’une assurance responsabilité civile valide au moment du Trajet en Covoiturage et être en possession d’un permis de conduire en vigueur ;
-* (ii) vous assurer que votre assurance couvre le covoiturage et que vos Passagers sont considérés comme tiers dans votre véhicule et donc couverts par votre assurance ;
-* (iii) ne prendre aucun risque au volant, à n’absorber aucun produit de nature à altérer votre attention et vos capacités, à conduire avec vigilance et en toute sécurité ;
-* (iv) publier des Annonces de Covoiturage correspondant uniquement à des trajets réellement envisagés ;
-* (v) effectuer le Trajet en Covoiturage tel que décrit dans l’Annonce de Covoiturage (notamment en ce qui concerne l’emprunt ou non de l’autoroute) et respecter les horaires et lieux convenus avec les autres Membres (notamment le lieu de rendez-vous et de dépose) ;
-* (vi) ne pas prendre plus de Passagers que le nombre de Places indiquées dans l’Annonce de Covoiturage ;
-* (vii) utiliser un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
-* (viii) communiquer à BlaBlaCar ou tout Passager qui vous en fait la demande, votre permis de conduire, votre carte grise, votre attestation d’assurance, votre certificat de contrôle technique ainsi que tout document attestant de votre capacité à utiliser ce véhicule en tant que Conducteur sur la Plateforme ;
-* (ix) en cas d’empêchement ou de changement de l’horaire ou du Trajet en Covoiturage, en informer sans délai vos Passagers ;
-* (x) en cas de Trajet en Covoiturage transfrontalier, disposer et tenir à disposition du Passager et de toute autorité qui le solliciterait tout document de nature à justifier de votre identité et de votre faculté à franchir la frontière ;
-* (xi) attendre les Passagers sur le lieu de rencontre convenu au moins 15 minutes au-delà de l’heure convenue ;
-* (xii) ne pas publier d’Annonce de Covoiturage relative à un véhicule dont vous n’êtes pas le propriétaire ou que vous n’êtes pas habilité à utiliser à des fins de covoiturage ;
-* (xiii) vous assurer d’être joignable par téléphone par vos Passagers, au numéro enregistré sur votre profil ;
-* (xiv) ne générer aucun bénéfice par l’intermédiaire de la Plateforme ;
-* (xv) garantir n’avoir aucune contre-indication ou incapacité médicale à conduire ;
-* (xvi) avoir un comportement convenable et responsable, au cours du Trajet en Covoiturage et conforme à l’esprit de covoiturage.
+(i) respecter l’ensemble des lois, règles, codes applicables à la conduite et au véhicule, notamment à disposer d’une assurance responsabilité civile valide au moment du Trajet en Covoiturage et être en possession d’un permis de conduire en vigueur ;
+
+(ii) vous assurer que votre assurance couvre le covoiturage et que vos Passagers sont considérés comme tiers dans votre véhicule et donc couverts par votre assurance ;
+
+(iii) ne prendre aucun risque au volant, à n’absorber aucun produit de nature à altérer votre attention et vos capacités, à conduire avec vigilance et en toute sécurité ;
+
+(iv) publier des Annonces de Covoiturage correspondant uniquement à des trajets réellement envisagés ;
+
+(v) effectuer le Trajet en Covoiturage tel que décrit dans l’Annonce de Covoiturage (notamment en ce qui concerne l’emprunt ou non de l’autoroute) et respecter les horaires et lieux convenus avec les autres Membres (notamment le lieu de rendez-vous et de dépose) ;
+
+(vi) ne pas prendre plus de Passagers que le nombre de Places indiquées dans l’Annonce de Covoiturage ;
+
+(vii) utiliser un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
+
+(viii) communiquer à BlaBlaCar ou tout Passager qui vous en fait la demande, votre permis de conduire, votre carte grise, votre attestation d’assurance, votre certificat de contrôle technique ainsi que tout document attestant de votre capacité à utiliser ce véhicule en tant que Conducteur sur la Plateforme ;
+
+(ix) en cas d’empêchement ou de changement de l’horaire ou du Trajet en Covoiturage, en informer sans délai vos Passagers ;
+
+(x) en cas de Trajet en Covoiturage transfrontalier, disposer et tenir à disposition du Passager et de toute autorité qui le solliciterait tout document de nature à justifier de votre identité et de votre faculté à franchir la frontière ;
+
+(xi) attendre les Passagers sur le lieu de rencontre convenu au moins 15 minutes au-delà de l’heure convenue ;
+
+(xii) ne pas publier d’Annonce de Covoiturage relative à un véhicule dont vous n’êtes pas le propriétaire ou que vous n’êtes pas habilité à utiliser à des fins de covoiturage ;
+
+(xiii) vous assurer d’être joignable par téléphone par vos Passagers, au numéro enregistré sur votre profil ;
+
+(xiv) ne générer aucun bénéfice par l’intermédiaire de la Plateforme ;
+
+(xv) garantir n’avoir aucune contre-indication ou incapacité médicale à conduire ;
+
+(xvi) avoir un comportement convenable et responsable, au cours du Trajet en Covoiturage et conforme à l’esprit de covoiturage.
 
 ### **8.3. Engagements des Passagers**
 
@@ -445,14 +468,21 @@ En outre, lorsque vous utilisez la Plateforme en tant que Conducteur, vous vous 
 
 Lorsque vous utilisez la Plateforme en tant que Passager dans le cadre d’un Trajet en Covoiturage, vous vous engagez à :
 
-* (i) adopter un comportement convenable au cours du Trajet en Covoiturage de façon à ne gêner ni la concentration et la conduite du Conducteur ni la tranquillité des autres Passagers ;
-* (ii) respecter le véhicule du Conducteur et sa propreté ;
-* (iii) en cas d’empêchement, en informer sans délai le Conducteur ;
-* (iv) attendre le Conducteur sur le lieu de rencontre convenu au moins 15 minutes au-delà de l’heure convenue ;
-* (v) communiquer à BlaBlaCar ou tout Conducteur qui vous en fait la demande, votre carte d’identité ou tout document de nature à attester de votre identité ;
-* (vi) ne transporter, lors d’un Trajet en Covoiturage, aucun objet, marchandise, substance, animal de nature à gêner la conduite et la concentration du Conducteur ou dont la nature, la possession ou le transport est contraire aux dispositions légales en vigueur ;
-* (vii) en cas de Trajet en Covoiturage transfrontalier, disposer et tenir à disposition du Conducteur et de toute autorité qui le solliciterait tout document de nature à justifier de votre identité et de votre faculté à franchir la frontière ;
-* (viii) vous assurer d’être joignable par téléphone par le Conducteur, au numéro enregistré sur votre profil, notamment au point de rendez-vous.
+(i) adopter un comportement convenable au cours du Trajet en Covoiturage de façon à ne gêner ni la concentration et la conduite du Conducteur ni la tranquillité des autres Passagers ;
+
+(ii) respecter le véhicule du Conducteur et sa propreté ;
+
+(iii) en cas d’empêchement, en informer sans délai le Conducteur ;
+
+(iv) attendre le Conducteur sur le lieu de rencontre convenu au moins 15 minutes au-delà de l’heure convenue ;
+
+(v) communiquer à BlaBlaCar ou tout Conducteur qui vous en fait la demande, votre carte d’identité ou tout document de nature à attester de votre identité ;
+
+(vi) ne transporter, lors d’un Trajet en Covoiturage, aucun objet, marchandise, substance, animal de nature à gêner la conduite et la concentration du Conducteur ou dont la nature, la possession ou le transport est contraire aux dispositions légales en vigueur ;
+
+(vii) en cas de Trajet en Covoiturage transfrontalier, disposer et tenir à disposition du Conducteur et de toute autorité qui le solliciterait tout document de nature à justifier de votre identité et de votre faculté à franchir la frontière ;
+
+(viii) vous assurer d’être joignable par téléphone par le Conducteur, au numéro enregistré sur votre profil, notamment au point de rendez-vous.
 
 Dans le cas où vous auriez procédé à la Réservation d’une ou plusieurs Places pour le compte de tiers, conformément aux stipulations de l’article 4.2.3 ci-dessus, vous vous portez fort du respect par ce tiers des stipulations du présent article et, de façon générale, des présentes CGU. BlaBlaCar se réserve la possibilité de suspendre votre Compte, limiter votre accès aux Services ou résilier les présentes CGU, en cas de manquement de la part du tiers pour le compte duquel vous avez réservé une Place aux présentes CGU.
 
@@ -471,10 +501,13 @@ Vous avez la possibilité de mettre fin à votre relation contractuelle avec Bla
 
 En cas de (i) violation de votre part des présentes CGU, notamment de vos obligations en tant que Membre mentionnées aux articles 6 et 8 ci-dessus, (ii) de dépassement du seuil visé à l’article 4.3.3. ci-dessus ou si (iii) BlaBlaCar a des raisons sérieuses de croire que ceci est nécessaire pour protéger sa sécurité et son intégrité, celles de ses Membres ou de tiers ou à des fins de prévention des fraudes ou d’enquêtes, BlaBlaCar se réserve la possibilité de :
 
-* (i) résilier, immédiatement et sans préavis, les présentes CGU ; et/ou
-* (ii) empêcher la publication ou supprimer tout avis, Annonce, messages, contenus, demande de Réservation, ou tout contenu publié par vous sur la Plateforme ; et/ou
-* (iii) limiter votre accès et votre utilisation de la Plateforme ; et/ou
-* (iv) suspendre de façon temporaire ou permanente votre Compte.
+(i) résilier, immédiatement et sans préavis, les présentes CGU ; et/ou
+
+(ii) empêcher la publication ou supprimer tout avis, Annonce, messages, contenus, demande de Réservation, ou tout contenu publié par vous sur la Plateforme ; et/ou
+
+(iii) limiter votre accès et votre utilisation de la Plateforme ; et/ou
+
+(iv) suspendre de façon temporaire ou permanente votre Compte.
 
 Lorsque cela est nécessaire, vous serez notifié de la mise en place d’une telle mesure afin de vous permettre de donner des explications à BlaBlaCar. BlaBlaCar décidera, à sa seule discrétion, de lever les mesures mises en place ou non.
 
@@ -494,16 +527,19 @@ BlaBlaCar vous accorde une licence non exclusive, personnelle et non cessible d�
 
 Vous vous interdisez toute autre utilisation ou exploitation de la Plateforme et des Services, et de leur contenu sans l’autorisation préalable écrite de BlaBlaCar. Notamment, vous vous interdisez de :
 
-* (i) reproduire, modifier, adapter, distribuer, représenter publiquement, diffuser la Plateforme, les Services et leur contenu, à l’exception de ce qui est expressément autorisé par BlaBlaCar ;
-* (ii) décompiler, procéder à de l’ingénierie inverse de la Plateforme ou des Services, sous réserve des exceptions prévues par les textes en vigueur ;
-* (iii) extraire ou tenter d’extraire (notamment en utilisant des robots d’aspiration de données ou tout autre outil similaire de collecte de données) une partie substantielle des données de la Plateforme.
+(i) reproduire, modifier, adapter, distribuer, représenter publiquement, diffuser la Plateforme, les Services et leur contenu, à l’exception de ce qui est expressément autorisé par BlaBlaCar ;
+
+(ii) décompiler, procéder à de l’ingénierie inverse de la Plateforme ou des Services, sous réserve des exceptions prévues par les textes en vigueur ;
+
+(iii) extraire ou tenter d’extraire (notamment en utilisant des robots d’aspiration de données ou tout autre outil similaire de collecte de données) une partie substantielle des données de la Plateforme.
 
 ### **11.2. Contenu publié par vous sur la Plateforme**
 
 Afin de permettre la fourniture des Services et conformément à la finalité de la Plateforme, vous concédez à BlaBlaCar une licence non exclusive d’utilisation des contenus et données que vous fournissez dans le cadre de votre utilisation des Services (ci-après, votre « **Contenu Membre** »). Afin de permettre à BlaBlaCar la diffusion par réseau numérique et selon tout protocole de communication, (notamment Internet et réseau mobile), ainsi que la mise à disposition au public du contenu de la Plateforme, vous autorisez BlaBlaCar, pour le monde entier et pour toute la durée de votre relation contractuelle avec BlaBlaCar, à reproduire, représenter, adapter et traduire votre Contenu Membre de la façon suivante :
 
-* (i) vous autorisez BlaBlaCar à reproduire tout ou partie de votre Contenu Membre sur tout support d’enregistrement numérique, connu ou inconnu à ce jour, et notamment sur tout serveur, disque dur, carte mémoire, ou tout autre support équivalent, en tout format et par tout procédé connu et inconnu à ce jour, dans la mesure nécessaire à toute opération de stockage, sauvegarde, transmission ou téléchargement lié au fonctionnement de la Plateforme et à la fourniture du Service ;
-* (ii) vous autorisez BlaBlaCar à adapter et traduire votre Contenu Membre, ainsi qu’à reproduire ces adaptations sur tout support numérique, actuel ou futur, stipulé au (i) ci-dessus, dans le but de fournir les Services, notamment en différentes langues. Ce droit comprend notamment la faculté de réaliser, dans le respect de votre droit moral, des modifications de la mise en forme de votre Contenu Membre aux fins de respecter la charte graphique de la Plateforme et/ou de le rendre techniquement compatible en vue de sa publication via la Plateforme.
+(i) vous autorisez BlaBlaCar à reproduire tout ou partie de votre Contenu Membre sur tout support d’enregistrement numérique, connu ou inconnu à ce jour, et notamment sur tout serveur, disque dur, carte mémoire, ou tout autre support équivalent, en tout format et par tout procédé connu et inconnu à ce jour, dans la mesure nécessaire à toute opération de stockage, sauvegarde, transmission ou téléchargement lié au fonctionnement de la Plateforme et à la fourniture du Service ;
+
+(ii) vous autorisez BlaBlaCar à adapter et traduire votre Contenu Membre, ainsi qu’à reproduire ces adaptations sur tout support numérique, actuel ou futur, stipulé au (i) ci-dessus, dans le but de fournir les Services, notamment en différentes langues. Ce droit comprend notamment la faculté de réaliser, dans le respect de votre droit moral, des modifications de la mise en forme de votre Contenu Membre aux fins de respecter la charte graphique de la Plateforme et/ou de le rendre techniquement compatible en vue de sa publication via la Plateforme.
 
 **12\. Rôle de BlaBlaCar**
 --------------------------
@@ -520,9 +556,11 @@ Dans le cadre d’un Trajet en Covoiturage, les Membres (Conducteurs ou Passager
 
 En sa qualité d’intermédiaire, BlaBlaCar ne saurait voir sa responsabilité engagée au titre du déroulement effectif d’un Trajet, et notamment du fait :
 
-* (i) d’informations erronées communiquées par le Conducteur ou l’Autocariste ou à l’Entreprise ferroviaire, dans son Annonce, ou par tout autre moyen, quant au Trajet et à ses modalités ;
-* (ii) de l’annulation ou la modification d’un Trajet par un Membre ou un Autocariste ou une Entreprise ferroviaire ;
-* (iii) du comportement de ses Membres pendant, avant, ou après le Trajet.
+(i) d’informations erronées communiquées par le Conducteur ou l’Autocariste ou à l’Entreprise ferroviaire, dans son Annonce, ou par tout autre moyen, quant au Trajet et à ses modalités ;
+
+(ii) de l’annulation ou la modification d’un Trajet par un Membre ou un Autocariste ou une Entreprise ferroviaire ;
+
+(iii) du comportement de ses Membres pendant, avant, ou après le Trajet.
 
 **13\. Fonctionnement, disponibilité et fonctionnalités de la Plateforme**
 --------------------------------------------------------------------------
@@ -557,7 +595,7 @@ Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 154 803,01 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
