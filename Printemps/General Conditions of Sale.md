@@ -1,43 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [Femme](https://www.printemps.com/fr/fr/soldes-ete-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-ete-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-ete-femme/esp/Sacs)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-ete-femme/esp/Chaussures)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-ete-femme/esp/V%C3%AAtements)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-ete-femme/esp/Accessoires)
-
-* [Homme](https://www.printemps.com/fr/fr/soldes-ete-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-ete-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-ete-homme/esp/V%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-ete-homme/esp/Chaussures)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-ete-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-ete-homme/esp/Accessoires)
-
-* [Beauté](https://www.printemps.com/fr/fr/soldes-ete-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-ete-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/soldes-ete-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/soldes-ete-beaute/esp/Soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/soldes-ete-beaute/esp/Maquillage)
-
-* [Top catégories](https://www.printemps.com/fr/fr/soldes-ete)
-    * [Sacs - Femme](https://www.printemps.com/fr/fr/soldes-ete-femme/esp/Sacs)
-    * [Baskets - Homme](https://www.printemps.com/fr/fr/soldes-ete-homme/cat0/Baskets)
-    * [Sandales - Femme](https://www.printemps.com/fr/fr/soldes-ete-femme/cat0/Sandales)
-    * [Chemises - Homme](https://www.printemps.com/fr/fr/soldes-ete-homme/cat0/Chemises)
-    * [Robes - Femme](https://www.printemps.com/fr/fr/soldes-ete-femme/cat0/Robes)
-    * [T-shirts et polos - Homme](https://www.printemps.com/fr/fr/soldes-ete-homme/cat0/Tops+et+t-shirts)
-
-* [Top marques](https://www.printemps.com/fr/fr/soldes-ete)
-    * [Jacquemus](https://www.printemps.com/fr/fr/soldes-ete/mrk/JACQUEMUS/)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/soldes-ete/mrk/POLO+RALPH+LAUREN)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/soldes-ete/mrk/MARC+JACOBS)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/soldes-ete/mrk/ALEXANDER+MCQUEEN)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/soldes-ete/mrk/TOMMY+HILFIGER)
-    * [Saison 1865](https://www.printemps.com/fr/fr/soldes-ete/mrk/SAISON+1865)
-* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete)
-    
-
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-femme)
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-femme)
@@ -101,8 +63,6 @@
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 
-* [Soldes](https://www.printemps.com/fr/fr/soldes-ete-femme)
-    
 * [Top marques](https://www.printemps.com/fr/fr/marques-femme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme)
@@ -112,8 +72,6 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
-* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete-femme)
-    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
@@ -174,8 +132,6 @@
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
 
-* [Soldes](https://www.printemps.com/fr/fr/soldes-ete-homme)
-    
 * [Top marques](https://www.printemps.com/fr/fr/marques-homme)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
@@ -185,8 +141,6 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/03/4/6556034.jpg)](https://www.printemps.com/fr/fr/soldes-ete-homme)
-    
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
