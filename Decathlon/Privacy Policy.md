@@ -211,7 +211,7 @@ Vos données seront supprimées 1 an après la collecte.
 
 Base légale
 
-Nous utilisons vos données pour vous permettre de ne pas perdre les produits que vous avez mis dans votre panier. En termes "juridique", cela s'appelle l'intérêt légitime du responsable de traitement (DECATHLON).
+Nous utilisons vos données pour vous permettre de ne pas perdre les produits que vous avez mis dans votre panier. L'envoi de l'email de rappel de panier abandonné se fait sur la base de votre consentement (Consentement intitulé "Recevoir mes bons cadeaux, des offres, promotions, actus et conseils qui me ressemblent" associé à votre compte Decathlon).
 
 Finalités
 
