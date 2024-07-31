@@ -11,7 +11,7 @@ Air Corsica est un transporteur aérien. Le site www.aircorsica.com est le site 
 
 ### Article 2 - Informations générales
 
-Air Corsica - Société Anonyme d'Economie Mixte, à Directoire et Conseil de Surveillance, au capital de 15.015.520 Euros - Aéroport Napoléon Bonaparte - BP 505 - 20186 AJACCIO CEDEX. RCS AJACCIO 349 638 395. SIRET 349 638 395 00021. APE 5110Z. Tél. standard : **0825 35 35 35** (0,20€ cts/min.) et, depuis l’étranger, au **00 33 4 95 20 95 20** (n° non surtaxé), du lundi au dimanche de 08h00 à 20h00. Tél. assistance commerciale : **0825 35 35 35** (0,20€ cts/min.)et, depuis l’étranger, au **00 33 4 95 20 95 20** (n° non surtaxé), du lundi au dimanche de 08h00 à 20h00.
+Air Corsica - Société Anonyme d'Economie Mixte, à Directoire et Conseil de Surveillance, au capital de 14.985.620 Euros - Aéroport Napoléon Bonaparte - BP 505 - 20186 AJACCIO CEDEX. RCS AJACCIO 349 638 395. SIRET 349 638 395 00021. APE 5110Z. Tél. standard : **0825 35 35 35** (0,20€ cts/min.) et, depuis l’étranger, au **00 33 4 95 20 95 20** (n° non surtaxé), du lundi au dimanche de 08h00 à 20h00. Tél. assistance commerciale : **0825 35 35 35** (0,20€ cts/min.)et, depuis l’étranger, au **00 33 4 95 20 95 20** (n° non surtaxé), du lundi au dimanche de 08h00 à 20h00.
 
 ### Article 3 - Assistance Internet
 
@@ -202,17 +202,12 @@ Si vous refusez l'enregistrement de cookies dans votre terminal, ou si vous supp
 
 Pour la gestion des cookies et de vos choix, la configuration de chaque navigateur est différente. Elle est décrite dans le menu d'aide de votre navigateur, qui vous permettra de savoir de quelle manière modifier vos souhaits en matière de cookies.
 
-Pour Internet Explorer™ : http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies,
-
-Pour Safari™ : http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html,
-
-Pour Chrome™ : http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647,
-
-Pour Firefox™ : http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies,
-
-Pour Opera™ : http://help.opera.com/Windows/10.20/fr/cookies.html,
-
-etc.
+* Pour Internet Explorer™ : http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies,
+* Pour Safari™ : http://docs.info.apple.com/article.html?path=Safari/3.0/fr/9277.html,
+* Pour Chrome™ : http://support.google.com/chrome/bin/answer.py?hl=fr&hlrm=en&answer=95647,
+* Pour Firefox™ : http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20cookies,
+* Pour Opera™ : http://help.opera.com/Windows/10.20/fr/cookies.html,
+* etc.
 
 (d) Vos choix exprimés en ligne auprès de plateformes interprofessionnelles
 
