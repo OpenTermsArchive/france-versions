@@ -1,13 +1,6 @@
 Conditions générales de transport
 =================================
 
-**VOLS CORSE SOUS DSP (Délégation de Service Public)**  
-_**En vigueur exclusivement pour des transports à compter du 1er janvier 2024**_
-
-Toute réservation effectuée pour un vol entre les aéroports de Bastia, Ajaccio, Calvi et Figari et l’aéroport de Paris Orly à compter du 1er janvier 2024 est acceptée et enregistrée par Air Corsica sous réserve de l’attribution de la délégation de service public qui est déterminante pour la validité du billet.
-
-* * *
-
 Nous vous rappelons que le transport aérien de personnes est soumis aux Conditions Générales de Vente et de Transport consultables sur notre site. Nous vous recommandons d'en prendre connaissance. Pour l'ensemble des autres biens et services décrits sur notre site et non soumis aux Conditions Générales de Vente et de Transport, la responsabilité d’Air Corsica ne saurait être retenue en cas de survenance d'un événement de force majeure tel que la défaillance des prestataires de services par exemple.
 
 ### Conditions générales de transport
