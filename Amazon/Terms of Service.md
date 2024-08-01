@@ -1,7 +1,7 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
- Dernière mise à jour le 31 mai 2024.
+ Dernière mise à jour le 1er août 2024.
 
 Consultez la [version précédente des Conditions générales de vente et d'utilisation](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -134,11 +134,9 @@ Amazon Europe Core SARL, _Société à responsabilité limitée_, 38 avenue John
 
 **Autres coordonnées :**
 
-**Pour Amazon EU SARL :** Amazon EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 125 000 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 134248 Numéro de TVA intracommunautaire : LU 20260743
+**Pour Amazon EU SARL :** Amazon EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 165,833 € Enregistrée au Luxembourg RCS Luxembourg N° : B-101818 Numéro de licence : 134248 Numéro de TVA intracommunautaire : LU 20260743
 
 **Succursale en France :** Amazon EU SARL, succursale française, 67 Boulevard du General Leclerc, Clichy 92110, France Enregistrée en France Immatriculation au RCS, numéro : 487773327 R.C.S. Nanterre Numéro de TVA intracommunautaire : FR 12487773327
-
-**Pour Amazon Services Europe SARL :** Amazon Services Europe SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 37 500 € Enregistrée au Luxembourg RCS Luxembourg N°: B-93815 Numéro de licence : 132595 Numéro de TVA intracommunautaire : LU 19647148
 
 **Pour Amazon Media EU SARL :** Amazon Media EU SARL, _Société à responsabilité limitée_, 38 avenue John F. Kennedy, L-1855 Luxembourg Capital social : 37 500 € Enregistrée au Luxembourg RCS Luxembourg N°: B-112767 Numéro de licence : 136312 Numéro de TVA intracommunautaire : LU 20944528
 
@@ -394,7 +392,7 @@ Nous ne vendons pas de produits aux mineurs. Nous vendons des produits pour enfa
 Amazon.fr est une marque commerciale utilisée par Amazon EU SARL. Nos informations de contact sont les suivantes :
 
 Amazon EU SARL, Société à responsabilité limitée, 38 avenue John F. Kennedy, L-1855 Luxembourg  
-Capital social : 125.000 €  
+Capital social : 165,833 €  
 Enregistrée au Luxembourg  
 RCS Luxembourg N° : B-101818  
 Numéro de licence : 134248  
