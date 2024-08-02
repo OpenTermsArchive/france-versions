@@ -1,11 +1,11 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
-Dernière mise à jour le 11 août 2023. [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
+Dernière mise à jour le 01 août 2024. [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
 Nous savons que vous êtes attentifs à l'utilisation et au partage de vos informations personnelles et vous remercions de la confiance que vous nous accordez pour les traiter scrupuleusement, avec précaution, et à bon escient. Cette Notice décrit nos procédés de collecte et de traitement de vos informations personnelles via les sites, appareils, produits, services, points de vente physiques, magasins en ligne et applications d'Amazon faisant référence à la présente Notice (ci-après ensemble les « Services Amazon »).
 
-* [Les Responsables du traitement](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_C3B64DECA2D4454AB5B9FB2C9AC73782)
+* [Responsables du traitement](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_C3B64DECA2D4454AB5B9FB2C9AC73782)
 * [Quelles informations personnelles Amazon Europe collecte-t-elle sur ses clients ?](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_FD17AEA6AEA148A4A4AFE5E17AF68B1F)
 * [Pour quelles finalités Amazon Europe traite-t-elle mes informations personnelles ?](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_B62CEA2CE7934BF9B70F1ED3672BDF7B)
 * [Qu'en est-il des cookies et des autres identificateurs ?](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_9644487F71D040CD8D82AEF46DF35B5E)
@@ -24,7 +24,7 @@ Nous savons que vous êtes attentifs à l'utilisation et au partage de vos infor
 Responsables du traitement
 --------------------------
 
-Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL et Amazon Media EU SARL, quatre entités situées au 38 avenue John F. Kennedy, L-1855, Luxembourg, et Amazon Digital UK Limited située 1 Principal Place, Worship Street, London, EC2A 2FA, UK (ci-après ensemble « Amazon Europe ») sont les responsables du traitement des informations personnelles collectées et traitées via les Services Amazon. Consultez la page [Responsables du traitement de données](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GR2TDVTNRVM2PY2M) pour plus d'informations.
+Amazon Europe Core SARL, Amazon EU SARL et Amazon Media EU SARL, trois entités situées au 38 avenue John F. Kennedy, L-1855, Luxembourg, et Amazon Digital UK Limited située 1 Principal Place, Worship Street, London, EC2A 2FA, UK (ci-après ensemble « Amazon Europe ») sont les responsables du traitement des informations personnelles collectées et traitées via les Services Amazon. Consultez la page [Responsables du traitement de données](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GR2TDVTNRVM2PY2M) pour plus d'informations.
 
 Quelles informations personnelles Amazon Europe collecte-t-elle sur ses clients ?
 ---------------------------------------------------------------------------------
@@ -142,7 +142,7 @@ Les Services Amazon peuvent inclure des publicités émanant de tiers et des lie
 
 * **L'utilisation des services d'Annonceurs tiers**
 
-Nous fournissons aux sociétés de publicité des informations qui leur permettent de vous proposer des publicités Amazon plus utiles et plus pertinentes et de mesurer leur efficacité. Nous ne communiquons jamais votre nom ou d'autres informations permettant de vous identifier directement lorsque nous agissons ainsi. Nous utilisons un identifiant publicitaire comme un cookie ou un dispositif d'identification, ou un code dérivé d’une application cryptographique irréversible à une autre information telle une adresse email. Par exemple, si vous avez déjà téléchargé l'une de nos applications, nous partagerons votre identifiant publicitaire et les données relatives à cet événement afin qu'aucune publicité ne vous soit proposée pour télécharger à nouveau l'application. Certaines sociétés de publicité utilisent également ces informations pour vous proposer des publicités pertinentes provenant d'autres annonceurs. Vous pouvez en savoir plus sur la manière de refuser la publicité basée sur vos centres d'intérêts en vous rendant sur la page des [Préférences en matière de Publicité](https://www.amazon.fr/adprefs).
+Nous fournissons aux sociétés de publicité des informations qui leur permettent de vous proposer des publicités Amazon plus utiles et plus pertinentes et de mesurer leur efficacité. Nous ne communiquons jamais votre nom ou d'autres informations permettant de vous identifier directement lorsque nous agissons ainsi. Nous utilisons un identifiant publicitaire comme un cookie ou un dispositif d'identification, ou un code dérivé d’une application cryptographique irréversible à une autre information telle une adresse email. Par exemple, si vous avez déjà téléchargé l'une de nos applications, nous partagerons votre identifiant publicitaire et les données relatives à cet événement afin qu'aucune publicité ne vous soit proposée pour télécharger à nouveau l'application. Nous ne partageons pas vos actes d'achats spécifiques , tels que les achats, vues ou recherches de produits avec les sociétés de publicité. Toutefois, nous pouvons partager un identifiant publicitaire et une estimation de la valeur des publicités qu'elles vous présentent pour notre compte, afin qu'elles vous proposent des publicités Amazon plus efficaces. Certaines sociétés de publicité utilisent également ces informations pour vous proposer des publicités pertinentes provenant d'autres annonceurs. Vous pouvez en savoir plus sur la manière de refuser la publicité basée sur vos centres d'intérêts en vous rendant sur la page des [Préférences en matière de Publicité](https://www.amazon.fr/adprefs).
 
 À quelles informations puis-je avoir accès ?
 --------------------------------------------
