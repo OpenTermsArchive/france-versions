@@ -92,10 +92,11 @@ Online purchase
 
 Loyalty program and partners
 
-* [FlyingBlue](https://www.flyingblue.com/index.html)
+* [Flying Blue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](http://www.skyteam.com/)
+* [Air France KLM Flying Blue World Mastercard®](https://www.flyingblue.com/en/financial/overview/financial-services-viseca?country=CH)
 
 #### About Air France
 
@@ -112,37 +113,8 @@ Air France app
 
 [![](https://img.static-af.com/images/media/9D55C68A-D87B-4B21-B7F43E7B76A99E9A/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/718E33D6-4636-411F-839A07629E5B96F4/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/9FE3B888-7858-4E4D-8390C7E41A4982B7/)](https://appgallery.huawei.com/app/C104134763)
 
-#### Fly From
-
-Fly From
-
-* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
-* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
-* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
-
-#### Fly to France
-
-Fly to France
-
-* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
-* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
-* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
-* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
-* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
-
-#### Fly Worldwide
-
-Fly Worldwide
-
-* [All flights](https://wwws.airfrance.co.uk/en-gb/)
-* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
-* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
-* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
-* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
-
 * [Site Map](https://wwws.airfrance.fr/en/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/en/information/legal)
-* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
 * Cookie settings
