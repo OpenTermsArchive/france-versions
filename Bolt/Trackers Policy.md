@@ -7,7 +7,7 @@ Ce site web utilise des cookies. Utilisez les cases à cocher pour confirmer que
 
 Consultez notre  [Déclaration relative aux cookies](https://bolt.eu/en/cookie-declaration/)  pour plus d'informations et de préférences.
 
-Votre consentement s'applique aux domaines suivants : littlebigthinktank.com, city.bolt.eu, beta.web-app.bolt-food.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, bolt.eu
+Votre consentement s'applique aux domaines suivants : littlebigthinktank.com, city.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, bolt.eu
 
 Votre état ​​actuel: Refuser. 
 
@@ -27,7 +27,7 @@ Identifiant de votre consentement: 0Date de consentement:
 
 Déclaration relative aux cookies mise à jour le 07/07/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Nécessaires (53)
+Nécessaires (48)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -42,14 +42,13 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Bolt\_driver\_portal\_device\_id | signup.bolt.eu | En attente | Persistant | Stockage local HTML |
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | Stockage local HTML |
 | bscookie | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Ce cookie est utilisé pour identifier l'internaute via une application. Cela permet au visiteur de se connecter à un site web via son application LinkedIn, par exemple. | 1 année | Cookie HTTP |
-| bugsnag-anonymous-id \[x3\] | beta.web-app.bolt-food.eu  <br>fleets.bolt.eu  <br>food.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
+| bugsnag-anonymous-id \[x2\] | fleets.bolt.eu  <br>food.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
 | cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | Cookie HTTP |
-| CookieConsent \[x17\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
+| CookieConsent \[x16\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
 | deviceId \[x2\] | static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistant | Stockage local HTML |
 | fleet-visitor-id | bolt.eu | En attente | Session | Cookie HTTP |
-| JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "la politique de confidentialité de New Relic") | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | Cookie HTTP |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 180 jours | Cookie HTTP |
-| mp\_#\_mixpanel \[x8\] | fleets.bolt.eu  <br>cdn.mxpnl.com  <br>beta.web-app.bolt-food.eu  <br>bolt.eu  <br>bolt-food.eu  <br>city.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | En attente | 1 année | Cookie HTTP |
+| mp\_#\_mixpanel \[x6\] | fleets.bolt.eu  <br>cdn.mxpnl.com  <br>bolt.eu  <br>city.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | En attente | 1 année | Cookie HTTP |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 | test\_cookie | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Utilisé pour vérifier si le navigateur de l'utilisateur accepte les cookies. | 1 jour | Cookie HTTP |
@@ -166,32 +165,32 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | yt-remote-session-app | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 | yt-remote-session-name | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 
-Non classés (44)
+Non classés (33)
 
 Les cookies non classés sont les cookies qui sont en cours de classification, ainsi que les fournisseurs de cookies individuels. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
     
 | Nom | Fournisseur | Finalité | Expiration | Type |
 | --- | --- | --- | --- | --- |
-| \_\_mp\_opt\_in\_out\_# \[x2\] | bolt.eu  <br>bolt-food.eu | En attente | Session | Cookie HTTP |
+| \_\_mp\_opt\_in\_out\_# | bolt.eu | En attente | Session | Cookie HTTP |
 | \_\_mp\_opt\_in\_out\_0917c17fcaa65a6de4a09408cfee87f2 | city.bolt.eu | En attente | Persistant | Stockage local HTML |
 | \_\_mp\_opt\_in\_out\_16b2ba60f4d49b1f69fcf78aea1521a3 | cdn.mxpnl.com | En attente | Session | Cookie HTTP |
-| \_\_mp\_opt\_in\_out\_d34cbdea4b58a3b884e4b999930076ef \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| BoltDeliveryClient.languageLocale \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| \_\_mp\_opt\_in\_out\_d34cbdea4b58a3b884e4b999930076ef | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| BoltDeliveryClient.languageLocale | food.bolt.eu | En attente | Persistant | Stockage local HTML |
 | foodlat | bolt.eu | En attente | Session | Cookie HTTP |
 | foodlng | bolt.eu | En attente | Session | Cookie HTTP |
 | FOP\_ip\_location\_data | fleets.bolt.eu | En attente | Persistant | Stockage local HTML |
 | lo\_di \[x2\] | cdn-public.liftoffintl.io | En attente | Session | Cookie HTTP |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | 1 année | Cookie HTTP |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_dev-menu\_9$a\_\_\_mmkv\_internal\_is\_initialised \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_secret \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_store\_9$a\_\_\_mmkv\_internal\_is\_initialised \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_store\_9$a\_cachedFlags\_v2 \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_store\_9$a\_devId \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_store\_9$a\_impressionEvents \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mmkv\_9$a\_store\_9$a\_persist:root \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| mp\_optout \[x2\] | beta.web-app.bolt-food.eu  <br>food.bolt.eu | En attente | Session | Cookie HTTP |
+| mmkv\_9$a\_dev-menu\_9$a\_\_\_mmkv\_internal\_is\_initialised | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_secret | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_store\_9$a\_\_\_mmkv\_internal\_is\_initialised | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_store\_9$a\_cachedFlags\_v2 | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_store\_9$a\_devId | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_store\_9$a\_impressionEvents | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mmkv\_9$a\_store\_9$a\_persist:root | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| mp\_optout | food.bolt.eu | En attente | Session | Cookie HTTP |
 | persist:account-selected-provider | foodpartner.bolt.eu | En attente | Persistant | Stockage local HTML |
 | persist:session \[x2\] | city.bolt.eu  <br>foodpartner.bolt.eu | En attente | Persistant | Stockage local HTML |
 | sessionId-eater | bolt.eu | En attente | Session | Stockage local HTML |
