@@ -1117,7 +1117,7 @@ La livraison offerte n'est pas applicable. En savoir plus sur notre page dédié
 
 **2.2 Prix réduits**
 
-L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre r��servée aux abonnés CDAV »).
+L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonnés CDAV »).
 
 **2.3 Programme CDISCOUNT Famille**
 
