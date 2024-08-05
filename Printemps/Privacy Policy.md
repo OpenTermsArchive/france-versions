@@ -52,8 +52,8 @@
 
 * [Chaussures](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-femme)
     * [Chaussures plates](https://www.printemps.com/fr/fr/chaussures-plates-femme)
     * [Chaussons](https://www.printemps.com/fr/fr/chaussons-femme)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
@@ -73,11 +73,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-femme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-femme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-femme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Sacs bourse](https://www.printemps.com/fr/fr/sacs-bourse-femme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-femme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-femme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-femme)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-femme)
@@ -104,14 +104,16 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+* [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg)](https://www.printemps.com/fr/fr/last-chance-femme)
+    
 
 * [Vêtements](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
     * [Combinaisons](https://www.printemps.com/fr/fr/combinaisons-homme)
     * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
-    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Mailles et pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
+    * [Maillots de bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
@@ -141,10 +143,10 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
+    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
-    * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
@@ -172,6 +174,8 @@
     * [Adidas](https://www.printemps.com/fr/fr/adidas-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+* [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg)](https://www.printemps.com/fr/fr/last-chance-homme)
+    
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
