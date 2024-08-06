@@ -152,7 +152,7 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _Prix conseillé par la marque/le fabricant en xx/xxxx_ » : est le prix auquel le fabricant, la marque ou son représentant officiel (notamment l’importateur ou le distributeur des produits) nous propose/conseille de vendre le produit qu’il nous fournit. La date indiquée à côté du prix conseillé est celle à partir de laquelle ce prix nous est communiqué par le fabricant, la marque ou son représentant officiel. Ce prix est mis à jour dès lors que le fabricant, la marque ou son représentant officiel communique un nouveau prix conseillé pour le produit concerné.
 
-\- Le « _Prix moyen constaté sur notre Marketplace_ » : est la moyenne des prix de vente que les vendeurs professionnels – qui doivent être au minimum 2 – pratiquent sur notre Marketplace Cdiscount pour le même produit. Ce prix est calcul�� de manière automatique une fois par semaine. 
+\- Le « _Prix moyen constaté sur notre Marketplace_ » : est la moyenne des prix de vente que les vendeurs professionnels – qui doivent être au minimum 2 – pratiquent sur notre Marketplace Cdiscount pour le même produit. Ce prix est calculé de manière automatique une fois par semaine. 
 
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
