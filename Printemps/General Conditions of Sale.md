@@ -296,6 +296,8 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island)
     * [Ami Paris](https://www.printemps.com/fr/fr/amiparis)
+*  [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg) Last chance](https://www.printemps.com/fr/fr/last-chance)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
