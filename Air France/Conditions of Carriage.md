@@ -148,12 +148,10 @@ Online purchase
 
 Loyalty program and partners
 
-* [Flying Blue](https://www.flyingblue.com/index.html)
+* [FlyingBlue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](http://www.skyteam.com/)
-* [Air France KLM World Elite Mastercard®](https://wwws.airfrance.ca/en/information/flyingblue/carte-bancaire-partenaire)
-* [Worldwide sites](http://www.airfrance.com/?)
 
 #### About Air France
 
@@ -174,33 +172,33 @@ Air France app
 
 Fly From
 
-* [Montréal](https://wwws.airfrance.ca/en-ca/flights-from-montreal)
-* [Vancouver](https://wwws.airfrance.ca/en-ca/flights-from-vancouver)
-* [Toronto](https://wwws.airfrance.ca/en-ca/flights-from-toronto)
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight Montreal - Paris](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-paris)
-* [Flight Montreal - Lyon](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-lyon)
-* [Flight Montreal - Marseille](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-marseille)
-* [Flight Montreal - Nice](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-nice)
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [All flights](https://wwws.airfrance.ca/en-ca/)
-* [Flight Montreal - Rome](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-rome)
-* [Flight Montreal - Barcelona](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-barcelona)
-* [Flight Montreal - London](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-london)
-* [Flight Montreal - Madrid](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-madrid)
-* [Flight Montreal - Amsterdam](https://wwws.airfrance.ca/en-ca/flights-from-montreal-to-amsterdam)
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
 * [Site Map](https://wwws.airfrance.fr/en/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/en/information/legal)
+* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
-* [Accessible Canada Act](https://wwws.airfrance.fr/en/information/legal/atpdr-regulations)
 * Cookie settings
