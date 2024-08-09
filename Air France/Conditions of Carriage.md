@@ -168,31 +168,37 @@ Air France app
 
 [![](https://img.static-af.com/images/media/9D55C68A-D87B-4B21-B7F43E7B76A99E9A/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/718E33D6-4636-411F-839A07629E5B96F4/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/9FE3B888-7858-4E4D-8390C7E41A4982B7/)](https://appgallery.huawei.com/app/C104134763)
 
-#### Fly from
+#### Fly From
 
-Fly from
+Fly From
 
-* [Brussels](https://www.airfrance.be/flights/departure-brussels)
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight Brussels-Paris](https://www.airfrance.be/flights/brussels+paris)
-* [Flight Brussel-Lyon](https://www.airfrance.be/flights/brussels+lyon)
-* [Flight Brussels-Rennes](https://www.airfrance.be/flights/brussels+rennes)
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [Flight Brussels-New York](https://www.airfrance.be/flights/brussels+new-york)
-* [Flight Brussels-Santiago](https://www.airfrance.be/flights/brussels+santiago)
-* [Flight Brussels-Shanghai](https://www.airfrance.be/flights/brussels+shanghai)
-* [Flight Brussels-Johannesburgh](https://www.airfrance.be/flights/brussels+johannesburgh)
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
-* [Site Map](https://www.airfrance.co.uk/GB/en/local/transverse/footer/plan-du-site.htm)
+* [Site Map](https://wwws.airfrance.fr/en/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/en/information/legal)
+* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
 * Cookie settings
