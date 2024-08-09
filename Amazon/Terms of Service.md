@@ -1,9 +1,9 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
- Dernière mise à jour le 1er août 2024.
+Dernière mise à jour le 9 août 2024.
 
-Consultez la [version précédente des Conditions générales de vente et d'utilisation](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
+Retrouvez la version précédente des Conditions d'utilisation et de vente dans les [versions précédentes des Conditions générales de vente et d'utilisation](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q). Cette version des Conditions d'utilisation et de vente s'applique à toutes les commandes passées à la date de dernière mise à jour indiquée ci-dessus, ou après cette date. Pour les commandes passées avant cette date, merci de consulter les versions précédentes des Conditions d'utilisation et de vente et de sélectionner la version qui était en vigueur au moment de votre commande.
 
 Bienvenue sur Amazon.fr.
 
@@ -44,7 +44,7 @@ Consultez [une liste non exhaustive des marques déposées par Amazon](#GUID-602
 
 **5\. LICENCE ET ACCÈS**
 
-Sous réserve du respect des présentes Conditions d'utilisation et des Conditions des Services et du paiement de toutes les sommes applicables, Amazon ou ses fournisseurs de contenu vous accorde une licence limitée, non exclusive, non transférable, non sous licenciable pour l'accès et à l'utilisation personnelle et non commerciale des Services Amazon. Cette licence n'inclut aucun droit d'utilisation d'un Service Amazon ou de son contenu pour la vente ou toute autre utilisation commerciale ; de collecte et d'utilisation d'un listing produit, descriptions, ou prix de produits ; de toute utilisation dérivée d'un Service Amazon ou de son contenu ; de tout téléchargement ou copie des informations d'un compte pour un autre commerçant ; ou de toute utilisation de robot d'aspiration de données, ou autre outil similaire de collecte ou d'extraction de données.
+Sous réserve du respect des présentes Conditions d'utilisation et des Conditions des Services et du paiement de toutes les sommes applicables, Amazon ou ses fournisseurs de contenu vous accorde une licence limitée, non exclusive, non transférable, non sous licenciable pour l'accès et à l'utilisation personnelle et non commerciale des Services Amazon. Cette licence n'inclut aucun droit d'utilisation d'un Service Amazon ou de son contenu pour la vente ou toute autre utilisation commerciale ; de collecte et d'utilisation d'un listing produit, descriptions, ou prix de produits ; de toute utilisation dérivée d'un Service Amazon ou de son contenu ; de tout téléchargement ou copie des informations d'un compte pour un autre commerçant ; ou (à l'exception de toute utilisation par des chercheurs ou des autorités compétentes pour garantir la conformité aux lois applicables) de toute utilisation de robot d'aspiration de données, ou autre outil similaire de collecte ou d'extraction de données.
 
 Tous les droits qui ne vous ont pas été expressément accordés dans ces Conditions d'Utilisation ou dans les Conditions d'un Service sont réservés et restent à Amazon ou à ses licenciés, fournisseurs, éditeurs, titulaires de droits, ou tout autre fournisseur de contenu. Aucun Service Amazon ou tout ou partie de celui-ci ne doit être reproduit, copié, vendu, revendu, visité ou exploité pour des raisons commerciales sans notre autorisation expresse et écrite.
 
@@ -60,7 +60,13 @@ Si vous utilisez un quelconque Service Amazon, vous êtes responsable du maintie
 
 Vous ne devez pas utiliser un quelconque Service Amazon : (i) d'une façon qui causerait, ou serait susceptible de causer une interruption, un dommage, ou une altération d'un Service Amazon, ou (ii) dans un but frauduleux, ou en relation avec un crime ou une activité illégale, ou (iii) dans le but provoquer des troubles, nuisances ou causes d'anxiétés.
 
-Nous nous réservons le droit de refuser de fournir un quelconque Service Amazon ou de clôturer les comptes si votre comportement nous donne une raison justifiée de le faire. Ce sera notamment le cas si vous enfreignez les lois applicables, les dispositions contractuelles applicables, nos lignes directrices ou nos politiques, toutes accessibles depuis le site Internet. Nonobstant une telle limitation ou résiliation, vous continuerez à avoir accès au contenu et aux services que vous avez achetés jusqu'à ce moment-là.
+Nous pouvons être amenés à résilier votre ou vos comptes Amazon ou à restreindre votre accès aux et votre utilisation des Services Amazon en cas de violation des lois en vigueur, des présentes Conditions d'utilisation, des Conditions de service ou des directives ou politiques de ce site Web (telles que les règles de la communauté). Par exemple, nous pouvons résilier votre ou vos comptes Amazon ou restreindre l'utilisation des Services Amazon en cas de fraude, ou lorsque les lois en vigueur, les pouvoirs publics ou toute autre autorité compétente l'exigent.
+
+Nous résilierons votre ou vos comptes Amazon ou restreindrons votre accès aux et votre utilisation des Services Amazon uniquement sur préavis, sauf en cas d'infraction grave aux lois en vigueur, si nous ne sommes pas en mesure de vous informer à l'avance pour des raisons légales, ou si le fait de respecter un préavis pourrait engager la responsabilité d'Amazon, porter préjudice à d'autres clients ou utilisateurs, ou compromettre les Services Amazon.
+
+Dans tous les cas, nous vous informerons par écrit de la résiliation de votre ou de vos comptes Amazon ou de la restriction de votre accès aux et de votre utilisation des Services Amazon. La notification vous informera de votre droit de contester la décision.
+
+Vous avez la possibilité de fermer votre ou vos comptes Amazon à tout moment en accédant à la page « Votre compte » et en sélectionnant « Fermer votre compte Amazon ».
 
 **7\. COMMENTAIRES, CRITIQUES, COMMUNICATIONS ET AUTRE CONTENU**
 
@@ -112,9 +118,13 @@ Les présentes Conditions d'utilisation sont soumises au droit luxembourgeois (�
 
 Vous acceptez de ne pas exporter, réexporter ou transférer tous produits (y compris les logiciels ou autres produits numériques) que vous avez achetés sur le site Internet vers un pays, à un individu, une société, une organisation ou une entité pour lesquels une telle exportation est limitée ou interdite par la loi. Par exemple, les sanctions économiques et les embargos imposés par l'Union européenne, les Nations Unies, les départements d'État, du Trésor ou du Commerce des États-Unis et par d'autres autorités gouvernementales (tels que les embargos imposés à des pays spécifiques ou les sanctions économiques imposées à des individus ou des sociétés pour des infractions de terrorisme ou de blanchiment d'argent) peuvent vous interdire d'emporter des produits dans d'autres pays, même pour votre usage personnel, et/ou d'envoyer des produits (que ce soit physiquement par courrier ou numériquement par courrier électronique ou par partage de fichiers) à des individus, sociétés, organisations ou entités particuliers. En outre, vous acceptez de ne pas acheter de produits ou de services sur le site Internet si vous êtes soumis à des mesures restrictives (sanctions).
 
-**15\. MODIFICATION DU SERVICE OU DES CONDITIONS D'UTILISATION**
+**15\. MODIFICATION DES CONDITIONS D'UTILISATION**
 
-Nous nous réservons le droit de faire des modifications sur tout Service Amazon, à nos procédures, à nos termes et conditions, y compris les présentes Conditions d'utilisation à tout moment. Vous êtes soumis aux termes et conditions, procédures et Conditions d'utilisation en vigueur au moment où vous utilisez le Service Amazon. Si une stipulation de ces Conditions d'utilisation est réputée non valide, nulle, ou inapplicable, quelle qu'en soit la raison, cette stipulation sera réputée divisible et n'affectera pas la validité et l'opposabilité des stipulations restantes.
+Nous nous réservons le droit de modifier à tout moment les présentes Conditions d'utilisation, ainsi que toutes les directives ou politiques publiées sur le site internet, pour des raisons légales ou réglementaires, afin de les rendre plus claires ou plus faciles à comprendre, et/ou de refléter les modifications que nous apportons aux Services Amazon, en publiant les versions mises à jour sur Amazon.fr ou sur tout autre site internet ou application utilisé pour fournir les Services Amazon. En cas de modification significative des présentes Conditions d'utilisation, Amazon vous en informera dans un délai raisonnable.
+
+Vous serez tenu(e) de respecter les Conditions d'utilisation, ainsi que les directives et politiques en vigueur lorsque vous utiliserez les Services Amazon. Vous pouvez à tout moment cesser d'utiliser les Services Amazon, résilier votre compte Amazon ou les Services Amazon concernés pour quelque raison que ce soit, y compris en cas de modification.
+
+Si l'une de ces Conditions d'utilisation est jugée non valide, nulle ou, pour quelque raison que ce soit, inapplicable, cette condition sera considérée comme divisible et n'affectera pas la validité et le champ d'application des autres conditions.
 
 **16\. RENONCIATION**
 
@@ -248,7 +258,7 @@ Après avoir passé votre commande, nous vous adressons un message de confirmati
 
 Veuillez noter que nous vendons des produits seulement en quantités correspondant aux besoins moyens habituels d'un foyer. Ceci s'applique aussi bien au nombre de produits commandés dans une seule commande qu'au nombre de commandes individuelles respectant la quantité habituelle d'un foyer normal passées pour le même produit. Amazon ne vend pas aux bibliothèques de prêt.
 
-Vous acceptez d'obtenir les factures de vos achats par voie électronique. Les factures électroniques seront mises à votre disposition au format .pdf dans l'espace [Votre compte](https://www.amazon.fr/gp/css/homepage.html) sur notre Site Internet. Pour chaque livraison, nous vous indiquerons dans le message de confirmation d'envoi si une facture électronique est disponible. Pour plus d'informations sur les factures électroniques et pour savoir comment recevoir une copie papier, merci de consulter nos [pages d'Aide](https://www.amazon.fr/gp/help/customer/display.html/ref=hp_gw_iufourdc/?nodeId=201268160).
+Vous acceptez d'obtenir les factures de vos achats par voie électronique. Les factures électroniques seront mises à votre disposition au format .pdf dans l'espace [Votre compte](https://www.amazon.fr/gp/css/homepage.html) sur notre Site Internet. Pour chaque livraison, nous vous indiquerons dans le message de confirmation d'envoi si une facture électronique est disponible. Pour plus d'informations sur les factures électroniques et pour savoir comment recevoir une copie papier, merci gde consulter nos [pages d'Aide](https://www.amazon.fr/gp/help/customer/display.html/ref=hp_gw_iufourdc/?nodeId=201268160).
 
 **2\. DROIT DE RÉTENTION**
 
@@ -258,40 +268,51 @@ Les produits livrés restent la propriété d'Amazon jusqu'à leur remise au tra
 
 **DROIT LEGAL DE RÉTRACTATION**
 
-À moins que l'une des exceptions listées ci-dessous ne soit applicable, vous pouvez vous rétracter de votre commande sans donner de motif dans un délai de 14 jours courant à compter de la date à laquelle vous-même, ou un tiers désigné par vous (autre que le transporteur), a pris physiquement possession des biens achetés (ou du dernier bien, lot ou pièce si le contrat porte sur la livraison de plusieurs biens ou plusieurs lots ou pièces livrés séparément) ou de la date à laquelle vous avez conclu le contrat pour les prestations de services.
+Conformément aux dispositions légales en vigueur et à moins que l'une des exceptions listées ci-dessous ne soit applicable, vous bénéficiez du droit de vous rétracter de votre commande sans donner de motif dans un délai de 14 jours à compter de :
 
-Vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre centre de retours en ligne, en utilisant ce [formulaire](https://www.amazon.fr/formulaire-retractation), ou par courrier. Dans le cas où vous utiliseriez le [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
+* La date à laquelle vous-même, ou un tiers désigné par vous (autre que le transporteur), a pris physiquement possession des biens achetés (ou du dernier bien, lot ou pièce si le contrat porte sur la livraison de plusieurs biens ou plusieurs lots ou pièces livrés séparément) ou ;
 
-Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre demande de rétractation avant que le délai de 14 jours n'expire et de renvoyer votre produit par le biais de notre centre de retours en ligne.
+* La date à laquelle vous avez conclu le contrat pour les prestations de services.
 
-Pour toute information complémentaire sur l'étendue, le contenu et les instructions quant à l'exercice de votre droit de rétractation, merci de contacter notre [Service Client](https://www.amazon.fr/contact-us).
-
-**EFFETS DE LA RÉTRACTATION**
-
-Nous vous rembourserons tous les paiements que nous avons reçus de votre part, y compris les frais de livraison standards (c'est-à-dire correspondant à la livraison la moins onéreuse que nous proposons) au plus tard 14 jours à compter de la réception de votre demande de rétractation. Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous. Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droit.
-
-Veuillez noter que vous devez renvoyer le(s) produit(s) en suivant les instructions disponibles sur notre centre de retours en ligne au plus tard 14 jours à compter de la date à laquelle vous nous avez notifié votre décision de rétractation.
-
-Vous devez prendre à votre charge les frais directs de renvoi du (des) produit(s). Vous serez responsable de la dépréciation de la valeur du(s) produit(s) résultant de manipulations (autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce(s) produit(s))
+Le délai de 14 jours commence au lendemain de la prise de possession des biens achetés. Si ce délai expire un samedi ou un dimanche ou un jour férié, la date d'expiration est reportée au jour ouvrable qui suit. Certains articles, listés ci-dessous dans la section « EXCEPTIONS AU DROIT DE RÉTRACTATION » ne sont pas éligibles à un retour.
 
 **EXCEPTIONS AU DROIT DE RÉTRACTATION**
 
-* Le droit de rétractation ne s'applique pas à :
+Conformément aux dispositions légales en vigueur, le droit de rétractation ne s'applique pas à :
+
 * la livraison de produits qui ne peuvent pas être retournés pour des raisons d'hygiène ou de protection de la santé, si vous les avez descellés ou bien, qui ont, après avoir été livrés, été mélangés de manière indissociable avec d'autres articles ;
 * la livraison d'enregistrements audio ou vidéos ou de logiciels informatiques lorsque vous les avez descellés après la livraison ;
 * la livraison de produits qui ont été confectionnés selon vos spécifications ou nettement personnalisés ;
 * la fourniture de produits susceptibles de se détériorer ou de se périmer rapidement ;
 * la fourniture de services pleinement exécutés par Amazon pour lesquels vous avez accepté au moment de la passation de votre commande que nous commencions leur exécution, et renoncé à votre droit de rétractation ;
-* la fourniture de journaux, périodiques ou magazines à l'exception des contrats d'abonnement à ces publications ; et
+* la fourniture de journaux, périodiques ou magazines à l'exception des contrats d'abonnement à ces publications ;
 * la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle.
+* un service si Amazon l'a entièrement exécuté et si vous avez accepté, au moment du passage de votre commande que nous commencions la fourniture de celui-ci avant la fin du délai de rétractation et renoncé à votre droit de rétractation ;
+* la fourniture de contenu numérique (y compris les applications, les logiciels numériques, les livres électroniques, les MP3, etc.) qui n'est pas fourni sur un support matériel (par exemple, sur un CD ou un DVD) si vous avez accepté, au moment du passage de votre commande que nous commencions la fourniture de celui-ci avant la fin du délai de rétractation et renoncé à votre droit de rétractation.
+
+**MODALITES D'EXERCICE DU DROIT LÉGAL DE RÉTRACTATION**
+
+Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou par courrier en utilisant ce [formulaire](https://m.media-amazon.com/images/G/08/legal/Previous_versions_Legal_policies/Conditions_of_Use_and_Sale/cancellationform_fr_09082024_FR.pdf). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
+
+Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre demande de rétractation avant que le délai de 14 jours n'expire et de renvoyer votre produit en suivant les instructions de notre centre de retours en ligne.
+
+Pour toute information complémentaire sur l'étendue, le contenu et les instructions quant à l'exercice de votre droit de rétractation, merci de contacter notre [Service Client](https://www.amazon.fr/contact-us).
+
+Veuillez noter que vous devez renvoyer le(s) produit(s) au plus tard 14 jours à compter de la date à laquelle vous nous avez notifié votre décision de rétractation. Les produits doivent être complets et dans un état neuf et intact. Vous êtes responsable de la dépréciation de la valeur du(s) produit(s) résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce(s) produit(s).
+
+**EFFETS DE LA RÉTRACTATION**
+
+En cas d'exercice de votre droit légal de rétractation, nous vous rembourserons tous les paiements que nous avons reçus de votre part, y compris les frais de livraison standards (c'est-à-dire correspondant à la livraison la moins onéreuse que nous proposons) au plus tard 14 jours à compter de la réception de votre demande de rétractation. Pour les produits vendus par Amazon EU SARL, les retours sont gratuits, sauf pour les produits lourds et volumineux pour lesquels des frais de retour seront déduits de votre remboursement. Pour plus d'informations, veuillez visiter la page [À propos de nos politiques de retours](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
+
+Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous. Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droiten application des dispositions légales en vigueur.
 
 **NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS**
 
-Sans préjudice des droits qui vous sont reconnus par la loi, Amazon vous propose la politique de retours suivante :
+Sans préjudice des droits qui vous sont reconnus par la loi et notamment de votre droit légal de rétractation décrit ci-dessus, Amazon EU SARL propose une politique commerciale de retours sous 30 jours à compter du lendemain de la réception du produit si les produits sont complets et dans un état neuf et intact en soumettant votre demande par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/).
 
-Tous les produits en provenance des sites d'Amazon peuvent être retournés dans les 30 jours suivant la réception des produits par Amazon si les produits sont complets et dans un état neuf et intact. S'agissant des supports de données emballés sous plastique ou scellés (par exemple, les CD, cassettes audio, vidéos VHS, DVD, jeux PC, jeux vidéo et logiciels, articles de la boutique Hygiène, Beauté et Santé Animale), nous ne les reprendrons que s'ils sont toujours dans leur emballage plastique ou qu'ils n'ont pas été descellés. Les produits doivent être retournés par le biais de notre [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/). Cette politique de retours n'est pas applicable aux contenus numériques ou logiciels informatiques qui ne sont pas fournis sur un support matériel (ex : sur un CD ou un DVD). Les frais de retour sont remboursés pour les retours de vêtements ou de chaussures achetés sur les boutiques Amazon et relevant de la politique de retour gratuit des articles de mode.
+Les produits qui sont exclus du droit légal de rétractation en application de la liste ci-dessus sont également exclus de notre politique de retours sous 30 jours.
 
-Si vous renvoyez un (des) produit(s) conformément à notre politique de retour, nous vous rembourserons le prix que vous avez payé mais pas les frais de livraison de votre achat initial. De même, les risques liés au transport et les frais de livraison de retour seront à votre charge. Les frais de livraison et de retour ne sont remboursés que pour les vêtements et les chaussures achetés sur l'un de nos sites. Cette politique de retours n'affecte pas vos droits reconnus par la loi, y compris votre droit légal de rétractation décrit ci-dessus.
+En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours, les frais de retour sont gratuits, sauf pour les produits volumineux/lourds, pour lesquels des frais de retour seront déduits de votre remboursement. Pour plus d'informations, veuillez visiter la page [À propos de nos politiques de retours](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). Les frais d'expédition initiaux ne sont pas remboursés entre 15 et 30 jours.
 
 Consultez notre [politique de retours](https://www.amazon.fr/gp/help/customer/display.html/ref=hp_left_ac?nodeId=11087641) pour plus d'informations.
 
@@ -315,17 +336,21 @@ La commande Acheter maintenant est la façon la plus rapide et la plus simple po
 
 **7\. NOTRE RESPONSABILITÉ - GARANTIES**
 
-Vous bénéficiez de la garantie légale de conformité dans les conditions des articles L.217-4 et suivants du code de la consommation et de la garantie des vices cachés dans les conditions prévues aux articles 1641 et suivants du Code civil. Consultez notre [page d'aide sur ces garanties](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201310960) pour plus d'informations.
+Lorsque vous achetez un produit vendu par Amazon EU SARL, vous bénéficiez de la garantie légale de conformité dans les conditions des articles L.217-3 et suivants du code de la consommation et de la garantie légale des vices cachés dans les conditions prévues aux articles 1641 et suivants du Code civil. Consultez notre [page d'aide sur ces garanties](https://www.amazon.fr/gp/help/customer/display.html?nodeId=201310960) pour plus d'informations.
+
+Amazon EU SARL répond des défauts de conformité apparaissant sur votre produit ou produit comportant des éléments numériques (qu'ils soient neufs, d'occasion ou reconditionnés) dans les conditions suivantes :
 
 Vous bénéficiez d'un délai de deux ans à compter de la délivrance du produit pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, vous n’êtes tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
-Lorsque le contrat de vente du produit prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, vous n'êtes tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci. Pour ces biens, la garantie légale de conformité emporte obligation pour le professionnel de fournir toutes les mises à jour nécessaires au maintien de la conformité du bien.
+Lorsque le contrat de vente du produit prévoit la fourniture d'un contenu numérique ou d'un service numérique de manière continue pendant une durée supérieure à deux ans, la garantie légale est applicable à ce contenu numérique ou ce service numérique tout au long de la période de fourniture prévue. Durant ce délai, vous n'êtes tenu d'établir que l'existence du défaut de conformité affectant le contenu numérique ou le service numérique et non la date d'apparition de celui-ci.
+
+Pour ces produits, la garantie légale de conformité emporte obligation pour le professionnel de fournir toutes les mises à jour nécessaires au maintien de la conformité du produit.
 
 Vous avez le droit de choisir entre la réparation ou le remplacement du produit dans un délai de trente jours suivant votre demande, sans frais et sans inconvénient majeur pour vous.
 
 Tout produit réparé dans le cadre de la garantie légale de conformité bénéficie d’une extension de cette garantie de six (6) mois.
 
-Si vous demandez la réparation du bien, mais que son remplacement vous est imposé, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du produit.
+Si vous demandez la réparation du produit, mais que son remplacement vous est imposé, la garantie légale de conformité est renouvelée pour une période de deux ans à compter de la date de remplacement du produit.
 
 Vous pouvez obtenir une réduction du prix d'achat en conservant le produit ou mettre fin au contrat en vous faisant rembourser intégralement contre restitution du produit, si :
 
@@ -349,7 +374,11 @@ Le vendeur qui fait obstacle de mauvaise foi à la mise en œuvre de la garantie
 
 Vous bénéficiez également de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le produit est conservé ou à un remboursement intégral contre restitution du produit.
 
-La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie.
+Vous pouvez soumettre votre demande en ligne via notre [Service Client](https://www.amazon.fr/contact-us) pour solliciter la mise en œuvre de ces garanties légales et les différentes options disponibles afin d'assurer la mise en conformité de votre produit vous seront proposées.
+
+En cas de besoin, vous pouvez demander via notre [Service Client](https://www.amazon.fr/contact-us) à être joint directement par téléphone.
+
+La garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement proposée ou offerte par le fabricant du produit ou un tiers, qui en détermine les conditions et la durée.
 
 Nous nous engageons à apporter tous les soins en usage dans la profession pour la mise en œuvre du service offert au client. Néanmoins, notre responsabilité ne pourra pas être retenue en cas de retard ou de manquement à nos obligations contractuelles si le retard ou manquement est dû à une cause en dehors de notre contrôle : cas fortuit ou cas de force majeure tel que défini par la loi applicable.
 
@@ -377,17 +406,21 @@ La Commission européenne met à disposition une plateforme en ligne de résolut
 
 **10\. MODIFICATION DU SERVICE OU DES CONDITIONS GÉNÉRALES DE VENTE**
 
-Nous nous réservons le droit de faire des changements à notre Site Internet, nos procédures, et à nos termes et conditions, y compris les présentes Conditions Générales de Vente à tout moment. Vous êtes soumis aux termes et conditions, procédures et Conditions Générales de Vente en vigueur au moment où vous nous commandez un produit, sauf si un changement à ces termes et conditions, ou les présentes Conditions Générales de Vente est exigé par une autorité administrative ou gouvernementale (dans ce cas, cette modification peut s'appliquer aux commandes antérieures que vous avez effectuées). Si l'une des stipulations de ces Conditions Générales de Vente est réputée non valide, nulle ou inapplicable, quelle qu'en soit la raison, cette stipulation sera réputée divisible et n'affectera pas la validité et l'effectivité des stipulations restantes.
+Nous nous réservons le droit d'apporter des modifications aux présentes Conditions de vente à tout moment en publiant les modifications sur Amazon.fr. Vous serez tenu(e) de respecter les Conditions de vente en vigueur au moment où vous commanderez des produits chez nous.
 
-**11\. RENONCIATION**
+**11\. NULLITÉ**
+
+Si l'une de ces Conditions de vente est jugée non valide, nulle ou, pour quelque raison que ce soit, inapplicable, cette condition sera considérée comme divisible et n'affectera pas la validité et le champ d'application des autres conditions.
+
+**12\. RENONCIATION**
 
 Si vous enfreignez ces Conditions Générales de Vente et que nous ne prenons aucune action, nous serions toujours en droit d'utiliser nos droits et voies de recours dans toutes les autres situations où vous violeriez ces Conditions Générale de Vente.
 
-**12\. MINEURS**
+**13\. MINEURS**
 
 Nous ne vendons pas de produits aux mineurs. Nous vendons des produits pour enfants pour des achats par des adultes. Si vous avez moins de 18 ans, vous ne pouvez utiliser le Site Internet Amazon.fr que sous la surveillance d'un parent ou d'un tuteur.
 
-**13\. IDENTIFICATION**
+**14\. IDENTIFICATION**
 
 Amazon.fr est une marque commerciale utilisée par Amazon EU SARL. Nos informations de contact sont les suivantes :
 
