@@ -20,7 +20,7 @@ Sommaire
 * [Autre](#terms-of-service-other)
 * [Accès aux Conditions de WhatsApp dans d’autres langues](#3XdYbaeDAG58mV54C)
 
-_Si vous vivez au [Royaume-Uni](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC vous fournit les Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/terms-of-service-uk) et de cette [Politique de confidentialité](https://www.whatsapp.com/legal/privacy-policy-uk)._
+_Si vous vivez au [Royaume-Uni](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC vous fournit les Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/terms-of-service-uk) et de cette [Politique de confidentialité](https://www.whatsapp.com/legal/privacy-policy-uk)._
 
 _Si vous résidez dans un pays autre que le [Royaume-Uni](https://faq.whatsapp.com/523679699550284/) ou ceux de la [Région européenne](https://faq.whatsapp.com/523679699550284/), WhatsApp LLC vous fournit les Services en vertu de ces [Conditions d'utilisation](https://www.whatsapp.com/legal/terms-of-service) et de cette [Politique de confidentialité](https://www.whatsapp.com/legal/privacy-policy)._
 
