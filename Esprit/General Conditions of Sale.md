@@ -203,6 +203,10 @@ Représentants légaux : Man Yi Yip, Michael Christopher Frenzel
 
   
 
+**Remarque : Par ordonnance en date du 01/08/2024, le Tribunal d’instance de Düsseldorf a ouvert une procédure d’insolvabilité en gestion directe concernant la société Esprit Retail B.V. & Co. KG**
+
+  
+
 L’Hébergement du Site est assuré par :
 
 net.DE AG
@@ -242,6 +246,10 @@ Tribunal d’Instance de Düsseldorf: HRB 47277
 N° de TVA: DE 814336381
 
 Direction: Man Yi Yip
+
+  
+
+**Avis : Par ordonnance en date du 01/08/2024, le Tribunal d’instance de Düsseldorf a ouvert une procédure d’insolvabilité en gestion directe concernant la société Esprit Global Image GmbH**
 
   
 
