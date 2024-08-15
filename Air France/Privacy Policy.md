@@ -116,33 +116,28 @@ Air France app
 
 Fly From
 
-* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
-* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
-* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
+* [Oslo](https://www.airfrance.no/flights/departure-oslo)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
-* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
-* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
-* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
-* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
+* [Flight Oslo-Paris](https://www.airfrance.no/flights/oslo+paris)
+* [Flight Oslo-Nice](https://www.airfrance.no/flights/oslo+nice)
+* [Flight Oslo-Bordeaux](https://www.airfrance.no/flights/oslo+bordeaux)
+* [Flight Oslo-Lyon](https://www.airfrance.no/flights/oslo+lyon)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [All flights](https://wwws.airfrance.co.uk/en-gb/)
-* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
-* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
-* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
-* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
+* [Flight Oslo-Havana](https://www.airfrance.no/flights/oslo+havana)
+* [Flight Oslo-Santiago](https://www.airfrance.no/flights/oslo+santiago)
+* [Flight Oslo-Rabat](https://www.airfrance.no/flights/oslo+rabat)
+* [Flight Oslo-New York](https://www.airfrance.no/flights/oslo+new-york)
 
 * [Site Map](https://wwws.airfrance.fr/en/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/en/information/legal)
-* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
 * Cookie settings
