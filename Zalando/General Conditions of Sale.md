@@ -180,10 +180,10 @@ Date:
 Signature(s) du(des) consommateur(s):  
 **Fin des informations sur le droit de rétractation**
 
-**9\. DROIT DE RETOUR DE 100 JOURS**
+**9\. DROIT DE RETOUR DE 30 JOURS**
 
-**9.1** Sans préjudice du droit de rétractation légal dont vous bénéficiez, nous vous accordons un droit de retour étendu à cent (100) jours à compter de la réception de la marchandise. Au titre de ce droit de retour, vous pouvez annuler votre commande même après expiration du délai de rétractation légal de quatorze (14) jours (cf. les informations ci-dessus concernant l’exercice du droit de rétractation légal). Le droit de retour est exercé, s’agissant des articles Zalando ou des articles de seconde-main Zalando en nous retournant la marchandise, ou, s’agissant d’un article Partenaire Zalando, en retournant celui-ci au Partenaire Zalando, dans un délai de cent (100) jours à compter de la réception de la marchandise. Les dispositions légales en matière de rétractation s’appliquent uniquement jusqu’à l’expiration du délai de rétractation légal. Le droit de retour n’affecte pas vos droits en matière de garantie légale et de conformité dont vous bénéficiez sans restriction. Le droit de retour est exclu en cas d’achat de chèques cadeaux.  
-**9.2** Le droit de retour de cent (100) jours n’aura pas vocation à s’appliquer pour les produits scellés qui ont été ouverts après leur livraison ou pour lesquels le scellé a été endommagé.  
+**9.1** Sans préjudice du droit de rétractation légal dont vous bénéficiez, nous vous accordons un droit de retour étendu à trente (30) jours à compter de la réception de la marchandise. Au titre de ce droit de retour, vous pouvez annuler votre commande même après expiration du délai de rétractation légal de quatorze (14) jours (cf. les informations ci-dessus concernant l’exercice du droit de rétractation légal). Le droit de retour est exercé, s’agissant des articles Zalando ou des articles de seconde-main Zalando en nous retournant la marchandise, ou, s’agissant d’un article Partenaire Zalando, en retournant celui-ci au Partenaire Zalando, dans un délai de trente (30) jours à compter de la réception de la marchandise. Les dispositions légales en matière de rétractation s’appliquent uniquement jusqu’à l’expiration du délai de rétractation légal. Le droit de retour n’affecte pas vos droits en matière de garantie légale et de conformité dont vous bénéficiez sans restriction. Le droit de retour est exclu en cas d’achat de chèques cadeaux.  
+**9.2** Le droit de retour de trente (30) jours n’aura pas vocation à s’appliquer pour les produits scellés qui ont été ouverts après leur livraison ou pour lesquels le scellé a été endommagé.  
 **9.3** Le délai de retour est respecté si vous expédiez la marchandise dans ledit délai. Ce droit de retour ne vous est conféré qu’à la condition que vous ayez essayé la marchandise uniquement pour en vérifier la taille, comme vous le feriez dans un magasin. L’article retourné doit être intact, en parfait état de revente et dans son emballage d’origine. Tout article endommagé ou dont l’emballage d’origine est endommagé ne sera pas remboursé, ni échangé.  
 **9.4** Pour tout retour d’articles Zalando ou d’articles de seconde-main Zalando vous pouvez utiliser l’étiquette de retour qui est jointe à votre commande ou que pourrez éditer à partir de votre compte client. Si vous ne disposez pas d’une imprimante, ou avez des difficultés à télécharger l’étiquette de retour ou avez besoin d’une nouvelle étiquette, vous pouvez vous adresser à notre service client.  
 **9.5** Pour tout retour d’articles Partenaire Zalando, vous pouvez utiliser l’étiquette de retour qui est jointe à votre commande. Un lien vers la page contenant des informations sur l'identité du Partenaire Zalando concerné et ses coordonnées figure sur chaque page produit concernée. Vous trouverez également ces coordonnées dans les informations sur le droit de rétractation que nous joignons sous forme de document au format PDF à nos confirmations de commande.  
@@ -270,7 +270,7 @@ Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de 
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 01.07.2024  
+Version: 15.08.2024  
   
 
   
