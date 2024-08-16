@@ -1,7 +1,12 @@
 Le Contrat d’Utilisation de Reddit
 ==================================
 
-Effectif depuis le 15 février 2024. Relu le 15 février 2024
+Effectif depuis le 16 septembre 2024. Relu le 16 août 2024
+
+|     |     |     |
+| --- | --- | --- |
+|     | Nous avons mis à jour notre contrat d'utilisation. Veuillez y jeter un œil avant que les modifications n'entrent en vigueur le 16 septembre 2024.  <br>  <br>Cette page constitue l'accord d'utilisation mis à jour ; pour la version en vigueur jusqu'au 16 septembre 2024 [cliquez ici](https://www.redditinc.com/fr-fr/policies/user-agreement-february-15-2024-fr-fr). |     |
+| ‍   |
 
 **Reddit alimente des centaines de milliers de communautés différentes en ligne. Ce Contrat d’utilisation et votre conduite rendent cela possible.**
 
@@ -74,12 +79,13 @@ En soumettant Votre contenu aux Services, vous déclarez et garantissez que vous
   
 Vous conservez tous les droits de propriété que vous possédez sur Votre contenu, mais vous accordez à Reddit la licence suivante pour utiliser ce Contenu :  
   
-Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre contenu et tout nom, pseudo, voix ou ressemblance fournis en relation avec Votre contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre contenu.  
-  
-Les idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.  
-  
-Bien que nous n’ayons aucune obligation de filtrer, modifier ou surveiller Votre Contenu, nous pouvons, à notre seule appréciation, supprimer, juger Votre contenu non éligible à la monétisation ou retirer votre contenu, à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou de nos [autres conditions et politiques](https://www.redditinc.com/policies), ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité à notre égard.  
-  
+
+Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre contenu et tout(e) nom, pseudo, voix ou ressemblance fournis en relation avec Votre contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Par exemple, cette licence inclut le droit d’utiliser Votre contenu pour entraîner des modèles d’IA et de machine learning, comme décrit plus en détail dans notre [Politique de contenu public](https://support.reddithelp.com/hc/articles/26410290525844). Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre contenu.
+
+Les idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.
+
+Bien que nous n’ayons aucune obligation de filtrer, modifier ou surveiller Votre Contenu, nous pouvons, à notre seule appréciation, supprimer, juger Votre contenu non éligible à la monétisation ou retirer votre contenu, à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou de nos [autres conditions et politiques](https://www.redditinc.com/policies), ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité à notre égard.
+
 Pour en savoir plus sur l’approche de Reddit en matière de modération de contenu, notamment sur la manière dont nous appliquons notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) et sur la manière de faire appel des décisions de modération de contenu, veuillez consulter notre [Centre d’aide](https://support.reddithelp.com/hc/articles/23511059871252).
 
 ### 6\. Contenu de tiers, publicités et promotions
@@ -218,7 +224,7 @@ San Francisco, CA 94107
 Contrat d’utilisation de Reddit si vous résidez dans l’EEE, au Royaume-Uni ou en Suisse
 ---------------------------------------------------------------------------------------
 
-Bonjour aux membres de Reddit et aux internautes ! Le présent Contrat d’utilisation de Reddit (les « **Conditions** ») s’applique à votre accès et votre utilisation des sites internet, applications mobiles, widgets, API, emails et autres produits et services en ligne (ensemble, les « **Services** ») fournis par Reddit, Inc. (« **Reddit** », « **nous** », « **notre** » ou « **nos** »).
+Bonjour aux membres de Reddit et aux internautes ! Le présent Contrat d’utilisation de Reddit (les « Conditions ») s’applique à votre accès et votre utilisation des sites internet, applications mobiles, widgets, API, emails et autres produits et services en ligne (ensemble, les « Services ») fournis par Reddit Netherlands B.V. (« Reddit », « nous » ou « nos »).
 
   
 N’oubliez pas que Reddit est un espace ludique qui a pour objectif de vous divertir, mais nous devons tout de même appliquer quelques règles élémentaires. Pour pouvoir utiliser les Services, vous devez avoir accepté les présentes Conditions, qui : (a) vous sont présentées lorsque vous créez un Compte et (b) sont disponibles à tout moment lorsque vous accédez aux Services. Si vous ne les acceptez pas, vous ne pouvez pas accéder à nos Services ni les utiliser.  
@@ -277,12 +283,13 @@ En soumettant Votre contenu aux Services, vous déclarez et garantissez que vous
   
 Vous conservez tous les droits de propriété que vous possédez sur Votre contenu, mais vous accordez à Reddit la licence suivante pour utiliser ce Contenu :  
   
-Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre contenu et tout nom, pseudo, voix ou ressemblance fournis en relation avec Votre contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre contenu.  
-  
-Les idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.  
-  
-Bien que nous nous réservions le droit d’examiner, de filtrer, de modifier ou de surveiller Votre contenu, nous ne l’examinons pas nécessairement dans son intégralité au moment où il est soumis aux Services. Toutefois, nous pouvons, à notre seule discrétion, supprimer, juger Votre contenu non éligible à la monétisation ou retirer Votre contenu, à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou de nos [autres conditions et politiques](https://www.redditinc.com/policies), ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité à notre égard.  
-  
+
+Lorsque votre Contenu est créé avec les Services ou soumis aux Services, vous nous accordez une licence mondiale, gratuite, perpétuelle, irrévocable, non exclusive, transférable et pouvant faire l’objet d’une sous-licence pour utiliser, copier, modifier, adapter, préparer des œuvres dérivées, distribuer, stocker, exécuter et afficher Votre contenu et tout(e) nom, pseudo, voix ou ressemblance fournis en relation avec Votre contenu dans tous les formats de médias et canaux connus à l’heure actuelle ou développés ultérieurement n’importe où dans le monde. Cette licence inclut le droit pour nous de rendre Votre contenu disponible pour la syndication, la diffusion, la distribution ou la publication par d’autres sociétés, organisations ou personnes physiques qui sont partenaires de Reddit. Par exemple, cette licence inclut le droit d’utiliser Votre contenu pour entraîner des modèles d’IA et de machine learning, comme décrit plus en détail dans notre [Politique de contenu public](https://support.reddithelp.com/hc/articles/26410290525844). Vous acceptez également que nous puissions supprimer les métadonnées associées à Votre contenu et vous renoncez irrévocablement à toute réclamation et revendication de droits moraux ou d’attribution en ce qui concerne Votre contenu.
+
+Les idées, suggestions et commentaires concernant Reddit ou nos Services que vous nous fournissez le sont sur une base entièrement volontaire et vous acceptez que Reddit puisse utiliser ces idées, suggestions et commentaires sans compensation ni obligation envers vous.
+
+Bien que nous nous réservions le droit d’examiner, de filtrer, de modifier ou de surveiller Votre contenu, nous ne l’examinons pas nécessairement dans son intégralité au moment où il est soumis aux Services. Toutefois, nous pouvons, à notre seule discrétion, supprimer, juger Votre contenu non éligible à la monétisation ou retirer Votre contenu, à tout moment et pour quelque raison que ce soit, y compris en cas de violation des présentes Conditions, de notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou de nos [autres conditions et politiques](https://www.redditinc.com/policies), ou si vous créez de toute autre manière ou êtes susceptible de créer une responsabilité à notre égard.
+
 Pour en savoir plus sur l’approche de Reddit en matière de modération de contenu, notamment sur la manière dont nous appliquons notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) et sur la manière de faire appel des décisions de modération de contenu, veuillez consulter notre [Centre d’aide](https://support.reddithelp.com/hc/articles/23511059871252).
 
 ### 6\. Contenu de tiers, publicités et promotions
@@ -397,11 +404,9 @@ Les présentes Conditions, ainsi que la [Politique de confidentialité](https://
 
 Les titres utilisés dans les présentes Conditions le sont à titre de référence uniquement et ne seront pas pris en considération pour l’interprétation. Aux fins des présentes Conditions : a) les mots « inclut », « incluent » et « y compris » seront réputés être suivis des mots « sans limitation » ; b) les mots « tel que », « par exemple », « par ex. » et tout dérivé de ces mots signifieront à titre d’exemple et les éléments qui suivent ces mots ne seront pas réputés constituer une liste exhaustive ; et c) le mot « ou » est utilisé dans le sens inclusif de « et/ou » et les termes « ou », « tout » et « l’un ou l’autre » ne sont pas exclusifs. Aucune ambiguïté ne sera interprétée en défaveur d’une partie sur la base d’une allégation selon laquelle la partie a rédigé le texte.  
   
-Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit, Inc. Si vous avez des questions concernant ces Conditions, veuillez [nous contacter](https://support.reddithelp.com/hc/fr/requests/new).
+Les présentes Conditions constituent un accord juridiquement contraignant entre vous et Reddit Netherlands B.V. Si vous avez des questions concernant ces Conditions, veuillez [nous contacter](https://www.reddithelp.com/hc/requests/new).
 
-  
-
-Reddit, Inc.  
-303 2nd Street, Suite 500S  
-San Francisco, CA 94107  
-États-Unis
+Reddit Netherlands B.V.  
+Euro Business Center  
+Keizersgracht 62, 1015CS Amsterdam  
+Pays-Bas
