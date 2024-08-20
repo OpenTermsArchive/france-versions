@@ -186,25 +186,24 @@ Comptoir des Cotonniers ne saurait être tenu responsable de toute perte ou domm
   
 Si les articles ne sont pas reçus à l’entrepôt, Comptoir des Cotonniers ne pourra pas traiter le retour.  
 
-ARTICLE 9. PROGRAMME DE FIDÉLITÉ **9.1 Présentation du Programme de fidélité**
+ARTICLE 9. PROGRAMME DE FIDÉLITÉ **9.1 Présentation du Programme de fidélité (le « Club »)**
 
-Le programme de fidélité « Club Comptoir » de Comptoir des Cotonniers (ci-après le « Programme ») est proposé gratuitement sur demande ou acceptation du client (ci-après l’« Adhérent ») et permet de bénéficier des offres du Programme (ci-après les « Offres »). Ce Programme est valable exclusivement sur le site www.comptoirdescotonniers.com (ci-après le « Site ») ou dans les boutiques Comptoir des Cotonniers (à l’exclusion des corners et magasins d’usine) en France métropolitaine, Corse et Monaco (ci-après les « Boutiques Comptoir des Cotonniers »). Le Programme est valable sur le Site et dans les Boutiques à compter du 29 janvier 2021.  
-Le Programme est personnel et ne peut en aucun cas être utilisé à d'autres fins que celles définies par Comptoir des Cotonniers dans les présentes CGV.  
+Le programme de fidélité « Club» de Comptoir des Cotonniers & Princesse tam tam (ci-après le « Club ») est proposé gratuitement sur demande ou acceptation du client (ci-après l’« Adhérent ») et permet de bénéficier des offres du Club (ci-après les « Offres »).  
+Ce Club est valable sur le présent site www.comptoirdescotonniers.com et/ou sur le site www.princessetamtam.com (ci-après le(s) « Site(s) ») ainsi que dans les boutiques Comptoir des Cotonniers et/ou Princesse Tam Tam (à l’exclusion des corners et magasins d’usine) en France métropolitaine, et Monaco (ci-après les « Boutiques »). Le Club est valable sur les Sites de nos marques et dans les Boutiques à compter du 1er septembre 2024.  
+Le Club est personnel et ne peut en aucun cas être utilisé à d’autres fins que celles définies dans les présentes CGV.  
   
-Le Programme permet de cumuler les achats effectués sur les produits Comptoir des Cotonniers sur le Site et dans les Boutiques Comptoir des Cotonniers.  
-Le cumul des achats permet d’intégrer un statut auquel est associé des Offres particulières (ci-après le « Statut »).  
+Le Club permet de cumuler les achats effectués à la fois sur les produits Comptoir des Cotonniers et/ou Princesse Tam Tam sur leur Sites respectifs et dans leurs Boutiques à conditions d’utiliser un compte unique pour les achats. Le cumul des achats permet d’intégrer un statut auquel est associé des Offres particulières (ci-après le « Statut »).  
+Il existe quatre Statuts au sein du Club en fonction des achats cumulés par l’Adhérent les 12 derniers mois dans les conditions ci-dessous :  
   
-Il existe quatre Statuts au sein du Programme en fonction des achats cumulés par l’Adhérent les 12 derniers mois dans les conditions ci-dessous :  
-\- Emergent  
-\- Fan  
-\- VIP  
-\- Ambassadeur  
+\- UNE étoile >= 1€  
+\- DEUX étoiles >= 130€  
+\- TROIS étoiles >= 300€  
+\- QUATRE étoiles >= 600€  
   
-Le Statut de l’Adhérent est disponible sur le Site lorsque l’Adhérent se connecte à « Mon Compte - Mes infos personnelles », ou en Boutique Comptoir des Cotonniers en formulant sa demande auprès d’un conseiller de vente.  
-En fonction du cumul des achats calculés sur les 12 derniers mois, le Statut de l’Adhérent est mis à jour le 2ème jour de chaque mois, après expiration du délai de retour attaché à chaque achat.  
-Pour les Adhérents nouveaux inscrits au sein de la base de données clients Comptoir des Cotonniers (ci-après la « Base de données clients ») à la date de l’adhésion au Programme, le cumul des achats s’effectue à compter du premier achat.  
-Pour les Adhérents d’ores et déjà inscrit au sein de la Base de données clients Comptoir des Cotonniers avant le 29 janvier 2021, le cumul des achats s’effectue à compter du 29 janvier 2020 ou, à compter de leur inscription au sein de la Base de données clients.  
-Les modalités des Offres du Programme et leur durée de validité, le cas échéant, sont spécifiées dans les communications adressées par mail ou courrier aux Adhérents du Programme tout au long de l'année, mais aussi dans les Boutiques Comptoir des Cotonnier sur simple demande, ou par courrier en écrivant à :  
+Le Statut de l’Adhérent est disponible sur le Site lorsque l’Adhérent se connecte à « Mon Compte - Mes infos personnelles », ou en Boutique Comptoir des Cotonniers et/ou Princesse tam tam en formulant sa demande auprès d’un conseiller de vente.  
+En fonction du cumul des achats calculés sur les 12 derniers mois, le Statut de l’Adhérent est mis à jour automatiquement, après expiration du délai de retour attaché à chaque achat. Pour les Adhérents nouveaux inscrits au sein de la base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam (ci-après la « Base de données clients ») à la date de l’adhésion au Club, le cumul des achats s’effectue à compter du premier achat.  
+Pour les Adhérents d’ores et déjà inscrit au sein de la Base de données clients Comptoir des Cotonniers et/ou Princesse Tam Tam avant le 1er septembre 2024 ou en s’inscrivant dans notre Base de données clients avant cette date, le cumul des achats s’effectuera en prenant en compte le cumul des achats des 12 mois antérieurs à la date en cours. Le cumul des achats donnant accès au statuts est calculé sur 12 mois glissants à compter de la date en cours.  
+Les modalités des Offres du Club et leur durée de validité, le cas échéant, sont spécifiées dans les communications adressées par mail ou courrier aux Adhérents du Club tout au long de l'année, mais aussi dans les Boutiques sur simple demande, ou par courrier en écrivant à :  
   
 Comptoir des Cotonniers  
 Service Relation Client  
@@ -214,17 +213,15 @@ France
   
 En cas de contestation du Statut acquis par l’Adhérent, seules les informations contenues dans la Base de données clients feront foi.
 
-**9.2 Offres du Programme de fidélité**
+**9.2 Offres du Club**
 
-Les Offres sont classées en fonction du Statut de l’Adhérent.  
-Vous trouverez les offres sur le lien suivant : [OFFRE DU PROGRAMME DE FIDÉLITÉ](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw3aa39e6e/SS23/PAGE-FIDELITE/files/Benefits_Grid_CDC_FR_AW23.pdf).  
-Les cadeaux offerts dans le cadre du Programme ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
+Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw3aa39e6e/SS23/PAGE-FIDELITE/files/Benefits_Grid_CDC_FR_AW23.pdf).  
+Les cadeaux offerts dans le cadre du Club ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
 
-**9.2 Modification du Programme de fidélité**
+**9.3 Modification du Club**
 
-Comptoir des Cotonniers se réserve la possibilité de modifier, de suspendre ou de mettre un terme au Programme sous réserve d’en avoir préalablement informé les Adhérents dans un délai raisonnable.  
-  
-Dans le cas d’un arrêt définitif du Programme ou d’un changement affectant les Offres, les Adhérents seront informés sur le Site, par mail et/ou par un affichage en magasin, et aucun recours à l’encontre de Comptoir des Cotonniers ne pourra être effectué à ce titre. Aucune modification ou suppression ne donnera droit à une quelconque indemnisation des adhérents.
+Comptoir des Cotonniers et/ou Princesse Tam Tam se réservent la possibilité de modifier, de suspendre ou de mettre un terme au Club sous réserve d’en avoir préalablement informé les Adhérents dans un délai raisonnable.  
+Dans le cas d’un arrêt définitif du Club ou d’un changement affectant les Offres, les Adhérents seront informés sur le Site, par mail et/ou par un affichage en magasin, et aucun recours à l’encontre de Comptoir des Cotonniers et/ou Princesse Tam Tam ne pourra être effectué à ce titre. Aucune modification ou suppression ne donnera droit à une quelconque indemnisation des Adhérents.
 
 ARTICLE 10. GARANTIES LEGALES
 
