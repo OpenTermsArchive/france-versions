@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 17/07/2024
+Date : 21/08/2024
 
 Bienvenue sur Showroomprive.com
 
@@ -21,23 +21,23 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 
 \- Article 6 - Quand vos produits vous seront-ils livrés ?
 
-\- Article 8 - Quand vais-je recevoir mon coupon ?
+\- Article 7 - Quand vais-je recevoir mon coupon ?
 
-\- Article 9 - Comment utiliser mon coupon ?
+\- Article 8 - Comment utiliser mon coupon ?
 
-\- Article 10 - Comment faire si vous avez changé d'avis ?
+\- Article 9 - Comment faire si vous avez changé d'avis ?
 
-\- Article 11 - Quelles garanties pour vos produits ?
+\- Article 10 - Quelles garanties pour vos produits ?
 
-\- Article 12 - Comment utiliser vos avantages Showroomprivé ?
+\- Article 11 - Comment utiliser vos avantages Showroomprivé ?
 
-\- Article 13 - Et vos données dans tout ça ?
+\- Article 12 - Et vos données dans tout ça ?
 
-\- Article 14 - Que se passe-t-il si vous n'êtes pas satisfaits ?
+\- Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?
 
-\- Article 15 - Liste d'opposition au démarchage téléphonique
+\- Article 14 - Liste d'opposition au démarchage téléphonique
 
-\- Article 16 - Mentions légales
+\- Article 15 - Mentions légales
 
 **Article 1 - Qui sommes-nous ?**
 
@@ -54,6 +54,8 @@ Pour toute demande d'information, vous pouvez vous adresser directement à notre
 **Article 2 - Comment devenir membre ?**
 
 Pour devenir membre et accéder à nos ventes évènementielles, vous devez créer votre compte personnel.
+
+En créant votre compte personnel vous confirmez avoir plus de 15 ans, sans que Showroomprive puisse être tenue responsable dans le cas où cette affirmation est erronée ou mensongère.
 
 Votre compte vous permet à tout moment :
 
@@ -209,7 +211,7 @@ Nous vous invitons à prendre connaissance des conditions générales de la solu
 
 · Le service d'initiation de paiement peut être exclusivement utilisé avec un compte bancaire ouvert à votre nom et situé dans l'Espace Économique Européen.
 
-5\. Paiement sécurisé
+5.2 Paiement sécurisé
 
 Toutes vos transactions d'achat se déroulent dans un strict cadre de confidentialité et de cryptage grâce au protocole SSL. Nous n'avons pas accès à vos coordonnées bancaires et ne les conservons pas sur nos serveurs. Si vous le souhaitez, vos données de carte bancaire peuvent être conservées de manière sécurisée par nos établissements bancaires partenaires afin d'être utilisées lors de vos prochains paiements sur le Site.
 
@@ -339,7 +341,7 @@ Vous disposez d'un délai de quatorze (14) jours calendaires pour exercer votre 
 
 Il vous est également possible d'annuler votre commande avant d'être livré sous réserve que celle-ci ne soit pas déjà « en cours de préparation ».
 
-10.1 Comment faire pour nous retourner un article ?
+9.1 Comment faire pour nous retourner un article ?
 
 Conformément à l'article L.221-18 du code de la Consommation, vous pouvez vous rétracter :
 
@@ -393,7 +395,7 @@ Pensez aussi à accompagner vos produits de l'ensemble des informations nous per
 
 Si vous avez souscrit à un service sur notre site, et qu'à votre demande expresse vous avez commencé à en profiter avant l'expiration du délai de rétractation, vous pouvez toujours user de votre droit de rétractation. Toutefois, nous retiendrons le montant correspondant au service utilisé jusqu'au moment de votre décision de vous rétracter.
 
-10.2 Combien vous coûte le retour ?
+9.2 Combien vous coûte le retour ?
 
 En cas d'exercice du droit de rétractation, les frais de retour sont à votre charge :
 
@@ -403,7 +405,7 @@ En cas d'exercice du droit de rétractation, les frais de retour sont à votre c
 
 Si vous souhaitez nous retourner un produit volumineux, vous devez contacter notre service client afin qu'il organise ce retour. A titre indicatif, nous vous informerons que les frais de retour s'échelonneront entre 50€ ou 100€.
 
-10.3. Coupons
+9.3. Coupons
 
 Sous réserve de ne pas avoir utilisé votre Coupon vous pouvez vous rétracter dans les 14 jours suivants la réception ou la mise à disposition de votre Coupon.
 
@@ -415,7 +417,7 @@ Pour exercer votre droit de rétractation, vous devez notifier votre intention d
 
 · En nous retournant le formulaire de rétractation complété, téléchargeable[**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf).
 
-10.4 Les exceptions au droit de rétractation
+9.4 Les exceptions au droit de rétractation
 
 Vous ne pourrez pas exercer votre droit de rétractation pour :
 
@@ -439,7 +441,7 @@ Vous ne pourrez pas exercer votre droit de rétractation pour :
 
 \- les contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation.
 
-10.5 A quel moment serez-vous remboursé ?
+9.5 A quel moment serez-vous remboursé ?
 
 L'exercice du droit de rétractation donne lieu à un remboursement des sommes versées au plus tard quatorze (14) jours à compter de la réception du colis. Ce délai pourra être allongé jusqu'au jour de réception de votre colis si vous n'êtes pas en mesure de nous rapporter la preuve de l'expédition de vos produits.
 
@@ -453,11 +455,11 @@ Si vous avez réglé votre commande avec la solution de financement ONEY, les mo
 
 \- En cas d'annulation partielle de votre commande, le montant correspondant à l'annulation vient en déduction des sommes restant dues au jour de l'annulation. Les mensualités restent identiques mais la durée est réduite. Un nouvel échéancier vous sera alors envoyé.
 
-**Article 11 - Quelles garanties pour vos produits ?**
+**Article 10 - Quelles garanties pour vos produits ?**
 
 Tous nos produits bénéficient des garanties légales, à savoir la garantie légale de conformité, et la garantie des vices cachés. Certains d'entre eux bénéficient également d'une garantie commerciale proposée par le fournisseur qui en détermine les conditions.
 
-11.1 Les garanties légales
+10.1 Les garanties légales
 
 Nous sommes tenus en qualité de vendeur des défauts de conformité des produits que nous vous vendons dans les conditions de l'article L.217-4 et suivants du Code de la consommation, et de ses défauts cachés dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
@@ -469,7 +471,7 @@ Vous pouvez décider de mettre en œuvre la garantie des vices cachés au sens d
 
 Tout remplacement mis en œuvre par Showroomprivé.com dans le cadre de la présente garantie entrainera, à compter de la réception du produit de remplacement, un nouveau délai de garantie légale de conformité attaché au produit remplacé. A noter : lorsque le bien est remplacé à votre demande, la garantie légale de conformité ne pourra pas faire l'objet d'un renouvellement.
 
-_11.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
+_10.1.1. Garantie légale de conformité des Produits (et des éléments numériques contenus dans les Produits)_
 
 **Pour les Produits achetés avant le 1 er janvier 2022** , vous :
 
@@ -505,7 +507,7 @@ Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de con
 
 \- Vous pouvez demander la mise en conformité de l'élément numérique inclus dans le bien.
 
-_Article 11.1.2. Garantie légale de conformité des contenus et services numériques_
+_Article 10.1.2. Garantie légale de conformité des contenus et services numériques_
 
 Les contenus et services numériques achetés sur Showroomprivé.com à compter du 1 er janvier 2022 bénéficient de la garantie légale de conformité. Dès lors,:
 
@@ -521,21 +523,21 @@ Vous êtes ici dispensé de rapporter la preuve de l'existence du défaut de con
 
 \- Vous pouvez demander la mise en conformité du contenu ou service numérique.
 
-11.2 La garantie commerciale
+10.2 La garantie commerciale
 
 Dans certains cas, une garantie commerciale peut vous être proposée directement par les fournisseurs avec qui nous travaillons. Si c'est le cas, vous en serez informés sur la fiche descriptive des produits concernés, mais aussi sur la facture de vos produits. En cas de doute, vous pouvez également contacter notre service client pour savoir si votre produit bénéficie d'une garantie commerciale.
 
-11.3 Comment mettre en œuvre mes garanties ?
+10.3 Comment mettre en œuvre mes garanties ?
 
 Si vous souhaitez bénéficier de l'une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) , ou le cas échéant en nous contactant à l'adresse suivante : serviceclient.fr@showroomprive.com. N'oubliez pas d'y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
 
 Vous recevrez alors une étiquette prépayée à apposer sur le colis pour nous renvoyer votre produit non conforme. Au retour de votre produit, la non-conformité sera contrôlée par nos équipes. En cas de fausse déclaration, une somme forfaitaire de 6.50€ sera déduite de votre remboursement. En cas de produits volumineux non conformes, nous vous invitons à contacter notre service client.
 
-11.4. Exclusions
+10.4. Exclusions
 
 Ne pourront pas bénéficier des garanties les produits que vous avez modifiés, réparés, intégrés, ou ajoutés', les produits dont les vices sont apparents au moment de l'achat, et les produits endommagés suite à une mauvaise utilisation.
 
-**Article 12 - Comment utiliser vos avantages Showroomprive ?**
+**Article 11 - Comment utiliser vos avantages Showroomprive ?**
 
 Vous pouvez consulter vos avantages et leurs modalités d'utilisation dans votre compte, rubrique « Mes avantages ».
 
@@ -545,15 +547,11 @@ A noter : vos avantages parrainage sont des moyens de paiement. A ce titre, lors
 
 Les modalités de remboursement des achats effectués avec un avantage sont accessibles [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
 
-**Article 13 - Et vos données dans tout ça ?**
+**Article 12 - Et vos données dans tout ça ?**
 
 Lors de votre visite sur le Site, vos données sont susceptibles de faire l'objet d'un traitement informatique. Nous vous invitons à vous reporter à notre [« Politique de Confidentialité et de protection de la vie privée - Cookie ».](https://www.showroomprive.com/politique_confidentialite.aspx)
 
-**Article 14 - Liste d'opposition au démarchage téléphonique**
-
-Comme indiqué dans notre Politique de Confidentialité, Showroomprivé.com peut être amenée à recueillir votre numéro de téléphone notamment lors du passage de votre commande ou encore lorsque que vous le renseigner dans des formulaires dédiés sur notre site. Vous disposez du droit de vous inscrire gratuitement sur la liste d'opposition au démarchage téléphonique Bloctel. Pour plus d'informations nous vous invitons à consulter directement le site [Bloctel](https://www.bloctel.gouv.fr/).
-
-**Article 15 - Que se passe-t-il si vous n'êtes pas satisfaits ?**
+**Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?**
 
 Nos CGV sont soumises au droit français, Chaque commande est soumise aux CGV en vigueur au jour de sa passation. En cas de litige, nous vous invitons à nous contacter afin de trouver ensemble une solution amiable :
 
@@ -569,7 +567,11 @@ La Commission Européenne met également à votre disposition une plateforme de 
 
 Dans le cas où aucune solution amiable ne serait trouvée, les tribunaux français seront compétents.
 
-**Article 16 - Mentions légales**
+**Article 14 - Liste d'opposition au démarchage téléphonique**
+
+Comme indiqué dans notre Politique de Confidentialité, Showroomprivé.com peut être amenée à recueillir votre numéro de téléphone notamment lors du passage de votre commande ou encore lorsque que vous le renseigner dans des formulaires dédiés sur notre site. Vous disposez du droit de vous inscrire gratuitement sur la liste d'opposition au démarchage téléphonique Bloctel. Pour plus d'informations nous vous invitons à consulter directement le site [Bloctel](https://www.bloctel.gouv.fr/).
+
+**Article 15 - Mentions légales**
 
 Showroomprive.com est titulaire de la licence d'agent de voyage n° IM093110007 délivrée par la Préfecture de Seine Saint-Denis et dispose de la garantie financière auprès de la compagnie Groupama Assurance-crédit & Caution, 8-10 rue d'Astorg - 75008 Paris (entreprise régie par le Code des assurances). Pour consulter nos Conditions Générales de Vente Voyage, cliquez[**ici**](https://www.showroomprive.com/contratcgvvoyage.aspx).
 
