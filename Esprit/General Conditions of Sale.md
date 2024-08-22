@@ -107,8 +107,6 @@ E-mail: [info@esprit.fr](https://www.esprit.fr/support?id=contact)
 
   
 
-Numéro de téléphone: 01 7654 7338 (ligne fixe)
-
 Pour respecter le délai de rétractation, il vous suffit d’envoyer la notification relative à l’exercice du droit de rétractation.
 
   
@@ -183,8 +181,6 @@ Allemagne
 
   
 
-Numéro de téléphone: 01 7654 7338 (ligne fixe)
-
 Numéro de fax: 01 7654 7339 (ligne fixe)
 
 e-mail: [info@esprit.fr](https://www.esprit.fr/support?id=contact)
@@ -233,8 +229,6 @@ Allemagne
 
   
 
-Numéro de téléphone: 01 7654 7338 (ligne fixe)
-
 Numéro de fax: 01 7654 7339 (ligne fixe)
 
 e-mail: [info@esprit.fr](https://www.esprit.fr/support?id=contact)
@@ -263,4 +257,4 @@ L’Esprit Retail B.V & Co. KG n’est ni prête ni tenue de participer au proce
 
 **10\. Autres**
 
-Les présentes CGV ont été rédigées le 30.05.2024. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
+Les présentes CGV ont été rédigées le 22.08.2024. Cette version des conditions contractuelles ne sera pas sauvegardée par le vendeur après une éventuelle modification ultérieure, ni ne sera mise à la disposition du client. Si vous souhaitez sauvegarder cette version, vous pouvez la télécharger au format PDF [**ICI**](https://esprit.scene7.com/is/content/esprit/help/documents/esprit_agb_fr.pdf).
