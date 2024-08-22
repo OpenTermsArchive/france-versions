@@ -83,8 +83,6 @@ Esprit-Allee 1
 
 Allemagne
 
-Téléphone : 01 7654 7338 (ligne fixe)
-
 E-mail : [info@esprit.fr](https://www.esprit.fr/support?id=contact-info)
 
   
@@ -997,4 +995,4 @@ Par ailleurs, si cela s’avérait nécessaire d’un point de vue légal ou jur
 
 **E. Version**
 
-Ces informations relatives à la protection des données ont été actualisées la dernière fois le 15.09.2023. La société Esprit se réserve le droit de mettre à jour ponctuellement les présentes informations relatives à la protection des données.
+Ces informations relatives à la protection des données ont été actualisées la dernière fois le 22.08.2024. La société Esprit se réserve le droit de mettre à jour ponctuellement les présentes informations relatives à la protection des données.
