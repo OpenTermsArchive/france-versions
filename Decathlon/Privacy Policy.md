@@ -817,7 +817,7 @@ Finalités
 
 Ce traitement permet d’éviter les impayés lors des paiements réalisés par chèques. Un profilage utile à la finalité est réalisé dans ce contexte.
 
-##### NOTRE SYSTÈME DE PRÉVENTION CONTRE LES MOYENS DE PAIEMENTS FRAUDULEUX EN LIGNE
+##### LUTTE CONTRE LA FRAUDE DANS LE CADRE DU PARCOURS D'ACHAT
 
 Responsable du traitement
 
