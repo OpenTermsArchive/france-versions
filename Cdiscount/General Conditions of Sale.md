@@ -1117,7 +1117,7 @@ La livraison offerte n'est pas applicable. En savoir plus sur notre page dédié
 
 **2.2 Prix réduits**
 
-L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonnés CDAV »).
+L’Abonné bénéficie ponctuellement de tarifs avantageux sur une sélection de produits, signalés comme tels sur le Site grâce à une mention spécifique (ex : « offre réservée aux abonn��s CDAV »).
 
 **2.3 Programme CDISCOUNT Famille**
 
@@ -1561,7 +1561,7 @@ Au plus tard à chaque début d’année, URCT adresse automatiquement par courr
 
 **4.**          **DONNEES PERSONNELLES**
 
-Afin de procéder au traitement du don réalisé par le Client et à l’émission du reçu fiscal, URCT collecte et traite dans le cadre du Service des données à caractère personnel. URCT traite également des données à caractère personnel pour envoyer des informations aux Clients sur URCT, les Causes URCT et les Projets si ce dernier y a consenti au moment de son don.
+Afin de proc��der au traitement du don réalisé par le Client et à l’émission du reçu fiscal, URCT collecte et traite dans le cadre du Service des données à caractère personnel. URCT traite également des données à caractère personnel pour envoyer des informations aux Clients sur URCT, les Causes URCT et les Projets si ce dernier y a consenti au moment de son don.
 
 URCT met en œuvre une politique de protection des données personnelles présentées dans le document intitulé « Politique de protection des données » qui est librement accessible sur le site [http://www.unriencesttout.org](http://www.unriencesttout.org/). Le Client est expressément invité à prendre connaissance de ce document avant toute utilisation du Service.
 
