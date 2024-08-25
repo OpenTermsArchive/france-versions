@@ -125,42 +125,42 @@ Article 20 - Time limitation on claims and action
 
 [The general Conditions of Carriage](https://img.static-af.com/m/436e4b236b59ea33/original/Conditions-of-Carriage-EN.pdf)
 
-#### Customer service
+#### Hilfe und Kontakt
 
-Customer service
+Hilfe und Kontakt
 
-* [Contact us](https://wwws.airfrance.fr/en/contact)
-* [Refund](https://wwws.airfrance.fr/en/information/legal/remboursement)
-* [Claims](https://wwws.airfrance.fr/en/information/legal/reclamation)
-* [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
-* [Passengers with disabilities](https://wwws.airfrance.fr/en/contact/special-assistance)
+* [Kontakt](https://wwws.airfrance.fr/de/contact)
+* [Erstattung](https://wwws.airfrance.fr/de/information/legal/remboursement)
+* [Reklamationen](https://wwws.airfrance.fr/de/information/legal/reclamation)
+* [Quittung anfordern](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
+* [Fluggäste mit Behinderung](https://wwws.airfrance.fr/de/contact/special-assistance)
 
-#### Online purchase
+#### Online-Buchung und Shoppen
 
-Online purchase
+Online-Buchung und Shoppen
 
-* [Booking fees - Service fees](https://wwws.airfrance.fr/en/information/legal/frais-emission-et-service)
-* [Payment methods](https://wwws.airfrance.fr/en/information/legal/moyens-de-paiement)
+* [Ausstellungsgebühr - Bearbeitungsgebühr](https://wwws.airfrance.fr/de/information/legal/frais-emission-et-service)
+* [Zahlungsmittel](https://wwws.airfrance.fr/de/information/legal/moyens-de-paiement)
 * [Air France shopping](https://shopping.airfrance.com/?)
-* [Why book on the official Air France website?](https://wwws.airfrance.fr/en/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
+* [Warum auf der offiziellen Air France Website buchen?](https://wwws.airfrance.fr/de/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
-#### Loyalty program and partners
+#### Treueprogramm und Partner
 
-Loyalty program and partners
+Treueprogramm und Partner
 
-* [FlyingBlue](https://www.flyingblue.com/index.html)
+* [Flying Blue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](http://www.skyteam.com/)
 
-#### About Air France
+#### Über Air France
 
-About Air France
+Über Air France
 
-* [Air France corporate](http://corporate.airfrance.com/)
-* [Affiliate program](https://wwws.airfrance.fr/en/information/prepare/services/affiliation)
-* [Travel destinations](https://wwws.airfrance.fr/en/travel-guide/destinations)
-* [Worldwide sites](https://wwws.airfrance.fr/en/splash)
+* [Air France Corporate](http://corporate.airfrance.com/)
+* [Affiliate-Programm](https://wwws.airfrance.fr/de/information/prepare/services/affiliation)
+* [Reiseziele](https://wwws.airfrance.fr/de/travel-guide/destinations)
+* [Websites weltweit](https://wwws.airfrance.fr/de/splash)
 
 #### Air France app
 
@@ -168,37 +168,36 @@ Air France app
 
 [![](https://img.static-af.com/images/media/9D55C68A-D87B-4B21-B7F43E7B76A99E9A/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/718E33D6-4636-411F-839A07629E5B96F4/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/9FE3B888-7858-4E4D-8390C7E41A4982B7/)](https://appgallery.huawei.com/app/C104134763)
 
-#### Fly From
+#### Fliegen von
 
-Fly From
+Fliegen von
 
-* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
-* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
-* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
+* [München](https://wwws.airfrance.de/de-de/fl%C3%BCge-ab-m%C3%BCnchen)
+* [Berlin](https://wwws.airfrance.de/de-de/fl%C3%BCge-ab-berlin)
+* [Stuttgart](https://wwws.airfrance.de/de-de/fl%C3%BCge-ab-stuttgart)
+* [Frankfurt](https://wwws.airfrance.de/de-de/fl%C3%BCge-ab-frankfurt)
 
-#### Fly to France
+#### Fliegen nach Frankreich
 
-Fly to France
+Fliegen nach Frankreich
 
-* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
-* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
-* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
-* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
-* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
+* [Fluge Berlin - Paris](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-berlin-nach-paris)
+* [Fluge Berlin - Nizza](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-berlin-nach-nizza)
+* [Fluge München - Paris](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-m%C3%BCnchen-nach-paris)
+* [Fluge Dusseldorf - Paris](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-d%C3%BCsseldorf-nach-paris)
 
-#### Fly Worldwide
+#### Fliegen Weltweit
 
-Fly Worldwide
+Fliegen Weltweit
 
-* [All flights](https://wwws.airfrance.co.uk/en-gb/)
-* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
-* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
-* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
-* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
+* [Alle Flüge](https://wwws.airfrance.de/de-de/)
+* [Fluge München - Havanna](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-m%C3%BCnchen-nach-havanna)
+* [Fluge Berlin - New-York](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-berlin-nach-new-york)
+* [Fluge Berlin - Santiago](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-berlin-nach-santiago-de-chile)
+* [Fluge Berlin - Havanna](https://wwws.airfrance.de/de-de/fl%C3%BCge-von-berlin-nach-havanna)
 
-* [Site Map](https://wwws.airfrance.fr/en/information/site-map)
-* [Legal information](https://wwws.airfrance.fr/en/information/legal)
-* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
-* [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
-* [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
+* [Sitemap](https://wwws.airfrance.fr/de/information/site-map)
+* [Impressum](https://wwws.airfrance.fr/de/information/legal/edito-preambule)
+* [Rechtliche Hinweise](https://wwws.airfrance.fr/de/information/legal)
+* [Datenschutz](https://wwws.airfrance.fr/de/information/legal/edito-psc)
 * Cookie settings
