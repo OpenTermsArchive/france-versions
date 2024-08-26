@@ -243,3 +243,25 @@ En conformité avec les dispositions de la loi du 6 Janvier 1978, le traitement 
 Les Clients ont le droit à tout moment d’accéder, de modifier, de rectifier et de supprimer des données personnelles, ce droit peut être exercé directement par l’intermédiaire de l’Application et / ou le site Web de la Société ou en écrivant à l’adresse mentionnée ci-dessus.
 
 La politique de confidentialité est détaillée ici : [**lire le détail**](https://lecab.fr/politique-de-confidentialite/)**.**
+
+13 – Droit d’opposition
+-----------------------
+
+Conformément aux dispositions de l’article L221-16 du Code de la consommation, La Société indique au Client qu’il peut s’inscrire gratuitement sur la liste d’opposition au démarchage téléphonique prévue à l’article [L. 223-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000032221443&dateTexte=&categorieLien=cid) s’il ne souhaite pas faire l’objet de prospection commerciale par cette voie.
+
+14 – Litiges
+------------
+
+En cas de réclamation ou de litige liés aux services proposés, le Client peut écrire directement à la Société à l’adresse : [contact@lecab.fr](mailto:contact@lecab.fr), en vue de tenter de parvenir à un règlement amiable.
+
+En application des dispositions de l’article L111-1 du Code de la consommation, le Client est informé de ce qu’il a également le droit de recourir gratuitement à un médiateur de la consommation.
+
+A cet effet, il peut contacter le Médiateur de la consommation suivant :
+
+ASSOCIATION DE MEDIATION TOURISME VOYAGE
+
+15 avenue Carnot – 75017 Paris
+
+Conformément aux dispositions de l’article 14.1 du Règlement (UE) n°524/2013 du Parlement européen et du Conseil du 21 mai 2013, la Société informe le Client de l’existence d’une plateforme mise en ligne par la Commission européenne ayant pour objet de recueillir les éventuelles réclamations issues d’un achat en ligne des consommateurs européens et de transmettre ensuite les cas reçus aux éditeurs nationaux compétents.
+
+Cette plateforme européenne est disponible via le lien suivant : [http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/).
