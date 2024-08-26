@@ -144,11 +144,11 @@
     * [Petite Maroquinerie](https://www.printemps.com/fr/fr/petite-maroquinerie-homme)
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme)
     * [Porte-documents](https://www.printemps.com/fr/fr/porte-documents-homme)
+    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/sacs-bandouliere-homme)
     * [Sacs bananes](https://www.printemps.com/fr/fr/bananes-homme)
-    * [Sacs de Sport](https://www.printemps.com/fr/fr/sacs-de-sport-homme)
-    * [Sacs à dos](https://www.printemps.com/fr/fr/sacs-dos-homme)
     * [Sacs à main](https://www.printemps.com/fr/fr/sacs-main-homme)
+    * [Sacs de Sport](https://www.printemps.com/fr/fr/sacs-de-sport-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme)
 
 * [Accessoires](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
