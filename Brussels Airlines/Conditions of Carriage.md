@@ -5,9 +5,6 @@ Avis important : Pour toutes informations pratiques importantes faisant partie i
 
 Si les présentes conditions sont traduites dans une langue autre que l’anglais et s’il existe un conflit ou une ambiguïté entre la version en langue anglaise et l’/les autre(s) version(s), la version en langue anglaise prévaudra.
 
-Article 1 : Définitions
------------------------
-
 Dans les présentes conditions générales, les termes et expressions suivants ont les sens qui leur sont respectivement attribués, sauf si le contexte impose le contraire ou sauf mentions contraires :
 
 **Lieux d’arrêt** convenus désigne les lieux, à l’exception du lieu de départ et le lieu de destination, indiqués sur le Billet ou affichés dans nos horaires, en fonction des lieux d’arrêt prévus dans votre itinéraire.
@@ -83,9 +80,6 @@ Dans les présentes conditions générales, les termes et expressions suivants o
 
 « **Vous** » désigne toutes les personnes, en dehors des membres de l’équipage, transportées ou devant être transportées par avion en vertu d’un Billet (voir également la définition de « Passager »).
 
-Article 2 : Champ d'application / Droit applicable
---------------------------------------------------
-
 ### Généralités
 
 2.1. Les présentes constituent les Conditions générales de transport indiquées sur le billet, sauf mention contraire dans les Articles 2.2., 2.4. et 2.5. ; elles s’appliquent uniquement aux vols ou aux segments de vol, pour lesquels nous apparaissons avec notre nom et notre Code de désignation (SN) dans la case du transporteur figurant sur le Billet correspondant.
@@ -115,9 +109,6 @@ Au cas où le contractant du transport aérien changerait après la réservation
 ### Prédominance des conditions générales
 
 2.6. Sauf mention contraire, en cas de contradiction entre les présentes Conditions générales de transport et toute autre Réglementation de Brussels Airlines, relative à des sujets particuliers, les présentes Conditions générales de transport prévalent.
-
-Article 3 : Billets
--------------------
 
 ### Généralités
 
@@ -192,9 +183,6 @@ Si, à la date de la réservation de l’itinéraire modifié, un tarif plus él
 
 3.4. Notre nom peut figurer en abrégé sur le Billet, sous la forme de notre Code de désignation ou sous toute autre forme. Notre adresse sera considérée comme étant celle de l’aéroport de départ figurant en regard de la première abréviation de notre nom dans la case « Transporteur » sur le Billet.
 
-Article 4 : Prix du billet, suppléments, taxes, surcharges et frais de service
-------------------------------------------------------------------------------
-
 ### Tarifs
 
 4.1. Le prix du billet applicable correspond au transport du lieu de départ effectif au lieu de destination effectif. Il est calculé en fonction du tarif en vigueur à la date de réservation du billet, pour les données de vol et les parcours mentionnés. Le prix des billets ne comprend pas les services de transport au sol d’un aéroport à un autre, ni le transport entre aéroport et centre-ville. Le prix pourra inclure des suppléments imposés. .
@@ -206,9 +194,6 @@ Article 4 : Prix du billet, suppléments, taxes, surcharges et frais de service
 ### Devise
 
 4.3. Dans le cadre de la législation applicable, les Tarifs et les charges sont payables dans toute devise que nous acceptons, sauf autre monnaie indiquée dans la législation applicable ou par nous-mêmes. Lorsque le règlement est effectué dans le pays de départ dans une devise autre que celle dans laquelle le tarif est publié, le taux de change applicable à un tel règlement sera le cours d’achat du banquier que nous avons établi à la date d’émission du billet.
-
-Article 5 : Réservations
-------------------------
 
 ### Conditions de réservations
 
@@ -244,9 +229,6 @@ Article 5 : Réservations
 
 5.5.2. Vous devez vérifier les exigences des autres Transporteurs participant à votre voyage quant à une confirmation de votre réservation. Le cas échéant, vous devez confirmer votre vol au Transporteur dont Airline Designator Code figure sur votre Billet.
 
-Article 6 : Enregistrement et embarquement
-------------------------------------------
-
 6.1. Les heures limites d’enregistrement varient en fonction des aéroports ; nous vous recommandons de les consulter et d’en tenir compte avant votre départ pour l’aéroport. Pour assurer le bon déroulement de votre voyage, nous vous conseillons d’arriver suffisamment tôt à l’aéroport et de respecter l’heure limite fixée pour l’enregistrement. Si vous vous présentez au-delà d’une certaine heure limite, votre réservation pourra être annulée. Vous êtes informé directement par la compagnie aérienne ou par l’agence de voyages émettrice du billet de l’heure limite d’enregistrement concernant le premier segment de vol. Les heures limites d’enregistrement de nos vols peuvent être consultées directement sur notre site ou via l’agence de voyage ayant émis le billet. Sauf disposition contraire, les délais limites d’enregistrement sont fixés à au moins 30 minutes avant le départ du vol.
 
 6.2. Vous devez être présent(e) à la porte d’embarquement au plus tard à l’heure que nous vous aurons indiquée au moment de l’enregistrement.
@@ -254,9 +236,6 @@ Article 6 : Enregistrement et embarquement
 6.3. Si vous n’arrivez pas à temps à la porte d’embarquement, nous pouvons annuler la place qui vous a été réservée.
 
 6.4. Nous déclinons toute responsabilité pour les inconvénients et frais occasionnés en cas de non-respect de ces conditions ou des conditions de nos partenaires (code partagé, interlining, charter).
-
-Article 7 : Droit de refuser le transport
------------------------------------------
 
 ### Droit de refuser le transport
 
@@ -299,9 +278,6 @@ Brussels Airlines ne pourra être tenu responsable si nous avons exercé notre d
 ### Recours en cas de refus de transporter
 
 7.3. L’unique recours de toute personne s’étant vue refusée d’être transportée ou dont la réservation a été annulée pour l’un des motifs mentionnés dans le paragraphe précédent sera le remboursement de la valeur du Billet, conformément à l’Article 10.3.
-
-Article 8 : Bagages
--------------------
 
 ### Franchise et excédents de bagages
 
@@ -393,9 +369,6 @@ Les animaux voyageant avec vous en cabine (et leur cage de transport, le cas éc
 
 Vous devrez assumer toutes les dépenses découlant du non-respect de cette disposition, ainsi que pour tout dommage causé par votre animal, et vous devrez nous indemniser pour tout frais, à moins que ceux-ci ne soient causés par une négligence grave ou une faute intentionnelle de Brussels Airlines.
 
-Article 9 : Horaires, retards, annulation de vols
--------------------------------------------------
-
 ### Horaires
 
 9.1. Avant d'accepter votre réservation, nous vous indiquerons les horaires applicables qui seront mentionnés sur votre Billet. Si vous nous laissez vos coordonnées, nous vous aviserons de changements éventuels de ces horaires, qui pourraient être dus à des raisons techniques et opérationnelles hors de notre contrôle. Des exemples de ces raisons techniques et opérationnelles sont les conditions météorologiques, les problèmes d'entretien, les incidents de sécurité, les problèmes de bagage, etc. Si, après l'achat de votre Billet, nous procédons à un changement d'horaire important qui ne vous convient pas, vous pourrez prétendre au remboursement de votre Billet, conformément à l'article 10.2.
@@ -407,9 +380,6 @@ Article 9 : Horaires, retards, annulation de vols
 ### Notification
 
 9.3. Nous vous tenons informé(e) de tous retards, modifications et annulations de vols en temps voulu à l’aéroport et pendant le vol. Pour obtenir des informations sur votre vol, vous pouvez également consulter le site web de Brussels Airlines.
-
-Article 10 : Remboursements
----------------------------
 
 ### Généralités
 
@@ -471,9 +441,6 @@ Article 10 : Remboursements
 
 10.8. Le remboursement des Billets réglés par carte de crédit ne peut être effectué que sur les comptes Carte de crédit initialement utilisés pour l’achat du Billet. Le montant que nous rembourserons sera conforme aux règlementations mentionnées au présent Article, uniquement en fonction du montant et de la devise indiqués sur le Billet. Ce montant à créditer sur le compte Carte de crédit du propriétaire de la carte peut varier selon le montant initialement débité par la société émettrice de la carte pour l’achat du Billet en raison des différences de conversion. De telles variations n’autorisent en aucun cas le bénéficiaire du remboursement à émettre une réclamation à notre encontre.
 
-Article 11 : Comportement à bord
---------------------------------
-
 ### Généralités
 
 11.1. Si nous estimons, de manière raisonnable, que par votre comportement à bord, vous mettez en danger l'appareil, une personne ou des biens, que vous empêchez l'équipage de remplir ses fonctions, que vous ne vous soumettez pas aux recommandations et instructions de l'équipage, notamment, sans toutefois s’y limiter, celles concernant l'usage de tabac, d'alcool ou de drogue, ou encore que vous vous conduisez d'une manière entraînant ou pouvant entraîner, pour les autres Passagers ou pour l'équipage, une gêne à leur confort ou à leur commodité, des dommages ou une blessure, nous pourrons prendre toutes les mesures envers vous, y compris de contrainte, que nous jugerons nécessaires pour empêcher la poursuite d'un tel comportement. Vous pourrez être débarqué(e), vous voir refuser l’accès à bord pour des voyages ultérieurs à n'importe quel point du réseau et être poursuivi(e) pour tout acte répréhensible que vous auriez commis à bord de l'avion. Si, par suite de votre comportement, nous dévions l’avion vers un lieu de destination non planifié et nous vous obligeons à quitter l’avion, tous les frais liés à cette déviation seront à votre charge.
@@ -494,17 +461,11 @@ Article 11 : Comportement à bord
 
 11.5. En principe, obligation est faite aux passagers de rester à leur place et d'attacher leur ceinture pendant toute la durée du vol.
 
-Article 12 : Dispositions pour les prestations de service supplémentaires
--------------------------------------------------------------------------
-
 12.1. Si nous acceptons de prendre des dispositions en votre faveur pour qu’un tiers vous fournisse certains services comme l’émission d’un Billet ou d’un bon d’échange concernant le transport ou d’autres services, nous ne serons que votre mandataire. Les Conditions de transport ou de vente des tiers seront alors applicables.
 
 12.2. Si nous fournissons des prestations de transport terrestre, ces conditions s'appliqueront à ces transports. Ces conditions sont disponibles sur demande.
 
 12.3. En cas de transport international par chemin de fer en coopération avec NMBS ou NS, le régime légal de responsabilité et d’assistance est régi par le Règlement (CE) n° 1371/2007 du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires et les normes uniformisées sur le contrat de transport international ferroviaire de passagers et de bagages, conformément à la Convention relative aux transports internationaux ferroviaires (COTIF), signée à Vilnius le 3 juin 1999 et complétée par les conditions générales de la compagnie ferroviaire.
-
-Article 13 : Formalités administratives
----------------------------------------
 
 ### Généralités
 
@@ -535,9 +496,6 @@ Article 13 : Formalités administratives
 ### Transmission des données du Passager
 
 13.7. Nous sommes habilités à transmettre vos données personnelles et celles concernant votre réservation en rapport avec votre vol aux autorités locales et étrangères (dont aux États-Unis et au Canada) sur leurs demandes, conformément aux règlementations juridiques afin de respecter le Contrat de transport.
-
-Article 14 : Responsabilité pour Dommages
------------------------------------------
 
 ### Généralités
 
@@ -601,9 +559,6 @@ Article 14 : Responsabilité pour Dommages
 
 14.6. En cas d’annulation, deux choix s’offriront à vous : (i) un réacheminement vers votre destination finale dans les meilleurs délais ou (ii) un remboursement ainsi que, le cas échéant, un vol retour vers son point de départ initial dans les meilleurs délais. En cas d’annulation, vous pourriez avoir droit à un dédommagement, conformément au règlement (CE) 261/2004. De plus, en cas d’annulation, vous avez le droit à une prise en charge conformément à l’article 9 du Règlement (CE) 261/2004.
 
-Article 15 : Délais de réclamation et d’action en responsabilité
-----------------------------------------------------------------
-
 ### Notification des réclamations
 
 15.1. Votre acceptation sans protestations des Bagages signifie, sauf preuve du contraire, qu’ils auront été livrés en bon état conformément au Contrat de transport.
@@ -616,22 +571,13 @@ Tout recours pour Dommages aux Bagages n'est recevable que si la personne en dro
 
 15.3 Toute action basée sur le Règlement de l’UE n° 261/2004 est soumise au droit belge, en application de l’article 2.5 des présentes conditions, et doit être introduite dans un délai d’un an suivant le vol nécessitant l’application dudit Règlement.
 
-Article 16. Règlement extrajudiciaire des litiges
--------------------------------------------------
-
 16.1 Le Service belge de médiation pour le consommateur (boulevard du Roi Albert II 8, bte 1, 1000 Bruxelles, Belgique – [_​_contact@mediationconsommateur.be](mailto:contact@mediationconsommateur.be)) est l’entité responsable du règlement extrajudiciaire des litiges, y compris la médiation des litiges relatifs à l’exploitation de vols. Les conditions de recevabilité sont disponibles [_​_ici](https://mediationconsommateur.be/fr/en-pratique) et une plainte peut être déposée au moyen du [_​_formulaire de plainte](https://mediationconsommateur.be/fr/formulaire-de-plainte).
 
 Pour les consommateurs britanniques et allemands, Brussels Airlines prend part au règlement des litiges devant une chambre de conciliation des consommateurs. La chambre de conciliation des consommateurs responsable est le SÖP – Schlichtungsstelle für den öffentlichen Personenverkehr E.V. (« Commission d’arbitrage pour le transport public des voyageurs »), Fasanenstrasse 81, 10623 Berlin, Allemagne ([_​_https://soep-online.de/en/](https://soep-online.de/en/) et demande de conciliation concernant les vols via [_​_https://soep-online.de/en/your-conciliation-request/online-form-flight/](https://soep-online.de/en/your-conciliation-request/online-form-flight/)).
 
 La Commission européenne fournit également une plateforme pour le règlement en ligne des litiges, disponible [_​_ici](https://ec.europa.eu/consumers/odr/main/?event=main.consumer.rights).
 
-Article 17 : Autres conditions
-------------------------------
-
 17.1. Le transport est également lié à d’autres réglementations et conditions applicables ou que nous avons adoptées. Ces réglementations et conditions sont importantes et sont sujettes à des modifications ponctuelles. Elles concernent entre autres : le transport de mineurs non accompagnés, de femmes enceintes et de Passagers malades, les restrictions concernant l’utilisation d’appareils et d’objets électroniques et la consommation de boissons alcoolisées à bord. Les réglementations et conditions correspondantes sont disponibles sur simple demande.
-
-Article 18 : Intitulés abrégés
-------------------------------
 
 18.1. Les intitulés abrégés de chaque Article des présentes Conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
 
