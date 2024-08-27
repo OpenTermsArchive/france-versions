@@ -247,7 +247,7 @@ Ces données sont traitées pour la réservation, la fourniture et le traitement
 
 La base juridique est l’article 6, paragraphe 1(b), (c) du RGPD.
 
-Nous utilisons également certaines de ces données pour les recommandations de produits (voir la clause 2.1.4), pour le bulletin d’information (voir la clause 2.1.5) et le compte client (voir la clause 2.1.6.)
+Nous utilisons également certaines de ces données pour les recommandations de produits (voir la clause 2.1.5), pour le bulletin d’information (voir la clause 2.1.6) et le compte client (voir la clause 2.1.7.)
 
 Lors de la réservation de billets pour des services de transport international, les catégories suivantes de données à caractère personnel sont également collectées en fonction du lieu de départ et d’arrivée :
 
@@ -275,7 +275,11 @@ La base juridique est l’article 6, paragraphe 1(b) ou (f) du RGPD.
 
 Pour certaines réservations, nous utilisons également les technologies et services de Distribusion Technologies GmbH pour le traitement (Wattstrasse 10, 13355 Berlin, téléphone : +49-30-3465507-50, e-mail : [dataprotection@distribusion.com](mailto:dataprotection@distribusion.com)).
 
-### 2.1.4 Recommandation de produits
+### 2.1.4 Transmission aux autorités
+
+Si vous voyagez dans l’espace Schengen, nous sommes tenus de transmettre à l’avance vos données d’identification (prénom et nom, sexe, date de naissance, citoyenneté, pays de résidence, type de document et numéro) à l’autorité européenne responsable, qui vérifiera la légitimité de votre entrée. Si vous ne fournissez pas les données requises, l’entrée dans l’espace Schengen pourra être refusée. Les données seront supprimées après leur transmission. La base juridique de la collecte et de la transmission des données est l’art. 6 par. 1 al. c du RGPD.
+
+### 2.1.5 Recommandation de produits
 
 Dans la mesure autorisée, nous pouvons utiliser l’adresse e-mail reçue en lien avec le service de réservation ou de transport pour vous envoyer des offres régulières par e-mail, concernant des produits de notre catalogue similaires à ceux déjà achetés.
 
@@ -287,7 +291,7 @@ La base juridique est l’article 6, paragraphe 1(f) du RGPD ; notre intérêt l
 
 Vous pouvez vous opposer à l’utilisation de votre adresse e-mail à cette fin à tout moment, en utilisant le lien de désabonnement de la recommandation de produits ou en envoyant un message à [unsubscribe@flixbus.com](mailto:unsubscribe@flixbus.com).
 
-### 2.1.5 Newsletter
+### 2.1.6 Newsletter
 
 Si vous vous inscrivez également à la newsletter via notre lien d’inscription, nous vous demandons de consentir au traitement de vos données (adresse e-mail, prénom et nom, lieu de résidence) afin de vous envoyer régulièrement notre newsletter par e-mail.
 
@@ -307,7 +311,7 @@ Vous pouvez annuler l’utilisation de votre adresse e-mail à tout moment, en u
 
 Nous faisons appel à des prestataires de services informatiques externes en tant que sous-traitants pour diffuser la newsletter.
 
-### 2.1.6 Compte client
+### 2.1.7 Compte client
 
 Vous avez la possibilité de créer un compte client personnel chez nous. Dans la zone protégée par mot de passe du compte client, vous pouvez gérer vos réservations de manière pratique et stocker vos données pour de futurs voyages.
 
@@ -328,7 +332,7 @@ Vous pouvez également choisir de stocker les données supplémentaires suivante
 * adresse (code postal, ville et pays),
 * modes de paiement.
 
-Ces données sont utilisées pour gérer votre compte client et émettre des factures, et peuvent également être utilisées pour envoyer des recommandations de produits personnalisées (clause 2.1.4) et, si vous vous y êtes inscrit, pour envoyer des newsletters (clause 2.1.5).
+Ces données sont utilisées pour gérer votre compte client et émettre des factures, et peuvent également être utilisées pour envoyer des recommandations de produits personnalisées (clause 2.1.5) et, si vous vous y êtes inscrit, pour envoyer des newsletters (clause 2.1.6).
 
 La base juridique est l’article 6, paragraphe 1(a), (b) ou (f) du RGPD.
 
@@ -338,7 +342,7 @@ La base juridique est l’article 6, paragraphe 1(f) du RGPD.
 
 Vous pouvez mettre à jour ou supprimer le compte client, et donc vos données à caractère personnel conservées, à tout moment dans votre compte client personnel.
 
-### 2.1.7 Utilisation de cookies, plug-ins et autres services
+### 2.1.8 Utilisation de cookies, plug-ins et autres services
 
 **Cookies**
 
@@ -480,7 +484,7 @@ Si vous ne souhaitez pas que Microsoft utilise des informations sur votre compor
 
 Pour plus d’informations sur la confidentialité et les cookies utilisés par Microsoft et Bing ads, veuillez consulter le site Web de Microsoft [https://privacy.microsoft.com/en-gb/privacystatement](https://privacy.microsoft.com/en-gb/privacystatement).
 
-### 2.1.8 Apprentissage automatique et adaptation dynamique du site Web/de l’application
+### 2.1.9 Apprentissage automatique et adaptation dynamique du site Web/de l’application
 
 Nous avons recours à l’apprentissage automatique afin d’optimiser et d’automatiser nos processus. Cela implique d’enseigner une logique décisionnelle système fondée sur des cas pratiques. Autrement dit, le système peut tirer les enseignements du passé et utiliser des algorithmes afin de concevoir des modèles statistiques applicables à des tâches similaires à l’avenir.
 
@@ -494,7 +498,7 @@ Nous avons fondé ce traitement de données sur notre intérêt légitime en app
 
 Vous pouvez à tout moment nous aviser de votre opposition au traitement de vos données réalisé à des fins d’apprentissage automatique ou d’adaptation dynamique du site Web/de l’application conformément aux dispositions légales à l’adresse électronique [data.protection@flixbus.com](mailto:data.protection@flixbus.com). Sachez toutefois que vous ne recevrez dès lors que des services génériques.
 
-### 2.1.9 Prévention de la fraude
+### 2.1.10 Prévention de la fraude
 
 Afin d’éviter les réservations frauduleuses, nous traitons les données relatives aux commandes, notamment l’adresse IP, le nom et l’adresse mail.
 
