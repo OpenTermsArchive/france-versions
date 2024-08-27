@@ -821,23 +821,32 @@ Ce traitement permet d’éviter les impayés lors des paiements réalisés par 
 
 Responsable du traitement
 
-Les données que vous nous confiez sont traitées par DECATHLON France SAS, 4 boulevard de Mons à Villeneuve d'Ascq, 59650.
+Les données que vous nous confiez sont traitées par Decathlon France SAS, 4 boulevard de Mons à Villeneuve d’Ascq, 59650 en sa qualité de responsable du traitement.
 
 Données personnelles traitées
 
-Nous traitons les données qui nous permettent de nous prémunir contre les moyens de paiement frauduleux en ligne : votre email, ID client, numéro de téléphone, adresse de facturation, adresse de livraison, les informations liées au moyen de paiement, le montant de la commande, la fréquence de commande.
+Afin de lutter contre la fraude dans nos parcours digitaux, nous traitons certaines de vos données personnelles : votre prénom, nom, e-mail, adresse de facturation, adresse de livraison, les données liées à votre comportement sur notre site, les informations liées au moyen de paiement et vos données de connexion.
 
 Durées de conservation
 
-Dans le cadre de la prévention contre les moyens de paiement frauduleux en ligne, vos données personnelles sont conservées 3 ans.
+Vos données seront supprimées 13 mois après leur collecte si l’alerte n’est pas considérée pertinente.  
+Après vérification, si la transaction est jugée frauduleuse, vos données personnelles seront conservées jusqu’à 2 ans à partir de la qualification de l’alerte.  
+Vos données de connexion seront conservées jusqu’à 12 mois à partir de leur collecte.
 
 Base légale
 
-La vérification préalable à votre commande repose sur l'intérêt légitime et impérieux du responsable de traitement (DECATHLON).
+L’utilisation des cookies ou d’autres traceurs, qui nous permettent de collecter vos données personnelles que nous utilisons pour la détection de transactions frauduleuses est soumise à votre consentement. Vous pouvez refuser de donner votre consentement ou revenir à tout moment sur celui-ci sur notre site.  
+La base légale du traitement des données nécessaires à la détection des transactions frauduleuses est l'intérêt légitime et impérieux de l’entreprise (Decathlon).
 
 Finalités
 
-Ce traitement permet d’éviter les impayés lors des paiements réalisés en ligne. Un profilage utile à la finalité est réalisé dans ce contexte.
+Ce traitement nous permet d’assurer l’authenticité et la véracité de la transaction, et ainsi, il nous permet de nous prémunir contre la fraude sur les parcours digitaux de Decathlon.
+
+Prise de décision automatisée
+
+Nous vous informons également que votre transaction de paiement fera l’objet d’une évaluation des risques. Afin de détecter une tentative de fraude, Decathlon utilise, avec ses prestataires de service, des outils qui peuvent mener à une prise de décision automatisée y compris le profilage (liste d’attributs reliés à une fraude) qui peut, en fonction du niveau de risque, affecter votre processus d’achat. Cette décision automatisée est prise par le biais d’algorithmes que nous appliquons à vos données personnelles, qui sont traitées dans le cadre de la lutte contre la fraude.  
+  
+Nous vous informons que vous disposez d’un droit à une intervention humaine afin de contester la décision automatisée, de présenter vos observations, et de demander le réexamen de la décision. En cas de demande de votre part, Decathlon assurera une revue manuelle de votre transaction. Pour cela, il suffit de contacter notre Service Relation Client en cliquant [ici](https://www.decathlon.fr/help/app/ask/cat_id/920).
 
 ##### PROFITEZ DU WIFI GRATUIT EN MAGASIN
 
