@@ -4,17 +4,11 @@ Protection des données & avis de confidentialité
 1\. Dispositions générales
 --------------------------
 
-1.1 Introduction
-----------------
-
 La protection de vos données à caractère personnel revêt une importance particulière pour Brussels Airlines.
 
 Cet avis de confidentialité s’applique aux données à caractère personnel que nous traitons à votre sujet en tant que personne physique. Vous trouverez ci-dessous des informations sur ce qu’il advient des données à caractère personnel que nous collectons, pourquoi nous le faisons, combien de temps nous les conservons, quels sont vos droits en matière de protection de la vie privée et comment vous pouvez les exercer.
 
 Brussels Airlines NV / SA dont le siège social est situé à 1050 Bruxelles (Belgique), Avenue des Saisons 100-102/B30, RPM Bruxelles (numéro d’entreprise 0445692234) est le « responsable du traitement » pour le traitement de vos données à caractère personnel.
-
-1.2 Nous contacter
-------------------
 
 Si vous avez des questions concernant cet avis de confidentialité ou la confidentialité chez Brussels Airlines, vous pouvez contacter notre délégué à la protection des données via [_​_ce formulaire](https://www.brusselsairlines.com/fr/fr/legal-notices/dsar-start) ou par e-mail :
 
@@ -25,9 +19,6 @@ AIRPORT BLD 26, GENERAL AVIATION – RINGBAAN
 BELGIQUE
 
 L’établissement principal au Royaume-Uni aux fins du respect des lois applicables en matière de protection des données est le World Business Centre 1, Newall Road, London Heathrow Airport, Hounslow, Middlesex, TW6 2FA, Angleterre.
-
-1.3 Mises à jour
-----------------
 
 Nous révisons régulièrement notre avis de confidentialité et nous le mettrons à jour si nécessaire. La dernière version est toujours disponible sur nos sites Web, avec la date de publication clairement indiquée.
 
@@ -41,9 +32,6 @@ Vous pouvez exercer les droits suivants en nous contactant, soit en nous envoyan
 Lorsque vous soumettez une demande d’accès de la personne concernée, nous vous demandons de nous fournir des informations supplémentaires (notamment votre nom, le PNR des vols effectués, une copie de votre carte d’identité et/ou des exemples de communications au sujet desquelles vous vous plaignez, etc.) afin que nous puissions valider votre identité et éviter le traitement illégal de données à caractère personnel pertinentes au nom d’une personne illégitime. Dans le cadre de cette validation, nous traitons les données reçues aux fins de la gestion de la demande d’accès de la personne concernée et nous les conservons aussi longtemps que nécessaire.
 
 En soumettant une demande d’accès de la personne concernée, vous pouvez exercer les droits suivants dans les conditions prévues par la législation applicable :  
-
-2.1 Droit d’accès
------------------
 
 Vous avez le droit d’obtenir de notre part la confirmation que nous traitons ou non vos données à caractère personnel et, le cas échéant, vous avez le droit d’obtenir une copie gratuite des données traitées. Nous vous fournirons également des informations sur les points suivants :
 
@@ -62,13 +50,7 @@ Vous avez le droit d’obtenir de notre part la confirmation que nous traitons o
 
 Nous pouvons demander une redevance raisonnable pour couvrir nos frais administratifs pour chaque copie supplémentaire que vous demandez.  
 
-2.2 Droit de rectification
---------------------------
-
 Vous avez le droit d’obtenir la rectification de données à caractère personnel inexactes et/ou incomplètes.
-
-2.3 Droit à l’effacement
-------------------------
 
 Vous avez le droit d’obtenir l’effacement de vos données à caractère personnel si l’un des motifs suivants s’applique :
 
@@ -80,9 +62,6 @@ Vous avez le droit d’obtenir l’effacement de vos données à caractère pers
 
 Nous ne sommes pas tenus de donner suite à votre demande d’effacement si le traitement est nécessaire à la constatation, à l’exercice ou à la défense de droits en justice.  
 
-2.4 Droit à la limitation du traitement
----------------------------------------
-
 Vous avez le droit d’obtenir la limitation du traitement de vos données à caractère personnel :
 
 * Si vous contestez l’exactitude de vos données à caractère personnel, nous pouvons limiter le traitement contesté pendant la période nécessaire pour vérifier l’exactitude de vos données à caractère personnel  
@@ -90,22 +69,13 @@ Vous avez le droit d’obtenir la limitation du traitement de vos données à ca
 * Si nous n’avons plus besoin de vos données à caractère personnel, mais que vous en avez besoin pour la constatation, l’exercice ou la défense de droits en justice
 * Si vous avez marqué votre opposition quant à un traitement de vos données à caractère personnel fondé sur nos intérêts légitimes, nous pouvons restreindre le traitement refusé pendant la période nous permettant de vérifier si vos motifs légitimes sont valides.
 
-2.5 Droit à la portabilité des données
---------------------------------------
-
 Vous avez le droit de demander la portabilité de vos données à caractère personnel que vous nous avez communiquées et qui sont traitées par des moyens automatisés. Cela n’est possible que si le traitement est fondé sur votre consentement ou sur l’exécution d’un contrat. Dans tous les autres cas, vous ne pouvez pas exercer ce droit (par exemple lorsque le traitement de vos données est effectué sur la base d’une obligation légale).
-
-2.6 Droit d’opposition
-----------------------
 
 Vous avez le droit de vous opposer à tout traitement fondé sur notre intérêt légitime. Toutefois, nous poursuivrons le traitement de vos données à caractère personnel si nous pouvons démontrer que nous avons des motifs légitimes plus solides.
 
 Vous avez le droit de vous opposer à tout traitement de vos données à des fins de marketing direct.
 
 Vous avez le droit de retirer votre consentement au traitement des données à caractère personnel, dans la mesure où le traitement de vos données à caractère personnel était initialement fondé sur votre consentement.
-
-2.7 Droit d’introduire une réclamation
---------------------------------------
 
 Vous avez aussi le droit d’introduire une réclamation auprès de l’autorité de contrôle de l’État membre de l’Union européenne dans lequel se trouve votre résidence habituelle, votre lieu de travail ou le lieu où la violation en matière de protection des données aurait été commise :
 
@@ -119,9 +89,6 @@ Rue de la presse 35, 1000 Bruxelles
 
 3\. Traitement des données à caractère personnel
 ------------------------------------------------
-
-3.1 Pourquoi traitons-nous vos données à caractère personnel ?
---------------------------------------------------------------
 
 Les finalités du traitement de vos données à caractère personnel varient selon le support que vous utilisez pour entrer en contact avec nous :
 
@@ -282,9 +249,6 @@ Nous utilisons des caméras de surveillance dans nos bâtiments afin de détecte
 
 Nous traitons ces informations sur la base de nos intérêts légitimes.  
 
-3.2 Quelles fonctionnalités propres à des médias sociaux utilisons-nous sur nos sites Web ?
--------------------------------------------------------------------------------------------
-
 Vous retrouverez sur nos sites Web certaines fonctionnalités propres à des médias sociaux, par exemple :
 
 * Le bouton “ partager ” vous permet de partager et de recommander le contenu de nos sites Web. Lorsque vous cliquez sur le bouton “ partager ”, un nouveau message contenant un lien vers la page sur laquelle vous vous trouvez est créé (par exemple, si vous cliquez sur le bouton “ partager ” sur la page de recherche du tarif le plus bas, vous partagez l’url de la page de recherche du tarif le plus bas).  
@@ -303,9 +267,6 @@ Nous faisons la promotion de nos profils et comptes sur les médias sociaux suiv
 * YouTube
 * Instagram
 * Pinterest
-
-3.3 Avec qui partageons-nous vos données à caractère personnel ?
-----------------------------------------------------------------
 
 Nous ne transmettons pas vos données à caractère personnel à des tiers, sauf si nous disposons d’une base juridique valable pour le faire. Par exemple, nous pouvons transférer vos données à caractère personnel à :
 
@@ -329,9 +290,6 @@ En outre, si vous avez causé des dommages ou des blessures à d’autres passag
 
 Les données à caractère personnel sous la forme d’une liste de passagers sont également partagées avec l’équipage des compagnies aériennes externalisées, sous contrat et louées.  
 
-3.4 Vos données à caractère personnel sont-elles transférées en dehors de l’Union européenne, de l’Espace économique européen et de la Suisse ?
------------------------------------------------------------------------------------------------------------------------------------------------
-
 Nous avons l’obligation légale de transférer certaines données à caractère personnel à des autorités étrangères spécifiques à des fins diverses.
 
 Si vous avez réservé un vol à destination d’un pays qui nous soumet à une obligation légale de transférer votre dossier passager (PNR) ou les informations préalables sur les passagers (données API) aux autorités compétentes pour les vols (par exemple, le Canada, les États-Unis, le Royaume-Uni), nous le ferons.  
@@ -347,9 +305,6 @@ Outre les transferts susmentionnés, nous divulguons également vos données à 
 Certains de ces pays sont reconnus par la Commission européenne comme offrant un niveau adéquat de protection des données. Pour les divulgations à d’autres pays, nous avons mis en place des garanties juridiques, par exemple des clauses contractuelles types adoptées par la Commission européenne. Nous nous efforçons en permanence d’évaluer les transferts sous-jacents vers ces pays tiers au cas par cas afin de déterminer si vos données à caractère personnel sont protégées de manière adéquate et, le cas échéant, nous prenons les mesures organisationnelles, contractuelles et techniques appropriées pour garantir la protection de vos informations personnelles conformément aux lois et réglementations applicables en matière de protection des données.  
 
 Vous pouvez nous contacter (voir le chapitre 1.2 “ Nous contacter ”) afin d’obtenir plus d’informations sur les garanties appropriées que nous avons prises pour ces transferts.  
-
-3.5 Combien de temps conservons-nous vos données à caractère personnel ?
-------------------------------------------------------------------------
 
 Nous conserverons vos données à caractère personnel jusqu’à ce que vous en demandiez la suppression, vous opposiez à leur conservation, ou aussi longtemps que nous en aurons besoin pour des finalités justifiables et déterminées liées au traitement et/ou si nous sommes obligés par la loi de les conserver pendant le délai de conservation tel que fixé par les lois et autorités applicables (par exemple, le Code de commerce belge, la législation fiscale, la loi contre le blanchiment d’argent, etc.).  
 
