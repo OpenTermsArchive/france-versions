@@ -130,9 +130,9 @@ Ce bon d’achat d’annulation, non remboursable, sera valable 12 mois et pourr
 
 ### 6 Frais de service
 
-Des frais de service à hauteur de 0,99 € (ou le montant correspondant à la devise respective) seront appliqués à chaque réservation. Il s’agit de frais par commande (non par billet) pour l'utilisation du site Web ou de l'application, ainsi que d'autres outils destinés à optimiser l'expérience de la clientèle. Parmi ces outils, on retrouve par exemple la plateforme Gérer ma réservation depuis laquelle vous pouvez modifier un trajet ou encore ajouter un bagage.
+Des frais de service à hauteur de 0,99 € (ou le montant correspondant à la devise respective) seront appliqués à chaque réservation. Il s’agit de frais par commande (non par billet) pour l'utilisation du site Web ou de l'application, ainsi que d'autres outils destinés à optimiser l'expérience de la clientèle. Parmi ces outils, on retrouve par exemple la plateforme Gérer ma réservation depuis laquelle vous pouvez modifier un trajet ou encore ajouter un bagage.
 
-En cas d’annulation par le client, les frais de service ne seront pas remboursés. En cas de réservations par téléphone (service client) ou dans l’une de nos agences et chez l’un de nos revendeurs hors ligne, des frais supplémentaires peuvent s’appliquer.
+En cas d’annulation par le client, les frais de service ne seront pas remboursés. Pour les réservations par téléphone (service clientèle), dans l’une de nos agences ou chez l’un de nos revendeurs hors ligne, des frais supplémentaires peuvent s’appliquer.
 
 ### 7 Juridiction compétente
 
