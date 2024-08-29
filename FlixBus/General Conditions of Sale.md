@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 07/03/2024
+Version : 29/08/2024
 
 ### 1 Champ d’application
 
@@ -128,6 +128,8 @@ Ce bon d’achat d’annulation, non remboursable, sera valable 12 mois et pourr
 
 **5.8** Les politiques d’annulation différentes dans les Conditions générales du transporteur ne s’appliquent pas.
 
+**5.9** Les passagers qui prévoient d’entrer dans l’espace Schengen et qui (i) n’ont pas la nationalité d’un pays de l’Union européenne ou (ii) ne sont pas soumis à l’une des dérogations, sont tenus de disposer de tous les documents nécessaires à leur entrée. Flix se réserve le droit, et est en droit, d’annuler les billets sans aucun remboursement en cas de non-conformité, en particulier si l’entrée est refusée par les autorités/systèmes européens concernés, même si la confirmation de réservation a déjà été émise.
+
 ### 6 Frais de service
 
 Des frais de service à hauteur de 0,99 € (ou le montant correspondant à la devise respective) seront appliqués à chaque réservation. Il s’agit de frais par commande (non par billet) pour l'utilisation du site Web ou de l'application, ainsi que d'autres outils destinés à optimiser l'expérience de la clientèle. Parmi ces outils, on retrouve par exemple la plateforme Gérer ma réservation depuis laquelle vous pouvez modifier un trajet ou encore ajouter un bagage.
@@ -154,6 +156,7 @@ II Dispositions dérogatoires des pays
 
 **2.  Pologne**
 
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Pologne.
 * **Concernant 4.4.1 et 4.4.2 :** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
 * **Concernant 5.4 :** Une annulation ne peut pas être effectuée en n’utilisant pas le billet et en obtenant un remboursement ultérieur pour les liaisons effectuées par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège social en Pologne.
 * **Concernant 5.6 :** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
@@ -161,6 +164,7 @@ II Dispositions dérogatoires des pays
 
 **3. République tchèque**
 
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en République tchèque.
 * **Concernant le point 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
 * **Concernant le point 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
@@ -170,6 +174,7 @@ II Dispositions dérogatoires des pays
 
 **5\. France**
 
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en France.
 * **Concernant 5.6 :** Le remboursement d’un billet après son expiration ne s’applique pas aux liaisons effectuées en France par FlixBus France SARL ou tout autre Transporteur ayant son siège social en France.
 
 **6\. Portugal**
@@ -184,5 +189,21 @@ II Dispositions dérogatoires des pays
 **8\. Danemark**
 
 * **Concernant 4.1 :** Les ventes à bord ne sont pas disponibles au Danemark.
+
+**9\. Belgique**
+
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Belgique.
+
+**10\. Pays-Bas**
+
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes aux Pays-Bas.
+
+**11\. Luxembourg**
+
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes au Luxembourg.
+
+**12\. Hongrie**
+
+* **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Hongrie.
 
 * * *
