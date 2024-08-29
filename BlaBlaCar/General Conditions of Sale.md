@@ -314,7 +314,7 @@ Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, a
 
 **5.4.1. Mandat d’instruction du Conducteur**
 
-En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé les conditions générales du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
+En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
 
 Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur énumérées dans l’article 11.4, points (i) et (ii), des Conditions Générales d’Hyperwallet ne s’appliquent pas aux Membres de la Plateforme du fait de leur statut de non professionnels.
 
@@ -347,7 +347,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 **b. Vérifications au titre de la Connaissance du Client (KYC)**
 
-En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses Conditions Générales.
+En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses [Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
 
 Ces procédures peuvent inclure des contrôles d’identité et toute autre exigence imposée par la procédure de « Connaissance du Client » (KYC en anglais pour « _Know your Customer_ ») sur la base des critères définis par le Fournisseur de la Solution de Paiement Hyperwallet. Ces critères sont susceptibles d’inclure des plafonds financiers en fonction du montant total des versements au titre des Participations aux Frais que vous avez reçus.
 
@@ -1029,7 +1029,7 @@ Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, a
 
 **5.4.1. Mandat d’instruction du Conducteur**
 
-En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé les conditions générales du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
+En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
 
 Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur énumérées dans l’article 11.4, points (i) et (ii), des Conditions Générales d’Hyperwallet ne s’appliquent pas aux Membres de la Plateforme du fait de leur statut de non professionnels.
 
@@ -1062,7 +1062,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 **b. Vérifications au titre de la Connaissance du Client (KYC)**
 
-En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses Conditions Générales.
+En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de [ses Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
 
 Ces procédures peuvent inclure des contrôles d’identité et toute autre exigence imposée par la procédure de « Connaissance du Client » (KYC en anglais pour « _Know your Customer_ ») sur la base des critères définis par le Fournisseur de la Solution de Paiement Hyperwallet. Ces critères sont susceptibles d’inclure des plafonds financiers en fonction du montant total des versements au titre des Participations aux Frais que vous avez reçus.
 
