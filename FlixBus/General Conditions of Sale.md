@@ -165,8 +165,8 @@ II Dispositions dérogatoires des pays
 **3. République tchèque**
 
 * **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en République tchèque.
-* **Concernant le point 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
-* **Concernant le point 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
+* **Concernant 5.4 :** Les frais d'annulation ne s'appliquent pas aux tarifs payés en couronnes tchèques.
+* **Concernant 7 :** Tout litige potentiel entre  FlixBus CZ s.r.o. et un passager doit être porté devant un tribunal de République tchèque.
 
 **4\. Royaume-Uni**
 
