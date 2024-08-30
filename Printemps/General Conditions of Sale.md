@@ -14,9 +14,6 @@
     * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
     * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
 
-* [BEAUTÉ](https://www.printemps.com/fr/fr/last-chance-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-beaute)
-
 * [TOP CATÉGORIES](https://www.printemps.com/fr/fr/last-chance)
     * [Sacs - Femme](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
     * [Baskets - Homme](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
