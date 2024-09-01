@@ -1,0 +1,1 @@
+Nous sommes désolés, cette information n'est pas disponible pour ce pays : Royaume-Uni.
