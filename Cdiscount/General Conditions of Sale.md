@@ -1690,7 +1690,7 @@ Ces avantages peuvent être cumulables avec d’autres avantages présentés sur
   
 **
 
-Les offres de Produits Eligibles sont valables dans la limite des stocks disponibles. La disponibilité des Produits Cdiscount abonnement est indiquée sur chaque fiche produit. 
+Les offres de Produits Eligibles sont valables dans la limite des stocks disponibles. La disponibilit�� des Produits Cdiscount abonnement est indiquée sur chaque fiche produit. 
 
 Si malgré tous nos efforts, un Produit Eligible devenait indisponible en cours d’Abonnement, Cdiscount vous en informera et vous remboursera le prix du produit concerné ainsi que toute somme versée au titre de votre commande. Toutefois, si votre commande contient d’autres produits disponibles, non compris dans votre Abonnement, ceux-ci vous seront livrés et les frais de livraison associés vous seront facturés. 
 
