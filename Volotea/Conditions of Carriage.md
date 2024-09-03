@@ -994,15 +994,18 @@ Veuillez noter que certains types d’armes à feu ne sont pas autorisés dans c
 
 ### ANNEXE III : Passagers à mobilité réduite (PMR)
 
-Dans le domaine du transport aérien, la législation en vigueur définit une personne handicapée ou un passager à mobilité réduite (PMR) comme «toute personne dont la mobilité pour utiliser le transport est réduite en raison d'un handicap physique (sensoriel ou locomoteur, permanent ou temporaire) , handicap ou déficience intellectuelle, ou toute autre cause de handicap, ou âge, et dont la situation nécessite une attention et une adaptation adéquates à leurs besoins particuliers du service mis à la disposition des autres passagers »(art. 2 a) Règlement CE 1107/06).
+**Assistance aux personnes handicapées ou à mobilité réduite**
 
-Le service d'assistance aux personnes à mobilité réduite et qui peut être demandé via la rubrique Assistance spéciale s'adresse aux passagers qui :
+Dans le domaine du transport aérien, la législation en vigueur définit une personne handicapée ou une personne à mobilité réduite (PMR) comme « toute personne dont la mobilité est réduite, lors de l’usage d’un moyen de transport, en raison de tout handicap physique (sensoriel ou moteur, permanent ou temporaire) ou de tout handicap ou déficience intellectuels, ou de toute autre cause de handicap, ou de l’âge, et dont la situation requiert une attention appropriée et l’adaptation à ses besoins particuliers du service mis à la disposition de tous les passagers » (art. 2 a) Règlement CE 1107/06).
 
-* Ils utilisent un fauteuil roulant
-* Ils sont malvoyants.
-* Avoir une déficience intellectuelle
-* Ils sont handicapés ou malentendants
-* Ils voyagent avec des chiens d'assistance
+Le service d’assistance aux personnes handicapées et aux personnes à mobilité réduite telles que définies ci-dessus et qui peut être demandé s’adresse aux passagers qui :
+
+* Sont handicapés
+* Utilisent un fauteuil roulant
+* Sont malvoyants ou malentendants
+* Ont une déficience intellectuelle
+* Voyagent avec des chiens d’assistance
+* Sont âgés et dont la situation requiert une attention appropriée
 
 Ce service est gratuit. 
 
