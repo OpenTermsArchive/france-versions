@@ -30,7 +30,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/last-chance/mrk/SAISON+1865)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
-    * [Voir Tout](https://www.printemps.com/fr/fr/vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
+    * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes)
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes_soiree)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=top_tshirts)
