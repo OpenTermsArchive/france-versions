@@ -30,7 +30,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/last-chance/mrk/SAISON+1865)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
-    * [Voir Tout](https://www.printemps.com/fr/fr/vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
+    * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes)
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes_soiree)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=top_tshirts)
@@ -75,7 +75,7 @@
     * [Voir Tout](https://www.printemps.com/fr/fr/baskets-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_baskets)
     * [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets_luxe)
     * [Baskets Blanches](https://www.printemps.com/fr/fr/baskets-femme/col/Blanc?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets_blanches)
-    * [Sneakers du moment](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=nav-femme&ap_campaign=sneakers_du_moment)
+    * [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-f?ap_source=anico&ap_medium=nav-femme&ap_campaign=sneakers_du_moment)
 
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bijoux)
     * [Voir Tout](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_bijoux)
@@ -139,9 +139,9 @@
     * [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sneakers-du-moment-homme)
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chaussures-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-chaussures-homme)
-    * [Mocassins Et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bottines-homme)
-    * [Sandales Et Mules](https://www.printemps.com/fr/fr/sandales-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sandales-mules-homme)
+    * [Mocassins Et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme?ap_source=anico&ap_medium=navigation&ap_campaign=derbies-mocassins-homme)
+    * [Bottines](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme/cat0/Bottes/Bottines?ap_source=anico&ap_medium=navigation&ap_campaign=bottines-homme)
+    * [Sandales Et Mules](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme/cat0/Sandales/Mules?ap_source=anico&ap_medium=navigation&ap_campaign=sandales-mules-homme)
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tongs-claquettes-homme)
     * [Espadrilles](https://www.printemps.com/fr/fr/espadrilles-homme?ap_source=anico&ap_medium=navigation&ap_campaign=espadrilles-homme)
 
@@ -152,8 +152,9 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=ceintures-homme)
     * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bijoux-homme)
     * [ÉCharpes](https://www.printemps.com/fr/fr/echarpes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=echarpes-homme)
-    * [Cravates](https://www.printemps.com/fr/fr/cravates-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cravates-bretelles-homme)
+    * [Cravates Et Bretelles](https://www.printemps.com/fr/fr/tous-les-accessoires-homme/cat0/Bretelles/Cravates?ap_source=anico&ap_medium=navigation&ap_campaign=cravates-bretelles-homme)
     * [Gants](https://www.printemps.com/fr/fr/gants-homme?ap_source=anico&ap_medium=navigation&ap_campaign=gants-homme)
+    * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chaussettes-homme)
 
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tous-les-sacs-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-sacs-homme)
@@ -164,7 +165,6 @@
     * [Pochettes](https://www.printemps.com/fr/fr/pochettes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=pochettes-homme)
     * [Porte-Documents](https://www.printemps.com/fr/fr/porte-documents-homme?ap_source=anico&ap_medium=navigation&ap_campaign=porte-documents-homme)
     * [Cabas](https://www.printemps.com/fr/fr/cabas-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cabas-homme)
-    * [Paniers](https://www.printemps.com/fr/fr/paniers-homme?ap_source=anico&ap_medium=navigation&ap_campaign=paniers-homme)
     * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bagages-homme)
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme?ap_source=anico&ap_medium=navigation&ap_campaign=accessoires-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-bananes-homme)
@@ -184,6 +184,7 @@
     
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marques-homme)
+    * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-homme)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme?ap_source=anico&ap_medium=navigation&ap_campaign=ralph-lauren-homme)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme?ap_source=anico&ap_medium=navigation&ap_campaign=stone-island-homme)
     * [Prada](https://www.printemps.com/fr/fr/prada-homme?ap_source=anico&ap_medium=navigation&ap_campaign=prada-homme)
@@ -194,7 +195,6 @@
     * [Palm Angels](https://www.printemps.com/fr/fr/palm-angels-homme?ap_source=anico&ap_medium=navigation&ap_campaign=adidas-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
-    * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-homme)
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
