@@ -7,11 +7,7 @@
 
 ### **PARTIE 1**
 
-  
-
 ### **LES PARCOURS DE VENTE SUR LE SITE E.LECLERC**
-
-  
 
 **ARTICLE 1. DEFINITION**
 
@@ -34,8 +30,6 @@ Dans les présentes conditions générales de vente, les termes employés ci-apr
 **Site** : site e-commerce www.e.leclerc
 
 **Vendeurs Tiers :** vendeurs professionnels proposant des produits à la vente sur la Marketplace du Site
-
-  
 
 **ARTICLE 2. LES TROIS TYPES D'OFFRES PROPOSÉES SUR LE SITE ET LEURS AUTEURS**
 
@@ -97,15 +91,9 @@ Les transactions relatives aux produits proposés par les Centres E.Leclerc et l
 
 LCOMMERCE n'assume aucune garantie ou aucune responsabilité au titre des contrats susvisés, les Centres E.Leclerc et les Vendeurs Tiers étant responsables de la vente de leurs produits, des réclamations et de tout éventuel problème dans le cadre de l'exécution du contrat de vente qu'ils concluent avec les Clients.
 
-  
-
 ### PARTIE 2
 
-  
-
 ### CONDITIONS GENERALES DE VENTE APPLICABLES A L'OFFRE LCOMMERCE ET A L'OFFRE MARKETPLACE
-
-  
 
 **ARTICLE 4. APPLICATION DES CONDITIONS GÉNÉRALES DE VENTE**
 
@@ -203,11 +191,11 @@ Toutefois, le prestataire de service de paiement se réserve le droit d'annuler 
 
 Le prestataire de service de paiement prendra en charge l'authentification 3D Secure si cette fonctionnalité est prévue par la banque du Client et/ou les systèmes de paiement utilisés (Visa, Mastercard, etc.).
 
-**9.2 Paiement en 3x et 4x par CB à partir de 150€ pour le 3x et de 350€ pour le 4x d’achats et jusqu’à 2000€ avec Oney Bank (hors Offres Marketplace)**
+**9.2 Paiement en 3x et 4x par CB à partir de 150€ pour le 3x et de 350€ pour le 4x d’achats et jusqu’à 3000€ avec Oney Bank (hors Offres Marketplace)**
 
 Les dispositions du présent article, ne sont pas valables pour les produits proposés dans le cadre de l'Offre Marketplace.
 
-Notre partenaire Oney Bank (Oney Bank - SA au capital de 51 286 585€ - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 \- www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr) propose une solution de financement dénommée 3x 4x Oney, qui permet de payer les achats de 150€ pour le 3x et de 350€ pour le 4x et jusqu'à 2000€ en cas de paiement par carte bancaire.
+Notre partenaire Oney Bank (Oney Bank - SA au capital de 71 801 205€ - Siège social : 34 avenue de Flandre 59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 \- www.orias.fr - Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr) propose une solution de financement dénommée 3x 4x Oney, qui permet de payer les achats de 150€ pour le 3x et de 350€ pour le 4x et jusqu'à 2000€ en cas de paiement par carte bancaire.
 
 Conditions :
 
@@ -547,8 +535,6 @@ Les prix comprennent le cas échéant le coût de l'éco-participation à la cha
 **19.1** Indépendamment de la garantie commerciale, LCOMMERCE ou le Vendeur Tiers concerné est tenu aux défauts de conformité des produits, y compris ceux intégrant des contenus numériques, dans les conditions des articles L. 217-3 et suivants du Code de la consommation et des défauts cachés de la chose vendue dans les conditions prévues aux articles 1641 et suivants du Code civil.
 
 19.1.1 Dispositions applicables aux contrats de vente de biens meubles corporels.
-
-  
 
 Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
