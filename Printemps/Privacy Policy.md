@@ -289,7 +289,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme)
-    * [Ami Paris](https://www.printemps.com/fr/fr/amiparis-homme)
+    * [Ami Paris](https://www.printemps.com/fr/fr/univers-ami-paris?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
     * [Givenchy](https://www.printemps.com/fr/fr/givenchy-homme)
 
