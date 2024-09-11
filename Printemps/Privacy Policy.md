@@ -152,7 +152,7 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=ceintures-homme)
     * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bijoux-homme)
     * [ÉCharpes](https://www.printemps.com/fr/fr/echarpes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=echarpes-homme)
-    * [Cravates Et Bretelles](https://www.printemps.com/fr/fr/tous-les-accessoires-homme/cat0/Bretelles/Cravates?ap_source=anico&ap_medium=navigation&ap_campaign=cravates-bretelles-homme)
+    * [Cravates Et Bretelles](https://www.printemps.com/fr/fr/cravates-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cravates-bretelles-homme)
     * [Gants](https://www.printemps.com/fr/fr/gants-homme?ap_source=anico&ap_medium=navigation&ap_campaign=gants-homme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chaussettes-homme)
 
@@ -314,7 +314,7 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-ami-paris?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-homme)
-*  [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg) Last chance](https://www.printemps.com/fr/fr/last-chance)
+* [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg)](https://www.printemps.com/fr/fr/last-chance)
     
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
