@@ -313,7 +313,7 @@
     * [Coperni](https://www.printemps.com/fr/fr/coperni)
     * [Courrèges](https://www.printemps.com/fr/fr/courreges)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island)
-    * [Ami Paris](https://www.printemps.com/fr/fr/amiparis)
+    * [Ami Paris](https://www.printemps.com/fr/fr/univers-ami-paris?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-homme)
 *  [![](https://media-cdn.printemps.com/image/68/5/6629685.jpg) Last chance](https://www.printemps.com/fr/fr/last-chance)
     
 
