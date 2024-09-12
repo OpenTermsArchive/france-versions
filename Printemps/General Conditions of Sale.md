@@ -233,9 +233,9 @@
     
 
 * [INSPIRATIONS](#)
-    * [Préparer sa peau au soleil](https://www.printemps.com/fr/fr/plein-soleil?ap_source=anico&ap_medium=nav-beaute&ap_campaign=soleil)
-    * [Formats voyage](https://www.printemps.com/fr/fr/petits-formats?ap_source=anico&ap_medium=nav-beaute&ap_campaign=formats-voyage)
-    * [Parfums d'été](https://www.printemps.com/fr/fr/parfums-ete?ap_source=anico&ap_medium=navigation&ap_campaign=parfums-ete)
+    * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
+    * [Makeup de rentrée](https://www.printemps.com/fr/fr/maquillage-naturel?ap_source=anico&ap_medium=nav-beaute&ap_campaign=makeup_naturel)
+    * [Concentré de bonne mine](https://www.printemps.com/fr/fr/bonne-mine?ap_source=anico&ap_medium=nav-beaute&ap_campaign=bonne_mine)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nos-concepts)
 * [SÉLECTIONS](#)
     * [Parfums best-sellers](https://www.printemps.com/fr/fr/parfums-bestsellers?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfums-best)
