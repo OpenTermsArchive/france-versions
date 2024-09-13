@@ -31,6 +31,7 @@
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
+    * [Luxe et créateurs](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
     * [Robes](https://www.printemps.com/fr/fr/robes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes)
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes_soiree)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=top_tshirts)
