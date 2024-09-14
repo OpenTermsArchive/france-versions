@@ -197,13 +197,13 @@ Client ClubClient non membre du ClubPetit Produit
 | --- |
 | Offert |
 | Gratuit dès 29€ d’achats  <br>Sinon 3,99€ |
-| Gratuit dès 69€ d’achats  <br>Sinon 6,99€ |
+| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
 
 |     |
 | --- |
 | Offert |
 | Gratuit dès 29€ d’achats  <br>Sinon 3,99€ |
-| Gratuit dès 79€ d’achats  <br>Sinon 7,99€ |
+| Gratuit dès 59€ d’achats  <br>Sinon 5,99€ |
 
 Produit encombrant  
 \*certains Produits ne peuvent bénéficier de la livraison en Points Relais
@@ -216,12 +216,12 @@ Produit encombrant
 |     |
 | --- |
 | Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
-| Gratuit dès 99€ d’achats  <br>Sinon 7,99€ |
+| Gratuit dès 79€ d’achats  <br>Sinon 6,99€ |
 
 |     |
 | --- |
 | Gratuit dès 49€ d’achats  <br>Sinon 4,99€ |
-| Gratuit dès 99€ d’achats  <br>Sinon 8,99€ |
+| Gratuit dès 79€ d’achats  <br>Sinon 6,99€ |
 
 Produit très encombrant  
 \*certains Produits ne peuvent bénéficier de la livraison en Points RelaisLivré à domicile (prix à partir de)29,99€29,99€
@@ -452,7 +452,7 @@ Pour toute question relative à la norme Européenne REACH, veuillez nous contac
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/35448/695985413/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/695985413/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
+![https://media.vertbaudet.fr/medias/44/0/35448/503962102/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/503962102/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
 La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
