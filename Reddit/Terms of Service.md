@@ -3,11 +3,6 @@ Le Contrat d’Utilisation de Reddit
 
 Effectif depuis le 16 septembre 2024. Relu le 16 août 2024
 
-|     |     |     |
-| --- | --- | --- |
-|     | Nous avons mis à jour notre contrat d'utilisation. Veuillez y jeter un œil avant que les modifications n'entrent en vigueur le 16 septembre 2024.  <br>  <br>Cette page constitue l'accord d'utilisation mis à jour ; pour la version en vigueur jusqu'au 16 septembre 2024 [cliquez ici](https://www.redditinc.com/fr-fr/policies/user-agreement-february-15-2024-fr-fr). |     |
-| ‍   |
-
 **Reddit alimente des centaines de milliers de communautés différentes en ligne. Ce Contrat d’utilisation et votre conduite rendent cela possible.**
 
 * Si vous résidez aux États-Unis ou en dehors de l’Espace économique européen (« **EEE** »), du Royaume-Uni et de la Suisse, vos conditions sont disponibles [ici](#bonjour-aux-membres-de-reddit-et-aux-internautes-).
