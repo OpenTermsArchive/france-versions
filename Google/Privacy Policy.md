@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 28 mars 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20240328/kqt85t47/google_privacy_policy_fr_eu.pdf)
+À compter du 16 septembre 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20240916/pe84lsmf/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -452,6 +452,7 @@ Les avis de confidentialité suivants fournissent des informations supplémentai
 
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=fr)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
+* [Applications Gemini](https://support.google.com/gemini/answer/13594961?hl=fr#privacy_notice)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
 * [Read Along](https://ssl.gstatic.com/seekh/intl/fr/privacy)
