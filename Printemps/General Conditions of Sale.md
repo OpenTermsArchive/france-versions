@@ -232,6 +232,8 @@
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=tout-beaute)
     
+* [Beauty week](https://www.printemps.com/fr/fr/offre-beaute)
+    
 
 * [INSPIRATIONS](#)
     * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
