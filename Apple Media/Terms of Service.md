@@ -1,8 +1,7 @@
 Conditions générales des services multimédias Apple
+---------------------------------------------------
 
-  
-
-Les présentes conditions générales constituent un contrat entre vous et Apple (le « Contrat »). Veuillez lire attentivement le Contrat. 
+Les présentes conditions générales constituent un contrat entre vous et Apple (le « Contrat »). Veuillez lire attentivement le Contrat.   
 
 TABLE DES MATIÈRES
 
@@ -72,7 +71,7 @@ Exception au droit de résiliation : Vous ne pouvez pas annuler votre commande 
 
 Modèle de formulaire d’annulation :
 
-\- Destinataire : Apple Distribution International Ltd., iTunes Store Customer Support, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, [rightofwithdrawal@apple.com](mailto:rightofwithdrawal@apple.com) :
+\- Destinataire : Apple Distribution International Ltd., iTunes Store Customer Support, Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, rightofwithdrawal@apple.com :
 
 Je viens par la présente vous aviser que je me retire de mon contrat pour ce qui suit :
 
@@ -396,7 +395,7 @@ Cupertino, CA 95014, États-Unis
 
 Téléphone : 408.996.1010
 
-E-mail : [copyrightnotices@apple.com](mailto:copyrightnotices@apple.com) 
+E-mail : copyrightnotices@apple.com
 
 Apple a adopté une politique lui permettant, lorsque la situation le justifie, de désactiver et/ou de résilier les comptes des utilisateurs qui ont enfreint de manière répétée les droits d’auteur d’autrui ou qui ont fait l’objet d’avertissements de violation supposée de manière répétée. Dans le cadre de la mise en œuvre de cette politique, Apple peut, à sa seule discrétion, suspendre, désactiver et/ou résilier les comptes des utilisateurs qui ont été identifiés comme ayant pris part de manière répétée à des activités de violation ou pour d’autres raisons associées.
 
