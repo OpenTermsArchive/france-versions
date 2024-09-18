@@ -304,11 +304,11 @@ Les animaux doivent être convenablement installés dans une caisse et accompagn
 
 **8.9.4.**Sur les vols à destination et en provenance des États-Unis d’Amérique, Austrian Airlines garantit, dans le cadre spécifié par la Section 382 du 14 CFR et les autres spécifications légales, le transport gratuit d’un chien d’assistance par une personne handicapée, si l’accompagnement par un animal d’assistance est nécessaire afin de soutenir le passager lors de l’exécution de travaux ou de tâches en sa faveur. Pour le transport, les conditions applicables peuvent être consultées à l’adresse suivante :
 
-[Voyager avec des animaux - chiens d’assistance](https://www.austrian.com/fr/fr/travelling-with-animals#assistant-dogs)
+[Voyager avec des animaux - chiens d’assistance](https://www.austrian.com/fr/fr/reisen-mit-tieren#assistant-dogs)
 
 Austrian Airlines n’accepte que les chiens d’assistance. Un passager handicapé qui voyage avec un chien d’assistance est entièrement responsable de la sécurité, de la santé, du bien-être et du comportement du chien d’assistance. Cela s’applique également à l’interaction du chien d’assistance avec les autres passagers et les membres de l’équipage lorsqu’il se trouve à bord de l’appareil ou dans la zone d’embarquement. Un passager à mobilité réduite qui voyage avec un chien d’assistance est seul responsable du respect de toutes les lois, réglementations et exigences gouvernementales applicables dans le pays, l’État ou le territoire à partir duquel et/ou vers lequel le chien d’assistance est transporté, et/ou des lois et réglementations qui peuvent s’appliquer à une destination intermédiaire du passager. Ceci concerne en particulier les certificats de santé, les permis et les vaccins requis. Le passager est également responsable des dépenses encourues ou des conséquences résultant d’un manquement à ces lois et réglementations, ce qui peut inclure le placement du chien d’assistance en quarantaine à l’arrivée.
 
-[Voyager avec des animaux - chiens d’assistance](https://www.austrian.com/fr/fr/travelling-with-animals#assistant-dogs)
+[Voyager avec des animaux - chiens d’assistance](https://www.austrian.com/fr/fr/reisen-mit-tieren#assistant-dogs)
 
 **8.9.5.** Veuillez noter que, dans l’objectif d’opérer un vol en toute sûreté et sans interruption, votre animal doit être entraîné pour se comporter adéquatement dans un lieu public. Nous autorisons votre animal à voyager avec vous en cabine uniquement à la condition qu’il soit obéissant et sache se comporter correctement. Si le comportement de votre animal n’est pas approprié, il peut être transporté en soute (sous réserve de la disponibilité d’une cage de transport), ou nous pouvons refuser le transport.
 
