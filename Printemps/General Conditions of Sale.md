@@ -256,6 +256,28 @@
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
 
+* [FEMME](https://www.printemps.com/fr/fr/outlet-braderie-femme?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/outlet-braderie-femme?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-voirtout-femme)
+    * [Sacs](https://www.printemps.com/fr/fr/outlet-braderie-femme/esp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-sacs-femme)
+    * [Vêtements](https://www.printemps.com/fr/fr/outlet-braderie-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-vetements-femme)
+    * [Chaussures](https://www.printemps.com/fr/fr/outlet-braderie-femme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=chaussures-femme)
+    * [Accessoires](https://www.printemps.com/fr/fr/outlet-braderie-femmeesp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=cabas-homme)
+
+* [HOMME](https://www.printemps.com/fr/fr/outlet-braderie-homme?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/outlet-braderie-homme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-outlet-homme)
+    * [Vêtements](https://www.printemps.com/fr/fr/outlet-braderie-homme/estp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-pap-homme)
+    * [Chaussures](https://www.printemps.com/fr/fr/outlet-braderie-homme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-chaussures-homme)
+    * [Sacs](https://www.printemps.com/fr/fr/outlet-braderie-hommeesp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-sacs-homme)
+    * [Accessoires](https://www.printemps.com/fr/fr/outlet-braderie-homme/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-access-homme)
+
+* [TOP MARQUES](https://www.printemps.com/fr/fr/outlet-braderie)
+    * [Alexander McQueen](https://www.printemps.com/fr/fr/outlet-braderie/mrk/ALEXANDER+MCQUEEN?ap_source=anico&ap_medium=navigation&ap_campaign=amcqueen-outlet)
+    * [Bottega Veneta](https://www.printemps.com/fr/fr/outlet-braderie/mrk//BOTTEGA+VENETA?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-bottegaveneta)
+    * [Coperni](https://www.printemps.com/fr/fr/outlet-braderie/mrk/COPERNI?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-homme)
+    * [Maison Margiela](https://www.printemps.com/fr/fr/outlet-braderie/mrk/MAISON+MARGIELA?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-homme)
+    * [Palm Angels](https://www.printemps.com/fr/fr/outlet-braderie/mrk/PALM+ANGELS?ap_source=anico&ap_medium=navigation&ap_campaign=palmangels-outlet)
+    * [Saison 1865](https://www.printemps.com/fr/fr/outlet-braderie/mrk/SAISON+1865?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-outlet)
+
 * [COLLABORATIONS](#)
     * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni)
     * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain)
@@ -315,6 +337,8 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-ami-paris?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-homme)
+* [![](https://media-cdn.printemps.com/image/26/8/6876268.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
