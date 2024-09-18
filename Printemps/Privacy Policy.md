@@ -339,6 +339,8 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-ami-paris?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-homme)
+* [![](https://media-cdn.printemps.com/image/26/8/6876268.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
