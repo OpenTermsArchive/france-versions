@@ -478,9 +478,9 @@ Ecosystem (DEEE) : FR022547\_0565EG
 
 Lors de la commande, les données personnelles feront l'objet d'un traitement informatique.
 
-Vous êtes invité à vous reporter à l'onglet ["Protection de la Vie Privée & Cookies"](https://www.vertbaudet.fr/page/vie-privee.htm) du Site pour obtenir toutes les informations relatives à ce point.
+Vous êtes invité à vous reporter à l'onglet "Protection de la Vie Privée & Cookies" du Site pour obtenir toutes les informations relatives à ce point.
 
-L'acceptation des CGV emporte acceptation des termes de la politique de ["Protection de la Vie Privée & Cookies"](https://www.vertbaudet.fr/page/vie-privee.htm).
+L'acceptation des CGV emporte acceptation des termes de la politique de "Protection de la Vie Privée & Cookies".
 
 12\. Propriété intellectuelle
 -----------------------------
