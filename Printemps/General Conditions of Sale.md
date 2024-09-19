@@ -47,7 +47,7 @@
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs)
     * [Voir Tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_sacs)
     * [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=maroquinerie_luxe)
-    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_sacs)
+    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-auto-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_sacs)
     * [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_iconiques)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_a_main)
     * [Sacs BandouliÈRe](https://www.printemps.com/fr/fr/sacs-bandouliere-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_bandouliere)
@@ -61,7 +61,7 @@
 
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussures)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_chaussures)
-    * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
+    * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-auto-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
     * [Ballerines Et Babies](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Babies/Ballerines?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerines_babies)
     * [Derbies Et Moccassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins?ap_source=anico&ap_medium=nav-femme&ap_campaign=derbies_mocassins)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=escarpins)
@@ -90,7 +90,7 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=ceintures)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussettes)
 
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-auto-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
     * [Puma x Coperni](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=nav-femme&ap_campaign=puma_coperni)
@@ -168,7 +168,7 @@
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme?ap_source=anico&ap_medium=navigation&ap_campaign=accessoires-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-bananes-homme)
 
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-auto-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Officewear](https://www.printemps.com/fr/fr/business-core-homme?ap_source=anico&ap_medium=navigation&ap_campaign=officewear-homme)
