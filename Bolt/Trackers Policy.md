@@ -68,7 +68,7 @@ Les cookies de préférences permettent à notre site web de retenir des informa
 | lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Enregistre quel groupe de serveurs sert le visiteur. Ceci est utilisé dans le contexte de l'équilibrage de charge afin d'optimiser l'expérience utilisateur. | 1 jour | Cookie HTTP |
 | taxifyDriverPortal\_locale | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 
-Statistiques (30)
+Statistiques (28)
 
 Les cookies statistiques nous aident à comprendre comment les visiteurs interagissent avec notre site web par la collecte et la communication d'informations de manière anonyme. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -86,8 +86,6 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | \_hjSessionUser\_# | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "la politique de confidentialité de Hotjar") | Recueille des statistiques sur les visites du site web par l'utilisateur, telles que le nombre de visites, le temps moyen passé sur le site et quelles pages on été consultées. | 1 année | Cookie HTTP |
 | \_hjTLDTest | [Hotjar](https://www.hotjar.com/legal/policies/privacy/ "la politique de confidentialité de Hotjar") | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | Session | Cookie HTTP |
 | \_tt\_enable\_cookie | [TikTok](https://www.tiktok.com/legal/privacy-policy?lang=en "la politique de confidentialité de TikTok") | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | 1 année | Cookie HTTP |
-| c.gif | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "la politique de confidentialité de Microsoft") | Collecte des données concernant la navigation et le comportement de l'utilisateur sur le site web - Cela est utilisé pour compiler des rapports statistiques et des cartes thermiques pour le propriétaire du site web. | Session | Pixel de suivi |
-| CLID | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "la politique de confidentialité de Microsoft") | En attente | 1 année | Cookie HTTP |
 | collect | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Utilisé pour envoyer des données à Google Analytics sur le périphérique et le comportement du visiteur. Suit l'internaute à travers les appareils et les canaux de marketing. | Session | Pixel de suivi |
 | FPAU | bolt.eu | Attribue un identifiant spécifique au visiteur - Cela permet au site Web de déterminer le nombre de visites d'utilisateurs spécifiques à des fins d'analyse et de statistique. | 3 mois | Cookie HTTP |
 | FPID | bolt.eu | Enregistre des données statistiques sur le comportement des internautes sur le site web. Utilisé pour les analyses internes par l'opérateur du site web. | 400 jours | Cookie HTTP |
@@ -100,7 +98,7 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | visited | partners.food.bolt.eu | Identifiant unique de l'utilisateur permettant de le reconnaître aux visites suivantes | Session | Stockage local HTML |
 | vuid | [Vimeo](https://vimeo.com/privacy "la politique de confidentialité de Vimeo") | Recueille des données sur les visites de l'utilisateur sur le site web, telles que les pages qui ont été consultées. | 2 années | Cookie HTTP |
 
-Marketing (62)
+Marketing (55)
 
 Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à travers notre site web. Le but est d'afficher des publicités qui sont pertinentes et intéressantes pour chaque utilisateur individuel. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -117,7 +115,6 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | \-15972802-17eeea | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | En attente | Session | Stockage local HTML |
 | \-8f5314-6fc79280 | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | En attente | Session | Stockage local HTML |
 | ads/ga-audiences | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor's online behaviour across websites. | Session | Pixel de suivi |
-| ANONCHK | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "la politique de confidentialité de Microsoft") | En attente | 1 jour | Cookie HTTP |
 | guest\_id | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Recueille des données relatives aux visites de l'utilisateur du site web, telles que le nombre de visites, le temps moyen passé sur le site et les pages qui ont été chargées, afin de personnaliser et d'améliorer le service Twitter. | 400 jours | Cookie HTTP |
 | guest\_id\_ads | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | Cookie HTTP |
 | guest\_id\_marketing | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Recueille des informations sur le comportement des internautes sur plusieurs sites web. Ces informations sont utilisées sur le site afin d'optimiser la pertinence des publicités. | 400 jours | Cookie HTTP |
@@ -128,9 +125,7 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | lastExternalReferrer | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistant | Stockage local HTML |
 | lastExternalReferrerTime | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Détecte comment l'utilisateur a atteint le site web en enregistrant sa dernière adresse URL. | Persistant | Stockage local HTML |
 | LogsDatabaseV2:V#\|LogsRequestsStore | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Persistant | IndexedDB |
-| MR \[x2\] | [Microsoft](https://privacy.microsoft.com/en-US/privacystatement "la politique de confidentialité de Microsoft") | En attente | 7 jours | Cookie HTTP |
 | muc\_ads | [Twitter Inc.](https://twitter.com/en/privacy "la politique de confidentialité de Twitter Inc.") | Collecte des données sur le comportement et l'interaction des internautes, pour optimiser le site web et rendre la publicité sur le site plus pertinente. | 400 jours | Cookie HTTP |
-| MUID \[x2\] | [Microsoft](https://privacy.microsoft.com/en-US/privacystatement "la politique de confidentialité de Microsoft") | En attente | 1 année | Cookie HTTP |
 | nextId | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Session | Cookie HTTP |
 | NID | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Enregistre un identifiant qui identifie l'appareil de l'utilisateur récurrent. Cet identifiant est utilisé pour des annonces ciblées. | 6 mois | Cookie HTTP |
 | pagead/1p-conversion/# | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Collecte des données sur le comportement des visiteurs à partir de plusieurs sites web afin de présenter des publicités plus pertinentes. Cela permet également au site web de limiter le nombre de fois où la même publicité est présentée au visiteur. | Session | Pixel de suivi |
@@ -140,8 +135,6 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | remote\_sid | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Session | Cookie HTTP |
 | requests | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Session | Cookie HTTP |
 | ServiceWorkerLogsDatabase#SWHealthLog | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Persistant | IndexedDB |
-| SM  | [Microsoft](https://privacy.microsoft.com/en-us/privacystatement "la politique de confidentialité de Microsoft") | En attente | Session | Cookie HTTP |
-| SRM\_B | [Microsoft](https://privacy.microsoft.com/en-US/privacystatement "la politique de confidentialité de Microsoft") | En attente | 1 année | Cookie HTTP |
 | TESTCOOKIESENABLED | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 1 jour | Cookie HTTP |
 | tt\_appInfo | [TikTok](https://www.tiktok.com/legal/privacy-policy?lang=en "la politique de confidentialité de TikTok") | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | Stockage local HTML |
 | tt\_pixel\_session\_index | [TikTok](https://www.tiktok.com/legal/privacy-policy?lang=en "la politique de confidentialité de TikTok") | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | Stockage local HTML |
