@@ -90,7 +90,7 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=ceintures)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussettes)
 
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-auto-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
     * [Puma x Coperni](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=nav-femme&ap_campaign=puma_coperni)
@@ -168,7 +168,7 @@
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme?ap_source=anico&ap_medium=navigation&ap_campaign=accessoires-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-bananes-homme)
 
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-auto-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Officewear](https://www.printemps.com/fr/fr/business-core-homme?ap_source=anico&ap_medium=navigation&ap_campaign=officewear-homme)
