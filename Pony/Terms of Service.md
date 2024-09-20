@@ -16,6 +16,8 @@
 
 [8\. CESSION](https://ponybikes.notion.site/Conditions-G-n-rales-d-Utilisation-f3298308abae47ebab5efebad4c9a407?pvs=25#bb9210ec38b34841bbab82165efb8acb)
 
+Date d’entrée en vigueur : 22-02-2022
+
 Conditions Générales d’Utilisation de l'Application mobile Pony
 ---------------------------------------------------------------
 
