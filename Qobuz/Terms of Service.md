@@ -316,6 +316,8 @@ Néanmoins, en raison de la complexité du réseau Internet, des interruptions d
 
 De même, XANDRIE SA se réserve le droit d'interrompre définitivement une partie ou l'ensemble du Service proposé sur le site, sans préavis ni indemnité en cas de comportement frauduleux ou abusif du client constituant une violation manifeste des CGV et sous réserve d'un préavis de 8 jours dans les autres cas et ne pourra être tenu responsable d'éventuels dommages, de quelque nature qu'ils soient, pouvant résulter de ce fait, à l'exception des livraisons de fichiers défectueux.
 
+Certains enregistrements musicaux sont susceptibles d'être retirés du Service, à la demande des ayants droit notamment, et sans notification préalable. Dans ce cas, les enregistrements musicaux deviendront complètement indisponibles au Téléchargement et à l'écoute en Streaming sur le Service. A compter de la date de retrait, les enregistrements musicaux déjà acquis par le Client ne seront plus disponibles pour un nouveau téléchargement sur ses Périphériques d'écoute.
+
   
 
 **4.         Conditions d’utilisation des offres d’abonnements QOBUZ**  
