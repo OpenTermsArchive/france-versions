@@ -5,9 +5,9 @@ Effectif depuis le 16 septembre 2024. Relu le 16 août 2024
 
 **Reddit alimente des centaines de milliers de communautés différentes en ligne. Ce Contrat d’utilisation et votre conduite rendent cela possible.**
 
-* Si vous résidez aux États-Unis ou en dehors de l’Espace économique européen (« **EEE** »), du Royaume-Uni et de la Suisse, vos conditions sont disponibles [ici](#bonjour-aux-membres-de-reddit-et-aux-internautes-).
+*   Si vous résidez aux États-Unis ou en dehors de l’Espace économique européen (« **EEE** »), du Royaume-Uni et de la Suisse, vos conditions sont disponibles [ici](#bonjour-aux-membres-de-reddit-et-aux-internautes-).
     
-* Si vous résidez dans l’EEE, le Royaume-Uni ou la Suisse, vos conditions sont [ici](#bonjour-aux-membres-de-reddit-et-aux-internautes-2).
+*   Si vous résidez dans l’EEE, le Royaume-Uni ou la Suisse, vos conditions sont [ici](#bonjour-aux-membres-de-reddit-et-aux-internautes-2).
     
 
 * * *
@@ -26,13 +26,13 @@ Toute personne âgée de moins de 13 ans n’est pas autorisée à utiliser les 
   
 En utilisant les Services, vous déclarez que :
 
-* vous êtes âgé d’au moins 13 ans et avez atteint l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
+*   vous êtes âgé d’au moins 13 ans et avez atteint l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
     
-* vous pouvez conclure un contrat contraignant avec Reddit ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepté les présentes Conditions ;
+*   vous pouvez conclure un contrat contraignant avec Reddit ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepté les présentes Conditions ;
     
-* vous n’êtes pas concerné par une interdiction d’utiliser les Services en vertu de toutes les lois applicables ; et
+*   vous n’êtes pas concerné par une interdiction d’utiliser les Services en vertu de toutes les lois applicables ; et
     
-* vous n’avez pas été suspendu ou retiré définitivement des Services.
+*   vous n’avez pas été suspendu ou retiré définitivement des Services.
     
 
 Si vous acceptez les présentes Conditions pour le compte d’une autre entité juridique, y compris une entreprise ou une entité gouvernementale, vous déclarez que vous disposez de l’autorité légale pour lier cette entité aux présentes Conditions.  
@@ -47,11 +47,11 @@ Sous réserve de votre respect complet et ininterrompu des présentes Conditions
   
 Sauf et uniquement dans la mesure où une telle restriction est illicite en vertu de la loi applicable, vous ne pouvez pas, sans notre accord écrit :
 
-* concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
+*   concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
     
-* modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
+*   modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
     
-* accéder aux Services ou au Contenu afin de concevoir un site internet, un produit ou un service similaire ou concurrentiel, sauf si cela est autorisé par des Conditions supplémentaires (telles que définies ci-dessous).
+*   accéder aux Services ou au Contenu afin de concevoir un site internet, un produit ou un service similaire ou concurrentiel, sauf si cela est autorisé par des Conditions supplémentaires (telles que définies ci-dessous).
     
 
 Nous améliorons constamment nos Services. Cela signifie que nous pouvons ajouter ou retirer des fonctionnalités, des produits ou des fonctions ; nous nous efforcerons de vous en informer au préalable, mais cela ne sera pas toujours possible. Nous nous réservons le droit de modifier, suspendre ou interrompre les Services (en tout ou en partie) à tout moment, avec ou sans préavis. Toute future version, mise à jour ou nouvelle fonctionnalité des Services sera soumise aux présentes Conditions, qui pourront être mises à jour de temps à autres. Vous acceptez que nous ne soyons pas responsables envers vous ou envers tout tiers de toute modification, suspension ou interruption des Services ou d’une partie de ceux-ci.  
@@ -95,17 +95,17 @@ Si vous choisissez d’utiliser les Services pour organiser une promotion, y com
 
 Lorsque vous utilisez les Services ou y accédez, vous devez vous conformer aux présentes Conditions ainsi qu’à toutes les lois, règles et réglementations applicables. Veuillez consulter la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy), qui est incorporée par renvoi aux présentes Conditions et en fait partie intégrante, et qui contient les règles de Reddit relatives aux contenus et comportements interdits. En plus de ce qui est interdit dans la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy), vous ne pouvez pas :
 
-* Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d’altérer de quelque manière que ce soit les Services ;
+*   Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d’altérer de quelque manière que ce soit les Services ;
     
-* Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
+*   Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
     
-* Charger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctionnalités en lien avec la sécurité ;
+*   Charger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctionnalités en lien avec la sécurité ;
     
-* Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
+*   Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
     
-* Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition la permission d’indexer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (web scraping) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
+*   Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition la permission d’indexer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (web scraping) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
     
-* Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
+*   Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
     
 
 Nous vous encourageons à [signaler](https://support.reddithelp.com/hc/fr/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un email à [security@reddit.com](mailto:security@reddit.com).
@@ -116,19 +116,19 @@ La modération d’une communauté est une fonction non officielle et volontaire
   
 Si vous choisissez de modérer une communauté :
 
-* Vous acceptez de suivre le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct) ;
+*   Vous acceptez de suivre le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct) ;
     
-* Vous vous engagez, à la réception de signalements liés à un subreddit que vous modérez, à prendre les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou une transmission rapide à Reddit pour examen ;
+*   Vous vous engagez, à la réception de signalements liés à un subreddit que vous modérez, à prendre les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou une transmission rapide à Reddit pour examen ;
     
-* Vous n’êtes pas, et vous ne pouvez pas déclarer être, autorisé à agir au nom de Reddit ;
+*   Vous n’êtes pas, et vous ne pouvez pas déclarer être, autorisé à agir au nom de Reddit ;
     
-* Vous ne pouvez conclure aucun accord avec un tiers au nom de Reddit, ou de tout subreddit que vous modérez, sans notre consentement écrit ;
+*   Vous ne pouvez conclure aucun accord avec un tiers au nom de Reddit, ou de tout subreddit que vous modérez, sans notre consentement écrit ;
     
-* Vous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
+*   Vous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
     
-* Si vous avez accès à des informations non publiques du fait de la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de vos fonctions de modérateur ;
+*   Si vous avez accès à des informations non publiques du fait de la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de vos fonctions de modérateur ;
     
-* Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct).
+*   Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct).
     
 
 Reddit se réserve le droit, sans y être tenue, d’annuler toute action ou décision d’un modérateur si Reddit estime, à sa seule appréciation, que cette action ou décision n’est pas dans l’intérêt de Reddit ou de la communauté Reddit.  
@@ -182,13 +182,13 @@ Nous pouvons apporter des modifications aux présentes Conditions à tout moment
 
 Étant donné que nous offrons différents Services, il peut vous être demandé d’accepter des conditions, des politiques, des lignes directrices ou des règles supplémentaires avant d’utiliser un produit ou un service spécifique proposé par Reddit (collectivement, les « **Conditions supplémentaires** »). Toutes les Conditions supplémentaires sont incorporées par renvoi aux présentes Conditions et en font partie intégrante. Par ailleurs, dans la mesure où des Conditions supplémentaires entrent en conflit avec les présentes Conditions, les Conditions supplémentaires prévalent en ce qui concerne votre utilisation des Services correspondants.
 
-* Si vous utilisez des Services payants, vous devez également accepter le [Contrat relatif à Reddit Premium et aux biens virtuels](https://www.redditinc.com/fr-fr/policies/premium-and-virtual-goods-agreement).
+*   Si vous utilisez des Services payants, vous devez également accepter le [Contrat relatif à Reddit Premium et aux biens virtuels](https://www.redditinc.com/fr-fr/policies/premium-and-virtual-goods-agreement).
     
-* Si vous utilisez des fonctionnalités bêta, vous devez également accepter les [Previews Terms of Use de Reddit](https://www.redditinc.com/policies/previews-terms).
+*   Si vous utilisez des fonctionnalités bêta, vous devez également accepter les [Previews Terms of Use de Reddit](https://www.redditinc.com/policies/previews-terms).
     
-* Si vous utilisez la plateforme en libre-service à des fins publicitaires, vous devez également accepter les [Conditions relatives à la plateforme publicitaire de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+*   Si vous utilisez la plateforme en libre-service à des fins publicitaires, vous devez également accepter les [Conditions relatives à la plateforme publicitaire de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
-* Si vous utilisez l’un de nos Services de développement (y compris nos API), vous devez également accepter les [Developer Terms](https://www.redditinc.com/policies/developer-terms).
+*   Si vous utilisez l’un de nos Services de développement (y compris nos API), vous devez également accepter les [Developer Terms](https://www.redditinc.com/policies/developer-terms).
     
 
 Si vous participez à un programme Reddit soumis à des Conditions supplémentaires (c’est-à-dire nos [Contributor Terms](https://www.redditinc.com/policies/contributor-terms) pour notre Programme de contribution), vous devez également accepter ces Conditions supplémentaires.
@@ -230,13 +230,13 @@ Toute personne âgée de moins de 13 ans n’est pas autorisée à utiliser les 
   
 En utilisant les Services, vous déclarez que :
 
-* vous êtes âgé d’au moins 13 ans et avez atteint l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
+*   vous êtes âgé d’au moins 13 ans et avez atteint l’âge minimum requis par les lois de votre pays de résidence pour accéder aux Services et les utiliser ;
     
-* vous pouvez conclure un contrat contraignant avec Reddit ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepté les présentes Conditions ;
+*   vous pouvez conclure un contrat contraignant avec Reddit ou, si vous avez plus de 13 ans, mais n’avez pas atteint l’âge de la majorité dans votre pays, que votre tuteur légal a examiné et accepté les présentes Conditions ;
     
-* vous n’êtes pas concerné par une interdiction d’utiliser les Services en vertu de toutes les lois applicables ; et
+*   vous n’êtes pas concerné par une interdiction d’utiliser les Services en vertu de toutes les lois applicables ; et
     
-* vous n’avez pas été suspendu ou retiré définitivement des Services.
+*   vous n’avez pas été suspendu ou retiré définitivement des Services.
     
 
 Si vous acceptez les présentes Conditions pour le compte d’une autre entité juridique, y compris une entreprise ou une entité gouvernementale, vous déclarez que vous disposez de l’autorité légale pour lier cette entité aux présentes Conditions.  
@@ -251,11 +251,11 @@ Sous réserve de votre respect complet et ininterrompu des présentes Conditions
   
 Sauf et uniquement dans la mesure où une telle restriction est illicite en vertu de la loi applicable, vous ne pouvez pas, sans notre accord écrit :
 
-* concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
+*   concéder sous licence, vendre, transférer, céder, distribuer, héberger ou exploiter commercialement de toute autre manière les Services ou le Contenu ;
     
-* modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
+*   modifier, préparer des œuvres dérivées, désassembler, décompiler ou procéder à une ingénierie inverse de toute partie des Services ou du Contenu ; ou
     
-* accéder aux Services ou au Contenu afin de concevoir un site internet, un produit ou un service similaire ou concurrentiel, sauf si cela est autorisé par des Conditions supplémentaires (telles que définies ci-dessous).
+*   accéder aux Services ou au Contenu afin de concevoir un site internet, un produit ou un service similaire ou concurrentiel, sauf si cela est autorisé par des Conditions supplémentaires (telles que définies ci-dessous).
     
 
 Nous ne garantissons pas que les Services seront disponibles en permanence ou qu’ils ne seront pas interrompus. Nous améliorons constamment nos Services. Cela signifie que nous pouvons ajouter ou retirer des fonctionnalités, des produits ou des fonctions ; nous nous efforcerons de vous en informer au préalable, mais cela ne sera pas toujours possible. Nous nous réservons le droit de modifier, suspendre ou interrompre les Services (en tout ou en partie) à tout moment, avec ou sans préavis. Toute future version, mise à jour ou nouvelle fonctionnalité des Services sera soumise aux présentes Conditions, qui pourront être mises à jour de temps à autres. Vous acceptez que nous ne soyons pas responsables envers vous ou envers tout tiers de toute modification, suspension ou interruption des Services ou d’une partie de ceux-ci.  
@@ -299,17 +299,17 @@ Si vous choisissez d’utiliser les Services pour organiser une promotion, y com
 
 Lorsque vous utilisez Reddit ou y accédez, vous devez vous conformer aux présentes Conditions ainsi qu’à toutes les lois, règles et réglementations applicables. Veuillez consulter la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy), qui est incorporée par renvoi aux présentes Conditions et en fait partie intégrante, et qui contient les règles de Reddit relatives aux contenus et comportements interdits. En plus de ce qui est interdit dans la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy), vous ne pouvez pas :
 
-* Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d’altérer de quelque manière que ce soit les Services ;
+*   Utiliser les Services d’une manière susceptible d’interférer avec, de désactiver, de perturber, de surcharger ou d’altérer de quelque manière que ce soit les Services ;
     
-* Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
+*   Accéder (ou tenter d’accéder) au Compte d’un autre utilisateur ou à toute partie non publique des Services, y compris les systèmes ou réseaux informatiques connectés aux Services ou utilisés conjointement aux Services ;
     
-* Charger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctionnalités en lien avec la sécurité ;
+*   Charger, transmettre ou distribuer vers ou par le biais des Services tout virus, ver, code malveillant ou autre logiciel destiné à interférer avec les Services, y compris avec ses fonctionnalités en lien avec la sécurité ;
     
-* Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
+*   Utiliser les Services pour violer la loi applicable ou enfreindre les droits de propriété intellectuelle ou tout autre droit de propriété de toute personne ou entité ;
     
-* Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition la permission d’indexer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (web scraping) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
+*   Accéder, rechercher ou collecter des données à partir des Services par quelque moyen que ce soit (automatisé ou autre), sauf si cela est autorisé dans les présentes Conditions ou dans un accord distinct avec Reddit (nous accordons sous condition la permission d’indexer les Services conformément aux paramètres définis dans notre fichier robots.txt ; toutefois, l’extraction de données (web scraping) des Services sans le consentement écrit préalable de Reddit est interdite) ; ou
     
-* Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
+*   Utiliser les Services de toute manière que nous considérons raisonnablement comme un abus ou une fraude à l’égard de Reddit ou de tout système de paiement.
     
 
 Nous vous encourageons à [signaler](https://support.reddithelp.com/hc/fr/requests/new) tout contenu ou comportement qui, selon vous, viole les présentes Conditions ou notre [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy). Nous encourageons également le signalement responsable des vulnérabilités en matière de sécurité. Pour signaler un problème de sécurité, veuillez envoyer un email à [security@reddit.com](mailto:security@reddit.com).
@@ -320,19 +320,19 @@ La modération d’une communauté est une fonction non officielle et volontaire
   
 Si vous choisissez de modérer une communauté :
 
-* Vous acceptez de suivre le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct) ;
+*   Vous acceptez de suivre le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct) ;
     
-* Vous vous engagez, à la réception de signalements liés à un subreddit que vous modérez, à prendre les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou une transmission rapide à Reddit pour examen ;
+*   Vous vous engagez, à la réception de signalements liés à un subreddit que vous modérez, à prendre les mesures appropriées, ce qui peut inclure le retrait du contenu qui enfreint la politique et/ou une transmission rapide à Reddit pour examen ;
     
-* Vous n’êtes pas, et vous ne pouvez pas déclarer être, autorisé à agir au nom de Reddit ;
+*   Vous n’êtes pas, et vous ne pouvez pas déclarer être, autorisé à agir au nom de Reddit ;
     
-* Vous ne pouvez conclure aucun accord avec un tiers au nom de Reddit, ou de tout subreddit que vous modérez, sans notre consentement écrit ;
+*   Vous ne pouvez conclure aucun accord avec un tiers au nom de Reddit, ou de tout subreddit que vous modérez, sans notre consentement écrit ;
     
-* Vous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
+*   Vous ne pouvez pas effectuer des actions de modération en échange de toute forme de rémunération, contrepartie, cadeau ou faveur de la part de tiers ;
     
-* Si vous avez accès à des informations non publiques du fait de la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de vos fonctions de modo ;
+*   Si vous avez accès à des informations non publiques du fait de la modération d’un subreddit, vous n’utiliserez ces informations que dans le cadre de vos fonctions de modo ;
     
-* Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct).
+*   Vous pouvez créer et appliquer des règles pour les subreddits que vous modérez, à condition que ces règles n’entrent pas en conflit avec les présentes Conditions, la [Politique de contenu](https://www.redditinc.com/fr-fr/policies/content-policy) ou le [Code de conduite de la modération](https://www.redditinc.com/fr-fr/policies/moderator-code-of-conduct).
     
 
 Reddit se réserve le droit, sans y être tenue, d’annuler toute action ou décision d’un modérateur si Reddit estime, à sa seule appréciation, que cette action ou décision n’est pas dans l’intérêt de Reddit ou de la communauté Reddit.  
@@ -374,13 +374,13 @@ Nous pouvons apporter des modifications aux présentes Conditions à tout moment
 
 Étant donné que nous offrons différents Services, il peut vous être demandé d’accepter des conditions, des politiques, des lignes directrices ou des règles supplémentaires avant d’utiliser un produit ou un service spécifique proposé par Reddit (collectivement, les « **Conditions supplémentaires** »). Toutes les Conditions supplémentaires sont incorporées par renvoi aux présentes Conditions et en font partie intégrante. Par ailleurs, dans la mesure où des Conditions supplémentaires entrent en conflit avec les présentes Conditions, les Conditions supplémentaires prévalent en ce qui concerne votre utilisation des Services correspondants.
 
-* Si vous utilisez des Services payants, vous devez également accepter le [Contrat relatif à Reddit Premium et aux biens virtuels](https://www.redditinc.com/fr-fr/policies/premium-and-virtual-goods-agreement).
+*   Si vous utilisez des Services payants, vous devez également accepter le [Contrat relatif à Reddit Premium et aux biens virtuels](https://www.redditinc.com/fr-fr/policies/premium-and-virtual-goods-agreement).
     
-* Si vous utilisez des fonctionnalités bêta, vous devez également accepter les [Previews Terms of Use de Reddit](https://www.redditinc.com/policies/previews-terms).
+*   Si vous utilisez des fonctionnalités bêta, vous devez également accepter les [Previews Terms of Use de Reddit](https://www.redditinc.com/policies/previews-terms).
     
-* Si vous utilisez la plateforme en libre-service à des fins publicitaires, vous devez également accepter les [Conditions relatives à la plateforme publicitaire de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+*   Si vous utilisez la plateforme en libre-service à des fins publicitaires, vous devez également accepter les [Conditions relatives à la plateforme publicitaire de Reddit](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
-* Si vous utilisez l’un de nos Services de développement (y compris nos API), vous devez également accepter les [Developer Terms](https://www.redditinc.com/policies/developer-terms).
+*   Si vous utilisez l’un de nos Services de développement (y compris nos API), vous devez également accepter les [Developer Terms](https://www.redditinc.com/policies/developer-terms).
     
 
 Si vous participez à un programme Reddit soumis à des Conditions supplémentaires (c’est-à-dire nos [Contributor Terms](https://www.redditinc.com/policies/contributor-terms) pour notre Programme de contribution), vous devez également accepter ces Conditions supplémentaires
