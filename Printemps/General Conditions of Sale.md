@@ -206,7 +206,7 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/56/9/6890569.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+* [![](https://media-cdn.printemps.com/image/56/9/6890569.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
     
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
