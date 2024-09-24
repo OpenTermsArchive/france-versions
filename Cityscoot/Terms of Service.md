@@ -6,7 +6,7 @@ Dernière mise à jour le 1 février 2023
 
 Les présentes Conditions Générales d’Utilisation du Service (ci-après nommées « CGUS ») définissent, à compter de leur acceptation par le Client, les conditions d’accès et d’utilisation du Service CITYSCOOT, tels que ces termes sont définis ci-après.
 
-CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro 800 862 021, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
+CITYSCOOT est un service de mobilité électrique proposé par la société CITYSCOOT, société par actions simplifiée au capital de 16 100 903,80 euros, immatriculée au RCS de Paris sous le numéro, dont le siège social est situé 8 rue Bayen, 75017 Paris. Ce service a pour objet de proposer à ses Utilisateurs une offre de déplacement en scooter électrique par le recours à une Location courte durée de scooters électriques en libre-service. Toute utilisation du Service CITYSCOOT implique le respect des CGUS par l’Utilisateur.
 
 Les présentes CGUS sont destinées aux Utilisateurs du Service CITYSCOOT sur le territoire français. Les Utilisateurs souhaitant accéder au Service dans un autre pays sont invités à consulter les CGUS du pays concerné sur le Site Internet [www.cityscoot.eu](https://www.cityscoot.eu/) et à les accepter dans l’Application. Par ailleurs, les Utilisateurs souhaitant accéder au Service CITYSCOOT dans une autre ville seront susceptibles d’être invités dans l’Application à lire et accepter les CGUS applicables dans cette ville.
 
@@ -176,7 +176,7 @@ L’Inscription est sans limite de durée tant que l’Utilisateur respecte l’
 
 Le Service étant sans engagement, l’Utilisateur est libre de cesser d’utiliser le Service à tout moment.
 
-À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/#8eede1e0faefedfaceede7faf7fdede1e1faa0ebfb). Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de CITYSCOOT, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
+À cet effet, l’Utilisateur peut se désinscrire à tout moment en faisant la demande au Service Client par courrier électronique à. Le solde de minutes prépayées ou offertes, s’il est positif, ainsi que tout autre avantage acquis par l’Utilisateur, le cas échéant, au titre du Programme de Fidélité de CITYSCOOT, seront définitivement perdus par l’Utilisateur et ne lui seront en aucun cas remboursés.
 
 La désinscription n’est effective qu’à compter de l’acquittement complet de toutes les sommes dues par l’Utilisateur à CITYSCOOT.
 
@@ -184,7 +184,7 @@ La désinscription n’est effective qu’à compter de l’acquittement comple
 
 L’Inscription est strictement personnelle au Client et incessible.
 
-Le Client s’engage à informer dans les plus brefs délais le Service Client de Cityscoot au **09 69 36 20 26** (ou par courrier électronique à [\[email protected\]](https://www.cityscoot.eu/#44272b2a3025273004272d303d37272b2b306a2131)) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
+Le Client s’engage à informer dans les plus brefs délais le Service Client de Cityscoot au (ou par courrier électronique à ) et à lui adresser le cas échéant le récépissé de son dépôt de plainte en cas de perte et/ou de vol du ou des smartphone(s) sur le(s)quel(s) il a téléchargé l’Application, en cas d’utilisation par un tiers de ses Identifiants ou en cas de perte de leur caractère confidentiel pour quelque raison que ce soit.
 
 **ARTICLE 6 – DROIT DE RÉTRACTATION**
 
@@ -192,7 +192,7 @@ En acceptant les présentes CGUS, l’Utilisateur accepte que le contrat entre l
 
 En cas d’achat de « pack minutes », l’Utilisateur a la faculté d’exercer un droit de rétractation dans un délai de quatorze (14) jours à compter de la date de l’achat.
 
-Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation disponible ici, dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse [\[email protected\]](https://www.cityscoot.eu/#472428293326243307242e333e3424282833692232).
+Dans ce cas, l’Utilisateur informe le Service Client de sa décision de se rétracter en retournant, avant l’expiration du délai susvisé, le formulaire de rétractation disponible ici, dûment rempli, ou toute autre déclaration dénuée d’ambiguïté exprimant sa volonté de se rétracter, à l’adresse.
 
 Si l’utilisation du Service n’a pas commencé au moment où l’Utilisateur exerce son droit de rétractation, l’Utilisateur est intégralement remboursé du montant du « pack minutes » payé.
 
@@ -229,9 +229,9 @@ L’Utilisateur peut, sur l’Application et sur le Site Internet (à partir de 
 
 Les Utilisateurs peuvent contacter le Service Client comme suit :
 
-Par téléphone au **09 69 36 20 26**, de 8h à 23h et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
+Par téléphone au , de 8h à 23h et 7jours/7, notamment en cas de sinistre, de dysfonctionnement du Service, pour signaler un incident technique.
 
-Par courrier électronique à [**\[email protected\]**](https://www.cityscoot.eu/#12717d7c6673716652717b666b61717d7d663c7767) pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
+Par courrier électronique à pour poser une question liée à son Inscription, sa facturation, son compte CITYSCOOT, ou faire part d’un problème technique rencontré sur le Scooter ou sur l’Application de CITYSCOOT, ou plus généralement apporter un commentaire.
 
 **7.3 Informations sur les Scooters et la Réservation**
 
@@ -341,7 +341,7 @@ CITYSCOOT se réserve le droit de suspendre l’accès au Service sans préavis 
 
 7.5.1 Déclenchement de la procédure
 
-La procédure d’assistance doit être déclenchée par l’Utilisateur en cas d’accident corporel et/ou matériel, de panne ou de crevaison par un appel au Service Client au **09 69 36 20 26** (coût d’un appel local depuis un portable français).
+La procédure d’assistance doit être déclenchée par l’Utilisateur en cas d’accident corporel et/ou matériel, de panne ou de crevaison par un appel au Service Client au (coût d’un appel local depuis un portable français).
 
 La procédure d’assistance implique des démarches et diagnostics de CITYSCOOT auxquelles l’Utilisateur apportera son concours.
 
@@ -349,7 +349,7 @@ La procédure d’assistance implique des démarches et diagnostics de CITYSCOOT
 
 1. a) Accident corporel ou matériel
 
-L’Utilisateur doit obligatoirement contacter par téléphone le Service Client CITYSCOOT au **09 69 36 20 26** quelle que soit la nature de l’accident, sous réserve qu’il ne soit pas victime d’un accident corporel l’empêchant de satisfaire à cette obligation.
+L’Utilisateur doit obligatoirement contacter par téléphone le Service Client CITYSCOOT au quelle que soit la nature de l’accident, sous réserve qu’il ne soit pas victime d’un accident corporel l’empêchant de satisfaire à cette obligation.
 
 En cas d’accident corporel, l’Utilisateur doit en priorité contacter les services d’urgence (SAMU, pompiers) ainsi que les services de police.
 
@@ -360,12 +360,12 @@ Dans la mesure où l’Utilisateur est dans la capacité de le faire, il :
 * Reste à proximité du Scooter jusqu’à sa prise en charge par les services de secours.
 * Rédige lisiblement, même en cas de seuls dégâts matériels n’impliquant pas un tiers, un constat amiable (dont un exemplaire vierge est présent sous la selle du Scooter) détaillant les circonstances de l’accident, contresigné le cas échéant par le ou les conducteurs du ou des autres véhicules impliqués dans l’accident.
 * Envoie le constat amiable par courrier postal, dans les plus brefs délais et au maximum dans les 5 jours ouvrés après la survenance du sinistre, à l’adresse suivante : CITYSCOOT, Service Sinistres, 8 rue Bayen, 75017 Paris.
-* Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ([\[email protected\]](https://www.cityscoot.eu/#6e0d01001a0f0d1a2e0d071a171d0d01011a400b1b)) ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
+* Indique au Service Client les circonstances exactes du sinistre, ses causes connues ou présumées, les noms et adresses des personnes lésées et si possible des témoins, par courrier électronique ou par courrier simple à CITYSCOOT, 8 rue Bayen, 75017 Paris.
 * Collabore avec l’assureur de CITYSCOOT par tous moyens requis par l’assureur, en fournissant des informations sincères, justes et précises.
 
 1. b) Panne du Scooter ou crevaison
 
-L’Utilisateur doit obligatoirement contacter immédiatement le Service Client au **09 69 30 26 26** quelle que soit la nature de la panne.
+L’Utilisateur doit obligatoirement contacter immédiatement le Service Client au quelle que soit la nature de la panne.
 
 L’Utilisateur :
 
@@ -375,7 +375,7 @@ L’Utilisateur :
 
 1. c) Tentative de vol, vol du Scooter ou vandalisme
 
-En cas de vol du Scooter ou de vandalisme survenu pendant la Location, l’Utilisateur doit obligatoirement contacter immédiatement le Service Client au **09 69 36 20 26**.
+En cas de vol du Scooter ou de vandalisme survenu pendant la Location, l’Utilisateur doit obligatoirement contacter immédiatement le Service Client au .
 
 Le Service Client indiquera à l’Utilisateur la marche à suivre en fonction du diagnostic effectué.
 
@@ -446,7 +446,7 @@ L’Utilisateur doit utiliser le Scooter en conducteur responsable, conformémen
 
 En outre, l’Utilisateur doit prendre soin du Scooter, s’assurer qu’il est en sécurité et stationné en lieu sûr et autorisé aux deux roues motorisés électriques quand il ne l’utilise pas, et utiliser tous éléments de sécurité obligatoires fournis avec le Scooter.
 
-L’Utilisateur est tenu de vérifier, lors de l’accès au Scooter, la présence des Accessoires du Scooter et de ses Documents de Bord et à défaut, il devra en avertir immédiatement le Service Client en utilisant le numéro d’assistance **09 69 36 20 26**.
+L’Utilisateur est tenu de vérifier, lors de l’accès au Scooter, la présence des Accessoires du Scooter et de ses Documents de Bord et à défaut, il devra en avertir immédiatement le Service Client en utilisant le numéro d’assistance .
 
 Il lui est par ailleurs interdit de fumer, boire et manger ou téléphoner une fois sur le Scooter.
 
@@ -1010,9 +1010,7 @@ Ces dispositions sont applicables à tout consommateur c’est-à-dire à toute 
 
 1. Qui est responsable de vos données ?
 
-Allianz IARD. Entreprise régie par le Code des assurances. Société anonyme au capital de 991 967 200 €. Siège social :1, cours Michelet-CS 30051- 92076 Paris la Défense cedex. 542 110 291 RCS Nanterre
-
-[\[email protected\]](https://www.cityscoot.eu/#6b02050d0419060a1f021a1e0e0e1f0702090e191f0e2b0a0707020a0511450d19)
+Allianz IARD. Entreprise régie par le Code des assurances. Société anonyme au capital de.
 
 2. Pourquoi recueillons-nous vos données personnelles ?
 
@@ -1093,7 +1091,7 @@ En cas de réclamation et si notre réponse ne vous satisfait pas, vous pouvez v
 
 Question, réclamation, demande de modification… Pour toutes ces situations, c’est très simple : il vous suffit d’écrire :
 
-par mail à [\[email protected\]](https://www.cityscoot.eu/),
+par mail à ,
 
 par courrier à l’adresse Allianz – Informatique et Libertés – Case courrier S1805 – 1 cours Michelet – CS 30051 –
 
@@ -1387,7 +1385,7 @@ ou bien
 
 * en téléchargeant [le formulaire de saisine](https://www.mediateur-cnpa.fr/docs/pdf/Formulaire_de_saisine_mediateur_CNPA_NOV2020.pdf) à envoyer :
 
-par courrier à : M. le Médiateur du Conseil national des professions de l’automobile, 43 bis, route de Vaugirard – CS 80016 – 92197 Meudon Cedex ou par courriel à : [\[email protected\]](https://www.cityscoot.eu/#046961606d6570617176446961606d657061717629676a74652a6276)
+par courrier à : M. le Médiateur du Conseil national des professions de l’automobile, 43 bis, route de Vaugirard – CS 80016 – 92197 Meudon Cedex ou par courriel à :
 
 Si la procédure de médiation n’a pu aboutir à un accord amiable entre les parties, le différend découlant de l’Inscription au Service CITYSCOOT ou de son utilisation sera soumis à la compétence exclusive des tribunaux français.
 
@@ -1439,7 +1437,7 @@ Les Utilisateurs Uber n’ont pas d’Espace Personnel dans l’Application de C
 
 L’article 7.2 est CGUS est complété comme suit :
 
-En cas de sinistre, de dysfonctionnement du Service, ou d’incident technique, l’Utilisateur Uber est invité à prendre contact avec le service client de CITYSCOOT par téléphone au **09 69 36 20 26**, 24h/24 et 7jours/7.
+En cas de sinistre, de dysfonctionnement du Service, ou d’incident technique, l’Utilisateur Uber est invité à prendre contact avec le service client de CITYSCOOT par téléphone au , 24h/24 et 7jours/7.
 
 Pour toute question liée à son compte Uber, l’application d’Uber, la facturation et le paiement du Service, l’Utilisateur Uber est invité à prendre contact avec le service client d’Uber.
 
