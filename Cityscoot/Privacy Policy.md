@@ -3,7 +3,7 @@ Politique de confidentialité
 
 Dernière mise à jour le 30 novembre 2023
 
-Le Site www.cityscoot.eu, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro 800 862 021 dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington 52, CAP 20142, enregistré sous le N° MI – 2525958 pour l’Italie (ci-après « Cityscoot » ou « Nous »).
+Le Site www.cityscoot.eu, l’Application et le service Cityscoot (ci-après « nos Services ») sont proposés par la société CITYSCOOT, société par actions simplifiées, immatriculée au RCS de Paris sous le numéro dont le siège social est situé 8 rue Bayen, 75017 Paris pour la France et CITYSCOOT ITALIA S.R.L. (société en liquidation), domiciliée à Milan (Italie), Via Washington , enregistré sous le N° MI – pour l’Italie (ci-après « Cityscoot » ou « Nous »).
 
 Cityscoot s’engage à protéger la vie privée de tous les visiteurs, Clients et Utilisateurs de ses Services. Elle s’engage à ce que la collecte et le traitement de vos données soient effectués conformément au Règlement Général sur la Protection des Données (RGPD) et la Loi dite « Informatique et Libertés ».
 
@@ -131,7 +131,7 @@ Les transferts des données hors UE
 
 Cityscoot est susceptible de recourir notamment à un service de stockage et partage de fichiers et à un prestataire de gestion des droits, dont les serveurs ou systèmes peuvent être situés en dehors de l’Espace Economique Européen (EEE), entraînant le transfert des Données en dehors du territoire de l’EEE.
 
-Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ([\[email protected\]](https://www.cityscoot.eu/#0c7c7e657a6d6f754c6f6578757f6f636378226979)) ou auprès de notre délégué à la protection des données ([\[email protected\]](https://www.cityscoot.eu/#4125312e012228353832222e2e356f2434)).
+Ces transferts sont encadrés par des garanties appropriées de maintien de la confidentialité, de l’intégrité et de la sécurité des Données conformément à la Réglementation Informatique et Libertés. Vous pouvez obtenir copie des garanties de protection en contactant le responsable de traitement par voie électronique ou auprès de notre délégué à la protection des données .
 
 Les Informations issues des Cookies et technologies similaires peuvent être transférées hors Union Européenne en vue de leur hébergement et de leur traitement dans le cadre des finalités publicitaires ou de mesures d’audience. Vous trouverez plus d’informations sur ce point pour chaque partenaire concerné dans la [Politique de Gestion des Cookies](https://www.cityscoot.eu/gestion-des-cookies).
 
@@ -164,7 +164,7 @@ Pour plus d’information : [https://www.cnil.fr/fr/les-droits-pour-maitriser-
 
 **Exercer ses droits**
 
-L’exercice de ces droits s’effectue à tout moment, auprès de Cityscoot, à l’aide d’une pièce d’identité par voie électronique : [\[email protected\]](https://www.cityscoot.eu/#92e2e0fbe4f3f1ebd2f1fbe6ebe1f1fdfde6bcf7e7).
+L’exercice de ces droits s’effectue à tout moment, auprès de Cityscoot, à l’aide d’une pièce d’identité par voie électronique :
 
 **Réclamation auprès de la CNIL**
 
