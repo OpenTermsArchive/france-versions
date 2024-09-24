@@ -298,10 +298,10 @@
     * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni)
     * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain)
 * [NOUVELLES MARQUES](#)
-    * [Camper](https://www.printemps.com/fr/fr/camper)
-    * [Lipault Paris](https://www.printemps.com/fr/fr/lipaultparis)
+    * [Camper](https://www.printemps.com/fr/fr/camperap_source=anico&ap_medium=navigation&ap_campaign=camper-marque)
+    * [Lipault Paris](https://www.printemps.com/fr/fr/lipaultparisap_source=anico&ap_medium=navigation&ap_campaign=lipault-marque)
     * [Havaianas](https://www.printemps.com/fr/fr/havaianas)
-    * [Lancaster](https://www.printemps.com/fr/fr/lancaster)
+    * [Manucurist](https://www.printemps.com/fr/fr/ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
