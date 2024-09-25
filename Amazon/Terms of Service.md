@@ -11,7 +11,7 @@ Amazon Europe Core SARL, Amazon EU SARL et/ou leurs sociétés affiliées (« Am
 
 [Conditions d'utilisation](#GUID-602FA6E8-D724-4317-89F6-E78834F9BA58__SECTION_E43AAFC78C1543548F6B3D44AC4D5D20)
 
-[Conditions Générales de Vente](#GUID-602FA6E8-D724-4317-89F6-E78834F9BA58__SECTION_2255DD8797EA46CBA489884A58EDA67F)
+[Conditions générales de vente](#GUID-602FA6E8-D724-4317-89F6-E78834F9BA58__SECTION_2255DD8797EA46CBA489884A58EDA67F)
 
 CONDITIONS D'UTILISATION
 ------------------------
@@ -291,7 +291,7 @@ Conformément aux dispositions légales en vigueur, le droit de rétractation ne
 
 **MODALITES D'EXERCICE DU DROIT LÉGAL DE RÉTRACTATION**
 
-Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou par courrier en utilisant ce [formulaire](https://www.amazon.fr/gp/help/customer/www.amazon.fr/formulaireretractation). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
+Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou par courrier en utilisant ce [formulaire](https://www.amazon.fr/formulaireretractation). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
 
 Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre demande de rétractation avant que le délai de 14 jours n'expire et de renvoyer votre produit en suivant les instructions de notre centre de retours en ligne.
 
