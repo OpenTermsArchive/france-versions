@@ -167,7 +167,7 @@ Conditions d'Utilisation
     
     ### 15\. DONNÉES PERSONNELLES
     
-    [15.1. La Politique de confidentialité d'ASICS s'applique. La Politique de confidentialité est disponible sur notre site Web sous ce lien.](https://www.asics.com/privacy/privacy-policy)
+    [15.1. La Politique de confidentialité d'ASICS s'applique. La Politique de confidentialité est disponible sur notre site Web sous ce lien.](https://legal.asics.com/fr-fr/legal/privacy-policy)
     
     ### 16\. LOI APPLICABLE
     
