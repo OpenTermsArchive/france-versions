@@ -1,7 +1,7 @@
 Conditions générales de vente et d'utilisation
 ==============================================
 
-Dernière mise à jour le 9 août 2024.
+Dernière mise à jour le 19 septembre 2024.
 
 Retrouvez la version précédente des Conditions d'utilisation et de vente dans les [versions précédentes des Conditions générales de vente et d'utilisation](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q). Cette version des Conditions d'utilisation et de vente s'applique à toutes les commandes passées à la date de dernière mise à jour indiquée ci-dessus, ou après cette date. Pour les commandes passées avant cette date, merci de consulter les versions précédentes des Conditions d'utilisation et de vente et de sélectionner la version qui était en vigueur au moment de votre commande.
 
@@ -286,25 +286,26 @@ Conformément aux dispositions légales en vigueur, le droit de rétractation ne
 * la fourniture de produits susceptibles de se détériorer ou de se périmer rapidement ;
 * la fourniture de services pleinement exécutés par Amazon pour lesquels vous avez accepté au moment de la passation de votre commande que nous commencions leur exécution, et renoncé à votre droit de rétractation ;
 * la fourniture de journaux, périodiques ou magazines à l'exception des contrats d'abonnement à ces publications ;
-* la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle.
-* un service si Amazon l'a entièrement exécuté et si vous avez accepté, au moment du passage de votre commande que nous commencions la fourniture de celui-ci avant la fin du délai de rétractation et renoncé à votre droit de rétractation ;
+* la fourniture de boissons alcoolisées dont la valeur convenue à la conclusion du contrat dépend de fluctuation sur le marché échappant à notre contrôle ;
 * la fourniture de contenu numérique (y compris les applications, les logiciels numériques, les livres électroniques, les MP3, etc.) qui n'est pas fourni sur un support matériel (par exemple, sur un CD ou un DVD) si vous avez accepté, au moment du passage de votre commande que nous commencions la fourniture de celui-ci avant la fin du délai de rétractation et renoncé à votre droit de rétractation.
 
 **MODALITES D'EXERCICE DU DROIT LÉGAL DE RÉTRACTATION**
 
-Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou par courrier en utilisant ce [formulaire](https://m.media-amazon.com/images/G/08/legal/Previous_versions_Legal_policies/Conditions_of_Use_and_Sale/cancellationform_fr_09082024_FR.pdf). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
+Pour les produits vendus par Amazon EU SARL, vous devez nous notifier (Amazon EU Sarl, 38 avenue John F. Kennedy, L-1855 Luxembourg) votre décision de vous rétracter de votre commande. Vous pouvez soumettre votre demande en ligne conformément aux instructions et formulaires disponibles auprès de notre Centre de retours en ligne, ou par courrier en utilisant ce [formulaire](https://www.amazon.fr/gp/help/customer/www.amazon.fr/formulaireretractation). Dans le cas où vous notifieriez votre décision de vous rétracter au moyen du [Centre de retours en ligne](https://www.amazon.fr/gp/css/returns/homepage.html/), nous vous enverrons un accusé de réception.
 
 Pour respecter la date limite de rétractation, il vous suffit d'envoyer votre demande de rétractation avant que le délai de 14 jours n'expire et de renvoyer votre produit en suivant les instructions de notre centre de retours en ligne.
 
 Pour toute information complémentaire sur l'étendue, le contenu et les instructions quant à l'exercice de votre droit de rétractation, merci de contacter notre [Service Client](https://www.amazon.fr/contact-us).
 
-Veuillez noter que vous devez renvoyer le(s) produit(s) au plus tard 14 jours à compter de la date à laquelle vous nous avez notifié votre décision de rétractation. Les produits doivent être complets et dans un état neuf et intact. Vous êtes responsable de la dépréciation de la valeur du(s) produit(s) résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce(s) produit(s).
+Veuillez noter que vous devez renvoyer le(s) produit(s) au plus tard 14 jours à compter de la date à laquelle vous nous avez notifié votre décision de rétractation. Vous êtes responsable de la dépréciation de la valeur du(s) produit(s) résultant de manipulations autres que celles nécessaires pour établir la nature, les caractéristiques et le bon fonctionnement de ce(s) produit(s).
 
 **EFFETS DE LA RÉTRACTATION**
 
-En cas d'exercice de votre droit légal de rétractation, nous vous rembourserons tous les paiements que nous avons reçus de votre part, y compris les frais de livraison standards (c'est-à-dire correspondant à la livraison la moins onéreuse que nous proposons) au plus tard 14 jours à compter de la réception de votre demande de rétractation. Pour les produits vendus par Amazon EU SARL, les retours sont gratuits, sauf pour les produits lourds et volumineux pour lesquels des frais de retour seront déduits de votre remboursement. Pour plus d'informations, veuillez visiter la page [À propos de nos politiques de retours](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
+En cas d'exercice de votre droit légal de rétractation, nous vous rembourserons le prix de l'article et les frais de livraison au plus tard 14 jours à compter de la réception de votre demande de rétractation. À moins que nous ne proposions l’enlèvement du produit par nos soins, nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droit en application des dispositions légales en vigueur.
 
-Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous. Nous pouvons différer le remboursement jusqu'à ce que nous ayons reçu le(s) produit(s) ou jusqu'à ce que vous ayez fourni une preuve d'expédition du (des) produit(s), la date retenue étant celle du premier de ces faits. Si le remboursement intervient après la date limite mentionnée ci-dessus, le montant qui vous est dû sera augmenté de plein droiten application des dispositions légales en vigueur.
+Pour les produits vendus par Amazon EU SARL, les retours sont gratuits. Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7).
+
+Nous utiliserons le même moyen de paiement que celui que vous avez utilisé lors de votre commande initiale, sauf si vous convenez expressément d'un moyen différent. En tout état de cause, ce remboursement n'occasionnera pas de frais supplémentaires pour vous.
 
 **NOTRE POLITIQUE DE RETOURS SOUS 30 JOURS**
 
@@ -312,9 +313,7 @@ Sans préjudice des droits qui vous sont reconnus par la loi et notamment de vot
 
 Les produits qui sont exclus du droit légal de rétractation en application de la liste ci-dessus sont également exclus de notre politique de retours sous 30 jours.
 
-En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours, les frais de retour sont gratuits, sauf pour les produits volumineux/lourds, pour lesquels des frais de retour seront déduits de votre remboursement. Pour plus d'informations, veuillez visiter la page [À propos de nos politiques de retours](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). Les frais d'expédition initiaux ne sont pas remboursés entre 15 et 30 jours.
-
-Consultez notre [politique de retours](https://www.amazon.fr/gp/help/customer/display.html/ref=hp_left_ac?nodeId=11087641) pour plus d'informations.
+En cas de retour entre 15 et 30 jours en application de notre politique de retours sous 30 jours, les frais de retour sont gratuits. Pour plus d'informations, veuillez visiter la page [Politique de retours de 30 jours d'Amazon](https://www.amazon.fr/-/en/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7). Les frais d'expédition initiaux ne sont pas remboursés entre 15 et 30 jours.
 
 Vous bénéficiez par ailleurs des garanties légales de conformité et des vices cachés mentionnées à l'article 7 des présentes Conditions Générales de Vente (« Notre responsabilité Garanties »).
 
