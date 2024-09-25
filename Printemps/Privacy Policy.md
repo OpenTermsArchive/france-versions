@@ -244,8 +244,6 @@
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=tout-beaute)
     
-* [Beauty week](https://www.printemps.com/fr/fr/offre-beaute)
-    
 
 * [INSPIRATIONS](#)
     * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
@@ -269,8 +267,6 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
-* [![](https://media-cdn.printemps.com/image/26/8/6876268.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
-    
 
 * [FEMME](https://www.printemps.com/fr/fr/outlet-braderie-femme?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/outlet-braderie-femme?ap_source=anico&ap_medium=navigation&ap_campaign=outlet-voirtout-femme)
