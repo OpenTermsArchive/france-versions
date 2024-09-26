@@ -6,11 +6,11 @@ La protection de vos informations personnelles est importante à nos yeux
 
 Nous nous engageons à traiter votre vie privée avec respect, honnêteté, transparence et intégrité, toujours dans le respect de la confiance que vous placez en nous
 
-* Nous ferons preuve de transparence dans notre politique de confidentialité et à chaque échange avec vous
-* Nous n’utiliserons vos données personnelles que pour vous fournir des services, à des fins commerciales légitimes, pour respecter nos obligations légales, pour votre sécurité et lorsque vous l’acceptez
-* Nous ne vous enverrons des messages marketing que si vous l’acceptez
-* Nous protégerons vos informations personnelles
-* Nous respecterons votre droit de contrôle des données personnelles que vous nous transmettez
+*   Nous ferons preuve de transparence dans notre politique de confidentialité et à chaque échange avec vous
+*   Nous n’utiliserons vos données personnelles que pour vous fournir des services, à des fins commerciales légitimes, pour respecter nos obligations légales, pour votre sécurité et lorsque vous l’acceptez
+*   Nous ne vous enverrons des messages marketing que si vous l’acceptez
+*   Nous protégerons vos informations personnelles
+*   Nous respecterons votre droit de contrôle des données personnelles que vous nous transmettez
 
 Notre politique de confidentialité en résumé
 --------------------------------------------
@@ -21,43 +21,43 @@ La présente politique de confidentialité couvre le groupe Emirates, ses sites 
 
 Nous recueillons, traitons et utilisons des informations personnelles lors de nos interactions avec vous. Le type d’informations personnelles que nous recueillons dépend de la nature de nos interactions. Il s’agit généralement des éléments suivants
 
-* nom/civilité
-* date de naissance
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro de référence de réservation (PNR - Passenger Name Record)
-* sexe
-* détails du passeport
-* pays de résidence/nationalité
-* coordonnées de la personne à contacter en cas d'urgence
-* données de carte de paiement
-* numéro d'adhésion au programme de fidélité
-* préférences (repas, langue, appareil, sièges, centres d’intérêts)
-* préférences de repas
-* préférences marketing
+*   nom/civilité
+*   date de naissance
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro de référence de réservation (PNR - Passenger Name Record)
+*   sexe
+*   détails du passeport
+*   pays de résidence/nationalité
+*   coordonnées de la personne à contacter en cas d'urgence
+*   données de carte de paiement
+*   numéro d'adhésion au programme de fidélité
+*   préférences (repas, langue, appareil, sièges, centres d’intérêts)
+*   préférences de repas
+*   préférences marketing
 
   
 
 Dans certains cas, nous pouvons également recueillir des types particuliers d’informations personnelles, tels que
 
-* l'état de santé ou les problèmes médicaux
-* la religion (pour les réservations de vol à des fins religieuses - pour le Hajj par exemple - et pour les besoins des services d’immigration)
-* des données biométriques
-* des images et pistes audio
+*   l'état de santé ou les problèmes médicaux
+*   la religion (pour les réservations de vol à des fins religieuses - pour le Hajj par exemple - et pour les besoins des services d’immigration)
+*   des données biométriques
+*   des images et pistes audio
 
 ### Comment nous utilisons ces informations personnelles
 
 Nous utilisons vos informations personnelles dans le cadre de nos activités et de nos échanges avec vous. Notamment pour
 
-* vous fournir nos services et traiter les paiements
-* opérer nos activités
-* gérer vos visites dans nos établissements (bureaux/appareils/salons) et à nos événements
-* personnaliser, commercialiser et faire la promotion de nos produits, services et offres
-* communiquer et échanger avec vous
-* améliorer nos produits, services, sites internet et applications mobiles
-* gérer votre adhésion au programme de fidélité
-* déterminer votre aptitude à voyager, vous offrir une assistance médicale spéciale, gérer les urgences et les exigences gouvernementales
-* vous identifier à l’aide de technologies biométriques
-* respecter les obligations légales, prévenir les infractions/la fraude et pour des raisons juridiques
+*   vous fournir nos services et traiter les paiements
+*   opérer nos activités
+*   gérer vos visites dans nos établissements (bureaux/appareils/salons) et à nos événements
+*   personnaliser, commercialiser et faire la promotion de nos produits, services et offres
+*   communiquer et échanger avec vous
+*   améliorer nos produits, services, sites internet et applications mobiles
+*   gérer votre adhésion au programme de fidélité
+*   déterminer votre aptitude à voyager, vous offrir une assistance médicale spéciale, gérer les urgences et les exigences gouvernementales
+*   vous identifier à l’aide de technologies biométriques
+*   respecter les obligations légales, prévenir les infractions/la fraude et pour des raisons juridiques
 
   
 
@@ -67,14 +67,14 @@ Nous ne recueillons, traitons, utilisons, partageons et stockons vos information
 
 Nous partageons vos informations personnelles avec
 
-* d’autres entités du groupe Emirates pour vous fournir, améliorer et personnaliser nos produits et services, pour gérer nos activités, développer une interface client unique, à des fins de profilage et d’analyse
-* des tiers qui nous aident à gérer nos activités et à fournir nos produits et services, notamment les programmes de fidélité, l’assistance informatique et back-office, la détection des fraudes, le centre de service clientèle, les opérations dans les aéroports et les services de voitures, la vérification des paiements, le stockage des données, la recherche et l’analyse
-* des banques et des fournisseurs de paiement pour autoriser et finaliser les paiements
-* des agences gouvernementales et les forces de l’ordre et autres tel que permis ou requis par la loi
-* des tiers dont vous achetez les produits ou services sur nos plateformes ou autre, comme des compagnies aériennes (notamment nos compagnies aériennes partenaires en partage de code et interlignes), des agences de tourisme, des hôtels, des sociétés de transfert et de location de voitures, des fournisseurs de visites et d'excursions ou des agences de voyages
-* nous pouvons partager des données agrégées, sous forme de statistiques, des informations impersonnelles concernant les visiteurs sur nos plateformes, les motifs du trafic et l'utilisation des plateformes avec nos autres entités du groupe Emirates ou des publicitaires tiers et des plateformes de réseaux sociaux et numériques à des fins de publicité
-* des publicitaires tiers et des plateformes de réseaux sociaux pour proposer des publicités plus ciblées pour faire la promotion de nos produits et services en fonction de vos préférences
-* des acheteurs tiers potentiels ou réels de nos activités ou actifs
+*   d’autres entités du groupe Emirates pour vous fournir, améliorer et personnaliser nos produits et services, pour gérer nos activités, développer une interface client unique, à des fins de profilage et d’analyse
+*   des tiers qui nous aident à gérer nos activités et à fournir nos produits et services, notamment les programmes de fidélité, l’assistance informatique et back-office, la détection des fraudes, le centre de service clientèle, les opérations dans les aéroports et les services de voitures, la vérification des paiements, le stockage des données, la recherche et l’analyse
+*   des banques et des fournisseurs de paiement pour autoriser et finaliser les paiements
+*   des agences gouvernementales et les forces de l’ordre et autres tel que permis ou requis par la loi
+*   des tiers dont vous achetez les produits ou services sur nos plateformes ou autre, comme des compagnies aériennes (notamment nos compagnies aériennes partenaires en partage de code et interlignes), des agences de tourisme, des hôtels, des sociétés de transfert et de location de voitures, des fournisseurs de visites et d'excursions ou des agences de voyages
+*   nous pouvons partager des données agrégées, sous forme de statistiques, des informations impersonnelles concernant les visiteurs sur nos plateformes, les motifs du trafic et l'utilisation des plateformes avec nos autres entités du groupe Emirates ou des publicitaires tiers et des plateformes de réseaux sociaux et numériques à des fins de publicité
+*   des publicitaires tiers et des plateformes de réseaux sociaux pour proposer des publicités plus ciblées pour faire la promotion de nos produits et services en fonction de vos préférences
+*   des acheteurs tiers potentiels ou réels de nos activités ou actifs
 
   
 
@@ -84,10 +84,10 @@ Le groupe Emirates est une entreprise internationale, ce qui signifie que vos in
 
 Nous avons mis en place et maintenons des mesures de sécurité techniques et organisationnelles appropriées, des politiques et des procédures conçues pour protéger les informations personnelles que vous partagez avec nous et pour garantir la confidentialité de ces informations. Par exemple, parmi les mesures que nous prenons :
 
-* notre personnel et les fournisseurs de service sont soumis à des exigences en matière de confidentialité ;
-* nous détruisons ou anonymisons de manière permanente les informations personnelles si elles ne sont plus nécessaires dans le cadre de leur recueil ;
-* nous suivons les procédures de sécurité pour le stockage et la divulgation de vos informations personnelles afin d'éviter l'accès non autorisé ; et
-* nous utilisons des canaux de communication sécurisés, comme SSL (Secure Socket Layer) ou TLS (Transport Layer Security) pour la transmission des données qui nous sont envoyées. SSL et TLS sont des protocoles de cryptage standard du secteur utilisés pour protéger les canaux de transactions en ligne.
+*   notre personnel et les fournisseurs de service sont soumis à des exigences en matière de confidentialité ;
+*   nous détruisons ou anonymisons de manière permanente les informations personnelles si elles ne sont plus nécessaires dans le cadre de leur recueil ;
+*   nous suivons les procédures de sécurité pour le stockage et la divulgation de vos informations personnelles afin d'éviter l'accès non autorisé ; et
+*   nous utilisons des canaux de communication sécurisés, comme SSL (Secure Socket Layer) ou TLS (Transport Layer Security) pour la transmission des données qui nous sont envoyées. SSL et TLS sont des protocoles de cryptage standard du secteur utilisés pour protéger les canaux de transactions en ligne.
 
 ### Cookies
 
@@ -97,12 +97,12 @@ Un cookie est un petit fichier informatique téléchargé sur votre appareil. Il
 
 Si vous bénéficiez de lois vous prodiguant de tels droits, selon certaines exceptions et selon les activités de traitement que nous effectuons, vous pouvez disposer de certains droits liés à vos informations personnelles, tels que
 
-* l’accès aux informations personnelles
-* la limitation du traitement de vos informations personnelles
-* l’objection au traitement (y compris au marketing direct) des informations personnelles
-* le transfert de vos informations personnelles
-* l’obtention d'une copie des protections en place lors du transfert des informations personnelles en dehors de votre juridiction
-* le dépôt de plainte auprès de votre autorité de surveillance locale
+*   l’accès aux informations personnelles
+*   la limitation du traitement de vos informations personnelles
+*   l’objection au traitement (y compris au marketing direct) des informations personnelles
+*   le transfert de vos informations personnelles
+*   l’obtention d'une copie des protections en place lors du transfert des informations personnelles en dehors de votre juridiction
+*   le dépôt de plainte auprès de votre autorité de surveillance locale
 
 Vous pouvez exercer vos droits en remplissant un [formulaire sur notre site internet](https://www.emirates.com/fr/french/help/forms/gdpr/ "Formulaire de demande d’accès aux données") ou en nous contactant par e-mail ou par courrier.
 
@@ -123,8 +123,8 @@ Dans le respect des droits qui vous sont conférés par la législation applicab
 
 Le groupe Emirates compte plusieurs sociétés liées, notamment :
 
-* Emirates, dont le siège se trouve à Emirates Group Headquarters, PO Box 686, Dubai, Émirats Arabes Unis. Emirates est une société établie à Dubai par le décret n° 2 de 1985 (tel que modifié) du gouvernement de Dubai, principalement dédiée aux activités de compagnie aérienne et comprenant des divisions et/ou entités comme Emirates Skycargo, Skywards et Business Rewards ; et
-* dnata, dont le siège est situé à Emirates Group Headquarters, PO Box 686, Dubai, Émirats Arabes Unis. dnata est une société établie à Dubai par le décret n° 1 de 1987 (tel que modifié) du gouvernement de Dubai, principalement dédiée aux activités de manutention au sol, de cargo, restauration et agence de voyage et comprenant des divisions et/ou entités comme dnata Travel, Arabian Adventures et marhaba.
+*   Emirates, dont le siège se trouve à Emirates Group Headquarters, PO Box 686, Dubai, Émirats Arabes Unis. Emirates est une société établie à Dubai par le décret n° 2 de 1985 (tel que modifié) du gouvernement de Dubai, principalement dédiée aux activités de compagnie aérienne et comprenant des divisions et/ou entités comme Emirates Skycargo, Skywards et Business Rewards ; et
+*   dnata, dont le siège est situé à Emirates Group Headquarters, PO Box 686, Dubai, Émirats Arabes Unis. dnata est une société établie à Dubai par le décret n° 1 de 1987 (tel que modifié) du gouvernement de Dubai, principalement dédiée aux activités de manutention au sol, de cargo, restauration et agence de voyage et comprenant des divisions et/ou entités comme dnata Travel, Arabian Adventures et marhaba.
 
   
 
@@ -160,66 +160,66 @@ Lorsque vous réservez un vol, des vacances ou que vous effectuez d'autres rése
 
 Les types d'informations personnelles que nous recueillons lorsque vous effectuez une réservation ou que vous voyagez avec nous incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro de référence de réservation (PNR - Passenger Name Record)
-* sexe
-* détails du passeport
-* contact en cas d'urgence
-* détails du contact en cas d'urgence
-* référence de réservation
-* données de carte de paiement
-* numéro d'adhésion au programme de fidélité
-* nationalité et autres informations fiscales (pour certains pays uniquement)
-* préférences de repas
-* adresse de destination si nécessaire (par ex. aux États-Unis)
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro de référence de réservation (PNR - Passenger Name Record)
+*   sexe
+*   détails du passeport
+*   contact en cas d'urgence
+*   détails du contact en cas d'urgence
+*   référence de réservation
+*   données de carte de paiement
+*   numéro d'adhésion au programme de fidélité
+*   nationalité et autres informations fiscales (pour certains pays uniquement)
+*   préférences de repas
+*   adresse de destination si nécessaire (par ex. aux États-Unis)
 
   
 
 Nous utilisons vos informations personnelles pour :
 
-* **respecter notre accord avec vous** et/ou pour traiter votre réservation ou demande de réservation, notamment pour examiner votre réservation, vous envoyer votre itinéraire ou d'autres détails liés à votre réservation ou vous contacter en cas de problème avec votre réservation (par exemple en vous envoyant un message pour vous informer lorsqu'une réservation n'a pas été finalisée)
-* **vous informer de modifications de votre itinéraire de voyage** (par exemple si un vol est retardé ou annulé)
-* **gérer les opérations liées à votre voyage**, par exemple la manutention au sol (comme les bagages et les réclamations concernant les bagages), les activités à l’aéroport (comme l’enregistrement), la fourniture des repas, la prise en charge et le dépôt par le chauffeur ou les transferts (qui peuvent être fournis par nos soins ou des fournisseurs de services tiers)
-* **gérer vos exigences globales en termes de voyages, produits ou services** (par exemple en communiquant avec des compagnies aériennes, des fournisseurs de services (comme des traiteurs et manutentionnaires au sol ou de cargo) et/ou des organisateurs de voyages afin de faciliter votre réservation et/ou vos dispositions de voyage pour minimiser tout risque de perturbation, et/ou les services d’immigration pour traiter votre demande de visa, et en leur transférant vos données), cela incluant la réservation de forfaits de vacances, d’hôtel, de voiture ou de tout autre service supplémentaire pouvant être fourni par nos soins ou des tiers sur nos plateformes
-* **traiter les paiements** de votre réservation, honorer les demandes de remboursement et à des fins comptables ou d'audit
-* **proposer l'accès aux salons** et à d'autres produits et services de l'aéroport (comme les services d'accueil)
-* **personnaliser le service que vous recevez** (par exemple en connaissant vos expériences de voyage passées, vos transactions ou vos préférences et en adaptant notre façon de fournir nos produits ou services selon vos préférences et votre profil)
-* **personnaliser l'affichage et l'ambiance de nos Plateformes et communications** avec vous afin de respecter les préférences dont vous avez pu nous faire part ou que nous avons déduites de votre utilisation de nos Plateformes, d'enquêtes, de vos interactions avec nous sur les réseaux sociaux et de transactions précédentes (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse ci-dessous**)
-* **proposer le format et le contenu le plus pertinent à l'aide des données de géolocalisation** reçues par nos Plateformes mobiles (par exemple, pré-remplissage de l'aéroport de départ, codes des aéroports et pays du paiement) à condition d'avoir autorisé les services de géolocalisation sur votre appareil mobile
-* **communiquer et interagir avec vous** à différents points de votre voyage (par exemple, nous pouvons vous informer d'un changement de votre porte de départ ou que vous n'avez pas encore passé le contrôle d'immigration)
-* **communiquer avec les agents préposés à l'enregistrement, l'équipage, le personnel au sol, les compagnies aériennes, les hébergements et d'autres parties** intégrantes de votre voyage concernant votre expérience, vos préférences, les compliments ou réclamations
-* **améliorer les produits et services** que nous proposons ou nous aider à en créer de nouveaux
-* **mener des enquêtes de satisfaction des clients** afin de mieux comprendre comment continuer à améliorer les produits et services que nous proposons et nous aider à en créer de nouveaux. Lors de ces enquêtes, nous pouvons recueillir des informations personnelles comme votre avis/vos commentaires sur votre expérience avec nous
-* **commercialiser nos produits et services** auprès de vous (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse** ci-dessous)
-* **collaborer avec les fournisseurs de réseaux sociaux** afin de vous proposer des publicités sur ces plateformes (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse** ci-dessous)
-* **gérer nos activités** comme des tests du système, la maintenance informatique ou les formations de développement, les évaluations et les mesures des performances
-* **utiliser en lien avec votre compte en ligne ou votre adhésion à un programme de fidélité**, comme Emirates Skywards et Business Rewards d'Emirates (détails dans la rubrique **Informations personnelles que nous recueillons et utilisons si vous ouvrez un compte en ligne auprès de nous ou si vous vous inscrivez à l'un de nos programmes de fidélité** ci-dessous)
-* **tel que vous pouvez l'autorisez ou y consentir de temps à autre**
+*   **respecter notre accord avec vous** et/ou pour traiter votre réservation ou demande de réservation, notamment pour examiner votre réservation, vous envoyer votre itinéraire ou d'autres détails liés à votre réservation ou vous contacter en cas de problème avec votre réservation (par exemple en vous envoyant un message pour vous informer lorsqu'une réservation n'a pas été finalisée)
+*   **vous informer de modifications de votre itinéraire de voyage** (par exemple si un vol est retardé ou annulé)
+*   **gérer les opérations liées à votre voyage**, par exemple la manutention au sol (comme les bagages et les réclamations concernant les bagages), les activités à l’aéroport (comme l’enregistrement), la fourniture des repas, la prise en charge et le dépôt par le chauffeur ou les transferts (qui peuvent être fournis par nos soins ou des fournisseurs de services tiers)
+*   **gérer vos exigences globales en termes de voyages, produits ou services** (par exemple en communiquant avec des compagnies aériennes, des fournisseurs de services (comme des traiteurs et manutentionnaires au sol ou de cargo) et/ou des organisateurs de voyages afin de faciliter votre réservation et/ou vos dispositions de voyage pour minimiser tout risque de perturbation, et/ou les services d’immigration pour traiter votre demande de visa, et en leur transférant vos données), cela incluant la réservation de forfaits de vacances, d’hôtel, de voiture ou de tout autre service supplémentaire pouvant être fourni par nos soins ou des tiers sur nos plateformes
+*   **traiter les paiements** de votre réservation, honorer les demandes de remboursement et à des fins comptables ou d'audit
+*   **proposer l'accès aux salons** et à d'autres produits et services de l'aéroport (comme les services d'accueil)
+*   **personnaliser le service que vous recevez** (par exemple en connaissant vos expériences de voyage passées, vos transactions ou vos préférences et en adaptant notre façon de fournir nos produits ou services selon vos préférences et votre profil)
+*   **personnaliser l'affichage et l'ambiance de nos Plateformes et communications** avec vous afin de respecter les préférences dont vous avez pu nous faire part ou que nous avons déduites de votre utilisation de nos Plateformes, d'enquêtes, de vos interactions avec nous sur les réseaux sociaux et de transactions précédentes (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse ci-dessous**)
+*   **proposer le format et le contenu le plus pertinent à l'aide des données de géolocalisation** reçues par nos Plateformes mobiles (par exemple, pré-remplissage de l'aéroport de départ, codes des aéroports et pays du paiement) à condition d'avoir autorisé les services de géolocalisation sur votre appareil mobile
+*   **communiquer et interagir avec vous** à différents points de votre voyage (par exemple, nous pouvons vous informer d'un changement de votre porte de départ ou que vous n'avez pas encore passé le contrôle d'immigration)
+*   **communiquer avec les agents préposés à l'enregistrement, l'équipage, le personnel au sol, les compagnies aériennes, les hébergements et d'autres parties** intégrantes de votre voyage concernant votre expérience, vos préférences, les compliments ou réclamations
+*   **améliorer les produits et services** que nous proposons ou nous aider à en créer de nouveaux
+*   **mener des enquêtes de satisfaction des clients** afin de mieux comprendre comment continuer à améliorer les produits et services que nous proposons et nous aider à en créer de nouveaux. Lors de ces enquêtes, nous pouvons recueillir des informations personnelles comme votre avis/vos commentaires sur votre expérience avec nous
+*   **commercialiser nos produits et services** auprès de vous (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse** ci-dessous)
+*   **collaborer avec les fournisseurs de réseaux sociaux** afin de vous proposer des publicités sur ces plateformes (détails dans la rubrique **Comment nous utilisons vos informations personnelles à des fins marketing, de profilage et d'analyse** ci-dessous)
+*   **gérer nos activités** comme des tests du système, la maintenance informatique ou les formations de développement, les évaluations et les mesures des performances
+*   **utiliser en lien avec votre compte en ligne ou votre adhésion à un programme de fidélité**, comme Emirates Skywards et Business Rewards d'Emirates (détails dans la rubrique **Informations personnelles que nous recueillons et utilisons si vous ouvrez un compte en ligne auprès de nous ou si vous vous inscrivez à l'un de nos programmes de fidélité** ci-dessous)
+*   **tel que vous pouvez l'autorisez ou y consentir de temps à autre**
 
 ### Catégories spéciales d'informations personnelles que nous recueillons et utilisons
 
 Nous recueillons également des catégories spéciales d'informations personnelles. Les types de catégories spéciales d'informations personnelles que nous recueillons lorsque vous effectuez une réservation ou que vous voyagez avec nous incluent :
 
-* détails sur votre santé ou votre condition médicale
-* votre religion (pour les réservations de vol à des fins religieuses - pour le Hajj par exemple - et pour les besoins des services d’immigration)
-* vos données biométriques
+*   détails sur votre santé ou votre condition médicale
+*   votre religion (pour les réservations de vol à des fins religieuses - pour le Hajj par exemple - et pour les besoins des services d’immigration)
+*   vos données biométriques
 
   
 
 Nous utilisons les catégories spéciales d'informations personnelles pour :
 
-* **déterminer votre aptitude à voyager** (par exemple si vous souffrez d'une affection médicale pouvant vous empêcher de voyager)
-* **vous proposer une assistance spéciale** (par exemple si vous faites une demande de bouteille d'oxygène ou de fauteuil roulant) sur nos vols, à destination, lors de vos activités ou à l'aéroport
-* **honorer les demandes de repas spéciaux** qui nous sont envoyées
-* **déterminer votre éligibilité à une réservation de vol religieux spécial**
-* **vous identifier à l’aide de la reconnaissance faciale et d’autres technologies biométriques** auxquelles nous pouvons faire appel (par exemple pour optimiser le service clientèle, pour un enregistrement plus rapide à l’aéroport et l’accès à nos salons, et pour des raisons de sécurité), de même que nos prestataires de voyage, les services d’immigration dans les aéroports que nous desservons, notamment pour le compte du gouvernement, et pour respecter les réglementations locales. [Veuillez consulter notre forum aux questions sur les données biométriques dans la politique de confidentialité](https://www.emirates.com/fr/french/experience/contactless-journey/biometrics/ "En savoir plus sur la biométrie").
-* **traiter un incident lié à la sécurité ou d’ordre médical**
-* **respecter les prescriptions légales et réglementaires**(par exemple dans le cadre d’exigences en matière de sécurité ou pour déterminer l’éligibilité à voyager en situation d’urgence sanitaire publique)
-* **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
+*   **déterminer votre aptitude à voyager** (par exemple si vous souffrez d'une affection médicale pouvant vous empêcher de voyager)
+*   **vous proposer une assistance spéciale** (par exemple si vous faites une demande de bouteille d'oxygène ou de fauteuil roulant) sur nos vols, à destination, lors de vos activités ou à l'aéroport
+*   **honorer les demandes de repas spéciaux** qui nous sont envoyées
+*   **déterminer votre éligibilité à une réservation de vol religieux spécial**
+*   **vous identifier à l’aide de la reconnaissance faciale et d’autres technologies biométriques** auxquelles nous pouvons faire appel (par exemple pour optimiser le service clientèle, pour un enregistrement plus rapide à l’aéroport et l’accès à nos salons, et pour des raisons de sécurité), de même que nos prestataires de voyage, les services d’immigration dans les aéroports que nous desservons, notamment pour le compte du gouvernement, et pour respecter les réglementations locales. [Veuillez consulter notre forum aux questions sur les données biométriques dans la politique de confidentialité](https://www.emirates.com/fr/french/experience/contactless-journey/biometrics/ "En savoir plus sur la biométrie").
+*   **traiter un incident lié à la sécurité ou d’ordre médical**
+*   **respecter les prescriptions légales et réglementaires**(par exemple dans le cadre d’exigences en matière de sécurité ou pour déterminer l’éligibilité à voyager en situation d’urgence sanitaire publique)
+*   **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
 
   
 
@@ -246,30 +246,30 @@ Si vous vous inscrivez sur l'une de nos Plateformes ou pour l'un de nos programm
 
 Les types d'informations personnelles que nous recueillons auprès de vous à votre inscription pour un compte en ligne ou l'un de nos programmes de fidélité incluent :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* pays de résidence
-* nationalité
-* langue préférée
-* photo (facultatif)
-* nom de l'entreprise/la compagnie, adresse, numéro de téléphone et nom du coordinateur de voyage en plus de ses coordonnées (pour Business Rewards)
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   pays de résidence
+*   nationalité
+*   langue préférée
+*   photo (facultatif)
+*   nom de l'entreprise/la compagnie, adresse, numéro de téléphone et nom du coordinateur de voyage en plus de ses coordonnées (pour Business Rewards)
 
   
 
 Une fois inscrit pour un compte en ligne ou membre d'un programme de fidélité, les types d'informations que nous recueillons vous concernant incluent :
 
-* détails des récompenses (tels que les points ou Miles cumulés, échangés, achetés, transférés ou offerts)
-* vos préférences de voyage (comme votre siège, votre boisson ou repas préférés en vol, le type d'appareil)
-* vos centres d'intérêts personnels (comme le sport, le théâtre ou vos hobbys)
-* les préférences marketing
-* les besoins médicaux liés à vos voyages
-* les informations sur le coordinateur de voyage.
-* les informations sur les membres de votre famille (notamment si vous inscrivez votre enfant ou liez des comptes avec des membres de votre famille participant à nos programmes de fidélité, tels qu'Emirates Skysurfers et les groupes Famille)
-* les actes de décès et renseignements sur les bénéficiaires en cas de demande de transfert des points ou Miles d'un membre décédé du compte de programme de fidélité
-* le numéro de compte associé au programme de fidélité d’une compagnie aérienne partenaire
+*   détails des récompenses (tels que les points ou Miles cumulés, échangés, achetés, transférés ou offerts)
+*   vos préférences de voyage (comme votre siège, votre boisson ou repas préférés en vol, le type d'appareil)
+*   vos centres d'intérêts personnels (comme le sport, le théâtre ou vos hobbys)
+*   les préférences marketing
+*   les besoins médicaux liés à vos voyages
+*   les informations sur le coordinateur de voyage.
+*   les informations sur les membres de votre famille (notamment si vous inscrivez votre enfant ou liez des comptes avec des membres de votre famille participant à nos programmes de fidélité, tels qu'Emirates Skysurfers et les groupes Famille)
+*   les actes de décès et renseignements sur les bénéficiaires en cas de demande de transfert des points ou Miles d'un membre décédé du compte de programme de fidélité
+*   le numéro de compte associé au programme de fidélité d’une compagnie aérienne partenaire
 
   
 
@@ -279,15 +279,15 @@ En vous inscrivant pour un compte en ligne ou à l’un de nos programmes de fid
 
 Nous utilisons les informations personnelles que nous recueillons lors de votre inscription pour un compte en ligne ou au programme de fidélité, ainsi que les **Informations personnelles que nous recueillons et utilisons en réservant ou voyageant avec nous**, pour :
 
-* **gérer le compte en ligne ou le programme de fidélité** conformément à ses modalités
-* **gérer le cumul, l'échange, le transfert et l'achat de récompenses** (telles que des points ou des Miles) et partager des informations personnelles avec nos partenaires (comme nos compagnies aériennes, hôtels, transports et magasins partenaires lorsqu'ils permettent de cumuler ou d'échanger des points ou des Miles) afin de gérer ces récompenses
-* **personnaliser le service que vous recevez** (par exemple en connaissant vos expériences de voyage passées, vos transactions ou vos préférences et en adaptant notre façon de fournir nos produits ou services selon vos préférences et votre profil)
-* **déterminer votre niveau d'adhésion**, envoyer des offres et proposer un service personnalisé en fonction de votre statut
-* **communiquer et interagir avec vous** sur différents supports tout au long de votre voyage (par exemple en cas d'anomalie de service, pour des compliments ou des réclamations)
-* **proposer des informations de voyage** (comme des informations sur le secteur et les sociétés faisant appel à nos services pour les voyages d'affaires) pour proposer des offres adaptées au secteur ou à votre entreprise
-* **étendre des invitations** à nos événements
-* **authentifier les connexions à votre compte en ligne ou au programme de fidélité, détecter et prévenir les fraudes** liées à votre compte en ligne ou au programme de fidélité, en vous envoyant notamment des e-mails ou des SMS contenant des mots de passe à usage unique
-* **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
+*   **gérer le compte en ligne ou le programme de fidélité** conformément à ses modalités
+*   **gérer le cumul, l'échange, le transfert et l'achat de récompenses** (telles que des points ou des Miles) et partager des informations personnelles avec nos partenaires (comme nos compagnies aériennes, hôtels, transports et magasins partenaires lorsqu'ils permettent de cumuler ou d'échanger des points ou des Miles) afin de gérer ces récompenses
+*   **personnaliser le service que vous recevez** (par exemple en connaissant vos expériences de voyage passées, vos transactions ou vos préférences et en adaptant notre façon de fournir nos produits ou services selon vos préférences et votre profil)
+*   **déterminer votre niveau d'adhésion**, envoyer des offres et proposer un service personnalisé en fonction de votre statut
+*   **communiquer et interagir avec vous** sur différents supports tout au long de votre voyage (par exemple en cas d'anomalie de service, pour des compliments ou des réclamations)
+*   **proposer des informations de voyage** (comme des informations sur le secteur et les sociétés faisant appel à nos services pour les voyages d'affaires) pour proposer des offres adaptées au secteur ou à votre entreprise
+*   **étendre des invitations** à nos événements
+*   **authentifier les connexions à votre compte en ligne ou au programme de fidélité, détecter et prévenir les fraudes** liées à votre compte en ligne ou au programme de fidélité, en vous envoyant notamment des e-mails ou des SMS contenant des mots de passe à usage unique
+*   **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
 
   
 
@@ -302,16 +302,16 @@ Si vous avez des questions sur nos produits ou services, des compliments ou des 
 
 Les types d'informations personnelles que nous recueillons incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro de référence de réservation (PNR - Passenger Name Record)
-* référence de réservation
-* numéro d'adhésion au programme de fidélité
-* copie du passeport
-* acte de décès, de mariage ou autre certificat légal ou procuration
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro de référence de réservation (PNR - Passenger Name Record)
+*   référence de réservation
+*   numéro d'adhésion au programme de fidélité
+*   copie du passeport
+*   acte de décès, de mariage ou autre certificat légal ou procuration
 
   
 
@@ -323,11 +323,11 @@ Nous enregistrons les communications avec vous, y compris les appels téléphoni
 
 Nous utilisons vos informations personnelles pour :
 
-* **traiter votre demande ou toute autre interaction avec nous** de manière aussi efficace que possible
-* **analyser les types de demandes reçues** afin d'améliorer nos produits et services et les interactions avec nos clients
-* **vérifier votre identité**, notamment lorsque vous appelez notre service clientèle
-* **gérer les demandes d'indemnisation ou autres**
-* **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
+*   **traiter votre demande ou toute autre interaction avec nous** de manière aussi efficace que possible
+*   **analyser les types de demandes reçues** afin d'améliorer nos produits et services et les interactions avec nos clients
+*   **vérifier votre identité**, notamment lorsque vous appelez notre service clientèle
+*   **gérer les demandes d'indemnisation ou autres**
+*   **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
 
 Informations personnelles que nous recueillons et utilisons si vous participez ou vous inscrivez à un concours, une compétition, une tombola ou une offre promotionnelle
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -338,20 +338,20 @@ Nous pouvons de temps à autres organiser des concours, des compétitions ou des
 
 Les types d'informations personnelles que nous recueillons incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro d'adhésion au programme de fidélité
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro d'adhésion au programme de fidélité
 
 ### Comment nous utilisons ces informations personnelles
 
 Nous utilisons vos informations personnelles pour :
 
-* **administrer** le concours, la compétition, la tombola ou l'offre promotionnelle et les améliorer
-* **vous inviter à vous inscrire à nos programmes de fidélité**
-* **tel que vous pouvez l'autorisez ou y consentir de temps à autre**
+*   **administrer** le concours, la compétition, la tombola ou l'offre promotionnelle et les améliorer
+*   **vous inviter à vous inscrire à nos programmes de fidélité**
+*   **tel que vous pouvez l'autorisez ou y consentir de temps à autre**
 
   
 
@@ -364,17 +364,17 @@ Informations personnelles que nous recueillons et utilisons sur nos vols ou dans
 
 Les types d'informations personnelles que nous recueillons incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro de référence de réservation (PNR - Passenger Name Record) 
-* référence de réservation
-* données de carte de paiement
-* numéro d'adhésion au programme de fidélité
-* préférences de repas ou de boissons et autres préférences indiquées (comme pour un siège en particulier)
-* centres d'intérêts (comme le sport, le théâtre ou vos hobbys)
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro de référence de réservation (PNR - Passenger Name Record) 
+*   référence de réservation
+*   données de carte de paiement
+*   numéro d'adhésion au programme de fidélité
+*   préférences de repas ou de boissons et autres préférences indiquées (comme pour un siège en particulier)
+*   centres d'intérêts (comme le sport, le théâtre ou vos hobbys)
 
   
 
@@ -384,19 +384,19 @@ En cas d'incident d'ordre médical à bord de nos vols ou dans nos salons, nous 
 
 Nous utilisons vos informations personnelles pour :
 
-* **déterminer l'éligibilité à pénétrer dans nos salons**
-* **personnaliser le service et les offres que vous recevez** (par exemple si nous savons que vous voyagez pour un événement particulier, si vous avez indiqué que vous êtes anxieux en avion ou si vous avez des préférences de boissons ou de repas) et pour communiquer des informations pertinentes et opportunes à certains points de votre voyage
-* **gérer votre réservation**, en traitant votre demande de changement de siège par exemple
-* **communiquer et interagir avec vous** concernant votre voyage (par exemple, en cas de retards de vol, de changements de porte ou si vous êtes en retard pour embarquer sur votre vol)
-* **communiquer avec d'autres équipages ou personnels au sol** sur votre expérience, vos préférences, vos compliments ou réclamations, ou en cas d'incident de sécurité ou médical
-* **gérer les ventes détaxées ou les autres transactions payantes à bord**
-* **fournir le Wi-Fi à bord** conformément aux modalités du Wi-Fi
-* **vous informer** des retards de vols, des portes d'arrivées, du numéro de carrousel à bagages ou d'autres mises à jour pertinentes
-* **adresser vos compliments ou réclamations**
-* **améliorer les produits et services** que nous proposons ou nous aider à en créer de nouveaux
-* **gérer les incidents de sécurité ou d’ordre médical**
-* **respecter les prescriptions légales et réglementaires** (par exemple dans le cadre d’exigences en matière de sécurité ou pour déterminer l’éligibilité à voyager en situation d’urgence sanitaire publique)
-* **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
+*   **déterminer l'éligibilité à pénétrer dans nos salons**
+*   **personnaliser le service et les offres que vous recevez** (par exemple si nous savons que vous voyagez pour un événement particulier, si vous avez indiqué que vous êtes anxieux en avion ou si vous avez des préférences de boissons ou de repas) et pour communiquer des informations pertinentes et opportunes à certains points de votre voyage
+*   **gérer votre réservation**, en traitant votre demande de changement de siège par exemple
+*   **communiquer et interagir avec vous** concernant votre voyage (par exemple, en cas de retards de vol, de changements de porte ou si vous êtes en retard pour embarquer sur votre vol)
+*   **communiquer avec d'autres équipages ou personnels au sol** sur votre expérience, vos préférences, vos compliments ou réclamations, ou en cas d'incident de sécurité ou médical
+*   **gérer les ventes détaxées ou les autres transactions payantes à bord**
+*   **fournir le Wi-Fi à bord** conformément aux modalités du Wi-Fi
+*   **vous informer** des retards de vols, des portes d'arrivées, du numéro de carrousel à bagages ou d'autres mises à jour pertinentes
+*   **adresser vos compliments ou réclamations**
+*   **améliorer les produits et services** que nous proposons ou nous aider à en créer de nouveaux
+*   **gérer les incidents de sécurité ou d’ordre médical**
+*   **respecter les prescriptions légales et réglementaires** (par exemple dans le cadre d’exigences en matière de sécurité ou pour déterminer l’éligibilité à voyager en situation d’urgence sanitaire publique)
+*   **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
 
 Informations personnelles que nous recueillons et utilisons si vous utilisez notre service de cargo
 ---------------------------------------------------------------------------------------------------
@@ -405,21 +405,21 @@ Informations personnelles que nous recueillons et utilisons si vous utilisez not
 
 Les types d'informations personnelles que nous recueillons incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable) pour vous-même ou tout intermédiaire (le cas échéant)
-* détails du passeport ou autres formes d'identification
-* données de la carte de paiement ou données bancaires
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable) pour vous-même ou tout intermédiaire (le cas échéant)
+*   détails du passeport ou autres formes d'identification
+*   données de la carte de paiement ou données bancaires
 
 ### Comment nous utilisons ces informations personnelles
 
 Nous utilisons vos informations personnelles pour :
 
-* **gérer votre envoi** et créer un dossier d'envoi (lettre de transport aérien)
-* **respecter les exigences légales ou réglementaires** de récupération et sur les rapports sur les expéditeurs et destinataires de cargo
-* **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
+*   **gérer votre envoi** et créer un dossier d'envoi (lettre de transport aérien)
+*   **respecter les exigences légales ou réglementaires** de récupération et sur les rapports sur les expéditeurs et destinataires de cargo
+*   **tel que vous pouvez l'autoriser ou y consentir de temps à autre**
 
 Informations personnelles que nous recueillons et utilisons en cas d'urgence
 ----------------------------------------------------------------------------
@@ -428,19 +428,19 @@ Informations personnelles que nous recueillons et utilisons en cas d'urgence
 
 Les types d'informations personnelles que nous recueillons incluent vos :
 
-* nom
-* civilité
-* date de naissance
-* adresse
-* coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
-* numéro de référence de réservation (PNR - Passenger Name Record)
-* sexe
-* nationalité
-* détails du passeport
-* contact en cas d'urgence
-* détails du contact en cas d'urgence
-* référence de réservation 
-* numéro d'adhésion au programme de fidélité 
+*   nom
+*   civilité
+*   date de naissance
+*   adresse
+*   coordonnées (y compris l'adresse e-mail et le numéro de téléphone/portable)
+*   numéro de référence de réservation (PNR - Passenger Name Record)
+*   sexe
+*   nationalité
+*   détails du passeport
+*   contact en cas d'urgence
+*   détails du contact en cas d'urgence
+*   référence de réservation 
+*   numéro d'adhésion au programme de fidélité 
 
   
 
@@ -450,13 +450,13 @@ En cas d'urgence médicale pendant votre vol ou votre voyage, nous devrons recue
 
 Nous utilisons vos informations personnelles pour :
 
-* **fournir une assistance médicale en vol ou au sol**
-* **envoyer des informations précises et mises à jour aux personnes directement concernées** par une urgence, telles que votre contact en cas d'urgence et vos proches
-* **envoyer des informations aux services d'urgence, hôpitaux et cliniques** si vous y êtes admis pour des raisons médicales
-* **communiquer des informations sur leurs citoyens aux ambassades et consulats**
-* **planifier une réservation d’hôtel** s’il est nécessaire de vous héberger
-* **respecter des prescriptions légales ou réglementaires** (telles que l’envoi aux autorités gouvernementales et sanitaires de résultats de dépistages médicaux en situation d’urgence sanitaire publique)
-* **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
+*   **fournir une assistance médicale en vol ou au sol**
+*   **envoyer des informations précises et mises à jour aux personnes directement concernées** par une urgence, telles que votre contact en cas d'urgence et vos proches
+*   **envoyer des informations aux services d'urgence, hôpitaux et cliniques** si vous y êtes admis pour des raisons médicales
+*   **communiquer des informations sur leurs citoyens aux ambassades et consulats**
+*   **planifier une réservation d’hôtel** s’il est nécessaire de vous héberger
+*   **respecter des prescriptions légales ou réglementaires** (telles que l’envoi aux autorités gouvernementales et sanitaires de résultats de dépistages médicaux en situation d’urgence sanitaire publique)
+*   **tel que vous pouvez l’autoriser ou y consentir de temps à autre**
 
 Informations personnelles que nous recueillons et utilisons lorsque vous utilisez nos Plateformes
 -------------------------------------------------------------------------------------------------
@@ -499,11 +499,11 @@ Base juridique pour l'utilisation de vos informations personnelles
 
 Nous ne recueillons, traitons, utilisons, partageons et stockons vos informations personnelles que lorsque nous estimons que nous avons une base juridique suffisante pour ce faire. C'est peut-être parce que :
 
-* nous avons besoin d'utiliser vos informations personnelles pour exécuter un contrat ou prendre des mesures dans le cadre d'un contrat passé avec vous. Par exemple, pour gérer votre réservation avec nous, pour accepter le paiement de votre réservation, si vous être un passager sur l'un de nos vols ou pour finaliser vos dispositions de voyager ;
-* nous devons utiliser vos informations personnelles pour notre intérêt légitime en tant qu'organisation commerciale. Par exemple, nous pouvons enregistrer des appels à notre Service Clients pour contrôler notre façon de traiter les appels et apporter les améliorations nécessaires ou bien nous pouvons partager vos informations personnelles avec d'autres sociétés du groupe Emirates afin d'améliorer nos produits et services. Dans tous ces cas, nous traitons toujours vos informations de manière appropriée et respectueuse de vos droits à la confidentialité et à notre politique de confidentialité, et vous disposez d’un droit d’objection au traitement, tel que détaillé dans la rubrique **Droits légaux dont vous disposez pour gérer votre vie privée**
-* nous devons utiliser vos informations personnelles pour respecter une obligation légale ou réglementaire qui nous est imposée ou nous sommes légalement autorisés à divulguer vos informations personnelles aux organismes d’application de la loi, de réglementation ou à d’autres agences gouvernementales pour participer à des enquêtes. . Dans certains pays par exemple, nous sommes tenus de fournir des informations préalables sur les passagers (API) aux douanes et aux agents d’application de la loi présents aux points d’entrée et de sortie de votre itinéraire, ou de fournir des données médicales à ces organismes et aux autorités locales et internationales en situation d’urgence sanitaire publique. Lorsque nous recevons des demandes d’informations des autorités policières ou réglementaires et d’autres agences gouvernementales, nous examinons soigneusement ces demandes avant de les valider et de divulguer des informations personnelles.
-* nous avons reçu votre consentement pour utiliser vos informations personnelles pour une activité en particulier. Par exemple, si vous avez accepté que nous partagions avec vous des offres spéciales du groupe Emirates qui pourraient vous intéresser ; et
-* nous devons utiliser vos informations personnelles pour protéger vos intérêts vitaux. Par exemple, nous pourrions être dans l'obligation de rapporter votre état médical à un hôpital ou une clinique en cas d'urgence à bord de nos vols.
+*   nous avons besoin d'utiliser vos informations personnelles pour exécuter un contrat ou prendre des mesures dans le cadre d'un contrat passé avec vous. Par exemple, pour gérer votre réservation avec nous, pour accepter le paiement de votre réservation, si vous être un passager sur l'un de nos vols ou pour finaliser vos dispositions de voyager ;
+*   nous devons utiliser vos informations personnelles pour notre intérêt légitime en tant qu'organisation commerciale. Par exemple, nous pouvons enregistrer des appels à notre Service Clients pour contrôler notre façon de traiter les appels et apporter les améliorations nécessaires ou bien nous pouvons partager vos informations personnelles avec d'autres sociétés du groupe Emirates afin d'améliorer nos produits et services. Dans tous ces cas, nous traitons toujours vos informations de manière appropriée et respectueuse de vos droits à la confidentialité et à notre politique de confidentialité, et vous disposez d’un droit d’objection au traitement, tel que détaillé dans la rubrique **Droits légaux dont vous disposez pour gérer votre vie privée**
+*   nous devons utiliser vos informations personnelles pour respecter une obligation légale ou réglementaire qui nous est imposée ou nous sommes légalement autorisés à divulguer vos informations personnelles aux organismes d’application de la loi, de réglementation ou à d’autres agences gouvernementales pour participer à des enquêtes. . Dans certains pays par exemple, nous sommes tenus de fournir des informations préalables sur les passagers (API) aux douanes et aux agents d’application de la loi présents aux points d’entrée et de sortie de votre itinéraire, ou de fournir des données médicales à ces organismes et aux autorités locales et internationales en situation d’urgence sanitaire publique. Lorsque nous recevons des demandes d’informations des autorités policières ou réglementaires et d’autres agences gouvernementales, nous examinons soigneusement ces demandes avant de les valider et de divulguer des informations personnelles.
+*   nous avons reçu votre consentement pour utiliser vos informations personnelles pour une activité en particulier. Par exemple, si vous avez accepté que nous partagions avec vous des offres spéciales du groupe Emirates qui pourraient vous intéresser ; et
+*   nous devons utiliser vos informations personnelles pour protéger vos intérêts vitaux. Par exemple, nous pourrions être dans l'obligation de rapporter votre état médical à un hôpital ou une clinique en cas d'urgence à bord de nos vols.
 
   
 
@@ -514,14 +514,14 @@ Partager vos informations personnelles avec des tiers
 
 Nous partageons vos informations personnelles de la manière et aux fins décrites ci-dessous :
 
-* avec d’autres entités du groupe Emirates lorsque cette divulgation est nécessaire pour vous fournir nos produits et services ou pour gérer nos activités, notamment nos programmes de fidélité. Nous pouvons également partager vos informations personnelles au sein du groupe Emirates pour personnaliser les services et les offres dont vous bénéficiez (par exemple, en connaissant vos expériences de voyage passées, vos transactions ou préférences, et en adaptant la façon dont nous vous fournissons nos produits et services selon vos préférences et votre profil) ; pour développer une vue globale des transactions, interactions, préférences et comportements de nos clients au sein du groupe Emirates ; pour améliorer les produits et services que nous proposons ou nous aider à en créer de nouveaux et aux fins marketing, de profilage et d’analyse décrites dans la rubrique Informations personnelles que nous recueillons et utilisons à des fins marketing, de profilage et d’analyse ci-dessous ; et aux fins décrites dans la présente politique de confidentialité. [La page suivante(Ouvre un site internet externe dans un nouvel onglet)](https://www.theemiratesgroup.com/index.html)﻿ comprend une liste des membres du groupe Emirates ;
-* avec des tiers qui nous aident à gérer nos activités et à fournir nos produits et services, notamment les programmes de fidélité. Ces tiers ont accepté de respecter des obligations de confidentialité et utilisent les informations personnelles que nous partageons ou qu’ils recueillent en notre nom dans le seul but de nous fournir le service contractuel. Ces tiers comprennent des fournisseurs de services nous aidant à gérer nos systèmes informatiques et de back-office, à détecter des transactions frauduleuses et des incidents de sécurité, à apporter une assistance au service clientèle, à gérer les opérations dans les aéroports, à gérer les communications et adapter les communications marketing et les publicités, à traiter les paiements, comme des banques et des sociétés de cartes de crédit, à gérer nos stockages de données, à fournir des services pour administrer nos plateformes, à fournir des services Internet, à héberger nos installations, à fournir des services de manutention au sol et d’assistance dans les aéroports, à fournir des services de voiture et à mener des recherches qui nous aident à comprendre les centres d’intérêt des clients.
-* des banques et des fournisseurs de paiement pour autoriser et finaliser les paiements ;
-* avec des gouvernements, des organisations et agences gouvernementales, des agences de contrôle des frontières, des régulateurs, les autorités d’application de la loi et d’autres organismes tels qu’autorisés ou requis par la loi, concernant les informations préalables sur les passagers (API) ou d’autres exigences légales applicables de temps à autre aux voyages vers ou depuis un pays en particulier, pour respecter de manière globale toutes les lois, réglementations et règles en vigueur, pour satisfaire les demandes des autorités d’application de la loi et réglementaires et d’autres agences gouvernementales dans le cadre d’enquêtes, et pour répondre aux demandes des autorités de santé publique concernant le suivi des contacts et les communications avec des passagers pouvant avoir été en contact avec des personnes touchées ;
-* avec des tiers dont vous achetez les produits ou services sur nos plateformes ou d’autres manières afin qu’ils puissent honorer votre achat, respecter leurs obligations légales en lien avec votre achat et gérer les éventuels problèmes liés à votre réservation. Ces tiers incluent des compagnies aériennes (y compris des compagnies aériennes partenaires en partage de code et interlignes), des agences de tourisme, des hôtels, des sociétés de transfert et de location de voitures, des prestataires de visites et d’excursions, des assureurs et des agences de voyages. Ces tiers peuvent disposer de leurs propres politiques de confidentialité qui s’appliquent également à vous et peuvent utiliser vos informations personnelles à leurs propres fins commerciales et pour répondre à leurs obligations légales.
-* nous pouvons partager des données agrégées, sous forme statistique, des informations impersonnelles concernant les visiteurs sur nos Plateformes, les motifs du trafic et l'utilisation des Plateformes avec nos autres entités du groupe Emirates ou des publicitaires tiers et des plateformes de réseaux sociaux et numériques à des fins de publicité ;
-* nous travaillons en collaboration avec des plateformes publicitaires et de réseaux sociaux tierces pour proposer des publicités plus personnalisées mettant en avant nos produits et services selon vos préférences, comme décrit dans la rubrique **Informations personnelles que nous recueillons et utilisons à des fins marketing, de profilage et d'analyse** ci-dessous ; et
-* si, à l'avenir, nous vendons ou transférons nos activités ou nos biens en tout ou en partie à un tiers, nous pouvons divulguer des informations à un acquéreur tiers potentiel ou réel de nos activités ou de nos biens.
+*   avec d’autres entités du groupe Emirates lorsque cette divulgation est nécessaire pour vous fournir nos produits et services ou pour gérer nos activités, notamment nos programmes de fidélité. Nous pouvons également partager vos informations personnelles au sein du groupe Emirates pour personnaliser les services et les offres dont vous bénéficiez (par exemple, en connaissant vos expériences de voyage passées, vos transactions ou préférences, et en adaptant la façon dont nous vous fournissons nos produits et services selon vos préférences et votre profil) ; pour développer une vue globale des transactions, interactions, préférences et comportements de nos clients au sein du groupe Emirates ; pour améliorer les produits et services que nous proposons ou nous aider à en créer de nouveaux et aux fins marketing, de profilage et d’analyse décrites dans la rubrique Informations personnelles que nous recueillons et utilisons à des fins marketing, de profilage et d’analyse ci-dessous ; et aux fins décrites dans la présente politique de confidentialité. [La page suivante(Ouvre un site internet externe dans un nouvel onglet)](https://www.theemiratesgroup.com/index.html)﻿ comprend une liste des membres du groupe Emirates ;
+*   avec des tiers qui nous aident à gérer nos activités et à fournir nos produits et services, notamment les programmes de fidélité. Ces tiers ont accepté de respecter des obligations de confidentialité et utilisent les informations personnelles que nous partageons ou qu’ils recueillent en notre nom dans le seul but de nous fournir le service contractuel. Ces tiers comprennent des fournisseurs de services nous aidant à gérer nos systèmes informatiques et de back-office, à détecter des transactions frauduleuses et des incidents de sécurité, à apporter une assistance au service clientèle, à gérer les opérations dans les aéroports, à gérer les communications et adapter les communications marketing et les publicités, à traiter les paiements, comme des banques et des sociétés de cartes de crédit, à gérer nos stockages de données, à fournir des services pour administrer nos plateformes, à fournir des services Internet, à héberger nos installations, à fournir des services de manutention au sol et d’assistance dans les aéroports, à fournir des services de voiture et à mener des recherches qui nous aident à comprendre les centres d’intérêt des clients.
+*   des banques et des fournisseurs de paiement pour autoriser et finaliser les paiements ;
+*   avec des gouvernements, des organisations et agences gouvernementales, des agences de contrôle des frontières, des régulateurs, les autorités d’application de la loi et d’autres organismes tels qu’autorisés ou requis par la loi, concernant les informations préalables sur les passagers (API) ou d’autres exigences légales applicables de temps à autre aux voyages vers ou depuis un pays en particulier, pour respecter de manière globale toutes les lois, réglementations et règles en vigueur, pour satisfaire les demandes des autorités d’application de la loi et réglementaires et d’autres agences gouvernementales dans le cadre d’enquêtes, et pour répondre aux demandes des autorités de santé publique concernant le suivi des contacts et les communications avec des passagers pouvant avoir été en contact avec des personnes touchées ;
+*   avec des tiers dont vous achetez les produits ou services sur nos plateformes ou d’autres manières afin qu’ils puissent honorer votre achat, respecter leurs obligations légales en lien avec votre achat et gérer les éventuels problèmes liés à votre réservation. Ces tiers incluent des compagnies aériennes (y compris des compagnies aériennes partenaires en partage de code et interlignes), des agences de tourisme, des hôtels, des sociétés de transfert et de location de voitures, des prestataires de visites et d’excursions, des assureurs et des agences de voyages. Ces tiers peuvent disposer de leurs propres politiques de confidentialité qui s’appliquent également à vous et peuvent utiliser vos informations personnelles à leurs propres fins commerciales et pour répondre à leurs obligations légales.
+*   nous pouvons partager des données agrégées, sous forme statistique, des informations impersonnelles concernant les visiteurs sur nos Plateformes, les motifs du trafic et l'utilisation des Plateformes avec nos autres entités du groupe Emirates ou des publicitaires tiers et des plateformes de réseaux sociaux et numériques à des fins de publicité ;
+*   nous travaillons en collaboration avec des plateformes publicitaires et de réseaux sociaux tierces pour proposer des publicités plus personnalisées mettant en avant nos produits et services selon vos préférences, comme décrit dans la rubrique **Informations personnelles que nous recueillons et utilisons à des fins marketing, de profilage et d'analyse** ci-dessous ; et
+*   si, à l'avenir, nous vendons ou transférons nos activités ou nos biens en tout ou en partie à un tiers, nous pouvons divulguer des informations à un acquéreur tiers potentiel ou réel de nos activités ou de nos biens.
 
 Comment nous utilisons les informations personnelles pour vous informer de nos produits et services
 ---------------------------------------------------------------------------------------------------
@@ -537,16 +537,16 @@ Comment vous pouvez gérer vos préférences marketing
 
 Pour protéger votre identité et vous avoir un contrôle sur le marketing avec vous (si vous avez indiqué souhaiter le recevoir) :
 
-* nous prendrons des mesures pour limiter le marketing direct à un niveau raisonnable et proportionnel ;
-* nous ne vous enverrons que les communications qui pourraient vous intéresser ou vous concerner à tout moment, comme vous l'avez autorisé, ce qui peut, selon le cas, comprendre : 
-    * nous pouvons vous envoyer des communications sur les développements de produits et services disponibles sur nos Plateformes et ceux de nos partenaires soigneusement sélectionnés (à condition de les communiquer en conjonction avec notre propre marketing) ;
-    * nous pouvons permettre à d'autres sociétés du groupe Emirates de vous envoyer des informations sur le développement de leurs produits et services ; et
-    * nous pouvons permettre à des tiers de vous envoyer des communications marketing ou des mises à jour concernant leurs produits ou services. 
-* vous avez la possibilité de modifier les paramètres de vos cookies pour bloquer certains types de cookies - cette démarche est expliquée plus en détail dans notre [Politique sur les cookies](https://www.emirates.com/fr/french/information/cookie-policy/ "000 Cookie Policy - Header") ;
-* vous pouvez cliquer sur le lien « se désabonner » au bas de nos e-mails ou bien vous désabonner en [nous contactant](https://www.emirates.com/fr/french/help/ "Aide") ou en modifiant les paramètres de votre compte pour vous retirer des listes de diffusion d'Emirates ;
-* vous pouvez vous désabonner des communications marketing d'Emirates Skywards en vous rendant sur www.emirates.com, en vous connectant à Skywards, en sélectionnant Mon compte puis Préférences personnelles. Dans les Préférences personnelles, descendez et mettez à jour vos préférences ;
-* Vous pouvez vous désabonner des messages ou notifications d'Emirates sur mobile en vous rendant dans les paramètres de votre appareil et en désactivant les notifications de l'application Emirates concernée ; et
-* si vous ne souhaitez pas recevoir nos publicités sur les réseaux sociaux ou autres plateformes numériques, vous pouvez gérer vos préférences sur ces plateformes.
+*   nous prendrons des mesures pour limiter le marketing direct à un niveau raisonnable et proportionnel ;
+*   nous ne vous enverrons que les communications qui pourraient vous intéresser ou vous concerner à tout moment, comme vous l'avez autorisé, ce qui peut, selon le cas, comprendre : 
+    *   nous pouvons vous envoyer des communications sur les développements de produits et services disponibles sur nos Plateformes et ceux de nos partenaires soigneusement sélectionnés (à condition de les communiquer en conjonction avec notre propre marketing) ;
+    *   nous pouvons permettre à d'autres sociétés du groupe Emirates de vous envoyer des informations sur le développement de leurs produits et services ; et
+    *   nous pouvons permettre à des tiers de vous envoyer des communications marketing ou des mises à jour concernant leurs produits ou services. 
+*   vous avez la possibilité de modifier les paramètres de vos cookies pour bloquer certains types de cookies - cette démarche est expliquée plus en détail dans notre [Politique sur les cookies](https://www.emirates.com/fr/french/information/cookie-policy/ "000 Cookie Policy - Header") ;
+*   vous pouvez cliquer sur le lien « se désabonner » au bas de nos e-mails ou bien vous désabonner en [nous contactant](https://www.emirates.com/fr/french/help/ "Aide") ou en modifiant les paramètres de votre compte pour vous retirer des listes de diffusion d'Emirates ;
+*   vous pouvez vous désabonner des communications marketing d'Emirates Skywards en vous rendant sur www.emirates.com, en vous connectant à Skywards, en sélectionnant Mon compte puis Préférences personnelles. Dans les Préférences personnelles, descendez et mettez à jour vos préférences ;
+*   Vous pouvez vous désabonner des messages ou notifications d'Emirates sur mobile en vous rendant dans les paramètres de votre appareil et en désactivant les notifications de l'application Emirates concernée ; et
+*   si vous ne souhaitez pas recevoir nos publicités sur les réseaux sociaux ou autres plateformes numériques, vous pouvez gérer vos préférences sur ces plateformes.
 
   
 
@@ -567,20 +567,20 @@ Si vous utilisez les boutons de nos Plateformes reliés aux réseaux sociaux ou 
 
 Nous utilisons des informations personnelles telles que votre date de naissance, votre sexe, le pays de résidence, les transactions (par exemple les paiements effectués auprès de nous, les Miles et les vols parcourus), des informations issues des cookies et vos préférences pour le profilage. Certains des objectifs légitimes pour lesquels nous profilons des informations personnelles incluent ;
 
-* pour mieux comprendre ce que vous aimeriez voir et comment nous pouvons continuer à améliorer nos services pour vous ;
-* pour personnaliser les services et les offres que vous recevez de notre part et récompenser votre fidélité dans le cadre de nos programmes de fidélité, notamment avec des invitations à des événements spéciaux ;
-* pour vous proposer un contenu en ligne adapté et optimiser votre expérience sur nos Plateformes ;
-* pour vous proposer des publicités adaptées sur d'autres sites Internet que vous visitez, les réseaux sociaux et les plateformes numériques ;
-* pour partager des contenus marketing pouvant vous intéresser, notamment d'autres sociétés du groupe Emirates et de nos partenaires tiers ;
-* pour nous aider à mieux faire fonctionner nos services ;
-* pour authentifier les connexions sur nos plateformes, détecter et prévenir les fraudes et vous envoyer des e-mails ou des SMS contenant un mot de passe à usage unique./li>
+*   pour mieux comprendre ce que vous aimeriez voir et comment nous pouvons continuer à améliorer nos services pour vous ;
+*   pour personnaliser les services et les offres que vous recevez de notre part et récompenser votre fidélité dans le cadre de nos programmes de fidélité, notamment avec des invitations à des événements spéciaux ;
+*   pour vous proposer un contenu en ligne adapté et optimiser votre expérience sur nos Plateformes ;
+*   pour vous proposer des publicités adaptées sur d'autres sites Internet que vous visitez, les réseaux sociaux et les plateformes numériques ;
+*   pour partager des contenus marketing pouvant vous intéresser, notamment d'autres sociétés du groupe Emirates et de nos partenaires tiers ;
+*   pour nous aider à mieux faire fonctionner nos services ;
+*   pour authentifier les connexions sur nos plateformes, détecter et prévenir les fraudes et vous envoyer des e-mails ou des SMS contenant un mot de passe à usage unique./li>
 
   
 
 Lorsque la loi applicable l'exige :
 
-* nous prenons des mesures pour nous assurer, avant le profilage de vos informations personnelles à des fins légitimes, que notre intérêt légitime n'est pas supplanté par vos propres intérêts ou vos droits et libertés fondamentaux ; et
-* vous avez le droit de refuser le profilage de vos informations personnelles. Vous pouvez en savoir plus sur ces droits dans la rubrique **Droits juridiques dont vous disposez pour gérer votre vie privée**.
+*   nous prenons des mesures pour nous assurer, avant le profilage de vos informations personnelles à des fins légitimes, que notre intérêt légitime n'est pas supplanté par vos propres intérêts ou vos droits et libertés fondamentaux ; et
+*   vous avez le droit de refuser le profilage de vos informations personnelles. Vous pouvez en savoir plus sur ces droits dans la rubrique **Droits juridiques dont vous disposez pour gérer votre vie privée**.
 
 Transfert international de vos informations personnelles
 --------------------------------------------------------
@@ -589,8 +589,8 @@ Le groupe Emirates est une entreprise internationale, ce qui signifie que vos in
 
 Nous prendrons les mesures appropriées pour nous assurer que le transfert des informations personnelles se fait conformément à la loi en vigueur et nous ne transférons des informations personnelles vers un autre pays que lorsque :
 
-* nous savons que des niveaux de protection adéquats sont en place pour protéger vos informations ; et
-* les transferts sont entièrement gérés pour protéger vos droits à la confidentialité et vos intérêts et se limitent aux pays reconnus comme fournissant un niveau de protection légale adéquat ou dans lesquels nous savons que des dispositions alternatives sont mises en place pour protéger vos droits à la confidentialité.
+*   nous savons que des niveaux de protection adéquats sont en place pour protéger vos informations ; et
+*   les transferts sont entièrement gérés pour protéger vos droits à la confidentialité et vos intérêts et se limitent aux pays reconnus comme fournissant un niveau de protection légale adéquat ou dans lesquels nous savons que des dispositions alternatives sont mises en place pour protéger vos droits à la confidentialité.
 
   
 
@@ -598,9 +598,9 @@ Nous prendrons les mesures appropriées pour nous assurer que le transfert des i
 
   
 
-* nous garantissons que les transferts au sein du groupe Emirates sont couverts par un accord signé par les membres du groupe (accord intragroupe) obligeant contractuellement chaque membre à garantir que les informations personnelles bénéficient d'un niveau de protection adéquat et constant où qu'elles soient transférées dans le groupe Emirates ;
-* lorsque nous transférons vos informations personnelles en dehors du groupe Emirates ou à des tiers (qui nous aident à fournir nos produits et services), nous obtenons des engagements contractuels pour protéger vos informations personnelles ; ou
-* lorsque nous recevons des demandes d'informations des autorités policières, nous examinons soigneusement ces demandes avant de les valider et de divulguer des informations personnelles.
+*   nous garantissons que les transferts au sein du groupe Emirates sont couverts par un accord signé par les membres du groupe (accord intragroupe) obligeant contractuellement chaque membre à garantir que les informations personnelles bénéficient d'un niveau de protection adéquat et constant où qu'elles soient transférées dans le groupe Emirates ;
+*   lorsque nous transférons vos informations personnelles en dehors du groupe Emirates ou à des tiers (qui nous aident à fournir nos produits et services), nous obtenons des engagements contractuels pour protéger vos informations personnelles ; ou
+*   lorsque nous recevons des demandes d'informations des autorités policières, nous examinons soigneusement ces demandes avant de les valider et de divulguer des informations personnelles.
 
   
 
@@ -617,10 +617,10 @@ Comment nous protégeons et stockons vos informations personnelles
 
 Nous avons mis en place et maintenons des mesures de sécurité techniques et organisationnelles appropriées, des politiques et des procédures conçues pour protéger les informations personnelles que vous partagez avec nous et pour garantir la confidentialité de ces informations. Par exemple, parmi les mesures que nous prenons :
 
-* notre personnel et les fournisseurs de service sont soumis à des exigences en matière de confidentialité ;
-* nous détruisons ou anonymisons de manière permanente les informations personnelles si elles ne sont plus nécessaires dans le cadre de leur recueil ;
-* nous suivons les procédures de sécurité pour le stockage et la divulgation de vos informations personnelles afin d'éviter l'accès non autorisé ; et
-* nous utilisons des canaux de communication sécurisés, comme SSL (Secure Socket Layer) ou TLS (Transport Layer Security) pour la transmission des données qui nous sont envoyées. SSL et TLS sont des protocoles de cryptage standard du secteur utilisés pour protéger les canaux de transactions en ligne.
+*   notre personnel et les fournisseurs de service sont soumis à des exigences en matière de confidentialité ;
+*   nous détruisons ou anonymisons de manière permanente les informations personnelles si elles ne sont plus nécessaires dans le cadre de leur recueil ;
+*   nous suivons les procédures de sécurité pour le stockage et la divulgation de vos informations personnelles afin d'éviter l'accès non autorisé ; et
+*   nous utilisons des canaux de communication sécurisés, comme SSL (Secure Socket Layer) ou TLS (Transport Layer Security) pour la transmission des données qui nous sont envoyées. SSL et TLS sont des protocoles de cryptage standard du secteur utilisés pour protéger les canaux de transactions en ligne.
 
   
 
@@ -628,10 +628,10 @@ La sécurité des informations dépend en partie de la sécurité de l'ordinateu
 
 Voici quelques étapes simples qui vous permettront de garder vos informations personnelles en sécurité :
 
-* gardez votre référence de réservation secrète - lors de la réservation, une référence de réservation unique (également appelée PNR pour Passenger Name Record) apparaît sur l'e-mail de confirmation ou le billet pour chaque personne de votre réservation. Il est important de garder votre référence de réservation secrète à tout moment. D'autres personnes pourraient accéder à vos détails de réservation dans notre système si vous leur dévoilez votre référence de réservation ;
-* si vous voyagez en groupe et que vous préférez que vos détails de réservation individuels ne soient pas mis à la disposition des autres passagers, vous pouvez choisir de réserver séparément pour chaque personne (avec paiement individuel) ;
-* gardez votre numéro Skywards/Business Rewards/vos identifiants de connexion secrets. Vous ne devez partager vos identifiants avec personne. Vous devez également vous déconnecter lorsque vous avez fini d'utiliser nos plateformes. Ce point est tout particulièrement important si vous utilisez un ordinateur accessible à d'autres personnes ; et
-* faites attention au hameçonnage, où une personne essaie de vous soutirer des informations en se faisant passer pour une autre. Vérifiez toujours que les e-mails de tout expéditeur proviennent bien de lui et, en cas de doute, rendez-vous directement sur son site Web et ne cliquez pas sur les liens dans les e-mails, car ils peuvent vous conduire sur des sites « clones » qui utilisent vos informations illégalement.
+*   gardez votre référence de réservation secrète - lors de la réservation, une référence de réservation unique (également appelée PNR pour Passenger Name Record) apparaît sur l'e-mail de confirmation ou le billet pour chaque personne de votre réservation. Il est important de garder votre référence de réservation secrète à tout moment. D'autres personnes pourraient accéder à vos détails de réservation dans notre système si vous leur dévoilez votre référence de réservation ;
+*   si vous voyagez en groupe et que vous préférez que vos détails de réservation individuels ne soient pas mis à la disposition des autres passagers, vous pouvez choisir de réserver séparément pour chaque personne (avec paiement individuel) ;
+*   gardez votre numéro Skywards/Business Rewards/vos identifiants de connexion secrets. Vous ne devez partager vos identifiants avec personne. Vous devez également vous déconnecter lorsque vous avez fini d'utiliser nos plateformes. Ce point est tout particulièrement important si vous utilisez un ordinateur accessible à d'autres personnes ; et
+*   faites attention au hameçonnage, où une personne essaie de vous soutirer des informations en se faisant passer pour une autre. Vérifiez toujours que les e-mails de tout expéditeur proviennent bien de lui et, en cas de doute, rendez-vous directement sur son site Web et ne cliquez pas sur les liens dans les e-mails, car ils peuvent vous conduire sur des sites « clones » qui utilisent vos informations illégalement.
 
 ### Stockage de vos données personnelles
 
@@ -657,13 +657,13 @@ Droits légaux dont vous disposez pour gérer votre vie privée
 
 Si vous bénéficiez de lois vous prodiguant de tels droits, selon certaines exceptions et dans certains cas selon les activités de traitement que nous effectuons, vous pouvez disposer de certains droits liés à vos informations personnelles. Cliquez sur les liens ci-dessous pour en savoir plus sur les droits dont vous pouvez bénéficier :
 
-* **Accès aux Données à caractère personnel**
-* **Rectification/suppression (« droit à l’oubli ») des Données à caractère personnel**
-* **Limitation du traitement de vos Données à caractère personnel**
-* **Objection au traitement (y compris au marketing direct) des Données à caractère personnel**
-* **Transfert de vos Données à caractère personnel**
-* **Obtention d’une copie des protections en place lors de transfert des Données à caractère personnel en dehors de votre juridiction**
-* **Dépôt de plainte auprès de votre autorité de surveillance locale**
+*   **Accès aux Données à caractère personnel**
+*   **Rectification/suppression (« droit à l’oubli ») des Données à caractère personnel**
+*   **Limitation du traitement de vos Données à caractère personnel**
+*   **Objection au traitement (y compris au marketing direct) des Données à caractère personnel**
+*   **Transfert de vos Données à caractère personnel**
+*   **Obtention d’une copie des protections en place lors de transfert des Données à caractère personnel en dehors de votre juridiction**
+*   **Dépôt de plainte auprès de votre autorité de surveillance locale**
 
   
 
@@ -679,18 +679,18 @@ Vous avez le droit de demander la rectification d'informations personnelles inex
 
 Vous pouvez également demander à supprimer vos informations personnelles dans des cas restreints où :
 
-* elles ne sont plus nécessaires aux fins auxquelles elles ont été recueillies ; ou
-* vous avez retiré votre consentement (lorsque le traitement des données s'appuyait sur un consentement) ; ou
-* suite à un droit d'objection accepté (voir le droit d'objection) ; ou
-* si elles ont été traitées de manière illégale ; ou
-* les informations personnelles doivent être supprimées dans le cadre d'une obligation légale de l'Union européenne ou d'un État membre à laquelle l'entité du groupe Emirates concernée est soumise.
+*   elles ne sont plus nécessaires aux fins auxquelles elles ont été recueillies ; ou
+*   vous avez retiré votre consentement (lorsque le traitement des données s'appuyait sur un consentement) ; ou
+*   suite à un droit d'objection accepté (voir le droit d'objection) ; ou
+*   si elles ont été traitées de manière illégale ; ou
+*   les informations personnelles doivent être supprimées dans le cadre d'une obligation légale de l'Union européenne ou d'un État membre à laquelle l'entité du groupe Emirates concernée est soumise.
 
   
 
 Nous ne sommes pas tenus de répondre à votre demande de suppression des informations personnelles si le traitement de vos informations personnelles est nécessaire :
 
-* pour respecter une obligation légale ; ou
-* pour l'établissement, le dépôt ou la défense d'une réclamation juridique.
+*   pour respecter une obligation légale ; ou
+*   pour l'établissement, le dépôt ou la défense d'une réclamation juridique.
 
 ### Droit d'objection au traitement (y compris au marketing direct) de vos informations personnelles
 
@@ -704,15 +704,15 @@ Vous pouvez demander à ce que nous ne transférions plus vos informations perso
 
 Si vous êtes un membre Skywards ou que vous vous êtes inscrit à notre liste de diffusion, vous pouvez gérer vos préférences marketing automatiquement des façons suivantes :
 
-* vous pouvez cliquer sur le lien « se désabonner » au bas de nos e-mails ou bien vous désabonner en [nous contactant](https://www.emirates.com/fr/french/help/ "Aide") ou en modifiant les paramètres de votre compte pour vous retirer des listes de diffusion d'Emirates ;
-* pour vous désabonner des communications marketing d'Emirates Skywards, rendez-vous sur www.emirates.com et connectez-vous à Skywards, sélectionnez Mon compte puis Préférences personnelles. Dans les Préférences personnelles, descendez et mettez à jour vos préférences.
+*   vous pouvez cliquer sur le lien « se désabonner » au bas de nos e-mails ou bien vous désabonner en [nous contactant](https://www.emirates.com/fr/french/help/ "Aide") ou en modifiant les paramètres de votre compte pour vous retirer des listes de diffusion d'Emirates ;
+*   pour vous désabonner des communications marketing d'Emirates Skywards, rendez-vous sur www.emirates.com et connectez-vous à Skywards, sélectionnez Mon compte puis Préférences personnelles. Dans les Préférences personnelles, descendez et mettez à jour vos préférences.
 
 ### Droit au transfert de vos informations personnelles
 
 Vous pouvez nous demander de vous fournir vos informations personnelles dans un format structuré, fréquemment utilisé et compatible avec votre ordinateur, ou vous pouvez demander leur transfert directement à un autre contrôleur de données, mais, dans chacun des cas, uniquement lorsque :
 
-* le traitement est basé sur votre consentement ou dans le cadre d'un contrat avec vous ; et
-* le traitement est automatisé.
+*   le traitement est basé sur votre consentement ou dans le cadre d'un contrat avec vous ; et
+*   le traitement est automatisé.
 
 ### Droit d'obtention d'une copie des protections en place lors de transfert des informations personnelles en dehors de votre juridiction
 
@@ -724,18 +724,18 @@ Nous pouvons rédiger des accords de transfert des données pour protéger les m
 
 Vous pouvez nous demander de restreindre vos informations personnelles, mais uniquement lorsque :
 
-* leur exactitude est contestée, afin de nous permettre de vérifier leur précision ; ou
-* leur traitement est illégal, mais vous ne souhaitez pas les supprimer ; ou
-* elles ne sont plus nécessaires aux fins pour lesquelles elles ont été recueillies, mais nous en avons toujours besoin pour établir, faire valoir ou défendre des prétentions juridiques ; ou
-* vous avez exercé votre droit d'objection et la vérification des raisons impérieuses est en cours.
+*   leur exactitude est contestée, afin de nous permettre de vérifier leur précision ; ou
+*   leur traitement est illégal, mais vous ne souhaitez pas les supprimer ; ou
+*   elles ne sont plus nécessaires aux fins pour lesquelles elles ont été recueillies, mais nous en avons toujours besoin pour établir, faire valoir ou défendre des prétentions juridiques ; ou
+*   vous avez exercé votre droit d'objection et la vérification des raisons impérieuses est en cours.
 
   
 
 Nous pouvons continuer à utiliser vos informations personnelles suite à une demande de restriction, lorsque :
 
-* nous avons reçu votre consentement ; ou
-* pour établir, faire valoir ou défendre des prétentions juridiques ; ou
-* pour protéger les droits d'une autre personne physique ou morale.
+*   nous avons reçu votre consentement ; ou
+*   pour établir, faire valoir ou défendre des prétentions juridiques ; ou
+*   pour protéger les droits d'une autre personne physique ou morale.
 
 ### Droit de dépôt de plainte auprès de votre autorité de surveillance locale
 
