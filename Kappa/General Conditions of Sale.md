@@ -117,7 +117,7 @@ Dans tous les cas, KAPPA FRANCE accuse réception de la Commande dès sa validat
 
 La Commande n’est définitive qu’à compter du paiement du prix correspondant. Le Client est donc débité du montant de son achat au jour de la Commande.
 
-Les moyens de paiement acceptés à ce jour sont : Carte Bleue, Carte VISA, Carte MASTERCARD / EUROCARD, American Express ou Paypal. Pour les cartes de paiement le Client communique le numéro de sa carte bancaire associé à sa date d’expiration ainsi que les trois derniers chiffres du cryptogramme figurant au verso de sa carte bancaire.
+Les moyens de paiement acceptés à ce jour sont : Carte Bleue, Carte VISA, Carte MASTERCARD / EUROCARD, American Express, Paypal ou Apple Pay. Pour les cartes de paiement le Client communique le numéro de sa carte bancaire associé à sa date d’expiration ainsi que les trois derniers chiffres du cryptogramme figurant au verso de sa carte bancaire.
 
 Afin d’assurer la sécurité des paiements effectués en ligne, le Site utilise les services de paiement sécurisé via Stripe. Ces services intègrent la norme de sécurité 3D Secure. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d’expiration et le cryptogramme) sont directement transmises cryptées sur le serveur Stripe.
 
