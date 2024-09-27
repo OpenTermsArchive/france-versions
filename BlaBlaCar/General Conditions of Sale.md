@@ -108,8 +108,9 @@ La Plateforme permet aux Membres de publier des Annonces de Covoiturage et consu
 
 Pour créer votre Compte, vous pouvez :
 
-* (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
-* (ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) et celle de Facebook.
+(i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
+
+(ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) et celle de Facebook.
 
 Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU.
 
@@ -138,17 +139,27 @@ Lors de la publication de votre Annonce de Covoiturage, vous pouvez indiquer des
 
 Vous n’êtes autorisé à publier une Annonce de Covoiturage que si vous remplissez l’ensemble des conditions suivantes :
 
-* (i) vous êtes titulaire d’un permis de conduire valide ;
-* (ii) vous ne proposez des Annonces de Covoiturage que pour des véhicules dont vous êtes le propriétaire ou que vous utilisez avec l’autorisation expresse du propriétaire, et dans tous les cas, que vous êtes autorisé à utiliser à des fins de covoiturage ;
-* (iii) vous êtes et demeurez le conducteur principal du véhicule, objet de l’Annonce de Covoiturage ;
-* (iv) le véhicule bénéficie d’une assurance au tiers valide ;
-* (v) vous n’avez aucune contre-indication ou incapacité médicale à conduire ;
-* (vi) le véhicule que vous comptez utiliser pour le Trajet est une voiture de tourisme à 4 roues, disposant d’un maximum de 7 places assises, à l’exclusion des voitures dites « sans permis » ;
-* (vii) vous ne comptez pas publier une autre annonce pour le même Trajet en Covoiturage sur la Plateforme ;
-* (viii) vous n’offrez pas plus de Places que celles disponibles dans votre véhicule ;
-* (ix) toutes les Places offertes ont une ceinture de sécurité, et ce même si le véhicule est homologué en présence de sièges dépourvus de ceinture de sécurité ;
-* (x) vous utilisez un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
-* (xi) vous êtes un consommateur et n’agissez pas à titre professionnel.
+(i) vous êtes titulaire d’un permis de conduire valide ;
+
+(ii) vous ne proposez des Annonces de Covoiturage que pour des véhicules dont vous êtes le propriétaire ou que vous utilisez avec l’autorisation expresse du propriétaire, et dans tous les cas, que vous êtes autorisé à utiliser à des fins de covoiturage ;
+
+(iii) vous êtes et demeurez le conducteur principal du véhicule, objet de l’Annonce de Covoiturage ;
+
+(iv) le véhicule bénéficie d’une assurance au tiers valide ;
+
+(v) vous n’avez aucune contre-indication ou incapacité médicale à conduire ;
+
+(vi) le véhicule que vous comptez utiliser pour le Trajet est une voiture de tourisme à 4 roues, disposant d’un maximum de 7 places assises, à l’exclusion des voitures dites « sans permis » ;
+
+(vii) vous ne comptez pas publier une autre annonce pour le même Trajet en Covoiturage sur la Plateforme ;
+
+(viii) vous n’offrez pas plus de Places que celles disponibles dans votre véhicule ;
+
+(ix) toutes les Places offertes ont une ceinture de sécurité, et ce même si le véhicule est homologué en présence de sièges dépourvus de ceinture de sécurité ;
+
+(x) vous utilisez un véhicule en parfait état de fonctionnement et conforme aux usages et dispositions légales applicables, notamment avec un contrôle technique à jour ;
+
+(xi) vous êtes un consommateur et n’agissez pas à titre professionnel.
 
 Vous reconnaissez être le seul responsable du contenu de l’Annonce de Covoiturage que vous publiez sur la Plateforme. En conséquence, vous déclarez et garantissez l’exactitude et la véracité de toute information contenue dans votre Annonce de Covoiturage et vous engagez à effectuer le Trajet en Covoiturage selon les modalités décrites dans votre Annonce de Covoiturage.
 
