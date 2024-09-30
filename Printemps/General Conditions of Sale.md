@@ -247,7 +247,7 @@
 
 * [INSPIRATIONS](#)
     * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
-    * [Makeup de rentrée](https://www.printemps.com/fr/fr/maquillage-naturel?ap_source=anico&ap_medium=nav-beaute&ap_campaign=makeup_naturel)
+    * [Maquillage d'automne](https://www.printemps.com/fr/fr/maquillage-automne?ap_source=anico&ap_medium=nav-beaute&ap_campaign=maquillage_automne)
     * [Concentré de bonne mine](https://www.printemps.com/fr/fr/bonne-mine?ap_source=anico&ap_medium=nav-beaute&ap_campaign=bonne_mine)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nos-concepts)
 * [SÉLECTIONS](#)
