@@ -3,9 +3,9 @@ Conditions générales de vente
 
 #### (Hors produits qui ne sont pas vendus et expédiés par VERTBAUDET)
 
-#### Mise à jour du 24 août 2023 [(Télécharger nos conditions générales de vente)](https://www.vertbaudet.fr/cgv-082023.pdf)
+#### Mise à jour du 24/09/2024 [(Télécharger nos conditions générales de vente)](https://media.vertbaudet.fr/medias/44/0/35448/1819040950/2024-09-24-CGV.pdf)
 
-Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
+Les présentes conditions générales de vente (les « CGV ») régissent les contrats conclus sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/page/www.vertbaudet.fr) (le « Site ») avec la société Vertbaudet, société par actions simplifiée, immatriculée au Registre du Commerce et des Sociétés de Lille Métropole sous le numéro 397.555.327, dont le siège social est au 36 Avenue Alfred Lefrançois – 59200 TOURCOING - France, numéro de TVA intracommunautaire FR68397555327 (ci-après dénommée « Vertbaudet »), et uniquement pour les produits vendus et expédiés par Vertbaudet (ci-après les « Produits »)
 
 Vous pouvez nous contacter :
 
@@ -13,7 +13,7 @@ Vous pouvez nous contacter :
 
 \- [ici](https://www.vertbaudet.fr/contact.htm) ou par mail à l'adresse suivante : [contactclient@vertbaudet.com](https://www.vertbaudet.fr/page/contactclient@vertbaudet.com)
 
-La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une activité de ventes d'articles essentiellement destinés au marché du bébé et de l'enfant, de la future maman, de la puériculture, ainsi que de la décoration et d'aménagement de la chambre d'enfants.
+La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une activité de vente d'articles essentiellement destinés au marché du bébé et de l'enfant, de la future maman, de la puériculture, ainsi que de la décoration et d'aménagement de la chambre d'enfants.
 
 * [1. L'offre](#offre)
 * [2. Les prix](#prix)
@@ -36,13 +36,13 @@ La société Vertbaudet exploite, sous la marque et l'enseigne Vertbaudet, une a
 Préambule
 ---------
 
-Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le « Client »).
+Les personnes souhaitant acheter des produits Vertbaudet en leur qualité de commerçant seront soumises à des dispositions contractuelles à établir entre elle et Vertbaudet et doivent prendre contact à cet effet avec notre département BtoB
 
 Les présentes CGV régissent la vente des Produits du Site exclusivement vendus et expédiés par Vertbaudet (ci-après les « Produits »).
 
 L'expédition des Produits (ou la fourniture de services liés aux Produits) ne pourra territorialement s'effectuer qu'en France métropolitaine et en Corse (voir article 5 pour une livraison dans une autre région).
 
-Vertbaudet se réserve tout droit de modifier les CGV à tout moment. Cependant, ces nouvelles CGV ne s'appliqueront pas pour les transactions en cours au moment de leur entrée en vigueur.
+Vertbaudet se réserve tout droit de modifier les CGV à tout moment. Cependant, ces nouvelles CGV s'appliqueront uniquement aux commandes passées après leur mise en ligne. Les présentes CGV sont conclues entre Vertbaudet et toute personne physique non commerçante souhaitant effectuer un achat via le Site (le « Client »).
 
 Si une condition venait à faire défaut, elle serait considérée être régie par les usages en vigueur dans le secteur de la vente à distance dont les sociétés ont siège en France.
 
@@ -81,13 +81,9 @@ Une fois que vous avez choisi tous les Produits que vous souhaitez commander, vo
 
 La validation de la commande vaut acceptation expresse des CGV.
 
-Vertbaudet accusera réception de la commande par l'envoi d'un e-mail sous quarante huit (48) heures (sauf commande passée les vendredis, samedis, dimanches et jours feriés, heures françaises) qui contiendra un lien vers les présentes conditions générales de vente. Vous avez également la possibilité d'imprimer un récapitulatif de commande directement sur le Site.
+Vertbaudet accusera réception de la commande par l'envoi d'un e-mail sous quarante-huit (48) heures (sauf commande passée les vendredis, samedis, dimanches et jours fériés, heures françaises) qui contiendra un lien vers les présentes conditions générales de vente. Vous avez également la possibilité d'imprimer un récapitulatif de commande directement sur le Site.
 
-En cas d'indisponibilité d'un Produits commandé, vous en serez informé par courrier électronique. L'annulation de la commande de cet Produits sera alors effectuée.
-
-Néanmoins, dans certains cas, notamment, comptes clients multiples, commande anormale au regard de la quantité commandée, échanges ou retours abusifs, litige existant, défaut de paiement, adresse erronée ou autre problème sur votre compte, Vertbaudet se réserve le droit de bloquer la commande du Client jusqu'à la résolution du problème.
-
-Pour toute question relative au suivi de votre commande, merci d'appeler le 03.20.760.760 (coût d’un appel local depuis un poste fixe) de 9h à 18h du lundi au vendredi et le samedi de 9h à 16h.
+Néanmoins, dans certains cas, notamment, comptes clients multiples, commande anormale au regard de la quantité commandée, échanges ou retours abusifs, litige existant, défaut de paiement, adresse erronée ou autre problème sur votre compte, Vertbaudet se réserve le droit de bloquer la commande du Client jusqu’à la résolution du problème. Pour toute question relative au suivi de votre commande, merci d’appeler le 03.20.760.760 (coût d’un appel local depuis un poste fixe), de 9h à 18h du lundi au vendredi et le samedi de 9h à 16h.
 
 4\. Le paiement
 ---------------
@@ -96,19 +92,17 @@ Pour toute question relative au suivi de votre commande, merci d'appeler le 03.2
 
 ### Modes de paiement
 
-#### 4.1 Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard) (Mode de paiement valable pour tout type de commande) :
+#### 4.1 Comptant par carte bancaire (Carte Bleue, e-carte bleue, Visa, Mastercard) (Mode de paiement valable pour tout type de commande) :
 
 Votre compte sera débité lors de la validation de votre commande notamment par le service de paiements sécurisés (cf ci-dessous).
 
-Si un Produit s'avère indisponible, le montant correspondant en sera recrédité sur votre compte lors de la constatation de l'indisponibilité.
-
 Service de paiements sécurisés :
 
-Les informations en rapport avec votre commande font l'objet d'un traitement automatisé de données dans les conditions exposées ci-dessous dans le but de renforcer le niveau de sécurité des opérations réalisées sur le site Internet et de protéger Vertbaudet et ses clients contre d'éventuels phénomènes d'usurpation d'identité ou de tentative de fraude.
+Les informations en rapport avec votre commande font l’objet d’un traitement automatisé de données dans les conditions exposées ci-dessous, dans le but de renforcer le niveau de sécurité des opérations réalisées sur le Site et de protéger Vertbaudet et ses clients contre d’éventuels phénomènes d’usurpation d’identité ou de tentative de fraude.
 
 Oneytrust traite les données en rapport avec votre navigation pour sécuriser les transactions réalisées sur le Site. En savoir plus sur la gestion de vos données par Oneytrust et vos droits [cliquez ici](https://oneytrust.com/mention-information-score-et-review/).
 
-Afin d'assurer la sécurité des paiements, Vertbaudet utilise en outre le service de paiements sécurisés d’un prestataire : INGENICO ePAYMENTS. Ce service intègre la norme de sécurité SSL3.0. (les données confidentielles sont cryptées sur le serveur INGENICO et ne sont à aucun moment transmises sur le serveur informatique Vertbaudet). INGENICO assure ainsi la plus grande sécurité aux données concernant les moyens de paiement de nos clients. Votre demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé INGENICO qui procède aux diverses vérifications pour éviter les abus et les fraudes.
+Afin d'assurer la sécurité des paiements, Vertbaudet utilise en outre le service de paiements sécurisés d’un prestataire : INGENICO ePAYMENTS. Ce service intègre la norme de sécurité SSL3.0 (les données confidentielles sont cryptées sur le serveur INGENICO et ne sont à aucun moment transmises sur le serveur informatique Vertbaudet). INGENICO assure ainsi la plus grande sécurité aux données concernant les moyens de paiement de nos clients. Votre demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé INGENICO qui procède aux diverses vérifications pour éviter les abus et les fraudes.
 
 Lors de la validation de votre commande, vous devrez indiquer votre numéro de carte bancaire, sa date d'expiration et son cryptogramme. Les coordonnées de la carte bancaire seront alors conservées sous format crypté jusqu'au paiement effectif de la commande, par le biais de notre prestataire de paiement INGENICO et jusqu'à l'expiration du délai de votre droit de retour, afin de pouvoir vous rembourser par crédit de votre compte. Les données relatives aux cartes bancaires communiquées lors de vos commandes ne sont utilisées par INGENICO qu'aux seules fins de réalisation de la transaction. De même en cas d'option pour le paiement différé ou report, vos coordonnées bancaires seront conservées de la même manière par INGENICO jusqu'à la date de paiement prévue.
 
@@ -116,31 +110,37 @@ Par ailleurs, vous pouvez choisir de mémoriser les informations relatives à vo
 
 Conformément à la loi du 13 mars 2000 sur la signature électronique, la transmission en ligne de votre numéro de carte et la validation finale de votre commande valent preuve pour l'intégralité de la commande et l'exigibilité des sommes dues en règlement de cette demande.
 
-Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à contacter immédiatement après le constat de cette utilisation, le Service Client au 03.20.760.760 (coût d’un appel local depuis un poste fixe) de 9h à 18h du lundi au vendredi (sauf jours fériés) et le samedi de 9h à 16h.
+Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à contacter immédiatement après le constat de cette utilisation, le Service Client au 03.20.760.760 (prix d’un appel local depuis un poste fixe), de 9h à 18h du lundi au vendredi (sauf jours fériés) et le samedi de 9h à 16h.
 
 Les cartes de paiement notamment de type Electron, Maestro, Nickel, Viabuy et Néocash, etc, ne sont pas acceptées dans le cadre du paiement report.
 
-#### 4.2 Paiement sous 30 jours ou en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### 4.2 Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
-Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
+Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
-Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
+#### 4.3 Paiement avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
-#### 4.3 Avec votre compte PAYPAL (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement PayPal validé, vous pourrez terminer votre commande sur le Site.
 
-En choisissant le paiement via PayPal, vous serez automatiquement dirigé sur votre compte PayPal. Une fois le paiement Paypal validé, vous pourrez terminer votre commande sur le site Internet.
-
-Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
-
-#### 4.4 Par carte cadeau Vertbaudet (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### 4.4 Paiement par carte cadeau Vertbaudet (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
 
 Le montant de vos achats sera débité immédiatement, même en cas d'articles en différés de livraison. Vous devrez renseigner les numéros d'identification figurant sur la carte. Vous pouvez payer par carte cadeau dans la limite de 5 cartes maximum. Vous pouvez compléter votre paiement carte cadeau avec votre carte bancaire.
-
-Ce moyen de paiement n'est pas disponible dès lors que votre panier contient au moins un produit de notre marketplace.
 
 La facture de votre commande vous est adressée par courriel lors de la confirmation de l’expédition de votre commande et est également disponible sur votre compte client.
 
 Sur simple demande, la facture peut vous être adressée sur support papier.
+
+#### 4.5 Paiement report (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+
+Le paiement report consiste à régler la totalité de votre achat 30 jours après la date de votre commande.
+
+L’offre de paiement report est réservée aux clients membres du club Vertbaudet réalisant une commande sur le site vertbaudet.fr (dès la 2ème commande) d’un montant minimum de 60€ et d’un montant maximum de 380€, sous réserve de validation de la commande par nos services financiers
+
+Vous pouvez vérifier votre éligibilité lorsque vous passez votre commande, au moment du choix du paiement.
+
+Pour des questions de sécurité, Vertbaudet procède à une vérification en faisant une demande de préautorisation. Celle-ci est conservée par notre partenaire INGENICO jusqu’à la date du débit sur votre compte bancaire.
+
+Effectuer un règlement en différé peut entraîner des risques d’incidents de paiement. Il vous faudra toujours veiller à avoir les fonds suffisants lors du débit.
 
 5\. La livraison
 ----------------
@@ -153,7 +153,7 @@ Seules les commandes avec adresses de facturation et de livraison en France mét
 
 Pour les DOM-TOM et l'étranger, merci de vous connecter au site [www.vertbaudet.com](https://www.vertbaudet.com/).
 
-Pour chaque commande, sauf exception, il vous est demandé une participation forfaitaire aux frais de traitement de la commande (port, emballage, confection du colis) qui est communiquée dans l’étape « Panier » lors de la commande en ligne.
+Pour chaque commande, sauf exception, il vous est demandé une participation forfaitaire aux frais de traitement de la commande (port, emballage, confection du colis) qui est communiquée dans l’étape « Panier » lors de la commande en ligne.
 
 Pour les Produits livrés non montés, le montage reste à la charge du Client. Ce dernier met lui-même en service le matériel en se conformant aux consignes de mise en service comprises dans la notice d'utilisation.
 
@@ -179,7 +179,7 @@ Vous voulez être livré(e) chez un(e) ami(e), un(e) voisin(e), sur votre lieu d
 
 * **La Livraison à une adresse avec « emballage cadeau »**
 
-Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par Internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains Produits.
+Vous souhaitez livrer un cadeau emballé à l’adresse de votre choix (en France métropolitaine et en Corse), choisissez cette option pour 2€ lors de votre commande passée **par internet sur** [www.vertbaudet.fr](https://www.vertbaudet.fr/) en indiquant l'adresse du destinataire. La facture sera quant à elle envoyée à votre domicile. Service valable uniquement pour certains Produits.
 
 Les délais de services peuvent varier pendant certaines périodes de fortes activités, telles les périodes de soldes, et pour certains Produits (ex. articles brodés et personnalisés) et les cadeaux gratuits demandés sans commande, qui ne peuvent bénéficier de ces délais de services.
 
@@ -226,33 +226,25 @@ Produit encombrant
 Produit très encombrant  
 \*certains Produits ne peuvent bénéficier de la livraison en Points RelaisLivré à domicile (prix à partir de)29,99€29,99€
 
-**Tarif en vigueur au 25/04/2024, susceptible de modification.**
+**Tarif en vigueur au 24/09/2024, susceptible de modification.**
 
 6\. Remboursement - Retour (droit de rétractation)
 --------------------------------------------------
 
 Tous les Produits proposés à la vente, achetés sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) et livrés par Vertbaudet peuvent faire l'objet d'un retour et d'un remboursement excepté ceux exclus par la loi.
 
-Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés, lavés, utilisés, endommagés, ou être des biens indissociables d'autres articles (lot), et doivent être retournés intactes dans leur emballage d'origine avec leurs éventuels accessoires, manuels d'utilisation et autre documentation.
-
-Le bon de retour et la facture doivent impérativement être joints au colis retour.
-
-En cas de non-respect des conditions de retour prévues au présent article, Vertbaudet se réserve le droit :
-
-* de ne pas rembourser les Produits retournés;
-* de procéder à leur don ou à leur destruction.
+Pour ouvrir droit au remboursement, les Produits ne doivent pas avoir été portés de manière prolongée, et être intacts et complets.
 
 ### 6.1 Droit de rétractation
 
 Tous les Produits achetés sur le site [www.vertbaudet.fr](https://www.vertbaudet.fr/) peuvent faire l'objet d'une rétractation, à l'exclusion de ceux visés par la loi
 
-Selon l’article L221-28 du Code de la consommation, le droit de rétractation ne peut pas être exercé pour les catégories suivantes d’articles :
+Par exemple, selon l’article L221-28 du Code de la consommation, le droit de rétractation ne peut pas être exercé pour les catégories suivantes d’articles :
 
-* biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
-* biens qui ont été descellés par le consommateur après la livraison ;
-* biens qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé.
+* Biens confectionnés selon les spécifications du consommateur ou nettement personnalisés ;
+* Biens qui ont été descellés par le consommateur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé.
 
-Vous disposez de 15 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en nous retournant par courrier libre ou [par email](https://www.vertbaudet.fr/page/contactez_nous.htm) le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf). Vous disposez de 15 jours supplémentaires à compter de l'envoi de la notification de retour, pour nous retourner un Produit de votre commande, selon les disposions prévues au paragraphe 6.2 Retours.
+Vous disposez de 15 jours à compter de la réception du dernier colis de votre commande pour nous notifier votre souhait de rétractation en nous retournant par courrier libre ou par email le formulaire de rétractation [joint](https://securemedia.vertbaudet.fr/Pdf/3-0-0/FORMULAIRE_DE_RETRACTATION.pdf). Vous disposez de 15 jours supplémentaires à compter de l'envoi de la notification de retour, pour nous retourner un Produit de votre commande, selon les disposions prévues au paragraphe 6.2 Retours.
 
 MODELE DE FORMULAIRE DE RETRACTATION
 
@@ -271,11 +263,11 @@ Date :
 
 Si vous n’avez pas exercé votre droit de rétractation dans les délais visés au 6.1, Vertbaudet acceptera à titre commercial de reprendre votre article, dès lors qu'il nous est retourné dans les 30 jours à compter de la livraison du dernier colis de votre commande, et que les conditions de retour visées au présent article ont été respectées.
 
-Pour retourner un Produit, il vous suffit de vous connecter à votre compte client sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) et de déclarer votre retour dans la rubrique "Mes retours". Après avoir imprimé votre bon de retour, vous le glisserez dans le colis à nous renvoyer. Accompagné de la facture.
+Pour retourner un Produit, il vous suffit de vous connecter à votre compte client sur [www.vertbaudet.fr](https://www.vertbaudet.fr/) et de déclarer votre retour dans la rubrique "Mes retours". Après avoir imprimé votre bon de retour, vous le glisserez dans le colis à nous renvoyer.
 
 Vous pouvez retourner le Produit :
 
-* Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge).
+* Soit directement à l'adresse suivante : Vertbaudet – Service Retour 59981 Tourcoing Cedex (frais postaux de retour à votre charge) .
     
 * Soit en déposant gratuitement le Produit directement dans un Point Relais. Pour connaître votre Point Relais le plus proche, [cliquez ici](https://www.vertbaudet.fr/Views/SuiviCommande/RelaisColis.aspx) ou appelez le 03.20.760.760 (coût d’un appel local depuis un poste fixe). Pour un retour en point relais, l’étiquette de retour doit impérativement être apposée sur le colis lors de la remise au point relais.
     
@@ -288,19 +280,19 @@ Vous pouvez retourner le Produit :
 
 S'il s'agit d'un Produit signalé par le sigle ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) ou ![](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png) et qui a été livré à domicile veuillez nous contacter au numéro 03.20.760.760 (coût d’un appel local depuis un poste fixe), afin de prendre un rendez-vous pour la reprise gratuite de l'article, au lieu de sa livraison.
 
-En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l'exception des frais supplémentaires découlant du choix d'un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En cas de commande comportant plusieurs Produits, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des Produits constituant la commande. Le service d’emballage cadeau en lui-même, proposé à l’article 5 LIVRAISON des présentes conditions n’est pas remboursable.
+En cas de retour exercé conformément au présent article, Vertbaudet s'engage à vous rembourser les sommes versées, en ce compris les frais de livraison (à l’exception des frais supplémentaires découlant du choix d’un mode de livraison autre que le mode le moins coûteux de livraison standard proposé sur le site), dans les meilleurs délais et au plus tard dans les 14 jours suivant la réception de la preuve de l'envoi du colis à notre attention ou de la réception du colis par nos soins (la première de ces deux dates étant retenue). En dehors des cas d’exercice du droit de rétractation, en cas de commande comportant plusieurs Produits, les frais de livraison ne seront remboursés qu’en cas de retour, en une seule fois, de l’intégralité des articles constituant la commande. Le service d’emballage cadeau en lui-même, proposé à l’article 5 LIVRAISON des présentes conditions n’est pas remboursable.
 
 Les preuves d'envoi acceptées, sont :
 
-* Le coupon de dépôt, en Point Relais ;
+* Le coupon de dépôt, en en Point Relais® ;
     
 * les récépissés, tamponnés et datés de la Poste, de dépôts de colis suivis.
 
 Si la commande de Produits a été réglée :
 
-* Par Paypal, et que le compte Paypal est toujours actif, le remboursement de vos retours sera effectué sur ce compte Paypal.
+* Par PayPal, et que le compte PayPal est toujours actif, le remboursement de vos retours sera effectué sur ce compte PayPal.
     
-* Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d'échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak.
+* Comptant par carte bancaire, votre remboursement se fera directement par crédit sur le compte bancaire attaché à cette carte. En cas d’échec de la méthode de remboursement, vous serez contacté(e) par notre service Relation Clients afin de procéder à un remboursement sécurisé via notre partenaire Paytweak.
     
 * En 3 fois par Carte bancaire : le montant des mensualités restantes sera modifié, ou les mensualités restantes seront annulées.
     
@@ -317,9 +309,9 @@ Plus d’informations sur [le club vertbaudet](https://www.vertbaudet.fr/page/le
 
 Les Produits personnalisés à votre demande sont exclus des dispositions relatives au droit de rétractation. Ils ne sont ni repris, ni échangés, hormis le cas de mise en jeu de la garantie des vices affectant la chose vendue (article 9).
 
-En transmettant à Vertbaudet la personnalisation textuelle à ajouter sur l'article personnalisable, vous vous engagez à ce que les termes transmis soient exempts de droits des tiers (droits de propriété intellectuelle), de telle sorte que Vertbaudet ne puisse pas voir sa responsabilité engagée à quelque titre que ce soit.
+En transmettant à Vertbaudet la personnalisation textuelle à ajouter sur l’article personnalisable, vous vous engagez à ce que les termes transmis soient exempts de droits des tiers (droits de propriété intellectuelle), de telle sorte que Vertbaudet ne puisse pas voir sa responsabilité engagée à quelque titre que ce soit.
 
-En outre, vous vous engagez à ne pas demander la personnalisation de l'article par l’apposition de termes pornographiques, pédophiles, violents, obscènes, diffamatoires ou de nature à porter atteinte à la dignité humaine.
+En outre, vous vous engagez à ne pas demander la personnalisation de l’article par l’apposition de termes pornographiques, pédophiles, violents, obscènes, diffamatoires ou de nature à porter atteinte à la dignité humaine.
 
 Vertbaudet se réserve le droit de refuser toute demande de personnalisation contraire au présent article. En tout état de cause, toute violation aux droits de tiers ou aux dispositions éthiques susmentionnées engagera votre responsabilité exclusive ; Vertbaudet se dégageant de toute responsabilité à cet égard.
 
@@ -335,9 +327,7 @@ Pour plus de précisions sur les modalités d'utilisation de la Liste de Naissan
 9\. Les garanties
 -----------------
 
-**Tous les Produits en vente sur le Site bénéficient de la garantie légale de conformité (articles L217-1 et suivants du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil), vous permettant de renvoyer les Produits livrés défectueux ou non conformes.**
-
-Si malgré nos précautions, un de vos Produits arrivait abîmé ou si une pièce venait à manquer lors de la livraison, il vous suffit de nous le signaler, nous vous ferons parvenir la pièce à changer ou manquante.
+**Tous les Produits en vente sur le Site bénéficient de la garantie légale de conformité (articles L217-1 et suivants du Code de la consommation) et de la garantie contre les vices cachés (articles 1641 et suivants du Code civil), vous permettant de renvoyer les Produits livrés défectueux ou non conformes. Si malgré nos précautions, un de vos Produits arrivait abîmé ou si une pièce venait à manquer lors de la livraison, il vous suffit de nous le signaler, nous vous ferons parvenir la pièce à changer ou manquante.**
 
 ### Garantie légale de conformité :
 
@@ -448,12 +438,11 @@ Lorsque vous achetez un article éligible à la reprise sur le Site, nous vous i
 
 ### 10.2 REACH
 
-Pour toute question relative à la norme Européenne REACH, veuillez nous contacter : par courrier à l'adresse suivante : Vertbaudet, Service Correspondance 36, avenue Alfred Lefrançois, 59200 Tourcoing.
+Pour toute question relative à la norme Européenne REACH, veuillez nous contacter par courrier à l'adresse suivante : Vertbaudet, Service Correspondance 36, Avenue Alfred Lefrançois, 59200 Tourcoing.
 
 ### 10.3 Consignes de tri
 
-![https://media.vertbaudet.fr/medias/44/0/35448/503962102/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/503962102/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins.  
-La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
+![https://media.vertbaudet.fr/medias/44/0/35448/1819040950/triman.png](https://media.vertbaudet.fr/medias/44/0/26809/1304986041/volumineux.png "https://media.vertbaudet.fr/medias/44/0/35448/1819040950/triman.png") En fonction des catégories de produit, des consignes de tri permettent d’orienter le consommateur vers la fin de vie la plus adaptée. Elles sont apposées sur l’ensemble des Produits de consommation qui sont collectés par des éco-organismes et dont la « recyclabilité » est assurée. Les catégories de produit concernées sont les catalogues papiers, prospectus commerciaux, les équipements d’ameublements, les jouets, les équipements électriques et électroniques, les piles et accumulateurs, les textiles ou encore les chaussures. Ils doivent donc être triés par vos soins. La consigne de tri peut figurer sur les Produits ou sur l’emballage, la notice ou tout autre support y compris dématérialisé.
 
 ### 10.4 Identifiants uniques
 
@@ -491,7 +480,7 @@ Ainsi, aucun des documents provenant du Site ne peut être copié, reproduit, re
 
 Cependant, il est possible de télécharger une copie des documents sur un ordinateur pour votre utilisation personnelle et uniquement à des fins non commerciales, à condition que vous ne modifiez pas les informations contenues et que vous conserviez intacts tous les copyrights et autres mentions de propriété. La modification de ces documents ou leur utilisation dans un autre but constitue une infraction au droit de propriété intellectuelle de Vertbaudet.
 
-Si vous disposez d'un site à titre personnel et que vous désirez placer, pour un usage personnel, sur votre site un lien simple renvoyant directement à la page d'accueil du Site, vous devez obligatoirement en demander l'autorisation à Vertbaudet. Il ne s'agira pas dans ce cas d'une convention implicite d'affiliation.
+Si vous disposez d'un site Internet à titre personnel et que vous désirez placer, pour un usage personnel, sur votre site un lien simple renvoyant directement à la page d'accueil du Site, vous devez obligatoirement en demander l'autorisation à Vertbaudet. Il ne s'agira pas dans ce cas d'une convention implicite d'affiliation.
 
 En revanche, tout lien hypertexte renvoyant au Site et utilisant la technique du framing ou du in-line linking est formellement interdit. Dans tous les cas, tout lien, même tacitement autorisé, devra être retiré sur simple demande de Vertbaudet.
 
@@ -507,7 +496,7 @@ Vertbaudet a pour toutes les étapes de prise de commande ainsi que pour les ét
 
 Ainsi Vertbaudet s'engage à décrire avec la plus grande exactitude les Produits vendus sur le Site Vertbaudet. En revanche, la responsabilité de Vertbaudet ne pourrait être engagée dans le cas où l'inexécution de ses obligations serait imputable soit au fait imprévisible et insurmontable d'un tiers au contrat soit à un cas de force majeure telle que définie par la jurisprudence française.
 
-Vertbaudet ne pourra voir sa responsabilité engagée pour les inconvénients et dommages relatifs à l'utilisation du réseau Internet tels notamment une rupture dans le service, la présence de virus informatiques ou intrusions extérieures ou plus généralement tous cas qualifiés de force majeure par les tribunaux français.
+Vertbaudet ne pourra voir sa responsabilité engagée pour les inconvénients et dommages relatifs à l'utilisation du réseau Internet tels notamment une rupture dans le service, la présence de virus informatiques ou intrusions extérieures (sauf les cas dans lesquels ces dysfonctionnements seraient dus à un manquement par Vertbaudet à l’une quelconque de ses obligations) ou plus généralement tous cas qualifiés de force majeure par les tribunaux français.
 
 Le Site est conforme à la législation française, et en aucun cas, Vertbaudet ne donne de garantie de conformité à la législation locale qui vous serait applicable, dès lors que vous accédez au Site à partir d'autres pays.
 
@@ -516,7 +505,7 @@ Le Site est conforme à la législation française, et en aucun cas, Vertbaudet 
 
 ### 15.1 Médiation
 
-Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email [ici](https://www.vertbaudet.fr/contact.htm) ou par courrier Vertbaudet - Service Clientèle – 36, avenue Alfred Lefrançois – 59200 Tourcoing
+Pour toute réclamation relative à votre commande d’un Produit vendu et expédié par VERTBAUDET, merci de nous contacter par téléphone au 03.20.760.760 (coût d’un appel local depuis un poste fixe), par email à [contactclient@vertbaudet.com](https://www.vertbaudet.fr/contactclient@vertbaudet.com) ou par courrier Vertbaudet - Service Clientèle – 36, avenue Alfred Lefrançois – 59200 Tourcoing
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Vertbaudet adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :
 
