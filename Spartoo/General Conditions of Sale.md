@@ -118,7 +118,7 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
     Le paiement par carte cadeau est possible. Le Client devra renseigner dans Coupon de réduction le numéro de la carte. Si le montant de la commande est supérieur au montant de la carte cadeau, le Client devra compléter le règlement par un autre moyen de paiement. Si le montant de la commande est inférieur au montant de la carte cadeau, le Client pourra utiliser le solde pour une prochaine commande dans le délai de validité de la carte cadeau.
 * Paiement en 3 fois  
     Spartoo se laisse le choix de proposer le paiement en 3 mensualités aux clients. Ce mode de paiement est alors disponible pour les commandes supérieures à 50€. Un tiers du montant de l'achat est débité immédiatement, le second tiers un mois après l'achat et le solde 2 mois après l'achat.  
-    Cette prestation sera facturée 3.99€ lors du premier débit.  
+    Cette prestation sera facturée 4.99€ lors du premier débit.  
       
     **Les commandes comportant des Produits Partenaires ne peuvent être réglées par le paiement en 3 fois.**  
       
