@@ -46,7 +46,7 @@
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree?ap_source=anico&ap_medium=nav-femme&ap_campaign=robes_soiree)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=top_tshirts)
     * [Blouses Et Chemises](https://www.printemps.com/fr/fr/chemises-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chemises_femme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
+    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vestes-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=manteaux)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jeans)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=pantalons)
