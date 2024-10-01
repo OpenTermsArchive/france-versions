@@ -67,9 +67,9 @@
     
 * [TENDANCES](#)
     * [Puma x Coperni](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=nav-femme&ap_campaign=puma_coperni)
-    * [Disney x Balmain](https://www.printemps.com/fr/fr/disney-balmain-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=disney_balmain)
+    * [Officewear](https://www.printemps.com/fr/fr/business-core-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=officewear)
+    * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaud_marron)
     * [Le clou du spectacle](https://www.printemps.com/fr/fr/clous?ap_source=anico&ap_medium=nav-femme&ap_campaign=clou_spectacle)
-    * [Les chaussures de la rentrée 2024](https://www.printemps.com/fr/fr/edito-style-tendance-chaussures-rentree-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_chaussures_rentree)
     * [Ballerina era](https://www.printemps.com/fr/fr/babies-mary-jane?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerina)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
