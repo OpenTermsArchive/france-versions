@@ -1,44 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [DÉCOUVRIR TOUTE L'OFFRE](https://www.printemps.com/fr/fr/selection-french-days-printemps)
-    
-
-* [FEMME](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Sacs)
-    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Chaussures)
-    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/V%C3%AAtements)
-    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Accessoires)
-
-* [HOMME](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/V%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Chaussures)
-    * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Accessoires)
-
-* [TOP CATÉGORIES](#)
-    * [Sacs à main - Femme](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Sacs+%C3%A0+main)
-    * [Mailles - Homme](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Mailles+et+pulls)
-    * [Manteaux - Femme](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Manteaux)
-    * [Baskets - Homme](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Baskets)
-    * [Bottines - Femme](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Bottines)
-    * [Manteaux - Homme](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Manteaux)
-
-* [TOP MARQUES](#)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/MARC+JACOBS)
-    * [Le Tanneur](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/LE+TANNEUR)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/POLO+RALPH+LAUREN)
-    * [K-Way](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/K-WAY)
-    * [Coach](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/COACH)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/TOMMY+HILFIGER)
-    * [Carhartt Wip](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/CARHARTT+WIP)
-    * [Jimmy Choo](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/JIMMY+CHOO)
-    * [Dr. Martens](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/DR.+MARTENS)
-    * [Levi's](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/LEVI%27S)
-    * [Veja](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/VEJA)
-    * [Guess](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/GUESS)
-
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -183,14 +144,15 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
+    * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
     * [Officewear](https://www.printemps.com/fr/fr/business-core-homme?ap_source=anico&ap_medium=navigation&ap_campaign=officewear-homme)
     * [Néo-Cowboy](https://www.printemps.com/fr/fr/cowboy-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cowboy-homme)
     * [L'esprit Rando](https://www.printemps.com/fr/fr/au-grand-air-homme?ap_source=anico&ap_medium=navigation&ap_campaign=rando-homme)
-* [LA VESTE](https://www.printemps.com/fr/fr/mille-et-une-vestes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=opveste-homme)
-    * [La veste denim](https://www.printemps.com/fr/fr/veste-denim-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-denim-homme)
-    * [La veste cuir](https://www.printemps.com/fr/fr/veste-cuir-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-cuir-homme)
-    * [La veste tailoring](https://www.printemps.com/fr/fr/veste-tailoring-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tailoring-homme)
-    * [La veste workwear](https://www.printemps.com/fr/fr/veste-workwear-homme?ap_source=anico&ap_medium=navigation&ap_campaign=workwear-homme)
+* [VESTIAIRE D'AUTOMNE](https://www.printemps.com/fr/fr/indispensables-automne-hiver-homme?ap_source=anico&ap_medium=navigation&ap_campaign=automne-homme)
+    * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-automne-homme)
+    * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-automne-homme)
+    * [Bottines](https://www.printemps.com/fr/fr/bottines-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bottines-automne-homme)
+    * [Sacs](https://www.printemps.com/fr/fr/tous-les-sacs-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-automne-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
 
@@ -206,7 +168,7 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
-* [![](https://media-cdn.printemps.com/image/56/9/6890569.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+*  [![](https://media-cdn.printemps.com/image/97/5/6907975.png) HACKETT](https://www.printemps.com/fr/fr/hackett-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-hackett-homme)
     
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
