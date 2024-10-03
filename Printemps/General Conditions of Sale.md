@@ -238,7 +238,7 @@
 * [NOUVELLES MARQUES](#)
     * [Camper](https://www.printemps.com/fr/fr/camper?ap_source=anico&ap_medium=navigation&ap_campaign=camper-marque)
     * [Lipault Paris](https://www.printemps.com/fr/fr/lipaultparis?ap_source=anico&ap_medium=navigation&ap_campaign=lipault-marque)
-    * [Manucurist](https://www.printemps.com/fr/fr/manicurist?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
+    * [Manucurist](https://www.printemps.com/fr/fr/manucurist?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier?ap_source=anico&ap_medium=navigation&ap_campaign=laura-mercier-marque)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
