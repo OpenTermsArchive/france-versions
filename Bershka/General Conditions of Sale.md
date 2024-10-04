@@ -8,9 +8,9 @@ CONDITIONS D'ACHAT ET D'UTILISATION
 
 Ce document (ainsi que les documents qui y sont mentionnés) établit les conditions qui régissent
 
-l'utilisation de ce site Internet (www.bershka.com) ainsi que l'achat de produits sur ce dernier (ci-après
+l'utilisation de ce site Internet (www.bershka.com) et son application (ci-après, conjointement, les
 
-les « Conditions »).
+« Plateformes »), ainsi que l'achat de produits sur ces Plateformes (ci-après les « Conditions »).
 
 
 
@@ -18,27 +18,23 @@ Nous vous invitons à lire attentivement les Conditions, notre Politique de cook
 
 confidentialité (ci-après, conjointement, les « Politiques de Protection des Données »), avant de
 
-commencer à utiliser ce site Internet. Lorsque vous utilisez ce site Internet ou passez une commande via
+commencer à utiliser ce site Internet. Lorsque vous utilisez ces Plateformes , vous acceptez d'être lié par
 
-ce dernier, vous acceptez d'être lié par les présentes Conditions et par nos Politiques de Protection des
+nos Politiques de Protection des Données. Pour passer une passer une commande, vous devez avoir pris
 
-Données. Par conséquent, si vous n'êtes pas d'accord avec l'ensemble des Conditions et avec les Politiques
+connaissance de ces Conditions et des informations mentionnées dans notre Politique de confidentialité
 
-de Protection des Données, vous ne devez pas utiliser ce site Internet.
+et vous acceptez expressément d’être liés par elles. Par conséquent, si vous n'êtes pas d'accord avec
 
+l'ensemble des Conditions et avec les Politiques de Protection des Données, vous ne devez pas utiliser ce
 
-
-Ces Conditions peuvent faire l'objet de modifications. Il vous appartient de les lire régulièrement, puisque
-
-les conditions en vigueur au moment de la passation du Contrat (tel que décrit ci-dessous) ou de
-
-l'utilisation de ce site Internet seront celles qui s'appliqueront.
+site Internet.
 
 
 
 Pour toute question concernant les Conditions ou les Politiques de Protection des Données, vous pouvez
 
-nous contacter en utilisant les différents moyens listés dans la section besoin d’aide de ce site internet.
+nous contacter en utilisant les différents moyens listés dans la section besoin d’aide de ces Plateformes.
 
 
 
@@ -50,7 +46,7 @@ démarchage téléphonique sur le site www.bloctel.gouv.fr.
 
 Le Contrat (ci-après le « Contrat ») peut être exécuté, à votre choix, dans n'importe quelles langues dans
 
-lesquelles les Conditions sont disponibles sur ce site Internet.
+lesquelles les Conditions sont disponibles sur ces Plateformes.
 
 
 
@@ -58,19 +54,19 @@ lesquelles les Conditions sont disponibles sur ce site Internet.
 
 
 
-La vente de produits via ce site Internet est réalisée sous le nom de BERSHKA par BERSHKA FRANCE, SARL
+La vente de produits via les Plateformes est réalisée sous le nom de BERSHKA par BERSHKA FRANCE, SARL
 
 au capital de 8.492.700 €, sise 22 Rue Bergère, 75009 Paris, inscrite au registre du commerce et des
 
 sociétés de Paris, sous le numéro 443 617 725, portant le numéro de TVA intracommunautaire FR 92
 
-443 617 725, joignable à l'adresse électronique suivante contact@bershka.com et au numéro de
+443 617 725, joignable à l'adresse électronique suivante contact\_fr@bershka.com et au numéro de
 
 téléphone suivant : 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur).
 
 
 
-3. VOS COORDONNÉES ET VOS VISITES SUR CE SITE INTERNET
+3. VOS COORDONNÉES ET VOS VISITES SUR LES PLATEFORMES
 
 
 
@@ -80,9 +76,33 @@ aux Politiques de Protection des Données. En utilisant ce site Internet, vous a
 
 informations et données et vous garantissez que toutes les informations et données fournies sont
 
-véridiques et correspondent à la réalité.
+véridiques et correspondent à la réalité
 
-4. UTILISATION DE NOTRE SITE INTERNET
+
+
+En conséquence, nous vous informons que lorsque vous accéder à votre compte utilisateur via
+
+l’application (application informatique conçue pour fonctionner sur les smartphones, tablettes ou autres
+
+appareils mobiles disponibles pour utiliser les fonctionnalités fournies par BERSHKA), votre session restera
+
+active, de sorte qu'il ne sera pas nécessaire d'entrer à nouveau vos données de connexion lorsque vous
+
+accéderez ultérieurement à votre compte via l'application. Si vous accédez à votre compte utilisateur via
+
+le site internet, vous pouvez choisir de maintenir votre session active en cochant la case correspondante.
+
+
+
+Toutefois, pour effectuer certaines opérations et pour des raisons de sécurité, nous pouvons vous
+
+demander de saisir à nouveau vos données de connexion.
+
+
+
+4. Vous pouvez également mettre fin à votre session d'utilisateur à tout moment en cliquant sur le
+
+bouton "déconnexion" sous "Mon compte".UTILISATION DE NOS PLATEFORMES
 
 
 
@@ -90,7 +110,7 @@ En utilisant ce site Internet et en passant des commandes via ce dernier, vous a
 
 
 
-i. de n'utiliser ce site Internet que pour faire des demandes et passer des commandes licites;
+i. de n'utiliser ces Plateformes que pour faire des demandes et passer des commandes licites;
 
 ii. de ne pas passer de commandes fausses ou frauduleuses. S'il peut raisonnablement être
 
@@ -124,7 +144,7 @@ Lorsque vous passez une commande sur ce site Internet, vous confirmez que vous �
 
 
 
-Les articles offerts sur ce site Internet ne pourront être livrés qu'en France métropolitaine, à l’exception
+Les articles offerts sur les Plateformes ne pourront être livrés qu'en France métropolitaine, à l’exception
 
 des îles du Golfe de Gascogne.
 
@@ -132,7 +152,7 @@ des îles du Golfe de Gascogne.
 
 Si vous souhaitez commander des produits à partir d’un pays membre de l’Union Européenne autre que
 
-la France via ce site Internet vous avez la possibilité de le faire ; cependant, les produits commandés
+la France via les Plateformes vous avez la possibilité de le faire ; cependant, les produits commandés
 
 peuvent être uniquement livrés dans un magasin BERSHKA ou à une adresse situés en France
 
@@ -156,11 +176,11 @@ Vous serez également informé par l’envoi d’un courriel dans lequel nous vo
 
 commande a bien été acceptée et expédiée (la « Confirmation d’envoi»).
 
-
-
 Un ticket électronique mentionnant les détails de votre commande sera joint à la Confirmation d’envoi
 
 (l“E-ticket”). Nous vous contacterons également lorsque votre commande sera disponible.
+
+
 
 7. DISPONIBILITÉ DES PRODUITS
 
@@ -178,43 +198,49 @@ vous rembourserons la somme que vous avez versée.
 
 
 
-8. REFUS DE TRAITER UNE COMMANDE
+8. MESURES TECHNIQUES DE CORRECTION DES ERREURS
 
 
 
-Nous nous réservons le droit de retirer tout produit de ce site Internet, à tout moment, et de retirer ou
+Si vous détectez une erreur lors de la saisie de vos données personnelles au cours de l'enregistrement sur
 
-modifier toute information ou contenu de ce dernier. Nous ferons toujours de notre mieux pour traiter
-
-toutes les commandes ; toutefois, certaines circonstances exceptionnelles peuvent nous contraindre de
-
-refuser de traiter une commande après avoir envoyé une Confirmation de commande, telles qu’un
-
-problème lié à la fabrication ou au stock, un incident de paiement ou un cas de fraude ou tentative de
-
-fraude liée à l’utilisation du site Internet. Nous nous réservons le droit de le faire à tout moment. Dans
-
-cette hypothèse, si le paiement est déjà intervenu, nous vous rembourserons tous les montants versés, y
-
-compris les frais de livraison dans les plus brefs délais, selon le même mode de paiement que celui que
-
-vous avez utilisé lors de la transaction. Dans tous les cas, ce remboursement n'entraînera aucun frais à
-
-votre charge.
+nos Plateformes, vous pouvez modifier ces informations dans la rubrique "Mon compte".
 
 
 
-Nous ne pourrons pas être tenus pour responsables envers vous-même ou envers un tiers en cas de retrait
+En tout état de cause, vous pouvez corriger les erreurs relatives aux données personnelles que vous avez
 
-d'un produit de ce site Internet ou de retrait ou modification de matériel ou contenu de ce site Internet ;
+fournies au cours du processus d'achat en contactant le service client, en appelant le 0 800 918 880 (Appel
 
-notre responsabilité ne sera pas non plus engagée si nous ne traitons pas une commande dans les cas
+non surtaxé, hors coût éventuel selon votre opérateur), ou en envoyant un courrier électronique à
 
-visés ci-dessus, après avoir envoyé une Confirmation de commande.
+contact_fr@bershka.com. De même, vous pouvez exercer votre droit de rectification tel que décrit dans
+
+la Politique de Confidentialité.
 
 
 
-9. LIVRAISON
+Nos Plateformes affichent des fenêtres de confirmation à différentes étapes du processus d'achat qui ne
+
+vous permettent pas de poursuivre la commande si les détails de ces sections ne sont pas saisis
+
+correctement. De même, le site web fournit des informations sur tous les articles ajoutés au panier
+
+pendant le processus d'achat afin que, avant le paiement, vous puissiez modifier ou changer les détails de
+
+votre commande.
+
+
+
+Si vous constatez une erreur dans votre commande après avoir effectué le paiement, vous devez
+
+immédiatement contacter le service client, au numéro de téléphone ou à l'adresse électronique
+
+susmentionnés, afin de corriger l'erreur.
+
+
+
+8. LIVRAISON
 
 
 
@@ -280,7 +306,7 @@ considérerons alors ce dernier comme résilié.
 
 
 
-10. IMPOSSIBILITÉ DE LIVRAISON
+9. IMPOSSIBILITÉ DE LIVRAISON
 
 
 
@@ -322,7 +348,9 @@ La présente clause ne s'applique pas à la carte cadeau virtuelle, dont la livr
 
 dispositions prévues dans les conditions d'utilisation de la carte cadeau.
 
-11. TRANSFERT DES RISQUES ET DE LA PROPRIÉTÉ DES PRODUITS
+
+
+10. TRANSFERT DES RISQUES ET DE LA PROPRIÉTÉ DES PRODUITS
 
 
 
@@ -340,11 +368,11 @@ l'indique la clause 9 ci-dessus), si cette dernière devait avoir lieu postérie
 
 
 
-12. PRIX ET PAIEMENT
+11. PRIX ET PAIEMENT
 
 
 
-Le prix des produits sera celui qui est indiqué à tout moment sur notre site Internet, sauf en cas d'erreur
+Le prix des produits sera celui qui est indiqué à tout moment sur nos Plateformes , sauf en cas d'erreur
 
 manifeste. Bien que nous fassions tout ce qui est en notre pouvoir pour garantir que les prix figurant sur
 
@@ -368,9 +396,9 @@ auriez raisonnablement pu reconnaître que le prix était incorrect.
 
 
 
-Les prix indiqués sur le site Internet incluent la TVA, mais excluent les frais de livraison, lesquels sont
+Les prix indiqués sur nos Plateformes incluent la TVA, mais excluent les frais de livraison, lesquels sont
 
-ajoutés au prix total comme cela est indiqué sur notre site internet, rubrique Besoin d’aide Envoi.
+ajoutés au prix total comme cela est indiqué sur nos Plateformes , rubrique Besoin d’aide Envoi.
 
 
 
@@ -390,7 +418,7 @@ ajoutés à votre panier. L'étape suivante consistera alors à traiter la comma
 
 informations requises à tout moment. En outre, tout au long du processus d'achat, avant le paiement,
 
-vous pourrez modifier les détails de votre commande. Notre site internet contient une description
+vous pourrez modifier les détails de votre commande. Nos Plateformes contiennent une description
 
 détaillée du processus d'achat. De plus, si vous êtes un utilisateur inscrit, un historique de toutes les
 
@@ -398,19 +426,21 @@ commandes que vous avez passées est disponible dans la rubrique besoin d’aide
 
 
 
-Les moyens de paiement suivants sont disponibles : Carte Bleue, Visa, Mastercard, American Express,
+Les moyens de paiement suivants sont disponibles sur le site internet et sur l’application : Carte Bleue,
 
-Visa Electron, ainsi que PayPal. Apple Pay et Google Pay sont également disponibles sur l’application
+Visa, Mastercard, American Express, , ainsi que PayPal. Apple Pay et Google Pay. Google Pay et Apple Pay
 
-mobile BERSHKA de votre téléphone. Vous pouvez également payer l'intégralité ou une partie de vos
+sont également disponibles sur l’application mobile BERSHKA de votre téléphone. Vous pouvez également
 
-achats à l'aide d'une carte cadeau ou d'un bon d’achat de Bershka, délivré par Bershka France S.A.R.L. Les
+payer l'intégralité ou une partie de vos achats à l'aide d'une carte cadeau ou d'un bon d’achat de Bershka,
 
-cartes cadeaux ne peuvent pas être achetées au moyen d'une autre carte cadeau. Par ailleurs, vous pouvez
+délivré par Bershka France S.A.R.L. Les cartes cadeaux ne peuvent pas être achetées au moyen d'une autre
 
-payer votre commande lors de la livraison en magasin, en utilisant tous moyens de paiement acceptés
+carte cadeau. Par ailleurs, vous pouvez payer votre commande lors de la livraison en magasin, en utilisant
 
-dans les magasins BERSHKA en France.
+tous moyens de paiement acceptés dans les magasins BERSHKA en France.
+
+
 
 Veuillez noter que Fashion Retail, SA dont le siège social est situé Avenida de la Diputación, Edificio Inditex,
 
@@ -476,15 +506,13 @@ Une facture sous format électronique sera mise à votre disposition sur notre s
 
 rubrique besoin d’aide « Mon compte »ce que vous acceptez.
 
-
-
 13. ACHETER EN TANT QU'INVITÉ
 
 
 
-Ce site Internet vous permet également de réaliser vos achats en tant qu'invité. Avec ce mode d'achat,
+Ces Plateformes vous permettent également de réaliser vos achats en tant qu'invité. Avec ce mode
 
-nous vous demanderons uniquement les informations indispensables pour pouvoir effectuer la
+d'achat, nous vous demanderons uniquement les informations indispensables pour pouvoir effectuer la
 
 commande. Une fois que vous avez terminé l'achat, nous vous proposerons de vous inscrire en tant
 
@@ -496,21 +524,83 @@ Une facture sous format électronique sera disponible en cliquant sur le documen
 
 courriel de confirmation d’envoi de votre commande.
 
-14.TAXE SUR LA VALEUR AJOUTÉE
+
+
+14. ACHAT RAPIDE
 
 
 
-Les achats réalisés via ce site Internet sont soumis à la taxe sur la valeur ajoutée (TVA) au taux légalement
+L'option Achat rapide (ci-après « Achat rapide ») vise à vous faciliter le processus d'achat sur ces
+
+Plateformes en vous évitant de saisir, à chacun de vos achats, vos informations de livraison, de facturation
+
+et de paiement. L’Achat rapide est disponible dans la rubrique Mes achats.
+
+
+
+Pour utiliser l'option d'Achat rapide, vous devrez préalablement avoir sauvegardé les informations
+
+concernant votre carte de paiement. Vous pourrez le faire lors de la réalisation d’un paiement au moyen
+
+d’une des cartes acceptées par ces Plateformes, en cliquant sur « Sauvegarder les informations de ma
+
+carte ». Les informations suivantes seront demandées : numéro de carte et date d’expiration de la carte.
+
+
+
+Pour sauvegarder les informations de votre carte et utiliser l’option d’Achat rapide, vous devrez accepter
+
+la Politique de confidentialité et les présentes Conditions.
+
+
+
+En utilisant l’option d’Achat rapide, vous acceptez que le montant des achats effectués avec cette option
+
+soit débité de la carte enregistrée pour cette option. L'utilisation de la carte devra dans tous les cas être
+
+soumise au contrat écrit en vigueur entre vous et l'établissement bancaire émetteur de la carte.
+
+Dans le cadre de l’Achat rapide, vous pouvez sauvegarder autant de cartes que vous souhaitez. Pour ce
+
+faire, vous devrez effectuer au moins un paiement avec l’une d’entre elles. Si vous souhaitez sauvegarder
+
+des informations pour plusieurs cartes, la carte qui sera considérée comme votre « Carte favorite » et qui
+
+sera proposée par défaut pour l’Achat rapide sera celle dont les informations ont été enregistrées le plus
+
+récemment. Vous pourrez cependant changer de « Carte favorite » dans la rubrique Mon compte de ces
+
+Plateformes.
+
+
+
+Pour utiliser l’option Achat rapide, il vous suffit de cliquer sur l’icône « Achat rapide » apparaissant dans
+
+la rubrique Mes achats. Les informations de livraison, de facturation et de paiement pour votre achat
+
+s’afficheront alors immédiatement. Les informations disponibles sur cette page ne sont pas modifiables.
+
+Si certaines informations sont incorrectes, ne procédez pas à l'achat. Pour effectuer des achats en utilisant
+
+des informations différentes, n’utilisez pas l’option d’Achat rapide.
+
+Vous devrez changer votre « Carte favorite » associée à l’Achat rapide dans la rubrique Mon compte
+
+de ces Plateformes.15. TAXE SUR LA VALEUR AJOUTÉE
+
+
+
+Les achats réalisés via ces Plateformes sont soumis à la taxe sur la valeur ajoutée (TVA) au taux légalement
 
 en vigueur au jour de la vente.
 
 
 
-15. POLITIQUE D'ÉCHANGE ET DE RETOURS
+16. POLITIQUE D'ÉCHANGE ET DE RETOURS
 
 
 
-15.1 Droit légal de rétractation
+16.1 Droit légal de rétractation
 
 
 
@@ -538,7 +628,7 @@ désigné à cet effet acquiert, la possession physique du dernier article.
 
 Pour exercer votre droit de rétractation, vous pouvez faire part à BERSHKA, à l'adresse électronique
 
-contact@bershka.com ou par téléphone, 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon
+contact_fr@bershka.com ou par téléphone, 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon
 
 votre opérateur), ou encore par écrit, via notre formulaire de contact, de votre décision de résilier un
 
@@ -608,7 +698,7 @@ autorisé en France dans les 14 premiers jours suivant le courriel de Confirmati
 
 compter du 15ème jour, les frais de retour dans le point relais autorisé seront à votre charge, comme
 
-indiqué dans la section « Retours » de notre site Internet. Ces frais seront immédiatement déduits du
+indiqué dans la section « Retours » de nos Plateformes . Ces frais seront immédiatement déduits du
 
 montant qui vous sera remboursé.
 
@@ -626,15 +716,15 @@ courriel de Confirmation de commande.
 
 Si vous retournez les articles par l’intermédiaire d’un transporteur, les frais afférents au renvoi des articles
 
-seront à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la
+seront à votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes (voir la section
 
-section « Commandes et Retours »).
+« Commandes et Retours »).
 
 
 
 Dans le cas d’un retour effectué en magasin, vous devrez également présenter l’E-ticket joint à la
 
-confirmation d’envoi qui est également disponible sur votre compte sur notre site Internet ainsi que sur
+confirmation d’envoi qui est également disponible sur votre compte sur notre Plateforme ainsi que sur
 
 notre application mobile. Vous pourrez présenter cet E-ticket soit directement sur votre téléphone
 
@@ -650,7 +740,7 @@ fonctionnement de ces articles.
 
 
 
-15.2 Droit contractuel de rétraction
+16.2 Droit contractuel de rétractation
 
 
 
@@ -670,11 +760,31 @@ de la carte cadeau.
 
 
 
+Enfin, des conditions particulières de remboursement s’appliquent en cas de retour d’un ou plusieurs
+
+produit(s) issu(s) d’un lot en promotion :
+
+Si vous exercez votre droit de rétractation dans pareil cas, le remboursement du/des produit(s)
+
+retourné(s) correspondra à la somme de leurs prix payés respectifs dévaluée de la différence entre le prix
+
+initial et le prix promotionnel du/des produit(s) conservé(s) .
+
+
+
+Pour toute information complémentaire sur les conditions de remboursement applicables à ce type
+
+d’opération, veuillez consultez la rubrique Aide section [à compléter] de nos Plateformes.
+
+
+
 Si vous retournez les produits dans le cadre du droit de rétraction contractuel, mais après l'expiration du
 
 délai légal, vous serez remboursé uniquement des paiements versés pour lesdits produits, ce qui signifie
 
 que les frais de livraison ne seront pas remboursés.
+
+
 
 S’agissant des frais de retour, vous ne les supportez pas si vous effectuez un retour directement dans un
 
@@ -688,7 +798,7 @@ autorisé en France dans les 14 premiers jours suivant le courriel de Confirmati
 
 compter du 15ème jour, les frais de retour dans le point relais autorisé seront à votre charge, comme
 
-indiqué dans la section « Retours » de notre site Internet. Ces frais seront immédiatement déduits du
+indiqué dans la section « Retours » de nos Plateformes . Ces frais seront immédiatement déduits du
 
 montant qui vous sera remboursé.
 
@@ -706,15 +816,15 @@ courriel de Confirmation de commande.
 
 Si vous déposez les articles par l’intermédiaire d’un transporteur , les frais afférents au renvoi des articles
 
-seront à votre charge. Vous supporterez la somme forfaitaire figurant sur notre site internet (voir la
+seront à votre charge. Vous supporterez la somme forfaitaire figurant sur nos Plateformes (voir la section
 
-section « Commandes et Retours »).
+« Commandes et Retours »).
 
 
 
 En cas de retour en magasin, vous devez présenter le produit accompagné du E-ticket joint à la
 
-Confirmation d’envoi, qui est également sauvegardé sur votre compte sur notre site Internet et sur
+Confirmation d’envoi, qui est également sauvegardé sur votre compte sur nos Plateformes et sur
 
 l’application mobile BERSHKA de votre téléphone. Vous pouvez présenter l’E-ticket sous forme digitale à
 
@@ -730,7 +840,7 @@ devrez nous retourner les articles, dans un délai de 30 jours à compter de la 
 
 
 
-15.3 Dispositions communes
+16.3 Dispositions communes
 
 
 
@@ -766,6 +876,8 @@ de la carte cadeau.
 
 En cas de rétractation, les produits concernés devront être retournés comme suit :
 
+
+
 (i) Retours effectués dans un magasin BERSHKA :
 
 
@@ -776,7 +888,7 @@ livrés et qui possède la même section à laquelle appartiennent les produits 
 
 devez vous rendre en magasin et présenter l'article accompagné du E-ticket joint à la Confirmation
 
-d’envoi, qui est également sauvegardé sur votre compte sur notre site Internet et sur l’application mobile
+d’envoi, qui est également sauvegardé sur votre compte sur nos Plateformes et sur l’application mobile
 
 BERSHKA de votre téléphone. Vous pouvez présenter l’E-ticket sous forme digitale à partir de votre
 
@@ -800,7 +912,7 @@ fixerez au colis déposé au point relais autorisé en France.
 
 Veuillez remettre le produit dans le même emballage que celui d’origine et suivre les instructions de la
 
-rubrique « Retours » du site Internet. Si vous avez acheté des produits en qualité d'invité, vous pouvez
+rubrique « Retours » de nos Plateformes. Si vous avez acheté des produits en qualité d'invité, vous pouvez
 
 demander le retour dans l’un des points relais autorisés en France en utilisant le lien Internet indiqué dans
 
@@ -818,21 +930,19 @@ vous recevrez un courriel avec une étiquette à coller sur le colis qui vous pe
 
 Si vous retournez le produit par transporteur, nous nous chargerons d'organiser sa collecte. Pour cela,
 
-vous devez nous contacter via le formulaire du site Internet pour convenir d'une date de collecte des
+vous devez nous contacter via le formulaire de nos Plateformes pour convenir d'une date de collecte des
 
 produits à votre domicile. Vous devrez envoyer le produit dans l'emballage dans lequel vous l'avez reçu
 
-en suivant les instructions de la section « RETOURS » du site internet.
+en suivant les instructions de la section « RETOURS » de nos Plateformes.
 
 
 
-Les frais de retour sont plus amplement détaillés au point 15.1 en cas d’exercice de votre droit légal de
+Les frais de retour sont plus amplement détaillés au point 16.1 en cas d’exercice de votre droit légal de
 
-rétractation et au point 15.2 en cas d’exercice de votre droit contractuel de rétractation. Les frais de retour
+rétractation et au point 16.2 en cas d’exercice de votre droit contractuel de rétractation. Les frais de retour
 
-sont mentionnés dans la section « RETOURS » sur notre site internet.
-
-
+sont mentionnés dans la section « RETOURS » sur nos Plateformes.
 
 Si vous décidez de retourner les produits par un autre moyen que ceux listés aux points (i) et (ii) ci-dessus,
 
@@ -840,9 +950,9 @@ en tout état de cause, vous supporterez le coût du renvoi des produits. Dans c
 
 prions de retourner le produit aussi rapidement que possible, accompagné de la version imprimée de l’E-
 
-ticket joint à la Confirmation d’envoi, qui est également sauvegardé sur votre compte sur notre site
+ticket joint à la Confirmation d’envoi, qui est également sauvegardé sur votre compte sur nos Plateformes
 
-Internet et sur notre application mobile.
+et sur notre application mobile.
 
 
 
@@ -851,6 +961,8 @@ Les retours de produits commandés par l’intermédiaire de dispositifs électr
 certains magasins Bershka en France et payés à la caisse du magasin doivent s’effectuer dans tous les cas
 
 dans un magasin Bershka en France.
+
+
 
 Après examen des produits, nous vous indiquerons si vous avez le droit de bénéficier du remboursement
 
@@ -888,13 +1000,13 @@ magasin doivent toujours être effectués dans les magasins BERSHKA en France.
 
 
 
-15.4. Droit de rétractation et retour des commandes depuis un autre pays
+16.4. Droit de rétractation et retour des commandes depuis un autre pays
 
 
 
 Si vous avez commandé des produits à partir d’un pays membre de l’Union Européenne autre que la
 
-France via ce site Internet, les clauses 15.1, 15.2 et 15.3 ci-dessus s’appliquent sous réserve que le retrait
+France via ces Plateformes, les clauses 16.1, 16.2 et 16.3 ci-dessus s’appliquent sous réserve que le retrait
 
 par un coursier mandaté par nos soins puisse être effectué uniquement à partir de l’adresse initiale de
 
@@ -910,7 +1022,7 @@ non plus de frais de retour à partir de destinations autres que la France métr
 
 
 
-16. PRODUITS PERSONNALISES
+17.PRODUITS PERSONNALISES
 
 
 
@@ -920,7 +1032,7 @@ des caractères que vous pouvez sélectionner parmi les options qui vous sont pr
 
 produit. Les produits qui sont personnalisables seront indiqués comme tels. Vous trouverez de plus
 
-amples informations sur cette option sur notre site internet. Vous devez savoir que, pour des raisons
+amples informations sur cette option sur nos Plateformes. Vous devez savoir que, pour des raisons
 
 techniques ou autres indépendantes de notre volonté, les couleurs, textures et tailles réelles peuvent
 
@@ -956,11 +1068,11 @@ produits.
 
 
 
-17. RESPONSABILITÉ ET EXCLUSION DE RESPONSABILITÉ /GARANTIES
+18. RESPONSABILITÉ ET EXCLUSION DE RESPONSABILITÉ /GARANTIES
 
 
 
-17.1 Responsabilité
+18.1 Responsabilité
 
 
 
@@ -986,33 +1098,35 @@ ou de limiter notre responsabilité.
 
 
 
-En raison de la nature ouverte de ce site Internet et des éventuelles erreurs en matière de stockage et de
+En raison de la nature ouverte de nos Plateformes et des éventuelles erreurs en matière de stockage et
 
-transmission d'informations numériques, nous ne garantissons pas la fiabilité et la sécurité des
+de transmission d'informations numériques, nous ne garantissons pas la fiabilité et la sécurité des
 
-informations transmises ou obtenues au moyen de ce site Internet, sauf lorsque cela est expressément
+informations transmises ou obtenues au moyen de nos Plateformes , sauf lorsque cela est expressément
 
 indiqué autrement.
 
 
 
-17.2 Garanties
+18.2 Garanties
 
 
 
-Toutes les descriptions de produits, les informations et les matériels affichés sur ce site Internet sont
+Toutes les descriptions de produits, les informations et les matériels affichés sur nos Plateformes sont
 
 fournis en l'état, sans garantie expresse ou implicite quant à ces derniers, sauf lorsque cela est prévu par
 
 la loi. BERSHKA FRANCE SARL, dont les coordonnées figurent au point 2 des présentes Conditions, garantit
 
-les consommateurs des défauts de conformité et des vices cachés pour les produits en vente sur ce site
+les consommateurs des défauts de conformité et des vices cachés pour les produits en vente sur nos
 
-Internet conformément à la garantie légale de conformité prévue aux articles L217-3 et suivants du Code
+Plateformes conformément à la garantie légale de conformité prévue aux articles L217-3 et suivants du
 
-de la consommation et à la garantie contre les vices cachés au sens des articles 1641 et suivants du Code
+Code de la consommation et à la garantie contre les vices cachés au sens des articles 1641 et suivants du
 
-civil.
+Code civil.
+
+
 
 Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la
 
@@ -1102,17 +1216,19 @@ garantie donne droit à une réduction de prix si le bien est conservé ou à un
 
 contre restitution du bien.
 
+
+
 Mise en œuvre de la garantie légale de conformité et des vices cachés :
 
 
 
 En cas de mise en œuvre de la garantie légale de conformité et des vices cachés, vous pouvez nous
 
-contacter en utilisant les différents moyens listés dans la section contact de ce site Internet et notamment
+contacter en utilisant les différents moyens listés dans la section contact de de nos Plateformes et
 
-en appelant le 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur). Nous vous
+notamment en appelant le 0 800 918 880 (Appel non surtaxé, hors coût éventuel selon votre opérateur).
 
-indiquerons alors la marche à suivre.
+Nous vous indiquerons alors la marche à suivre.
 
 
 
@@ -1168,8 +1284,6 @@ l'acheteur ne l'aurait pas acquise, ou n'en aurait donné qu'un moindre prix, s'
 
 l'acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
-
-
 Les produits que nous vendons, en particulier les produits artisanaux, possèdent souvent les
 
 caractéristiques des matériaux naturels utilisés pour leur fabrication. Ces caractéristiques peuvent faire
@@ -1190,19 +1304,21 @@ Le contenu de cette clause ne porte aucunement atteinte à vos droits en tant qu
 
 votre droit de résilier le Contrat.
 
-17.3. Médiation
+
+
+18.3. Médiation
 
 
 
 En tant que consommateur, si vous estimez que vos droits ont été transgressés, vous pouvez adresser
 
-votre réclamation à l’adresse électronique suivante : contact@bershka.com afin de solliciter un
+votre réclamation à l’adresse électronique suivante : contact_fr@bershka.com afin de solliciter un
 
 règlement à l’amiable.
 
 
 
-Aussi, si votre achat a été effectué sur notre site Internet, nous vous informons par la présente, qu’en
+Aussi, si votre achat a été effectué sur nos Plateformes , nous vous informons par la présente, qu’en
 
 conformité avec le règlement européen n°524/2013, vous avez le droit de solliciter la résolution de votre
 
@@ -1224,7 +1340,7 @@ Saint Jean 75017 Paris.
 
 
 
-18. NUMEROS D’IDENTIFICATION UNIQUE AU REGISTRE NATIONAL DES PRODUCTEURS
+19. NUMEROS D’IDENTIFICATION UNIQUE AU REGISTRE NATIONAL DES PRODUCTEURS
 
 
 
@@ -1248,19 +1364,17 @@ pour la maison » : FR212790_11RSZB
 
 
 
-19. PROPRIÉTÉ INTELLECTUELLE
-
-
+20. PROPRIÉTÉ INTELLECTUELLE
 
 Vous reconnaissez et acceptez que tous les droits d'auteur, les marques enregistrées ainsi que les droits
 
-de propriété intellectuelle sur les matériels ou les contenus fournis dans le cadre de ce site Internet nous
+de propriété intellectuelle sur les matériels ou les contenus fournis dans le cadre de nos Plateformes nous
 
 appartiennent à tout moment ou appartiennent à ceux qui nous ont concédé une licence d'utilisation.
 
 Vous pouvez utiliser ledit matériel uniquement dans la mesure dans laquelle nous, ou les détenteurs de
 
-la licence d'utilisation, l'autorisons expressément. Cela ne vous empêche pas d'utiliser ce site Internet
+la licence d'utilisation, l'autorisons expressément. Cela ne vous empêche pas d'utiliser nos Plateformes
 
 dans la mesure nécessaire pour copier les informations de votre commande ou les renseignements de
 
@@ -1268,21 +1382,21 @@ contact.
 
 
 
-20. VIRUS, PIRATAGE ET AUTRES ATTAQUES INFORMATIQUES
+21. VIRUS, PIRATAGE ET AUTRES ATTAQUES INFORMATIQUES
 
 
 
-Vous ne devez pas utiliser de manière indue ce site Internet en introduisant volontairement un virus, un
+Vous ne devez pas utiliser de manière indue nos Plateformes en introduisant volontairement un virus, un
 
 cheval de Troie, un ver, des bombes logiques ou quelque autre logiciel ou matériel technologiquement
 
-préjudiciable ou dangereux. Vous ne devez pas essayer d'accéder sans autorisation à ce site Internet, au
+préjudiciable ou dangereux. Vous ne devez pas essayer d'accéder sans autorisation à nos Plateformes , au
 
-serveur sur lequel le site est hébergé ou quelque serveur, ordinateur ou base de données que ce soit
+serveur sur lequel nos Plateformes hébergé ou quelque serveur, ordinateur ou base de données que ce
 
-publié sur notre site internet. Vous acceptez de ne pas attaquer ce site Internet par le biais d'une attaque
+soit publié sur nos Plateformes. Vous acceptez de ne pas attaquer nos Plateformes par le biais d'une
 
-de déni de service ou d'une attaque de déni de service distribué.
+attaque de déni de service ou d'une attaque de déni de service distribué.
 
 
 
@@ -1292,7 +1406,7 @@ applicable. Nous dénoncerons tout manquement à cette règle aux autorités com
 
 avec elles pour mettre au jour l'identité des auteurs de l'attaque. De la même manière, en cas de
 
-manquement à cette clause, l'autorisation d'utiliser ce site Internet sera immédiatement suspendue.
+manquement à cette clause, l'autorisation d'utiliser nos Plateformes sera immédiatement suspendue.
 
 
 
@@ -1302,49 +1416,49 @@ d'une attaque de déni de service, de virus ou de quelque autre logiciel ou autr
 
 dangereux technologiquement et susceptible de porter atteinte à votre ordinateur, équipement
 
-informatique, données ou matériels, à la suite de l'utilisation de ce site Internet ou du téléchargement de
+informatique, données ou matériels, à la suite de l'utilisation de nos Plateformes ou du téléchargement
 
-contenu sur ce dernier ou de sites vers lesquels ce site vous redirige.
-
-
-
-21. LIENS À PARTIR DE NOTRE SITE INTERNET
+de contenu sur ce dernier ou de sites vers lesquels ces Plateformes vous redirigent.
 
 
 
-Si notre site Internet contient des liens vers d'autres sites Internet et des matériels de tiers, ces liens sont
-
-fournis à titre informatif uniquement et nous n'avons aucun contrôle sur le contenu de ces sites Internet
-
-ou matériels. Par conséquent, nous déclinons toute responsabilité quant à un éventuel dommage ou
-
-préjudice pouvant en découler.
+22. LIENS À PARTIR DE NOTRE SITE INTERNET
 
 
 
-22. COMMUNICATION ÉCRITE
+Si nos Plateformes contiennent des liens vers d'autres sites Internet et des matériels de tiers, ces liens
+
+sont fournis à titre informatif uniquement et nous n'avons aucun contrôle sur le contenu de ces sites
+
+Internet ou matériels. Par conséquent, nous déclinons toute responsabilité quant à un éventuel dommage
+
+ou préjudice pouvant en découler.
+
+
+
+23. COMMUNICATION ÉCRITE
 
 
 
 La réglementation en vigueur exige que certaines des informations ou notifications que nous vous
 
-envoyons soient effectuées par écrit. En utilisant ce site, vous acceptez que notre communication
+envoyons soient effectuées par écrit. En utilisant nos Plateformes, vous acceptez que notre
 
-s'effectue principalement par voie électronique. Nous vous contacterons par courriel ou vous informerons
+communication s'effectue principalement par voie électronique. Nous vous contacterons par courriel ou
 
-en affichant des messages sur le site Internet. Pour des raisons contractuelles, vous acceptez d'utiliser ce
+vous informerons en affichant des messages sur nos Plateformes . Pour des raisons contractuelles, vous
 
-moyen de communication électronique et reconnaissez que tous les contrats, notifications, informations
+acceptez d'utiliser ce moyen de communication électronique et reconnaissez que tous les contrats,
 
-et autres communications que nous vous envoyons par voie électronique satisfont aux exigences légales
+notifications, informations et autres communications que nous vous envoyons par voie électronique
 
-de transmission par écrit. Cette condition ne portera aucunement atteinte aux droits qui vous sont
+satisfont aux exigences légales de transmission par écrit. Cette condition ne portera aucunement atteinte
 
-légalement reconnus.
+aux droits qui vous sont légalement reconnus.
 
 
 
-23. NOTIFICATIONS
+24. NOTIFICATIONS
 
 
 
@@ -1360,7 +1474,7 @@ de passer commande.
 
 Les notifications seront considérées comme reçues et effectuées correctement dès qu'elles seront
 
-affichées sur notre site Internet, 24 heures après avoir été envoyées par courriel, ou trois jours après la
+affichées sur nos Plateformes , 24 heures après avoir été envoyées par courriel, ou trois jours après la
 
 date d'envoi d'une lettre. Pour prouver que la notification a été envoyée il sera suffisant de démontrer,
 
@@ -1370,7 +1484,9 @@ et correctement remise au bureau de poste ou dans une boîte aux lettres ; et po
 
 été envoyés à l'adresse électronique indiquée par le destinataire.
 
-24. CESSION DE DROITS ET OBLIGATIONS
+
+
+25. CESSION DE DROITS ET OBLIGATIONS
 
 
 
@@ -1402,7 +1518,7 @@ nous aurons pu vous accorder.
 
 
 
-25. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
+26. ÉVÉNEMENTS HORS DE NOTRE CONTRÔLE
 
 
 
@@ -1424,9 +1540,7 @@ du possible de faire cesser le Cas de Force Majeure ou de trouver une solution n
 
 nos obligations contractuelles malgré le cas de force majeure.
 
-
-
-26. DROITS DE RENONCIATION
+27. DROITS DE RENONCIATION
 
 
 
@@ -1456,7 +1570,9 @@ sera pas communiquée conformément aux dispositions prévues dans la clause con
 
 ci-dessus.
 
-27. NULLITÉ PARTIELLE
+
+
+28. NULLITÉ PARTIELLE
 
 
 
@@ -1468,7 +1584,7 @@ conditions générales resteront en vigueur et ne seront aucunement affectées p
 
 
 
-28. INTÉGRALITÉ DU CONTRAT
+29. INTÉGRALITÉ DU CONTRAT
 
 
 
@@ -1500,35 +1616,33 @@ sur la rupture de Contrat, comme cela est stipulé dans les présentes Condition
 
 
 
-29. NOTRE DROIT DE MODIFIER CES CONDITIONS
+30. NOTRE DROIT DE MODIFIER CES CONDITIONS
 
 
 
 Nous nous réservons le droit de réviser et modifier ces Conditions à tout moment.
 
+Vous êtes soumis aux Politiques et Conditions en vigueur au moment où vous utilisez ces Plateformes ou
 
+passez une commande, sauf si la loi ou les autorités compétentes nous obligent à modifier ces Politiques
 
-Vous êtes soumis aux Politiques et Conditions en vigueur au moment où vous utilisez ce site ou passez
-
-une commande, sauf si la loi ou les autorités compétentes nous obligent à modifier ces Politiques ou la
-
-déclaration de confidentialité de manière rétroactive, auquel cas toute modification éventuelle
+ou la déclaration de confidentialité de manière rétroactive, auquel cas toute modification éventuelle
 
 s'appliquera également aux commandes que vous aurez passées préalablement.
 
 
 
-30. LÉGISLATION APPLICABLE ET JURIDICTION
+31. LÉGISLATION APPLICABLE ET JURIDICTION
 
 
 
-L'utilisation de notre site Internet et les contrats d'achat de produits via ledit site Internet seront régis par
+L'utilisation de nos Plateformes et les contrats d'achat de produits via lesdites Plateformes seront régis
 
-la législation française.
+par la législation française.
 
 
 
-Tout différend né lors de ou lié à l'utilisation de ce site Internet ou desdits contrats sera sujet à la
+Tout différend né lors de ou lié à l'utilisation de ces Plateformes ou desdits contrats sera sujet à la
 
 juridiction non exclusive des tribunaux français.
 
@@ -1538,7 +1652,9 @@ Les dispositions de cette clause ne portent aucunement atteinte aux droits dont 
 
 que consommateur en vertu de la législation applicable en la matière.
 
-31. COMMENTAIRES ET SUGGESTIONS
+
+
+32. COMMENTAIRES ET SUGGESTIONS
 
 
 
@@ -1556,7 +1672,7 @@ selon votre opérateur) ou via notre formulaire de contact.
 
 
 
-Dernière mise à jour le 15 Novembre 2023
+Dernière mise à jour le 13 Septembre 2024
 
 
 
@@ -1572,15 +1688,13 @@ Bergère - 75009 Paris, France
 
 
 
-Adresse électronique : contact@bershka.com
+Adresse électronique : contact_fr@bershka.com
 
 
 
 Je/nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du Contrat portant sur
 
 la vente du bien ci-dessous :
-
-
 
 Commandé le (\*)[.....................................] / reçu le [.....................................] (\*)
 
@@ -1605,6 +1719,8 @@ Date : [.....................................]
 
 
 (\*) Rayez la mention inutile
+
+
 
 CONDITIONS GENERALES D'UTILISATION DE L'APPLICATION BERSHKA ET DES FONCTIONNALITES
 
@@ -1640,7 +1756,11 @@ magasins Bershka (ci-après le « Magasin Physique » ou les « Magasins Physiqu
 
 fin. Vous pourrez ainsi, pour chacun de vos achats, choisir de recevoir un ticket sous format papier plutôt
 
-qu'un ticket sous format électronique.
+qu'un ticket sous format électronique (v) la possibilité d’utiliser le Camera Kit disponible sur l’Application,
+
+au moyen duquel les utilisateurs peuvent simuler l'utilisation de produits avec des accessoires virtuels
+
+(« Caméra Kit ») selon les conditions suivantes.
 
 
 
@@ -1650,7 +1770,7 @@ SARL au capital de 8.492.700 €, sise 22 Rue Bergère 75009 Paris, inscrite au 
 
 sociétés de Paris, sous le numéro 443 617 725, portant le numéro de TVA intracommunautaire FR 92 443
 
-617 725, joignable à l'adresse électronique suivante contact@bershka.com et au numéro de téléphone
+617 725, joignable à l'adresse électronique suivante contact_fr@bershka.com et au numéro de téléphone
 
 suivant : 0 800 918 880 (appel non surtaxé, hors coût éventuel selon votre opérateur).
 
@@ -1661,8 +1781,6 @@ suivant : 0 800 918 880 (appel non surtaxé, hors coût éventuel selon votre op
 
 
 1.1 Achat de produits sur www.bershka.com via l'Application Bershka
-
-
 
 Les clients peuvent acheter des produits sur www.bershka.com via l'Application Bershka. Par conséquent,
 
@@ -1784,7 +1902,47 @@ aux Conditions d'Achat et d’Utilisation, aux politiques commerciales de Bershk
 
 applicable.
 
-2. DISPONIBILITÉ DES SERVICES ET DES FONCTIONNALITES
+
+
+1.7 Caméra Kit
+
+
+
+La fonction « Camera Kit » disponible dans l'Application est une technologie fournie par SnapChat qui
+
+permet aux utilisateurs de simuler l'utilisation de produits avec des accessoires virtuels à l'aide de leur
+
+appareil photo, qui peut prendre des photographies ou des vidéos d'eux. Les photographies ou les vidéos
+
+peuvent uniquement être stockées dans la galerie de l'appareil de l'utilisateur ou être partagées
+
+directement par l'utilisateur sur les plateformes de médias sociaux qu'il a connectées et qui sont
+
+disponibles pour cette fonctionnalité.
+
+
+
+2. En tant qu'utilisateur, vous nous confirmez que : (i) vous êtes le détenteur de tous les droits
+
+patrimoniaux et moraux sur la photographie, exonérant BERSHKA de tout type de responsabilité
+
+relative aux droits d'auteur et à la propriété intellectuelle sur ce contenu, et que (ii) cette
+
+photographie (a) ne portera pas atteinte aux droits (y compris, à titre d'exemple, les droits de
+
+propriété intellectuelle ou industrielle, le droit à l'image ou à la vie privée ou tout autre droit) ou aux
+
+intérêts de tiers, ou à toute norme ou législation applicable (qu'elle soit internationale, française ou
+
+autre) et (b) ne reproduira pas l'image de personnes autres que vous, ni n'inclura d'éléments pouvant
+
+être considérés comme offensants ou discriminatoires (que ce soit sur la base de la race, de la religion,
+
+du sexe, de l'orientation sexuelle ou de l'affiliation politique ou syndicale), illégaux, menaçants,
+
+calomnieux, diffamatoires ou injurieux, obscènes, pornographiques ou indécentes, ou
+
+inappropriées.DISPONIBILITÉ DES SERVICES ET DES FONCTIONNALITES
 
 
 
@@ -1870,6 +2028,8 @@ incorporent dans leur propriété au regard de la propriété intellectuelle ou 
 
 ©, ® et ™, etc.,).
 
+
+
 - Dispositifs techniques de protection ou d'identification que la Propriété peut contenir (par exemple,
 
 filigranes, empreintes digitales, etc.,). Les utilisateurs reconnaissent qu'en vertu des présentes
@@ -1906,8 +2066,6 @@ La Société se réserve tous les droits sur la Propriété dont elle est propri
 
 limiter, tous les droits de propriété intellectuelle et industrielle qu'elle détient sur la Propriété.
 
-
-
 La Société n'accorde aux utilisateurs aucune licence ou autorisation d'utiliser la Propriété qui lui
 
 appartient autre que celles expressément énoncées dans cette clause. La Société se réserve le droit de
@@ -1934,4 +2092,4 @@ autres lois applicables.
 
 
 
-Dernière mise à jour : 28 Novembre 2023
+Dernière mise à jour : 13 Septembre 2024
