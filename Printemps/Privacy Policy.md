@@ -227,7 +227,7 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
-* [![](https://media-cdn.printemps.com/image/49/4/6951494.jpg)](https://www.printemps.com/fr/fr/univers-hermes)
+*  [![](https://media-cdn.printemps.com/image/49/4/6951494.jpg) HERMÈS](https://www.printemps.com/fr/fr/univers-hermes)
     
 
 * [COLLABORATIONS](#)
