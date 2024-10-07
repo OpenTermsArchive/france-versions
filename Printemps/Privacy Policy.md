@@ -34,7 +34,6 @@
 
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussures)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_chaussures)
-    * [Offre Shoes Party](https://www.printemps.com/fr/fr/shoes-party-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=shoesparty)
     * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-auto-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
     * [Ballerines Et Babies](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Babies/Ballerines?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerines_babies)
     * [Derbies Et Moccassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins?ap_source=anico&ap_medium=nav-femme&ap_campaign=derbies_mocassins)
@@ -85,8 +84,6 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=saison_1865)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Loewe](https://www.printemps.com/fr/fr/loewe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=loewe)
-* [![](https://media-cdn.printemps.com/image/54/8/6948548.jpg)](https://www.printemps.com/fr/fr/shoes-party-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_shoesparty)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
@@ -112,7 +109,6 @@
     * [Baskets Blanches](https://www.printemps.com/fr/fr/baskets-homme/col/Blanc?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-blanches-homme)
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chaussures-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-chaussures-homme)
-    * [Offre Shoes Party](https://www.printemps.com/fr/fr/shoes-party-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=shoesparty)
     * [Mocassins Et Derbies](https://www.printemps.com/fr/fr/chaussures-plates-homme?ap_source=anico&ap_medium=navigation&ap_campaign=derbies-mocassins-homme)
     * [Bottines](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme/cat0/Bottes/Bottines?ap_source=anico&ap_medium=navigation&ap_campaign=bottines-homme)
     * [Sandales Et Mules](https://www.printemps.com/fr/fr/toutes-les-chaussures-homme/cat0/Sandales/Mules?ap_source=anico&ap_medium=navigation&ap_campaign=sandales-mules-homme)
@@ -231,7 +227,7 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/75/0/6907750.jpg) NUXE](https://www.printemps.com/fr/fr/nuxe-beaute)
+* [![](https://media-cdn.printemps.com/image/49/4/6951494.jpg)](https://www.printemps.com/fr/fr/univers-hermes)
     
 
 * [COLLABORATIONS](#)
@@ -292,6 +288,8 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges?ap_source=anico&ap_medium=navigation&ap_campaign=courreges-tendance-marque)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island?ap_source=anico&ap_medium=navigation&ap_campaign=stone-island-tendance-marque)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-tendance-marque)
+* [![](https://media-cdn.printemps.com/image/75/0/6907750.jpg)](https://www.printemps.com/fr/fr/nuxe-beaute)
+    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
