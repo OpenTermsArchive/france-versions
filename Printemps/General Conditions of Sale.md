@@ -787,7 +787,10 @@ Le Client peut effectuer le paiement de sa commande à l'aide des moyens suivant
 
 * Par cartes bancaires suivantes : Visa, Mastercard, American Express et Visa Printemps.
 
-Les transactions effectuées sur le Site sont confiées à une plateforme de paiement en ligne sécurisée INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : support.ecom@ingenico.com.
+Les transactions effectuées sur le Site sont confiées à deux plateformes de paiement en lignes sécurisées :
+
+* INGENICO EPAYMENTS, immatriculée au RCS de Paris sous le numéro B 435 236 898 dont le siège social est situé 28/32 boulevard de Grenelle, 75015 Paris - France, Tél. : + 33 (0) 1 70 70 09 03 et courriel : [support.ecom@ingenico.com](mailto:support.ecom@ingenico.com)
+* ADYEN, une Société enregistrée aux Pays-Bas sous le numéro 34259528 dont le siège social est situé Simon Carmiggeltstraat 6-50, 1011 DJ, Amsterdam, Pays-Bas, Courriel : support@adyen.com
 
 Les données de paiement de la carte bancaire du Client (à savoir : numéro de carte, date d'expiration et cryptogramme visuel figurant au verso de la carte) seront cryptées par le prestataire, lequel transmet ces données de paiement vers la banque, en toute confidentialité et les rend inaccessibles à un tiers.
 
@@ -797,15 +800,23 @@ A chaque utilisation de l'une des cartes pré-enregistrées, le Client devra sai
 
   
 
+* Par APPLE PAY pour les appareils éligibles
+
+  
+
+* Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre 35€ et 1500€ pour les pays de livraison suivants : Autriche, Espagne, France, Irlande, Italie, Pays-Bas et Portugal 
+
+  
+
+* Par KLARNA PAY OVER TIME - paiement en trois fois pour les transactions dont le montant de la transaction est situé entre GBP 35 et GBP 1500 pour le Royaume-Uni
+
+  
+
 * Par compte PayPal, lequel sera automatiquement soumis aux conditions d'utilisation de Service Paypal ainsi qu'au règlement sur le respect de la vie privée de Paypal.
 
   
 
 * Par bon d'achat valable 6 mois sur le Site dont les conditions figurant dans l'article 5, le règlement pouvant être réalisé en totalité ou en partie par l'un de ces modes de paiement.
-
-  
-
-* Paiement en 3x sans frais possible pour toutes les commandes allant de 150 euros à 2 000 euros promotions incluses.
 
   
 
