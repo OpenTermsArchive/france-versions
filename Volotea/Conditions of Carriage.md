@@ -141,9 +141,9 @@ Volotea ne permettra pas au Passager d’embarquer si les documents présentés 
 
 #### 4.4 Restitution du prix du Billet/Remboursement
 
-Excepté ce qui est prévu par ces conditions et tout autre mode confirmé dans le tarif ou par l’assurance annulation correspondante, Volotea ne sera nullement responsable en cas de non-utilisation du Billet par le Passager pour le vol correspondant. Ce qui est mentionné précédemment n’oblige nullement Volotea à restituer le montant versé ou rembourser le prix du Billet.
+Sauf disposition contraire des présentes Conditions, et sans préjudice des autres indications figurant sur le Tarif ou au moyen de l'assurance annulation correspondante, Volotea ne sera pas responsable de la non-utilisation par le Passager du Billet pour le Vol correspondant. Cela n'entraînera aucune obligation de la part de Volotea de restituer ou de rembourser le prix ou les autres sommes payées par le Passager pour l'achat du Vol.
 
-Volotea ne remboursera pas, en cas de non-utilisation du Billet de la part du Passager, le supplément de combustible, les frais de dossier, les impôts ou tout autre montant réglé par le Passager pour le vol contracté. Cependant, Volotea devra rembourser le montant payé par le Passager pour les taxes aéroportuaires et de sécurité si ce dernier en fait la demande. Cette demande peut être effectuée par le biais de notre [formulaire en ligne](https://www.volotea.com/fr/contact/ "Contact") (gratuit), en appelant notre service client ou par courrier. Le remboursement sera effectué dans un délai de trente jours à compter de la demande.
+Ce qui précède est sans préjudice du fait que Volotea sera tenu de rembourser intégralement le montant payé par le Passager au titre des Taxes Aéroportuaires et des Frais de Sécurité. Ce remboursement peut être demandé via le service de « chat en ligne » disponible à l'adresse [https://www.volotea.com/fr/contact/article/7420311830161](https://www.volotea.com/fr/contact/article/7420311830161), ou via le service client téléphonique.
 
 #### 4.5 Circonstances exceptionnelles
 
