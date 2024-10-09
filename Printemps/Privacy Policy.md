@@ -83,7 +83,7 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=saison_1865)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
-    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=loewe)
+    * [Gerard Darel](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
