@@ -22,9 +22,9 @@ du traitement et la protection de vos données personnelles. Plus d’infos.
 
 
 
-2. POUR QUOI UTILISONS-NOUS VOS DONNÉES PERSONNELLES
+2. POUR QUOI UTILISONS-NOUS VOS DONNÉES PERSONNELLES ?
 
-? Entre autres finalités, nous utiliserons vos données (obtenues online ou personnellement) pour
+Entre autres finalités, nous utiliserons vos données (obtenues online ou personnellement) pour
 
 gérer votre enregistrement comme utilisateur, gérer l’achat de produits ou de services,
 
@@ -76,13 +76,15 @@ comprendre l’utilisation que nous ferons de vos données personnelles et les d
 
 disposez concernant celles-ci.
 
+2
+
 
 
 AVANT DE COMMENCER...
 
 
 
-● Dans cette Politique de confidentialité, vous trouverez toutes les informations pertinentes appliquées
+• Dans cette Politique de confidentialité, vous trouverez toutes les informations pertinentes appliquées
 
 à l’utilisation que nous faisons des données à caractère personnel de nos clients et utilisateurs,
 
@@ -90,11 +92,9 @@ indépendamment du canal ou du moyen (en ligne ou physiquement) que vous utilise
 
 nous.
 
-2
 
 
-
-● Pour obtenir des informations sur l’utilisation que nous faisons des cookies et des dispositifs similaires
+• Pour obtenir des informations sur l’utilisation que nous faisons des cookies et des dispositifs similaires
 
 susceptibles d’être installés sur les terminaux de nos clients et utilisateurs, nous vous recommandons de
 
@@ -102,7 +102,7 @@ consulter notre Politique en matière de cookies.
 
 
 
-● Nous sommes transparents sur ce que nous faisons avec vos données, pour vous permettre de
+• Nous sommes transparents sur ce que nous faisons avec vos données, pour vous permettre de
 
 comprendre les implications des traitements mis en œuvre ou les droits que vous avez sur vos données :
 
@@ -118,7 +118,7 @@ fournies au fur et à mesure que vous interagissez avec nous.
 
 
 
-● Quelques noms que nous utiliserons dans cette Politique de confidentialité :
+• Quelques noms que nous utiliserons dans cette Politique de confidentialité :
 
 
 
@@ -140,7 +140,7 @@ ou celles que nous pouvons utiliser dans notre Plateforme.
 
 
 
-1. QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES
+QUI EST RESPONSABLE DU TRAITEMENT DE VOS DONNÉES
 
 PERSONNELLES ?
 
@@ -180,7 +180,11 @@ avons établi des directives et nous assurons la prise en charge du traitement e
 
 personnelles.
 
-2. POUR QUOI UTILISONS-NOUS VOS DONNÉES PERSONNELLES ?
+3
+
+
+
+POUR QUOI UTILISONS-NOUS VOS DONNÉES PERSONNELLES ?
 
 
 
@@ -199,8 +203,6 @@ le pays depuis lequel vous interagissez avec nous, les données de contact, etc.
 ▪ l’information économique et de paiement (par exemple, vos données de paiement ou de carte de
 
 paiement, l’information sur vos achats, vos commandes, vos retours, etc.) ;
-
-3
 
 
 
@@ -300,6 +302,14 @@ Vous pouvez vous connecter ou vous identifier par l’intermédiaire d’un
 
 réseau social ou d’un autre partenaire qui active ce service (login social)
 
+4
+
+
+
+FINALITÉ En savoir plus
+
+
+
 lorsque cette option est disponible sur notre page de connexion, soit pour
 
 lier la connexion à votre compte soit pour créer un nouveau compte. Dans
@@ -329,14 +339,6 @@ concernant votre activité sur le réseau social ou avec le partenaire. Dans
 tous les cas, nous vous recommandons de vérifier la configuration de vos
 
 paramètres de confidentialité et les politiques de confidentialité du
-
-4
-
-
-
-FINALITÉ En savoir plus
-
-
 
 partenaire ou réseau social afin de savoir comment ces tiers traitent vos
 
@@ -424,6 +426,14 @@ fraudes contre vous-mêmes et/ou contre nous, par exemple). Si
 
 nous pensons que la transaction peut être frauduleuse ou si nous
 
+5
+
+
+
+FINALITÉ En savoir plus
+
+
+
 décelons un comportement inhabituel qui indique une tentative
 
 d’utilisation frauduleuse de nos fonctionnalités, produits ou
@@ -468,14 +478,6 @@ clients dans les magasins physiques.
 
 spécifiques (tels que la recherche d’articles, la réservation d’une
 
-5
-
-
-
-FINALITÉ En savoir plus
-
-
-
 cabine d’essayage, etc.) disponibles dans certains magasins
 
 physiques, nous pouvons traiter vos données de localisation et de
@@ -508,25 +510,23 @@ Si l’option est disponible et que vous choisissez de communiquer avec le
 
 Service clientèle via le service de chat d’un réseau social ou d’un autre
 
-partenaire, certaines de vos données à caractère personnel, telles que
+partenaire, certaines de vos données à caractère personnel, telles que votre
 
-votre nom ou votre nom d’utilisateur, seront importées de votre réseau
+nom ou votre nom d’utilisateur, seront importées de votre réseau social ou
 
-social ou de votre compte partenaire. En outre, gardez à l’esprit que les
+de votre compte partenaire. En outre, gardez à l’esprit que les données que
 
-données que vous soumettez sur ce service seront à la disposition de votre
+vous soumettez sur ce service seront à la disposition de votre réseau social
 
-réseau social ou du partenaire et soumises à leurs politiques de
+ou du partenaire et soumises à leurs politiques de confidentialité, c’est
 
-confidentialité, c’est pourquoi nous vous recommandons de vérifier vos
+pourquoi nous vous recommandons de vérifier vos paramètres de
 
-paramètres de confidentialité et de lire les politiques de confidentialité du
+confidentialité et de lire les politiques de confidentialité du réseau social ou
 
-réseau social ou du partenaire pour obtenir des informations plus détaillées
+du partenaire pour obtenir des informations plus détaillées sur l’utilisation
 
-sur l’utilisation qu’ils font de vos données personnelles lors de l’utilisation
-
-de leurs services.
+qu’ils font de vos données personnelles lors de l’utilisation de leurs services.
 
 
 
@@ -549,6 +549,12 @@ interactions avec nous sur la Plateforme ainsi qu’une analyse de
 votre profil utilisateur (en fonction de votre historique d’achat et de
 
 navigation, par exemple).
+
+6
+
+
+
+FINALITÉ En savoir plus
 
 
 
@@ -606,12 +612,6 @@ recevoir de notifications push, vous pouvez désactiver cette
 
 option sur votre dispositif.
 
-6
-
-
-
-FINALITÉ En savoir plus
-
 
 
 ▪ Vous montrer des publicités sur Internet que vous pouvez voir
@@ -620,11 +620,9 @@ lorsque vous visitez des sites et des applis, par exemple sur les
 
 réseaux sociaux. Les publicités que vous voyez peuvent être
 
-aléatoires, mais en d'autres occasions, il peut s'agir de publicités
+aléatoires, mais en d'autres occasions, il peut s'agir de publicités se
 
-se rapportant à vos préférences ou achats et historique de
-
-navigation.
+rapportant à vos préférences ou achats et historique de navigation.
 
 
 
@@ -638,17 +636,17 @@ du traitement, vous proposer des publicités de nos marques et,
 
 de manière globale, vous proposer, ainsi qu’aux utilisateurs
 
-comme vous, des publicités qui tiennent compte de votre profil
+comme vous, des publicités qui tiennent compte de votre profil sur
 
-sur lesdits réseaux sociaux. Si vous souhaitez des
+lesdits réseaux sociaux. Si vous souhaitez des renseignements
 
-renseignements sur l’utilisation de vos données et le
+sur l’utilisation de vos données et le fonctionnement de la publicité
 
-fonctionnement de la publicité sur les réseaux sociaux, nous vous
+sur les réseaux sociaux, nous vous recommandons de consulter
 
-recommandons de consulter la politique de confidentialité des
+la politique de confidentialité des réseaux sociaux sur lesquels
 
-réseaux sociaux sur lesquels vous avez un profil.
+vous avez un profil.
 
 
 
@@ -661,6 +659,14 @@ que nous montrons aux utilisateurs sur certaines plateformes de
 nos partenaires. À cet effet nous collaborons avec ces tiers qui
 
 nous offrent la technologie nécessaire (comme par exemple,
+
+7
+
+
+
+FINALITÉ En savoir plus
+
+
 
 cookies, pixels, SDK (kit de développement logiciel)) pour utiliser
 
@@ -714,15 +720,15 @@ effectuez un achat en tant qu’invité, ou lorsque nous associons les
 
 informations qui sont collectées automatiquement (comme les
 
-adresses IP et MAC ou les métadonnées) avec les informations
+adresses IP et MAC ou les métadonnées) avec les informations que
 
-que vous nous avez fournies directement par le biais de votre
+vous nous avez fournies directement par le biais de votre activité
 
-activité sur la Plateforme ou dans l’un de nos magasins (par
+sur la Plateforme ou dans l’un de nos magasins (par exemple, des
 
-exemple, des informations liées à vos achats, aussi bien dans des
+informations liées à vos achats, aussi bien dans des magasins
 
-magasins physiques qu’en ligne, vos préférences, etc.)
+physiques qu’en ligne, vos préférences, etc.)
 
 
 
@@ -733,14 +739,6 @@ la réalisation de concours ou l’envoi de votre liste d’articles
 conservés à l’adresse électronique que vous nous indiquerez). En
 
 participant à une action promotionnelle, vous nous autorisez à
-
-7
-
-
-
-FINALITÉ En savoir plus
-
-
 
 traiter les données fournies en fonction de chaque action
 
@@ -763,6 +761,12 @@ sociaux, des photos ou des images que vous avez partagé de
 manière publique, si vous nous donnez votre consentement pour le
 
 faire.
+
+8
+
+
+
+FINALITÉ En savoir plus
 
 
 
@@ -796,7 +800,7 @@ et pour détecter les domaines dans lesquels améliorer nos performances.
 
 
 
-3. QUEL EST LE FONDEMENT DU TRAITEMENT DE VOS DONNÉES
+QUEL EST LE FONDEMENT DU TRAITEMENT DE VOS DONNÉES
 
 PERSONNELLES ?
 
@@ -848,7 +852,7 @@ consentement donné au moment d’autoriser la cession de vos données
 
 depuis le réseau social.
 
-8
+9
 
 
 
@@ -894,37 +898,33 @@ personnelles est votre propre consentement. En outre, nous traitons vos
 
 données de localisation lorsque vous nous fournissez votre consentement,
 
-afin de vous proposer des services spécifiques via l’Appli lors de la visite
+afin de vous proposer des services spécifiques via l’Appli lors de la visite de
 
-de certains de nos magasins physiques.
+certains de nos magasins physiques.
 
 
 
-Nous considérons que nous avons un intérêt légitime à effectuer les
+Nous considérons que nous avons un intérêt légitime à réaliser les
 
-vérifications pertinentes pour détecter et prévenir les fraudes ou utilisations
+vérifications nécessaires pour détecter et prévenir d’éventuelles fraudes ou
 
-frauduleuses potentielles de la plateforme, comme lorsque vous effectuez
+utilisations frauduleuses de la Plateforme, par exemple, quand vous
 
-un achat ou un retour ou pour analyser l'efficacité de différents services
+effectuez un achat ou un retour. Nous estimons que le traitement de ces
 
-inclus dans la plateforme, comme par exemple l'outil pour trouver votre
+données est dans l’intérêt de toutes les parties concernées : pour vous, car
 
-taille. Nous estimons que le traitement de ces données est dans l’intérêt de
+il nous permet de mettre en place des mesures pour vous protéger contre
 
-toutes les parties concernées : pour vous, car il nous permet de mettre en
+des tentatives de fraude commises par des tiers ; pour nous, car il nous
 
-place des mesures pour vous protéger contre des tentatives de fraude
+permet d'éviter des utilisations non autorisées de la Plateforme ; pour tous
 
-commises par des tiers ; pour nous, car il nous permet d'éviter des
+nos clients et la société en général, car il protège aussi leur intérêt en
 
-utilisations non autorisées de la Plateforme ; pour tous nos clients et la
+garantissant que les activités frauduleuses sont découragées et détectées
 
-société en général, car il protège aussi leur intérêt en garantissant que les
-
-activités frauduleuses sont découragées et détectées lorsqu'elles
-
-surviennent.
+lorsqu'elles surviennent.
 
 
 
@@ -964,7 +964,7 @@ de données pourrait être nécessaire afin de garantir l’intérêt public au 
 
 de la santé publique.
 
-9
+10
 
 
 
@@ -972,7 +972,7 @@ Finalité Fondement
 
 
 
-4\. Marketing La base légitime pour traiter vos données à des fins de marketing est le
+4. Marketing La base légitime pour traiter vos données à des fins de marketing est le
 
 consentement que vous nous donnez, par exemple en acceptant de
 
@@ -996,9 +996,9 @@ une information personnalisée, que ce soit sur notre Plateforme ou sur celle
 
 de tiers, ainsi que pour pouvoir prendre part à l’enrichissement des
 
-données, nous considérons que nous avons un intérêt légitime à réaliser
+données, nous considérons que nous avons un intérêt légitime à réaliser un
 
-un profilage avec l’information dont nous disposons sur vous (les sites que
+profilage avec l’information dont nous disposons sur vous (les sites que
 
 vous visitez, vos préférences ou l’historique de vos achats) et les données
 
@@ -1028,11 +1028,11 @@ votre intérêt puisque sa finalité est d’améliorer l’expérience d’util
 
 d’offrir un service de meilleure qualité.
 
-10
+11
 
 
 
-4. PENDANT COMBIEN DE TEMPS VOS DONNÉES SERONT-ELLES
+PENDANT COMBIEN DE TEMPS VOS DONNÉES SERONT-ELLES
 
 CONSERVÉES ?
 
@@ -1142,11 +1142,11 @@ suite au traitement, en exécution de la réglementation en vigueur à chaque mo
 
 suppression des données personnelles une fois que les éventuelles actions de chaque cas seront prescrites.
 
-11
+12
 
 
 
-5. VOS DONNÉES SERONT-ELLES PARTAGÉES AVEC DES TIERS ?
+VOS DONNÉES SERONT-ELLES PARTAGÉES AVEC DES TIERS ?
 
 
 
@@ -1192,9 +1192,9 @@ de vos données sera effectué avec les garanties appropriées et en assurant to
 
 données, à l’aide des outils internationaux de transfert de données les plus pratiques, par exemple les clauses
 
-contractuelles types et toutes les mesures complémentaires pertinentes, https://commission.europa.eu/law/law-
+contractuelles types et toutes les mesures complémentaires pertinentes, https://ec.europa.eu/info/law/law-
 
-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en.
+topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en.
 
 
 
@@ -1234,11 +1234,11 @@ objectifs décrits au paragraphe 2. Nous considérons que cela est nécessaire c
 
 à nos intérêts communs.
 
-12
+13
 
 
 
-6. QUELS SONT VOS DROITS QUAND VOUS NOUS FOURNISSEZ VOS
+QUELS SONT VOS DROITS QUAND VOUS NOUS FOURNISSEZ VOS
 
 DONNÉES ?
 
@@ -1270,13 +1270,13 @@ particulièrement droit à :
 
 
 
-● Nous demander l’accès aux données dont nous disposons sur vous. Nous vous rappelons que si vous
+• Nous demander l’accès aux données dont nous disposons sur vous. Nous vous rappelons que si vous
 
 êtes utilisateur inscrit de la Plateforme, cette information peut aussi être consultée dans la section
 
 correspondante à vos données personnelles.
 
-● Nous demander la rectification des données dont nous disposons déjà. Nous vous rappelons que si
+• Nous demander la rectification des données dont nous disposons déjà. Nous vous rappelons que si
 
 vous êtes utilisateur inscrit de la Plateforme, vous pouvez aussi accéder à la section correspondante à
 
@@ -1298,19 +1298,19 @@ générale vous ne devez fournir que vos propres données personnelles et non ce
 
 qui est permis dans cette Politique de confidentialité.
 
-● Nous demander de supprimer vos données dans la mesure où ils ne sont plus nécessaires pour la
+• Nous demander de supprimer vos données dans la mesure où ils ne sont plus nécessaires pour la
 
 finalité pour laquelle nous aurions pu avoir besoin de les traiter, d’après ce qui a déjà été indiqué ci-
 
 dessus, ou pour lesquels nous ne sommes plus compétents pour le faire.
 
-● Nous demander de limiter le traitement de vos données, ce qui implique que, dans certains cas, vous
+• Nous demander de limiter le traitement de vos données, ce qui implique que, dans certains cas, vous
 
 pouvez nous demander de suspendre momentanément le traitement des données ou de les conserver
 
 au-delà du temps nécessaire si vous en avez besoin.
 
-● Fournir des directives concernant la conservation, l'effacement ou la communication de vos données
+• Fournir des directives concernant la conservation, l'effacement ou la communication de vos données
 
 personnelles après votre décès.
 
@@ -1344,13 +1344,13 @@ format structuré, d’utilisation courante et lisible par une machine, afin de 
 
 autre entité, pour autant que cela soit techniquement possible.
 
+14
+
 
 
 Par ailleurs, si le traitement de vos données est fondé sur notre intérêt légitime, vous aurez aussi le droit de vous
 
 opposer au traitement de vos données.
-
-13
 
 
 
@@ -1368,7 +1368,7 @@ autorité de contrôle en matière de protection des données, en particulier :
 
 https://edpb.europa.eu/about-edpb/board/members_en
 
-7. QU’ARRIVE-T-IL SI VOUS NOUS FOURNISSEZ DES DONNÉES DE
+QU’ARRIVE-T-IL SI VOUS NOUS FOURNISSEZ DES DONNÉES DE
 
 TIERS OU SI UN TIERS NOUS FOURNIT VOS DONNÉES ?
 
@@ -1400,7 +1400,7 @@ toujours présent dans nos communications.
 
 
 
-8. CHANGEMENTS DE LA POLITIQUE DE CONFIDENTIALITÉ
+CHANGEMENTS DE LA POLITIQUE DE CONFIDENTIALITÉ
 
 
 
@@ -1422,7 +1422,7 @@ constituera toujours un repère permanent d’information dans notre site et not
 
 
 
-9. INFORMATION SUR LES COOKIES
+INFORMATION SUR LES COOKIES
 
 
 
