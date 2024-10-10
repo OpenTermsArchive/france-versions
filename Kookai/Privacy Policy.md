@@ -74,9 +74,11 @@ Nous sommes susceptibles de collecter vos Données personnelles lorsque vous uti
 
 Nous collectons uniquement les Données personnelles nécessaires pour les finalités explicites et déterminées ci-dessous :
 
-*** La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur**
+*** La gestion du fonctionnement et de l’amélioration du Site, la fourniture d’une meilleure expérience Utilisateur, l'amélioration de notre CRM**
 
 Notamment, ce Traitement nous permet de vous proposer des produits ou des services susceptibles de vous intéresser. 
+
+Vos données personnelles ne seront pas utilisées à d'autres finalités sans votre consentement, conformément à l'article 5(1)(b) du RGPD.
 
 **Base légale** 
 
@@ -110,16 +112,18 @@ Le Traitement relatif à la gestion des paiements comprend le paiement des Produ
 
 Notre obligation légale découlant des articles L102 B et suivants du Livre des procédures fiscales.
 
-*** L’envoi des actualités et offres commerciales de Kookai et/ou de nos partenaires** 
+*** L’envoi des actualités et offres commerciales de Kookai**
 
   
-Le Traitement relatif à l’envoi d’actualités et offres commerciales vise à vous adresser des offres de Kookai et/ou de nos partenaires.
+Le Traitement relatif à l’envoi d’actualités et offres commerciales vise à vous adresser des offres de Kookai. 
+
+Conformément à l'article 21 du RGPD, vous avez le droit de retirer votre consentement à tout moment afin de ne plus recevoir nos communications. 
 
 **Base légale**
 
 Notre intérêt légitime (promotion des Services de Kookai)
 
-Votre consentement à recevoir de telles offres lorsque cela est nécessaire, et notamment pour l’envoi des offres et autres informations commerciales. Lorsque vous remplissez un formulaire d’inscription, il peut vous être proposé de recevoir des offres commerciales de Kookai ou de ses partenaires. Vous devez exprimer clairement votre consentement en cochant une case qui confirme, le cas échéant, votre accord. 
+Votre consentement à recevoir de telles offres lorsque cela est nécessaire, et notamment pour l’envoi des offres et autres informations commerciales. Lorsque vous remplissez un formulaire d’inscription, il peut vous être proposé de recevoir des offres commerciales de Kookai. Vous devez exprimer clairement votre consentement en cochant une case qui confirme, le cas échéant, votre accord. Vous avez le droit de retirer votre consentement à tout moment, conformément à l'article 7(3) du RGPD.
 
 *** Gérer et répondre à vos questions et demandes de contact**
 
