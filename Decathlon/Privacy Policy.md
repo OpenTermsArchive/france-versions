@@ -836,7 +836,7 @@ Vos données de connexion seront conservées jusqu’à 12 mois à partir de leu
 Base légale
 
 L’utilisation des cookies ou d’autres traceurs, qui nous permettent de collecter vos données personnelles que nous utilisons pour la détection de transactions frauduleuses est soumise à votre consentement. Vous pouvez refuser de donner votre consentement ou revenir à tout moment sur celui-ci sur notre site.  
-La base légale du traitement des données nécessaires à la détection des transactions frauduleuses est l'intérêt légitime et impérieux de l’entreprise (Decathlon).
+La base légale du traitement des données nécessaires à la détection des transactions frauduleuses est l'intérêt légitime de l’entreprise (Decathlon).
 
 Finalités
 
