@@ -288,8 +288,6 @@
     * [Courrèges](https://www.printemps.com/fr/fr/courreges?ap_source=anico&ap_medium=navigation&ap_campaign=courreges-tendance-marque)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island?ap_source=anico&ap_medium=navigation&ap_campaign=stone-island-tendance-marque)
     * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis?ap_source=anico&ap_medium=navigation&ap_campaign=ami-paris-tendance-marque)
-* [![](https://media-cdn.printemps.com/image/75/0/6907750.jpg)](https://www.printemps.com/fr/fr/nuxe-beaute)
-    
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
