@@ -234,8 +234,8 @@
     * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=navigation&ap_campaign=pumaxcoperni-marque)
     * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain?ap_source=anico&ap_medium=navigation&ap_campaign=balmainxdisney-marque)
 * [NOUVELLES MARQUES](#)
-    * [Camper](https://www.printemps.com/fr/fr/camper?ap_source=anico&ap_medium=navigation&ap_campaign=camper-marque)
-    * [Lipault Paris](https://www.printemps.com/fr/fr/lipaultparis?ap_source=anico&ap_medium=navigation&ap_campaign=lipault-marque)
+    * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel?ap_source=anico&ap_medium=navigation&ap_campaign=darel-marque)
+    * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
     * [Manucurist](https://www.printemps.com/fr/fr/manucurist?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier?ap_source=anico&ap_medium=navigation&ap_campaign=laura-mercier-marque)
 
