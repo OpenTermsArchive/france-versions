@@ -254,11 +254,3 @@ Conditions d'Utilisation
     Nous nous réservons le droit de modifier ces conditions d'utilisation à tout moment. Toute modification prendra effet dès sa publication sur le site web. Il vous appartient de consulter ces conditions d'utilisation régulièrement pour vous informer sur les modifications.
     
     En passant une commande différée, vous reconnaissez avoir lu, compris et accepté ces conditions générales.
-    
-* [PROMOTIONS](# "Open <span style="color:#001e63;">PROMOTIONS</span>")
-    
-    **\- Review Surprise**: [En lire plus](https://www.asics.com/fr/fr-fr/terms-review-surprise/)  
-    
-    **\- Passez la ligne d’arrivée de la course EKIDEN et bénéficiez d’une réduction de 15 % sur votre achat en ligne.**
-    
-    \* Passez la ligne d’arrivée de la course EKIDEN et recevez automatiquement une réduction de 15 % par email sur votre achat en ligne sur asics.com (« l’Offre »). L’offre n’est valable qu’entre le 23 novembre 2021 et le 23 février 2022. Pour recevoir votre Offre pendant la Période de l’offre, saisissez le code-barres unique du coupon au moment de votre paiement sur asics.com. L’offre ne peut s’appliquer que sur une seule transaction de produits éligibles. L’offre ne peut être combinée à d’autres offres ou réductions en ligne sur asics.com ou dans les magasins ASICS. L’offre ne peut s’appliquer aux commandes déjà passées, aux frais d’envoi, aux taxes ou aux achats avec carte-cadeau. L’offre ne peut être transférée, vendue ni échangée. L’offre n’est valable que sur les articles en stock. ASICS Europe B.V. se réserve le droit de prolonger ou de mettre fin aux périodes d’offre sans préavis. Offre soumise aux Conditions d’utilisation applicables publiées sur https://www.asics.com/gb/en-gb/customer-service/terms/terms.html Nul là où la loi l’interdit.
