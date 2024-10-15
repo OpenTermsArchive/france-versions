@@ -166,7 +166,7 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
-*  [![](https://media-cdn.printemps.com/image/97/5/6907975.png) HACKETT](https://www.printemps.com/fr/fr/hackett-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-hackett-homme)
+*  [![](https://media-cdn.printemps.com/image/97/6/6907976.jpg) Façonnable](https://www.printemps.com/fr/fr/faconnable?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-faconnable-homme)
     
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
@@ -238,11 +238,12 @@
     * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
     * [Manucurist](https://www.printemps.com/fr/fr/manucurist?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier?ap_source=anico&ap_medium=navigation&ap_campaign=laura-mercier-marque)
-    * [Represent](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=represent)
-    * [Kleman](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=kleman)
-    * [Save the duck](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=save-the-duck)
-    * [Alohas](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
-    * [Cabaia](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=cabaia)
+    * [Represent](https://www.printemps.com/fr/fr/represent?ap_source=anico&ap_medium=navigation&ap_campaign=represent)
+    * [Kleman](https://www.printemps.com/fr/fr/kleman?ap_source=anico&ap_medium=navigation&ap_campaign=kleman)
+    * [Save the duck](https://www.printemps.com/fr/fr/save-the-duck?ap_source=anico&ap_medium=navigation&ap_campaign=save-the-duck)
+    * [Alohas](https://www.printemps.com/fr/fr/alohas?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
+    * [Cabaia](https://www.printemps.com/fr/fr/cabaia?ap_source=anico&ap_medium=navigation&ap_campaign=cabaia)
+    * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion?ap_source=anico&ap_medium=navigation&ap_campaign=dragon-diffusion)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
