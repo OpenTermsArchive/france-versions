@@ -156,11 +156,10 @@ Online purchase
 
 Loyalty program and partners
 
-* [Flying Blue](https://www.flyingblue.com/en/home?country=US)
+* [FlyingBlue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](http://www.skyteam.com/)
-* [Air France KLM World Elite Mastercard®](https://secure.bankofamerica.com/apply-now-services/credit-cards/initialize-icai?requesttype=C&campaignid=4072706&productoffercode=R4)
 
 #### About Air France
 
@@ -181,35 +180,33 @@ Air France app
 
 Fly From
 
-* [New York](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc)
-* [Los Angeles](https://wwws.airfrance.us/en-us/flights-from-los-angeles)
-* [Miami](https://wwws.airfrance.us/en-us/flights-from-miami)
-* [San Francisco](https://wwws.airfrance.us/en-us/flights-from-san-francisco)
-* [Atlanta](https://wwws.airfrance.us/en-us/flights-from-atlanta)
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight New York - Paris](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-paris)
-* [Flight San Francisco - Paris](https://wwws.airfrance.us/en-us/flights-from-san-francisco-to-paris)
-* [Flight Los Angeles - Paris](https://wwws.airfrance.us/en-us/flights-from-los-angeles-to-paris)
-* [Flight Miami - Paris](https://wwws.airfrance.us/en-us/flights-from-miami-to-paris)
-* [Flight New York - Nice](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-nice)
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [All flights](https://wwws.airfrance.us/en-us/)
-* [Flight New York - Amsterdam](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-amsterdam)
-* [Flight New York - London](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-london)
-* [Flight New York - Madrid](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-madrid)
-* [Flight New York - Barcelona](https://wwws.airfrance.us/en-us/flights-from-new-york-nyc-to-barcelona)
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
 * [Site Map](https://wwws.airfrance.fr/en/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/en/information/legal)
-* [Fees and paid options](https://wwws.airfrance.fr/en/information/legal/us-regulation)
+* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
 * Cookie settings
