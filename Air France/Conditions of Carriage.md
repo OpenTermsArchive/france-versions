@@ -137,20 +137,20 @@ Article 20 - Time limitation on claims and action
 
 Customer service
 
-* [Contact us](https://wwws.airfrance.fr/en/contact)
-* [Refund](https://wwws.airfrance.fr/en/information/legal/remboursement)
-* [Claims](https://wwws.airfrance.fr/en/information/legal/reclamation)
+* [Contact us](https://wwws.airfrance.fr/contact)
+* [Refund](https://wwws.airfrance.fr/information/legal/remboursement)
+* [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
 * [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
-* [Passengers with disabilities](https://wwws.airfrance.fr/en/contact/special-assistance)
+* [Passengers with disabilities](https://wwws.airfrance.fr/contact/special-assistance)
 
 #### Online purchase
 
 Online purchase
 
-* [Booking fees - Service fees](https://wwws.airfrance.fr/en/information/legal/frais-emission-et-service)
-* [Payment methods](https://wwws.airfrance.fr/en/information/legal/moyens-de-paiement)
+* [Booking fees - Service fees](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
+* [Payment methods](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
 * [Air France shopping](https://shopping.airfrance.com/?)
-* [Why book on the official Air France website?](https://wwws.airfrance.fr/en/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
+* [Why book on the official Air France website?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
 #### Loyalty program and partners
 
@@ -159,22 +159,22 @@ Loyalty program and partners
 * [FlyingBlue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
-* [SkyTeam](http://www.skyteam.com/)
+* [SkyTeam](https://www.skyteam.com/)
 
 #### About Air France
 
 About Air France
 
 * [Air France corporate](http://corporate.airfrance.com/)
-* [Affiliate program](https://wwws.airfrance.fr/en/information/prepare/services/affiliation)
-* [Travel destinations](https://wwws.airfrance.fr/en/travel-guide/destinations)
-* [Worldwide sites](https://wwws.airfrance.fr/en/splash)
+* [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
+* [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
+* [Worldwide sites](https://wwws.airfrance.fr/splash)
 
 #### Air France app
 
 Air France app
 
-[![](https://img.static-af.com/images/media/9D55C68A-D87B-4B21-B7F43E7B76A99E9A/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/718E33D6-4636-411F-839A07629E5B96F4/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/images/media/9FE3B888-7858-4E4D-8390C7E41A4982B7/)](https://appgallery.huawei.com/app/C104134763)
+[![](https://img.static-af.com/transform/9d55c68a-d87b-4b21-b7f4-3e7b76a99e9a/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
 
 #### Fly From
 
@@ -204,9 +204,9 @@ Fly Worldwide
 * [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
 * [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
-* [Site Map](https://wwws.airfrance.fr/en/information/site-map)
-* [Legal information](https://wwws.airfrance.fr/en/information/legal)
-* [Service address](https://wwws.airfrance.fr/en/information/legal/address-for-service)
-* [Privacy policy](https://wwws.airfrance.fr/en/information/legal/edito-psc)
-* [Accessibility statement](https://wwws.airfrance.fr/en/information/legal/accessibilite)
+* [Site Map](https://wwws.airfrance.fr/information/site-map)
+* [Legal information](https://wwws.airfrance.fr/information/legal)
+* [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
+* [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
+* [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
 * Cookie settings
