@@ -25,13 +25,6 @@
     * [Manteaux - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Manteaux?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_femme)
     * [Sweats et hoodies - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Sweats+et+hoodies?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=baskets_homme)
 
-* [REMISES](#)
-    * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
-    * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
-    * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
-* [![](https://media-cdn.printemps.com/image/24/5/7006245.gif)](https://www.printemps.com/fr/fr/jeu-jackpot?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jeu_digital)
-    
-
 * [TOP MARQUES](#)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/mrk/MARC+JACOBS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=marc_jacobs)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=poloralphlauren)
@@ -41,6 +34,13 @@
     * [Jacquemus](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/JACQUEMUS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jacquemus)
     * [Coperni](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/COPERNI?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=coperni)
     * [Maison Margiela](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/MAISON+MARGIELA?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=maisonmargiela)
+
+* [REMISES](#)
+    * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
+    * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
+    * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
+* [![](https://media-cdn.printemps.com/image/24/5/7006245.gif)](https://www.printemps.com/fr/fr/jeu-jackpot?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jeu_digital)
+    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
@@ -377,6 +377,7 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Faites vos jeux ! 250 000€ de shopping à gagner !](https://www.printemps.com/fr/fr/edito-actu-magasins-jackpot-octobre-2024?ap_source=anico&ap_medium=navigation&ap_campaign=mag-jeux-jackpot)
     * [JACKPOT ! 15 pépites à rafler en magasin](https://www.printemps.com/fr/fr/edito-magasins-jackpot-octobre-novembre-2024)
     * [Du nouveau à l'accessoire Homme](https://www.printemps.com/fr/fr/edito-magasins-accessoires-hommes-2024)
     * [Des vestes vintage d'exception au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasin-vestes-vintages-printemps-haussmann-2024)
