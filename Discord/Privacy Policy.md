@@ -195,7 +195,7 @@ We are based in the United States, and we process and store information on serve
 
 When transferring data outside the EEA, we use [standard contract clauses](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32021D0914&from=EN) (Module 1 and Module 2), and we rely on the European Commission's [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en) about certain countries, as applicable, or other legally compliant mechanisms or conditions for such data transfer.
 
-Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at [\[email protected\]](https://discord.com/cdn-cgi/l/email-protection). If we do not resolve your complaint, you may submit your complaint free of charge to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.
+Discord and its U.S. entities/subsidiaries (Backgammon Merger Sub II, LLC, Brazos Games, LLC, Discord International, Inc, Flames Sub LLC, and Sentropy Technologies Inc.) also comply with the EU-U.S. and Swiss-U.S. Data Privacy Frameworks, as well as the UK Extension to the EU-U.S. Data Privacy Framework. If you have questions or complaints regarding our compliance with the Data Privacy Framework principles, please reach out to us at privacy@discord.com. If we do not resolve your complaint, you may submit your complaint free of charge to [JAMS](https://www.jamsadr.com/eu-us-privacy-shield). Under certain conditions specified by the Data Privacy Framework principles, you may also be able to invoke binding arbitration to resolve your complaint. We are subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. In certain circumstances, we may be liable for the transfer of personal data from the EU, Switzerland, or the UK to a third party outside those countries.
 
 For more information about the Data Privacy Framework principles and to view our certification, please visit the U.S. Department of Commerce’s [Data Privacy Framework site](https://www.dataprivacyframework.gov/s/).
 
@@ -209,7 +209,7 @@ These third-party services need to follow all policies that apply to them (inclu
 Data Protection Officer
 -----------------------
 
-You can contact Discord Netherlands BV’s Data Protection Officer at [\[email protected\]](https://discord.com/cdn-cgi/l/email-protection).
+You can contact Discord Netherlands BV’s Data Protection Officer at [dpo@discord.com](mailto:dpo@discord.com).
 
 We’ve appointed VeraSafe as Discord’s representative in the United Kingdom for data protection matters, pursuant to Article 27 of the UK General Data Protection Regulation. See the section “Contact Us” below. You can contact VeraSafe only on matters related to the processing of personal data.
 
@@ -228,7 +228,7 @@ Certain local laws, such as the European Union’s General Data Protection Regul
 * Right to object to the processing of your personal data
 * Right to withdraw consent. Withdrawing consent does not affect the lawfulness of processing based on consent before withdrawal.
 
-If you have any questions about these rights or wish to exercise control over your information, please reach out to [\[email protected\]](https://discord.com/cdn-cgi/l/email-protection).
+If you have any questions about these rights or wish to exercise control over your information, please reach out to privacy@discord.com.
 
 Changes to this Privacy Policy
 ------------------------------
@@ -238,9 +238,9 @@ We will update this Privacy Policy from time to time. We always indicate the dat
 Contact us
 ----------
 
-Email us at [\[email protected\]](https://discord.com/cdn-cgi/l/email-protection) with any questions about this Privacy Policy or how we process your information. We’ll be happy to help.
+Email us at privacy@discord.com with any questions about this Privacy Policy or how we process your information. We’ll be happy to help.
 
-To contact Discord’s Data Protection Officer, please email [\[email protected\]](https://discord.com/cdn-cgi/l/email-protection).
+To contact Discord’s Data Protection Officer, please email dpo@discord.com.
 
 You can also reach us by mail if you want. If you reside in the EEA or United Kingdom, you can contact us at: 
 
