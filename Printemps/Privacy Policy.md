@@ -17,8 +17,6 @@
 * [BEAUTÉ](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_beaute)
 
-* [EN MAGASIN](https://www.printemps.com/fr/fr/operation-jackpot-au-printemps?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=landing_jackpot)
-    
 * [TOP CATÉGORIES](#)
     * [Sacs à main - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_main)
     * [Manteaux - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Manteaux?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_homme)
@@ -31,6 +29,18 @@
     * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
     * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
     * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
+* [![](https://media-cdn.printemps.com/image/24/5/7006245.gif)](https://www.printemps.com/fr/fr/jeu-jackpot?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jeu_digital)
+    
+
+* [TOP MARQUES](#)
+    * [Marc Jacobs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/mrk/MARC+JACOBS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=marc_jacobs)
+    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=poloralphlauren)
+    * [Alexander McQueen](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/ALEXANDER+MCQUEEN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=alexandermcqueen)
+    * [Saison 1865](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/SAISON+1865?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=saison1865)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/CALVIN+KLEIN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=calvinklein)
+    * [Jacquemus](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/JACQUEMUS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jacquemus)
+    * [Coperni](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/COPERNI?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=coperni)
+    * [Maison Margiela](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/MAISON+MARGIELA?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=maisonmargiela)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
@@ -367,9 +377,9 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [La terrasse de l’été : Veuve Clicquot Sun Club Printemps](https://www.printemps.com/fr/fr/edito-magasins-sun-club-veuve-clicquot-printemps-haussmann-2024)
-    * [L’atrium de l’été Havaianas](https://www.printemps.com/fr/fr/edito-magasins-atrium-haussmann-havaianas-2024)
-    * [La marque Typology arrivée en exclusivité au Printemps](https://www.printemps.com/fr/fr/edito-magasins-typology-2024)
+    * [JACKPOT ! 15 pépites à rafler en magasin](https://www.printemps.com/fr/fr/edito-magasins-jackpot-octobre-novembre-2024)
+    * [Du nouveau à l'accessoire Homme](https://www.printemps.com/fr/fr/edito-magasins-accessoires-hommes-2024)
+    * [Des vestes vintage d'exception au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasin-vestes-vintages-printemps-haussmann-2024)
     * [Le 7ème Ciel](https://www.printemps.com/fr/fr/edito-magasins-pop-up-7eciel-fevrier-2023)
 
   
