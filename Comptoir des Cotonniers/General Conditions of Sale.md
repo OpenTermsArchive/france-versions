@@ -3,6 +3,8 @@ Conditions Générales de Vente
 
 PRÉAMBULE
 
+Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwf3de962b/PAGE-SERVICE/CGV/cgv-fr.pdf)  
+  
 Les présentes conditions d’utilisation et conditions générales de vente (ci-après les « CGV ») s’appliquent exclusivement entre tout utilisateur du site de vente en ligne [www.comptoirdescotonniers.fr](https://www.comptoirdescotonniers.com/) (ci-après le « Site ») et la société Comptoir des Cotonniers, une Société par actions simplifiée au capital 24.600592.504 euros, dont le siège social est 151 rue Saint Honoré – 75001 PARIS, immatriculée au RCS Paris sous le numéro 720 802 776 (ci-après « **Comptoir des Cotonniers** » ou le « **Vendeur** »).  
   
 Les achats de produits proposés à la vente sur le Site sont réservés à des personnes physiques non commerçantes majeures et ayant la pleine capacité juridique (ci-après le « **Client** »).  
