@@ -284,7 +284,6 @@
     * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
     * [Manucurist](https://www.printemps.com/fr/fr/manucurist?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier?ap_source=anico&ap_medium=navigation&ap_campaign=laura-mercier-marque)
-    * [Represent](https://www.printemps.com/fr/fr/represent-homme?ap_source=anico&ap_medium=navigation&ap_campaign=represent)
     * [Kleman](https://www.printemps.com/fr/fr/kleman?ap_source=anico&ap_medium=navigation&ap_campaign=kleman)
     * [Save the duck](https://www.printemps.com/fr/fr/save-the-duck?ap_source=anico&ap_medium=navigation&ap_campaign=save-the-duck)
     * [Alohas](https://www.printemps.com/fr/fr/alohas?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
