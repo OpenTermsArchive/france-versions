@@ -1830,7 +1830,7 @@ Pour toute commande d’un ou plusieurs Produits Jeux Vidéos en précommande po
 4.2. Livraison offerte dès vingt-cinq euros (25 €)  
   
   
-Dans l’hypothèse où le montant de votre commande d’un ou plusieurs Produits Jeux Vidéos en précommande serait supérieur ou égal à vingt-cinq euros (25 €), les frais de livraison seront gratuits.  
+Dans l’hypothèse où le montant de votre commande d’un ou plusieurs Produits Jeux Vidéos en précommande serait sup��rieur ou égal à vingt-cinq euros (25 €), les frais de livraison seront gratuits.  
   
 Si votre commande d’un ou plusieurs Produits Jeux Vidéos en précommande contient aussi des produits immédiatement disponibles et/ou des Produits Téléphonie en précommande, la livraison de ces derniers reste soumise au paiement des frais de port correspondants détaillés dans les CGV de CDISCOUNT.  
   
