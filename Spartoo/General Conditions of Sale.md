@@ -208,31 +208,41 @@ Les délais de livraisons indiqués ont comme référence la date de commande et
 
 **Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
 Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
-Coût de la livraison si la commande est inférieure à 30 € : 3.99 €  
-Coût de la livraison si la commande est supérieure à 30 € : gratuit  
-**Livraison à domicile standard (Colissimo ou Colis Privé):**  
-Délai : 4 jours garantis  
-Coût de la livraison:  
-
-  
-  
 
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 80 € d'achats  <br>Gratuit à partir de 80 € d'achats | 4.99 € si inférieur à 40 € d'achats  <br>3.99 € entre 40 € et 60 € d'achats  <br>Gratuit à partir de 60 € d'achats |
+| 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats | 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats |
+
+  
+**Livraison à domicile standard (Colissimo ou Colis Privé):**  
+Délai : 4 jours garantis  
+Coût de la livraison:  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 4.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats | 5.9900 € si inférieur à 79.9900 € d'achats  <br>Gratuit à partir de 79.9900 € d'achats |
 
   
 
 **Livraison à domicile Express (Chronopost ou Colis Privé Express) :**  
 livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour toute commande effectuée avant 13h  
-Coût de la livraison : 7.99 €
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 7.9900 € si inférieur à 0.0000 € d'achats | 7.9900 € si inférieur à 0.0000 € d'achats |
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-Coût de la livraison :  
-\- 4.99 € si inférieur à 30€ d'achats  
-\- 3,99€ à partir de 30€ d'achats  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.9900 € si inférieur à 30.0000 € d'achats  <br>5.9900 € entre 30.0000 € et 99999.0000 € d'achats | 5.9900 € si inférieur à 30.0000 € d'achats  <br>5.9900 € entre 30.0000 € et 99999.0000 € d'achats |
+
+  
 
   
 9.2.Belgique  
@@ -240,25 +250,38 @@ Coût de la livraison :
 **Livraison à domicile BPOST :**  
 Délai : 5 jours ouvrés  
 
-|     |     |     |
-| --- | --- | --- |
-| Commandes de <40€ | Commandes de 40 € a 60 € | Commandes de >60 € |
-| Coût de la livraison 5.99 € | Coût de la livraison 3.99 € | Livraison gratuite |
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats | 5.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats |
 
   
 
 **Livraison en relais Mondial Relay**  
 Délai : 4 jours garantis pour Mondial Relay  
-Coût de la livraison si la commande est inférieur à 30 € : 3.99 €  
-Coût de la livraison si la commande est supérieur à 30 € : gratuite  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats | 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats |
+
+  
 
 **Livraison à domicile UPS STANDARD :**  
 Délai: 3 jours ouvrés  
-Coût de la livraison : 7.99 €
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats  <br>Gratuit à partir de 39.9900 € d'achats | 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats |
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
-Coût de la livraison : 15.99 €
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 11.9900 € si inférieur à 99999.0000 € d'achats | 11.9900 € si inférieur à 99999.0000 € d'achats |
 
   
 9.3.Luxembourg  
