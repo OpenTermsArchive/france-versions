@@ -378,7 +378,7 @@
     * [JACKPOT ! 15 pépites à rafler en magasin](https://www.printemps.com/fr/fr/edito-magasins-jackpot-octobre-novembre-2024)
     * [Du nouveau à l'accessoire Homme](https://www.printemps.com/fr/fr/edito-magasins-accessoires-hommes-2024)
     * [Des vestes vintage d'exception au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasin-vestes-vintages-printemps-haussmann-2024)
-    * [Le 7ème Ciel](https://www.printemps.com/fr/fr/edito-magasins-pop-up-7eciel-fevrier-2023)
+    * [En octobre, la mode prend ses quartiers d'automne au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-nouveautes-haussmann-octobre-2024)
 
   
 
