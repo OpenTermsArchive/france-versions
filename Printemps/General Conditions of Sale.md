@@ -274,9 +274,6 @@
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
 
-* [COLLABORATIONS](#)
-    * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=navigation&ap_campaign=pumaxcoperni-marque)
-    * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain?ap_source=anico&ap_medium=navigation&ap_campaign=balmainxdisney-marque)
 * [NOUVELLES MARQUES](#)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel?ap_source=anico&ap_medium=navigation&ap_campaign=darel-marque)
     * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
@@ -287,6 +284,9 @@
     * [Alohas](https://www.printemps.com/fr/fr/alohas?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
     * [Cabaia](https://www.printemps.com/fr/fr/cabaia-femme?ap_source=anico&ap_medium=navigation&ap_campaign=cabaia)
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion?ap_source=anico&ap_medium=navigation&ap_campaign=dragon-diffusion)
+* [COLLABORATIONS](#)
+    * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=navigation&ap_campaign=pumaxcoperni-marque)
+    * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain?ap_source=anico&ap_medium=navigation&ap_campaign=balmainxdisney-marque)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
@@ -331,7 +331,7 @@
 * [Toutes les marques](https://www.printemps.com/fr/fr/marques?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-marque)
     
 
-* [MARQUES TENDANCES](#)
+* [TOP MARQUES](#)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-tendance-marque)
     * [Coperni](https://www.printemps.com/fr/fr/coperni?ap_source=anico&ap_medium=navigation&ap_campaign=coperni-tendance-marque)
     * [Courrèges](https://www.printemps.com/fr/fr/courreges?ap_source=anico&ap_medium=navigation&ap_campaign=courreges-tendance-marque)
