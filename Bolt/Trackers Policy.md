@@ -23,9 +23,9 @@ Identifiant de votre consentement: 0Date de consentement:
 
   
 
-Déclaration relative aux cookies mise à jour le 07/10/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
+Déclaration relative aux cookies mise à jour le 23/10/2024 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Nécessaires (51)
+Nécessaires (54)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -43,28 +43,31 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | bugsnag-anonymous-id \[x3\] | fleets.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
 | cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | Cookie HTTP |
 | CookieConsent \[x16\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
-| deviceId \[x2\] | static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistant | Stockage local HTML |
+| csrftoken | [Instagram](https://help.instagram.com/519522125107875 "la politique de confidentialité de Instagram") | Aide à prévenir des attaques dangereuses du type Cross Site Request Forgery (CSRF) | 1 année | Cookie HTTP |
+| deviceId \[x2\] | static.bolt.eu  <br>assets.blog.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistant | Stockage local HTML |
 | fleet-visitor-id | bolt.eu | En attente | Session | Cookie HTTP |
 | JSESSIONID | [New Relic](https://newrelic.com/termsandconditions/privacy "la politique de confidentialité de New Relic") | Conserve la configuration des paramètres des utilisateurs à travers les demandes de page. | Session | Cookie HTTP |
 | li\_gc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 180 jours | Cookie HTTP |
 | mp\_#\_mixpanel \[x6\] | fleets.bolt.eu  <br>cdn.mxpnl.com  <br>bolt.eu  <br>city.bolt.eu  <br>food.bolt.eu  <br>foodpartner.bolt.eu | En attente | 1 année | Cookie HTTP |
+| rc::a | support-portal.bolt.eu | Ce cookie est utilisé pour distinguer les humains des robots. Ceci est bénéfique pour le site web afin de créer des rapports valides sur l'utilisation du leur site. | Persistant | Stockage local HTML |
+| rc::c | support-portal.bolt.eu | Ce cookie est utilisé pour distinguer les humains des robots. | Session | Stockage local HTML |
 | taxifyDriverPortal\_uuid | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 | taxifyDriverPortal\_visitorId | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 | test\_cookie | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | Utilisé pour vérifier si le navigateur de l'utilisateur accepte les cookies. | 1 jour | Cookie HTTP |
 
-Préférences (8)
+Préférences (9)
 
 Les cookies de préférences permettent à notre site web de retenir des informations qui modifient la manière dont le site se comporte ou s’affiche, comme votre langue préférée ou la région dans laquelle vous vous situez. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
     
 | Nom | Fournisseur | Finalité | Durée maximale de conservation | Type |
 | --- | --- | --- | --- | --- |
-| @@scroll# | bolt.eu | En attente | Session | Stockage local HTML |
+| @@scroll# \[x2\] | assets.blog.bolt.eu  <br>bolt.eu | En attente | Session | Stockage local HTML |
 | boltcityname | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | Cookie HTTP |
 | boltcountrycode | bolt.eu | Used internally to avoid sending duplicate requests in order to detect user's location once it's set | Session | Cookie HTTP |
 | CookieConsentBulkSetting-# \[x2\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot") | Active le consentement aux cookies sur plusieurs sites | 1 année | Stockage local HTML |
 | iso\_code | static.tildacdn.com | Le cookie détermine la langue préférée et le pays du visiteur - Cela permet au site Web d'afficher le contenu le plus pertinent pour cette région et cette langue. | Persistant | Stockage local HTML |
-| lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Enregistre quel groupe de serveurs sert le visiteur. Ceci est utilisé dans le contexte de l'équilibrage de charge afin d'optimiser l'expérience utilisateur. | 1 jour | Cookie HTTP |
+| lidc | [LinkedIn](https://www.linkedin.com/legal/privacy-policy "la politique de confidentialité de LinkedIn") | Enregistre quel groupe de serveurs sert le visiteur. Ceci est utilisé dans le contexte de l'équilibrage de charge afin d'optimiser l'expérience utilisateur. | 1 année | Cookie HTTP |
 | taxifyDriverPortal\_locale | partners.bolt.eu | En attente | Persistant | Stockage local HTML |
 
 Statistiques (28)
@@ -97,7 +100,7 @@ Les cookies statistiques nous aident à comprendre comment les visiteurs interag
 | visited | partners.food.bolt.eu | Identifiant unique de l'utilisateur permettant de le reconnaître aux visites suivantes | Session | Stockage local HTML |
 | vuid | [Vimeo](https://vimeo.com/privacy "la politique de confidentialité de Vimeo") | Recueille des données sur les visites de l'utilisateur sur le site web, telles que les pages qui ont été consultées. | 2 années | Cookie HTTP |
 
-Marketing (53)
+Marketing (54)
 
 Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à travers notre site web. Le but est d'afficher des publicités qui sont pertinentes et intéressantes pour chaque utilisateur individuel. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -131,6 +134,7 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | pagead/viewthroughconversion/699781999 | [Google](https://business.safety.google/privacy/ "la politique de confidentialité de Google") | En attente | Session | Pixel de suivi |
 | remote\_sid | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Session | Cookie HTTP |
 | requests | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | Session | Cookie HTTP |
+| RichHistory | assets.blog.bolt.eu | Collecte des données sur les préférences et le comportement des visiteurs sur le site Web - Ces informations sont utilisées pour rendre le contenu et la publicité plus pertinents pour le visiteur en question. | Session | Stockage local HTML |
 | ServiceWorkerLogsDatabase#SWHealthLog | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Nécessaire pour la mise en place et le fonctionnement du contenu vidéo de YouTube sur le site web. | Persistant | IndexedDB |
 | TESTCOOKIESENABLED | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Utilisé pour suivre l'interaction de l'utilisateur avec le contenu intégré. | 1 jour | Cookie HTTP |
 | tt\_appInfo | [TikTok](https://www.tiktok.com/legal/privacy-policy?lang=en "la politique de confidentialité de TikTok") | Utilisé par le service de réseautage social, TikTok, pour suivre l’utilisation des services intégrés. | Session | Stockage local HTML |
@@ -160,10 +164,10 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | \_\_mp\_opt\_in\_out\_16b2ba60f4d49b1f69fcf78aea1521a3 | cdn.mxpnl.com | En attente | Session | Cookie HTTP |
 | \_\_mp\_opt\_in\_out\_d34cbdea4b58a3b884e4b999930076ef | food.bolt.eu | En attente | Persistant | Stockage local HTML |
 | BoltDeliveryClient.languageLocale | food.bolt.eu | En attente | Persistant | Stockage local HTML |
+| exp\_group | bolt.eu | En attente | Session | Cookie HTTP |
 | foodlat | bolt.eu | En attente | Session | Cookie HTTP |
 | foodlng | bolt.eu | En attente | Session | Cookie HTTP |
 | FOP\_ip\_location\_data | fleets.bolt.eu | En attente | Persistant | Stockage local HTML |
-| gatsby-reload-compilation-hash-match | assets.blog.bolt.eu | En attente | Session | Stockage local HTML |
 | lo\_di \[x2\] | cdn-public.liftoffintl.io | En attente | Session | Cookie HTTP |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | 1 année | Cookie HTTP |
 | lo\_uid | cdn-public.liftoffintl.io | En attente | Persistant | Stockage local HTML |
