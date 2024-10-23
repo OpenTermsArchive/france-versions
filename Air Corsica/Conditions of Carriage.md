@@ -370,7 +370,7 @@ Le passager est informé avant la finalisation de sa réservation, du montant de
 
 **5.8. Frais d****’****annulation et de modification**
 
-* Frais de modification ou d'annulation et de remboursement
+* Frais de modification
 
 En fonction du tarif de votre billet, celui-ci peut être modifiable sous certaines conditions. En cas de modification volontaire de votre part du billet, des frais de modifications associés au tarif du billet que vous avez acheté seront facturés.
 
