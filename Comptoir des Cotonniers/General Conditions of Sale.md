@@ -3,7 +3,7 @@ Conditions Générales de Vente
 
 PRÉAMBULE
 
-Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwf3de962b/PAGE-SERVICE/CGV/cgv-fr.pdf)  
+Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw30fe629b/PAGE-SERVICE/CGV/cgv-fr.pdf)  
   
 Les présentes conditions d’utilisation et conditions générales de vente (ci-après les « CGV ») s’appliquent exclusivement entre tout utilisateur du site de vente en ligne [www.comptoirdescotonniers.fr](https://www.comptoirdescotonniers.com/) (ci-après le « Site ») et la société Comptoir des Cotonniers, une Société par actions simplifiée au capital 24.600592.504 euros, dont le siège social est 151 rue Saint Honoré – 75001 PARIS, immatriculée au RCS Paris sous le numéro 720 802 776 (ci-après « **Comptoir des Cotonniers** » ou le « **Vendeur** »).  
   
@@ -161,6 +161,8 @@ Remboursement :
   
   
 Aucun remboursement ne pourra être effectué en boutique. Une fois les produits retournés à l’entrepôt et vérifiés par Comptoir des Cotonniers, le Client sera remboursé conformément au mode de paiement choisi et après déduction du montant de l’Etiquette prépayée re-facturée si cette dernière a été utilisée. Le remboursement sera effectué dans les trente (30) jours calendaires à compter de la date de réception des Produits par Comptoir des Cotonniers.  
+  
+En cas de commande en tant qu’invité, et pour toute demande de retour, merci de contacter le service client au 01 43 12 03 33.  
   
 ****À noter : les demandes de retours sont à effectuer sur notre site et non sur l'application mobile.****  
 **8.1 Garantie satisfait ou remboursé**
