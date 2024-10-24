@@ -226,7 +226,7 @@ VERTBAUDET vous adressera ses offres commerciales par email, sms, mms si vous l'
 Par ailleurs, si vous passez une commande et n'avez pas au préalable exprimé votre souhait de ne pas recevoir de la prospection commerciale, nous pourrons utiliser votre email afin de vous adresser des offres commerciales pour des produits similaires à ceux commandés.  
 En cas d'envoi d'email de prospection VERTBAUDET, l'expéditeur VERTBAUDET sera clairement identifié et la nature de la proposition commerciale sera indiquée dans l'objet du message. En fin de chaque message, vous aurez la possibilité de vous désabonner de nos emails de prospection par simple clic.
 
-Enfin, en nous communiquant votre numéro de téléphone, vous acceptez d'être contacté pour toute nécessité relative à votre commande mais également pour des propositions commerciales par téléphone. Vous pouvez vous opposer au démarchage téléphonique des sociétés dont vous n’êtes pas client en vous inscrivant sur www.bloctel.gouv.fr.  
+Enfin, en nous communiquant votre numéro de téléphone, vous acceptez d'être contacté pour toute nécessité relative à votre commande mais également pour des propositions commerciales par téléphone ou WhatsApp. Vous pouvez vous opposer au démarchage téléphonique des sociétés dont vous n’êtes pas client en vous inscrivant sur www.bloctel.gouv.fr.  
 Dans le cadre du suivi de la qualité et de la formation de notre service clients, certains appels téléphoniques (entrants et sortants) sont susceptibles d’être écoutés et/ou enregistrés.
 
 ### 4.2. Bannières sur des sites partenaires
