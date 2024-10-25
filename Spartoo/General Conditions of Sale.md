@@ -212,7 +212,7 @@ Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Sto
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats | 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
 **Livraison à domicile standard (Colissimo ou Colis Privé):**  
@@ -222,7 +222,7 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.9900 € si inférieur à 79.9900 € d'achats  <br>Gratuit à partir de 79.9900 € d'achats | 4.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats |
+| 5.99 € si inférieur à 79.99 € d'achats  <br>Gratuit à partir de 79.99 € d'achats | 4.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
 
@@ -232,7 +232,7 @@ livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour tout
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 7.9900 € si inférieur à 0.0000 € d'achats | 7.9900 € si inférieur à 0.0000 € d'achats |
+| 7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats |
 
 **Livraison en relais Express (Chrono Relais) :**  
 livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
@@ -240,7 +240,7 @@ livraison express en relais Chronopost le lendemain pour toute commande effectu�
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.9900 € si inférieur à 30.0000 € d'achats  <br>5.9900 € entre 30.0000 € et 99999.0000 € d'achats | 5.9900 € si inférieur à 30.0000 € d'achats  <br>5.9900 € entre 30.0000 € et 99999.0000 € d'achats |
+| 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats | 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats |
 
   
 
@@ -253,7 +253,7 @@ Délai : 5 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats | 5.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats |
+| 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
 
@@ -263,7 +263,7 @@ Délai : 4 jours garantis pour Mondial Relay
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats | 3.9900 € si inférieur à 30.0000 € d'achats  <br>Gratuit à partir de 30.0000 € d'achats |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
 
@@ -273,7 +273,7 @@ Délai: 3 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats | 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats  <br>Gratuit à partir de 39.9900 € d'achats |
+| 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats | 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats  <br>Gratuit à partir de 39.99 € d'achats |
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
@@ -281,7 +281,7 @@ Délai: dépend du code postal, est indiqué sur la page de paiement, et est val
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 11.9900 € si inférieur à 99999.0000 € d'achats | 11.9900 € si inférieur à 99999.0000 € d'achats |
+| 11.99 € à partir de 0.00 € d'achats | 11.99 € à partir de 0.00 € d'achats |
 
   
 9.3.Luxembourg  
