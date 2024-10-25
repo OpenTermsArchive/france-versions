@@ -222,7 +222,7 @@ Coût de la livraison:
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 4.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats | 5.9900 € si inférieur à 79.9900 € d'achats  <br>Gratuit à partir de 79.9900 € d'achats |
+| 5.9900 € si inférieur à 79.9900 € d'achats  <br>Gratuit à partir de 79.9900 € d'achats | 4.9900 € si inférieur à 39.9900 € d'achats  <br>3.9900 € entre 39.9900 € et 59.9900 € d'achats  <br>Gratuit à partir de 59.9900 € d'achats |
 
   
 
@@ -273,7 +273,7 @@ Délai: 3 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats  <br>Gratuit à partir de 39.9900 € d'achats | 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats |
+| 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats | 5.9900 € si inférieur à 19.9900 € d'achats  <br>Gratuit à partir de 19.9900 € d'achats  <br>Gratuit à partir de 39.9900 € d'achats |
 
 **Livraison à domicile express (UPS EXPRESS) :**  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
