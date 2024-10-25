@@ -309,7 +309,7 @@ proposées à la vente sur le site www.b-z-b.com, le client est invité à s’a
 \- Par courrier :  
 BZB - Service Clients  
 152 avenue Alfred Motte  
-59100 Roubaix Cedex - Par courrier électronique : [client@b-z-b.com](mailto:client@b-z-b.com)
+59100 Roubaix Cedex \- Par courrier électronique : [client@b-z-b.com](mailto:client@b-z-b.com)
 
 ([haut de page](#haut))
 
