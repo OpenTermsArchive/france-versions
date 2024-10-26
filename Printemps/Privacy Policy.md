@@ -273,6 +273,8 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
+*  [![](https://media-cdn.printemps.com/image/90/5/7091905.png) PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfums-de-marly-vignette)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
