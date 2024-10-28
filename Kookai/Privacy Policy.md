@@ -108,6 +108,11 @@ L’exécution d’un contrat.
 
 Le Traitement relatif à la gestion des paiements comprend le paiement des Produits commandés, le suivi de la facturation, la tenue des registres comptables et des justificatifs légaux.
 
+Lorsque un client effectue un paiement sur notre site web, les informations de sa carte bancaire sont converties en un jeton unique (token).
+
+Le site www.kookai.fr ne stocke pas les données complètes des cartes bancaires.  
+C'est une mesure de sécurité essentielle pour protéger les informations sensibles des clients et pour se conformer aux normes de sécurité des données comme la PCI DSS.
+
 **Base légale**
 
 Notre obligation légale découlant des articles L102 B et suivants du Livre des procédures fiscales.
