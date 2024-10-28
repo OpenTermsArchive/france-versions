@@ -192,11 +192,11 @@
     * [Officewear](https://www.printemps.com/fr/fr/business-core-homme?ap_source=anico&ap_medium=navigation&ap_campaign=officewear-homme)
     * [Néo-Cowboy](https://www.printemps.com/fr/fr/cowboy-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cowboy-homme)
     * [L'esprit Rando](https://www.printemps.com/fr/fr/au-grand-air-homme?ap_source=anico&ap_medium=navigation&ap_campaign=rando-homme)
-* [VESTIAIRE D'AUTOMNE](https://www.printemps.com/fr/fr/indispensables-automne-hiver-homme?ap_source=anico&ap_medium=navigation&ap_campaign=automne-homme)
-    * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-automne-homme)
-    * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-automne-homme)
-    * [Bottines](https://www.printemps.com/fr/fr/bottines-homme?ap_source=anico&ap_medium=navigation&ap_campaign=bottines-automne-homme)
-    * [Sacs](https://www.printemps.com/fr/fr/tous-les-sacs-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-automne-homme)
+* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
+    * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
+    * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-hiver-homme)
+    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme?ap_source=anico&ap_medium=navigation&ap_campaign=pantalons-hiver-homme)
+    * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
 
