@@ -109,10 +109,10 @@
     
 * [TENDANCES](#)
     * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
-    * [Cabas XXL](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
-    * [Instinct animal](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
-    * [Comme au chalet](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-    * [Camouflez-vous !](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-femme&ap_campaign=camouflez_vous)
+    * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
+    * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
+    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
+    * [Camouflez-vous !](https://www.printemps.com/fr/fr/kaki-canon?ap_source=anico&ap_medium=nav-femme&ap_campaign=camouflez_vous)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
@@ -187,9 +187,9 @@
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Tendances d'automne](https://www.printemps.com/fr/fr/edito-style-tendances-automne-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-automne)
-    * [Comme au chalet](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
+    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
     * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
-    * [College boy](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
+    * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
     * [L'esprit Rando](https://www.printemps.com/fr/fr/au-grand-air-homme?ap_source=anico&ap_medium=navigation&ap_campaign=rando-homme)
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
     * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
