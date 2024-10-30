@@ -108,12 +108,11 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
-    * [Tendances d'automne](https://www.printemps.com/fr/fr/edito-style-tendances-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-tendances-automne)
-    * [Puma x Coperni](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=nav-femme&ap_campaign=puma_coperni)
-    * [Officewear](https://www.printemps.com/fr/fr/business-core-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=officewear)
-    * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaud_marron)
-    * [Le clou du spectacle](https://www.printemps.com/fr/fr/clous?ap_source=anico&ap_medium=nav-femme&ap_campaign=clou_spectacle)
-    * [Ballerina era](https://www.printemps.com/fr/fr/babies-mary-jane?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerina)
+    * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
+    * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
+    * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
+    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
+    * [Camouflez-vous !](https://www.printemps.com/fr/fr/kaki-canon?ap_source=anico&ap_medium=nav-femme&ap_campaign=camouflez_vous)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
@@ -188,9 +187,9 @@
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Tendances d'automne](https://www.printemps.com/fr/fr/edito-style-tendances-automne-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-automne)
+    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
     * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
-    * [Officewear](https://www.printemps.com/fr/fr/business-core-homme?ap_source=anico&ap_medium=navigation&ap_campaign=officewear-homme)
-    * [Néo-Cowboy](https://www.printemps.com/fr/fr/cowboy-homme?ap_source=anico&ap_medium=navigation&ap_campaign=cowboy-homme)
+    * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
     * [L'esprit Rando](https://www.printemps.com/fr/fr/au-grand-air-homme?ap_source=anico&ap_medium=navigation&ap_campaign=rando-homme)
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
     * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
