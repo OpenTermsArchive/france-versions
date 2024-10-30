@@ -1,7 +1,7 @@
 General conditions of carriage
 ==============================
 
-When you book a flight with Air France, you agree to our General Conditions of Carriage for both passengers and baggage items. Please make sure to review these conditions carefully.  The General Conditions of Carriage should always be reviewed in combination with the Special Conditions of your country or region.  [Visit the Special Conditions page](https://wwws.airfrance.fr/en/information/legal/edito-conditions-particulieres) This version was updated on September 19, 2024. 
+When you book a flight with Air France, you agree to our General Conditions of Carriage for both passengers and baggage items. Please make sure to review these conditions carefully.  The General Conditions of Carriage should always be reviewed in combination with the Special Conditions of your country or region. [Visit the Special Conditions page](https://wwws.airfrance.fr/en/information/legal/edito-conditions-particulieres) This version was updated on September 19, 2024. 
 
 Open all
 
