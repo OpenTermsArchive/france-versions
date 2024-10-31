@@ -126,7 +126,7 @@
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=saison_1865)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
-*  [![](https://media-cdn.printemps.com/image/36/6/7060366.jpg) COACH](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_coach)
+*  [![](https://media-cdn.printemps.com/image/06/1/7114061.jpg) COACH](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_coach)
     
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
