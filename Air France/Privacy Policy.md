@@ -82,7 +82,7 @@ Cette version est applicable à partir du 15 mai 2021. Elle remplace la version
 Service client
 
 * [Nous contacter](https://wwws.airfrance.fr/contact)
-* [Remboursement](https://wwws.airfrance.fr/information/legal/remboursement)
+* [Remboursement](https://wwws.airfrance.fr/contact/refund-compensation/refund)
 * [Réclamations](https://wwws.airfrance.fr/information/legal/reclamation)
 * [Demander une facture](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
 * [Passagers en situation de handicap](https://wwws.airfrance.fr/contact/special-assistance)
