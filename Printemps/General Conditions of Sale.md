@@ -111,19 +111,19 @@
     * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
-    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-    * [Camouflez-vous !](https://www.printemps.com/fr/fr/kaki-canon?ap_source=anico&ap_medium=nav-femme&ap_campaign=camouflez_vous)
+    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
+    * [Ballerina era](https://www.printemps.com/fr/fr/babies-mary-jane?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerina_era)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
 * [TOP MARQUES](#)
     * [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_marques)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=saison_1865)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=marc_jacobs)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jacquemus)
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jerome_dreyfuss)
     * [Coach](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=coach)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=saison_1865)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
 *  [![](https://media-cdn.printemps.com/image/06/1/7114061.jpg) COACH](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_coach)
@@ -201,6 +201,7 @@
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-homme)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme?ap_source=anico&ap_medium=navigation&ap_campaign=ralph-lauren-homme)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme?ap_source=anico&ap_medium=navigation&ap_campaign=stone-island-homme)
     * [Prada](https://www.printemps.com/fr/fr/prada-homme?ap_source=anico&ap_medium=navigation&ap_campaign=prada-homme)
@@ -210,7 +211,6 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-homme)
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
@@ -333,6 +333,7 @@
     * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain?ap_source=anico&ap_medium=navigation&ap_campaign=balmainxdisney-marque)
 
 * [TOP MARQUES](#)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-marque)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-tendance-marque)
     * [Coperni](https://www.printemps.com/fr/fr/coperni?ap_source=anico&ap_medium=navigation&ap_campaign=coperni-tendance-marque)
     * [Courrèges](https://www.printemps.com/fr/fr/courreges?ap_source=anico&ap_medium=navigation&ap_campaign=courreges-tendance-marque)
