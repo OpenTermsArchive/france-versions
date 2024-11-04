@@ -91,67 +91,84 @@ Article 20 - Délais de protestation et d'action en responsabilité
 
 [Télécharger les Conditions Générales de Transport](https://img.static-af.com/m/4cf21c57be24d92e/original/Conditions-of-Carriage-FR.pdf)
 
-#### Customer service
+#### Service client
 
-Customer service
+Service client
 
-* [Contact us](https://wwws.airfrance.fr/contact)
-* [Refund](https://wwws.airfrance.fr/contact/refund-compensation/refund)
-* [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
-* [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
-* [Passengers with disabilities](https://wwws.airfrance.fr/contact/special-assistance)
+* [Nous contacter](https://wwws.airfrance.fr/contact)
+* [Remboursement](https://wwws.airfrance.fr/contact/refund-compensation/refund)
+* [Réclamations](https://wwws.airfrance.fr/information/legal/reclamation)
+* [Demander une facture](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
+* [Passagers en situation de handicap](https://wwws.airfrance.fr/contact/special-assistance)
 
-#### Online purchase
+#### Achat en ligne
 
-Online purchase
+Achat en ligne
 
-* [Booking fees - Service fees](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
-* [Payment methods](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
-* [Air France shopping](https://shopping.airfrance.com/?)
-* [Why book on the official Air France website?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
+* [Frais d'émission - Frais de service](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
+* [Moyens de paiement](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
+* [Air France Shopping](https://shopping.airfrance.com/?)
+* [Pourquoi réserver sur le site officiel Air France ?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
-#### Loyalty program and partners
+#### Programme de fidélité et partenaires
 
-Loyalty program and partners
+Programme de fidélité et partenaires
 
-* [FlyingBlue](https://www.flyingblue.com/index.html)
+* [Flying Blue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/)
 * [AIR FRANCE KLM – AMERICAN EXPRESS cards](https://wwws.airfrance.fr/information/amex-afkl-perso-pro)
 
-#### About Air France
+#### À propos d'Air France
 
-About Air France
+À propos d'Air France
 
 * [Air France corporate](http://corporate.airfrance.com/)
-* [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
-* [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
-* [Worldwide sites](https://wwws.airfrance.fr/splash)
+* [Affiliation](https://wwws.airfrance.fr/information/prepare/services/affiliation)
+* [Destination-voyage](https://wwws.airfrance.fr/travel-guide/destinations)
+* [Tous les sites airfrance.com](https://wwws.airfrance.fr/splash)
 
-#### Air France app
+#### Application Mobile Air France
 
-Air France app
+Application Mobile Air France
 
-[![](https://img.static-af.com/transform/9d55c68a-d87b-4b21-b7f4-3e7b76a99e9a/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
+[![](https://img.static-af.com/transform/50622200-65cc-452b-a0e6-17090a302c64/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
 
-#### Fly From
+#### Vols au départ de
 
-Fly From
+Vols au départ de
 
-* [Paris](https://www.airfrance.fr/flights/departure-paris)
-* [Toulouse](https://www.airfrance.fr/flights/departure-toulouse)
+* [Paris](https://wwws.airfrance.fr/fr-fr/vols-de-paris)
+* [Nice](https://wwws.airfrance.fr/fr-fr/vols-de-nice)
+* [Marseille](https://wwws.airfrance.fr/fr-fr/vols-de-marseille)
+* [Toulouse](https://wwws.airfrance.fr/fr-fr/vols-de-toulouse)
+* [Lyon](https://wwws.airfrance.fr/fr-fr/vols-de-lyon)
 
-#### Fly Worldwide
+#### Vols en France
 
-Fly Worldwide
+Vols en France
 
-* [Flight Toulouse - Los Angeles](https://www.airfrance.fr/flights/toulouse+los-angeles)
-* [Flight Toulouse - Cancun](https://www.airfrance.fr/flights/toulouse+cancun)
-* [Flight Paris - Los Angeles](https://www.airfrance.fr/flights/paris+los-angeles)
+* [Vol Paris - Nice](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-nice)
+* [Vol Paris - Marseille](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-marseille)
+* [Vol Paris - Toulouse](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-toulouse)
+* [Vol Paris - Montpellier](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-montpellier)
 
-* [Site Map](https://wwws.airfrance.fr/information/site-map)
-* [Legal information](https://wwws.airfrance.fr/information/legal)
-* [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
-* [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
+#### Voyager dans le Monde
+
+Voyager dans le Monde
+
+* [Tous nos vols](https://wwws.airfrance.fr/fr-fr/)
+* [Vol Paris - New York](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-new-york)
+* [Vol Paris - Los Angeles](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-los-angeles)
+* [Vol Paris - San Francisco](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-san-francisco)
+* [Vol Paris - Pointe à Pitre](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-pointe-pitre)
+* [Vol Paris - Fort de France](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-fort-de-france)
+* [Vol Paris - Montréal](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-montreal)
+* [Vol Paris - Saint-Denis](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-saint-denis)
+
+* [Plan du site](https://wwws.airfrance.fr/information/site-map)
+* [Informations légales](https://wwws.airfrance.fr/information/legal)
+* [Politique de confidentialité](https://wwws.airfrance.fr/information/legal/edito-psc)
+* [Déclaration d'accessibilité](https://wwws.airfrance.fr/information/legal/accessibilite)
 * Gestion des cookies
