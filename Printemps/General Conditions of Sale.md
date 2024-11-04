@@ -39,8 +39,6 @@
     * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
     * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
     * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
-* [![](https://media-cdn.printemps.com/image/24/5/7006245.gif)](https://www.printemps.com/fr/fr/jeu-jackpot?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jeu_digital)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
@@ -126,8 +124,6 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
-*  [![](https://media-cdn.printemps.com/image/06/1/7114061.jpg) COACH](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_coach)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
