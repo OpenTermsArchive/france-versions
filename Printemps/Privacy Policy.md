@@ -167,7 +167,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
-*  [![](https://media-cdn.printemps.com/image/44/1/7127441.jpg) DELSEY](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-delsey-homme)
+*  [![](https://media-cdn.printemps.com/image/44/1/7127441.jpg) DELSEY](https://www.printemps.com/fr/fr/delsey-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-delsey-homme)
     
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
@@ -334,8 +334,6 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Faites vos jeux ! 250 000€ de shopping à gagner !](https://www.printemps.com/fr/fr/edito-actu-magasins-jackpot-octobre-2024?ap_source=anico&ap_medium=navigation&ap_campaign=mag-jeux-jackpot)
-    * [JACKPOT ! 15 pépites à rafler en magasin](https://www.printemps.com/fr/fr/edito-magasins-jackpot-octobre-novembre-2024)
     * [Du nouveau à l'accessoire Homme](https://www.printemps.com/fr/fr/edito-magasins-accessoires-hommes-2024)
     * [Des vestes vintage d'exception au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasin-vestes-vintages-printemps-haussmann-2024)
     * [En octobre, la mode prend ses quartiers d'automne au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-nouveautes-haussmann-octobre-2024)
