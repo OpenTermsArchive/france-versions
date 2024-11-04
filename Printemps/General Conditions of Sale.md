@@ -1,45 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_femme)
-    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_femme)
-    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=chaussures_femme)
-    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=vetements_femme)
-    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=accessoires_femme)
-
-* [HOMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=vetements_homme)
-    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Chaussures?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=chaussures_homme)
-    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Sacs?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=sacs_homme)
-    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=accessoires_homme)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_beaute)
-
-* [TOP CATÉGORIES](#)
-    * [Sacs à main - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_main)
-    * [Manteaux - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Manteaux?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_homme)
-    * [Bottes et bottines - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Bottines/Bottes?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=bottines_femme)
-    * [Baskets - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=baskets_homme)
-    * [Manteaux - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Manteaux?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_femme)
-    * [Sweats et hoodies - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Sweats+et+hoodies?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=baskets_homme)
-
-* [TOP MARQUES](#)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/mrk/MARC+JACOBS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=marc_jacobs)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=poloralphlauren)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/ALEXANDER+MCQUEEN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=alexandermcqueen)
-    * [Saison 1865](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/SAISON+1865?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=saison1865)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/CALVIN+KLEIN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=calvinklein)
-    * [Jacquemus](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/JACQUEMUS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jacquemus)
-    * [Coperni](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/COPERNI?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=coperni)
-    * [Maison Margiela](https://www.printemps.com/fr/fr/jackpot-au-printemps/mrk/MAISON+MARGIELA?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=maisonmargiela)
-
-* [REMISES](#)
-    * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
-    * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
-    * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
-
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -182,7 +142,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
-    * [Tendances d'automne](https://www.printemps.com/fr/fr/edito-style-tendances-automne-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-automne)
+    * [Les tendances mode de l'hiver](https://www.printemps.com/fr/fr/edito-style-tendances-hiver-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-hiver)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
     * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
@@ -207,6 +167,8 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
+*  [![](https://media-cdn.printemps.com/image/44/1/7127441.jpg) DELSEY](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-delsey-homme)
+    
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
