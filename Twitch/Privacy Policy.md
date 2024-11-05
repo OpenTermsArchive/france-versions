@@ -1,9 +1,9 @@
-Dernière modification le 30/06/2023
+Dernière modification le 01/11/2024
 
-**Twitch.tv Privacy Notice**
-============================
+**Twitch Politique de Confidentialité**
+=======================================
 
-Dernière mise à jour : 30 juin 2023. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
+Dernière mise à jour : 01 novembre 2024. Pour voir les versions antérieures, [cliquez ici](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
 Twitch Interactive Inc. et ses sociétés affiliées sont des filiales d'Amazon.com, Inc. (« Amazon »).
 
@@ -82,7 +82,7 @@ Twitch se réserve également le droit de divulguer des informations que nous es
 Droits des personnes concernées et vos choix
 --------------------------------------------
 
-La page des Choix de confidentialité de Twitch décrit vos options en ce qui concerne les services de Twitch, y compris des informations sur les façons dont vous pouvez consulter, modifier ou supprimer des informations que Twitch peut avoir sur vous. Vous pouvez refuser de partager certaines informations avec Twitch, auquel cas Twitch peut ne pas être en mesure de vous fournir certaines fonctions et fonctionnalités des Services Twitch. Si vous avez créé un compte de services Twitch, en fonction du service, vous pouvez mettre à jour les informations et préférences de votre profil ou désactiver votre compte en vous connectant et en accédant à la page des paramètres : www.twitch.tv.
+La page des Droits et contrôles de confidentialité de Twitch décrit vos options en ce qui concerne les services de Twitch, y compris des informations sur les façons dont vous pouvez consulter, modifier ou supprimer des informations que Twitch peut avoir sur vous. Vous pouvez refuser de partager certaines informations avec Twitch, auquel cas Twitch peut ne pas être en mesure de vous fournir certaines fonctions et fonctionnalités des Services Twitch. Si vous avez créé un compte de services Twitch, en fonction du service, vous pouvez mettre à jour les informations et préférences de votre profil ou désactiver votre compte en vous connectant et en accédant à la page des paramètres : www.twitch.tv.
 
 Pour toute autre demande de révision, de mise à jour, de suppression ou de limitation de l'utilisation par Twitch des informations que vous avez transmises directement à Twitch, contactez-nous [ici](https://help.twitch.tv/s/contactsupport) dans la catégorie « Questions de confidentialité ». Pour protéger votre vie privée et votre sécurité, nous pouvons prendre des mesures afin de vérifier votre identité avant de vous accorder l'accès ou d'apporter des corrections à vos informations. Vous êtes responsable du maintien de la confidentialité de votre mot de passe unique et des informations relatives à votre compte en tout temps.
 
@@ -126,7 +126,7 @@ Twitch peut utiliser des services d'analyse Web tiers en relation avec les Servi
 
 Twitch peut également travailler avec des réseaux publicitaires tiers, des annonceurs et des fournisseurs d'analyses publicitaires pour proposer (et mesurer les performances) des publicités ciblées en fonction de vos intérêts, à la fois sur et en dehors des Services Twitch. Nous pouvons partager avec ces tiers (ou ils peuvent directement collecter) des données telles que les identifiants de cookies et de publicités mobiles afin de s'engager dans une activité publicitaire (notamment pour comprendre la manière dont vous répondez aux publicités et pour diffuser des publicités pertinentes). Twitch travaille également avec des tiers pour vous diffuser des publicités en dehors des Services Twitch. Lorsque nous le faisons, nous pouvons partager des informations telles que votre adresse e-mail ou l'identifiant d'appareil réinitialisable pour que ce partenaire publicitaire puisse les « faire correspondre » aux autres informations qu'il pourrait avoir sur vous.
 
-Les annonceurs sur Twitch, ou les représentants ou les fournisseurs de service travaillant pour leur compte (« Annonceurs Twitch »), utilisent parfois la technologie pour diffuser des publicités qui s'affichent sur nos services directement sur votre Lorsque cela se produit, ils reçoivent automatiquement certaines données, telles que votre adresse IP. Ils peuvent également utiliser des cookies (ou technologies similaires) pour mesurer l'efficacité de leurs publicités et personnaliser le contenu publicitaire. La présente Notice sur la protection de vos informations personnelles ne s'applique pas aux Annonceurs Twitch, et nous ne pouvons pas contrôler les technologies de suivi et les activités de ces derniers ; vous devez consulter leurs politiques de confidentialité respectives. Pour plus d'informations sur les Annonceurs Twitch et les entités similaires utilisant ces technologies, et pour vous désinscrire de leurs pratiques publicitaires, consultez la page [Choix de confidentialité](https://www.twitch.tv/p/legal/privacy-choices/).
+Les annonceurs sur Twitch, ou les représentants ou les fournisseurs de service travaillant pour leur compte (« Annonceurs Twitch »), utilisent parfois la technologie pour diffuser des publicités qui s'affichent sur nos services directement sur votre Lorsque cela se produit, ils reçoivent automatiquement certaines données, telles que votre adresse IP. Ils peuvent également utiliser des cookies (ou technologies similaires) pour mesurer l'efficacité de leurs publicités et personnaliser le contenu publicitaire. La présente Notice sur la protection de vos informations personnelles ne s'applique pas aux Annonceurs Twitch, et nous ne pouvons pas contrôler les technologies de suivi et les activités de ces derniers ; vous devez consulter leurs politiques de confidentialité respectives. Pour plus d'informations sur les Annonceurs Twitch et les entités similaires utilisant ces technologies, et pour vous désinscrire de leurs pratiques publicitaires, consultez la page [Droits et contrôles de confidentialité](https://www.twitch.tv/p/legal/privacy-choices/).
 
 Ne pas suivre
 -------------
