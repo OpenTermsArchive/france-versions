@@ -68,6 +68,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
+    * [Tendance Y2K](https://www.printemps.com/fr/fr/edito-style-tendance-y2k-2000?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-y2k)
     * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
@@ -86,6 +87,8 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
+*  [![](https://media-cdn.printemps.com/image/99/2/7132992.jpg) GUESS](https://www.printemps.com/fr/fr/guess-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_guess)
+    
 
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestiaire-hiver-homme)
     
