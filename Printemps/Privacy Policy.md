@@ -1,5 +1,20 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
+* [NOS IDÉES CADEAUX](#)
+    * [Toutes les idées cadeaux](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_viewall)
+    * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
+    * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_lui)
+    * [Mixte](https://www.printemps.com/fr/fr/idees-cadeaux-noel-mixte?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_mixte)
+    * [Moins de 50€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/50?ap_source=anico&ap_medium=nav-noel&ap_campaign=moins_50)
+    * [Entre 50 et 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/50/100?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_50_et_100)
+    * [Entre 100 et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/300?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_100_et_300)
+    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/10000?ap_source=anico&ap_medium=nav-noel&ap_campaign=plus_300)
+* [La carte cadeau](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
+    
+
+* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
+    
+
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vesitaire-hiver-femme)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
@@ -309,6 +324,11 @@
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs?ap_source=anico&ap_medium=navigation&ap_campaign=marc-jacobs)
     * [Prada](https://www.printemps.com/fr/fr/prada?ap_source=anico&ap_medium=navigation&ap_campaign=prada)
     * [Acne Studios](https://www.printemps.com/fr/fr/acne-studios?ap_source=anico&ap_medium=navigation&ap_campaign=acne)
+
+* [NOËL](#)
+    * [Printemps Express : toute l'actualité de Noël](https://www.printemps.com/fr/fr/edito-magasin-printemps-express-noel-2024)
+    * [Le grand jeu de Noël : gagnez un voyage d'exception](https://www.printemps.com/fr/fr/edito-magasins-noel-continents-insolites-jeu-concours-2024)
+    * [Réservez votre atelier](https://evenements.printemps.com/)
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
