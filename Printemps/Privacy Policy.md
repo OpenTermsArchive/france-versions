@@ -5,9 +5,7 @@
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
     * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_lui)
     * [Mixte](https://www.printemps.com/fr/fr/idees-cadeaux-noel-mixte?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_mixte)
-* [La carte cadeau](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
-    
-* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
+* [LA CARTE CADEAU](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
     
 
 * [POUR ELLE](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
@@ -39,6 +37,8 @@
     * [Entre 50 et 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/50/100?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_50_et_100)
     * [Entre 100 et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/300?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_100_et_300)
     * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/10000?ap_source=anico&ap_medium=nav-noel&ap_campaign=plus_300)
+* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
+    
 
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vesitaire-hiver-femme)
     
