@@ -5,15 +5,40 @@
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
     * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_lui)
     * [Mixte](https://www.printemps.com/fr/fr/idees-cadeaux-noel-mixte?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_mixte)
+* [La carte cadeau](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
+    
+* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
+    
+
+* [POUR ELLE](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
+    * [Maroquinerie](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Sacs?ap_source=anico&ap_medium=nav-noel&ap_campaign=maroquinerie_elle)
+    * [Maille](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/cat0/Mailles+et+pulls?ap_source=anico&ap_medium=nav-noel&ap_campaign=maille_elle)
+    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Chaussures?ap_source=anico&ap_medium=nav-noel&ap_campaign=chaussures_elle)
+    * [Bijoux](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/cat0/Bijoux?ap_source=anico&ap_medium=nav-noel&ap_campaign=bijoux_elle)
+    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Parfum?ap_source=anico&ap_medium=nav-noel&ap_campaign=parfums_elle)
+    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Accessoires?ap_source=anico&ap_medium=nav-noel&ap_campaign=access_elle)
+
+* [POUR LUI](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=cadeaux_lui)
+    * [Maille](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Sacs?ap_source=anico&ap_medium=nav-noel&ap_campaign=maroquinerie_lui)
+    * [Baskets](https://www.printemps.com/cat0/Baskets?ap_source=anico&ap_medium=nav-noel&ap_campaign=baskets_lui)
+    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Chaussures?ap_source=anico&ap_medium=nav-noel&ap_campaign=chaussures_lui)
+    * [Chemises](https://www.printemps.com/cat0/Chemises?ap_source=anico&ap_medium=nav-noel&ap_campaign=chemises_lui)
+    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Parfum?ap_source=anico&ap_medium=nav-noel&ap_campaign=parfums_lui)
+    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Accessoires?ap_source=anico&ap_medium=nav-noel&ap_campaign=access_lui)
+
+* [INTÉRIEUR](https://www.printemps.com/fr/fr/tout-le-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=interieur)
+    * [Voir tout](https://www.printemps.com/fr/fr/tout-le-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=interieur_viewall)
+    * [Bougies](https://www.printemps.com/fr/fr/bougies-lifestyle-beaute?ap_source=anico&ap_medium=nav-noel&ap_campaign=bougiesl)
+    * [Maison](https://www.printemps.com/fr/fr/maison-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=maison)
+    * [Animaux](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=nav-noel&ap_campaign=animaux)
+    * [Loisirs](https://www.printemps.com/fr/fr/loisirs-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=loisirs)
+    * [High Tech](https://www.printemps.com/fr/fr/high-tech-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=high_tech)
+
+* [PAR PRIX](#)
     * [Moins de 50€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/50?ap_source=anico&ap_medium=nav-noel&ap_campaign=moins_50)
     * [Entre 50 et 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/50/100?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_50_et_100)
     * [Entre 100 et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/300?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_100_et_300)
     * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/10000?ap_source=anico&ap_medium=nav-noel&ap_campaign=plus_300)
-* [La carte cadeau](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
-    
-
-* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
-    
 
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vesitaire-hiver-femme)
     
