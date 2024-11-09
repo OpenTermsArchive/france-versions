@@ -3,7 +3,7 @@ Politique de confidentialité
 
 Bienvenue sur la politique de confidentialité de Trainline. Quand vous utilisez nos services, vous nous confiez certaines de vos informations. Cette politique de confidentialité a pour objectif de vous informer sur la façon dont nous traitons vos données personnelles quand vous utilisez nos services. Nous savons qu'il s'agit d'une grande responsabilité, et nous faisons le maximum pour protéger vos données personnelles.
 
-Prise d'effet le 25 juin 2025 / Version 1.2
+En vigueur le 7 novembre 2022 / Version 1.12
 
 **Lire aussi**
 
@@ -92,17 +92,7 @@ Vos données personnelles peuvent être utilisées de l'une des façons suivante
 
 **Service client :** si vous nous appelez ou si nous vous appelons, nous traiterons vos données pour permettre à notre service client et nos équipes opérationnelles de résoudre les éventuels problèmes dont vous nous faites part, ou à des fins d'assurance qualité. Veuillez noter que tous les appels sont enregistrés pour garantir un service de qualité et à des fins de formation.
 
-**Base juridique du traitement :** Trainline se fonde sur votre consentement lorsque vous nous contactez afin de fournir les services pour lesquels vous nous avez sollicités ; ainsi que sur nos intérêts légitimes quand nous utilisons des données agrégées afin d'améliorer nos services.
-
-**Assistant de voyage IA**
-
-Grâce à notre assistant de voyage IA, nous tirons parti de l'IA pour améliorer votre expérience client et répondre à vos questions en après-vente. L'assistant de voyage IA peut répondre à vos questions concernant votre voyage ou votre train, y compris les remboursements et les informations de réservation.
-
-Nous veillons à ce que notre assistant de voyage IA respecte les principes de protection des données tels que la minimisation des données, la limitation de la finalité, l'exactitude et la transparence. Nous n'utilisons pas vos données personnelles pour l'entraînement et l'évaluation des outils. Nos systèmes garantissent que vos informations sont anonymisées avant d'être utilisées à ces fins.
-
-Lorsque vous fournissez vos données personnelles à notre assistant de voyage IA, ces données peuvent être utilisées pour répondre à votre demande (par exemple pour retrouver les détails de votre billet). Vous ne devez communiquer que le minimum de données personnelles nécessaires à votre demande. En tout état de cause, nous vous garantissons que vos données personnelles seront traitées en toute sécurité dans le cadre de ces interactions.
-
-<p style="color: #00a88f;"><strong>Base juridique du traitement :</strong> Trainline s'appuie sur votre consentement lorsque vous interagissez avec l'assistant de voyage IA pour fournir les services que vous demandez.
+**Base juridique du traitement:** Trainline se fonde sur votre consentement lorsque vous nous contactez afin de fournir les services pour lesquels vous nous avez sollicités ; ainsi que sur nos intérêts légitimes quand nous utilisons des données agrégées afin d'améliorer nos services.
 
 **Pour vous envoyer des informations marketing pertinentes:**
 
@@ -163,12 +153,12 @@ Nous pouvons recueillir des données personnelles (notamment votre nom, adresse 
 * Nous collecterons et partagerons ces informations dans le but de : confirmer votre identité ; gérer le billet et résoudre les problèmes liés au Season Ticket ; prévenir la fraude ; et fournir des informations pertinentes sur votre voyage.
 * Nous collecterons et partagerons également ces informations afin de faire respecter les termes du contrat d'abonnement qui vous lie au transporteur ferroviaire britannique concerné.
 
-**Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat avec Trainline et dans l'intérêt légitime des transporteurs ferroviaires britanniques concernés.
+**Base juridique du traitement:** le traitement est nécessaire à l'exécution d'un contrat avec Trainline et dans l'intérêt légitime des transporteurs ferroviaires britanniques concernés.
 
 * Si Trainline cessait de vendre des Saison Tickets, les données personnelles (telles qu'énumérées ci-dessus) concernant les clients dont les Season Tickets seraient toujours en cours de validité pourront être transmises aux transporteurs ferroviaires britanniques concernés (via ATOC et RSP).
 * Les transporteurs ferroviaires britanniques concernés pourront utiliser ces informations pour fournir des services d'après-vente, tels que l'émission d'un remboursement, d'un double ou d'un billet de remplacement.
 
-**Base juridique du traitement :** intérêts légitimes de Trainline et des transporteurs ferroviaires britanniques concernés.
+**Base juridique du traitement:** intérêts légitimes de Trainline et des transporteurs ferroviaires britanniques concernés.
 
 ### Données dans le cadre d’études de marché
 
@@ -182,28 +172,20 @@ Si vous préférez ne pas recevoir d'invitation à participer à des études de 
 
 Nous souhaitons avoir votre avis dans le cadre de nos études de marché afin de pouvoir continuer à améliorer nos produits et nos services. Nous utilisons la plus petite quantité de données personnelles possible pour mener ces enquêtes.
 
-### Données de localisation
-
-Si vous autorisez le partage de vos données de localisation GPS sur votre appareil, nous pouvons collecter et utiliser votre localisation pour personnaliser le contenu et les trajets afin qu'ils soient pertinents pour vous. Les données de localisation sont utilisées pour améliorer votre expérience de voyage et vous aider à vous rendre d'un point A à un point B.  
-
-Si les données de localisation ne sont pas activées, il est possible que certaines fonctionnalités ne soient pas disponibles ou qu'elles aient une précision limitée.
-
-<p style="color: #00a88f;"><strong>Base juridique du traitement :</strong> le traitement s'effectue sur la base du consentement que vous donnez lors de votre première interaction avec une application ou par le biais des autorisations de votre appareil.
-
 Les données personnelles que nous collectons automatiquement
 ------------------------------------------------------------
 
 Chaque fois que vous utilisez notre site Internet ou notre application, nous collectons certaines informations de façon automatique en utilisant des cookies et les informations de votre appareil.
 
-### Informations de votre appareil
+### Votre emplacement géographique et les informations de votre appareil
 
-Nous utilisons également le numéro et l'adresse IP de votre appareil pour vous fournir du contenu le plus rapidement possible en vous connectant au serveur le plus proche de chez vous, par exemple par le biais de la répartition de charge et du réseau de diffusion de contenu.
+Nous utilisons vos données de localisation, le numéro de votre appareil et votre adresse IP pour vous aider à préparer vos voyages, en vous indiquant des informations telles que la gare la plus proche et l'heure du prochain train pour votre destination.
 
-Nous pouvons également utiliser votre adresse IP pour estimer votre position approximative afin de personnaliser votre expérience et de vous présenter du contenu pertinent.
+Nous utilisons aussi ces données pour vous afficher le contenu demandé aussi rapidement que possible en vous connectant au serveur le plus proche de votre position (répartition de charge ou réseau de diffusion de contenu, par exemple).
 
-Ces données contribuent également à la sécurité et à la protection contre les fraudeurs.
+Ces données nous aident aussi à assurer votre sécurité et à vous protéger des escrocs.
 
-**Base juridique du traitement :** le traitement repose sur des intérêts légitimes.
+**Base juridique du traitement :** le traitement est nécessaire à la protection d'un intérêt légitime.
 
 Les navigateurs Internet de tous les appareils ainsi que les applications utilisées sur téléphone ou tablette peuvent indiquer de manière précise votre emplacement en utilisant les systèmes GPS et GPS assisté.
 
