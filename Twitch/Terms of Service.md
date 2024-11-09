@@ -7,7 +7,7 @@ Last modified on 03/26/2024
 
 [2\. Utilisation de Twitch par les mineurs et les personnes bloquées](#2-use-of-twitch-by-minors-and-blocked-persons)
 
-[3\. Avis de confidentialité](#3-privacy-notice)
+[3\. Politique de Confidentialité](#3-privacy-notice)
 
 [4\. Compte](#4-account)
 
@@ -65,7 +65,7 @@ Les services Twitch ne sont pas non plus accessibles aux utilisateurs déjà exc
 
 EN TÉLÉCHARGEANT, EN INSTALLANT OU EN UTILISANT LES SERVICES TWITCH, VOUS DÉCLAREZ AVOIR AU MOINS 13 ANS, OU, SI VOUS AVEZ ENTRE 13 ANS ET L'ÂGE DE LA MAJORITÉ LÉGALE DANS VOTRE JURIDICTION DE RÉSIDENCE, QUE VOTRE PARENT OU TUTEUR LÉGAL ACCEPTE D'ÊTRE LIÉ PAR LES PRÉSENTES CONDITIONS D'UTILISATION, ET NE PAS AVOIR DÉJÀ ÉTÉ EXCLU DES SERVICES TWITCH ET QUE LEUR RÉCEPTION NE VOUS A PAS ÉTÉ INTERDITE.
 
-#### 3\. Avis de confidentialité
+#### 3\. Politique de Confidentialité
 
 Twitch considère que votre vie privée est importante. Veuillez consulter notre [Politique de Confidentialité](https://www.twitch.tv/p/legal/privacy-policy) pour obtenir des informations sur la manière dont nous recueillons, utilisons et divulguons vos informations personnelles et nos [Droits en matière de confidentialité](https://www.twitch.tv/p/legal/privacy-choices) pour obtenir des informations sur la façon dont vous pouvez gérer votre vie privée en ligne lorsque vous utilisez les Services Twitch.
 
