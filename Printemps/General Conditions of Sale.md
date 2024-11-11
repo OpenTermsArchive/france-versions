@@ -217,6 +217,13 @@
 *  [![](https://media-cdn.printemps.com/image/44/1/7127441.jpg) DELSEY](https://www.printemps.com/fr/fr/delsey-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-delsey-homme)
     
 
+* [Beauty Days : -25% dès 79€ d'achat\*](https://www.printemps.com/fr/fr/offre-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beautydays)
+    * [Voir tout](https://www.printemps.com/fr/fr/offre-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-beautydays-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/offre-beaute/esp/Parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beautydays-parfums)
+    * [Soins](https://www.printemps.com/fr/fr/offre-beaute/esp/Soin?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beautydays-soins)
+    * [Maquillage](https://www.printemps.com/fr/fr/offre-beaute/esp/Maquillage?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beautydays-maquillage)
+    * [Coffrets et calendriers de l'avent](https://www.printemps.com/fr/fr/offre-beaute/esp/Coffret+%26+Palette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=coffrets)
+
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=eau-de-toilette-parfum)
