@@ -1,5 +1,39 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
+* [\-25% dès 79€ : voir la sélection](https://www.printemps.com/fr/fr/offre-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=view-all-beauty-days)
+    
+
+* [PARFUM](https://www.printemps.com/fr/fr/offre-beaute/esp/Parfum)
+    * [Voir tout](https://www.printemps.com/fr/fr/offre-beaute/esp/Parfum)
+
+* [SOINS](https://www.printemps.com/fr/fr/offre-beaute/esp/Soin)
+    * [Voir tout](https://www.printemps.com/fr/fr/offre-beaute/esp/Soin)
+    * [Soins du visage](https://www.printemps.com/fr/fr/offre-beaute/cat0/Soins+du+visage)
+    * [Soins du corps](https://www.printemps.com/fr/fr/offre-beaute/cat0/Soins+du+corps)
+    * [Soins cheveux](https://www.printemps.com/fr/fr/offre-beaute/cat0/Soins+cheveux)
+
+* [MAQUILLAGE](https://www.printemps.com/fr/fr/offre-beaute/esp/Maquillage)
+    * [Voir tout](https://www.printemps.com/fr/fr/offre-beaute/esp/Maquillage)
+    * [Lèvres](https://www.printemps.com/fr/fr/offre-beaute/cat0/L%C3%A8vres)
+    * [Teint](https://www.printemps.com/fr/fr/offre-beaute/cat0/Teint)
+    * [Yeux](https://www.printemps.com/fr/fr/offre-beaute/cat0/Yeux)
+
+* [COFFRETS ET CALENDRIERS DE L'AVENT](https://www.printemps.com/fr/fr/offre-beaute/esp/Coffret+%26+Palette)
+    
+* [ACCESSOIRES](https://www.printemps.com/fr/fr/offre-beaute/esp/Accessoires)
+    
+
+* [TOP MARQUES](#)
+    * [Van Cleef & Arpels](https://www.printemps.com/fr/fr/offre-beaute/mrk/VAN+CLEEF+%26+ARPELS)
+    * [Augustinus Bader](https://www.printemps.com/fr/fr/offre-beaute/mrk/AUGUSTINUS+BADER)
+    * [Hermès](https://www.printemps.com/fr/fr/offre-beaute/mrk/HERM%C3%88S)
+    * [Clarins](https://www.printemps.com/fr/fr/offre-beaute/mrk/CLARINS)
+    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/offre-beaute/mrk/YVES+SAINT+LAURENT)
+    * [Estée Lauder](https://www.printemps.com/fr/fr/offre-beaute/mrk/EST%C3%89E+LAUDER)
+    * [Tom Ford](https://www.printemps.com/fr/fr/offre-beaute/mrk/TOM+FORD)
+    * [Laura Mercier](https://www.printemps.com/fr/fr/offre-beaute/mrk/LAURA+MERCIER)
+    * [Courrèges](https://www.printemps.com/fr/fr/offre-beaute/mrk/COURR%C3%88GES)
+
 * [NOS IDÉES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux)
     * [Toutes les idées cadeaux](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_viewall)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
@@ -115,6 +149,8 @@
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
     * [Ballerina era](https://www.printemps.com/fr/fr/babies-mary-jane?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerina_era)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
+    
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=nav-femme&ap_campaign=offres)
     
 
 * [TOP MARQUES](#)
@@ -284,6 +320,8 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nars)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
+* [![](https://media-cdn.printemps.com/image/20/2/7139202.jpg)](https://www.printemps.com/fr/fr/offre-beaute)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
