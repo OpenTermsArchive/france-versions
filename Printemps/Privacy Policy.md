@@ -226,10 +226,11 @@
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Les tendances mode de l'hiver](https://www.printemps.com/fr/fr/edito-style-tendances-hiver-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-hiver)
+    * Tendance Y2K
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
+    * [Punk is not dead](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
     * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
-    * [L'esprit Rando](https://www.printemps.com/fr/fr/au-grand-air-homme?ap_source=anico&ap_medium=navigation&ap_campaign=rando-homme)
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
     * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-hiver-homme)
@@ -393,7 +394,7 @@
     * [Prada](https://www.printemps.com/fr/fr/prada?ap_source=anico&ap_medium=navigation&ap_campaign=prada)
     * [Acne Studios](https://www.printemps.com/fr/fr/acne-studios?ap_source=anico&ap_medium=navigation&ap_campaign=acne)
 
-* [NOËL](#)
+* [NOËL](https://www.printemps.com/fr/fr/printemps-express)
     * [Printemps Express : toute l'actualité de Noël](https://www.printemps.com/fr/fr/edito-magasin-printemps-express-noel-2024)
     * [Le grand jeu de Noël : gagnez un voyage d'exception](https://www.printemps.com/fr/fr/edito-magasins-noel-continents-insolites-jeu-concours-2024)
     * [Réservez votre atelier](https://evenements.printemps.com/)
