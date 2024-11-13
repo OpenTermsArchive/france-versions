@@ -226,9 +226,9 @@
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Les tendances mode de l'hiver](https://www.printemps.com/fr/fr/edito-style-tendances-hiver-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-hiver)
-    * Tendance Y2K
+    * [Tendance Y2K](https://www.printemps.com/fr/fr/y2k-homme)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
-    * [Punk is not dead](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
+    * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
     * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
