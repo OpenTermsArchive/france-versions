@@ -127,7 +127,7 @@
 
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bijoux)
     * [Voir Tout](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_bijoux)
-    * [Boucles D'oreille](https://www.printemps.com/fr/fr/bijoux-femme/sct/Boucles+d%27oreille?ap_source=anico&ap_medium=nav-femme&ap_campaign=boucles_d_oreille)
+    * [Boucles D'oreille](https://www.printemps.com/fr/fr/bijoux-femme/sct/Boucles+d'oreille?ap_source=anico&ap_medium=nav-femme&ap_campaign=boucles_d_oreille)
     * [Colliers](https://www.printemps.com/fr/fr/bijoux-femme/sct/Colliers?ap_source=anico&ap_medium=nav-femme&ap_campaign=colliers)
     * [Bagues](https://www.printemps.com/fr/fr/bijoux-femme/sct/Bagues?ap_source=anico&ap_medium=nav-femme&ap_campaign=bagues)
     * [Bracelets](https://www.printemps.com/fr/fr/bijoux-femme/sct/Bracelets?ap_source=anico&ap_medium=nav-femme&ap_campaign=bracelets)
