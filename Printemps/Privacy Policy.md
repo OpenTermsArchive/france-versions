@@ -238,6 +238,8 @@
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=navigation&ap_campaign=offres-du-moment)
+    
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-homme)
