@@ -262,6 +262,8 @@
 * [![](https://media-cdn.printemps.com/image/09/9/7188099.jpg)](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
     
 
+* [AVANT-PREMIÈRES BLACK FRIDAY](https://www.printemps.com/fr/fr/avant-premiere-black-friday-beaute?ap_source=anico&ap_medium=navigation-beaute&ap_campaign=avpbf)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=eau-de-toilette-parfum)
