@@ -698,7 +698,7 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 \-          Les biens qui, après avoir été livrés et de par leur nature, sont mélangés de manière indissociable avec d'autres articles ;  
   
-\-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
+\-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont ��té descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
 \-          La fourniture de journaux, de périodiques ou de magazines ;
 
 \-          Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ;
@@ -1553,7 +1553,7 @@ Afin d’assurer son fonctionnement, URCT collecte sur les dons reçus 20% au ti
 
 **3.**          **RECU FISCAL** (pour les clients résidant en France)
 
-La reconnaissance d’intérêt général accordée à URCT et son objet permettent aux Clients résidant en France de bénéficier d’une réduction d’impôt en contrepartie de leurs dons dans les conditions prévues par la loi et notamment par les articles 200 et 238 bis du Code Général des Impôts.
+La reconnaissance d’intérêt général accordée à URCT et son objet permettent aux Clients résidant en France de bénéficier d’une réduction d’impôt en contrepartie de leurs dons dans les conditions prévues par la loi et notamment par les articles 200 et 238 bis du Code Général des Imp��ts.
 
 Par exemple, un Client particulier résidant en France peut déduire 66% du montant de son don au profit d’un des Projets de son impôt sur le revenu, dans la limite de 20% de son revenu net imposable. Cet avantage est subordonné à la fourniture par le Client d’un reçu fiscal à l’Administration fiscale.
 
