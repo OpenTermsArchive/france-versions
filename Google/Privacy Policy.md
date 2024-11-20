@@ -56,6 +56,7 @@ Informations collectées par Google
 ==================================
 
 Nous voulons que vous compreniez le type d'informations que nous collectons via nos services
+--------------------------------------------------------------------------------------------
 
 Les informations que nous collectons servent à améliorer les services proposés à tous nos utilisateurs. Il peut s'agir d'informations de base, telles que la langue que vous utilisez, ou plus complexes, comme les [annonces que vous trouvez les plus utiles](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-useful-ads), les [personnes qui vous intéressent le plus sur le Web](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-people-online) ou les vidéos YouTube qui sont susceptibles de vous plaire. Les informations que nous collectons et l'usage que nous en faisons dépendent de la manière dont vous utilisez nos services et dont vous gérez vos paramètres de confidentialité.
 
@@ -123,6 +124,7 @@ Raisons pour lesquelles nous collectons des informations
 ========================================================
 
 Les données nous permettent de concevoir des services de meilleure qualité
+--------------------------------------------------------------------------
 
 Nous utilisons les informations que nous collectons via nos services aux fins suivantes :
 
@@ -176,6 +178,7 @@ Vos paramètres de confidentialité
 =================================
 
 Vous pouvez décider des informations que nous collectons et de la façon dont nous les utilisons
+-----------------------------------------------------------------------------------------------
 
 Cette section décrit les paramètres clés qui, au sein de nos services, vous permettent de gérer la confidentialité de vos informations. En outre, le [Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body&hl=fr) vous permet d'examiner et d'ajuster d'importants paramètres de confidentialité. En plus de ces outils, nos produits contiennent des paramètres de confidentialité spécifiques. Pour en savoir plus, consultez notre [Guide de confidentialité des produits](https://policies.google.com/technologies/product-privacy?hl=fr-FR&gl=FR).
 
@@ -324,6 +327,7 @@ Sécuriser vos informations
 ==========================
 
 La sécurité fait partie intégrante de nos services en vue de protéger vos informations
+--------------------------------------------------------------------------------------
 
 Tous les produits Google intègrent de puissantes fonctionnalités de sécurité qui protègent vos informations en continu. Les renseignements que nous collectons via nos services nous permettent de détecter et de bloquer automatiquement les menaces qui pèsent sur votre sécurité. Si nous détectons une activité suspecte importante, nous vous en informerons et vous donnerons des conseils pour améliorer votre sécurité.
 
