@@ -274,6 +274,10 @@ Nous définissons les « groupes protégés » comme un sous-ensemble de la po
     * L’injure raciale commençant par un « N » n’est jamais autorisée, quelles que soient les circonstances.
 * Évoquer des insultes en contexte pour les condamner est autorisé.
     * Exemples de comportements autorisés : parler d’une expérience où une insulte a été utilisée contre vous ou que vous avez entendue (par exemple, « J’étais au supermarché et j’ai entendu quelqu’un crier \[insulte\] » ou « J’ai été traité de \[insulte\] au travail par un collègue ».
+* Nous interdisons l'utilisation de certains termes qui ne sont pas forcément nocifs ou insultants en eux-mêmes, mais qui peuvent être utilisés comme injures ou pour dénigrer les autres dans certains contextes. À l'instar des autres termes qui peuvent être utilisés pour désigner un groupe protégé, nous traitons « sionistes » comme un terme désignant des Juifs ou des Israéliens si le mot est utilisé dans un contexte visant à promouvoir le mal ou la violence, ou lorsqu'il est utilisé pour faire des comparaisons déshumanisantes ou perpétuer des stéréotypes antisémites. Les commentaires concernant le sionisme qui concernent le mouvement politique, y compris les critiques, ne constituent pas une infraction à notre politique en matière de comportement haineux. Les commentaires appelant à la violence contre le sionisme en tant que mouvement politique, ou ceux qui enfreindraient nos politiques, ne sont pas autorisés.
+    
+    * Exemple interdit : \[nom d'animal\] de sioniste.
+    * Exemple autorisé : les colons sionistes continuent d'empiéter sur les frontières palestiniennes.
 
 Harcèlement
 -----------
@@ -705,8 +709,6 @@ Tags
 ----
 
 Ne créez que des tags qui respectent les autres Conditions d’utilisation et les Lignes de conduite de la communauté de Twitch. 
-
- 
 
 [](#)
 
