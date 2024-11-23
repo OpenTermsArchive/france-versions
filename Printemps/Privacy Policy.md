@@ -90,6 +90,10 @@
 * [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
     
 
+* [PLUS D'INSPIRATION](https://www.printemps.com/fr/fr/edito-magazine?ap_source=anico&ap_medium=navigation-noel&ap_campaign=viewalledito)
+    * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
+    * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
+
 * [AVANT-PREMIÈRES BLACK FRIDAY](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avpbf)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
