@@ -1,47 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [Voir tout](https://www.printemps.com/fr/fr/avant-premiere-black-friday?ap_source=anico&ap_medium=navigation-avpbf&ap_campaign=voirtout)
-    
-* [FEMME](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=femme)
-    * [Sacs](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/esp/Sacs?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=sacs_femme)
-    * [Vêtements](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=vetements_femme)
-    * [Chaussures](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=chaussures_femme)
-    * [Accessoires](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=accessoires_femme)
-
-* [HOMME](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=viewall_homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=viewall_homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=vetements_homme)
-    * [Chaussures](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/esp/Chaussures?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=chaussures_homme)
-    * [Sacs](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/esp/Sacs?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=sacs_homme)
-    * [Accessoires](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=accessoires_homme)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/avant-premiere-black-friday-beaute?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/avant-premiere-black-friday-beaute?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=beaute)
-
-* [TOP CATÉGORIES](#)
-    * [Sacs à main - Femme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=sacs_main)
-    * [Manteaux - Homme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/cat0/Manteaux?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=manteaux_homme)
-    * [Bottes et bottines - Femme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/cat0/Bottines/Bottes?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=bottines_femme)
-    * [Maille - Homme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/cat0/Mailles+et+pulls?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=maille_homme)
-    * [Manteaux - Femme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme/cat0/Manteaux?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=manteaux_femme)
-    * [Baskets - Homme](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=baskets_homme)
-
-* [REMISES](#)
-    * [\-30%](https://www.printemps.com/fr/fr/avant-premiere-black-friday/sld/-30%25?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=remise30)
-    * [\-40%](https://www.printemps.com/fr/fr/avant-premiere-black-friday/sld/-40%25?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=remise40)
-    * [\-50%](https://www.printemps.com/fr/fr/avant-premiere-black-friday/sld/-50%25?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=remise50)
-
-* [TOP MARQUES](#)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=poloralphlauren)
-    * [Marc Jacobs](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/MARC+JACOBS?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=marc_jacobs)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/ALEXANDER+MCQUEEN?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=alexandermcqueen)
-    * [Chloé](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/CHLO%C3%89?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=chloe)
-    * [Saison 1865](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/SAISON+1865?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=saison1865)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/CALVIN+KLEIN?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=calvinklein)
-    * [Tommy Hilfiger](https://www.printemps.com/mrk/TOMMY+HILFIGER?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=tommyhilfiger)
-    * [Jimmy Choo](https://www.printemps.com/fr/fr/avant-premiere-black-friday/mrk/JIMMY+CHOO?ap_source=anico&ap_medium=nav-avpbf&ap_campaign=jimmychoo)
-
 * [NOS IDÉES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux)
     * [Toutes les idées cadeaux](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_viewall)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
@@ -94,8 +52,6 @@
     * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
     * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
 
-* [AVANT-PREMIÈRES BLACK FRIDAY](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avpbf)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -184,8 +140,6 @@
 * [![](https://media-cdn.printemps.com/image/09/9/7188099.jpg)](https://www.printemps.com/fr/fr/avant-premiere-black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_avpbf)
     
 
-* [AVANT-PREMIÈRES BLACK FRIDAY](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme?ap_source=anico&ap_medium=navigation&ap_campaign=manteaux-homme)
@@ -274,8 +228,6 @@
 * [![](https://media-cdn.printemps.com/image/09/9/7188099.jpg)](https://www.printemps.com/fr/fr/avant-premiere-black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
     
 
-* [AVANT-PREMIÈRES BLACK FRIDAY](https://www.printemps.com/fr/fr/avant-premiere-black-friday-beaute?ap_source=anico&ap_medium=navigation-beaute&ap_campaign=avpbf)
-    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=eau-de-toilette-parfum)
