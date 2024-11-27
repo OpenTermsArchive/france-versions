@@ -4,7 +4,7 @@
 
 Conditions Générales
 
-Applicables au 03/10/2024
+Applicables au 26/11/2024
 
 
 
@@ -20,11 +20,11 @@ La convention de compte BOURSORAMA (ci-après la « Convention ») comprend :
 
 - le Dossier d’Ouverture de Compte,
 
-- les Conditions Générales, leurs annexes et, le cas échéant, les futures Conditions
+- les Conditions Générales en vigueur, leurs annexes et, le cas échéant, les futures
 
-Générales publiées sur le site de BOURSORAMA pour une application n’excédant pas 2
+Conditions Générales publiées sur le site de BOURSORAMA (www.boursorama.com,
 
-mois ,
+www.boursobank.com , Applications mobiles),
 
 - la Brochure Tarifaire,
 
@@ -32,7 +32,7 @@ mois ,
 
 - les Mentions légales et CGU,
 
-- et tous courriels ou courriers de BOURSORAMA valant avenants éventuels.
+- et toutes communications de BOURSORAMA valant avenants éventuels.
 
 
 
@@ -114,87 +114,91 @@ SOMMAIRE
 
 
 
-TITRE I – GÉNÉRALITÉS....................................................................................................................... 5
+TITRE I – GÉNÉRALITÉS....................................................................................................................... 6
 
-TITRE II – LA BANQUE........................................................................................................................ 13
+TITRE II – LA BANQUE........................................................................................................................ 15
 
-CHAPITRE 1 : LE COMPTE BANCAIRE BOURSOBANK .................................................................... 13
+CHAPITRE 1 : LE COMPTE BANCAIRE BOURSOBANK.............................................................................................. 15
 
-CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT ............................................................................ 15
+CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 17
 
-CHAPITRE 3 : L’OFFRE BOURSOPRIME............................................................................................ 25
+CHAPITRE 3 : L’OFFRE BOURSOPRIME................................................................................................................... 27
 
-CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ....................................................................................... 26
+CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 28
 
-CHAPITRE 5 : LIVRET A ....................................................................................................................... 26
+CHAPITRE 5 : LIVRET A ........................................................................................................................................... 28
 
-CHAPITRE 6 : LIVRET DE DÉVELOPPEMENT DURABLE ET SOLIDAIRE........................................ 27
+CHAPITRE 6 : LIVRET D’EPARGNE POPULAIRE ............................................................................................... 29
 
-CHAPITRE 7 : COMPTE SUR LIVRET ................................................................................................. 27
+CHAPITRE 7 : LIVRET DE DÉVELOPPEMENT DURABLE ET SOLIDAIRE ..................................................................... 30
 
-CHAPITRE 8 : LE LIVRET BOURSO+ .................................................................................................. 29
+CHAPITRE 8 : COMPTE SUR LIVRET ........................................................................................................................ 31
 
-CHAPITRE 9 : LE PLAN D’EPARGNE LOGEMENT ............................................................................. 29
+CHAPITRE 9 : LE LIVRET BOURSO+ ......................................................................................................................... 32
 
-CHAPITRE 10 : LE COMPTE D’EPARGNE LOGEMENT ..................................................................... 31
+CHAPITRE 10 : LE PLAN D’EPARGNE LOGEMENT ................................................................................................... 33
 
-CHAPITRE 11 : LE COMPTE A TERME ............................................................................................... 34
+CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT.............................................................................................. 34
 
-TITRE III – BOURSO BUSINESS : LA BANQUE POUR LES PROS ......................................... 36
+CHAPITRE 12 : LE COMPTE A TERME...................................................................................................................... 37
 
-CHAPITRE 1 : LE COMPTE BANCAIRE PROFESSIONNEL BOURSOBANK..................................... 36
+TITRE III – BOURSO BUSINESS : LA BANQUE POUR LES PROS ................................................. 39
 
-CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT ............................................................................ 38
+CHAPITRE 1 : LE COMPTE BUSINESS ...................................................................................................................... 39
 
-CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ........................................................................................ 47
+CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 41
 
-CHAPITRE 4 : COMPTE A TERME BUSINESS.................................................................................... 48
+CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 50
 
-CHAPITRE 5 : COMPTE SUR LIVRET PRO......................................................................................... 48
+CHAPITRE 4 : COMPTE A TERME BUSINESS ........................................................................................................... 51
 
-TITRE IV – LA BOURSE ET L’ÉPARGNE........................................................................................... 50
+CHAPITRE 5 : COMPTE SUR LIVRET PRO................................................................................................................. 51
 
-CHAPITRE 1 : LES COMPTES D’INSTRUMENTS FINANCIERS ........................................................ 50
+TITRE IV – LA BOURSE ET L’ÉPARGNE........................................................................................... 53
 
-CHAPITRE 2 : LE COMPTE-TITRES ORDINAIRE ............................................................................... 61
+CHAPITRE 1 : LES COMPTES D’INSTRUMENTS FINANCIERS ................................................................................... 53
 
-CHAPITRE 3 : LES PEA ET PEA-PME ................................................................................................. 63
+CHAPITRE 2 : LE COMPTE-TITRES ORDINAIRE........................................................................................................ 64
 
-CHAPITRE 4 : LE COMPTE D’EPARGNE FINANCIERE PILOTEE ..................................................... 67
+CHAPITRE 3 : LES PEA ET PEA-PME ........................................................................................................................ 66
 
-CHAPITRE 5: L’ASSURANCE VIE........................................................................................................ 68
+CHAPITRE 4 : LE COMPTE D’EPARGNE FINANCIERE PILOTEE ................................................................................. 70
 
-TITRE V – AUTRES SERVICES.......................................................................................................... 70
+CHAPITRE 5: L’ASSURANCE VIE.............................................................................................................................. 71
+
+TITRE V – AUTRES SERVICES........................................................................................................... 73
 
 ANNEXE I : FORMULAIRE TYPE CONCERNANT LES INFORMATIONS À FOURNIR AUX
 
-DÉPOSANTS ........................................................................................................................................ 78
+DÉPOSANTS ........................................................................................................................................ 81
 
 ANNEXE II : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 80
+BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 83
 
 ANNEXE III : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 86
+BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 89
 
 ANNEXE IV : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 92
+BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 95
 
 ANNEXE V : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................... 98
+BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 101
 
 ANNEXE VI : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE FITBIT PAY ................................................................................ 104
+BOURSOBANK VIA LE SERVICE FITBIT PAY ................................................................................ 107
 
 ANNEXE VII : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS
 
-AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 110
+AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 113
 
 5
+
+6
 
 
 
@@ -248,9 +252,13 @@ de Résolution (FGDR) ;
 
 
 
-- une banque accessible à partir de tout appareil
+- une banque accessible, pour chaque client muni
 
-connecté à internet via (ci-après le « Site ») :
+de son identifiant et mot de passe, à partir de tout
+
+appareil connecté à internet via (ci-après le
+
+« Site ») :
 
 o www.boursorama.com,
 
@@ -260,11 +268,11 @@ o Applications mobiles.
 
 
 
-- une banque digitale, ses procédures et
+- une banque digitale : ses procédures, processus
 
-processus sont dématérialisés, ce que chaque
+et communications sont dématérialisés, ce que
 
-Client reconnaît et accepte ;
+chaque Client reconnaît et accepte ;
 
 
 
@@ -292,15 +300,27 @@ Article 1 : Déclaration du Client
 
 
 
-Le Client déclare reconnaître et accepter que l’ensemble de
+Le Client déclare avoir choisi d’entrer en relation
 
-sa relation avec BOURSORAMA est dématérialisé. Tous
+contractuelle avec BOURSORAMA du fait de sa qualité de
 
-les actes juridiques et les opérations sont accessibles
+banque digitale. En conséquence, il reconnaît, accepte et
 
-(signature, mis à disposition, consultation, impression,
+consent que l’ensemble des communications est effectué
 
-téléchargement) et réalisables via le Site.
+de manière dématérialisée, en ce compris pour les actes
+
+juridiques, les informations légales et les opérations. A ce
+
+titre, toutes les informations qu’il reçoit de BOURSORAMA,
+
+se font exclusivement de manière dématérialisée, par tout
+
+moyen, au choix de cette dernière, (notamment via le Site,
+
+interstitiel, l’espace personnel sécurisé, courriel, sms,
+
+notification mobile).
 
 
 
@@ -309,6 +329,8 @@ Le Client déclare que l'ensemble des informations qu'il
 fournit à BOURSORAMA est et restera exact pendant toute
 
 la durée de la Convention. Les mises à jour devant être
+
+
 
 réalisées par le Client à partir de son espace personnel
 
@@ -432,6 +454,274 @@ Convention.
 
 
 
+2.4 Obligations liées à l’échange automatique de
+
+renseignement relatifs aux comptes financiers /
+
+Obligations relatives à la transparence fiscale :
+
+
+
+Quel que soit le pays de résidence fiscale du demandeur
+
+souhaitant ouvrir un compte, Boursobank a l’obligation
+
+d’identifier la résidence fiscale du demandeur et son
+
+numéro d’identification fiscale le cas échéant.
+
+Au titre de l’article L564-1 du Code monétaire et financier
+
+français, si Boursobank n’est pas en mesure d’identifier
+
+les résidences fiscales et, le cas échéant, les numéros
+
+d’identification fiscale d’un titulaire du compte,
+
+Boursobank n’établit pas de relation contractuelle.
+
+7
+
+
+
+Par conséquent, quel que soit le pays de résidence fiscale
+
+de la personne physique souhaitant ouvrir un compte, un
+
+formulaire d’auto-certification de résidence fiscale est
+
+dûment complété et signé par la personne physique (ou
+
+son représentant légal, tuteur, ...). Boursobank collecte
+
+auprès de cette dernière tous justificatifs ou attestations
+
+nécessaires à l’établissement de son statut fiscal.
+
+.
+
+En application de la réglementation française (article
+
+1649 AC du Code générale des impôts français),
+
+Boursobank a l’obligation d’identifier les clients, et leurs
+
+actifs financiers, qui sont des contribuables américains au
+
+sens de la loi américaine dite FATCA (Foreign Account
+
+Tax Compliance Act) ou qui résident dans des pays
+
+participant à la norme commune de déclaration (NCD) en
+
+matière d’Échange Automatique d’Informations (EAI)
+
+financières à des fins fiscales (cette norme de l’OCDE/
+
+Organisation de Coopération et de Développement.
+
+Les informations relatives à ces clients sont transmises
+
+par Boursobank à l’administration fiscale française qui, à
+
+son tour, les transmet suivant les cas à l’administration
+
+fiscale américaine (Internal Revenue Service «IRS») et/ou
+
+à l’administration fiscale du (des) pays de résidence du
+
+client participant(s) à l’échange automatique
+
+d’informations.
+
+
+
+Pour les clients concernés par cette/ces réglementation(s),
+
+Boursobank transmet annuellement à l’administration
+
+fiscale française l’identité du (des) client(s) ou du (des)
+
+bénéficiaire(s) des comptes financiers qu’il(s) détien(nen)t
+
+dans ses livres, le solde de ces comptes ainsi que le cas
+
+échéant tout revenu de capitaux mobiliers qui sont perçus,
+
+directement ou indirectement, par le(s) Client(s) ou le(s)
+
+bénéficiaire(s)sur ces comptes lorsqu’il(s) est(sont)
+
+résident(s) dans un autre État visé par ces
+
+réglementations.
+
+
+
+De manière générale, le Client s’engage à informer
+
+Boursobank de toute modification qui pourrait intervenir
+
+dans sa situation, notamment en cas de changement
+
+d’état civil, de capacité, de régime matrimonial, de
+
+nationalité, d’adresse le concernant (domicile, fiscale et
+
+postale) et des éléments d’identification concernant ses
+
+éventuels mandataires, de statut (notamment en cas
+
+d’acquisition du statut de citoyen des États-Unis
+
+d’Amérique ou de la carte verte dite « green card »), du
+
+transfert de la résidence fiscale dans un autre État.
+
+
+
+Le Client reconnaît en particulier qu’il doit informer
+
+Boursobank de tout changement de pays de résidence
+
+fiscale (de résident fiscal d’un État à tout autre État) dès
+
+que celui-ci survient et reconnaît que Boursobank ne
+
+pourra être tenue pour responsable d’avoir appliqué le
+
+régime fiscal prévu par la réglementation française selon
+
+le statut fiscal d’origine du Client dès lors que ce dernier
+
+ne l’a pas informée de l’évolution de ce statut.
+
+De même, en cas de changement du numéro de
+
+téléphone (fixe, mobile) ou de l’adresse mail transmise à
+
+Boursobank pour la communication de certaines
+
+informations et l’accès à certains services, le Client est
+
+responsable de la mise à jour de ces données.
+
+
+
+Ces différents changements devront être communiqués par
+
+le Client, à partir de son espace personnel sécurisé, sans
+
+délai. Boursobank ne pourra voir sa responsabilité engagée
+
+à raison des conséquences résultant pour le Client de
+
+l’inobservation de ses obligations.
+
+Les documents justificatifs adéquats seront fournis
+
+spontanément par le Client et le cas échéant sur demande
+
+de Boursobank.
+
+
+
+Lorsque les changements de situation le justifient,
+
+Boursobank collecte un nouveau formulaire d’auto-
+
+certification de résidence fiscale dûment complété et signé
+
+
+
+par le Client ainsi que tous justificatifs ou attestations
+
+nécessaires à l’établissement du statut fiscal du Client.
+
+Dans le cas où le Client ne remettrait pas le formulaire
+
+d’auto- certification de résidence fiscale, dûment complété
+
+et signé demandé par Boursobank lorsque les
+
+changements de situation le justifient, Boursobank sera
+
+dans l’obligation, en application de l’article R102AG-1 du
+
+Livre des Procédures Fiscales français, de le déclarer à
+
+l’administration fiscale française comme personne n’ayant
+
+pas remis les informations requises par la réglementation.
+
+Le Client est informé qu’il s’expose à une sanction fiscale
+
+appliquée par l’administration fiscale française
+
+conformément à l’article 1740 C du Code général des
+
+impôts français.
+
+
+
+En application des articles 1649 AD et 1649 AE du Code
+
+général des impôts français les dispositifs transfrontières
+
+susceptibles de présenter certaines caractéristiques
+
+qualifiées de « marqueurs » permettant d’identifier un
+
+risque potentiel d’évasion fiscale doivent faire l’objet d’une
+
+déclaration à l’Administration fiscale.
+
+Le Client doit prendre en compte cette réglementation dans
+
+le cas où il souhaite utiliser ou participer à ces dispositifs.
+
+Conformément à la réglementation lui imposant d’identifier
+
+ces dispositifs au regard des éléments dont elle a
+
+connaissance, Boursobank, lorsqu’elle analyse une
+
+opération comme déclarable, en informera directement le
+
+Client, utilisateur ou partie à un dispositif transfrontière.
+
+Boursobank proposera au Client de procéder à la levée du
+
+secret bancaire et lui notifiera ses obligations déclaratives,
+
+ou le cas échéant, adressera la notification à tout autre
+
+intermédiaire participant à l’opération. En cas d’accord
+
+express du Client, Boursobank effectuera la déclaration du
+
+dispositif auprès de l’administration fiscale. À défaut
+
+d’accord express du Client dans les délais requis par
+
+Boursobank, le client devra effectuer la déclaration du
+
+dispositif à l’administration fiscale au regard de l’analyse
+
+qu’il en fera.
+
+Faute de communication par le Client des documents
+
+justificatifs demandés par Boursobank, cette dernière
+
+pourra mettre un terme à la Convention et/ou restreindre
+
+les services auxquels le Client a accès, dans les conditions
+
+prévues aux présentes Conditions Générales.
+
+
+
 Article 3 : Accès aux services de BOURSORAMA
 
 
@@ -482,10 +772,6 @@ gestion par le Client des comptes, produits et services
 
 bancaires, financiers, et d’épargne, des produits
 
-6
-
-
-
 d’assurance, des offres de crédit, de garantie et de caution,
 
 ainsi que les services d’assistance via le « chatbot ».
@@ -497,6 +783,10 @@ Les Fonctionnalités Accessoires n’ont pas de lien direct
 avec les services souscrits par le Client ou régis par les
 
 présentes Conditions Générales et ne sont pas strictement
+
+8
+
+
 
 nécessaires à la fourniture de tels services et se rapportent
 
@@ -650,6 +940,8 @@ identifiant et un mot de passe temporaire garantissant la
 
 confidentialité des informations et lui permettant d’accéder
 
+
+
 à son Espace Client. Le Client s'engage à modifier ce mot
 
 de passe dès réception du mot de passe initial attribué par
@@ -788,10 +1080,6 @@ BOURSORAMA a mis en place différents systèmes
 
 d’authentification renforcée pour la réalisation d’opérations
 
-7
-
-
-
 dites sensibles (exemples non exhaustifs : commande de
 
 chéquier, déblocage de carte bancaire, référencement de
@@ -805,6 +1093,8 @@ carte bancaire, souscription à un Prêt Personnel, signature
 d’une offre de crédit immobilier, virement sortant d’un
 
 certain montant...).
+
+9
 
 
 
@@ -944,9 +1234,9 @@ cookie arrivera à expiration.
 
 3.10 BOURSORAMA étant une banque digitale, les actes
 
-juridiques sont dématérialisés et signés par électronique, ce
+juridiques sont dématérialisés et signés par voie
 
-que reconnaît et accepte le Client.
+électronique, ce que reconnaît et accepte le Client.
 
 
 
@@ -955,6 +1245,8 @@ Pour la signature électronique, telle que prévue par l’article
 1367 du Code civil, un fichier contenant l’acte est transmis
 
 à un tiers de confiance qui utilise un certificat électronique
+
+
 
 pour sceller électroniquement, authentifier et garantir
 
@@ -1094,10 +1386,6 @@ compte indivis sans qu’un mandataire ne puisse être
 
 désigné et ne fonctionnera que sur les signatures conjointes
 
-8
-
-
-
 des co-Titulaires, dans l’attente de l’affectation, décidée par
 
 les co-Titulaires, de son solde créditeur ainsi que des titres
@@ -1109,6 +1397,8 @@ figurant au Compte de Titres Financiers.
 La révocation empêche le paiement de l’ensemble des
 
 chèques en circulation au jour de la révocation.
+
+10
 
 
 
@@ -1212,39 +1502,17 @@ Titulaires du compte.
 
 
 
-5.3 Compte bancaire ouvert à un majeur protégé : Le
+5.3 Compte bancaire ouvert à un majeur protégé : Il
 
-Client majeur sous sauvegarde de justice peut faire
+existe plusieurs mesures de protection des majeurs,
 
-fonctionner seul le compte sauf si le mandataire spécial y a
+chacune ayant ses spécificités de fonctionnement.
 
-seul été habilité par le juge des tutelles.
+L’ouverture effective d’un compte à un majeur protégé fait
 
+donc au préalable l’objet d’une étude dirigée par les
 
-
-Le Client majeur sous tutelle ne peut pas faire fonctionner
-
-le compte sauf dans les conditions et limites déterminées
-
-par l’ordonnance du juge des tutelles.
-
-
-
-Le Client sous mandat de protection future peut faire
-
-fonctionner seul son compte. Le mandataire de protection
-
-future peut également faire fonctionner son compte si le
-
-mandat le prévoit.
-
-
-
-Le Client sous habilitation familiale peut faire fonctionner
-
-seul son compte sauf dispositions spécifiques figurant dans
-
-l’ordonnance du juge des tutelles.
+caractéristiques du mandat.
 
 
 
@@ -1400,10 +1668,6 @@ invite cependant le Client à s’assurer que lesdits
 
 prestataires se conforment à l’ensemble de la
 
-9
-
-
-
 réglementation applicable. BOURSORAMA ne saurait être
 
 tenue pour responsable en cas de défaillance ou de
@@ -1433,6 +1697,10 @@ paiement à partir de l'ensemble des comptes Client.
 L'utilisation d'un code à usage unique sera requise, lors du
 
 premier accès du prestataire de services de paiement
+
+11
+
+
 
 rendant un service d'information sur les comptes puis au
 
@@ -1556,8 +1824,6 @@ Les saisies-attribution ou conservatoires et les saisies
 
 administratives à tiers détenteur pratiquées à l’encontre de
 
-
-
 l’un des Titulaires d’un compte joint ou indivis seront
 
 exécutés sur la totalité des avoirs figurant au compte. Il
@@ -1587,6 +1853,8 @@ attribution ou la saisie conservatoire, ce solde peut être
 affecté (positivement ou négativement) par les opérations
 
 dont la date est antérieure à la saisie. Le Client peut
+
+
 
 contester la saisie engagée à son encontre devant le juge
 
@@ -1708,8 +1976,6 @@ BOURSORAMA, 44, rue Traversière – CS 80134,
 
 Boulogne-Billancourt Cedex (92772).
 
-10
-
 
 
 En l’absence de dénonciation par le(s) Titulaire(s) dans le
@@ -1737,6 +2003,8 @@ Titres II, III et IV, seuls les Clients détenteurs du produit ou
 service modifié seront informés de la ou des modification(s)
 
 apportée(s).
+
+12
 
 
 
@@ -2012,10 +2280,6 @@ communiquées par BOURSORAMA seront les données
 
 strictement nécessaires au traitement de l’alerte. Dans ce
 
-11
-
-
-
 cadre, BOURSORAMA obtient préalablement à la
 
 communication de ces données l’engagement du
@@ -2041,6 +2305,8 @@ récupérer les fonds.
 Article 16 : Lutte contre le blanchiment et le
 
 financement du terrorisme
+
+13
 
 
 
@@ -2168,8 +2434,6 @@ inondation, dégâts des eaux, restrictions gouvernementales
 
 ou légales, blocage des télécommunications et/ou des
 
-
-
 systèmes télématiques, et tous autres cas indépendants de
 
 la volonté des Parties.
@@ -2195,6 +2459,8 @@ Article 20 : Validité
 Si l'une des dispositions de la Convention est nulle ou
 
 inapplicable au regard de la loi et des règlements, elle sera
+
+
 
 réputée non écrite. Toutefois, elle n'affectera pas la validité
 
@@ -2296,7 +2562,7 @@ mois à compter de la 1ère réclamation écrite :
 
 Médiateur de Fédération Bancaire Française (FBF) :
 
-Monsieur Le Médiateur de la FBF
+Le Médiateur de la FBF
 
 CS 151
 
@@ -2314,25 +2580,25 @@ https://lemediateur.fbf.fr/
 
 financiers (Titre IV) :
 
+Formulaire électronique à utiliser de préférence sur le site
+
+internet du Médiateur :
+
+https://www.amf-france.org/fr/le-mediateur-de-lamf/votre-
+
+dossier-de-mediation/vous-voulez-deposer-une-demande-
+
+de-mediation
+
 
 
 Médiateur de l'Autorité des Marchés Financiers (AMF)
 
-Madame le Médiateur de l'AMF
+Le Médiateur de l'AMF
 
 17, place de la Bourse
 
-12
-
-
-
 75082 PARIS CEDEX 02
-
-
-
-Formulaire électronique sur le site internet du Médiateur :
-
-https://www.amf-france.org/fr/le-mediateur
 
 
 
@@ -2346,6 +2612,8 @@ Conditions Générales, le Client se réfère aux conditions
 
 remises à la souscription de ce produit ou service
 
+14
+
 
 
 Article 23 : Loi applicable
@@ -2354,7 +2622,7 @@ Article 23 : Loi applicable
 
 La Convention est régie par la loi française.
 
-13
+15
 
 
 
@@ -2652,7 +2920,7 @@ n’a pas été autorisée par le Client, celui-ci devra effectuer
 
 une réclamation sans tarder et, sauf dispositions légales
 
-14
+16
 
 
 
@@ -2958,7 +3226,7 @@ cas de maintien dans le temps de l’inactivité. Cette
 
 information est renouvelée annuellement.
 
-15
+17
 
 
 
@@ -3264,7 +3532,7 @@ service consistant à fournir des informations
 
 consolidées concernant un ou plusieurs comptes
 
-16
+18
 
 
 
@@ -3564,7 +3832,7 @@ font l’objet d’une procédure précisée au Client à sa
 
 demande.
 
-17
+19
 
 
 
@@ -3690,13 +3958,17 @@ proposés en virements instantanés par
 
 BOURSORAMA.
 
-Ces virements sont limités à un montant
+Dans le cas de la lutte contre la fraude les
 
-maximum communiqué par BOURSORAMA
+virements instantanés peuvent être limités à un
 
-dans la Brochure Tarifaire. Par exception et dans
+montant maximum communiqué par
 
-le cadre de la lutte contre la fraude, ces virements
+BOURSORAMA sur son site et dans le parcours
+
+de virement instantané. Par exception et dans le
+
+cadre de la lutte contre la fraude, ces virements
 
 ne pourront pas porter sur le montant des
 
@@ -3716,11 +3988,11 @@ bénéficiaire.
 
 dehors de l’Espace Economique Européen.
 
+
+
 Pour tout virement émis dans une devise autre
 
 que l’euro, le compte du Prestataires de Services
-
-
 
 de Paiement du bénéficiaire sera crédité du
 
@@ -3862,11 +4134,11 @@ du pays où se situe le compte du bénéficiaire du
 
 virement.
 
+20
+
 
 
 Article 3 : Crédits en Compte des virements reçus
-
-18
 
 
 
@@ -4018,8 +4290,6 @@ Si BOURSORAMA est informée que les fonds n’ont pas pu
 
 être mis à la disposition du bénéficiaire, elle en informe
 
-
-
 immédiatement le Client et libère les fonds mis en réserve.
 
 Lorsque les fonds ont été mis à disposition du bénéficiaire,
@@ -4166,13 +4436,13 @@ sera précisé au Client.
 
 Un ordre de paiement refusé est réputé non reçu.
 
+21
+
 
 
 Article 9 : Contestations en cas de virements non
 
 autorisés ou mal exécutés
-
-19
 
 
 
@@ -4466,7 +4736,7 @@ consentement donné au créancier d’initier tous les
 
 prélèvements relatifs au mandat.
 
-20
+22
 
 
 
@@ -4754,7 +5024,7 @@ sous peine d’engager sa responsabilité au sens de l’article
 
 11 ci-dessous.
 
-21
+23
 
 
 
@@ -5060,7 +5330,7 @@ sa communication sera nécessaire à la réalisation d’une
 
 opération en ligne.
 
-22
+24
 
 
 
@@ -5366,7 +5636,7 @@ détournement ou de toute utilisation non autorisée de sa
 
 Carte ou des données qui lui sont liées, le Titulaire en
 
-23
+25
 
 
 
@@ -5542,9 +5812,9 @@ Titulaire de la Carte prend effet immédiatement, sauf
 
 dénouement des opérations en cours. La résiliation sera
 
-formalisée par BOURSORAMA par l’envoie au Titulaire
+formalisée par BOURSORAMA par l’envoi au Titulaire d’un
 
-d’un email de confirmation.
+email de confirmation.
 
 
 
@@ -5672,7 +5942,7 @@ du Compte sur lequel fonctionne ladite carte par tout moyen
 
 et l’/les invite à régulariser cet incident dans le délai et selon
 
-24
+26
 
 
 
@@ -5976,7 +6246,7 @@ L’Offre METAL permet à son titulaire d’émettre gratuitement
 
 et de manière illimitée des virements internationaux, en
 
-25
+27
 
 
 
@@ -6056,15 +6326,13 @@ En cas de modification ou de suppression de l’un ou des
 
 avantages proposés dans l’offre Boursoprime,
 
-BOURSORAMA en informera le Client par tous moyens à
+BOURSORAMA en informera le Client par tous moyens, en
 
-sa convenance, en respectant un délai de prévenance de
+respectant un délai de prévenance de deux (2) mois. Sauf
 
-deux (2) mois. Sauf exception dont le Client sera informé,
+exception dont le Client sera informé, ces modifications
 
-ces modifications remplaceront les avantages dont
-
-bénéficiait le Client.
+remplaceront les avantages dont bénéficiait le Client.
 
 
 
@@ -6130,9 +6398,9 @@ traités prioritairement par le Service Client.
 
 dépenses par carte donnent droit, dans une
 
-
-
 certaine limite, à un pourcentage de cashback
+
+
 
 (remboursement) ; cette limite mensuelle est
 
@@ -6153,44 +6421,6 @@ plusieurs cartes bancaires BoursoBank, les
 paiements effectués avec chacune de ces cartes
 
 pourront faire l’objet d’un cashback.
-
-
-
-- Versement lié à la détention d’un crédit
-
-immobilier : les détenteurs de l’offre Boursoprime
-
-souscrivant un crédit immobilier BoursoBank se
-
-voient verser chaque mois une somme d’argent
-
-dont le montant est indiqué dans la Brochure
-
-Tarifaire. La souscription à l’offre Boursoprime
-
-doit intervenir avant la date de signature chez le
-
-notaire, à l’exception des rachats de crédits pour
-
-lesquels la souscription à l’offre Boursoprime doit
-
-intervenir avant l’envoi à BOURSORAMA du
-
-décompte de remboursement anticipé.
-
-L’avantage cesse définitivement en cas de
-
-résiliation de l’offre Boursoprime, à l’initiative du
-
-client comme à l’initiative de BOURSORAMA, en
-
-cas de remboursement anticipé total, dès la
-
-première échéance du crédit immobilier impayée
-
-par le Client et, en cas de rachat du prêt par la
-
-concurrence.
 
 
 
@@ -6284,10 +6514,6 @@ Client a la possibilité de résilier son offre Boursoprime à tout
 
 moment et sans préavis, depuis son Espace Client. La
 
-26
-
-
-
 résiliation intervenant après le 7ème jour du mois ne sera
 
 effective que le dernier jour du mois en cours. Toute
@@ -6323,6 +6549,8 @@ immédiatement le jour de la clôture effective du Compte de
 rattachement et le Client ne percevra aucun avantage pour
 
 le mois en cours.
+
+28
 
 
 
@@ -6433,8 +6661,6 @@ en cours d’année.
 
 
 Ce compte est sans frais et les intérêts versés sont
-
-
 
 exonérés d'impôt sur le revenu et de prélèvements sociaux.
 
@@ -6552,11 +6778,11 @@ Article 3 : Modalités de fonctionnement du Livret A
 
 opérations enregistrées sur le Livret A sont uniquement des
 
-dépôts ou retraits au profit du Titulaire ou des virements de
+virements initiés par le Titulaire de ou vers son compte.
 
-ou vers son compte. Aucun virement permanent au débit du
+Aucun virement permanent au débit du Livret A ne peut être
 
-Livret A ne peut être mis en place.
+mis en place.
 
 
 
@@ -6585,10 +6811,6 @@ plafond.
 
 
 Article 4 - Fonctionnement du Livret A ouvert à un
-
-27
-
-
 
 mineur
 
@@ -6632,6 +6854,10 @@ moyennant facturation (cf. Brochure Tarifaire), lui adressera
 
 ce relevé sous format papier, par voie postale.
 
+29
+
+
+
 En l’absence de mouvements enregistrés sur le Livret A, un
 
 relevé de compte sera mis en ligne annuellement sur
@@ -6662,7 +6888,467 @@ crédités au jour de la clôture.
 
 
 
-CHAPITRE 6 : LIVRET DE DÉVELOPPEMENT DURABLE
+CHAPITRE 6 : LIVRET D’EPARGNE POPULAIRE
+
+
+
+Article 1 : Définition
+
+
+
+Le Livret d’Épargne Populaire (LEP) est un compte
+
+d’épargne à vue productif d’intérêts exonérés d’impôt sur le
+
+revenu et de prélèvements sociaux, régi par les dispositions
+
+des articles L. 221-13 à L. 221-17-2, R. 221-33 à R. 221-64
+
+du code monétaire et financier, et des articles R\*166 AA-1
+
+et R\*166 AA-2 du Livret des Procédures Fiscales.
+
+
+
+Article 2 : Ouverture du Livret d’Epargne populaire
+
+
+
+2.1 Titulaires : Le bénéfice du Livret d’Épargne Populaire
+
+est réservé aux contribuables qui ont leur domicile fiscal en
+
+France et dont le montant des revenus n’excède pas un
+
+plafond réglementaire égal aux montants mentionnés au I
+
+de l’article 1417 du Code général des Impôts affectés d’un
+
+coefficient multiplicateur égal à 1,8, le montant obtenu étant
+
+arrondi à l’euro supérieur. Les montants visés dans l’article
+
+ci-dessus permettant de déterminer l’éligibilité au LEP sont
+
+actualisés pour l’année de demande d’ouverture ou l’année
+
+au titre de laquelle le contrôle d’éligibilité est effectué.
+
+L’ouverture d’un LEP est exclusivement réservée aux
+
+Titulaires d’un Compte individuel ou joint.
+
+
+
+2.2 Unicité de détention : Conformément à la
+
+réglementation, il est possible de cumuler un Livret
+
+d’Epargne populaire avec d'autres livret d’épargne (par
+
+exemple le Livret de Développement Durable et Solidaire).
+
+Il ne peut être ouvert qu’un seul Livret d’Épargne Populaire
+
+par contribuable et un pour le conjoint ou le partenaire lié
+
+par un pacte civil de solidarité de celui-ci. Un Livret
+
+d’Épargne Populaire ne peut donc être ouvert qu’aux
+
+personnes physiques qui ne sont pas déjà titulaires d’un
+
+Livret d’Épargne Populaire dans quelque établissement de
+
+crédit que ce soit. Le Titulaire déclare sur l’honneur, lors de
+
+l’ouverture du Livret d’Epargne Populaire, qu’il ne détient
+
+pas d’autre Livret d’Epargne Populaire dans quelque
+
+établissement que ce soit.
+
+
+
+2.3 Dépôt initial : Le dépôt initial pour l’ouverture d’un
+
+Livret d’Epargne populaire ne peut être inférieur à 30 euros.
+
+
+
+Article 3 : Contrôle des conditions de revenus pour
+
+l’ouverture et la détention du Livret d’Epargne
+
+Populaire
+
+
+
+La Banque est autorisée par la réglementation à aller
+
+rechercher auprès de la Direction générale des finances
+
+publiques (DGFIP) l’information selon laquelle les
+
+conditions d’éligibilité au Livret d’Epargne Populaire sont
+
+respectées. Elle utilise à cette fin les API « R2P » et «
+
+Impôts particuliers » mises à disposition par la DGFIP. Une
+
+API est une Interface de Programmation d’Application
+
+permettant à la Banque et à la DGFIP de communiquer de
+
+manière sécurisée.
+
+
+
+La Banque demande par voie électronique à l'administration
+
+fiscale si les conditions de revenus sont respectées par le
+
+contribuable lors de la demande l'ouverture d'un Livret
+
+
+
+d’Epargne Populaire ainsi que chaque année s’il en est déjà
+
+titulaire. Lorsque l'administration fiscale n'est pas en
+
+mesure de fournir cette information lors de la demande
+
+annuelle, les contribuables justifient eux-mêmes auprès de
+
+la Banque qu'ils remplissent les conditions dans les
+
+conditions précisées en fin de paragraphe.
+
+
+
+Les demandes d'informations nominatives adressées à
+
+l’administration fiscale en application de l'article L. 166 AA
+
+du Livre des Procédures Fiscales sont transmises par voie
+
+électronique. Elles contiennent les éléments d'identification
+
+des titulaires de compte sur livret d’épargne populaire ou
+
+des contribuables qui en demandent l’ouverture,
+
+mentionnés au 2 du II de l'article R\* 152-1 du même Livre,
+
+à l'exception des coordonnées bancaires et du numéro
+
+d'inscription au répertoire national d'identification des
+
+personnes physiques, ainsi que le code département de
+
+leur résidence fiscale et la mention de l’année au titre de
+
+laquelle la vérification de l’éligibilité est réalisée.
+
+L’administration fiscale ne donne suite à une demande
+
+qu'en cas de concordance suffisante des éléments
+
+d'identification de la personne concernée contenus dans la
+
+demande avec ceux qu’elle détient.
+
+
+
+Lorsque l’administration fiscale ne peut pas donner suite à
+
+la demande d'informations nominatives, le Client qui
+
+souhaite l’ouverture d’un LEP autorise la Banque à
+
+interroger l’administration fiscale au moyen de son Numéro
+
+d’Identification Fiscale (NIF).
+
+
+
+En cas de refus d’autoriser l’utilisation de cette donnée, la
+
+Banque n’est pas en mesure de donner suite à la demande
+
+d’ouverture du Livret d’Epargne Populaire. Le numéro
+
+d’identification fiscale est enregistré dans le système
+
+d’information de la Banque pour les seuls besoins de
+
+demander à l’administration fiscale par voie électronique si
+
+les conditions de revenus pour l’ouverture et la détention
+
+d’un livret d’épargne populaire sont respectées. La Banque
+
+conserve ce numéro pendant cinq ans après la clôture du
+
+Livret d’Epargne Populaire. Le Client qui demande
+
+l'ouverture d'un Livret d’Epargne Populaire ou qui en est
+
+déjà titulaire est informé que les demandes transmises par
+
+la Banque à l’administration fiscale par voie électronique le
+
+sont à une date déterminée par la Banque. Cette date est
+
+opposable à l’administration fiscale ainsi qu’au Client. La
+
+Banque refusera l’ouverture du Livret d’Epargne Populaire
+
+si la réponse de l’administration fiscale à la date de la
+
+demande adressée par voie électronique ne permet pas de
+
+valider que les conditions de revenus sont respectées. Le
+
+Client est informé par la Banque que toute évolution de sa
+
+situation fiscale postérieure à la date de demande
+
+d’ouverture ne sera pas prise en compte par la Banque
+
+rétroactivement.
+
+
+
+Pour le Client déjà titulaire du Livret d’Epargne Populaire, la
+
+Banque interrogera annuellement l’administration fiscale
+
+par voie électronique à la date de son choix et clôturera le
+
+Livret d’Epargne Populaire s’il ressort de la réponse de
+
+l’administration fiscale que les conditions d’éligibilité ne sont
+
+plus remplies à la date de la demande adressée par voie
+
+électronique. En cas d’évolution de sa situation fiscale qui
+
+n’aurait pas été prise en compte par l’administration fiscale
+
+à la date de la demande adressée par la Banque par voie
+
+électronique, le Client est informé que la responsabilité de
+
+la Banque ne saurait être engagée au titre de la clôture
+
+réalisée. Si lors d’une demande annuelle adressée par voie
+
+électronique, l'administration fiscale n'est pas en mesure de
+
+fournir à la Banque la justification de l’éligibilité, le Client
+
+devra justifier lui-même auprès de la Banque qu'il en remplit
+
+les conditions. Dans ce cas, la justification relative au
+
+montant des revenus sera apportée par la production de
+
+l’avis d’impôt sur le revenu ou de l’avis de situation
+
+déclarative à l’impôt sur le revenu de son foyer fiscal établi
+
+l’année précédente au titre des revenus de l’avant-dernière
+
+année et établi durant l’année en cours au titre des revenus
+
+de l’année précédente. La Banque se réserve la possibilité
+
+30
+
+
+
+de demander la justification de la qualité de conjoint ou de
+
+partenaire lié par un pacte civil de solidarité.
+
+
+
+Article 4 : Modalités de fonctionnement du Livret
+
+d’Epargne populaire
+
+
+
+4.1 Opérations enregistrées sur le Livret d’Epargne
+
+populaire : Les opérations enregistrées sur le Livret
+
+d’Epargne populaire sont uniquement des dépôts ou retraits
+
+au profit du Titulaire ou des virements de ou vers son
+
+compte. Aucun virement permanent au débit du Livret
+
+d’Epargne populaire ne peut être mis en place. Toutes les
+
+opérations de retrait ou de versement doivent être au
+
+minimum de 10 euros. Les opérations enregistrées sur le
+
+Livret d’Epargne populaire ne peuvent avoir pour effet de
+
+rendre le compte débiteur.
+
+
+
+Il n’est pas délivré de moyens de paiement au titre du Livret
+
+d’Epargne populaire.
+
+
+
+4.2 Rémunération : Les sommes versées portent intérêts
+
+à partir du premier jour de la quinzaine suivant le versement
+
+et les sommes retirées cessent de porter intérêt à partir de
+
+la quinzaine précédent le retrait. Ces intérêts sont
+
+décomptés une fois par an au 31 décembre et sont portés
+
+au crédit du Livret d’Epargne populaire début janvier. Les
+
+intérêts acquis au 31 décembre s’ajoutent au capital et
+
+deviennent eux-mêmes productifs d’intérêts. La
+
+capitalisation des intérêts peut porter le solde du Livret
+
+d’Epargne populaire au-delà du plafond de dépôt
+
+réglementaire. Les sommes déposées sur le Livret
+
+d’Epargne populaire sont disponibles à tout moment.
+
+
+
+4.3 Plafond des dépôts : Le solde du Livret d’Epargne
+
+populaire ne peut excéder un plafond fixé par décret. Les
+
+versements qui porteraient le solde du Livret d’Epargne
+
+populaire au-delà de ce plafond ne sont pas autorisés. En
+
+revanche, la capitalisation des intérêts peut porter le solde
+
+du Livret d’Epargne populaire au-delà de ce plafond.
+
+
+
+4.5 Transfert : Le Titulaire peut demander le transfert de
+
+son Livret d’Epargne Populaire vers un autre établissement,
+
+celui-ci lui sera facturé au tarif en vigueur des la Brochure
+
+Tarifaire.
+
+
+
+Article 5 : Information du Titulaire
+
+
+
+En cas de mouvements enregistrés sur le Livret d’Epargne
+
+populaire, un relevé reprenant les opérations passées au
+
+débit et au crédit du livret au cours du mois écoulé sera
+
+accessible dans l’Espace Client. Sur demande expresse du
+
+Client, BOURSORAMA, moyennant facturation (cf.
+
+Brochure Tarifaire), lui adressera ce relevé sous format
+
+papier, par voie postale. En l’absence de mouvements
+
+enregistrés sur le Livret d’Epargne populaire, un relevé de
+
+compte sera mis en ligne annuellement sur l’Espace Client.
+
+
+
+Article 6 : Clôture du Livret d’Epargne populaire
+
+
+
+6.1 Clôture à l’initiative du titulaire : Le Titulaire dûment
+
+habilité peut à tout moment demander la clôture de son
+
+Livret d’Epargne populaire, soit par courrier, soit
+
+directement depuis son Espace Client. En cas de clôture du
+
+Livret d’Epargne populaire en cours d’année, les intérêts
+
+courus sur la période depuis le début de l’année sont
+
+crédités au jour de la clôture.
+
+
+
+6.2 Clôture règlementaire : Lorsque le titulaire d’un Livret
+
+d’Épargne Populaire cesse de remplir la condition de
+
+plafond de revenus pour la deuxième année consécutive, il
+
+est tenu d’en demander la clôture.
+
+
+
+Lorsque le titulaire ne demande pas cette clôture, les
+
+établissements dépositaires sont tenus de solder d’office
+
+les Livrets d’Epargne Populaire pour lesquels ils établissent
+
+que leurs titulaires cessent de remplir la condition de
+
+
+
+plafond de revenus pour la deuxième année consécutive,
+
+ou n’ont pu justifier la remplir. Ces comptes sont clôturés au
+
+plus tard le 30 avril de cette deuxième année.
+
+Dans ce cas, les sommes figurant au crédit du compte soldé
+
+seront versées sur le compte courant au nom du même
+
+titulaire via un versement unique.
+
+
+
+6.3 En cas de décès du titulaire : Le décès du Titulaire
+
+entraîne la clôture du LEP au jour du décès. Dans ce cas,
+
+les sommes figurant au crédit du compte soldé seront
+
+versées sur le compte courant individuel au nom du défunt
+
+ou un compte à ouvrir à son nom via un versement unique.
+
+
+
+CHAPITRE 7 : LIVRET DE DÉVELOPPEMENT DURABLE
 
 ET SOLIDAIRE
 
@@ -6776,13 +7462,15 @@ Article 3 : Modalités de fonctionnement
 
 3.1 Opérations enregistrées sur le LDDS : Les opérations
 
-enregistrées sur le LDDS sont uniquement des opérations
+enregistrées sur le LDDS sont uniquement des virements
 
-de dépôts ou retraits au profit du Titulaire ou des virements
+initiés par le Titulaire de ou vers son compte. Aucun
 
-de ou vers son compte. Aucun virement permanent au débit
+virement permanent au débit du LDDS ne peut être mis en
 
-du LDDS ne peut être mis en place.
+place.
+
+31
 
 
 
@@ -6836,7 +7524,7 @@ l’Espace Client.
 
 
 
-CHAPITRE 7 : COMPTE SUR LIVRET
+CHAPITRE 8 : COMPTE SUR LIVRET
 
 
 
@@ -6880,17 +7568,11 @@ Livret.
 
 Les opérations enregistrées sur le Compte sur Livret sont
 
-uniquement des opérations de dépôts ou retraits au profit
+uniquement des virements initiés par le Titulaire de ou vers
 
-du Titulaire ou des virements de ou vers son compte. Aucun
+son compte. Aucun virement permanent au débit du
 
-28
-
-
-
-virement permanent au débit du Compte sur Livret ne peut
-
-être mis en place.
+Compte sur Livret ne peut être mis en place.
 
 
 
@@ -6928,11 +7610,13 @@ susceptible de varier à tout moment. BOURSORAMA
 
 informe le Titulaire des modifications du taux et de sa date
 
-d’entrée en vigueur par tout moyen à sa convenance.
+d’entrée en vigueur par tout moyen.
 
 Les sommes versées portent intérêt à partir du premier jour
 
 de la quinzaine suivant le versement et les sommes retirées
+
+
 
 cessent de porter intérêt à partir de la quinzaine précédant
 
@@ -7084,6 +7768,8 @@ Aucun virement permanent au débit du Compte sur Livret
 
 Jeune ne peut être mis en place.
 
+32
+
 
 
 En cas de mouvements enregistrés sur le Compte sur Livret
@@ -7134,9 +7820,7 @@ Ce taux est susceptible de varier à tout moment.
 
 BOURSORAMA informe le Titulaire des modifications du
 
-taux et de sa date d’entrée en vigueur par tout moyen à sa
-
-convenance.
+taux et de sa date d’entrée en vigueur par tout moyen.
 
 
 
@@ -7190,10 +7874,6 @@ l’acompte fiscal dû au titre des intérêts versés en
 
 cours d’année. Cette demande prend la forme
 
-29
-
-
-
 d’une déclaration sur l’honneur avant le 30
 
 novembre de l’année en cours pour une prise en
@@ -7220,7 +7900,7 @@ fiscale.
 
 
 
-CHAPITRE 8 : LE LIVRET BOURSO+
+CHAPITRE 9 : LE LIVRET BOURSO+
 
 
 
@@ -7316,7 +7996,7 @@ de varier à tout moment. BOURSORAMA informe le
 
 Titulaire des modifications du taux et de sa date d’entrée en
 
-vigueur par tout moyen à sa convenance.
+vigueur par toutmoyen.
 
 Les sommes versées portent intérêt à partir du premier jour
 
@@ -7390,13 +8070,17 @@ Les non-résidents fiscaux français sont exonérés d’impôt
 
 sur le revenu et de prélèvements sociaux en France mais
 
+33
+
+
+
 potentiellement redevables dans leur pays de résidence
 
 fiscale.
 
 
 
-CHAPITRE 9 : LE PLAN D’EPARGNE LOGEMENT
+CHAPITRE 10 : LE PLAN D’EPARGNE LOGEMENT
 
 
 
@@ -7419,6 +8103,8 @@ Le PEL est un compte d’épargne bloqué rémunéré à un taux
 garanti pendant toute la durée du plan. Le PEL ouvre droit,
 
 sous certaines conditions, à un prêt d’épargne logement.
+
+
 
 Toute personne physique peut ouvrir un PEL auprès de
 
@@ -7489,10 +8175,6 @@ immédiatement BOURSORAMA et indiquer les échéances
 concernées. Sur toute la durée du contrat, il pourra, pour
 
 ces motifs, réduire le montant des échéances, sans que le
-
-30
-
-
 
 montant total des versements effectués dans une même
 
@@ -7646,8 +8328,6 @@ fonds, une prime d'épargne égale au montant des intérêts
 
 acquis. Pour les PEL ouverts entre le 1er janvier 1981 et le
 
-
-
 11 décembre 2002, cette prime est égale à un pourcentage,
 
 déterminé par l’Etat, des intérêts acquis à la date de venue
@@ -7695,6 +8375,10 @@ partiel au cours de la période d’indisponibilité des fonds.
 6.2 Si la résiliation du PEL intervient moins de trois (3) ans
 
 après la date de versement initial, le souscripteur perd le
+
+34
+
+
 
 bénéfice des avantages attachés à son PEL (taux d’intérêt
 
@@ -7760,6 +8444,8 @@ limites fixées par les articles R. 315-32b et R. 315-33 du
 
 Code de la Construction et de l’Habitation.
 
+
+
 Article 7 : Retrait des fonds, conditions d’octroi et de
 
 calcul des prêts
@@ -7797,10 +8483,6 @@ sous réserve, d’une part qu’il dépose sa demande de prêt
 dans le délai d’un an à compter du retrait des fonds par le
 
 souscripteur, d’autre part, que, pour le calcul du montant du
-
-31
-
-
 
 prêt, il utilise en outre des intérêts acquis sur son propre
 
@@ -7849,6 +8531,8 @@ souscription de parts de Sociétés Civiles de Placement
 Immobilier (SCPI) pour lesquels le coefficient maximal est
 
 fixé à 1,50. Il est précisé que seuls seront pris en compte
+
+
 
 pour la détermination du prêt d’épargne logement les
 
@@ -7952,8 +8636,6 @@ charge du montant des intérêts acquis sur ce PEL pris en
 
 compte pour le calcul du montant du prêt, ledit pourcentage
 
-
-
 et le montant maximum de la majoration étant fixés par
 
 l’Etat. Seules ouvrent droit au bénéfice de cette majoration,
@@ -7964,7 +8646,7 @@ habituellement au foyer de ce dernier.
 
 
 
-CHAPITRE 10 : LE COMPTE D’EPARGNE LOGEMENT
+CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT
 
 
 
@@ -8001,6 +8683,10 @@ Un CEL peut cependant être ouvert, dans les mêmes
 conditions, au nom de chacun des membres d’une même
 
 famille.
+
+35
+
+
 
 Le Titulaire d’un CEL peut également souscrire un PEL, à
 
@@ -8064,19 +8750,19 @@ relevés mensuels du CEL sont adressées gratuitement par
 
 voie postale.
 
+
+
 Article 3 : Fonctionnement du CEL
 
 
 
 3.1 Les opérations enregistrées sur le CEL sont uniquement
 
-des dépôts ou retraits au profit du Titulaire ou des virements
+des virements initiés par le Titulaire de ou vers son compte
 
-de ou vers son compte bancaire BoursoBank. Aucun
+bancaire BoursoBank. Aucun virement permanent au débit
 
-virement permanent au débit du CEL ne peut être mis en
-
-place.
+du CEL ne peut être mis en place.
 
 
 
@@ -8103,10 +8789,6 @@ nantissement.
 3.5 Les fonds déposés portent intérêts à partir du premier
 
 jour de la quinzaine qui suit le versement, les sommes
-
-32
-
-
 
 retirées cessent de produire intérêts à partir de la fin de la
 
@@ -8155,6 +8837,8 @@ cas de transformation d’un PEL en CEL, le CEL est réputé
 ouvert depuis la date de souscription du PEL, si cette
 
 dernière est plus ancienne, mais les conditions de
+
+
 
 rémunération sont celles en vigueur à la date de
 
@@ -8260,8 +8944,6 @@ au minimum si le prêt a pour objet le financement de travaux
 
 de réparation ou d’amélioration, à 22,5 euros au minimum
 
-
-
 si le prêt est destiné au financement de travaux ayant pour
 
 objet spécifique d’économiser de l’énergie et à 75 euros au
@@ -8309,6 +8991,8 @@ société civile d’attribution ;
 Dans cette seconde hypothèse, les conditions cumulatives
 
 suivantes doivent être remplies :
+
+36
 
 
 
@@ -8412,10 +9096,6 @@ professionnel, dès lors qu'il comporte également l'habitation
 
 principale du bénéficiaire.
 
-33
-
-
-
 Lorsque le logement constitue une résidence principale, il
 
 doit être destiné à celle du bénéficiaire du prêt, d'un
@@ -8465,6 +9145,8 @@ camping-car, de toute autre habitation de même nature
 ainsi que des bateaux et caravanes est donc exclu, sauf à
 
 titre exceptionnel pour les forains et les mariniers.
+
+
 
 Les prêts accordés pour le financement des travaux
 
@@ -8566,8 +9248,6 @@ conformes à la réglementation : toutefois, en cas de
 
 changement de destination du bien, le prêt peut être
 
-
-
 maintenu dès lors qu'il aurait pu être accordé s'il s'était agi
 
 d'une demande initiale de financement.
@@ -8617,6 +9297,10 @@ arrêter le montant d'intérêts acquis à son CEL.
 L'établissement gestionnaire du CEL délivre à l'intéressé un
 
 relevé faisant apparaître le montant des intérêts acquis.
+
+37
+
+
 
 Les intérêts acquis à cette date et non utilisés pourront
 
@@ -8718,10 +9402,6 @@ l'engagement de conserver au bien financé une destination
 
 conforme à la réglementation en vigueur lors de sa
 
-34
-
-
-
 demande de prêt. En cas de financement d'un logement en
 
 indivision, chaque indivisaire peut, le cas échéant,
@@ -8771,6 +9451,8 @@ de prêt, le montant du prêt est versé en deux ou plusieurs
 tranches, à la diligence de l'établissement prêteur. En
 
 aucun cas le montant des versements fractionnés ne peut
+
+
 
 être supérieur aux appels de fonds justifiés par
 
@@ -8872,15 +9554,13 @@ rappelé que, dans le cas où l'emprunteur n'est pas
 
 susceptible d'être assuré, le prêt peut néanmoins être
 
-
-
 accordé si le prêteur estime que les garanties offertes sont
 
 suffisantes.
 
 
 
-CHAPITRE 11 : LE COMPTE A TERME
+CHAPITRE 12 : LE COMPTE A TERME
 
 
 
@@ -8923,6 +9603,8 @@ ouverture de compte.
 
 
 2.2 Dépôt
+
+38
 
 
 
@@ -9022,10 +9704,6 @@ référence, le Titulaire peut solliciter une
 
 demande de dispense par BOURSORAMA de
 
-35
-
-
-
 l’acompte fiscal dû au titre des intérêts versés en
 
 cours d’année. Cette demande prend la forme
@@ -9054,13 +9732,13 @@ potentiellement redevables dans leur pays de résidence
 
 fiscale.
 
-36
+39
 
 
 
-TITRE III – BOURSO BUSINESS :
+TITRE III – BOURSO BUSINESS : LA
 
-LA BANQUE POUR LES PROS
+BANQUE POUR LES PROS
 
 
 
@@ -9350,7 +10028,7 @@ En cas d’insuffisance ou d’absence de provision, le Client
 
 s’expose à un refus de paiement de BOURSORAMA et pour
 
-37
+40
 
 
 
@@ -9640,7 +10318,7 @@ internet dédié www. ciclade.fr sur lequel les démarches à
 
 suivre sont détaillées.
 
-38
+41
 
 
 
@@ -9936,7 +10614,7 @@ Dès le premier refus de paiement motivé par l'absence ou
 
 l'insuffisance de la provision, le Client sera pour une durée
 
-39
+42
 
 
 
@@ -10220,7 +10898,7 @@ Générales. Dans le cadre de sa lutte contre la fraude,
 
 BOURSORAMA se réserve la possibilité de limiter
 
-40
+43
 
 
 
@@ -10516,7 +11194,7 @@ révocation faite par le Client vaut pour toutes les opérations
 
 contraire du Client.
 
-41
+44
 
 
 
@@ -10802,7 +11480,7 @@ Compte business ;
 
 plusieurs créanciers spécifiés.
 
-42
+45
 
 
 
@@ -11084,7 +11762,7 @@ de chaque mandat de prélèvement SEPA interentreprise
 
 via son Espace Client, avant la fin du jour ouvrable
 
-43
+46
 
 
 
@@ -11372,7 +12050,7 @@ pourront souscrire à la nouvelle Carte business que
 
 s’ils souscrivent à la nouvelle offre Bourso Business.
 
-44
+47
 
 
 
@@ -11672,7 +12350,7 @@ présent chapitre.
 
 paiements en devises autres que l’Euro
 
-45
+48
 
 
 
@@ -11970,7 +12648,7 @@ Lorsque BOURSORAMA est informée du décès du
 
 représentant légal ou de l’entrepreneur individuel, elle
 
-46
+49
 
 
 
@@ -12258,7 +12936,7 @@ la date à laquelle les fonds ont été débités.
 
 Article 10 : Durée du contrat et résiliation
 
-47
+50
 
 
 
@@ -12276,9 +12954,9 @@ de la Carte business prend effet immédiatement, sauf
 
 dénouement des opérations en cours. La résiliation sera
 
-formalisée par BOURSORAMA par l’envoie au Titulaire
+formalisée par BOURSORAMA par l’envoi au Titulaire d’un
 
-d’un email de confirmation.
+email de confirmation.
 
 
 
@@ -12518,21 +13196,19 @@ trimestriellement par le débit du Compte PRO.
 
 Le taux est susceptible de varier. En cas de variation, le
 
-Client en est informé par tout moyen (sur le Site ou par
+Client en est informé par tout moyen avec un préavis de
 
-courriel ou par courrier ou tout autre support) avec un
+deux mois. Son silence à l’issue de cette période de deux
 
-préavis de deux mois. Son silence à l’issue de cette période
+mois suivant l’information vaut accord de ce dernier sur les
 
-de deux mois suivant l’information vaut accord de ce dernier
+nouvelles conditions. En cas de refus du nouveau taux par
 
-sur les nouvelles conditions. En cas de refus du nouveau
+le Client, notifié par écrit à BOURSORAMA pendant le délai
 
-taux par le Client, notifié par écrit à BOURSORAMA
+de préavis, le découvert autorisé sera résilié sans autre
 
-pendant le délai de préavis, le découvert autorisé sera
-
-résilié sans autre préavis ni indemnité.
+préavis ni indemnité.
 
 
 
@@ -12552,11 +13228,11 @@ autorisé durant une brève période. La facilité de caisse ainsi
 
 consentie ne pourra en aucun cas être assimilée à une
 
-48
-
-
-
 autorisation de découvert ou à une augmentation du
+
+51
+
+
 
 plafond de celle-ci et il pourra y être mis fin par
 
@@ -12838,7 +13514,7 @@ L’ouverture d’un Compte sur Livret Pro est exclusivement
 
 réservée aux Titulaires d’un Compte PRO.
 
-49
+52
 
 
 
@@ -12924,7 +13600,7 @@ susceptible de varier à tout moment. BOURSORAMA
 
 informe le Client des modifications du taux et de sa date
 
-d’entrée en vigueur par tout moyen à sa convenance.
+d’entrée en vigueur par tout moyen.
 
 
 
@@ -12988,7 +13664,7 @@ Cette déclaration est valable jusqu’au 31 décembre de
 
 l’année suivant celle au cours de laquelle elle est faite.
 
-50
+53
 
 
 
@@ -13282,7 +13958,7 @@ sélection des Négociateurs, l’évaluation et l’adéquation des
 
 caractères appropriés des produits ou services fournis.
 
-51
+54
 
 
 
@@ -13590,7 +14266,7 @@ acquérir des titres,
 
 couvertures requises,
 
-52
+55
 
 
 
@@ -13674,15 +14350,13 @@ supporter tous les coûts, tels les intérêts débiteurs.
 
 
 
-BOURSORAMA met en demeure, par tout moyen (courriel,
+BOURSORAMA met en demeure, par tout moyen, le
 
-téléphone, message sur le Site, ou tout autre), le Titulaire
+Titulaire d'avoir à régulariser le solde espèces débiteur de
 
-d'avoir à régulariser le solde espèces débiteur de son
+son compte. A défaut de complément ou de reconstitution
 
-compte. A défaut de complément ou de reconstitution du
-
-solde espèces un jour de bourse suivant la mise en
+du solde espèces un jour de bourse suivant la mise en
 
 demeure, BOURSORAMA aura le droit de compenser cette
 
@@ -13724,6 +14398,10 @@ la limite des sommes à recouvrer.
 
 
 
+Article 6 : Transmission des Ordres
+
+
+
 1 L'ordre à seuil de déclenchement est celui par lequel le
 
 Titulaire se porte soit acheteur à partir d'un cours et au-delà,
@@ -13739,10 +14417,6 @@ acheteur ou vendeur à partir d'un prix déterminé, à ce prix
 et jusqu'à la limite Maxi s'il s'agit d'un achat, à ce prix et
 
 jusqu'à la limite Mini s'il s'agit d'une vente. Il devient un ordre
-
-
-
-Article 6 : Transmission des Ordres
 
 
 
@@ -13872,6 +14546,8 @@ ont un fonctionnement spécifique sur la solution de
 
 négociation Direct Emetteurs. Ils se déclenchent en fonction
 
+du Bid et de l’Ask (prix d’achat et de vente) fournis en
+
 
 
 " limité" (au cours Maxi pour un achat, au cours Mini pour
@@ -13890,11 +14566,9 @@ au dernier cours coté pour un achat, inférieur au dernier
 
 cours coté pour une vente.
 
-53
+56
 
 
-
-du Bid et de l’Ask (prix d’achat et de vente) fournis en
 
 permanence par les émetteurs et non du Midprice
 
@@ -14043,8 +14717,6 @@ fixing, tant d’ouverture que de clôture.
 6.4 Le Titulaire doit fixer la durée de validité de l'ordre en
 
 respectant la réglementation attachée au marché choisi. A
-
-
 
 défaut d'indication de durée, l'ordre est réputé à validité jour,
 
@@ -14198,11 +14870,11 @@ La présente politique d’exécution des ordres et de sélection
 
 des négociateurs (ci-après la « Politique ») définit les
 
-54
-
-
-
 grands principes que doit respecter BOURSORAMA vis-à-
+
+57
+
+
 
 vis de ses Clients ainsi que les modalités pratiques
 
@@ -14430,14 +15102,6 @@ ordre est la suivante :
 
 
 
-De manière non exhaustive, les lieux d’exécution vers
-
-lesquels les Négociateurs sélectionnés pourront faire
-
-exécuter les ordres des clients sont les suivants :
-
-
-
 Instruments Négociateurs Marchés
 
 Actions,
@@ -14448,25 +15112,45 @@ ETF
 
 
 
-Gilbert Dupont
-
-/ Société
+Société
 
 Générale SA
 
+Euronext Paris, Bruxelles,
+
+Amsterdam et Lisbonne
+
+Euronext Access
+
+Euronext Growth
 
 
-Marchés Euronext Paris
 
-Marchés Euronext
+SG SA en sa qualité
 
-Marchés Européens
-
+d’internalisateur systématique
 
 
-SG SA en sa qualité d’internalisateur
 
-systématique
+Bernstein
+
+Institutional
+
+Services LLC
+
+(« BIS »)
+
+
+
+Bourse de Milan
+
+XETRA
+
+Bourse de Madrid
+
+SWX Swiss
+
+London Stock Exhange
 
 
 
@@ -14476,21 +15160,19 @@ américaines
 
 
 
-Société
+Bernstein
 
-Générale
+Institutional
 
-Americas
+Services LLC
 
-Securities
+(« BIS »)
 
 
 
-Marché américain, le négociateur en
+NYSE
 
-sa qualité d’internalisateur
-
-systématique
+NASDAQ
 
 
 
@@ -14500,25 +15182,23 @@ Certificats
 
 
 
-Direct
-
-émetteurs
-
-L'émetteur du produit en sa qualité
+Direct émetteurs L'émetteur du produit en sa qualité
 
 d'internalisateur systématique
 
-Gilbert Dupont
+Société
 
-/ Société
+Générale SA Euronext access
 
-Générale SA
-
-Euronext access Paris
-
-55
+58
 
 
+
+De manière non exhaustive, les lieux d’exécution vers
+
+lesquels les Négociateurs sélectionnés pourront faire
+
+exécuter les ordres des clients sont les suivants :
 
 - Les marchés réglementés (tels que les marchés de la
 
@@ -14686,6 +15366,8 @@ NYSE
 
 NASDAQ
 
+
+
 Le négociateur, en
 
 sa qualité
@@ -14850,6 +15532,10 @@ Son application pourra être suspendue ou altérée en cas de
 
 perturbations sévères du fonctionnement des marchés
 
+59
+
+
+
 financiers, ou en cas d’indisponibilité ou de défaillance des
 
 systèmes d’accès aux lieux d’exécution ou de transmission
@@ -14861,10 +15547,6 @@ des ordres.
 Enfin, BOURSORAMA ne pourra être redevable de la
 
 meilleure exécution si les systèmes de Bourses, systèmes
-
-56
-
-
 
 multilatéraux de négociation, intermédiaires auxquels
 
@@ -15018,8 +15700,6 @@ l’OPC visé, s’agissant notamment des heures de passage
 
 des ordres.
 
-
-
 9.4 Pour toute demande de souscription ou de rachat, la
 
 valeur liquidative retenue des parts ou actions des OPC
@@ -15156,6 +15836,8 @@ prix de revient moyen pondéré, puis ensuite par multiple de
 
 Article 12 : Opérations sur titres
 
+60
+
 
 
 BOURSORAMA ne peut être tenue responsable des
@@ -15169,10 +15851,6 @@ centraux français ou étrangers. A compter de la date du
 transfert de propriété, le Titulaire peut exercer l'ensemble
 
 des droits attachés à ses titres dans les conditions stipulées
-
-57
-
-
 
 par la réglementation en vigueur sur le marché ou dans le
 
@@ -15314,6 +15992,8 @@ espèces et/ou les titres obtenus en réponse à cet ordre
 
 global seront répartis proportionnellement aux quantités
 
+
+
 indiquées dans chaque instruction individuelle. Dans le cas
 
 où la quantité de titres obtenue ne permettrait pas de servir
@@ -15325,8 +16005,6 @@ Titulaire recevra une indemnité en espèces soumise à
 l'impôt sur le revenu ou à l'impôt sur les sociétés selon les
 
 cas. Les quantités de droits ou de titres à acheter ou à
-
-
 
 vendre sont déterminées en fonction du solde constaté sur
 
@@ -15468,6 +16146,10 @@ limite de dépôt des attestations d'immobilisation le Titulaire
 
 se dessaisit de ses titres, BOURSORAMA demande
 
+61
+
+
+
 l'annulation de tous les documents fournis. A compter de la
 
 date limite de dépôt des attestations et jusqu'au lendemain
@@ -15477,10 +16159,6 @@ de l'assemblée, le Titulaire ne peut ni vendre ni transférer
 les titres détenus. BOURSORAMA rend les titres
 
 disponibles le lendemain de l'assemblée ou à l'issue de la
-
-58
-
-
 
 dernière assemblée en cas d'assemblées successives
 
@@ -15622,6 +16300,8 @@ inscrits au(x) Compte(s) d'Instruments Financiers et au(x)
 
 compte(s) espèces rattaché(s) du Titulaire est affecté de
 
+
+
 plein droit à titre de garantie des engagements du Titulaire
 
 sur les marchés financiers.
@@ -15631,8 +16311,6 @@ sur les marchés financiers.
 14.4 Dans le cas où le Compte d’Instruments Financiers du
 
 Titulaire ferait apparaître un découvert en instruments
-
-
 
 financiers pour quelque raison que ce soit, le Titulaire sera
 
@@ -15774,6 +16452,10 @@ Si le Titulaire s’aperçoit que la notification visée aux alinéas
 
 précédents adressée par BOURSORAMA n’est pas
 
+62
+
+
+
 disponible dans son Espace Client, il est invité à l’en
 
 informer dans un délai de 72 heures à compter de
@@ -15783,10 +16465,6 @@ l'exécution de l'ordre. BOURSORAMA lui adressera alors
 un nouvel avis d'opéré. En l’absence de réclamation de sa
 
 part dans un délai de 72 heures à compter de la réception
-
-59
-
-
 
 de la notification, toute opération mentionnée dans l’avis
 
@@ -15928,6 +16606,8 @@ sont soumis à l’impôt sur le revenu recouvré par voie de
 
 rôle, au taux forfaitaire prévu par la réglementation ou, sur
 
+
+
 option globale du contribuable sur sa déclaration de
 
 revenus, au barème progressif de l’impôt sur le revenu.
@@ -15937,8 +16617,6 @@ revenus, au barème progressif de l’impôt sur le revenu.
 Ces produits sont crédités en compte après application de
 
 la fiscalité à la source imposée par la législation. Lors de
-
-
 
 leur inscription en compte, ces produits sont soumis aux
 
@@ -16078,6 +16756,10 @@ compte propre ;
 
 dont il dépend et à signaler à BOURSORAMA tout
 
+63
+
+
+
 changement de domicile ainsi que l’adresse du centre des
 
 impôts dont il dépendrait suite à ce changement ;
@@ -16089,10 +16771,6 @@ de récupérations qu'à condition que le montant à restituer
 soit supérieur à un montant minimum par pays (variable
 
 selon les pays) ;
-
-60
-
-
 
 - est informé que ce minimum, ainsi que la commission
 
@@ -16246,8 +16924,6 @@ communiqués par l’établissement émetteur du virement de
 
 titres.
 
-
-
 En cas de désaccord, il appartient au Client de
 
 communiquer sous sa responsabilité à BOURSORAMA le
@@ -16386,6 +17062,10 @@ avoir préalablement remis le formulaire US « Form W-9 »
 
 il mandate expressément et irrévocablement
 
+64
+
+
+
 BOURSORAMA pour procéder à la vente desdits titres.
 
 L’ensemble des frais et le cas échéant des impôts liés à
@@ -16399,10 +17079,6 @@ supportés par le Client.
 BOURSORAMA ne saurait être responsable des
 
 conséquences liées à ces cessions réalisées sur mandat du
-
-61
-
-
 
 Client et en vue de se conformer à la réglementation
 
@@ -16552,8 +17228,6 @@ ordre peut être transmis et exécuté jusqu'au jour dit de
 
 avant la fin du mois. La "période de liquidation" d'une
 
-
-
 liquidation finissante débute le jour de la liquidation
 
 générale et se termine le dernier jour de bourse du mois par
@@ -16686,6 +17360,8 @@ de vente, et ce, en application des règles de fonctionnement
 
 d'Euronext Paris.
 
+65
+
 
 
 L’autorisation de transmission d’ordres avec SRD peut être
@@ -16703,10 +17379,6 @@ limiter le montant maximum des positions globales
 détenues au SRD sur un même compte ou pour un même
 
 Titulaire, ce que ce dernier accepte expressément.
-
-62
-
-
 
 BOURSORAMA pourra également limiter le montant des
 
@@ -16842,6 +17514,8 @@ moment, une couverture supérieure au montant minimum
 
 imposé par l’AMF. Dans ce cas, la majoration prendra effet
 
+
+
 : dans un délai minimum de 1 (un) jour de bourse suivant la
 
 mise en ligne de l'information sur le Site.
@@ -16857,8 +17531,6 @@ BOURSORAMA pourra, par ailleurs, exiger la constitution
 d'une couverture exclusivement en espèces pouvant aller
 
 jusqu'à la totalité de l'engagement à terme du Titulaire. Le
-
-
 
 Titulaire autorise expressément BOURSORAMA à virer les
 
@@ -16880,27 +17552,25 @@ aux dispositions réglementaires précitées et aux règles
 
 propres à BOURSORAMA. Faute du respect de cette règle,
 
-BOURSORAMA met en demeure, par tout moyen
+BOURSORAMA met en demeure, par tout moyen, le
 
-(directement sur le Site ou par téléphone, ou par courriel,
+Titulaire d'avoir à compléter ou reconstituer la couverture
 
-ou tout autre), le Titulaire d'avoir à compléter ou reconstituer
+dans le délai d'un jour d'ouverture du marché. A défaut de
 
-la couverture dans le délai d'un jour d'ouverture du marché.
+complément ou de reconstitution de la couverture dans le
 
-A défaut de complément ou de reconstitution de la
+délai requis, BOURSORAMA aura le droit d'opérer, à son
 
-couverture dans le délai requis, BOURSORAMA aura le
+choix, sur les engagements d'OSRD du Titulaire sans qu'il
 
-droit d'opérer, à son choix, sur les engagements d'OSRD du
+soit besoin d'une autre mise en demeure préalable, les
 
-Titulaire sans qu'il soit besoin d'une autre mise en demeure
+réductions nécessaires sur les engagements du Titulaire
 
-préalable, les réductions nécessaires sur les engagements
+pour retrouver une couverture suffisante. Les frais de
 
-du Titulaire pour retrouver une couverture suffisante. Les
-
-frais de courtage auxquels donnerait lieu l'exécution desdits
+courtage auxquels donnerait lieu l'exécution desdits
 
 engagements d'OSRD seront à la charge du Titulaire.
 
@@ -16996,13 +17666,15 @@ une commission spécifique, telle que spécifiée dans le
 
 relevé de liquidation et la Brochure Tarifaire.
 
+66
+
+
+
 A ces commissions s'ajoutent les commissions ordinaires
 
 de réception, de transmission et de traitement des ordres
 
 de bourse, tels que mentionnées dans la Brochure Tarifaire.
-
-63
 
 
 
@@ -17068,17 +17740,21 @@ Afin d’être pris en charge, tout dossier de souscription ou
 
 de cession de titres non cotés doit être réceptionné complet
 
-par Boursorama au moins deux jours ouvrés avant la date
-
-de fin de l’opération. Dans le cas contraire Boursorama se
+par Boursorama. Dans le cas contraire Boursorama se
 
 réserve le droit de refuser le dossier.
 
 
 
-Tout dossier de souscription de titres non cotés doit être de
+Tout dossier de souscription de titres non cotés doit être
 
-500 euros minimum.
+d’un montant minimum. Ce montant minimum est
+
+consultable à tout moment dans l’Espace Client et dans
+
+l’espace non connecté du site de BoursoBank sur les pages
+
+PEA ou PEA-PME.
 
 
 
@@ -17139,6 +17815,8 @@ suivantes.
 • Retraits après la 5ème année : Le PEA ou PEA-PME peut
 
 continuer à fonctionner (arbitrages possibles, encaissement
+
+
 
 des revenus, le tout en exonération d'impôt). Les retraits
 
@@ -17284,6 +17962,8 @@ Profilée avant de pouvoir clôturer son PEA.
 
 Article 8 : Transfert vers un autre établissement
 
+67
+
 
 
 Le Titulaire peut transférer, sans conséquences fiscales,
@@ -17299,10 +17979,6 @@ transmission du RIB du compte destinataire. Les formalités
 de transfert de compte s’effectuent directement auprès de
 
 l’organisme destinataire. Les frais de transfert sont
-
-64
-
-
 
 mentionnés dans la Brochure Tarifaire. Ces frais seront
 
@@ -17441,6 +18117,8 @@ Article 3 : Investissements en titres éligibles
 Le Titulaire gère lui-même les sommes versées dans le
 
 PEA. Il procède, sous sa responsabilité, à leur
+
+
 
 investissement en titres éligibles (ci-après " les Titres
 
@@ -17592,6 +18270,10 @@ Le PEA Profilé est une part du PEA investie en totalité dans
 
 un seul fonds (ci-après le « Fonds »), en fonction d’un profil
 
+68
+
+
+
 d’investisseur sélectionné par le Client parmi les quatre
 
 suivants (le « Profil ») :
@@ -17603,10 +18285,6 @@ i. PEA Profil Prudent
 L’objectif de gestion du Fonds est d’offrir une
 
 performance annualisée supérieure à celle de
-
-65
-
-
 
 l’€STR Capitalisé, après prise en compte des frais
 
@@ -17734,6 +18412,8 @@ A ce titre, le Client est tenu de communiquer à
 
 BOURSORAMA des informations exactes et actualisées
 
+
+
 sur sa situation personnelle et patrimoniale, son appétence
 
 au risque et sur ses objectifs d’investissement permettant à
@@ -17747,8 +18427,6 @@ au mieux aux besoins du Client. En l’absence
 d’informations suffisantes, BOURSORAMA s’abstiendra de
 
 fournir un conseil au Client.
-
-
 
 Le Client s’engage à informer BOURSORAMA via son
 
@@ -17886,13 +18564,13 @@ le compte espèces du PEA du Titulaire dans les délais
 
 habituels de règlement livraison.
 
+69
+
 
 
 5 .4 Le rachat total du PEA Profilé n’entrainera pas la
 
 clôture du PEA du Titulaire.
-
-66
 
 
 
@@ -18190,15 +18868,15 @@ valeur ne serait pas publique, disponible et vérifiable
 
 (notamment pour les valeurs étrangères et les valeurs non
 
+70
+
+
+
 côtées) le Client devra remettre à BOURSORAMA un
 
 justificatif émanant de la société émettrice, attestant de
 
 l’éligibilité de cette valeur au PEA-PME. Dans la mesure où
-
-67
-
-
 
 l’administration fiscale est en droit de contrôler que la
 
@@ -18342,13 +19020,13 @@ L’objectif de gestion du Fonds est de surperformer
 
 son indicateur de référence (45% EONIA + 40% JP
 
+
+
 Morgan Global Euro Hedged dividendes réinvestis
 
 + 15% MSCI World dividendes réinvestis) au
 
 travers d’investissements sur les marchés de taux
-
-
 
 et d’actions, principalement via des OPCVM sur les
 
@@ -18488,11 +19166,13 @@ espace personnel en cas de tout changement de sa
 
 situation. En cas de changement de situation du Client porté
 
+71
+
+
+
 à la connaissance de BOURSORAMA par tous moyens,
 
 celle-ci pourra effectuer une nouvelle évaluation.
-
-68
 
 
 
@@ -18640,13 +19320,13 @@ Client, à tout moment et sans frais, des rachats partiels.
 
 sans que ce montant ne puisse dépasser 90% de l’épargne
 
+
+
 atteinte. Au-delà de cette somme, l’opération sera
 
 considérée comme un rachat total, tel que décrit à l’article 6
 
 du présent Chapitre.
-
-
 
 En cas de circonstances exceptionnelles, et de manière
 
@@ -18792,19 +19472,19 @@ d’Assurance Vie proposé par BOURSORAMA est soumis
 
 aux présentes Conditions Générales. Toutefois, en cas de
 
+72
+
+
+
 contradiction entre les présentes Conditions Générales et
 
 un document remis et/ou signé par le souscripteur/assuré à
-
-69
-
-
 
 un Contrat d’Assurance Vie, ledit document remis et/ou
 
 signé primera.
 
-70
+73
 
 
 
@@ -19110,7 +19790,7 @@ Dès lors que lui est signalé le caractère prétendument illicite
 
 ou indélicat d'un Contenu dans les conditions prévues au
 
-71
+74
 
 
 
@@ -19418,7 +20098,7 @@ Comptes Internes et Externes. Le Client peut à tout moment
 
 ajouter ou supprimer un Compte Externe du Service
 
-72
+75
 
 
 
@@ -19702,7 +20382,7 @@ responsabilité du Client qui reconnait avoir le droit de les
 
 utiliser pour l’usage décrit aux présentes. Le Client
 
-73
+76
 
 
 
@@ -19994,7 +20674,7 @@ recommandation concernant les produits ou services de
 
 ces établissements.
 
-74
+77
 
 
 
@@ -20298,7 +20978,7 @@ Article 5 : The Corner
 
 Préambule
 
-75
+78
 
 
 
@@ -20602,7 +21282,7 @@ générales de vente propres à chaque Partenaire, qui
 
 doivent être acceptées par le Client lors de chaque achat.
 
-76
+79
 
 
 
@@ -20908,7 +21588,7 @@ clients.
 
 5.15 Classement des Offres
 
-77
+80
 
 
 
@@ -20920,15 +21600,23 @@ sein des univers.
 
 
 
-Certaines Offres sont mises en avant dans l’univers « A la
+Certaines Offres sont mises en avant de manière
 
-une » de manière temporaire, notamment lorsqu’il s’agit
+temporaire, dans les rubriques « A la une », « Nos coups
 
-d’un nouveau Partenaire, d’un changement d’Offre, d’une
+de cœur » et dans le carrousel de logo sur la page d’accueil
 
-Offre liée à une opération spéciale (soldes, Black Friday,
+de The Corner ainsi qu’en position préférentielle au sein des
 
-French Days, etc...).
+univers, en fonction des critères suivants : meilleures
+
+ventes, importance de la réduction annoncée, notoriété d’un
+
+Partenaire nouveau Partenaire intégrant le service,
+
+changement d’une Offre, Offre liée à une opération spéciale
+
+(soldes, Black Friday, French Days, etc...).
 
 
 
@@ -20937,6 +21625,20 @@ Suite à une recherche via le moteur de recherche intégré
 dans The Corner, les résultats sont classés en fonction du
 
 taux de correspondance le plus élevé avec la requête.
+
+
+
+Les Partenaires ont la possibilité de bénéficier d’un
+
+dispositif marketing payant pour voir leurs Offres mises en
+
+avant au sein de The Corner : position préférentielle au sein
+
+des univers, mise en avant dans les rubriques « A la une »
+
+et « Nos coups de cœur », mise en avant sur la page
+
+d’accueil de The Corner.
 
 
 
@@ -21156,7 +21858,7 @@ considérées, à son égard, comme définitivement
 
 approuvées.
 
-78
+81
 
 
 
@@ -21316,7 +22018,7 @@ Les sommes inscrites sur les Livrets A, les LDDS (LDDS) et les livrets d’épar
 
 du plafond cumulé de 100 000 € applicable aux autres comptes. Cette garantie porte sur les sommes déposées sur l’ensemble
 
-79
+82
 
 
 
@@ -21386,7 +22088,7 @@ projet de contrat ou Convention, il est accusé réception à l’occasion de la
 
 à l’occasion de l’envoi annuel du formulaire postérieurement à la conclusion du contrat ou de la Convention.
 
-80
+83
 
 
 
@@ -21538,7 +22240,7 @@ nombre d’Appareil Compatible de l’Utilisateur. Le fonctionnement du Portefeu
 
 Réseau
 
-81
+84
 
 
 
@@ -21694,7 +22396,7 @@ qu’en appuyant sur Accepter il manifeste son consentement au contenu des prés
 
 Le Contrat devient définitif quatorze jours calendaires révolus après son acceptation par l’Utilisateur.
 
-82
+85
 
 
 
@@ -21842,7 +22544,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « In App » et « Web » :
 
-83
+86
 
 
 
@@ -21900,7 +22602,7 @@ Plusieurs cas de blocage peuvent se produire :
 
 2\. Lorsque l’Utilisateur fait opposition à une Carte physique
 
-3\. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
+3. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
 
 4\. Lorsque l’Utilisateur souhaite retirer une Carte de son Portefeuille.
 
@@ -21998,7 +22700,7 @@ ARTICLE 8 – RESPONSABILITE DE l’EMETTEUR
 
 mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Apple Pay.
 
-84
+87
 
 
 
@@ -22148,7 +22850,7 @@ L’Emetteur se réserve le droit d'apporter toutes modifications et notamment d
 
 financières aux présentes conditions générales d’utilisation. L’Utilisateur sera informé par tout moyen de tout projet de modification
 
-85
+88
 
 
 
@@ -22206,7 +22908,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 61, rue Taitbout 75436 Paris Cedex 09.
 
-86
+89
 
 
 
@@ -22350,7 +23052,7 @@ Samsung Pay, quel que soit le nombre d’Appareil Compatible de l’Utilisateur.
 
 responsabilité de Samsung.
 
-87
+90
 
 
 
@@ -22502,7 +23204,7 @@ ou les Emetteurs concernées, conformément au présent article.
 
 L’Utilisateur demande l’exécution immédiate du Service.
 
-88
+91
 
 
 
@@ -22650,7 +23352,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « Web » ou « In-App »
 
-89
+92
 
 
 
@@ -22806,7 +23508,7 @@ ne pouvant matériellement garantir leur parfait fonctionnement qui est sous la 
 
 accepte.
 
-90
+93
 
 
 
@@ -22956,7 +23658,7 @@ des présentes conditions au plus tard deux (2) mois avant la date d’applicati
 
 modifierait certaines modalités d’utilisation du Service dans un délai plus court.
 
-91
+94
 
 
 
@@ -23010,7 +23712,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-92
+95
 
 
 
@@ -23140,7 +23842,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Google Pay.
 
-93
+96
 
 
 
@@ -23282,7 +23984,7 @@ Google Pay et ce, à des fins et dans les conditions définies par les règles d
 
 avoir préalablement pris connaissance.
 
-94
+97
 
 
 
@@ -23428,7 +24130,7 @@ Une fois cette authentification réalisée, et dans la mesure où l'Emetteur a a
 
 ainsi, l'ordre de paiement par Carte est irrévocable.
 
-95
+98
 
 
 
@@ -23576,7 +24278,7 @@ conséquences de telles demandes de retrait ni de toute autre demande de retrait
 
 relevant de la seule responsabilité de Google.
 
-96
+99
 
 
 
@@ -23722,7 +24424,7 @@ deux (2) mois à compter de la date d'envoi de cette notification à l'Utilisate
 
 du Client, la résiliation sera effectuée sans préavis.
 
-97
+100
 
 
 
@@ -23828,7 +24530,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-98
+101
 
 
 
@@ -23954,7 +24656,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Garmin Pay.
 
-99
+102
 
 
 
@@ -24096,7 +24798,7 @@ et que toutes les utilisations du Service Garmin Pay sont réputées avoir été
 
 L’Utilisateur accepte l’enregistrement informatique par BOURSORAMA des connexions et opérations réalisées au travers du
 
-100
+103
 
 
 
@@ -24246,7 +24948,7 @@ relevé que les opérations de paiement par carte réalisées par l'Utilisateur 
 
 ARTICLE 7 – MODALITÉS DE BLOCAGE DU SERVICE GARMIN PAY
 
-101
+104
 
 
 
@@ -24398,7 +25100,7 @@ SIM, de ses codes d'activation, ou code secret, de son Appareil Compatible,
 
 Portefeuille, suite à la perte, au vol ou à l'utilisation frauduleuse des Identifiants et Mot de passe liés à sa (ses) carte(s).
 
-102
+105
 
 
 
@@ -24538,7 +25240,7 @@ l'utilisation du Service avant l'expiration de ce délai de 14 jours vaut demand
 
 présentes Conditions Générales.
 
-103
+106
 
 
 
@@ -24576,7 +25278,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-104
+107
 
 
 
@@ -24696,7 +25398,7 @@ Distributeur / Emetteur
 
 Désigne l’établissement de crédit, à savoir BOURSORAMA, qui a délivré la(les) Carte(s) à l’Utilisateur et qui propose Fitbit Pay.
 
-105
+108
 
 
 
@@ -24814,7 +25516,7 @@ L’Utilisateur n’a pas la possibilité de faire figurer dans le Portefeuille 
 
 Contrat.
 
-106
+109
 
 
 
@@ -24948,7 +25650,7 @@ s'assurer que la fonction sans contact (NFC) de son Appareil Compatible est bien
 
 de proximité ».
 
-107
+110
 
 
 
@@ -25086,7 +25788,7 @@ situation.
 
 7.5 - L'Emetteur ou l'Utilisateur peuvent suspendre temporairement l'utilisation d'une Carte enregistrée dans le Portefeuille. Elle
 
-108
+111
 
 
 
@@ -25224,7 +25926,7 @@ les cas suivants :
 
 - Survenance d’une faille de sécurité.
 
-109
+112
 
 
 
@@ -25322,7 +26024,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-110
+113
 
 
 
@@ -25460,7 +26162,7 @@ dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts, d
 
 les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
-111
+114
 
 
 
@@ -25598,7 +26300,7 @@ Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origi
 
 prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
 
-112
+115
 
 
 
@@ -25742,7 +26444,7 @@ sociétés de capital-risque, ou des sociétés qui réalisent des prestations d
 
 sociétés de capital-risque, lors de la cession ou du rachat de parts de fonds communs de placement à risques ou de fonds
 
-113
+116
 
 
 
@@ -25886,7 +26588,7 @@ mandat social ;
 
 laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le
 
-114
+117
 
 
 
@@ -26026,7 +26728,7 @@ portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes act
 
 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0
 
-115
+118
 
 
 
@@ -26168,7 +26870,7 @@ date de la cession ;
 
 3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins huit ans à la date de la cession.
 
-116
+119
 
 
 
@@ -26310,7 +27012,7 @@ a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits pa
 
 souscription de ces actions, parts, droits ou titres par la fiducie ;
 
-117
+120
 
 
 
@@ -26454,7 +27156,7 @@ but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le sous
 
 contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
 
-118
+121
 
 
 
@@ -26600,7 +27302,7 @@ dans les conditions mentionnées au 11, l'année au cours de laquelle intervient
 
 exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise
 
-119
+122
 
 
 
@@ -26736,7 +27438,7 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
-120
+123
 
 
 
@@ -26878,7 +27580,7 @@ conditions et limites prévues à l'article L. 221-27 du code monétaire et fina
 
 9° quinquies (Abrogé).
 
-121
+124
 
 
 
@@ -27016,7 +27718,7 @@ intermédiaires.
 
 23° (Abrogé).
 
-122
+125
 
 
 
@@ -27166,7 +27868,7 @@ comme suit :
 
 déterminé conformément au A du IV de l'article 10 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013 ;
 
-123
+126
 
 
 
@@ -27300,7 +28002,7 @@ est passible d'une amende fiscale égale à 2 % du montant des versements surnum
 
 \* \*
 
-124
+127
 
 
 
@@ -27440,7 +28142,7 @@ c) De parts ou actions d'organismes de placement collectif en valeurs mobilière
 
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 
-125
+128
 
 
 
