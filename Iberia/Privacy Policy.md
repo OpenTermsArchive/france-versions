@@ -427,20 +427,45 @@ Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence 
 
 #### Versions précédentes
 
-[Politique de confidentialité en vigueur du 30/06/2023 au 15/12/2023](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477837959319&origin=6477837959319&modalTitle=Versi%C3%B3n+del+30-06-2023&url=%23&d= "Versión del 30-06-2023")
+  
+  
 
-[Politique de confidentialité en vigueur du 22/07/2022 au 30/06/2023](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477718873822&origin=6477718873822&modalTitle=Versi%C3%B3n+del+27-07-2022&url=%23&d= "Versión del 27-07-2022")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477718873822  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 10/05/2022 au 22/07/2022](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477634947648&origin=6477634947648&modalTitle=Versi%C3%B3n+del+10-05-2022&url=%23&d= "Versión del 10-05-2022")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477634947648  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 05/07/2021 au 10/05/2022](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477627165208&origin=6477627165208&modalTitle=Politique+de+confidentialit%C3%A9+en+vigueur+du+05%2F07%2F2021+au+10%2F05%2F2022&url=%23&d= "Politique de confidentialité en vigueur du 05/07/2021 au 10/05/2022")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477627165208  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 25/06/2020 au 05/07/2021](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477617016116&origin=6477617016116&modalTitle=Politique+de+confidentialit%C3%A9+en+vigueur+du+25%2F06%2F2020+au+05%2F07%2F2021&url=%23&d= "Politique de confidentialité en vigueur du 25/06/2020 au 05/07/2021")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477617016116  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 14/05/2020 au 25/05/2020](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477605245607&origin=6477604740040&modalTitle=Version+du+14%2F05%2F2020&url=%23&d= "Version du 14/05/2020")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477604740040  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 20/09/2019 au 14/05/2020](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477603455607&origin=6477603455113&modalTitle=Voir+la+version+du+21%2F09%2F2019&url=%23&d= "Voir la version du 21/09/2019")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477603455113  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur du 25/05/2018 au 20/09/2019](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477595290069&origin=6477594946894&modalTitle=Voir+la+version+du+25%2F05%2F2018&url=%23&d= "Voir la version du 25/05/2018")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477594946894  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
 
-[Politique de confidentialité en vigueur jusqu'au 25/05/2018](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477595251044&origin=6477595182946&modalTitle=Voir+la+version+ant%C3%A9rieure+au+25%2F05%2F2018&url=%23&d= "Voir la version antérieure au 25/05/2018")
+_The embedded asset does not exist:  
+Asset Type: CustomLink\_C  
+Asset Id: 6477595182946  
+PAGENAME: IberiaCOM/CustomLink\_C/IB\_TP\_insert\_CKE_
