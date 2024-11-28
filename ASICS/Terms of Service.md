@@ -254,3 +254,25 @@ Conditions d'Utilisation
     Nous nous réservons le droit de modifier ces conditions d'utilisation à tout moment. Toute modification prendra effet dès sa publication sur le site web. Il vous appartient de consulter ces conditions d'utilisation régulièrement pour vous informer sur les modifications.
     
     En passant une commande différée, vous reconnaissez avoir lu, compris et accepté ces conditions générales.
+    
+* [ASICS OUTLET BLACK FRIDAY 2024](# "Open <span style="color:#001e63;">ASICS OUTLET BLACK FRIDAY 2024</span>")
+    
+    ### Black Friday: Jusqu'à 40 % de réduction sur une sélection d'articles pour tout achat de plus de 30 €\*
+    
+    **1\. Dates**  
+    L'offre est uniquement valable le jeudi 28 novembre 2024 de 2 h 00 CET jusqu'au 2 décembre à 23 h 59 CET.
+    
+    **2\. Articles concernés**  
+    L'offre est valable sur les articles sélectionnés sur outlet.asics.com pour tout achat d'une valeur totale de 30 € ou plus. L'offre n'est pas valable pour les achats sur www.asics.com ou sur des sites tiers.
+    
+    **3\. Promotion**  
+    En dépensant un montant minimum de 30 € lors d'une seule transaction, le consommateur recevra une réduction correspondant à l'offre affichée sur la page individuelle du produit.
+    
+    **4\. Retours**  
+    La politique de retour habituelle d'ASICS Outlet s'appliquera à tous les achats effectués dans le cadre de cette promotion. La valeur du remboursement correspondra à la valeur d'achat payée par le consommateur pour tous les articles.
+    
+    **5\. Garantie**  
+    Cette promotion n'annulera pas la garantie et la garantie du produit restera valide pour tous les articles achetés pendant cette promotion.
+    
+    **6\. Autres**  
+    ASICS se réserve le droit d'arrêter/de modifier cette promotion à tout moment. Les conditions générales restent applicables pour tous les achats effectués sur outlet.asics.com.
