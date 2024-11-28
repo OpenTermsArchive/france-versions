@@ -162,7 +162,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
-    * [Tendance Y2K](https://www.printemps.com/fr/fr/edito-style-tendance-y2k-2000?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-y2k)
+    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-y2k)
     * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
@@ -181,7 +181,7 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
-* [![](https://media-cdn.printemps.com/image/80/6/7228806.jpg)](https://www.printemps.com/fr/fr/black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_bf)
+* [![](https://media-cdn.printemps.com/image/34/0/7259340.jpg)](https://www.printemps.com/fr/fr/black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_bf)
     
 
 * [BLACK FRIDAY](https://www.printemps.com/fr/fr/black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
@@ -243,7 +243,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
-    * [Les tendances mode de l'hiver](https://www.printemps.com/fr/fr/edito-style-tendances-hiver-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito-tendances-hiver)
+    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-noel)
     * [Tendance Y2K](https://www.printemps.com/fr/fr/y2k-homme)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
     * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
@@ -271,7 +271,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-homme?ap_source=anico&ap_medium=navigation&ap_campaign=jacquemus-homme)
-* [![](https://media-cdn.printemps.com/image/80/6/7228806.jpg)](https://www.printemps.com/fr/fr/black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=bf)
+* [![](https://media-cdn.printemps.com/image/34/0/7259340.jpg)](https://www.printemps.com/fr/fr/black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_bf)
     
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
@@ -313,6 +313,7 @@
     
 
 * [INSPIRATIONS](#)
+    * [Noël : les plus beaux coffrets beauté à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-beaute-coffrets-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-coffret-noel)
     * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
     * [Maquillage d'automne](https://www.printemps.com/fr/fr/maquillage-automne?ap_source=anico&ap_medium=nav-beaute&ap_campaign=maquillage_automne)
     * [Concentré de bonne mine](https://www.printemps.com/fr/fr/bonne-mine?ap_source=anico&ap_medium=nav-beaute&ap_campaign=bonne_mine)
