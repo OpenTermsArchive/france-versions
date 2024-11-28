@@ -313,7 +313,7 @@
     
 
 * [INSPIRATIONS](#)
-    * [Noël : les plus beaux coffrets beauté à glisser sous le sapin](https://www.printemps.com/fr/fr/edito-beaute-coffrets-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-coffret-noel)
+    * [Noël : les plus beaux coffrets beauté](https://www.printemps.com/fr/fr/edito-beaute-coffrets-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-coffret-noel)
     * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
     * [Maquillage d'automne](https://www.printemps.com/fr/fr/maquillage-automne?ap_source=anico&ap_medium=nav-beaute&ap_campaign=maquillage_automne)
     * [Concentré de bonne mine](https://www.printemps.com/fr/fr/bonne-mine?ap_source=anico&ap_medium=nav-beaute&ap_campaign=bonne_mine)
