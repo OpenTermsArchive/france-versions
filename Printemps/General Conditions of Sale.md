@@ -177,7 +177,7 @@
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=marc_jacobs)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jacquemus)
     * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/jerome-dreyfuss-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jerome_dreyfuss)
-    * [Coach](https://www.printemps.com/fr/fr/coach-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=coach)
+    * [Ugg](https://www.printemps.com/fr/fr/ugg-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=ugg)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
     * [Prada](https://www.printemps.com/fr/fr/prada-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=prada)
     * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=gerard_darel)
