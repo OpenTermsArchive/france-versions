@@ -12,7 +12,7 @@ des Clients de Boursorama
 
 
 
-Dernière mise à jour novembre 2024
+Dernière mise à jour : 26 novembre 2024
 
 
 
