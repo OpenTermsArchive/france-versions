@@ -94,7 +94,7 @@
     * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
     * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
 
-* [BLACK FRIDAY](https://www.printemps.com/fr/fr/black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avpbf)
+* [CYBER MONDAY](https://www.printemps.com/fr/fr/black-friday-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avpbf)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
@@ -184,7 +184,7 @@
 *  [![](https://media-cdn.printemps.com/image/72/9/7250729.jpg) MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_moonboot)
     
 
-* [BLACK FRIDAY](https://www.printemps.com/fr/fr/black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
+* [CYBER MONDAY](https://www.printemps.com/fr/fr/black-friday-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=avpbf)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
