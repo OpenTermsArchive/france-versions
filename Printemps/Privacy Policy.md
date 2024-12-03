@@ -118,12 +118,12 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
-    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-y2k)
+    * [Tenues de fête](https://www.printemps.com/fr/fr/edito-style-tenues-de-fetes-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_tenues_de_fete)
+    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_noel)
     * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-    * [Ballerina era](https://www.printemps.com/fr/fr/babies-mary-jane?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerina_era)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
