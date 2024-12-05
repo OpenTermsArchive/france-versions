@@ -124,7 +124,7 @@
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
+* [Tout l'univers femme](https://www.printemps.com/fr/fr/univers-femme)
     
 
 * [TOP MARQUES](#)
