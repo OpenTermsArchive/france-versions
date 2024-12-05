@@ -124,7 +124,7 @@
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
+* [Tout l'univers femme](https://www.printemps.com/fr/fr/univers-femme)
     
 
 * [TOP MARQUES](#)
@@ -198,7 +198,7 @@
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
     * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-noel)
-    * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
+    * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
     * [Tendance Y2K](https://www.printemps.com/fr/fr/y2k-homme)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
     * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
