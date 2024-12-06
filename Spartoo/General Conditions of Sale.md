@@ -204,20 +204,13 @@ Pour passer commande à nouveau, le Client de spartoo.com devra se connecter en 
 Les délais de livraisons indiqués ont comme référence la date de commande et sont présentés en jours ouvrés ( samedi, dimanche et jours fériés ne sont pas pris en compte dans le calcul du délai de livraison ). En cas de force majeure, SPARTOO ne saurait être responsable du retard de livraison.  
 
   
-9.1.France métropolitaine, Monaco et Corse  
-
-**Livraison en relais Relais Colis ou Mondial Relay ou Colis Privé Store**  
-Délai : 4 jours garantis pour Relais Colis ou Mondial Relay ou Colis Privé Store  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
-
   
-**Livraison à domicile standard (Colissimo ou Colis Privé):**  
-Délai : 4 jours garantis  
-Coût de la livraison:  
+**Monaco**  
+  
+**France**  
+  
+**Livraison avec le service Colissimo FR signature**  
+Délai : Livraison garantis en 3 jours ouvrés  
 
 |     |     |
 | --- | --- |
@@ -225,40 +218,17 @@ Coût de la livraison:
 | 5.99 € si inférieur à 79.99 € d'achats  <br>Gratuit à partir de 79.99 € d'achats | 4.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
-
-**Livraison à domicile Express (Chronopost ou Colis Privé Express) :**  
-livraison sous 1 à 2 jours ouvrés (délai généralement constaté), pour toute commande effectuée avant 13h  
+**Livraison avec le service Chronopost**  
+Délai : Livraison garantis en 1 jours ouvrés  
 
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
 | 7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats |
 
-**Livraison en relais Express (Chrono Relais) :**  
-livraison express en relais Chronopost le lendemain pour toute commande effectuée avant 13H.  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats | 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats |
-
   
-
-  
-9.2.Belgique  
-
-**Livraison à domicile BPOST :**  
-Délai : 5 jours ouvrés  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
-
-  
-
-**Livraison en relais Mondial Relay**  
-Délai : 4 jours garantis pour Mondial Relay  
+**Livraison avec le service Relais**  
+Délai : Livraison garantis en 4 jours ouvrés  
 
 |     |     |
 | --- | --- |
@@ -266,39 +236,101 @@ Délai : 4 jours garantis pour Mondial Relay
 | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
 
   
-
-**Livraison à domicile UPS STANDARD :**  
-Délai: 3 jours ouvrés  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats | 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats  <br>Gratuit à partir de 39.99 € d'achats |
-
-**Livraison à domicile express (UPS EXPRESS) :**  
-Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13h  
+**Livraison avec le service Chrono Relais**  
+Délai : Livraison garantis en 2 jours ouvrés  
 
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 11.99 € à partir de 0.00 € d'achats | 11.99 € à partir de 0.00 € d'achats |
+| 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats | 5.99 € si inférieur à 30.00 € d'achats  <br>5.99 € à partir de 30.00 € d'achats |
 
   
-9.3.Luxembourg  
-
-**Livraison par la Poste:**  
-Délai: 8 jours ouvrés  
-Coût de la livraison :
-
-  
+**Livraison avec le service Colis Prive**  
+Délai : Livraison garantis en 4 jours ouvrés  
 
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 4.99 € si inférieur à 100 € d'achats  <br>Gratuit à partir de 100 € d'achats | 6.99 € si inférieur à 40 €  <br>2.99 € si compris entre 40 € et 60 €  <br>Gratuit à partir de 60 € d'achats |
+| 5.99 € si inférieur à 79.99 € d'achats  <br>Gratuit à partir de 79.99 € d'achats | 4.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
-9.4.DROM-COM  
+**Livraison avec le service Colis Prive Express**  
+Délai : Livraison garantis en 1 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats |
+
+  
+**Belgique**  
+  
+**Livraison avec le service UPS Express**  
+Délai : Livraison garantis en 3 jours ouvrés  
+Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13 h  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 15.99 € à partir de 0.00 € d'achats | 15.99 € à partir de 0.00 € d'achats |
+
+  
+**Livraison avec le service UPS Standard**  
+Délai : Livraison garantis en 5 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats |
+
+  
+**Livraison avec le service Mondial Relay**  
+Délai : Livraison garantis en 4 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
+
+  
+**Livraison avec le service BPost Mercury**  
+Délai : Livraison garantis en 3 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
+
+  
+**Luxembourg**  
+  
+**Livraison avec le service Colissimo Luxembourg**  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.99 € à partir de 0.00 € d'achats  <br>Gratuit à partir de 100.00 € d'achats | 7.99 € si inférieur à 40.00 € d'achats  <br>3.99 € entre 40.00 € et 60.00 € d'achats  <br>Gratuit à partir de 60.00 € d'achats |
+
+  
+**Livraison avec le service Mondial Relay**  
+Délai : Livraison garantis en 4 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
+
+  
+**Livraison avec le service B-Post**  
+Délai : Livraison garantis en 8 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 4.99 € si inférieur à 80.00 € d'achats  <br>Gratuit à partir de 80.00 € d'achats | 4.99 € si inférieur à 40.00 € d'achats  <br>2.99 € entre 40.00 € et 60.00 € d'achats  <br>Gratuit à partir de 60.00 € d'achats |
+
+  
+DROM-COM  
 
 Zone 1 : Guadeloupe, Martinique, La Réunion, Guyane, Saint Pierre et Miquelon, Saint Barthélémy & Saint Martin  
 Zone 2 : Mayotte, Nouvelle Calédonie, Polynésie Française & Wallis et Futuna  
@@ -328,29 +360,6 @@ Coût de la livraison:
 | **11+** | 149 € | 339 € |
 
 \>\>>  
-  
-
-  
-9.5. Andorre  
-
-Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client (cf point 6).  
-  
-**Livraison à domicile standard :**  
-Délai : 14 jours.  
-Coût de la livraison : 13 €  
-
-  
-  
-9.6.Autres pays francophones :  
-
-Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client(cf point 6).  
-  
-**Livraison standard :**  
-Délai : indiqué sur la page de paiement en fonction du pays de livraison (généralement compris entre 10 et 20 jours ouvrés)  
-Coût de la livraison :  
-10 € si inférieur à 50 € d'achats  
-Gratuit au dessus de 50 € d'achats  
-
   
 
 10 Satisfait ou remboursé
