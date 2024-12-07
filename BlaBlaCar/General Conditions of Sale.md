@@ -1,14 +1,18 @@
+* [BlaBlaBlog](https://blog.blablacar.fr/)
+* [Qui sommes-nous ?](https://blog.blablacar.fr/about-us/ "Qui sommes-nous ?")
+* Conditions générales
+
 Conditions générales
 ====================
 
-[Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions) | [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) | [Utilisation des Cookies](https://www.blablacar.fr/about-us/cookies-policy) | [Droits des Passagers Autocar](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32011R0181) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) |  [Droits des voyageurs ferroviaires](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782) | [Conditions générales des Entreprises ferroviaires](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver)
+[Conditions Générales](https://blog.blablacar.fr/about-us/terms-and-conditions/) | [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) | [Utilisation des Cookies](https://blog.blablacar.fr/about-us/cookies-policy/) | [Droits des Passagers Autocar](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32011R0181) | [Conditions Générales de Vente de Transport (CGV)](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport/) |  [Droits des voyageurs ferroviaires](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782) | [Conditions générales des Entreprises ferroviaires](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/) | [Conditions Générales Super Driver](https://blog.blablacar.fr/about-us/super-driver/)
 
-Conditions Générales d’Utilisation applicables à compter du 20 août 2024
+Conditions Générales d’Utilisation applicables à compter du 20 août 2024
 
 **1\. Objet**
 -------------
 
-La société Comuto SA (ci-après, « **BlaBlaCar** ») édite une plateforme de covoiturage accessible sur un site internet notamment à l’adresse www.blablacar.fr ou sous forme d’application mobile et destinée à (i) mettre en relation des conducteurs se rendant à une destination donnée pour leur propre compte avec des passagers allant dans la même direction afin de leur permettre de partager le trajet et donc les frais qui y sont associés, (ii) rechercher et procéder à l’achat de Billets de bus auprès des opérateurs de transport (les « Autocaristes ») et à (iii) rechercher et procéder à l’achat auprès de BlaBlaCar de Billets de Train d’un opérateur de transport (les “Entreprises ferroviaires”) que nous distribuons (ci-après, la « **Plateforme** »).
+La société Comuto SA (ci-après, « **BlaBlaCar** ») édite une plateforme de covoiturage accessible sur un site internet notamment à l’adresse www.blablacar.fr ou sous forme d’application mobile et destinée à (i) mettre en relation des conducteurs se rendant à une destination donnée pour leur propre compte avec des passagers allant dans la même direction afin de leur permettre de partager le trajet et donc les frais qui y sont associés, (ii) rechercher et procéder à l’achat de Billets de bus auprès des opérateurs de transport (les « Autocaristes ») et à (iii) rechercher et procéder à l’achat auprès de BlaBlaCar de Billets de Train d’un opérateur de transport (les “Entreprises ferroviaires”) que nous distribuons (ci-après, la « **Plateforme** »).
 
 Les présentes Conditions Générales d’Utilisation ont pour objet d’encadrer l’accès et les modalités d’utilisation de la Plateforme. Nous vous invitons à en prendre attentivement connaissance. Vous comprenez et reconnaissez que BlaBlaCar n’est partie à aucun accord, contrat ou relation contractuelle, de quelque nature que ce soit, conclus entre les Membres de sa Plateforme ou avec un Autocariste ou Entreprise ferroviaire.
 
@@ -23,7 +27,7 @@ Dans les présentes,
 
 « **Annonce** » désigne indistinctement une Annonce de Covoiturage ou une Annonce de Bus ou une Annonce de Train ;
 
-« **Annonce** **de Covoiturage** » désigne une annonce concernant un Trajet posté sur la Plateforme par un Conducteur ;
+« **Annonce** **de Covoiturage** » désigne une annonce concernant un Trajet posté sur la Plateforme par un Conducteur ;
 
 « **Annonce de Bus** » désigne une annonce concernant un Trajet en Bus opéré par un Autocariste publiée sur la Plateforme ;
 
@@ -37,13 +41,13 @@ Dans les présentes,
 
 « **CGU** » désigne les présentes Conditions Générales d’Utilisation ;
 
-« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande :
+« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport/) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande :
 
-**« CGV Train »** désigne les [Conditions Générales de Vente de Transport de l’Entreprise ferroviaire](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires) (ci-après “CGV Train”) concerné selon le Trajet en Train sélectionné par le Client, et les conditions particulières applicables, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande
+**« CGV Train »** désigne les [Conditions Générales de Vente de Transport de l’Entreprise ferroviaire](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/) (ci-après “CGV Train”) concerné selon le Trajet en Train sélectionné par le Client, et les conditions particulières applicables, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande
 
 « **Client** » désigne toute personne physique (étant Membre ou non) ayant acheté, soit pour son compte, soit pour le compte d’un tiers qui sera le Passager, un Billet de Bus ou un Billet de Train par l’intermédiaire de la Plateforme pour effectuer un Trajet opéré par l’Autocariste ou l’Entreprise ferroviaire ;
 
-**« Commande »** désigne l’opération par laquelle le Client réserve toutes Prestations auprès de BlaBlaCar, quel que soit le moyen de réservation employé, hors le cas de l’achat en Point de Vente, et qui emporte l’obligation pour le Client de payer le prix afférent aux Prestations concernées ;
+**« Commande »** désigne l’opération par laquelle le Client réserve toutes Prestations auprès de BlaBlaCar, quel que soit le moyen de réservation employé, hors le cas de l’achat en Point de Vente, et qui emporte l’obligation pour le Client de payer le prix afférent aux Prestations concernées ;
 
 « **Compte** » désigne le compte qui doit être créé pour pouvoir devenir Membre et accéder à certains Services proposés par la Plateforme ;
 
@@ -55,7 +59,7 @@ Dans les présentes,
 
 « **Contenu Membre** » a la signification qui lui est donnée à l’article 11.2 ci-dessous ;
 
-**« Entreprise ferroviaire »** désigne une entreprise de transport de passagers professionnelle dont les Trajets en train sont distribués sur la Plateforme ;
+**« Entreprise ferroviaire »** désigne une entreprise de transport de passagers professionnelle dont les Trajets en train sont distribués sur la Plateforme ;
 
 « **Frais de Service** » a la signification qui lui est donnée à l’article 5.2 ci-dessous ;
 
@@ -69,9 +73,9 @@ Dans les présentes,
 
 « **Plateforme** » a la signification qui lui est donnée à l’article 1, ci-dessus ;
 
-**« Point de Vente »** désigne les guichets ou bornes physiques et dans lesquels les Billets peuvent être proposés à la vente ;
+**« Point de Vente »** désigne les guichets ou bornes physiques et dans lesquels les Billets peuvent être proposés à la vente ;
 
-**« Prestations »** désigne la ou les prestation(s) de transport souscrite(s) par le Passager d’un Trajet en Bus ou en Train et fournies par l’Autocariste ou l’Entreprise ferroviaire ;
+**« Prestations »** désigne la ou les prestation(s) de transport souscrite(s) par le Passager d’un Trajet en Bus ou en Train et fournies par l’Autocariste ou l’Entreprise ferroviaire ;
 
 « **Prix** » désigne, pour un Trajet en Bus ou un Trajet en Train donné, le prix toutes taxes, frais et coûts de service y afférents compris, payé par le Client sur la Plateforme, au moment de la validation de la Commande, pour une Place sur un Trajet en Bus ou un Trajet en Train donné ;
 
@@ -79,7 +83,7 @@ Dans les présentes,
 
 « **Services** » désigne l’ensemble des services rendus par BlaBlaCar par l’intermédiaire de la Plateforme ;
 
-« **Site** » désigne le site internet accessible à l’adresse [www.blablacar.fr](http://www.blablacar.fr/)  ;
+« **Site** » désigne le site internet accessible à l’adresse [www.blablacar.fr](https://www.blablacar.fr/)  ;
 
 « **Sous-Trajet** » a la signification qui lui est donnée à l’article 4.1 ci-dessous ;
 
@@ -89,7 +93,7 @@ Dans les présentes,
 
 « **Trajet en Bus** » désigne le trajet faisant l’objet d’une Annonce de Bus sur la Plateforme et pour lequel un Autocariste propose des places à bord du véhicule en contrepartie du Prix.
 
-**« Trajet en Train»** désigne le trajet faisant l’objet d’une Annonce de Train sur la Plateforme et pour lequel BlaBlaCar propose des places.
+**« Trajet en Train»** désigne le trajet faisant l’objet d’une Annonce de Train sur la Plateforme et pour lequel BlaBlaCar propose des places.
 
 « **Solution de Paiement Hyperwallet** » a la signification qui lui est donnée à l’article 5.4.2.a ci-dessous :
 
@@ -110,7 +114,7 @@ Pour créer votre Compte, vous pouvez :
 
 (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
 
-(ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) et celle de Facebook.
+(ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) et celle de Facebook.
 
 Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU.
 
@@ -120,7 +124,7 @@ En cas d’inscription par e-mail, vous vous engagez à garder secret le mot de 
 
 Vous vous engagez à ne pas créer ou utiliser, sous votre propre identité ou celle d’un tiers, d’autres Comptes que celui initialement créé.
 
-Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
+Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
 
 ### **3.3. Vérification**
 
@@ -207,13 +211,13 @@ BlaBlaCar attire votre attention sur le fait qu’il peut advenir que certaines 
 
 **4.2.4.1 Général**
 
-En vertu du [Règlement UE 2021/782](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782), les Passagers ferroviaires bénéficient de droits et obligations étendus.
+En vertu du [Règlement UE 2021/782](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782), les Passagers ferroviaires bénéficient de droits et obligations étendus.
 
-Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/hc/fr](https://support.blablacar.com/hc/fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
+Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/s/?language=fr](https://support.blablacar.com/s/?language=fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
 
 **4.2.4.2 Informations avant le voyage :**
 
-Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires):
+Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/):
 
 * Conditions d’accès aux vélos ;
 * Perturbations, annulations, correspondances manquées et retards ;
@@ -228,15 +232,15 @@ Le passager qui a besoin d’assistance doit en informer l’Entreprise ferrovia
 
 L’assistance est fournie par les Entreprises ferroviaires à condition que le Passager concerné se présente au point désigné à l’heure fixée par l’Entreprise ferroviaire.
 
-Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/hc/fr).
+Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
 
 **Conditions d’accessibilité :**
 
-Les conditions d’accessibilité de la station et à bord et des installations associées peuvent être consultées dans le [centre d’aide](https://support.blablacar.com/hc/fr) ou sur le site de des gares concernées.
+Les conditions d’accessibilité de la station et à bord et des installations associées peuvent être consultées dans le [centre d’aide](https://support.blablacar.com/s/?language=fr) ou sur le site de des gares concernées.
 
 **Informations pendant le voyage :**
 
-Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
+Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
 
 * Services et installations à bord, y compris le Wi-Fi
 * Prochaine station
@@ -299,11 +303,11 @@ L’accès et l’inscription à la Plateforme, de même que la recherche, la co
 
 ### **5.1. Participation aux Frais et Prix**
 
-**5.1.1.** Dans le cadre d’un Trajet en Covoiturage, le montant de la Participation aux Frais est déterminé par vous, en tant que Conducteur, sous votre seule responsabilité. Il est strictement interdit de tirer le moindre bénéfice du fait de l’utilisation de notre Plateforme. Par conséquent, vous vous engagez à limiter le montant de la Participation aux Frais que vous demandez à vos Passagers aux frais que vous supportez réellement pour effectuer le Trajet en Covoiturage. À défaut, vous supporterez seul les risques de requalification de l’opération effectuée par l’intermédiaire de la Plateforme.
+**5.1.1.** Dans le cadre d’un Trajet en Covoiturage, le montant de la Participation aux Frais est déterminé par vous, en tant que Conducteur, sous votre seule responsabilité. Il est strictement interdit de tirer le moindre bénéfice du fait de l’utilisation de notre Plateforme. Par conséquent, vous vous engagez à limiter le montant de la Participation aux Frais que vous demandez à vos Passagers aux frais que vous supportez réellement pour effectuer le Trajet en Covoiturage. À défaut, vous supporterez seul les risques de requalification de l’opération effectuée par l’intermédiaire de la Plateforme.
 
 Lorsque vous publiez une Annonce de Covoiturage, BlaBlaCar vous suggère un montant de Participation aux Frais qui tient compte notamment de la nature du Trajet en Covoiturage et de la distance parcourue. Ce montant est purement indicatif et il vous appartient de le modifier à la hausse ou à la baisse pour tenir compte des frais que vous supportez réellement sur le Trajet en Covoiturage. Afin d’éviter les abus, BlaBlaCar limite les possibilités d’ajustement du montant de la Participation aux Frais.
 
-**5.1.2.** En ce qui concerne les Trajets en Bus ou en Train, le Prix par Place est fixé à sa seule discrétion par l’Autocariste ou l’Entreprise ferroviaire. Le Client est invité à se reporter aux CGV concernées afin de prendre connaissance des modalités de passation de la Commande et de paiement du Billet.
+**5.1.2.** En ce qui concerne les Trajets en Bus ou en Train, le Prix par Place est fixé à sa seule discrétion par l’Autocariste ou l’Entreprise ferroviaire. Le Client est invité à se reporter aux CGV concernées afin de prendre connaissance des modalités de passation de la Commande et de paiement du Billet.
 
 Concernant les modalités de paiement du Billet de Train, celles-ci sont disponibles sur la Plateforme au moment de la Commande.
 
@@ -311,7 +315,7 @@ Concernant les modalités de paiement du Billet de Train, celles-ci sont disponi
 
 BlaBlaCar peut prélever, en contrepartie de l’utilisation de la Plateforme, des frais de service à ses utilisateurs (ci-après, les « Frais de Service »). L’utilisateur sera informé avant toute application de Frais de Service le cas échéant.
 
-Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/blablalife/lp/les-frais-de-service) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
+Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/les-frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
 
 En ce qui concerne les trajets transfrontaliers, les modalités de calcul du montant des Frais de Service et des taxes applicables varient selon la résidence du Membre.
 
@@ -325,7 +329,7 @@ Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, a
 
 **5.4.1. Mandat d’instruction du Conducteur**
 
-En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
+En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
 
 Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur énumérées dans l’article 11.4, points (i) et (ii), des Conditions Générales d’Hyperwallet ne s’appliquent pas aux Membres de la Plateforme du fait de leur statut de non professionnels.
 
@@ -358,7 +362,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 **b. Vérifications au titre de la Connaissance du Client (KYC)**
 
-En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses [Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
+En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de ses [Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
 
 Ces procédures peuvent inclure des contrôles d’identité et toute autre exigence imposée par la procédure de « Connaissance du Client » (KYC en anglais pour « _Know your Customer_ ») sur la base des critères définis par le Fournisseur de la Solution de Paiement Hyperwallet. Ces critères sont susceptibles d’inclure des plafonds financiers en fonction du montant total des versements au titre des Participations aux Frais que vous avez reçus.
 
@@ -429,7 +433,7 @@ En acceptant les présentes CGU, vous acceptez expressément que le Contrat entr
 
 Les Billets de Train ne sont pas échangeables.
 
-Les conditions d’annulation varient d’une Entreprise Ferroviaire à l’autre, consulter la politique d’annulation ci-après : [Centre d’aide](https://support.blablacar.com/hc/fr).
+Les conditions d’annulation varient d’une Entreprise Ferroviaire à l’autre, consulter la politique d’annulation ci-après : [Centre d’aide](https://support.blablacar.com/s/?language=fr).
 
 **8\. Comportement des utilisateurs de la Plateforme et Membres**
 -----------------------------------------------------------------
@@ -528,7 +532,7 @@ Dans le cadre d’un Trajet en Train, le Passager s’engage à se conformer aux
 
 **8.4. Signalement d’un contenu inapproprié ou illégal (mécanisme de notification et d’action)**
 
-Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
+Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
@@ -563,7 +567,7 @@ Lorsque cela est nécessaire, vous serez notifié de la mise en place d’une te
 **10\. Données personnelles**
 -----------------------------
 
-Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles tel que cela est décrit dans sa [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy).
+Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles tel que cela est décrit dans sa [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/).
 
 **11\. Propriété intellectuelle**
 ---------------------------------
@@ -584,7 +588,7 @@ Vous vous interdisez toute autre utilisation ou exploitation de la Plateforme et
 
 ### **11.2. Contenu publié par vous sur la Plateforme**
 
-Afin de permettre la fourniture des Services et conformément à la finalité de la Plateforme, vous concédez à BlaBlaCar une licence non exclusive d’utilisation des contenus et données que vous fournissez dans le cadre de votre utilisation des Services, ce qui peut inclure vos demandes de Réservation, vos Annonces de Covoiturage et les commentaires qui s’y trouvent, les biographies, les photos, les avis et les réponses aux avis (ci-après désignés votre « **Contenu Membre** ») et les Messages. Afin de permettre à BlaBlaCar la diffusion par réseau numérique et selon tout protocole de communication, (notamment Internet et réseau mobile), ainsi que la mise à disposition au public du contenu de la Plateforme, vous autorisez BlaBlaCar, pour le monde entier et pour toute la durée de votre relation contractuelle avec BlaBlaCar, à reproduire, représenter, adapter et traduire votre Contenu Membre de la façon suivante :
+Afin de permettre la fourniture des Services et conformément à la finalité de la Plateforme, vous concédez à BlaBlaCar une licence non exclusive d’utilisation des contenus et données que vous fournissez dans le cadre de votre utilisation des Services, ce qui peut inclure vos demandes de Réservation, vos Annonces de Covoiturage et les commentaires qui s’y trouvent, les biographies, les photos, les avis et les réponses aux avis (ci-après désignés votre « **Contenu Membre** ») et les Messages. Afin de permettre à BlaBlaCar la diffusion par réseau numérique et selon tout protocole de communication, (notamment Internet et réseau mobile), ainsi que la mise à disposition au public du contenu de la Plateforme, vous autorisez BlaBlaCar, pour le monde entier et pour toute la durée de votre relation contractuelle avec BlaBlaCar, à reproduire, représenter, adapter et traduire votre Contenu Membre de la façon suivante :
 
 (i) vous autorisez BlaBlaCar à reproduire tout ou partie de votre Contenu Membre sur tout support d’enregistrement numérique, connu ou inconnu à ce jour, et notamment sur tout serveur, disque dur, carte mémoire, ou tout autre support équivalent, en tout format et par tout procédé connu et inconnu à ce jour, dans la mesure nécessaire à toute opération de stockage, sauvegarde, transmission ou téléchargement lié au fonctionnement de la Plateforme et à la fourniture du Service ;
 
@@ -603,7 +607,7 @@ BlaBlaCar n’a aucun contrôle sur le comportement de ses Membres, des Autocari
 
 Vous reconnaissez et acceptez que BlaBlaCar ne contrôle ni la validité, ni la véracité, ni la légalité des Annonces, des Places et Trajets proposés. En sa qualité d’intermédiaire en covoiturage, BlaBlaCar ne fournit aucun service de transport et n’agit pas en qualité de transporteur, le rôle de BlaBlaCar se limitant à faciliter l’accès à la Plateforme.
 
-Dans le cadre d’un Trajet en Covoiturage, les Membres (Conducteurs ou Passagers) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du Code civil relatives au droit des obligations et à la responsabilité civile contractuelle ([article 1101 et suivants](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000032040787&idSectionTA=LEGISCTA000032040792&cidTexte=LEGITEXT000006070721&dateTexte=20180226) du Code civil).
+Dans le cadre d’un Trajet en Covoiturage, les Membres (Conducteurs ou Passagers) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du Code civil relatives au droit des obligations et à la responsabilité civile contractuelle ([article 1101 et suivants](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000032040787&idSectionTA=LEGISCTA000032040792&cidTexte=LEGITEXT000006070721&dateTexte=20180226) du Code civil).
 
 En sa qualité d’intermédiaire, BlaBlaCar ne saurait voir sa responsabilité engagée au titre du déroulement effectif d’un Trajet, et notamment du fait :
 
@@ -639,27 +643,27 @@ Vous pouvez contester les décisions que nous sommes susceptibles de prendre con
 * le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
 * votre Compte : nous avons suspendu votre accès à la Plateforme,
 
-si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/hc/fr/articles/16767371351069).
+si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/s/article/Comment-contester-une-suppression-de-contenu-ou-une-suspension-de-compte-1729197123027?language=fr).
 
 **15.2 Règlement extrajudiciaire des litiges**
 
-Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
+Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
 
-Vous pouvez également soumettre une demande à un organisme de règlement des litiges dans votre pays (vous en trouverez la liste [ici](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show)).
+Vous pouvez également soumettre une demande à un organisme de règlement des litiges dans votre pays (vous en trouverez la liste [ici](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show)).
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
 * l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
-* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
+* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
-Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
+Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
@@ -671,7 +675,7 @@ L’assurance de responsabilité civile professionnelle est souscrite auprès de
 
 Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et finance sous le numéro d’immatriculation (Orias) : 15003890.
 
-Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
+Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://support.blablacar.com/s/contactsupport?language=fr)
 
 **16.1 Règlement sur les services numériques**
 ----------------------------------------------
@@ -680,22 +684,22 @@ Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire
 
 Conformément à l’article 24, paragraphe 2, du règlement du Parlement européen et du Conseil relatif à un marché intérieur des services numériques et modifiant la directive 2000/31/CE (le « DSA » ou « Règlement sur les services numériques »), les fournisseurs de plateformes en ligne sont tenus de publier des informations relatives à la moyenne mensuelle des destinataires actifs du service dans l’Union, calculée sous forme de moyenne au cours des six derniers mois. Cette publication vise à déterminer si le fournisseur d’une plateforme en ligne répond au critère des « très grandes plateformes en ligne » en vertu du DSA, c’est-à-dire s’il dépasse le seuil de 45 millions de destinataires actifs mensuels moyens dans l’Union.
 
-Au 17 août 2024, le nombre mensuel moyen de destinataires actifs de BlaBlaCar pour la période comprise entre février et juillet 2024, calculé en tenant compte du Considérant 77 et de l’article 3 du DSA (en comptant les utilisateurs exposés au contenu de la Plateforme une seule fois au cours de la période de 6 mois), avant l’adoption d’un acte délégué spécifique, était d’environ 3,28 millions dans l’UE.
+Au 17 août 2024, le nombre mensuel moyen de destinataires actifs de BlaBlaCar pour la période comprise entre février et juillet 2024, calculé en tenant compte du Considérant 77 et de l’article 3 du DSA (en comptant les utilisateurs exposés au contenu de la Plateforme une seule fois au cours de la période de 6 mois), avant l’adoption d’un acte délégué spécifique, était d’environ 3,28 millions dans l’UE.
 
 Ces informations ont uniquement vocation à se conformer aux exigences du DSA et ne doivent pas être utilisées à une quelconque autre fin. Elles seront mises à jour au moins une fois par semestre. L’approche que nous avons adoptée pour réaliser ce calcul peut évoluer ou nécessiter des modifications au fil du temps, par exemple du fait d’une évolution des produits ou de l’arrivée sur le marché de nouvelles technologies.
 
 **16.1.2. Points de contact pour les autorités**
 
-Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
+Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
 
 Vous pouvez nous écrire en anglais et en français.
 
-Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
+Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
 
 **17\. Prime Covoiturage**
 --------------------------
 
-**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
+**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
 
 ### **17.1. Description de l’opération**
 
@@ -713,7 +717,7 @@ La Bonification à hauteur de 100 euros est valable uniquement pour les premier
 
 Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-(i) vous êtes inscrit sur le site [www.blablacar](http://www.blablacar/).fr ;
+(i) vous êtes inscrit sur le site [www.blablacar.fr](https://www.blablacar.fr/);
 
 (ii) vous êtes titulaire d’un permis de conduire valable en France ;
 
@@ -769,7 +773,7 @@ Dans les présentes,
 
 « **Annonce** » désigne indistinctement une Annonce de Covoiturage ou une Annonce de Bus ou une Annonce de Train ;
 
-« **Annonce** **de Covoiturage** » désigne une annonce concernant un Trajet posté sur la Plateforme par un Conducteur ;
+« **Annonce** **de Covoiturage** » désigne une annonce concernant un Trajet posté sur la Plateforme par un Conducteur ;
 
 « **Annonce de Bus** » désigne une annonce concernant un Trajet en Bus opéré par un Autocariste distribué sur la Plateforme ;
 
@@ -783,13 +787,13 @@ Dans les présentes,
 
 « **CGU** » désigne les présentes Conditions Générales d’Utilisation ;
 
-« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande :
+« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport/) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande :
 
-“**CGV Train**” désigne les [Conditions Générales de Vente de Transport de l’Entreprise ferroviaire](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires) (ci-après “CGV Train”) concerné selon le Trajet en Train sélectionné par le Client, et les conditions particulières applicables, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande
+“**CGV Train**” désigne les [Conditions Générales de Vente de Transport de l’Entreprise ferroviaire](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/) (ci-après “CGV Train”) concerné selon le Trajet en Train sélectionné par le Client, et les conditions particulières applicables, et que le Client reconnaît avoir lues et avoir acceptées avant de passer sa Commande
 
 « **Client** » désigne toute personne physique (étant Membre ou non) ayant acheté, soit pour son compte, soit pour le compte d’un tiers qui sera le Passager, un Billet de Bus ou un Billet de Train par l’intermédiaire de la Plateforme pour effectuer un Trajet opéré par l’Autocariste ou l’Entreprise ferroviaire ;
 
-**« Commande »** désigne l’opération par laquelle le Client réserve toutes Prestations auprès de BlaBlaCar, quel que soit le moyen de réservation employé, hors le cas de l’achat en Point de Vente, et qui emporte l’obligation pour le Client de payer le prix afférent aux Prestations concernées ;
+**« Commande »** désigne l’opération par laquelle le Client réserve toutes Prestations auprès de BlaBlaCar, quel que soit le moyen de réservation employé, hors le cas de l’achat en Point de Vente, et qui emporte l’obligation pour le Client de payer le prix afférent aux Prestations concernées ;
 
 « **Compte** » désigne le compte qui doit être créé pour pouvoir devenir Membre et accéder à certains Services proposés par la Plateforme ;
 
@@ -815,9 +819,9 @@ Dans les présentes,
 
 « **Plateforme** » a la signification qui lui est donnée à l’article 1, ci-dessus ;
 
-**« Point de Vente »** désigne les guichets ou bornes physiques et dans lesquels les Billets peuvent être proposés à la vente ;
+**« Point de Vente »** désigne les guichets ou bornes physiques et dans lesquels les Billets peuvent être proposés à la vente ;
 
-**« Prestations »** désigne la ou les prestation(s) de transport souscrite(s) par le Passager d’un Trajet en Bus ou en Train et fournies par l’Autocariste ou l’Entreprise ferroviaire ;
+**« Prestations »** désigne la ou les prestation(s) de transport souscrite(s) par le Passager d’un Trajet en Bus ou en Train et fournies par l’Autocariste ou l’Entreprise ferroviaire ;
 
 « **Prix** » désigne, pour un Trajet en Bus ou un Trajet en Train donné, le prix toutes taxes, frais et coûts de service y afférents compris, payé par le Client sur la Plateforme, au moment de la validation de la Commande, pour une Place sur un Trajet en Bus ou un Trajet en Train donné ;
 
@@ -825,7 +829,7 @@ Dans les présentes,
 
 « **Services** » désigne l’ensemble des services rendus par BlaBlaCar par l’intermédiaire de la Plateforme ;
 
-« **Site** » désigne le site internet accessible à l’adresse [www.blablacar.fr](http://www.blablacar.fr/)  ;
+« **Site** » désigne le site internet accessible à l’adresse [www.blablacar.fr](https://www.blablacar.fr/)
 
 « **Sous-Trajet** » a la signification qui lui est donnée à l’article 4.1 ci-dessous ;
 
@@ -835,7 +839,7 @@ Dans les présentes,
 
 « **Trajet en Bus** » désigne le trajet faisant l’objet d’une Annonce de Bus sur la Plateforme et pour lequel un Autocariste propose des places à bord du véhicule en contrepartie du Prix.
 
-“**Trajet en Train”  désigne** le trajet faisant l’objet d’une Annonce de Train sur la Plateforme et pour lequel BlaBlaCar propose des places.
+“**Trajet en Train”  désigne** le trajet faisant l’objet d’une Annonce de Train sur la Plateforme et pour lequel BlaBlaCar propose des places.
 
 « **Solution de Paiement Hyperwallet** » a la signification qui lui est donnée à l’article 5.4.2.a ci-dessous :
 
@@ -855,9 +859,9 @@ La Plateforme permet aux Membres de publier des Annonces de Covoiturage et consu
 Pour créer votre Compte, vous pouvez :
 
 * (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
-* (ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) et celle de Facebook.
+* (ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) et celle de Facebook.
 
-Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU ainsi que la [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy).
+Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU ainsi que la [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/).
 
 À l’occasion de la création de votre Compte, et ce quelle que soit la méthode choisie pour ce faire, vous vous engagez à fournir des informations personnelles exactes et conformes à la réalité et à les mettre à jour, par l’intermédiaire de votre profil ou en en avertissant BlaBlaCar, afin d’en garantir la pertinence et l’exactitude tout au long de votre relation contractuelle avec BlaBlaCar.
 
@@ -865,7 +869,7 @@ En cas d’inscription par e-mail, vous vous engagez à garder secret le mot de 
 
 Vous vous engagez à ne pas créer ou utiliser, sous votre propre identité ou celle d’un tiers, d’autres Comptes que celui initialement créé.
 
-Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
+Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
 
 ### **3.3. Vérification**
 
@@ -942,13 +946,13 @@ BlaBlaCar attire votre attention sur le fait qu’il peut advenir que certaines 
 
 **4.2.4.1 Général**
 
-En vertu du [Règlement UE 2021/782](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782), les Passagers ferroviaires bénéficient de droits et obligations étendus.
+En vertu du [Règlement UE 2021/782](https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782), les Passagers ferroviaires bénéficient de droits et obligations étendus.
 
-Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/hc/fr](https://support.blablacar.com/hc/fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
+Les informations mentionnées ci-dessous au présent article 4.2.4.1 sont renseignées dans les liens fournis ci-après  et/ou à la page ci-après : [https://support.blablacar.com/s/?language=fr](https://support.blablacar.com/s/?language=fr), étant entendu qu’en cas de divergence entre les informations des Entreprises ferroviaires et le lien ci-avant, les informations des Entreprises ferroviaires prévaudront.
 
 **4.2.4.2 Informations avant le voyage :**
 
-Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires):
+Afin d’être informé des conditions et modalités listées ci-après veuillez consulter les CGV Train des entreprises ferroviaires concernées [disponibles ici](https://blog.blablacar.fr/conditions-generales-de-transports-des-entreprises-ferroviaires/):
 
 * Conditions d’accès aux vélos ;
 * Perturbations, annulations, correspondances manquées et retards ;
@@ -963,15 +967,15 @@ Le passager qui a besoin d’assistance doit en informer l’Entreprise ferrovia
 
 L’assistance est fournie par les Entreprises ferroviaires à condition que le Passager concerné se présente au point désigné à l’heure fixée par l’Entreprise ferroviaire.
 
-Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/hc/fr).
+Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
 
 **Conditions d’accessibilité :**
 
-Les conditions d’accessibilité de la station et à bord et des installations associées peuvent être consultées dans le [centre d’aide](https://support.blablacar.com/hc/fr) ou sur le site de des gares concernées.
+Les conditions d’accessibilité de la station et à bord et des installations associées peuvent être consultées dans le [centre d’aide](https://support.blablacar.com/s/?language=fr) ou sur le site de des gares concernées.
 
 **Informations pendant le voyage :**
 
-Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
+Le passager peut trouver les informations suivantes dans les CGV Train de l’Entreprise ferroviaire concernée [disponibles ici](https://blog.blablacar.es/condiciones-generales-de-venta-de-la-empresa-ferroviaria) ou sur son Billet :
 
 * Services et installations à bord, y compris le Wi-Fi
 * Prochaine station
@@ -1014,11 +1018,11 @@ L’accès et l’inscription à la Plateforme, de même que la recherche, la co
 
 ### **5.1. Participation aux Frais et Prix**
 
-**5.1.1.** Dans le cadre d’un Trajet en Covoiturage, le montant de la Participation aux Frais est déterminé par vous, en tant que Conducteur, sous votre seule responsabilité. Il est strictement interdit de tirer le moindre bénéfice du fait de l’utilisation de notre Plateforme. Par conséquent, vous vous engagez à limiter le montant de la Participation aux Frais que vous demandez à vos Passagers aux frais que vous supportez réellement pour effectuer le Trajet en Covoiturage. À défaut, vous supporterez seul les risques de requalification de l’opération effectuée par l’intermédiaire de la Plateforme.
+**5.1.1.** Dans le cadre d’un Trajet en Covoiturage, le montant de la Participation aux Frais est déterminé par vous, en tant que Conducteur, sous votre seule responsabilité. Il est strictement interdit de tirer le moindre bénéfice du fait de l’utilisation de notre Plateforme. Par conséquent, vous vous engagez à limiter le montant de la Participation aux Frais que vous demandez à vos Passagers aux frais que vous supportez réellement pour effectuer le Trajet en Covoiturage. À défaut, vous supporterez seul les risques de requalification de l’opération effectuée par l’intermédiaire de la Plateforme.
 
 Lorsque vous publiez une Annonce de Covoiturage, BlaBlaCar vous suggère un montant de Participation aux Frais qui tient compte notamment de la nature du Trajet en Covoiturage et de la distance parcourue. Ce montant est purement indicatif et il vous appartient de le modifier à la hausse ou à la baisse pour tenir compte des frais que vous supportez réellement sur le Trajet en Covoiturage. Afin d’éviter les abus, BlaBlaCar limite les possibilités d’ajustement du montant de la Participation aux Frais.
 
-**5.1.2.** En ce qui concerne les Trajets en Bus ou en Train, le Prix par Place est fixé à sa seule discrétion par l’Autocariste ou l’Entreprise ferroviaire. Le Client est invité à se reporter aux CGV concernées afin de prendre connaissance des modalités de passation de la Commande et de paiement du Billet.
+**5.1.2.** En ce qui concerne les Trajets en Bus ou en Train, le Prix par Place est fixé à sa seule discrétion par l’Autocariste ou l’Entreprise ferroviaire. Le Client est invité à se reporter aux CGV concernées afin de prendre connaissance des modalités de passation de la Commande et de paiement du Billet.
 
 Concernant les modalités de paiement du Billet de Train, celles-ci sont disponibles sur la Plateforme au moment de la Commande.
 
@@ -1026,7 +1030,7 @@ Concernant les modalités de paiement du Billet de Train, celles-ci sont disponi
 
 BlaBlaCar peut prélever, en contrepartie de l’utilisation de la Plateforme, des frais de service à ses utilisateurs (ci-après, les « Frais de Service »). L’utilisateur sera informé avant toute application de Frais de Service le cas échéant.
 
-Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/blablalife/lp/les-frais-de-service) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
+Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/les-frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
 
 En ce qui concerne les trajets transfrontaliers, les modalités de calcul du montant des Frais de Service et des taxes applicables varient selon la résidence du Membre.
 
@@ -1040,7 +1044,7 @@ Vous reconnaissez et acceptez que BlaBlaCar peut, à son entière discrétion, a
 
 **5.4.1. Mandat d’instruction du Conducteur**
 
-En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
+En utilisant la Plateforme en tant que Conducteur pour des Trajets, vous confirmez que vous avez lu et approuvé [les conditions générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml) du Fournisseur de la Solution de Paiement Hyperwallet, notre prestataire de services de paiement qui traite les virements de la Participation aux Frais aux Conducteurs par le biais de la Solution de Paiement Hyperwallet telle que définie à l’article 5.4.2.a. Ces conditions générales sont désignées ci-dessous les « Conditions Générales d’Hyperwallet ».
 
 Veuillez noter que les exclusions prévues par la Directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur énumérées dans l’article 11.4, points (i) et (ii), des Conditions Générales d’Hyperwallet ne s’appliquent pas aux Membres de la Plateforme du fait de leur statut de non professionnels.
 
@@ -1073,7 +1077,7 @@ Le Virement sera effectué par le Fournisseur de la Solution de Paiement Hyperwa
 
 **b. Vérifications au titre de la Connaissance du Client (KYC)**
 
-En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de [ses Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
+En utilisant la Solution de Paiement Hyperwallet, vous acceptez de vous soumettre à des procédures réglementaires mises en œuvre par le Fournisseur de la Solution de Paiement Hyperwallet, sous réserve de [ses Conditions Générales](https://www.paylution.com/hw2web/consumer/page/legalAgreement.xhtml).
 
 Ces procédures peuvent inclure des contrôles d’identité et toute autre exigence imposée par la procédure de « Connaissance du Client » (KYC en anglais pour « _Know your Customer_ ») sur la base des critères définis par le Fournisseur de la Solution de Paiement Hyperwallet. Ces critères sont susceptibles d’inclure des plafonds financiers en fonction du montant total des versements au titre des Participations aux Frais que vous avez reçus.
 
@@ -1145,7 +1149,7 @@ En acceptant les présentes CGU, vous acceptez expressément que le Contrat entr
 
 Les Billets de Train ne sont pas échangeables.
 
-Les conditions d’annulation varient d’une Entreprise Ferroviaire à l’autre, consulter la politique d’annulation ci-après : [Centre d’aide](https://support.blablacar.com/hc/fr)
+Les conditions d’annulation varient d’une Entreprise Ferroviaire à l’autre, consulter la politique d’annulation ci-après : [Centre d’aide](https://support.blablacar.com/s/?language=fr)
 
 **8\. Comportement des utilisateurs de la Plateforme et Membres**
 -----------------------------------------------------------------
@@ -1262,7 +1266,7 @@ Lorsque cela est nécessaire, vous serez notifié de la mise en place d’une te
 **10\. Données personnelles**
 -----------------------------
 
-Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles. En utilisant la Plateforme et vous inscrivant en tant que Membre, vous reconnaissez et acceptez le traitement de vos données personnelles par BlaBlaCar conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy).
+Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles. En utilisant la Plateforme et vous inscrivant en tant que Membre, vous reconnaissez et acceptez le traitement de vos données personnelles par BlaBlaCar conformément à la loi applicable et aux stipulations de la [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/).
 
 **11\. Propriété intellectuelle**
 ---------------------------------
@@ -1300,7 +1304,7 @@ BlaBlaCar n’a aucun contrôle sur le comportement de ses Membres, des Autocari
 
 Vous reconnaissez et acceptez que BlaBlaCar ne contrôle ni la validité, ni la véracité, ni la légalité des Annonces, des Places et Trajets proposés. En sa qualité d’intermédiaire en covoiturage, BlaBlaCar ne fournit aucun service de transport et n’agit pas en qualité de transporteur, le rôle de BlaBlaCar se limitant à faciliter l’accès à la Plateforme.
 
-Dans le cadre d’un Trajet en Covoiturage, les Membres (Conducteurs ou Passagers) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du Code civil relatives au droit des obligations et à la responsabilité civile contractuelle ([article 1101 et suivants](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000032040787&idSectionTA=LEGISCTA000032040792&cidTexte=LEGITEXT000006070721&dateTexte=20180226) du Code civil).
+Dans le cadre d’un Trajet en Covoiturage, les Membres (Conducteurs ou Passagers) agissent sous leur seule et entière responsabilité, notamment conformément aux dispositions du Code civil relatives au droit des obligations et à la responsabilité civile contractuelle ([article 1101 et suivants](https://www.legifrance.gouv.fr/affichCode.do?idArticle=LEGIARTI000032040787&idSectionTA=LEGISCTA000032040792&cidTexte=LEGITEXT000006070721&dateTexte=20180226) du Code civil).
 
 En sa qualité d’intermédiaire, BlaBlaCar ne saurait voir sa responsabilité engagée au titre du déroulement effectif d’un Trajet, et notamment du fait :
 
@@ -1329,21 +1333,21 @@ BlaBlaCar pourra être amenée à modifier les présentes CGU afin de s’adapte
 
 Les présentes CGU sont rédigées en français et soumises à la loi française, sans préjudice des dispositions plus protectrices du consommateur en vertu de la loi de sa résidence habituelle.
 
-Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
+Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
 * l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : www.anm-conso.com.
-* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
+* plus spécifiquement pour un litige concernant un Trajet en Bus ou en Train, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
-Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
+Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
@@ -1361,12 +1365,12 @@ Au 17 août 2023, le nombre mensuel moyen de destinataires actifs de BlaBlaCar 
 
 Ces informations sont publiées uniquement dans le but de se conformer aux exigences du DSA et ne doivent pas être utilisées à d’autres fins. Elles seront mises à jour au moins une fois tous les six mois. Notre approche pour produire ce calcul peut évoluer ou nécessiter des modifications au fil du temps, notamment en raison de changements dans la législation.
 
-Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://www.blablacar.fr/contact)
+Pour toute question, vous pouvez contacter Comuto SA en utilisant [ce formulaire de contact.](https://support.blablacar.com/s/contactsupport?language=fr)
 
 **17\. Prime Covoiturage**
 --------------------------
 
-**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
+**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
 
 ### **17.1. Description de l’opération**
 
@@ -1384,7 +1388,7 @@ La Bonification à hauteur de 100 euros est valable uniquement pour les premier
 
 Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-(i) vous êtes inscrit sur le site [www.blablacar](http://www.blablacar/).fr ;
+(i) vous êtes inscrit sur le site [www.blablacar](https://www.blablacar.fr/).fr ;
 
 (ii) vous êtes titulaire d’un permis de conduire valable en France ;
 
@@ -1454,7 +1458,7 @@ Dans les présentes,
 
 « **CGU** » désigne les présentes Conditions Générales d’Utilisation ;
 
-« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues avant de passer sa Commande ;
+« **CGV** » désigne les [Conditions Générales de Vente de Transport](https://blog.blablacar.fr/about-us/conditions-generales-de-vente-de-transport/) de l’Autocariste concerné selon le Trajet en Bus sélectionné par le Client, et les conditions particulières applicables, accessibles sur le Site, et que le Client reconnaît avoir lues avant de passer sa Commande ;
 
 « **Client** » désigne toute personne physique (étant Membre ou non) ayant acheté, soit pour son compte, soit pour le compte d’un tiers qui sera le Passager, un Billet de Bus par l’intermédiaire de la Plateforme pour effectuer un Trajet opéré par l’Autocariste ;
 
@@ -1523,7 +1527,7 @@ Pour créer votre Compte, vous pouvez :
 
 (i) soit remplir l’ensemble des champs obligatoires figurant sur le formulaire d’inscription ;
 
-(ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://www.blablacar.fr/about-us/privacy-policy) et celle de Facebook.
+(ii) soit vous connecter, via notre Plateforme, à votre compte Facebook (ci-après, votre « Compte Facebook »). En utilisant une telle fonctionnalité, vous comprenez que BlaBlaCar aura accès, publiera sur la Plateforme et conservera certaines informations de votre Compte Facebook. Vous pouvez à tout moment supprimer le lien entre votre Compte et votre Compte Facebook par l’intermédiaire de la rubrique « Vérifications » de votre profil. Si vous souhaitez en savoir plus sur l’utilisation de vos données dans le cadre de votre Compte Facebook, consultez notre [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) et celle de Facebook.
 
 Pour vous inscrire sur la Plateforme, vous devez avoir lu et accepter les présentes CGU.
 
@@ -1533,7 +1537,7 @@ En cas d’inscription par e-mail, vous vous engagez à garder secret le mot de 
 
 Vous vous engagez à ne pas créer ou utiliser, sous votre propre identité ou celle d’un tiers, d’autres Comptes que celui initialement créé.
 
-Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
+Vous êtes informé de votre droit de vous inscrire sur la liste d’opposition au démarchage téléphonique, si vous ne souhaitez pas apparaître sur une liste de démarchage téléphonique [https://www.bloctel.gouv.fr/](https://www.bloctel.gouv.fr/). Ce service est régi par les Conditions Générales d’Utilisation et la politique de confidentialité d’une partie tierce. Merci de vous référer à la [Politique de confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/) de BlaBlaCar pour toute information relative au traitement de vos données personnelles.
 
 ### **3.3. Vérification**
 
@@ -1586,7 +1590,7 @@ BlaBlaCar a mis en place un système de réservation de Places en ligne (la « 
 
 Les modalités de réservation d’une Place dépendent de la nature du Trajet envisagé.
 
-BlaBlaCar met à disposition des utilisateurs un moteur de recherche accessible sur la Plateforme fondé sur différents critères de recherche (provenance, destination, dates, nombres de voyageurs, etc.). Certaines fonctionnalités additionnelles sont fournies sur le moteur de recherche lorsque l’utilisateur se connecte à son Compte. BlaBlaCar invite l’utilisateur, quel que soit le mode de réservation utilisé, à consulter et utiliser consciencieusement ce moteur de recherche afin de déterminer l’offre la plus adaptée à ses besoins. Si vous souhaitez en savoir plus, consultez [ce lien](https://blog.blablacar.fr/about-us/transparence-des-plateformes). Le Client, procédant à une réservation pour un Trajet en Bus en Point de Vente peut également demander à l’opérateur ou à l’agent d’accueil de réaliser la recherche du parcours.
+BlaBlaCar met à disposition des utilisateurs un moteur de recherche accessible sur la Plateforme fondé sur différents critères de recherche (provenance, destination, dates, nombres de voyageurs, etc.). Certaines fonctionnalités additionnelles sont fournies sur le moteur de recherche lorsque l’utilisateur se connecte à son Compte. BlaBlaCar invite l’utilisateur, quel que soit le mode de réservation utilisé, à consulter et utiliser consciencieusement ce moteur de recherche afin de déterminer l’offre la plus adaptée à ses besoins. Si vous souhaitez en savoir plus, consultez [ce lien](https://blog.blablacar.fr/about-us/transparence-des-plateformes/). Le Client, procédant à une réservation pour un Trajet en Bus en Point de Vente peut également demander à l’opérateur ou à l’agent d’accueil de réaliser la recherche du parcours.
 
 **4.2.1. Trajet en Covoiturage**
 
@@ -1671,7 +1675,7 @@ Lorsque vous publiez une Annonce de Covoiturage, BlaBlaCar vous suggère un mont
 
 BlaBlaCar peut prélever, en contrepartie de l’utilisation de la Plateforme, des frais de service à ses utilisateurs (ci-après, les « Frais de Service »). L’utilisateur sera informé avant toute application de Frais de Service le cas échéant.
 
-Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/blablalife/lp/frais-de-service) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
+Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
 
 En ce qui concerne les trajets transfrontaliers, les modalités de calcul du montant des Frais de Service et des taxes applicables varient selon la résidence du Membre.
 
@@ -1877,7 +1881,7 @@ Dans le cadre d’un Trajet en Bus, le Passager s’engage à se conformer aux C
 
 **8.4. Signalement d’un contenu inapproprié ou illégal (mécanisme de notification et d’action)**
 
-Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
+Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
@@ -1912,7 +1916,7 @@ Lorsque cela est nécessaire, vous serez notifié de la mise en place d’une te
 **10\. Données personnelles**
 -----------------------------
 
-Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles tel que cela est décrit dans sa [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy).
+Dans le cadre de votre utilisation de la Plateforme, BlaBlaCar est amenée à collecter et traiter certaines de vos données personnelles tel que cela est décrit dans sa [Politique de Confidentialité](https://blog.blablacar.fr/about-us/privacy-policy/).
 
 **11\. Propriété intellectuelle**
 ---------------------------------
@@ -1933,7 +1937,7 @@ Vous vous interdisez toute autre utilisation ou exploitation de la Plateforme et
 
 ### **11.2. Contenu publié par vous sur la Plateforme**
 
-Afin de permettre la fourniture des Services et conformément à la finalité de la Plateforme, vous concédez à BlaBlaCar une licence non exclusive d’utilisation des contenus et données que vous fournissez dans le cadre de votre utilisation des Services, ce qui peut inclure vos demandes de Réservation, vos Annonces de Covoiturage et les commentaires qui s’y trouvent, les biographies, les photos, les avis et les réponses aux avis (ci-après désignés votre « **Contenu Membre** ») et les Messages. Afin de permettre à BlaBlaCar la diffusion par réseau numérique et selon tout protocole de communication, (notamment Internet et réseau mobile), ainsi que la mise à disposition au public du contenu de la Plateforme, vous autorisez BlaBlaCar, pour le monde entier et pour toute la durée de votre relation contractuelle avec BlaBlaCar, à reproduire, représenter, adapter et traduire votre Contenu Membre de la façon suivante :
+Afin de permettre la fourniture des Services et conformément à la finalité de la Plateforme, vous concédez à BlaBlaCar une licence non exclusive d’utilisation des contenus et données que vous fournissez dans le cadre de votre utilisation des Services, ce qui peut inclure vos demandes de Réservation, vos Annonces de Covoiturage et les commentaires qui s’y trouvent, les biographies, les photos, les avis et les réponses aux avis (ci-après désignés votre « **Contenu Membre** ») et les Messages. Afin de permettre à BlaBlaCar la diffusion par réseau numérique et selon tout protocole de communication, (notamment Internet et réseau mobile), ainsi que la mise à disposition au public du contenu de la Plateforme, vous autorisez BlaBlaCar, pour le monde entier et pour toute la durée de votre relation contractuelle avec BlaBlaCar, à reproduire, représenter, adapter et traduire votre Contenu Membre de la façon suivante :
 
 (i) vous autorisez BlaBlaCar à reproduire tout ou partie de votre Contenu Membre sur tout support d’enregistrement numérique, connu ou inconnu à ce jour, et notamment sur tout serveur, disque dur, carte mémoire, ou tout autre support équivalent, en tout format et par tout procédé connu et inconnu à ce jour, dans la mesure nécessaire à toute opération de stockage, sauvegarde, transmission ou téléchargement lié au fonctionnement de la Plateforme et à la fourniture du Service ;
 
@@ -1988,20 +1992,20 @@ Vous pouvez contester les décisions que nous sommes susceptibles de prendre con
 * le Contenu Membre : par exemple, si nous avons supprimé, restreint la visibilité ou refusé de supprimer tout Contenu Membre que vous fournissez lorsque vous utilisez la Plateforme, ou
 * votre Compte : nous avons suspendu votre accès à la Plateforme,
 
-si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/hc/fr/articles/16767371351069-Comment-contester-une-suppression-de-contenu-ou-une-suspension-de-compte).
+si nous avons pris de telles décisions parce que le Contenu Membre est illégal ou incompatible avec les présentes CGU. La procédure de contestation est décrite [ici](https://support.blablacar.com/s/article/Comment-contester-une-suppression-de-contenu-ou-une-suspension-de-compte-1729197123027?language=fr).
 
 **15.2 Règlement extrajudiciaire des litiges**
 
 Vous pouvez également présenter, le cas échéant, vos réclamations relatives à notre Plateforme ou à nos Services, sur la plateforme de résolution des litiges mise en ligne par la Commission européenne accessible [ici](https://webgate.ec.europa.eu/odr/main/?event=main.home.show&lng=FR). La Commission européenne se chargera de transmettre votre réclamation aux médiateurs nationaux compétents. Conformément aux règles applicables à la médiation, vous êtes tenus, avant toute demande de médiation, d’avoir fait préalablement part par écrit à BlaBlaCar de tout litige afin d’obtenir une solution amiable.
 
-Vous pouvez également soumettre une demande à un organisme de règlement des litiges dans votre pays (vous en trouverez la liste [ici](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show)).
+Vous pouvez également soumettre une demande à un organisme de règlement des litiges dans votre pays (vous en trouverez la liste [ici](https://ec.europa.eu/consumers/odr/main/?event=main.adr.show)).
 
 Conformément aux articles du code de la consommation L.611-1 et suivant, il est prévu que pour tout litige de nature contractuelle n’ayant pu être résolu dans le cadre d’une réclamation préalablement introduite auprès de notre service clients, vous pouvez, en votre qualité de consommateur, recourir gratuitement à la médiation en contactant :
 
-* l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : [www.anm\-conso.com](https://www.anm-conso.com/site/index.php)
+* l’Association Nationale des Médiateurs (ANM) soit par courrier en écrivant au 62, rue Tiquetonne 75002 PARIS soit par e-mail en remplissant le formulaire de saisine en ligne à l’adresse suivante : [www.anm-conso.com](https://www.anm-conso.com/site/index.php)
 * plus spécifiquement pour un litige concernant un Trajet en Bus, la Médiation Tourisme Voyage (MTV) BP 80 303 75 823 Paris Cedex 17 (France). La plateforme pour saisir ce médiateur est accessible à partir du lien suivant : [https ://www.mtv.travel/saisir-le-mediateur/](https://www.mtv.travel/saisir-le-mediateur/)
 
-Le site internet suivant [www.economie](http://www.economie/).gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
+Le site internet suivant [www.economie.gouv.fr/mediation-conso comporte](https://www.economie/) également toutes informations utiles en cas de litige transfrontalier.
 
 Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
 
@@ -2027,22 +2031,22 @@ Comuto SA est inscrit au Registre des intermédiaires en assurance, banque et fi
 
 Conformément à l’article 24, paragraphe 2, du règlement du Parlement européen et du Conseil relatif à un marché intérieur des services numériques et modifiant la directive 2000/31/CE (le « DSA » ou « Règlement sur les services numériques »), les fournisseurs de plateformes en ligne sont tenus de publier des informations relatives à la moyenne mensuelle des destinataires actifs du service dans l’Union, calculée sous forme de moyenne au cours des six derniers mois. Cette publication vise à déterminer si le fournisseur d’une plateforme en ligne répond au critère des « très grandes plateformes en ligne » en vertu du DSA, c’est-à-dire s’il dépasse le seuil de 45 millions de destinataires actifs mensuels moyens dans l’Union.
 
-Au 31 janvier 2024, le nombre mensuel moyen de destinataires actifs de BlaBlaCar pour la période comprise entre août 2023 et janvier 2024, calculé en tenant compte du Considérant 77 et de l’article 3 du DSA, avant l’adoption d’un acte délégué spécifique, était d’environ 4,82 millions dans l’UE.
+Au 31 janvier 2024, le nombre mensuel moyen de destinataires actifs de BlaBlaCar pour la période comprise entre août 2023 et janvier 2024, calculé en tenant compte du Considérant 77 et de l’article 3 du DSA, avant l’adoption d’un acte délégué spécifique, était d’environ 4,82 millions dans l’UE.
 
 Ces informations ont uniquement vocation à se conformer aux exigences du DSA et ne doivent pas être utilisées à une quelconque autre fin. Elles seront mises à jour au moins une fois par semestre. L’approche que nous avons adoptée pour réaliser ce calcul peut évoluer ou nécessiter des modifications au fil du temps, par exemple du fait d’une évolution des produits ou de l’arrivée sur le marché de nouvelles technologies.
 
 **16.1.2. Points de contact pour les autorités**
 
-Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
+Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
 
 Vous pouvez nous écrire en anglais et en français.
 
-Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
+Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
 
 **17\. Prime Covoiturage**
 --------------------------
 
-**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
+**IMPORTANT – Mise à jour du 25 juin 2024** – l’opération Prime Covoiturage décrite ci-dessous prend fin de façon immédiate suite à la décision du Conseil d’Etat d’annuler l’arrêté du 26 septembre 2022 modifiant l’arrêté du 22 décembre 2014 définissant les opérations standardisées d’économies d’énergie en tant qu’il crée l’opération standardisée n° TRA-SE-114 relative au covoiturage de longue distance. Cet arrêté étant une condition essentielle de l’opération, aucune prime ne pourra être versée à compter du 25 juin 2024.
 
 ### **17.1. Description de l’opération**
 
@@ -2060,7 +2064,7 @@ La Bonification à hauteur de 100 euros est valable uniquement pour les premier
 
 Vous ne pouvez bénéficier de cette opération qu’une seule fois et sous réserve que vous remplissiez l’ensemble des conditions suivantes :
 
-(i) vous êtes inscrit sur le site [www.blablacar](http://www.blablacar/).fr ;
+(i) vous êtes inscrit sur le site [www.blablacar.fr](https://www.blablacar.fr/);
 
 (ii) vous êtes titulaire d’un permis de conduire valable en France ;
 
