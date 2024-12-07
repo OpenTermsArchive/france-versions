@@ -133,77 +133,80 @@ Article 20 - Time limitation on claims and action
 
 [The general Conditions of Carriage](https://img.static-af.com/m/436e4b236b59ea33/original/Conditions-of-Carriage-EN.pdf)
 
-#### Serviço de atendimento ao cliente
+#### Customer service
 
-Serviço de atendimento ao cliente
+Customer service
 
-* [Fale conosco](https://wwws.airfrance.fr/contact)
-* [Reembolso](https://wwws.airfrance.fr/contact/refund-compensation/refund)
-* [Reclamações](https://wwws.airfrance.fr/information/legal/reclamation)
-* [Solicitar uma nota fiscal](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
-* [Passageiros com deficiência](https://wwws.airfrance.fr/contact/special-assistance)
+* [Contact us](https://wwws.airfrance.fr/contact)
+* [Refund](https://wwws.airfrance.fr/contact/refund-compensation/refund)
+* [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
+* [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
+* [Passengers with disabilities](https://wwws.airfrance.fr/contact/special-assistance)
 
-#### Compra on-line
+#### Online purchase
 
-Compra on-line
+Online purchase
 
-* [Taxa de emissão - Taxa de serviço](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
-* [Formas de pagamento](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
-* [Air France Shopping](https://shopping.airfrance.com/?)
-* [Por que reservar pelo site oficial da Air France?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
+* [Booking fees - Service fees](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
+* [Payment methods](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
+* [Air France shopping](https://shopping.airfrance.com/?)
+* [Why book on the official Air France website?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
-#### Programa de fidelidade e parcerias
+#### Loyalty program and partners
 
-Programa de fidelidade e parcerias
+Loyalty program and partners
 
-* [Flying Blue](https://www.flyingblue.com/index.html)
+* [FlyingBlue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/)
 
-#### Sobre a Air France
+#### About Air France
 
-Sobre a Air France
+About Air France
 
 * [Air France corporate](http://corporate.airfrance.com/)
-* [Afiliação](https://wwws.airfrance.fr/information/prepare/services/affiliation)
-* [Destino de viagem](https://wwws.airfrance.fr/travel-guide/destinations)
-* [Todos os sites airfrance.com](https://wwws.airfrance.fr/splash)
+* [Affiliate program](https://wwws.airfrance.fr/information/prepare/services/affiliation)
+* [Travel destinations](https://wwws.airfrance.fr/travel-guide/destinations)
+* [Worldwide sites](https://wwws.airfrance.fr/splash)
 
-#### Aplicativo móvel da Air France
+#### Air France app
 
-Aplicativo móvel da Air France
+Air France app
 
 [![](https://img.static-af.com/transform/9d55c68a-d87b-4b21-b7f4-3e7b76a99e9a/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
 
-#### Voos Desde
+#### Fly From
 
-Voos Desde
+Fly From
 
-* [Rio de Janeiro](https://wwws.airfrance.com.br/pt-br/voos-de-rio-de-janeiro)
-* [São Paulo](https://wwws.airfrance.com.br/pt-br/voos-de-sao-paulo)
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
-#### Voos para França
+#### Fly to France
 
-Voos para França
+Fly to France
 
-* [Voo Rio de Janeiro - Paris](https://wwws.airfrance.com.br/pt-br/voos-de-rio-de-janeiro-para-paris)
-* [Voo São Paulo - Paris](https://wwws.airfrance.com.br/pt-br/voos-de-sao-paulo-para-paris)
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
-#### Viajar pelo Mundo
+#### Fly Worldwide
 
-Viajar pelo Mundo
+Fly Worldwide
 
-* [Nossos voos](https://wwws.airfrance.com.br/pt-br/)
-* [Voo São Paulo - Berlim](https://wwws.airfrance.com.br/pt-br/voos-de-sao-paulo-para-berlin)
-* [Voo São Paulo - Londres](https://wwws.airfrance.com.br/pt-br/voos-de-sao-paulo-para-londres)
-* [Voo Rio de Janeiro - Londres](https://wwws.airfrance.com.br/pt-br/voos-de-rio-de-janeiro-para-london)
-* [Voo Rio de Janeiro - Genebra](https://wwws.airfrance.com.br/pt-br/voos-de-rio-de-janeiro-para-geneva)
-* [Voo Rio de Janeiro - Roma](https://wwws.airfrance.com.br/pt-br/voos-de-rio-de-janeiro-para-rome)
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
-* [Mapa do site](https://wwws.airfrance.fr/information/site-map)
-* [Aviso legal](https://wwws.airfrance.fr/information/legal)
-* [CNPJ 33.013.988/0001-82](https://wwws.airfrance.fr/information/legal/edito-preambule)
-* [Política de Privacidade](https://wwws.airfrance.fr/information/legal/edito-psc)
-* [Declaração de acessibilidade](https://wwws.airfrance.fr/information/legal/accessibilite)
+* [Site Map](https://wwws.airfrance.fr/information/site-map)
+* [Legal information](https://wwws.airfrance.fr/information/legal)
+* [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
+* [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
+* [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
 * Cookie settings
