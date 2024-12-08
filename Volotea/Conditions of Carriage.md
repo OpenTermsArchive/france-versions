@@ -38,7 +38,7 @@
 
 **« Tarif »** se réfère aux prix indiqués en euros ou en monnaie locale à régler au Transporteur, à ses agents ou à d’autres vendeurs de billets pour le transport de passagers concernant les services aériens et les conditions applicables de ces prix.
 
-**« Carte d’embarquement »** se réfère au document, différent du Billet, qui permet au Passager d’accéder à l’avion et qui peut être obtenu sur le site internet [http://www.volotea.com](https://www.volotea.com/fr/ "Home") jusqu’à 2 heures et 30 minutes avant le vol, au comptoir d’enregistrement ou aux bornes disposées à cet effet dans les terminaux d’enregistrement et aux comptoirs jusqu’à 35 minutes avant le vol.
+**« Carte d’embarquement »** se réfère au document, différent du Billet, qui permet au Passager d’accéder à l’avion et qui peut être obtenu sur le site internet [http://www.volotea.com](# "Home") jusqu’à 2 heures et 30 minutes avant le vol, au comptoir d’enregistrement ou aux bornes disposées à cet effet dans les terminaux d’enregistrement et aux comptoirs jusqu’à 35 minutes avant le vol.
 
 **« Transporteur »** ou **« Volotea »** se réfèrent à Volotea, S.L. avec CIF : ES B64841927, ayant son siège social à l’aéroport des Asturies, Santiago del Monte (Castrillón), 33459, Espagne et inscrite au Registre Commercial de Asturias, Feuille 64, Volume 4282, inscription 2 AS-53816.
 
