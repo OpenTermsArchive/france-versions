@@ -267,7 +267,7 @@ Lorsque vous vous connectez à notre Site, nous pouvons être amenés, sous rés
 
 ### 6.2. Les cookies tiers
 
-Pour modifier votre consentement, [cliquez-ici](javascript:openAxeptioCookies())
+Pour modifier votre consentement, [cliquez-ici](https://www.vertbaudet.fr/page/vie-privee.htm)
 
 Lorsque vous accédez à notre site, et sous réserve que vous y ayez consenti, un ou plusieurs cookies sont susceptibles d’être placés dans votre ordinateur via les pages de notre site ou via des contenus diffusés dans nos espaces publicitaires soit par l'annonceur à l'origine du contenu publicitaire concerné, soit par une société tierce à l'annonceur (agence conseil en communication, société de mesure d'audience, prestataire de publicité ciblée, etc.), qui a associé un cookie au contenu publicitaire d'un annonceur. Le cas échéant, les cookies émis par ces tiers peuvent leur permettre, pendant la durée de validité de ces cookies :
 
