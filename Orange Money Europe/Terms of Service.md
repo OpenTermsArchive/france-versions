@@ -1,6 +1,6 @@
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -30,9 +30,9 @@ Ce Service Orange Money Europe sera réservé aux Utilisateurs titulaires ou aya
 
 numéro de ligne mobile souscrite auprès d’un opérateur de communications électroniques établi en
 
-Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg ou en France (hors Polynésie
+Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors
 
-française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), pour leurs besoins personnels non
+Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna), pour leurs besoins personnels non
 
 professionnels. Il sera accessible à partir du Site ou de l’Application Orange Money Europe et sous
 
@@ -120,9 +120,9 @@ euros (€) en contrepartie de laquelle elle est émise.
 
 Conditions d’utilisation : désignent les présentes conditions d’utilisation en ce compris leurs annexes.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -168,7 +168,7 @@ propose le Service Orange Money Europe aux Utilisateurs, et est émettrice de la
 
 associée à ce dernier. Son agrément lui permet d’exercer ses activités en France et dans les pays de
 
-l’Espace Economique Européen – dont la Belgique, l’Espagne, l’Allemagne, l’Italie, le Portugal,
+l’Espace Economique Européen – dont la Belgique, l’Espagne, l’Allemagne, l’Italie, le Portugal, l’Irlande,
 
 Luxembourg et les Pays-Bas font partie – par voie de Libre Prestation de Services (liste publiée par
 
@@ -248,9 +248,9 @@ EDGE, 3G (UMTS), HSDPA et H+, 5G, Wifi ou toute autre technologie à venir et/ou
 
 télécommunications exploitées par les Opérateurs de communications électroniques.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -270,9 +270,9 @@ Compte Orange Money Europe des opérations de dépôt, de retrait, et de transfe
 
 et (ii) internationaux Le Service Orange Money Europe est ouvert à la souscription en Italie, Espagne,
 
-Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg ou en France (hors Polynésie française, Saint-
+Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors Polynésie française,
 
-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application Orange Money Europe et, pour la
+Saint-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application Orange Money Europe et, pour la
 
 France uniquement, à partir des PDV.
 
@@ -300,17 +300,17 @@ réalisée en utilisant le Service Orange Money Europe.
 
 Utilisateur : désigne toute personne physique majeure capable résidant en Italie, Espagne, Allemagne,
 
-Pays-Bas, Belgique, Portugal, Luxembourg ou en France (hors Polynésie française, Saint-Pierre-et-
+Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors Polynésie française, Saint-
 
-Miquelon et Wallis-et-Futuna), titulaire ou ayant la jouissance d’une ligne mobile avec un forfait post-
+Pierre-et-Miquelon et Wallis-et-Futuna), titulaire ou ayant la jouissance d’une ligne mobile avec un forfait
 
-payé, bloqué, prépayé compatible souscrite auprès d’un Opérateur de communications électroniques
+post-payé, bloqué, prépayé compatible souscrite auprès d’un Opérateur de communications
 
-établi dans le pays de résidence de l’Utilisateur , titulaire d’un terminal mobile compatible, et ayant
+électroniques établi dans le pays de résidence de l’Utilisateur , titulaire d’un terminal mobile compatible,
 
-souscrit au Service Orange Money Europe pour ses besoins personnels et selon les modalités décrites
+et ayant souscrit au Service Orange Money Europe pour ses besoins personnels et selon les modalités
 
-aux présentes.
+décrites aux présentes.
 
 
 
@@ -346,9 +346,9 @@ et pendant toute la durée du Service Orange Money Europe :
 
 - être âgé d’au moins dix-huit (18) ans ;
 
-- résider en Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg ou en France
+- résider en Italie, Espagne, Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en
 
-(hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) ;
+France (hors Polynésie française, Saint-Pierre-et-Miquelon et Wallis-et-Futuna) ;
 
 - être titulaire ou avoir la jouissance d’une ligne mobile avec forfait post-payé, bloqué ou prépayé
 
@@ -370,9 +370,9 @@ terrorisme, en ce compris les listes européennes et nationales de gel des avoir
 
 - et ne pas déjà être titulaire d’un Compte Orange Money Europe.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -400,9 +400,9 @@ l’Utilisateur.
 
 4.2 Le Service Orange Money Europe est proposé aux Utilisateurs résidant en Italie, Espagne,
 
-Allemagne, Pays-Bas, Belgique, Portugal, Luxembourg ou en France (hors Polynésie française, Saint-
+Allemagne, Pays-Bas, Belgique, Portugal, Irlande, Luxembourg ou en France (hors Polynésie française,
 
-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application ou, pour les Utilisateurs de France
+Saint-Pierre-et-Miquelon et Wallis-et-Futuna), à partir de l’Application ou, pour les Utilisateurs de France
 
 uniquement, à partir du Site https://orangemoney.fr/. Les PDV ne sont disponibles qu’aux Utilisateurs
 
@@ -474,8 +474,6 @@ les pièces acceptées ci-dessous) :
 
 - carte ou titre de séjour émis par un état de l’Union Européenne ;
 
-- permis de conduire émis par un état de l’Union Européenne.
-
 Et la photographie numérique de son visage prise au moyen de l’Application Orange Money Europe.
 
 
@@ -488,29 +486,27 @@ Service Orange Money Europe.
 
 
 
-L’Utilisateur acceptera les Conditions d’utilisation par l’intermédiaire d’une case à cocher et recevra un
+L’Utilisateur acceptera les Conditions d’utilisation dans le cadre du parcours du souscription et recevra
 
-exemplaire des présentes Conditions d’utilisation à l’adresse de courrier électronique communiquée au
+un exemplaire des présentes Conditions d’utilisation à l’adresse de courrier électronique communiquée
 
-moment de la souscription du Service. L’Utilisateur pourra à tout moment consulter les Conditions
+au moment de la souscription du Service. L’Utilisateur pourra à tout moment consulter les Conditions
 
 d’utilisation durant le parcours de souscription ou ultérieurement sur l’Application Orange Money Europe
 
 (menu « Mon compte ») ou sur le Site https ://orangemoney.fr/ (rubrique « Conditions Générales
 
-Conditions d’utilisation du Service Orange Money Europe
+d’Utilisation »). A défaut d’acceptation des Conditions d’utilisation par l’Utilisateur, l’inscription au
 
-Version du 10 mai 2023
+Service Orange Money Europe sera annulée.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 18 février 2025
 
 
 
 5
-
-
-
-d’Utilisation »). A défaut d’acceptation des Conditions d’utilisation par l’Utilisateur, l’inscription au
-
-Service Orange Money Europe sera annulée.
 
 
 
@@ -556,11 +552,11 @@ L’Utilisateur devra poursuivre sa demande de souscription via l’Application 
 
 
 
-L’Utilisateur acceptera les Conditions d’utilisation par l’intermédiaire d’une case à cocher et recevra un
+L’Utilisateur acceptera les Conditions d’utilisation dans le cadre du parcours de souscription et recevra
 
-exemplaire des présentes Conditions d’utilisation à l’adresse de courrier électronique communiquée au
+un exemplaire des présentes Conditions d’utilisation à l’adresse de courrier électronique communiquée
 
-moment de la souscription du Service. L’Utilisateur pourra à tout moment consulter les Conditions
+au moment de la souscription du Service. L’Utilisateur pourra à tout moment consulter les Conditions
 
 d’utilisation durant le parcours de souscription ou ultérieurement sur l’Application Orange Money Europe
 
@@ -596,7 +592,9 @@ articles 5.1. et 5.2 ci-avant.
 
 5.3.2 Afin de bénéficier de la souscription complète du Service Orange Money Europe telle que visée à
 
-l’Annexe 1, l’Utilisateur devra en faire la demande via l’Application Orange Money Europe. Cette
+l’Annexe 1, l’Utilisateur devra en faire la demande via l’Application Orange Money Europe ou la
+
+souscription complète pourra être appliquée automatiquement à l’utilisateur dans certains cas. Cette
 
 possibilité ne sera proposée à l’Utilisateur qu’après que celui-ci ait notamment franchi un certain seuil
 
@@ -620,17 +618,19 @@ d’usages).
 
 
 
-5.3.4 L’EME vérifiera l’exactitude et la véracité de l’ensemble des informations fournies par l’Utilisateur.
+5.3.4 L’EME vérifiera l’exactitude et la véracité de l’ensemble des informations fournies par l’Utilisateur
 
-L’EME se réserve le droit de demander à l’Utilisateur tout document supplémentaire attestant de son
+en recourant à un Tiers Partenaire dans le cadre de la vérification d’identité. L’EME se réserve le droit
 
-nom et de son adresse, et, ce, à tout moment si les documents remis ne sont pas jugés satisfaisants.
+de demander à l’Utilisateur tout document supplémentaire attestant de son nom et de son adresse, et,
 
-L’EME se réserve également la possibilité de refuser l’inscription définitive de l’Utilisateur au Service
+ce, à tout moment si les documents remis ne sont pas jugés satisfaisants. L’EME se réserve également
 
-Conditions d’utilisation du Service Orange Money Europe
+la possibilité de refuser l’inscription définitive de l’Utilisateur au Service Orange Money Europe dans le
 
-Version du 10 mai 2023
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 18 février 2025
 
 
 
@@ -638,9 +638,9 @@ Version du 10 mai 2023
 
 
 
-Orange Money Europe dans le cas où les informations et/ou documents requis ne lui sont pas transmis
+cas où les informations et/ou documents requis ne lui sont pas transmis sous un délai de quinze (15)
 
-sous un délai de quinze (15) jours calendaires à compter de la demande de l’EME.
+jours calendaires à compter de la demande de l’EME.
 
 
 
@@ -756,9 +756,9 @@ du Service Orange Money Europe et la vie du contrat. Par conséquent, l’Utilis
 
 régulièrement la messagerie interne de l’Application Orange Money Europe ou les messages reçus sur
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -824,9 +824,9 @@ caisse de chaque PDV.
 
 
 
-8.2 Pour charger et recharger son Compte Orange Money Europe, l’Utilisateur peut procéder des
+8.2 Pour charger et recharger son Compte Orange Money Europe, l’Utilisateur peut notamment
 
-manières suivantes :
+procéder des manières suivantes :
 
 - disponibles pour les Utilisateurs de France uniquement : se rendre dans un PDV muni d’un justificatif
 
@@ -836,11 +836,15 @@ via paiement de proximité par Carte Bancaire dans la mesure où le rechargement
 
 est accepté par ce PDV. Le statut du Compte est alors « activé ». Seules les cartes bancaires françaises
 
-admises par le PDV pourront être utilisées pour effectuer un rechargement, ou ;
+admises par le PDV pourront être utilisées pour effectuer un rechargement, ou
 
 - effectuer un paiement par Carte Bancaire directement à partir de son Application Orange Money
 
-Europe, ou pour les Utilisateurs de France uniquement, via le Site.
+Europe, ou pour les Utilisateurs de France uniquement, via le Site, ou
+
+- effectuer le paiement via un de nos Tiers Partenaires (tel que listés dans l’Application Orange Money
+
+Europe) et suivant les conditions générales de ceux-ci.
 
 
 
@@ -882,9 +886,9 @@ supplémentaires. Ces méthodes seront présentées et détaillées par le biais
 
 communication habituels.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -916,11 +920,9 @@ au titre du dépôt.
 
 8.6 Le solde du Compte Orange Money Europe ne peut pas dépasser les plafonds indiqués en Annexe
 
-1\. Les contrôles des plafonds étant effectués en amont du dépôt, aucun dépôt en espèce ou par Carte
+1\. Les contrôles des plafonds étant effectués en amont du dépôt, aucun dépôt tel que visé à l’article 8.2
 
-Bancaire ne pourra être réalisé par l’Utilisateur dès lors qu’il entraînerait un dépassement desdits
-
-plafonds.
+ne pourra être réalisé par l’Utilisateur dès lors qu’il entraînerait un dépassement desdits plafonds.
 
 
 
@@ -1010,9 +1012,9 @@ supplémentaires. Ces méthodes lui seront présentées et détaillées par le b
 
 communication habituels.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -1138,9 +1140,9 @@ erreur concernant le montant du transfert. Dans un tel cas, le Bénéficiaire de
 
 exclusivement de l’Utilisateur expéditeur du Transfert.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -1264,9 +1266,9 @@ A défaut de fonds suffisants sur son Compte Orange Money Europe pour couvrir la
 
 due au titre d’une Transaction, la Transaction ne pourra pas être opérée.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -1282,9 +1284,9 @@ Article 13 – Compte Orange Money Europe inactif et facturation de frais de ten
 
 dépôt, de retrait, de paiement, de transfert sortant ou de transfert entrant pendant une période
 
-consécutive d’au moins un (1) an, ce Compte sera considéré comme inactif et des frais mensuels de
+consécutive d’au moins un (1) an, ce Compte sera considéré comme inactif, dans les conditions de
 
-tenue de compte seront alors facturés à l’Utilisateur.
+l’article 19.5, et des frais mensuels de tenue de compte seront alors facturés à l’Utilisateur.
 
 
 
@@ -1394,9 +1396,9 @@ accès au Service Orange Money Europe ou de son Code Confidentiel, de l’utilis
 
 détournement du Service Orange Money Europe, l’Utilisateur doit en informer sans tarder le Service
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -1412,9 +1414,11 @@ indiquer les raisons pour lesquelles il demande le blocage.
 
 16.2 Cette demande de blocage doit être faite par téléphone au numéro et aux heures ouvrées du
 
-Service Clients Orange Money Europe indiqués à l’article 24 des présentes. La demande de blocage
+Service Clients Orange Money Europe indiqués à l’article 24 des présentes ou par la messagerie
 
-sera immédiatement prise en compte.
+présente sur l’Application Orange Money Europe. La demande de blocage sera immédiatement prise
+
+en compte.
 
 
 
@@ -1520,9 +1524,9 @@ complémentaire pouvant avoir été demandée pour confirmer le droit à un remb
 
 l’Utilisateur.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -1646,17 +1650,17 @@ Service Orange Money Europe de l’Utilisateur pour l’une des raisons suivante
 
 - s’il n’y avait pas de corrélation entre d’une part les besoins et finalités déclarés initialement par
 
-l’Utilisateur lors de sa souscription initiale ou lors de son éventuelle demande de souscription
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
 14
 
 
+
+l’Utilisateur lors de sa souscription initiale ou lors de son éventuelle demande de souscription
 
 complète et d’autre part les usages finalement observés par l’EME ;
 
@@ -1750,11 +1754,13 @@ Article 19 – Suspension, résiliation et arrêt du Service Orange Money Europe
 
 19.1 Il est précisé que l’Utilisateur a la possibilité de résilier à tout moment son Service Orange Money
 
-Europe en adressant une lettre recommandée avec accusé de réception à l’adresse suivante : W-HA –
+Europe directement dans l’Application Orange Money Europe ou en adressant une lettre recommandée
 
-SAV Orange Money Europe, Village de l'Arche 6, 31 Place Ronde, 92800 PUTEAUX La Défense -
+avec accusé de réception à l’adresse suivante : W-HA – SAV Orange Money Europe, Village de l'Arche
 
-FRANCE ou par la messagerie interne de l’Application Orange Money Europe.
+6, 31 Place Ronde, 92800 PUTEAUX La Défense - FRANCE ou par la messagerie interne de
+
+l’Application Orange Money Europe.
 
 
 
@@ -1772,19 +1778,19 @@ suivants :
 
 - manquement de l’Utilisateur aux présentes notamment en cas de non-respect de la réglementation
 
-applicable à la lutte contre le blanchiment de capitaux et à la lutte contre le financement du
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-terrorisme, en ce compris les listes européennes et nationales de gel des avoirs ;
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
 15
 
 
+
+applicable à la lutte contre le blanchiment de capitaux et à la lutte contre le financement du
+
+terrorisme, en ce compris les listes européennes et nationales de gel des avoirs ;
 
 - perte par l’EME de l’autorisation d’émettre le Service Orange Money Europe ;
 
@@ -1900,9 +1906,9 @@ correspondant au solde résiduel du Compte Orange Money Europe inactif, jusqu'à
 
 nul.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -2026,17 +2032,17 @@ frais de demande de remboursement dont le montant est fixé en Annexe 1 :
 
 - si la demande de remboursement et sa prise d’effet sont antérieures au terme des présentes le
 
-cas échéant tel que renouvelé ;
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
 17
 
 
+
+cas échéant tel que renouvelé ;
 
 - si l’Utilisateur demande la résiliation de son Service Orange Money Europe avant son terme et si
 
@@ -2136,21 +2142,19 @@ Article 23 – Convention de preuve
 
 
 
-Les Parties conviennent de considérer les messages reçus par télécopie ou par voie électronique et
+Les Parties conviennent de considérer les messages reçus par communication électronique et
 
-plus généralement les documents électroniques échangés entre elles, comme des écrits d’origine, c’est
+échangés entre elles, comme des écrits d’origine, c’est à dire comme ayant la même valeur que celle
 
-à dire comme ayant la même valeur que celle accordée à l’original, au sens des dispositions de la loi
+accordée à l’original, au sens des dispositions de la loi locale applicable à l’Utilisateur. Les Parties
 
-locale applicable à l’Utilisateur. Les Parties conviennent de conserver les télécopies ou les écrits
+conviennent de conserver les communications électroniques de telle manière qu’ils puissent constituer
 
-électroniques de telle manière qu’ils puissent constituer des copies fidèles et durables au sens des
+des copies fidèles et durables au sens des dispositions de la loi locale applicable à l’Utilisateur.
 
-dispositions de la loi locale applicable à l’Utilisateur.
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -2192,7 +2196,59 @@ Europe. Dans ce cas, l’EME demeurera responsable vis-à-vis de l’Utilisateur
 
 
 
-25.3 Médiation : Le médiateur, ci-après désigné pour les litiges applicables en France, peut être saisi
+25.3 Renonciation : Le fait pour l’une ou l’autre des Parties de ne pas se prévaloir d’une ou plusieurs
+
+stipulations ne pourra en aucun cas impliquer la renonciation par cette Partie à s’en prévaloir
+
+ultérieurement.
+
+
+
+25.4 Nullité partielle : Dans le cas où certaines stipulations des Conditions d’utilisation seraient
+
+inapplicables pour quelque raison que ce soit, y compris en raison d’une loi ou d’une réglementation
+
+applicable, les Parties resteront liées par les autres stipulations desdites Conditions et s'efforceront de
+
+remédier aux clauses inapplicables dans le même esprit que celui qui a présidé lors de leur souscription.
+
+
+
+25.5 Réclamation : En cas de difficulté pendant la durée des Conditions d’utilisation, l’Utilisateur se
+
+rapproche du Service Clients soit via l’Application Orange Money Europe soit par courrier électronique
+
+adressé à l’adresse électronique suivante : serviceclient.omf@orange.com.
+
+Conformément aux dispositions de l’article L. 121-16 du Code de la consommation, l’EME met
+
+également à la disposition de l’Utilisateur un numéro de téléphone non surtaxé, joignable du lundi au
+
+samedi de 8h à 22h, au 0800 01 33 33 (appel non surtaxé– coût selon opérateur – horaires en France
+
+métropolitaine).
+
+
+
+En cas de désaccord de l’Utilisateur avec la réponse ou la solution apportée par le Service Clients,
+
+l’Utilisateur adresse une réclamation au Service Réclamation de l’EME soit via le formulaire de
+
+réclamation disponible sur l’URL https://www.w-ha.com/reclamations/, soit par courrier postal adressé
+
+à l’adresse suivante : W-HA – Service Réclamation - Village de l’Arche 4 – 52 Place de l’Ellipse – 92984
+
+Paris La Défense.
+
+
+
+Le Service Réclamation s’engage à accuser réception de la réclamation dans les dix (10) jours ouvrés
+
+et à répondre à l’Utilisateur dans les deux (2) mois au plus tard après la réception de sa réclamation.
+
+
+
+25.6 Médiation : Le médiateur, ci-après désigné pour les litiges applicables en France, peut être saisi
 
 en cas de litige né de l’application des présentes Conditions d’utilisation dans les modalités de saisine
 
@@ -2208,25 +2264,15 @@ ne peuvent être ni produites, ni invoquées dans la suite de la procédure sans
 
 
 
-25.4 Renonciation : Le fait pour l’une ou l’autre des Parties de ne pas se prévaloir d’une ou plusieurs
-
-stipulations ne pourra en aucun cas impliquer la renonciation par cette Partie à s’en prévaloir
-
-ultérieurement.
-
-
-
-25.5 Nullité partielle : Dans le cas où certaines stipulations des Conditions d’utilisation seraient
-
-inapplicables pour quelque raison que ce soit, y compris en raison d’une loi ou d’une réglementation
-
-applicable, les Parties resteront liées par les autres stipulations desdites Conditions et s'efforceront de
-
-remédier aux clauses inapplicables dans le même esprit que celui qui a présidé lors de leur souscription.
-
-
-
 Article 26 – Droit applicable et compétence
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 18 février 2025
+
+
+
+19
 
 
 
@@ -2268,14 +2314,6 @@ relatif à la conclusion, l’interprétation, l’exécution et la résiliation
 
 compétence des juridictions des Pays-Bas compétentes.
 
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
-
-
-
-19
-
 
 
 26.5 Lorsque l’Utilisateur réside en Espagne et détient un compte Orange Money Europe ouvert en
@@ -2316,9 +2354,19 @@ et relatif à la conclusion, l’interprétation, l’exécution et la résiliat
 
 la compétence des juridictions luxembourgeoises compétentes.
 
-Conditions d’utilisation du Service Orange Money Europe
 
-Version du 10 mai 2023
+
+26.9 Lorsque l’Utilisateur réside en Irlande et détient un compte Orange Money Europe ouvert en
+
+Irlande, les présentes sont régies par la loi irlandaise. Tout litige survenant entre les Parties et relatif à
+
+la conclusion, l’interprétation, l’exécution et la résiliation des présentes devra être soumis à la
+
+compétence des juridictions irlandaises compétentes.
+
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
+
+Version du 18 février 2025
 
 
 
@@ -2514,7 +2562,7 @@ opération
 
 
 
-500 €\*\* 500€ 500€ 500€ 500€ 500€
+600 €\*\* 600€ 600€ 600€ 600€ 600€
 
 
 
@@ -2526,7 +2574,7 @@ par jour
 
 
 
-500 €\*\*
+600 €\*\*
 
 (dans la limite
 
@@ -2538,7 +2586,7 @@ par jour)
 
 
 
-500€ 500€ 500€ 500€
+600€ 600€ 600€ 600€
 
 
 
@@ -2552,7 +2600,7 @@ calendaire
 
 
 
-500 €\*\* 500€ 500€ 500€ 500€
+600 €\*\* 600€ 600€ 600€ 600€
 
 
 
@@ -2582,9 +2630,9 @@ https://orangemoney.fr/tarifs/et aussi dans l’application Orange Money Europe.
 
 1.3 Conversion EURO / Monnaie du pays du bénéficiaire
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -2600,9 +2648,9 @@ Partenaire agréé en réception choisi par l’Emetteur pour que le Bénéficia
 
 fonds
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
@@ -2620,429 +2668,15 @@ W-HA s’engage, dans le cadre de ses activités et conformément à la législa
 
 utilisateurs de ses services, ainsi qu’à respecter leur vie privée.
 
+La politique des données personnelles est disponible ici : https://www.w-ha.com/donnees-personnelles/
 
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-La présente Politique vous informe sur la façon dont W-HA, ses sous-traitants et ses partenaires
-
-bancaires traitent vos données personnelles.
-
-
-
-Cette Politique est notamment applicable aux clients et utilisateurs des offres et services de W-HA et
-
-aux visiteurs des sites W-HA.com.
-
-
-
-Elle est susceptible d’être complétée par des informations spécifiques portées à la connaissance de
-
-l’utilisateur, s’agissant d’une offre ou d’un service particulier.
-
-
-
-2.1 Pourquoi W-HA traite-t-il vos données ?
-
-
-
-W-HA ne traite les données personnelles que pour des finalités déterminées, explicites et légitimes
-
-directement liées aux offres. A ce titre, W-HA traite vos données dans le cadre de l’exécution d’un
-
-contrat.
-
-
-
-Les finalités poursuivies par W-HA sont les suivantes :
-
-• Gérer l’identité du client ou de l’utilisateur et l’authentifier
-
-• Gérer la commande
-
-• Gérer le matériel
-
-• Facturer et encaisser les paiements
-
-• Assurer le Service Avant-Vente et vendre
-
-• Assurer le Service Après-Vente
-
-• Gérer les données personnelles, caractéristiques et droits d’un contrat
-
-• Traiter les résiliations
-
-• Traiter les réclamations
-
-• Communiquer au titre de la gestion de la clientèle
-
-• Gérer les courriers entrants
-
-• Recouvrer les impayés
-
-• Gérer les contentieux
-
-• Gérer les demandes relatives aux droits des personnes concernées
-
-• Stocker des données du client ou d’un utilisateur
-
-• Proposer des services d’authentification
-
-• Opérer le réseau
-
-• Opérer les services
-
-
-
-W-HA réalise également des traitements de données pour d’autres finalités que la stricte exécution de
-
-contrats. Dans ce cas, W-HA s’assure d’avoir un intérêt légitime à réaliser le traitement. Par ailleurs,
-
-des traitements pourront faire l’objet, autant que de besoin, du recueil de votre consentement, que vous
-
-pourrez retirer à tout moment.
-
-
-
-A cet effet, les finalités poursuivies par W-HA sont les suivantes :
-
-• Organiser des opérations de marketing direct
-
-• Organiser des animations commerciales
-
-• Analyser les usages des offres et des services pour faire des propositions au client
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
 23
-
-
-
-• Sonder les clients ou les utilisateurs
-
-• Améliorer les offres et la relation client
-
-• Assurer la sécurité des plateformes et services
-
-• Déployer et opérer les offres et services
-
-• Lutter contre la fraude
-
-
-
-Vos données sont conservées pour la durée nécessaire à l’accomplissement des finalités mentionnées
-
-ci-dessus.
-
-
-
-W-HA traite également vos données pour répondre à ses obligations légales ou règlementaires
-
-
-
-A cet effet, les finalités poursuivies par W-HA sont les suivantes :
-
-• Conserver les données requises pour être mesure de répondre aux obligations légales ;
-
-• Gérer les demandes de communication de données des autorités habilitées ;
-
-• Assurer le blocage de l’accès aux services en cas de demande légale.
-
-
-
-Vos données sont conservées pour la durée nécessaire à l’accomplissement des finalités mentionnées
-
-ci-dessus. S’agissant des traitements relatifs à l’exécution du contrat, les données peuvent être
-
-conservées au maximum pour une durée de 5 ans à compter de la fin de la relation sauf exigences
-
-légales ou réglementaires. Vos données peuvent alors être conservées le temps nécessaire pour
-
-permettre à W-HA de répondre à ses obligations légales.
-
-
-
-W-HA est également susceptible de réaliser des traitements de vos données à des fins statistiques, y
-
-compris en commercialisant les statistiques obtenues. Dans ce cas l’ensemble des données est
-
-préalablement rendu anonyme.
-
-
-
-2.2 Quelles sont les données traitées ?
-
-
-
-Selon le cas, W-HA traite vos données personnelles, directement collectées auprès de vous ou résultant
-
-de l’utilisation des produits ou services. W-HA est également susceptible d’être destinataire de données
-
-qui ont été collectées auprès de vous par un tiers.
-
-
-
-W-HA ne traite une donnée ou une catégorie de données que si elle est strictement nécessaire à la
-
-finalité poursuivie. Vous pouvez retrouver des informations sur ces finalités ci-dessus.
-
-
-
-W-HA traite les catégories de données suivantes :
-
-• Données d’identification : Nom, prénoms, identifiant, SIREN...
-
-• Caractéristiques personnelles : date de naissance, nationalité...
-
-• Données de contact : adresse postale, email, numéro de téléphone...
-
-• Données économiques et financières : moyens de paiement, historique des paiements...
-
-• Données de connexion, d’usage des services et d’interaction : Logs de connexion, et d’usage,
-
-compte rendu d’intervention...
-
-• Produits et services détenus ou utilisés
-
-• Profils et scores permettant la segmentation client
-
-• Données de localisation
-
-
-
-2.3 Quels sont les destinataires de vos données ?
-
-
-
-Les données collectées sont destinées aux services internes de W-HA et à ses sous-traitants.
-
-
-
-Les données sont également traitées par des partenaires de W-HA pour se conformer aux obligations
-
-réglementaires bancaires. Il s’agit des situations où ses partenaires bancaires interviennent dans le
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
-
-
-
-24
-
-
-
-transfert d’argent jusqu’à la remise au bénéficiaire. Il peut également s’agir de traitements auxquels il
-
-vous est proposé de consentir.
-
-
-
-Les données traitées peuvent enfin, être transmises aux autorités compétentes, à leur demande, dans
-
-le cadre de procédures judiciaires, dans le cadre de recherches judiciaires et de sollicitations
-
-d’information des autorités ou afin de se conformer à d’autres obligations légales.
-
-
-
-2.4 Vos données sont-elles traitées hors UE ?
-
-
-
-Les données collectées sont susceptibles d’être traitées hors de l’Union Européenne. Dans ce cas, W-
-
-HA prend les dispositions nécessaires avec ses sous-traitants et partenaires pour garantir un niveau de
-
-protection de vos données adéquat et ce en toute conformité avec la règlementation applicable.
-
-
-
-Si les sous-traitants et partenaires concernés ne sont pas adhérents à l’accord Privacy Shield s’agissant
-
-de transferts vers les Etats-Unis d’Amérique, ou ne sont pas situés dans un pays disposant d’une
-
-législation considérée comme offrant une protection adéquate, ils auront alors préalablement signé les
-
-«clauses contractuelles types» de la Commission européenne ou seront soumis à des Règles internes
-
-contraignantes approuvées par les autorités.
-
-
-
-2.5 Quels sont vos droits ?
-
-
-
-Vous disposez d’un droit d’accès, de rectification et de suppression des données qui vous concernent.
-
-Vous pouvez demander la portabilité de ces dernières. Vous avez également le droit de vous opposer
-
-aux traitements réalisés ou d’en demander la limitation.
-
-
-
-Vous pouvez émettre des directives sur la conservation, la suppression ou la communication de vos
-
-données personnelles après votre décès.
-
-
-
-Règles spécifiques au démarchage téléphonique en France : Tout consommateur peut s’inscrire
-
-gratuitement sur une liste d’opposition dénommée « Bloctel » afin de ne plus être démarché
-
-téléphoniquement par un professionnel avec lequel il n’a pas de relation contractuelle en cours. Le
-
-consommateur peut s’inscrire sur le site www.bloctel.gouv.fr ou par courrier adressé à : Société
-
-Opposetel, Service Bloctel, 6, rue Nicolas Siret – 10 000 Troyes – France
-
-
-
-2.6 Comment exercer vos droits ?
-
-
-
-Vous pouvez exercer vos droits à tout moment, ainsi que contacter le Délégué à la Protection des
-
-Données personnelles aux adresses ci-dessous.
-
-
-
-Toute demande d’exercice de vos droits doit être accompagnée de la photocopie d’un justificatif
-
-d’identité (cf. liste des pièces acceptées détaillées à l’article 5.1). Une réponse vous sera adressée dans
-
-un délai d’un mois à compter de la réception de votre demande.
-
-
-
-Offres Monnaie Electronique
-
-W-HA monnaie électronique – Gestion des données personnelles, Village de l'Arche 6, 31 Place Ronde,
-
-92800 PUTEAUX La Défense - FRANCE
-
-
-
-Offres Monétiques
-
-W-HA monétique, Gestion des données personnelles, Village de l'Arche 6, 31 Place Ronde, 92800
-
-PUTEAUX La Défense - FRANCE
-
-
-
-Possibilité de saisir l’autorité de contrôle en charge du respect des obligations en matière de
-
-données à caractère personnel
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
-
-
-
-25
-
-
-
-Si vos échanges avec W-HA n’ont pas été satisfaisants, vous avez la possibilité d’introduire une
-
-réclamation auprès de l’autorité de contrôle en charge du respect des obligations en matière de données
-
-à caractère personnel :
-
-
-
-- Pour les clients en France : Commission Nationale l’Informatique et des Libertés - CNIL 3 place
-
-de Fontenoy TSA 80715 – 75334 Paris Cedex 07 ;
-
-
-
-- Pour les clients en Belgique : Autorité de protection des données, rue de la presse, 35 1000
-
-Bruxelles;
-
-
-
-- Pour les clients en Italie : Garante per la protezione dei dati personali, Piazza Venezia 11,
-
-00187 Roma – Italie ;
-
-
-
-- Pour les clients aux Pays-Bas : Dutch Data Protection Authority , Postbus 93374 2509 AJ DEN
-
-HAAG – Pays-Bas ;
-
-
-
-- Pour les clients au Portugal : Comissão Nacional de Proteção de Dados – CNPD, Av. D. Carlos
-
-I, 134, 1º 1200-651 Lisboa – Portugal ;
-
-
-
-- Pour les clients en Espagne : Agencia Española de Protección de Datos (AEPD) C/Jorge Juan,
-
-6, 28001 Madrid – Espagne ;
-
-
-
-- Pour les clients en Allemagne : Der Bundesbeauftragte für den Datenschutz und die
-
-Informationsfreiheit, Graurheindorfer Straße 153, 53117 Bonn – Allemagne ;
-
-
-
-- Pour les clients au Luxembourg : Commission Nationale pour la Protection des Données,
-
-15, Boulevard du Jazz, L-4370 Belvaux – Luxembourg.
-
-
-
-La liste à jour des autorités de contrôle en Europe est disponible sur ce site :
-
-https://edpb.europa.eu/about-edpb/about-edpb/members_fr#
-
-
-
-2.7 Comment vos données sont-elles sécurisées ?
-
-
-
-W-HA s’assure que vos données sont traitées en toute sécurité et confidentialité, y compris lorsque
-
-certaines opérations sont réalisées par des sous-traitants. A cet effet les mesures techniques et
-
-organisationnelles appropriées pour éviter la perte, la mauvaise utilisation, l’altération et la suppression
-
-des données personnelles vous concernant sont mises en place. Ces mesures sont adaptées selon le
-
-niveau de sensibilité des données traitées et selon le niveau de risque que présente le traitement ou sa
-
-mise en œuvre.
-
-
-
-2.8 Modification de la Politique de protection des données
-
-
-
-La présente Politique de protection des données personnelles peut être amenée à évoluer.
-
-Conditions d’utilisation du Service Orange Money Europe
-
-Version du 10 mai 2023
-
-
-
-26
 
 
 
@@ -3154,13 +2788,13 @@ d’utilisation du Service Orange Money Europe, entraînera la suspension ou la 
 
 l’accès à l’Application.
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
-27
+24
 
 
 
@@ -3280,13 +2914,13 @@ soit du logiciel à d'autres fins ou à des fins détournées ou contraires à l
 
 les présentes conditions générales ne confèrent à l’Utilisateur aucun droit de propriété intellectuelle sur
 
-Conditions d’utilisation du Service Orange Money Europe
+Conditions générales d’utilisation du Service Orange Money Europe (« CGU »)
 
-Version du 10 mai 2023
+Version du 18 février 2025
 
 
 
-28
+25
 
 
 
