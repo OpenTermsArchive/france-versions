@@ -248,33 +248,7 @@ Les Produits qui ne seraient pas retournés dans les délais et dans les conditi
 
 A réception du colis, KAPPA FRANCE jugera du parfait état de la marchandise retournée. Si le retour est refusé par KAPPA FRANCE, les Produits seront alors retournés au Client aux frais de KAPPA FRANCE sans que Le Client puisse exiger une quelconque compensation ou droit à remboursement.
 
-Les retours se font à l’adresse suivante :
-
-**Pour les retours France métropolitaine, Irlande, Suisse et autres pays :**
-
-DACHSER LOGISTIQUE
-
-Zone du Landreau Pôle N°1
-
-1, rue Johannes Gutenberg
-
-85130 Chanverrie
-
-FRANCE
-
-**Pour les retours Espagne :**
-
-Devolucion Seller Kappa Iberia
-
-KSI
-
-Vía Dos Castillas 9A – Portal 3
-
-28224 Pozuelo de Alarcon, Madrid  
-
-ESPAÑA
-
-Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (14) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
+Si les conditions ci-dessus sont remplies, KAPPA FRANCE procèdera au remboursement des paiements reçus du Client au titre de la Commande pour les Produits visés (hors frais de livraison et frais de retours déduits). Ce remboursement sera effectué par crédit sur le compte bancaire du Client correspondant à la carte bancaire ayant servi au paiement dans un délai de quatorze (14) jours à compter de la date de l’exercice du droit de rétractation et sous réserve du bon retour du Produit.
 
 **ARTICLE 9 – DISPONIBILITE DU SITE**
 
