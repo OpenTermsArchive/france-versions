@@ -11,6 +11,16 @@ Chers clients français, nous tenons à attirer votre attention sur l'article [1
 
 Prêt ? C'est parti...
 
+**Voir aussi**
+
+[Politique relative aux cookies](https://www.thetrainline.com/fr/terms/cookies)
+
+[Politique de confidentialité](https://www.thetrainline.com/fr/terms/privacy)
+
+[Sécurité](https://www.thetrainline.com/terms/security)
+
+[Informations sur nos services et le classement des résultats de recherche](https://www.thetrainline.com/fr/terms/informations-sur-nos-services-et-le-classement-des-resultats-de-recherche)
+
 Que trouverez-vous dans ces Conditions générales de vente ?
 -----------------------------------------------------------
 
