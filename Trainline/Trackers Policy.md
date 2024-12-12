@@ -7,6 +7,12 @@ Sélection des cookies
 
 Prise d'effet en Janvier, 2022 / Version 1.3
 
+**Voir aussi**
+
+[Politique de confidentialité](https://www.thetrainline.com/fr/terms/privacy)
+
+[Sécurité](https://www.thetrainline.com/terms/security)
+
 QU'EST-CE QU'UN COOKIE?
 -----------------------
 
