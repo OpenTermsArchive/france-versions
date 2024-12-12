@@ -346,9 +346,6 @@
     * [Alohas](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
     * [Cabaia](https://www.printemps.com/fr/fr/cabaia-femme?ap_source=anico&ap_medium=navigation&ap_campaign=cabaia)
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=dragon-diffusion)
-* [COLLABORATIONS](#)
-    * [Coperni x Puma](https://www.printemps.com/fr/fr/puma-coperni?ap_source=anico&ap_medium=navigation&ap_campaign=pumaxcoperni-marque)
-    * [Balmain x Disney](https://www.printemps.com/fr/fr/disney-balmain?ap_source=anico&ap_medium=navigation&ap_campaign=balmainxdisney-marque)
 
 * [TOP MARQUES](#)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865?ap_source=anico&ap_medium=navigation&ap_campaign=saison1865-marque)
