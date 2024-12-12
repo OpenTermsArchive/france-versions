@@ -5,6 +5,12 @@ Bienvenue sur la politique de confidentialité de Trainline. Quand vous utilisez
 
 En vigueur le 7 novembre 2022 / Version 1.12
 
+**Lire aussi**
+
+[Politique relative aux cookies](https://www.thetrainline.com/fr/terms/cookies)
+
+[Conditions générales de vente](https://www.thetrainline.com/fr/terms)
+
 Qui sommes-nous et que faisons-nous ?
 -------------------------------------
 
@@ -323,6 +329,15 @@ Vous pouvez nous demander d'effacer vos données dans certains cas.
 Vous pouvez vous opposer à la façon dont nous traitons vos données.
 
 [En savoir plus](https://ico.org.uk/your-data-matters/the-right-to-object-to-the-use-of-your-data/)
+
+Supprimer votre compte
+----------------------
+
+Vous pouvez choisir de supprimer votre compte et les données personnelles en notre possession en cliquant sur le bouton ci-dessous :
+
+[Supprimer le compte](mailto:DPO@thetrainline.com?subject=Close%20My%20Account%20Request)
+
+Vous devrez également vous déconnecter de votre compte si vous êtes toujours connecté. 
 
 Nous contacter
 --------------
