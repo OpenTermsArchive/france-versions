@@ -72,7 +72,7 @@
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs)
     * [Voir Tout](https://www.printemps.com/fr/fr/tous-les-sacs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_sacs)
     * [Maroquinerie de luxe](https://www.printemps.com/fr/fr/maroquinerie-de-luxe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=maroquinerie_luxe)
-    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-auto-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_sacs)
+    * [Nouveautés sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_sacs)
     * [Sacs iconiques](https://www.printemps.com/fr/fr/sacs-iconiques?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_iconiques)
     * [Sacs À Main](https://www.printemps.com/fr/fr/sacs-main-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_a_main)
     * [Sacs BandouliÈRe](https://www.printemps.com/fr/fr/sacs-bandouliere-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_bandouliere)
@@ -86,7 +86,7 @@
 
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussures)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_chaussures)
-    * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-auto-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
+    * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
     * [Ballerines Et Babies](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Babies/Ballerines?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerines_babies)
     * [Derbies Et Moccassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins?ap_source=anico&ap_medium=nav-femme&ap_campaign=derbies_mocassins)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=escarpins)
