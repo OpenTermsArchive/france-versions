@@ -4,7 +4,7 @@
 
 Conditions Générales
 
-Applicables au 26/11/2024
+Applicables au 12/12/2024
 
 
 
@@ -128,7 +128,7 @@ CHAPITRE 4 : LE DÉCOUVERT AUTORISÉ............................................
 
 CHAPITRE 5 : LIVRET A ........................................................................................................................................... 28
 
-CHAPITRE 6 : LIVRET D’EPARGNE POPULAIRE ............................................................................................... 29
+CHAPITRE 6 : LIVRET D’EPARGNE POPULAIRE........................................................................................................ 29
 
 CHAPITRE 7 : LIVRET DE DÉVELOPPEMENT DURABLE ET SOLIDAIRE ..................................................................... 30
 
@@ -142,59 +142,69 @@ CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT....................................
 
 CHAPITRE 12 : LE COMPTE A TERME...................................................................................................................... 37
 
-TITRE III – BOURSO BUSINESS : LA BANQUE POUR LES PROS ................................................. 39
+TITRE III – BOURSOFIRST : L’OFFRE BANQUE PRIVEE ......................................................... 39
 
-CHAPITRE 1 : LE COMPTE BUSINESS ...................................................................................................................... 39
+CHAPITRE 1 : L’ADHESION BOURSOFIRST.............................................................................................................. 39
 
-CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 41
+CHAPITRE 2 : LE COMPTE A TERME BOURSOFIRST ................................................................................................ 40
 
-CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 50
+CHAPITRE 3 : LES PRODUITS STRUCTURES SUR MESURE....................................................................................... 40
 
-CHAPITRE 4 : COMPTE A TERME BUSINESS ........................................................................................................... 51
+CHAPITRE 4 : LA SYNTHESE PATRIMONIALE .......................................................................................................... 41
 
-CHAPITRE 5 : COMPTE SUR LIVRET PRO................................................................................................................. 51
+TITRE IV – BOURSO BUSINESS : LA BANQUE POUR LES PROS ................................................. 42
 
-TITRE IV – LA BOURSE ET L’ÉPARGNE........................................................................................... 53
+CHAPITRE 1 : LE COMPTE BUSINESS ...................................................................................................................... 42
 
-CHAPITRE 1 : LES COMPTES D’INSTRUMENTS FINANCIERS ................................................................................... 53
+CHAPITRE 2 : LES INSTRUMENTS DE PAIEMENT .................................................................................................... 44
 
-CHAPITRE 2 : LE COMPTE-TITRES ORDINAIRE........................................................................................................ 64
+CHAPITRE 3 : LE DÉCOUVERT AUTORISÉ................................................................................................................ 53
 
-CHAPITRE 3 : LES PEA ET PEA-PME ........................................................................................................................ 66
+CHAPITRE 4 : COMPTE A TERME BUSINESS ........................................................................................................... 54
 
-CHAPITRE 4 : LE COMPTE D’EPARGNE FINANCIERE PILOTEE ................................................................................. 70
+CHAPITRE 5 : COMPTE SUR LIVRET PRO................................................................................................................. 54
 
-CHAPITRE 5: L’ASSURANCE VIE.............................................................................................................................. 71
+TITRE V – LA BOURSE ET L’ÉPARGNE............................................................................................ 56
 
-TITRE V – AUTRES SERVICES........................................................................................................... 73
+CHAPITRE 1 : LES COMPTES D’INSTRUMENTS FINANCIERS ................................................................................... 56
+
+CHAPITRE 2 : LE COMPTE-TITRES ORDINAIRE........................................................................................................ 67
+
+CHAPITRE 3 : LES PEA ET PEA-PME ........................................................................................................................ 69
+
+CHAPITRE 4 : LE COMPTE D’EPARGNE FINANCIERE PILOTEE ................................................................................. 73
+
+CHAPITRE 5: L’ASSURANCE VIE.............................................................................................................................. 74
+
+TITRE VI – AUTRES SERVICES.......................................................................................................... 76
 
 ANNEXE I : FORMULAIRE TYPE CONCERNANT LES INFORMATIONS À FOURNIR AUX
 
-DÉPOSANTS ........................................................................................................................................ 81
+DÉPOSANTS ........................................................................................................................................ 84
 
 ANNEXE II : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 83
+BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 86
 
 ANNEXE III : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 89
+BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 92
 
 ANNEXE IV : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 95
+BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 98
 
 ANNEXE V : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 101
+BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 104
 
 ANNEXE VI : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE FITBIT PAY ................................................................................ 107
+BOURSOBANK VIA LE SERVICE FITBIT PAY ................................................................................ 110
 
 ANNEXE VII : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS
 
-AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 113
+AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 116
 
 5
 
@@ -330,9 +340,9 @@ fournit à BOURSORAMA est et restera exact pendant toute
 
 la durée de la Convention. Les mises à jour devant être
 
-
-
 réalisées par le Client à partir de son espace personnel
+
+
 
 sécurisé, accessible via ses identifiant et mot de passe
 
@@ -1602,7 +1612,7 @@ l’ensemble de ses comptes ouverts dans les livres de
 
 BOURSORAMA. Ce délai ne s’appliquera pas à la
 
-compensation prévue à l’article 5.4 du Titre IV, Chapitre 1.
+compensation prévue à l’article 5.4 du Titre V, Chapitre 1.
 
 
 
@@ -1956,7 +1966,7 @@ l’article 11.2 au plus tard :
 
 • 30 (trente) jours avant leur entrée en vigueur pour les
 
-produits et services décrits au Titre IV, et 2 (deux) mois pour
+produits et services décrits au Titre V, et 2 (deux) mois pour
 
 les autres.
 
@@ -2154,7 +2164,7 @@ selon les termes du règlement de la succession.
 
 
 
-S’agissant des titres financiers (cf. Titre IV), ceux-ci sont
+S’agissant des titres financiers (cf. Titre V), ceux-ci sont
 
 liquidés par BOURSORAMA s’ils représentent une position
 
@@ -2578,7 +2588,7 @@ https://lemediateur.fbf.fr/
 
 - Si le litige concerne une opération sur les marchés
 
-financiers (Titre IV) :
+financiers (Titre V) :
 
 Formulaire électronique à utiliser de préférence sur le site
 
@@ -6478,13 +6488,13 @@ de rattachement »).
 
 
 
-La cotisation sera prélevée le 6ème jour ouvré de chaque
+La cotisation sera prélevée chaque mois sur le Compte de
 
-mois sur le Compte de rattachement. A cet effet, le Client
+rattachement. A cet effet, le Client autorise BOURSORAMA
 
-autorise BOURSORAMA à prélever directement la
+à prélever directement la cotisation mensuelle sur le
 
-cotisation mensuelle sur le Compte de rattachement.
+Compte de rattachement.
 
 
 
@@ -6493,6 +6503,8 @@ Si le Compte de rattachement présente un solde insuffisant,
 le prélèvement sera présenté une seconde fois le 13ème jour
 
 ouvré, puis à nouveau le 20ème jour ouvré.
+
+
 
 3.2 Versement des avantages
 
@@ -6514,17 +6526,13 @@ Client a la possibilité de résilier son offre Boursoprime à tout
 
 moment et sans préavis, depuis son Espace Client. La
 
-résiliation intervenant après le 7ème jour du mois ne sera
+résiliation est immédiate. Toute cotisation déjà prélevée sur
 
-effective que le dernier jour du mois en cours. Toute
+le Compte bancaire du Client ne pourra donner lieu à un
 
-cotisation déjà prélevée sur le Compte bancaire du Client
+remboursement, le Client ne percevra plus d’avantages à
 
-ne pourra donner lieu à un remboursement, toutefois, le
-
-Client continuera de percevoir ses avantages pour le mois
-
-entier suivant le dernier prélèvement de la cotisation.
+compter de sa résiliation.
 
 
 
@@ -6698,6 +6706,8 @@ Article 2 : Ouverture du Livret A
 
 2.1 Titulaires : L’ouverture d’un Livret A est exclusivement
 
+
+
 réservée à un Titulaire seul, personne physique, d’un
 
 Compte.
@@ -6850,13 +6860,13 @@ l’Espace Client.
 
 Sur demande expresse du Client, BOURSORAMA,
 
-moyennant facturation (cf. Brochure Tarifaire), lui adressera
-
-ce relevé sous format papier, par voie postale.
-
 29
 
 
+
+moyennant facturation (cf. Brochure Tarifaire), lui adressera
+
+ce relevé sous format papier, par voie postale.
 
 En l’absence de mouvements enregistrés sur le Livret A, un
 
@@ -7010,8 +7020,6 @@ fiscale si les conditions de revenus sont respectées par le
 
 contribuable lors de la demande l'ouverture d'un Livret
 
-
-
 d’Epargne Populaire ainsi que chaque année s’il en est déjà
 
 titulaire. Lorsque l'administration fiscale n'est pas en
@@ -7158,15 +7166,15 @@ l’avis d’impôt sur le revenu ou de l’avis de situation
 
 déclarative à l’impôt sur le revenu de son foyer fiscal établi
 
+30
+
+
+
 l’année précédente au titre des revenus de l’avant-dernière
 
 année et établi durant l’année en cours au titre des revenus
 
 de l’année précédente. La Banque se réserve la possibilité
-
-30
-
-
 
 de demander la justification de la qualité de conjoint ou de
 
@@ -7320,8 +7328,6 @@ les Livrets d’Epargne Populaire pour lesquels ils établissent
 
 que leurs titulaires cessent de remplir la condition de
 
-
-
 plafond de revenus pour la deuxième année consécutive,
 
 ou n’ont pu justifier la remplir. Ces comptes sont clôturés au
@@ -7458,6 +7464,8 @@ son domicile fiscal en France,
 
 Article 3 : Modalités de fonctionnement
 
+31
+
 
 
 3.1 Opérations enregistrées sur le LDDS : Les opérations
@@ -7469,8 +7477,6 @@ initiés par le Titulaire de ou vers son compte. Aucun
 virement permanent au débit du LDDS ne peut être mis en
 
 place.
-
-31
 
 
 
@@ -7608,6 +7614,8 @@ est librement fixé par BOURSORAMA. Ce taux est
 
 susceptible de varier à tout moment. BOURSORAMA
 
+
+
 informe le Titulaire des modifications du taux et de sa date
 
 d’entrée en vigueur par tout moyen.
@@ -7615,8 +7623,6 @@ d’entrée en vigueur par tout moyen.
 Les sommes versées portent intérêt à partir du premier jour
 
 de la quinzaine suivant le versement et les sommes retirées
-
-
 
 cessent de porter intérêt à partir de la quinzaine précédant
 
@@ -7756,6 +7762,8 @@ jusqu’à la 25ème année du Titulaire, dans la limite du plafond
 
 tel que spécifié dans l’article 1.
 
+32
+
 
 
 Les opérations enregistrées sur le Compte sur Livret Jeune
@@ -7767,8 +7775,6 @@ profit du Titulaire ou des virements de ou vers son compte.
 Aucun virement permanent au débit du Compte sur Livret
 
 Jeune ne peut être mis en place.
-
-32
 
 
 
@@ -7907,6 +7913,8 @@ CHAPITRE 9 : LE LIVRET BOURSO+
 Le Livret Bourso+ (ci-après le « Livret Bourso+ ») est un
 
 compte sans moyen de paiement adossé et produisant des
+
+
 
 intérêts. Les sommes déposées sur le Livret Bourso+ sont
 
@@ -8058,6 +8066,10 @@ compte au titre de l’année suivante. Cette
 
 déclaration est valable jusqu’au 31 décembre de
 
+33
+
+
+
 l’année suivant celle au cours de laquelle elle
 
 est faite.
@@ -8069,10 +8081,6 @@ est faite.
 Les non-résidents fiscaux français sont exonérés d’impôt
 
 sur le revenu et de prélèvements sociaux en France mais
-
-33
-
-
 
 potentiellement redevables dans leur pays de résidence
 
@@ -8209,6 +8217,8 @@ Article 3 : Plafond des dépôts, indisponibilité
 des contraintes particulières des contrats de plan d’épargne
 
 logement, les intérêts capitalisés au 31 décembre de
+
+
 
 chaque année n’entrent pas en ligne de compte pour le
 
@@ -8360,6 +8370,8 @@ Article 6 : Résiliation du PEL
 
 6.1 Le PEL est résilié de plein droit lorsque :
 
+34
+
 
 
 • le total des versements annuels est inférieur à 540 €.
@@ -8375,10 +8387,6 @@ partiel au cours de la période d’indisponibilité des fonds.
 6.2 Si la résiliation du PEL intervient moins de trois (3) ans
 
 après la date de versement initial, le souscripteur perd le
-
-34
-
-
 
 bénéfice des avantages attachés à son PEL (taux d’intérêt
 
@@ -8518,6 +8526,8 @@ troisième anniversaire si la résiliation du PEL intervient au
 
 cours de la quatrième année) et par l’application des
 
+
+
 coefficients fixés lors de la souscription du PEL, qui tiennent
 
 compte du taux de conversion de 2,50 fixé à l’article R. 315-
@@ -8531,8 +8541,6 @@ souscription de parts de Sociétés Civiles de Placement
 Immobilier (SCPI) pour lesquels le coefficient maximal est
 
 fixé à 1,50. Il est précisé que seuls seront pris en compte
-
-
 
 pour la détermination du prêt d’épargne logement les
 
@@ -8648,8 +8656,6 @@ habituellement au foyer de ce dernier.
 
 CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT
 
-
-
 Le Compte d’Epargne Logement (ci-après le « CEL ») est
 
 un compte d’épargne à vue, sur lequel les fonds sont
@@ -8670,6 +8676,10 @@ BOURSORAMA. Le Titulaire ne peut posséder, chez
 
 BOURSORAMA ou dans un autre établissement, d’autres
 
+35
+
+
+
 comptes de la même nature à son nom. La possession
 
 simultanée de plusieurs CEL est interdite et entraîne la
@@ -8683,10 +8693,6 @@ Un CEL peut cependant être ouvert, dans les mêmes
 conditions, au nom de chacun des membres d’une même
 
 famille.
-
-35
-
-
 
 Le Titulaire d’un CEL peut également souscrire un PEL, à
 
@@ -8822,6 +8828,8 @@ compte, d’une attestation comportant l’indication de la date
 
 d’ouverture et du montant du compte, du coefficient de
 
+
+
 conversion des intérêts et du barème en résultant, ainsi que
 
 des intérêts acquis depuis l’ouverture.
@@ -8837,8 +8845,6 @@ cas de transformation d’un PEL en CEL, le CEL est réputé
 ouvert depuis la date de souscription du PEL, si cette
 
 dernière est plus ancienne, mais les conditions de
-
-
 
 rémunération sont celles en vigueur à la date de
 
@@ -8910,8 +8916,6 @@ La perception des prélèvements sociaux est réalisée lors du
 
 versement de la prime.
 
-
-
 4.2 La prime est versée, le cas échéant, au bénéficiaire du
 
 prêt au moment du déblocage du prêt. Le versement de la
@@ -8972,6 +8976,8 @@ Par exception à cette règle, ils peuvent cependant servir à
 
 financer l’acquisition :
 
+36
+
 
 
 • de parts de sociétés civiles de placement immobilier (ci-
@@ -8991,8 +8997,6 @@ société civile d’attribution ;
 Dans cette seconde hypothèse, les conditions cumulatives
 
 suivantes doivent être remplies :
-
-36
 
 
 
@@ -9126,6 +9130,8 @@ d'une acquisition avec travaux ou de travaux, l'occupation
 
 doit être effective dès l'achèvement des travaux.
 
+
+
 Toutefois, les personnes qui justifient ne pouvoir utiliser le
 
 logement qu'après leur mise à la retraite ou leur retour de
@@ -9145,8 +9151,6 @@ camping-car, de toute autre habitation de même nature
 ainsi que des bateaux et caravanes est donc exclu, sauf à
 
 titre exceptionnel pour les forains et les mariniers.
-
-
 
 Les prêts accordés pour le financement des travaux
 
@@ -9280,6 +9284,10 @@ doit intervenir dans le délai maximum de six mois à compter
 
 de cette vente. L'établissement prêteur conserve
 
+37
+
+
+
 naturellement toute sa faculté d'appréciation de la
 
 consistance du nouveau gage.
@@ -9297,10 +9305,6 @@ arrêter le montant d'intérêts acquis à son CEL.
 L'établissement gestionnaire du CEL délivre à l'intéressé un
 
 relevé faisant apparaître le montant des intérêts acquis.
-
-37
-
-
 
 Les intérêts acquis à cette date et non utilisés pourront
 
@@ -9452,8 +9456,6 @@ tranches, à la diligence de l'établissement prêteur. En
 
 aucun cas le montant des versements fractionnés ne peut
 
-
-
 être supérieur aux appels de fonds justifiés par
 
 l'entrepreneur ou le vendeur. Les intérêts intercalaires sont
@@ -9582,6 +9584,8 @@ Article 2 : Ouverture
 
 2.1 Titulaire
 
+38
+
 
 
 Le Compte à Terme peut être ouvert par toute personne
@@ -9603,8 +9607,6 @@ ouverture de compte.
 
 
 2.2 Dépôt
-
-38
 
 
 
@@ -9676,6 +9678,24 @@ Bancaire BoursoBank.
 
 
 
+3.4 Décès du Tiitulaire
+
+
+
+Le décès du Titulaire entraîne la clôture anticipée du
+
+Compte à Terme au jour du décès.
+
+Dans ce cas, aucun intérêt ne sera versé et les sommes
+
+figurant au crédit du compte soldé seront versées sur le
+
+compte courant individuel au nom du défunt ou un compte
+
+à ouvrir à son nom via un versement unique.
+
+
+
 Article 4 : Fiscalité
 
 
@@ -9714,6 +9734,8 @@ novembre de l’année en cours pour une prise en
 
 compte au titre de l’année suivante. Cette
 
+
+
 déclaration est valable jusqu’au 31 décembre de
 
 l’année suivant celle au cours de laquelle elle
@@ -9736,7 +9758,779 @@ fiscale.
 
 
 
-TITRE III – BOURSO BUSINESS : LA
+TITRE III – BOURSOFIRST :
+
+L’OFFRE BANQUE PRIVEE
+
+
+
+L’Offre BoursoFirst est une adhésion permettant d’obtenir
+
+un ensemble de services et l’accès à la souscription de
+
+produits exclusifs, en contrepartie du paiement d’une
+
+cotisation mensuelle, dont le montant est précisé dans la
+
+Brochure Tarifaire.
+
+
+
+En cas de modification ou de suppression de l’un des
+
+produits ou services proposés dans l’offre BoursoFirst,
+
+BOURSORAMA en informera le Client par tous moyens, en
+
+respectant un délai de prévenance légal. Sauf exception
+
+dont le Client sera informé, ces modifications remplaceront
+
+les produits et les services dont bénéficiait le Client.
+
+
+
+Cette offre est réservée aux personnes physiques,
+
+majeures et capables, et fiscalement résidentes France
+
+détentrices d’un Compte bancaire individuel ou joint
+
+BoursoBank (hors offre Bourso Business).
+
+
+
+CHAPITRE 1 : L’ADHESION BOURSOFIRST
+
+
+
+Article 1 : Adhésion
+
+
+
+Le Client peut adhérer à l’offre BoursoFirst via son Espace
+
+Client. L’adhésion sera formalisée par l’envoi d’un e-mail de
+
+confirmation par BOURSORAMA et la mise à disposition du
+
+formulaire d’adhésion dans son espace « Mes Documents
+
+».
+
+
+
+L’adhésion à BoursoFirst est d’une durée minimum de 1 an
+
+(douze mois), avec tacite reconduction mensuelle.
+
+
+
+Article 2 : Droit de rétractation
+
+
+
+Conformément à l'article L222-7 du Code de la
+
+consommation, le Client bénéficie d'un délai de rétractation
+
+de 14 jours calendaires à compter de la conclusion du
+
+contrat sans pénalité et sans à en justifier les motifs. Pour
+
+notifier à BoursoBank sa volonté de se rétracter, le Client
+
+doit renvoyer par courrier le formulaire de rétractation au
+
+Service Clientèle de BoursoBank.
+
+
+
+Conséquences de la rétractation
+
+A compter de la date effective de la rétractation, le Client ne
+
+pourra plus bénéficier des services BoursoFirst ni souscrire
+
+les produits exclusifs BoursoFirst. Les produits BoursoFirst
+
+déjà souscrits resteront actifs.
+
+
+
+Article 3 : Composition de l’offre
+
+
+
+L’offre BoursoFirst fait bénéficier le Client d’un ensemble de
+
+produits et services exclusifs. La tarification de cette offre et
+
+des produits rattachés peut être consultée dans la Brochure
+
+Tarifaire.
+
+L’offre BoursoFirst est constituée des produits et services
+
+suivants :
+
+• Accès privilégié au service client : les
+
+appels des clients détenteurs de l’offre
+
+BoursoFirst seront traités prioritairement par
+
+l’équipe Banque Privée dédiée. Sur
+
+demande, le Client BoursoFirst peut avoir
+
+des précisions sur les offres exclusives de
+
+BoursoFirst et des simulations sur ses
+
+projets de vie (retraite, succession, fiscalité,
+
+assurance vie et projet immobilier).
+
+
+
+• Une synthèse patrimoniale, sur
+
+demande : restitution pédagogique des
+
+données communiquées par le Client
+
+
+
+BoursoFirst sur son patrimoine et ses
+
+revenus.
+
+
+
+• L'Offre METAL est gratuite pour les
+
+adhérents BoursoFirst (en version physique
+
+ou dématérialisée). L'équipement de l'Offre
+
+METAL n'est pas automatique, pour en
+
+bénéficier, le Client doit souscrire l'Offre
+
+METAL depuis son espace client. Cette
+
+gratuité s'arrête en cas de résiliation ou
+
+rétractation à l’offre BoursoFirst et la
+
+facturation redevient celle prévue dans la
+
+Brochure Tarifaire.
+
+
+
+Pour les clients détenteurs de l'Offre METAL
+
+préalablement à BoursoFirst, la gratuité
+
+s'applique automatiquement sur la
+
+cotisation suivant l’adhésion à l’offre
+
+BoursoFirst.
+
+
+
+• L’Offre Boursoprime est gratuite pour
+
+les adhérents BoursoFirst. L’équipement de
+
+Boursoprime n’est pas automatique. Cette
+
+gratuité s’arrête en cas de résiliation ou
+
+rétractation à l’offre BoursoFirst et la
+
+facturation redevient celle prévue dans la
+
+Brochure Tarifaire. Pour les détenteurs de
+
+l'Offre Boursoprime préalablement à
+
+BoursoFirst, la gratuité s'applique
+
+automatiquement sur la cotisation suivant
+
+l’adhésion à l’offre BoursoFirst.
+
+
+
+• Un Compte à terme BoursoFirst,
+
+réservé aux adhérents à l’offre BoursoFirst
+
+et accessible à partir d’un montant minimum
+
+mentionné dans la Brochure Tarifaire
+
+disponible sur le site
+
+www.boursobank.com.
+
+
+
+• Des produits structurés sur mesure,
+
+éligibles au Compte Titres ordinaires,
+
+réservés aux adhérents à l’offre BoursoFirst
+
+et accessible à partir d’un montant minimum
+
+mentionné dans la Brochure Tarifaire
+
+disponible sur le site
+
+www.boursobank.com.
+
+
+
+• Un crédit lombard, réservé aux
+
+adhérents à l’offre BoursoFirst et accessible
+
+à partir d’un montant minimum mentionné
+
+dans la Brochure Tarifaire disponible sur le
+
+site www.boursobank.com.
+
+
+
+• Un tarif spécifique, sur demande, pour
+
+les ordres passés sur un compte-titre
+
+consultable dans la Brochure Tarifaire
+
+disponible sur le site
+
+www.boursobank.com.
+
+
+
+• Un taux préférentiel réservé aux
+
+adhérents à l’offre BoursoFirst sur les prêts
+
+personnels immobiliers d’un montant
+
+minimum tel que mentionné dans la
+
+Brochure Tarifaire disponible sur le site
+
+www.boursobank.com.
+
+
+
+Les produits BoursoFirst ne peuvent être souscrits sans être
+
+adhérents à BoursoFirst. De même, les services
+
+BoursoFirst ne sont pas accessibles sans adhésion à l’offre
+
+BoursoFirst.
+
+
+
+Article 4 : Modalités de paiement de la cotisation
+
+40
+
+
+
+Lors de l’adhésion à BoursoFirst, le Client choisit le Compte
+
+bancaire sur lequel seront prélevées les cotisations (ci-
+
+après le « Compte de rattachement »).
+
+
+
+La cotisation sera prélevée le 1er jour ouvré de chaque mois
+
+sur le Compte de rattachement. A cet effet, le Client autorise
+
+BOURSORAMA à prélever directement la cotisation
+
+mensuelle sur le Compte de rattachement. Si le Compte de
+
+rattachement présente un solde insuffisant, le prélèvement
+
+sera présenté une seconde fois le 1er jour ouvré du mois
+
+suivant (m+1), puis 1er jour ouvré du mois d’après (m+2).
+
+Si lors de la 3ème tentative, le prélèvement est encore
+
+rejeté, l’adhésion à BoursoFirst sera automatiquement
+
+résiliée à J+1.
+
+
+
+Si le Client adhérent à BoursoFirst souhaite modifier le
+
+compte de prélèvement de la cotisation, il peut le faire en
+
+contactant le service client.
+
+
+
+Article 5 : Durée du contrat et fin de l’adhésion
+
+
+
+Le contrat est conclu pour une durée initiale de 1 an,
+
+renouvelable par tacite reconduction. Le Client a la
+
+possibilité de mettre fin à son adhésion à l’offre BoursoFirst
+
+à tout moment et sans préavis, depuis son Espace Client.
+
+En cas de résiliation durant la 1ère année suivant l’adhésion
+
+à l’offre BoursoFirst
+
+
+
+La résiliation peut intervenir à tout moment à l’issue du délai
+
+de rétractation. Elle sera alors enregistrée immédiatement
+
+par BoursoBank et prendra effet à l’échéance de l’adhésion
+
+annuelle. Les cotisations à l’adhésion BoursoFirst
+
+continueront d’être prélevées conformément à l’article
+
+« modalités de paiement de la cotisation » ; l’adhérent
+
+continuera à bénéficier de l’accès aux produits et services
+
+de la gamme BoursoFirst jusqu’à l’échéance annuelle de
+
+l’adhésion.
+
+
+
+En cas de résiliation après la 1ère année d’adhésion
+
+Toute résiliation, quelle que soit la date de la demande (du
+
+1 au 31 du mois M), sera effective au jour de la résiliation.
+
+Toute cotisation déjà prélevée sur le Compte bancaire du
+
+Client ne pourra donner lieu à un remboursement. A
+
+compter de la résiliation, le Client ne pourra plus souscrire
+
+de produits exclusifs ni accéder aux services BoursoFirst.
+
+Les produits de l'offre BoursoFirst auxquels le Client a
+
+souscrit avant la résiliation continueront d'être actifs après
+
+celle-ci.
+
+
+
+Il est possible d’adhérer de nouveau à l’offre BoursoFirst à
+
+la suite d’une résiliation à l’initiative du client ou de
+
+Boursorama. La nouvelle adhésion aura alors une durée
+
+initiale de 1 an, renouvelable par tacite reconduction.
+
+
+
+Article 6 : Résiliation à l’initiative de Boursorama
+
+
+
+BOURSORAMA se réserve le droit de résilier
+
+immédiatement l’adhésion à BoursoFirst du Client en cas
+
+d’impayé de la cotisation au cours de la troisième
+
+présentation du prélèvement.
+
+En outre, en cas de clôture du Compte de rattachement soit
+
+à l’initiative du Client, soit à l’initiative de BOURSORAMA,
+
+l’adhésion BoursoFirst sera résiliée automatiquement le
+
+jour de la clôture effective du Compte de rattachement. En
+
+cas de clôture du compte au cours de la première année
+
+d’adhésion, le solde de l’adhésion annuelle sera prélevé
+
+automatiquement sur le compte du Client.
+
+
+
+CHAPITRE 2 : LE COMPTE A TERME BOURSOFIRST
+
+
+
+Les dispositions du Compte à terme BoursoFirst sont les
+
+mêmes que celles du Compte à terme telles que décrites
+
+dans les présentes Conditions Générales au TITRE II – LA
+
+BANQUE, chapitre « LE COMPTE A TERME ». Les
+
+spécificités du Compte à terme BoursoFirst sont détaillées
+
+ci-dessous :
+
+
+
+• L’ouverture d’un Compte à terme
+
+BoursoFirst est exclusivement réservée aux
+
+Clients adhérents à l’offre BoursoFirst.
+
+• L’ouverture d’un Compte à terme
+
+BoursoFirst est accessible à partir d’un montant
+
+minimum mentionné dans la Brochure Tarifaire
+
+disponible sur le site www.boursobank.com.
+
+
+
+CHAPITRE 3 : LES PRODUITS STRUCTURES SUR
+
+MESURE
+
+
+
+Article 1 : Présentation des Produits structurés sur
+
+mesure
+
+
+
+Les dispositions du Chapitre 1 « les comptes d’instruments
+
+financiers » du Titre V s’appliquent aux Produits structurés
+
+sur mesure, à l’exclusion des articles 6.3 à 7\. En cas de
+
+contradiction entre les dispositions du présent Chapitre et
+
+celles du Chapitre 1 du Titre V, les dispositions du présent
+
+Chapitre prévalent.
+
+
+
+BOURSORAMA rappelle à ses Clients que les produits
+
+structurés sont des instruments financiers complexes et/ou
+
+risqués, et les renvoie vers la fiche produit consultable sur
+
+l’Espace Client du Titulaire depuis la rubrique « Mon Profil
+
+Investisseur » pour plus d’informations sur leurs
+
+caractéristiques et les risques qu’ils présentent.
+
+
+
+Article 2 : Éligibilité aux Produits structurés sur
+
+mesure
+
+
+
+La souscription aux Produits structurés sur mesure est
+
+exclusivement réservée aux adhérents de l’offre
+
+BoursoFirst, et aux Clients résidents fiscaux français et
+
+résidant en France.
+
+
+
+Ne peuvent souscrire à un Produit structuré sur mesure que
+
+les titulaires d’un Compte Titres Ordinaires (se reporter aux
+
+dispositions du Chapitre 2 du Titre V concernant le
+
+fonctionnement du Compte Titres Ordinaires), hors compte
+
+joint.
+
+
+
+Les demandes de souscription de produits structurés seront
+
+réalisées sous réserve de l’existence sur le compte espèce
+
+rattaché au Compte Titres Ordinaires d’une provision
+
+suffisante et disponible.
+
+
+
+Article 3 : Simulation et souscription aux Produits
+
+structurés sur mesure
+
+
+
+3.1 Avant toute souscription d’un Produit structuré sur
+
+mesure, le Titulaire doit avoir pris connaissance du
+
+document d’informations clés (DIC), des termes et
+
+conditions liés audit produit, de la Brochure Tarifaire et des
+
+présentes Conditions Générales, et être conscient des
+
+risques auxquels il s’expose.
+
+
+
+3.2 La souscription des Produits structurés sur mesure
+
+s’effectue exclusivement via l’Application mobile
+
+BOURSORAMA du Client.
+
+
+
+3.3 Chaque souscription doit être d’un montant minimum et
+
+ne pas excéder un montant maximum tels que mentionnés
+
+dans la Brochure Tarifaire.
+
+
+
+3.4 Avant chaque souscription, le Client réalise une
+
+simulation et renseigne les caractéristiques du produit
+
+structuré auquel il souhaite souscrire. A l’issue de cette
+
+simulation, un montant de coupon indicatif, pouvant évoluer
+
+selon les conditions de marché, sont proposés au Client. Si
+
+les conditions exposées au Client lui conviennent et que la
+
+demande a lieu pendant les horaires de souscription du
+
+sous-jacent choisi, il peut alors procéder à la souscription
+
+du Produit structuré sur mesure.
+
+41
+
+
+
+3.5 Le Client choisit le Compte Titres Ordinaires depuis
+
+lequel il souhaite souscrire son produit et revalide le
+
+montant de sa souscription. Un montant de coupon définitif,
+
+qui peut être sensiblement différent de celui qui lui a été
+
+présenté lors de la simulation, lui sera alors proposé ainsi
+
+qu'un récapitulatif des caractéristiques de son Produit
+
+Structuré sur mesure. Cette proposition est valable pendant
+
+un délai maximum de dix (10) minutes, au-delà de ce délai,
+
+le Client devra recommencer une nouvelle simulation et
+
+souscription. Si les conditions exposées au Client lors du
+
+parcours de souscription lui conviennent, il peut alors
+
+valider sa demande de souscription.
+
+
+
+3.6 Chaque souscription donne lieu au paiement de coûts
+
+d’entrée tels que mentionnés dans la Brochure Tarifaire.
+
+
+
+3.7 L'exécution d'un ordre fait l'objet d'un avis d'opéré
+
+communiqué par BOURSORAMA dans les conditions
+
+visées à l'article 15 du Chapitre 1 du Titre V.
+
+
+
+Article 4 : Revente des Produits structurés sur mesure
+
+
+
+Le Titulaire a la faculté de revendre le Produit structuré sur
+
+mesure à tout moment avant son échéance, moyennant le
+
+paiement de droits de sortie tels que définis dans la
+
+Brochure Tarifaire. En cas de vente du Produit structuré sur
+
+mesure par le Titulaire avant la date de maturité du produit,
+
+le prix de vente de ce dernier dépendra de l’évolution des
+
+paramètres de marché au moment de la sortie, pouvant
+
+entraîner une perte totale ou partielle du capital investi.
+
+Avant toute vente d’un Produit structuré sur mesure, le
+
+Titulaire doit avoir pris connaissance du document
+
+d’informations clés (DIC) et des termes et conditions liés
+
+audit produit.
+
+
+
+CHAPITRE 4 : LA SYNTHESE PATRIMONIALE
+
+
+
+Article 1 : Définition
+
+
+
+La synthèse patrimoniale permet une restitution
+
+pédagogique du patrimoine, des revenus, et des objectifs
+
+financiers du Client. Pour une synthèse patrimoniale la plus
+
+adaptée à sa situation, le Client reconnaît qu’il doit fournir
+
+des données.
+
+
+
+Article 2 : Réalisation de la synthèse
+
+
+
+La synthèse patrimoniale est réalisée à partir des données
+
+communiquées par Client lors d’un rendez-vous dédié.
+
+Le Client est informé qu’une cohérence sera nécessaire
+
+entre les informations clés du Client déjà détenues par
+
+Boursorama et les données communiquées lors de la
+
+synthèse. Le cas échéant, le Client s’engage à mettre à jour
+
+ses informations clés dans son espace Client. Dans tous les
+
+cas, le conseiller préviendra le Client qu’il devra lever les
+
+incohérences éventuelles et l’informera qu’il devra mettre à
+
+jour ses propres données clés.
+
+
+
+La synthèse patrimoniale est fondée sur les seules
+
+déclarations du Client et lui est communiquée à titre
+
+purement indicatif et sans valeur contractuelle. Les résultats
+
+communiqués ne peuvent jamais être considérés comme
+
+un engagement, une recommandation, un conseil ou une
+
+offre d’investissement de la banque. Ils ne peuvent
+
+constituer que de simples estimations et éléments
+
+d’appréciation non contractuels de la situation patrimoniale
+
+du Client
+
+
+
+Cette synthèse patrimoniale est réalisée via l’outil du
+
+partenaire de Boursorama.
+
+
+
+L’utilisation des résultats de cette synthèse se fait sous la
+
+responsabilité exclusive du Client. La responsabilité de
+
+Boursorama et du partenaire ne peut pas être mise en
+
+cause pour les conséquences de l’utilisation des résultats.
+
+
+
+Article 3 : Données personnelles
+
+
+
+Boursobank communique à son sous-traitant « Harvest »
+
+les données personnelles du Client afin de réaliser sa
+
+synthèse patrimoniale. Ses données y seront conservées
+
+pour une durée de 12 mois. Pour plus d’informations sur le
+
+traitement des données personnelles, le Client peut
+
+consulter notre Politique de protection des données,
+
+disponible dans son espace Client.
+
+42
+
+
+
+TITRE IV – BOURSO BUSINESS : LA
 
 BANQUE POUR LES PROS
 
@@ -10028,7 +10822,7 @@ En cas d’insuffisance ou d’absence de provision, le Client
 
 s’expose à un refus de paiement de BOURSORAMA et pour
 
-40
+43
 
 
 
@@ -10318,7 +11112,7 @@ internet dédié www. ciclade.fr sur lequel les démarches à
 
 suivre sont détaillées.
 
-41
+44
 
 
 
@@ -10614,7 +11408,7 @@ Dès le premier refus de paiement motivé par l'absence ou
 
 l'insuffisance de la provision, le Client sera pour une durée
 
-42
+45
 
 
 
@@ -10898,7 +11692,7 @@ Générales. Dans le cadre de sa lutte contre la fraude,
 
 BOURSORAMA se réserve la possibilité de limiter
 
-43
+46
 
 
 
@@ -11194,7 +11988,7 @@ révocation faite par le Client vaut pour toutes les opérations
 
 contraire du Client.
 
-44
+47
 
 
 
@@ -11346,6 +12140,8 @@ légales ne permettant pas la réalisation de
 
 l’opération.
 
+
+
 Article 10 : Frais
 
 
@@ -11480,7 +12276,7 @@ Compte business ;
 
 plusieurs créanciers spécifiés.
 
-45
+48
 
 
 
@@ -11762,7 +12558,7 @@ de chaque mandat de prélèvement SEPA interentreprise
 
 via son Espace Client, avant la fin du jour ouvrable
 
-46
+49
 
 
 
@@ -12050,7 +12846,7 @@ pourront souscrire à la nouvelle Carte business que
 
 s’ils souscrivent à la nouvelle offre Bourso Business.
 
-47
+50
 
 
 
@@ -12350,7 +13146,7 @@ présent chapitre.
 
 paiements en devises autres que l’Euro
 
-48
+51
 
 
 
@@ -12648,7 +13444,7 @@ Lorsque BOURSORAMA est informée du décès du
 
 représentant légal ou de l’entrepreneur individuel, elle
 
-49
+52
 
 
 
@@ -12936,7 +13732,7 @@ la date à laquelle les fonds ont été débités.
 
 Article 10 : Durée du contrat et résiliation
 
-50
+53
 
 
 
@@ -13230,7 +14026,7 @@ consentie ne pourra en aucun cas être assimilée à une
 
 autorisation de découvert ou à une augmentation du
 
-51
+54
 
 
 
@@ -13514,7 +14310,7 @@ L’ouverture d’un Compte sur Livret Pro est exclusivement
 
 réservée aux Titulaires d’un Compte PRO.
 
-52
+55
 
 
 
@@ -13664,11 +14460,11 @@ Cette déclaration est valable jusqu’au 31 décembre de
 
 l’année suivant celle au cours de laquelle elle est faite.
 
-53
+56
 
 
 
-TITRE IV – LA BOURSE ET L’ÉPARGNE
+TITRE V – LA BOURSE ET L’ÉPARGNE
 
 
 
@@ -13958,7 +14754,7 @@ sélection des Négociateurs, l’évaluation et l’adéquation des
 
 caractères appropriés des produits ou services fournis.
 
-54
+57
 
 
 
@@ -14266,7 +15062,7 @@ acquérir des titres,
 
 couvertures requises,
 
-55
+58
 
 
 
@@ -14566,7 +15362,7 @@ au dernier cours coté pour un achat, inférieur au dernier
 
 cours coté pour une vente.
 
-56
+59
 
 
 
@@ -14872,7 +15668,7 @@ des négociateurs (ci-après la « Politique ») définit les
 
 grands principes que doit respecter BOURSORAMA vis-à-
 
-57
+60
 
 
 
@@ -15190,7 +15986,7 @@ Société
 
 Générale SA Euronext access
 
-58
+61
 
 
 
@@ -15532,7 +16328,7 @@ Son application pourra être suspendue ou altérée en cas de
 
 perturbations sévères du fonctionnement des marchés
 
-59
+62
 
 
 
@@ -15836,7 +16632,7 @@ prix de revient moyen pondéré, puis ensuite par multiple de
 
 Article 12 : Opérations sur titres
 
-60
+63
 
 
 
@@ -16146,7 +16942,7 @@ limite de dépôt des attestations d'immobilisation le Titulaire
 
 se dessaisit de ses titres, BOURSORAMA demande
 
-61
+64
 
 
 
@@ -16452,7 +17248,7 @@ Si le Titulaire s’aperçoit que la notification visée aux alinéas
 
 précédents adressée par BOURSORAMA n’est pas
 
-62
+65
 
 
 
@@ -16756,7 +17552,7 @@ compte propre ;
 
 dont il dépend et à signaler à BOURSORAMA tout
 
-63
+66
 
 
 
@@ -17062,7 +17858,7 @@ avoir préalablement remis le formulaire US « Form W-9 »
 
 il mandate expressément et irrévocablement
 
-64
+67
 
 
 
@@ -17360,7 +18156,7 @@ de vente, et ce, en application des règles de fonctionnement
 
 d'Euronext Paris.
 
-65
+68
 
 
 
@@ -17666,7 +18462,7 @@ une commission spécifique, telle que spécifiée dans le
 
 relevé de liquidation et la Brochure Tarifaire.
 
-66
+69
 
 
 
@@ -17962,7 +18758,7 @@ Profilée avant de pouvoir clôturer son PEA.
 
 Article 8 : Transfert vers un autre établissement
 
-67
+70
 
 
 
@@ -18270,7 +19066,7 @@ Le PEA Profilé est une part du PEA investie en totalité dans
 
 un seul fonds (ci-après le « Fonds »), en fonction d’un profil
 
-68
+71
 
 
 
@@ -18564,7 +19360,7 @@ le compte espèces du PEA du Titulaire dans les délais
 
 habituels de règlement livraison.
 
-69
+72
 
 
 
@@ -18868,7 +19664,7 @@ valeur ne serait pas publique, disponible et vérifiable
 
 (notamment pour les valeurs étrangères et les valeurs non
 
-70
+73
 
 
 
@@ -19166,7 +19962,7 @@ espace personnel en cas de tout changement de sa
 
 situation. En cas de changement de situation du Client porté
 
-71
+74
 
 
 
@@ -19472,7 +20268,7 @@ d’Assurance Vie proposé par BOURSORAMA est soumis
 
 aux présentes Conditions Générales. Toutefois, en cas de
 
-72
+75
 
 
 
@@ -19484,11 +20280,11 @@ un Contrat d’Assurance Vie, ledit document remis et/ou
 
 signé primera.
 
-73
+76
 
 
 
-TITRE V – AUTRES SERVICES
+TITRE VI – AUTRES SERVICES
 
 
 
@@ -19790,7 +20586,7 @@ Dès lors que lui est signalé le caractère prétendument illicite
 
 ou indélicat d'un Contenu dans les conditions prévues au
 
-74
+77
 
 
 
@@ -20098,7 +20894,7 @@ Comptes Internes et Externes. Le Client peut à tout moment
 
 ajouter ou supprimer un Compte Externe du Service
 
-75
+78
 
 
 
@@ -20382,7 +21178,7 @@ responsabilité du Client qui reconnait avoir le droit de les
 
 utiliser pour l’usage décrit aux présentes. Le Client
 
-76
+79
 
 
 
@@ -20674,7 +21470,7 @@ recommandation concernant les produits ou services de
 
 ces établissements.
 
-77
+80
 
 
 
@@ -20978,7 +21774,7 @@ Article 5 : The Corner
 
 Préambule
 
-78
+81
 
 
 
@@ -21282,7 +22078,7 @@ générales de vente propres à chaque Partenaire, qui
 
 doivent être acceptées par le Client lors de chaque achat.
 
-79
+82
 
 
 
@@ -21588,7 +22384,7 @@ clients.
 
 5.15 Classement des Offres
 
-80
+83
 
 
 
@@ -21858,7 +22654,7 @@ considérées, à son égard, comme définitivement
 
 approuvées.
 
-81
+84
 
 
 
@@ -22018,7 +22814,7 @@ Les sommes inscrites sur les Livrets A, les LDDS (LDDS) et les livrets d’épar
 
 du plafond cumulé de 100 000 € applicable aux autres comptes. Cette garantie porte sur les sommes déposées sur l’ensemble
 
-82
+85
 
 
 
@@ -22088,7 +22884,7 @@ projet de contrat ou Convention, il est accusé réception à l’occasion de la
 
 à l’occasion de l’envoi annuel du formulaire postérieurement à la conclusion du contrat ou de la Convention.
 
-83
+86
 
 
 
@@ -22240,7 +23036,7 @@ nombre d’Appareil Compatible de l’Utilisateur. Le fonctionnement du Portefeu
 
 Réseau
 
-84
+87
 
 
 
@@ -22396,7 +23192,7 @@ qu’en appuyant sur Accepter il manifeste son consentement au contenu des prés
 
 Le Contrat devient définitif quatorze jours calendaires révolus après son acceptation par l’Utilisateur.
 
-85
+88
 
 
 
@@ -22544,7 +23340,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « In App » et « Web » :
 
-86
+89
 
 
 
@@ -22700,7 +23496,7 @@ ARTICLE 8 – RESPONSABILITE DE l’EMETTEUR
 
 mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Apple Pay.
 
-87
+90
 
 
 
@@ -22850,7 +23646,7 @@ L’Emetteur se réserve le droit d'apporter toutes modifications et notamment d
 
 financières aux présentes conditions générales d’utilisation. L’Utilisateur sera informé par tout moyen de tout projet de modification
 
-88
+91
 
 
 
@@ -22908,7 +23704,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 61, rue Taitbout 75436 Paris Cedex 09.
 
-89
+92
 
 
 
@@ -23052,7 +23848,7 @@ Samsung Pay, quel que soit le nombre d’Appareil Compatible de l’Utilisateur.
 
 responsabilité de Samsung.
 
-90
+93
 
 
 
@@ -23204,7 +24000,7 @@ ou les Emetteurs concernées, conformément au présent article.
 
 L’Utilisateur demande l’exécution immédiate du Service.
 
-91
+94
 
 
 
@@ -23352,7 +24148,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « Web » ou « In-App »
 
-92
+95
 
 
 
@@ -23508,7 +24304,7 @@ ne pouvant matériellement garantir leur parfait fonctionnement qui est sous la 
 
 accepte.
 
-93
+96
 
 
 
@@ -23658,7 +24454,7 @@ des présentes conditions au plus tard deux (2) mois avant la date d’applicati
 
 modifierait certaines modalités d’utilisation du Service dans un délai plus court.
 
-94
+97
 
 
 
@@ -23712,7 +24508,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-95
+98
 
 
 
@@ -23842,7 +24638,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Google Pay.
 
-96
+99
 
 
 
@@ -23984,7 +24780,7 @@ Google Pay et ce, à des fins et dans les conditions définies par les règles d
 
 avoir préalablement pris connaissance.
 
-97
+100
 
 
 
@@ -24130,7 +24926,7 @@ Une fois cette authentification réalisée, et dans la mesure où l'Emetteur a a
 
 ainsi, l'ordre de paiement par Carte est irrévocable.
 
-98
+101
 
 
 
@@ -24278,7 +25074,7 @@ conséquences de telles demandes de retrait ni de toute autre demande de retrait
 
 relevant de la seule responsabilité de Google.
 
-99
+102
 
 
 
@@ -24424,7 +25220,7 @@ deux (2) mois à compter de la date d'envoi de cette notification à l'Utilisate
 
 du Client, la résiliation sera effectuée sans préavis.
 
-100
+103
 
 
 
@@ -24530,7 +25326,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-101
+104
 
 
 
@@ -24656,7 +25452,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Garmin Pay.
 
-102
+105
 
 
 
@@ -24798,7 +25594,7 @@ et que toutes les utilisations du Service Garmin Pay sont réputées avoir été
 
 L’Utilisateur accepte l’enregistrement informatique par BOURSORAMA des connexions et opérations réalisées au travers du
 
-103
+106
 
 
 
@@ -24948,7 +25744,7 @@ relevé que les opérations de paiement par carte réalisées par l'Utilisateur 
 
 ARTICLE 7 – MODALITÉS DE BLOCAGE DU SERVICE GARMIN PAY
 
-104
+107
 
 
 
@@ -25100,7 +25896,7 @@ SIM, de ses codes d'activation, ou code secret, de son Appareil Compatible,
 
 Portefeuille, suite à la perte, au vol ou à l'utilisation frauduleuse des Identifiants et Mot de passe liés à sa (ses) carte(s).
 
-105
+108
 
 
 
@@ -25240,7 +26036,7 @@ l'utilisation du Service avant l'expiration de ce délai de 14 jours vaut demand
 
 présentes Conditions Générales.
 
-106
+109
 
 
 
@@ -25278,7 +26074,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-107
+110
 
 
 
@@ -25398,7 +26194,7 @@ Distributeur / Emetteur
 
 Désigne l’établissement de crédit, à savoir BOURSORAMA, qui a délivré la(les) Carte(s) à l’Utilisateur et qui propose Fitbit Pay.
 
-108
+111
 
 
 
@@ -25516,7 +26312,7 @@ L’Utilisateur n’a pas la possibilité de faire figurer dans le Portefeuille 
 
 Contrat.
 
-109
+112
 
 
 
@@ -25650,7 +26446,7 @@ s'assurer que la fonction sans contact (NFC) de son Appareil Compatible est bien
 
 de proximité ».
 
-110
+113
 
 
 
@@ -25788,7 +26584,7 @@ situation.
 
 7.5 - L'Emetteur ou l'Utilisateur peuvent suspendre temporairement l'utilisation d'une Carte enregistrée dans le Portefeuille. Elle
 
-111
+114
 
 
 
@@ -25926,7 +26722,7 @@ les cas suivants :
 
 - Survenance d’une faille de sécurité.
 
-112
+115
 
 
 
@@ -26024,7 +26820,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-113
+116
 
 
 
@@ -26162,7 +26958,7 @@ dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts, d
 
 les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
-114
+117
 
 
 
@@ -26300,7 +27096,7 @@ Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origi
 
 prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
 
-115
+118
 
 
 
@@ -26444,7 +27240,7 @@ sociétés de capital-risque, ou des sociétés qui réalisent des prestations d
 
 sociétés de capital-risque, lors de la cession ou du rachat de parts de fonds communs de placement à risques ou de fonds
 
-116
+119
 
 
 
@@ -26588,7 +27384,7 @@ mandat social ;
 
 laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le
 
-117
+120
 
 
 
@@ -26728,7 +27524,7 @@ portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes act
 
 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0
 
-118
+121
 
 
 
@@ -26870,7 +27666,7 @@ date de la cession ;
 
 3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins huit ans à la date de la cession.
 
-119
+122
 
 
 
@@ -27012,7 +27808,7 @@ a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits pa
 
 souscription de ces actions, parts, droits ou titres par la fiducie ;
 
-120
+123
 
 
 
@@ -27156,7 +27952,7 @@ but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le sous
 
 contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
 
-121
+124
 
 
 
@@ -27302,7 +28098,7 @@ dans les conditions mentionnées au 11, l'année au cours de laquelle intervient
 
 exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise
 
-122
+125
 
 
 
@@ -27438,7 +28234,7 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
-123
+126
 
 
 
@@ -27580,7 +28376,7 @@ conditions et limites prévues à l'article L. 221-27 du code monétaire et fina
 
 9° quinquies (Abrogé).
 
-124
+127
 
 
 
@@ -27718,7 +28514,7 @@ intermédiaires.
 
 23° (Abrogé).
 
-125
+128
 
 
 
@@ -27868,7 +28664,7 @@ comme suit :
 
 déterminé conformément au A du IV de l'article 10 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013 ;
 
-126
+129
 
 
 
@@ -28002,7 +28798,7 @@ est passible d'une amende fiscale égale à 2 % du montant des versements surnum
 
 \* \*
 
-127
+130
 
 
 
@@ -28142,7 +28938,7 @@ c) De parts ou actions d'organismes de placement collectif en valeurs mobilière
 
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 
-128
+131
 
 
 
