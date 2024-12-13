@@ -455,7 +455,7 @@ Nous traitons les données qui permettent le paiement de vos articles ainsi que 
 
 Durées de conservation
 
-Les données envoyées chez nos prestataires de livraison sont conservées 1 an après la livraison de votre commande. L’ensemble des autres données liées aux commandes sont conservées pendant 10 ans. Les données liées à votre carte bancaire sont conservées pendant 12 mois.
+Les données envoyées chez nos prestataires sont conservées 13 mois après la livraison de votre commande. L’ensemble des autres données liées aux commandes sont conservées pendant 10 ans. Les données liées à votre carte bancaire sont conservées pendant 12 mois.
 
 Base légale
 
