@@ -1,3 +1,8 @@
+Défaillance technique
+---------------------
+
+A cause d'une erreur temporaire du système, les demandes effectuées via le formulaire ci-dessous entre le 27 novembre et le 11 décembre n'ont pas été traitées et ne peuvent être récupérées. Le système étant à présent rétabli, nous vous prions de bien vouloir introduire une nouvelle demande. Nous vous présentons toutes nos excuses pour cet inconvénient et vous remercions de votre compréhension.
+
 Protection des données & avis de confidentialité
 ================================================
 
