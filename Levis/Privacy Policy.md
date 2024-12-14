@@ -1,7 +1,7 @@
 LEVI STRAUSS & CO. PRIVACY POLICY
 =================================
 
-Mise à jour : 5 décembre, 2025
+Mise à jour : 5 décembre, 2024
 ------------------------------
 
 Le présent Avis de confidentialité décrit les informations que nous collectons à votre sujet lorsque vous interagissez avec nous dans nos magasins, lors de nos événements (tels que les pop-ups), par le biais du Service client, de notre programme de fidélité, sur les sites Web de vente au détail Levi’s®, sur notre application mobile (le cas échéant) ou sur notre site Web d’entreprise ([levistrauss.com](https://www.levistrauss.com/)) (ci-après collectivement : nos « **Plateformes** »). 
