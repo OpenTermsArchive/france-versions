@@ -330,7 +330,7 @@ Les paiements en ligne sur le Site ou par téléphone auprès de CDISCOUNT sont 
 
 CDISCOUNT a développé un partenariat avec la société THREATMETRIX afin de vous protéger lorsque vous passez commande sur [www.cdiscount.com](https://www.cdiscount.com/). A cette fin, THREATMETRIX collecte, par l'intermédiaire d'un cookie, un identifiant équipement (appelé également "Device fingerprinting") afin de procéder au contrôle de vos commandes dans le cadre de la lutte contre la fraude. Cet identifiant est généré à partir d'informations techniques relatives à l'équipement que vous utilisez lors de la passation d'une commande sur le Site.
 
-Vous êtes inform�� de la collecte de ces informations dès votre première connexion sur le Site par l'intermédiaire du bandeau d'information relatifs aux cookies. En continuant votre navigation sur notre site ou en cliquant sur la croix présente sur le bandeau d'information, vous acceptez la collecte de l'identifiant équipement.  
+Vous êtes informé de la collecte de ces informations dès votre première connexion sur le Site par l'intermédiaire du bandeau d'information relatifs aux cookies. En continuant votre navigation sur notre site ou en cliquant sur la croix présente sur le bandeau d'information, vous acceptez la collecte de l'identifiant équipement.  
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html).
 
