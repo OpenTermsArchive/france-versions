@@ -166,7 +166,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-*  [![](https://media-cdn.printemps.com/image/72/9/7250729.jpg) MOON BOOT](https://www.printemps.com/fr/fr/moonboot-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_moonboot)
+*  [![](https://media-cdn.printemps.com/image/99/1/7305991.jpg) BOBO CHOSES](https://www.printemps.com/fr/fr/bobo-choses-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bobo_choses)
     
 
 * [Offres de Noël : -15% sur la mode\*](https://www.printemps.com/fr/fr/offres-noel-homme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-homme)
@@ -323,8 +323,6 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=marc-antoine-barrois)
     * [Matière Première](https://www.printemps.com/fr/fr/univers-matierepremiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=matiere-premiere)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/28/1/7262281.png) ANTINOMIE](https://www.printemps.com/fr/fr/antinomie-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_antinomie)
-    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
