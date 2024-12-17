@@ -1,32 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [\-15% sur la mode : j'en profite](https://www.printemps.com/fr/fr/offres-noel/uni/Femme/Homme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout-mode)
-    
-* [\-25% sur la beauté : j'en profite](https://www.printemps.com/fr/fr/offres-noel-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout-beaute)
-    
-* [Voir tout](https://www.printemps.com/fr/fr/offres-noel?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout)
-    
-
-* [Femme](https://www.printemps.com/fr/fr/offres-noel-femme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/offres-noel-femme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout-femme)
-    * [Sacs](https://www.printemps.com/fr/fr/offres-noel-femme/esp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=odn-sacs-femme)
-    * [Chaussures](https://www.printemps.com/fr/fr/offres-noel-femme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=odn-chaussures-femme)
-    * [Vêtements](https://www.printemps.com/fr/fr/offres-noel-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=odn-vetements-femme)
-    * [Accessoires](https://www.printemps.com/fr/fr/offres-noel-femme/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=odn-access-femme)
-
-* [Homme](https://www.printemps.com/fr/fr/offres-noel-homme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/offres-noel-homme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/offres-noel-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=odn-vetements-homme)
-    * [Chaussures](https://www.printemps.com/fr/fr/offres-noel-homme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=odn-chaussures-homme)
-    * [Accessoires](https://www.printemps.com/fr/fr/offres-noel-homme/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=odn-access-homme)
-    * [Sacs](https://www.printemps.com/fr/fr/offres-noel-homme/esp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=odn-sacs-homme)
-
-* [Beauté](https://www.printemps.com/fr/fr/offres-noel-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=odn-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/offres-noel-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=odn-voir-tout-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/offres-noel-beaute/esp/Parfum?ap_source=anico&ap_medium=navigation&ap_campaign=odn-parfum)
-    * [Soins](https://www.printemps.com/fr/fr/offres-noel-beaute/esp/Soin?ap_source=anico&ap_medium=navigation&ap_campaign=odn-soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/offres-noel-beaute/esp/Maquillage?ap_source=anico&ap_medium=navigation&ap_campaign=odn-maquillage)
-
 * [NOS IDÉES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux)
     * [Toutes les idées cadeaux](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_viewall)
     * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
@@ -79,8 +52,6 @@
     * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
     * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
 
-* [Offres de Noël : -15% sur la mode\*](https://www.printemps.com/fr/fr/offres-noel-femme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-femme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -153,7 +124,7 @@
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
+* [Tout l'univers femme](https://www.printemps.com/fr/fr/univers-femme)
     
 
 * [TOP MARQUES](#)
@@ -169,8 +140,6 @@
 *  [![](https://media-cdn.printemps.com/image/99/1/7305991.jpg) BOBO CHOSES](https://www.printemps.com/fr/fr/bobo-choses-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bobo_choses)
     
 
-* [Offres de Noël : -15% sur la mode\*](https://www.printemps.com/fr/fr/offres-noel-homme?ap_source=anico&ap_medium=navigation&ap_campaign=odn-homme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme?ap_source=anico&ap_medium=navigation&ap_campaign=manteaux-homme)
@@ -260,8 +229,6 @@
 *  [![](https://media-cdn.printemps.com/image/59/4/7281594.png) HACKETT](https://www.printemps.com/fr/fr/hackett-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vignette-hackett-homme)
     
 
-* [Offres de Noël : -25% sur la beauté\*](https://www.printemps.com/fr/fr/offres-noel-beaute?ap_source=anico&ap_medium=navigation-beaute&ap_campaign=odn-beaute)
-    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=eau-de-toilette-parfum)
@@ -323,6 +290,8 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=marc-antoine-barrois)
     * [Matière Première](https://www.printemps.com/fr/fr/univers-matierepremiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=matiere-premiere)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
+*  [![](https://media-cdn.printemps.com/image/98/7/7305987.png) ARMANI](https://www.printemps.com/fr/fr/armani-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=armani-vignette)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
