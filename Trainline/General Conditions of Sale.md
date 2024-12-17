@@ -711,11 +711,11 @@ Avant de réserver avec un fournisseur tiers, il est important que vous preniez 
 
 **Royaume-Uni**
 
-**Assurance Annulation toutes causes**
+**Annulation toutes causes**
 
 Les polices d'assurance sont proposées par l'entreprise tierce Companjon au Royaume-Uni et non Trainline. Les détails concernant Companjon et les conditions des polices d'assurance proposées se trouvent dans les conditions générales de vente distinctes disponibles avant et après l'achat.
 
-Toute question concernant l'assurance Annulation toutes causes au Royaume-Uni, y compris concernant l'indemnisation, doit être adressée directement à Companjon via sa page de FAQ : [**https://www.companjon.com/en/trainline-uk/**](https://www.companjon.com/en/trainline-uk/) (en anglais).
+Toute question concernant l'Annulation toutes causes au Royaume-Uni, y compris concernant l'indemnisation, doit être adressée directement à Companjon via sa page de FAQ : [**https://www.companjon.com/en/trainline-uk/**](https://www.companjon.com/en/trainline-uk/) (en anglais).
 
 Trainline.com est un représentant désigné de **Advent Solutions Management Limited** (opérant sous le nom de « OneAdvent ») qui est réglementée et autorisée par la Financial Conduct Authority sous le numéro 308751.
 
@@ -739,17 +739,17 @@ ERGO Travel Insurance Services Ltd (ETI) est immatriculée au Royaume-Uni sous l
 
 **EEE**
 
-**Assurance Annulation toutes causes**
+**Annulation toutes causes**
 
 Veuillez noter que le prix du billet ne comprend pas d'assurance. Une assurance séparée peut être proposées pour certains types de billets pour les voyages au sein de l'EEE. Ces polices d'assurance sont proposées par l'entreprise tierce Companjon Insurance DAC et non Trainline. Les détails concernant Companjon et les conditions des polices d'assurance proposées se trouvent dans les conditions générales de vente distinctes disponibles avant et après l'achat.
 
 Toute question concernant l'assurance dans l'EEE, y compris concernant l'indemnisation, doit être adressée directement à Companjon via sa page de FAQ : [https://www.companjon.com/en/trainline/](https://www.companjon.com/en/trainline/) (en anglais).
 
-Si vous souscrivez l'assurance Annulation toutes causes dans l'EEE, le distributeur est Trainline SAS.
+Si vous achetez l'Annulation toutes causes dans l'EEE, le distributeur est Trainline SAS.
 
 **États-Unis**
 
-**Assurance Annulation toutes causes**
+**Annulation toutes causes**
 
 Ce service de flexibilité est proposé par l'entreprise tierce Companjon et non Trainline. Les détails concernant Companjon et les conditions se trouvent dans les conditions générales de vente distinctes disponibles avant et après l'achat.
 
