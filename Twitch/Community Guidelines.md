@@ -890,6 +890,11 @@ Nous comprenons que les streamers sont parfois victimes d’usurpation de compte
 * Les drops sont destinés à être gagnés lors de parties en direct avec votre communauté, et non pas en streamant du contenu sans rapport avec le jeu concerné, comme des images statiques, des rediffusions d’anciennes VoD/vidéos, ou d’autres cas de figure dans lesquels vous n’interagissez pas avec votre communauté.
     * Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
     * Exemple de comportement autorisé : streamer un jeu avec des drops et faire une petite pause avec une image statique temporaire « Bientôt de retour ».
+* [L'audience partagée](https://link.twitch.tv/SharedViewership), qui utilise le chat partagé comme outil, est conçue pour mettre en évidence le nombre total de membres de la communauté présents lorsque deux streamers ou plus collaborent ensemble en direct. L'utilisation abusive de ces outils pour se mettre en avant artificiellement ou augmenter le nombre de vues sans une collaboration appropriée n'est pas autorisée, à quelques exceptions près, comme indiqué ci-dessous.
+    * Exemple interdit : deux streamers streament en live avec l'audience partagée, mais sans aucune collaboration active (aucun partage audio ou vidéo). Au lieu de cela, ils « s'hébergent » simplement mutuellement via le chat partagé pour augmenter leur nombre de vues partagées.
+    * Exemple interdit : utiliser le nombre de viewers pour mettre en avant un compte alternatif appartenant au streamer.
+    * Exemple autorisé : deux streamers jouent à un jeu et interagissent l'un avec l'autre par le biais du son (par ex : audio de Streamer ensemble ou communications du jeu).
+    * Exemple autorisé : un streamer travaille avec une marque pour apparaître sur son propre compte Twitch en même temps que sur la chaîne officielle de la marque à l'occasion de la sortie de son nouveau jeu ou produit, en utilisant le mode de visionnage partagé.
 
 Contournement d’une suspension
 ------------------------------
