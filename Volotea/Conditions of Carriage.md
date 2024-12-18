@@ -289,7 +289,7 @@ Le Passager devra joindre à son bagage une étiquette indiquant son identité. 
 
 Il est interdit de transporter dans les bagages :
 
-> 1. Objets qui, selon le Transporteur, ne sont pas correctement emballés ou empaquetés, peuvent représenter un danger pour l’avion, ses membres d’équipage ou les autres Passagers. Dans ce sens, les biens ou objets définis comme tels par les [normes de l’OACI](https://www.boe.es/boe/dias/2024/12/13/pdfs/BOE-A-2024-26051.pdf "normes de l’OACI") (Organisation de l’Aviation Civile Internationale) et les normes de l’IATA (International Air Transport Association) seront considérés comme dangereux.
+> 1. Objets qui, selon le Transporteur, ne sont pas correctement emballés ou empaquetés, peuvent représenter un danger pour l’avion, ses membres d’équipage ou les autres Passagers. Dans ce sens, les biens ou objets définis comme tels par les normes de l’OACI (Organisation de l’Aviation Civile Internationale) et les normes de l’IATA (International Air Transport Association) seront considérés comme dangereux.
 >     
 > 2. Objets fragiles et/ou périssables, argent liquide; titres négociables, devises, valeurs mobilières, pierres et métaux précieux, appareils électroniques, ordinateurs, objets de valeur et pièces d’identité.
 >     
