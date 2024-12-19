@@ -106,7 +106,7 @@ Plus précisément, ces cookies permettent notamment :
 * de mémoriser des informations relatives aux formulaires que Vous avez remplis lors de l'utilisation de certains Sites ;
 * d'équilibrer la charge des équipements pour assurer le bon fonctionnement de la lecture de vidéos;
 * de mémoriser Vos préférences d'utilisation, les paramètres d'affichage et lecteurs que Vous utilisez afin de faciliter Votre navigation lors de Votre prochaine visite sur les Sites ;
-* de fournir à un Client les services en ligne qui lui sont destinés en fonction de sa situation individuelle, et ceux qui peuvent lui être fournis par Boursorama en application des Conditions Générales, notamment à travers des fonctionnalités d'affichage ou de notification dynamiques permettant la consultation, la souscription et la gestion en ligne par le Client de ses comptes et services bancaires et financiers, des produits financiers et d'épargne, des produits d'assurance, des offres de crédit, de garantie et de caution qui lui sont accessibles ou auxquelles il est éligible en application des Conditions Générales, ainsi que les services d'assistance via le chatbot (conseiller financier).
+* de fournir à un Client les services en ligne qui lui sont destinés en fonction de sa situation individuelle, et ceux qui peuvent lui être fournis par Boursorama en application des Conditions Générales, notamment à travers des fonctionnalités d'affichage ou de notification dynamiques permettant la consultation, la souscription et la gestion en ligne par le Client de ses comptes et services bancaires et financiers, des produits financiers et d'épargne, des produits d'assurance, des offres de crédit, de garantie et de caution qui lui sont accessibles ou auxquelles il est éligible en application des Conditions Générales,
 
 Sans ces cookies Vous ne pourriez pas utiliser normalement les Sites. Par conséquent, leur dépôt ou leur lecture sur Votre Terminal ne relève pas des choix qui Vous sont offerts.
 
@@ -119,7 +119,6 @@ Les principaux cookies strictement nécessaires à la fourniture des services et
 | Tous les Sites | BRS\_PROFIL | Boursorama | Identifiant de session :  <br>préférences bourse et actualités | Session |
 | Tous les Sites | rememberme | Boursorama | Identification sur la page de connexion | 365 jours |
 | Tous les Sites | Ckln\* | Boursorama | Identification du terminal à des fins de lutte contre la fraude | 36 mois |
-| Espace Client  <br>Site Vitrine | JSESSIONID | Genesys | Création de logs pour la solution chat permettant à un commercial  <br>de discuter avec un Client ou un Prospect qui est sur le  <br>point d'ouvrir un compte bancaire ou un crédit immobilier,  <br>pour l'accompagner et répondre à ses questions | session |
 | Tous les Sites | didomi\_token  <br>didomi\_portal  <br>didomi\_prospect  <br>didomi\_cookies  <br>euconsent-v2  <br>cookie\_privacy\_gdpr  <br>AMP-CONSENT  <br>Didomi\* | Boursorama | Gestion des consentements | 12 mois |
 | Portail Non Connecté  <br>Portail Connecté  <br>Espace Client  <br>Espace Client Mobile | STICKY | ultimedia/digiteka | Equilibrage de la charge des équipements  <br>pour permettre la lecture de vidéos | session |
 | Portail Non Connecté  <br>Portail Connecté | themeA11y | Boursorama | Accessibilité : gestion du contraste | Infini |
@@ -165,7 +164,6 @@ Les cookies de mesure d'audience strictement nécessaires au bon fonctionnement 
 Les typologies de cookies pour lesquelles Votre consentement est recueilli sur le Portail Non Connecté sont décrites sur la plateforme de gestion de cookies que Boursorama met à Votre disposition lors de Votre première connexion sur les Sites selon les termes du Transparency and Consent Framework (« TCF ») de l'IAB Europe. Les cookies analytiques et de performance nous permettent notamment de :
 
 * améliorer l'intérêt et l'ergonomie de nos services (les pages ou les rubriques les plus souvent consultées, les articles les plus lus, ...), notamment par l'analyse de la navigation ou la réalisation d'A/B tests ;
-* fournir des services d'assistance aux Prospects via un chatbot ; et
 * optimiser le site, notamment pour permettre l'affichage de modules d'extension sur nos contenus (par exemple, l'intégration de citations de tweets dans les contenus).
 
 Le fait de refuser ou de ne pas accepter la mise en œuvre de tels cookies ou de les supprimer n'a pas d'incidence sur Votre navigation sur les Sites, mais elle est de nature à nous empêcher de nous assurer de la meilleure qualité de services que nous souhaitons Vous proposer.
