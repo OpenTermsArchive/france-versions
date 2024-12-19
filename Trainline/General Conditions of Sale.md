@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 30 septembre 2024
+Dernière mise à jour le 11 décembre 2024
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -102,11 +102,15 @@ Chaque fois que nous employons « nous », nous entendons le groupe Trainline.
 
 ### 2.1 Nous envoyer un e-mail
 
-Veuillez remplir [un formulaire en ligne](https://support.thetrainline.com/fr/support/tickets/new) en nous donnant autant d'informations que possible, pour que nous puissions transmettre votre requête à la bonne personne et vous apporter la meilleure réponse possible. Notre but est de vous répondre dans un délai de 24 heures.
+Veuillez remplir un [formulaire en ligne](https://support.thetrainline.com/fr/support/tickets/new) en nous donnant autant d'informations que possible pour que nous puissions transmettre votre requête à la bonne personne et vous apporter la meilleure réponse possible. Nous ferons le maximum pour vous répondre dans un délai d'un jour.
 
-### 2.2 Utiliser notre chat
+Si vous souhaitez déposer une réclamation, vous pouvez le faire via le formulaire.
 
-Si vous voyagez au Royaume-Uni avec une compagnie ferroviaire britannique, vous pouvez poser votre question à l'un de nos agents via le service de chat en ligne. Ce service est actuellement accessible tous les jours de la semaine, de 8 h à 22 h (heure du Royaume-Uni).
+### 2.2 Chatter avec nous
+
+Si vous voyagez au Royaume-Uni avec une compagnie ferroviaire britannique, vous pouvez poser votre question à l'un de nos agents via notre [chat en ligne](https://support.thetrainline.com/en/support/tickets/new?chat). Le chat est actuellement accessible tous les jours de la semaine, de 8 h à 22 h (heure du Royaume-Uni).
+
+Si vous souhaitez déposer une réclamation, vous pouvez le faire via notre chat en ligne.
 
 ### 2.3 Nous appeler
 
@@ -116,7 +120,9 @@ Nous sommes joignables par téléphone entre 8 h et 22 h (heure du Royaume-Uni) 
 
 Vous pouvez nous joindre au 0333 202 2222 pour réserver un billet ou gérer une réservation existante. Composez le +44 333 202 2222 si vous nous appelez depuis un pays autre que le Royaume-Uni. Les appels en provenance du Royaume-Uni coûtent 2 pence la minute, plus les frais d'accès de votre opérateur (ces frais peuvent être inclus dans votre forfait téléphonique). Les appels provenant de l'extérieur du Royaume-Uni peuvent coûter plus cher.
 
-Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Pensez à vous munir de votre référence si possible, elle nous aidera à retrouver votre trajet.
+Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Pensez à vous munir de votre référence de réservation, elle nous aidera à trouver votre trajet.
+
+Si vous souhaitez déposer une réclamation, vous pouvez le faire en nous appelant.
 
 **Clients au Royaume-Uni, pour les trajets en Eurostar et en Europe**
 
