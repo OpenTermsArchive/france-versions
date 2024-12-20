@@ -1149,8 +1149,8 @@ Le service d’assistance est également disponible à l’aéroport de destinat
 
 ### ANNEXE IV : Passagers des lignes de continuité territoriale (PSO)
 
-Les résidents de la région de Sardaigne appartenant à des catégories spécifiques peuvent bénéficier d'une réduction sur l'achat d'un billet d'avion de/vers Cagliari, Olbia ou Alghero pour se rendre à Milan Linate ou Rome Fiumicino entre autres avantages.
+Les résidents de la région de Sardaigne appartenant à des catégories spécifiques peuvent bénéficier d'une réduction sur l'achat d'un billet d'avion de/vers Olbia pour se rendre à Rome Fiumicino entre autres avantages.
 
-Tous ces avantages, la description des tarifs et les conditions spécifiques qui s'appliquent aux passagers et aux groupes voyageant sur ces lignes sont décrits [ici.](https://www.volotea.com/it/informazioni/voli-in-continuita-territoriale-italia/)
+Tous ces avantages, la description des tarifs et les conditions spécifiques qui s'appliquent aux passagers et aux groupes voyageant sur ces lignes sont décrits [ici.](https://www.volotea.com/fr/information/conditions-du-tarif-de-continuit%25C3%25A9-territoriale/)
 
 * * *
