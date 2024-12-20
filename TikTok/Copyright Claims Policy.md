@@ -1,5 +1,4 @@
-**Politique en matière de Propriété Intellectuelle**
-====================================================
+Politique en matière de Propriété Intellectuelle
 
 TikTok respecte les droits de propriété intellectuelle des tiers et nous attendons de nos utilisateurs qu’ils en fassent de même. Les [Conditions de Services](https://www.tiktok.com/legal/terms-of-service) et les [Règles Communautaires](https://www.tiktok.com/legal/%E2%81%A3https://www.tiktok.com/community-guidelines) de TikTok interdisent de poster, de partager ou d’envoyer tout contenu qui porte atteinte à un droit d’auteur, à une marque ou à tout autre droit de propriété intellectuelle d’autrui.
 
