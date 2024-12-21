@@ -6,6 +6,18 @@ Date d’entrée en vigueur : _04 décembre 2024_
 
   
 
+* Introduction
+* Informations que nous recueillons
+* Manières dont nous utilisons vos informations
+* Manières dont nous partageons vos informations
+* Nos bases juridiques et la manière dont nous traitons vos informations
+* Vos droits et vos choix
+* Sécurité et conservation des données
+* Nos opérations mondiales et les transferts de données
+* Jeunes utilisateurs
+* Mises à jour de la Politique de confidentialité
+* Nous contacter
+
 **Introduction**
 ----------------
 
