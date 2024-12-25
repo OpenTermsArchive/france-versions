@@ -52,6 +52,16 @@
     * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
     * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
 
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-avp-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/?ap_source=anico&ap_medium=navigation&ap_campaign=luxe-femme-avp)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-avp-femme)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=avp-femme-vetements)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=chaussures-avp-femme)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Baskets?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-avp-femme)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=access-avp-femme)
+    * [Bijoux](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Bijoux?ap_source=anico&ap_medium=navigation&ap_campaign=bijoux-avp-femme)
+
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -124,7 +134,7 @@
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
     * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
-* [Tout l'univers femme](https://www.printemps.com/fr/fr/univers-femme)
+* [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=nav-femme&ap_campaign=offres)
     
@@ -141,6 +151,15 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
 *  [![](https://media-cdn.printemps.com/image/99/1/7305991.jpg) BOBO CHOSES](https://www.printemps.com/fr/fr/bobo-choses-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bobo_choses)
     
+
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=vetements-avp-homme)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Baskets?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-avp-homme)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Chaussures?ap_source=anico&ap_medium=navigation&ap_campaign=chaussures-avp-homme)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=accessoires-avp-homme)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Sacs?ap_source=anico&ap_medium=navigation&ap_campaign=sacs-avp-homme)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/PRADA/VERSACE/RICK+OWENS?ap_source=anico&ap_medium=navigation&ap_campaign=luxe-avp)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
@@ -228,6 +247,14 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme?ap_source=anico&ap_medium=navigation&ap_campaign=alexandermcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
+
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avant-premieres)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-avantpremieres-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avantpremieres-parfums)
+    * [Soins](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Soin?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avp-soins)
+    * [Maquillage](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Maquillage?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avp-maquillage)
+    * [Coffrets et calendriers de l'avent](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Coffret+%26+Palette?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avp-coffrets)
+    * [Accessoires et électronique](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Accessoires?ap_source=anico&ap_medium=navigation&ap_campaign=accessoires-beaute)
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
