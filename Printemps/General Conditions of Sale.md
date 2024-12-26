@@ -1,57 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [NOS IDÉES CADEAUX](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux)
-    * [Toutes les idées cadeaux](https://www.printemps.com/fr/fr/idees-cadeaux-noel?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_viewall)
-    * [Pour elle](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
-    * [Pour lui](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_lui)
-    * [Mixte](https://www.printemps.com/fr/fr/idees-cadeaux-noel-mixte?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_mixte)
-* [LA CARTE CADEAU](https://cartescadeaux.printemps.com/?ap_source=anico&ap_medium=nav-noel&ap_campaign=carte_cadeau)
-    
-
-* [POUR ELLE](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle?ap_source=anico&ap_medium=nav-noel&ap_campaign=idees_cadeaux_elle)
-    * [Maroquinerie](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Sacs?ap_source=anico&ap_medium=nav-noel&ap_campaign=maroquinerie_elle)
-    * [Maille](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/cat0/Mailles+et+pulls?ap_source=anico&ap_medium=nav-noel&ap_campaign=maille_elle)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Chaussures?ap_source=anico&ap_medium=nav-noel&ap_campaign=chaussures_elle)
-    * [Bijoux](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/cat0/Bijoux?ap_source=anico&ap_medium=nav-noel&ap_campaign=bijoux_elle)
-    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Parfum?ap_source=anico&ap_medium=nav-noel&ap_campaign=parfums_elle)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-elle/esp/Accessoires?ap_source=anico&ap_medium=nav-noel&ap_campaign=access_elle)
-
-* [POUR LUI](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui?ap_source=anico&ap_medium=nav-noel&ap_campaign=cadeaux_lui)
-    * [Maille](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Sacs?ap_source=anico&ap_medium=nav-noel&ap_campaign=maroquinerie_lui)
-    * [Baskets](https://www.printemps.com/cat0/Baskets?ap_source=anico&ap_medium=nav-noel&ap_campaign=baskets_lui)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Chaussures?ap_source=anico&ap_medium=nav-noel&ap_campaign=chaussures_lui)
-    * [Chemises](https://www.printemps.com/cat0/Chemises?ap_source=anico&ap_medium=nav-noel&ap_campaign=chemises_lui)
-    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Parfum?ap_source=anico&ap_medium=nav-noel&ap_campaign=parfums_lui)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-noel-pour-lui/esp/Accessoires?ap_source=anico&ap_medium=nav-noel&ap_campaign=access_lui)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-noel-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-noel/esp/Parfum)
-    * [Coffrets](https://www.printemps.com/fr/fr/idees-cadeaux-noel/esp/Coffret+%26+Palette)
-    * [Maquillage](https://www.printemps.com/fr/fr/idees-cadeaux-noel/esp/Maquillage)
-    * [Accessoires Cheveux](https://www.printemps.com/fr/fr/idees-cadeaux-noel/esp/Accessoires)
-    * [Soins](https://www.printemps.com/fr/fr/idees-cadeaux-noel/esp/Soin)
-
-* [MAISON](https://www.printemps.com/fr/fr/tout-le-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=interieur)
-    * [Voir tout](https://www.printemps.com/fr/fr/tout-le-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=interieur_viewall)
-    * [Bougies](https://www.printemps.com/fr/fr/bougies-lifestyle-beaute?ap_source=anico&ap_medium=nav-noel&ap_campaign=bougiesl)
-    * [Objets Et DÉCo](https://www.printemps.com/fr/fr/maison-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=maison)
-    * [Animaux](https://www.printemps.com/fr/fr/maison-lifestyle/cat0/Animaux?ap_source=anico&ap_medium=nav-noel&ap_campaign=animaux)
-    * [Loisirs](https://www.printemps.com/fr/fr/loisirs-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=loisirs)
-    * [High Tech](https://www.printemps.com/fr/fr/high-tech-lifestyle?ap_source=anico&ap_medium=nav-noel&ap_campaign=high_tech)
-
-* [PAR PRIX](#)
-    * [Moins de 50€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/0/50?ap_source=anico&ap_medium=nav-noel&ap_campaign=moins_50)
-    * [Entre 50 et 100€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/50/100?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_50_et_100)
-    * [Entre 100 et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/100/300?ap_source=anico&ap_medium=nav-noel&ap_campaign=entre_100_et_300)
-    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-noel/prx/300/10000?ap_source=anico&ap_medium=nav-noel&ap_campaign=plus_300)
-* [NOËL EN MAGASIN](https://www.printemps.com/fr/fr/printemps-express?ap_source=anico&ap_medium=nav-noel&ap_campaign=branding_noel)
-    
-
-* [PLUS D'INSPIRATION](https://www.printemps.com/fr/fr/edito-magazine?ap_source=anico&ap_medium=navigation-noel&ap_campaign=viewalledito)
-    * [24 CADEAUX À S’OFFRIR AVANT NOËL](https://www.printemps.com/fr/fr/edito-actu-calendrier-de-l-avent-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=calendrier_edito)
-    * [LE GUIDE CADEAUX PAR INVITÉ](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation-noel&ap_campaign=cadeauxnoel_edito)
-
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-avp-femme)
     * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/?ap_source=anico&ap_medium=navigation&ap_campaign=luxe-femme-avp)
