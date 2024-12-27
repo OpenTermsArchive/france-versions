@@ -1,8 +1,12 @@
+1
+
+
+
 Politique de Confidentialité
 
 
 
-Vente-Privee.com attache une grande importance, à la confidentialité et à la sécurité de vos données
+Vente-Privee.com attache une grande importance à la confidentialité et à la sécurité de vos données
 
 personnelles.
 
@@ -12,29 +16,65 @@ Cette politique de confidentialité a pour objectif de vous informer de manière
 
 transparente des traitements réalisés sur les données personnelles que vous nous confiez, ou que
 
-nous pouvons être amenés à collecter lors de votre navigation sur notre site web ou mobile
+nous pouvons être amenés à collecter lors de votre navigation sur notre site web ou mobile et/ou
 
-www.veepee.fr et/ou notre application Veepee (ci-après le « Site »), de leur éventuel transfert auprès
+notre application Veepee (ci-après le « Site »), de leur éventuel transfert auprès de tiers, et des
 
-de tiers, et des droits et des options dont vous disposez pour contrôler vos informations personnelles
+droits et des options dont vous disposez pour contrôler vos informations personnelles et protéger
 
-et protéger votre vie privée.
+votre vie privée.
 
 
 
-Vente-Privee.com, société anonyme au capital de 671 256, 79 euros dont le siège social est sis 249
+Les produits et services disponibles sur le Site Veepee (les “Services”) peuvent être proposés aux
 
-avenue du Président Wilson, 93210 La Plaine Saint-Denis, immatriculée au RCS de Bobigny sous le
+membres par Vente-Privee.com ou par un de ses Partenaires. Dans ce cadre, Vente-Privee.com traite
 
-numéro 434 317 293 est le responsable de traitement des données personnelles collectées sur le Site au
+vos données personnelles afin de vous fournir les services proposés, et sera amenée à partager vos
 
-sens de la réglementation applicable en matière de données personnelles et notamment de la loi
+données personnelles avec ses Partenaires en fonction de vos choix et des besoins liés aux services.
 
-n°78-17 du 6 janvier 1978 dite « Informatique et Libertés » et du Règlement UE 2016/679 du 27 avril
 
-2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère
 
-personnel et à la libre circulation de ces données (ci-après « RGPD »).
+La présente Politique de Confidentialité décrit le traitement de vos données personnelles par Vente-
+
+Privee.com et précise les qualifications et rôle de ses Partenaires et des tiers.
+
+
+
+Vente-Privee.com, société anonyme dont le siège social est sis 249 avenue du Président Wilson, 93210
+
+La Plaine Saint-Denis, immatriculée au RCS de Bobigny sous le numéro 434 317 293 est le responsable
+
+de traitement des données personnelles collectées sur le Site au sens de la réglementation applicable
+
+en matière de données personnelles et notamment de la loi n°78-17 du 6 janvier 1978 dite
+
+« Informatique et Libertés » et du Règlement UE 2016/679 du 27 avril 2016 relatif à la protection des
+
+personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation
+
+de ces données (ci-après « RGPD »).
+
+
+
+En fonction du site et du pays au sein duquel vous effectuez une commande, d’autres entités du
+
+Groupe peuvent également être amenées à traiter vos données personnelles en tant que responsable
+
+de traitement de données personnelles pour certaines finalités et certains traitements indiquées dans
+
+la présente Politique. Plus d’informations concernant l’entité du pays au sein duquel vous effectuez
+
+une commande dans les CGV du site.
+
+
+
+En utilisant notre Site, vous reconnaissez avoir pris connaissance de notre Politique de Confidentialité.
+
+En cas de modification des conditions de traitement de vos données, nous mettrons à jour notre
+
+Politique de Confidentialité et vous en serez informés.
 
 
 
@@ -44,117 +84,639 @@ I. Qu’est-ce qu’une donnée personnelle ?
 
 Une donnée personnelle est toute information relative à une personne susceptible d’être identifiée
 
-directement ou indirectement par référence à un ou plusieurs éléments qui lui sont propres tels que son
+directement ou indirectement par référence à un ou plusieurs éléments qui lui sont propres tels que
 
-nom, son prénom, son adresse postale ou e-mail ou par référence à un numéro d’identification tel que
+son nom, son prénom, son adresse postale ou e-mail ou par référence à un numéro d’identification tel
 
-un numéro de commande ou encore une adresse IP, etc.
+que un numéro de commande ou encore une adresse IP, etc.
 
-
-
-II. Pourquoi Vente-privee.com collecte mes données personnelles ?
+2
 
 
 
-Vente-Privee.com collecte et traite vos données afin de :
+II. Pourquoi Vente-privee.com collecte mes données personnelles et sur
+
+quels fondements juridiques ?
 
 
 
-● vous permettre de créer un compte sur notre Site ;
+Vente-Privee.com collecte et traite vos données pour plusieurs finalités et cela afin de vous fournir les
 
-● gérer vos accès à votre compte sur le Site ;
+différents services disponibles sur son Site.
 
-● vous adresser un email d’invitation à nos ventes quotidiennes ;
-
-● traiter et gérer les commandes passées auprès de Vente-Privee.com ou de ses partenaires
-
-dans le cadre de l’utilisation de notre marketplace (ci-après « Brandsplace ») ;
-
-● assurer la livraison des produits et services que vous commandez ;
-
-● traiter et gérer vos demandes de reprise de produits dans le cadre de notre service Re-C ycle
-
-incluant le traitement de votre demande de reprise d’articles de marque, l'émission d'un bon
-
-de transport pour l’envoi de vos articles, et l'envoi de bons d'achat sous réserve du respect des
-
-CGU Re-C ycle ;
-
-● traiter et gérer vos commandes de produits reconditionnés et revendus par Vente-Privee.com
-
-dans le cadre du Service Re-Cycle, et assurer la livraison desdits produits ;
-
-● traiter et gérer la mise en vente de vos produits éligibles dans le cadre de notre Service Re-T
-
-urn incluant le traitement et la gestion des commandes que vous passez auprès d’un autre
-
-membre ; le suivi de vos commandes en tant que vendeur et/ou acheteur et la gestion de votre
-
-relation client sous réserve du respect des CGU Re-T urn ;
-
-● vous adresser des devis dans le cadre de nos ventes de voyages et séjours ;
+3
 
 
 
-1
+1- Lorsque vous accédez au site de Veepee, vos données personnelles sont traitées pour les raisons, pendant les durées et sur les bases légales suivantes (plus
 
-● assurer la sécurité des transactions en ligne, prévenir les fraudes, les incidents de paiement et
-
-gérer le recouvrement (cf. nos CGV pour plus de détail), notamment par le biais d’un
-
-traitement automatisé de vos données;
-
-● gérer la relation membre dans le cadre de demandes d’information ou de réclamation que
-
-vous pourriez nous adresser via notre site internet, notre Service Relations Membres ou nos
-
-pages sur les réseaux sociaux ;
-
-● réaliser des enquêtes et/ou des sondages de satisfaction, soit par email soit par téléphone ;
-
-● tracer et gérer les retraits-rappels de produits ;
-
-● gérer et optimiser votre expérience client au travers d’une meilleure connaissance de nos
-
-membres ;
-
-● fournir une expérience shopping personnalisée, au plus près à vos goûts et préférences ;
-
-● réaliser des analyses statistiques pour développer des outils de pilotage, de mesure et de
-
-reporting en vue d’adapter et d’améliorer nos activités commerciales et marketing ;
-
-● sous réserve de votre consentement :
-
-o vous adresser des informations sur nos offres spéciales, actualités et évènements sur
-
-les supports de communication que vous aurez sélectionnés ;
-
-o vous adresser des communications annonçant l’ouverture des ventes de marques
-
-pour lesquelles vous avez demandé à être informés (alertes marques) ;
-
-o conserver vos données de carte bancaire (hors CVV) afin de faciliter vos achats
-
-ultérieurs ;
-
-o communiquer vos données personnelles à notre partenaire Adot et/ou à certaines de
-
-nos marques partenaires aux fins de recevoir des publicités adaptées à vos centres
-
-d’intérêts ;
-
-o vous adresser une newsletter hebdomadaire dans le cadre du Service Re-Cycle ;
+de précisions sur les bases légales au II.3 et sur les destinataires et leurs responsabilités au V ci-dessous):
 
 
 
-● assurer l’exercice de vos droits conformément à l’article IX ci-dessous ;
+Pourquoi vos
+
+données
+
+personnelles sont
+
+traitées
+
+Activités de traitement de données Base légale Durée de conservation
 
 
 
-Vente-Privee.com vous informe que vous pouvez à tout moment modifier vos choix en termes de
+Création et gestion des
 
-communications sur le Site, via la rubrique « Mes Communications » de votre compte.
+accès au compte Création du compte et gestion des accès au Site et aux Services Contrat
+
+Durée pendant laquelle votre compte
+
+est ouvert. Le compte est supprimé
+
+après 3 ans d’inactivité ou si vous en
+
+faites la demande
+
+
+
+Gestion de la
+
+communication
+
+
+
+Vous adresser un email d’invitation à nos ventes quotidiennes Intérêt légitime
+
+
+
+Durée pendant laquelle votre compte
+
+est ouvert, à moins que vous ne
+
+demandiez à ne plus recevoir ces
+
+communications
+
+
+
+En fonction de vos choix, vous envoyer:
+
+- des informations quotidiennes ou hebdomadaires sur nos offres
+
+spéciales et celles de nos partenaires, nos actualités et évènements,
+
+- des bons de réductions,
+
+- des relances panier,
+
+- des enquêtes de satisfaction sur les supports de communication que
+
+vous aurez sélectionnés,
+
+- des communications annonçant l’ouverture des ventes de marques
+
+pour lesquelles vous avez demandé à être informés (alertes
+
+marques)
+
+
+
+Consentement
+
+
+
+Vous envoyer des informations concernant vos commandes, vos livraisons,
+
+les échecs paiement Contrat
+
+4
+
+
+
+Gestion des commandes
+
+
+
+Traiter et gérer les commandes passées sur notre Site auprès de Vente-
+
+Privee.com ou de ses Partenaires dans le cadre de l’utilisation de notre
+
+marketplace (ci-après « Brandsplace »).
+
+Cela concerne la confirmation et la gestion des livraisons et rétractations
+
+
+
+Contrat
+
+Pendant la durée de vie de votre
+
+compte ou 10 ans après la passation
+
+de votre commande
+
+
+
+Demandes et
+
+Réclamations
+
+
+
+Gérer la relation membre dans le cadre de demandes d’information ou de
+
+réclamation que vous pourriez nous adresser via notre site internet, notre
+
+Service Relations Membres par téléphone ou email, ou sur nos pages sur les
+
+réseaux sociaux.
+
+Dans ce cadre, Veepee fait appel à des outils d’intelligence artificielle
+
+permettant d’optimiser les réponses à vos requêtes.
+
+
+
+Contrat et
+
+Intérêt légitime
+
+7 ans et 2 mois après la clôture du
+
+dossier
+
+
+
+Enregistrement des appels à des fins d’évaluation de la qualité Intérêt légitime 90 jours maximum
+
+
+
+Gestion des réclamations liées au paiement Contrat
+
+
+
+Vos données de carte bancaire
+
+pseudonymisées (tronquées) sont
+
+conservées pendant une durée
+
+maximale de 15 mois suivant le
+
+paiement de votre commande.
+
+Jeux-concours/
+
+Évènements
+
+Gérer votre participation aux jeux-concours (organisation du jeu et
+
+attribution de lot) ou à tout autre événement que nous organisons Consentement Jusqu’à la réception du lot par le
+
+gagnant
+
+
+
+Enquêtes/Sondages Réaliser des enquêtes et/ou des sondages de satisfaction, soit par email soit
+
+par téléphone Consentement 3 mois après l’envoi du mail
+
+d’invitation
+
+
+
+Amélioration de
+
+l'expérience Membre et
+
+Analyses statistiques
+
+
+
+Réaliser des analyses statistiques pour développer des outils de pilotage, de
+
+mesure et de reporting en vue d’adapter et d’améliorer nos activités
+
+commerciales et marketing, d’optimiser votre expérience client et de
+
+communiquer des statistiques agrégées à nos Partenaires
+
+
+
+Intérêt légitime 3 ans
+
+5
+
+
+
+Expérience shopping
+
+personnalisée
+
+Vous proposer des offres adaptées et ordonnées au plus près de vos goûts et
+
+préférences Intérêt légitime 3 ans (et 6 mois pour l’entraînement de
+
+l'algorithme)
+
+Gestion des formulaires
+
+de signalements de
+
+contenus illicites
+
+Réception et gestion des signalements Obligation légale 6 mois à partir de la réception du
+
+signalement
+
+
+
+Sécurité des paiements et
+
+Gestion de la fraude
+
+
+
+Afin de vous permettre de réaliser vos transactions en ligne Contrat Jusqu’à 5 ans après le paiement
+
+complet
+
+
+
+Conservation de vos données de carte bancaire (hors CVV) afin de faciliter
+
+vos achats ultérieurs Consentement
+
+
+
+Dans le cas où vous souhaitez
+
+enregistrer votre carte bancaire pour
+
+faciliter vos prochains achats, celle-ci
+
+sera conservée jusqu’à son expiration
+
+plus 30 jours max, ou jusqu’au retrait
+
+de votre consentement ou si vous
+
+procédiez à la suppression de votre
+
+compte membre.
+
+Assurer et gérer la sécurité des transactions en ligne, prévenir les fraudes, les
+
+incidents de paiement et gérer le recouvrement (cf. nos CGV pour plus de
+
+détail), notamment par le biais d’un traitement automatisé de vos données
+
+
+
+Intérêt légitime
+
+ou
+
+Obligation légale
+
+Jusqu’à 5 ans après le paiement
+
+complet
+
+
+
+Gestion de vos
+
+coordonnées bancaires
+
+Conservation de vos RIB/ IBAN afin de gérer vos demandes de
+
+remboursement Contrat
+
+
+
+Par ailleurs, dans le cadre de la gestion
+
+de vos remboursements, nous
+
+conservons vos coordonnées bancaires
+
+telles que votre IBAN pour une durée
+
+maximale de 12 mois.
+
+
+
+Sécurité Traçabilité des évènements techniques pour gestion des incidents de
+
+sécurité Intérêt légitime 1 an (logs)
+
+6
+
+
+
+Partage de vos données
+
+avec notre filiale A.Mob
+
+et/ou à certaines de nos
+
+marques partenaires
+
+
+
+Vous afficher des publicités personnalisées adaptées à vos centres d’intérêts
+
+sur les sites web et web mobiles que vous consultez, au sein des applications
+
+mobiles que vous utilisez ou sur les réseaux sociaux
+
+Consentement
+
+
+
+A.Mob: 13 mois
+
+Plus d’informations ici: Adot | Privacy
+
+policy
+
+Pour les autres partenaires, voir leur
+
+Politique de confidentialité
+
+
+
+Réaliser des mesures de performances publicitaires et des études marketing
+
+statistiques
+
+
+
+Améliorer le service
+
+
+
+Exercice de vos droits Assurer l’exercice de vos droits conformément à l’article IX ci-dessous Obligation légale 6 ans
+
+
+
+Obligations légales ou
+
+réglementaires
+
+
+
+Tracer et gérer les retraits-rappels de produits
+
+
+
+Obligation légale
+
+
+
+Pendant la durée de vie de votre
+
+compte ou 10 ans après la passation
+
+de votre commande
+
+
+
+Tracer et gérer les garanties
+
+Pendant la durée de vie de votre
+
+compte ou jusqu’à 10 ans après la
+
+passation de votre commande
+
+
+
+Gestion de notre comptabilité et de nos obligations fiscales
+
+Durée de l’exercice en cours,
+
+augmentée de 10 ans à compter de la
+
+clôture
+
+Établissement et la conservation des moyens de preuve nécessaires à la
+
+défense de nos droits
+
+Durée du dossier et/ou de prescriptions
+
+légales
+
+
+
+2- En fonction des différents services utilisés sur le site Veepee, vos données personnelles sont traitées pour les raisons, pendant les durées et sur les bases
+
+légales suivantes (plus de précisions sur les bases légales au II.3 et sur les destinataires et leurs responsabilités au V ci-dessous):
+
+
+
+Service Activités de
+
+traitement Sous-Finalités du traitement Base légale Durée de conservation
+
+
+
+Le Club Gestion du profil public et Affichage public et/ou privé sur Le CLub du profil Consentement
+
+7
+
+
+
+privé personnalisé
+
+
+
+Durée pendant laquelle votre
+
+compte est ouvert. Le compte est
+
+supprimé après 3 ans d’inactivité
+
+ou si vous en faites la demande
+
+
+
+Participation aux activités
+
+Gérer vos participations aux missions, challenges (jeux
+
+concours), les tests produits, évènements (live shopping) et
+
+sondages
+
+Contrat
+
+
+
+Gestion de la
+
+communication
+
+Envoi d’offres personnalisées par rapport à votre profil (dont
+
+des tests produits et les challenges) Consentement
+
+
+
+Gestion des avis Gérer vos avis dans le cadre de tests produits Consentement 10 ans à compter du dépôt des
+
+avis
+
+
+
+Ventes de
+
+voyages et
+
+séjours
+
+
+
+Transfert de données aux
+
+partenaires voyages
+
+Transfert de données aux partenaires voyages pour la
+
+réservation Contrat 20 jours (logs)
+
+
+
+Gestion de la plateforme
+
+monétique de paiement Gérer les paiements des réservations de voyage Contrat
+
+Durée de la transaction pour
+
+valider la réservation + 5 ans pour
+
+respecter nos obligations légales
+
+de lutte contre le blanchiment.
+
+Ventes de
+
+billets
+
+événement et
+
+spectacle via
+
+le site France
+
+Billet/Veepee
+
+(le “Site”)
+
+
+
+Fourniture du service Création d’un compte FRANCE BILLET et gestion de
+
+l’authentification au dit compte Contrat Le temps de la création du
+
+compte
+
+
+
+Amélioration de
+
+l'expérience Membre et
+
+Analyses statistiques
+
+
+
+Mesure d’audience des Pages web et analyse des
+
+performances des ventes réalisées via les Pages web Consentement 13 mois
+
+
+
+Coupons de
+
+réduction Gestion des coupons
+
+Emission des coupons
+
+Contrat
+
+Durée pendant laquelle votre
+
+compte est ouvert. Le compte est
+
+supprimé après 3 ans d’inactivité
+
+ou si vous en faites la demande
+
+Remboursement des coupons
+
+8
+
+
+
+Gestion des
+
+remboursements
+
+Conservation de vos RIB/ IBAN afin de gérer vos demandes
+
+de remboursement
+
+
+
+Si consentement, durée pendant
+
+laquelle votre compte est ouvert,
+
+sauf retrait du consentement ou
+
+demande de suppression
+
+9
+
+
+
+3- Veuillez trouver ci-dessous des précisions sur les bases légales :
+
+
+
+- Exécution du contrat : le traitement de vos données est nécessaire à l’exécution du contrat
+
+conclu entre vous et Vente-privee.com notamment lorsque vous créez un compte sur le Site,
+
+mais également lorsque vous passez commande auprès de Vente-privée ou de ses partenaires
+
+directement auprès de ses derniers via notre “Brandsplace” ;
+
+- Intérêt légitime : Vente-privee.com peut disposer d’un intérêt légitime à traiter vos données,
+
+par exemple lorsque pour l’envoi des mails d’annonce d’ouverture des ventes ou pour
+
+l’analyse de la navigation dans un but d’amélioration des offres et services, de réalisation
+
+d’études statistiques sur les produits et/ou services. Vous pouvez vous opposer à ces
+
+traitements à tout moment via votre compte dans vos “Préférences de communication” ou à
+
+l’adresse email modifications@veepee.com ;
+
+- Consentement : Vente-privee.com réalise des traitements à la suite de votre consentement
+
+exprès, qui peut être retiré à tout moment via votre compte ou à l’adresse email
+
+modifications@veepee.com ;
+
+- Respect des obligations légales : Vente-privee.com peut réaliser des traitements dans le
+
+cadre du respect de ses obligations légales.
 
 
 
@@ -162,111 +724,79 @@ III. A quelles occasions pouvons-nous collecter vos données personnelles ?
 
 
 
-Nous pouvons recueillir vos données personnelles à l’occasion de/d’ :
+Nous pouvons recueillir vos données personnelles lorsque vous accédez à votre compte et utilisez les
+
+différents services proposés.
 
 
 
-● la création de votre compte membre sur notre Site, soit directement auprès de vous
-
-lorsque vous complétez le formulaire de création de compte présent sur le Site, soit, selon
-
-votre choix, par l’intermédiaire de l’outil Facebook connect. Cet outil permet à tout
-
-titulaire d’un compte Facebook d’utiliser ses données d’identification sur ce réseau social
-
-pour créer un compte sur un autre site internet. Lorsque vous cliquez sur la touche «
-
-Continuer en tant que... » présente sur le formulaire d’inscription, vous donnez à Facebook
-
-votre consentement pour le transfert des données nécessaires à la création de votre
-
-compte. Pour plus d’informations, vous pouvez consulter la politique de confidentialité de
-
-Facebook
-
-● la passation de commande sur le Site ;
-
-● du paiement de votre commande;
+1\. Données personnelles directement recueillies auprès de vous:
 
 
 
-2
+- La création de votre compte membre sur notre Site, soit directement auprès de vous lorsque
 
-● votre acceptation de recevoir certaines communications commerciales de notre part par
+vous complétez le formulaire de création de compte présent sur le Site, soit, selon votre choix,
 
-email et/ou par notification sur votre smartphone ;
+par l’intermédiaire de l’outil Facebook Login ou de l'outil Google Sign in, ou de l’outil Apple
 
-● votre inscription aux alertes par marques ;
+Sign in. Ces outils permettent à tout titulaire d’un compte Facebook, Google ou Apple d’utiliser
 
-● sondages ou enquêtes de satisfaction portant sur votre expérience client ;
+ses données d’identification sur ces réseaux pour créer un compte sur un autre site internet.
 
-● une interaction avec notre société via sa page officielle ou via message privé sur les
+Lorsque vous cliquez sur l’option d’authentification Facebook, Google ou Apple et êtes
 
-réseaux sociaux ;
+redirigés sur les formulaires d’inscription et que vous cliquez sur « Se connecter » ou
 
-● Vos échanges avec notre Service Relations Membres via le Site, par téléphone ou par email
+“Suivant”, vous donnez à Facebook, Google ou Apple votre consentement pour le transfert
 
-;
+des données nécessaires à la création de votre compte. Pour plus d’informations, vous pouvez
 
-● votre participation à un jeu-concours ou autre événement que nous organisons ;
-
-● votre navigation sur notre Site par l’intermédiaire de cookies ou technologies similaires
-
-(ci-après « Cookies » tels que définis dans la politique cookies ci-dessous) ou lorsque vous
-
-cliquez sur des publicités relatives à nos ventes ;
-
-● vos reventes de produits (achetés neufs sur le Site Veepee) à d’autres membres ou vos
-
-achats de produits neufs proposés à la vente par d’autres membres dans le cadre du
-
-Service Re-T urn ;
-
-● vos demandes de reprises d’articles et l’émission de bons d’achat dans le cadre du Service
-
-Re-Cycle ;
-
-● vos achats d’articles reconditionnés et revendus par Vente-Privee.com dans le cadre du
-
-Service Re-Cycle, lesquels seront validés après la création d’un compte sur notre Site.
+consulter la politique de confidentialité de Facebook ou de Google ou d' Apple.
 
 
 
-Dans le cadre du Service Re-Cycle, service par le biais duquel Vente-privee.com a collecté des
+2\. Données personnelles collectée automatiquement lors de l’utilisation des services :
 
-produits de seconde main et par le biais duquel Vente-Privee.com peut revendre lesdits produits une
+- La passation de commande sur le Site ;
 
-fois reconditionnés, il est précisé que les données collectées lors de la collecte de produits sont
+- Le paiement de votre commande ;
 
-stockées sur le Site et que les données collectées lors de la commande de produits reconditionnés
+- Votre acceptation de recevoir certaines communications commerciales de notre part par email
 
-sont stockés sur une plateforme tierce, agissant en tant que sous-traitant de Vente-Privee.com.
+et/ou par notification sur votre smartphone ;
 
-Néanmoins, il est précisé :
+- Votre inscription aux alertes par marques ;
 
+- Vos participations aux sondages ou enquêtes de satisfaction portant sur votre expérience
 
+membre ;
 
-● que Vente-Privee.com reste éditrice du Service Re-Cycle, et responsable de traitement de
+- Vos interactions via la page officielle ou via message privé sur les réseaux sociaux ;
 
-toutes les données collectées,
+- Vos échanges avec notre Service Relations Membres via le Site, par téléphone, par email ou
 
+via les réseaux sociaux;
 
-
-● que les données bancaires nécessaires à la passation des commandes ne sont stockées ni par
-
-Vente-Privee.com ni par la plateforme, mais seulement par le prestataire de paiement.
-
-
-
-Il est précisé que les Données des Membres acheteurs sur le Service Re-Cycle sont stockées dans une
-
-base de données isolée et séparée de la base de données des Membres acheteurs sur le Site.
+10
 
 
 
-Hormis cette particularité, toutes les dispositions de la présente Politique de Confidentialité
+- Votre participation à un jeu-concours ou autre événement que nous organisons ;
 
-continuent de s’appliquer au Service Re-Cycle.
+- Votre navigation sur notre Site et/ou sur d’autres sites par l’intermédiaire de traceurs ou
+
+technologies similaires (ci-après « Cookies » tels que définis dans la politique cookies ci-
+
+dessous) ou lorsque vous cliquez sur des publicités relatives à nos ventes.
+
+
+
+3\. Données personnelles collectées auprès de tiers:
+
+- Suite à une réservation voyage auprès d’un tiers, lequel tiers nous renvoie le détail de vos
+
+réservations.
 
 
 
@@ -274,171 +804,101 @@ IV. Quelles données personnelles pouvons-nous être amenés à collecter ?
 
 
 
-(i) Dans le cadre de nos activités nous pouvons être amenés à recueillir certaines
+1. Lorsque vous utilisez notre site et nos services, nous sommes susceptibles de collecter les
 
-données directement auprès de vous pour les finalités détaillées au point II de la
-
-présente politique.
+données suivantes vous concernant :
 
 
 
-Les informations que nous sommes amenés à collecter sont :
+- Civilité;
 
+- Email;
 
+- Mot de passe;
 
-3
+- Date de naissance ;
 
-● les données personnelles que vous fournissez lors de la création de votre compte membre
+- Adresses postales;
 
-telles que votre identité, votre adresse email et votre mot de passe , et votre date de
+- Numéros de téléphone;
 
-naissance ;
+- Préférences de communications;
 
-● vos coordonnées; notamment vos adresses pour la facturation et la livraison de vos
+- Préférences et centres d’intérêts, notamment par vos choix d’alertes marques;
 
-commandes;
+- Historique de commandes ;
 
-● les données personnelles que vous déclarez lors de votre utilisation du Service Re-cycle, soit
+- Adresse IP, type de terminal, navigateur utilisé, fournisseur d’accès;
 
-vos nom, prénom, adresse postale et adresse email ;
+- Historique de vos visites et de votre navigation;
 
-● vos préférences personnelles en lien avec les produits que nous commercialisons sur notre
+- Numéros de carte bancaire collectés et traités par l’intermédiaire de nos prestataires en
 
-Site, notamment par vos choix d’alertes marques ;
+charge de la gestion des paiements et des transactions, et dans les conditions exposées ci-
 
-● les informations relatives à vos commandes, telles que les produits et services que vous
+dessous ;
 
-commandez ;
+Vos coordonnées bancaires ne transitent pas en clair sur les serveurs de Vente-Privee.com. Les
 
-● les informations relatives à vos moyens de paiement lorsque vous passez commande sur
+paiements sont réalisés via une plateforme de paiement sécurisée, conforme à la norme PCI-
 
-notre Site.
+DSS, et complétée par des mesures de contrôle, afin de garantir la sécurité des achats effectués
 
-
-
-A noter, vos coordonnées bancaires ne transitent pas en clair sur les serveurs de Vente-Privee.com.
-
-Les paiements sont réalisés via une plateforme de paiement sécurisée, conforme à la norme PCI-DSS,
-
-et complétée par des mesures de contrôle, afin de garantir la sécurité des achats effectués sur
-
-wwww.veepee.fr et de lutter contre la fraude. Les coordonnées de votre carte bancaire
+sur www.veepee.fr et de lutter contre la fraude. Les coordonnées de votre carte bancaire
 
 communiquées lors de votre commande ne transitent jamais en clair sur le réseau : elles sont
 
 chiffrées grâce au protocole TLS (Transport Layer Security)
 
+Lorsque vous souhaitez enregistrer vos données de carte bancaire auprès de notre société
 
+pour faciliter vos achats ultérieurs, Vente-privee.com conserve de manière sécurisée une
 
-Lorsque vous souhaitez enregistrer vos données de carte bancaire auprès de notre société pour
+partie des numéros de votre carte bancaire: les 6 premiers chiffres, correspondant au code de
 
-faciliter vos achats ultérieurs, Vente-privee.com conserve de manière sécurisée une partie des
+votre établissement bancaire, et les 4 derniers chiffres. Ces deux séries de chiffres sont
 
-numéros de votre carte bancaire: les 6 premiers chiffres, correspondant au code de votre
+enregistrées dans des fichiers distincts et sécurisés. Vente-privee.com ne peut en aucune
 
-établissement bancaire, et des 4 derniers chiffres. Ces deux séries de chiffres sont enregistrées dans
+manière reconstituer votre numéro de carte bancaire dans son intégralité à partir de ces
 
-des fichiers distincts et sécurisés. Vente-privee.com ne peut en aucune manière reconstituer votre
+chiffres. En outre, nous ne conservons pas le CVV de votre carte bancaire (les 3 numéros au
 
-numéro de carte bancaire dans son intégralité à partir de ces chiffres. En outre, nous ne conservons
+dos de votre carte). Seuls les 4 derniers chiffres de votre carte bancaire seront visibles dans
 
-pas le CVV de votre carte bancaire (les 3 numéros au dos de votre carte).
+votre compte Membre.
 
+11
 
 
-Seuls les 4 derniers chiffres de votre carte bancaire seront visibles dans votre compte
 
-Membre.
+- Certaines informations relatives à votre commande lorsque vous choisissez de souscrire à une
 
-● certaines informations relatives à votre commande et vos moyens de paiement CB, Visa et
+option de paiement en différé proposée par nos partenaires tels que Paypal, Floa, Klarna,
 
-Mastercard lorsque ceux-ci ont une durée de validité supérieure à celle de votre
+Oney et Alma;
 
-financement, lorsque vous choisissez l’option paiement en 3 ou 4 fois sur certaines ventes,
+- Suivi de la relation Membre;
 
-via la solution de paiement Facily Pay opérée par notre partenaire Oney Bank, qui a seul
+- Avis sur un produit ou un service sur notre site ;
 
-accès à ces données.
+- Les données de votre profil Facebook ou Google ou Apple telles que vos noms, prénoms, photo
 
-● les informations que vous pouvez être amenées à communiquer auprès de notre Service
+de profil et adresse e-mail. Vous disposez de la possibilité de ne pas transférer certaines de ces
 
-● Relations Membres dans le cadre de la gestion de vos demandes d’information ou de vos
+données. Pour en savoir plus, cliquez sur les Règles de confidentialité de l’outil Facebook,
 
-réclamations;
+Google ou Apple.
 
-● les informations que vous renseignez lorsque vous laissez un avis sur un produit ou un
 
-service sur notre site ;dans le cadre de l’utilisation du Service Re-T urn, nous sommes
 
-amenés à collecter :
+Le caractère obligatoire des données vous est signalé lors de la collecte par un astérisque.
 
+Certaines données sont collectées automatiquement du fait de vos actions sur le site.
 
 
-Les données traitées lors de la vente des produits éligibles lorsque vous procédez à la mise en
 
-vente d’un produit acheté sur le Site Veepee:
-
-
-
-o Les informations relatives aux produits de vos anciennes commandes éligibles
-
-au Service ;
-
-
-
-4
-
-o Le prix auquel vous avez acheté le produit ;
-
-o Le prix auquel vous souhaitez vendre votre produit ;
-
-o Les informations que vous renseignez lorsque vous évaluez un membre
-
-utilisateur du Service
-
-
-
-Les données traitées lors de l’achat de produit(s) lors de la passation d’une commande auprès
-
-d’un autre membre:
-
-
-
-o Le ou les produits que vous commandez auprès d’un membre ;
-
-o La dernière adresse de facturation renseignée dans votre compte membre
-
-Veepee ;
-
-o Le point Mondial Relay (prestataire de transport) que vous aurez choisi pour
-
-la livraison de votre commande ;
-
-o Vos données de paiement ;
-
-o Les informations que vous renseignez lorsque vous évaluez un membre
-
-utilisateur du Service.
-
-
-
-Par ailleurs, et dans le cadre du Service Re-T urn, notre prestataire de paiement collecte
-
-directement les informations de carte bancaire des membres acheteurs. Ces informations ne sont
-
-pas stockées par Vente-Privee.com.
-
-
-
-● les données de votre profil Facebook telles que vos nom et photo de profil, date de naissance et
-
-adresse e-mail. Vous disposez de la possibilité de ne pas transférer certaines de ces données.
-
-Pour en savoir plus cliquez sur la mention “Modifiez ça” présente sur l’outil Facebook.
-
-
-
-(ii) Afin d’assurer la sécurité des paiements lors des transactions sur le Site, d’éviter les fraudes et
+2. Afin d’assurer la sécurité des paiements lors des transactions sur le Site, d’éviter les fraudes et
 
 ainsi de vous protéger dans le cadre de la vente à distance, nous pouvons également collecter des
 
@@ -454,181 +914,693 @@ signalement est effectuée par notre service de prévention de la Fraude.
 
 
 
-(iii) Enfin, nous pouvons collecter des informations relatives à l’utilisation de notre Site, notamment
+3. Enfin, nous pouvons collecter des informations relatives à l’utilisation de notre Site, notamment
 
-votre navigation (adresse IP, pages, produits et services visités ou recherchés, liens cliqués, etc). De la
+votre navigation (adresse IP, pages, produits et services visités ou recherchés, liens cliqués, etc) et
 
-même manière, nous pouvons collecter des données relatives à la consultation des emails que nous
+également des informations relatives à la bonne réception des communications envoyées.
 
-vous adressons à des fins statistiques et de prospection commerciale. Certaines de ces informations
+Certaines de ces informations peuvent être collectées par l’intermédiaire de Traceurs (ou
 
-peuvent être collectées par l’intermédiaire de Cookies déposés sur votre terminal lors de votre
+“Cookies”) déposés sur votre terminal ou intégrés aux emails que nous vous adressons. Pour en
 
-navigation sur notre Site. Pour en savoir plus sur les Cookies, consultez le point XI de la présente
+savoir plus sur les Cookies, consultez la Politique Cookies.
 
-politique.
 
 
+V. Quels sont les destinataires de vos données personnelles ?
 
-V. Quels sont les fondements juridiques qui légitiment le traitement de vos données
 
 
+1. Vos données personnelles sont traitées par Vente-Privee.com. Nous veillons à ce que seules les
 
-Vente-privee.com traite vos données personnelles sur les fondements juridiques suivants :
+personnes habilitées au sein de Vente-Privee.com puissent accéder à vos données personnelles
 
+lorsque cela est nécessaire aux fins de gestion de notre relation commerciale ou de nos obligations
 
+légales.
 
-● Exécution du contrat : le traitement de vos données est nécessaire à l’exécution du contrat
 
-conclu entre vous et Vente-privee.com lorsque vous créez un compte sur le Site, mais
 
-également lorsque vous passez commande auprès de Vente-privée ou de ses partenaires
+2. Nous pouvons également être amenés à communiquer vos données personnelles:
 
-directement auprès de ses derniers via notre Brandsplace, afin d’assurer le paiement, la
 
-livraison et le suivi de vos commandes, l’utilisation de nos services Veepee Re-turn et Veepee
 
-Re-cycle, afin de gérer vos relations avec notre Service Relations Membres;
+Destinataires Détails
 
 
 
-5
+Au sein du
 
-● Intérêt légitime : Vente-privee.com peu disposer d’un intérêt légitime à traiter vos données.
+Groupe Veepee
 
-C’est par exemple le cas lorsque Vente-privee.com procède à l’envoi de ses emails d’annonce
+Cela concerne d’autres filiales de Vente-Privee.com, telles que Privalia, Veepee
 
-d’ouverture des ventes à ses membres, à des traitements de prévention et de lutte contre la
+Northern Europe, ou Veepee GmbH situées au sein de l’Union Européenne et
 
-fraude sur son Site ou lors des retours produits, au recouvrement des commandes impayées
+agissant en qualité de responsables de traitements ou de sous-traitants dans
 
-ou lorsqu’elle procède à l’analyse de la navigation de ses membres dans un but d’amélioration
+le cadre de la gestion et de l’expédition de vos commandes ou dans le cadre de
 
-de ses offres et services, de réalisation d’ études statistiques sur les produits et/ou services
+gestion de campagnes marketing.
 
-qu’elle commercialise, de sécurisation de ses supports numériques (sites internet, applications,
+12
 
-etc) ;
 
 
+A nos partenaires
 
-● Consentement : Vente-privee.com réalise des traitements à la suite de votre consentement
+commerciaux
 
-exprès, qui peut être retiré à tout moment. Tel est le cas pour l’envoi de nos communications
+- Lorsque vous indiquez votre consentement, notamment pour de la
 
-commerciales portant sur les offres spéciales, les jeux-concours, les alertes marques ou pour le
+prospection commerciale ou dans le cadre de votre participation aux
 
-rattachement de vos données de carte bancaire à votre compte Veepee afin de ne plus avoir à
+jeux concours (organisation du jeu et attribution du lot) ou à tout autre
 
-saisir celles-ci pour vos prochaines commandes;
+évènement que nous organisons.
 
-● Respect des obligations légales : Vente-privee.com peut réaliser des traitements dans le cadre
 
-du respect de ses obligations légales. Tel est le cas dans le cadre d’éventuelles procédures de
 
-rappel ou retrait de produits, ou encore pour le traitement comptable de vos commandes.
+- Pour finaliser vos commandes lors de l’achat de billets d'événement et
 
+spectacle via notre partenaire France Billet. Dans ce cadre, le système
 
+du Veepee Connect sera utilisé pour vous permettre de créer un
 
-VI. Quels sont les destinataires de vos données personnelles ?
+compte France Billet nécessaire à la finalisation de la commande
 
+auprès de France Billet. Vous pourrez alors vous connecter à France
 
+Billet en utilisant vos identifiants Vente-Privée.com, sans avoir besoin
 
-i. Vos données personnelles sont traitées par le personnel de Vente-Privee.com. Nous veillons à ce que
+de créer de nouveau compte.
 
-seules les personnes habilitées au sein de Vente-Privee.com puissent accéder à vos données
 
-personnelles lorsque cela est nécessaire aux fins de gestion de notre relation commerciale ou de nos
 
-obligations légales.
+- Si vous l’acceptez, afin de vous de vous afficher des offres
 
+promotionnelles et des publicités pertinentes dans les emplacements
 
+publicitaires réservés à la publicité sur des sites tiers, applications, les
 
-ii. Nous pouvons également être amenés à communiquer vos données personnelles à :
+réseaux sociaux, des écrans digitaux dont des télévisions connectées,
 
+et pour réaliser des mesures de performances publicitaires, des études
 
+marketing statistiques et entraîner les modèles d'analyses. Plus
 
-● d’autres filiales de Vente-Privee.com, telles que Privalia et Veepee Northern Europe
+d’informations dans la Politiques Cookies ci-après.
 
-situées en France ou au sein de l’Union Européenne, , agissant en tant que sous-traitants
+Dans ce cadre, vos données pourront notamment être partagées avec
 
-dans le cadre de la gestion et de l’expédition de vos commandes ou dans le cadre de
+M6 PUBLICITE pour le ciblage sur des écrans digitaux dont des
 
-gestion de campagnes marketing;
+télévisions connectées. Plus d’informations ici: POLITIQUE DE
 
-● notre partenaire Adot lorsque vous indiquez votre consentement sur nos interfaces à
+CONFIDENTIALITE PARTENAIRES DATA DU GROUPE M6
 
-l’envoi à votre intention de publicités adaptées à vos préférences sélectionnées sur la base
 
-de votre navigation, et/ou de vos commandes. Pour en savoir plus vous pouvez consulter
 
-la politique de confidentialité d’Adot ;
+Aux voyagistes et
 
-● des partenaires commerciaux de Vente-Privee.com, notamment de France Billet agissant
+tours opérateurs
 
-en tant que responsable de traitement conjoint aux fins de finaliser vos commandes de
+(“Vendeurs
 
-billets de spectacle, et des voyagistes et tours opérateurs, agissant en tant que responsable
+voyagistes”)
 
-de traitement, aux fins de répondre à votre demande d’émission de devis et/ou de
 
-réservations de voyages, séjours ou encore nos partenaires vous permettant de payer une
 
-commande en plusieurs fois;
+Dans ce cadre là, certains Vendeurs voyagistes sont responsables de
 
-● nos marques partenaires présentes sur la “Brandsplace” aux fins d’exécution de votre
+traitements des données à caractère personnel qu’il collecte et traite pour
 
-commande ;
+assurer la fourniture du service. En conséquence, Vente-Privee.com pourra
 
-● nos marques partenaires aux fins de gestion du SAV des produits et/ou services
+être amenée à leur transférer de manière sécurisée les données personnelles
 
-commandés ;
+nécessaires notamment afin de procéder à la réservation et au paiement sur la
 
-● des sous-traitants tels que :
+plateforme technique utilisée par le partenaire (Données Membre : ID Membre
 
+Vente-Privee.com, nom, prénom, adresse postale, adresse email, numéro de
 
+téléphone).
 
-6
+A l’issue de la réservation de l’Offre Voyage, les Vendeurs Voyagistes renvoient,
 
-o nos prestataires d’hébergement et de maintenance du S ite et de nos solutions
+par l’intermédiaire de la plateforme technique, à Veepee les données
 
-dématérialisées de collecte de données personnelles;
+nécessaires pour sa comptabilité et pour l’élaboration de statistiques
 
-o notre prestataire de mise à disposition et de maintenance de plateforme SaaS
+commerciales.
 
-dans le cadre du Service Re-Cycle ;
+Pour plus d’information sur les traitements opérés par les Vendeurs Voyagistes,
 
-o nos prestataires de service de paiement ;
+leurs finalités, les durées de conservation y afférant, et/ou ses sous-traitants,
 
-o nos prestataires de prévention et de lutte contre la fraude ;
+nous vous recommandons de consulter les informations mises à disposition par
 
-o nos prestataires logistiques ;
+les Vendeurs Voyagistes notamment au sein de leurs Politiques de
 
-o nos prestataires de transport ;
+Confidentialité.
 
-o nos prestataires de solutions marketing ;
 
-o nos prestataires de gestion de prospection commerciale et de communication via
 
-les réseaux sociaux ;
+A nos marques
 
-o nos prestataires de service client ;
+partenaires
 
-o nos prestataires d’organisation de jeux concours ;
+(notamment
 
+celles présentes
 
 
-iii.Vente-Privee.com pourra également être amenée à communiquer vos données à des tiers pour
+
+Les marques partenaires sont responsables de traitement indépendants
+
+notamment aux fins de la gestion des services tels que la préparation et
+
+l’exécution de votre commande, la gestion de vos factures et de vos
+
+remboursements, la gestion du service après-vente des commandes et pour les
+
+respect de leurs propres obligations légales et réglementaires.
+
+13
+
+
+
+sur la
+
+“Brandsplace”)
+
+Pour plus d’information sur les traitements opérés par les marques
+
+partenaires, leurs finalités et les durées de conservation y afférant, et/ou leurs
+
+sous-traitants, nous vous recommandons de consulter les informations mises
+
+à disposition par la marques partenaire notamment au sein de leurs Politique
+
+de Confidentialité.
+
+
+
+À des
+
+prestataires de
+
+paiement
+
+
+
+Certains agissent en qualité de responsables de traitement indépendants afin
+
+de gérer les services de paiements proposés. Dans ce cadre, nous pouvons être
+
+amenés à transmettre notamment vos données d’identification et de
+
+commande pour vous permettre de bénéficier des solutions de paiements
+
+proposées sur notre page de paiement telles que le paiement en plusieurs fois.
+
+Pour répondre à cet objectif, vous serez assujetti aux Conditions Générales et
+
+Politique de Confidentialité de nos partenaires où seront détaillées les finalités
+
+et le détail des données collectées.
+
+
+
+A des partenaires
+
+ou prestataires
+
+agissant en
+
+qualité de sous-
+
+traitants
+
+notamment
+
+pour :
+
+
+
+- l’hébergement et la maintenance du Site et de nos solutions
+
+dématérialisées de collecte de données personnelles,
+
+- la prévention et la lutte contre la fraude,
+
+- la gestion des paiements,
+
+- la logistique et le transport,
+
+- des solutions et technologies de marketing et de traitement de
+
+données,
+
+- la gestion de la prospection commerciale et de la communication via
+
+les réseaux sociaux,
+
+- le service client ,
+
+- l’organisation de jeux concours.
+
+
+
+3. Nous pouvons également être amené à communiquer vos données personnelles dans le cadre de
+
+partenariat avec des tiers en tant que responsables de traitements conjoints, ce qui signifie que
+
+Veepee et ses Partenaires décident ensemble les finalités du traitement de vos données
+
+personnelles et les moyens utilisés pour ces traitements:
+
+
+
+Veepee et
+
+France Billet
+
+France Billet est une société qui propose un service de billetterie pour des offres
+
+de loisirs. Ses coordonnées sont les suivantes: FRANCE BILLET RCS Bobigny 414
+
+948 695, domiciliée au 27-35 rue Victor Hugo 94200 Ivry sur Seine.
+
+
+
+En acceptant de profiter des offres de loisirs proposées par France Billet sur le
+
+site de Veepee, vous serez redirigé vers une plateforme dédiée de gestion du
+
+service, le site France Billet/Veepee ( le “Site”).
+
+Dans ce cadre la, Veepee et France Billet traitent conjointement vos données
+
+personnelles afin de:
+
+- créer un compte FRANCE BILLET et gérer l’authentification au dit
+
+compte,
+
+- mesurer l’audience des Pages web et analyser les performances des
+
+ventes réalisées via les Pages web.
+
+
+
+Les données suivantes seront alors partagées et traitées pour les besoins du
+
+service:
+
+14
+
+
+
+- vos identifiants et contacts,
+
+- vos données de commandes et de navigation.
+
+
+
+Pour plus d’information sur les traitements opérés par France Billet en tant que
+
+Responsable de traitement indépendant, les finalités, les durées de
+
+conservation y afférant, et/ou ses sous-traitants, nous vous recommandons de
+
+consulter les informations mises à disposition par France Billet au sein de sa
+
+Politique de Confidentialité
+
+
+
+Pour exercer vos droits:
+
+- par e-mail à l'adresse suivante : dpo.veepee@francebillet.com
+
+- par courrier postal à l'adresse suivante : FRANCE BILLET - Data
+
+Protection Officer - Service client - 27-35 rue Victor Hugo - 94200 Ivry
+
+sur Seine – France
+
+
+
+Dans ce cadre, Veepee et France Billet s’engagent à :
+
+- assurer à tout moment un niveau adéquat de sécurité des Traitements
+
+partagés et de confidentialité des Données vous concernant,
+
+- coopérer pour l’exécution de leurs obligations de réaliser des analyses
+
+d’impact ou de consulter une Autorité de contrôle conformément à la
+
+Réglementation sur les données personnelles, lorsque ces obligations
+
+sont applicables aux traitements partagés,
+
+- se tenir mutuellement informées par écrit, sans délai, de toute Violation
+
+de Données Personnelles dont elles auraient connaissance concernant
+
+les Traitements partagés, dès lors qu’elles en prennent connaissance.
+
+Les Parties se concertent sans délai pour déterminer la nécessité de
+
+notifier cette Violation de Données Personnelles à l’Autorité de contrôle
+
+compétente, ou aux personnes concernées, le cas échéant.
+
+
+
+Veepee et Adot A.Mob ou Adot est une sous-filiale de Vente-Privée.com spécialisée dans le
+
+ciblage publicitaire, située 164 rue ambroise croizat, 93200 SAINT-DENIS.
+
+
+
+1- Lorsque vous acceptez que Vente-Privée.com mette à disposition d’Adot vos
+
+données, il s’agit des catégories de données suivantes :
+
+- vos identifiants (données non directement identifiantes) ;
+
+- les informations relatives aux appareils que vous utilisez ;
+
+- les informations sociodémographiques vous concernant ;
+
+- votre historique de navigation ;
+
+- Votre historique d’achat ;
+
+- Vos choix de communication.
+
+2- Lorsque vous acceptez qu’Adot dépose un traceur sur votre terminal dans le
+
+bandeau traceur, il s’agit d’un traceur identifiant.
+
+
+
+L’acceptation de ces deux actions (1- et 2- ) de mise à disposition de vos données
+
+et de dépôt de traceur identifiant est nécessaire pour qu’Adot combine ces
+
+informations entres elles ainsi qu’avec sa base de données et celles de ses
+
+partenaires afin de :
+
+- vous afficher des publicités personnalisées adaptées à vos goûts et
+
+centres d’intérêts sur les sites web et web mobiles que vous consultez,
+
+15
+
+
+
+au sein des applications mobiles que vous utilisez, dans les réseaux
+
+sociaux que vous visitez et sur les écrans digitaux dont les télévisions
+
+connectées;
+
+- réaliser des mesures de performances publicitaires;
+
+- réaliser des études marketing statistiques;
+
+- améliorer le service (entraînement de modèles prédictifs).
+
+
+
+3- Vous pouvez également accepter que vos identifiants (données non
+
+directement identifiantes) et les données liées à l’utilisation de votre compte
+
+(activité de navigation et historique de commandes) Veepee soient croisés ou
+
+combinés entres elles et avec d’autres données de la base de données d’Adot
+
+et de ses partenaires afin de vous afficher des offres promotionnelles et des
+
+publicités pertinentes dans l’univers Veepee, et pour effectuer des analyses et
+
+des statistiques de fréquentation.
+
+
+
+4- Vous pouvez également accepter que Vente-Privée.com partage votre
+
+donnée de géolocalisation qui sera également traitée pour les finalités ci-
+
+dessus.
+
+
+
+Dans ce cadre, Vente-Privée.com et Adot sont responsables conjoints des
+
+traitements et s’engagent à :
+
+- assurer à tout moment un niveau adéquat de sécurité des Traitements
+
+partagés et de confidentialité des Données vous concernant,
+
+- coopérer pour l’exécution de leurs obligations de réaliser des analyses
+
+d’impact ou de consulter une Autorité de contrôle conformément à la
+
+Réglementation sur les données personnelles, lorsque ces obligations
+
+sont applicables aux traitements partagés,
+
+- ne pas transférer vos données en dehors de l’Union Européenn,
+
+- se tenir mutuellement informées par écrit, sans délai, de toute Violation
+
+de Données Personnelles dont elles auraient connaissance concernant
+
+les Traitements partagés, dès lors qu’elles en prennent connaissance.
+
+Les Parties se concertent sans délai pour déterminer la nécessité de
+
+notifier cette Violation de Données Personnelles à l’Autorité de contrôle
+
+compétente, ou aux personnes concernées, le cas échéant.
+
+Vente-privee.com est responsable de procéder à la notification à
+
+l’Autorité de contrôle compétente, ou aux Personnes concernées, le cas
+
+échéant, dans le respect des délais et selon les modalités prévues par la
+
+Réglementation sur les Données Personnelles.
+
+
+
+Vous pouvez retirer vos consentements à tout moment sur le site Vente-
+
+Privée.com:
+
+- dans votre compte pour la mise à disposition de vos données ainsi que
+
+de vos données de géolocalisation,
+
+- dans vos paramètres de traceurs pour le dépôt du traceur Adot ou pour
+
+la publicité dans l’univers Veepee,
+
+16
+
+
+
+- ou en contactant Vente-Privée.com à l’adresse privacy@veepee.com
+
+ou Adot à l’adresse dpo@adotmob.com.
+
+
+
+Vous pouvez également contacter chacune des entités afin d’exercer vos droits.
+
+
+
+Chacune des entités se tiendra mutuellement informée de votre demande afin
+
+d’assurer que celle-ci soit traitée.
+
+
+
+Pour en savoir plus vous pouvez également consulter la politique de
+
+confidentialité d’Adot .
+
+
+
+Veepee et M6
+
+PUBLICITE
+
+M6 PUBLICITE est la régie exclusive des médias du Groupe M6, dont les chaînes
+
+M6 et le Service M6+, située au 89 avenue Charles de Gaulle, 92575, Neuilly-
+
+sur-Seine; et développe diverses offres afin de proposer des dispositifs de
+
+ciblage publicitaire notamment en télévision segmentée et digital.
+
+
+
+Lorsque vous acceptez que Vente-Privée.com mette à disposition de M6
+
+PUBLICITE vos données, il s’agit des catégories de données suivantes :
+
+- vos identifiants pseudonymisés (e-mail, numéro de téléphone, nom et
+
+prénom, adresse postale )
+
+- votre historique de navigation.
+
+
+
+Les données transférées sont utilisées pour croiser les données Veepee et M6
+
+PUBLICITE dans un environnement sécurisé via la Plateforme Liveramp Safe
+
+Haven (sous-traitant de M6 PUBLICITE et Vente-Privée.com) afin de créer des
+
+segments communs qui seront activés sur les services de Streaming et de
+
+Télévision Segmentée de M6 PUBLICITE et cela afin de vous proposer des
+
+publicité ciblées, personnalisées et adaptées à vos goûts et centres d’intérêts.
+
+
+
+Les Segments Communs ne seront pas transférés à d'autres tiers.
+
+
+
+Dans ce cadre, Vente-Privée.com et M6 PUBLICITE sont responsables conjoints
+
+des traitements et s’engagent à :
+
+- assurer à tout moment un niveau adéquat de sécurité des Traitements
+
+partagés et de confidentialité des Données vous concernant;
+
+- coopérer pour l’exécution de leurs obligations de réaliser des analyses
+
+d’impact ou de consulter une Autorité de contrôle conformément à la
+
+Réglementation sur les données personnelles, lorsque ces obligations
+
+sont applicables aux traitements partagés;
+
+- se tenir mutuellement informées par écrit, sans délai, de toute Violation
+
+de Données Personnelles dont elles auraient connaissance concernant
+
+les Traitements partagés, dès lors qu’elles en prennent connaissance.
+
+Les Parties se concertent sans délai pour déterminer la nécessité de
+
+notifier cette Violation de Données Personnelles à l’Autorité de contrôle
+
+compétente, ou aux personnes concernées, le cas échéant.
+
+17
+
+
+
+Vous pouvez retirer vos consentements à tout moment sur le site Vente-
+
+Privée.com:
+
+- dans vos paramètres de traceurs,
+
+- ou en contactant Vente-Privée.com à l’adresse privacy@veepee.com
+
+ou M6 PUBLICITE à l’adresse dpo@m6.fr
+
+
+
+Vous pouvez également contacter chacune des entités afin d’exercer vos droits.
+
+
+
+Chacune des entités se tiendra mutuellement informée de votre demande
+
+d’assurer que celle-ci soit prise en considération.
+
+
+
+Pour en savoir plus vous pouvez également consulter la politique de
+
+confidentialité de M6 PUBLICITE.
+
+
+
+4. Vente-Privee.com pourra également être amenée à communiquer vos données à des tiers pour
 
 satisfaire aux obligations légales, réglementaires, conventionnelles, ou pour répondre aux demandes
 
 des autorités légalement habilitées.
 
-iv. A noter que dans le cadre de l’utilisation du Service Re-turn, le nom et prénom de l’acheteur seront
 
-communiqués au vendeur lors de la réception de l’étiquette “Mondial Relay” à apposer sur le colis à
 
-envoyer. Aucune autre information ne sera communiquée au vendeur.
+VI. Sécurité des données
+
+
+
+Vente-Privée.com met en œuvre les mesures techniques et organisationnelles appropriées liées à la
+
+sécurité conformément aux dispositions prévues par la Réglementation et visant à garantir un niveau
+
+de sécurité approprié face aux risques présentés par le Traitement de vos Données à caractère
+
+personnel.
+
+
+
+Nous mettons en place, et exigeons de nos sous-traitants et partenaires, des mesures appropriées de
+
+sécurité et de protection des données, selon les plus hauts standards en la matière.
+
+
+
+Vos données personnelles sont stockées sur des serveurs sécurisés.
+
+
+
+Pour évaluer le niveau de sécurité approprié, Vente-Privée.com tiendra compte des risques pouvant
+
+résulter d’une destruction accidentelle ou illicite, d’une corruption, d’une perte, d’une modification,
+
+d’une divulgation non autorisée ou de l’accès à des Données à caractère personnel susceptibles d’être
+
+transmises, stockées ou autrement traitées, conformément aux exigences de la Réglementation.
+
+
+
+Dans le cadre de la création de votre compte membre, la saisie d’un mot de passe qui respecte nos
+
+standards de sécurité est obligatoire. Il est de votre responsabilité de le conserver secret.
+
+
+
+Pour vous mettre à disposition un site ainsi qu’une application toujours sécurisée, nos équipes sécurité
+
+s’assurent de mettre en place des test d’intrusion réguliers, afin de prendre les mesures nécessaires
+
+en cas de soupçon et / ou d’infractions aux règles de sécurité informatique, de détecter de possibles
+
+failles dans nos systèmes et assurer la continuité de nos services.
 
 
 
@@ -640,9 +1612,11 @@ Certains destinataires de vos données personnelles peuvent se situer en dehors 
 
 Economique Européen.
 
+18
 
 
-Tout transfert de vos données en dehors de l’Espace Economique Européen est effectué moyennant
+
+Tout transfert de vos données en dehors de l’Espace Économique Européen est effectué moyennant
 
 des garanties appropriées, notamment contractuelles via des clauses contractuelles types, techniques
 
@@ -652,27 +1626,33 @@ données personnelles.
 
 
 
-VIII. Combien de temps conservons-nous vos données ?
+VIII.Combien de temps conservons-nous vos données ?
 
 
 
-Vente-privee.com a défini des durées des rétentions de vos données personnelles en accord avec ses
+Vente-privee.com a défini des durées de rétention de vos données personnelles en accord avec ses
 
-obligations légales et les recommandations de la Commission Nationale Informatique et Libertés (ci
+obligations légales et les recommandations de la Commission Nationale Informatique et Libertés (ci-
 
-après la « CNIL »).
+après la « CNIL ») et s’engage à ne conserver vos données personnelles que le temps nécessaire pour
+
+atteindre l’objectif poursuivi, pour répondre à vos besoins, ou pour satisfaire à nos obligations légales.
+
+Plus de détails sur les durées de conservation dans la paragraphe II ci-dessus.
 
 
 
-Concernant les données de votre carte bancaire, celles-ci seront conservées pour une durée
+Lorsque nous n’avons plus besoin d’utiliser vos données personnelles ou lorsque vous faites une
 
-maximum de 15 mois suivant le paiement de votre commande. Dans l’hypothèse où vous auriez
+demande de suppression, vos données personnelles sont supprimées de nos systèmes et de nos
 
-choisi d’enregistrer les données de votre carte bancaire sur notre Site, vos données de carte bancaire
+registres ou rendues anonymes afin de ne plus permettre de vous identifier. Cependant, nous pouvons
 
-seront conservées jusqu’à expiration de votre carte bancaire plus un jour ou jusqu’à ce que vous
+être amenés à conserver, en archive, certaines de vos données personnelles en vue de répondre à nos
 
-décidiez de procéder à la suppression de ces données via votre compte membre.
+obligations légales, comptables et fiscales notamment pour répondre à toute action en justice, et ce
+
+pendant la durée de prescription prévue par la législation applicable.
 
 
 
@@ -682,7 +1662,7 @@ IX. Quels sont vos droits et comment les exercer ?
 
 Conformément à la règlementation en vigueur, notamment au RGPD, vous disposez du droit d’obtenir
 
-de nos services le droit d'accéder et de rectifier vos données personnelles, ainsi le droit d’en
+de nos services le droit d'accéder et de rectifier vos données personnelles, ainsi que le droit d’en
 
 demander l’effacement, de vous opposer à leur traitement et d’en obtenir la limitation de traitement
 
@@ -690,31 +1670,29 @@ pour des motifs légitimes ou la portabilité dans la mesure où cela est applic
 
 
 
-7
+Lorsque la collecte d'un justificatif d'identité a été nécessaire, celui-ci est supprimé dès que la
 
-Vous disposez également du droit de formuler des directives relatives à la conservation, à
-
-l’effacement et à la communication de vos données personnelles après votre décès.
+vérification a été effectuée.
 
 
 
-Conformément à la loi, vous pouvez formuler des :
+Vous disposez également du droit de formuler des directives relatives à la conservation, à l’effacement
+
+et à la communication de vos données personnelles après votre décès. Conformément à la loi, vous
+
+pouvez formuler des :
 
 
 
-● Directives générales, lesquelles s’appliquent à l’ensemble de vos données personnelles et
+- Directives générales, lesquelles s’appliquent à l’ensemble de vos données personnelles et
 
 peuvent être enregistrées dans un registre unique auprès d’un tiers de confiance numérique
 
 certifié par la CNIL ;
 
+- Directives particulières, qui concernent certains traitements de données personnelles que
 
-
-● Directives particulières, qui concernent certains traitements de données personnelles que vous
-
-avez spécifiquement identifiés. Ces directives doivent être adressées aux responsables de
-
-traitements concernés, tels que Vente-privee.com.
+vous avez spécifiquement identifiés. Ces directives peuvent nous être adressées.
 
 
 
@@ -726,21 +1704,17 @@ l’organisation et au règlement de votre succession.
 
 
 
-Ces droits peuvent être exercés directement auprès de Vente-Privee.com par
+Ces droits peuvent être exercés directement auprès de Vente-Privee.com par :
 
 
 
-○ Par courrier électronique à l’adresse email modifications@veepee.com ,
-
-
-
-○ En vous rendant sur le Site, dans la rubrique « Membre / Questions relatives à mon
-
-compte », en sélectionnant la rubrique souhaitée;
+○ Par courrier électronique à l’adresse email modifications@veepee.com
 
 
 
 ○ Par courrier postal à l'adresse suivante :
+
+19
 
 
 
@@ -752,37 +1726,45 @@ TSA 91531 - 91853 ORSAY CEDEX
 
 
 
+Si nécessaire, Vente-Privée.com communiquera votre demande à ses partenaires (notamment France
+
+Billet).
+
+
+
 Une réponse vous sera adressée dans un délai d’un (1) mois maximum suivant la date de réception de
 
 votre demande.
 
 
 
-Pour vous opposer au traitement de vos données à des fins de prospection commerciale, vous pouvez
+Vous pouvez également à tout moment modifier vos choix en termes de communications sur le Site
 
-nous contacter comme indiqué ci-dessus ou à tout moment modifier vos choix en termes de
+ou concernant l'ordonnancement des bannières en fonction de vos goûts et préférences, via la
 
-communications sur le Site, dans la rubrique « Mon Compte, mes Communications ».
+rubrique “Mes Communications” dans “Mes préférences” et “ Mes marques favorites” de votre compte
 
-
-
-Pour nous informer que vous ne souhaitez pas bénéficier de notre service de personnalisation, vous
-
-pouvez nous contacter comme indiqué ci-dessus.
+ou via votre profil dans Le Club.
 
 
 
-Vous disposez également du droit d’introduire une réclamation auprès de la CNIL, 3 place de
+Un lien de désinscription renvoyant vers votre compte figure par ailleurs sur chaque courrier
 
-Fontenoy, TSA 80715, 75334 Paris Cedex 7. Pour plus d’information sur les droits dont vous disposez
-
-à l’égard de vos données, nous vous invitons à consulter le site de la CNIL : www.cnil.fr.
+électronique que Vente-Privee.com vous envoie.
 
 
 
-X. Coordonnées du délégué à la protection des données (DPO) et droit d’introduire une
+Vous disposez également du droit d’introduire une réclamation auprès de la CNIL, 3 place de Fontenoy,
 
-réclamation
+TSA 80715, 75334 Paris Cedex 7. Pour plus d'informations sur les droits dont vous disposez à l’égard
+
+de vos données, nous vous invitons à consulter le site de la CNIL : www.cnil.fr.
+
+
+
+X. Coordonnées du délégué à la protection des données (DPO) et droit
+
+d’introduire une réclamation
 
 
 
@@ -790,33 +1772,39 @@ Pour toute question en lien avec la collecte et le traitement de vos Données pa
 
 vous pouvez contacter par email notre délégué à la protection des données de Vente-Privee.com à
 
-l’adresse suivante : dpo@vente-privee.com
+l’adresse suivante : privacy@veepee.com
+
+20
 
 
 
-8
-
-Politique Cookies et Traceurs
+Politique Cookies
 
 
 
-Lors de la consultation du site Veepee et/ou de ses applications (ci-après le « Site »), des cookies sont
+Lors de la consultation du site Veepee et/ou de ses applications (ci-après le « Site »), des traceurs (ou
 
-déposés par Vente-privee.com et/ou des tiers sur votre ordinateur, votre mobile ou votre tablette (ci
+ci-après “Traceurs” ou “Cookies”) sont déposés par Vente-privee.com et/ou des tiers sur votre
 
-après le « Terminal »).
+ordinateur, votre mobile ou votre tablette (ci-après le « Terminal »).
 
 
 
-Cette page a pour objectif de vous informer sur le fonctionnement des cookies, l’usage fait des
+Cette page a pour objectif de vous informer sur le fonctionnement des Cookies, l’usage fait des
 
 données collectées par leur intermédiaire et sur l’utilisation des outils mis à votre disposition pour
 
-accepter ou refuser les cookies.
+accepter ou refuser les Cookies.
 
 
 
-I. QU’EST-CE QU’UN COOKIE ?
+I. Qu’est-ce qu’un cookie ?
+
+
+
+Il existe différents types de Traceurs tels que les cookies, les cookies flash, les SDK, les pixels, le résultat
+
+de calcul d’empreinte de votre terminal (dit fingerprinting), etc...
 
 
 
@@ -828,21 +1816,29 @@ consultation de notre Site.
 
 
 
-Il existe différents types de Cookies telles que les cookies flash, les SDK, les pixels, le résultat de calcul
-
-d’empreinte de votre terminal (dit fingerprinting), etc., (ci-après appelés ensemble Cookies).
-
-
-
 Certains Cookies sont techniquement nécessaires au bon fonctionnement du Site, ainsi qu'au respect
 
 de notre engagement à vous fournir une expérience shopping unique et personnalisée. D’autres
 
-Cookies ne sont pas strictement nécessaires au fonctionnement du site, mais permettent, sous
+Cookies ne sont pas strictement nécessaires au fonctionnement du site, mais permettent, sous réserve
 
-réserve de votre consentement, à certains de nos partenaires de vous proposer des offres de
+de votre consentement:
 
-publicité ciblées, basées sur votre navigation.
+- à Veepee d’améliorer votre expérience en analysant la navigation, l'audience, l'activité et les
+
+performances des ventes du site et de vous afficher des offres promotionnelles et des
+
+publicités pertinentes sur le site ;
+
+- à certains de nos partenaires de vous afficher des offres promotionnelles et des publicités
+
+pertinentes dans les emplacements publicitaires réservés à la publicité sur des sites tiers,
+
+applications mobiles et les réseaux sociaux et à réaliser des mesures de performances
+
+publicitaires, des études marketing statistiques notamment afin d'entraîner les modèles
+
+d'analyses.
 
 
 
@@ -852,45 +1848,173 @@ celui-ci.
 
 
 
+A noter: Si votre terminal est utilisé par plusieurs personnes et lorsqu’un même terminal dispose de
+
+plusieurs logiciels de navigation, nous ne pouvons pas nous assurer de manière certaine que les
+
+services et publicités destinés à votre terminal correspondent bien à votre propre utilisation de celui-
+
+ci et non à celle d'un autre utilisateur de ce terminal. Le partage de votre terminal avec d’autres
+
+utilisateurs et la configuration des paramètres de votre navigateur à l'égard des traceurs , relèvent de
+
+votre responsabilité.
+
+
+
 Vous trouverez ci-dessous les informations relatives aux Cookies susceptibles d’être déposés sur votre
 
-terminal lorsque vous visitez des pages de notre Site, soit par Vente-Privee.com, soit par des tiers,
+terminal lorsque vous visitez des pages de notre Site, soit par Vente-Privee.com, soit par des tiers, ainsi
 
-ainsi que les moyens vous permettant de supprimer/refuser l’inscription de ces cookies sur votre
+que les moyens vous permettant de supprimer/refuser l’inscription de ces cookies sur votre terminal.
 
-terminal.
+21
 
 
 
-II. QUI PEUT DEPOSER DES COOKIES SUR MON TERMINAL ?
+II. Qui peut déposer des Cookies sur mon terminal?
 
 
 
 Les Cookie peuvent être déposés directement :
 
+- par Vente-Privee.com, en sa qualité d’éditeur du site, ou par ses prestataires pour les besoins
 
+de Vente-privee.com;
 
-● par Vente-Privee.com, en sa qualité d’éditeur du site, ou par ses prestataires pour les
-
-besoins de Vente-privee.com;
-
-● par des sociétés tierces partenaires, ou certaines de nos filiales.
+- par des sociétés tierces partenaires, ou certaines de nos filiales.
 
 
 
-III. A QUOI SERVENT LES COOKIES DEPOSES SUR MON TERMINAL ?
+III. A quoi servent les Cookies déposés sur mon Terminal?
 
 
 
 Vous trouverez ci-dessous la liste des catégories de cookies qui peuvent être déposés sur votre
 
-Terminal lors de la navigation sur notre Site.
+Terminal lors de la navigation sur notre Site et les Finalités d’activités de traitement des données
+
+collectées.
 
 
 
-9
+1. Les Cookies émis par Vente-privee.com et la Finalité des données collectées
 
-i. Les Cookies émis par Vente-privee.com
+
+
+Typologie de Cookies Finalités
+
+Strictement nécessaires Ces Cookies sont nécessaires pour assurer le fonctionnement technique du site, de
+
+votre navigation et la fourniture du service.
+
+Les données traitées vous permettent de bénéficier des fonctionnalités et des
+
+différents services, par exemple afin d'accéder au site Veepee et aux sites de ses
+
+partenaires, ou aux fonctions d'achat mais aussi afin de vous permettre d’adapter
+
+l'application à vos besoins spécifiques d’affichage, de gérer la maintenance du site ou
+
+encore à des fins de débugs, de sécurité et de prévention des fraudes.
+
+Les analyses réalisées contiennent des données agrégées qui ne permettent pas
+
+d’identifier un Membre.
+
+Fonctionnels Ces cookies sont indispensables pour la fourniture du service proposé.
+
+Les données traitées facilitent votre authentification sans avoir à ressaisir vos données
+
+de connexion, et lorsque vous choisissez d'utiliser votre compte Facebook, Google
+
+Login ou Apple afin de vous connecter sur votre compte au moyen de vos données de
+
+compte Facebook, Google ou Apple.
+
+Elles servent également à vous envoyer des notifications dans vos applications si vous
+
+l'avez accepté.
+
+Elles permettent aussi de faciliter l'utilisation du compte, fournir les services proposés,
+
+piloter l'activité interne, tester de nouveaux affichages ou de nouvelles fonctionnalités
+
+adaptées à vos besoins et cela grâce à l’analyse d'audience et de navigation.
+
+Elles permettent d'améliorer et d’optimiser l’ergonomie et le fonctionnement de notre
+
+Site.
+
+Les analyses sont agrégées et ne permettent pas d’identifier un Membre. Ces analyses
+
+agrégées peuvent être partagées avec nos marques partenaires.
+
+Analyse des
+
+performances
+
+Ces cookies sont nécessaires à l’amélioration des performances du site.
+
+Les données traitées permettent d’analyser la navigation sur les ventes du site ainsi
+
+que leurs performances de manière détaillée en identifiant les zones de clics et les
+
+pages consultées.
+
+Les analyses sont agrégées et ne permettent pas d’identifier un Membre.
+
+22
+
+
+
+Personnalisation du
+
+contenu
+
+Ces cookies sont nécessaires à l’offre de service proposée par Vente-Privée.com.
+
+Les données traitées (activité de navigation et historique d’achats) permettent de
+
+comprendre quelles marques et quelles typologies de produits (Pulls, chaussures,
+
+meubles, etc.) vous intéressent afin d’organiser les bannières de ventes sur le Site et
+
+dans certaines des communications au plus près de vos centres d’intérêts et cela afin
+
+de nous permettre de respecter notre engagement de vous fournir une expérience
+
+shopping unique et personnalisée.
+
+Ce traitement est nécessaire à la présentation personnalisée de nos offres qui est un
+
+élément intrinsèque à l’activité des ventes événementielles de Veepee. Il repose sur
+
+l’intérêt légitime de Vente-privee.com. Vous pouvez vous y opposer à tout moment
+
+dans l'onglet dédié "Préférences de communication" de votre compte membre.
+
+Lutte contre la fraude Ces cookies permettent de se prémunir contre la fraude et de prévenir toute
+
+usurpation de compte des membres.
+
+Dans ce cadre, et sous réserve de votre consentement, Vente-privee.com collecte par
+
+le biais de son partenaire Accertify, un identifiant équipement (appelé également
+
+"Device fingerprinting") afin de procéder à un contrôle spécifique des commandes. Cet
+
+identifiant est généré à partir d'informations techniques relatives au Terminal que vous
+
+utilisez lors de la passation d'une commande sur notre Site.
+
+Vous pouvez vous opposer au dépôt de ce Cookie spécifique à tout moment.
+
+
+
+2. Les cookies émis par Vente-privée.com ou des sociétés tierces à des fins de publicité ciblée
+
+sur le site ou en dehors du site
 
 
 
@@ -898,287 +2022,277 @@ Typologie de
 
 Cookies
 
-Finalités
+Finalités Sous-Finalités
 
 
 
-Cookies
+Publicité ciblée
 
-strictement
+sur le site
 
-nécessaires
+Sous réserve de votre consentement, ces Cookies sont
 
+déposés afin de vous proposer une offre marketing
 
+personnalisée sur le site.
 
-Ces cookies sont indispensables pour vous permettre de vous authentifier,
+Par ailleurs, les données traitées par Vente-privée.com
 
-de naviguer sur notre Site et de passer commande sur notre Site.
+peuvent être croisées ou combinées avec d’autres données
 
+collectées lors de l'utilisation de votre compte (activité de
 
+navigation et historique de commandes) ainsi que les
 
-Ces cookies sont exemptés de consentement.
+données des partenaires de Vente-privee.com, dont sa
 
+filiale A.Mob et serviront à vous afficher des offres
 
+promotionnelles et des publicités pertinentes sur le site et
 
-Cookies d’analyses
+à effectuer des analyses et des statistiques de
 
-et de
+fréquentation.
 
-personnalisation
+Certains partenaires de Vente-privee.com pourront
 
+également :
 
+- pendant le temps d’une vente, collecter des données à des
 
-Ces Cookies permettent à Vente-Privee.com de comprendre comment
+fins d’analyse et de statistique de fréquentation des ventes,
 
-vous utilisez le Site et de comprendre quelles marques et quelles
+- tracer l’origine ou la destination des visiteurs.
 
-typologies de produits (Pulls, chaussures, meubles, etc.) vous intéressent
+Dans ce dernier cadre, Meta Platforms Ireland Limited peut
 
-afin: (i) d'optimiser et d’améliorer le fonctionnement du Site,
+déposer des pixels de mesure d’audience sur certaines
 
-(ii) d’améliorer ses offres de produits et/ou ses services et
+pages de ventes du site Veepee à des fins d’analyses et de
 
-(iii) d’adapter plus précisément ses offres à vos centres d’intérêts des
+statistiques de fréquentation suite à une redirection des
 
-Membres;
+utilisateurs des plateformes Facebook et Instagram vers le
 
-(vi) d'adapter la présentation de nos offres sur notre Site et dans certaines
+site Veepee. L’accord de responsabilité conjointe conclu
 
-de nos communications à vos centres d’intérêts afin de nous permettre de
+entre les parties est disponible sur le lien suivant : Joint
 
-respecter notre engagement de vous fournir une expérience shopping
+Controller Addendum
 
-unique et personnalisée.
 
 
+Publicité ciblée
 
-Ces cookies sont exemptés de consentement, leur utilisation étant
+Les données collectées servent à
 
-nécessaire à la présentation personnalisée de nos offres, élément
+vous afficher des offres
 
-intrinsèque de notre offre de service.
+promotionnelles et des publicités
 
+pertinentes sur le site.
 
 
-Cookies de
 
-statistiques
+Statistiques marketing
 
-Ces Cookies permettent à Vente-Privee.com d’analyser la navigation de nos
+Les données collectées permettent
 
-membres sur différentes pages de son Site, d’identifier les zones de clics
+à Veepee et à ses Partenaires
 
-sur nos pages et de recueillir les avis de nos membres sur certaines pages
+d'effectuer à des analyses et des
 
-afin d’optimiser l’ergonomie de notre Site. Les données collectées sont
+statistiques de fréquentation.
 
-anonymes et ne permettent pas d’identifier un Membre.
 
-Ces cookies sont exemptés de consentement.
 
+Affiliation
 
+Les données permettent aux
 
-Cookies
+partenaires de Veepee de tracer
 
-fonctionnels
+l’origine des visiteurs sur leur site
 
-Ces Cookies ne sont pas indispensables à la navigation mais facilitent
+lorsque ceux-ci sont redirigés
 
-l’utilisation de notre Site.
+depuis le site Veepee ou à l'inverse
 
-Il s’agit notamment des Cookies permettant de vous authentifier sur le Site
+identifier lorsque leurs visiteurs
 
-sans avoir à ressaisir vos données de connexion, du Cookie Facebook
+sont redirigés vers le site Veepee.
 
-Connect, permettant de vous connecter sur notre Site au moyen de vos
+23
 
-données de compte Facebook ou encore des cookies d’accessibilité
 
-numérique permettant d’adapter le site à vos besoins spécifiques
 
-d’affichage.
+Publicité ciblée
 
-Ces cookies sont exemptés de consentement.
+en dehors du site
 
+Sous réserve de votre consentement, ces Cookies sont
 
+déposés par des partenaires de Veepee, dont sa filiale
 
-10
+A.Mob afin de vous proposer une offre marketing
 
-Cookies
+personnalisée en dehors du site (dans les emplacements
 
-d’identifiant
+réservés sur des sites tiers, applications, réseaux sociaux),
 
-d’équipement
+réaliser des mesures de performances publicitaires et des
 
+études marketing statistiques et afin d'entraîner les
 
+modèles d'analyses.
 
-Dans le cadre de la lutte contre la fraude, Vente-privee.com collecte par le
+Ces données pourront être associées avec les données
 
-biais de son partenaire, Accertify, un identifiant équipement (appelé
+collectées lors de l'utilisation de votre compte (activité de
 
-également "Device fingerprinting") afin de procéder à un contrôle des
+navigation, historique de commandes, adresse email sous
 
-commandes. Cet identifiant est généré à partir d'informations techniques
+forme hachée) et/ou avec d’autres données personnelles
 
-relatives au Terminal que vous utilisez lors de la passation d'une
+dont disposent nos partenaires.
 
-commande sur notre Site.
 
 
+Par ailleurs, les données traitées seront partagées avec
 
-L’utilisation de ces cookies repose sur l’intérêt légitime de
+certains de nos partenaires afin de vous afficher des offres
 
-Vente-privee.com de se prémunir contre la fraude et de prévenir toute
+promotionnelles pertinentes sur des écrans digitaux dont
 
-usurpation de compte de ses membres.
+des télévisions connectées et afin de réaliser des mesures
 
-Vous pouvez vous opposer à ce traceur à tout moment.
+de performances publicitaires et des études marketing
 
+statistiques.
 
+Dans ce dernier cadre, vos données pourront notamment
 
-ii. Les cookies émis par des sociétés tierces ou des filiales de Vente-privee.com
+être partagées avec M6 PUBLICITE. Plus d’informations ici:
 
+POLITIQUE DE CONFIDENTIALITE PARTENAIRES DATA DU
 
+GROUPE M6
 
-Typologie
 
-de
 
-Cookies
+First ID
 
+Lors de votre navigation, nous pouvons également utiliser
 
+un identifiant personnalisé afin d’améliorer votre
 
-Finalités
+expérience de navigation sur le site, aussi bien pour la
 
+personnalisation du contenu que des publicités ciblées.
 
+Cet identifiant unique est stocké dans un cookie et est
 
-Cookies
+réglementé par les consentements donnés sur les sites d’un
 
-publicitaires
+réseau de sites et fournisseurs AdTech, également à des fins
 
-Ces Cookies peuvent être déposés, sous réserve de votre consentement, par
+de suivi de fonctionnement de l’ID, généré par la société
 
-des partenaires de Vente-privee.com, dont la société Adot.
+First-id (responsable de traitement), et peut se baser sur des
 
+informations collectées comme votre adresse électronique
 
+(dans ce cas elle serait cryptée et pseudonymisée), et/ou
 
-Ces Cookies vous permettent de voir s’afficher des offres promotionnelles et
+des informations à propos de votre navigateur.
 
-des publicités pertinentes pour vous dans les emplacements publicitaires
+Cet identifiant ne nous autorise pas à vous identifier
 
-réservés à la publicité sur des sites tiers.
+directement, mais permet de suivre votre navigation sur les
 
+sites du réseau afin de mieux vous connaître.
 
+Pour en savoir plus, consultez la politique de confidentialité
 
-A cette fin, la technologie des Cookies permet d’afficher, en temps réel, le
+First-id.
 
-contenu le plus adapté à vos centres d’intérêt déduits de votre navigation sur
+Vous pouvez consulter votre identifiant sur la page :
 
-le Site ou sur d’autres sites.
+whatismy.first-id.fr et vous opposer au traitement.
 
 
 
-Les données collectées par l’intermédiaire de ces Cookies sur le Site peuvent
+Publicité ciblée
 
-être croisées ou combinées avec d’autres données personnelles dont
+Les données collectées servent à
 
-disposent nos partenaires et/ou Adot et/ou collectées par l’intermédiaire de
+vous afficher des offres
 
-ces Cookies lorsque vous naviguez sur d’autres sites internet.
+promotionnelles et des publicités
 
+pertinentes dans les emplacements
 
+publicitaires réservés à la publicité
 
-Certains Cookies permettent également à certaines marques partenaires de
+sur des sites tiers, les réseaux
 
-Vente-privee.com, pendant le temps d’une vente, de collecter des données à
+sociaux et sur les écrans digitaux
 
-des fins d’analyse et de statistique de fréquentation de leurs ventes et de
+dont des télévisions connectées.
 
-tracer l’origine des visiteurs de leur site lorsque ceux-ci sont redirigés depuis
 
-un site tiers.
 
+Mesures de performance
 
+marketing
 
-11
+Les données collectées permettent
 
-A noter: Si votre terminal est utilisé par plusieurs personnes et lorsqu’un
+aux Partenaires de Veepee
 
-même terminal dispose de plusieurs logiciels de navigation, nous ne pouvons
+d’analyser la navigation, l'audience,
 
-pas nous assurer de manière certaine que les services et publicités destinés à
+l'activité et les performances des
 
-votre terminal correspondent bien à votre propre utilisation de celui-ci et non
+campagnes marketing.
 
-à celle d'un autre utilisateur de ce terminal.
 
 
+Statistiques marketing
 
-Le partage de votre terminal avec d’autres utilisateurs et la configuration des
+Les données collectées permettent
 
-paramètres de votre navigateur à l'égard des Cookies, relèvent de votre
+aux Partenaires de Veepee
 
-responsabilité.
+d'effectuer des statistiques
 
+notamment afin d'entraîner les
 
+modèles d'analyses.
 
-Cookies de
 
-Géolocalisation
 
-Lors de l’utilisation de l’application Veepee, vous pouvez vous voir proposer
+IV. Comment gérer les Cookies ?
 
-l’utilisation de vos données de géolocalisation par la société Adot afin que
 
-cette dernière vous soumette des publicités adaptées à vos déplacements.
 
+L’enregistrement d’un Cookie dans votre terminal peut être subordonné à votre consentement.
 
+24
 
-Vos données de géolocalisation sont collectées uniquement lorsque vous y
 
-avez consenti et ne sont jamais communiquées à Vente-privee.com. La durée
 
-de votre consentement pour l’utilisation de vos données de géolocalisation
-
-par notre filiale n’excède pas 3 mois. Vous pouvez à tout moment retirer
-
-votre consentement via votre compte membre, les paramètres de
-
-l'application Veepee ou en contactant Adot.
-
-
-
-Pour en savoir plus sur l’utilisation qui peut être faite de vos données de
-
-géolocalisation et/ou exercer vos droits auprès d’Adot, vous pouvez consulter
-
-leur politique de confidentialité.
-
-
-
-IV. COMMENT GERER LES COOKIES ?
-
-
-
-L’enregistrement d’un cookie dans votre terminal est essentiellement subordonné à votre
-
-consentement.
-
-
-
-i. Les possibilités qui vous sont offertes par l’outil mis à votre disposition par
-
-Vente privee.com
+1. Les possibilités qui vous sont offertes par l’outil mis à votre disposition par Vente-privee.com
 
 
 
 Vente-privee.com met à votre disposition un outil vous permettant de consentir ou non au dépôt de
 
-cookies lorsque vous naviguez sur notre Site. Vous pouvez nous faire part de vos choix via l’outil que
+certains cookies lorsque vous naviguez sur notre Site. Vous pouvez nous faire part de vos choix via
 
-nous mettons à votre disposition, accessible depuis le bandeau d’information sur les cookies qui
+l’outil que nous mettons à votre disposition, accessible depuis le bandeau d’information sur les cookies
 
-s’affiche lors de votre première navigation sur notre site.
+qui s’affiche lors de votre première navigation sur notre site.
 
 
 
@@ -1192,11 +2306,9 @@ de nos applications.
 
 
 
-ii. Les possibilités offertes par votre navigateur
+2. Les possibilités offertes par votre navigateur
 
 
-
-12
 
 Vous pouvez configurer votre logiciel de navigation selon votre volonté, de manière à ce que des
 
@@ -1206,7 +2318,7 @@ refusés.
 
 
 
-Acceptation des Cookies
+a. Acceptation des Cookies
 
 
 
@@ -1218,7 +2330,7 @@ sur votre terminal.
 
 
 
-Refus des Cookies
+b. Refus des Cookies
 
 
 
@@ -1226,11 +2338,11 @@ Vous pouvez paramétrer votre navigateur de manière :
 
 
 
-● à ce que l’acceptation ou le refus des Cookies vous soient proposés ponctuellement, avant
+- à ce que l’acceptation ou le refus des Cookies vous soient proposés ponctuellement, avant
 
 qu’un Cookie soit susceptible d’être enregistré ;
 
-● à accepter ou refuser globalement l’enregistrement de Cookies dans votre terminal.
+- à accepter ou refuser globalement l’enregistrement de Cookies dans votre terminal.
 
 
 
@@ -1238,13 +2350,13 @@ Attention : Tout paramétrage que vous pouvez entreprendre sur votre logiciel de
 
 concernant l’acceptation ou le refus des Cookies sera susceptible de modifier votre navigation sur
 
-Internet et vos conditions d'accès à certains services nécessitant l'utilisation de ces mêmes Cookies.
+Internet et vos conditions d'accès à certains Services nécessitant l'utilisation de ces mêmes Cookies.
 
 
 
-Par exemple, en refusant certains cookies essentiels vous risquez de ne plus pouvoir passer
+Par exemple, en refusant certains cookies essentiels vous risquez de ne plus pouvoir passer commande
 
-commande sur notre site.
+sur notre site.
 
 
 
@@ -1254,39 +2366,35 @@ Vous pouvez configurer votre navigateur en accédant à ses paramètres via les 
 
 Navigateur Liens vers les paramètres de gestion des Cookies
 
+25
+
 
 
 Internet
 
 Explore
 
-://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies
+http://windows.microsoft.com/fr-FR/windows-vista/Block-or-allow-cookies
 
 
 
 Safari https://support.apple.com/kb/PH19214?locale=fr_FR\&viewlocale=fr_FR
 
+Chrome http://support.google.com/chrome/bin/answer.py?hl=fr\&hlrm=en\&answer=9564
 
+7
 
-Chrome http://support.google.com/chrome/bin/answer.py?hl=fr\&hlrm=en\&answer=95
+Firefox http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%20co
 
-64 7
-
-
-
-Firefox http://support.mozilla.org/fr/kb/Activer%20et%20d%C3%A9sactiver%20les%2
-
-0co okies
-
-
+okies
 
 Opéra http://help.opera.com/Windows/10.20/fr/cookies.html
 
 
 
-Vous pouvez également configurer votre smartphone. Pour en savoir plus sur la gestion des Cookies via
+Vous pouvez également configurer votre smartphone. Pour en savoir plus sur la gestion des Cookies
 
-votre smartphone, vous pouvez consulter les pages suivantes :
+via votre smartphone, vous pouvez consulter les pages suivantes :
 
 
 
@@ -1294,13 +2402,9 @@ Système
 
 d’exploitation
 
-Liens d’information relatifs aux paramètres de gestion des
+Liens d’information relatifs aux paramètres de gestion des Cookies
 
-Cookies via votre smartphone
-
-
-
-13
+via votre smartphone
 
 iOS https://support.apple.com/fr-fr/HT201265
 
@@ -1310,32 +2414,26 @@ Android https://support.google.com/chrome/topic/3434352
 
 
 
-iii. Les possibilités qui vous sont offertes via les plateformes en lignes d’opposition aux
-
-Cookies
+3. Les possibilités qui vous sont offertes via les plateformes en lignes d’opposition aux Cookies
 
 
 
-Vous disposez de la possibilité de bloquer la collecte et l’utilisation d’informations vous concernant
+Vous disposez de la possibilité de bloquer la collecte et l’utilisation d’informations vous concernant par
 
-par des sociétés publicitaires souhaitant vous proposer des publicités basées sur vos intérêts par
+des sociétés publicitaires souhaitant vous proposer des publicités basées sur vos intérêts par
 
 l’intermédiaire des plateformes suivantes :
 
-● La plate-forme de désabonnement Network Advertising Initiative :
+- La plate-forme de désabonnement Network Advertising
 
-http://www.networkadvertising.org/choices/
+Initiative : http://www.networkadvertising.org/choices/
 
-● La plate-forme de désabonnement Your Online Choices http://www.youronlinechoices.com
+- La plate-forme de désabonnement Your Online Choices http://www.youronlinechoices.com
 
-● La plate-forme de désabonnement de la Digital Advertising Alliance:
+- La plate-forme de désabonnement de la Digital Advertising
 
-http://optout.aboutads.info/?c=2\&lang=EN
-
-
-
-Mise à jour : 27.05.2024
+Alliance: http://optout.aboutads.info/?c=2\&lang=EN
 
 
 
-14
+Dernière Mise à jour : 24 Décembre 2024
