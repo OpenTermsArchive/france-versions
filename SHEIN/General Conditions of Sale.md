@@ -1,6 +1,330 @@
+Le crédit du portefeuille ne peut pas être échangé contre des espèces et n'a aucune valeur monétaire, sauf indication contraire et lorsque cela peut être exigé par la loi applicable. Les crédits du portefeuille peuvent être échangés contre des achats sur les Services et ne peuvent être échangés que sur le site par l'intermédiaire duquel le crédit du portefeuille a été accordé (par exemple, si vous avez commandé et ensuite retourné un produit sur le site us.shein.com et choisi de recevoir un crédit du portefeuille, ce crédit du portefeuille ne peut être échangé que sur ce site). Le crédit du portefeuille est retirable.  
+
   
 
   
+
+(4) **Cartes-cadeaux :** Les cartes-cadeaux fournies par la filiale SHEIN peuvent être stockées dans votre Portefeuille en saisissant le code fourni sur la carte-cadeau. L’achat et l’utilisation des cartes-cadeaux sont soumis aux conditions générales spécifiques ci-dessous. Les cartes-cadeaux ne peuvent être utilisées que pour l’achat de produits SHEIN et ne peuvent pas être utilisées pour l’achat de produits des vendeurs.  
+
+5.2 Conditions d'utilisation des Cartes-cadeaux  
+
+**(1) Achat d'une Carte-cadeau**  
+
+Les Cartes-cadeaux peuvent être achetées sur le Site, mais les Coupons, les Points Bonus, les crédits du portefeuille ou d'autres Cartes-cadeaux ne peuvent pas être utilisés pour acheter une Carte-cadeau.  
+
+Les Cartes-cadeaux sont livrées, après acceptation du paiement, à l'adresse électronique fournie par le Client. Il est de la responsabilité du Client de s'assurer que les informations sont à jour et exactes.  
+
+La Carte-cadeau achetée sera envoyée à l'adresse électronique fournie au moment de la commande. La non-réception de la Carte-cadeau par le Client ou le bénéficiaire choisi par le Client ( **"Bénéficiaire"** ) peut être due à l'une des causes suivantes :  
+
+* Une adresse e-mail incorrecte ou erronée introduite au moment de l'achat de la Carte-cadeau. Le Client est alors invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour confirmer et modifier l'adresse e-mail.  
+    
+* La boîte de réception du Client ou du Bénéficiaire est pleine. Si, après s'être assuré qu'il y a suffisamment de place dans la boîte de réception, le Client n'a toujours pas reçu la Carte-cadeau, il est invité à contacter sans délai le [Service Client](https://fr.shein.com/robot) pour une nouvelle livraison.  
+    
+* Les emails de SHEIN ont été bloqués par la boîte email du Client ou du Bénéficiaire. Ce dernier est alors invité à vérifier ses courriers indésirables et à ajouter [https://fr.shein.com/](https://fr.shein.com/) à la liste des expéditeurs autorisés, puis à contacter, sans délai, le Service Client pour un nouvel envoi.  
+    
+
+**(2) Cartes-cadeaux promotionnelles**  
+
+Dans certains cas, SHEIN peut offrir gratuitement des cartes-cadeaux au client ( **« Cartes-cadeaux promotionnelles »** ) à des fins promotionnelles ou autres. Ces Cartes-cadeaux promotionnelles peuvent être soumises à des conditions supplémentaires ou différentes qui sont spécifiées lors de leur obtention (date d'expiration spécifique, etc.). Autrement, elles sont soumises aux présentes CGU.  
+
+**(3) Utilisation d'une Carte-cadeau**  
+
+(a) Les soldes et les numéros des Cartes-cadeaux peuvent être stockés dans « Mes Avoirs » en entrant le code de la Carte-cadeau via le Compte Utilisateur. Au sein de l'Union Européenne, les Cartes-cadeaux expirent au bout de 10 ans, sauf indication contraire de SHEIN.  
+
+(b) Afin d'utiliser la Carte-cadeau pour un achat, le Client ou le Bénéficiaire doit saisir le numéro et le code PIN de la Carte-cadeau lors du passage en caisse, en veillant à ce qu'ils restent confidentiels.  
+
+(c) Le montant de l'achat sera déduit du solde de la Carte-cadeau. Tout solde restant peut être utilisé pour un futur achat éligible. Si le montant à payer est supérieur au solde de la Carte-cadeau, le Client ou le Bénéficiaire doit choisir un autre mode de paiement pour régler le montant restant, étant précisé que les Cartes-cadeaux ne sont pas cumulables (le Client ne peut pas utiliser une autre Carte-cadeau pour régler le montant restant dû).  
+
+(d) Si une commande payée par Carte-cadeau est retournée et remboursée, le montant de la commande payée par la Carte-cadeau sera remboursé sur la même Carte-cadeau.  
+
+(e) L'utilisation des Cartes-cadeaux accordées gratuitement par SHEIN est soumise à des restrictions qui sont à la seule discrétion de SHEIN et qui seront communiquées au Client au moment opportun.  
+
+(f) Pour les Cartes-cadeaux achetées avant le 8 mars 2021 qui peuvent être utilisées sur n'importe quel site web de SHEIN, l'utilisation d'une partie de la Carte-cadeau sur un site web particulier de SHEIN signifie que le solde de la Carte-cadeau ne peut être utilisé que sur ce site web particulier.  
+
+(g) Les Cartes-cadeaux achetées après le 8 mars 2021 ne peuvent être utilisées que sur le site web où elles ont été achetées (par exemple, si une Carte-cadeau a été achetée après le 8 mars 2021 sur https://fr.shein.com/, cette Carte-cadeau ne peut être utilisée que sur ce site web).  
+
+**(4) Limitation et restriction de l'utilisation**  
+
+a) Vous ne pouvez pas acheter ou maintenir un solde total de Cartes-cadeaux dépassant la valeur de 1000 € à n’importe quel moment.  
+
+b) Les valeurs des Cartes-cadeaux ne peuvent pas être échangées contre de l'argent liquide.  
+
+c) Nous nous réservons le droit, sans préavis, d'annuler les Cartes-cadeaux sans remboursement si nous soupçonnons qu'une Carte-cadeau a été obtenue, utilisée ou appliquée à une commande de manière frauduleuse, illégale ou en violation des présentes conditions d'utilisation des Cartes-cadeaux.  
+
+6\. LA PROPRIÉTÉ INTELLECTUELLE  
+
+6.1 Contenu du site.  
+
+(1) Le Site, y compris toutes les informations et tous les contenus non spécifiques aux Produits, tels que les textes, les logiciels, les scripts, les graphiques, les photos, les sons, la musique, les vidéos et les fonctions interactives (collectivement, le « Contenu »), fournis sur ou par l'intermédiaire du Site, sont la propriété de l'Opérateur, de ses sociétés affiliées ou de tiers qui en ont concédé la licence à l'Opérateur.  
+
+(2) Tout le contenu relatif ou lié aux produits disponibles sur le Site, y compris toutes les informations et le contenu, tels que les textes, les logiciels, les scripts, les graphiques, les photos, les sons, la musique, les vidéos et les fonctions interactives (collectivement, le **« Contenu relatifs aux Produits »** ), fournis sur ou par l'intermédiaire de la Marketplace, sont la propriété du Vendeur du produit concerné, de ses sociétés affiliées ou de tiers qui leur ont concédé une licence.  
+
+Le Site, le Contenu et le Contenu relatifs des Produits sont protégés par des droits d'auteur, des droits de marque et d'autres droits de propriété intellectuelle. Tous les droits sont réservés, ce qui signifie que tous les droits qui ne sont pas expressément accordés au Client par les T&CS sont expressément exclus.  
+
+(3) Le Site, le Contenu et le Contenu relatifs aux Produits sont fournis au Client uniquement pour son usage personnel et privé. Toute utilisation par le Client du Site, du Contenu et du Contenu relatifs aux Produits à des fins commerciales est strictement interdite. SHEIN et les Vendeurs, le cas échéant, sont libres de modifier le Site, le Contenu et le Contenu relatifs aux Produits à tout moment, sans préavis ni responsabilité à l'égard du Client.  
+
+(4) Le Site, le Contenu et le Contenu relatifs aux Produits ne peuvent être téléchargés, copiés, reproduits, distribués, transmis, diffusés, affichés, vendus, concédés sous licence ou exploités à quelque fin que ce soit sans l'accord écrit préalable de SHEIN, des Vendeurs ou de leurs concédants de licence respectifs.  
+
+(5) Le Client s'engage à ne pas (a) contourner, désactiver ou interférer de quelque manière que ce soit avec les dispositifs de sécurité du Site ou les restrictions/limites d'utilisation du Site, du Contenu et du Contenu relatifs aux Produits ; (b) procéder à une récupération de données sur le Site ; (c) interférer avec le Site ou l'endommager parl’introduction de matériel malveillant ou nuisible.  
+
+6.2 Marques SHEIN  
+
+(1) La marque "SHEIN" et les autres marques verbales et/ou figuratives, icônes, graphiques, dessins et logos qui y sont associés, utilisés et affichés sur le Site ou les Produits (collectivement les **« Marques SHEIN »** ), sont la propriété exclusive de SHEIN et/ou de ses sociétés affiliées. Toutes les autres marques verbales et/ou figuratives, icônes, graphiques, dessins et logos, non visés par les marques SHEIN, rattachés aux Produits ou mentionnés sur le Site sont la propriété du Vendeur concerné ou des fournisseurs des Vendeurs.  
+
+(2) Le Client reconnaît qu'il n'a aucun droit, titre ou intérêt sur ces marques ou sur les marques SHEIN.  
+
+6.3. Marques du vendeur  
+
+(1) Les marques commerciales respectives des Vendeurs et les autres marques commerciales, marques de service, icônes, graphiques, marques verbales, dessins et logos (collectivement les **« Marques des Vendeurs »** ) sont la propriété du Vendeur concerné ou de ses sociétés affiliées. Le Client n'a pas, et n'acquerra pas, de droit, de titre ou d'intérêt sur les marques du Vendeur. Le Client n'est pas autorisé à commercialiser ou à distribuer des Produits ou à offrir des services en vertu ou en référence à l'une des marques du Vendeur, ni à l'utiliser ou à la reproduire de quelque manière que ce soit sans l'autorisation écrite préalable du Vendeur concerné. Tous les autres mots et/ou marques figuratives, icônes, graphiques, dessins et logos qui ne sont pas des marques du Vendeur sont la propriété des concédants de licence du Vendeur.  
+
+6.4 Critiques, contributions et contenu généré par l'utilisateur (CGU)  
+
+(1) En plus de notre Politique d'Avis Clients, l’Article 6.4 suivant s'applique. Lorsque le Client transmet, publie ou soumet, sur le Site, des opinions, des commentaires, y compris, mais sans s'y limiter, des images, des vidéos, des idées, du savoir-faire, des techniques, des questions, des critiques, des réactions et des suggestions ( **« Contribution »** ), le Client accorde à SHEIN et à ses sociétés affiliées, à titre gratuit et pour une période de dix (10) ans (ou pour une période illimitée lorsque cela est légalement autorisé) une licence non exclusive pour l'utiliser (et le cas échéant le droit d'associer le nom du Client qui est l'auteur de la Contribution), ainsi que le droit de la licencier, de la sous-licencier, de la vendre, de la distribuer et/ou de l'intégrer sous quelque forme, sur quelque support ou dans quelque technologie que ce soit dans le monde entier, sans qu'aucune rémunération ne soit attribuée au Client, ni que le Client ne puisse faire valoir un quelconque droit moral en tant qu'auteur des Contributions, dans la mesure où ceci ne fait pas l’objet d’une interdiction légale en vertu de la loi applicable.  
+
+Cette licence est accordée à toute fin commerciale, y compris à des fins commerciales, promotionnelles et de marketing. Elle comprend pour SHEIN :  
+
+a) le droit de reproduction et notamment le droit de reproduire ou de faire reproduire tout ou partie des Contributions ;  
+
+b) le droit de représentation et, notamment, le droit de communiquer ou de faire communiquer au public tout ou partie des Contributions ;  
+
+c) le droit de modifier, de traduire et d'adapter tout ou partie des Contributions, lorsque cela est légalement autorisé ;  
+
+d) le droit d'utiliser et d'exploiter tout ou partie des Contributions ou toute adaptation des Contributions pour les besoins de l'activité de la Société ou au profit de tiers de son choix, à quelque titre que ce soit, lorsque cela est légalement autorisé ;  
+
+e) le droit de céder ou de concéder sous licence tout ou partie des droits accordés par les présentes à toute personne, société ou entité de son choix, à titre gratuit ou onéreux, lorsque la loi le permet ;  
+
+chaque droit précité étant cédé respectivement pour tout support, tout format, en tout langage (langage informatique ou autre), par tout procédé connu ou inconnu à ce jour, et pour toute finalité.  
+
+(2) Le Client garantit, en ce qui concerne les Contributions :  
+
+a) qu'il est l'auteur et/ou le propriétaire de tous les droits relatifs à sa Contribution et que l'utilisation de la Contribution par le Site ne porte pas atteinte aux droits d'un tiers ;  
+
+b) que les éléments de la Contribution seront considérés comme non exclusifs et non confidentiels ;  
+
+c) que sa Contribution est faite via sa propre adresse électronique et qu'il n'a pas usurpé l'identité de quelqu'un d'autre que lui-même ou qu'il n'a pas été trompeur quant à l'origine de sa Contribution ;  
+
+d) que sa Contribution est véridique et reflète honnêtement son expérience personnelle sur le Site ou avec les Produits ;  
+
+e) que le Client est âgé d'au moins 18 ans ou qu'il a obtenu l'autorisation préalable d'un parent ou d'un tuteur légal de publier la Contribution, si la loi applicable le permet ;  
+
+f) que l'utilisation par SHEIN et ses sociétés affiliées de la Contribution ne viole pas les T&Cs, les lois applicables, les droits des tiers ou ne porte pas préjudice à toute personne ou entité ;  
+
+g) toute Contribution est conforme à notre Politique d’Avis Clients; et  
+
+h) toute Contribution publiée est appropriée pour un public familial.  
+
+(3) Le Client accepte que ni son utilisation du Site ni ses Contributions ne puissent raisonnablement être considérées comme impliquant, contenant, fournissant ou promouvant l'un des éléments suivants :  
+
+a. un contenu sexuellement explicite ou pornographique ;  
+
+b. le contenu que le Client n'est pas autorisé à partager, à publier ou à afficher, ou pour lequel il n'a pas de droits ;  
+
+c. les commentaires désobligeants, discriminatoires, haineux ou incitatifs à l'encontre d'individus ou de groupes spécifiques sur la base de leur race ou de leur origine ethnique, de leur religion, de leur sexe, de leur orientation sexuelle, de leur handicap, de leur âge, de leur nationalité, etc. ;  
+
+d. l'incitation à la violence ou à d'autres activités dangereuses ;  
+
+e. le terrorisme ou d'autres activités criminelles ;  
+
+f. les commentaires insensibles ou offensants liés à des catastrophes naturelles, des atrocités, des crises sanitaires, des décès, des conflits ou d'autres événements tragiques ;  
+
+g. le harcèlement, l'intimidation ou les menaces ;  
+
+h. les produits dangereux, les drogues illégales ou l'utilisation ou la vente inappropriée de tabac et/ou d'alcool ;  
+
+i. transactions en crypto-monnaies ;  
+
+j. les fausses allégations ou contenus liés à la médecine ;  
+
+k. du contenu qui enfreint les droits de propriété intellectuelle ;  
+
+l. la profanation ;  
+
+m. du contenu que Vous n'êtes pas autorisé à partager, à publier ou à afficher d'une autre manière, ou que Vous n'avez pas le droit de partager, de publier ou d'afficher d'une autre manière ; ou  
+
+n. tout autre contenu pouvant être considéré comme illégal ou offensant en vertu des lois ou réglementations applicables.  
+
+(4) Le Client reconnaît et accepte que :  
+
+(i) SHEIN ne contrôle pas et n'est pas responsable des Contributions sur le Site, et n'est pas obligé de contrôler, de modérer ou d'examiner activement les Contributions avant leur affichage sur le Site. Toutefois, SHEIN peut atténuer les risques de désinformation, de manipulation, de violation de contenu, de cyberviolence envers les femmes ou les mineurs en supprimant, bloquant ou suspendant, à sa seule discrétion, toute Contribution qui ne respecte pas les T&Cs, les lois applicables ou les droits des tiers ; et  
+
+(ii) une telle violation peut entraîner la suspension du compte client du contributeur ou de l'utilisation du Site.  
+
+(iii) il a la possibilité de contester la décision de SHEIN en contactant le [service clientèle](https://fr.shein.com/robot) si sa Contribution a été supprimée, bloquée ou suspendue ou si son Compte Utilisateur a été suspendu.  
+
+(iv) il est seul responsable de ses Contributions et SHEIN exclut expressément toute responsabilité en cas de perte ou de dommage découlant de vos Contributions et de toute action que SHEIN pourrait entreprendre en réponse à celles-ci.  
+
+(5) Les opinions exprimées par d'autres utilisateurs sur notre Site ne représentent pas les opinions ou les valeurs de SHEIN.  
+
+(6) Si Vous souhaitez en savoir plus sur les Avis Clients, veuillez consulter la [Politique d’Avis Client](https://fr.shein.com/Review-Guidance-a-478.html)  
+
+6.5 Jeux  
+
+SHEIN peut offrir au Client la possibilité de gagner des bons d'achat, des coupons ou de participer à des promotions en participant à différents jeux ( **« Jeux en ligne »** ) qui peuvent être proposés de temps à autre sur le Site. Les jeux en ligne sont gratuits et soumis à des conditions d'utilisation supplémentaires, les **« règles des jeux »** , spécifiques à chaque jeu. Veillez à prendre connaissance de ces règles et à les accepter avant de commencer à jouer à un jeu en ligne.  
+
+6.6. Infractions à la propriété intellectuelle des Produits et du Contenu relatifs aux Produits  
+
+(1) SHEIN n'est pas responsable des éventuelles violations de la propriété intellectuelle de tout Produit mis en vente par les Vendeurs, ni tenu de surveiller ou de rechercher activement des activités illégales ou des Produits illégaux ou du Contenu de produits illégal téléchargés sur le Site par les Vendeurs, ni d'inspecter les Produits avant qu'ils ne soient vendus sur le site, nonobstant ce qui précède, SHEIN peut mener des enquêtes volontaires de sa propre initiative visant à détecter, identifier et supprimer l'accès à un contenu illégal/dangereux afin de se conformer à la loi. Lorsque nous remarquons ou sommes informés qu'un Produit ou un Contenu de produit disponible sur le Site peut être illégal ou dangereux, nous le retirons immédiatement du Site.  
+
+(2) Nous mettons à disposition un système interne de traitement des plaintes, tel que spécifié dans l’article 9 ci-dessous, pour tout Produit ou Contenu de produit qui violerait, selon les Clients, les droits de propriété intellectuelle d'un tiers.  
+
+7\. PROGRAMME DE MESSAGERIE TEXTUELLE  
+
+7.1 Si le Client s'inscrit au programme de messagerie téléphonique (SMS) de SHEIN ( **« Programme »** ), on lui demandera de consentir expressément - en fournissant son numéro de téléphone mobile, des mots-clés spécifiques ou une réponse affirmative par SMS/MMS ou autre message texte, en guise de signature - à recevoir des messages de marketing téléphonique automatisés récurrents de la part de SHEIN et/ou de ses fournisseurs. Ce consentement n'est pas une condition d'utilisation du Site et peut être retiré à tout moment en utilisant le mécanisme d'exclusion spécifié à l’article 7.2 ci-dessous ou en contactant SHEIN de toute autre manière.  
+
+7.2 Le Client peut choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou en envoyant simplement STOP au numéro à partir duquel le Client reçoit actuellement des messages. Dans les deux cas, le Client recevra un message supplémentaire confirmant que sa demande a été traitée.  
+
+7.3 Les tarifs des messages et des données peuvent s'appliquer à tous les messages envoyés et reçus par le Client. Si le Client a des questions concernant son forfait téléphonique, il est préférable de contacter son opérateur de téléphonie mobile.  
+
+7.4 Le Client déclare qu'il est le titulaire du compte ou l'utilisateur habituel du numéro de téléphone mobile fourni lors de l'inscription au Programme. Si le Client modifie ou désactive ce numéro, il est tenu d'en informer immédiatement le Centre de Confidentialité (« [Privacy Center](https://fr.shein.com/Privacy-Center-a-1045.html) »).  
+
+7.5 SHEIN peut suspendre ou mettre fin à la participation du Client au Programme si le Client ne respecte pas les présentes CGU. La réception de ces messages peut également être interrompue en cas de résiliation ou d'expiration du service de téléphonie mobile du Client. SHEIN se réserve le droit de modifier ou d'interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni SHEIN, ni ses fournisseurs, ni aucun opérateur de téléphonie mobile ne peuvent être tenus responsables des messages retardés ou non délivrés, ni de la fin du Programme.  
+
+8\. RESPONSABILITÉ  
+
+8.1 SHEIN, en tant qu’opérateur de la Marketplace de marché et fournisseur d'un service d'intermédiation en ligne au sens de la loi applicable, constitue un service de la société de l'information d'hébergement ou de stockage de données qui permet aux Vendeurs de proposer des Produits aux Clients, dans le but de faciliter l'initiation de transactions directes entre les Vendeurs et les Clients, indépendamment du fait que ces transactions aboutissent ou non.  
+
+8.2 Les Vendeurs n'agissent pas sous la direction, l'autorité ou le contrôle de SHEIN en tant qu’opérateur de la Marketplace. Par conséquent, SHEIN n'est pas partie aux relations contractuelles établies entre les Vendeurs et les Clients, ni responsable du CGU ou du Contenu relatifs aux Produits (selon le cas) que les Clients ou les Vendeurs peuvent publier sur le Site. SHEIN n'est pas responsable de la description des Produits, des prix ou de toute autre circonstance relative à la fourniture des Produits. Toute plainte relative aux Produits doit être adressée au [Service clientèle](https://fr.shein.com/robot) .  
+
+8.3 Le Client est seul responsable de son utilisation de la Marketplace, en particulier des Contributions faites sur le Site.  
+
+8.4 Ni SHEIN ni les Vendeurs ne peuvent être tenus responsables en cas de mauvaise utilisation des Produits, d'utilisation non conforme aux contre-indications mentionnées sur la page du Produit ou d'utilisation faite par le Client que le Vendeur concerné ne pouvait raisonnablement pas prévoir.  
+
+8.5. En cas de perte, de vol ou d'utilisation frauduleuse de la Carte-cadeau, non imputable à SHEIN, SHEIN ne sera pas responsable envers le Client, étant donné que le titre de propriété des Cartes-cadeaux est transféré au Client ou aux Bénéficiaire de la carte au moment de la vente. Le Client ou le Bénéficiaire doit prendre toutes les mesures nécessaires pour assurer la confidentialité du numéro de la Carte-cadeau et du code PIN. Si le Client ou le Bénéficiaire pense que la CartecCadeau a été copiée ou volée, il/elle est invité(e) à contacter SHEIN au [Service Client](https://fr.shein.com/robot) sans délai.  
+
+8.6. SHEIN n'exclut ni ne limite en aucune façon sa responsabilité envers le Client lorsqu'il serait illégal de le faire. Cela inclut la responsabilité en cas de décès ou de blessure personnelle causés par la négligence de SHEIN ou la négligence des employés, agents ou sous-traitants de SHEIN, ainsi qu'en cas de fraude ou de déclaration frauduleuse. SHEIN ne fournit la Marketplace que pour un usage domestique et privé. SHEIN n'est pas responsable des pertes de revenus, de profits, de données, des interruptions d'activité (qu'elles soient directes ou indirectes) ni des pertes indirectes ou consécutives de quelque nature que ce soit résultant de l'utilisation des Services et/ou du Site.  
+
+8.7 Lorsque la loi le permet, SHEIN ne peut être tenu pour responsable de tout dommage direct ou indirect, quelle qu'en soit la cause, l'origine, la nature ou la conséquence, résultant de l'utilisation du Site. Notamment en cas d'interruption ou d'inaccessibilité du Site, de survenance de virus, ou d'inexactitude des informations contenues sur le Site ou de tout dommage résultant d'actes frauduleux de tiers à partir du Site.  
+
+8.8. Lorsque la loi le permet, la responsabilité de SHEIN n'est pas engagée dans le cas où l'inexécution de ses obligations est imputable soit au fait imprévisible et insurmontable d'un tiers aux présentes CGU, soit à un cas de force majeure tel que défini par la loi applicable et qui inclut, sans que cette liste soit limitative :  
+
+* les grèves et autres formes de manifestations ou de blocages qui affectent la production et la livraison des Produits ;  
+    
+* troubles civils, révolte, invasion, attaque ou menace terroriste, guerre (déclarée ou non) ou menace ou préparation de guerre.  
+    
+* incendie, explosion, tempête, inondation, tremblement de terre, effondrement, épidémie ou toute autre catastrophe naturelle.  
+    
+* l'impossibilité d'utiliser le train, le bateau, l'avion, le transport motorisé ou tout autre moyen de transport, public ou privé.  
+    
+* l'impossibilité d'utiliser les systèmes de télécommunication publics ou privés.  
+    
+* les actes, décrets, lois, règlements ou restrictions de tout gouvernement ou autorité publique.  
+    
+
+Les obligations de SHEIN au titre des CGU sont suspendues pendant la durée de la situation de force majeure. SHEIN a droit à une prolongation de la période d'exécution de ces obligations égale à la durée de la situation de force majeure. Toutefois, tous les moyens raisonnables seront mis en œuvre pour atténuer l'impact de la situation de force majeure ou pour trouver une solution permettant au Site de fonctionner.  
+
+8.9. SHEIN met en œuvre des moyens destinés à assurer la sécurité des données collectées sur le Site. Toutefois, SHEIN ne maîtrise pas les risques inhérents au fonctionnement d'Internet et son impact sur la confidentialité des données transitant sur ce réseau.  
+
+8.10 Le Site peut contenir des liens vers des sites tiers qui ne sont pas détenus ou contrôlés par SHEIN. En aucun cas, SHEIN ne sera responsable du contenu de ces sites ou liens qu'il ne contrôle pas. Par le simple fait de créer des liens, SHEIN n'endosse pas le contenu des tiers.  
+
+8.11 Si une disposition des CGU est jugée inapplicable, cela n'affectera pas la validité des autres dispositions des CGU, qui resteront pleinement en vigueur.  
+
+8.12 Le fait pour SHEIN de ne pas faire valoir un droit ou une disposition en vertu des CGU ne constitue pas une renonciation à ce droit ou à cette disposition.  
+
+**8.13 Décharge relative aux litiges avec les Vendeurs.** Dans toute la mesure permise par la loi applicable, SHEIN décline expressément toute responsabilité pouvant survenir entre Vous et un Vendeur. La Marketplace fournit simplement un moyen de mettre en relation nos utilisateurs avec les Vendeurs. Étant donné que SHEIN n'est pas partie aux contrats réels entre Vous et tout Vendeur auprès duquel Vous achetez un Produit, dans l'éventualité d'un litige avec un Vendeur, Vous libérez SHEIN, ses sociétés mères, ses sociétés affiliées et tous leurs dirigeants, employés, investisseurs, agents, partenaires et concédants de licence, sauf en ce qui concerne une société affiliée de SHEIN agissant en tant que Vendeur concerné, de toute réclamation, demande ou dommage (réel ou consécutif) de tout type et de toute nature, connu et inconnu, soupçonné et non soupçonné, divulgué et non divulgué, découlant de ou lié de quelque façon que ce soit à de tels litiges.  
+
+9\. SIGNALER LES CONTENUS ILLICITES OU ILLÉGAUX  
+
+9.1 Signalement de violation de la propriété intellectuelle  
+
+**(1) Exigences en matière de signalement** Comme SHEIN demande aux autres de respecter ses droits de propriété intellectuelle, SHEIN respecte les droits de propriété intellectuelle des autres. Si le Client estime que le matériel situé sur ou lié aux Produits et/ou au Site enfreint ses droits d'auteur, sa marque ou d'autres droits de propriété intellectuelle, il est prié de soumettre une plainte via le [portail de plainte sur la propriété intellectuelle](https://www.shein.com/ip-complaint) . SHEIN peut demander les informations suivantes :  
+
+* La signature physique ou électronique d'une personne autorisée à agir au nom du titulaire du droit de propriété intellectuelle prétendument enfreint.  
+    
+* Identification de la propriété intellectuelle enfreinte, y compris, le cas échéant, le numéro d'enregistrement correspondant et le pays d'enregistrement correspondant.  
+    
+* L'identification du matériel déclaré en infraction, y compris les informations concernant l'emplacement du matériel en infraction sur le site ou l'application, avec suffisamment de détails pour que SHEIN puisse le trouver.  
+    
+* Si un brevet de dessin ou modèle est en cause, identifier le brevet de dessin ou modèle dont le Client affirme qu'il a été enfreint, ainsi que le numéro d'enregistrement.  
+    
+* Si un brevet d'utilité est en cause, identifier le brevet d'utilité dont le client affirme qu'il a été violé, ainsi qu'une ordonnance ou un jugement du tribunal étayant cette affirmation.  
+    
+* Nom légal complet du Client, affiliation de l'entreprise (le cas échéant), adresse postale, numéro de téléphone et adresse électronique.  
+    
+* Une déclaration du Client indiquant qu'il croit de bonne foi que l'utilisation du matériel prétendument contrefait n'est pas autorisée par le propriétaire de la propriété intellectuelle, son agent ou la loi.  
+    
+* Une déclaration du Client, faite sous peine de parjure, selon laquelle les informations contenues dans votre avis sont exactes et que Vous êtes le titulaire de la propriété intellectuelle ou autorisé à agir au nom du titulaire de la propriété intellectuelle.  
+    
+
+(2)\_Réponse de Shein  
+
+Nous ferons de notre mieux pour examiner rapidement ces avis et pour enquêter si nécessaire. Dès réception de tels avis, nous nous réservons le droit de :  
+
+* adresser un avertissement à la partie accusée d'infraction ;  
+    
+* supprimer ou désactiver l'accès au matériel ou désactiver tout lien vers le matériel ;  
+    
+* Notifier à la partie accusée d'infraction que nous avons supprimé ou désactivé l'accès au matériel concerné ;  
+    
+* Résilier potentiellement l'accès et l'utilisation de la Marketplace pour tout client ou vendeur qui enfreint de manière répétée ou grave les droits de propriété intellectuelle de SHEIN ou d'autres personnes, ou comme indiqué dans les CGU (y compris les politiques de la Marketplace) ;  
+    
+* entamer éventuellement une procédure judiciaire contre la partie accusée d'infraction pour obtenir le remboursement de tous les coûts sur la base d'une indemnité (y compris, mais sans s'y limiter, les frais administratifs et juridiques raisonnables) résultant de l'infraction ;  
+    
+* Poursuite de l'action en justice contre la partie accusée d'infraction ; et/ou  
+    
+* La divulgation de ces informations aux autorités chargées de l'application de la loi si nous le jugeons raisonnablement nécessaire ou si la loi l'exige.  
+    
+
+Nous nous réservons le droit de mettre en place des mécanismes raisonnables pour prévenir des infractions similaires à l'avenir.  
+
+9.2 Notification de contenu dangereux ou illégal  
+
+(1) Notification  
+
+Si Vous estimez que le Contenu, les Produits ou le Contenu relatifs aux Produits figurant sur le présent site ou liés à celui-ci sont considérés comme dangereux ou illégaux, veuillez envoyer votre notification par l'intermédiaire de [ce portail](https://fr.shein.com/robot) , où Vous pourrez signaler le vendeur et/ou ses produits. Nous pouvons Vous demander les informations suivantes :  
+
+* Les avis signalant un contenu prétendument illégal ou dangereux doivent pouvoir déterminer l'illégalité ou le danger sans qu'il soit nécessaire de procéder à une analyse de fond ou à un examen juridique.  
+    
+* Identification claire des matériaux illégaux ou dangereux.  
+    
+
+(2)\_Réponse de Shein  
+
+Dès réception de ces signalements, si le Contenu, les Produits ou le Contenu relatifs aux Produits signalés sont manifestement illégaux ou dangereux, et toujours dans le respect des droits fondamentaux, nous nous réservons le droit de :  
+
+* Émettre un avertissement ;  
+    
+* supprimer ou désactiver l'accès au matériel ou désactiver tout lien vers le matériel ;  
+    
+* Notifier à la partie accusée que nous avons supprimé ou désactivé l'accès au matériel concerné ;  
+    
+* éventuellement mettre fin à l'accès et à l'utilisation de la Marketplace de la partie incriminée ;  
+    
+* Nous nous réservons le droit de mettre en place des mécanismes raisonnables afin d'éviter que de telles situations ne se reproduisent à l'avenir ;  
+    
+* entamer éventuellement une procédure judiciaire contre la partie accusée pour obtenir le remboursement de tous les coûts sur la base d'une indemnité (y compris, mais sans s'y limiter, les frais administratifs et juridiques raisonnables) résultant de la violation ;  
+    
+* Poursuite de l'action en justice à l'encontre de la partie accusée ; et/ou  
+    
+* La divulgation de ces informations aux autorités chargées de l'application de la loi si nous le jugeons raisonnablement nécessaire ou si la loi l'exige.  
+    
+
+Nous nous réservons le droit de mettre en place des mécanismes raisonnables pour prévenir des infractions similaires à l'avenir.  
+
+9.3. Traitement des plaintes relatives au retrait  
+
+Si, à la suite d'une demande de retrait ou à notre discrétion, nous avons supprimé, bloqué ou suspendu votre contenu, suspendu votre compte d'utilisateur ou désactivé l'accès à votre matériel, Vous avez la possibilité de contester notre décision en contactant le [service clientèle](https://fr.shein.com/robot) . Nous nous efforcerons d'examiner rapidement toute contestation de ce type.  
+
+10\. DROIT APPLICABLE ET JURIDICTION  
+
+10.1 En cas de litige concernant l'utilisation des Services, le Client doit d'abord contacter le service clientèle de SHEIN par les moyens suivants via le site web en se rendant dans la section Service clientèle. Les Clients peuvent accéder à la plateforme de résolution des litiges en ligne de l'Union européenne en suivant ce lien : [https://ec.europa.eu/consumers/odr/main/?event=main.home2.show](https://ec.europa.eu/consumers/odr/main/?event=main.home2.show) , où nous sommes enregistrés avec l'adresse e-mail dispute@shein.com.  
+
+10.2. Les présentes CGU sont régies et interprétées conformément au droit irlandais, et l'application de la Convention des Nations unies sur les contrats de vente internationale de marchandises est expressément exclue. Le Client, qui a sa résidence habituelle dans un autre pays européen, bénéficie en outre de la protection qui lui est accordée par les dispositions impératives de la loi du française.  
+
+10.3 Tout litige résultant de la formation, de l'interprétation ou de l'exécution des présentes CGU relève de la compétence exclusive des tribunaux du français.  
+
+11\. INFORMATIONS SUR L'OPÉRATEUR DE LA MARKETPLACE  
+
+11.1 Informations sur l'entreprise  
+
+Nom de l'entreprise : Infinite Styles Services Co.  
+
+Adresse : 2nd Floor, 1-2 Victoria Buildings, Haddington Road, Dublin 4, Dublin, D04 XN32, Ireland  
+
+Courriel : frcsteam@shein.com  
+
+Numéro d'entreprise : 732881  
+
+11.2 Pour tout problème lié aux Services, le Client peut contacter SHEIN à tout moment par email à [Privacy Center](https://fr.shein.com/Privacy-Center-a-1045.html) ou par le biais de notre [plateforme de Service Client](https://fr.shein.com/robot) .  
 
 CONDITIONS GÉNÉRALES DE VENTE  
 
