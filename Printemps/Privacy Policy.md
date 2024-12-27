@@ -136,8 +136,6 @@
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=nav-femme&ap_campaign=offres)
-    
 
 * [TOP MARQUES](#)
     * [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_marques)
