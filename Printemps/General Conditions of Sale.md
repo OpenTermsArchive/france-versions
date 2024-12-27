@@ -136,8 +136,6 @@
     * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=nav-femme&ap_campaign=offres)
-    
 
 * [TOP MARQUES](#)
     * [Voir toutes les marques](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_marques)
@@ -231,8 +229,6 @@
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme?ap_source=anico&ap_medium=navigation&ap_campaign=pantalons-hiver-homme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=navigation&ap_campaign=offres-du-moment)
     
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marques-homme)
