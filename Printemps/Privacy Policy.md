@@ -232,8 +232,6 @@
     * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos?ap_source=anico&ap_medium=navigation&ap_campaign=offres-du-moment)
-    
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-homme)
@@ -250,7 +248,7 @@
 * [![](https://media-cdn.printemps.com/image/58/0/7338580.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
     
 
-* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avant-premieres)
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avant-premieres)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-avantpremieres-beaute)
     * [Parfums](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avantpremieres-parfums)
     * [Soins](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Soin?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avp-soins)
