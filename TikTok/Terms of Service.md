@@ -6,7 +6,7 @@ Conditions Générales d’Utilisation de TikTok
 
   
 
-_Dernière mise à jour : août 2023_
+_Dernière mise à jour : novembre 2024_
 
   
 
@@ -25,7 +25,7 @@ _En résumé : il s’agit d’un contrat conclu entre vous et TikTok. Vous dev
 
 La société avec laquelle vous concluez un contrat dépend de votre lieu de résidence ou de votre principal lieu d’activité :
 
-* Si vous résidez dans l’un des pays de l’[Espace économique européen (« EEE »)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) ou en Suisse, votre contrat est conclu avec TikTok Technology Limited, société immatriculée en République d’Irlande dont le siège social est sis au The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 T380, Irlande, et dont le numéro d’immatriculation est le 635755.
+* Si vous résidez dans l’un des pays de l’[Espace économique européen (« EEE »)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) ou en Suisse, votre contrat est conclu avec TikTok Technology Limited, société immatriculée en République d’Irlande dont le siège social est sis au 10 Earlsfort Terrace, Dublin, D02 T380, Irlande, et dont le numéro d’immatriculation est le 635755.
 * Si vous résidez au Royaume-Uni, votre contrat est conclu avec TikTok Information Technologies UK Limited, société immatriculée en Angleterre dont le siège social est sis au 4 Lindsey Street, Barbican, Londres, EC1A 9HP, Royaume-Uni, et dont le numéro d’immatriculation est le 10165711.
 
 _En résumé : la société TikTok spécifique avec laquelle vous êtes lié(e) par un contrat dépend de votre lieu de résidence. Lorsque nous utilisons les termes « TikTok », « nous » ou « notre » dans les présentes Conditions générales d’utilisation, nous faisons référence à cette société spécifique, sauf indication contraire._
