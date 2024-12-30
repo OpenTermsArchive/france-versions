@@ -519,17 +519,17 @@ Vous devrez assumer toutes les dépenses découlant du non-respect de cette disp
 
 ### Indemnisation en cas de décès ou de blessure
 
-14.2.1. Nous sommes responsables du préjudice survenu en cas de mort ou de lésion corporelle subie par un passager, causé par un accident qui s’est produit à bord de l’aéronef ou au cours d’embarquement ou de débarquement, conformément à l’article 17.1 du Convention de Montréal. Dans un tel cas, nous ne sommes pas responsables des dommages subis dans la mesures où ils dépassent 128 821 DTS, si nous prouvons que l’accident (i) n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable de notre part ou à la négligence ou un autre acte ou omission préjudiciable de la part de nos préposés ou mandataires ; ou (ii) résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable du passager ou d’un tiers.
+14.2.1. Nous sommes responsables du préjudice survenu en cas de mort ou de lésion corporelle subie par un passager, causé par un accident qui s’est produit à bord de l’aéronef ou au cours d’embarquement ou de débarquement, conformément à l’article 17.1 du Convention de Montréal. Dans un tel cas, nous ne sommes pas responsables des dommages subis dans la mesures où ils dépassent 151 880 DTS, si nous prouvons que l’accident (i) n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable de notre part ou à la négligence ou un autre acte ou omission préjudiciable de la part de nos préposés ou mandataires ; ou (ii) résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable du passager ou d’un tiers.
 
 14.2.2. Nous nous réservons toutes les défenses contre ces réclamations dont nous disposons en vertu de la Convention de Montréal et de la législation nationale applicable. En ce qui concerne les tiers, nous nous réservons également tous les droits de recours contre toute personne, y compris, mais non exclusivement, les droits de contribution et d’indemnisation.
 
-14.2.3. Dans le cas où un passager décède ou est blessé, le transporteur aérien est tenu d’effectuer une avance de paiement, dans les 15 jours suivant l’identification de la personne ayant droit à des dommages-intérêts, afin de couvrir les besoins financiers immédiats. En cas de décès, cette avance de paiement ne peut être inférieure à 16 000 DTS (environ 17 600 EUR).
+14.2.3. Dans le cas où un passager décède ou est blessé, le transporteur aérien est tenu d’effectuer une avance de paiement, dans les 15 jours suivant l’identification de la personne ayant droit à des dommages-intérêts, afin de couvrir les besoins financiers immédiats. En cas de décès, cette avance de paiement ne peut être inférieure à 16 000 DTS (environ 20 000 EUR).
 
 14.2.4. Un paiement anticipé ne constituera aucune reconnaissance de responsabilité et peut être compensé par toute somme payée ultérieurement sur la base de la responsabilité du transporteur. Le paiement anticipé doit être remboursé s’il est prouvé par la suite que vous avez provoqué ou contribué par votre négligence à ce décès ou cette lésion, ou que la personne ayant reçu le paiement anticipé n’était pas la personne qui avait droit à cette compensation.
 
 ### Destruction, perte ou détérioration des Bagages
 
-14.3.1. Sauf en cas d’acte ou d’omission effectué avec l’intention de causer un dommage ou imprudemment et en sachant que ledit dommage sera probablement causé, notre responsabilité est engagée dans la limite de 1 288 DTS. L’enregistrement de Bagages implique une responsabilité indépendante de la culpabilité, à condition que les bagages n’aient pas déjà été endommagés auparavant. Dans le cas de Bagages non enregistrés, notre responsabilité n’est engagée qu’en cas de culpabilité.
+14.3.1. Sauf en cas d’acte ou d’omission effectué avec l’intention de causer un dommage ou imprudemment et en sachant que ledit dommage sera probablement causé, notre responsabilité est engagée dans la limite de 1 519 DTS. L’enregistrement de Bagages implique une responsabilité indépendante de la culpabilité, à condition que les bagages n’aient pas déjà été endommagés auparavant. Dans le cas de Bagages non enregistrés, notre responsabilité n’est engagée qu’en cas de culpabilité.
 
 ### Limite de responsabilité plus élevée pour les Bagages.
 
@@ -543,9 +543,9 @@ Vous devrez assumer toutes les dépenses découlant du non-respect de cette disp
 
 ### Retards des Bagages et du Passager
 
-14.4.1. Nous sommes responsables des dommages occasionnés par des retards dans le transport de passagers, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages ou à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard du transport des passagers se limite à 5 346 DTS.
+14.4.1. Nous sommes responsables des dommages occasionnés par des retards dans le transport de passagers, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages ou à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard du transport des passagers se limite à 6 303 DTS.
 
-14.4.2. Nous sommes responsables des dommages occasionnés par des retards dans l’acheminement de bagages enregistrés, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages et à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard d’acheminement des bagages se limite à 1 288 DTS.
+14.4.2. Nous sommes responsables des dommages occasionnés par des retards dans l’acheminement de bagages enregistrés, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages et à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard d’acheminement des bagages se limite à 1 519 DTS.
 
 14.4.3. Si le demandeur n’a pas atténué les dommages ou a contribué à l’apparition des dommages, le montant des demandes de dommages et intérêts diminuera en fonction de la somme relative à la contribution du demandeur. Le demandeur est obligé en particulier à procéder à des achats de remplacement opportuns, raisonnables et adéquats.
 
@@ -581,4 +581,4 @@ La Commission européenne fournit également une plateforme pour le règlement e
 
 18.1. Les intitulés abrégés de chaque Article des présentes Conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
 
-**Dernière mise-à-jour : mai 2023**
+**Dernière mise-à-jour : décembre 2024**
