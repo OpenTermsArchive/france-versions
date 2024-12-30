@@ -147,8 +147,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-*  [![](https://media-cdn.printemps.com/image/99/1/7305991.jpg) BOBO CHOSES](https://www.printemps.com/fr/fr/bobo-choses-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bobo_choses)
-    
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
