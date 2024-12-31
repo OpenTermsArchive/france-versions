@@ -313,8 +313,6 @@
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=marc-antoine-barrois)
     * [Matière Première](https://www.printemps.com/fr/fr/univers-matierepremiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=matiere-premiere)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/98/7/7305987.png) ARMANI](https://www.printemps.com/fr/fr/armani-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=armani-vignette)
-    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-femme-marque)
