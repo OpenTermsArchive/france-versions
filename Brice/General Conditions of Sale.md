@@ -140,6 +140,8 @@ Conformément à l’article L221-18 du Code de la consommation, le Client dispo
   
 Le Client bénéficie alors d’un délai de quatorze (14) jours à compter de l’envoi du courrier mentionné ci-dessus ou de toute autre déclaration, dénuée d'ambiguïté, exprimant sa volonté de se rétracter, pour retourner sa commande.  
   
+Conformément à l’article L221-28 du Code de la consommation, le retour de produit confectionnés selon les spécifications du consommateur ou personnalisés ne pourront faire l’objet d’un droit de rétractation.  
+  
 
 ##### 9.2 Droit de rétractation conventionnel
 
