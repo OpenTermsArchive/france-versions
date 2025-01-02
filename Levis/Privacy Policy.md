@@ -459,15 +459,9 @@ Pour demander une copie de la version la plus récente de notre Avis de confiden
 
 Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
 
-Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
+Join our Red Tab™ program and get free shipping on every order.
 
-\- 10% sur votre commande en vous inscrivant à notre newsletter
-
-Livraison et retours GRATUITS
-
-Accès EXCLUSIF aux réductions et aux nouveautés
-
-Une PETITE surprise d'anniversaire chaque année
+Levi’s® Red Tab™ Members get exclusive access to products, events, and offers. Just provide a few details. It’s free to join and open to all.
 
 Hide PasswordHide Password
 
@@ -478,13 +472,8 @@ Surprise d’anniversaire (facultatif)
 
 Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
 
-10%, ça vous tente ?
---------------------
-
-10% de remise sur votre prochaine commande si vous vous abonnez à notre newsletter. Uniquement pour les nouveaux abonnés. Désabonnement possible à tout moment.
-
 Je m’abonne !Non, merci !
 
-By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use) and the [Red Tab Program Conditions](https://www.levi.com/FR/fr_FR/legal/red-tab-program-terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
 
 Nous rejoindre[Se connecter avec un compte existant](javascript:;)
