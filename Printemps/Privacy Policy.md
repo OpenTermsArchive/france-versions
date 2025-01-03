@@ -279,8 +279,6 @@
     * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant?ap_source=anico&ap_medium=nav-beaute&ap_campaign=produits-de-coiffage)
     * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser?ap_source=anico&ap_medium=nav-beaute&ap_campaign=appareils-electroniques)
 
-* [CALENDRIERS ET COFFRETS DE NOËL](https://www.printemps.com/fr/fr/christmas-shopping?ap_source=anico&ap_medium=nav-beaute&ap_campaign=calendriers-coffrets)
-    
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beaute-homme)
     
 * [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires?ap_source=anico&ap_medium=nav-beaute&ap_campaign=accessoires-beaute)
