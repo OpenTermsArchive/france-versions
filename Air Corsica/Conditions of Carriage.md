@@ -426,21 +426,25 @@ Nous nous efforcerons de satisfaire vos demandes d'attribution de siège. Toutef
 
 **(b)** Si, au cours de votre voyage, vous utilisez les services de plusieurs Transporteurs, vous devrez vérifier auprès de chacun d'eux si des reconfirmations sont nécessaires. Dans ce cas, le Transporteur auprès duquel la reconfirmation doit être faite est celui dont le Code de Désignation apparaît sur le Coupon de Vol.
 
-**6.5. Annulation des réservations sur un vol en continuation ou en retour**
+**6.5. Ordre d’utilisation des coupons de vol**
 
-"Pour les billets qui n'ont pas été réservés au tarif résident corse, les coupons de vols doivent être utilisés dans l'ordre séquentiel réservé (notamment pour les billets aller/retour ou avec escale), conformément à l'article 4.3 ci-dessus. Si vous ne vous présentez pas à l'enregistrement d'un vol et ne respectez pas l'ordre séquentiel des billets, un supplément tarifaire de \[100\] euros sera appliqué sur la partie du voyage réalisé. 
+* (a) Le tarif TTC applicable au billet, calculé en fonction des données, des dates de vols et du parcours indiqué sur le billet, correspond à un point de départ et un point de destination, en tenant compte de toute escale intermédiaire prévue lors de l'achat du billet, et fait partie intégrante du contrat de transport. Le tarif appliqué à la date d’émission du billet est valable uniquement si le billet est utilisé dans son intégralité, en respectant l'ordre et les dates du parcours réservé, c'est-à-dire l'ordre séquentiel des coupons de vol.
+* (b) Toute utilisation non conforme du billet par le passager, comme par exemple l’utilisation du coupon retour, avant l’utilisation du coupon aller, entraînera l'application d'un supplément tarifaire forfaitaire de cent euros (100 €) à payer au moment de l’enregistrement du deuxième coupon de vol
 
-Pour les billets réservés au tarif résident corse, les passagers qui souhaitent annuler leur vol sont tenus d'informer au préalable le Transporteur au moins deux (2) heure avant le départ du vol. A défaut d'information préalable au moins 2 heures avant le départ du vol, les passagers qui ne se présentent pas à l'embarquement ou qui annuleraient ou modifieraient leur billet tardivement s'exposent au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon non utilisé hors taxes, faute d'avoir respecté l'ordre séquentiel des coupons. 
+**Tarif résident Corse**
 
-En cas de non-présentation du passager à l'enregistrement, le passager a droit au remboursement des taxes d'aéroport et à la redevance passager en application de l'article L.224-66 du Code de la Consommation".
+Pour les billets réservés au tarif résident corse :
 
-* **S'agissant du traitement des no show**
+* **Annulation intégrale :** Les passagers souhaitant annuler leur voyage doivent informer le transporteur au moins deux (2) heures avant l’heure de départ du vol aller.
+* **Modification :** Les passagers souhaitant modifier une partie de leur voyage doivent informer le transporteur au moins deux (2) heures avant le départ du vol concerné.  
+    Si l'information préalable n'est pas communiquée au moins 2 heures avant le départ du vol, le passager s'expose à un supplément tarifaire forfaitaire équivalant au prix d'achat du coupon non utilisé hors taxes, en raison du non-respect de l'ordre séquentiel des coupons.
 
-Pour les billets qui n'ont pas été réservés au tarif résident corse, les coupons de vols doivent être utilisés dans l'ordre séquentiel réservé (notamment pour les billets aller/retour ou avec escale), conformément à l'article 4.3 ci-dessus. Si vous ne vous présentez pas à l'enregistrement d'un vol et ne respectez pas l'ordre séquentiel des billets, un supplément tarifaire forfaitaire de \[100\] euros sera appliqué sur la partie du voyage réalisé.
+**Traitement des no-show**
 
-Pour les billets réservés au tarif résident corse, les passagers qui souhaitent annuler leur vol sont tenus d'informer au préalable le Transporteur au moins deux (2) heures avant le départ du vol. A défaut d'information préalable au moins 2 heures avant le départ du vol, les passagers qui ne se présentent pas à l'embarquement ou qui annuleraient ou modifieraient leur billet tardivement s'exposent au paiement d'un supplément tarifaire forfaitaire équivalent au prix d'achat du coupon non utilisé hors taxes, faute d'avoir respecté l'ordre séquentiel des coupons.
-
-En cas de non-présentation du passager à l'enregistrement, le passager a droit au remboursement des taxes d’aéroport et à la redevance passager en application de l'article L.224-66 du Code de la consommation".
+* (d) En cas de non-présentation du passager à l'enregistrement, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.  
+    Pour les billets réservés au tarif résident corse, l’utilisation d’un seul coupon de vol n'est pas autorisée.
+    * **Si le vol aller n’a pas été utilisé :** Le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident, sur un aller simple.
+    * **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
 
 ### Article 7 - Enregistrement / Embarquement
 
