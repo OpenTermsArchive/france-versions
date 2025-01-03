@@ -279,8 +279,6 @@
     * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant?ap_source=anico&ap_medium=nav-beaute&ap_campaign=produits-de-coiffage)
     * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser?ap_source=anico&ap_medium=nav-beaute&ap_campaign=appareils-electroniques)
 
-* [CALENDRIERS ET COFFRETS DE NOËL](https://www.printemps.com/fr/fr/christmas-shopping?ap_source=anico&ap_medium=nav-beaute&ap_campaign=calendriers-coffrets)
-    
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme?ap_source=anico&ap_medium=nav-beaute&ap_campaign=beaute-homme)
     
 * [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires?ap_source=anico&ap_medium=nav-beaute&ap_campaign=accessoires-beaute)
@@ -311,7 +309,7 @@
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfums-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=marc-antoine-barrois)
-    * [Matière Première](https://www.printemps.com/fr/fr/univers-matierepremiere?ap_source=anico&ap_medium=nav-beaute&ap_campaign=matiere-premiere)
+    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=diptyque)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
@@ -358,13 +356,13 @@
     
 
 * [NOUVELLES MARQUES](#)
+    * [Diptyque](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=diptyque_marque)
     * [Gerard Darel](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=darel-marque)
     * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
     * [Manucurist](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
     * [Laura Mercier](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=laura-mercier-marque)
     * [Kleman](https://www.printemps.com/fr/fr/kleman?ap_source=anico&ap_medium=navigation&ap_campaign=kleman)
     * [Save the duck](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=save-the-duck)
-    * [Alohas](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=alohas)
     * [Cabaia](https://www.printemps.com/fr/fr/cabaia-femme?ap_source=anico&ap_medium=navigation&ap_campaign=cabaia)
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=navigation&ap_campaign=dragon-diffusion)
 
