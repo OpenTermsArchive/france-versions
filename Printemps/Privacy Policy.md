@@ -356,7 +356,7 @@
     
 
 * [NOUVELLES MARQUES](#)
-    * [Diptyque](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=diptyque_marque)
+    * [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=diptyque_marque)
     * [Gerard Darel](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=darel-marque)
     * [Lancaster](https://www.printemps.com/fr/fr/lancaster?ap_source=anico&ap_medium=navigation&ap_campaign=lancaster-marque)
     * [Manucurist](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=manucurist-marque)
