@@ -158,9 +158,9 @@ Article 20 - Time limitation on claims and action
 Customer service
 
 * [Contact us](https://wwws.airfrance.fr/contact)
-* [Refund](https://wwws.airfrance.fr/contact/refund-compensation/refund)
+* [Refund](https://wwws.airfrance.fr/contact/refund-compensation)
 * [Claims](https://wwws.airfrance.fr/information/legal/reclamation)
-* [Request a receipt](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
+* [Request an invoice](https://wwws.airfrance.fr/contact/trip-checkin/invoice)
 * [Passengers with disabilities](https://wwws.airfrance.fr/contact/special-assistance)
 
 #### Online purchase
