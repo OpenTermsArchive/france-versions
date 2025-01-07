@@ -455,4 +455,36 @@ NOUS CONTACTER
 Si vous avez des questions ou des préoccupations au sujet de l’Avis de confidentialité de Levi Strauss & Co., veuillez envoyer un e-mail à notre Chief Privacy Officer à l’adresse [privacy@levi.com](mailto:privacy@levi.com) ou nous appeler au numéro gratuit 1-800-872-5384 (Levi’s).  Vous pouvez adresser un courrier à notre Chief Privacy Officer à l’adresse suivante : Levi Strauss & Co, Attn: Privacy, 1155 Battery Street, San Francisco, CA 94111.  Si vous préférez exercer l’un ou l’autre de vos choix ou droits mentionnés dans le présent Avis par courrier, vous devez envoyer votre demande au Service de la protection de la vie privée (Privacy Office) à l’adresse susmentionnée.  
 
    
-Pour demander une copie de la version la plus récente de notre Avis de confidentialité, veuillez envoyer un e-mail à l’adresse [privacy@levi.com](mailto:privacy@levi.com).
+Pour demander une copie de la version la plus récente de notre Avis de confidentialité, veuillez envoyer un e-mail à l’adresse [privacy@levi.com](mailto:privacy@levi.com). 
+
+Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
+
+Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
+
+\- 10% sur votre commande en vous inscrivant à notre newsletter
+
+Livraison et retours GRATUITS
+
+Accès EXCLUSIF aux réductions et aux nouveautés
+
+Une PETITE surprise d'anniversaire chaque année
+
+Hide PasswordHide Password
+
+Les mots de passe doivent contenir au moins 8 caractères et être difficiles à deviner - les mots de passe couramment utilisés ou risqués ne sont pas autorisés.
+
+Surprise d’anniversaire (facultatif)
+------------------------------------
+
+Nous vous offrirons chaque année 1000 coins pour votre anniversaire.
+
+10%, ça vous tente ?
+--------------------
+
+10% de remise sur votre prochaine commande si vous vous abonnez à notre newsletter. Uniquement pour les nouveaux abonnés. Désabonnement possible à tout moment.
+
+Je m’abonne !Non, merci !
+
+By creating an account, I agree to the LS&Co. [Terms of Use](https://www.levi.com/FR/fr_FR/legal/terms-of-use). I have read the LS&Co. [Privacy Policy](https://www.levi.com/FR/fr_FR/legal/privacy-policy).
+
+Nous rejoindre[Se connecter avec un compte existant](javascript:;)
