@@ -52,6 +52,49 @@
     * [Le Tanneur](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/LE+TANNEUR?ap_source=anico&ap_medium=navigation&ap_campaign=letanneur-avp)
     * [Alexander McQueen](https://www.printemps.com/fr/fr/premiere-date-avant-premiere/mrk/ALEXANDER+MCQUEEN?ap_source=anico&ap_medium=navigation&ap_campaign=mcqueen-avp)
 
+* [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=femme_viewall)
+    * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs?ap_source=anico&ap_medium=nav-new&ap_campaign=femme_sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-new&ap_campaign=chaussures_femme)
+    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Manteaux?ap_source=anico&ap_medium=nav-new&ap_campaign=manteaux_femme)
+    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-new&ap_campaign=accessoires_femme)
+    * [Bottines](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Bottines?ap_source=anico&ap_medium=nav-new&ap_campaign=bottines_femme)
+    * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Cabas?ap_source=anico&ap_medium=nav-new&ap_campaign=femme_cabas)
+
+* [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_viewall)
+    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_manteaux)
+    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-new&ap_campaign=femme_baskets)
+    * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_vetements)
+    * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_accessoires)
+    * [Maille](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Mailles+et+pulls?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_maille)
+    * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes?ap_source=anico&ap_medium=nav-new&ap_campaign=homme_vestes)
+
+* [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute?ap_source=anico&ap_medium=nav-new&ap_campaign=beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-beaute?ap_source=anico&ap_medium=nav-new&ap_campaign=beaute_viewall)
+    * [Parfums](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Parfum?ap_source=anico&ap_medium=nav-new&ap_campaign=soins)
+    * [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin?ap_source=anico&ap_medium=nav-new&ap_campaign=soins)
+    * [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage?ap_source=anico&ap_medium=nav-new&ap_campaign=maquillage)
+
+* [MARQUES](#)
+    * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA?ap_source=anico&ap_medium=nav-new&ap_campaign=prada)
+    * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS?ap_source=anico&ap_medium=nav-new&ap_campaign=marc_jacobs)
+    * [Dyson](https://www.printemps.com/fr/fr/univers-dyson?ap_source=anico&ap_medium=nav-new&ap_campaign=dyson)
+    * [Jott](https://www.printemps.com/fr/fr/jott-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=jott)
+    * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=dragon_diffusion)
+    * [Armor-lux](https://www.printemps.com/fr/fr/armor-lux-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=amor_lux)
+    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/nouveautes/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-new&ap_campaign=polo_ralph)
+    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/nouveautes/mrk/TOMMY+HILFIGER?ap_source=anico&ap_medium=nav-new&ap_campaign=tommy_hilfiger)
+    * [Jérôme Dreyfuss](https://www.printemps.com/fr/fr/nouveautes/mrk/J%C3%89R%C3%94ME+DREYFUSS?ap_source=anico&ap_medium=nav-new&ap_campaign=jerome_dreyfuss)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/nouveautes/mrk/CALVIN+KLEIN?ap_source=anico&ap_medium=nav-new&ap_campaign=calvin_klein)
+
+* [DANS LA TENDANCE](#)
+    * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-printemps-ete-2025?ap_source=anico&ap_medium=nav-new&ap_campaign=new_co)
+    * [Most wanted](https://www.printemps.com/fr/fr/most-wanted?ap_source=anico&ap_medium=nav-new&ap_campaign=most_wanted)
+    * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures?ap_source=anico&ap_medium=nav-new&ap_campaign=fausse_fourrure)
+    * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-new&ap_campaign=makeit_shine)
+    * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-new&ap_campaign=edito_manteaux)
+
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-avp-femme)
     * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/?ap_source=anico&ap_medium=navigation&ap_campaign=luxe-femme-avp)
@@ -147,6 +190,8 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
+* [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette-soldes)
+    
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme-tout)
@@ -242,6 +287,8 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
 * [![](https://media-cdn.printemps.com/image/58/0/7338580.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
+    
+* [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=avant-premieres)
