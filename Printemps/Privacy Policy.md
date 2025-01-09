@@ -4,7 +4,7 @@
     
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/)
+    * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/BALMAIN/AMI+PARIS/LANCEL/PRADA/MOSCHINO/ACNE+STUDIOS)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
     * [Chaussures](https://www.printemps.com/fr/fr/soldes-femme/esp/Chaussures)
     * [Vêtements](https://www.printemps.com/fr/fr/soldes-femme/esp/V%C3%AAtements)
@@ -26,7 +26,7 @@
     * [Baskets](https://printemps.com/fr/fr/soldes-homme/cat0/Baskets)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-homme/esp/Sacs)
     * [Accessoires](https://www.printemps.com/fr/fr/soldes-homme/esp/Accessoires)
-    * [Luxe](https://printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE)
+    * [Luxe](https://printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/AMI+PARIS/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/BALMAIN/MAISON+MARGIELA/AMIRI/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE)
 
 * [Beauté](https://www.printemps.com/fr/fr/soldes-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-beaute)
@@ -36,10 +36,12 @@
     * [Accessoires et électronique](https://www.printemps.com/fr/fr/soldes-beaute/esp/Accessoires)
 
 * [Remises](https://www.printemps.com/fr/fr/soldes)
-    * [\-30%](https://www.printemps.com/fr/fr/soldes/sld/-30%25)
-    * [\-40%](https://www.printemps.com/fr/fr/soldes/sld/-40%25)
-    * [\-50%](https://www.printemps.com/fr/fr/soldes/sld/-50%25)
-    * [\-60%](https://www.printemps.com/fr/fr/soldes/sld/-60%25)
+    * [\-30%](https://www.printemps.com/fr/fr/soldes/sld/-30%25/-25%25)
+    * [\-40%](https://www.printemps.com/fr/fr/soldes/sld/-40%25/-35%25)
+    * [\-50%](https://www.printemps.com/fr/fr/soldes/sld/-50%25/-45%25)
+    * [\-60%](https://www.printemps.com/fr/fr/soldes/sld/-60%25/-55%25)
+    * [\-70%](https://www.printemps.com/fr/fr/soldes/sld/-70%25/-65%25)
+    * [\-80%](https://www.printemps.com/fr/fr/soldes/sld/-80%25/)
 
 * [Top marques](https://www.printemps.com/fr/fr/soldes)
     * [Jacquemus](https://www.printemps.com/fr/fr/soldes/mrk/JACQUEMUS/)
