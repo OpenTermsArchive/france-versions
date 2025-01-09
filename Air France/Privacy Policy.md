@@ -165,7 +165,6 @@ Voyager dans le Monde
 * [Vol Paris - Montréal](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-montreal)
 * [Vol Paris - Saint-Denis](https://wwws.airfrance.fr/fr-fr/vols-de-paris-a-saint-denis)
 
-* [Plan du site](https://wwws.airfrance.fr/information/site-map)
 * [Informations légales](https://wwws.airfrance.fr/information/legal)
 * [Politique de confidentialité](https://wwws.airfrance.fr/information/legal/edito-psc)
 * [Accessibilité : non conforme](https://wwws.airfrance.fr/information/legal/accessibilite)
