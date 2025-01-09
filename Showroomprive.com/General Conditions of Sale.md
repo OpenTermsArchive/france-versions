@@ -49,7 +49,7 @@ Pour toute demande d'information, vous pouvez vous adresser directement à notre
 
 \- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local en France Métropolitaine) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h) ;
 
-\- Par mail à l'adresse suivante : [serviceclient.fr@showroomprive.com](mailto:serviceclient.fr@showroomprive.com) .
+\- Par mail à l'adresse suivante : [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection) .
 
 **Article 2 - Comment devenir membre ?**
 
@@ -217,7 +217,7 @@ Nous vous invitons à prendre connaissance des conditions générales de la solu
 
 Toutes vos transactions d'achat se déroulent dans un strict cadre de confidentialité et de cryptage grâce au protocole SSL. Nous n'avons pas accès à vos coordonnées bancaires et ne les conservons pas sur nos serveurs. Si vous le souhaitez, vos données de carte bancaire peuvent être conservées de manière sécurisée par nos établissements bancaires partenaires afin d'être utilisées lors de vos prochains paiements sur le Site.
 
-Pour ce faire, il suffit de cocher la case « Se souvenir de mes identifiants » lors du paiement. Vous pouvez demander la suppression d'une carte bancaire enregistrée soit directement sur votre compte dans la rubrique « Mes informations personnelles », puis « Mes cartes de paiement », soit par mail à l'adresse suivante : [paiement.fr@showroomprive.com](mailto:paiement.fr@showroomprive.com) .
+Pour ce faire, il suffit de cocher la case « Se souvenir de mes identifiants » lors du paiement. Vous pouvez demander la suppression d'une carte bancaire enregistrée soit directement sur votre compte dans la rubrique « Mes informations personnelles », puis « Mes cartes de paiement », soit par mail à l'adresse suivante : [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection) .
 
 Nous relaierons votre demande auprès de nos établissements bancaires partenaires.
 
@@ -359,7 +359,7 @@ Conformément à l'article L.221-18 du code de la Consommation, vous pouvez vous
 
 • Ou en **remplissant le formulaire de rétractation** disponible [**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf) et en nous le retournant :
 
-\- A l'adresse mail suivante : serviceclient.fr@showroomprive.com ou ;
+\- A l'adresse mail suivante : [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection) ou ;
 
 \- Via le formulaire de contact accessible [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) ; ou
 
@@ -415,7 +415,7 @@ Pour exercer votre droit de rétractation, vous devez notifier votre intention d
 
 · Directement depuis votre compte personnel en accédant à l'onglet « Vos commandes ».
 
-· En vous adressant directement à notre service client à l'adresse mail suivante [serviceclient.fr@showroomprive.com](mailto:serviceclient.fr@showroomprive.com) et/ou via le formulaire de contact accessible [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
+· En vous adressant directement à notre service client à l'adresse mail suivante [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection) et/ou via le formulaire de contact accessible [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) .
 
 · En nous retournant le formulaire de rétractation complété, téléchargeable[**ici**](https://static.cedex.it.showroomprive.com/v3/0/docs/FORMULAIRE_DE_RETRACTATION_SRP_FR.pdf).
 
@@ -531,7 +531,7 @@ Dans certains cas, une garantie commerciale peut vous être proposée directemen
 
 10.3 Comment mettre en œuvre mes garanties ?
 
-Si vous souhaitez bénéficier de l'une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) , ou le cas échéant en nous contactant à l'adresse suivante : serviceclient.fr@showroomprive.com. N'oubliez pas d'y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
+Si vous souhaitez bénéficier de l'une des garanties, remplissez le formulaire dans la partie « FAQ garantie » disponible en cliquant [**ici**](https://www.showroomprive.com/nouscontacter/faq.aspx) , ou le cas échéant en nous contactant à l'adresse suivante : [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection). N'oubliez pas d'y ajouter le numéro de votre commande, ainsi que des photos du produit défectueux.
 
 Vous recevrez alors une étiquette prépayée à apposer sur le colis pour nous renvoyer votre produit non conforme. Au retour de votre produit, la non-conformité sera contrôlée par nos équipes. En cas de fausse déclaration, une somme forfaitaire de 6.50€ sera déduite de votre remboursement. En cas de produits volumineux non conformes, nous vous invitons à contacter notre service client.
 
@@ -561,7 +561,7 @@ Nos CGV sont soumises au droit français, Chaque commande est soumise aux CGV en
 
 \- Par téléphone au 01 85 76 00 00 (numéro non surtaxé au prix d'un appel local) du lundi au vendredi de 8h à 20h et le samedi de 9h à 20h ;
 
-\- Par mail à l'adresse suivante : [serviceclient.fr@showroomprive.com](mailto:serviceclient.fr@showroomprive.com) .
+\- Par mail à l'adresse suivante : [\[email protected\]](https://www.showroomprive.com/cdn-cgi/l/email-protection) .
 
 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Showroomprive.com adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://www.mediateurfevad.fr/) . Après démarches préalables écrites des consommateurs vis-à-vis de Showroomprive.com, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n'aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://www.mediateurfevad.fr/index.php/espace-consommateur-2/#msdynttrid=faliiFsLUZi5zwmcaB9AqWNhLsMwiXKUW9FDQVfPiNo) .
 
