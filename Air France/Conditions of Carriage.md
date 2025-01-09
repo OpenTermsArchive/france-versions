@@ -224,7 +224,6 @@ Fly Worldwide
 * [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
 * [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
-* [Site Map](https://wwws.airfrance.fr/information/site-map)
 * [Legal information](https://wwws.airfrance.fr/information/legal)
 * [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
