@@ -1,7 +1,7 @@
 Notice : Protection de vos informations personnelles
 ====================================================
 
-Dernière mise à jour le 20 décembre 2024.
+Dernière mise à jour le 09 janvier 2025.
 
 [Consultez les versions précédentes des Notices de protection de vos informations personnelles](https://www.amazon.fr/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -349,4 +349,4 @@ Après le moment où vous clôturez votre compte Amazon, nous supprimerons vos i
 
 Comme expliqué à la section [Pour quelles finalités Amazon Europe utilise-t-elle mes informations personnelles ?](#GUID-45AD78C8-97B0-4FAC-BB81-E55E7DCE1304__SECTION_B62CEA2CE7934BF9B70F1ED3672BDF7B), nous traitons vos informations personnelles pour gérer, fournir et améliorer les Services Amazon que nous proposons à nos clients. Pour vous aider à mieux comprendre chaque objectif, vous pouvez consulter les [catégories d'informations personnelles que nous utilisons généralement pour chaque objectif et les bases juridiques sur lesquelles nous nous appuyons](https://www.amazon.fr/gp/help/customer/display.html?nodeId=TcxwSYJNmpQYGgNWkX).
 
-Nous pouvons utiliser vos informations personnelles pour prendre des décisions totalement automatisées qui ont un impact juridique ou équivalent significatif à votre égard. Si nous prenons une telle mesure, nous vous en informerons.
+Nous pouvons utiliser vos informations personnelles pour prendre des décisions exclusivement automatisées produisant des effets juridiques vous concernant ou vous affectant de manière significative de façon similaire. Si nous prenons une telle mesure, nous vous en informerons.
