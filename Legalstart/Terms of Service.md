@@ -1,12 +1,8 @@
 [Skip to content](#main-content)
 
-[Prenez les bonnes décisions pour votre entreprise : statuts, rémunération, fiscalité… Webinars gratuits avec nos experts ! Inscrivez-vous ici](https://www.legalstart.fr/)
+[Cliquez ici pour reprendre votre démarche](https://www.legalstart.fr/)
 
 Fermer la bannière
-
-Augmentation de votre rémunération, fiscalité et statuts : découvrez nos webinars gratuits ! [Inscriptions](https://www.legalstart.fr/webinars/)
-
-Statuts, rémunération, fiscalité : découvrez nos webinars gratuits ! [Inscriptions](https://www.legalstart.fr/webinars/)
 
 Nos conditions Générales
 ========================
