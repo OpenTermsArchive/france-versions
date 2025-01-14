@@ -85,6 +85,7 @@
     * [Dyson](https://www.printemps.com/fr/fr/univers-dyson?ap_source=anico&ap_medium=nav-new&ap_campaign=dyson)
     * [Jott](https://www.printemps.com/fr/fr/jott-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=jott)
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=dragon_diffusion)
+    * [Patagonia](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=nav-new&ap_campaign=patagonia)
     * [Armor-lux](https://www.printemps.com/fr/fr/armor-lux-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=amor_lux)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/nouveautes/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-new&ap_campaign=polo_ralph)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/nouveautes/mrk/TOMMY+HILFIGER?ap_source=anico&ap_medium=nav-new&ap_campaign=tommy_hilfiger)
@@ -195,6 +196,8 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
 * [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette-soldes)
     
+* [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sale)
+    
 
 * [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
@@ -289,6 +292,8 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme?ap_source=anico&ap_medium=navigation&ap_campaign=alexandermcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
+* [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
+    
 * [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     
 
