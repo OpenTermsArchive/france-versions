@@ -1,7 +1,13 @@
 Conditions générales de transport
 
+Conditions
 
-=====================================
+générales de
+
+transport
+
+
+==========================================================================
 
 Transavia
 
@@ -208,7 +214,7 @@ Si le vol réservé est opéré par Transavia Airlines C.V., ce qui suit s’app
   
 Vous pouvez également acheter, lors de l’achat de votre vol ou avant l'enregistrement et jusqu'à 2 heures avant le départ sur notre site internet dans votre espace Mon Transavia ou lors de l'enregistrement en ligne, une option bagage cabine à placer dans le compartiment bagage au-dessus des sièges. Vous bénéficierez alors de l'embarquement prioritaire en zone 1. Votre bagage cabine (55 x 35 x 25 cm maximum, poignées et roues incluses) est garanti en cabine. Nous avons de la place pour un total de 70 bagages cabine à bord. Si vous achetez le forfait Max, cette option est déjà incluse. Chaque passager a la possibilité de réserver un bagage cabine sous réserve de disponibilité suffisante. Le tarif applicable varie également en fonction de la destination, du vol et du moment de la réservation. Ce tarif peut varier à la hausse après le paiement de votre réservation. Nous vous recommandons ainsi de réserver votre bagage cabine lors de l’achat de votre vol. Les conditions relatives à cette option sont disponibles sur le site Internet de Transavia.  
   
-Pour tout excédent de bagage(s) cabine, de bagage(s) à main et/ou de pièce(s) de bagage supplémentaire(s) qui ne répondrait pas à ces conditions, vous devrez payer des frais supplémentaires par pièce et vos bagages seront alors transportés en soute. Les conditions relatives à ce supplément sont disponibles sur le site Internet de Transavia.
+L'ensemble du bagage cabine et du bagage à main peut peser jusqu'à 10 kg maximum. Pour tout excédent de bagage(s) cabine, de bagage(s) à main et/ou de pièce(s) de bagage supplémentaire(s) qui ne répondrait pas à ces conditions, vous devrez payer des frais supplémentaires par pièce et vos bagages seront alors transportés en soute. Les conditions relatives à ce supplément sont disponibles sur le site Internet de Transavia.
 
 **Bagages en soute**
 
@@ -272,9 +278,10 @@ Une demande de remboursement peut être soumise par écrit via le formulaire en 
 Pour les enfants voyageant seuls, non accompagnés d’une personne de 16 ans ou plus, les dispositions suivantes s’appliquent :
 
 * Les enfants jusqu’à 4 ans inclus non accompagnés ne sont pas acceptés à bord.
-* Les enfants de 5 à 11 ans peuvent voyager seuls. Pour ce faire, ils doivent être enregistrés auprès du Centre de services Transavia (voir le site Web pour les coordonnées). Transavia organisera alors un accompagnement vers et depuis l’avion. Le chef de cabine accueille à bord l’enfant voyageant seul et en est responsable pendant le vol. Une fois à destination, le chef de cabine remet l’enfant à la responsabilité du représentant Transavia sur place. Une personne (âgée de 16 ans ou plus) doit toujours venir chercher l’enfant à l’aéroport de destination, sinon l’enfant sera ramené au point de départ. Cette personne doit se présenter au préalable au représentant Transavia de l’aéroport concerné. Les coûts de ce service sont de 50 euros par enfant et par trajet.
+* Les enfants de 5 à 11 ans peuvent voyager seuls. Pour ce faire, ils doivent être enregistrés auprès du Centre de services Transavia (voir le site Web pour les coordonnées). Transavia organisera alors un accompagnement vers et depuis l’avion. Le chef de cabine accueille à bord l’enfant voyageant seul et en est responsable pendant le vol. Une fois à destination, le chef de cabine remet l’enfant à la responsabilité du représentant Transavia sur place. Une personne (âgée de 16 ans ou plus) doit toujours venir chercher l’enfant à l’aéroport de destination, sinon l’enfant sera ramené au point de départ. Cette personne doit se présenter au préalable au représentant Transavia de l’aéroport concerné.
 * Les enfants âgés de 12 à 16 ans sont autorisés à voyager seuls et ne bénéficieront d’aucune surveillance supplémentaire de la part du personnel de Transavia, sauf si ce service a été demandé.
 * Des exigences supplémentaires et/ou différentes s'appliquent aux enfants ayant la nationalité italienne et/ou espagnole, ainsi qu'aux enfants de nationalité étrangère, non portugaise, voyageant vers et depuis le Portugal. Ces exigences peuvent être consultées à l'article 7 des Conditions de transport de Transavia.
+* Le coût du service d’accompagnement d’un UM est variable en fonction des destinations et est facturé à partir de 55 euros par aller et par enfant, en complément du billet d’avion.
 
 Seuls les passagers âgés de 16 ans et plus peuvent accompagner les enfants de moins de 12 ans.
 
