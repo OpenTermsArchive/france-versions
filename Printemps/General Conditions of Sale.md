@@ -1,6 +1,6 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-tout)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-tout)
     
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
@@ -85,6 +85,7 @@
     * [Dyson](https://www.printemps.com/fr/fr/univers-dyson?ap_source=anico&ap_medium=nav-new&ap_campaign=dyson)
     * [Jott](https://www.printemps.com/fr/fr/jott-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=jott)
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=dragon_diffusion)
+    * [Patagonia](https://www.printemps.com/fr/fr/patagonia-homme?ap_source=anico&ap_medium=nav-new&ap_campaign=patagonia)
     * [Armor-lux](https://www.printemps.com/fr/fr/armor-lux-femme?ap_source=anico&ap_medium=nav-new&ap_campaign=amor_lux)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/nouveautes/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-new&ap_campaign=polo_ralph)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/nouveautes/mrk/TOMMY+HILFIGER?ap_source=anico&ap_medium=nav-new&ap_campaign=tommy_hilfiger)
@@ -98,7 +99,7 @@
     * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-new&ap_campaign=makeit_shine)
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-new&ap_campaign=edito_manteaux)
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-femme)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
@@ -195,8 +196,10 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
 * [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette-soldes)
     
+* [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sale)
+    
 
-* [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
+* [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
@@ -289,10 +292,12 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme?ap_source=anico&ap_medium=navigation&ap_campaign=alexandermcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
+* [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
+    
 * [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-beaute)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-beaute)
     * [Parfums](https://www.printemps.com/fr/fr/soldes-beaute/esp/Parfum)
     * [Soins](https://www.printemps.com/fr/fr/soldes-beaute/esp/Soin)
