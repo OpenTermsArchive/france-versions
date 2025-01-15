@@ -41,7 +41,6 @@
     * [\-50%](https://www.printemps.com/fr/fr/soldes/sld/-50%25/-45%25)
     * [\-60%](https://www.printemps.com/fr/fr/soldes/sld/-60%25/-55%25)
     * [\-70%](https://www.printemps.com/fr/fr/soldes/sld/-70%25/-65%25)
-    * [\-80%](https://www.printemps.com/fr/fr/soldes/sld/-80%25/)
 
 * [Top marques](https://www.printemps.com/fr/fr/soldes)
     * [Jacquemus](https://www.printemps.com/fr/fr/soldes/mrk/JACQUEMUS/)
@@ -194,8 +193,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-* [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette-soldes)
-    
 * [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sale)
     
 
@@ -293,8 +290,6 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
 * [![](https://media-cdn.printemps.com/image/61/8/7409618.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
-    
-* [![](https://media-cdn.printemps.com/image/05/6/7374056.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
     
 
 * [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-beaute)
