@@ -315,7 +315,7 @@ Concernant les modalités de paiement du Billet de Train, celles-ci sont disponi
 
 BlaBlaCar peut prélever, en contrepartie de l’utilisation de la Plateforme, des frais de service à ses utilisateurs (ci-après, les « Frais de Service »). L’utilisateur sera informé avant toute application de Frais de Service le cas échéant.
 
-Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/les-frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
+Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
 
 En ce qui concerne les trajets transfrontaliers, les modalités de calcul du montant des Frais de Service et des taxes applicables varient selon la résidence du Membre.
 
