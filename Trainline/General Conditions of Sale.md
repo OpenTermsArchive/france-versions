@@ -269,7 +269,7 @@ Toute personne ayant réservé un billet Eurostar vers ou depuis Londres doit fo
 
 Il vous incombe de saisir vos API et de vous assurer qu'elles sont correctes.
 
-Pour saisir vos API, accédez à « Mes réservations » sur le Web ou à « Mes billets » sur votre app Trainline. Vous ne pourrez pas télécharger vos billets tant que vous n'aurez pas saisi vos API. Vous devrez donc le faire pour pouvoir voyager. Vous devrez toujours vous munir de votre passeport lorsque vous voyagerez.
+Pour saisir vos API, accédez à « Mes billets » sur le site Web ou votre app Trainline. Vous ne pourrez pas télécharger vos billets tant que vous n'aurez pas saisi vos API. Vous devrez donc le faire pour pouvoir voyager. Vous devrez toujours vous munir de votre passeport lorsque vous voyagerez.
 
 Si vous faites une réservation de groupe, tous les passagers doivent soumettre leurs API pour que les billets du groupe puissent être téléchargés. Si un membre de votre réservation de groupe ne voyage plus et ne soumet donc pas ses API, veuillez vous rendre sur le site Web d'Eurostar pour récupérer les autres billets du groupe.
 
