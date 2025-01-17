@@ -176,7 +176,7 @@ Online purchase
 
 Loyalty program and partners
 
-* [Flying Blue](https://www.flyingblue.com/index.html)
+* [FlyingBlue](https://www.flyingblue.com/index.html)
 * [Transavia](https://www.transavia.com/)
 * [KLM](http://www.klm.com/)
 * [SkyTeam](https://www.skyteam.com/)
@@ -200,26 +200,32 @@ Air France app
 
 Fly From
 
-* [Hong Kong](https://www.airfrance.com.hk/flights/departure-hong-kong)
+* [London](https://wwws.airfrance.co.uk/en-gb/flights-from-london)
+* [Manchester](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester)
+* [Birmingham](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham)
 
 #### Fly to France
 
 Fly to France
 
-* [Flight Hong Kong - Paris](https://www.airfrance.com.hk/flights/hong-kong+paris)
-* [Flight Hong Kong - Nice](https://www.airfrance.com.hk/flights/hong-kong+nice)
-* [Flight Hong Kong - Marseille](https://www.airfrance.com.hk/flights/hong-kong+marseille)
+* [Flight Manchester - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-paris)
+* [Flight London - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-paris)
+* [Flight Birmingham - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-birmingham-to-paris)
+* [Flight Edinburgh - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-edinburgh-to-paris)
+* [Flight Southampton - Paris](https://wwws.airfrance.co.uk/en-gb/flights-from-southampton-to-paris)
 
 #### Fly Worldwide
 
 Fly Worldwide
 
-* [Flight Hong Kong - New York](https://www.airfrance.com.hk/flights/hong-kong+new-york)
-* [Flight Hong Kong - Rome](https://www.airfrance.com.hk/flights/hong-kong+rome)
-* [Flight Hong Kong - London](https://www.airfrance.com.hk/flights/hong-kong+london)
-* [Flight Hong Kong - Berlin](https://www.airfrance.com.hk/flights/hong-kong+berlin)
+* [All flights](https://wwws.airfrance.co.uk/en-gb/)
+* [Flight Manchester - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-manchester-to-hong-kong)
+* [Flight London - Johannesburg](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-johannesburg)
+* [Flight London - New York](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-new-york)
+* [Flight London - Hong Kong](https://wwws.airfrance.co.uk/en-gb/flights-from-london-to-hong-kong)
 
 * [Legal information](https://wwws.airfrance.fr/information/legal)
+* [Service address](https://wwws.airfrance.fr/information/legal/address-for-service)
 * [Privacy policy](https://wwws.airfrance.fr/information/legal/edito-psc)
 * [Accessibility statement](https://wwws.airfrance.fr/information/legal/accessibilite)
 * Cookie settings
