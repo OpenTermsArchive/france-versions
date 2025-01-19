@@ -429,11 +429,6 @@
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs?ap_source=anico&ap_medium=navigation&ap_campaign=marc-jacobs)
     * [Michael Kors](https://www.printemps.com/fr/fr/michael-kors?ap_source=anico&ap_medium=navigation&ap_campaign=michael-kors-top-marque)
 
-* [NOËL](https://www.printemps.com/fr/fr/printemps-express)
-    * [Printemps Express : toute l'actualité de Noël](https://www.printemps.com/fr/fr/edito-magasin-printemps-express-noel-2024)
-    * [Le grand jeu de Noël : gagnez un voyage d'exception](https://www.printemps.com/fr/fr/edito-magasins-noel-continents-insolites-jeu-concours-2024)
-    * [Réservez votre atelier](https://evenements.printemps.com/)
-
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
     * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
