@@ -1,36 +1,60 @@
 **Résumé des Conditions Générales de Vente**
+============================================
 
 Les Conditions Générales de Vente vous donnent un aperçu de nos prestations sur Zalando.de. Nos offres s’adressent exclusivement aux consommateurs qui effectuent un achat à des fins privées. Nous vous offrons une expérience de shopping et de service personnalisée pour les articles Zalando, les articles partenaires Zalando et les articles Zalando Pre-owned. Les articles partenaires de Zalando sont signalés comme tels et proviennent de commerçants professionnels, tandis que les articles Zalando Pre-owned sont des articles d’occasion et sont également signalés de manière spécifique.
 
-**1\. Concernant la conclusion du contrat :**  
+**1\. Concernant la conclusion du contrat :**
+---------------------------------------------
+
 en passant une commande sur le site Internet de Zalando, vous déclarez agir exclusivement à des fins privées. Votre partenaire contractuel est soit Zalando SE, soit le partenaire Zalando concerné, selon le type de produits que vous commandez. Le contrat prend effet lorsque vous cliquez sur le bouton d’achat et que vous recevez la confirmation de commande. Nous nous réservons le droit de refuser ou d’annuler les commandes générées par des programmes automatiques ou des services de tiers.
 
-**2\. Concernant les prix, les frais d’expédition et les conditions de livraison :**Les prix indiqués au moment de la commande sont des prix finaux, incluant la TVA en vigueur. Les frais de livraison sont pris en charge par Zalando, sauf s’il s’agit de modes de livraison spécifiques indiqués lors de la commande, comme par exemple la livraison express. En outre, des frais de livraison peuvent être facturés pour les commandes inférieures au montant minimum. Vous serez informé(e) du montant avant de passer votre commande et recevrez de plus amples informations à ce sujet dans les CGV détaillées.
+**2\. Concernant les prix, les frais d’expédition et les conditions de livraison :**
+------------------------------------------------------------------------------------
 
-**3\. Concernant les différentes méthodes de paiement :**différentes options de paiement sont proposées, par exemple paiement anticipé, carte de crédit, facture ou Paypal. Les modes de paiement effectivement possibles au moment concret de la commande peuvent varier et vous serez informé(e) des modes de paiement concrètement proposés avant de passer votre commande.
+Les prix indiqués au moment de la commande sont des prix finaux, incluant la TVA en vigueur. Les frais de livraison sont pris en charge par Zalando, sauf s’il s’agit de modes de livraison spécifiques indiqués lors de la commande, comme par exemple la livraison express. En outre, des frais de livraison peuvent être facturés pour les commandes inférieures au montant minimum. Vous serez informé(e) du montant avant de passer votre commande et recevrez de plus amples informations à ce sujet dans les CGV détaillées.
 
-**4\. Concernant l’utilisation des bons d’achat :**  
+**3\. Concernant les différentes méthodes de paiement :**
+---------------------------------------------------------
+
+différentes options de paiement sont proposées, par exemple paiement anticipé, carte de crédit, facture ou Paypal. Les modes de paiement effectivement possibles au moment concret de la commande peuvent varier et vous serez informé(e) des modes de paiement concrètement proposés avant de passer votre commande.
+
+**4\. Concernant l’utilisation des bons d’achat :**
+---------------------------------------------------
+
 Les bons promotionnels émis dans le cadre de campagnes publicitaires ou les bons cadeaux achetés peuvent également être utilisés dans le cadre du processus de commande. Les conditions respectives du bon s’appliquent alors.
 
-**5\. Concernant le droit de rétractation :**  
+**5\. Concernant le droit de rétractation :**
+---------------------------------------------
+
 en tant que consommateur, vous disposez d’un droit de rétractation légal. Cela signifie que vous pouvez annuler ce contrat en ligne dans un délai de 14 jours à compter de la réception de la marchandise sans donner de raison, en 1) nous informant (par ex. par e-mail ou par courrier) que vous ne souhaitez plus maintenir le contrat et 2) en nous envoyant une lettre de rétractation Nous renvoyer votre commande ou à notre partenaire. Vous trouverez toutes les autres informations concernant la rétractation dans les CGV.
 
-**6\. Concernant le droit de retour volontaire :**  
+**6\. Concernant le droit de retour volontaire :**
+--------------------------------------------------
+
 nous vous proposons un droit de retour supplémentaire que nous vous accordons volontairement et indépendamment du droit de rétractation de 14 jours. Votre droit de rétraction légal n’en est pas affecté. Pour plus d’informations sur les conditions et la durée du droit de retour volontaire, veuillez consulter les conditions générales de vente.
 
-**7\. Concernant les remboursements :**  
+**7\. Concernant les remboursements :**
+---------------------------------------
+
 Les éventuels remboursements se font automatiquement selon la manière dont vous avez payé à l’origine.
 
-**8\. Concernant le service à la clientèle :**  
-si vous avez des questions, n’hésitez pas à consulter nos [pages d’aide](https://www.zalando.fr/aide/) ou à nous [contacter](https://www.zalando.fr/aide/).
+**8\. Concernant le service à la clientèle :**
+----------------------------------------------
 
-**9\. Concernant les réclamations potentielles :**  
+Veuillez consulter nos [**pages d'aide ou contacter notre service client via ce lien**](https://www.zalando.fr/contact/) si vous avez des questions.
+
+**9\. Concernant les réclamations potentielles :**
+--------------------------------------------------
+
 Nous avons mis en place une procédure de signalement et de plainte pour examiner les contenus potentiellement illicites. Si vous n’êtes pas d’accord avec notre décision, vous disposez de plusieurs voies de recours
 
-**10\. Autres :**  
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [télécharger](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1b04c398-fde1-49b7-b397-113e0b4b4e81.pdf) et d’archiver les CGV.**  
-  
-Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
+**10\. Autres :**
+-----------------
+
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)
+
+**Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
+----------------------------------------------------------------------------------
 
 Via notre site, nous vous offrons la possibilité de nous signaler les produits ou bien les contenus qui, selon vous, ne sont pas conformes avec les lois en vigueur ou avec nos conditions d’utilisation (signalement). Nous étudierons le contenu de ces signalements et nous vous informerons du résultat. Si jamais nous décidions de ne prendre aucune mesure à cet égard, vous avez la possibilité de faire examiner cette décision (réclamation). En outre, vous avez également la possibilité de régler des litiges à l’amiable, ou bien d’utiliser les voies de droit ordinaires.
 
@@ -44,11 +68,12 @@ Avant de suspendre le traitement des signalements et des plaintes, nous enverron
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[PDF Download](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1b04c398-fde1-49b7-b397-113e0b4b4e81.pdf)  
-  
-Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.  
-  
-**Les offres figurant sur notre site web www.zalando.fr s’adressent exclusivement aux consommateurs concluant la vente dans un objectif qui ne peut être imputé à leur activité commerciale ou professionnelle.**
+[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.
+
+### **Les offres figurant sur notre site web www.zalando.fr s’adressent exclusivement aux consommateurs concluant la vente dans un objectif qui ne peut être imputé à leur activité commerciale ou professionnelle.**
 
 Sur [www.zalando.fr](http://www.zalando.fr/), nous vendons des articles Zalando, des articles de partenaires de Zalando ainsi que des articles de seconde-main. 
 
@@ -59,11 +84,13 @@ Les articles Partenaire Zalando sont les articles pour lesquels le nom d’un pa
 Les articles de seconde-main de Zalando correspondent aux articles que nous proposons à la vente sur [www.zalando.fr](http://www.zalando.fr/), lesquels sont identifiés comme étant des articles de seconde-main.
 
 **1\. CHAMP D’APPLICATION**
+---------------------------
 
 **1.1** Les présentes Conditions Générales de Vente s’appliquent à toutes les commandes passées par des consommateurs sur site www.zalando.fr.  
 **1.2** Vous reconnaissez avoir pris connaissance, préalablement à l’envoi de votre commande, des présentes Conditions Générales de Vente et avoir eu communication de toutes les informations listées à l’article L.221-5 du Code de la consommation d’une manière lisible et compréhensible. La validation de votre commande vaut acceptation sans réserve des présentes Conditions Générales de Vente.
 
 **2\. CONCLUSION DU CONTRAT ET LIVRAISON DES ARTICLES**
+-------------------------------------------------------
 
 **2.1** En passant une commande, vous déclarez agir exclusivement à des fins privées.  
 **2.2** Sur le site www.zalando.fr, les contrats sont exclusivement conclus en langue française.  
@@ -76,6 +103,7 @@ Les articles de seconde-main de Zalando correspondent aux articles que nous prop
 **2.9** Nous nous réservons le droit de ne pas accepter une commande ou d’annuler une commande si celle-ci a été passée en utilisant des logiciels, des robots, des collecteurs (web crawlers), des robots d’indexation (web spiders) ou un système automatisé ou un comportement scripté, quel qu’il soit, et en faisant appel à des services de tiers pour passer une commande en votre nom.
 
 **3\. PRIX, FRAIS DE LIVRAISON ET LIVRAISON EXPRESS**
+-----------------------------------------------------
 
 **3.1** Les produits sont facturés sur la base des prix indiqués dans l’offre au moment de la commande. Les prix indiqués sont les prix définitifs, toutes taxes comprises au taux légal en vigueur. La marchandise demeure notre propriété jusqu’au paiement intégral du prix de vente. En cas de vente d’articles Partenaire Zalando la marchandise demeure la propriété du Partenaire Zalando jusqu’au paiement intégral du prix de vente. Toutefois, le transfert de risques a lieu une fois que l’article vous a été remis physiquement ou au tiers que vous avez désigné.  
 **3.2** Les prix des produits affichés sur www.zalando.fr s’entendent hors frais de livraison. En effet, en fonction du montant de votre commande ou de la méthode de livraison que vous avez sélectionnée, les frais de livraison peuvent vous être facturés (cf. 3.3 et 3.4).  
@@ -86,6 +114,7 @@ l’envoi, du traitement et d’autres services. Les coûts sont facturés et pe
 notre formulaire de contact accessibles depuis notre rubrique d'Aide & Contact : [www.zalando.fr/faq/](https://www.zalando.fr/faq/).
 
 **4\. PAIEMENT**
+----------------
 
 **4.1** Nous acceptons les modes de paiement suivants : virement bancaire, carte de crédit, et système de paiement sécurisé PayPal. En fonction de chaque commande, nous nous réservons cependant le droit de ne pas proposer certains modes de paiement ou d’en proposer d’autres. Nous acceptons uniquement les paiements à partir de comptes bancaires tenus dans l’Union Européenne (UE). Tous frais liés à votre paiement sont à votre charge.  
 **4.2** En cas d’achat par carte de crédit, votre compte est débité le jour de l’expédition de votre commande.  
@@ -93,6 +122,7 @@ notre formulaire de contact accessibles depuis notre rubrique d'Aide & Contact :
 **4.4** Avec notre offre Try First, Pay Later, nous proposons les modes de paiement différé suivants :Le débit de votre carte de crédit s’effectue soit après l’annonce d’un retour de marchandises, soit après l’arrivée des marchandises retournées, sinon dix-huit (18) jours après la commande.Nous accordons une prorogation d’échéance de quatorze (14) jours à compter de l’expédition des marchandises. Dans ce cas, vous serez informé(e) par courriel de l’échéance concrète. Dans ce courriel, vous trouverez également un lien vous permettant de choisir le mode de paiement que vous souhaitez (art. 4.1).Pour chaque commande, nous nous réservons le droit de ne pas proposer Try First, Pay Later ou de le limiter à l’un des modes de paiement mentionnés.
 
 **5\. UTILISATION DES BONS DE REDUCTION**
+-----------------------------------------
 
 **5.1** Les bons de réduction sont uniquement distribués gratuitement dans le cadre d’actions promotionnelles. Ils ont une date limite de validité, ne peuvent pas être achetés et ne sont pas transmissibles.  
 **5.2** Les coupons de réduction sont valables seulement pendant la période indiquée et sont utilisables une seule fois dans le cadre d’une seule commande. Certains produits peuvent être exclus du bénéfice des coupons de réduction. Un coupon de réduction ne peut pas être utilisé pour l’achat de chèques cadeaux. Un montant minimum d’achat peut être précisé pour chaque bon de réduction.  
@@ -101,10 +131,11 @@ notre formulaire de contact accessibles depuis notre rubrique d'Aide & Contact :
 **5.5** Si vous avez utilisé un bon de réduction lors de votre achat, nous nous réservons le droit de vous facturer le prix non réduit de la marchandise lorsque, en raison d'une rétractation partielle, le montant total de la commande résiduelle est inférieur ou égal à la valeur du bon de réduction.
 
 **6\. Conditions d’utilisation des cartes cadeaux Zalando**
+-----------------------------------------------------------
 
 **6.1** Les cartes cadeaux Zalando sont émises par Zalando Payments GmbH Zalando Payments GmbH est un établissement de monnaie électronique agréé en Allemagne. **Cependant, les cartes cadeaux Zalando ne sont pas de la monnaie électronique.**  
 Les cartes cadeaux Zalando ne sont pas de la monnaie électronique mais des valeurs stockées non réglementées. Cela signifie que les cartes cadeauxZalando ne sont pas contrôlées par l’autorité de surveillance compétente et que la protection légale de l’argent électronique ne s’applique pas. En particulier, vous n’avez pas le droit de demander un remboursement en espèces.  
-**6.2** Les cartes cadeaux Zalando peuvent être échangées sur [www.zalando.fr](http://www.zalando.fr/) et sur l’application Zalando pour l’achat de produits éligibles, proposés par Zalando SE ou d’autres vendeurs (Partenaires Zalando). Les biens et services éligibles sont les produits qui servent à l’apparence d’une personne (par ex., les vêtements, les chaussures)**.** Les détails sont disponibles [ici.](https://www.zalando.fr/aide/Promotions-and-cartes-cadeaux/what-can-i-use-my-gift-card-for.html) Une carte cadeau Zalando ne peut pas être utilisée pour acheter une autre carte cadeau Zalando.  
+**6.2** Les cartes cadeaux Zalando peuvent être échangées sur [www.zalando.fr](http://www.zalando.fr/) et sur l’application Zalando pour l’achat de produits éligibles, proposés par Zalando SE ou d’autres vendeurs (Partenaires Zalando). Les biens et services éligibles sont les produits qui servent à l’apparence d’une personne (par ex., les vêtements, les chaussures)**.** Voici les détails disponibles sous ce lien : **«** [**Que puis-je faire avec ma carte cadeau ?**](https://www.zalando.fr/aide/Promotions-and-cartes-cadeaux/what-can-i-use-my-gift-card-for.html) »[.](https://www.zalando.fr/aide/Promotions-and-cartes-cadeaux/what-can-i-use-my-gift-card-for.html) Une carte cadeau Zalando ne peut pas être utilisée pour acheter une autre carte cadeau Zalando.  
 **6.3** Les cartes cadeaux Zalando sont valables pour une période limitée de 5 ans à compter de la date d’achat. Le remboursement en espèces ou en cas de perte ou de détérioration n’est pas possible.  
 **6.4** Les cartes cadeaux Zalando sont limitées à une valeur maximale de € 150,- par carte cadeau Zalando et à une valeur maximale de € 150,- par carte cadeau Zalando par achat. Il est possible d’utiliser plusieurs cartes cadeaux Zalando par achat jusqu’à un montant maximum de € 150,-. Le montant restant sur vos cartes cadeaux Zalando peut être utilisé pour des achats ultérieurs, la valeur maximale des cartes cadeaux pouvant être utilisée par mois est limitée à € 5.000,-. La valeur maximale des cartes cadeaux qui peuvent être connectées à votre compte client par mois est limitée à € 5.000,-.  
 **6.5** La carte cadeau Zalando est généralement activée dans les 24 heures suivant l’achat.  
@@ -112,6 +143,7 @@ Les cartes cadeaux Zalando ne sont pas de la monnaie électronique mais des vale
 **6.7** Si vous annulez votre commande ou retournez des marchandises pour lesquelles vous avez échangé une carte cadeau Zalando, le montant payé sera remboursé sur votre carte cadeau Zalando et mis à disposition pour de futurs achats. Si vous retournez des marchandises qui ont été partiellement payées avec une carte cadeau Zalando, le prix d’achat de toute marchandise éligible conservée ayant pu être achetée avec la carte cadeau Zalando sera d’abord payé par le remboursement de la carte cadeau Zalando et tout montant de remboursement restant, le cas échéant, sera remboursé sur l’autre méthode de paiement appliquée.
 
 **7\. DROIT DE RETRACTATION LEGAL LORS DE L’ACHAT D’UN ARTICLE ZALANDO**
+------------------------------------------------------------------------
 
 Lors de l’achat d’articles Zalando vous bénéficiez d’un droit de rétractation légal.Veuillez noter que pour tout retour de marchandise, vous pouvez utiliser l’étiquette de retour qui est jointe à votre commande ou que vous pourrez éditer à partir de votre compte client. Si vous ne disposez pas d’une imprimante, ou avez des difficultés à télécharger l’étiquette de retour ou avez besoin d’une nouvelle étiquette, vous pouvez vous adresser à notre service client, dont les coordonnées figurent ci-après. Afin d’éviter des frais inutiles, nous vous prions de ne pas renvoyer la marchandise sans l’étiquette de retour.  
 7.1 Informations relatives au droit de rétractation:Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze (14) jours. Le délai de rétractation expire quatorze (14) jours après le jour où vous-même, ou un tiers autre que le transporteur et désigné par vous, prend physiquement possession du bien ou du dernier bien en cas de livraison partielle.Pour exercer le droit de rétractation, vous devez nous (Zalando SE, Valeska-Gert-Straße 5, 10243 Berlin, Allemagne, Télécopie : +49 (0)30 2759 46 93, Téléphone : 01 82 88 49 63, courriel: retractation@zalando.fr) notifier votre décision de rétractation du présent contrat au moyen d’une déclaration claire (par exemple, lettre envoyée par la poste, télécopie ou courrier électronique). Les informations de contact respectives sont également disponibles sur la page de détail de chaque produit en cliquant sur le nom du partenaire et en faisant dérouler les informations de révocation sur la fenêtre pop-up affichée sur la page. Vous pouvez utiliser le formulaire de rétractation ci-après, mais ce n’est pas obligatoire.  
@@ -121,15 +153,20 @@ Vous pouvez également remplir et transmettre le formulaire de rétractation ou 
   
 (ii)             les produits ne doivent pas avoir été utilisés, ouverts ou endommagés;  
   
-(iii)            les produits doivent être retournés intacts et non utilisés dans leur emballage d’origine. Le cas échéant, l’emballage devra conserver le scellé d’origine.  
-  
-**7.2 Exception à l’application du droit de rétractation**  
-**Conformément à l’article L. 221-28 alinéa 5 du code de la consommation, le droit de rétractation légal est exclu dans le cas d’articles scellés qui ont été ouverts après leur livraison et qui ne peuvent être retournés pour des raisons de santé ou d’hygiène.**  
-**7.3 Effets de la rétractation**  
+(iii)            les produits doivent être retournés intacts et non utilisés dans leur emballage d’origine. Le cas échéant, l’emballage devra conserver le scellé d’origine.
+
+### **7.2 Exception à l’application du droit de rétractation**
+
+**Conformément à l’article L. 221-28 alinéa 5 du code de la consommation, le droit de rétractation légal est exclu dans le cas d’articles scellés qui ont été ouverts après leur livraison et qui ne peuvent être retournés pour des raisons de santé ou d’hygiène.**
+
+### **7.3 Effets de la rétractation**
+
 En cas de rétractation valable, nous vous rembourserons tous les paiements reçus de votre part, y compris les frais de livraison (à l’exception des frais de livraison Express) sans délai et au plus tard dans un délai de quatorze (14) jours à compter du jour où nous avons eu connaissance de votre déclaration de rétractation. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé, sauf si nous convenons expressément d’un moyen de paiement différent. Le remboursement est sans frais pour vous. Nous nous réservons le droit de différer le remboursement jusqu’à ce que nous ayons reçu le bien ou jusqu’à ce que vous ayez fourni une preuve d’expédition du bien, la date retenue étant celle du premier de ces évènements.Vous devrez nous renvoyer ou nous restituer la marchandise sans délai et, en tout état de cause, au plus tard dans un délai de quatorze (14) jours à compter du jour où vous nous aurez communiqué votre déclaration de rétractation.  
 Ce délai est respecté si vous expédiez la marchandise avant l’expiration du délai. Nous prenons en charge les frais de retour si vous utilisez l’étiquette de retour mise à votre disposition pour un retour au sein du territoire français. Dans tous les autres cas, les frais de retour sont à votre charge.  
-Vous devez prendre en charge la perte de la valeur de la marchandise retournée si cette perte de valeur est due à des manipulations autres que celles qui sont nécessaires pour s’assurer de la nature, des caractéristiques et du fonctionnement correct de la marchandise.  
-**7.4 Modèle de formulaire de rétractation**  
+Vous devez prendre en charge la perte de la valeur de la marchandise retournée si cette perte de valeur est due à des manipulations autres que celles qui sont nécessaires pour s’assurer de la nature, des caractéristiques et du fonctionnement correct de la marchandise.
+
+### **7.4 Modèle de formulaire de rétractation**
+
 (Si vous souhaitez vous rétracter du présent contrat, veuillez remplir ce formulaire et nous le retourner) A Zalando SE, Valeska-Gert-Straße 5, 10243 Berlin, Allemagne, Télécopie : +49 (0)30 2759 46 93, courriel : retraction@zalando.frn@zalando.fr  
 Je/nous (\*) notifie/notifions par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/ ci-dessous  
 — Commandé le (\*)/reçu le (\*)  
@@ -142,11 +179,14 @@ Signature(s) du(des) consommateur(s):
 **Fin des informations sur le droit de rétractation**
 
 **8\. DROIT DE RETRACTATION LEGAL LORS DE L’ACHAT D’UN ARTICLE PARTENAIRE ZALANDO OU D’UN ARTICLE DE SECONDE-MAIN ZALANDO**
+---------------------------------------------------------------------------------------------------------------------------
 
 Vous bénéficiez d’un droit de rétractation légal lors de l’achat d’articles Partenaire Zalando ou d’articles de seconde-main provenant du Zalando.fr..
 
-Veuillez noter que pour tout retour de marchandise de Partenaire Zalando ou de marchandise de seconde-main de Zalando, vous pouvez utiliser l’étiquette de retour qui est jointe avec votre commande ou que vous pourrez éditer à partir de votre compte client. Si vous ne disposez pas d’une imprimante, ou avez des difficultés à télécharger l’étiquette de retour ou avez besoin d’une nouvelle étiquette, vous pouvez vous adresser à notre service client, dont les coordonnées figurent ci-après. Afin d’éviter des frais inutiles, nous vous prions de ne pas renvoyer la marchandise concernée sans l’étiquette de retour.  
-**8.1 Informations relatives au droit de rétractation :**  
+Veuillez noter que pour tout retour de marchandise de Partenaire Zalando ou de marchandise de seconde-main de Zalando, vous pouvez utiliser l’étiquette de retour qui est jointe avec votre commande ou que vous pourrez éditer à partir de votre compte client. Si vous ne disposez pas d’une imprimante, ou avez des difficultés à télécharger l’étiquette de retour ou avez besoin d’une nouvelle étiquette, vous pouvez vous adresser à notre service client, dont les coordonnées figurent ci-après. Afin d’éviter des frais inutiles, nous vous prions de ne pas renvoyer la marchandise concernée sans l’étiquette de retour.
+
+### **8.1 Informations relatives au droit de rétractation :**
+
 Vous avez le droit de vous rétracter du présent contrat sans donner de motif dans un délai de quatorze (14) jours. Le délai de rétractation expire quatorze (14) jours après le jour où vous-même, ou un tiers autre que le transporteur et désigné par vous, prenez physiquement possession de l’article concerné ou du dernier article réceptionné en cas de livraison partielle.  
 Pour exercer le droit de rétractation, vous devez notifier votre décision de rétractation du contrat de vente conclu:  
 \-       lorsque l’article commandé est un article de seconde-main, à nous (Zalando SE, Valeska-Gert-Straße 5, 10243 Berlin, Allemagne, Télécopie : +49 (0)30 2759 46 93, Téléphone : 01 82 88 49 63, courriel: [retractation@zalando.fr](mailto:retractation@zalando.fr)) ;  
@@ -158,17 +198,22 @@ Cette notification devra être réalisée au moyen d’une déclaration claire (
   
 (ii)             les produits ne doivent pas avoir été utilisés, ouverts ou endommagés;  
   
-(iii)            les produits doivent être retournés intacts et non utilisés dans leur emballage d’origine. Le cas échéant, l’emballage devra conserver le scellé d’origine.  
-  
-**8.2 Exception à l’application du droit de rétractation**  
-Conformément à l’article L. 221-28 alinéa 5 du code de la consommation, le droit de rétractation légal est exclu dans le cas d’articles scellés qui ont été ouverts après leur livraison et qui ne peuvent être retournés pour des raisons de santé ou d’hygiène.  
-**8.3 Effets de la rétractation**  
+(iii)            les produits doivent être retournés intacts et non utilisés dans leur emballage d’origine. Le cas échéant, l’emballage devra conserver le scellé d’origine.
+
+### **8.2 Exception à l’application du droit de rétractation**
+
+Conformément à l’article L. 221-28 alinéa 5 du code de la consommation, le droit de rétractation légal est exclu dans le cas d’articles scellés qui ont été ouverts après leur livraison et qui ne peuvent être retournés pour des raisons de santé ou d’hygiène.
+
+### **8.3 Effets de la rétractation**
+
 En cas de rétractation valable, nous vous rembourserons tous les paiements reçus de votre part, y compris les frais de livraison (à l’exception des frais supplémentaires découlant du fait que vous avez choisi, le cas échéant, un mode de livraison autre que la livraison standard) sans délai et, au plus tard, dans un délai de quatorze (14) jours à compter du jour où nous avons eu connaissance de votre déclaration de rétractation. Nous procéderons au remboursement en utilisant le même moyen de paiement que celui que vous aurez utilisé, sauf si nous convenons expressément d’un moyen de paiement différent. Le remboursement est sans frais pour vous. Nous nous réservons le droit de différer le remboursement jusqu’à ce que nous ou le Partenaire Zalando ayons/ait reçu le bien ou jusqu’à ce que vous ayez fourni une preuve d’expédition du bien, la date retenue étant celle du premier de ces évènements.  
 Vous devrez renvoyer ou restituer la marchandise, à nous ou au Partenaire Zalando, sans délai et, en tout état de cause, au plus tard dans un délai de quatorze (14) jours à compter du jour où vous nous aurez communiqué votre déclaration de rétractation.  
 Un lien vers la page contenant des informations sur l’identité du Partenaire Zalando concerné et ses coordonnées figure sur chaque page produit concernée. Vous trouverez également ces coordonnées dans les informations sur le droit de rétractation que nous joignons sous forme de document au format PDF à nos confirmations de commande.  
 Ce délai est respecté si vous expédiez la marchandise avant l’expiration du délai. Nous prenons en charge les frais de retour si vous utilisez l’étiquette de retour mise à votre disposition pour un retour au sein du territoire français. Dans tous les autres cas, les frais de retour sont à votre charge.  
-Vous devez prendre en charge la perte de la valeur de la marchandise retournée si cette perte de valeur est due à des manipulations autres que celles qui sont nécessaires pour s’assurer de la nature, des caractéristiques et du fonctionnement correct de la marchandise.  
-**8.4 Modèle de formulaire de rétractation**  
+Vous devez prendre en charge la perte de la valeur de la marchandise retournée si cette perte de valeur est due à des manipulations autres que celles qui sont nécessaires pour s’assurer de la nature, des caractéristiques et du fonctionnement correct de la marchandise.
+
+### **8.4 Modèle de formulaire de rétractation**
+
 (Si vous souhaitez vous rétracter du présent contrat, veuillez remplir ce formulaire et nous le retourner) A Zalando SE, Valeska-Gert-Straße 5, 10243 Berlin, Allemagne, Télécopie : +49 (0)30 2759 46 93, Téléphone : 01 82 88 49 63, courriel : retractation@zalando.fr (ou le partenaire respectif).  
 Je/nous (\*) notifie/notifions par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*)/ ci-dessous  
 — Commandé le (\*)/reçu le (\*)  
@@ -181,6 +226,7 @@ Signature(s) du(des) consommateur(s):
 **Fin des informations sur le droit de rétractation**
 
 **9\. DROIT DE RETOUR DE 30 JOURS**
+-----------------------------------
 
 **9.1** Sans préjudice du droit de rétractation légal dont vous bénéficiez, nous vous accordons un droit de retour étendu à trente (30) jours à compter de la réception de la marchandise. Au titre de ce droit de retour, vous pouvez annuler votre commande même après expiration du délai de rétractation légal de quatorze (14) jours (cf. les informations ci-dessus concernant l’exercice du droit de rétractation légal). Le droit de retour est exercé, s’agissant des articles Zalando ou des articles de seconde-main Zalando en nous retournant la marchandise, ou, s’agissant d’un article Partenaire Zalando, en retournant celui-ci au Partenaire Zalando, dans un délai de trente (30) jours à compter de la réception de la marchandise. Les dispositions légales en matière de rétractation s’appliquent uniquement jusqu’à l’expiration du délai de rétractation légal. Le droit de retour n’affecte pas vos droits en matière de garantie légale et de conformité dont vous bénéficiez sans restriction. Le droit de retour est exclu en cas d’achat de chèques cadeaux.  
 **9.2** Le droit de retour de trente (30) jours n’aura pas vocation à s’appliquer pour les produits scellés qui ont été ouverts après leur livraison ou pour lesquels le scellé a été endommagé.  
@@ -190,10 +236,12 @@ Signature(s) du(des) consommateur(s):
 **9.6** Vous serez redevable du remplacement de l’emballage d’origine dans le cas où ce dernier aurait été perdu. Dans cette situation, vous pourrez choisir d’accepter un remboursement partiel en raison de la baisse de valeur de l’article retourné sans emballage d’origine, dont nous vous communiquerons le montant, ou de récupérer les produits à vos frais. Dans ce dernier cas, si vous refusez cette livraison, nous nous réservons le droit de conserver l’article et le montant spécifié pour le remboursement partiel en raison de la baisse de valeur de l’article retourné.
 
 **10\. REMBOURSEMENT**
+----------------------
 
 Tout remboursement éventuel de notre part se fera sur le compte que vous aurez utilisé pour effectuer le paiement. En cas de paiement par virement bancaire, la somme est reversée sur le compte à partir duquel le virement a été effectué. Si vous avez payé par PayPal ou carte de crédit, la somme vous sera remboursée sur le compte bancaire lié à ce moyen de paiement. En cas de paiement par chèque cadeau, nous créditons votre compte client du montant correspondant.
 
 **11\. MODERATION DES AVIS**
+----------------------------
 
 Conformément aux dispositions de l’article 6, I, 7° de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l’économie numérique, Zalando n’est pas soumise à une obligation générale de surveillance des commentaires postés sur la plateforme Zalando.  
 Néanmoins, Zalando réalise une modération des avis publiés sur la plateforme Zalando afin de s’assurer de leur licéité et de leur probité.  
@@ -214,10 +262,12 @@ Dans ce cadre, Zalando se réserve le droit de ne pas publier des avis et/ou de 
 ou (x) sont considérés par Zalando comme étant inappropriés.
 
 **12\. SERVICE CLIENT**
+-----------------------
 
-En cas de questions, veuillez consulter la section ["Aide"](https://www.zalando.fr/aide/) de [notre site](https://www.zalando.fr/contact/).
+Veuillez consulter nos [**pages d'aide ou contacter notre service client via ce lien**](https://www.zalando.fr/contact/).
 
 **13\. GARANTIES LEGALES**
+--------------------------
 
 Les ventes passées à travers le site [www.zalando.fr](https://www.zalando.fr/) sont soumises aux conditions de la garantie légale de conformité prévue aux articles L.217-4 et suivants du code de la consommation ainsi qu’à la garantie légale des vices cachés consacrée aux articles 1641 et suivants du Code civil. Vous pouvez exercer ces garanties en adressant votre demande à Zalando SE, Valeska-Gert-Straße 5, 10243 Berlin, Allemagne ou à l’adresse e-mail ou au numéro de fax indiqué(e) à l’article 11 ainsi que, lorsque l’article objet de l’une desdites garanties est un article Partenaire Zalando, au partenaire Zalando concerné.  
 Dans le cadre de la garantie légale de conformité, nous vous rappelons que vous :  
@@ -230,36 +280,50 @@ Dans le cadre de la garantie légale de conformité, nous vous rappelons que vou
   
 La garantie légale de conformité s’applique indépendamment de toute garantie commerciale qui vous est éventuellement consentie par nous ou le partenaire Zalando concerné.  
 S’agissant de merchandise de seconde-main de Zalando, Zalando souhaite vous rappeler qu’ils correspondent à des articles d’occasion. Dès lors, les signes habituels d’utilisation qui peuvent être raisonnablement attendus d’un article de seconde-main ne sauraient constituer un défaut de conformité. Ainsi, pour les marques d’utilisation dont il est fait état dans la description de l’article concerné, la garantie légale de conformité ne peut être mise en œuvre.  
-En outre, vous pouvez décider de mettre en œuvre la garantie contre les vices cachés conformément aux dispositions de l’article 1641 du code civil. Dans cette situation, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à 1644 du code civil.  
-  
-**Article L. 217-4 du code de la consommation**  
-Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l’emballage, des instructions de montage ou de l’installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.  
-**Article L. 217-5 du code de la consommation**  
-Le bien est conforme au contrat : 1/ S'il est propre à l’usage habituellement attendu d’un bien semblable et, le cas échéant: - s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l’acheteur sous forme d'échantillon ou de modèle ; - s’il présente les qualités qu’un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l’étiquetage ; 2/ Ou s’il présente les caractéristiques définies d’un commun accord par les parties ou est propre à tout usage spécial recherché par l’acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.  
-**Article L. 217-12 du code de la consommation**  
-L’action résultant du défaut de conformité se prescrit par deux (2) ans à compter de la délivrance du bien.  
-**Article L. 217-16 du code de la consommation**  
-Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention.  
-**Article 1641 du code civil**  
-Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l’usage auquel on la destine, ou qui diminuent tellement cet usage que l’acheteur ne l’aurait pas acquise, ou n’en aurait donné qu’un moindre prix, s’il les avait connus.  
-**Article 1648 alinéa 1er du code civil  
-**L’action résultant des vices rédhibitoires doit être intentée par l’acquéreur dans un délai de deux ans à compter de la découverte du vice.
+En outre, vous pouvez décider de mettre en œuvre la garantie contre les vices cachés conformément aux dispositions de l’article 1641 du code civil. Dans cette situation, vous pouvez choisir entre la résolution de la vente ou une réduction du prix de vente conformément à 1644 du code civil.
+
+### **Article L. 217-4 du code de la consommation**
+
+Le vendeur livre un bien conforme au contrat et répond des défauts de conformité existant lors de la délivrance. Il répond également des défauts de conformité résultant de l’emballage, des instructions de montage ou de l’installation lorsque celle-ci a été mise à sa charge par le contrat ou a été réalisée sous sa responsabilité.
+
+### **Article L. 217-5 du code de la consommation**
+
+Le bien est conforme au contrat : 1/ S'il est propre à l’usage habituellement attendu d’un bien semblable et, le cas échéant: - s’il correspond à la description donnée par le vendeur et possède les qualités que celui-ci a présentées à l’acheteur sous forme d'échantillon ou de modèle ; - s’il présente les qualités qu’un acheteur peut légitimement attendre eu égard aux déclarations publiques faites par le vendeur, par le producteur ou par son représentant, notamment dans la publicité ou l’étiquetage ; 2/ Ou s’il présente les caractéristiques définies d’un commun accord par les parties ou est propre à tout usage spécial recherché par l’acheteur, porté à la connaissance du vendeur et que ce dernier a accepté.
+
+### **Article L. 217-12 du code de la consommation**
+
+L’action résultant du défaut de conformité se prescrit par deux (2) ans à compter de la délivrance du bien.
+
+### **Article L. 217-16 du code de la consommation**
+
+Lorsque l'acheteur demande au vendeur, pendant le cours de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien meuble, une remise en état couverte par la garantie, toute période d'immobilisation d'au moins sept jours vient s'ajouter à la durée de la garantie qui restait à courir. Cette période court à compter de la demande d'intervention de l'acheteur ou de la mise à disposition pour réparation du bien en cause, si cette mise à disposition est postérieure à la demande d'intervention.
+
+### **Article 1641 du code civil**
+
+Le vendeur est tenu de la garantie à raison des défauts cachés de la chose vendue qui la rendent impropre à l’usage auquel on la destine, ou qui diminuent tellement cet usage que l’acheteur ne l’aurait pas acquise, ou n’en aurait donné qu’un moindre prix, s’il les avait connus.
+
+### **Article 1648 alinéa 1er du code civil**
+
+L’action résultant des vices rédhibitoires doit être intentée par l’acquéreur dans un délai de deux ans à compter de la découverte du vice.
 
 **14\. AUTRES INFORMATIONS**
+----------------------------
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site www.zalando.fr. Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également télécharger et archiver ce document au format PDF en cliquant [ici](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/1b04c398-fde1-49b7-b397-113e0b4b4e81.pdf). Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
-**14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme : [https://www.zalando.fr/myaccount/recommendation-preferences/](https://www.zalando.fr/myaccount/recommendation-preferences/).
+**14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme :  
+Lien vers les préférences de recommandation :  
+[**https://www.zalando.fr/myaccount/recommendation-preferences/**](https://www.zalando.fr/myaccount/recommendation-preferences/)**.**
 
 **15\. REGLEMENT AMIABLE DES LITIGES**
 
 En vertu de l'article L. 612-1 du Code de la consommation « Tout consommateur a le droit de recourir gratuitement à un médiateur de la consommation en vue de la résiliation amiable du litige qui l'oppose à un professionnel. ». Sont visés les litiges de nature contractuelle, portant sur l'exécution d'un contrat de vente ou de fournitures de services, opposant un consommateur à un professionnel.En cas de difficultés, nous vous invitons à contacter préalablement notre service après-vente (cf. point 11). Si votre problème n’est pas résolu, vous pouvez recourir aux services d’un médiateur dans un délai d’un (1) an à compter de la réception de votre demande par le service après-vente, en vue du règlement extrajudiciaire du litige. A cet effet, vous pouvez vous adresser aux services de médiation suivants :  
 a)    Médiateur du e-commerce de la FEVAD à l’adresse :  
-[www.mediateurfevad.fr/index.php/espace-consommateur/](http://www.mediateurfevad.fr/index.php/espace-consommateur/)  
+[**www.mediateurfevad.fr/index.php/espace-consommateur/**](http://www.mediateurfevad.fr/index.php/espace-consommateur/)  
 b)    Site Internet de la Commission européenne visant au règlement en ligne des litiges :  
-[http://ec.europa.eu/consumers/odr/](http://ec.europa.eu/consumers/odr/)  
+[**http://ec.europa.eu/consumers/odr/**](http://ec.europa.eu/consumers/odr/)  
   
 **Zalando SE  
 **Valeska-Gert-Straße 5, D-10243 Berlin, Allemagne  
@@ -277,6 +341,7 @@ Version: 01.09.2024
 Afin de rendre son catalogue encore plus attractif, d’apporter un assortiment plus vaste et une meilleure disponibilité des produits à ses clients, Zalando a lancé le programme partenaire : la « place de marché » Zalando.
 
 **Spécificités du programme partenaire**
+----------------------------------------
 
 1.1.        Descriptif du service « programme partenaire »
 
@@ -293,7 +358,7 @@ Pour bénéficier du programme partenaire, le vendeur professionnel partenaire d
 Le consommateur doit régler le prix d’achat d’un produit provenant d’un vendeur professionnel partenaire directement auprès de Zalando. Pour ce faire, le consommateur doit choisir le mode de paiement de son choix disponible sur le site Internet[www.zalando.fr](http://www.zalando.fr/), à savoir : virement bancaire, carte de crédit, et système de paiement sécurisé PayPal.
 
 Pour certaines offres, Zalando propose des modes de paiement différés qui sont dénommées offre Try First ou Pay Later. Ces dernières sont plus précisément définies au sein des conditions générales de vente Zalando disponibles  
-à l’adresse URL :[https://www.zalando.fr/zalando-cgv/](https://www.zalando.fr/zalando-cgv/).
+à l’adresse URL :[**https://www.zalando.fr/zalando-cgv/**](https://www.zalando.fr/zalando-cgv/)**.**
 
 1.3.  Garanties
 
@@ -379,7 +444,8 @@ b) Site Internet de la Commission européenne visant au règlement en ligne des 
 
 http://ec.europa.eu/consumers/odr/
 
-2.  **Conditions de référencement, déférencement et classement des vendeurs professionnels partenaires et de leurs offres**
+**2.  Conditions de référencement, déférencement et classement des vendeurs professionnels partenaires et de leurs offres**
+---------------------------------------------------------------------------------------------------------------------------
 
 2.1.        Conditions de référencement
 
