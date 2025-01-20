@@ -232,7 +232,7 @@ Le passager qui a besoin d’assistance doit en informer l’Entreprise ferrovia
 
 L’assistance est fournie par les Entreprises ferroviaires à condition que le Passager concerné se présente au point désigné à l’heure fixée par l’Entreprise ferroviaire.
 
-Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
+Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/s/contactsupport) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
 
 **Conditions d’accessibilité :**
 
@@ -532,7 +532,7 @@ Dans le cadre d’un Trajet en Train, le Passager s’engage à se conformer aux
 
 **8.4. Signalement d’un contenu inapproprié ou illégal (mécanisme de notification et d’action)**
 
-Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
+Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/s/article/Comment-signaler-un-contenu-illicite-1729197120596).
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
@@ -658,7 +658,7 @@ Conformément aux articles du code de la consommation L.611-1 et suivant, il es
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
-Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
+Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/s/contactsupport?language=fr) accessible dans l’onglet « Aide » puis « Contact ».
 
 **16\. Mentions légales**
 -------------------------
@@ -694,7 +694,7 @@ Conformément à l’article 11 du DSA, si vous êtes membre d’autorités comp
 
 Vous pouvez nous écrire en anglais et en français.
 
-Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
+Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/s/contactsupport).
 
 **17\. Prime Covoiturage**
 --------------------------
@@ -967,7 +967,7 @@ Le passager qui a besoin d’assistance doit en informer l’Entreprise ferrovia
 
 L’assistance est fournie par les Entreprises ferroviaires à condition que le Passager concerné se présente au point désigné à l’heure fixée par l’Entreprise ferroviaire.
 
-Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/hc/en-gb/requests/new) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
+Si vous rencontrez des problèmes afin de contacter l’Entreprise ferroviaire, vous pouvez contacter BlaBlaCar via le [formulaire](https://support.blablacar.com/s/contactsupport) ou le [centre d’aide](https://support.blablacar.com/s/?language=fr).
 
 **Conditions d’accessibilité :**
 
@@ -1030,7 +1030,7 @@ Concernant les modalités de paiement du Billet de Train, celles-ci sont disponi
 
 BlaBlaCar peut prélever, en contrepartie de l’utilisation de la Plateforme, des frais de service à ses utilisateurs (ci-après, les « Frais de Service »). L’utilisateur sera informé avant toute application de Frais de Service le cas échéant.
 
-Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/les-frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
+Les modalités de calcul des Frais de Service en vigueur accessibles [ici](https://blog.blablacar.fr/lp/frais-de-service/) sont fournies à titre informatif uniquement et n’ont pas de valeur contractuelle. BlaBlaCar se réserve le droit de modifier à tout moment les modalités de calcul des Frais de Service. Ces modifications n’auront pas d’effet sur les Frais de Service acceptés par les utilisateurs avant la date de prise d’effet de ces modifications.
 
 En ce qui concerne les trajets transfrontaliers, les modalités de calcul du montant des Frais de Service et des taxes applicables varient selon la résidence du Membre.
 
@@ -1342,7 +1342,7 @@ Conformément aux articles du code de la consommation L.611-1 et suivant, il es
 
 Le site internet suivant www.economie.gouv.fr/mediation-conso comporte également toutes informations utiles en cas de litige transfrontalier.
 
-Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
+Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/s/contactsupport?language=fr) accessible dans l’onglet « Aide » puis « Contact ».
 
 **16\. Mentions légales**
 -------------------------
@@ -1881,7 +1881,7 @@ Dans le cadre d’un Trajet en Bus, le Passager s’engage à se conformer aux C
 
 **8.4. Signalement d’un contenu inapproprié ou illégal (mécanisme de notification et d’action)**
 
-Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/hc/fr/articles/16765207097117-Comment-signaler-un-contenu-illicite).
+Vous pouvez signaler tout Contenu Membre suspect, inapproprié ou illégal ou un Message tel que cela est décrit [ici](https://support.blablacar.com/s/article/Comment-signaler-un-contenu-illicite-1729197120596).
 
 BlaBlaCar, après avoir été dûment avertie conformément au présent Article ou par les autorités compétentes, supprimera dans les plus brefs délais tout Contenu Membre illégal si :
 
@@ -2007,7 +2007,7 @@ Conformément aux articles du code de la consommation L.611-1 et suivant, il es
 
 Le site internet suivant [www.economie.gouv.fr/mediation-conso comporte](https://www.economie/) également toutes informations utiles en cas de litige transfrontalier.
 
-Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/hc/fr/requests/new?ticket_form_id=360000240999) accessible dans l’onglet « Aide » puis « Contact ».
+Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter via [ce formulaire de contact](https://support.blablacar.com/s/contactsupport?language=fr) accessible dans l’onglet « Aide » puis « Contact ».
 
 **16\. Mentions légales**
 -------------------------
@@ -2041,7 +2041,7 @@ Conformément à l’article 11 du DSA, si vous êtes membre d’autorités comp
 
 Vous pouvez nous écrire en anglais et en français.
 
-Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/hc/en-gb/requests/new?category=&subcategory=).
+Sachez que cette adresse n’est pas utilisée pour communiquer avec des Membres. Si vous êtes un Membre et si vous avez une question concernant l’utilisation de BlaBlaCar, vous pouvez nous contacter via ce [formulaire de contact](https://support.blablacar.com/s/contactsupport).
 
 **17\. Prime Covoiturage**
 --------------------------
