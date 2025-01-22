@@ -174,12 +174,11 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
-    * [Tenues de fête](https://www.printemps.com/fr/fr/edito-style-tenues-de-fetes-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_tenues_de_fete)
-    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_noel)
-    * [Les bottes incontournables de 2024](https://www.printemps.com/fr/fr/edito-style-bottes-automne-2024?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-bottes-automne)
+    * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures?ap_source=anico&ap_medium=nav-femme&ap_campaign=fausse_fourrure)
+    * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-femme&ap_campaign=makeit_shine)
+    * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_manteaux)
+    * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_ski)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
-    * [Instinct animal](https://www.printemps.com/fr/fr/imprime-animal-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=instinct_animal)
-    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=comme_au_chalet)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
@@ -262,13 +261,11 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
-    * [Noël : les parfaites idées cadeaux !](https://www.printemps.com/fr/fr/edito-actu-idees-cadeaux-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-noel)
-    * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-    * [Tendance Y2K](https://www.printemps.com/fr/fr/y2k-homme)
-    * [Comme au chalet](https://www.printemps.com/fr/fr/outerwear-winter-homme?ap_source=anico&ap_medium=navigation&ap_campaign=chalet-homme)
-    * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
-    * [Chaud le marron](https://www.printemps.com/fr/fr/chaud-le-marron-homme?ap_source=anico&ap_medium=navigation&ap_campaign=marron-homme)
+    * [Ski : rester stylé sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=navigation&ap_campaign=edito-ski-homme)
+    * [Gorpcore](https://www.printemps.com/fr/fr/vestiaire-technique?ap_source=anico&ap_medium=navigation&ap_campaign=gorpcore-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
+    * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
+    * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
 * [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
     * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-hiver-homme)
@@ -337,10 +334,8 @@
     
 
 * [INSPIRATIONS](#)
-    * [Noël : les plus beaux coffrets beauté](https://www.printemps.com/fr/fr/edito-beaute-coffrets-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=edito-coffret-noel)
-    * [Routine beauté](https://www.printemps.com/fr/fr/routine-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=routine)
-    * [Maquillage d'automne](https://www.printemps.com/fr/fr/maquillage-automne?ap_source=anico&ap_medium=nav-beaute&ap_campaign=maquillage_automne)
-    * [Concentré de bonne mine](https://www.printemps.com/fr/fr/bonne-mine?ap_source=anico&ap_medium=nav-beaute&ap_campaign=bonne_mine)
+    * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito_skincare_hivernale)
+    * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito_peaux_matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nos-concepts)
 * [SÉLECTIONS](#)
     * [Parfums best-sellers](https://www.printemps.com/fr/fr/parfums-bestsellers?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfums-best)
