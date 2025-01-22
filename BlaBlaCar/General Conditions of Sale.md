@@ -753,6 +753,10 @@ De plus, dans le cadre de la réglementation relative aux certificats d’écono
 
 Enfin, des informations et données supplémentaires peuvent être sollicitées par notre intermédiaire de la part des organismes chargés du contrôle des CEE et notamment, le Pôle National des Certificats d’Économie d’Énergie.
 
+**18\. Utilisation du BlaBlaBono Energético (uniquement pour l'Espagne)** - applicable à partir du 17 janvier 2025
+
+Les Passagers qui sont éligibles à l’offre BlaBlaBono Energético proposée sur la Plateforme [www.blablacar.es](http://www.blablacar.es/) ont la possibilité de réserver un Trajet de Covoiturage en Espagne en utilisant leur bonus BlaBlaBono sur la Plateforme [www.blablacar.fr](http://www.blablacar.fr/) ou l’application en France sous réserve des conditions d’utilisation de ce bonus disponible [ici](https://blog.blablacar.es/about-us/terms-and-conditions?_gl=1*ku9iqf*_gcl_au*MTA4MTk1MTk1OS4xNzMyNzg4NjE5).
+
 * * *
 
 Conditions Générales d’Utilisation applicables à compter du 17 juillet 2024
