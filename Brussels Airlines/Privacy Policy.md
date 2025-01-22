@@ -13,7 +13,7 @@ La protection de vos données à caractère personnel revêt une importance part
 
 Cet avis de confidentialité s’applique aux données à caractère personnel que nous traitons à votre sujet en tant que personne physique. Vous trouverez ci-dessous des informations sur ce qu’il advient des données à caractère personnel que nous collectons, pourquoi nous le faisons, combien de temps nous les conservons, quels sont vos droits en matière de protection de la vie privée et comment vous pouvez les exercer. 
 
-Brussels Airlines NV / SA dont le siège social est situé à 1050 Bruxelles (Belgique), Avenue des Saisons 100-102/B30, RPM Bruxelles (numéro d’entreprise 0445692234) est le « responsable du traitement » pour le traitement de vos données à caractère personnel. 
+Brussels Airlines NV / SA dont le siège social est situé à 1050 Bruxelles (Belgique), Avenue des Saisons 100-102/B30, RPM Bruxelles (numéro d’entreprise 0445692234) est le « responsable du traitement » pour le traitement de vos données à caractère personnel.
 
 Si vous avez des questions concernant cet avis de confidentialité ou la confidentialité chez Brussels Airlines, vous pouvez contacter notre délégué à la protection des données via [_​_ce formulaire](https://www.brusselsairlines.com/fr/fr/legal-notices/dsar-start) ou par e-mail :
 
@@ -132,7 +132,7 @@ Veuillez noter que si vous avez un compte TikTok, en fonction de votre interacti
 
 **B. Lorsque vous nous contactez** 
 
-Vous pouvez recevoir des informations, des offres, des enquêtes liées à vos préférences en matière de voyage, des enquêtes de satisfaction client et des newsletters traitant de sujets en lien avec le voyage de notre part, de la part d’entreprises de Lufthansa Group et de la part d’entreprises partenaires, et ce via les canaux de communication que vous avez choisis, tels que les e-mails, les SMS, les services de messagerie et le téléphone.
+Vous pouvez recevoir des informations, des offres, des enquêtes liées à vos préférences en matière de voyage, des enquêtes de satisfaction client, des newsletters « Best Price Alert » et des newsletters traitant de sujets en lien avec le voyage de notre part, de la part d’entreprises de Lufthansa Group et de la part d’entreprises partenaires, et ce, via les canaux de communication que vous avez choisis, tels que les e-mails, les SMS, les services de messagerie et le téléphone.
 
 Ces messages et offres peuvent faire l’objet d’une personnalisation grâce à l’utilisation de technologies nous permettant de déterminer si les destinataires ont ouvert le message ou interagi d’une autre façon avec les communications publicitaires électroniques. Veuillez consulter notre [_​_Avis relatif aux cookies](http://www.brusselsairlines.com/fr/fr/legal-notices/cookie-notice) pour en savoir plus.
 
@@ -201,7 +201,7 @@ Nous traitons vos données à caractère personnel, après que vous les avez fou
 
 Après vous avoir fourni l’un de nos services, nous aimons vous demander des informations sur votre degré de satisfaction, par exemple par le biais d’enquêtes de satisfaction envoyées par e-mail après le vol ou par SMS après votre appel avec un centre d’appel, etc. Pour cette activité, nous traitons vos données à caractère personnel sur la base d'un intérêt légitime, car nous visons une amélioration continue et nous ne vous fournissons que les services et les produits les meilleurs et les plus adaptés. Vous pouvez vous désinscrire de ces enquêtes par différents moyens (par exemple par le biais des options de désinscription disponibles dans chaque e-mail et SMS d’enquête).   
 
-Nous traitons vos données à caractère personnel pour la gestion des réclamations (pour les réservations de vols et de fret), sur la base de notre obligation légale de respecter votre droit à demander une indemnisation, et pour toute autre raison légitime. Il est de notre intérêt de nous protéger contre tout dommage matériel ou immatériel. Vous êtes dans l’obligation de fournir vos données à caractère personnel à cette fin pour introduire votre réclamation, et vous avez donc le choix de fournir ces données ou de vous y opposer (voir le chapitre 2 « Droits des clients en matière de protection des données »).   
+Nous traitons vos données à caractère personnel pour la gestion des réclamations (pour les réservations de vols et de fret), sur la base de notre obligation légale de respecter votre droit à demander une indemnisation, et pour toute autre raison légitime. Il est de notre intérêt de nous protéger contre tout dommage matériel ou immatériel. Vous êtes dans l’obligation de fournir vos données à caractère personnel à cette fin pour introduire votre réclamation, et vous avez donc le choix de fournir ces données ou de vous y opposer (voir le Chapitre 2 « Droits des clients en matière de protection des données »).  
 
 Nous traitons vos données à caractère personnel, sur la base de notre intérêt légitime, pour vous relancer en cas de retard de paiement.   
 
@@ -215,7 +215,7 @@ Ces e-mails intègrent des moyens techniques (pixels) qui confirment la date et 
 
 Nous recueillons également des statistiques sur l’ouverture des e-mails et les clics à l’aide de technologies standard, y compris des pixels, pour nous aider à gérer et à améliorer notre marketing.   
 
-Ce traitement implique un profilage. Ce profilage n’a aucune incidence sur vous, sauf dans la mesure où ce traitement peut améliorer votre expérience client et nous permettre de vous envoyer des offres personnalisées ainsi que des publicités et campagnes plus ciblées, ce qui constitue un avantage pour vous. Vous n’êtes pas dans l’obligation de nous fournir vos données à caractère personnel à cette fin et vous pouvez facilement refuser toute communication commerciale que nous vous envoyons et/ou vous opposer à ce traitement (voir le chapitre 2 « Vos droits »). Si vous demandez la suppression de toutes vos données de notre base de données, nous supprimerons toutes vos données à caractère personnel, à l’exception de votre adresse e-mail et de toutes les options de refus que vous avez demandées. Sans ces données, nous ne pourrions pas respecter vos préférences et vous continueriez à recevoir des communications non souhaitées.   
+Ce traitement implique un profilage. Ce profilage n’a aucune incidence sur vous, sauf dans la mesure où ce traitement peut améliorer votre expérience client et nous permettre de vous envoyer des offres personnalisées ainsi que des publicités et campagnes plus ciblées, ce qui constitue un avantage pour vous. Vous n’êtes pas dans l’obligation de nous fournir vos données à caractère personnel à cette fin et vous pouvez facilement refuser toute communication commerciale que nous vous envoyons et/ou vous opposer à ce traitement (voir le Chapitre 2 « Vos droits »). Si vous demandez la suppression de toutes vos données de notre base de données, nous supprimerons toutes vos données à caractère personnel, à l’exception de votre adresse e-mail et de toutes les options de refus que vous avez demandées. Sans ces données, nous ne pourrions pas respecter vos préférences et vous continueriez à recevoir des communications non souhaitées.   
 
 Nous pouvons vous envoyer des notifications push sur des appareils mobiles une fois que vous avez donné votre accord à ce sujet. Ces notifications peuvent apparaître différemment selon le type d’appareil. Ces notifications peuvent vous fournir des informations utiles concernant votre voyage, votre vol et/ou la situation à l’aéroport.   
 
@@ -223,13 +223,13 @@ Nous pouvons traiter vos données à caractère personnel lorsque vous demandez 
 
 **E. Lorsque vous payez vos achats** 
 
-Nous traitons vos données à caractère personnel pour le suivi de votre solvabilité et pour la prévention de la fraude, sur la base de notre intérêt légitime, c’est-à-dire pour vérifier que la méthode de paiement utilisée est valide et que nous serons en mesure de nous faire payer pour le service fourni. Il est dans notre intérêt de nous protéger contre les dommages matériels et immatériels et d’empêcher les activités illicites et l’utilisation abusive de nos produits/services/ressources. Ce traitement peut impliquer une prise de décision automatisée et un profilage, ce qui pourrait vous empêcher d’effectuer l’achat. Vous pouvez vous opposer à ce traitement (voir le chapitre 2 « Vos droits »).   
+Nous traitons vos données à caractère personnel pour le suivi de votre solvabilité et pour la prévention de la fraude, sur la base de notre intérêt légitime, c’est-à-dire pour vérifier que la méthode de paiement utilisée est valide et que nous serons en mesure de nous faire payer pour le service fourni. Il est dans notre intérêt de nous protéger contre les dommages matériels et immatériels et d’empêcher les activités illicites et l’utilisation abusive de nos produits/services/ressources. Ce traitement peut impliquer une prise de décision automatisée et un profilage, ce qui pourrait vous empêcher d’effectuer l’achat. Vous pouvez vous opposer à ce traitement (voir le Chapitre 2 « Vos droits »).  
 
 Nous traitons également des données à caractère personnel pour la facturation (et le rapprochement du paiement avec la vente) et le remboursement des billets et d’autres services sur la base des documents émis. Cela dépend du contrat que vous concluez avec Brussels Airlines.
 
 **F. Lorsque vous fournissez un feedback** 
 
-Nous pouvons être amenés à agréger vos données à caractère personnel et à traiter ces données agrégées à des fins de recherche et développement, sur la base de nos intérêts légitimes (par exemple, statistiques et rapports sur les ventes, analyses et études de marché, développement de produits ou de services). La recherche et le développement peuvent conduire à l’amélioration de l’expérience client ainsi qu’à l’amélioration continue de nos produits et services et l’innovation les concernant, ce qui profitera à notre clientèle. Ce traitement peut impliquer un profilage. Ce profilage n’a aucune incidence sur vous, sauf dans la mesure où ce traitement peut améliorer votre expérience client ainsi que nos produits ou services et nous permettre d’innover les concernant, ce qui constitue un avantage pour vous. Vous n’êtes pas dans l’obligation de nous fournir vos données à caractère personnel à cette fin et vous pouvez vous opposer à ce traitement (voir le chapitre 2 « Vos droits »).
+Nous pouvons être amenés à agréger vos données à caractère personnel et à traiter ces données agrégées à des fins de recherche et développement, sur la base de nos intérêts légitimes (par exemple, statistiques et rapports sur les ventes, analyses et études de marché, développement de produits ou de services). La recherche et le développement peuvent conduire à l’amélioration de l’expérience client ainsi qu’à l’amélioration continue de nos produits et services et l’innovation les concernant, ce qui profitera à notre clientèle. Ce traitement peut impliquer un profilage. Ce profilage n’a aucune incidence sur vous, sauf dans la mesure où ce traitement peut améliorer votre expérience client ainsi que nos produits ou services et nous permettre d’innover les concernant, ce qui constitue un avantage pour vous. Vous n’êtes pas dans l’obligation de nous fournir vos données à caractère personnel à cette fin et vous pouvez vous opposer à ce traitement (voir le Chapitre 2 « Vos droits »).
 
 **G. Lorsque vous venez dans nos bureaux**   
 
@@ -241,14 +241,14 @@ Nous traitons ces informations sur la base de nos intérêts légitimes.
 
 **H. Pour des raisons d’intérêt légitime**
 
-Nous traitons également vos données aux fins de nos intérêts légitimes conformément à l'art. 6(1)(f) du RGPD.
+Nous traitons également vos données aux fins de nos intérêts légitimes conformément à l'art. 6(1)(f) du RGPD
 
-* Assurer la sécurité informatique, le fonctionnement des systèmes informatiques et le fonctionnement de la compagnie aérienne, y compris l'utilisation des données à des fins de test.
-* Anonymiser les données qui seront ensuite utilisées pour former des systèmes utilisant l'intelligence artificielle, par exemple les chatbots.
+* Assurer la sécurité informatique, le fonctionnement des systèmes informatiques et le fonctionnement de la compagnie aérienne, y compris l'utilisation des données à des fins de test
+* Anonymiser les données qui seront ensuite utilisées pour former des systèmes utilisant l'intelligence artificielle, par exemple les chatbots
 
 Vous retrouverez sur nos sites Web certaines fonctionnalités propres à des médias sociaux, par exemple : 
 
-* Le bouton « partager » vous permet de partager et de recommander le contenu de nos sites Web. Lorsque vous cliquez sur le bouton « partager », un nouveau message contenant un lien vers la page sur laquelle vous vous trouvez est créé (par exemple, si vous cliquez sur le bouton « partager » sur la page de recherche du tarif le plus bas, vous partagez l’url de la page de recherche du tarif le plus bas).   
+* Le bouton « partager » vous permet de partager et de recommander le contenu de nos sites Web. Lorsque vous cliquez sur le bouton « partager », un nouveau message contenant un lien vers la page sur laquelle vous vous trouvez est créé (par exemple, si vous cliquez sur le bouton « partager » sur la page de recherche du tarif le plus bas, vous partagez l’url de la page de recherche du tarif le plus bas).  
     
 * Le service Facebook Messenger disponible sur notre plateforme d’enregistrement en ligne vous permet de récupérer votre carte d’embarquement. Si vous décidez d’utiliser cette fonction, nous vous informons que vous êtes sur le point de quitter notre site Web et nous vous demandons votre consentement pour transmettre les données à caractère personnel concernées au réseau social.   
     
@@ -269,7 +269,7 @@ Nous ne transmettons pas vos données à caractère personnel à des tiers, sauf
 
 * Nos entreprises affiliées (sociétés affiliées) au sein de Lufthansa Group, aux mêmes fins et pour les mêmes motifs juridiques que nous, et comme indiqué dans le présent avis relatif à la protection de la vie privée 
 * Des partenaires commerciaux, tels que les partenaires de réservations d’hôtel, de services d’assurance, de locations de voiture, de services d’assistance en escale, etc., qui agissent en tant que responsables du traitement à part entière (leur traitement est fondé sur des motifs légaux qu’ils définissent eux-mêmes) 
-* Les entreprises qui traitent des données à caractère personnel en notre nom et pour notre compte aux mêmes fins que nous (appelées « sous-traitants »), telles que : 
+* Les entreprises qui traitent des données à caractère personnel en notre nom et pour notre compte aux mêmes fins que nous (appelées « sous-traitants »), tels que :
 * Les prestataires de services dans le domaine du transport, du marketing (y compris les études de marché, la communication commerciale, la gestion des programmes de fidélisation, le développement du commerce électronique et les partenariats, la gestion des campagnes), des feedbacks de la clientèle, de la maintenance informatique, du support et du développement, des services de paiement et des agences de référence de crédit, des fournisseurs de services d’hébergement sur serveur et cloud ; 
 * Les plateformes d’envoi de communications commerciales et de notifications transactionnelles ; 
 * Les personnes qui répondent aux chats et qui travaillent dans les centres d’appels ; 
@@ -279,9 +279,9 @@ Conformément à la loi belge relative à l’utilisation des données des passa
 
 * Les compagnies aériennes extérieures à Lufthansa Group, lorsqu’il existe un intérêt légitime poursuivi par nous ou par un tiers. Nous ne partagerons vos données à caractère personnel avec d’autres compagnies aériennes que si vos intérêts ou vos libertés et droits fondamentaux ne sont pas prépondérants, et vous recevrez toujours des informations transparentes à ce sujet (sauf en cas d’exceptions légales). 
 
-Ainsi, par exemple, les données à caractère personnel des « Passagers indisciplinés » seront partagées. Le terme « Passagers indisciplinés » désigne les passagers qui ont un comportement inapproprié, agressif ou violent à l’égard des autres passagers ou de l’équipage, ou qui endommagent l’appareil. 
+Ainsi, par exemple, les données à caractère personnel des « Passagers indisciplinés » seront partagées. Le terme « Passagers indisciplinés » désigne les passagers qui ont un comportement inapproprié, agressif ou violent à l’égard des autres passagers ou de l’équipage, ou qui endommagent l’appareil.
 
-Sur la base des intérêts légitimes poursuivis par Brussels Airlines et par des tiers, Brussels Airlines a le droit et l’obligation d’échanger des données à caractère personnel concernant ses passagers avec les autres entreprises du Lufthansa Group, ainsi qu’avec d’autres compagnies aériennes aux fins de la documentation, de l’analyse et de la prévention des cas de fraude et des « cas de passagers indisciplinés », et de les traiter à cet égard.   
+Sur la base des intérêts légitimes poursuivis par Brussels Airlines et par des tiers, Brussels Airlines a le droit et l’obligation d’échanger des données à caractère personnel concernant ses passagers avec les autres entreprises du Lufthansa Group, ainsi qu’avec d’autres compagnies aériennes aux fins de la documentation, de l’analyse et de la prévention des cas de fraude et des « cas de passagers indisciplinés », et de les traiter à cet égard.  
 
 En outre, si vous avez causé des dommages ou des blessures à d’autres passagers, Brussels Airlines peut également communiquer vos données à caractère personnel et les informations relatives à ces dommages ou blessures à d’autres tiers (tels que les autorités publiques, les personnes lésées et les assurances).   
 
@@ -301,7 +301,7 @@ Outre les transferts susmentionnés, nous divulguons également vos données à 
 
 Certains de ces pays sont reconnus par la Commission européenne comme offrant un niveau adéquat de protection des données. Pour les divulgations à d’autres pays, nous avons mis en place des garanties juridiques, par exemple des clauses contractuelles types adoptées par la Commission européenne. Nous nous efforçons en permanence d’évaluer les transferts sous-jacents vers ces pays tiers au cas par cas afin de déterminer si vos données à caractère personnel sont protégées de manière adéquate et, le cas échéant, nous prenons les mesures organisationnelles, contractuelles et techniques appropriées pour garantir la protection de vos informations personnelles conformément aux lois et réglementations applicables en matière de protection des données.   
 
-Vous pouvez nous contacter (voir le chapitre 1.2 « Nous contacter ») afin d’obtenir plus d’informations sur les garanties appropriées que nous avons prises pour ces transferts. 
+Vous pouvez nous contacter (voir le chapitre 1.2 « Nous contacter ») afin d’obtenir plus d’informations sur les garanties appropriées que nous avons prises pour ces transferts.  
 
 Nous conserverons vos données à caractère personnel jusqu’à ce que vous en demandiez la suppression, vous opposiez à leur conservation, ou aussi longtemps que nous en aurons besoin pour des finalités justifiables et déterminées liées au traitement et/ou si nous sommes obligés par la loi de les conserver pendant le délai de conservation tel que fixé par les lois et autorités applicables (par exemple, le Code de commerce belge, la législation fiscale, la loi contre le blanchiment d’argent, etc.).   
 
