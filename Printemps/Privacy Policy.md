@@ -266,11 +266,8 @@
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
     * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
     * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
-    * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
-    * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-hiver-homme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme?ap_source=anico&ap_medium=navigation&ap_campaign=pantalons-hiver-homme)
-    * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
+* [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Homme?ap_source=anico&ap_medium=navigation&ap_campaign=ski-homme)
+    
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
 
