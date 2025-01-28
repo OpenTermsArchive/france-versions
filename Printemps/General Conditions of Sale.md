@@ -142,20 +142,15 @@
 
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=chaussures)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_chaussures)
-    * [Nouveautés chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme&ap_campaign=new_chaussures)
     * [Ballerines Et Babies](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Babies/Ballerines?ap_source=anico&ap_medium=nav-femme&ap_campaign=ballerines_babies)
     * [Derbies Et Moccassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins?ap_source=anico&ap_medium=nav-femme&ap_campaign=derbies_mocassins)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=escarpins)
+    * [Baskets](https://www.printemps.com/fr/fr/baskets-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets)
     * [Bottines](https://www.printemps.com/fr/fr/bottines-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bottines)
     * [Bottes](https://www.printemps.com/fr/fr/bottes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bottes)
     * [Sandales](https://www.printemps.com/fr/fr/sandales-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sandales)
     * [Mules](https://www.printemps.com/fr/fr/mules-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=mules)
     * [Tongs Et Claquettes](https://www.printemps.com/fr/fr/tongs-et-claquettes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tongs_claquettes)
-* [BASKETS](https://www.printemps.com/fr/fr/baskets-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets)
-    * [Voir Tout](https://www.printemps.com/fr/fr/baskets-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_baskets)
-    * [Baskets de luxe](https://www.printemps.com/fr/fr/baskets-luxe-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets_luxe)
-    * [Baskets Blanches](https://www.printemps.com/fr/fr/baskets-femme/col/Blanc?ap_source=anico&ap_medium=nav-femme&ap_campaign=baskets_blanches)
-    * [Sneakers du moment](https://www.printemps.com/fr/fr/sneakers-du-moment-f?ap_source=anico&ap_medium=nav-femme&ap_campaign=sneakers_du_moment)
 
 * [BIJOUX](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=bijoux)
     * [Voir Tout](https://www.printemps.com/fr/fr/bijoux-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_bijoux)
@@ -179,6 +174,8 @@
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_manteaux)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_ski)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
+* [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=ski)
+    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
     
 
@@ -266,11 +263,8 @@
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
     * [Punk is not dead](https://www.printemps.com/fr/fr/rock-homme?ap_source=anico&ap_medium=navigation&ap_campaign=punk-homme)
     * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [VESTIAIRE D'HIVER](https://www.printemps.com/fr/fr/le-grand-froid-homme?ap_source=anico&ap_medium=navigation&ap_campaign=hiver-homme)
-    * [Vestes et manteaux](https://www.printemps.com/fr/fr/se-prendre-une-veste-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-manteaux-hiver-homme)
-    * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme?ap_source=anico&ap_medium=navigation&ap_campaign=mailles-hiver-homme)
-    * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme?ap_source=anico&ap_medium=navigation&ap_campaign=pantalons-hiver-homme)
-    * [Baskets](https://www.printemps.com/fr/fr/baskets-homme?ap_source=anico&ap_medium=navigation&ap_campaign=baskets-hiver-homme)
+* [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Homme?ap_source=anico&ap_medium=navigation&ap_campaign=ski-homme)
+    
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme?ap_source=anico&ap_medium=navigation&ap_campaign=tout-univers-homme)
     
 
