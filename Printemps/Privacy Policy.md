@@ -2,6 +2,8 @@
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-tout)
     
+* [\-20% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-20%+suppl%C3%A9mentaires+appliqu%C3%A9s+au+panier)
+    
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/BALMAIN/AMI+PARIS/LANCEL/PRADA/MOSCHINO/ACNE+STUDIOS)
