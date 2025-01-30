@@ -2,6 +2,8 @@
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-tout)
     
+* [\-20% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-20%25+suppl%C3%A9mentaires+appliqu%C3%A9s+au+panier)
+    
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/BALMAIN/AMI+PARIS/LANCEL/PRADA/MOSCHINO/ACNE+STUDIOS)
@@ -189,7 +191,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-* [![](https://media-cdn.printemps.com/image/58/9/7431589.jpg)](https://www.printemps.com/fr/fr/soldes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=sale)
+* [![](https://media-cdn.printemps.com/image/58/8/7470588.jpg)](https://www.printemps.com/fr/fr/soldes-femme/sel/-20%25+suppl%C3%A9mentaires+appliqu%C3%A9s+au+panier)
     
 
 * [SOLDES : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=soldes-homme)
@@ -280,7 +282,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme?ap_source=anico&ap_medium=navigation&ap_campaign=alexandermcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
-* [![](https://media-cdn.printemps.com/image/58/9/7431589.jpg)](https://www.printemps.com/fr/fr/soldes-homme?ap_source=anico&ap_medium=nav-homme&ap_campaign=vignette_avp)
+* [![](https://media-cdn.printemps.com/image/58/8/7470588.jpg)](https://www.printemps.com/fr/fr/soldes-homme/sel/-20%25+suppl%C3%A9mentaires+appliqu%C3%A9s+au+panier)
     
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-beaute)
