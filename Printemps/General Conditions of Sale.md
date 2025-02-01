@@ -342,13 +342,13 @@
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=top-marques)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=maison-francis-kurkdjian)
+    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=dyson)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=yves-saint-laurent)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=rituals)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=hermes)
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfums-marly)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=marc-antoine-barrois)
-    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=diptyque)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=toutes-les-marques-beaute)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
