@@ -383,6 +383,7 @@
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=voir-tout-beaute-marque)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=mfk-beaute-marque)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=ysl-beaute-marque)
+    * [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=diptyque-beaute-marque)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=navigation&ap_campaign=hermes-beaute-marque)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=rituals-beaute-marque)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=mab-beaute-marque)
@@ -390,7 +391,6 @@
     * [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris--beaute?ap_source=anico&ap_medium=navigation&ap_campaign=kilian-beaute-marque)
     * [Stéphane Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas--beaute?ap_source=anico&ap_medium=navigation&ap_campaign=shl-beaute-marque)
     * [Nars](https://www.printemps.com/fr/fr/nars-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=nars-beaute-marque)
-    * [Nuxe](https://www.printemps.com/fr/fr/nuxe-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=nuxe-beaute-marque)
 * [Toutes les marques](https://www.printemps.com/fr/fr/marques?ap_source=anico&ap_medium=navigation&ap_campaign=toutes-les-marques-marque)
     
 
