@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 11 décembre 2024
+Dernière mise à jour le 24 janvier 2025
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -633,7 +633,7 @@ Les Cartes de réduction Senior Railcard permettent de bénéficier d'une réduc
 
 ### 8.10 16-17 Saver
 
-Vous devez avoir 16 ou 17 ans pour acheter la carte 16-17 Saver. Veuillez noter que la carte 16-17 Saver expire un an après l'achat ou à votre 18e anniversaire, selon l'échéance qui arrive en premier. La carte 16-17 Saver vous permet de bénéficier d'une réduction de 50 % sur les tarifs ferroviaires dans toute la Grande-Bretagne. Vous pouvez voyager à toute heure en semaine, le week-end et les jours fériés. Les réductions ne sont pas applicables sur les billets du London Underground et du Docklands Light Railway, ni sur les trains ScotRail et Caledonian Sleeper.
+Vous devez avoir 16 ou 17 ans pour acheter la carte 16-17 Saver. Veuillez noter que la carte 16-17 Saver expire un an après l'achat ou à votre 18e anniversaire, selon l'échéance qui arrive en premier. La carte 16-17 Saver vous permet de bénéficier d'une réduction de 50 % sur les tarifs ferroviaires dans toute la Grande-Bretagne. Vous pouvez voyager à toute heure en semaine, le week-end et les jours fériés. Les réductions ne sont pas applicables sur les billets du London Underground et du Docklands Light Railway, ni sur les trains ScotRail et Caledonian Sleeper.
 
 Contrairement aux autres Railcards, les cartes 16-17 Saver peuvent également être utilisées pour acheter des Season Tickets à tarif réduit (à l'exception des Travelcards valables uniquement pour les zones 1 à 9 de Londres). Vous pouvez acheter un Season Ticket valable jusqu'à 4 mois après votre 18e anniversaire.
 
@@ -856,7 +856,7 @@ Toutes données stockées dans nos systèmes peuvent servir de preuves dans le c
 
 Pour toute question ou réclamation au sujet de notre service de réservation, notre site web ou nos applications, veuillez nous contacter via l'un des moyens indiqués dans [Section 2](#contact).
 
-Si vous nous contactez à propos d'un problème et que nous ne sommes pas capables de le résoudre en suivant notre procédure interne de réclamation, veuillez suivre [ce lien](https://support.thetrainline.com/fr/support/solutions/articles/78000000386-les-droits-des-passagers-dans-le-cadre-du-r%C3%A8glement-sur-les-droits-des-voyageurs-ferroviaires-) pour découvrir vos possibilités de recours.
+Si vous nous contactez à propos d'un problème et que nous ne sommes pas en mesure de le résoudre en suivant notre procédure interne de réclamation, veuillez suivre [ce lien](https://support.thetrainline.com/fr/support/solutions/articles/78000000386-les-droits-des-passagers-dans-le-cadre-du-r%C3%A8glement-sur-les-droits-des-voyageurs-ferroviaires-) pour découvrir vos possibilités de recours. Si vous vous trouvez au Royaume-Uni, vous pourrez peut-être poser votre réclamation non résolue auprès du médiateur Rail Ombudsman. Consultez [cette page](https://www.railombudsman.org/making-a-complaint/) pour en savoir plus sur la manière de procéder. Le service fourni par Rail Ombudsman est gratuit, à l'exception des frais annexes.
 
 ### 12.6 Droit applicable et tribunaux compétents
 
