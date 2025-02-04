@@ -4,9 +4,9 @@ Politique de confidentialité de Finnair
 Bonjour, Nous souhaitons nous assurer que vous acceptez notre politique en matière d’utilisation de vos données.
 ----------------------------------------------------------------------------------------------------------------
 
-Cette politique de confidentialité de Finnair vous explique comment nous collectons, utilisons, divulguons et traitons d’une autre manière vos données à caractère personnel. Nous vous expliquons également vos droits, comment nous contacter et comment nous protégeons vos données.
+Cette politique de confidentialité de Finnair explique comment nous collectons, utilisons, divulguons et traitons vos données à caractère personnel. Elle explique également vos droits, comment nous contacter et comment nous protégeons vos données.
 
-La présente Politique de confidentialité s’applique à toutes les données à caractère personnel que nous traitons à votre sujet lorsque vous planifiez votre voyage, voyagez avec nous, achetez ou utilisez nos services, visitez nos services en ligne ou interagissez de toute autre manière avec nous. Nous traitons les données à caractère personnel conformément aux dispositions du Règlement général sur la protection des données de l’Union européenne (« RGPD ») et aux autres législations applicables en matière de protection des données.
+La présente politique de confidentialité s’applique à toutes les données à caractère personnel que nous traitons à votre sujet lorsque vous planifiez votre voyage, voyagez avec nous, achetez ou utilisez nos services, visitez nos services en ligne ou interagissez de toute autre manière avec nous. Nous traitons les données à caractère personnel conformément aux dispositions du Règlement général sur la protection des données de l’Union européenne (RGPD) et aux autres législations applicables en matière de protection des données.
 
 Vous trouverez plus d’informations sur le traitement de vos données à caractère personnel sous chaque thème ci-dessous. Veuillez cliquer sur la section pertinente ci-dessous pour plus d’informations.
 
@@ -19,7 +19,7 @@ Votre vie privée est notre priorité.
 
 Finnair Plc  
 Numéro d’identification de l’entreprise : 0108023-3  
-Adresse : Tietotie 9 01530 VANTAA, FINLANDE
+Adresse : Tietotie 9 01530 Vantaa, Finlande
 
 #### Service en ligne de protection de la vie privée
 
@@ -27,7 +27,7 @@ Gérez vos paramètres de confidentialité et demandez vos données à caractèr
 
 #### Délégué à la protection des données
 
-Si vous ne trouvez pas ce que vous cherchez dans cette politique ou le service en ligne de protection de la vie privée dont le lien figure ci-dessus, vous pouvez contacter le délégué à la protection des données du groupe Finnair : [privacy@finnair.com](mailto:privacy@finnair.com) ou le délégué à la protection des données de Finnair, PO BOX 15, 01053 FINNAIR, FINLANDE.
+Si vous ne trouvez pas ce que vous cherchez dans cette politique ou le service en ligne de protection de la vie privée dont le lien figure ci-dessus, vous pouvez contacter le délégué à la protection des données du groupe Finnair : [privacy@finnair.com](mailto:privacy@finnair.com) ou le délégué à la protection des données de Finnair, PO Box 15, 01053 Finnair, Finlande.
 
 ### Vos données, vos droits
 
