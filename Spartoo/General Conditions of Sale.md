@@ -265,7 +265,7 @@ Délai : Livraison garantis en 2 jours ouvrés
   
 **Belgique**  
   
-**Livraison avec le service UPS Express**  
+**Livraison avec le service UPS Express Saver**  
 Délai : Livraison garantis en 3 jours ouvrés  
 Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13 h  
 
