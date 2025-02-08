@@ -234,7 +234,7 @@
     * [Sacs](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Sacs?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=sacs)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=v%C3%AAtements-homme)
-    * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_v%C3%AAtements-homme)
+    * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=view_all_vetements-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme?ap_source=anico&ap_medium=navigation&ap_campaign=manteaux-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vestes-homme)
     * [Sweats & Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme?ap_source=anico&ap_medium=navigation&ap_campaign=sweats-hoodies-homme)
@@ -466,7 +466,7 @@
     * [Voir tout](https://www.printemps.com/fr/fr/magasins)
 
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
-    * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+    * [Club Printemps](https://www.printemps.com/fr/fr/aHR0cHM6Ly93d3cucHJpbnRlbXBzLmNvbS9mci9mci9jbHViLXByaW50ZW1wcw==)
     * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
     * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
