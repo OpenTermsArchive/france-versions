@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 05/02/2025
+Version : 10/02/2025
 
 ### 1 Champ d’application
 
@@ -158,6 +158,7 @@ II Dispositions dérogatoires des pays
 
 * **Concernant 4.1 :** Les ventes à bord ne peuvent pas être assurées pour certaines lignes en Pologne.
 * **Concernant 4.4.1 et 4.4.2 :** Ces dispositions ne s’appliquent pas pour les liaisons effectuées par la société FlixBus Polska sp. z.o.o.
+* **Concernant 5.1 :** Le contrat de transport ne peut être modifié qu'en annulant le trajet et en achetant un nouveau billet. Ne pas utiliser son billet ne constitue pas une annulation du trajet et ne permet pas de demander un remboursement pour les trajets opérés par FlixBus Polska sp. z o.o. ou tout autre transporteur ayant son siège en Pologne.
 * **Concernant 5.6 :** Les frais d’annulation ne s’appliquent pas aux correspondances opérées par FlixBus Polska sp. z o.o. ou tout Transporteur ayant son siège social en Pologne.
 * **Concernant 6 :** Pour les paiements en zloty polonais, les frais de service s'élèvent à 3,99 PLN.
 
