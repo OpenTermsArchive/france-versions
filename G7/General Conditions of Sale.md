@@ -8,7 +8,7 @@ En application au 10/12/2024
 
 **CONDITIONS GENERALES D’UTILISATION ET DE VENTE**
 
-La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.806.299,67 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 – N° TVA intracommunautaire FR 11324379866 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial TAXIS G7® et la marque G7®, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT », avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
+La société G7, ci-après dénommée « la SOCIETE », société anonyme au capital de 3.806.300 euros, dont le siège social est 22/28, rue Henri Barbusse à CLICHY (92110), immatriculée sous le numéro 324 379 866 RCS NANTERRE – SIRET 324 379 866 00019 – N° TVA intracommunautaire FR 11324379866 – Tel : 01 47 39 09 00, exploite une centrale de réservation de taxis, sous le nom commercial TAXIS G7® et la marque G7®, à laquelle sont affiliés des chauffeurs de taxi parisiens indépendants. La SOCIETE met en relation le client, ci-après dénommé « le CLIENT », avec les chauffeurs de taxi parisiens affiliés, lesquels réalisent, pour leur propre compte et sous leur propre responsabilité, les prestations de transport demandées par le CLIENT.
 
 Les présentes conditions générales s’appliquent aux commandes de taxis passées par le CLIENT auprès de la SOCIETE par téléphone (3607 : service 0,45€/min + prix de l’appel), par Internet sur le site g7.fr et via l‘application G7® Taxi de la SOCIETE. Elles ne s’appliquent pas aux clients ayant conclu avec la SOCIETE des contrats d’abonnement spécifiques.
 
@@ -40,15 +40,15 @@ Les procédures d’accès au service pourront être modifiées par la SOCIETE q
   
 **2.1. – Création de « compte** G7® »
 
-Lors de la création de compte G7®, le CLIENT, personne physique, communique ses nom et prénom, numéro de téléphone et l’adresse de prise en charge principale ; il indique une adresse email et choisit un mot de passe confidentiel.
+Lors de la création de compte G7®, le CLIENT, personne physique, communique ses nom et prénom, numéro de téléphone et l’adresse de prise en charge principale ; il indique une adresse email et choisit un mot de passe confidentiel. 
 
-Ces identifiants sont personnels et confidentiels et ne doivent pas être communiqués par le CLIENT à des tiers. Le CLIENT en assure seul la confidentialité et sera en toutes circonstances, seul responsable de leur utilisation. Il ne pourra en autoriser l’accès à quiconque.
+Ces identifiants sont personnels et confidentiels et ne doivent pas être communiqués par le CLIENT à des tiers. Le CLIENT en assure seul la confidentialité et sera en toutes circonstances, seul responsable de leur utilisation. Il ne pourra en autoriser l’accès à quiconque.  
 
 Les prestations du présent contrat ne peuvent en aucun cas, être commercialisées, revendues, mises à disposition ou distribuées, même à titre gratuit par le CLIENT à quelque titre que ce soit, le CLIENT ayant accès au service de recherche de taxi pour son seul usage personnel, et en vue d’un déplacement déterminé à réaliser.
 
-Le CLIENT s’engage à utiliser son compte G7® conformément aux présentes conditions générales, et notamment :
+Le CLIENT s’engage à utiliser son compte G7® conformément aux présentes conditions générales, et notamment :
 
-* à faire un usage strictement personnel de de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
+* à faire un usage strictement personnel de son compte et ne pas créer de compte fictif ou sous une fausse identité, ne pas transférer ou laisser utiliser le compte par un tiers ;
 * à utiliser le service de recherche de taxi conformément à sa destination et à son objet et en faire une utilisation loyale en s’interdisant d’utiliser le service à des fins autres que celles pour lesquelles il a été conçu.
 
 Il s’interdit ainsi expressément :
@@ -75,11 +75,11 @@ Le CLIENT devant s’identifier pour accéder au service en utilisant son identi
 
 **2.2. – Service « G7® Connect » : utilisation de l’application G7® Taxi et du compte G7® du CLIENT à l’occasion de « courses rue » effectuées à bord de taxis parisiens affiliés G7®**
 
-Le CLIENT a la possibilité, lorsqu’il effectue une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi**)** réalisée par un taxi parisien affilié à la centrale de réservation G7®, de se connecter à son compte G7® à partir de l’application G7 Taxi.
+Le CLIENT a la possibilité, lorsqu’il effectue une « course rue » (taxi hélé dans la rue ou pris dans une station de taxi) réalisée par un taxi parisien affilié à la centrale de réservation G7®, de se connecter à son compte G7® à partir de l’application G7 Taxi.
 
 Ce service **« _G7_**® **_Connect_ »** n’est accessible qu’à bord des seuls taxis parisiens affiliés G7®.
 
-Ainsi, le CLIENT, une fois monté à bord du taxi affilié G7®, peut, s’il le souhaite, se connecter, à la course en cours au travers de l’application G7® Taxi en saisissant le code chauffeur (code à 4 chiffres affiché sur la vitre arrière du véhicule), via l’écran de saisie « G7® Connect ». 
+Ainsi, le CLIENT, une fois monté à bord du taxi affilié G7®, peut, s’il le souhaite, se connecter, à la course en cours au travers de l’application G7® Taxi en saisissant le code chauffeur (code à 4 chiffres affiché sur la vitre arrière du véhicule), via l’écran de saisie « G7® Connect ».
 
 Une fois la connexion établie, le CLIENT retrouve le suivi de cette course directement dans l’application G7® Taxi, peut évaluer la course et il effectue le règlement de celle-ci par l’intermédiaire de la carte de paiement enregistrée dans son compte G7®.
 
