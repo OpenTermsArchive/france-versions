@@ -32,7 +32,7 @@ Nous révisons régulièrement notre avis de confidentialité et nous le mettron
 
 Vous pouvez exercer les droits suivants en nous contactant, soit en nous envoyant une lettre (voir l’adresse ci-dessus dans la section 1.2 « Nous contacter »), soit par le biais d’une demande d’accès de la personne concernée.
 
-[En savoir plus sur la demande d’accès de la personne concernée](https://www.brusselsairlines.com/fr/fr/legal-notices/dsar-start)
+En savoir plus sur la demande d’accès de la personne concernée
 
 Lorsque vous soumettez une demande d’accès de la personne concernée, nous vous demandons de nous fournir des informations supplémentaires (notamment votre nom, le PNR des vols effectués, une copie de votre carte d’identité et/ou des exemples de communications au sujet desquelles vous vous plaignez, etc.) afin que nous puissions valider votre identité et éviter le traitement illégal de données à caractère personnel pertinentes au nom d’une personne illégitime. Dans le cadre de cette validation, nous traitons les données reçues aux fins de la gestion de la demande d’accès de la personne concernée et nous les conservons aussi longtemps que nécessaire. 
 
@@ -314,7 +314,7 @@ La période de conservation peut également être plus longue, par exemple pour 
 
 Tous les détails concernant les informations sur la protection des données de Travel ID sont énumérés sur la page suivante.
 
-[En savoir plus sur Travel ID](https://www.brusselsairlines.com/fr/fr/profile/travel-id/travel-id-data-protection)
+En savoir plus sur Travel ID
 
 **Dernière mise à jour : décembre 2024  
 **
