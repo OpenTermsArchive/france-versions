@@ -457,8 +457,6 @@ Si vous avez des questions ou des préoccupations au sujet de l’Avis de confid
    
 Pour demander une copie de la version la plus récente de notre Avis de confidentialité, veuillez envoyer un e-mail à l’adresse [privacy@levi.com](mailto:privacy@levi.com). 
 
-###### Inscrivez-vous
-
 Levi Red Tab Member LogoThis is the logo of the Levi Red Tab Member Program
 
 Rejoignez-nous et profitez dès maintenant de la livraison gratuite sur toutes vos commandes, d’une surprise pour votre anniversaire, de l’accès exclusif aux lancements de produits, de jeux exclusifs et plus encore. Comme vos jeans, les avantages sont encore plus sympas au fil du temps.
