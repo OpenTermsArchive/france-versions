@@ -287,7 +287,7 @@ Si la commande de Produits a été réglée :
 Si vous souhaitez remplacer l’article, il vous suffit de repasser commande conformément à l’article 3 cidessus. Pour bénéficier de la livraison gratuite, il est nécessaire de passer votre nouvelle commande dans le délai de 48h à compter de la déclaration de retour de l’article dans votre compte client rubrique « Mes retours »
 
 Si vous avez adhéré au Club Vertbaudet via le paiement d’une cotisation, vous disposez d’un délai de 14 jours à compter de la souscription pour nous notifier votre souhait de rétractation de votre adhésion en contactant le service client au 03.20.760.760 (coût d’un appel local depuis un poste fixe).  
-Plus d’informations sur a href="/page/club-vertbaudet.htm">le club vertbaudet.
+Plus d’informations sur [le club vertbaudet](https://www.vertbaudet.fr/page/club-vertbaudet.htm).
 
 7\. Spécificités à l'égard des Produits personnalisés
 -----------------------------------------------------
