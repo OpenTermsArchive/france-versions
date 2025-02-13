@@ -281,7 +281,7 @@ Délai : Livraison garantis en 5 jours ouvrés
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 7.99 € à partir de 0.00 € d'achats | 7.99 € à partir de 0.00 € d'achats |
+| 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats  <br>7.99 € entre 9000.00 € et 0.00 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats  <br>7.99 € entre 9000.00 € et 0.00 € d'achats |
 
   
 **Livraison avec le service Mondial Relay**  
@@ -291,15 +291,6 @@ Délai : Livraison garantis en 4 jours ouvrés
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
 | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats | 3.99 € si inférieur à 30.00 € d'achats  <br>Gratuit à partir de 30.00 € d'achats |
-
-  
-**Livraison avec le service BPost Mercury**  
-Délai : Livraison garantis en 3 jours ouvrés  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
 **Luxembourg**  
