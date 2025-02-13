@@ -206,7 +206,7 @@ Pour tout retour dans le cadre du droit de rétractation, la procédure ci-desso
 
 **_France_**
 
-3\. Conformément aux dispositions de l'article L 221-24 du _Code de la consommation_, Aigle remboursera le prix des produits de votre commande ainsi que les éventuels frais de livraison au tarif standard (même si vous avez opté pour une livraison express), en recréditant le moyen de paiement utilisé lors de votre commande initiale. Aigle effectuera ce remboursement dans les meilleurs délais et au plus tard dans les quatorze (14) jours suivants la réception des marchandises que le Client lui aura renvoyées.
+3\. Conformément aux dispositions de l'article L 221-24 du _Code de la consommation_, Aigle remboursera le prix des produits de votre commande en recréditant le moyen de paiement utilisé lors de votre commande initiale. Aigle effectuera ce remboursement dans les meilleurs délais et au plus tard dans les quatorze (14) jours suivants la réception des marchandises que le Client lui aura renvoyées.
 
 A défaut de remboursement sous ce délai, les sommes que nous vous devrions produiront intérêts aux conditions suivantes :
 
