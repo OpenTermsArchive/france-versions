@@ -1,54 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute)
 
-* [\-25% découvrir la sélection](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-st-val&ap_campaign=plp_offre)
-    
-* [Beauté](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute?ap_source=anico&ap_medium=nav-st-val&ap_campaign=beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/esp/Parfum?ap_source=anico&ap_medium=nav-st-val&ap_campaign=beaute-parfum)
-    * [Soins](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/esp/Soin?ap_source=anico&ap_medium=nav-st-val&ap_campaign=soins)
-    * [Maquillage](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/esp/Maquillage?ap_source=anico&ap_medium=nav-st-val&ap_campaign=maquillage)
-    * [Coffrets](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/esp/Coffret+%26+Palette?ap_source=anico&ap_medium=nav-st-val&ap_campaign=coffrets)
-    * [Accessoires beauté](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/cat0/Brosses+et+peignes/Divers/Electro+beaut%C3%A9/Eponges/Pinceaux?ap_source=anico&ap_medium=nav-st-val&ap_campaign=accessoires-beaut%C3%A9)
-    * [Accessoires cheveux](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/cat0/Fers+%C3%A0+lisser+et+boucler/Accessoires+cheveux?ap_source=anico&ap_medium=nav-st-val&ap_campaign=accessoires-cheveux)
-    * [Bougies et parfums d'intérieur](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/cat0/Bougies/Diffuseurs?ap_source=anico&ap_medium=nav-st-val&ap_campaign=bougies)
-
-* [POUR ELLE](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme?ap_source=anico&ap_medium=nav-st-val&ap_campaign=pour-elle)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme?ap_source=anico&ap_medium=nav-st-val&ap_campaign=voir-tout-pour-elle)
-    * [Sacs](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Sacs?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-sacs)
-    * [Vêtements](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-vetements)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-chaussures)
-    * [Bijoux](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Bijoux?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-bijoux)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-accessoires)
-    * [Manteaux et vestes](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Manteaux/Vestes?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-manteaux-vestes)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Mailles+et+pulls?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-mailles-et-pulls)
-    * [Petite maroquinerie](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Petite+Maroquinerie?ap_source=anico&ap_medium=nav-st-val&ap_campaign=femme-petite-maroquinerie)
-
-* [POUR LUI](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme?ap_source=anico&ap_medium=nav-st-val&ap_campaign=pour-lui)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme?ap_source=anico&ap_medium=nav-st-val&ap_campaign=voir-tout-pour-lui)
-    * [Vêtements](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-v%C3%AAtements)
-    * [Manteaux et vestes](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/cat0/Manteaux/Vestes?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-manteaux-vestes)
-    * [Chemises](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/cat0/Chemises?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-chemises)
-    * [Mailles et sweats](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/cat0/Mailles+et+pulls/Sweats+et+hoodies?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-mailles-pulls)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Chaussures?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-baskets)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-st-val&ap_campaign=homme-accessoires)
-
-* [PAR PRIX](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin?ap_source=anico&ap_medium=nav-st-val&ap_campaign=par-prix)
-    * [Moins de 50€](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/prx/1/50?ap_source=anico&ap_medium=nav-st-val&ap_campaign=prix-1-50)
-    * [Entre 50€ et 100€](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/prx/50/100?ap_source=anico&ap_medium=nav-st-val&ap_campaign=prix-50-100)
-    * [Entre 100€ et 300€](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/prx/100/300?ap_source=anico&ap_medium=nav-st-val&ap_campaign=prix-100-300)
-    * [Plus de 300€](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/prx/300/10000?ap_source=anico&ap_medium=nav-st-val&ap_campaign=prix-+300)
-
-* [TOP MARQUES](#)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/POLO+RALPH+LAUREN?ap_source=anico&ap_medium=nav-st-val&ap_campaign=polo-ralph-lauren)
-    * [Jacquemus](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/JACQUEMUS?ap_source=anico&ap_medium=nav-st-val&ap_campaign=jacquemus)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/CALVIN+KLEIN?ap_source=anico&ap_medium=nav-st-val&ap_campaign=calvin-klein)
-    * [Dyson](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/DYSON?ap_source=anico&ap_medium=nav-st-val&ap_campaign=dyson)
-    * [Diptyque](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/DIPTYQUE?ap_source=anico&ap_medium=nav-st-val&ap_campaign=diptyque)
-    * [Rituals](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/RITUALS?ap_source=anico&ap_medium=nav-st-val&ap_campaign=rituals)
-    * [Yves Saint Laurent](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/YVES+SAINT+LAURENT?ap_source=anico&ap_medium=nav-st-val&ap_campaign=yves-saint-laurent)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin/mrk/MAISON+FRANCIS+KURKDJIAN?ap_source=anico&ap_medium=nav-st-val&ap_campaign=MFK)
-
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
     
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
@@ -129,16 +80,6 @@
     * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-new&ap_campaign=makeit_shine)
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-new&ap_campaign=edito_manteaux)
 
-* [Idées cadeaux Saint-Valentin](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme?ap_source=anico&ap_medium=nav-women-st-val&ap_campaign=plp-offre)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=plp-offre)
-    * [Luxe](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=luxe)
-    * [Sacs](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=sacs)
-    * [Vêtements](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=v%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Baskets?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=baskets)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=accessoires)
-    * [Bijoux](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-femme/cat0/Bijoux?ap_source=anico&ap_medium=nav-femme-st-val&ap_campaign=bijoux)
-
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vetements)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=viewall_vetements)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs?ap_source=anico&ap_medium=nav-femme&ap_campaign=luxe_createurs)
@@ -206,7 +147,6 @@
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_manteaux)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_ski)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=cabas_xxl)
-    * [Idées cadeaux pour déclarer sa flamme](https://www.printemps.com/fr/fr/edito-actu-saint-valentin-idees-cadeaux?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito-st-val)
 * [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=ski)
     
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=homepage)
@@ -225,15 +165,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=tommyhilfiger)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=jimmy-choo)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=miumiu)
-
-* [Idées cadeaux Saint-Valentin](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=plp-offre)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=voir-tout)
-    * [Luxe](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=luxe)
-    * [Vêtements](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=vetements)
-    * [Chaussures](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Chaussures?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=baskets)
-    * [Accessoires](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=accessoires)
-    * [Sacs](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-homme/esp/Sacs?ap_source=anico&ap_medium=nav-homme-st-val&ap_campaign=sacs)
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vetements-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme?ap_source=anico&ap_medium=navigation&ap_campaign=vetements-homme)
@@ -293,7 +224,6 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme?ap_source=anico&ap_medium=navigation&ap_campaign=nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme?ap_source=anico&ap_medium=navigation&ap_campaign=tendances-homme)
-    * [Idées cadeaux pour déclarer sa flamme](https://www.printemps.com/fr/fr/edito-actu-saint-valentin-idees-cadeaux?ap_source=anico&ap_medium=nav-homme&ap_campaign=edito-st-val)
     * [Ski : rester stylé sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=navigation&ap_campaign=edito-ski-homme)
     * [Gorpcore](https://www.printemps.com/fr/fr/vestiaire-technique?ap_source=anico&ap_medium=navigation&ap_campaign=gorpcore-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
@@ -319,14 +249,6 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme?ap_source=anico&ap_medium=navigation&ap_campaign=alexandermcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme?ap_source=anico&ap_medium=navigation&ap_campaign=autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme?ap_source=anico&ap_medium=navigation&ap_campaign=calvin-klein-homme)
-
-* [\-25% sur une sélection](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=offre-plp)
-    * [Voir tout](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=voir-tout)
-    * [Parfums](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/esp/Parfum/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=parfums)
-    * [Soins](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/esp/Soin/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=soins)
-    * [Maquillage](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/esp/Maquillage/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=maquillage)
-    * [Coffrets](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/esp/Coffret+%26+Palette/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=coffrets)
-    * [Bougies et parfums d'intérieur](https://www.printemps.com/fr/fr/idees-cadeaux-pour-la-saint-valentin-beaute/cat0/Vaporisateurs/Bougies/sel/Offre+Saint-Valentin?ap_source=anico&ap_medium=nav-beaute-st-val&ap_campaign=bougies)
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum?ap_source=anico&ap_medium=nav-beaute&ap_campaign=voir-tout-parfum)
@@ -365,7 +287,6 @@
     
 
 * [INSPIRATIONS](#)
-    * [Idées cadeaux pour déclarer sa flamme](https://www.printemps.com/fr/fr/edito-actu-saint-valentin-idees-cadeaux?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito-st-val)
     * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito_skincare_hivernale)
     * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito_peaux_matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts?ap_source=anico&ap_medium=nav-beaute&ap_campaign=nos-concepts)
