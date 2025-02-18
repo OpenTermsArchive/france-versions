@@ -198,11 +198,11 @@ Pour tout retour dans le cadre du droit de rétractation, la procédure ci-desso
 * les Produits sont retournés dans un conditionnement permettant leur transport à l’adresse mentionnée sur le formulaire de retour inclus dans son colis accompagné d’un port prépayé si la commande a été livrée par voie postale; le formulaire de retour présent dans son colis devant être préalablement complété par le Client.
 * les Produits doivent être renvoyés dans leur état initial, avec l’étiquette attachée aux Produits, sans avoir été endommagés, tachés, lavés, modifiés ou portés (à l’exception de l’essayage) en y joignant l’emballage original et tous les éventuels accessoires se rapportant aux Produits, tels que les emballages ou notice d’utilisation à :
 
-**_Aigle C/O ADS_**
+**_Aigle ADS_**
 
-**_Site d’Evreux_**
+**_C/O DISPEO_**
 
-**_27096 Evreux cedex 9_**
+**_27930 Normanville cedex 9_**
 
 **_France_**
 
