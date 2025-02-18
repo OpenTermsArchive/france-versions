@@ -409,10 +409,10 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Le Printemps Haussmann inaugure son "Quartier des jouets"](https://www.printemps.com/fr/fr/edito-magasins-jouets-printemps-hausmann-2024?ap_source=anico&ap_medium=navigation&ap_campaign=jouets-ph)
-    * [Printemps Express ! Embarquons pour Noël](https://www.printemps.com/fr/fr/edito-magasin-printemps-express-noel-2024?ap_source=anico&ap_medium=navigation&ap_campaign=printemps-express-ph)
-    * [Pour Noël, l'Atrium du Printemps Haussmann devient le Chalet Montblanc](https://www.printemps.com/fr/fr/edito-magasins-noel-montblanc-printemps-haussmann-2024?ap_source=anico&ap_medium=navigation&ap_campaign=montblanc-ph)
-    * [Du nouveau à l'accessoire Homme](https://www.printemps.com/fr/fr/edito-magasins-accessoires-hommes-2024)
+    * [Modology, les nouvelles collections de A à Z](https://www.printemps.com/fr/fr/edito-actu-modology-presentation?ap_source=anico&ap_medium=navigation&ap_campaign=edito_modology)
+    * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
+    * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
+    * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
 
 Mise à jour du 26/04/2023
 
