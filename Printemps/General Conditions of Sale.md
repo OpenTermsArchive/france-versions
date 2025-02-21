@@ -75,6 +75,7 @@
 
 * [DANS LA TENDANCE](#)
     * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-printemps-ete-2025?ap_source=anico&ap_medium=nav-new&ap_campaign=new_co)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted?ap_source=anico&ap_medium=nav-new&ap_campaign=most_wanted)
     * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures?ap_source=anico&ap_medium=nav-new&ap_campaign=fausse_fourrure)
     * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-new&ap_campaign=makeit_shine)
@@ -142,6 +143,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=nouveautes)
     
 * [TENDANCES](#)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures?ap_source=anico&ap_medium=nav-femme&ap_campaign=fausse_fourrure)
     * [Make it shine](https://www.printemps.com/fr/fr/ca-brille?ap_source=anico&ap_medium=nav-femme&ap_campaign=makeit_shine)
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025?ap_source=anico&ap_medium=nav-femme&ap_campaign=edito_manteaux)
@@ -223,7 +225,7 @@
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
     
 * [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    * La sélection coups de coeur
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Ski : rester stylé sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look?ap_source=anico&ap_medium=navigation&ap_campaign=edito-ski-homme)
     * [Gorpcore](https://www.printemps.com/fr/fr/vestiaire-technique?ap_source=anico&ap_medium=navigation&ap_campaign=gorpcore-homme)
     * [College boy](https://www.printemps.com/fr/fr/born-in-the-usa-homme?ap_source=anico&ap_medium=navigation&ap_campaign=college-homme)
