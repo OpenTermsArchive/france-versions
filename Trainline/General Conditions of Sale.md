@@ -144,7 +144,7 @@ Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui
 
 **Clients en Italie**
 
-Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 17 h CET, et le samedi et le dimanche de 9 h à 13 h.
+Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 17 h CET.
 
 Vous pouvez nous appeler au 02 3055 1995 pour obtenir de l'aide à propos d'une réservation existante.  Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour réserver un billet. Le coût de l'appel varie en fonction des tarifs de votre opérateur. 
 
