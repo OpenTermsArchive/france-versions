@@ -396,7 +396,7 @@
     * [Voir tout](https://www.printemps.com/fr/fr/magasins)
 
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
-    * [Club Printemps](https://www.printemps.com/fr/fr/aHR0cHM6Ly93d3cucHJpbnRlbXBzLmNvbS9mci9mci9jbHViLXByaW50ZW1wcw==)
+    * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
     * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
     * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
