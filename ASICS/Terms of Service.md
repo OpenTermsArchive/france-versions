@@ -43,6 +43,8 @@ Conditions d'Utilisation
     
     5.1. Après réception de la commande du client, ASICS vérifiera si les produits concernés sont en stock. Le contrat entre le client et ASICS ne sera conclu qu'après l'envoi par ASICS d'un e-mail confirmant le contrat et l'expédition (e-mail de confirmation d'expédition) et la distribution de tout ou partie des produits disponibles ou la disponibilité de la commande pour retrait dans le magasin sélectionné.
     
+    En cas d’impossibilité de livraison, ASICS informera le client le plus rapidement possible de l’indisponibilité et est en droit de résilier le contrat correspondant. ASICS remboursera immédiatement toute rémunération déjà reçue du client.
+    
     5.2. ASICS ne déposera pas de copie accessible de ce contrat. Le client est donc encouragé à télécharger, enregistrer et/ou imprimer une copie de la confirmation de commande et des présentes conditions générales pour ses archives.
     
     ### 6\. TARIFS
