@@ -21,17 +21,6 @@ Le site legalstart.fr est hébergé par la société Heroku Inc., 650 7th Street
 * Par email : contact@legalstart.fr
 * Par courrier : Legalstart.fr (Yolaw SAS), 50 rue d'Hauteville, 75010 Paris
 
-### **Votre vie privée**
-
-Le traitement de vos données à caractère personnel est régi par notre Charte du respect de la vie privée conformément au Règlement Général sur la Protection des Données 2016/679 du 27 avril 2016 (« RGPD »). Yolaw SAS a désigné un Délégué à la Protection des Données (DPO) auprès de la CNIL (Désignation N° DPO-1777). Les coordonnées de notre Délégué à la Protection des Données sont les suivantes:
-
-Me Yaël Cohen-Hadria - Cabinet Marvell Avocats  
-**Adresse** : 7 avenue Ingres, 75016 PARIS France  
-**Tél** : 0153431313  
-**Email** : **ycohenhadria@marvellavocats.com**
-
-Pour toute question concernant vos données personnelles ou si vous souhaitez supprimer votre Compte, merci de nous contacter à l’adresse suivante: Yolaw SAS, 50 rue d'Hauteville, 75010 Paris (en indiquant "Vie Privée - Protection des Données") ou par email à privacy@legalstart.fr.
-
 ### **En savoir plus**
 
 Cliquez ici pour en savoir plus sur les [mentions légales obligatoires](https://www.legalstart.fr/documents/mentions-legales/).
