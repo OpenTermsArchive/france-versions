@@ -440,18 +440,14 @@ Finnair Plc Numéro d’identification de l’entreprise : 0108023-3 Adresse :
 
 **En vertu du RGPD, vous disposez également des droits suivants concernant vos données à caractère personnel :**
 
-* **Droit d’accès :** Vous pouvez demander une copie des données à caractère personnel vous concernant que nous détenons. 
+* **Droit d’accès :** Vous pouvez demander une copie des données à caractère personnel vous concernant que nous détenons.
 * **Droit de rectification :** Vous pouvez nous demander de corriger des données à caractère personnel inexactes ou incomplètes.
 * **Droit à l’effacement :** Vous pouvez nous demander la suppression de vos données à caractère personnel sous certaines conditions.
-* **Droit à la limitation du traitement :** Vous pouvez nous demander de limiter le traitement de vos données à caractère personnel dans certaines circonstances. 
+* **Droit à la limitation du traitement :** Vous pouvez nous demander de limiter le traitement de vos données à caractère personnel dans certaines circonstances.
 * **Droit à la portabilité des données :** Si nous traitons vos données à caractère personnel sur la base de votre consentement, vous pouvez demander à recevoir vos données à caractère personnel dans un format structuré, couramment utilisé et lisible par machine et faire transmettre ces données à un autre responsable du traitement.
 * **Droit d’opposition :** Vous pouvez vous opposer à tout moment au traitement de vos données à caractère personnel sur la base de notre intérêt légitime à des fins de communication marketing. 
 
 Pour savoir comment exercer les droits ci-dessus, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
-
-**Coordonnées à utiliser pour toute question concernant le traitement de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu**
-
-Si vous avez des questions concernant le présent avis de confidentialité, vous pouvez contacter le service Engagement client de Finnair : customerdata@finnair.com.
 
 **Coordonnées du délégué à la protection des données**
 
@@ -573,13 +569,12 @@ Si, dans le cadre de nos opérations, vos données à caractère personnel sont 
 Nous conserverons vos données à caractère personnel à des fins de communication marketing tant que vous continuerez à consentir à recevoir nos communications marketing et à des fins de personnalisation du contenu, et jusqu’à ce que vous vous opposiez à notre traitement de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu.
 
 * Si vous souhaitez retirer votre consentement, vous pouvez le faire comme indiqué dans la section « Comment retirer votre consentement et exercer vos droits » ci-dessus. Une fois que vous aurez retiré votre consentement, nous ne vous enverrons plus d’e-mails marketing et vous ne verrez plus voir nos publicités personnalisées sur les plateformes tierces. Le retrait de votre consentement prendra effet immédiatement pour les e-mails et dans les 24 heures pour les publicités personnalisées.
-* Si vous souhaitez vous opposer à notre traitement de vos données à caractère personnel à des fins de communication marketing et de personnalisation du contenu, vous pouvez nous adresser une demande à customerdata@finnair.com. 
 
 **Notez** que nous conserverons certaines données si la loi l’impose ou à des fins commerciales légitimes non liées aux communications marketing ou à la personnalisation du contenu.
 
 #### Si vous avez une réclamation
 
-**Si vous avez une réclamation concernant le traitement de vos données à caractère personnel à des fins de communication marketing ou de personnalisation du contenu** dont vous êtes informé par le présent avis de confidentialité, contactez-nous à customerdata@finnair.com. Nous ferons de notre mieux pour clarifier et résoudre tout problème.
+**Si vous avez une réclamation concernant le traitement de vos données à caractère personnel à des fins de communication marketing ou de personnalisation du contenu** dont vous êtes informé par le présent avis de confidentialité, contactez-nous à privacy@finnair.com. Nous ferons de notre mieux pour clarifier et résoudre tout problème.
 
 Pour savoir comment introduire une réclamation auprès de l’autorité de protection des données finlandaise, consultez [notre politique générale de confidentialité](https://www.finnair.com/fr-fr/info/politique-de-confidentialit%C3%A9-de-finnair#bonjour--nous-souhaitons-nous-assurer-que-vous-acceptez-notre-politique-en-mati%C3%A8re-d-utilisation-de-vos-donn%C3%A9es-).
 
