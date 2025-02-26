@@ -663,7 +663,7 @@ Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : blablasupport@blablacar.com, tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
@@ -690,7 +690,7 @@ Ces informations ont uniquement vocation à se conformer aux exigences du DSA et
 
 **16.1.2. Points de contact pour les autorités**
 
-Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
+Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : dsa-authorities@blablacar.com.
 
 Vous pouvez nous écrire en anglais et en français.
 
@@ -1351,7 +1351,7 @@ Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 164 820,42 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : blablasupport@blablacar.com, tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
@@ -2016,7 +2016,7 @@ Si vous souhaitez attirer notre attention sur un sujet, merci de nous contacter 
 **16\. Mentions légales**
 -------------------------
 
-La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 154 803,01 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection), tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
+La Plateforme est éditée par la société Comuto SA, société anonyme au capital de 154 803,01 euros immatriculée au Registre du Commerce et des Sociétés de Paris, sous le numéro 491.904.546 (numéro de TVA intracommunautaire : FR76491904546) dont le siège social est situé au 84, avenue de la République – 75011 Paris (France) (e-mail : blablasupport@blablacar.com, tél. : 01.85.76.22.27), représentée par son Directeur Général, Nicolas Brusson, Directeur de la publication du Site.
 
 Le Site est hébergé sur l’infrastructure Google Cloud Platform aux Pays-Bas.
 
@@ -2041,7 +2041,7 @@ Ces informations ont uniquement vocation à se conformer aux exigences du DSA et
 
 **16.1.2. Points de contact pour les autorités**
 
-Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : [\[email protected\]](https://blog.blablacar.fr/cdn-cgi/l/email-protection).
+Conformément à l’article 11 du DSA, si vous êtes membre d’autorités compétentes de l’UE, de la Commission européenne ou du Comité européen des services numériques, vous pouvez nous contacter pour toute question concernant le DSA par e-mail à l’adresse suivante : dsa-authorities@blablacar.com.
 
 Vous pouvez nous écrire en anglais et en français.
 
