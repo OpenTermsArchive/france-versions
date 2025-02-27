@@ -27,4 +27,4 @@ Cliquez ici pour en savoir plus sur les [mentions légales obligatoires](https:
 
 ### **Index de l'égalité hommes-femmes**
 
-L'index de l'égalité hommes-femmes 2024 de Legalstart est de 81 (période de référence 2023). Découvrez le détail du calcul en cliquant [ici](https://www.legalstart.fr/hubfs/Index%20%C3%A9galit%C3%A9%20professionnelles%20Femmes-Hommes%202024%20-%20R%C3%A9capitulatif%20notes%20indicateurs.pdf).
+L'index de l'égalité hommes-femmes 2025 de Legalstart est de 76 (période de référence 2024). Découvrez le détail du calcul en cliquant [ici](https://www.legalstart.fr/hubfs/Index%20Egalit%C3%A9%20professionnelle%202025.pdf).
