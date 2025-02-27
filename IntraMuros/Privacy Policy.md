@@ -6,7 +6,18 @@ Le "Site" est édité par la société IntraMuros SAS, ci-après nommée "l'Edit
 
 Nous nous réservons la possibilité de modifier à tout moment cette politique de confidentialité, ces modifications entrant en vigueur immédiatement. Aussi, nous vous invitons à relire régulièrement cette page afin de maintenir votre consentement.
 
-L'Editeur s'engage à ce que les traitements des données personnelles récoltées via le "Site" soient conformes au réglement général sur la protection des données (RGPD) et à la loi Informatique et Libertés.
+Parties impliquées dans la collecte des données personnelles
+------------------------------------------------------------
+
+* **Responsable de traitement** : Mairies et Établissements Publics de Coopération Intercommunale (EPCI). Ces entités déterminent les finalités et les moyens du traitement des données personnelles collectées via le "Site". Elles utilisent ces données pour accomplir leurs missions de service public.
+* **Sous-traitant** : IntraMuros, en tant qu'éditeur et hébergeur du "Site". Le sous-traitant fournit les services techniques nécessaires à l'hébergement et à la gestion du "Site" pour le compte du responsables de traitement.
+
+  
+
+Responsable de traitement
+-------------------------
+
+Les données personnelles sont collectées sur le "Site" par l'Éditeur, agissant en tant que sous-traitant pour le compte des responsables de traitement, tels que les mairies et les Établissements Publics de Coopération Intercommunale (EPCI). Ces responsables de traitement définissent les objectifs et les méthodes de traitement des données, conformément à la réglementation RGPD. Les données ainsi collectées leur permettent d'accomplir leurs missions de service public, en assurant la gestion et l'administration efficaces des services locaux.
 
   
 
@@ -21,17 +32,10 @@ Conformément à Loi Informatique et Libertés ainsi qu'au Règlement Général 
 
   
 
-Responsable de traitement
--------------------------
-
-Les données personnelles collectées via le "Site" sont mises à la disposition des collectivités concernées (mairies et/ou EPCI) qui sont responsables de leur traitement. Ces données leur permettent de mener à bien leur mission de service public.
-
-  
-
 Traitement des données personnelles
 -----------------------------------
 
-Les données personnelles sont récoltées dans le cadre d’une mission de service public, d’analyse statistique et de suivi des demandes que vous pourriez formuler via les services du "Site".  
+Les données personnelles sont récoltées dans le cadre d’une mission d'intérêt public (article 6 (1e) du règlement général sur la protection des données - RGPD), d’analyse statistique et de suivi des demandes que vous pourriez formuler via les services du "Site".  
 Toute personne saisissant des informations personnelles sur le "Site" est responsable de leur exactitude.  
 Ces données sont collectées par le biais:
 
