@@ -1,584 +1,583 @@
-Conditions générales de transport
-=================================
+Conditions générales – Conditions de transport
+==============================================
 
-Avis important : Pour toutes informations pratiques importantes faisant partie intégrante de nos Conditions Générales de Transport, lesquelles prévalent en cas de contradiction, veuillez cliquer ici.
+Avis important : si les présentes conditions sont traduites dans une langue autre que l’anglais, et s’il existe un conflit ou une ambiguïté entre la version anglaise et l’autre/les autre(s) version(s), la version anglaise prévaudra.
 
-Si les présentes conditions sont traduites dans une langue autre que l’anglais et s’il existe un conflit ou une ambiguïté entre la version en langue anglaise et l’/les autre(s) version(s), la version en langue anglaise prévaudra.
+Dans les présentes conditions générales, les termes et expressions suivants ont les sens qui leur sont respectivement attribués, sauf si le contexte impose le contraire ou sauf mentions contraires :
 
-Dans les présentes conditions générales, les termes et expressions suivants ont les sens qui leur sont respectivement attribués, sauf si le contexte impose le contraire ou sauf mentions contraires :
+Les **lieux d’arrêt convenus** sont les lieux, à l’exception du lieu de départ et du lieu de destination, indiqués sur le billet ou affichés dans nos horaires en tant que lieux d’arrêt prévus dans votre itinéraire.
 
-**Lieux d’arrêt** convenus désigne les lieux, à l’exception du lieu de départ et le lieu de destination, indiqués sur le Billet ou affichés dans nos horaires, en fonction des lieux d’arrêt prévus dans votre itinéraire.
+Le **code de désignation de compagnie** désigne les deux caractères ou les trois lettres qui identifient chaque transporteur aérien.
 
-**Code de désignation** désigne les deux caractères ou trois lettres qui identifient chaque transporteur aérien.
+Les **agent agréés** sont des agents de vente aux passagers que nous avons désignés afin de nous représenter dans la vente de titres de transport aérien sur nos services.
 
-**Agent autorisé** désigne un agent de ventes passagers qui a été désigné par nous afin de nous représenter dans la vente de transports aériens sur nos services.
+Les **bagages** sont tous les articles destinés à l’usage des passagers. Sauf indication contraire, ils incluent à la fois les bagages enregistrés et non enregistrés du passager.
 
-**Bagage** désigne vos effets personnels que vous transportez avec vous pour les besoins de votre voyage. Sauf indication contraire, ce terme désigne les Bagages enregistrés et non enregistrés.
+Le **bulletin de bagages** renvoie aux parties de votre billet relatives au transport de vos/votre bagage(s) enregistré(s).
 
-**Bulletin de bagages** désigne la partie de votre Billet afférente au transport de vos/votre Bagage(s) enregistré(s).
+L’**étiquette de bagage** désigne un document délivré par le transporteur à la seule fin d’identifier les bagages enregistrés. Une partie de l’étiquette (attache) est fixée par le transporteur à un article individuel des bagages enregistrés, et l’autre partie (pour l’identification) est remise au passager.
 
-**Étiquette de bagage** désigne un document délivré par le Transporteur à la seule fin d’identifier les bagages enregistrés, dont la partie étiquette (attache) est fixée par le Transporteur à un article particulier des bagages enregistrés et dont l’autre partie étiquette (identification) est délivrée au passager.
+Le **« transporteur » ou le « transporteur effectif »** désigne un transporteur aérien autre que Brussels Airlines, dont le code de désignation de compagnie est mentionné sur votre billet ou sur un billet complémentaire.
 
-« **Carrier** » ou « **Operating Carrier** » désigne un transporteur aérien (autre que nous) dont le Code de désignation est mentionné sur votre Billet ou sur votre Billet complémentaire.
+Les **bagages enregistrés** sont tous les bagages dont nous assumons la charge exclusive et pour lesquels nous avons délivré une étiquette de bagage.
 
-**Bagage** enregistré désigne tout Bagage dont nous prenons la garde et pour lequel nous avons délivré une Étiquette de bagages.
+L’**heure limite d’enregistrement** désigne l’heure limite, précisée par la compagnie aérienne, à laquelle vous devez avoir accompli les formalités d’enregistrement et reçu votre carte d’embarquement.
 
-**Heure limite d’enregistrement** désigne l’heure limite précisée par la compagnie aérienne à laquelle vous devez avoir accompli les formalités d’enregistrement et reçu votre carte d’embarquement.
+Le **partage de codes** désigne un transport par avion opéré par un autre transporteur, comme indiqué sur le billet.
 
-**Partage de code** désigne le transport par avion réalisé par un autre transporteur, comme indiqué sur le billet.
+Les **conditions contractuelles** désignent les déclarations contenues dans, ou fournies avec votre billet ou votre itinéraire-reçu, identifiées comme telles et qui incorporent par référence les présentes conditions de transport et les avis aux passagers.
 
-**Contrat de transport** désigne les déclarations contenues dans ou fournies avec votre Billet ou votre Itinéraire/Reçu, clairement identifiées et qui intègrent, par référence, les présentes Conditions générales de transport et les avis aux passagers.
+Le **billet complémentaire** est un billet émis à votre nom, conjointement avec un autre billet, et dont l’ensemble constitue un seul contrat de transport, à condition qu’ils aient été achetés dans le cadre d’un même processus de réservation et au même prix.
 
-**Billet complémentaire** désigne un Billet émis à votre nom conjointement avec un autre Billet et dont l’ensemble constitue un seul contrat de transport.
+Le **transporteur contractuel** désigne le transporteur avec lequel le passager a conclu un contrat de transport et dont le code de désignation de compagnie apparaît sur le billet.
 
-**Transporteur émetteur** désigne la compagnie avec laquelle le Passager a conclu un Contrat de transport et dont l’Airline Designator Code apparaît sur le Billet.
+La **Convention** désigne toute(s) fondation(s) juridique(s) suivante(s) applicable(s) : 
 
-**Convention** repose sur les dispositions respectivement applicables des bases juridiques suivantes:
+* la Convention pour l’unification de certaines règles relatives au transport aérien international, signée à Varsovie le 12 octobre 1929 ;
+* la Convention de Varsovie amendée à La Haye le 28 septembre 1955 ;
+* la Convention de Varsovie amendée par le Protocole additionnel N° 1 de Montréal (1975) ;
+* la Convention de Varsovie amendée à la Haye et par le Protocole additionnel de Montréal N° 2 (1975) ;
+* la Convention complémentaire de Guadalajara (1961) ;
+* la Convention pour l’unification de certaines règles relatives au transport aérien international, signée le 28 mai 1999 à Montréal (ci-après dénommée la « Convention de Montréal »).
 
-* la Convention signée le 12 octobre 1929 à Varsovie sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international ;
-* la Convention de Varsovie dans sa version modifiée en date du 28 septembre 1955 ;
-* la Convention de Varsovie dans sa version modifiée par le Protocole de Montréal n° 1 (1975) ;
-* la Convention de Varsovie dans la version du Protocole de la Haye et du Protocole de Montréal n° 2 (1975) ;
-* la Convention complémentaire de Guadalajara (1961) ;
-* la Convention signée le 28 mai 1999 à Montréal sur l’uniformisation de certaines dispositions sur le transport dans le cadre du trafic aérien international (ci-après dénommée la Convention de Montréal).
+Le **coupon** désigne soit un coupon de vol sur support papier, soit un coupon électronique, tous deux vous autorisant à voyager sur le vol mentionné sur ledit coupon
 
-**Coupon** désigne soit un Coupon de vol sur support papier, soit un Coupon électronique, tous deux autorisant le Passager qu’ils désignent à voyager sur le vol indiqué.
+Les **dommages** désignent le décès, les blessures ou lésions corporelles d’un passager ; la perte totale ou partielle, le vol ou tout autre dommage survenant du fait du transport ou en rapport avec celui-ci, ou avec d’autres services liés au transport que nous fournissons.
 
-**Dommages** recouvre les cas de décès, blessure corporelle ou autre d’un Passager, la perte totale ou partielle, le vol ou tout autre dommage survenant du fait du transport ou en rapport avec celui-ci, ou avec d’autres services liés au transport que nous fournissons.
+Le concept de **jours** fait référence aux jours civils, soit les sept jours de la semaine, étant entendu que, dans le cas d’une notification, le jour d’envoi de la notification ne compte pas, et en considérant que, pour déterminer la durée de validité d’un billet, le jour d’émission dudit billet ou le jour du commencement du vol ne compte pas.
 
-**Jours** désigne les jours civils, soit les sept jours de la semaine, étant entendu que, dans le cas d’une notification, le jour d’envoi d’un tel avis n’est pas compté, et en considérant que, pour déterminer la durée de validité d’un Billet, le jour d’émission dudit Billet ou le jour du commencement du vol n’est pas compté.
+Le **coupon électronique** désigne un coupon de vol électronique ou tout autre document équivalent et enregistré dans notre base de données.
 
-**Coupon électronique** désigne un Coupon de vol électronique ou tout autre document affichant une valeur et enregistré dans notre base de données.
+Le **billet électronique** reprend l’itinéraire-reçu que nous émettons ou qui est émis en notre nom, le coupon électronique et, le cas échéant, une carte d’embarquement.
 
-**Billet électronique** désigne l’Itinéraire/Reçu que nous émettons ou qui est émis en notre nom, le Coupon électronique et, le cas échéant, une carte d’embarquement.
+Le **tarif du billet** est tel que décrit à l’article 4.
 
-**Prix du billet** Comme décrit à l’Article 4.
+Le **coupon de vol** est la partie du billet portant la mention « valable pour transport » ou, dans le cas d’un billet électronique, le coupon électronique, et indique les points précis entre lesquels le passager peut être transporté.
 
-**Coupon de vol** désigne la partie du Billet portant la mention « valable pour transport » ou, dans le cas d’un Billet électronique, le Coupon électronique, et indique les points précis entre lesquels vous êtes habilité(e) à être transporté(e).
+Le concept de « **force majeure** » désigne des circonstances extraordinaires et imprévisibles, qui vont au-delà de notre contrôle et dont les conséquences n’auraient pas pu être évitées même si nous avions pris toutes les mesures de précaution.
 
-**Force Majeure** désigne des circonstances extraordinaires et imprévisibles, qui sont en dehors de notre contrôle et dont les conséquences ne pouvaient être évitées même en recourant à toutes les mesures de précaution.
+L’**itinéraire-reçu** désigne un ou des document(s) de voyage que nous remettons aux passagers voyageant avec un billet électronique, contenant le nom du passager, les informations sur les vols et d’autres informations relatives au voyage. Le passager doit conserver ce document et l’avoir sur lui pendant toute la durée du voyage.
 
-**Itinéraire/Reçu** désigne un ou des documents de voyage remis aux Passagers voyageant avec un Billet électronique, contenant le nom du Passager, les renseignements sur le vol et d’autres informations relatives au vol. Le Passager doit conserver ce document et l’avoir sur lui pendant toute la durée du transport.
+Les **passagers** sont toutes les personnes, sauf les membres de l’équipage, dont le transport par avion est en cours ou va avoir lieu, et ce avec notre accord.
 
-**Passager** désigne toute personne, sauf les membres de l’équipage, transportée ou devant être transportée par avion avec notre accord.
+Le **coupon passager/reçu passager** désigne la partie du billet que nous émettons en notre nom, ainsi annotée et que conserve en dernier lieu le passager.
 
-**Coupon passager/Reçu-passager** désigne la partie du Billet que nous émettons en notre nom, et qui est ainsi dénommée ; vous devez conserver cette partie de votre Billet.
+Le **Règlement (CE) N° 261/2004** désigne le Règlement (CE) N° 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d’indemnisation et d’assistance des passagers en cas de refus d’embarquement et d’annulation ou de retard important d’un vol, et abrogeant le Règlement (CEE) N° 295/91.
 
-**Réglementation (CE) 261/2004** désigne le Règlement (CE) 261/2004 du Parlement européen et du Conseil du 11 février 2004 établissant des règles communes en matière d'indemnisation et d'assistance des passagers en cas de refus d'embarquement et d'annulation ou de retard important d'un vol, et abrogeant le règlement (CEE) n° 295/91.
+Le concept de **DTS** fait référence aux droits de tirages spéciaux tels que définis par le Fonds Monétaire International.
 
-**DTS** désigne un Droit de Tirage Spécial, tel que défini par le Fonds Monétaire International.
+Une **escale** est un arrêt programmé durant votre voyage, en un lieu situé entre le point de départ et la destination.
 
-**Escale** désigne un arrêt programmé durant votre voyage en un lieu situé entre le point de départ et le point de destination.
+Le **tarif** désigne les tarifs de vol publiés ainsi que les taxes et/ou les conditions de transport d’une compagnie aérienne qui y sont liées ; le cas échéant, celles-ci doivent être approuvées par les autorités compétentes.
 
-**Tarifs** désigne les tarifs de vol et les taxes et/ou redevances liés aux Conditions générales de transport d’une compagnie aérienne; le cas échéant, celles-ci doivent être approuvées par les autorités compétentes.
+Le **billet** désigne soit le document intitulé « billet du passager et bulletin de bagages », soit le billet électronique ; tous deux sont délivrés par nous ou en notre nom, et contiennent les conditions contractuelles, les avis aux passagers et les coupons.
 
-**Billet** désigne soit le document intitulé « Billet de passager et Bulletin de bagages », soit le Billet électronique avec ses Coupons; tous deux sont délivrés par nous-mêmes ou en notre nom, et contiennent le Contrat de transport, les avis aux Passagers et les coupons.
+Les **bagages non enregistrés** désignent tous bagages vous appartenant et n’ayant pas été enregistrés.
 
-**Bagage non enregistré** désigne tout Bagage vous appartenant, autre qu’un Bagage enregistré.
+**« Nous » ou « nos soins »** fait référence à Brussels Airlines NV, dont le siège social est sis à 100-102, Avenue des Saisons, B 30, 1050 Bruxelles (Belgique), dont le numéro d’entreprise/de TVA est le 0400853488 et possédant un établissement commercial sis à b.house – Brussels Airport, Airport building 26 box 1a.4 – Ringbaan, B-1831 Diegem (Belgique).
 
-« **Nous** » désigne Brussels Airlines SA/NV, dont le siège social est sis à 100-102, Avenue des Saisons, B 30, 1050 Bruxelles (Belgique), le numéro d’entreprise/de TVA est le 0400853488 et l’établissement commercial est sis à b.house - Brussels Airport, Airport building 26 box 1a.4 – Ringbaan, B-1831 Diegem (Belgique).
-
-« **Vous** » désigne toutes les personnes, en dehors des membres de l’équipage, transportées ou devant être transportées par avion en vertu d’un Billet (voir également la définition de « Passager »).
+**« Vous »** désigne toutes les personnes, en dehors des membres de l’équipage, dont le transport par avion est en cours ou va avoir lieu, à la suite de l’achat d’un billet. (Voir également la définition de « passager ».)
 
 ### Généralités
 
-2.1. Les présentes constituent les Conditions générales de transport indiquées sur le billet, sauf mention contraire dans les Articles 2.2., 2.4. et 2.5. ; elles s’appliquent uniquement aux vols ou aux segments de vol, pour lesquels nous apparaissons avec notre nom et notre Code de désignation (SN) dans la case du transporteur figurant sur le Billet correspondant.
+2.1. Les présentes constituent les conditions de transport auxquelles le billet fait référence, et, sauf mention contraire dans les articles 2.2., 2.4. et 2.5., elles s’appliquent uniquement aux vols ou aux segments de vol pour lesquels sont mentionnés notre nom ou notre code de désignation de compagnie (SN) dans la case du transporteur figurant sur le billet du vol ou du segment de vol en question. Les présentes conditions s’appliquent au vol ou aux segments de vol qui figurent sur le billet et à tout service complémentaire acheté en même temps que le billet ou ultérieurement.
 
-### Vols charter
+### Vols charters
 
-2.2. Les présentes Conditions s’appliquent au vol ou aux segments de vol qui figurent sur le Billet et à tout service auxiliaire acheté au moment de l’achat du billet ou ultérieurement.
-
-Si le transport est réalisé au titre d’un contrat de charter, les présentes Conditions de Transport s’appliquent uniquement dans la mesure où elles sont mentionnées explicitement, ou d’une autre manière, dans le contrat de charter ou sur le Billet.
+2.2. Si le transport est réalisé au titre d’un contrat de charter, les présentes conditions de transport s’appliquent uniquement dans la mesure où elles sont incorporées par référence ou d’une autre manière au contrat de charter ou au billet.
 
 ### Vols en partage de codes
 
-2.3. Certaines de nos prestations de services sont réalisées en collaboration avec d’autres transporteurs : il s’agit du « Partage de codes ». Cette pratique implique que même si vous avez effectué une réservation chez nous et si vous possédez un billet sur lequel nous sommes désignés comme transporteur ou dans lequel apparaît notre Code de désignation (SN), le vol peut être affrété par un autre Transporteur. En cas de vol en partage de code, nous vous indiquons à la réservation le nom de la compagnie opérante. Dans le cas des vols depuis ou vers les États-Unis, le Plan de contingences des retards sur le tarmac de la compagnie opérante sera appliqué.
+2.3. Certaines de nos prestations de services sont réalisées en collaboration avec d’autres transporteurs : il s’agit du « partage de codes ». Cette pratique implique que même si vous avez effectué une réservation chez nous et si vous possédez un billet sur lequel nous sommes désignés comme transporteur ou sur lequel apparaît notre code de désignation de compagnie (SN), le vol peut être opéré par un autre transporteur. En cas de vol en partage de codes, nous vous indiquerons à la réservation le nom du transporteur effectif du vol. Dans le cas des vols depuis ou vers les États-Unis, le plan d’urgence en cas de retard sur le tarmac du transporteur opérant le vol s’applique.
 
-Pour les services en partage de code sur des vols opérés par d’autres transporteurs, les présentes conditions de transport s’appliquent. Toutefois dans certains cas, les partenaires en partage de code peuvent appliquer des dispositions spécifiques concernant l’opération de leurs propres vols. Ces dispositions peuvent diverger de celles de Brussels Airlines concernant les vols opérés pour son propre compte. Vous trouverez les conditions des partenaires en partage de code sur leur site Internet respectif ou auprès de votre agence de voyages.
+Dans le cadre des services en partage de codes sur des vols opérés par un autre transporteur, les présentes conditions de transport s’appliquent. Toutefois, les partenaires en partage de codes peuvent appliquer des dispositions spécifiques concernant l’opération de leurs propres vols. Ces dispositions peuvent diverger de celles de Brussels Airlines concernant les vols opérés par Brussels Airlines. Ces dispositions y sont incorporées par référence et constituent une partie des présentes conditions de transport. Vous trouverez les conditions des partenaires de SN en partage de codes sur leur site Web respectif ou auprès de votre agence de voyages.
 
-Vous devez prendre connaissance des dispositions applicables aux vols opérés par un autre transporteur dans le cadre d’un accord de partage de code, notamment en ce qui concerne les spécificités comme les horaires d’enregistrement, les critères et directives applicables en matière de transport de mineurs voyageant seuls, le transport d’animaux, le droit de refuser le transport, les appareils à oxygène, les irrégularités de vols, les dédommagements en cas de refus de transport, les franchises bagages, l’enregistrement des bagages, etc.
+Veuillez prendre connaissance des dispositions applicables aux vols opérés par un autre transporteur dans le cadre d’un accord de partage de codes, notamment en ce qui concerne les spécificités comme les heures limites d’enregistrement avant le vol, les critères et directives applicables en matière de transport de mineurs non accompagnés, le transport d’animaux, le refus de transport, les services d’oxygène, les irrégularités de vols, les indemnisations pour refus d’embarquement, les franchises de bagages, l’enregistrement des bagages, etc.
 
-2.4. Au moment de la réservation, le contractant du transport aérien vous informera de l’identité de la/des compagnie(s) aérienne(s) opérante(s). Si l’identité de la compagnie aérienne n’est pas encore connue au moment de la réservation, le contractant du transport aérien vous communiquera cette information dans les meilleurs délais et, au plus tard, au moment de l’enregistrement ou de l’embarquement lorsque l’enregistrement n’est pas nécessaire dans le cas d’une correspondance.
+2.4. Au moment de la réservation, le contractant du transport aérien vous communiquera l’identité du/des transporteur(s) aérien(s) effectifs). Si l’identité du transporteur aérien effectif n’est pas encore connue au moment de la réservation, le contractant du transport aérien vous communiquera cette information dans les meilleurs délais et, au plus tard, au moment de l’enregistrement ou de l’embarquement lorsque l’enregistrement n’est pas nécessaire dans le cas d’un vol en correspondance. Si le contractant du transport aérien change après la réservation pour des raisons techniques ou opérationnelles telles que des problèmes d’entretien, des incidents ou accidents, des conditions météorologiques défavorables, etc., le passager sera informé de ce changement dans les meilleurs délais et, au plus tard, au moment de l’enregistrement ou de l’embarquement lorsque l’enregistrement n’est pas nécessaire dans le cas d’un vol en correspondance, conformément aux dispositions du Règlement (CE) N°2111/2005.
 
-Au cas où le contractant du transport aérien changerait après la réservation, pour des raisons techniques ou opérationnelles, comme des problèmes d’entretien, des incidents ou accidents, des conditions météorologiques, etc., le passager doit être informé de ce changement dans les meilleurs délais et, au plus tard, au moment de l’enregistrement ou de l’embarquement lorsque l’enregistrement n’est pas nécessaire dans le cas d’une correspondance, conformément aux dispositions du Règlement de l’UE 2111/2005.
+### Droit applicable
 
-### Prédominance de la loi
+2.5. Conformément aux options limitées concernant le choix de la loi applicable en vertu de l’article 5, point 2, sous-paragraphe 2, du Règlement (CE) N° 593/2008 sur la loi applicable aux obligations contractuelles (« Rome I »), votre contrat de transport avec nous et les présentes conditions de transport seront régis et interprétés conformément à la législation belge. Si toute disposition des présentes conditions de transport n’est pas valable en vertu du droit applicable, les autres dispositions resteront néanmoins valables.
 
-2.5. Conformément aux options limitées concernant le choix de la loi applicable en vertu de l'article 5, paragraphe 2, deuxième alinéa, du Règlement (CE) 593/2008 sur la loi applicable aux obligations contractuelles (le "Règlement Rome I"), votre contrat de transport avec nous et les présentes Conditions de transport seront régis et interprétés conformément à la législation belge. Si l'une quelconque des dispositions des présentes Conditions de transport n'est pas valable en vertu du droit applicable, les autres dispositions resteront néanmoins valables.
+### Conditions prévalant sur les règlements
 
-### Prédominance des conditions générales
-
-2.6. Sauf mention contraire, en cas de contradiction entre les présentes Conditions générales de transport et toute autre Réglementation de Brussels Airlines, relative à des sujets particuliers, les présentes Conditions générales de transport prévalent.
+2.6. Sauf mention contraire dans les présentes conditions de transport, en cas de contradiction entre les présentes conditions de transport et tout autre règlement de Brussels Airlines relatif à des sujets spécifiques, les présentes conditions de transport prévalent.
 
 ### Généralités
 
-3.1.1. Nous n’effectuons le transport d’un passager qu’à la condition que celui-ci présente un billet valable sur lequel figure son nom ou, en cas de billet électronique, un justificatif de réservation enregistré dans le système informatique sous forme d’ETIX contenant le nom du passager, le coupon du vol concerné, les autres coupons correspondant à l’ensemble du voyage ainsi que le reçu passager.
+3.1.1. Nous n’effectuons le transport d’un passager qu’à la condition que celui-ci présente un billet valable sur lequel figure son nom ou, en cas de billet électronique, un justificatif de réservation enregistré dans le système informatique contenant le coupon du vol concerné, les autres coupons correspondant à l’ensemble du voyage ainsi que le coupon passager.
 
-3.1.2. Un Billet n’est pas cessible.
+3.1.2. Un billet n’est pas cessible.
 
-3.1.3. Le remboursement de billets aux conditions tarifaires spéciales peut être soumis à restrictions. Pour connaître les modalités particulières, veuillez vous référer aux conditions tarifaires concernées (pour tout complément d’information, [_​_cliquez ici](https://www.brusselsairlines.com/fr/fr/my-bookings/cancel-and-refund-requests)).
+3.1.3. Le remboursement de billets à tarif réduit peut être soumis à restrictions. Pour consulter les conditions particulières, veuillez vous référer aux conditions tarifaires correspondantes (pour plus d’informations, [cliquez ici](https://www.brusselsairlines.com/fr/fr/my-bookings/cancel-and-refund-requests)).
 
-3.1.4. Si vous possédez un billet à conditions tarifaires spéciales, comme décrit au paragraphe 3.1.3 et que, pour des raisons de force majeure, vous ne pouvez pas effectuer votre voyage et que vous n’avez pas utilisé votre billet, nous vous remboursons la partie normalement non remboursable du prix du billet, à condition que vous nous informiez rapidement du cas de force majeure et que vous puissiez le justifier.
+3.1.4. Si vous possédez un billet à tarif réduit, comme décrit au paragraphe 3.1.3 ci-dessus, et si, pour des cas de force majeure, vous ne pouvez pas effectuer votre voyage, et si vous n’avez pas encore utilisé votre billet, nous vous remboursons la partie normalement non remboursable du tarif du billet, à condition que vous nous informiez rapidement du cas de force majeure et que vous puissiez le justifier.
 
-3.1.5. Le Billet est et demeure en permanence la propriété du Transporteur émetteur. Le Billet constitue un commencement de preuve du contrat de transport conclu entre le passager et nous-mêmes. Les Conditions générales du contrat mentionnées sur le Billet sont un résumé des dispositions des présentes Conditions générales de transport.
+3.1.5. Le billet est et demeure en permanence la propriété du transporteur émetteur. Le billet constitue une preuve prima facie du contrat de transport conclu entre le passager et le transporteur contractuel. Les conditions contractuelles mentionnées sur le billet résument les dispositions des présentes conditions de transport.
 
-3.1.6. Votre billet et votre carte d’embarquement contiennent des données personnelles. Il vous incombe de prendre les mesures nécessaires afin que ces documents ne soient pas utilisés par un tiers non autorisé. En particulier, vous ne devez pas les diffuser sur les réseaux sociaux.
+3.1.6. Votre billet et votre carte d’embarquement contiennent des données à caractère personnel. Il vous incombe de prendre les mesures nécessaires afin que ces documents ne soient pas utilisés par un tiers non autorisé. Veillez en particulier à ne pas les diffuser sur les réseaux sociaux.
 
-### Exigences relatives au Billet
+### Exigences relatives au billet
 
-3.1.7. À moins que vous ne disposiez d’un Billet électronique, le transport sur un vol n’est autorisé que si vous êtes en mesure de présenter un Billet en cours de validité, contenant le Coupon correspondant à ce vol et tous les autres Coupons de vol inutilisés, ainsi que le Coupon-passager. Vous ne pouvez prétendre au transport si le Billet présenté a été détérioré ou s’il a été modifié par une personne autre que l’un de nos Agents agréés ou nous-mêmes. Si vous avez recours à la billetterie électronique, vous ne pouvez être transporté(e) sur un vol que si vous produisez une identification appropriée et si un Billet électronique en cours de validité a été émis à votre nom.
+3.1.7. À moins que vous ne disposiez d’un billet électronique, le transport sur un vol n’est autorisé que si vous êtes en mesure de présenter un billet en cours de validité à votre nom, contenant le coupon de vol correspondant au vol concerné et tous les autres coupons de vol inutilisés, ainsi que le coupon passager. En outre, vous ne pourrez pas prétendre au transport si le billet présenté a été détérioré ou s’il a été modifié par une personne autre que l’un de nos agents agréés ou Brussels Airlines. Si vous possédez un billet électronique, vous ne pourrez être transporté sur un vol que si vous parvenez à prouver votre identité et si un billet électronique en cours de validité a bien été émis à votre nom.
 
-### Perte du Billet ou de la Carte de fidélité
+### Perte du billet ou de la carte de client
 
-3.1.8. (a) En cas de perte ou détérioration totale ou partielle d’un billet, ou si vous ne pouvez pas présenter le billet contenant le coupon passager et tous les coupons de vol non utilisés, nous pouvons – si vous le souhaitez -rembourser l’intégralité ou une partie de ce billet. Vous devrez à cet effet nous fournir la preuve qu’un billet valide a été émis pour le voyage concerné. Des frais de dossier peuvent alors être facturés pour ce service. De plus, nous pouvons vous demander de vous engager à payer ultérieurement le prix du billet de remplacement, si ce billet ou coupon de vol perdu est utilisé par quelqu’un d’autre en vue d’un voyage ou d’un remboursement. Nous ne demanderons aucun remboursement en cas de perte relevant de notre responsabilité.
+3.1.8. (a) En cas de perte ou de détérioration totale ou partielle d’un billet, ou si vous ne pouvez pas présenter le billet contenant le coupon passager et tous les coupons de vol non utilisés, nous pourrons, sur demande de votre part, remplacer l’intégralité ou une partie de ce billet en en émettant un nouveau. Vous devrez à cet effet nous fournir une preuve, facilement vérifiable au moment même, qu’un billet valide a bien été émis pour le(s) vol(s) concerné(s). Des frais de dossier raisonnables pourraient être facturés pour ce service, mais nous ne vous facturerons pas à nouveau le tarif d’origine. De plus, nous pourrions vous demander de vous engager à nous rembourser tous frais ou toutes pertes encourus, à concurrence de la valeur du billet d’origine, qui seraient nécessairement et raisonnablement encourus par nous ou par un autre transporteur si ce billet était utilisé abusivement. Nous ne vous demanderons aucun remboursement en cas de perte relevant d’une négligence de notre part.
 
-3.1.8. (b) Si cette preuve ne peut être apportée ou si vous ne voulez pas contresigner une telle déclaration, le transporteur émetteur peut, avant d’émettre un nouveau Billet, exiger le paiement intégral du prix du Billet de remplacement. Le Transporteur ayant émis le Billet à l’origine doit préalablement confirmer que le Billet original perdu ou détérioré n’a pas été utilisé avant l’expiration de sa période de validité. Si vous retrouvez votre Billet original avant l’expiration de sa période de validité et que vous le remettez au Transporteur qui a émis le nouveau Billet, vous serez remboursé(e) à cette date.
+3.1.8. (b) Si cette preuve ne peut être apportée ou si vous refusez de vous engager à un tel remboursement, le transporteur émetteur du nouveau billet peut exiger le paiement intégral du prix du billet de remplacement. Ce paiement pourrait faire l’objet d’un remboursement si le transporteur ayant émis le billet d’origine confirme que le billet d’origine perdu ou détérioré n’a pas été utilisé avant l’expiration de sa période de validité. Si vous retrouvez votre billet d’origine avant l’expiration de sa période de validité et que vous le remettez au transporteur qui a émis le nouveau billet, vous serez remboursé à ce moment-là.
 
 ### Devoir de diligence
 
-3.1.9. Un Billet constitue un document de valeur ; il convient de prendre les précautions adéquates pour le conserver et éviter qu’il ne soit volé ou perdu.
+3.1.9. Un billet constitue un document de valeur ; vous êtes tenu de prendre les précautions adéquates pour le conserver et éviter de le perdre ou qu’il vous soit volé.
 
 ### Durée de validité
 
-3.2.1. Sauf mentions contraires figurant sur le Billet, dans les présentes Conditions ou dans les Tarifs applicables (qui peuvent limiter la validité d’un Billet, si la limitation est indiquée sur celui-ci), un Billet est valable pendant :
+3.2.1. Sauf mentions contraires figurant sur le billet, dans les présentes conditions ou dans les tarifs applicables (qui peuvent limiter la validité d’un billet, auquel cas la limitation est indiquée sur celui-ci), un billet est valable pendant :
 
-3.2.1.1. (a) un an à partir de la date d’émission ; ou
+3.2.1.1. (a) un an à partir de la date d’émission ; ou
 
-3.2.1.1. (b) sous réserve que le premier voyage ait lieu dans l’année suivant la date d’émission, un an à partir de la date du premier voyage indiquée sur le Billet.
+3.2.1.1. (b) sous réserve que le premier voyage ait lieu dans l’année suivant la date d’émission, un an à partir de la date du premier voyage indiquée sur le billet.
 
-3.2.2. Si vous ne pouvez entamer votre voyage pendant la durée de validité du Billet car, au moment où vous demandez une réservation sur un vol, nous ne sommes pas en mesure de confirmer cette dernière, nous en prorogeons la validité. En lieu et place, vous pouvez demander un remboursement conformément à l’Article 10.
+3.2.2. Si vous ne pouvez pas entamer votre voyage pendant la durée de validité du billet car, au moment où vous tentez d’effectuer une réservation, nous ne sommes pas en mesure de confirmer cette dernière, nous en prorogerons la validité, ou vous pourrez être remboursé conformément à l’article 10.
 
-### Prolongation de la validité
+### Prorogation de validité
 
-3.2.3. Si, après avoir commencé votre voyage, vous êtes empêché(e), pour des raisons de santé, de le poursuivre durant la période de validité du Billet, nous pouvons proroger la validité du Billet jusqu’à la date où vous redevenez apte à voyager ou jusqu’à la date de notre premier vol disponible après avoir retrouvé cette aptitude. Cette prorogation vaut depuis l’endroit où vous reprenez votre voyage, et ceci pour un transport dans la classe du tarif payé. Vous devez prouver votre maladie au moyen d’un certificat médical. Lorsque les Coupons de vol restant dans le Billet ou, dans le cas d’un Billet électronique, le Coupon électronique, comportent une ou plusieurs Escales, la validité de ce Billet pourra être prorogée de trois mois au plus à compter de la date mentionnée sur ledit certificat. Dans ces conditions, nous prorogeons également la validité des Billets des autres membres de votre famille vous accompagnant de façon immédiate.
+3.2.3. Si, après avoir commencé votre voyage, vous ne pouvez, pour des raisons de santé, le poursuivre durant la période de validité du billet, nous pouvons proroger la validité du billet jusqu’à la date où vous redevenez apte à voyager ou jusqu’à la date de notre premier vol disponible dès que vous avez retrouvé cette aptitude, depuis l’endroit d’où vous reprenez votre voyage, et ceci là où il y a de la place dans la classe du tarif payé. Vous devez prouver que vous êtes malade en présentant un certificat médical. Si les coupons de vol restant dans le billet comportent une ou plusieurs escales, la validité de ce billet pourra être prorogée de trois mois maximum à compter de la date mentionnée sur ledit certificat. Dans de telles circonstances, nous prorogerons également la validité des billets des autres membres de votre famille proche qui vous accompagnent.
 
-3.2.4. En cas de décès d’un Passager en cours de voyage, nous pouvons modifier les Billets des personnes qui l’accompagnent en renonçant à un séjour minimum ou en prorogeant la validité. En cas de décès survenu parmi les proches d’un Passager dont le voyage est commencé, nous pouvons modifier de la même façon la validité des Billets du Passager et de ses proches voyageant avec lui. Toute modification doit être effectuée en échange d’un certificat de décès en bonne et due forme ; en outre, la prolongation de la validité des Billets ne pourra excéder quarante-cinq (45) jours à compter de la date du décès.
+3.2.4. En cas de décès d’un passager en cours de voyage, les billets des personnes qui l’accompagnent peuvent être modifiés via la suppression du séjour minimum ou une prorogation de la validité. En cas de décès survenu dans la famille proche d’un passager dont le voyage a commencé, la validité des billets du passager et des membres de sa famille proche qui l’accompagnent pourra être modifiée de la même façon. Une telle modification sera effectuée sur présentation d’un certificat de décès en bonne et due forme ; en outre, toute prorogation de la validité des billets ne pourra excéder quarante-cinq (45) jours à compter de la date du décès.
 
-### Modifications du Passager
+### Modifications effectuées par le passager
 
-3.3.1. L’ordre séquentiel des coupons et leur utilisation constituent une partie essentielle du contrat que nous avons conclu avec vous. Le Billet ne sera pas honoré et perdra sa validité si tous les Coupons ne sont pas utilisés dans l’ordre séquentiel indiqué sur le Billet, à moins de nous en informer dûment à l’avance.
+3.3.1. L’ordre séquentiel des coupons et leur utilisation constituent une partie essentielle du contrat que nous avons conclu avec vous. Le billet ne sera pas accepté et perdra sa validité si tous les coupons ne sont pas utilisés dans l’ordre séquentiel indiqué sur le billet, à moins que vous nous en informiez dûment à l’avance.
 
-3.3.2. Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans un ordre séquentiel de réservation fixe, veuillez noter que si le transport correspondant à une étape prédéfinie n’est pas utilisé, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculons le prix du billet conformément au nouvel itinéraire. Le prix sera ainsi déterminé en fonction de ce que vous auriez dû payer pour votre itinéraire en question dans le même groupe tarifaire que le jour de votre réservation. Ce prix peut être supérieur ou inférieur au prix d’origine payé.
+3.3.2. Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans un ordre séquentiel fixe, veuillez noter que si le transport n’est pas effectué pour toutes les étapes individuelles, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculerons le tarif du billet conformément au nouvel itinéraire. Le tarif sera ainsi déterminé en fonction du tarif que vous auriez dû payer pour votre itinéraire réel, dans le même groupe tarifaire, le jour de votre réservation. Ce tarif peut être supérieur ou inférieur au prix d’origine payé.
 
-Si le groupe tarifaire que vous avez réservé à l’origine n’est pas disponible pour le changement d’itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de calcul.
+Si le groupe tarifaire que vous avez réservé à l’origine n’était pas disponible pour l’itinéraire modifié le jour de la réservation, l’ancien groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de recalcul.
 
-Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé a été déterminé, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons effectuer le transport selon que vous avez payé ou non cette différence de prix.
+Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé aurait été appliqué, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pourrions décider d’accepter le transport seulement si vous avez payé cette différence de prix.
 
-Si vous disposez d’un billet remboursable, comme défini dans les conditions tarifaires, et n’avez toujours pas pu effectuer un segment de ce billet, vous pouvez demander un remboursement du prix du billet conformément aux conditions tarifaires. Cela signifie que vous renoncez à votre droit de transport
+Si vous disposez d’un billet remboursable, comme défini dans les conditions tarifaires, et n’avez toujours pas pu effectuer un segment de ce billet, vous pouvez demander un remboursement du prix du billet conformément aux conditions tarifaires. Cela signifie que vous renoncez à votre droit de transport.
 
-Le présent Article 3.3.2. ne s’applique pas au transport de passagers résidant en Autriche.
+Le présent article 3.3.2. ne s’applique pas au transport de passagers résidant en Autriche.
 
-3.3.2.1 Les conditions suivantes s’appliquent au transport de passagers résidant en Autriche :  
-Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans l’ordre séquentiel de réservation, veuillez noter que si le transport correspondant à une étape prédéfinie n’est pas utilisé, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculons le prix du billet conformément au nouvel itinéraire. La présente disposition ne s'applique pas si vos projets de voyage changent simplement ou si vous êtes empêché, en raison d'un cas de force majeure, d'une maladie ou pour une autre raison dont vous n'êtes pas responsable, de commencer le transport sur toutes les étapes ou sur des étapes individuelles dans l'ordre indiqué sur le billet d'avion. Dans la mesure du possible, veuillez nous informer des raisons de ces changements dès que vous en avez connaissance. Si le prix est recalculé, le prix du voyage sera déterminé en fonction de ce que vous auriez dû payer pour votre itinéraire dans le même groupe tarifaire que le jour de votre réservation. Ce prix peut être supérieur ou inférieur au prix d’origine payé.
+3.3.2.1. Les conditions suivantes s’appliquent au transport des passagers résidant en Autriche :
 
-Si le groupe tarifaire que vous avez réservé à l’origine n’est pas disponible pour le changement d’itinéraire le jour de la réservation, le groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de calcul.
+Si vous avez sélectionné un tarif qui implique d’effectuer les vols dans un ordre séquentiel fixe, veuillez noter que si le transport n’est pas effectué pour toutes les étapes individuelles, ou s’il n’est pas effectué dans l’ordre séquentiel établi par le billet avec des données de voyage par ailleurs inchangées, nous recalculerons le tarif du billet conformément au nouvel itinéraire. Cela ne s’applique pas si vos projets de voyage changent simplement ou si vous ne pouvez pas, en raison d’un cas de force majeure, d’une maladie ou pour une autre raison dont vous n’êtes pas responsable, commencer le transport sur toutes les étapes ou sur des étapes individuelles dans l’ordre indiqué sur le billet d’avion. Dans la mesure du possible, veuillez nous informer des raisons de ces changements dès que vous en avez connaissance. En cas de recalcul, le tarif sera déterminé en fonction du tarif que vous auriez dû payer pour votre itinéraire réel, dans le même groupe tarifaire, le jour de votre réservation. Ce tarif peut être supérieur ou inférieur au prix d’origine payé.
 
-Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé a été déterminé, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pouvons effectuer le transport selon que vous avez payé ou non cette différence de prix.
+Si le groupe tarifaire que vous avez réservé à l’origine n’était pas disponible pour l’itinéraire modifié le jour de la réservation, l’ancien groupe tarifaire le moins cher disponible pour votre itinéraire modifié sera utilisé comme base de recalcul.
+
+Si, à la date de la réservation de l’itinéraire modifié, un tarif plus élevé aurait été appliqué, nous percevrons ensuite la différence en tenant compte du tarif déjà payé. Veuillez noter que nous pourrions décider d’accepter le transport seulement si vous avez payé cette différence de prix.
 
 ### Non-présentation
 
-3.3.3. Sachez que si vous ne vous présentez pas pour un vol sans nous en avoir averti, nous pouvons annuler votre vol de retour ou de correspondance. Une différence de prix peut être appliquée pour sauvegarder vos vols ultérieurs. Si vous disposez d’un billet dont les conditions tarifaires permettent le remboursement et si vous n’avez pas encore commencé votre voyage, vous avez la possibilité de demander le remboursement du billet conformément aux conditions tarifaires applicables. Vous perdez ainsi votre droit au transport.
+3.3.3. Si vous ne vous présentez pas pour un vol sans nous en avoir avertis, nous pouvons annuler votre vol retour ou votre correspondance. Vous pourriez devoir vous acquitter d’un supplément pour protéger vos vols ultérieurs. Si vous disposez d’un billet dont les conditions tarifaires permettent le remboursement et si vous n’avez pas encore utilisé votre billet pour une étape individuelle, vous pouvez demander le remboursement d’une partie du billet conformément aux conditions tarifaires. Dans ce cas, vous perdrez tout droit de transport relatif au billet remboursé.
 
 ### Nom et adresse du transporteur
 
-3.4. Notre nom peut figurer en abrégé sur le Billet, sous la forme de notre Code de désignation ou sous toute autre forme. Notre adresse sera considérée comme étant celle de l’aéroport de départ figurant en regard de la première abréviation de notre nom dans la case « Transporteur » sur le Billet.
+3.4. Notre nom peut figurer en abrégé sur le billet, sous la forme de notre code de désignation de compagnie ou sous toute autre forme. Notre adresse sera considérée comme étant celle de l’aéroport de départ figurant en regard de la première abréviation de notre nom, dans la case « transporteur » du billet.
 
 ### Tarifs
 
-4.1. Le prix du billet applicable correspond au transport du lieu de départ effectif au lieu de destination effectif. Il est calculé en fonction du tarif en vigueur à la date de réservation du billet, pour les données de vol et les parcours mentionnés. Le prix des billets ne comprend pas les services de transport au sol d’un aéroport à un autre, ni le transport entre aéroport et centre-ville. Le prix pourra inclure des suppléments imposés. .
+4.1. Le tarif du billet applicable couvre les frais relatifs au transport du passager depuis l’aéroport du lieu de départ effectif à l’aéroport du lieu de destination effectif. Il est calculé en fonction du tarif en vigueur à la date de réservation du billet, pour les dates et détails des vols mentionnés sur le billet. Votre tarif ne comprend pas les services de transport au sol d’un aéroport à un autre, ni le transport entre l’aéroport et le centre-ville. Le tarif peut inclure des frais supplémentaires imposés par le transporteur.
 
-### Frais et taxes
+### Taxes, frais et charges
 
-4.2. Vous devez payer les taxes, frais et charges exigés par un gouvernement, par toute autre autorité ou par le gestionnaire d’un aéroport. Lors de l’achat d’un billet d’avion, nous vous informons de tous les frais supplémentaires (taxes, surcharges et frais de service) qui ne sont pas inclus dans le prix du vol. Ceux-ci figurent généralement en supplément sur le billet.
+4.2. Les taxes, frais et charges applicables exigés par un gouvernement, par toute autre autorité ou par le gestionnaire d’un aéroport sont à votre charge. Lors de l’achat de votre billet d’avion, vous serez informé de toutes les taxes, de tous les frais et de toutes les charges qui ne sont pas inclus dans le tarif, dont la plupart sont généralement affichés séparément sur le billet.
 
 ### Devise
 
-4.3. Dans le cadre de la législation applicable, les Tarifs et les charges sont payables dans toute devise que nous acceptons, sauf autre monnaie indiquée dans la législation applicable ou par nous-mêmes. Lorsque le règlement est effectué dans le pays de départ dans une devise autre que celle dans laquelle le tarif est publié, le taux de change applicable à un tel règlement sera le cours d’achat du banquier que nous avons établi à la date d’émission du billet.
+4.3. Dans le cadre de la législation applicable, les tarifs et les charges sont payables dans toute devise que nous acceptons, sauf si une autre devise est indiquée dans la législation applicable ou par Brussels Airlines. Si le paiement est effectué dans le pays de départ, dans une devise autre que celle dans laquelle le tarif est publié, le taux de change applicable à un tel paiement sera le taux d’achat de la banque que nous avons établi à la date d’émission du billet.
 
-### Conditions de réservations
+### Conditions de réservation
 
-5.1.1. Chaque coupon de vol est valable pour le transport dans la classe spécifiée sur celui-ci, à la date et pour le vol correspondant à la réservation de siège que vous avez effectuée. Si un billet a été émis à l’origine sans réservation de siège, le siège peut être réservé ultérieurement dans la limite des places disponibles sur le vol concerné.  
+5.1.1. Chaque coupon de vol est valable pour le transport exclusivement dans la classe de voyage spécifiée sur celui-ci, à la date et pour le vol correspondant à la réservation de siège que vous avez effectuée. Dans le cas des billets pour lesquels aucun siège n’a été réservé, le siège peut être réservé ultérieurement, dans la limite des places disponibles sur le vol concerné.
 
-5.1.2. Nos Agents agréés ou nous-mêmes enregistrons votre ou vos réservation(s). Si vous le souhaitez, nous la ou les confirmerons par écrit.
+5.1.2. Votre/vos réservation(s) sera/seront enregistrée(s) par nos soins ou par notre agent agréé. Sur demande de votre part, nous vous confirmerons votre/vos réservation(s) par écrit.
 
-5.1.3. Certains Tarifs peuvent être soumis à des conditions qui limitent ou excluent votre droit de modifier ou d’annuler vos réservations. Pour les conditions individuelles, veuillez vous référer aux conditions des tarifs correspondantes.
+5.1.3. Certains tarifs peuvent être soumis à des conditions qui limitent ou excluent votre droit de modifier ou d’annuler vos réservations. Pour consulter les conditions particulières, veuillez vous référer aux conditions tarifaires correspondantes.
 
-5.1.4. Dans le cas d’une réservation par le biais d’un contrat de distance, vous ne disposez d’aucun droit de rétractation.
+5.1.4. Dans le cas d’une réservation par le biais d’un contrat à distance, vous ne disposez d’aucun droit de rétractation.
 
-### Date limite de paiement du billet
+### Date limite du paiement du billet
 
-5.2. Si vous n’avez pas effectué le paiement de votre Billet avant le délai spécifié, comme indiqué par nous ou l'agence de voyage l'ayant émis, nous pouvons annuler votre réservation.
+5.2. Si vous n’avez pas effectué le paiement de votre billet avant le délai spécifié, comme indiqué par nos soins ou par l’agence de voyages l’ayant émis, nous pouvons annuler votre réservation.
 
-### Données personnelles
+### Données à caractère personnel
 
-5.3.1 Vous reconnaissez que des renseignements personnels vous concernant nous ont été fournis pour les besoins suivants : effectuer une réservation, acheter un Billet, obtenir des services annexes, fournir et développer des prestations, faciliter l’accomplissement des formalités administratives relatives à l’immigration et à l’entrée sur le territoire et mettre de tels renseignements à la disposition des agences gouvernementales, en lien avec votre voyage. À ces fins, vous nous autorisez à conserver ces données, à les utiliser et à les communiquer à nos propres agences, à l'agence de voyage ayant émis le billet, aux autorités gouvernementales, aux autres Transporteurs, aux partenaires commerciaux ou aux autres prestataires de services mentionnés ci-dessus. Pour tout complément d’information sur la [_​_Politique de sécurité et de protection de la vie privée](https://www.brusselsairlines.com/fr/fr/legal-notices/data-protection-and-privacy-notice), veuillez vous reporter à notre site web.
+5.3.1. Vous reconnaissez que des données à caractère personnel vous concernant nous ont été fournies aux fins suivantes : effectuer une réservation, acheter un billet, obtenir des services supplémentaires, fournir et développer des prestations, faciliter l’accomplissement de formalités relatives à l’immigration et à l’entrée sur le territoire et mettre de telles données à la disposition d’organismes gouvernementaux, en lien avec votre voyage. À ces fins, vous nous autorisez à conserver ces données, à les utiliser et à les communiquer à nos propres agences, à l’agence de voyages ayant émis le billet, aux organismes gouvernementaux, à d’autres transporteurs, à des partenaires commerciaux ou aux prestataires des services mentionnés ci-dessus. Vous trouverez plus d’informations sur la page [Protection des données et avis de confidentialité](https://www.brusselsairlines.com/fr/fr/legal-notices/data-protection-and-privacy-notice) disponible sur notre site Web.
 
-5.3.2 Nous nous réservons le droit de revoir les transactions de paiement pour éviter la fraude ou tout autre usage frauduleux. En conséquence, nous pourrons utiliser des sources internes et externes. Si des activités frauduleuses sont soupçonnées et/ou détectées, nous nous réservons le droit de transmettre les informations (y compris les données personnelles) à d’autres filiales du groupe Lufthansa (entre autres Austrian Airlines, Eurowings, Germanwings, Brussels Airlines, SWISS Global Air Lines AG, Edelweiss Air AG, SWISS International Air Lines AG, Miles and More GmbH) qui pourraient revoir les données à leurs finalités respectives.
+5.3.2. Nous nous réservons le droit d’analyser les transactions de paiement pour éviter toute fraude ou tout autre usage frauduleux. Pour ce faire, nous pourrions utiliser des sources internes et externes. Si des activités frauduleuses sont soupçonnées et/ou détectées, nous nous réservons le droit de transmettre les informations (y compris les données à caractère personnel) à d’autres filiales du Lufthansa Group (entre autres Austrian Airlines, Eurowings, Germanwings, Brussels Airlines, SWISS Global Air Lines AG, Edelweiss Air AG, SWISS International Air Lines AG, Miles and More GmbH) qui pourraient analyser les données pour leurs finalités respectives.
 
-### Conditions de réservations
+### Conditions de réservation
 
-5.4.1 Réservation du siège. Les réservations de siège permettent aux passagers de demander une catégorie de siège en particulier (par exemple, le hublot, le couloir, un siège au milieu, un siège avec plus d’espace) parmi une sélection de sièges disponibles dans leur classe cabine sur des vols opérés par Brussels Airlines. La réservation de siège dépend de la disponibilité des sièges requis. En fonction de la catégorie de sièges et pour certaines classes de réservation, des frais s’appliquent. Vous n’êtes pas obligé de réserver un siège.
+5.4.1. Réservation de siège à l’avance La réservation de siège à l’avance permet aux passagers de demander une catégorie de siège spécifique (par ex. le hublot, le couloir, un siège au milieu, un siège avec plus d’espace) parmi une sélection de sièges disponibles dans leur classe réservée sur des vols opérés par Brussels Airlines. La réservation de siège à l’avance dépend de la disponibilité des sièges souhaités. En fonction de la catégorie de sièges et pour certaines classes de réservation, des frais s’appliquent pour la réservation de siège à l’avance. Vous n’êtes pas obligé de réserver un siège à l’avance.
 
-5.4.2 Réservation gratuite. Dans le cas d’une réservation gratuite de siège, vous pourrez réserver votre siège gratuitement au moment de l’enregistrement. Si vous utilisez le service d’enregistrement automatique, vous pouvez changer votre siège pour toute autre place disponible sans frais supplémentaires. Nous ferons tout ce qui est en notre pouvoir pour honorer les demandes de réservations de siège. Toutefois, nous ne pouvons garantir un siège en particulier.
+5.4.2. Réservation de siège gratuite Dans le cas d’une réservation de siège gratuite, vous pouvez demander une réservation de siège à l’avance, gratuitement, au moment de l’enregistrement. Nous ferons tout ce qui est en notre pouvoir pour honorer les demandes de réservations de siège à l’avance. Toutefois, nous ne pouvons pas garantir un siège en particulier.
 
-5.4.3 Nous nous réservons le droit d’attribuer ou de réattribuer des sièges à tout moment, même après que vous soyez monté(e) à bord de l’avion. Une telle mesure peut être nécessaire pour des raisons opérationnelles, de sûreté ou de sécurité. Si vous achetez une réservation de siège et que le vol est annulé, ou si nous réalisons des changements de siège pour des raisons opérationnelles, de sûreté ou de sécurité, nous rembourserons les frais de réservation si votre catégorie de siège n’est pas disponible. Si vous annulez, faites une nouvelle réservation, achetez un surclassement, ou avez fait des déclarations incorrectes sur votre capacité à vous asseoir aux sorties d’urgence, le montant payé ne sera pas remboursé.
+5.4.3. Nous nous réservons le droit d’attribuer ou de réattribuer des sièges à tout moment, même après votre embarquement à bord de l’appareil. Une telle mesure peut être nécessaire pour des raisons opérationnelles, de sûreté ou de sécurité. Si vous avez acheté une réservation de siège à l’avance et que le vol est annulé, ou si nous réalisons des changements de siège pour des raisons opérationnelles, de sûreté ou de sécurité, nous vous rembourserons les frais de réservation de siège si votre catégorie de siège souhaitée n’est pas disponible. Si vous annulez ou modifiez une réservation, achetez un surclassement ou avez fait des déclarations incorrectes concernant votre capacité de vous asseoir à proximité de sorties d’urgence, le montant payé pour la réservation de siège ne sera pas remboursé.
 
-### Confirmation des réservations
+### Reconfirmation des réservations
 
-5.5.1. Nous n’exigeons aucune confirmation pour les vols Brussels Airlines. Si d’autres transporteurs demandent au passager de confirmer les réservations de retours ou de correspondances, ceux-ci pourront annuler ces réservations en cas de non-respect d’une telle exigence.
+5.5.1. En général, nous n’exigeons aucune reconfirmation pour les vols opérés par Brussels Airlines. Si d’autres transporteurs demandent au passager de reconfirmer les réservations de vols retours ou de correspondances, ceux-ci pourront annuler ces réservations de correspondance ou de vol retour en cas de non-respect de cette exigence.
 
-5.5.2. Vous devez vérifier les exigences des autres Transporteurs participant à votre voyage quant à une confirmation de votre réservation. Le cas échéant, vous devez confirmer votre vol au Transporteur dont Airline Designator Code figure sur votre Billet.
+5.5.2. Veuillez vérifier les exigences de reconfirmation des autres transporteurs impliqués dans votre voyage. Le cas échéant, vous devez reconfirmer votre vol au transporteur dont le code de désignation de compagnie figure sur votre billet pour le vol concerné.
 
-6.1. Les heures limites d’enregistrement varient en fonction des aéroports ; nous vous recommandons de les consulter et d’en tenir compte avant votre départ pour l’aéroport. Pour assurer le bon déroulement de votre voyage, nous vous conseillons d’arriver suffisamment tôt à l’aéroport et de respecter l’heure limite fixée pour l’enregistrement. Si vous vous présentez au-delà d’une certaine heure limite, votre réservation pourra être annulée. Vous êtes informé directement par la compagnie aérienne ou par l’agence de voyages émettrice du billet de l’heure limite d’enregistrement concernant le premier segment de vol. Les heures limites d’enregistrement de nos vols peuvent être consultées directement sur notre site ou via l’agence de voyage ayant émis le billet. Sauf disposition contraire, les délais limites d’enregistrement sont fixés à au moins 30 minutes avant le départ du vol.
+6.1. Les heures limites d’enregistrement varient en fonction des aéroports ; nous vous recommandons de les consulter et d’en tenir compte. Pour assurer le bon déroulement de votre voyage, nous vous conseillons d’arriver suffisamment tôt à l’aéroport afin de pouvoir respecter les heures limites d’enregistrement. Nous nous réservons le droit d’annuler votre réservation si vous ne respectez pas les heures limites d’enregistrement indiquées. Vous serez informé directement par nos soins, ou par l’agence de voyages émettrice du billet, de l’heure limite d’enregistrement de votre premier vol avec nous. Les heures limites d’enregistrement de nos vols peuvent être consultées directement sur notre site Web ou via l’agence de voyages ayant émis le billet. Sauf disposition contraire, les passagers doivent s’enregistrer au moins 45 minutes avant le départ du vol.
 
-6.2. Vous devez être présent(e) à la porte d’embarquement au plus tard à l’heure que nous vous aurons indiquée au moment de l’enregistrement.
+6.2. Vous devez être présent à la porte d’embarquement au plus tard à l’heure que nous vous aurons indiquée au moment de l’enregistrement.
 
-6.3. Si vous n’arrivez pas à temps à la porte d’embarquement, nous pouvons annuler la place qui vous a été réservée.
+6.3. Si vous n’arrivez pas à temps à la porte d’embarquement, nous pouvons libérer la place qui vous a été réservée.
 
-6.4. Nous déclinons toute responsabilité pour les inconvénients et frais occasionnés en cas de non-respect de ces conditions ou des conditions de nos partenaires (code partagé, interlining, charter).
+6.4. Nous déclinons toute responsabilité pour toute perte ou dépense encourue dont vous êtes exclusivement responsable en raison de votre non-respect des dispositions du présent article, ou, s’il s’agit d’un vol en partage de codes, en raison de votre non-respect des règles pertinentes du transporteur effectif.
 
 ### Droit de refuser le transport
 
-7.1. Nous sommes en droit de refuser d’assurer votre transport ou la suite de votre transport lorsque, dans le cadre légal de notre droit d’appréciation, nous avons porté à votre connaissance par écrit avant la réservation, que nous n’assurerions plus votre transport sur nos vols à partir de la date de notification écrite. Une telle décision peut être prise par exemple si vous avez enfreint les règles de conduite énoncées dans les articles 7 et 11 lors d’un précédent vol, rendant ainsi votre transport inacceptable. Nous sommes également en droit de refuser d’assurer votre transport ou la suite de votre transport, ou d’annuler votre réservation de siège si
+7.1. Nous sommes en droit de refuser d’assurer votre transport ou la suite de votre transport lorsque, dans l’exercice raisonnable de notre droit d’appréciation, nous avons porté à votre connaissance par écrit, avant la réservation, que nous n’assurerions plus votre transport sur nos vols à partir de la date de notification. Une telle décision peut être prise si vous avez enfreint les règles de conduite énoncées dans les articles 7 et 11 lors d’un précédent vol, nous empêchant d’accepter de continuer à assurer votre transport. Nous sommes également en droit de refuser d’assurer votre transport ou la suite de votre transport, ou d’annuler votre réservation de siège :
 
-7.1.1. une telle mesure s’avère nécessaire pour des raisons de sécurité ou d’ordre publique, ou pour éviter d’enfreindre les dispositions officielles ou légales en vigueur dans l’État de départ, d’arrivée ou de transit
+7.1.1. si une telle mesure s’avère nécessaire pour des raisons de sécurité ou d’ordre public, ou pour éviter d’enfreindre toute législation applicable ou toute condition régissant les vols en vigueur dans le pays de départ, d’arrivée ou de transit, ou
 
-7.1.2. votre transport pourrait mettre en danger ou influer sur la sécurité, la santé, le confort ou la commodité des autres Passagers ;
+7.1.2. si votre transport pourrait mettre en danger ou influer sur la sécurité, la santé ou le confort des autres passagers, ou
 
-7.1.3. votre état physique ou mental, y compris un état causé par la consommation d’alcool ou la prise de drogues ou de médicaments, présente un risque ou un danger pour vous-même, les autres Passagers, l’équipage ou les biens, ;
+7.1.3. si votre comportement, votre âge, votre état physique ou mental, y compris un état causé par la consommation d’alcool ou la prise de drogues ou de médicaments, présente un risque ou un danger pour vous-même, pour les autres passagers, pour l’équipage ou pour des biens, ou
 
-7.1.4. vous vous êtes comporté(e) de manière inconvenante sur un vol précédent et nous avons des raisons de penser qu’une telle conduite pourrait se reproduire ;
+7.1.4. si vous vous êtes comporté de manière inconvenante sur un vol précédent et si nous avons des raisons de penser qu’un tel comportement pourrait se reproduire, ou
 
-7.1.5. vous avez refusé de vous soumettre à un contrôle de sécurité ;
+7.1.5. si vous avez refusé de vous soumettre à un contrôle de sécurité, ou
 
-7.1.6. vous n’avez pas payé le Tarif applicable ou tous les frais, taxes ou redevances exigibles ;
+7.1.6. si vous n’avez pas payé le tarif, les taxes, les frais ou les charges applicables, ou
 
-7.1.7. vous ne semblez pas posséder des documents de voyage valables ou vous pourriez être tenté(e) de pénétrer dans un pays pour lequel vous ne possédez qu’un visa de transit ou pour lequel vous ne disposez pas de documents valables. Il en va de même si nous sommes amenés à penser que vous pourriez détruire vos documents de voyage durant le vol ou refuser de les remettre contre un reçu à notre équipage ;
+7.1.7. si vous semblez ne pas posséder de documents de voyage valables ou si vous pourriez être tenté de pénétrer dans un pays par lequel vous pourriez transiter ou pour lequel vous ne disposez pas de documents valables. Il en va de même si nous sommes amenés à penser que vous pourriez détruire vos documents de voyage durant le vol ou refuser de les remettre contre un reçu à notre équipage à sa demande, ou
 
-7.1.8. vous présentez un billet ayant été acquis par des voies illégales ou qui enfreignent les conditions légales de participation établies par Miles & More, ou si le billet présenté est déclaré comme étant perdu, volé ou s’il est falsifié, ou bien si vous ne pouvez prouver que votre identité correspond bien à celle du passager figurant sur le billet ;
+7.1.8. si vous présentez un billet acquis de façon illégale ou qui a été acheté ou obtenu en enfreignant les conditions générales de participation au programme Miles & More, ou si le billet présenté est déclaré comme étant perdu, volé ou s’il est falsifié, ou si vous ne pouvez pas prouver que votre identité correspond bien à celle du passager dont le nom figure sur le billet, ou
 
-7.1.9. vous refusez le paiement de la différence (supplément) conformément au paragraphe 3.3.1, ou si vous présentez un billet émis par quelqu’un d’autre que nous ou qu’une agence de voyage habilitée, ou si le billet que vous présentez est considérablement endommagé ;
+7.1.9. si vous refusez de payer la différence (frais supplémentaires) conformément au paragraphe 3.3.3, ou si vous présentez un billet émis par quelqu’un d’autre que nous ou qu’une agence de voyages habilitée, ou si le billet que vous présentez est considérablement endommagé ;
 
-7.1.10. vous ne respectez pas nos instructions en matière de sûreté ou de sécurité, ou
+7.1.10. si vous ne respectez pas nos instructions en matière de sûreté ou de sécurité,
 
-7.1.11. vous ne respectez pas les interdictions de fumer ni d’utiliser les appareils électroniques à bord de notre avion.
+7.1.11. si vous ne respectez pas les interdictions de fumer ou d’utiliser des appareils électroniques non autorisés à bord de notre appareil.
 
-Brussels Airlines ne pourra être tenu responsable si nous avons exercé notre droit de refuser le transport conformément à cet article 7.1. Lorsque Brussels Airlines a émis un billet au nom d’un autre Transporteur conformément aux accords entre lignes aériennes, partages de code ou chartes, Brussels Airlines ne pourra être tenu responsable si la compagnie qui opère le vol refuse de vous transporter.
+Brussels Airlines ne pourra être tenue responsable si nous avons exercé notre droit de refuser le transport conformément à cet article 7.1. Si Brussels Airlines a émis votre billet au nom d’un autre transporteur conformément à des accords entre lignes aériennes, à un partage de codes ou à un contrat de charter, Brussels Airlines ne pourra être tenue responsable si le transporteur effectif du vol refuse d’assurer votre transport.
 
-### Assistance particulière
+### Assistance spéciale
 
-7.2.1. Les personnes handicapées, les personnes malades ou toute autre personne nécessitant une assistance particulière doivent nous être signalées à l’avance. Nous ne pouvons pas refuser l’embarquement aux Passagers handicapés du fait de leur handicap ou de leurs besoins particuliers nous en ayant avertis au préalable au moment de l’achat de leur Billet, dès lors que nous les avons acceptés (pour tout complément d’informations, [_​_cliquez ici](https://www.brusselsairlines.com/fr/fr/special-care/special-assistance)).
+7.2.1. Les personnes handicapées, les personnes malades ou toute autre personne nécessitant une assistance spéciale doivent nous être signalées à l’avance, et nous devons en avoir validé le transport avant le vol. Nous ne refuserons pas le transport de passagers à mobilité réduite du fait de leur handicap ou de leurs besoins particuliers s’ils nous en ont avertis au moment de l’achat de leur billet, et dès lors que nous en avons accepté le transport (pour plus d’informations, [cliquez ici](https://www.brusselsairlines.com/fr/fr/special-care/special-assistance)).
 
-### Enfants
+### Transport d’enfants
 
-7.2.2. Les enfants de moins de 5 ans ne peuvent voyager que s’ils sont accompagnés d’une personne adulte (c’est-à-dire une personne d’au moins 18 ans) ou d’une personne d’au moins 16 ans faisant partie de la même famille (frère/sœur) ou ayant le même tuteur que le/la mineur(e) en question. Les mineurs n’ayant pas encore atteint l’âge de deux ans ne peuvent voyager qu’accompagnés d’au moins un adulte. Les enfants âgés de 5 à 12 ans ne peuvent voyager seuls qu’en tant que « mineurs non accompagnés » ou ne peuvent voyager que s’ils sont accompagnés d’une personne d’au moins 12 ans, qui est totalement capable de prendre en charge l’enfant durant la totalité du voyage. Le transport d’enfants non accompagnés exige un accord avec le Transporteur et est soumis à nos règlements pertinents, ainsi qu’au paiement des frais complémentaires pertinents et aux dispositions applicables que vous pouvez demander dans nos bureaux de vote et à nos agents agréés (pour tout complément d’informations, cliquez ici).
+7.2.2. Les enfants de moins de 5 ans ne peuvent voyager que s’ils sont accompagnés d’un adulte (c’est-à-dire une personne d’au moins 18 ans) ou d’une personne d’au moins 16 ans faisant partie de la même famille (frère ou sœur) ou ayant le même tuteur légal que l’enfant en question. Les enfants n’ayant pas encore atteint l’âge de 2 ans ne peuvent voyager qu’accompagnés d’au moins un adulte. Les enfants âgés de 5 à 12 ans ne peuvent voyager seuls qu’en tant que « mineurs non accompagnés » ou que s’ils sont accompagnés d’une personne d’au moins 12 ans totalement capable de prendre en charge l’enfant durant la totalité du voyage. Le transport de mineurs non accompagnés nécessite un accord préalable avec le transporteur, et est soumis à nos réglementations pertinentes et au paiement de frais supplémentaires. Les réglementations régissant le transport des mineurs non accompagnés peuvent être obtenues auprès des bureaux de vente du transporteur (pour plus d’informations, [cliquez ici](https://www.brusselsairlines.com/fr/fr/special-care/families-and-children)).
 
-7.2.3. Les jeunes enfants peuvent également voyager dans un siège pour enfant, fixé sur le siège de l’avion ; pour les enfants de moins de 2 ans, il est nécessaire dans ce cas de réserver un siège supplémentaire. Le siège enfant doit être fixé au siège de l’avion, au moyen des ceintures de sécurité, pendant toute la durée du vol. Il doit être adapté pour une utilisation à bord d’avions, ce qui signifie qu’il exige une ceinture à trois points d’ancrage. Dans le cas contraire, nous sommes en droit de refuser le transport d’un siège enfant en cabine. Nous n’assumons aucune responsabilité suite aux conséquences d’une mauvaise fixation d’un siège enfant en cabine, d’un mauvais fonctionnement ou du non-respect des consignes d’utilisation.
+7.2.3. Les enfants peuvent également voyager dans leur propre siège-auto sur un siège en cabine ; pour cela, un siège supplémentaire doit être réservé pour les enfants de moins de deux ans. Le siège de l’enfant doit être fixé avec la ceinture de sécurité de l’appareil pendant toute la durée du vol. Il doit être adapté à une utilisation en cabine d’avion (ce qui signifie que le siège-auto doit être équipé d’une ceinture à 3 points d’ancrage). Dans le cas contraire, nous sommes en droit de refuser le transport de ce siège-auto à bord. Nous n’assumons aucune responsabilité découlant de toute conséquence d’une mauvaise fixation d’un siège-auto en cabine, en cas de non-adéquation du siège à une telle utilisation ou de non-respect des consignes d’utilisation.
 
-### Recours en cas de refus de transporter
+### Recours en cas de refus de transport
 
-7.3. L’unique recours de toute personne s’étant vue refusée d’être transportée ou dont la réservation a été annulée pour l’un des motifs mentionnés dans le paragraphe précédent sera le remboursement de la valeur du Billet, conformément à l’Article 10.3.
+7.3. L’unique recours de toute personne s’étant vue refuser le transport ou dont la réservation a été annulée pour l’un des motifs mentionnés dans le paragraphe précédent sera le remboursement de la valeur du billet, conformément à l’article 10.3.
 
-### Franchise et excédents de bagages
+### Franchise de bagages et excédent de bagages
 
-8.1. Le volume de la franchise bagage correspond au transport d’une quantité de Bagages par passager limité en nombre et/ou en poids et/ou dimensions, déterminé sur la base du Tarif et apparaissant sur le Billet, ou disponible en nous le demandant ou à l’agence de voyage ayant émis le Billet. Vous devez payer un supplément pour le transport des Bagages excédant la franchise. Pour les vols avec le code de désignation Brussels Airlines opéré par un autre transporteur, (Code Share), le volume de la franchise bagage est indiqué sur le billet ; les tarifs des excédents de bagages sont soumis aux conditions générales de la compagnie qui opère le vol. Nous ou l'agence de voyage ayant émis le billet pouvons vous fournir ces Tarifs sur simple demande. Le poids de chaque bagage doit être inférieur ou égal à 32 kilogrammes.
+8.1. La franchise de bagages correspond au transport d’une quantité de bagages par passager limitée en nombre et/ou en poids et/ou en dimensions, sur la base du tarif et apparaissant sur le billet, ou disponible sur demande adressée à Brussels Airlines ou à l’agence de voyages ayant émis le billet. Vous devrez payer un supplément pour le transport de bagages dépassant la franchise de bagages. Pour les vols portant le code de désignation de compagnie de Brussels Airlines mais opérés par un autre transporteur (vols en partage de codes), le volume de la franchise de bagages est indiqué sur le billet ; les tarifs des excédents de bagages sont soumis aux conditions générales du transporteur effectif. Ces tarifs sont disponibles sur demande adressée à Brussels Airlines ou à l’agence de voyages qui a émis le billet. Le poids de chaque bagage ne peut pas dépasser 32 kilogrammes.
 
-### Bagages venant d’étrangers
+### Bagages appartenant à des personnes que vous ne connaissez pas
 
-8.2. Vous devez refuser de transporter, dans les bagages enregistrés ou non enregistrés, tout paquet ou objet reçu d’étrangers.
+8.2. Veuillez refuser de transporter, aussi bien comme bagage enregistré que non enregistré, tout paquet ou objet reçu d’une personne que vous ne connaissez pas.
 
 ### Objets non admis comme bagages
 
-8.3.1. Vous ne pouvez pas inclure dans vos Bagages :
+8.3.1. Vous ne pouvez pas transporter dans vos bagages :
 
-8.3.1.1. des objets susceptibles de constituer un danger pour l’avion, les personnes ou les biens à bord, comme ceux spécifiés dans les Instructions Techniques pour la Sécurité du Transport Aérien des Marchandises Dangereuses de l’Organisation de l’Aviation Civile Internationale (OACI) et les Réglementations sur les Matières Dangereuses de l’Association Internationale des Transporteurs Aériens (IATA), disponibles auprès de nous ou de l’agence de voyage ayant émis le billet, notamment : des explosifs, des matériaux aimantés, radioactifs, oxydants, corrosifs, à gaz comprimé ou explosifs, des matériaux inflammables et toxiques, des substances irritantes ou dangereuses.
+8.3.1.1. des objets susceptibles de constituer un danger pour l’appareil, les personnes ou les biens à bord, tels que ceux spécifiés dans les « dispositions relatives aux marchandises dangereuses » des instructions techniques pour la sécurité du transport aérien des marchandises dangereuses de l’OACI (Organisation de l’aviation civile internationale), la réglementation de l’IATA (Association du transport aérien international) sur les marchandises dangereuses et nos propres règlements de transport (de plus amples informations sont disponibles sur demande et sur notre site Web [Articles dangereux | Brussels Airlines](https://www.brusselsairlines.com/fr/fr/extra-services/baggage/prohibited-items) ;
 
-8.3.1.2. des objets dont le transport est interdit par les lois ou règlements en vigueur dans les États de départ ou de destination ;
+8.3.1.2. des objets dont le transport est interdit par les lois ou règlements en vigueur dans les pays de départ, de destination ou de transit ;
 
-8.3.1.3. des objets dont nous estimons qu’ils ne sont pas adaptés au transport, parce qu’ils sont dangereux, peu sûrs ou en raison de leur poids, leur dimension, leur forme ou leur nature, ou encore parce qu’ils sont fragiles ou périssables eu égard, entre autres, au type d’avion utilisé. Nous ou l'agence de voyage ayant émis le billet vous indiquons sur simple demande quels objets ne sont pas autorisés à être transportés.
+8.3.1.3. des objets que nous pouvons raisonnablement juger inadaptés au transport parce qu’ils sont dangereux ou peu sûrs, ou inadaptés en raison de leur poids, de leur taille, de leur forme ou de leur nature, ou encore parce qu’ils sont fragiles ou périssables eu égard, entre autres, au type d’appareil utilisé. Des informations sur les articles dont le transport est interdit sont disponibles sur demande adressée à Brussels Airlines et sur notre site Web [Articles dangereux | Brussels Airlines](http://www.brusselsairlines.com/fr/fr/extra-services/baggage/prohibited-items).
 
-8.3.2. Si vous possédez, ou si vos bagages comprennent a) des armes de toute sorte, notamment les armes de poing et les bombes anti-agressions, b) des munitions et des explosifs, c) des objets qui, de par leur confection ou leur apparence extérieure, ressemblent à des armes, des munitions ou des explosifs, vous devez nous les présenter en vue de leur contrôle avant le début du transport. Nous n’acceptons de tels objets que s’ils sont transportés en tant que chargement ou Bagages enregistrés conformément aux règlementations régissant le transport de biens dangereux. La phrase 2 ne s’applique pas aux officiers de police qui, dans l’exercice de leurs fonctions, doivent porter des armes. Lors du vol, ils devront remettre leurs armes au commandant.
+8.3.2. Il est interdit de transporter des armes de guerre en tant que bagage. Seules les armes à feu et les munitions destinées à la chasse et au sport ou les armes de service, ainsi que les munitions de classe de risque 1.4S avec UN0012 ou UN0014, sont autorisées au transport en tant que bagage enregistré conformément à nos conditions. Chaque arme doit être sécurisée, déchargée et correctement emballée dans un contenant de transport désigné, verrouillé, robuste et sécurisé, par exemple en bois, en métal, en matériau rigide ou en polystyrène. Le transport des munitions est soumis aux réglementations e l’OACI et de l’IATA sur les marchandises dangereuses, comme indiqué ci-dessus à l’article 8.3.1.1. Vous devez présenter aussi bien les armes à feu que les munitions pour inspection avant acceptation.
 
-8.3.3. Les armes à feu et les munitions autres que celles destinées à la chasse ou au sport ne peuvent être transportées en tant que Bagages. Les armes à feu et les munitions destinées à la chasse ou au sport peuvent uniquement être acceptées comme Bagages enregistrés. Les armes doivent être déchargées (avec le cran de sûreté engagé) et convenablement emballées. Le transport de munitions est soumis aux réglementations de l’OACI et de l’IATA mentionnées au paragraphe 8.3.1.1. Nonobstant toute disposition ou accord contraire, Brussels Airlines n’est pas tenu d’accepter des armes à feu ou des munitions de guerre à bord des vols opérés par Brussels Airlines.
+8.3.3. Les instruments contondants et les armes telles que les armes à feu antiques, les épées, les couteaux ou autres objets similaires sont autorisés au transport en tant que bagages enregistrés à notre discrétion, mais sont interdits dans la cabine de l’appareil. Les articles utilisés pour l’autodéfense, tels que les équipements d’étourdissement, les dispositifs d’électrochocs et les substances ou produits chimiques incapacitants tels que le GHB, les produits de la marque Mace, les sprays au poivre, les sprays au capsicum, les gaz lacrymogènes, les sprays acides et les sprays répulsifs pour animaux, sont interdits au transport en tant que bagages.
 
-8.3.4. Vous ne pouvez pas introduire dans un Bagage enregistré des éléments dont le transport est interdit ou limité par les lois et réglementations en vigueur (y compris les réglementations applicables dans l’État de départ, d’arrivée ou de transit ou dans tout État survolé par l’avion), des éléments fragiles ou périssables, des éléments que nous jugeons raisonnablement inadaptés au transport du fait de leur poids, de leurs dimensions ou de leur odeur désagréable, des médicaments, statuettes ou œuvres d’art, argent, clés, bijoux, métaux précieux, dispositifs électroniques personnels (p. ex. ordinateurs portables, téléphones mobiles, appareils photo, caméras vidéo, etc.), valeurs négociables, titres ou autres objets de valeur, échantillons, documents commerciaux ou autres outils de travail qui sont ou peuvent être considérés comme précieux, des passeports et autres documents d’identité, ni aucun autre élément de même nature. 
+8.3.4. Si, malgré les interdictions ci-dessus, vous transportez des articles spécifiés aux articles 8.3.1, 8.3.2 et 8.3.3 dans vos bagages, nous ne sommes pas responsables de toute perte ou de tout dommage causé à de tels articles.
 
-8.3.5. Au cas où vous transporteriez néanmoins délibérément dans vos Bagages des objets mentionnés aux paragraphes 8.3.1, 8.3.2 et 8.3.4, malgré les interdictions décrites ci-avant, notre responsabilité pourrait être partiellement ou totalement exclue en cas de dommage causé à ces articles et conformément aux dispositions de la Convention de Montréal.
+8.3.5. Vous ne pouvez pas transporter d’argent, de médicaments, de clés, de bijoux, de métaux précieux, de valeurs négociables, de titres ou d’autres objets de valeur, de documents commerciaux, de passeports, d’autres documents d’identification ou d’échantillons, de batteries seules ou de powerbanks dans vos bagages enregistrés. Si, malgré cette interdiction, vous transportez de tels articles spécifiés dans vos bagages enregistrés, nous ne sommes pas responsables de toute perte ou de tout dommage causé à de tels articles.
+
+8.3.6 Nous vous recommandons vivement de ne pas transporter d’ordinateurs ou d’autres appareils électroniques portables dans vos bagages enregistrés. Si, malgré cette recommandation, vous transportez de tels articles spécifiés dans vos bagages enregistrés, nous ne sommes pas responsables de toute perte ou de tout dommage causé à de tels articles.
 
 ### Droit de refuser le transport
 
-8.4.1. Sous réserve des paragraphes 8.3.2 et 8.3.3, nous refusons de transporter les objets mentionnés au paragraphe 8.3 comme Bagages, et pouvons refuser de les transporter si nous les découvrons.
+8.4.1. Sous réserve des paragraphes 8.3.2 et 8.3.3., nous refuserons de transporter en tant que bagage les articles décrits au paragraphe 8.3., et nous pouvons refuser le transport ultérieur de tels articles lorsque nous en découvrons l’existence.
 
-8.4.2. Nous pouvons refuser le transport comme Bagages de tout objet dont nous estimons raisonnablement qu’il n’est pas adapté en raison de sa taille, sa forme, son poids, son contenu, son caractère, ou pour des raisons de sécurité ou de service, ou de confort des autres Passagers. Nous vous indiquons sur simple demande quels objets ne sont pas autorisés à être transportés.
+8.4.2. Nous pouvons refuser de transporter en tant que bagage tout objet que nous pouvons raisonnablement juger inadapté en raison de sa taille, de sa forme, de son poids, de son contenu, de sa nature, ou pour des raisons de sécurité ou opérationnelles, ou encore de confort des autres passagers. Des informations sur les articles dont nous refusons le transport sont disponibles sur demande.
 
-8.4.3. Nous pouvons refuser de transporter comme Bagages tout objet dont nous estimons qu’il n’est pas correctement et solidement emballé dans des conteneurs adaptés.
+8.4.3. Nous pouvons refuser de transporter en tant que bagage tout objet que nous jugeons ne pas être correctement et solidement emballé dans un contenant adapté.
 
-### Droit d’inspection
+### Inspection des passagers et des bagages
 
-8.5. Si le passager refuse de se conformer à la demande d’inspection de sa personne ou de ses bagages pour vérifier s’il détient des objets interdits ou non présentés au titre du paragraphe 8.3, nous pouvons refuser de le transporter lui-même ou ses bagages. Dans un tel cas, nous ne saurions en être tenus responsables vis-à-vis du passager, sauf pour son remboursement conformément à l’Article 10.3. des présentes Conditions générales de transport.
+8.5. Si le passager refuse de se conformer à la demande d’inspection de sa personne ou de ses bagages pour vérifier qu’il ne détient pas d’objets interdits ou non présentés au titre du paragraphe 8.3, nous pouvons refuser de le transporter lui-même, ou de transporter ses bagages. Dans un tel cas, nous ne saurions en être tenus responsables vis-à-vis du passager, sauf pour son remboursement conformément à l’article 10.3. des présentes conditions de transport.
 
 ### Bagages enregistrés
 
-8.6.1. Au moment où vous nous remettez vos Bagages aux fins de leur enregistrement, nous en prenons la garde. Nous inscrirons une note appropriée sur le billet qui fera acte de bulletin de bagage. Nous pouvons émettre, en plus du bulletin de bagage, des étiquettes de bagages (identification) uniquement à des fins d’identification.
+8.6.1. Au moment où vous nous remettez vos bagages aux fins de leur enregistrement, nous en prenons la garde. Nous inscrirons alors une mention appropriée sur le billet, qui constituera la preuve de l’émission du bulletin de bagages. Nous pouvons émettre, en plus du bulletin de bagages, des étiquettes de bagage (identification) uniquement à des fins d’identification.
 
-8.6.2. Chaque Bagage enregistré doit être muni de votre nom ou de toute autre identification personnelle.
+8.6.2. Chaque bagage enregistré doit être muni d’une étiquette indiquant votre nom ou toute autre mention permettant de vous identifier.
 
-8.6.3. Dans la mesure du possible, nous transportons vos bagages enregistrés dans l’avion dans lequel vous voyagez, à moins que, pour des raisons opérationnelles, de sécurité ou de sûreté, nous décidions qu’ils soient acheminés sur un autre vol (si possible, le suivant). Dans ce cas, nous vous livrons les Bagages à destination, sauf si les lois applicables stipulent que vous devez être présent(e) lors du contrôle douanier. L’article 14 (Responsabilité en cas de dommages) ne s’en trouve pas affecté.
+8.6.3. Dans la mesure du possible, nous transportons vos bagages enregistrés dans l’appareil dans lequel vous voyagez, à moins que, pour des raisons opérationnelles, de sécurité ou de sûreté, nous décidions qu’ils soient acheminés sur un autre vol (si possible, le suivant). Si votre bagage enregistré est transporté sur un vol ultérieur, nous vous le livrerons, sauf si la loi applicable exige que vous soyez présent lors du contrôle douanier. L’article 14 (Responsabilité en cas de dommage) ne s’en trouve pas affecté.
 
 ### Bagages non enregistrés
 
-8.7.1. Nous pouvons imposer des dimensions maximales pour les Bagages que vous emportez à bord. Si nous n’y avons pas procédé, les Bagages que vous emportez à bord doivent pouvoir être placés sous le siège précédant le vôtre ou dans un espace de rangement fermé. Si vous ne pouvez pas ranger vos Bagages de la sorte, s’ils sont d’un poids excessif ou s’ils peuvent se révéler dangereux d’une quelconque manière, ils doivent être transportés comme Bagages enregistrés.
+8.7.1. Nous pouvons imposer des dimensions maximales aux bagages que vous emportez à bord de l’appareil. Si nous ne l’avons pas fait, les bagages que vous emportez à bord de l’appareil doivent pouvoir être placés sous le siège devant vous ou dans un espace de rangement fermé au sein de la cabine de l’appareil. Si vous ne pouvez pas ranger vos bagages de la sorte, s’ils sont trop lourds ou s’ils peuvent se révéler dangereux pour une quelconque raison, ils doivent être transportés comme bagages enregistrés.
 
-8.7.2. Les objets qui ne peuvent pas être transportés dans les soutes (comme, par exemple, des instruments de musique fragiles) et qui ne sont pas conformes aux dispositions du paragraphe 8.7.1, ne peuvent être acceptés à bord que si vous nous en avez averti au préalable et que nous vous en avons accordé l’autorisation. Vous pourrez devoir payer des frais supplémentaires pour ce service.
+8.7.2. Les objets qui ne peuvent pas être transportés dans les soutes (tels que des instruments de musique fragiles), et qui ne sont pas conformes aux dispositions du paragraphe 8.7.1 ci-dessus, ne peuvent être acceptés dans la cabine que si vous nous en avez averti au préalable et que nous vous en avons accordé l’autorisation. Vous pourriez devoir payer des frais supplémentaires pour ce service.
 
-8.7.3. Certains objets ne pourront plus être transportés dans les Bagages non enregistrés en application du Règlement (CE) n° 154/2006. D’autres objets, comme les liquides, seront limités à une quantité autorisée (100 ml) et seront soumis à des procédures de supervision indépendantes. Pour tout complément d’information, veuillez consulter notre site web ou votre agence de voyages.
+8.7.3. Certains objets ne pourront plus être transportés dans les bagages non enregistrés en application du Règlement (CE) N° 154/2006. D’autres objets, comme les liquides, seront limités à une quantité autorisée (100 ml) et seront soumis à des procédures de contrôle séparées. Pour tout complément d’information, veuillez consulter notre site Web ou votre agence de voyages.
 
 ### Restitution des bagages enregistrés
 
-8.8.1. Vous êtes obligé(e) de retirer vos Bagages enregistrés dès qu’ils sont mis à votre disposition à votre lieu de destination ou d’Escale intermédiaire.
+8.8.1. Vous êtes obligé de retirer vos bagages enregistrés dès qu’ils sont mis à votre disposition à votre lieu de destination ou d’escale.
 
-8.8.2. Nous remettons les Bagages enregistrés au porteur du bulletin de bagage après règlement de toutes les sommes nous étant dues au titre du Contrat de transport. Si vous ne les récupérez pas dans un délai raisonnable, nous pouvons appliquer des frais de stockage. Si votre/vos bagage(s) enregistré(s) n’est/ne sont pas réclamé(s) dans les trois (3) mois suivant le moment de leur mise à disposition pour le passager, nous pouvons nous en débarrasser sans aucune responsabilité à votre égard.
+8.8.2. Nous remettrons les bagages enregistrés au porteur du bulletin de bagages après règlement de toutes les sommes nous étant dues au titre du contrat de transport. Si vous ne les récupérez pas dans un délai raisonnable, nous pourrions appliquer des frais de stockage. Si les bagages enregistrés ne sont pas réclamés par vos soins dans les trois (3) mois suivant le moment de leur mise à disposition au passager, nous pouvons nous en débarrasser sans aucune responsabilité à votre égard.
 
-8.8.3. Si une personne réclamant des bagages n’est pas en mesure de produire le Bulletin de bagages et de l’identifier au moyen de l’Étiquette de bagages (identification), le cas échéant, nous ne le remettrons à cette personne qu’à condition qu’elle établisse les droits qu’elle détient sur ceux-ci d’une façon nous apparaissant comme satisfaisante.
+8.8.3. Si une personne réclamant des bagages n’est pas en mesure de fournir le bulletin de bagages et d’identifier le bagage au moyen de l’étiquette de bagage (identification), si une telle étiquette a été émise, nous ne le remettrons à cette personne qu’à condition qu’elle établisse les droits qu’elle détient sur ce bagage d’une façon nous apparaissant comme satisfaisante.
 
 ### Animaux de compagnie et chiens d’assistance
 
-8.9.1. Le transport d’animaux de compagnie (chiens, chats et autres animaux) est conditionné à notre acceptation et uniquement après signature de la décharge de responsabilité ici présente pour certains de ces animaux.
+8.9.1. L’acceptation de transport d’animaux de compagnie (chiens, chats et autres animaux) est soumise à notre approbation, et ce transport n’est susceptible d’être accepté qu’après signature de la décharge de responsabilité ci-présente pour certains de ces animaux.
 
-Si nous acceptons de transporter vos animaux, ils seront transportés selon les conditions suivantes :
+Si nous acceptons de transporter vos animaux, ils seront transportés selon les conditions suivantes :
 
-Les animaux doivent être convenablement installés dans une caisse et accompagnés des certificats sanitaires, de vaccination et permis d’entrée ou tout autre document exigé par les pays de destination ou de transit. Nous nous réservons le droit de définir la manière du transport et le nombre maximum d’animaux pouvant être embarqués sur un vol.
+Les animaux doivent être convenablement installés et accompagnés des certificats sanitaires et de vaccination en cours de validité, ainsi que d’un permis d’entrée et de tout autre document exigé par les pays de destination ou de transit. Nous nous réservons le droit de définir comment les animaux seront transportés et de limiter le nombre d’animaux pouvant être embarqués sur un vol.
 
-8.9.2. Le poids des animaux, ainsi que celui de la caisse et de la nourriture, ne doivent pas être inclus dans le volume de la franchise bagage du passager. Le transport constituera un excédent de bagages pour lequel vous devrez payer le supplément en vigueur.
+8.9.2. Le poids des animaux, le poids de leur caisse de transport et de leur nourriture ne seront pas inclus dans le volume de la franchise de bagages du passager. Son transport constituera un excédent de bagages pour lequel vous devrez payer le supplément en vigueur.
 
-8.9.3. Les chiens d'assistance reconnus chargés d’un accompagnement sont transportés gratuitement dans la cabine dans la mesure du possible, veuillez prendre en compte l’Article 8.9.5
+8.9.3. Un chien d’assistance reconnu requis par le passager sera transporté gratuitement dans la cabine dans la mesure du possible ; veuillez prendre en compte l’article 8.9.5.
 
-8.9.4. Vous pouvez être accompagné gratuitement d’un chien chargé d’un accompagnement émotionnel ou psychiatrique dans nos vols provenant et à destination des États-Unis, si les conditions suivantes sont remplies :
+8.9.4. Vous pouvez être accompagné gratuitement d’un chien de soutien émotionnel ou d’assistance psychiatrique sur nos vols en provenance et à destination des États-Unis si les conditions suivantes sont remplies :
 
-Les passagers qui voyagent avec des chiens de ce type doivent présenter à Brussels Airlines un certificat valide (c’est-à-dire datant de moins d’un an avant le premier vol prévu) portant l’en-tête d’un spécialiste agréé des troubles psychosociaux (par ex. psychiatre, psychologue, personnel d’assistance sociale agréé en clinique ou médecin généraliste chargé du traitement des troubles mentaux et émotionnels du passager), attestant : 1) que le passager souffre de troubles mentaux ou émotionnels reconnus dans le « Diagnostic and Statistical Manual of Mental Disorders-Fourth Edition (DSMIV) » ; 2) que le passager nécessite la présence du chien d’assistance pendant le voyage en avion et/ou dans le cadre de ses activités à destination ; 3) que la personne délivrant le certificat est un spécialiste agréé des troubles psychosociaux et qu’elle assure le suivi médical du passager ; et 4) de la date et du type d’agrément du spécialiste concerné, sur indication de l’État ou de toute autre juridiction où il a été délivré. Brussels Airlines se réserve le droit de vérifier l’exactitude des documents présentés.
+Les passagers voyageant avec un chien de soutien émotionnel ou d’assistance psychiatrique doivent présenter à Brussels Airlines un certificat actuel (c’est-à-dire datant de moins d’un an avant la date du premier vol prévu pour le passager) portant l’en-tête d’un professionnel de santé mentale agréé (par ex. psychiatre, psychologue, assistant social clinique ou médecin généraliste chargé du traitement des troubles mentaux ou émotionnels du passager), attestant : (1) que le passager souffre de troubles mentaux ou émotionnels reconnus dans le Manuel diagnostique et statistique des troubles mentaux, 4e édition (DSM-IV) ; 2) que le passager nécessite la présence du chien de soutien émotionnel ou d’assistance psychiatrique pendant le voyage en avion et/ou dans le cadre de ses activités à destination ; 3) que la personne délivrant le certificat est un professionnel de santé mentale agréé et qu’elle assure le suivi médical du passager ; et 4) de la date et du type d’agrément du spécialiste concerné, avec mention de l’État ou de toute autre juridiction où il a été délivré. Brussels Airlines se réserve le droit de vérifier l’authenticité de tout document présenté.
 
-Veuillez prendre note de l’Article 8.9.5
+Veuillez prendre note de l’article 8.9.5.
 
-Si vous voyagez avec un chien de cette catégorie, veuillez nous contacter au moins 48 heures avant le départ de votre vol et vous présenter à l’enregistrement au moins 1 heure avant la fermeture de l’enregistrement.
+Si vous voyagez avec un chien d’assistance ou de soutien émotionnel, veuillez nous contacter au moins 48 heures avant le départ de votre vol et vous présenter à l’enregistrement au moins 1 heure avant l’heure limite d’enregistrement indiquée.
 
-8.9.5. Veuillez noter que, dans l’objectif d’opérer un vol en toute sûreté et sans interruption, votre animal doit être entraîné pour se comporter adéquatement dans un lieu public. Afin de voyager avec vous en cabine, l’animal doit être obéissant et se comporter correctement. Si votre animal se comporte mal, il pourrait vous être demandé de le museler pendant le transport, ou il pourrait être transporté en soute (si un chenil est disponible) ou le transport pourrait être refusé.
+8.9.5. Veuillez noter que, pour que le vol puisse être opéré en toute sûreté et sans interruption, votre animal doit avoir appris à se comporter correctement dans un lieu public. Afin de voyager avec vous en cabine, l’animal doit être obéissant et se comporter correctement. Si votre animal se comporte mal, il pourrait vous être demandé de le museler pendant le transport, ou il pourrait être transporté en soute (si une niche est disponible), ou son transport pourrait être refusé.
 
-Les animaux voyageant avec vous en cabine (et leur cage de transport, le cas échéant) doivent pouvoir être placés devant votre siège et doivent être sécurisés de façon adéquate pendant la durée du transport.
+Les animaux voyageant avec vous en cabine (et leur cage de transport, le cas échéant) doivent pouvoir être placés devant votre siège et doivent être sécurisés de façon adéquate pendant toute la durée du vol.
 
-8.9.6. Vous assumez l’entière responsabilité pour la sécurité, la santé et le comportement de votre animal, et le respect de toutes les exigences, réglementations ou restrictions gouvernementales, dont les permis d’entrée/de sortie et les certificats de santé requis des pays, États ou territoires respectifs.
+8.9.6. Vous assumez l’entière responsabilité quant à la sécurité, la santé et le comportement de votre animal, et quant au respect de toutes les exigences, réglementations ou restrictions gouvernementales, dont les permis d’entrée/de sortie et les certificats de santé requis des pays, États ou territoires respectifs.
 
-Vous devrez assumer toutes les dépenses découlant du non-respect de cette disposition, ainsi que pour tout dommage causé par votre animal, et vous devrez nous indemniser pour tout frais, à moins que ceux-ci ne soient causés par une négligence grave ou une faute intentionnelle de Brussels Airlines.
+Vous devrez assumer toutes les dépenses découlant du non-respect de cette disposition, ainsi que liées à tout dommage causé par votre animal, et vous devrez nous indemniser en cas de toute poursuite à notre encontre, à moins qu’elle soit imputable à une négligence grave ou à une faute intentionnelle de Brussels Airlines.
 
 ### Horaires
 
-9.1. Avant d'accepter votre réservation, nous vous indiquerons les horaires applicables qui seront mentionnés sur votre Billet. Si vous nous laissez vos coordonnées, nous vous aviserons de changements éventuels de ces horaires, qui pourraient être dus à des raisons techniques et opérationnelles hors de notre contrôle. Des exemples de ces raisons techniques et opérationnelles sont les conditions météorologiques, les problèmes d'entretien, les incidents de sécurité, les problèmes de bagage, etc. Si, après l'achat de votre Billet, nous procédons à un changement d'horaire important qui ne vous convient pas, vous pourrez prétendre au remboursement de votre Billet, conformément à l'article 10.2.
+9.1. Avant d’accepter votre réservation, nous vous indiquerons les horaires de vol programmés à ce moment-là, qui seront mentionnés sur votre billet. Si vous nous laissez vos coordonnées, nous vous aviserons de tout changement éventuel de ces horaires, qui pourrait être dû à des raisons techniques et opérationnelles hors de notre contrôle. Des exemples de telles raisons techniques et opérationnelles sont des conditions météorologiques défavorables, des problèmes d’entretien, des incidents de sécurité, des problèmes de bagages, etc. Si, après que vous avez acheté votre billet, nous procédons à un changement d’horaire important qui ne vous convient pas, vous pourrez prétendre au remboursement de votre billet conformément à l’article 10.2.
 
 ### Annulation, réacheminement, retards, etc.
 
-9.2. Nous faisons tout notre possible pour effectuer les transports sans retard. C’est pourquoi nous pouvons être amenés à vous faire voyager en notre nom sur les services d'une autre compagnie aérienne ou à bord d’un autre appareil.
+9.2. Nous faisons tout notre possible pour que nos vols n’accusent pas de retard. Dans le cadre de l’exercice de ces mesures et afin d’éviter une annulation de vol, il est possible que nous demandions à un autre transporteur d’opérer le vol pour notre compte, et/ou que vous voliez dans un autre appareil.
 
 ### Notification
 
-9.3. Nous vous tenons informé(e) de tous retards, modifications et annulations de vols en temps voulu à l’aéroport et pendant le vol. Pour obtenir des informations sur votre vol, vous pouvez également consulter le site web de Brussels Airlines.
+9.3. En cas de retard, d’annulation ou de détournement de vol, Brussels Airlines mettra les informations les plus récentes à la disposition des clients dans l’aéroport ou à bord de l’appareil en temps opportun. Les informations sur les vols peuvent également être obtenues en visitant le site Web de Brussels Airlines.
 
 ### Généralités
 
-10.1. Conformément à la réglementation tarifaire, nous vous rembourserons tout ou partie d'un Billet, selon les conditions suivantes : (pour des informations pratiques sur les remboursements, cliquez ici). Lex taxes et frais non applicables sont toujours remboursés.
+10.1. Conformément à la réglementation tarifaire ou au tarif en vigueur, nous vous rembourserons votre billet ou toute partie de billet n’ayant pas été utilisée selon les conditions suivantes (pour obtenir des informations pratiques sur les remboursements, cliquez ici). Les taxes et frais non engagés sont toujours remboursés.
 
-### Personne remboursée
+### Personne qui sera remboursée
 
-10.1.1. Sauf dispositions contraires dans le présent Article, nous serons habilités à rembourser soit la personne dont le nom figure sur le Billet, soit celle ayant réglé le Billet, sur présentation par celle-ci de la preuve suffisante de ce règlement.
+10.1.1. Sauf dispositions contraires dans le présent article, nous serons habilités à rembourser soit la personne dont le nom figure sur le billet, soit celle ayant réglé le billet, sur présentation par celle-ci d’une preuve suffisante attestant qu’elle a effectué le paiement.
 
-10.1.2. Si un Billet a été réglé par une personne autre que celle dont le nom figure sur le Billet et si celui-ci fait mention d’une restriction au remboursement, nous rembourserons uniquement la personne qui aura réglé le Billet, ou toute autre personne que celle-ci désignera.
+10.1.2. Si un billet a été payé par quelqu’un d’autre que le passager dont le nom figure sur le billet, et si celui-ci fait mention d’une restriction au remboursement, nous rembourserons uniquement la personne qui aura payé le billet, ou toute autre personne que celle-ci désignera.
 
-10.1.3. Sauf en cas de perte du Billet, le remboursement ne s’effectuera qu’après réception du Billet et de tous les Coupons de vol inutilisés.
+10.1.3. Sauf en cas de perte du billet, le remboursement ne s’effectuera que lorsque le billet et tous les coupons de vol inutilisés nous auront été remis.
 
-10.1.4. Un remboursement effectué à quiconque nous remettant le Coupon passager et tous les Coupons de vol inutilisés et se présentant comme la personne ayant droit au remboursement, conformément aux sous-paragraphes 10.1.1 ou 10.1.2, sera considéré comme valable.
+10.1.4. Un remboursement effectué à quiconque nous remettant le coupon passager et tous les coupons de vol inutilisés et se présentant comme la personne ayant droit au remboursement, conformément aux sous-paragraphes 10.1.1 ou 10.1.2, sera considéré comme valable.
 
-10.1.5. Pour adresser une demande de remboursement, veuillez utiliser le [_​_formulaire de remboursement en ligne](https://www.brusselsairlines.com/fr/fr/my-bookings/cancel-and-refund-requests) ou [_​_envoyez-nous un e-mail](mailto:refunds.info@brusselsairlines.com) en n’oubliant pas d’indiquer votre numéro de réservation. Le remboursement sera effectué sous 30 jours suivant l’envoi de la demande. Aucuns frais de dossier ne seront facturés.
+10.1.5. Pour adresser une demande de remboursement, veuillez utiliser notre [formulaire de remboursement en ligne](https://www.brusselsairlines.com/fr/fr/my-bookings/cancel-and-refund-requests) ou [nous envoyer un e-mail](mailto:refunds.info@brusselsairlines.com) (assurez-vous d’inclure la référence de la réservation). Le remboursement sera effectué sous 30 jours suivant l’envoi de la demande. Aucuns frais de traitement ne vous seront facturés.
 
-### Remboursements involontaires
+### Remboursements dus à des circonstances indépendantes de votre volonté
 
-10.2.1. Si nous annulons un vol, que nous l'exécutons dans des délais excessifs par rapport à l'horaire programmé, que le vol ne s'arrête pas à votre Escale ou à votre destination ou vous fait manquer une correspondance que vous aviez réservée, le montant du remboursement sera :
+10.2.1. Si nous annulons un vol, que nous l’opérons dans des délais excessifs par rapport à l’horaire programmé, que le vol ne s’arrête pas à votre escale ou à votre destination ou vous fait manquer un vol en correspondance que vous aviez réservé, le montant du remboursement sera :
 
-10.2.1.1. équivalant au Tarif payé, si aucune partie du Billet n'a été utilisée.
+10.2.1.1. équivalent au tarif payé si aucune partie du billet n’a été utilisée,
 
-10.2.1.2. au moins égal à la différence entre le Tarif payé et le Tarif correspondant au transport effectué entre les destinations pour lequel le Billet a été utilisé si une partie du Billet a été utilisée.
+10.2.1.2. au moins égal à la différence entre le tarif payé et le tarif correspondant au transport sur le parcours pour lequel le billet a été utilisé, si une partie du billet a été utilisée.
 
-### Remboursements volontaires
+### Remboursements dus à des circonstances dépendantes de votre volonté
 
-10.3.1. Si vous demandez un remboursement pour des raisons autres que celles mentionnées à l’article 10.2.1, le montant du remboursement sera égal :
+10.3.1. Si vous demandez un remboursement pour des raisons autres que celles mentionnées au point 10.2.1. du présent article, le montant du remboursement sera égal :
 
-10.3.1.1. au Tarif payé, déduction faite des frais de dossier ou d'annulation raisonnables, si aucune partie du Billet n'a été utilisée.
+10.3.1.1. au tarif payé, déduction faite de frais de dossier ou d’annulation raisonnables, si aucune partie du billet n’a été utilisée ;
 
-10.3.1.2. à la différence entre le Tarif payé et le Tarif applicable au parcours réalisé pour lequel le Billet a été utilisé, déduction faite des frais de dossier ou d'annulation raisonnables, si une partie du Billet a été utilisée.
+10.3.1.2. à la différence entre le tarif payé et le tarif correspondant au transport sur le parcours pour lequel le billet a été utilisé, déduction faite de frais de dossier ou d’annulation raisonnables, si une partie du billet a été utilisée.
 
-### Remboursement de Billets perdus
+### Remboursement d’un billet perdu
 
-10.4.1. En cas de perte de tout ou partie d'un Billet, vous pourrez, après nous avoir fourni une preuve suffisante de la perte et vous être acquitté des frais correspondants, être remboursé(e) à condition que:
+10.4.1. En cas de perte de tout ou partie d’un billet, vous pourrez, après avoir fourni au transporteur une preuve suffisante de la perte et vous être acquitté des frais correspondants, être remboursé, à condition que :
 
-10.4.1.1. le Billet ou la partie du Billet perdu ou volé n'ait pas été utilisé, précédemment remboursé ou remplacé sans refacturation du Billet (sauf si l’utilisation, le remboursement ou le remplacement par ou à un tiers relève de notre responsabilité); et que
+10.4.1.1. le billet ou la partie du billet perdu n’ait pas été utilisé, précédemment remboursé ou remplacé sans refacturation du billet (sauf si l’utilisation, le remboursement ou le remplacement par ou à un tiers relève d’une négligence de notre part).
 
-10.4.1.2. la personne remboursée s'engage, dans les formes que nous lui indiquerons, à nous reverser le montant remboursé en cas de fraude et/ou dans la mesure où le Billet ou la partie du Billet perdu serait utilisé par une tierce personne (sauf si toute fraude ou utilisation par un tiers relève de notre responsabilité).
+10.4.1.2. la personne remboursée s’engage, dans les formes que nous lui indiquerons, à nous reverser le montant remboursé en cas de fraude et/ou dans la mesure où le billet ou la partie du billet perdu serait utilisé par une tierce personne (sauf si toute fraude ou utilisation par un tiers relève d’une négligence de notre part). Dans ce cas, des frais de service raisonnables vous seront débités.
 
-10.4.2. Si nous ou notre Agent agréé perdons tout ou partie du Billet, cette perte sera de notre responsabilité.
+10.4.2. Si nous perdons/si notre agent agréé perd le billet ou une partie de celui-ci, nous assumerons la responsabilité de cette perte.
 
-### Refus des remboursements
+### Refus de remboursements
 
-10.5.1. Nous pouvons refuser tout remboursement si sa demande a été faite après l’expiration de la validité du Billet.
+10.5.1. Nous pouvons refuser le remboursement si la demande de remboursement est faite après l’expiration de la validité du billet.
 
-10.5.2. Nous pouvons refuser tout remboursement d’un Billet qui aura été présenté, à nous-mêmes ou aux autorités d'un pays, comme une preuve d'intention de départ de ce pays, à moins que vous nous fournissiez une preuve, satisfaisante à nos yeux, que vous avez la permission de séjourner dans le pays ou que vous en repartirez par l'intermédiaire d'un autre moyen de transport.
+10.5.2. Nous pouvons refuser tout remboursement d’un billet qui nous a été présenté, ou qui a été présenté aux autorités d’un pays, comme preuve d’intention de quitter le pays concerné, à moins que vous nous fournissiez une preuve, satisfaisante à nos yeux, que vous avez la permission de séjourner dans le pays ou que vous en repartirez par l’intermédiaire d’un autre moyen de transport.
 
 ### Devise
 
-10.6. Tous les remboursements seront régis par les lois, règles, règlementations et ordonnances du pays dans lequel le Billet a été acheté et du pays dans lequel le remboursement est effectué. Conformément aux conditions précédentes, le remboursement sera donc réalisé dans la devise dans laquelle le Billet aura été réglé.  
+10.6. Tous les remboursements seront régis par les lois, règles, réglementations et ordonnances du pays dans lequel le billet a été acheté à l’origine, et du pays dans lequel le remboursement est effectué. Conformément aux conditions précédentes, le remboursement sera donc réalisé dans la devise dans laquelle le billet a été réglé.
 
 ### Personnes habilitées à rembourser
 
-10.7. Les remboursements volontaires ne seront effectués que par le Transporteur qui aura initialement émis le Billet ou par son Agent agréé, s'il y est autorisé.
+10.7. Les remboursements dus à des circonstances dépendantes de votre volonté ne seront effectués que par le transporteur qui aura initialement émis le billet ou par son agent agréé, s’il y est autorisé.
 
-### Remboursement sur les comptes Carte de crédit
+### Remboursement sur des comptes de carte de crédit
 
-10.8. Le remboursement des Billets réglés par carte de crédit ne peut être effectué que sur les comptes Carte de crédit initialement utilisés pour l’achat du Billet. Le montant que nous rembourserons sera conforme aux règlementations mentionnées au présent Article, uniquement en fonction du montant et de la devise indiqués sur le Billet. Ce montant à créditer sur le compte Carte de crédit du propriétaire de la carte peut varier selon le montant initialement débité par la société émettrice de la carte pour l’achat du Billet en raison des différences de conversion. De telles variations n’autorisent en aucun cas le bénéficiaire du remboursement à émettre une réclamation à notre encontre.
+10.8. Le remboursement de billets réglés par carte de crédit ne peut être effectué que sur le compte de carte de crédit initialement utilisé pour l’achat du billet. Le montant que nous rembourserons sera conforme aux réglementations mentionnées au présent article, uniquement sur la base du montant et de la devise indiqués sur le billet. Ce montant à créditer sur le compte de carte de crédit du propriétaire de la carte peut varier selon le montant initialement débité par la société émettrice de la carte pour l’achat du billet en raison des différences de conversion. De telles variations n’autorisent en aucun cas le bénéficiaire du remboursement à émettre une réclamation à notre encontre.
 
 ### Généralités
 
-11.1. Si nous estimons, de manière raisonnable, que par votre comportement à bord, vous mettez en danger l'appareil, une personne ou des biens, que vous empêchez l'équipage de remplir ses fonctions, que vous ne vous soumettez pas aux recommandations et instructions de l'équipage, notamment, sans toutefois s’y limiter, celles concernant l'usage de tabac, d'alcool ou de drogue, ou encore que vous vous conduisez d'une manière entraînant ou pouvant entraîner, pour les autres Passagers ou pour l'équipage, une gêne à leur confort ou à leur commodité, des dommages ou une blessure, nous pourrons prendre toutes les mesures envers vous, y compris de contrainte, que nous jugerons nécessaires pour empêcher la poursuite d'un tel comportement. Vous pourrez être débarqué(e), vous voir refuser l’accès à bord pour des voyages ultérieurs à n'importe quel point du réseau et être poursuivi(e) pour tout acte répréhensible que vous auriez commis à bord de l'avion. Si, par suite de votre comportement, nous dévions l’avion vers un lieu de destination non planifié et nous vous obligeons à quitter l’avion, tous les frais liés à cette déviation seront à votre charge.
+11.1. Si nous estimons, de manière raisonnable, que par votre comportement à bord, vous mettez en danger l’appareil, toute personne ou des biens, que vous empêchez l’équipage de remplir ses fonctions, que vous ne vous soumettez pas aux instructions de l’équipage, notamment, sans toutefois s’y limiter, à celles concernant l’interdiction de fumer, de boire de l’alcool ou de consommer de la drogue, ou encore que vous vous conduisez d’une manière pouvant entraîner, pour les autres passagers ou pour l’équipage, une gêne, un inconfort, des dommages ou une blessure, nous pourrons prendre toutes les mesures, y compris de contention, que nous jugerons nécessaires pour empêcher la poursuite d’un tel comportement. Vous pourriez être débarqué, vous voir refuser la suite du transport à n’importe quel moment et être poursuivi pour tout acte répréhensible que vous auriez commis à bord de l’appareil. Si, à cause de votre comportement, nous détournons l’appareil vers une destination non planifiée et nous vous obligeons à quitter l’avion, tous les frais liés à ce détournement seront à votre charge.
 
 ### Appareils électroniques
 
-11.2. L’utilisation de téléphones cellulaires, d’appareils de transmission et de jouets téléguidés est interdite à bord. L’utilisation de téléphones cellulaires est uniquement autorisée si l’avion est équipé d’une technologie de support de téléphonie mobile. Veuillez prêter attention, à tout moment, aux annonces de l’équipage et aux informations écrites à bord, comme le Guide FlyNet. Les appels VoiP sont interdits et impossibles à effectuer, car la technologie est désactivée. Les caméras vidéo, les ordinateurs portables, les lecteurs MP3, les lecteurs CD et les consoles de jeux sont autorisés lorsque le voyant de bouclage des ceintures est éteint.
+11.2. L’utilisation de téléphones cellulaires, d’appareils de transmission et de jouets téléguidés est interdite à bord. L’utilisation de téléphones cellulaires est uniquement autorisée si l’appareil est équipé d’une technologie de support de téléphonie mobile. Veuillez prêter attention, à tout moment, aux annonces de l’équipage et aux informations écrites à bord, comme dans le Guide FlyNet. Les appels VoiP sont interdits et impossibles à effectuer car la technologie est désactivée. Les caméras vidéo, les ordinateurs portables, les lecteurs MP3, les lecteurs CD et les consoles de jeux sont autorisés lorsque le voyant de bouclage des ceintures est éteint.
 
 ### Vols non-fumeurs
 
-11.3. Tous les vols de la compagnie Brussels Airlines sont des vols non-fumeurs. Il est formellement interdit de fumer dans tout l’appareil. Ceci s’applique également aux cigarettes électroniques.
+11.3. Tous les vols Brussels Airlines sont des vols non-fumeurs. Il est interdit de fumer dans toutes les zones de l’appareil.
 
-### Boissons alcoolisées
+Cela vaut également pour les cigarettes électroniques.
 
-11.4. Les passagers ne sont pas autorisés à consommer à bord des boissons alcoolisées qu’ils auraient emportées.
+### Boissons alcoolisées personnelles
 
-### Obligation d’attacher sa ceinture
+11.4. Les passagers ne sont pas autorisés à consommer, à bord de l’appareil, des boissons alcoolisées qu’ils auraient achetées avant d’embarquer.
 
-11.5. En principe, obligation est faite aux passagers de rester à leur place et d'attacher leur ceinture pendant toute la durée du vol.
+### Ceintures de sécurité obligatoires
 
-12.1. Si nous acceptons de prendre des dispositions en votre faveur pour qu’un tiers vous fournisse certains services comme l’émission d’un Billet ou d’un bon d’échange concernant le transport ou d’autres services, nous ne serons que votre mandataire. Les Conditions de transport ou de vente des tiers seront alors applicables.
+11.5. En règle générale, il vous est demandé de rester assis pendant toute la durée du vol, et vous êtes tenu d’attacher votre ceinture de sécurité lorsque vous êtes assis.
 
-12.2. Si nous fournissons des prestations de transport terrestre, ces conditions s'appliqueront à ces transports. Ces conditions sont disponibles sur demande.
+12.1. Si nous prenons des dispositions en votre faveur pour qu’un tiers vous fournisse certains services, comme l’émission d’un billet ou d’un bon d’échange concernant le transport ou d’autres services, nous n’agirons alors qu’en tant qu’agent. Les conditions générales du prestataire de services tiers s’appliqueront.
 
-12.3. En cas de transport international par chemin de fer en coopération avec NMBS ou NS, le régime légal de responsabilité et d’assistance est régi par le Règlement (CE) n° 1371/2007 du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires et les normes uniformisées sur le contrat de transport international ferroviaire de passagers et de bagages, conformément à la Convention relative aux transports internationaux ferroviaires (COTIF), signée à Vilnius le 3 juin 1999 et complétée par les conditions générales de la compagnie ferroviaire.
+12.2. Si nous vous fournissons également un transport terrestre, ces conditions s’appliquent à ce transport terrestre. Nous pouvons vous communiquer ces conditions sur demande.
+
+12.3. En cas de transport international ferroviaire en coopération avec la SNCB ou la NS, le régime légal de responsabilité et d’assistance est régi par le Règlement (CE) N° 1371/2007 du 23 octobre 2007 sur les droits et obligations des voyageurs ferroviaires et par les règles uniformes concernant le contrat de transport international ferroviaire des voyageurs et des bagages de la convention relative aux transports internationaux ferroviaires (COTIF) du 9 mai 1980, telle que modifiée par le protocole portant modification de la COTIF du 3 juin 1999 à Vilnius, complétés par les conditions générales de la compagnie ferroviaire.
 
 ### Généralités
 
-13.1.1. Vous êtes responsable de l'obtention de tous les documents nécessaires à votre voyage, y compris les visas et tout permis particulier qui seraient exigibles par la législation, les règlementations, les obligations et les exigences en matière de voyage en vigueur dans les États de départ, de destination ou de transit. Vos documents de voyage doivent être valables pour toute la durée de votre voyage, y compris pour d’éventuelles interruptions. Nous n’endossons aucune responsabilité à ce sujet et ne sommes pas tenus de vérifier la validité de vos documents.
+13.1.1. Vous êtes responsable de l’obtention de tous les documents de voyage et visas requis et du respect de toutes les lois, réglementations, ordonnances, demandes et exigences de voyage des pays de départ, d’arrivée ou de transit. En outre, il incombe au passager de s’assurer que ses documents de voyage et visas resteront valides pendant toute la durée de son voyage, en tenant compte de la possibilité de perturbations de vol. Brussels Airlines ne pourra pas être tenue responsable si le passager ne prend pas les précautions raisonnables pour s’assurer que ses documents de voyage et visas restent valides.
 
-13.1.2. Nous ne serons nullement tenus responsables des conséquences que vous subiriez suite à votre inobservation des obligations mentionnées ci-dessus.
+13.1.2. Nous ne pourrons nullement être tenus responsables de toute conséquence, aussi éloignée soit-elle, que tout passager pourrait subir s’il n’obtient et n’emporte pas avec lui les documents de voyage ou visas valides nécessaires ou s’il ne se conforme pas à ces lois, réglementations, ordonnances, demandes, exigences, règles ou instructions.
 
 ### Documents de voyage
 
-13.2. Avant le voyage, vous devrez présenter tous les documents d'entrée, de sortie et de transit, les documents sanitaires et autres exigés par la législation, les règlementations, les ordonnances, les obligations ou autres exigences des pays concernés et nous permettre d'en prendre copie. Nous nous réservons le droit de vous refuser l’accès à bord si vous ne vous conformez pas à ces obligations ou si vos documents de voyage semblent ne pas être en règle.
+13.2. Avant le voyage, vous devez présenter tous les documents de sortie, d’entrée, de santé et autres requis par la législation, les règlements, les ordonnances, les demandes ou autres exigences des pays concernés, et nous permettre de photocopier ces documents et de garder ces photocopies. Nous nous réservons le droit de vous refuser d’assurer votre transport si vous ne vous êtes pas conformé à ces exigences ou si vos documents de voyage semblent ne pas être en règle.
 
 ### Refus d’entrée
 
-13.3. Si l’entrée d’un pays vous est refusée, vous devrez payer le billet retour vers votre lieu de départ ou vers tout autre lieu si les autorités compétentes l’exigent, en cas de non autorisation d’entrée sur un territoire (pays de destination ou de transit). Pour couvrir ces frais, nous sommes en droit de réquisitionner les billets d’avion non encore utilisés ainsi que tout moyen de paiement vous appartenant. Le prix du billet jusqu’au lieu du renvoi ou de l’expulsion ne sera pas remboursé.
+13.3. Si l’entrée dans un pays vous est refusée, vous devrez payer les frais de transport depuis ce pays. Nous pouvons appliquer au paiement de ce tarif tout fonds qui nous a été versé pour le transport non utilisé, ou tout fonds du passager en notre possession. Nous ne rembourserons pas le tarif du billet relatif au transport jusqu’au lieu du refus d’entrée ou de l’expulsion.
 
-### Responsabilité du Passager pour amendes, etc.
+### Responsabilité du passager en cas d’amendes, etc.
 
-13.4. Si nous sommes tenus de payer des pénalités, amendes ou autres frais en raison d’un manquement de votre part aux dispositions en vigueur concernant l’entrée ou la traversée du territoire, ou en raison de l’absence de documents nécessaires en vertu de ces dispositions, vous êtes dans l’obligation, si nous vous le demandons, de nous rembourser les montants payés ou les autres sommes engagées, et de nous verser des frais de dossier. Cette obligation s’applique non seulement au passager mais aussi à celui qui a payé le billet. Pour couvrir ces dépenses, nous sommes en droit de réquisitionner les billets d’avion non encore utilisés ainsi que tout moyen de paiement vous appartenant. Le montant des amendes et des pénalités varie d’un pays à l’autre et peut largement dépasser le prix du billet. Dans votre propre intérêt, nous vous recommandons donc de veiller à respecter les conditions d’entrée sur un territoire étranger.
+13.4. Si nous sommes tenus de payer des pénalités, amendes ou autres frais si vous ne vous conformez pas aux législations ou règlements concernant l’entrée dans le territoire concerné ou sa traversée, ou si vous ne présentez pas les documents nécessaires de façon appropriée, vous serez dans l’obligation, sur demande de notre part, de nous rembourser les montants payés ou les autres sommes engagées, et de nous verser des frais de dossier. Si le passager ne nous rembourse pas, nous pouvons demander le remboursement à la personne qui a payé le billet. Nous pouvons affecter à ce paiement ou à cette dépense la valeur de toute partie inutilisée de votre billet ou de vos fonds en notre possession. Le montant de l’amende ou de la pénalité varie d’un pays à l’autre et peut largement dépasser le tarif payé. Dans votre propre intérêt, nous vous recommandons donc de veiller à respecter les conditions d’entrée sur le territoire dans lequel vous vous rendez.
 
 ### Contrôles douaniers
 
-13.5. Vous devrez, si nécessaire, assister à l'inspection de vos Bagages par la douane ou par toute autre autorité gouvernementale. Nous n'assumerons aucune responsabilité pour tout Dommage ou perte que vous subiriez lors d’un tel contrôle ou par suite de votre non-respect de la présente obligation.
+13.5. Si nécessaire, vous devrez assister à l’inspection de vos bagages par la douane ou par toute autre autorité gouvernementale. Nous n’assumerons aucune responsabilité pour tout dommage ou perte que vous subiriez lors d’un tel contrôle ou à la suite de votre non-respect de la présente obligation.
 
-### Contrôle de sûreté
+### Contrôle de sécurité
 
-13.6. Vous devrez vous soumettre à tous les contrôles de sûreté exigés par les autorités gouvernementales ou aéroportuaires, par un Transporteur ou par nous-mêmes.
+13.6. Vous devrez vous soumettre à tous les contrôles de sécurité exigés par les autorités gouvernementales ou aéroportuaires, par les transporteurs ou par Brussels Airlines.
 
-### Transmission des données du Passager
+### Transmission des données du passager
 
-13.7. Nous sommes habilités à transmettre vos données personnelles et celles concernant votre réservation en rapport avec votre vol aux autorités locales et étrangères (dont aux États-Unis et au Canada) sur leurs demandes, conformément aux règlementations juridiques afin de respecter le Contrat de transport.
+13.7. Nous sommes habilités à transmettre vos données à caractère personnel et toutes celles concernant votre réservation en rapport avec votre vol aux autorités locales et étrangères (dont aux États-Unis et au Canada) si elles nous en font la demande conformément aux législations et réglementations juridiques afin de respecter le contrat de transport.
 
 ### Généralités
 
-14.1.1. La responsabilité de Brussels Airlines et de chaque Transporteur sera déterminée par ses propres Conditions générales de transport.
+14.1.1. La responsabilité de Brussels Airlines et de chaque transporteur impliqué dans votre voyage sera déterminée par les conditions de transport propres à chacun de ces transporteurs.
 
-14.1.2. Sauf dispositions contraires dans les présentes, le transport international, tel que défini dans la Convention, est soumis aux règles de responsabilité de celle-ci.
+14.1.2. Sauf dispositions contraires dans les présentes, le transport international, tel que défini dans la Convention, est soumis aux règles de responsabilité de la Convention.
 
-14.1.3. Toute responsabilité nous incombant pour des Dommages sera réduite par toute négligence de votre part ayant provoqué ou contribué à la survenance des Dommages conformément à la législation applicable.
+14.1.3. Toute responsabilité nous incombant pour des dommages sera réduite si vous avez commis toute négligence ayant provoqué le dommage ou y ayant contribué, conformément à la législation applicable.
 
-14.1.4. Nous ne pourrons être tenus responsables que des Dommages survenant sur nos vols. Si nous émettons un Billet ou que nous enregistrons les Bagages sur les lignes d'un autre Transporteur, nous n'agissons qu'à titre de mandataire de ce dernier. Toutefois, concernant les Bagages enregistrés, vous avez droit à un recours contre le premier ou le dernier Transporteur intervenant dans votre voyage.
+14.1.4. Nous ne pourrons être tenus responsables que des dommages survenant sur nos propres vols. Si nous émettons un billet ou que nous enregistrons les bagages pour un autre transporteur, nous n’agissons qu’à titre d’agent pour cet autre transporteur. Toutefois, concernant les bagages enregistrés, le passager aura droit à un recours contre le premier ou le dernier transporteur.
 
-14.1.5. Si le Transporteur aérien effectuant le vol diffère de celui avec lequel un Contrat a été conclu, vous pouvez adresser une plainte ou une réclamation à l’un ou à l’autre. Si le nom ou le code (Code Share) d’un Transporteur aérien figure sur le Billet, ce Transporteur est celui avec lequel un Contrat a été conclu.
+14.1.5. Si le transporteur aérien opérant effectivement le vol diffère du transporteur contractuel, vous pouvez adresser une réclamation ou une demande d’indemnisation à l’un ou à l’autre. Si le nom ou le code (vol en partage de codes) d’un transporteur aérien figure sur le billet, ce transporteur aérien est le transporteur contractuel.
 
-14.1.6. Nous n'assumons aucune responsabilité pour les Dommages résultant de notre conformité avec toute législation, réglementation, ordonnance ou exigence ou de votre conformité avec celles-ci.
+14.1.6. Nous ne pourrons être tenus responsables d’aucun dommage résultant de notre conformité avec toute législation ou avec tout règlement, toute ordonnance ou exigence gouvernementale, ou résultant du non-respect de ces éléments par le passager.
 
-14.1.7. Notre responsabilité est limitée aux dommages directs qui découlent de l’inexécution du contrat de transport. Sauf faute intentionnelle, nous ne pouvons être tenue responsable de toute forme de dommage indirect qui découlerait de cette inexécution. Par « dommage indirect », il convient d’entendre de manière non exhaustive : toute annulation ou interruption de séjour hôtelier, de transport, d’activités ou d’excursions, de bénéfice manqué, de perte financière ou commerciale, de perte de clientèle, d’augmentation des coûts, des dommages moraux etc. 
+14.1.7. Notre responsabilité ne dépassera en aucun cas le montant des dommages prouvés. Nous ne pouvons être tenus responsables de dommages indirects ou consécutifs que si ces dommages ont été causés par une faute intentionnelle de notre part ; les dispositions de la Convention continueront d’être applicables sans modification.
 
-14.1.8. Toute exclusion ou limitation de notre responsabilité s'appliquera et bénéficiera à nos Agents, nos employés et représentants et au propriétaire de l'avion utilisé par nous-mêmes ainsi que par les agents, employés et représentants de ce propriétaire. Le montant global recouvrable auprès des personnes précédemment mentionnées ne pourra excéder le montant de notre responsabilité.
+14.1.8. Toute exclusion ou limitation de notre responsabilité s’appliquera et bénéficiera à nos agents, à nos employés et à nos représentants et au propriétaire de l’appareil utilisé par Brussels Airlines ainsi qu’aux agents, employés et représentants de ce propriétaire. Le montant total récupérable auprès de nous et des agents, employés, représentants et autres personnes ne pourra excéder le montant de notre limite de responsabilité.
 
-14.1.9. Sauf dispositions expresses, aucune des dispositions des présentes Conditions ne saurait lever toute limitation ou exclusion de notre responsabilité au titre de la Convention ou de la législation en vigueur.
+14.1.9. Sauf dispositions expresses, aucune des dispositions des présentes conditions ne saurait lever toute limitation ou exclusion de notre responsabilité au titre de la Convention ou de la législation en vigueur.
 
 ### Indemnisation en cas de décès ou de blessure
 
-14.2.1. Nous sommes responsables du préjudice survenu en cas de mort ou de lésion corporelle subie par un passager, causé par un accident qui s’est produit à bord de l’aéronef ou au cours d’embarquement ou de débarquement, conformément à l’article 17.1 du Convention de Montréal. Dans un tel cas, nous ne sommes pas responsables des dommages subis dans la mesures où ils dépassent 151 880 DTS, si nous prouvons que l’accident (i) n’est pas dû à la négligence ou à un autre acte ou omission préjudiciable de notre part ou à la négligence ou un autre acte ou omission préjudiciable de la part de nos préposés ou mandataires ; ou (ii) résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable du passager ou d’un tiers.
+14.2.1. Nous sommes responsables du préjudice survenu en cas de mort ou de lésion corporelle subie par un passager, causé par un accident qui s’est produit à bord de l’appareil ou au cours de l’embarquement ou du débarquement., conformément à l’article 17.1 de la Convention de Montréal. Dans un tel cas, nous ne serons toutefois pas responsables des dommages dépassant un montant de 151 880 DTS si nous pouvons prouver que l’accident (i) n’est pas dû à notre négligence ou à un autre acte ou omission préjudiciable de notre part, ou à la négligence ou à un autre acte ou omission préjudiciable de la part de nos employés ou agents ; ou (ii) résulte uniquement de la négligence ou d’un autre acte ou omission préjudiciable du passager ou d’un tiers.
 
-14.2.2. Nous nous réservons toutes les défenses contre ces réclamations dont nous disposons en vertu de la Convention de Montréal et de la législation nationale applicable. En ce qui concerne les tiers, nous nous réservons également tous les droits de recours contre toute personne, y compris, mais non exclusivement, les droits de contribution et d’indemnisation.
+14.2.2 Nous nous réservons toutes les défenses contre de telles réclamations dont nous disposons en vertu de la Convention de Montréal et de la législation nationale applicable. En ce qui concerne les tiers, nous nous réservons également tous les droits de recours contre toute personne, y compris, mais sans s’y limiter, les droits de contribution et d’indemnisation.
 
-14.2.3. Dans le cas où un passager décède ou est blessé, le transporteur aérien est tenu d’effectuer une avance de paiement, dans les 15 jours suivant l’identification de la personne ayant droit à des dommages-intérêts, afin de couvrir les besoins financiers immédiats. En cas de décès, cette avance de paiement ne peut être inférieure à 16 000 DTS (environ 20 000 EUR).
+14.2.3. Si un passager est tué ou blessé, le transporteur aérien doit verser une avance, pour couvrir les besoins immédiats, dans les 15 jours suivant l’identification de la personne ayant droit à cette avance. En cas de décès, cette avance ne doit pas être inférieure à 16 000 DTS (environ 20 000 EUR).
 
-14.2.4. Un paiement anticipé ne constituera aucune reconnaissance de responsabilité et peut être compensé par toute somme payée ultérieurement sur la base de la responsabilité du transporteur. Le paiement anticipé doit être remboursé s’il est prouvé par la suite que vous avez provoqué ou contribué par votre négligence à ce décès ou cette lésion, ou que la personne ayant reçu le paiement anticipé n’était pas la personne qui avait droit à cette compensation.
+14.2.4. Le versement d’une avance ne constitue pas une reconnaissance de responsabilité et peut être compensé par toute somme versée ultérieurement au titre de la responsabilité du transporteur aérien. Elle doit être remboursée s’il est prouvé ultérieurement que vous avez causé votre propre décès ou vous vous êtes blessé vous-même, ou si vous avez contribué à ce décès ou à cette blessure à cause d’une négligence de votre part, que la personne qui a reçu l’avance a causé le décès ou la blessure ou y a contribué à cause d’une négligence de sa part, ou si la personne qui a reçu l’avance n’y avait pas droit.
 
-### Destruction, perte ou détérioration des Bagages
+### Destruction, perte ou endommagement des bagages
 
-14.3.1. Sauf en cas d’acte ou d’omission effectué avec l’intention de causer un dommage ou imprudemment et en sachant que ledit dommage sera probablement causé, notre responsabilité est engagée dans la limite de 1 519 DTS. L’enregistrement de Bagages implique une responsabilité indépendante de la culpabilité, à condition que les bagages n’aient pas déjà été endommagés auparavant. Dans le cas de Bagages non enregistrés, notre responsabilité n’est engagée qu’en cas de culpabilité.
+14.3.1. Sauf en cas d’acte ou d’omission effectué avec l’intention de causer un dommage ou imprudemment, et en sachant que ledit dommage en résulterait sans doute, notre responsabilité est engagée pour la destruction, la perte ou l’endommagement des bagages à concurrence de 1 519 DTS. Pour les bagages enregistrés, la responsabilité nous incombe même si nous ne sommes pas en faute, sauf si le bagage était défectueux. Pour les bagages non enregistrés, le transporteur n’est responsable que s’il est en faute.
 
-### Limite de responsabilité plus élevée pour les Bagages.
+### Limites plus élevées pour les bagages
 
-14.3.2. Un Passager peut bénéficier d’une limite de responsabilité plus élevée en faisant une déclaration spéciale au plus tard au moment de l’enregistrement et en s’acquittant d’une redevance supplémentaire.
+14.3.2. Les passagers peuvent bénéficier d’une limite de responsabilité plus élevée en émettant une déclaration spéciale au plus tard lors de l’enregistrement et en payant des frais supplémentaires.
 
-### Plaintes concernant les Bagages
+### Réclamations concernant les bagages
 
-14.3.3. En cas de détérioration, retard, perte ou destruction des Bagages, le Passager concerné doit se plaindre par écrit auprès du Transporteur aérien dès que possible. En cas de Dommages occasionnés sur des Bagages enregistrés et en cas de retard dans leur acheminement, le Passager doit se plaindre par écrit dans un délai de sept jours et de 21 jours respectivement à compter de la date à laquelle ils ont été mis à sa disposition.
+14.3.3. Si les bagages sont endommagés, perdus ou détruits, le passager doit envoyer une réclamation écrite à destination du transporteur aérien dès que possible. Si les bagages enregistrés sont endommagés, le passager doit envoyer une réclamation écrite dans les sept jours, et dans les 21 jours pour les retards, dans les deux cas à compter de la date à laquelle le bagage a été mis à la disposition du passager.
 
-14.3.4. Nous ne sommes pas responsables des Dommages occasionnés aux Bagages d’un Passager par leur contenu sauf si ces Dommages sont dus à un comportement négligent ou fautif de notre part. Tout Passager dont les biens ont causé des Dommages aux Bagages ou à nos biens devra nous indemniser pour toutes les pertes et les dépenses consécutives encourues.
+14.3.4. Nous ne sommes pas responsables des dommages occasionnés par vos bagages ou des dommages occasionnés aux bagages d’un passager par leur contenu, sauf si ces dommages sont dus à un comportement négligent ou à une faute intentionnelle de notre part. Tout passager dont les biens causent des dommages aux bagages d’un autre passager ou à nos biens devra nous indemniser pour toutes les pertes et les dépenses consécutives encourues.
 
-### Retards des Bagages et du Passager
+### Retards des bagages et des passagers
 
-14.4.1. Nous sommes responsables des dommages occasionnés par des retards dans le transport de passagers, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages ou à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard du transport des passagers se limite à 6 303 DTS.
+14.4.1. Nous sommes responsables des dommages occasionnés par des retards dans le transport de passagers, à moins que nous ayons pris toutes les mesures raisonnables possibles pour éviter ces dommages, ou à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de retard des passagers est limitée à 6 303 DTS.
 
-14.4.2. Nous sommes responsables des dommages occasionnés par des retards dans l’acheminement de bagages enregistrés, à moins que nous ayons pris toutes les mesures raisonnablement exigibles pour éviter ces dommages et à moins que la prise de telles mesures ait été impossible. La responsabilité en cas de dommages liés à un retard d’acheminement des bagages se limite à 1 519 DTS.
+14.4.2. En cas de retard des bagages, nous sommes responsables des dommages, sauf si nous avons pris toutes les mesures raisonnables pour les éviter ou s’il était impossible de prendre de telles mesures. La responsabilité est limitée à 1 519 DTS.
 
-14.4.3. Si le demandeur n’a pas atténué les dommages ou a contribué à l’apparition des dommages, le montant des demandes de dommages et intérêts diminuera en fonction de la somme relative à la contribution du demandeur. Le demandeur est obligé en particulier à procéder à des achats de remplacement opportuns, raisonnables et adéquats.
+14.4.3 Si le demandeur n’a pas atténué les dommages ou a contribué à l’apparition des dommages, le montant des demandes de dommages et intérêts sera réduit à hauteur de la somme relative à la contribution du demandeur. Le demandeur est obligé, en particulier, de procéder à des achats de remplacement opportuns, raisonnables et adéquats.
 
-### Non embarquement en raison de surréservation
+### Non-embarquement en raison de surréservation
 
-14.5.1. Le Transporteur accordera la priorité aux enfants non accompagnés, aux personnes malades et handicapées. Dans tous les autres cas, les Passagers se verront attribuer un siège dans l’appareil en fonction de l’ordre de l’enregistrement, en tenant compte également des intérêts de chacun.
+14.5.1. Le transporteur accordera la priorité aux enfants non accompagnés, aux personnes malades et handicapées. Dans tous les autres cas, les passagers se verront attribuer un siège dans l’appareil en fonction de l’ordre de l’enregistrement, en tenant également compte de tout intérêt spécifique.
 
-14.5.2. Si nous pouvons prévoir de façon raisonnable un refus d’embarquement sur un vol, nous demanderons tout d’abord aux Passagers volontaires d’accepter de renoncer à leur réservation en échange de certaines prestations, suivant des modalités à convenir entre le Passager et nous. Le Passager aura aussi le droit (i) à un réacheminement vers sa destination finale dans les meilleurs délais; ou (ii) au remboursement du billet ainsi que, le cas échéant, un vol retours vers son point de départ initial dans les meilleurs délais.
+14.5.2. Si nous pouvons prévoir de façon raisonnable un refus d’embarquement sur un vol, nous demanderons tout d’abord aux passagers volontaires d’accepter de renoncer à leur réservation en échange de certaines prestations, suivant des modalités à convenir entre le passager et nous. Le passager aura droit (i) à un réacheminement vers sa destination finale dans les meilleurs délais ; ou (ii) au remboursement du billet ainsi que, le cas échéant, à un vol retour vers son point de départ initial dans les meilleurs délais.
 
 ### Annulation
 
-14.6. En cas d’annulation, deux choix s’offriront à vous : (i) un réacheminement vers votre destination finale dans les meilleurs délais ou (ii) un remboursement ainsi que, le cas échéant, un vol retour vers son point de départ initial dans les meilleurs délais. En cas d’annulation, vous pourriez avoir droit à un dédommagement, conformément au règlement (CE) 261/2004. De plus, en cas d’annulation, vous avez le droit à une prise en charge conformément à l’article 9 du Règlement (CE) 261/2004.
+14.6. En cas d’annulation de votre vol, deux choix s’offriront à vous : (i) un réacheminement vers votre destination finale dans les meilleurs délais ; ou (ii) un remboursement ainsi que, le cas échéant, un vol retour vers votre point de départ initial dans les meilleurs délais. En cas d’annulation de votre vol, vous pourriez avoir droit à une indemnisation conformément au Règlement (CE) N° 261/2004. De plus, en cas d’annulation, vous avez droit à une prise en charge conformément au Règlement (CE) N° 261/2004.
 
-### Notification des réclamations
+### Délai de protestations
 
-15.1. Votre acceptation sans protestations des Bagages signifie, sauf preuve du contraire, qu’ils auront été livrés en bon état conformément au Contrat de transport.
+15.1. La réception des bagages sans protestation par vos soins constituera présomption, sauf preuve du contraire, que les bagages ont été livrés en bon état et conformément au contrat de transport.
 
-Tout recours pour Dommages aux Bagages n'est recevable que si la personne en droit de recevoir les Bagages notifie une réclamation au Transporteur immédiatement après la découverte de tels Dommages, et, pour un transport aérien international, dans les sept jours suivant la date de réception. En cas de retard, ce délai est porté à vingt et un jours à compter de la date à laquelle les Bagages auront été mis à disposition. Toute réclamation doit être réalisée par écrit et envoyée dans les délais précédemment mentionnés.
+En cas d’avarie, le destinataire doit adresser au transporteur une protestation immédiatement après la découverte de l’avarie et, au plus tard, dans un délai de sept jours à dater de leur réception pour les voyages aériens internationaux. En cas de retard, la protestation devra être faite au plus tard dans les 21 jours à dater du jour où le bagage a été mis à sa disposition. Toute protestation doit être faite par réserve écrite et remise ou expédiée dans le délai prévu pour cette protestation.
 
-### Action en responsabilité
+### Délai de recours
 
-15.2. Toute action en responsabilité doit être intentée, sous peine de prescription, dans un délai de deux ans à compter de l'arrivée à destination, du jour auquel l'arrivée de l'avion était programmée ou de la date de l'arrêt du transport. Le mode de calcul du délai sera déterminé par la loi du Tribunal saisi.
+15.2. Toute action en responsabilité doit être intentée, sous peine de déchéance, dans le délai de deux ans à compter de l’arrivée à destination, ou du jour où l’appareil aurait dû arriver, ou de l’arrêt du transport. Le mode du calcul du délai est déterminé par la loi du tribunal saisi.
 
-15.3 Toute action basée sur le Règlement de l’UE n° 261/2004 est soumise au droit belge, en application de l’article 2.5 des présentes conditions, et doit être introduite dans un délai d’un an suivant le vol nécessitant l’application dudit Règlement.
+15.3. Toute action basée sur le Règlement (CE) N° 261/2004 est soumise au droit belge, en application de l’article 2.5 des présentes conditions, et doit être introduite dans un délai d’un an suivant le vol nécessitant l’application dudit Règlement.
 
-16.1 Le Service belge de médiation pour le consommateur (boulevard du Roi Albert II 8, bte 1, 1000 Bruxelles, Belgique – [_​_contact@mediationconsommateur.be](mailto:contact@mediationconsommateur.be)) est l’entité responsable du règlement extrajudiciaire des litiges, y compris la médiation des litiges relatifs à l’exploitation de vols. Les conditions de recevabilité sont disponibles [_​_ici](https://mediationconsommateur.be/fr/en-pratique) et une plainte peut être déposée au moyen du [_​_formulaire de plainte](https://mediationconsommateur.be/fr/formulaire-de-plainte).
+16.1 Le Service belge de Médiation pour le Consommateur (Boulevard du Roi Albert II 8 Box 1, 1000 Bruxelles, Belgique – [contact@consumerombudsman.be](mailto:contact@consumerombudsman.be)) est l’entité responsable du règlement extrajudiciaire des litiges, y compris de la médiation des litiges relatifs à l’opération de vols. Les conditions de recevabilité sont disponibles [ici](https://mediationconsommateur.be/en/practice) et une réclamation peut être déposée au moyen du [formulaire de réclamation](https://mediationconsommateur.be/en/complaint-form).
 
-Pour les consommateurs britanniques et allemands, Brussels Airlines prend part au règlement des litiges devant une chambre de conciliation des consommateurs. La chambre de conciliation des consommateurs responsable est le SÖP – Schlichtungsstelle für den öffentlichen Personenverkehr E.V. (« Commission d’arbitrage pour le transport public des voyageurs »), Fasanenstrasse 81, 10623 Berlin, Allemagne ([_​_https://soep-online.de/en/](https://soep-online.de/en/) et demande de conciliation concernant les vols via [_​_https://soep-online.de/en/your-conciliation-request/online-form-flight/](https://soep-online.de/en/your-conciliation-request/online-form-flight/)).
+Pour les consommateurs britanniques et allemands, Brussels Airlines prend part au règlement des litiges devant un bureau de conciliation des consommateurs. Le bureau de conciliation des consommateurs compétent est le SÖP – Schlichtungsstelle für den öffentlichen Personenverkehr E.V. (« Bureau de conciliation pour le transport public de voyageurs »), sis Fasanenstrasse 81 à 10623 Berlin, Allemagne ([https://soep-online.de/en/](https://soep-online.de/en/), et les demandes de conciliation concernant les vols peuvent être introduites via [https://soep-online.de/en/your-conciliation-request/](https://soep-online.de/en/your-conciliation-request/)).
 
-La Commission européenne fournit également une plateforme pour le règlement en ligne des litiges, disponible [_​_ici](https://ec.europa.eu/consumers/odr/main/?event=main.consumer.rights).
+La Commission européenne fournit également une plateforme de règlement en ligne des litiges. Cette plateforme est disponible [ici](https://ec.europa.eu/consumers/odr/main/?event=main.consumer.rights#inline-nav-2).
 
-17.1. Le transport est également lié à d’autres réglementations et conditions applicables ou que nous avons adoptées. Ces réglementations et conditions sont importantes et sont sujettes à des modifications ponctuelles. Elles concernent entre autres : le transport de mineurs non accompagnés, de femmes enceintes et de Passagers malades, les restrictions concernant l’utilisation d’appareils et d’objets électroniques et la consommation de boissons alcoolisées à bord. Les réglementations et conditions correspondantes sont disponibles sur simple demande.
+17.1. Le transport est également effectué conformément à d’autres réglementations et conditions qui nous sont applicables, ou que nous avons adoptées. Ces réglementations et conditions sont importantes et sont sujettes à des modifications ponctuelles. Elles concernent entre autres le transport de mineurs non accompagnés, de femmes enceintes et de passagers malades ; des restrictions concernant l’utilisation d’appareils et d’objets électroniques et la consommation de boissons alcoolisées à bord. Nous pouvons fournir les réglementations et conditions concernant ces questions sur demande.
 
-18.1. Les intitulés abrégés de chaque Article des présentes Conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
+18.1. Les intitulés abrégés de chaque article des présentes conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
 
-**Dernière mise-à-jour : décembre 2024**
+**Dernière mise à jour : décembre 2024**
