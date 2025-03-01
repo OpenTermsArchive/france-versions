@@ -51,7 +51,7 @@ Nous avons mis en place une procédure de signalement et de plainte pour examine
 **10\. Autres :**
 -----------------
 
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)
 
 **Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
 ----------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Avant de suspendre le traitement des signalements et des plaintes, nous enverron
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)
+[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.
@@ -311,7 +311,7 @@ L’action résultant des vices rédhibitoires doit être intentée par l’acqu
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/68a0862a-8415-4ddf-860a-49769f4b1ee2.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
 **14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme :  
 Lien vers les préférences de recommandation :  
@@ -327,14 +327,14 @@ b)    Site Internet de la Commission européenne visant au règlement en lign
   
 **Zalando SE  
 **Valeska-Gert-Straße 5, D-10243 Berlin, Allemagne  
-Représentants légaux : Robert Gentz & David Schröder (tous deux co-présidents-directeurs généraux), Dr. Astrid Arndt, Dr. Sandra Dembeck, David Schneider  
+Représentants légaux : Robert Gentz & David Schröder (tous deux co-présidents-directeurs généraux), Dr. Astrid Arndt, David Schneider  
 Président du conseil de surveillance: Kelly Bennett  
 Capital social : EUR 246.297.493  
 Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de Charlottenburg Berlin, sous le numéro HRB 158855 B  
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 01.09.2024  
+Version: 01.03.2025  
   
 
   
