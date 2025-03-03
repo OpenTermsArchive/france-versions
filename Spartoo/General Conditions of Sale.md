@@ -358,7 +358,7 @@ Coût de la livraison:
 
 Tous les articles achetés sur le site SPARTOO peuvent faire l'objet d'un retour « Satisfait ou remboursé » en cas de volonté du client de ne pas conserver un produit pour motifs légitimes : le produit ne plait pas, n’a pas la bonne taille, n’a pas la couleur attendue, etc…. Les produits SPARTOO pourront être échangés ou remboursés du montant réglé (retour gratuit voir 11.1).  
 **Les produits Partenaires feront uniquement l'objet d'un remboursement (les conditions propres à chaque vendeur se trouvent sur la fiche produit).**  
-Pour être acceptés, les retours doivent répondre aux caractéristiques suivantes :  
+Pour être acceptés, les retours doivent répondre aux caractéristiques suivantes ****(\*)**** :  
 \- Le(s) produit(s) ne doit (doivent) jamais avoir été portés en extérieur. Le(s) produit(s) doit (doivent) être dans un état neuf,  
 \- Le(s) produit(s) retourné(s) doit (doivent) correspondre au(x)produit(s) livré(s),  
 \- Le(s) produit(s) est (sont) retourné(s) dans son emballage d'origine en bon état (boite de chaussures non scotchée), le tout dans un colis correctement fermé,  
@@ -376,6 +376,9 @@ Nom du consommateur :
 Adresse du consommateur :  
 Fait le  
 Signature (si cela est fait par papier)  
+  
+****(\*) Certains de nos articles, en raison de leurs caractéristiques particulières et pour des motifs évidents d'hygiène, doivent respecter les conditions habituelles de retour (article neuf, non porté, non lavé, étiqueté et retourné dans son conditionnement d'origine), et respecter les conditions additionnelles suivantes afin de pouvoir être retournés ou échangés :  
+Les maillots de bain et sous-vêtements (culottes, boxers, caleçons, slips et bodys) pourront être échangés ou retournés à condition que la protection hygiénique autocollante soit intacte.****  
   
 Le client pourra alors être remboursé, dès retour de l’ensemble des produits de la commande à l’état neuf, dans leur emballage d’origine (un contrôle sera systématiquement effectué), y compris les frais de livraison (à l’exception des frais supplémentaires découlant du fait que le client a choisi, le cas échéant, un mode de livraison autre que le mode le moins coûteux de livraison standard proposé par SPARTOO). Les frais de retour restent à la charge du client. Ce retour devra se faire sans retard excessif et, en tout état de cause, au plus tard 14 jours à compter de la réception du formulaire de rétractation.  
 Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco et autres pays francophones.  
