@@ -112,7 +112,7 @@ Une livraison est présumée avoir été effectuée dès lors que le système de
   
 Comptoir des Cotonniers attire l’attention du Client sur la nécessité, lors de la réception du colis de contrôler l’état général de l’emballage du produit. En cas de problème (colis ouvert, colis vide), le Client doit refuser le colis et contacter le Service Relation Client.
 
-ARTICLE 7. DROIT DE RETRACTATION **À noter : les demandes de retours sont à effectuer sur notre site et non sur l'application mobile.**  
+ARTICLE 7. DROIT DE RETRACTATION  
 **7.1 Exercice du droit de rétractation**
 
 Le Client dispose d’un droit de rétractation de quatorze (14) jours suivant la date à laquelle il a reçu les Produits, afin de retourner le ou les produit(s) commandés sans avoir à se justifier ni à payer de pénalités, conformément à la Directive 2011/83/UE du 25 octobre 2011 telle que transposée.  
@@ -126,7 +126,7 @@ Votre formulaire de rétractation est à renvoyer selon les modalités prévues 
 
 Après avoir notifié Comptoir des Cotonniers de sa rétractation, le Client doit retourner les produits concernés dans un délai maximum de 14 jours à compter de cette notification, accompagnés du bon de retour (à remplir en ligne et à imprimer en se rendant dans le Compte Client, rubrique « Suivi de commandes ») et de l’étiquette prépayée disponible dans l’espace « Suivi de commandes ».  
   
-L’étiquette prépayée disponible dans l’espace « Suivi de commandes » est facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Etiquette prépayée refacturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande.  
+L’étiquette prépayée disponible dans l’espace « Suivi de commandes » est facturée aux clientes pour un montant forfaitaire de 2,95 euros (sauf pour les membres du Club comme décrit à l’article 9.2) pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Etiquette prépayée refacturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande.  
 Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour seront offerts.  
 Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée refacturée.  
 Le retour des produits dans le cadre de l’exercice du droit de rétractation doit être effectué conformément aux conditions décrites à l’article 9.2 ci-dessous.  
@@ -164,7 +164,6 @@ Aucun remboursement ne pourra être effectué en boutique. Une fois les produits
   
 En cas de commande en tant qu’invité, et pour toute demande de retour, merci de contacter le service client au 01 43 12 03 33.  
   
-****À noter : les demandes de retours sont à effectuer sur notre site et non sur l'application mobile.****  
 **8.1 Garantie satisfait ou remboursé**
 
 Sans préjudice des dispositions sur le droit de rétractation figurant à l’article 7, Comptoir des Cotonniers offre aux Client un délai total de trente (30) jours calendaires à compter de la date de réception des produits pour retourner tout ou partie de sa commande ne lui donnant pas satisfaction, afin de de les échanger en boutique ou dans les points de vente Comptoir des Cotonniers présents dans les boutiques UNIQLO, ou de se faire rembourser sous condition du renvoi du ou des produits à notre entrepôt.  
@@ -172,7 +171,7 @@ En cas de retours anormaux ou abusifs, Comptoir des Cotonniers se réserve le dr
 
 **8.2 Conditions et modalités de retour**
 
-L’étiquette prépayée disponible dans l’espace « Suivi de commandes » est facturée aux clientes pour un montant forfaitaire de 2,95 euros pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Étiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande. Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour sont offerts. Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
+L’étiquette prépayée disponible dans l’espace « Suivi de commandes » est facturée aux clientes pour un montant forfaitaire de 2,95 euros (sauf pour les membres du Club comme décrit à l’article 9.2) pour les commandes livrées et retournées en France Métropolitaine (ci-après l’« Étiquette prépayée re-facturée »). En cas de réclamation, veuillez contacter notre service client qui étudiera votre demande. Si le prix de la commande initiale est inférieur à 2,95 euros, les frais de retour sont offerts. Les frais de retour sont à la charge de nos clientes pour les clientes livrées et/ou effectuant un retour en dehors de la France Métropolitaine ainsi que pour les clientes n’ayant pas utilisé l’Étiquette prépayée re-facturée.  
   
 Pour les commandes avec une livraison en Colissimo, en Chronopost ou en point relais (Mondial relay ou Colissimo) :  
   
