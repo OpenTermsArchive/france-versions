@@ -4,7 +4,7 @@
 
 Conditions Générales
 
-Applicables au 12/12/2024
+Applicables au 06/03/2025
 
 
 
@@ -142,7 +142,7 @@ CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT....................................
 
 CHAPITRE 12 : LE COMPTE A TERME...................................................................................................................... 37
 
-TITRE III – BOURSOFIRST : L’OFFRE BANQUE PRIVEE ......................................................... 39
+TITRE III – BOURSOFIRST : L’OFFRE BANQUE PRIVEE ................................................................ 39
 
 CHAPITRE 1 : L’ADHESION BOURSOFIRST.............................................................................................................. 39
 
@@ -180,31 +180,27 @@ TITRE VI – AUTRES SERVICES....................................................
 
 ANNEXE I : FORMULAIRE TYPE CONCERNANT LES INFORMATIONS À FOURNIR AUX
 
-DÉPOSANTS ........................................................................................................................................ 84
+DÉPOSANTS ........................................................................................................................................ 85
 
 ANNEXE II : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 86
+BOURSOBANK VIA LE SERVICE APPLE PAY ................................................................................. 87
 
 ANNEXE III : CONDITIONS GENERALES D’UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 92
+BOURSOBANK VIA LE SERVICE SAMSUNG PAY ........................................................................... 93
 
 ANNEXE IV : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 98
+BOURSOBANK VIA LE SERVICE GOOGLE PAY ............................................................................. 99
 
 ANNEXE V : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
 
-BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 104
+BOURSOBANK VIA LE SERVICE GARMIN PAY............................................................................. 105
 
-ANNEXE VI : CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE
+ANNEXE VI : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS AU
 
-BOURSOBANK VIA LE SERVICE FITBIT PAY ................................................................................ 110
-
-ANNEXE VII : ARTICLES L.221-30 ET S. DU CODE MONETAIRES ET FINANCIERS RELATIFS
-
-AU PLAN D'ÉPARGNE EN ACTIONS ............................................................................................... 116
+PLAN D'ÉPARGNE EN ACTIONS ..................................................................................................... 111
 
 5
 
@@ -464,6 +460,18 @@ Convention.
 
 
 
+De même, pour des raisons de sécurité, BOURSORAMA
+
+peut à tout moment, ne pas rendre disponible l’accès du
+
+Client à son Espace Client depuis certains pays visés par
+
+des restrictions. La liste des pays peut être consultée dans
+
+l’Aide en ligne du site internet BoursoBank,
+
+
+
 2.4 Obligations liées à l’échange automatique de
 
 renseignement relatifs aux comptes financiers /
@@ -480,6 +488,10 @@ d’identifier la résidence fiscale du demandeur et son
 
 numéro d’identification fiscale le cas échéant.
 
+7
+
+
+
 Au titre de l’article L564-1 du Code monétaire et financier
 
 français, si Boursobank n’est pas en mesure d’identifier
@@ -489,10 +501,6 @@ les résidences fiscales et, le cas échéant, les numéros
 d’identification fiscale d’un titulaire du compte,
 
 Boursobank n’établit pas de relation contractuelle.
-
-7
-
-
 
 Par conséquent, quel que soit le pays de résidence fiscale
 
@@ -642,8 +650,6 @@ Boursobank collecte un nouveau formulaire d’auto-
 
 certification de résidence fiscale dûment complété et signé
 
-
-
 par le Client ainsi que tous justificatifs ou attestations
 
 nécessaires à l’établissement du statut fiscal du Client.
@@ -786,6 +792,8 @@ d’assurance, des offres de crédit, de garantie et de caution,
 
 ainsi que les services d’assistance via le « chatbot ».
 
+8
+
 
 
 Les Fonctionnalités Accessoires n’ont pas de lien direct
@@ -793,10 +801,6 @@ Les Fonctionnalités Accessoires n’ont pas de lien direct
 avec les services souscrits par le Client ou régis par les
 
 présentes Conditions Générales et ne sont pas strictement
-
-8
-
-
 
 nécessaires à la fourniture de tels services et se rapportent
 
@@ -950,8 +954,6 @@ identifiant et un mot de passe temporaire garantissant la
 
 confidentialité des informations et lui permettant d’accéder
 
-
-
 à son Espace Client. Le Client s'engage à modifier ce mot
 
 de passe dès réception du mot de passe initial attribué par
@@ -1096,6 +1098,10 @@ chéquier, déblocage de carte bancaire, référencement de
 
 RIB, augmentation des plafonds carte bancaire, certains
 
+9
+
+
+
 paiements carte en vente à distance, retrait exceptionnel
 
 carte bancaire, souscription à un Prêt Personnel, signature
@@ -1103,8 +1109,6 @@ carte bancaire, souscription à un Prêt Personnel, signature
 d’une offre de crédit immobilier, virement sortant d’un
 
 certain montant...).
-
-9
 
 
 
@@ -1256,8 +1260,6 @@ Pour la signature électronique, telle que prévue par l’article
 
 à un tiers de confiance qui utilise un certificat électronique
 
-
-
 pour sceller électroniquement, authentifier et garantir
 
 l’intégrité de l’acte.
@@ -1402,13 +1404,13 @@ les co-Titulaires, de son solde créditeur ainsi que des titres
 
 figurant au Compte de Titres Financiers.
 
+10
+
 
 
 La révocation empêche le paiement de l’ensemble des
 
 chèques en circulation au jour de la révocation.
-
-10
 
 
 
@@ -1553,6 +1555,8 @@ Le mineur peut se voir attribuer une carte de paiement (la
 carte FREEDOM) à la demande et sous la responsabilité du
 
 représentant légal.
+
+
 
 Aucun chéquier n’est délivré sur ce compte.
 
@@ -1702,15 +1706,13 @@ opérations initiées par un prestataire de service de
 
 paiement à partir de l'ensemble des comptes Client.
 
+11
+
 
 
 L'utilisation d'un code à usage unique sera requise, lors du
 
 premier accès du prestataire de services de paiement
-
-11
-
-
 
 rendant un service d'information sur les comptes puis au
 
@@ -1860,11 +1862,11 @@ délai de quinze (15) jours ouvrables qui suit la saisie-
 
 attribution ou la saisie conservatoire, ce solde peut être
 
+
+
 affecté (positivement ou négativement) par les opérations
 
 dont la date est antérieure à la saisie. Le Client peut
-
-
 
 contester la saisie engagée à son encontre devant le juge
 
@@ -4234,19 +4236,7 @@ instantané est irrévocable.
 
 
 
-4.2 Ordre de virement à exécution différé : Le jour de
-
-réception est le jour spécifié par le Client pour l’exécution
-
-de l’ordre de virement (ou le jour ouvrable suivant si ce jour
-
-convenu n’est pas un jour ouvrable) dès lors que la
-
-provision est disponible pour exécuter l’ordre.
-
-
-
-4.3 Dans le cas où le Compte du Client n’est pas
+4.2 Dans le cas où le Compte du Client n’est pas
 
 suffisamment approvisionné pour exécuter le virement,
 
@@ -4446,8 +4436,6 @@ sera précisé au Client.
 
 Un ordre de paiement refusé est réputé non reçu.
 
-21
-
 
 
 Article 9 : Contestations en cas de virements non
@@ -4459,6 +4447,10 @@ autorisés ou mal exécutés
 9.1 Délais de contestations : Si le Client constate une
 
 opération qu’il n’a pas autorisée ou une erreur dans le
+
+21
+
+
 
 traitement de son ordre, il doit le signaler sans délai à
 
@@ -6190,20 +6182,6 @@ BOURSORAMA.
 
 
 
-La souscription par une personne non cliente de
-
-BOURSORAMA peut être réalisée concomitamment à la
-
-demande d’ouverture d’un Compte. L’offre sera proposée
-
-dans le parcours de souscription du Compte et sa
-
-souscription sera formalisée par la signature électronique
-
-du Client en bas du formulaire de souscription.
-
-
-
 1.2. Droit de rétractation
 
 
@@ -6252,13 +6230,49 @@ inclusion telles qu’indiquées dans la Brochure Tarifaire.
 
 
 
-L’Offre METAL permet à son titulaire d’émettre gratuitement
+La Carte fait également bénéficier le Client d’une série
 
-et de manière illimitée des virements internationaux, en
+d’avantages dont les montants peuvent être consultés dans
+
+la Brochure Tarifaire. Les avantages portant sur des
+
+sommes d’argent seront versés sur le Compte bancaire du
+
+Client en une seule fois, le sixième jour ouvré de chaque
+
+mois (hors taux bonifié du Livret Bourso+).
+
+
+
+Dans le cadre de l’avantage cashback, si une opération de
+
+paiement par carte bancaire fait l’objet d’un
 
 27
 
 
+
+remboursement, BOURSORAMA se réserve le droit de
+
+prélever sur le Compte bancaire du Client, le montant du
+
+cashback perçu suite à cette opération.
+
+
+
+Dans le cadre de l’avantage d’intérêts supplémentaire sur
+
+le Livret Bouso+, les intérêts seront perçus selon les
+
+modalités décrites au Chapitre 7 du Titre II des présentes
+
+Conditions Générales.
+
+
+
+L’Offre METAL permet à son titulaire d’émettre gratuitement
+
+et de manière illimitée des virements internationaux, en
 
 euro ou en devise, qui font normalement l’objet d’une
 
@@ -6300,13 +6314,17 @@ METAL.
 
 
 
-La résiliation emporte la résiliation de tous les produits et
+La résiliation emporte la résiliation de tous les produits,
 
-services attachés à l’Offre METAL, à savoir la Carte et ses
+avantages et services attachés à l’Offre METAL, à savoir la
 
-assurances incluses, ainsi que la gratuité des virements
+Carte (ses assurances, ainsi que l’ensemble des avantages
 
-internationaux.
+inclus à la carte) et la gratuité des virements internationaux.
+
+Le Client ne percevra aucun avantage pour le mois en
+
+cours.
 
 
 
@@ -6318,7 +6336,9 @@ prélevées dès sa résiliation effective.
 
 
 
-CHAPITRE 3 : L’OFFRE BOURSOPRIME
+CHAPITRE 3 : L’OFFRE BOURSOPRIME – non
+
+commercialisée depuis le 06/03/2025
 
 
 
@@ -6410,8 +6430,6 @@ dépenses par carte donnent droit, dans une
 
 certaine limite, à un pourcentage de cashback
 
-
-
 (remboursement) ; cette limite mensuelle est
 
 indiquée dans la Brochure Tarifaire. Si une
@@ -6482,8 +6500,6 @@ cotisations et versés les avantages (ci-après le « Compte
 
 de rattachement »).
 
-
-
 3.1 Paiement de la cotisation
 
 
@@ -6534,6 +6550,8 @@ remboursement, le Client ne percevra plus d’avantages à
 
 compter de sa résiliation.
 
+28
+
 
 
 BOURSORAMA se réserve le droit de résilier
@@ -6557,8 +6575,6 @@ immédiatement le jour de la clôture effective du Compte de
 rattachement et le Client ne percevra aucun avantage pour
 
 le mois en cours.
-
-28
 
 
 
@@ -6684,6 +6700,8 @@ précédent le retrait. Ces intérêts sont décomptés une fois
 
 par an au 31 décembre et sont portés au crédit du Livret A
 
+
+
 début janvier. Les intérêts acquis au 31 décembre
 
 s’ajoutent au capital et deviennent eux-mêmes productifs
@@ -6705,8 +6723,6 @@ Article 2 : Ouverture du Livret A
 
 
 2.1 Titulaires : L’ouverture d’un Livret A est exclusivement
-
-
 
 réservée à un Titulaire seul, personne physique, d’un
 
@@ -6838,6 +6854,10 @@ courrier séparé adressé à BOURSORAMA.
 
 Le mineur de plus de 16 ans peut procéder lui-même aux
 
+29
+
+
+
 opérations de retrait sur son Livret A, sauf opposition de la
 
 part de son représentant légal, notifiée à BOURSORAMA
@@ -6859,10 +6879,6 @@ livret au cours du mois écoulé sera accessible dans
 l’Espace Client.
 
 Sur demande expresse du Client, BOURSORAMA,
-
-29
-
-
 
 moyennant facturation (cf. Brochure Tarifaire), lui adressera
 
@@ -7146,6 +7162,10 @@ n’aurait pas été prise en compte par l’administration fiscale
 
 à la date de la demande adressée par la Banque par voie
 
+30
+
+
+
 électronique, le Client est informé que la responsabilité de
 
 la Banque ne saurait être engagée au titre de la clôture
@@ -7165,10 +7185,6 @@ montant des revenus sera apportée par la production de
 l’avis d’impôt sur le revenu ou de l’avis de situation
 
 déclarative à l’impôt sur le revenu de son foyer fiscal établi
-
-30
-
-
 
 l’année précédente au titre des revenus de l’avant-dernière
 
@@ -7301,6 +7317,8 @@ habilité peut à tout moment demander la clôture de son
 Livret d’Epargne populaire, soit par courrier, soit
 
 directement depuis son Espace Client. En cas de clôture du
+
+
 
 Livret d’Epargne populaire en cours d’année, les intérêts
 
@@ -7446,6 +7464,8 @@ Titulaires d’un Compte.
 
 2.4. Le Titulaire déclare sur l’honneur :
 
+31
+
 
 
 • qu’il a son domicile fiscal en France, ou qu’il est le conjoint
@@ -7463,8 +7483,6 @@ son domicile fiscal en France,
 
 
 Article 3 : Modalités de fonctionnement
-
-31
 
 
 
@@ -7614,8 +7632,6 @@ est librement fixé par BOURSORAMA. Ce taux est
 
 susceptible de varier à tout moment. BOURSORAMA
 
-
-
 informe le Titulaire des modifications du taux et de sa date
 
 d’entrée en vigueur par tout moyen.
@@ -7746,6 +7762,8 @@ delà de ce plafond.
 
 Article 2 : Modalités de fonctionnement
 
+32
+
 
 
 Toutes les opérations de retrait ou de versement, y compris
@@ -7761,8 +7779,6 @@ Livret Jeune. Les versements peuvent être effectués
 jusqu’à la 25ème année du Titulaire, dans la limite du plafond
 
 tel que spécifié dans l’article 1.
-
-32
 
 
 
@@ -7900,6 +7916,8 @@ Les non-résidents fiscaux français sont exonérés d’impôt
 
 sur le revenu et de prélèvements sociaux en France mais
 
+
+
 potentiellement redevables dans leur pays de résidence
 
 fiscale.
@@ -7913,8 +7931,6 @@ CHAPITRE 9 : LE LIVRET BOURSO+
 Le Livret Bourso+ (ci-après le « Livret Bourso+ ») est un
 
 compte sans moyen de paiement adossé et produisant des
-
-
 
 intérêts. Les sommes déposées sur le Livret Bourso+ sont
 
@@ -8004,7 +8020,7 @@ de varier à tout moment. BOURSORAMA informe le
 
 Titulaire des modifications du taux et de sa date d’entrée en
 
-vigueur par toutmoyen.
+vigueur par tout moyen.
 
 Les sommes versées portent intérêt à partir du premier jour
 
@@ -8050,6 +8066,10 @@ forfaitaire. Cet acompte ouvre droit à un crédit
 
 d’impôt. En fonction de son revenu fiscal de
 
+33
+
+
+
 référence, le Titulaire peut solliciter une
 
 demande de dispense par BOURSORAMA de
@@ -8065,10 +8085,6 @@ novembre de l’année en cours pour une prise en
 compte au titre de l’année suivante. Cette
 
 déclaration est valable jusqu’au 31 décembre de
-
-33
-
-
 
 l’année suivant celle au cours de laquelle elle
 
@@ -8111,8 +8127,6 @@ Le PEL est un compte d’épargne bloqué rémunéré à un taux
 garanti pendant toute la durée du plan. Le PEL ouvre droit,
 
 sous certaines conditions, à un prêt d’épargne logement.
-
-
 
 Toute personne physique peut ouvrir un PEL auprès de
 
@@ -8217,8 +8231,6 @@ Article 3 : Plafond des dépôts, indisponibilité
 des contraintes particulières des contrats de plan d’épargne
 
 logement, les intérêts capitalisés au 31 décembre de
-
-
 
 chaque année n’entrent pas en ligne de compte pour le
 
@@ -8356,6 +8368,8 @@ souscripteurs d'un PEL qui donne lieu à l'octroi d'un prêt
 
 mentionné à l'article R315-34, lors du versement de ce prêt.
 
+34
+
 
 
 Pour les PEL ouverts à compter du 1er janvier 2018, aucune
@@ -8369,8 +8383,6 @@ Article 6 : Résiliation du PEL
 
 
 6.1 Le PEL est résilié de plein droit lorsque :
-
-34
 
 
 
@@ -8393,8 +8405,6 @@ bénéfice des avantages attachés à son PEL (taux d’intérêt
 fixé à la souscription, droits au prêt et prime d’épargne le
 
 cas échéant).
-
-
 
 • En cas de résiliation intervenant moins de deux (2) ans
 
@@ -8512,6 +8522,8 @@ intérêts acquis au terme du PEL. Dans le cas où le prêt
 
 sollicité et obtenu n’entraînerait pas une utilisation totale
 
+
+
 des intérêts acquis, le reliquat de ceux-ci ne pourrait donner
 
 droit à un nouveau prêt.
@@ -8525,8 +8537,6 @@ calculé à partir des intérêts acquis au terme du PEL (du
 troisième anniversaire si la résiliation du PEL intervient au
 
 cours de la quatrième année) et par l’application des
-
-
 
 coefficients fixés lors de la souscription du PEL, qui tiennent
 
@@ -8656,9 +8666,15 @@ habituellement au foyer de ce dernier.
 
 CHAPITRE 11 : LE COMPTE D’EPARGNE LOGEMENT
 
+
+
 Le Compte d’Epargne Logement (ci-après le « CEL ») est
 
 un compte d’épargne à vue, sur lequel les fonds sont
+
+35
+
+
 
 librement disponibles. Le CEL ouvre droit, sous certaines
 
@@ -8675,10 +8691,6 @@ Toute personne physique peut ouvrir un CEL auprès de
 BOURSORAMA. Le Titulaire ne peut posséder, chez
 
 BOURSORAMA ou dans un autre établissement, d’autres
-
-35
-
-
 
 comptes de la même nature à son nom. La possession
 
@@ -8814,6 +8826,8 @@ CEL peut obtenir le transfert de son CEL auprès de tout
 
 autre établissement habilité à effectuer des opérations
 
+
+
 d’épargne logement, si ce dernier en est d’accord.
 
 Toutefois, lorsqu’une même personne physique est Titulaire
@@ -8827,8 +8841,6 @@ donne lieu à la délivrance, par l’établissement qui tient le
 compte, d’une attestation comportant l’indication de la date
 
 d’ouverture et du montant du compte, du coefficient de
-
-
 
 conversion des intérêts et du barème en résultant, ainsi que
 
@@ -8916,6 +8928,8 @@ La perception des prélèvements sociaux est réalisée lors du
 
 versement de la prime.
 
+
+
 4.2 La prime est versée, le cas échéant, au bénéficiaire du
 
 prêt au moment du déblocage du prêt. Le versement de la
@@ -8962,6 +8976,8 @@ cession de droits issus d’un compte ouvert depuis dix-huit
 
 mois au moins.
 
+36
+
 
 
 5.1.2 Les prêts d’épargne logement ne peuvent être
@@ -8975,8 +8991,6 @@ affectés au financement d’une société civile immobilière.
 Par exception à cette règle, ils peuvent cependant servir à
 
 financer l’acquisition :
-
-36
 
 
 
@@ -9118,6 +9132,8 @@ S'agissant d'acquisition d'un logement ancien ou vendu
 
 neuf clés en main, l'occupation doit être effective dès le
 
+
+
 transfert de propriété. S'agissant de construction ou de
 
 vente en l'état futur d'achèvement, le logement doit être
@@ -9129,8 +9145,6 @@ déclaration d'achèvement des travaux. Enfin, s'agissant
 d'une acquisition avec travaux ou de travaux, l'occupation
 
 doit être effective dès l'achèvement des travaux.
-
-
 
 Toutefois, les personnes qui justifient ne pouvoir utiliser le
 
@@ -9268,6 +9282,8 @@ d) Inexactitude des renseignements fournis au titre de
 
 l’ouverture du CEL ou de la demande de prêt.
 
+37
+
 
 
 En cas de vente du logement, le prêt peut être maintenu dès
@@ -9283,10 +9299,6 @@ préalablement à la vente du logement financé et le transfert
 doit intervenir dans le délai maximum de six mois à compter
 
 de cette vente. L'établissement prêteur conserve
-
-37
-
-
 
 naturellement toute sa faculté d'appréciation de la
 
@@ -9568,6 +9580,8 @@ CHAPITRE 12 : LE COMPTE A TERME
 
 Article 1 : Définition
 
+38
+
 
 
 Le Compte à Terme est un compte d’épargne productif
@@ -9583,8 +9597,6 @@ Article 2 : Ouverture
 
 
 2.1 Titulaire
-
-38
 
 
 
@@ -9716,6 +9728,8 @@ revenu. Les intérêts acquis sont soumis :
 
 prélèvement à la source d’un acompte
 
+
+
 forfaitaire. Cet acompte ouvre droit à un crédit
 
 d’impôt. En fonction de son revenu fiscal de
@@ -9733,8 +9747,6 @@ d’une déclaration sur l’honneur avant le 30
 novembre de l’année en cours pour une prise en
 
 compte au titre de l’année suivante. Cette
-
-
 
 déclaration est valable jusqu’au 31 décembre de
 
@@ -9880,11 +9892,11 @@ appels des clients détenteurs de l’offre
 
 BoursoFirst seront traités prioritairement par
 
-l’équipe Banque Privée dédiée. Sur
+l’équipe BoursoFirst dédiée. Sur demande,
 
-demande, le Client BoursoFirst peut avoir
+le Client BoursoFirst peut avoir des
 
-des précisions sur les offres exclusives de
+précisions sur les offres exclusives de
 
 BoursoFirst et des simulations sur ses
 
@@ -9899,8 +9911,6 @@ assurance vie et projet immobilier).
 demande : restitution pédagogique des
 
 données communiquées par le Client
-
-
 
 BoursoFirst sur son patrimoine et ses
 
@@ -10046,8 +10056,6 @@ BoursoFirst.
 
 Article 4 : Modalités de paiement de la cotisation
 
-40
-
 
 
 Lors de l’adhésion à BoursoFirst, le Client choisit le Compte
@@ -10055,6 +10063,8 @@ Lors de l’adhésion à BoursoFirst, le Client choisit le Compte
 bancaire sur lequel seront prélevées les cotisations (ci-
 
 après le « Compte de rattachement »).
+
+40
 
 
 
@@ -10236,7 +10246,7 @@ Les dispositions du Chapitre 1 « les comptes d’instruments
 
 financiers » du Titre V s’appliquent aux Produits structurés
 
-sur mesure, à l’exclusion des articles 6.3 à 7\. En cas de
+sur mesure, à l’exclusion des articles 6.3 à 7. En cas de
 
 contradiction entre les dispositions du présent Chapitre et
 
@@ -10568,7 +10578,7 @@ Pour bénéficier des produits de l’offre Bourso Business, les
 
 détenteurs de l’ancienne offre Bourso PRO devront au
 
-préalable à cette nouvelle offre.
+préalable souscrire à cette nouvelle offre.
 
 
 
@@ -10704,15 +10714,15 @@ En outre, pour des raisons de sécurité, BOURSORAMA se
 
 réserve le droit de limiter les opérations de remise de
 
-chèques à deux-cent cinquante (250) euros sur trente (30)
+chèques à mille cinq cent (1500) euros sur trente (30) jours
 
-jours glissants. Ces limitations sont consultables à tout
+glissants. Ces limitations sont consultables à tout moment
 
-moment dans l’Espace Client et dans l’espace non
+dans l’Espace Client et dans l’espace non connecté du site.
 
-connecté du site. Ces limitations ne concernent pas les
+Ces limitations ne concernent pas les remises de chèque
 
-remises de chèque de banque.
+de banque.
 
 
 
@@ -16082,10 +16092,6 @@ Société
 
 Générale SA
 
-Gilbert Dupont
-
-
-
 Euronext Paris,
 
 Bruxelles,
@@ -16187,10 +16193,6 @@ Direct Emetteur)
 Société
 
 Générale SA
-
-Gilbert Dupont
-
-
 
 Euronext Access
 
@@ -20522,81 +20524,123 @@ Dès lors, BOURSORAMA ne peut être considérée comme
 
 ayant la qualité d'éditeur du contenu mais exclusivement
 
-celle d'hébergeur qui consiste à mettre à la disposition des
+celle d'hébergeur, qui consiste à stocker des informations
 
-Clients et membres des moyens techniques permettant le
+fournies par un Client et/ou membre à sa demande, ainsi
 
-stockage direct et permanent d'informations destinées à
+que celle de plateforme en ligne, qui consiste à fournir un
 
-être communiquées au public.
+service d’hébergement qui stocke et diffuse au public des
 
-
-
-BOURSORAMA répond en cela à la définition de l'article
-
-6.I.2 de la loi n° 2004-575 du 21 juin 2004 pour la confiance
-
-dans l'économie numérique (« LCEN »).
+informations.
 
 
 
-Le paragraphe 5 du I de l'article 6 de la LCEN précise que:
+BOURSORAMA répond en cela aux définitions posées par
+
+le règlement relatif à un marché unique des services
+
+numériques (« Digital Services Act ») du 19 octobre 2022
+
+(ci-après le « DSA »).
 
 
 
-« La connaissance des faits litigieux est présumée acquise
+L'article 6 du DSA précise que:
 
-par les personnes désignées au 2 (de l’article 6 I 2 de la
 
-LCEN, c'est-à-dire les hébergeurs) lorsqu'il leur est notifié
 
-les éléments suivants : la date de la notification ; si le
+« En cas de fourniture d’un service de la société de
 
-notifiant est une personne physique : ses nom, prénoms,
+l’information consistant à stocker des informations fournies
 
-profession, domicile, nationalité, date et lieu de naissance ;
+par un destinataire du service, le fournisseur de services
 
-si le requérant est une personne morale : sa forme, sa
+n’est pas responsable des informations stockées à la
 
-dénomination, son siège social et l'organe qui la représente
+demande d’un destinataire du service à condition que le
 
-légalement ; les nom et domicile du destinataire ou, s'il s'agit
+fournisseur:
 
-d'une personne morale, sa dénomination et son siège social
 
-; la description des faits litigieux et leur localisation précise
 
-; les motifs pour lesquels le contenu doit être retiré,
+a) n’ait pas effectivement connaissance de l’activité illégale
 
-comprenant la mention des dispositions légales et des
+ou du contenu illicite et, en ce qui concerne une demande
 
-justifications de faits ; la copie de la correspondance
+en dommages et intérêts, n’ait pas conscience de faits ou
 
-adressée à l'auteur ou à l'éditeur des informations ou
+de circonstances selon lesquels l’activité illégale ou le
 
-activités litigieuses demandant leur interruption, leur retrait
+contenu illicite est apparent; ou
 
-ou leur modification, ou la justification de ce que l'auteur ou
 
-l'éditeur n'a pu être contacté. ».
+
+b) dès le moment où il en prend connaissance ou
+
+conscience, agisse promptement pour retirer le contenu
+
+illicite ou rendre l’accès à celui-ci impossible. »
 
 
 
 Dès lors que lui est signalé le caractère prétendument illicite
 
-ou indélicat d'un Contenu dans les conditions prévues au
+d'un Contenu dans les conditions prévues à l'article 16 du
 
 77
 
 
 
-paragraphe 5 du I de l'article 6 de la LCEN indiquées ci-
+DSA indiquées ci-dessous, BOURSORAMA met en œuvre
 
-dessus, BOURSORAMA met en œuvre promptement les
+promptement les mesures nécessaires pour que le Contenu
 
-mesures nécessaires pour que le Contenu ne soit plus
+ne soit plus accessible.
 
-accessible.
+Le signalement d’un Contenu illicite doit comporter les
+
+informations suivantes :
+
+« a) une explication suffisamment étayée des raisons pour
+
+lesquelles le particulier ou l’entité allègue que les
+
+informations en question sont du contenu illicite;
+
+
+
+b) une indication claire de l’emplacement électronique exact
+
+de ces informations, comme l’URL ou les URL exact(s), et,
+
+le cas échéant, des informations complémentaires
+
+permettant d’identifier le contenu illicite en fonction du type
+
+de contenu et du type spécifique de service d’hébergement;
+
+
+
+c) le nom et l’adresse de courrier électronique du particulier
+
+ou de l’entité soumettant la notification, sauf dans le cas
+
+d’informations considérées comme impliquant une des
+
+infractions visées aux articles 3 à 7 de la directive
+
+2011/93/UE;
+
+
+
+d) une déclaration confirmant que le particulier ou l’entité
+
+soumettant la notification pense, de bonne foi, que les
+
+informations et les allégations qu’elle contient sont exactes
+
+et complètes. »
 
 
 
@@ -20622,9 +20666,9 @@ notamment l'incitation aux violences faites aux femmes,
 
 ainsi que des atteintes à la dignité humaine conformément
 
-aux dispositions du paragraphe 7 du I de l'article 6 de la
+aux dispositions de l'article 6-IV-A de la loi n° 2004-575 du
 
-LCEN.
+21 juin 2004 pour la confiance dans l'économie numérique.
 
 
 
@@ -20742,8 +20786,6 @@ Document/Contenu à caractère violent ou pornographique
 
 ou de nature à porter gravement atteinte à la dignité
 
-
-
 humaine, est puni de trois ans d'emprisonnement et de 75
 
 000 € d'amende lorsque ce Document/Contenu est
@@ -20852,6 +20894,10 @@ s’applique automatiquement à l’ensemble des comptes
 
 détenus chez BOURSORAMA et (ii) le Service Wicount 360
 
+78
+
+
+
 qui s’applique aux comptes (bancaires, épargne,
 
 placements financiers et crédits) qui sont détenus auprès
@@ -20893,10 +20939,6 @@ Espace Client, une vue complète de l’ensemble de ses
 Comptes Internes et Externes. Le Client peut à tout moment
 
 ajouter ou supprimer un Compte Externe du Service
-
-78
-
-
 
 Wicount 360. La suppression du dernier Compte Externe
 
@@ -20992,6 +21034,8 @@ peuvent être envoyées par email et/ou SMS, et
 
 constituent des notifications au sens du 4 ci-
 
+
+
 dessus. Les recommandations peuvent être
 
 désactivées depuis l’Espace Client du Client.
@@ -21029,8 +21073,6 @@ Métropolitaine.
 - Association d’un crédit immobilier à un
 
 bien.
-
-
 
 - Visualisation de l’estimation de la valeur
 
@@ -21134,6 +21176,10 @@ L’attention du Client est attirée sur le fait que les Documents
 
 qu’il agrège et/ou dépose dans le Coffre-Fort constituent
 
+79
+
+
+
 des copies numériques et qu’il lui est en conséquence
 
 recommandé de conserver par-devers lui les documents
@@ -21177,10 +21223,6 @@ depuis des organismes tiers relèvent de la seule
 responsabilité du Client qui reconnait avoir le droit de les
 
 utiliser pour l’usage décrit aux présentes. Le Client
-
-79
-
-
 
 reconnait enfin que le défaut d’autorisation pourrait
 
@@ -21281,6 +21323,8 @@ mise à jour automatique des Comptes Externes sans avoir
 à justifier d'un motif ou accorder au Client un quelconque
 
 dédommagement. Dans les deux cas visés ci-dessus, la
+
+
 
 facturation éventuelle sera suspendue, conformément à la
 
@@ -21426,6 +21470,8 @@ pertinente et adéquate aux questions du Client sur le
 
 fonctionnement desdits Services.
 
+80
+
 
 
 Les données des Comptes Internes et Externes du Client
@@ -21469,8 +21515,6 @@ références aux noms, marques, produits ou services des
 recommandation concernant les produits ou services de
 
 ces établissements.
-
-80
 
 
 
@@ -21576,6 +21620,8 @@ seins des Services, le Client s'engage à publier dans les
 
 zones interactives de conversation du type forum, un
 
+
+
 Contenu en accord avec la thématique sur laquelle il
 
 intervient.
@@ -21623,8 +21669,6 @@ dommages aux personnes ou aux biens.
 Les Services sont mis à disposition des Clients en tant que
 
 particuliers personnes physiques exclusivement. Toute
-
-
 
 publicité, de quelle que nature que ce soit, relative à des
 
@@ -21730,6 +21774,10 @@ caractère manifestement illicite, il peut le signaler à
 
 BOURSORAMA via la fonction « Reporter un abus »
 
+81
+
+
+
 présente à côté de chaque Contenu publié par un Client ou
 
 un membre sur le Site.
@@ -21773,8 +21821,6 @@ Article 5 : The Corner
 
 
 Préambule
-
-81
 
 
 
@@ -21880,14 +21926,6 @@ Partenaires.
 
 
 
-Au moment de son inscription à The Corner, le Client doit
-
-sélectionner le Compte Bancaire BoursoBank sur lequel il
-
-souhaite recevoir ses avantages Cashback.
-
-
-
 Le Client peut à tout moment se désinscrire du service The
 
 Corner depuis son profil au sein de son Espace Client, en
@@ -21922,7 +21960,7 @@ Certains Partenaires ont directement contractualisé avec
 
 BOURSORAMA et d’autres ont contractualisé avec
 
-Qwertys (cf. 5.11 Rôle et responsabilité de Qwertys ci-
+Qwertys (cf. 5.10 Rôle et responsabilité de Qwertys ci-
 
 dessous).
 
@@ -22036,6 +22074,8 @@ Différents types d’Offres sont proposés sur The Corner :
 
 5.5.2 Parcours d’achat
 
+82
+
 
 
 Plusieurs parcours d’achat sont possibles en fonction des
@@ -22077,8 +22117,6 @@ l'intermédiaire de The Corner sont régies par les conditions
 générales de vente propres à chaque Partenaire, qui
 
 doivent être acceptées par le Client lors de chaque achat.
-
-82
 
 
 
@@ -22128,9 +22166,17 @@ quotidiennement et annuellement.
 
 
 
-5.6 Expédition et livraison des produits et versement du
+5.6 Expédition et livraison des produits et fourniture
 
-Cashback
+des services
+
+
+
+Les e-billets et bons d’achat sont édités immédiatement
+
+après leur achat et rendus accessibles à tout moment dans
+
+la rubrique « Mes commandes ».
 
 
 
@@ -22144,19 +22190,37 @@ chaque Partenaire.
 
 
 
+Les services souscrits auprès des Partenaires sont fournis
+
+par les Partenaires aux conditions décrites sur la page de
+
+l’Offre et dans les conditions générales de vente propres à
+
+chaque Partenaire.
+
+
+
+5.7 Versement du Cashback
+
+
+
 Le Client reçoit l’avantage Cashback sur son Compte
 
-Bancaire BoursoBank dans un délai minimum d’un mois
+Bancaire BoursoBank, qu’il aura sélectionné lorsqu’il
 
-suivant le séjour dans le cas d’une Offre relative au tourisme
+souhaitera profiter pour la première fois d’une offre
 
-ou suivant la fin du délai de retour dans le cas de l’achat
+Cashback, dans un délai minimum d’un mois suivant le
 
-d’un produit.
+séjour dans le cas d’une Offre relative au tourisme ou
+
+suivant la fin du délai de retour dans le cas de l’achat d’un
+
+produit.
 
 
 
-5.7 Gestion des commandes
+5.8 Gestion des commandes
 
 
 
@@ -22176,7 +22240,7 @@ commandes ».
 
 
 
-5.8 Questions relatives aux Offres
+5.9 Questions relatives aux Offres
 
 
 
@@ -22188,7 +22252,7 @@ page de l’Offre.
 
 
 
-5.9 Rôle et responsabilité de QWERTYS
+5.10 Rôle et responsabilité de QWERTYS
 
 
 
@@ -22224,15 +22288,13 @@ vente ne pouvant être gérées par Qwertys).
 
 
 
-5.10 Responsabilité des Partenaires
+5.11 Responsabilité des Partenaires
 
 
 
 Pour les Partenaires directs de BOURSORAMA, ces
 
 derniers assureront directement le service après-vente de
-
-
 
 leurs Offres, et sont responsables de leurs Offres et de la
 
@@ -22248,7 +22310,7 @@ assumera l’entière responsabilité à ce titre.
 
 
 
-5.11 Responsabilité de BOURSORAMA
+5.12 Responsabilité de BOURSORAMA
 
 
 
@@ -22288,7 +22350,7 @@ mesure de la traiter.
 
 
 
-5.12 Droit de rétractation
+5.13 Droit de rétractation
 
 
 
@@ -22304,7 +22366,7 @@ coordonnées sont disponibles sur la page de l’Offre.
 
 
 
-5.13 Propriété Intellectuelle
+5.14 Propriété Intellectuelle
 
 
 
@@ -22313,6 +22375,10 @@ La charte graphique et les éléments composant la
 plateforme The Corner sont protégés par la législation
 
 relative à la propriété intellectuelle actuellement en vigueur
+
+83
+
+
 
 en France, et ce pour le monde entier. BOURSORAMA est
 
@@ -22360,7 +22426,7 @@ de propriété intellectuelle.
 
 
 
-5.14 Données personnelles
+5.15 Données personnelles
 
 
 
@@ -22382,9 +22448,7 @@ clients.
 
 
 
-5.15 Classement des Offres
-
-83
+5.16 Classement des Offres
 
 
 
@@ -22398,21 +22462,21 @@ sein des univers.
 
 Certaines Offres sont mises en avant de manière
 
-temporaire, dans les rubriques « A la une », « Nos coups
+temporaire, dans les rubriques « A la une », « Notre
 
-de cœur » et dans le carrousel de logo sur la page d’accueil
+sélection », « Enseignes partenaires » et/ou en position
 
-de The Corner ainsi qu’en position préférentielle au sein des
+préférentielle au sein des univers, en fonction des critères
 
-univers, en fonction des critères suivants : meilleures
+suivants : meilleures ventes, importance de la réduction
 
-ventes, importance de la réduction annoncée, notoriété d’un
+annoncée, notoriété d’un Partenaire nouveau Partenaire
 
-Partenaire nouveau Partenaire intégrant le service,
+intégrant le service, changement d’une Offre, Offre liée à
 
-changement d’une Offre, Offre liée à une opération spéciale
+une opération spéciale (soldes, Black Friday, French Days,
 
-(soldes, Black Friday, French Days, etc...).
+etc...).
 
 
 
@@ -22432,13 +22496,13 @@ avant au sein de The Corner : position préférentielle au sein
 
 des univers, mise en avant dans les rubriques « A la une »
 
-et « Nos coups de cœur », mise en avant sur la page
+et « Notre sélection », mise en avant sur la page d’accueil
 
-d’accueil de The Corner.
+de The Corner.
 
 
 
-5.16 The Corner pour les mineurs
+5.17 The Corner pour les mineurs
 
 
 
@@ -22464,13 +22528,15 @@ présentes CGU The Corner sans restriction ni réserve.
 
 Cette acceptation se matérialise par l’acceptation des
 
+
+
 Conditions Générales par le représentant légal au moment
 
 de l’ouverture du compte du mineur.
 
 
 
-5.16.1 Accès à The Corner
+5.17.1 Accès à The Corner
 
 
 
@@ -22504,7 +22570,7 @@ conditions générales de vente de ces Partenaires.
 
 
 
-5.16.2 Processus d’achat
+5.17.2 Processus d’achat
 
 
 
@@ -22576,7 +22642,7 @@ The Corner est limité à 100 euros par jour.
 
 
 
-5.16.4 Gestion des commandes
+5.17.4 Gestion des commandes
 
 
 
@@ -22602,15 +22668,17 @@ la rubrique « Mes commandes » de son Espace Client.
 
 
 
-5.16.4 Autres clauses
+5.17.4 Autres clauses
 
 
 
-Les articles 5.1, 5.2, 5.4.1, 5.8, 5.9, 5.10, 5.11, 5.12, 5.13,
+Les articles 5.1, 5.2, 5.4.1, 5.9, 5.10, 5.11, 5.12, 5.13, 5.14,
 
-5.14 et 5.15 sont applicables au service The Corner à
+5.15 et 5.16 sont applicables au service The Corner à
 
 destination des mineurs.
+
+84
 
 
 
@@ -22654,7 +22722,7 @@ considérées, à son égard, comme définitivement
 
 approuvées.
 
-84
+85
 
 
 
@@ -22814,7 +22882,7 @@ Les sommes inscrites sur les Livrets A, les LDDS (LDDS) et les livrets d’épar
 
 du plafond cumulé de 100 000 € applicable aux autres comptes. Cette garantie porte sur les sommes déposées sur l’ensemble
 
-85
+86
 
 
 
@@ -22884,7 +22952,7 @@ projet de contrat ou Convention, il est accusé réception à l’occasion de la
 
 à l’occasion de l’envoi annuel du formulaire postérieurement à la conclusion du contrat ou de la Convention.
 
-86
+87
 
 
 
@@ -23036,7 +23104,7 @@ nombre d’Appareil Compatible de l’Utilisateur. Le fonctionnement du Portefeu
 
 Réseau
 
-87
+88
 
 
 
@@ -23192,7 +23260,7 @@ qu’en appuyant sur Accepter il manifeste son consentement au contenu des prés
 
 Le Contrat devient définitif quatorze jours calendaires révolus après son acceptation par l’Utilisateur.
 
-88
+89
 
 
 
@@ -23340,7 +23408,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « In App » et « Web » :
 
-89
+90
 
 
 
@@ -23398,7 +23466,7 @@ Plusieurs cas de blocage peuvent se produire :
 
 2\. Lorsque l’Utilisateur fait opposition à une Carte physique
 
-3. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
+3\. Lorsque l’Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l’objet d’un vol.
 
 4\. Lorsque l’Utilisateur souhaite retirer une Carte de son Portefeuille.
 
@@ -23496,7 +23564,7 @@ ARTICLE 8 – RESPONSABILITE DE l’EMETTEUR
 
 mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Apple Pay.
 
-90
+91
 
 
 
@@ -23646,7 +23714,7 @@ L’Emetteur se réserve le droit d'apporter toutes modifications et notamment d
 
 financières aux présentes conditions générales d’utilisation. L’Utilisateur sera informé par tout moyen de tout projet de modification
 
-91
+92
 
 
 
@@ -23704,7 +23772,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 61, rue Taitbout 75436 Paris Cedex 09.
 
-92
+93
 
 
 
@@ -23848,7 +23916,7 @@ Samsung Pay, quel que soit le nombre d’Appareil Compatible de l’Utilisateur.
 
 responsabilité de Samsung.
 
-93
+94
 
 
 
@@ -24000,7 +24068,7 @@ ou les Emetteurs concernées, conformément au présent article.
 
 L’Utilisateur demande l’exécution immédiate du Service.
 
-94
+95
 
 
 
@@ -24148,7 +24216,7 @@ relevé que les opérations de paiement par carte réalisées par l’Utilisateu
 
 Paiement en ligne « Web » ou « In-App »
 
-95
+96
 
 
 
@@ -24304,7 +24372,7 @@ ne pouvant matériellement garantir leur parfait fonctionnement qui est sous la 
 
 accepte.
 
-96
+97
 
 
 
@@ -24454,7 +24522,7 @@ des présentes conditions au plus tard deux (2) mois avant la date d’applicati
 
 modifierait certaines modalités d’utilisation du Service dans un délai plus court.
 
-97
+98
 
 
 
@@ -24508,7 +24576,7 @@ français. Coordonnées de l’autorité de contrôle compétente : L’Autorit�
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-98
+99
 
 
 
@@ -24638,7 +24706,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Google Pay.
 
-99
+100
 
 
 
@@ -24780,7 +24848,7 @@ Google Pay et ce, à des fins et dans les conditions définies par les règles d
 
 avoir préalablement pris connaissance.
 
-100
+101
 
 
 
@@ -24926,7 +24994,7 @@ Une fois cette authentification réalisée, et dans la mesure où l'Emetteur a a
 
 ainsi, l'ordre de paiement par Carte est irrévocable.
 
-101
+102
 
 
 
@@ -25074,7 +25142,7 @@ conséquences de telles demandes de retrait ni de toute autre demande de retrait
 
 relevant de la seule responsabilité de Google.
 
-102
+103
 
 
 
@@ -25220,7 +25288,7 @@ deux (2) mois à compter de la date d'envoi de cette notification à l'Utilisate
 
 du Client, la résiliation sera effectuée sans préavis.
 
-103
+104
 
 
 
@@ -25326,7 +25394,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-104
+105
 
 
 
@@ -25452,7 +25520,7 @@ Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURS
 
 sensibles », notamment la souscription au Service Garmin Pay.
 
-105
+106
 
 
 
@@ -25594,7 +25662,7 @@ et que toutes les utilisations du Service Garmin Pay sont réputées avoir été
 
 L’Utilisateur accepte l’enregistrement informatique par BOURSORAMA des connexions et opérations réalisées au travers du
 
-106
+107
 
 
 
@@ -25744,7 +25812,7 @@ relevé que les opérations de paiement par carte réalisées par l'Utilisateur 
 
 ARTICLE 7 – MODALITÉS DE BLOCAGE DU SERVICE GARMIN PAY
 
-107
+108
 
 
 
@@ -25896,7 +25964,7 @@ SIM, de ses codes d'activation, ou code secret, de son Appareil Compatible,
 
 Portefeuille, suite à la perte, au vol ou à l'utilisation frauduleuse des Identifiants et Mot de passe liés à sa (ses) carte(s).
 
-108
+109
 
 
 
@@ -26036,7 +26104,7 @@ l'utilisation du Service avant l'expiration de ce délai de 14 jours vaut demand
 
 présentes Conditions Générales.
 
-109
+110
 
 
 
@@ -26074,753 +26142,7 @@ français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de
 
 chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
 
-110
-
-
-
-ANNEXE VI :
-
-CONDITIONS GÉNÉRALES D'UTILISATION DE LA CARTE BANCAIRE BOURSOBANK
-
-VIA LE SERVICE FITBIT PAY
-
-
-
-(ANNEXE Aux Conditions Générales BOURSORAMA)
-
-
-
-Préambule
-
-
-
-Les présentes Conditions Générales d'utilisation sont relatives au Service de Paiement Mobile Fitbit Pay souscrit par l'Utilisateur
-
-auprès de BOURSORAMA.
-
-
-
-Elles constituent une annexe aux Conditions Générales et au Dossier d'Ouverture de Compte qui ont été acceptées par
-
-l'Utilisateur lors de l'ouverture de son compte bancaire BoursoBank et dont il reconnaît avoir eu communication et
-
-connaissance.
-
-
-
-ARTICLE 1 – DÉFINITIONS
-
-
-
-Les termes utilisés dans les présentes conditions générales d'utilisation dont la première lettre figure en majuscule auront la
-
-signification suivante :
-
-
-
-Appareil compatible
-
-
-
-Désigne tout terminal Fitbit compatible avec la technologie NFC et dont la liste est disponible sur le site de Fibit :
-
-https://www.fitbit.com/global/fr/technology/fitbit-pay
-
-
-
-Fitbit Pay (ou « Service Fitbit Pay »)Désigne la fonctionnalité de paiement mobile développée par Fitbit (plus de détails sur le
-
-site internet de Fitbit) et disponible sur les Appareils compatibles via une application.
-
-
-
-Authentification Fitbit
-
-Désigne le système par laquelle l’Utilisateur pourra s’authentifier directement sur son Appareil compatible et valider les
-
-paiements. Il s’agit d’un Dispositif de Sécurité Personnalisé. L’Utilisateur doit le paramétrer dans la rubrique des paramètres de
-
-l’Appareil compatible.
-
-
-
-Carte(s)
-
-Désigne la(les) carte(s) bancaire(s) émise(s) sous forme matérielle (plastique) conformément aux dispositions des Conditions
-
-Générales de BOURSORAMA conclues entre l’Emetteur et l’Utilisateur, pouvant être utilisée(s) dans le Portefeuille.
-
-Seules certaines cartes bancaires émises par BoursoBank sont éligibles à ce service. Elles sont listées ci-après à l’article 4.
-
-
-
-Code secret (passcode)
-
-Désigne le code associé au Service Fitbit Pay, qui permet d’authentifier l’Utilisateur et valider les paiements. Il s’agit d’un
-
-Dispositif de Sécurité Personnalisé. Le Code secret est celui de l’application par laquelle l’Utilisateur utilise le Service Fitbit Pay,
-
-et créé par lui.
-
-
-
-Commerçants
-
-Désigne les commerçants proposant à leurs clients le service de paiement permettant, au travers d’un dispositif, l’identification
-
-de la technologie dite sans contact (NFC) et affichant le logo correspondant ainsi que celui de la marque du Réseau. On parle
-
-alors de paiement « de proximité ».
-
-
-
-Compte Fitbit
-
-Désigne le compte Fitbit en ligne que l’Utilisateur est appelé à créer lors de sa première utilisation d’un Appareil Compatible.
-
-La connexion de l’Appareil Compatible au compte Fitbit de l’Utilisateur est un pré-requis à l’ouverture du service Fitbit Pay.
-
-
-
-Contrat
-
-Désigne les Conditions Générales BOURSORAMA, et notamment la partie relative aux cartes bancaires, le Dossier d’Ouverture
-
-de Compte, les présentes conditions générales d’utilisation du Service Fitbit Pay et la Politique de confidentialité de Fitbit.
-
-
-
-Distributeur / Emetteur
-
-Désigne l’établissement de crédit, à savoir BOURSORAMA, qui a délivré la(les) Carte(s) à l’Utilisateur et qui propose Fitbit Pay.
-
 111
-
-
-
-Numéro de téléphone d’authentification
-
-Désigne le numéro de téléphone que l’Utilisateur doit communiquer à BOURSORAMA afin de réaliser des opérations dites «
-
-sensibles », notamment la souscription au Service Fitbit Pay.
-
-
-
-Portefeuille
-
-Désigne l’application Fitbit Pay, qui permet à l’Utilisateur de gérer ses Cartes et d’utiliser les fonctionnalités de paiement Fitbit
-
-Pay, quel que soit le nombre d’Appareil Compatible de l’Utilisateur. Le fonctionnement du Portefeuille est sous la responsabilité
-
-de Fitbit.
-
-
-
-Réseau
-
-Désigne le réseau VISA.
-
-
-
-Utilisateur
-
-Désigne la personne physique (majeure capable ou mineure représentée par son représentant légal) titulaire de la Carte ayant
-
-signé le Contrat, ainsi que d’un Appareil Compatible.
-
-
-
-ARTICLE 2 – OBJET DE DU SERVICE
-
-
-
-BOURSORAMA autorise l’Utilisateur à enregistrer une Carte émise par Boursorama au sein du Service Fitbit Pay qui lui permet
-
-d’effectuer des paiements par l’intermédiaire de tous ses Appareils compatibles.
-
-
-
-Il peut ainsi effectuer des paiements chez un Commerçant affichant le logo du paiement sans contact et la marque du Réseau
-
-(achat « de proximité »).
-
-
-
-Fitbit Pay ne permet pas de régler des achats de biens ou des prestations de services chez des Commerçants n’acceptant pas
-
-les paiements mobiles.
-
-
-
-En présence d’opérations de paiement réalisées par l’Utilisateur au moyen d’une Carte qu’utilise le Portefeuille via un alias,
-
-celles-ci demeurent des opérations de paiement par carte bancaire et restent régies par les dispositions contractuelles conclues
-
-entre l’Emetteur de la Carte et l’Utilisateur conformément aux Conditions Générales BOURSORAMA pour son utilisation dans le
-
-Réseau. Dans le cas où l’Utilisateur disposerait de plus d’une Carte utilisée dans le Portefeuille, le Service Fitbit Pay permet à
-
-l’Utilisateur, au travers de la fonctionnalité Fitbit Pay, de modifier la Carte qui sera sélectionnée par défaut pour réaliser le
-
-paiement.
-
-
-
-ARTICLE 3 – CONCLUSION DU SERVICE Fitbit PAY - DUREE – ENTREE EN VIGUEUR
-
-
-
-Le présent Service Fitbit Pay est conclu pour une durée indéterminée à partir de la date d’activation du Service Fitbit Pay
-
-conformément aux conditions des présentes.
-
-
-
-ARTICLE 4 – CLIENTS, CARTES ET APPAREILS COMPTATIBLES ÉLIGIBLES AU SERVICE
-
-
-
-1\. Clients éligibles au Service
-
-Tous les clients de BOURSORAMAétenteurs d’un compte bancaire (particulier ou professionnel) et d’une Carte sont éligibles à
-
-l’utilisation du Service Fitbit Pay.
-
-
-
-2\. Appareils éligibles au Service
-
-L’Utilisateur doit disposer d’un Appareil Compatible.
-
-L’Utilisateur est averti que seuls les modèles d’Appareils Compatibles définis à l’article 1 permettent l’accès au Service Fitbit
-
-Pay.
-
-
-
-3\. Cartes éligibles au Service
-
-Les Cartes pouvant être utilisées dans le Portefeuille sont exclusivement celles émises par BoursoBank et sous réserve du 4.1
-
-ci-dessus.
-
-Plusieurs Cartes peuvent être utilisées dans le Portefeuille de l’Appareil compatible. Ces Cartes doivent obligatoirement être au
-
-nom de l’Utilisateur.
-
-L’Utilisateur n’a pas la possibilité de faire figurer dans le Portefeuille d’autres Cartes BoursoBank que celles prévues dans le
-
-Contrat.
-
-112
-
-
-
-ARTICLE 5 – MODALITÉS D'ACCÈS AU SERVICE
-
-
-
-Pour pouvoir accéder au Service Fitbit Pay, l’Utilisateur doit avoir communiqué à BOURSORAMA un Numéro de téléphone ou
-
-une adresse de courrier électronique d’authentification valide, lesquels permettra permettront son authentification par
-
-BOURSORAMA.
-
-
-
-Dans le cas d’un Utilisateur mineur ou majeur sous régime de protection juridique, souhaitant activer le Service Fitbit Pay, le
-
-représentant légal de ce dernier devra accepter les présentes Conditions Générales d’utilisation.
-
-
-
-De convention expresse entre les parties, l’Utilisateur reconnait que le fait d’accepter les présentes Conditions Générales
-
-d’utilisation du Service Fitbit Pay lors du processus de souscription manifeste son consentement à l’entièreté de son contenu et
-
-que toutes les utilisations du Service Fitbit Pay sont réputées avoir été effectuées par lui-même.
-
-
-
-L’Utilisateur accepte l’enregistrement informatique par BOURSORAMA des connexions et opérations réalisées au travers du
-
-Service Fitbit Pay. BOURSORAMA et l’Utilisateur acceptent que le fichier des connexions et opérations fasse preuve entre
-
-elles, chacune des parties restant libre d’en rapporter la preuve contraire.
-
-
-
-Le Service Fitbit Pay est conclu à distance sous réserve que les conditions suivantes soient remplies :
-
-- l’acceptation par l’Utilisateur des Conditions Générales d’utilisation du Service Fitbit et de la Politique de confidentialité de
-
-Fitbit après que l’Utilisateur reconnaît qu’il en ait pris connaissance ;
-
-- et sous réserve de la bonne fin de l’authentification de l’Utilisateur en tant que titulaire de la (des) Carte(s) enregistrée(s) par le
-
-ou les Emetteurs concernées, conformément au présent article.
-
-
-
-L’Utilisateur demande l’exécution immédiate du Service.
-
-
-
-Le Service Fitbit Pay entre en vigueur dès l’acceptation des présentes Conditions Générales d’utilisation. L’Utilisateur reconnait
-
-qu’en appuyant sur Accepter, il manifeste son consentement au contenu des présentes Conditions Générales d’utilisation
-
-Service.
-
-
-
-Le Contrat devient définitif quatorze jours calendaires révolus après son acceptation par l’Utilisateur.
-
-Il est conclu au lieu où le Distributeur a élu domicile, à savoir à l’adresse de son siège social.
-
-
-
-Les Conditions Générales d’utilisation du Service Fitbit Pay, sont accessibles en permanence sur l’Appareil Compatible.
-
-Néanmoins, à tout moment, au cours de la relation contractuelle, l’Utilisateur peut demander à l’Emetteur à recevoir les
-
-présentes conditions générales d’utilisation du Service Fitbit Pay et l’engagement de confidentialité de Fitbit sur un support
-
-papier ou durable.
-
-
-
-Souscription à partir du Portefeuille Fitbit:
-
-
-
-La connexion de l’Appareil Compatible au compte Fitbit de l’Utilisateur est un pré-requis à l’ouverture du Service Fitbit Pay.
-
-L’Utilisateur doit également télécharger l’application Fitbit si celle-ci n’est pas installée par défaut sur l’Appareil Compatible.
-
-
-
-Seules les Cartes éligibles peuvent être sélectionnées.
-
-
-
-Les données présentes sur la Carte physique de l’Utilisateur (intégralité du numéro de carte, date d’expiration, cryptogramme
-
-visuel) ne sont jamais stockées dans le Portefeuille.
-
-
-
-Après avoir sélectionné sa Carte, l’Utilisateur est amené à valider les présentes Conditions Générales d’Utilisation du Service
-
-Fitbit Pay.
-
-
-
-Enfin, la dernière étape de la souscription est l’activation du Service Fitbit Pay avec la validation de l’enregistrement
-
-proprement-dit de la Carte sélectionnée dans le Portefeuille. Cette procédure se fait avec une authentification de l’Utilisateur par
-
-BOURSORAMA (réception par SMS ou par courrier électronique, au choix de l’Utilisateur, d’un code à usage unique).
-
-Une fois cette opération effectuée, dès que l’Utilisateur constate dans le Portefeuille que sa Carte est bien enregistrée, alors le
-
-Service Fitbit Pay est activé sur cette Carte et il peut donc immédiatement l’utiliser.
-
-
-
-ARTICLE 6 – MODALITÉS D'UTILISATION DU SERVICE POUR LE RÉGLEMENT D'ACHAT DE BIENS OU DE
-
-PRESTATIONS DE SERVICES CHEZ DES COMMERCANTS
-
-
-
-Le Service Fitbit Pay peut être utilisé en paiement de proximité en mode Sans Contact (« de proximité »).
-
-
-
-6.1 - Lorsque le Commerçant accepte le paiement sans contact, l'Utilisateur doit s'assurer également que le logo du Réseau de
-
-la Carte qu'il souhaite utiliser pour effectuer le paiement est affiché sur le terminal de paiement. Par ailleurs, l'Utilisateur doit
-
-s'assurer que la fonction sans contact (NFC) de son Appareil Compatible est bien activée afin de pouvoir réaliser le Paiement «
-
-de proximité ».
-
-113
-
-
-
-6.2 - Au moment du paiement « de proximité », l'Utilisateur donne son consentement au paiement par Carte en approchant son
-
-Appareil Compatible du terminal de paiement sans contact du Commerçant.
-
-L'Utilisateur est alors invité à s'authentifier via le dispositif d'Authentification Fitbit.
-
-Une fois cette authentification réalisée, et dans la mesure où l'Emetteur a autorisé la transaction, celle-ci est validée. En
-
-procédant ainsi, l'ordre de paiement par Carte est irrévocable.
-
-
-
-6.3 - Le montant des paiements de proximité sans contact par Carte ordonnés par l'Utilisateur par le biais de son Portefeuille
-
-est limité au montant du plafond de paiement octroyé par l'Emetteur pour l'utilisation de la Carte enregistrée. Par exception ou à
-
-l'étranger, une limite inférieure est possible, de même qu'une absence de limite. Chaque transaction de paiement fait l'objet
-
-d'une autorisation demandée à l'Emetteur.
-
-
-
-6.4 - La réception de l'ordre de paiement, ses délais d'exécution, et le cas échéant, les modalités de sa contestation sont ceux
-
-indiqués dans le Contrat conclu entre l'Emetteur de la carte bancaire et l'Utilisateur.
-
-
-
-6.5 - Le montant des paiements effectués avec la Carte par le biais du Portefeuille est imputé sur le compte associé à ladite
-
-Carte selon les dispositions du Contrat conclu entre l'Emetteur de la Carte et l'Utilisateur.
-
-
-
-6.6 - Le montant détaillé des paiements effectués par le biais du Portefeuille et passés au débit du compte, figure sur le même
-
-relevé que les opérations de paiement par carte réalisées par l'Utilisateur en dehors du Service Fitbit Pay.
-
-
-
-ARTICLE 7 – MODALITÉS DE BLOCAGE DU SERVICE FITBIT PAY
-
-
-
-Plusieurs cas de blocage peuvent se produire :
-
-1\. Lorsque l'Emetteur bloque/fait opposition à une Carte physique
-
-2\. Lorsque l'Utilisateur fait opposition à une Carte physique
-
-3\. Lorsque l'Utilisateur a perdu son Appareil Compatible ou ce dernier a fait l'objet d'un vol.
-
-4\. Lorsque l'Utilisateur souhaite retirer une Carte de son Portefeuille.
-
-5\. Lorsque l'Emetteur bloque le service du Portefeuille sur la (les) Carte(s).
-
-6\. Lorsque l'Emetteur ou l'Utilisateur suspend temporairement l'utilisation d'une Carte dans le Portefeuille.
-
-7\. Temporairement, lorsque l'Utilisateur déconnecte son Appareil Compatible de son compte Fitbit.
-
-8\. Lorsque l'Utilisateur réinitialise son Portefeuille sur son Appareil Compatible.
-
-9\. Lorsque l'Appareil Compatible a subi des modifications non-autorisées sur le système d'exploitation (telles qu'un débridage
-
-du système d'exploitation ou « jailbreak », ou une saisie consécutive de Passcodes erronés).
-
-
-
-7.1 - Dans l'hypothèse où l'Emetteur procéderait à la mise en opposition (ou blocage) de la Carte physique conformément aux
-
-dispositions figurant dans le Contrat, cette Carte ne pourra plus être utilisée dans le cadre du Service Fitbit Pay. Dès le blocage
-
-effectué par l'Emetteur, la Carte n'est immédiatement plus utilisable.
-
-Lorsque l'Utilisateur a fait opposition auprès de l'Emetteur sur une Carte enregistrée dans son Portefeuille, ou que l'Emetteur a
-
-lui-même fait opposition sur cette Carte, la Carte sera automatiquement supprimée du Portefeuille.
-
-
-
-7.2 - Dans l'hypothèse où l'Utilisateur aurait perdu son Appareil Compatible, il lui appartient déclarer cette perte et de bloquer
-
-l'Appareil Compatible via les outils Fitbit.
-
-
-
-7.3 - L'Utilisateur peut retirer une Carte de son Portefeuille, directement à partir du Portefeuille.
-
-Le Service Fitbit Pay est alors immédiatement indisponible avec cette Carte. Les autres Cartes éventuellement enregistrées
-
-dans le Portefeuille restent utilisables par l'Utilisateur.
-
-
-
-Il peut également retirer une carte de son Portefeuille en utilisant l'application mobile de l'Emetteur si celui-ci propose cette
-
-fonctionnalité. Les autres cartes éventuellement enregistrées dans le Portefeuille ne sont pas impactées.
-
-
-
-La demande de retrait d'une Carte du Portefeuille uniquement n'entraîne pas automatiquement une mise en opposition de cette
-
-Carte. Elle reste alors utilisable en tant que Carte physique. BOURSORAMA ne saurait être tenue pour responsable des
-
-conséquences de telles demandes de retrait ni de toute autre demande de retrait qui n'émanerait pas de l'Utilisateur, le
-
-Portefeuille relevant de la seule responsabilité de Fitbit.
-
-
-
-7.4 - L'Emetteur se réserve le droit de bloquer l'utilisation de la Carte dans le Service Fitbit Pay sur tous les Appareils
-
-Compatibles de l'Utilisateur sur lesquels une Carte aurait été enregistrée sans aucun préavis ni formalité, s'il devait relever des
-
-faits laissant présumer la tentative ou l'utilisation frauduleuse du Service ou en cas de non-respect des Conditions Générales
-
-BOURSORAMA, des Conditions Générales d'utilisation et des procédures y étant décrites, ce dont l'Utilisateur en serait
-
-informé.
-
-
-
-Un blocage peut également s'appliquer par l'Emetteur à l'ensemble du Service Fitbit Pay pour toutes les Cartes émises par
-
-BoursoBank de tous les Utilisateurs, ou partiellement, sur un Utilisateur en particulier, sur un mode de paiement (« de proximité
-
-») quels que soient les Utilisateurs, sur une région géographique spécifique ou tout autre critère pertinent par rapport à la
-
-situation.
-
-
-
-7.5 - L'Emetteur ou l'Utilisateur peuvent suspendre temporairement l'utilisation d'une Carte enregistrée dans le Portefeuille. Elle
-
-114
-
-
-
-devient alors immédiatement indisponible pour le paiement via le Service Fitbit Pay. L'Emetteur ou l'Utilisateur peuvent réactiver
-
-la Carte suspendue. Dans le cas d'une suspension par l'Emetteur, seul ce dernier pourra réactiver la Carte suspendue après en
-
-avoir informé préalablement l'Utilisateur par tout moyen.
-
-
-
-ARTICLE 8 – RESPONSABILITÉ DE l'ÉMETTEUR
-
-
-
-8.1 - L'Emetteur n'est pas tenu pour responsable des pertes financières directes encourues par l'Utilisateur consécutivement au
-
-mauvais fonctionnement du Portefeuille et/ou des fonctionnalités du Service Fitbit Pay.
-
-
-
-8.2 - L'Emetteur n'est pas tenu pour responsable d'une panne technique du Portefeuille et/ou du Service Fitbit Pay, l'Emetteur
-
-ne pouvant matériellement garantir leur parfait fonctionnement qui est sous la responsabilité de Fitbit et ce que l'Utilisateur
-
-accepte.
-
-
-
-8.3 - L'Emetteur n'est pas tenu pour responsable des paramétrages par l'Utilisateur sur son Appareil Compatible du Code secret
-
-ou du Dispositif Biométrique.
-
-A ce titre, l'Utilisateur reconnait et s'engage à ne renseigner par l'intermédiaire de son Terminal Compatible que des éléments
-
-de reconnaissance strictement personnel au sein du dispositif d'Authentification Fitbit et non de tiers.
-
-
-
-8.4 - L'Emetteur n'est pas tenu pour responsable :
-
-• en cas de non-respect par l'Utilisateur des présentes Conditions Générales d'utilisation et des procédures y étant décrites, ni
-
-même en cas de non-respect par l'Utilisateur de tout contrat le liant à Fitbit, et/ou des notifications de la part de Fitbit,
-
-• lorsque les informations communiquées par l'Utilisateur lors de la signature du Contrat s'avèrent inexactes ou incomplètes,
-
-• en cas d'interruption du Service Fitbit Pay pour des raisons résultant de la force majeure, d'un cas fortuit ou du fait d'un tiers,
-
-• en cas de déclaration tardive par l'Utilisateur de la perte, du vol ou de l'utilisation frauduleuse de son téléphone mobile avec la
-
-SIM, de ses codes d'activation, ou code secret, de son Appareil Compatible,
-
-• des réclamations qui portent sur le prix des biens ou services achetés auprès du Commerçant,
-
-• en cas de défaut d'opposition immédiate par l'Utilisateur sur sa (ses) Carte(s), dont les données sont enregistrées dans le
-
-Portefeuille, suite à la perte, au vol ou à l'utilisation frauduleuse des Identifiants et Mot de passe liés à sa (ses) carte(s).
-
-
-
-L'Emetteur n'est pas responsable de l'exécution et/ou des litiges issus du contrat passé entre l'Utilisateur et ses opérateurs
-
-techniques (FAI, téléphonie mobile, etc.) lesquels pourraient avoir une conséquence sur le fonctionnement du Service Fitbit
-
-Pay.
-
-
-
-De manière générale, l'Emetteur ne peut être tenu responsable que pour des dommages ayant pour cause unique son propre
-
-fait.
-
-
-
-ARTICLE 9 – RESPONSABILITÉ DE L'UTILISATEUR
-
-
-
-L'Utilisateur est responsable de l'utilisation strictement personnelle et de la conservation dans des conditions de sécurité et de
-
-confidentialité de son téléphone mobile avec la SIM, de ses codes d'activation ou Code secret ou dispositif d'Authentification
-
-Fitbit de son Appareil compatible et de leur paramétrage par lui-même uniquement.
-
-à cet effet, l'Utilisateur est pleinement responsable de toutes les conséquences susceptibles de survenir en cas de cession de
-
-son Appareil Compatible à un tiers sans avoir préalablement désactivé son Portefeuille ou retiré sa (ses) Carte(s) dudit
-
-Portefeuille.
-
-L'Utilisateur bénéficie d'un droit d'utilisation non exclusif du Service Fitbit Pay et reconnaît que ce droit d'utilisation lui est
-
-personnel et qu'il ne peut en aucune manière le céder sous peine d'engager sa responsabilité ni revendiquer un quelconque
-
-droit de propriété intellectuelle.
-
-L'Utilisateur est responsable de la mise à jour des données relatives aux Cartes qu'il a enregistrées dans son Portefeuille,
-
-notamment suite au renouvellement ou à la mise en opposition d'une Carte.
-
-
-
-ARTICLE 10 – RÉSILIATION
-
-
-
-Sous réserve du dénouement des opérations en cours, l'Utilisateur dispose de la faculté de résilier le Service Fitbit Pay sans
-
-préavis quelle qu'en soit la raison en retirant la ou les Cartes enrôlées dans son Portefeuille.
-
-Sous réserve des opérations en cours, BOURSORAMA se réserve le droit de suspendre l'utilisation de la Carte dans le Service
-
-Fitbit Pay sans aucun préavis ni formalité, s'il devait relever des faits laissant présumer la tentative ou l'utilisation frauduleuse du
-
-Service ou en cas de non-respect par l'Utilisateur des dispositions des présentes.
-
-BOURSORAMA dispose de la faculté de résilier le Service Fitbit Pay pour les Cartes enregistrées en respectant un préavis de
-
-deux (2) mois à compter de la date d'envoi de cette notification à l'Utilisateur. En cas de comportement gravement
-
-répréhensible du Client, la résiliation sera effectuée sans préavis.
-
-
-
-L’Utilisateur reconnait et accepte que le Service Fitbit Pay pourra être suspendu ou résilié automatiquement sans préavis dans
-
-les cas suivants :
-
-
-
-- Résiliation ou suspension de la fonctionnalité Fitbit Pay par la société Fitbit,
-
-- Modification du Service Fitbit Pay par Fitbit de sorte de le rendre incompatible avec les services de l’Emetteur,
-
-- Survenance d’une faille de sécurité.
-
-115
-
-
-
-ARTICLE 11 – CONDITIONS TARIFAIRES
-
-
-
-L'inscription au Service Fitbit Pay et son utilisation sont totalement gratuites pour l'Utilisateur. Ces informations sont indiquées
-
-au sein de la brochure tarifaire de BOURSORAMA.
-
-
-
-ARTICLE 12 – RÉCLAMATIONS
-
-
-
-En cas de survenance de difficultés dans le fonctionnement du Service Fitbit Pay, l'Utilisateur peut se rapprocher du Service
-
-Clientèle de BOURSORAMA dans les conditions prévues à l’article 21. Relations clientèles et médiation du TITRE I.
-
-
-
-ARTICLE 13 – MODIFICATION DES CONDITIONS GÉNÉRALES D'UTILISATION DU SERVICE
-
-
-
-Les présentes Conditions Générales d'utilisation peuvent évoluer en raison de mesures techniques, législatives ou
-
-réglementaires ; en ce cas les modifications prennent effet à la date d'entrée en vigueur des mesures concernées sans préavis
-
-ni information préalable.
-
-
-
-L'Emetteur se réserve le droit d'apporter toutes modifications et notamment des modifications techniques, sécuritaires ou
-
-financières aux présentes conditions générales d'utilisation. L'Utilisateur sera informé par tout moyen de tout projet de
-
-modification des présentes conditions au plus tard deux (2) mois avant la date d'application envisagée, sauf dans l'hypothèse
-
-où Fitbit modifierait certaines modalités d'utilisation du Service dans un délai plus court.
-
-L'Utilisateur est réputé avoir accepté la modification s'il n'a pas notifié à BOURSORAMA, avant la date d'entrée en application,
-
-son désaccord. Si l'Utilisateur refuse la modification proposée, il peut résilier avant cette date le Service Fitbit Pay. A défaut de
-
-résiliation dans ce délai, les modifications seront opposables à l'Utilisateur.
-
-
-
-ARTICLE 14 – RÉTRACTATION DE LA SOUSCRIPTION
-
-
-
-À compter du jour de la souscription à distance au Service Fitbit Pay, l'Utilisateur dispose d'un délai de quatorze (14) jours
-
-calendaires révolus pour exercer son droit de rétractation sans avoir à justifier sa décision. L'Utilisateur reconnaît que
-
-l'utilisation du Service avant l'expiration de ce délai de 14 jours vaut demande expresse de commencement d'exécution des
-
-présentes Conditions Générales.
-
-Ce droit de rétractation peut s'effectuer même si l'exécution du Service a commencé avant l'expiration du délai de rétractation :
-
-Pour exercer ce droit de rétractation, l'Utilisateur doit adresser un courrier recommandé avec accusé de réception à
-
-BOURSORAMA à l'attention du service Clients, selon le modèle suivant :
-
-« Je soussigné(e) (nom prénom), demeurant à ......(adresse) déclare renoncer au service Fitbit Pay que j'ai souscrit.
-
-Fait à......le .....et signature ».
-
-
-
-Si l'Utilisateur exerce son droit de rétractation, le Service sera réputé n'avoir jamais été souscrit.
-
-Toutefois, il ne lui sera pas possible de révoquer les ordres de paiement par Carte qui auront déjà été donnés par le biais de
-
-l'utilisation du Portefeuille.
-
-
-
-ARTICLE 15 – DROIT ET LANGUE APPLICABLES – TRIBUNAUX COMPÉTENTS – AUTORITÉ DE CONTRÔLE
-
-
-
-Les présentes Conditions Générales d'utilisation sont régies, interprétées et appliquées par le droit français. La langue
-
-d'interprétation est la langue française en cas de contestation sur la signification d'un terme ou d'une disposition des présentes.
-
-Tout litige découlant des présentes ou qui en serait la suite ou la conséquence, sera de la compétence exclusive des tribunaux
-
-français. Coordonnées de l'autorité de contrôle compétente : L'Autorité de Contrôle Prudentiel et de Résolution est l'autorité
-
-chargée du contrôle de la banque, située 4, Place de Budapest 75436 Paris Cedex 09.
-
-116
 
 
 
@@ -26958,7 +26280,7 @@ dernier alinéa du 8 du II de l'article 150-0 A du code général des impôts, d
 
 les produits du fonds, de la société ou de l'entité et attribués en fonction de la qualité de la personne ;
 
-117
+112
 
 
 
@@ -27096,7 +26418,7 @@ Le gain retiré de la cession ou de l'apport d'une créance qui trouve son origi
 
 prix visée au premier alinéa est imposé dans les mêmes conditions au titre de l'année de la cession ou de l'apport.
 
-118
+113
 
 
 
@@ -27240,7 +26562,7 @@ sociétés de capital-risque, ou des sociétés qui réalisent des prestations d
 
 sociétés de capital-risque, lors de la cession ou du rachat de parts de fonds communs de placement à risques ou de fonds
 
-119
+114
 
 
 
@@ -27384,7 +26706,7 @@ mandat social ;
 
 laquelle le bénéficiaire était fiscalement domicilié hors de France ou conformément aux termes et conditions fixés par le
 
-120
+115
 
 
 
@@ -27524,7 +26846,7 @@ portant sur ces actions ou parts, ou de titres représentatifs de ces mêmes act
 
 A, ainsi que les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du 8 du II du même article, à l'article 150-0
 
-121
+116
 
 
 
@@ -27666,7 +26988,7 @@ date de la cession ;
 
 3° 85 % de leur montant lorsque les actions, parts ou droits sont détenus depuis au moins huit ans à la date de la cession.
 
-122
+117
 
 
 
@@ -27808,7 +27130,7 @@ a) Lorsque les actions, parts, droits ou titres ont été acquis ou souscrits pa
 
 souscription de ces actions, parts, droits ou titres par la fiducie ;
 
-123
+118
 
 
 
@@ -27952,7 +27274,7 @@ but à titre onéreux, augmenté, s'il y a lieu, de la somme versée par le sous
 
 contribuable peut retenir, comme prix d'acquisition, le cours au comptant le plus élevé de l'année 1978.
 
-124
+119
 
 
 
@@ -28098,7 +27420,7 @@ dans les conditions mentionnées au 11, l'année au cours de laquelle intervient
 
 exécution d'un plan de redressement mentionné à l'article L. 631-19 du code de commerce, soit la cession de l'entreprise
 
-125
+120
 
 
 
@@ -28234,7 +27556,7 @@ a. Leur nature est en relation directe avec l'investissement financé ;
 
 b. Leur montant sur la durée de vie de l'emprunt n'excède pas 5 % du prix d'émission.
 
-126
+121
 
 
 
@@ -28376,7 +27698,7 @@ conditions et limites prévues à l'article L. 221-27 du code monétaire et fina
 
 9° quinquies (Abrogé).
 
-127
+122
 
 
 
@@ -28514,7 +27836,7 @@ intermédiaires.
 
 23° (Abrogé).
 
-128
+123
 
 
 
@@ -28664,7 +27986,7 @@ comme suit :
 
 déterminé conformément au A du IV de l'article 10 de la loi n° 2012-1509 du 29 décembre 2012 de finances pour 2013 ;
 
-129
+124
 
 
 
@@ -28798,7 +28120,7 @@ est passible d'une amende fiscale égale à 2 % du montant des versements surnum
 
 \* \*
 
-130
+125
 
 
 
@@ -28938,7 +28260,7 @@ c) De parts ou actions d'organismes de placement collectif en valeurs mobilière
 
 européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une
 
-131
+126
 
 
 
