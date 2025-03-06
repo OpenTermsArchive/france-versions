@@ -762,6 +762,8 @@ Nous pouvons refuser le remboursement :
 
 **(f)** d'un Billet portant la mention "non remboursable" sauf en cas de retard important, annulation ou refus d’embarquement au sens du Règlement (CE) N° 261/2004.
 
+**(g)** d’un billet dont le remboursement a déjà été effectué suite à une demande introduite en ligne sur le site de la compagnie, conformément aux conditions tarifaires. L’acceptation et la validation du remboursement en ligne ne pourra donner suite à une autre demande complémentaire pour ce même billet. 
+
 **13.6. Monnaie de remboursement**
 
 Sous réserve du droit en vigueur, nous nous réservons le droit d'effectuer le remboursement sous la même forme et dans la même monnaie que celles utilisées lors de l'achat du Billet.
