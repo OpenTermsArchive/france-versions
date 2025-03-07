@@ -1,8 +1,3 @@
-Difficultés techniques
-----------------------
-
-Veuillez noter qu’en raison d’une erreur système temporaire, les demandes effectuées via le formulaire ci-dessous entre le 27 novembre et le 11 décembre n’ont pas été traitées et ne peuvent être récupérées. Le système étant désormais rétabli, nous vous invitons à déposer une nouvelle demande. Veuillez nous excuser pour ce désagrément. Merci de votre compréhension.
-
 Protection des données & avis de confidentialité
 ================================================
 
