@@ -116,7 +116,7 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme)
-* [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Femme)
+* [TENUES DE CÉRÉMONIE](#)
     
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
@@ -200,7 +200,7 @@
     * [Club Nautique](https://www.printemps.com/fr/fr/club-nautique-homme)
     * [Le Daim](https://www.printemps.com/fr/fr/daim-homme)
     * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [TENUES DE SKI](https://www.printemps.com/fr/fr/ski-and-sun/uni/Homme)
+* [TENUES DE CÉRÉMONIE](#)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
