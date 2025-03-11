@@ -44,8 +44,6 @@
     * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures)
     * [Make it shine](https://www.printemps.com/fr/fr/ca-brille)
     * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025)
-*  [![](https://media-cdn.printemps.com/image/14/4/7596144.jpg) PRADA](https://www.printemps.com/fr/fr/prada?ap_source=anico&ap_medium=nav-new&ap_campaign=vignette_prada)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -116,7 +114,7 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme)
-* [TENUES DE CÉRÉMONIE](#)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie/uni/Femme)
     
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
@@ -200,7 +198,7 @@
     * [Club Nautique](https://www.printemps.com/fr/fr/club-nautique-homme)
     * [Le Daim](https://www.printemps.com/fr/fr/daim-homme)
     * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [TENUES DE CÉRÉMONIE](#)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie/uni/Homme)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
