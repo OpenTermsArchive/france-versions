@@ -129,7 +129,7 @@ BOURSORAMA diffuse notamment les Informations financières dont les droits de di
 
 BOURSORAMA héberge sur le site BOURSORAMA.COM un forum de discussion permettant essentiellement aux membres d'échanger des informations et de communiquer en ligne sur toutes les sociétés et valeurs cotées en bourse à Paris et à l'étranger.
 
-Pour plus d'informations, veuillez consulter les [CGU Membres](https://s.brsimg.com/content/pdf/reglementaire/cgu-membres.pdf "Conditions Générales Membres (nouvelle fenêtre)").
+Pour plus d'informations, veuillez consulter les [CGU Membres](https://www.boursorama.com/content/pdf/reglementaire/cgu-membres.pdf "Conditions Générales Membres (nouvelle fenêtre)").
 
 5\. Report des abus sur le site BOURSORAMA.COM
 ----------------------------------------------
