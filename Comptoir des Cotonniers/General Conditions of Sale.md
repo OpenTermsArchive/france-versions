@@ -218,7 +218,7 @@ En cas de contestation du Statut acquis par l’Adhérent, seules les informatio
 
 **9.2 Offres du Club**
 
-Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwcebce184/PAGE-CLUB/Content/LeClub-Avantages-FR-EN.pdf).  
+Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw0cf951df/PAGE-CLUB/Content/LeClub-Avantages-FR-EN.pdf).  
 Les cadeaux offerts dans le cadre du Club ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
 
 **9.3 Modification du Club**
