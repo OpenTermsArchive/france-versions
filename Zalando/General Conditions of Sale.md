@@ -51,7 +51,7 @@ Nous avons mis en place une procédure de signalement et de plainte pour examine
 **10\. Autres :**
 -----------------
 
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/dd51bbea-25f8-4c67-9101-486beae4651c.pdf)
 
 **Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
 ----------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Avant de suspendre le traitement des signalements et des plaintes, nous enverron
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)
+[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/dd51bbea-25f8-4c67-9101-486beae4651c.pdf)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.
@@ -311,9 +311,49 @@ L’action résultant des vices rédhibitoires doit être intentée par l’acqu
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a47d3e88-5921-4a21-8ada-253bd1aafb01.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/dd51bbea-25f8-4c67-9101-486beae4651c.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
-**14.5** Nous vous indiquons dans les systèmes de recommandation des articles dont nous croyons qu’ils pourraient vous plaire afin de faciliter votre recherche. Nous utilisons pour cela différents paramètres afin de fournir des recommandations aussi adéquates que possible. Ceux-ci comprennent notamment en paramètres principaux le pays, les informations sur l’article, le choix de filtres et de tris, par ex. également les tailles privilégiées, et la popularité d’articles ainsi que des préférences, des achats et des activités de navigateur. Les paramètres qui influencent sensiblement l’affichage de produits sur la page de catalogue sont 1. la popularité, 2. la date d’introduction de l’article, 3. les campagnes de vente actuelles et 4. le prix. Les paramètres respectifs pour un système de recommandation individuel sont accessibles via le symbole figurant sur le système de recommandation, par exemple sur la page de catalogue. Retrouvez via le lien ci-dessous de plus amples informations concernant les informations de profil que nous utilisons ainsi que la possibilité d’influencer leur utilisation pour les systèmes de recommandation sur l’ensemble de la plateforme :  
+**14.5 Principes de fonctionnement de la hiérarchisation:** Nos systèmes de recommandation sont conçus pour vous aider à trouver les produits qui vous correspondent le mieux parmi les milliers d’articles disponibles sur notre plateforme. Son principe repose sur une combinaison d’algorithmes et de critères affinés en permanence afin de garantir que vous vivez une expérience d’achat optimisée.  
+**14.5.1 Principaux paramètres qui influencent la hiérarchisation**
+
+* **Pertinence avec les mots-clés de recherche:** Notre système met en avant des produits qui correspondent aux mots-clés que vous avez saisis pour faire vos recherches, ou à votre comportement de navigation. Il s’agit, notamment, d’évaluer les titres, descriptions, images et catégories des produits afin que ceux-ci soient alignés avec vos saisies, filtres, catégories, tris.
+    
+* **Popularité:** Les produits fréquemment achetés, bien notés, ou souvent visualisés par d’autres clients peuvent être mis davantage en avant car ces indicateurs suggèrent que les clients en sont satisfaits et s’y intéressent.
+    
+* **Personnalisation:** Si vous vous êtes identifié·e dans votre compte, il se peut que notre système utilise votre historique de navigation, votre historique d’achats et vos préférences (par ex. taille, style) afin de faire correspondre la hiérarchisation des produits avec vos centres d’intérêts.
+    
+* **Prix:** Alors que toutes les gammes de prix sont représentées, il se peut que le système souligne les produits qui s’alignent avec l’historique de vos préférences et/ou les promotions actuelles.
+    
+* **Promotions et contenu sponsorisé:** Il se peut que les produits concernés par des promotions spéciales ou qui sont sponsorisés par des vendeurs aient une meilleure visibilité. Les listes des produits sponsorisés sont clairement mises en avant comme tels afin de garantir une transparence maximale.
+    
+* **Disponibilité:** Afin que l’expérience d’achat que vous vivez soient améliorée davantage, les produits en stock et disponibles à l’achat immédiat ont la priorité.
+    
+* **Indicateurs de durabilité:** Les produits répondant à certains critères de durabilité, fabriqués par exemple dans des matériaux écologiques ou selon des méthodes de fabrication respectueuses de l’environnement, peuvent avoir la préférence si vous avez témoigné un intérêt vis-à-vis de ces caractéristiques.
+    
+* **Pays:** La version de la Boutique Zalando que vous visitez peut avoir une influence sur les produits qui vous sont proposés.
+    
+
+**14.5.2 La manière dont les paramètres interagissent:** L’importance relative de ces paramètres peut varier en fonction du contexte de recherche ou de votre session de navigation. Les paramètres les plus pertinents sont : le pays, les informations sur les articles, la sélection de filtres et le tri, par ex. les tailles préférées, la popularité des articles et les préférences, ainsi que les activités d’achat et de navigation. Ci-dessous, nous fournissons un aperçu de la manière dont fonctionne notre hiérarchisation, dont les paramètres principaux et leur interaction qui ont une influence sur l’ordre dans lequel les produits vous sont affichés :
+
+* **Pertinence avec les recherches en premier:** Si vous formulez une demande de recherche spécifique, la pertinence avec cette demande aura davantage de poids, alors que d’autres paramètres, tels que la popularité ou la personnalisation, joueront un rôle secondaire.
+    
+* **Priorité de la personnalisation:** Lorsque vous naviguez sans avoir formulé de demande spécifique, vos interactions précédentes avec la plateforme auront une influence sur la hiérarchisation, en même temps que la popularité et la disponibilité des produits.
+    
+* **Influence des promotions:** Les contenus sponsorisés et les promotions sont intégrés à la hiérarchisation, dans une approche équilibrée, ce qui garantit que leur comportement ne prend pas le pas sur les résultats concrets pouvant s’inscrire dans vos centres d’intérêt.
+    
+
+**14.5.3 Transparence et contrôle de l’utilisateur:** Nous nous engageons à vous faire vivre une expérience d’achat transparente. À ces fins :
+
+* **Mise en avant des contenus sponsorisés:** Les produits sponsorisés sont clairement indiqués au moyen d’une « étiquette » qui leur permet de se différencier des articles concrètement hiérarchisés.
+    
+* **Options de tri:** Vous pouvez prendre la main sur la hiérarchisation par défaut en utilisant des options de tri tels que « Prix croissant », « Recommandé par les clients », ou « Nouveautés en premier », afin d’adapter l’ordre dans lequel les produits sont affichés avec vos préférences.
+    
+* **Paramètres de personnalisation:** Vous avez la possibilité de gérer vos préférences de personnalisation, ou de choisir la navigation privée en adaptant les paramètres de votre compte.
+    
+
+**14.5.4 Surveillance et mises à jour algorithmiques:** Pour garantir une équité et une pertinence optimales, notre système de recommandation est surveillé et mis à jour régulièrement. Nous menons des tests rigoureux afin d’identifier les biais potentiels, et d’améliorer continuellement l’algorithme afin de l’aligner avec vos besoins et vos attentes.  
+**14.5.5 Gestion de vos préférences:** Les paramètres correspondant à un système de recommandation personnalisé sont accessibles vis le symbole « info-i » sur le système de recommandation, par exemple, sur la page correspondante du catalogue. Le lien suivant vous fournira des informations détaillées sur les informations de profil que nous utilisons, et sur la possibilité d’exercer une influence sur l’utilisation de celles-ci dans les systèmes de recommandation, sur l’intégralité de la plateforme :
+
 Lien vers les préférences de recommandation :  
 [**https://www.zalando.fr/myaccount/recommendation-preferences/**](https://www.zalando.fr/myaccount/recommendation-preferences/)**.**
 
@@ -334,7 +374,7 @@ Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de 
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 01.03.2025  
+Version: 11.03.2025  
   
 
   
