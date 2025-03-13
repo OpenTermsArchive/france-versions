@@ -192,9 +192,17 @@ Vous vous engagez à ne pas utiliser de dispositifs ou logiciels de toutes sorte
 9\. Digital services act
 ------------------------
 
-Conformément au Règlement européen relatif à un marché unique des services numériques (« Digital Services Act ») du 19 octobre 2022, BOURSORAMA publie, tous les six mois, des informations relatives à la moyenne mensuelle des destinataires actifs de son site BOURSORAMA.COM au cours des six derniers mois.
+### 9.1 Moyenne mensuelle de destinataires actifs
+
+Conformément au Règlement européen relatif à un marché unique des services numériques (« DSA ») du 19 octobre 2022, BOURSORAMA publie, tous les six mois, des informations relatives à la moyenne mensuelle des destinataires actifs de son site BOURSORAMA.COM au cours des six derniers mois.
 
 Sur la période des 6 derniers mois, le site BOURSORAMA.COM affichait un nombre de destinataires actifs moyen inférieur à 45 millions par mois. (source : Piano)
+
+### 9.2 Rapport de transparence
+
+Conformément aux articles 15 et 24 du DSA, vous pouvez consulter [ici](https://s.brsimg.com/content/pdf/reglementaire/rapport-DSA.pdf) nos rapports portant sur la modération des contenus sur BOURSORAMA.COM.
+
+### 9.3 Adresse de contact pour les autorités
 
 Seules les autorités compétentes pour les problématiques liées au DSA peuvent demander à être recontactées par BOURSORAMA en complétant le formulaire disponible ici .
 
