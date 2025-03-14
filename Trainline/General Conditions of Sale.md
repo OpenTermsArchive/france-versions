@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 10 février 2025
+Dernière mise à jour le 5 mars 2025
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -136,9 +136,9 @@ Nous pouvons également vous répondre par e-mail. Veuillez remplir un [formulai
 
 **Clients en France**
 
-Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 18 h, et le samedi et le dimanche de 9 h à 17 h.
+Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 17 h CET.
 
-Vous pouvez nous appeler au 01 73 44 07 86 pour obtenir de l'aide à propos d'une réservation existante. Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour effectuer une réservation.
+Vous pouvez nous appeler au 01 73 44 07 86 pour obtenir de l'aide à propos d'une réservation existante. Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour effectuer une réservation. Le coût de l'appel varie en fonction des tarifs de votre opérateur.
 
 Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Et n'oubliez pas votre référence de réservation, elle nous aidera à trouver votre voyage.
 
@@ -146,9 +146,17 @@ Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui
 
 Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 17 h CET.
 
-Vous pouvez nous appeler au 02 3055 1995 pour obtenir de l'aide à propos d'une réservation existante.  Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour réserver un billet. Le coût de l'appel varie en fonction des tarifs de votre opérateur. 
+Vous pouvez nous appeler au 002 3055 1995 pour obtenir de l'aide à propos de vos réservations. Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour effectuer une réservation. Le coût de l'appel varie en fonction des tarifs de votre opérateur. 
 
 Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Et n'oubliez pas votre référence de réservation, elle nous aidera à trouver votre voyage. 
+
+**Clients en Espagne**
+
+Nous sommes joignables par téléphone du lundi au vendredi de 9 h à 17 h CET.
+
+Vous pouvez nous appeler au 900 803 075 pour obtenir de l'aide à propos de vos réservations. Veuillez noter qu'il n'est pas possible d'appeler ce numéro pour effectuer une réservation. Le coût de l'appel varie en fonction des tarifs de votre opérateur.
+
+Nous ne pouvons discuter des détails de la réservation qu'avec la personne qui a effectué la réservation, pour des raisons de protection des données. Et n'oubliez pas votre référence de réservation, elle nous aidera à trouver votre voyage.
 
 3\. Nos services
 ----------------
