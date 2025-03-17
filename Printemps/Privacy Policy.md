@@ -132,7 +132,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-*  [![](https://media-cdn.printemps.com/image/41/0/7616410.jpg) MARC JACOBS](https://www.printemps.com/fr/fr/marc-jacobs-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_marcjacobs)
+*  [![](https://media-cdn.printemps.com/image/18/4/7690184.jpg) THE KOOPLES](https://www.printemps.com/fr/fr/the-kooples-femme)
     
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -276,7 +276,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/94/0/7556940.jpg) HERMÈS](https://www.printemps.com/fr/fr/univers-hermes?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_hermes)
+*  [![](https://media-cdn.printemps.com/image/40/4/7626404.jpg) PERS](https://www.printemps.com/fr/fr/univers-pers?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_pers)
     
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
