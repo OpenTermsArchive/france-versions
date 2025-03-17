@@ -51,7 +51,7 @@ Nous avons mis en place une procédure de signalement et de plainte pour examine
 **10\. Autres :**
 -----------------
 
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a89aaea4-469d-4841-9e59-cdd9c7ba2113.pdf)
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/eda20e3b-dd9a-4fee-8af3-4cef8aadefec.pdf)
 
 **Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
 ----------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Avant de suspendre le traitement des signalements et des plaintes, nous enverron
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a89aaea4-469d-4841-9e59-cdd9c7ba2113.pdf)
+[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/eda20e3b-dd9a-4fee-8af3-4cef8aadefec.pdf)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.
@@ -87,8 +87,7 @@ Les articles de seconde-main de Zalando correspondent aux articles que nous prop
 ---------------------------
 
 **1.1** Les présentes Conditions Générales de Vente s’appliquent à toutes les commandes passées par des consommateurs sur site www.zalando.fr.  
-**1.2** Vous reconnaissez avoir pris connaissance, préalablement à l’envoi de votre commande, des présentes Conditions Générales de Vente et avoir eu communication de toutes les informations listées à l’article L.221-5 du Code de la consommation d’une manière lisible et compréhensible. La validation de votre commande vaut acceptation sans réserve des présentes Conditions Générales de Vente.  
-**1.3** Nous nous réservons le droit d’interdire aux clients qui procéderaient à des retours anormalement fréquents et de manière déraisonnable d’effectuer d’autres achats pendant une durée pouvant aller jusqu’à 12 mois. Ce sera notamment le cas si ces retours sont exagérés de manière répétée ou bien témoignent d’abus et ne correspondent pas à un comportement d’acheteur normal.
+**1.2** Vous reconnaissez avoir pris connaissance, préalablement à l’envoi de votre commande, des présentes Conditions Générales de Vente et avoir eu communication de toutes les informations listées à l’article L.221-5 du Code de la consommation d’une manière lisible et compréhensible. La validation de votre commande vaut acceptation sans réserve des présentes Conditions Générales de Vente.
 
 **2\. CONCLUSION DU CONTRAT ET LIVRAISON DES ARTICLES**
 -------------------------------------------------------
@@ -101,7 +100,8 @@ Les articles de seconde-main de Zalando correspondent aux articles que nous prop
 **2.6** Nous livrons la marchandise dans le délai indiqué dans le récapitulatif de votre commande. Dans le cadre d’une livraison express, les délais de livraison sont différents (cf. point 3.3). Le délai de livraison court à compter de la réception de votre paiement. Si nous sommes empêchés d’effectuer la livraison par un évènement de force majeure ou un cas fortuit, le délai de livraison est prolongé en fonction de la durée de l’empêchement.  
 **2.7** Nous attirons votre attention sur le fait que nous sommes dispensés de livrer la marchandise commandée si nous avons nous même passé commande la marchandise en bonne et due forme mais n’avons pas été approvisionnés en temps utile par nos fournisseurs. La dispense de livrer nécessite en outre que l’indisponibilité de la marchandise ne nous soit pas imputable, que nous n’ayons pas expressément accepté de supporter le risque d’approvisionnement et que nous vous ayons informés de l’indisponibilité de la marchandise dans les meilleurs délais. Lorsque les conditions précitées sont remplies, la commande est annulée et nous vous rembourserons les sommes que vous aurez déjà versées.  
 **2.8** Notre obligation de livrer se limite aux marchandises que nous avons en stock ou dont nous avons passé commande auprès de nos fournisseurs. En cas de livraison d’articles Partenaire Zalando, il convient de prendre en considération, outre notre propre stock, le stock de marchandises du Partenaire Zalando. Nous livrons exclusivement en France Métropolitaine, en Corse et à Monaco.  
-**2.9** Nous nous réservons le droit de ne pas accepter une commande ou d’annuler une commande si celle-ci a été passée en utilisant des logiciels, des robots, des collecteurs (web crawlers), des robots d’indexation (web spiders) ou un système automatisé ou un comportement scripté, quel qu’il soit, et en faisant appel à des services de tiers pour passer une commande en votre nom.
+**2.9** Nous nous réservons le droit de ne pas accepter une commande ou d’annuler une commande si celle-ci a été passée en utilisant des logiciels, des robots, des collecteurs (web crawlers), des robots d’indexation (web spiders) ou un système automatisé ou un comportement scripté, quel qu’il soit, et en faisant appel à des services de tiers pour passer une commande en votre nom.  
+**2.10** Nous nous réservons le droit d’interdire aux clients qui procéderaient à des retours anormalement fréquents et de manière déraisonnable d’effectuer d’autres achats pendant une durée pouvant aller jusqu’à 12 mois. Ce sera notamment le cas si ces retours sont exagérés de manière répétée ou bien témoignent d’abus et ne correspondent pas à un comportement d’acheteur normal.
 
 **3\. PRIX, FRAIS DE LIVRAISON ET LIVRAISON EXPRESS**
 -----------------------------------------------------
@@ -312,7 +312,7 @@ L’action résultant des vices rédhibitoires doit être intentée par l’acqu
 
 **14.1** Seules les personnes âgées de dix-huit (18) ans minimum peuvent recourir aux offres disponibles sur [www.zalando.fr](https://www.zalando.fr/).  
 **14.2** Chaque client n’a le droit d’avoir qu’un seul compte en même temps chez Zalando. Nous nous réservons le droit d’effacer des enregistrements multiples.  
-**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/a89aaea4-469d-4841-9e59-cdd9c7ba2113.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
+**14.3** Vous avez la possibilité de consulter les présentes CGV sur le site [**https://www.zalando.fr/zalando-terms.**](https://www.zalando.fr/zalando-terms) Vous pouvez également imprimer ou enregistrer ce document à l’aide de la fonction habituelle de votre navigateur Internet (généralement « fichier » à « Enregistrer sous »). Vous pouvez également [**télécharger et archiver ce document au format PDF**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/eda20e3b-dd9a-4fee-8af3-4cef8aadefec.pdf)**.** Le logiciel Adobe Reader (disponible gratuitement à l’adresse [www.adobe.fr](http://get.adobe.com/fr/reader/)) ou un autre programme compatible avec le format PDF est requis pour la lecture du fichier PDF.  
 **14.4** Vous pouvez en outre archiver les CGV ainsi que les conditions contractuelles de votre commande en téléchargeant les CGV et en enregistrant, soit le récapitulatif de votre commande dans la boutique en ligne à l'aide de votre navigateur, soit l’e-mail de confirmation de commande qui vous est adressé automatiquement après votre achat à l’adresse e-mail que vous nous aurez indiquée. Cette confirmation de commande contient les références de votre commande ainsi qu’un lien pour consulter les présentes CGV. La confirmation de commande peut être sauvegardée ou imprimée à l’aide de la fonction correspondante de votre messagerie.  
 **14.5 Principes de fonctionnement de la hiérarchisation:** Nos systèmes de recommandation sont conçus pour vous aider à trouver les produits qui vous correspondent le mieux parmi les milliers d’articles disponibles sur notre plateforme. Son principe repose sur une combinaison d’algorithmes et de critères affinés en permanence afin de garantir que vous vivez une expérience d’achat optimisée.  
 **14.5.1 Principaux paramètres qui influencent la hiérarchisation**
@@ -375,7 +375,7 @@ Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de 
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 13.03.2025  
+Version: 17.03.2025  
   
 
   
