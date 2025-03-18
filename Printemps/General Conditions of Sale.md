@@ -237,7 +237,7 @@
     * [Voir Tout](https://www.printemps.com/fr/fr/soin)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins Visage](https://www.printemps.com/fr/fr/soins-visage)
-    * [Soins Corps](https://www.printemps.com/fr/fr/soins-corps)
+    * Soins Corps
     * [ComplÉMents Alimentaires](https://www.printemps.com/fr/fr/bien-etre)
 * [SOINS CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir Tout](https://www.printemps.com/fr/fr/soins-cheveux)
@@ -246,6 +246,8 @@
     * [Produits De Coiffage](https://www.printemps.com/fr/fr/soins-cheveux/sct/Coiffant+%26+Modelant)
     * [Appareils ÉLectroniques](https://www.printemps.com/fr/fr/fers-lisser)
 
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-beaute)
+    
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
 * [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires)
@@ -254,8 +256,12 @@
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
 
 * [INSPIRATIONS](#)
+    * [K-BEAUTY](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale)
     * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
