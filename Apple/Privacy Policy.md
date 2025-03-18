@@ -1,7 +1,7 @@
 Engagement de confidentialité d’Apple
 =====================================
 
-### Mis à jour le 18 septembre 2024
+### Mis à jour le 31 janvier 2025
 
 L’Engagement de confidentialité d’Apple décrit la façon dont Apple collecte, utilise et protège vos données personnelles.
 
