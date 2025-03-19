@@ -149,7 +149,7 @@ Si vous avez des questions plus complexes, la fonction de chat en direct vous pe
 
 Veuillez noter que ce que vous écrivez dans le chat peut être lu par la personne avec laquelle vous êtes en train de chatter. En cas de dysfonctionnements techniques et pour l’amélioration de la qualité, le prestataire de services peut également y accéder en temps réel. Si vous écrivez dans le chat dans une autre langue que l’anglais, votre conversation sera traduite automatiquement par l’un de nos sous-traitants mandatés.
 
-Les chats des clients sont supprimés ou anonymisés par nos soins après 30 jours. Ce traitement est basé sur notre intérêt légitime.
+Les chats des clients sont supprimés ou anonymisés par nos soins après 30 jours. Lorsque vous avez choisi d'être redirigé vers un agent en direct, la conversation est supprimée ou anonymisée après 90 jours. Ce traitement est basé sur notre intérêt légitime.
 
 **C. Lorsque vous achetez nos produits ou services** 
 
