@@ -434,6 +434,7 @@
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Jackpot ! au Printemps : Jusqu'à -50% sur des milliers d'articles](https://www.printemps.com/fr/fr/landing-jackpot-au-printemps)
     * [Modology, les nouvelles collections de A à Z](https://www.printemps.com/fr/fr/edito-actu-modology-presentation?ap_source=anico&ap_medium=navigation&ap_campaign=edito_modology)
     * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
     * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
@@ -792,7 +793,7 @@ Les commandes sont traitées dans la matinée le jour ouvrable suivant. Les comm
 
 **Union Européenne**
 
-Livraisons standard offertes dès 200 euros d'achat (hors produits Braderie)
+Livraisons standard offertes dès 300 euros d'achat (hors produits Braderie)
 
   
 
@@ -832,7 +833,7 @@ Le prix varie selon le pays de destination :
 
   
 
-Livraisons offertes dès 200 euros d'achat (hors produits Braderie)
+Livraisons offertes dès 300 euros d'achat (hors produits Braderie)
 
   
 
