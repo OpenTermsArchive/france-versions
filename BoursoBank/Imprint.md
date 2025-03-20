@@ -200,7 +200,7 @@ Sur la période des 6 derniers mois, le site BOURSORAMA.COM affichait un nombre 
 
 ### 9.2 Rapport de transparence
 
-Conformément aux articles 15 et 24 du DSA, vous pouvez consulter [ici](https://s.brsimg.com/content/pdf/reglementaire/rapport-DSA.pdf) nos rapports portant sur la modération des contenus sur BOURSORAMA.COM.
+Conformément aux articles 15 et 24 du DSA, vous pouvez consulter [ici](https://www.boursorama.com/content/pdf/reglementaire/rapport-DSA.pdf) nos rapports portant sur la modération des contenus sur BOURSORAMA.COM.
 
 ### 9.3 Adresse de contact pour les autorités
 
