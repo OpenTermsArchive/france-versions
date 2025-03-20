@@ -322,6 +322,7 @@
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * Victoria Beckham
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
