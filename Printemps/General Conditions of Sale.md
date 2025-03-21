@@ -298,9 +298,11 @@
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
-* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires)
+* [Bougies et parfums d'intérieur](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
-* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+* [Accessoires beauté](https://www.printemps.com/fr/fr/accessoires)
+    
+* [Coffrets](https://www.printemps.com/fr/fr/coffret-palette)
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
@@ -322,6 +324,7 @@
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
@@ -797,7 +800,7 @@ Livraisons standard offertes dès 300 euros d'achat (hors produits Braderie)
 
   
 
-**CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 4 jours)
+**CHRONO STANDARD INTERNATIONAL**, 10 euros (sous 2 à 3 jours)
 
 Livraison standard à domicile pour les pays suivants : Autriche, Belgique, Espagne, Irlande, Italie, Luxembourg, Pays-Bas et Portugal.
 
@@ -812,20 +815,6 @@ Avec le service Predict de Chronopost, vous avez un large choix d'option de livr
 \- Livraison chez un voisin choisi
 
 \- Livraison en « lieu sûr »
-
-  
-
-**CHRONO EXPRESS INTERNATIONAL** (en 24h)
-
-La livraison express à domicile est disponible pour les pays suivants : Autriche, Belgique, Irlande, Luxembourg et Pays-Bas.
-
-Le délai de livraison est de 1 jour ouvré.
-
-Le prix varie selon le pays de destination :
-
-* 17€ pour la Belgique, le Luxembourg et les Pays-Bas
-* 15€ pour l'Irlande
-* 22€ pour l'Autriche
 
   
 
