@@ -298,9 +298,11 @@
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
-* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires)
+* [Bougies et parfums d'intérieur](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
-* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
+* [Accessoires beauté](https://www.printemps.com/fr/fr/accessoires)
+    
+* [Coffrets](https://www.printemps.com/fr/fr/coffret-palette)
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
@@ -322,7 +324,7 @@
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
-    * Victoria Beckham
+    * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
