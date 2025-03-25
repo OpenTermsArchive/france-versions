@@ -170,6 +170,8 @@ Le Client dispose d’une visualisation du prix de la course au moment de la Ré
 
 Si la Société ne peut pas débiter le carte de crédit du Client pour quelque raison que ce soit, des pénalités de retard seront dues par le Client sans préavis, au taux stipulé par les lois applicables. En outre, le Client devra payer le montant du Prix final qui n’a pas été payé.
 
+Les plateformes de la mobilité doivent publier sur leur site internet chaque année une liste d’indicateurs relatifs à la durée d’activité et au revenu d’activité de ses travailleurs. Ces indicateurs sont calculés à partir des données LeCab, entre le 1er janvier 2024 et le 31 décembre 2024, vous pouvez les retrouver [ici](https://lecab.fr/indicateurs-dactivite-lecab-2024/).
+
 7 - Responsabilité
 ------------------
 
