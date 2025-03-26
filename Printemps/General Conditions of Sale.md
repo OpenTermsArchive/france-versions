@@ -242,7 +242,7 @@
     * [Club Nautique](https://www.printemps.com/fr/fr/club-nautique-homme)
     * [Le Daim](https://www.printemps.com/fr/fr/daim-homme)
     * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie/uni/Homme)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
@@ -285,7 +285,6 @@
     * [Voir Tout](https://www.printemps.com/fr/fr/soin)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins Visage](https://www.printemps.com/fr/fr/soins-visage)
-    * Soins Corps
     * [ComplÉMents Alimentaires](https://www.printemps.com/fr/fr/bien-etre)
 * [SOINS CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir Tout](https://www.printemps.com/fr/fr/soins-cheveux)
