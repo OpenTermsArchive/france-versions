@@ -1,7 +1,7 @@
 **CONDITIONS GENERALES DE VENTE**
 ---------------------------------
 
-Date : 13/11/2024
+Date : 25/03/2025
 
 Bienvenue sur Showroomprive.com
 
@@ -67,7 +67,7 @@ Votre compte vous permet à tout moment :
 
 · de vous inscrire et de vous désinscrire de la newsletter ou du Site en remplissant le formulaire de désinscription disponible [**ici**](https://www.showroomprive.com/nouscontacter/form.aspx?formType=4) .
 
-Il est également précisé que nos ventes évènementielles ne sont proposées qu'aux particuliers inscrits sur le Site (« les **Membres**»).
+Il est également précisé que nos ventes évènementielles ne sont proposées qu'aux particuliers inscrits sur le Site (« les **Membres**») pour leur usage personnel.
 
 Vous êtes responsable du maintien de la confidentialité de votre compte et de votre mot de passe, des restrictions d'accès à votre ordinateur ou autres équipements. A ce titre, vous reconnaissez être responsable de toutes les activités émanant de votre compte.
 
