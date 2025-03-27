@@ -156,7 +156,7 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
     * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie/uni/Femme)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-femme)
     
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
