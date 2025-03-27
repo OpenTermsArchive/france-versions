@@ -1,158 +1,258 @@
-**POLITIQUE DE CONFIDENTIALITÉ DE SEAT & CUPRA CONNECT**
+**Politique de confidentialité**
 
-**1.** **Informations générales sur le traitement des données**
+**Services mobiles en ligne (_CONNECT_)**
 
-Avec cette déclaration de protection des données, nous informons par la présente de la collecte, du traitement et de l'utilisation de vos données à caractère personnel lors de l'utilisation des services mobiles en ligne de SEAT / CUPRA CONNECT, (ci-après, « SEAT CONNECT / CUPRA CONNECT ») via le compte utilisateur, conformément aux dispositions du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel et sur la libre circulation de ces données (ci-après, « **RGPD** ») ainsi que la loi organique espagnole 3/2018 sur la protection des données **(LOPDGG)**, et autres règlements locaux qui le complètent.
+« La protection de la vie privée est au cœur de notre activité. Nous concevons et fabriquons des voitures et des produits liés à la mobilité qui exploitent des mégadonnées dans le but de vous rendre la vie plus agréable, pour que vous profitiez de la meilleure expérience de conduite. Nous vous permettons de contrôler à tout moment vos informations et vos données, afin que vous, et vous seul, décidiez non seulement ce que vous voulez partager, mais aussi quand et avec qui vous voulez le faire. C’est une valeur importante qui représente notre essence ».
 
-La Société SEAT, S.A.U. (ci-après, « **SEAT** ») fabrique des véhicules dotés d'une connectivité générant des informations. En outre, SEAT offre des services liés au véhicule à l'application SEAT CONNECT / CUPRA CONNECT. Les systèmes mentionnés ont leurs **propres politiques de confidentialité** car ils peuvent offrir des services et des fonctionnalités spécifiques en plus de ceux du véhicule. Pour vous inscrire à SEAT Systems, un SEAT/CUPRA ID doit être créé. Par conséquent, les données (jeton e-mail et mot de passe) sont transférées vers votre véhicule et les applications associées. À l'inverse, les services disponibles pour votre véhicule, les durées d'immatriculation et d'autres types d'informations sont associés à votre SEAT / CUPRA ID. Votre véhicule transfère également des données aux back-ends SEAT / CUPRA CONNECT pour fournir des informations cohérentes entre les systèmes : le véhicule, l'application SEAT / CUPRA CONNECT. Vous pouvez trouver plus de détails sur ce qui précède dans cette politique de confidentialité.
+**1\. INFORMATIONS GÉNÉRALES :**
 
-**2.** **Qui est le responsable du traitement de vos données à caractère personnel ?**
+Cette politique de confidentialité respecte les dispositions du Règlement (EU) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 sur la protection des personnes physiques quant au traitement des données à caractère personnel et sur la libre circulation de ces données (plus loin, « RGPD ») ; ainsi qu’à la législation espagnole sur la protection des données 3/2018 ; et à tout autre règlement local les complétant.
 
-| **Identité :** | **SEAT, S.A.U, sous le numéro d'identification fiscale A-28 049 161** |
-| --- | --- |
-| **Adresse :** | Autovía A-2, Km. 585, Martorell (Barcelone) |
-| **Courriel :** | **SEAT:** [customercare@seat.es](mailto:customercare@seat.es) **CUPRA**: [customercare@cupraofficial.es](mailto:customercare@cupraofficial.es) |
+* Les données à caractère personnel représentent toute information relative à une personne physique identifiée ou identifiable.
+    
+* Le traitement fait référence à toute opération ou ensemble d’opérations appliquées à des données ou ensembles de données à caractère personnel, de manière automatisée ou non.
+    
 
-**3\. Quelles données traitons-nous, à quelles fins et sur quelle base juridique ?**
+Nous expliquerons ci-dessous, de manière claire et transparente, quand et comment nous accédons, rassemblons, partageons et protégeons vos données à caractère personnel provenant de l’utilisation d’un véhicule avec accès Internet et de nos services mobiles en ligne.
 
-**3.1. Traitement des données pour les services SEAT CONNECT / CUPRA CONNECT**
+**2\. RESPONSABLE DU TRAITEMENT DES DONNÉES :**
 
-Dans le cadre des fonctionnalités offertes par SEAT CONNECT / CUPRA CONNECT, et sous réserve des finalités suivantes, SEAT / CUPRA traitera les catégories de données suivantes aux fins décrites ci-dessous par la suite :
+**SEAT, S.A.U.** (plus loin SEAT et/ou CUPRA) est l’entité chargée du traitement des données (Responsable du traitement des données), avec le numéro de TVA A-28049161, domiciliée à l’adresse Autovía A-2, Km. 585, Martorell, Barcelona (Espagne) et dotée des canaux de contact : [customercare@seat.com](mailto:customercare@seat.com)/[customercare@cupraofficial.com](mailto:customercare@cupraofficial.com)
 
-* Données d'identification personnelle et de coordonnées ;
-* Données concernant le numéro d’identification de votre véhicule (VIN) ;Données concernant l'état et les indicateurs de votre véhicule ;
-* Données concernant les informations de localisation et la géolocalisation;
-* Données concernant le module de commande électronique (ECU) ;
-* Données concernant les fonctions de confort et d’infodivertissement ;
-* Autres types de données concernant les services CONNECT;
-* La liste de contacts du smartphone, si d'autres utilisateurs ont été ajoutés pour l'utilisation de l'application SEAT / CUPRA CONNECT.
+**3\. UTILISATEURS ET CONFIDENTIALITÉ**
 
-Ces données seront traitées aux fins spécifiques de :
+Nous fabriquons des véhicules connectés générant des informations et des données. Nous proposons également des services associés à travers notre application embarquée et les _Services en ligne CONNECT._ Certains services ou fonctions peuvent également disposer de leurs propres politiques de confidentialité, dans la mesure où ils offrent au véhicule des services et fonctions supplémentaires. Dans ce cas, nous vous invitons à les lire avant la première utilisation.
 
-* **Gestion de votre inscription** **aux fonctionnalités de SEAT CONNECT / CUPRA CONNECT.**
+Nos véhicules sont disponibles pour différents types d’utilisateurs qui peuvent se connecter au véhicule à travers différents rôles. Certains services du véhicule peuvent évoluer en fonction du rôle d’utilisateur choisi. En outre, les modes de confidentialité de la voiture vous permettent de choisir le mode de confidentialité souhaité afin d’activer ou désactiver la transmission de données.
 
-L'enregistrement de l'application SEAT CONNECT / CUPRA CONNECT et l'accès aux fonctions connectées du véhicule, un SEAT / CUPRA ID est nécessaire.
+Vous pouvez gérer les rôles des utilisateurs et les paramètres de confidentialité à travers l’infodivertissement du véhicule, et vous pouvez même restreindre totalement l’accès et le transfert de données à partir des services en sélectionnant « Mode hors ligne ». La communication ne peut alors être établie que pour garantir l’accès Internet général du véhicule ou en cas d’accident pour activer le « Service d’appel d’urgence ».
 
-Par conséquent, l'utilisation des services CONNECT n'est possible qu'après la connexion à SEAT / CUPRA ID et une inscription réussie de la voiture.
+**Attention :** Si vous utilisez un véhicule d’un parc automobile et que votre véhicule est enregistré auprès d’un opérateur de flottes (par exemple votre employeur ou une entreprise gestionnaire de flotte) et géré par celui-ci, l’opérateur de flotte est chargé de traiter et transférer les données du véhicule (par exemple des données de géolocalisation et d’entretien), même si vous êtes en mode privé, afin de fournir certains services contractuels. L’opérateur de flottes a le pouvoir de restreindre ou d’ignorer les paramètres du mode de confidentialité que vous avez sélectionnés dans le véhicule. Dans ces cas-là, les données seront transmises à l’opérateur de flottes indépendamment des paramètres actuels du mode de confidentialité. Pour plus d’informations concernant le traitement des données lorsque le véhicule est enregistré auprès d’un parc, veuillez contacter votre opérateur de flottes.
 
-Les données fournies lors de l'enregistrement SEAT / CUPRA ID sont traitées lors de l'utilisation des fonctions et services CONNECT. Vous pouvez en savoir plus sur les conditions et la politique de confidentialité de SEAT / CUPRA ID [ici](https://seatid.vwgroup.io/data-privacy).
+**4\. TYPES DE DONNÉES À CARACTÈRE PERSONNEL QUE NOUS TRAITONS :**
 
-* **Fourniture des services SEAT CONNECT / CUPRA CONNECT**. Ces services dépendront du modèle de votre véhicule, veuillez les vérifier dans ces sections :
+Votre véhicule est équipé d’une carte SIM et d’une unité de commande électronique (UCE) qui rassemble, génère et envoie des données provenant des capteurs du véhicule et qui sont nécessaires au fonctionnement correct du véhicule, à l’activation de certaines fonctions de confort et d’infodivertissement et à l’utilisation des services en ligne que vous pouvez acquérir.
 
-[https://www.seat.com/faqs.html](https://www.seat.com/faqs.html)
+Le type de données traitées dans votre véhicule peut inclure les catégories suivantes, qui peuvent être considérées comme des données à caractère personnel lorsqu’elles sont traitées selon certaines prémisses et dans certains cas.
 
-[https://www.cupraofficial.com/faqs.html](https://www.cupraofficial.com/faqs.html)
+Les données et objectifs spécifiques du traitement des données dépendent de l’équipement du véhicule et des services utilisés. Il est possible que tous les services ne soient pas disponibles pour votre véhicule ou votre pays. Les fonctions disponibles dans votre véhicule et leur champ d’application sont disponibles dans la description du service.
 
-Pour fournir certains de ces services et une assistance lors de vos déplacements, il sera nécessaire de géolocaliser votre position et votre véhicule. Vous avez la possibilité de sélectionner le mode de confidentialité dans le menu de votre véhicule qui activera ou désactivera les fonctionnalités SEAT CONNECT / CUPRA CONNECT utilisant cette technologie.
+La liste et les spécifications de l’ensemble des fonctions disponibles, indépendamment du modèle de votre véhicule et de la version précise du logiciel, ne sont fournies qu’aux fins de cette politique de confidentialité et ne suggèrent en rien une extension éventuelle des fonctions ou du champ d’application de votre véhicule propre.
 
-* **Répondre à vos questions et doutes** concernant les fonctionnalités de SEAT CONNECT / CUPRA CONNECT.
+* **Numéro d’identification du véhicule (VIN) :** Chaque véhicule dispose d’un numéro d’identification unique qui peut être utilisé pour identifier son propriétaire.
+    
+* **Données de référence du véhicule :** Numéro d’immatriculation, modèle, type de véhicule, numéro SIM, adresse IP, etc.
+    
+* **Capteurs et indicateurs du véhicule :** par ex. vitesse, kilométrage, accélération, conditions ambiantes, pression des pneus, niveau de charge de la batterie, système de freinage, etc. Ces données sont nécessaires à l’entretien, à la sécurité, à la conformité et au fonctionnement corrects du véhicule.
+    
+* \*\*Paramètres du véhicule et fonctions d’infodivertissement \*\*: par ex. positions des sièges et du volant, réglages du châssis, climatisation, aide à la conduite et systèmes d’information au conducteur, paramètres du combiné d’instruments et du système d'infodivertissement, etc.
+    
+* \*\*Emplacement du véhicule \*\*: Dans le cadre de l’utilisation des services légalement requis (par ex. l’appel d’urgence), ainsi que pour certains des services en ligne ou de l’application, nous traiterons votre emplacement/localisation GPS.
+    
+* **Comptes utilisateurs :** Informations relatives aux comptes utilisateurs (identification personnelle) et aux connexions au véhicule.
+    
+* \*\*Utilisation d’applications, de dispositifs et de services en ligne \*\*: Informations relatives au mode d’utilisation de votre dispositif (application mobile et véhicule) et des services en ligne qu’il propose, par exemple la localisation.
+    
 
-SEAT traitera vos données à caractère personnel et celles du véhicule aux fins mentionnées, étant donné que la base juridique du traitement est l'**exécution du contrat,** c'est-à-dire les conditions générales de SEAT CONNECT / CUPRA CONNECT (les consulter dans les Applications SEAT CONNECT / CUPRA CONNECT) conformément à l'article 6.1.b du RGPD.
+**5\. OBJECTIFS ET BASES LÉGALES :**
 
-* Enfin, à partir des données de contact que vous aurez fournies lors de l’enregistrement à CONNECT, SEAT peut vous inviter à participer à des **enquêtes de satisfaction clients et/ou à des études de marché** concernant le véhicule connecté que vous venez d’acheter. Ces études peuvent être envoyées par SEAT en tant que responsable des services CONNECT sur la base de ses intérêts légitimes (article 6.1.f du RGPD) dans le cadre de son activité de constructeur automobile. En effet, les informations obtenues à travers ce genre d’études peuvent être utilisées en guise d’apport supplémentaire pour améliorer nos produits et optimiser nos processus de ventes. Il s’agit d’informations de grande valeur et très intéressantes pour SEAT. Si vous souhaitez vous opposer à ce traitement, veuillez suivre les instructions fournies au point 7 de cette déclaration. Nous vous recommandons de lire les informations relatives à la protection des données incluses dans l’étude de marché avant d’y participer.
+Votre véhicule est équipé d’usine d’une carte SIM permettant son accès à Internet. Les communications informatiques sont en partie nécessaires pour garantir les fonctions de base de la voiture et sont disponibles pour que le véhicule fonctionne de façon adéquate et techniquement sûre. En outre, si le véhicule est en mode en ligne, certaines données sont transmises depuis le véhicule pour activer certains services supplémentaires. Ci-dessous vous trouverez plus d’informations sur le traitement des données liées à l’utilisation de votre véhicule.
 
-**3.2. Données anonymisées pour la conduite automatisée**
+**5.1. Communications/sécurité du véhicule**
 
-En fonction du modèle de véhicule et, si la fonctionnalité est activée, SEAT anonymisera les données du véhicule pour la recherche et le développement de la conduite automatisée. Ces données seront extraites par les capteurs du véhicule et envoyées à un **serveur où elles** **seront immédiatement anonymisées et utilisées par SEAT et ses partenaires,** tels que les sociétés du Volkswagen Group, **pour rechercher et développer la conduite automatisée**. Sur la base de ces données, un environnement de simulation est créé pour permettre de tester les futures fonctions de conduite automatisée dans des conditions réalistes et peut être comparé dans le résultat avec le comportement préféré du conducteur réel.
+Votre véhicule envoie certaines données à nos systèmes informatiques ou à ceux que nous utilisons. À partir des données envoyées depuis votre véhicule, nous vous offrons un service ou contenu mis à disposition directement dans votre véhicule ou sur l’application. Ce processus nécessite toujours, au minimum, l’attribution technique d’une demande à un service et à un véhicule. D’autre part, il s’avère techniquement nécessaire pour le boîtier télématique (unité de connectivité en ligne) installé dans le véhicule (et nécessaire pour établir la connexion du véhicule) d’être redémarré régulièrement et saisi dans le réseau radio local. Le véhicule peut ainsi établir une connexion en ligne, de même que se connecter aux serveurs de données afin de vérifier la validité et la sécurité des certificats de communication du véhicule. C’est la seule manière d’établir une communication sûre avec le serveur de données et de neutraliser les attaques informatiques de tiers.
 
-La base légale pour la collecte de données et l'extraction de données du véhicule est l'intérêt légitime (article 6.1.f du RGPD). Par rapport au fait que les objectifs énoncés ci-dessus pour la recherche, le développement et la sauvegarde des fonctions de conduite automatisée ne peuvent être atteints qu'au moyen d'une base de données significative provenant de la plus grande variété possible de scénarios de trafic basés sur des trajets réels. Les tests d'endurance classiques ne sont plus suffisants à ce stade car les données doivent être constituées d'autant de scénarios de conduite différents que possible, dont les situations environnementales et routières ne peuvent être enregistrées dans les algorithmes qu'en trafic routier réel. Pour ces raisons, SEAT a un intérêt légitime dans le traitement des données et la constitution d'une base de données anonyme. Vous pouvez en savoir plus [ici](https://consent.vwgroup.io/consent/v1/texts/SEATConnect/fr/fr/suuPrivacy/latest/html). Vous pouvez vous opposer à ce traitement à tout moment en désactivant vous-même la fonctionnalité dans le paramètre de confidentialité de votre voiture.
+Données à caractère personnel traitées :
 
-**3.3. Activités de marketing et de profilage**
+* VIN
+* Données de référence du véhicule
 
-En outre, et uniquement si vous avez donné votre consentement explicite, SEAT traitera vos données à caractère personnel aux fins supplémentaires suivantes :
+Bases légales : Respect des obligations légales en tant que constructeur automobile (Art. 6.1.c GDPR), ainsi que de notre intérêt légitime pour éliminer les perturbations, garantir la sécurité du système et détecter des tentatives d’accès inadmissibles (Art. 6.1.f du RGPD).
 
-* **Activités de marketing** : SEAT vous enverra des informations et des promotions spéciales sur les produits ou services de SEAT pour vous offrir la meilleure expérience avec votre voiture. Vous pouvez les recevoir sous forme imprimée, électronique et téléphonique.
-* **Activités de profilage** : SEAT vous enverra des informations sur les produits et services fournis par SEAT adaptés à votre profil. Pour ce type d'activités, il sera nécessaire de combiner vos données avec des sources internes et, parfois, externes.
+**5.2. Services d’appel d’urgence**
 
-La base légale pour le traitement de vos données à caractère personnel à ces fins est votre **consentement**, conformément à l'article 6.1.a du RGPD. Vous pouvez gérer ou révoquer votre consentement à tout moment sur le portail SEAT ID : [seatid.vwgroup.io/account](https://seatid.vwgroup.io/account) ou en envoyant un e-mail à [customercare@seat.es](mailto:customercare@seat.es) / [customercare@cupraofficial.com](mailto:customercare@cupraofficial.com), selon la marque de votre voiture. Le retrait de votre consentement n'affectera pas la licéité du traitement basé sur le consentement avant son retrait.
+Le « Service d’appel d’urgence » fonctionne dans les modes en ligne et hors ligne, et il est disponible dans le véhicule même si aucun service mobile en ligne n’a été acheté pour celui-ci. Si vous êtes impliqué dans un accident de la route, un appel d’urgence automatique est envoyé au centre de contrôle et de secours. Des capteurs dans l’airbag et le prétensionneur de ceinture de sécurité permettent au véhicule de détecter lorsqu’un accident s’est produit et donc d’activer le « Service d’appel d’urgence » prévu par la loi. Vous pouvez également signaler manuellement votre propre appel d’urgence à tout moment. Une fois activé, une connexion vocale est établie avec le centre de contrôle et de secours, à travers laquelle, et en fonction de chaque cas, des données supplémentaires peuvent être demandées et transmises (par ex. sur le type et la gravité de l’accident).
 
-**3.4. Divulgation des données à l'importateur SEAT ou au partenaire de services SEAT / CUPRA**
+Données à caractère personnel traitées :
 
-* **Divulgation à l'importateur SEAT :** SEAT divulguera vos données à caractère personnel à l'importateur afin de vous envoyer des offres et des promotions spéciales adaptées à votre profil concernant les services et produits susceptibles de vous intéresser. Par le biais de la divulgation, l'importateur SEAT deviendra le responsable du traitement. Vous pourrez donc exercer vos droits conférés par le RGPD et les lois locales sur la protection des données en suivant les instructions fournies par l'importateur.
-* **Divulgation au partenaire de services SEAT / CUPRA :** en fonction du modèle de votre véhicule et si vous avez sélectionné votre partenaire de services SEAT / CUPRA préféré, SEAT divulguera votre identification personnelle, vos coordonnées et les données du véhicule telles que les niveaux d'huile, le kilométrage ou son état au Service SEAT/CUPRA afin de se conformer aux objectifs suivants :
-* Demander et gérer les rendez-vous.
-* Gérer les alertes de votre véhicule pour le conserver dans les conditions fixées par SEAT en tant que constructeur automobile. Ces types d'alertes peuvent être :
-    * Alertes rouges ou de voiture immobilisée où SEAT, par le biais du service d'assistance routière inclus dans la garantie de votre voiture, vous aidera en vous offrant le service de remorquage pour vous rendre chez le partenaire de services SEAT le plus proche.
-    * Alertes automatiques à votre partenaire de services préféré : les niveaux d'huile et le kilométrage seront communiqués au partenaire de services SEAT / CUPRA pour assurer un entretien adéquat de la voiture. Le partenaire de services SEAT / CUPRA peut vous appeler pour vous informer de la nécessité de l'inspection afin de se conformer aux normes du constructeur automobile et de sécurité.
-    * Alerte modifiée : les alertes moins importantes telles qu'un problème avec vos pneus ou vos feux ou tout témoin d'avertissement pertinent qui apparaît dans le véhicule peuvent être divulguées à votre partenaire de services SEAT/CUPRA qui sera autorisé à vous contacter et, si vous êtes intéressé(e), à planifier un rendez-vous afin de résoudre le problème du véhicule.
+* VIN
+* Données de référence du véhicule
+* Localisation (GPS/emplacement).
+* Nombre de personnes dans le véhicule.
 
-La base légale pour le traitement de vos données à caractère personnel à ces fins est votre **consentement**, conformément à l'article 6.1.a du RGPD. Si vous avez donné votre consentement à la divulgation de vos données à l'importateur SEAT ou au partenaire de services SEAT/CUPRA et que vous souhaitez le retirer, vous devez vous adresser à l'importateur ou au partenaire de services SEAT/CUPRA en tant que responsable du traitement de ces communications. Vous pouvez également révoquer ce consentement via l'application SEAT CONNECT / CUPRA CONNECT en désactivant l'option de partenaire de services préféré. Le retrait de votre consentement n'affectera pas la licéité du traitement basé sur le consentement avant son retrait.
+Bases légales : Protection des intérêts vitaux (Art. 6.1.d. du RGPD), ainsi que conformité à une obligation légale (Art. 6.1.c du RGPD).
 
-**3.5 Traitement des activités relatives à la sécurité et conformité de votre véhicule connecté**
+**5.3. Services en ligne (CONNECT)**
 
-SEAT surveillera l’état et les alertes transmis par votre véhicule afin de garantir certains aspects liés à la sécurité, ainsi que pour détecter de possibles défaillances, les analyser, et proposer et appliquer des améliorations et des solutions. Une fois rassemblées, ces données peuvent être associées à des données de production technique et à des visites antérieures au garage afin de tirer des conclusions importantes pour la sécurité et le fonctionnement correct du véhicule. Des mesures de sécurité appropriées seront appliquées à tout moment afin de garantir la sécurité des données traitées, comme par ex. leur anonymisation, sauf s’il s’avère nécessaire pour la Société de traiter le VIN. La base légale de ce traitement des données est l’intérêt légitime de la Société (art. 6.1.f du RGPD) en tant que constructeur du véhicule et fournisseur du service CONNECT, afin de détecter des défaillances affectant la sécurité et la qualité du produit et du service, et supposant par là même un avantage direct pour l’utilisateur. Sans accès à ces informations, SEAT serait incapable de détecter des défaillances et des améliorations. Concernant ce traitement, la Société a déterminé l’existence de raisons légitimes et impérieuses, indiquées à l’article 21.1 du RGPD, empêchant la personne concernée d’exercer son droit d’opposition.
+CONNECT offre aux utilisateurs une vaste série de fonctions en ligne multimédias, vocales et de navigation. Citons par exemple l’état du véhicule, sa localisation, des alertes d’entretien, des itinéraires et destinations, etc. Vous trouverez plus d’informations sur les types de services et les conditions d’utilisation de la licence CONNECT dans les conditions générales applicables. Pour activer et utiliser les Services en ligne CONNECT, vous devrez créer un compte ID utilisateur, télécharger l’application pour véhicule et y inscrire ce dernier. Une fois devenu l’utilisateur principal, vous pouvez approuver d’autres utilisateurs de la voiture pouvant également se connecter et utiliser certains des services. Si le véhicule est utilisé avec les services mobiles en ligne activés, nous traitons des données à caractère personnel provenant du véhicule aux fins des services fournis. Lorsque vous utilisez des services mobiles en ligne, le véhicule communique avec notre serveur de données. Les paramètres de confidentialité vous permettent d’activer ou désactiver la connexion et, donc, le traitement et le mode de traitement des données à caractère personnel issues des services en ligne. (En particulier l’utilisation et le partage de la localisation GPS du véhicule). Chaque utilisateur peut également activer et désactiver individuellement les services. Par exemple, avant même de passer à un autre niveau de confidentialité, il est possible de sélectionner les services à activer et désactiver pour ce niveau. Pour plus d’informations sur les services en ligne disponibles dans votre véhicule, veuillez consulter notre site Web officiel ou nous contacter via notre Service client.
 
-**3.6. Traitement d’activités relatives à l’optimisation et au développement des fonctions du véhicule, ainsi qu’à l’utilisation de services connectés**
+Données à caractère personnel traitées :
 
-Afin d’optimiser et d’améliorer les fonctions de votre véhicule et de les adapter aux attentes des clients et aux évolutions du marché en général, et en particulier pour obtenir de nouveaux développements de fonctions innovantes, votre véhicule génère diverses données techniques et fonctionnelles (par exemple des données liées à l’utilisation du véhicule, la consommation de carburant, l’état, le contrôle et l’infodivertissement). Ces informations seront associées à votre VIN et à l’IP de votre véhicule. SEAT n’utilisera pas ces données pour créer des profils ou pour les évaluer sur la base de véhicules individualisés. De même aucun attribut de données ne sera utilisé pour créer des profils ou tirer des conclusions sur votre comportement ou des modèles de comportement au cours de l’utilisation de votre véhicule. Une fois ces informations collectées, des mesures de sécurité appropriées seront appliquées pour garantir la sécurité des données traitées, dont leur anonymisation, sauf s’il s’avère nécessaire pour la Société de traiter le VIN. SEAT traitera les données précédentes dans le cadre d’activités limitées dans le temps afin d’optimiser la gamme de fonctions du véhicule et de les adapter aux attentes du client, tout en protégeant ses intérêts légitimes ou ceux d’un tiers, sauf dérogation par les intérêts ou les droits et libertés fondamentaux imposant la protection des données personnelles (art. 6.1.f du RGPD). Vous pouvez désactiver la transmission de données dans les paramètres de confidentialité de votre véhicule. Si vous souhaitez vous opposer définitivement au traitement de vos données personnelles, veuillez contacter notre service clients.
+* VIN
+* Données d’identification
+* Données de compte utilisateur
+* Données de contrat
+* Localisation (GPS/emplacement)
+* Alertes du véhicule et données des capteurs : vitesse, localisation, informations routières, état de charge de la batterie, capteurs du véhicule, etc.
+* Paramètres du véhicule et fonctions d’infodivertissement
+* Utilisation d’applications, de dispositifs et de services en ligne
 
-**3.7. Services et applications de tiers**
+Bases légales : Exécution du contrat CONNECT (Art. 6.1.b du RGPD), pour l’utilisateur principal et tous les autres utilisateurs, notre intérêt légitime dans la mise à disposition des services en ligne pour tous les utilisateurs autorisés par le principal (Art. 6.1.f du RGPD).
 
-Vous pouvez connecter votre Smartphone au véhicule afin de le contrôler à travers le système intégré (en utilisant des applications telles que Android Auto ou Apple CarPlay). L’intégration permet l’utilisation d’applications Smartphone sélectionnées. Le type de traitement des données réalisé est défini par le fournisseur de chaque application respective. Vous trouverez plus d’informations et pourrez configurer la sélection à travers l’application correspondante et le système d’exploitation de votre Smartphone. En outre, dans certains cas vous pourrez utiliser des applications sous la responsabilité de tiers, par exemple Google ou Spotify, entre autres, en combinaison avec les services de divertissement proposés par la Société via les services CONNECT. La Société ne pourra être tenue responsable de ce traitement.
+**5.4. Processus d’identification et AutoIdent**
 
-Véhicule étendu : cette fonction vous permet, en tant qu’Utilisateur principal, d’autoriser des tiers (par ex., compagnies d’assurance, garages, stations-service, opérateurs de station de recharge…) à accéder aux données télématiques du véhicule (par ex., kilométrage, emplacement, état des composants du véhicule, etc.) pour obtenir des services supplémentaires. Ces données sont générées par le véhicule dans le cadre de l’activation et de l’utilisation des services CONNECT et sont stockées dans des applications dorsales de SEAT. Exigence préalable : **vous devez avoir autorisé explicitement l’accès au partage des données au tiers correspondant sur le** [**site web des Autorisations étendues** **SEAT/CUPRA**](https://consent-management.prod.code.seat.cloud.vwgroup.com/). Ces tiers doivent accéder à ces données pour vous proposer des services et frais spécifiques (par ex., tarifs télématiques). Tous les cas d’utilisation applicables et données correspondantes seront disponibles dans le site web des Autorisations étendues SEAT. **Le tiers est indépendamment responsable du traitement des données. Veuillez contacter directement le tiers et consulter ses conditions d’utilisation et politique de confidentialité avant d’autoriser l’accès aux données**. Vous pouvez donner ou retirer votre autorisation de partage simplement en cliquant [ici](https://consent-management.prod.code.seat.cloud.vwgroup.com/). D’autres utilisateurs du véhicule peuvent vous demander directement, en tant qu’Utilisateur principal, des informations relatives au Véhicule élargi. Chaque utilisateur du véhicule est en mesure de désactiver le rassemblement d’informations dans le véhicule via ses paramètres de confidentialité. Si l’Utilisateur principal modifie la confidentialité en configurant un mode empêchant le rassemblement ou le partage d’informations avec des tiers, aucune autre donnée ne sera envoyée au tiers, ce qui pourrait limiter les services et frais offerts et imposés. Les données sont divulguées par SEAT au tiers correspondant dans le cadre d’un contrat ou lors de ses étapes préalables, dans la mesure où elles sont nécessaires (article 6.1.b du RGPD) pour vous en tant qu’Utilisateur principal. Pour les utilisateurs secondaires et invités, le transfert de données est nécessaire dans le cadre des intérêts légitimes recherchés par SEAT/CUPRA ou un tiers. L’objectif est de permettre aux tiers de proposer des services individuels et personnalisés à l’Utilisateur principal, en tant qu’utilisateur habituel du véhicule.
+Un contrôle d’identité est nécessaire avant d’utiliser les services mobiles en ligne donnant accès au véhicule (tel que « Verrouillage & Déverrouillage ») AutoIdent est une solution d’identification qui vous permet de vous identifier en ligne et en temps réel. Vos données biométriques doivent être traitées à ces fins. Vous devrez importer un document d’identification lisible à la machine, comme une carte d’identité, un passeport ou un permis de conduire (selon les exigences s’appliquant au pays du client) et enregistrer un court selfie vidéo. Le logiciel AutoIdent vérifie alors automatiquement l’authenticité du document et la compare avec la vidéo pour s’assurer que vous êtes la personne qui souhaite être identifiée. Une fois votre identité validée, vous pourrez vérifier votre identité en ligne et utiliser des services mobiles en ligne, comme ceux permettant l’accès au véhicule. Des données seront conservées aux fins de preuve et effacées au plus tard après trente (30) jours.
 
-**4\. Qui sont les destinataires de vos données à caractère personnel ?**
+Données à caractère personnel traitées :
 
-La divulgation à des tiers de vos données à caractère personnel et de celles relatives à votre véhicule aura uniquement lieu dans les cas suivants :
+* Données de compte
+* Données biométriques
 
-a) Conformément aux obligations légales correspondantes. SEAT, en tant que constructeur autorisé du véhicule, sera tenue, à la demande des autorités compétentes, de traiter et signaler certaines données stockées dans le véhicule et qui concernent son propriétaire. Certaines de ces obligations peuvent naître de l’enquête d’infractions, d’accidents de la circulation, du contrôle de ventes d’occasion, etc. Des données relatives au fonctionnement, à l’utilisation, au contrôle et à l’état du véhicule peuvent donc être divulguées, de même que des informations techniques associées à son VIN, comme par exemple : kilométrage, vitesse, accélération, contrôle de navigation, état des ceintures de sécurité, conditions environnementales, états de la batterie, des niveaux et de la pression, etc. Le traitement des données et leur notification aux Autorités entrent dans le cadre de la conformité de SEAT à une obligation légale (art. 6.1.1.c du RGPD) en tant que constructeur du véhicule.
+En guise d’alternative, le processus d’identification peut être réalisé sur site auprès de n’importe quel atelier autorisé offrant ce service. Sur site, notre atelier d’entretien autorisé aura besoin de votre permis de conduire pour contrôler et comparer vos données.
 
-b) Dans certains cas d’entretien et de réparation du véhicule, il peut s’avérer nécessaire pour SEAT de traiter des données relatives à la consommation de carburant et au fonctionnement de votre véhicule et liées à son VIN. Ces données peuvent être traitées par SEAT, par le réseau d’entretien (concessionnaires et garages) ou par des tiers (centres de dépannage) au cours de la période de garantie légale de votre véhicule. SEAT peut traiter ces données et les divulguer à des Sociétéstierces (garages et concessionnaires) lors de campagnes de rappel dans le cadre d’une obligation légale (art. 6.1.1.c du RGPD), en tant que constructeur du véhicule.
+Bases légales : Votre consentement préalable via l’application SEAT ou CUPRA (Art. 6.1.a et 9.2.a du RGPD).
 
-c) Si cela est nécessaire pour l'exécution du contrat et, en particulier, pour offrir les Services de SEAT CONNECT / CUPRA CONNECT.
+**5.5. Customer Interaction Centre (Service client)**
 
-d) De même, certaines fonctionnalités de SEAT CONNECT / CUPRA CONNECT sont fournies par des tiers, comme Google, dans le cas de l'utilisation de la fonctionnalité de carte. Dans ce cas, ces tiers peuvent traiter vos données à caractère personnel en tant que responsable du traitement, qui sont soumis aux politiques de confidentialité respectives accessibles via l'application correspondante dans chaque cas. En guise d’étape préliminaire avant d’utiliser ces services, vous devez lire attentivement et accepter les Conditions d’utilisation et la Politique de confidentialité des prestataires de services respectifs.
+En guise d’alternative, le processus d’identification peut être réalisé auprès de n’importe quel atelier autorisé offrant ce service. Notre atelier d’entretien autorisé aura besoin de votre permis de conduire pour contrôler et comparer vos données. En cas de doute ou pour toute demande concernant nos produits ou services numériques, veuillez contacter le Customer Interaction Centre (« CIC ») pour nos applications, services et sites Web (par ex. par voie postale, courrier électronique, formulaire de contact ou téléphone).
 
-Enfin, SEAT donnera accès à vos données à des tiers tels que Volkswagen AG et des fournisseurs de services informatiques, agissant en tant que responsables du traitement des données et sous-traitants dans le but de pouvoir offrir certaines fonctions et services en ligne liés à votre véhicule. SEAT utilise des serveurs de données fournis par le groupe Volkswagen, qui assure également la maintenance et l'assistance technique des systèmes informatiques. Ces tiers, ainsi que les fournisseurs de Volkswagen AG, traiteront toujours les données à caractère personnel en notre nom et conformément à nos instructions. Enfin, nous vous informons que la Société peut communiquer vos données à des sociétés du groupe VW dans le but d'optimiser les processus et les canaux de vente et d'après-vente internes au groupe.
+Données à caractère personnel traitées :
 
-Ce traitement est fondé sur la sauvegarde de nos intérêts légitimes et dans votre intérêt en tant que client de nos voitures.
+* Données d’identification
+* Données de compte
+* Coordonnées
+* Données relatives au pays / à la langue
 
-**5\. Vos données à caractère personnel sont-elles envoyées en dehors de l’Union européenne ?**
+Bases légales : Notre intérêt légitime (article 6.1.f du RGPD) pour gérer vos demandes et vous contacter pour répondre à votre demande, question ou réclamation spécifique.
 
-L’ensemble du processus de traitement de vos données est réalisé au sein de l’espace économique européen et il fait l’objet du même niveau de protection qu’au sein de l'Espace économique européen. En outre, selon le modèle de véhicule, les données peuvent être traitées sur des serveurs dont les services sont sous-traités en dehors de l'Espace économique européen, ce qui garantit le traitement de vos données avec les garanties correspondantes. En ce sens, nous vous informons que notre Société, en tant que membre du groupe VW, a passé un contrat de services d'hébergement de données avec certains sous-traitants, dont SalesForce, Inc. Amazon Web Services (AWS) et Microsoft Corporation. Ces sociétés chiffrent les données et les traitent exclusivement sur des serveurs de données situés dans l'Union européenne. Étant donné que ces Sociétés sont basées aux États-Unis d'Amérique, l'accès aux données à partir des États-Unis d'Amérique ne peut être exclu et, par conséquent, des clauses contractuelles types de l'Union européenne relatives à la protection des données ont été signées afin de garantir que vos données à caractère personnel sont suffisamment protégées. Si vous souhaitez obtenir une copie de ces clauses ou si elles ont été mises à votre disposition, veuillez nous contacter à l'adresse [dataprotection@seat.es](mailto:dataprotection@seat.es).
+**5.6. Mises à jour du véhicule**
 
-**6\. Combien de temps conservons-nous vos données à caractère personnel ?**
+Afin de garantir l’utilisation à long terme du système d’infodivertissement du véhicule, de maintenir les applications embarquées préinstallées dans l’état actuel de la technique et de résoudre les écarts logiciels et techniques, le véhicule doit recevoir régulièrement des mises à jour à distance en ligne. Pour cela, nous devons accéder aux données de référence du véhicule. Ces mises à jour requièrent une confirmation finale pour le téléchargement et l’installation, à moins que vous ayez choisi l’option de réception automatique des téléchargements logiciels dans l’application. Le système d’infodivertissement ne sera pas totalement opérationnel et illimité avant la fin du processus de mise à jour. Les données seront conservées de manière anonyme après traitement, sans conclusions individualisées. Vous pouvez bloquer ces mises à jour en choisissant le mode hors ligne.
 
-SEAT conservera vos données à caractère personnel générées par les systèmes SEAT CONNECT / CUPRA CONNECT aussi longtemps que nécessaire pour vous fournir les fonctionnalités incluses dans SEAT CONNECT / CUPRA CONNECT et, dans tous les cas, jusqu'à ce que vous demandiez leur suppression. SEAT conservera vos données pendant la durée de la relation contractuelle avec le client et, après achèvement, pendant une période maximale de 10 ans selon les dispositions légales locales.
+Données à caractère personnel traitées :
 
-En ce qui concerne les données générées par le véhicule et envoyées au serveur de données pour la recherche et le développement de la conduite automatisée, une fois collectées, leur qualité est contrôlée puis elles sont immédiatement anonymisées. Les données sont conservées pendant 24 heures maximum à des fins d'anonymisation. Les données d'origine sont alors complètement supprimées du véhicule. La procédure d'anonymisation est examinée pour contrôler son efficacité et son efficience et est développée en permanence en tenant compte des dernières connaissances scientifiques et de l'état de l'art.
+* VIN
+* Données de référence du véhicule
 
-De plus, SEAT informe que, comme vos données à caractère personnel seront stockées dans votre compte SEAT / CUPRA ID, si vous demandez l'effacement des données SEAT CONNECT / CUPRA CONNECT, vos données à caractère personnel ne seront pas supprimées de votre compte SEAT ID / CUPRA ID, car vous pourriez avoir d'autres services numériques de SEAT associés. Cependant, vous pouvez, à tout moment, gérer vos données et vos paramètres de confidentialité sur [https://seatid.vwgroup.io/](https://seatid.vwgroup.io/).
+Bases légales : Notre intérêt légitime dans la mise à disposition des mises à jour à distance en ligne, afin de résoudre les écarts techniques du véhicule, vise à assurer la conformité du véhicule (Art. 6.1.f du RGPD) et votre consentement spécifique (Art. 6.1.a du RGPD), si vous êtes enregistré dans la voiture et que vous choisissez l’option de recevoir et télécharger des mises à jour automatiques du véhicule.
 
-Dans tous les cas, SEAT conservera vos données pour nous conformer à toutes les exigences légales en Espagne correspondant à chaque catégorie de données.
+**5.7. Développements et innovations du véhicule**
 
-**7\. Paramètres d’utilisateurs et de confidentialité**
+Nous analyserons les informations et les données relatives aux systèmes du véhicule dans le but d’améliorer certains services et fonctions tels que la conduite semi-automatique, les fonctionnalités avancées d’aide à la conduite, les services et l’infrastructure de recharge électrique, ainsi que le système d’infodivertissement et de médias du véhicule. Pour cela nous rassemblerons vos données à partir de campagnes spécifiques d’une durée et d’un champ d’application préalablement définis. Nous n’utiliserons pas ces données pour créer des profils ou les évaluer à partir de véhicules individualisés. D’autre part, aucun attribut de données ne sera utilisé pour créer des profils, dresser des conclusions quant à votre comportement, ou des modèles de comportement pendant l’utilisation de votre véhicule. Une fois cette information obtenue, des mesures de sécurité appropriées seront appliquées afin de garantir la sécurité des données traitées. Cela inclut, dans la mesure du possible, leur anonymisation ou pseudo-anonymisation, sauf nécessité absolue pour des raisons impératives.
 
-Les services en ligne sont disponibles pour différents utilisateurs pouvant utiliser le véhicule. Vous pouvez vous connecter en tant qu’utilisateur principal, secondaire, invité ou anonyme, selon la génération du véhicule et la sélection de fonctions et applications souhaitée. Veuillez noter que pour profiter de tous les services et fonctions, vous devez vous connecter en tant qu’utilisateur principal ou secondaire et acheter la licence CONNECT. Le traitement de vos données personnelles est principalement validé par l’exécution de la licence et du contrat pour les services CONNECT (art. 6.1.b du RGPD). Si vous accédez en tant qu’utilisateur invité, la base légale pour le traitement de vos données repose sur l’intérêt légitime de vous offrir les services CONNECT (art. 6.1.f du RGPD). Enfin, si vous le faites en tant qu’utilisateur anonyme, SEAT ne traitera aucune information personnelle.
+Données à caractère personnel traitées :
 
-En outre, les modes de confidentialité de la voiture vous permettent, selon le véhicule, de sélectionner le mode souhaité, et vous pouvez même totalement limiter l’accès et l’envoi de données à partir des services. Veuillez noter que d'autres utilisateurs invités connectés à ce véhicule peuvent voir votre position de stationnement ou vos préférences de réglage. **Vous pouvez gérer les utilisateurs et les paramètres de confidentialité via l'Infodivertissement du véhicule.** Dans tous les cas, une communication peut être établie pour assurer l'accès général du véhicule à Internet ou, en cas d'accident, pour l'activation du « système eCall ».
+* VIN
+* Localisation GPS/Emplacement
+* Données de référence du véhicule
+* Capteurs et indicateurs du véhicule
 
-**8.** **Quels sont vos droits et canaux de contact ?**
+Bases légales : Votre consentement préalable à travers les services de l’application (Art. 6.1.a du RGPD).
 
-**8.1. Définition des droits**
+**5.8. Alertes, entretien et conformité du véhicule**
 
-Vous pouvez exercer les droits suivants en votre qualité de personne concernée :
+Nous surveillerons l’état du véhicule et les alertes transmises par celui-ci afin de garantir des aspects liés à la sécurité, mais également de détecter d’éventuelles erreurs, de les analyser, de proposer et d’appliquer des améliorations et des solutions. Une fois obtenues, ces données peuvent être associées à des données de production techniques et à des visites précédentes au garage, afin de dresser des conclusions importantes pour la sécurité et le fonctionnement correct du véhicule. Des mesures de sécurité appropriées seront appliquées afin de garantir la sécurité des données traitées, comme leur anonymisation, sauf nécessité absolue pour des raisons impératives. En outre, ces données peuvent être traitées par nos soins, ainsi que par l’Importateur de votre pays en cas d’incidents sur la route ou d’entretien du véhicule et peuvent être communiquées au Réseau de service officiel (concessionnaires et garages) et à d’autres tiers tels que les compagnies d’assurance (en cas d’accidents ou de pannes) pour la gestion des services, des réparations et des activités d’assistance.
 
-* **Accès** : Vous pouvez obtenir des informations si SEAT traite vos données à caractère personnel, et consulter vos données à caractère personnel figurant dans les fichiers et serveurs SEAT.
-* **Rectification** : Vous pouvez modifier vos données à caractère personnel lorsqu'elles sont inexactes et compléter celles qui sont incomplètes.
-* **Effacement** : Vous pouvez demander la suppression de vos données à caractère personnel lorsque, entre autres raisons, les données ne sont plus nécessaires aux fins auxquelles elles ont été collectées.
-* **Objection** : Vous pouvez demander que vos informations personnelles ne soient pas traitées. SEAT cessera de traiter les données, sauf pour des raisons légales impérieuses, ou pour l'exercice ou la défense d'éventuelles réclamations.
-* **Limitation du traitement** : Vous pouvez demander la limitation du traitement de vos données à caractère personnel dans les cas suivants :
-    * Si vous avez contesté l'exactitude de vos données à caractère personnel, pendant que votre demande est vérifiée ;
-    * Si le traitement des données est illégal, lorsque vous vous opposez à la suppression de vos données et demandez la limitation de leur utilisation ;
-    * Lorsque SEAT n'a pas besoin de traiter vos données, mais que vous en avez besoin pour l'exercice de la défense de réclamations ;
-    * Lorsque vous vous êtes opposé(e) au traitement de vos données à caractère personnel pour l'accomplissement d'une mission d'intérêt public ou pour la satisfaction d'un intérêt légitime, pendant qu'il est vérifié que les raisons légitimes du traitement prévalent sur les vôtres.
-* **Portabilité** : Vous pouvez recevoir, sous forme électronique, les données à caractère personnel que vous nous avez fournies ainsi que celles obtenues par le biais de votre relation contractuelle avec SEAT, et les transmettre à une autre société.
+Données à caractère personnel traitées :
 
-Si vous considérez que SEAT n'a pas traité vos données à caractère personnel conformément à la loi applicable, vous pouvez introduire une réclamation auprès de l'autorité de contrôle compétente, [www.aepd.es](https://www.aepd.es/).
+* VIN
+* Données de référence du véhicule
+* Capteurs et indicateurs du véhicule
 
-**8.2. Canaux de contact**
+Bases légales : Votre consentement préalable à travers les services de l’application (Art. 6.1.a du RGPD).
 
-Vous pouvez gérer vos données à caractère personnel concernant les services SEAT CONNECT / CUPRA CONNECT à tout moment sur le portail SEAT ID / CUPRA ID : [seatid.vwgroup.io/account](https://seatid.vwgroup.io/account) ou en soumettant une demande écrite à SEAT, S.A. , Autovía A-2 Km. 585, Martorell (Barcelone, Espagne) ou à l'adresse e-mail suivante [customercare@seat.com](mailto:customercare@seat.com) ou [customercare@cupraofficial.com](mailto:customercare@cupraofficial.com) selon la marque de votre véhicule. Vous devez préciser le droit que vous souhaitez exercer. L'exercice de ces droits est gratuit.
+**5.9. Fraude, conformité légale et fiscale**
 
-Si vous souhaitez exercer vos droits de protection des données auprès de l'importateur SEAT ou du partenaire de services SEAT, veuillez les contacter directement.
+Nous traitons vos données afin d’aider les autorités policières, en cas de vol, à localiser les véhicules, à prévenir les fraudes et le blanchiment d’argent, à prévenir, contrôler et enquêter sur le financement terroriste et les infractions pénales compromettant les actifs, à comparer les listes anti-terroristes européennes et internationales, à respecter les obligations de contrôle et de signalement dans le cadre des lois environnementales, fiscales ou numériques/de protection du consommateur, à archiver les données et, dans le cadre des mesures officielles/judiciaires, aux fins de rassemblement de preuves, d’application de la loi et d’exécution des poursuites civiles. En tant que constructeurs, nous utilisons également des données de fonctionnement issues du véhicule pour des questions de responsabilité, comme les rappels de véhicules. Ces données peuvent également être utilisées pour examiner les réclamations sous garantie et les demandes de garantie de la part des clients.
 
-Si vous avez des doutes sur la protection des données, ou souhaitez contacter le délégué à la protection des données (« DPD »), vous pouvez également contacter le délégué à la protection des données de notre entreprise en envoyant un e-mail à [dataprotection@seat.es](mailto:dataprotection@seat.es).
+Données à caractère personnel traitées :
 
-Version : Septembre 2023
+* Données d’identification
+* Données de compte
+* Coordonnées
+* Données relatives au pays / à la langue
+
+Bases légales : Respect des obligations légales (Art. 6.1.c du RGPD), en tant que constructeur automobile, ainsi que notre intérêt légitime (Art. 6.1.f du RGPD) pour garantir une acquisition sûre de nos produits.
+
+**5.10. Analyse des données et licences de données**
+
+Nous pouvons traiter vos données et les communiquer aux entités du groupe Volkswagen aux fins de contrôle qualité et d’optimisation de nos ventes internes au groupe et de nos processus et canaux après-vente (par exemple pour créer de nouveaux produits de données). Une fois cette information obtenue, des mesures de sécurité appropriées seront appliquées afin de garantir la sécurité des données traitées. Cela inclut, dans la mesure du possible, leur anonymisation ou pseudo-anonymisation, sauf nécessité absolue pour des raisons impératives.
+
+Données à caractère personnel traitées :
+
+* VIN
+* Données de référence du véhicule
+* Localisation (GPS/emplacement)
+* Alertes du véhicule et données des capteurs
+
+Bases légales : Notre intérêt légitime (Art. 6.1.f du RGPD) pour optimiser nos processus après-vente, ainsi que l’exécution des mesures contractuelles (Art. 6.1.c du RGPD). Pour plus d’informations, veuillez nous contacter à l’adresse [dataprotection@seat.es](mailto:dataprotection@seat.es)
+
+**6\. INTELLIGENCE ARTIFICIELLE**
+
+SEAT/CUPRA tire profit de la puissance de l’intelligence artificielle (IA) dans bon nombre de ses produits et services. Nous pouvons utiliser l’intelligence artificielle (IA) et des technologies de Machine learning dans divers aspects des services liés au véhicule afin de proposer un contenu plus efficace et personnalisé. L’IA nous permet d’analyser des données efficacement et d’améliorer l’expérience utilisateur, en perfectionnant la fonctionnalité de certains services tels que la maintenance prédictive en ligne, le contrôle vocal en ligne ou l’authentification à distance (AutoIdent) du véhicule.
+
+L’utilisation et l’application de l’IA, ainsi que la collecte et l’utilisation des données à caractère personnel sont soumises au cadre légal et de conformité européen applicable. Nous appliquons des mesures de sécurité technique et organisationnelle afin de nous assurer que les données traitées par nos technologies IA sont protégées contre l’accès non autorisé, les altérations, la divulgation ou la destruction.
+
+**7\. CONSERVATION DES DONNÉES**
+
+Nous conservons vos données aussi longtemps que nécessaire afin de répondre aux fins de traitement des données à caractère personnel tel que décrit dans cette politique de confidentialité (par ex. en vous fournissant nos services en ligne, tant que nous avons un intérêt légitime à le faire, ou afin de respecter une obligation légale). Nous conservons uniquement les données dont nous avons besoin aux fins correspondantes. Dès que des données à caractère personnel ne sont plus utiles aux fins pour lesquelles elles ont été rassemblées, nous anonymisons ou pseudo-anonymisons les données qui sont traitées au-delà de l’offre de nos services, jusqu’à leur suppression. Dans certains cas, il peut s’avérer nécessaire de conserver vos données plus longtemps, par exemple à des fins juridiques en lien avec une procédure administrative ou judiciaire.
+
+Dans le cadre de l’appartenance au Volkswagen Group (VW), nous utilisons des serveurs de données fournis par le Volkswagen Group, qui propose également une assistance technique et l’entretien des systèmes informatiques.
+
+**8\. DESTINATAIRE DES DONNÉES**
+
+Dans le cadre de l’appartenance au Volkswagen Group, nous donnons accès à vos données à d’autres sociétés VW et à des tiers, tels que des prestataires de services informatiques, agissant en tant que sous-traitants des données et sous-traitants ultérieurs, dans le but d’offrir certaines fonctions et services en ligne liés à votre véhicule.
+
+**Services tiers :** Vous devez pouvoir connecter votre smartphone au véhicule afin de le contrôler via le système embarqué (en utilisant des applications comme Android Auto ou Apple CarPlay). Cette intégration permet d’utiliser des applications smartphone sélectionnées. Ce traitement des données est défini par le fournisseur de l’application correspondante. Des informations complémentaires sont disponibles dans l’application correspondante et/ou dans le système d’exploitation de votre smartphone. En outre, selon certaines prémisses, vous pouvez également utiliser des applications dont des tiers sont responsables, par exemple Google, Spotify, Apple, etc.
+
+Nous pourrons également communiquer les données de votre véhicule et vos données à caractère personnel à notre Réseau de service et concessionnaires, agissant en tant que responsables indépendants du traitement des données, dans les cas suivants :
+
+* Rappels de véhicules : Dans certains cas, couverts par la loi, comme les réparations et rappels juridiques de véhicules.
+    
+* Maintenance du véhicule en ligne : Si vous avez volontairement choisi un concessionnaire ou service officiel dans l’application, il pourra recevoir des alertes d’entretien automatiques concernant votre véhicule, dont des alertes spécifiques aux modèles prédictifs du véhicule, afin de détecter les interventions d’entretien correspondantes et programmer un rendez-vous d’entretien avec vous.
+    
+* Conclusion du processus de vente : Si vous avez été conseillé par votre partenaire de service, une fois votre contrat pour des services mobiles en ligne conclu, ce dernier recevra une prime. Celle-ci est traitée par la société de distribution (l’importateur dans votre pays) responsable de votre pays. C’est pour cette raison que le partenaire de service et l’importateur reçoivent le VIN pour assigner les primes aux contrats respectifs et recevoir le paiement correspondant. (art. 6.1. f du RGPD).
+    
+
+**9\. TRANSFERTS DE DONNÉES**
+
+En général, l’ensemble du processus de traitement de vos données est réalisé au sein de l’espace économique européen ou il reçoit le même niveau de protection que dans l'Espace économique européen. En ce sens, nous vous informons que notre Société, en tant que membre du groupe VW, a passé un contrat avec quelques sous-traitants, dont SalesForce, Inc. Amazon Web Services (AWS) et Microsoft Corporation afin de fournir des services d'hébergement de données. Ces sociétés chiffrent les données et les traitent exclusivement sur des serveurs de données situés dans l'Union européenne. Ces établissements se trouvant aux États-Unis, l’accès aux données depuis les États-Unis ne peut pas être exclu. Les États-Unis ont donc été déclarés comme offrant un niveau de protection conforme à la Commission européenne et ces établissements sont membres du cadre juridique de protection des données. Pour plus d’information, veuillez suivre ce lien : [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+**10\. DROITS SUR LA PROTECTION DES DONNÉES**
+
+Droit d’accès : Vous pouvez obtenir la confirmation que SEAT/CUPRA traite vos données à caractère personnel et consulter vos données à caractère personnel figurant dans nos fichiers.
+
+Droit de rectification : Vous pouvez modifier vos données à caractère personnel si elles sont inexactes et les compléter si elles sont incomplètes.
+
+Droit d’effacement : Vous pouvez demander la suppression ou l'effacement de vos données à caractère personnel lorsque, entre autres raisons, les données ne sont plus nécessaires aux fins pour lesquelles elles ont été collectées.
+
+Droit d’opposition au traitement : Vous pouvez demander que vos données à caractère personnel ne soient pas traitées. SEAT/CUPRA cessera de traiter les données, sauf pour des raisons légitimes et impérieuses, ou pour l’exercice ou sa défense lors de réclamations éventuelles.
+
+Droit de limitation du traitement : Vous pouvez demander la limitation du traitement de vos données dans les cas suivants :
+
+* Lorsque l’exactitude de vos données est contestée ;
+* Lorsque le traitement est illégal, vous vous opposez à l'effacement de vos données et demandez la limitation de leur utilisation ;
+* Lorsque SEAT/CUPRA n’a pas besoin de traiter vos données, mais que vous en avez besoin pour exercer ou vous défendre lors de réclamations éventuelles ;
+* Lorsque vous vous êtes opposé au traitement de vos données pour la réalisation d’une mission d’intérêt public ou pour la satisfaction d’un intérêt légitime, en attendant de vérifier si les motifs légitimes du traitement l'emportent sur les vôtres.
+
+Droit de portabilité : Vous pouvez recevoir, au format électronique, les données à caractère personnel que vous nous avez fournies, ainsi que les données qui ont été obtenues à partir de votre relation contractuelle avec SEAT/CUPRA ; vous pouvez également les transférer à une autre entité.
+
+Droit de retrait du consentement : Si vous nous avez donné votre consentement pour traiter vos données à quelque fin que ce soit, vous avez également le droit de retirer ce consentement à tout moment.
+
+L'exercice de ces droits est gratuit, sauf en cas de demande manifestement infondée ou excessive. En cas de doutes raisonnables quant à votre identité, nous pouvons vous demander des informations supplémentaires pour confirmer votre identité et donner suite à votre droit.
+
+Remarque : Nous traitons le VIN pour offrir certaines fonctions et services liés à votre véhicule. Cela signifie que nous sommes obligés de respecter vos droits uniquement si, lorsque vous les exercez, vous nous fournissez des informations supplémentaires nous permettant de respecter vos droits, conformément à l’art. 11 du RGPD.
+
+Moyens de contact : Vous pouvez gérer votre confidentialité et vos données à caractère personnel à tout moment dans le système d’infodivertissement du véhicule et dans le portail ID utilisateur : [https://cupraid.vwgroup.io/](https://cupraid.vwgroup.io/). Si vous le préférez, vous pouvez également contacter directement [customercare@seat.com](mailto:customercare@seat.com) ou [customercare@cupraoffical.com](mailto:customercare@cupraoffical.com). Si vous souhaitez faire valoir vos droits sur la protection des données contre l’importateur ou les réseaux du concessionnaire et du partenaire de service, veuillez les contacter directement.
+
+Enfin, si vous considérez que nous n’avons pas traité vos données à caractère personnel conformément à la législation applicable, vous pouvez déposer une plainte auprès d’une autorité de surveillance, en Espagne il s’agit de l’Agence espagnole de protection des données, [www.aepd.es](http://www.aepd.es/).
+
+**11\. DÉLÉGUÉ À LA PROTECTION DES DONNÉES**
+
+En cas de doutes concernant la protection des données, ou si vous souhaitez entrer en relation avec notre délégué à la protection des données (« **DPD** »), veuillez envoyer un e-mail à [dataprotection@seat.es](mailto:dataprotection@seat.es).
+
+**12\. MODIFICATIONS DE LA POLITIQUE DE CONFIDENTIALITÉ**
+
+Nous sommes susceptibles de mettre à jour notre politique de confidentialité de temps à autre. Nous vous encourageons à consulter régulièrement la politique de confidentialité pour prendre connaissance des éventuelles modifications. Les modifications entrent en vigueur lorsqu’elles sont publiées sur notre site Internet/application.
+
+**Version : Janvier 2025**
