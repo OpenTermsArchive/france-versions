@@ -81,9 +81,9 @@
     * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-printemps-ete-2025)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [La fausse fourrure](https://www.printemps.com/fr/fr/fourrures)
-    * [Make it shine](https://www.printemps.com/fr/fr/ca-brille)
-    * [Les manteaux les plus stylés](https://www.printemps.com/fr/fr/edito-style-manteaux-hiver-2025)
+    * [Le daim](https://www.printemps.com/fr/fr/daim)
+    * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
+    * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
 * [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avp-femme)
     
@@ -285,6 +285,7 @@
     * [Voir Tout](https://www.printemps.com/fr/fr/soin)
     * [Soins Solaires](https://www.printemps.com/fr/fr/soins-solaires)
     * [Soins Visage](https://www.printemps.com/fr/fr/soins-visage)
+    * [Soins Corps](https://www.printemps.com/fr/fr/soins-corps)
     * [ComplÉMents Alimentaires](https://www.printemps.com/fr/fr/bien-etre)
 * [SOINS CHEVEUX](https://www.printemps.com/fr/fr/soins-cheveux)
     * [Voir Tout](https://www.printemps.com/fr/fr/soins-cheveux)
