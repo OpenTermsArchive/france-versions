@@ -332,7 +332,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-* [DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
+*  [![](https://media-cdn.printemps.com/image/07/8/7767078.jpg) DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
