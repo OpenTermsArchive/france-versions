@@ -174,8 +174,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-*  [![](https://media-cdn.printemps.com/image/18/4/7690184.jpg) THE KOOPLES](https://www.printemps.com/fr/fr/the-kooples-femme)
-    
 
 * [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme)
     
@@ -334,7 +332,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/40/4/7626404.jpg) PERS](https://www.printemps.com/fr/fr/univers-pers?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_pers)
+* [DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
