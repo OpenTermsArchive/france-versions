@@ -96,7 +96,6 @@
     * [Blouses Et Chemises](https://www.printemps.com/fr/fr/chemises-femme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
-    * [Doudounes](https://www.printemps.com/fr/fr/manteaux-femme/sct/Doudounes)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
     * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
@@ -180,7 +179,6 @@
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
-    * [Doudounes](https://www.printemps.com/fr/fr/manteaux-homme/sct/Doudounes)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
     * [Sweats & Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
@@ -332,7 +330,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-* [DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
+*  [![](https://media-cdn.printemps.com/image/07/8/7767078.jpg) DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
