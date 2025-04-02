@@ -71,9 +71,9 @@ Votre code de réservation doit toujours rester secret. Si vous partagez votre c
 
 Si vous voyagez avec d'autres personnes et que vous ne voulez qu'elles aient accès aux données de votre réservation, il pourrait s'avérer préférable que chaque personne effectue sa réservation séparément.
 
-**Ne partagez jamais les données d'ouverture de session pour accéder à l'espace personnel du programme Iberia Plus, Iberia Joven ou On Business**
+**Ne partagez jamais les données d'ouverture de session pour accéder à l'espace personnel du programme Club Iberia Plus, Iberia Joven ou On Business**
 
-Pour garantir la sécurité de votre accès à l'espace personnel de notre site Web et des applications mobiles, ne partagez jamais les codes d'accès à votre espace personnel d'Iberia Plus, Iberia Joven ou On Business (programme spécifique pour les entreprises que nous parrainons conjointement avec British Airways Plc). Lorsque vous quittez le site Web, les services en ligne ou les applications pour téléphone portable, fermer la session si quelqu'un peut accéder à votre ordinateur ou dispositif. Ceci est particulièrement recommandé si vous utilisez un ordinateur ou un dispositif en accès libre.
+Pour garantir la sécurité de votre accès à l'espace personnel de notre site Web et des applications mobiles, ne partagez jamais les codes d'accès à votre espace personnel d'Club Iberia Plus, Iberia Joven ou On Business (programme spécifique pour les entreprises que nous parrainons conjointement avec British Airways Plc). Lorsque vous quittez le site Web, les services en ligne ou les applications pour téléphone portable, fermer la session si quelqu'un peut accéder à votre ordinateur ou dispositif. Ceci est particulièrement recommandé si vous utilisez un ordinateur ou un dispositif en accès libre.
 
 **Soyez prudent et protégez-vous contre les fraudes sur Internet et le « Phishing »**
 
@@ -155,7 +155,7 @@ Nous collectons les catégories de données personnelles suivantes :
     
 * Données sur votre enregistrement en ligne et autres interactions.
     
-    _**Exemples :** Nous conserverons vos données pour garantir une interaction adéquate avec vous, soit parce que vous vous êtes enregistrés chez nous à travers nos programmes de fidélité Iberia Plus ou On Business, par exemple,, soit parce que vous vous êtes identifié comme membre d'un autre programme de fidélité._
+    _**Exemples :** Nous conserverons vos données pour garantir une interaction adéquate avec vous, soit parce que vous vous êtes enregistrés chez nous à travers nos programmes de fidélité Club Iberia Plus ou On Business, par exemple,, soit parce que vous vous êtes identifié comme membre d'un autre programme de fidélité._
     
     _Nous conserverons vos données si vous avez participé à un concours ou à une action promotionnelle, ou si vous avez interagi avec nous sur des réseaux sociaux comme Facebook ou Twitter._
     
@@ -163,7 +163,7 @@ Nous collectons les catégories de données personnelles suivantes :
     
     _**Exemples :** Pour vous aider à personnaliser vos données et améliorer notre site Web, nous utilisons des cookies et des technologies similaires pour collecter des informations sur vos recherches et les contenus que vous avez consultés sur notre site Web, notamment le site Web d'où vous venez, les bannières et les liens qui apparaissent sur les sites Web de nos partenaires commerciaux._
     
-    _Nous utiliserons les données sur l'utilisation du site Web stockées dans le cookie pour vous comprendre en tant que client. Ces informations peuvent inclure, si vous les avez saisies sur notre site Web, des données sur toute réservation ou nom d'un passager, en cas d'utilisation de vos données d'enregistrement associées à votre compte Iberia Plus._
+    _Nous utiliserons les données sur l'utilisation du site Web stockées dans le cookie pour vous comprendre en tant que client. Ces informations peuvent inclure, si vous les avez saisies sur notre site Web, des données sur toute réservation ou nom d'un passager, en cas d'utilisation de vos données d'enregistrement associées à votre compte Club Iberia Plus._
     
     _À partir de vos données d'utilisation, nous pourrons savoir ce que vous avez visité iberia.com et recherché un vol, mais que vous n'avez pas confirmé votre réservation. Ces informations pourraient nous être utiles pour vous contacter et vous fournir davantage d'informations sur la réservation ou la destination qui vous a intéressée._
     
