@@ -80,6 +80,7 @@
 * [DANS LA TENDANCE](#)
     * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-printemps-ete-2025)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
@@ -150,6 +151,7 @@
     
 * [TENDANCES](#)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
     * [Un air de campagne](https://www.printemps.com/fr/fr/countryside)
     * [Le daim](https://www.printemps.com/fr/fr/daim)
