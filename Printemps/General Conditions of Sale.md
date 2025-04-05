@@ -310,7 +310,7 @@
 * [INSPIRATIONS](#)
     * [K-Beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [Maquillage de cérémonie](https://www.printemps.com/fr/fr/maquillage-de-ceremonie)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    * La sélection coups de coeur
     * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale)
     * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
