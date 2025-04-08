@@ -1,45 +1,5 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute)
 
-* [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps)
-    
-* [FEMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_femme)
-    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Sacs?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_femme)
-    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Chaussures?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=chaussures_femme)
-    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=vetements_femme)
-    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/esp/Accessoires?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=accessoires_femme)
-    * [Luxe](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-
-* [HOMME](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/V%C3%AAtements?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=vetements_homme)
-    * [Chaussures](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Chaussures?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=chaussures_homme)
-    * [Accessoires](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Accessoires?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=accessoires_homme)
-    * [Sacs](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/esp/Sacs?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=sacs_homme)
-    * [Luxe](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=viewall_beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute/esp/Soin)
-
-* [REMISES](#)
-    * [\-30%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-30%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise30)
-    * [\-40%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-40%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise40)
-    * [\-50%](https://www.printemps.com/fr/fr/jackpot-au-printemps/sld/-50%25?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=remise50)
-
-* [LES ESSENTIELS POUR LE PRINTEMPS](#)
-    * [Sacs à main - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=nav-femme&ap_campaign=sacs_main)
-    * [Vestes - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Vestes?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_homme)
-    * [Robes - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Robes?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=bottines_femme)
-    * [Baskets - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Baskets?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=baskets_homme)
-    * [Vestes - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Vestes?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=manteaux_femme)
-    * [Chemises - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Chemises?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=baskets_homme)
-    * [Ballerines et mocassins - Femme](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme/cat0/Chaussures+plates)
-    * [T-shirts - Homme](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme/cat0/Tops+et+t-shirts)
-* [![](https://media-cdn.printemps.com/image/87/8/7680878.jpg)](https://www.printemps.com/fr/fr/jeu-jackpot?ap_source=anico&ap_medium=nav-jackpot&ap_campaign=jeu_digital)
-    
-
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -86,8 +46,6 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
-* [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=avp-femme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -176,8 +134,6 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
@@ -260,11 +216,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-* [![](https://media-cdn.printemps.com/image/87/7/7680877.jpg)](https://www.printemps.com/fr/fr/jackpot-au-printemps-homme)
-    
 
-* [JACKPOT : jusqu'à -50%](https://www.printemps.com/fr/fr/jackpot-au-printemps-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=avp-beaute)
-    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -334,6 +286,34 @@
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
 *  [![](https://media-cdn.printemps.com/image/07/8/7767078.jpg) DIPTYQUE](https://www.printemps.com/fr/fr/univers-diptyque?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_diptyque)
     
+
+* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
+    
+* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
+    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
+    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
+    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Manteaux)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Mailles+et+pulls)
+    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
+    * [Bottes et Bottines](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bottines/Bottes)
+    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-femme/esp/Accessoires)
+
+* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
+    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
+    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Manteaux)
+    * [Vestes](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Vestes)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Mailles+et+pulls)
+    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
+    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
+    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
+    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
+    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
