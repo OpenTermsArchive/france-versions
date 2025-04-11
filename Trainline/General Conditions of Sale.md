@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 5 mars 2025
+Dernière mise à jour le 31 mars 2025
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -695,19 +695,25 @@ Sinon, le droit de rétractation ne s'applique plus et la carte ou l'abonnement 
 
 ### 9.1 Programme « Parrainer un ami »
 
-Notre programme « Parrainer un ami » est géré par notre partenaire, Mention Me, exclusivement pour nos clients espagnols. En participant au programme, vous acceptez les conditions énoncées dans cette section.
+Nous pouvons choisir de proposer à nos clients basés dans certains territoires notre programme « Parrainer un ami » géré par notre partenaire, Mention Me. En participant au programme, vous acceptez les conditions énoncées dans cette section ainsi que les conditions générales d'utilisation de Mention Me définies ci-dessous.
 
 Pour résumer :
 
-1 - Lorsque vous parrainez un ami éligible (Filleul) pour qu'il réserve un trajet sur l'application Trainline pour la première fois, vous lui envoyez un lien qui sera valide pendant 3 mois. Vous (le Parrain) recevrez le Code Promo une fois que la réservation aura été effectuée par le Filleul (un maximum de 5 Codes Promo sont attribués par 24 heures et 25 par an).
+1. Lorsque vous parrainez un ami éligible (Filleul) pour qu'il réserve un trajet sur Trainline pour la première fois, vous lui envoyez un lien. En fonction de votre territoire géographique, il est possible que le lien ne soit valable que pour une plateforme ou une période de temps en particulier (par exemple, sur l'application uniquement, pendant 3 mois). Vous (le Parrain) recevrez le Code Promo une fois que la réservation aura été effectuée par le Filleul (vous ne pourrez recevoir qu'un nombre limité de Codes Promo sur 24 heures et par an, tel que cela est mentionné dans les conditions générales d'utilisation de Mention Me).
+2. Lorsque le Filleul réserve son premier billet de train avec Trainline à l'aide du lien que vous lui avez envoyé (dans le délai requis), il bénéficie de la réduction indiquée dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal).
+3. Une fois que le Filleul a effectué la réservation (et s'il ne l'a pas annulée), vous (le Parrain) recevez un Code Promo vous offrant une réduction définie dans le programme « Parrainer un ami » (laquelle peut être soumise à un montant maximal et doit être utilisée dans le délai imparti) à utiliser sur la réservation d'un billet de train dans l'application Trainline.
 
-2 - Lorsque le Filleul réserve son premier billet de train avec Trainline sur l'application Trainline en utilisant le lien que vous lui avez envoyé (dans les 3 mois), il bénéficie d'une réduction de 15 % (jusqu'à 20 €).
+Notez que le programme « Parrainer un ami » (y compris le montant de la réduction et la date d'expiration du Code Promo) peut varier en fonction d'une part du territoire, et d'autre part dans le temps. Afin d'être éligible au programme « Parrainer un ami », chaque ami que vous parrainez (en tant que Parrain) doit être un nouveau client de Trainline, être âgé de plus de 18 ans et résider dans un territoire où le programme est disponible.
 
-3 - Une fois que le Filleul a effectué la réservation (et s'il ne l'a pas annulée), vous (le Parrain) recevez un Code Promo vous offrant une réduction de 15 % (jusqu'à 20 €) valable 7 jours sur la réservation d'un billet de train sur l'application Trainline.
+Veuillez consulter l'intégralité des [conditions générales d'utilisation du programme « Parrainer un ami »](https://trainline.mention-me.com/me/terms/154557/bpsweqst) sur le site Web Mention Me :
 
-Notez que le montant minimal de dépense et la date d'expiration des Codes Promo peuvent parfois varier. Afin d'être éligible au programme, chaque ami que vous parrainez (en tant que Parrain) doit être un nouveau client de Trainline, être âgé de plus de 18 ans et résider en Espagne.
+Pour la France, [consultez](https://trainline.mention-me.com/me/terms/155804/unbtkboo) [Modalités de cette offre Trainline](https://trainline.mention-me.com/me/terms/155804/unbtkboo).
 
-Veuillez consulter l'intégralité des [conditions générales du programme « Parrainer un ami »](https://trainline.mention-me.com/me/terms/154557/bpsweqst) sur le site Web Mention Me. Le Code Promo est soumis aux Conditions générales de Trainline (9.5). Trainline se réserve le droit de refuser à tout moment la remise de toute récompense à l'Ami parrainé ou à son Parrain et de modifier à tout moment et sans préavis tout élément de ce programme.
+Pour l'Italie, [consultez](https://trainline.mention-me.com/me/terms/160602/xfetbdeb) [Termini di questa offerta da Trainline](https://trainline.mention-me.com/me/terms/160602/xfetbdeb).
+
+Pour l'Espagne, [consultez](https://trainline.mention-me.com/me/terms/160601/cjaacbnr) [Condiciones para esta oferta de Trainline](https://trainline.mention-me.com/me/terms/160601/cjaacbnr).
+
+Le Code Promo est soumis aux Conditions générales de vente de Trainline (section 9.5, ou section 13.3 pour les clients français). Trainline se réserve le droit de refuser à tout moment la remise de toute récompense à l'Ami parrainé ou à son Parrain et de modifier à tout moment et sans préavis tout élément de ce programme.
 
 ### 9.2 Trainline for Business
 
@@ -895,15 +901,11 @@ Nous nous réservons le droit de désactiver un compte ou toute fonctionnalité 
 
 Votre réservation ne sera définitive qu'après paiement du montant total. 
 
-### 13.3. Programme « Parrainer un ami »
-
-Le programme « Parrainer un ami » décrit à la section 9.1 n'est pas proposé en France.
-
-### 13.4. Codes promo
+### 13.3. Codes promo
 
 La clause suivante de la section 9.5 « Codes promo » ne s'applique pas aux consommateurs français : « Nous nous réservons le droit de refuser l'émission d'un code promo ou d'une offre de code promo à tout moment et de modifier à tout moment et sans préavis tout ou partie des éléments de chaque offre ».
 
-### 13.5. Responsabilité
+### 13.4. Responsabilité
 
 Les conditions suivantes s'appliquent à la place de la section 11 :
 
@@ -913,15 +915,15 @@ Vous serez financièrement responsable de toutes les réservations effectuées a
 
 Nous ne sommes pas responsables des pertes ou des dommages qui ne sont pas prévisibles. Les pertes ou les dommages sont considérés comme prévisibles si leur survenue était inéluctable ou bien si vous et nous savions, au moment de la conclusion du contrat, qu'ils allaient se produire. Nous ne sommes pas non plus responsables des pertes subies qui ne sont pas liées à notre service de réservation. Trainline n'est pas responsable des pertes ou des dommages causés par le retard ou l'annulation d'un train, y compris en cas de correspondance manquée. Par exemple, nous ne sommes pas tenus de prendre en charge une nuit d'hôtel, les frais engagés pour poursuivre votre voyage (un trajet en taxi ou en avion, par exemple) ou encore l'annulation d'un événement à cause de la suppression ou du retard de votre train. Aucune clause des présentes conditions générales de vente ne limite ou n'exclut notre responsabilité en cas de faute intentionnelle, de décès ou de dommages corporels causés par une négligence grave de notre part ou de celle de nos employés, agents ou sous-traitants (selon le cas) ; ou en cas de manquement aux conditions générales de vente, d'acte frauduleux ou de déclaration frauduleuse de notre part ou de celle de nos employés.
 
-### 13.6. Loi applicable et tribunaux compétents
+### 13.5. Loi applicable et tribunaux compétents
 
 Les lois applicables en France s'appliqueront à ces Conditions générales de vente. Seuls les tribunaux français sont habilités à traiter les litiges relatifs à ces Conditions générales de vente.
 
-### 13.7 Services d'hébergement
+### 13.6. Services d'hébergement
 
 Notre fournisseur de services d'hébergement est Amazon Web Services (AWS). Coordonnées : Amazon Web Services EMEA SARL, 38 Avenue John F. Kennedy, L-1855, Luxembourg.
 
-### 13.8 Médiation
+### 13.7. Médiation
 
 Notre service client s'efforce de répondre au mieux à toutes les questions que vous pouvez avoir au sujet de l'utilisation du service de réservation (accessible via notre site web ou notre application).
 
@@ -931,7 +933,7 @@ Cependant, si la façon dont nous avons traité votre demande ne vous satisfait 
 
 L'examen de votre litige par le médiateur de la consommation est soumis aux conditions prévues à l'article L. 612-2 du code français de la consommation, dont celle selon laquelle vous devez avoir tenté, au préalable, de résoudre votre litige directement auprès de nous par une réclamation écrite.
 
-### 13.9 Cartes de réduction en France
+### 13.8. Cartes de réduction en France
 
 ​Veuillez consulter la section ​8.11 Cartes de réduction françaises / Cartes de réduction SNCF​ ​pour les informations relatives aux cartes de réduction en France.​
 
