@@ -349,7 +349,7 @@
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
     * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-    * [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute)
+    * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
