@@ -286,7 +286,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
+*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
     
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
