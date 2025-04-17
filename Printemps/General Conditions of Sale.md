@@ -133,7 +133,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-*  [![](https://media-cdn.printemps.com/image/65/4/7830654.jpg) VAGABOND](https://www.printemps.com/fr/fr/conditions-generales-vente-utilisation?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_vagabond)
+*  [![](https://media-cdn.printemps.com/image/65/4/7830654.jpg) VAGABOND](https://www.printemps.com/fr/fr/vagabond-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_vagabond)
     
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -286,7 +286,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
+*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/acqua-di-parma-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
     
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
