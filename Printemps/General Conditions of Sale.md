@@ -138,17 +138,17 @@
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
+    * [T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-homme/sct/Tee+shirt)
+    * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
     * [Sweats & Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
-    * [T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-homme/sct/Tee+shirt)
     * [Polos](https://www.printemps.com/fr/fr/tops-t-shirts-homme/sct/Polo)
-    * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
     * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-homme)
+    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-homme)
     * [Costumes](https://www.printemps.com/fr/fr/costumes-homme)
     * [Pantalons De SurvÊTement](https://www.printemps.com/fr/fr/pantalons-homme/sct/Pantalons+de+surv%C3%AAtement)
     * [Sous-VÊTements Et Pyjamas](https://www.printemps.com/fr/fr/sous-vetements-homme)
@@ -168,7 +168,7 @@
 * [ACCESSOIRES](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tous-les-accessoires-homme)
     * [Bijoux](https://www.printemps.com/fr/fr/bijoux-homme)
-    * [Bonnets Et Casquettes](https://www.printemps.com/fr/fr/chapeaux-homme)
+    * [Casquettes Et Chapeaux](https://www.printemps.com/fr/fr/chapeaux-homme)
     * [Lunettes De Soleil](https://www.printemps.com/fr/fr/lunettes-homme)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-homme)
     * [ÉCharpes](https://www.printemps.com/fr/fr/echarpes-homme)
@@ -189,21 +189,19 @@
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
-    
-* [TENDANCES](https://www.printemps.com/fr/fr/tendances-homme)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Ski : rester stylé sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
-    * [Bomber](https://www.printemps.com/fr/fr/bomber-homme)
-    * [Club Nautique](https://www.printemps.com/fr/fr/club-nautique-homme)
-    * [Le Daim](https://www.printemps.com/fr/fr/daim-homme)
-    * [L'Endroit, le concept store des créateurs](https://www.printemps.com/fr/fr/l-endroit?ap_source=anico&ap_medium=navigation&ap_campaign=endroit-homme)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
-    
-* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
-    
+* [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
+    * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme)
+    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
+    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
+    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
+    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
+    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
+    * [Givenchy](https://www.printemps.com/fr/fr/givenchy-homme)
+    * [K-Way](https://www.printemps.com/fr/fr/k-way-homme)
+    * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
+    * [Autry](https://www.printemps.com/fr/fr/autry-homme)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme)
@@ -264,7 +262,7 @@
 * [INSPIRATIONS](#)
     * [K-Beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [Maquillage de cérémonie](https://www.printemps.com/fr/fr/maquillage-de-ceremonie)
-    * La sélection coups de coeur
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
     * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale)
     * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
@@ -422,6 +420,8 @@
     * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
     * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
     * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
+    * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
+    * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
 
 Mise à jour du 26/04/2023
 
