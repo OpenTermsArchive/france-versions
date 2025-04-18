@@ -189,19 +189,20 @@
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
 
-* [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
-    * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme)
-    * [Saison 1865](https://www.printemps.com/fr/fr/saison1865-homme)
-    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren-homme)
-    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Prada](https://www.printemps.com/fr/fr/prada-homme)
-    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Givenchy](https://www.printemps.com/fr/fr/givenchy-homme)
-    * [K-Way](https://www.printemps.com/fr/fr/k-way-homme)
-    * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
-    * [Autry](https://www.printemps.com/fr/fr/autry-homme)
-    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+* [Nouveautés](https://www.printemps.com/fr/fr/nouveautes-homme)
+    
+* [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
+    * La sélection coups de coeur
+    * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
+    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+    * [Workwear](https://www.printemps.com/fr/fr/workwear-homme)
+    * [Bomber](https://www.printemps.com/fr/fr/bomber-homme)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
+    
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
+* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+    
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme)
