@@ -192,7 +192,7 @@
 * [Nouveautés](https://www.printemps.com/fr/fr/nouveautes-homme)
     
 * [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
-    * La sélection coups de coeur
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
     * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
     * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
     * [Workwear](https://www.printemps.com/fr/fr/workwear-homme)
@@ -285,7 +285,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/acqua-di-parma-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
+*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
     
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
