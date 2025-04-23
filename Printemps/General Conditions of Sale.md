@@ -133,8 +133,6 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-*  [![](https://media-cdn.printemps.com/image/65/4/7830654.jpg) VAGABOND](https://www.printemps.com/fr/fr/vagabond-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_vagabond)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
