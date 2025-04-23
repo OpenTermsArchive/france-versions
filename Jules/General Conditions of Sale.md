@@ -145,7 +145,7 @@ Conformément à l’article L221-28 du Code de la consommation, le retour de pr
 
 ##### 9.2 Droit de rétractation conventionnel
 
-Jules permet aux Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de trente (30) jours à compter de la date de réception de la commande (ce délai inclut le délai de rétractation légal).  
+Jules permet aux Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de quatre-vingt dix (90) jours à compter de la date de réception de la commande (ce délai inclut le délai de rétractation légal).  
   
 
 ##### 9.3 Produits exclus
