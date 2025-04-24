@@ -1,7 +1,7 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
-Version : 10/02/2025
+Version : 22/04/2025
 
 ### 1 Champ d’application
 
@@ -94,7 +94,9 @@ Dans ce cas, le client en sera informé et disposera d’un délai de 15 jours p
 
 Dans ce cas, le remboursement des titres de transports achetés au-delà de ceux autorisés se fera dans les conditions prévues à l’article 5 des présentes.   
   
-**4.6.2** L’usage commercial, et notamment la revente des titres de transports, est interdit et sera sanctionné par Flix au moyen d’un blocage des titres de transports.   
+**4.6.2** L’usage commercial, et notamment la revente des titres de transports, est interdit et sera sanctionné par Flix au moyen d’un blocage des titres de transports. 
+
+**4.6.3** Les bons d'achat émis dans le cadre de campagnes marketing ou autres ne peuvent être utilisés que pour des trajets effectués par les sociétés du groupe Flix en tant que prestataires de transport.  
   
 **4.7** Annulation de la commande   
   
