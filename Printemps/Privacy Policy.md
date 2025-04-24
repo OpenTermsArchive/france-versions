@@ -399,6 +399,17 @@
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
     * [Voir tout](https://www.printemps.com/fr/fr/magasins)
 
+* [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Dolce Vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
+    * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
+    * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
+    * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
+    * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
+    * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
+
+* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
     * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
     * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
@@ -410,17 +421,6 @@
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
     * [Conférences et ateliers](https://evenements.printemps.com/)
     * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
-
-* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-
-* [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Dolce Vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
-    * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
-    * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
-    * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
-    * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
-    * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
 
   
 
