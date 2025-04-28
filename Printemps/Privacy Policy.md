@@ -283,6 +283,8 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
+*  [![](https://media-cdn.printemps.com/image/64/5/7932645.jpg) ANTINOMIE](https://www.printemps.com/fr/fr/antinomie-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_antinomie)
+    
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
     
