@@ -4,8 +4,6 @@ _Publication : 27 mars 2025_
 
 _Entrée en vigueur : 26 avril 2025_
 
-_Nous mettons à jour notre politique afin d'améliorer la protection et l'application de la propriété intellectuelle sur TikTok. Vous trouverez nos directives actuelles [ici](https://www.tiktok.com/legal/copyright-policy-archive)._
-
   
 
 TikTok respecte les droits de propriété intellectuelle des tiers et exige le respect de ses [Conditions d'utilisation](https://www.tiktok.com/legal/terms-of-service) et de ses [Directives communautaires](https://www.tiktok.com/community-guidelines), qui interdisent tout contenu enfreignant ou violant les droits de propriété intellectuelle de tiers, y compris le droit d'auteur et les marques déposées.
