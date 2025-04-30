@@ -1,21 +1,64 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
 
+* [\-15% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+    
+* [Nos coups de cœur French Days](https://www.printemps.com/fr/fr/edito-actu-french-days-printemps)
+    
+* [Luxe : les pépites à ne pas manquer](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    
+* [Dernière chance](https://www.printemps.com/fr/fr/selection-french-days-printemps/sld/-20%25/-30%25/-35%25/-40%25/-50%25)
+    
+
+* [FEMME](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/V%C3%AAtements)
+    * [Robes](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Robes)
+    * [Hauts](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Chemises/Tops+et+t-shirts)
+    * [Maillots de bain](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Maillots+de+bain)
+    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Accessoires)
+    * [Bijoux](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Bijoux)
+
+* [HOMME](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    * [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/V%C3%AAtements)
+    * [Hauts](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Tops+et+t-shirts/Chemises)
+    * [Pantalons](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Pantalons)
+    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Baskets)
+    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Accessoires)
+    * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Sacs)
+
+* [TOP MARQUES](#)
+    * [Saison 1865](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/SAISON+1865)
+    * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/POLO+RALPH+LAUREN)
+    * [Jacquemus](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/JACQUEMUS)
+    * [Tommy Hilfiger](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/TOMMY+HILFIGER)
+    * [Alexander McQueen](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/ALEXANDER+MCQUEEN)
+    * [Jimmy Choo](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/JIMMY+CHOO)
+    * [Marc Jacobs](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/MARC+JACOBS)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/CALVIN+KLEIN)
+    * [Guess](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/GUESS)
+
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
     * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Manteaux)
+    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
     * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
     * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Cabas)
 
 * [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
     * [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
+    * [Tee-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
     * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
-    * [Maille](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Mailles+et+pulls)
+    * [Chemises](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Chemises)
     * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
@@ -45,7 +88,11 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
+* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps?ap_source=anico&ap_medium=nav-nouveautes&ap_campaign=french-days)
+    
 
+* [FRENCH DAYS : -15% sur une sélection​](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -133,7 +180,11 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=french-days)
+    
 
+* [FRENCH DAYS : -15% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -215,6 +266,8 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    
 
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
@@ -285,34 +338,6 @@
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
 *  [![](https://media-cdn.printemps.com/image/64/5/7932645.jpg) ANTINOMIE](https://www.printemps.com/fr/fr/antinomie-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_antinomie)
     
-
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
-    
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Manteaux)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Mailles+et+pulls)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Bottes et Bottines](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bottines/Bottes)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-femme/esp/Accessoires)
-
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Manteaux)
-    * [Vestes](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Vestes)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Mailles+et+pulls)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
