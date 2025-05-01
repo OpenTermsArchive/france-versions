@@ -269,6 +269,8 @@
 * [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
     
 
+* [FRENCH DAYS : -15% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
