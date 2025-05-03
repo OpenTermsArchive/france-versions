@@ -1,4 +1,4 @@
-[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque) [Top marques à prix réduit](https://www.printemps.com/fr/fr/selection-french-days-printemps)
 
 * [\-15% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
     
@@ -31,6 +31,12 @@
     * [Baskets](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Baskets)
     * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Accessoires)
     * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Sacs)
+
+* [Beauté](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Maquillage)
 
 * [TOP MARQUES](#)
     * [Saison 1865](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/SAISON+1865)
