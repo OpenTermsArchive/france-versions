@@ -1,4 +1,4 @@
-[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque) [Top marques à prix réduit](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+[**FRENCH DAYS**](https://www.printemps.com/fr/fr/selection-french-days-printemps) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
 
 * [\-15% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
     
