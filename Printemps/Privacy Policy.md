@@ -1,6 +1,6 @@
 [**FRENCH DAYS**](https://www.printemps.com/fr/fr/selection-french-days-printemps) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
 
-* [\-15% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+* [\-20% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
     
 * [Nos coups de cœur French Days](https://www.printemps.com/fr/fr/edito-actu-french-days-printemps)
     
@@ -94,10 +94,10 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
-* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps?ap_source=anico&ap_medium=nav-nouveautes&ap_campaign=french-days)
+* [![](https://media-cdn.printemps.com/image/01/0/7956010.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps?ap_source=anico&ap_medium=nav-nouveautes&ap_campaign=french-days)
     
 
-* [FRENCH DAYS : -15% sur une sélection​](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+* [FRENCH DAYS : -20% sur une sélection​](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -186,10 +186,10 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=french-days)
+* [![](https://media-cdn.printemps.com/image/01/0/7956010.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=french-days)
     
 
-* [FRENCH DAYS : -15% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+* [FRENCH DAYS : -20% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -272,10 +272,10 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-* [![](https://media-cdn.printemps.com/image/37/3/7862373.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+* [![](https://media-cdn.printemps.com/image/01/0/7956010.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
     
 
-* [FRENCH DAYS : -15% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+* [FRENCH DAYS : -20% sur une sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
     
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
