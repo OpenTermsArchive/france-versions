@@ -6,7 +6,7 @@ Conditions Générales d’Utilisation de TikTok
 
   
 
-_Dernière mise à jour : novembre 2024_
+_Dernière mise à jour : mai 2025_
 
   
 
@@ -52,6 +52,8 @@ Des conditions et politiques supplémentaires peuvent s’appliquer à certains 
 * Conditions d’achat sur TikTok Shop : ces conditions s’appliquent lorsque vous achetez des articles sur TikTok Shop (le cas échéant).
 * [Politique relative au contenu de marque](https://www.tiktok.com/legal/bc-policy?lang=fr) : cette politique s’applique lorsque vous publiez du contenu sur la Plateforme portant sur une marque ou un produit en échange d’une contrepartie financière ou d’une autre incitation.
 * [Conditions d’utilisation professionnelles](https://www.tiktok.com/legal/business-terms-july-eea?lang=fr) : ces conditions s’appliquent lorsque vous utilisez la Plateforme dans le cadre de votre commerce, entreprise, artisanat ou profession, y compris pour la gestion de votre propre entreprise par le biais de votre compte sur la Plateforme ou l’administration d’un compte pour le compte d’une entreprise.
+
+Si vous résidez au sein de l’EEE et que vous utilisez notre service de messageries directes, veuillez lire ces [informations précontractuelles](https://www.tiktok.com/legal/direct-messaging-contract-information) importantes et le [résumé du contrat](https://www.tiktok.com/legal/direct-messaging-contract-summary). Nous vous recommandons de conserver une copie de ces documents pour vos archives.
 
 _En résumé : les présentes Conditions couvrent votre utilisation de la Plateforme. Il peut y avoir des conditions et politiques supplémentaires qui s’appliqueront si vous souhaitez accéder à des fonctionnalités supplémentaires, publier ou diffuser en direct certains types de contenus, ou utiliser la Plateforme à des fins professionnelles ou commerciales._
 
