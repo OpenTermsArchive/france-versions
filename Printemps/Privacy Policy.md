@@ -468,14 +468,8 @@
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
 
-* [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [Dolce Vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
-    * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
-    * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/protection-donnees-personnelles?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
-    * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
-    * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
-    * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
-    * [Veuve Clicquot rouvre sa terrasse éphémère au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-le-picnic-veuve-clicquot-rooftop-printemps-haussmann-2025)
+* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
 
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
