@@ -158,7 +158,7 @@ BERSHKA (ci-dessous, « BERSHKA FRANCE ») :
 
 o Adresse postale: 22, Rue Bergère – 75009, Paris, France.
 
-o E-mail du Délégué à la protection des données : dataprotection@bershka.com
+o E-mail du Délégué à la protection des données : dataprotection@bershka.com.
 
 
 
@@ -168,7 +168,7 @@ o E-mail du Délégué à la protection des données : dataprotection@bershka.co
 
 o Adresse postale: Avda. de la Diputación, Edificio Inditex, 15143, Arteixo (A Coruña), Espagne.
 
-o E-mail du Délégué à la protection des données : dataprotection@bershka.com
+o E-mail du Délégué à la protection des données : dataprotection@bershka.com.
 
 
 
@@ -1242,15 +1242,15 @@ DONNÉES ?
 
 
 
-Nous nous engageons à respecter la confidentialité de vos données personnelles et à garantir l’exercice de vos
+Nous nous engageons à respecter la confidentialité de vos données à caractère personnel et à vous offrir la
 
-droits. En tant que Coresponsables, nous avons convenu que ceux-ci peuvent être exercés sans aucun coût en
+possibilité d’exercer vos droits. Vous pouvez les exercer gratuitement en nous envoyant une demande via ce
 
-nous adressant un courrier électronique à une adresse unique, dataprotection@bershka.com, en indiquant
+lien. Si vous avez des difficultés à utiliser ce canal, vous pouvez nous écrire par courrier électronique à l’adresse
 
-simplement le motif de votre demande et le droit que vous voulez exercer. Si nous considérons nécessaire de
+de contact indiquée au point 1 du présent document, en indiquant le motif de votre demande et le droit que vous
 
-pouvoir vous identifier, nous pourrons vous demander une copie d’une pièce d’identité.
+souhaitez exercer.
 
 
 
@@ -1259,6 +1259,12 @@ En outre, nous pouvons vous offrir la possibilité d’exercer vos droits et de 
 confidentialité lors de l’utilisation de certains de nos services, ou en mettant à votre disposition des canaux
 
 spécifiques au sein de notre Plateforme.
+
+
+
+Si nous estimons nécessaire de vérifier votre identité, nous pouvons vous demander une copie d’un document
+
+prouvant votre identité.
 
 
 
@@ -1342,13 +1348,13 @@ format structuré, d’utilisation courante et lisible par une machine, afin de 
 
 autre entité, pour autant que cela soit techniquement possible.
 
+13
+
 
 
 Par ailleurs, si le traitement de vos données est fondé sur notre intérêt légitime, vous aurez aussi le droit de vous
 
 opposer au traitement de vos données.
-
-13
 
 
 
@@ -1364,7 +1370,7 @@ autorité de contrôle en matière de protection des données, en particulier :
 
 ▪ L’autorité du pays où est installée la société retail du pays :
 
-https://edpb.europa.eu/about-edpb/board/members_en
+https://edpb.europa.eu/about-edpb/board/members_en.
 
 7. QU’ARRIVE-T-IL SI VOUS NOUS FOURNISSEZ DES DONNÉES DE
 
