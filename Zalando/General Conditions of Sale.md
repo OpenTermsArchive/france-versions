@@ -1,7 +1,7 @@
 **Résumé des Conditions Générales de Vente**
 ============================================
 
-Les Conditions Générales de Vente vous donnent un aperçu de nos prestations sur Zalando.de. Nos offres s’adressent exclusivement aux consommateurs qui effectuent un achat à des fins privées. Nous vous offrons une expérience de shopping et de service personnalisée pour les articles Zalando, les articles partenaires Zalando et les articles Zalando Pre-owned. Les articles partenaires de Zalando sont signalés comme tels et proviennent de commerçants professionnels, tandis que les articles Zalando Pre-owned sont des articles d’occasion et sont également signalés de manière spécifique.
+Les Conditions Générales de Vente vous donnent un aperçu de nos prestations sur Zalando.fr. Nos offres s’adressent exclusivement aux consommateurs qui effectuent un achat à des fins privées. Nous vous offrons une expérience de shopping et de service personnalisée pour les articles Zalando, les articles partenaires Zalando et les articles Zalando Pre-owned. Les articles partenaires de Zalando sont signalés comme tels et proviennent de commerçants professionnels, tandis que les articles Zalando Pre-owned sont des articles d’occasion et sont également signalés de manière spécifique.
 
 **1\. Concernant la conclusion du contrat :**
 ---------------------------------------------
@@ -51,7 +51,7 @@ Nous avons mis en place une procédure de signalement et de plainte pour examine
 **10\. Autres :**
 -----------------
 
-Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/eda20e3b-dd9a-4fee-8af3-4cef8aadefec.pdf)
+Les droits de garantie qui vous sont accordés par la loi s’appliquent. Vous trouverez de plus amples informations à ce sujet dans les conditions générales. Vous avez également la possibilité de [**télécharger et d’archiver les conditions générales.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/8be2df00-ad70-4c28-9205-02409d0e6010.pdf)
 
 **Procédure de signalement et de réclamation ; règlement des litiges à l’amiable**
 ----------------------------------------------------------------------------------
@@ -68,7 +68,7 @@ Avant de suspendre le traitement des signalements et des plaintes, nous enverron
 Conditions Générales de Vente (CGV) pour les commandes réalisées sur le site www.zalando.fr
 ==============================================================================================
 
-[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/eda20e3b-dd9a-4fee-8af3-4cef8aadefec.pdf)
+[**Téléchargement et archivage des conditions générales sous forme de PDF.**](https://mosaic02.ztat.net/cnt/contentful-apps/uploads/8be2df00-ad70-4c28-9205-02409d0e6010.pdf)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Nous aimerions vous présenter ci-après nos Conditions Générales de Vente qui ont pour objet de définir les conditions dans lesquelles Zalando traite les commandes réalisées sur les sites www.zalando.fr.
@@ -375,7 +375,7 @@ Immatriculée au Registre du Commerce du Amtsgericht (Tribunal d’Instance) de 
 N° DE TVA intracommunautaire : DE 260543043  
 IDU de la filière des emballages ménagers: FR230691\_01VNNH, des déchets d’équipements électriques et électroniques: FR029853\_05SX0W, des batteries: FR028775\_06WFAG et des textiles: FR218558\_11RUKU  
   
-Version: 17.03.2025  
+Version: 12.05.2025  
   
 
   
