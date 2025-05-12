@@ -3,7 +3,7 @@ Conditions Générales de Vente
 
 PRÉAMBULE
 
-Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw30fe629b/PAGE-SERVICE/CGV/cgv-fr.pdf)  
+Nos Conditions Générales de Ventes peuvent être téléchargées et/ou enregistrées en cliquant [ici](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwb206216a/PAGE-SERVICE/CGV/cgv-fr.pdf)  
   
 Les présentes conditions d’utilisation et conditions générales de vente (ci-après les « CGV ») s’appliquent exclusivement entre tout utilisateur du site de vente en ligne [www.comptoirdescotonniers.fr](https://www.comptoirdescotonniers.com/) (ci-après le « Site ») et la société Comptoir des Cotonniers, une Société par actions simplifiée au capital 24.600592.504 euros, dont le siège social est 151 rue Saint Honoré – 75001 PARIS, immatriculée au RCS Paris sous le numéro 720 802 776 (ci-après « **Comptoir des Cotonniers** » ou le « **Vendeur** »).  
   
@@ -218,7 +218,7 @@ En cas de contestation du Statut acquis par l’Adhérent, seules les informatio
 
 **9.2 Offres du Club**
 
-Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dw0cf951df/PAGE-CLUB/Content/LeClub-Avantages-FR-EN.pdf).  
+Les Offres sont classées en fonction du Statut de l’Adhérent. Vous trouverez les offres sur le lien suivant : [OFFRE DU CLUB](https://www.comptoirdescotonniers.com/on/demandware.static/-/Library-Sites-CDCSharedLibrary/default/dwcf58fa29/PAGE-CLUB/Content/LeClub-Avantages-FR-EN.pdf).  
 Les cadeaux offerts dans le cadre du Club ne peuvent pas être échangés, et ne sont ni compensables, ni remboursables.
 
 **9.3 Modification du Club**
