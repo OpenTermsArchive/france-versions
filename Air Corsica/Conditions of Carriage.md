@@ -709,6 +709,12 @@ En cas de retard de plus de trois heures, vous avez également le droit à une i
 
 Si, du fait d'une surréservation programmée, nous ne sommes pas en mesure de vous attribuer un siège, alors que vous possédez une réservation confirmée, nous vous accorderons l’assistance et la compensation prévues par le droit en vigueur. Si plusieurs compensations sont possibles, vous bénéficierez de la plus favorable.
 
+**12.4.** Gestion des demandes - infirmations pratiques
+
+ Sous réserve de la loi applicable, une demande d'indemnisation sur le fondement du règlement (CE) n°261/2004 ne pourra être traitée par Air Corsica que si le Passager, a adressé sa réclamation via la plateforme dédiée à cet effet au préalable [Accueil](https://serviceclient.aircorsica.com/s/) .
+
+Cette modalité vaut également lorsque la demande d'indemnisation est présentée par un tiers autre que le Passager."
+
 ### Article 13 - Remboursements
 
 **13.1. Généralités**
