@@ -1,29 +1,33 @@
-**NIKE**
+NIKE
+====
 
-**POLITIQUE DE CONFIDENTIALITE ET DE GESTION DES COOKIES**
+POLITIQUE DE CONFIDENTIALITE ET DE GESTION DES COOKIES
+======================================================
 
-Cette politique de confidentialité décrit les données personnelles qui sont collectées ou générées (traitées) lorsque vous  interagissez avec Nike par l’intermédiaire de nos sites internet , expériences digitales, applications mobiles, magasins, évènements, ou l’un de nos autres produits ou services, lesquels font tous partie de la Plateforme Nike (“**Plateforme**”). Elle explique également la façon dont vos données personnelles sont utilisées, partagées et protégées, les choix dont vous disposez s’agissant de vos données personnelles et la façon dont vous pouvez nous contacter.
+Cette politique de confidentialité décrit les données personnelles qui sont collectées ou générées (traitées) lorsque vous  interagissez avec Nike par l’intermédiaire de nos sites internet , expériences digitales, applications mobiles, magasins, évènements, ou l’un de nos autres produits ou services, lesquels font tous partie de la Plateforme Nike (“Plateforme”). Elle explique également la façon dont vos données personnelles sont utilisées, partagées et protégées, les choix dont vous disposez s’agissant de vos données personnelles et la façon dont vous pouvez nous contacter.
 
-* **Qui est responsable du traitement de vos données personnelles** **?**
-* **Quelles sont les données personnelles que nous collectons et à quel moment** **?**
-* **Données relatives aux enfants**
-* **Les outils de gestion des données personnelles que nous collectons**
-* **Pourquoi et comment nous utilisons vos données personnelles** **?**
-* **Partage de vos données personnelles**
-* **Protection et gestion de vos données personnelles**
-* **Vos droits**
-* **Cookies et balises**
-* **Utiliser la Plateforme Nike avec des produits et services de tiers**
-* **Modification de notre Politique de Confidentialité**
-* **Questions et commentaires**
+* Qui est responsable du traitement de vos données personnelles ?
+* Quelles sont les données personnelles que nous collectons et à quel moment ?
+* Données relatives aux enfants
+* Les outils de gestion des données personnelles que nous collectons
+* Pourquoi et comment nous utilisons vos données personnelles ?
+* Partage de vos données personnelles
+* Protection et gestion de vos données personnelles
+* Vos droits
+* Cookies et balises
+* Utiliser la Plateforme Nike avec des produits et services de tiers
+* Modification de notre Politique de Confidentialité
+* Questions et commentaires
 
-**Qui est responsable du traitement de vos données personnelles ?**
+Qui est responsable du traitement de vos données personnelles ?
+---------------------------------------------------------------
 
-L’entité Nike responsable du traitement de vos données personnelles va dépendre de la façon dont vous interagissez avec la Plateforme de Nike et de votre localisation géographique dans le monde. Les entités Nike pertinentes sont désignées par “**Nike**”, “**notre**”/“**nos**” et “**nous**” dans la présente Politique de Confidentialité.
+L’entité Nike responsable du traitement de vos données personnelles va dépendre de la façon dont vous interagissez avec la Plateforme de Nike et de votre localisation géographique dans le monde. Les entités Nike pertinentes sont désignées par “Nike”, “notre”/“nos” et “nous” dans la présente Politique de Confidentialité.
 
 Merci de consulter notre [Liste des Entités Locales](https://agreementservice.svs.nike.com/rest/agreement/localentities/fr/FR/com.nike.unite/redirect/true) pour connaître le nom de l’entité Nike responsable et ses coordonnées.
 
-**Quelles sont les données personnelles que nous collectons et à quel moment ?**
+Quelles sont les données personnelles que nous collectons et à quel moment ?
+----------------------------------------------------------------------------
 
 Nous vous demandons de nous communiquer certaines données personnelles pour vous fournir les produits ou services que vous sollicitez. Tel est le cas, par exemple, lorsque vous effectuez des achats, contactez notre service consommateurs, demandez à recevoir des communications, créez un compte, participez à nos événements ou compétitions, ou lorsque vous utilisez notre Plateforme. De plus, lorsque vous demandez des services spécifiques en magasin, nous pourrions vous demander de vous connecter afin de vous fournir ces services, lesquels sont alors associés à votre compte (par exemple, taille, coupe, préférences).
 
@@ -45,23 +49,25 @@ Nous collectons des données personnelles supplémentaires auprès de vous pour 
 * données de capteurs, comprenant rythme cardiaque et données de localisation (GPS) ; ou
 * informations relatives aux réseaux sociaux, comprenant les identifiants et toute information résultant de vos posts publics au sujet de Nike ou vos communications avec nous.
 
-Lorsque vous interagissez avec notre Plateforme, certaines données sont automatiquement collectées depuis votre appareil ou navigateur internet.  Plus d’informations sur ces pratiques sont fournies dans la section “**Cookies et balises**” ci-après. Ces données incluent:
+Lorsque vous interagissez avec notre Plateforme, certaines données sont automatiquement collectées depuis votre appareil ou navigateur internet.  Plus d’informations sur ces pratiques sont fournies dans la section “Cookies et balises” ci-après. Ces données incluent:
 
 * ID et type d’ appareil, état des appels, accès au réseau, information de stockage et de batterie ;
 * Données de trafic relatives à votre visite et vos interactions avec notre Plateforme, en ce compris les produits que vous avez regardés, ajoutés à votre panier ou cherchés, et si vous êtes connecté à votre compte Nike ;
 * cookies, adresses IP, en-têtes de référent, données identifiant votre navigateur internet sa version, pixels espions, balises web et les interactions avec notre Plateforme.
 
-**Données relatives aux enfants**
+Données relatives aux enfants
+-----------------------------
 
 Nous respectons les dispositions légales locales et n’autorisons pas les enfants à s’inscrire sur notre Plateforme s’ils n’ont pas atteint la limite d’âge légale du pays dans lequel ils résident. Nous solliciterons le consentement des parents pour la participation des enfants aux expériences et évènements Nike.
 
-**Les outils de gestion des données personnelles que nous collectons**
+Les outils de gestion des données personnelles que nous collectons
+------------------------------------------------------------------
 
 Lorsque vous utilisez notre Plateforme, nous vous fournissons en temps utile l’information requise ou obtenons votre consentement pour certains usages. Par exemple, nous recueillerons votre consentement pour utiliser votre localisation ou vous envoyer des notifications. Nous pouvons recueillir ce consentement à partir de la Plateforme ou en utilisant les autorisations standard disponibles sur votre appareil.
 
 Dans de nombreux cas, votre navigateur internet ou votre appareil mobile fournira des outils supplémentaires pour vous permettre de contrôler la façon dont votre appareil collecte ou partage certaines catégories de données personnelles. Par exemple, votre appareil mobile ou votre navigateur internet contiennent des outils vous permettant de gérer l’usage des cookies ou le partage de votre localisation. Nous vous encourageons à vous familiariser avec les outils disponibles sur vos appareils et à les utiliser.
 
-**Pourquoi et comment nous utilisons vos données personnelles ?**
+Pourquoi et comment nous utilisons vos données personnelles ?
 
 Nous utilisons vos données personnelles aux fins suivantes :
 
@@ -77,11 +83,11 @@ Pour fournir des informations sur nos produits, services, évènements et à d�
 
 Si vous y consentez, nous vous enverrons des communications marketing et des nouvelles à propos des produits, services, évènements et autres promotions de Nike susceptibles de vous intéresser.  Vous pouvez vous désinscrire à tout moment après avoir donné votre consentement.
 
-_Marketing direct_
+Marketing direct
 
 Si vous êtes actuellement un client de Nike (par exemple, si vous avez effectué une commande auprès de nous), nous pouvons utiliser les informations de contact que vous avez fournies pour vous envoyer des communications marketing à propos de produits ou services Nike similaires, lorsque la loi applicable le permet (à moins que vous les ayez refusées). Dans d’autres cas, nous vous demandons votre consentement pour vous envoyer des communications marketing.
 
-_Personnalisation_
+Personnalisation
 
 A l’exception des Informations d’Entraînement (voir ci-dessous), nous pouvons utiliser les informations que vous nous fournissez et les informations provenant d’autres produits ou services Nike – telles que votre utilisation de la Plateforme Nike, vos visites ou achats effectués dans les magasins Nike, votre participation aux évènements et compétitions Nike –, pour vous envoyer des communications personnalisées sur des produits et services susceptibles de vous intéresser. Ce faisant, nous pouvons combiner les informations que vous nous fournissez avec des informations que nous générons sur la base de votre activité en ligne, y compris les observations et analyses internes. Lorsque la loi applicable l’exige, nous solliciterons votre consentement pour mener ces activités.
 
@@ -122,23 +128,19 @@ Pour traiter vos données personnelles, nous nous fondons sur différents fondem
 * Nous nous fondons également sur d’autres fondements légaux, tels que nos intérêts légitimes en tant qu’entreprise pour traiter les informations relatives à l’efficacité de nos campagnes publicitaires, nos produits, services, évènements et toutes autres initiatives promotionnelles ; pour faire fonctionner, améliorer et maintenir notre activité, nos produits et services ; pour protéger nos droits, nos biens ou assurer notre sécurité ou celle des autres ; et à des fins de recherches et analyses. Lorsque nous traitons des données personnelles pour servir nos intérêts légitimes, nous prenons les mesures appropriées, afin de garantir que les intérêts poursuivis sont proportionnés à vos intérêts, droits et libertés, et nous sommes à votre disposition pour les expliquer sur demande de votre part.
 * Nous traitons également vos données personnelles afin de respecter une obligation légale ou la protection de vos intérêts vitaux.
 
-**Partage de vos données personnelles**
+Partage de vos données personnelles
+-----------------------------------
 
 Partage par Nike
 
 Nike peut partager chacune des catégories de données personnelles que nous collectons avec les catégories d’entités suivantes, et ce aux fins commerciales décrites ci-dessous :
 
 * les entités de Nike pour les finalités et dans les conditions précisées ci-avant.
-
 * des prestataires de services procédant aux traitements de données personnelles pour les finalités décrites  dans la section «Pourquoi et comment nous utilisons vos données personnelles ? » pour le compte de Nike, comme par exemple, le cas échéant, pour les paiements et l’utilisation de cartes de crédit, les envois et livraisons, l’hébergement, l’administration et la gestion de vos données, la distribution d’e-mails, les recherches et analyses, la gestion de la marque et la promotion des produits, ainsi que pour l’administration de certains services et certaines fonctionnalités. Lorsque nous utilisons les services de prestataires, nous concluons des contrats qui leur imposent de mettre en œuvre les mesures techniques et organisationnelles appropriées pour protéger vos données personnelles.
-
 * les Partenaires de Nike afin de lier vos comptes membres (avec votre consentement) et vous fournir les services et expériences connexes.
-
 * les exploitants des magasins Nike afin de les aider à organiser des activités et évènements en magasin. Par exemple, Nike peut partager la liste des participants à un évènement avec l’exploitant qui organise cet évènement.
 * d’autres tiers dans la mesure où cela est nécessaire pour : (i) nous conformer à une requête gouvernementale, une décision de justice ou la loi applicable ; (ii) empêcher des utilisations illicites de notre Plateforme ou la violation des Conditions d’Utilisation de notre Plateforme et de nos règles ; (iii) nous défendre contre des réclamations de tiers ; et (iv) fournir notre assistance dans la prévention des fraudes ou dans le cadre d’investigations (par exemple en matière de contrefaçon).
-
 * les fournisseurs de publicité ciblée tiers qui nous fournissent des annonces de publicités personnalisées adaptées à nos besoins. Nous utilisons de tels services afin de combiner l’ensemble des informations que nous avons rassemblées avec les données personnelles de leurs bases de données afin de créer des audiences et publicités personnalisées sur la base de vos centres d’intérêts sur Internet, y compris les réseaux sociaux, comme le permet la loi applicable. Vous pouvez retirer votre consentement à la publicité et aux audiences personnalisées en utilisant les paramètres prévus à cet effet sur notre Plateforme.
-
 * tout autre tiers si vous avez exprimé votre consentement.
 
 Nous pouvons également transférer les données personnelles vous concernant en cas de cession ou de transfert de tout ou partie de nos activités ou actifs (en ce compris dans le cas d’une réorganisation, d’une cession, d’une dissolution ou d’une liquidation).
@@ -147,7 +149,8 @@ Vos partages
 
 Lorsque vous utilisez certaines fonctionnalités sociales sur notre Plateforme, vous pouvez créer un profil public qui peut contenir des informations telles que votre pseudonyme, votre photo de profil et votre localité. Vous pouvez aussi partager des contenus avec vos amis ou avec le public, comprenant des informations sur votre activité avec Nike.  Nous vous encourageons à utiliser les outils que nous vous fournissons pour contrôler au mieux les informations que vous rendez ainsi disponibles par l’intermédiaire des fonctionnalités Nike.
 
-**Protection et gestion de vos données personnelles**
+Protection et gestion de vos données personnelles
+-------------------------------------------------
 
 Cryptage et Sécurité : Nous utilisons différentes mesures de sécurité techniques et organisationnelles, et notamment des techniques de cryptage et des outils d’authentification, pour assurer la sécurité de vos données personnelles.
 
@@ -157,28 +160,30 @@ Nous prenons les mesures nécessaires pour nous conformer aux conditions légale
 
 Conservation de vos données personnelles : Vos données personnelles seront conservées aussi longtemps que cela est nécessaire pour réaliser les finalités exposées dans cette Politique de Confidentialité, sauf si une durée de conservation plus longue est requise par la loi applicable. En général, cela signifie que nous conserverons vos données personnelles aussi longtemps que vous conserverez votre compte Nike. Pour les données personnelles relatives aux achats de produits, nous les conservons plus longtemps afin de nous conformer à des obligations légales (telles que la règlementation fiscale ou en matière de vente et à des fins de garantie). Cliquez [ici](https://www.nike.com/fr/help/a/protection-donnees-nike) pour en savoir plus.
 
-**Vos droits**
+Vos droits
+----------
 
 Vous avez le droit de solliciter : (i) l’accès à vos données personnelles ; (ii) une copie électronique de vos données personnelles (portabilité) et la transmission de ces informations à une autre entreprise ; (iii) la rectification de vos données personnelles si elles se révèlent incomplètes ou inexactes ; ou (iv) l’effacement ou la limitation de vos données personnelles dans certaines circonstances prévues par la loi applicable. Ces droits ne sont pas absolus. Dans les cas où vous nous avez fourni votre consentement au traitement de vos données personnelles (comme pour la liaison des comptes membres), vous avez le droit de retirer votre consentement à tout moment.
 
 Si vous souhaitez solliciter une copie de vos données personnelles ou exercer n’importe lequel de vos droits, il suffit de vous connecter à notre plateforme Nike [Privacy Webform](https://www.nike.com/fr/help/privacy).
 
-**Refus du Marketing Direct**
+Refus du Marketing Direct
 
-Si vous bénéficiez d’un compte Nike, vous pouvez refuser de recevoir les communications marketing de Nike en modifiant vos préférences dans la section “_voir ou modifier mon profil_” de nos Sites. Vous pouvez également refuser en modifiant vos abonnements par e-mail ou SMS en cliquant sur le lien de désinscription ou en suivant les instructions de désabonnement incluses dans le message. Vous pouvez également nous contacter en utilisant les adresses de contact figurant dans la section “Questions et commentaires” ci-après.
+Si vous bénéficiez d’un compte Nike, vous pouvez refuser de recevoir les communications marketing de Nike en modifiant vos préférences dans la section “voir ou modifier mon profil” de nos Sites. Vous pouvez également refuser en modifiant vos abonnements par e-mail ou SMS en cliquant sur le lien de désinscription ou en suivant les instructions de désabonnement incluses dans le message. Vous pouvez également nous contacter en utilisant les adresses de contact figurant dans la section “Questions et commentaires” ci-après.
 
-**Cookies et balises**
+Cookies et balises
+------------------
 
 Nike collecte des informations, qui peuvent inclure des données personnelles, depuis votre navigateur lorsque vous utilisez notre Plateforme. Nous utilisons différentes méthodes, telles que les cookies et balises, pour collecter ces informations, lesquelles peuvent inclure vos (i) adresse IP ; (ii) cookie unique d’identification, cookie d’information et informations sur les contenus de votre matériel pour accéder à certaines caractéristiques ; (iii) numéro unique d’identification du matériel et type de matériel ; (iv) domaine, type de navigateur et langue ; (v) système d’exploitation et paramétrage ; (vi) pays et fuseau horaire ; (vii) sites préalablement visités ; (viii) informations sur vos actions sur notre Plateforme, telles que comportement en termes de clics, achats et préférences ; et (ix) heures d’accès et URLs de référence.
 
-Des tiers peuvent également collecter des informations depuis notre Plateforme par l’intermédiaire de cookies, de modules tiers et widgets. Ces tiers collectent des données directement depuis votre navigateur et le traitement de ces données est soumis à leurs propres politiques de protection des données personnelles. **Plus d’information sur l’identité de ces tiers et leurs politiques de protection des données personnelles est accessible à cette adresse [ici](https://agreementservice.svs.nike.com/rest/agreement/adnetwork/fr/FR/com.nike.unite/redirect/true).**
+Des tiers peuvent également collecter des informations depuis notre Plateforme par l’intermédiaire de cookies, de modules tiers et widgets. Ces tiers collectent des données directement depuis votre navigateur et le traitement de ces données est soumis à leurs propres politiques de protection des données personnelles. Plus d’information sur l’identité de ces tiers et leurs politiques de protection des données personnelles est accessible à cette adresse [ici](https://agreementservice.svs.nike.com/rest/agreement/adnetwork/fr/FR/com.nike.unite/redirect/true).
 
 Nous utilisons des cookies et des balises pour suivre l’usage de notre Plateforme par nos clients et comprendre leurs préférences (telles que pays et langue). Cela nous permet de fournir des services à nos clients et d’améliorer leur expérience en ligne. Nous utilisons également des cookies et des balises pour obtenir des informations générales sur le trafic de la Plateforme et ses interactions, pour identifier des tendances et obtenir des statistiques, et ainsi améliorer notre Plateforme. Il y a en général quatre catégories de cookies utilisés sur notre Plateforme :
 
-* **Strictement nécessaires (toujours activés):** Permet aux fonctionnalités principales de mémoriser ta langue, ton emplacement et le contenu de ton panier. Assure aussi la sécurité, la gestion du réseau et 'accessibilité.
-* ****Expériences personalisées**:** Autorise l'utilisation des données comportementales, ave, entre autres, des cookies, pour améliorer ton expérience et te proposer du contenu pertinent sur les plateformes et dans les communications Nike.
-* **Performance et analyses:** Autorise l'utilisation des données comportementales pour optimiser les performances, étudier tes interactions avec nos sites et apps et améliorer l'expérience Nike.
-* ****Publicités personnalisées**:** Autorise le partage de données comportementales avec des partenaires publicitaires. Ces données servent à améliorer et à suivre l'expérience publicitaire personnalisée sur des sites partenaires.
+* Strictement nécessaires (toujours activés): Permet aux fonctionnalités principales de mémoriser ta langue, ton emplacement et le contenu de ton panier. Assure aussi la sécurité, la gestion du réseau et 'accessibilité.
+* Expériences personalisées: Autorise l'utilisation des données comportementales, ave, entre autres, des cookies, pour améliorer ton expérience et te proposer du contenu pertinent sur les plateformes et dans les communications Nike.
+* Performance et analyses: Autorise l'utilisation des données comportementales pour optimiser les performances, étudier tes interactions avec nos sites et apps et améliorer l'expérience Nike.
+* Publicités personnalisées: Autorise le partage de données comportementales avec des partenaires publicitaires. Ces données servent à améliorer et à suivre l'expérience publicitaire personnalisée sur des sites partenaires.
 
 Nous interagissons avec des solutions analytiques offertes par des tiers sur notre Plateforme. Ces tiers nous partagent des rapports sur l’utilisation de notre Plateforme, y compris pour nous permettre de mieux comprendre les intérêts et la situation démographique des utilisateurs de notre Plateforme. Ces rapports ne contiennent pas d’informations qui vous identifient directement. Cependant, ces rapports peuvent être utilisés par ces tiers pour nos campagnes publicitaires qui vous sont destinées, si vous avez autorisé certains services de personnalisation des publicités. Lorsque la loi applicable l’exige, nous solliciterons votre consentement pour mener ces activités.
 
@@ -192,7 +197,8 @@ Il existe également des moyens pour refuser la publicité ciblée de façon glo
 
 De même, vous pouvez adapter vos choix en matière de publicité depuis votre appareil mobile dans les paramètres de celui-ci. Par exemple, pour paramétrer vos préférences en matière de publicité sur iOS, allez dans Réglages > Confidentialité > Publicité > Publicités personnalisées. Pour paramétrer vos préférences en matière de publicité sur Android, allez dans Paramètres > Google > Annonces > Désactiver les annonces par centre d’intérêt.
 
-**Utiliser la Plateforme Nike avec des produits et services tiers**
+Utiliser la Plateforme Nike avec des produits et services tiers
+---------------------------------------------------------------
 
 Notre Plateforme permet d’interagir avec une grande variété d’autres produits et services numériques. Par exemple, notre Plateforme peut intégrer des modules tiers permettant un suivi d’activité, la connexion à des réseaux sociaux, la fourniture de services de musique en streaming et d’autres services numériques.
 
@@ -200,11 +206,13 @@ Si vous décidez de connecter votre compte Nike avec des modules ou comptes tier
 
 Notre Plateforme peut proposer des liens vers d’autres sites internet et applications (de tiers) pour répondre à vos besoins ou vous fournir des informations. Ces sites et applications tiers ont leur propre politique de protection des données, que nous vous invitons à lire. Dans la mesure où Nike ne détient ni ne contrôle ces sites ou applications tiers, nous ne pouvons être tenus responsables de leurs contenus, de leur utilisation ou de leurs pratiques en matière de données personnelles.
 
-**Modifications de notre Politique de Confidentialité**
+Modifications de notre Politique de Confidentialité
+---------------------------------------------------
 
 La législation et les pratiques évoluent au fil du temps. Si nous décidons de mettre à jour notre Politique de Confidentialité, nous publierons les modifications sur notre Plateforme. Si nous modifions matériellement la façon dont nous traitons vos données personnelles, nous vous ferons parvenir un avertissement préalable ou, dans les cas où la loi l’exige, nous vous demanderons votre autorisation préalablement à la mise en œuvre de ces modifications. Nous vous invitons vivement à lire notre Politique de Confidentialité et à vérifier régulièrement si des modifications y ont été apportées. Cette Politique de Confidentialité a été modifiée pour la dernière fois en juin 2023.
 
-**Questions et commentaires**
+Questions et commentaires
+-------------------------
 
 Nous accueillons volontiers toutes vos questions, commentaires et préoccupations au sujet de notre Politique de Confidentialité et de nos pratiques en la matière.
 
