@@ -204,6 +204,29 @@ Pour passer commande à nouveau, le Client de spartoo.com devra se connecter en 
 Les délais de livraisons indiqués ont comme référence la date de commande et sont présentés en jours ouvrés ( samedi, dimanche et jours fériés ne sont pas pris en compte dans le calcul du délai de livraison ). En cas de force majeure, SPARTOO ne saurait être responsable du retard de livraison.  
 
   
+
+### 9.1 : Pour contester une livraison:
+
+  
+  
+
+  
+Le client doit contacter dans un délai de 7 jours calendaire le service client,soit par mail à l'adresse : adriana@spartoo.com soit par téléphone au numéro : 01 85 09 79 58. Ce délai de 7 jours débute à partir de la date de livraison inscrite sur le lien de suivi.  
+  
+  
+Concernant les livraisons en point locker et les livraisons sur présentation de code sécurisé aucune contestation ne sera acceptée.  
+  
+Pour les autres types de livraisons, un formulaire de contestation de livraison lui sera remis.  
+Le client devra remplir et renvoyer ce formulaire dans un nouveau délai de 7 jours calendaire.  
+  
+**Aucune contestation ne sera acceptée dans le cas ou ces deux délais ne seraient pas respectés.**
+
+  
+  
+
+### 9.2 : Modalités de livraisons
+
+  
   
 **Monaco**  
   
