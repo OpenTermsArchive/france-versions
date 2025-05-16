@@ -9,7 +9,7 @@ Discord Privacy Policy
 
 [1.
 
-Welcome!](#1)[2.
+Welcome!](#)[2.
 
 Discord is the best place to talk, hang out and have fun with friends online](#2)[3.
 
@@ -43,8 +43,8 @@ Changes to this Privacy Policy](#13)[14.
 
 Contact us](#14)[15.](#15)[16.](#16)[17.](#17)
 
-**Welcome!**
-------------
+Welcome!
+--------
 
 This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area (“EEA”) or United Kingdom, Discord Netherlands BV is the “data controller” of your personal information collected through the services (as defined in our [Terms of Service](https://discord.com/terms)). For everyone else, Discord Inc. is the data controller. It’s important that you read this entire policy, but here’s a summary to get you started:
 
