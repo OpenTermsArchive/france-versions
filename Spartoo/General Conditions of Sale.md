@@ -621,7 +621,7 @@ Les avantages du Spartoo Premium sont les suivants:
 
 \- 10% de réduction immédiate sur tous les articles en dehors de la période de soldes.  
 \- 5% de réduction immédiate sur tous les articles pendant la période de soldes.  
-\- Livraison express gratuite le lendemain, pour toute commande passée avant 13h.  
+\- Livraison express gratuite le lendemain (chronorelais), pour toute commande passée avant 13h.  
 \- Le Paiement en 3 fois sans frais dès 60€ d'achat  
 \- L'ASSURTOO : assurance contre le dommage matériel accidentel de vos chaussures  
 \- Des offres exclusives : réductions supplémentaires pendant les journées réservées aux clients Premium.  
