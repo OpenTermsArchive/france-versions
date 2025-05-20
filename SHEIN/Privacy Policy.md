@@ -1,1695 +1,3412 @@
-POLITIQUE DE CONFIDENTIALITÉ DE SHEIN
+Privacy Notice
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+Dernière mise à jour : 19 mars 2025  
 
-Introduction et aperçu
+Introduction et aperçu  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
 
-RÉSUMÉ
+  
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+RÉSUMÉ  
 
-* [**1\. Comment nous collectons et utilisons vos données à caractère personnel>**](javascript:;)
-* [**2\. Partage de vos données à caractère personnel>**](javascript:;)
-* [**3\. Cookies, publicité basée sur les intérêts, choix de publicité >**](javascript:;)
-* [**4\. Précautions de sécurité>**](javascript:;)
-* [**5\. Vos droits >**](javascript:;)
-* [**6\. Conservation >**](javascript:;)
-* [**7\. Sites Web tiers >**](javascript:;)
-* [**8\. Enfants >**](javascript:;)
-* [**9\. Transfert de vos données à caractère personnel>**](javascript:;)
-* [**10\. Nous contacter>**](javascript:;)
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+    
+* [**2\. Partage de vos données personnelles >**](javascript:;)  
+    
+* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+    
+* [**4\. Précautions de Sécurité >**](javascript:;)  
+    
+* [**5\. Vos Droits >**](javascript:;)  
+    
+* [**6\. Conservation >**](javascript:;)  
+    
+* [**7\. Sites Web de tiers >**](javascript:;)  
+    
+* [**8\. Enfants >**](javascript:;)  
+    
+* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+    
+* [**10\. Contactez-nous >**](javascript:;)  
+    
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+1\. Comment Nous Traiterons Vos Données Personnelles  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+1.2 Marketing Direct  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
 
-2\. Partage de vos données à caractère personnel
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+2\. Partage de vos données personnelles  
+
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
+
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
+
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
+
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
+
+  
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+**3.1 Qu'est-ce que les cookies?**  
 
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-4\. Précautions de sécurité
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-5\. Vos droits
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.3 Comment utilisons-nous les cookies?**  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.4 Suppression des cookies de votre appareil**  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+**3.5 Blocage des cookies**  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-6\. Conservation
+**3.6 Analytics**  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-7\. Sites Web tiers
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+**3.7 Remarketing Comportemental**  
 
-8\. Enfants
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-9\. Transfert de vos données à caractère personnel
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.8 Autres Technologies de Suivi**  
 
-10\. Nous contacter
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.9 Informations sur la localisation**  
 
-Commissaire à la protection des données
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Service de Style Illimité de la Corporation limitée
+  
 
-1 - 2 bâtiment Victoria,
+4\. Précautions de Sécurité  
 
-Rue Haddington,
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
 
-Dublin 4,
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
 
-Dublin,
+  
 
-D04 XN32,
+5\. Vos Droits  
 
-Irlande
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+**5.1 Droit à l'Information**  
 
-POLITIQUE DE CONFIDENTIALITÉ DE SHEIN
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+**5.2 Droit d'Accès**  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+**5.3 Droit de Rectification**  
 
-Introduction et aperçu
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+**5.5 Droit à la Limitation du Traitement**  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+Vous avez le droit de faire limiter le traitement des données;  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
 
-RÉSUMÉ
+**5.6 Droit à la Portabilité des Données**  
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-* [**1\. Comment nous collectons et utilisons vos données à caractère personnel>**](javascript:;)
-* [**2\. Partage de vos données à caractère personnel>**](javascript:;)
-* [**3\. Cookies, publicité basée sur les intérêts, choix de publicité >**](javascript:;)
-* [**4\. Précautions de sécurité>**](javascript:;)
-* [**5\. Vos droits >**](javascript:;)
-* [**6\. Conservation >**](javascript:;)
-* [**7\. Sites Web tiers >**](javascript:;)
-* [**8\. Enfants >**](javascript:;)
-* [**9\. Transfert de vos données à caractère personnel>**](javascript:;)
-* [**10\. Nous contacter>**](javascript:;)
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+Nous fournissons ces données personnelles au format Excel.  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+**5.7 Droit d'Opposition**  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+**5.8 Droit concernant la Prise de Décision Automatisée**  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+**5.10 Plaintes**  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
 
-2\. Partage de vos données à caractère personnel
+  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+6\. Conservation  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+  
+
+Privacy Notice
+
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
+
+  
+
+Dernière mise à jour : 19 mars 2025  
+
+Introduction et aperçu  
+
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
+
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
+
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
+
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
+
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
+
+  
+
+RÉSUMÉ  
+
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
+
+* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+    
+* [**2\. Partage de vos données personnelles >**](javascript:;)  
+    
+* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+    
+* [**4\. Précautions de Sécurité >**](javascript:;)  
+    
+* [**5\. Vos Droits >**](javascript:;)  
+    
+* [**6\. Conservation >**](javascript:;)  
+    
+* [**7\. Sites Web de tiers >**](javascript:;)  
+    
+* [**8\. Enfants >**](javascript:;)  
+    
+* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+    
+* [**10\. Contactez-nous >**](javascript:;)  
+    
+
+  
+
+  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+2\. Partage de vos données personnelles  
+
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
+
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
+
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
+
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
+
+  
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+**3.1 Qu'est-ce que les cookies?**  
 
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-4\. Précautions de sécurité
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-5\. Vos droits
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.3 Comment utilisons-nous les cookies?**  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.4 Suppression des cookies de votre appareil**  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+**3.5 Blocage des cookies**  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-6\. Conservation
+**3.6 Analytics**  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-7\. Sites Web tiers
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+**3.7 Remarketing Comportemental**  
 
-8\. Enfants
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-9\. Transfert de vos données à caractère personnel
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.8 Autres Technologies de Suivi**  
 
-10\. Nous contacter
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.9 Informations sur la localisation**  
 
-Commissaire à la protection des données
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Service de Style Illimité de la Corporation limitée
+  
 
-1 - 2 bâtiment Victoria,
+4\. Précautions de Sécurité  
 
-Rue Haddington,
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
 
-Dublin 4,
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
 
-Dublin,
+  
 
-D04 XN32,
+5\. Vos Droits  
 
-Irlande
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+**5.1 Droit à l'Information**  
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+**5.2 Droit d'Accès**  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
 
-Introduction et aperçu
+**5.3 Droit de Rectification**  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+**5.5 Droit à la Limitation du Traitement**  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+Vous avez le droit de faire limiter le traitement des données;  
 
-RÉSUMÉ
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+**5.6 Droit à la Portabilité des Données**  
 
-* [**1\. Comment nous collectons et utilisons vos données à caractère personnel>**](javascript:;)
-* [**2\. Partage de vos données à caractère personnel>**](javascript:;)
-* [**3\. Cookies, publicité basée sur les intérêts, choix de publicité >**](javascript:;)
-* [**4\. Précautions de sécurité>**](javascript:;)
-* [**5\. Vos droits >**](javascript:;)
-* [**6\. Conservation >**](javascript:;)
-* [**7\. Sites Web tiers >**](javascript:;)
-* [**8\. Enfants >**](javascript:;)
-* [**9\. Transfert de vos données à caractère personnel>**](javascript:;)
-* [**10\. Nous contacter>**](javascript:;)
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+Nous fournissons ces données personnelles au format Excel.  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+**5.7 Droit d'Opposition**  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+**5.8 Droit concernant la Prise de Décision Automatisée**  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+**5.10 Plaintes**  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
 
-2\. Partage de vos données à caractère personnel
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+6\. Conservation  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+  
+
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
+
+  
+
+Dernière mise à jour : 19 mars 2025  
+
+Introduction et aperçu  
+
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
+
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
+
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
+
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
+
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
+
+  
+
+RÉSUMÉ  
+
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
+
+* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+    
+* [**2\. Partage de vos données personnelles >**](javascript:;)  
+    
+* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+    
+* [**4\. Précautions de Sécurité >**](javascript:;)  
+    
+* [**5\. Vos Droits >**](javascript:;)  
+    
+* [**6\. Conservation >**](javascript:;)  
+    
+* [**7\. Sites Web de tiers >**](javascript:;)  
+    
+* [**8\. Enfants >**](javascript:;)  
+    
+* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+    
+* [**10\. Contactez-nous >**](javascript:;)  
+    
+
+  
+
+  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+2\. Partage de vos données personnelles  
+
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
+
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
+
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
+
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
+
+  
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+**3.1 Qu'est-ce que les cookies?**  
 
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-4\. Précautions de sécurité
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-5\. Vos droits
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.3 Comment utilisons-nous les cookies?**  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.4 Suppression des cookies de votre appareil**  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+**3.5 Blocage des cookies**  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-6\. Conservation
+**3.6 Analytics**  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-7\. Sites Web tiers
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+**3.7 Remarketing Comportemental**  
 
-8\. Enfants
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-9\. Transfert de vos données à caractère personnel
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.8 Autres Technologies de Suivi**  
 
-10\. Nous contacter
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.9 Informations sur la localisation**  
 
-Commissaire à la protection des données
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Service de Style Illimité de la Corporation limitée
+  
 
-1 - 2 bâtiment Victoria,
+4\. Précautions de Sécurité  
 
-Rue Haddington,
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
 
-Dublin 4,
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
 
-Dublin,
+  
 
-D04 XN32,
+5\. Vos Droits  
 
-Irlande
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+**5.1 Droit à l'Information**  
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+**5.2 Droit d'Accès**  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
 
-Introduction et aperçu
+**5.3 Droit de Rectification**  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+**5.5 Droit à la Limitation du Traitement**  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+Vous avez le droit de faire limiter le traitement des données;  
 
-RÉSUMÉ
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+**5.6 Droit à la Portabilité des Données**  
 
-* [**1\. Comment nous collectons et utilisons vos données à caractère personnel>**](javascript:;)
-* [**2\. Partage de vos données à caractère personnel>**](javascript:;)
-* [**3\. Cookies, publicité basée sur les intérêts, choix de publicité >**](javascript:;)
-* [**4\. Précautions de sécurité>**](javascript:;)
-* [**5\. Vos droits >**](javascript:;)
-* [**6\. Conservation >**](javascript:;)
-* [**7\. Sites Web tiers >**](javascript:;)
-* [**8\. Enfants >**](javascript:;)
-* [**9\. Transfert de vos données à caractère personnel>**](javascript:;)
-* [**10\. Nous contacter>**](javascript:;)
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
 
-En savoir plus sur la publicité basée sur les intérêts et vos choix de publicité [ici](javascript:;) .
+Nous fournissons ces données personnelles au format Excel.  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+**5.7 Droit d'Opposition**  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
 
-Introduction et aperçu
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+**5.8 Droit concernant la Prise de Décision Automatisée**  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
 
-La politique de confidentialité du Site et de l'App Shein a été modifiée à compter du 1er novembre 2023 (la «"date d'entrée en vigueur "), (voir ici pour plus d'informations). Le Site et l'App permettront aux vendeurs de lister leurs produits sur Shein Exchange. Pour les commandes soumises après la date d'entrée en vigueur, nous pouvons partager vos informations personnelles sur Shein Exchange avec des vendeurs tiers pour compléter la transaction, qui seront responsables du traitement de vos informations conformément aux restrictions imposées par la loi applicable et nos accords avec eux.
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
 
-Date d’entrée en vigueur : 1er novembre 2023 Introduction et aperçu
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
 
-Introduction et aperçu
+**5.10 Plaintes**  
 
-La présente politique de confidentialité ( **« Politique »** ) explique comment Infinite Styles Services Co., Limited, qui exerce ses activités sous le nom de **« SHEIN »** , collecte, utilise, partage et traite vos données à caractère personnel lorsque vous utilisez ou accédez à ce site Web (le **« Site »** ), ou utilisez l’un de nos services, y compris nos applications mobiles (les **« Applications »** ), outils de messagerie, plateformes de communication, SHEIN Exchange et tous les autres services connexes que nous possédons (collectivement, les **« Services »** ). La Politique décrit également vos droits concernant vos données à caractère personnel et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou exercer vos droits.
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
 
-Les Services sont fournis par Infinite Styles Services Co., Limited, qui est le responsable du traitement et de la protection de vos données à caractère personnel. Dans la présente politique, les termes « SHEIN », « Entreprise », « nous », « notre » ou « nos » font référence à Infinite Styles Services Co., Limited.
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
 
-Veuillez lire [nos Conditions générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) , les Conditions d’échange SHEIN, les Conditions d’utilisation de l’Outil de messagerie SHEIN et la présente Politique (collectivement, les « Conditions du site ») avant d’accéder à nos Services ou de les utiliser. Si vous n’êtes pas d’accord avec la présente politique ou les conditions générales du Site, veuillez ne pas visiter notre Site et ne pas accéder à nos Services ni les utiliser.
+  
 
-**Droit de modifier la présente Politique :** Nous pouvons modifier la présente Politique périodiquement, afin de refléter la manière dont nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d’entrée en vigueur ou la date de dernière modification en haut de la présente Politique. Si nous apportons des modifications importantes qui affectent matériellement vos droits au respect de la vie privée, nous vous en informerons à l’avance et vous ferons savoir clairement sur les Services, ou par d’autres moyens de contact tels que par e-mail, afin que vous puissiez examiner les modifications avant de continuer à utiliser les Services. Si vous n’êtes pas d’accord avec la Politique modifiée, veuillez cesser d’utiliser les Services ou ne pas consentir aux mises à jour.
+6\. Conservation  
 
-**Informations instantanées :** En outre, nous pouvons vous fournir des divulgations en temps réel ou des informations supplémentaires sur les pratiques de traitement des informations personnelles de certaines parties de nos Services. Ces avis peuvent compléter la présente Politique ou vous fournir des choix supplémentaires sur la manière dont nous traitons vos informations personnelles.
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
 
-RÉSUMÉ
+  
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+7\. Sites Web de tiers  
 
-* [**1\. Comment nous collectons et utilisons vos données à caractère personnel>**](javascript:;)
-* [**2\. Partage de vos données à caractère personnel>**](javascript:;)
-* [**3\. Cookies, publicité basée sur les intérêts, choix de publicité >**](javascript:;)
-* [**4\. Précautions de sécurité>**](javascript:;)
-* [**5\. Vos droits >**](javascript:;)
-* [**6\. Conservation >**](javascript:;)
-* [**7\. Sites Web tiers >**](javascript:;)
-* [**8\. Enfants >**](javascript:;)
-* [**9\. Transfert de vos données à caractère personnel>**](javascript:;)
-* [**10\. Nous contacter>**](javascript:;)
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
 
-RÉSUMÉ
+  
 
-Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.
+8\. Enfants  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+Ce profil ne sera visible que par la personne qui le crée.  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+9\. Transfert de vos données personnelles  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+10\. Contactez-nous  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+Délégué à la Protection des Données  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+Infinite Styles Services Co. Limited  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+1-2 Victoria Buildings,  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Haddington Road,  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+Dublin 4,  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+D04 XN32,  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+Irlande,  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Dernière mise à jour : 19 mars 2025  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+Introduction et aperçu  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+RÉSUMÉ  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+    
+* [**2\. Partage de vos données personnelles >**](javascript:;)  
+    
+* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+    
+* [**4\. Précautions de Sécurité >**](javascript:;)  
+    
+* [**5\. Vos Droits >**](javascript:;)  
+    
+* [**6\. Conservation >**](javascript:;)  
+    
+* [**7\. Sites Web de tiers >**](javascript:;)  
+    
+* [**8\. Enfants >**](javascript:;)  
+    
+* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+    
+* [**10\. Contactez-nous >**](javascript:;)  
+    
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Dernière mise à jour : 19 mars 2025  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+Introduction et aperçu  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
 
-1\. Comment nous collectons et utilisons vos données à caractère personnel
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+RÉSUMÉ  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+* [**1\. Comment Nous Traiterons Vos Données Personnelles >**](javascript:;)  
+    
+* [**2\. Partage de vos données personnelles >**](javascript:;)  
+    
+* [**3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires >**](javascript:;)  
+    
+* [**4\. Précautions de Sécurité >**](javascript:;)  
+    
+* [**5\. Vos Droits >**](javascript:;)  
+    
+* [**6\. Conservation >**](javascript:;)  
+    
+* [**7\. Sites Web de tiers >**](javascript:;)  
+    
+* [**8\. Enfants >**](javascript:;)  
+    
+* [**9\. Transfert de vos données personnelles >**](javascript:;)  
+    
+* [**10\. Contactez-nous >**](javascript:;)  
+    
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+**Note sur la traduction:** Cette traduction est fournie à titre d'information uniquement. Le texte officiel de cet avis de confidentialité est la version anglaise, disponible ici. Toute divergence ou différence créées dans la traduction ne sont pas contraignantes et n'ont aucun effet légal pour des fins de conformité ou d'exécution.  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Dernière mise à jour : 19 mars 2025  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Introduction et aperçu  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+Le site web SHEIN (“**Site**”) et l'application mobile (“**App**”) sont fournis par Infinite Styles Services Co., Limited (“**ISSL**”), qui est le responsable du traitement des données personnelles collectées et responsable de leur traitement et de leur protection. Dans cet avis, les termes “SHEIN,” “société”, “nous”, “notre” ou “nos” font référence à ISSL..  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Cet avis de confidentialité ("**Avis**") explique comment ISSL collecte, utilise, partage et traite vos données personnelles lorsque vous utilisez ou accédez au Site, à l'App ou utilisez l'un de nos services, y compris toute communication écrite, électronique et orale, achats réalisés en ligne et hors ligne, et tout autre service connexe que nous détenons (collectivement les “**Services**”). L'avis décrit également vos droits concernant vos données personnelles et explique comment vous pouvez nous contacter pour en savoir plus sur nos pratiques en matière de données ou pour exercer vos droits.  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+**Veuillez lire nos [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) et cet Avis avant d'accéder ou d'utiliser nos Services. Si vous ne pouvez pas accepter cet Avis ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html), veuillez ne pas accéder ni utiliser nos Services.**  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+**Modifications de cet Avis :** SHEIN est légalement tenue en vertu de la loi sur la protection des données de s'assurer qu'elle traite les données personnelles de manière transparente. Étant donné que la manière dont nous traitons les données personnelles peut changer, nous pourrions être dans l'obligation de mettre à jour cet Avis en conséquence de temps à autre, pour refléter comment nous traitons vos données, et si nous apportons des modifications, nous vous en informerons en révisant la date d'effet ou la date de dernière modification en haut de cet Avis. Si nous apportons des modifications significatives qui affectent matériellement vos droits en matière de confidentialité, nous vous fournirons un préavis et nous le signalerons sur le Site ou l'App, ou par d'autres moyens de contact tels que l'e-mail, afin que vous puissiez examiner les changements avant de continuer à utiliser les Services.  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+**Autres informations :** En outre, nous pouvons vous fournir des informations supplémentaires sur les pratiques de traitement des données personnelles de certaines parties spécifiques de nos Services, via d'autres avis tels que, par exemple, notre Avis sur les Cookies ou les [Conditions Générales](https://fr.shein.com/Terms-and-Conditions-a-399.html) de certaines promotions. Ces avis peuvent compléter cet Avis ou vous fournir des options supplémentaires sur la manière dont nous traitons vos informations personnelles.  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+RÉSUMÉ  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Cliquez sur les liens ci-dessous pour accéder à une section spécifique de la présente politique.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+1\. Comment Nous Traiterons Vos Données Personnelles  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+1.2 Marketing Direct  
 
-1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger en nous conformant à la présente Politique. Nous collectons des informations personnelles lorsque vous utilisez nos Services.
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
 
-Conformément au Règlement général sur la protection des données de l'UE, la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (telle que modifiée pour mettre en œuvre le RGPD) (collectivement, aux fins de la présente politique de confidentialité, le **« RGPD »** ), les informations personnelles contenues dans la présente Politique sont appelées **« données à caractère personnel »** , telles que définies dans le RGPD et, dans la présente Politique, l’expression **« informations personnelles »** peut être utilisée de manière interchangeable. Pour les résidents de l’Union européenne, l’expression « données à caractère personnel » désigne toute information qui, seule ou en combinaison avec d’autres informations, identifie un individu ou le rend identifiable.
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
 
-Les Informations personnelles ne comprennent pas les données qui ont été anonymisées de manière irréversible ou agrégées de manière à ce qu’elles ne puissent plus nous permettre ou permettre à d’autres, que ce soit en combinaison avec d’autres informations ou autrement, de vous identifier.
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
 
-Nous collectons et utilisons vos données à caractère personnel pour soutenir un éventail d’activités ou à des fins commerciales diverses. Les finalités et types d’informations que nous collectons sont énumérés dans le tableau ci-dessous et doivent être compris comme incluant les utilisations de vos données à caractère personnel compatibles avec les finalités énumérées.
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
 
-| Objectif | Données à caractère personnel que nous collectons | Base juridique du traitement |
-| --- | --- | --- |
-| Pour créer un compte chez nous et gérer votre compte, pour vous fournir nos services (y compris SHEIN Exchange et notre Outil de messagerie, ainsi que le suivi des messages) ; | * Vos coordonnées, y compris votre adresse e-mail et votre mot de passe, pour vous inscrire sur notre Site ou sur notre Application. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat.  <br>En ce qui concerne le suivi des messages dans l'outil de messagerie, notre intérêt légitime est de maintenir et d'améliorer l'exactitude et la sécurité de l'Outil de messagerie. |
-| * Vos données de profil, y compris votre préférence de style, si vous choisissez volontairement de la fournir à des fins de personnalisation. | Consentement. |
-| Pour exécuter ou traiter des commandes ; | * Votre identité et vos coordonnées, comme votre nom, numéro de téléphone et l’adresse de livraison, ainsi que les informations financières ou les informations de compte de paiement, aux fins de livraison, retours, remboursement, déterminations de taxe de vente et transactions de paiement ;<br>* Les détails des transactions, tels que les détails de retour et de remboursement, le numéro de carte-cadeau et l’historique des commandes dans nos Services, afin de remplir les fonctions de base, y compris le traitement de vos demandes de paiement et de retour, et vous tenir informé du statut de la commande et de la logistique d’expédition. | Nécessaire pour l’exécution d’un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. |
-| * Les données de géolocalisation au niveau de l’adresse IP, afin de personnaliser votre expérience en termes de présentation du site Web local, de la langue ou de l’expérience utilisateur appropriée. | Notre intérêt légitime à mieux vous comprendre, à maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et à mieux promouvoir ou optimiser nos Services. |
-| Pour fournir un service et une assistance à la clientèle, ou pour vous fournir des communications liées aux services ; | * Les photographies que vous téléchargez sur nos Services conformément à nos conditions générales du Site, afin de fournir des conseils sur les produits et vous permettre de montrer volontairement à d’autres clients potentiels à quoi les articles ressemblent lorsqu’ils sont achetés ou portés. | Consentement. |
-| * Votre historique de communication avec nous via divers canaux, tels qu’e-mail, téléphone, réseaux sociaux, courrier, chat instantané et notre plateforme de service client, afin de répondre à vos demandes, ainsi que vous tenir informé sur votre compte et les Services. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Nécessaire à l’exécution du contrat avec vous. |
-| Pour entreprendre des activités de marketing, de publicité ou d’autres activités promotionnelles ; | * Vos coordonnées, telles que votre numéro de téléphone et adresse e-mail, à des fins de télémarketing et de marketing par e-mail ;<br>* Les identifiants d’appareils non directement identifiables, les informations sur le système d’exploitation et les cookies, pour diriger et mesurer l’efficacité de la publicité que nous proposons ;<br>* Des données sur la manière dont vous utilisez nos Site, Applications et autres Services (telles que le comportement de navigation, l’ajout d’articles à votre panier d’achats, la mise de côté d’articles dans votre panier d’achats ou autrement, la passation de commandes et les retours) à des fins d’études de marché, d’analyses statistiques et d’affichage de publicités personnalisées basées sur votre activité sur notre site et vos intérêts déduits ;<br>* Vos coordonnées et des informations relatives à votre identité, telles que votre nom, adresse e-mail et numéro de téléphone, lorsque vous participez volontairement à un concours, une étude de marché, un événement ou à d’autres campagnes marketing organisées par nous par l'intermédiaire du Site, des Applications ou des Services ;<br>* Pour partager vos données à caractère personnel avec des annonceurs tiers. | Consentement. |
-| * Adresse postale pour l’envoi de brochures publicitaires, par courrier traditionnel à l’adresse des clients privés qui ont déjà acheté des produits sur les Services.<br>* Aucun matériel publicitaire ne sera envoyé aux personnes figurant sur les listes nationales d’oppositions ou les services de préférences postales qui seront examinés et mis à jour conformément aux exigences légales nationales applicables. | Notre intérêt légitime est de mieux promouvoir ou optimiser nos Services. |
-| Pour améliorer nos produits ou nos services, ou à des fins de personnalisation ; | * Collecter les informations relatives à votre appareil et les données d’utilisation de nos Services à des fins d’analyse des défaillances, de dépannage et de maintenance du système, et pour définir des options par défaut, telles que la langue et la devise ;<br>* Lorsque vous fournissez volontairement de telles informations, nous pouvons collecter des données à caractère personnel qui ne permettent pas de vous identifier facilement, telles que votre type corporel, taille, tour de poitrine/taille/hanche et poids. Nous pouvons utiliser lesdites informations pour vous recommander des tailles ou des styles de vêtements, à des fins de personnalisation de nos Services ou pour vous fournir des services de prédiction d’ajustement ;<br>* Partager vos données à caractère personnel au sein de notre organisation et à travers celle-ci pour nos besoins commerciaux et à des fins de personnalisation ;<br>* La collecte de vos « j’aime » et de vos votes lorsque vous êtes invité à indiquer votre préférence entre deux articles, afin de fournir des options de paramètres de préférence ;<br>* L’affichage des informations que vous choisissez de publier sur les zones publiques des Services, par exemple, un avis de client.<br>* Nous collectons vos données de localisation approximatives ou précises (en fonction de votre adresse IP, des autorisations d’accès aux données de localisation permises sur votre appareil ou des adresses fournies) afin de vous diriger vers le Service et les magasins de retrait les plus appropriés, et de vous fournir d’autres fonctionnalités de personnalisation et de recommandation liées à la localisation ou à la livraison. Vous pouvez modifier vos paramètres de services de localisation directement dans les paramètres de votre appareil. | Notre intérêt légitime est de mieux vous comprendre, maintenir et améliorer l’exactitude des informations que nous conservons à votre sujet, et mieux promouvoir ou optimiser nos Services.  <br>Pour les informations fournies volontairement, le consentement. |
-| Pour prévenir et enquêter sur la fraude et d’autres activités illégales ; | * Les informations automatiquement collectées par le biais des Services, telles que le type de navigateur, les informations sur l’appareil, le système d’exploitation et les informations sur les paramètres du compte pour la prévention et la détection de la fraude et la réduction du risque de crédit ;<br>* Les données de connexion pour le contrôle des risques et le signalement des fraudes ;<br>* L’adresse de facturation pour vérifier les informations de paiement. | Notre intérêt légitime est de prévenir et enquêter sur la fraude et d’autres activités illégales. |
-| Pour se conformer aux exigences légales ou de conformité et mener nos activités ; | * Le cas échéant, identifier les informations, telles que les informations relatives à la pièce d’identité ou au passeport, à des fins de dédouanement ;<br>* L’historique des transactions et certaines informations d’identité pour traiter et résoudre les litiges juridiques, à des fins d’enquêtes réglementaires, de sécurité de l'information et pour se conformer aux demandes légales d’un organisme d’application de la loi ou d’un tribunal compétent. | Conformité avec obligations légales ou intérêts légitimes. |
-| Autres objectifs. | * Nous pouvons utiliser vos informations à toute autre fin qui vous est communiquée avant que vous nous fournissiez vos informations personnelles ou qui est raisonnablement nécessaire pour fournir les Services ou d’autres produits ou services connexes demandés, avec votre permission ou selon vos instructions. | Consentement. |
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
 
-**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou via des formulaires sur nos Services (y compris lorsque vous utilisez notre Outil de messagerie), ou lorsque vous partagez publiquement du contenu par le biais de nos Services, **veuillez ne pas nous envoyer ou partager d’informations sensibles vous concernant ou concernant d’autres personnes.** Nous ne collectons pas ni ne conservons d’informations sensibles ou de catégories particulières d’informations. Vous ne devez pas non plus partager vos informations personnelles (y compris par le biais de votre utilisation de l’Outil de messagerie) avec d’autres utilisateurs de SHEIN Exchange, sauf si les Conditions du site l’autorisent.
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
 
-1.2 PROGRAMME DE MESSAGERIE TEXTE
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
 
-(a). Si vous vous inscrivez à notre programme de messagerie par téléphone (SMS) (« Programme »), il vous sera demandé de consentir expressément - en fournissant votre numéro de téléphone portable, un ou plusieurs mots-clés spécifiés, ou une réponse affirmative par SMS/MMS ou autre message texte, en tant que signature afin de recevoir par téléphone des messages marketing automatisés récurrents de notre part. Un tel consentement n’est pas une condition d’utilisation du Site, de l’Application ou des Services et peut être retiré à tout moment en utilisant le mécanisme de désinscription spécifié au paragraphe 1.2(b) ci-dessous ou en nous contactant de toute autre manière.
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
 
-(b). Vous pouvez choisir de ne plus recevoir de SMS/MMS en répondant STOP à tout message reçu dans le cadre du Programme, ou simplement en envoyant STOP au numéro depuis lequel vous recevez actuellement des messages. Dans les deux cas, vous recevrez un message supplémentaire confirmant que votre demande a été traitée.
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
 
-(c). Des tarifs correspondants aux messages et données peuvent s’appliquer à tous les messages envoyés à votre appareil et depuis celui-ci. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
 
-(d). Vous déclarez être le titulaire du compte ou l’utilisateur habituel du numéro de téléphone portable fourni lors de l’inscription au Programme. Si vous modifiez ou désactivez ledit numéro, vous êtes tenu de nous en informer immédiatement.
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
 
-(e). Nous pouvons suspendre ou mettre fin à votre participation au Programme si vous ne respectez pas la présente Section 1.2. La réception de tels messages peut également être interrompue si votre service de téléphonie mobile est résilié ou expire. Nous nous réservons le droit de modifier ou d’interrompre, temporairement ou définitivement, tout ou partie du Programme, avec ou sans préavis. Ni nous ni aucun opérateur mobile ne serons responsables de tout message retardé ou non livré, ni de la fin du Programme.
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
 
-1.3 Lorsque vous utilisez nos Services afin de communiquer avec un vendeur tiers via notre Site ou Application, tous les messages via les Services sont d’abord reçus par nous, puis transmis au destinataire. Tous les messages sont automatiquement filtrés selon certains critères. Si nécessaire, nous vérifions manuellement les messages suspects. En cas de signalement de votre ou de vos messages envoyés via les Services par le destinataire, nous vérifierons et examinerons manuellement le ou les messages signalés et le ou les messages associés. Pour votre sécurité, n’incluez aucune information personnelle dans vos messages, y compris toute adresse e-mail, adresse physique, tout numéro de téléphone ou numéro de carte de crédit.
+**Notifications de l'application**  
 
-2\. Partage de vos données à caractère personnel
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+1.3 Avis sur les produits  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1\. Comment Nous Traiterons Vos Données Personnelles  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+1.1 Nous respectons la vie privée des visiteurs de nos propriétés numériques et des utilisateurs de nos produits et services, et nous nous engageons à la protéger par le biais de notre conformité à cet Avis. Nous traitons des données personnelles lorsque vous nous les fournissez, lorsque nous les collectons automatiquement, lorsqu'elles sont générées par votre utilisation de nos Services et lorsque nous les recevons d'autres sources.  
+
+Conformément au Règlement général sur la protection des données (**RGPD**) de l'UE (UE) 2016/679 ("**RGPD**"), les données personnelles désignent toute information se rapportant à une personne physique identifiée ou identifiable (le « sujet des données ») ; une personne physique identifiable est celle qui peut être identifiée, directement ou indirectement, en particulier par référence à un identifiant tel qu'un nom, un numéro d'identification, des données de localisation, un identifiant en ligne ou à un ou plusieurs facteurs spécifiques à l'identité physique, physiologique, génétique, mentale, économique, culturelle ou sociale de cette personne physique. Les données personnelles n'incluent pas les données qui ont été effectivement anonymisées de manière irréversible ou agrégées de sorte qu'elles ne puissent plus nous permettre, ni à d'autres, que ce soit en combinaison avec d'autres informations ou autrement, de vous identifier.  
+
+"Le traitement" des données personnelles comprend la collecte, le stockage, l'analyse, l'accès, le partage, la transmission et la suppression des données personnelles.  
+
+| Données personnelles traitées | Objectif | Base légale | Conservation |
+| --- | --- | --- | --- |
+| Votre nom et soit une adresse e-mail, soit un numéro de téléphone (vous pouvez fournir les deux), ainsi qu'un surnom et un mot de passe, pour vous inscrire sur notre site ou application. | * Créer votre compte | Consentement | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour traiter toute commande non exécutée, résoudre toute question non résolue ou satisfaire les obligations légales telles que les litiges en cours ou les obligations de dépôt légales et réglementaires. Vous pouvez fermer votre compte à tout moment. |
+| Adresse e-mail, numéro de téléphone et contact WhatsApp | * Pour vous envoyer du marketing direct, où vous donnez votre consentement. D'autres détails relatifs à ce traitement sont disponibles à la section 1.2 de cet avis. | Consentement | Tant que vous consentez. |
+| * Données de profil, y compris vos préférences en matière de style, taille de vêtements et forme du corps, si vous choisissez volontairement de les fournir à des fins de personnalisation.  <br>    <br>* Collecte de vos enregistrements de "j'aime" et votes lorsque vous êtes invité à exprimer votre préférence entre deux articles.  <br>    <br>* Lorsque vous fournissez des informations relatives aux vêtements de maternité comme un intérêt produit, cela peut constituer des données personnelles sensibles ou de "catégorie spéciale".  <br>    <br>* Lorsque vous fournissez des informations relatives aux produits pour enfants comme un intérêt, cela peut constituer les données personnelles des enfants. | * Pour vous proposer des produits en yfonction de vos préférences déclarées, via notre application et notre site web, et, sous réserve de votre accord, via le marketing direct. | Consentement | Jusqu'à ce que vous retiriez ces préférences de votre profil de compte. |
+| Informations d'expédition : nom, adresse postale, numéro de téléphone, numéro de commande. | * Pour livrer vos achats ou pour faciliter la livraison de vos achats par les vendeurs du marché. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de la transaction : achats, détails de retour et de remboursement, numéro de carte cadeau. | * Pour traiter les commandes et satisfaire les demandes de service client. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Détails de paiement – informations de carte de crédit ou de débit, détails de carte cadeau, crédit de compte, informations de bon et de coupon, adresse de facturation. | * Pour effectuer le paiement des achats et traiter les remboursements lorsque des articles sont retournés. | Nécessaire à l'exécution d'un contrat ou pour prendre des mesures à votre demande avant de conclure un contrat. | Conservé sous réserve des exigences légales et des lois nationales concernant la conservation des documents financiers à des fins de conformité fiscale. |
+| * Conservé afin de se conformer aux obligations de conformité fiscale. | Nécessaire pour se conformer à une obligation légale. | Conservé sous réserve de l'obligation de conservation des documents imposée par la législation pertinente. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent. | Pour se conformer aux obligations légales et pour l'intérêt légitime de résoudre des questions juridiques et réglementaires. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Historique des achats | * Pour vous recommander des produits que vous pourriez aimer.  <br>    <br>* Agrégation et analyse pour des études de marché et la planification de la production. | Pour l'intérêt légitime de recherche et développement de nos services et produits. | * Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment.  <br>    <br>* Les données agrégées dérivées de ces données personnelles ne sont pas des données personnelles. |
+| Position de votre adresse IP | * Pour personnaliser votre expérience en vous dirigeant vers le bon site local, la bonne langue et l'expérience utilisateur appropriée. | Pour l'intérêt légitime de fournir une expérience utilisateur optimisée pour le site web et l'application. | Pour la durée de votre session connectée sur l'application ou le site web. |
+| Vos communications avec nous via divers canaux, tels que l'e-mail, le téléphone, les réseaux sociaux, le courrier, le chat instantané et notre plateforme de service client. | * Pour répondre à vos demandes de service client, résoudre vos questions et administrer votre compte. | L'intérêt légitime de fournir un service client et une administration de compte. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| * Pour traiter et résoudre les litiges juridiques, à des fins d'enquêtes réglementaires et pour se conformer aux demandes légales émanant d'une autorité judiciaire ou d'un tribunal compétent | L'intérêt légitime d'interagir avec les agences réglementaires et de défendre nos intérêts juridiques. | Conservé jusqu'à la conclusion du litige juridique ou réglementaire et de tout appel ou révision ultérieure. |
+| Informations sur votre appareil, type de navigateur, système d'exploitation, informations de paramètres de compte et données de connexion. | * Sécurité du site et de l'application, analyse des défauts, dépannage, prévention de la fraude et contrôle des risques. | Pour l'intérêt légitime de sécuriser votre compte et notre site et application, et de fournir une expérience utilisateur optimisée. | Tant que votre compte reste actif, plus un délai raisonnable par la suite pour résoudre toute question non résolue. Vous pouvez fermer votre compte à tout moment. |
+| Vos avis sur les produits, qui peuvent inclure des photos de vous. | * Pour aider les clients envisageant d'acheter le même produit.  <br>    <br>* Des détails supplémentaires sur ce traitement sont disponibles à la Section 1.3 de cet Avis et dans notre [Guide des Avis](https://fr.shein.com/Review-Guidance-a-478.html). | Consentement. | Tant que vous consentez. Vous pouvez supprimer un avis à tout moment. |
+
+**Veuillez noter :** Lorsque vous communiquez avec nous par e-mail ou par le biais de formulaires sur nos Services, ou lorsque vous partagez publiquement du contenu via nos Services, nous vous demandons de ne pas nous envoyer d'informations sensibles vous concernant ou concernant d'autres personnes.  
+
+1.2 Marketing Direct  
+
+SHEIN envoie des communications de marketing direct par e-mail, SMS, message WhatsApp et notification push. Comme l'exige la législation en vigueur, le marketing direct ne vous est pas envoyé à moins que vous n'ayez donné votre consentement préalable.  
+
+Ce consentement peut être donné par vous via le site web ou l'application lors de l'inscription de votre compte ou ultérieurement par l'utilisation du site web ou de l'application.  
+
+Vous pouvez retirer votre consentement à tout moment, et SHEIN prendra des mesures pour s'assurer que vous ne receviez plus de marketing direct par ce canal. Si vous retirez votre consentement pour un seul canal, vous pouvez continuer à recevoir du marketing direct par d'autres canaux, jusqu'à ce que vous retiriez également votre consentement pour ce canal.  
+
+Veuillez être conscient qu'il peut y avoir un court délai avant que votre statut de consentement au marketing ne soit mis à jour et que vous puissiez continuer à recevoir des messages de marketing direct pendant ce temps.  
+
+Pour modifier votre statut de consentement pour l'un de nos canaux de marketing direct, allez à votre profil de compte et vous trouverez "Préférences de Contact" sous la sous-rubrique "Autres Services". Là, vous pouvez donner ou retirer votre consentement pour chaque type de marketing direct.  
+
+Pour arrêter de recevoir du marketing direct par e-mail, vous pouvez également cliquer sur « se désinscrire » au bas de tout e-mail marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas comporter de lien « se désinscrire ».  
+
+Pour arrêter de recevoir du marketing direct par SMS, vous pouvez également répondre « STOP » à un SMS marketing. Veuillez noter que certains e-mails de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP ».  
+
+Pour arrêter de recevoir du marketing direct via WhatsApp, vous pouvez également répondre « STOP » à un WhatsApp marketing. Veuillez noter que certains WhatsApp de SHEIN peuvent ne pas contenir de marketing direct et donc peuvent ne pas accepter une réponse « STOP »  
+
+Si vous choisissez de ne pas consentir à recevoir du marketing direct de la part de SHEIN, vous pouvez toujours recevoir des messages de service de notre part. Ce sont des messages essentiels vous fournissant des informations importantes concernant votre compte et vos achats.  
+
+Un certain nombre de moyens sont mis à la disposition des clients pour révoquer leur consentement ; via le centre de préférences sur notre site web, en cliquant sur le lien de désinscription dans les e-mails marketing ou en envoyant « STOP » en réponse à un SMS ou un WhatsApp marketing.  
+
+Des frais de messages et de données peuvent s'appliquer à tous les messages envoyés vers et depuis vous. Si vous avez des questions concernant votre forfait téléphonique, il est préférable de contacter votre opérateur mobile.  
+
+Lorsque vous nous fournissez un e-mail, un numéro de téléphone ou un contact WhatsApp, vous devez vous assurer qu'il s'agit du vôtre et qu'il est correct. Fournir les coordonnées d'une autre personne, que ce soit délibérément ou involontairement, peut entraîner la divulgation des détails privés de votre compte au véritable propriétaire des coordonnées. Afin de protéger votre compte et d'éviter les désagréments pour des tiers, nous pourrions être dans l'obligation de suspendre votre compte s'il apparaît que les coordonnées associées ne sont pas celles du propriétaire du compte.  
+
+**Notifications de l'application**  
+
+SHEIN peut également vous contacter, soit pour du marketing direct, soit pour d'autres finalités, via des notifications de l'application. Vous pouvez modifier la manière dont vous recevez ces notifications via les paramètres de votre appareil intelligent.  
+
+1.3 Avis sur les produits  
+
+Lorsque vous achetez un produit via notre service, nous vous demandons de rédiger un avis. Cela a pour but d'aider d'autres utilisateurs qui pourraient envisager d'acheter le même produit. Bien que nous récompensions les clients par des points pour la publication d'avis, le fait de le faire est entièrement à votre discrétion, et vous pouvez supprimer vos avis à tout moment.  
+
+Vous devez être conscient que vos avis seront accessibles à tous les utilisateurs du site. Si vous publiez une photographie avec l'avis, vous devez être conscient que vous ou votre environnement pourriez être reconnaissables sur la photo.  
+
+Si vous publiez une image d'un tiers, y compris celle de vos enfants, vous devez d'abord obtenir leur consentement pour ce faire. Vous devez être conscient qu'ils peuvent avoir le droit de faire retirer la photo en vertu de la législation de l'UE, y compris la législation sur la protection des données. Si un tiers vous demande de retirer une photo de lui que vous avez publiée, nous vous recommandons de le faire.  
+
+  
+
+2\. Partage de vos données personnelles  
+
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
+
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-2\. Partage de vos données à caractère personnel
+  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+2\. Partage de vos données personnelles  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-2\. Partage de vos données à caractère personnel
+  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+2\. Partage de vos données personnelles  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
+
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-2\. Partage de vos données à caractère personnel
+2\. Partage de vos données personnelles  
 
-2\. Partage de vos données à caractère personnel
+2\. Partage de vos données personnelles  
 
-2\. Partage de vos données à caractère personnel
+2\. Partage de vos données personnelles  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-* **A.** _Au sein de notre organisation_ . L’Entreprise fait partie d’une organisation qui possède plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Nous pouvons partager vos informations personnelles avec les sociétés de notre groupe et, dans certains cas, d’autres sociétés affiliées de notre groupe, en nous fondant sur nos intérêts légitimes à des fins de maintenance commerciale et de continuité de la personnalisation, par exemple afin que vous puissiez profiter d’une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou de vos préférences.
-* **B.** _Vendeurs tiers_ . Lorsque vous communiquez avec un vendeur tiers via nos Services, ou lorsqu’un vendeur tiers vend ses produits sur nos Services et que le vendeur tiers vous expédie les produits directement, nous pouvons partager vos données à caractère personnel (identifiant d’utilisateur, nom, adresse e-mail et autres coordonnées et informations d’expédition) avec lui afin qu’il puisse vous répondre ou exécuter votre commande et fournir vos données à caractère personnel à ses prestataires de services en vue de vous expédier les produits. Indépendamment de nous, le vendeur tiers est le responsable du traitement desdites données à caractère personnel et est responsable de tout traitement qu’il effectue après que nous les ayons partagées avec lui, y compris le respect de toutes limitations imposées par notre accord avec lui.
-* **C.** _Prestataires de services_ . Nous pouvons partager vos informations personnelles avec les types suivants de prestataires de services tiers, comme indiqué dans le tableau ci-dessous :
+* **A.** _Au sein de notre organisation corporative._ . ISSL fait partie d'une organisation corporative qui comprend plusieurs entités juridiques, processus commerciaux, structures de gestion et systèmes techniques. Ces entités fournissent des services les unes aux autres et la fourniture de ces services peut nécessiter le traitement de données personnelles. Nous pouvons partager vos données personnelles avec nos sociétés affiliées et, dans certains cas, d'autres filiales de notre groupe corporatif à des fins de maintenance commerciale et de continuité de personnalisation, par exemple, afin que vous puissiez bénéficier d'une expérience utilisateur personnalisée sur nos propriétés numériques, pour vous fournir les Services, ou pour prendre des mesures en fonction de vos demandes ou préférences.  
+    
+* **B.** _Vendeurs tiers_ . Notre site Web et notre application sont un marché, où d'autres vendeurs, y compris des vendeurs du groupe SHEIN, vendent des produits. Lorsque vous achetez auprès d'un vendeur tiers sur notre site et notre application et que le vendeur tiers expédie les produits directement chez vous, nous partagerons vos données personnelles (ID utilisateur, nom, adresse e-mail et autres informations de contact et d'expédition) avec eux afin qu'ils puissent vous répondre ou exécuter votre commande et fournir vos données personnelles à leurs prestataires de services afin d'expédier les produits chez vous. Indépendamment de nous, le vendeur tiers est le contrôleur de ces données personnelles et responsable de tout traitement qu'il effectue après que nous leur avons partagé ces données personnelles, y compris le respect de toute restriction imposée par notre accord avec eux.  
+    
+* **C.** _Fournisseurs de services_ . Nous pouvons partager vos données personnelles avec les types de prestataires de services tiers suivants, comme indiqué dans le tableau ci-dessous :  
+    
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-* Nous nous efforçons de sélectionner et de travailler avec des prestataires de services tiers qui partagent notre engagement envers le respect de la vie privée, la protection des données et la confiance des utilisateurs. Les tiers avec lesquels nous travaillons ne sont autorisés à utiliser vos données à caractère personnel qu’à des fins définies contractuellement et conformément à la présente politique, et uniquement dans la mesure nécessaire pour atteindre lesdites finalités. Nous pouvons également partager vos données personnelles avec d’autres utilisateurs de SHEIN Exchange lorsque vous achetez et vendez sur SHEIN Exchange, dans le but de faciliter la vente.
-* **D.** _Assurer la conformité juridique et réglementaire_ . Nous avons le droit de divulguer vos informations personnelles pour nous conformer à une obligation légale, ou lorsque nous estimons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, une ordonnance d’un tribunal, une demande d’un organisme de réglementation ou toute autre procédure judiciaire qui nous est signifiée. Nous pouvons également divulguer vos informations lorsque nous pensons raisonnablement que la divulgation est nécessaire afin de faire appliquer nos accords ou politiques, ou lorsque nous pensons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l’entreprise ou de nos clients.
-* **E.** _Services et fonctionnalités co-marqués_ . Des portions de nos Services peuvent être proposées dans le cadre de services et de fonctionnalités co-marqués. Nous partageons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation volontaire ou de votre participation à un service ou à une fonctionnalité co-marqués. Les partenaires co-marqués sont identifiés sur la fonctionnalité ou le service co-marqué, ainsi que sur la politique de confidentialité applicable desdits partenaires. L’utilisation de vos informations personnelles par un partenaire co-marqué est soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez refuser l’utilisation future de vos informations personnelles par un partenaire co-marqué, vous devrez le contacter directement.
-* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à n’importe quelle fin avec votre consentement.
-* **G.** _Transactions d’entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, informations sur le solde du Portefeuille ou les points, à un acheteur, acheteur potentiel, société affiliée, ou autre successeur en nous fondant sur nos intérêts légitimes en cas de fusion, cession, restructuration, réorganisation, dissolution, ou de vente ou transfert de tout ou partie de nos actifs, que lesdites opérations soient en lien avec une poursuite d’exploitation ou une faillite, liquidation, ou procédure similaire dans laquelle les informations personnelles que nous détenons sur les utilisateurs de nos services font partie des actifs transférés. Vous comprenez et acceptez la cession ou le transfert de nos droits sur vos informations personnelles.
+* Nous nous efforçons de garantir que nos prestataires de services tiers ne peuvent utiliser vos données que pour les fins contractuelles pour lesquelles elles leur ont été fournies et dans la mesure nécessaire à ces fins, conformément à nos instructions écrites (lorsqu'ils agissent en tant que nos sous-traitants de données).  
+    
+* **D.** _Pour maintenir la conformité légale et réglementaire_ . Nous avons le droit de divulguer vos données personnelles pour respecter une obligation légale, ou lorsque nous croyons que la divulgation est nécessaire pour protéger nos droits et/ou nous conformer à une procédure judiciaire, un ordre du tribunal, une demande d'un régulateur, ou tout autre processus légal qui nous est notifié. Nous pouvons également divulguer vos informations lorsque nous croyons raisonnablement que la divulgation est nécessaire pour faire respecter nos accords ou nos politiques, ou si nous croyons que la divulgation nous aidera à protéger les droits, la propriété ou la sécurité de l'entreprise ou de nos clients.  
+    
+* **E.** _Services et fonctionnalités co-marquées_ . Une partie de nos Services peut être offerte dans le cadre de services et fonctionnalités co-marquées. Nous partagerons vos informations personnelles avec nos partenaires co-marqués en fonction de votre utilisation ou participation volontaire à un service ou à une fonctionnalité co-marquée. Les partenaires co-marqués seront identifiés sur la fonctionnalité ou le service co-marqués, ainsi qu'avec la politique de confidentialité applicable d'un partenaire co-marqués. L'utilisation de vos informations personnelles par un partenaire co-marqués sera soumise à la politique de confidentialité dudit partenaire. Si vous souhaitez vous opposer à l'utilisation future de vos informations personnelles par un partenaire co-marqués, vous devrez contacter directement le partenaire co-marqués.  
+    
+* **F.** _Consentement_ . Nous pouvons divulguer vos informations personnelles à toute fin avec votre consentement.  
+    
+* **G.** _Transactions d'entreprise_ . Nous pouvons divulguer des informations personnelles, y compris des informations de compte, un solde de portefeuille ou des informations de points, à un acheteur, un acheteur potentiel, une société affiliée ou tout autre successeur en fonction de nos intérêts légitimes en cas de fusion, désinvestissement, restructuration, réorganisation, dissolution, ou vente ou transfert de tout ou partie de nos actifs, que ce soit en tant qu’activité en cours ou dans le cadre d'une faillite, liquidation ou procédure similaire dans laquelle les informations personnelles que nous détenons concernant nos utilisateurs de Services font partie des actifs transférés. Vous reconnaissez et acceptez notre cession ou transfert de droits concernant vos informations personnelles.  
+    
 
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.
+Nous pouvons divulguer et partager vos informations personnelles avec les parties décrites ci-dessous.  
 
-| Fournisseur/Prestataire de services/Sous-traitant | Services offerts |
+| Fournisseur/Fournisseur de services/Traiteur | Services offerts |
 | --- | --- |
-| Fournisseur de systèmes informatiques et de services logiciels | Services d’hébergement de site Web (y compris stockage sur le cloud), services d’optimisation d’applications ou de logiciels mobiles, logiciel de gestion de la relation client, fournisseurs de services de messagerie électronique ou services de maintenance de système. |
-| Fournisseur de service de paiement | Services de traitement des paiements par des tiers. |
-| Services de marketing et de publicité | Assistance pour atteindre de nouveaux clients potentiels par le biais de plusieurs canaux de communication, ou partage avec des sociétés affiliées qui font la promotion de nos produits sur leurs sites Web. |
-| Fournisseur de service d’exécution de commande | Fourniture de services logistiques, d’entreposage et de distribution, de services de retour et d’échange, et de services de notification de statut de commande pour les articles que vous avez achetés. |
-| Fournisseur de service client | Aide avec le service et l’assistance à la clientèle. |
-| Prestataire de services de prévention de la fraude et de sécurité de l’information | Services de vérification d’identité, de prévention de la fraude ou de réduction du risque de crédit pour protéger notre site Web/application et notre entreprise. |
-| Autres prestataires de services que vous avez sélectionnés | D’autres tiers, tels que des prestataires de services de recommandation de taille et de prédiction d’ajustement, si vous avez choisi de nous aider à vous proposer des recommandations de produits. |
-
-Fournisseur/Prestataire de services/Sous-traitant
-
-Veuillez noter que nous pouvons divulguer, sans limitation, des informations agrégées ou anonymisées concernant les utilisateurs de nos services, à savoir des informations qui n’identifient aucune personne spécifique.
-
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
-
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
-
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
-
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
-
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
-
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
-
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
-
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
-
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
-
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
-
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
-
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
-
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
-
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
-
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
-
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
-
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
-
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
-
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+| Fournisseur de services informatiques et logiciels | Services d'hébergement de sites web (y compris le stockage en cloud), services d'optimisation d'applications mobiles ou de logiciels, logiciels de gestion de la relation client, fournisseurs de services de messagerie électronique, ou services de maintenance des systèmes. |
+| Fournisseur de services de paiement | Services de traitement des paiements tiers. |
+| Services de marketing et de publicité | Aide à la conquête de nouveaux clients potentiels à travers plusieurs canaux de communication, ou partage avec des entreprises affiliées qui promeuvent nos produits sur leurs sites web. |
+| Fournisseur de services d'exécution des commandes | Fourniture de services de logistique, d'entreposage et de distribution, de retour et d'échange, ainsi que de services de notification de statut de commande pour vos articles achetés. |
+| Fournisseur de services à la clientèle | Assistance pour les services et le support client. |
+| Fournisseur de services de prévention de la fraude et de sécurité des informations | Services de vérification d'identité, de prévention de la fraude ou de réduction des risques de crédit pour protéger notre site web/application et notre entreprise. |
+| Conseillers professionnels | Y compris avocats, consultants et comptables, ainsi que d'autres fournisseurs de conseils d'experts. |
+| Autres fournisseurs de services sélectionnés par vous | Autres tiers, tels que les fournisseurs de services de recommandations de taille et de prédiction d'ajustement, si vous avez choisi de nous aider à vous fournir des recommandations de produits. |
 
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+Fournisseur/Fournisseur de services/Traiteur  
 
-3\. Cookies, publicité basée sur les intérêts, choix de publicité
+Veuillez noter que nous pouvons divulguer, sans restriction, des informations agrégées ou anonymisées concernant les utilisateurs de nos Services, qui sont des informations ne permettant pas d'identifier une personne spécifique.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+  
 
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+**3.1 Qu'est-ce que les cookies?**  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-* **A.** _Cookies_ . Les cookies sont de petits fichiers Web qu’un site ou son fournisseur transfère sur le disque dur de votre appareil via votre navigateur Web et qui permet au site ou au système du fournisseur de reconnaître votre navigateur et de mémoriser certaines informations.
-* En règle générale, nous utilisons des cookies de première partie et de tierce partie aux fins suivantes : le bon fonctionnement de nos Services ; fournir une expérience de navigation sécurisée pendant l’utilisation de nos Services ; collecter des informations passives concernant votre utilisation de nos Services ; mesurer votre interaction avec nos campagnes marketing ; nous aider à améliorer nos Services ; et mémoriser vos préférences pour faciliter votre expérience.
-* Nous utilisons les types de cookies, balises et technologies connexes suivants sur notre Site, nos Applications et Services :
-* * _Cookies strictement nécessaires._ De tels cookies sont essentiels car ils vous permettent d’utiliser nos Services. Par exemple, les cookies strictement nécessaires vous permettent d’accéder à des zones sécurisées sur nos Services. Sans lesdits cookies, certains services ne peuvent pas être fournis. De tels cookies ne collectent pas d’informations vous concernant à des fins de marketing. Cette catégorie de cookies est essentielle au fonctionnement de nos Services et ne peut être désactivée.
-    * _Cookies fonctionnels._ Nous utilisons des cookies fonctionnels pour mémoriser vos choix afin de personnaliser nos Services en vue de vous fournir une fonctionnalité améliorée et un contenu personnalisé. Par exemple, de tels cookies peuvent être utilisés pour mémoriser votre nom ou vos préférences sur nos Services. Nous n’utilisons pas de cookies fonctionnels pour vous cibler avec du marketing en ligne. Bien que ces cookies, s'ils sont désactivés, peuvent entraîner une réduction des fonctionnalités lorsque vous utilisez nos Services, vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies de performance ou analytiques._ Ces cookies collectent des informations passives sur la façon dont vous utilisez nos Services, y compris les pages Web que vous visitez et les liens sur lesquels vous cliquez. Nous utilisons les informations collectées par lesdits cookies afin d’améliorer et optimiser nos Services. Nous n’utilisons pas ces cookies pour vous cibler avec du marketing en ligne. Vous pouvez désactiver lesdits cookies comme indiqué ci-dessus.
-    * _Cookies publicitaires ou de ciblage._ Ces cookies sont utilisés afin de rendre les messages publicitaires plus pertinents pour vous. Ils exécutent des fonctions telles qu’empêcher la même publicité de réapparaître continuellement, assurer que les publicités sont affichées correctement pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont fondées sur vos intérêts. Nos partenaires publicitaires tiers peuvent utiliser de tels cookies afin de créer un profil de vos intérêts et fournir des publicités pertinentes sur d’autres sites. Vous pouvez désactiver l’utilisation desdits cookies comme indiqué ci-dessus.
-* **B.** _Vos choix_ . Votre navigateur peut vous offrir la possibilité de refuser certains cookies ou tous les cookies du navigateur. Vous pouvez également supprimer les cookies de votre navigateur. Vous pouvez exercer vos préférences concernant les cookies placés sur nos Services en suivant les étapes décrites ci-dessus.
-* * _Cookies de première partie._ Vous pouvez utiliser le navigateur grâce auquel vous consultez le présent site afin d’activer, désactiver ou supprimer les cookies. Pour ce faire, suivez les instructions fournies par votre navigateur (généralement situées sous les paramètres « Aide », « Outils » ou « Modification »). Veuillez noter que si vous configurez votre navigateur pour désactiver les cookies, vous pourriez ne pas être en mesure d’accéder aux zones sécurisées du site. De plus, si vous désactivez les cookies, d’autres parties des Services pourraient ne pas fonctionner correctement. Vous trouverez plus d’informations sur la façon de modifier les paramètres des cookies de votre navigateur sur [https://www.allaboutcookies.org](https://www.allaboutcookies.org/) .
-    * _Cookies de tierce partie._ Dans le cas où vous souhaitez vous inscrire ou vous désinscrire des réseaux publicitaires tiers et des entités similaires qui utilisent des cookies publicitaires, veuillez cliquer sur le lien « Gérer les cookies » au bas de la page de notre site Web ou consulter [https://www.aboutads.info/choices](https://www.aboutads.info/choices) . Pour plus d’informations sur les réseaux publicitaires tiers et les entités similaires qui utilisent de telles technologies, veuillez consulter [https://www.aboutads.info/consumers](https://www.aboutads.info/consumers) . Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page du site ou dans le menu de l’application. Les résidents de l’Union européenne peuvent refuser la publicité comportementale en ligne proposée par les organisations membres participantes de l’Alliance européenne de la publicité numérique interactive (European Interactive Digital Advertising Alliance) en visitant [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) .
-    * _Applications mobiles._ Afin de refuser la collecte de données pour la publicité fondée sur les centres d’intérêt sur les applications mobiles par les entreprises participantes, téléchargez l’offre de refus des applications mobiles AppChoices de la Digital Advertising Alliance ici : [https://youradchoices.com/appchoices](https://youradchoices.com/appchoices) .
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-* **C.** _Pixels Web_ . Afin d’évaluer le succès de nos campagnes marketing ou autres finalités des Services, nous utilisons parfois des pixels de conversion, qui tirent une courte ligne de code pour nous indiquer quand vous avez cliqué sur un bouton particulier ou accédé à une page particulière (par exemple, une page de remerciement après avoir terminé la procédure d’abonnement à l’un de nos services ou rempli l’un de nos formulaires). Nous utilisons également des pixels Web pour analyser les habitudes d’utilisation de nos services. L’utilisation d’un pixel nous permet d’enregistrer qu’un appareil, un navigateur ou une application spécifique a visité une page Web particulière.
-* **D.** _Analyses_ . Nous pouvons faire appel à des prestataires de services tiers pour surveiller et analyser l’utilisation de nos Services. Actuellement, nous utilisons **Google Analytics** . Google Analytics est un service d’analyse Web qui suit le trafic sur le site et établit des rapports. Pour plus d’informations sur les pratiques de confidentialité de Google, veuillez consulter la page Web Confidentialité et conditions de service de Google : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr) . Le module complémentaire de navigateur pour la désactivation de Google Analytics permet aux visiteurs d’empêcher la collecte et l’utilisation de leurs données par Google Analytics. Il est disponible sur : [https://tools.google.com/dlpage/gaoptout?hl=fr](https://tools.google.com/dlpage/gaoptout?hl=fr) .
-* Si Google Analytics est structuré pour collecter des données à caractère personnel, la bannière de cookies sur notre site Web vous donnera la possibilité de consentir à Google Analytics et le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons implémenté Google Analytics avec la fonction « AnonymizeIP », qui garantit que votre adresse IP sera raccourcie avant d’être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ledit transfert aux États-Unis. Google utilise de telles données afin d’évaluer votre utilisation de nos services, compiler des rapports sur les activités de nos services en ligne et nous fournir d’autres services liés à l’utilisation du site Web, de l’application et d’Internet.
-* **E.** _Remarketing comportemental_ . Nous utilisons également des services de remarketing pour vous transmettre de la publicité sur des sites Web tiers après votre visite de nos Services. À cette fin, les visiteurs sont regroupés en se fondant sur certaines actions sur nos Services, par exemple, selon la durée d’une visite. Cela nous permet de comprendre vos préférences et de vous présenter des publicités personnalisées, même si vous surfez actuellement sur un autre site Web qui participe également au réseau publicitaire Google.
-* Nous utilisons les outils et services suivants à ces fins :
-* * Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous le désactiver en visitant la page de paramètres de Google Ads sur : [http://www.google.com/settings/ads](http://www.google.com/settings/ads) .
-    * Si Google Ads est structuré pour collecter des données à caractère personnel, le responsable du traitement des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.
-    * **Bing Ads** est un service exploité par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour de plus amples informations sur la façon dont Microsoft traite vos informations sur : [https://privacy.microsoft.com/fr-fr](https://privacy.microsoft.com/fr-fr) information. Lorsque vous accédez à notre site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. En outre, une balise Universal Event Tracking est intégrée sur notre Site. Il s’agit d’un code qui, en combinaison avec le cookie, conserve des données sur l’utilisation du Site, par exemple, la durée de la visite, les zones consultées et les publicités ayant servi à atteindre le Site. En outre, Microsoft peut suivre vos habitudes d’utilisation sur plusieurs de vos appareils électroniques grâce à la méthode connue sous le nom de suivi inter-appareils. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données à caractère personnel, la bannière de cookies sur nos Services vous donnera la possibilité de consentir à Bing Ads.
-    * **Publicités Facebook.** En raison de notre utilisation de [Facebook Business Tools](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) , nous pouvons afficher des publicités fondées sur vos intérêts lorsque vous utilisez Facebook. Afin de modifier vos préférences ou désactiver la personnalisation des publicités diffusées par Facebook, vous pouvez vous rendre sur la page des [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) de Facebook en plus de la section « Vos choix » ci-dessous. Nous pouvons également diffuser des publicités à des publics qui partagent des caractéristiques similaires aux vôtres. Pour ce faire, une liste d’adresses e-mail est cryptée de manière irréversible par hachage et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées à celles de ses propres utilisateurs, générant un public similaire et supprimant la liste téléchargée. Nous n’avons pas accès à l’identité des personnes faisant partie du public similaire, à moins qu’elles ne choisissent de cliquer sur l’une de nos publicités.
-* **F.** _Autres technologies de suivi_ . Nous pouvons également utiliser des technologies de suivi afin de collecter des données « clickstream », comme le nom de domaine du service qui vous fournit un accès Internet, le type d’appareil que vous utilisez, l’adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, de votre système d’exploitation et votre plateforme, le temps moyen passé sur notre site, les pages Web visualisées, le contenu recherché, le temps d’accès et d’autres statistiques pertinentes, et attribuer des identifiants uniques à l’appareil ou à d’autres informations d’identification que vous utilisez pour accéder au Site aux mêmes fins.
-* Les pages de notre Site peuvent également utiliser des scripts Java, qui sont des fragments de code intégrés dans diverses parties des sites Web et d’applications qui facilitent différentes opérations, telles que l’accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou la surveillance de l’utilisation de divers composants en ligne ; balises d’entité, qui sont des mécanismes de code HTTP qui permettent de stocker des parties de sites Web ou de les mettre en cache dans votre navigateur afin d’accélérer les performances du site Web ; et stockage local HTML5, qui permet aux données des sites Web d’être stockées ou mises en cache dans votre navigateur afin de stocker et récupérer des données dans des pages HTML5 lorsque le site Web est visité à nouveau.
-* **G.** _Ne pas suivre_ . Certains navigateurs Internet, tels qu’Internet Explorer, Firefox et Safari, offrent la possibilité de transmettre des signaux « Ne pas suivre » ou « DNT » (Do Not Track). Étant donné que des normes uniformes pour les signaux « DNT » n’ont pas été adoptées, notre site ne traite ni ne répond pas actuellement aux signaux « DNT ».
-* **H.** _Informations de géolocalisation_ . Il est possible que vous puissiez ajuster les paramètres de votre appareil afin que les informations concernant votre emplacement physique ne nous soient pas envoyées ni envoyées à des tiers en (a) désactivant les services de géolocalisation dans les paramètres de l’appareil ; ou (b) en refusant l’autorisation de certains sites Web ou applications mobiles d’accéder aux informations de géolocalisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nous pouvons utiliser des cookies, des balises, des pixels Web et des technologies similaires pour collecter automatiquement des informations sur nos Services. Les cookies ou les balises sont des bouts de code qui permettent à nos partenaires technologiques de collecter des informations qui ne vous identifient généralement pas directement. Si la loi l’exige, nous vous demanderons votre consentement avant d’utiliser des cookies ou d’autres technologies de suivi. Les informations contenues dans cette section décrivent la manière dont nous utilisons les cookies et votre capacité à contrôler l’utilisation des cookies à des fins publicitaires. Comme décrit ci-dessous, nous n’utilisons pas de cookies ou de technologies de suivi similaires qui traitent vos données à caractère personnel, à moins qu’il ne s’agisse de cookies strictement nécessaires, ou que vous n’optiez, c’est-à-dire que vous donniez votre consentement, en utilisant la bannière de cookies ou le gestionnaire de consentement disponible sur nos Services. Vous pouvez retirer votre consentement ou mettre à jour vos préférences à tout moment en cliquant sur le lien « Gérer les cookies » au bas de la page des Services.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Nous ne contrôlons pas la collecte ou l’utilisation de vos informations par des tiers en vue de diffuser des publicités fondées sur les intérêts. Toutefois, lesdits tiers peuvent vous fournir des moyens de refuser la collecte ou l’utilisation de vos informations de cette manière. En outre, la plupart des navigateurs Web fournissent des pages d’aide visant à configurer les préférences en matière de cookies. Vous trouverez plus d’informations à propos des navigateurs suivants ici : [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB) , [Internet Explorer](https://support.microsoft.com/en-us/help/260971/description-of-cookies) , [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer) , [Safari (Desktop)](https://support.apple.com/zh-cn/guide/safari/sfri11471/mac) , [Safari (Mobile)](https://support.apple.com/en-us/HT201265) , [Navigateur Android](https://support.google.com/nexus/answer/54068?visit_id=637188034605491433-3067478416&hl=en&rd=1) , [Opera Mobile](https://help.opera.com/en/mobile/android/) .
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-SHEIN adhère aux principes d'autorégulation de la Digital Advertising Alliance.
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-4\. Précautions de sécurité
+**3.3 Comment utilisons-nous les cookies?**  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-4\. Précautions de sécurité
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.4 Suppression des cookies de votre appareil**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-4\. Précautions de sécurité
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.5 Blocage des cookies**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-4\. Précautions de sécurité
+**3.6 Analytics**  
 
-4\. Précautions de sécurité
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-4\. Précautions de sécurité
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**3.7 Remarketing Comportemental**  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-Nous maintenons des mesures de protection physiques, électroniques et procédurales conçues pour protéger et prévenir l’utilisation abusive de vos informations personnelles.Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l’industrie pour empêcher l'accès, l'utilisation ou la divulgation non autorisés de vos informations.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Internet n’est pas un environnement absolument sécurisé. Nous vous recommandons vivement d’utiliser une méthode sécurisée et un mot de passe fort afin de nous aider à maintenir la sécurité de votre compte. Nous vous conseillons également de ne pas partager votre mot de passe avec d’autres personnes et de ne pas réutiliser les mots de passe que vous utilisez pour nos Services sur d’autres sites ou applications, étant donné que cela augmente la probabilité que vous soyez victime d’une attaque de bourrage d’identifiants ou d’autres cyber-comportements malveillants. Dans l’hypothèse où vous pensez que la sécurité de votre compte ou de vos données à caractère personnel a été compromise, veuillez nous contacter immédiatement à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section Nous contacter ci-dessous.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-5\. Vos droits
+**3.8 Autres Technologies de Suivi**  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+**3.9 Informations sur la localisation**  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+**3.1 Qu'est-ce que les cookies?**  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-5\. Vos droits
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+**3.3 Comment utilisons-nous les cookies?**  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-5\. Vos droits
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.4 Suppression des cookies de votre appareil**  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.5 Blocage des cookies**  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+**3.6 Analytics**  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-5\. Vos droits
+**3.7 Remarketing Comportemental**  
 
-5\. Vos droits
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-5\. Vos droits
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+**3.8 Autres Technologies de Suivi**  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+**3.9 Informations sur la localisation**  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+**3.1 Qu'est-ce que les cookies?**  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nous attachons une grande importance à l’attention que vous portez à vos informations personnelles, et nous faisons tout ce que nous pouvons pour protéger vos droits d’accès, de rectification, de suppression, d’annulation de votre compte et de retrait de votre consentement au traitement par nous de vos informations personnelles, afin que vous ayez la pleine capacité de protéger votre vie privée et votre sécurité. Afin d’exercer vos droits en vertu de la présente Politique et de la loi applicable, vous pouvez nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-**5.1 Accès, rectification, portabilité et suppression de vos données à caractère personnel.** Vous avez le droit de rectifier ou de mettre à jour vos données à caractère personnel, de vous opposer à leur traitement, de nous demander de limiter leur traitement ou de demander leur portabilité. Afin de protéger la confidentialité et la sécurité de vos données à caractère personnel, nous pouvons vous demander des données pour nous permettre de confirmer votre identité et votre droit d’accéder auxdites données, ainsi que de rechercher et vous fournir les données à caractère personnel que nous conservons à votre demande. Dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-Afin d’exercer vos droits, vous pouvez effectuer des mises à jour de votre compte client sur le Site ou l’Application, ou vous pouvez contacter notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié. Dans le cas où vous ne souhaitez plus être notre client, ou souhaitez cesser d’utiliser ou d’accéder à nos Services, vous pouvez nous demander de fermer votre compte et de supprimer toute information personnelle que nous détenons vous concernant via le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) (voir Section 10), sous réserve de certaines exigences légales.
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-**5.2 Retrait du consentement.** Vous avez le droit de retirer votre consentement au traitement de vos données à caractère personnel, ainsi que le droit d’accéder, rectifier ou supprimer les informations personnelles que nous collectons, sous réserve de certaines exceptions.
+**3.3 Comment utilisons-nous les cookies?**  
 
-Veuillez remarquer que, dans certains cas, les lois ou exigences réglementaires applicables nous permettent ou nous obligent à refuser de fournir ou de supprimer une partie ou la totalité des informations personnelles que nous conservons.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-**5.3 Désabonnement de nos communications marketing.** Dans le cas où vous ne souhaitez plus que nous utilisions votre compte de messagerie afin de vous envoyer des e-mails marketing ou documents promotionnels non transactionnels, veuillez cliquer directement sur le lien de désabonnement au bas de chaque message électronique que nous vous envoyons ou nous contacter à notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-**5.4 Opposition à la réception de brochures publicitaires par courrier traditionnel.** Dans le cas où vous ne souhaitez plus que nous utilisions votre adresse postale pour vous envoyer des brochures publicitaires par courrier traditionnel, veuillez contacter le service client ou utiliser l’adresse de retour fournie avec chaque brochure publicitaire, pour soumettre votre demande de désabonnement de toute autre publicité postale.
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-**5.5 Introduction de réclamations.** Dans le cas où vous pensez que nous avons enfreint vos droits au respect de la vie privée, veuillez contacter notre Centre de confidentialité dédié afin que nous puissions tenter de résoudre tout problème de manière satisfaisante pour vous. Les méthodes permettant d’exercer vos droits mentionnées ci-dessus ou dans le [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) , sont sans préjudice de votre droit de déposer une réclamation ou une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées sont disponibles sur [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en) ).
+**3.4 Suppression des cookies de votre appareil**  
 
-S’agissant de vos données à caractère personnel traitées par un vendeur tiers sur nos Site et Application en tant que responsable de traitement indépendant, vous pouvez contacter directement le vendeur tiers afin d’exercer vos droits en vertu de la loi applicable.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-6\. Conservation
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+**3.5 Blocage des cookies**  
 
-6\. Conservation
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+**3.6 Analytics**  
 
-6\. Conservation
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-6\. Conservation
+**3.7 Remarketing Comportemental**  
 
-6\. Conservation
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-6\. Conservation
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Nous conserverons vos données à caractère personnel, y compris toute correspondance que vous avez avec nous, uniquement pendant la durée nécessaire aux finalités énoncées dans la présente politique, y compris la conservation des données à caractère personnel afin de nous conformer à nos obligations légales, de résoudre des litiges, à des fins de sécurité de l’information et de mise en application de nos droits légaux, conditions et politiques.
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-7\. Sites Web tiers
+**3.8 Autres Technologies de Suivi**  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-7\. Sites Web tiers
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+**3.9 Informations sur la localisation**  
 
-7\. Sites Web tiers
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-7\. Sites Web tiers
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-7\. Sites Web tiers
+3\. Cookies, Publicité basée sur les intérêts, Choix publicitaires  
 
-7\. Sites Web tiers
+**3.1 Qu'est-ce que les cookies?**  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-Notre Application ou Site peut contenir des liens vers des sites tiers. La présente politique ne s’applique pas à de ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité desdits sites.
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-8\. Enfants
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-8\. Enfants
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-8\. Enfants
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+**3.3 Comment utilisons-nous les cookies?**  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-8\. Enfants
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-8\. Enfants
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-8\. Enfants
+**3.4 Suppression des cookies de votre appareil**  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+**3.5 Blocage des cookies**  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-Nos Services ne sont pas destinés aux enfants de moins de 16 ans ou aux mineurs (tels que définis par les lois nationales applicables) et nous ne collectons pas sciemment d’informations personnelles auprès d’eux. Si vous êtes mineur, nous vous prions de ne pas tenter de remplir nos formulaires ou de nous envoyer toute information personnelle vous concernant. Si un mineur nous a fourni des informations personnelles, ses parents ou son tuteur doivent nous contacter (voir section 10) immédiatement pour supprimer les informations personnelles en question et désinscrire le mineur.
+**3.6 Analytics**  
 
-Si nous apprenons qu’un mineur nous a fourni des informations personnelles, nous prendrons des mesures pour supprimer rapidement lesdites informations de nos fichiers. Comme décrit plus en détail dans nos [conditions générales du Site](https://fr.shein.com/Terms-and-Conditions-a-399.html) , veuillez ne pas télécharger de photographies montrant d’autres personnes, particulièrement s’il s’agit de mineurs.
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-9\. Transfert de vos données à caractère personnel
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**3.7 Remarketing Comportemental**  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-9\. Transfert de vos données à caractère personnel
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-9\. Transfert de vos données à caractère personnel
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**3.8 Autres Technologies de Suivi**  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-9\. Transfert de vos données à caractère personnel
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-9\. Transfert de vos données à caractère personnel
+**3.9 Informations sur la localisation**  
 
-9\. Transfert de vos données à caractère personnel
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+**3.1 Qu'est-ce que les cookies?**  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Lorsque vous accédez à nos Services ou les utilisez, vos **données à caractère personnel peuvent être traitées ou transférées en dehors de l’Union européenne, y compris aux États-Unis, en Chine ou à Singapour.** Les pays ou juridictions susmentionnés peuvent avoir des lois sur la protection des données qui sont moins protectrices que les lois de la juridiction dans laquelle vous résidez.
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-Aux fins de tels transferts, nous nous appuyons sur des garanties appropriées telles qu’autorisées en vertu du RGPD, telles que les clauses contractuelles types, ou nous transférons les informations personnelles conformément à l’Article 49 (1) (b) du RGPD pour fournir nos Services conformément aux Conditions générales du Site. Dans le cas où vous ne souhaitez pas que vos informations soient transférées, traitées ou conservées en dehors du pays ou de la juridiction où vous résidez, vous devez immédiatement cesser d’accéder aux Services ou de les utiliser. Pour plus de détails concernant lesdits transferts et les garanties que nous utilisons pour les faciliter, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-10\. Nous contacter
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-Commissaire à la protection des données
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-Service de Style Illimité de la Corporation limitée
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-1 - 2 bâtiment Victoria,
+**3.3 Comment utilisons-nous les cookies?**  
 
-Rue Haddington,
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Dublin 4,
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-Dublin,
+* **A.** _Cookies Strictement Nécessaires_ .  
+    
+* Ces cookies sont indispensables pour que vous puissiez naviguer sur le site web et utiliser ses fonctionnalités, comme accéder à des zones sécurisées du site. Les cookies qui permettent aux boutiques en ligne de conserver vos articles dans votre panier pendant que vous faites vos achats en ligne sont un exemple de cookies strictement nécessaires, tout comme les cookies qui protègent le site contre les attaques malveillantes.  
+    
+* Parce que ces cookies sont nécessaires au fonctionnement du site web, l'outil de gestion des cookies ne vous permet pas de les refuser. Cependant, vous pouvez utiliser les paramètres de votre navigateur pour les désactiver. Ces cookies sont cruciaux pour le bon fonctionnement du site. Si vous choisissez de désactiver ces cookies de ce site, la fonctionnalité du site pourrait être considérablement réduite.  
+    
+* **B.** _Cookies de Performance_  
+    
+* Ces cookies collectent des informations sur la manière dont vous utilisez un site web, comme les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Aucune de ces informations ne peut être utilisée pour vous identifier. Tout cela est agrégé et, par conséquent, anonymisé. Leur seul but est d'améliorer les fonctions du site web. Cela inclut des cookies des services d'analyse tiers tant que les cookies sont utilisés exclusivement par le propriétaire du site visité.  
+    
+* Les informations statistiques sont utilisées dans des rapports et pour améliorer notre site. Par exemple, nous avons utilisé des données analytiques pour ajouter, supprimer ou modifier des fonctionnalités du site en fonction de leur popularité auprès des utilisateurs.  
+    
+* Nous suivons, par exemple :  
+    
+* * _le nombre de visiteurs sur des pages individuelles；_  
+        
+    * _quand les pages ont été visitées；_  
+        
+    * _combien de temps les utilisateurs sont restés sur la page;_  
+        
+    * _l'adresse IP de l'utilisateur du site web;_  
+        
+    * _la page dont ils viennent;_  
+        
+    * _des données techniques sur l'appareil utilisé pour naviguer sur le site (telles que la version du navigateur et du système d'exploitation, et la taille d'affichage) - nous utilisons ces données pour garantir que la technologie utilisée par notre site est appropriée pour la majorité de nos utilisateurs, et comment mieux afficher le site pour les utilisateurs ayant des navigateurs moins performants_  
+        
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à notre capacité à offrir aux clients la meilleure expérience.  
+    
+* **C.** _Cookies fonctionnels_ .  
+    
+* Ces cookies permettent à un site web de se souvenir des choix que vous avez faits dans le passé, comme la langue que vous préférez, si vous avez accepté les cookies, vers quel magasin régional vous devez être dirigé, ou quel est votre nom d'utilisateur et votre mot de passe afin que vous puissiez vous connecter automatiquement.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut nuire à votre expérience du site web.  
+    
+* **D.** _Cookies de ciblage_ .  
+    
+* Ces cookies peuvent être définis via notre site par nos partenaires publicitaires. Ceux-ci peuvent être utilisés par ces entreprises pour établir un profil de vos intérêts et vous montrer des publicités pertinentes sur d'autres sites. Ils ne stockent pas directement d'informations personnelles, mais sont basés sur l'identification unique de votre navigateur et de votre appareil Internet. Si vous n'autorisez pas ces cookies, vous bénéficierez d'une publicité moins ciblée.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Cependant, cela peut entraîner un affichage de publicités en ligne moins pertinentes.  
+    
+* **E.** _Cookies de médias sociaux_ .  
+    
+* Ces cookies sont définis par divers services de médias sociaux que nous avons ajoutés au site pour vous permettre de partager notre contenu avec vos amis et vos réseaux. Ils sont capables de suivre votre navigateur sur d'autres sites et de constituer un profil de vos intérêts. Cela peut influencer le contenu et les messages que vous voyez sur d'autres sites web que vous visitez.  
+    
+* Étant donné que ces cookies ne sont pas strictement nécessaires au fonctionnement du site web, l'outil de gestion des cookies vous permet de les refuser à tout moment. Si vous n'autorisez pas ces cookies, vous pourriez ne pas être en mesure d'utiliser ou de voir ces outils de partage.  
+    
 
-D04 XN32,
+**3.4 Suppression des cookies de votre appareil**  
 
-Irlande
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-10\. Nous contacter
+**3.5 Blocage des cookies**  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.6 Analytics**  
 
-Commissaire à la protection des données
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-Service de Style Illimité de la Corporation limitée
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-1 - 2 bâtiment Victoria,
+**3.7 Remarketing Comportemental**  
 
-Rue Haddington,
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Dublin 4,
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Dublin,
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-D04 XN32,
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Irlande
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+**3.8 Autres Technologies de Suivi**  
 
-10\. Nous contacter
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+**3.9 Informations sur la localisation**  
 
-Commissaire à la protection des données
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Service de Style Illimité de la Corporation limitée
+**3.1 Qu'est-ce que les cookies?**  
 
-1 - 2 bâtiment Victoria,
+Un cookie est un petit fichier texte qu'un site web stocke sur votre ordinateur ou votre appareil mobile lorsque vous visitez le site.  
 
-Rue Haddington,
+Les cookies de première partie sont des cookies définis par le site web que vous visitez. Seul ce site peut les lire.  
 
-Dublin 4,
+De plus, un site web pourrait potentiellement utiliser des services externes, qui définissent également leurs propres cookies, appelés cookies de tiers.  
 
-Dublin,
+Les cookies persistants sont des cookies enregistrés sur votre ordinateur et qui ne sont pas supprimés automatiquement lorsque vous fermez votre navigateur.  
 
-D04 XN32,
+Les cookies de session sont supprimés lorsque vous fermez votre navigateur.  
 
-Irlande
+Chaque fois que vous visitez nos sites web, vous serez invité à accepter ou à refuser les cookies. Le but est de permettre au site de mémoriser vos préférences (comme le nom d'utilisateur, la langue, etc.) pendant une certaine période. De cette façon, vous n'avez pas à les saisir à nouveau lorsque vous naviguez sur le site lors de la même visite.  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+Les cookies peuvent également être utilisés pour établir des statistiques anonymisées sur l'expérience de navigation sur nos sites.  
 
-10\. Nous contacter
+**3.2 Comment pouvez-vous contrôler l'utilisation des cookies par SHEIN?**  
 
-10\. Nous contacter
+Lorsque vous accédez à notre site web, un outil de gestion des cookies vous est présenté, qui demande votre consentement pour déployer plusieurs types de cookies. Vous pouvez utiliser cet outil pour donner ou retirer votre consentement à l'utilisation de ces cookies. Si vous ne faites pas de choix en utilisant l'outil, le site n'utilisera que les cookies strictement nécessaires (voir ci-dessous).  
 
-10\. Nous contacter
+Si vous souhaitez modifier la préférence que vous avez faite via l'outil de gestion des cookies, vous devez cliquer sur “gérer les cookies” en bas de la page web. Cela fera appel à l'outil de gestion des cookies pour que vous puissiez faire de nouveaux choix.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.3 Comment utilisons-nous les cookies?**  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+Actuellement, il existe cinq types de cookies qui peuvent être générés lorsque vous naviguez sur notre site :  
 
-Commissaire à la protection des données
+Cookies Strictement Nécessaires, Cookies de Performance, Cookies Fonctionnels, Cookies de Ciblage et Cookies de Médias Sociaux  
 
-Service de Style Illimité de la Corporation limitée
+**3.4 Suppression des cookies de votre appareil**  
 
-1 - 2 bâtiment Victoria,
+Vous pouvez supprimer tous les cookies qui sont déjà sur votre appareil en utilisant les paramètres de votre navigateur. Cela supprimera tous les cookies de tous les sites web que vous avez visités.  
 
-Rue Haddington,
+Soyez cependant conscient que vous pourriez également perdre certaines informations enregistrées (par exemple, les détails de connexion enregistrés, les préférences du site).  
 
-Dublin 4,
+**3.5 Blocage des cookies**  
 
-Dublin,
+En plus d'utiliser l'outil de gestion des cookies, vous pouvez configurer la plupart des navigateurs modernes pour empêcher la mise en place de cookies sur votre appareil, mais vous devrez peut-être alors ajuster manuellement certaines préférences chaque fois que vous visitez un site/page, et certains services et fonctionnalités peuvent ne pas fonctionner correctement (par exemple, la connexion au profil).  
 
-D04 XN32,
+**3.6 Analytics**  
 
-Irlande
+Nous pouvons utiliser des prestataires de services tiers pour surveiller et analyser l'utilisation de nos Services. Actuellement, nous utilisons **Google Analytics**. Google Analytics est un service d'analyse web qui suit et rapporte le trafic du Site. Pour plus d'informations sur les pratiques de confidentialité de Google, veuillez visiter la page web Google Privacy & Terms : [https://policies.google.com/privacy?hl=fr](https://policies.google.com/privacy?hl=fr). L'extension pour navigateur de désactivation de Google Analytics permet aux visiteurs d'éviter que leurs données soient collectées et utilisées par Google Analytics, disponible à : [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+Si Google Analytics est configuré pour collecter des données personnelles, la bannière de cookies sur notre Site vous donnera l'opportunité de consentir à Google Analytics, et le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande. Nous avons mis en œuvre Google Analytics avec la fonction “AnonymizeIP”, qui garantit que votre adresse IP sera raccourcie avant d'être envoyée aux serveurs aux États-Unis. Exceptionnellement, le raccourcissement peut avoir lieu après ce transfert vers les États-Unis. Google utilise ces données pour évaluer votre utilisation de nos Services, pour compiler des rapports sur les activités sur nos services en ligne et pour nous fournir d'autres services liés à l'utilisation du Site, de l'App et d'internet.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+**3.7 Remarketing Comportemental**  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+Nous utilisons également des services de remarketing pour faire de la publicité sur des sites tiers après que vous avez visité nos Services. À cette fin, les visiteurs sont regroupés par certaines actions sur nos Services, par exemple, par la durée d'une visite. Cela nous permet de comprendre vos préférences et de vous montrer des publicités personnalisées même si vous naviguez actuellement sur un autre site qui participe également au réseau publicitaire de Google.  
 
-Commissaire à la protection des données
+Nous utilisons les outils et services suivants à ces fins : Le service de remarketing **Google Ads** est fourni par Google. Vous pouvez vous désinscrire en visitant la page des paramètres de Google Ads : [https://www.google.com/settings/ads](https://www.google.com/settings/ads).  
 
-Service de Style Illimité de la Corporation limitée
+Si Google Ads est configuré pour collecter des données personnelles, le responsable des données sera Google Ireland Ltd., Gordon House, Barrow Street, Dublin 4, Irlande.  
 
-1 - 2 bâtiment Victoria,
+**Bing Ads** est un service opéré par Microsoft Ireland Operations Limited, One Microsoft Place, South County Business Park, Leopardstown, Dublin 18, Irlande. Veuillez lire la déclaration de confidentialité de Microsoft pour plus d'informations sur la façon dont Microsoft traite vos informations [https://privacy.microsoft.com/en-US/](https://privacy.microsoft.com/en-US/). Lorsque vous accédez à notre Site via des publicités sur Bing Ads, un cookie est placé sur votre ordinateur. De plus, une balise de suivi d'événements universels est intégrée sur notre Site. C'est un code qui, en combinaison avec le cookie, stocke des données sur l'utilisation du Site, par exemple, le temps passé sur le Site, les zones accédées et les publicités utilisées pour atteindre le Site. De plus, Microsoft peut suivre vos modèles d'utilisation à travers plusieurs de vos appareils électroniques grâce au suivi cross-device. Les informations collectées sont transférées vers un serveur Microsoft aux États-Unis. Si Bing Ads est structuré pour collecter des données personnelles, la bannière de cookies sur nos Services vous donnera l'opportunité de consentir à Bing Ads.  
 
-Rue Haddington,
+**Publicités Facebook**. Utilisation [des Outils commerciaux Facebook](https://www.facebook.com/help/331509497253087?_ga=2.209174994.1788406346.1623304331-967224649.1617743589), nous pouvons vous montrer des publicités personnalisées en fonction de vos intérêts lorsque vous utilisez Facebook. Pour modifier vos préférences ou vous désinscrire de la personnalisation des publicités diffusées par Facebook, vous pouvez visiter les [Préférences publicitaires](https://www.facebook.com/help/109378269482053?_ga=2.209174994.1788406346.1623304331-967224649.1617743589) Facebooken plus de la section Vos choix ci-dessous. Nous pouvons également montrer des publicités à des audiences partageant des caractéristiques similaires aux vôtres. À cette fin, une liste d'adresses e-mail est irréversiblement hachée, cryptée et téléchargée ou transmise depuis notre site, et Facebook compare les données hachées avec ses utilisateurs, générant une audience similaire et supprimant la liste téléchargée. Nous n'avons pas accès à l'identité de quiconque dans l'audience "similaire", à moins qu'ils ne choisissent de cliquer sur l'une de nos publicités.  
 
-Dublin 4,
+**3.8 Autres Technologies de Suivi**  
 
-Dublin,
+Nous pouvons également utiliser des technologies de suivi pour collecter des données de "flux de clics", telles que le nom de domaine du service vous fournissant un accès Internet, le type de votre appareil, l'adresse IP utilisée pour connecter votre ordinateur à Internet, le type et la version de votre navigateur, le système d'exploitation et la plateforme, le temps moyen passé sur notre site, les pages web consultées, le contenu recherché, les temps d'accès et d'autres statistiques pertinentes, et attribuer des identifiants uniques à l'appareil ou à d'autres identifiants que vous utilisez pour accéder au site pour les mêmes finalités.  
 
-D04 XN32,
+Les pages de notre site peuvent également utiliser des scripts Java, qui sont des extraits de code intégrés dans diverses parties des sites web et des applications qui facilitent une variété d'opérations, y compris l'accélération de la vitesse de rafraîchissement de certaines fonctionnalités ou le suivi de l'utilisation de divers composants en ligne ; des balises d'entité, qui sont des mécanismes de code HTTP permettant de stocker ou de "cacher" des portions de sites web dans votre navigateur pour accélérer les performances du site ; et le stockage local HTML5, qui permet de stocker ou de "cacher" des données provenant des sites web dans votre navigateur pour enregistrer et récupérer plus rapidement des données dans les pages HTML5 lors de la visite du site.  
 
-Irlande
+**3.9 Informations sur la localisation**  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+Vous pouvez ajuster les paramètres de votre appareil afin que les informations sur votre position physique ne nous soient pas envoyées ni à des tiers en (a) désactivant les services de localisation dans les paramètres de l'appareil ; ou (b) refusant à certains sites web ou applications mobiles l'autorisation d'accéder aux informations de localisation en modifiant les préférences et autorisations pertinentes dans les paramètres de votre appareil mobile ou de votre navigateur.  
 
-Si vous avez toute question ou préoccupation concernant toute information contenue dans la présente Politique de confidentialité, veuillez nous contacter via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié.
+  
 
-Notre commissaire à la protection des données de l'UE peut être contacté par écrit à l'adresse e-mail ci-dessous ou à notre adresse postale ci-dessous:
+4\. Précautions de Sécurité  
 
-Commissaire à la protection des données
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
 
-Service de Style Illimité de la Corporation limitée
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
 
-1 - 2 bâtiment Victoria,
+  
 
-Rue Haddington,
+4\. Précautions de Sécurité  
 
-Dublin 4,
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
 
-Dublin,
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
 
-D04 XN32,
+  
 
-Irlande
+4\. Précautions de Sécurité  
 
-Courriel : [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
+
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
+
+4\. Précautions de Sécurité  
+
+4\. Précautions de Sécurité  
+
+4\. Précautions de Sécurité  
+
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
+
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
+
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
+
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
+
+Nous maintenons des sauvegardes physiques, électroniques et procédurales raisonnables conçues pour protéger vos données personnelles contre le traitement, l'utilisation ou la divulgation non autorisés. Nos mesures de sécurité comprennent des mesures physiques, techniques et administratives conformes aux normes de l'industrie pour prévenir l'accès non autorisé ou la divulgation de vos informations. Nous exigeons également de nos prestataires de services qu'ils fournissent des contrôles de confidentialité et de sécurité pour protéger les données partagées avec eux afin de réaliser les services.  
+
+Internet n'est pas un environnement absolument sécurisé, et nous ne pouvons garantir que vos données personnelles seront en sécurité. Nous vous recommandons donc vivement d'utiliser un mot de passe unique et complexe pour nous aider à assurer la sécurité de votre compte. Nous vous recommandons également de ne pas partager votre mot de passe avec d'autres personnes ni de réutiliser des mots de passe sur nos Services que vous utilisez sur d'autres sites ou applications, car cela augmente la probabilité d'être victime d'une attaque par bourrage d'identifiants ou d'autres comportements malveillants en cybersécurité. Si vous estimez que la sécurité de votre compte ou de vos données personnelles a été compromise, veuillez nous contacter immédiatement via notre [Centre de confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) dédié ou comme décrit autrement dans la section "Contactez-nous" ci-dessous.  
+
+  
+
+5\. Vos Droits  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+  
+
+5\. Vos Droits  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+  
+
+5\. Vos Droits  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+5\. Vos Droits  
+
+5\. Vos Droits  
+
+5\. Vos Droits  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+* * _Tant que nous vérifions l'exactitude de vos données ou que nous les corrigeons si nécessaire;_  
+        
+    * _Si le traitement est illégal et que vous demandez une limitation du traitement plutôt qu'un effacement des données personnelles_  
+        
+    * _Si nous n'avons plus besoin des données personnelles aux fins du traitement, mais que vous exigez que nous les conservions pour l'établissement, l'exercice ou la défense de revendications légales ; et_  
+        
+    * _Tant que nous examinons une objection formulée par vous dans le cadre de votre Droit d'Objection._  
+        
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+* * _Nous a été fourni par vous;_  
+        
+    * _Est traité par nous sur la base du consentement ou d'un contrat ; et_  
+        
+    * _Est traité par des moyens automatisés._  
+        
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+Vous avez certains droits relatifs au traitement de vos données personnelles par nos soins en vertu du Chapitre 3 du Règlement Général sur la Protection des Données (“RGPD”). Ces droits incluent :  
+
+**5.1 Droit à l'Information**  
+
+Vous avez le droit d'obtenir certaines informations relatives au traitement de vos données personnelles par nos soins. Cette Déclaration de Confidentialité, ainsi que d'autres documents disponibles publiquement, fournit ces informations.  
+
+**5.2 Droit d'Accès**  
+
+Vous avez le droit d'obtenir une copie des données personnelles que nous pouvons détenir à votre sujet. Vous devez noter que nous sommes tenus de conserver les données pendant une durée n'excédant pas ce qui est nécessaire, et que certaines données peuvent donc avoir été supprimées au moment où une demande d'accès est faite, conformément aux pratiques de conservation décrites dans cet avis.  
+
+**5.3 Droit de Rectification**  
+
+Vous avez le droit de faire corriger ou mettre à jour toute donnée personnelle inexacte.  
+
+**5.4 Droit à l'Effacement (“Le Droit à l'Oubli”)**  
+
+Vous avez le droit de faire supprimer vos données lorsqu'elles ne sont plus requises par nos soins à des fins légitimes, comme décrit dans cet Avis. Lorsque les données doivent encore être conservées, par exemple, pour une obligation légale ou pour des raisons commerciales légitimes, le Droit à l'Effacement ne s'applique pas encore.  
+
+**5.5 Droit à la Limitation du Traitement**  
+
+Vous avez le droit de faire limiter le traitement des données;  
+
+**5.6 Droit à la Portabilité des Données**  
+
+Vous avez le droit d'obtenir une copie de certaines données personnelles dans un format couramment utilisé et lisible par machine. Ce droit est limité aux données qui  
+
+Nous fournissons ces données personnelles au format Excel.  
+
+**5.7 Droit d'Opposition**  
+
+Vous avez le droit de vous opposer au traitement de vos données personnelles effectué pour des raisons d'intérêt légitime ou dans l'intérêt public ou dans l'exercice d'une autorité officielle qui nous est conférée en tant que responsable du traitement des données. Lorsque vous vous opposez, nous devons soit démontrer des motifs légitimes impérieux pour le traitement, soit y mettre fin.  
+
+Vous avez le droit de vous opposer au traitement à des fins de marketing direct. Ce droit peut être exercé en vous désinscrivant du marketing direct par les moyens fournis.  
+
+**5.8 Droit concernant la Prise de Décision Automatisée**  
+
+Lorsqu'une décision est prise uniquement sur la base du traitement automatisé, y compris le profilage, qui a des effets juridiques vous concernant ou vous affecte de manière significative, vous serez informé du résultat et aurez la possibilité d'obtenir une intervention humaine de la part de SHEIN, d'exprimer votre point de vue et de contester la décision.  
+
+**5.9 Exercice de vos Droits Relatifs aux Données Personnelles**  
+
+Pour exercer vos droits, vous pouvez mettre à jour vos informations dans votre compte client sur le Site ou l'Application, ou vous pouvez nous contacter via notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html)  
+
+Dans certains cas, nous pouvons exiger des informations supplémentaires de votre part pour nous aider à identifier les données dont vous avez besoin. Nous pouvons demander que vous fournissiez des informations supplémentaires nécessaires pour confirmer votre identité en tant que Personne Concernée, en cas de doute raisonnable à cet égard. Dans le cas de certaines demandes manifestement infondées ou excessives, nous nous réservons le droit de refuser une demande ou de facturer des frais administratifs raisonnables.  
+
+Nous répondrons à votre demande dans un délai de 30 jours suivant sa réception, sauf pour les demandes qui, en raison de leur complexité ou de leur nombre, peuvent prendre jusqu'à trois mois à satisfaire. Dans de tels cas, nous vous informerons de tout retard dans un délai d'un mois suivant la réception de la demande, avec les raisons du retard.  
+
+Vous devez être conscient que tous les droits ci-dessus sont soumis à certaines restrictions et limitations. Lorsque une restriction ou limitation s'applique à l'une de vos demandes, nous vous en informerons.  
+
+**5.10 Plaintes**  
+
+Si vous pensez que nous avons enfreint ou violé vos droits à la vie privée, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) afin que nous puissions tenter de résoudre tout problème à votre satisfaction. Vous avez également le droit de déposer une plainte auprès de votre autorité de protection des données (plus de détails sur les autorités de protection des données et leurs coordonnées peuvent être trouvés à [https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas\_en](https://ec.europa.eu/info/law/law-topic/data-protection/reform/what-are-data-protection-authorities-dpas_en))  
+
+En ce qui concerne vos données personnelles traitées par un vendeur tiers sur notre site et notre application en tant que contrôleur indépendant, pour exercer vos droits en vertu de la législation applicable, vous pouvez contacter directement le vendeur tiers.  
+
+  
+
+6\. Conservation  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+  
+
+6\. Conservation  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+  
+
+6\. Conservation  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+6\. Conservation  
+
+6\. Conservation  
+
+6\. Conservation  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+Nous conserverons vos données personnelles, y compris toute correspondance que vous avez avec nous, uniquement aussi longtemps que nécessaire pour les finalités énoncées dans cet avis, y compris la conservation des données personnelles afin de respecter nos obligations légales, de résoudre des litiges, pour des raisons de sécurité de l'information, et d'exercer nos droits légaux, conditions et politiques.  
+
+  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+7\. Sites Web de tiers  
+
+7\. Sites Web de tiers  
+
+7\. Sites Web de tiers  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+Notre application ou site peut contenir des liens vers des sites tiers. Cet avis ne s'applique pas à ces sites tiers. Nous vous recommandons de lire les déclarations de confidentialité de tout autre site que vous visitez, car nous ne sommes pas responsables des pratiques de confidentialité de ces sites.  
+
+  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+8\. Enfants  
+
+8\. Enfants  
+
+8\. Enfants  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+Pour utiliser ce site, vous devez avoir au moins 18 ans. SHEIN ne vend pas de produits destinés à l'achat par des enfants. Nous pouvons vendre des produits pour enfants destinés à l'achat par des adultes. Si vous avez moins de 18 ans, vous pouvez utiliser SHEIN uniquement avec l'implication d'un parent ou d'un tuteur.  
+
+Si vous avez moins de 18 ans, SHEIN peut traiter certaines de vos données personnelles：  
+
+Avis sur les produits: Un parent ou un autre adulte qui achète un article pour vous peut prendre une photo de vous et la publier dans le cadre d'un avis sur ce produit. Il est conseillé aux parents de ne pas publier de photos où le visage de l'enfant est identifiable.  
+
+Profils d'enfants: Un parent ou un autre adulte peut ajouter un profil pour vous à leur propre profil personnel. Cela leur permet de nous dire quels types de produits ils aiment acheter pour vous. Nous utilisons ces informations pour leur recommander d'autres produits que nous pensons qu'ils pourraient aimer acheter pour vous.  
+
+Pour créer ce profil, nous devons connaître l'âge approximatif de l'enfant (c'est-à-dire le mois et l'année de naissance de l'enfant) et si l'enfant est une fille ou un garçon. Nous demandons également au parent d'affirmer qu'il a le pouvoir légal de publier les informations fournies. Le parent ou le tuteur sera également invité à créer un pseudo pour le profil. Pour mieux protéger les intérêts de confidentialité de l'enfant, vous ne devez pas utiliser le nom de l'enfant.  
+
+Ce profil ne sera visible que par la personne qui le crée.  
+
+  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+9\. Transfert de vos données personnelles  
+
+9\. Transfert de vos données personnelles  
+
+9\. Transfert de vos données personnelles  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+Les données clients de SHEIN pour les clients de l'UE sont stockées au sein de l'UE et largement traitées au sein de l'UE. Cependant, comme tous les détaillants en ligne mondiaux, afin de servir des clients dans le monde entier, il est nécessaire que SHEIN accède aux données à l'international.  
+
+Lorsqu'un client effectue un achat auprès de SHEIN ou d'un vendeur du marché SHEIN, ses informations de commande et d'expédition doivent être fournies à l'entrepôt afin que la commande soit exécutée. Comme de nombreux produits SHEIN sont expédiés depuis la Chine, cela nécessite le transfert de ces données vers la Chine. Ce type de transfert de données est permis en vertu du RGPD (Article 49 (1) (b)) en tant que nécessaire à l'exécution du contrat de SHEIN avec le client, et est soumis à des garanties appropriées.  
+
+Pour d'autres transferts internes de données personnelles entre les affiliés de SHEIN, SHEIN a mis en place un Accord de Transfert de Données Intra-Groupe Global qui inclut les Clauses Contractuelles Spéciales pertinentes requises en vertu du RGPD.  
+
+  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+10\. Contactez-nous  
+
+10\. Contactez-nous  
+
+10\. Contactez-nous  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)  
+
+Si vous avez des questions ou des préoccupations concernant des informations dans cet Avis de Avis, veuillez nous contacter à notre [Centre de Confidentialité](https://fr.shein.com/Privacy-Center-a-1045.html) .  
+
+Notre Délégué à la Protection des Données de l'UE peut être contacté à l'adresse e-mail ci-dessous ou par écrit à notre adresse postale ci-dessous :  
+
+Délégué à la Protection des Données  
+
+Infinite Styles Services Co. Limited  
+
+1-2 Victoria Buildings,  
+
+Haddington Road,  
+
+Dublin 4,  
+
+D04 XN32,  
+
+Irlande,  
+
+Email: [privacy@sheingroup.com](mailto:privacy@sheingroup.com)
