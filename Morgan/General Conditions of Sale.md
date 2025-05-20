@@ -1,10 +1,10 @@
 **CONDITIONS GÉNÉRALES DE VENTES**
 
-Version du 20 septembre 2023
+Version du 1er mars 2025
 
-Toute commandes passée sur le site internet [https://morgandetoi.fr](https://morgandetoi.fr/) (ci-après dénommé le « Site ») vaut acceptation expresse de l'internaute aux présentes conditions générales de vente (ci-après, dénommées les « CGV » ).
+Toute commandes passée sur le site internet [https://morgandetoi.fr](http://www.morgandetoi.fr/) (ci-après dénommé le « Site ») vaut acceptation expresse de l'internaute aux présentes conditions générales de vente (ci-après, dénommées les « **CGV** » ).
 
-Afin de conserver un exemplaire des CGV, le lien suivant permet de les imprimer et/ou de les télécharger : [Cliquez ici](https://morgandetoi.fr/on/demandware.static/-/Library-Sites-SharedLibraryMorgan/default/v3ea67aafd62900d8e19007d4a8f753074f8e417d/PDF/20210420-CGV-MORGAN.pdf).  
+Afin de conserver un exemplaire des CGV, le lien suivant permet de les imprimer et/ou de les télécharger : [Cliquez ici](https://morgandetoi.fr/on/demandware.static/-/Library-Sites-SharedLibraryMorgan/default/v9fbbec48c4b2f1c0ff83e04775a9b06f4e43d8c3/PDF/MO_CONDITIONS%20G%C3%89N%C3%89RALES%20DE%20VENTES%20FR_2025.pdf?version=1,744,207,040,173).  
  
 
 ##### 1\. Objet
@@ -105,11 +105,15 @@ Le Vendeur rappelle à l’Internaute que toute commande sur le Site doit être 
 5.1. Passation de commande sur le Site  
   
 (i) Constitution du panier  
-L’Internaute sélectionnera le(s) Produit(s) qu’il souhaite commander via la Fiche correspondante en sélectionnant notamment la taille, le coloris, et en cliquant sur « Ajouter à mon panier » (ou mention équivalente). Lors de l’ajout au panier, et dans l’hypothèse où l’Internaute disposerait d’un code remise ou d’un chèque fidélité MORGAN, il sera invité à le saisir dans le champ prévu à cet effet.  
+L’Internaute sélectionnera le(s) Produit(s) qu’il souhaite commander via la Fiche correspondante en sélectionnant notamment la taille, le coloris, et en cliquant sur « Ajouter à mon panier » (ou mention équivalente).
+
   
-L'Internaute pourra à tout moment accéder au contenu de son panier en cliquant sur les Produits (redirection vers les Fiches des Produits précédemment sélectionnés), permettant à l'Internaute de vérifier les spécificités de chacun des Produits choisis (taille, couleur, composition), ainsi que leur prix (prix unitaire TTC, total remise si le produit est concerné par une offre commerciale, prix total TTC).  
+L'Internaute pourra à tout moment accéder au contenu de son panier en cliquant sur les Produits (redirection vers les Fiches des Produits précédemment sélectionnés), permettant à l'Internaute de vérifier les spécificités de chacun des Produits choisis (taille, couleur, composition), ainsi que leur prix (prix unitaire TTC, total remise si le produit est concerné par une offre commerciale, prix total TTC).
+
+Lors de l’ajout au panier, et dans l’hypothèse où l’Internaute disposerait d’un code remise, il sera invité à le saisir dans le champ prévu à cet effet. Dans l’hypothèse où l’Internaute disposerait d’une offre personnelle ou d'un chèque fidélité MORGAN, il sera invité à s’identifier pour profiter de vos offres personnelles et chèques fidélité.  
   
-Pour valider son panier et confirmer sa commande, l’Internaute devra (a) cocher la case relative à l'acceptation des CGV, (b) reconnaître que la validation de son panier l’engage au paiement de sa commande, et (c) cliquer sur « Je commande et passe à l’étape suivante » (ou mention équivalente). Faute de valider ces différents points, l’Internaute ne pourra valider sa commande et passer à l’étape suivante : « Identification ».  
+Pour valider son panier et confirmer sa commande, l’Internaute devra (a) reconnaitre que la validation de son panier entraine l'acceptation des CGV et l’engage au paiement de sa commande.   
+  
   
 (ii) Choix du mode d’identification  
 L'Internaute doit s'identifier, soit en indiquant le nom d'utilisateur et le mot de passe de son compte- client, soit, s'il n'a pas créé de compte précédemment, en choisissant l’une des options figurant à l’article 6 des présentes CGV.  
@@ -126,9 +130,7 @@ Après validation du paiement, l'Internaute recevra automatiquement un premier c
 Un e-mail récapitulatif concernant les Produits commandés et expédiés sera adressé dans un second temps. Si la commande fait l’objet de plusieurs expéditions, un e-mail récapitulatif par colis expédié, reprenant le contenu de chaque envoi, sera adressé.
 
   
-Une facture dématérialisée sera adressée par e-mail à l’Internaute lorsque tous les Produits de la commande auront été expédiés. L’émission de la facture est concomitante au débit du compte bancaire de l’Internaute. En tout état de cause, la date du débit et l’envoi de la facture auront lieu au plus tard au 6ème jour suivant la Confirmation de commande. 
-
-De la même manière, si l’Internaute opte pour le paiement en 3 fois sans frais (modalité de paiement prévu à l’article 10 ci-dessous), le premier débit aura lieu lors de l’émission de la facture, ou au plus tard le 6ème jour après la Confirmation de commande.    
+Une facture dématérialisée sera adressée par e-mail à l’Internaute lorsque tous les Produits de la commande auront été expédiés. L’émission de la facture est concomitante au débit du compte bancaire de l’Internaute. En tout état de cause, la date du débit et l’envoi de la facture auront lieu au plus tard au 5ème jour suivant la Confirmation de commande. 
 
   
 L’Internaute, pourra, à tout moment, en se connectant à son Espace-client, avoir accès aux différents éléments relatifs à sa (es) commande(s) et notamment ses factures.
@@ -136,7 +138,7 @@ L’Internaute, pourra, à tout moment, en se connectant à son Espace-client, a
 En cas d'indisponibilité du Produit, le Vendeur en informera l'Internaute par courriel dans un délai de 2 (deux) jours ouvrés (soit du lundi au vendredi) à compter de la Confirmation de commande. 
 
   
-Si la commande est partiellement ou totalement annulée au-delà du délai du 6ème jour après la Confirmation de commande, l’Internaute sera remboursé du montant du Produit ainsi que les frais de livraison éventuellement payés par l’Internaute, dans l'hypothèse où l’indisponibilité concernerait l'ensemble de la commande considérée. Dans le cas contraire, si l’indisponibilité ne porte pas sur l’intégralité de la commande considérée, le Vendeur s’engage à ne rembourser que le prix payé pour le Produit indisponible, à l’exclusion des frais de livraison de la commande éventuellement payés par l’Internaute. Le remboursement sera effectué au plus tard 14 jours après la notification de l’annulation de la commande, directement sur le compte bancaire utilisé lors de la passation de commande  .   
+Si la commande est partiellement ou totalement annulée au-delà du délai du 5ème jour après la Confirmation de commande, l’Internaute sera remboursé du montant du Produit ainsi que les frais de livraison éventuellement payés par l’Internaute, dans l'hypothèse où l’indisponibilité concernerait l'ensemble de la commande considérée. Dans le cas contraire, si l’indisponibilité ne porte pas sur l’intégralité de la commande considérée, le Vendeur s’engage à ne rembourser que le prix payé pour le Produit indisponible, à l’exclusion des frais de livraison de la commande éventuellement payés par l’Internaute. Le remboursement sera effectué au plus tard 14 jours après la notification de l’annulation de la commande, directement sur le compte bancaire utilisé lors de la passation de commande  .   
   
 Le Vendeur rappelle qu’il se réserve le droit de refuser ou d'annuler toute commande en cas de circonstances particulières :  
 (i) Quand la commande a été passée dans des conditions laissant légitimement penser que la commande a été réalisée pour des besoins professionnels et non personnels ;  
@@ -175,7 +177,7 @@ Le paiement du Produit s’effectuera en Point de Vente lors de son retrait.
 
 Pour toute passation de commande sur le Site, l’Internaute aura le choix entre l’une des options décrite ci-après, soit : (i) passer commande en utilisant son Compte-Client via son Espace Client ou (ii) passer commande sans utilisation d’un Compte-Client selon les modalités précisées ci-après :
 
-* La création d’un Compte-Client est possible directement sur le Site ou par l’intermédiaire de Amazon Pay, de Facebook ou d’un compte Google depuis le Site (si ces services existent).  
+* La création d’un Compte-Client est possible directement sur le Site ou par l’intermédiaire d’un compte Google depuis le Site (si ces services existent).  
       
     Les conditions de création d’un Compte-Client sont définies aux Conditions Générales d’Utilisation du Compte-Client accessibles [ici](https://www.morgandetoi.fr/conditions-generales-espace-client).
 
@@ -189,21 +191,9 @@ En passant commande auprès du Vendeur, l’Internaute devient un client du Vend
 
 ##### 8\. Accès au programme de fidélité Morgan
 
-En passant commande auprès du Vendeur, l’Internaute bénéficie automatiquement du Programme fidélité Morgan (le « Programme »). Le Programme permet au client de cumuler des points et d’obtenir des avantages. Les avantages peuvent être notamment :
+En créant un Compte Client – même sans achat – le titulaire dudit compte bénéficie automatiquement du programme de fidélité « Morgan de vous ».
 
-  
-\- des réductions personnelles, des accès aux ventes privées, 
-
-  
-\- des invitations aux évènements privés (aux soirées VIP, soirée shopping, petits déjeuners des soldes),
-
-  
-\- la garantie échange ou retour sans ticket, - une surprise pour l’anniversaire,
-
-  
-\- des avantages pour les étudiants, etc.
-
-Les conditions générales d’utilisation du Programme sont accessibles au [lien suivant](https://www.morgandetoi.fr/conditions-generales-utilisation). L’Internaute peut à tout moment demander à ne plus bénéficier du Programme en formulant une demande en ce sens directement en caisse en magasin, sur le web dans son [Espace client](https://www.morgandetoi.fr/mon-espace-personnel) ou via une demande auprès du [Service clients](https://www.morgandetoi.fr/aide/contact/).
+Ce Programme permet de cumuler des points et d’obtenir des avantages – Il est plus amplement décrit sur la page de présentation accessibles [ici](https://www.morgandetoi.fr/programme-fidelite) et est régit par les conditions générales d’utilisation du Programme accessibles [ici](https://www.morgandetoi.fr/conditions-generales-espace-client).
 
 ##### 9\. Livraison
 
@@ -216,16 +206,20 @@ L'Internaute a le choix entre différents modes de livraison, à savoir :
 France Métropolitaine (hors codes postaux des armées)
 
 Livraison à domicile sur une adresse de son choix :  
-5,90€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
-Gratuit pour un montant total de commande supérieur à 69€ TTC
+5,90€ TTC pour un montant total de commande inférieur ou égal à 79€ TTC  
+Gratuit pour un montant total de commande supérieur à 79€ TTC
+
+**Livraison Point Relais Express :**
+
+3.90€ TTC pour toute commande; Gratuit pour les clientes ayant le statut de fidélité "passionnée". Récupérez votre colis dans l'un des points Chronopost le plus proche dans les 48 heures ouvrées. Les délais de livraison s'entendent en 48 heures ouvrables à compter de la date d'achat. Les commandes expédiées en multi-colis ne pourront pas bénéficier des modes de livraisons Chronopost express. Les jours ouvrables sont du lundi au vendredi. Les samedis, dimanches et jours fériés sont exclus des délais de livraison. Lors des saisons de soldes, de périodes de Noël et/ou de promotions spéciales, les livraisons peuvent être retardées. Livraison en France Métropolitaine, hors codes postaux des armées ».
 
 Livraison en Point Retrait Colissimo :  
-3,50€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
-Gratuit pour un montant total de commande supérieur à 69€ TTC
+3,50€ TTC pour un montant total de commande inférieur ou égal à 79€ TTC  
+Gratuit pour un montant total de commande supérieur à 79€ TTC
 
 Livraison dans l'un des points relais Mondial Relay, figurant sur la liste accessible sur le Site :  
-3,00€ TTC pour un montant total de commande inférieur ou égal à 69€ TTC  
-Gratuit pour un montant total de commande supérieur à 69€ TTC
+3,00€ TTC pour un montant total de commande inférieur ou égal à 79€ TTC  
+Gratuit pour un montant total de commande supérieur à 79€ TTC
 
 Livraison dans l'un des Points de ventes situés sur le Territoire, figurant sur la liste accessible sur le Site :  
 Gratuit
@@ -263,37 +257,61 @@ Au cas où l’Internaute a passé sa commande sans création de compte, celui-c
 
 ##### 10\. Modalités de paiement
 
-L'Internaute a la faculté de payer par (i) carte bancaire, (ii) carte(s) cadeau(x) Morgan, (iii) Paypal et (iv) Amazon pay (si disponible), suivant les indications figurant sur le Site, étant précisé qu’une commande peut être réglée à l’aide de plusieurs moyens de paiement. Toutefois, aucun paiement partiel ne peut être effectué en cas de paiement par Amazon pay.  
-  
-Il est notamment possible de régler la commande en utilisant plusieurs cartes cadeaux Morgan. Le numéro de la carte cadeau figurant sur la carte (13 chiffres) est à indiquer dans le champ réservé à cet effet. La carte cadeau sera débitée lors de la Confirmation de commande. En cas d’annulation totale ou partielle, une nouvelle carte cadeau sera expédiée pour le montant du remboursement.
+10.1. Modes de paiement
 
-Un paiement en trois fois sans frais (mode de paiement actuellement indisponible pour les Internautes Monégasques) est proposé à l’Internaute (si le service est disponible sur le Site) par notre partenaire SCALAPAY, pour toute commande d’un montant inférieur à 1.000 euros. 
+L'Internaute a la faculté de payer selon les modes de paiement détaillés ci-après (selon disponibilité desdits modes de paiement sur le Site, au moment du paiement de la Commande). Il est précisé, qu’il est possible de passer via Google Pay et Apple Pay.  
+Pour rappel, le Vendeur accepte, pour l’achat d’une carte cadeau, uniquement le paiement par carte bancaire ou Paypal,
 
-  
-Si l’Internaute opte pour le paiement en trois fois sans frais, le premier débit aura lieu lors de l’expédition du dernier colis de la commande et de l’envoi de la facture. En tout état de cause, la date du débit aura lieu au plus tard au 6ème jour suivant la Confirmation de commande.
+* **Par carte bancaire :** Carte Bleue, Visa, Mastercard, émises dans les pays membres de l’Union Européenne
+    
+    L'Internaute doit indiquer son numéro de carte figurant au recto de celle-ci (16 chiffres), la date de validité ainsi que les trois derniers chiffres figurant au dos de celle-ci. Au moment de la saisie, le Site est en mode crypté et toutes les informations véhiculées sont codées. Aucune de ces données ne transitent en clair sur Internet.  
+    Ce mode de paiement intègre obligatoirement le système de vérification 3D Secure (en cas de problèmes rencontrés avec 3D Secure, l’Internaute doit contacter sa banque).  
+    L’Internaute aura la possibilité, s’il le souhaite, d’enregistrer les coordonnées de sa carte bancaire au sein de son espace-client au moment de la première utilisation de sa carte bancaire. Les données liées à la carte bancaire de l’Internaute seront traitées conformément à l’article 16 « Charte de confidentialité des données à caractère personnel et politique relative aux cookies » accessible [ici](https://www.morgandetoi.fr/politique-cookies).
+    
+* **Par PayPal en 1 à 4 fois** :   
+    L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
+    L’Internaute doit se créer / s’identifier à son compte auprès de la société Alma.  
+    Ce sont uniquement les conditions générales de ventes et/ou d’utilisation ainsi que la politique de confidentialité de Paypal qui s’appliquent (Pour plus d’information : l’Internaute peut consulter le site de Paypal).  
+    L’Internaute devra valider le paiement sur son compte Paypal avant de terminer la commande sur le Site.  
+    Paypal deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement. L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.
+    
+* **Par Carte cadeaux Morgan :**   
+    Le numéro de la carte cadeau figurant au verso de la carte (13 chiffres) est à indiquer dans le champ réservé à cet effet. La carte cadeau sera débitée lors de la Confirmation de commande. En cas d’annulation totale ou partielle, une nouvelle carte cadeau sera expédiée pour le montant du remboursement.  
+    Il est possible de régler la commande en utilisant plusieurs Cartes Cadeaux Cache-Cache.   
+    Pour tout paiement partiel par Carte(s) Cadeau(x) Morgan (en utilisant une ou plusieurs Cartes Cadeaux Morgan), de compléter son paiement par un seul autre moyen de paiement, comme suit :   
+    \-    Carte bancaire ou Paypal ; Ou,  
+    \-    Klarna ou Alma : sous réserve que (1) la commande ne comporte pas d’achat Carte(s) Cadeau(x) Morgan  et que le reste à payer, déduction faite du montant payé par Carte(s) Cadeau(x) Morgan, soit compris entre 50 euros et 3 000 euros. 
+    
+* **Par Alma en 3 fois sans frais**    
+    L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
+    Valable uniquement pour une demande de paiement en 3x sans frais d’un montant compris entre 50 euros et 3 000 euros ;   
+    Ce sont uniquement les conditions générales de ventes et/ou d’utilisation ainsi que la politique de confidentialité d’Alma qui s’appliquent (Pour plus d’information : l’Internaute peut consulter le site d’Alma).  
+    Alma est gestionnaire de télé-paiement et délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1316 et suivants du code civil. Résiliation La sécurisation des paiements est assurée par Alma et ses prestataires. Tous les paiements sont protégés par le 3D Secure  
+    L’Internaute devra valider le paiement via Alma avant de terminer la commande sur le Site.  
+    Alma deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement.   
+    Toute résiliation des présentes qui lient le Vendeur et l’Internaute, entraine la résiliation des conditions contractuelles entre Alma et l’Internaute.
+    
+* **Par Klarna en 3 fois sans frais (si disponible)**  
+    L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
+    Valable uniquement pour une demande de paiement en 3x sans frais d’un montant compris entre 50 euros et 3 000 euros ;   
+    L’Internaute doit se créer / s’identifier à son compte auprès de la société Klarna.  
+    Ce sont uniquement les conditions générales de ventes et/ou d’utilisation ainsi que la politique de confidentialité de Klarna qui s’appliquent (Pour plus d’information : l’Internaute peut consulter le site de Klarna).  
+    L’Internaute devra valider le paiement sur son compte Klarna avant de terminer la commande sur le Site.  
+    Klarna deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement. L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
+     
+    
 
-Les paiements partiels par cartes cadeaux ne sont pas disponibles avec cette solution de paiement. 
-
-L’Internaute, s’il choisit les modalités de paiement en trois fois sans frais, devra accepter les conditions d’utilisation, ou les conditions générales de vente, ainsi que la politique de confidentialité de SCALAPAY, qui deviendra alors son unique interlocuteur pour toute question ou demande relative à cette solution de paiement. L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.   
-  
-  
-Pour tout paiement par carte bancaire, l'Internaute doit indiquer son numéro de carte figurant au recto de celle-ci (16 chiffres), la date de validité ainsi que les trois derniers chiffres figurant au dos de celle- ci. Au moment de la saisie, le Site est en mode crypté et toutes les informations véhiculées sont codées. Aucune de ces données ne transitent en clair sur Internet. Il est précisé que l’Internaute aura la possibilité, s’il le souhaite, d’enregistrer les coordonnées de sa carte bancaire au sein de son compte-client au moment de la première utilisation de sa carte bancaire. Les données liées à la carte bancaire de l’Internaute seront traitées conformément à l’article 13 « Charte de confidentialité des données à caractère personnel et politique relative aux cookies » accessible [ici](https://www.morgandetoi.fr/politique-cookies).  
-  
-Afin d'assurer la sécurité des paiements, le Site utilise un service de paiement sécurisé. Ce service intègre la norme de sécurité SSL. Lorsque la commande est validée, la demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé. Celui-ci adresse une demande d'autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique.
-
-Comme précisé à l’article 5.1 ci-dessus, le compte bancaire correspondant à la carte bancaire utilisée pour le paiement sera débité lors de l’expédition du dernier colis de la commande et de l’envoi de la facture. En tout état de cause, la date du débit aura lieu au plus tard au 6ème jour suivant la Confirmation de commande.
-
-  
+10.2. Sécurité des paiements  
+Le Site utilise un service de paiement sécurisé. Ce service intègre la norme de sécurité SSL.   
+Lorsque la commande est validée, la demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé. Celui-ci adresse une demande d'autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique.  
 La survenance d'un impayé au motif d'une utilisation frauduleuse d'une carte bancaire entraînera l'inscription des coordonnées du bon de commande associé à cet impayé au sein d'un fichier incident de paiement. Une déclaration irrégulière ou une anomalie pourra également faire l'objet d'un traitement spécifique.  
-  
-Pour tout paiement par PayPal, l'Internaute saisit son identifiant et son mot de passe sur l'interface de PayPal, puis valide par simple clic. Il vérifie le montant pour lequel il souhaite régler la commande et confirme en cliquant sur le paiement par PayPal.  
-  
-Si le service Amazon Pay est disponible sur le Site : Pour tout paiement par Amazon Pay, l’Internaute doit s’identifier via son compte Amazon Pay dans les conditions prévues à l’article 6 des présentes CGV. Après avoir vérifié puis validé sa commande sur le Site, il confirme son ordre de paiement au profit d’Amazon Payments pour le règlement de sa commande. L’Internaute est informé qu’il ne paye ainsi pas le Vendeur pour la passation de sa commande sur le Site. Pour toute question ou problème relatif au paiement de sa commande, l’Internaute peut ainsi contacter Amazon Payments.  
-  
-Le Vendeur pourra annuler la commande, en cas de difficultés dans le processus de paiement (anomalie dans le paiement), en cas de non-conformité aux modalités de paiement mentionnées ci- dessus, en cas de non-paiement, total ou partiel, d'une commande précédente ou en cours.  
-  
-Afin d’optimiser la sécurité des paiements, le Vendeur utilise la procédure 3Dsecure, par laquelle l’Internaute reçoit sur son téléphone portable un code à reporter sur la page de paiement après avoir communiqué toutes les références de sa carte bancaire. Le Vendeur pourra également, dans cette perspective, procéder à des demandes de justificatifs complémentaires (copie carte nationale d’identité, justificatif de domicile) dont les seuls destinataires sont les membres de son service client habilités à traiter la lutte contre la fraude. En cas de défaut de réponse, le Vendeur se réserve la possibilité d’annuler la commande. L’Internaute dispose d’un droit d’accès, de rectification et de suppression de ses données personnelles auprès du service client du Vendeur et dans les conditions précisées à l’article 13 « Charte de confidentialité des données à caractère personnel et politique relative aux cookies » des présentes conditions générales de vente.  
-Le service clients est joignable via le formulaire de contact : [Disponible ici](https://www.morgandetoi.fr/aide/)
+Afin d’optimiser la sécurité des paiements, le Vendeur utilise la procédure 3Dsecure, par laquelle l’Internaute reçoit sur son téléphone portable un code à reporter sur la page de paiement après avoir communiqué toutes les références de sa carte bancaire. Le Vendeur pourra également, dans cette perspective, procéder à des demandes de justificatifs complémentaires (copie carte nationale d’identité, justificatif de domicile) dont les seuls destinataires sont les membres de son service client habilités à traiter la lutte contre la fraude.   
+En cas de défaut de réponse, le Vendeur se réserve la possibilité d’annuler la commande.   
+Le Vendeur pourra également annuler la commande, en cas de difficultés dans le processus de paiement (anomalie dans le paiement), en cas de non-conformité aux modalités de paiement mentionnées ci- dessus, en cas de non-paiement, total ou partiel, d'une commande précédente ou en cours.
+
+10.3. Débit à l’expédition  
+Le premier débit aura lieu lors de l’expédition et l’envoi concomitant de la facture, comme précisé à l’article 5.1 des présentes conditions générales de ventes. En tout état de cause, la date du débit aura lieu au plus tard au 6ème jour suivant la Confirmation de commande.  
+ 
 
 ##### 11\. Clause de réserve de propriété et transfert de risques
 
@@ -302,58 +320,44 @@ Les Produits demeurent la propriété du Vendeur jusqu'au complet paiement du pr
 
 ##### 12\. Rétractation et retour des produits
 
-L'Internaute dispose d'un délai de 30 (trente) jours (ci-après dénommé “**Délai de rétractation**”) à compter de la Réception des produits telle que définie à l'article 9.3 ci-avant, pour (i) exercer son droit de rétractation sans avoir à justifier d’un motif, et (ii) retourner au Vendeur le(s) Produit(s) concerné(s) (ci-après dénommé “**Droit de rétractation**”).
-
+L'Internaute dispose d'un délai de 30 (trente) jours (ci-après dénommé le “**Délai de rétractation**”) à compter de la Réception des Produits telle que définie à l'article 9.3 ci-avant, pour (i) exercer son droit de rétractation sans avoir à justifier d’un motif, et (ii) retourner au Vendeur le(s) Produit(s) concerné(s) (ci-après dénommé le “**Droit de rétractation**”).  
+  
 Les sous-vêtements et la lingerie pourront faire l’objet d’un retour sous réserve de ne pas avoir été portés, lavés et que les étiquettes produits n’aient pas été enlevés.
 
-  
-Pour mettre en œuvre son Droit de rétractation, l'Internaute devra retourner au Vendeur le(s) Produit(s) concerné(s), accompagné(s) du formulaire de rétractation dûment rempli (figurant sur le Site via le lien \[[cliquez ici](https://www.morgandetoi.fr/on/demandware.static/-/Library-Sites-SharedLibraryMorgan/default/dw37e3241b/PDF/MGN_FR_Procedure_retour_complet.pdf)\] ou téléchargeable directement prérempli, sur votre Espace Client, après la passation d'une commande), avant l’expiration du Délai de rétractation, dans les conditions ci-après précisées: A défaut d’imprimer ledit formulaire, l’Internaute pourra exercer son Droit à rétractation sur « papier libre » dans le Délai de rétractation en respectant les dispositions ci-après.  
-  
+Pour mettre en œuvre son Droit de rétractation, l'Internaute devra retourner au Vendeur le(s) Produit(s) concerné(s), accompagné(s) du formulaire de rétractation dûment rempli (figurant sur le Site via le lien \[[cliquez ici](https://www.morgandetoi.fr/on/demandware.static/-/Library-Sites-SharedLibraryMorgan/default/dw37e3241b/PDF/MGN_FR_Procedure_retour_complet.pdf)\] ou téléchargeable directement prérempli, sur votre Espace-Client, après la passation d'une commande), avant l’expiration du Délai de rétractation, dans les conditions ci-après précisées. A défaut d’imprimer ledit formulaire, l’Internaute pourra exercer son Droit à rétractation sur « papier libre » dans le Délai de rétractation en respectant les dispositions ci-après.
+
 L’Internaute devra retourner le(s) Produit(s) :
 
 * Soit gratuitement en déposant son colis :  
      
-    * Dans le Point de Vente de son choix situé sur le Territoire; OU  
-         
-        
-    * En bureau de Poste ou dans l’un des points Colissimo situés sur le Territoire :  
-        En utilisant l'étiquette de retour Colissimo (à imprimer et apposer sur le colis), disponible via le compte client de l'internaute ou, en l'absence de Espace Client, via le lien disponible dans l'email de confirmation de commande qu'il aura reçu.  
-        La liste des points Colissimo figure sur [www.colissimo.fr/retour](https://www.laposte.fr/particulier/outils/trouver-un-point-d-envoi-de-colis-ou-de-retrait)  
-        Si le service est disponible dans le lieu du domicile de l’Internaute, dans sa boite aux lettres avant 08h00 du matin et en faisant une demande sur [www.colissimo.fr/retour.bal](https://www.laposte.fr/colissimo-en-ligne/demo-expedition-bal); OU  
-         
-        
-    * En point Mondial Relay situé sur le Territoire :  
-        En utilisant l'étiquette de retour Mondial Relay (à imprimer et apposer sur le colis), disponible via le compte client de l'internaute ou, en l'absence de compte client, via le lien disponible dans l'email de confirmation de commande qu'il aura reçu.  
-        La liste des points Mondial Relay figure sur [https://www.mondialrelay.fr/trouver-le-point-relais-le-plus-proche-de-chez-moi/](https://www.mondialrelay.fr/trouver-le-point-relais-le-plus-proche-de-chez-moi/)
-        
-* Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
-    
-     
-    
-    C-LOG E-VALLEY  
-    Retours E-commerce – morgandetoi.fr  
-    Avenue de France, Bâtiment B - Entrée 16  
-    62860 EPINOY  
-     
-    
+    * Dans le Point de vente de son choix situé sur le Territoire ; OU
+    * Dans l’un des points UPS Access Point\* dont la liste figure sur [https://www.ups.com/dropoff/?loc=fr\_BE](https://www.ups.com/dropoff/?loc=fr_BE) .
 
-Quel que soit le mode de retour choisi, l’Internaute doit impérativement accompagner son produit retourné du bon de retour dument complété et téléchargé à partir de son Espace Client ou de la déclaration libre de rétractation reprenant les références de la commande et de l’expédition.  
-  
-La charge de la preuve du retour des Produits incombe à l'Internaute. A ce titre, l'Internaute devra conserver la preuve de dépôt du colis qui lui sera remise par le transporteur qu'il aura choisi. En cas de perte du colis, aucun remboursement ne pourra être effectué sans cette preuve de dépôt.  
-  
-En cas d'exercice de son Droit de rétractation par l'Internaute, le Vendeur remboursera l’Internaute de tous les paiements reçus relatifs à l’achat du/des Produit(s) pour lequel (lesquels) le Droit de rétractation est exercé, y compris les frais de livraison initiaux éventuellement payés par l’Internaute, sous réserve que la rétractation porte sur l’intégralité de la commande. A défaut de porter sur l’intégralité de la commande, l’exercice du Droit de rétractation ne donnera pas lieu au remboursement des frais de livraison initiaux éventuellement payés par l’Internaute.  
-  
-En cas de retour de Produit(s) ayant fait l’objet d’offres promotionnelles, comme les ventes en lot, les offres commerciales du type « 1 produit acheté, le 2ème à 1 euros », les offres promotionnelles conditionnelles permettant d’obtenir une réduction en fonction du volume de produits achetés ou l’octroi d’un cadeau pour l’achat d’un ou plusieurs produits les conditions ci-après s’appliquent.  
-  
+_\*en utilisant l’étiquette de retour (à imprimer et apposer sur le colis), disponible via le Compte Client de l’Internaute ou, en l’absence de Compte Client, via le lien disponible dans l’email de confirmation de commande qu’il aura reçu._
+
+* Soit par voie postale à l'adresse suivante- étant précisé que les frais de retours sont à la charge de l'Internaute :
+
+C-LOG E-VALLEY  
+Retours E-commerce – morgandetoi.be  
+Avenue de France, Bâtiment B - Entrée 16  
+62860 EPINOY – France
+
+Quel que soit le mode de retour choisi, l’Internaute doit impérativement accompagner son produit retourné du bon de retour dument complété et téléchargé à partir de son Espace Client ou de la déclaration libre de rétractation reprenant les références de la commande et de l’expédition.
+
+La charge de la preuve du retour des Produits incombe à l'Internaute. A ce titre, l'Internaute devra conserver la preuve de dépôt du colis qui lui sera remise par le transporteur qu'il aura choisi. En cas de perte du colis, aucun remboursement ne pourra être effectué sans cette preuve de dépôt.
+
+En cas d'exercice de son Droit de rétractation par l'Internaute, le Vendeur remboursera l’Internaute de tous les paiements reçus relatifs à l’achat du/des Produit(s) pour lequel (lesquels) le Droit de rétractation est exercé, y compris les frais de livraison initiaux éventuellement payés par l’Internaute, sous réserve que la rétractation porte sur l’intégralité de la commande. A défaut de porter sur l’intégralité de la commande, l’exercice du Droit de rétractation ne donnera pas lieu au remboursement des frais de livraison initiaux éventuellement payés par l’Internaute.
+
+En cas de retour de Produit(s) ayant fait l’objet d’offres promotionnelles, comme les ventes en lot, les offres commerciales du type « 1 produit acheté, le 2ème à 1 euros », les offres promotionnelles conditionnelles permettant d’obtenir une réduction en fonction du volume de produits achetés ou l’octroi d’un cadeau pour l’achat d’un ou plusieurs produits les conditions ci-après s’appliquent.
+
 Le remboursement du(es) Produit(s) retourné(s) et, le cas échéant les éventuels frais de livraison initiaux payés par l’Internaute lors de la commande, se fera au plus tard dans un délai de 14 (quatorze) jours à compter de la date à laquelle le Vendeur aura récupéré le/les Produit/s retourné/s.  
-Le remboursement de l’Internaute se fera selon le même moyen de paiement utilisé par l’Internaute pour le paiement de sa commande.  
-  
+Le remboursement de l’Internaute se fera selon le même moyen de paiement utilisé par l’Internaute pour le paiement de sa commande.
+
 Il est, toutefois, précisé que lesdits frais de livraison initiaux payés par l’Internaute ne seront remboursés qu’à hauteur des frais correspondant au mode de livraison standard.  
   
-Dans l’hypothèse d’un paiement de commande par l’Internaute par carte bancaire et par carte cadeau, le remboursement se fera prioritairement par carte bancaire dans la limite du montant payé par carte bancaire par l’Internaute et le solde éventuel donnera lieu à l’émission d’une carte cadeau virtuelle.  
-  
-Le Vendeur se réserve le droit de refuser tout Produit retourné qui serait déprécié en raison de manipulations de l'Internaute autres que celles nécessaires pour établir la nature et les caractéristiques du (des) Produit(s) concerné(s) par le retour. Il en sera ainsi si le Produit est endommagé, sali, incomplet ou ayant été porté, exception faite de l’essayage du Produit. Par ailleurs, le Vendeur n'est pas tenu d'accepter les retours de Produit(s) et de procéder au remboursement du(es) Produit(s), dans le cas où l'Internaute ne se conformerait pas aux dispositions du présent article relatives aux conditions d'exercice du droit de rétractation.  
- 
+Dans l’hypothèse d’un paiement de commande par l’Internaute par carte bancaire et par carte cadeau, le remboursement se fera prioritairement par carte bancaire dans la limite du montant payé par carte bancaire par l’Internaute et le solde éventuel donnera lieu à l’émission d’une carte cadeau virtuelle.
+
+Le Vendeur se réserve le droit de refuser tout Produit retourné qui serait déprécié en raison de manipulations de l'Internaute autres que celles nécessaires pour établir la nature et les caractéristiques du (des) Produit(s) concerné(s) par le retour. Il en sera ainsi si le Produit est endommagé, sali, incomplet ou ayant été porté, exception faite de l’essayage du Produit. Par ailleurs, le Vendeur n'est pas tenu d'accepter les retours de Produit(s) et de procéder au remboursement du(es) Produit(s), dans le cas où l'Internaute ne se conformerait pas aux dispositions du présent article relatives aux conditions d'exercice du droit de rétractation.
 
 ##### 13\. Garanties
 
@@ -468,7 +472,7 @@ En cas de différend relatif à la conclusion, l'exécution, ou la fin d'une com
   
 Faute de parvenir à un accord amiable avec le Vendeur, et conformément aux dispositions de l’article L 152-2 du Code de la Consommation, l’Internaute pourra initier gratuitement une procédure de médiation auprès :
 
-* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [\[email protected\]](https://www.morgandetoi.fr/cdn-cgi/l/email-protection), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
+* Du Médiateur de la Fédération du e-commerce et de la vente à distance (FEVAD) - 60 rue la Boétie – 75008 Paris – [relationconso@fevad.com](mailto:relationconso@fevad.com), [www.fevad.com](http://www.fevad.com/)). Pour connaître les modalités de saisine du Médiateur de la FEVAD, [cliquez ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).  
      
 * Ou sur la plateforme de résolution des litiges mise en ligne par la Commission Européenne  
     [https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
