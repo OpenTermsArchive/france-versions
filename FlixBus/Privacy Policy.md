@@ -520,15 +520,15 @@ Pour notre service client, nous faisons appel à des prestataires de service cli
 
 ### 2.3 Présence sur les canaux des réseaux sociaux
 
-Nous avons une présence sur les réseaux sociaux (actuellement : Facebook, Instagram, LinkedIn, Twitter, TikTok). Dans la mesure où nous avons le contrôle du traitement de vos données, nous nous assurons que les réglementations en vigueur en matière de protection des données sont respectées.
+Nous avons une présence sur les réseaux sociaux (actuellement : Facebook, Instagram, LinkedIn, X, TikTok). Dans la mesure où nous avons le contrôle du traitement de vos données, nous nous assurons que les réglementations en vigueur en matière de protection des données sont respectées.
 
 En plus de nous, les personnes suivantes sont responsables de la présence de l’entreprise selon les termes du RGPD et d’autres réglementations sur la protection des données :
 
-Facebook (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande)
+Facebook (Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Dublin 4, Irlande) 
 
-Instagram (Facebook Ireland Ltd., 4 Grand Canal Square, Grand Canal Harbour, Dublin 2, Irlande)
+Instagram (Meta Platforms Ireland Limited, Merrion Road, Dublin 4, D04 X2K5, Dublin 4, Irlande) 
 
-Twitter (Twitter International Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irlande)
+X (X Internet Unlimited Company, One Cumberland Place, Fenian Street, Dublin 2, D02 AX07, Irlande)
 
 LinkedIn (LinkedIn Ireland Unlimited Company, Gardner House Wilton Place, Dublin 2, Irlande)
 
@@ -540,13 +540,15 @@ La base juridique du traitement de vos données à caractère personnel par nous
 
 Des informations supplémentaires sur les lois en vigueur en matière de protection des données en relation avec notre présence d’entreprise sur les réseaux sociaux sont disponibles ici :
 
-Facebook : [https://www.facebook.com/notes/flixbus/facebook-fanpage-datenschutzrichtlinie/2107777085936747/](https://www.facebook.com/notes/flixbus/facebook-fanpage-datenschutzrichtlinie/2107777085936747/)
+Facebook: [Meta Privacy Policy - How Meta collects and uses user data](https://mbasic.facebook.com/privacy/policy/printable/)
 
-Instagram : [https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)
+Instagram: [Meta Privacy Policy - How Meta collects and uses user data](https://mbasic.facebook.com/privacy/policy/printable/)
 
-LinkedIn : [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
+LinkedIn: [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy)
 
 TikTok: [https://www.tiktok.com/i18n/Privacy/](https://www.tiktok.com/i18n/Privacy/)
+
+X: [https://x.com/en/privacy](https://x.com/en/privacy)
 
 ### 2.4 Signalement sur Speakout@Flix (portail de dénonciation)
 
