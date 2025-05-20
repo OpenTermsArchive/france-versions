@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 31 July 2023
+### Date d’entrée en vigueur : 09 May 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 31 July 2023**
+**Date d’entrée en vigueur : 09 May 2025**
 
   
 
@@ -107,7 +107,7 @@ Le cas échéant :
 
 Les « **RÈGLEMENTS** » désignent nos Règlements comme indiqués dans le document « Règlements sur des sujets particuliers » parfois en vigueur (cliquer ici).  
 
-“**RYANAIR GROUP**” signifie Ryanair DAC, Ryanair Sun (Buzz), Ryanair UK, Laudamotion et Malta Air.
+“**RYANAIR GROUP**” signifie Ryanair DAC, Ryanair Sun (Buzz), Ryanair UK, Lauda Europe et Malta Air.
 
 ARTICLE 2 - DOMAINE D’APPLICATION
 =================================
@@ -178,7 +178,7 @@ Sur l’Itinéraire, notre nom peut être abrégé et apparaître sous forme du 
 
 **3.3.2** Si vous n’avez pas fourni d’adresse e-mail valide, vous devriez vérifier de nouveau les horaires de votre vol aller/retour via la page en ligne « Mes réservations » ou l’un de nos centres d’appel entre 24 et 72 heures avant l’heure de départ prévue.
 
-**3.3.3**  Toutes plaintes ou réclamations seront acceptées par e-mail, fax ou par l’intermédiaire des formulaires de réclamation en ligne prévus, disponibles ici. Sauf demande spécifique, nous vous conseillons de fournir uniquement des copies de vos documents, car ces documents ne seront ni conservés, ni retournés.
+**3.3.3**  Toutes plaintes ou réclamations seront acceptées par e-mail ou par l’intermédiaire des formulaires de réclamation en ligne prévus, disponibles ici. Sauf demande spécifique, nous vous conseillons de fournir uniquement des copies de vos documents, car ces documents ne seront ni conservés, ni retournés.
 
 3.4 DONNÉES PERSONNELLES
 
@@ -210,7 +210,9 @@ Si vous ne voyagez pas, vous pouvez faire une demande écrite, notamment en lign
 
 **4.2.2** Les taxes gouvernementales sont en constante évolution et peuvent être imposées après la date à laquelle de votre réservation a été effectuée. Si ces taxes sont introduites ou augmentées après votre réservation, vous devrez vous en acquitter (ou régler la différence, dans le cas d’une augmentation) avant votre départ. Si vous choisissez de ne pas voyager, vous bénéficierez d’un remboursement intégral de votre billet. Corrélativement, si des taxes gouvernementales, sont supprimées ou réduites et ne s’appliquent plus à votre réservation vous pourrez nous réclamer le remboursement de la différence.  
   
-**4.2.3** Si vous avez acheté un service facultatif (tel qu’un siège attribué) et embarqué sur votre vol, mais que nous ne vous avons pas fourni le service équivalent pour des raisons qui nous sont imputables (telles que le changement d’avion nous empêchant de vous attribuer un siège avec plus de place pour les jambes que vous aviez acheté), vous pouvez demander le remboursement des frais correspondants que vous avez payés pour ce service.
+**4.2.3** Si vous avez payé un service facultatif (tel qu’un siège attribué) et embarqué sur votre vol, mais que nous n’avons pas pu fournir le service en question pour des raisons qui nous sont imputables (un changement d’avion peut par exemple nous empêcher de vous attribuer un siège offrant davantage d’espace pour les jambes, bien que vous l’ayez payé), vous pouvez demander le remboursement des frais payés pour ce service. Le formulaire de remboursement est disponible ici.
+
+**4.2.4** Nos prix sont dynamiques et ajustés selon la demande. Ils peuvent varier en fonction de la date de voyage et de l’itinéraire choisis. En raison du volume important de réservations effectuées en temps réel, les tarifs et les prix des services facultatifs, tels que les bagages et les sièges réservés, peuvent changer entre le moment où vous commencez à chercher votre billet et celui où vous décidez d’effectuer un achat.
 
 4.3 DEVISE
 
@@ -245,9 +247,9 @@ ARTICLE 5 ASSISTANCE SPÉCIALE
 ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 ========================================
 
-**6.1** Tous les vols opèrent avec des sièges alloués. Nous nous réservons le droit de modifier l’attribution des sièges à tout moment, même après l’embarquement. Cela peut être nécessaire pour des raisons opérationnelles ou de sécurité.
+**6.1** Sur tous les vols sur lesquels nos passagers ont un siège attribué, les passagers ne peuvent pas en changer, sauf dans les cas où le personnel de cabine vous demande de vous déplacer pour des raisons de poids et d’équilibre, pour des raisons de sécurité ou de sûreté, ou pour d’autres raisons opérationnelles.
 
-**6.2.1** Vous devez vous enregistrer en ligne sur www.ryanair.comet imprimer ou télécharger votre carte d’embarquement, sauf si vous disposez d’un billet Flexi Plus (ou avez acheté un billet Plus après le 11 décembre 2019), auquel cas vous pouvez vous enregistrer gratuitement à l’aéroport.
+**6.2.1** Vous devez vous enregistrer en ligne sur www.ryanair.comet imprimer ou télécharger votre carte d’embarquement, sauf si vous disposez d’un billet Flexi Plus, auquel cas vous pouvez vous enregistrer gratuitement à l’aéroport.
 
 **6.2.2** Si vous avez acheté un siège attribué, l’enregistrement en ligne est ouvert 60 jours avant l’heure de départ prévue. Les clients peuvent se voir attribuer un siège gratuitement s’ils s’enregistrent en ligne entre 24 et 2 heures avant chaque vol réservé. Vous ne pouvez pas vous enregistrer en ligne durant les deux heures précédant l’heure de départ prévue de votre vol.
 
@@ -257,7 +259,7 @@ ARTICLE 6 ENREGISTREMENT ET EMBARQUEMENT
 
 **6.2.5** Il est obligatoire pour un adulte voyageant avec des enfants de moins de 12 ans (sauf bébés) de réserver un siège.  Un maximum de quatre enfants pour chaque adulte d’une même réservation recevra un siège gratuit réservé. Ainsi, les parents ont l’assurance de s’asseoir à côté de leurs enfants durant le vol. Cela vous permettra également de vous enregistrer en ligne 60 jours avant le départ. Il n’est pas obligatoire pour tout autre adulte ou adolescent de la réservation de réserver un siège, mais ils peuvent choisir de le faire. 
 
-**6.2.6** Pour votre sécurité, ainsi que pour celle des autres passagers et de notre équipage, le processus d’enregistrement doit être effectué par vous-même, par un passager figurant sur votre réservation ou par un agent individuel ayant une connaissance personnelle de vous et du contenu de vos bagages. Cette exigence vise à garantir que vous êtes informé(e) et que vous, un passager de votre réservation ou un agent individuel ayant une connaissance personnelle de vous et du contenu de vos bagages, avez confirmé la conformité aux protocoles de sécurité, de sûreté et de santé publique requis, y compris ceux définis par les instructions techniques de l’OACI, le règlement (UE) 2015/1998 et le protocole de sécurité sanitaire de l’aviation EASA/ECDC Covid-19. 
+**6.2.6** Pour votre sûreté et votre sécurité, ainsi que celles de vos compagnons de voyage et de notre équipage, le processus d'enregistrement doit être effectué par vous personnellement, par un passager figurant sur votre réservation, ou par une personne physique dûment autorisée qui vous connaît personnellement et connaît le contenu de vos bagages. Cette exigence vise à garantir que vous êtes informé(e) et que vous, un passager figurant sur votre réservation, ou une personne physique dûment autorisée vous connaissant personnellement et connaissant le contenu de vos bagages, avez confirmé la conformité aux protocoles requis en matière de sécurité, de sûreté et de santé publique, y compris ceux définis par les instructions techniques de l'OACI, le règlement (UE) 2015/1998 et le protocole de sécurité sanitaire en aviation de l'EASA/ECDC en lien avec la COVID-19.
 
 **6.2.7** Vous ne pourrez peut-être pas vous enregistrer en ligne si vous avez acheté votre vol par l’intermédiaire d’un tiers qui n’a pas de relation commerciale avec nous, pour utiliser notre site Internet ou notre application pour proposer nos vols à la vente, et qui de fait est en violation des Conditions d’utilisation de notre site Web (y compris l’application mobile et toute page Web et/ou données qui passent par le domaine Web de ryanair.com) (**« Intermédiaire tiers »**).   
 
@@ -299,9 +301,47 @@ iv. fournir votre adresse e-mail personnelle.
 
 **6.3** Si vous ne parvenez pas à présenter une carte d’embarquement valide (sur papier ou téléphone portable) à la sécurité de l’aéroport ou à la porte d’embarquement et qu’il y a suffisamment de temps pour vous fournir une carte d’embarquement sous une autre forme, vous serez facturé pour les frais de réimpression de la carte d’embarquement au taux indiqué dans notre tableau de prix consolidé.
 
-Tous les passagers au départ des aéroports marocains doivent présenter leur carte d’embarquement sur papier à au départ de l’aéroport.
+Tous les passagers au départ d’un aéroport marocain pour n’importe quelle destination ou au départ de Tirana pour le Royaume-Uni doivent disposer de leur carte d’embarquement sous forme imprimée car la carte d’embarquement numérique ne sera pas acceptée.
 
-**6.4** Tous les citoyens non-UE/EEE doivent passer une vérification de documents de voyage et les faire tamponner au comptoir d’enregistrement avant de passer les contrôles de sécurité.  
+**6.4**
+
+**6.4.1** Si vous n’êtes pas un citoyen de l’UE ou de l’EEE, vous devez faire vérifier vos documents de voyage et les faire tamponner au comptoir d’enregistrement Ryanair avant de passer les contrôles de sécurité de l’aéroport. Afin de conserver une trace des documents de visa nécessaires, nous pouvons donner à certains passagers la possibilité de télécharger les documents de visa requis au cours du processus d’enregistrement via notre application. Cela démontrera que vous avez emporté les bons documents au moment du départ, afin d’éviter les amendes ou les sanctions pénales pour avoir voyagé sans les documents requis.
+
+**6.4.2** Si vous êtes citoyen de l’un des pays énumérés ci-dessous, vous pouvez opter pour une vérification de passeport en ligne pendant le processus d’enregistrement via l’application Ryanair. Toutefois, si cette option n’est pas disponible pour votre vol, vous devez faire vérifier vos documents de voyage au comptoir d’enregistrement de Ryanair.
+
+Pays habilités à vérifier les passeports en ligne :
+
+* Argentine
+* Antigua-et-Barbuda, sauf pour les vols à destination du Maroc
+* Argentine
+* Australie
+* Bahamas, sauf pour les vols à destination du Maroc
+* Barbade, sauf pour les vols à destination du Maroc
+* Brésil
+* Canada
+* Chili, sauf pour les vols à destination du Maroc
+* Costa Rica, sauf pour les vols à destination du Maroc
+* Hong Kong
+* Japon
+* Macao S.A.R.
+* Malaisie, sauf pour les vols à destination d’Israël ou de la Serbie
+* Île Maurice, sauf pour les vols à destination du Maroc ou de l’Irlande
+* Mexique, sauf pour les vols à destination de la Turquie
+* Nouvelle-Zélande
+* Nicaragua, sauf pour les vols à destination du Maroc
+* Panama, sauf pour les vols à destination du Maroc ou de la Serbie
+* Paraguay, sauf pour les vols à destination du Maroc
+* Singapour
+* Corée du Sud
+* Taïwan, sauf pour les vols à destination du Maroc
+* Émirats arabes unis
+* États-Unis
+* Uruguay, sauf pour les vols à destination du Maroc
+
+Pour utiliser ce service, le passeport doit impérativement être :
+
+* Valide pendant au moins 6 mois au-delà de votre séjour prévu pour les vols au départ de l’espace Schengen vers des régions non-Schengen.
+* Valide pendant au moins 6 mois au-delà de votre séjour prévu pour les vols à destination de l’espace Schengen.
 
 **6.5** Les frais de Bagages enregistrés et/ou d’excédent de Bagage doivent être payés et vos Bagages enregistrés doivent être déposés au comptoir de dépôt des Bagages au plus tard 40 minutes avant l’heure de départ prévue. Les comptoirs de dépôt de Bagages ouvrent deux heures avant l’heure de départ prévue.
 
@@ -363,141 +403,226 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 ===================================================
 
-**8.3.1** Tous les passagers ont le droit d'apporter 1 petit sac (dimensions: 40cm x 20cm x 25cm) à bord de l'avion (pas de franchise pour les bébés voyageant sur les genoux de leurs parents) (cliquez ici pour voir les Règlements concernant les bagages à main).
+**8.3.1** Vous pouvez transporter à bord un petit bagage en cabine de 40 x 20 x 25 cm maximum (sans frais pour les bébés voyageant sur les genoux de leurs parents). Cliquez ici pour consulter les Règlements concernant les bagages en cabine.
 
-Si vous avez acheté Priorité et 2 bagages en cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019), vous pouvez emporter à bord un petit bagage à main ainsi qu’un plus grand bagage pesant au maximum 10 kg et ne mesurant pas plus de 55 cm x 40 cm x 20 cm, sauf si nous sommes dans l’obligation de transporter le grand bagage dans la soute, pour des raisons opérationnelles.  
+**8.3.2** Si vous avez acheté Priorité et 2 bagages cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019), vous pouvez emporter à bord un petit bagage à main ainsi qu’un plus grand bagage en cabine pesant au maximum 10 kg et ne mesurant pas plus de 55 cm x 40 cm x 20 cm, sauf si nous sommes dans l’obligation de placer le grand bagage en cabine dans la soute, pour des raisons opérationnelles.
 
-Vous pouvez transporter un Bagage de cabine d’une taille maximale de 40 x 20 x 25 cm. Si vous avez acheté l’option Bagage enregistré de 10 kg, vous pouvez prendre votre petit sac avec vous à bord, mais votre grand bagage à main (jusqu’à 10 kg et mesurant 55 cm x 40 cm x 20 cm) doit être déposés au comptoir de dépôt des bagages avant de passer le contrôle de sécurité. Ce bagage sera récupéré en zone de récupération des bagages à votre aéroport de destination.
+**8.3.3** Si vous avez acheté un bagage enregistré de 10 kg (jusqu’à 10 kg avec des dimensions maximales de 55 cm x 40 cm x 20 cm), vous pouvez transporter votre petit bagage à bord de l’avion, mais le bagage enregistré de 10 kg doit être déposé au comptoir de dépose-bagages avant de passer le contrôle de sécurité. Une fois arrivé à destination, le bagage pourra être récupéré sur le tapis de bagages. Les règlements concernant les bagages enregistrés s’appliquent en conséquence. Cliquez ici pour consulter notre tableau des frais.
 
-Les bagages trop volumineux/supplémentaires seront refusés à la porte d’embarquement et, le cas échéant, placés dans la soute de l’appareil moyennant les frais indiqués dans nos Règlements (cliquez ici pour voir les Règlements concernant les bagages à main). Ryanair n’accepte aucune responsabilité quant aux bagages trop volumineux ou supplémentaires refusés à la porte d’embarquement et que vous aurez abandonnés.
+**8.3.4** Les bagages supplémentaires ou trop volumineux seront refusés à la porte d’embarquement ou, le cas échéant, placés dans la soute de l’avion moyennant les frais indiqués dans nos Règlements (cliquez ici pour voir les Règlements concernant les bagages en cabine). Ryanair n’accepte aucune responsabilité quant aux bagages trop volumineux ou en excédent refusés à la porte d’embarquement que vous aurez abandonnés.
 
-Le transport de liquides, d’aérosols et de gels dans la zone de sécurité d’un aéroport et à bord d’un avion est contrôlé conformément aux exigences actuelles de sécurité dans l’UE.
+**8.3.5** Les sacs Duty Free contenant des articles hors-taxes sont autorisés en cabine avec vos bagages en cabine.
 
-**8.3.2**  Les articles que nous jugeons inappropriés pour le transport dans l’avion (tels que des instruments de musique délicats et petits, robes de mariée, boîtes à chapeaux, etc.), peuvent néanmoins être transportés en cabine si ces derniers peuvent être sécurisés et commodément attachés sur un siège supplémentaire que vous aurez acheté dans ce but. Pour réserver un siège supplémentaire pour un tel objet, le mot « SUPPLÉMENTAIRE » doit être saisi comme prénom et « ARTICLE SIÈGE » en tant que nom de famille. ARTICLE SIÈGE SUPPLÉMENTAIRE sera affiché à la fois dans la réservation et sur la carte d’embarquement en ligne. Les informations du document de voyage du passager accompagnant doivent être saisies lors du processus d’enregistrement en ligne. Aucune franchise de bagage à main ou enregistré n’est associée à l’achat d’un siège supplémentaire.  Les sièges réservés dans les rangs d’urgence 1, 16 et 17 ne peuvent pas être achetés si vous avez acheté un siège supplémentaire pour l’article ou par confort (cliquez ici pour les Règlements concernant les bagages à main).
+8.4 Appareils électroniques en cabine
 
-**8.3.3** Vous pouvez transporter des cigarettes électroniques à bord mais leur utilisation ainsi que de tout autre type de cigarettes y est strictement interdit.
 
-**8.3.4** Vous pouvez emporter des sacs « connectés » (sacs contenant des batteries au lithium pour que l’utilisateur puisse suivre et peser son bagage et pour charger des documents depuis le port USB) en cabine, à condition de retirer la batterie au lithium avant de placer le bagage dans le compartiment au-dessus de votre tête. Vous devez garder la batterie sur vous à tout moment.   
+=======================================
 
-**8.3.5** Un maximum de 15 appareils électroniques personnels et de 20 batteries métal au lithium par passager est autorisé sur chaque vol.
+**8.4.1** Vous pouvez emporter des cigarettes électroniques dans l’avion, mais vous ne pouvez pas les utiliser.
 
-8.4 Bagages enregistrés
+**8.4.2** Vous pouvez emporter un « sac intelligent » (un sac contenant une batterie au lithium et permettant de recharger des appareils à l’aide d’un port USB) dans l’avion en tant que bagage à main. Toutefois, vous devez retirer la batterie au lithium avant de placer le bagage dans le compartiment supérieur. La batterie doit rester avec vous à tout moment.
+
+**8.4.3** Vous pouvez emporter dans l’avion jusqu’à 15 appareils électroniques et jusqu’à 20 batteries au lithium.
+
+8.5 Objets interdits en cabine
+
+
+================================
+
+Les objets suivants ne doivent pas être transportés dans les zones de sûreté à accès réglementé et à bord en tant que bagages à main, mais peuvent être transportés dans vos bagages enregistrés :
+
+**8.5.1** _Objets pointus ou tranchants –_ Objets pointus ou tranchants pouvant être utilisés pour causer des blessures graves, notamment :
+
+* objets conçus pour couper, tels que les haches, les hachettes et les couperets ;
+* piolets, pics à glace et patins à glace ;
+* rasoirs et lames de rasoir (à l’exception des rasoirs de sécurité ou jetables dont les lames et les têtes de rasoir sont enfermées dans des compartiments en plastique) ;
+* cutters ;
+* couteaux avec des lames de plus de 6 cm, y compris les canifs de poche ou les couteaux à cran d’arrêt, les couteaux de cérémonie ou religieux et les couteaux de chasse en métal ou en tout autre matériau suffisamment solide pour être utilisé comme arme potentielle, les couteaux artisanaux et les couteaux utilitaires, ainsi que les coupe-pâte ;
+* ciseaux dont les lames mesurent plus de 6 cm à partir du point d’appui ;
+* équipements d’arts martiaux dotés d’une pointe ou d’un bord tranchant, y compris les étoiles de lancer ;
+* épées et sabres ;
+* cannes-épées, hachoirs à viande, machettes ;
+
+·        bistouris, crampons, grappins, barres de fer à crochets et plaques à pointes de fer utilisés en alpinisme ;
+
+* harpons et lances ;
+* bâtons de ski et bâtons de marche ou de randonnée.
+
+Tout objet tranchant se trouvant dans vos bagages enregistrés doit être solidement emballé afin d’éviter que le personnel qui doit le manipuler ne se blesse.
+
+**8.5.2** _Outils d’ouvriers –_ outils susceptibles d’être utilisés pour causer des blessures graves ou pour menacer la sécurité de l’avion :
+
+* pieds-de-biche ;
+* perceuses et forets, y compris les perceuses électriques portables sans fil ;
+* outils munis d’une lame ou d’un manche de plus de 6 cm pouvant être utilisés comme une arme, tels que tournevis et burins ;
+* scies, y compris les scies électriques portables sans fil ;
+* chalumeaux ;
+* pistolets à boulons et pistolets à clous ;
+* marteaux, pinces, clés plates et clés à molette.
+
+**8.5.3** _Instruments contondants –_ objets capables de causer des blessures graves lorsqu’ils sont utilisés pour frapper, y compris :
+
+* battes de base-ball et de soft-ball ;
+* massues et bâtons, tels que les triques, gourdins et matraques ;
+* équipements d’arts martiaux (par exemple, poings américains, crosses, fléaux d’armes),
+* raquettes de tennis, raquettes de squash, etc. ;
+* battes de cricket ;
+* bâtons de hockey, bâtons de hurley et bâtons de crosse ;
+* pagaies de kayak et de canoë ;
+* skateboards ;
+* queues de billard, de snooker et de billard américain ;
+* fléchettes ;
+* cannes à pêche.
+
+**8.5.4** Outre les objets susmentionnés, vous ne devez avoir aucun des articles énumérés au point 8.11 (objets interdits) dans vos bagages à main ou dans vos bagages enregistrés. 
+
+**8.5.5** Le transport de liquides, d’aérosols et de gels dans la zone de sécurité d’un aéroport et à bord d’un avion est contrôlé conformément aux exigences actuelles de sécurité de l’UE.
+
+8.6 Bagages enregistrés
 
 
 =========================
 
-**8.4.1** Il vous est interdit de transporter des articles présents dans l’article 8.9 (articles interdits) dans un bagage enregistré. 
+**8.6.1** Votre nom ou autre forme d’identification personnelle doit être apposé ou attaché à votre bagage enregistré.
 
-**8.4.2** Vous ne devez pas inclure dans les Bagages enregistrés de l’argent, des bijoux, des métaux précieux, des clés, des appareils photo, des appareils électroniques personnels (PED)\*, tels qu’ordinateurs portables, téléphones portables, tablettes, cigarettes électroniques, montres, piles de rechange au lithium\*, médicaments, lunettes de soleil, lentilles de contact, valeurs négociables, valeurs mobilières, cigarettes, tabac ou produits issus du tabac ou autres objets de valeur, documents commerciaux, passeports et autres pièces d’identité ou échantillons.
+**8.6.2** Lorsque vous remettez des bagages à transporter en soute en tant que bagages enregistrés, nous vous remettons une étiquette d’identification de bagage pour chaque bagage enregistré.
 
-\* Exceptionnellement, lorsque des appareils électroniques personnels de grande taille alimentés par des batteries au lithium ne peuvent être transportés en cabine (en raison de leur taille), et doivent de ce fait être enregistrés, les passagers doivent s’assurer que :  
+**8.6.3** Dans la mesure du possible, les bagages enregistrés sont transportés dans le même avion que vous, sauf si nous décidons de les transporter sur un autre vol pour des raisons de sécurité, de sûreté ou d’exploitation (p. ex. : si nous avons atteint le poids maximal autorisé au décollage). Si vos bagages enregistrés sont transportés sur un vol ultérieur, nous vous les livrerons, sauf si une loi applicable exige que vous soyez présent pour passer la douane.
 
-* L’article est entièrement éteint et protégé de façon efficace contre une mise sous tension accidentelle ;  
-    
-* Toute application, alarme ou configuration pré-réglée qui pourrait s’activer doit être désactivée ; 
-* L’article est protégé contre tout dommage accidentel éventuel en le plaçant dans un emballage ou boîtier adéquat, ou dans un sac rigide rembourré (p. ex. : avec des vêtements) ;  
-    
-* L’article n’est pas transporté dans le même bagage que des matériaux inflammables (p. ex. : des parfums, aérosols, etc.) ;
+**8.6.4** Vous devez récupérer vos bagages enregistrés dès que ces derniers seront disponibles à votre destination. Si vous ne les récupérez pas dans un délai raisonnable, des frais de stockage pourront vous être facturés. Si vos bagages enregistrés ne sont pas réclamés dans les trois (3) mois à partir du moment où ils sont disponibles, nous pouvons les détruire sans aucune responsabilité envers vous.
 
-**8.4.3** Les sacs « connectés » (sacs contenant des batteries au lithium pour que l’utilisateur puisse suivre et peser son bagage et charger des documents depuis le port USB) peuvent être placés en Bagage enregistré, à condition de retirer la batterie au lithium avant de donner le sac au personnel au sol au dépose bagages ou à la porte d’embarquement. Vous devez prendre la batterie avec vous à bord. 
+**8.6.5** Seul le porteur de l’étiquette d’identification de bagage peut bénéficier de la livraison des bagages enregistrés.
 
-**8.4.4** Au moment de la réception du bagage que vous souhaitez enregistrer, nous en aurons la garde et nous émettrons une étiquette d’identification des bagages, et ce, pour chaque bagage enregistré.  
+**8.6.6** Si une personne réclamant un bagage enregistré est incapable de produire et/ou d’identifier le bagage au moyen d’une étiquette d’identification de bagage, nous livrerons le bagage à cette personne uniquement à condition qu’elle établisse de manière satisfaisante son droit au bagage.
 
-**8.4.5** Les Bagages enregistrés doivent être étiquetés avec votre nom ou toute autre identification personnelle.  
+**8.6.7** Si un appareil électronique personnel ne peut être transporté dans la cabine passager (par exemple, parce qu’il est trop grand), et qu’il doit donc être placé en soute, vous devez vous assurer que :
 
-**8.4.6** Les bagages enregistrés seront, dans la mesure du possible, transportés dans le même avion que vous, à moins que nous ne décidions pour des raisons de sécurité ou opérationnelles de les transporter sur un autre vol. Si vos bagages enregistrés sont transportés dans un vol suivant, ces derniers vous seront livrés par nos soins, à moins que la loi applicable ne vous oblige à être présent pour en assurer le dédouanement.  
+* l’appareil est totalement éteint et protégé efficacement contre toute mise en marche accidentelle ;
+* toute application, toute alarme ou tout réglage susceptible d’activer l’appareil est désactivé(e) ou désactivable ;
+* l’appareil est protégé de tout dommage accidentel par un emballage ou un boîtier approprié, ou en étant placé dans un bagage rigide et protégé par un rembourrage adéquat ; et que
+* l’appareil ne se trouve pas dans le même bagage qu’une matière inflammable (p. ex., un parfum ou un aérosol).
 
-**8.4.7** Les objets suivants doivent obligatoirement être enregistrés en soute : tout instrument contondant capable d’occasionner des blessures, tels que : battes de base-ball et de soft ball, matraques ou gourdins rigides ou souples tels que les triques, gourdins, bâtons et matraques, battes de cricket, clubs de golf, crosses de hockey, bâtons de jeu de crosse, pagaies de kayak et de canoë, planches à roulettes, queues de billard, de snooker et de billard américain, cannes à pêche, équipements d’arts martiaux, tels que : poing américain, massue, matraque, fléau d’armes, nunchaku, kubotan, kubasaunt .  
+**8.6.8** Un « sac intelligent » (un sac contenant une batterie au lithium et permettant de recharger des appareils à l’aide d’un port USB) peut être transporté en soute en tant que bagage enregistré, à condition que vous retiriez la batterie au lithium avant de remettre le sac au comptoir de dépose-bagages ou à la porte d’embarquement. Vous devez prendre la batterie avec vous dans l’avion. 
 
-**8.4.8** Tout objet pointu dans les bagages enregistrés doivent être enveloppés de manière sécurisée, afin d’éviter les blessures du personnel de manutention et des agents de sécurité de l’aéroport.  
+**8.6.9** Les détails sur notre service de dépose-bagage express sont disponibles dans nos règlements concernant les bagages enregistrés.
 
-**8.4.9** Armes pointues/tranchantes et les objets coupants : les articles pointus ou équipés d’une lame capables d’occasionner des blessures, tels que : haches et hachettes, flèches et fléchettes, crampons, harpons et lances, piolets et pics à glace, patins à glace, couteaux verrouillables ou à cran d’arrêt, quelle que soit la longueur de la lame, couteaux, y compris les couteaux de cérémonie, dont la lame dépasse 6 cm, en bois ou en tout autre matériau suffisamment solide pour que le couteau puisse être utilisé comme arme, couperets, machettes, rasoirs à lame nue et lames nues (à l’exclusion des rasoirs de sécurité ou des rasoirs jetables et des lames dans des étuis distributeurs), sabres, épées et cannes à épée, scalpels, ciseaux dont les lames dépassent 6 cm, bâtons de ski et de marche/randonnée, étoiles de lancer (shuriken), outils de métiers pouvant être utilisés comme des armes pointues ou tranchantes, tels que : perceuses et forets, cutters, couteaux à lames multiples, scies en tous genres, tournevis, barres à mine, marteaux, pinces coupantes, clés plates ou à molette, chalumeaux.
-
-8.5 Récupération et livraison des bagages enregistrés
+8.7 Objets interdits dans les bagages enregistrés
 
 
-=======================================================
+===================================================
 
-**8.5.1**  You must collect your checked baggage as soon as it is available at your destination. If you do not retrieve it within a reasonable time, you may be charged storage costs. If your Checked Baggage is not claimed within three (3) months from the time it becomes available, we may destroy it without any liability to you.
+**8.7.1** Vous ne devez avoir aucun des objets énumérés au point 8.11 (objets interdits) dans vos bagages enregistrés ou dans vos bagages à main. 
 
-**8.5.2**  Only the bearer of the baggage identification tag can benefit from the delivery of checked baggage.
+**8.7.2** Les objets suivants ne doivent pas être transportés dans vos bagages enregistrés, mais dans la cabine passager dans vos bagages à main :
 
-**8.5.3**  If a person claiming checked baggage is unable to produce and / or identify the baggage by means of a baggage identification tag, we will deliver the baggage to that person only on condition that he establishes satisfying his right to baggage.
+* argent, titres négociables (documents garantissant le paiement d’une certaine somme d’argent) ou valeurs ;
+* bijoux, métaux précieux ou autres objets de valeur ;
+* clés ;
+* appareils photo ;
+* cigarettes électroniques ;
+* montres ;
+* médicaments ;
+* lunettes, lunettes de soleil ou lentilles de contact ;
+* cigarettes, tabac ou produits dérivés du tabac ;
+* documents commerciaux ;
+* passeports et autres documents d’identité ;
+* appareils électroniques personnels tels que les ordinateurs portables, les téléphones mobiles, les tablettes et les batteries au lithium de rechange ;
+* allumettes de sûreté ou briquets dont le combustible/fluide est entièrement absorbé dans un solide, qui sont destinés à être utilisés par une personne et ne doivent être portés que sur la personne.
 
-**8.5.4** Les détails sur notre service de Dépose-bagage express sont disponibles dans nos règlements concernant les bagages enregistrés. 
+Si, bien qu’interdit, un objet mentionné ci-dessus se trouve dans vos bagages enregistrés, nous ne serons pas responsables de la perte ou des dommages subis par cet objet.
 
-8.6 Animaux, marchandises et cendres
+**8.7.3** Les objets qui ne conviennent pas au transport en soute (tels que les instruments de musique délicats mais de petite taille, les robes de mariée et les boîtes à chapeaux) peuvent être transportés en cabine s’ils peuvent être placés convenablement et en toute sécurité sur un siège en plus que vous avez payé. Pour réserver un siège en plus pour un objet, indiquez sur le formulaire de réservation « Article en supplément » comme nom de famille et « Siège » comme prénom. La mention « Siège Article en supplément » apparaîtra alors dans la réservation et sur la carte d’embarquement. Vous devrez saisir les détails de votre document de voyage pour le siège en plus lors du processus d’enregistrement en ligne. Il n’y a pas de franchise bagage pour le siège en plus. 
 
+Les sièges des rangées 1, 16 et 17 ne peuvent pas servir de sièges en plus pour des articles.
 
-======================================
-
-**8.6.1** Nous ne transportons pas d’animaux ou de marchandises sur nos vols, à l’exception des chiens guides sur certains trajets (cliquez ici pour les Règlements concernant l’acceptation des animaux d’assistance).
-
-**8.6.2** Le transport de cendres est autorisé en tant que bagage à main et peut être transporté en plus de votre bagage à main normal autorisé à condition qu’une copie de l’attestation de décès et du certificat de crémation les accompagne. Vous devez vous assurer que les cendres sont correctement emballées, et ce, dans un récipient approprié avec un couvercle à vis et protégé contre la casse. Cliquez ici pour le lien FAQ sur le Transport de cendres.
-
-8.7 Droit de refuser le transport
-
-
-===================================
-
-**8.7.1** Nous refuserons de transporter en tant que bagages les articles interdits mentionnés aux Articles 8.3 et 8.9.7 et refuserons le transport ultérieur de ces objets une fois découverts.
-
-**8.7.2** Nous pouvons refuser d’accepter les bagages pour le transport, à moins qu’ils puissent être raisonnablement considérés comme emballés de manière correcte et sûre dans des contenants adaptés.
-
-8.8 Droit d’inspection
+8.8 Animaux, cargaisons et cendres humaines
 
 
-========================
+=============================================
 
-**8.8.1** Pour des raisons de sécurité/sûreté, nous pouvons vous demander de nous autoriser à vous soumettre, vous-même et/ou vos Bagages, à une fouille ou à tout contrôle de type rayons X ou autre. Si vous n’êtes pas disponible, vos bagages peuvent être inspectés durant votre absence dans le but principal de déterminer si vous êtes en possession de, ou si votre bagage contient, un article décrit aux Articles 8.3 ci-dessus ou 8.9 ci-dessous.  
-  
-**8.8.2** Si vous refusez de vous conformer à de telles demandes, nous pouvons refuser de vous transporter, ainsi que vos bagages. Si ces contrôles endommagent vos bagages et leur contenu, ou si des rayons X causent des dommages, nous ne saurions en être tenus pour responsables, sauf en cas de négligence grave de notre part.
+**8.8.1** Nous ne transportons pas d’animaux sur nos vols, à l’exception des chiens d’assistance sur certains itinéraires.
 
-8.9 Articles interdits
+**8.8.2** Nous ne transportons pas de marchandises sur nos vols.
+
+**8.8.3** Vous pouvez emporter des cendres humaines dans l’avion (ainsi qu’un bagage à main) à condition d’avoir avec vous une copie du certificat de décès et du certificat de crémation. Vous devez veiller à ce que les cendres soient bien emballées dans un récipient approprié doté d’un couvercle à vis et protégé contre les bris.
+
+8.9 Droit de refuser un bagage
 
 
-========================
+================================
 
-Vous ne devez transporter aucun des objets suivants dans les bagages enregistrés ou les bagages à main, ni passer le contrôle de sécurité avec ces objets sur vous (p. ex. : dans vos poches).
+**8.9.1** Si nous constatons que l’un de vos bagages contient des objets que vous n’êtes pas autorisé à transporter, conformément aux clauses 8.5, 8.6 et 8.11, nous refuserons de poursuivre le transport de ce bagage tant qu’il contient ces objets.
 
-**8.9.1** Tout objet susceptible de présenter un danger pour l’avion, les personnes ou les biens, y compris les objets suivants.
+**8.9.2** Nous pouvons refuser d’accepter des bagages qui, à notre avis raisonnable, ne sont pas correctement et solidement emballés dans des conteneurs appropriés.
 
-* Explosifs, substances et dispositifs capables, ou semblant capables, de causer des blessures graves ou de menacer la sécurité de l’avion, y compris les détonateurs et les fusibles, les répliques ou imitations d’engins explosifs, les mines et les grenades.
-* Détonateurs
-* Autres magasins d’explosifs militaires
-* Dynamite, poudre à canon et explosifs plastiques
-* Gaz et récipients à gaz
-* Liquides inflammables
-* Solides inflammables et substances provoquant une réaction chimique
-* Feux d’artifice, fusées éclairantes, bombes ou cartouches fumigènes et autres articles pyrotechniques
-* Peinture, térébenthine, white spirit et diluant pour peinture
-* Alcool ayant un titre alcoométrique de plus de 70 % (« 140 % proof »)
-* Produits chimiques, substances toxiques ou infectieuses (p. ex. : acides et alcalis, batteries « humides », eau de Javel, gaz lacrymogène, sprays répulsifs pour animaux, poisons, sang infecté, bactéries et virus)
-* Matières radioactives, y compris les isotopes médicaux ou commerciaux
-* Corrosifs, y compris le mercure, les batteries de véhicules et les pièces ayant contenu du carburant
-* Plus d’un litre au total d’huile alimentaire (p. ex. : d’huile d’olive)
-* Véhicules alimentés par des batteries au lithium-ion (y compris les segways et les hoverboards) autres que tout fauteuil roulant ou équipement de mobilité conforme à nos réglementations 
-* Appareils alimentés par des batteries au lithium-ion qui dépassent 160 wattheures.
-* Sacs intelligents dont la batterie au lithium n’a pas été retirée.  
-* Pistolets, armes à feu, munitions et armes, réelles ou factices, y compris les pistolets de départ, les pistolets-jouets ou les pistolets de loisir (tels que les pistolets à billes de peinture), les pistolets à clous, les arcs, les lance-pierres, les catapultes, les harpons, les pistolets paralysants, les tasers, les aiguillons à bétail et les lasers.
-* Parties d’armes à feu (à l’exception des dispositifs de visée et des viseurs)
-* Extincteurs d’incendie (à l’exception des extincteurs autorisés par les procédures d’incendie et du matériel d’urgence à bord de l’avion)
-* Briquets et allume-feu
-* Crackers de Noël
-* Ampoules à économie d’énergie
-* Objets équipés d’un moteur à combustion interne
+8.10 Droit d’inspection
 
-**8.9.2** Les articles interdits par une loi, un règlement ou une ordonnance d’un pays ou d’un état vers lequel ou à partir duquel votre avion vole.
 
-**8.9.3** Les articles dont nous avons de bonnes raisons de penser qu’ils ne conviennent pas au transport parce que :
+=========================
 
-* ils sont dangereux ou peu sûrs ;
-* en raison de leur poids, de leur taille, de leur forme ou de leur nature ; ou
-* sont fragiles ou périssables.
+**8.10.1** Pour des raisons de sûreté et de sécurité, nous pouvons demander à vous scanner et à vous fouiller, ainsi qu’à fouiller, à scanner vos bagages et les passer aux rayons X. Vos bagages peuvent être inspectés en votre absence, principalement pour vérifier s’ils contiennent un objet décrit dans les clauses 8.5, 8.6 ou 8.9 ci-dessus.
 
-**8.9.4** Les poissons, les oiseaux ou tous les animaux tués et conservés comme trophées de chasse.
+**8.10.2** Si vous ne nous autorisez pas à vous scanner et à vous soumettre à une inspection, ou à inspecter, scanner ou passer vos bagages aux rayons X, nous pouvons refuser de vous transporter, vous et vos bagages.
 
-**8.9.5** Si, bien qu’interdit, un article visé dans la présente clause 8.9 se trouve dans votre bagage à main ou votre bagage enregistré, nous ne serons pas responsables de la perte ou de l’endommagement de cet article.
+**8.10.3** Si une inspection ou un scanner entraîne une blessure physique, ou si le passage aux rayons X, un scanner ou une fouille endommage vos bagages, nous ne serons pas responsables de la blessure ou du dommage, sauf si nous avons commis une faute ou une négligence.
+
+8.11 Objets interdits au transport
+
+
+====================================
+
+Vous ne devez transporter aucun des objets suivants dans les zones de sécurité à accès réglementé et à bord d’un avion, que ce soit dans votre bagage à main ou dans votre bagage enregistré :
+
+**8.11.1** Tout objet susceptible de présenter un danger pour l’avion, les personnes ou les biens, y compris les objets suivants :
+
+* _revolvers, armes à feu et autres équipements émettant des projectiles_ **–** équipements susceptibles, ou apparaissant comme susceptibles, d’être utilisés pour occasionner des dommages sévères par l’émission d’un projectile, notamment :
+    * armes à feu de tous types, telles que pistolets, revolvers, carabines et fusils ;
+    * jouets (y compris les armes de loisir telles que les pistolets de paint ball), copies et imitations d’armes à feu susceptibles d’être confondues avec des armes réelles ;
+    * pièces détachées d’armes à feu, à l’exception des lunettes télescopiques ;
+    * pistolets et fusils à air comprimé et à CO2 , tels que pistolets, fusils, carabines à plombs et pistolets et fusils à barillet,
+    * pistolets de détresse et pistolets de départ ;
+    * arcs, arbalètes et flèches ;
+    * harpons, fusils sous-marin et pistolets à clous ;
+    * frondes et lance-pierres ;
+    * pistolets paralysants, tasers, aiguillons à bétail et lasers.
+* _appareils à effet paralysant –_ appareils conçus spécialement pour étourdir ou pour immobiliser, notamment :
+    * engins neutralisants, tels que pistolets paralysants, tasers et matraques électriques ;
+    * étourdisseurs pour animaux et pistolets d’abattage des animaux ;
+    * substances chimiques, gaz et aérosols neutralisants et incapacitants, tels qu’aérosols à chloroacétophénone, aérosols poivrés, gaz lacrymogène, vaporisateurs d’acide et de répulsif pour animaux.
+* _substances et engins explosifs ou incendiaires –_  substances et engins explosifs ou incendiaires susceptibles, ou paraissant susceptibles, d’être utilisés pour occasionner des blessures graves ou pour menacer la sécurité d’un avion, notamment :
+    * munitions ;
+    * amorces ;
+    * détonateurs et cordeaux détonants ;
+    * copies ou imitations d’engins explosifs ;
+    * mines, grenades et autres explosifs militaires ;
+    * feux d’artifice et autres articles pyrotechniques ;
+    * bombes fumigènes et cartouches fumigènes ;
+    * dynamite, poudre et explosif plastique ;
+    * liquides inflammables, solides inflammables et substances provoquant une réaction chimique ;
+    * peinture, térébenthine, white spirit et diluant pour peinture ;
+    * alcool ayant un titre alcoométrique de plus de 70 % (« 140 % proof ») ;
+    * substances toxiques ou infectieuses (p. ex. : acides et alcalis, batteries « humides », eau de Javel, poisons, sang infecté, bactéries et virus) ;
+    * matières radioactives, y compris les isotopes médicaux ou commerciaux ;
+    * corrosifs, y compris le mercure, les batteries de véhicules et les pièces ayant contenu du carburant ;
+    * plus d’un litre au total d’huile alimentaire (p. ex. : d’huile d’olive) ;
+    * véhicules alimentés par des batteries au lithium-ion (y compris les segways et les hoverboards) autres que tout fauteuil roulant ou équipement de mobilité conforme à nos réglementations ;
+    * sacs intelligents dont la batterie au lithium n’a pas été retirée ;
+    * extincteurs d’incendie (à l’exception des extincteurs autorisés par les procédures d’incendie et faisant partie de l’équipement d’urgence à bord de l’avion) ;
+    * briquets et allume-feu avec un réservoir de liquide inflammable contenant un combustible liquide non absorbé (autre qu’un gaz liquéfié), combustible pour briquets et recharges pour briquets ;
+    * allumettes qui s’allument sur n’importe quelle surface ;
+    * crackers de Noël ;
+    * ampoules à économie d’énergie ;
+    * objets équipés d’un moteur à combustion interne.
+
+**8.11.2** Les objets interdits par une loi, une réglementation ou une ordonnance d’un pays ou d’un état vers lequel ou à partir duquel votre avion vole.
+
+**8.11.3** Les objets dont nous avons de bonnes raisons de penser qu’ils ne conviennent pas au transport :
+
+* parce qu’ils sont dangereux ou peu sûrs ;
+* en raison de leur poids, de leur taille, de leur forme ou de leur nature ; ou
+* parce qu’ils sont fragiles ou périssables.
+
+**8.11.4** Les poissons, les oiseaux ou tous les animaux tués et conservés comme trophées de chasse.
 
 ARTICLE 9 HORAIRES, ANNULATIONS, RETARDS ET DÉROUTEMENTS
 ========================================================
@@ -556,44 +681,27 @@ Sauf disposition contraire de la Convention ou du Règlement (CE) No. 261/2004 (
 
 ==================================================================
 
-Si un membre de votre famille immédiate qui ne voyage pas avec vous décède dans les 28 jours précédant le vol que vous avez réservé, vous pouvez demander un remboursement égal au tarif que vous avez payé pour le ou les vols que vous n’avez pas pris en conséquence, plus les taxes, frais et charges associés que vous avez payés. Vous devez faire votre demande avant la date du vol et fournir une copie du certificat de décès.
+Si un membre de votre famille immédiate qui ne voyage pas avec vous décède dans les 10 jours précédant le vol que vous avez réservé, vous pouvez demander un Crédit de Voyage, d’un montant égal au tarif que vous avez payé pour le ou les vols que vous n’avez pas pris en conséquence, additionné des taxes, frais et charges associés que vous avez payés. Vous devez faire votre demande avant la date du vol et fournir une copie du certificat de décès. 
 
-Aux fins de la présente clause, un membre de la famille immédiate est :
+Aux fins de la présente clause, un membre de la famille immédiate est : 
 
-* votre mari, épouse ou partenaire civil.
-* un enfant ou un(e) beau-fils, belle-fille.
-* un parent ou un beau-parent.
-* un frère, une sœur, un demi-frère ou une demi-sœur.
-* un grand-parent ou petit-enfant ; ou
-* votre belle-mère, beau-père, belle-sœur, beau-frère, belle-fille ou gendre 
+* votre mari, épouse ou partenaire civil ; 
+* un enfant ou un(e) beau-fils, belle-fille ; 
+* un parent ou un beau-parent. 
 
 10.4 Décès d’un passager ayant fait l’objet d’une réservation
 
 
 ===============================================================
 
-Si une personne figurant sur votre réservation décède dans les 28 jours précédant le vol que vous avez réservé, Ryanair peut :
+Si une personne figurant sur votre réservation décède, Ryanair peut :
 
-* peut rembourser  le montant total pour toute personne voyageant sur votre réservation ; ou, le cas échéant,
-* renoncera aux frais de changement de vol, ainsi qu’aux restrictions associées au changement de vos vols.
-
-Vous devez fournir une preuve appropriée du décès avant la date à laquelle vous deviez voyager.
-
-Pour soumettre une demande de remboursement, veuillez cliquer ici.
-
-10.5 Maladie grave d’un passager ayant fait l’objet d’une réservation
-
-
-=======================================================================
-
-Si une personne figurant sur votre réservation tombe gravement malade et n’est pas en mesure de voyager avant le voyage, et que la date du diagnostic se situe dans les 6 semaines précédant votre vol réservé, Ryanair peut :
-
-* vous créditer le montant total pour toutes les personnes voyageant sur votre réservation ; ou, le cas échéant,
+* émettre un crédit de voyage du montant total pour toutes les personnes voyageant sur votre réservation ou, le cas échéant,
 * renoncer aux frais de changement de vol, ainsi qu’à toute restriction liée à la modification de vos vols.
 
-Vous devez fournir une preuve appropriée de la maladie grave avant la date à laquelle vous deviez voyager.
+Vous devez fournir une preuve recevable du décès avant la date à laquelle vous deviez voyager. En cas de décès du passager principal figurant sur la réservation, l’exécuteur testamentaire de ce dernier devra faire une demande en son nom.
 
-Pour soumettre une demande de remboursement, veuillez cliquer ici.  
+Pour demander un crédit de voyage, veuillez cliquer ici.
 
 ARTICLE 11 COMPORTEMENT À BORD
 ==============================
@@ -604,6 +712,8 @@ ARTICLE 11 COMPORTEMENT À BORD
 ==================
 
 S’il nous semble raisonnable de considérer que par votre comportement à bord, vous mettez en danger l’appareil, une personne ou des biens à bord, que vous empêchez l’équipage de remplir ses fonctions, que vous ne vous soumettez pas aux recommandations et instructions de l’équipage, notamment, mais non exclusivement, celles concernant la consommation de tabac, d’alcool ou de drogue, ou encore si nous estimons raisonnablement que vous vous comportez d’une manière qui peut gêner ou a dérangé l’équipage ou les autres passagers ou leur a causé un préjudice matériel ou corporel, nous pourrons prendre toutes les mesures que nous jugerons nécessaires, y compris en vous restreignant, pour vous empêcher de continuer à vous comporter de la sorte. Vous pourrez être débarqué, vous voir refuser l’accès à bord pour continuer le voyage à n’importe quel point et être poursuivi pour toute infraction que vous auriez commise à bord de l’appareil.
+
+Si, en raison de votre comportement ou de votre perturbation, nous déroutons l’avion pour vous débarquer, vous devez nous indemniser pour tous les coûts raisonnables et appropriés liés à la déviation (y compris nos frais juridiques pour intenter une ou plusieurs actions contre vous).
 
 Il est strictement interdit d’enregistrer ou de photographier notre personnel, que ce soit à l’aéroport ou à bord de l’avion, sans avoir obtenu son consentement. Seuls les enregistrements ou les photographies personnelles vous concernant sont autorisés.
 
@@ -651,15 +761,13 @@ Pour plus d’informations sur la protection contre l’insolvabilité, cliquez
 
 12.3.5   En cas de problème avec un élément de votre forfait, veuillez tout d’abord contacter le prestataire concerné, soit nous-même en ce qui concerne le vol. Si un prestataire concerné tiers ne parvenait pas à résoudre le problème, ou si l’exécution du forfait est insuffisante ou manquante de manière significative, vous devez immédiatement nous en informer pour que nous prenions des dispositions alternatives raisonnables.
 
-12.3.6   Nous bénéficions d’une protection complète pour les forfaits, nous permettant de rembourser vos paiements et, si nécessaire, d’assurer votre rapatriement, dans le cas peu probable où nous deviendrions insolvables. Nous avons pris une assurance en cas d’insolvabilité auprès de International Protection Limited (IPP) et souscrite par des syndicats de Lloyd’s. Les voyageurs peuvent contacter IPP (IPP Claims at InTrust, Postbus 23212, 2001 KE Rotterdam, the Netherlands; +31 1031 20666; ippclaims@intrust-nl.com) ou, le cas échéant, the Commission for Aviation Regulation (3rd Floor, Alexandra House, Earlsfort Terrace, Dublin 2, Ireland; +353 (0)1 6611700; info@aviationreg.ie) si les services sont refusés en raison de notre insolvabilité.
+12.3.6 Nous bénéficions d’une protection complète pour les forfaits, nous permettant de rembourser vos paiements et, si nécessaire, d’assurer votre rapatriement, dans le cas peu probable où nous deviendrions insolvables. Nous avons souscrit une protection contre l’insolvabilité auprès d’Arcus Solutions et souscrite par Accelerant Insurance Europe SA. Les voyageurs peuvent contacter Arcus Solutions (Réclamations, Arcus Solutions, 3 Cours Charlemagne, 69002 Lyon, France ; +44 20 7065 5320) ou, le cas échéant, l’Irish Aviation Authority (The Times Building, 11-12 D’Olier Street, Dublin, D02 T449 ; +353 (0)1 603 1100 ; info@iaa.ie) si les services sont refusés en raison de notre insolvabilité.
 
 12.3.7   Nous nous réservons le droit de résilier votre réservation de forfait dans le cas où nous serions dans l’incapacité d’exécuter la réservation en raison de circonstances inévitables et extraordinaires, et nous vous informerons d’une telle résiliation sans retard injustifié.
 
 12.3.8   Si vous vous trouvez en difficulté, par exemple si vous êtes dans l’incapacité de rentrer comme prévu dans le cadre de votre forfait en raison de circonstances inévitables et extraordinaires, nous vous viendrons en aide sur demande, y compris en vous fournissant des informations pertinentes sur les services de santé, les autorités locales et les services consulaires, ainsi qu’en vous aidant à établir des communications à distance et à prendre des dispositions de voyage alternatives. Nous sommes susceptibles de vous facturer des frais raisonnables pour notre assistance si les difficultés sont causées par vous-même de manière intentionnelle ou par négligence.
 
-12.3.9   Si vous souhaitez déposer une plainte et que nous ne sommes pas en mesure de la résoudre, vous pouvez vous adresser au service de Règlement en ligne des litiges (RLL) de la Commission européenne.  Vous devez fournir notre adresse électronique (odr@ryanair.com) dans le champ de l’opérateur du RLL.  Cette adresse électronique peut uniquement être utilisée pour compléter le formulaire de plainte RLL.  Les demandes des clients envoyées à cette adresse électronique ne recevront pas de réponse.
-
-12.3.10 Notre responsabilité envers vous sera dans tous les cas limitée à un maximum de trois fois le coût d’un Forfait, sauf dans les cas impliquant des dommages corporels ou causés intentionnellement ou par négligence.
+12.3.9 Notre responsabilité envers vous sera dans tous les cas limitée à un maximum de trois fois le coût d’un Forfait, sauf dans les cas impliquant des dommages corporels ou causés intentionnellement ou par négligence.
 
 ARTICLE 13 - FORMALITÉS ADMINISTRATIVES
 =======================================
@@ -752,7 +860,7 @@ ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
 
 **14.4.3** Nous ne serons pas tenus responsables en cas de Dommages résultant du respect par nous des lois en vigueur ou des règles et réglementations gouvernementales, ou de votre non-respect de ces mêmes dispositions.  
 
-**14.4.4** Notre garantie de responsabilité pour la perte ou les dommages aux bagages est plafonnée à 1 288 SDR (ou son équivalent) pour chaque bagage perdu ou volé, à moins que vous n’ayez fait une déclaration spéciale d’intérêt à la livraison à destination avant l’enregistrement de vos bagages et payé les frais correspondants (augmentation de notre garantie de responsabilité plafonnée à 2 262 SDR).    
+**14.4.4** Notre garantie de responsabilité pour la perte ou les dommages aux bagages est plafonnée à 1,519 SDR (ou son équivalent) pour chaque bagage perdu ou volé, à moins que vous n’ayez fait une déclaration spéciale d’intérêt à la livraison à destination avant l’enregistrement de vos bagages et payé les frais correspondants (augmentation de notre garantie de responsabilité plafonnée à 2 262 SDR).    
 
 **14.4.5** Sauf disposition contraire spécifique stipulée dans les présentes Conditions générales, nous ne serons responsables envers vous que des dommages et intérêts compensatoires que vous êtes en droit de recevoir au titre de coûts ou pertes prouvés en vertu de la Convention.  
 
@@ -768,9 +876,9 @@ ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
 
 **14.5** Conformément à l’article 22 de la Convention, nous ne serons pas tenus responsables si vous-même ou votre Bagage enregistré souffrez d’un retard lors du transport aérien, si nous prouvons que nous ou nos préposés et agents avons pris toutes les mesures qui pouvaient raisonnablement s’imposer pour éviter le Dommage ou qu’il nous/leur était impossible de prendre de telles mesures. Si nous sommes responsables des Dommages causés du fait du retard, sauf cas de vol ou faute lourde, notre responsabilité en cas de dommage est limitée de la manière suivante:  
 
-**14.5.1** pour les Dommages causés par le retard quant au transport de Passagers, notre responsabilité est limitée à 4694 DTS pour chaque Passager;  
+**14.5.1** pour les Dommages causés par le retard quant au transport de Passagers, notre responsabilité est limitée à 6,303 DTS pour chaque Passager;  
 
-**14.5.2** pour les Dommages causés par le retard quant au transport des Bagages, notre responsabilité est limitée à 1288 DTS pour chaque Passager.
+**14.5.2** pour les Dommages causés par le retard quant au transport des Bagages, notre responsabilité est limitée à 1,519 DTS pour chaque Passager.
 
 ARTICLE 15 – DÉLAIS DE RÉCLAMATION ET DE POURSUITE
 ==================================================
@@ -815,8 +923,6 @@ Les réclamations peuvent être soumises ici. Si le Transporteur ne répond pas 
 ================
 
 Après avoir saisi le service clientèle et à défaut de réponse satisfaisante ou en l’absence de réponse dans un délai de 60 jours, le client peut saisir le médiateur du Tourisme et du Voyage, dont les coordonnées et modalités de saisine sont disponibles sur son site internet: www.mtv.travel
-
-Vous pouvez également déposer une plainte via la plateforme de Résolution des conflits en ligne de la Commission européenne à l’adresse http://ec.europa.eu/consumers/odr/. Veuillez noter que lorsque vous remplissez les coordonnées du site commerçant sur la plateforme ODR, il vous sera demandé d’indiquer une adresse e-mail pour Ryanair. Vous devrez utiliser l'adresse suivante : odr@ryanair.com. Cette adresse e-mail n’est pas destinée à un usage direct par le client. Elle ne doit être utilisée que pour remplir le formulaire de plainte ODR. Toutes plaintes à caractère général ou correspondance envoyées à cette adresse ne seront pas traitées.
 
 15.4 CESSION
 
@@ -922,11 +1028,11 @@ En cas de retard des passagers, le transporteur aérien doit verser des dommages
 
 **Retard des bagages**
 
-En cas de retard des bagages, le transporteur aérien doit verser des dommages et intérêts, sauf s’il a pris toutes les mesures raisonnablement envisageables pour les éviter ou s’il était impossible de prendre de telles mesures. La responsabilité en cas de retard des bagages est limitée à 1 288 DTS.
+En cas de retard des bagages, le transporteur aérien doit verser des dommages et intérêts, sauf s’il a pris toutes les mesures raisonnablement envisageables pour les éviter ou s’il était impossible de prendre de telles mesures. La responsabilité en cas de retard des bagages est limitée à 1,519 DTS.
 
 **Retard, perte ou détérioration des bagages**
 
-Le transporteur aérien est responsable en cas de destruction, perte ou détérioration des bagages, à concurrence de 1288 DTS. Dans le cas de bagages enregistrés, il est responsable même s’il n’y a pas faute de sa part, sauf si les bagages étaient défectueux. Dans le cas de bagages non enregistrés, le transporteur n’est responsable que s’il y a faute de sa part.  
+Le transporteur aérien est responsable en cas de destruction, perte ou détérioration des bagages, à concurrence de 1,519 DTS. Dans le cas de bagages enregistrés, il est responsable même s’il n’y a pas faute de sa part, sauf si les bagages étaient défectueux. Dans le cas de bagages non enregistrés, le transporteur n’est responsable que s’il y a faute de sa part.  
 
 **Délais de réclamation pour le retard, la perte ou la détérioration des bagages**
 
@@ -937,7 +1043,7 @@ Le signalement d’un bagage endommagé/égaré à votre aéroport d’arrivée 
 
 **Limites plus élevées pour les bagages**
 
-Conformément à la Convention de Montréal (1999), notre garantie de responsabilité en cas de bagage perdu, endommagé ou retardé est plafonnée à 1 288 SDR (environ 1 600 €) par bagage.  Vous pouvez augmenter le plafond de notre garantie de responsabilité des bagages enregistrés au guichet des billets en remplissant une déclaration spéciale d’intérêt pour la livraison à destination avant d’enregistrer vos bagages et en payant des frais de 50 €/50 £ (ou l’équivalent dans votre devise locale), plus TVA pour les vols intérieurs. Les frais sont acquittables par passager et par trajet de vol aller simple. Ces frais relèvent notre plafond de garantie de responsabilité des bagages enregistrés à hauteur de 2 262 SDR (environ 2 600 €). 
+Conformément à la Convention de Montréal (1999), notre garantie de responsabilité en cas de bagage perdu, endommagé ou retardé est plafonnée à 1,519 SDR (environ 1 800 €) par bagage.  Vous pouvez augmenter le plafond de notre garantie de responsabilité des bagages enregistrés au guichet des billets en remplissant une déclaration spéciale d’intérêt pour la livraison à destination avant d’enregistrer vos bagages et en payant des frais de 50 €/50 £ (ou l’équivalent dans votre devise locale), plus TVA pour les vols intérieurs. Les frais sont acquittables par passager et par trajet de vol aller simple. Ces frais relèvent notre plafond de garantie de responsabilité des bagages enregistrés à hauteur de 2 262 SDR (environ 2 600 €). 
 
 **Responsabilité respective du transporteur avec lequel un contrat a été conclu et du transporteur effectif**
 
@@ -958,46 +1064,91 @@ DOCUMENTS DE VOYAGE
 
 Chaque passager a la responsabilité d’être en possession d’un document de voyage respectant nos exigences, celles de l’immigration et d’autres autorités.
 
-**VOL INTERNATIONAL - DOCUMENTS DE VOYAGE ACCEPTÉS :**
+**Pièce d’identité avec photo acceptée**
 
-* Passeport en cours de validité.
-* Carte nationale d’identité en cours de validité délivrée par le gouvernement d’un pays de l’Espace économique européen (EEE). (seuls les pays de l’Espace économique européen (EEE) suivants délivrent des Cartes nationales d’identité acceptées pour le transport sur nos vols: Autriche, Belgique, Bulgarie, Croatie, Chypre, République tchèque, Estonie, Finlande, France\*, Allemagne, Gibraltar, Grèce, Hongrie, Italie, Lettonie, Liechtenstein, Lituanie, Luxembourg, Pays-Bas, Malte, Pologne, Portugal, Roumanie, Slovaquie, Slovénie, Espagne, Suède, Suisse. \*La validité des cartes nationales d’identité françaises (délivrées aux adultes) a été étendue de 10 à 15 ans UNIQUEMENT pour les cartes délivrées entre le 2 janvier 2004 et le 31 décembre 2013.  
-      
-    
-* Tous les titulaires d’un passeport non européen qui se rendent dans un pays membre de l’espace Schengen doivent s’assurer que leur passeport est valable au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne dispose d’un permis de séjour ou d’un visa de long séjour délivré par un pays membre de l’espace Schengen.  
-      
-    Les titulaires d’un passeport britannique voyageant dans un pays membre de l’espace Schengen (hors Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport:
-* _est valable au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de Schengen, sauf si la personne dispose d’un permis de séjour ou d’un visa de long séjour délivré par un pays membre de l’espace Schengen._ 
-* _doit être émis dans les 10 années précédant la date d’arrivée.  
-    _
+* Un passeport signé en cours de validité (Remarque : tous les titulaires d’un passeport non européen qui se rendent dans un pays membre de l’espace Schengen\* doivent s’assurer que leur passeport est valable au moins trois mois à compter de la date de leur départ du pays membre de l’espace Schengen. Cette exigence ne s’applique pas aux titulaires d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen).
 
-            Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique en cliquant              sur le lien ci-dessous:
+* Pour les voyages en dehors de l’EEE (Espace économique européen), le passeport doit être valable pour la durée du séjour envisagé, à l’exception des pays ci-dessous :
 
-            **_https://www.gov.uk/guidance/passport-rules-for-travel-to-europe_**
+Pour se rendre en Jordanie, le passeport doit être valable au moins six mois après la date prévue du séjour (pour les titulaires d’un passeport italien, trois mois après la date prévue du séjour) ;
 
-_**À partir du 1er octobre 2021, les ressortissants de l’EEE/UE ou de la Suisse voyageant vers le Royaume-Uni doivent être en possession d’un passeport valide, car les cartes d’identité nationales émises par l’EEE/UE et la Suisse ne sont plus acceptables pour entrer au Royaume-Uni (sauf si vous possédez un statut de résident du Royaume-Uni).**_
+Pour se rendre en Turquie, le passeport doit être valable au moins 150 jours après la date d’arrivée ;
 
-* Carte-passeport irlandaise : la carte passeport irlandaise peut être utilisée par les citoyens irlandais pour voyager au sein de l’Union européenne et dans l’Espace économique européen.
-* Pour les voyages à destination du Maroc, seul un passeport en cours de validité est accepté. Le passeport doit être valide la durée du séjour prévu.  
-* Pour les voyages à destination d’Israël, les passeports doivent être valides pendant la durée prévue du séjour et les passagers doivent posséder un billet aller-retour ou un billet de correspondance.
+Pour se rendre au Monténégro, le passeport doit être valable au moins trois mois après la période de séjour prévue ;
 
-* Document de voyage « Kinderausweis » en cours de validité délivré par le gouvernement allemand.
-* Carte d’identité de la police nationale grecque en cours de validité.
-* « Certificato Di Nascita » italien avec photo en cours de validité (pour les enfants de moins de 16 ans) certifié « VALIDO PER L’ESPATRIO » pour les vols internationaux.
-* Titre de voyage en cours de validité tel que prévu par la Convention des Nations Unies relative au Statut des réfugiés (délivré par un gouvernement à la place d’un passeport valide, conformément à l’Article 28(1) de la Convention des Nations Unies de 1951).
-* Titre de voyage en cours de validité tel que prévu par la Convention (délivré par un État partie à la place d’un passeport valide, conformément à l’Article 27 de la Convention des Nations Unies relative au Statut des apatrides de 1954).
-* Passeport collectif en cours de validité délivré par un pays de l’UE/EEE.
-* Le passeport pour les voyages hors de l’Espace économique européen (EEE) doit être valide pendant la période de séjour prévue. Si un visa est nécessaire, les enfants/bébés doivent voyager avec l’adulte mentionné sur l’étiquette du visa.
+Pour se rendre en Bosnie-Herzégovine, le passeport doit être valable au moins trois mois après la période de séjour prévue ;
 
-**Exigences spécifiques relatives aux documents d’identité avec photo des mineurs pour les voyages internationaux dans l’UE/EEEL** Les mineurs de moins de 18 ans résidant en Espagne, non accompagnés de leurs parents/leur tuteur légal et voyageant avec une carte nationale d’identité en cours de validité, sur un vol entre pays de l’Espace économique européen (EEE) doivent détenir une autorisation de sortie du territoire (délivrée par la police locale) signée par leurs parents. Cette autorisation doit être présentée lors du contrôle des passeports.
+Pour se rendre en Égypte, le passeport doit être valable au moins six mois après la date d’arrivée ;
 
-À compter du 15 janvier 2017, les enfants et mineurs étrangers résidant en France et voyageant à l’étranger seuls ou non accompagnés d’un de leurs parents sur les vols Schengen et non Schengen doivent être munis d’une autorisation de sortie du territoire AST (AUTORISATION DE SORTIE DU TERRITOIRE (AST) D’UN MINEUR NON ACCOMPAGNÉ PAR UN TITULAIRE DE L’AUTORITÉ PARENTALE) dûment complété avec la documentation exigée dans le(AST). Les informations relatives à cette exigence peuvent être consultées en cliquant sur le lien suivant : https://www.service-public.fr/particuliers/vosdroits/F1359
+Pour se rendre en Albanie, le passeport doit être valable au moins trois mois après la date d’arrivée.
 
-Les mineurs italiens de moins de 14 ans en possession de la nouvelle carte d’identité « Carta d’identità » et voyageant avec un ou leurs deux parents peuvent emprunter les vols de la zone UE/espace Schengen sans documentation supplémentaire requise. S’ils voyagent en dehors de la zone UE/Espace Schengen, ils doivent être munis de leur certificat de naissance. S’ils voyagent seuls sans leurs parents avec la nouvelle carte d’identité, ils doivent également être en possession d’un « Affido ».
+* Les titulaires d’un passeport britannique se rendant dans un pays membre de l’espace Schengen\*/UE (à l’exclusion de l’Irlande) à partir du 1er janvier 2021 doivent s’assurer que leur passeport :
 
-Les mineurs italiens âgés de moins de 14 ans voyageant avec un de leurs parents OU tuteur doivent être munis d’un « Affido » signé par le parent qui ne voyage pas.  
+est valide pendant au moins trois mois à compter de la date à laquelle ils quitteront le pays membre de l’espace Schengen, à moins que la personne ne dispose d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen. 
+
+a été délivré au cours des dix dernières années à la date d’arrivée, sauf si la personne est titulaire d’un permis de séjour ou d’un visa de longue durée délivré par l’espace Schengen, auquel cas aucune condition spécifique de validité du passeport ne s’applique.
+
+* À partir du 1er octobre 2021, les ressortissants de l’EEE/UE ou de la Suisse qui se rendent au Royaume-Uni doivent être en possession d’un passeport valide, car les cartes d’identité nationales délivrées par l’EEE/UE et la Suisse ne sont plus acceptées pour entrer au Royaume-Uni (à moins que vous ne déteniez un statut de résident au Royaume-Uni). Pour plus d’informations, veuillez consulter le site Internet officiel du gouvernement britannique via le lien ci-dessous : https://www.gov.uk/guidance/passport-rules-for-travel-to-europe
+
+Ryanair demande à tous les passagers voyageant au Royaume-Uni d’avoir un passeport valide (c’est-à-dire en cours de validité) pour leurs dates d’arrivée et de départ au Royaume-Uni (les autorités britanniques n’exigent pas un minimum de trois mois de validité du passeport), donc tant que le passeport du passager est en cours de validité à la fois pour la date d’arrivée au Royaume-Uni et pour la date de départ ultérieure du Royaume-Uni, il sera accepté comme valide pour voyager sur les vols Ryanair au Royaume-Uni.
+
   
-Les citoyens portugais et les ressortissants étrangers résidant au Portugal âgés de moins de 18 ans, quittant ou rentrant sur le territoire portugais, vers ou à partir d’un pays n’appartenant pas à l’espace Schengen et qui ne sont accompagnés ni par leur père, ni leur mère ou leur tuteur légal ont besoin d’une autorisation de voyage. Celle-ci doit être signée par les deux parents ou le tuteur légal et être certifiée conforme si le père, la mère ou le tuteur légal réside au Portugal, ou être authentifiée par l’ambassade ou le consulat du Portugal du pays où résident les parents ou le tuteur légal. Cette autorisation est aussi obligatoire lorsque les mineurs sont accompagnés par une personne qui n’est ni leur père, ni leur mère ou leur tuteur légal. Le cas échéant, le nom de l’accompagnant doit être clairement précisé. L’entrée aux mineurs étrangers âgés de moins de 18 ans voyageant seuls peut leur être refusée si personne au Portugal n’est en mesure d’être responsable de leur séjour.
+**Autorisation électronique de voyage (ETA) au Royaume-Uni**
+
+  
+À compter du 2 avril 2025, les exigences de voyage au Royaume-Uni changent, notamment avec l’introduction de l’autorisation électronique de voyage (ETA), un document numérique qui vous autorise à voyager au Royaume-Uni. Si vous êtes ressortissant d’un pays qui n’a pas besoin de visa pour entrer au Royaume-Uni, notamment d’un pays membre de l’UE, et que vous vous rendez au Royaume-Uni pour un séjour ne dépassant pas six mois, vous aurez peut-être besoin d’une ETA. Si vous ne possédez pas de visa pour le Royaume-Uni ou si vous ne disposez pas d’un permis de séjour biométrique (BRP) ou d’une carte de résident biométrique (BRC), vous devrez peut-être obtenir une ETA. Les ressortissants britanniques et irlandais sont dispensés d’ETA. Veuillez vous assurer que vous remplissez les conditions d’entrée au Royaume-Uni, faute de quoi vous ne pourrez peut-être pas voyager.
+
+Pour plus de détails et pour demander votre ETA, veuillez vous rendre sur le site Internet officiel du gouvernement britannique.
+
+* Une carte d’identité nationale en cours de validité délivrée par le gouvernement d’un pays de l’UE ou de l’EEE, ou de la Suisse\*\*.
+
+Les pays suivants acceptent les cartes d’identité nationales délivrées par le gouvernement d’un pays de l’EEE :
+
+\-        Bosnie-Herzégovine, Serbie-et-Monténégro ;
+
+\-        Albanie, si la carte d’identité est délivrée par l’Allemagne, l’Autriche, la Belgique, la Bulgarie, Chypre, la Croatie, l’Espagne, l’Estonie, la Finlande, la France, la Grèce, la Hongrie, l’Irlande, l’Italie, Malte, la Lettonie, le Liechtenstein, la Lituanie, le Luxembourg, les Pays-Bas, la Pologne, le Portugal, la République tchèque, la Roumanie, Saint-Marin, la Slovaquie, la Slovénie et la Suède ;
+
+\-        Égypte, si la carte d’identité est délivrée par la Belgique, la France, l’Allemagne, l’Italie, le Portugal ;
+
+\-        Turquie, si la carte d’identité est délivrée par l’Allemagne, la Belgique, la Bulgarie, l’Espagne, la France, la Grèce, la Hongrie, l’Italie, le Liechtenstein, le Luxembourg, Malte, les Pays-Bas, la Pologne, le Portugal et la Suisse ;
+
+\-        Géorgie (à l’exception des cartes d’identité délivrées par le Danemark et la Norvège)
+
+* Un passeport irlandais (uniquement pour les citoyens irlandais voyageant dans l’UE, l’EEE, l’Albanie, la Bosnie, le Monténégro et le Royaume-Uni).
+
+* Une carte d’identité de la police nationale grecque en cours de validité (uniquement pour les voyages à l’intérieur de l’UE).
+
+* Un document de voyage de la convention des Nations unies sur les réfugiés en cours de validité (délivré par un gouvernement en vertu de l’article 28, paragraphe 1, de la convention des Nations unies de 1951, à la place d’un passeport en cours de validité).
+
+* Un document de voyage conventionnel en cours de validité (délivré en vertu de l’article 27 de la convention des Nations unies de 1954 relative aux apatrides, par un État contractant, en lieu et place d’un passeport en cours de validité).
+
+* Un passeport collectif en cours de validité délivré par un pays de l’UE/EEE.
+
+Le pays de destination peut également exiger un VISA en cours de validité en plus d’une pièce d’identité avec photo en cours de validité. Veuillez vous enregistrer auprès de l’ambassade ou du consulat local pour connaître les conditions d’obtention d’un VISA.
+
+**Nécessité d’une autorisation électronique de voyage en Israël (ETA-IL)**
+
+À compter de janvier 2025, les visiteurs des pays exemptés de visa doivent obtenir une autorisation électronique de voyage (ETA-IL) pour entrer en Israël. Une ETA-IL validée vous permet de voyager en Israël et d’y séjourner jusqu’à 90 jours par visite. La demande peut être soumise à tout moment avant le voyage, mais il est recommandé de le faire au moins 72 heures avant de réserver un billet d’avion, une chambre d’hôtel ou d’engager d’autres dépenses liées au voyage. L’ETA-IL est généralement valable pour plusieurs voyages sur une période qui peut aller jusqu’à deux ans à compter de sa date de validité ou jusqu’à l’expiration de votre passeport, selon la première éventualité. Si vous êtes ressortissant d’un pays éligible qui ne nécessite pas de visa B/2 pour Israël, vous devez remplir un formulaire ETA-IL.
+
+Pour plus de détails et pour faire une demande d’ETA-IL, veuillez vous rendre sur le site Internet officiel de l’autorité israélienne chargée de la population et de l’immigration.
+
+**Exigences particulières pour les mineurs de moins de 18 ans**
+
+Tout enfant figurant sur le passeport d’un parent doit avoir son propre visa (si nécessaire) et doit voyager avec l’adulte dont le nom figure sur le visa.
+
+Les services d’immigration de certains pays peuvent exiger des documents supplémentaires pour les enfants âgés de moins de 18 ans qui voyagent à l’étranger et ne sont pas accompagnés. Veuillez vous enregistrer auprès du consulat ou de l’ambassade du pays qu’ils prévoient de visiter et/ou via le IATA Travel Centre, les exigences et les documents supplémentaires dont les mineurs peuvent avoir besoin.
+
+Voici quelques exemples non exhaustifs de documents acceptés :
+
+·       Un « _Kinderreisepass »_ valide : document de voyage délivré aux enfants de moins de 16 ans par le gouvernement allemand.
+
+·       Les résidents français de moins de 18 ans qui voyagent sans parent ou tuteur doivent présenter une AST (_Autorisation de sortie du territoire_) dûment remplie, ainsi que les documents spécifiés dans l’AST.
+
+·       Les citoyens italiens de moins de 14 ans voyageant avec la nouvelle carte d’identité « _Carta d’identità_ » et avec un ou les deux parents peuvent voyager sur les vols de l’UE et de l’espace Schengen\* sans autre document si le nom du parent ou du tuteur est mentionné sur la carte d’identité. Dans le cas contraire, le parent ou le tuteur légal doit être muni de l’acte de naissance ou du certificat de situation familiale de l’enfant. Si l’enfant de moins de 14 ans voyage avec la nouvelle carte d’identité, avec une personne qui n’est pas son parent ou son tuteur légal, il doit avoir une « _dichiarazione di accompagnamento »_ signée par les deux parents ou le tuteur légal et tamponnée par l’autorité de délivrance des passeports.
+
+·       Les résidents portugais de moins de 18 ans qui voyagent entre le Portugal et un État non membre de l’espace Schengen\*, et qui ne sont pas accompagnés d’un parent ou d’un tuteur légal, ont besoin d’une autorisation de voyage. Celle-ci doit être signée par les deux parents ou le tuteur légal. Si les parents ou le tuteur légal vivent au Portugal, les signatures (ou la signature) doivent être notariées (signées par une personne qui a la responsabilité parentale légalement certifiée et qui confirme que les signatures sont authentiques). Si les parents ou le tuteur légal ne vivent pas au Portugal, les signatures (ou la signature) doivent être confirmées comme authentiques par une ambassade ou un consulat portugais dans le pays où ils vivent. Cette autorisation de voyage est également nécessaire lorsque les mineurs sont accompagnés par une personne qui n’est pas un parent ou un tuteur légal. Dans ce cas, l’autorisation de voyage doit également indiquer clairement le nom de la personne. Les mineurs étrangers de moins de 18 ans voyageant seuls peuvent se voir refuser l’entrée s’ils n’ont personne au Portugal qui prenne en charge leur séjour.
+
+·       Les enfants de moins de 18 ans résidant en Espagne et voyageant sans leurs parents ou tuteurs légaux doivent être munis d’un formulaire d’autorisation écrite de leurs parents (à retirer au commissariat de police local ou auprès d’une autre autorité espagnole désignée). Ce formulaire devra être présenté au contrôle des passeports. Dans le cas des mineurs étrangers résidant en Espagne, leurs représentants légaux doivent remplir les documents appropriés conformément à leur législation nationale auprès des autorités consulaires compétentes.
 
 **VOLS INTERIEUR- DOCUMENTS DE VOYAGE ACCEPTÉS**  
 
@@ -1009,8 +1160,8 @@ Les citoyens portugais et les ressortissants étrangers résidant au Portugal â
 | **ITALIE** | **\> 15 ans :**   <br>  <br>Passeport en cours de validité  <br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous  <br>Tout permis de conduire en cours de validité avec photo  <br>Permis nautique  <br>Carte/livret de retraite  <br>Permis d’installation de chauffage  <br>Permis de port d’arme  <br>Carte/badge d’identité avec photo, émis et tamponné par l’administration.  <br>Cartes d’identification délivrées aux fonctionnaires et aux soldats de l’armée.                                                    Carte AT/BT. | **Ressortissants italiens :**<br><br>< 15 ans : certificat de naissance ou de citoyenneté avec photo validé par la police.  <br>Passeport en cours de validité.  <br>Carte nationale d’identité en cours de validité. \*voir les pays d’émission ci-dessous  <br>  <br>**Ressortissants de l’UE et de l’espace Schengen :**<br><br>Passeport en cours de validité.  <br>Carte nationale d’identité en cours de validité. \*voir les pays d’émission ci-dessous |
 | **ESPAGNE** | **Ressortissant espagnols > 14 ans :**   <br>Passeport (en cours de validité ou périmé)  <br>Carte nationale d’identité (en cours de validité ou périmée)  <br>Permis de conduire espagnol en cours de validité<br><br>  <br>**Ressortissants de l’UE et de l’espace Schengen (et Andorre) :  <br>**Passeport (en cours de validité ou périmé)  <br>Carte nationale d’identité (en cours de validité ou périmée)  <br>Permis de résidence espagnol en cours de validité.  <br>Permis de résidence en cours de validité émis par un pays membre de l’espace Schengen  <br>Permis de conduire émis par l’Espagne en cours de validité<br><br>  <br>**Ressortissants d’un pays tiers** :  <br>Passeport ou document de voyage en cours de validité.  <br>Permis de résidence espagnol en cours de validité.  <br>Permis de résidence en cours de validité émis par un pays membre de l’espace Schengen  <br>Permis de conduire émis par l’Espagne en cours de validité. | **Ressortissant espagnols < 14 ans :**<br><br>Aucune pièce d’identité avec photo n’est requise (les adultes voyageant avec l’enfant sont responsables)<br><br>**Vols intérieurs – Enfants espagnols de 16 à 18 ans voyageant seuls :** <br><br>Passeport ou carte d’identité nationale en cours de validité\*voir les pays d’émission ci-dessous<br><br>**Ressortissants de l’UE et de l’espace Schengen (et Andorre) :**  <br>Passeport (en cours de validité ou périmé)  <br>Carte nationale d’identité (en cours de validité ou périmée) \*voir les pays d’émission ci-dessous  <br>Permis de résidence espagnol en cours de validité.  <br>Permis de résidence en cours de validité émis par un pays membre de l’espace Schengen.<br><br>**Ressortissants d’un pays tiers** :  <br>Passeport ou document de voyage en cours de validité.  <br>Permis de résidence espagnol en cours de validité.  <br>Permis de résidence en cours de validité émis par un pays membre de l’espace Schengen. |
 | **Royaume-Uni** | Toute pièce d’identité avec photo correspondant au nom du passager dans la réservation. | Les enfants de moins de 16 ans (voyageant avec un adulte) sur des vols intérieur au Royaume-Uni peuvent voyager sans pièce d’identité avec photo. |
-| **POLOGNE** | Passeport en cours de validité<br><br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous<br><br>Tout permis de conduire en cours de validité avec photo | Passeport en cours de validité  <br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous<br><br>Document d’identification scolaire |
-| **PORTUGAL** | Passeport en cours de validité<br><br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous  <br>Tout permis de conduire en cours de validité avec photo | Passeport en cours de validité  <br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous |
+| **POLOGNE** | Passeport en cours de validité<br><br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous<br><br>Tout permis de conduire en cours de validité avec photo<br><br>Identifiant numérique polonais valide - mDowod (dans l’application mObywatel) | Passeport en cours de validité  <br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous<br><br>Document d’identification scolaire<br><br>Identifiant numérique polonais valide - mDowod (dans l’application mObywatel) - âgé de 13 ans ou plus |
+| **PORTUGAL** | Passeport en cours de validité<br><br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous<br><br>Carte d’identité numérique portugaise valide<br><br>Tout permis de conduire en cours de validité avec photo | Passeport en cours de validité  <br>Carte nationale d’identité en cours de validité\*voir les pays d’émission ci-dessous |
 | **ALLEMAGNE** | Toute pièce d’identité avec photo correspondant au nom du passager dans la réservation. | Toute pièce d’identité avec photo correspondant au nom du passager dans la réservation. |
 | IRLANDE | Passeport en cours de validité<br><br>Carte nationale d’identité en cours de validité<br><br>Toute pièce d’identité avec photo | Les enfants de moins de 18 ans<br><br>Certificat de naissance ou de citoyenneté<br><br>Toute pièce d’identité avec photo |
 
@@ -1034,7 +1185,7 @@ Les détails complets de nos frais applicables sont indiqués dans notre tableau
 
 La mise en commun ou le partage d’allocations de Bagages enregistrés achetées au préalable sont autorisés avec d’autres personnes inscrites sur la même réservation de vol lorsque les passagers s’enregistrent ensemble.  
 
-Tout passager dépassant sa propre autorisation de bagage devra s’acquitter de frais d’excédent de bagages au taux applicable au jour du voyage. Le taux applicable à ce jour est de 11 £/11 € par kilogramme (ou monnaie locale équivalente).  
+Tout passager dépassant sa propre autorisation de bagage devra s’acquitter de frais d’excédent de bagages au taux applicable au jour du voyage. Le taux applicable à ce jour est de 12 £/12 € par kilogramme (ou monnaie locale équivalente).  
 
 Dans les aéroports disposant de bornes en libre service, vous devez payer les frais de bagages enregistrés et/ou les frais d’excédent de bagages et déposer vos Bagages enregistrés à un comptoir de dépôt des bagages au plus tard 40 minutes avant l’heure de départ prévue.  
 
@@ -1084,15 +1235,15 @@ Tous les passagers ont le droit d’apporter à bord un petit sac personnel qui 
 
 Les passagers bénéficiant de Priorité et 2 bagages en cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019) ou un billet avec vol en correspondance peuvent apporter 1 petit sac personnel qui doit pouvoir se ranger sous le siège devant eux (40 cm x 20 cm x 25 cm). Les clients prioritaires peuvent également apporter un bagage supplémentaire de 10 kg à bord qui doit tenir dans le gabarit de bagages (il ne doit pas dépasser 10 kg et 55 cm x 40 cm x 20 cm) et sera rangé dans le compartiment au-dessus de leur tête.
 
-Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
+Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 45 minutes avant le départ prévu du vol sur notre application.
 
 Le transport de liquides, d'aérosols et de gels dans la zone de sécurité restreinte d'un aéroport et des aéronefs à bord est contrôlé conformément aux exigences de sécurité en vigueur dans l'UE.   
 
 Un bagage enregistré de 10 kg coûte entre 12.99 €/£ et 35.99 €/£ en fonction de l’itinéraire et des dates de voyage sélectionnés. Il peut être ajouté au moment de la réservation ou sur Mes réservations, sur notre site Web et notre application (jusqu’à 40 minutes avant l’heure de départ du vol prévue).
 
-Les passagers non prioritaires qui n’ont pas ajouté de bagage à leur réservation peuvent toujours acheter une option Bagage enregistré de 10 kg au comptoir de dépôt des bagages pour €/£45.99 ou à la porte d’embarquement pour €/£45.99. Vous pouvez alors récupérer ce bagage dans la zone de retrait des bagages à l’aéroport de votre destination. (N.B : N’oubliez pas de prendre votre passeport si vous devez passer par le contrôle des passeports à l’aéroport de votre destination.)  
+Les passagers non prioritaires qui n’ont pas ajouté de bagage à leur réservation peuvent toujours acheter une option Bagage enregistré de 10 kg au comptoir de dépôt des bagages pour €/£46.00 - €/£ 60.00 ou à la porte d’embarquement pour €/£35.99 - €/£ 60.00. Vous pouvez alors récupérer ce bagage dans la zone de retrait des bagages à l’aéroport de votre destination. (N.B : N’oubliez pas de prendre votre passeport si vous devez passer par le contrôle des passeports à l’aéroport de votre destination.)  
 
-Les bagages à main trop volumineux seront refusés à la porte d’embarquement, ou ailleurs, et placés dans la soute pour un supplément de €/£69.99 (soumis à la TVA sur les vols intérieurs au taux applicable du pays). Assurez-vous de retirer tous les objets de valeur de vos bagages à la porte d’embarquement si ces derniers doivent être placés dans la soute de l’appareil. Si vous n’êtes pas sûrs, vérifiez au comptoir de dépôt des bagages avant de passer le contrôle de sécurité.  
+Les bagages à main trop volumineux seront refusés à la porte d’embarquement, ou ailleurs, et placés dans la soute pour un supplément de €/£70.00 - €/£ 75.00 (soumis à la TVA sur les vols intérieurs au taux applicable du pays). Assurez-vous de retirer tous les objets de valeur de vos bagages à la porte d’embarquement si ces derniers doivent être placés dans la soute de l’appareil. Si vous n’êtes pas sûrs, vérifiez au comptoir de dépôt des bagages avant de passer le contrôle de sécurité.  
 
 Les bébés (âgés de 8 jours à 23 mois) ne bénéficient pas de franchise de bagage à main s’ils voyagent sur les genoux d’un adulte. Cependant, un sac à langer\* pesant jusqu’à 5 kg peut être transporté par l’adulte l’accompagnant en plus de sa propre franchise de bagage à main lorsqu’un bébé (âgé de 8 jours à 23 mois) voyage sur ses genoux.  
 
@@ -1103,7 +1254,7 @@ ENFANTS, NOURRISSONS ET MINEURS NON ACCOMPAGNÉS
 
 **Mineurs non accompagnés**
 
-Nous n’assurons pas le transport des mineurs non accompagnés de moins de 16 ans. Les enfants de moins de 16 ans doivent toujours être accompagnés par un passager de plus de 16 ans. Un accompagnement et des services particuliers ne sont pas disponibles.  
+Nous n’assurons pas le transport des mineurs non accompagnés de moins de 16 ans. Les enfants de moins de 16 ans doivent toujours être accompagnés par un passager de plus de 18 ans. Un accompagnement et des services particuliers ne sont pas disponibles.  
 
 **Transport de bébés**   
 
@@ -1121,11 +1272,11 @@ Les mineurs de moins de 18 ans résidant en Espagne, non accompagnés de leurs p
 
 Pour tout adulte voyageant avec un enfant de moins de 12 ans (bébés exclus), l’achat d’un siège attribué par l’un des adultes présents sur la réservation est obligatoire pour que l’enfant ait droit à un siège attribué gratuit. Un maximum de quatre enfants par adulte présent sur la réservation aura droit à un siège attribué gratuit. Bien qu’ils en aient la possibilité, il ne sera pas obligatoire que l’un des autres adultes ou adolescents présents sur la réservation réserve un siège.  
 
-Les adultes dans l’obligation d’acheter un siège attribué bénéficieront d’un tarif préférentiel de €4. Ces sièges standards au tarif de €4 peuvent être sélectionnés dans les rangées 18 à 33. Les sièges des rangées 18 à 33 seront gratuits pour les enfants.  
+Les adultes dans l’obligation d’acheter un siège attribué bénéficieront d’un tarif préférentiel de €6. Ces sièges standards au tarif de €6 peuvent être sélectionnés dans les rangées 18 à 33. Les sièges des rangées 18 à 33 seront gratuits pour les enfants.  
 
 Si un adulte dans l’obligation d’acheter un siège attribué sélectionne un siège dans une autre rangée, il devra s’acquitter de la différence de prix. Les enfants devront s’acquitter du plein tarif pour ces sièges.  
 
-Si les sièges standards au tarif de €4 des rangées 18 à 33 sont indisponibles à cause d’une demande accrue, les adultes dans l’obligation d’acheter un siège attribué peuvent sélectionner un autre siège attribué et s’acquitter de la différence de prix. Ils ont également la possibilité de changer la date de leur voyage. Les sièges attribués gratuits destinés aux enfants seront dans les rangées 11 à 15.   
+Si les sièges standards au tarif de €6 des rangées 18 à 33 sont indisponibles à cause d’une demande accrue, les adultes dans l’obligation d’acheter un siège attribué peuvent sélectionner un autre siège attribué et s’acquitter de la différence de prix. Ils ont également la possibilité de changer la date de leur voyage. Les sièges attribués gratuits destinés aux enfants seront dans les rangées 11 à 15.   
 
 Si aucun siège côte à côte n’est disponible, un vol différent peut être sélectionné.   
 
@@ -1136,18 +1287,16 @@ REGULAR, PLUS, FAMILY PLUS & FLEXI PLUS
 
 **Tarifs Regular**
 
-À compter du 11 décembre 2019, les tarifs Regular seront disponibles sur tous les vols et devront être appliqués à tous les passagers et vols de votre réservation. 
-
 Les tarifs Regular sont uniquement disponibles pour les réservations en ligne et ne peuvent pas être achetés par le biais de centres d’appel/à l’aéroport. Il est en outre impossible d’effectuer un surclassement Plus ou Flexi Plus à une date ultérieure.
 
-Tous les tarifs Regular sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales s’applique.
+Tous les tarifs Regular sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
 
 Les services suivants sont inclus dans les tarifs Regular :
 
 * Un siège standard réservé
-* Priorité et 2 bagages en cabine
+* Priorité et 2 bagages cabine
 
-Les tarifs Regular ne peuvent pas être réservés avec la réduction Erasmus. 
+Les tarifs Regular ne peuvent pas être réservés avec la réduction Erasmus.
 
 **Tarifs Plus** 
 
@@ -1171,10 +1320,6 @@ Les tarifs Plus ne seront pas disponibles pour les réservations comprenant des 
 **Family Plus**
 
 Les tarifs Family Plus sont disponibles sur tous les vols pour les réservations de six passagers maximum avec au moins un enfant ou adolescent.
-
-Vous pouvez obtenir un surclassement en Family Plus après avoir effectué votre réservation jusqu’à deux heures avant l’heure de départ prévue.
-
-Les tarifs Family Plus sont disponibles après avoir effectué votre réservation uniquement si vous n’avez pas encore acheté au moins deux produits du forfait.
 
 Tous les tarifs Family Plus sont non remboursables, à l’exception des cas pour lesquels l’une des clauses 4.2, 10.2, 10.3 ou 10.4 de nos conditions générales de transport s’applique.
 
@@ -1207,32 +1352,21 @@ Londres Stansted, Bruxelles Charleroi, Milan Bergame, Barcelone, Malaga, Birming
 
 **Tarif Flexi Plus –** 
 
-Modification du vol ou de l’itinéraire réservé le jour du voyage  
+Modification du vol ou de l’itinéraire réservé
 
-Avec un tarif Flexi Plus, vous pouvez changer votre vol réservé le jour du voyage, sans frais, et choisir à la place un vol sur le même itinéraire que votre vol initial (s’il reste un siège disponible). Si vous changez votre vol réservé le jour du voyage et choisissez à la place un vol sur un itinéraire différent, vous n’aurez pas à payer de frais de changement de vol. Toutefois, vous devrez payer toute différence de tarif. Si vous changez pour un vol ultérieur, vous pouvez le faire jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification:  
-  
+Avec un tarif Flexi Plus, vous pouvez modifier votre vol réservé avant ou le jour du voyage, sans payer les frais de changement de vol, pour un vol sur le même itinéraire ou sur un itinéraire différent de votre vol initial (si un siège est disponible), mais vous devez payer la différence de tarif. Si vous changez pour un vol ultérieur, vous pouvez effectuer la modification jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification :  
+ 
 
-* jusqu’à 40 minutes avant le nouveau vol si vous effectuez le changement au comptoir de l’aéroport ; ou  
-    
-* jusqu’à une heure avant le nouveau vol si vous effectuez le changement via un centre de contact.  
-    
-
-Modification du vol ou de l’itinéraire réservé avant le jour du voyage  
-
-Si vous changez pour un vol partant un jour ou plus avant ou après le vol initial, vous n’aurez pas à payer de frais de changement de vol, mais devrez payer la différence de tarif.  Vous pouvez effectuer la modification jusqu’à une heure avant l’heure de départ du vol initial. Si vous changez pour un vol antérieur, vous pouvez effectuer la modification :
-
-* jusqu’à 40 minutes avant le nouveau vol si vous effectuez le changement au comptoir de l’aéroport ; ou  
-    
-* jusqu’à une heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
+* jusqu’à 1 heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
+* Jusqu’à 2,5 heures avant le vol initial ou le nouveau vol si vous effectuez des modifications en ligne. 
 
 Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. Avec un billet Flexi Plus, vous pouvez effectuer l’enregistrement à l’aéroport gratuitement.
 
 Vous pouvez modifier l’itinéraire de tous les vols d’une réservation en ligne dans la section « Mes réservations ». Toutefois, une fois que vous avez effectué le vol aller, vous ne pourrez modifier l’itinéraire du vol retour qu’au comptoir d’un aéroport ou par l’intermédiaire d’un centre d’appels. Vous ne pouvez modifier l’itinéraire que si le pays de départ et le pays de destination sont les mêmes.
 
-Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont transférés sur le nouveau vol (si ces services sont disponibles pour ce vol). Si un service ne peut pas être transféré, vous n’obtiendrez le remboursement d’aucune partie du tarif Flexi Plus.    
- 
+Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont transférés sur le nouveau vol (si ces services sont disponibles pour ce vol). Si un service ne peut pas être transféré, vous n’obtiendrez le remboursement d’aucune partie du tarif Flexi Plus.
 
-**Flexi Plus** – Changements de nom
+Flexi Plus – Changements de nom
 
 Le règlement 13 s’applique toujours aux changements de nom et vous devrez payer les frais appropriés.
 
@@ -1267,9 +1401,9 @@ Les passagers nécessitant les types d’assistance répertoriés ci-dessous doi
 
 **Type d’assistance (WCHS)** Passager nécessitant une assistance dans l’aéroport (départ et arrivée), ainsi que pour monter/descendre la passerelle d’embarquement.  
 
-**Passagers déficients intellectuels**  
+**Passager présentant un handicap cognitif ou non visible nécessitant une assistance.**
 
-**Type d’assistance (DPNA)** Passager déficient intellectuel autonome, capable de comprendre et de répondre aux consignes de sécurité, nécessitant une assistance dans l’aéroport (départ et arrivée) jusqu’à la porte d’embarquement.  
+**Type d’assistance (DPNA)** Les passagers qui réservent avec le code de type d’assistance DPNA doivent contacter notre équipe d’assistance spéciale et lui préciser le type et le niveau d’assistance requis.
 
 **Passagers non-voyants/malvoyants nécessitant une assistance**  
 
@@ -1324,7 +1458,7 @@ INSTRUCTIONS RELATIVES À L’AUTONOMIE DES PASSAGERS AÉRIENS :
 
 L’information qui suit concernant l’autonomie des passagers aériens est énoncée dans le Code de pratique du Ministère des Transports britannique – Accès aux voyages en avion pour les personnes à mobilité réduite (juillet 2008) et dans les Directives de la Commission européenne sur l’application du règlement CE 1107/2006 (2012).   
 
-Chaque passager doit être autonome s’agissant de **l’ensemble** des points suivants. Dans le cas contraire, le passager est tenu de voyager en compagnie d’un adulte en bonne santé, âgé d’au moins 16 ans et apte à fournir l’assistance nécessaire. Sinon, le passager se verra refuser l’embarquement.  
+Chaque passager doit être autonome s’agissant de **l’ensemble** des points suivants. Dans le cas contraire, le passager est tenu de voyager en compagnie d’un adulte en bonne santé, âgé d’au moins 18 ans et apte à fournir l’assistance nécessaire. Sinon, le passager se verra refuser l’embarquement.  
 
 * Les passagers doivent être en mesure d’attacher et de détacher leur ceinture quand l’équipage le leur demande ; 
 
@@ -1353,7 +1487,7 @@ PASSAGERS NON-VOYANTS OU MALVOYANTS
 
 =====================================
 
-Les passagers non-voyants ou malvoyants non autonomes (conformément aux instructions ci-dessus), doivent voyager avec un accompagnateur adulte valide âgé d’au moins 16 ans
+Les passagers non-voyants ou malvoyants non autonomes (conformément aux instructions ci-dessus), doivent voyager avec un accompagnateur adulte valide âgé d’au moins 18 ans.
 
 TRANSPORT DES CHIENS GUIDE/D’ASSISTANCE
 
@@ -1501,16 +1635,24 @@ MODIFICATION DE LA DATE, DE L’HEURE ET DE L’ITINÉRAIRE D’UN VOL
 
 Les dates et horaires des vols peuvent être modifiés (en fonction des disponibilités des sièges). Ces modifications peuvent être apportées jusqu’à 2 h 30 avant l’horaire de départ du vol prévu, soit en ligne soit via notre  centre de réservation (aux heures d’ouverture). Des remises s’appliquent lors des réservations en ligne. Si vous ne souhaitez pas appliquer la modification à l’ensemble des passagers de votre réservation, ou si souhaitez remplacer votre vol intérieur par un vol international, vous devez contacter votre centre de réservation local (soumis à horaires d’ouverture).
 
+Vous avez la possibilité de voler vers ou depuis des aéroports différents de vos itinéraires initiaux sur votre réservation, à condition que les aéroports de départ et/ou d’arrivée soient situés dans les deux mêmes pays.
+
+Voir un exemple ci-dessous :
+
+* Vols originaux - Dublin -> Stansted / Stansted -> Dublin
+* Changement pour –  Dublin -> Stansted / Manchester -> Dublin
+
 Vous ne pouvez pas modifier un vol intérieur pour un vol international ou vice versa en raison de problèmes liés à la TVA.
 
 Les frais de modification de vol s’appliquent pour chaque vol/passager et varient en fonction des saisons. Pour plus d’informations, consultez notre Tableau récapitulatif des frais. En plus des frais de modification de vol, vous devrez vous acquitter de toute différence entre le tarif initial et les frais de services facultatifs (par ex. bagages en soute) payés au moment de la réservation et les tarifs/frais disponibles lors de la modification. Si le tarif/les frais du nouveau vol sont inférieurs, nous ne rembourserons pas la différence.
 
-* Les vols ayant été réservés avec une réduction pour les résidents espagnols ou les familles nombreuses espagnoles ne peuvent pas être modifiés en ligne. Lorsqu’une remise de famille nombreuse espagnole a été appliquée
-* Si vous souhaitez modifier l’un de ces types de réservation, veuillez appeler notre  centre de contact ou utiliser notre formulaire de contact ou service de chat en ligne  
-    
-* Si vous souhaitez modifier un vol intérieur pour un autre vol intérieur dans le même pays que le vol d’origine.  
-      
-    Pour effectuer les modifications ci-dessus, veuillez contacter notre centre de réservation.
+Il n’est pas possible d’effectuer une modification sur notre site Internet dans les cas suivants :
+
+* Si une réduction de résident espagnol a été appliquée
+* Si une réduction espagnole pour famille nombreuse a été appliquée
+* Si vous souhaitez remplacer un vol intérieur par un autre vol intérieur dans le même pays que le vol d’origine
+
+Pour effectuer les modifications ci-dessus, veuillez contacter notre centre de réservation.
 
 **Changement de nom**
 
@@ -1529,7 +1671,7 @@ EMBARQUEMENT PRIORITAIRE
 
 **EMBARQUEMENT PRIORITAIRE** 
 
-Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
+Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 36 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 40 minutes avant le départ prévu du vol sur notre application.
 
 Les passagers qui ont acheté l'embarquement prioritaire ne seront pas invités à placer leur sac de cabine dans la soute de l'avion, sauf si nécessaire pour des raisons opérationnelles  
 
@@ -1610,57 +1752,57 @@ Sieges avec plus d’espace pour les jambes
 
 Rangée 1, 2 (D,E,F) & 16-17
 
-€/£13-€/£30
+€/£11-€/£33
 
 (par vol)
 
-€/£13-€/£30
+€/£11-€/£33
 
 (par vol)
 
-Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
 
 Sièges à l’avant
 
 Rangée 2 (A,B,C) - 5
 
-€ / £ 6-€/£19
+€ / £ 7-€/£21
 
 (par vol)
 
-€ / £ 6-€/£19
+€ / £ 7-€/£21
 
 (par vol)
 
-Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
 
 Sièges standard
 
 Rangée 6-15 & 18-33
 
-€ / £ 2-€/£15
+€ / £ 4.50-€/£15.50
 
 (par vol)
 
-€ / £ 2-€/£15
+€ / £ 4.50-€/£15.50
 
 (par vol)
 
-Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion.
 
 Sieges Familiaux Obligatoires
 
 Frais de
 
-€/£4 - €/£6
+€/£6 - €/£10
 
 (par vol)
 
-€/£4 - €/£6
+€/£6 - €/£10
 
 (par vol)
 
-Au moins un adulte voyageant avec des enfants de moins de 12 ans (à l'exception des bébés) doit acheter un siège réservé et s'asseoir à côté d'eux. Jusqu'à 4 enfants (moins de 12 ans) voyageant avec un adulte obtiendront des sièges réservés gratuits (sièges dans les rangées 18 à 33).
+Au moins un adulte voyageant avec des enfants de moins de 12 ans (à l'exception des bébés) doit acheter un siège réservé et s'asseoir à côté d'eux. Jusqu'à 4 enfants (moins de 12 ans) voyageant avec un adulte obtiendront des sièges réservés gratuits (sièges dans les rangées 18 à 33). La numérotation des rangées et le plan des sièges peuvent varier en fonction du type d’avion. Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
 
 Frais de réémission de carte d’embarquement
 
@@ -1696,17 +1838,17 @@ Prix par article/par trajet simple, aller ou retour. Deux articles d’équipeme
 
 Instrument de musique
 
-€/£50
+€/£60
 
-€/£65
+€/£75
 
 Prix par instrument/par trajet simple (aller ou retour) – max. 20kg.
 
 Équipements Volumineux
 
-€/£55
+€/£60
 
-€/£65
+€/£70
 
 Max. 20kg. Prix par équipement/par trajet simple (aller ou retour).
 
@@ -1720,9 +1862,9 @@ Max. 30kg. Prix par vélo/par trajet simple (aller ou retour).
 
 Équipement sportif
 
-€/£35
-
 €/£40
+
+€/£45
 
 Prix par article/par trajet simple (aller ou retour). Max. 20kg par article.
 
@@ -1736,9 +1878,9 @@ Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
 
 Équipements De Golf
 
-€/£30
+€/£40
 
-€/£35
+€/£50
 
 Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
 
@@ -1786,6 +1928,12 @@ n/a
 
 Disponible uniquement 40 minutes avant et jusqu’à 1 heure après le départ du vol. Disponible pour les passagers qui arrivent à la billetterie jusqu’à une heure après le départ de leur vol, afin de transférer sur le prochain vol disponible. Frais facturés par passager et par secteur.
 
+Frais de Vérification Express
+
+n/a
+
+€/£0.59
+
 ### Frais de bagages enregistrés
 
 ### Bagages
@@ -1806,25 +1954,27 @@ Priorité & 2 bagages de cabine
 
 Prix entre
 
-€/£6 - €/£30
+€/£6 - €/£36
 
-€/£6 - €/£35.99
+€/£20 - €/£60
+
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés.
 
 Bagages enregistrés – 10 kg
 
 Prix entre
 
-€/£12.00- €/£25.00
+€/£9.49 - €/£44.99
 
-€/£23.99 - €/£35.99
+€/£23.99 - €/£44.99
 
-Les clients non prioritaires qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage en soute de 10 kg au comptoir de dépôt des bagages de l'aéroport pour 35,99 € / £. Les clients non prioritaires qui apportent leur sac de 10 kg à la porte d'embarquement peuvent s'enregistrer pour 45.99 € / £.
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. Les clients non prioritaires qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage en soute de 10 kg au comptoir de dépôt des bagages de l'aéroport pour 35,99 € / £ - €/£40. Les clients non prioritaires qui apportent leur sac de 10 kg à la porte d'embarquement peuvent s'enregistrer pour 46.00 € / £ - €/£ 60.00.
 
 Bagages enregistrés – 20 kg
 
 Tarif min./max. par article et par vol si achat en ligne
 
-€/£17.99 - €/£50.00
+€/£18.99 - €/£59.99
 
 (par vol)
 
@@ -1832,7 +1982,7 @@ Tarif min./max. par article et par vol si achat en ligne
 
 (par vol)
 
-Les passagers qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage de 20 kg au comptoir de dépôt des bagages de l'aéroport pour 69,99 € / £.
+Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. Les passagers qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage de 20 kg au comptoir de dépôt des bagages de l'aéroport pour 59.99 € / £. Les clients qui emportent un bagage trop volumineux (plus de 55 x 40 x 20 cm) à la porte d’embarquement peuvent l’enregistrer moyennant le paiement de frais de 70,00 £/€ à 75,00 £/€.
 
 Frais d’excédent de bagage
 
@@ -1840,9 +1990,9 @@ Par kilo
 
 n/a
 
-€/£9 - €/£11
+€/£13
 
-L’excédent de bagages peut être acheté en ligne jusqu’à 2 heures avant le départ pour 9 €/£ par kilo supplémentaire. Le prix à l’aéroport/via le centre d’appel/au kiosque est de 11 €/£ par kilo supplémentaire.      
+Le prix à l’aéroport/via le centre d’appel/au kiosque est de 12 €/£ par kilo supplémentaire.      
 
 Frais de déclaration spéciale de bagages de valeur
 
