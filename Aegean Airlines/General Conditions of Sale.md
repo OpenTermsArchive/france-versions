@@ -368,18 +368,18 @@ Dans la mesure où ce qui suit ne fait pas échec à ce qui précède:
 
 ### 11\. LIVRAISON DE BAGAGES
 
-Si vous ne retrouvez pas votre Bagage à votre arrivée, vous devez signaler immédiatement ce fait au personnel au sol d'AEGEAN. Notre personnel ouvrira un dossier et vous fournira un numéro de référence. Pour de plus amples informations, veuillez contacter le service central des objets trouvés au + 30 210 3550300. Si votre Bagage n’est pas localisé 45 jours après votre demande, la procédure de remboursement sera mise en œuvre. Veuillez suivre la même procédure, si votre Bagage est endommagé.  
+Dans le cas où vous ne parviendriez pas à localiser vos bagages à l'arrivée, vous devez immédiatement le signaler au service des objets trouvés d'AEGEAN ou au service des objets trouvés pertinent de tout aéroport à l'étranger. Le personnel concerné créera un dossier vous concernant et vous donnera un numéro de dossier. Vous pouvez contacter le siège des objets trouvés à l'aéroport d'Athènes (tél. : + 30 210 3530546) pour plus de détails. Si vos bagages ne sont pas retrouvés dans les 45 jours suivant votre demande, la procédure de remboursement sera amorcée. Si vos bagages sont endommagés, vous devrez suivre la même procédure. Si les bagages ne sont pas recherchés ou réclamés par le passager ou s'il n'y a pas de coordonnées pour les bagages, après six mois, les bagages seront déclarés sous la direction d'Aegean Airlines.  
  
 
 ### 12 TAXES, DROITS, COUTS ET REDEVANCES IMPOSÉS PAR UN GOUVERNEMENT OU UN AÉROPORT
 
-Le prix de tout billet peut inclure des taxes, des droits, des coûts et des redevances, imposés sur le Transport aérien ou liés au Transport aérien par les États ou les autorités aéroportuaires. Ces taxes, coûts et redevances, qui peuvent représenter une partie significative du coût du Transport aérien, sont indiqués séparément du prix définitif à payer, juste avant la conclusion de l’acte d’achat, ainsi que dans la (les) case(s) « TAXES » du Billet.  
+Le prix de tout billet peut inclure des taxes, des droits, des coûts et des redevances, imposés sur le Transport aérien ou liés au Transport aérien par les États ou les autorités aéroportuaires. Ces taxes, coûts et redevances, qui peuvent représenter une partie significative du coût du Transport aérien, sont indiqués séparément du prix définitif à payer, juste avant la conclusion de l’acte d’achat, ainsi que dans la (les) case(s) « TAXES » du Billet. Les taxes sont remboursables pour tous les billets. Des frais d’annulation de 23€ par billet s’ appliquent.  
   
 Si le Passager manque son vol pour cause de retard, ou s’il renonce à son voyage en avion, ce Passager peut bénéficier du remboursement des taxes, redevances aéroportuaires et autres frais susvisés dont l’exigibilité est liée à l’embarquement effectif du Passager conformément à la règlementation applicable. Sont concernées la taxe d’aéroport (signalée par les lettres QW sur le billet) et la redevance passager (signalée par les lettres QX sur le billet).  
 Cette demande peut être adressée :  
   
 \-    Soit par courrier en lettre recommandée avec accusé de réception,  
-\-    Soit en ligne, en remplissant le [formulaire joint](https://fr.aegeanair.com/-/media/files/formulaire-de-demande-en-ligne-(document-for-the-link-of-article-12)_fr_19-7-2018.docx?la=fr). Le cas échéant, la demande est gratuite.  
+\-    Soit en ligne, en remplissant le [formulaire joint](https://fr.aegeanair.com/-/media/Files/FORMULAIRE-DE-DEMANDE-EN-LIGNE-(Document-for-the-link-of-article-12)_FR_19-7-2018.docx). Le cas échéant, la demande est gratuite.  
   
 En cas de demande par courrier, AEGEAN peut prévoir des frais pour obtenir ce remboursement, sans que ces frais ne puissent excéder 20% du montant remboursé.  
   
@@ -407,7 +407,7 @@ Si dans le cadre de la conclusion d'un contrat de Transport aérien, le Transpor
 
 ### 15 CONDITIONS TARIFAIRES
 
-Les conditions tarifaires régissant votre Billet sont comprises dans les conditions contractuelles et termes généraux de contrat de transport d’AEGEAN et sont mis à disposition [ici](https://fr.aegeanair.com/PlainContent.axd?code=AmadeusFareRules&language=FR)
+Les conditions tarifaires régissant votre Billet sont comprises dans les conditions contractuelles et termes généraux de contrat de transport d’AEGEAN et sont mis à disposition [ici](https://fr.aegeanair.com/conditions-et-avis/conditions-generales-de-transport/?headless=true)
 
 ###    
 16 DONNEES PERSONNELLES
@@ -439,7 +439,7 @@ Cependant, ceci peut avoir pour conséquence l’annulation du voyage ou empêch
   
 **17.5** Le Transporteur se réserve le droit de ne pas accepter des Passagers devant voyager sur un brancard sur n’importe quel vol.  
   
-**18\. Droits des passagers en vertu du Règlement (CE) n° 261/2004  
+**18.1 Droits des passagers en vertu du Règlement (CE) n° 261/2004  
 **  
 **Refus d'embarquement, d'annulation de vol et de retard: Notification des droits des passagers à l'indemnisation et à l'assistance en vertu du règlement (CE) n ° 261/2004  
 **  
@@ -558,9 +558,118 @@ Si un passager se plaint d'un vol exploité par AEGEAN, ce passager peut dépose
   
 Veuillez suivre le lien ci-dessous pour une liste des organismes nationaux de lutte contre la fraude et leurs coordonnées: [https://ec.europa.eu/transport/sites/default/files/2004\_261\_national\_enforcement\_bodies.pdf](https://ec.europa.eu/transport/sites/default/files/2004_261_national_enforcement_bodies.pdf)
 
-**L’UTILISATION DU SITE INTERNET D’AEGEAN EST SOUMISE AUX CONDITIONS SUIVANTES :  
+**18.2 Droits des passagers en vertu de la loi israélienne sur les services aériens**
+
+**Avis sur vos droits en cas de refus d'embarquement, de retard de vol ou d'annulation de vol  
+**  
+Le présent avis contient des informations importantes sur vos droits en vertu de la loi israélienne sur les services aériens (indemnisation et assistance pour les annulations de vols et les changements de conditions), 5772-2012 (l'« ASL »). Les droits mentionnés dans le présent document s'appliquent dans les circonstances suivantes :  
+
+* Vous avez une réservation confirmée sur un vol opéré par la compagnie aérienne, achetée à un tarif disponible directement ou indirectement au grand public ; et
+* (sauf dans le cas où votre vol a été annulé) vous vous êtes présenté(e) pour un enregistrement avant l'échéance d'enregistrement, tel que spécifié dans nos conditions générales de voyage ou dans nos règlements connexes ; et
+* Vous voyagez sur un vol au départ ou à destination d'un aéroport en Israël (sauf s'il est évident que vous avez reçu des avantages ou une indemnisation et que vous avez bénéficié d'une assistance dans cet autre pays et que ces avantages, cette indemnisation et cette assistance correspondent directement à votre droit au titre de l'ASL) ; et
+* Vous ne vous êtes pas vu refuser l'embarquement pour une raison énoncée dans nos conditions générales de voyage ou dans nos règlements connexes ; et 
+* L'embarquement vous a été refusé de manière involontaire ou votre vol est retardé de plus de deux heures au-delà de l'heure de départ prévue ou est annulé.
+
+**  
+REFUS D'EMBARQUEMENT**
+
+La compagnie aérienne a pour politique de ne pas surréserver ses vols. Cependant, dans le cas improbable où un siège n'est pas disponible pour un passager ayant une réservation confirmée, nous chercherons des volontaires acceptant de laisser leurs sièges en échange d'avantages dont nous et le volontaire pourrons convenir avant de refuser involontairement l'embarquement à d'autres passagers. S'il n'y a pas assez de volontaires et que nous vous refusons l'embarquement de manière involontaire, vous bénéficiez des droits pertinents énoncés dans cette section (les mêmes qu'en cas d'annulation de vol), à moins que votre embarquement ait été refusé dans des circonstances présentant des motifs raisonnables de refus d'embarquement, tels que des raisons de santé, de sécurité, ou des documents de voyage inadéquats.  
+  
+
+**RETARD DE VOL COMPRIS ENTRE 2 ET 8 HEURES**
+
+Si nous nous attendons raisonnablement à ce que votre vol soit retardé de deux heures ou plus, mais moins de 8 heures, au-delà de l'heure de départ prévue, vous pouvez bénéficier des droits pertinents énoncés au paragraphe 3 du présent document.  
+  
+**ANNULATION DE VOL ET RETARDS DE PLUS DE 8 HEURES**  
+
+Si votre vol est annulé, a été avancé ou retardé de plus de 8 heures, vous pouvez bénéficier des droits énoncés ci-dessous (voir les sections suivantes : 1. ; 2. ; et 3.). En ce qui concerne votre droit à l'indemnisation, veuillez noter que la compagnie aérienne a le droit de refuser une indemnisation lorsque (les « Exemptions ») :  
+
+* Vous êtes informé(e) de l'annulation au moins deux semaines avant l'heure de départ prévue ; ou  
+    
+* Vous êtes informé(e) de l'annulation entre deux semaines et sept jours avant l'heure de départ prévue et on vous a proposé un réacheminement, vous permettant de partir pas plus de deux heures avant l'heure de départ prévue et d'atteindre votre destination finale moins de quatre heures après l'heure d'arrivée prévue ; ou  
+    
+* Vous êtes informé(e) de l'annulation moins de sept jours avant l'heure de départ prévue et un réacheminement vous a été proposé, vous permettant de partir pas plus d'une heure avant l'heure de départ prévue et d'atteindre votre destination finale moins de deux heures après l'heure d'arrivée prévue ; ou  
+    
+* l'annulation est due à des circonstances extraordinaires qui n'étaient pas sous le contrôle de la compagnie aérienne, même si celle-ci avait fait tout ce qui était en son pouvoir ; le vol a été annulé en raison d'une grève ou d'une grève du zèle protégée ; le vol a été annulé pour éviter la profanation du Sabbath ou de fêtes juives.  
+    
+* Les dispositions susmentionnées ne s'appliquent pas si vous refusez de voyager sur le vol alternatif parce que le vol alternatif n'a pas été proposé à votre / vos compagnon(s) de voyage ou pour des raisons de sécurité, religieuses ou des restrictions médicales.
+
+**  
+1\. DROIT À L'INDEMNISATION  
+  
+**Si, de manière involontaire, vous n'êtes pas autorisé(e) à embarquer ou si votre vol est annulé ou retardé de huit heures ou plus par rapport à l'heure de départ prévue, vous avez le droit de recevoir, sous réserve des Exemptions prévues ci-dessus, le montant suivant de notre part :  
+  
+A. 1 390 NIS, pour tous les vols de 2 000 km ou moins ; ou  
+B. 2 220 NIS pour tous les vols d'entre 2 000 km et 4 500 km ; ou  
+C. 3 340 NIS pour tous les vols de plus de 4 500 km  
+  
+L'indemnisation ci-dessus sera réduite de 50 % à condition que le retard concernant l'heure d'atterrissage à la destination finale par rapport à l'heure d'atterrissage initiale ne dépasse pas l'heure d'arrivée prévue du vol initialement réservé de 4 heures (vols tombant dans la catégorie A), 5 heures (vols tombant dans la catégorie B) ou 6 heures (vols tombant dans la catégorie C). L'indemnisation, si elle est due, sera effectuée dans les 45 jours suivant la réception d'une demande écrite aux [relations client](https://aegeanairlines-fr.custhelp.com/app/email). L'indemnisation sera effectuée par virement bancaire ou chèque, ou par tout autre moyen convenu par écrit par le passager.  
+  
+**2\. DROIT AU REMBOURSEMENT OU AU RÉACHEMINEMENT  
+  
+**Si l'embarquement vous a été refusé ou si votre vol a été annulé ou retardé d'au moins 8 heures, vous pouvez choisir entre :  
+  
+a) un remboursement du montant payé pour le billet d'avion, y compris les frais, impôts, taxes et autres paiements obligatoires dans les 21 jours suivant la réception d'une demande écrite de billet d'avion de remplacement vers votre destination finale ; ou  
+b) un réacheminement, dans des conditions de transport comparables, vers votre destination finale le plus tôt possible ; ou  
+c) un réacheminement, dans des conditions de transport comparables, vers votre destination finale à une date ultérieure à votre convenance, sous réserve de la disponibilité des sièges.  
+  
+Si votre vol est retardé d'au moins cinq heures et que vous choisissez de ne pas voyager, vous pouvez prétendre à un remboursement comme indiqué au point (a) ci-dessus, ainsi que, le cas échéant, à un vol retour vers le premier point de départ, le plus tôt possible.  
+Si vous ne souhaitez pas poursuivre vos projets de voyage initiaux en cas de retard d'au moins 5 heures, vous pouvez choisir le remboursement ou le réacheminement. Cependant, si le retard du vol est dû à une grève protégée, vous ne pourrez prétendre qu'au remboursement ; et a) et b) ci-dessus.   
+Lorsqu'il n'est pas possible pour la compagnie aérienne d'organiser l'assistance énoncée ci-dessus, elle vous remboursera vos frais acquittés dans une mesure raisonnable sur demande aux [relations clients](https://aegeanairlines-fr.custhelp.com/app/email).  
+  
+Remboursement du montant payé pour le billet d'avion, y compris les frais, impôts, taxes et autres paiements obligatoires dans les 21 jours suivant la réception de la demande écrite.  
+  
+**3\. DROIT À UNE ASSISTANCE  
+  
+**L'assistance décrite dans cette section est fournie dans le cas où une heure de vol de départ est retardée d'au moins deux heures à compter du départ prévu.  
+  
+Si la compagnie aérienne s'attend à ce qu'un vol soit retardé d'au moins 2 heures, vous pourrez bénéficier gratuitement de :  
+a) bons pour des repas et rafraîchissements en relation raisonnable avec le temps d'attente, à condition que cela ne retarde pas davantage le départ de l'avion ;  
+b) deux appels téléphoniques, messages par telex, fax ou e-mails ;  
+Si la compagnie aérienne s'attend à ce qu'un vol soit retardé d'au moins 5 heures mais moins de 8 heures, le cas échéant, vous bénéficierez aussi gratuitement de :  
+c) un hébergement à l'hôtel dans les cas où un séjour d'une ou plusieurs nuits devient nécessaire, ou lorsqu'un séjour en plus de celui prévu par vos soins devient nécessaire ;  
+d) le transport entre l'aéroport et le lieu d'hébergement (hôtel ou autre).  
+  
+**4\. CHANGEMENTS DE CONDITIONS  
+  
+**Si vous êtes placé(e) dans une classe de service supérieure à celle indiquée sur le billet d'avion, vous ne serez pas soumis(e) à des frais supplémentaires ni n'aurez droit à une quelconque indemnisation monétaire. Si, de manière involontaire, vous êtes placé(e) dans une classe de service inférieure à celle indiquée sur le billet d'avion, vous recevrez le remboursement de 100 % du prix du billet pour tous les segments de vol de plus de 4 500 km. Pour les segments de vol de moins de 4 500 km, la compagnie aérienne paiera un montant égal au tarif de vol payé, multiplié par le ratio entre la distance de vol affectée et la distance de vol totale.  
+  
+Cet avis est requis en vertu de la loi israélienne sur les services aériens (indemnisation et assistance pour les annulations de vol et les changements de conditions), 5772-2012 ; toute réclamation ou action en justice engagée en cas de litige doit être basée uniquement sur le texte législatif de la loi.
+
+**Avis conformément à la loi israélienne sur la protection des consommateurs  
+**                                                
+Selon la loi israélienne sur la protection des consommateurs (« CPL »), 5741-1981.  
+  
+Toute transaction effectuée dans le cadre d'une « transaction de vente longue distance » (selon la définition de ce terme en vertu de la CPL israélienne) peut être annulée dans un délai de quatorze (14) jours suivant la date de la transaction, ou la date de réception du document récapitulatif de la transaction si celui-ci est postérieur, et pas moins de sept (7) jours, sans compter les jours de repos, avant la date de départ du premier vol sur votre itinéraire.  
+Sous réserve des dispositions de la loi.  
+  
+Si vous êtes un consommateur (ou une consommatrice) appartenant à la catégorie « handicapés », « séniors » ou « nouveaux immigrants », comme ces termes sont définis en vertu de la CPL, vous pouvez annuler une « transaction de vente longue distance » dans les quatre (4) mois à compter de la date de la transaction, ou la date de réception du document récapitulatif de la transaction (tel que requis en vertu de la CPL) et pas moins de sept (7) jours, sans compter les jours de repos, avant la date de départ du premier vol sur votre itinéraire.  
+  
+Cela s'appliquera uniquement aux transactions qui incluaient une conversation entre vous et le vendeur (y compris une conversation par le biais d'une communication électronique). Veuillez noter que nous avons le droit de demander de la documentation pour vérifier votre statut.  
+  
+Lorsqu'une annulation est effectuée conformément aux dispositions de la CPL tel que stipulé ci-dessus, les frais d'annulation s'élèveront au montant le moins élevé entre 5 % ou 100 NIS.  
+  
+Lorsqu'une annulation en vertu des dispositions de la CPL résulte d'une non-conformité, de la non-fourniture du service à la date prévue ou est due à toute autre présumée violation de contrat, vous pourrez prétendre au remboursement intégral dans les 14 jours suivant l'avis d'annulation.  
+  
+Une « transaction longue distance » peut être annulée via chacune des méthodes suivantes :  
+• Oralement, par l'intermédiaire de notre centre d'appel, au +30 210 6261000  
+• Via le site Web officiel d'Aegean : www.aegeanair.com → Aide et contact → [E-mail](https://aegeanairlines-fr.custhelp.com/app/email)  
+• Par fax : non disponible ;  
+  
+L'avis d'annulation doit contenir le nom du client et le numéro d'identification.  
+**  
+Remboursement des taxes et frais non utilisés  
+**  
+Veuillez noter que selon les droits mentionnés concernant l'annulation de billet en vertu de la loi israélienne sur la protection des consommateurs, vous pouvez prétendre au remboursement des taxes et frais en cas de billets inutilisés.  
+   
+  
+**D. L’UTILISATION DU SITE INTERNET D’AEGEAN EST SOUMISE AUX CONDITIONS SUIVANTES :  
+  
   
 CONDITIONS RELATIVES AU SITE INTERNET  
+  
+Conditions générales de transport de fret [ici](https://fr.aegeanair.com/-/media/TravelAgents/Files/General-Conditions-of-Carriage-for-Cargo_FR_rv.pdf).  
+  
   
 Mentions Légales**  
   
@@ -616,7 +725,7 @@ Voir la politique d’AEGEAN de protection des données sur [https://fr.aegeanai
 * Les paiements par carte Visa, Mastercard et Maestro prennent en charge l'option de conversion de devise.
 * Lorsque la conversion de devise est sélectionnée, les services suivants ne sont pas proposés : utilisation de code promotionnel, « Hold my booking » (Maintenir ma réservation) et l'échange de miles contre des services additionnels.
 
-  
+**  
 **Réclamations  
 **  
 Le Passager qui a une réclamation à formuler doit, en premier lieu, contacter AEGEAN :  
@@ -627,4 +736,4 @@ Le Passager qui a une réclamation à formuler doit, en premier lieu, contacter 
   
 (iv) par télécopie : +30 210 3550188  
   
-\*Veuillez noter que les taux de change sont des taux dates de décembre 2017. Les informations sur les taux DTS peuvent être trouvées sur le site : [http://www.imf.org/external/np/fin/data/param\_rms\_mth.aspx](http://www.imf.org/external/np/fin/data/param_rms_mth.aspx)
+\*Veuillez noter que les taux de change sont des taux dates de décembre 2017. Les informations sur les taux DTS peuvent être trouvées sur le site:  [http://www.imf.org/external/np/fin/data/param\_rms\_mth.aspx](http://www.imf.org/external/np/fin/data/param_rms_mth.aspx)**
