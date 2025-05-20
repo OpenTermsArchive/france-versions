@@ -458,7 +458,7 @@ Pour des raisons de sécurité, Air Europa peut demander aux passagers de lui pe
 
 (c) Les bagages enregistrés seront transportés dans le même avion que celui dans lequel se déplace le passager, sauf circonstances exceptionnelles où, pour des raisons opérationnelles ou de sécurité, ils doivent être transportés séparément. Dans ce cas, il est de la responsabilité d'Air Europa de les livrer au passager par ses propres moyens, à moins que la loi applicable n'exige que le passager soit présent pour le dédouanement.
 
-(d) Quelle que soit la limite maximale autorisée en franchise ou l'excédent de bagages qu'il transporte, la mesure maximale autorisée par pièce est de 158 cm cumulés (longueur + largeur + hauteur, sauf exceptions pour certains bagages spéciaux) et le poids maximal par pièce est de 32 kg.
+(d) Quelle que soit la limite maximale autorisée en franchise ou l'excédent de bagages qu'il transporte, la mesure maximale autorisée par pièce est de 158 cm cumulés (longueur + largeur + hauteur, sauf exceptions pour certains bagages spéciaux) et le poids maximal par pièce est de 32 kg (70ib). La limite maximum de bagages par passager, y compris la franchise et les bagages supplémentaires réservés, est de 10 pièces.
 
 (e) Certains bagages enregistrés considérés comme spéciaux ou irréguliers peuvent faire l'objet de frais, dont la quantité peut être  consultée sur : [bagages](https://www.aireuropa.com/fr/fr/aea/informations-pour-voler/bagages.html)
 
@@ -723,7 +723,7 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 * la mort, les blessures ou toute autre lésion corporelle sont imputables à l'état de santé physique ou mentale du passager existant avant les opérations d'embarquement des passagers ; ou
 * le dommage, selon les sous-paragraphes (a) (i) de ce point, a été causé ou favorisé par la négligence du passager ou par son état de santé avant l'embarquement du vol.
 
-(iii) Aucune limite économique n'a été fixée en ce qui concerne la responsabilité en cas de lésion ou de décès du passager. Dans le cas des dommages de jusqu'à 128 821 DTS (environ 159 042 euros), la compagnie aérienne ne sera pas en mesure de contester les réclamations d'indemnisation. Au-delà de ce montant, la compagnie aérienne ne pourra contester une réclamation que dans les cas où il sera possible de démontrer qu'il n'existe aucune négligence ou tout autre type d'infraction de sa part, ou que le dommage est dû uniquement à la négligence ou à une autre action ou omission préjudiciable d'un tiers.
+(iii) Aucune limite économique n'a été fixée en ce qui concerne la responsabilité en cas de lésion ou de décès du passager. Dans le cas des dommages de jusqu'à 151.880 DTS (environ 191.360 euros), la compagnie aérienne ne sera pas en mesure de contester les réclamations d'indemnisation. Au-delà de ce montant, la compagnie aérienne ne pourra contester une réclamation que dans les cas où il sera possible de démontrer qu'il n'existe aucune négligence ou tout autre type d'infraction de sa part, ou que le dommage est dû uniquement à la négligence ou à une autre action ou omission préjudiciable d'un tiers.
 
 (iv) Somme recouvrable pour le dommage :
 
@@ -732,7 +732,7 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (v) Air Europa se réserve tous les droits de recours contre des tiers, y compris, sans s'y limiter, les droits à prestation et à indemnisation ;
 
-(vi) En cas de décès, de blessures ou de lésions corporelles à la suite d'un accident aérien, conformément à la loi applicable, le point 2 (a) (i) de cet Article, de la ou des personne(s) ayant le droit à compensation, lorsqu'elles sont identifiées, elles recevront un paiement anticipé pour couvrir leurs besoins immédiats. En cas de décès, ce paiement anticipé ne doit pas être inférieur à l'équivalent en EUROS de 16 000 DTS (environ 19 754 euros) par passager. Conformément à la loi applicable actuellement, le paiement anticipé est effectué dans les quinze (15) jours suivant la constatation de l'identification de la ou des personnes ayant droit à compensation, et est déductible du montant définitif à payer pour responsabilité conformément au présent paragraphe (a).
+(vi) En cas de décès, de blessures ou de lésions corporelles à la suite d'un accident aérien, conformément à la loi applicable, le point 2 (a) (i) de cet Article, de la ou des personne(s) ayant le droit à compensation, lorsqu'elles sont identifiées, elles recevront un paiement anticipé pour couvrir leurs besoins immédiats. En cas de décès, ce paiement anticipé ne doit pas être inférieur à l'équivalent en EUROS de 16 000 DTS (environ 20.150 euros) par passager. Conformément à la loi applicable actuellement, le paiement anticipé est effectué dans les quinze (15) jours suivant la constatation de l'identification de la ou des personnes ayant droit à compensation, et est déductible du montant définitif à payer pour responsabilité conformément au présent paragraphe (a).
 
 (b) Retard :
 
@@ -748,7 +748,7 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (iii) Portée de l'indemnisation :
 
-* La somme de la réparation est déterminée par le dommage sur la base des preuves présentées par le passager et est comprise dans les limites stipulées dans la loi applicable (jusqu'à 5346 DTS - environ 6600 euros).
+* La somme de la réparation est déterminée par le dommage sur la base des preuves présentées par le passager et est comprise dans les limites stipulées dans la loi applicable (jusqu'à 6.303 DTS - environ 7.900 euros).
 * En cas de retard dans la livraison des bagages enregistrés, Air Europa peut, par un montant forfaitaire, indemniser les passagers pour leurs frais de première nécessité occasionnés par le retard lorsque celui-ci survient en dehors du lieu où les passagers résident à ce moment-là.
 
 (c) Bagages :
@@ -761,8 +761,8 @@ En ce qui concerne Air Europa, la responsabilité est la suivante :
 
 (ii) Montant de l'indemnisation :
 
-* Retards des bagages : En cas de retard des bagages, Air Europa est responsable du dommage à condition que celle-ci ait pris les mesures pertinentes afin d'éviter le dommage ou qu'il ait été impossible de prendre les mesures nécessaires. La responsabilité en cas de retard des bagages est limitée à 1288 DTS (environ 1590 euros).
-* Destruction, perte ou dommages des bagages : Air Europa est responsable en cas de destruction, de perte ou de dommages des bagages jusqu'à la somme de 1288 DTS (environ 1590 euros). En ce qui concerne les bagages enregistrés, celle-ci est responsable même dans le cas elle serait écartée de toute culpabilité, excepté si les bagages sont déjà endommagés. En ce qui concerne les bagages non enregistrés, la compagnie aérienne est responsable des dommages découlant d'une erreur ou infraction de sa part.
+* Retards des bagages : En cas de retard des bagages, Air Europa est responsable du dommage à condition que celle-ci ait pris les mesures pertinentes afin d'éviter le dommage ou qu'il ait été impossible de prendre les mesures nécessaires. La responsabilité en cas de retard des bagages est limitée à 1.519 DTS (environ 1.900 euros).
+* Destruction, perte ou dommages des bagages : Air Europa est responsable en cas de destruction, de perte ou de dommages des bagages jusqu'à la somme de 1.519 DTS (environ 1.900 euros). En ce qui concerne les bagages enregistrés, celle-ci est responsable même dans le cas elle serait écartée de toute culpabilité, excepté si les bagages sont déjà endommagés. En ce qui concerne les bagages non enregistrés, la compagnie aérienne est responsable des dommages découlant d'une erreur ou infraction de sa part.
 
 **3.** **Plate-forme de résolution de litiges en ligne**
 
