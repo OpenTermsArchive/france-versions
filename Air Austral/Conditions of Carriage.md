@@ -1,5 +1,3 @@
-### Informations légales
-
 Conditions générales de transport
 =================================
 
