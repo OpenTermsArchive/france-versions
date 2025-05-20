@@ -1,21 +1,56 @@
-[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Ami Paris](https://www.printemps.com/fr/fr/amiparis-femme) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
+[**VENTES PRIVÉES**](https://www.printemps.com/fr/fr/ventes-privees-printemps) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+
+* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps)
+    
+* [FEMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Sacs](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/Sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/V%C3%AAtements)
+    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Baskets)
+    * [Robes](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Robes)
+    * [Hauts](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Chemises/Tops+et+t-shirts)
+    * [Sandales & Mules](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Sandales/Mules)
+    * [Bijoux](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Bijoux)
+    * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Vestes/Tailleurs)
+
+* [HOMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
+    * [Luxe](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Vêtements](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/V%C3%AAtements)
+    * [Chaussures](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/Chaussures)
+    * [Chemises](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Chemises)
+    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Baskets)
+    * [T-shirts & Polos](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
+    * [Pantalons](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Pantalons)
+    * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Vestes)
+    * [Accessoires](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/Accessoires)
+
+* [BEAUTÉ](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute)
+    * [\-25% dès 89€ au panier](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Maquillage)
+    * [Accessoires](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Accessoires)
+    * [Coffrets](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Coffret+%26+Palette)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
     * [Chaussures](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Chaussures)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Manteaux)
+    * [Baskets](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Baskets)
     * [Robes](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Robes)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Accessoires)
     * [Cabas](https://www.printemps.com/fr/fr/nouveautes-femme/cat0/Cabas)
 
 * [HOMME](https://www.printemps.com/fr/fr/nouveautes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-homme)
-    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
     * [Baskets](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Baskets)
+    * [Tee-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
     * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
-    * [Maille](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Mailles+et+pulls)
+    * [Chemises](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Chemises)
     * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
@@ -46,6 +81,8 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
+* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vp-femme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -53,15 +90,15 @@
     * [Robes de soirée](https://www.printemps.com/fr/fr/robes-de-soiree)
     * [Tops Et T-Shirts](https://www.printemps.com/fr/fr/tops-t-shirts-femme)
     * [Blouses Et Chemises](https://www.printemps.com/fr/fr/chemises-femme)
-    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
-    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
-    * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-femme)
+    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
+    * [Vestes](https://www.printemps.com/fr/fr/vestes-femme)
+    * [Jeans](https://www.printemps.com/fr/fr/jeans-femme)
     * [Jupes](https://www.printemps.com/fr/fr/jupes-femme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-femme)
     * [Sweats Et Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-femme)
     * [Tailleurs](https://www.printemps.com/fr/fr/tailleurs-femme)
-    * [Maillots De Bain](https://www.printemps.com/fr/fr/maillots-de-bain-femme)
+    * [Manteaux](https://www.printemps.com/fr/fr/manteaux-femme)
     * [Sous-VÊTements Et Pyjamas](https://www.printemps.com/fr/fr/sous-vetements-femme)
 
 * [SACS](https://www.printemps.com/fr/fr/tous-les-sacs-femme)
@@ -133,7 +170,11 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+*  [![](https://media-cdn.printemps.com/image/76/6/7969766.jpg) VAGABOND SHOEMAKERS](https://www.printemps.com/fr/fr/vagabond-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_vagabond)
+    
 
+* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -215,7 +256,11 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+* [![](https://media-cdn.printemps.com/image/67/1/7969671.jpg)](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
+    
 
+* [VENTES PRIVÉES : -25% dès 89€ d'achats](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=avp-beaute)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -262,7 +307,6 @@
     * [K-Beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [Maquillage de cérémonie](https://www.printemps.com/fr/fr/maquillage-de-ceremonie)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
-    * [Skincare hivernale](https://www.printemps.com/fr/fr/edito-beaute-skincare-hivernale)
     * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
 * [SÉLECTIONS](#)
@@ -283,36 +327,8 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/65/3/7830653.jpg) ACQUA DI PARMA](https://www.printemps.com/fr/fr/univers-acqua-di-parma?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_acqua_di_parma)
+*  [![](https://media-cdn.printemps.com/image/76/5/7969765.jpg) DRIES VAN NOTEN](https://www.printemps.com/fr/fr/dries-van-noten-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_dries%20van%20noten)
     
-
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
-    
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Manteaux)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Mailles+et+pulls)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Bottes et Bottines](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bottines/Bottes)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-femme/esp/Accessoires)
-
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Manteaux)
-    * [Vestes](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Vestes)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Mailles+et+pulls)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
@@ -397,7 +413,6 @@
     * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
-    * [Voir tout](https://www.printemps.com/fr/fr/magasins)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [Dolce Vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
@@ -406,14 +421,14 @@
     * [Bijouterie, horlogerie et joaillerie : le guide du style de la Saint-Valentin](https://www.printemps.com/fr/fr/edito-magasins-bijoux-montres-saint-valentin-haussmann-2025)
     * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
     * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
-
+    * [Veuve Clicquot rouvre sa terrasse éphémère au Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-le-picnic-veuve-clicquot-rooftop-printemps-haussmann-2025)
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    
 
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
+    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
     * [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
-    * [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
     * [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
     * [La carte cadeau](https://cartescadeaux.printemps.com/)
     * [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
@@ -421,6 +436,47 @@
     * [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
     * [Conférences et ateliers](https://evenements.printemps.com/)
     * [Voir tout](https://www.printemps.com/fr/fr/a-votre-service)
+
+* [Nos magasins](https://www.printemps.com/fr/fr/magasins)
+    * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
+    * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
+    * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
+    * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
+    * [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
+    * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
+    * [Printemps Nancy](https://www.printemps.com/fr/fr/printemps-nancy)
+    * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
+    * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
+    * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+
+* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+
+* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+
+* [Tous nos services](https://www.printemps.com/fr/fr/a-votre-service)
+    
+* [Personal shopping](https://www.printemps.com/fr/fr/personal-shopping)
+    
+* [Club Printemps](https://www.printemps.com/fr/fr/club-printemps)
+    
+* [Click & collect, livraison et retours](https://www.printemps.com/fr/fr/livraisons-retours)
+    
+* [Shopping à distance](https://www.printemps.com/fr/fr/shopping-a-distance)
+    
+* [La carte cadeau](https://cartescadeaux.printemps.com/)
+    
+* [Offre de parrainage](https://www.printemps.com/fr/fr/offre-parrainage)
+    
+* [Carte Visa Printemps](https://www.printemps.com/fr/fr/carte-visa-printemps)
+    
+* [Second Printemps](https://www.printemps.com/fr/fr/second-printemps)
+    
+* [Conférences et ateliers](https://evenements.printemps.com/)
+    
 
 Mise à jour du 26/04/2023
 
