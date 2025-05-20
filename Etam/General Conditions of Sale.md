@@ -34,8 +34,8 @@ Les différences peuvent résulter de la qualité couleur des photographies, de 
 En cas d´erreur manifeste ou omission non significative entre les caractéristiques du Produit et sa représentation et/ou sa description, ETAM ne saurait voir sa responsabilité engagée.  
   
 2.2 Disponibilité des Produits Les Produits sont proposés à la vente dans la limite des stocks disponibles. Seuls les Produits figurant sur le Site au jour de sa consultation par le Client sont proposés à la vente. Ainsi, lors de la passation de commande, le Client est informé de la disponibilité du Produit sélectionné. En cas d´indisponibilité d´un Produit, ETAM s´engage à en informer le Client dans les plus brefs délais par courrier électronique.  
-En cas de paiement par Carte Bancaire, seul le montant des Produits réellement expédiés sera débité. Dans l’hypothèse d’un paiement immédiat via Paypal, le prix du Produit qui s’avérerait finalement indisponible, serait remboursé directement sur ledit compte.  
-En cas de paiement en carte cadeau, le prix du produit sera remboursé en Carte cadeau dématérialisée. Celle-ci sera envoyée par email sur l’adresse électronique utilisée lors de la commande Etam.  
+En cas de payment par Carte Bancaire, seul le montant des Produits réellement expédiés sera débité. Dans l’hypothèse d’un payment immédiat via Paypal, le prix du Produit qui s’avérerait finalement indisponible, serait remboursé directement sur ledit compte.  
+En cas de payment en carte cadeau, le prix du produit sera remboursé en Carte cadeau dématérialisée. Celle-ci sera envoyée par email sur l’adresse électronique utilisée lors de la commande Etam.  
 
 ### Article 3. Prix
 
@@ -57,23 +57,23 @@ Il est important que le Client remplisse le formulaire avec précision afin d´�
 Pour accéder à la validation de la commande, le Client doit prendre connaissance des Conditions Générales de Vente et les accepter de manière expresse, en cochant la case prévue à cet effet.  
 Toute commande passée sur le Site, personnellement ou via un IPAD en magasin et dûment validée par le Client, ne pourra plus être annulée. Le Client devra attendre sa réception et appliquer alors son droit de rétractation (voir Article 6.1)  
   
-4.3 Validation de la commande/Paiement Le Client acheteur garantit à ETAM qu'il dispose des autorisations nécessaires pour utiliser le mode de règlement qu'il aura choisi pour sa commande, lors de l'enregistrement de celle-ci. Le Client, par la validation de son panier d’achat, du bon de commande récapitulatif et l’acceptation des Conditions Générales de Vente, donne son consentement pour passer à l’étape de la validation de la commande par le paiement. Le prix dû par le Client est le montant indiqué sur le bon de commande récapitulatif dont le Client a pris connaissance avant de valider sa commande. Cette validation vaut acceptation expresse de toutes les opérations effectuées sur le Site.  
+4.3 Validation de la commande/Paiement Le Client acheteur garantit à ETAM qu'il dispose des autorisations nécessaires pour utiliser le mode de règlement qu'il aura choisi pour sa commande, lors de l'enregistrement de celle-ci. Le Client, par la validation de son panier d’achat, du bon de commande récapitulatif et l’acceptation des Conditions Générales de Vente, donne son consentement pour passer à l’étape de la validation de la commande par le payment. Le prix dû par le Client est le montant indiqué sur le bon de commande récapitulatif dont le Client a pris connaissance avant de valider sa commande. Cette validation vaut acceptation expresse de toutes les opérations effectuées sur le Site.  
 Toute commande passée sur le Site se règle exclusivement en ligne via l’une des cartes bancaires suivantes :  
 CB, Visa, Mastercard, American Express, e-Carte Bleue, ainsi que toutes les cartes déclinées dans les autres pays concernés, mais également via Paypal, Lydia et/ou Carte Cadeau ETAM.  
-La commande n'est prise en compte qu'après saisie du numéro de carte bancaire, de sa date d'expiration et le numéro de cryptogramme (numéro à 3 chiffres figurant au verso de la carte bancaire) pour le paiement. Ce paiement fait l'objet d'une validation définitive par le GIE carte bancaire.  
+La commande n'est prise en compte qu'après saisie du numéro de carte bancaire, de sa date d'expiration et le numéro de cryptogramme (numéro à 3 chiffres figurant au verso de la carte bancaire) pour le payment. Ce payment fait l'objet d'une validation définitive par le GIE carte bancaire.  
 Dans tous les cas, la fourniture en ligne du numéro de carte bancaire et la validation finale de la commande vaudront preuve de l'intégralité de la commande conformément aux dispositions de la loi du 13 mars 2000 et vaudront exigibilité des sommes engagées par la saisie des Produits figurant sur le bon de commande.  
 Toutefois, en cas d'utilisation frauduleuse de sa carte bancaire, le Client est invité, dès le constat de cette utilisation, à contacter les services de police et le cas échéant, déposer plainte. ETAM ne sera pas habilitée à transmettre des informations au Client sur simple demande de ce dernier. Elle ne pourra le faire qu’à réception d’une réquisition judiciaire émanant des autorités compétentes.  
-En cas de paiement par Carte Cadeau physique, le Client devra saisir les 19 chiffres + le code PIN révélé après grattage de la partie dédiée. S’il s’agit d’une Carte Cadeau Dématérialisée, le Client devra saisir les 19 chiffres et le code PIN qui lui seront communiqués (voir art 8 – Conditions d’utilisation Carte Cadeau).  
+En cas de payment par Carte Cadeau physique, le Client devra saisir les 19 chiffres + le code PIN révélé après grattage de la partie dédiée. S’il s’agit d’une Carte Cadeau Dématérialisée, le Client devra saisir les 19 chiffres et le code PIN qui lui seront communiqués (voir art 8 – Conditions d’utilisation Carte Cadeau).  
   
-4.4 Sécurisation du paiement ETAM utilise le service de paiement sécurisé ADYEN qui intègre la norme de sécurité SSL. Les données confidentielles (numéro de carte, date d'expiration) sont transmises codées directement sur le serveur ADYEN et ne sont à aucun moment transmises sur notre serveur.  
+4.4 Sécurisation du paiement ETAM utilise le service de payment sécurisé ADYEN qui intègre la norme de sécurité SSL. Les données confidentielles (numéro de carte, date d'expiration) sont transmises codées directement sur le serveur ADYEN et ne sont à aucun moment transmises sur notre serveur.  
 Le serveur ADYEN est lui-même directement connecté aux serveurs des banques de chaque pays concerné.  
 ETAM, sous réserve de recevoir l'accord exprès du Client, pourra sauvegarder/mémoriser les informations relatives à sa carte bancaire afin que ce dernier n'ait pas à les ressaisir à chaque commande.  
 Le cryptogramme inscrit au dos de la carte bancaire ne sera pas conservé.  
 La conservation de ces données se fera jusqu'au retrait exprès du consentement du Client ou jusqu'à l'expiration de sa carte bancaire.  
   
-4.5 Accusé de réception de la commande La validation définitive de la Commande intervient après validation du paiement.  
+4.5 Accusé de réception de la commande La validation définitive de la Commande intervient après validation du payment.  
 Un mail de confirmation de la Commande et de son montant sera envoyé au Client lui confirmant ainsi son enregistrement, avec un récapitulatif de l'ensemble des informations déjà communiquées.  
-La vente ne sera considérée comme définitive qu’après acceptation du moyen de paiement utilisé et encaissement de l’intégralité du prix par ETAM.  
+La vente ne sera considérée comme définitive qu’après acceptation du moyen de payment utilisé et encaissement de l’intégralité du prix par ETAM.  
   
 4.6 Suivi des commandes Le détail et le suivi de l´acheminement de chacune des commandes sont consultables à tout moment sur le Site, dans « Mon compte » après que le Client se soit identifié avec son email et son mot de passe.  
 Si le Client n’a pas spécifiquement créé de compte, il ne pourra pas accéder au suivi de sa Commande directement sur le Site. Il sera informé par mail de son acheminement.  
@@ -81,7 +81,7 @@ Si le Client n’a pas spécifiquement créé de compte, il ne pourra pas accéd
 ### Article 5. Livraison
 
 Le Client est d’ores et déjà informé qu’il pourra le cas échéant, recevoir sa commande en plusieurs fois, en fonction des lieux de disponibilité des produits et de l’optimisation des délais de livraison.  
-Sauf cas de force majeure ou fait imprévisible et insurmontable, les délais de livraison seront ceux indiqués ci-dessous et courent à compter de la date de confirmation de la commande. Ils sont communiqués au Client avant toute validation de commande et paiement. Il incombe ainsi au Client de choisir le pays de livraison et son mode d'acheminement lorsque cela lui est proposé.  
+Sauf cas de force majeure ou fait imprévisible et insurmontable, les délais de livraison seront ceux indiqués ci-dessous et courent à compter de la date de confirmation de la commande. Ils sont communiqués au Client avant toute validation de commande et payment. Il incombe ainsi au Client de choisir le pays de livraison et son mode d'acheminement lorsque cela lui est proposé.  
 ETAM prend toutes les précautions pour que ses colis arrivent en parfait état. Cela étant, le Client est tenu de vérifier l'état de l'emballage et la conformité du Produit livré, et d'émettre le cas échéant, toute réserve sur le bordereau de livraison du transporteur.  
   
 5.1 Modes de livraison  
@@ -170,7 +170,7 @@ Celle-ci sera envoyée par e-mail à l'adresse renseignée sur la commande ETAM.
 
 La Carte Cadeau ETAM est un bon d’achat qui permet à son titulaire de régler ses achats, dans tous les magasins ETAM de France Métropolitaine, Corse et sur le site www.etam.com.  
 Son solde est consultable sur www.etam.com ou directement en magasin.  
-Elle peut être utilisée en une ou plusieurs fois, jusqu’à épuisement de son crédit et peut être complétée, si nécessaire, par tout autre moyen de paiement.  
+Elle peut être utilisée en une ou plusieurs fois, jusqu’à épuisement de son crédit et peut être complétée, si nécessaire, par tout autre moyen de payment.  
 Elle est valable pour une durée de 12 mois à compter de sa date d’envoi par mail ou de sa date d’achat en magasin.  
 Elle ne permet pas l’achat d’une autre Carte Cadeau.  
 Elle ne peut pas être recréditée ou rééditée. En cas de vol, perte, piratage de données, utilisation frauduleuse ou expiration du délai d’utilisation, tout montant encore éventuellement disponible sera perdu.  
@@ -207,7 +207,7 @@ Notre programme de fidélité Etam Connect | Services sur Etam.com
 
 ### Article 10. Question/Réclamation
 
-Pour toute question sur une commande, le Service Client ETAM est à la disposition de ses Clients via la rubrique "Nous contacter". En cas de litige, le Client doit renseigner son numéro de commande, ainsi que le motif exact de sa demande. Suite à la résolution d’un litige et s’il est nécessaire de procéder à un remboursement, celui-ci est effectué directement via le moyen de paiement utilisé au moment de la commande (voir article 7 ci-avant).
+Pour toute question sur une commande, le Service Client ETAM est à la disposition de ses Clients via la rubrique "Nous contacter". En cas de litige, le Client doit renseigner son numéro de commande, ainsi que le motif exact de sa demande. Suite à la résolution d’un litige et s’il est nécessaire de procéder à un remboursement, celui-ci est effectué directement via le moyen de payment utilisé au moment de la commande (voir article 7 ci-avant).
 
 ### Article 11. Données personnelles
 
@@ -253,7 +253,7 @@ Tout bien réparé dans le cadre de la garantie légale de conformité bénéfic
 ### Article L217-14
 
 Le consommateur a droit à une réduction du prix du bien ou à la résolution du contrat dans les cas suivants  :  
-1° Lorsque le professionnel refuse toute mise en conformité ; 2° Lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant la demande du consommateur ou si elle lui occasionne un inconvénient majeur ; 3° Si le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou les frais y afférents 4° Lorsque la non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse. Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable. Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur, ce qu'il incombe au vendeur de démontrer. Le présent alinéa n'est pas applicable aux contrats dans lesquels le consommateur ne procède pas au paiement d'un prix.  
+1° Lorsque le professionnel refuse toute mise en conformité ; 2° Lorsque la mise en conformité intervient au-delà d'un délai de trente jours suivant la demande du consommateur ou si elle lui occasionne un inconvénient majeur ; 3° Si le consommateur supporte définitivement les frais de reprise ou d'enlèvement du bien non conforme, ou s'il supporte l'installation du bien réparé ou de remplacement ou les frais y afférents 4° Lorsque la non-conformité du bien persiste en dépit de la tentative de mise en conformité du vendeur restée infructueuse. Le consommateur a également droit à une réduction du prix du bien ou à la résolution du contrat lorsque le défaut de conformité est si grave qu'il justifie que la réduction du prix ou la résolution du contrat soit immédiate. Le consommateur n'est alors pas tenu de demander la réparation ou le remplacement du bien au préalable. Le consommateur n'a pas droit à la résolution de la vente si le défaut de conformité est mineur, ce qu'il incombe au vendeur de démontrer. Le présent alinéa n'est pas applicable aux contrats dans lesquels le consommateur ne procède pas au payment d'un prix.  
 
 ### Article L217-15
 
