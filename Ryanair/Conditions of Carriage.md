@@ -978,6 +978,8 @@ ARTICLE 18 - MOYEN DE PAIEMENT
 
 Dans l’intérêt de la santé et de l’hygiène publiques, et compte tenu des risques associés à la manipulation des espèces soulignés par la crise du Covid-19, nous acceptons uniquement les paiements par carte de crédit et de débit pour les tarifs, taxes, frais, services auxiliaires et achats en vol. 
 
+Veuillez noter que les cartes de débit/crédit sans numéro ne sont pas acceptées à l’aéroport.
+
 18.2
 
 
@@ -1362,7 +1364,7 @@ Avec un tarif Flexi Plus, vous pouvez modifier votre vol réservé avant ou le j
 
 Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. Avec un billet Flexi Plus, vous pouvez effectuer l’enregistrement à l’aéroport gratuitement.
 
-Vous pouvez modifier l’itinéraire de tous les vols d’une réservation en ligne dans la section « Mes réservations ». Toutefois, une fois que vous avez effectué le vol aller, vous ne pourrez modifier l’itinéraire du vol retour qu’au comptoir d’un aéroport ou par l’intermédiaire d’un centre d’appels. Vous ne pouvez modifier l’itinéraire que si le pays de départ et le pays de destination sont les mêmes.
+Vous pouvez modifier l’itinéraire de tous les vols d’une réservation en ligne dans la section « Mes réservations ». Toutefois, une fois que vous avez effectué le vol aller, vous ne pourrez modifier l’itinéraire du vol retour que par l’intermédiaire d’un centre d’appels. Vous ne pouvez modifier l’itinéraire que si le pays de départ et le pays de destination sont les mêmes.
 
 Lorsque vous changez de vol, les services inclus dans le tarif Flexi Plus sont transférés sur le nouveau vol (si ces services sont disponibles pour ce vol). Si un service ne peut pas être transféré, vous n’obtiendrez le remboursement d’aucune partie du tarif Flexi Plus.
 
