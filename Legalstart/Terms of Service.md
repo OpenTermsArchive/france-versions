@@ -175,7 +175,7 @@ Pour chaque commande, Yolaw vous adresse par e-mail une confirmation de commande
 
 Le prix de souscription d’un Abonnement sera facturé au début de chaque mois ou de chaque année, selon le cas, à la date anniversaire de l’Abonnement concerné, et chaque nouvelle facture sera accessible dans votre espace sécurisé « mon Compte », sur la page « mes Factures ».
 
-Il vous est conseillé d’imprimer et/ou d’archiver sur un support fiable et durable toute facture, à titre de preuve.
+Il est courant d’imprimer et/ou d’archiver sur un support fiable et durable toutes les factures, afin de disposer de preuves en cas de besoin.
 
 **Article 5. Description et fourniture des Services et Abonnements**
 --------------------------------------------------------------------
