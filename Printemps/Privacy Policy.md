@@ -147,7 +147,7 @@
 * [TENDANCES](#)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
-    * [Bombers](https://www.printemps.com/fr/fr/bomber)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Un air de campagne](https://www.printemps.com/fr/fr/countryside)
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
