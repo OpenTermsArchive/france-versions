@@ -407,7 +407,7 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 **8.3.2** Si vous avez acheté Priorité et 2 bagages cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019), vous pouvez emporter à bord un petit bagage à main ainsi qu’un plus grand bagage en cabine pesant au maximum 10 kg et ne mesurant pas plus de 55 cm x 40 cm x 20 cm, sauf si nous sommes dans l’obligation de placer le grand bagage en cabine dans la soute, pour des raisons opérationnelles.
 
-**8.3.3** Si vous avez acheté un bagage enregistré de 10 kg (jusqu’à 10 kg avec des dimensions maximales de 55 cm x 40 cm x 20 cm), vous pouvez transporter votre petit bagage à bord de l’avion, mais le bagage enregistré de 10 kg doit être déposé au comptoir de dépose-bagages avant de passer le contrôle de sécurité. Une fois arrivé à destination, le bagage pourra être récupéré sur le tapis de bagages. Les règlements concernant les bagages enregistrés s’appliquent en conséquence. Cliquez ici pour consulter notre tableau des frais.
+**8.3.3** Si vous avez acheté l’enregistrement d’un bagage en soute de 10 kg, vous pouvez transporter votre petit bagage à bord de l’avion, mais le bagage enregistré de 10 kg doit être déposé au comptoir de dépose-bagages avant de passer le contrôle de sécurité. Une fois à destination, le bagage pourra être récupéré sur le tapis à bagages. Les règlements concernant les bagages enregistrés s’appliquent en conséquence. Cliquez ici pour consulter notre tableau des frais.
 
 **8.3.4** Les bagages supplémentaires ou trop volumineux seront refusés à la porte d’embarquement ou, le cas échéant, placés dans la soute de l’avion moyennant les frais indiqués dans nos Règlements (cliquez ici pour voir les Règlements concernant les bagages en cabine). Ryanair n’accepte aucune responsabilité quant aux bagages trop volumineux ou en excédent refusés à la porte d’embarquement que vous aurez abandonnés.
 
@@ -731,7 +731,7 @@ L’utilisation des aides auditives et stimulateurs cardiaques est autorisée.
 ARTICLE 12 PRESTATIONS ANNEXES
 ==============================
 
-En cas de promotion des services d’un tiers offrant des services autres que le transport aérien (comme le transfert ferroviaire et par autocar, l’hôtel ou la réservation de chambres d’hôtel, la location de voitures, les services de parking ou les services de Security Fast Track à l’aéroport) sur notre site Web ou autre média, ces services sont opérés par des tiers et les conditions du prestataire de services tiers s’appliqueront.
+En cas de promotion des services d’un tiers autres que le transport aérien (comme le transfert ferroviaire et par autocar, la réservation de chambres d’hôtes ou d’hôtel, la location de voitures, les services de parking ou les services de Fast Track à l’aéroport), ces services sont fournis par le tiers au prix affiché sur le site Internet de Ryanair et sont soumis aux conditions générales du tiers. Nous ne sommes responsables d’aucun aspect de leurs services. En particulier, nous ne sommes pas responsables des retards, inexactitudes ou absence d’informations.
 
 12.2
 
