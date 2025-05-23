@@ -146,12 +146,12 @@
     
 * [TENDANCES](#)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    * [Maillots de bain : les modèles les plus tendances](https://www.printemps.com/fr/fr/edito-style-maillots-de-bain-tendances-ete)
+    * [Flower power](https://www.printemps.com/fr/fr/le-pouvoir-des-fleurs)
+    * [Les looks de festivals](https://www.printemps.com/fr/fr/edito-style-looks-de-festivals)
+    * [En transparence](https://www.printemps.com/fr/fr/tout-en-transparence-femme)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
-    * [Bombers](https://www.printemps.com/fr/fr/bomber)
-    * [Un air de campagne](https://www.printemps.com/fr/fr/countryside)
-    * [Le daim](https://www.printemps.com/fr/fr/daim)
-    * [Ski : rester stylé(e) sur les pistes](https://www.printemps.com/fr/fr/edito-style-ski-hiver-look)
-    * [Cabas XXL](https://www.printemps.com/fr/fr/sacs-xl-femme)
+    * [Les sandales de l'été 2025](https://www.printemps.com/fr/fr/edito-style-sandales-tendances-ete)
 * [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-femme)
     
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
