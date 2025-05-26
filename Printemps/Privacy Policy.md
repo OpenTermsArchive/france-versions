@@ -1,40 +1,5 @@
 [**VENTES PRIVÉES**](https://www.printemps.com/fr/fr/ventes-privees-printemps) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps)
-    
-* [FEMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/Sacs)
-    * [Chaussures](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/Chaussures)
-    * [Vêtements](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/esp/V%C3%AAtements)
-    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Baskets)
-    * [Robes](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Robes)
-    * [Hauts](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Chemises/Tops+et+t-shirts)
-    * [Sandales & Mules](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Sandales/Mules)
-    * [Bijoux](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Bijoux)
-    * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme/cat0/Vestes/Tailleurs)
-
-* [HOMME](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    * [Luxe](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Vêtements](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/V%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/Chaussures)
-    * [Chemises](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Chemises)
-    * [Baskets](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Baskets)
-    * [T-shirts & Polos](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Tops+et+t-shirts)
-    * [Pantalons](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Pantalons)
-    * [Vestes](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/cat0/Vestes)
-    * [Accessoires](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme/esp/Accessoires)
-
-* [BEAUTÉ](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute)
-    * [\-25% dès 89€ au panier](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute)
-    * [Parfums](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Maquillage)
-    * [Accessoires](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Accessoires)
-    * [Coffrets](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute/esp/Coffret+%26+Palette)
-
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -80,9 +45,9 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
-
-* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vp-femme)
+*  [![](https://media-cdn.printemps.com/image/80/6/8026806.jpg) LE TANNEUR](https://www.printemps.com/fr/fr/le-tanneur?ap_source=anico&ap_medium=nav-new&ap_campaign=vignette_letanneur)
     
+
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -170,11 +135,7 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
-*  [![](https://media-cdn.printemps.com/image/76/6/7969766.jpg) VAGABOND SHOEMAKERS](https://www.printemps.com/fr/fr/vagabond-femme?ap_source=anico&ap_medium=nav-femme&ap_campaign=vignette_vagabond)
-    
 
-* [VENTES PRIVÉES : jusqu'à -40%](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme?ap_source=anico&ap_medium=navigation&ap_campaign=avp-homme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -256,11 +217,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-* [![](https://media-cdn.printemps.com/image/67/1/7969671.jpg)](https://www.printemps.com/fr/fr/ventes-privees-printemps-homme)
-    
 
-* [VENTES PRIVÉES : -25% dès 89€ d'achats](https://www.printemps.com/fr/fr/ventes-privees-printemps-beaute?ap_source=anico&ap_medium=navigation&ap_campaign=avp-beaute)
-    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
@@ -327,8 +284,6 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/76/5/7969765.jpg) DRIES VAN NOTEN](https://www.printemps.com/fr/fr/dries-van-noten-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_dries%20van%20noten)
-    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
