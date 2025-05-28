@@ -87,7 +87,6 @@ Il peut, toutefois, exister des différences entre le stock réel et le stock th
 La différence entre l'information mentionnée sur le Site et la réalité des stocks ne saurait engager la responsabilité du Vendeur ni ouvrir un quelconque droit à réparation au profit de l'Internaute. Un Internaute localisé hors du Territoire a la possibilité de vérifier la disponibilité des Produits dans les Points de vente de son choix, sous réserve que ce Point de vente soit situé sur le Territoire.  
   
   
-3.2 En cas d’indisponibilité d’un produit sur le Site, l’Internaute peut utiliser la fonctionnalité « alerte stock ». L’alerte stock est disponible sur la Fiche de chaque produit. Elle permet à l’Internaute, si un produit choisi est indisponible, de se connecter à son Espace-Client afin de recevoir un email lorsque le produit sera de nouveau disponible à la vente sur le Site (ci-après « Alerte stock »).      
  
 
 ##### 4\. Prix
