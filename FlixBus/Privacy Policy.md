@@ -273,8 +273,6 @@ Nos prestataires de services de paiement sont les suivants :
 
 La base juridique est l’article 6, paragraphe 1(b) ou (f) du RGPD.
 
-Pour certaines réservations, nous utilisons également les technologies et services de Distribusion Technologies GmbH pour le traitement (Wattstrasse 10, 13355 Berlin, téléphone : +49-30-3465507-50, e-mail : [dataprotection@distribusion.com](mailto:dataprotection@distribusion.com)).
-
 ### 2.1.4 Transmission aux autorités
 
 Si vous voyagez dans l’espace Schengen, nous sommes tenus de transmettre à l’avance vos données d’identification (prénom et nom, sexe, date de naissance, citoyenneté, pays de résidence, type de document et numéro) à l’autorité européenne responsable, qui vérifiera la légitimité de votre entrée. Si vous ne fournissez pas les données requises, l’entrée dans l’espace Schengen pourra être refusée. Les données seront supprimées après leur transmission. La base juridique de la collecte et de la transmission des données est l’art. 6 par. 1 al. c du RGPD.
