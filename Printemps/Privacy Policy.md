@@ -436,8 +436,9 @@
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
 
-* [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
-    * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+* [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Dolce vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
+    * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
 
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     * [Voir tous nos restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
