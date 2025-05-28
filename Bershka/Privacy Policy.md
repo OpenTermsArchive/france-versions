@@ -76,6 +76,8 @@ comprendre l’utilisation que nous ferons de vos données personnelles et les d
 
 disposez concernant celles-ci.
 
+2
+
 
 
 AVANT DE COMMENCER...
@@ -89,8 +91,6 @@ AVANT DE COMMENCER...
 indépendamment du canal ou du moyen (en ligne ou physiquement) que vous utilisez pour interagir avec
 
 nous.
-
-2
 
 
 
@@ -156,7 +156,7 @@ BERSHKA (ci-dessous, « BERSHKA FRANCE ») :
 
 
 
-o Adresse postale: 80, Avenue des Terroirs de France, 75012 Paris, France.
+o Adresse postale: 22, Rue Bergère – 75009, Paris, France.
 
 o E-mail du Délégué à la protection des données : dataprotection@bershka.com
 
@@ -180,6 +180,10 @@ avons établi des directives et nous assurons la prise en charge du traitement e
 
 personnelles.
 
+3
+
+
+
 2. POUR QUOI UTILISONS-NOUS VOS DONNÉES PERSONNELLES ?
 
 
@@ -199,8 +203,6 @@ le pays depuis lequel vous interagissez avec nous, les données de contact, etc.
 ▪ l’information économique et de paiement (par exemple, vos données de paiement ou de carte de
 
 paiement, l’information sur vos achats, vos commandes, vos retours, etc.) ;
-
-3
 
 
 
@@ -310,6 +312,14 @@ mail/numéro de téléphone (une autorisation peut être requise) seront
 
 importés depuis votre compte du réseau social ou du partenaire. En utilisant
 
+4
+
+
+
+FINALITÉ En savoir plus
+
+
+
 cette option de connexion, ces tiers pourront nous transmettre des
 
 informations complémentaires relatives à votre profil, notamment votre
@@ -329,14 +339,6 @@ concernant votre activité sur le réseau social ou avec le partenaire. Dans
 tous les cas, nous vous recommandons de vérifier la configuration de vos
 
 paramètres de confidentialité et les politiques de confidentialité du
-
-4
-
-
-
-FINALITÉ En savoir plus
-
-
 
 partenaire ou réseau social afin de savoir comment ces tiers traitent vos
 
@@ -444,6 +446,12 @@ fournir les services liés à la fonctionnalité Personal Tailoring,
 
 selon la disponibilité de ces options à chaque moment.
 
+5
+
+
+
+FINALITÉ En savoir plus
+
 
 
 ▪ À des fins de facturation et pour mettre à votre disposition les tickets
@@ -467,14 +475,6 @@ clients dans les magasins physiques.
 ▪ Pour être en mesure de vous proposer des services personnalisés
 
 spécifiques (tels que la recherche d’articles, la réservation d’une
-
-5
-
-
-
-FINALITÉ En savoir plus
-
-
 
 cabine d’essayage, etc.) disponibles dans certains magasins
 
@@ -584,6 +584,14 @@ exemple, sur la base de votre historique d’achat et de navigation
 
 cliqué), nous vous proposerons des produits que nous pensons
 
+6
+
+
+
+FINALITÉ En savoir plus
+
+
+
 pouvoir vous intéresser et, si vous êtes un utilisateur inscrit, nous
 
 vous fournirons la fonctionnalité de « récupération du panier ».
@@ -605,12 +613,6 @@ fournies dans chaque communication. Si vous ne voulez plus
 recevoir de notifications push, vous pouvez désactiver cette
 
 option sur votre dispositif.
-
-6
-
-
-
-FINALITÉ En savoir plus
 
 
 
@@ -712,6 +714,14 @@ mail ou le numéro de téléphone associés à votre compte, vous
 
 effectuez un achat en tant qu’invité, ou lorsque nous associons les
 
+7
+
+
+
+FINALITÉ En savoir plus
+
+
+
 informations qui sont collectées automatiquement (comme les
 
 adresses IP et MAC ou les métadonnées) avec les informations
@@ -733,14 +743,6 @@ la réalisation de concours ou l’envoi de votre liste d’articles
 conservés à l’adresse électronique que vous nous indiquerez). En
 
 participant à une action promotionnelle, vous nous autorisez à
-
-7
-
-
-
-FINALITÉ En savoir plus
-
-
 
 traiter les données fournies en fonction de chaque action
 
@@ -806,6 +808,8 @@ Le fondement juridique qui nous permet de traiter vos données personnelles dép
 
 celles-ci sont traitées, conformément à ce qui est expliqué dans le tableau suivant :
 
+8
+
 
 
 Finalité Fondement
@@ -847,12 +851,6 @@ social, le motif de notre fondement pour traiter vos données est le
 consentement donné au moment d’autoriser la cession de vos données
 
 depuis le réseau social.
-
-8
-
-
-
-Finalité Fondement
 
 
 
@@ -926,6 +924,12 @@ activités frauduleuses sont découragées et détectées lorsqu'elles
 
 surviennent.
 
+9
+
+
+
+Finalité Fondement
+
 
 
 3\. Service client Nous considérons que nous avons un intérêt légitime à répondre aux
@@ -963,12 +967,6 @@ Dans certains cas, en lien avec des réclamations de produit, le traitement
 de données pourrait être nécessaire afin de garantir l’intérêt public au sein
 
 de la santé publique.
-
-9
-
-
-
-Finalité Fondement
 
 
 
