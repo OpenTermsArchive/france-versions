@@ -290,7 +290,7 @@ Pour rappel, le Vendeur accepte, pour l’achat d’une carte cadeau, uniquement
     Alma deviendra alors son unique interlocuteur pour toute question ou demande relative à ce mode de paiement.   
     Toute résiliation des présentes qui lient le Vendeur et l’Internaute, entraine la résiliation des conditions contractuelles entre Alma et l’Internaute.
     
-* **Par Klarna en 3 fois sans frais (si disponible)**  
+* **Par Klarna en 3 fois sans frais**  
     L’Internaute devra faire le nécessaire afin d’obtenir tout renseignement sur cette modalité de paiement, pour l’apprécier au regard de ses propres capacités de remboursement et ainsi éviter un risque de surendettement.  
     Valable uniquement pour une demande de paiement en 3x sans frais d’un montant compris entre 50 euros et 3 000 euros ;   
     L’Internaute doit se créer / s’identifier à son compte auprès de la société Klarna.  
