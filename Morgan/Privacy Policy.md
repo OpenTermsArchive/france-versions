@@ -80,6 +80,8 @@ a) Les traitements dont le fondement légal repose sur l'exécution d'un contrat
 \- la gestion de l’offre « Alerte stock ».  
   
 b) Les traitements dont le fondement légal repose sur l’intérêt légitime du Groupe sont :  
+\- l’envoi de prospections commerciales, personnalisées ou non, auprès des Clients sur des produits ou services de la Marque analogues à ceux préalablement achetés par les Clients, via l’envoi d’emails sur sa messagerie électronique, de SMS ou de messages whatsapp sur son numéro de téléphone,​
+
 \- la gestion de la prospection commerciale, de sondages, et de tests produits,  
 \- l’élaboration de statistiques commerciales ;  
 \- la gestion de la vidéo protection,  
@@ -88,7 +90,10 @@ b) Les traitements dont le fondement légal repose sur l’intérêt légitime d
 \- Lutte contre la fraude (au parrainage, au paiement,...)  
 \- « sécurisation du site internet » (Cloudflare Turnstile).  
   
-c) Les traitements dont le fondement légal repose sur le consentement du Client/Prospect sont :  
+c) Les traitements dont le fondement légal repose sur le consentement du Client/Prospect sont :
+
+\- l’envoi de prospections commerciales, personnalisées ou non, auprès des Clients sur des produits ou services de la Marque analogues à ceux préalablement achetés par les Clients, via l’envoi d’emails sur sa messagerie électronique, de SMS ou de messages whatsapp sur son numéro de téléphone,​
+
 \- la géolocalisation utilisable pour identifier le magasin le plus proche du Client/Prospect. Cette fonctionnalité ne s’applique que lorsque le Client/Prospect l’active via son terminal de la manière suivante : (1) Pour Firefox : cliquez ici ; (2) Pour Internet Exploreur : aller dans « option internet », onglet « Confidentialité », cocher la mention « Ne jamais autoriser les sites Web à demander votre emplacement physique » ; (3) Pour Chrome : aller dans la barre de navigation cliquer sur le logo, dans le menu déroulant de « Localisation », choisir entre les 3 options possibles.  
 \- la gestion des newsletters  
 \- la gestion des opérations relatives aux cessions d’entreprises.  
