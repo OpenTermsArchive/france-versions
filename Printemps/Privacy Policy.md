@@ -28,7 +28,7 @@
 * [MARQUES](#)
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
-    * [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
+    * [Coach](https://www.printemps.com/fr/fr/coach)
     * Maison 123
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
@@ -1825,8 +1825,9 @@ Par ailleurs, d'autres destinataires peuvent avoir accès à tout ou partie de v
 
 * les services de police et les autorités judiciaires notamment en cas de réquisition judiciaire
 * si nous cédons ou transférons tout ou partie de notre entreprise ou de nos actifs, par exemple dans le cadre d'une fusion ou d'une vente, nous pourrons transférer vos données à caractère personnel à l'acquéreur potentiel de cette activité ou de ces actifs. Par conséquent, l'acquéreur agira comme le nouveau Responsable de Traitement, et sa politique de protection des données à caractère personnel régira le traitement de vos données à caractère personnel. Par ailleurs, nous vous informons que les opérations de cette nature peuvent légitimement impliquer la réalisation d'audits préalables par des professionnels et moyennant des garanties et des mesures de sécurité appropriées afin d'assurer le respect de la confidentialité des données auxquelles ils accèdent. En cas de réalisation effective d'une opération de transmission ou de cession de nos actifs contenant vos données à caractère personnel, nous mettrons en ?uvre des procédures d'information permettant de garantir l'exercice des droits dont vous disposez sur vos données à caractère personnel.
+* Lorsque vous donnez votre consentement sur notre site, certains partenaires, tels que Google, peuvent traiter vos données personnelles (ex. : adresse IP, identifiants de navigation) pour des finalités comme la publicité personnalisée ou la mesure d’audience.
 
-  
+Pour comprendre comment Google utilise vos données, veuillez consulter : [**https://business.safety.google/privacy/**](https://business.safety.google/privacy/)
 
 6\. PRISE DE DÉCISION INDIVIDUELLE AUTOMATISÉE
 
