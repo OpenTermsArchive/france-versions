@@ -28,7 +28,7 @@
 * [MARQUES](#)
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
-    * [Dyson](https://www.printemps.com/fr/fr/univers-dyson)
+    * [Coach](https://www.printemps.com/fr/fr/coach)
     * Maison 123
     * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
