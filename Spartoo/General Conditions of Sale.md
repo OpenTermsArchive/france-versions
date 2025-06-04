@@ -4,11 +4,12 @@ Conditions Générales de vente
 1 Identification du vendeur
 ---------------------------
 
-Mise à jour le 31/07/2023  
+Mise à jour le 04/06/2025  
+  
 **Société SPARTOO**  
 Société Anonyme au capital de 364 561,76 euros, ayant son siège social au 16 rue Henri Barbusse 38100 GRENOBLE, FRANCE immatriculée sous le numéro 489 895 821 au RCS Grenoble.  
   
-Service Client :  
+**Service Client**  
 Tél : 01-85-09-79-58  
 Email : adriana@spartoo.com  
 Lundi-vendredi : 8H30-22H  
@@ -54,14 +55,9 @@ Les prix sont présentés en euros toutes taxes comprises pour la France Métrop
 Les tarifs tiennent compte d’éventuelles réductions qui seraient consenties sur les sites spartoo.fr/spartoo.com, **hors Produits Partenaires**. Ces prix sont fermes et non révisables pendant leur période de validité, telle qu’indiqué sur le site spartoo.com, SPARTOO se réservant le droit, hors cette période de validité, de modifier les prix à tout moment. Ils ne comprennent pas les frais de traitement, d’expédition, de transport et de livraison qui pourront être facturés en supplément, si cela est spécifié ainsi sur les sites. Le paiement demandé au Client correspond au montant total de l’achat, y compris ces frais.  
   
 **Pour les Produits partenaires, le Client doit consulter les conditions générales de vente du Partenaire concernant le prix.**  
-  
 Une facture est établie par SPARTOO **ou ses Partenaires dans le cadre d’un achat de « Produits Partenaires »**. Elle est téléchargeable sur le site internet où la commande a été effectuée.
 
-  
-
 ### TVA et droit de douane pour Andorre, la Suisse, les DROM-COM et les autres pays francophones.
-
-  
 
 Le prix des produits pour les DROM-COM, Andorre pour la Suisse et les autres pays francophones est indiqué Hors Taxes. Toute commande passée sur le Site et livrée en Suisse, en Andorre ou dans les DROM-COM et les autres pays francophones pourra être soumise à des taxes éventuelles et à des droits de douane qui sont imposés lorsque le colis parvient à sa destination. Ces droits de douane et ces taxes éventuels liés à la livraison d'un article sont à la charge du Client et relèvent de sa responsabilité.  
   
@@ -95,8 +91,6 @@ Il appartient au Client de vérifier l’exactitude de la commande et de signale
 
   
 
-  
-
 #### 7.2.1 : Paiement usuel
 
   
@@ -109,8 +103,8 @@ Il appartient au Client de vérifier l’exactitude de la commande et de signale
 #### 7.2.2 : Autres moyens de paiement
 
   
-Ne sont pas acceptées : les cartes American Express, les cartes exclusivement de retrait, les cartes à autorisation systématique (Electron, Maestro, Cirrus…), les cartes virtuelles (e-carte) et les cartes prépayées.* Paiement par virement (également appelé transfert bancaire")  
-      
+Ne sont pas acceptées : les cartes American Express, les cartes exclusivement de retrait, les cartes à autorisation systématique (Electron, Maestro, Cirrus…), les cartes virtuelles (e-carte) et les cartes prépayées.  
+* Paiement par virement (également appelé transfert bancaire)  
     Il suffit de sélectionner "transfert bancaire" et de confirmer la commande à l'étape numéro 5. Un email sera envoyé comportant les coordonnées bancaires de SPARTOO et un rappel du montant de la commande, avec un numéro unique de transaction à préciser à la banque lorsque le virement sera effectué. La commande sera préparée une fois le virement bancaire reçu (il faut compter environ 5 jours ouvrés, en fonction des délais inter-bancaires).
 * Paiement par Cado Carte  
     Le paiement par cado carte est possible. Le client devra rentrer les numéros de sa cado carte et sa date d'expiration comme pour un règlement par carte bancaire. Pour ce mode de paiement, le montant de la commande doit être égal ou inférieur au montant de la cado carte, le Client pourra utiliser le solde pour une prochaine commande dans le délai de validité de la cado carte.
@@ -131,11 +125,8 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
     La carte bancaire utilisée pour le règlement ne doit pas expirer dans les 4 mois à venir à compter de la première mensualité. Dans un tel cas, la commande sera annulée. Le paiement en 3 fois ne sera pas possible. Il faudra alors procéder par paiement normal en carte bleue ou par Paypal.  
       
     En cas de rupture totale sur une commande payée en trois fois, la commande est annulée, le Client est remboursé des sommes versées y compris les frais de dossier de 5 euros et les échéances sont annulées.
-  
 * Paiement par Bancontact/Mistercash (Belgique)  
     Le paiement se fait en ligne, en indiquant votre numéro de carte et sa date d’expiration dans la fenêtre dédié Bancontact/Mistercash. Ensuite, le Client n’a plus qu’à suivre les instructions pour sécuriser son paiement. Ainsi, les informations financières du Client ne sont jamais communiquées à SPARTOO.
-  
-  
 * Paiement par Klarna  
     Le paiement peut se faire par Klarna. Klarna est un fournisseur de services, offrant au client un service de crédit pour ses achats. Klarna propose un paiement en trois fois sans frais.  
       
@@ -156,15 +147,19 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
     Une fois le paiement effectué, le client reçoit un mail de confirmation de Klarna et un mail de confirmation de Spartoo. Le Client peut suivre les paiements effectués et l’échéancier des paiements via l’application KLARNA.  
       
     Pour toutes questions supplémentaires, le service client de Klarna est à la disposition du Client.  
-      
-      
     
 
+  
+
 ### 7.3 : Défaut de paiement
+
+  
 
 SPARTOO se réserve le droit de refuser d'effectuer une livraison ou d'honorer une commande émanant du Client qui n'aurait pas réglé totalement ou partiellement une commande précédente ou avec lequel un litige de paiement serait en cours d'administration ou s'il présente un risque de fraude.  
   
 Tout rejet de carte bleue, tout rejet de paiement en 3 fois, tous cas d’opposition sur carte bleue, tout litige abusif avec Paypal pourront donner lieu à une procédure de recouvrement par la société SPARTOO.
+
+  
 
 ### 7.4 : Vérification des paiements
 
@@ -178,9 +173,9 @@ Toute réception de documents non conformes entrainera également l'annulation d
   
 **Pour la commande de Produits Partenaires, les partenaires ont leurs propres exigences, dont SPARTOO ne peut être déclaré responsable.**
 
-### 7.5 : Sécurité des paiements
-
   
+
+### 7.5 : Sécurité des paiements
 
 Afin d'assurer la sécurité des paiements, le site SPARTOO.COM utilise le service de paiement sécurisé de la banque CIC. Ce service intègre la norme de sécurité SSL. Les données confidentielles (le numéro de carte bancaire à 16 chiffres, la date d'expiration et le cryptogramme CVX) sont directement transmises cryptées sur le serveur de la banque sans transiter sur les supports physiques des serveurs de spartoo.com. Lorsque la commande est validée, la demande de paiement est routée en temps réel sur le gestionnaire de télépaiement sécurisé. Celui-ci adresse une demande d'autorisation au réseau carte bancaire. Le gestionnaire de télépaiement délivre un certificat électronique qui vaudra preuve du montant et de la date de la transaction conformément aux dispositions des articles 1366 et suivants du code civil.
 
@@ -198,30 +193,22 @@ Pour passer commande à nouveau, le Client de spartoo.com devra se connecter en 
 9 Livraison opérée par SPARTOO
 ------------------------------
 
+**Pour les produits partenaires, le Client doit consulter les Conditions Générales de Vente du Partenaire concernant sa politique de livraison. Les produits partenaires ne sont pas livrés en DROM-COM.**  
   
-**Pour les Produits partenaires, le Client doit consulter les conditions générales de vente du Partenaire concernant sa politique de livraison. Les Produits partenaires ne sont pas livrés en DROM-COM.**  
-  
-Les délais de livraisons indiqués ont comme référence la date de commande et sont présentés en jours ouvrés ( samedi, dimanche et jours fériés ne sont pas pris en compte dans le calcul du délai de livraison ). En cas de force majeure, SPARTOO ne saurait être responsable du retard de livraison.  
+Les délais de livraison indiqués ont comme référence la date de commande et sont exprimés en jours ouvrés (samedi, dimanche et jours fériés ne sont pas pris en compte dans le calcul du délai de livraison). En cas de force majeure, SPARTOO ne saurait être tenu responsable du retard de livraison.  
+
+### 9.1 : Pour contester une livraison
 
   
 
-### 9.1 : Pour contester une livraison:
+Le Client doit contacter, dans un délai de 7 jours calendaires, le Service Client, soit par mail à l'adresse : [adriana@spartoo.com](mailto:adriana@spartoo.com), soit par téléphone au numéro : 01 85 09 79 58. Ce délai de 7 jours débute à partir de la date de livraison inscrite sur le lien de suivi.  
+  
+Concernant les livraisons en point locker et les livraisons sur présentation de code sécurisé, aucune contestation ne sera acceptée.  
+  
+Pour les autres types de livraisons, un Formulaire de Contestation de Livraison lui sera remis. Le client devra remplir et renvoyer ce formulaire dans un nouveau délai de 7 jours calendaires.  
 
-  
-  
+**Aucune contestation ne sera acceptée dans le cas où ces deux délais ne seraient pas respectés.**
 
-  
-Le client doit contacter dans un délai de 7 jours calendaire le service client,soit par mail à l'adresse : adriana@spartoo.com soit par téléphone au numéro : 01 85 09 79 58. Ce délai de 7 jours débute à partir de la date de livraison inscrite sur le lien de suivi.  
-  
-  
-Concernant les livraisons en point locker et les livraisons sur présentation de code sécurisé aucune contestation ne sera acceptée.  
-  
-Pour les autres types de livraisons, un formulaire de contestation de livraison lui sera remis.  
-Le client devra remplir et renvoyer ce formulaire dans un nouveau délai de 7 jours calendaire.  
-  
-**Aucune contestation ne sera acceptée dans le cas ou ces deux délais ne seraient pas respectés.**
-
-  
   
 
 ### 9.2 : Modalités de livraisons
@@ -344,17 +331,18 @@ Délai : Livraison garantis en 8 jours ouvrés
 | 4.99 € si inférieur à 80.00 € d'achats  <br>Gratuit à partir de 80.00 € d'achats | 4.99 € si inférieur à 40.00 € d'achats  <br>2.99 € entre 40.00 € et 60.00 € d'achats  <br>Gratuit à partir de 60.00 € d'achats |
 
   
+  
 DROM-COM  
+  
 
 Zone 1 : Guadeloupe, Martinique, La Réunion, Guyane, Saint Pierre et Miquelon, Saint Barthélémy & Saint Martin  
 Zone 2 : Mayotte, Nouvelle Calédonie, Polynésie Française & Wallis et Futuna  
-  
-  
-Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client(cf point 6).  
-Délai : 9 à 12 jours.  
-**Livraison à domicile par la Poste se fait par des zones**  
 
-Coût de la livraison:
+Le client recevra son colis avec une liasse jointe comprenant la facture et le document administratif CN23. Des taxes de dédouanement peuvent être demandées au client (cf. point 6), et le délai de livraison peut varier de 9 à 12 jours.  
+  
+**La livraison à domicile par la Poste se fait par zones.**  
+
+Coût de la livraison :
 
   
 
@@ -410,6 +398,8 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
 
 ### 10.1 : Les moyens pour faire un retour sont les suivants :
 
+  
+
 \- France Métropolitaine, Corse et Monaco : retour gratuit par réseau Relais Colis ou Mondial Relay. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Belgique : retour gratuit avec BPost. Offert par SPARTOO. Tous les autres modes de retour seront à la charge du client.  
 \- Luxembourg : Le mode de retour seront à la charge du client.  
@@ -421,6 +411,8 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
   
 
 ### 10.2 : La procédure de retour est la suivante :
+
+  
 
 **Etape 1 : Compte client**  
 Connectez-vous à votre compte SPARTOO avec votre adresse e-mail et votre mot de passe et allez dans la rubrique « mes retours » afin de remplir le formulaire de demande de retour.
@@ -438,16 +430,26 @@ Le retour est traité sous 7 à 10 jours ouvrés.
 11 Traitements des colis non livrés par notre prestataire de transport
 ----------------------------------------------------------------------
 
-### 11.1 : Les retours pour cause de NPAI:
+### 11.1 : Les retours pour cause de NPAI :
+
+  
 
 Il s'agit des colis retournés par le prestataire chargé de la livraison sous la mention : N'habite Pas à l'Adresse Indiquée. Après réception et acceptation du colis par SPARTOO, il prendra contact avec le client afin de lui renvoyer sa commande si le produit est encore disponible ou de procéder au remboursement de la commande selon le souhait du client.  
 SPARTOO se réserve le droit de procéder au remboursement de la commande et non au renvoi de celle-ci dans le cas où plusieurs retours pour cause de NPAI seraient identifiés.
 
-### 11.2 : Les retours pour cause de "NON RECLAME":
+  
+
+### 11.2 : Les retours pour cause de "NON RECLAMÉ" :
+
+  
 
 Il s'agit des colis qui n'ont pas été réclamés par le client au bureau de Poste, ou au Relais dans les délais impartis. Après réception et acceptation du colis par SPARTOO, il prendra contact avec le client afin de lui renvoyer sa commande si le produit est encore disponible ou de procéder au remboursement de la commande selon le souhait du client. SPARTOO se réserve le droit de procéder au remboursement de la commande et non au renvoi de celle-ci dans le cas où plusieurs retours pour cause de "NON RECLAME" seraient identifiés.
 
-### 11.3 : Les retours pour cause de "REFUSE":
+  
+
+### 11.3 : Les retours pour cause de "REFUSE" :
+
+  
 
 Il s’agit des colis dont le client a refusé la livraison. Après réception et acceptation du colis par SPARTOO, un bon d'achat sera crédité sur son compte client dans les 72h suivant la réception du colis. Le client peut demander l'annulation de son bon d'achat et son remboursement directement sur l’ espace "SERVICE CLIENT" du site SPARTOO.COM.  
   
@@ -509,7 +511,6 @@ Pour lutter contre les fraudes, SPARTOO a mis en place un dispositif qui peut l�
 (III) Fournir vos données personnelles sur demandes d’autorités judiciaires en cas de dépôt de plainte ou réquisition judiciaire.
 
   
-  
 
 ### 14.4 : Destinataires des données collectées
 
@@ -535,7 +536,6 @@ Pour plus d’information, veuillez-vous référer à notre politique de protect
 Lorsque vous cochez la case "Mémoriser", vos données bancaires pourront être réutilisées pour vos futures commandes.
 
   
-  
 
 ### 14.6 : Sécurité
 
@@ -543,7 +543,6 @@ Lorsque vous cochez la case "Mémoriser", vos données bancaires pourront être 
 
 Nous vous informons prendre toutes précautions utiles pour préserver la sécurité de vos données à caractère personnel et notamment, empêcher qu’elles soient déformées, endommagées ou que des tiers non autorisés y aient accès. Le cryptage et l’anonymisation sont deux des moyens utilisés.
 
-  
   
 
 ### 14.7 : Cookies
@@ -558,15 +557,12 @@ L’utilisation de cookies, propres ou tiers, n’étant pas nécessaire au fonc
 Certains cookies appelés « cookie de publicité » permettent de suivre la navigation du Client et d’enregistrer les produits vus, puis dans un délai maximum de 90 jours de présenter des bannières publicitaires en rapport, ou non, avec la navigation passée. Ces cookies sont liés au profil interne du Client (sans pouvoir l’identifier). Ils nécessitent également votre consentement exprès de la même façon qu’indiquée ci-dessus.  
 
   
-
-  
 14.8 : Consentement  
 
 En cliquant sur Continuer au moment de la création de votre compte, il est expressément écrit qu’ « en vous inscrivant, vous bénéficiez de tous nos bons plans en exclusivité et acceptez notre politique de protection des données ». Lorsque vous choisissez de communiquer vos données à caractère personnel sur le Site en cliquant sur Continuer ou selon le point 4 ci-dessus décrit, vous donnez expressément votre consentement pour la collecte et l’utilisation de vos données personnelles conformément à ce qui est énoncé à la présente Charte et à la législation en vigueur.
 
   
-  
-**14.9 : Droit d’accès et de rectification**  
+14.9 : Droit d’accès et de rectification  
 
   
 Conformément au règlement UE 2016/679, vous bénéficiez de plusieurs droits, à savoir :  
@@ -586,8 +582,6 @@ Vous pouvez, si nécessaire, introduire une réclamation auprès d’une autorit
   
 
 ### 14.10 : Réciprocité
-
-  
 
 Le Client s’engage, de son côté, à respecter, lors de toute collecte de données ou communication de données provenant de la société SPARTOO de ne pas les divulguer et de ne les conserver qu’à son usage personnel. La société SPARTOO se garde le droit de refuser de lui communiquer les données, comme de demander au Client de les supprimer.
 
@@ -657,7 +651,7 @@ Ils ne sont pas cumulables avec d'autres promotions ou d'autres coupons de rédu
 
 Si après avoir acheté un produit sur notre site, le client trouve une offre équivalente à un prix inférieur, frais de port inclus, sur un autre site Internet français disposant d'un système de paiement en ligne, SPARTOO vous rembourse 2 fois la différence de prix.  
   
-**Le remboursement de la différence de prix est soumis à la réunion des conditions suivantes** :  
+**Le remboursement de la différence de prix est soumis à la réunion des conditions suivantes :**  
 \- Le prix signalé comme inférieur doit être frais de port inclus,  
 \- Le prix signalé comme inférieur ne doit bénéficier d’aucune offre promotionnelle particulière et,  
 \- Les conditions de livraison doivent être identiques (article en stock, expédition au plus tard dans la journée qui suit la commande, proposition d’au moins une livraison gratuite sur le site )et,  
@@ -667,13 +661,13 @@ Si après avoir acheté un produit sur notre site, le client trouve une offre é
 \- Le règlement doit se faire par un système de paiement en ligne et,  
 \- L’offre est limitée à un remboursement par personne et par article acheté chez Spartoo.com  
   
-**Sont exclus de la Garantie Prix Bas:**  
+**Sont exclus de la Garantie Prix Bas :**  
 \- les produits de déstockage, ou soldés  
 \- les produits vendus sur les sites d'enchères , ou de petites annonces ou les sites-vitrine ou les sites de ventes-privées sites-vitrine  
 \- les produits vendus et expédiés par nos partenaires marchands  
 \- les livraisons hors de France Métropolitaine  
   
-**Modalité d’exercice de la Garantie du prix le plus bas**  
+**Modalité d’exercice de la Garantie du prix le plus bas :**  
 Dans les 5 jours suivant son achat, le client doit envoyer sa demande à Spartoo en utilisant le formulaire de contact Service Client, en respectant la procédure suivante :  
 \- indication dans son message de son numéro de commande Spartoo  
 \- transmission de l’adresse URL du site sur lequel est vendu l’article moins cher ainsi que de l’adresse URL de la fiche produit concernée.  
@@ -709,11 +703,11 @@ Cette dernière disposition ne s’applique pas pour la Suisse, Andorre, Monaco 
 22 Garantie
 -----------
 
-**Pour la France, le client peut agir en garantie légale de conformité.  
+**Pour la France, le client peut agir en garantie légale de conformité.**  
 \-Ainsi, il bénéficie d'un délai de deux ans à compter de la délivrance du bien pour agir ;  
 \-il peut choisir entre la réparation ou le remplacement du bien, sous réserve des conditions de coût prévues par l'article L. 217-9 du code de la consommation ;  
 \-il est dispensé de rapporter la preuve de l'existence du défaut de conformité du bien durant les vingt-quatre mois.  
-Pour rappel, la garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie. Egalement, le client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du code civil et dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du code civil.**  
+Pour rappel, la garantie légale de conformité s'applique indépendamment de la garantie commerciale éventuellement consentie. Egalement, le client peut décider de mettre en œuvre la garantie contre les défauts cachés de la chose vendue au sens de l'article 1641 du code civil et dans cette hypothèse, il peut choisir entre la résolution de la vente ou une réduction du prix de vente conformément à l'article 1644 du code civil.  
   
 Pour la Belgique, la garantie légale de conformité s’applique à compter de la réception du produit pour une période de 2 ans, sous un délai de 2 mois à la découverte du défaut de conformité.  
 Pour le Luxembourg, la garantie légale de conformité doit être engagée dans un délai raisonnable lors de la découverte du défaut de conformité sur une période de 2 années à compter de la réception du produit. Pour ces 2 pays, SPARTOO doit apporter dans les 6 premiers mois la preuve de l’absence de défaut de conformité, puis ce sera au client d’apporter la preuve du défaut de conformité dans les 18 mois suivants.  
@@ -730,7 +724,7 @@ En cas question ou de doute concernant les garanties dues par le vendeur, nous v
 23 Service NEW LIFE – Conditions Générales d’Utilisation
 --------------------------------------------------------
 
-### 1\. Description. Objet
+### 1\. Description
 
   
 
@@ -984,7 +978,7 @@ Les données échangées entre vendeur et acheteur doivent être utilisées par 
   
 La gestion des données à caractère personnel des utilisateurs et membres NEW LIFE est, en dehors de ce qui suit, strictement identique à celle en cours et applicable à l’utilisation et à l’enregistrement en qualité de membre au sein du site SPARTOO (article 14 des CGV SPARTOO).  
 Les dispositions applicables à la collecte, aux finalités, à la lutte contre la fraude, aux destinataires, aux durées de conservation, à la sécurité, aux cookies, au consentement, et aux droits d’accès, de rectification, de suppression, à l’oubli, et à la portabilité, sont applicables aux membres NEW LIFE de façon identique à celles qui sont applicables aux membres SPARTOO.  
-Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et NEW LIFE.  
+Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et NEW LIFE.
 
   
 
