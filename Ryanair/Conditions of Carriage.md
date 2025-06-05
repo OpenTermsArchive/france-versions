@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 09 May 2025
+### Date d’entrée en vigueur : 05 juin 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 09 May 2025**
+**Date d’entrée en vigueur : 05 juin 2025**
 
   
 
@@ -305,43 +305,121 @@ Tous les passagers au départ d’un aéroport marocain pour n’importe quelle 
 
 **6.4**
 
-**6.4.1** Si vous n’êtes pas un citoyen de l’UE ou de l’EEE, vous devez faire vérifier vos documents de voyage et les faire tamponner au comptoir d’enregistrement Ryanair avant de passer les contrôles de sécurité de l’aéroport. Afin de conserver une trace des documents de visa nécessaires, nous pouvons donner à certains passagers la possibilité de télécharger les documents de visa requis au cours du processus d’enregistrement via notre application. Cela démontrera que vous avez emporté les bons documents au moment du départ, afin d’éviter les amendes ou les sanctions pénales pour avoir voyagé sans les documents requis.
+**6.4.1** Si vous n’êtes pas citoyen de l’UE ou de l’EEE, vous devez vérifier vos documents de voyage via l’application myRyanair pendant le processus d’enregistrement. Si la vérification est réussie, vous recevrez une carte d’embarquement valide pour le voyage et vous ne serez pas tenu de vous présenter au comptoir d’enregistrement de l’aéroport.
 
-**6.4.2** Si vous êtes citoyen de l’un des pays énumérés ci-dessous, vous pouvez opter pour une vérification de passeport en ligne pendant le processus d’enregistrement via l’application Ryanair. Toutefois, si cette option n’est pas disponible pour votre vol, vous devez faire vérifier vos documents de voyage au comptoir d’enregistrement de Ryanair.
+Si la vérification échoue en raison de problèmes techniques de la part de Ryanair, vos documents de voyage devront être vérifiés manuellement au comptoir d’enregistrement de Ryanair. Seuls pourront s’enregistrer gratuitement à l’aéroport les passagers qui auront épuisé le nombre requis de tentatives de vérification de leurs documents (c.-à-d. trois tentatives de vérification des documents de visa et une tentative de vérification du passeport) sans avoir pu terminer le processus. Les passagers qui n’ont pas réussi à vérifier leurs documents sur l’application avant la fermeture de l’enregistrement en ligne (c.-à-d. deux heures avant le départ) devront s’enregistrer et vérifier leurs documents de voyage à l’aéroport, avant la fermeture de l’enregistrement (soit 40 minutes avant le départ) et s’acquitter des frais d’enregistrement à l’aéroport applicables. Consultez notre tableau des frais ici. 
 
-Pays habilités à vérifier les passeports en ligne :
+La vérification des documents sur l’application myRyanair permet à Ryanair de conserver un registre des documents de visa requis présentés au point de départ, de démontrer ainsi la conformité aux exigences d’immigration et de réduire le risque d’amendes, de pénalités ou de sanctions pénales pour transport de passagers sans documents de voyage valides.
 
-* Argentine
-* Antigua-et-Barbuda, sauf pour les vols à destination du Maroc
-* Argentine
-* Australie
-* Bahamas, sauf pour les vols à destination du Maroc
-* Barbade, sauf pour les vols à destination du Maroc
-* Brésil
-* Canada
-* Chili, sauf pour les vols à destination du Maroc
-* Costa Rica, sauf pour les vols à destination du Maroc
-* Hong Kong
-* Japon
-* Macao S.A.R.
-* Malaisie, sauf pour les vols à destination d’Israël ou de la Serbie
-* Île Maurice, sauf pour les vols à destination du Maroc ou de l’Irlande
-* Mexique, sauf pour les vols à destination de la Turquie
-* Nouvelle-Zélande
-* Nicaragua, sauf pour les vols à destination du Maroc
-* Panama, sauf pour les vols à destination du Maroc ou de la Serbie
-* Paraguay, sauf pour les vols à destination du Maroc
-* Singapour
-* Corée du Sud
-* Taïwan, sauf pour les vols à destination du Maroc
-* Émirats arabes unis
-* États-Unis
-* Uruguay, sauf pour les vols à destination du Maroc
+**6.4.2** Si vous êtes citoyen de l’un des pays énumérés ci-dessous et que votre destination le permet, vous pouvez être éligible à la vérification de passeport via l’application lors de l’enregistrement au lieu de la vérification de visa. Cette exemption s’applique uniquement si vous ne voyagez pas vers une destination soumise à des restrictions (comme indiqué par pays) :
 
-Pour utiliser ce service, le passeport doit impérativement être :
+Pays permettant la vérification du passeport sur l’application :
 
-* Valide pendant au moins 6 mois au-delà de votre séjour prévu pour les vols au départ de l’espace Schengen vers des régions non-Schengen.
-* Valide pendant au moins 6 mois au-delà de votre séjour prévu pour les vols à destination de l’espace Schengen.
+• Andorre
+
+• Antigua-et-Barbuda (non valable pour les vols à destination du Maroc)
+
+• Argentine
+
+• Australie
+
+• Bahamas (non valable pour les vols à destination du Maroc)
+
+• Barbade (non valable pour les vols à destination du Maroc)
+
+• Brésil
+
+• Brunei
+
+• Canada
+
+• Chili (non valable pour les vols à destination du Maroc)
+
+• Colombie (sans visa vers l’espace Schengen)
+
+• Costa Rica (non valable pour les vols à destination du Maroc)
+
+• Dominique
+
+• Salvador
+
+• Grenade
+
+• Guatemala
+
+• Saint-Siège (Vatican)
+
+• Honduras
+
+• RAS de Hong Kong
+
+• Israël
+
+• Japon
+
+• Kiribati
+
+• RAS de Macao
+
+• Malaisie (non valable pour les vols à destination d’Israël et de la Serbie)
+
+• Îles Marshall
+
+• Maurice (non valable pour les vols à destination du Maroc et de l’Irlande)
+
+• Mexique (non valable pour les vols à destination de la Turquie)
+
+• Micronésie
+
+• Monaco
+
+• Nouvelle-Zélande
+
+• Nicaragua (non valable pour les vols à destination du Maroc)
+
+• Palaos
+
+• Panama (non valable pour les vols à destination du Maroc et de la Serbie)
+
+• Paraguay (non valable pour les vols à destination du Maroc)
+
+• Pérou
+
+• Saint-Christophe-et-Niévès
+
+• Sainte-Lucie
+
+• Saint-Vincent
+
+• Samoa
+
+• Seychelles
+
+• Singapour
+
+• Îles Salomon
+
+• Corée du Sud
+
+• Taïwan (non valable pour les vols à destination du Maroc)
+
+• Tonga
+
+• Tuvalu
+
+• Ukraine (entrée sans visa dans l’espace Schengen et en Irlande)
+
+• Émirats arabes unis
+
+• États-Unis
+
+• Uruguay (non valable pour les vols à destination du Maroc)
+
+• Vanuatu
+
+• Vénézuéla (entrée sans visa dans l’espace Schengen)
+
+Pour les vols à destination des pays de l’espace Schengen ou au départ de l’espace Schengen vers des destinations hors espace Schengen, votre passeport doit être valide pendant au moins six mois après la date prévue de fin de votre séjour. Si la vérification en ligne est indisponible ou échoue, une vérification manuelle au comptoir d’enregistrement de l’aéroport est nécessaire. Le fait de ne pas présenter de documents de voyage valides peut entraîner le refus de l’embarquement.
 
 **6.5** Les frais de Bagages enregistrés et/ou d’excédent de Bagage doivent être payés et vos Bagages enregistrés doivent être déposés au comptoir de dépôt des Bagages au plus tard 40 minutes avant l’heure de départ prévue. Les comptoirs de dépôt de Bagages ouvrent deux heures avant l’heure de départ prévue.
 
