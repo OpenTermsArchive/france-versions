@@ -18,7 +18,7 @@ Numéro de vol commençant par HV : votre billet sera émis et votre vol sera op
 Numéro de vol commençant par TO : votre billet sera émis et votre vol sera opéré par Transavia France S.A.S.  
 Dans certains cas, une condition ne s’applique qu’à un vol opéré par Transavia Airlines C.V. ou par Transavia France S.A.S.. Dans les cas sus-mentionnés, l’applicabilité limitée de cette condition sera stipulée.
 
-[Télécharger les conditions de transport au format PDF](https://www.transavia.com/aide/fr-fr/a-propos-de-transavia/conditions-generales/conditions-generales)
+[Télécharger les conditions de transport au format PDF](https://www.transavia.com/fr/-/media/Files/Terms-and-conditions-2025/Les_conditions_generales_de_transport_Transavia_FR_20052025.pdf)  
 
 Conditions tarifaires Transavia (applicables à tous les vols Transavia)
 -----------------------------------------------------------------------
