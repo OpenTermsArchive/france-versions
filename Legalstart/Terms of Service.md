@@ -1,6 +1,6 @@
 [Skip to content](#main-content)
 
-Bonjour, nous sommes ravis de vous revoir ! [Cliquez ici pour reprendre votre démarche AAAAAAA](https://www.legalstart.fr/)
+[Cliquez ici pour reprendre votre démarche](https://www.legalstart.fr/)
 
 Fermer la bannière
 
