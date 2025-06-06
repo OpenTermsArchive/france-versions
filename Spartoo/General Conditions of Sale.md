@@ -68,8 +68,6 @@ Spartoo n'est pas tenu de vérifier et d’informer des droits de douane et taxe
 
 ### 7.1 : Commande
 
-  
-
 Le client valide sa commande comme dit ci-après. Cette validation entraîne l'acceptation des présentes conditions générales de vente de SPARTOO et **du ou des Partenaires s’il y a un ou plusieurs Produits Partenaires.** Le client intéressé par un article visible sur le site SPARTOO.COM suit le processus suivant afin d'établir sa commande.  
   
 \- Choisir la taille et le coloris  
@@ -146,14 +144,11 @@ Ne sont pas acceptées : les cartes American Express, les cartes exclusivement d
       
     Une fois le paiement effectué, le client reçoit un mail de confirmation de Klarna et un mail de confirmation de Spartoo. Le Client peut suivre les paiements effectués et l’échéancier des paiements via l’application KLARNA.  
       
-    Pour toutes questions supplémentaires, le service client de Klarna est à la disposition du Client.  
-    
+    Pour toutes questions supplémentaires, le service client de Klarna est à la disposition du Client.
 
   
 
 ### 7.3 : Défaut de paiement
-
-  
 
 SPARTOO se réserve le droit de refuser d'effectuer une livraison ou d'honorer une commande émanant du Client qui n'aurait pas réglé totalement ou partiellement une commande précédente ou avec lequel un litige de paiement serait en cours d'administration ou s'il présente un risque de fraude.  
   
@@ -162,8 +157,6 @@ Tout rejet de carte bleue, tout rejet de paiement en 3 fois, tous cas d’opposi
   
 
 ### 7.4 : Vérification des paiements
-
-  
 
 SPARTOO contrôle toutes les commandes qui ont été validées sur son site. Ces contrôles visent à protéger SPARTOO de pratiques abusives : usurpation d’identité, fraude au paiement. Les services de SPARTOO seront amenés à demander à tout Client, toutes les pièces nécessaires au déblocage de la commande : justificatifs de domicile ou de débit à son nom, ou encore justificatif de domicile au nom de la personne indiquée pour l'adresse de livraison, documents bancaires, etc...  
   
@@ -201,7 +194,7 @@ Les délais de livraison indiqués ont comme référence la date de commande et 
 
   
 
-Le Client doit contacter, dans un délai de 7 jours calendaires, le Service Client, soit par mail à l'adresse : [adriana@spartoo.com](mailto:adriana@spartoo.com), soit par téléphone au numéro : 01 85 09 79 58. Ce délai de 7 jours débute à partir de la date de livraison inscrite sur le lien de suivi.  
+Le Client doit contacter, dans un délai de 7 jours calendaires le Service Client, soit par mail à l'adresse : [adriana@spartoo.com](mailto:adriana@spartoo.com), soit par téléphone au numéro : 01 85 09 79 58. Ce délai de 7 jours débute à partir de la date de livraison inscrite sur le lien de suivi.  
   
 Concernant les livraisons en point locker et les livraisons sur présentation de code sécurisé, aucune contestation ne sera acceptée.  
   
