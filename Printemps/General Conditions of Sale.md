@@ -46,8 +46,6 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
-*  [![](https://media-cdn.printemps.com/image/80/6/8026806.jpg) LE TANNEUR](https://www.printemps.com/fr/fr/le-tanneur?ap_source=anico&ap_medium=nav-new&ap_campaign=vignette_letanneur)
-    
 
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
