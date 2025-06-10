@@ -9,6 +9,11 @@ Ces lignes de conduite définissent les règles à suivre concernant les comport
   
 Nous considérons les Lignes de conduite de la communauté comme un document en constante évolution, et nous collaborons avec des streamers, des modérateurs et des experts en sécurité et règlement externes pour les examiner et les mettre à jour régulièrement. En plus de ces lignes de conduite, les streamers et les modérateurs peuvent également utiliser des [outils de sécurité Twitch](https://safety.twitch.tv/s/article/Chat-Tools) personnalisables pour adapter les normes de leur chaîne à leurs besoins. Les viewers, les modérateurs et les streamers jouent un rôle crucial en signalant les contenus ou les comportements qui enfreignent les Lignes de conduite de la communauté. Les signalements sont examinés par notre équipe internationale de sécurité qui travaille 24 h/24, 7 j/7, 365 jours par an pour y répondre le plus rapidement possible. C'est ainsi que nous collaborons tous ensemble pour promouvoir un environnement live sûr et accueillant.
 
+Notes de sanction
+=================
+
+Pour certaines de nos Lignes de conduite de la communauté ci-dessous, vous trouverez une section « Notes et clarifications concernant les sanctions ». Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les notes de sanction ne sont ni de nouvelles politiques ni de nouvelles règles. Nous rédigeons ces notes pour partager plus d'informations sur nos Lignes de conduite de la communauté existantes et pour répondre aux questions fréquemment posées.
+
 Sécurité
 ========
 
@@ -39,11 +44,17 @@ Si vous traversez une période difficile, ou si vous avez des raisons de croire 
 
   Notes et clarifications concernant les sanctions :
 
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
 * La vente d’activités susceptibles de causer un préjudice en vue d’un gain monétaire (comme les abonnements, les Bits, les dons, etc.) n’est pas autorisée. 
     * Exemples de comportements interdits : prendre des shots d’alcool pour des abonnements ou faire le « défi de la cannelle » pour une quantité déterminée de Bits.
 * La consommation d’alcool dans les streams est autorisée à condition qu’elle ne soit pas excessive et qu’elle ne risque pas de nuire à la santé.
-    * Exemples de comportements autorisés : « J’ouvre cette bouteille de prosecco à 100 abonnés » ou « Stream arrosé ce soir à 50 nouveaux abonnés ». 
-    * Exemples de comportements interdits : « Je descends cette bouteille de vodka à 300 abonnés » ou « Je prends un shot tous les 100 Bits ».
+    * Exemples de comportements autorisés : « J’ouvre cette bouteille de prosecco à 100 abonnés » ou « Stream arrosé ce soir à 50 nouveaux abonnés ».
+    * Exemples interdit : « Je descends cette bouteille de vodka à 300 abonnés » ou « Je prends un shot tous les 100 Bits ».
+* Conduire de manière dangereuse ou distraite, comme conduire son véhicule tout en interagissant avec le stream et quitter la route du regard ou retirer ses mains du véhicule en marche, n'est jamais acceptable sur Twitch. 
+    * Exemple autorisé : configurer votre appareil ou votre caméra de streaming alors que vous êtes garé dans un endroit sûr avant de prendre la route.
+    * Exemple autorisé : écouter des messages de chat par synthèse vocale et répondre verbalement à voix haute.
+    * Exemple interdit : lire des messages de chat ou toucher physiquement votre caméra ou votre appareil de streaming pendant de longues périodes ou fréquemment au volant.
 
 Violence et menaces
 -------------------
@@ -109,6 +120,8 @@ Protection des mineurs
 [](#)
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
+
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
 * Il est interdit de représenter des personnages d’anime fictifs d’apparence enfantine (« lolis »/« shotas ») dans un cadre sexuel, quel qu’il soit. Cela s’applique aux VTubers et dans les jeux où des avatars sont mis en ligne, tels que VRChat, avec des avatars de type enfantin, même si le streamer et l’opérateur de l’avatar sont âgés de plus de 18 ans. 
 * Tout humour à caractère sexuel à l’égard de mineurs entraînera une action immédiate sur votre compte.
@@ -191,6 +204,17 @@ Partager les données sensibles d'une autre personne sans sa permission peut êt
 * Partager des profils de réseaux sociaux restreints ou privés ou toute information provenant de ces profils
 * Partager du contenu qui porte atteinte aux attentes raisonnables d’une autre personne en matière de vie privée (ex. : streamer depuis un espace privé sans autorisation)
 * Streamer une intrusion non désirée dans une visioconférence privée
+    
+
+[](#)
+
+  Notes et clarifications concernant les sanctions :
+
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
+* Demander ou solliciter des informations personnelles susceptibles de porter atteinte à la sécurité d'un utilisateur, physiquement, financièrement ou autre, si le partage n'est pas autorisé sur le chat ou en streaming.
+    * Exemple autorisé : un streamer demande à un viewer sur le chat « C'est quoi ton prénom ? » ou « De quelle région tu viens ? » si la question est pertinente pour la conversation.
+    * Exemple interdit : un streamer demande à son chat : « Partagez vos coordonnées bancaires pour un cadeau ! »
 
 Courtoisie et respect
 =====================
@@ -269,6 +293,8 @@ Nous définissons les « groupes protégés » comme un sous-ensemble de la po
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
 * Nous vérifions si l’utilisateur signalé appartient au groupe protégé ciblé afin de déterminer si une infraction a été commise.
     * Nous tenons compte du contexte lorsque nous appliquons des sanctions. L’autodérision utilisée de manière positive ou sur le ton de la plaisanterie peut être traitée différemment de la dérision ciblant quelqu’un d’autre.
     * L’injure raciale commençant par un « N » n’est jamais autorisée, quelles que soient les circonstances.
@@ -276,8 +302,8 @@ Nous définissons les « groupes protégés » comme un sous-ensemble de la po
     * Exemples de comportements autorisés : parler d’une expérience où une insulte a été utilisée contre vous ou que vous avez entendue (par exemple, « J’étais au supermarché et j’ai entendu quelqu’un crier \[insulte\] » ou « J’ai été traité de \[insulte\] au travail par un collègue ».
 * Nous interdisons l'utilisation de certains termes qui ne sont pas forcément nocifs ou insultants en eux-mêmes, mais qui peuvent être utilisés comme injures ou pour dénigrer les autres dans certains contextes. À l'instar des autres termes qui peuvent être utilisés pour désigner un groupe protégé, nous traitons « sionistes » comme un terme désignant des Juifs ou des Israéliens si le mot est utilisé dans un contexte visant à promouvoir le mal ou la violence, ou lorsqu'il est utilisé pour faire des comparaisons déshumanisantes ou perpétuer des stéréotypes antisémites. Les commentaires concernant le sionisme qui concernent le mouvement politique, y compris les critiques, ne constituent pas une infraction à notre politique en matière de comportement haineux. Les commentaires appelant à la violence contre le sionisme en tant que mouvement politique, ou ceux qui enfreindraient nos politiques, ne sont pas autorisés.
     
-    * Exemple interdit : \[nom d'animal\] de sioniste.
     * Exemple autorisé : les colons sionistes continuent d'empiéter sur les frontières palestiniennes.
+    * Exemple interdit : \[nom d'animal\] de sioniste.
 
 Harcèlement
 -----------
@@ -449,7 +475,7 @@ Afin de protéger les droits de propriété intellectuelle d'autrui et de respec
 * Biens ou services protégés par une marque déposée
 * Des versions alpha/bêta fermées et des jeux en avant-première (Vous êtes tenu de respecter toutes les dates de sortie, embargos et accords de non-divulgation imposés par les éditeurs/développeurs et d'attendre avant de streamer ces jeux jusqu'à ce que tout le monde y soit autorisé. Sauf autorisation préalable, votre chaîne peut faire l'objet d'un retrait DMCA par un détenteur de droits.) 
 
-[En savoir plus](https://www.twitch.tv/p/legal/community-guidelines/music/) sur nos règles concernant l’utilisation de musique sur votre chaîne Twitch.
+[En savoir plus](https://legal.twitch.com/legal/music/) sur nos règles concernant l’utilisation de musique sur votre chaîne Twitch.
 
 [](#)
 
@@ -478,6 +504,8 @@ Bien que nous autorisions la diffusion de différents contenus sur Twitch, tout 
 [](#)
 
   Notes et clarifications concernant les sanctions :
+
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
 * Le contenu vidéo aléatoire que vous ne pouvez pas contrôler n’est en aucun cas autorisé en raison des risques qu’il présente pour les viewers du stream.
     * Exemple de comportement interdit : streamer des interactions Ome.tv.
@@ -512,6 +540,8 @@ Pour en savoir plus sur les contenus relatifs à la sexualité et aux thèmes se
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
 
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
 * Les liens directs vers des sites Web proposant principalement des contenus à caractère sexuel ne sont pas autorisés dans votre contenu (overlay, bio, chat, etc).
     * Si des liens vers ce type de contenu par le biais de méthodes telles que les agrégateurs de liens sont découverts, Twitch peut appliquer le descripteur de classification du contenu « Thèmes sexuels » pour une durée déterminée.
 * Nous autorisons certains contenus à caractère sexuel, à condition qu’ils soient de nature éducative, que des descripteurs de classification du contenu soient appliqués au stream et qu’ils n’enfreignent pas nos autres règles, telles que nos règles sur la nudité. 
@@ -525,7 +555,7 @@ Pour en savoir plus sur les contenus relatifs à la sexualité et aux thèmes se
 * Les émoticônes, badges et Cheermotes sont également soumis à nos politiques. Étant donné que les émoticônes d’abonnés peuvent être utilisées partout sur Twitch et sont très visibles en dehors de leurs chaînes d’origine, nos règles applicables aux émoticônes peuvent être plus restrictives que les Lignes de conduite de la communauté générales dans certains cas. Veuillez consulter les [Règles pour les émoticônes](https://help.twitch.tv/s/article/emote-guidelines) pour connaître notre politique relative aux émoticônes à caractère sexuel. 
 * Les jeux ayant pour élément central la nudité, la pornographie, le sexe ou la violence sexuelle sont totalement interdits. Les modifications apportées aux graphismes ou au gameplay qui incluent de la nudité ou du contenu à caractère sexuel, y compris les patchs destinés à supprimer la censure dans des jeux autrement autorisés, sont interdites.
 * Pour les jeux dont la nudité n’est pas l’élément central, le descripteur de classification du contenu « Jeux matures » est suffisant pour la nudité occasionnelle. Toutefois, le descripteur de classification du contenu « Thèmes sexuels » doit être appliqué aux jeux qui contiennent de la nudité, sans que ce soit l’élément principal.
-    * Exemple de comportement autorisé : streamer Grand Theft Auto V avec le descripteur de classification du contenu « Jeux matures ».
+    * Exemple autorisé : streamer Grand Theft Auto V avec le descripteur de classification du contenu « Jeux matures ».
 * Toute activité sexuelle simulée et tout jeu de rôle érotique avec d'autres joueurs dans des jeux en ligne est proscrit. Les jeux qui reposent principalement sur des contenus créés par des utilisateurs, sur des jeux de rôle ou sur des interactions en réalité virtuelle sont également concernés par ces règles.
     * Exemple de comportement interdit : simuler un acte sexuel sur VRChat.
 * Tant que les exigences en matière de tenue vestimentaire sont respectées, la peinture corporelle sur les seins et les fesses est autorisée avec un descripteur de classification du contenu « Thèmes sexuels ». 
@@ -595,6 +625,8 @@ Les normes de couverture de la poitrine détaillées ci-dessus ne s’appliquent
 [](#)
 
   Notes et clarifications concernant les sanctions \[avertissement relatif au contenu\] :
+
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
 * Lorsque nous évaluons un signalement pour comportement à caractère sexuel, la tenue n’est que l’un des facteurs pris en compte pour déterminer si un comportement est ou non acceptable.
     * Nous conseillons aux streamers de porter des vêtements qui seraient appropriés en public en fonction du contexte, de l’endroit et de l’activité qu’ils diffusent. Par exemple, une tenue de sport serait appropriée pour un stream de fitness, et un maillot de bain, pour un stream sur une plage publique.
@@ -818,23 +850,21 @@ De plus, à l'instar de notre [règlement sur les jeux interdits](https://safety
 * blaze.com
 * gamdom.com
 
-Nous mettrons cette liste à jour en temps voulu.
+Nous mettrons cette liste à jour à l'avenir.
 
 [](#)
 
-  **FAQ sur le contenu interdit de jeux d'argent et de hasard :**
+  Notes et clarifications concernant les sanctions :
 
-**Les versions gratuites de ces sites disponibles sur les réseaux sociaux sont-elles autorisées ?** 
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-Non, nous n'autorisons pas les versions sociales gratuites des sites indiqués ci-dessus.
-
-**Ce règlement interdit-il les ligues fantasy, les paris sportifs et le poker ?**
-
-Non, à l'heure actuelle, nous autorisons toujours le streaming de sites web basés sur les ligues fantasy, les paris sportifs et le poker.
-
-**Le parrainage de paris avec des skins, comme pour les skins CSGO, est-il autorisé sur Twitch ?**
-
-Non, la promotion ou le parrainage de paris avec des skins est interdit par notre politique.
+* Notre politique interdit de promouvoir ou de parrainer des paris de skins, par exemple pour les skins CSGO.
+* Les versions gratuites ou sociales des sites de jeux interdits ne sont pas autorisées non plus.
+* Nous autorisons le streaming de sites web basés sur les ligues fantasy, les paris sportifs et le poker pour le moment.
+* Les images ou logos contenant l'un des sites de jeux de hasard interdits mentionnés ci-dessus ne sont pas autorisés et sont considérés comme des liens directs vers ces sites de jeux.
+    * Exemple interdit : un logo représentant l'un des sites de jeux interdits de la liste apparaissant à l'écran à tout moment ou dans votre bio.
+* La restriction concernant les sites de jeu interdits s'applique, que vous participiez personnellement à des activités de pari ou non. 
+    * Exemple interdit : regarder ou rediffuser le jeu sur l'un des sites de jeux interdits listés ci-dessus. 
 
 Authenticité
 ============
@@ -857,7 +887,9 @@ L'usurpation d'identité est une pratique malveillante qui mine la confiance dan
 
   Notes et clarifications concernant les sanctions :
 
-* Si vous êtes victime d’une usurpation d’identité en tant que streamer sur Twitch et que le contenu ne remplit pas les conditions requises pour faire l’objet d’une action dans le cadre de la [procédure DMCA](https://www.twitch.tv/p/legal/dmca-guidelines/) (comme une marque commerciale), veuillez signaler le stream sous « Usurpation d’identité ». Veuillez fournir des informations complètes dans le rapport.
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
+* Si vous êtes victime d’une usurpation d’identité en tant que streamer sur Twitch et que le contenu ne remplit pas les conditions requises pour faire l’objet d’une mesure dans le cadre de la [procédure DMCA](https://www.twitch.tv/p/legal/dmca-guidelines/) (comme une marque commerciale), veuillez signaler le stream dans « Usurpation d’identité ». Veuillez fournir des informations complètes dans le rapport.
     * Nous tenons compte d’un certain nombre de facteurs, tels que les identifiants et les bios, ainsi que du fait que la personne dont l’identité est usurpée envoie ou non le signalement, pour déterminer s’il y a lieu de procéder à des sanctions.
 
 Courriers indésirables, arnaques par e-mail et autres activités malveillantes
@@ -885,16 +917,18 @@ Nous comprenons que les streamers sont parfois victimes d’usurpation de compte
 
   Notes et clarifications concernant les sanctions :
 
+_Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
+
 * Rediriger les utilisateurs vers un stream en direct sur un autre service via des liens sur votre stream Twitch, tels que des overlays, des codes QR, le titre du stream ou des notifications de live, est interdit.
     * Les liens vers des profils de réseaux sociaux, qui ne sont pas directement liés à un stream et les liens présents dans votre bio (« À propos de moi ») ou dans les panneaux sont toujours autorisés.
 * Les drops sont destinés à être gagnés lors de parties en direct avec votre communauté, et non pas en streamant du contenu sans rapport avec le jeu concerné, comme des images statiques, des rediffusions d’anciennes VoD/vidéos, ou d’autres cas de figure dans lesquels vous n’interagissez pas avec votre communauté.
-    * Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
     * Exemple de comportement autorisé : streamer un jeu avec des drops et faire une petite pause avec une image statique temporaire « Bientôt de retour ».
+    * Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
 * [L'audience partagée](https://link.twitch.tv/SharedViewership), qui utilise le chat partagé comme outil, est conçue pour mettre en évidence le nombre total de membres de la communauté présents lorsque deux streamers ou plus collaborent ensemble en direct. L'utilisation abusive de ces outils pour se mettre en avant artificiellement ou augmenter le nombre de vues sans une collaboration appropriée n'est pas autorisée, à quelques exceptions près, comme indiqué ci-dessous.
+    * Exemple autorisé : deux streamers jouent à un jeu et interagissent l'un avec l'autre par le biais du son (par ex : audio de Streamer ensemble ou communications du jeu).
+    * Exemple autorisé : un streamer travaille avec une marque pour apparaître sur son propre compte Twitch en même temps que sur la chaîne officielle de la marque à l'occasion de la sortie de son nouveau jeu ou produit, en utilisant l'audience partagée.
     * Exemple interdit : deux streamers streament en live avec l'audience partagée, mais sans aucune collaboration active (aucun partage audio ou vidéo). Au lieu de cela, ils « s'hébergent » simplement mutuellement via le chat partagé pour augmenter leur nombre de vues partagées.
     * Exemple interdit : utiliser le nombre de viewers pour mettre en avant un compte alternatif appartenant au streamer.
-    * Exemple autorisé : deux streamers jouent à un jeu et interagissent l'un avec l'autre par le biais du son (par ex : audio de Streamer ensemble ou communications du jeu).
-    * Exemple autorisé : un streamer travaille avec une marque pour apparaître sur son propre compte Twitch en même temps que sur la chaîne officielle de la marque à l'occasion de la sortie de son nouveau jeu ou produit, en utilisant le mode de visionnage partagé.
 
 Contournement d’une suspension
 ------------------------------
