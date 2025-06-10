@@ -1,4 +1,4 @@
-[**LAST CHANCE**](https://www.printemps.com/fr/fr/last-chance) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -285,34 +285,6 @@
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
 *  [![](https://media-cdn.printemps.com/image/24/0/8056240.png) PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_parfums_de_marly)
     
-
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
-    
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Manteaux)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Mailles+et+pulls)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Bottes et Bottines](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bottines/Bottes)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-femme/esp/Accessoires)
-
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Manteaux](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Manteaux)
-    * [Vestes](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Vestes)
-    * [Mailles et pulls](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Mailles+et+pulls)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
