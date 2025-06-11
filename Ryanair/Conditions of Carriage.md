@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 05 juin 2025
+### Date d’entrée en vigueur : 11 juin 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 05 juin 2025**
+**Date d’entrée en vigueur : 11 juin 2025**
 
   
 
@@ -795,7 +795,20 @@ Si, en raison de votre comportement ou de votre perturbation, nous déroutons l�
 
 Il est strictement interdit d’enregistrer ou de photographier notre personnel, que ce soit à l’aéroport ou à bord de l’avion, sans avoir obtenu son consentement. Seuls les enregistrements ou les photographies personnelles vous concernant sont autorisés.
 
-11.2 APPAREILS ÉLECTRONIQUES PORTABLES
+11.2 Responsabilité en cas de perturbation
+
+
+============================================
+
+11.2.1 Si, en raison de votre comportement ou de votre perturbation, nous déroutons l’avion pour vous débarquer, vous devez nous indemniser pour tous les coûts raisonnables et appropriés liés à la déviation (y compris nos frais juridiques pour intenter une ou plusieurs actions contre vous).
+
+11.2.2 En outre, nous nous réservons le droit de vous mettre une amende de 500 € si votre comportement nous oblige à vous débarquer, y compris lorsqu’aucune déviation n’est nécessaire.
+
+11.2.3 Nous nous réservons tous les droits légaux de recouvrer les coûts, dommages ou responsabilités résultant de vos actions. Cela inclut, mais sans s’y limiter, la déduction des montants des paiements pour les vols inutilisés ou futurs, ou la valeur de tous les bons cadeaux ou bons de crédit détenus en votre nom. Qui plus est, nous pouvons facturer ces coûts, dommages ou responsabilités sur la carte de crédit ou de débit utilisée pour la réservation.
+
+11.2.4 Ce qui précède est sans préjudice et en sus de notre droit de refuser le transport en vertu de l’Article 7.1.
+
+11.3 APPAREILS ÉLECTRONIQUES PORTABLES
 
 
 ========================================
