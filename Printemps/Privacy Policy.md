@@ -1,4 +1,38 @@
-[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+[**Avant-Premières**](https://www.printemps.com/fr/fr/premiere-date-avant-premiere) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
+
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
+    
+* [Femme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/?ap_source=anico&ap_medium=navigation&ap_campaign=avp-luxe-femme)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
+    * [Sacs à main](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=navigation&ap_campaign=avp-sacs-a-main)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Sacs+bandouli%C3%A8re)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Baskets)
+    * [Sandales et mules](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Sandales/Mules/Sling-back)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/V%C3%AAtements)
+    * [Robes](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Robes)
+    * [Bijoux](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Bijoux?ap_source=anico&ap_medium=navigation&ap_campaign=avp-bijoux-femme)
+
+* [Homme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Luxe](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERS?ap_source=anico&ap_medium=navigation&ap_campaign=avp-luxe-homme)
+    * [Baskets](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Baskets)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements)
+    * [Chemises](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Chemises)
+    * [T-shirts](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Tops+et+t-shirts)
+    * [Pantalons](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Pantalons)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Chaussures)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Accessoires)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Sacs)
+    * [Sweats & hoodies](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Sweats+et+hoodies)
+
+* [Beauté](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute/esp/Maquillage)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -47,6 +81,18 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/V%C3%AAtements)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Baskets)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Accessoires)
+    * [Bijoux](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Bijoux)
+
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -105,22 +151,7 @@
     * [ÉCharpes Et Foulards](https://www.printemps.com/fr/fr/echarpes-femme)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
-
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
-    
-* [TENDANCES](#)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Maillots de bain : les modèles les plus tendances](https://www.printemps.com/fr/fr/edito-style-maillots-de-bain-tendances-ete)
-    * [Flower power](https://www.printemps.com/fr/fr/le-pouvoir-des-fleurs)
-    * [Les looks de festivals](https://www.printemps.com/fr/fr/edito-style-looks-de-festivals)
-    * [En transparence](https://www.printemps.com/fr/fr/tout-en-transparence-femme)
-    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
-    * [Les sandales de l'été 2025](https://www.printemps.com/fr/fr/edito-style-sandales-tendances-ete)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-femme)
-    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 
 * [TOP MARQUES](#)
@@ -134,7 +165,20 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+* [![](https://media-cdn.printemps.com/image/86/1/8078861.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    
 
+* [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements)
+    * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Baskets)
+    * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Chaussures)
+    * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Accessoires)
+    * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Sacs)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/PRADA/VERSACE/RICK+OWENS)
+
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -187,19 +231,6 @@
     * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
-
-* [Nouveautés](https://www.printemps.com/fr/fr/nouveautes-homme)
-    
-* [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
-    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
-    * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
-    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
-    * [Workwear](https://www.printemps.com/fr/fr/workwear-homme)
-    * [Bomber](https://www.printemps.com/fr/fr/bomber-homme)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
-    
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
-    
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
 
@@ -216,7 +247,11 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+* [![](https://media-cdn.printemps.com/image/86/1/8078861.jpg)](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    
 
+* [Avant-premières : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-beaute)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
