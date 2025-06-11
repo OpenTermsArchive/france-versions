@@ -67,7 +67,9 @@ Le Site, le Contenu et le Contenu relatifs des Produits sont protégés par des 
 
 (5) Le Client s'engage à ne pas (a) contourner, désactiver ou interférer de quelque manière que ce soit avec les dispositifs de sécurité du Site ou les restrictions/limites d'utilisation du Site, du Contenu et du Contenu relatifs aux Produits ; (b) procéder à une récupération de données sur le Site ; (c) interférer avec le Site ou l'endommager parl’introduction de matériel malveillant ou nuisible.  
 
-(6) En accédantou en utilisant le Site, le Client s’engage à ne pas participer, faciliter,autoriser ou permettre toute forme d’exploration, de récupération ou decollecte de données à partir du Site sans le consentement écrit préalable deSHEIN. Ces méthodes incluent, sans s’y limiter, l’utilisation de méthodesautomatisées ou manuelles telles que robots, bots, spiders, scrapers ou toutautre dispositif, programme, algorithme ou processus, ainsi que toute techniqued’analyse automatisée dont le but est d’analyser les données collectées pourgénérer des informations.  
+(6) En accédant ou en utilisant le Site, le Client s’engage à ne pas participer, faciliter, autoriser ou permettre toute forme d’exploration, de récupération ou de collecte de données à partir du Site sans le consentement écrit préalable de SHEIN. Ces méthodes incluent, sans s’y limiter, l’utilisation de méthodes automatisées ou manuelles telles que robots, bots, spiders, scrapers ou tout autre dispositif, programme, algorithme ou processus, ainsi que toute technique d’analyse automatisée dont le but est d’analyser les données collectées pour générer des informations.  
+
+  
 
 6.2 Marques SHEIN  
 
