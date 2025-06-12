@@ -64,7 +64,7 @@
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
     * [Coach](https://www.printemps.com/fr/fr/coach)
     * Maison 123
-    * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme)
+    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
     * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/nouveautes/mrk/POLO+RALPH+LAUREN)
