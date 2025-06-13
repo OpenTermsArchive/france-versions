@@ -112,7 +112,7 @@ Conformément à la loi du 13 mars 2000 sur la signature électronique, la trans
 
 Dans le cas d'une utilisation frauduleuse de votre carte, vous êtes invité à contacter immédiatement après le constat de cette utilisation, le Service Client au 03.20.760.760 (prix d’un appel local depuis un poste fixe), de 9h à 18h du lundi au vendredi (sauf jours fériés) et le samedi de 9h à 16h
 
-#### Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET) :
+#### Paiement en 3 fois sans frais avec Klarna (Mode de paiement valable uniquement pour les Produits vendus et expédiés par VERTBAUDET pour les commandes en dessous à 1500€) :
 
 Pour en savoir plus sur Klarna et le fonctionnement de cette modalité de paiement : [cliquez ici](https://www.vertbaudet.fr/page/a-propos-de-klarna.htm).
 
