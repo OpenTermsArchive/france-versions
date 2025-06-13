@@ -221,7 +221,7 @@ Délai : Livraison garantis en 3 jours ouvrés
 | 5.99 € si inférieur à 79.99 € d'achats  <br>Gratuit à partir de 79.99 € d'achats | 4.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
 
   
-**Livraison avec le service Relais**  
+**Livraison avec le service Inpost**  
 Délai : Livraison garantis en 4 jours ouvrés  
 
 |     |     |
