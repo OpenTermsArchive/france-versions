@@ -19,7 +19,7 @@ Les données recueillies sont conservées par Air Austral pour une durée de 6 m
 **Puis-je m'opposer à l'enregistrement des cookies ?**  
 Vous pouvez vous opposer à l'enregistrement de ces "cookies" de façon globale ou au cas par cas en ajustant les paramètres de votre navigateur. Nous vous invitons à vous reporter à la procédure figurant dans les règles d'utilisation de votre navigateur.
 
-[Gestion des cookies](https://www.air-austral.com/mentions-legales.html?_gl=1%2A10ciu17%2A_ga%2ANjEwNTM3Njg0LjE3MjgyMjIxMDg.%2A_ga_4W5PBRS47N%2AczE3NDk3MTY4MTAkbzE0JGcxJHQxNzQ5NzE3MTkxJGo2MCRsMCRoMA..%2A_gcl_aw%2AR0NMLjE3NDk3MTY5NDcuRUFJYUlRb2JDaE1JN18tUmdydnJqUU1WWDVwb0NSMm93alJKRUFBWUFTQUFFZ0lzb3ZEX0J3RQ..%2A_gcl_au%2AMjcyMjEzMjg1LjE3NDY2MjgxMzAuMTQ2Nzk5MzYxNC4xNzQ5NzE3MTg0LjE3NDk3MTcxODM.#)
+[Gestion des cookies](https://www.air-austral.com/mentions-legales.html?_gl=1%2A5f7y5i%2A_ga%2ANDY0MDcxMzAuMTc0NDAzMjc2Ng..%2A_ga_4W5PBRS47N%2AczE3NDk3ODE2MTAkbzEyJGcxJHQxNzQ5NzgxOTM1JGoyMiRsMCRoMA..%2A_gcl_aw%2AR0NMLjE3NDYyMDMyNjEuQ2owS0NRancydEhBQmhDaUFSSXNBTlp6RFdybXZuaVEzNFZ4b2I4YzdkQ3hpcldsZlUwSkR3blU0cExqZlVqeU9qcmhVdzA3MmxLeWYzc2FBZ2g1RUFMd193Y0I.%2A_gcl_au%2AMTY2NTQ4ODY2LjE3NDQwMzI3Njc.#)
 
 Nous vous informons néanmoins que si vous choisissez de refuser tout type de cookies, certaines fonctionnalités du site pourraient ne pas être accessibles.
 
