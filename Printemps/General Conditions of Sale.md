@@ -4,7 +4,7 @@
     
 * [Femme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/?ap_source=anico&ap_medium=navigation&ap_campaign=avp-luxe-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/OFF-WHITE/LANCEL/PRADA/)
     * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
     * [Sacs à main](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Sacs+%C3%A0+main?ap_source=anico&ap_medium=navigation&ap_campaign=avp-sacs-a-main)
     * [Sacs bandoulière](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/cat0/Sacs+bandouli%C3%A8re)
@@ -17,7 +17,7 @@
 
 * [Homme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
-    * [Luxe](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERS?ap_source=anico&ap_medium=navigation&ap_campaign=avp-luxe-homme)
+    * [Luxe](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MOSCHINO/OFF-WHITE/PRADA/?ap_source=anico&ap_medium=navigation&ap_campaign=avp-luxe-homme)
     * [Baskets](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Baskets)
     * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements)
     * [Chemises](https://printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Chemises)
@@ -63,7 +63,7 @@
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
     * [Coach](https://www.printemps.com/fr/fr/coach)
-    * Maison 123
+    * [Maison 123](https://www.printemps.com/fr/fr/maison123-femme)
     * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
     * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
@@ -83,7 +83,7 @@
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
     * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/V%C3%AAtements)
     * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Chaussures)
@@ -175,7 +175,7 @@
     * [Chaussures](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Chaussures)
     * [Accessoires](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Accessoires)
     * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/Sacs)
-    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/PRADA/VERSACE/RICK+OWENS)
+    * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/PRADA/VERSACE/RICK+OWENS)
 
 * [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
     
