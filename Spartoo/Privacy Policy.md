@@ -149,7 +149,7 @@ Une base légale d'un traitement est définie comme l’élément autorisant lé
 
 |     |     |
 | --- | --- |
-|     | **Gestion des utilisateurs de New Life** |
+|     | **Gestion des utilisateurs de ReSpartoo** |
 | _Finalité du traitement_ | Permettre l’intermédiation entre acheteurs et vendeurs particuliers d’articles d’occasion |
 | _Base légale du traitement_ | Nécessaire à la conclusion et réalisation du Contrat |
 | _Destinataires_ | Services internes SPARTOO  <br>Filiales  <br>Sous-traitant |
