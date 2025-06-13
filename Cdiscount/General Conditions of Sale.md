@@ -1669,7 +1669,7 @@ Les CGA et CGV applicables sont celles en vigueur au jour de votre souscription 
   
 **
 
- Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de manière régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
+ Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de mani��re régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
 
 **ARTICLE 3 - CONDITIONS D’ABONNEMENT  
   
