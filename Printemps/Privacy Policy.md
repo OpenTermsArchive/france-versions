@@ -318,7 +318,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/24/0/8056240.png) PARFUMS DE MARLY](https://www.printemps.com/fr/fr/parfums-de-marly-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_parfums_de_marly)
+*  [![](https://media-cdn.printemps.com/image/81/7/8090817.jpg) Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_mais-francis-kurkdjian)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
