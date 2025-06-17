@@ -714,22 +714,22 @@ En cas question ou de doute concernant les garanties dues par le vendeur, nous v
 
   
 
-23 Service NEW LIFE – Conditions Générales d’Utilisation
---------------------------------------------------------
+23 Service ReSpartoo – Conditions Générales d’Utilisation
+---------------------------------------------------------
 
 ### 1\. Description
 
   
 
-Les présentes Conditions Générales d’Utilisation définissent le fonctionnement de la plate-forme dont la dénomination commerciale est « NEW LIFE », ses relations avec les utilisateurs, les droits et obligations des utilisateurs entre eux et les droits et obligations de NEW LIFE dans ses relations avec les utilisateurs.  
-La plate-forme de vente entre particuliers NEW LIFE est librement consultable à l’adresse suivante : [https://www.spartoo.com/Produits-seconde-main-st-11561-0.php](https://www.spartoo.com/Produits-seconde-main-st-11561-0.php)  
-Elle est organisée et exploitée par la société SPARTOO, dont le siège social est situé 16 Rue Henri Barbusse, 38100 GRENOBLE, immatriculée au RCS de GRENOBLE sous le numéro 489 895 821. NEW LIFE n’est pas une personne morale et l’utilisation du terme NEW LIFE dans le cadre des présentes renvoie à la plate-forme, et juridiquement à la société SPARTOO qui l’exploite.  
+Les présentes Conditions Générales d’Utilisation définissent le fonctionnement de la plate-forme dont la dénomination commerciale est « ReSpartoo », ses relations avec les utilisateurs, les droits et obligations des utilisateurs entre eux et les droits et obligations de ReSpartoo dans ses relations avec les utilisateurs.  
+La plate-forme de vente entre particuliers ReSpartoo est librement consultable à l’adresse suivante : [https://www.spartoo.com/Produits-seconde-main-st-11561-0.php](https://www.spartoo.com/Produits-seconde-main-st-11561-0.php)  
+Elle est organisée et exploitée par la société SPARTOO, dont le siège social est situé 16 Rue Henri Barbusse, 38100 GRENOBLE, immatriculée au RCS de GRENOBLE sous le numéro 489 895 821. ReSpartoo n’est pas une personne morale et l’utilisation du terme ReSpartoo dans le cadre des présentes renvoie à la plate-forme, et juridiquement à la société SPARTOO qui l’exploite.  
   
 Elle est ouverte dans son utilisation, aux résidents français situés en Métropole en qualité de vendeur ou acheteur et uniquement en qualité d'acheteur aux résidents belges, et monégasques.  
-Préalablement à toute utilisation de NEW LIFE, chaque utilisateur doit lire les présentes Conditions Générales d’Utilisation, les CGV SPARTOO auxquelles elles s’intègrent et auxquelles elles renvoient partiellement, ainsi que les autres dispositions obligatoires de la plate-forme NEW LIFE susceptibles d’être spécifiées dans le cadre de son utilisation, les accepter et s’engager à les respecter sans réserve.  
-NEW LIFE est une plateforme d’achat et de vente de produits d’occasion entre particuliers. Il s’agit d’un service proposé gratuitement à tout détenteur d’un compte sur le site SPARTOO.com, dans les conditions et limites précisées ci-après.  
+Préalablement à toute utilisation de ReSpartoo, chaque utilisateur doit lire les présentes Conditions Générales d’Utilisation, les CGV SPARTOO auxquelles elles s’intègrent et auxquelles elles renvoient partiellement, ainsi que les autres dispositions obligatoires de la plate-forme ReSpartoo susceptibles d’être spécifiées dans le cadre de son utilisation, les accepter et s’engager à les respecter sans réserve.  
+ReSpartoo est une plateforme d’achat et de vente de produits d’occasion entre particuliers. Il s’agit d’un service proposé gratuitement à tout détenteur d’un compte sur le site SPARTOO.com, dans les conditions et limites précisées ci-après.  
 SPARTOO agit, à l’exclusion de toute autre qualité, en qualité d’hébergeur des ventes proposées par ses membres souhaitant bénéficier de ce service.  
-NEW LIFE est exclusivement limité à la vente de produits d’occasion (hommes – femmes – enfants) :  
+ReSpartoo est exclusivement limité à la vente de produits d’occasion (hommes – femmes – enfants) :  
 \- Chaussures,  
 \- Vêtements,  
 \- Maroquinerie.  
@@ -741,13 +741,13 @@ Tout autre produit ne pourrait être placé à la vente et serait immédiatement
 
   
 
-L'utilisation de NEW LIFE est gratuite. Les services proposés par NEW LIFE, de la même manière que la création d’un compte SPARTOO, ne sont pas destinés aux mineurs. Si un mineur souhaite bénéficier des services de NEW LIFE, un parent ou un tuteur majeur, en capacité de contracter devra s’enregistrer aux fins s’il le souhaite, d’un accompagnement constant dans l’utilisation de ce service.  
+L'utilisation de ReSpartoo est gratuite. Les services proposés par ReSpartoo, de la même manière que la création d’un compte SPARTOO, ne sont pas destinés aux mineurs. Si un mineur souhaite bénéficier des services de ReSpartoo, un parent ou un tuteur majeur, en capacité de contracter devra s’enregistrer aux fins s’il le souhaite, d’un accompagnement constant dans l’utilisation de ce service.  
   
 Il existe deux catégories d’utilisateurs : l’utilisateur vendeur (encore appelé « vendeur » dans le cadre des présentes) et l’utilisateur acheteur (encore appelé « acheteur » dans le cadre des présentes), une même personne physique pouvant relever successivement de ces deux catégories, non exclusives l’une de l’autre.  
   
 L’utilisateur doit nécessairement être une personne physique, agissant à titre privé en dehors de toute activité professionnelle et /ou commerçante.  
 Une seule personne physique ne peut créer et détenir qu’un seul compte. Tout abus en la matière sera sanctionné et toute tentative d’escroquerie ou d’autres fraudes poursuivie.  
-L’utilisateur déclare et reconnaît, en s’inscrivant sur NEW LIFE, respecter les conditions d’utilisation de la plate-forme, et agir en tout temps de bonne foi, loyalement, et à titre non professionnel.
+L’utilisateur déclare et reconnaît, en s’inscrivant sur ReSpartoo, respecter les conditions d’utilisation de la plate-forme, et agir en tout temps de bonne foi, loyalement, et à titre non professionnel.
 
   
 
@@ -755,7 +755,7 @@ L’utilisateur déclare et reconnaît, en s’inscrivant sur NEW LIFE, respecte
 
   
 
-L’utilisation du service en ligne NEW LIFE est conditionnée à la détention d’un compte client SPARTOO.com. Le détail de la procédure de la création du compte client est spécifié à l’article 5 des CGV SPARTOO.
+L’utilisation du service en ligne ReSpartoo est conditionnée à la détention d’un compte client SPARTOO.com. Le détail de la procédure de la création du compte client est spécifié à l’article 5 des CGV SPARTOO.
 
   
 
@@ -764,10 +764,10 @@ L’utilisation du service en ligne NEW LIFE est conditionnée à la détention 
   
 
 La mise en vente des produits intervient via l’espace client du compte SPARTOO. Le membre SPARTOO souhaitant vendre un article doit ainsi créer son profil vendeur en renseignant un pseudonyme, un mot de passe conforme aux dispositions de l’article 5 des CGV, une adresse mail, une adresse d’expédition et une adresse de facturation.  
-Lorsqu’il crée un compte vendeur, l’utilisateur doit nécessairement valider le fait qu’il a pris connaissance des CGU NEW LIFE et qu’il les comprend et les accepte sans réserve.  
+Lorsqu’il crée un compte vendeur, l’utilisateur doit nécessairement valider le fait qu’il a pris connaissance des CGU ReSpartoo et qu’il les comprend et les accepte sans réserve.  
   
-Le vendeur est seul responsable de l'utilisation de son compte vendeur NEW LIFE, sauf preuve d'une utilisation frauduleuse qui ne pourrait lui être imputée au titre par exemple de sa négligence. Il s'engage notamment à conserver la confidentialité de ses codes et s'interdit de les divulguer à quelque personne que ce soit. Toute utilisation frauduleuse de son compte vendeur dont il aurait connaissance doit immédiatement (dans les 24h) être notifiée par écrit, classique ou électronique, au service client NEW LIFE.  
-En cas de non-respect des présentes CGU par le vendeur, NEW LIFE se réserve le droit d'interrompre de manière temporaire ou définitive ses accès, en suspendant ou en résiliant son compte NEW LIFE sans préavis ni indemnité.
+Le vendeur est seul responsable de l'utilisation de son compte vendeur ReSpartoo, sauf preuve d'une utilisation frauduleuse qui ne pourrait lui être imputée au titre par exemple de sa négligence. Il s'engage notamment à conserver la confidentialité de ses codes et s'interdit de les divulguer à quelque personne que ce soit. Toute utilisation frauduleuse de son compte vendeur dont il aurait connaissance doit immédiatement (dans les 24h) être notifiée par écrit, classique ou électronique, au service client ReSpartoo.  
+En cas de non-respect des présentes CGU par le vendeur, ReSpartoo se réserve le droit d'interrompre de manière temporaire ou définitive ses accès, en suspendant ou en résiliant son compte ReSpartoo sans préavis ni indemnité.
 
   
 
@@ -775,7 +775,7 @@ En cas de non-respect des présentes CGU par le vendeur, NEW LIFE se réserve le
 
   
 
-La détention ou création d’un compte client SPARTOO.com, soumise aux CGV SPARTOO, est nécessaire et suffisante à l’utilisation de la plateforme NEW LIFE en qualité d’acheteur.
+La détention ou création d’un compte client SPARTOO.com, soumise aux CGV SPARTOO, est nécessaire et suffisante à l’utilisation de la plateforme ReSpartoo en qualité d’acheteur.
 
   
 
@@ -789,12 +789,12 @@ Le vendeur doit suivre les étapes suivantes :
 3) Précision du prix et des informations relatives au produit (marque, genre, type, catégorie, sous-catégorie, état de l'article, couleur et description)  
   
 Le vendeur s’engage, dans le cadre de l’édition et de la mise en ligne de son annonce, à respecter les dispositions légales applicables, à respecter les droits des tiers, en ce compris le droit à l’image des personnes physiques, les droits d’auteur et les droits de propriété industrielle notamment le droit des marques, notamment dans le cadre de la publication des photographies des produits vendus.  
-Les vendeurs déclarent être propriétaires des produits proposés à la vente sur NEW LIFE ou être dûment autorisés à les vendre. Les vendeurs s'interdisent notamment de proposer à la vente des produits contrefaisants au sens du Code la propriété intellectuelle ou tout produit dont la commercialisation est réglementée en vertu de dispositions législatives, règlementaires ou contractuelles interdisant ou restreignant la vente des produits via les services NEW LIFE.  
-Les vendeurs sont seuls responsables de la mise en vente des produits qu'ils proposent sur NEW LIFE. Ils s’engagent notamment à ne pas vendre des produits portant atteinte à la propriété intellectuelle, volés, diffamatoires, injurieux, racistes, discriminatoires, incitant à la haine ou à la violence, dangereux, et plus généralement manifestant une infraction aux lois et règlements.  
+Les vendeurs déclarent être propriétaires des produits proposés à la vente sur ReSpartoo ou être dûment autorisés à les vendre. Les vendeurs s'interdisent notamment de proposer à la vente des produits contrefaisants au sens du Code la propriété intellectuelle ou tout produit dont la commercialisation est réglementée en vertu de dispositions législatives, règlementaires ou contractuelles interdisant ou restreignant la vente des produits via les services ReSpartoo.  
+Les vendeurs sont seuls responsables de la mise en vente des produits qu'ils proposent sur ReSpartoo. Ils s’engagent notamment à ne pas vendre des produits portant atteinte à la propriété intellectuelle, volés, diffamatoires, injurieux, racistes, discriminatoires, incitant à la haine ou à la violence, dangereux, et plus généralement manifestant une infraction aux lois et règlements.  
   
-Le vendeur reconnait et accepte, en cas d’infraction aux règles susvisées, qu’il est le seul responsable des dommages directs et indirects qui en découlent à l’égard des tiers ou de NEW LIFE et de SPARTOO. Par conséquent, il reconnaît et accepte que SPARTOO, en sa qualité d’hébergeur, ne vérifie pas systématiquement le contenu de son annonce et ne sera en aucun cas tenu responsable desdits dommages à moins (i) que SPARTOO ait été dûment notifié de l'existence de contenus illicites au sens de la réglementation applicable, et (ii) qu'il n'ait pas retiré promptement ledit contenu de NEW LIFE. Notamment, sans que cette liste ne soit exhaustive, SPARTOO ne saurait être tenu pour responsable : (i) des actes ou des omissions des utilisateurs de NEW LIFE, (ii) des informations postées sur NEW LIFE par les utilisateurs, quant à leurs sujets, exactitude, exhaustivité et/ou conformité avec la réglementation applicable ou (iii) de la qualité et des quantités des articles qu’ils vendent ou achètent via l’utilisation du Site, ni de leur conformité avec la description donnée.  
+Le vendeur reconnait et accepte, en cas d’infraction aux règles susvisées, qu’il est le seul responsable des dommages directs et indirects qui en découlent à l’égard des tiers ou de ReSpartoo et de SPARTOO. Par conséquent, il reconnaît et accepte que SPARTOO, en sa qualité d’hébergeur, ne vérifie pas systématiquement le contenu de son annonce et ne sera en aucun cas tenu responsable desdits dommages à moins (i) que SPARTOO ait été dûment notifié de l'existence de contenus illicites au sens de la réglementation applicable, et (ii) qu'il n'ait pas retiré promptement ledit contenu de ReSpartoo. Notamment, sans que cette liste ne soit exhaustive, SPARTOO ne saurait être tenu pour responsable : (i) des actes ou des omissions des utilisateurs de ReSpartoo, (ii) des informations postées sur ReSpartoo par les utilisateurs, quant à leurs sujets, exactitude, exhaustivité et/ou conformité avec la réglementation applicable ou (iii) de la qualité et des quantités des articles qu’ils vendent ou achètent via l’utilisation du Site, ni de leur conformité avec la description donnée.  
   
-Il est rappelé que SPARTOO – NEW LIFE, en qualité d’hébergeur, n’opère aucun contrôle systématique ou a priori sur le contenu de l’annonce, à l’exception des éléments qui pourraient être liés à l’ordre public, à la sécurité intérieure, à la lutte contre le terrorisme et autres formes de criminalité organisée.  
+Il est rappelé que SPARTOO – ReSpartoo, en qualité d’hébergeur, n’opère aucun contrôle systématique ou a priori sur le contenu de l’annonce, à l’exception des éléments qui pourraient être liés à l’ordre public, à la sécurité intérieure, à la lutte contre le terrorisme et autres formes de criminalité organisée.  
 Le vendeur peut à tout moment procéder à la modification de son annonce ou à sa suppression.  
 En cas de vente validée, l’annonce est automatiquement supprimée dans les 15 minutes suivantes.  
 Une option « vacances » permet enfin au vendeur de suspendre la mise en ligne de l’intégralité de ses annonces. Le vendeur sera durant cette période « vacances » relancé tous les 30 jours quant à la permanence de cette suspension.
@@ -818,11 +818,11 @@ SPARTOO, hébergeur de cette annonce, est en droit de ne pas valider cette offre
 La mise en ligne de son annonce par le vendeur constitue juridiquement une offre de vente, qu’il doit en tant que telle respecter.  
 Le contrat de vente est conclu entre vendeur et acheteur, une fois que l’acheteur aura cliqué une première fois pour passer commande et une seconde pour la confirmer après avoir eu la faculté d’accéder au détail de sa commande et au prix global total, et le cas échéant, d’avoir pu modifier un ou plusieurs détails de sa commande avant confirmation.  
 Ce contrat de vente est soumis au droit commun de la vente. Aucun droit de rétractation ne bénéficie à l’acheteur, s’agissant d’une vente entre deux particuliers.  
-Compte tenu du caractère tripartite de l’opération de vente au sein de laquelle NEW LIFE intervient en qualité de plate-forme d’hébergement et de mandataire du vendeur pour la perception des fonds avant reversement avec bonus sous forme de chèque cadeau, la vente n’est pas annulable une fois celle-ci définitivement formée, ce à quoi acheteur et vendeur consentent expressément.  
+Compte tenu du caractère tripartite de l’opération de vente au sein de laquelle ReSpartoo intervient en qualité de plate-forme d’hébergement et de mandataire du vendeur pour la perception des fonds avant reversement avec bonus sous forme de chèque cadeau, la vente n’est pas annulable une fois celle-ci définitivement formée, ce à quoi acheteur et vendeur consentent expressément.  
   
 Sur le plan fiscal, s’agissant de ventes occasionnelles de biens d’occasion entre particuliers non professionnels et non commerçants, la TVA n’est pas applicable.  
 Les données échangées entre vendeur et acheteur relèvent de leurs responsabilités respectives.  
-Pour les acheteurs, la preuve de la vente est matérialisée par le document récapitulatif de la commande édité par NEW LIFE, accessible au sein de leurs comptes client et également reçu par email. Pour les vendeurs, la preuve de la vente est matérialisée par l'email informant de la vente de son ou ses produits, ainsi que de la mention "Vendu" ou "Mail expédié au client" sur son espace de vente.
+Pour les acheteurs, la preuve de la vente est matérialisée par le document récapitulatif de la commande édité par ReSpartoo, accessible au sein de leurs comptes client et également reçu par email. Pour les vendeurs, la preuve de la vente est matérialisée par l'email informant de la vente de son ou ses produits, ainsi que de la mention "Vendu" ou "Mail expédié au client" sur son espace de vente.
 
   
 
@@ -831,9 +831,9 @@ Pour les acheteurs, la preuve de la vente est matérialisée par le document ré
   
 
 Lorsqu’une vente est conclue, le vendeur reçoit par mail dans les 24h une étiquette de transport Mondial Relay.  
-Il dispose à compter de cette réception d’un délai de 5 jours ouvrés pour se rendre dans un point Mondial Relais et procéder à l’expédition du bien vendu à l’acheteur. Il doit alors informer NEW LIFE et l’acheteur en cochant la case “Commande expédiée” depuis son espace vendeur.  
+Il dispose à compter de cette réception d’un délai de 5 jours ouvrés pour se rendre dans un point Mondial Relais et procéder à l’expédition du bien vendu à l’acheteur. Il doit alors informer ReSpartoo et l’acheteur en cochant la case “Commande expédiée” depuis son espace vendeur.  
 Si cette confirmation n’intervient pas dans ce délai de 5 jours, la vente sera automatiquement annulée et le vendeur devra s’il le souhaite mettre à nouveau en ligne son annonce. Un email automatique sera adressé à l’acheteur dans cette hypothèse.  
-Si un vendeur ne respecte pas, trois fois d’affilée ce délai de 5 jours, son compte sera supprimé par NEW LIFE.  
+Si un vendeur ne respecte pas, trois fois d’affilée ce délai de 5 jours, son compte sera supprimé par ReSpartoo.  
 Parallèlement, à réception du colis, l’acheteur le signale depuis son compte client à la rubrique “Mes commandes”. Il confirme également le cas échéant la conformité du bien livré en cochant la case « Produit conforme ».
 
   
@@ -845,10 +845,10 @@ Parallèlement, à réception du colis, l’acheteur le signale depuis son compt
 Le vendeur s’engage à mettre en œuvre, de bonne foi, tous les moyens nécessaires au respect de ses obligations en délivrant des produits et un service conformes aux légitimes attentes des acheteurs.  
   
 Il est à cet égard précisé qu’en cas de succession anormale de litiges liés aux offres émises par un même vendeur, son compte fera l’objet d’un examen pour suspicion de fraude et pourra in fine faire l’objet d’une suspension, d’une suppression, sans préjudice de toute poursuite légitime.  
-L’acheteur s’engage à respecter ses obligations et à ne pas communiquer d’informations inexactes concernant notamment la livraison et l’état du bien acheté. Il s’engage plus globalement à toujours se conformer de bonne foi et loyalement, tant envers NEW LIFE qu’envers les acheteurs.  
+L’acheteur s’engage à respecter ses obligations et à ne pas communiquer d’informations inexactes concernant notamment la livraison et l’état du bien acheté. Il s’engage plus globalement à toujours se conformer de bonne foi et loyalement, tant envers ReSpartoo qu’envers les acheteurs.  
   
 Il est précisé qu’en cas de succession anormale de contestations par un même acheteur concernant les livraisons, son compte fera l’objet d’un examen pour suspicion de fraude et pourra in fine faire l’objet d’une suspension, d’une suppression, sans préjudice de toute poursuite légitime.  
-Les utilisateurs s’engagent à ne pas collecter et/ou divulguer des données des utilisateurs du site NEW LIFE, notamment les noms et adresses des acheteurs et vendeurs figurant sur le bordereau de livraison.  
+Les utilisateurs s’engagent à ne pas collecter et/ou divulguer des données des utilisateurs du site ReSpartoo, notamment les noms et adresses des acheteurs et vendeurs figurant sur le bordereau de livraison.  
   
 L’utilisateur s’engage à utiliser son compte de manière personnelle et à ne pas communiquer ses identifiants à des tiers.
 
@@ -859,11 +859,11 @@ L’utilisateur s’engage à utiliser son compte de manière personnelle et à 
   
 
 SPARTOO, hébergeur, n’est pas – sauf exception conformément au droit applicable synthétisé à l’article 4 – responsable du contenu des annonces publiées.  
-La responsabilité de NEW LIFE à l'égard du vendeur et de l’acheteur ne peut être engagée que pour des faits qui lui seraient directement imputables et qui causeraient au vendeur un préjudice direct et certain, à l'exclusion de tout préjudice indirect.  
-Le vendeur garantit et indemnisera à première demande SPARTOO de tout préjudice et contre toute action en responsabilité qui serait engagée à l'encontre de NEW LIFE du fait de la violation d'un droit quelconque d'un tiers, y compris d'un client, que ce préjudice résulte de la vente de produits, de l'utilisation faite par le vendeur des services de NEW LIFE ou de toute autre fait qui lui serait imputable.  
+La responsabilité de ReSpartoo à l'égard du vendeur et de l’acheteur ne peut être engagée que pour des faits qui lui seraient directement imputables et qui causeraient au vendeur un préjudice direct et certain, à l'exclusion de tout préjudice indirect.  
+Le vendeur garantit et indemnisera à première demande SPARTOO de tout préjudice et contre toute action en responsabilité qui serait engagée à l'encontre de ReSpartoo du fait de la violation d'un droit quelconque d'un tiers, y compris d'un client, que ce préjudice résulte de la vente de produits, de l'utilisation faite par le vendeur des services de ReSpartoo ou de toute autre fait qui lui serait imputable.  
   
 L’acheteur sera responsable à l’égard de SPARTOO de toute infraction contractuelle et/ou aux lois et aux règlements conformément au droit commun.  
-En outre, SPARTOO fait son maximum afin que NEW LIFE soit le plus sécurisé possible. Internet n'est cependant pas un réseau sécurisé et il est possible que la fiabilité du système soit compromise indépendamment de la volonté de SPARTOO. SPARTOO ne sera en aucun cas responsable d'évènements imprévisibles tels que des failles de sécurité concernant la transmission de données, des attaques délictuelles ou criminelles, ou la garantie des performances relatives au volume et à la rapidité de transmission des données. Dans ces conditions, il appartient aux utilisateurs de prendre toutes les mesures appropriées de façon à protéger leurs propres données et/ou logiciels notamment de la contamination par d'éventuels virus circulant sur Internet.
+En outre, SPARTOO fait son maximum afin que ReSpartoo soit le plus sécurisé possible. Internet n'est cependant pas un réseau sécurisé et il est possible que la fiabilité du système soit compromise indépendamment de la volonté de SPARTOO. SPARTOO ne sera en aucun cas responsable d'évènements imprévisibles tels que des failles de sécurité concernant la transmission de données, des attaques délictuelles ou criminelles, ou la garantie des performances relatives au volume et à la rapidité de transmission des données. Dans ces conditions, il appartient aux utilisateurs de prendre toutes les mesures appropriées de façon à protéger leurs propres données et/ou logiciels notamment de la contamination par d'éventuels virus circulant sur Internet.
 
   
 
@@ -871,7 +871,7 @@ En outre, SPARTOO fait son maximum afin que NEW LIFE soit le plus sécurisé pos
 
   
 
-En cas de non-conformité de l’annonce aux CGU NEW LIFE, et CGV SPARTOO en ce qu’elles sont applicables, SPARTOO pourra suspendre la publication d’une annonce, supprimer une annonce ou refuser sa publication. SPARTOO pourra également dans les mêmes hypothèses supprimer un compte vendeur. L’intéressé pourra présenter contradictoirement tout élément utile à la défense de ses droits.  
+En cas de non-conformité de l’annonce aux CGU ReSpartoo, et CGV SPARTOO en ce qu’elles sont applicables, SPARTOO pourra suspendre la publication d’une annonce, supprimer une annonce ou refuser sa publication. SPARTOO pourra également dans les mêmes hypothèses supprimer un compte vendeur. L’intéressé pourra présenter contradictoirement tout élément utile à la défense de ses droits.  
   
 En outre, dans ces mêmes hypothèses, SPARTOO pourra procéder à des mesures de blocage, par identification de l’IP d’une personne identifiée comme ayant fraudé ou tenté de frauder, de toute demande émanant de cette même IP ou du même ordinateur, pour des motifs de préservation de ses intérêts et des utilisateurs, de sécurité et de lutte contre la fraude.  
   
@@ -885,14 +885,14 @@ Dans les autres cas susvisés, l’octroi des sommes sera conservatoirement bloq
   
 
 Le prix de vente est librement déterminé par le vendeur. Il est exprimé en euros.  
-NEW LIFE, et SPARTOO ne perçoivent aucune rémunération ou commission sur ce prix de vente. SPARTOO bénéficie par le système commercial et contractuel adopté d’une fidélisation de sa clientèle, et d’un élargissement de celle-ci. En effet, vendeurs et acheteurs par l’utilisation de NEW LIFE sont par là même utilisateurs de la gamme de services proposés par SPARTOO. SPARTOO bénéficie par ailleurs de ventes à terme projetées du fait de l’utilisation des chèques cadeaux distribués au fur et à mesure des ventes intervenant entre les particuliers.  
+ReSpartoo, et SPARTOO ne perçoivent aucune rémunération ou commission sur ce prix de vente. SPARTOO bénéficie par le système commercial et contractuel adopté d’une fidélisation de sa clientèle, et d’un élargissement de celle-ci. En effet, vendeurs et acheteurs par l’utilisation de ReSpartoo sont par là même utilisateurs de la gamme de services proposés par SPARTOO. SPARTOO bénéficie par ailleurs de ventes à terme projetées du fait de l’utilisation des chèques cadeaux distribués au fur et à mesure des ventes intervenant entre les particuliers.  
   
 Le prix de vente est susceptible d’être réglé selon les modes de paiement suivants :  
 \- Par carte bancaire en ligne  
 \- Via un compte PayPal.  
   
-Le prix de vente est directement perçu par SPARTOO au moment de la validation de la commande. Le vendeur donne en effet expressément mandat par les présentes à SPARTOO de collecter le prix de vente. Il est ensuite convenu que la restitution du prix intervienne après conversion de son montant, majoré de 50%, en chèque-cadeau SPARTOO. Le vendeur est ainsi rétribué à hauteur de 50% supplémentaire sur le prix de vente convenu, et accepte que la valeur perçue soit uniquement et définitivement dédiée, via cette conversion en chèque cadeau, à des achats sur le site SPARTOO hors produits partenaires, et hors plate-forme NEW LIFE, pendant une durée d’une année. A l’issue de cette durée et sans utilisation, les sommes seront perdues. L’utilisateur se verra cependant notifier un rappel 30 jours au moins avant cette échéance.  
-SPARTOO reverse les sommes au vendeur, après que l’acheteur aura validé la réception conforme, dans un délai de 72h maximum après cette validation. En l’absence d’une telle validation mais si NEW LIFE est informé par le transporteur de la bonne livraison du produit, le versement sera également réalisé. En cas de litige concernant la conformité du produit, la situation sera résolue conformément aux articles 12, 13 et 14 ci-après.  
+Le prix de vente est directement perçu par SPARTOO au moment de la validation de la commande. Le vendeur donne en effet expressément mandat par les présentes à SPARTOO de collecter le prix de vente. Il est ensuite convenu que la restitution du prix intervienne après conversion de son montant, majoré de 50%, en chèque-cadeau SPARTOO. Le vendeur est ainsi rétribué à hauteur de 50% supplémentaire sur le prix de vente convenu, et accepte que la valeur perçue soit uniquement et définitivement dédiée, via cette conversion en chèque cadeau, à des achats sur le site SPARTOO hors produits partenaires, et hors plate-forme ReSpartoo, pendant une durée d’une année. A l’issue de cette durée et sans utilisation, les sommes seront perdues. L’utilisateur se verra cependant notifier un rappel 30 jours au moins avant cette échéance.  
+SPARTOO reverse les sommes au vendeur, après que l’acheteur aura validé la réception conforme, dans un délai de 72h maximum après cette validation. En l’absence d’une telle validation mais si ReSpartoo est informé par le transporteur de la bonne livraison du produit, le versement sera également réalisé. En cas de litige concernant la conformité du produit, la situation sera résolue conformément aux articles 12, 13 et 14 ci-après.  
   
 Il est rappelé que le versement intervient sous la forme d’un chèque cadeau, majoré de 50%, valable 12 mois, inscrit sur le compte cagnotte de l’utilisateur.  
 
@@ -910,12 +910,12 @@ Non réception du colis / Produit non conforme – endommagé
 L’acheteur dispose d’un délai de 4 jours à compter de la date de livraison prévue pour signaler une non réception de son colis.  
 Pour cela, il lui suffit de cocher la case “Je n’ai pas reçu mon colis ou Produit non conforme” depuis son espace client à la rubrique “Mes commandes”.  
 Cela suspendra la vente :  
-\- L'acheteur et le vendeur pourront alors résoudre la situation par eux-mêmes et informer NEW LIFE de leur décision commune. NEW LIFE s'engage dans cette hypothèse précise d’annulation amiable à se conformer à cette décision et à rembourser l'acheteur des sommes qu’il a versées.  
-\- Dans le cas où l'acheteur et le vendeur ne parviendraient pas directement à un accord, ou ne souhaiteraient pas régler la situation directement, si NEW LIFE considère que le produit n’est en effet pas conforme ou est endommagé, NEW LIFE annulera la vente et remboursera l’acheteur, et débitera le vendeur des sommes correspondantes. L’acheteur bénéficiera d’un retour gratuit, en contactant à cet effet le service client, il recevra alors une étiquette retour Mondial Relay, et le remboursement des sommes versées interviendra une fois le colis réceptionné, dans un délai maximum de 7 jours.  
+\- L'acheteur et le vendeur pourront alors résoudre la situation par eux-mêmes et informer ReSpartoo de leur décision commune. ReSpartoo s'engage dans cette hypothèse précise d’annulation amiable à se conformer à cette décision et à rembourser l'acheteur des sommes qu’il a versées.  
+\- Dans le cas où l'acheteur et le vendeur ne parviendraient pas directement à un accord, ou ne souhaiteraient pas régler la situation directement, si ReSpartoo considère que le produit n’est en effet pas conforme ou est endommagé, ReSpartoo annulera la vente et remboursera l’acheteur, et débitera le vendeur des sommes correspondantes. L’acheteur bénéficiera d’un retour gratuit, en contactant à cet effet le service client, il recevra alors une étiquette retour Mondial Relay, et le remboursement des sommes versées interviendra une fois le colis réceptionné, dans un délai maximum de 7 jours.  
   
-En l'absence de déclaration de la réclamation dans le délai de 4 jours à compter de la réception de la commande, ou en cas de confirmation de la bonne réception de la commande sur votre compte acheteur NEW LIFE (en cochant la case "produit réceptionné"), la transaction sera considérée comme étant réalisée et définitive.  
+En l'absence de déclaration de la réclamation dans le délai de 4 jours à compter de la réception de la commande, ou en cas de confirmation de la bonne réception de la commande sur votre compte acheteur ReSpartoo (en cochant la case "produit réceptionné"), la transaction sera considérée comme étant réalisée et définitive.  
   
-En cas de perte ou de vol du colis le vendeur ou le client peut contacter le service client NEW LIFE à l’adresse arthur@spartoo.com.  
+En cas de perte ou de vol du colis le vendeur ou le client peut contacter le service client ReSpartoo à l’adresse arthur@spartoo.com.  
   
 En cas de non retirement du colis par l’acheteur dans les délais requis, et en conséquence d’un retour expéditeur, la vente sera annulée et l’acheteur remboursé du prix payé, déduction faite des frais de livraison.  
 Le client sera contacté par mail et SPARTOO interviendra alors pour une enquête ou/et un dédommagement d’une ou des deux parties.  
@@ -942,10 +942,10 @@ Une obligation de conformité incombe au vendeur, mais uniquement sur les aspect
 
 Un système de règlement de litiges est mis en place s’agissant notamment :  
 \- des litiges entre utilisateurs  
-\- des litiges entre NEW LIFE et les utilisateurs  
+\- des litiges entre ReSpartoo et les utilisateurs  
 Ses coordonnées sont les suivantes : arthur@spartoo.com  
   
-Il est organisé par le service client NEW LIFE, lequel lorsqu’il sera contacté suite à un dysfonctionnement et/ou litige, prendra attache avec les parties concernées (acheteur, vendeur, transporteur) afin d’assoir sa position et d’en faire part aux parties concernées, avant de proposer une solution au litige.  
+Il est organisé par le service client ReSpartoo, lequel lorsqu’il sera contacté suite à un dysfonctionnement et/ou litige, prendra attache avec les parties concernées (acheteur, vendeur, transporteur) afin d’assoir sa position et d’en faire part aux parties concernées, avant de proposer une solution au litige.  
 Les solutions aux litiges sont traitées conformément au droit applicable, aux CGU et CGV, et peuvent faire l’objet d’avancées et de résolutions amiablement consenties entre toutes les parties, sans un souci de médiation et de conciliation.  
 Selon la directive 2013/11/UE du 21 mai 2013 relatif au règlement extrajudiciaire des litiges de consommateurs, les parties peuvent également prendre contact avec la plateforme européenne de règlement des litiges en ligne : [http://ec.europa/odr](http://ec.europa/odr)
 
@@ -959,7 +959,7 @@ Selon la directive 2013/11/UE du 21 mai 2013 relatif au règlement extrajudiciai
 
   
 
-La mise en ligne d'informations ou de données (à l’exception des données à caractère personnel telles que définies par la Loi Informatique et Libertés du 6 janvier 1978), notamment de photographies sur NEW LIFE vaut consentement par les utilisateurs d’une licence non exclusive d’utilisation de ce contenu à travers le monde, valable pendant toute la durée des droits applicables, le cas échéant (et leurs possibles prolongations). Ladite licence comprend le droit d'utiliser, de copier, de reproduire, d'afficher et d'adapter ce contenu. NEW LIFE peut utiliser ce contenu sur tout support connu ou inconnu à ce jour et notamment à la télévision, dans les journaux, sur Internet (dans les bannières et les articles, les diffuser sur d’autres sites internet) et sur les réseaux sociaux (Facebook, Twitter, Instagram etc.), et ce à des fins commerciales, publicitaires et internes au Groupe SPARTOO, ce que l’utilisateur accepte. Les utilisateurs peuvent néanmoins adresser par courriel à l’adresse arthur@spartoo.com une interdiction de l’utilisation de ce contenu.
+La mise en ligne d'informations ou de données (à l’exception des données à caractère personnel telles que définies par la Loi Informatique et Libertés du 6 janvier 1978), notamment de photographies sur ReSpartoo vaut consentement par les utilisateurs d’une licence non exclusive d’utilisation de ce contenu à travers le monde, valable pendant toute la durée des droits applicables, le cas échéant (et leurs possibles prolongations). Ladite licence comprend le droit d'utiliser, de copier, de reproduire, d'afficher et d'adapter ce contenu. ReSpartoo peut utiliser ce contenu sur tout support connu ou inconnu à ce jour et notamment à la télévision, dans les journaux, sur Internet (dans les bannières et les articles, les diffuser sur d’autres sites internet) et sur les réseaux sociaux (Facebook, Twitter, Instagram etc.), et ce à des fins commerciales, publicitaires et internes au Groupe SPARTOO, ce que l’utilisateur accepte. Les utilisateurs peuvent néanmoins adresser par courriel à l’adresse arthur@spartoo.com une interdiction de l’utilisation de ce contenu.
 
   
 
@@ -967,18 +967,18 @@ La mise en ligne d'informations ou de données (à l’exception des données à
 
   
 
-Les données échangées entre vendeur et acheteur doivent être utilisées par chacune des parties au contrat de vente avec bonne foi, loyauté, et dans l’unique dessein à l’origine de leur communication, à savoir la réalisation potentielle d’une vente. Vendeur et acheteur s’engagent à n’en conserver aucune copie, toute utilisation non conforme à l’utilisation de la plate-forme NEW LIFE étant prohibée.  
+Les données échangées entre vendeur et acheteur doivent être utilisées par chacune des parties au contrat de vente avec bonne foi, loyauté, et dans l’unique dessein à l’origine de leur communication, à savoir la réalisation potentielle d’une vente. Vendeur et acheteur s’engagent à n’en conserver aucune copie, toute utilisation non conforme à l’utilisation de la plate-forme ReSpartoo étant prohibée.  
   
-La gestion des données à caractère personnel des utilisateurs et membres NEW LIFE est, en dehors de ce qui suit, strictement identique à celle en cours et applicable à l’utilisation et à l’enregistrement en qualité de membre au sein du site SPARTOO (article 14 des CGV SPARTOO).  
-Les dispositions applicables à la collecte, aux finalités, à la lutte contre la fraude, aux destinataires, aux durées de conservation, à la sécurité, aux cookies, au consentement, et aux droits d’accès, de rectification, de suppression, à l’oubli, et à la portabilité, sont applicables aux membres NEW LIFE de façon identique à celles qui sont applicables aux membres SPARTOO.  
-Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et NEW LIFE.
+La gestion des données à caractère personnel des utilisateurs et membres ReSpartoo est, en dehors de ce qui suit, strictement identique à celle en cours et applicable à l’utilisation et à l’enregistrement en qualité de membre au sein du site SPARTOO (article 14 des CGV SPARTOO).  
+Les dispositions applicables à la collecte, aux finalités, à la lutte contre la fraude, aux destinataires, aux durées de conservation, à la sécurité, aux cookies, au consentement, et aux droits d’accès, de rectification, de suppression, à l’oubli, et à la portabilité, sont applicables aux membres ReSpartoo de façon identique à celles qui sont applicables aux membres SPARTOO.  
+Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et ReSpartoo.
 
   
 
 #### 15.3. « Cookies »
 
   
-Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et NEW LIFE, s’agissant des cookies.
+Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) permet d’accéder à la politique de confidentialité SPARTOO et ReSpartoo, s’agissant des cookies.
 
   
 
@@ -988,10 +988,10 @@ Ce lien : [https://www.spartoo.com/cnil.php](https://www.spartoo.com/cnil.php) p
 
 Si une ou plusieurs stipulations des présentes est tenue pour non valide ou déclarée comme telle en application d'une loi, d'un règlement ou d'une décision passée en force de chose jugée, les autres stipulations garderont toute leur force et toute leur portée.  
 Les présentes CGU sont susceptibles d’évoluer et d’être ainsi modifiées, dans le respect d’un préavis de 30 jours. Sauf réforme d’ordre public immédiatement applicable, les nouvelles dispositions issues de l’évolution des CGU seront applicables immédiatement aux seules nouvelles annonces et inscriptions.  
-SPARTOO peut mettre fin ou suspendre ou céder à des tiers l’exploitation de NEW LIFE, sous réserve d’en aviser les utilisateurs dans le respect d’un préavis de trente (30) jours et de respecter ses obligations vis-à-vis de ses cocontractants, notamment en termes de droits liés aux chèques cadeaux en comptes vendeur.  
+SPARTOO peut mettre fin ou suspendre ou céder à des tiers l’exploitation de ReSpartoo, sous réserve d’en aviser les utilisateurs dans le respect d’un préavis de trente (30) jours et de respecter ses obligations vis-à-vis de ses cocontractants, notamment en termes de droits liés aux chèques cadeaux en comptes vendeur.  
 Les présentes CGU n’ont pas pour effet de créer entre SPARTOO et les utilisateurs une société créée de fait, un partenariat, des relations de travail, des relations d’agence commerciale ou encore de franchise.  
   
-SPARTOO pourra, sous réserve des lois sur les protections des données à caractère personnel applicables, transférer/céder l’ensemble des droits et obligations qui sont attachés aux présentes, à tous tiers, notamment en cas de cession de branche d’activité, de fusion par constitution d’une nouvelle société, de fusion absorption, de transmission universelle de patrimoine, de scission ou de tout changement de contrôle affectant SPARTOO. Un tel transfert/une telle cession libèrera SPARTOO pour l’avenir, dans le respect du droit applicable. En cas de transfert/cession des droits et obligations qui sont attachés aux présentes à des tiers, l'utilisateur pourra mettre fin immédiatement à ses relations avec SPARTOO et clôturer son compte NEW LIFE.
+SPARTOO pourra, sous réserve des lois sur les protections des données à caractère personnel applicables, transférer/céder l’ensemble des droits et obligations qui sont attachés aux présentes, à tous tiers, notamment en cas de cession de branche d’activité, de fusion par constitution d’une nouvelle société, de fusion absorption, de transmission universelle de patrimoine, de scission ou de tout changement de contrôle affectant SPARTOO. Un tel transfert/une telle cession libèrera SPARTOO pour l’avenir, dans le respect du droit applicable. En cas de transfert/cession des droits et obligations qui sont attachés aux présentes à des tiers, l'utilisateur pourra mettre fin immédiatement à ses relations avec SPARTOO et clôturer son compte ReSpartoo.
 
 24 Droit applicable - Langue
 ----------------------------
