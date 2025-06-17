@@ -110,7 +110,7 @@ En cas de retard des Passagers, le transporteur aérien est responsable des domm
   
 **1.4 Destruction, perte ou détérioration des Bagages  
 **  
-Le Transporteur est responsable en cas de destruction, perte ou détérioration des Bagages, à concurrence de 1288 DTS (environ 1.592 EUR). Dans le cas de Bagages Enregistrés, le Transporteur n'est pas responsable s'il établit que la destruction, la perte ou l'avarie de la marchandise résulte de l'un ou de plusieurs des faits suivants : a) la nature ou le vice propre de la marchandise ; b) l'emballage défectueux de la marchandise par une personne autre que le Transporteur ou ses préposés ou mandataires ; c) un fait de guerre ou un conflit armé ; d) un acte de l'autorité publique accompli en relation avec l'entrée, la sortie ou le transit de la marchandise.  
+Le Transporteur est responsable en cas de destruction, perte ou détérioration des Bagages, à concurrence de 1519 DTS (environ 1.862 EUR). Dans le cas de Bagages Enregistrés, le Transporteur n'est pas responsable s'il établit que la destruction, la perte ou l'avarie de la marchandise résulte de l'un ou de plusieurs des faits suivants : a) la nature ou le vice propre de la marchandise ; b) l'emballage défectueux de la marchandise par une personne autre que le Transporteur ou ses préposés ou mandataires ; c) un fait de guerre ou un conflit armé ; d) un acte de l'autorité publique accompli en relation avec l'entrée, la sortie ou le transit de la marchandise.  
   
 **1.5 Plafonds plus élevés pour les Bagages  
 **  
