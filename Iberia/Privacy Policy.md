@@ -1,8 +1,8 @@
 Politique de protection des données personnelles
 ================================================
 
-En vigueur depuis le 15 Décembre 2023
--------------------------------------
+En vigueur depuis le 18 juin 2025
+---------------------------------
 
 Politique de protection des données personnelles pour clients et passagers
 
@@ -396,24 +396,24 @@ De même, vos données personnelles pourront être envoyées à des tiers situé
 
 * _**Exemple** : nous devrons fournir un accès à nos systèmes de réservation et d'enregistrement au personnel de nos agents de handling qui nous prêtes des services hors d'Espagne._
 
-#### Quels sont vos droits lorsque vous nous fournissez vos données ?
+#### Quels sont vos droits lorsque vous nous fournissez vos données ?
 
 Vous pouvez exercer, si vous le souhaitez, des droits **d'accès, de rectification et de suppression des données**, et demander la **limitation du traitement** de vos données personnelles **ou vous y opposer**, demander la **portabilité** de vos données, et **qu'elles ne fassent pas l'objet de décisions individuelles automatisées** par les moyens suivants :
 
 * Si vous êtes un **CLIENT ENREGISTRÉ**, vous pouvez exercer la plupart de ces droits via votre profil en ligne sur www.iberia.com, en accédant à votre espace privé.
-* Si vous êtes **MEMBRE D'IBERIA PLUS**, vous pouvez faire valoir la **plupart de ces droits** sur votre profil en ligne sur www.iberia.com, en accédant à votre espace personnel d'Iberia Plus dans la rubrique « Mon profil/Préférences ».
+* Si vous êtes **MEMBRE D'IBERIA CLUB**, vous pouvez faire valoir la **plupart de ces droits** sur votre profil en ligne sur www.iberia.com, en accédant à votre espace personnel d'IBERIA CLUB dans la rubrique « Mon profil/Préférences ».
 * De même, si vous êtes **MEMBRE D'ON BUSINESS**, vous pouvez faire valoir la plupart de ces droits à travers votre profil en ligne sur [onbusiness.iberia.com](https://onbusiness.iberia.com/group/ib/my-profile?language=fr "onbusiness.iberia.com"), en accédant à votre espace personnel d'entreprise.
-* Pour faire valoir **le reste de vos droits, ou si VOUS N'ÊTES PAS MEMBRE D'IBERIA PLUS ou d'ON BUSINESS, ni CLIENT ENREGISTRÉ**, vous pouvez exercer chacun des droits précédents mentionnés au moyen du formulaire en ligne de gestion des droits individuels, disponible sur notre Site web à l'adresse suivante : [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
+* Pour faire valoir **le reste de vos droits, ou si VOUS N'ÊTES PAS MEMBRE D'IBERIA CLUB ou d'ON BUSINESS, ni CLIENT ENREGISTRÉ**, vous pouvez exercer chacun des droits précédents mentionnés au moyen du formulaire en ligne de gestion des droits individuels, disponible sur notre Site web à l'adresse suivante : [Gestion des données personnelles](https://www.iberia.com/fr/gestion-des-donnees-personnelles/ "Gestion des données personnelles").
 
 Pour nous permettre de répondre à votre demande, nous vous demanderons de bien vouloir nous fournir, quel que soit le cas, les informations et les documents indiqués comme obligatoires dans le formulaire :
 
 * Votre nom complet de requérant
-* Document d'identité
 * Coordonnées de contact (au moins une adresse e-mail)
 * Objet de votre demande.
 * Toute information qui nous permette de localiser des informations relatives à l'objet de votre demande, comme le code de réservation ou les numéros et dates des vols.
-* Une photocopie de votre carte d'identité ou de votre passeport, pour nous permettre de vérifier votre identité.
 * Si vous présentez la demande au nom d'une autre personne, vous devrez fournir une autorisation signée par cette dernière, ainsi qu'une pièce d'identité lui appartenant.
+
+Une photocopie de votre document d’identité ou passeport ne vous sera demandée que si la compagnie a des doutes raisonnables sur votre identité.
 
 #### Contact dans d'autres pays externes à l'Espace économique européen
 
@@ -426,6 +426,8 @@ Pour le reste des pays, vous pouvez envoyer un e-mail à notre Bureau de protect
 Dans tous les cas, vous pourrez présenter une réclamation auprès de l'Agence espagnole de protection des données, en particulier si vous n'avez pas obtenu satisfaction dans l'exercice de vos droits, sur le site Web [www.aepd.es](https://www.aepd.es/es "Ir a: aepd[Abre otro sitio en una ventana nueva que puede que no cumpla las normas de accesibilidad.]").
 
 #### Versions précédentes
+
+[Politique de confidentialité en vigueur du 15/12/2023 au 18/6/2025](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477882917601&origin=6477882917601&modalTitle=Versi%C3%B3n+del+15-12-2023&url=%23&d= "Versión del 15-12-2023")
 
 [Politique de confidentialité en vigueur du 30/06/2023 au 15/12/2023](https://www.iberia.com/cs/Satellite?pagename=IB_SE%2FCacheControl6h%2FBrowserCache3600%2FPage%2FShowModal&locale=fr&market=FR&assettype=CustomLink_C&assetid=6477837959319&origin=6477837959319&modalTitle=Versi%C3%B3n+del+30-06-2023&url=%23&d= "Versión del 30-06-2023")
 
