@@ -9,35 +9,21 @@ Nous vous invitons à lire attentivement nos conditions générales de vente (le
 
 **Table des matières**
 
-\- Article 1 - Qui sommes-nous ?
-
-\- Article 2 -Comment devenir membre ?
-
-\- Article 3 - Comment commander sur notre Site ?
-
-\- Article 4 - Quels prix pratiquons-nous ?
-
-\- Article 5 - Comment régler votre commande ?
-
-\- Article 6 - Quand vos produits vous seront-ils livrés ?
-
-\- Article 7 - Quand vais-je recevoir mon coupon ?
-
-\- Article 8 - Comment utiliser mon coupon ?
-
-\- Article 9 - Comment faire si vous avez changé d'avis ?
-
-\- Article 10 - Quelles garanties pour vos produits ?
-
-\- Article 11 - Comment utiliser vos avantages Showroomprive ?
-
-\- Article 12 - Et vos données dans tout ça ?
-
-\- Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?
-
-\- Article 14 - Liste d'opposition au démarchage téléphonique
-
-\- Article 15 - Mentions légales
+[Article 1 - Qui sommes-nous ?](#article1)  
+[Article 2 - Comment devenir membre ?](#article2)  
+[Article 3 - Comment commander sur notre Site ?](#article3)  
+[Article 4 - Quels prix pratiquons-nous ?](#article4)  
+[Article 5 - Comment régler votre commande ?](#article5)  
+[Article 6 - Quand allez-vous être livré ?](#article6)  
+[Article 7 - Quand vais-je recevoir mon coupon ?](#article7)  
+[Article 8 - Comment utiliser mon coupon ?](#article8)  
+[Article 9 - Comment faire si vous avez changé d'avis ?](#article9)  
+[Article 10 - Quelles garanties pour vos produits ?](#article10)  
+[Article 11 - Comment utiliser vos avantages Showroomprive ?](#article11)  
+[Article 12 - Et vos données dans tout ça ?](#article12)  
+[Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?](#article13)  
+[Article 14 - Liste d'opposition au démarchage téléphonique](#article14)  
+[Article 15 - Mentions légales](#article15)
 
 **Article 1 - Qui sommes-nous ?**
 
@@ -183,7 +169,7 @@ Nous faisons appel à plusieurs mécanismes dans le cadre de la lutte contre la 
 
 Nous nous réservons le droit de procéder à l'annulation de la commande concernée et au blocage du compte si les vérifications menées établissent la fourniture de données inexactes, ou en cas de non-réception des justificatifs demandés dans le délai imparti. Vous serez informé de ce qui précède par mail. Dans le cadre de ce traitement, nous vous rappelons que vous disposez de l'ensemble des droits listés à l'article 1-6 de notre Politique de confidentialité, disponible [**ici**](https://www.showroomprive.com/politique_confidentialite.aspx) .
 
-**Article 6 - Quand vos produits vous seront-ils livrés ?**
+****Article 6 - Quand allez-vous être livré ?****
 
 6.1 Où et comment pouvez-vous être livré ?
 
@@ -253,13 +239,13 @@ o Produits volumineux dits non transportables sans équipement (à savoir : _pro
 
 \- La literie doit être emballée dans une sache ou housse d'origine.
 
-**Article 7 - Quand vais-je recevoir mon Coupon ?**
+**Article 7 - Quand vais-je recevoir mon coupon ?**
 
 Après avoir procédé au paiement de votre commande, vos Coupon vous sera directement envoyé à l'adresse mail enregistrée sur votre compte client. Aucun Coupon ne sera envoyé par courrier.
 
 Vous pourrez également télécharger votre Coupon à tout moment dans la rubrique « Mes commandes » accessible dans votre espace client.
 
-**Article 8 - Comment utiliser mon Coupon ?**
+**Article 8 - Comment utiliser mon coupon ?**
 
 Les Coupons proposés sur notre Site ont une durée de validité définie et limitée. Les Coupons doivent être utilisés auprès de notre partenaire dans les conditions définies dans le descriptif des Coupon et reproduites sur votre Coupon.
 
@@ -483,7 +469,7 @@ Vous recevrez alors une étiquette prépayée à apposer sur le colis pour nous 
 
 Ne pourront pas bénéficier des garanties les produits que vous avez modifiés, réparés, intégrés, ou ajoutés', les produits dont les vices sont apparents au moment de l'achat, et les produits endommagés suite à une mauvaise utilisation.
 
-**Article 11 - Comment utiliser vos avantages Showroomprive ?**
+****Article 11 - Comment utiliser vos avantages Showroomprive ?****
 
 Vous pouvez consulter vos avantages et leurs modalités d'utilisation dans votre compte, rubrique « Mes avantages ».
 
@@ -497,7 +483,7 @@ Les modalités de remboursement des achats effectués avec un avantage sont acce
 
 Lors de votre visite sur le Site, vos données sont susceptibles de faire l'objet d'un traitement informatique. Nous vous invitons à vous reporter à notre [« Politique de Confidentialité et de protection de la vie privée - Cookie ».](https://www.showroomprive.com/politique_confidentialite.aspx)
 
-**Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?**
+****Article 13 - Que se passe-t-il si vous n'êtes pas satisfaits ?****
 
 Nos CGV sont soumises au droit français, Chaque commande est soumise aux CGV en vigueur au jour de sa passation. En cas de litige, nous vous invitons à nous contacter afin de trouver ensemble une solution amiable :
 
@@ -513,7 +499,7 @@ La Commission Européenne met également à votre disposition une plateforme de 
 
 Dans le cas où aucune solution amiable ne serait trouvée, les tribunaux français seront compétents.
 
-**Article 14 - Liste d'opposition au démarchage téléphonique**
+****Article 14 - Liste d'opposition au démarchage téléphonique****
 
 Comme indiqué dans notre Politique de Confidentialité, Showroomprive.com peut être amenée à recueillir votre numéro de téléphone notamment lors du passage de votre commande ou encore lorsque que vous le renseigner dans des formulaires dédiés sur notre site. Vous disposez du droit de vous inscrire gratuitement sur la liste d'opposition au démarchage téléphonique Bloctel. Pour plus d'informations nous vous invitons à consulter directement le site [Bloctel](https://www.bloctel.gouv.fr/).
 
