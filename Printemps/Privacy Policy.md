@@ -2,6 +2,8 @@
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere)
     
+* [\-10% supplémentaires](http://printemps.com/fr/fr/premiere-date-avant-premiere/sel/-10%25+suppl%C3%A9mentaires)
+    
 * [Femme](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/OFF-WHITE/LANCEL/PRADA/)
@@ -82,6 +84,7 @@
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
+    * [\-10% supplémentaires](http://printemps.com/fr/fr/premiere-date-avant-premiere-femme/sel/-10%25+suppl%C3%A9mentaires)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme)
     * [Luxe](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BALMAIN/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-femme/esp/Sacs)
@@ -169,6 +172,7 @@
     
 
 * [AVANT-PREMIÈRES : jusqu'à -40%](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
+    * [\-10% supplémentaires](http://printemps.com/fr/fr/premiere-date-avant-premiere-homme/sel/-10%25+suppl%C3%A9mentaires)
     * [Voir tout](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme)
     * [Vêtements](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/esp/V%C3%AAtements)
     * [Baskets](https://www.printemps.com/fr/fr/premiere-date-avant-premiere-homme/cat0/Baskets)
@@ -367,29 +371,29 @@
     
 
 * [NOUVELLES MARQUES](#)
-    * [Diptyque](https://www.printemps.com/fr/fr/diptyque-beaute)
-    * [Gerard Darel](https://www.printemps.com/fr/fr/gerard-darel-femme)
-    * [Lancaster](https://www.printemps.com/fr/fr/lancaster)
-    * [Manucurist](https://www.printemps.com/fr/fr/manucurist-beaute)
-    * [Laura Mercier](https://www.printemps.com/fr/fr/laura-mercier-beaute)
-    * [Kleman](https://www.printemps.com/fr/fr/kleman)
-    * [Save the duck](https://www.printemps.com/fr/fr/save-the-duck-homme)
-    * [Cabaia](https://www.printemps.com/fr/fr/cabaia-femme)
-    * [Dragon Diffusion](https://www.printemps.com/fr/fr/dragon-diffusion-femme)
+    * [Loewe](https://www.printemps.com/fr/fr/loewe-femme)
+    * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
+    * [Represent](https://www.printemps.com/fr/fr/represent-homme)
+    * [Boss](https://www.printemps.com/fr/fr/hugo-boss-homme)
+    * [Suncoo](https://www.printemps.com/fr/fr/suncoo-femme)
+    * [Caudalie](https://www.printemps.com/fr/fr/caudalie-beaute)
+    * [Givenchy beauté](https://www.printemps.com/fr/fr/givenchy-beaute)
+    * [Les deux](https://www.printemps.com/fr/fr/lesdeux-homme)
+    * [Kenzo beauté](https://www.printemps.com/fr/fr/kenzo-beaute)
 
 * [TOP MARQUES](#)
     * [Saison 1865](https://www.printemps.com/fr/fr/saison1865)
     * [Jacquemus](https://www.printemps.com/fr/fr/jacquemus)
     * [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren)
-    * [Ami Paris](https://www.printemps.com/fr/fr/univers-amiparis)
-    * K-way
+    * [Autry](https://www.printemps.com/fr/fr/univers-autry)
+    * [Birkenstock](https://www.printemps.com/fr/fr/birkenstock)
     * Jérôme Dreyfuss
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
-    * [Le Tanneur](https://www.printemps.com/fr/fr/le-tanneur)
-    * [Prada](https://www.printemps.com/fr/fr/prada)
+    * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs)
-    * [Michael Kors](https://www.printemps.com/fr/fr/michael-kors)
-    * [Moncler](https://www.printemps.com/fr/fr/moncler)
+    * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
+    * [Adidas](https://www.printemps.com/fr/fr/adidas)
 
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
