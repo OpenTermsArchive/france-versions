@@ -1,5 +1,5 @@
 Conditions d’utilisation du site Welcometothejungle.com
-=======================================================
+-------------------------------------------------------
 
 ### Version en date du 29 août 2024
 
