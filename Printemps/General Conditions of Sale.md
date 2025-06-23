@@ -411,7 +411,6 @@
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [L'horlogerie et la joaillerie passent à la Dolce Vita](https://www.printemps.com/fr/fr/edito-magasins-joaillerie-bijouterie-horlogerie-dolce-vita-2025)
-    * [Dolce Vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
     * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
     * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
     * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
