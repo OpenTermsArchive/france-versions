@@ -1,5 +1,5 @@
 Politique de confidentialité à destination des recruteurs
-=========================================================
+---------------------------------------------------------
 
 ### Version en date du 16 janvier 2024
 
