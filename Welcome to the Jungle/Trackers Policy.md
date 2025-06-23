@@ -1,5 +1,5 @@
 Politique de gestion des cookies de Welcome to the Jungle
-=========================================================
+---------------------------------------------------------
 
 ### Version en date du 21 décembre 2022
 
