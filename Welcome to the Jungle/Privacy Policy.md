@@ -1,5 +1,5 @@
 Politique de confidentialité à destination des candidats
-========================================================
+--------------------------------------------------------
 
 ### Version en date du 29 août 2024
 
