@@ -4,6 +4,8 @@ BZB s’engage, en qualité de responsable de traitement, à collecter et traite
   
 Vous trouverez ci-dessous l’ensemble des informations concernant la manière dont BZB traite et protège vos données personnelles, ainsi que les droits dont vous bénéficiez concernant vos données.  
   
+Vous pouvez aussi gérer et modifier vos préférences en cliquant sur ce lien : [Gérer mes préférences de cookies](#)  
+  
 **1\. Pourquoi BZB collecte vos données personnelles ?**  
   
 BZB collecte, traite et conserve vos données personnelles pour les différents objectifs (« finalités ») et sur la base des fondements juridiques suivants :
