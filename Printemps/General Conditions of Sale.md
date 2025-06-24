@@ -293,7 +293,7 @@
     
 * [Coffrets](https://www.printemps.com/fr/fr/coffret-palette)
     
-* [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
+* [Tout l'univers beauté](https://www.printemps.com/fr/fr/toute-selection-beaute)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
