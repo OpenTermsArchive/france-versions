@@ -10,7 +10,7 @@ Certains Cookies sont nécessaires pour assurer le fonctionnement technique du s
 | --- | --- | --- |Strictement nécessaires
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| club.veepee.fr | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm) | Cookies internes |
+| preview.veepee.fr | [\_\_cf\_bm](https://cookiepedia.co.uk/cookies/__cf_bm) | Cookies internes |
 | www.veepee.fr | [\_cid\_cc](https://cookiepedia.co.uk/cookies/_cid_cc), [context](https://cookiepedia.co.uk/cookies/context), [checkLoop](https://cookiepedia.co.uk/cookies/checkLoop), [\_hjUserAttributesHash](https://cookiepedia.co.uk/cookies/_hjUserAttributesHash), [newform\_uuid](https://cookiepedia.co.uk/cookies/newform_uuid), [.ASPXBrowserOverride](https://cookiepedia.co.uk/cookies/.ASPXBrowserOverride), [dataContextFb](https://cookiepedia.co.uk/cookies/dataContextFb), [IdentToken](https://cookiepedia.co.uk/cookies/IdentToken), [dataContext](https://cookiepedia.co.uk/cookies/dataContext), [\_cc](https://cookiepedia.co.uk/cookies/_cc), [infoMember](https://cookiepedia.co.uk/cookies/infoMember), [CheckAutologin](https://cookiepedia.co.uk/cookies/CheckAutologin), [FromPartner](https://cookiepedia.co.uk/cookies/FromPartner) | Cookies internes |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | inpsession\_$distributor\_id\_$language, b1pi2, inptime\_$distributor\_id\_$language, CI\_session, b1pi, OptanonAlertBoxClosed, datadome, .ASPXAUTH, OptanonConsent, \_\_apex\_test\_\_ | Cookies tiers |
 | [uk.cdn-net.com](https://cookiepedia.co.uk/host/uk.cdn-net.com) | \_cc, \_cc-x, \_cid\_cc | Cookies tiers |
@@ -27,9 +27,10 @@ Certains Cookies sont indispensables pour la fourniture du service proposé. Les
 | --- | --- | --- |
 | www.veepee.fr | [cookies.js](https://cookiepedia.co.uk/cookies/cookies.js), [LoginPartner](https://cookiepedia.co.uk/cookies/LoginPartner) | Cookies internes |
 | aide.recycle.veepee.fr | [PLAY\_SESSION](https://cookiepedia.co.uk/cookies/PLAY_SESSION) | Cookies internes |
-| club.veepee.fr | [cf\_clearance](https://cookiepedia.co.uk/cookies/cf_clearance) | Cookies internes |
-| [careers.veepee.com](https://cookiepedia.co.uk/host/careers.veepee.com) | pll\_language | Cookies tiers |
+| club.veepee.fr | [cf\_clearance](https://cookiepedia.co.uk/cookies/cf_clearance), [i18n\_redirected](https://cookiepedia.co.uk/cookies/i18n_redirected) | Cookies internes |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | FLIX\_tracker\_$product\_id\_$distributor\_ id\_$product\_type\_id\_$mpn\_$ean, cookieOptinBanner, \_qta\_rum | Cookies tiers |
+| [static.vente-privee.com](https://cookiepedia.co.uk/host/static.vente-privee.com) | \_\_cf\_bm | Cookies tiers |
+| [form.typeform.com](https://cookiepedia.co.uk/host/form.typeform.com) | AWSALBTG, AWSALBTGCORS | Cookies tiers |
 
 #### Analyse des performances
 
@@ -50,11 +51,11 @@ Certains Cookies sont nécessaires à l’offre de service proposée par Veepee.
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
 | club.veepee.fr | [logglytrackingsession](https://cookiepedia.co.uk/cookies/logglytrackingsession), [mp\_optout](https://cookiepedia.co.uk/cookies/mp_optout) | Cookies internes |
-| www.veepee.fr | [seq](https://cookiepedia.co.uk/cookies/seq), [lastClickUtm](https://cookiepedia.co.uk/cookies/lastClickUtm), [\_hjHasCachedUserAttributes](https://cookiepedia.co.uk/cookies/_hjHasCachedUserAttributes), [lastClickPartnerId](https://cookiepedia.co.uk/cookies/lastClickPartnerId), [MemberDevice](https://cookiepedia.co.uk/cookies/MemberDevice), [homeApplicationScenario](https://cookiepedia.co.uk/cookies/homeApplicationScenario) | Cookies internes |
-| veepee.fr | [mp\_xxxxxxx\_mixpanel](https://cookiepedia.co.uk/cookies/mp_xxxxxxx_mixpanel), [\_\_mp\_opt\_in\_out\_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/__mp_opt_in_out_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_hjIncludedInSessionSample\_xxx](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_xxx), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment) | Cookies internes |
+| www.veepee.fr | [seq](https://cookiepedia.co.uk/cookies/seq), [lastClickUtm](https://cookiepedia.co.uk/cookies/lastClickUtm), [\_hjHasCachedUserAttributes](https://cookiepedia.co.uk/cookies/_hjHasCachedUserAttributes), [lastClickPartnerId](https://cookiepedia.co.uk/cookies/lastClickPartnerId), [\_hjSessionUser\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSessionUser_xxxxxx), [MemberDevice](https://cookiepedia.co.uk/cookies/MemberDevice), [homeApplicationScenario](https://cookiepedia.co.uk/cookies/homeApplicationScenario), [\_hjSession\_xxxxxx](https://cookiepedia.co.uk/cookies/_hjSession_xxxxxx) | Cookies internes |
+| veepee.fr | [mp\_xxxxxxx\_mixpanel](https://cookiepedia.co.uk/cookies/mp_xxxxxxx_mixpanel), [\_\_mp\_opt\_in\_out\_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx](https://cookiepedia.co.uk/cookies/__mp_opt_in_out_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx), [\_hjTLDTest](https://cookiepedia.co.uk/cookies/_hjTLDTest), [\_hjFirstSeen](https://cookiepedia.co.uk/cookies/_hjFirstSeen), [\_hjIncludedInSessionSample\_xxx](https://cookiepedia.co.uk/cookies/_hjIncludedInSessionSample_xxx), [\_hjAbsoluteSessionInProgress](https://cookiepedia.co.uk/cookies/_hjAbsoluteSessionInProgress), [CrmSegment](https://cookiepedia.co.uk/cookies/CrmSegment) | Cookies internes |
 | [vente-privee.com](https://cookiepedia.co.uk/host/vente-privee.com) | mp\_xxxxxxx\_mixpanel | Cookies tiers |
-| [cdn.mxpnl.com](https://cookiepedia.co.uk/host/cdn.mxpnl.com) | mp\_xxxxxxx\_mixpanel | Cookies tiers |
-| [script.hotjar.com](https://cookiepedia.co.uk/host/script.hotjar.com) | \_hjHasCachedUserAttributes | Cookies tiers |
+| [cdn.mxpnl.com](https://cookiepedia.co.uk/host/cdn.mxpnl.com) | mp\_xxxxxxx\_mixpanel, mp\_optout | Cookies tiers |
+| [script.hotjar.com](https://cookiepedia.co.uk/host/script.hotjar.com) | \_hjCookieTest, \_hjHasCachedUserAttributes | Cookies tiers |
 
 #### Lutte contre la fraude
 
@@ -69,7 +70,11 @@ Certains Cookies permettent de se prémunir contre la fraude et de prévenir tou
 
 #### Publicité personnalisée sur le site
 
-Sous réserve de votre consentement, certains Cookies sont déposés afin de vous proposer une offre marketing personnalisée sur le site. è(& Certains partenaires de Veepee pourront également : - pendant le temps d’une vente, collecter des données à des fins d’analyse et de statistique de fréquentation des ventes, - tracer l’origine ou la destination des visiteurs. Dans ce dernier cadre, Meta Platforms Ireland Limited peut déposer des pixels de mesure d’audience sur certaines pages de ventes du site Veepee à des fins d’analyses et de statistiques de fréquentation suite à une redirection des utilisateurs des plateformes Facebook et Instagram vers le site Veepee. L’accord de responsabilité conjointe conclu entre les parties est disponible sur le lien suivant : https://www.facebook.com/legal/controller\_addendum
+Sous réserve de votre consentement, certains Cookies sont déposés afin de vous proposer une offre marketing personnalisée sur le site.  
+  
+Par ailleurs, les données traitées par Vente-privée.com peuvent être croisées ou combinées avec d’autres données collectées lors de la creation et l’utilisation de votre compte (Identification, activité de navigation et historique de commandes) ainsi que les données des partenaires de Vente-privee.com, dont sa filiale A.Mob et serviront à vous afficher des offres promotionnelles et des publicités pertinentes sur le site et à effectuer des analyses et des statistiques de fréquentation.  
+  
+Certains [**Partenaires**](https://veepee-ad.com/partenaires) de Veepee pourront également : - pendant le temps d’une vente, collecter des données à des fins d’analyse et de statistique de fréquentation des ventes, - tracer l’origine ou la destination des visiteurs. Dans ce dernier cadre, Meta Platforms Ireland Limited peut déposer des pixels de mesure d’audience sur certaines pages de ventes du site Veepee à des fins d’analyses et de statistiques de fréquentation suite à une redirection des utilisateurs des plateformes Facebook et Instagram vers le site Veepee. L’accord de responsabilité conjointe conclu entre les parties est disponible sur le lien suivant : [**https://www.facebook.com/legal/controller\_addendum**](https://www.facebook.com/legal/controller_addendum)
 
 * ##### Publicité ciblée
     
@@ -77,7 +82,7 @@ Sous réserve de votre consentement, certains Cookies sont déposés afin de vou
     
 * ##### Statistiques marketing
     
-    Les données collectées permettent à Veepee et à ses Partenaires d'effectuer des analyses et des statistiques de fréquentation.
+    Les données collectées permettent à Veepee et à ses [**Partenaires, dont sa filiale A.Mob**](https://veepee-ad.com/partenaires) d'effectuer des analyses et des statistiques de fréquentation.
     
 * ##### Affiliation
     
@@ -93,7 +98,7 @@ Sous réserve de votre consentement, certains Cookies sont déposés afin de vou
 
 #### Publicité personnalisée en dehors du site
 
-Sous réserve de votre consentement, certains Cookies sont déposés par des partenaires de Veepee (Plus d'informations sur les partenaires dans la Politique de Confidentialité et protection de la Vie Privée de Veepee), dont sa filiale A.Mob afin de vous proposer une offre marketing personnalisée en dehors du site (dans les emplacements réservés sur des sites tiers, applications, réseaux sociaux), réaliser des mesures de performances publicitaires et des études marketing statistiques et afin d'entraîner les modèles d'analyses. Ces données pourront être associées avec les données collectées lors de l'utilisation de votre compte (activité de navigation, historique de commandes, adresse email sous forme hashée) et/ou avec d’autres données personnelles dont disposent nos partenaires. Par ailleurs, les données traitées seront partagées avec certains de nos partenaires afin de vous afficher des offres promotionnelles pertinentes sur des écrans digitaux dont des télévisions connectées et afin de réaliser des mesures de performances publicitaires et des études marketing statistiques. Dans ce dernier cadre, vos données pourront notamment être partagées avec M6 Publicité. Plus d’informations dans notre Politique de confidentialité. La société first-id pourra également vous identifier de façon unique au moyen d’un cookie nous permettant de suivre votre navigation. Pour en savoir plus sur first-id et vos droits : https://www.first-id.fr/politique-de-confidentialite et dans la Politique de Confidentialité et protection de la Vie Privée de Veepee.
+Sous réserve de votre consentement, certains Cookies sont déposés par des partenaires de Veepee (Plus d'informations sur les partenaires dans la Politique de Confidentialité et protection de la Vie Privée de Veepee), dont sa filiale A.Mob afin de vous proposer une offre marketing personnalisée en dehors du site (dans les emplacements réservés sur des sites tiers, applications, réseaux sociaux), réaliser des mesures de performances publicitaires et des études marketing statistiques et afin d'entraîner les modèles d'analyses. Ces données pourront être associées avec les données collectées lors de l'utilisation de votre compte (activité de navigation, historique de commandes, adresse email sous forme hashée) et/ou avec d’autres données personnelles dont disposent nos partenaires. Par ailleurs, les données traitées seront partagées avec certains de nos partenaires afin de vous afficher des offres promotionnelles pertinentes sur des écrans digitaux dont des télévisions connectées et afin de réaliser des mesures de performances publicitaires et des études marketing statistiques. Dans ce dernier cadre, vos données pourront notamment être partagées avec M6 Publicité. Plus d’informations dans notre Politique de confidentialité.
 
 * ##### Publicité ciblée
     
@@ -112,7 +117,6 @@ Sous réserve de votre consentement, certains Cookies sont déposés par des par
 | --- | --- | --- |Publicité personnalisée en dehors du site,Publicité ciblée,Mesures de performance marketing,Statistiques marketing
 | Sous-groupe de cookies | Cookies | Cookies utilisés |
 | --- | --- | --- |
-| [youtube.com](https://cookiepedia.co.uk/host/youtube.com) | VISITOR\_INFO1\_LIVE, VISITOR\_PRIVACY\_METADATA, YSC | Cookies tiers |
 | [www.youtube.com](https://cookiepedia.co.uk/host/www.youtube.com) | TESTCOOKIESENABLED | Cookies tiers |
 | [veepee.fr](https://cookiepedia.co.uk/host/veepee.fr) | flixgvid, sio\_t, vp\_mkt\_off, vp\_mkt\_off\_targeted, vp\_mkt\_off\_performance, vp\_mkt\_off\_statistics | Cookies tiers |
 | [google.com](https://cookiepedia.co.uk/host/google.com) | CONSENT | Cookies tiers |
