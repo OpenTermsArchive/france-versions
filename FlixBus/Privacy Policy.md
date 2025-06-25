@@ -516,6 +516,14 @@ Dans le cas d’une demande de renseignements par téléphone, vos données sont
 
 Pour notre service client, nous faisons appel à des prestataires de service client externes pour le traitement.
 
+De plus, nous vous proposons un service clientèle par chatbot. Données utilisées :
+
+* Données personnelles, telles que le nom, le prénom, la date de naissance (si nécessaire), le sexe (si nécessaire)
+* Coordonnées : par exemple, adresse e-mail, numéro de téléphone
+* Données techniques : par exemple, adresse IP, identifiant de session
+
+Ce chatbot est un système d’IA. Vos données ne seront pas utilisées à des fins de formation. La base légale pour le traitement de vos données personnelles est l’Article 6 (1) (b), (c) et (f) du RGPD.
+
 ### 2.3 Présence sur les canaux des réseaux sociaux
 
 Nous avons une présence sur les réseaux sociaux (actuellement : Facebook, Instagram, LinkedIn, X, TikTok). Dans la mesure où nous avons le contrôle du traitement de vos données, nous nous assurons que les réglementations en vigueur en matière de protection des données sont respectées.
