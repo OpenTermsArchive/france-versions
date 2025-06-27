@@ -130,7 +130,7 @@
 * [CHAUSSURES](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/toutes-les-chaussures-femme)
     * [Ballerines Et Babies](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Babies/Ballerines)
-    * [Derbies Et Moccassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins)
+    * [Derbies Et Mocassins](https://www.printemps.com/fr/fr/chaussures-plates-femme/sct/Derbies+et+richelieux/Mocassins)
     * [Escarpins](https://www.printemps.com/fr/fr/escarpins-femme)
     * [Baskets](https://www.printemps.com/fr/fr/baskets-femme)
     * [Sandales](https://www.printemps.com/fr/fr/sandales-femme)
