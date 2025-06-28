@@ -34,6 +34,8 @@
     * [Parfums](https://www.printemps.com/fr/fr/soldes-beaute/esp/Parfum)
     * [Soins](https://www.printemps.com/fr/fr/soldes-beaute/esp/Soin)
     * [Maquillage](https://www.printemps.com/fr/fr/soldes-beaute/esp/Maquillage)
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -153,6 +155,8 @@
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
+    
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 
 * [TOP MARQUES](#)
