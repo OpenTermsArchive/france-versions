@@ -2047,7 +2047,7 @@ Priorité & 2 bagages de cabine
 
 Prix entre
 
-€/£6 - €/£36
+€/£12 - €/£36
 
 €/£20 - €/£60
 
@@ -2085,7 +2085,7 @@ n/a
 
 €/£13
 
-Le prix à l’aéroport/via le centre d’appel/au kiosque est de 12 €/£ par kilo supplémentaire.      
+Le prix à l’aéroport/via le centre d’appel/au kiosque est de 13 €/£ par kilo supplémentaire.      
 
 Frais de déclaration spéciale de bagages de valeur
 
