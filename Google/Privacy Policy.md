@@ -13,7 +13,7 @@ Vous souhaitez modifier vos paramètres de confidentialité ?
 
 [Faire un Check-up Confidentialité](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro&hl=fr)
 
-À compter du 16 septembre 2024 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20240916/pe84lsmf/google_privacy_policy_fr_eu.pdf)
+À compter du 1 juillet 2025 | [Versions archivées](https://policies.google.com/privacy/archive?hl=fr-FR&gl=FR) | [Télécharger au format PDF](https://www.gstatic.com/policies/privacy/pdf/20250630/au717dgi/google_privacy_policy_fr_eu.pdf)
 
 Sommaire
 --------
@@ -112,7 +112,7 @@ En fonction de vos paramètres et des produits que vous utilisez, Google peut ex
 * [Activité sur les services Google](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-activity-on-services), comme vos recherches ou les [lieux auxquels vous ajoutez un libellé (domicile ou travail, par exemple)](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-places-you-label)
 * Des [informations relatives à des éléments à proximité de votre appareil](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-near-device), tels que des points d'accès Wi-Fi, des antennes-relais et des appareils sur lesquels le Bluetooth est activé
 
-Le type de données de localisation que nous collectons et la durée pendant laquelle nous les conservons dépendent en partie des paramètres définis sur votre appareil et dans votre compte. Vous pouvez par exemple [activer ou désactiver la localisation de votre appareil Android](https://support.google.com/accounts?p=privpol_location&hl=fr) dans les paramètres de ce dernier. Vous pouvez également activer l'[historique des positions](https://support.google.com/accounts?p=privpol_lochistory&hl=fr) si vous voulez créer une carte privée des lieux où vous vous rendez avec les appareils sur lesquels vous êtes connecté(e) à votre compte Google. Et si le paramètre "Activité sur le Web et les applications" est activé, vos recherches et autres activités sur les services Google, y compris les informations de localisation éventuelles, sont enregistrées dans votre compte Google. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
+Le type de données de localisation que nous collectons et la durée pendant laquelle nous les conservons dépendent en partie des paramètres définis sur votre appareil et dans votre compte. Vous pouvez par exemple [activer ou désactiver la localisation de votre appareil Android](https://support.google.com/accounts?p=privpol_location&hl=fr) dans les paramètres de ce dernier. Vous pouvez également activer [Vos trajets](https://support.google.com/accounts?p=privpol_lochistory&hl=fr) si vous voulez créer une carte privée des lieux où vous vous rendez avec les appareils sur lesquels vous êtes connecté(e) à votre compte Google. Et si le paramètre "Activité sur le Web et les applications" est activé, vos recherches et autres activités sur les services Google, y compris les informations de localisation éventuelles, sont enregistrées dans votre compte Google. Découvrez plus en détail [comment nous utilisons les informations de localisation](https://policies.google.com/technologies/location-data?hl=fr-FR&gl=FR).
 
 * * *
 
@@ -154,7 +154,7 @@ Selon vos paramètres, nous pouvons également vous présenter des [annonces per
 
 ### Évaluer les performances
 
-Nous utilisons vos informations à des fins d'analyse et de mesure pour comprendre la façon dont nos services sont utilisés. Par exemple, l'analyse des données concernant vos visites sur nos sites nous permet d'optimiser la conception de nos produits. Nous utilisons aussi les informations se rapportant aux annonces avec lesquelles vous interagissez (y compris votre activité de recherche Google correspondante) pour aider les annonceurs à analyser les performances de leurs campagnes publicitaires. Pour ce faire, nous nous servons de plusieurs outils, parmi lesquels Google Analytics. Lorsque vous visitez des sites ou utilisez des applis ayant recours à Google Analytics, un client Google Analytics peut choisir d'autoriser Google à [associer des informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-link-info) concernant votre activité sur ce site ou cette appli à une activité sur d'autres sites ou applis utilisant nos services publicitaires.
+Nous utilisons vos informations à des fins d'analyse et de mesure pour comprendre la façon dont nos services sont utilisés. Par exemple, l'analyse des données concernant vos visites sur nos sites nous permet d'optimiser la conception de nos produits. Nous utilisons aussi les informations se rapportant aux annonces avec lesquelles vous interagissez (y compris votre activité de recherche Google correspondante) pour aider les annonceurs à analyser les [performances de leurs campagnes publicitaires](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-link-performance). Pour ce faire, nous nous servons de plusieurs outils, parmi lesquels Google Analytics. Lorsque vous visitez des sites ou utilisez des applis ayant recours à Google Analytics, un client Google Analytics peut choisir d'autoriser Google à [associer des informations](https://policies.google.com/privacy?hl=fr-FR&gl=FR#footnote-link-info) concernant votre activité sur ce site ou cette appli à une activité sur d'autres sites ou applis utilisant nos services publicitaires.
 
 ### Communiquer avec vous
 
@@ -648,7 +648,7 @@ Il se peut que votre appareil soit équipé de capteurs permettant de détermine
 
 ### Lieux auxquels vous ajoutez un libellé (domicile et travail, par exemple)
 
-Vous pouvez choisir d'enregistrer dans votre compte Google des lieux importants pour vous, tels que votre domicile ou votre lieu de travail. Si vous définissez l'adresse de votre domicile ou lieu de travail, celle-ci sera utilisée pour vous faciliter les choses, quand vous demanderez un itinéraire ou pour obtenir des résultats plus proches de cette adresse et voir des annonces plus pertinentes, par exemple.
+Vous pouvez choisir d'enregistrer dans votre compte Google des lieux importants pour vous, tels que votre domicile ou votre lieu de travail. Si vous définissez l'adresse de votre domicile ou lieu de travail, celle-ci sera utilisée pour vous faciliter les choses, par exemple quand vous demanderez un itinéraire ou pour obtenir des résultats plus proches de cette adresse, ainsi qu'à des fins publicitaires.
 
 Vous pouvez modifier ou supprimer l'adresse de votre domicile ou lieu de travail à tout moment dans votre [compte Google](https://myaccount.google.com/personal-info?hl=fr).
 
@@ -671,6 +671,10 @@ Comme d'autres entreprises spécialisées dans les technologies et les communica
 ### partenaires spécifiques
 
 Par exemple, nous permettons aux annonceurs et créateurs YouTube de collaborer avec des sociétés de mesure d'audience qui utilisent des cookies ou des technologies similaires pour en savoir plus sur les internautes qui regardent leurs annonces ou leurs vidéos YouTube. Autre exemple : les marchands utilisent des cookies sur nos pages de vente en ligne pour évaluer le nombre de personnes différentes qui consultent leurs fiches produit. Pour en savoir plus sur ces partenaires et la façon dont ils utilisent vos informations, [cliquez ici](https://policies.google.com/privacy/google-partners?hl=fr-FR&gl=FR).
+
+### Performances de leurs campagnes publicitaires.
+
+[En savoir plus](https://policies.google.com/technologies/ads?hl=fr-FR&gl=FR) sur les technologies utilisées pour la publicité
 
 ### Personnaliser nos services
 
