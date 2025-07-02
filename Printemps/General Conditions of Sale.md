@@ -1,6 +1,8 @@
 [**SOLDES**](https://www.printemps.com/fr/fr/soldes) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes)
+    
+* [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-15%25+supplementaires)
     
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
@@ -84,7 +86,8 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-femme)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-femme)
+    * [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-femme/sel/-15%25+supplementaires)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/BALMAIN/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
@@ -171,7 +174,8 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [SOLDES : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-homme)
+* [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-homme)
+    * [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-homme/sel/-15%25+supplementaires)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/BALMAIN/PRADA/VERSACE/)
     * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements)
@@ -251,7 +255,7 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
 
-* [Soldes : jusqu'à -50%](https://www.printemps.com/fr/fr/soldes-beaute)
+* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-beaute)
     
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
