@@ -5,7 +5,7 @@ Malgré leur mauvaise réputation, les cookies sont très pratiques et vous perm
 
 Sélection des cookies
 
-Prise d'effet le 25 juin 2025 / Version 2
+Prise d'effet en Janvier, 2022 / Version 1.3
 
 **Voir aussi**
 
@@ -262,10 +262,6 @@ Des cookies sont également créés pour Google Adwords, la plateforme permettan
 
 Si vous souhaitez savoir pourquoi vous voyez une annonce particulière, veuillez vous rendre [ici](https://support.google.com/ads/answer/1634057). 
 
-**PubMatic**
-
-Nous travaillons avec PubMatic, Inc. pour transformer les données sur l'audience de Trainline en offres publicitaires personnalisées via PubMatic Connect. Lorsque vous consentez aux cookies de publicité, nous partageons avec PubMatic des identifiants pseudonymes, des informations contextuelles et des segments d'audience agrégés par rapport à leurs intérêts de voyage. PubMatic agit en tant que contrôleur de données indépendant et peut combiner ces informations avec des données similaires provenant d'autres éditeurs publicitaires afin de vous montrer des publicités qui sont plus pertinentes pour vos voyages. Vous pouvez retirer votre consentement à tout moment dans nos paramètres de cookies ou directement sur la [page de désactivation des cookies](https://pubmatic.com/legal/opt-out/) de PubMatic.
-
 ### Audiences personnalisées et similaires 
 
 Chez Trainline, nous utilisons l'outil Audiences personnalisées et similaires afin de diffuser nos publicités à nos clients existants et à des clients potentiels sur les réseaux sociaux.
@@ -277,17 +273,17 @@ Pour ces deux types d'activité (audiences personnalisées et audiences similair
 
 Nous comptons parmi nos partenaires:
 
-**Facebook :** pour plus [d'informations](https://www.facebook.com/help/568137493302217) 
+**Facebook:** pour plus [d'informations](https://www.facebook.com/help/568137493302217) 
 
-[](https://www.facebook.com/help/568137493302217)**Instagram :** pour plus d'informations
+[](https://www.facebook.com/help/568137493302217)**Instagram:** pour plus d'informations
 
-**LinkedIn :** pour plus [d'informations](https://www.linkedin.com/help/linkedin/answer/85787)  
+**Linkedin:** pour plus [d'informations](https://www.linkedin.com/help/linkedin/answer/85787)  
 
-**Twitter :** pour plus [d'informations](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
+**Twitter:** pour plus [d'informations](https://help.twitter.com/en/safety-and-security/privacy-controls-for-tailored-ads)
 
-**Snapchat :** pour plus [d'informations](https://www.snap.com/en-US/privacy/privacy-policy/)
+**Snapchat:** pour plus [d'informations](https://www.snap.com/en-US/privacy/privacy-policy/)
 
-**Pinterest :** pour plus [d'informations](https://help.pinterest.com/en/article/personalized-ads-on-pinterest)
+**Pinterest:**pour plus [d'informations](https://help.pinterest.com/en/article/personalized-ads-on-pinterest)
 
 ### Échanges et partenaires publicitaires
 
