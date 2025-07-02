@@ -1955,25 +1955,25 @@ Max. 30kg. Prix par vélo/par trajet simple (aller ou retour).
 
 Équipement sportif
 
-€/£40
-
 €/£45
+
+€/£50
 
 Prix par article/par trajet simple (aller ou retour). Max. 20kg par article.
 
 Equipement de Ski
 
-€/£45
-
 €/£50
+
+€/£60
 
 Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
 
 Équipements De Golf
 
-€/£40
+€/£45
 
-€/£50
+€/£55
 
 Max. 20kg par article. Prix par article/par trajet simple (aller ou retour).
 
