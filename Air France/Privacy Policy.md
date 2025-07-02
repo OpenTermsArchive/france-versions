@@ -126,6 +126,7 @@ Programme de fidélité et partenaires
 * [Affiliation](https://wwws.airfrance.fr/information/prepare/services/affiliation)
 * [Destination-voyage](https://wwws.airfrance.fr/travel-guide/destinations)
 * [Tous les sites airfrance.com](https://wwws.airfrance.fr/splash)
+* [L'application Air France](https://wwws.airfrance.fr/information/prepare/services/app-air-france)
 
 #### Application Mobile Air France
 
