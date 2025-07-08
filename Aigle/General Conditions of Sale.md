@@ -196,15 +196,27 @@ En cas de manquant sans réserve émise, Aigle ne pourra être tenu pour respons
 Pour tout retour dans le cadre du droit de rétractation, la procédure ci-dessous doit être intégralement respectée :
 
 * les Produits sont retournés dans un conditionnement permettant leur transport à l’adresse mentionnée sur le formulaire de retour inclus dans son colis accompagné d’un port prépayé si la commande a été livrée par voie postale; le formulaire de retour présent dans son colis devant être préalablement complété par le Client.
-* les Produits doivent être renvoyés dans leur état initial, avec l’étiquette attachée aux Produits, sans avoir été endommagés, tachés, lavés, modifiés ou portés (à l’exception de l’essayage) en y joignant l’emballage original et tous les éventuels accessoires se rapportant aux Produits, tels que les emballages ou notice d’utilisation à :
 
-**_Aigle ADS_**
+### Retour des Produits
 
-**_C/O DISPEO_**
+Vous disposez d’un droit de rétractation et pouvez retourner vos produits gratuitement, sous réserve du respect des conditions suivantes :
 
-**_27930 Normanville cedex 9_**
+#### Conditions de retour :
 
-**_France_**
+* Les produits doivent être renvoyés :
+
+* Dans leur état d’origine,
+* Non portés, non lavés, non modifiés, non endommagés, ni tachés (l’essayage est accepté),
+* Avec l’étiquette encore attachée,
+* Dans leur emballage d’origine, accompagnés de tout accessoire éventuel (ex. : notices, protections…).
+
+#### Procédure de retour :
+
+1. Connectez-vous à votre espace client pour télécharger votre étiquette de retour à coller sur le colis.
+2. Placez les articles dans le colis, avec le bon de retour et en respectant les conditions mentionnées ci-dessus.
+3. Déposez votre colis dans le point relais partenaire indiqué sur votre étiquette de retour.
+
+Une fois votre retour validé, le remboursement sera effectué sous 10 jours ouvrés.
 
 3\. Conformément aux dispositions de l'article L 221-24 du _Code de la consommation_, Aigle remboursera le prix des produits de votre commande en recréditant le moyen de paiement utilisé lors de votre commande initiale. Aigle effectuera ce remboursement dans les meilleurs délais et au plus tard dans les quatorze (14) jours suivants la réception des marchandises que le Client lui aura renvoyées.
 
