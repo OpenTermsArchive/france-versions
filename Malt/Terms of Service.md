@@ -378,10 +378,6 @@ A ce titre, le Client s’engage à apporter au Freelance toute précision néce
 
 Le Client s’interdit également d’utiliser les Services et la Marketplace pour faire la promotion de son activité ou de celle d’un tiers. A ce titre, il s’engage notamment à ne pas envoyer de message publicitaire aux Utilisateurs de la Marketplace ou à les démarcher.
 
-**9.2.2** Les Conditions Générales visent à garantir une juste compensation à la Société pour les Services qu'elle fournit aux Utilisateurs.
-
-Si un Client s'engage avec un Freelance pour une relation professionnelle en dehors de la Marketplace, directement ou indirectement, quelle que soit la nature et la durée de cette relation professionnelle, dans les 12 mois suivant la mise en relation avec ce Freelance via la Marketplace ou via l'équipe de sourcing de la Société, cela constituera une violation des Conditions Générales. Dans cette hypothèse, le Client reconnaît et accepte de payer à la Société une indemnité de 10 000 euros.
-
 **9.3 Engagements des Freelances**
 
 **9.3.1** Le Freelance s’engage à garder une stricte confidentialité aux échanges qu’il aurait eu avec des Clients et aux informations qui lui auraient été transmises ou dont il aurait connaissance à l’occasion d’une mise en contact via la Marketplace (ayant ou non donné lieu à une Mission). Les Utilisateurs s’interdisent notamment de partager avec tout tiers, que ce soit en privé ou sur les réseaux sociaux, tout échange, information ou extrait de conversation provenant de la messagerie de la Marketplace.
