@@ -36,6 +36,8 @@
     * [Parfums](https://www.printemps.com/fr/fr/soldes-beaute/esp/Parfum)
     * [Soins](https://www.printemps.com/fr/fr/soldes-beaute/esp/Soin)
     * [Maquillage](https://www.printemps.com/fr/fr/soldes-beaute/esp/Maquillage)
+* [Maison](https://www.printemps.com/fr/fr/soldes-maison)
+    * [Voir tout](https://www.printemps.com/fr/fr/soldes-maison)
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 
@@ -63,6 +65,8 @@
     * [Soins](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Soin)
     * [Maquillage](https://www.printemps.com/fr/fr/nouveautes-beaute/esp/Maquillage)
     * [Accessoires](https://www.printemps.com/fr/fr/accessoires)
+* [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
+    * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-maison)
 
 * [MARQUES](#)
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
@@ -288,11 +292,11 @@
     
 * [HOMME](https://www.printemps.com/fr/fr/beaute-homme)
     
-* [Bougies et parfums d'intérieur](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
+* [BOUGIES ET PARFUMS D'INTÉRIEUR](https://www.printemps.com/fr/fr/bougie-parfum-d-interieur)
     
-* [Accessoires beauté](https://www.printemps.com/fr/fr/accessoires)
+* [ACCESSOIRES BEAUTÉ](https://www.printemps.com/fr/fr/accessoires)
     
-* [Coffrets](https://www.printemps.com/fr/fr/coffret-palette)
+* [COFFRETS](https://www.printemps.com/fr/fr/coffret-palette)
     
 * [Tout l'univers beauté](https://www.printemps.com/fr/fr/beaute)
     
@@ -308,6 +312,7 @@
 * [SÉLECTIONS](#)
     * [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
     * [Parfums best-sellers](https://www.printemps.com/fr/fr/parfums-bestsellers)
+    * [Parfums d'exception](https://www.printemps.com/fr/fr/parfum-niche)
     * [Soins hydratants](https://www.printemps.com/fr/fr/soins-visage-hydratants)
     * [Soins anti-imperfections](https://www.printemps.com/fr/fr/sos-imperfections)
     * [Soins Anti-ÂGe](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
