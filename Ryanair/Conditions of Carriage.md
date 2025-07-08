@@ -487,7 +487,7 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 **8.3.3** Si vous avez acheté l’enregistrement d’un bagage en soute de 10 kg, vous pouvez transporter votre petit bagage à bord de l’avion, mais le bagage enregistré de 10 kg doit être déposé au comptoir de dépose-bagages avant de passer le contrôle de sécurité. Une fois à destination, le bagage pourra être récupéré sur le tapis à bagages. Les règlements concernant les bagages enregistrés s’appliquent en conséquence. Cliquez ici pour consulter notre tableau des frais.
 
-**8.3.4** Les bagages supplémentaires ou trop volumineux seront refusés à la porte d’embarquement ou, le cas échéant, placés dans la soute de l’avion moyennant les frais indiqués dans nos Règlements (cliquez ici pour voir les Règlements concernant les bagages en cabine). Ryanair n’accepte aucune responsabilité quant aux bagages trop volumineux ou en excédent refusés à la porte d’embarquement que vous aurez abandonnés.
+**8.3.4** Les bagages supplémentaires/en excédent de taille seront refusés à la porte d’embarquement ou, le cas échéant, placés dans la soute de l’avion moyennant le paiement de frais comme indiqué dans notre Règlement. Les passagers sont tenus de laisser leurs bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute. Ryanair n’accepte aucune responsabilité quant aux bagages trop volumineux ou en excédent refusés à la porte d’embarquement que vous aurez abandonnés. 
 
 **8.3.5** Les sacs Duty Free contenant des articles hors-taxes sont autorisés en cabine avec vos bagages en cabine.
 
@@ -1336,7 +1336,7 @@ Un bagage enregistré de 10 kg coûte entre 12.99 €/£ et 35.99 €/£ en fon
 
 Les passagers non prioritaires qui n’ont pas ajouté de bagage à leur réservation peuvent toujours acheter une option Bagage enregistré de 10 kg au comptoir de dépôt des bagages pour €/£46.00 - €/£ 60.00 ou à la porte d’embarquement pour €/£35.99 - €/£ 60.00. Vous pouvez alors récupérer ce bagage dans la zone de retrait des bagages à l’aéroport de votre destination. (N.B : N’oubliez pas de prendre votre passeport si vous devez passer par le contrôle des passeports à l’aéroport de votre destination.)  
 
-Les bagages à main trop volumineux seront refusés à la porte d’embarquement, ou ailleurs, et placés dans la soute pour un supplément de €/£70.00 - €/£ 75.00 (soumis à la TVA sur les vols intérieurs au taux applicable du pays). Assurez-vous de retirer tous les objets de valeur de vos bagages à la porte d’embarquement si ces derniers doivent être placés dans la soute de l’appareil. Si vous n’êtes pas sûrs, vérifiez au comptoir de dépôt des bagages avant de passer le contrôle de sécurité.  
+Si votre bagage à main est trop volumineux, il sera refusé à la porte d’embarquement ou, le cas échéant, placé dans la soute de l’avion moyennant le paiement de frais compris entre 70 €/£ et 75 €/£ (plus TVA sur les vols intérieurs). Les passagers sont tenus de laisser leurs bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
 Les bébés (âgés de 8 jours à 23 mois) ne bénéficient pas de franchise de bagage à main s’ils voyagent sur les genoux d’un adulte. Cependant, un sac à langer\* pesant jusqu’à 5 kg peut être transporté par l’adulte l’accompagnant en plus de sa propre franchise de bagage à main lorsqu’un bébé (âgé de 8 jours à 23 mois) voyage sur ses genoux.  
 
@@ -2061,7 +2061,7 @@ Prix entre
 
 €/£23.99 - €/£44.99
 
-Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. Les clients non prioritaires qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage en soute de 10 kg au comptoir de dépôt des bagages de l'aéroport pour 35,99 € / £ - €/£40. Les clients non prioritaires qui apportent leur sac de 10 kg à la porte d'embarquement peuvent s'enregistrer pour 46.00 € / £ - €/£ 60.00.
+Les frais varient en fonction de l’itinéraire et des dates de voyage. Les clients qui ne sont pas prioritaires et qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 10 kg au comptoir dépose-bagages de l’aéroport pour un prix allant de 35,99 €/£ à 40 €/£. Les clients qui ne sont pas prioritaires et qui apportent leur bagage enregistré de 10 kg à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 46 €/£ et 60 €/£. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
 Bagages enregistrés – 20 kg
 
@@ -2075,7 +2075,7 @@ Tarif min./max. par article et par vol si achat en ligne
 
 (par vol)
 
-Les frais varient en fonction de l'itinéraire et les dates de voyage sélectionnés. Les passagers qui n'ont pas ajouté de bagages à leur réservation peuvent toujours acheter un bagage de 20 kg au comptoir de dépôt des bagages de l'aéroport pour 59.99 € / £. Les clients qui emportent un bagage trop volumineux (plus de 55 x 40 x 20 cm) à la porte d’embarquement peuvent l’enregistrer moyennant le paiement de frais de 70,00 £/€ à 75,00 £/€.
+Les frais varient en fonction de l’itinéraire et des dates de voyage. Les passagers qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 20 kg au comptoir dépose-bagages de l’aéroport pour 59,99 £/€. Les passagers qui apportent un bagage en excédent de taille (plus de 55 x 40 x 20 cm) à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 70 £/€ et 75 £/€. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
 
 Frais d’excédent de bagage
 
