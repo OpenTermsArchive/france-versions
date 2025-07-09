@@ -13,14 +13,14 @@ Prise d'effet le 25 juin 2025 / Version 2
 
 [Sécurité](https://www.thetrainline.com/terms/security)
 
-QU'EST-CE QU'UN COOKIE?
------------------------
+Qu'est-ce qu'un cookie ?
+------------------------
 
 Les cookies sont des petits morceaux d'information que nous collectons automatiquement lorsque vous utilisez notre site Internet ou notre application.
 
 Nous utilisons parfois le terme cookies pour désigner les cookies et les technologies similaires, telles que les pixels espions, les balises Web, les SDK et les GIF et images invisibles.
 
-LES TYPES DE COOKIES QUE NOUS UTILISONS ET POURQUOI
+Les types de cookies que nous utilisons et pourquoi
 ---------------------------------------------------
 
 Pour varier les saveurs, nous utilisons trois types de cookies:
@@ -29,8 +29,8 @@ Pour varier les saveurs, nous utilisons trois types de cookies:
 2. **Les cookies de performance** nous aident à rendre votre navigation plus fluide. Nous souhaitons que vous prépariez vos voyages dans les meilleures conditions. Il est donc important que notre site et notre application affichent exactement ce que vous voulez, quand vous le voulez!
 3. **Les cookies de personnalisation** sont utilisés pour vous offrir une expérience unique. Après tout, vos besoins sont spécifiques ! Ces cookies nous permettent de vous proposer des fonctionnalités telles que la recherche prédéfinie de trajet vers la gare la plus proche de votre position.
 
-QUE SE PASSE-T-IL QUAND VOUS DÉSACTIVEZ LES COOKIES?
-----------------------------------------------------
+Que se passe-t-il quand vous désactivez les cookies ?
+-----------------------------------------------------
 
 * Si vous désactivez tous les cookies ou si vous utilisez un logiciel de blocage de sites Internet ou d'applications, il se peut que Trainline ne fonctionne pas de façon optimale. Prenons l'exemple suivant : vous cherchez des billets pour le trajet Londres-Manchester et vous les ajoutez à votre panier, mais vous fermez accidentellement le site avant d'effectuer la réservation. Si vous avez désactivé les cookies, votre panier n'est pas enregistré et sera vide à votre retour. Vous devrez alors recommencer votre recherche depuis le début. Les cookies vous facilitent la tâche.
 * Si vous désactivez les cookies sur votre ordinateur, cela n'impactera pas la gestion des cookies sur votre appareil mobile. Il est donc nécessaire de les désactiver sur chaque appareil utilisé.
@@ -158,7 +158,7 @@ Plus généralement...
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Nom** | **Description** | **Domains** | **Durée de vie (jours)** |
+| **Nom** | **Description** | **Domaines** | **Durée de vie (jours)** |
 | **\_ga** | Le nom de ce cookie est associé à Google Universal Analytics. | thetrainline.com, www.thetrainline.com, www.thetrainline.com/en/help/, www.thetrainline.com/train-times, | 730 |
 | **wasabiId** | Wasabi est notre intergiciel de stockage dans le cloud. | thetrainline.com, www.thetrainline.com, www.thetrainline.com/train-times, | 365 |
 | **wSession** | Ce cookie est utilisé pour assurer le bon fonctionnement de notre API. | www.thetrainline.com/train-times, |     |
@@ -236,11 +236,11 @@ Nous laissons aussi des partenaires de confiance utiliser, sur notre site et not
 
 **Travel Audience**
 
-Vous pourrez trouver plus d'informations [ici](https://travelaudience.com/product-privacy-policy/)
+Vous pourrez trouver plus d'informations [ici](https://travelaudience.com/product-privacy-policy/).
 
 **Sojern**   
 
-Vous pourrez trouver plus d'informations [ici](https://travelaudience.com/product-privacy-policy/)
+Vous pourrez trouver plus d'informations [ici](https://travelaudience.com/product-privacy-policy/).
 
 **Microsoft**
 
@@ -336,11 +336,11 @@ Si vous utilisez ces pages, il se peut que les tiers concernés utilisent des co
 
 Si vous vous connectez à votre compte Trainline en utilisant la connexion Facebook ou Google+, les politiques de confidentialité et de cookies de Facebook ou de Google s'appliqueront également.
 
-### List of personalisation cookies
+### Liste des cookies de personnalisation
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| **Name** | **Description** | **Domains** | **Durée de vie (jours)** |
+| **Name** | **Description** | **Domaines** | **Durée de vie (jours)** |
 | **\*\*\*Unnamed\*\*\*** | Nous aide à cibler nos publicités Facebook. | thetrainline.com, www.thetrainline.com, www.thetrainline.com/en/help/, www.thetrainline.com/train-times, | Session |
 | **\_\_gads** | Ce cookie est un identifiant unique qui nous aide à déterminer quelles publicités nous vous présentons. | thetrainline.com, www.thetrainline.com, www.thetrainline.com/train-times, | Session |
 | **\_fbp** | Utilisé par Facebook pour diffuser des publicités personnalisées. | thetrainline.com, www.thetrainline.com, www.thetrainline.com/en/help/, www.thetrainline.com/train-times, | Session |
@@ -394,9 +394,9 @@ Si vous vous connectez à votre compte Trainline en utilisant la connexion Faceb
 | **YSC** | Il rend possible la personnalisation de publicités pour YouTube. | thetrainline.com, www.thetrainline.com, | Session |
 | **PIXEL -graph.facebook.com** | Il est utilisé pour indiquer à Facebook que vous avez consulté une page de notre site Internet. | thetrainline.com, www.thetrainline.com, | Persistent |
 
-### Push notifications
+### Notifications push
 
-Nous utilisons aussi des notifications Push Web pour vous communiquer des informations utiles lorsque vous avez consenti à leur réception. Ces notifications ne dépendent pas uniquement du système de cookies: une clé d'enregistrement unique est aussi générée par votre navigateur quand vous acceptez les notifications de navigateur.
+Nous utilisons aussi des notifications push Web pour vous communiquer des informations utiles lorsque vous avez consenti à leur réception. Ces notifications ne dépendent pas uniquement du système de cookies: une clé d'enregistrement unique est aussi générée par votre navigateur quand vous acceptez les notifications de navigateur.
 
 Si vous êtes connecté(e) à votre compte : vous pouvez retirer votre consentement à tout moment en accédant à la section de votre compte et en sélectionnant [préférences de contact](https://www.thetrainline.com/my-account/login?redirectTo=%2Fmy-account%2Fcontact-preferences).
 
