@@ -195,7 +195,7 @@ Vous acceptez que la Plateforme, les Conditions de Vente et tout litige entre vo
 
 Sauf interdiction et sans limitation des droits des consommateurs, vous acceptez que tous les litiges, réclamations et procédures judiciaires découlant directement ou indirectement de la Plateforme (y compris, mais sans s'y limiter, l'achat des produits NIKE) soient résolus individuellement, sans recourir à aucune forme de recours collectif, et exclusivement devant les tribunaux compétents d'Amsterdam, aux Pays-Bas. 
 
-En cas de plainte, veuillez nous contacter au préalable via \[[nous contacter](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) 
+En cas de plainte, veuillez nous contacter au préalable via \[[nous contacter](https://help-fr-fr.nike.com/app/contact)\]. Si vous estimez que votre plainte n'est pas traitée correctement, vous pouvez – sans y être obligé – utiliser la plateforme de règlement en ligne des litiges à laquelle vous pouvez accéder via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.) 
 
 Toutes les réclamations doivent être présentées dans un délai d'un (1) an à compter de leur survenance, dans la mesure permise par la loi applicable. **\[Voir les dispositions applicables en [Autriche](#AUSTRIA), [France](#FRANCE), [Allemagne](#GERMANY), [Italie](#ITALY) et [Pologne](#POLAND).\]** 
 
@@ -286,7 +286,7 @@ Vous acceptez que la Plateforme, les Conditions de Vente et tout litige entre vo
 
 Sauf interdiction et sans limitation des droits reconnus aux consommateurs, vous acceptez que tous les litiges, réclamations et procédures judiciaires découlant directement ou indirectement de la Plateforme (y compris, mais sans s'y limiter, l'achat des produits NIKE) soient résolus individuellement, sans recourir à aucune forme de recours collectif, et exclusivement devant les tribunaux compétents en vertu de la loi applicable. 
 
-Dans le cas où vous avez une plainte ou estimez qu'il y a un différend entre vous et NIKE, veuillez nous contactez via [\[contact us page](https://help-fr-fr.nike.com/app/contact)\] d'abord. Dans le cas où le différend entre vous et NIKE n'est pas résolu, vous pouvez – sans y être obligé – utiliser la plate-forme de résolution en ligne des litiges accessible via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.%C2%A0) »
+Dans le cas où vous avez une plainte ou estimez qu'il y a un différend entre vous et NIKE, veuillez nous contactez via [\[contact us page](https://help-fr-fr.nike.com/app/contact)\] d'abord. Dans le cas où le différend entre vous et NIKE n'est pas résolu, vous pouvez – sans y être obligé – utiliser la plate-forme de résolution en ligne des litiges accessible via [http://ec.europa.eu/odr.](http://ec.europa.eu/odr.) »
 
 La section ci-dessus intitulée « COMMENT COMMANDER » est modifiée par l’ajout de ce qui suit :
 
