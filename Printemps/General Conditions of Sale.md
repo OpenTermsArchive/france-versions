@@ -1,8 +1,6 @@
 [**SOLDES**](https://www.printemps.com/fr/fr/soldes) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes)
-    
-* [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-15%25+supplementaires)
+* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes)
     
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
@@ -90,8 +88,7 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
-* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-femme)
-    * [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-femme/sel/-15%25+supplementaires)
+* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/BALMAIN/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
@@ -178,8 +175,7 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [SOLDES : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-homme)
-    * [\-15% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-homme/sel/-15%25+supplementaires)
+* [SOLDES : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-homme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/BALMAIN/PRADA/VERSACE/)
     * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements)
@@ -259,7 +255,7 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
 
-* [Soldes : jusqu'à -60%](https://www.printemps.com/fr/fr/soldes-beaute)
+* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-beaute)
     
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
@@ -318,7 +314,7 @@
     * [Soins Anti-ÂGe](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * Maison Francis Kurkdjian
     * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute)
@@ -363,16 +359,16 @@
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * Maison Francis Kurkdjian
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
-    * [Creed](https://www.printemps.com/fr/fr/creed-beaute)
+    * [Creed](https://www.printemps.com/fr/fr/univers-creed)
     * [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
     * [Stéphane Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
-    * [Nars](https://www.printemps.com/fr/fr/nars-beaute)
+    * [Nars](https://www.printemps.com/fr/fr/univers-nars)
 * [Toutes les marques](https://www.printemps.com/fr/fr/marques)
     
 
@@ -396,7 +392,7 @@
     * Jérôme Dreyfuss
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * Maison Francis Kurkdjian
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
     * [Adidas](https://www.printemps.com/fr/fr/adidas)
