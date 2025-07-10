@@ -300,10 +300,10 @@
     
 
 * [INSPIRATIONS](#)
+    * [Routine beauté d’été, les indispensables](https://www.printemps.com/fr/fr/edito-beaute-routine-ete-produits-indispensables?ap_source=anico&ap_medium=nav-beaute&ap_campaign=edito-routine-beaut%C3%A9-d%E2%80%99%C3%A9t%C3%A9)
     * [K-Beauty](https://www.printemps.com/fr/fr/edito-beaute-coree-mania)
     * [Maquillage de cérémonie](https://www.printemps.com/fr/fr/maquillage-de-ceremonie)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-beaute)
-    * [Peaux matures : soins et maquillage](https://www.printemps.com/fr/fr/edito-beaute-soins-maquillage-peaux-matures)
     * [Nos concepts](https://www.printemps.com/fr/fr/nos-concepts)
 * [SÉLECTIONS](#)
     * [Meilleures ventes](https://www.printemps.com/fr/fr/meilleures-ventes-beaute)
