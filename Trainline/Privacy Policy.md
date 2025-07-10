@@ -138,15 +138,15 @@ Si vous choisissez de remplir le formulaire pour recevoir le badge « Bébé à 
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
-### Détails des Railcards et cartes de fidélité
+### Informations des cartes de réduction et des cartes de fidélité
 
-Nous pouvons recueillir des données personnelles (y compris votre nom, âge, adresse e-mail et les détails de votre Railcard) lorsque vous achetez ou utilisez des Railcards sur Trainline.
+Nous pouvons recueillir des données personnelles (y compris votre nom, votre âge, votre adresse e-mail et les informations de votre carte de réduction) lorsque vous achetez ou que vous utilisez des cartes de réduction sur Trainline.
 
-* Nous recueillons ces informations dans le but de vous proposer des Railcards à la vente et de vérifier votre éligibilité à l'achat de certaines Railcards.
+* Nous recueillons ces informations dans le but de vous proposer des cartes de réduction à la vente et de vérifier votre éligibilité à l'achat de certaines cartes.
 * Nous les recueillons également dans le but de pouvoir appliquer une réduction sur vos billets (le cas échéant), ou de cumuler les points de fidélité des programmes auxquels vous adhérez.
 * Nous partageons ces données avec les transporteurs et les émetteurs de cartes de fidélité concernés.
-* Nous partagerons également certaines données (votre nom et adresse e-mail) avec ATOC Ltd qui agit comme contrôleur des données indépendant dans le cadre de la vente de Railcards. Les clients concluent un contrat séparé avec ATOC Ltd lors de l'achat d'une Railcard. Pour plus d'informations, veuillez consulter la [politique de confidentialité d'ATOC.](https://www.railcard.co.uk/privacy-notice/)
-* ATOC Lt, qui agit comme contrôleur des données indépendant, utilisera ces données (votre nom et adresse e-mail) à des fins de prévention et de lutte contre la fraude. Pour plus d'informations, veuillez consulter la [politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
+* Nous partagerons également certaines données (votre nom et votre adresse e-mail) avec ATOC Ltd qui agit comme contrôleur des données indépendant dans le cadre de la vente de cartes de réduction. Les clients concluent un contrat séparé avec ATOC Ltd lors de l'achat d'une carte de réduction. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
+* ATOC Ltd, qui agit comme contrôleur des données indépendant, utilisera ces données (votre nom et votre adresse e-mail) à des fins de prévention et de lutte contre la fraude. Pour en savoir plus, veuillez consulter la [Politique de confidentialité d'ATOC](https://www.railcard.co.uk/privacy-notice/).
 
 **Base juridique du traitement :** le traitement est nécessaire à l'exécution d'un contrat.
 
