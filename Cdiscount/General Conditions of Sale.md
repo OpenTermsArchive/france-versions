@@ -344,7 +344,7 @@ Elle est accessible sur votre Espace Client au plus tard au moment de la livrais
 _Article 5 : SECURISATION DES PAIEMENTS ET LUTTE CONTRE LA FRAUDE_
 ------------------------------------------------------------------
 
-Les paiements en ligne sur le Site ou par t��léphone auprès de CDISCOUNT sont réalisés via une plateforme de paiement sécurisée, complétée par des mesures de contrôle spécifiques à chaque moyen de paiement, afin de garantir la sécurité des achats effectués sur le Site et de lutter contre la fraude. Les coordonnées bancaires communiquées lors de votre commande sont cryptées grâce au protocole Secure Socket Layer (SSL).
+Les paiements en ligne sur le Site ou par téléphone auprès de CDISCOUNT sont réalisés via une plateforme de paiement sécurisée, complétée par des mesures de contrôle spécifiques à chaque moyen de paiement, afin de garantir la sécurité des achats effectués sur le Site et de lutter contre la fraude. Les coordonnées bancaires communiquées lors de votre commande sont cryptées grâce au protocole Secure Socket Layer (SSL).
 
 CDISCOUNT a développé un partenariat avec la société THREATMETRIX afin de vous protéger lorsque vous passez commande sur [www.cdiscount.com](https://www.cdiscount.com/). A cette fin, THREATMETRIX collecte, par l'intermédiaire d'un cookie, un identifiant équipement (appelé également "Device fingerprinting") afin de procéder au contrôle de vos commandes dans le cadre de la lutte contre la fraude. Cet identifiant est généré à partir d'informations techniques relatives à l'équipement que vous utilisez lors de la passation d'une commande sur le Site.
 
