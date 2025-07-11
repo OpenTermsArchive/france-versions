@@ -314,7 +314,7 @@
     * [Soins Anti-ÂGe](https://www.printemps.com/fr/fr/soins-visage/sct/Anti-%C3%A2ge+%26+Anti-ride)
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-beaute)
-    * Maison Francis Kurkdjian
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
     * [Victoria Beckham](https://www.printemps.com/fr/fr/victoria-beckham-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Dyson](https://www.printemps.com/fr/fr/dyson-beaute)
@@ -359,7 +359,7 @@
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
-    * Maison Francis Kurkdjian
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
