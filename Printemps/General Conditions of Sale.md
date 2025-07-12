@@ -254,6 +254,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
+    * [Boss](https://www.printemps.com/fr/fr/hugo-boss-homme)
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-beaute)
     
@@ -359,7 +360,7 @@
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/marques-beaute)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-beaute)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
     * [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
     * [Diptyque](https://www.printemps.com/fr/fr/univers-diptyque)
     * [Hermès](https://www.printemps.com/fr/fr/univers-hermes)
@@ -392,7 +393,7 @@
     * Jérôme Dreyfuss
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * Maison Francis Kurkdjian
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
     * [Adidas](https://www.printemps.com/fr/fr/adidas)
