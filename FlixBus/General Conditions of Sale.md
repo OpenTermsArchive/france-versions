@@ -1,6 +1,8 @@
 I. Conditions générales de vente et conditions générales de réservation
 =======================================================================
 
+_Les_ [_conditions générales de transport_](https://www.flixbus.fr/conditions-generales-de-transport) _sont disponibles sur la page dédiée._
+
 Version : 22/04/2025
 
 ### 1 Champ d’application
