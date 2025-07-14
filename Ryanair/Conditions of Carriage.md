@@ -1324,9 +1324,9 @@ BAGAGES DE CABINE ET SAC D’ENREGISTREMENT DE 10kg
 
 ===================================================
 
-Tous les passagers ont le droit d’apporter à bord un petit sac personnel qui doit pouvoir se glisser sous le siège devant vous (40 cm x 20 cm x 25 cm). Nous avons augmenté la taille de notre calibreur de petits sacs de 35 x 20 x 20 cm (14 000 cm³) à 42 x 20 x 30 cm (25 200 cm³) pour permettre des bagages à main plus grands que nos dimensions précédemment autorisées.
+Tous les passagers ont le droit d’apporter à bord un petit sac personnel qui doit pouvoir se glisser sous le siège devant vous (40 x 30 x 20 cm). Nous avons augmenté la taille de notre calibreur de petits sacs de 35 x 20 x 20 cm (14 000 cm³) à 42 x 20 x 30 cm (25 200 cm³) pour permettre des bagages à main plus grands que nos dimensions précédemment autorisées.
 
-Les passagers bénéficiant de Priorité et 2 bagages en cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019) ou un billet avec vol en correspondance peuvent apporter 1 petit sac personnel qui doit pouvoir se ranger sous le siège devant eux (40 cm x 20 cm x 25 cm). Les clients prioritaires peuvent également apporter un bagage supplémentaire de 10 kg à bord qui doit tenir dans le gabarit de bagages (il ne doit pas dépasser 10 kg et 55 cm x 40 cm x 20 cm) et sera rangé dans le compartiment au-dessus de leur tête.
+Les passagers bénéficiant de Priorité et 2 bagages en cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019) ou un billet avec vol en correspondance peuvent apporter 1 petit sac personnel qui doit pouvoir se ranger sous le siège devant eux (40 x 30 x 20 cm). Les clients prioritaires peuvent également apporter un bagage supplémentaire de 10 kg à bord qui doit tenir dans le gabarit de bagages (il ne doit pas dépasser 10 kg et 55 cm x 40 cm x 20 cm) et sera rangé dans le compartiment au-dessus de leur tête.
 
 Une Priorité et 2 bagages en cabine coûte entre 6 €/£ et 35.99 €/£ et peut être acheté au moment de la réservation du vol initiale, ou jusqu’à 45 minutes avant le départ prévu du vol sur notre application.
 
@@ -1347,7 +1347,15 @@ ENFANTS, NOURRISSONS ET MINEURS NON ACCOMPAGNÉS
 
 **Mineurs non accompagnés**
 
-Nous n’assurons pas le transport des mineurs non accompagnés de moins de 16 ans. Les enfants de moins de 16 ans doivent toujours être accompagnés par un passager de plus de 18 ans. Un accompagnement et des services particuliers ne sont pas disponibles.  
+Nous n’assurons pas le transport des enfants non accompagnés de moins de 16 ans. Nous ne pouvons pas fournir de service d’accompagnement ni d’installations spéciales.
+
+Si vous souhaitez qu’un passager enfant voyage avec une personne adulte (âgée de 18 ans ou plus) et dont le billet a déjà été réservé, veuillez effectuer une nouvelle réservation pour l’enfant (comme s’il s’agissait d’un adulte), puis la lier à la réservation existante. Le type de passager \[enfant (âgé de 2 à 11 ans) ou adolescent (âgé de 12 à 15 ans)\] sera mis à jour pour le mineur considéré, durant la procédure de liaison.
+
+Vous pouvez lier les réservations via Mes réservations.
+
+Veuillez procéder à l’enregistrement en ligne pour les deux réservations ; à défaut, les frais applicables vous seront facturés à l’aéroport. Les mineurs recevront une carte d’embarquement temporaire lors de l’enregistrement en ligne. Lorsque vous arrivez à l’aéroport, rendez-vous au comptoir d’enregistrement, où tous les mineurs recevront une carte d’embarquement valide.
+
+Veuillez noter qu’une fois les réservations liées, aucune modification ne pourra plus leur être apportée, ni à l’une ni à l’autre, via notre site Internet ou notre application. Si vous devez modifier votre ou vos réservations, veuillez appeler notre centre de contact.
 
 **Transport de bébés**   
 
