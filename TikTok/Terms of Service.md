@@ -2,6 +2,8 @@ EEE/RU/CH
 
 Conditions Générales d’Utilisation de TikTok
 
+p.p1 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; -webkit-text-stroke: #000000} li.li5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9} span.s1 {font-kerning: none} span.s2 {text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9} span.s3 {-webkit-text-stroke: 0px #000000} span.s4 {color: #0000e9; -webkit-text-stroke: 0px #000000} span.s5 {text-decoration: underline ; font-kerning: none; -webkit-text-stroke: 0px #0000e9} span.s6 {color: #000000; -webkit-text-stroke: 0px #000000} span.s7 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000} ul.ul1 {list-style-type: disc} ul.ul2 {list-style-type: circle}
+
 **(Les présentes conditions s’appliquent si vous vivez ou avez votre principal établissement dans l’Espace économique européen, en Suisse ou au Royaume-Uni)**
 
 _Nos nouvelles Conditions générales d'utilisation prennent effet le 25 juillet 2025. Cliquez_ [ici](https://www.tiktok.com/legal/terms-of-service-eea-archive) _pour consulter nos Conditions générales d'utilisation actuelles et_ [ici](https://www.tiktok.com/legal/learn-more-nov-eea) _pour plus de détails sur ce qui change._
@@ -87,7 +89,7 @@ Pour accéder à toutes les fonctionnalités de la Plateforme, vous devez créer
 Lorsque vous créez un compte :
 
 * vous devez fournir des informations exactes et à jour vous concernant (comme votre date de naissance) ;
-* votre compte, le contenu et les réglages de la Plateforme (y compris les paramètres de confidentialité) seront synchronisés sur la Plateforme et sur chaque application TikTok. Par exemple, lorsque vous créez un compte via TikTok, vous pourrez accéder à toutes les autres applications TikTok disponibles dans votre pays à l’aide de ce compte.
+* votre compte, le contenu et les réglages de la Plateforme seront synchronisés sur la Plateforme et sur chaque application TikTok. Par exemple, lorsque vous créez un compte via TikTok, vous pourrez accéder à toutes les autres applications TikTok disponibles dans votre pays à l’aide de ce compte.
 * vous acceptez de mettre à jour rapidement ces informations si elles viennent à changer. Veuillez consulter notre [Centre d’aide](https://support.tiktok.com/en/) pour obtenir des informations sur l’ouverture d’un compte. Toutes les modifications que vous apportez à ces détails, contenus ou paramètres seront également synchronisées sur la Plateforme.
 
 Il est important que vous preniez des mesures raisonnables pour sécuriser le mot de passe de votre compte et que vous ne le divulguiez à aucun tiers. Si vous savez, ou soupçonnez, qu’un tiers connaît votre mot de passe ou a accédé à votre compte, veuillez nous en informer immédiatement [ici](https://www.tiktok.com/legal/report/feedback?lang=en).
@@ -161,7 +163,7 @@ _En résumé : Vous pouvez profiter de notre Plateforme mais, dans l’intérê
 Il est important que vous compreniez ce qu’il advient du contenu que vous créez, publiez ou partagez sur la Plateforme :
 
 * Vous êtes responsable du contenu que vous mettez à disposition sur la Plateforme et vous devez disposer de tous les droits nécessaires pour le créer, le publier ou le partager.
-* Le contenu que vous créez, publiez ou partagez via un service TikTok peut être automatiquement partagé sur la Plateforme (bien que vos paramètres de confidentialité s’appliquent toujours).
+* Le contenu que vous créez, publiez ou partagez via un service TikTok peut être automatiquement partagé sur la Plateforme.
 * Nous examinons le contenu de manière proactive et réactive. Par exemple, nous avons des systèmes pour détecter le contenu qui enfreint nos règles et nous répondons aux avis des utilisateurs et des autorités. Pour ce faire, nous déployons une combinaison de technologies et de modérateurs humains. Notre approche concernant la modération du contenu est expliquée [ici](https://www.tiktok.com/transparency/en/content-moderation/) (les informations figurant sur cette page font partie des présentes Conditions).
 * Nous pouvons restreindre ou supprimer l’accès à tout contenu, y compris le vôtre, si nous pensons raisonnablement (i) qu’il est en violation des présentes Conditions ou de nos [Directives communautaires](https://www.tiktok.com/community-guidelines?lang=en), ou (ii) qu’il nous cause un préjudice, à nous, à nos Sociétés affiliées, à d’autres utilisateurs ou à des tiers. Nos Directives communautaires énoncent comment le contenu peut être supprimé ou restreint sur la Plateforme.
 * Si nous supprimons ou restreignons l’accès à votre contenu, nous vous en informerons sans retard injustifié et vous indiquerons les motifs de notre décision, sauf si cela n’est pas approprié pour nous (par exemple, nous sommes légalement empêchés de le faire).
