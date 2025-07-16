@@ -2,6 +2,8 @@
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes)
     
+* [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-10%25+supplementaires)
+    
 * [Femme](https://www.printemps.com/fr/fr/soldes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/BALMAIN/AMI+PARIS/LANCEL/PRADA/BALMAIN/ACNE+STUDIOS)
@@ -89,6 +91,7 @@
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-femme)
+    * [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-femme/sel/-10%25+supplementaires)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/BALMAIN/LANCEL/PRADA/VERSACE/)
     * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
@@ -176,6 +179,7 @@
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
 * [SOLDES : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-homme)
+    * [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-homme/sel/-10%25+supplementaires)
     * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
     * [Luxe](https://www.printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/BALMAIN/PRADA/VERSACE/)
     * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements)
