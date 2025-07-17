@@ -244,6 +244,8 @@
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
     * [Toutes les marques Homme](https://www.printemps.com/fr/fr/marques-homme)
