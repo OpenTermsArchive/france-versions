@@ -84,7 +84,13 @@ La violation de l'un des droits d'auteur de BOURSORAMA constitue un délit de co
 
 BOURSORAMA et, le cas échéant ses partenaires et fournisseurs de flux, s'efforcent d'assurer l'exactitude et la mise à jour des Informations. Dans ce cadre, BOURSORAMA se réserve le droit de corriger, à tout moment et sans préavis, les Informations. BOURSORAMA ne peut cependant en garantir l'exhaustivité ou l'absence de modification par un tiers (intrusion, virus). En outre, BOURSORAMA et ses partenaires déclinent toute responsabilité en cas d'erreur, d'inexactitude ou d'omission dans ces Informations ainsi qu'en cas d'interruption ou de non disponibilité des Espaces et/ou de l’Assistant Eliott.
 
-En particulier, l’Assistant Eliott fonctionnant avec de l’intelligence artificielle, les Informations qui en émanent peuvent s’avérer ne pas être totalement précises, complètes ou pertinentes au regard de vos questions, voire être erronées. Par exemple, l’Assistant Eliott peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations. BOURSORAMA, ses partenaires ainsi que les fournisseurs de flux déclinent toute responsabilité quant à l'utilisation qui pourrait en être faite.
+En particulier, certains des produits et services proposés par BOURSORAMA fonctionnent avec de l'intelligence artificielle et peuvent à ce titre contenir et/ou générer des informations qui ne sont pas totalement précises, complètes ou pertinentes, voire qui peuvent être erronées :
+
+* L'Assistant Eliott : Les réponses apportées par l'Assistant Eliott peuvent ne pas être suffisamment pertinentes ou peuvent être inexactes. Par exemple, l’Assistant Eliott peut être involontairement biaisé car formé sur un modèle pré-entrainé mis à disposition par un tiers. Les Informations sont communiquées à titre indicatif et ne sauraient être assimilées à de quelconques conseils ou recommandations.
+* Le sous-titrage automatique de vidéos : certaines des vidéos diffusées par BOURSORAMA sont sous-titrées automatiquement grâce à un outil fourni par un tiers. Du fait de cette automatisation, BOURSORAMA ne peut garantir l'absence d'erreurs ou d'omissions dans la transcription écrite de l'audio.
+* Les vidéos IA Libertify (la valeur vue par l'IA, la société vue par l'IA, top 5 IA, une semaine en bourse...) : ces vidéos sont créées exclusivement par Libertify. Elles sont communiquées à titre indicatif, sans valeur contractuelle, et ne sauraient être assimilées à de quelconques conseils en investissement ou de recommandations d'acheter, de vendre, ou de continuer à détenir un investissement.
+
+BOURSORAMA, et ses partenaires ainsi que les fournisseurs de flux déclinent toute responsabilité quant à l'utilisation qui pourrait en être faite de ces produits et services fonctionnant avec de l'intelligence artificielle.
 
   
 
