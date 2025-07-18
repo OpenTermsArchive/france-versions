@@ -9,15 +9,15 @@ La présente déclaration de confidentialité décrit la façon dont nous recuei
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-* [1\. Qui sommes-nous ?](#id-f5db6a2c-e4f9-4ec1-b629-70a79b7b2568)
-* [2\. Les types de données personnelles que nous traitons](#id-1027656b-1e45-45a1-94e4-7f2e485e7058)
-* [3\. Comment recueillons-nous vos données ?](#id-a77e6210-39dd-4597-9594-7f3e2e354f52)
-* [4\. Fins auxquelles nous utilisons vos données](#id-2d46d7a2-ba5b-4c4a-9230-4a4acd8f8511)
-* [5 Transmission ou partage de données avec des parties tierces](#id-a264ed7e-6ae5-4782-b82a-c428487c714c)
-* [Sécurité et conservation](#id-19ab43ad-7ad4-4a8a-a8f6-c6f7d560a9fa)
-* [7\. Le transfert international de vos données](#id-a9470cc2-0110-4f35-afd8-e29937fa2532)
-* [8\. Vos droits](#id-a27ff91b-c664-4a08-a2c0-823de262f8d1)
-* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-1f98c717-45fd-4f8e-8990-2b84623559c6)
+* [1\. Qui sommes-nous ?](#id-8e8a4035-f858-4b63-b5fd-f23c409bbec5)
+* [2\. Les types de données personnelles que nous traitons](#id-4d463f36-24ca-436e-90cd-6fb6b2b31fcd)
+* [3\. Comment recueillons-nous vos données ?](#id-b12e2388-1992-4ed3-bbfd-f0d269327b9e)
+* [4\. Fins auxquelles nous utilisons vos données](#id-df249de1-e06f-486d-b754-5eadfa0d0c26)
+* [5 Transmission ou partage de données avec des parties tierces](#id-77a1ae70-4348-428c-96a9-48b8a29ff85f)
+* [Sécurité et conservation](#id-232051bd-6456-4680-ba41-b5c5f42b457d)
+* [7\. Le transfert international de vos données](#id-5300c58e-a019-47ce-b48d-82d129b21c32)
+* [8\. Vos droits](#id-c47a6ec5-d2a5-468b-8a72-5178b214fb73)
+* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-85ce5647-800b-47b7-8c9a-5ce10a77b379)
 
 1\. Qui sommes-nous ?
 ---------------------
@@ -52,15 +52,15 @@ La présente déclaration de confidentialité décrit la façon dont nous recuei
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
-* [1\. Qui sommes-nous ?](#id-f5db6a2c-e4f9-4ec1-b629-70a79b7b2568)
-* [2\. Les types de données personnelles que nous traitons](#id-1027656b-1e45-45a1-94e4-7f2e485e7058)
-* [3\. Comment recueillons-nous vos données ?](#id-a77e6210-39dd-4597-9594-7f3e2e354f52)
-* [4\. Fins auxquelles nous utilisons vos données](#id-2d46d7a2-ba5b-4c4a-9230-4a4acd8f8511)
-* [5 Transmission ou partage de données avec des parties tierces](#id-a264ed7e-6ae5-4782-b82a-c428487c714c)
-* [Sécurité et conservation](#id-19ab43ad-7ad4-4a8a-a8f6-c6f7d560a9fa)
-* [7\. Le transfert international de vos données](#id-a9470cc2-0110-4f35-afd8-e29937fa2532)
-* [8\. Vos droits](#id-a27ff91b-c664-4a08-a2c0-823de262f8d1)
-* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-1f98c717-45fd-4f8e-8990-2b84623559c6)
+* [1\. Qui sommes-nous ?](#id-8e8a4035-f858-4b63-b5fd-f23c409bbec5)
+* [2\. Les types de données personnelles que nous traitons](#id-4d463f36-24ca-436e-90cd-6fb6b2b31fcd)
+* [3\. Comment recueillons-nous vos données ?](#id-b12e2388-1992-4ed3-bbfd-f0d269327b9e)
+* [4\. Fins auxquelles nous utilisons vos données](#id-df249de1-e06f-486d-b754-5eadfa0d0c26)
+* [5 Transmission ou partage de données avec des parties tierces](#id-77a1ae70-4348-428c-96a9-48b8a29ff85f)
+* [Sécurité et conservation](#id-232051bd-6456-4680-ba41-b5c5f42b457d)
+* [7\. Le transfert international de vos données](#id-5300c58e-a019-47ce-b48d-82d129b21c32)
+* [8\. Vos droits](#id-c47a6ec5-d2a5-468b-8a72-5178b214fb73)
+* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-85ce5647-800b-47b7-8c9a-5ce10a77b379)
 
 1\. Qui sommes-nous ?
 ---------------------
