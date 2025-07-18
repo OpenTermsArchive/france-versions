@@ -260,7 +260,7 @@
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
-    * [Boss](https://www.printemps.com/fr/fr/hugo-boss-homme)
+    * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
 
 * [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-beaute)
     
