@@ -324,7 +324,7 @@ Brussels Airlines ne pourra être tenue responsable si nous avons exercé notre 
 
 ### Bagages non enregistrés
 
-8.7.1. Nous pouvons imposer des dimensions maximales aux bagages que vous emportez à bord de l’appareil. Si nous ne l’avons pas fait, les bagages que vous emportez à bord de l’appareil doivent pouvoir être placés sous le siège devant vous ou dans un espace de rangement fermé au sein de la cabine de l’appareil. Si vous ne pouvez pas ranger vos bagages de la sorte, s’ils sont trop lourds ou s’ils peuvent se révéler dangereux pour une quelconque raison, ils doivent être transportés comme bagages enregistrés.
+8.7.1. Nous préciserons le nombre, le poids maximal et les dimensions maximales des bagages à main. Dans tous les cas, les bagages à main doivent être placés sous le siège devant vous ou dans les compartiments à bagages. Si votre bagage à main ne remplit pas ces conditions ou ne répond pas aux exigences de sûreté et de sécurité, il doit être transporté en tant que bagage enregistré et nous pouvons vous facturer conformément aux règles relatives aux bagages qui s’appliquent à votre tarif.
 
 8.7.2. Les objets qui ne peuvent pas être transportés dans les soutes (tels que des instruments de musique fragiles), et qui ne sont pas conformes aux dispositions du paragraphe 8.7.1 ci-dessus, ne peuvent être acceptés dans la cabine que si vous nous en avez averti au préalable et que nous vous en avons accordé l’autorisation. Vous pourriez devoir payer des frais supplémentaires pour ce service.
 
@@ -578,10 +578,8 @@ En cas d’avarie, le destinataire doit adresser au transporteur une protestatio
 
 Pour les consommateurs britanniques et allemands, Brussels Airlines prend part au règlement des litiges devant un bureau de conciliation des consommateurs. Le bureau de conciliation des consommateurs compétent est le SÖP – Schlichtungsstelle für den öffentlichen Personenverkehr E.V. (« Bureau de conciliation pour le transport public de voyageurs »), sis Fasanenstrasse 81 à 10623 Berlin, Allemagne ([https://soep-online.de/en/](https://soep-online.de/en/), et les demandes de conciliation concernant les vols peuvent être introduites via [https://soep-online.de/en/your-conciliation-request/](https://www.schlichtung-reise-und-verkehr.de/en/the-arbitration/your-conciliation-request/)).
 
-La Commission européenne fournit également une plateforme de règlement en ligne des litiges. Cette plateforme est disponible [ici](https://ec.europa.eu/consumers/odr/main/?event=main.consumer.rights#inline-nav-2).
-
 17.1. Le transport est également effectué conformément à d’autres réglementations et conditions qui nous sont applicables, ou que nous avons adoptées. Ces réglementations et conditions sont importantes et sont sujettes à des modifications ponctuelles. Elles concernent entre autres le transport de mineurs non accompagnés, de femmes enceintes et de passagers malades ; des restrictions concernant l’utilisation d’appareils et d’objets électroniques et la consommation de boissons alcoolisées à bord. Nous pouvons fournir les réglementations et conditions concernant ces questions sur demande.
 
 18.1. Les intitulés abrégés de chaque article des présentes conditions sont uniquement indiqués à titre informatif et ne sauraient servir à l’interprétation du texte.
 
-**Dernière mise à jour : décembre 2024**
+**Dernière mise à jour : juillet 2025**
