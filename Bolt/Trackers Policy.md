@@ -5,7 +5,7 @@ Ce site web utilise des cookies.. Nous utilisons des cookies pour le fonctionnem
 
 Consultez notre  [Déclaration relative aux cookies](https://bolt.eu/en/cookie-declaration/)  pour plus d'informations et de préférences.
 
-Votre consentement s'applique aux domaines suivants : dcp.bolt.eu, dcp.cf.boltsvc.net, littlebigthinktank.com, city.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, bolt-food-partners.formaloo.net, courier.bolt.eu, formaloo.net, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, blog.bolt.eu, bolt.eu
+Votre consentement s'applique aux domaines suivants : dcp.bolt.eu, dcp.cf.boltsvc.net, littlebigthinktank.com, city.bolt.eu, foodpartner.bolt.eu, makecitiesforpeople.com, courier.bolt.eu, bestbreakups.com, couriers.bolt.eu, business.bolt.eu, signup.bolt.eu, fleets.bolt.eu, partners.bolt.eu, food.bolt.eu, partners.food.bolt.eu, bolt.eu
 
 Votre état ​​actuel: Refuser. 
 
@@ -25,7 +25,7 @@ Identifiant de votre consentement: 0Date de consentement:
 
 Déclaration relative aux cookies mise à jour le 28/06/2025 par [Cookiebot](https://www.cookiebot.com/ "Cookiebot"):
 
-Nécessaires (75)
+Nécessaires (72)
 
 Les cookies nécessaires contribuent à rendre notre site web utilisable en activant des fonctions de base comme la navigation de page. Le site web ne peut pas fonctionner correctement sans ces cookies. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -43,9 +43,8 @@ Les cookies nécessaires contribuent à rendre notre site web utilisable en acti
 | Bolt\_driver\_portal\_visitor\_id | signup.bolt.eu | En attente | Persistant | Stockage local HTML |
 | bSession | [Wix.com](http://parastorage.com/ "la politique de confidentialité de Wix.com") | Nécessaire pour mesurer et rendre compte des performances du site Web. | 1 jour | Cookie HTTP |
 | bugsnag-anonymous-id \[x2\] | food.bolt.eu  <br>foodpartner.bolt.eu | Ce cookie est utilisé pour détecter les erreurs sur le site ; ces informations sont envoyées au personnel technique du site pour pouvoir optimiser l'expérience du visiteur sur le site. | Persistant | Stockage local HTML |
-| cf\_clearance | formaloo.me | Ce cookie est utilisé pour distinguer les humains des robots. | 1 année | Cookie HTTP |
 | client-session-bind | bolt.eu | En attente | Session | Cookie HTTP |
-| CookieConsent \[x19\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>bolt-food-partners.formaloo.net  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>tracking.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
+| CookieConsent \[x17\] | [Cookiebot](https://www.cookiebot.com/goto/privacy-policy/ "la politique de confidentialité de Cookiebot")  <br>courier.bolt.eu  <br>partners.bolt.eu  <br>partners.food.bolt.eu  <br>tracking.bolt.eu | Stocke l'autorisation d'utilisation de cookies pour le domaine actuel par l'utilisateur | 1 année | Cookie HTTP |
 | deviceId \[x2\] | static.bolt.eu | Identifie l'utilisateur connecté. Un identifiant unique de session est lié à l'utilisateur afin de pouvoir l’identifier lors de la navigation du site. L'utilisateur est déconnecté lorsque le cookie expire. | Persistant | Stockage local HTML |
 | fedops.logger.sessionId | [Wix.com](http://parastorage.com/ "la politique de confidentialité de Wix.com") | Cookie technique qui synchronise le site web et le SGC. Ceci est utilisé pour mettre à jour le site. | Persistant | Stockage local HTML |
 | fleet-visitor-id | bolt.eu | En attente | Session | Cookie HTTP |
@@ -190,7 +189,7 @@ Les cookies marketing sont utilisés pour effectuer le suivi des visiteurs à tr
 | yt-remote-session-app | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 | yt-remote-session-name | [YouTube](https://business.safety.google/privacy/ "la politique de confidentialité de YouTube") | Stocke les préférences de lecture vidéo de l'utilisateur pour les vidéos YouTube incorporées | Session | Stockage local HTML |
 
-Non classés (5)
+Non classés (4)
 
 Les cookies non classés sont les cookies qui sont en cours de classification, ainsi que les fournisseurs de cookies individuels. [En savoir plus](https://bolt.eu/en/cookie-declaration/)
 
@@ -198,7 +197,6 @@ Les cookies non classés sont les cookies qui sont en cours de classification, a
 | Nom | Fournisseur | Finalité | Durée maximale de conservation | Type |
 | --- | --- | --- | --- | --- |
 | @developer-settings/state | food.bolt.eu | En attente | Persistant | Stockage local HTML |
-| cf.turnstile.u | [Cloudflare](https://www.cloudflare.com/privacypolicy/ "la politique de confidentialité de Cloudflare") | En attente | Persistant | Stockage local HTML |
 | mp\_gen\_new\_tab\_id\_mixpanel\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | En attente | Session | Stockage local HTML |
 | mp\_tab\_id\_mixpanel\_1a3f21ca8018375e914288d06af0cb79 | fleets.bolt.eu | En attente | Session | Stockage local HTML |
 | mpaSessionId | bolt.eu | En attente | Session | Stockage local HTML |
