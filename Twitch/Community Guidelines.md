@@ -919,8 +919,10 @@ Nous comprenons que les streamers sont parfois victimes d’usurpation de compte
 
 _Les notes de sanction sont des exemples supplémentaires de ce qui est autorisé ou non sur Twitch. Elles visent à clarifier les politiques existantes déjà appliquées. Les mises à jour publiées ici n'indiquent aucun changement de politique, mais constituent des exemples supplémentaires de sanctions existantes._
 
-* Rediriger les utilisateurs vers un stream en direct sur un autre service via des liens sur votre stream Twitch, tels que des overlays, des codes QR, le titre du stream ou des notifications de live, est interdit.
-    * Les liens vers des profils de réseaux sociaux, qui ne sont pas directement liés à un stream et les liens présents dans votre bio (« À propos de moi ») ou dans les panneaux sont toujours autorisés.
+* Les liens vers les profils de réseaux sociaux dans votre bio (À propos de moi) ou dans vos panneaux, y compris les liens vers les plateformes de streaming en direct, sont autorisés. 
+* Vous ne pouvez pas utiliser votre bio (À propos de moi) ou vos panneaux pour mettre activement en avant d’autres plateformes de streaming en direct, y compris de grandes bannières ou des messages encourageant les utilisateurs à regarder votre stream sur d’autres services.
+* Twitch ne doit pas être utilisé pour rediriger les utilisateurs vers un stream en direct sur une autre plateforme ou un autre service. 
+    * Par exemple, vous ne pouvez pas utiliser Twitch pour encourager les spectateurs à utiliser d’autres services de streaminge en live via des liens sur votre bio Twitch, des bannières, des codes QR, des titres de stream, des notifications de lancement de live, des commandes de chat ou d’autres moyens.
 * Les drops sont destinés à être gagnés lors de parties en direct avec votre communauté, et non pas en streamant du contenu sans rapport avec le jeu concerné, comme des images statiques, des rediffusions d’anciennes VoD/vidéos, ou d’autres cas de figure dans lesquels vous n’interagissez pas avec votre communauté.
     * Exemple de comportement autorisé : streamer un jeu avec des drops et faire une petite pause avec une image statique temporaire « Bientôt de retour ».
     * Exemple de comportement interdit : utiliser des VoD ou des images statiques pour streamer dans le but principal de faire du « Drop Farming ».
