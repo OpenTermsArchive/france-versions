@@ -481,7 +481,7 @@ Il vous sera demandé de payer une contrepartie pour le transport de bagages enr
 
 ===================================================
 
-**8.3.1** Vous pouvez transporter à bord un petit bagage en cabine de 40 x 20 x 25 cm maximum (sans frais pour les bébés voyageant sur les genoux de leurs parents). Cliquez ici pour consulter les Règlements concernant les bagages en cabine.
+**8.3.1** Vous pouvez transporter à bord un petit bagage en cabine de 40 x 30 x 20 cm maximum (sans frais pour les bébés voyageant sur les genoux de leurs parents). Cliquez ici pour consulter les Règlements concernant les bagages en cabine.
 
 **8.3.2** Si vous avez acheté Priorité et 2 bagages cabine, avec un billet Regular ou Flexi Plus (ou un billet Plus acheté avant le 11 décembre 2019), vous pouvez emporter à bord un petit bagage à main ainsi qu’un plus grand bagage en cabine pesant au maximum 10 kg et ne mesurant pas plus de 55 cm x 40 cm x 20 cm, sauf si nous sommes dans l’obligation de placer le grand bagage en cabine dans la soute, pour des raisons opérationnelles.
 
