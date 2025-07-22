@@ -212,7 +212,7 @@ Si vous ne voyagez pas, vous pouvez faire une demande écrite, notamment en lign
   
 **4.2.3** Si vous avez payé un service facultatif (tel qu’un siège attribué) et embarqué sur votre vol, mais que nous n’avons pas pu fournir le service en question pour des raisons qui nous sont imputables (un changement d’avion peut par exemple nous empêcher de vous attribuer un siège offrant davantage d’espace pour les jambes, bien que vous l’ayez payé), vous pouvez demander le remboursement des frais payés pour ce service. Le formulaire de remboursement est disponible ici.
 
-**4.2.4** Nos prix sont dynamiques et ajustés selon la demande. Ils peuvent varier en fonction de la date de voyage et de l’itinéraire choisis. En raison du volume important de réservations effectuées en temps réel, les tarifs et les prix des services facultatifs, tels que les bagages et les sièges réservés, peuvent changer entre le moment où vous commencez à chercher votre billet et celui où vous décidez d’effectuer un achat.
+**4.2.4** Nos prix sont établis en fonction de la demande. Ils peuvent varier en fonction de la date de voyage et de l’itinéraire choisis.En raison du volume important de réservations effectuées en temps réel, les tarifs et les prix des services facultatifs, tels que les bagages et les sièges réservés, peuvent changer entre le moment où vous commencez à chercher votre billet et celui où vous décidez d’effectuer un achat.
 
 4.3 DEVISE
 
