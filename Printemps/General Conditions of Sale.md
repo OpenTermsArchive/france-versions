@@ -1,45 +1,4 @@
-[**SOLDES**](https://www.printemps.com/fr/fr/soldes) [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
-
-* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes)
-    
-* [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes/sel/-10%25+supplementaires)
-    
-* [Femme](https://www.printemps.com/fr/fr/soldes-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/BALMAIN/AMI+PARIS/LANCEL/PRADA/BALMAIN/ACNE+STUDIOS)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/soldes-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/soldes-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-femme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/soldes-femme/cat0/Baskets)
-    * [Sandales et mules](https://www.printemps.com/fr/fr/soldes-femme/cat0/Sandales/Mules/Sling-back)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-femme/esp/V%C3%AAtements)
-    * [Robes](https://www.printemps.com/fr/fr/soldes-femme/cat0/Robes)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-femme/esp/Accessoires)
-
-* [Homme](https://www.printemps.com/fr/fr/soldes-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
-    * [Baskets](https://printemps.com/fr/fr/soldes-homme/cat0/Baskets)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements)
-    * [Chemises](https://printemps.com/fr/fr/soldes-homme/cat0/Chemises)
-    * [T-shirts et polos](https://www.printemps.com/fr/fr/soldes-homme/cat0/Tops+et+t-shirts)
-    * [Pantalons](https://printemps.com/fr/fr/soldes-homme/cat0/Pantalons)
-    * [Shorts](https://www.printemps.com/fr/fr/soldes-homme/cat0/Shorts)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-homme/esp/Chaussures)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-homme/esp/Accessoires)
-    * [Luxe](https://printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/AMI+PARIS/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/BALMAIN/MAISON+MARGIELA/AMIRI/BALMAIN/OFF-WHITE/LANCEL/PRADA/VERSACE)
-
-* [Beauté](https://www.printemps.com/fr/fr/soldes-beaute)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-beaute)
-    * [Électronique et accessoires](https://www.printemps.com/fr/fr/soldes-beaute/esp/Accessoires)
-    * [Parfums](https://www.printemps.com/fr/fr/soldes-beaute/esp/Parfum)
-    * [Soins](https://www.printemps.com/fr/fr/soldes-beaute/esp/Soin)
-    * [Maquillage](https://www.printemps.com/fr/fr/soldes-beaute/esp/Maquillage)
-* [Maison](https://www.printemps.com/fr/fr/soldes-maison)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-maison)
-* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
-    
+[Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
@@ -90,19 +49,6 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
-* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-femme)
-    * [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-femme/sel/-10%25+supplementaires)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/soldes-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/BALMAIN/LANCEL/PRADA/VERSACE/)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-femme/esp/Sacs)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-femme/esp/V%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-femme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/soldes-femme/cat0/Baskets)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-femme/esp/Accessoires)
-    * [Bijoux](https://www.printemps.com/fr/fr/soldes-femme/cat0/Bijoux)
-
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -161,6 +107,19 @@
     * [ÉCharpes Et Foulards](https://www.printemps.com/fr/fr/echarpes-femme)
     * [Ceintures](https://www.printemps.com/fr/fr/ceintures-femme)
     * [Chaussettes](https://www.printemps.com/fr/fr/chaussettes-femme)
+
+* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-femme)
+    
+* [TENDANCES](#)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
+    * [Maillots de bain : les modèles les plus tendances](https://www.printemps.com/fr/fr/edito-style-maillots-de-bain-tendances-ete)
+    * [Flower power](https://www.printemps.com/fr/fr/le-pouvoir-des-fleurs)
+    * [Les looks de festivals](https://www.printemps.com/fr/fr/edito-style-looks-de-festivals)
+    * [En transparence](https://www.printemps.com/fr/fr/tout-en-transparence-femme)
+    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
+    * [Les sandales de l'été 2025](https://www.printemps.com/fr/fr/edito-style-sandales-tendances-ete)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-femme)
+    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -178,18 +137,6 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [SOLDES : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-homme)
-    * [\-10% suppl. sur une sélection](https://www.printemps.com/fr/fr/soldes-homme/sel/-10%25+supplementaires)
-    * [Voir tout](https://www.printemps.com/fr/fr/soldes-homme)
-    * [Luxe](https://www.printemps.com/fr/fr/soldes-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/BALMAIN/PRADA/VERSACE/)
-    * [Vêtements](https://www.printemps.com/fr/fr/soldes-homme/esp/V%C3%AAtements)
-    * [Chaussures](https://www.printemps.com/fr/fr/soldes-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/soldes-homme/cat0/Baskets)
-    * [Accessoires](https://www.printemps.com/fr/fr/soldes-homme/esp/Accessoires)
-    * [Sacs](https://www.printemps.com/fr/fr/soldes-homme/esp/Sacs)
-
-* [NOUVEAUTÉS](https://www.printemps.com/fr/fr/nouveautes-homme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -242,9 +189,20 @@
     * [Bagages](https://www.printemps.com/fr/fr/sacs-voyage-homme)
     * [Accessoires De Sacs Et Bagages](https://www.printemps.com/fr/fr/accessoires-de-sacs-et-bagages-homme)
     * [Sacs Bananes](https://www.printemps.com/fr/fr/bananes-homme)
-* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
+
+* [Nouveautés](https://www.printemps.com/fr/fr/nouveautes-homme)
+    
+* [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
+    * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
+    * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
+    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+    * [Workwear](https://www.printemps.com/fr/fr/workwear-homme)
+    * [Bomber](https://www.printemps.com/fr/fr/bomber-homme)
+* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
+* [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
     
 
 * [TOP MARQUES](https://www.printemps.com/fr/fr/marques-homme)
@@ -262,8 +220,6 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
 
-* [Soldes : jusqu'à -70%](https://www.printemps.com/fr/fr/soldes-beaute)
-    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
