@@ -1,5 +1,33 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
+    
+* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
+    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
+    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
+    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
+    * [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
+    * [Tops et t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
+    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
+    * [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
+
+* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
+    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
+    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
+    * [T-shirts et polos](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
+    * [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
+    * [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
+    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
+    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
+    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
+    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
+
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -49,6 +77,8 @@
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
 
+* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-femme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -137,6 +167,8 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
+* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-homme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -220,6 +252,8 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
 
+* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-beaute)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
