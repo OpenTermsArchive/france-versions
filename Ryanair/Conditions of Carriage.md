@@ -981,7 +981,10 @@ ARTICLE 15 – DÉLAIS DE RÉCLAMATION ET DE POURSUITE
 
 **15.1.1** Concernant une plainte sous l’article 15.1.2., l’acceptation des Bagages enregistrés par le porteur de l’Étiquette de bagages, sans réclamation au moment de la livraison, constitue une preuve suffisante à première vue que le Bagage a été livré en bon état et conformément au contrat de transport.
 
-**15.1.2** Si vous souhaitez déposer une plainte ou nous poursuivre concernant les Dommages survenus à des Bagages enregistrés, vous devez nous adresser une réclamation écrite dès que possible. Vous devez nous adresser une réclamation par écrit dans un délai de sept (7) Jours en cas de Dommages survenus à des Bagages enregistrés et de vingt-et-un (21) Jours en cas de retard , dans les deux cas, à compter de la date à laquelle les Bagages ont été mis à votre disposition.  
+**15.1.2** Si vous souhaitez faire une réclamation concernant un bagage enregistré perdu, endommagé ou retardé, vous devez nous écrire dès que possible.
+
+* En cas de perte ou de dommage, vous devez nous écrire dans les sept jours suivant la réception de votre bagage.
+* En cas de bagage retardé, vous devez nous écrire au plus tard 21 jours après la date à laquelle vous avez pu récupérer le bagage.
 
 15.2 DEMANDES D’INDEMNISATION FORMULÉES DANS LE CADRE DE LA DIRECTIVE UE 261
 
