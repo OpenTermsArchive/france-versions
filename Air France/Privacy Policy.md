@@ -119,6 +119,7 @@ Achat en ligne
 
 * [Frais d'émission - Frais de service](https://wwws.airfrance.fr/information/legal/frais-emission-et-service)
 * [Moyens de paiement](https://wwws.airfrance.fr/information/legal/moyens-de-paiement)
+* [Air France holidays](https://holidays.airfrance.fr/fr-FR?utm_medium=touchpoint_site&utm_source=AFFR_footer&utm_campaign=afh&utm_content=generic&source=touchpoint_site-AFFR_footer-afh)
 * [Air France Shopping](https://shopping.airfrance.com/?)
 * [Pourquoi réserver sur le site officiel Air France ?](https://wwws.airfrance.fr/information/meilleures-offres/pourquoi-reserver-sur-le-site-airfrance)
 
