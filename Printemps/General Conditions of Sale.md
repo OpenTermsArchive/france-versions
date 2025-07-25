@@ -54,6 +54,10 @@
     * [Accessoires](https://www.printemps.com/fr/fr/accessoires)
 * [MAISON](https://www.printemps.com/fr/fr/nouveautes-maison)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-maison)
+* [SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+    
+* [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
+    
 
 * [MARQUES](#)
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
@@ -416,6 +420,8 @@
     * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
     * [Le Picnic by Veuve Clicquot sur le rooftop du Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-le-picnic-veuve-clicquot-rooftop-printemps-haussmann-2025)
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
+    
+* [Souvenir shop](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
 * [Nos services](https://www.printemps.com/fr/fr/a-votre-service)
