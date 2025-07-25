@@ -5,7 +5,7 @@ Le site www.air-austral.com que vous consultez actuellement est la propriété d
 Responsable du contenu du site
 ------------------------------
 
-Raison sociale : Air Austral  
+Raison sociale : Air Austral
 
 SA à Directoire et Conseil de surveillance au capital de 30 859 657,10€ RCS de Saint-Denis de la Réunion sous le n° B 323 650 945
 
@@ -84,6 +84,8 @@ Crédits
 Adobe Stock : [stock.adobe.com](https://stock.adobe.com/fr/ "Adobe Stock")  
 Unplash : [unsplash.com](https://unsplash.com/ "UNSPLASH")  
 Pexels : [pexels.com](https://www.pexels.com/fr-fr/ "PEXELS")
+
+Crédit police : [https://www.fontfabric.com/](https://www.fontfabric.com/ "Font face credit")
 
 Contacts
 --------
