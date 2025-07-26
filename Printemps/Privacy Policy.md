@@ -80,6 +80,8 @@
     * [Le daim](https://www.printemps.com/fr/fr/daim)
     * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
     * [Bombers](https://www.printemps.com/fr/fr/bomber)
+*  [![](https://media-cdn.printemps.com/image/08/2/8261082.jpg) SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+    
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-femme)
     
