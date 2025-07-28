@@ -4,8 +4,6 @@ Conditions Générales d’Utilisation de TikTok
 
 **(Les présentes conditions s’appliquent si vous vivez ou avez votre principal établissement dans l’Espace économique européen, en Suisse ou au Royaume-Uni)**
 
-_Nos nouvelles Conditions générales d'utilisation prennent effet le 25 juillet 2025. Cliquez_ [ici](https://www.tiktok.com/legal/terms-of-service-eea-archive) _pour consulter nos Conditions générales d'utilisation actuelles et_ [ici](https://www.tiktok.com/legal/learn-more-nov-eea) _pour plus de détails sur ce qui change._
-
 _Dernière mise à jour : juillet 2025_
 
 Bienvenue sur TikTok.
