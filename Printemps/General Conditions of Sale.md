@@ -327,8 +327,6 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/42/1/8200421.jpg) GIVENCHY](https://www.printemps.com/fr/fr/givenchy-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_givenchy)
-    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
