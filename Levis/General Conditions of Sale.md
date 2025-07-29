@@ -7,7 +7,7 @@ CONDITIONS GÉNÉRALES CONSOMMATEURS
 
 [Print This Page](javascript:window.print())
 
-Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Airport Plaza - Rio Building, Leonardo Da Vincilaan 19, 1831 DIEGEM, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
+Les présentes conditions générales s'appliquent à votre achat sur notre site Web et sur notre application mobile Levi's®, lorsqu'elle est disponible (individuellement et collectivement, "le site Web") auprès de Levi Strauss & Co. Europe BV, une société constituée et existant en vertu des lois de la Belgique, dont les bureaux sont situés à Levi Strauss & Co Europe BV Square du Bastion 1A,1050 Ixelles, BELGIQUE, enregistrée au registre du commerce sous le numéro BE 0424.656.991.  
    
 
 ACCEPTATION DES CONDITIONS GÉNÉRALES ET DES AUTRES CONDITIONS  
@@ -333,8 +333,6 @@ Vous pouvez nous envoyer un e-mail à tout moment. Nous y répondrons dans les p
 Que faire si vous n'êtes pas pleinement satisfait(e) de nos services ?  
 
 Dans un premier temps, veuillez nous contacter par e-mail ou par téléphone. Nous nous efforcerons de trouver une solution qui réponde le mieux possible à vos attentes.  
-  
-Si vous n'êtes pas pleinement satisfaite, veuillez vous rendre à l'adresse suivante [**https://webgate.ec.europa.eu/odr/main/?event=main.home.show**](https://webgate.ec.europa.eu/odr/main/?event=main.home.show)
 
 #### Conformité des produits
 
