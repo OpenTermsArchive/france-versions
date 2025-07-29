@@ -77,9 +77,9 @@
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [Le daim](https://www.printemps.com/fr/fr/daim)
-    * [Club nautique](https://www.printemps.com/fr/fr/club-nautique)
-    * [Bombers](https://www.printemps.com/fr/fr/bomber)
+    * Passion Raphia
+    * [Le retour des tongs](https://www.printemps.com/fr/fr/tongs-femme)
+    * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
 *  [![](https://media-cdn.printemps.com/image/08/2/8261082.jpg) SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
@@ -232,10 +232,10 @@
     
 * [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
-    * [Indie rock](https://www.printemps.com/fr/fr/indie-sleaze-homme)
-    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
-    * [Workwear](https://www.printemps.com/fr/fr/workwear-homme)
-    * [Bomber](https://www.printemps.com/fr/fr/bomber-homme)
+    * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
+    * [Sandales et mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
+    * [Jaune beurre](https://www.printemps.com/fr/fr/jaune-et-joli-homme)
+    * [Le bal des rayures](https://www.printemps.com/fr/fr/carreaux-et-rayures-homme)
 * [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
