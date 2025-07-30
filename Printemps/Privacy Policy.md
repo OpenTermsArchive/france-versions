@@ -77,7 +77,7 @@
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * Passion Raphia
+    * [Passion Raphia](https://www.printemps.com/fr/fr/sacs-ete-femme)
     * [Le retour des tongs](https://www.printemps.com/fr/fr/tongs-femme)
     * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
 *  [![](https://media-cdn.printemps.com/image/08/2/8261082.jpg) SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
