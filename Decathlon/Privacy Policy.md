@@ -840,13 +840,8 @@ La base légale du traitement des données nécessaires à la détection des tra
 
 Finalités
 
-Ce traitement nous permet d’assurer l’authenticité et la véracité de la transaction, et ainsi, il nous permet de nous prémunir contre la fraude sur les parcours digitaux de Decathlon.
-
-Prise de décision automatisée
-
-Nous vous informons également que votre transaction de paiement fera l’objet d’une évaluation des risques. Afin de détecter une tentative de fraude, Decathlon utilise, avec ses prestataires de service, des outils qui peuvent mener à une prise de décision automatisée y compris le profilage (liste d’attributs reliés à une fraude) qui peut, en fonction du niveau de risque, affecter votre processus d’achat. Cette décision automatisée est prise par le biais d’algorithmes que nous appliquons à vos données personnelles, qui sont traitées dans le cadre de la lutte contre la fraude.  
-  
-Nous vous informons que vous disposez d’un droit à une intervention humaine afin de contester la décision automatisée, de présenter vos observations, et de demander le réexamen de la décision. En cas de demande de votre part, Decathlon assurera une revue manuelle de votre transaction. Pour cela, il suffit de contacter notre Service Relation Client en cliquant [ici](https://www.decathlon.fr/help/app/ask/cat_id/920).
+Afin de détecter toute tentative de fraude, Decathlon utilise, en collaboration avec ses prestataires de services, des outils de détection pouvant inclure un profilage (c’est-à-dire l’analyse d’attributs associés à des comportements frauduleux). En fonction du niveau de risque identifié, ce processus peut impacter le déroulement de votre achat.  
+Si vous souhaitez que votre transaction fasse l’objet d’un réexamen manuel, il vous suffit de contacter notre Service Relation Client en cliquant [ici](https://www.decathlon.fr/help/app/ask/cat_id/920)
 
 ##### PROFITEZ DU WIFI GRATUIT EN MAGASIN
 
