@@ -367,9 +367,10 @@ Nous pouvons modifier ou mettre à jour la présente Politique de confidentialit
 **Nous contacter**
 ------------------
 
-Vous pouvez nous contacter au sujet de la présente Politique de confidentialité par le biais de notre [formulaire Web](https://www.tiktok.com/legal/report/privacy). Vous pouvez contacter le Délégué à la protection des données de TikTok [ici](https://www.tiktok.com/legal/report/DPO).
+Vous pouvez nous contacter au sujet de la présente Politique de confidentialité par le biais de notre [formulaire Web](https://www.tiktok.com/legal/report/privacy). Vous pouvez contacter le Délégué à la protection des données de TikTok [ici](https://www.tiktok.com/legal/report/DPO).
 
 Vous pouvez également nous contacter à l’adresse postale suivante.
 
-* **Pour les utilisateurs au sein de l’Espace économique européen et en Suisse** : TikTok Technology Limited, 10  The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 HD23, Ireland, Irlande.
-* **Pour les utilisateurs au sein du Royaume-Uni** : TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, Londres, EC1A 9HP, Royaume-Uni.
+* **Pour les utilisateurs au sein de l’Espace économique européen et en Suisse** : TikTok Technology Limited, 10 The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 HD23, Irlande.
+* **Pour les utilisateurs au sein du Royaume-Uni** : TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, Londres, EC1A 9HP, Royaume-Uni.
+* **Pour les utilisateurs en Suisse, notre représentant est:** TikTok Switzerland GmbH, Talacker 41, 8001, Zürich, Suisse
