@@ -819,7 +819,7 @@ En cas de retard du Passager, Volotea sera responsable des dommages occasionnés
 
 En cas de perte ou dommages des bagages, les règles relatives émanant des normes internationales et nationales en vigueur seront appliquées, en particulier la Loi de navigation aérienne de 1960 et la Convention de Montréal, ainsi que le Règlement (CE) 2027/97.
 
-Volotea sera responsable en cas de destruction, perte, retard ou dommages des bagages à hauteur de 1.288 DTS (Droits de Tirage Spéciaux).
+Volotea sera responsable en cas de destruction, perte, retard ou dommages des bagages à hauteur de 1.519 DTS (Droits de Tirage Spéciaux).
 
 Cependant, si le Passager a rempli une déclaration spécifique pour la valeur de ses bagages, il pourra recourir à une limite de responsabilité plus élevée en effectuant une déclaration spécifique.
 
@@ -827,7 +827,7 @@ Concernant le bagage facturé, le Transporteur sera responsable dans tous les ca
 
 Si le bagage facturé a été endommagé, retardé, perdu ou détruit, le Passager doit le signaler par écrit à Volotea dès que possible et, dans tous les cas, avant un délai de 7 jours en cas de dommages et 21 jours en cas de perte et ce, à compter de la mise à disposition du bagage.
 
-Le transporteur aérien est responsable des dommages résultant d’un bagage perdu, sauf s’il peut prouver que toutes les mesures nécessaires ont été prises afin d’éviter les dommages ou qu’il était impossible de les éviter. La responsabilité en cas de dommages est limitée à 1 288 DTS. Le transporteur aérien est responsable en cas de destruction, perte ou détérioration des bagages, à concurrence de 1 288 DTS.
+Le transporteur aérien est responsable des dommages résultant d’un bagage perdu, sauf s’il peut prouver que toutes les mesures nécessaires ont été prises afin d’éviter les dommages ou qu’il était impossible de les éviter. La responsabilité en cas de dommages est limitée à 1 519 DTS. Le transporteur aérien est responsable en cas de destruction, perte ou détérioration des bagages, à concurrence de 1 519 DTS.
 
 Dans le cas de bagages enregistrés, le transporteur aérien est objectivement responsable du dommage, sauf si le bagage enregistré est défectueux. En cas de bagages à main, le transporteur aérien est responsable uniquement s'il est prouvé qu'il a manqué à l'une de ses obligations.
 
