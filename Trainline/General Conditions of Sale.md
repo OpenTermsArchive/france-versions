@@ -1,7 +1,7 @@
 Conditions générales de vente
 =============================
 
-Dernière mise à jour le 31 mars 2025
+Dernière mise à jour le 25 juillet 2025
 
 Vous trouverez dans ces Conditions générales de vente des informations sur nos services de réservation et sur la façon dont vous pouvez gérer vos réservations, notamment concernant les échanges, remboursements et annulations, ainsi que les moyens de paiement.
 
@@ -439,8 +439,6 @@ Veuillez consulter notre [FAQ](https://support.thetrainline.com/fr/support/solut
 
 ### 7.1 Informations générales
 
-**Afin d'encourager les clients à réserver en toute confiance, le secteur ferroviaire a assoupli les conditions des billets Advance au Royaume-Uni. Pour en savoir plus, consultez notre [page dédiée](https://support.thetrainline.com/en/support/solutions/articles/78000000637-fee-free-changes-on-uk-trains-until-30th-sept-22).**
-
 En fonction de votre transporteur et du type de billet, vous pourrez soit annuler votre billet et obtenir un remboursement soit le modifier. Nous indiquerons les conditions principales avant que vous ne sélectionniez vos billets, mais il est important de consulter directement les conditions générales du transporteur.
 
 En plus de vous acquitter de toute différence de prix éventuelle entre le nouveau billet et l'ancien, il se peut que vous deviez payer [des frais](https://support.thetrainline.com/en/support/solutions/articles/78000000472-fees) pour l'échange, l'annulation ou le remboursement de votre billet. Ces frais sont parfois fixés par les transporteurs et seront détaillés dans notre service de réservation ainsi que dans leurs conditions générales.
@@ -454,8 +452,6 @@ Si vous avez des questions sur les échanges, les annulations ou les rembourseme
 Pour avoir des informations sur les remboursements et les modifications des abonnements, veuillez vous reporter à la section Abonnements (Season Tickets) des conditions générales de vente, [ici](#season) et [Modification de votre abonnement (Season Ticket)](#season). 
 
 ### 7.2 Voyages en train au Royaume-Uni
-
-**Afin d'encourager les clients à réserver en toute confiance, le secteur ferroviaire a assoupli les conditions des billets Advance au Royaume-Uni. Pour en savoir plus, consultez notre [page dédiée](https://support.thetrainline.com/en/support/solutions/articles/78000000637-fee-free-changes-on-uk-trains-until-30th-sept-22).**
 
 Remboursements automatiques pour les voyages en train au Royaume-Uni
 
