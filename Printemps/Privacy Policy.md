@@ -327,6 +327,8 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
+*  [![](https://media-cdn.printemps.com/image/15/0/8275150.jpg) ORMAIE](https://www.printemps.com/fr/fr/ormaie-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_ormaie)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
