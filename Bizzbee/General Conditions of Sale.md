@@ -115,16 +115,19 @@ Le Client a également la possibilité de nous contacter par téléphone au 03 5
 BZB permet à ses Clients de retourner les Produits qui ne leur conviendraient pas dans un délai de trente (30) jours à compter de la date de réception de la commande (ce délai incluant le délai de rétractation légal).  
   
 10.3 Produits exclus  
-Conformément à l’article L.221-28 du Code de la consommation, le droit de rétractation ne peut pas être exercé notamment pour les Produits qui ont été descellés et qui ne peuvent être renvoyés pour des raisons d'hygiène (e.g. sous-vêtements, chaussettes, boucles d’oreille, etc…). De même, les Produits retournés ne devront pas souffrir de dépréciations qui résulteraient de manipulations autres que celles nécessaires pour établir la nature et les caractéristiques des Produits. A ce titre, les produits dégradés (usagés, portés, endommagés, tachés, arrachés, étiquettes coupées, etc.) ne seront ni repris ni remboursés par BZB, que ce soit au titre du droit de rétractation légal ou conventionnel.  
+Conformément à l’article L.221-28 du Code de la consommation, les articles qui ne peuvent pas être retournés sont les cartes-cadeaux, les cosmétiques, les bijoux, le parfum sans son film plastique et les maillots de bain (lorsque le film plastique à l’entre-jambe a été retiré). Le droit de rétractation ne peut être exercé sur les sous-vêtements et chaussettes si le packaging n’est plus dans son état d’origine (déchiré, ouvert…). De même, les Produits retournés ne devront pas souffrir de dépréciations qui résulteraient de manipulations autres que celles nécessaires pour établir la nature et les caractéristiques des Produits. A ce titre, les produits dégradés (usagés, portés, endommagés, tachés, arrachés, étiquettes coupées, etc.) ne seront ni repris ni remboursés par BZB, que ce soit au titre du droit de rétractation légal ou conventionnel.  
   
 10.4 Modalités de retour  
+  
 10.4.1 Par la Poste  
 Le Client peut demander le remboursement d’un produit en le retournant à ses frais dans un colis scellé avec le bon de retour dûment complété, le tout étant à adresser à:  
 Ephigea – Enseigne BZB  
 1381 Rue de Frévent  
 62810 Avesnes-le-Comte  
   
-Pour assurer la livraison du colis, BZB recommande au Client de retourner son produit en Colissimo Suivi (La Poste). 10.4.2 En point de retrait colissimo  
+Pour assurer la livraison du colis, BZB recommande au Client de retourner son produit en Colissimo Suivi (La Poste).  
+  
+10.4.2 En point de retrait colissimo  
 Le Client peut choisir de retourner gratuitement un produit en le déposant dans l’un des 7500 points de retrait Colissimo en France Métropolitaine. Le client devra joindre le bon de retour complété au colis.  
   
 10.4.3 En magasin  
