@@ -3,6 +3,12 @@ La fonctionnalité Javascript de votre navigateur est désactivée. Veuillez l'a
 Conditions d'Utilisation
 ========================
 
+* [VENTES PRIVEES](# "Open <span style="color:#001e63;">VENTES PRIVEES</span>")
+    
+    Certains articles sont actuellement disponibles à prix réduit. Les prix affichés correspondent à une remise appliquée au plus petit prix indiqué les 30 jours précédant le début des offres. Cette offre a été prolongée jusqu'au 12/08/2025 et est applicable uniquement sur les articles faisant explicitement l'objet d'une remise.
+    
+    Les prix réduits sont valables uniquement pour les commandes passées sur ASICS.com (site français) et ne sont pas cumulables avec d'autres promotions ou codes de réduction. ASICS se réserve le droit d'arrêter ou de modifier cette offre à tout moment. Le prix réduit sera affiché sous forme de remise au moment du paiement.
+    
 * [GÉNÉRAL](# "Open <span style="color:#001e63;">GÉNÉRAL</span>")
     
     ### 1\. IDENTITÉ D'ASICS
