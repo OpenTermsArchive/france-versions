@@ -368,7 +368,7 @@ L’Utilisateur est seul responsable du bon accomplissement des formalités pré
 
 **9.1.3** L’Utilisateur s’engage à faire une utilisation loyale de la Marketplace, notamment à ne pas contourner la Marketplace et ses Services. L’Utilisateur s’engage notamment à ne pas contractualiser une Mission en dehors de la Marketplace.
 
-L'Utilisateur reconnaît que la contractualisation d'une mission en dehors de la Marketplace cause un dommage irrémédiable à la Société. Dans le cas où cette contractualisation intervient dans les 12 mois suivant la mise en relation entre le Client et le Freelance, le Client sera redevable à la Société d'une indemnité forfaitaire de 10.000 euros. Cette indemnité s'applique à toute forme de contractualisation, directe ou indirecte, à l'exclusion d'un recrutement du Freelance par le Client en CDI à temps plein.
+L'Utilisateur reconnaît que la contractualisation d'une mission en dehors de la Marketplace cause un dommage irrémédiable à la Société. Dans le cas où cette contractualisation intervient dans les 12 mois suivant la mise en relation entre le Client et le Freelance via la Marketplace, le Client sera redevable à la Société d'une indemnité forfaitaire de 10.000 euros. Cette indemnité s'applique à toute forme de contractualisation, directe ou indirecte, à l'exclusion d'un recrutement du Freelance par le Client en CDI à temps plein.
 
 Tout Utilisateur s’interdit de procéder à toute extraction du Contenu de la Marketplace pour une activité similaire ou concurrente, ou à des fins de recrutement.
 
