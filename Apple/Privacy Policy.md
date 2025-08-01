@@ -1,7 +1,7 @@
 Engagement de confidentialité d’Apple
 =====================================
 
-### Mis à jour le 31 janvier 2025
+### Mise à jour : 30 juillet 2025
 
 L’Engagement de confidentialité d’Apple décrit la façon dont Apple collecte, utilise et protège vos données personnelles.
 
@@ -185,12 +185,7 @@ Vous pouvez vous familiariser avec nos pratiques en matière de confidentialite
     
     Les données personnelles collectées par [Apple ou une entreprise affiliée Apple](https://www.apple.com/fr/legal/privacy/fr-ww/affiliated-company/) dans le monde entier sont généralement stockées par Apple Inc. aux États-Unis. Quel que soit l’endroit où vos données personnelles sont stockées, Apple maintient le même niveau élevé de protection et de sauvegarde.
     
-    Les pratiques de confidentialité d’Apple, telles que décrites dans le présent Engagement de confidentialité, sont conformes au système global de règles transfrontalières de protection de la confidentialité (CBPR) et au système global de reconnaissance de la confidentialité pour les sous-traitants de données (PRP). Pour plus d’informations sur les systèmes CBPR et PRP globaux, consultez la page du [Forum du système global CBPR](https://www.globalcbpr.org/). Pour voir nos certifications, consultez la page du [Répertoire de conformité du système CBPR](https://cbprs.org/). Pour plus d’informations sur l’étendue de notre participation, ou pour soumettre une demande relative à la confidentialité par l’intermédiaire de [BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), notre Agent de responsabilité, consultez les pages suivantes :
-    
-    * [Programme de règles transfrontalières de protection de la confidentialité](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)
-        
-    * [Programme de reconnaissance de la confidentialité pour les sous-traitants de données](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
-        
+    Les pratiques de confidentialité d’Apple, telles que décrites dans la présente Politique de confidentialité, sont conformes aux systèmes Global Cross-Border Privacy Rules (CBPR) System et Global Privacy Recognition for Processors (PRP) System. Pour plus d’informations sur les systèmes Global CBPR et PRP Systems, consultez la page du [Global CBPR Forum](https://www.globalcbpr.org/). Pour voir nos certifications, consultez la page du [Global CBPR System Directory](https://www.globalcbpr.org/privacy-certifications/directory/). Pour plus d’informations sur l’étendue de notre participation ou pour [soumettre une demande relative à la confidentialité par l’intermédiaire de BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), notre Agent de responsabilité, consultez les pages ci-dessous.
     
     Les données personnelles relatives aux personnes se trouvant en République populaire de Chine peuvent être traitées par Apple dans des pays situés en dehors de la République populaire de Chine, tels qu’Apple Inc. aux États-Unis, ou Apple Distribution International Limited en République d’Irlande. Dans ce cas, cela se fera conformément aux lois locales, y compris à la loi sur la protection des données personnelles (Personal Information Protection Law). Aux fins du traitement prévu dans le présent Engagement de confidentialité, Apple peut également transférer ces données personnelles à des fournisseurs de services tiers, qui peuvent à leur tour stocker ou transférer les données en dehors de la République populaire de Chine. Pour plus d’informations, consultez la page [Divulgations des données personnelles en Chine continentale](https://www.apple.com.cn/legal/privacy/disclosure/).
     
@@ -211,3 +206,8 @@ Vous pouvez vous familiariser avec nos pratiques en matière de confidentialite
     Vous pouvez à tout moment transmettre votre réclamation à l’organisme de réglementation applicable, notamment si la réponse d’Apple ne vous satisfait pas. Si vous nous le demandez, nous nous efforcerons de vous donner des informations sur les recours possibles applicables à votre situation.
     
     En cas de modification importante du présent Engagement de confidentialité, nous publierons une notification sur ce site web au moins une semaine à l’avance et nous vous contacterons directement au sujet de la modification si nous avons vos coordonnées.
+    
+
+[![](https://www.apple.com/legal/images/bbbnp-globalcbpr/bbbnp-globalcbpr_large_2x.png)](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)[![](https://www.apple.com/legal/images/bbbnp-globalprp/bbbnp-globalprp_large_2x.png)](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
+
+Les marques Global CBPR System Certification Mark et Global PRP System Certification Mark™ sont des marques déposées de l’International Trade Administration/Office of Global Data Policy and Privacy, utilisées avec autorisation.
