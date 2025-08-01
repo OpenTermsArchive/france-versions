@@ -2,6 +2,8 @@
 
 * [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
     
+* [\-10% supp. sur une sélection](https://www.printemps.com/fr/fr/last-chance/sel/-10%25+supplementaires)
+    
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
     * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
@@ -327,6 +329,8 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
+*  [![](https://media-cdn.printemps.com/image/15/0/8275150.jpg) ORMAIE](https://www.printemps.com/fr/fr/ormaie-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette_ormaie)
+    
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
