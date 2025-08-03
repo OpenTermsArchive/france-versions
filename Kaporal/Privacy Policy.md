@@ -3,12 +3,12 @@ Politique de confidentialité
 
 ###### Table des matières
 
-1. [Informations générales – Responsable de traitement](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article1)
-2. [Traitements des Données Personnelles sur le Site](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article2)
-3. [Destinataires des Données Personnelles](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article3)
-4. [Transfert des Données Personnelles à l’étranger](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article4)
-5. [Sécurité](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article5)
-6. [Droit des personnes sur les données collectées](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article6)
+1.  [Informations générales – Responsable de traitement](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article1)
+2.  [Traitements des Données Personnelles sur le Site](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article2)
+3.  [Destinataires des Données Personnelles](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article3)
+4.  [Transfert des Données Personnelles à l’étranger](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article4)
+5.  [Sécurité](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article5)
+6.  [Droit des personnes sur les données collectées](https://www.kaporal.com/fr_fr/politique-de-confidentialite#article6)
 
 ARTICLE 1 : Informations générales – Responsable de traitement
 
@@ -30,7 +30,7 @@ Les Données Personnelles indispensables à Kaporal pour remplir les finalités 
 
 Si ces champs obligatoires ne sont pas renseignés, Kaporal ne pourra pas répondre aux demandes du Client et/ou fournir les produits et services demandés. Les autres informations ont un caractère facultatif et permettent à Kaporal de mieux connaître sa clientèle et d'améliorer ses communications et services.
 
-* **Création d’un compte et achat en ligne**
+*   **Création d’un compte et achat en ligne**
 
 **Données collectées** : adresse e-mail, données relatives à l’identité (civilité, nom, prénom, date de naissance), adhésion au Klub, préférences applicables aux communications
 
@@ -66,7 +66,7 @@ Avant le terme de ce délai de 3 ans, Kaporal pourra reprendre contact avec le C
 
 Les Données Personnelles liées aux achats et commandes du Client (i) feront l’objet d’un archivage à des fins comptables et probatoires (aux fins de la constatation, l'exercice ou la défense de droits en justice) pendant 5 ans (durée portée à 10 ans pour les commandes de plus de 120 euros et les données liées à la facturation pour le respect des obligations légales de Kaporal) puis (ii) seront détruites si lesdits délais ont expiré.
 
-* **Inscription à la newsletter**
+*   **Inscription à la newsletter**
 
 **Données collectées** : adresse e-mail et, en cas de création d’un compte Client, préférences applicables aux communications.
 
@@ -74,7 +74,7 @@ Les Données Personnelles liées aux achats et commandes du Client (i) feront l�
 
 **Durée de conservation** : voir ci-dessus (délai de 3 ans à compter du dernier contact ou suppression sur demande).
 
-* **Formulaire de contact**
+*   **Formulaire de contact**
 
 **Données collectées** : si applicable, numéro de commande, prénom, nom, adresse électronique, numéro de téléphone, commentaire du Visiteur ou Client.
 
@@ -82,61 +82,61 @@ Les Données Personnelles liées aux achats et commandes du Client (i) feront l�
 
 **Durée de conservation** : les Données Personnelles sont archivées après le traitement de la demande et archivées pendant 5 ans (délai de prescription). Pour les personnes disposant d’un compte Client, les données sont traitées pendant la même durée que les Données Personnelles attachées au Compte Client.
 
-* **Cookies et traceurs**
+*   **Cookies et traceurs**
 
 **Données collectées :** si applicable, adresse électronique, création de compte, identifiant CRM, consentement aux services tiers, numéro de commande, indicateurs de navigation, comportement d’achat, géolocalisation
 
 **Finalité et base légale** : la finalité de chaque service est détaillée dans le paragraphe “**Fonctionnalités du Site”**.
 
-* **Logs de connexion :** Assurer la sécurité du Site en surveillant les tentatives d’accès, les activités suspectes et en gérant les incidents de sécurité.
+*   **Logs de connexion :** Assurer la sécurité du Site en surveillant les tentatives d’accès, les activités suspectes et en gérant les incidents de sécurité.
 
-* **Assurer le bon fonctionnement du Site :** Garantir que toutes les fonctionnalités essentielles du site opèrent correctement, telles que la navigation sur le site, l’accès aux comptes utilisateur, et l’utilisation des services de base.
+*   **Assurer le bon fonctionnement du Site :** Garantir que toutes les fonctionnalités essentielles du site opèrent correctement, telles que la navigation sur le site, l’accès aux comptes utilisateur, et l’utilisation des services de base.
 
 En complément, les finalités spécifiques des cookies nécessaires et fonctionnels utilisées par nos partenaires de premier niveau (nécessaire au bon fonctionnement du site) sont :
 
 **Fonctionnalités du Site**
 
-* **APIs :** Charger des scripts nécessaires pour des fonctionnalités telles que la géolocalisation, les moteurs de recherche, et les traductions. Ces scripts assurent l’interactivité et la personnalisation des services offerts sur le site.
+*   **APIs :** Charger des scripts nécessaires pour des fonctionnalités telles que la géolocalisation, les moteurs de recherche, et les traductions. Ces scripts assurent l’interactivité et la personnalisation des services offerts sur le site.
 
 **Sécurité et Gestion**
 
-* **Sécurisation des accès :** Utiliser des cookies pour vérifier l’authenticité des utilisateurs, prévenir les fraudes, et protéger les données des utilisateurs.
+*   **Sécurisation des accès :** Utiliser des cookies pour vérifier l’authenticité des utilisateurs, prévenir les fraudes, et protéger les données des utilisateurs.
 
-* **Gestion des incidents :** Collecter des données pour détecter, signaler et résoudre les problèmes techniques et les pannes, garantissant ainsi une expérience utilisateur fluide.
+*   **Gestion des incidents :** Collecter des données pour détecter, signaler et résoudre les problèmes techniques et les pannes, garantissant ainsi une expérience utilisateur fluide.
 
 Ces cookies et données sont essentiels pour garantir une expérience utilisateur optimale et sécurisée, permettant une utilisation harmonieuse et protégée de notre site.
 
 **Cookies marketing et de performance : les Données Personnelles sont collectées pour les finalités suivantes :**
 
-* **Géolocalisation :** Vous proposer le point relais le plus proche (limitée à la ville).
+*   **Géolocalisation :** Vous proposer le point relais le plus proche (limitée à la ville).
 
-* **Mesure d’audience et de performance :** Améliorer le fonctionnement du Site en analysant les comportements des utilisateurs et en générant des statistiques de fréquentation.
+*   **Mesure d’audience et de performance :** Améliorer le fonctionnement du Site en analysant les comportements des utilisateurs et en générant des statistiques de fréquentation.
 
-* **Offrir des services personnalisés :** Adapter les services et les contenus proposés en fonction de vos préférences et de votre historique de navigation.
+*   **Offrir des services personnalisés :** Adapter les services et les contenus proposés en fonction de vos préférences et de votre historique de navigation.
 
-* **Personnaliser l’affichage du site selon vos préférences :** Rendre votre expérience de navigation plus pertinente en personnalisant le contenu et les offres affichées.
+*   **Personnaliser l’affichage du site selon vos préférences :** Rendre votre expérience de navigation plus pertinente en personnalisant le contenu et les offres affichées.
 
 En complément, les finalités spécifiques des cookies marketing et de performance utilisés par nos partenaires sont :
 
 **Marketing**
 
-* **Bing :** Collecter des données pour afficher des publicités personnalisées en fonction de vos précédentes visites et de vos recherches.
+*   **Bing :** Collecter des données pour afficher des publicités personnalisées en fonction de vos précédentes visites et de vos recherches.
 
-* **Criteo :** Utiliser des cookies pour vous montrer des annonces personnalisées basées sur votre historique de navigation sur notre site et ailleurs sur Internet.
+*   **Criteo :** Utiliser des cookies pour vous montrer des annonces personnalisées basées sur votre historique de navigation sur notre site et ailleurs sur Internet.
 
-* **Facebook Pixel :** Aider à mesurer, optimiser et construire des audiences pour des campagnes publicitaires sur Facebook en fonction des pages que vous avez visitées.
+*   **Facebook Pixel :** Aider à mesurer, optimiser et construire des audiences pour des campagnes publicitaires sur Facebook en fonction des pages que vous avez visitées.
 
-* **Google Ads :** Utiliser des cookies pour afficher des publicités basées sur vos visites précédentes sur notre site et d’autres sites web.
+*   **Google Ads :** Utiliser des cookies pour afficher des publicités basées sur vos visites précédentes sur notre site et d’autres sites web.
 
-* **TikTok Ads :** Collecter des données sur votre interaction avec notre site pour vous proposer des publicités personnalisées sur la plateforme TikTok.
+*   **TikTok Ads :** Collecter des données sur votre interaction avec notre site pour vous proposer des publicités personnalisées sur la plateforme TikTok.
 
 **Performance & Analyse Web**
 
-* **Google Analytics :** Recueillir des informations anonymes sur la façon dont les visiteurs utilisent notre site, nous aidant à comprendre les comportements des utilisateurs et à améliorer notre site.
+*   **Google Analytics :** Recueillir des informations anonymes sur la façon dont les visiteurs utilisent notre site, nous aidant à comprendre les comportements des utilisateurs et à améliorer notre site.
 
-* **Actito :** Collecter des données de performance pour personnaliser l’expérience utilisateur et améliorer l’efficacité des campagnes marketing.
+*   **Actito :** Collecter des données de performance pour personnaliser l’expérience utilisateur et améliorer l’efficacité des campagnes marketing.
 
-* **Adobe Products Recommendation Event :** Utiliser des cookies pour analyser vos préférences et comportements d’achat afin de vous recommander des produits susceptibles de vous intéresser.
+*   **Adobe Products Recommendation Event :** Utiliser des cookies pour analyser vos préférences et comportements d’achat afin de vous recommander des produits susceptibles de vous intéresser.
 
 Dans ce cadre, ces Données Personnelles sont traitées sur la base de votre consentement, exprimé via la console de gestion des cookies.
 
@@ -176,39 +176,39 @@ ARTICLE 6 : Droit des personnes sur les données collectées
 
 Les Clients et Visiteurs disposent des droits suivants sur les Données Personnelles :
 
-* **Droit d’accès**: obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des données personnelles ;
+*   **Droit d’accès**: obtenir la confirmation du traitement de ses Données Personnelles ainsi qu’un certain nombre d’informations sur les traitements, étant entendu que ces informations sont en tout état de cause données dans la présente politique de protection des données personnelles ;
 
-* **Droit de rectification**: obtenir la rectification de ses données personnelles lorsqu’elles sont inexactes ou incomplètes ;
+*   **Droit de rectification**: obtenir la rectification de ses données personnelles lorsqu’elles sont inexactes ou incomplètes ;
 
 En particulier, pour une simple rectification des données relatives à l’identité (adresse mail, numéro de téléphone, adresse postale), le Client pourra le signaler :
 
-* En boutique physique
+*   En boutique physique
 
-* Sur le Site dans l’espace « Mon compte » / « Mes informations »
+*   Sur le Site dans l’espace « Mon compte » / « Mes informations »
 
-* Par courrier électronique à l’adresse dpo@kaporal.com
+*   Par courrier électronique à l’adresse dpo@kaporal.com
 
-* **Droit à l’effacement** (« droit à l’oubli ») : obtenir l’effacement de ses données personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou en cas d’opposition au traitement de leurs données personnelles.
+*   **Droit à l’effacement** (« droit à l’oubli ») : obtenir l’effacement de ses données personnelles lorsqu’elles ne sont plus nécessaires au regard des finalités pour lesquelles elles ont été collectées ou en cas d’opposition au traitement de leurs données personnelles.
 
 Le droit à l’effacement n’est pas opposable dans les cas prévus à l’article 17.3 du RGPD. En particulier, ce droit n’est pas ouvert tant qu’un contrat est en cours d’exécution, ni dans le cas de l’archivage pour la constatation, l’exercice ou la défense d’un droit en justice ;
 
-* **Droit à la limitation du traitement** : obtenir la limitation du traitement de ses Données Personnelles notamment en cas de contestation de l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la personne dont les données sont traitées a encore besoin de conserver ces données personnelles pour la constatation, l’exercice ou la défense d’un droit en justice ;
+*   **Droit à la limitation du traitement** : obtenir la limitation du traitement de ses Données Personnelles notamment en cas de contestation de l’exactitude des données, lorsque le délai de conservation des données est arrivé à son terme mais que la personne dont les données sont traitées a encore besoin de conserver ces données personnelles pour la constatation, l’exercice ou la défense d’un droit en justice ;
 
-* **Droit à la portabilité** : obtenir la communication des Données Personnelles communiquées à Kaporal dans un format lisible, ou demander à Kaporal qu’elle transmette les données personnelles communiquées à un autre responsable de traitement ;
+*   **Droit à la portabilité** : obtenir la communication des Données Personnelles communiquées à Kaporal dans un format lisible, ou demander à Kaporal qu’elle transmette les données personnelles communiquées à un autre responsable de traitement ;
 
-* **Droit d’opposition** : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, aux traitements de ses Données Personnelles basés sur l’intérêt légitime de Kaporal, sauf motif impérieux de Kaporal ;
+*   **Droit d’opposition** : s’opposer à tout moment, pour des motifs tenant à sa situation personnelle, aux traitements de ses Données Personnelles basés sur l’intérêt légitime de Kaporal, sauf motif impérieux de Kaporal ;
 
 En particulier, pour ne plus recevoir de communications de la part de Kaporal et/ou ses partenaires, le Client ou Visiteur a la possibilité de se désabonner par l’un des moyens suivants :
 
-* Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.
-* En remplissant le formulaire contactez-nous et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.
-* En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »
+*   Par un simple clic sur le lien de désinscription situé en bas de chaque newsletter, ou en répondant STOP aux SMS promotionnels.
+*   En remplissant le formulaire contactez-nous et en précisant votre demande, ainsi que l'adresse e-mail et/ou le numéro de téléphone à désinscrire dans votre message.
+*   En cochant « NON » sur le formulaire accessible sur le Site en cliquant sur « Mon compte / Mes informations »
 
-* **Droit de retirer son consentement**: retirer son consentement pour les traitements de données basés sur celui-ci pour l’avenir ;
+*   **Droit de retirer son consentement**: retirer son consentement pour les traitements de données basés sur celui-ci pour l’avenir ;
 
-* **Droit d’introduire une réclamation** : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL) si le Client ou Visiteur considère que le traitement opéré par Kaporal constitue une violation de ses droits sur ses Données Personnelles ;
+*   **Droit d’introduire une réclamation** : introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL) si le Client ou Visiteur considère que le traitement opéré par Kaporal constitue une violation de ses droits sur ses Données Personnelles ;
 
-* **Droit de définir les directives relatives au sort de ses données personnelles après sa mort :** Les Clients et Visiteurs peuvent aussi faire part à Kaporal de leurs directives concernant la conservation, l’effacement et la communication de leurs Données Personnelles après leur décès et modifier ces directives à tout moment.
+*   **Droit de définir les directives relatives au sort de ses données personnelles après sa mort :** Les Clients et Visiteurs peuvent aussi faire part à Kaporal de leurs directives concernant la conservation, l’effacement et la communication de leurs Données Personnelles après leur décès et modifier ces directives à tout moment.
 
 Le Client a également la faculté de s’inscrire sur la liste Bloctel pour s’opposer à la prospection téléphonique.
 
@@ -216,8 +216,8 @@ Ces droits pourront être exercés dans les conditions prévus par la règlement
 
 Pour toute demande, le Client ou Visiteur pourra exercer ses droits en adressant sa demande par l’un des moyens suivants :
 
-* Par courrier électronique à l'adresse dpo@kaporal.com
-* Par courrier à l’adresse suivante :
-* Pour le compte client : Kaporal– Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
-* Pour le compte Le Klub : Kaporal– Service Marketing – 20 Boulevard Ampère – 13014 Marseille – France
-* D’une manière générale, pour les demandes concernant les Données Personnelles : Kaporal– DPO – 20 Boulevard Ampère – 13014 Marseille – France
+*   Par courrier électronique à l'adresse dpo@kaporal.com
+*   Par courrier à l’adresse suivante :
+*   Pour le compte client : Kaporal– Service Client Internet – 20 Boulevard Ampère – 13014 Marseille – France
+*   Pour le compte Le Klub : Kaporal– Service Marketing – 20 Boulevard Ampère – 13014 Marseille – France
+*   D’une manière générale, pour les demandes concernant les Données Personnelles : Kaporal– DPO – 20 Boulevard Ampère – 13014 Marseille – France
