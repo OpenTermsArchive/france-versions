@@ -9,6 +9,16 @@ La présente déclaration de confidentialité décrit la façon dont nous recuei
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
 
+* [1\. Qui sommes-nous ?](#id-818e0021-ff25-419e-9163-b4cbcc66b115)
+* [2\. Les types de données personnelles que nous traitons](#id-9bf635ff-d5a5-416e-b129-8443ad7217d8)
+* [3\. Comment recueillons-nous vos données ?](#id-be420735-ad0e-4c98-a292-0b08e82412c2)
+* [4\. Fins auxquelles nous utilisons vos données](#id-139c91ba-bf6b-43b7-bc25-f9525023ddca)
+* [5 Transmission ou partage de données avec des parties tierces](#id-8bb554b8-4dd5-43bc-a444-490289fe5f5e)
+* [Sécurité et conservation](#id-b1b21cf4-4286-487d-82c5-2cca9dfc89b1)
+* [7\. Le transfert international de vos données](#id-428619ac-c69a-488a-8747-e6283539b896)
+* [8\. Vos droits](#id-6b5d6d25-cc84-4ba6-979c-e0c588edef86)
+* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-7ce0be2a-046e-488e-9898-f59f7bfb8b7d)
+
 1\. Qui sommes-nous ?
 ---------------------
 
@@ -41,6 +51,16 @@ _version avril 2025_
 La présente déclaration de confidentialité décrit la façon dont nous recueillons et utilisons vos données personnelles. Cette déclaration de confidentialité s’applique à toutes les données personnelles que Transavia traite lorsque des clients utilisent notre site Web et nos applis mobiles, réservent un vol ou nous contactent. Nous traitons vos données personnelles principalement pour gérer votre réservation et vos achats,  organiser votre voyage et pour répondre à vos questions. Nous utilisons également vos données personnelles pour vous proposer des offres répondant à vos attentes et préférences.  
   
 Dans cette déclaration de confidentialité, nous communiquons plus d’informations concernant les données personnelles que nous collectons et utilisons et nous expliquons quels sont vos droits. Veuillez cliquer sur la section appropriée ci-dessous pour en savoir plus.
+
+* [1\. Qui sommes-nous ?](#id-818e0021-ff25-419e-9163-b4cbcc66b115)
+* [2\. Les types de données personnelles que nous traitons](#id-9bf635ff-d5a5-416e-b129-8443ad7217d8)
+* [3\. Comment recueillons-nous vos données ?](#id-be420735-ad0e-4c98-a292-0b08e82412c2)
+* [4\. Fins auxquelles nous utilisons vos données](#id-139c91ba-bf6b-43b7-bc25-f9525023ddca)
+* [5 Transmission ou partage de données avec des parties tierces](#id-8bb554b8-4dd5-43bc-a444-490289fe5f5e)
+* [Sécurité et conservation](#id-b1b21cf4-4286-487d-82c5-2cca9dfc89b1)
+* [7\. Le transfert international de vos données](#id-428619ac-c69a-488a-8747-e6283539b896)
+* [8\. Vos droits](#id-6b5d6d25-cc84-4ba6-979c-e0c588edef86)
+* [9\. Comment cette déclaration de confidentialité est-elle mise à jour ?](#id-7ce0be2a-046e-488e-9898-f59f7bfb8b7d)
 
 1\. Qui sommes-nous ?
 ---------------------
