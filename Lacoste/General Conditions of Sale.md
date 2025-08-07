@@ -160,7 +160,7 @@ Pour tout achat effectué sur le site www.lacoste.com ou par téléphone via un 
 
   
 
-Pour tout achat effectué par téléphone ou via un conseiller en boutique, les demandes de rétractation et les produits afférents, devront être uniquement retournés physiquement en boutique Lacoste.
+Nous vous précisons que le droit de rétractation ne s'applique pas sur les commandes passées via la tablette en boutique . La présence physique simultanée du client et du vendeur fait obstacle à la qualification de contrat à distance.
 
   
 
@@ -242,10 +242,6 @@ Commentaires et réclamations
   
 
 2\. Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Lacoste adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du E-commerce et de la Vente à Distance) dont les coordonnées sont les suivantes : Médiateur de la consommation FEVAD - BP 20015 - 75362 PARIS CEDEX 8 - ([https://www.mediateurfevad.fr](https://www.lacoste.com/fr/%7B1%7D)). Après démarche préalable écrite des consommateurs vis-à-vis de Lacoste, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer sur ([https://www.mediateurfevad.fr/index.php/espace-consommateur/](https://www.lacoste.com/fr/%7B1%7D)).
-
-  
-
-3\. Plateforme dédiée de la Commission européenne : ([https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=FR](https://www.lacoste.com/fr/%7B1%7D)).
 
 Droits de la propriété intellectuelle
 
