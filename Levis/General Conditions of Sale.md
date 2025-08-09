@@ -51,82 +51,126 @@ Pour connaître le montant minimal de commande nécessaire pour bénéficier de 
 RETOURS
 -------
 
-**Les retours de marchandise sont facilités :**Dans votre colis, vous trouverez à cet effet des instructions vous indiquant comment renvoyer un produit gratuitement. Nous échangeons ou remboursons les articles renvoyés dans un délai maximum de 28 jours calendaires après la date de livraison (« Période de retour »). Vous pouvez également utiliser le formulaire de retour fourni avec votre commande, mais ce n'est pas obligatoire.  
+**Retourner un article est facile:** Dans votre colis, vous trouverez des instructions détaillées sur la façon de retourner l’article gratuitement. Vous disposez d’un droit de rétractation conformément aux dispositions légales pendant 14 jours à compter de la réception de l’article (voir la section ci-dessous). Par ailleurs, nous remplacerons ou rembourserons tout article retourné dans un délai de 28 jours calendaires à compter de la date de livraison (« Jours de retour »). Ce délai de 28 jours inclut le délai légal de rétractation.  
   
+Ces deux droits s’appliquent en plus des droits de garantie légaux pour l’achat de biens défectueux et ne les restreignent pas.
 
-Si vous perdez votre formulaire et/ou étiquette de retour, vous pouvez vous rendre dans la section « Aide » et les télécharger.  
+En cas de perte de votre formulaire de retour et/ou de votre étiquette, vous pouvez télécharger ces documents dans la section Aide.
+
+**Droit de rétractation**
+
+Vous avez le droit de vous rétracter du présent contrat dans un délai de 14 jours sans avoir à vous justifier. Le délai de rétractation expirera 14 jours après la date à laquelle vous ou un tiers désigné par vous, autre que le transporteur, avez pris physiquement possession des biens livrés en dernier. Toutefois, ce droit de rétractation ne s’applique pas aux biens scellés qui ne peuvent être retournés pour des raisons sanitaires ou d’hygiène si leur scellé a été retiré après la livraison.
+
+**Modalités de rétractation**
+
+Pour exercer votre droit de rétractation, vous devez nous informer (coordonnées : LEVI STRAUSS GMBH ALLEMAGNE, LUDWIGSTRASSE 180 A, 63067 Offenbach, Allemagne ou LEVI STRAUSS & CO. EUROPE BV, Square du Bastion 1A, 1050 Ixelles, Belgique ; e-mail : ECustomerService@levi.com ; tél. : 00800 53847 501) de votre décision de vous rétracter du présent contrat en nous adressant une déclaration sans équivoque (par ex. une lettre envoyée par courrier ou e-mail). Vous pouvez utiliser le modèle de formulaire de rétractation renseigné ci-dessous à cette fin, mais ce n’est pas obligatoire. Pour que votre droit de rétractation soit respecté, il suffit que vous envoyiez votre avis d’exercice du droit de rétractation avant la fin du délai de rétractation.
+
+**Effets de la rétractation**
+
+En cas de rétractation de votre part du présent contrat, nous vous rembourserons tous les paiements reçus de vous, y compris les frais de livraison (hors suppléments résultant de votre choix d’un mode de livraison autre que le mode de livraison standard le moins coûteux que nous proposons), sans retard excessif et, en tout état de cause, au plus tard 14 jours à compter du jour où nous sommes informés de votre décision de rétractation du présent contrat. Nous effectuerons ce remboursement en utilisant le même moyen de paiement que celui que vous avez utilisé pour la transaction initiale, sauf si vous en avez expressément convenu autrement ; en tout état de cause, aucuns frais ne vous seront imputés au titre de ce remboursement.
+
+Nous pouvons différer le remboursement jusqu’à la réception des articles retournés ou jusqu’à ce que vous ayez fourni un justificatif de retour des articles, la date retenue étant celle du premier de ces faits.
+
+Vous vous engagez à nous renvoyer les articles ou à nous les remettre, sans retard injustifié et dans tous les cas au plus tard 14 jours à compter du jour où vous nous communiquez votre décision de rétractation du présent contrat. Le délai est respecté si vous renvoyez les articles avant la fin du délai de 14 jours.
+
+Nous prenons en charge les frais de retour des articles.
+
+Vous n’êtes responsable que de la dépréciation des articles résultant d’une manipulation autre que celle nécessaire pour établir la nature, les caractéristiques et le fonctionnement des articles.
+
+**Modèle de formulaire de rétractation**
+
+(Si vous souhaitez vous rétracter du contrat, veuillez remplir ce formulaire et le renvoyer).
+
+\- À : Arvato SCS SE, Marler Str. 181,46282 Dorsten, Allemagne, E-mail : ECustomerService@levi.com
+
+\- Je/Nous (\*) notifie/notifions par la présente ma/notre rétractation du contrat de vente des articles suivants (\*)/de la prestation des services suivants (\*)
+
+\- Commandé(s) le (\*)/reçu(s) le (\*)
+
+\- Nom du/des client(s)
+
+\- Adresse du/des client(s)
+
+\- Signature du/des client(s) (uniquement si ce formulaire est notifié sur papier)
+
+ - Date
+
+(\*) Supprimer ce qui est nécessaire  
   
 
 [**Cliquez ici pour obtenir plus d'informations concernant les Retours**](https://levihelp.levi.com/hc/en-gb/categories/360004011774 "Return Policy").  
   
+Après le délai de rétractation de 14 jours, nous vous accordons un droit contractuel supplémentaire de 14 jours pour retourner les articles. Si vous avez choisi de retourner votre commande au cours de ces 14 jours, nous vous demandons de suivre les instructions ci-dessous.
 
-#### Règles et restrictions
+#### Modalités et restrictions applicables après la fin du délai de rétractation de 14 jours
 
-* Nous acceptons les articles retournés pendant la Période de retour
-* Vous devez joindre à votre colis le coupon retour du bordereau d'expédition original. Veuillez conserver la copie originale de votre bon de livraison pour archivage. Si vous avez perdu ce bordereau d’expédition, vous pouvez vous rendre dans la section « Aide » et le télécharger.
-* En cas de dommage important sur un article au moment de la livraison, veuillez prendre contact avec notre service client au numéro suivant : 00800 53847 501.
-* Le mode de remboursement sera identique au mode de règlement utilisé lors de l'achat. Il sera effectué dans un délai de cinq jours ouvrés après réception du ou des articles par notre entrepôt.
-* Si l'un des articles retournés ne respecte pas notre politique en matière de retours de marchandise, nous vous renverrons cet article et vous ne serez pas remboursé(e). Ceci s'applique également à tous les articles retournés en dehors de la Période de retour.
+Pour être crédité, assurez-vous de retourner les articles dans le délai « Jours de retour ».
+
+Vous devez inclure la partie retour du bordereau d’expédition original. Veuillez conserver l’original de votre bordereau de livraison pour archivage. Si vous avez perdu ce bordereau d’expédition, vous pouvez le télécharger dans la section Aide.
+
+Si un article est très endommagé à la livraison, le droit de garantie légal s’applique. Veuillez contacter le service client au 00800 53847 501.
+
+Vous pouvez espérer un remboursement sur le même mode de paiement que celui utilisé initialement pour l’achat, dans les cinq jours ouvrés suivant la réception de l’article ou des articles à l’entrepôt.
+
+Pour exercer votre droit de retourner un article pendant le délai « Jours de retour » : Si l’un des articles retournés ne respecte pas la présente Politique de retour, nous vous renverrons l’article et ne vous rembourserons pas. Cela inclut tout article retourné en dehors du délai des « Jours de retour », à l’exception de l’exercice de vos droits de rétractation ou de vos droits sur les articles endommagés ou défectueux, comme indiqué ci-dessous.
 
 **Magasins : achats et retours**  
   
 
-* Actuellement, les articles achetés dans un magasin Levi’s®, un magasin d'usine ou un grand magasin Levi's® ne peuvent pas être retournés par courrier à notre boutique en ligne. Cependant, les articles achetés en ligne peuvent être retournés qu'aux magasins Levi's® sélectionnés, comme indiqué ci-dessous. À Nous travaillons actuellement à ce projet et espérons pouvoir vous offrir prochainement plus de flexibilité pour vos retours.
+* À l’heure actuelle, les articles achetés dans un magasin, un magasin outlet ou un grand magasin agréé Levi's® ne peuvent être retournés par la poste à notre boutique en ligne. Les articles achetés dans notre boutique en ligne peuvent être retournés dans un magasin Levi's® spécifique, comme indiqué ci-dessous.
+    
 
-#### Instructions pour les retours de marchandise
+#### Modalités de retour applicables après la fin du délai de rétractation de 14 jours
 
-Vous avez deux possibilités pour retourner vos articles. Veuillez noter que l'option 2 n'est actuellement disponible que dans certains pays et uniquement dans certains magasins Levi's®. Nous travaillons sur cette mise en œuvre et mettrons cette section à jour au fur et à mesure.
+Vous avez deux possibilités pour retourner vos articles. Veuillez noter que l’Option 2 n’est aujourd’hui disponible que dans certains pays et limitée à certains magasins Levi's®. Nous travaillons sur cette implémentation et mettrons à jour cette section au fur et à mesure.
 
-Option 1 : nous le renvoyer par la poste
+Option 1 : Renvoyer votre article
 
-* Afin de faciliter cette procédure, vous trouverez dans votre colis une étiquette pré-adressée et pré-payée qu'il conviendra d'apposer sur le paquet utilisé pour le retour de marchandise.
-* Veillez à emballer soigneusement le ou les articles, si possible dans l'emballage d'origine. Veuillez accompagner l'article renvoyé de tous les documents de retour, éléments et accessoires qui se trouvaient dans l'emballage d'origine. Une commande ayant bénéficié d'une offre promotionnelle doit nous être retournée dans son intégralité. Tous les articles retournés font l'objet d'un examen attentif avant qu'un remboursement ne puisse être effectué. Les articles doivent donc être dans leur état d'origine, afin que le remboursement applicable soit assuré.
-* Veuillez joindre à votre colis le questionnaire qui explique les raisons de votre retour (notez que vous n'êtes pas obligé(e) de vous justifier). Il se trouve sur le bordereau d'expédition, à joindre lui aussi. Suivez les instructions figurant sur le colis.
-* Si vous avez des questions, contactez notre Service client au numéro suivant : 00800 53847 501. N'oubliez pas de conserver la facture de votre commande et votre numéro de commande.
+* Pour faciliter le traitement des retours, vous trouverez dans votre colis une étiquette prépayée et pré-adressée pour votre colis de retour.
+* Emballez le(s) article(s) soigneusement, si possible dans l’emballage d’origine. Veuillez inclure tous les documents de retour, si possible avec les différents éléments et accessoires. Toutes les offres promotionnelles doivent être retournées dans leur intégralité. Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
+* Remplissez le questionnaire sur le motif du retour (la justification n’est pas obligatoire) sur le bordereau d’expédition et incluez le bordereau dans le colis de retour, puis suivez les instructions figurant sur le colis.
+* Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande.
 
-Dès que nous accusons réception de votre retour de marchandise, vous recevrez un courrier électronique d'information. C'est alors que nous effectuerons la vérification et la validation du retour. Une fois votre retour de marchandise accepté, le remboursement sera effectué dans un délai de cinq jours ouvrés. Veuillez noter que les délais de remboursement relèvent directement de la banque émettrice, de la société de la carte de crédit ou du prestataire du service de paiement (par ex. PayPal) et qu’ils sont indépendants de notre volonté. Veuillez noter que le processus de remboursement ne sera déclenché qu’après la réception du produit à l’entrepôt. Nous ne sommes pas en mesure de traiter un remboursement si vous avez en même temps demandé une rétrofacturation à votre société de carte de crédit, à votre banque ou à votre prestataire de services de paiement. Cette mesure vise à prévenir les fraudes.  
+Dès que nous recevrons votre retour, nous vous en informerons par e-mail et procéderons à la vérification et à la validation du retour. Une fois le retour validé, le remboursement sera crédité sous 5 à 10 jours ouvrés. Veuillez noter que les délais de remboursement sont imposés par la banque émettrice, l’établissement émetteur de la carte de crédit ou le prestataire de services de paiement (par ex. Paypal) et échappent à notre contrôle. Notez que la procédure de remboursement ne commence que lorsque le produit sera reçu à l’entrepôt. Nous ne pouvons pas procéder à un remboursement si, dans le même temps, vous avez demandé un remboursement à l’établissement émetteur de votre carte de crédit, à votre banque ou à votre prestataire de services de paiement. Ceci est nécessaire pour éviter toute fraude.
+
+Veuillez utiliser le bordereau de retour. Si vous avez égaré votre bordereau de retour, si vous ne l’avez pas reçu ou si vous souhaitez envoyer votre colis sans l’étiquette prépayée, veuillez retourner les articles à l’adresse suivante :
+
+SCS Arvato SE
+
+Marler Str. 181
+
+46282 Dorsten
+
+Allemagne
+
+Si vous n’utilisez pas le transporteur que nous privilégions pour retourner les articles, vous pouvez les expédier à vos propres frais. Dans ce cas, nous vous conseillons d’obtenir un récépissé de dépôt. Veillez à inclure si possible tous les articles dans leur emballage d’origine.
+
+Si vous rencontrez une difficulté avec votre retour (par ex. vous avez retourné l’article mais nous ne l’avons pas reçu et vous n’avez donc pas été remboursé), nous vous fournirons une déclaration de retour que vous devrez remplir, signer et nous renvoyer afin d’ouvrir une enquête sur votre retour et d’accélérer votre remboursement.
+
+Option 2 : Déposez votre retour dans l’un de nos magasins Levi's®
+
+* Les articles achetés en ligne ne peuvent pas être retournés dans un magasin outlet Levi's® ou dans un grand magasin.
+* Sur notre site Internet, vous trouverez les coordonnées du magasin le plus proche et ses horaires d’ouverture.
+* Toutes les modalités et restrictions standard s’appliquent. Tous les achats promotionnels doivent être retournés dans leur intégralité ; par exemple, « un acheté, un offert ». Tous les articles retournés sont examinés avant d’être remboursés et doivent être retournés dans leur état d’origine, pour obtenir leur remboursement.
+* Les remboursements sont effectués sur le même mode de paiement que celui utilisé initialement pour l’achat ou au moyen d’une e-carte cadeau envoyée par e-mail et valable dans tous les magasins Levi's® participants. Le traitement des remboursements effectués sur le même mode de paiement que celui utilisé initialement pour l’achat peut prendre 5 à 10 jours. Veuillez noter que les délais de remboursement sont imposés par la banque émettrice, l’établissement émetteur de la carte de crédit ou le prestataire de services de paiement (par ex. Paypal) et échappent à notre contrôle. Les fonds des remboursements effectués au moyen d’une e-carte cadeau sont immédiatement utilisables et n’ont pas de date d’expiration.
+* Pour toute question, contactez notre service client au 00800 53847 501. N’oubliez pas de conserver votre facture avec votre numéro de commande. Une fois le retour traité dans l’un de nos magasins Levi's®, vous recevrez un e-mail de confirmation.
+
+#### Dommages ou biens défectueux  
+
+Ce qui suit est sans préjudice et ne limite pas vos droits à la garantie légale pour l’achat de biens défectueux.
+
+Si vous avez reçu un article endommagé ou défectueux à l’arrivée, veuillez remplir le formulaire de retour et suivre la procédure de retour. Pour toute question, contactez immédiatement le service client au 00800 53847 501. Vous avez droit à un remplacement (ou à un remboursement total ou partiel si le remplacement n’est pas possible).
+
+Si votre article présente un défaut de fabrication ou de composition dans des conditions normales d’utilisation (à l’exclusion des taches), veuillez appeler le service client. Cela ne s’applique pas à l’usure normale, à une mauvaise utilisation, à un dommage accidentel ou si vous décidez de ne plus conserver l’article.
+
+Gardez à portée de main votre numéro de commande avant de nous appeler. Si vous ne connaissez pas votre numéro de commande, consultez la page Votre compte, vous le trouverez dans Mes commandes ou dans un e-mail reçu précédemment. Et avant de nous contacter, préparez une description détaillée des dommages ou des défauts.  
   
 
-Veuillez utiliser le bordereau de retour de marchandise. Dans les cas où vous auriez égaré le bordereau de retour, ne l'auriez pas reçu ou souhaiteriez expédier le colis sans étiquette pré-payée, veuillez utiliser l'adresse suivante pour votre retour de marchandise :
+#### Traitement des remboursements
 
-Levi’s® eShop Returns Department
+Vous pouvez espérer un remboursement sur le même mode de paiement que celui utilisé initialement pour l’achat. Si vous retournez un article acheté en ligne dans l’un de nos magasins Levi's®, vous aurez la possibilité de recevoir une e-carte cadeau envoyée par e-mail et utilisable dans l’un de nos magasins Levi's® participants. Dès que nous procéderons au remboursement, nous vous en informerons par e-mail.
 
-Schleefstr. 560
-
-D-44287 Dortmund
-
-Allemagne  
-  
-
-En n'utilisant pas les services de notre transporteur habituel, le colis de retour de marchandise sera expédié à vos propres frais. Dans ce cas, nous vous conseillons d'envoyer le colis en recommandé et d'en conserver le récépissé. Veuillez-vous assurer de joindre à votre colis de retour l'ensemble des articles dans leur emballage d'origine. Nous nous dégageons de toute responsabilité quant à l'acheminement de ces colis jusqu'à nos entrepôts.  
-
-Si vous rencontrez des problèmes avec vos retours (par exemple, vous avez renvoyé le produit mais nous ne l'avons pas reçu et vous n'avez donc pas été remboursé), nous vous fournirons une déclaration de retour et vous demanderons de la remplir, de la signer et de nous la renvoyer afin d'entamer une enquête sur votre retour et d'accélérer votre remboursement.
-
-Option 2 : Apportez-le dans l'un de nos magasins Levi's®
-
-* Les articles achetés en ligne peuvent être retournés gratuitement dans l'un de nos magasins Levi's® sélectionnés.
-* Les articles achetés en ligne ne peuvent pas être retournés dans l'un de nos magasins d'usine Levi's® ou dans un grand magasin.
-* Visitez notre site Web pour trouver un magasin près de chez vous et vérifier les heures d'ouverture et l'adresse du magasin.
-* Toutes les règles et restrictions standard s'appliquent. Tous les achats promotionnels doivent être retournés dans leur intégralité, par exemple dans le cadre d'une promotion "un article acheté, un article gratuit". Tous les articles retournés sont inspectés avant qu'un remboursement ne soit effectué et doivent être retournés dans leur état d'origine, afin de garantir un crédit applicable.
-* Les remboursements sont effectués sur le mode de paiement original ou sur une carte cadeau électronique envoyée par e-mail et utilisable dans tous les magasins Levi's® participants. Le traitement des remboursements effectués sur la forme de paiement originale peut prendre de 2 à 5 jours. Veuillez noter que les délais de remboursement sont dictés par la banque émettrice, la société de carte de crédit ou le prestataire de paiement (par exemple, Paypal) et que nous n'avons aucun contrôle sur ces délais. Les remboursements effectués sur une carte cadeau électronique peuvent être utilisés immédiatement et n'ont pas de date d'expiration.
-* En cas de questions, appelez notre service clientèle au 00800 53847 501. N'oubliez pas de conserver votre facture de commande avec votre numéro de commande. Une fois le retour traité dans l'un de nos magasins Levi's®, vous recevrez un e-mail de confirmation.
-
-#### Colis endommagés ou produits défectueux  
-
-Dans les cas où, à la livraison, un article serait endommagé ou présenterait un défaut de fabrication, veuillez remplir le formulaire de retour et vous conformer à la procédure de retour, et si vous avez des questions, appeler immédiatement le service client au numéro suivant : 00800 53847 501. Vous avez droit à un échange, (voire un remboursement partiel ou intégral si l'échange n’est pas possible) à condition de prendre contact avec nous dans un délai raisonnable n’excédant pas la Période de retour.  
-  
-
-Si, dans des conditions normales d'utilisation, votre produit présente un défaut de matériel ou de fabrication (à l'exclusion des taches), veuillez appeler le service client. Cette disposition n'est pas applicable dans les cas suivants : usure normale, utilisation négligente, dommage accidentel. De même, le fait de ne plus vouloir l'article n'est pas une condition suffisante.  
-  
-
-Veuillez-vous assurer d'être en possession de votre numéro de commande avant de nous appeler. Si vous ne connaissez pas votre numéro de commande, retrouvez-le sur votre compte, dans la rubrique « Mes commandes ». Préparez-vous à décrire précisément le dommage ou le défaut de votre article avant de vous mettre en relation avec nous.  
-  
-
-#### Questions concernant les remboursements
-
-Le mode de remboursement sera identique au mode de règlement utilisé lors de l'achat. Dès que nous effectuerons le remboursement, vous recevrez un courrier électronique d'information. Si vous retournez un article acheté en ligne dans l'un de nos magasins Levi's®, vous aurez la possibilité de recevoir un remboursement sous la forme d'une carte cadeau électronique émise par e-mail et utilisable dans l'un de nos magasins Levi's® participants. Si vous choisissez d'être remboursé, votre remboursement devrait figurer sur votre relevé bancaire dans un délai de 5 à 10 jours ouvrés après réception du ou des articles par notre entrepôt. Les délais de remboursement relèvent directement de la banque émettrice, de la société de cartes de crédit ou du prestataire de services de paiement et sont indépendants de notre volonté. Veuillez-vous mettre en relation avec votre banque pour de plus amples informations. Si votre remboursement est effectué sous forme de carte cadeau électronique, les fonds seront utilisables immédiatement et n'ont pas de date d'expiration.  
-  
-Si l'un des articles retournés ne respecte pas notre politique en matière de retours de marchandise, nous vous renverrons cet article et vous ne serez pas remboursé(e). Ceci s'applique également à tous les articles retournés en dehors de la Période de retour.
+Si le remboursement est effectué sur le même mode de paiement que celui utilisé initialement pour l’achat, il devrait apparaître sur votre relevé bancaire sous 5 à 10 jours ouvrés après réception des articles à l’entrepôt. Les délais de traitement des remboursements sont imposés par la banque émettrice et échappent à notre contrôle. Veuillez vous mettre en relation avec votre banque pour en savoir plus. Si votre remboursement est effectué au moyen d’une e-carte cadeau, les fonds seront immédiatement utilisables et n’auront pas de date d’expiration. Si un article retourné n’est pas conforme à la présente Politique de retour, nous vous renverrons l’article et nous ne vous rembourserons pas, ou si vous retournez l’article dans l’un de nos magasins Levi's®, l’article ne sera pas accepté. Cela est valable pour tous les articles retournés après le délai « Jours de retour ».
 
 LIVRAISON
 ---------
