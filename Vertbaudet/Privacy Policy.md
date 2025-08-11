@@ -1,9 +1,9 @@
 Protection de la vie privée & Cookies
 =====================================
 
-Ce document comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet [www.vertbaudet.fr](https://www.vertbaudet.fr/) (ci-après « le Site »).  
-Par ailleurs, VERTBAUDET intervient en qualité de sous-traitant de Envie de Fraise pour tous les traitements de données personnelles. A ce titre, les présentes dispositions s’appliquent aux données personnelles des Clients de la société Envie de Fraise.  
-  
+#### Mise à jour du 05/08/2025
+
+Ce document comprend l’ensemble des engagements pris par VERTBAUDET pour protéger votre vie privée et plus précisément les données personnelles qu’elle collecte et traite dans le cadre de votre navigation sur son site internet www.vertbaudet.fr (ci-après « le Site »). Par ailleurs, VERTBAUDET intervient en qualité de sous-traitant de Envie de Fraise pour tous les traitements de données personnelles. A ce titre, les présentes dispositions s’appliquent aux données personnelles des Clients de la société Envie de Fraise.
 
 DEFINITIONS
 -----------
@@ -13,6 +13,8 @@ DEFINITIONS
 **Co-responsable de traitement :** Lorsque deux responsables du traitement ou plus déterminent conjointement les finalités et les moyens du traitement, ils sont les responsables conjoints du traitement. (Art 26 – RGPD)  
   
 **Marketplace :** désigne la plateforme en ligne accessible à l’adresse suivante : https://www.vertbaudet.fr/ et constituée des pages web, Services et fonctionnalités proposés aux Utilisateurs  
+  
+**Programme de fidélité  :** désigne le Programme de Fidélité VERTBAUDET intitulé ![Club Vertbaudet](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)  
   
 **Responsable de traitement :** Au sens du RGPD, le responsable de traitement est la personne morale (entreprise, commune, etc.) ou physique qui détermine les finalités et les moyens d’un traitement.  
   
@@ -59,7 +61,7 @@ Président : Société VERTBAUDET GROUP INTERNATIONAL S.A.S., représentée par 
 
 **VERTBAUDET est Responsable de traitement :**  
   
-Lors de la mise en œuvre des traitements de données à caractère personnel vous concernant en magasin et/ou par le biais du Site pour les produits vendus et expédiés par VERTBAUDET.
+Lors de la mise en œuvre des traitements de données à caractère personnel vous concernant en magasin et/ou par le biais du Site pour les produits vendus et expédiés par VERTBAUDET et lors de votre adhésion au Programme de Fidélité.
 
 **VERTBAUDET est Co-responsable de traitement :**  
   
@@ -99,11 +101,17 @@ Les informations personnelles que vous nous transmettez dans le cadre de la cré
 * Pour la gestion des demandes de renseignements : le traitement et le suivi de vos demandes.  
     Le fondement juridique est l'exécution d'un contrat ou une mesure précontractuelle à votre demande, ou l'intérêt légitime de VERTBAUDET, selon les circonstances.
     
+* Pour l’exécution du Programme de Fidélité : gestion du Programme de Fidélité, attribution de points, suivi de l’utilisation de la cagnotte et des différents avantages.  
+    Le fondement juridique est est votre consentement lorsque nécessaire, ou l‘intérêt légitime de VERTBAUDET de fidéliser sa clientèle.
+    
 * Pour la prospection commerciale par VERTBAUDET : l'envoi de communications commerciales, le contact pour finaliser des achats, la gestion de jeux-concours et événements.  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
     
 * Pour la personnalisation des services de VERTBAUDET : l'offre personnalisée, la publicité ciblée, les recommandations de produits, l'amélioration de la connaissance du client.  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET ou votre consentement, selon les circonstances.
+    
+* Pour l’information du retour en stocke d’un produit.  
+    Le fondement juridique est votre consentement
     
 * Pour la gestion des réclamations, impayés, précontentieux et contentieux (hors litiges de la Marketplace).  
     Le fondement juridique est l'intérêt légitime de VERTBAUDET.
@@ -143,6 +151,7 @@ Certaines données, notamment personnelles, pourront être communiquées de mani
 la gestion de votre compte,  
 l’exécution de vos commandes,  
 la livraison de biens et la réalisation de prestations,  
+l’exécution du Programme de Fidélité,  
 la lutte contre la fraude,  
 la réalisation des paiements,  
 pour certains aspects du service après-vente ou encore pour réaliser des enquêtes de satisfaction.
@@ -192,7 +201,7 @@ VERTBAUDET a fixé la durée de conservation de vos données personnelles :
 * 2\. 5 ans pour les clients (ayant déjà effectué un achat), à compter de la date du dernier achat
     
 
-Néanmoins, pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques (par exemple, l’enregistrement des conversations téléphoniques au service relation client sont conservés pendant une durée de 6 jours, les factures liées aux achats sont conservées 10 ans).
+Néanmoins, pour certains types de traitement, la conservation des données fait l’objet de durées de conservation spécifiques (par exemple, l’enregistrement des conversations téléphoniques au service relation client sont conservés pendant une durée de 6 jours, les factures liées aux achats sont conservées 10 ans, les données collectées dans le cadre de la gestion du Programme de Fidélité sont conservées pendant la durée d’adhésion au Programme).
 
 3\. Sécurité des données
 ------------------------
@@ -236,7 +245,7 @@ Grâce à l’installation de cookies publicitaires, et sous réserve que vous y
 5\. Les réseaux sociaux
 -----------------------
 
-Notre Site utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que « Facebook», « Instagram », « Twitter », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
+Notre Site utilise des applications informatiques émanant de tiers, qui permettent à l’internaute de partager des contenus de notre Site avec d'autres personnes ou de faire connaître à ces autres personnes son opinion concernant un contenu de notre site. Tel est notamment le cas des boutons « Partager », « J'aime », issus de réseaux sociaux tels que « Facebook», « Instagram », « X (twitter) », etc. Lorsque le client consulte une page du site contenant un tel bouton, son navigateur établit une connexion directe avec les serveurs du réseau social. S’il est connecté au réseau social lors de sa navigation, les boutons applicatifs permettent de relier les pages consultées à son compte utilisateur.  
 S’il interagit au moyen des plug-ins, par exemple en cliquant sur le bouton « J’aime » ou en laissant un commentaire, les informations correspondantes seront transmises au réseau social et publiées sur son compte. Si le client ne souhaite pas que le réseau social relie les informations collectées par l’intermédiaire de VERTBAUDET à son compte utilisateur, il doit se déconnecter du réseau social avant de visiter le Site.  
 Nous vous invitons à consulter les politiques de protection de la vie privée de ces réseaux sociaux afin de prendre connaissance des finalités d'utilisation, notamment publicitaires, des informations de navigation qu'ils peuvent recueillir grâce à ces boutons applicatifs.
 
