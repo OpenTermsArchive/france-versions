@@ -9,7 +9,7 @@ Conformément à l'article L.232-6 du code de sécurité intérieure, nous vous 
 En cas de retard au départ, annulation d’un vol, refus d’embarquement
 ---------------------------------------------------------------------
 
-Si vous êtes refusé à l'embarquement ou si votre vol est annulé ou retardé d'au moins deux heures, demandez au comptoir d'enregistrement ou à la porte d'embarquement le texte énonçant vos droits, notamment en matière d'indemnisation et d'assistance.
+Si vous êtes refusé à l'embarquement, ou que votre vol est annulé ou retardé d'au moins deux heures, demandez au comptoir d'enregistrement ou à la porte d'embarquement le texte énonçant vos droits, notamment en matière d'indemnisation et d'assistance.
 
 [Règlement CE 261/2004](http://eur-lex.europa.eu/legal-content/FR/TXT/?uri=celex:32004R0261 "CE 261/2004")
 
