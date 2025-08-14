@@ -1912,7 +1912,7 @@ Frais de réémission de carte d’embarquement
 
 n/a
 
-€/£20
+20 €/£ avant le 3 novembre 2025 0 €/£ à partir du 3 novembre 2025
 
 Frais d’enregistrement à l’aéroport
 
@@ -1920,7 +1920,7 @@ n/a
 
 €/£55
 
-Gratuit pour les passagers Flexi Plus (et les passagers Plus ayant réservé après le 11 décembre 2019).
+Les frais sont facturés par passager et par secteur. Gratuit pour les passagers Plus et Flexi Plus ayant réservé avant le 14 août 2025.
 
 (pour les vols depuis l'Espagne €/£30).
 
@@ -2087,6 +2087,16 @@ Tarif min./max. par article et par vol si achat en ligne
 (par vol)
 
 Les frais varient en fonction de l’itinéraire et des dates de voyage. Les passagers qui n’ont pas ajouté de bagage à leur réservation peuvent encore acheter un bagage enregistré de 20 kg au comptoir dépose-bagages de l’aéroport pour 59,99 £/€. Les passagers qui apportent un bagage en excédent de taille (plus de 55 x 40 x 20 cm) à la porte d’embarquement se verront refuser leur bagage ou, le cas échéant, se verront demander de le placer en soute moyennant le paiement de frais compris entre 70 £/€ et 75 £/€. Il vous sera demandé de laisser vos bagages aux portes de l’avion, dans le chariot à bagages à la porte d’embarquement ou de suivre les instructions des agents Ryanair, afin qu’ils soient placés en soute.
+
+Bagage enregistré de 23 kg
+
+29,99 €/£ - 80,99 €/£
+
+(par vol)
+
+n/a
+
+Les frais varient en fonction de l’itinéraire et des dates de voyage. Le bagage enregistré de 23 kg ne sera disponible qu’au moment de la réservation. Les passagers qui n’ont pas ajouté ce bagage à leur réservation ne pourront pas le faire à l’aéroport ou via le centre d’appel.
 
 Frais d’excédent de bagage
 
