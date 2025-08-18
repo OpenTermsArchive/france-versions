@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 11 juin 2025
+### Date d’entrée en vigueur : 14 août 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 11 juin 2025**
+**Date d’entrée en vigueur : 14 août 2025**
 
   
 
@@ -1402,7 +1402,7 @@ Les tarifs Regular ne peuvent pas être réservés avec la réduction Erasmus.
 
 **Tarifs Plus** 
 
-À compter du 11 décembre 2019, les tarifs Plus seront disponibles sur tous les vols et devront être appliqués à tous les passagers et vols de votre réservation. 
+Les tarifs Plus seront disponibles sur tous les vols et devront être appliqués à tous les passagers et vols de votre réservation. 
 
 Les tarifs Plus sont uniquement disponibles lors de la réservation initiale du vol. Il est en outre impossible d’effectuer un surclassement Flexi Plus à une date ultérieure.
 
@@ -1413,7 +1413,7 @@ Les services suivants sont inclus dans les tarifs Plus :
 * Un petit bagage
 * Un bagage en soute de 20 kg
 * Un siège standard réservé
-* Enregistrement gratuit à l’aéroport. L’enregistrement gratuit à l’aéroport ne sera disponible que pour les passagers ayant réservé un tarif Flexi Plus via le site Internet ou l’application officiels Ryanair. Les réservations effectuées par l’intermédiaire d’agents de voyages en ligne sont expressément exclues de ce service.
+* L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service. 
 
 Les tarifs Plus ne peuvent pas être réservés avec la réduction Erasmus. 
 
@@ -1442,12 +1442,11 @@ Tous les tarifs Flexi Plus sont non remboursables, à l’exception des cas pour
 
 Les services suivants sont inclus dans les tarifs Flexi Plus :
 
-*       Enregistrement gratuit à l’aéroport. L’enregistrement gratuit à l’aéroport ne sera disponible que pour les passagers ayant réservé un tarif Flexi Plus via le site Internet ou l’application officiels Ryanair. Les réservations effectuées par l’intermédiaire d’agents de voyages en ligne sont expressément exclues de ce service.
 *       Tout siège réservé
 *       Priorité et 2 bagages cabine
 *       Flexibilité concernant les changements de billets
-*       Service de sécurité Fast Track dans les aéroports suivants  
-      
+*       Service de sécurité Fast Track dans les aéroports suivants
+*       L’enregistrement gratuit à l’aéroport n’est disponible que pour les passagers ayant réservé un billet Flexi         Plus sur le site Internet ou l’application officiels de Ryanair avant le 14 août 2025. Les réservations effectuées          par l’intermédiaire d’un agent de voyages en ligne sont expressément exclues de ce service.   
     
 
 Londres Stansted, Bruxelles Charleroi, Milan Bergame, Barcelone, Malaga, Birmingham, Manchester, East Midlands, Glasgow, Édimbourg, Francfort Hahn, Hambourg, Stuttgart, Eindhoven, Bruxelles (Zaventum), Stockholm (Skavsta), Budapest, Varsovie Modlin, Liverpool John Lennon, Londres Gatwick, Rome Ciampino, Rome Fiumicino, Cologne/Bonn et Athènes.
@@ -1462,7 +1461,7 @@ Avec un tarif Flexi Plus, vous pouvez modifier votre vol réservé avant ou le j
 * jusqu’à 1 heure avant le nouveau vol si vous effectuez le changement via un centre de contact.
 * Jusqu’à 2,5 heures avant le vol initial ou le nouveau vol si vous effectuez des modifications en ligne. 
 
-Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. Avec un billet Flexi Plus, vous pouvez effectuer l’enregistrement à l’aéroport gratuitement.
+Si vous avez déjà effectué l’enregistrement en ligne pour le vol initial, vous devrez nous contacter pour annuler l’enregistrement de ce vol avant de pouvoir effectuer le changement. 
 
 Vous pouvez modifier l’itinéraire de tous les vols d’une réservation en ligne dans la section « Mes réservations ». Toutefois, une fois que vous avez effectué le vol aller, vous ne pourrez modifier l’itinéraire du vol retour que par l’intermédiaire d’un centre d’appels. Vous ne pouvez modifier l’itinéraire que si le pays de départ et le pays de destination sont les mêmes.
 
