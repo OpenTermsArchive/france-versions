@@ -395,7 +395,7 @@
     * Jérôme Dreyfuss
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger)
     * [Stone Island](https://www.printemps.com/fr/fr/stone-island-homme)
-    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/maison-francis-kurkdjian-beaute)
+    * [Maison Francis Kurkdjian](https://www.printemps.com/fr/fr/univers-maison-francis-kurkdjian)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein)
     * [Adidas](https://www.printemps.com/fr/fr/adidas)
