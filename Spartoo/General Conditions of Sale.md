@@ -259,25 +259,6 @@ Délai : Livraison garantis en 2 jours ouvrés
   
 **Belgique**  
   
-**Livraison avec le service UPS Express Saver**  
-Délai : Livraison garantis en 3 jours ouvrés  
-Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13 h  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 15.99 € à partir de 0.00 € d'achats | 15.99 € à partir de 0.00 € d'achats |
-
-  
-**Livraison avec le service UPS Standard**  
-Délai : Livraison garantis en 5 jours ouvrés  
-
-|     |     |
-| --- | --- |
-| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats | 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats  <br>Gratuit à partir de 39.99 € d'achats |
-
-  
 **Livraison avec le service Mondial Relay**  
 Délai : Livraison garantis en 4 jours ouvrés  
 
@@ -294,6 +275,25 @@ Délai : Livraison garantis en 3 jours ouvrés
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
 | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats | 5.99 € si inférieur à 39.99 € d'achats  <br>3.99 € entre 39.99 € et 59.99 € d'achats  <br>Gratuit à partir de 59.99 € d'achats |
+
+  
+**Livraison avec le service UPS Standard**  
+Délai : Livraison garantis en 5 jours ouvrés  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats | 5.99 € si inférieur à 19.99 € d'achats  <br>Gratuit à partir de 19.99 € d'achats  <br>Gratuit à partir de 39.99 € d'achats |
+
+  
+**Livraison avec le service UPS Express Saver**  
+Délai : Livraison garantis en 3 jours ouvrés  
+Délai: dépend du code postal, est indiqué sur la page de paiement, et est valable pour toute commande passée avant 13 h  
+
+|     |     |
+| --- | --- |
+| Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
+| 15.99 € à partir de 0.00 € d'achats  <br>15.99 € à partir de 0.00 € d'achats | 15.99 € à partir de 0.00 € d'achats  <br>15.99 € à partir de 0.00 € d'achats |
 
   
 **Luxembourg**  
