@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 14 août 2025
+### Date d’entrée en vigueur : 21 août 2025
 
 Conditions générales de transport
 =================================
@@ -66,7 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 14 août 2025**
+**Date d’entrée en vigueur : 21 août 2025**
 
   
 
@@ -770,14 +770,17 @@ Aux fins de la présente clause, un membre de la famille immédiate est : 
 
 ===============================================================
 
-Si une personne figurant sur votre réservation décède, Ryanair peut :
+Si une personne figurant sur votre réservation décède dans les 10 jours précédant la date du voyage, 
 
-* émettre un crédit de voyage du montant total pour toutes les personnes voyageant sur votre réservation ou, le cas échéant,
-* renoncer aux frais de changement de vol, ainsi qu’à toute restriction liée à la modification de vos vols.
+Ryanair peut : 
 
-Vous devez fournir une preuve recevable du décès avant la date à laquelle vous deviez voyager. En cas de décès du passager principal figurant sur la réservation, l’exécuteur testamentaire de ce dernier devra faire une demande en son nom.
+1\. rembourser le tarif aérien du passager décédé ; 
 
-Pour demander un crédit de voyage, veuillez cliquer ici.
+2\. envisager un Crédit de Voyage pour les passagers restants sur la réservation ; ou
+
+3\. annuler les frais de changement de vol, ainsi que toute restriction liée à la modification de votre vol.
+
+Vous devez fournir une preuve appropriée du décès avant la date de votre voyage. Si le passager principal de la réservation décède, son exécuteur testamentaire pourra faire une demande en son nom.  
 
 ARTICLE 11 COMPORTEMENT À BORD
 ==============================
