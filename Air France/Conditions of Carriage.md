@@ -157,7 +157,7 @@ Programme de fidélité et partenaires
 
 Application Mobile Air France
 
-[![](https://img.static-af.com/transform/50622200-65cc-452b-a0e6-17090a302c64/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://airfrance.page.link/?link=https://www.airfrance.com/home&apn=com.airfrance.android.dinamoprd&isi=391968627&ibi=com.airfrance.mobile.iphone.afmobile&utm_campaign=BW+footer&utm_medium=affiliate&utm_source=BW&ct=BW+footer)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
+[![](https://img.static-af.com/transform/50622200-65cc-452b-a0e6-17090a302c64/)](https://app.airfrance.fr/ZP0a/u8n9alfq)[![](https://img.static-af.com/transform/1074e99e-6904-4901-8c2a-3499c3149c6f/)](https://app.airfrance.fr/ZP0a/u8n9alfq)[![](https://img.static-af.com/transform/b25aaf59-948e-470c-a62b-f6b1ed8c79c4/)](https://url.cloud.huawei.com/laHhZMqqpW?shareTo=qrcode)
 
 #### Vols au départ de
 
