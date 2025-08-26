@@ -73,7 +73,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/nouveautes/mrk/CALVIN+KLEIN)
 
 * [DANS LA TENDANCE](#)
-    * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-printemps-ete-2025)
+    * Nouvelle collection
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
