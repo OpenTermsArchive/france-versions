@@ -73,7 +73,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/nouveautes/mrk/CALVIN+KLEIN)
 
 * [DANS LA TENDANCE](#)
-    * Nouvelle collection
+    * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
@@ -415,11 +415,11 @@
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
-    * [L'horlogerie et la joaillerie passent à la Dolce Vita](https://www.printemps.com/fr/fr/edito-magasins-joaillerie-bijouterie-horlogerie-dolce-vita-2025)
+    * [Exposition Sac](https://www.printemps.com/fr/fr/edito-magasins-exposition-sac-printemps-haussmann)
     * [S comme Saison 1865](https://www.printemps.com/fr/fr/edito-style-modology-saison-1865?ap_source=anico&ap_medium=navigation&ap_campaign=edito_saison)
-    * [Exposition « Primavera, l’Art à la Mode »](https://www.printemps.com/fr/fr/edito-magasins-exposition-primavera-haussmann-2025?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
+    * [Présentation Sac](https://www.printemps.com/fr/fr/edito-magasins-presentation-sac-printemps-haussmann?ap_source=anico&ap_medium=navigation&ap_campaign=edito_primavera)
     * [Le Printemps de la Maison fait peau neuve](https://www.printemps.com/fr/fr/edito-magasins-printemps-haussmann-maison-etage3)
-    * [La Coupole Plage au Printemps de la Femme](https://www.printemps.com/fr/fr/edito-magasins-coupole-plage-haussmann-mars-2025)
+    * [Les sacs Saison 1865](https://www.printemps.com/fr/fr/edito-focus-sac-saison1865)
     * [Le Picnic by Veuve Clicquot sur le rooftop du Printemps Haussmann](https://www.printemps.com/fr/fr/edito-magasins-le-picnic-veuve-clicquot-rooftop-printemps-haussmann-2025)
 * [Les restaurants](https://www.printemps.com/fr/fr/printemps-paris-haussmann#restauration)
     
