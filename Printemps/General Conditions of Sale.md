@@ -369,7 +369,7 @@
     * [Rituals](https://www.printemps.com/fr/fr/rituals-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Creed](https://www.printemps.com/fr/fr/univers-creed)
-    * [Kilian Paris](https://www.printemps.com/fr/fr/kilian-paris-beaute)
+    * [Kilian Paris](https://www.printemps.com/fr/fr/univers-kilian-paris)
     * [Stéphane Humbert Lucas](https://www.printemps.com/fr/fr/stephane-humbert-lucas-beaute)
     * [Nars](https://www.printemps.com/fr/fr/univers-nars)
 * [Toutes les marques](https://www.printemps.com/fr/fr/marques)
