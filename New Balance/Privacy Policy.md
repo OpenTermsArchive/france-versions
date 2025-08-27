@@ -520,37 +520,6 @@ Nous travaillons avec plusieurs prestataires de services de suivi. Les cookies u
 
 Le tableau ci-dessous fournit des détails sur les cookies propriétaires et tiers que nous autorisons sur notre site Internet.
 
-|     |     |     |
-| --- | --- | --- |
-| Domaine du cookie | Nom du cookie | Cookie propriétaire ou tiers |
-| New Balance | akchc | Propriétaire |
-| New Balance | bannerlmpr | Propriétaire |
-| New Balance | clickstream | Propriétaire |
-| New Balance | hideEmailLightbox | Propriétaire |
-| New Balance | locale | Propriétaire |
-| New Balance | nbcart | Propriétaire |
-| New Balance | nbreg | Propriétaire |
-| New Balance | reqToken | Propriétaire |
-| New Balance | SiteSelection | Propriétaire |
-| Google Analytics | \_ga  <br>\_gid | Tiers |
-| Monetate | mt.v | Tiers |
-| Hot Jar from Clearhead | \_hjlncludedInSample | Tiers |
-| Certona | 1\. RES\_SESSIONID  <br>2\. RES\_TRACKINGID  <br>3\. ResonanceSegment | Tiers |
-| Tealium | utag\_main | Tiers |
-| Dynatrace | dtCookie | Tiers |
-| Commission Junction | 1\. CJSession  <br>2\. cjae | Tiers |
-| Narvar | connect\_sid | Tiers |
-| Cartographer | \_ga | Tiers |
-| Lotame | 1\. \_cc\_aud  <br>2\. \_cc\_cc  <br>3\. \_cc\_dc  <br>4\. \_cc\_id | Tiers |
-| Bing Ads | 1\. MUIDB  <br>2\. \_uetsid | Tiers |
-| Cquotient | 1\. \_cq\_bc  <br>2\. cqcid | Tiers |
-| Crimton (ctnsnet.com) | cid | Tiers |
-| Facebook | fr  | Tiers |
-| Salesforce.com | 1\. dwac\_xxxxxxx  <br>2\. dwanonymous\_xxxxxxx  <br>3\. dw\_dnt  <br>4\. dwsecuretoken\_xxxxxxx  <br>5\. dwsid  <br>6\. sid | Tiers |
-| Channel Advisor | 1\. ASPSESSIONIDQACQCRDA  <br>2\. ASPSESSIONIDASBSBRQD  <br>3\. \_caid  <br>4\. \_cavisit  <br>5\. SM | Tiers |
-| Cloudflare | \_cfduid | Tiers |
-| Twitter | 1\. guest\_id  <br>2\. personalization\_id | Tiers |
-
 5\. Comment puis-je gérer mes préférences en matière de cookies ?
 -----------------------------------------------------------------
 
@@ -561,15 +530,6 @@ Pour plus d'informations sur la manière de supprimer ou de bloquer les cookies 
 Veuillez toutefois noter que si vous supprimez ou bloquez les cookies, nous ne pouvons pas assurer que toutes les pages de notre site Internet s'afficheront correctement et que toutes les fonctionnalités de notre site seront entièrement disponibles.
 
 Veuillez également noter que si vous utilisez des ordinateurs ou des appareils mobiles différents pour accéder à notre site Internet, vous devrez veiller à ce que chaque navigateur sur chaque appareil soit paramétré en fonction de vos préférences en matière de cookies.
-
-6\. Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
--------------------------------------------------------------------------------------------------------------------------------------
-
-Si vous avez des questions ou des préoccupations concernant cette politique en matière de cookies, veuillez contacter New Balance par :
-
-• en appelant notre ligne gratuite d'assistance clientèle au 800 596342 ; ou 0805 109946
-
-• en envoyant un e-mail à [privacy@newbalance.com](mailto:privacy@newbalance.com).
 
 Politique de Confidentialité et Politique en matière de cookies 
 ================================================================
@@ -1090,12 +1050,3 @@ Pour plus d'informations sur la manière de supprimer ou de bloquer les cookies 
 Veuillez toutefois noter que si vous supprimez ou bloquez les cookies, nous ne pouvons pas assurer que toutes les pages de notre site Internet s'afficheront correctement et que toutes les fonctionnalités de notre site seront entièrement disponibles.
 
 Veuillez également noter que si vous utilisez des ordinateurs ou des appareils mobiles différents pour accéder à notre site Internet, vous devrez veiller à ce que chaque navigateur sur chaque appareil soit paramétré en fonction de vos préférences en matière de cookies.
-
-6\. Comment puis-je contacter new balance si j'ai des questions ou des réclamations sur la présente politique en matière de cookies ?
--------------------------------------------------------------------------------------------------------------------------------------
-
-Si vous avez des questions ou des préoccupations concernant cette politique en matière de cookies, veuillez contacter New Balance par :
-
-• en appelant notre ligne gratuite d'assistance clientèle au 800 596342 ; ou 0805 109946
-
-• en envoyant un e-mail à [privacy@newbalance.com](mailto:privacy@newbalance.com).
