@@ -75,7 +75,7 @@
 * [DANS LA TENDANCE](#)
     * [Nouvelle collection](https://www.printemps.com/fr/fr/collection-automne-hiver-2025-2026)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
+    * [SAISON 1865 X CAHU](https://www.printemps.com/fr/fr/saison1865)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
     * [Passion Raphia](https://www.printemps.com/fr/fr/sacs-ete-femme)
     * [Le retour des tongs](https://www.printemps.com/fr/fr/tongs-femme)
