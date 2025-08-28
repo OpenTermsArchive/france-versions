@@ -973,7 +973,7 @@ Cette politique est axée sur les utilisateurs Twitch qui partagent de façon r�
     * La mise en avant de fausses allégations pouvant être vérifiées liées au résultat d'un processus politique contrôlé (y compris le trucage d'élections, la falsification des bulletins de vote ou du dépouillement et toute autre fraude électorale)\*
 * En cas d'urgence (ex. : feux de forêt, tremblements de terre, fusillades), nous pouvons également prendre des mesures concernant la désinformation susceptible de porter atteinte à la sécurité publique.
 
-\*Remarque : Afin d'examiner les cas de désinformation civique, nous travaillons avec des experts indépendants comme le "Global Disinformation Index", ainsi qu'avec des informations provenant des commissions électorales.
+\*Remarque : afin d'évaluer les allégations de désinformation civique, nous travaillons régulièrement avec des spécialistes et nous consultons les informations des commissions électorales, de la certification du Congrès et d'autres sources pertinentes.
 
 Identification de contenu
 -------------------------
