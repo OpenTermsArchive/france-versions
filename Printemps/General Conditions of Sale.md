@@ -1,6 +1,8 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
+    
+* [\-10% supp. dès 150€](https://www.printemps.com/fr/fr/last-chance/sel/-10%25+supplementaires+des+150%E2%82%AC)
     
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
@@ -83,7 +85,7 @@
 *  [![](https://media-cdn.printemps.com/image/08/2/8261082.jpg) SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
     
 
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-femme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
@@ -173,7 +175,7 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-homme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-homme)
     
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
@@ -258,7 +260,7 @@
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
 
-* [Last chance : jusqu'à -40%](https://www.printemps.com/fr/fr/last-chance-beaute)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-beaute)
     
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
