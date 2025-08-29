@@ -1918,11 +1918,9 @@ Frais d’enregistrement à l’aéroport
 
 n/a
 
-€/£55
+55 €/£ (pour les vols depuis l’Espagne 30 €/£, depuis l’Autriche 40 €/£)
 
-Les frais sont facturés par passager et par secteur. Gratuit pour les passagers Plus et Flexi Plus ayant réservé avant le 14 août 2025.
-
-(pour les vols depuis l'Espagne €/£30).
+Les frais sont facturés par passager et par secteur.
 
 Tarifs applicables aux nourrissons
 
