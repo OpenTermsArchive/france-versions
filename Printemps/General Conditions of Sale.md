@@ -82,7 +82,7 @@
     * [Passion Raphia](https://www.printemps.com/fr/fr/sacs-ete-femme)
     * [Le retour des tongs](https://www.printemps.com/fr/fr/tongs-femme)
     * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
-*  [![](https://media-cdn.printemps.com/image/08/2/8261082.jpg) SOUVENIR SHOP](https://www.printemps.com/fr/fr/64-bld-haussmann-paris)
+*  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) SAISON 1865 X CAHU](https://www.printemps.com/fr/fr/collaboration)
     
 
 * [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
