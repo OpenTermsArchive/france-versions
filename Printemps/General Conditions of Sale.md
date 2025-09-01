@@ -2,8 +2,6 @@
 
 * [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
     
-* [\-10% supp. dès 150€](https://www.printemps.com/fr/fr/last-chance/sel/-10%25+supplementaires+des+150%E2%82%AC)
-    
 * [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
     * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
@@ -329,7 +327,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/76/7/8327767.jpg) CUT BY FRED](https://www.printemps.com/fr/fr/univers-cut-by-fred?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-cut-by-fred)
+*  [![](https://media-cdn.printemps.com/image/82/3/8348823.jpg) BRUME ORPIN](https://www.printemps.com/fr/fr/brume-orpin-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-brume-orpin)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
