@@ -43,7 +43,7 @@
     * [Tee-shirts et polos](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Tops+et+t-shirts)
     * [Vêtements](https://www.printemps.com/fr/fr/nouveautes-homme/esp/V%C3%AAtements)
     * [Accessoires](https://www.printemps.com/fr/fr/nouveautes-homme/esp/Accessoires)
-    * [Chemises](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Chemises)
+    * [Manteaux](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Manteaux)
     * [Vestes](https://www.printemps.com/fr/fr/nouveautes-homme/cat0/Vestes)
 
 * [BEAUTÉ](https://www.printemps.com/fr/fr/nouveautes-beaute)
@@ -77,9 +77,8 @@
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
     * [SAISON 1865 X CAHU](https://www.printemps.com/fr/fr/saison1865)
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
-    * [Passion Raphia](https://www.printemps.com/fr/fr/sacs-ete-femme)
-    * [Le retour des tongs](https://www.printemps.com/fr/fr/tongs-femme)
-    * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
+    * [les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
+    * [Back to work](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
 *  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) SAISON 1865 X CAHU](https://www.printemps.com/fr/fr/collaboration)
     
 
@@ -148,14 +147,9 @@
     
 * [TENDANCES](#)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur)
-    * [Maillots de bain : les modèles les plus tendances](https://www.printemps.com/fr/fr/edito-style-maillots-de-bain-tendances-ete)
-    * [Flower power](https://www.printemps.com/fr/fr/le-pouvoir-des-fleurs)
-    * [Les looks de festivals](https://www.printemps.com/fr/fr/edito-style-looks-de-festivals)
-    * [En transparence](https://www.printemps.com/fr/fr/tout-en-transparence-femme)
-    * [Disney x Coperni](https://www.printemps.com/fr/fr/coperni-femme)
-    * [Les sandales de l'été 2025](https://www.printemps.com/fr/fr/edito-style-sandales-tendances-ete)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-femme)
-    
+    * [Back to work : les indispensables](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
+    * [Les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
+    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-femme)
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -232,12 +226,9 @@
     
 * [Tendances](https://www.printemps.com/fr/fr/tendances-homme)
     * [La sélection coups de coeur](https://www.printemps.com/fr/fr/coups-de-coeur-homme)
-    * [La saison du lin](https://www.printemps.com/fr/fr/lin-homme)
-    * [Sandales et mules](https://www.printemps.com/fr/fr/sandales-et-mules-homme)
-    * [Jaune beurre](https://www.printemps.com/fr/fr/jaune-et-joli-homme)
     * [Le bal des rayures](https://www.printemps.com/fr/fr/carreaux-et-rayures-homme)
-* [TENUES DE CÉRÉMONIE](https://www.printemps.com/fr/fr/tenues-de-ceremonie-homme)
-    
+    * [Bombers](https://www.printemps.com/fr/fr/bomber-homme)
+    * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
