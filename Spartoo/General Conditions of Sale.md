@@ -293,7 +293,7 @@ Délai: dépend du code postal, est indiqué sur la page de paiement, et est val
 |     |     |
 | --- | --- |
 | Pour les produits dont le prix est barré (Soldes, Prix doux, ...) | Pour les produits dont le prix n'est pas barré |
-| 15.99 € à partir de 0.00 € d'achats  <br>15.99 € à partir de 0.00 € d'achats | 15.99 € à partir de 0.00 € d'achats  <br>15.99 € à partir de 0.00 € d'achats |
+| 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats | 8.99 € à partir de 0.00 € d'achats  <br>8.99 € à partir de 0.00 € d'achats |
 
   
 **Luxembourg**  
