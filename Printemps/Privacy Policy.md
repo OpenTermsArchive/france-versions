@@ -228,6 +228,7 @@
     * [Le bal des rayures](https://www.printemps.com/fr/fr/carreaux-et-rayures-homme)
     * [Bombers](https://www.printemps.com/fr/fr/bomber-homme)
     * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
+    * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-homme)
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
