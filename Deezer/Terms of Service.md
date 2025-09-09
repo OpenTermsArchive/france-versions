@@ -1,1094 +1,261 @@
-﻿
+* [Terms and Conditions of Use](https://www.deezer.com/legal/cgu)
+* [Offer Terms and Conditions of Use](https://www.deezer.com/legal/premium-service-terms)
+* [Terms and Conditions for the Deezer Service as distributed by its Partners](https://www.deezer.com/legal/partners-term)
+* [Previous Terms and Conditions](https://www.deezer.com/legal/cgu-old)
 
 Terms of Use
 ============
 
-* [Terms of Use for the Deezer Free Service](#cgu_free)
-* [Terms of Use and Sale for the Deezer Web Service](#cgu_web)
-* [Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service](#cgu_premium)
-* [Terms of Use and Sale for the Deezer HiFi Service](#cgu_hifi)
-
-﻿
-
-Terms of Use for the Deezer Free Service
-----------------------------------------
+Terms and Conditions of Use
+---------------------------
 
 ### Article 1 – General
 
-Welcome to the Terms of Use for the Deezer Free Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”).
+Welcome to the terms of use for the Deezer Service (hereinafter the “Terms”), which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”).
 
 The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
 
-To access and use the Deezer Free Service, the user must (i) be at least 16 years old (ii) register and create a personal account and (iii) at the time of registration, accept these conditions of use (including the Privacy Policy) (hereinafter the “Terms”) without reservation.
+To access and use the Deezer Service, the user (hereinafter the “Deezer User”) must (i) be at least 18 (eighteen) years old or 16 (sixteen) years old with the consent of a parent or legal guardian (ii) register and create a personal account and (iii) at the time of registration, accept these conditions of use (hereinafter the “Terms”) without reservation.
 
-The use of the Site and Application is only authorised for a personal and private use, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
+The use of the Site and Application is only authorized for a personal and private use, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
 
-### Article 2 – Presentation of the Deezer Free Service
+### Article 2 – Access to and use of the Deezer Service
 
-The Deezer Free Service is a free advertising-funded on-demand service for streaming sound Recordings and other musical and cultural content (such as podcasts, radio stations and in certain territories, audiobooks) (hereinafter the “Recordings”), with no download or tethered download features, with audio and display advertising, on any device (whether portable or non-portable) on an unlimited basis (hereinafter the “Deezer Free Service”) to each registered user (hereinafter the “Deezer Free User”).
+The use of the Deezer Service requires a high-speed Internet connection for personal computers and/or an Internet service for portable devices. These connections are not provided by DEEZER; therefore, the Deezer User must first have access to a high-speed Internet and/or mobile Internet connection in order to use the Deezer Service.
 
-The Deezer Free Service includes personalised music, playlists and other content recommendations.
+A mobile Internet connection via third, fourth or fifth generation (3G, 4G or 5G) mobile technology is highly recommended.
 
-Streaming is possible track by track, by creating playlists, or via radio stations.
+The content available as part of the Deezer Service, whether audio, video, audiovisual, photographic, illustrative, etc. in any format and of any type (hereinafter the “Content”), is linked to the agreements in force with the rights-holders and may therefore change. DEEZER cannot guarantee the availability of any given track or album or any artist or group or any piece of content in the Deezer Service catalogue.
 
-### Article 3 – Access to and use of the Deezer Free Service
+Moreover, DEEZER cannot guarantee that any given Content in the Deezer Service catalogue will be available indefinitely. DEEZER assumes no liability for the withdrawal of any part of the Content made available.
 
-The use of the Deezer Free Service requires a high-speed Internet connection for personal computers and an Internet service for portable devices. These connections are not provided by DEEZER, therefore the Deezer Free User must first subscribe to a high-speed Internet and/or mobile Internet offer in order to use the Deezer Free Service.
+### Article 3 – Availability and modification of the Deezer Service
 
-A mobile Internet connection via third or fourth generation (3G or 4G) mobile technology is highly recommended.
+The Deezer Service can be accessed 24 (twenty-four) hours a day, 7 (seven) days a week, within the limits of the Terms and in particular the terms of Article 7 hereunder.
 
-The music catalogue available as part of the Deezer Free Service is linked to the agreements in force with the rights-holders and may therefore change. DEEZER cannot guarantee the availability of any given track or album or any artist or group in the Deezer Free Service catalogue.
+To the fullest extent permitted by applicable laws, DEEZER has the right to make any changes or improvements to the Deezer Service as it deems necessary.
 
-Moreover, DEEZER cannot guarantee that any given track, album, artist or group in the Deezer Free Service catalogue will be available indefinitely. DEEZER assumes no liability for the withdrawal of any part of the catalogue content made available.
+In addition, DEEZER has the right to temporarily suspend access to the Deezer Service, without prior notice or compensation, where necessary to carry out maintenance or ensure continuity of the Deezer Service. DEEZER is also entitled to shut the Deezer Service down permanently with no compensation payable. Any permanent shutdown of the Deezer Service will be notified to the Deezer User.
 
-As a Deezer Free User, you can activate the Deezer Free Service on a personal computer (PC or Mac) and a compatible portable device. The Deezer Free Service is only accessible from one connection at a time (registered personal computer or compatible portable device). DEEZER has the technical means to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections.
+### Article 4 – Deezer User’s liability
 
-### Article 4 – Availability and modification of the Deezer Free Service
+i) Each Deezer User can post messages, information and/or comments on the Site or the Application. The Deezer User is liable for any messages, content or information published by him/her on the Site or Application; DEEZER is considered to be an Internet service-hosting provider only and cannot be held liable for the content published by the Deezer User on the Site or Application, over which DEEZER has no control or supervision.
 
-The Deezer Free Service can be accessed 24 hours a day, seven days a week, within the limits of the Terms and in particular the terms of Article 7 hereunder.
+To avoid being held liable, the Deezer User expressly agrees to ensure that any message published by him/her on the Site or Application complies with the following requirements (this list is not exhaustive):
 
-However, DEEZER has the right to make any changes or improvements to the Deezer Free Service as it deems necessary. DEEZER nevertheless guarantees that it will not affect the quality or substantially change the features of the Deezer Free Service.
+– Does not infringe third party intellectual property rights; the Deezer User therefore agrees not to publish content on the Site or Application that is protected under copyright law, a registered trademark or more generally any content protected by any other intellectual property rights held by third parties without the prior consent of the owner or owners of said rights;
 
-In addition, DEEZER has the right to temporarily remove access to the Deezer Free Service, without prior notice or compensation, where necessary to carry out maintenance or ensure continuity of the Deezer Free Service. DEEZER is also entitled to shut the Service down permanently with no compensation payable. Any permanent shutdown of the Deezer Free Service will be notified via the Site or via the Application.
+– Contains no computer virus able to interrupt, destroy or affect the Site or Application’s features;
 
-### Article 5 – Terms of access to the Deezer Free Service
+– Does not encourage crime, violence, fanaticism, suicide or hatred criminal behavior or contain illegal or threatening messages or content of a pedophile, pornographic, defamatory, obscene, hateful, racist, anti-Semitic, xenophobic or revisionist nature or contrary to public order and good manners;
 
-The Deezer Free User declares that he/she has the capacity to agree to these Terms; this means that he/she is of the legal age required and not under any legal protection measure (such as legal guardianship).
+– Does not infringe any right to privacy or promote disrespect for human dignity;
 
-### Article 6 – Deezer Free User’s liability
+– Does not harass other users;
 
-i) Each Deezer Free User can post messages, information and/or comments on the Site and the desktop Application. The Deezer Free User is liable for any messages, content or information published by him/her on the Site or desktop Application; DEEZER is considered to be an Internet service-hosting provider only and cannot be held liable for the content published by the Deezer Free User on the Site or desktop Application, over which DEEZER has no control or supervision.
+– Does not promote or encourage any criminal activity or enterprise;
 
-To avoid being held liable, the Deezer Free User expressly agrees to ensure that any message published by him/her on the Site or desktop Application complies with the following requirements (this list is not exhaustive):
+– Does not request and/or disclose passwords and/or personal information;
 
-\- Does not infringe third party intellectual property rights; the member therefore agrees not to publish content on the Site or desktop Application that is protected under copyright law, a registered trademark or more generally any content protected by any other intellectual property rights held by third parties without the prior consent of the owner or owners of said rights;
+– Does not transmit email chains, mass unsolicited emails, instant messages, advertising messages and spam messages;
 
-\- Contains no computer virus able to interrupt, destroy or affect the Site or desktop Application’s features;
+– Contains no advertising and/or canvassing in order to offer products and/or services to sell on the Site and Application;
 
-\- Does not celebrate crime or criminal behaviour or contain illegal or threatening messages or content of a paedophile, pornographic, defamatory, obscene, hateful, racist, anti-Semitic, xenophobic or revisionist nature or contrary to public order and good manners;
+– Contains no addresses or Internet links transferring to an external website the content of which violates any applicable law and/or regulation, infringes third party rights or is in breach of the Terms.
 
-\- Does not infringe any right to privacy or promote disrespect for human dignity;
+ii) The Deezer User agrees not to use any automated system such as scripts for the purpose of adding users to his/her user account and/or sending comments or messages.
 
-\- Does not encourage violence, fanaticism, crime, suicide or hatred linked to religion, race, sex, sexual preferences or ethnicity;
+iii) The Deezer User undertakes not to reproduce or extract works and other protected objects accessible on the Site and/or the Application (in particular by the use of scripts, robots or any other automated system) for the purposes of (i) text and data mining and/or (ii) training machine learning models or artificial intelligence models.
 
-\- Does not harass other Users;
+iv) The Deezer User is solely responsible for keeping his/her password safe and confidential; he/she further undertakes not to disclose his/her password at any time to any other user or use the account, name or password of any other user.
 
-\- Does not promote or encourage any criminal activity or enterprise;
+v) The Deezer User certifies the accuracy of the information given to DEEZER for his/her registration and agrees to notify any modification.
 
-\- Does not request and/or disclose passwords and/or personal information for commercial or illegal purposes;
+vi) Deezer is to remove any content published by a Deezer User if it has reason to think that such content could be deemed copyright infringement or contrary to the Terms or any applicable law.
 
-\- Does not transmit email chains, mass unsolicited emails, instant messages, advertising messages and spam messages;
+vii) If the Deezer User breaches the applicable legislation or infringes any third-party rights, DEEZER has the right to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities and police forces).
 
-\- Contains no advertising and/or canvassing in order to offer products and/or services to sell through the Site;
+viii) Finally, the Deezer User agrees to comply with all applicable export and re-export control standards, including applicable United States export and re-export control standards and similar applicable laws or regulations in other jurisdictions. In particular, the Deezer User is not authorized to use, transfer, export or re-export any product or service, including the recordings, made available to him/her from the Site and/or the Application, in the event that this would constitute an infringement to applicable standards, laws or regulations. The Deezer User further warrants that it is not subject to any economic sanctions or similar measures applied by (i) the United Nations, (ii) the government of the United States of America (including the Office of Foreign Assets Control (OFAC)), (iii) the United Kingdom, (iv) the European Union and its Member States, or (v) any other jurisdiction.
 
-\- Contains no addresses or Internet links transferring to an external website the content of which violates any applicable law and/or regulation, infringes third party rights or is in breach of the Terms.
+### Article 5 – Disclaimer of warranties
 
-ii) The Deezer Free User agrees not to use any automated system such as scripts for the purpose of adding Users to his/her User account and/or sending comments or messages.
+The Deezer User declares that he/she understands the scope and limitations of the Internet network.
 
-iii) The Deezer Free User is solely responsible for keeping his/her password safe and confidential; he/she further undertakes not to disclose his/her password at any time to any other User or use the account, name or password of any other User.
+DEEZER disclaims any and all liability for any malfunction in access to the Deezer Service, the speed at which the pages of the Site and/or Application open and can be read, the listening speed of any tracks, the temporary or permanent inaccessibility of the Deezer Service, and the fraudulent use by third parties of the information provided on the Site or Application.
 
-iv) The Deezer Free User certifies the accuracy of the information given to DEEZER for his/her registration and agrees to notify any modification.
+It is therefore the Deezer User’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER can never be held liable. DEEZER can never be held liable for any malfunction of or damage caused to the Deezer User’s device.
 
-v) The Deezer Free User recognises that if his/her use of the Site or Application is in breach of the Terms and more broadly any third-party rights, laws and regulations in force, DEEZER has the right to immediately suspend or remove him/her from the Deezer Free Service and/or block his/her access to the Deezer Free Service without notice.
+Deezer shall not be liable should the Deezer User’s device be incompatible with the Deezer Service.
 
-vi) If the Deezer Free User breaches the applicable legislation or infringes any third-party rights, DEEZER has the right to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities and police forces).
+More broadly, DEEZER disclaims any liability if a breach of any of its obligations results from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labor disputes, riots, insurrections, civil disturbances, shortages of labor or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
 
-### Article 7 – Disclaimer of warranties
+Finally, the Deezer User is solely liable for his/her use of the Deezer Service and cannot hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The Deezer User shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the Deezer User’s use of the Deezer Service.
 
-The Deezer Free User declares that he has been informed of the scope and limitations of the Internet network.
+### Article 6 – Intellectual property
 
-As a result, DEEZER disclaims all liability for any malfunction in access to the Deezer Free Service, the speed at which the pages of the Site and/or Application open and can be read, the listening speed of any tracks, the temporary or permanent inaccessibility of the Deezer Free Service, and the fraudulent use by third parties of the information provided on the Site or Application.
+The general structure of the Site, the Application, the Deezer Service and all elements composing it (such as but not limited to the logos, trademarks, domain names, Content, and their associated elements such as the photos, images, texts and biography of the authors, artists and/or any legal beneficiary on the Content) are the exclusive property of DEEZER and/or its licensors (notably the record and video producers, the record companies, authors’ rights societies, etc.).
 
-It is therefore the Deezer Free User’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER can never be held liable. DEEZER can never be held liable for any malfunction of or damage caused to the Deezer Free User’s equipment.
+These elements are protected by intellectual property law and other laws. Any use any of these elements, unless for the purpose of using the Deezer Service, in accordance with the Terms, is strictly forbidden.
 
-More broadly, DEEZER disclaims any liability if a breach of any of its obligations results from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
+In particular, any reproduction and/or making available of all or part of the Site, the Application, the Deezer Service and/or the elements composing them (as described above), by any means is forbidden and would be treated as an infringement punishable by law.
 
-DEEZER disclaims all liability should it transpire that the Deezer Free Service is incompatible with certain equipment and/or features of the Deezer Free User’s equipment.
+Any hyperlink to the Site or Application and use of the “framing” technique (a programming technique that makes it possible to divide browser windows into separate frames in order to display the content of an external website) or the “in-line linking” technique (programming to make one element extracted from another site disappear into a web page, which saves storage space on the hard drive on which the Site or the Application is hosted and makes it possible to hide the initial content of which the element is part from an uninformed user) is strictly prohibited. Any unfair and/or fraudulent use of a DEEZER account (such as for instance aiming to artificially or abnormally increase the number of times certain specific music tracks are played), by any automated processes such as robots and scripts or any other means, is strictly prohibited.
 
-Finally, the Deezer Free User is solely liable for his/her use of the Deezer Free Service and cannot hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The Deezer Free User shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the Deezer Free User’s use of the Deezer Free Service.
+The Content is delivered as digital files protected by national and international intellectual property laws. They may only therefore be listened to within a private or family setting. Any use for a non-private purpose will render the Deezer User liable to civil and/or criminal proceedings. Any other use of the Content is strictly forbidden and more particularly any download or attempt to download, any transfer or attempt to transfer whether permanently or temporarily onto the hard drive of a computer or any other device (music players in particular), any ripping or burning or attempt to rip or burn any file or files onto a CD or any other medium is expressly forbidden. Any resale, exchange or renting of these files is strictly prohibited.
 
-### Article 8 – Intellectual property
+The Deezer User acknowledges that the Content made available to him/her within the Site and Application is protected by protective technical measures set up by DEEZER in order to prevent or limit, depending on the technology offered, the unauthorized use of the Content.
 
-The general structure of the Site, the Application, the Deezer Free Service and all elements composing it (such as but not limited to the logos, domain names, tracks or videos, and their associated elements such as the photos, images, texts and biography of the authors, artists and/or any legal beneficiary on the tracks or videos, as well as the visuals on the packaging) are the exclusive property of DEEZER and/or its licensors (notably the record and video producers, the record companies, authors’ rights societies, etc.).
+The Deezer User agrees not to bypass these protective technical measures by any means, for the purpose of downloading these files and enabling them to be stored on his/her reception terminal regardless of what that is (computer, mobile phone, music player or other portable music disc player, etc.).
 
-These elements are protected by intellectual property law and other laws, and particularly copyright. You may only use these elements for the purpose of using the Deezer Free Service, in accordance with the Terms.
+DEEZER strictly forbids all operations of harvesting and mining of texts and data and any other Content accessible on the Site and/or the Application. This opposition covers the entire Site, the Application and the Content to which it gives access. All operations of harvesting and mining of texts and data targeting the Site, the Application and its Content, including by automated data collection devices, therefore constitute acts of counterfeiting unless a specific agreement formally expressed by DEEZER is obtained. The absence of metadata associated with the Site and/or the Application, directories of the Site and/or the Application, Contents of the Site and/or the Application has no impact on the exercise of the right of opposition expressed by these terms and conditions.
 
-Any representation of all or part of the Site, the Application, the Deezer Free Service and/or the elements composing them (as described above), by any means, without the express consent of DEEZER, is therefore forbidden and would be treated as an infringement punishable by law.
+### Article 7 – Suspension and/or cancellation initiated by DEEZER or the Deezer User
 
-Any hyperlink to the Site and use of the “framing” technique (a programming technique that makes it possible to divide browser windows into separate frames in order to display the content of an external website) or the “in-line linking” technique (programming to make one element extracted from another site disappear into a web page, which saves storage space on the hard drive on which the Site is hosted and makes it possible to hide the initial content of which the element is part from an uninformed user) is strictly prohibited. Any unfair use of a DEEZER account (such use for instance aiming to artificially or abnormally increase the number of times certain specific music tracks are played), by any automated processes such as robots and scripts or any other means, is strictly prohibited.
+Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Deezer Service by a Deezer User and/or cancel his/her subscription to the Deezer Service without notice or compensation, in the event that the Deezer User:
 
-The Recordings on the Deezer Free Service are digital files protected by national and international copyright and related rights. They may only therefore be listened to within a private or family setting. Any use for a non-private purpose will render the Deezer Free User liable to civil and/or criminal proceedings. Any other use of the Recordings is strictly forbidden and more particularly any download or attempt to download, any transfer or attempt to transfer whether permanently or temporarily onto the hard drive of a computer or any other device (music players in particular), any ripping or burning or attempt to rip or burn any file or files onto a CD or any other medium is expressly forbidden. Any resale, exchange or renting of these files is strictly prohibited.
+– Does not comply with the Terms and especially:
 
-The Deezer Free User acknowledges that the Recordings made available to him/her within the Site and Application are protected by protective technical measures set up by DEEZER in order to prevent or limit, depending on the technology offered, the unauthorised use of the Recordings.
+* Infringes DEEZER’s or any third-party’s intellectual property rights;
+* Bypasses or attempts to bypass the protective technical measures set up by DEEZER, as mentioned in Article 6 above;
+* Uses multiple simultaneous connections with the same account or attempts to do so;
+* Uses a payment method that appears as no longer valid and/or active at any time during the subscription of the Deezer User;
+* Provides false information at the time of his/her subscription to the Deezer Service;
 
-The Deezer Free User agrees not to bypass these protective technical measures by any means, for the purpose of downloading these files and enabling them to be stored on his/her reception terminal regardless of what that is (computer, mobile phone, music player or other portable music disc player, etc.).
+– Carries on activities prejudicial to DEEZER’s commercial interests;
 
-### Article 9 – Suspension and/or cancellation initiated by DEEZER or the Deezer Free User
+– Displays abusive behavior towards Deezer customer service (insulting, disrespectful, discriminatory remarks, any use of inappropriate language, harassment, etc.); or
 
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Deezer Free Service by a Deezer Free User and/or cancel his/her subscription to the Deezer Free Service without notice or compensation, in the event that the Deezer Free User:
+– Breaches any applicable laws and/or regulations.
 
-\- Does not comply with the Terms and especially:
+The Deezer User may delete his/her account at any time from the Site or Application through “My account”.
 
-o Infringes DEEZER’s or its licensors’ intellectual property rights;
+### Article 8 – Absence of the right of withdrawal – period – renewal – cancellation – to the Deezer Service
 
-o Bypasses or attempts to bypass the protective technical measures set up by DEEZER;
+#### 8.1 No right of withdrawal (cooling-off period)
 
-o Uses multiple simultaneous connections with the same account or attempts to do so;
+The Deezer User expressly recognizes and accepts that the supply of the Deezer Service starts at the time his/her subscription is confirmed and acknowledges that consequently he/she loses his/her right to withdraw from the subscription. Accordingly, no request for withdrawal, cancellation or refund will be accepted once the subscription is confirmed, to the fullest extent permitted by applicable laws.
 
-o Provides false information at the time of his/her subscription to the Deezer Free Service.
+#### 8.2 Subscription Term
 
-\- Carries on activities prejudicial to DEEZER’s commercial interests.
+DEEZER offers a monthly renewable subscription (or for any other term depending on the offers made on the Site or the Application).
 
-The Deezer Free User may delete his/her account at any time from the Site through “My account”.
+#### 8.3 Renewal
 
-### Article 10 – Amendments of the Terms
+Unless cancelled by the Deezer User pursuant to Article 7, and unless the Deezer User uses a non-recurring payment method, the subscription to the Service shall renew automatically for exactly the same duration as the initial term. For example, if the Deezer User subscribes to a monthly subscription, such subscription will be renewed automatically each month.
 
-DEEZER has the right to amend the Terms at its sole discretion. DEEZER will inform the Deezer Free User by email to the email address given on the Deezer Free User’s account, of any amendments of the Terms at least 1 (one) month before they come into effect. If the Deezer Free User does not accept these amendments, he/she will be free to delete his/her account on the Site as mentioned in Article 9 above. Unless the Deezer Free User deletes his/her account, the amended Terms will come into effect one (1) month following receipt of notification of the amendment of the Terms.
+#### 8.4 Cancellation
 
-### Article 11 – Customer Service department
+Where a subscription is made by the Deezer User directly from the Site or Application, in order to cancel his/her subscription the Deezer User must go to his/her account and click “[Cancel my subscription](http://www.deezer.com/account)”. Cancellation will be effective at the end of the current subscription period, if made at least 48 (forty-eight) hours before the end of the period.
 
-As part of his/her access to and use of the Deezer Free Service, DEEZER provides the Deezer Free User with a community, accessible through the deezercommunity.com website (the “Community”) where the Deezer Free User will in particular be able to find information regarding the Deezer Free Service and interact with other Deezer Free Users.
+Notwithstanding the above, for free trial offers proposed by DEEZER and requiring the provision of valid payment method, the termination requested by the Deezer User will take effect at the earliest on the same day as the termination carried out by the Deezer User. This action is irreversible and the Deezer User will not be able to subscribe again to the same free trial offer.
 
-As part of the Community, the Deezer Free User will in particular be able to:
+If the subscription was made by the Deezer User via a third-party (such as Apple for example), the Deezer User must first check the cancellation conditions for his/her subscription in the “My account” section of the Site, available [here](http://www.deezer.com/account), then follow the instructions to cancel the subscription. The Deezer User should be aware that conditions (how to cancel, within what timeframe, etc.) may vary from one third-party platform to another.
 
-\- consult and contribute to a forum through posts, reactions and comments;
+#### 8.5 Trial and Promotional offers
 
-\- post images, links and other content;
+Some trials or promotional offers of the Deezer Service for a different duration may be offered on the Site or the Application, temporarily or otherwise. Unless stated otherwise, these trial and promotional offers will be subject to these Terms and will be limited to one subscription per physical person whatever the trial or promotional offer.
 
-\- interact with other Deezer Free Users, DEEZER’s moderators, and/or Customer Service through comments and/or private messages.
+Certain trial or promotional offers are subject to the provision of payment details. Unless stated otherwise on the Site or Application or in the Terms, and unless the subscription is cancelled by the Deezer User at least 48 (forty-eight) hours before the conversion, any trial or promotional offer is automatically converted into a monthly subscription at the price stated in the offer or, otherwise, at the price applicable to the monthly subscription to the Deezer Service. Specific offer conditions shall apply.
+
+For a trial or discovery period, the end of the period occurs at the date and time as indicated in the Deezer User’s account, unless stated otherwise on the Site.
+
+### Article 9 – Subscription to the Deezer Service
+
+In order to subscribe to the Deezer Service, every Deezer User must:
+
+– Be already registered, and logged in to the Site or Application;
+
+– Pay the price for his/her subscription via one of the payment systems offered;
+
+– Confirm his/her subscription; and
+
+– Provide all necessary information for invoicing purposes where an invoice is required by applicable laws.
+
+Subject to the other conditions of the Terms, subscription to the Deezer Service will become effective only once DEEZER sends the aforementioned confirmation email. DEEZER recommends that the Deezer User saves and/or prints out this email.
+
+The Deezer User can change the password given on his/her account at any time by clicking the “My information” section.
+
+The Deezer User agrees to inform DEEZER, without delay, of any change or update to the information provided at the time of subscribing to the Deezer Service and any change in his/her email address or bank details in particular. The Deezer User can change any of his/her information at any time on his/her account on the Site or Application by clicking the “My information” section.
+
+The Deezer User must immediately inform DEEZER of any loss or unauthorized use of his/her account, identification details or password. The passwords and identification details are personal and the Deezer User undertakes not to disclose them. As a result, the Deezer User is solely responsible for their use.
+
+The Deezer User is solely liable for the consequences arising from the misuse of his/her account by the Deezer User himself/herself or by a third party who has accessed the Deezer User’s account due to the Deezer User’s fault or negligence, and as a result, the Deezer User acknowledges that DEEZER and all its partners, co-contracting party(ies) or rights-holders cannot be held liable in this regard.
+
+### Article 10 – Price
+
+The subscription price is stated on the Site or in the Application and is inclusive of all taxes except in Canada where the price is shown exclusive of all taxes.
+
+DEEZER has the right to change the price of all subscription offers from time to time. DEEZER will inform each Deezer User by email to the address provided by the Deezer User at the time of registration to the Deezer Service (or as subsequently updated on his/her account) and/or by an in-app notification, of any price increase at least 30 (thirty) days before it comes into effect. If the Deezer User does not accept this increase, he/she can cancel his/her subscription pursuant to Article 7 above; such cancellation will come into effect on the next monthly subscription due date. If the Subscription is not cancelled, the new price will apply to the Deezer User from the following monthly subscription payment due date.
+
+Any increase in the rate of VAT (Value Added Tax) will be passed on automatically and immediately in the price of the Deezer Service. The same will apply should a new tax be created, based on the price of the Deezer Service and applicable to DEEZER. The conditions for cancellation applicable in the event of a change in price of the Deezer Service mentioned above will apply under the same conditions in the event of a price change arising from an increase in or the creation of new taxes.
+
+Deezer Users are reminded that the connection and communication (Internet) costs relating to the use of the Deezer Service are not borne by DEEZER and are payable solely by the Deezer User.
+
+### Article 11 – Payment
+
+Various payment methods are offered on the Site or Application (credit cards, prepaid cards, PayPal and/or other payment methods).
+
+When using a credit card, the Deezer User declares that he/she is the owner of a credit card issued by a bank in the same country.
+
+When using any other payment system, the Deezer User declares that he/she uses a payment system and/or account registered in the same country.
+
+Depending on the subscription period chosen by the Deezer User, the subscription price is paid either monthly or annually. The first payment will be made at the time of subscription, and thereafter Deezer User will be automatically charged on a monthly or yearly basis until the subscription is cancelled, whether cancellation is initiated by the Deezer User or by DEEZER, as described in Article 7.
+
+For optimized transaction security, DEEZER has chosen the payment systems of various companies with which it has entered into agreements. The warranties given by DEEZER in terms of transaction security are identical to those obtained by DEEZER from these payment service providers.
+
+Unless the Deezer User provides evidence to the contrary, the computerized records kept within the computer systems of DEEZER and its partners in conditions of reasonable security will be treated as proof of communications, orders, validations and payments that have taken place between the Deezer User and DEEZER. This information shall be treated as valid proof between the Deezer User and DEEZER.
+
+### Article 12 – Amendments of the Terms
+
+DEEZER has the right to amend the Terms at its sole discretion. DEEZER will inform the Deezer User by email to the email address given on the Deezer User’s account and/or by an in-app notification, of any amendments of the Terms at least 1 (one) month before they come into effect, to the fullest extent permitted by applicable laws. If the Deezer User does not accept these amendments, he/she will have to delete his/her account on the Site or Application as mentioned in Article 7 above. Unless the Deezer User deletes his/her account, the amended Terms will come into effect 1 (one) month following receipt of notification of the amendment of the Terms.
+
+### Article 13 – Customer Service and Deezer Community
+
+#### 13.1 Customer Service
+
+As part of his/her access to and use of the Deezer Service, DEEZER provides the Deezer User with a customer support service that can answer any questions the Deezer User might have about his/her account and the services made available by DEEZER (the “Customer Service”).
+
+The Deezer User will be able to request information about, for instance:
+
+– his/her access to and use of the services provided by DEEZER;
+
+– his/her account and changing his/her account information.
+
+The Deezer User can contact DEEZER through the Site or Application by clicking on the “[Contact us](https://en.deezercommunity.com/site/terms)” section or writing to the following address:
+
+Deezer  
+c/o Customer Service  
+24 rue de Calais 75009 Paris  
+FRANCE
+
+Customer Service will make every effort to respond to such requests within a reasonable timeframe.
+
+#### 13.2 Deezer Community
+
+As part of his/her access to and use of the Deezer Service, DEEZER also provides the Deezer User with an access to an online community, accessible through the deezercommunity.com website (the “Community”) where the Deezer User will notably be able to find information regarding the Deezer Service and interact with other Deezer Users.
+
+As part of the Community, the Deezer User will in particular be able to:
+
+– Consult and contribute to a forum through posts, reactions and comments;
+
+– Post images, links and other content;
+
+– Interact with other Deezer Users, DEEZER’s moderators, and/or Customer Service through comments and/or private messages.
 
 Use of the Community is subject to acceptance of and compliance with its terms and conditions, available here: [https://en.deezercommunity.com/site/terms](https://en.deezercommunity.com/site/terms).
 
-As part of his/her access to and use of the Deezer Free Service, DEEZER also provides the Deezer Free User with a customer support service that can answer any questions the Deezer Free User might have about his/her account and the Services made available by DEEZER (the “Customer Service”).
+### Article 14 – Invalidity of any clause – Entire Agreement
 
-The Deezer Free User will be able to request information about (this list is not exhaustive):
+Should any of the clauses of the Terms be deemed void for any reason, the remaining Terms will still apply without any modification, to the fullest extent permitted by applicable laws.
 
-\- his/her access to and use of the Services provided by DEEZER;
+These Terms (including the Offer Terms and the Partners Terms) constitute the entire agreement between DEEZER and the Deezer User with respect to the subject matter hereof, and supersede all prior agreements and understandings of the parties, oral and written.
 
-\- his/her account and changing his/her account information.
+### Article 15 – Jurisdiction – Claims and disputes
 
-The Deezer Free User can contact DEEZER through the Site by clicking on the “[Contact us](https://www.deezer.com/support)” section or writing to the following address:
+These Terms are governed by the law of the country where the Deezer User has his/her habitual residence.
 
-Deezer  
-24 rue de Calais 75009 Paris  
-FRANCE  
+Any claim relating to the application of these Terms must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE.
 
-Customer Service will make every effort to respond to such requests within a reasonable timeframe, but can make no guarantees or warranties of any kind that such requests will be handled within a timeframe corresponding to the Deezer Free User’s expectations, or that the Deezer Free User will be fully satisfied with the response.
+For Deezer Users residing in a member state of the European Union, should a claim made by a Deezer User (i) has not been resolved by Customer Service or (ii) remain without response for more than 2 (two) months following receipt of the claim by Customer Service, the Deezer User may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
 
-### Article 12 – Invalidity of any clause
-
-Should any of the clauses of the Terms be declared void or voidable for any reason, the other clauses will still apply without any modification.
-
-### Article 13 – Jurisdiction – Claims and disputes
-
-These Terms are governed by the law of the country where the Deezer Free User has his/her habitual residence.
-
-Any claim relating to the application of these Terms must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE, for prompt processing.
-
-For Deezer Free Users residing in a member state of the European Union, should a claim made by a Deezer Free User not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the Deezer Free User may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
-
-In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Deezer Free User has his/her habitual residence.
-
-﻿
-
-Terms of Use and Sale for the Deezer Web Service
-------------------------------------------------
-
-### Article 1 – General
-
-Welcome to the Terms of Use and Sale for the Deezer Web Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”).
-
-The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
-
-These conditions of use and sale (hereinafter the “Terms”) govern exclusively the Deezer Web Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site.
-
-The purpose of these Terms is to define the contractual and commercial relationship between DEEZER, on the one hand, and any subscriber to the Deezer Web Service (hereinafter the “Subscriber”), on the other hand.
-
-The use of the Site, the Application and the Deezer Web Service is authorised for personal and private use only, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
-
-Subscription and access to the Deezer Web Service are strictly dependent on prior acceptance of all of these Terms (including the Privacy Policy) without restriction or reservation.
-
-### Article 2 – Presentation of the Deezer Web Service
-
-The Deezer Web Service is a service offered and operated by DEEZER that makes it possible, subject to consent to these Terms, from a personal computer only, to listen to unlimited sound recordings and other musical and cultural content (such as podcasts, radio stations and in certain territories, audiobooks) (hereinafter the “Recordings”) in higher quality audio (than is made available through DEEZER’s other services, where available) and without any advertisements. As the Deezer Web Service is not accessible via DEEZER’s mobile and tablet applications, the Subscriber will only have access to the Deezer Free Service via these applications.
-
-The Deezer Web Service includes personalised music, playlists and other content recommendations.
-
-From the Site, once the Subscriber has signed up, he/she has access to all the features of the Deezer Web Service.
-
-The main characteristics of the Deezer Web Service are as follows:
-
-\- Unlimited access to listen to the Recordings on the Deezer Web Service;
-
-\- No advertising;
-
-\- High quality sound.
-
-The Deezer Web Service is accessible to the Subscriber until the end of his/her subscription as stated on the subscription page of the Site at the time of subscribing or the cancellation of his/her subscription under the Terms hereunder.
-
-Once the subscription has expired or has been cancelled, unlimited access and listening are no longer authorised.
-
-The Recordings can be streamed throughout the entire subscription period, but cannot be downloaded, transferred to or burned onto any medium whatsoever.
-
-DEEZER informs the Subscriber that it declines all liability with regard to advertisements displayed within content provided and hosted by third parties and which may be integrated into and/or referred to on the Site.
-
-### Article 3 – Use of the Deezer Web Service
-
-The use of the Deezer Web Service requires a high-speed Internet connection. These connections are not provided by DEEZER, therefore the Subscriber must first subscribe to a high-speed Internet service in order to use the Deezer Web Service.
-
-The music catalogue available as part of the Deezer Web Service is linked to the contracts in force with the rights-holders and may therefore be subject to change. DEEZER cannot guarantee the availability of any given track or album or any artist or group in the Deezer Web Service catalogue. Moreover, DEEZER cannot guarantee that any given track, album, artist or group in the Deezer Web Service catalogue will be available indefinitely. DEEZER incurs no liability for the withdrawal of any part of the catalogue content made available.
-
-The Subscriber can activate the Deezer Web Service on a personal computer (PC or Mac). The Deezer Web Service is only accessible from one connection at a time. DEEZER has the technical means to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections.
-
-### Article 4 – Availability and modification of the Deezer Web Service
-
-The Deezer Web Service can be accessed 24 hours a day, seven days a week, within the limit of the Terms and the terms of Article 10 hereunder.
-
-The Recordings made available within the Deezer Web Service are determined based on the country where the Subscriber has subscribed to the Deezer Web Service (his/her country of residence). In accordance with Regulation (EU) 2017/1128 on cross-border portability of online content services in the internal market, any Subscriber who has subscribed to the Deezer Web Service from a member state of the European Union will have access to the same content in the same manner when using the Deezer Web Service while temporarily present in another member state, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-Any Subscriber who has subscribed to the Deezer Web Service outside the European Union will also be given access to the same content in the same manner when using the Deezer Web Service while temporarily present in another country, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-DEEZER has the right to make any changes or improvements to the Deezer Web Service as it deems necessary. DEEZER nevertheless guarantees that it will not affect the quality or substantially change the features of the Deezer Web Service.
-
-In addition, DEEZER has the right to temporarily remove access to the Deezer Web Service, without prior notice or compensation, where necessary to carry out maintenance or ensure continuity of service. The Subscriber acknowledges that DEEZER cannot be held liable and thus waives any right to compensation and/or action against DEEZER in that respect. Notice of temporary interruptions in the Deezer Web Service will be given on the Site at least 24 (twenty-four) hours before they occur, unless they are urgent. DEEZER is also entitled to shut the Deezer Web Service down permanently with no compensation payable. Notice of the permanent shutdown of the Deezer Web Service will be given via the Site, at least 1 (one) month before it occurs. The Subscriber will no longer be liable for any payment from the date of the Deezer Web Service shutdown.
-
-### Article 5 – Absence of the right of withdrawal – period – renewal – cancellation – upgrade to the Deezer Premium Service
-
-#### 5.1 No right of withdrawal (cooling-off period)
-
-The Subscriber expressly recognises and accepts that the supply of the Deezer Web Service starts at the time his/her subscription is confirmed and acknowledges that consequently he/she loses his/her right to withdraw from the subscription. Accordingly, no request for withdrawal, cancellation or refund will be accepted once the subscription is confirmed.
-
-#### 5.2 Period
-
-DEEZER offers a monthly subscription (or any other duration depending on the offers made on the Site). Some trial or discovery periods of the Deezer Web Service of a different duration may be offered on the Site, temporarily or not. Unless stated otherwise, these trial and discovery periods will be subject to these Terms and will be limited to one subscription (same IP (Internet Protocol) address and/or same email address) whatever the trial or discovery offer.
-
-#### 5.3 Renewal
-
-Unless cancelled by the Subscriber pursuant to Article 5.4, and unless the Subscriber uses a non-recurring payment method, the subscription to the Service renews automatically for exactly the same duration as the initial period. Therefore, if the Subscriber takes out a monthly subscription, such subscription will be renewed automatically each month.
-
-Unless stated otherwise on the Site or in the Terms, and unless the subscription is cancelled by the Subscriber pursuant to Article 5.4, any trial or discovery offer is automatically converted into a monthly subscription at the price stated in the offer or, otherwise, at the price applicable to the monthly subscription to the Deezer Web Service.
-
-#### 5.4 Cancellation
-
-Where a subscription is taken out directly from the Site, in order to cancel his/her subscription the Subscriber must go to his/her account and click “Cancel my subscription”. Cancellation will be effective at the end of the current subscription period, if made at least 48 (forty-eight) hours before the end of the period. For a trial or discovery period, cancellation occurs at the date and time of cancellation as indicated in the Subscriber’s account, unless stated otherwise on the Site.
-
-If the subscription was taken out via a third-party website (such as iTunes for example), the Subscriber must first check the cancellation conditions for his/her subscription in the “My account” section of the Site, then follow the instructions to cancel the subscription. The Subscriber should be aware that conditions (how to cancel, within what timeframe, etc.) may vary from one third-party platform to another.
-
-#### 5.5 Upgrade to the Deezer Premium Service
-
-If the Subscriber switches from the Deezer Web Service to the Deezer Premium Service, the upgrade will take effect immediately as authorised by DEEZER. Henceforth, DEEZER will immediately charge the Subscriber for the newly activated Deezer Premium Service subscription, regardless of whether the subscription period for the Deezer Web Service has come to an end, meaning that if the Subscriber is upgrading to the Deezer Premium Service during the Deezer Web Service subscription period, DEEZER will charge the Subscriber for both Services until the Subscriber cancels his/her subscription to the Deezer Web Service.
-
-There will be no refund of the price paid for the Deezer Premium Service subscription due to the upgrade.
-
-### Article 6 – Terms of access to the Deezer Web Service
-
-The Subscriber declares that he/she has the capacity to agree to these Terms; this means that he/she is of the legal age required and not under any legal protection measure (such as legal guardianship).
-
-The Subscriber declares that he/she is a resident in a country where the Deezer Web Service is available and that he/she is the owner of a credit card issued by a bank in the same country.
-
-### Article 7 – Creation of an account
-
-In order to subscribe to the Deezer Web Service, every Subscriber must:
-
-\- Create an account on the Site or, if the Subscriber is already registered, log into the Site;
-
-\- Provide the information requested on the subscription form;
-
-\- Give his/her consent to the Terms;
-
-\- Pay the price for his/her subscription via one of the payment systems offered;
-
-\- Confirm his/her subscription.
-
-The Subscriber agrees to provide true, accurate and genuine information about himself/herself in connection with his/her registration with the Site and the Deezer Web Service.
-
-Once his/her registration has been approved, DEEZER will send the Subscriber a confirmation email to the email address given at the time of registration.
-
-Subject to the other conditions of the Terms, subscription to the Deezer Web Service will become effective only once DEEZER sends the aforementioned confirmation email. DEEZER recommends that the Subscriber saves and/or prints out this email.
-
-The Subscriber can change the password given on his/her account at any time by clicking the “My information” section.
-
-The Subscriber agrees to inform DEEZER, without delay, of any change or update to the information provided at the time of subscribing to the Deezer Web Service and any change in his/her email address or bank details in particular. The Subscriber can change any of his/her information at any time on his/her account on the Site by clicking the “My information” section.
-
-The Subscriber must immediately inform DEEZER of any loss or unauthorised use of his/her account, identification details or password. The passwords and identification details are personal and the Subscriber undertakes not to disclose them. As a result, the Subscriber is solely responsible for their use.
-
-The Subscriber is solely liable for the consequences arising from the misuse of his/her account by the Subscriber himself/herself or by a third party who has accessed the Subscriber’s account due to the Subscriber’s fault or negligence, and as a result, the Subscriber acknowledges that DEEZER and all its partners, co-contracting party(ies) or rights-holders cannot be held liable in this regard.
-
-### Article 8 – Price
-
-The subscription price is indicated on the Site and includes all taxes.
-
-DEEZER has the right to change the price of all subscription offers from time to time. DEEZER will inform each Subscriber by email to the address provided by the Subscriber at the time of subscription to the Deezer Web Service (or as subsequently updated on his/her account) of any price increase at least 15 (fifteen) days before it comes into effect. If the Subscriber does not accept this increase, he/she can cancel his/her subscription pursuant to Article 5.4 above; such cancellation will be come into effect on the next monthly subscription due date. If the Subscription is not cancelled, the new price will apply to the Subscriber from the following monthly subscription payment due date.
-
-Any increase in the rate of VAT (Value Added Tax) will be passed on automatically and immediately in the price of the Deezer Web Service. The same will apply should a new tax be created, based on the price of the Deezer Web Service and applicable to DEEZER. The conditions for cancellation applicable in the event of a change in price of the Deezer Web Service mentioned above will apply under the same conditions in the event of a price change arising from an increase in or the creation of new taxes.
-
-Subscribers are reminded that the connection and communication (Internet) costs relating to the use of the Deezer Web Service are not borne by DEEZER and are payable solely by the Subscriber.
-
-### Article 9 – Payment of the price
-
-Various payment methods are offered on the Site (credit cards, prepaid cards, PayPal and/or other payment methods).
-
-Depending on the subscription period chosen by the Subscriber, the Subscription price is paid either monthly or annually. The first payment will be made at the time of subscription, and thereafter payments will be made at the beginning of each month or year, by direct debit, until the subscription is cancelled, whether cancellation is initiated by the Subscriber or DEEZER.
-
-For optimised transaction security, DEEZER has chosen the payment systems of various companies with which it has entered into agreements. The guarantees given by DEEZER in terms of transaction security are identical to those obtained by DEEZER from these payment service providers.
-
-Unless the Subscriber provides evidence to the contrary, the computerised records kept within the computer systems of DEEZER and its partners in conditions of reasonable security will be treated as proof of communications, orders, validations and payments that have taken place between the Subscriber and DEEZER. This information shall be treated as valid proof between the Subscriber and DEEZER unless the Subscriber is able to provide written proof to the contrary.
-
-### Article 10 – Subscriber liability
-
-i) Each Subscriber can post messages, information and/or comments on the Site and the desktop Application. The Subscriber is solely liable for any messages, content or information published by him/her on the Site or desktop Application; DEEZER is considered to be an Internet service-hosting provider only and cannot be held liable for the content published by the Users on the Site or desktop Application, over which DEEZER has no control or supervision.
-
-To avoid being held liable, the Subscriber expressly agrees to ensure that any message published by him/her on the Site or desktop Application complies with the following requirements (this list is not exhaustive):
-
-\- Does not infringe third party intellectual property rights; the Subscriber therefore agrees not to publish content on the Site or desktop Application that is protected under copyright law, a registered trademark or more generally any content protected by any other intellectual property rights held by third parties without the prior consent of the owner or owners of said rights;
-
-\- Contains no computer virus able to interrupt, destroy or affect the Site or desktop Application’s features;
-
-\- Does not celebrate crime or criminal behaviour or contain illegal or threatening messages or content of a paedophile, pornographic, defamatory, obscene, hateful, racist, anti-Semitic, xenophobic or revisionist nature or contrary to public order and good manners;
-
-\- Does not infringe any right to privacy or promote disrespect for human dignity;
-
-\- Does not encourage violence, fanaticism, crime, suicide or hatred linked to religion, race, sex, sexual preferences or ethnicity;
-
-\- Does not harass other Users;
-
-\- Does not promote or encourage any criminal activity or enterprise;
-
-\- Does not request and/or disclose passwords and/or personal information for commercial or illegal purposes;
-
-\- Does not transmit email chains, mass unsolicited emails, instant messages, advertising messages and spam messages;
-
-\- Contains no advertising and/or canvassing in order to offer products and/or services to sell through the Site;
-
-\- Contains no addresses or Internet links transferring to an external website the content of which violates any applicable law and/or regulation, infringes third party rights or is in breach of the Terms.
-
-ii) The Subscriber agrees not to use any automated system such as scripts for the purpose of adding Users to his/her User account and/or sending comments or messages.
-
-iii) If the Subscriber breaches any law or infringes any third-party rights, DEEZER has the right to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities and police forces).
-
-### Article 11 – Disclaimer of warranties
-
-The Subscriber declares that he has been informed of the scope and limitations of the Internet network.
-
-As a result, DEEZER disclaims all liability for any malfunction in access to the Deezer Web Service, the speed at which the pages of the Site open and can be read, the listening speed of the tracks, the temporary or permanent inaccessibility of the Deezer Web Service, and the fraudulent use by third parties of the information provided on the Site.
-
-It is therefore the Subscriber’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER can never be held liable. DEEZER can never be held liable for any malfunction of or damage caused to the Subscriber’s equipment.
-
-More broadly, DEEZER disclaims any liability if a breach of any obligation results from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
-
-DEEZER disclaims all liability should it transpire that the Deezer Web Service is incompatible with certain equipment and/or features of the Subscriber’s equipment.
-
-Finally, the Subscriber is solely liable for his/her use of the Deezer Web Service and cannot hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The Subscriber shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the Subscriber’s use of the Deezer Web Service.
-
-### Article 12 – Intellectual property
-
-The general structure of the Site, the Application, the Deezer Web Service and all elements composing it (such as but not limited to the logos, domain names, tracks or videos, and their associated elements such as the photos, images, texts and biography of the authors, artists and/or any legal beneficiary on the tracks or videos, as well as the visuals on the packaging) are the exclusive property of DEEZER and/or its licensors (notably the record and video producers, the record companies, authors’ rights societies, etc.).
-
-These elements are protected by intellectual property law and other laws, and particularly copyright. The Subscriber may only use these elements for the purpose of using the Deezer Web Service, in accordance with the Terms.
-
-Any representation of all or part of the Site, the Application, the Deezer Web Service and/or the elements composing them (as described above), by any means, without the express consent of DEEZER, is therefore forbidden and would be treated as an infringement punishable by law.
-
-Any hyperlink to the Site and use of the “framing” technique (a programming technique that makes it possible to divide browser windows into separate frames in order to display the content of an external website) or the “in-line linking” technique (programming to make one element extracted from another site disappear into a web page, which saves storage space on the hard drive on which the Site is hosted and makes it possible to hide the initial content of which the element is part from an uninformed user) is strictly prohibited. Any unfair use of a DEEZER account (such use for instance aiming to artificially or abnormally increase the number of times certain specific music tracks are played), by any automated processes such as robots and scripts or any other means, is strictly prohibited.
-
-The Recordings made available on the Deezer Web Service are digital files protected by national and international copyright and related rights. They may only therefore be listened to within a private or family setting. Any use for a non-private purpose will render the Subscriber liable to civil and/or criminal proceedings. Any other use of the Recordings is strictly forbidden and more particularly any download or attempt to download, any transfer or attempt to transfer whether permanently or temporarily onto the hard drive of a computer or any other device (music players in particular), any ripping or burning or attempt to rip or burn any file or files onto a CD or any other medium is expressly forbidden. Any resale, exchange or renting of these files is strictly prohibited.
-
-The Subscriber acknowledges that the Recordings made available to him/her within the Site and Application are protected by protective technical measures set up by DEEZER in order to prevent or limit, depending on the technology offered, the unauthorised use of the Recordings.
-
-The Subscriber agrees not to bypass these protective technical measures by any means, for the purpose of downloading these files and enabling them to be stored on his/her reception terminal regardless of what that is (computer, mobile phone, music player or other portable music disc player, etc.).
-
-### Article 13 – Suspension and/or cancellation initiated by DEEZER or the Subscriber
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Deezer Web Service by a Subscriber and/or cancel his/her subscription to the Deezer Web Service without notice or compensation, in the event that the Subscriber:
-
-\- Does not comply with the Terms and especially:
-
-* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-* Uses or attempts to use multiple simultaneous connections to the same account;
-* Provides false information at the time of his/her subscription to the Deezer Web Service or subsequently.
-
-\- Fails to pay the subscription price in full or in part.
-
-\- Carries on activities prejudicial to DEEZER’s commercial interests.
-
-The Subscriber will be able to cancel his/her contract or subscription, without notice or compensation in favour of DEEZER, if DEEZER is in breach of its substantive obligations as defined in the Terms, or for legitimate reasons such as, in particular, his/her computer being stolen or on grounds of technical incompatibility of the Deezer Web Service with the Subscriber’s equipment.
-
-### Article 14 – Amendments of the Terms
-
-DEEZER has the right to amend the Terms at its sole discretion. DEEZER will inform the Subscriber by email to the email address given on the Subscriber’s account, of any amendments of the Terms at least 1 (one) month before they come into effect. If the Subscriber does not accept these amendments, he/she will be free to cancel his/her subscription from his/her account on the Site as set forth in Article 5.4 above, such cancellation becoming effective on the next monthly subscription due date. If the Subscriber does not cancel his/her subscription, the amended Terms will come into effect 1 (one) month following receipt of notification of the amendment of the Terms.
-
-### Article 15 – Community and Customer Service
-
-As part of his/her access to and use of the Deezer Web Service, DEEZER provides the Subscriber with a community, accessible through the deezercommunity.com website (the “Community”) where the Subscriber will in particular be able to find information regarding the Deezer Web Service and interact with other Subscribers.
-
-As part of the Community, the Subscriber will in particular be able to:
-
-\- consult and contribute to a forum through posts, reactions and comments;
-
-\- post images, links and other content;
-
-\- interact with other Subscribers, DEEZER’s moderators, and/or Customer Service through comments and/or private messages.
-
-Use of the Community is subject to acceptance of and compliance with its terms and conditions, available here: [https://en.deezercommunity.com/site/terms](https://en.deezercommunity.com/site/terms).
-
-As part of his/her access to and use of the Deezer Web Service, DEEZER also provides the Subscriber with a customer support service that can answer any questions the Subscriber might have about his/her account and the Services made available by DEEZER (the “Customer Service”).
-
-The Subscriber will be able to request information about (this list is not exhaustive):
-
-\- his/her access to and use of the Services provided by DEEZER;
-
-\- his/her account and changing his/her account information;
-
-\- his/her subscriptions and payments.
-
-The Subscriber can contact DEEZER through the Site by clicking on the “[Contact us](https://www.deezer.com/support)” section or writing to the following address:
-
-Deezer  
-24 rue de Calais 75009 Paris  
-FRANCE  
-
-Customer Service will make every effort to respond to such requests within a reasonable timeframe, but can make no guarantees or warranties of any kind that such requests will be handled within a timeframe corresponding to the Subscriber’s expectations, or that the Subscriber will be fully satisfied with the response.
-
-### Article 16 – Invalidity of any clause
-
-Should any of the clauses of the Terms be declared void or voidable for any reason, the other clauses will still apply without any modification.
-
-### Article 17 – Jurisdiction – Claims and disputes
-
-These Terms are governed by the law of the country where the Subscriber has his/her habitual residence.
-
-Any claim relating to the application of these Terms of Use must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE, for prompt processing.
-
-For Subscribers residing in a member state of the European Union, should a claim made by a Subscriber not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the Subscriber may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
-
-In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Subscriber has his/her habitual residence.
-
-﻿
-
-Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service
-------------------------------------------------------------------------------------------------------------------------------
-
-### Article 1 – General
-
-Welcome to the Terms of Use and Sale for the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
-
-These conditions of use and sale (hereinafter the “Terms”) govern exclusively the Deezer Premium Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site or the Application.
-
-The purpose of these Terms is to define the contractual and commercial relationship between DEEZER, on the one hand, and any subscriber to the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service (hereinafter the “Subscriber”), on the other hand.
-
-The use of the Site and of the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service is authorised for personal and private use only, therefore any other use, particularly in public premises and for businesses, is strictly forbidden.
-
-Subscription and access to the Deezer Premium Service, Deezer Family Service, Deezer Student Service and the Deezer Duo Service are strictly dependent on prior acceptance of all of these Terms (including the Privacy Policy) without restriction or reservation.
-
-### Article 2 – Presentation of the Deezer Premium Service
-
-The Deezer Premium Service is a service offered and operated by DEEZER that makes it possible, subject to consent to these Terms, to listen to unlimited sound recordings and other musical and cultural content (such as podcasts, radio stations and in certain territories, audiobooks) (hereinafter the “Recordings”) in high quality audio (than is made available through DEEZER’s other services, where available) and without any advertisements, on multiple devices and in “Offline Mode” as described hereunder.
-
-The Deezer Premium Service includes personalised music, playlists and other content recommendations.
-
-Once the Subscriber has signed up, he/she has access to all features of the Deezer Premium Service from the Site or the Application.
-
-The main characteristics of the Deezer Premium Service are as follows:
-
-\- Unlimited access, for the purpose of temporary downloading on three authorised devices (non-portable or portable devices) of Recordings included in the Deezer Premium Service music catalogue, in order to listen to them later when off-line;
-
-\- No advertising;
-
-\- High quality sound.
-
-The Deezer Premium Service can only be used on certain compatible devices. A list of these devices can be found [here](http://www.deezer.com/devices).
-
-The Deezer Premium Service is accessible to the Subscriber until the end of his/her subscription as stated on the subscription page of the Site at the time of subscribing or the cancellation of his/her subscription under the Terms hereunder.
-
-The Deezer Premium Service is accessible from a personal computer (PC or Mac) by connecting to the Site or desktop application or from a portable device through the Application, which needs to be downloaded by the Subscriber. The Deezer Premium Service is also accessible without an Internet connection, by clicking the “Offline Mode” button of the Application.
-
-By using the Offline Mode, the Subscriber can only access the Recordings and playlists that he/she has previously temporarily downloaded, from the Application, onto his/her device (non-portable or portable).
-
-Recordings or playlists can be temporarily downloaded through the Offline Mode button that appears on the pages of the Application. The downloaded tracks can then be listened to with no Internet connection or 3G/4G mobile technology, for the whole Subscription period, but cannot however be transferred to or burned onto any medium whatsoever.
-
-DEEZER informs the Subscriber that it declines all liability with regard to advertisements displayed within content provided and hosted by third parties and which may be integrated into and/or referred to on the Site or the Application.
-
-### Article 3 – Use of the Deezer Premium Service
-
-The use of the Deezer Premium Service requires a high-speed Internet connection and an Internet service for portable devices. These connections are not provided by DEEZER; the Subscriber must therefore first register with a high-speed Internet and/or mobile Internet offer in order to use the Deezer Premium Service.
-
-A mobile Internet connection via third or fourth generation (3G or 4G) mobile technology is highly recommended.
-
-The music catalogue available as part of the Deezer Premium Service is linked to the contracts in force with the rights-holders and may therefore be subject to change. DEEZER cannot guarantee the availability of any given track or album or any artist or group in the Deezer Premium Service catalogue. Moreover, DEEZER cannot guarantee that any given track, album, artist or group in the Deezer Premium Service catalogue will be available indefinitely. DEEZER incurs no liability for the withdrawal of any part of the catalogue content made available.
-
-As a Subscriber, you can activate the Deezer Premium Service on a personal computer (PC or Mac) and a compatible portable device registered with the Deezer Premium Service. The Deezer Premium Service is only accessible from one connection at a time (registered personal computer or compatible portable device). DEEZER has the technical means to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections.
-
-### Article 4 – Availability and modification of the Deezer Premium Service
-
-The Deezer Premium Service can be accessed 24 hours a day, seven days a week, within the limit of the Terms and the terms of Article 10 hereunder.
-
-The Recordings made available within the Deezer Premium Service are determined based on the country where the Subscriber has subscribed to the Deezer Premium Service (his/her country of residence). In accordance with Regulation (EU) 2017/1128 on cross-border portability of online content services in the internal market, any Subscriber who has subscribed to the Deezer Premium Service from a member state of the European Union will have access to the same content in the same manner when using the Deezer Premium Service while temporarily present in another member state, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-Any Subscriber who has subscribed to the Deezer Premium Service outside the European Union will also be given access to the same content in the same manner when using the Deezer Premium Service while temporarily present in another country, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-DEEZER has the right to make any changes or improvements to the Deezer Premium Service as it deems necessary. DEEZER nevertheless guarantees that it will not affect the quality or substantially change the features of the Deezer Premium Service.
-
-In addition, DEEZER has the right to temporarily remove access to the Deezer Premium Service, without prior notice or compensation, where necessary to carry out maintenance or ensure continuity of service. The Subscriber acknowledges that DEEZER cannot be held liable and thus waives any right to compensation and/or action against DEEZER in that respect. Notice of temporary interruptions in the Deezer Premium Service will be given on the Site at least 24 (twenty-four) hours before they occur, unless they are urgent. DEEZER is also entitled to shut the Service down permanently with no compensation payable. Notice of the permanent shutdown of the Deezer Premium Service will be given via the Site or Application, at least 1 (one) month before it occurs. The Subscriber will no longer be liable for any payment from the date of the Deezer Premium Service shutdown.
-
-### Article 5 – Absence of the right of withdrawal – period – renewal – cancellation – upgrade to the Deezer Premium Service
-
-#### 5.1 No right of withdrawal (cooling-off period)
-
-The Subscriber expressly recognises and accepts that the supply of the Deezer Premium Service starts at the time his/her subscription is confirmed and acknowledges that consequently he/she loses his/her right to withdraw from the subscription. Accordingly, no request for withdrawal, cancellation or refund will be accepted once the subscription is confirmed.
-
-#### 5.2 Period – Trials and discovery offers
-
-DEEZER offers a monthly subscription (or any other period depending on the offers made on the Site or the Application).
-
-Some trial or discovery periods of the Deezer Premium Service of a different duration may be offered on the Site or the Application, temporarily or otherwise. Unless stated otherwise, these trial and discovery periods will be subject to these Terms and will be limited to one subscription (same IP (Internet Protocol) address and/or same email address) whatever the trial or discovery offer.
-
-#### 5.3 Renewal
-
-Unless cancelled by the Subscriber pursuant to Article 5.4, and unless the Subscriber uses a non-recurring payment method, the subscription to the Service renews automatically for exactly the same duration as the initial period. Therefore, if the Subscriber takes out a monthly subscription, such subscription will be renewed automatically each month.
-
-Certain trial or discovery offers are subject to the provision of credit card details. Unless stated otherwise on the Site or Application or in the Terms, and unless the subscription is cancelled by the Subscriber pursuant to Article 5.4, any trial or discovery offer is automatically converted into a monthly subscription at the price stated in the offer or, otherwise, at the price applicable to the monthly subscription to the Deezer Premium Service.
-
-#### 5.4 Cancellation
-
-Where a subscription is taken out directly from the Site or Application, in order to cancel his/her subscription the Subscriber must go to his/her account and click “Cancel my subscription”. Cancellation will be effective at the end of the current subscription period, if made at least 48 (forty-eight) hours before the end of the period. For a trial or discovery period, cancellation occurs at the date and time of cancellation as indicated in the Subscriber’s account, unless stated otherwise on the Site.
-
-If the subscription was taken out via a third-party website (such as iTunes for example), the Subscriber must first check the cancellation conditions for his/her subscription in the “My account” section of the Site, then follow the instructions to cancel the subscription. The Subscriber should be aware that conditions (how to cancel, within what timeframe, etc.) may vary from one third-party platform to another.
-
-#### 5.5 Upgrade to the Deezer Premium Service
-
-If the Subscriber switches from the Deezer Web Service to the Deezer Premium Service, the upgrade will take effect immediately as authorised by DEEZER. Henceforth, DEEZER will immediately charge the Subscriber for the newly activated Deezer Premium Service subscription, regardless of whether the subscription period for the Deezer Web Service has come to an end, meaning that if the Subscriber is upgrading to the Deezer Premium Service during the Deezer Web Service subscription period, DEEZER will charge the Subscriber for both Services until the Subscriber cancels his/her subscription to the Deezer Web Service.
-
-There will be no refund of the price paid for the Deezer Web Service subscription due to the upgrade.
-
-### Article 6 – Terms of access to the Deezer Premium Service
-
-The Subscriber declares that he/she has the capacity to agree to these Terms; this means that he/she is of the legal age required and not under any legal protection measure (such as legal guardianship).
-
-The Subscriber declares that he/she is a resident in a country where the Deezer Premium Service is available and that he/she is the owner of a credit card issued by a bank in the same country.
-
-### Article 7 – Creation of an account
-
-In order to subscribe to the Deezer Premium Service, every Subscriber must:
-
-\- Create an account on the Site or download and create an account on the Application or, if the Subscriber is already registered, log in to the Site or Application;
-
-\- Provide the information requested on the subscription form;
-
-\- Give his/her consent to the Terms;
-
-\- Pay the price for his/her subscription via one of the payment systems offered;
-
-\- Confirm his/her subscription.
-
-The Subscriber agrees to provide true, accurate and genuine information about himself/herself in connection with his/her registration with the Site, the Application and the Deezer Premium Service.
-
-Once his/her registration has been approved, DEEZER will send the Subscriber a confirmation email to the email address given at the time of registration.
-
-Subject to the other conditions of the Terms, subscription to the Deezer Premium Service will become effective only once DEEZER sends the aforementioned confirmation email. DEEZER recommends that the Subscriber saves and/or prints out this email.
-
-The Subscriber can change the password given on his/her account at any time by clicking the “My information” section.
-
-The Subscriber agrees to inform DEEZER, without delay, of any change or update to the information provided at the time of subscribing to the Deezer Premium Service and any change in his/her email address or bank details in particular. The Subscriber can change any of his/her information at any time on his/her account on the Site by clicking the “My information” section.
-
-The Subscriber must immediately inform DEEZER of any loss or unauthorised use of his/her account, identification details or password. The passwords and identification details are personal and the Subscriber undertakes not to disclose them. As a result, the Subscriber is solely responsible for their use.
-
-The Subscriber is solely liable for the consequences arising from the misuse of his/her account by the Subscriber himself/herself or by a third party who has accessed the Subscriber’s account due to the Subscriber’s fault or negligence, and as a result, the Subscriber acknowledges that DEEZER and all its partners, co-contracting party(ies) or rights-holders cannot be held liable in this regard.
-
-### Article 8 – Price
-
-The subscription price is stated on the Site or in the Application and is inclusive of all taxes.
-
-DEEZER has the right to change the price of all subscription offers from time to time. DEEZER will inform each Subscriber by email to the address provided by the Subscriber at the time of subscription to the Deezer Premium Service (or as subsequently updated on his/her account) of any price increase at least 15 (fifteen) days before it comes into effect. If the Subscriber does not accept this increase, he/she can cancel his/her subscription pursuant to Article 5.4 above; such cancellation will be come into effect on the next monthly subscription due date. If the Subscription is not cancelled, the new price will apply to the Subscriber from the following monthly subscription payment due date.
-
-Any increase in the rate of VAT (Value Added Tax) will be passed on automatically and immediately in the price of the Deezer Premium Service. The same will apply should a new tax be created, based on the price of the Deezer Premium Service and applicable to DEEZER. The conditions for cancellation applicable in the event of a change in price of the Deezer Premium Service mentioned above will apply under the same conditions in the event of a price change arising from an increase in or the creation of new taxes.
-
-Subscribers are reminded that the connection and communication (Internet) costs relating to the use of the Deezer Premium Service are not borne by DEEZER and are payable solely by the Subscriber.
-
-### Article 9 – Payment of the price
-
-Various payment methods are offered on the Site (credit cards, prepaid cards, PayPal and/or other payment methods).
-
-Depending on the subscription period chosen by the Subscriber, the Subscription price is paid either monthly or annually. The first payment will be made at the time of subscription, and thereafter payments will be made at the beginning of each month or year, by direct debit, until the subscription is cancelled, whether cancellation is initiated by the Subscriber or DEEZER.
-
-For optimised transaction security, DEEZER has chosen the payment systems of various companies with which it has entered into agreements. The guarantees given by DEEZER in terms of transaction security are identical to those obtained by DEEZER from these payment service providers.
-
-Unless the Subscriber provides evidence to the contrary, the computerised records kept within the computer systems of DEEZER and its partners in conditions of reasonable security will be treated as proof of communications, orders, validations and payments that have taken place between the Subscriber and DEEZER. This information shall be treated as valid proof between the Subscriber and DEEZER unless the Subscriber is able to provide written proof to the contrary.
-
-### Article 10 – Subscriber liability
-
-i) Each Subscriber can post messages, information and/or comments on the Site and the desktop Application. The Subscriber is solely liable for any messages, content or information published by him/her on the Site or desktop Application; DEEZER is considered to be an Internet service-hosting provider only and cannot be held liable for the content published by the Users on the Site or desktop Application, over which DEEZER has no control or supervision.
-
-To avoid being held liable, the Subscriber expressly agrees to ensure that any message published by him/her on the Site or desktop Application complies with the following requirements (this list is not exhaustive):
-
-\- Does not infringe third party intellectual property rights; the Subscriber therefore agrees not to publish content on the Site or desktop Application that is protected under copyright law, a registered trademark or more generally any content protected by any other intellectual property rights held by third parties without the prior consent of the owner or owners of said rights;
-
-\- Contains no computer virus able to interrupt, destroy or affect the Site or desktop Application’s features;
-
-\- Does not celebrate crime or criminal behaviour or contain illegal or threatening messages or content of a paedophile, pornographic, defamatory, obscene, hateful, racist, anti-Semitic, xenophobic or revisionist nature or contrary to public order and good manners;
-
-\- Does not infringe any right to privacy or promote disrespect for human dignity;
-
-\- Does not encourage violence, fanaticism, crime, suicide or hatred linked to religion, race, sex, sexual preferences or ethnicity;
-
-\- Does not harass other Users;
-
-\- Does not promote or encourage any criminal activity or enterprise;
-
-\- Does not request and/or disclose passwords and/or personal information for commercial or illegal purposes;
-
-\- Does not transmit email chains, mass unsolicited emails, instant messages, advertising messages and spam messages;
-
-\- Contains no advertising and/or canvassing in order to offer products and/or services to sell through the Site or the Application;
-
-\- Contains no addresses or Internet links transferring to an external website the content of which violates any applicable law and/or regulation, infringes third party rights or is in breach of the Terms.
-
-ii) The Subscriber agrees not to use any automated system such as scripts for the purpose of adding Users to his/her User account and/or sending comments or messages.
-
-iii) If the Subscriber breaches any law or infringes any third-party rights, DEEZER has the right to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities and police forces).
-
-### Article 11 – Disclaimer of warranties
-
-The Subscriber declares that he has been informed of the scope and limitations of the Internet network.
-
-As a result, DEEZER disclaims all liability for any malfunction in access to the Deezer Premium Service, the speed at which the pages of the Site or Application open and can be read, the listening speed of any tracks, the temporary or permanent inaccessibility of the Deezer Premium Service, and the fraudulent use by third parties of the information provided on the Site or Application.
-
-It is therefore the Subscriber’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER can never be held liable. DEEZER can never be held liable for any malfunction of or damage caused to the Subscriber’s equipment.
-
-More broadly, DEEZER disclaims any liability if a breach of any obligation results from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
-
-DEEZER disclaims all liability should it transpire that the Deezer Premium Service is incompatible with certain equipment and/or features of the Subscriber’s equipment.
-
-Finally, the Subscriber is solely liable for his/her use of the Deezer Premium Service and cannot hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The Subscriber shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the Subscriber’s use of the Deezer Premium Service.
-
-### Article 12 – Intellectual property
-
-The general structure of the Site, the Application, the Deezer Premium Service and all elements composing it (such as but not limited to the logos, domain names, tracks or videos, and their associated elements such as the photos, images, texts and biography of the authors, artists and/or any legal beneficiary on the tracks or videos, as well as the visuals on the packaging) are the exclusive property of DEEZER and/or its licensors (notably the record and video producers, the record companies, authors’ rights societies, etc.).
-
-These elements are protected by intellectual property law and other laws, and particularly copyright. The Subscriber may only use these elements for the purpose of using the Deezer Premium Service, in accordance with the Terms.
-
-Any representation of all or part of the Site, the Application, the Deezer Premium Service and/or the elements composing them (as described above), by any means, without the express consent of DEEZER, is therefore forbidden and would be treated as an infringement punishable by law.
-
-Any hyperlink to the Site and use of the “framing” technique (a programming technique that makes it possible to divide browser windows into separate frames in order to display the content of an external website) or the “in-line linking” technique (programming to make one element extracted from another site disappear into a web page, which saves storage space on the hard drive on which the Site is hosted and makes it possible to hide the initial content of which the element is part from an uninformed user) is strictly prohibited. Any unfair use of a DEEZER account (such use for instance aiming to artificially or abnormally increase the number of times certain specific music tracks are played), by any automated processes such as robots and scripts or any other means, is strictly prohibited.
-
-The Recordings made available on the Deezer Premium Service are digital files protected by national and international copyright and related rights. They may only therefore be listened to within a private or family setting. Any use for a non-private purpose will render the Subscriber liable to civil and/or criminal proceedings. Any other use of the Recordings is strictly forbidden and more particularly any download or attempt to download, any transfer or attempt to transfer whether permanently or temporarily onto the hard drive of a computer or any other device (music players in particular), any ripping or burning or attempt to rip or burn any file or files onto a CD or any other medium is expressly forbidden. Any resale, exchange or renting of these files is strictly prohibited.
-
-The Subscriber acknowledges that the Recordings made available to him/her within the Site and Application are protected by protective technical measures set up by DEEZER in order to prevent or limit, depending on the technology offered, the unauthorised use of the Recordings.
-
-The Subscriber agrees not to bypass these protective technical measures by any means, for the purpose of downloading these files and enabling them to be stored on his/her reception terminal regardless of what that is (computer, mobile phone, music player or other portable music disc player, etc.).
-
-### Article 13 – Suspension and/or cancellation initiated by DEEZER or the Subscriber
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Deezer Premium Service by a Subscriber and/or cancel his/her subscription to the Deezer Premium Service without notice or compensation, in the event that the Subscriber:
-
-\- Does not comply with the Terms and especially:
-
-* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-* Uses or attempts to use multiple simultaneous connections to the same account;
-* Provides false information at the time of his/her subscription to the Deezer Premium Service or subsequently.
-
-\- Fails to pay the subscription price in full or in part.
-
-\- Carries on activities prejudicial to DEEZER’s commercial interests.
-
-The Subscriber will be able to cancel his/her contract or subscription, without notice or compensation in favour of DEEZER, if DEEZER is in breach of its substantive obligations as defined in the Terms, or for legitimate reasons such as, in particular, his/her computer being stolen or on grounds of technical incompatibility of the Deezer Premium Service with the Subscriber’s equipment.
-
-### Article 14 – Amendments of the Terms
-
-DEEZER has the right to amend the Terms at its sole discretion. DEEZER will inform the Subscriber by email to the email address given on the Subscriber’s account, of any amendments of the Terms at least 1 (one) month before they come into effect. If the Subscriber does not accept these amendments, he/she will be free to cancel his/her subscription from his/her account on the Site as set forth in Article 5.4 above, such cancellation becoming effective on the next monthly subscription due date. If the Subscriber does not cancel his/her subscription, the amended Terms will come into effect 1 (one) month following receipt of notification of the amendment of the Terms.
-
-### Article 15 – Community and Customer Service
-
-As part of his/her access to and use of the Deezer Premium Service, DEEZER provides the Subscriber with a community, accessible through the deezercommunity.com website (the “Community”) where the Subscriber will in particular be able to find information regarding the Deezer Premium Service and interact with other Subscribers.
-
-As part of the Community, the Subscriber will in particular be able to:
-
-\- consult and contribute to a forum through posts, reactions and comments;
-
-\- post images, links and other content;
-
-\- interact with other Subscribers, DEEZER’s moderators, and/or Customer Service through comments and/or private messages.
-
-Use of the Community is subject to acceptance of and compliance with its terms and conditions, available here: [https://en.deezercommunity.com/site/terms](https://en.deezercommunity.com/site/terms).
-
-As part of his/her access to and use of the Deezer Premium Service, DEEZER also provides the Subscriber with a customer support service that can answer any questions the Subscriber might have about his/her account and the Services made available by DEEZER (the “Customer Service”).
-
-The Subscriber will be able to request information about (this list is not exhaustive):
-
-\- his/her access to and use of the Services provided by DEEZER;
-
-\- his/her account and changing his/her account information;
-
-\- his/her subscriptions and payments.
-
-The Subscriber can contact DEEZER through the Site by clicking on the “[Contact us](https://www.deezer.com/support)” section or writing to the following address:
-
-Deezer  
-24 rue de Calais 75009 Paris  
-FRANCE  
-
-Customer Service will make every effort to respond to such requests within a reasonable timeframe, but can make no guarantees or warranties of any kind that such requests will be handled within a timeframe corresponding to the Subscriber’s expectations, or that the Subscriber will be fully satisfied with the response.
-
-### Article 16 – Invalidity of any clause
-
-Should any of the clauses of the Terms be declared void or voidable for any reason, the other clauses will still apply without any modification.
-
-### Article 17 – Jurisdiction – Claims and disputes
-
-These Terms are governed by the law of the country where the Subscriber has his/her habitual residence.
-
-Any claim relating to the application of these Terms of Use must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE, for prompt processing.
-
-For Subscribers residing in a member state of the European Union, should a claim made by a Subscriber not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the Subscriber may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
-
-In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Subscriber has his/her habitual residence.
-
-### Article 18 – Specific conditions for the Deezer Family Service
-
-These Terms, which govern the Deezer Premium Service provided by DEEZER, also apply in full to the Deezer Family Service (as defined below), except for the specific provisions below.
-
-The Deezer Family Service enables the members of the same household to access the Deezer Family Service by creating a master account to which up to five (5) accounts can be linked. The linked accounts will be created by the Subscriber, who shall have parental authority or parental authorisation in order to create an account for a minor under 16. The users of all such linked accounts benefit from the same features as provided by the Deezer Premium Service, except for the community features. All users of the Deezer Family Service can access and use the service simultaneously.
-
-However, it is hereby specified that in accordance with the agreements in effect between DEEZER and the rights-holders, some tracks available in the Deezer Premium Service music catalogue may not be available through the Deezer Family Service. As a result, the Subscriber who has signed up for the Deezer Family Service would lose access to such tracks on all his/her accounts including the one created to access his/her Deezer Premium Service subscription.
-
-The Deezer Family Service subscription and its use are restricted to members of the same household residing at the same address. Therefore, DEEZER reserves the right, at its discretion, to ask the Subscriber at any time for proof that this requirement is fulfilled.
-
-Subscription to the Deezer Family Service is not available for:
-
-* any person who wishes to subscribe via iTunes;
-* any person who uses as means of payment the first version of the Paypal app;
-* subscribers to the Deezer Premium Service who have signed up for a 12-month subscription.
-
-Deezer Premium subscribers who wish to subscribe to the Deezer Family Service are informed that by subscribing to the Deezer Family Service, they will be charged immediately for the amount of the monthly subscription fee for the Deezer Family Service and at the same time, their subscription to the Deezer Premium Service will be cancelled automatically by DEEZER. Any current monthly subscription to the Deezer Premium Service already paid for will not be refunded.
-
-In respect of the Deezer Family Service, the Subscriber who holds the master account is liable for compliance by all users of the linked accounts with the Terms.
-
-In respect of the Deezer Family Service, temporary downloading is available for the master account on up to three (3) authorised devices and on up to two (2) authorised devices for each linked account.
-
-The Deezer Family Service is available through only one connection per account at a time. DEEZER implements technical measures to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections. Linked accounts can be created and deleted through the “Settings” page of the master account. Access to the Deezer Family Service for users of the linked accounts is available through the “Settings” page of the master account.
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend and/or cancel, without notice or compensation, access to the Deezer Family Service by a Subscriber as provided for in Article 13 of the Terms, if the Subscriber or one of the users of a linked account does not comply with the Terms.
-
-### Article 19 – Specific conditions for the Deezer Student Service
-
-These Terms, which govern the Deezer Premium Service provided by DEEZER, also apply in full to the Deezer Student Service (as defined below), except for the specific provisions below.
-
-The Deezer Student Service is only available to students aged 18 to 25 who are enrolled in a college or university in a country where the Service is available. DEEZER has appointed a partner to make sure the Subscriber is eligible for the Deezer Student Service when subscribing to the Service for the first time and before each renewal. DEEZER also reserves the right to check such eligibility at any time.
-
-Subscription to the Deezer Student Service is not available for:
-
-* subscribers to the Deezer Premium Service (full price);
-* subscribers to the Deezer HiFi Service;
-* beneficiaries of a current promotional offer.
-
-In any of the above cases, in order to subscribe to the Deezer Student Service, the ongoing subscription or promotional offer must first be cancelled or have expired.
-
-Subscription to the Deezer Student Service is not available via iTunes or via telecommunications operator partners.
-
-Finally, the holder of a Deezer Family Service master account is not eligible to subscribe to the Deezer Student Service.
-
-The Deezer Student Service is available for a maximum of twelve consecutive months and can be renewed up to three times per Subscriber; each renewal period is limited to twelve consecutive months. If the Deezer Student Service is cancelled for whatever reason at any time, such cancellation is permanent and the Subscriber will no longer be eligible for the Deezer Student Service.
-
-At the end of the Deezer Student Service (including if the subscription is not renewed by the Subscriber), the Deezer Student Service shall be automatically converted into a full price Deezer Premium subscription. As a result, the Subscriber will be charged for the full price of the monthly Deezer Premium Service until cancellation of his/her subscription; the Subscriber is hereby informed that he/she can cancel his/her subscription at any time, as per the cancellation terms hereunder.
-
-### Article 20 – Specific conditions for the Deezer Duo Service
-
-These Terms, which govern the Deezer Premium Service provided by DEEZER, also apply in full to the Deezer Duo Service (as defined below), except for the specific provisions below. The Deezer Duo Service may only be accessible to certain users and/or within certain territories. You may not be offered to subscribe to this offer in your country.
-
-The Deezer Duo Service enables the members of the same household to access the Deezer Duo Service by creating a master account to which another account or a profile can be linked. The linked profile will be created by the Subscriber, who shall have parental authority or parental authorisation in order to create a profile for a minor under 16. The linked account will be invited by the master account via email. The user of such a linked account or profile benefits from the same features as provided by the Deezer Premium Service, except for the community features. All users of the Deezer Duo Service can access and use the service simultaneously.
-
-However, it is hereby specified that in accordance with the agreements in effect between DEEZER and the rights-holders, some tracks available in the Deezer Premium Service music catalogue may not be available through the Deezer Duo Service. As a result, the Subscriber who has signed up for the Deezer Duo Service would lose access to such tracks on all his/her accounts including the one created to access his/her Deezer Premium Service subscription.
-
-The Deezer Duo Service subscription and its use are restricted to members of the same household residing at the same address. Therefore, DEEZER reserves the right, at its discretion, to ask the Subscriber at any time for proof that this requirement is fulfilled.
-
-Subscription to the Deezer Duo Service is not available for any person who uses as means of payment an old version of the Paypal app.
-
-Deezer Premium subscribers who wish to subscribe to the Deezer Duo Service are informed that by subscribing to the Deezer Duo Service, they will be charged immediately for the amount of the monthly subscription fee for the Deezer Duo Service and at the same time, their subscription to the Deezer Premium Service will be cancelled automatically by DEEZER. Any current monthly subscription to the Deezer Premium Service already paid for will not be refunded.
-
-In respect of the Deezer Duo Service, the Subscriber who holds the master account is liable for compliance by the other user of the linked account or profile with the Terms.
-
-In respect of the Deezer Duo Service, temporary downloading is available for the master account on up to three (3) authorised devices and on up to two (2) authorised devices for each linked account or profile.
-
-The Deezer Duo Service is available through only one connection per account or profile at a time. DEEZER implements technical measures to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections. The linked account can be created and deleted through the “Settings” page of the master account. Access to the Deezer Duo Service for the user of the linked account or profile is available through the “Settings” page of the master account.
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend and/or cancel, without notice or compensation, access to the Deezer Duo Service by a Subscriber as provided for in Article 13 of the Terms, if the Subscriber or one the user of a linked account or profile does not comply with the Terms.
-
-﻿
-
-Terms of Use and Sale for the Deezer HiFi Service
--------------------------------------------------
-
-### Article 1 – General
-
-Welcome to the Terms of Use and Sale for the Deezer HiFi Service, which includes the website accessible at http://www.deezer.com (hereinafter the “Site”), and its desktop, tablet and mobile applications (hereinafter the “Application”). The Site and Application are created, developed and operated by DEEZER S.A. (hereinafter “DEEZER”) a French corporation listed in the Trade and Companies Register under number 898 969 852, the registered office of which is located at 24 rue de Calais 75009 Paris – FRANCE.
-
-These conditions of use and sale (hereinafter the “Terms”) alone govern the Deezer HiFi Service provided by DEEZER. These conditions apply to the exclusion of any other terms, particularly those that apply to other Services – free or paid – offered on the Site or the Application.
-
-The purpose of these Terms is to define the contractual and commercial relationship between DEEZER, on the one hand, and any subscriber to the Deezer HiFi Service (hereinafter the “Subscriber”), on the other hand.
-
-The use of the Site and of the Deezer HiFi Service is authorised for personal and private use only; any other use, particularly in public premises and for businesses, is therefore strictly forbidden.
-
-Subscription and access to the Deezer HiFi Service are strictly dependent on prior acceptance of all of these Terms (including the Privacy Policy) without restriction or reservation.
-
-### Article 2 – Presentation of the Deezer HiFi Service
-
-The Deezer HiFi Service is a service offered and operated by DEEZER that makes it possible, subject to consent to these Terms, to listen to unlimited sound recordings and other musical and cultural content (such as podcasts, radio stations and in certain territories, audiobooks) (hereinafter the “Recordings”) in higher quality audio (than is made available through DEEZER’s other services, where available) and without any advertisements, on multiple devices and in “Offline Mode” as described hereunder.
-
-The Deezer HiFi Service includes personalised music, playlists and other content recommendations.
-
-Once the Subscriber has signed up, he/she has access to all features of the Deezer HiFi Service from the Site or the Application.
-
-The main characteristics of the Deezer HiFi Service are as follows:
-
-\- Unlimited access, for the purpose of temporary downloading on three authorised devices (non-portable or portable devices) of Recordings included in the Deezer HiFi Service music catalogue, in order to listen to them later when off-line;
-
-\- No advertising;
-
-\- The majority of the music tracks available are in the following format: FLAC audio bitstream data (CD quality, 16 bits, stereo, 44.1 kHz).
-
-The Deezer HiFi Service can only be used on certain compatible devices. A list of these devices can be found [here](http://www.deezer.com/devices).
-
-The Deezer HiFi Service is accessible to the Subscriber until the end of his/her subscription as stated on the subscription page of the Site at the time of subscribing or the cancellation of his/her subscription under the Terms hereunder.
-
-The Deezer HiFi Service is accessible from a personal computer (PC or Mac) by connecting to the Site or desktop application or from a portable device through the Application, which needs to be downloaded by the Subscriber. The Deezer HiFi Service is also accessible without an Internet connection, by clicking the “Offline Mode” button of the Application.
-
-By using the Offline Mode, the Subscriber can only access the Recordings and playlists that he/she has previously temporarily downloaded, from the Application, onto his/her device (non-portable or portable).
-
-Recordings or playlists can be temporarily downloaded through the Offline Mode button that appears on the pages of the Application. The downloaded tracks can then be listened to with no Internet connection or 3G/4G mobile technology, for the whole Subscription period, but cannot however be transferred to or burned onto any medium whatsoever.
-
-DEEZER informs the Subscriber that it declines all liability with regard to advertisements displayed within content provided and hosted by third parties and which may be integrated into and/or referred to on the Site or the Application.
-
-### Article 3 – Use of the Deezer HiFi Service
-
-The use of the Deezer HiFi Service requires a high-speed Internet connection and an Internet service for portable devices. These connections are not provided by DEEZER; the Subscriber must therefore first register with a high-speed Internet and/or mobile Internet offer in order to use the Service.
-
-A mobile Internet connection via third or fourth generation (3G or 4G) mobile technology is highly recommended.
-
-The music catalogue available as part of the Deezer HiFi Service is linked to the contracts in force with the rights-holders and may therefore be subject to change. DEEZER cannot guarantee the availability of any given track or album or any artist or group in the Deezer HiFi Service catalogue. Moreover, DEEZER cannot guarantee that any given track, album, artist or group in the Deezer HiFi Service catalogue will be available indefinitely. DEEZER incurs no liability for the withdrawal of any part of the catalogue content made available.
-
-As a Subscriber, you can activate the Deezer HiFi Service on a personal computer (PC or Mac) and a compatible portable device registered with the Deezer HiFi Service. The Deezer HiFi Service is only accessible from one connection at a time (registered personal computer or compatible portable device). DEEZER has the technical means to verify multiple simultaneous connections from the same account and is therefore able to detect any attempts at multiple connections.
-
-### Article 4 – Availability and modification of the Deezer HiFi Service
-
-The Deezer HiFi Service can be accessed 24 hours a day, seven days a week, within the limit of the Terms and the terms of Article 10 hereunder.
-
-The Recordings made available within the Deezer HiFi Service are determined based on the country where the Subscriber has subscribed to the Deezer HiFi Service (his/her country of residence). In accordance with Regulation (EU) 2017/1128 on cross-border portability of online content services in the internal market, any Subscriber who has subscribed to the Deezer HiFi Service from a member state of the European Union will have access to the same content in the same manner when using the Deezer HiFi Service while temporarily present in another member state, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-Any Subscriber who has subscribed to the Deezer HiFi Service outside the European Union will also be given access to the same content in the same manner when using the Deezer HiFi Service while temporarily present in another country, at no additional cost. However, DEEZER cannot guarantee the same quality of service as provided in the Subscriber’s country of residence.
-
-DEEZER has the right to make any changes or improvements to the Deezer HiFi Service as it deems necessary. DEEZER nevertheless guarantees that it will not affect the quality or substantially change the features of the Deezer HiFi Service.
-
-In addition, DEEZER has the right to temporarily remove access to the Deezer HiFi Service, without prior notice or compensation, where necessary to carry out maintenance or ensure continuity of service. The Subscriber acknowledges that DEEZER cannot be held liable and thus waives any right to compensation and/or action against DEEZER in that respect. Notice of temporary interruptions in the Deezer HiFi Service will be given on the Site at least 24 (twenty-four) hours before they occur, unless they are urgent. DEEZER is also entitled to shut the Service down permanently with no compensation payable. Notice of the permanent shutdown of the Deezer HiFi Service will be given via the Site or Application, at least 1 (one) month before it occurs. The Subscriber will no longer be liable for any payment from the date of the Deezer HiFi Service shutdown.
-
-### Article 5 – Absence of the right of withdrawal – period – renewal – cancellation – upgrade to the Deezer HiFi Service
-
-#### 5.1 No right of withdrawal (cooling-off period)
-
-The Subscriber expressly recognises and accepts that the supply of the Deezer HiFi Service starts at the time his/her subscription is confirmed and acknowledges that consequently he/she loses his/her right to withdraw from the subscription. Accordingly, no request for withdrawal, cancellation or refund will be accepted once the subscription is confirmed.
-
-#### 5.2 Period – Trials and discovery offers
-
-DEEZER offers a monthly subscription (or any other period depending on the offers made on the Site or the Application).
-
-Some trial or discovery periods of the Deezer HiFi Service of a different duration may be offered on the Site or the Application, temporarily or otherwise. Unless stated otherwise, these trial and discovery periods will be subject to these Terms and will be limited to one subscription (same IP (Internet Protocol) address and/or same email address) whatever the trial or discovery offer.
-
-#### 5.3 Renewal
-
-Unless cancelled by the Subscriber pursuant to Article 5.4, and unless the Subscriber uses a non-recurring payment method, the subscription to the Service renews automatically for exactly the same duration as the initial period. Therefore, if the Subscriber takes out a monthly subscription, such subscription will be renewed automatically each month.
-
-Certain trial or discovery offers are subject to the provision of credit card details. Unless stated otherwise on the Site or Application or in the Terms, and unless the subscription is cancelled by the Subscriber pursuant to Article 5.4, any trial or discovery offer is automatically converted into a monthly subscription at the price stated in the offer or, otherwise, at the price applicable to the monthly subscription to the Deezer HiFi Service.
-
-#### 5.4 Cancellation
-
-Where a subscription is taken out directly from the Site or Application, in order to cancel his/her subscription the Subscriber must go to his/her account and click “Cancel my subscription”. Cancellation will be effective at the end of the current subscription period, if made at least 48 (forty-eight) hours before the end of the period. For a trial or discovery period, cancellation occurs at the date and time of cancellation as indicated in the Subscriber’s account, unless stated otherwise on the Site.
-
-If the subscription was taken out via a third-party website (such as iTunes for example), the Subscriber must first check the cancellation conditions for his/her subscription in the “My account” section of the Site, then follow the instructions to cancel the subscription. The Subscriber should be aware that conditions (how to cancel, within what timeframe, etc.) may vary from one third-party platform to another.
-
-#### 5.5 Upgrade to the Deezer HiFi Service
-
-If the Subscriber switches from the Deezer Web Service or the Deezer Premium Service to the Deezer HiFi Service, the upgrade will take effect immediately as authorised by DEEZER. Henceforth, DEEZER will immediately charge the Subscriber for the newly activated Deezer HiFi Service subscription, regardless of whether the subscription period for the Deezer Web Service or the Deezer Premium Service has come to an end, meaning that if the Subscriber is upgrading to the Deezer HiFi Service during the Deezer Web Service or Deezer Premium Service subscription period, DEEZER will charge the Subscriber for both Services until the Subscriber cancels his/her subscription to the Deezer Web Service or the Deezer Premium Service.
-
-There will be no refund of the price paid for the Deezer Web or Deezer Premium Service subscription due to the upgrade.
-
-### Article 6 – Terms of access to the Deezer HiFi Service
-
-The Subscriber declares that he/she has the capacity to agree to these Terms; this means that he/she is of the legal age required and not under any legal protection measure (such as legal guardianship).
-
-The Subscriber declares that he/she is a resident in a country where the Deezer HiFi Service is available and that he/she is the owner of a credit card issued by a bank in the same country.
-
-### Article 7 – Creation of an account
-
-In order to subscribe to the Deezer HiFi Service, every Subscriber must:
-
-\- Create an account on the Site or download and create an account on the Application or, if the Subscriber is already registered, log in to the Site or Application;
-
-\- Provide the information requested on the subscription form;
-
-\- Give his/her consent to the Terms;
-
-\- Pay the price for his/her subscription via one of the payment systems offered;
-
-\- Confirm his/her subscription.
-
-The Subscriber agrees to provide true, accurate and genuine information about himself/herself in connection with his/her registration with the Site, the Application and the Deezer HiFi Service.
-
-Once his/her registration has been approved, DEEZER will send the Subscriber a confirmation email to the email address given at the time of registration.
-
-Subject to the other conditions of the Terms, subscription to the Deezer HiFi Service will become effective only once DEEZER sends the aforementioned confirmation email. DEEZER recommends that the Subscriber saves and/or prints out this email.
-
-The Subscriber can change the password given on his/her account at any time by clicking the “My information” section.
-
-The Subscriber agrees to inform DEEZER, without delay, of any change or update to the information provided at the time of subscribing to the Deezer HiFi Service and any change in his/her email address or bank details in particular. The Subscriber can change any of his/her information at any time on his/her account on the Site by clicking the “My information” section.
-
-The Subscriber must immediately inform DEEZER of any loss or unauthorised use of his/her account, identification details or password. The passwords and identification details are personal and the Subscriber undertakes not to disclose them. As a result, the Subscriber is solely responsible for their use.
-
-The Subscriber is solely liable for the consequences arising from the misuse of his/her account by the Subscriber himself/herself or by a third party who has accessed the Subscriber’s account due to the Subscriber’s fault or negligence, and as a result, the Subscriber acknowledges that DEEZER and all its partners, co-contracting party(ies) or rights-holders cannot be held liable in this regard.
-
-### Article 8 – Price
-
-The subscription price is stated on the Site or in the Application and is inclusive of all taxes.
-
-DEEZER has the right to change the price of all subscription offers from time to time. DEEZER will inform each Subscriber by email to the address provided by the Subscriber at the time of subscription to the Deezer HiFi Service (or as subsequently updated on his/her account) of any price increase at least 15 (fifteen) days before it comes into effect. If the Subscriber does not accept this increase, he/she can cancel his/her subscription pursuant to Article 5.4 above; such cancellation will be come into effect on the next monthly subscription due date. If the Subscription is not cancelled, the new price will apply to the Subscriber from the following monthly subscription payment due date.
-
-Any increase in the rate of VAT (Value Added Tax) will be passed on automatically and immediately in the price of the Deezer HiFi Service. The same will apply in the event of any new tax based on the price of the Deezer HiFi Service and applicable to DEEZER. The conditions for cancellation applicable in the event of a change in price of the Deezer HiFi Service mentioned above will apply under the same conditions in the event of a price change arising from an increase in or the creation of new taxes.
-
-Subscribers are reminded that the connection and communication (Internet) costs relating to the use of the Deezer HiFi Service are not borne by DEEZER and are payable solely by the Subscriber.
-
-### Article 9 – Payment of the price
-
-Various payment methods are offered on the Site (credit cards, prepaid cards, PayPal and/or other payment methods).
-
-Depending on the subscription period chosen by the Subscriber, the Subscription price is paid either monthly or annually. The first payment will be made at the time of subscription, and thereafter payments will be made at the beginning of each month or year, by direct debit, until the subscription is cancelled, whether cancellation is initiated by the Subscriber or DEEZER.
-
-For optimised transaction security, DEEZER has chosen the payment systems of various companies with which it has entered into agreements. The guarantees given by DEEZER in terms of transaction security are identical to those obtained by DEEZER from these payment service providers.
-
-Unless the Subscriber provides evidence to the contrary, the computerised records kept within the computer systems of DEEZER and its partners in conditions of reasonable security will be treated as proof of communications, orders, validations and payments that have taken place between the Subscriber and DEEZER. This information shall be treated as valid proof between the Subscriber and DEEZER unless the Subscriber is able to provide written proof to the contrary.
-
-### Article 10 – Subscriber liability
-
-i) Each Subscriber can post messages, information and/or comments on the Site and the desktop Application. The Subscriber is solely liable for any messages, content or information published by him/her on the Site or desktop Application; DEEZER is considered to be an Internet service-hosting provider only and cannot be held liable for the content published by the Users on the Site or desktop Application, over which DEEZER has no control or supervision.
-
-To avoid being held liable, the Subscriber expressly agrees to ensure that any message published by him/her on the Site or desktop Application complies with the following requirements (this list is not exhaustive):
-
-\- Does not infringe third party intellectual property rights; the Subscriber therefore agrees not to publish content on the Site or desktop Application that is protected under copyright law, a registered trademark or more generally any content protected by any other intellectual property rights held by third parties without the prior consent of the owner or owners of said rights;
-
-\- Contains no computer virus able to interrupt, destroy or affect the Site or desktop Application’s features;
-
-\- Does not celebrate crime or criminal behaviour or contain illegal or threatening messages or content of a paedophile, pornographic, defamatory, obscene, hateful, racist, anti-Semitic, xenophobic or revisionist nature or contrary to public order and good manners;
-
-\- Does not infringe any right to privacy or promote disrespect for human dignity;
-
-\- Does not encourage violence, fanaticism, crime, suicide or hatred linked to religion, race, sex, sexual preferences or ethnicity;
-
-\- Does not harass other Users;
-
-\- Does not promote or encourage any criminal activity or enterprise;
-
-\- Does not request and/or disclose passwords and/or personal information for commercial or illegal purposes;
-
-\- Does not transmit email chains, mass unsolicited emails, instant messages, advertising messages and spam messages;
-
-\- Contains no advertising and/or canvassing in order to offer products and/or services to sell through the Site or the Application;
-
-\- Contains no addresses or Internet links transferring to an external website the content of which violates any applicable law and/or regulation, infringes third party rights or is in breach of the Terms.
-
-ii) The Subscriber agrees not to use any automated system such as scripts for the purpose of adding Users to his/her User account and/or sending comments or messages.
-
-iii) If the Subscriber breaches any law or infringes any third-party rights, DEEZER has the right to provide any information enabling or facilitating the identification of the offender at the request of any legal authority (courts, administrative authorities and police forces).
-
-### Article 11 – Disclaimer of warranties
-
-The Subscriber declares that he has been informed of the scope and limitations of the Internet network.
-
-As a result, DEEZER disclaims all liability for any malfunction in access to the Deezer HiFi Service, the speed at which the pages of the Site or Application open and can be read, the listening speed of any tracks, the temporary or permanent inaccessibility of the Deezer HiFi Service, and the fraudulent use by third parties of the information provided on the Site or Application.
-
-It is therefore the Subscriber’s duty to protect his/her equipment against any form of intrusion and/or virus contamination, for which DEEZER can never be held liable. DEEZER can never be held liable for any malfunction of or damage caused to the Subscriber’s equipment.
-
-More broadly, DEEZER disclaims any liability if a breach of any obligation results from acts of nature, forces, or causes beyond its reasonable control, including, without limitation, Internet failures, computer equipment failures, telecommunication equipment failures, other equipment failures, electrical power failures, strikes, labour disputes, riots, insurrections, civil disturbances, shortages of labour or materials, fires, floods, storms, explosions, acts of God, war, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties, or loss of or fluctuations in heat, light or air conditioning and more broadly any unstoppable and unforeseen event which prevents orders being carried out successfully.
-
-DEEZER disclaims all liability should it transpire that the Deezer HiFi Service is incompatible with certain equipment and/or features of the Subscriber’s equipment.
-
-Finally, the Subscriber is solely liable for his/her use of the Service and cannot hold DEEZER liable for any claim and/or proceedings against him/her in this regard. The Subscriber shall be responsible for any claim, complaint or objection and more broadly any proceedings brought against DEEZER by a third party in relation to the Subscriber’s use of the Deezer HiFi Service.
-
-### Article 12 – Intellectual property
-
-The general structure of the Site, the Application, the Deezer HiFi Service and all elements composing it (such as but not limited to the logos, domain names, tracks or videos, and their associated elements such as the photos, images, texts and biography of the authors, artists and/or any legal beneficiary on the tracks or videos, as well as the visuals on the packaging) are the exclusive property of DEEZER and/or its licensors (notably the record and video producers, the record companies, authors’ rights societies, etc.).
-
-These elements are protected by intellectual property law and other laws, and particularly copyright. The Subscriber may only use these elements for the purpose of using the Deezer HiFi Service, in accordance with the Terms.
-
-Any representation of all or part of the Site, the Application, the Deezer HiFi Service and/or the elements composing them (as described above), by any means, without the express consent of DEEZER, is therefore forbidden and would be treated as an infringement punishable by law.
-
-Any hyperlink to the Site and use of the “framing” technique (a programming technique that makes it possible to divide browser windows into separate frames in order to display the content of an external website) or the “in-line linking” technique (programming to make one element extracted from another site disappear into a web page, which saves storage space on the hard drive on which the Site is hosted and makes it possible to hide the initial content of which the element is part from an uninformed user) is strictly prohibited. Any unfair use of a DEEZER account (such use for instance aiming to artificially or abnormally increase the number of times certain specific music tracks are played), by any automated processes such as robots and scripts or any other means, is strictly prohibited.
-
-The Recordings made available on the Deezer HiFi Service are digital files protected by national and international copyright and related rights. They may only therefore be listened to within a private or family setting. Any use for a non-private purpose will render the Subscriber liable to civil and/or criminal proceedings. Any other use of the Recordings is strictly forbidden and more particularly any download or attempt to download, any transfer or attempt to transfer whether permanently or temporarily onto the hard drive of a computer or any other device (music players in particular), any ripping or burning or attempt to rip or burn any file or files onto a CD or any other medium is expressly forbidden. Any resale, exchange or renting of these files is strictly prohibited.
-
-The Subscriber acknowledges that the Recordings made available to him/her within the Site and Application are protected by protective technical measures set up by DEEZER in order to prevent or limit, depending on the technology offered, the unauthorised use of the Recordings.
-
-The Subscriber agrees not to bypass these protective technical measures by any means, for the purpose of downloading these files and enabling them to be stored on his/her reception terminal regardless of what that is (computer, mobile phone, music player or other portable music disc player, etc.).
-
-### Article 13 – Suspension and/or cancellation initiated by DEEZER or the Subscriber
-
-Without prejudice to any damages that DEEZER may claim, DEEZER has the right to suspend access to the Deezer HiFi Service by a Subscriber and/or cancel his/her subscription to the Deezer HiFi Service without notice or compensation, in the event that the Subscriber:
-
-\- Does not comply with the Terms and especially:
-
-* Fails to give due regard to the intellectual property rights of DEEZER or its licensors;
-* Bypasses or attempts to bypass the protective technical measures put in place by DEEZER;
-* Uses or attempts to use multiple simultaneous connections to the same account;
-* Provides false information at the time of his/her subscription to the Deezer HiFi Service or subsequently.
-
-\- Fails to pay the subscription price in full or in part.
-
-\- Carries on activities prejudicial to DEEZER’s commercial interests.
-
-The Subscriber will be able to cancel his/her contract or subscription, without notice or compensation in favour of DEEZER, if DEEZER is in breach of its substantive obligations as defined in the Terms, or for legitimate reasons such as, in particular, his/her computer being stolen or on grounds of technical incompatibility of the Deezer HiFi Service with the Subscriber’s equipment.
-
-### Article 14 – Amendments of the Terms
-
-DEEZER has the right to amend the Terms at its sole discretion. DEEZER will inform the Subscriber by email to the email address given on the Subscriber’s account, of any amendments of the Terms at least 1 (one) month before they come into effect. If the Subscriber does not accept these amendments, he/she will be free to cancel his/her subscription from his/her account on the Site as set forth in Article 5.4 above, such cancellation becoming effective on the next monthly subscription due date. If the Subscriber does not cancel his/her subscription, the amended Terms will come into effect 1 (one) month following receipt of notification of the amendment of the Terms.
-
-### Article 15 – Community and Customer Service
-
-As part of his/her access to and use of the Deezer HiFi Service, DEEZER provides the Subscriber with a community, accessible through the deezercommunity.com website (the “Community”) where the Subscriber will in particular be able to find information regarding the Deezer HiFi Service and interact with other Subscribers.
-
-As part of the Community, the Subscriber will in particular be able to:
-
-\- consult and contribute to a forum through posts, reactions and comments;
-
-\- post images, links and other content;
-
-\- interact with other Subscribers, DEEZER’s moderators, and/or Customer Service through comments and/or private messages.
-
-Use of the Community is subject to acceptance of and compliance with its terms and conditions, available here: [https://en.deezercommunity.com/site/terms](https://en.deezercommunity.com/site/terms).
-
-As part of his/her access to and use of the Deezer HiFi Service, DEEZER also provides the Subscriber with a customer support service that can answer any questions the Subscriber might have about his/her account and the Services made available by DEEZER (the “Customer Service”).
-
-The Subscriber will be able to request information about (this list is not exhaustive):
-
-\- his/her access to and use of the Services provided by DEEZER;
-
-\- his/her account and changing his/her account information;
-
-\- his/her subscriptions and payments.
-
-The Subscriber can contact DEEZER through the Site by clicking on the “[Contact us](https://www.deezer.com/support)” section or writing to the following address:
-
-Deezer  
-24 rue de Calais 75009 Paris  
-FRANCE  
-
-Customer Service will make every effort to respond to such requests within a reasonable timeframe, but can make no guarantees or warranties of any kind that such requests will be handled within a timeframe corresponding to the Subscriber’s expectations, or that the Subscriber will be fully satisfied with the response.
-
-### Article 16 – Invalidity of any clause
-
-Should any of the clauses of the Terms be declared void or voidable for any reason, the other clauses will still apply without any modification.
-
-### Article 17 – Jurisdiction – Claims and disputes
-
-These Terms are governed by the law of the country where the Subscriber has his/her habitual residence.
-
-Any claim relating to the application of these Terms of Use must be emailed to Customer Service via the Site by clicking the link [http://www.deezer.com/support](http://www.deezer.com/support), or sent by post to Deezer – Customer Service – 24 rue de Calais 75009 Paris – FRANCE, for prompt processing.
-
-For Subscribers residing in a member state of the European Union, should a claim made by a Subscriber not be resolved by Customer Service or remain without response for more than two (2) months following receipt by Customer Service, the Subscriber may choose to submit the dispute to an out-of-court settlement procedure through the European platform for alternative and online dispute resolution at the following link: [https://webgate.ec.europa.eu/odr/](https://webgate.ec.europa.eu/odr/).
-
-In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are commenced. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Subscriber has his/her habitual residence.
+In the event of a dispute, the parties will try to reach an amicable agreement before any legal proceedings are initiated. If no amicable agreement can be reached, any claim regarding the validity, interpretation and/or execution of the Terms shall be brought before the court of the country where the Deezer User has his/her habitual residence.
