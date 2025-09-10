@@ -120,7 +120,7 @@ Le Client dispose d’un droit de rétractation de quatorze (14) jours suivant l
 Toute rétractation de commande doit être notifiée par tous moyens et notamment :  
   
 \- par téléphone au 01 43 12 03 33 (depuis la France, prix d’un appel local) ou au + 33 1 43 12 04 44 (depuis l’étranger), du lundi au vendredi de 9h00 à 18h00,  
-\- soit en utilisant le formulaire-type de rétractation en cliquant sur le lien [ici](https://www.comptoirdescotonniers.com/on/demandware.store/Sites-CDC-FR-Site/fr_FR/Page-CGV)  
+\- soit en utilisant le formulaire-type de rétractation en cliquant sur le lien [ici](https://www.comptoirdescotonniers.com/on/demandware.store/Sites-CDC-FR-Site/fr/Page-CGV)  
   
 Votre formulaire de rétractation est à renvoyer selon les modalités prévues dans le formulaire. **7.2 Modalités de retour**
 
