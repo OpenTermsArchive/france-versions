@@ -342,7 +342,7 @@ Dans le cadre d’un Trajet en Covoiturage, et après acceptation manuelle ou au
 
 **5.4.2. Versement de la Participation aux Frais au Conducteur**
 
-À la suite du Trajet en Covoiturage, les Passagers disposent d’un délai de 24 heures pour présenter une réclamation à BlaBlaCar. En l’absence de contestation de leur part dans cette période, BlaBlaCar considère la confirmation du Trajet comme acquise.
+À la suite du Trajet en Covoiturage, les Passagers disposent d’un délai d'1 heure pour présenter une réclamation à BlaBlaCar. En l’absence de contestation de leur part dans cette période, BlaBlaCar considère la confirmation du Trajet comme acquise.
 
 À compter de cette confirmation expresse ou tacite, vous disposez, en tant que Conducteur, d’un crédit exigible sur votre Compte. Ce crédit correspond au montant total payé par le Passager au moment de la confirmation de la Réservation diminué des Frais de Service, c’est-à-dire au montant de la Participation aux Frais payée par le Passager.
 
