@@ -1,3 +1,5 @@
+[< retour](https://www.etam.com/)
+
 CHARTE DE CONFIDENTIALITE DES DONNÉES PERSONNELLES
 ==================================================
 
