@@ -63,7 +63,7 @@
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
     * [Coach](https://www.printemps.com/fr/fr/coach)
-    * [Maison 123](https://www.printemps.com/fr/fr/maison123-femme)
+    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
     * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
     * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
@@ -79,7 +79,7 @@
     * [Most wanted](https://www.printemps.com/fr/fr/most-wanted)
     * [les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
     * [Back to work](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
-*  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) SAISON 1865 X CAHU](https://www.printemps.com/fr/fr/collaboration)
+*  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) Saison 1865 x Cahu](https://www.printemps.com/fr/fr/collaboration)
     
 
 * [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
@@ -242,7 +242,7 @@
     * [Prada](https://www.printemps.com/fr/fr/prada-homme)
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-homme)
     * [Moncler](https://www.printemps.com/fr/fr/moncler-homme)
-    * [Givenchy](https://www.printemps.com/fr/fr/givenchy-homme)
+    * [Our Legacy](https://www.printemps.com/fr/fr/ourlegacy-homme)
     * [K-Way](https://www.printemps.com/fr/fr/k-way-homme)
     * [Alexander McQueen](https://www.printemps.com/fr/fr/alexander-mcqueen-homme)
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
