@@ -63,7 +63,7 @@
     * [Prada](https://www.printemps.com/fr/fr/nouveautes/mrk/PRADA)
     * [Marc Jacobs](https://www.printemps.com/fr/fr/nouveautes/mrk/MARC+JACOBS)
     * [Coach](https://www.printemps.com/fr/fr/coach)
-    * Essentiel Antwerp
+    * [Essentiel Antwerp](https://www.printemps.com/fr/fr/essentiel-antwerp-femme)
     * [Ba&sh](https://www.printemps.com/fr/fr/bash-femme)
     * [Givenchy Beauty](https://www.printemps.com/fr/fr/givenchy)
     * [Boss](https://www.printemps.com/fr/fr/hugo-boss)
