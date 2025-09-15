@@ -318,7 +318,7 @@
     * [Parfums de Marly](https://www.printemps.com/fr/fr/parfums-de-marly-beaute)
     * [Marc-Antoine Barrois](https://www.printemps.com/fr/fr/marc-antoine-barrois-beaute)
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
-*  [![](https://media-cdn.printemps.com/image/82/3/8348823.jpg) BRUME ORPIN](https://www.printemps.com/fr/fr/brume-orpin-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-brume-orpin)
+*  [![](https://media-cdn.printemps.com/image/93/8/8415938.jpeg) VOYAGES IMAGINAIRES](https://www.printemps.com/fr/fr/voyages-imaginaires-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-voyages-imaginaires)
     
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
