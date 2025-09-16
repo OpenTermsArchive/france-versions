@@ -1,4 +1,4 @@
-### Date d’entrée en vigueur : 21 août 2025
+### Date d’entrée en vigueur : 15 septembre 2025
 
 Conditions générales de transport
 =================================
@@ -66,9 +66,7 @@ ARTICLE 1 - DÉFINITIONS
 
 **Irlande**
 
-**Date d’entrée en vigueur : 21 août 2025**
-
-  
+**Date d’entrée en vigueur : 15 septembre 2025**
 
 « **Nous** », « **notre** » **et** « **nous-mêmes** » désignent Ryanair DAC, Airside Business Park, Swords, Co Dublin, Ireland.
 
@@ -447,6 +445,7 @@ ARTICLE 7 REFUS DU TRANSPORT
 * Vous avez refusé de passer un contrôle de sécurité.
 * Vous n’avez pas payé les tarifs, taxes ou frais nécessaires.
 * Vous nous devez de l’argent concernant un vol précédent (Services liés au vol), en raison d’un paiement ayant été détourné, refusé ou nous étant facturé à nouveau
+* Nous avons des raisons de soupçonner que vous avez escroqué ou tenté d’escroquer le Groupe Ryanair.
 * Vous n’êtes pas en possession de documents de voyage valides ;
 * Vous essayez peut-être d’entrer dans un pays pour prendre un vol de correspondance ou pour lequel vous n’êtes pas en possession de documents de voyage valides ;
 * Vous avez détruit vos documents de voyage pendant un vol ; ou 
@@ -925,9 +924,11 @@ Une telle suspicion sera basée sur les raisons suivantes :
 * Vous, ou le titulaire de la carte, avez déjà participé à une activité frauduleuse liée à un paiement au Groupe Ryanair.
 * Toute information fournie lors de la réservation est incorrecte, inadaptée, incohérente et notre logiciel de détection de fraude a identifié votre réservation comme suspecte.
 
-**13.7.2** Les soupçons/présomptions ci-dessus sont réfutables.  
+**13.7.2** Les soupçons/présomptions ci-dessus sont réfutables.
 
-**13.7.3** Afin de respecter les nouvelles exigences réglementaires de l’UE visant à réduire la fraude et à augmenter la sécurité de vos transactions de paiement en ligne, à compter du 01 janvier 2021, vous devrez fournir des informations supplémentaires d’authentification à l’étape de paiement afin d’approuver votre paiement en ligne (authentification forte du client). Pour plus d’informations, veuillez contacter la banque émettrice de votre carte. 
+**13.7.3** Si nous avons des raisons de soupçonner que vous avez escroqué ou tenté d’escroquer le Groupe Ryanair, nous pouvons refuser de vous transporter, ainsi que vos bagages (ou les deux), en vertu de la clause 7.  
+
+**13.7.4** Afin de respecter les nouvelles exigences réglementaires de l’UE visant à réduire la fraude et à augmenter la sécurité de vos transactions de paiement en ligne, à compter du 01 janvier 2021, vous devrez fournir des informations supplémentaires d’authentification à l’étape de paiement afin d’approuver votre paiement en ligne (authentification forte du client). Pour plus d’informations, veuillez contacter la banque émettrice de votre carte. 
 
 ARTICLE 14 – RESPONSABILITÉ EN CAS DE DOMMAGES
 ==============================================
