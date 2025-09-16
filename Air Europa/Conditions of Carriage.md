@@ -474,7 +474,7 @@ Disponible, sauf pour certains objets de valeur.
 
 **9.** **Collecte et livraison de bagages enregistrés**
 
-(a) Conformément au point 6 paragraphe (c), les passagers doivent récupérer leurs bagages dès que ceux-ci sont disponibles au lieu de destination ou d'escale. Si le passager ne récupère pas ses bagages dans un délai raisonnable, Air Europa peut lui facturer un montant raisonnable au titre de consigne. Si les bagages ne sont pas réclamés au bout de trois (3) mois à compter du moment où ils sont disponibles, Air Europa peut en disposer sans assumer de responsabilité vis-à-vis du passager.
+(a) Conformément au point 6 paragraphe (c), les passagers doivent récupérer leurs bagages dès que ceux-ci sont disponibles au lieu de destination . En cas de billet avec vol de correspondance ou avec escales, les bagages doivent être enregistrés et remis au passager à la destination finale. Si le passager ne récupère pas ses bagages dans un délai raisonnable, Air Europa peut lui facturer un montant raisonnable au titre de consigne. Si les bagages ne sont pas réclamés au bout de trois (3) mois à compter du moment où ils sont disponibles, Air Europa peut en disposer sans assumer de responsabilité vis-à-vis du passager.
 
 (b) Seul la personne qui détient le bordereau et l'étiquette d'identification des bagages est autorisée à récupérer les bagages enregistrés.
 
@@ -486,7 +486,7 @@ Disponible, sauf pour certains objets de valeur.
 
 Si Air Europa accepte de transporter des animaux, le transport de ces animaux est soumis aux conditions suivantes :
 
-(a) Les passagers doivent veiller à ce que les animaux tels que les chiens, les chats, les oiseaux domestiques et autres animaux de compagnie soient convenablement mis en cage et soient munis des certificats de santé et de vaccination valables, des permis d'entrée et autres documents requis par les pays d'entrée ou de transit ; en l'absence de présentation des documents requis, le transport de ces animaux n'est pas admis. Ce transport peut être soumis aux conditions supplémentaires spécifiées par Air Europa et disponibles sur demande ;
+(a) Les passagers doivent s'assurer que les animaux, tels que les chiens et les chats, sont correctement placés en cage et disposent des certificats de santé et de vaccination valides, des autorisations d'entrée ainsi que des autres documents exigés par les pays de destination ou de transit. En l'absence de présentation des documents requis, le transport de ces animaux ne sera pas accepté. Ce transport peut être soumis à des conditions supplémentaires spécifiées par Air Europa et disponibles sur demande.
 
 (b) Si les animaux sont acceptés comme bagages, avec leur cage et leur nourriture, ils ne sont pas inclus dans la franchise de bagages du passager, mais constituent un excédent de bagages pour lequel le passager doit payer le tarif applicable à ce titre ;
 
@@ -495,6 +495,8 @@ Si Air Europa accepte de transporter des animaux, le transport de ces animaux es
 (d) Lorsque le transport n'est pas soumis aux règles de responsabilité de la loi applicable, Air Europa ne sera pas responsable des lésions, pertes, maladies ou décès d'un animal qu'elle a accepté de transporter, sauf si la compagnie a commis une négligence.
 
 (e) Air Europa n'assume aucune responsabilité à l'égard d'un animal qui ne possède pas tous les documents de sortie, d'entrée, de santé et autres documents nécessaires à l'entrée ou au transit de cet animal par tout pays, État ou territoire, et la personne qui l'a emporté doit rembourser Air Europa pour toute amende, coût, perte ou toute responsabilité raisonnablement imposée ou engagée par Air Europa en conséquence.
+
+(f) Air Europa n'autorise pas le transport des animaux de soutien émotionnel, sauf si la législation applicable au contrat de transport l'y oblige expressément.
 
 #### 
 
