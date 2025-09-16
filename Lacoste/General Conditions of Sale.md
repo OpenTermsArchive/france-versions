@@ -116,7 +116,186 @@ Nos frais d'expédition sont les suivants :
 
 Paiement et défaut de paiement
 
-1\. Le paiement de vos produits devra être effectué en une fois par carte bancaire (Visa, Matercard, American Express) ou Paypal, ou en plusieurs fois via la solution Klarna, en suivant les indications figurant sur la page concernant le paiement. Pour plus de détail sur le paiement de votre commande en plusieurs fois, nous vous invitons à consulter nos FAQ. 2. Le paiement complet du prix, y compris les frais d'expédition et tous frais supplémentaires pour des services que vous aurez commandés, sera débité de votre carte bancaire ou de votre compte Paypal, après vérification de la disponibilité des produits commandés, au moment ou peu de temps avant l'expédition des produits chez vous. Nous ne vous livrerons les produits que si votre paiement est effectif. 3. En cas de commande «Retrait 1H en Boutique Lacoste» passée via le Site Web ou en cas de commande « Livraison par coursier» passée par téléphone ou visioconférence, votre carte bancaire ou votre compte Paypal sera débité(e) au profit de Lacoste France (SAS au capital de 328.575 euros, n° RCS 307 258 301, sise 31-37 boulevard de Montmorency, 75016 Paris) à compter du moment où vous prendrez possession du/des produit(s) commandé(s), au sein de la Boutique Lacoste que vous aurez sélectionnée ou du lieu de livraison que vous aurez indiqué. 4. Vous confirmez que la carte bancaire utilisée est la vôtre. Tous les détenteurs de cartes bancaires sont soumis à des contrôles de validation et à l'autorisation par l'émetteur de la carte. Si l'émetteur de votre carte refuse d'autoriser le paiement, nous serons en droit de refuser de procéder à la livraison de votre commande et ne serons pas responsables de tout retard ou de toute absence de livraison. Nous vous enverrons un courriel pour vous informer du refus. 5. Vos données bancaires seront traitées de manière sécurisée, conformément à notre Déclaration de Protection de la Vie Privée, que vous pouvez consulter en cliquant [ici](https://www.lacoste.com/fr/privacy.html). 6. Les coordonnées de la carte de crédit utilisée pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
+1\. Le paiement de vos produits devra être effectué en une fois par carte bancaire (Visa, Matercard, American Express) ou Paypal, ou en plusieurs fois via la solution Klarna, ou en carte cadeau Lacoste, en suivant les indications figurant sur la page concernant le paiement. Pour plus de détail sur le paiement de votre commande en plusieurs fois, nous vous invitons à consulter nos FAQ.
+
+  
+
+2\. Le paiement complet du prix, y compris les frais d'expédition et tous frais supplémentaires pour des services que vous aurez commandés, sera débité de votre carte bancaire ou de votre compte Paypal, après vérification de la disponibilité des produits commandés, au moment ou peu de temps avant l'expédition des produits chez vous. Nous ne vous livrerons les produits que si votre paiement est effectif.
+
+  
+
+3\. En cas de commande «Retrait 1H en Boutique Lacoste» passée via le Site Web ou en cas de commande « Livraison par coursier» passée par téléphone ou visioconférence, votre carte bancaire ou votre compte Paypal sera débité(e) au profit de Lacoste France (SAS au capital de 328.575 euros, n° RCS 307 258 301, sise 31-37 boulevard de Montmorency, 75016 Paris) à compter du moment où vous prendrez possession du/des produit(s) commandé(s), au sein de la Boutique Lacoste que vous aurez sélectionnée ou du lieu de livraison que vous aurez indiqué.
+
+  
+
+4\. Vous confirmez que la carte bancaire utilisée est la vôtre. Tous les détenteurs de cartes bancaires sont soumis à des contrôles de validation et à l'autorisation par l'émetteur de la carte. Si l'émetteur de votre carte refuse d'autoriser le paiement, nous serons en droit de refuser de procéder à la livraison de votre commande et ne serons pas responsables de tout retard ou de toute absence de livraison. Nous vous enverrons un courriel pour vous informer du refus.
+
+  
+
+5\. Vos données bancaires seront traitées de manière sécurisée, conformément à notre Déclaration de Protection de la Vie Privée, que vous pouvez consulter en cliquant [ici](https://www.lacoste.com/fr/privacy.html).
+
+  
+
+6\. Les coordonnées de la carte de crédit utilisée pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
+
+Conditions générales d'utilisation des cardes cadeaux
+
+La carte cadeau Lacoste, désignée comme **« Carte Cadeau »** est une carte prépayée physique ou digitale émise par nos réseaux de distribution qui contient une valeur monétaire et qui peut être utilisée comme **moyen de paiement** au sein des boutiques Lacoste situées en France métropolitaine et en Corse (ci-après dénommées les « Boutiques ») ainsi que sur le site internet Lacoste.com/fr (ci-après dénommé le « Site »).
+
+  
+
+Les présentes Conditions Générales de Vente régissent la **vente des Cartes Cadeaux digitales et physiques et leur utilisation**.
+
+  
+
+Lacoste s'autorise à modifier ces Conditions générales à tout moment, afin notamment de respecter la législation en vigueur, de les adapter aux modèles de vente de Lacoste et/ou pour des raisons techniques. Toute utilisation de la Carte Cadeau après modification des Conditions Générales de Vente emporte leur pleine et entière acceptation dans leur nouvelle version.
+
+  
+
+**DUREE DE VALIDITE DE LA CARTE CADEAU**
+
+  
+
+* Carte Cadeau achetée en Boutique : **valable un (1) an à compter de sa date d'achat**.
+* Carte Cadeau digitale : **valable un (1) an à compter de son activation** via le lien dédié transmis par e-mail.
+
+  
+
+La durée de validité de la Carte Cadeau ne pourra être prolongée, même dans l'hypothèse où le solde de celle-ci n'aurait pas été utilisé en totalité. Le solde de la Carte Cadeau non utilisé à la date d'expiration sera définitivement perdu sans qu'aucune réclamation ni contestation ne puisse être formulée à ce titre.
+
+  
+
+**UTILISATION D'UNE CARTE CADEAU**
+
+  
+
+Vous pouvez utiliser votre Carte Cadeau physique ou digitale pour l'achat de tous les articles disponibles à la vente (sauf pour l'achat de Cartes Cadeaux) en ligne sur le Site ainsi qu'au sein des Boutiques Lacoste.
+
+  
+
+Trouvez la Boutique la plus proche sur : https://www.lacoste.com/fr/stores
+
+  
+
+* La Carte Cadeau peut être créditée d'un montant libre entre **5€ et 500€**.
+* Elle est utilisable en **une ou plusieurs fois jusqu'à épuisement du solde**, dans la limite de sa validité.
+* Un moyen de paiement complémentaire peut être ajouté si le solde ne couvre pas l'achat.
+* Le paiement se fait automatiquement à hauteur du solde disponible.
+
+  
+
+Sur le site Lacoste.com, **une seule Carte Cadeau** peut être utilisée par achat.
+
+En boutique, plusieurs Cartes Cadeaux peuvent être **cumulées dans la limite de 1000 €**.
+
+  
+
+Tous les achats effectués avec une Carte Cadeau sont soumis aux **Conditions Générales de Vente** en vigueur.
+
+  
+
+L'achat et l'utilisation de carte cadeau sont réservés aux **consommateurs non professionnels**.
+
+La **revente** de Cartes Cadeaux est **interdite**.
+
+  
+
+**REMBOURSEMENT DES ACHATS EFFECTUÉS AVEC UNE CARTE CADEAU**
+
+  
+
+* Le montant remboursé est recrédité **sous forme d'une nouvelle Carte Cadeau**.
+* Aucun remboursement en liquide, sauf disposition légale.
+* En cas de remboursement partiel, une nouvelle Carte Cadeau est émise pour le montant correspondant.
+
+  
+
+**PROPRIETE ET RESPONSABILITE**
+
+  
+
+La propriété de la Carte Cadeau vous est transférée lors de l’achat dans nos réseaux de distribution et les risques liés à la perte de celle-ci vous sont transférés lors de la transmission physique ou digitale de votre Carte Cadeau. Le titulaire de la Carte Cadeau en est responsable
+
+  
+
+Lacoste peut bloquer ou désactiver une Carte Cadeau dans les cas suivants :
+
+  
+
+1\. Suspicion d'utilisation frauduleuse ou illicite.
+
+2\. Non-respect des présentes Conditions Générales.
+
+3\. Utilisation trompeuse, abusive ou préjudiciable.
+
+  
+
+Vous êtes responsable de la protection des éléments de votre Carte (code-barres, numéro, PIN).
+
+  
+
+En cas de **perte ou vol** :
+
+* Lacoste peut bloquer temporairement la Carte Cadeau avec preuve d'achat.
+* Lacoste n'a aucune obligation de remplacement.
+* Seul le solde disponible au moment de la déclaration peut être recrédité sous forme d'une nouvelle Carte.
+
+  
+
+**DROITS D'ANNULATION ET DE REVOCATION**
+
+  
+
+En cas de non-respect des Conditions, ou en cas d'utilisation frauduleuse/trompeuse, Lacoste pourra désactiver la Carte Cadeau ou refuser une transaction.
+
+  
+
+**GESTION DE VOS DONNEES PERSONNELLES**
+
+  
+
+Les données personnelles collectées sont traitées conformément à la **politique de confidentialité** disponible sur Lacoste.com
+
+  
+
+**RECLAMATIONS EVENTUELLES**
+
+  
+
+En cas de réclamation, vous pouvez contacter Lacoste via le formulaire : www.lacoste.com/fr/contactus
+
+  
+
+**NON-RENONCIATION**
+
+  
+
+Le fait de ne pas agir au titre des présentes Conditions ne constitue pas une renonciation au droit d'agir, sauf renonciation expresse et écrite.
+
+  
+
+**STIPULATIONS GENERALES**
+
+  
+
+* Ces Conditions Générales sont disponibles uniquement en français.
+* Elles remplacent toute version antérieure à compter du 16/09/2025.
+* Régies par le **droit français**.
+* Si une stipulation est jugée invalide, les autres restent applicables.
+
+  
+
+**MARQUES ET CONTACTS**
+
+  
+
+**LACOSTE** et le **CROCODILE** sont des marques déposées de **Lacoste S.A.**
+
+  
+
+Téléphone : (+33) 02 46 94 80 09
+
+Formulaire de contact :www.lacoste.com/fr/contactus
 
 Facturation
 
