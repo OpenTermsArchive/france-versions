@@ -1499,7 +1499,7 @@ Les passagers nécessitant les types d’assistance répertoriés ci-dessous doi
 
 **Type d’assistance (BDGR)** Passager voyageant avec un chien guide/d’assistance nécessitant un déambulateur dans l’aéroport (départ et arrivée) pour se rendre jusqu’à son siège à bord de l’avion, ainsi que des consignes de sécurité particulières de la part du personnel de cabine.  
 
-**Type d’assistance (PETC)** Passager voyageant avec un chien guide/d’assistance, mais ne nécessitant aucun service d’assistance aérienne spécifique.  
+**Type d’assistance (SVAN)** Passager voyageant avec un chien guide/d’assistance, mais ne nécessitant aucun service d’assistance aérienne spécifique.  
 
 **Passagers à mobilité réduite ou handicapés en cabine**  
 
