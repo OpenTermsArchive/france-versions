@@ -54,8 +54,6 @@
 *  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) Saison 1865 x Cahu](https://www.printemps.com/fr/fr/collaboration)
     
 
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -139,8 +137,6 @@
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
 
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-homme)
-    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -392,9 +388,11 @@
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
     * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
     * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
     * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
     * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
     * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
     * [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
     * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
@@ -402,6 +400,7 @@
     * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [Exposition Sac](https://www.printemps.com/fr/fr/edito-magasins-exposition-sac-printemps-haussmann)
