@@ -120,6 +120,8 @@
     * [Back to work : les indispensables](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
     * [Les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-femme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
+    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -197,6 +199,8 @@
     * [Bombers](https://www.printemps.com/fr/fr/bomber-homme)
     * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-homme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-homme)
+    
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
