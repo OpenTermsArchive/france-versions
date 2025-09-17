@@ -120,6 +120,8 @@
     * [Back to work : les indispensables](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
     * [Les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-femme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
+    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -197,6 +199,8 @@
     * [Bombers](https://www.printemps.com/fr/fr/bomber-homme)
     * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-homme)
+* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-homme)
+    
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
@@ -429,9 +433,11 @@
 * [Nos magasins](https://www.printemps.com/fr/fr/magasins)
     * [Trouver mon magasin](https://www.printemps.com/fr/fr/magasins)
     * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
+    * [Printemps Deauville](https://www.printemps.com/fr/fr/printemps-deauville)
     * [Printemps Haussmann](https://www.printemps.com/fr/fr/printemps-paris-haussmann)
     * [Printemps Grand Var](https://www.printemps.com/fr/fr/printemps-toulon)
     * [Printemps La Valentine](https://www.printemps.com/fr/fr/printemps-marseille-la-valentine)
+    * [Printemps Les Terrasses du Port](https://www.printemps.com/fr/fr/printemps-marseille-terrasses-port)
     * [Printemps Lille](https://www.printemps.com/fr/fr/printemps-lille)
     * [Printemps Lyon](https://www.printemps.com/fr/fr/printemps-lyon)
     * [Printemps Nation](https://www.printemps.com/fr/fr/printemps-paris-nation)
@@ -439,6 +445,7 @@
     * [Printemps Parly 2](https://www.printemps.com/fr/fr/printemps-paris-parly-2)
     * [Printemps Rennes Alma](https://www.printemps.com/fr/fr/printemps-rennes)
     * [Printemps Rouen](https://www.printemps.com/fr/fr/printemps-rouen)
+    * [Printemps Vélizy 2](https://www.printemps.com/fr/fr/printemps-paris-velizy-2)
 
 * [Actualités magasins](https://www.printemps.com/fr/fr/edito-magasins)
     * [Dolce vita, l'Italie au Printemps](https://www.printemps.com/fr/fr/landing-dolce-vita?ap_source=anico&ap_medium=navigation&ap_campaign=landing-branding-dolce)
