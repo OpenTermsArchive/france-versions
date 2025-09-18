@@ -146,7 +146,7 @@
     * [Chemises](https://www.printemps.com/fr/fr/chemises-homme)
     * [Sweats & Hoodies](https://www.printemps.com/fr/fr/sweats-hoodies-homme)
     * [Mailles Et Pulls](https://www.printemps.com/fr/fr/mailles-pulls-homme)
-    * [Polos](https://www.printemps.com/fr/fr/polos)
+    * Polos
     * [Pantalons](https://www.printemps.com/fr/fr/pantalons-homme)
     * [Jeans](https://www.printemps.com/fr/fr/jeans-homme)
     * [Shorts](https://www.printemps.com/fr/fr/shorts-homme)
