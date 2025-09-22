@@ -443,8 +443,8 @@ Pour les billets réservés au tarif résident corse :
 
 * (d) En cas de non-présentation du passager à l'enregistrement, ce dernier aura droit au remboursement des taxes d’aéroport et de la redevance passager, conformément à l'article L.224-66 du Code de la consommation, quel que soit le tarif applicable au billet.  
     Pour les billets réservés au tarif résident corse, l’utilisation d’un seul coupon de vol n'est pas autorisée.
-    * **Si le vol aller n’a pas été utilisé :** Le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident, sur un aller simple.
-    * **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
+* **Si le vol aller n’a pas été utilisé** : le passager pourra utiliser le vol retour uniquement après réajustement du tarif au tarif non-résident sur un aller simple. Sinon il aura la possibilité d’acheter un nouveau billet en aller simple.Le passager obtiendra le remboursement des taxes et redevances aéroportuaires de son billet résident initial inutilisé sur le vol aller en formulant une demande sur notre site internet [Contact | Air Corsica](https://www.aircorsica.com/la-compagnie/nous-contacter.html)
+* **Si le vol retour n’a pas été utilisé :** Le remboursement des taxes et redevances aéroportuaires du vol retour pourra être effectué uniquement après réajustement à un tarif non-résident pour le vol aller simple effectué.
 
 ### Article 7 - Enregistrement / Embarquement
 
