@@ -120,8 +120,6 @@
     * [Back to work : les indispensables](https://www.printemps.com/fr/fr/edito-style-back-to-work-looks)
     * [Les tendances de la rentrée](https://www.printemps.com/fr/fr/edito-style-tendance-rentree-2025)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-femme)
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-femme)
-    
 * [Tout l'univers femme](https://www.printemps.com/fr/fr/femme)
     
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
@@ -199,8 +197,6 @@
     * [Bombers](https://www.printemps.com/fr/fr/bomber-homme)
     * [Tailoring](https://www.printemps.com/fr/fr/tailoring-homme)
     * [Saison 1865 x Cahu](https://www.printemps.com/fr/fr/saison1865-homme)
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance-homme)
-    
 * [Offres du moment](https://www.printemps.com/fr/fr/offres-et-promos)
     
 * [Tout l'univers homme](https://www.printemps.com/fr/fr/homme)
@@ -290,34 +286,6 @@
     * [Toutes les marques beauté](https://www.printemps.com/fr/fr/marques-beaute)
 *  [![](https://media-cdn.printemps.com/image/93/8/8415938.jpeg) VOYAGES IMAGINAIRES](https://www.printemps.com/fr/fr/voyages-imaginaires-beaute?ap_source=anico&ap_medium=nav-beaute&ap_campaign=vignette-voyages-imaginaires)
     
-
-* [Last chance : jusqu'à -50%](https://www.printemps.com/fr/fr/last-chance)
-    
-* [FEMME](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-femme)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-femme/esp/Sacs)
-    * [Sacs à main](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+%C3%A0+main)
-    * [Sacs bandoulière](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Sacs+bandouli%C3%A8re)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-femme/esp/V%C3%AAtements)
-    * [Robes](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Robes)
-    * [Tops et t-shirts](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Tops+et+t-shirts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-femme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Baskets)
-    * [Bijoux](https://www.printemps.com/fr/fr/last-chance-femme/cat0/Bijoux)
-
-* [HOMME](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Voir tout](https://www.printemps.com/fr/fr/last-chance-homme)
-    * [Vêtements](https://www.printemps.com/fr/fr/last-chance-homme/esp/V%C3%AAtements)
-    * [Chemises](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Chemises)
-    * [T-shirts et polos](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Tops+et+t-shirts)
-    * [Pantalons](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Pantalons)
-    * [Shorts](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Shorts)
-    * [Chaussures](https://www.printemps.com/fr/fr/last-chance-homme/esp/Chaussures)
-    * [Baskets](https://www.printemps.com/fr/fr/last-chance-homme/cat0/Baskets)
-    * [Sacs](https://www.printemps.com/fr/fr/last-chance-homme/esp/Sacs)
-    * [Accessoires](https://www.printemps.com/fr/fr/last-chance-homme/esp/Accessoires)
-    * [Luxe](https://www.printemps.com/fr/fr/last-chance-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS/BALMAIN)
 
 * [FEMME](https://www.printemps.com/fr/fr/marques-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/marques-femme)
