@@ -1,5 +1,44 @@
 [Jacquemus](https://www.printemps.com/fr/fr/jacquemus-femme) [Sandro](https://www.printemps.com/fr/fr/sandro-femme) [Polo Ralph Lauren](https://www.printemps.com/fr/fr/poloralphlauren) [Marc Jacobs](https://www.printemps.com/fr/fr/marc-jacobs-femme) [Yves Saint Laurent](https://www.printemps.com/fr/fr/yves-saint-laurent-beaute)
 
+* [\-20% découvrir la sélection](https://www.printemps.com/fr/fr/selection-french-days-printemps)
+    
+* [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    
+* [Dernière chance](https://www.printemps.com/fr/fr/selection-french-days-printemps/sld/-20%25/-30%25/-35%25/-40%25/-50%25/-45%25)
+    
+* [Nos coups de cœur French Days](https://www.printemps.com/fr/fr/edito-actu-french-days-printemps)
+    
+
+* [Femme](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    * [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Sacs](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Sacs)
+    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Chaussures)
+    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/V%C3%AAtements)
+    * [Vestes et manteaux](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Manteaux/Vestes)
+    * [Mailles et pulls](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Mailles+et+pulls)
+    * [Hauts](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Chemises/Tops+et+t-shirts)
+    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/esp/Accessoires)
+    * [Bijoux](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme/cat0/Bijoux)
+
+* [Homme](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    * [Luxe](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/mrk/ALEXANDER+MCQUEEN/BALENCIAGA/BURBERRY/CHLO%C3%89/COPERNI/COURR%C3%88GES/GIVENCHY/GUCCI/JACQUEMUS/BOTTEGA+VENETA/JIMMY+CHOO/MAISON+MARGIELA/MIU+MIU/MOSCHINO/OFF-WHITE/LANCEL/PRADA/VERSACE/RICK+OWENS/AMI+PARIS)
+    * [Vêtements](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/V%C3%AAtements)
+    * [Hauts](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Tops+et+t-shirts/Chemises)
+    * [Vestes et manteaux](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Vestes/Manteaux)
+    * [Pantalons](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Pantalons)
+    * [Chaussures](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Chaussures)
+    * [Baskets](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/cat0/Baskets)
+    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme/esp/Accessoires)
+
+* [Beauté](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    * [Voir tout](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    * [Parfums](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Parfum)
+    * [Soins](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Soin)
+    * [Maquillage](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Maquillage)
+    * [Accessoires](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute/esp/Accessoires)
+
 * [FEMME](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Voir tout](https://www.printemps.com/fr/fr/nouveautes-femme)
     * [Sacs](https://www.printemps.com/fr/fr/nouveautes-femme/esp/Sacs)
@@ -54,6 +93,8 @@
 *  [![](https://media-cdn.printemps.com/image/30/4/8367304.jpg) Saison 1865 x Cahu](https://www.printemps.com/fr/fr/collaboration)
     
 
+* [French Days : -20% au panier](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-femme)
     * [Luxe et créateurs](https://www.printemps.com/fr/fr/luxe-et-createurs)
@@ -136,7 +177,11 @@
     * [Tommy Hilfiger](https://www.printemps.com/fr/fr/tommyhilfiger-femme)
     * [Jimmy Choo](https://www.printemps.com/fr/fr/jimmy-choo-femme)
     * [Miu Miu](https://www.printemps.com/fr/fr/miu-miu-femme)
+* [![](https://media-cdn.printemps.com/image/03/2/8436032.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-femme)
+    
 
+* [French Days : -20% au panier](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    
 * [VÊTEMENTS](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Voir Tout](https://www.printemps.com/fr/fr/tout-vetement-homme)
     * [Vestes](https://www.printemps.com/fr/fr/vestes-homme)
@@ -216,7 +261,11 @@
     * [Autry](https://www.printemps.com/fr/fr/autry-homme)
     * [Calvin Klein](https://www.printemps.com/fr/fr/calvinklein-homme)
     * [BOSS](https://www.printemps.com/fr/fr/hugo-boss-homme)
+* [![](https://media-cdn.printemps.com/image/03/2/8436032.jpg)](https://www.printemps.com/fr/fr/selection-french-days-printemps-homme)
+    
 
+* [French Days : -20% au panier](https://www.printemps.com/fr/fr/selection-french-days-printemps-beaute)
+    
 * [PARFUMS](https://www.printemps.com/fr/fr/parfum)
     * [Voir Tout](https://www.printemps.com/fr/fr/parfum)
     * [Eaux De Toilette Et Parfum](https://www.printemps.com/fr/fr/eaux-de-toilette)
