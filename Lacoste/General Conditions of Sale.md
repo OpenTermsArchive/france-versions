@@ -138,9 +138,9 @@ Paiement et défaut de paiement
 
 6\. Les coordonnées de la carte de crédit utilisée pour le paiement de votre commande sont susceptibles d'être sauvegardées de manière sécurisée. Le cryptogramme visuel au dos de la carte est systématiquement requis pour pouvoir utiliser la carte lors d'un achat ultérieur et vous conservez la possibilité de supprimer la carte de crédit sauvegardée de la liste proposée lors de l'étape de paiement.
 
-Conditions générales d'utilisation des cardes cadeaux
+Conditions générales d'utilisation des cartes cadeau
 
-La carte cadeau Lacoste, désignée comme **« Carte Cadeau »** est une carte prépayée physique ou digitale émise par nos réseaux de distribution qui contient une valeur monétaire et qui peut être utilisée comme **moyen de paiement** au sein des boutiques Lacoste situées en France métropolitaine et en Corse (ci-après dénommées les « Boutiques ») ainsi que sur le site internet Lacoste.com/fr (ci-après dénommé le « Site »).
+**La carte cadeau Lacoste**, désignée comme **« Carte Cadeau »** est une carte prépayée physique ou digitale émise par nos réseaux de distribution qui contient une valeur monétaire et qui peut être utilisée comme **moyen de paiement** au sein des boutiques Lacoste situées en France métropolitaine et en Corse (ci-après dénommées les « Boutiques ») ainsi que sur le site internet Lacoste.com/fr (ci-après dénommé le « Site »).
 
   
 
@@ -162,6 +162,16 @@ Lacoste s'autorise à modifier ces Conditions générales à tout moment, afin n
   
 
 La durée de validité de la Carte Cadeau ne pourra être prolongée, même dans l'hypothèse où le solde de celle-ci n'aurait pas été utilisé en totalité. Le solde de la Carte Cadeau non utilisé à la date d'expiration sera définitivement perdu sans qu'aucune réclamation ni contestation ne puisse être formulée à ce titre.
+
+  
+
+**RESEAU DE DISTRIBUTION DES CARTES CADEAU**
+
+  
+
+* En boutique Lacoste en format physique.
+* Sur les sites de distribution partenaires en format digital.
+* L'achat de carte cadeau Lacoste sur le Site n'est pas disponible.
 
   
 
