@@ -9,7 +9,7 @@ La présente charte (la "Charte") détaille la politique d’Etam Lingerie SA et
 
 Etam, en sa qualité de responsable de traitement, attache une grande importance à la protection et au respect de votre vie privée. Etant donné qu’il s’agit d’un sujet important, nous vous invitons à lire la Charte attentivement dans son intégralité pour connaître et comprendre nos pratiques quant aux traitements de vos données personnelles. Cette Charte édicte les règles relatives aux données à caractère personnel de tous nos clients et prospects, quel que soit le canal de collecte de ces données.
 
-Quand nous faisons référence à notre Plateforme, nous visons un des canaux et/ou moyens numériques, et/ou physiques, que vous pouvez utiliser pour interagir avec nous via le site internet, [www.etam.com](https://www.etam.com/www.etam.com) (le "Site"), l’application mobile, les magasins physiques d’Etam, par courrier ou par téléphone.
+Quand nous faisons référence à notre Plateforme, nous visons un des canaux et/ou moyens numériques, et/ou physiques, que vous pouvez utiliser pour interagir avec nous via le site internet, [www.etam.com](https://www.etam.com/) (le "Site"), l’application mobile, les magasins physiques d’Etam, par courrier ou par téléphone.
 
 Etam Connect désigne le programme de fidélité proposé par la société Etam Lingerie et dont les conditions générales d’utilisation sont disponibles au lien suivant : [https://www.etam.com/EtamConnect.html](https://www.etam.com/EtamConnect.html)
 
